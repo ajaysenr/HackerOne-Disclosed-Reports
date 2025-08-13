@@ -1,6 +1,6 @@
 # 🔒 HackerOne Disclosed Reports
 
-A collection of publicly disclosed HackerOne vulnerability reports. Quickly find all XSS, SQLi, or other specific vulnerability types by searching through report titles.
+A collection of publicly disclosed HackerOne vulnerability reports. Quickly find all XSS, SQLi or other specific vulnerability types by searching through report titles.
 
 ## 📊 Statistics
 
