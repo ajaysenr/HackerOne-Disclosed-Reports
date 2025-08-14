@@ -8691,3 +8691,76 @@ https://hackerone.com/reports/2148242 | CVE-2023-38546: cookie injection with no
 https://hackerone.com/reports/2171494 | Subdomain Takeover on mozaws.net
 https://hackerone.com/reports/2180018 | Information Disclosure FrontPage Configuration Information
 https://hackerone.com/reports/2230842 | Title: Deceptive Manipulation of HTTP to HTTPS with VPN in Burp Suite
+https://hackerone.com/reports/2230915 | Bruteforce protection in password verification can be bypassed
+https://hackerone.com/reports/2231019 | CVE-2023-5528: Insufficient input sanitization in in-tree storage plugin leads to privilege escalation on Windows nodes
+https://hackerone.com/reports/2231261 | Elasticsearch is currently open without authentication on  https://██████l
+https://hackerone.com/reports/2233418 | Unathenticated file read (CVE-2020-3452) 
+https://hackerone.com/reports/2233421 | XSS in Cisco Endpoint
+https://hackerone.com/reports/2233480 | Access to internal info via Graphql on https://tng-api.watsons.com.my
+https://hackerone.com/reports/2233486 | http: Reading unprocessed HTTP request with unbounded chunk extension allows DoS attacks
+https://hackerone.com/reports/2234420 | Text Injection/ Content Spoofing on  https://cloud.e.khanacademy.org  by breaking out of input tag.
+https://hackerone.com/reports/2234564 | Client Side Template Injection to Stored XSS in Image Collection
+https://hackerone.com/reports/2234736 | Session Doesn't expire after 2fa and also other session can change passsword 
+https://hackerone.com/reports/2236133 | CVE-2023-46219: HSTS long file name clears contents
+https://hackerone.com/reports/2237099 | HTTP Request Smuggling via Content Length Obfuscation
+https://hackerone.com/reports/2237545 | Code injection and privilege escalation through Linux capabilities
+https://hackerone.com/reports/2241266 | [hackerone.com] Program's old handles are not blacklisted like usernames and allows reclaim over past handles for potential abuse
+https://hackerone.com/reports/2243003 | Information Exposure due to enabled debug mode
+https://hackerone.com/reports/2243710 | Cookie headers are not cleared in cross-domain redirect in undici-fetch
+https://hackerone.com/reports/2244229 | Cross-Domain Leakage of X Username / UserID due to  Dynamically Generated JS File
+https://hackerone.com/reports/2245437 | App PIN code can be bypassed in Files iOS
+https://hackerone.com/reports/2246576 | Self XSS in  Tag name pattern field /<username>/<reponame>/settings/tag_protection/new 
+https://hackerone.com/reports/2247231 | Unauthorized access to Argo dashboard on █████
+https://hackerone.com/reports/2247457 | Can download files by zipping the folder
+https://hackerone.com/reports/2248116 | Able to see highest poll result without voting or view result
+https://hackerone.com/reports/2248328 | RCE on Wordpress website
+https://hackerone.com/reports/2248689 | Authentication bypass in Global Site Selector allows an attacker to log in as any user
+https://hackerone.com/reports/2248781 | Unauthenticated File Read Adobe ColdFusion
+https://hackerone.com/reports/2249299 | CVE-2023-47037: Airflow Broken Access Control Vulnerability
+https://hackerone.com/reports/2250398 | Non-admin users can reset app allowlist to the default
+https://hackerone.com/reports/2251074 | Improper handling of request URLs in nextcloud/guests allows guest users to bypass app allowlist
+https://hackerone.com/reports/2251191 | RXSS via region parameter
+https://hackerone.com/reports/2252307 | Buffer overflow and affected url:-https://github.com/curl/curl/blob/master/docs/examples/hsts-preload.c
+https://hackerone.com/reports/2254151 | Notes app can be tricked into using a received share created before the user logged in
+https://hackerone.com/reports/2255750 | Remote code execution and exfiltration of secret tokens by poisoning the mozilla/fxa CI build cache
+https://hackerone.com/reports/2255968 | CVE-2023-46132
+https://hackerone.com/reports/2256032 | SQL injection at ███████
+https://hackerone.com/reports/2256167 | Path traversal through path stored in Uint8Array in Node.js 20
+https://hackerone.com/reports/2256548 | Exposure of account recovery hint by querying by user email
+https://hackerone.com/reports/2257080 | Stored-XSS injected in Wiki page via Banzai pipeline
+https://hackerone.com/reports/2257156 | Improper handling of wildcards in --allow-fs-read and --allow-fs-write
+https://hackerone.com/reports/2257374 | Bypassing x profile verification to receive instant blue checkmark and unlimited profile changes
+https://hackerone.com/reports/2258758 | CVE-2023-46695: Potential denial of service vulnerability in UsernameField on Windows
+https://hackerone.com/reports/2258950 | Timeline API returns private post when target of a push notification
+https://hackerone.com/reports/2259914 | Multiple permission model bypasses due to improper path traversal sequence sanitization
+https://hackerone.com/reports/2260337 | Permissions can be bypassed via arbitrary code execution through abusing libuv signal pipes
+https://hackerone.com/reports/2261577 | MozillaVPN: Elevation of Privilege via a Race Condition Vulnerability
+https://hackerone.com/reports/2261600 | CSRF to delete a pet on ██████
+https://hackerone.com/reports/2262365 | Default Admin Username and Password on ███
+https://hackerone.com/reports/2262382 | Server Side Request Forgery (SSRF) via Analytics Reports
+https://hackerone.com/reports/2262554 | Critical Unauthenticated Access to Sensitive Employee and Customer Data Including Invoice Details at ████
+https://hackerone.com/reports/2262939 | Misconfiguration in AWS CloudFront CDN configuration makes rubygems.org serve (and cache) content from a unclaimed S3-bucket
+https://hackerone.com/reports/2263044 | Open redirect in user_saml via RelayState parameter
+https://hackerone.com/reports/2263294 | Cloud Computer Hackerone Triager can be Accessible for everyone [h1_analyst_lucas+view@wearehackerone.com] computer
+https://hackerone.com/reports/2264960 | Unrestricted Access to Celery Flower Instance
+https://hackerone.com/reports/2264982 | Port 587 SMPT Open: Can send any mail remotely from the internal mail users to company mail id's.
+https://hackerone.com/reports/2265400 | Web Cache Deception
+https://hackerone.com/reports/2265413 | Open Redirect on ███████
+https://hackerone.com/reports/2266081 | Blind SQL Injection on █████ via URI Path
+https://hackerone.com/reports/2269177 | Node.js is vulnerable to the Marvin Attack (timing variant of the Bleichenbacher attack against PKCS#1 v1.5 padding)
+https://hackerone.com/reports/2269867 | Subdomain takeover on one of the subdomain under mozaws.net
+https://hackerone.com/reports/2269989 | Authentication Bypass to (CVE-2023-2982)
+https://hackerone.com/reports/2270225 | OpenSSL vulnerable to the Marvin Attack (CVE-2022-4304)
+https://hackerone.com/reports/2270633 | Web API key registration allows registering multiple keys by reusing `request_id` 
+https://hackerone.com/reports/2271054 | DoS in bigdecimal's sqrt function due to miscalculation of loop iterations
+https://hackerone.com/reports/2271095 | ASAR Integrity bypass via filetype confusion
+https://hackerone.com/reports/2274981 | curl cookie mixed case PSL bypass
+https://hackerone.com/reports/2278865 | Some limited confidential information can still be accessed after a user exits a private program
+https://hackerone.com/reports/2279010 | A user with only [MODIFY_SETTINGS] permmision could takeover any user accounts
+https://hackerone.com/reports/2279041 | Changing the administrator password via admin console does not invalidate other sessions
+https://hackerone.com/reports/2279346 | CSP bypass on PortSwigger.net using Google script resources
+https://hackerone.com/reports/2279572 | HTTP Response Header Injection in shopify/pitchfork + Rack 3
+https://hackerone.com/reports/2279759 | curl HSTS long file name clears contents 
+https://hackerone.com/reports/2280279 | total Failure of password protection while extracting seed phrase! increases attack surface area for scammers
+https://hackerone.com/reports/2280391 | Possibility of Request smuggling attack
+https://hackerone.com/reports/2280863 | RXSS on TikTok endpoints
