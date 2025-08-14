@@ -8764,3 +8764,21 @@ https://hackerone.com/reports/2279759 | curl HSTS long file name clears contents
 https://hackerone.com/reports/2280279 | total Failure of password protection while extracting seed phrase! increases attack surface area for scammers
 https://hackerone.com/reports/2280391 | Possibility of Request smuggling attack
 https://hackerone.com/reports/2280863 | RXSS on TikTok endpoints
+https://hackerone.com/reports/2284065 | Denial of Service by resource exhaustion in fetch() brotli decoding
+https://hackerone.com/reports/2285198 | How the Arch Angel stole Live Events
+https://hackerone.com/reports/2285286 | Subdomain takeover on one of the subdomain under mozaws.net
+https://hackerone.com/reports/2286745 | Authentication Bypass on TikTok Seller Signup Process Allows Account Creation Without Phone Verification
+https://hackerone.com/reports/2286764 | Avatar URL is exposed in patron export for secret donations
+https://hackerone.com/reports/2286867 | Subdomain takeover on one of the subdomain under mozaws.net
+https://hackerone.com/reports/2287098 | Subdomain takeover on one of the subdomain under mozaws.net
+https://hackerone.com/reports/2289333 | see card comments after remove shared board
+https://hackerone.com/reports/2289425 | Can reshare read&share only folder with more permissions
+https://hackerone.com/reports/2289836 | Account Takeover / Arbitrary File read and deletion / Partial code execution (intent redirection)
+https://hackerone.com/reports/2290680 | Re-emergence of Security Vulnerability in Nextcloud Version 28 Previously Fixed in 25.0.4
+https://hackerone.com/reports/2291999 | An attacker can submit arbitrary projects to their service accounts and obtain full information on projects of other users.
+https://hackerone.com/reports/2292236 | Improper Authentication on Alertmanager instance
+https://hackerone.com/reports/2293343 | Account Takeover via Password Reset without user interactions
+https://hackerone.com/reports/2293731 | Command Injection using malicious hostname in expanded proxycommand
+https://hackerone.com/reports/2294709 | CVE-2023-49920: Apache Airflow: Missing CSRF protection on DAG/trigger
+https://hackerone.com/reports/2294930 | ███ leaking PII of tour visitors (names, email addresses, phone numbers) via misconfigured record permissions
+https://hackerone.com/reports/2295958 | Exploitable live argument in onClick Function leads to Data Leakage of Inactive/Suspended Products
