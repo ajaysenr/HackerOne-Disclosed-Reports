@@ -8782,3 +8782,44 @@ https://hackerone.com/reports/2293731 | Command Injection using malicious hostna
 https://hackerone.com/reports/2294709 | CVE-2023-49920: Apache Airflow: Missing CSRF protection on DAG/trigger
 https://hackerone.com/reports/2294930 | ███ leaking PII of tour visitors (names, email addresses, phone numbers) via misconfigured record permissions
 https://hackerone.com/reports/2295958 | Exploitable live argument in onClick Function leads to Data Leakage of Inactive/Suspended Products
+https://hackerone.com/reports/2297561 | Resource Injection - [████████]
+https://hackerone.com/reports/2298307 | Buffer Overflow Vulnerability in WebSocket Handling
+https://hackerone.com/reports/2298922 | CVE-2024-0853: OCSP verification bypass with TLS session reuse
+https://hackerone.com/reports/2299069 | xmlrpc.php &wp-cron.php files are enabled, and will used for (DDOS),(DOS) and broutforce users attack.
+https://hackerone.com/reports/2299529 | HTML Injection on TikTok Ads
+https://hackerone.com/reports/2299571 | Employee-only Area Bypass
+https://hackerone.com/reports/2299692 | Request Smuggling in Apache Tomcat (Important, CVE-2023-45648)
+https://hackerone.com/reports/2300358 | SSRF in https://couriers.indrive.com/api/file-storage
+https://hackerone.com/reports/2301565 | Server Side Request Forgery (SSRF) in webhook functionality
+https://hackerone.com/reports/2303609 | XSS when using `translate` in Action Controller (Rails 7.0, 7.1)
+https://hackerone.com/reports/2306491 | Stored-XSS-ads.tiktok.com
+https://hackerone.com/reports/2307225 | Path traversal by drive name in Windows environment
+https://hackerone.com/reports/2307625 | Code injection in Nextcloud Desktop Client for macOS
+https://hackerone.com/reports/2307813 | DoS with crafted "Range" header
+https://hackerone.com/reports/2307913 | RXSS in ███ via S parameter  
+https://hackerone.com/reports/2307933 | Datadog api keys exposed can be used to do all the read and write access to the instance
+https://hackerone.com/reports/2308491 | XSS in Aspera documentation website
+https://hackerone.com/reports/2308654 | Sensitive Information Exposed at █████
+https://hackerone.com/reports/2309291 | CVE-2023-41763 Business Elevation of Privilege vulnerability on [.mtn.com]
+https://hackerone.com/reports/2310620 | New Hacktivity features:Bounty rewards leakage Where programs doesn’t decide to disclose bounty in limited disclosure report
+https://hackerone.com/reports/2312029 | View Titles of Private Reports with pending email invitation
+https://hackerone.com/reports/2312217 | Revocation API Token by Bypassing The XSRF Token
+https://hackerone.com/reports/2312320 | Weak Email Verification: Newly Registered Users Can Bypass Email Verification Step and Log In
+https://hackerone.com/reports/2312334 | Time based SQL injection at████████
+https://hackerone.com/reports/2312609 | Full Access to sonarQube and Docker
+https://hackerone.com/reports/2313478 | CSRF resulting in adding pet at ███████
+https://hackerone.com/reports/2315026 | Transactions in invalid blocks are kept in tx-pool without undergoing certain checks.
+https://hackerone.com/reports/2315420 | Email OTP/2FA Bypass
+https://hackerone.com/reports/2319584 | "Assertion failed" in node::http2::Http2Session::~Http2Session() leads to HTTP/2 server crash
+https://hackerone.com/reports/2319586 | Broken Access Control(Horizontal Privilege Escalation).
+https://hackerone.com/reports/2321874 | DOM Based Reflected Cross Site Scripting
+https://hackerone.com/reports/2322082 | Being able to disclose IBB bounty table of any public program
+https://hackerone.com/reports/2322663 | Insecure direct Object Reference(Horizontal Escalation)
+https://hackerone.com/reports/2323292 | Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via RCE in actions-console
+https://hackerone.com/reports/2323303 | Program admins could add verified domains to an organization
+https://hackerone.com/reports/2325023 | Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via RCE in ghe-update-check
+https://hackerone.com/reports/2326194 | Argo CD CSRF leads to Kubernetes cluster compromise
+https://hackerone.com/reports/2327238 | Lack of Tenant Scoping Enables Limited Cross-Tenant Data Querying and Mutation
+https://hackerone.com/reports/2327341 | CVE-2024-21733 Apache Tomcat HTTP Request Smuggling (Client- Side Desync) (CWE: 444)
+https://hackerone.com/reports/2329466 | Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via RCE in syslog-ng
+https://hackerone.com/reports/2329547 | Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via RCE in collectd
