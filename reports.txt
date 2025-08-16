@@ -8823,3 +8823,80 @@ https://hackerone.com/reports/2327238 | Lack of Tenant Scoping Enables Limited C
 https://hackerone.com/reports/2327341 | CVE-2024-21733 Apache Tomcat HTTP Request Smuggling (Client- Side Desync) (CWE: 444)
 https://hackerone.com/reports/2329466 | Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via RCE in syslog-ng
 https://hackerone.com/reports/2329547 | Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via RCE in collectd
+https://hackerone.com/reports/2331473 | Open Redirect via Non-Latin Subdomain in vcc-*.8x8.com/AGUI/█.php
+https://hackerone.com/reports/2332551 | Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via nomad template injection
+https://hackerone.com/reports/2332623 | Management Console Editor Privilege Escalation to Root SSH Access in GitHub Enterprise Server via nomad template injection and audit-forward
+https://hackerone.com/reports/2332728 | CORS Misconfiguration on  █████
+https://hackerone.com/reports/2334401 | Denial of Service caused by HTTP/2 CONTINUATION Flood
+https://hackerone.com/reports/2334420 | Improper Authentication (Login without Registration with any user) at ████
+https://hackerone.com/reports/2334446 | CVE-2018-6389 exploitation - using scripts loader
+https://hackerone.com/reports/2334455 | Path traversal in AcitveStorage, and lead RCE
+https://hackerone.com/reports/2334460 | Pickle deserialization vulnerability in XComs
+https://hackerone.com/reports/2336236 | Privilege Escalation to Root SSH Access via Pre-Receive Hook Environment in GitHub Enterprise Server
+https://hackerone.com/reports/2337427 | Authentication Bypass with usage of PreSignedURL
+https://hackerone.com/reports/2337938 | Cleartext Transmission of password via Email
+https://hackerone.com/reports/2338094 | RPC service DOS
+https://hackerone.com/reports/2338285 | XSS Refelected on jazz.net
+https://hackerone.com/reports/2340833 | Apache Airflow: Bypass permission verification to read code of other dags
+https://hackerone.com/reports/2341038 | Account takeover using reset password link
+https://hackerone.com/reports/2341063 | CVE-2024-0853: OCSP verification bypass with TLS session reuse
+https://hackerone.com/reports/2342461 | Improper Access Controls(Admin Path)
+https://hackerone.com/reports/2343548 | XSS in IBM InfoCenter
+https://hackerone.com/reports/2352676 | cookie is sent on redirect
+https://hackerone.com/reports/2352957 | Proxy-Authorization header is not cleared in cross-domain redirect in undici
+https://hackerone.com/reports/2352968 | Reflected XSS on Pangle Endpoint 
+https://hackerone.com/reports/2353131 | Xss  Parameter: /<s>/[*]/<s>.css ████████
+https://hackerone.com/reports/2353185 | Xss  - ███
+https://hackerone.com/reports/2353237 | Infromation Disclosure To Use of Hard-coded Cryptographic Key
+https://hackerone.com/reports/2354136 | Attacker can Add itself as admin user and can also change privileges of Existing Users [█████████]
+https://hackerone.com/reports/2354888 | unsubscribe anyone from all ████████ emails @ █████
+https://hackerone.com/reports/2356104 | Parâmetro XSS: Nome de usuário - █████████
+https://hackerone.com/reports/2357012 | Inadequate redaction exposes sensitive information via the “ShareReportViaEmail" GraphQL endpoint
+https://hackerone.com/reports/2357113 | Unauthorized Access to Offline Publication Cover Pages via SOURCE_DOCUMENT_ID
+https://hackerone.com/reports/2357443 | RC Between GitHub's Repo Update REST API and updateTeamsRepository GraphQL Mutation Results in Covert and Persistent Admin Access Retention
+https://hackerone.com/reports/2357778 | Unrestricted File Upload at ██████████
+https://hackerone.com/reports/2370002 | Information Disclosure
+https://hackerone.com/reports/2370578 | DBMS information getting exposed publicly on -- [ ██████████ ]
+https://hackerone.com/reports/2370955 | LLM03: Training Data Poisoning via ASCII decoding 
+https://hackerone.com/reports/2371019 | DOM XSS on multiple Automattic domains through postMessages
+https://hackerone.com/reports/2372018 | Non Org Admin/Group Manager can create groups in an organization
+https://hackerone.com/reports/2372332 | Multiple XSS and open HTTP redirection
+https://hackerone.com/reports/2372363 | LLM01: Invisible Prompt Injection
+https://hackerone.com/reports/2374730 | Broken Access Control (IDOR) in Booking Detail and Bids Could Leads to Sensitive Information Disclosure
+https://hackerone.com/reports/2375446 | http: Reading unprocessed HTTP request with unbounded chunk extension allows DoS attacks
+https://hackerone.com/reports/2375659 | CVE-2010-1429 JBoss Insecure Storage of Sensitive Information on ips.mtn.co.ug
+https://hackerone.com/reports/2375666 | CVE-2018-0296 Cisco ASA Denial of Service & Path Traversal vulnerable on [mtn.co.ug]
+https://hackerone.com/reports/2376900 | Attachments folder for Text app is accessible on Files Drop/Password protected shares
+https://hackerone.com/reports/2376909 | Possible to enumerate valid files in password protected shares/files drop shares as well as spam folder with files
+https://hackerone.com/reports/2376929 | ID4me feature of OpenID connect app available even when disabled 
+https://hackerone.com/reports/2377760 | fetch with integrity option is too lax when algorithm is specified but hash value is in incorrect
+https://hackerone.com/reports/2380084 | paypal client_id And stripe api key indexed on web archive
+https://hackerone.com/reports/2381253 | Ability to identify actual private from sandboxed programs using link hackerone.com/$handle/terms_acceptance_data.csv
+https://hackerone.com/reports/2381816 | IDOR - Leaking of team data (name, email, ID, member ID) via POST /api/v1/graphql  `FetchMemberships` operation
+https://hackerone.com/reports/2382120 | Creation of bounties through Customer API leads to private email disclosure
+https://hackerone.com/reports/2382484 | IDOR on Delete Email address features
+https://hackerone.com/reports/2383092 | Source Code and data exfiltration via Github Copilot
+https://hackerone.com/reports/2383486 | Insecure S3 Bucket Exposing Git Directory in Mozilla Foundation Infographics Project
+https://hackerone.com/reports/2384833 | CVE-2024-2004: Usage of disabled protocol
+https://hackerone.com/reports/2387297 | Bypass Email Verification on Add Email Monitoring
+https://hackerone.com/reports/2387458 | CSP Bypass and escalation of https://hackerone.com/reports/2279346
+https://hackerone.com/reports/2387600 | CVE-2022-21371:  Oracle WebLogic Server Local File Inclusion
+https://hackerone.com/reports/2389565 | Action Text XSS (Rails 7.1.x)
+https://hackerone.com/reports/2389897 | Reflected xss on ████████ 
+https://hackerone.com/reports/2390009 | Proxy-Authorization header is not cleared in cross-domain redirect in undici
+https://hackerone.com/reports/2393021 | Upload profile photo and  Pets addition - IDOR
+https://hackerone.com/reports/2396549 | Privilege Escalation - A Non Owner User Who Does not Have access to the user management can invite other users to the restaurant page
+https://hackerone.com/reports/2396571 | Privilege Escalation - A Low Privilege User who does not have access to the user management module can remove the owner of the business account
+https://hackerone.com/reports/2396630 | sensitive  data-creds for database - private key
+https://hackerone.com/reports/2398335 | jazz.net - publicly accessible .svn repositories
+https://hackerone.com/reports/2398630 | Subdomain takeover on one of the subdomains under mozaws.net
+https://hackerone.com/reports/2399386 | Github app(link) Takeover Listed on "https://docs.doppler.com/docs/github-actions" page
+https://hackerone.com/reports/2401359 | CVE-2024-25128: Apache Airflow: Authentication Bypass when Legacy OpenID(2.0) is in use as AUTH_TYPE
+https://hackerone.com/reports/2401648 | two aws access key and secret key and database username and password exposed 
+https://hackerone.com/reports/2402010 | Attacker can add two free bags offered by the site at the same time.
+https://hackerone.com/reports/2402193 | CVE-2024-27351: Potential regular expression denial-of-service in django.utils.text.Truncator.words()
+https://hackerone.com/reports/2402842 | Information disclosure identified on IBM endpoint. 
+https://hackerone.com/reports/2402845 | CVE-2024-2398: HTTP/2 push headers memory-leak
+https://hackerone.com/reports/2402853 | HTTP/2 PUSH_PROMISE DoS
+https://hackerone.com/reports/2403554 | XSS on LINE CAREERS
+https://hackerone.com/reports/2404415 | View any user email using the Team's audit log section
