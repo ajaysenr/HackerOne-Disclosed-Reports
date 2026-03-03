@@ -9415,3 +9415,4 @@ https://hackerone.com/reports/3133379 | CRLF Injection in `--proxy-header` allow
 https://hackerone.com/reports/3135673 | curl -OJ allows creating custom .curlrc file which allows exfiltrating private data, among other things
 https://hackerone.com/reports/3136790 | Unlock underage blocked app without support interaction using airplane mode
 https://hackerone.com/reports/3356149 | 2FA requirement bypass when inviting team members
+https://hackerone.com/reports/3580247 | Use after free in hyperfifo example
