@@ -8690,6 +8690,7 @@ https://hackerone.com/reports/2126954 | [██████] Reflected XSS via K
 https://hackerone.com/reports/2148242 | CVE-2023-38546: cookie injection with none file
 https://hackerone.com/reports/2171494 | Subdomain Takeover on mozaws.net
 https://hackerone.com/reports/2180018 | Information Disclosure FrontPage Configuration Information
+https://hackerone.com/reports/2200329 | CVE-█████-35813 in █████
 https://hackerone.com/reports/2230842 | Title: Deceptive Manipulation of HTTP to HTTPS with VPN in Burp Suite
 https://hackerone.com/reports/2230915 | Bruteforce protection in password verification can be bypassed
 https://hackerone.com/reports/2231019 | CVE-2023-5528: Insufficient input sanitization in in-tree storage plugin leads to privilege escalation on Windows nodes
