@@ -396,7 +396,7 @@ https://hackerone.com/reports/17225 | SQL injection, tile ID
 https://hackerone.com/reports/17235 | Album image XSS
 https://hackerone.com/reports/17239 | Missing HSTS (Strict Transport Security)
 https://hackerone.com/reports/17252 | All Active user sessions should be destroyed when user change his password!
-https://hackerone.com/reports/17256 | Language version disclosure in response header 
+https://hackerone.com/reports/17256 | Language version disclosure in response header
 https://hackerone.com/reports/17287 | email field doesn't filtered against XSS
 https://hackerone.com/reports/17297 | CMS Information Disclosure
 https://hackerone.com/reports/17311 | Breach Attack Vulnerability
@@ -414,7 +414,7 @@ https://hackerone.com/reports/17688 |  LZ4 Core
 https://hackerone.com/reports/17785 | Denial of Service
 https://hackerone.com/reports/18279 | Yahoo! Reflected XSS
 https://hackerone.com/reports/18371 | Directory Traversal at http://staging.jsdelivr.net/
-https://hackerone.com/reports/18382 | Using nmap revealing sensitive information 
+https://hackerone.com/reports/18382 | Using nmap revealing sensitive information
 https://hackerone.com/reports/18398 | HSTS Policy not enabled on cdn.jsdelivr.net
 https://hackerone.com/reports/18503 | Top 10 2013-A2-Broken Authentication and Session Management - wordpress.com
 https://hackerone.com/reports/18691 |  XSS in editor by any user
@@ -428,7 +428,7 @@ https://hackerone.com/reports/19532 | Missing "size check" on files to upload co
 https://hackerone.com/reports/19640 | Session Hijacking attack (Different Scenario)
 https://hackerone.com/reports/20049 | Cross-site Scripting in mailing (username)
 https://hackerone.com/reports/20122 | No option to logout concurrent sessions
-https://hackerone.com/reports/20221 | Cross Site Scripting (Stored) 
+https://hackerone.com/reports/20221 | Cross Site Scripting (Stored)
 https://hackerone.com/reports/20279 | Verbose SQL error messages
 https://hackerone.com/reports/20305 | USER Account is not being deleted after user "Delete Account" from DASHBOARD
 https://hackerone.com/reports/20391 |  m.agent.mail.ru: ĞŸĞ¾Ğ´Ğ´ĞµĞ»Ñ‹Ğ²Ğ°ĞµĞ¼ j2me app-descriptor
@@ -445,6 +445,7 @@ https://hackerone.com/reports/21150 | Flash XSS  on swfupload.swf showing at app
 https://hackerone.com/reports/21172 | Cookies are not cleared from Server side on Logout
 https://hackerone.com/reports/21210 |  privilege escalation
 https://hackerone.com/reports/21248 | Content spoofing at Stripe Integrations
+https://hackerone.com/reports/21603 | Bruteforce protection not enabled on the login page https://www.irccloud.com/
 https://hackerone.com/reports/22012 | Password reset link not validated.
 https://hackerone.com/reports/22093 | Content Spoofing all Integrations in https://team.slack.com/services/new/
 https://hackerone.com/reports/22142 | Open Redirect in WordPress Feed Statistics {Affected All Versions}
@@ -512,6 +513,7 @@ https://hackerone.com/reports/31167 | Timing Attack Side-Channel on API Token Ve
 https://hackerone.com/reports/31168 |  Cryptographic Side Channel in OAuth Library
 https://hackerone.com/reports/31171 | Weak random number generator used in concrete/authentication/concrete/controller.php
 https://hackerone.com/reports/31187 | Reflected XSS on www.bookfresh.com/index.html?view=upload_form
+https://hackerone.com/reports/31188 | Creating Unauthorized Audience Lists
 https://hackerone.com/reports/31255 | files likes of README.md is public
 https://hackerone.com/reports/31383 | Ability to see common response titles of other teams (limited)
 https://hackerone.com/reports/31408 | Adobe Flash Player Out-of-Bound Read/Write Vulnerability
@@ -526,6 +528,7 @@ https://hackerone.com/reports/32944 | MD5 used for Key-Auth signatures
 https://hackerone.com/reports/32990 | Enumeration/Guess of Private (Invited) Programs
 https://hackerone.com/reports/33018 | a stored xss in  slack integration  https://onerror.slack.com/services/import
 https://hackerone.com/reports/33091 | DOM Cross-Site Scripting ( XSS )
+https://hackerone.com/reports/33153 | Test
 https://hackerone.com/reports/33154 | Test
 https://hackerone.com/reports/33358 | test
 https://hackerone.com/reports/33432 | BROKEN AUTHENTICATION IN MOBILE VERIFICATION
@@ -534,6 +537,7 @@ https://hackerone.com/reports/33986 | Option Method Enabled on web server
 https://hackerone.com/reports/34084 |  Bad extended ascii handling in HTTP 301 redirects of t.co
 https://hackerone.com/reports/34112 | SMPT Protection not used, I can hijack your email server.
 https://hackerone.com/reports/34130 | Flash XSS на old.corp.mail.ru
+https://hackerone.com/reports/34188 | Various Low level Vulnerabilities
 https://hackerone.com/reports/34686 | Ошибка фильтрации
 https://hackerone.com/reports/34725 | XSS via Fabrico Account Name
 https://hackerone.com/reports/34917 | Bypassed or command injection
