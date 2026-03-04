@@ -563,6 +563,7 @@ https://hackerone.com/reports/36594 | New Device Confirmation, token is valid un
 https://hackerone.com/reports/36986 |  [Stored XSS] vine.co - profile page
 https://hackerone.com/reports/37108 |  Homograph attack.
 https://hackerone.com/reports/37240 | Race condition in Flash workers may cause an exploitabl​e double free
+https://hackerone.com/reports/37822 | Abuse of "Remember Me" functionality.
 https://hackerone.com/reports/38007 | Subdomain Takeover using blog.greenhouse.io pointing to Hubspot
 https://hackerone.com/reports/38012 | Stored xss in agent.qiwi.com
 https://hackerone.com/reports/38157 | [qiwi.com] Open Redirect
@@ -575,6 +576,7 @@ https://hackerone.com/reports/38615 | [connect.mail.ru] Memory Disclosure / IE X
 https://hackerone.com/reports/38778 | SQL injection in conc/index.php/ccm/system/search/users/submit
 https://hackerone.com/reports/38890 | stored XSS in concrete5 5.7.2.1
 https://hackerone.com/reports/38965 |  Phabricator Diffusion application allows unauthorized users to delete mirrors
+https://hackerone.com/reports/39139 | URL Crashing browser. {Tested on firefox, Chrome and Safari}
 https://hackerone.com/reports/39181 |  [vimeopro.com] CRLF Injection
 https://hackerone.com/reports/39250 | Missing SPF for informatica.com
 https://hackerone.com/reports/39316 | [odnoklassniki.ru] XSS via Host
@@ -622,6 +624,7 @@ https://hackerone.com/reports/44052 |  Hadoop Node available to public
 https://hackerone.com/reports/44056 | USER PRIVACY VIOLATED (PRIVATE DATA GETTING TRANSFER OVER INSECURE CHANNEL )
 https://hackerone.com/reports/44146 |  Make API calls on behalf of another user (CSRF protection bypass)
 https://hackerone.com/reports/44157 | Open Redirection Security Filter bypassed
+https://hackerone.com/reports/44202 | Poodle bleed vulnerability in cloud sub domain
 https://hackerone.com/reports/44217 |  Application XSS filter function Bypass may allow Multiple stored XSS
 https://hackerone.com/reports/44294 | Heartbleed: my.com (185.30.178.33) port 1433
 https://hackerone.com/reports/44295 | http://217.69.136.200/?p=2&c=Fetcher%20cluster&h=fetcher1.mail.ru
@@ -636,6 +639,7 @@ https://hackerone.com/reports/44727 |  Insecure Data Storage in Vine Android App
 https://hackerone.com/reports/44798 | Vimeo Search - XSS Vulnerability [http://vimeo.com/search]
 https://hackerone.com/reports/44888 | Improper way of validating a program
 https://hackerone.com/reports/45050 | [community.informatica.com] - CSRF in Private Messages allows to move user's messages to Trash
+https://hackerone.com/reports/45084 | Full account takeover via Add a New Email to account without email verified and without password confirmation.
 https://hackerone.com/reports/45368 |  ftp upload of video allows naming that is not sanitized as the manual naming
 https://hackerone.com/reports/45428 | CSRF bypass
 https://hackerone.com/reports/45484 | XSS on Vimeo
@@ -697,6 +701,7 @@ https://hackerone.com/reports/49652 | Improperly validated fields allows injecti
 https://hackerone.com/reports/49663 | URGENT - Subdomain Takeover on status.vimeo.com due to unclaimed domain pointing to statuspage.io
 https://hackerone.com/reports/49759 | Open Redirect leak of authenticity_token lead to full account take over.
 https://hackerone.com/reports/49806 | Twitter Ads Campaign information disclosure through admin without any authentication.
+https://hackerone.com/reports/49888 | Missing X-Frame-Options header
 https://hackerone.com/reports/49935 | rails-ujs will send CSRF tokens to other origins
 https://hackerone.com/reports/49974 |  The csrf token remains same after user logs in
 https://hackerone.com/reports/50134 | XSS in original referrer after follow
