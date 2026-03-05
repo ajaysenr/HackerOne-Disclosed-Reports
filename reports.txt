@@ -708,6 +708,7 @@ https://hackerone.com/reports/50134 | XSS in original referrer after follow
 https://hackerone.com/reports/50157 | Reflected Cross Site Scripting - 'puser' Parameter in login page
 https://hackerone.com/reports/50170 |  FREAK: Factoring RSA_EXPORT Keys to Impersonate TLS Servers
 https://hackerone.com/reports/50358 | files.acrobat.com stored XSS via send file
+https://hackerone.com/reports/50379 | Open redirect and reflected xss in http://youthvoices.adobe.com/community?return_url=[payload her]
 https://hackerone.com/reports/50389 | Adobe XSS
 https://hackerone.com/reports/50481 | Self Xss on File Replace
 https://hackerone.com/reports/50537 | Server Side Request Forgery in macro creation
@@ -721,6 +722,7 @@ https://hackerone.com/reports/50642 | Stored Xss in Feature Paragraph
 https://hackerone.com/reports/50645 | Stored XSS in Testimonial Position
 https://hackerone.com/reports/50656 | Stored XSS in testimonial Company
 https://hackerone.com/reports/50662 | Stored XSS In Company URL
+https://hackerone.com/reports/50703 | CSRF in login form would led to account takeover
 https://hackerone.com/reports/50752 | open redirect sends authenticity_token to any website or (ip address)
 https://hackerone.com/reports/50776 | A user can edit comments even after video comments are disabled
 https://hackerone.com/reports/50779 | Stored XSS in Bio/Quote
@@ -786,10 +788,12 @@ https://hackerone.com/reports/55911 | CSRF token fixation in facebook store app 
 https://hackerone.com/reports/56002 | Shopify android client all API request's response leakage, including access_token, cookie, response header, response body content
 https://hackerone.com/reports/56119 | Privecy Issue : view "Protected users" followers and following
 https://hackerone.com/reports/56177 | SMTP protection not used
+https://hackerone.com/reports/56182 | May cause account take over (Via invitation page)
 https://hackerone.com/reports/56385 |  Double free vulnerability in Flash Player Settings Manager (CVE-2015-0346)
 https://hackerone.com/reports/56511 |  IDOR expire other user sessions
 https://hackerone.com/reports/56626 |  Shop admin can change external login services
 https://hackerone.com/reports/56628 | Payment gateway status transferred to Shopify without authentication
+https://hackerone.com/reports/56726 | Invitation issue
 https://hackerone.com/reports/56742 | SPF whitelist of mandrill leads to email forgery
 https://hackerone.com/reports/56779 | XSS on ecommerce.shopify.com
 https://hackerone.com/reports/56793 | Missing DMARC record
