@@ -955,6 +955,7 @@ https://hackerone.com/reports/75556 | Accessing title of the report of which you
 https://hackerone.com/reports/75702 |  No rate limit which leads to "Users information Disclosure" including verfification documents etc.
 https://hackerone.com/reports/75727 | Stored Cross site scripting In developer.zendesk.com
 https://hackerone.com/reports/75936 | Security Missconfiguration in Autologin
+https://hackerone.com/reports/76303 | weak ssl cipher suites
 https://hackerone.com/reports/76307 | Self XSS Protection not used , I can trick users to insert JavaScript
 https://hackerone.com/reports/76713 |  XSS - Gallery Search Listing
 https://hackerone.com/reports/76733 | Using GET method for account login with CSRF token leaking to external sites Via Referer.
@@ -969,6 +970,7 @@ https://hackerone.com/reports/77081 |  Content Sniffing not disabled
 https://hackerone.com/reports/77221 | Open/Unvalidated Redirect Issue
 https://hackerone.com/reports/77231 | Weak Cryptographic Hash
 https://hackerone.com/reports/77319 | Full path disclosure at https://keybase.io/_/api/1.0/invitation_request.json
+https://hackerone.com/reports/77330 | Account creation code bypass
 https://hackerone.com/reports/77679 | http://217.20.144.201 privilege escalation in apache tomcat SessionEample-script
 https://hackerone.com/reports/77802 | TCP Source Port Pass Firewall
 https://hackerone.com/reports/77817 | SSRF/XSPA в форме загрузки видео по URL
@@ -1012,6 +1014,7 @@ https://hackerone.com/reports/83381 | apps.owncloud.com: Multiple reflected XSS 
 https://hackerone.com/reports/83565 | Content spoofing в http://my.mail.ru/cgi-bin/app/paymentm
 https://hackerone.com/reports/83566 | [reflected xss, pornhub.com] /blog, any
 https://hackerone.com/reports/83576 | [start.icq.com] Reflected XSS via Cookies
+https://hackerone.com/reports/83578 | owncloud.com: PermError SPF Permanent Error: Too many DNS lookups
 https://hackerone.com/reports/83585 | [riot.mail.ru] Reflected XSS in debug-mode
 https://hackerone.com/reports/83667 | apps.owncloud.com: Session Cookie in URL can be captured by hackers
 https://hackerone.com/reports/83710 | apps.owncloud.com: SSL Session cookie without secure flag set
@@ -1023,6 +1026,7 @@ https://hackerone.com/reports/84105 | demo.owncloud.org: HTTP compression is ena
 https://hackerone.com/reports/84287 |  DKIM records not present, Email Hijacking is possible
 https://hackerone.com/reports/84371 | apps.owncloud.com: Stored XSS in profile page
 https://hackerone.com/reports/84372 | owncloud.com: Account Compromise Through CSRF
+https://hackerone.com/reports/84395 | CSRF in apps.owncloud.com
 https://hackerone.com/reports/84453 | Lack of HSTS on https://apps.owncloud.com
 https://hackerone.com/reports/84581 | owncloud.com: Outdated plugins contains public exploits
 https://hackerone.com/reports/84601 | XSS and cache poisoning via upload.twitter.com on ton.twitter.com
