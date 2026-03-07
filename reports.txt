@@ -1108,7 +1108,7 @@ https://hackerone.com/reports/92353 | CSV Injection in polldaddy.com
 https://hackerone.com/reports/92453 | unauthorized access to all customers first and last name
 https://hackerone.com/reports/92472 |  Tokens from services like Facebook can be stolen
 https://hackerone.com/reports/92481 | Accessing Payments page and adding payment methods with limited access accounts
-https://hackerone.com/reports/92607 | Content spoofing on invitations page 
+https://hackerone.com/reports/92607 | Content spoofing on invitations page
 https://hackerone.com/reports/92633 | The POS Firmware is leaking the root Password which can be used for unauthorized access to the device.
 https://hackerone.com/reports/92644 | apps.owncloud.com: Referer protection Bypassed
 https://hackerone.com/reports/92716 | HackerOne Private Programs users disclosure and de-anonymous-ize
@@ -1213,12 +1213,14 @@ https://hackerone.com/reports/99686 | [w1.dwar.ru] Core Dump
 https://hackerone.com/reports/99687 | profile cover can also load external URL's
 https://hackerone.com/reports/99708 | Limited CSRF bypass.
 https://hackerone.com/reports/99857 | Request Accepts without X-CSRFToken  [ Header - Cookie ]
+https://hackerone.com/reports/99863 | From full-access account to Account Owner
 https://hackerone.com/reports/99969 | User with limited access to Index configuration can rename the Index
 https://hackerone.com/reports/100200 | Open Redirect in meeting.qiwi.com
 https://hackerone.com/reports/100500 | [tz.mail.ru] XSS в функционале авторизации
 https://hackerone.com/reports/100509 | Pre-generation of 2FA secret/backup codes seems like an unnecessary risk
 https://hackerone.com/reports/100550 | [xss, pornhub.com] /user/[username], multiple parameters
 https://hackerone.com/reports/100565 | Executing scripts on slack-files.com using SVG
+https://hackerone.com/reports/100667 | CSV Excel Macro Injection Vulnerability in export list of current users - app.shopify.com
 https://hackerone.com/reports/100755 | Reflected XSS on hi-tech.mail.ru
 https://hackerone.com/reports/100820 |  Add tweet to collection CSRF
 https://hackerone.com/reports/100829 | Stored-XSS in https://www.coinbase.com/
@@ -1304,6 +1306,7 @@ https://hackerone.com/reports/104917 | Cross-Site Scripting Reflected On Main Do
 https://hackerone.com/reports/104931 | CSRF in Connecting Pinterest Account
 https://hackerone.com/reports/105149 | directory listing in https://demo.owncloud.org/doc/
 https://hackerone.com/reports/105190 | Unsafe usage of Ruby string interpolation enabling command injection in git-fastclone
+https://hackerone.com/reports/105363 | [livechat.shopify.com] Cookie bomb at customer chats
 https://hackerone.com/reports/105419 | Cookie-Based Injection
 https://hackerone.com/reports/105434 | [rev-app.informatica.com] - XXE
 https://hackerone.com/reports/105463 | risk of having secure=false in a crossdomain.xml
@@ -1318,6 +1321,7 @@ https://hackerone.com/reports/105953 | Parameter pollution in social sharing but
 https://hackerone.com/reports/105977 | DLL Hijacking Vulnerability in GlassWireSetup.exe
 https://hackerone.com/reports/105980 | XXE at host vpn.owncloud.com
 https://hackerone.com/reports/105991 |  "Remember me" token generated when "Remember me" box unchecked
+https://hackerone.com/reports/106024 | owncloud.com: Parameter pollution in social sharing buttons
 https://hackerone.com/reports/106084 | Team Member███ associated with a Custom Group Created with 'Program Managment' only permissions can Comments on Bug Reports
 https://hackerone.com/reports/106179 | Уязвимость дает возможность видеть записи , которые предлагаются пабликам + еще
 https://hackerone.com/reports/106293 | Reflective XSS on wholesale.shopify.com
@@ -1344,6 +1348,8 @@ https://hackerone.com/reports/107336 | Team Member(s) associated with a  Group h
 https://hackerone.com/reports/107358 | reflected in xss
 https://hackerone.com/reports/107664 | Изменение текстов вариантов ответа в опросах
 https://hackerone.com/reports/107780 |  [cfire.mail.ru] Time Based SQL Injection
+https://hackerone.com/reports/107849 | [https://test1.owncloud.com/owncloud6/] Guessable password used for admin user
+https://hackerone.com/reports/107877 | API: Bug in method auth.signup , дающий возможность бесконечно звонить 
 https://hackerone.com/reports/107960 | Reflected File Download in community.ubnt.com/restapi/
 https://hackerone.com/reports/108082 |  Exploiting unauthenticated encryption mode
 https://hackerone.com/reports/108113 | Bypassing callback_url validation on Digits
