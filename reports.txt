@@ -1509,7 +1509,7 @@ https://hackerone.com/reports/116032 | Private Program Disclosure in /:handle/re
 https://hackerone.com/reports/116057 | file full path discloser.
 https://hackerone.com/reports/116135 | Reflected Cross Site Script in www.gmcar.gm.com
 https://hackerone.com/reports/116179 | Unauthorized Access
-https://hackerone.com/reports/116189 | Null byte injection 
+https://hackerone.com/reports/116189 | Null byte injection
 https://hackerone.com/reports/116243 | Potential Subdomain Takeover - http://storefront.newrelic.com/
 https://hackerone.com/reports/116254 | owncloud.com: Persistent XSS In Account Profile
 https://hackerone.com/reports/116286 |  Type confusion in partial.setstate, partial_repr, partial_call leads to memory corruption, reliable control flow hijack
@@ -1692,7 +1692,7 @@ https://hackerone.com/reports/125112 | XSS in getrush.uber.com
 https://hackerone.com/reports/125118 | Lack of CNAME/A Record Trimming Pointing Uber Domains to Insecure Non-Uber AWS Instances/Sites
 https://hackerone.com/reports/125179 | XSS on love.uber.com
 https://hackerone.com/reports/125200 | Lack of rate limiting on get.uber.com leads to enumeration of promotion codes and estimation of a lower bound on the number of Uber drivers
-https://hackerone.com/reports/125218 | Bypassing Uber Partner's 3 Cancel Limit 
+https://hackerone.com/reports/125218 | Bypassing Uber Partner's 3 Cancel Limit
 https://hackerone.com/reports/125242 | Create account in uber without signup form
 https://hackerone.com/reports/125246 | Listing of email addresses of whitelisted business users visible at business.uber.com
 https://hackerone.com/reports/125250 | Avoiding Surge Pricing
@@ -1825,6 +1825,7 @@ https://hackerone.com/reports/132602 |  Stored XSS at Udemy
 https://hackerone.com/reports/132658 | Stored Cross-Site Scripting via Angular Template Injection
 https://hackerone.com/reports/133375 | Information Disclosure on lite.uber.com
 https://hackerone.com/reports/133680 | AWS S3 Bucket hotornot-images permissions allow for listing and removing files
+https://hackerone.com/reports/133717 | GFM renderer leaks external issue tracker URL of private project
 https://hackerone.com/reports/133744 | XSS in Asset name
 https://hackerone.com/reports/133847 | ProBlog 2.6.6 CSRF Exploit
 https://hackerone.com/reports/133963 | XSS on www.wordpress.com
@@ -1832,6 +1833,7 @@ https://hackerone.com/reports/134004 | Reflected XSS and something more Store XS
 https://hackerone.com/reports/134032 | newrelic.com rails directory traversal vuln
 https://hackerone.com/reports/134061 |  Reflected XSS via Livefyre Media Wall in newsroom.uber.com
 https://hackerone.com/reports/134145 | SSL Certificate on qiwi.com will expire soon.
+https://hackerone.com/reports/134206 | Defect-Security | Driver-Broken Authentication | Able to update the Subscription Setting anonymously
 https://hackerone.com/reports/134292 | Attacker can delete (and read) private project webhooks
 https://hackerone.com/reports/134299 | Attacker can post notes on private MR, snippets, and issues
 https://hackerone.com/reports/134300 | Confidential issues leaked in public projects when attached to milestone
@@ -1868,6 +1870,7 @@ https://hackerone.com/reports/135989 | Employees with Any Permissions Can Create
 https://hackerone.com/reports/136169 | OneLogin authentication bypass on WordPress sites
 https://hackerone.com/reports/136221 | Denial of service in account statistics endpoint
 https://hackerone.com/reports/136333 | Persistent XSS on public wiki pages
+https://hackerone.com/reports/136396 | STORED XSS FOUND
 https://hackerone.com/reports/136454 | User credentials leak and arbitrary local file read/leak due to same-origin-policy violation
 https://hackerone.com/reports/136481 | CSRF on Vimeo via cross site flashing leading to info disclosure and private videos go public
 https://hackerone.com/reports/136531 | Compromising Atlassian Confluence (team.uberinternal.com) via WordPress (newsroom.uber.com)
@@ -1885,10 +1888,13 @@ https://hackerone.com/reports/137404 | List of a ton of internal twitter servers
 https://hackerone.com/reports/137480 | New Relic - Session Hijacking
 https://hackerone.com/reports/137487 | Amazon Bucket Accessible (http://inpref.s3.amazonaws.com/)
 https://hackerone.com/reports/137502 | All Vimeo Private videos disclosure via Authorization Bypass
+https://hackerone.com/reports/137503 | Inadequate access controls in "Vote" functionality???
 https://hackerone.com/reports/137631 | SMTP command injection
 https://hackerone.com/reports/137723 | vulnerabilitie
 https://hackerone.com/reports/137845 | Stored XSS on 'Badges' page
 https://hackerone.com/reports/137850 | CSV Macro injection in Video Manager (CEMI)
+https://hackerone.com/reports/137905 | Reflected XSS on business-blog.zomato.com - Part I
+https://hackerone.com/reports/137906 | Reflected XSS on business-blog.zomato.com - Part 2
 https://hackerone.com/reports/137938 | Reflected XSS in domain www.veris.in
 https://hackerone.com/reports/137956 | SQL Injection
 https://hackerone.com/reports/137964 | Wordpress  flashmediaelement.swf XSS on stopthehacker.com
@@ -1921,6 +1927,7 @@ https://hackerone.com/reports/139398 | Read-Only user can execute arbitraty shel
 https://hackerone.com/reports/139402 | [kb.informatica.com] Unauthenticated emails and HTML injection in email messages
 https://hackerone.com/reports/139502 | Privilege Escalation In Moniter
 https://hackerone.com/reports/139626 | Passphrase credential lock bypass
+https://hackerone.com/reports/139875 | DOM based XSS on
 https://hackerone.com/reports/139879 |  Adobe Flash Player Regular Expression UAF Remote Code Execution Vulnerability
 https://hackerone.com/reports/139940 | Exploiting Secure Shell (SSH) on mobilelt.lahitapiola.fi
 https://hackerone.com/reports/139965 | No authentication required to add an email address.
@@ -1939,10 +1946,14 @@ https://hackerone.com/reports/140720 | Denial of service in report view.
 https://hackerone.com/reports/140742 | Cookie not secure
 https://hackerone.com/reports/140760 | Insecure cookies without httpOnly flag set
 https://hackerone.com/reports/140791 | XSS in people.uber.com
+https://hackerone.com/reports/140793 | UniFi Video v3.2.2 (Windows) Local Privileges Escalation due to weak default install directory ACLs
 https://hackerone.com/reports/140851 | [sales.mail.ru] CRLF Injection
 https://hackerone.com/reports/140865 | Integer Overflow in php_html_entities()
 https://hackerone.com/reports/141065 | Security Issue : CSRF Token Design Flaw
 https://hackerone.com/reports/141090 | Parameter Manipulation allowed for viewing of other user’s teavana.com orders
+https://hackerone.com/reports/141114 | Stored XSS in Filters
+https://hackerone.com/reports/141115 | SSL/TLS BEAST ATTACK
+https://hackerone.com/reports/141120 | Parameter Manipulation allowed for editing the shipping address for other user’s teavana.com subscriptions.
 https://hackerone.com/reports/141125 |  Ngnix Server version disclosure
 https://hackerone.com/reports/141174 |  node.drchrono.com - Information Disclosure and Windows Host Exposed
 https://hackerone.com/reports/141197 | get_icu_value_internal out-of-bounds read
@@ -1992,8 +2003,11 @@ https://hackerone.com/reports/143265 | Unvalidated redirect on user profile webs
 https://hackerone.com/reports/143280 | Mail.ru for Android Content Provider Vulnerability
 https://hackerone.com/reports/143294 | XSS on zomato.com
 https://hackerone.com/reports/143321 | Unauthenticated CSRF(User can input any value for CSRF Token)
+https://hackerone.com/reports/143323 | [uk.informatica.com] XSS on uk.informatica..com
 https://hackerone.com/reports/143438 | Potentially Sensitive Information on GitHub
 https://hackerone.com/reports/143482 | Authentication Bypass on Icinga monitoring server
+https://hackerone.com/reports/143541 | Transaction Pending Via  Ip Change 
+https://hackerone.com/reports/143575 | Full path disclosure
 https://hackerone.com/reports/143669 | Получение оригинала скрытого изображения
 https://hackerone.com/reports/143717 | Change any Uber user's password through /rt/users/passwordless-signup - Account Takeover (critical)
 https://hackerone.com/reports/143903 |  File upload over private IM channel
