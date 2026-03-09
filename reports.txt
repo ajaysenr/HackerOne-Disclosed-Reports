@@ -2578,6 +2578,7 @@ https://hackerone.com/reports/170161 |  Password reset token not expiring
 https://hackerone.com/reports/170260 | imap_rfc822_parse_headers GS Violation
 https://hackerone.com/reports/170295 | Access to Amazon S3 bucket
 https://hackerone.com/reports/170310 | Bypass rate limiting on /users/password (possibly site-wide rate limit bypass?)
+https://hackerone.com/reports/170333 | Host Header Injection/Redirection
 https://hackerone.com/reports/170369 | [kb.informatica.com] Stored XSS
 https://hackerone.com/reports/170532 | Oracle Webcenter Sites administrative and hi-privilege access available directly from the internet (/cs/Satellite)
 https://hackerone.com/reports/170548 |  Ruby OpenSSL Library - IV Reuse in GCM Mode
@@ -2617,6 +2618,7 @@ https://hackerone.com/reports/172711 | Content Spoofing in udemy
 https://hackerone.com/reports/172733 |  Add signature to transactions without any permission
 https://hackerone.com/reports/172746 | WebSummit - Open Redirect
 https://hackerone.com/reports/172780 | out of date disqus shortname usage in the web app source code
+https://hackerone.com/reports/172809 | Flash XSS on global nav
 https://hackerone.com/reports/172837 |  password less login token expiration issue
 https://hackerone.com/reports/172843 | DOM based reflected XSS in rockstargames.com/newswire/tags through cross domain ajax request
 https://hackerone.com/reports/172933 | IDNs displayed in unicode in messages/about/talk sections (Homograph Attack)
@@ -2644,6 +2646,7 @@ https://hackerone.com/reports/174668 |  No rate-limit in SERVER_SECURITY_CHECK
 https://hackerone.com/reports/174721 | View liked twits of private account via publish.twitter.com
 https://hackerone.com/reports/174871 | Linking Invoice to uninvited project.
 https://hackerone.com/reports/174882 | Requesting Show CheckIn Alert for Non Friend User
+https://hackerone.com/reports/174896 | Dav sharing permissions issue
 https://hackerone.com/reports/174909 | Reflected Cross site scripting
 https://hackerone.com/reports/174983 | Mailgun misconfiguration leads to email snooping and postmaster@-access on email.mg.gitlab.com
 https://hackerone.com/reports/175070 |  Subdomain takeover on rider.uber.com due to non-existent distribution on Cloudfront
@@ -2675,6 +2678,7 @@ https://hackerone.com/reports/175958 | [iOS/Android] Address Bar Spoofing Vulner
 https://hackerone.com/reports/175979 |  Access to local file system using javascript
 https://hackerone.com/reports/175982 | Use-after-free in unserialize()
 https://hackerone.com/reports/176002 | Information disclosure of user by email using buy widget
+https://hackerone.com/reports/176013 | Disclosure of sensitive information through Google Cloud Storage bucket
 https://hackerone.com/reports/176042 | Error Page Text Injection
 https://hackerone.com/reports/176065 |  [Android] HTML Injection in BatterySaveArticleRenderer WebView
 https://hackerone.com/reports/176066 | Denial of service attack on Brave Browser.
@@ -2737,6 +2741,7 @@ https://hackerone.com/reports/179559 |  Stored XSS in Template Documents
 https://hackerone.com/reports/179568 |  Tab nabbing via window.opener
 https://hackerone.com/reports/179599 | Information disclosure at https://blockchain.atlassian.net
 https://hackerone.com/reports/179695 | XSS via unicode characters in upload filename
+https://hackerone.com/reports/179732 | [Yelp Blog] Backslash in search string causes JS error
 https://hackerone.com/reports/179751 | SQL Injection on /webApp/omatalousuk (viestinta.lahitapiola.fi)
 https://hackerone.com/reports/179763 | Suspicious browser fingerprinting(?) scripts on http://www.lahitapiola.fi/ redirector
 https://hackerone.com/reports/179828 | DMARC  Not found for paragonie.com   URGENT
@@ -2802,6 +2807,7 @@ https://hackerone.com/reports/181816 | [marketplace.informatica.com] Persistent 
 https://hackerone.com/reports/181826 |  SQL Injection /webApp/sijoitustalous_peruutus locId parameter (viestinta.lahitapiola.fi)
 https://hackerone.com/reports/181828 | Segfault in mruby, mruby_engine and the parent MRI Ruby due to null pointer dereference
 https://hackerone.com/reports/181842 | Multiple Reflected XSS /webApp/lahti (viestinta.lahitapiola.fi)
+https://hackerone.com/reports/181849 | Jenkins
 https://hackerone.com/reports/181871 |  DoS: type confusion in mrb_no_method_error
 https://hackerone.com/reports/181874 | SIGSEGV when invalid argument on remove_method
 https://hackerone.com/reports/181879 | Struct type confusion RCE
@@ -2873,6 +2879,7 @@ https://hackerone.com/reports/184698 |  Eavesdropping on private Slack calls
 https://hackerone.com/reports/184712 | Denial of service due to invalid memory access in mrb_ary_concat
 https://hackerone.com/reports/184715 | Read after free in mrb_vm_exec with OP_ARYCAT reading R(B)
 https://hackerone.com/reports/184750 | Reflected XSS on a DoD website
+https://hackerone.com/reports/184759 | XSS on a DoD website
 https://hackerone.com/reports/184857 | Crash: calling Proc::initialize_copy with a Proc instance where initialize never ran leads to a crash
 https://hackerone.com/reports/184877 |  Out-of-date Version (Apache)
 https://hackerone.com/reports/184881 | invalid URL parsing with and '@'
@@ -2938,6 +2945,7 @@ https://hackerone.com/reports/188205 | BruteForce in to Admin Account
 https://hackerone.com/reports/188313 | Segmentation fault due to bad memory access in kh_get_mt
 https://hackerone.com/reports/188326 |  Buffer overflow in mrb_time_asctime
 https://hackerone.com/reports/188338 | Unvalidated / Open Redirect
+https://hackerone.com/reports/188561 | Sending arbitrary IPC messages via overriding Array.prototype.push
 https://hackerone.com/reports/188661 |  Invalid read when wddx decodes empty boolean element
 https://hackerone.com/reports/188691 | Reflected XSS in a Navy website
 https://hackerone.com/reports/188692 | httponly flag not set + csrftoken in url
@@ -2947,6 +2955,8 @@ https://hackerone.com/reports/188929 | Time Based SQL Injection vulnerability on
 https://hackerone.com/reports/188972 | Persistent XSS in www.starbucks.com
 https://hackerone.com/reports/189023 | S3 ACL misconfiguration
 https://hackerone.com/reports/189149 | QuickTime Promotion on a DoD website
+https://hackerone.com/reports/189241 | Reflected XSS on a DoD website
+https://hackerone.com/reports/189356 | Text injection on Auth problem at urbandictionary.com
 https://hackerone.com/reports/189378 | Unauthenticated Stored XSS on <any>.myshopify.com via checkout page
 https://hackerone.com/reports/189458 | Information disclosure vulnerability on a DoD website
 https://hackerone.com/reports/189548 | GNIP subdomain take over
@@ -2963,6 +2973,7 @@ https://hackerone.com/reports/190020 | [careers.informatica.com] XSS on "isJTN"
 https://hackerone.com/reports/190133 | Segfault when passing invalid values to `values_at`
 https://hackerone.com/reports/190188 | Open Redirect bypass and cookie leakage on www.lahitapiola.com
 https://hackerone.com/reports/190195 | [qiwi.com] .bash_history
+https://hackerone.com/reports/190205 | Reflected XSS on a DoD website
 https://hackerone.com/reports/190217 | [marketplace.informatica.com] Profile stored XSS
 https://hackerone.com/reports/190247 | Reflected XSS vector
 https://hackerone.com/reports/190373 | Gratipay uses the random module's cryptographically insecure PRNG.
@@ -2983,6 +2994,7 @@ https://hackerone.com/reports/191323 | Sub Domain Takeover at mk.prd.vine.co
 https://hackerone.com/reports/191328 | Invalid memory access in `mrb_str_format`
 https://hackerone.com/reports/191332 | Reflected XSS in [olx.qa]
 https://hackerone.com/reports/191380 | CRLF and XSS stored on ton.twitter.com
+https://hackerone.com/reports/191381 | Reflected cross-site scripting (XSS) vulnerability on a DoD website
 https://hackerone.com/reports/191387 |  Reflected XSS and Open Redirect in several parameters (viestinta.lahitapiola.fi)
 https://hackerone.com/reports/191416 | DOM Based XSS on a DoD website
 https://hackerone.com/reports/191543 | ssrf xspa [https://prt.mail.ru/]
@@ -3025,6 +3037,7 @@ https://hackerone.com/reports/192665 | heap-buffer-overflow on mruby
 https://hackerone.com/reports/192667 | [stagecafrstore.starbucks.com] CRLF Injection, XSS
 https://hackerone.com/reports/192734 | SIGSEGV Null Pointer mrb_str_concat()
 https://hackerone.com/reports/192749 | [newscdn.starbucks.com] CRLF Injection, XSS
+https://hackerone.com/reports/192751 | XSS vulnerability on a DoD website
 https://hackerone.com/reports/192886 | Mapbox Android SDK uses Broadcast Receiver instead of Local Broadcast Manager
 https://hackerone.com/reports/192896 | Memory disclosure in timegm
 https://hackerone.com/reports/192922 | Stored XSS at https://finance.owox.com/customer/accountList
