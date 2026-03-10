@@ -1,9 +1,3 @@
-https://hackerone.com/reports/6409 | https://www.khanacademy.org/coach/reports/activity XSS
-https://hackerone.com/reports/116032 | Private Program Disclosure in /:handle/reports/draft.json endpoint
-https://hackerone.com/reports/692352 |  XSS on https://app.mopub.com/reports/custom/add/ [new-d1]
-https://hackerone.com/reports/1118638 | IDOR at training.smartpay.gsa.gov/reports/quizzes-taken-by-user
-https://hackerone.com/reports/2580982 | Private data related to program exposed via /reports/<id>.json endpoint to external user participant
-https://hackerone.com/reports/3000510 | The /reports/:id.json endpoint discloses potentially sensitive user attributes when reporter summary is present
 https://hackerone.com/reports/110 | Login page password-guessing attack
 https://hackerone.com/reports/120 | Missing SPF for hackerone.com
 https://hackerone.com/reports/263 | Report title autocompletion
@@ -169,6 +163,7 @@ https://hackerone.com/reports/6371 | Lighttpd version disclosure / directory lis
 https://hackerone.com/reports/6376 | User guessing/enumeration at sw.khanacademy.org
 https://hackerone.com/reports/6380 | Same Origin Security Bypass Vulnerability
 https://hackerone.com/reports/6389 | Integer overflow in strop.expandtabs
+https://hackerone.com/reports/6409 | https://www.khanacademy.org/coach/reports/activity XSS
 https://hackerone.com/reports/6412 | Persistent class XSS [the fuck]
 https://hackerone.com/reports/6475 | https://concrete5.org ::: HeartBleed Attack (CVE-2014-0160)
 https://hackerone.com/reports/6488 | Weak Ciphers Enabled
@@ -1387,7 +1382,6 @@ https://hackerone.com/reports/110352 |  Perl 5.22 VDir::MapPathA/W Out-of-bounds
 https://hackerone.com/reports/110417 | Heap corruption in tar/zip/phar parser
 https://hackerone.com/reports/110467 | Bypassing Digits bridge origin validation
 https://hackerone.com/reports/110578 | HTML injection can lead to data theft
-https://hackerone.com/reports/112935 |  Unintended HTML inclusion as a result of https://hackerone.com/reports/110578
 https://hackerone.com/reports/110655 | Information Exposure Through Directory Listing
 https://hackerone.com/reports/110720 | Arbitary Memory Read via gdImageRotateInterpolated Array Index Out of Bounds
 https://hackerone.com/reports/110722 | Heap BufferOver Flow in escapeshellargs and escapeshellcmd functions
@@ -1432,6 +1426,7 @@ https://hackerone.com/reports/112858 | UAF in xmlparser_setevents (1)
 https://hackerone.com/reports/112860 | UAF  in xmlparser_setevents (2)
 https://hackerone.com/reports/112863 | Trivial age-old heap overflow in 32-bit PHP
 https://hackerone.com/reports/112869 | [s2.jugger.ru] Content Spoofing
+https://hackerone.com/reports/112935 |  Unintended HTML inclusion as a result of https://hackerone.com/reports/110578
 https://hackerone.com/reports/112955 | WordPress Failure Notice page will generate arbitrary hyperlinks
 https://hackerone.com/reports/113070 | Multiple issues with Markdown and URL parsing
 https://hackerone.com/reports/113112 | Open-redirect on paragonie.com
@@ -1510,6 +1505,7 @@ https://hackerone.com/reports/115922 | [download.newrelic.com] Access to private
 https://hackerone.com/reports/115978 | SSRF / Local file enumeration / DoS due to improper handling of certain file formats by ffmpeg
 https://hackerone.com/reports/116006 | XSS on hardware.shopify.com
 https://hackerone.com/reports/116029 | Private program activity timeline information disclosure
+https://hackerone.com/reports/116032 | Private Program Disclosure in /:handle/reports/draft.json endpoint
 https://hackerone.com/reports/116057 | file full path discloser.
 https://hackerone.com/reports/116135 | Reflected Cross Site Script in www.gmcar.gm.com
 https://hackerone.com/reports/116179 | Unauthorized Access
@@ -2211,7 +2207,6 @@ https://hackerone.com/reports/151465 |  Get organization info base on uuid
 https://hackerone.com/reports/151470 |  [IODR] Get business trip via organization id
 https://hackerone.com/reports/151475 |  ownCloud 2.2.2.6192 DLL Hijacking Vulnerability
 https://hackerone.com/reports/151516 | CSV Injection at Camptix Event Ticketing
-https://hackerone.com/reports/160520 |  Bypass fix in https://hackerone.com/reports/151516 report.
 https://hackerone.com/reports/151583 | User enumeration in wp-admin
 https://hackerone.com/reports/151634 | XSS in http://localhost:8153/go/admin/config/server/update
 https://hackerone.com/reports/151678 | Cross Site Scripting
@@ -2393,6 +2388,7 @@ https://hackerone.com/reports/160295 |  Heap overflow in curl_escape
 https://hackerone.com/reports/160488 | stored SELF xss on Basic Google Maps Placemarks Settings plugin
 https://hackerone.com/reports/160498 | window.opener is leaking to external domains upon redirect on Safari
 https://hackerone.com/reports/160500 | Bypassing CSV injection using new line charcter
+https://hackerone.com/reports/160520 |  Bypass fix in https://hackerone.com/reports/151516 report.
 https://hackerone.com/reports/160981 |  Extracting private info of estimates.
 https://hackerone.com/reports/161189 | select_colors write out-of-bounds
 https://hackerone.com/reports/161193 | imagegammacorrect allows arbitrary write access
@@ -3432,7 +3428,9 @@ https://hackerone.com/reports/214087 | Clickjacking Vulnerability found on Yelp
 https://hackerone.com/reports/214340 | Content spoofing due to the improper behavior of the 403 page
 https://hackerone.com/reports/214370 | Comments Denial of Service in socialclub.rockstargames.com
 https://hackerone.com/reports/214436 | HTTP Header Injection/HTTP_Response_Splitting
+https://hackerone.com/reports/214449 | Content-Length restriction bypass to heap overflow in gip.rocks.
 https://hackerone.com/reports/214484 | Stored XSS
+https://hackerone.com/reports/214570 | Nginx Version Disclosure
 https://hackerone.com/reports/214571 | Login form on non-HTTPS page
 https://hackerone.com/reports/214576 | SIGABRT - mirb - Double Free
 https://hackerone.com/reports/214581 | Stored passive XSS at scheduled posts (kitcrm.com)
@@ -3440,14 +3438,17 @@ https://hackerone.com/reports/214642 | Reflected XSS on frag.mail.ru
 https://hackerone.com/reports/214681 | Null pointer dereference in ary_concat
 https://hackerone.com/reports/214763 | Profile bio at rockstar is accepting control characters
 https://hackerone.com/reports/214798 | SQL injection on https://███████
+https://hackerone.com/reports/214800 | Default page exposes admin functions and all metods and classes available. on https://██████/█████/dwr/index.html
 https://hackerone.com/reports/214839 | Report invitation links not restricted to any existing user
 https://hackerone.com/reports/214845 | SIGSEGV in mrb_vm_exec
 https://hackerone.com/reports/215044 | [iOS] URL can be replaceState by blob URL in iOS Brave
 https://hackerone.com/reports/215083 | Cleartext Password returned in JSON response
 https://hackerone.com/reports/215105 | SSRF vulnerability in gitlab.com via project import.
+https://hackerone.com/reports/215326 | Подмена SSL-сертификата для любой группы в секции Управление группой->Работа с API неавторизированным пользователем.
 https://hackerone.com/reports/215372 | Server version/OS type disclosure via HTTP Response Header
 https://hackerone.com/reports/215381 | CSRF on Periscope Web OAuth authorization endpoint
 https://hackerone.com/reports/215383 | Cross-Site Request Forgery
+https://hackerone.com/reports/215384 | [Subgroups] Unprivileged User Can Disclose Private Group Names
 https://hackerone.com/reports/215410 | HTML Injection in Owncloud
 https://hackerone.com/reports/215447 | SIGSEGV in mrb_class
 https://hackerone.com/reports/215625 | A HackerOne employee's GitHub personal access token exposed in Travis CI build logs
@@ -3479,6 +3480,7 @@ https://hackerone.com/reports/217007 |  Stored XSS in e.mail.ru (payload affect 
 https://hackerone.com/reports/217058 | CRLF injection in info.hacker.one
 https://hackerone.com/reports/217083 | SIGSEGV in mrb_str_inum
 https://hackerone.com/reports/217097 | SIGSEGV in mrb_vm_exec
+https://hackerone.com/reports/217108 | Reflected XSS in a DoD Website
 https://hackerone.com/reports/217358 |  Subdomain takeover #3 at info.hacker.one
 https://hackerone.com/reports/217381 | doc.owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploit (Denial of Service)
 https://hackerone.com/reports/217430 | [connect.teavana.com] Open Redirect and abuse of connect.teavana.com
@@ -3498,6 +3500,7 @@ https://hackerone.com/reports/218230 | Access to GitLab's Slack by abusing issue
 https://hackerone.com/reports/218233 | Null pointer dereference in OP_ENTER
 https://hackerone.com/reports/218264 | An Automattic employee's GitHub personal access token exposed in Travis CI build logs
 https://hackerone.com/reports/218287 | In App purchase Hack
+https://hackerone.com/reports/218342 | RCE (Remote Code Execution) Vulnerability on Ruby
 https://hackerone.com/reports/218451 |  [Gnip Blogs] Reflected XSS via "plupload.flash.swf" component vulnerable to SOME
 https://hackerone.com/reports/218465 | [staging-engineering.gnip.com] Publicly accessible GIT directory
 https://hackerone.com/reports/218567 | SIGSEGV in array_copy - array.c:71
@@ -3512,7 +3515,6 @@ https://hackerone.com/reports/219014 | [dev-unifi-go.ubnt.com] Insecure CORS, St
 https://hackerone.com/reports/219140 | Reflected XSS Vulnerability in www.lahitapiola.fi/cs/Satellite
 https://hackerone.com/reports/219170 | XSS
 https://hackerone.com/reports/219171 | Возможность взлома любого пользователя, не использующего двухфакторной аутентификации, через получения кода восстановления на чужой номер.
-https://hackerone.com/reports/222252 | Дубликат: https://hackerone.com/reports/219171 (доступ к аккаунту, через сброс пароля)
 https://hackerone.com/reports/219192 |  Resend invitation to members by Read only user(Privilege Escalation)
 https://hackerone.com/reports/219197 | [██████████.gnip.com] .htpasswd disclosure
 https://hackerone.com/reports/219205 | Authentication bypass on auth.uber.com via subdomain takeover of saostatic.uber.com
@@ -3531,9 +3533,11 @@ https://hackerone.com/reports/219715 | Раскрытие имени файла 
 https://hackerone.com/reports/219729 | Reflected XSS on a DoD website
 https://hackerone.com/reports/219821 | XSS
 https://hackerone.com/reports/219870 |  mirb only: stack-buffer-overflow (OOB write) in main()
+https://hackerone.com/reports/219957 | XSS via /api/v1/chat.postMessage 
 https://hackerone.com/reports/220002 |  Subdomain takeover #4 at info.hacker.one
 https://hackerone.com/reports/220009 | Lack of input sanitization in Marketo form leads to execution of HTML in lead emails
 https://hackerone.com/reports/220116 | SSLv3 Poodle Vulnerability
+https://hackerone.com/reports/220150 | 200 http code in 403 forbidden directories on main Ubnt.com domain
 https://hackerone.com/reports/220385 |  Delete All Data of Any User
 https://hackerone.com/reports/220445 | Race condition leads to duplicate payouts
 https://hackerone.com/reports/220494 |  [GitHub Extension] Unsanitised HTML leading to XSS on GitHub.com
@@ -3546,6 +3550,7 @@ https://hackerone.com/reports/220874 |  Critical : View/Edit access to private a
 https://hackerone.com/reports/220903 | Authenticated Cross-site Scripting in Template Name
 https://hackerone.com/reports/220909 | Autoclose can close any task regardless of policies/spaces
 https://hackerone.com/reports/220946 | https://portal.nextcloud.com/.htaccess file is readable
+https://hackerone.com/reports/221041 | Cookie bomb
 https://hackerone.com/reports/221043 | CSRF token validation is missing
 https://hackerone.com/reports/221133 | Sub Domain Takeover
 https://hackerone.com/reports/221163 | heap-buffer-overflow (read outside of buffer) in Sass::Prelexer::exactly<(char)92>(char const*) - libsass/src/lexer.hpp:92
@@ -3565,7 +3570,9 @@ https://hackerone.com/reports/221328 | HTTP 401 response injection on "amp.twimg
 https://hackerone.com/reports/221380 | Stored XSS in RSS Feeds Title (Concrete5 v8.1.0)
 https://hackerone.com/reports/221432 | CSRF-Token leak by request forgery
 https://hackerone.com/reports/221454 | Privilege escalation in the client impersonation functionality
+https://hackerone.com/reports/221461 | homograph-attack (unicode vuln)
 https://hackerone.com/reports/221558 | Private Grab Messages on Android App can be accessed and cached by Search Engines
+https://hackerone.com/reports/221734 | Administrator(s) Information disclosure via JSON on wordpress.org
 https://hackerone.com/reports/221757 | Blind SQL Injection
 https://hackerone.com/reports/221785 | OOB write in MDC2_Update() (CVE-2016-6303)
 https://hackerone.com/reports/221787 | Malformed SHA512 ticket DoS (CVE-2016-6302)
@@ -3589,14 +3596,18 @@ https://hackerone.com/reports/222063 | Sensitive information disclosure via resp
 https://hackerone.com/reports/222080 | The email API to reset password is unlimited and can be used as a email bomb
 https://hackerone.com/reports/222096 | [bot.brew.sh] Full Path Disclosure
 https://hackerone.com/reports/222224 |  Stored but [SELF] XSS in mercantile.wordpress.org
+https://hackerone.com/reports/222252 | Дубликат: https://hackerone.com/reports/219171 (доступ к аккаунту, через сброс пароля)
 https://hackerone.com/reports/222294 | heap-use-after-free in mrb_vm_exec - vm.c:1247
 https://hackerone.com/reports/222506 | Mixed Reflected-Stored XSS on pornhub.com (without user interaction) in the playlist playing section
 https://hackerone.com/reports/222660 | The email API to test email-server settings is unlimited and can be used as a email bomb
+https://hackerone.com/reports/222667 | Possible SSRF in email server settings(SMTP mode)
 https://hackerone.com/reports/222692 | plugins.trac.wordpress.org likely vulnerable to Cross Site Tracing (xst), TRACE HTTP method should be disabled
 https://hackerone.com/reports/222724 | Open Aws Amazon S3 Buckets
 https://hackerone.com/reports/222762 | Clickjacking In https://demo.nextcloud.com
+https://hackerone.com/reports/222805 | Content (Text) Injection at https://nextcloud.com
 https://hackerone.com/reports/222870 | IRC-Bot exposes information
 https://hackerone.com/reports/223014 | SAML Authentication Bypass on uchat.uberinternal.com
+https://hackerone.com/reports/223024 | Clickjacking In jobs.wordpress.net
 https://hackerone.com/reports/223172 | Просмотр привязного к странице email, всего лишь раз скомпрометировав письмо-уведомление
 https://hackerone.com/reports/223203 | SVG Server Side Request Forgery (SSRF)
 https://hackerone.com/reports/223326 | Open Redirect via "next" parameter in third-party authentication
@@ -3608,15 +3619,21 @@ https://hackerone.com/reports/223337 | No BruteForce Protection
 https://hackerone.com/reports/223339 | Activation tokens are not expiring
 https://hackerone.com/reports/223343 | Already Registered Email Disclosure
 https://hackerone.com/reports/223344 | CSV Injection with the CSV export feature
+https://hackerone.com/reports/223345 | CSRF : Lock and Unlock Translation
+https://hackerone.com/reports/223350 | Web server is vulnerable to Beast Attack
+https://hackerone.com/reports/223355 | Insecure Account Removal
 https://hackerone.com/reports/223362 | Improper Password Reset Policy on https://hosted.weblate.org/
 https://hackerone.com/reports/223363 | Escape sequence injection vulnerability in WEBrick BasicAuth
 https://hackerone.com/reports/223374 | You can simply just use passwords that simply are as 123456
 https://hackerone.com/reports/223384 | Directory Listing
+https://hackerone.com/reports/223391 | Clickjacking docs.weblate.org
 https://hackerone.com/reports/223421 | Open port leads to information disclosure
+https://hackerone.com/reports/223427 | Login using disconnected google account i.e login using old email id
 https://hackerone.com/reports/223430 | Content Spoofing
 https://hackerone.com/reports/223434 | Improper access control when an added email address is deleted from authentication
 https://hackerone.com/reports/223435 | Open SMTP port can let anyone send email from mail.chihar.com
 https://hackerone.com/reports/223454 | Missing restriction on string size of Full Name at https://demo.weblate.org/accounts/register/
+https://hackerone.com/reports/223456 | Content Spoofing in error message
 https://hackerone.com/reports/223475 | Existing sessions valid after removing third party auth
 https://hackerone.com/reports/223525 | Spamming any user from Reset Password Function
 https://hackerone.com/reports/223531 | User Enumeration when adding email to account
@@ -6260,6 +6277,7 @@ https://hackerone.com/reports/692116 | Access to ██████████�
 https://hackerone.com/reports/692154 | Open Redirect in the Path of vendhq.com
 https://hackerone.com/reports/692252 |  Group search leaks private MRs, code, commits
 https://hackerone.com/reports/692262 | Path traversal in https://www.npmjs.com/package/http_server via symlink
+https://hackerone.com/reports/692352 |  XSS on https://app.mopub.com/reports/custom/add/ [new-d1]
 https://hackerone.com/reports/692603 |  Privilege escalation in workers container
 https://hackerone.com/reports/693788 | [expressjs-ip-control] Whitelist IP bypass leads to authorization bypass and sensitive info disclosure
 https://hackerone.com/reports/693933 | PII leakage due to scrceenshot of health records
@@ -7741,6 +7759,7 @@ https://hackerone.com/reports/1117079 | Broken Link Hijacking on Twitter link
 https://hackerone.com/reports/1117768 | Guest Users can create issues for Sentry errors and track their status
 https://hackerone.com/reports/1118402 | Failure to Invalid Session after Password Change
 https://hackerone.com/reports/1118501 | CSRF to Cross-site Scripting (XSS)
+https://hackerone.com/reports/1118638 | IDOR at training.smartpay.gsa.gov/reports/quizzes-taken-by-user
 https://hackerone.com/reports/1118898 | PHP info page disclosure
 https://hackerone.com/reports/1119228 | CVE-2021-26855 on ████████ resulting in SSRF
 https://hackerone.com/reports/1120982 | HTTP Request Smuggling
@@ -8871,7 +8890,6 @@ https://hackerone.com/reports/2278865 | Some limited confidential information ca
 https://hackerone.com/reports/2279010 | A user with only [MODIFY_SETTINGS] permmision could takeover any user accounts
 https://hackerone.com/reports/2279041 | Changing the administrator password via admin console does not invalidate other sessions
 https://hackerone.com/reports/2279346 | CSP bypass on PortSwigger.net using Google script resources
-https://hackerone.com/reports/2387458 | CSP Bypass and escalation of https://hackerone.com/reports/2279346
 https://hackerone.com/reports/2279572 | HTTP Response Header Injection in shopify/pitchfork + Rack 3
 https://hackerone.com/reports/2279759 | curl HSTS long file name clears contents
 https://hackerone.com/reports/2280279 | total Failure of password protection while extracting seed phrase! increases attack surface area for scammers
@@ -8994,6 +9012,7 @@ https://hackerone.com/reports/2383092 | Source Code and data exfiltration via Gi
 https://hackerone.com/reports/2383486 | Insecure S3 Bucket Exposing Git Directory in Mozilla Foundation Infographics Project
 https://hackerone.com/reports/2384833 | CVE-2024-2004: Usage of disabled protocol
 https://hackerone.com/reports/2387297 | Bypass Email Verification on Add Email Monitoring
+https://hackerone.com/reports/2387458 | CSP Bypass and escalation of https://hackerone.com/reports/2279346
 https://hackerone.com/reports/2387600 | CVE-2022-21371:  Oracle WebLogic Server Local File Inclusion
 https://hackerone.com/reports/2388183 | Easy way to create a new Deck board without permission
 https://hackerone.com/reports/2389565 | Action Text XSS (Rails 7.1.x)
@@ -9160,6 +9179,7 @@ https://hackerone.com/reports/2575105 | Worker permission bypass via InternalWor
 https://hackerone.com/reports/2578985 | Reflected HTML Injection via contact (faq) search parameter on ███]=
 https://hackerone.com/reports/2579939 | SAML Signature verification bypass allows logging into any user (with specific conditions)
 https://hackerone.com/reports/2580062 | NoSQL injection leaks visitor token and livechat messages
+https://hackerone.com/reports/2580982 | Private data related to program exposed via /reports/<id>.json endpoint to external user participant
 https://hackerone.com/reports/2583874 | DOM XSS in tiktok.com/login via the redirect_url parameter
 https://hackerone.com/reports/2584376 | ReDoS Vulnerability in HTTP Accept Headers Parsing
 https://hackerone.com/reports/2585373 | moderate: Apache HTTP Server: HTTP response splitting (CVE-2023-38709)
@@ -9432,6 +9452,7 @@ https://hackerone.com/reports/2995025 | Mozilla VPN Clients: RCE via file write 
 https://hackerone.com/reports/2997549 | CVE-2023-5561 on Payapps.com
 https://hackerone.com/reports/2997774 | VSCode launch.json file exposed on hemi.xyz
 https://hackerone.com/reports/2999116 | Non-Production API Endpoints for the Device Farm Service Fail to Log to CloudTrail Resulting in Silent Permission Enumeration
+https://hackerone.com/reports/3000510 | The /reports/:id.json endpoint discloses potentially sensitive user attributes when reporter summary is present
 https://hackerone.com/reports/3000639 | curl doesn't hide credentials in /proc/XXX/cmdline provided via CLI arguments
 https://hackerone.com/reports/3002345 | Exposing debug.log file leads to server full path disclosure
 https://hackerone.com/reports/3002543 | CVE-2024-43398: DoS vulnerability in REXML
