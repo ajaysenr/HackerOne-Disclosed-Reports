@@ -3274,6 +3274,7 @@ https://hackerone.com/reports/204802 | pam-ussh may be tricked into using anothe
 https://hackerone.com/reports/204969 | XSS with needed user intervention
 https://hackerone.com/reports/204984 |  IDOR - Accessing other user's attachements via PUT /appsuite/api/files?action=saveAs
 https://hackerone.com/reports/205000 | Authorization bypass using login by phone option+horizontal escalation possible on Grab Android App
+https://hackerone.com/reports/205034 | [wave.informatica.com]- Subdomain missconfiguration
 https://hackerone.com/reports/205069 | express config leaking stacktrace
 https://hackerone.com/reports/205284 | SIGABRT - method_missing - mark_context_stack
 https://hackerone.com/reports/205309 | Broken Authentication and session management OWASP A2
@@ -3339,6 +3340,7 @@ https://hackerone.com/reports/208834 | Address bar spoofing in Brave browser via
 https://hackerone.com/reports/208978 | [URGENT] Opportunity to publish tweets on any twitters account
 https://hackerone.com/reports/209004 | Subdomain takeover #2  at info.hacker.one
 https://hackerone.com/reports/209008 | Authentication Bypass - Chaining two vulnerabilities leads to account takeover at en.instagram-brand.com
+https://hackerone.com/reports/209140 | Private program email forwarding response invitation not expire after first use.
 https://hackerone.com/reports/209223 | Open S3 Bucket WriteAble To Any Aws User
 https://hackerone.com/reports/209251 |  public report - Reproducible - Writable RubyCi Amazon s3 bucket[207053]
 https://hackerone.com/reports/209352 | Cross Domain leakage of sensitive information - Leading to Account Takeover at Instagram Brand
@@ -3375,12 +3377,14 @@ https://hackerone.com/reports/211149 | Inadequate/dangerous jQuery behavior
 https://hackerone.com/reports/211206 | Version 4.7.2 of wordpress is vulnerable
 https://hackerone.com/reports/211213 | https://xmpp.nextcloud.com///;@www.google.com allows open redirect
 https://hackerone.com/reports/211283 | Cross Site WebSocket Hijacking
+https://hackerone.com/reports/211381 | Remote Code Execution (RCE) in a DoD website
 https://hackerone.com/reports/211418 | Source Code Disclosure (CGI)
 https://hackerone.com/reports/211477 | Stealing users' facebook access tokens - kitcrm.com
 https://hackerone.com/reports/211643 | Stored Cross Site Scripting in Customer Name
 https://hackerone.com/reports/211988 | sql injection vulnerablity found
 https://hackerone.com/reports/212015 | Unable to register in starbucks IN app
 https://hackerone.com/reports/212022 | Remote Code Execution (RCE) in a DoD website
+https://hackerone.com/reports/212046 | Создание ссылки от имени чужой страницы vk.cc
 https://hackerone.com/reports/212067 |  An â€œalgobotâ€-s GitHub access token was leaked
 https://hackerone.com/reports/212074 | SIGSEGV - mrb_yield_with_class
 https://hackerone.com/reports/212107 | Null pointer dereference in mrb_class
@@ -3401,10 +3405,12 @@ https://hackerone.com/reports/213056 | Invalid request may lead content spoofing
 https://hackerone.com/reports/213069 | Remote Code Execution (RCE) in a DoD website
 https://hackerone.com/reports/213114 | Gitlab.com is vulnerable to reverse tabnabbing via AsciiDoc links. (#3)
 https://hackerone.com/reports/213180 | Password reset form ignores email field
+https://hackerone.com/reports/213190 | Reflected XSS in openapi.starbucks.com /searchasyoutype/v1/search?x-api-key=
 https://hackerone.com/reports/213239 | Blind SQLi vulnerability in a DoD Website
 https://hackerone.com/reports/213255 | SIGSEGV in str_buf_cat
 https://hackerone.com/reports/213261 |  Use-after-free leading to an invalid pointer dereference
 https://hackerone.com/reports/213358 | SSRF at apps.nextcloud.com/developer/apps/releases/new
+https://hackerone.com/reports/213360 | Content Spoofing/Text Injection in nextcloud.com
 https://hackerone.com/reports/213418 |  User able to access company details in yrityspalvelu without proper permissions
 https://hackerone.com/reports/213437 | Critical vulnerability in JSON Web Encryption (JWE) - RFC 7516 Invalid Curve attack
 https://hackerone.com/reports/213558 | Arbitrary Local-File Read from Admin - Restore From Backup due to Symlinks
