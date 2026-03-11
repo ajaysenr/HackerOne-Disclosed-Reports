@@ -3533,7 +3533,7 @@ https://hackerone.com/reports/219715 | Раскрытие имени файла 
 https://hackerone.com/reports/219729 | Reflected XSS on a DoD website
 https://hackerone.com/reports/219821 | XSS
 https://hackerone.com/reports/219870 |  mirb only: stack-buffer-overflow (OOB write) in main()
-https://hackerone.com/reports/219957 | XSS via /api/v1/chat.postMessage 
+https://hackerone.com/reports/219957 | XSS via /api/v1/chat.postMessage
 https://hackerone.com/reports/220002 |  Subdomain takeover #4 at info.hacker.one
 https://hackerone.com/reports/220009 | Lack of input sanitization in Marketo form leads to execution of HTML in lead emails
 https://hackerone.com/reports/220116 | SSLv3 Poodle Vulnerability
@@ -3662,6 +3662,8 @@ https://hackerone.com/reports/224095 | password reset email spamming
 https://hackerone.com/reports/224096 | ShopifyAPI is vulnerable to timing attacks.
 https://hackerone.com/reports/224108 | Cross Site Scripting
 https://hackerone.com/reports/224186 | Email spoofing at weblate.org
+https://hackerone.com/reports/224198 | Missing/Breach of Internal Security Boundary - Access to Job Queue Results in Remote Code Execution
+https://hackerone.com/reports/224287 | Email verification over an unencrypted channel
 https://hackerone.com/reports/224317 | Open redirect while disconnecting authenticated account
 https://hackerone.com/reports/224342 | Bypassing captcha in registration on Hosted site
 https://hackerone.com/reports/224362 | Invalidate session after password reset - hosted website
@@ -3677,6 +3679,7 @@ https://hackerone.com/reports/225495 | full path disclosure at hosted.weblate.or
 https://hackerone.com/reports/225537 | Node modules path disclosure due to lack of error handling
 https://hackerone.com/reports/225540 | Incorrect HTTPS Certificate
 https://hackerone.com/reports/225555 | ClickJacking on Debug
+https://hackerone.com/reports/225653 | Account Takeover using Third party Auth CSRF
 https://hackerone.com/reports/225754 | Insecure SHA1withRSA in b5s.hackerone-ext-content.com and a4l.hackerone-ext-content.com
 https://hackerone.com/reports/225769 | Facebook share URL should be HTTPS
 https://hackerone.com/reports/225777 | DOMPurify 0.8.9 released
@@ -3685,6 +3688,7 @@ https://hackerone.com/reports/225833 | www.hackerone.com website CSP "script-src
 https://hackerone.com/reports/225897 | Throttling Bypass - ws1.dashlane.com
 https://hackerone.com/reports/225936 | Cross-site scripting (XSS) vulnerability on a DoD website
 https://hackerone.com/reports/226037 | Wordpress Vulnerable to Potential Unauthorized Password Reset
+https://hackerone.com/reports/226094 | I am because bug
 https://hackerone.com/reports/226097 | I am because bug
 https://hackerone.com/reports/226104 | Incomplete fix for #181225 (target=_blank vulnerability)
 https://hackerone.com/reports/226191 | Android MailRu Email: Thirdparty can access private data files with small user interaction
@@ -3694,6 +3698,7 @@ https://hackerone.com/reports/226203 | Cross-site-Scripting
 https://hackerone.com/reports/226211 | SQL Injection vulnerability in a DoD website
 https://hackerone.com/reports/226212 | directory information disclose
 https://hackerone.com/reports/226245 | Remote code execution (RCE) in multiple DoD websites
+https://hackerone.com/reports/226334 | Improper validation of Email 
 https://hackerone.com/reports/226335 |  Escape sequence injection in "summary" field
 https://hackerone.com/reports/226343 | Full Path Disclosure in airship.paragonie.com '/cabins/'
 https://hackerone.com/reports/226408 | Open Redirect in shopify app URL
@@ -3740,6 +3745,7 @@ https://hackerone.com/reports/228873 | Misconfiguration: Missing Custom Error Pa
 https://hackerone.com/reports/229170 | RTLO character allowed in shared files
 https://hackerone.com/reports/229199 | Limited code execution vulnerability on a DoD website
 https://hackerone.com/reports/229405 | Csrf in watch-unwatch projects
+https://hackerone.com/reports/229417 | Design Flaw in session management of password reset 
 https://hackerone.com/reports/229483 | Improper validation of unicode characters
 https://hackerone.com/reports/229498 | Host header injection/redirection via newsletter signup
 https://hackerone.com/reports/229511 | No Rate Limiting at /contact
@@ -3757,11 +3763,14 @@ https://hackerone.com/reports/229869 | Adding Email lacks Password validation
 https://hackerone.com/reports/229987 | Password token validation in https://demo.weblate.org/
 https://hackerone.com/reports/230026 | Insecure Direct Object Reference on in-scope .mil website
 https://hackerone.com/reports/230029 | Stored XSS in Pages SEO dialog Name field (concrete5 8.1.0)
+https://hackerone.com/reports/230098 | Full directory path listing
 https://hackerone.com/reports/230119 | Reflected XSS in Zomato Mobile - category parameter
 https://hackerone.com/reports/230194 | Option method enabled
 https://hackerone.com/reports/230231 | XSS в портальной навигации
 https://hackerone.com/reports/230232 | Stored self-XSS in mercantile.wordpress.org checkout
 https://hackerone.com/reports/230234 | [mercantile.wordpress.org] Reflected XSS via AngularJS Template Injection
+https://hackerone.com/reports/230278 | Stored XSS in Headline TextControl element in Express forms [ concrete5 8.1.0 ]
+https://hackerone.com/reports/230328 | IDOR unsubscribe Anyone from NextClouds Newsletters by knowing their Email 
 https://hackerone.com/reports/230428 | Csrf bug on signup session
 https://hackerone.com/reports/230435 |  DOM Based XSS In mercantile.wordpress.org
 https://hackerone.com/reports/230525 | Domain takeover (legalrobot.co.za)
@@ -3775,21 +3784,26 @@ https://hackerone.com/reports/230870 | Arbitary file download vulnerability on a
 https://hackerone.com/reports/231041 | Session not expired When logout [partners.uber.com]
 https://hackerone.com/reports/231053 | XSS on any Shopify shop via abuse of the HTML5 structured clone algorithm in postMessage listener on "/:id/digital_wallets/dialog"
 https://hackerone.com/reports/231062 | CSP "script-src" includes "unsafe-inline" in weblate.org and demo.weblate.org
+https://hackerone.com/reports/231086 | CSP "script-src" includes "unsafe-inline" in https://gratipay.com
 https://hackerone.com/reports/231267 | Development configuration file
+https://hackerone.com/reports/231389 | Stored XSS in snapmatic comments
 https://hackerone.com/reports/231444 | Stored XSS in profile activity feed messages
 https://hackerone.com/reports/231510 | Gratipay Website CSP "script-scr" includes "unsafe-inline"
 https://hackerone.com/reports/231687 | Remote Code Execution (RCE) vulnerability in multiple DoD websites
+https://hackerone.com/reports/231760 | Open redirect on sign in 
 https://hackerone.com/reports/231805 | Insecure Cache-Control Leading to API key Retrieval
 https://hackerone.com/reports/231917 | Shared file link - password protection bypass under certain conditions
 https://hackerone.com/reports/232150 | heap-buffer-overflow (READ of size 11) in Perl 5.25.x
 https://hackerone.com/reports/232174 | XSS on $shop$.myshopify.com/admin/ and partners.shopify.com via whitelist bypass in SVG icon for sales channel applications
 https://hackerone.com/reports/232306 | Improper Cookie expiration | Cookies Expiration Set to Future
+https://hackerone.com/reports/232320 | [doc.rt.informaticacloud.com] Reflected XSS via Stack Strace
 https://hackerone.com/reports/232330 | Remote Code Execution (RCE) vulnerability in a DoD website
 https://hackerone.com/reports/232347 | [FG-VD-17-063] NextCloud Insufficient Attack Protection Vulnerability Notification
 https://hackerone.com/reports/232378 | SQL Injection on https://████████/
 https://hackerone.com/reports/232432 | Universal Cross-Site Scripting in Keybase Chrome extension
 https://hackerone.com/reports/232463 | Possible sweet32 lahitapiola.fi
 https://hackerone.com/reports/232499 | Control characters incorrectly handled on Crew Status Update
+https://hackerone.com/reports/232614 | Uploaded XLF files result in External Entity Execution
 https://hackerone.com/reports/232650 | Full Api Access and Run All Functions via Starbucks App
 https://hackerone.com/reports/232653 | CSRF. Удаление адресной книги, добавление контактов
 https://hackerone.com/reports/233099 | CSRF in Report Lost or Stolen Page https://www.starbucks.com/account/card
