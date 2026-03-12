@@ -3862,6 +3862,7 @@ https://hackerone.com/reports/240562 | Privilege Escalation.
 https://hackerone.com/reports/240659 | heap-buffer-overflow (READ of size 1) in cpptoml::parser::consume_whitespace()
 https://hackerone.com/reports/240821 | Ability To Takeover any account by Emaill.
 https://hackerone.com/reports/240886 |  Multiple File Manipulation bugs in WP Super Cache
+https://hackerone.com/reports/240958 | Firefly's verify_access_token() function does a byte-by-byte comparison of HMAC values.
 https://hackerone.com/reports/240987 | Email Spoofing
 https://hackerone.com/reports/241008 | Stored XSS in *.myshopify.com
 https://hackerone.com/reports/241044 | Privilege Escalation: From operator to ubnt (and root) with non-interactive Session Hijacking
@@ -3893,6 +3894,7 @@ https://hackerone.com/reports/242727 |  Android content provider exposes passwor
 https://hackerone.com/reports/242765 |  Any user with invite capabilities can take-over any account on Discourse
 https://hackerone.com/reports/242874 | Bypassing Verify Humans Page
 https://hackerone.com/reports/242882 | Blind SQL Injection on DoD Site
+https://hackerone.com/reports/242905 | XSS in http://www.rockstargames.com/theballadofgaytony/js/jquery.base.js
 https://hackerone.com/reports/242964 | Adding or removing a new non-preferred payout method does not trigger an e-mail or account notification
 https://hackerone.com/reports/243001 | Open Redirect
 https://hackerone.com/reports/243049 | Call back number not verified
@@ -3918,16 +3920,19 @@ https://hackerone.com/reports/244459 | Apache HTTP Request Parsing Whitespace De
 https://hackerone.com/reports/244474 | Mailgun misconfiguration
 https://hackerone.com/reports/244504 |  Possible SOP bypass in www.starbucks.com due to insecure crossdomain.xml
 https://hackerone.com/reports/244555 | Email Spoofing Via /api/v1/users/reset_password
+https://hackerone.com/reports/244567 | [Privilege Escalation] Authenticated users can manipulate others fullname without their knowledge
 https://hackerone.com/reports/244612 | Password reset links should expire after being used, instead of at specific time
 https://hackerone.com/reports/244614 | Password token validation in https://wakatime.com/
 https://hackerone.com/reports/244677 | Add arbitrary content to Password Reset Email
 https://hackerone.com/reports/244697 | UI Redressing on Embedded Charts
 https://hackerone.com/reports/244721 | Open Redirect on [My.com]
 https://hackerone.com/reports/244724 | Unsafe Inline and Eval CSP Usage
+https://hackerone.com/reports/244766 | https://wakatime.com/ website CSP "script-src" includes "unsafe-inline"
 https://hackerone.com/reports/244778 | Logout CSRF
 https://hackerone.com/reports/244781 | Users with member privilege are able to see emails and membership information of other users
 https://hackerone.com/reports/244813 | No rate limit when creating new goals [https://wakatime.com/goals]
 https://hackerone.com/reports/244836 | [Critical] billion dollars issue
+https://hackerone.com/reports/244875 | Session Not Expired On Logout
 https://hackerone.com/reports/244902 | XSS through document projects
 https://hackerone.com/reports/244904 |  Use after free in mruby-mpdecimal
 https://hackerone.com/reports/244958 | No redirect uri for Twitter Oath resulting in token leak
@@ -3959,6 +3964,7 @@ https://hackerone.com/reports/245969 | Use any User to Follow you (Increase Foll
 https://hackerone.com/reports/246042 | Password Policy Issue
 https://hackerone.com/reports/246085 | Просмотр аватара и название частной группы
 https://hackerone.com/reports/246412 | SQL Injection, exploitable in boolean mode
+https://hackerone.com/reports/246780 | Using an outdated version of OpenSSH on db01.wakatime.com
 https://hackerone.com/reports/246794 | XSS on "widgets.shopifyapps.com" via "stripping" attribute and "shop" parameter
 https://hackerone.com/reports/246801 |  Captcha Bypass in Coinbase SignUp Form
 https://hackerone.com/reports/246803 |  [spectacles.com] Bypassing quantity limit in orders
@@ -3967,8 +3973,10 @@ https://hackerone.com/reports/246838 | by pass rate limit exceed
 https://hackerone.com/reports/246897 | Open Redirect
 https://hackerone.com/reports/246995 | [█████████] Hardcoded credentials in Android App
 https://hackerone.com/reports/247027 | CVE-2017-10965: Null pointer dereference in Irssi <1.0.4
+https://hackerone.com/reports/247028 | CVE-2017-10966: Heap-use-after-free in Irssi <1.0.4
 https://hackerone.com/reports/247084 | Moneybird customers invoices leak in cacheable urls
 https://hackerone.com/reports/247158 | Bypass OTP verification when placing Order
+https://hackerone.com/reports/247225 | Session Duplication due to Broken Access Control
 https://hackerone.com/reports/247246 |  Dom based xss affecting all pages from https://www.grab.com/.
 https://hackerone.com/reports/247517 | Stored XSS in Private Messages 'Reply' allows to execute malicious JavaScript against any user while replying to the message which contains payload
 https://hackerone.com/reports/247521 | Stored XSS in Name field in User Groups/Group Details form
@@ -3977,6 +3985,7 @@ https://hackerone.com/reports/247640 | Ruby 2.4.1 has "Stack consistency error" 
 https://hackerone.com/reports/247680 |  SSRF in imgur video GIF conversion
 https://hackerone.com/reports/247700 | Application-level DoS on image's "size" parameter.
 https://hackerone.com/reports/247721 | The auth token does not expire on logging out and even after logging out all sessions
+https://hackerone.com/reports/248037 | SQL TEST
 https://hackerone.com/reports/248560 |  [parcel.grab.com] DOM XSS at /assets/bower_components/lodash/perf/
 https://hackerone.com/reports/248588 | [wakatime.com] HTML Injection github-btn.html
 https://hackerone.com/reports/248599 | Information disclosure same issue #176002
@@ -3995,6 +4004,7 @@ https://hackerone.com/reports/249431 | 2FA user enumeration via password reset
 https://hackerone.com/reports/249467 | 2FA user enumeration via login
 https://hackerone.com/reports/249695 | 2FA Error Handling on Google Authenticator
 https://hackerone.com/reports/249759 | Lack of Sanitization and Insufficient Authentication
+https://hackerone.com/reports/249786 | Отсутствие flood контроля в ИСТОРИЯХ вк
 https://hackerone.com/reports/249798 |  Intercom chat session information persists after logout
 https://hackerone.com/reports/250088 | Account profile shows encryption recovery box for all users
 https://hackerone.com/reports/250243 | Users with 2FA can have multiple sessions
@@ -4004,6 +4014,7 @@ https://hackerone.com/reports/250587 | Potential code injection in fun delete_di
 https://hackerone.com/reports/250688 | The Federalsit session cookie (federalist.sid) is not properly invalidated - backdoor access to the account is possible
 https://hackerone.com/reports/250729 |  Content Security Policy not applied to error pages at multiple HackerOne endpoints
 https://hackerone.com/reports/250741 | [New Feature] Password history check
+https://hackerone.com/reports/250766 | Subdomain misconfiguration [mail.legalrobot.com]
 https://hackerone.com/reports/250837 | Stored xss via template injection
 https://hackerone.com/reports/251043 | Stored XSS at Moneybird
 https://hackerone.com/reports/251200 | Missing Issuer parameter on TOTP 2FA
@@ -4017,8 +4028,10 @@ https://hackerone.com/reports/252043 | Restaurant payment information leakage
 https://hackerone.com/reports/252324 | CSRF Добавить просмотр к записи без ведома пользователя.
 https://hackerone.com/reports/252544 | Token leakage by referrer header & analytics
 https://hackerone.com/reports/252580 | Scrollbar Width permits detecting browser platform
+https://hackerone.com/reports/252626 | [Android org.torproject.android] Possible to force list of bridges
 https://hackerone.com/reports/252699 | Hyper Link Injection In email and Space Characters Allowed at Password Field.
 https://hackerone.com/reports/252908 | Reflected XSS on https://www.starbucks.co.uk/shop/paymentmethod/ (bypass for 227486)
+https://hackerone.com/reports/253076 | XSS on about:tbupdate
 https://hackerone.com/reports/253128 | CSRF Vulnerability allows attackers to steal SocialClub private token.
 https://hackerone.com/reports/253202 | Unrestricted file upload - cloudacademy.informatica.com
 https://hackerone.com/reports/253313 | XSS Vulnerability in WooCommerce Product Vendors plugin
@@ -4028,11 +4041,13 @@ https://hackerone.com/reports/253929 | I found a way to instantly take over ads 
 https://hackerone.com/reports/253934 |  Password reset token issue
 https://hackerone.com/reports/253975 | insecure redirect in https://www.rockstargames.com
 https://hackerone.com/reports/254151 | IDOR in activateFuelCard id allows bulk lookup of driver uuids
+https://hackerone.com/reports/254200 | Escaping images directory in S3 bucket when saving new avatar, using Path Traversal in filename
 https://hackerone.com/reports/254211 | [www.zomato.com/dubai/gold] CRITICAL - Allowing arbitrary amount to become a GOLD Member
 https://hackerone.com/reports/254269 |  Persistent XSS found on bin.pinion.gg due to outdated FlowPlayer SWF file with Remote File Inclusion vulnerability.
 https://hackerone.com/reports/254285 |  Gain access to random information via group chat "about" property
 https://hackerone.com/reports/254588 |  Removed staff members who had "Manage shops" permission can still create development stores
 https://hackerone.com/reports/254869 | Device confirmation Flaw
+https://hackerone.com/reports/254895 | SSL BREACH attack (CVE-2013-3587)
 https://hackerone.com/reports/254927 | Lack of input validation in e-mail & user name, job title, company name field
 https://hackerone.com/reports/255021 |  Profile shows incorrect account creation date
 https://hackerone.com/reports/255034 | Failure to check password history
@@ -4057,14 +4072,17 @@ https://hackerone.com/reports/256663 | Weak Password
 https://hackerone.com/reports/256665 | Violation of secure design principle
 https://hackerone.com/reports/257035 | User enumeration from failed login error message
 https://hackerone.com/reports/257119 | Impersonation of Wakatime user using Invitation functionality.
+https://hackerone.com/reports/257207 | Code injection
 https://hackerone.com/reports/257237 | CSRF Token
 https://hackerone.com/reports/257276 | Open aws s3 bucket s3://rubyci
 https://hackerone.com/reports/257305 |  [www.boozt.com] - Authentication bypass
+https://hackerone.com/reports/257331 | Sub domain take over in gratipay.com
 https://hackerone.com/reports/257335 | ssh: unprivileged users may hijack due to backdated ssh version open port found(███.unikrn.com)
 https://hackerone.com/reports/257376 | Missing Restriction On String Size
 https://hackerone.com/reports/257384 | No rate limit or captcha to identify humans
 https://hackerone.com/reports/257942 | languagechange event fires simultaneously on all tabs
 https://hackerone.com/reports/258084 | Access to all files of remote user through shared file
+https://hackerone.com/reports/258117 | RCE/LFI on test Jenkins instance due to improper authentication flow
 https://hackerone.com/reports/258198 |  The Custom Emoji Page has a Reflected XSS
 https://hackerone.com/reports/258201 | Overwrite Drafts of Everyone
 https://hackerone.com/reports/258237 | [et.mail.ru] ssrf 2
