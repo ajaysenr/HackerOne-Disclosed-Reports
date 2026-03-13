@@ -4176,7 +4176,7 @@ https://hackerone.com/reports/263873 | Improper Session management can cause acc
 https://hackerone.com/reports/263876 | Stored XSS Deleting Menu Links in the Shopify Admin
 https://hackerone.com/reports/263913 | Content injection via URL parameter.
 https://hackerone.com/reports/264090 | 2FA bypass - confirmation tokens don't expire
-https://hackerone.com/reports/264101 | design issue exists on login page 
+https://hackerone.com/reports/264101 | design issue exists on login page
 https://hackerone.com/reports/264125 | Clickjacking mercantile.wordpress.org
 https://hackerone.com/reports/264177 | XSS when replying / forwarding to a malicious email on iOS
 https://hackerone.com/reports/264405 | Header Injection In app.legalrobot.com
@@ -4194,7 +4194,7 @@ https://hackerone.com/reports/265161 | Monero Website & Kovri on your policy are
 https://hackerone.com/reports/265274 | Stored XSS on support.rockstargames.com
 https://hackerone.com/reports/265284 | 'cnvID' parameter vulnerable to Insecure Direct Object References
 https://hackerone.com/reports/265384 | Stored XSS on support.rockstargames.com
-https://hackerone.com/reports/265441 | Error the message with already e-mail 
+https://hackerone.com/reports/265441 | Error the message with already e-mail
 https://hackerone.com/reports/265528 | Reflected XSS on the data.gov (WAF bypass+ Chrome XSS Auditor bypass+ works in all browsers)
 https://hackerone.com/reports/265696 | Gitlab is vulnerable to impersonation attacks due to broken links
 https://hackerone.com/reports/265701 | Security: Publicly accessible x.509 Public and Private Key of Ubiquiti Networks.
@@ -4321,6 +4321,7 @@ https://hackerone.com/reports/273998 | CSRF token does not valided during blog c
 https://hackerone.com/reports/274013 | Allowance of Meta/Null characters
 https://hackerone.com/reports/274112 | Хранимая XSS в функционале добавления аудио в WYSIWYG
 https://hackerone.com/reports/274264 | Your support community suffers from angularjs injection and must be fixed immediately [CRITICAL]
+https://hackerone.com/reports/274285 | https://get.ooni.torproject.org/
 https://hackerone.com/reports/274324 | cross site web socket hijacking
 https://hackerone.com/reports/274336 | Subdomain Takeover via Unclaimed WordPress site
 https://hackerone.com/reports/274443 | stored xss in comments : driver exam
@@ -4330,11 +4331,13 @@ https://hackerone.com/reports/274844 |  Stored XSS when you read eamils. <style>
 https://hackerone.com/reports/274868 | Xss on community.imgur.com
 https://hackerone.com/reports/274990 | Remote code execution on rubygems.org
 https://hackerone.com/reports/274997 | Use of uninitialized value in memarea_strdup (src/common/memarea.c:369)
+https://hackerone.com/reports/274998 | Use of unitialized value in crypto_pk_num_bits (src/common/crypto.c:971)
 https://hackerone.com/reports/275186 | Get all instacart emails - missing rate limit on /accounts/register
 https://hackerone.com/reports/275242 | password token validation
 https://hackerone.com/reports/275245 | Can link to websites from profile
 https://hackerone.com/reports/275269 | Gem signature forgery
 https://hackerone.com/reports/275274 | touch.mail.ru/messages - Stored XSS
+https://hackerone.com/reports/275293 | Pending member invitations are not revoked on program name change
 https://hackerone.com/reports/275386 |  Stored XSS Using Media
 https://hackerone.com/reports/275443 | Missing robots exclusion header for user uploads
 https://hackerone.com/reports/275515 | Stored XSS in dev-ucrm-billing-demo.ubnt.com In Client Custom Attribute
@@ -4351,6 +4354,8 @@ https://hackerone.com/reports/276253 | Use of uninitialized value in networkstat
 https://hackerone.com/reports/276255 | Use of unitialized value in token_check_object (src/or/parsecommon.c:224)
 https://hackerone.com/reports/276269 | Multiple Subdomain takeovers via unclaimed instances
 https://hackerone.com/reports/276276 | Blind XXE on my.mail.ru
+https://hackerone.com/reports/276427 | Legal Robot
+https://hackerone.com/reports/276614 | Email Spoofing
 https://hackerone.com/reports/276634 | XSS на e.mail.ru в мобильном приложении!
 https://hackerone.com/reports/276714 | reflected XSS on healt.mail.ru
 https://hackerone.com/reports/276976 | Information Disclosure and Privilege Escalation in app.goodhire.com/member/developers/api-settings
@@ -4359,6 +4364,7 @@ https://hackerone.com/reports/277138 | Privilege Escalation: Read-Only to Admin
 https://hackerone.com/reports/277163 | XSS в теле письма, в блочных стилях.
 https://hackerone.com/reports/277192 | Host Header Injection and Cache Poisoning
 https://hackerone.com/reports/277197 | xss flash on http://presentatie.werkenbijmcdonalds.nl/
+https://hackerone.com/reports/277213 | Two accounts can be made with same password
 https://hackerone.com/reports/277259 | [marketplace.informatica.com] - Stored XSS
 https://hackerone.com/reports/277262 | Newrelic s3 bucket is writeable and deleteable by authorized AWS users
 https://hackerone.com/reports/277341 | blind XXE when uploading avatar in mymail phone app
@@ -4385,6 +4391,7 @@ https://hackerone.com/reports/279945 | Improper validation of unicode characters
 https://hackerone.com/reports/280282 | Enforce minimum master password complexity
 https://hackerone.com/reports/280408 | SPF Misconfiguration
 https://hackerone.com/reports/280495 | Stored Cross-Site scripting in the infographics using links
+https://hackerone.com/reports/280500 | Tabnabbing via window.opener
 https://hackerone.com/reports/280504 | Weak Password Policy on Signup
 https://hackerone.com/reports/280509 | User Enumeration
 https://hackerone.com/reports/280519 | Email notification is not being sent while changing passwords
@@ -4395,9 +4402,11 @@ https://hackerone.com/reports/280803 | Fake mailing reports using mail service o
 https://hackerone.com/reports/280826 | Stored self-XSS pubg.mail.ru в нескольких местах
 https://hackerone.com/reports/280865 | Non Critical Code Quality Bug / Self XSS on Map Editor
 https://hackerone.com/reports/280912 | apache access.log leakage via long request on https://rapida.ru/
+https://hackerone.com/reports/280914 | Business Logic Flaw allowing Privilege Escalation
 https://hackerone.com/reports/281274 | Non-HTTPS link on blog
 https://hackerone.com/reports/281296 | IDOR in merchant.rbmonkey.com allows deleting eShops of another user
 https://hackerone.com/reports/281336 | Negative size in tar header causes infinite loop
+https://hackerone.com/reports/281344 | No rate limiting on https://biz.uber.com/confirm allowed an attacker to join arbitrary business.uber.com accounts
 https://hackerone.com/reports/281387 | xss
 https://hackerone.com/reports/281449 | Limited Account Takeover via Backup codes
 https://hackerone.com/reports/281472 | Unsubscribe Any User
@@ -4411,10 +4420,12 @@ https://hackerone.com/reports/282209 | Stored XSS in the Custom Logo link (non-B
 https://hackerone.com/reports/282363 | Outdated jQuery Version
 https://hackerone.com/reports/282475 | Sensitive information is publicly available
 https://hackerone.com/reports/282490 | Application Vulnerable to CSRF - Remove Invited user
+https://hackerone.com/reports/282518 | Memory Corruption via Large Pixels
 https://hackerone.com/reports/282535 | XSS on Report Classic
 https://hackerone.com/reports/282564 | User enumeration via forgot password error message
 https://hackerone.com/reports/282588 | Take back my all data from limfuimay@gmail.com
 https://hackerone.com/reports/282604 | Stored XSS on profile page via Steam display name
+https://hackerone.com/reports/282628 | OS Command Execution on User's PC via CSV Injection
 https://hackerone.com/reports/282748 | Detecting Tor Browser UI Language
 https://hackerone.com/reports/282772 | no notification send to victim if attacker hacks/accesses his victims WebLate account.
 https://hackerone.com/reports/282843 | UnResolved ChangeSet are Visible to Public That also Causes Information Disclosure
@@ -4425,6 +4436,7 @@ https://hackerone.com/reports/283063 |  [IRCCloud Android] XSS in ImageViewerAct
 https://hackerone.com/reports/283309 | Private Program all members disclosed
 https://hackerone.com/reports/283361 | Private partial disclosure of h1 infrastructure
 https://hackerone.com/reports/283460 | Open Redirect Protection Bypass
+https://hackerone.com/reports/283482 | Login Cross Site Request Forgery 
 https://hackerone.com/reports/283492 | [health.mail.ru] Раскрытие SSI сценариев
 https://hackerone.com/reports/283502 | XST(Cross Site Tracing)
 https://hackerone.com/reports/283539 | Stored xss в /lead_forms_app.php
