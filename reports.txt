@@ -4621,8 +4621,10 @@ https://hackerone.com/reports/300779 | Hack The World 2017 Top 2 Bonus
 https://hackerone.com/reports/300812 | Stored XSS in www.learnboost.com via ZIP codes.
 https://hackerone.com/reports/300879 | User to Admin privilege escalation in Infrastructure Conditions - /v2/accounts/1835740/alerts/conditions
 https://hackerone.com/reports/300881 | Account members can re-add themselve after has been deleted by administrator
+https://hackerone.com/reports/300999 | CSRF в m.vk.com
 https://hackerone.com/reports/301137 |  GitHub import allows user to create child group under existing namespace
 https://hackerone.com/reports/301257 | [www.zomato.com] Boolean SQLi - /███████.php
+https://hackerone.com/reports/301406 | Unrestricted File System Access via Twig Template Injection on dev-ucrm-billing-demo.ubnt.com
 https://hackerone.com/reports/301432 |  GitLab CI runner can read and poison cache of all other projects
 https://hackerone.com/reports/301458 | Remote Code Execution in Wordpress Desktop
 https://hackerone.com/reports/301526 | Invitation token leaks to https://bat.bing.com
@@ -4631,6 +4633,7 @@ https://hackerone.com/reports/301592 | Host Header Injection allow HiJack Passwo
 https://hackerone.com/reports/301631 | CSRF на "ловлю гостей" и раскрытие аудиотрансляции в частной группе
 https://hackerone.com/reports/301680 | Reflected XSS Vulnerability in https://www.lahitapiola.fi/cs/Satellite
 https://hackerone.com/reports/301718 | https://fundl.qiwi.com CSRF на подтверждении sms
+https://hackerone.com/reports/301812 | Bitmoji source code is accessible
 https://hackerone.com/reports/301831 | Leaking sensitive files on Github leads to internal files (python scripts,SQL files)
 https://hackerone.com/reports/301862 | Path traversal leading to limited CSRF on GET requests on two endpoints
 https://hackerone.com/reports/301919 | CSRF Add user templates
@@ -4675,6 +4678,7 @@ https://hackerone.com/reports/306128 | reflected xss on cycloferon.health.mail.r
 https://hackerone.com/reports/306414 | Window.opener protection  Bypass
 https://hackerone.com/reports/306554 | xss
 https://hackerone.com/reports/307050 | Leak ██████████ information in real time through API request
+https://hackerone.com/reports/307239 | Double Payout via PayPal
 https://hackerone.com/reports/307382 | CSRF отредактировать карточки в посте у группы
 https://hackerone.com/reports/307424 | While adding a payment method - Notification email not sent to newly added email ID as well as there is no verification for new email id (Paypal)
 https://hackerone.com/reports/307670 | Difference in query string parameter processing between Hacker News and Keybase Chrome extension spawns chat to incorrect user
@@ -4684,12 +4688,15 @@ https://hackerone.com/reports/307681 | Cross-Domain JavaScript Source File Inclu
 https://hackerone.com/reports/307808 | Path Traversal on Default Installed Rails Application (Asset Pipeline)
 https://hackerone.com/reports/308155 | [html-janitor] Passing user-controlled data to clean() leads to XSS
 https://hackerone.com/reports/308158 | [html-janitor] Bypassing sanitization using DOM clobbering
+https://hackerone.com/reports/308355 | Opcode Cache
+https://hackerone.com/reports/308394 | CSRF token fixation and potential account takeover
 https://hackerone.com/reports/308489 |  wpjobmanager - unserialize of user input
 https://hackerone.com/reports/308610 | Read Access to all comments on unauthorized forums' discussions! IDOR!
 https://hackerone.com/reports/308721 | [serve] Directory listing and File access even when they have been set to be ignored.
 https://hackerone.com/reports/309058 | Open Redirect on the nl.wordpress.net
 https://hackerone.com/reports/309120 | [angular-http-server] Path Traversal in angular-http-server.js allows to read arbitrary file from the remote server
 https://hackerone.com/reports/309124 | [node-srv] Path Traversal allows to read arbitrary files from remote server
+https://hackerone.com/reports/309367 | [metascraper] Stored XSS in Open Graph meta properties read by metascrapper
 https://hackerone.com/reports/309537 | Backup Source Code Detected
 https://hackerone.com/reports/309594 | error
 https://hackerone.com/reports/309641 | [simple-server] HTML with iframe element can be used as filename, which might lead to load and execute malicious JavaScript
@@ -4754,6 +4761,7 @@ https://hackerone.com/reports/315760 | Path Traversal on Resolve-Path
 https://hackerone.com/reports/315837 | blind XXE in autodiscover parser
 https://hackerone.com/reports/315838 | Non-Cloudflare IPs allowed to access origin servers
 https://hackerone.com/reports/315865 | Stored CSS Injection
+https://hackerone.com/reports/315879 | Able to reset other user's password in https://card.starbucks.com.sg/
 https://hackerone.com/reports/316078 | Обходим 2FA и/или получаем access_token, если мы когда-либо были на аккаунте жертвы
 https://hackerone.com/reports/316290 | Prepopulation of email address and name leaks information provided to other merchants
 https://hackerone.com/reports/316319 |  XSS on redirection page( Bypassed)
@@ -4796,7 +4804,9 @@ https://hackerone.com/reports/319480 | Broken Authentication: A project addition
 https://hackerone.com/reports/319483 | Stored self-xss and its escalation to a victim account in e.mail.ru
 https://hackerone.com/reports/319532 | `https-proxy-agent` passes unsanitized options to Buffer(arg), resulting in DoS and uninitialized memory leak
 https://hackerone.com/reports/319576 | `protobufjs` is vulnerable to ReDoS when parsing crafted invalid *.proto files
+https://hackerone.com/reports/319593 | `sshpk` is vulnerable to ReDoS when parsing crafted invalid public keys
 https://hackerone.com/reports/319674 | Просмотр любого видео из частной группы и кто загрузил
+https://hackerone.com/reports/319794 | [m-server] HTML Injection in filenames displayed as directory listing in the browser allows to embed iframe with malicious JavaScript code
 https://hackerone.com/reports/319795 | [m-server] Path Traversal allows to display content of arbitrary file(s) from the server
 https://hackerone.com/reports/319809 | `memjs` allocates and stores buffers on typed input, resulting in DoS and uninitialized memory usage
 https://hackerone.com/reports/320159 | `useragent` is vulnerable to ReDoS in user-agent string
