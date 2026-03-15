@@ -5141,9 +5141,11 @@ https://hackerone.com/reports/362133 | Reflected XSS in delivery-club.ru
 https://hackerone.com/reports/362601 | A single user can subscribe a community multiple times
 https://hackerone.com/reports/362702 | XSS in express-useragent through HTTP User-Agent
 https://hackerone.com/reports/362718 | Returning back from the browser after logging off will disclose some information
+https://hackerone.com/reports/362735 | Stored Cross Site Scripting
 https://hackerone.com/reports/363042 | Stored XSS in api.icq.net
 https://hackerone.com/reports/363636 | DoS through PeerExplorer
 https://hackerone.com/reports/363658 | Buffer overflow
+https://hackerone.com/reports/363680 | Constant-time comparison is not always implemented; critical areas are vulnerable to key-timing attacks
 https://hackerone.com/reports/363714 | monerod can be disabled by a well-timed TCP reset packet
 https://hackerone.com/reports/363778 | SUBDOMAIN TAKEOVER [http://dev.rbk.money/]
 https://hackerone.com/reports/363809 | Долгоживущий хеш + получение частичного доступа к аккаунту после сброса сессии
@@ -5151,6 +5153,7 @@ https://hackerone.com/reports/363815 | Blind SQL injection and making any profil
 https://hackerone.com/reports/363845 | Cross site scripting (content-sniffing)
 https://hackerone.com/reports/363934 | SEGV in parse_rat()
 https://hackerone.com/reports/363971 | Insecure Infrastructure Integrations YML Loading leads to Windows Privilege Escalation
+https://hackerone.com/reports/364095 | Просмотр приложений любого пользователя / группы
 https://hackerone.com/reports/364843 |  OLO Total price manipulation using negative quantities
 https://hackerone.com/reports/364964 |  Client DoS due to large DH parameter (CVE-2018-0732)
 https://hackerone.com/reports/365093 | XSS https://agent.postamat.tech/ в профиле + дисклоз секретной информации
@@ -5158,6 +5161,7 @@ https://hackerone.com/reports/365199 | Information Leakage - GitHub - VCenter co
 https://hackerone.com/reports/365271 | Remote code execution on Basecamp.com
 https://hackerone.com/reports/365280 | Stealing Arbitrary Private Files of MyMail App
 https://hackerone.com/reports/365504 | Comment restriction in subsection "Workshop" of domain "steamcommunity.com" can be bypassed using IDOR
+https://hackerone.com/reports/365755 | Privacy policy contains hardcoded link using unencrypted HTTP
 https://hackerone.com/reports/365853 |  Subdomain Takeover - https://competition.shopify.com/
 https://hackerone.com/reports/365968 | Your page has 2 blocking CSS resources. This causes a delay in rendering your page.
 https://hackerone.com/reports/366129 | Activat burp suite pro with the old license after transfared to anothe account
