@@ -5320,7 +5320,9 @@ https://hackerone.com/reports/388622 |  Subdomain takeover on wfmnarptpc.starbuc
 https://hackerone.com/reports/388740 | GitHub API Key for BrewTestBot is publicly exposed
 https://hackerone.com/reports/388743 | [NR Insights] Data app permissions setting does not fully prevent other users from modifying/changing changing data related to your data app
 https://hackerone.com/reports/388746 | [info.tmgame.mail.ru] Apache Server Status
+https://hackerone.com/reports/388936 | [egg-scripts] Command injection
 https://hackerone.com/reports/389076 | `open-url` command allows opening unlimited number of tabs pointing to arbitrary URLs
+https://hackerone.com/reports/389078 | [experience.uber.com] Node.js source code disclosure & anonymous access to internal Uber documents, templates and tools
 https://hackerone.com/reports/389108 | Handling of `tracking` command allows making arbitrary blind requests with user's cookies from Grammarly Extension's origin
 https://hackerone.com/reports/389116 | ███ exposes sensitive shipment information to public web
 https://hackerone.com/reports/389250 | IDOR
@@ -5340,6 +5342,7 @@ https://hackerone.com/reports/390499 | Stack Overflow in JSON RPC Server
 https://hackerone.com/reports/390537 | DNS misconfiguration on email.alerts.newrelic.com
 https://hackerone.com/reports/390631 | [ascii-art] Command injection
 https://hackerone.com/reports/390728 | Stored XSS on scan.nextcloud.com
+https://hackerone.com/reports/390847 | Prototype Pollution Vulnerability in cached-path-relative Package
 https://hackerone.com/reports/390848 | Command Injection is ps Package
 https://hackerone.com/reports/390857 | Prototype Pollution Vulnerability in noble Package
 https://hackerone.com/reports/390860 | Prototype Pollution Vulnerability in mpath Package
@@ -5364,6 +5367,7 @@ https://hackerone.com/reports/394294 | [samsung-remote] Command injection
 https://hackerone.com/reports/394329 | Account Takeover via billing
 https://hackerone.com/reports/394332 | [Клевер/Android] Небезопасный BroadcastReceiver позволяет создавать окно диалога в приложении посредством другого неавторизованного приложения
 https://hackerone.com/reports/394346 | Stored Cross Site Scripting on Zendesk agent dashboard
+https://hackerone.com/reports/394516 | Stats Token doesn't expire after deactivating account
 https://hackerone.com/reports/394861 | Incorrect Permission Assignment for Critical Resource
 https://hackerone.com/reports/395296 | Phone Call to XXE via Interactive Voice Response
 https://hackerone.com/reports/395351 | Bypass subdomain limits using race condition
