@@ -5437,7 +5437,7 @@ https://hackerone.com/reports/403736 | [takeapeek] Path traversal allow to expos
 https://hackerone.com/reports/403783 | [www.zomato.com] Tampering with Order Quantity and paying less amount then actual amount, leads to business loss
 https://hackerone.com/reports/403793 | Stored 'undefined' Cross-site Scripting
 https://hackerone.com/reports/403803 | SignUp With Fake Email
-https://hackerone.com/reports/403822 | Possible Take Over Subdomain For Inbound Emails 
+https://hackerone.com/reports/403822 | Possible Take Over Subdomain For Inbound Emails
 https://hackerone.com/reports/403909 | Information Exposure Through Directory Listing - https://apps.nextcloud.com/static/
 https://hackerone.com/reports/404126 | [buttle] Unsafe rendering of Markdown files
 https://hackerone.com/reports/404797 | IDOR to delete images from other stores
@@ -5518,6 +5518,7 @@ https://hackerone.com/reports/413077 | Stored Cross Site Scripting.
 https://hackerone.com/reports/413115 | CRLF injection agentcrm.8x8.com
 https://hackerone.com/reports/413303 | Блокированный ящик ( Обход )
 https://hackerone.com/reports/413388 | Untrusted strings that are cache fetched with raw option are automatically marshal loaded
+https://hackerone.com/reports/413412 | Reflected XSS on secure.chaturbate.com
 https://hackerone.com/reports/413426 | Open redirect on chaturbate.com (tipping/purchase_success)
 https://hackerone.com/reports/413442 | [chatws25.stream.highwebmedia.com] - Reflected XSS in c parameter
 https://hackerone.com/reports/413505 |  No rate limit in affiliate statsapi endpoint
@@ -5533,6 +5534,7 @@ https://hackerone.com/reports/415139 | Reflected xss on theacademy.upserve.com
 https://hackerone.com/reports/415168 | [*.rocketbank.ru] Web Cache Deception & XSS
 https://hackerone.com/reports/415178 | chrome://brave can still be navigated to, leading to RCE
 https://hackerone.com/reports/415202 | Flag WriteUp
+https://hackerone.com/reports/415222 | Solution for h15411's CTF challenge
 https://hackerone.com/reports/415238 |  [Admin Panel] CSRF to resume/pause runner
 https://hackerone.com/reports/415258 | RCE: DnDing shortcut files to chrome://brave allows loading HTML files in Muon's context
 https://hackerone.com/reports/415272 | Linux Desktop application slack executable does not use pie / no ASLR
