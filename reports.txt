@@ -5667,11 +5667,13 @@ https://hackerone.com/reports/435648 |  TOTP Key is shorter than RFC 4226 recomm
 https://hackerone.com/reports/436928 |  RCE as Admin defeats WordPress hardening and file permissions
 https://hackerone.com/reports/437142 | Instant open redirect on Live preview WEB Ide opening
 https://hackerone.com/reports/437800 |  Passive mixed content issues on the site https://*.fanduel.com
+https://hackerone.com/reports/437863 | SVG file that HTML Included is able to upload via File Manager
 https://hackerone.com/reports/438240 | Reflected Cross site Scripting (XSS) on www.starbucks.com
 https://hackerone.com/reports/438274 | Prototype pollution attack (smart-extend)
 https://hackerone.com/reports/438299 | Information Exposure Through Directory Listing vulnerability on 8 vcache**.usw2.snappytv.com websites
 https://hackerone.com/reports/438306 | Accidental Access to Programs Information via SAML Login
 https://hackerone.com/reports/438953 | Cross site scripting (content-sniffing)
+https://hackerone.com/reports/439021 | Web cache deception attack - expose earning state information
 https://hackerone.com/reports/439098 | Prototype pollution attack (mergify)
 https://hackerone.com/reports/439107 | Prototype pollution attack (lutils-merge)
 https://hackerone.com/reports/439120 | Prototype pollution attack (upmerge)
