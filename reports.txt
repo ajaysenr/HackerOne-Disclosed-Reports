@@ -5714,13 +5714,16 @@ https://hackerone.com/reports/449482 | Command injection in Pathname
 https://hackerone.com/reports/449613 | benchmark metrics available at 5.61.239.154
 https://hackerone.com/reports/449617 | Null character at fnmatch
 https://hackerone.com/reports/449627 | XXE крит
+https://hackerone.com/reports/449671 | Broken Authentication and session management OWASP A2
 https://hackerone.com/reports/449818 | Is the 504 Gateway Time-out error ok?
 https://hackerone.com/reports/450006 | flatmap-stream malicious package (distributed via the popular events-stream)
+https://hackerone.com/reports/450796 | XSSI on refer.xoom.com allows stealing email addresses and posting to Twitter on behalf of victim
 https://hackerone.com/reports/450882 | Able to bypass information requirements before launching a Chat.
 https://hackerone.com/reports/451077 | source code leak
 https://hackerone.com/reports/452010 | сервант статус
 https://hackerone.com/reports/452559 | Possibility to overwrite any file in the vpe.cdn.vimeo.tv leads to the Stored XSS for the all customers on the embed.vhx.tv
 https://hackerone.com/reports/452835 | Уязвимый класс WebView
+https://hackerone.com/reports/452854 | Expired reshare links allow access to all files in share
 https://hackerone.com/reports/452920 | Import of repositories from GitHub is tied to username instead of immutable ID
 https://hackerone.com/reports/452959 | A user can bypass approval step in Hacker Publishing feature, allowing them to publish reports immediately
 https://hackerone.com/reports/452973 | Inline banner on Report page discloses whether organization runs a private program
@@ -5733,6 +5736,7 @@ https://hackerone.com/reports/454365 | Prototype pollution attack through jQuery
 https://hackerone.com/reports/454401 | [e.mail.ru] Stored xss in Mpop cookie
 https://hackerone.com/reports/454770 | Открытая панель
 https://hackerone.com/reports/454949 | Race Condition in Flag Submission
+https://hackerone.com/reports/455645 | Exposed Kubernetes API - RCE/Exposed Creds
 https://hackerone.com/reports/455726 | Thailand - SNMP Publicly Accessible
 https://hackerone.com/reports/455858 | [p2p.qiwi.com] nginx alias traversal
 https://hackerone.com/reports/456333 | [auth2.zomato.com] Reflected XSS at `oauth2/fallbacks/error` | ORY Hydra an OAuth 2.0 and OpenID Connect Provider
