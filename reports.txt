@@ -5822,9 +5822,11 @@ https://hackerone.com/reports/474262 | XSS due to incomplete JS escaping
 https://hackerone.com/reports/474397 | Error Page Content Spoofing or Text Injection
 https://hackerone.com/reports/474656 | Cross-site Scripting (XSS) on HackerOne careers page
 https://hackerone.com/reports/474798 | Subdomain takeover on healthyhackathon.khanacademy.org and hackweek.khanacademy.org
+https://hackerone.com/reports/474833 | CSRF Vulnerability on https://signin.rockstargames.com/tpa/facebook/link/
 https://hackerone.com/reports/474899 | User Enumeration
 https://hackerone.com/reports/474963 | Missing Two Factor Authentication in /admin/login
 https://hackerone.com/reports/475114 | Github repo's wiki publicly editable
+https://hackerone.com/reports/475167 | Apache mod_negotiation filename bruteforcing https://api.ratelimited.me
 https://hackerone.com/reports/475177 | Логирование ответов запросов VK API в приложении Клевер
 https://hackerone.com/reports/475499 | heap buffer overflow in phar_detect_phar_fname_ext
 https://hackerone.com/reports/475660 | Response program can display "eligible for bounty" in scope area in program policy
@@ -5865,6 +5867,7 @@ https://hackerone.com/reports/481733 | ssl cookkie without secure flag set
 https://hackerone.com/reports/482170 | Ports are not shown in third-party site redirect warning page.
 https://hackerone.com/reports/482200 |  puttygen: heap-buffer-overflow in mp_get_decimal()
 https://hackerone.com/reports/482707 | Information Exposure Through an Error Message at news.starbucks.com
+https://hackerone.com/reports/482743 | Facebook OAuth Code Theft through referer leakage on support.rockstargames.com
 https://hackerone.com/reports/482780 | JSONP hijacking
 https://hackerone.com/reports/482818 | CSRF на лайк к отзыву (Pandao)
 https://hackerone.com/reports/483439 | ssl cookie without secure flag set
