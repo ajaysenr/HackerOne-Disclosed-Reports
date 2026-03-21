@@ -5952,6 +5952,7 @@ https://hackerone.com/reports/500436 | DOM based CSS Injection on grammarly.com
 https://hackerone.com/reports/500468 | SSRF at ideas.starbucks.com
 https://hackerone.com/reports/500515 |  XXE at ecjobs.starbucks.com.cn/retail/hxpublic_v6/hxdynamicpage6.aspx
 https://hackerone.com/reports/500686 | url that twitter mobile site can not load
+https://hackerone.com/reports/501084 | Upload of Avatars for other Users
 https://hackerone.com/reports/501585 | Zero-amount miner TX + RingCT allows monero wallet to receive arbitrary amount of monero
 https://hackerone.com/reports/501672 |  Restricted user can view all account invoices, payment method details, PII of account owner through zoura_api endpoints
 https://hackerone.com/reports/502593 |  Attacker is able to access commit title and team member comments which are supposed to be private
@@ -5964,6 +5965,7 @@ https://hackerone.com/reports/503804 |  Path Disclosure Vulnerability http://crm
 https://hackerone.com/reports/503821 |  Assertion `col >= 0 && col < line->cols' failed, process aborted while streaming ouput from remote server
 https://hackerone.com/reports/504162 | Делаем плейлист от любого(почти) пользователя/группы/артиста.
 https://hackerone.com/reports/504413 | CTF write-up: c8889970d9fb722066f31e804e351993
+https://hackerone.com/reports/504507 | Domain does not Match SSL Certificate
 https://hackerone.com/reports/504509 | Bypassing the fix of #503922
 https://hackerone.com/reports/504514 | Web cache poisoning leads to disclosure of CSRF token and sensitive information
 https://hackerone.com/reports/504751 |  Open Redirect
@@ -5973,12 +5975,15 @@ https://hackerone.com/reports/504782 |  CSRF at adding new role (user-management
 https://hackerone.com/reports/504951 |  Malformed playlist.txt in GoldSrc games leads to Access Violation & arbitrary code execution
 https://hackerone.com/reports/505007 |  [Twitter Open Source] Releases were & are built/executed/tested/released in the context of insecure/untrusted code
 https://hackerone.com/reports/505173 |  Malformed map detailed texture files in GoldSrc games lead to Remote Code Execution
+https://hackerone.com/reports/505259 | Image injection on /screenshot-viewer/responsive/image ( FIX BYPASS)
 https://hackerone.com/reports/505278 | DOS in stream filters
+https://hackerone.com/reports/505336 | Просмотр аттачей удаленного сообщения.....
 https://hackerone.com/reports/505424 | Twitter ID exposure via error-based side-channel attack
 https://hackerone.com/reports/505947 | XXE on pulse.mail.ru
 https://hackerone.com/reports/506040 |  ChaCha20-Poly1305 with long nonces
 https://hackerone.com/reports/506126 | image injection /screenshot-viewer/responsive/image (ANOTHER FIX BYPASS)
 https://hackerone.com/reports/506161 |  Build fetches jars over HTTP
+https://hackerone.com/reports/506496 | RingCT malformed tx prevents target from being able to sweep balance
 https://hackerone.com/reports/506595 | CryptoNote: remote node DoS
 https://hackerone.com/reports/506646 | Webshell via File Upload on ecjobs.starbucks.com.cn
 https://hackerone.com/reports/506654 | [typeorm] SQL Injection
@@ -5988,16 +5993,19 @@ https://hackerone.com/reports/507132 |  Stored XSS in notes (charts) because of 
 https://hackerone.com/reports/507139 | DOM based XSS in the WooCommerce plugin
 https://hackerone.com/reports/507172 |  Able to bypass "Device credentials" Lock
 https://hackerone.com/reports/507303 | [file-browser] Inadequate Output Encoding and Escaping
+https://hackerone.com/reports/507310 | [deliver-or-else] Path Traversal
 https://hackerone.com/reports/507525 | DoS attacks utilizing camo.stream.highwebmedia.com
 https://hackerone.com/reports/507957 |  Stored XSS on www.starbucks.com.sg/careers/career-center/career-landing-*
 https://hackerone.com/reports/507972 | Просмотр удаленного сообщения из лс группы + возможность его переслать.
 https://hackerone.com/reports/508184 |  Persistent XSS in Note objects
+https://hackerone.com/reports/508256 | EdgeSwitch Command Injection
 https://hackerone.com/reports/508446 | XSS in Bootbox
 https://hackerone.com/reports/508459 |  SSRF in webhooks leads to AWS private keys disclosure
 https://hackerone.com/reports/508490 | Nextcloud domain and name of every user leaked to lookup server
 https://hackerone.com/reports/508493 |  Group admins can remove arbitrary data from "data" directory (including admin data)
 https://hackerone.com/reports/508506 | Загружаем видеозаписи в основной альбом любой открытой группе/паблику.
 https://hackerone.com/reports/508517 | DOM based XSS on /GTAOnline/tw/starterpack/
+https://hackerone.com/reports/508894 | Vulnerability in GoldSource Engine allows to upload and run an arbitrary DLL on client
 https://hackerone.com/reports/509080 | LFI on Accounting server and RCE on FliteThermostat admin server
 https://hackerone.com/reports/509315 | c3p0 may be exploited by a Billion Laughs Attack when loading XML configuration
 https://hackerone.com/reports/509390 | Missing DNSSEC
@@ -6011,6 +6019,7 @@ https://hackerone.com/reports/510759 | IDOR in Report CSV export discloses the I
 https://hackerone.com/reports/510887 |  [CVE-2018-18312] regcomp: heap-buffer-overflow write / reg_node overrun
 https://hackerone.com/reports/510888 | [CVE-2018-18313] regcomp: heap-buffer-overflow read in S_grok_bslash_N
 https://hackerone.com/reports/511044 |  [www.zomato.com] Availing Zomato Gold membership for free by tampering plan id(s)
+https://hackerone.com/reports/511317 | Potential use-after-free due to struct array_entry_t lacking an explicit copy constructor
 https://hackerone.com/reports/511381 |  All functions that allow users to specify color code are vulnerable to ReDoS
 https://hackerone.com/reports/511440 |   credentials leakage in public lead to view dev websites
 https://hackerone.com/reports/511459 | [listening-processes] Command Injection
