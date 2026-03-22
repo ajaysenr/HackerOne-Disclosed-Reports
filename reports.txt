@@ -6067,11 +6067,13 @@ https://hackerone.com/reports/522876 | In Dockerized Environments, Failing to Re
 https://hackerone.com/reports/526265 |  DOM XSS on app.starbucks.com via ReturnUrl
 https://hackerone.com/reports/526325 |  Stored XSS in Wiki pages
 https://hackerone.com/reports/526570 |  Bypassing push rules via MRs created by Email
+https://hackerone.com/reports/526880 | Request smuggling on ████████
 https://hackerone.com/reports/527042 |  CVE-2019-0196: mod_http2 with scoreboard Use-After-Free (Read)
 https://hackerone.com/reports/527296 | XSS
 https://hackerone.com/reports/528940 |  STAFF member with NO Explicit permissions can view `ActivityFeed` via GraphQL
 https://hackerone.com/reports/529371 | Writeup
 https://hackerone.com/reports/530289 | [harp] Path traversal using symlink
+https://hackerone.com/reports/530292 | Local Privilege Escalation during execution of VeraCryptExpander.exe (UAC bypass)
 https://hackerone.com/reports/530441 | Unauthorized access to █████████.com allows access to Uber Brazil tax documents and system.
 https://hackerone.com/reports/530458 |  Stored XSS in Rich editor via Embed datetime
 https://hackerone.com/reports/530464 |  Stored XSS in Profile Comments
