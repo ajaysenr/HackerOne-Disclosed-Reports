@@ -6228,6 +6228,7 @@ https://hackerone.com/reports/617543 | Arbitrary File Reading on Uber SSL VPN
 https://hackerone.com/reports/617896 |  Bypass Email Verification using Salesforce -- Reproducible in gitlab.com
 https://hackerone.com/reports/618031 | Stored XSS in Discounts section
 https://hackerone.com/reports/619484 |  User with read-only access to a share can gain write access to sub-folders in the share
+https://hackerone.com/reports/619578 | Rate Limit workaround in the message of the phone number verification 
 https://hackerone.com/reports/621308 | NULL pointer dereference in `mrb_check_frozen`
 https://hackerone.com/reports/622113 | SVN repository
 https://hackerone.com/reports/622118 | пхпинфо
