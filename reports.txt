@@ -6286,17 +6286,21 @@ https://hackerone.com/reports/639796 | Reflected XSS in www.olx.co.id
 https://hackerone.com/reports/640488 |  Total bounties paid amount is disclosed because of redesign of the Program Profiles
 https://hackerone.com/reports/640530 | Insecure Frame (External)
 https://hackerone.com/reports/642281 |  Stored XSS in https://app.mopub.com
+https://hackerone.com/reports/642488 | SMTP Failure Leads to Chain of Internal System Failure
 https://hackerone.com/reports/642498 | Captcha protection Bypass on Forgot password page
 https://hackerone.com/reports/642515 |  User can delete data in shared folders he's not autorized to access
 https://hackerone.com/reports/642675 | Bypass for blind SSRF #281950 and #287496
+https://hackerone.com/reports/642862 | Option method enabled in kartpay Webservers
 https://hackerone.com/reports/642876 | URl redirection
 https://hackerone.com/reports/642886 | Reauthentication for changing password bypass
 https://hackerone.com/reports/643225 | HTTP Request Smuggling
 https://hackerone.com/reports/643274 | Viral Direct Message Clickjacking via link truncation leading to capture of both Google credentials & installation of malicious 3rd party Twitter App
+https://hackerone.com/reports/643278 | SSRF in the Custom Integration Webhook discloses AWS metadata
 https://hackerone.com/reports/643446 | Wrong link on corne.maximum.nl
 https://hackerone.com/reports/643622 |  SSRF In Get Video Contents
 https://hackerone.com/reports/643882 |  Developper's websites are easily accessibles leading to massive information disclosure
 https://hackerone.com/reports/643908 | Stored XSS Vulnerability
+https://hackerone.com/reports/644238 | Server Side Request Forgery
 https://hackerone.com/reports/644358 | PII leakage-Full SSN on ███
 https://hackerone.com/reports/645264 |  Program Email Nofication settings ignored when being added as an external contributor
 https://hackerone.com/reports/646505 | ██████ DOM XSS via Shopify.API.remoteRedirect
@@ -6305,6 +6309,7 @@ https://hackerone.com/reports/647409 | ██████████ bruteforce
 https://hackerone.com/reports/648222 | [██████████] Unauthorized access to admin panel
 https://hackerone.com/reports/648298 | [███████] Reflected GET XSS (/mission.php?...&missionDate=*)
 https://hackerone.com/reports/648346 | [████████] Boolean SQL Injection (/personnel.php?content=profile&rcnum=*)
+https://hackerone.com/reports/648348 | [█████] Reflected GET XSS  (/personnel.php?...&rcnum=*) with mouse action
 https://hackerone.com/reports/648434 | Multiple HTTP Smuggling reports
 https://hackerone.com/reports/649533 |  Enable 2FA without verifying the email
 https://hackerone.com/reports/651355 | Unsecured Dropwizard Admin Panel on display.uber-adsystem.com exposes sensitive server information
