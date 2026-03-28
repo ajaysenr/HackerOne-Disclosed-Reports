@@ -6339,9 +6339,12 @@ https://hackerone.com/reports/662155 | Clickjacking on https://download.nextclou
 https://hackerone.com/reports/662204 |  Persistent XSS via filename in projects
 https://hackerone.com/reports/662218 |  Talk - Leak of password-protected room name via already existent resource addition
 https://hackerone.com/reports/662287 | Cross-site Scripting (XSS) - Stored in RDoc wiki pages
+https://hackerone.com/reports/662412 | Integer overflow  at line 1603 in the src/operator.c file
 https://hackerone.com/reports/662583 | Manipulation of exam results at Semrush.Academy
+https://hackerone.com/reports/663628 | Access to multiple production Grafana dashboards
 https://hackerone.com/reports/663729 |  [Brave browser] WebTorrent has DNS rebinding vulnerability
 https://hackerone.com/reports/664038 |  protected Tweet settings overwritten by other settings
+https://hackerone.com/reports/665144 | Partial SSN exposed through Presentation slides on ██████████
 https://hackerone.com/reports/665302 | [seeftl] Stored XSS when directory listing via filename.
 https://hackerone.com/reports/665330 |  Out of Bounds Memory Read in php_jpg_get16
 https://hackerone.com/reports/665398 |  Subdomain takeover of datacafe-cert.starbucks.com
@@ -6350,6 +6353,7 @@ https://hackerone.com/reports/665722 |  â€œemailâ€ MFA mode allows bypa
 https://hackerone.com/reports/665791 | Publicly Accessible Harshi Corp Consul
 https://hackerone.com/reports/665798 |  Earn free DAI interest (inflation) through instant CDP+DSR in one tx
 https://hackerone.com/reports/666065 | [sso.33slona.ru] Application Messages Error stacktrace PHP.
+https://hackerone.com/reports/666557 | Content Spoofing /Text Injection in https://docs.nextcloud.com
 https://hackerone.com/reports/666632 | Delete direct message history without access the proper conversation_id
 https://hackerone.com/reports/666722 |  Email enumeration at SignUp page
 https://hackerone.com/reports/667032 | Information disclosure (system username, server info) in the x-amz-meta-s3cmd-attrs response header on data.gov
@@ -6362,6 +6366,7 @@ https://hackerone.com/reports/667770 | Stored XSS at APM transaction map (transa
 https://hackerone.com/reports/668439 |  IDOR leading to downloading of any attachment
 https://hackerone.com/reports/669365 | Veracode and security audit record are publicly available
 https://hackerone.com/reports/669438 |  [Bypass #645264] Report title disclosure despite the program settings for email notification is set to "No Content"
+https://hackerone.com/reports/669440 | Link obfuscation bug
 https://hackerone.com/reports/669736 | Bypass Rejected ads so user can view it as normal live ad.
 https://hackerone.com/reports/669776 |  Disclosure of Program email Title Report when being removed as contributor. Bypass for Report #645264
 https://hackerone.com/reports/670572 | Uncontrolled Resource Consumption in any Markdown field using Mermaid
