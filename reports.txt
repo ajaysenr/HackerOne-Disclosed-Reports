@@ -6437,6 +6437,7 @@ https://hackerone.com/reports/687734 | Double-free of `trailers_buf' on `Curl_ht
 https://hackerone.com/reports/687887 | [3DS][StreetPass] Buffer Overflow in Super Mario Maker level decompression
 https://hackerone.com/reports/687908 | Found Origin IP's Lead To Access To [ Grafana Instance , PgHero Instance [ Can SQL Injection ]
 https://hackerone.com/reports/688048 | Incorrect IPv6 literal parsing leads to validated connection to unexpected https server.
+https://hackerone.com/reports/688270 | OS Command Injection in Nexus Repository Manager 2.x(bypass CVE-2019-5475)
 https://hackerone.com/reports/689245 |  SSRF In plantuml (on plantuml.pre.gitlab.com)
 https://hackerone.com/reports/689314 |  Project Template functionality can be used to copy private project data, such as repository, confidential issues, snippets, and merge requests
 https://hackerone.com/reports/689997 | Disclosure of Email title report in quick award paypout email (no content mode)
@@ -6447,6 +6448,7 @@ https://hackerone.com/reports/690796 | Directory listing is enabled that exposes
 https://hackerone.com/reports/690812 | CSRF in attach phone API endpoint on delivery-club.ru
 https://hackerone.com/reports/691611 |  XSS while logging using Google
 https://hackerone.com/reports/691766 | Обход комиссии на переводы
+https://hackerone.com/reports/691977 | [reveal.js] XSS by calling arbitrary method via postMessage
 https://hackerone.com/reports/692040 | PHP 7.3.3: Heap-use-after-free (READ of size 8) in match_at()
 https://hackerone.com/reports/692068 | Domain takeover on http://doesfranshaveashell.com/ due to expiration
 https://hackerone.com/reports/692116 | Access to ██████████████ due to weak credentials
@@ -6459,10 +6461,15 @@ https://hackerone.com/reports/693788 | [expressjs-ip-control] Whitelist IP bypas
 https://hackerone.com/reports/693933 | PII leakage due to scrceenshot of health records
 https://hackerone.com/reports/693943 | SSN leak due to editable slides
 https://hackerone.com/reports/694181 |  Worker container escape lead to arbitrary file reading in host machine
+https://hackerone.com/reports/694449 | Buffer write overflow when forming dns over http request
 https://hackerone.com/reports/694604 |  HTTP Request Smuggling on vpn.lob.com
 https://hackerone.com/reports/694749 | Clicking "http://burp" hyperlink on FireFox CA Installation guide redirects to "burp.com" (unclaimed website).
+https://hackerone.com/reports/694865 | [CVE-2018-0296] Cisco VPN path traversal on the https://██████████
 https://hackerone.com/reports/694930 | [snekserve] Stored XSS via filenames HTML formatted
+https://hackerone.com/reports/695776 | [CVE-2018-0296] Cisco VPN path traversal on the https://███████/ (██████)
+https://hackerone.com/reports/695780 | [CVE-2018-0296] Cisco VPN path traversal on the https://████████/ (no hostname)
 https://hackerone.com/reports/696266 |  "Bounties paid in the last 90 days" discloses the undisclosed bounty amount in program statistics
+https://hackerone.com/reports/696822 | Potential invocation of qsort on uninitialized memory during cookie save
 https://hackerone.com/reports/697055 |  Worker container escape lead to arbitrary file reading in host machine [again]
 https://hackerone.com/reports/697099 | Reflected XSS in OAUTH2 login flow
 https://hackerone.com/reports/697412 | [unibet.com] Delete messages via IDOR at /mom-api/messages/unibet_█████████@unibet/
@@ -6470,6 +6477,8 @@ https://hackerone.com/reports/697512 | Information Disclosure through Sentry Ins
 https://hackerone.com/reports/697959 | Only the file extensions are checked, not the MIME types as configured
 https://hackerone.com/reports/698416 | Host Header Injection
 https://hackerone.com/reports/698708 |  Bypass report #416983 - Removed Staff members who had "Apps" permission can still modify flow app connections
+https://hackerone.com/reports/698789 | Unauthenticated arbitrary file upload on the https://█████/ (█████████)
+https://hackerone.com/reports/699200 | Signup with any email and enable 2FA without verifying email
 https://hackerone.com/reports/700051 |  Misconfigured s3 Bucket exposure
 https://hackerone.com/reports/700091 | Mixed content issues on newrelic.com
 https://hackerone.com/reports/700726 | Reflected XSS  on Lark Suite
