@@ -6531,32 +6531,39 @@ https://hackerone.com/reports/712344 | [Bypass fixed #664038 and #519059] Applic
 https://hackerone.com/reports/712979 |  Creating malformed URLs via new line character in-between two URLs leads to misrepresented hyperlinks in Tweets/DMs
 https://hackerone.com/reports/713006 |  Keybase client (Windows 10): Write files anywhere in userland using relative path in "download attachement" feature
 https://hackerone.com/reports/713285 |  http request smuggling in pscp.tv and periscope.tv
+https://hackerone.com/reports/713321 | Exploiting Network and Timing Side-Channels to Break Monero Receiver Anonymity
 https://hackerone.com/reports/713407 | ActiveStorage throws exception when using whitespace as filename, may lead to denial of service of multiple pages
 https://hackerone.com/reports/714215 | curl on Windows can be forced to execute code via OpenSSL environment variables
 https://hackerone.com/reports/714521 | stripo.email reflected xss
 https://hackerone.com/reports/714673 | [dobro.city-mobil.ru] Недостаточная аутентификация (доступ к панели администратора)
 https://hackerone.com/reports/715192 |  Private program disclosure via `vpn_suspended` GraphQL query
 https://hackerone.com/reports/715413 | curl successfully matches IP address literal in URL against IP address literal in certificate Common Name
+https://hackerone.com/reports/715996 | http request smuggling in  twitter.com
 https://hackerone.com/reports/716292 |  JumpCloud API Key leaked via Open Github Repository.
 https://hackerone.com/reports/716448 | Unquoted Service Path in "Rockstar Game Library Service"
 https://hackerone.com/reports/716570 | Stored XSS (Hexo-admin plugin)
+https://hackerone.com/reports/716677 | Domain Takeover - gl-canary.freetls.fastly.net
 https://hackerone.com/reports/716761 |  WAF bypass via double encoded non standard ASCII chars permitted a reflected XSS on response page not found pages - (629745 bypass)
 https://hackerone.com/reports/716976 |  Open redirect in semrush.com
 https://hackerone.com/reports/717716 | Any user with access to program can resume and suspend HackerOne Gateway
 https://hackerone.com/reports/717729 | Reporter, external users, collaborators can mark sent swag awarded to reporter as unsent
+https://hackerone.com/reports/718852 | Norway - store.starbucks.no - CSRF on email change
 https://hackerone.com/reports/719426 |  File-drop content is visible through the gallery app
 https://hackerone.com/reports/719631 | [Partial] SSN & [PII] exposed through iPERMs Presentation Slide.
 https://hackerone.com/reports/719875 | LFI through the MySQL connection
 https://hackerone.com/reports/720306 |  Docker image with FPM is vulnerable to CVE-2019-11043
+https://hackerone.com/reports/721333 | Buffer Overflow in smblib.c
 https://hackerone.com/reports/721341 | Information can be changed without a password
 https://hackerone.com/reports/722145 | [CRITICAL] Sql Injection on http://axa.dxi.eu
 https://hackerone.com/reports/722327 |  CVE-2019-11043: a buffer underflow in fpm_main.c can lead to RCE in php-fpm
+https://hackerone.com/reports/722748 | Bypass configured 2FA provider with another provider that can be set up at login
 https://hackerone.com/reports/722919 | Unrestricted File Upload on https://app.lemlist.com
 https://hackerone.com/reports/722977 | Reflected XSS on https://go.mail.ru/search?fr=mn&q=<payload>
 https://hackerone.com/reports/723060 |  Reflected XSS at https://pay.gold.razer.com escalated to account takeover
 https://hackerone.com/reports/723118 |  [IDOR] API endpoint leaking sensitive user information
 https://hackerone.com/reports/723175 |  De-anonymization Attack: Cross Site Information Leakage
 https://hackerone.com/reports/723707 |  Code injection in https://www.semrush.com
+https://hackerone.com/reports/724153 | XSS (leads to arbitrary file read in Rocket.Chat-Desktop)
 https://hackerone.com/reports/724217 |  tcpdump: CVE-2018-14879 - buffer overflow in tcpdump.c:get_next_file()
 https://hackerone.com/reports/724243 | Tcpdump before 4.9.3 has a buffer over-read in print-802_11.c (CVE-2018-16227)
 https://hackerone.com/reports/724253 | Tcpdump before 4.9.3 has a buffer over-read in print-dccp.c:dccp_print_option() (CVE-2018-16229)
@@ -6573,6 +6580,7 @@ https://hackerone.com/reports/726773 |  HTTP Request Smuggling on https://labs.d
 https://hackerone.com/reports/727727 | Path traversal in filename in LINE Mac client
 https://hackerone.com/reports/727870 |  [www.yoti.com] Wordpress user admin information discloure
 https://hackerone.com/reports/728004 | Clickjacking in the admin page
+https://hackerone.com/reports/728040 | [meta-git] RCE via insecure command formatting
 https://hackerone.com/reports/728047 | [git-promise] RCE via insecure command formatting
 https://hackerone.com/reports/728199 | [CSRF] No Csrf protection against sending invitation to join the team.
 https://hackerone.com/reports/728664 | Cache poisoning DoS to various TTS assets
@@ -6582,6 +6590,7 @@ https://hackerone.com/reports/729424 |  Stored XSS in private message
 https://hackerone.com/reports/730067 | Account TakeOver through password recovery at am.ru
 https://hackerone.com/reports/730779 |  HTTP header values do not have trailing OWS trimmed
 https://hackerone.com/reports/730788 | CRLF Injection - http://stage-static-cdn.mackeeper.com/
+https://hackerone.com/reports/731724 | Firebase Firestore insecure database
 https://hackerone.com/reports/731878 |  An implementation flaw in Mail.ru can be exploited for DKIM signature spoofing and email spoofing
 https://hackerone.com/reports/732394 | RXSS on /landings/123.1/index.php (mackeeperapp.mackeeper.com)
 https://hackerone.com/reports/732415 |  The authenticity_token can be reversed and used to forge valid per_form_csrf_tokens for arbitrary routes
@@ -6593,6 +6602,7 @@ https://hackerone.com/reports/733152 | RXSS on unsubscribe feature (affiliates.k
 https://hackerone.com/reports/733248 | Stored XSS in wordpress.com
 https://hackerone.com/reports/733267 | [Portal 2] Remote Code Execution via voice packets
 https://hackerone.com/reports/734418 | Open Redirect at https://store.mackeeper.com/767/cookie via redirectto parameter
+https://hackerone.com/reports/734433 | XSS in https://affiliates.kromtech.com
 https://hackerone.com/reports/735638 | Account takeover via XSS
 https://hackerone.com/reports/735748 |  HTTP request smuggling using malformed Transfer-Encoding header
 https://hackerone.com/reports/736236 | [qiwi.me] Stored XSS
