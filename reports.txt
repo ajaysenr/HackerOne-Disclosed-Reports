@@ -6767,6 +6767,7 @@ https://hackerone.com/reports/767829 | Account take over of 'light' starbuckscar
 https://hackerone.com/reports/768110 |  Race condition (TOCTOU) in NordVPN can result in local privilege escalation
 https://hackerone.com/reports/768322 | Remote Code Execution (Reverse Shell) - File Manager
 https://hackerone.com/reports/768327 | Unauthenticated HTML Injection Stored - ContactUs form
+https://hackerone.com/reports/768345 | Korea - Reflected XSS on https://www.istarbucks.co.kr/app/getGiftStock.do via "skuNo" and "skuImgUrl" parameters
 https://hackerone.com/reports/768574 | Denial Of Service in Strapi Framework using argument injection
 https://hackerone.com/reports/768677 |  lack of input validation that can lead Denial of Service (DOS)
 https://hackerone.com/reports/769058 |  CORS misconfiguration which leads to the disclosure of certain data concerning the user.
@@ -6778,9 +6779,11 @@ https://hackerone.com/reports/770504 |  Bypass Password Authentication for updat
 https://hackerone.com/reports/770513 | Reflected xss on 8x8.com subdomain
 https://hackerone.com/reports/770548 | Insecure OAuth redirection at [admin.8x8.vc]
 https://hackerone.com/reports/770557 | Insecure storage of private files
+https://hackerone.com/reports/771215 | Blind SQL Injection
 https://hackerone.com/reports/771596 | CRLF Injection in legacy url API (url.parse().hostname)
 https://hackerone.com/reports/771666 |  Stealing Zomato X-Access-Token: in Bulk using HTTP Request Smuggling on api.zomato.com
 https://hackerone.com/reports/771694 |  An attacker can buy marketplace articles for lower prices as it allows for negative quantity values leading to business loss
+https://hackerone.com/reports/771699 | Open redirect on https://account.mackeeper.com
 https://hackerone.com/reports/771977 | nordvpn Linux Desktop executable application does not use pie / no ASLR
 https://hackerone.com/reports/772118 | [c-api.city-mobil.ru] Client authentication bypass leads to information disclosure
 https://hackerone.com/reports/772448 | [blamer] RCE via insecure command formatting
@@ -6793,18 +6796,24 @@ https://hackerone.com/reports/774050 | No rate limiting for confirmation email l
 https://hackerone.com/reports/774393 | Web Server Predictable Session ID on EdgeSwitch
 https://hackerone.com/reports/774792 | Reflected cross-site scripting vulnerability on a DoD website
 https://hackerone.com/reports/774872 | Configuartion [Sensitive] Information Disclosure
+https://hackerone.com/reports/774883 | Division by zero if terminal width is 2
 https://hackerone.com/reports/774896 | Kubelet resource exhaustion attack via metric label cardinality explosion from unauthenticated requests
 https://hackerone.com/reports/775123 | Sensitive Information disclosure Through Config File
 https://hackerone.com/reports/775504 | Exposed debug.log file leads to information disclosure
 https://hackerone.com/reports/775531 | No valid SPF record found
 https://hackerone.com/reports/776017 |  Half-Blind SSRF found in kube/cloud-controller-manager can be upgraded to complete SSRF (fully crafted HTTP requests) in vendor managed k8s service.
+https://hackerone.com/reports/776371 | [chart.js] Prototype pollution
 https://hackerone.com/reports/776449 |  Restricted user can update Apdex target for applications by leveraging the GraphQL mutation
 https://hackerone.com/reports/776634 | [H1-415 2020] CTF Writeup
 https://hackerone.com/reports/776684 | [h1-415 2020] My writeup on how to retrieve the special secret document
+https://hackerone.com/reports/776699 | [h1-415 2020] Solution for h1415's CTF challenge
 https://hackerone.com/reports/777099 | [h1-415 2020] I got the flag
+https://hackerone.com/reports/777274 | DoS of https://blog.makerdao.com/ via CVE-2018-6389
+https://hackerone.com/reports/777279 | xmlrpc.php FILE IS enable it will used for Bruteforce attack 
 https://hackerone.com/reports/777651 | HTTP Request Smuggling on my.stripo.email
 https://hackerone.com/reports/777942 |  Unrestricted access to any "connected pack" on docs
 https://hackerone.com/reports/777984 |  Denial of Service with Cookie Bomb
+https://hackerone.com/reports/778610 | Squid as reverse proxy RCE and data leak
 https://hackerone.com/reports/778629 | (Critical) Remote Code Execution Through Old TinyMCE upload bypass
 https://hackerone.com/reports/778803 |  Compromise of auth via subset/superset namespace names.
 https://hackerone.com/reports/778834 |  OOB read in php_strip_tags_ex
@@ -6818,7 +6827,9 @@ https://hackerone.com/reports/781253 | [h1-415 2020] h1ctf{y3s_1m_c0sm1c_n0w}
 https://hackerone.com/reports/781284 | Cross Site Scripting via CVE-2018-5230 on https://apps.topcoder.com
 https://hackerone.com/reports/781295 | [h1-415 2020] SSRF in a headless chrome with remote debugging leads to sensible information leak
 https://hackerone.com/reports/781325 |  Out-of-bounds Read in php_strip_tags_ex
+https://hackerone.com/reports/781664 | Several simple remote code execution in pdf-image
 https://hackerone.com/reports/781673 |  Accepting error message on twitter sends you to attacker site
+https://hackerone.com/reports/781718 | Open redirect affecting  m.rockstargames.com/
 https://hackerone.com/reports/781880 | CodeQL query to detect weak (duplicated) encryption keys for ASP.NET Telerik Upload
 https://hackerone.com/reports/782703 |  Account owner/admin can't actually delete personal users' API keys
 https://hackerone.com/reports/782979 | Information disclosure through Server side resource forgery
