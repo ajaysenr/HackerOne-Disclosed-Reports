@@ -6866,7 +6866,7 @@ https://hackerone.com/reports/788691 |  XSS - Guard - Insufficient escaping of U
 https://hackerone.com/reports/789260 |  Past payments using the Direct Debit method keep subscriptions active even if payments fail
 https://hackerone.com/reports/789388 | Accessible Restricted directory on [bcm-bcaw.mtn.cm]
 https://hackerone.com/reports/789579 |  ActiveStorage direct upload fails to sign content-length header for S3 service
-https://hackerone.com/reports/789803 | Disclosure of Co-Rider user (Uber-pooling) profile picture at Amazon AWS Cloudfront within HTTP RESPONSE 
+https://hackerone.com/reports/789803 | Disclosure of Co-Rider user (Uber-pooling) profile picture at Amazon AWS Cloudfront within HTTP RESPONSE
 https://hackerone.com/reports/790005 | 3igames.mail.ru SQL Injection
 https://hackerone.com/reports/790115 | Reflected xss
 https://hackerone.com/reports/790465 | Image Injection/XSS vulnerability affecting https://www.rockstargames.com/newswire/article
@@ -6897,6 +6897,7 @@ https://hackerone.com/reports/794099 | SSRF and LFI in site-audit tool
 https://hackerone.com/reports/794144 | Open redirection bypass in /www/admin/campaign-modify.php
 https://hackerone.com/reports/794395 | No Rate Limit On forgot Password Leading To Massive Email Flooding
 https://hackerone.com/reports/794407 | nextcloud-snap CircleCI project has vulnerable configuration which can lead to exposing secrets
+https://hackerone.com/reports/794904 | Users Without Permission Can Download Restricted Files
 https://hackerone.com/reports/796295 | csrf in https://www.rockstargames.com/reddeadonline/feedback/submit.json
 https://hackerone.com/reports/796414 | Readonly to Root Privilege Escalation on EdgeSwitch
 https://hackerone.com/reports/796487 | [dy-server2] - stored Cross-Site Scripting
@@ -6907,6 +6908,7 @@ https://hackerone.com/reports/796956 |  Able to Takeover Merchants Accounts Even
 https://hackerone.com/reports/797159 |  PHP builded for Windows with TS support does not resolve relalative paths with drive letter correctly
 https://hackerone.com/reports/797636 | Google API Key is not restricted for specific application package name and signature [Mail.ru Cloud for Android]
 https://hackerone.com/reports/797685 |  IDOR in marketing calendar tool
+https://hackerone.com/reports/797754 | Stored XSS in Application menu via Home Page Url
 https://hackerone.com/reports/797988 | SNMP Community String Disclosure to ReadOnly Users on EdgeSwitch
 https://hackerone.com/reports/798135 | PHP code injection at tz.mail.ru
 https://hackerone.com/reports/798301 |  FileZilla 3.46.3 - 'Scale factor' Buffer Overflow
@@ -6914,7 +6916,9 @@ https://hackerone.com/reports/798599 |  xss stored
 https://hackerone.com/reports/798686 |  x-request-id header reflected in server response without sanitization
 https://hackerone.com/reports/798742 | open redirect in eb9f.pivcac.prod.login.gov
 https://hackerone.com/reports/798744 |  Null Pointer Dereference in PHP Session Upload Progress
+https://hackerone.com/reports/798767 | Accessing repository and other files  by directory listing
 https://hackerone.com/reports/798812 | Broken Authentication and session management OWASP A2
+https://hackerone.com/reports/798913 | Email address is not validated, No Rate Limit and RCE On Forgot Password Page Of affiliates.nordvpn.com
 https://hackerone.com/reports/799072 |  Slowloris, body parsing
 https://hackerone.com/reports/799839 | Reflected XSS - in Email Input
 https://hackerone.com/reports/799855 | CSRF - Delete Account (Urgent)
@@ -6922,6 +6926,7 @@ https://hackerone.com/reports/799881 | Reflect XSS and CSP Bypass on https://www
 https://hackerone.com/reports/799898 | Admin Login Credential Leak for DoD Gitlab EE instance
 https://hackerone.com/reports/800109 |  An invite-only's program submission state is accessible to users no longer part of the program
 https://hackerone.com/reports/800140 | Malformed HTTP/2 SETTINGS frame leads to reachable assert
+https://hackerone.com/reports/800231 | GraphQL node interface for ActiveResource models lacks encoding for resource identifier, enabling parameter injection in Payments backend
 https://hackerone.com/reports/800324 | Several protocol parsers in before 4.9.2 could cause a buffer overflow in util-print.c:bittok2str_internal()
 https://hackerone.com/reports/800414 | [xss] setTheme в ajax_attach_action
 https://hackerone.com/reports/800608 | IDOR - Delete Users Saved Projects
@@ -6929,10 +6934,14 @@ https://hackerone.com/reports/801230 |  CodeQL query for finding ReDoS and Regex
 https://hackerone.com/reports/801370 | RCE vulnerability in Hyperledger Fabric SDK for Java
 https://hackerone.com/reports/801437 | Exposed .bash_history at http://21days2017.mtncameroon.net/.bash_history
 https://hackerone.com/reports/801743 | Race condition leads to Inflation of coins when bought via Google Play Store at endpoint https://oauth.reddit.com/api/v2/gold/android/verify_purchase
+https://hackerone.com/reports/801973 | Email notification about login email changed is not received when using verified linked email address
 https://hackerone.com/reports/802011 |  Grafana Improper authorization
 https://hackerone.com/reports/802498 | XW 6.2.0 firmware: 5 Reflected XSS issues in link.cgi
+https://hackerone.com/reports/802863 | CVE-2017-13050: The RPKI-Router parser in tcpdump before 4.9.2 has a buffer over-read in print-rpki-rtr.c:rpki_rtr_pdu_print()
 https://hackerone.com/reports/802930 | CSRF on https://market.my.games
+https://hackerone.com/reports/803028 | Monero wallet password change is confirmed when not matching
 https://hackerone.com/reports/803141 |  Unauthorized User Can Delete Any User Account
+https://hackerone.com/reports/803734 | Mail does not verify IMAP/SMTP host connected via TLS
 https://hackerone.com/reports/803816 | OTP bypass on user account deletion
 https://hackerone.com/reports/803941 | NordVPN Android Application privacy violation due to Google Advertising Identifier misuse
 https://hackerone.com/reports/804080 | Domian Takeover in [███████]
