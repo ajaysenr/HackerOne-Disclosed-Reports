@@ -6995,6 +6995,7 @@ https://hackerone.com/reports/816156 | Team members can trigger arbitrary code e
 https://hackerone.com/reports/816254 | SQL injection on contactws.contact-sys.com in TScenObject action ScenObjects leads to remote code execution
 https://hackerone.com/reports/816560 |  SQL injection on contactws.contact-sys.com in TRateObject.AddForOffice in USER_ID parameter leads to remote code execution
 https://hackerone.com/reports/816637 | CVE-2020-10938-buffer overflow/out-of-bounds write in compress.c:HuffmanDecodeImage()
+https://hackerone.com/reports/817244 | The Linux binaries (nordvpn and nordvpnd) don't use PIE/ASLR
 https://hackerone.com/reports/817245 | Hardware Wallets Do Not Check Unlock TIme
 https://hackerone.com/reports/817331 | Weak/Auto Fill Password
 https://hackerone.com/reports/818848 | Read-only team members can read all properties of webhooks
@@ -7008,20 +7009,30 @@ https://hackerone.com/reports/819863 |  XSS in PDF Viewer
 https://hackerone.com/reports/819911 | Knowledge Base Articles are Globally Modifiable via ██████
 https://hackerone.com/reports/819930 |  Ability to bruteforce mopub accountâ€™s password due to lack of rate limitation protection using {ip rotation techniques}
 https://hackerone.com/reports/820146 |  PHPUnit is included in groupfolders release package potentially causing RCE
+https://hackerone.com/reports/820224 | [sapper] Path Traversal
+https://hackerone.com/reports/821896 | Access token stealing.
 https://hackerone.com/reports/822547 | Unauthorized access to https://shipit.analogpond.com/
 https://hackerone.com/reports/823588 | Unrestricted File Upload on https://my.stripo.email and https://stripo.email
 https://hackerone.com/reports/823915 | Attacker may be able to bounce enough emails which suspend HackerOne's SES service and cause a DoS of HackerOne's email service
 https://hackerone.com/reports/824203 | Cache Manager ACL Bypass
+https://hackerone.com/reports/824433 | Reflected XSS in https://blocked.myndr.net
 https://hackerone.com/reports/824689 | Send arbitrary PUT requests when user clicks on a link
+https://hackerone.com/reports/824802 | URN Request bypass ACL Checks
 https://hackerone.com/reports/824909 |  Subdomain Takeover uptime
 https://hackerone.com/reports/824925 |  XPath Injection query in java
 https://hackerone.com/reports/824926 |  CWE-094 ScriptEngine in java
+https://hackerone.com/reports/824931 | Grammarly Keyboard for Android "Authorization Code with PKCE" flow implementation vulnerability that allows account takeover
+https://hackerone.com/reports/825643 | Flaw in Change Email https://youtu.be/MMvlcHIGs2A
 https://hackerone.com/reports/825646 | Improper email address verifiation while saving Account Details
+https://hackerone.com/reports/825729 | [logkitty] RCE via insecure command formatting
+https://hackerone.com/reports/825764 | View Only to Root Privilege Escalation on UniFi Protect
 https://hackerone.com/reports/826005 | Private account causes displayed through API
 https://hackerone.com/reports/826026 | Use-After-Free In IPV6_2292PKTOPTIONS leading To Arbitrary Kernel R/W Primitives
+https://hackerone.com/reports/826097 | SSRF chained to hit internal host leading to another SSRF which allows to read internal images.
 https://hackerone.com/reports/826176 |  program_analytics_benchmarks query shows information not visible in public
 https://hackerone.com/reports/826238 | load scripts DOS vulnerability
 https://hackerone.com/reports/826361 |  SSRF on project import via the remote_attachment_url on a Note
+https://hackerone.com/reports/826394 | Authorization Token on PlayStation Network Leaks via postMessage function
 https://hackerone.com/reports/827051 |  Use after free in smtp_server_connection_handle_command
 https://hackerone.com/reports/827052 |  Arbitrary file read via the UploadsRewriter when moving and issue
 https://hackerone.com/reports/827484 |  Missing rate limit for current password field (Password Change) Account Takeover
