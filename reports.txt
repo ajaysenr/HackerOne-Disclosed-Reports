@@ -7083,13 +7083,17 @@ https://hackerone.com/reports/838647 | Improper Input Validation on User's Locat
 https://hackerone.com/reports/838685 | Use of uninitialized value in ftp_getrc_msg method of mod_proxy_ftp.c
 https://hackerone.com/reports/838817 | Insecure crossdomain.xml on https://vdc.mtnonline.com/
 https://hackerone.com/reports/838855 |  [www.zomato.com] Blind SQL Injection in /php/geto2banner
+https://hackerone.com/reports/840285 | CSRF Account Deletion on ███ Website
 https://hackerone.com/reports/840515 | rxss at https://mackeeper.com page not found via rid parameter
 https://hackerone.com/reports/840598 | Possible denial of service when entering a loooong password
 https://hackerone.com/reports/840688 | Send Phishing/Spam email from support@sameroom.io to any email address.
+https://hackerone.com/reports/840736 | Open Redirect filter bypass through '\' character via URL parameter
 https://hackerone.com/reports/840759 |  Reflected XSS on www.hackerone.com and resources.hackerone.com
+https://hackerone.com/reports/841630 | Content Spoofing
 https://hackerone.com/reports/841947 | Remote Code Execution through Extension Bypass on Log Functionality
 https://hackerone.com/reports/842050 | HTML Injection in Glassdoor job sharing emails
 https://hackerone.com/reports/842462 | Pixel flood attack cause the javascript heap out of memory
+https://hackerone.com/reports/843171 | Desktop app RCE (#276031 bypass)
 https://hackerone.com/reports/843421 | Hyperlink Injection on Email Invitation
 https://hackerone.com/reports/844067 | Korea - LFI Server directory traversal at starbucks.co.kr
 https://hackerone.com/reports/844327 |  Java/CWE-036: Calling openStream on URLs created from remote source can lead to file disclosure
@@ -7098,9 +7102,13 @@ https://hackerone.com/reports/845677 |  Sourcemaps and Unminified Source Code Ex
 https://hackerone.com/reports/845729 | CPP: Out of order Linux permission dropping without checking return codes
 https://hackerone.com/reports/846184 | Blind SSRF at https://chat.makerdao.com/account/profile
 https://hackerone.com/reports/846338 | Reflected XSS on https://www.glassdoor.com/employers/sem-dual-lp/
+https://hackerone.com/reports/846397 | XSS on remote.bittorrent.com
 https://hackerone.com/reports/846400 | .git file accessible on remote.bittorrent.com
+https://hackerone.com/reports/846430 | frame injection on bittorrent.com
 https://hackerone.com/reports/846905 | Stored XSS in Elastic App Search
 https://hackerone.com/reports/846931 | XSS at go.mail.ru
+https://hackerone.com/reports/847185 | Members Personal Information Leak Due to IDOR
+https://hackerone.com/reports/847452 | Full Account Take-Over of ████████ Members via IDOR
 https://hackerone.com/reports/847493 | Cookie Bombing cause DOS -  businesses.uber.com
 https://hackerone.com/reports/847876 | IDOR in tracking driver logs at city-mobil.ru
 https://hackerone.com/reports/848625 | None permission staff member can identify installed application and products attached to it
