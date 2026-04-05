@@ -7159,33 +7159,50 @@ https://hackerone.com/reports/860348 |  Staff member with no permission can dele
 https://hackerone.com/reports/861170 |  Attacker with an Old account might still be able to DoS ctf.hacker101.com by sending a Crafted request
 https://hackerone.com/reports/861521 | Cookie injection leads to complete DoS over whole domain *.mackeeper.com. Injection point accountstage.mackeeper.com/
 https://hackerone.com/reports/861940 | OAuth `redirect_uri` bypass using IDN homograph attack resulting in user's access token leakage
+https://hackerone.com/reports/862589 | Spring Actuator endpoints publicly available, leading to account takeover
 https://hackerone.com/reports/862681 | No Rate Limiting on https://██████/██████████/accounts/password/reset/ endpoint leads to Denial of Service
+https://hackerone.com/reports/862882 | XSS in redditmedia.com can compromise data of reddit.com
+https://hackerone.com/reports/863221 | SSRF bypass
+https://hackerone.com/reports/863544 | [devcert] Command Injection via insecure command formatting
 https://hackerone.com/reports/863551 |  Subdomain takeover of resources.hackerone.com
 https://hackerone.com/reports/863553 |  SSRF protection bypass in /appsuite/api/oxodocumentfilter addfile action
+https://hackerone.com/reports/863944 | [extra-ffmpeg] Command Injection via insecure command formatting
 https://hackerone.com/reports/863979 |  Compromise of node can lead to compromise of pods on other nodes
+https://hackerone.com/reports/864091 | RXSS - https://███/
+https://hackerone.com/reports/864489 | Workspace configuration metadata disclosure
 https://hackerone.com/reports/864696 | There is any issue No valid SPF Records
 https://hackerone.com/reports/864701 | Prototype Pollution lodash 4.17.15
 https://hackerone.com/reports/864712 | Page has a link to google drive which has logos and a few customer phone recordings
 https://hackerone.com/reports/864777 | [vboxmanage.js] Command Injection via insecure command concatenation
+https://hackerone.com/reports/864783 | Get all personal email IDs of Glassdoor users[No user interaction required]
 https://hackerone.com/reports/865115 |  unpermitted user can change the device name of admin account
 https://hackerone.com/reports/865168 | [xps] Command Injection via insecure command concatenation
 https://hackerone.com/reports/865195 |  reading the stack data of the imap process
+https://hackerone.com/reports/865354 | Arbitrary file upload and stored XSS via ███ support request
+https://hackerone.com/reports/865436 | SQL Injection on the administrator panel
 https://hackerone.com/reports/865652 |  Blind SSRF in /appsuite/api/oxodocumentfilter&action=addfile
+https://hackerone.com/reports/865777 | Bypass hide download Nextcloud Share
+https://hackerone.com/reports/865828 | Incorrect control of the trial period
 https://hackerone.com/reports/865875 | XMLRPC, Enabling XPSA and Bruteforce and DOS + A file disclosing installer-logs.
 https://hackerone.com/reports/866271 | Lack of Input sanitization leads to database Character encoding configuration Disclosure
 https://hackerone.com/reports/866382 | HTTP Request Smuggling
+https://hackerone.com/reports/866576 | Reflected XSS on https://apps.topcoder.com/wiki/pages/createpage.action
 https://hackerone.com/reports/866597 |  Pre-auth buffer over-read in Dovecot NTLM implementation
 https://hackerone.com/reports/866605 |  Pre-auth Denial-of-Service in Dovecot RPA implementation
+https://hackerone.com/reports/866815 | Stored XSS on https://apps.topcoder.com/wiki/plugins/socialbookmarking/updatebookmark.action
 https://hackerone.com/reports/866837 | Post Based Reflected XSS on https://apps.topcoder.com/wiki/plugins/socialbookmarking/updatebookmark.action
+https://hackerone.com/reports/866844 | CSRF on https://apps.topcoder.com/wiki/plugins/socialbookmarking/updatebookmark.action
 https://hackerone.com/reports/867052 |  Access Control: Inject tasks into other users decks
 https://hackerone.com/reports/867249 | The hacker has access to the administrative part of the management reports in publish report
 https://hackerone.com/reports/867436 | misconfigured CORS let to HPP and SOP bypass
 https://hackerone.com/reports/867513 |  Takeover an account that doesn't have a Shopify ID and more
 https://hackerone.com/reports/867521 | CreatorID leaked from public content posted to SnapMaps
 https://hackerone.com/reports/867577 |  Unauthenticated request smuggling on launchpad.37signals.com
+https://hackerone.com/reports/867616 | XSS via referrer parameter
 https://hackerone.com/reports/867699 |  Node disk DOS by writing to container /etc/hosts
 https://hackerone.com/reports/867952 | HTTP request Smuggling
 https://hackerone.com/reports/868570 | XSS on https://o2.mail.ru/jsapi/button via PostMessage
+https://hackerone.com/reports/868572 | CSRF on https://apps.topcoder.com/wiki/users/editmyprofilepicture.action
 https://hackerone.com/reports/868615 | Inject page in admin panel via Shopify.API.pushState with protocol invalid
 https://hackerone.com/reports/868834 |  Denial of Service by resource exhaustion CWE-400 due to unfinished HTTP/1.1 requests
 https://hackerone.com/reports/869450 | Support incident can be opened for any user via /███████ and PII leak via █████████ field
