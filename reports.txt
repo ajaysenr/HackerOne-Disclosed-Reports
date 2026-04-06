@@ -7355,6 +7355,7 @@ https://hackerone.com/reports/898528 | GraphQL AdminGenerateSessionPayload is le
 https://hackerone.com/reports/898693 |  Out of memory with combination of `test_config_set` and `test_config_reload`
 https://hackerone.com/reports/898841 |  Password reset link not expired at Stocky App
 https://hackerone.com/reports/899069 | Untrusted users able to run pending migrations in production
+https://hackerone.com/reports/899964 | XSS leads to RCE on the RocketChat desktop client.
 https://hackerone.com/reports/900062 | Subdomain takeover of ████
 https://hackerone.com/reports/900137 | PII Leak (such as CAC User ID) at https://████████/pages/login.aspx
 https://hackerone.com/reports/900543 | Stored XSS that allow an attacker to read victim mailboxes contacts in mail.ru and my.com application
@@ -7388,6 +7389,7 @@ https://hackerone.com/reports/905679 | PII Leak via /████████
 https://hackerone.com/reports/905688 | PII Leak via /██████
 https://hackerone.com/reports/905816 |  No Rate Limit when accessing "Password protection" enabled surveys leads to bypassing passwords via "pd-pass_surveyid" cookie
 https://hackerone.com/reports/906201 |  XSS / SELF XSS
+https://hackerone.com/reports/906226 | disable test send feature if user's email address isn't verified
 https://hackerone.com/reports/906433 |  Android WebViews in Twitter app are vulnerable to UXSS due to configuration and CVE-2020-6506
 https://hackerone.com/reports/906890 | SSRF in www.ucs.ru
 https://hackerone.com/reports/906907 |  IDOR with Geolocation data not stripped from images
@@ -7399,6 +7401,7 @@ https://hackerone.com/reports/908894 |  Null dereference or redundant null check
 https://hackerone.com/reports/909374 |  Java : CWE-548 - J2EE server directory listing enabled
 https://hackerone.com/reports/909375 |  Golang : Add MongoDb NoSQL injection sinks
 https://hackerone.com/reports/909863 | Low privileged user can create high privileged user's KITCRM authorization token and can read and write message to KIT
+https://hackerone.com/reports/910206 | property-expr - Prototype pollution
 https://hackerone.com/reports/910300 |  Email Confirmation Bypass in your-store.myshopify.com which leads to privilege escalation
 https://hackerone.com/reports/910398 | Mail.ru for Android - Theft of sensitive data
 https://hackerone.com/reports/911606 | Leaked JFrog Artifactory  username and password exposed on GitHub - https://snapchat.jfrog.io
