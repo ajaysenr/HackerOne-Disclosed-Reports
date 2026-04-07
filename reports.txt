@@ -7462,6 +7462,7 @@ https://hackerone.com/reports/923022 | Administrative access to development depl
 https://hackerone.com/reports/923240 | [3DS][StreetPass] Heap Overflow in Swapnote parser leads to userland StreetPass RCE
 https://hackerone.com/reports/923679 | stored xss via Campaign Name.
 https://hackerone.com/reports/923759 | Edit Policy restriction does not prevent comments.
+https://hackerone.com/reports/924151 | Insecure use of shell.openExternal() in Rocket.Chat Desktop App leading to RCE
 https://hackerone.com/reports/924393 | PIN for passwordless WebAuthn is asked for but not verified
 https://hackerone.com/reports/924407 | Local File Disclosure /Delete On [us-az-vpn.acronis.com]
 https://hackerone.com/reports/924485 | Path traversal on bank.mail.ru ( CVE-2013-3827 )
@@ -7471,14 +7472,19 @@ https://hackerone.com/reports/924914 | Access to information about any video and
 https://hackerone.com/reports/924951 | CORS misconfiguration leads to users information disclosure at https://studyroom.line.me
 https://hackerone.com/reports/925007 | blind sql on [selfcare.mtn.com.af]
 https://hackerone.com/reports/925527 | Blind HTTP GET SSRF via website icon fetch (bypass of pull#812)
+https://hackerone.com/reports/925757 | Getting SmartDNS for free from -  join.nordvpn.com
 https://hackerone.com/reports/926221 |  Improper use of "path" parameter can be used to trick testers into leaking their Front-End PoC
+https://hackerone.com/reports/926222 | Vulnerability in Private Data Endorsement Policy Management in Hyperledger Fabric 2.0
 https://hackerone.com/reports/926228 | Bypass OTP on contact back request at https://driver.city-mobil.ru/
+https://hackerone.com/reports/927338 | LINE Profile ID leaks in OpenChat
+https://hackerone.com/reports/927413 |  The vulnerabilities found were XSS, Public disclosure, Network enumeration via CSRF, DLL hijacking.
 https://hackerone.com/reports/927567 | Ability to publish a paid theme without purchasing it.
 https://hackerone.com/reports/927661 | Ability to manipulate price with a max threshold of `<1 Rupee` in support rider parameter
 https://hackerone.com/reports/928255 | Ability To Delete User(s) Account Without User Interaction
 https://hackerone.com/reports/928280 | Formula Injection vulnerability in CSV export feature
 https://hackerone.com/reports/928816 | Stored XSS in app.lemlist.com
 https://hackerone.com/reports/929288 |  Java: CWE-939 - Address improper URL authorization
+https://hackerone.com/reports/929361 | Making program preference -> program visibilty feature usless and disclosing API Identifier in the progress and data that may cause potential IDORS.
 https://hackerone.com/reports/929633 | Open Redirect on [blog.wavecell.com]
 https://hackerone.com/reports/935573 | JDBC credentials leaked via github
 https://hackerone.com/reports/937921 | app.lemlist.com : Admin Panel Access
