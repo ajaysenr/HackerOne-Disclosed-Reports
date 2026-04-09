@@ -7603,15 +7603,20 @@ https://hackerone.com/reports/965782 |  Failed assert in `mail_index_transaction
 https://hackerone.com/reports/965790 |  Assert failed in `edit_mail_istream_read`
 https://hackerone.com/reports/965881 |  Null dereference in `cmd_denotify_operation_execute`
 https://hackerone.com/reports/965914 | `fs.realpath.native` on darwin may cause buffer overflow
+https://hackerone.com/reports/966347 | [bl] Uninitialized memory exposure via negative .consume()
 https://hackerone.com/reports/966383 |  secret leaks in vsphere cloud controller manager log
 https://hackerone.com/reports/966494 | True Image 2021 - LPE via XPC service communication
+https://hackerone.com/reports/966527 | Reflected XSS at  https://www.glassdoor.co.in/Interview/BlackRock-Interview-Questions-E9331.htm via filter.jobTitleExact parameter
 https://hackerone.com/reports/966531 | "Basic user" which can only access a limited subset of the platform can access certain pages which are restricted to the user by the account owner.
 https://hackerone.com/reports/966814 | Slack-Corp Heroku application disclosing limited info about company members
 https://hackerone.com/reports/966834 |  Incomplete fix for CVE-2020-12673 : Specially crafted NTML message leads to buffer over read
+https://hackerone.com/reports/966949 | IDOR in locid parameter allowing to view others accounts Profile Locations 
 https://hackerone.com/reports/967284 | Open Redirect on https://go.bitwala.com/
 https://hackerone.com/reports/967457 |  Buffer overread off by one in `rpa_read_buffer`, incomplete fix for CVE-2020-12674
+https://hackerone.com/reports/968165 | Disclose customer orders details by shopify chat application.
 https://hackerone.com/reports/968174 | Disclose STUFF member name and make actions.
 https://hackerone.com/reports/968232 | Stored XSS in collabora via user name
+https://hackerone.com/reports/968240 | SQL injection at /admin.php?/cp/members/create
 https://hackerone.com/reports/968328 | Redirecting users to malicious torrent-files/websites using WebTorrent
 https://hackerone.com/reports/968355 | [i18next] Prototype pollution attack
 https://hackerone.com/reports/968690 | DOM based XSS in store.acronis.com/<id>/purl-corporate-standard-IT [cfg parameter]
@@ -7626,7 +7631,11 @@ https://hackerone.com/reports/970878 | Reflected XSS via "Error" parameter on ht
 https://hackerone.com/reports/971234 | Clickjacking on cas.acronis.com login page
 https://hackerone.com/reports/971304 | Reflected XSS at https://www.glassdoor.co.in/Job/pratt-whitney-jobs-SRCH_KE0,13.htm?initiatedFromCountryPicker=true&countryRedirect=true
 https://hackerone.com/reports/971386 | CVE-2020-8913 - Persistent arbitrary code execution in Android's Google Play Core Library: details, explanation and the PoC
+https://hackerone.com/reports/971610 | Local Privilege Escalation via EXE hijacking with Acronis True Image 2021 - Acronis Scheduler2 Service
 https://hackerone.com/reports/971857 | Stored xss on helpdesk using user's city
+https://hackerone.com/reports/972045 | No brute force protection on web-api-cloud.acronis.com
+https://hackerone.com/reports/972220 | [arpping] Remote Code Execution
+https://hackerone.com/reports/972243 | Add apps to packages 0, 61, 62 with /store/ajaxpackagemerge
 https://hackerone.com/reports/972355 |  Able to leak private email of any user given his/her username via graphql
 https://hackerone.com/reports/972561 | kubeadm logs tokens before deleting them
 https://hackerone.com/reports/972601 |  Open Redirect at https://oauth.secure.pixiv.net
