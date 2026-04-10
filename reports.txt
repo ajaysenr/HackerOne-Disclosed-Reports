@@ -7692,12 +7692,16 @@ https://hackerone.com/reports/983070 |  IDOR when creating App on [platform.stre
 https://hackerone.com/reports/983548 | MobileIron Unauthenticated RCE on mdm.qiwi.com with WAF bypass
 https://hackerone.com/reports/983867 |  Java : add MongoDB injection sinks
 https://hackerone.com/reports/984654 | RXSS Via URI Path - https://██████████/
+https://hackerone.com/reports/984965 | Cross-Tenant IDOR ( graphql `AddRulesToPixelEvents` query ) allowing to add, update, and delete rules of any Pixel events on the platform
 https://hackerone.com/reports/985124 | GraphQL Query leads to sensitive information disclosure
 https://hackerone.com/reports/985150 | Privilege Escalation in Point Of Sale Application from POS Manage Staff Role to potentially Store Owner
 https://hackerone.com/reports/985272 | Логи на http://login.aa.mail.ru/logs/
+https://hackerone.com/reports/985367 | weak password poilicy in signup password leak to account takeover
 https://hackerone.com/reports/986365 | Reflected XSS on /www/delivery/afr.php (bypass of report #775693)
 https://hackerone.com/reports/986386 |  Reflected XSS on www.hackerone.com via Wistia embed code
+https://hackerone.com/reports/986679 | Debugging panel exposure
 https://hackerone.com/reports/987090 | https://██████ vulnerable to CVE-2020-3187 - Unauthenticated arbitrary file deletion in Cisco ASA/FTD
+https://hackerone.com/reports/987132 | Отправка произвольных запросов к API с правами любого установленного у пользователя iframe/miniapp
 https://hackerone.com/reports/988103 |  Node.js: use-after-free in TLSWrap
 https://hackerone.com/reports/988271 | Reflected XSS in photogallery component on [https://market.av.ru]
 https://hackerone.com/reports/988272 |  stored XSS in hey.com message content
