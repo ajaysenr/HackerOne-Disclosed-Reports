@@ -7843,7 +7843,7 @@ https://hackerone.com/reports/1024984 | [SQLI ]Time Bassed Injection at ██�
 https://hackerone.com/reports/1025125 | XSS in vk.link
 https://hackerone.com/reports/1025575 | Default behavior of Fastifys versioned routes can be used for cache poisoning when Fastify is used in combination with a http cache / CDN
 https://hackerone.com/reports/1025881 | Accessing/Editing Folders of Other Users in the Orginisation.
-https://hackerone.com/reports/1026196 | Information Disclosure of Garbage Collection Cycle 'Again' 
+https://hackerone.com/reports/1026196 | Information Disclosure of Garbage Collection Cycle 'Again'
 https://hackerone.com/reports/1026265 | Unauthenticated Arbitrary File Deletion "CVE-2020-3187" in █████
 https://hackerone.com/reports/1026893 |  Disk-o Cloud application (Windows) does not validate server certificate on a TLS connection
 https://hackerone.com/reports/1027822 | Unrestricted File Upload Leads to RCE on mobile.starbucks.com.sg
@@ -7856,13 +7856,16 @@ https://hackerone.com/reports/1028820 | Blind Stored XSS in https://partners.acr
 https://hackerone.com/reports/1029027 | Bypass subscription
 https://hackerone.com/reports/1029466 | Нет флуд-контроля на функции "Запрос денег" в VK Pay. Флуд уведомлениями и сообщениями пользователю, находящемуся в друзьях.
 https://hackerone.com/reports/1029594 | RDR2 game service method allows adding any player to a new Posse without consent
+https://hackerone.com/reports/1029668 | Self xss in product reviews
 https://hackerone.com/reports/1029723 | No rate limiting for subscribe email + lead to Cross origin misconfiguration
 https://hackerone.com/reports/1029877 | Account takeover on [support2.ucs.ru]
 https://hackerone.com/reports/1030295 | Java: Detect remote source from Android intent extra
 https://hackerone.com/reports/1031321 |  Github Account hijack through broken link in developer.twitter.com
+https://hackerone.com/reports/1031525 | User Impersonation through sendMessage options
 https://hackerone.com/reports/1031644 | DOM XSS on http://talks.lystit.com
 https://hackerone.com/reports/1032086 | csi-snapshot-controller crashes when processing VolumeSnapshot with non-existing PVC
 https://hackerone.com/reports/1032468 | Read-only application can publish/delete fleets
+https://hackerone.com/reports/1033107 | DNS Max Responses for DOS
 https://hackerone.com/reports/1033253 | Reflected Xss in [██████]
 https://hackerone.com/reports/1033882 | XSS stored in the Shopify Email app
 https://hackerone.com/reports/1034023 | Possible (we need to wait for some time) takeover of subdomain badootech.badoo.com which is pointing to Medium servers
@@ -7871,7 +7874,9 @@ https://hackerone.com/reports/1034317 | HTML injection in an email [delivery.cit
 https://hackerone.com/reports/1034346 | Security@ email forwarding and Embedded Submission drafts can be used to obtain copy of deleted attachments from other HackerOne users
 https://hackerone.com/reports/1034625 | Blind SQL injection at tsftp.informatica.com
 https://hackerone.com/reports/1035320 | Получение стикеров
+https://hackerone.com/reports/1035976 | Slack server disclose h1 private issue report
 https://hackerone.com/reports/1036995 | HTML injection in review content
+https://hackerone.com/reports/1037430 | Race Condition on "Get free Badoo Premium" which allows to get more days of free premium for Free. 
 https://hackerone.com/reports/1037714 | XSS in Email Input [intensedebate.com]
 https://hackerone.com/reports/1038594 | CRLF INJECTION
 https://hackerone.com/reports/1038906 | XSS account.mail.ru
