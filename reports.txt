@@ -7945,9 +7945,12 @@ https://hackerone.com/reports/1062803 | Misconfigured AWS S3 bucket leaks sensti
 https://hackerone.com/reports/1062888 | External SSRF and Local File Read via video upload due to vulnerable FFmpeg HLS processing
 https://hackerone.com/reports/1063022 | Corss-Tenant IDOR on Business allowing escalation privilege, invitation takeover, and edition of any other Businesses' employees
 https://hackerone.com/reports/1063039 | Phar Deserialization Vulnerability via Logging Settings
+https://hackerone.com/reports/1063164 | Unauthenticated clients can modify Livechat Business Hours
 https://hackerone.com/reports/1063256 | [CVE-2018-7600] Remote Code Execution due to outdated Drupal server on www.█████████
+https://hackerone.com/reports/1063493 | HTTP Request Smuggling on https://promosandbox.acronis.com
 https://hackerone.com/reports/1063627 | HTTP Request Smuggling on https://consumer.acronis.com
 https://hackerone.com/reports/1064095 | Stored XSS in Acronis Cyber Protect Console
+https://hackerone.com/reports/1064149 | Improper Input Validation on User's Location on PUT /WhoService/putLocation Could Affect Availability/Falsify Users
 https://hackerone.com/reports/1064869 | Informations disclosure - Access to some checkout informations
 https://hackerone.com/reports/1065041 | Google API key leaked to Public
 https://hackerone.com/reports/1065128 | No Rate Limit On dashboard.myndr.net/auth
@@ -7958,31 +7961,42 @@ https://hackerone.com/reports/1065401 | CPP: CWE-191 into experimental this reve
 https://hackerone.com/reports/1065402 | 3,880 Pull Requests Generated to fix JHipster RNG Vulnerability CVE-2019-16303
 https://hackerone.com/reports/1065403 | Java: QL Query Detector for JHipster Generated CVE-2019-16303
 https://hackerone.com/reports/1065493 | [CTF] I've DDoSed Grinch Network
+https://hackerone.com/reports/1065495 | Solution for hackyholiday
+https://hackerone.com/reports/1065500 | Multiple bugs leads to RCE on TikTok for Android
 https://hackerone.com/reports/1065516 | Flags for hackyholidays CTF
 https://hackerone.com/reports/1065517 | h1 hacky holidays CTF solution
 https://hackerone.com/reports/1065583 | Hackyholidays CTF writeup
+https://hackerone.com/reports/1065731 | Writeup Hackyholiday CTF
 https://hackerone.com/reports/1065776 | DOM based XSS via postMessage at store.my.games
+https://hackerone.com/reports/1065829 | Invading Grinch Network and Saving Christmas
 https://hackerone.com/reports/1065830 | Error Page Text Injection (no compromise)
+https://hackerone.com/reports/1065885 | Complete destruction of the Grinch server
 https://hackerone.com/reports/1065964 | Stored XSS in the banner block description
 https://hackerone.com/reports/1066083 | ███████mill is vulnerable to cross site request forgery that leads to full account take over.
 https://hackerone.com/reports/1066203 | GRAPHQL cross-tenant IDOR giving write access thought the operation UpdateAtlasApplicationPerson
 https://hackerone.com/reports/1066206 | [hacky-holidays] Grinch network is down
+https://hackerone.com/reports/1066233 | CTF Writeup
 https://hackerone.com/reports/1066504 | Grinch Networks compromised!
 https://hackerone.com/reports/1066790 | Internal API endpoint is accesible for everyone
+https://hackerone.com/reports/1066801 | Hacky Holidays CTF Writeup
 https://hackerone.com/reports/1066851 | 12 Days of Hacky Holidays write-up, but as a text-based RPG?
 https://hackerone.com/reports/1066914 | [ Hacky Holidays CTF ] Completely taken down the Grinch Networks
 https://hackerone.com/reports/1067004 | Sensitive data exposure via https://███████/secure/QueryComponent!Default.jspa - CVE-2020-14179
+https://hackerone.com/reports/1067037 | Taking Grinch Down To Save Holidays
 https://hackerone.com/reports/1067090 | Mission completed. Grinch Networks is down and Christmas saved.
 https://hackerone.com/reports/1067321 | Stored XSS via malicious key value of Synthetics monitor tag when visiting an Insights dashboard with filtering enabled
 https://hackerone.com/reports/1067443 | Screenshot Service leaks X-ABS-App-Token
 https://hackerone.com/reports/1067530 | Successfully took down the Grinch and saved the holidays from being ruined
 https://hackerone.com/reports/1067547 | Unauthenticated access to webmail at maildev.happytools.dev leading to compromised wordpress site api.happytools.dev [RCE]
+https://hackerone.com/reports/1067809 | Cookie poisoning leads to DOS and Privacy Violation
 https://hackerone.com/reports/1067824 | Database error shown to the user when using a long guest name in richdocuments
+https://hackerone.com/reports/1067835 | Hacky Holidays Writeup
 https://hackerone.com/reports/1067870 | Gitlab search exposing personal data of employees on gitlab-edu.geekbrains.ru
 https://hackerone.com/reports/1067912 | A Visit from The Grinch ~ 'Twas the night before Hackmas...
 https://hackerone.com/reports/1067967 | Blocked user can see live video
 https://hackerone.com/reports/1068434 | HackyHolidays 2020 Full Write-up: Information Disclosure of 12 Flags
 https://hackerone.com/reports/1068505 | Phishing/Malware site blocking on Brave iOS can be bypassed with trailing dot in hostname
+https://hackerone.com/reports/1068880 | Writeup Submission
 https://hackerone.com/reports/1068881 | HackyHolidays H1 CTF Writeup
 https://hackerone.com/reports/1068934 | [h1ctf-Grinch Networks] MrR3b00t Saving the Christmas
 https://hackerone.com/reports/1069080 | hackyholidays CTF Writeup
@@ -7995,6 +8009,7 @@ https://hackerone.com/reports/1069376 | [hackyholidays] CTF write-up
 https://hackerone.com/reports/1069392 | Old Session Does Not Expires After Password Change
 https://hackerone.com/reports/1069396 | Hackyholidays [ h1-ctf] writeup [mission:- stop the grinch ]
 https://hackerone.com/reports/1069467 | H1 Hackyholidays CTF - The Grinch was defeated
+https://hackerone.com/reports/1069487 | DNS rebinding in --inspect (insufficient fix of CVE-2018-7160)
 https://hackerone.com/reports/1069528 | Reflected XSS on gamesclub.mtn.com.g
 https://hackerone.com/reports/1069531 | Blind SQL Injection
 https://hackerone.com/reports/1069561 | SQL Injection  intensedebate.com
@@ -8003,11 +8018,14 @@ https://hackerone.com/reports/1070247 | Git flag injection leads to arbitrary fi
 https://hackerone.com/reports/1070344 | ArcGIS Rest Service linked to unsecured survey data
 https://hackerone.com/reports/1070510 | Manipulating response leads to free access to Streamlabs Prime
 https://hackerone.com/reports/1070532 | RCE Apache Struts2 remote command execution (S2-045) on [wifi-partner.mtn.com.gh]
+https://hackerone.com/reports/1070533 | Acronis True Image 2021 (windows) does not validate server hostname on a login TLS connection
 https://hackerone.com/reports/1071294 | Eval-based XSS in Game JS API (mailru.core.js) via cross-origin postMessage()
 https://hackerone.com/reports/1071918 | Moderator user has access to owner's support portal and tickets
 https://hackerone.com/reports/1072078 | [Java] CWE-555: Query to detect password in Java EE configuration files
+https://hackerone.com/reports/1072277 | Host Header injection in oslo.io (using X-Forwarded-For header) leading to email spoofing
 https://hackerone.com/reports/1072616 | Stored XSS through name / last name on https://██████████/
 https://hackerone.com/reports/1072857 | [titans.3clans.ru] phpBB 3.0.8 - Захват аккаунта администратора + удалённое выполнение кода.
+https://hackerone.com/reports/1072893 | Sensitive information disclosure to shared access user via streamlabs platform api
 https://hackerone.com/reports/1073114 | 2 Subdomains Takeover at readfu.com
 https://hackerone.com/reports/1073202 | Canonical Snapcraft vulnerable to remote code execution under certain conditions
 https://hackerone.com/reports/1073420 | IDOR at https://fast.trychameleon.com/observe/v2/profiles/ via uid parameter discloses users' PII data
@@ -8016,6 +8034,7 @@ https://hackerone.com/reports/1073551 | kds.ucs.ru - раскрытие инфо
 https://hackerone.com/reports/1073565 | Open Redirect on https://www.twitterflightschool.com/widgets/experience?destination_url=https://evil.com
 https://hackerone.com/reports/1073571 | XSS в обработчике ссылок
 https://hackerone.com/reports/1073925 | Stored XSS on store.my.games
+https://hackerone.com/reports/1074047 | Misconfigured oauth leads to Pre account takeover 
 https://hackerone.com/reports/1074136 | Bypassed a fix to gain access to PII of more than 100 Officers
 https://hackerone.com/reports/1074420 | IDOR Allows Viewer to Delete Bin's Files
 https://hackerone.com/reports/1074869 | Social Oauth Disconnect CSRF at znakcup.ru
