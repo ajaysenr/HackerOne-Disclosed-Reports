@@ -8051,6 +8051,9 @@ https://hackerone.com/reports/1079561 | Big Picture web browser leaks login cook
 https://hackerone.com/reports/1079766 | Theft of Arbitrary file
 https://hackerone.com/reports/1080437 | Bumble API exposes read status of chat messages
 https://hackerone.com/reports/1080508 | [int.ucs.ru] Атаки на внутреннюю сеть UCS через СУБД Clickhouse
+https://hackerone.com/reports/1080700 | Viewer is able to leak the previous versions of the file
+https://hackerone.com/reports/1080901 | Misconfiguration of Merchant id in jwt header + Weird Debug mode enabling behavior leads to exposed OTP of mobile number.
+https://hackerone.com/reports/1081137 | Incorrect Authorization Checks in /include/findusers.php
 https://hackerone.com/reports/1081145 | SQL Injection through /include/findusers.php
 https://hackerone.com/reports/1081167 | Read/Write arbitrary (non-HttpOnly) cookies on checkout pages via GoogleAnalyticsAdditionalScripts postMessage handler
 https://hackerone.com/reports/1081406 | Open redirect in ck.php and lg.php
@@ -8059,6 +8062,7 @@ https://hackerone.com/reports/1081766 | Unrestricted Upload of File with Dangero
 https://hackerone.com/reports/1081817 | mysql.initial.sql file is accessable for everyone
 https://hackerone.com/reports/1081878 | Arbitrary File Deletion via Path Traversal in image-edit.php
 https://hackerone.com/reports/1081994 | Stored XSS at https://www.█████████.mil
+https://hackerone.com/reports/1082288 | Disclosure of Merchant_id into the source code without entered OTP code leads to Victims MID takeover.
 https://hackerone.com/reports/1082521 | Full Path Disclosure of Server through 500 Server Error
 https://hackerone.com/reports/1082847 | Config override using non-validated query parameter allows at least reflected XSS by injecting configuration into state
 https://hackerone.com/reports/1082891 | Duplicate Entry of email leads to 500 Server Error which disclosing the SQL Database table information
@@ -8068,6 +8072,7 @@ https://hackerone.com/reports/1083231 | Reflected XSS on /admin/userlog-index.ph
 https://hackerone.com/reports/1083376 | Reflected XSS on /admin/stats.php
 https://hackerone.com/reports/1083421 | Blocked user can send notification by liking the message due to Logical Bug
 https://hackerone.com/reports/1083531 | Reset password policy isn't consistent with registration / change password policy.
+https://hackerone.com/reports/1083532 | Acronis True Image 2020 Build 22510 Nonstop Backup Service Unquoted service path (privilege escalation)
 https://hackerone.com/reports/1083543 | Debug Mode Leak Critical Information [ AWS Keys , SMTP , Database , Django Secret Key ( RCE )  , Dodoc , Telegram , Twilio .. ]
 https://hackerone.com/reports/1083734 | Stored XSS on the "www.intensedebate.com/extras-widgets" url at "Recent comments by" module with malicious blog url
 https://hackerone.com/reports/1083923 |  Sharing products with Mail allows phishing attacks due to misconfiguration.
@@ -8075,6 +8080,7 @@ https://hackerone.com/reports/1084156 | Cross Site Scripting (Reflected) on http
 https://hackerone.com/reports/1084183 | Stored XSS in profile page
 https://hackerone.com/reports/1084638 | [h1-2102] Improper Access Control at https://shopify.plus/[id]/users/api in operation UpdateOrganizationUserRole
 https://hackerone.com/reports/1084904 | [h1-2102] [Plus] User with Store Management Permission can Make convertUsersFromSaml/convertUsersToSaml - that should be limited to User Management
+https://hackerone.com/reports/1084939 | [h1-2102] [PLUS] User with Store Management Permission can Make enforceSamlOrganizationDomains call - that should be limited to User Management Only
 https://hackerone.com/reports/1085042 | [h1-2102] Improper Access Control at https://shopify.plus/[id]/users/api in operation UpdateOrganizationUserTfaEnforcement
 https://hackerone.com/reports/1085079 | No Limit on Email Subscription
 https://hackerone.com/reports/1085332 | [h1-2102] shopApps query from the graphql at /users/api returns all existing created apps, including private ones
@@ -8082,11 +8088,13 @@ https://hackerone.com/reports/1085546 | [h1-2102] Stored XSS in product descript
 https://hackerone.com/reports/1085743 | No error thrown when IDOR attempted while editing address
 https://hackerone.com/reports/1086108 | [h1-2102] FQDN takeover on all Shopify wholesale customer domains by trailing dot (RFC 1034)
 https://hackerone.com/reports/1086134 | [https://geekbrains.ru/profile] - authenticity_token not tied to user session leads to CSRF attacks
+https://hackerone.com/reports/1086259 | Proxy-Authorization header carried to a new host on a redirect
 https://hackerone.com/reports/1086453 | restaurant.delivery-club.ru - возможность получить информацию об чужих акциях.
 https://hackerone.com/reports/1086752 | CSRF in changing password after using reset password link
 https://hackerone.com/reports/1086781 | Change project visibility to a restricted option
 https://hackerone.com/reports/1087122 | [h1-2102] HTML injection in packing slips can lead to physical theft
 https://hackerone.com/reports/1087188 | Race Condition allows to get more free trials and get more than 100 languages and strings for free
+https://hackerone.com/reports/1087382 | Store Deletion or Sell without authentication
 https://hackerone.com/reports/1087436 | CSRF on TikTok Ads Portal
 https://hackerone.com/reports/1087489 | Github access token exposure
 https://hackerone.com/reports/1087683 | ihsinme: CPP Add query for CWE-14 compiler removal of code to clear buffers.
@@ -8096,6 +8104,7 @@ https://hackerone.com/reports/1088975 | [int.ucs.ru] Доступ ко внут�
 https://hackerone.com/reports/1089116 | Hi! Security Team Rocket.Chat, It's possible to get information about the users emails without authentication
 https://hackerone.com/reports/1089467 | Account Takeover via Email ID Change and Forgot Password Functionality
 https://hackerone.com/reports/1089583 | Insecure Object Permissions for Guest User leads to access to internal documents!
+https://hackerone.com/reports/1089914 | Responsible Disclosure of Privacy Leakage Issue
 https://hackerone.com/reports/1089978 | [h1-2102] [Yaworski's Broskis] Suspected overcharge and chargebacks in PoS
 https://hackerone.com/reports/1089995 | Onion-Location header allows to open arbitrary URLs including chrome:
 https://hackerone.com/reports/1090838 | CSRF in  https://███
