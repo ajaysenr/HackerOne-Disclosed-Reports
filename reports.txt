@@ -8134,9 +8134,14 @@ https://hackerone.com/reports/1095633 | [VK Android] Access to app protected com
 https://hackerone.com/reports/1095765 | Reflected XSS in https://██████████ via "████████" parameter
 https://hackerone.com/reports/1095797 | Cross site scripting
 https://hackerone.com/reports/1095830 | CRXDE Lite/CRX is on ██████ exposed that leads to PII disclosure
+https://hackerone.com/reports/1095934 | Stored XSS via Angular Expression injection via Subject while starting conversation with other users.
+https://hackerone.com/reports/1096045 | Import/Convert user file exposure leading to logins/passwords/PII leak. 
 https://hackerone.com/reports/1096560 | Ability to add arbitrary images/descriptions/titles to ohter people's issues via IDOR on getrevue.co
 https://hackerone.com/reports/1096907 | API Server DoS (crash?) if many large resources (~1MB each) are concurrently/repeatedly sent to an external Validating WebHook endpoint
 https://hackerone.com/reports/1097979 | Reflected XSS on /admin/campaign-zone-zones.php
+https://hackerone.com/reports/1098948 | Host Header Injection
+https://hackerone.com/reports/1100326 | Reflected XSS due to vulnerable version of sockjs
+https://hackerone.com/reports/1100383 | Course Registration Form Allowing an attacker to dump all the candidate name who had enrolled for the course
 https://hackerone.com/reports/1101500 | Stored XSS при удалении группы из беседы (m.vk.com)
 https://hackerone.com/reports/1101771 | Open redirect on https://signin.rockstargames.com/connect/authorize/rsg
 https://hackerone.com/reports/1101877 | DNS Misconfiguration (Subdomain Takeover) ███████.8x8.com
@@ -8153,6 +8158,7 @@ https://hackerone.com/reports/1103033 | Reflected XSS on https://█████
 https://hackerone.com/reports/1103212 | Found multiple SAP NetWeaver vulnerable services
 https://hackerone.com/reports/1103258 | Stored DOM XSS via Mermaid chart
 https://hackerone.com/reports/1103448 | Organization Members in Snap Kit may Deactivate Apps
+https://hackerone.com/reports/1103582 | HackerOne Jira integration plugin Leaked JWT to unauthorized jira users
 https://hackerone.com/reports/1104077 | Round-trip instability in REXML
 https://hackerone.com/reports/1104111 | Remote Code Execution on contactws.contact-sys.com via SQL injection in TPrabhuObject.BeginOrder in parameter DOC_ID
 https://hackerone.com/reports/1104120 | Remote Code Execution on contactws.contact-sys.com via SQL injection in TAktifBankObject.GetOrder in parameter DOC_ID
