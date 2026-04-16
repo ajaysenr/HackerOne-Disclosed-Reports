@@ -8192,6 +8192,7 @@ https://hackerone.com/reports/1113289 | Guest users can create new test cases
 https://hackerone.com/reports/1113559 | Japan - CSRF in webapp.starbucks.co.jp with user interaction could leak an access token if the user was not using Chrome
 https://hackerone.com/reports/1113759 | [mattermost.com] CORS Misconfiguration leakage of admin users
 https://hackerone.com/reports/1114027 | ihsinme: CPP add query for CWE-788 Access of memory location after the end of a buffer using strncat.
+https://hackerone.com/reports/1114347 | Account takeover due to misconfiguration
 https://hackerone.com/reports/1114617 | Privilege Escalation leading to post in channel without having privilege
 https://hackerone.com/reports/1115763 | XSS в сюжетах.
 https://hackerone.com/reports/1116387 | IDOR leads to leak analytics of any restaurant
@@ -8226,6 +8227,7 @@ https://hackerone.com/reports/1128701 | Lack warning label when receiving a lett
 https://hackerone.com/reports/1129529 | CVE-2021-22890: TLS 1.3 session ticket proxy host mixup
 https://hackerone.com/reports/1129816 | Member still able close another user poll on communities topic
 https://hackerone.com/reports/1129996 | Create alias does not validate account id
+https://hackerone.com/reports/1130235 | Hackers can reveal the names of private programs that have an external link and Enterprise Product Edition
 https://hackerone.com/reports/1130376 | subdomain takeover on fddkim.zomato.com
 https://hackerone.com/reports/1130528 | Подмена фотографий автомобиля [city-mobil.ru/taxiserv/]
 https://hackerone.com/reports/1130874 | Post-Auth Blind NoSQL Injection in the users.list API leads to Remote Code Execution
