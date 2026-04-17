@@ -8259,6 +8259,7 @@ https://hackerone.com/reports/1137819 | IDOR leads to See analytics of Loyalty P
 https://hackerone.com/reports/1138668 | The possibility of disrupting the normal operation of frontend using markdown
 https://hackerone.com/reports/1139340 | Elmah.axd is publicly accessible leaking Error Log
 https://hackerone.com/reports/1139528 | Editing Pentest Summary Report Answers After Submitting Them
+https://hackerone.com/reports/1139541 | Enumerating HackerOne Pentests
 https://hackerone.com/reports/1140631 | REST API gets `query` as parameter and executes it
 https://hackerone.com/reports/1141623 | Unexpected input validation of octal literals in nodejs v15.12.0 and below returns defined values for all undefined octal literals.
 https://hackerone.com/reports/1143783 | xss reflected on https://███████- (███ parameters)
@@ -8266,11 +8267,14 @@ https://hackerone.com/reports/1145162 | XSS  at https://exchangemarketplace.com/
 https://hackerone.com/reports/1145293 | No rate Limit
 https://hackerone.com/reports/1145428 | Chain of vulnerabilities in Uber for Business Vouchers program allows for attacker to perform arbitrary charges to victim's U4B payment account
 https://hackerone.com/reports/1145563 | Tab nabbing in Hackerone inbox.
+https://hackerone.com/reports/1145581 | Private KEY of crypto wallet
 https://hackerone.com/reports/1146600 | Administration Authentication Bypass on https://█████
 https://hackerone.com/reports/1147060 | Reflected XSS
+https://hackerone.com/reports/1147449 | xmlrpc.php And /wp-json/wp/v2/users FILE IS enable it will used for bruteforce attack and denial of service
 https://hackerone.com/reports/1147611 | DoS due to improper input validation can break the admin access into the user data will disallow him from editing that user's data.
 https://hackerone.com/reports/1147949 | CSRF Based XSS @ https://██████████
 https://hackerone.com/reports/1147951 | CVE-2019-3403 on https://████/rest/api/2/user/picker?query=
+https://hackerone.com/reports/1148548 | Bypass t.co link shortener in Twitter direct messages
 https://hackerone.com/reports/1148697 | Chain of IDORs Between U4B and Vouchers APIs Allows Attackers to View and Modify Program/Voucher Policies and to Obtain Organization Employees' PII
 https://hackerone.com/reports/1149144 | Reflected XSS through clickjacking at https://████
 https://hackerone.com/reports/1150573 | ████████ portal is open to enumeration once authenticated.  Session ID's appear static.  All PII available once a valid session ID is found.
