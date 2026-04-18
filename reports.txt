@@ -8299,6 +8299,7 @@ https://hackerone.com/reports/1161401 | Notification implicit PendingIntent in c
 https://hackerone.com/reports/1161691 | OS Command Injection in 'rdoc' documentation generator
 https://hackerone.com/reports/1161806 | [codeql-go]: Add CWE-79: HTML template escaping passthrough
 https://hackerone.com/reports/1161807 | ihsinme: CPP Add query for CWE-570 detect and handle memory allocation errors.
+https://hackerone.com/reports/1162443 | No Session Expiry after log-out, attacker can reuse the old cookies
 https://hackerone.com/reports/1164452 | Remote code execution due to unvalidated file upload
 https://hackerone.com/reports/1164853 | Stored Cross Site Scripting at http://www.grouplogic.com/ADMIN/store/index.cfm?fa=disprocode
 https://hackerone.com/reports/1165223 | Missing captcha and rate limit protection in help form
@@ -8306,6 +8307,7 @@ https://hackerone.com/reports/1165285 | No Rate limit on change password leads t
 https://hackerone.com/reports/1165540 | Moodle XSS on  evolve.glovoapp.com
 https://hackerone.com/reports/1165748 | 'net/ftp': Uncontrolled Resource Consumption (Memory/CPU)
 https://hackerone.com/reports/1165919 | Content Spoofing
+https://hackerone.com/reports/1166054 | User enumeration through forget password
 https://hackerone.com/reports/1166073 | Hyper Link Injection while signup
 https://hackerone.com/reports/1166535 | Brew bootstrap process is insecure
 https://hackerone.com/reports/1166770 | Content Spoofing/Text Injection at https://gateway-production.dubsmash.com
@@ -8315,11 +8317,13 @@ https://hackerone.com/reports/1166977 | [la.mail.ru] - SSRF + кража cookie
 https://hackerone.com/reports/1166993 | Ability to use premium templates as free user via https://stripo.email/templates/?utm_source=viewstripo&utm_medium=referral
 https://hackerone.com/reports/1166996 | Subdomain takeover on "info-edcrunch.skillfactory.ru"
 https://hackerone.com/reports/1167029 | Broken Authendication And Session Management
+https://hackerone.com/reports/1167034 | Reflected Cross Site Scripting at http://www.grouplogic.com/files/glidownload/verify3.asp [Uppercase Filter Bypass]
 https://hackerone.com/reports/1167272 | Reflected XSS in OAUTH2 login flow (https://access.line.me)
 https://hackerone.com/reports/1167530 | RCE in 'Copy as Node Request' BApp via code injection
 https://hackerone.com/reports/1167753 | Add new managed stores without permission
 https://hackerone.com/reports/1167767 | Unexpected federated shares added via public link
 https://hackerone.com/reports/1167916 | Default Nextcloud Server and Android Client leak sharee searches to Nextcloud
+https://hackerone.com/reports/1167919 | Default Nextcloud server config and iOS Nextcloud client leak sharee searches to Nextcloud
 https://hackerone.com/reports/1167958 | Nextcloud deck sharee search leaks searches to lookupserver by default
 https://hackerone.com/reports/1168104 | Weak password policy leading to exposure of administrator account access
 https://hackerone.com/reports/1168191 | Insecure File Creation Mask
@@ -8328,6 +8332,7 @@ https://hackerone.com/reports/1168194 | Privilege Escalation Using Cron Jobs
 https://hackerone.com/reports/1168196 | Unapproved SSH Encryption Enabled
 https://hackerone.com/reports/1168197 | Passwords Stored Insecurely
 https://hackerone.com/reports/1168198 | Versa Director is susceptible to Command Injection attacks (e.g., SQL, LDAP, XML, Xpath)
+https://hackerone.com/reports/1168205 | 'net/http': HTTP Header Injection in the set_content_type method
 https://hackerone.com/reports/1168475 | Non privileged user is able to approve his own app himself leading to mass privilege  escalations.
 https://hackerone.com/reports/1168528 | Improper authorization on `/api/as/v1/credentials/` allows any App Search user to access all API keys and escalate privileges
 https://hackerone.com/reports/1168765 | RCE hazard in reporting (via Chromium)
