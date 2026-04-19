@@ -8344,7 +8344,7 @@ https://hackerone.com/reports/1171403 | Reflected XSS through ClickJacking
 https://hackerone.com/reports/1172205 | Insufficient session expiration in the **com.shopify.ping** android app
 https://hackerone.com/reports/1172852 | PII of users can be downloaded from export pages
 https://hackerone.com/reports/1172857 | CVE-2021-22897: schannel cipher selection surprise
-https://hackerone.com/reports/1173040 | Stored XSS in IE11 on hackerone.com via custom fields 
+https://hackerone.com/reports/1173040 | Stored XSS in IE11 on hackerone.com via custom fields
 https://hackerone.com/reports/1173153 | Cache Poisoning DoS on downloads.exodus.com
 https://hackerone.com/reports/1173219 | HTML Injection In Email In one.newrelic.com
 https://hackerone.com/reports/1173411 | Nextcloud update checks leaks information
@@ -8378,6 +8378,7 @@ https://hackerone.com/reports/1182016 | Email verification bypassed during sing 
 https://hackerone.com/reports/1182465 | IDOR on www.acronis.com API lead to steal private business user information
 https://hackerone.com/reports/1182824 | Vulnerability Name: URL Redirection / Unvalidate Open Redirect
 https://hackerone.com/reports/1182864 | Subdomain takeover of fr1.vpn.zomans.com
+https://hackerone.com/reports/1183241 | Cross-Site Request Forgery (CSRF) to xss
 https://hackerone.com/reports/1183296 | Subdomain Takeover At the Main Domain Of Your Site
 https://hackerone.com/reports/1183335 | Object injection in `stripe-billing-typographic` GitHub project via /auth/login
 https://hackerone.com/reports/1183336 | Cross-site Scripting (XSS) - Reflected
@@ -8407,11 +8408,13 @@ https://hackerone.com/reports/1188633 | Linux Desktop application "sifnoded" exe
 https://hackerone.com/reports/1188639 | Vulnerable for clickjacking attack
 https://hackerone.com/reports/1188643 | Vulnerable javascript dependency at Main domain
 https://hackerone.com/reports/1188652 | Design Issues at Main Domain
+https://hackerone.com/reports/1188684 | CORS Misconfiguration Leads to Sensitive Exposure on  Sifchain main domain
 https://hackerone.com/reports/1188725 | No Valid SPF Records at sifchain.finance
 https://hackerone.com/reports/1188938 | Sifchain token leak
 https://hackerone.com/reports/1188982 | Found key_adress and key_password in GitHub history
 https://hackerone.com/reports/1188998 |  Information disclosure on Sifchain
 https://hackerone.com/reports/1189168 | Android app does not clear end to end encryption keys
+https://hackerone.com/reports/1189174 | End to end encryption folder locking is not properly protected
 https://hackerone.com/reports/1189282 | Social media links not working
 https://hackerone.com/reports/1189367 | Full read SSRF in www.evernote.com that can leak aws metadata and local file inclusion
 https://hackerone.com/reports/1189419 | XMLRPC does not limit deserializable classes.
@@ -8426,16 +8429,22 @@ https://hackerone.com/reports/1192470 | Clients do not verify server public key
 https://hackerone.com/reports/1193062 | Privilege escalation of "external user" (with maintainer privilege) to internal access  through project token
 https://hackerone.com/reports/1193321 | Scoped apptokens can be changed by that very apptoken
 https://hackerone.com/reports/1194280 | CORS Misconfiguration
+https://hackerone.com/reports/1194293 | Wrong implementation of Telegram link on the main page for PC users
 https://hackerone.com/reports/1194301 | Reflected XSS in https://www.topcoder.com/blog/category/community-stories/
 https://hackerone.com/reports/1194598 | No Valid SPF Records/don't have DMARC record
+https://hackerone.com/reports/1194606 | Virtual Data Room / Hide download on collabora is easy to bypass
+https://hackerone.com/reports/1195209 | Clickjacking /framing on sensitive Subdomain 
 https://hackerone.com/reports/1195423 | Information Disclosure at one of your subdomain
+https://hackerone.com/reports/1195429 | No Rate Limit protection in user subscription form
 https://hackerone.com/reports/1195432 | Found a url on source code which was disclosing different juicy informations like ip addresses and available endponts
 https://hackerone.com/reports/1195568 | Ransomware protection is missing extentions
+https://hackerone.com/reports/1195593 | Talk discloses turn server to anybody
 https://hackerone.com/reports/1196049 | Sifchain Privacy Policy Webpage Uses Wordpress Default Template. Does Not Display Correct Privacy Policy.
 https://hackerone.com/reports/1196125 | [Java] CWE-078: Add JSch lib OS Command Injection sink
 https://hackerone.com/reports/1196253 | Error Page Content Spoofing or Text Injection
 https://hackerone.com/reports/1196945 | Reflected XSS at [████████]
 https://hackerone.com/reports/1196976 | IDOR while uploading ████ attachments at [█████████]
+https://hackerone.com/reports/1197013 | Subdomain takeover of ████.jitsi.net
 https://hackerone.com/reports/1197160 | GitHub Integration doesn't sanitize repository URLs which might be attacker-controlled
 https://hackerone.com/reports/1198203 | Bootstrap library is vulnerable
 https://hackerone.com/reports/1198517 | Stored XSS in custom emoji
