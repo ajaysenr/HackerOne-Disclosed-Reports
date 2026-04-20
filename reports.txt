@@ -8476,8 +8476,11 @@ https://hackerone.com/reports/1212374 | Oauth Misconfiguration Lead To Account T
 https://hackerone.com/reports/1212853 | Broken link hijacing in https://kubernetes-csi.github.io/docs/drivers.html
 https://hackerone.com/reports/1213181 | CVE-2021-22923: Metalink download sends credentials
 https://hackerone.com/reports/1213237 | Deleting all DMs on RedditGifts.com
+https://hackerone.com/reports/1213580 | Open Redirect
+https://hackerone.com/reports/1213765 | IDOR to pay less for coin purchases on oauth.reddit.com via /api/v2/gold/paypal/create_coin_purchase_order in `order_id` parameter 
 https://hackerone.com/reports/1214814 | uchi.ru check_lessons Blind SQL Injection
 https://hackerone.com/reports/1215179 |  add class vulnerable Stored XSS
+https://hackerone.com/reports/1215263 | Download of file with arbitrary extension via injection into attachment header
 https://hackerone.com/reports/1216085 | ccc ctf
 https://hackerone.com/reports/1216203 | Mattermost Server OAuth Flow Cross-Site Scripting
 https://hackerone.com/reports/1216591 | 100K CTF's Writeup
@@ -8490,10 +8493,13 @@ https://hackerone.com/reports/1218680 | Improper authorization on `/api/as/v1/cr
 https://hackerone.com/reports/1218754 | API key (api.semrush.com) leak in JS-file
 https://hackerone.com/reports/1218784 | information disclosure
 https://hackerone.com/reports/1219011 | Report Bulk endpoint "agree-on-going-public" action may reveal Report disclosure state for invite-only programs
+https://hackerone.com/reports/1219038 | Cache Poisoning DoS on updates.rockstargames.com
 https://hackerone.com/reports/1219493 | [Java] CWE-295 - Incorrect Hostname Verification - MitM
 https://hackerone.com/reports/1220688 | Blind SSRF External Interaction on https://mtngbissau.com/
 https://hackerone.com/reports/1220747 | HackerOne making payments in USDC (Coinbase stable coin)
+https://hackerone.com/reports/1223577 | XSS Reflected - ██████████
 https://hackerone.com/reports/1223882 | CVE-2021-22925: TELNET stack contents disclosure again
+https://hackerone.com/reports/1224089 | IP restriction bypass via X-Forwarded-For header
 https://hackerone.com/reports/1234760 | CVE-2021-22926: CURLOPT_SSLCERT mixup with Secure Transport
 https://hackerone.com/reports/1237700 | Improper input validation in projects leads to fully deny access to project resources
 https://hackerone.com/reports/1238528 | wp-embed XSS on Safari
