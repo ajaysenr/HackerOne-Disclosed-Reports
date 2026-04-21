@@ -8502,21 +8502,31 @@ https://hackerone.com/reports/1223882 | CVE-2021-22925: TELNET stack contents di
 https://hackerone.com/reports/1224089 | IP restriction bypass via X-Forwarded-For header
 https://hackerone.com/reports/1225164 | Identify the mobile number of a twitter user
 https://hackerone.com/reports/1226891 | Domain Takeover of Reddit.ru via DNS Hijacking
+https://hackerone.com/reports/1234746 | Private program disclosure through notifications
 https://hackerone.com/reports/1234760 | CVE-2021-22926: CURLOPT_SSLCERT mixup with Secure Transport
+https://hackerone.com/reports/1237428 | [dubsmash] Long String in 'shoutout' Parameter Leading Internal server Error on Popular hastags , Community and User Profile
 https://hackerone.com/reports/1237700 | Improper input validation in projects leads to fully deny access to project resources
+https://hackerone.com/reports/1238099 | HTTP Request Smuggling due to ignoring chunk extensions
 https://hackerone.com/reports/1238528 | wp-embed XSS on Safari
 https://hackerone.com/reports/1238709 | HTTP Request Smuggling due to accepting space before colon
+https://hackerone.com/reports/1238749 | No rate Limit on Add new Translation Project 
+https://hackerone.com/reports/1239633 | information discloure via logs files at ==> https://ihelp.mtnbusiness.com/logfiles/Log_21-06-2021.txt
 https://hackerone.com/reports/1241149 | FULL SSRF
+https://hackerone.com/reports/1241460 | ApiService#fetch serves content as text/html and inline Content-Disposition
 https://hackerone.com/reports/1241575 | [Java]: CWE-502 Add UnsafeDeserialization sinks
 https://hackerone.com/reports/1241577 | [JavaScript]: CWE-1004: Sensitive cookie without HttpOnly
 https://hackerone.com/reports/1241579 | Java: CodeQL query for unsafe RMI deserialization
 https://hackerone.com/reports/1241637 | informations disclosure(Email,Numbers,Agreements, admin Sessions and more ...) through a PostgreSQL  database belongs to (legium-back.corp.mail.ru)
 https://hackerone.com/reports/1241849 | Information Disclosure .htaccess accesible for public
+https://hackerone.com/reports/1242212 | PIN bypass
+https://hackerone.com/reports/1243009 | No Password Length Restriction leads to Denial of Service
 https://hackerone.com/reports/1243650 | ███████ - XSS - CVE-2020-3580
 https://hackerone.com/reports/1243724 | DoS via large console messages
 https://hackerone.com/reports/1244053 | Reflected XSS on https://help.glassdoor.com/GD_HC_EmbeddedChatVF
 https://hackerone.com/reports/1244145 | RXSS ON https://██████████
 https://hackerone.com/reports/1244722 | XSS at http://nextapps.mtnonline.com/search/suggest/q/{xss payload}
+https://hackerone.com/reports/1245094 | Exposed data of credit card details to hacker or attacker.
+https://hackerone.com/reports/1245165 | CSS Injection via Client Side Path Traversal + Open Redirect leads to personal data exfiltration on Acronis Cloud
 https://hackerone.com/reports/1245529 | No Rate Limit On Forgot Password Page
 https://hackerone.com/reports/1245736 | A non-privileged user may create an admin account in Stocky
 https://hackerone.com/reports/1245787 | [Swiftype] - Stored XSS via document field `url` triggers on `https://app.swiftype.com/engines/<engine>/document_types/<type>/documents/<id>`
