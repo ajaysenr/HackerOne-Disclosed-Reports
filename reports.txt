@@ -8538,7 +8538,7 @@ https://hackerone.com/reports/1249056 | Brave Browser permanently timestamps & l
 https://hackerone.com/reports/1249456 | Pre-auth RCE in ForgeRock OpenAM (CVE-2021-35464)
 https://hackerone.com/reports/1249583 | Authenticated kubernetes principal with restricted permissions can retrieve ingress-nginx serviceaccount token and secrets across all namespaces
 https://hackerone.com/reports/1250037 | Email change or personal data change on the account.
-https://hackerone.com/reports/1250199 | Cross site scripting 
+https://hackerone.com/reports/1250199 | Cross site scripting
 https://hackerone.com/reports/1250273 | Tor Browser using --log or --verbose logs the exact connection time a client connects to any v2 domains.
 https://hackerone.com/reports/1250293 | SQL injection my method -1 OR 3*2*1=6 AND 000159=000159
 https://hackerone.com/reports/1250730 | CSS injection via link tag whitelisted-domain bypass - https://www.glassdoor.com
@@ -8548,21 +8548,27 @@ https://hackerone.com/reports/1252059 | XSS on https://██████/██
 https://hackerone.com/reports/1252155 | HTML INJECTION  (STORED)
 https://hackerone.com/reports/1252282 | XSS on ███
 https://hackerone.com/reports/1253462 | CSRF Account Takeover
+https://hackerone.com/reports/1253732 | Specially crafted message request crashes the webapp for users who view the message
 https://hackerone.com/reports/1253926 | Domain Takeover [3737signals.com]
 https://hackerone.com/reports/1255869 | private keys exposed on the GitHub repository
 https://hackerone.com/reports/1256371 | PII data Leakage through hackerone reports
 https://hackerone.com/reports/1256389 | Subdomain takeover of main domain of https://www.cyberlynx.lu/
+https://hackerone.com/reports/1256496 | HTML injection in email content during registration via FirstName/LastName parameter
 https://hackerone.com/reports/1257091 | Угон домена photo-test.gb.ru (возможно)
 https://hackerone.com/reports/1257428 | Create free Shopify application credits.
 https://hackerone.com/reports/1257586 | PIN 📌 BYPASS 🥷
 https://hackerone.com/reports/1257753 | Open Redirect on www.redditinc.com via `failed` query param
+https://hackerone.com/reports/1260823 | Reflected XSS - https://███
 https://hackerone.com/reports/1260825 | DOM XSS on  www.adobe.com
 https://hackerone.com/reports/1262408 | [allods.mail.ru] - WebCache Poisoning Host Header lead to Potential Stored XSS
 https://hackerone.com/reports/1262757 | SQL injection located in `███` in POST param `████████`
 https://hackerone.com/reports/1264781 | [Java]: CWE 295 - Insecure TrustManager - MiTM
+https://hackerone.com/reports/1264832 | Reflected Cross-Site scripting in : mtn.bj
 https://hackerone.com/reports/1265225 | Multiple server ssh usernames leaked in your github repository
 https://hackerone.com/reports/1265344 | Self-DoS due to template injection via email field in password reset form on access.acronis.com
 https://hackerone.com/reports/1266659 | Subdomain Takeover on 1c-start.tochka.com pointing to unbouncepages
+https://hackerone.com/reports/1267174 | Access to tomcat-manager with default creds
+https://hackerone.com/reports/1267176 | Open Redirection
 https://hackerone.com/reports/1267380 | Reflected XSS on [█████████]
 https://hackerone.com/reports/1267677 | Improper Input Validation on https://oberlo-image-proxy.shopifycloud.com/
 https://hackerone.com/reports/1268115 | Просмотр аватарки замороженной страницы/частной группы.
