@@ -8588,10 +8588,14 @@ https://hackerone.com/reports/1278891 | [CVE-2021-29156] LDAP Injection at https
 https://hackerone.com/reports/1279322 | Ability to add address without being an admin or staff in the store via wholesale store
 https://hackerone.com/reports/1280167 | DNS Misconfiguration (Subdomain Takeover)  - █████████.8x8.com
 https://hackerone.com/reports/1283484 | ReDoS in syntax highlighting due to Rouge
+https://hackerone.com/reports/1283871 | Bypass of the installation sandbox by injecting keystrokes with TIOCSTI
 https://hackerone.com/reports/1283938 | Missing authentication in buddy group API of LINE TIMELINE
+https://hackerone.com/reports/1285081 | Open Redirect on www.redditinc.com via `failed` query param bypass after fixed bug #1257753
+https://hackerone.com/reports/1285115 | Leaked H1's Employees Email addresses,meeting info on private bug bounty program ████████
 https://hackerone.com/reports/1285245 | Homograph attack bypass cause redirection
 https://hackerone.com/reports/1285441 | Rate limit missing sign-in page
 https://hackerone.com/reports/1285538 | Race condition on action: Invite members to a team
+https://hackerone.com/reports/1285694 | No password length restriction in reset password endpoint at http://suppliers.mtn.cm
 https://hackerone.com/reports/1287574 | [Java] CWE-470: Use of Externally-Controlled Input to Select Classes or Code ('Unsafe Reflection')
 https://hackerone.com/reports/1287575 | [Python] CWE-287: LDAP Improper Authentication
 https://hackerone.com/reports/1287576 | [Python]: Add SqlAlchemy support for SQL injection query
