@@ -8622,8 +8622,12 @@ https://hackerone.com/reports/1301696 | Bug Report : [ No Valid SPF Records ]
 https://hackerone.com/reports/1301752 | [C#]: HttpOnly and Secure Cookies for .NET Core and .NET
 https://hackerone.com/reports/1304490 | i can join without user and pass in this website  https://argocd.upchieve.org/settings/accounts
 https://hackerone.com/reports/1305432 | Bot setting information leakage in OpenChat room
+https://hackerone.com/reports/1305472 | Reflected XSS at ████ via ██████████= parameter 
 https://hackerone.com/reports/1305477 | XSS because of Akamai ARL misconfiguration on ████
 https://hackerone.com/reports/1305766 | There is no rate limit for SME REGISTRATION PORTAL
+https://hackerone.com/reports/1309385 | Reflected XSS [██████]
+https://hackerone.com/reports/1309386 | Reflected XSS [██████]
+https://hackerone.com/reports/1309435 | Widespread CSRF on authenticated POST endpoints
 https://hackerone.com/reports/1312365 | Subdomain takeover due to non registered TLD [ ██████████.█████.██████.com ]
 https://hackerone.com/reports/1313040 | Path Traversal on meetcqpub1.gsa.gov allows attackers to see arbitrary file listings.
 https://hackerone.com/reports/1316650 | unclaimed s3 bucket takeover in the 3 js file located on the github page of  brave software
