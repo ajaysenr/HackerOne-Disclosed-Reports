@@ -8637,7 +8637,7 @@ https://hackerone.com/reports/1317031 | Open Akamai ARL XSS at █████�
 https://hackerone.com/reports/1317236 | Unauthorized Kubernetes to RCE (root) and found TEAMTNT Crypto Miner on it
 https://hackerone.com/reports/1317494 | No Rate Limit on forgot password page
 https://hackerone.com/reports/1318087 | OTP reflecting in response sensitive data exposure leads to account take over
-https://hackerone.com/reports/1318936 | Registration Information Leakage 
+https://hackerone.com/reports/1318936 | Registration Information Leakage
 https://hackerone.com/reports/1319892 | Possible to invite any team member without being logged in. [ Session Management Issue ]
 https://hackerone.com/reports/1320084 | Path Traversal issue at https://████/blaze/
 https://hackerone.com/reports/1320138 | No rate Limit on Password Reset page on upchieve
@@ -8646,8 +8646,10 @@ https://hackerone.com/reports/1321358 | XSS exploit of RDoc documentation genera
 https://hackerone.com/reports/1321407 | Stored XSS in Document Title
 https://hackerone.com/reports/1321830 | Google Maps API Key Leakage
 https://hackerone.com/reports/1322322 | Cookie exfiltration through XSS on the main search request of www.lahitapiola.fi
+https://hackerone.com/reports/1322334 | Ability to subscribe to inactive Post+ creators
 https://hackerone.com/reports/1322732 | Cache Posioning leading to denial of service at `█████████` - Bypass fix from report #1198434
 https://hackerone.com/reports/1323406 | IDOR to view order information of users and personal information
+https://hackerone.com/reports/1325649 | com.reddit.frontpage vulernable to Task Hijacking (aka StrandHogg Attack)
 https://hackerone.com/reports/1326264 | Universal Cross-Site Scripting vulnerability
 https://hackerone.com/reports/1326352 | Access to admininstrative resources/account via path traversal
 https://hackerone.com/reports/1327443 | Origin IP Disclosure Vulnerability
@@ -8655,6 +8657,7 @@ https://hackerone.com/reports/1327742 | Steal any users `access_token` via open 
 https://hackerone.com/reports/1328278 | User can pay using archived price by manipulating the request sent to `POST /v1/payment_pages/for_plink`
 https://hackerone.com/reports/1328546 | Incorrect authorization to the intelbot service leading to ticket information
 https://hackerone.com/reports/1329260 | Java: Static initialization vector
+https://hackerone.com/reports/1329792 | AWS subdomain takeover of www.███████
 https://hackerone.com/reports/1331268 | No Rate Limiting on /reset-password-request/ endpoint
 https://hackerone.com/reports/1331281 | Stored XSS on 1.4.0
 https://hackerone.com/reports/1331361 | Broken Link Hijacking on kubernetes.io Documentation
