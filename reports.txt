@@ -8694,8 +8694,10 @@ https://hackerone.com/reports/1354368 | Missing Validation in editing  "Your Pho
 https://hackerone.com/reports/1354382 | Password Reuse
 https://hackerone.com/reports/1354437 | Password reset token leakage
 https://hackerone.com/reports/1355537 | Script breaking tag (Forces website to render blank) (Informative)
+https://hackerone.com/reports/1356508 | Read-only users can restore old versions
 https://hackerone.com/reports/1356845 | CVE-2021-40870 on [52.204.160.31]
 https://hackerone.com/reports/1357013 | ABLE TO TRICK THE VICTIM INTO USING A CRAFTED EMAIL ADDRESS FOR A PARTICULAR  SESSION AND THEN LATER TAKE BACK THE ACCOUNT
+https://hackerone.com/reports/1357948 | Attacker can bypass authentication build on ingress external auth (`nginx.ingress.kubernetes.io/auth-url`)
 https://hackerone.com/reports/1358249 | php info file and sql backup at vendor's subdomain
 https://hackerone.com/reports/1358977 | When sharing a Deck card in conversation the metaData can be manipulated to open arbitrary URL
 https://hackerone.com/reports/1361804 | 1-click DOS in fastify-static via directly passing user's input to new URL() of NodeJS without try/catch
