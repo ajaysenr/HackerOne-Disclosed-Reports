@@ -9148,6 +9148,7 @@ https://hackerone.com/reports/1437004 | Improper santization of edit in list fea
 https://hackerone.com/reports/1438028 | XSS on internal: privileged origin through reader mode
 https://hackerone.com/reports/1438052 | Race condition in faucet when using starport
 https://hackerone.com/reports/1438393 | ███ ████████ running a vulnerable log4j
+https://hackerone.com/reports/1439025 | Unsubscripe linkes leaked
 https://hackerone.com/reports/1439026 | Discoverability by phone number/email restriction bypass
 https://hackerone.com/reports/1439355 | Github base action takeover which is used in `github.com/Shopify/unity-buy-sdk`
 https://hackerone.com/reports/1439552 | Gitlab Pages token theft using service workers
@@ -9156,10 +9157,13 @@ https://hackerone.com/reports/1440161 | Improper Neutralization of Script-Relate
 https://hackerone.com/reports/1441103 | Use-after-free in setsockopt IPV6_2292PKTOPTIONS (CVE-2020-7457)
 https://hackerone.com/reports/1441988 | Stored XSS at https://linkpop.com
 https://hackerone.com/reports/1442017 | Self XSS in Create New Workspace Screen
+https://hackerone.com/reports/1442783 | Improper Authentication inside the Rockstar Games Launcher which leads to Account takeover to some extend
 https://hackerone.com/reports/1442954 | [Java] CWE-089: MyBatis Mapper XML SQL Injection
 https://hackerone.com/reports/1443028 | Java: Regex injection
 https://hackerone.com/reports/1443211 | Bypass Email Verification in Customer Portal
 https://hackerone.com/reports/1443567 | html injection via invite members can be leads account takeover
+https://hackerone.com/reports/1443654 | Registered users contact  information disclosure on salesforce lightning endpoint https://disposal.gsa.gov
+https://hackerone.com/reports/1444031 | Error Page Content Spoofing or Text Injection
 https://hackerone.com/reports/1444151 | XSS vulnerabilities due to missing checks in tag helpers
 https://hackerone.com/reports/1444539 |  Remote memory disclosure vulnerability in libcurl on 64 Bit Windows
 https://hackerone.com/reports/1444675 | Host Header Injection leads to Open Redirect and Content Spoofing or Text Injection.
