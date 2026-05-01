@@ -9206,6 +9206,9 @@ https://hackerone.com/reports/1464396 | Ruby CVE-2021-41819: Cookie Prefix Spoof
 https://hackerone.com/reports/1466765 | monitoring.prow-canary.k8s.io is vulnerable to CVE-2022-21703 (Grafana 0-day)
 https://hackerone.com/reports/1466855 | User with no Develop apps permission can Uninstall Custom App
 https://hackerone.com/reports/1466889 | Broken link hijacking in https://kubernetes-csi.github.io/docs/drivers.html?highlight=chubaofs#production-drivers
+https://hackerone.com/reports/1466967 | Brute force attack of current password on  login page by bypassing account limit using IP rotator(https://dashboard.omise.co/signin)
+https://hackerone.com/reports/1467044 | Blind SSRF on platform.dash.cloudflare.com Due to Sentry misconfiguration
+https://hackerone.com/reports/1467046 | Open Redirect on https://██.8x8.com/login?nextPage=%2F
 https://hackerone.com/reports/1468962 | Binary output bypass
 https://hackerone.com/reports/1471622 | [Python]: Add shutil module sinks for path injection query
 https://hackerone.com/reports/1472471 | Xss triggered in Your-store.myshopify.com/admin/apps/shopify-email/editor/****
