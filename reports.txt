@@ -9230,6 +9230,7 @@ https://hackerone.com/reports/1484086 | [C#] CWE-759: Query to detect password h
 https://hackerone.com/reports/1484168 | De-anonymize anonymous tips through the Tumblr blog network
 https://hackerone.com/reports/1485500 | File Read Vulnerability allows Attackers to Compromise S3 buckets using Prow
 https://hackerone.com/reports/1485501 | ReDoS in Time.rfc2822
+https://hackerone.com/reports/1485717 | ReDoS in IPAddr
 https://hackerone.com/reports/1485788 | Improper Authentication via previous backup code login
 https://hackerone.com/reports/1486310 | admin.8x8.vc: Member users with no permission can integrate email to connect calendar via GET /meet-external/spot-roomkeeper/v1/calendar/auth/init?..
 https://hackerone.com/reports/1486341 | Session Fixation on Acronis
@@ -9260,6 +9261,8 @@ https://hackerone.com/reports/1502099 | Reflected XSS in OAuth complete endpoint
 https://hackerone.com/reports/1503601 | XSS Reflected at https://sketch.pixiv.net/ Via `next_url`
 https://hackerone.com/reports/1504294 | Impersonation of tiktok account via Broken Link in TikTok Newsroom
 https://hackerone.com/reports/1504410 | XSS via Mod Log Removed Posts
+https://hackerone.com/reports/1505609 | Read Other Users Reports Through Cloning
+https://hackerone.com/reports/1508661 | Response Manipulation leads to Admin Panel Login Bypass at https://██████/
 https://hackerone.com/reports/1509057 | IDOR on TikTok Seller
 https://hackerone.com/reports/1509211 | Taking position in a discontinued forex pair without executing any trades
 https://hackerone.com/reports/1509216 | SMTP Command Injection in Appointment Emails via Newlines
