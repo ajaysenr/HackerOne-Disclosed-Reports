@@ -9286,13 +9286,16 @@ https://hackerone.com/reports/1520685 | Moderator can enable cam/mic remotely if
 https://hackerone.com/reports/1520931 | Time-of-check to time-of-use vulnerability in the std::fs::remove_dir_all() function of the Rust standard library
 https://hackerone.com/reports/1521336 | Staff can create workflows in Shopify Admin without apps permission
 https://hackerone.com/reports/1523584 | Attacker shall recieve order updates on whatsapp for users who have activated whatsapp notification
+https://hackerone.com/reports/1524692 | HTTP Request Smuggling Due To Improper Delimiting of Header Fields
 https://hackerone.com/reports/1525200 | SQL Injection at https://files.palantir.com/ due to CVE-2021-38159
+https://hackerone.com/reports/1525309 | A malicious actor could rotate tokens of a victim, given that he knows the victim's token ID
 https://hackerone.com/reports/1525578 | Github Account Takeover which is used as gradle vcs in "github.com/palantir/gradle-launch-config-plugin"
 https://hackerone.com/reports/1526609 | [Java]: CWE-200 - Query to detect insecure WebResourceResponse implementation
 https://hackerone.com/reports/1527405 | 8ybhy85kld9zp9xf84x6.imgur.com Subdomain Takeover
 https://hackerone.com/reports/1529790 | Kafka Connect RCE via connector SASL  JAAS JndiLoginModule configuration
 https://hackerone.com/reports/1530581 | CORS Misconfiguration
 https://hackerone.com/reports/1530898 | Rails::Html::SafeListSanitizer vulnerable to xss attack in an environment that allows the style tag
+https://hackerone.com/reports/1531235 | CSRF in Changing User Verification Email
 https://hackerone.com/reports/1531958 | ReDoS in net/http affects webhooks: Sidekiq job stuck at 100% CPU for a year
 https://hackerone.com/reports/1532858 | Cross-site scripting on dashboard2.omise.co
 https://hackerone.com/reports/1533220 | Ability to View Non-Permitted Admin Log
