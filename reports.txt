@@ -9349,6 +9349,7 @@ https://hackerone.com/reports/1551588 | CVE-2022-27775: Bad local IPv6 connectio
 https://hackerone.com/reports/1551591 | CVE-2022-27776: Auth/cookie leak on redirect
 https://hackerone.com/reports/1552110 | OAUTH2 bearer not-checked for connection re-use
 https://hackerone.com/reports/1553301 | CVE-2022-27779: cookie for trailing dot TLD
+https://hackerone.com/reports/1553598 | CVE-2022-27778: curl removes wrong file on error
 https://hackerone.com/reports/1554888 |  Site information's Display Name section vulnerable for XSS attacks and HTML Injections.
 https://hackerone.com/reports/1555015 | [CVE-2020-3452] Unauthenticated file read in Cisco ASA
 https://hackerone.com/reports/1555025 | CVE-2020-3187 - Unauthenticated Arbitrary File Deletion
@@ -9375,6 +9376,7 @@ https://hackerone.com/reports/1565624 | CVE-2022-27782: TLS and SSH connection t
 https://hackerone.com/reports/1566017 | Race condition on https://judge.me/people
 https://hackerone.com/reports/1566325 | Conduit feed.publish API allows you to spoof other users or make it look like you have access to a restricted object
 https://hackerone.com/reports/1566462 | error parse uri path in curl
+https://hackerone.com/reports/1566758 | The dashboard is exposed in https://███
 https://hackerone.com/reports/1567186 | One-click account hijack for anyone using Apple sign-in with Reddit, due to response-type switch + leaking href to XSS on www.redditmedia.com
 https://hackerone.com/reports/1567257 | Memory leak in CURLOPT_XOAUTH2_BEARER
 https://hackerone.com/reports/1567516 | sql injection via https://setup.p2p.ihost.com/
