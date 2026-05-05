@@ -1,12 +1,38 @@
-# 🔒 HackerOne Disclosed Reports
+# HackerOne Disclosed Reports
 
-A collection of publicly disclosed HackerOne vulnerability reports. Quickly find all XSS, SQLi or other specific vulnerability types by searching through report titles.
+A structured, auto-updated database of publicly disclosed HackerOne vulnerability reports.
 
 ## 📊 Statistics
 
-- **Total Reports**: 11048
-- **Last Updated**: May 04, 2026 at 11:55 PM EST
+| Metric | Count |
+|---|---|
+| **Total Reports** | 11,048 |
+| **With Bounty** | 2,102 |
+| **With CVE** | 1,422 |
+| **Total Bounty Paid** | $3,462,016 |
+| **Critical** | 693 |
+| **High** | 1,412 |
+| **Medium** | 2,602 |
+| **Low** | 1,742 |
 
-## 🚀 Usage
+*Last Updated: May 05, 2026 at 01:43 AM EST*
 
-Simply open `reports.txt` to browse through all disclosed reports.
+## 📁 Browse
+
+| Category | Description |
+|---|---|
+| [By Severity](by-severity/) | critical / high / medium / low / none |
+| [By Weakness](by-weakness/) | CWE-based vulnerability categories |
+| [By Program](by-program/) | One page per bug bounty program |
+| [By Asset Type](by-asset-type/) | URL / Source Code / Android / iOS / Hardware / ... |
+| [By Year](by-year/) | Chronological disclosure timeline |
+| [Top Reports](top-reports/) | Ranked by votes, bounty, CVSS, CVE |
+| [Top Researchers](top-researchers/) | Leaderboards by count, bounty, votes |
+| [Curated](curated/) | Perfect CVSS 10.0 / Hall of Fame / High-sev no bounty |
+
+## 📄 Data
+
+- `reports.txt` — flat URL + title list (11,048 entries)
+- `index.json` — structured metadata for all enriched reports
+- `reports/` — individual markdown page per report
+
