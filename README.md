@@ -5,7 +5,7 @@ A collection of publicly disclosed HackerOne vulnerability reports. Quickly find
 ## 📊 Statistics
 
 - **Total Reports**: 11048
-- **Last Updated**: May 04, 2026 at 10:19 PM EST
+- **Last Updated**: May 04, 2026 at 11:55 PM EST
 
 ## 🚀 Usage
 
