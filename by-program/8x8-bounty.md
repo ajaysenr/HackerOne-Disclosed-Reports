@@ -16,8 +16,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 10 | [807961](../reports/807961.md) | Blind Command Injection #1 | High — CVSS 8.4 | — | 42 | [bugify12334](https://hackerone.com/bugify12334) | 2020-06-22 |
 | 11 | [1499114](../reports/1499114.md) | connect.8x8.com: Users with no permission can track/access r | High | — | 31 | [emperor](https://hackerone.com/emperor) | 2023-02-15 |
 | 12 | [413077](../reports/413077.md) | Stored Cross Site Scripting. | High | — | 20 | [sakhauathr99](https://hackerone.com/sakhauathr99) | 2020-07-21 |
-| 13 | [770548](../reports/770548.md) | Insecure OAuth redirection at [admin.8x8.vc] | High | — | 17 | [hundredpercent](https://hackerone.com/hundredpercent) | 2020-04-10 |
-| 14 | [412772](../reports/412772.md) | Hardcoded credentials in Android App | High | — | 17 | [madrobot](https://hackerone.com/madrobot) | 2020-06-22 |
+| 13 | [412772](../reports/412772.md) | Hardcoded credentials in Android App | High | — | 17 | [madrobot](https://hackerone.com/madrobot) | 2020-06-22 |
+| 14 | [770548](../reports/770548.md) | Insecure OAuth redirection at [admin.8x8.vc] | High | — | 17 | [hundredpercent](https://hackerone.com/hundredpercent) | 2020-04-10 |
 | 15 | [893085](../reports/893085.md) | 2FA Disable With Wrong Password - Response Tampering. | High | — | 14 | [the_predator](https://hackerone.com/the_predator) | 2020-10-21 |
 | 16 | [778629](../reports/778629.md) | (Critical) Remote Code Execution Through Old TinyMCE upload  | High | — | 13 | [konqi](https://hackerone.com/konqi) | 2020-02-12 |
 | 17 | [1197013](../reports/1197013.md) | Subdomain takeover of ████.jitsi.net | High | — | 12 | [ian](https://hackerone.com/ian) | 2021-05-14 |
@@ -35,8 +35,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 29 | [1280167](../reports/1280167.md) | DNS Misconfiguration (Subdomain Takeover)  - █████████.8x8.c | Medium | — | 18 | [melbadry9](https://hackerone.com/melbadry9) | 2021-07-30 |
 | 30 | [1364022](../reports/1364022.md) | Authentication Bypass & ApacheTomcat Misconfiguration in [██ | Medium | — | 17 | [thecyberguy0](https://hackerone.com/thecyberguy0) | 2021-11-04 |
 | 31 | [1622624](../reports/1622624.md) | Public Apache Tomcat /examples example directory | Medium | — | 17 | [mr-k0anti](https://hackerone.com/mr-k0anti) | 2022-07-18 |
-| 32 | [878434](../reports/878434.md) | vidyard api auth_token exposed | Medium | — | 12 | [stilou](https://hackerone.com/stilou) | 2020-12-15 |
-| 33 | [413115](../reports/413115.md) | CRLF injection agentcrm.8x8.com | Medium | — | 12 | [w2w](https://hackerone.com/w2w) | 2020-06-26 |
+| 32 | [413115](../reports/413115.md) | CRLF injection agentcrm.8x8.com | Medium | — | 12 | [w2w](https://hackerone.com/w2w) | 2020-06-26 |
+| 33 | [878434](../reports/878434.md) | vidyard api auth_token exposed | Medium | — | 12 | [stilou](https://hackerone.com/stilou) | 2020-12-15 |
 | 34 | [1392733](../reports/1392733.md) | xss(r) vcc-na11.8x8.com | Medium | — | 7 | [ssharmaz](https://hackerone.com/ssharmaz) | 2023-07-10 |
 | 35 | [710368](../reports/710368.md) | Publicly accessible .svn repository - aastraconf.packet8.net | Medium | — | 6 | [madrobot](https://hackerone.com/madrobot) | 2020-06-22 |
 | 36 | [1400357](../reports/1400357.md) | 8x8pilot.com: Reflected XSS in Apache Tomcat /jsp-examples e | Medium | — | 6 | [huntinex](https://hackerone.com/huntinex) | 2022-05-19 |

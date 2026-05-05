@@ -12,8 +12,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 6 | [135797](../reports/135797.md) | Session Fixation | None | $50 | 12 | [eboda](https://hackerone.com/eboda) | 2016-06-22 |
 | 7 | [49974](../reports/49974.md) | The csrf token remains same after user logs in | None | $50 | 4 | [tmfelwu](https://hackerone.com/tmfelwu) | 2015-11-26 |
 | 8 | [46618](../reports/46618.md) | Frictionless Transferring of Wallet Ownership | None | $50 | 2 | [anshuman_bh](https://hackerone.com/anshuman_bh) | 2015-03-23 |
-| 9 | [57914](../reports/57914.md) | HTML injection in email sent by romit.io | None | $50 | 1 | [tmfelwu](https://hackerone.com/tmfelwu) | 2015-11-26 |
-| 10 | [57692](../reports/57692.md) | Server responds with the server error logs on account creati | None | $50 | 1 | [tmfelwu](https://hackerone.com/tmfelwu) | 2015-11-26 |
+| 9 | [57692](../reports/57692.md) | Server responds with the server error logs on account creati | None | $50 | 1 | [tmfelwu](https://hackerone.com/tmfelwu) | 2015-11-26 |
+| 10 | [57914](../reports/57914.md) | HTML injection in email sent by romit.io | None | $50 | 1 | [tmfelwu](https://hackerone.com/tmfelwu) | 2015-11-26 |
 | 11 | [47627](../reports/47627.md) | Email Enumeration (POC) | None | — | 12 | [logic-breaker](https://hackerone.com/logic-breaker) | 2015-05-27 |
 | 12 | [41469](../reports/41469.md) | Error stack trace | None | — | 7 | [4lemon](https://hackerone.com/4lemon) | 2015-04-03 |
 | 13 | [46736](../reports/46736.md) | CSRF token leakage | None | — | 6 | [yassineaboukir](https://hackerone.com/yassineaboukir) | 2015-03-23 |

@@ -20,8 +20,8 @@
 | 14 | [532836](../reports/532836.md) | [com.exness.android.pa Android] Universal XSS in webvie | [EXNESS](../by-program/exness.md) | com.exness.android.pa | Low | $400 | 26 |
 | 15 | [1650264](../reports/1650264.md) | GitHub Security Lab (GHSL) Vulnerability Report: SQLInj | [ownCloud](../by-program/owncloud.md) | com.owncloud.android | Medium — CVSS 4.2 | $300 | 12 |
 | 16 | [2380133](../reports/2380133.md) | Can download files on Android app without permission | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 3.2 | $250 | 46 |
-| 17 | [1085336](../reports/1085336.md) | CSRF when unlocking lenses leads to lenses being forcef | [Snapchat](../by-program/snapchat.md) | com.snapchat.android | Low | $250 | 20 |
-| 18 | [1161401](../reports/1161401.md) | Notification implicit PendingIntent in com.nextcloud.cl | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 1.3 | $250 | 20 |
+| 17 | [1161401](../reports/1161401.md) | Notification implicit PendingIntent in com.nextcloud.cl | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 1.3 | $250 | 20 |
+| 18 | [1085336](../reports/1085336.md) | CSRF when unlocking lenses leads to lenses being forcef | [Snapchat](../by-program/snapchat.md) | com.snapchat.android | Low | $250 | 20 |
 | 19 | [1408692](../reports/1408692.md) | Access to arbitrary file of the Nextcloud Android app f | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 2.3 | $250 | 11 |
 | 20 | [1102537](../reports/1102537.md) | Subdomain Takeover via Unclaimed Amazon S3 Bucket (Musi | [TikTok](../by-program/tiktok.md) | com.zhiliaoapp.musically | Low | $200 | 29 |
 | 21 | [1450368](../reports/1450368.md) | com.nextcloud.client bypass the protection lock in ando | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 1.1 | $200 | 11 |

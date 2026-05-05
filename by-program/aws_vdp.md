@@ -17,16 +17,16 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 11 | [3017105](../reports/3017105.md) | Sensitive API Key Leakage | Medium | — | 40 | [hemant1](https://hackerone.com/hemant1) | 2025-03-04 |
 | 12 | [3021451](../reports/3021451.md) | Non-Production API Endpoint for the ElastiCache Service Fail | Medium — CVSS 5.0 | — | 39 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-04-25 |
 | 13 | [2800091](../reports/2800091.md) | Non-Production API Endpoints for the bedrock-agent Service F | Medium — CVSS 5.0 | — | 37 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
-| 14 | [2800511](../reports/2800511.md) | Session Timeout Does Not Enforce Re-Authentication on AWS Ac | Medium — CVSS 6.5 | — | 36 | [xendaviour](https://hackerone.com/xendaviour) | 2025-03-05 |
-| 15 | [2926361](../reports/2926361.md) | Non-Production API Endpoints for the ssm Service Fail to Log | Medium — CVSS 5.0 | — | 36 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-04-24 |
+| 14 | [2926361](../reports/2926361.md) | Non-Production API Endpoints for the ssm Service Fail to Log | Medium — CVSS 5.0 | — | 36 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-04-24 |
+| 15 | [2800511](../reports/2800511.md) | Session Timeout Does Not Enforce Re-Authentication on AWS Ac | Medium — CVSS 6.5 | — | 36 | [xendaviour](https://hackerone.com/xendaviour) | 2025-03-05 |
 | 16 | [2999116](../reports/2999116.md) | Non-Production API Endpoints for the Device Farm Service Fai | Medium — CVSS 5.0 | — | 30 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-03-04 |
 | 17 | [2979238](../reports/2979238.md) | Amazon Comprehend Medical Service Reporting "AWS Internal" f | Medium — CVSS 5.0 | — | 29 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-02-25 |
 | 18 | [3021618](../reports/3021618.md) | Non-Production API Endpoint for the EventBridge Service Fail | Medium | — | 26 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
 | 19 | [2951803](../reports/2951803.md) | Non-Production API Endpoints for the bedrock Service Fail to | Medium — CVSS 4.3 | — | 25 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
-| 20 | [3029552](../reports/3029552.md) | Non-Production API Endpoints for the Global Accelerator Serv | Medium | — | 23 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
-| 21 | [2972435](../reports/2972435.md) | Non-Production API Endpoints for the cloudwatch Service Fail | Medium — CVSS 5.0 | — | 23 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-04-25 |
-| 22 | [2805173](../reports/2805173.md) | A potential risk in the cloudFrontExtensionsConsole which ca | Medium — CVSS 6.5 | — | 21 | [zolaer9527](https://hackerone.com/zolaer9527) | 2024-11-19 |
-| 23 | [3042588](../reports/3042588.md) | Non-Production API Endpoints for the Health Service Fail to  | Medium — CVSS 5.0 | — | 21 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
+| 20 | [2972435](../reports/2972435.md) | Non-Production API Endpoints for the cloudwatch Service Fail | Medium — CVSS 5.0 | — | 23 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-04-25 |
+| 21 | [3029552](../reports/3029552.md) | Non-Production API Endpoints for the Global Accelerator Serv | Medium | — | 23 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
+| 22 | [3042588](../reports/3042588.md) | Non-Production API Endpoints for the Health Service Fail to  | Medium — CVSS 5.0 | — | 21 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
+| 23 | [2805173](../reports/2805173.md) | A potential risk in the cloudFrontExtensionsConsole which ca | Medium — CVSS 6.5 | — | 21 | [zolaer9527](https://hackerone.com/zolaer9527) | 2024-11-19 |
 | 24 | [3031512](../reports/3031512.md) | Non-Production API Endpoints for the Glue Service Fail to Lo | Medium | — | 18 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-04-25 |
 | 25 | [3072841](../reports/3072841.md) | Amazon Pinpoint SMS and Voice, version 2  Service Reporting  | Medium | — | 18 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
 | 26 | [3068422](../reports/3068422.md) | Non-Production API Endpoints for the Neptune Graph Service F | Medium | — | 17 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-27 |
@@ -38,6 +38,6 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 32 | [3557138](../reports/3557138.md) | Arbitrary Code Execution via Scanner Bypass in **aws-diagram | None | — | 42 | [locus-x64](https://hackerone.com/locus-x64) | 2026-03-09 |
 | 33 | [3591725](../reports/3591725.md) | SQL Injection Detection Bypass in AWS WAF Managed Rules (AWS | None | — | 36 | [killnet-edc](https://hackerone.com/killnet-edc) | 2026-04-15 |
 | 34 | [3620761](../reports/3620761.md) | Health check errors silently dropped when channel buffer ful | None | — | 21 | [misop00p](https://hackerone.com/misop00p) | 2026-04-07 |
-| 35 | [3427370](../reports/3427370.md) | Command Injection on Amazon Q Developer CLI via malicious .a | None | — | 19 | [farmer](https://hackerone.com/farmer) | 2026-01-16 |
-| 36 | [3620760](../reports/3620760.md) | Encryption context keys and values logged at INFO level | None | — | 19 | [misop00p](https://hackerone.com/misop00p) | 2026-04-10 |
+| 35 | [3620760](../reports/3620760.md) | Encryption context keys and values logged at INFO level | None | — | 19 | [misop00p](https://hackerone.com/misop00p) | 2026-04-10 |
+| 36 | [3427370](../reports/3427370.md) | Command Injection on Amazon Q Developer CLI via malicious .a | None | — | 19 | [farmer](https://hackerone.com/farmer) | 2026-01-16 |
 | 37 | [3083011](../reports/3083011.md) | Private AWS AMIs are temporarily being exposed publicly | None | — | 4 | [seth_art_dd](https://hackerone.com/seth_art_dd) | 2025-05-29 |

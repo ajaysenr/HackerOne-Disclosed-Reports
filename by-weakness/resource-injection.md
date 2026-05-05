@@ -4,8 +4,8 @@
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |---|---|---|---|---|---|---|
-| 1 | [1533976](../reports/1533976.md) | Content injection in Jira issue title enabling sending arbitrary  | [GitLab](../by-program/gitlab.md) | High — CVSS 7.7 | $8,690 | 54 |
-| 2 | [1409788](../reports/1409788.md) | Arbitrary POST request as victim user from HTML injection in Jupy | [GitLab](../by-program/gitlab.md) | High — CVSS 7.7 | $8,690 | 54 |
+| 1 | [1409788](../reports/1409788.md) | Arbitrary POST request as victim user from HTML injection in Jupy | [GitLab](../by-program/gitlab.md) | High — CVSS 7.7 | $8,690 | 54 |
+| 2 | [1533976](../reports/1533976.md) | Content injection in Jira issue title enabling sending arbitrary  | [GitLab](../by-program/gitlab.md) | High — CVSS 7.7 | $8,690 | 54 |
 | 3 | [1637621](../reports/1637621.md) | Command injection in GitHub Actions ContainerStepHost | [GitHub](../by-program/github.md) | None | $4,000 | 32 |
 | 4 | [790634](../reports/790634.md) | When you call your branch the same name as a git hash, it could b | [GitLab](../by-program/gitlab.md) | Medium | $2,000 | 39 |
 | 5 | [1935628](../reports/1935628.md) | HTML injection possible with soft email confirmations when Admini | [GitLab](../by-program/gitlab.md) | Low — CVSS 3.5 | $1,060 | 59 |

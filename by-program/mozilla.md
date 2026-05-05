@@ -32,12 +32,12 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 26 | [2269867](../reports/2269867.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 79 | [holybugx](https://hackerone.com/holybugx) | 2024-01-04 |
 | 27 | [1888545](../reports/1888545.md) | IDOR - send a message on behalf of other user  | Medium — CVSS 6.5 | — | 78 | [lamscun](https://hackerone.com/lamscun) | 2023-09-20 |
 | 28 | [2686750](../reports/2686750.md) | MozillaVPN: Elevation of Privilege via a Logic Vulnerability | Medium | — | 59 | [northsea](https://hackerone.com/northsea) | 2025-07-03 |
-| 29 | [2545012](../reports/2545012.md) | Subdomain takeover on one of the subdomains under mozaws.net | Medium | — | 49 | [d0xing](https://hackerone.com/d0xing) | 2024-07-25 |
-| 30 | [1987680](../reports/1987680.md) | Leaking VPN traffic through non-RFC1918 local IP addresses | Medium | — | 49 | [vanhoefm](https://hackerone.com/vanhoefm) | 2024-11-08 |
+| 29 | [1987680](../reports/1987680.md) | Leaking VPN traffic through non-RFC1918 local IP addresses | Medium | — | 49 | [vanhoefm](https://hackerone.com/vanhoefm) | 2024-11-08 |
+| 30 | [2545012](../reports/2545012.md) | Subdomain takeover on one of the subdomains under mozaws.net | Medium | — | 49 | [d0xing](https://hackerone.com/d0xing) | 2024-07-25 |
 | 31 | [2286867](../reports/2286867.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 44 | [holybugx](https://hackerone.com/holybugx) | 2024-01-04 |
 | 32 | [3020021](../reports/3020021.md) | [Vertical Privilege Escalation] User can Unapproved any Appr | Medium — CVSS 6.5 | — | 42 | [adilnbabras](https://hackerone.com/adilnbabras) | 2026-04-10 |
-| 33 | [2261577](../reports/2261577.md) | MozillaVPN: Elevation of Privilege via a Race Condition Vuln | Medium | — | 40 | [northsea](https://hackerone.com/northsea) | 2025-07-03 |
-| 34 | [2287098](../reports/2287098.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 40 | [holybugx](https://hackerone.com/holybugx) | 2024-01-04 |
+| 33 | [2287098](../reports/2287098.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 40 | [holybugx](https://hackerone.com/holybugx) | 2024-01-04 |
+| 34 | [2261577](../reports/2261577.md) | MozillaVPN: Elevation of Privilege via a Race Condition Vuln | Medium | — | 40 | [northsea](https://hackerone.com/northsea) | 2025-07-03 |
 | 35 | [2285286](../reports/2285286.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 37 | [holybugx](https://hackerone.com/holybugx) | 2024-01-04 |
 | 36 | [2398630](../reports/2398630.md) | Subdomain takeover on one of the subdomains under mozaws.net | Medium | — | 34 | [d0xing](https://hackerone.com/d0xing) | 2024-07-25 |
 | 37 | [2017323](../reports/2017323.md) | Subdomain takeover on one of the subdomain under mozilla.org | Medium | — | 31 | [d0xing](https://hackerone.com/d0xing) | 2023-10-04 |

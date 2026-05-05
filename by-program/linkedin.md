@@ -7,8 +7,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 1 | [3475626](../reports/3475626.md) | Session Cookie Leakage via Static Header Field in WebViewerF | High — CVSS 8.1 | — | 116 | [dphoeniixx](https://hackerone.com/dphoeniixx) | 2026-03-17 |
 | 2 | [2534458](../reports/2534458.md) | Can see phone numbers of others by providing mail address | High — CVSS 7.5 | — | 107 | [sevada797](https://hackerone.com/sevada797) | 2024-11-13 |
 | 3 | [2291999](../reports/2291999.md) | An attacker can submit arbitrary projects to their service a | High — CVSS 8.2 | — | 90 | [marvelmaniac](https://hackerone.com/marvelmaniac) | 2024-03-12 |
-| 4 | [1608735](../reports/1608735.md) | IDOR allows an attacker to delete anyone's featured photo. | Medium — CVSS 6.5 | — | 94 | [adilnbabras](https://hackerone.com/adilnbabras) | 2023-08-24 |
-| 5 | [3235855](../reports/3235855.md) | Improper Access Control - Access to "Active Hiring" (Premium | Medium — CVSS 4.3 | — | 94 | [minex627](https://hackerone.com/minex627) | 2026-02-03 |
+| 4 | [3235855](../reports/3235855.md) | Improper Access Control - Access to "Active Hiring" (Premium | Medium — CVSS 4.3 | — | 94 | [minex627](https://hackerone.com/minex627) | 2026-02-03 |
+| 5 | [1608735](../reports/1608735.md) | IDOR allows an attacker to delete anyone's featured photo. | Medium — CVSS 6.5 | — | 94 | [adilnbabras](https://hackerone.com/adilnbabras) | 2023-08-24 |
 | 6 | [1801427](../reports/1801427.md) | Information disclosure by sending a GIF | Medium — CVSS 4.3 | — | 83 | [qualw1n](https://hackerone.com/qualw1n) | 2023-04-28 |
 | 7 | [1806939](../reports/1806939.md) | Entire database of emails exposed through URN injection | Medium — CVSS 5.3 | — | 79 | [ultrapowa](https://hackerone.com/ultrapowa) | 2023-05-22 |
 | 8 | [1734639](../reports/1734639.md) | IDOR to make someone attend or leave an event | Medium — CVSS 6.5 | — | 78 | [safehacker_2715](https://hackerone.com/safehacker_2715) | 2026-03-06 |

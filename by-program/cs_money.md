@@ -23,6 +23,6 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 17 | [832858](../reports/832858.md) | SSRF via 3d.cs.money/pasteLinkToImage | Medium — CVSS 5.2 | — | 13 | [putsi](https://hackerone.com/putsi) | 2020-03-31 |
 | 18 | [1105673](../reports/1105673.md) | Origin IP found, Cloudflare bypassed | Medium | — | 11 | [sawmj](https://hackerone.com/sawmj) | 2021-03-30 |
 | 19 | [1185479](../reports/1185479.md) | Previously created sessions continue being valid after MFA a | Medium | — | 10 | [benjamin-mauss](https://hackerone.com/benjamin-mauss) | 2021-05-18 |
-| 20 | [997198](../reports/997198.md) | Content Spoofing/Text Injection in https://support.cs.money  | Low | — | 28 | [rootishere](https://hackerone.com/rootishere) | 2020-11-12 |
-| 21 | [990838](../reports/990838.md) | Bypass Filter on link of build | Low | — | 28 | [khoabda1](https://hackerone.com/khoabda1) | 2020-09-28 |
+| 20 | [990838](../reports/990838.md) | Bypass Filter on link of build | Low | — | 28 | [khoabda1](https://hackerone.com/khoabda1) | 2020-09-28 |
+| 21 | [997198](../reports/997198.md) | Content Spoofing/Text Injection in https://support.cs.money  | Low | — | 28 | [rootishere](https://hackerone.com/rootishere) | 2020-11-12 |
 | 22 | [1107536](../reports/1107536.md) | Blind Based SQL Injection in 3d.sc.money | None | — | 23 | [sawmj](https://hackerone.com/sawmj) | 2021-04-16 |

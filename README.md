@@ -7,15 +7,15 @@ A structured, auto-updated database of publicly disclosed HackerOne vulnerabilit
 | Metric | Count |
 |---|---|
 | **Total Reports** | 9,422 |
-| **With Bounty** | 2,102 |
+| **With Bounty** | 2,103 |
 | **With CVE** | 1,422 |
-| **Total Bounty Paid** | $3,462,016 |
+| **Total Bounty Paid** | $3,462,516 |
 | **Critical** | 693 |
-| **High** | 1,412 |
+| **High** | 1,413 |
 | **Medium** | 2,602 |
 | **Low** | 1,742 |
 
-*Last Updated: May 05, 2026 at 02:04 AM EST*
+*Last Updated: May 05, 2026 at 02:10 AM EST*
 
 ## 📁 Browse
 

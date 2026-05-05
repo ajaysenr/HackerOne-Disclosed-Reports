@@ -36,8 +36,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 30 | [1819329](../reports/1819329.md) | Brave Shield for iOS is weak against IDN homograph attacks | Low | $150 | 9 | [nishimunea](https://hackerone.com/nishimunea) | 2023-06-22 |
 | 31 | [175979](../reports/175979.md) | Access to local file system using javascript | Medium | $100 | 13 | [karel_origin](https://hackerone.com/karel_origin) | 2016-11-16 |
 | 32 | [2958097](../reports/2958097.md) | Null Pointer Dereference by Crafted Response from AI Model | Low | $100 | 115 | [canalun](https://hackerone.com/canalun) | 2025-03-26 |
-| 33 | [3665151](../reports/3665151.md) | Brave Shields Domain Reordering Leads to Origin Confusion | Low | $100 | 45 | [mousepadkalilinux12](https://hackerone.com/mousepadkalilinux12) | 2026-04-13 |
-| 34 | [2501378](../reports/2501378.md) | Brave Android: Incorrect URL Eliding in Brave Shields Pop Up | Low | $100 | 45 | [jayateerthag](https://hackerone.com/jayateerthag) | 2024-09-18 |
+| 33 | [2501378](../reports/2501378.md) | Brave Android: Incorrect URL Eliding in Brave Shields Pop Up | Low | $100 | 45 | [jayateerthag](https://hackerone.com/jayateerthag) | 2024-09-18 |
+| 34 | [3665151](../reports/3665151.md) | Brave Shields Domain Reordering Leads to Origin Confusion | Low | $100 | 45 | [mousepadkalilinux12](https://hackerone.com/mousepadkalilinux12) | 2026-04-13 |
 | 35 | [258710](../reports/258710.md) | Download attribute allows downloading local files | Low | $100 | 11 | [skansing](https://hackerone.com/skansing) | 2018-03-29 |
 | 36 | [1024668](../reports/1024668.md) | Brave Browser potentially logs the last time a Tor window wa | Low — CVSS 3.5 | $100 | 7 | [sickcodes](https://hackerone.com/sickcodes) | 2020-11-04 |
 | 37 | [258585](../reports/258585.md) | OS username disclosure | Low | $100 | 6 | [qab](https://hackerone.com/qab) | 2017-11-07 |
@@ -97,8 +97,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 91 | [175320](../reports/175320.md) | 2 Directory Listing on ledger.brave.com & vault-staging.brav | Low | — | 7 | [bibo](https://hackerone.com/bibo) | 2016-11-13 |
 | 92 | [378809](../reports/378809.md) | `alert()` dialogs on `chrome-extension://` origin (internal  | Low | — | 6 | [metnew](https://hackerone.com/metnew) | 2018-10-04 |
 | 93 | [215044](../reports/215044.md) | [iOS] URL can be replaceState by blob URL in iOS Brave | Low | — | 6 | [xifengweiyu](https://hackerone.com/xifengweiyu) | 2017-08-10 |
-| 94 | [377206](../reports/377206.md) | `settingcontent-ms` files lacks "mark of the web" => execute | Low | — | 5 | [metnew](https://hackerone.com/metnew) | 2018-10-04 |
-| 95 | [176066](../reports/176066.md) | Denial of service attack on Brave Browser. | Low | — | 5 | [sahiltikoo](https://hackerone.com/sahiltikoo) | 2017-02-10 |
+| 94 | [176066](../reports/176066.md) | Denial of service attack on Brave Browser. | Low | — | 5 | [sahiltikoo](https://hackerone.com/sahiltikoo) | 2017-02-10 |
+| 95 | [377206](../reports/377206.md) | `settingcontent-ms` files lacks "mark of the web" => execute | Low | — | 5 | [metnew](https://hackerone.com/metnew) | 2018-10-04 |
 | 96 | [669440](../reports/669440.md) | Link obfuscation bug | Low | — | 4 | [l000g1c](https://hackerone.com/l000g1c) | 2019-08-12 |
 | 97 | [203088](../reports/203088.md) | Brave payments remembers history even after clearing all bro | Low — CVSS 2.1 | — | 2 | [sumit](https://hackerone.com/sumit) | 2017-08-10 |
 | 98 | [272231](../reports/272231.md) | Download of (later executed) .NET installer over insecure ch | Low | — | 1 | [skanthak](https://hackerone.com/skanthak) | 2018-07-09 |

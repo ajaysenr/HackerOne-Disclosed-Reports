@@ -26,8 +26,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 20 | [282588](../reports/282588.md) | Take back my all data from limfuimay@gmail.com | High — CVSS 8.0 | — | 12 | [sam1166](https://hackerone.com/sam1166) | 2017-12-15 |
 | 21 | [1168205](../reports/1168205.md) | 'net/http': HTTP Header Injection in the set_content_type me | High — CVSS 7.2 | — | 9 | [sighook](https://hackerone.com/sighook) | 2022-02-04 |
 | 22 | [1204695](../reports/1204695.md) | RubyのCGIライブラリにHTTPレスポンス分割（HTTPヘッダインジェクション）があり、秘密情報が漏洩する | High — CVSS 7.1 | — | 8 | [htokumaru](https://hackerone.com/htokumaru) | 2022-11-24 |
-| 23 | [1189419](../reports/1189419.md) | XMLRPC does not limit deserializable classes. | High | — | 3 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2023-08-01 |
-| 24 | [1301696](../reports/1301696.md) | Bug Report : [ No Valid SPF Records ] | High | — | 3 | [sohaib619](https://hackerone.com/sohaib619) | 2022-01-13 |
+| 23 | [1301696](../reports/1301696.md) | Bug Report : [ No Valid SPF Records ] | High | — | 3 | [sohaib619](https://hackerone.com/sohaib619) | 2022-01-13 |
+| 24 | [1189419](../reports/1189419.md) | XMLRPC does not limit deserializable classes. | High | — | 3 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2023-08-01 |
 | 25 | [281850](../reports/281850.md) | Provide a security sistem most fit to our team | High — CVSS 7.6 | — | 1 | [sam1166](https://hackerone.com/sam1166) | 2017-12-15 |
 | 26 | [1444501](../reports/1444501.md) | URI parser's RFC3986 regular expression has poor performance | Medium — CVSS 5.3 | — | 22 | [dee-see](https://hackerone.com/dee-see) | 2023-12-13 |
 | 27 | [2666849](../reports/2666849.md) | Uncontrolled Resource Consumption when parsing maliciously c | Medium — CVSS 5.3 | — | 21 | [l33thaxor](https://hackerone.com/l33thaxor) | 2025-02-20 |
@@ -44,8 +44,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 38 | [235842](../reports/235842.md) | Ruby 2.3.x and 2.2.x still bundle DoS vulnerable verision of | Medium — CVSS 5.3 | — | 3 | [usa](https://hackerone.com/usa) | 2017-10-25 |
 | 39 | [980249](../reports/980249.md) | Net::SMTP with tls allows forged certificates as long as the | Medium | — | 3 | [hanno](https://hackerone.com/hanno) | 2021-01-25 |
 | 40 | [294462](../reports/294462.md) | NET::Ftp allows command injection in filenames | Low | — | 28 | [staaldraad](https://hackerone.com/staaldraad) | 2017-12-19 |
-| 41 | [661722](../reports/661722.md) | WEBrick::HTTPAuth::DigestAuth authentication is vulnerable t | Low — CVSS 3.7 | — | 17 | [358](https://hackerone.com/358) | 2019-11-15 |
-| 42 | [166661](../reports/166661.md) | Arbitrary heap overread in strscan on 32 bit Ruby, patch inc | Low | — | 17 | [guido](https://hackerone.com/guido) | 2016-11-17 |
+| 41 | [166661](../reports/166661.md) | Arbitrary heap overread in strscan on 32 bit Ruby, patch inc | Low | — | 17 | [guido](https://hackerone.com/guido) | 2016-11-17 |
+| 42 | [661722](../reports/661722.md) | WEBrick::HTTPAuth::DigestAuth authentication is vulnerable t | Low — CVSS 3.7 | — | 17 | [358](https://hackerone.com/358) | 2019-11-15 |
 | 43 | [1145454](../reports/1145454.md) | lib/net/ftp.rb: trusting PASV responses allow client abuse | Low — CVSS 3.7 | — | 9 | [sighook](https://hackerone.com/sighook) | 2021-07-08 |
 | 44 | [519061](../reports/519061.md) | Ruby is shipping a vulnerable jQuery | Low | — | 8 | [chrisseaton](https://hackerone.com/chrisseaton) | 2019-10-03 |
 | 45 | [1204977](../reports/1204977.md) | CGI::Cookieクラスにおけるセキュリティ上好ましくない仕様および実装 | Low | — | 6 | [htokumaru](https://hackerone.com/htokumaru) | 2022-11-24 |
@@ -57,9 +57,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 51 | [209949](../reports/209949.md) | Arbitrary heap exposure in JSON.generate | None | — | 9 | [ahmadsherif](https://hackerone.com/ahmadsherif) | 2017-09-25 |
 | 52 | [156615](../reports/156615.md) | Attacker can smuggle a malicious domain in a URI object. | None | — | 8 | [djspinmonkey](https://hackerone.com/djspinmonkey) | 2022-12-13 |
 | 53 | [1485501](../reports/1485501.md) | ReDoS in Time.rfc2822 | None | — | 5 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2023-05-16 |
-| 54 | [287835](../reports/287835.md) | Resolv::getaddresses bug that can be abused to bypass securi | None | — | 4 | [edoverflow](https://hackerone.com/edoverflow) | 2018-02-23 |
-| 55 | [247640](../reports/247640.md) | Ruby 2.4.1 has "Stack consistency error" and aborts when pro | None | — | 4 | [haquaman](https://hackerone.com/haquaman) | 2017-09-24 |
+| 54 | [247640](../reports/247640.md) | Ruby 2.4.1 has "Stack consistency error" and aborts when pro | None | — | 4 | [haquaman](https://hackerone.com/haquaman) | 2017-09-24 |
+| 55 | [287835](../reports/287835.md) | Resolv::getaddresses bug that can be abused to bypass securi | None | — | 4 | [edoverflow](https://hackerone.com/edoverflow) | 2018-02-23 |
 | 56 | [1187156](../reports/1187156.md) | XSS in HTML generated by RDoc | None | — | 3 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2023-07-18 |
 | 57 | [144485](../reports/144485.md) | Heap corruption in string.c tr_trans() due to undersized buf | None | — | 2 | [guido](https://hackerone.com/guido) | 2016-06-21 |
-| 58 | [341634](../reports/341634.md) | Invalid URL parsing '#' | None | — | 0 | [mrtc0](https://hackerone.com/mrtc0) | 2018-05-01 |
-| 59 | [363934](../reports/363934.md) | SEGV in parse_rat() | None | — | 0 | [etsukata](https://hackerone.com/etsukata) | 2018-06-13 |
+| 58 | [363934](../reports/363934.md) | SEGV in parse_rat() | None | — | 0 | [etsukata](https://hackerone.com/etsukata) | 2018-06-13 |
+| 59 | [341634](../reports/341634.md) | Invalid URL parsing '#' | None | — | 0 | [mrtc0](https://hackerone.com/mrtc0) | 2018-05-01 |

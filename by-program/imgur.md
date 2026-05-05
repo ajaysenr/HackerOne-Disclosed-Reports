@@ -37,10 +37,10 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 31 | [105463](../reports/105463.md) | risk of having secure=false in a crossdomain.xml | None | — | 3 | [hacker00000000](https://hackerone.com/hacker00000000) | 2016-03-03 |
 | 32 | [91332](../reports/91332.md) | Open Url redirection on login with facebook | None | — | 3 | [d1pakda5](https://hackerone.com/d1pakda5) | 2015-12-09 |
 | 33 | [97938](../reports/97938.md) | XSS m.imgur.com | None | — | 3 | [charfee](https://hackerone.com/charfee) | 2016-01-21 |
-| 34 | [106982](../reports/106982.md) | XSS in imgur mobile | None | — | 2 | [charfee](https://hackerone.com/charfee) | 2016-01-19 |
-| 35 | [111752](../reports/111752.md) | Big Bug in SSL : breach compression attack (CVE-2013-3587) a | None | — | 2 | [hacker00000000](https://hackerone.com/hacker00000000) | 2016-01-21 |
-| 36 | [91350](../reports/91350.md) | "Sign me out everywhere" does not work for desktop sessions | None | — | 2 | [d1pakda5](https://hackerone.com/d1pakda5) | 2015-12-23 |
-| 37 | [107036](../reports/107036.md) | XSS in imgur mobile 3 | None | — | 2 | [charfee](https://hackerone.com/charfee) | 2016-01-21 |
-| 38 | [103178](../reports/103178.md) | Attack User Privacy Settings - X-Frame-Options missing on m. | None | — | 1 | [kasser](https://hackerone.com/kasser) | 2016-05-04 |
-| 39 | [93154](../reports/93154.md) | Csrf near report abuse meme  | None | — | 1 | [oroborus](https://hackerone.com/oroborus) | 2015-12-09 |
-| 40 | [91366](../reports/91366.md) | Content Sniffing not enabled | None | — | 1 | [unknown_cybary](https://hackerone.com/unknown_cybary) | 2015-12-09 |
+| 34 | [111752](../reports/111752.md) | Big Bug in SSL : breach compression attack (CVE-2013-3587) a | None | — | 2 | [hacker00000000](https://hackerone.com/hacker00000000) | 2016-01-21 |
+| 35 | [106982](../reports/106982.md) | XSS in imgur mobile | None | — | 2 | [charfee](https://hackerone.com/charfee) | 2016-01-19 |
+| 36 | [107036](../reports/107036.md) | XSS in imgur mobile 3 | None | — | 2 | [charfee](https://hackerone.com/charfee) | 2016-01-21 |
+| 37 | [91350](../reports/91350.md) | "Sign me out everywhere" does not work for desktop sessions | None | — | 2 | [d1pakda5](https://hackerone.com/d1pakda5) | 2015-12-23 |
+| 38 | [93154](../reports/93154.md) | Csrf near report abuse meme  | None | — | 1 | [oroborus](https://hackerone.com/oroborus) | 2015-12-09 |
+| 39 | [91366](../reports/91366.md) | Content Sniffing not enabled | None | — | 1 | [unknown_cybary](https://hackerone.com/unknown_cybary) | 2015-12-09 |
+| 40 | [103178](../reports/103178.md) | Attack User Privacy Settings - X-Frame-Options missing on m. | None | — | 1 | [kasser](https://hackerone.com/kasser) | 2016-05-04 |
