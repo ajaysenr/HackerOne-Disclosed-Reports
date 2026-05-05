@@ -9407,6 +9407,7 @@ https://hackerone.com/reports/1581499 | HTML Injection in email via Name field
 https://hackerone.com/reports/1581528 | Can access the job name, creator name and can report any draft/under review/rejected job
 https://hackerone.com/reports/1582697 | CPP: Add query for CWE-243 Creation of chroot Jail Without Changing Working Directory
 https://hackerone.com/reports/1583680 | Undici does not use CONNECT or otherwise validate upstream HTTPS certificates when using a proxy
+https://hackerone.com/reports/1584034 | Clickjacking at open.rocket.chat
 https://hackerone.com/reports/1584409 | Deprecated owners.query API bypasses object view policy
 https://hackerone.com/reports/1584718 | Information disclosure ( Google Sales Channel )
 https://hackerone.com/reports/1587150 | Python : Add query to detect PAM authorization bypass
