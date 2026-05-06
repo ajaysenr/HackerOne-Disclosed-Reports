@@ -9376,6 +9376,7 @@ https://hackerone.com/reports/3620760 | Encryption context keys and values logge
 https://hackerone.com/reports/3620761 | Health check errors silently dropped when channel buffer full
 https://hackerone.com/reports/3621851 | CVE-2026-4873: connection reuse ignores TLS requirement
 https://hackerone.com/reports/3623064 | HTTP/1.1 Response Desynchronization via conflicting CL/TE headers in Proxy CONNECT
+https://hackerone.com/reports/3625600 | Out of scope: Improper Input Validation Order on /api-internal/login via password field leads to unnecessary resource consumption
 https://hackerone.com/reports/3627638 | Security Vulnerability Report: Protocol Injection via Programmatic Options
 https://hackerone.com/reports/3630310 | HTTP/2 server push accepts a non-authoritative :scheme=https over cleartext h2c, enabling HTTPS cache-key poisoning
 https://hackerone.com/reports/3632427 | Unbounded GZIP Decompression Leading to Event-Loop Starvation
@@ -9420,3 +9421,6 @@ https://hackerone.com/reports/3684614 | Heap-buffer-overflow in `Curl_ssl_push_c
 https://hackerone.com/reports/3694390 | CVE-2026-7009: OCSP stapling bypass with Apple SecTrust
 https://hackerone.com/reports/3697719 | CVE-2026-7168: cross-proxy Digest auth state leak
 https://hackerone.com/reports/3702718 | MQTT state machine confusion: PINGRESP/DISCONNECT with non-zero remaining_length dispatches to stale nextstate
+https://hackerone.com/reports/3707747 | libcurl 8.20.0 incomplete fix for CVE-2026-7168: changing only CURLOPT_PROXYPORT leaks stale Proxy Digest auth to a different proxy
+https://hackerone.com/reports/3710209 | Potential Resource Leak in tool_parsecfg.c at line 279 during fileerror
+https://hackerone.com/reports/3712343 | MQTT CONNACK Packet Type Bypass leads to RCE via Malicious Broker
