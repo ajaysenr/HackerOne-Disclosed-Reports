@@ -1,4 +1,4 @@
-# Perfect CVSS 10.0 Reports (46 total)
+# Perfect CVSS 10.0 Reports (47 total)
 
 Reports where the program assigned a CVSS score of exactly 10.0.
 
@@ -15,6 +15,7 @@ Reports where the program assigned a CVSS score of exactly 10.0.
 | [1425474](../reports/1425474.md) | [CVE-2021-44228] nps.acronis.com is vulnerable to the recent log4 | [Acronis](../by-program/acronis.md) | $1,000 | 75 |
 | [378698](../reports/378698.md) | Cisco ASA Denial of Service & Path Traversal (CVE-2018-0296) | [ok.ru](../by-program/ok.md) | — | 9 |
 | [1002641](../reports/1002641.md) | SQL Injection leads to retrieve the contents of an entire databas | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | — | 8 |
+| [3307874](../reports/3307874.md) | Critical Deadlock Vulnerability in Monero RPC Leading to Complete | [Monero](../by-program/monero.md) | — | 6 |
 | [728614](../reports/728614.md) | [HTAF4-213] [Pre-submission] Unsafe AMF deserialization (CVE-2017 | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | — | 28 |
 | [783360](../reports/783360.md) | Open memory dump method leaking customer information ,secret keys | [Stripo Inc](../by-program/stripo.md) | — | 157 |
 | [506646](../reports/506646.md) | Webshell via File Upload on ecjobs.starbucks.com.cn | [Starbucks](../by-program/starbucks.md) | — | 686 |

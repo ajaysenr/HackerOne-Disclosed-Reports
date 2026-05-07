@@ -9225,6 +9225,7 @@ https://hackerone.com/reports/3181802 | Reflected XSS in "Client Notes" Field
 https://hackerone.com/reports/3181803 | Reflected XSS in "Manage Tags" Notes Field
 https://hackerone.com/reports/3183046 | Cache Pollution via Unkeyed GET Parameters on www.omise.co
 https://hackerone.com/reports/3183520 | Non-premium user can disable Ads in japanese version of dic.pixiv.net
+https://hackerone.com/reports/3185083 | Connection Count Bug in Monero Node Enables Outbound Peer Reset Attack
 https://hackerone.com/reports/3185205 | Reflected XSS in "Cost Tracker" Notes Field
 https://hackerone.com/reports/3198980 | Woocommerce SQL Injection in WC_Report_Coupon_Usage
 https://hackerone.com/reports/3204997 | Reflected XSS via user Parameter on getconfig.esp Endpoint
@@ -9244,6 +9245,7 @@ https://hackerone.com/reports/3284534 | Reflected Cross-Site Scripting (XSS)
 https://hackerone.com/reports/3287208 | DOS via Mutation Aliasing in GraphQL Account Recovery Phone Number Verification API
 https://hackerone.com/reports/3291053 | exposed FOUO documents, including Passport information
 https://hackerone.com/reports/3293803 | SQLi At `███████` via `theme_name`
+https://hackerone.com/reports/3307874 | Critical Deadlock Vulnerability in Monero RPC Leading to Complete Node Paralysis
 https://hackerone.com/reports/3318295 | Information Disclosure via Publicly Accessible Debug Log
 https://hackerone.com/reports/3320669 | Double fdrop on a socket through sys_netcontrol
 https://hackerone.com/reports/3321406 | [Variation of #1554049] 1-Click Chaining of Self-XSS, Cookie Tossing and AntiCSRF Token Prediction leads to auto approval in Access Temp Auth
@@ -9422,5 +9424,6 @@ https://hackerone.com/reports/3694390 | CVE-2026-7009: OCSP stapling bypass with
 https://hackerone.com/reports/3697719 | CVE-2026-7168: cross-proxy Digest auth state leak
 https://hackerone.com/reports/3702718 | MQTT state machine confusion: PINGRESP/DISCONNECT with non-zero remaining_length dispatches to stale nextstate
 https://hackerone.com/reports/3707747 | libcurl 8.20.0 incomplete fix for CVE-2026-7168: changing only CURLOPT_PROXYPORT leaks stale Proxy Digest auth to a different proxy
+https://hackerone.com/reports/3708482 | wcurl treats some URL operands after -- as curl options
 https://hackerone.com/reports/3710209 | Potential Resource Leak in tool_parsecfg.c at line 279 during fileerror
 https://hackerone.com/reports/3712343 | MQTT CONNACK Packet Type Bypass leads to RCE via Malicious Broker
