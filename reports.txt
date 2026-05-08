@@ -9343,6 +9343,7 @@ https://hackerone.com/reports/3575250 | RTSP RTP Interleaved Parser Assertion Fa
 https://hackerone.com/reports/3575475 | Curl Telnet Handler Buffer Overflow
 https://hackerone.com/reports/3578842 | SQL Injection vulnerability found on ibm.com endpoint
 https://hackerone.com/reports/3580247 | Use after free in hyperfifo example
+https://hackerone.com/reports/3580511 | ActiveStorage Disk Service Path Traversal via Custom Blob Key Injection
 https://hackerone.com/reports/3581815 | Open Redirect on lovable.dev via redirect parameter leads to phishing attacks
 https://hackerone.com/reports/3583983 | CVE-2026-3783: token leak with redirect and netrc
 https://hackerone.com/reports/3584149 | SSTI leads to Command injection
@@ -9427,3 +9428,4 @@ https://hackerone.com/reports/3707747 | libcurl 8.20.0 incomplete fix for CVE-20
 https://hackerone.com/reports/3708482 | wcurl treats some URL operands after -- as curl options
 https://hackerone.com/reports/3710209 | Potential Resource Leak in tool_parsecfg.c at line 279 during fileerror
 https://hackerone.com/reports/3712343 | MQTT CONNACK Packet Type Bypass leads to RCE via Malicious Broker
+https://hackerone.com/reports/3717365 | mbedTLS private-key blob null-termination asymmetry in lib/vtls/mbedtls.c (mbed_load_privkey)

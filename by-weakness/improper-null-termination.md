@@ -1,4 +1,4 @@
-# Weakness: Improper Null Termination (9 reports)
+# Weakness: Improper Null Termination (10 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -12,4 +12,5 @@
 | 6 | [805010](../reports/805010.md) | PHP link() silently truncates after a null byte on Windows | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 2 |
 | 7 | [805013](../reports/805013.md) | DirectoryIterator class silently truncates after a null byte | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 1 |
 | 8 | [3399016](../reports/3399016.md) | Improper input validation On Exported deep-link handler crashes ` | [Nextcloud](../by-program/nextcloud.md) | None | — | 28 |
-| 9 | [255125](../reports/255125.md) | Null Byte Injection in all fields of Profile | [Legal Robot](../by-program/legalrobot.md) | None | — | 2 |
+| 9 | [3717365](../reports/3717365.md) | mbedTLS private-key blob null-termination asymmetry in lib/vtls/m | [curl](../by-program/curl.md) | None | — | 4 |
+| 10 | [255125](../reports/255125.md) | Null Byte Injection in all fields of Profile | [Legal Robot](../by-program/legalrobot.md) | None | — | 2 |
