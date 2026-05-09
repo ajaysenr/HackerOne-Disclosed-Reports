@@ -9245,6 +9245,7 @@ https://hackerone.com/reports/3284534 | Reflected Cross-Site Scripting (XSS)
 https://hackerone.com/reports/3287208 | DOS via Mutation Aliasing in GraphQL Account Recovery Phone Number Verification API
 https://hackerone.com/reports/3291053 | exposed FOUO documents, including Passport information
 https://hackerone.com/reports/3293803 | SQLi At `███████` via `theme_name`
+https://hackerone.com/reports/3304830 | Files drop share links for end-to-end encrypted folders allowed to drop files into other folders of the share owner
 https://hackerone.com/reports/3307874 | Critical Deadlock Vulnerability in Monero RPC Leading to Complete Node Paralysis
 https://hackerone.com/reports/3318295 | Information Disclosure via Publicly Accessible Debug Log
 https://hackerone.com/reports/3320669 | Double fdrop on a socket through sys_netcontrol
@@ -9310,6 +9311,7 @@ https://hackerone.com/reports/3509437 | Directory listing vulnerability is discl
 https://hackerone.com/reports/3509632 | Information Disclosure via Logback Configuration Injection in GoCD Agent
 https://hackerone.com/reports/3510161 | Memory Exhaustion in CometBFT v1.0.1 via malicious ProposalMessage leads to network-wide denial of service
 https://hackerone.com/reports/3511792 | HashDoS in V8
+https://hackerone.com/reports/3511998 | Private circle can be added to another circle via API despite visibility restriction
 https://hackerone.com/reports/3514122 | Password Reuse Vulnerability on AWS Sign-in Page via Password Reset Flow leads to Security Policy Violation
 https://hackerone.com/reports/3514263 | libcurl: Improper Authentication State Management on Cross-Protocol Redirects
 https://hackerone.com/reports/3516186 | Cookie Max-Age Integer Overflow Vulnerability
@@ -9318,6 +9320,7 @@ https://hackerone.com/reports/3516878 | Cross‑origin cookies leak and injectio
 https://hackerone.com/reports/3516974 | SSL options ISSUERCERT, EC_CURVES and CRLFILE silently ignored by non-OpenSSL backends
 https://hackerone.com/reports/3518571 | Argument Injection in /manage/ssh/ via host parameter leads to sensitive file disclosure on Weblate
 https://hackerone.com/reports/3518758 | IDOR on ██████ via direct photo URL leads to unauthorized access to deleted and other users' photos
+https://hackerone.com/reports/3521434 | View-only guests could see deleted Collectives pages in the trashbin
 https://hackerone.com/reports/3522254 | PATs without the required scope can leak issues
 https://hackerone.com/reports/3523349 | Integer Underflow in src/var.c
 https://hackerone.com/reports/3523703 | Password Strength Policy Bypass via Server-Side Validation Flaw
