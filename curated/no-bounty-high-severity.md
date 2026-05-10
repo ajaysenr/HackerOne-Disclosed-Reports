@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1634 total)
+# High/Critical Severity — No Bounty Paid (1635 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -184,6 +184,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [332586](../reports/332586.md) | Unauthorized access to jiratest.starbucks.com  | [Starbucks](../by-program/starbucks.md) | Critical | Resolved | 49 |
 | [2778350](../reports/2778350.md) | Cisco IOS XE instance at ████ vulnerable to CVE-██████ | [MTN Group](../by-program/mtn_group.md) | Critical — CVSS 9.1 | Resolved | 48 |
 | [221294](../reports/221294.md) | Java Deserialization RCE via JBoss on card.starbucks.in | [Starbucks](../by-program/starbucks.md) | Critical — CVSS 9.0 | Resolved | 48 |
+| [1608151](../reports/1608151.md) | Authentication bypass  for  ███  leads to  take over any users ac | [Krisp](../by-program/krisp.md) | Critical | Resolved | 48 |
 | [950881](../reports/950881.md) | IDOR when editing email leads to Account Takeover on Atavist | [Automattic](../by-program/automattic.md) | Critical | Resolved | 48 |
 | [1394910](../reports/1394910.md) | Unauthenticated Access to Admin Panel Functions at https://██████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 47 |
 | [218287](../reports/218287.md) | In App purchase Hack  | [Kaspersky](../by-program/kaspersky.md) | Critical | Resolved | 47 |
