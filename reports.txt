@@ -7879,7 +7879,9 @@ https://hackerone.com/reports/1607429 | Twitter Account hijack through broken li
 https://hackerone.com/reports/1607601 | @nextcloud/logger NPM package brings vulnerable ansi-regex version
 https://hackerone.com/reports/1607645 | Add me email address Authentication bypass
 https://hackerone.com/reports/1607756 | Unauthorized Access - downgraded admin roles to none can still edit projects through brupsuite
+https://hackerone.com/reports/1607940 | CVE-2019-11248 on http://█.█.█.█:9100/debug/pprof/goroutine
 https://hackerone.com/reports/1608039 | SSRF via potential filter bypass with too lax local domain checking
+https://hackerone.com/reports/1608151 | Authentication bypass  for  ███  leads to  take over any users account.
 https://hackerone.com/reports/1608735 | IDOR allows an attacker to delete anyone's featured photo.
 https://hackerone.com/reports/1609955 | Improper Access Control in Ali Express Importer
 https://hackerone.com/reports/1609965 | RCE via the DecompressedArchiveSizeValidator and Project BulkImports (behind feature flag)
