@@ -7883,7 +7883,7 @@ https://hackerone.com/reports/1607940 | CVE-2019-11248 on http://█.█.█.█
 https://hackerone.com/reports/1608039 | SSRF via potential filter bypass with too lax local domain checking
 https://hackerone.com/reports/1608151 | Authentication bypass  for  ███  leads to  take over any users account.
 https://hackerone.com/reports/1608735 | IDOR allows an attacker to delete anyone's featured photo.
-https://hackerone.com/reports/1609004 | Rate limit is implemented in Reddit , but its not working . 
+https://hackerone.com/reports/1609004 | Rate limit is implemented in Reddit , but its not working .
 https://hackerone.com/reports/1609955 | Improper Access Control in Ali Express Importer
 https://hackerone.com/reports/1609965 | RCE via the DecompressedArchiveSizeValidator and Project BulkImports (behind feature flag)
 https://hackerone.com/reports/1610316 | Improper user validation on mentions and hashtags
