@@ -1,4 +1,4 @@
-# AWS VDP — Disclosed Reports (37 total)
+# AWS VDP — Disclosed Reports (38 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -40,4 +40,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 34 | [3620761](../reports/3620761.md) | Health check errors silently dropped when channel buffer ful | None | — | 21 | [misop00p](https://hackerone.com/misop00p) | 2026-04-07 |
 | 35 | [3620760](../reports/3620760.md) | Encryption context keys and values logged at INFO level | None | — | 19 | [misop00p](https://hackerone.com/misop00p) | 2026-04-10 |
 | 36 | [3427370](../reports/3427370.md) | Command Injection on Amazon Q Developer CLI via malicious .a | None | — | 19 | [farmer](https://hackerone.com/farmer) | 2026-01-16 |
-| 37 | [3083011](../reports/3083011.md) | Private AWS AMIs are temporarily being exposed publicly | None | — | 4 | [seth_art_dd](https://hackerone.com/seth_art_dd) | 2025-05-29 |
+| 37 | [3577145](../reports/3577145.md) | QuickSight Authorization Bypass: Chat Agents Accessible Desp | None | — | 10 | [jcow](https://hackerone.com/jcow) | 2026-05-12 |
+| 38 | [3083011](../reports/3083011.md) | Private AWS AMIs are temporarily being exposed publicly | None | — | 4 | [seth_art_dd](https://hackerone.com/seth_art_dd) | 2025-05-29 |

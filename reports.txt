@@ -9347,6 +9347,7 @@ https://hackerone.com/reports/3574928 | Able to bypass HSTS using trailing dot
 https://hackerone.com/reports/3575245 | Integer Overflow in curl_multi_get_handles() Leading to Heap Buffer Overflow
 https://hackerone.com/reports/3575250 | RTSP RTP Interleaved Parser Assertion Failure (Zero-Length RTP Payload)
 https://hackerone.com/reports/3575475 | Curl Telnet Handler Buffer Overflow
+https://hackerone.com/reports/3577145 | QuickSight Authorization Bypass: Chat Agents Accessible Despite Custom Permissions Denial
 https://hackerone.com/reports/3578842 | SQL Injection vulnerability found on ibm.com endpoint
 https://hackerone.com/reports/3580247 | Use after free in hyperfifo example
 https://hackerone.com/reports/3580511 | ActiveStorage Disk Service Path Traversal via Custom Blob Key Injection
