@@ -37,27 +37,27 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 31 | [1095612](../reports/1095612.md) | Node Validation Admission does not observe all oldObject fie | Medium — CVSS 6.5 | — | 14 | [ariellima](https://hackerone.com/ariellima) | 2021-09-05 |
 | 32 | [1398706](../reports/1398706.md) | Google storage bucket takeover which is used to load JS file | Medium — CVSS 5.3 | — | 14 | [codermak](https://hackerone.com/codermak) | 2021-12-16 |
 | 33 | [1130416](../reports/1130416.md) | SHA512 incorrect on most/many releases | Medium — CVSS 6.5 | — | 11 | [ronald_petty](https://hackerone.com/ronald_petty) | 2021-05-09 |
-| 34 | [819717](../reports/819717.md) | IPv4 only clusters susceptible to MitM attacks via IPv6 rogu | Medium — CVSS 6.0 | — | 10 | [champtar](https://hackerone.com/champtar) | 2021-11-07 |
-| 35 | [863979](../reports/863979.md) | Compromise of node can lead to compromise of pods on other n | Medium — CVSS 6.8 | — | 10 | [wtm](https://hackerone.com/wtm) | 2020-10-30 |
+| 34 | [863979](../reports/863979.md) | Compromise of node can lead to compromise of pods on other n | Medium — CVSS 6.8 | — | 10 | [wtm](https://hackerone.com/wtm) | 2020-10-30 |
+| 35 | [819717](../reports/819717.md) | IPv4 only clusters susceptible to MitM attacks via IPv6 rogu | Medium — CVSS 6.0 | — | 10 | [champtar](https://hackerone.com/champtar) | 2021-11-07 |
 | 36 | [774896](../reports/774896.md) | Kubelet resource exhaustion attack via metric label cardinal | Medium — CVSS 5.0 | — | 9 | [mr_incompetent](https://hackerone.com/mr_incompetent) | 2020-10-31 |
-| 37 | [859962](../reports/859962.md) | Bypass apiserver proxy filter | Medium — CVSS 6.8 | — | 7 | [javierprovecho](https://hackerone.com/javierprovecho) | 2021-05-27 |
-| 38 | [778803](../reports/778803.md) | Compromise of auth via subset/superset namespace names. | Medium — CVSS 6.6 | — | 7 | [alex_orange](https://hackerone.com/alex_orange) | 2020-10-30 |
+| 37 | [778803](../reports/778803.md) | Compromise of auth via subset/superset namespace names. | Medium — CVSS 6.6 | — | 7 | [alex_orange](https://hackerone.com/alex_orange) | 2020-10-30 |
+| 38 | [859962](../reports/859962.md) | Bypass apiserver proxy filter | Medium — CVSS 6.8 | — | 7 | [javierprovecho](https://hackerone.com/javierprovecho) | 2021-05-27 |
 | 39 | [1398617](../reports/1398617.md) | Broken Github Link Used in deployment docs of "github.com/ku | Medium | — | 4 | [codermak](https://hackerone.com/codermak) | 2021-12-16 |
 | 40 | [833856](../reports/833856.md) | DoS for GCSArtifact.RealAll | Medium — CVSS 4.3 | — | 4 | [lazydog](https://hackerone.com/lazydog) | 2021-02-04 |
-| 41 | [1212853](../reports/1212853.md) | Broken link hijacing in https://kubernetes-csi.github.io/doc | Medium — CVSS 5.3 | — | 3 | [tendermint](https://hackerone.com/tendermint) | 2021-11-06 |
-| 42 | [966383](../reports/966383.md) | secret leaks in vsphere cloud controller manager log | Medium — CVSS 6.2 | — | 3 | [derek0405](https://hackerone.com/derek0405) | 2020-11-29 |
-| 43 | [1096907](../reports/1096907.md) | API Server DoS (crash?) if many large resources (~1MB each)  | Medium — CVSS 5.7 | — | 2 | [bradgeesaman](https://hackerone.com/bradgeesaman) | 2021-04-01 |
-| 44 | [764986](../reports/764986.md) | Man in the middle using LoadBalancer or ExternalIPs services | Medium — CVSS 6.6 | — | 2 | [champtar](https://hackerone.com/champtar) | 2021-11-04 |
+| 41 | [966383](../reports/966383.md) | secret leaks in vsphere cloud controller manager log | Medium — CVSS 6.2 | — | 3 | [derek0405](https://hackerone.com/derek0405) | 2020-11-29 |
+| 42 | [1212853](../reports/1212853.md) | Broken link hijacing in https://kubernetes-csi.github.io/doc | Medium — CVSS 5.3 | — | 3 | [tendermint](https://hackerone.com/tendermint) | 2021-11-06 |
+| 43 | [764986](../reports/764986.md) | Man in the middle using LoadBalancer or ExternalIPs services | Medium — CVSS 6.6 | — | 2 | [champtar](https://hackerone.com/champtar) | 2021-11-04 |
+| 44 | [1096907](../reports/1096907.md) | API Server DoS (crash?) if many large resources (~1MB each)  | Medium — CVSS 5.7 | — | 2 | [bradgeesaman](https://hackerone.com/bradgeesaman) | 2021-04-01 |
 | 45 | [952771](../reports/952771.md) | CVE-2019-11250 remains in effect. | Medium — CVSS 4.3 | — | 1 | [purelyapplied](https://hackerone.com/purelyapplied) | 2020-11-29 |
 | 46 | [995699](../reports/995699.md) | csi-snapshot-controller crashes when processing VolumeSnapsh | Medium — CVSS 5.0 | — | 1 | [jsafrane](https://hackerone.com/jsafrane) | 2021-01-07 |
 | 47 | [1434967](../reports/1434967.md) | Github Account Takeover from Docs page of `kubernetes-csi.gi | Low | — | 15 | [codermak](https://hackerone.com/codermak) | 2022-06-04 |
 | 48 | [1331361](../reports/1331361.md) | Broken Link Hijacking on kubernetes.io Documentation | Low | — | 12 | [codermak](https://hackerone.com/codermak) | 2021-11-06 |
 | 49 | [972561](../reports/972561.md) | kubeadm logs tokens before deleting them | Low — CVSS 3.4 | — | 7 | [mlevesquedion](https://hackerone.com/mlevesquedion) | 2020-11-21 |
-| 50 | [1398572](../reports/1398572.md) | Broken Link Takeover from kubernetes.io docs | Low | — | 6 | [codermak](https://hackerone.com/codermak) | 2021-12-16 |
+| 50 | [882923](../reports/882923.md) | DoS for client-go jsonpath func | Low | — | 6 | [lazydog](https://hackerone.com/lazydog) | 2020-07-24 |
 | 51 | [802011](../reports/802011.md) | Grafana Improper authorization  | Low | — | 6 | [lazydog](https://hackerone.com/lazydog) | 2020-10-31 |
-| 52 | [882923](../reports/882923.md) | DoS for client-go jsonpath func | Low | — | 6 | [lazydog](https://hackerone.com/lazydog) | 2020-07-24 |
-| 53 | [1145044](../reports/1145044.md) | Holes in EndpointSlice Validation Enable Host Network Hijack | Low — CVSS 2.7 | — | 5 | [howardjohn](https://hackerone.com/howardjohn) | 2021-09-05 |
-| 54 | [1092859](../reports/1092859.md) | KOPS documentation references domains which were not registe | Low — CVSS 3.1 | — | 5 | [sml555](https://hackerone.com/sml555) | 2021-04-02 |
+| 52 | [1398572](../reports/1398572.md) | Broken Link Takeover from kubernetes.io docs | Low | — | 6 | [codermak](https://hackerone.com/codermak) | 2021-12-16 |
+| 53 | [1092859](../reports/1092859.md) | KOPS documentation references domains which were not registe | Low — CVSS 3.1 | — | 5 | [sml555](https://hackerone.com/sml555) | 2021-04-02 |
+| 54 | [1145044](../reports/1145044.md) | Holes in EndpointSlice Validation Enable Host Network Hijack | Low — CVSS 2.7 | — | 5 | [howardjohn](https://hackerone.com/howardjohn) | 2021-09-05 |
 | 55 | [831654](../reports/831654.md) | "Self" DOS with large deployment and scaling | Low — CVSS 3.7 | — | 2 | [wiardvanrij](https://hackerone.com/wiardvanrij) | 2020-07-23 |
 | 56 | [1102064](../reports/1102064.md) | kubectl creating secrets from stringData leaves secret in pl | Low — CVSS 3.5 | — | 1 | [max_lan](https://hackerone.com/max_lan) | 2021-08-21 |
 | 57 | [1073363](../reports/1073363.md) | Index Out Of Bounds in protobuf unmarshalling | None | — | 13 | [pulpkk](https://hackerone.com/pulpkk) | 2021-08-30 |
@@ -66,5 +66,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 60 | [918243](../reports/918243.md) | Fake email from <any_name>@kubernetes.io to any other email | None | — | 3 | [lamscun](https://hackerone.com/lamscun) | 2020-07-24 |
 | 61 | [774872](../reports/774872.md) | Configuartion [Sensitive] Information Disclosure | None | — | 1 | [barsainya](https://hackerone.com/barsainya) | 2020-10-22 |
 | 62 | [864696](../reports/864696.md) | There is any issue No valid SPF Records | None | — | 1 | [blackviper21](https://hackerone.com/blackviper21) | 2020-07-24 |
-| 63 | [908880](../reports/908880.md) | Private IP addresses Disclosure | None | — | 1 | [iwiwwooqo](https://hackerone.com/iwiwwooqo) | 2020-07-23 |
-| 64 | [775123](../reports/775123.md) | Sensitive Information disclosure Through Config File | None | — | 1 | [a1c3venom](https://hackerone.com/a1c3venom) | 2020-07-24 |
+| 63 | [775123](../reports/775123.md) | Sensitive Information disclosure Through Config File | None | — | 1 | [a1c3venom](https://hackerone.com/a1c3venom) | 2020-07-24 |
+| 64 | [908880](../reports/908880.md) | Private IP addresses Disclosure | None | — | 1 | [iwiwwooqo](https://hackerone.com/iwiwwooqo) | 2020-07-23 |

@@ -10,5 +10,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 4 | [268221](../reports/268221.md) | No Confirmation Email For Email Change | Low | — | 28 | [craxermgr](https://hackerone.com/craxermgr) | 2025-10-31 |
 | 5 | [377565](../reports/377565.md) | Can view all username leaked in https://core.blockstack.org | None | — | 14 | [myskar](https://hackerone.com/myskar) | 2025-10-31 |
 | 6 | [269184](../reports/269184.md) | Weak crossdomain.xml | None | — | 1 | [firestone](https://hackerone.com/firestone) | 2018-01-18 |
-| 7 | [269196](../reports/269196.md) | Cross site request forgery | None | — | 0 | [firestone](https://hackerone.com/firestone) | 2018-01-10 |
-| 8 | [269047](../reports/269047.md) | Clickjacking https://blockstack.org/ | None | — | 0 | [blash41](https://hackerone.com/blash41) | 2017-10-05 |
+| 7 | [269047](../reports/269047.md) | Clickjacking https://blockstack.org/ | None | — | 0 | [blash41](https://hackerone.com/blash41) | 2017-10-05 |
+| 8 | [269196](../reports/269196.md) | Cross site request forgery | None | — | 0 | [firestone](https://hackerone.com/firestone) | 2018-01-10 |

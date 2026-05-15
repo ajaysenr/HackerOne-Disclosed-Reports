@@ -44,22 +44,22 @@
 | 38 | [1130416](../reports/1130416.md) | SHA512 incorrect on most/many releases | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 6.5 | — | 11 |
 | 39 | [1178562](../reports/1178562.md) | imap: StartTLS stripping attack (CVE-2016-0772). | [Ruby](../by-program/ruby.md) | Medium — CVSS 6.5 | — | 10 |
 | 40 | [197585](../reports/197585.md) | Starbucks.com is reachable via ip address thus possible to link a | [Starbucks](../by-program/starbucks.md) | Medium | — | 9 |
-| 41 | [1334763](../reports/1334763.md) | CVE-2021-22947: STARTTLS protocol injection via MITM | [curl](../by-program/curl.md) | Medium — CVSS 5.3 | — | 7 |
-| 42 | [745276](../reports/745276.md) | Dragonblood: Design and Implementation Flaws in WPA3 and EAP-pwd | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 7 |
-| 43 | [197253](../reports/197253.md) | formassembly.com is vulnerable to padding-oracle attacks. | [FormAssembly](../by-program/formassembly.md) | Medium — CVSS 5.9 | — | 5 |
-| 44 | [742588](../reports/742588.md) | Downgrade encryption scheme and break integrity through known-pla | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 5 |
+| 41 | [745276](../reports/745276.md) | Dragonblood: Design and Implementation Flaws in WPA3 and EAP-pwd | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 7 |
+| 42 | [1334763](../reports/1334763.md) | CVE-2021-22947: STARTTLS protocol injection via MITM | [curl](../by-program/curl.md) | Medium — CVSS 5.3 | — | 7 |
+| 43 | [742588](../reports/742588.md) | Downgrade encryption scheme and break integrity through known-pla | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 5 |
+| 44 | [197253](../reports/197253.md) | formassembly.com is vulnerable to padding-oracle attacks. | [FormAssembly](../by-program/formassembly.md) | Medium — CVSS 5.9 | — | 5 |
 | 45 | [1623175](../reports/1623175.md) | Node 18 reads openssl.cnf from /home/iojs/build/... upon startup. | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.6 | — | 4 |
 | 46 | [223936](../reports/223936.md) | Multiple cryptographic vulnerabilities in login page on ███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
-| 47 | [1549435](../reports/1549435.md) | CURLOPT_SSH_HOST_PUBLIC_KEY_SHA256 comparison disaster | [curl](../by-program/curl.md) | Medium | — | 2 |
-| 48 | [423118](../reports/423118.md) | Unencrypted __VIEWSTATE parameter in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
+| 47 | [423118](../reports/423118.md) | Unencrypted __VIEWSTATE parameter in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
+| 48 | [1549435](../reports/1549435.md) | CURLOPT_SSH_HOST_PUBLIC_KEY_SHA256 comparison disaster | [curl](../by-program/curl.md) | Medium | — | 2 |
 | 49 | [392701](../reports/392701.md) | Vulnerability Report - Missing Certificate Authority Authorizatio | [MariaDB](../by-program/mariadb.md) | Low | — | 16 |
 | 50 | [323735](../reports/323735.md) | Insecure Transportation Security Protocol Supported (TLS 1.0) on  | [JamieWeb](../by-program/jamieweb.md) | Low | — | 13 |
 | 51 | [852841](../reports/852841.md) | Reduced purmations on encryption | [Nextcloud](../by-program/nextcloud.md) | Low | — | 9 |
 | 52 | [224096](../reports/224096.md) | ShopifyAPI is vulnerable to timing attacks. | [Shopify](../by-program/shopify.md) | Low — CVSS 3.7 | — | 9 |
 | 53 | [213789](../reports/213789.md) | Update php-saml library to 2.10.5 | [Nextcloud](../by-program/nextcloud.md) | Low | — | 8 |
 | 54 | [514421](../reports/514421.md) | smtp service vulnerable to POODLE SSLv3 | [MariaDB](../by-program/mariadb.md) | Low | — | 7 |
-| 55 | [76303](../reports/76303.md) | weak ssl cipher suites | [Gratipay](../by-program/gratipay.md) | Low | — | 5 |
-| 56 | [223350](../reports/223350.md) | Web server is vulnerable to Beast Attack | [Weblate](../by-program/weblate.md) | Low | — | 5 |
+| 55 | [223350](../reports/223350.md) | Web server is vulnerable to Beast Attack | [Weblate](../by-program/weblate.md) | Low | — | 5 |
+| 56 | [76303](../reports/76303.md) | weak ssl cipher suites | [Gratipay](../by-program/gratipay.md) | Low | — | 5 |
 | 57 | [669440](../reports/669440.md) | Link obfuscation bug | [Brave Software](../by-program/brave.md) | Low | — | 4 |
 | 58 | [186308](../reports/186308.md) | Information disclosure vulnerability in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
 | 59 | [116360](../reports/116360.md) | The POODLE attack (SSLv3 supported) for https://grtp.co/ | [Gratipay](../by-program/gratipay.md) | Low | — | 3 |
@@ -78,58 +78,58 @@
 | 72 | [22203](../reports/22203.md) | Broken authentication and invalidated email address leads to acco | [X / xAI](../by-program/x.md) | None | — | 8 |
 | 73 | [240958](../reports/240958.md) | Firefly's verify_access_token() function does a byte-by-byte comp | [Yelp](../by-program/yelp.md) | None | — | 7 |
 | 74 | [166634](../reports/166634.md) | SSLv2 doesn't block disabled ciphers (CVE-2015-3197) | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 7 |
-| 75 | [44202](../reports/44202.md) | Poodle bleed vulnerability in cloud sub domain | [Vimeo](../by-program/vimeo.md) | None | — | 6 |
-| 76 | [223435](../reports/223435.md) | Open SMTP port can let anyone send email from mail.chihar.com | [Weblate](../by-program/weblate.md) | None | — | 6 |
-| 77 | [158541](../reports/158541.md) | Webhook allows sending payload using insecure HTTP protocol | [Moneybird](../by-program/moneybird.md) | None | — | 6 |
-| 78 | [44888](../reports/44888.md) | Improper way of validating a program | [HackerOne](../by-program/security.md) | None | — | 5 |
-| 79 | [21603](../reports/21603.md) | Bruteforce protection not enabled on the login page https://www.i | [IRCCloud](../by-program/irccloud.md) | None | — | 5 |
-| 80 | [190373](../reports/190373.md) | Gratipay uses the random module's cryptographically insecure PRNG | [Gratipay](../by-program/gratipay.md) | None | — | 5 |
-| 81 | [43070](../reports/43070.md) | Misconfigured crossdomain.xml - vimeo.com | [Vimeo](../by-program/vimeo.md) | None | — | 5 |
-| 82 | [12453](../reports/12453.md) | Strict Transport Security Misconfiguration | [ReddAPI](../by-program/reddapi.md) | None | — | 5 |
-| 83 | [50170](../reports/50170.md) | FREAK: Factoring RSA_EXPORT Keys to Impersonate TLS Servers | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 5 |
-| 84 | [57736](../reports/57736.md) | Missing spf flags for hackerone.com | [HackerOne](../by-program/security.md) | None | — | 5 |
-| 85 | [2293](../reports/2293.md) | Widespread failure of certificate validation in Android apps | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 5 |
-| 86 | [34112](../reports/34112.md) | SMPT Protection not used, I can hijack your email server. | [Block.io](../by-program/blockio.md) | None | — | 4 |
-| 87 | [31167](../reports/31167.md) | Timing Attack Side-Channel on API Token Verification | [joola.io](../by-program/joola-io.md) | None | — | 4 |
-| 88 | [199438](../reports/199438.md) | SWEET32 TLS attack | [Legal Robot](../by-program/legalrobot.md) | None | — | 4 |
-| 89 | [141239](../reports/141239.md) | Module ngx_http_auth_basic_module is broken and allowing all pass | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
+| 75 | [158541](../reports/158541.md) | Webhook allows sending payload using insecure HTTP protocol | [Moneybird](../by-program/moneybird.md) | None | — | 6 |
+| 76 | [44202](../reports/44202.md) | Poodle bleed vulnerability in cloud sub domain | [Vimeo](../by-program/vimeo.md) | None | — | 6 |
+| 77 | [223435](../reports/223435.md) | Open SMTP port can let anyone send email from mail.chihar.com | [Weblate](../by-program/weblate.md) | None | — | 6 |
+| 78 | [50170](../reports/50170.md) | FREAK: Factoring RSA_EXPORT Keys to Impersonate TLS Servers | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 5 |
+| 79 | [2293](../reports/2293.md) | Widespread failure of certificate validation in Android apps | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 5 |
+| 80 | [57736](../reports/57736.md) | Missing spf flags for hackerone.com | [HackerOne](../by-program/security.md) | None | — | 5 |
+| 81 | [12453](../reports/12453.md) | Strict Transport Security Misconfiguration | [ReddAPI](../by-program/reddapi.md) | None | — | 5 |
+| 82 | [44888](../reports/44888.md) | Improper way of validating a program | [HackerOne](../by-program/security.md) | None | — | 5 |
+| 83 | [43070](../reports/43070.md) | Misconfigured crossdomain.xml - vimeo.com | [Vimeo](../by-program/vimeo.md) | None | — | 5 |
+| 84 | [21603](../reports/21603.md) | Bruteforce protection not enabled on the login page https://www.i | [IRCCloud](../by-program/irccloud.md) | None | — | 5 |
+| 85 | [190373](../reports/190373.md) | Gratipay uses the random module's cryptographically insecure PRNG | [Gratipay](../by-program/gratipay.md) | None | — | 5 |
+| 86 | [31167](../reports/31167.md) | Timing Attack Side-Channel on API Token Verification | [joola.io](../by-program/joola-io.md) | None | — | 4 |
+| 87 | [49474](../reports/49474.md) | Cross site Port Scanning bug in twitter developers console  | [X / xAI](../by-program/x.md) | None | — | 4 |
+| 88 | [138179](../reports/138179.md) | Divide-and-conquer session key recovery in SSLv2 (CVE-2016-0703) | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
+| 89 | [32944](../reports/32944.md) | MD5 used for Key-Auth signatures | [WP API](../by-program/wp-api.md) | None | — | 4 |
 | 90 | [3709](../reports/3709.md) | Criptographic Issue: Strisct Transport Security with not good max | [HackerOne](../by-program/security.md) | None | — | 4 |
-| 91 | [31415](../reports/31415.md) | PoodleBleed | [RelateIQ](../by-program/relateiq.md) | None | — | 4 |
-| 92 | [3441](../reports/3441.md) | Captcha Bypass With Extension | [RelateIQ](../by-program/relateiq.md) | None | — | 4 |
-| 93 | [49474](../reports/49474.md) | Cross site Port Scanning bug in twitter developers console  | [X / xAI](../by-program/x.md) | None | — | 4 |
-| 94 | [138179](../reports/138179.md) | Divide-and-conquer session key recovery in SSLv2 (CVE-2016-0703) | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
+| 91 | [3441](../reports/3441.md) | Captcha Bypass With Extension | [RelateIQ](../by-program/relateiq.md) | None | — | 4 |
+| 92 | [31415](../reports/31415.md) | PoodleBleed | [RelateIQ](../by-program/relateiq.md) | None | — | 4 |
+| 93 | [199438](../reports/199438.md) | SWEET32 TLS attack | [Legal Robot](../by-program/legalrobot.md) | None | — | 4 |
+| 94 | [34112](../reports/34112.md) | SMPT Protection not used, I can hijack your email server. | [Block.io](../by-program/blockio.md) | None | — | 4 |
 | 95 | [150078](../reports/150078.md) | SSL certificate public key less than 2048 bit | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 4 |
-| 96 | [32944](../reports/32944.md) | MD5 used for Key-Auth signatures | [WP API](../by-program/wp-api.md) | None | — | 4 |
-| 97 | [91332](../reports/91332.md) | Open Url redirection on login with facebook | [Imgur](../by-program/imgur.md) | None | — | 3 |
-| 98 | [7863](../reports/7863.md) | HTML Form Without CSRF protection | [Localize](../by-program/localize.md) | None | — | 3 |
-| 99 | [12977](../reports/12977.md) | secret app for iOS and android is sending some info over HTTP | [Secret](../by-program/secret.md) | None | — | 3 |
-| 100 | [134760](../reports/134760.md) | SSL/TLS BEAST ATTACK VULNERABILITY  | [Veris](../by-program/veris.md) | None | — | 3 |
-| 101 | [55644](../reports/55644.md) | Lack of SSL Pinning on POS Application ( iOS ) | [Shopify](../by-program/shopify.md) | None | — | 3 |
-| 102 | [49537](../reports/49537.md) | SSL Issues | [Airbnb](../by-program/airbnb.md) | None | — | 3 |
-| 103 | [31166](../reports/31166.md) | Weak Random Number Generator for Auth Tokens | [joola.io](../by-program/joola-io.md) | None | — | 3 |
-| 104 | [36594](../reports/36594.md) | New Device Confirmation, token is valid until not used.  | [Coinbase](../by-program/coinbase.md) | None | — | 3 |
-| 105 | [14199](../reports/14199.md) | uclfinal.twitter.com and euro2012.twitter.com are vulnerable to C | [X / xAI](../by-program/x.md) | None | — | 3 |
-| 106 | [16568](../reports/16568.md) | Failed Certificate Validation On Custom Server (Register) | [RelateIQ](../by-program/relateiq.md) | None | — | 3 |
-| 107 | [31168](../reports/31168.md) | Cryptographic Side Channel in OAuth Library | [WP API](../by-program/wp-api.md) | None | — | 3 |
-| 108 | [136986](../reports/136986.md) | Padding oracle in AES-NI CBC MAC check (CVE-2016-2107) | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 3 |
+| 96 | [141239](../reports/141239.md) | Module ngx_http_auth_basic_module is broken and allowing all pass | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
+| 97 | [36594](../reports/36594.md) | New Device Confirmation, token is valid until not used.  | [Coinbase](../by-program/coinbase.md) | None | — | 3 |
+| 98 | [134760](../reports/134760.md) | SSL/TLS BEAST ATTACK VULNERABILITY  | [Veris](../by-program/veris.md) | None | — | 3 |
+| 99 | [149028](../reports/149028.md) | [URGENT] Password reset emails are sent in clear-text (without en | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 3 |
+| 100 | [136986](../reports/136986.md) | Padding oracle in AES-NI CBC MAC check (CVE-2016-2107) | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 3 |
+| 101 | [49537](../reports/49537.md) | SSL Issues | [Airbnb](../by-program/airbnb.md) | None | — | 3 |
+| 102 | [7863](../reports/7863.md) | HTML Form Without CSRF protection | [Localize](../by-program/localize.md) | None | — | 3 |
+| 103 | [14199](../reports/14199.md) | uclfinal.twitter.com and euro2012.twitter.com are vulnerable to C | [X / xAI](../by-program/x.md) | None | — | 3 |
+| 104 | [16568](../reports/16568.md) | Failed Certificate Validation On Custom Server (Register) | [RelateIQ](../by-program/relateiq.md) | None | — | 3 |
+| 105 | [55644](../reports/55644.md) | Lack of SSL Pinning on POS Application ( iOS ) | [Shopify](../by-program/shopify.md) | None | — | 3 |
+| 106 | [91332](../reports/91332.md) | Open Url redirection on login with facebook | [Imgur](../by-program/imgur.md) | None | — | 3 |
+| 107 | [84453](../reports/84453.md) | Lack of HSTS on https://apps.owncloud.com | [ownCloud](../by-program/owncloud.md) | None | — | 3 |
+| 108 | [31166](../reports/31166.md) | Weak Random Number Generator for Auth Tokens | [joola.io](../by-program/joola-io.md) | None | — | 3 |
 | 109 | [30852](../reports/30852.md) | Relateiq SSLv3 deprecated protocol vulnerability. | [RelateIQ](../by-program/relateiq.md) | None | — | 3 |
-| 110 | [84453](../reports/84453.md) | Lack of HSTS on https://apps.owncloud.com | [ownCloud](../by-program/owncloud.md) | None | — | 3 |
-| 111 | [149028](../reports/149028.md) | [URGENT] Password reset emails are sent in clear-text (without en | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 3 |
-| 112 | [141115](../reports/141115.md) | SSL/TLS BEAST ATTACK | [drchrono](../by-program/drchrono.md) | None | — | 2 |
+| 110 | [31168](../reports/31168.md) | Cryptographic Side Channel in OAuth Library | [WP API](../by-program/wp-api.md) | None | — | 3 |
+| 111 | [12977](../reports/12977.md) | secret app for iOS and android is sending some info over HTTP | [Secret](../by-program/secret.md) | None | — | 3 |
+| 112 | [111752](../reports/111752.md) | Big Bug in SSL : breach compression attack (CVE-2013-3587) affect | [Imgur](../by-program/imgur.md) | None | — | 2 |
 | 113 | [31171](../reports/31171.md) | Weak random number generator used in concrete/authentication/conc | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
-| 114 | [199436](../reports/199436.md) | Yelp.com is vulnerable to SWEET32 attack | [Yelp](../by-program/yelp.md) | None | — | 2 |
-| 115 | [107296](../reports/107296.md) | Possible Timing Side-Channel in XMLRPC Verification | [Automattic](../by-program/automattic.md) | None | — | 2 |
-| 116 | [111752](../reports/111752.md) | Big Bug in SSL : breach compression attack (CVE-2013-3587) affect | [Imgur](../by-program/imgur.md) | None | — | 2 |
-| 117 | [199445](../reports/199445.md) | Nextcloud.com is vulnerable to SWEET32 attack | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
-| 118 | [263846](../reports/263846.md) | Registration Allows Disposable Email Addresses | [Legal Robot](../by-program/legalrobot.md) | None | — | 2 |
-| 119 | [91350](../reports/91350.md) | "Sign me out everywhere" does not work for desktop sessions | [Imgur](../by-program/imgur.md) | None | — | 2 |
-| 120 | [93157](../reports/93157.md) | SPF Protection not used, I can hijack your email server | [Gratipay](../by-program/gratipay.md) | None | — | 2 |
-| 121 | [84105](../reports/84105.md) | demo.owncloud.org: HTTP compression is enabled potentially leadin | [ownCloud](../by-program/owncloud.md) | None | — | 2 |
-| 122 | [145552](../reports/145552.md) | Directory Listing On download.nextcloud.com & Practical Attacks o | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
-| 123 | [29206](../reports/29206.md) | Twitter Flight SSL 2.0 deprecated protocol vulnerability. | [X / xAI](../by-program/x.md) | None | — | 1 |
-| 124 | [91366](../reports/91366.md) | Content Sniffing not enabled | [Imgur](../by-program/imgur.md) | None | — | 1 |
-| 125 | [15047](../reports/15047.md) | Captcha bypass with extension at http://www.mopub.com/about/conta | [X / xAI](../by-program/x.md) | None | — | 1 |
-| 126 | [20873](../reports/20873.md) | rsync hash collisions may allow an attacker to corrupt or modify  | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 1 |
-| 127 | [119808](../reports/119808.md) | DROWN Attack | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
-| 128 | [138181](../reports/138181.md) | Bleichenbacher oracle in SSLv2 (CVE-2016-0704) | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 1 |
+| 114 | [107296](../reports/107296.md) | Possible Timing Side-Channel in XMLRPC Verification | [Automattic](../by-program/automattic.md) | None | — | 2 |
+| 115 | [199445](../reports/199445.md) | Nextcloud.com is vulnerable to SWEET32 attack | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
+| 116 | [84105](../reports/84105.md) | demo.owncloud.org: HTTP compression is enabled potentially leadin | [ownCloud](../by-program/owncloud.md) | None | — | 2 |
+| 117 | [93157](../reports/93157.md) | SPF Protection not used, I can hijack your email server | [Gratipay](../by-program/gratipay.md) | None | — | 2 |
+| 118 | [145552](../reports/145552.md) | Directory Listing On download.nextcloud.com & Practical Attacks o | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
+| 119 | [263846](../reports/263846.md) | Registration Allows Disposable Email Addresses | [Legal Robot](../by-program/legalrobot.md) | None | — | 2 |
+| 120 | [199436](../reports/199436.md) | Yelp.com is vulnerable to SWEET32 attack | [Yelp](../by-program/yelp.md) | None | — | 2 |
+| 121 | [91350](../reports/91350.md) | "Sign me out everywhere" does not work for desktop sessions | [Imgur](../by-program/imgur.md) | None | — | 2 |
+| 122 | [141115](../reports/141115.md) | SSL/TLS BEAST ATTACK | [drchrono](../by-program/drchrono.md) | None | — | 2 |
+| 123 | [15047](../reports/15047.md) | Captcha bypass with extension at http://www.mopub.com/about/conta | [X / xAI](../by-program/x.md) | None | — | 1 |
+| 124 | [138181](../reports/138181.md) | Bleichenbacher oracle in SSLv2 (CVE-2016-0704) | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 1 |
+| 125 | [119808](../reports/119808.md) | DROWN Attack | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
+| 126 | [91366](../reports/91366.md) | Content Sniffing not enabled | [Imgur](../by-program/imgur.md) | None | — | 1 |
+| 127 | [29206](../reports/29206.md) | Twitter Flight SSL 2.0 deprecated protocol vulnerability. | [X / xAI](../by-program/x.md) | None | — | 1 |
+| 128 | [20873](../reports/20873.md) | rsync hash collisions may allow an attacker to corrupt or modify  | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 1 |
 | 129 | [106315](../reports/106315.md) | Potential for Double Spend via Sign Message Utility | [Coinbase](../by-program/coinbase.md) | None | — | 0 |

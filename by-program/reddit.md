@@ -55,6 +55,6 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 49 | [1165919](../reports/1165919.md) | Content Spoofing | Low | — | 1 | [abdallah1911](https://hackerone.com/abdallah1911) | 2021-10-21 |
 | 50 | [1209098](../reports/1209098.md) |  XSS | None | — | 10 | [shylo](https://hackerone.com/shylo) | 2021-10-21 |
 | 51 | [1167029](../reports/1167029.md) | Broken Authendication And Session Management | None | — | 5 | [kedibeauty](https://hackerone.com/kedibeauty) | 2021-10-21 |
-| 52 | [1182824](../reports/1182824.md) | Vulnerability Name: URL Redirection / Unvalidate Open Redire | None | — | 2 | [hasnain_123](https://hackerone.com/hasnain_123) | 2021-10-21 |
-| 53 | [1243009](../reports/1243009.md) | No Password Length Restriction leads to Denial of Service | None | — | 2 | [c_j_27](https://hackerone.com/c_j_27) | 2021-10-21 |
+| 52 | [1243009](../reports/1243009.md) | No Password Length Restriction leads to Denial of Service | None | — | 2 | [c_j_27](https://hackerone.com/c_j_27) | 2021-10-21 |
+| 53 | [1182824](../reports/1182824.md) | Vulnerability Name: URL Redirection / Unvalidate Open Redire | None | — | 2 | [hasnain_123](https://hackerone.com/hasnain_123) | 2021-10-21 |
 | 54 | [1166770](../reports/1166770.md) | Content Spoofing/Text Injection at https://gateway-productio | None | — | 1 | [karthik86](https://hackerone.com/karthik86) | 2021-10-27 |

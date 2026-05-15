@@ -23,6 +23,6 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 17 | [158541](../reports/158541.md) | Webhook allows sending payload using insecure HTTP protocol | None | — | 6 | [mattweidner](https://hackerone.com/mattweidner) | 2017-06-28 |
 | 18 | [131028](../reports/131028.md) | Malicious File Upload | None | — | 5 | [hackheaven](https://hackerone.com/hackheaven) | 2016-06-13 |
 | 19 | [130338](../reports/130338.md) | CSV Injection with the CSV export feature | None | — | 3 | [trabajoduro](https://hackerone.com/trabajoduro) | 2016-06-13 |
-| 20 | [136600](../reports/136600.md) | Reflected XSS in Backend search | None | — | 2 | [krankopwnz](https://hackerone.com/krankopwnz) | 2016-06-11 |
-| 21 | [154397](../reports/154397.md) | [Stored Cross-Site-Scripting] When search about Incoming ( M | None | — | 2 | [bogdantc](https://hackerone.com/bogdantc) | 2016-08-05 |
+| 20 | [154397](../reports/154397.md) | [Stored Cross-Site-Scripting] When search about Incoming ( M | None | — | 2 | [bogdantc](https://hackerone.com/bogdantc) | 2016-08-05 |
+| 21 | [136600](../reports/136600.md) | Reflected XSS in Backend search | None | — | 2 | [krankopwnz](https://hackerone.com/krankopwnz) | 2016-06-11 |
 | 22 | [135782](../reports/135782.md) | information disclose   | None | — | 1 | [dotnick](https://hackerone.com/dotnick) | 2016-07-06 |

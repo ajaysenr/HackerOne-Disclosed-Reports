@@ -13,10 +13,10 @@
 | 7 | [964583](../reports/964583.md) | CVE-2017-13041 The ICMPv6 parser in tcpdump before 4.9.2 has a bu | [Internet Bug Bounty](../by-program/ibb.md) | High | $500 | 4 |
 | 8 | [964582](../reports/964582.md) | CVE-2017-13040 The MPTCP parser in tcpdump before 4.9.2 has a buf | [Internet Bug Bounty](../by-program/ibb.md) | High | $500 | 3 |
 | 9 | [831353](../reports/831353.md) | tcpdump before 4.9.3 has a heap-based buffer over-read related to | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $500 | 12 |
-| 10 | [248659](../reports/248659.md) | PHP WDDX Deserialization Heap OOB Read in timelib_meridian() | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.3 | $500 | 2 |
-| 11 | [778834](../reports/778834.md) | OOB read in php_strip_tags_ex | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.5 | $500 | 2 |
-| 12 | [477897](../reports/477897.md) | buffer overread in base64 code of the xmlrpc module | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $500 | 2 |
-| 13 | [283644](../reports/283644.md) | Out-Of-Bounds Read in timelib_meridian() | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.3 | $500 | 2 |
+| 10 | [778834](../reports/778834.md) | OOB read in php_strip_tags_ex | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.5 | $500 | 2 |
+| 11 | [248659](../reports/248659.md) | PHP WDDX Deserialization Heap OOB Read in timelib_meridian() | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.3 | $500 | 2 |
+| 12 | [283644](../reports/283644.md) | Out-Of-Bounds Read in timelib_meridian() | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.3 | $500 | 2 |
+| 13 | [477897](../reports/477897.md) | buffer overread in base64 code of the xmlrpc module | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $500 | 2 |
 | 14 | [475499](../reports/475499.md) | heap buffer overflow in phar_detect_phar_fname_ext | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.8 | — | 7 |
 | 15 | [1065517](../reports/1065517.md) | h1 hacky holidays CTF solution | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
 | 16 | [477344](../reports/477344.md) | Heap Buffer Overflow (READ: 4) in phar_parse_pharfile | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.5 | — | 72 |
@@ -25,20 +25,20 @@
 | 19 | [802846](../reports/802846.md) |  The VTP parser in tcpdump before 4.9.2 has a buffer over-read in | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 7 |
 | 20 | [268804](../reports/268804.md) | CVE-2017-12986 The IPv6 routing header parser in tcpdump before 4 | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | — | 7 |
 | 21 | [510025](../reports/510025.md) | Invalid Read on exif_process_SOFn | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.5 | — | 6 |
-| 22 | [268807](../reports/268807.md) | CVE-2017-13010 The BEEP parser in tcpdump before 4.9.2 has a buff | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | — | 4 |
+| 22 | [268806](../reports/268806.md) | CVE-2017-13009 The IPv6 mobility parser in tcpdump before 4.9.2 h | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | — | 4 |
 | 23 | [802863](../reports/802863.md) | CVE-2017-13050: The RPKI-Router parser in tcpdump before 4.9.2 ha | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 4 |
-| 24 | [268806](../reports/268806.md) | CVE-2017-13009 The IPv6 mobility parser in tcpdump before 4.9.2 h | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | — | 4 |
+| 24 | [268807](../reports/268807.md) | CVE-2017-13010 The BEEP parser in tcpdump before 4.9.2 has a buff | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | — | 4 |
 | 25 | [480778](../reports/480778.md) | Heap-buffer-overflow in Perl__byte_dump_string (utf8.c) could lea | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.5 | — | 4 |
-| 26 | [268808](../reports/268808.md) | CVE-2017-13038 The PPP parser in tcpdump before 4.9.2 has a buffe | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | — | 3 |
-| 27 | [295740](../reports/295740.md) | GarlicRust - heartbleed style vulnerability in major I2P C++ rout | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.7 | — | 3 |
+| 26 | [295740](../reports/295740.md) | GarlicRust - heartbleed style vulnerability in major I2P C++ rout | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.7 | — | 3 |
+| 27 | [268808](../reports/268808.md) | CVE-2017-13038 The PPP parser in tcpdump before 4.9.2 has a buffe | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | — | 3 |
 | 28 | [268803](../reports/268803.md) | CVE-2017-12985: The IPv6 parser in tcpdump before 4.9.2 has a buf | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | — | 2 |
 | 29 | [802896](../reports/802896.md) | CVE-2017-13019:  The PGM parser in tcpdump before 4.9.2 has a buf | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 2 |
 | 30 | [966347](../reports/966347.md) | [bl] Uninitialized memory exposure via negative .consume() | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.7 | — | 1 |
 | 31 | [241610](../reports/241610.md) | ap_find_token() Buffer Overread | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.5 | — | 22 |
 | 32 | [344035](../reports/344035.md) | Heap Buffer Overflow (READ: 1786) in exif_iif_add_value | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.3 | — | 11 |
 | 33 | [261336](../reports/261336.md) | Out of Bounds Memory Read in unserialize() | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 7 |
-| 34 | [1209681](../reports/1209681.md) | OOB read in libuv | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 5 |
-| 35 | [255587](../reports/255587.md) |  CVE-2017-1000101: cURL: URL globbing out of bounds read | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 4.3 | — | 5 |
+| 34 | [255587](../reports/255587.md) |  CVE-2017-1000101: cURL: URL globbing out of bounds read | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 4.3 | — | 5 |
+| 35 | [1209681](../reports/1209681.md) | OOB read in libuv | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 5 |
 | 36 | [2629968](../reports/2629968.md) | CVE-2024-7264: ASN.1 date parser overread | [curl](../by-program/curl.md) | Low | — | 53 |
 | 37 | [2621062](../reports/2621062.md) | curl: stack-buffer overread during punycode conversions | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 31 |
 | 38 | [2604391](../reports/2604391.md) | CVE-2024-6874: macidn punycode buffer overread | [curl](../by-program/curl.md) | Low | — | 25 |

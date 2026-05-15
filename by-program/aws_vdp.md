@@ -23,12 +23,12 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 17 | [2979238](../reports/2979238.md) | Amazon Comprehend Medical Service Reporting "AWS Internal" f | Medium — CVSS 5.0 | — | 29 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-02-25 |
 | 18 | [3021618](../reports/3021618.md) | Non-Production API Endpoint for the EventBridge Service Fail | Medium | — | 26 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
 | 19 | [2951803](../reports/2951803.md) | Non-Production API Endpoints for the bedrock Service Fail to | Medium — CVSS 4.3 | — | 25 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
-| 20 | [2972435](../reports/2972435.md) | Non-Production API Endpoints for the cloudwatch Service Fail | Medium — CVSS 5.0 | — | 23 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-04-25 |
-| 21 | [3029552](../reports/3029552.md) | Non-Production API Endpoints for the Global Accelerator Serv | Medium | — | 23 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
-| 22 | [3042588](../reports/3042588.md) | Non-Production API Endpoints for the Health Service Fail to  | Medium — CVSS 5.0 | — | 21 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
-| 23 | [2805173](../reports/2805173.md) | A potential risk in the cloudFrontExtensionsConsole which ca | Medium — CVSS 6.5 | — | 21 | [zolaer9527](https://hackerone.com/zolaer9527) | 2024-11-19 |
-| 24 | [3031512](../reports/3031512.md) | Non-Production API Endpoints for the Glue Service Fail to Lo | Medium | — | 18 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-04-25 |
-| 25 | [3072841](../reports/3072841.md) | Amazon Pinpoint SMS and Voice, version 2  Service Reporting  | Medium | — | 18 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
+| 20 | [3029552](../reports/3029552.md) | Non-Production API Endpoints for the Global Accelerator Serv | Medium | — | 23 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
+| 21 | [2972435](../reports/2972435.md) | Non-Production API Endpoints for the cloudwatch Service Fail | Medium — CVSS 5.0 | — | 23 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-04-25 |
+| 22 | [2805173](../reports/2805173.md) | A potential risk in the cloudFrontExtensionsConsole which ca | Medium — CVSS 6.5 | — | 21 | [zolaer9527](https://hackerone.com/zolaer9527) | 2024-11-19 |
+| 23 | [3042588](../reports/3042588.md) | Non-Production API Endpoints for the Health Service Fail to  | Medium — CVSS 5.0 | — | 21 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
+| 24 | [3072841](../reports/3072841.md) | Amazon Pinpoint SMS and Voice, version 2  Service Reporting  | Medium | — | 18 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
+| 25 | [3031512](../reports/3031512.md) | Non-Production API Endpoints for the Glue Service Fail to Lo | Medium | — | 18 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-04-25 |
 | 26 | [3068422](../reports/3068422.md) | Non-Production API Endpoints for the Neptune Graph Service F | Medium | — | 17 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-27 |
 | 27 | [3044471](../reports/3044471.md) | Amazon Kendra Intelligent Ranking Service Reporting "AWS Int | Medium — CVSS 5.0 | — | 16 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
 | 28 | [3092085](../reports/3092085.md) | Non-Production API Endpoints for the Route 53 Service Fail t | Medium | — | 14 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-27 |

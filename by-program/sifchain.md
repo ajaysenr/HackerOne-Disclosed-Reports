@@ -17,40 +17,40 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 11 | [1195429](../reports/1195429.md) | No Rate Limit protection in user subscription form | Low | — | 5 | [aliyugombe](https://hackerone.com/aliyugombe) | 2021-05-14 |
 | 12 | [1196253](../reports/1196253.md) | Error Page Content Spoofing or Text Injection | Low | — | 2 | [g4urav_19](https://hackerone.com/g4urav_19) | 2021-06-15 |
 | 13 | [1198203](../reports/1198203.md) | Bootstrap library is vulnerable | Low | — | 2 | [sathish87](https://hackerone.com/sathish87) | 2021-09-06 |
-| 14 | [1126401](../reports/1126401.md) | HTTPS not enforced at dex.sifchain.finance | Low | — | 1 | [zelzal](https://hackerone.com/zelzal) | 2021-06-10 |
-| 15 | [1188643](../reports/1188643.md) | Vulnerable javascript dependency at Main domain | Low | — | 1 | [dantt](https://hackerone.com/dantt) | 2021-08-02 |
+| 14 | [1188643](../reports/1188643.md) | Vulnerable javascript dependency at Main domain | Low | — | 1 | [dantt](https://hackerone.com/dantt) | 2021-08-02 |
+| 15 | [1126401](../reports/1126401.md) | HTTPS not enforced at dex.sifchain.finance | Low | — | 1 | [zelzal](https://hackerone.com/zelzal) | 2021-06-10 |
 | 16 | [1188652](../reports/1188652.md) | Design Issues at Main Domain | Low | — | 0 | [dantt](https://hackerone.com/dantt) | 2021-12-09 |
-| 17 | [1145581](../reports/1145581.md) | Private KEY of crypto wallet | None | — | 11 | [krynos](https://hackerone.com/krynos) | 2021-05-07 |
-| 18 | [1185949](../reports/1185949.md) | Clickjacking Vulnerability in sifchain.finance | None | — | 11 | [lemon_in-the_spoon](https://hackerone.com/lemon_in-the_spoon) | 2021-05-11 |
+| 17 | [1185949](../reports/1185949.md) | Clickjacking Vulnerability in sifchain.finance | None | — | 11 | [lemon_in-the_spoon](https://hackerone.com/lemon_in-the_spoon) | 2021-05-11 |
+| 18 | [1145581](../reports/1145581.md) | Private KEY of crypto wallet | None | — | 11 | [krynos](https://hackerone.com/krynos) | 2021-05-07 |
 | 19 | [1194280](../reports/1194280.md) | CORS Misconfiguration | None | — | 9 | [itsme_ani](https://hackerone.com/itsme_ani) | 2021-05-12 |
 | 20 | [1194293](../reports/1194293.md) | Wrong implementation of Telegram link on the main page for P | None | — | 8 | [ibrahimatix0x01](https://hackerone.com/ibrahimatix0x01) | 2021-06-12 |
 | 21 | [1188684](../reports/1188684.md) | CORS Misconfiguration Leads to Sensitive Exposure on  Sifcha | None | — | 8 | [emptymahbob](https://hackerone.com/emptymahbob) | 2021-06-10 |
 | 22 | [1183502](../reports/1183502.md) | Private RSA key for Vagrant exposed in GitHub repository | None | — | 7 | [sdushantha](https://hackerone.com/sdushantha) | 2021-05-07 |
 | 23 | [1176104](../reports/1176104.md) | Clickjacking misconfiguration bug | None | — | 7 | [ridoykhan0x1](https://hackerone.com/ridoykhan0x1) | 2021-06-18 |
 | 24 | [1188639](../reports/1188639.md) | Vulnerable for clickjacking attack | None | — | 6 | [akay0783](https://hackerone.com/akay0783) | 2021-05-08 |
-| 25 | [1133670](../reports/1133670.md) |  ETHEREUM_PRIVATE_KEY leaked via Open Github Repository | None | — | 4 | [fozisimi](https://hackerone.com/fozisimi) | 2021-05-07 |
-| 26 | [1186926](../reports/1186926.md) | Flaws In Social media Icon on error page which can lead to f | None | — | 4 | [beebeek](https://hackerone.com/beebeek) | 2021-06-12 |
-| 27 | [1187511](../reports/1187511.md) | Email spoofing | None | — | 4 | [tmsm](https://hackerone.com/tmsm) | 2021-05-13 |
-| 28 | [1183520](../reports/1183520.md) | RSA PRIVATE KEY discloser | None | — | 4 | [rootspectra](https://hackerone.com/rootspectra) | 2021-05-07 |
+| 25 | [1186926](../reports/1186926.md) | Flaws In Social media Icon on error page which can lead to f | None | — | 4 | [beebeek](https://hackerone.com/beebeek) | 2021-06-12 |
+| 26 | [1187511](../reports/1187511.md) | Email spoofing | None | — | 4 | [tmsm](https://hackerone.com/tmsm) | 2021-05-13 |
+| 27 | [1183520](../reports/1183520.md) | RSA PRIVATE KEY discloser | None | — | 4 | [rootspectra](https://hackerone.com/rootspectra) | 2021-05-07 |
+| 28 | [1133670](../reports/1133670.md) |  ETHEREUM_PRIVATE_KEY leaked via Open Github Repository | None | — | 4 | [fozisimi](https://hackerone.com/fozisimi) | 2021-05-07 |
 | 29 | [1132690](../reports/1132690.md) | Exposed Openapi Token | None | — | 3 | [johnjhacking](https://hackerone.com/johnjhacking) | 2021-05-07 |
-| 30 | [1189282](../reports/1189282.md) | Social media links not working | None | — | 3 | [tefa_](https://hackerone.com/tefa_) | 2021-05-12 |
-| 31 | [1194598](../reports/1194598.md) | No Valid SPF Records/don't have DMARC record | None | — | 3 | [himan253](https://hackerone.com/himan253) | 2021-05-14 |
-| 32 | [1187816](../reports/1187816.md) | Dependency Confusion Vulnerability in Sifnode Due to Unclaim | None | — | 3 | [0xcachefl0w](https://hackerone.com/0xcachefl0w) | 2021-12-09 |
-| 33 | [1188982](../reports/1188982.md) | Found key_adress and key_password in GitHub history | None | — | 3 | [mhohlfeld](https://hackerone.com/mhohlfeld) | 2021-05-08 |
-| 34 | [1327443](../reports/1327443.md) | Origin IP Disclosure Vulnerability | None | — | 3 | [uniquekamboj6738](https://hackerone.com/uniquekamboj6738) | 2021-12-09 |
-| 35 | [1192147](../reports/1192147.md) | CORS (Cross-Origin Resource Sharing) origin validation failu | None | — | 2 | [kapil18](https://hackerone.com/kapil18) | 2021-12-09 |
+| 30 | [1327443](../reports/1327443.md) | Origin IP Disclosure Vulnerability | None | — | 3 | [uniquekamboj6738](https://hackerone.com/uniquekamboj6738) | 2021-12-09 |
+| 31 | [1188982](../reports/1188982.md) | Found key_adress and key_password in GitHub history | None | — | 3 | [mhohlfeld](https://hackerone.com/mhohlfeld) | 2021-05-08 |
+| 32 | [1189282](../reports/1189282.md) | Social media links not working | None | — | 3 | [tefa_](https://hackerone.com/tefa_) | 2021-05-12 |
+| 33 | [1187816](../reports/1187816.md) | Dependency Confusion Vulnerability in Sifnode Due to Unclaim | None | — | 3 | [0xcachefl0w](https://hackerone.com/0xcachefl0w) | 2021-12-09 |
+| 34 | [1194598](../reports/1194598.md) | No Valid SPF Records/don't have DMARC record | None | — | 3 | [himan253](https://hackerone.com/himan253) | 2021-05-14 |
+| 35 | [1190705](../reports/1190705.md) | CSRF in newsletter form | None | — | 2 | [ph0b0s](https://hackerone.com/ph0b0s) | 2021-12-09 |
 | 36 | [1187001](../reports/1187001.md) | No valid SPF record found | None | — | 2 | [tamilarasi11](https://hackerone.com/tamilarasi11) | 2021-12-09 |
-| 37 | [1195432](../reports/1195432.md) | Found a url on source code which was disclosing different ju | None | — | 2 | [paranoid07](https://hackerone.com/paranoid07) | 2021-05-14 |
-| 38 | [1188938](../reports/1188938.md) | Sifchain token leak  | None | — | 2 | [ab321](https://hackerone.com/ab321) | 2021-12-09 |
-| 39 | [1190705](../reports/1190705.md) | CSRF in newsletter form | None | — | 2 | [ph0b0s](https://hackerone.com/ph0b0s) | 2021-12-09 |
+| 37 | [1188938](../reports/1188938.md) | Sifchain token leak  | None | — | 2 | [ab321](https://hackerone.com/ab321) | 2021-12-09 |
+| 38 | [1195432](../reports/1195432.md) | Found a url on source code which was disclosing different ju | None | — | 2 | [paranoid07](https://hackerone.com/paranoid07) | 2021-05-14 |
+| 39 | [1192147](../reports/1192147.md) | CORS (Cross-Origin Resource Sharing) origin validation failu | None | — | 2 | [kapil18](https://hackerone.com/kapil18) | 2021-12-09 |
 | 40 | [1196049](../reports/1196049.md) | Sifchain Privacy Policy Webpage Uses Wordpress Default Templ | None | — | 1 | [masq31](https://hackerone.com/masq31) | 2021-12-09 |
-| 41 | [1188998](../reports/1188998.md) |  Information disclosure on Sifchain | None | — | 1 | [rohitburke](https://hackerone.com/rohitburke) | 2021-05-08 |
-| 42 | [1188633](../reports/1188633.md) | Linux Desktop application "sifnoded" executable does not use | None | — | 1 | [dantt](https://hackerone.com/dantt) | 2021-12-09 |
-| 43 | [1186985](../reports/1186985.md) | Possibility of DoS attack at https://sifchain.finance// via  | None | — | 1 | [spyata](https://hackerone.com/spyata) | 2021-05-07 |
-| 44 | [1176090](../reports/1176090.md) | Email Spoofing bug | None | — | 1 | [ridoykhan0x1](https://hackerone.com/ridoykhan0x1) | 2021-12-09 |
-| 45 | [1180668](../reports/1180668.md) | Vulnerability : Email Spoofing | None | — | 1 | [tajammul](https://hackerone.com/tajammul) | 2021-12-09 |
-| 46 | [1183809](../reports/1183809.md) | mongodb credentials leaked in github | None | — | 1 | [makuzo](https://hackerone.com/makuzo) | 2021-05-07 |
+| 41 | [1183809](../reports/1183809.md) | mongodb credentials leaked in github | None | — | 1 | [makuzo](https://hackerone.com/makuzo) | 2021-05-07 |
+| 42 | [1180668](../reports/1180668.md) | Vulnerability : Email Spoofing | None | — | 1 | [tajammul](https://hackerone.com/tajammul) | 2021-12-09 |
+| 43 | [1188998](../reports/1188998.md) |  Information disclosure on Sifchain | None | — | 1 | [rohitburke](https://hackerone.com/rohitburke) | 2021-05-08 |
+| 44 | [1188633](../reports/1188633.md) | Linux Desktop application "sifnoded" executable does not use | None | — | 1 | [dantt](https://hackerone.com/dantt) | 2021-12-09 |
+| 45 | [1176090](../reports/1176090.md) | Email Spoofing bug | None | — | 1 | [ridoykhan0x1](https://hackerone.com/ridoykhan0x1) | 2021-12-09 |
+| 46 | [1186985](../reports/1186985.md) | Possibility of DoS attack at https://sifchain.finance// via  | None | — | 1 | [spyata](https://hackerone.com/spyata) | 2021-05-07 |
 | 47 | [1195423](../reports/1195423.md) | Information Disclosure at one of your subdomain | None | — | 0 | [omemishra](https://hackerone.com/omemishra) | 2021-12-09 |
 | 48 | [1188725](../reports/1188725.md) | No Valid SPF Records at sifchain.finance | None | — | 0 | [dantt](https://hackerone.com/dantt) | 2021-12-09 |
-| 49 | [1195209](../reports/1195209.md) | Clickjacking /framing on sensitive Subdomain  | None | — | 0 | [ilxax1](https://hackerone.com/ilxax1) | 2021-12-09 |
-| 50 | [1218784](../reports/1218784.md) | information disclosure | None | — | 0 | [hackerinthewood](https://hackerone.com/hackerinthewood) | 2021-12-09 |
+| 49 | [1218784](../reports/1218784.md) | information disclosure | None | — | 0 | [hackerinthewood](https://hackerone.com/hackerinthewood) | 2021-12-09 |
+| 50 | [1195209](../reports/1195209.md) | Clickjacking /framing on sensitive Subdomain  | None | — | 0 | [ilxax1](https://hackerone.com/ilxax1) | 2021-12-09 |

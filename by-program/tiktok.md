@@ -63,8 +63,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 57 | [1083421](../reports/1083421.md) | Blocked user can send notification by liking the message due | Low | — | 59 | [sandipgyawalii](https://hackerone.com/sandipgyawalii) | 2021-07-10 |
 | 58 | [1536046](../reports/1536046.md) | Stored XSS Payload when sending videos  | Low | — | 44 | [find_me_here](https://hackerone.com/find_me_here) | 2022-11-29 |
 | 59 | [1378533](../reports/1378533.md) | Open Redirect TO  Stealing aadvid | Low — CVSS 3.1 | — | 31 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2022-03-02 |
-| 60 | [1509057](../reports/1509057.md) | IDOR on TikTok Seller | Low — CVSS 3.7 | — | 30 | [find_me_here](https://hackerone.com/find_me_here) | 2022-08-16 |
-| 61 | [1133661](../reports/1133661.md) | TikTok Session Donation CSRF via QR code login | Low — CVSS 3.1 | — | 30 | [lauritz](https://hackerone.com/lauritz) | 2021-06-17 |
+| 60 | [1133661](../reports/1133661.md) | TikTok Session Donation CSRF via QR code login | Low — CVSS 3.1 | — | 30 | [lauritz](https://hackerone.com/lauritz) | 2021-06-17 |
+| 61 | [1509057](../reports/1509057.md) | IDOR on TikTok Seller | Low — CVSS 3.7 | — | 30 | [find_me_here](https://hackerone.com/find_me_here) | 2022-08-16 |
 | 62 | [1006599](../reports/1006599.md) | Blind SSRF in ads.tiktok.com | Low — CVSS 3.7 | — | 23 | [chihuahua](https://hackerone.com/chihuahua) | 2020-12-17 |
 | 63 | [948146](../reports/948146.md) | Rate limiting on report video | Low | — | 22 | [alertjd](https://hackerone.com/alertjd) | 2021-02-02 |
 | 64 | [1610316](../reports/1610316.md) | Improper user validation on mentions and hashtags | Low — CVSS 3.5 | — | 15 | [rektile404](https://hackerone.com/rektile404) | 2023-06-22 |

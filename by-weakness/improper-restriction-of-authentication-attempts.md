@@ -17,8 +17,8 @@
 | 11 | [271533](../reports/271533.md) | Bruteforcing password reset tokens, could lead to account takeove | [Instacart](../by-program/instacart.md) | Medium | $50 | 13 |
 | 12 | [766875](../reports/766875.md) | weak protection against brute-forcing on login api leads to accou | [Palo Alto Software](../by-program/palo_alto_software.md) | Critical | — | 23 |
 | 13 | [3030158](../reports/3030158.md) | Improper Restriction of Authentication Attempts in cURL | [curl](../by-program/curl.md) | Critical | — | 7 |
-| 14 | [1069189](../reports/1069189.md) | Grinch-Networks taken down - hacky holidays CTF  | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
-| 15 | [894198](../reports/894198.md) | [H1-2006 2020]  Includes 1 free content discovery | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
+| 14 | [894198](../reports/894198.md) | [H1-2006 2020]  Includes 1 free content discovery | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
+| 15 | [1069189](../reports/1069189.md) | Grinch-Networks taken down - hacky holidays CTF  | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
 | 16 | [972936](../reports/972936.md) | A specially crafted value for the 'Cache-Digest' header causing c | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | Critical | — | 1 |
 | 17 | [1075827](../reports/1075827.md) | Lack of rate limitation on careers site allows the attacker to br | [TikTok](../by-program/tiktok.md) | High — CVSS 8.2 | — | 103 |
 | 18 | [411364](../reports/411364.md) | Brute Force of fabric-ca server admin account | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | High | — | 61 |
@@ -30,8 +30,8 @@
 | 24 | [341074](../reports/341074.md) | Bruteforce in admin panel | [Nextcloud](../by-program/nextcloud.md) | High | — | 3 |
 | 25 | [827484](../reports/827484.md) | Missing rate limit for current password field (Password Change) A | [Acronis](../by-program/acronis.md) | Medium | — | 43 |
 | 26 | [708013](../reports/708013.md) | StoreFront API allows for a brute force attack on customer login  | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.8 | — | 37 |
-| 27 | [441161](../reports/441161.md) | Missing Rate Limit in Forgot Password can Lead to email address l | [Smule](../by-program/smule.md) | Medium | — | 31 |
-| 28 | [2230915](../reports/2230915.md) | Bruteforce protection in password verification can be bypassed | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 31 |
+| 27 | [2230915](../reports/2230915.md) | Bruteforce protection in password verification can be bypassed | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 31 |
+| 28 | [441161](../reports/441161.md) | Missing Rate Limit in Forgot Password can Lead to email address l | [Smule](../by-program/smule.md) | Medium | — | 31 |
 | 29 | [3174778](../reports/3174778.md) |  No Rate Limiting on Password Attempts After Insecure Registratio | [Mars](../by-program/mars.md) | Medium | — | 26 |
 | 30 | [1842114](../reports/1842114.md) | Missing brute force protection on password confirmation modal | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.2 | — | 24 |
 | 31 | [1924212](../reports/1924212.md) | Improper restriction of excessive authentication attempts on WebD | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.0 | — | 22 |
@@ -52,13 +52,13 @@
 | 46 | [948146](../reports/948146.md) | Rate limiting on report video | [TikTok](../by-program/tiktok.md) | Low | — | 22 |
 | 47 | [1165225](../reports/1165225.md) | [dubsmash] Username and password bruteforce | [Reddit](../by-program/reddit.md) | Low — CVSS 3.9 | — | 18 |
 | 48 | [1894653](../reports/1894653.md) | Missing brute force protection for passwords of password protecte | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.1 | — | 17 |
-| 49 | [2039447](../reports/2039447.md) | Entering passwords on the Share Login Page can lead to a brute-fo | [Automattic](../by-program/automattic.md) | Low | — | 15 |
-| 50 | [412526](../reports/412526.md) | No rate limit in stats api token endpoint | [Chaturbate](../by-program/chaturbate.md) | Low | — | 15 |
+| 49 | [412526](../reports/412526.md) | No rate limit in stats api token endpoint | [Chaturbate](../by-program/chaturbate.md) | Low | — | 15 |
+| 50 | [2039447](../reports/2039447.md) | Entering passwords on the Share Login Page can lead to a brute-fo | [Automattic](../by-program/automattic.md) | Low | — | 15 |
 | 51 | [413505](../reports/413505.md) | No rate limit in affiliate statsapi endpoint | [Chaturbate](../by-program/chaturbate.md) | Low | — | 14 |
 | 52 | [229825](../reports/229825.md) | Rate Limit Issue on hosted.weblate.org | [Weblate](../by-program/weblate.md) | Low | — | 10 |
 | 53 | [1165285](../reports/1165285.md) | No Rate limit on change password leads to account takeover | [Reddit](../by-program/reddit.md) | Low | — | 8 |
-| 54 | [897556](../reports/897556.md) | SSH port on store.greenhouse.io is vulnerable to brute force atta | [Greenhouse.io](../by-program/greenhouse.md) | Low | — | 7 |
-| 55 | [517711](../reports/517711.md) | Bypassing the SMS sending limit for download app link. | [Eternal](../by-program/eternal.md) | Low | — | 7 |
+| 54 | [517711](../reports/517711.md) | Bypassing the SMS sending limit for download app link. | [Eternal](../by-program/eternal.md) | Low | — | 7 |
+| 55 | [897556](../reports/897556.md) | SSH port on store.greenhouse.io is vulnerable to brute force atta | [Greenhouse.io](../by-program/greenhouse.md) | Low | — | 7 |
 | 56 | [269318](../reports/269318.md) | Bypass of Rate limiting in secure_session endpoint's password inp | [Moneybird](../by-program/moneybird.md) | None | — | 18 |
 | 57 | [265706](../reports/265706.md) | [rt.torproject.org] No Rate Limitting on Login Form | [Tor](../by-program/torproject.md) | None | — | 9 |
 | 58 | [1238749](../reports/1238749.md) | No rate Limit on Add new Translation Project  | [Weblate](../by-program/weblate.md) | None | — | 8 |

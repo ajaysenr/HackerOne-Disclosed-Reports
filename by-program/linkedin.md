@@ -11,8 +11,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 5 | [1608735](../reports/1608735.md) | IDOR allows an attacker to delete anyone's featured photo. | Medium — CVSS 6.5 | — | 94 | [adilnbabras](https://hackerone.com/adilnbabras) | 2023-08-24 |
 | 6 | [1801427](../reports/1801427.md) | Information disclosure by sending a GIF | Medium — CVSS 4.3 | — | 83 | [qualw1n](https://hackerone.com/qualw1n) | 2023-04-28 |
 | 7 | [1806939](../reports/1806939.md) | Entire database of emails exposed through URN injection | Medium — CVSS 5.3 | — | 79 | [ultrapowa](https://hackerone.com/ultrapowa) | 2023-05-22 |
-| 8 | [1734639](../reports/1734639.md) | IDOR to make someone attend or leave an event | Medium — CVSS 6.5 | — | 78 | [safehacker_2715](https://hackerone.com/safehacker_2715) | 2026-03-06 |
-| 9 | [2649615](../reports/2649615.md) | Forced OAuth authorization using button ID in hash and holdi | Medium — CVSS 4.2 | — | 78 | [j0r1an](https://hackerone.com/j0r1an) | 2024-12-17 |
+| 8 | [2649615](../reports/2649615.md) | Forced OAuth authorization using button ID in hash and holdi | Medium — CVSS 4.2 | — | 78 | [j0r1an](https://hackerone.com/j0r1an) | 2024-12-17 |
+| 9 | [1734639](../reports/1734639.md) | IDOR to make someone attend or leave an event | Medium — CVSS 6.5 | — | 78 | [safehacker_2715](https://hackerone.com/safehacker_2715) | 2026-03-06 |
 | 10 | [2299571](../reports/2299571.md) | Employee-only Area Bypass | Medium — CVSS 5.3 | — | 74 | [m0ntriz](https://hackerone.com/m0ntriz) | 2024-02-19 |
 | 11 | [3604288](../reports/3604288.md) | Access to Deactivated LinkedIn Company Pages via Competitor  | Medium — CVSS 5.3 | — | 66 | [riadalrashed](https://hackerone.com/riadalrashed) | 2026-03-24 |
 | 12 | [1581528](../reports/1581528.md) | Can access the job name, creator name and can report any dra | Medium — CVSS 5.3 | — | 63 | [sachin_kr](https://hackerone.com/sachin_kr) | 2022-07-20 |

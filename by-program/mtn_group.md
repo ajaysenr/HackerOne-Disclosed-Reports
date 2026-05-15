@@ -38,15 +38,15 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 32 | [1220688](../reports/1220688.md) | Blind SSRF External Interaction on ████████ | High | — | 58 | [error201](https://hackerone.com/error201) | 2022-08-21 |
 | 33 | [2309291](../reports/2309291.md) | CVE-2023-41763 Business Elevation of Privilege vulnerability | High | — | 45 | [h0w](https://hackerone.com/h0w) | 2025-02-22 |
 | 34 | [2375659](../reports/2375659.md) | CVE-2010-1429 JBoss Insecure Storage of Sensitive Informatio | High | — | 42 | [deb0con](https://hackerone.com/deb0con) | 2024-08-30 |
-| 35 | [1264832](../reports/1264832.md) | Reflected Cross-Site scripting in : mtn.bj | High | — | 33 | [alimanshester](https://hackerone.com/alimanshester) | 2021-09-26 |
-| 36 | [1239633](../reports/1239633.md) | information discloure via logs files at ==> https://ihelp.mt | High | — | 33 | [zero_or_1](https://hackerone.com/zero_or_1) | 2021-08-20 |
+| 35 | [1239633](../reports/1239633.md) | information discloure via logs files at ==> https://ihelp.mt | High | — | 33 | [zero_or_1](https://hackerone.com/zero_or_1) | 2021-08-20 |
+| 36 | [1264832](../reports/1264832.md) | Reflected Cross-Site scripting in : mtn.bj | High | — | 33 | [alimanshester](https://hackerone.com/alimanshester) | 2021-09-26 |
 | 37 | [1070532](../reports/1070532.md) | RCE Apache Struts2 remote command execution (S2-045) on [wif | High | — | 29 | [pisarenko](https://hackerone.com/pisarenko) | 2021-09-09 |
 | 38 | [865875](../reports/865875.md) | XMLRPC, Enabling XPSA and Bruteforce and DOS + A file disclo | High | — | 23 | [tandav](https://hackerone.com/tandav) | 2021-06-14 |
 | 39 | [1049402](../reports/1049402.md) | PHP Info Exposing Secrets at https://radio.mtn.bj/info | High | — | 18 | [pudsec](https://hackerone.com/pudsec) | 2022-03-08 |
 | 40 | [946578](../reports/946578.md) | [mtn.com.af] Multiple vulnerabilities allow to Application l | High | — | 18 | [lmhu](https://hackerone.com/lmhu) | 2021-09-28 |
 | 41 | [1397788](../reports/1397788.md) | Sensitive Information Disclosure Through Config File | High — CVSS 7.5 | — | 13 | [dh0pe](https://hackerone.com/dh0pe) | 2022-09-01 |
-| 42 | [761000](../reports/761000.md) | Account Take over of millions of  MTN users account due to l | High | — | 12 | [its_afolic](https://hackerone.com/its_afolic) | 2020-04-13 |
-| 43 | [853284](../reports/853284.md) | Disclosure of internal information using hidden NTLM authent | High — CVSS 7.5 | — | 12 | [z3lox](https://hackerone.com/z3lox) | 2021-08-04 |
+| 42 | [853284](../reports/853284.md) | Disclosure of internal information using hidden NTLM authent | High — CVSS 7.5 | — | 12 | [z3lox](https://hackerone.com/z3lox) | 2021-08-04 |
+| 43 | [761000](../reports/761000.md) | Account Take over of millions of  MTN users account due to l | High | — | 12 | [its_afolic](https://hackerone.com/its_afolic) | 2020-04-13 |
 | 44 | [1646248](../reports/1646248.md) | Reflected xss on videostore.mtnonline.com | High — CVSS 8.8 | — | 10 | [possowski](https://hackerone.com/possowski) | 2022-09-25 |
 | 45 | [838817](../reports/838817.md) | Insecure crossdomain.xml on https://vdc.mtnonline.com/ | High | — | 7 | [xlife](https://hackerone.com/xlife) | 2022-03-20 |
 | 46 | [2319586](../reports/2319586.md) | Broken Access Control(Horizontal Privilege Escalation). | Medium — CVSS 6.5 | — | 67 | [aliyueka](https://hackerone.com/aliyueka) | 2025-01-31 |
@@ -60,14 +60,14 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 54 | [1182016](../reports/1182016.md) | Email verification bypassed during sing up (████████) | Medium | — | 20 | [ibrahimatix0x01](https://hackerone.com/ibrahimatix0x01) | 2021-08-19 |
 | 55 | [1212235](../reports/1212235.md) | Reflected XSS on dailydeals.mtn.co.za | Medium | — | 19 | [musab_alharany](https://hackerone.com/musab_alharany) | 2021-12-24 |
 | 56 | [772744](../reports/772744.md) | Unsafe cors sharing of admin users  | Medium | — | 17 | [pwrspl0it](https://hackerone.com/pwrspl0it) | 2020-04-30 |
-| 57 | [924851](../reports/924851.md) | xss on [developers.mtn.com] | Medium | — | 16 | [pisarenko](https://hackerone.com/pisarenko) | 2022-04-19 |
-| 58 | [1256496](../reports/1256496.md) | HTML injection in email content during registration via Firs | Medium | — | 16 | [ibrahimatix0x01](https://hackerone.com/ibrahimatix0x01) | 2021-12-18 |
-| 59 | [789388](../reports/789388.md) | Accessible Restricted directory on [bcm-bcaw.mtn.cm] | Medium — CVSS 5.3 | — | 15 | [tounsi_007](https://hackerone.com/tounsi_007) | 2020-07-15 |
-| 60 | [1069528](../reports/1069528.md) | Reflected XSS on gamesclub.mtn.com.g | Medium | — | 15 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2021-05-24 |
+| 57 | [1256496](../reports/1256496.md) | HTML injection in email content during registration via Firs | Medium | — | 16 | [ibrahimatix0x01](https://hackerone.com/ibrahimatix0x01) | 2021-12-18 |
+| 58 | [924851](../reports/924851.md) | xss on [developers.mtn.com] | Medium | — | 16 | [pisarenko](https://hackerone.com/pisarenko) | 2022-04-19 |
+| 59 | [1069528](../reports/1069528.md) | Reflected XSS on gamesclub.mtn.com.g | Medium | — | 15 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2021-05-24 |
+| 60 | [789388](../reports/789388.md) | Accessible Restricted directory on [bcm-bcaw.mtn.cm] | Medium — CVSS 5.3 | — | 15 | [tounsi_007](https://hackerone.com/tounsi_007) | 2020-07-15 |
 | 61 | [761617](../reports/761617.md) | Information Disclosure FrontPage Configuration Information / | Medium | — | 13 | [miguel_santareno](https://hackerone.com/miguel_santareno) | 2020-04-03 |
 | 62 | [1159362](../reports/1159362.md) | Cross-site Scripting (XSS) - Reflected on http://h1b4e.n2.ip | Medium | — | 12 | [renzi](https://hackerone.com/renzi) | 2024-08-24 |
-| 63 | [1735622](../reports/1735622.md) | Reflected XSS in chatbot | Medium — CVSS 5.5 | — | 9 | [roland_hack](https://hackerone.com/roland_hack) | 2022-11-19 |
-| 64 | [1244722](../reports/1244722.md) | XSS at http://nextapps.mtnonline.com/search/suggest/q/{xss p | Medium | — | 9 | [homosec](https://hackerone.com/homosec) | 2022-05-01 |
+| 63 | [1244722](../reports/1244722.md) | XSS at http://nextapps.mtnonline.com/search/suggest/q/{xss p | Medium | — | 9 | [homosec](https://hackerone.com/homosec) | 2022-05-01 |
+| 64 | [1735622](../reports/1735622.md) | Reflected XSS in chatbot | Medium — CVSS 5.5 | — | 9 | [roland_hack](https://hackerone.com/roland_hack) | 2022-11-19 |
 | 65 | [801437](../reports/801437.md) | Exposed .bash_history at http://21days2017.mtncameroon.net/. | Medium | — | 8 | [xlife](https://hackerone.com/xlife) | 2022-03-20 |
 | 66 | [762118](../reports/762118.md) | Upload directory of Mtn.ci | Medium — CVSS 5.3 | — | 7 | [juni19](https://hackerone.com/juni19) | 2020-02-05 |
 | 67 | [925007](../reports/925007.md) | blind sql on [selfcare.mtn.com.af] | Medium | — | 5 | [pisarenko](https://hackerone.com/pisarenko) | 2021-09-09 |

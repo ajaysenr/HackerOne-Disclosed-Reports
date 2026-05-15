@@ -8,8 +8,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 2 | [2357778](../reports/2357778.md) | Unrestricted File Upload at ██████████ | Critical — CVSS 9.3 | — | 74 | [xplo1t](https://hackerone.com/xplo1t) | 2024-02-19 |
 | 3 | [2200329](../reports/2200329.md) | CVE-█████-35813 in █████ | Critical — CVSS 9.8 | — | 68 | [0xr2r](https://hackerone.com/0xr2r) | 2026-02-24 |
 | 4 | [3090123](../reports/3090123.md) | insecure deserilize object leads to RCE On Sitecore (CVE-███ | Critical | — | 57 | [the_reinhardt](https://hackerone.com/the_reinhardt) | 2025-05-12 |
-| 5 | [3293803](../reports/3293803.md) | SQLi At `███████` via `theme_name`  | Critical — CVSS 9.6 | — | 52 | [4ksh3ye](https://hackerone.com/4ksh3ye) | 2026-02-24 |
-| 6 | [2828641](../reports/2828641.md) | unauthorized access and add user and change personal informa | Critical — CVSS 9.6 | — | 52 | [bughunter0x7](https://hackerone.com/bughunter0x7) | 2025-05-27 |
+| 5 | [2828641](../reports/2828641.md) | unauthorized access and add user and change personal informa | Critical — CVSS 9.6 | — | 52 | [bughunter0x7](https://hackerone.com/bughunter0x7) | 2025-05-27 |
+| 6 | [3293803](../reports/3293803.md) | SQLi At `███████` via `theme_name`  | Critical — CVSS 9.6 | — | 52 | [4ksh3ye](https://hackerone.com/4ksh3ye) | 2026-02-24 |
 | 7 | [2828693](../reports/2828693.md) | change part of personal information all users | Critical — CVSS 9.4 | — | 51 | [bughunter0x7](https://hackerone.com/bughunter0x7) | 2025-05-12 |
 | 8 | [2262554](../reports/2262554.md) | Critical Unauthenticated Access to Sensitive Employee and Cu | Critical | — | 51 | [skoll101](https://hackerone.com/skoll101) | 2024-01-30 |
 | 9 | [2307933](../reports/2307933.md) | Datadog api keys exposed can be used to do all the read and  | Critical — CVSS 9.6 | — | 45 | [harshdranjan](https://hackerone.com/harshdranjan) | 2024-01-25 |

@@ -27,8 +27,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 21 | [158019](../reports/158019.md) | Host Header Injection/Redirection in: https://www.instacart. | None | — | 17 | [0xm1racle](https://hackerone.com/0xm1racle) | 2016-09-11 |
 | 22 | [157958](../reports/157958.md) | Stored XSS | None | — | 17 | [s44mux](https://hackerone.com/s44mux) | 2016-09-09 |
 | 23 | [105419](../reports/105419.md) | Cookie-Based Injection | None | — | 16 | [hussain_0x3c](https://hackerone.com/hussain_0x3c) | 2016-09-26 |
-| 24 | [159820](../reports/159820.md) | Issues with uploading list images | None | — | 11 | [cablej](https://hackerone.com/cablej) | 2016-09-26 |
-| 25 | [160109](../reports/160109.md) | Brute force login and bypass locked account restrictions via | None | — | 11 | [cablej](https://hackerone.com/cablej) | 2016-09-19 |
+| 24 | [160109](../reports/160109.md) | Brute force login and bypass locked account restrictions via | None | — | 11 | [cablej](https://hackerone.com/cablej) | 2016-09-19 |
+| 25 | [159820](../reports/159820.md) | Issues with uploading list images | None | — | 11 | [cablej](https://hackerone.com/cablej) | 2016-09-26 |
 | 26 | [158157](../reports/158157.md) | shopper login_code's can be brute forced | None | — | 9 | [b6117130df17feef13481e3](https://hackerone.com/b6117130df17feef13481e3) | 2016-09-17 |
 | 27 | [157956](../reports/157956.md) | CSRF To change Email Notification Settings  | None | — | 8 | [trad_zero_h](https://hackerone.com/trad_zero_h) | 2016-09-15 |
 | 28 | [161301](../reports/161301.md) | READ .svg files by changing .svg into .png extension | None | — | 7 | [codertom](https://hackerone.com/codertom) | 2017-03-29 |

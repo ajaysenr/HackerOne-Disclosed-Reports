@@ -102,8 +102,8 @@
 | 96 | [416978](../reports/416978.md) | H1514 CSRF in Domain transfer allows adding your domain to other  | [Shopify](../by-program/shopify.md) | High — CVSS 7.3 | — | 22 |
 | 97 | [187520](../reports/187520.md) | Wordpress 4.7 - CSRF -> HTTP SSRF any private ip:port and basic-a | [WordPress](../by-program/wordpress.md) | High | — | 21 |
 | 98 | [272588](../reports/272588.md) | CSRF in Raffles Ticket Purchasing | [Unikrn](../by-program/unikrn.md) | High | — | 19 |
-| 99 | [293016](../reports/293016.md) | CSRF log victim into the attacker account | [Unikrn](../by-program/unikrn.md) | High | — | 17 |
-| 100 | [1309435](../reports/1309435.md) | Widespread CSRF on authenticated POST endpoints | [UPchieve](../by-program/upchieve.md) | High | — | 17 |
+| 99 | [1309435](../reports/1309435.md) | Widespread CSRF on authenticated POST endpoints | [UPchieve](../by-program/upchieve.md) | High | — | 17 |
+| 100 | [293016](../reports/293016.md) | CSRF log victim into the attacker account | [Unikrn](../by-program/unikrn.md) | High | — | 17 |
 | 101 | [225653](../reports/225653.md) | Account Takeover using Third party Auth CSRF | [Weblate](../by-program/weblate.md) | High — CVSS 7.4 | — | 9 |
 | 102 | [226612](../reports/226612.md) | CSRF | [Mixmax](../by-program/mixmax.md) | High | — | 9 |
 | 103 | [513134](../reports/513134.md) | Issue:Form does not contain an anti-CSRF token | [Phabricator](../by-program/phabricator.md) | High | — | 8 |
@@ -120,22 +120,22 @@
 | 114 | [1049360](../reports/1049360.md) | CSRF in changing users donation_settings [https://streamlabs.com/ | [Logitech](../by-program/logitech.md) | Medium — CVSS 4.3 | — | 48 |
 | 115 | [152013](../reports/152013.md) | CSRF in 'set.php' via age causes stored XSS on 'get.php' - http:/ | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 39 |
 | 116 | [2919623](../reports/2919623.md) | There is a POST based CSRF issue over IBM endpoint leading to mod | [IBM](../by-program/ibm.md) | Medium — CVSS 5.0 | — | 37 |
-| 117 | [1477050](../reports/1477050.md) | CSRF in AppSearch allows creation of "curations" | [Elastic](../by-program/elastic.md) | Medium — CVSS 4.3 | — | 35 |
-| 118 | [493552](../reports/493552.md) | CSRF on https://www.niche.co leads to "account disconnection" | [X / xAI](../by-program/x.md) | Medium | — | 35 |
-| 119 | [251918](../reports/251918.md) | Flash CSRF: Update Ad Frequency %: [cp-ng.pinion.gg] | [Unikrn](../by-program/unikrn.md) | Medium | — | 33 |
-| 120 | [2652190](../reports/2652190.md) | CSRF Attack leads to delete album at | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 5.4 | — | 33 |
-| 121 | [245346](../reports/245346.md) | JSON CSRF on POST Heartbeats API | [WakaTime](../by-program/wakatime.md) | Medium | — | 32 |
-| 122 | [1208453](../reports/1208453.md) | Account takeover through multistage CSRF at https://autochoice.fa | [U.S. General Services Administration](../by-program/gsa_vdp.md) | Medium | — | 32 |
+| 117 | [493552](../reports/493552.md) | CSRF on https://www.niche.co leads to "account disconnection" | [X / xAI](../by-program/x.md) | Medium | — | 35 |
+| 118 | [1477050](../reports/1477050.md) | CSRF in AppSearch allows creation of "curations" | [Elastic](../by-program/elastic.md) | Medium — CVSS 4.3 | — | 35 |
+| 119 | [2652190](../reports/2652190.md) | CSRF Attack leads to delete album at | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 5.4 | — | 33 |
+| 120 | [251918](../reports/251918.md) | Flash CSRF: Update Ad Frequency %: [cp-ng.pinion.gg] | [Unikrn](../by-program/unikrn.md) | Medium | — | 33 |
+| 121 | [1208453](../reports/1208453.md) | Account takeover through multistage CSRF at https://autochoice.fa | [U.S. General Services Administration](../by-program/gsa_vdp.md) | Medium | — | 32 |
+| 122 | [245346](../reports/245346.md) | JSON CSRF on POST Heartbeats API | [WakaTime](../by-program/wakatime.md) | Medium | — | 32 |
 | 123 | [2445106](../reports/2445106.md) | CSRF in Delete Pet Function | [Mars](../by-program/mars.md) | Medium — CVSS 4.4 | — | 31 |
 | 124 | [2736979](../reports/2736979.md) | CSRF to XSS | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 31 |
 | 125 | [728199](../reports/728199.md) | [CSRF] No Csrf protection against sending invitation to join the  | [Lark Technologies](../by-program/lark_technologies.md) | Medium | — | 30 |
 | 126 | [790465](../reports/790465.md) | Image Injection/XSS vulnerability affecting https://www.rockstarg | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 28 |
 | 127 | [1118501](../reports/1118501.md) | CSRF to Cross-site Scripting (XSS) | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 27 |
 | 128 | [835142](../reports/835142.md) | [www.drive2.ru] CSRF through FCTX token bypass | [DRIVE.NET, Inc.](../by-program/drive_net_inc.md) | Medium | — | 26 |
-| 129 | [1183241](../reports/1183241.md) | Cross-Site Request Forgery (CSRF) to xss | [MTN Group](../by-program/mtn_group.md) | Medium | — | 25 |
-| 130 | [1741430](../reports/1741430.md) | CSRF vulnerability in Nextcloud Desktop Client 3.6.1 on Windows w | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 25 |
-| 131 | [840285](../reports/840285.md) | CSRF Account Deletion on ███ Website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 24 |
-| 132 | [2294709](../reports/2294709.md) | CVE-2023-49920: Apache Airflow: Missing CSRF protection on DAG/tr | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.3 | — | 24 |
+| 129 | [1741430](../reports/1741430.md) | CSRF vulnerability in Nextcloud Desktop Client 3.6.1 on Windows w | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 25 |
+| 130 | [1183241](../reports/1183241.md) | Cross-Site Request Forgery (CSRF) to xss | [MTN Group](../by-program/mtn_group.md) | Medium | — | 25 |
+| 131 | [2294709](../reports/2294709.md) | CVE-2023-49920: Apache Airflow: Missing CSRF protection on DAG/tr | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.3 | — | 24 |
+| 132 | [840285](../reports/840285.md) | CSRF Account Deletion on ███ Website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 24 |
 | 133 | [493535](../reports/493535.md) | CSRF and probable account takeover on https://www.niche.co | [X / xAI](../by-program/x.md) | Medium | — | 23 |
 | 134 | [2697588](../reports/2697588.md) | CSRF Attack leads to delete album at ████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 22 |
 | 135 | [881855](../reports/881855.md) | Arbitrary change of blog's background image via CSRF | [WordPress](../by-program/wordpress.md) | Medium — CVSS 6.4 | — | 20 |
@@ -144,33 +144,33 @@
 | 138 | [1090838](../reports/1090838.md) | CSRF in  https://███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 15 |
 | 139 | [1014593](../reports/1014593.md) | CSRF to Stored HTML injection at https://www.█████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 14 |
 | 140 | [339352](../reports/339352.md) | CSRF logs the victim into attacker's account | [Unikrn](../by-program/unikrn.md) | Medium | — | 14 |
-| 141 | [799855](../reports/799855.md) | CSRF - Delete Account (Urgent) | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 13 |
-| 142 | [177472](../reports/177472.md) | CSRF: add item to victim's cart automatically (starbucks.com - up | [Starbucks](../by-program/starbucks.md) | Medium | — | 13 |
+| 141 | [177472](../reports/177472.md) | CSRF: add item to victim's cart automatically (starbucks.com - up | [Starbucks](../by-program/starbucks.md) | Medium | — | 13 |
+| 142 | [799855](../reports/799855.md) | CSRF - Delete Account (Urgent) | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 13 |
 | 143 | [987132](../reports/987132.md) | Отправка произвольных запросов к API с правами любого установленн | [VK.com](../by-program/vkcom.md) | Medium | — | 12 |
 | 144 | [753386](../reports/753386.md) | No CSRF Protection in Resend Confirmation Email feature leads to  | [Stripo Inc](../by-program/stripo.md) | Medium — CVSS 6.3 | — | 12 |
 | 145 | [243094](../reports/243094.md) | Paragonie Airship Admin CSRF on Extensions Pages | [Paragon Initiative Enterprises](../by-program/paragonie.md) | Medium | — | 11 |
 | 146 | [856981](../reports/856981.md) | CSRF - Modify Company Info | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 10 |
 | 147 | [233099](../reports/233099.md) | CSRF in Report Lost or Stolen Page https://www.starbucks.com/acco | [Starbucks](../by-program/starbucks.md) | Medium — CVSS 4.5 | — | 9 |
-| 148 | [223339](../reports/223339.md) | Activation tokens are not expiring | [Weblate](../by-program/weblate.md) | Medium | — | 8 |
-| 149 | [263498](../reports/263498.md) | CSRF to change Account Security Keys on secure.login.gov | [GSA Bounty](../by-program/gsa_bbp.md) | Medium | — | 8 |
-| 150 | [177639](../reports/177639.md) | CSRF exploit | Adding/Editing comment of wishlist items (teavana. | [Starbucks](../by-program/starbucks.md) | Medium | — | 8 |
-| 151 | [176308](../reports/176308.md) | Wordpress.com REST API oauth bypass via Cross Site Flashing | [Automattic](../by-program/automattic.md) | Medium | — | 8 |
-| 152 | [282490](../reports/282490.md) | Application Vulnerable to CSRF - Remove Invited user | [Infogram](../by-program/infogram.md) | Medium | — | 8 |
+| 148 | [176308](../reports/176308.md) | Wordpress.com REST API oauth bypass via Cross Site Flashing | [Automattic](../by-program/automattic.md) | Medium | — | 8 |
+| 149 | [223339](../reports/223339.md) | Activation tokens are not expiring | [Weblate](../by-program/weblate.md) | Medium | — | 8 |
+| 150 | [282490](../reports/282490.md) | Application Vulnerable to CSRF - Remove Invited user | [Infogram](../by-program/infogram.md) | Medium | — | 8 |
+| 151 | [177639](../reports/177639.md) | CSRF exploit | Adding/Editing comment of wishlist items (teavana. | [Starbucks](../by-program/starbucks.md) | Medium | — | 8 |
+| 152 | [263498](../reports/263498.md) | CSRF to change Account Security Keys on secure.login.gov | [GSA Bounty](../by-program/gsa_bbp.md) | Medium | — | 8 |
 | 153 | [410099](../reports/410099.md) | Account takeover due to CSRF in "Account details" option on █████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
 | 154 | [732415](../reports/732415.md) | The authenticity_token can be reversed and used to forge valid pe | [Ruby on Rails](../by-program/rails.md) | Medium — CVSS 5.9 | — | 7 |
-| 155 | [473798](../reports/473798.md) | Cross Site Request Forgery in auth in https://auth.ratelimited.me | [RATELIMITED](../by-program/ratelimited.md) | Medium | — | 7 |
-| 156 | [225100](../reports/225100.md) | CSRF to Connect third party Account | [Weblate](../by-program/weblate.md) | Medium | — | 7 |
-| 157 | [191608](../reports/191608.md) | Cross-site request forgery vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
-| 158 | [221432](../reports/221432.md) | CSRF-Token leak by request forgery | [GitLab](../by-program/gitlab.md) | Medium — CVSS 6.3 | — | 6 |
-| 159 | [230837](../reports/230837.md) | CSRF To Like/Unlike Photos | [Eternal](../by-program/eternal.md) | Medium — CVSS 4.3 | — | 5 |
-| 160 | [836187](../reports/836187.md) | CSRF in Profile Fields allows deleting any field in BuddyPress | [WordPress](../by-program/wordpress.md) | Medium | — | 5 |
-| 161 | [117187](../reports/117187.md) | Prevent content spoofing on /~username/emails/verify.html | [Gratipay](../by-program/gratipay.md) | Medium | — | 5 |
-| 162 | [868572](../reports/868572.md) | CSRF on https://apps.topcoder.com/wiki/users/editmyprofilepicture | [Lab45](../by-program/lab45.md) | Medium — CVSS 6.3 | — | 5 |
-| 163 | [223345](../reports/223345.md) | CSRF : Lock and Unlock Translation | [Weblate](../by-program/weblate.md) | Medium | — | 5 |
-| 164 | [263512](../reports/263512.md) | CSRF in generating a new Personal Key | [GSA Bounty](../by-program/gsa_bbp.md) | Medium | — | 4 |
-| 165 | [230863](../reports/230863.md) | CSRF bypass ( Delate Source Translation From dictionaries ) in de | [Weblate](../by-program/weblate.md) | Medium — CVSS 4.3 | — | 4 |
+| 155 | [225100](../reports/225100.md) | CSRF to Connect third party Account | [Weblate](../by-program/weblate.md) | Medium | — | 7 |
+| 156 | [473798](../reports/473798.md) | Cross Site Request Forgery in auth in https://auth.ratelimited.me | [RATELIMITED](../by-program/ratelimited.md) | Medium | — | 7 |
+| 157 | [221432](../reports/221432.md) | CSRF-Token leak by request forgery | [GitLab](../by-program/gitlab.md) | Medium — CVSS 6.3 | — | 6 |
+| 158 | [191608](../reports/191608.md) | Cross-site request forgery vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
+| 159 | [868572](../reports/868572.md) | CSRF on https://apps.topcoder.com/wiki/users/editmyprofilepicture | [Lab45](../by-program/lab45.md) | Medium — CVSS 6.3 | — | 5 |
+| 160 | [117187](../reports/117187.md) | Prevent content spoofing on /~username/emails/verify.html | [Gratipay](../by-program/gratipay.md) | Medium | — | 5 |
+| 161 | [223345](../reports/223345.md) | CSRF : Lock and Unlock Translation | [Weblate](../by-program/weblate.md) | Medium | — | 5 |
+| 162 | [836187](../reports/836187.md) | CSRF in Profile Fields allows deleting any field in BuddyPress | [WordPress](../by-program/wordpress.md) | Medium | — | 5 |
+| 163 | [230837](../reports/230837.md) | CSRF To Like/Unlike Photos | [Eternal](../by-program/eternal.md) | Medium — CVSS 4.3 | — | 5 |
+| 164 | [139402](../reports/139402.md) | [kb.informatica.com] Unauthenticated emails and HTML injection in | [Informatica](../by-program/informatica.md) | Medium | — | 4 |
+| 165 | [263512](../reports/263512.md) | CSRF in generating a new Personal Key | [GSA Bounty](../by-program/gsa_bbp.md) | Medium | — | 4 |
 | 166 | [267865](../reports/267865.md) | Add movie or series CSRF | [delight.im](../by-program/delight_im.md) | Medium | — | 4 |
-| 167 | [139402](../reports/139402.md) | [kb.informatica.com] Unauthenticated emails and HTML injection in | [Informatica](../by-program/informatica.md) | Medium | — | 4 |
+| 167 | [230863](../reports/230863.md) | CSRF bypass ( Delate Source Translation From dictionaries ) in de | [Weblate](../by-program/weblate.md) | Medium — CVSS 4.3 | — | 4 |
 | 168 | [866844](../reports/866844.md) | CSRF on https://apps.topcoder.com/wiki/plugins/socialbookmarking/ | [Lab45](../by-program/lab45.md) | Medium — CVSS 4.3 | — | 3 |
 | 169 | [191831](../reports/191831.md) | Cross-site request forgery (CSRF) vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
 | 170 | [221043](../reports/221043.md) | CSRF token validation is missing | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 2 |
@@ -191,12 +191,12 @@
 | 185 | [796295](../reports/796295.md) | csrf in https://www.rockstargames.com/reddeadonline/feedback/subm | [Rockstar Games](../by-program/rockstargames.md) | Low | — | 14 |
 | 186 | [214087](../reports/214087.md) | Clickjacking Vulnerability found on Yelp | [Yelp](../by-program/yelp.md) | Low | — | 13 |
 | 187 | [174470](../reports/174470.md) | Possible CSRF during external programs | [HackerOne](../by-program/security.md) | Low | — | 12 |
-| 188 | [177635](../reports/177635.md) | CSRF vulnerability in saving payment card on store.starbucks.com  | [Starbucks](../by-program/starbucks.md) | Low | — | 10 |
-| 189 | [227726](../reports/227726.md) | Missing CSRF Token On Remove Coupun From Cart | [Starbucks](../by-program/starbucks.md) | Low | — | 10 |
-| 190 | [381237](../reports/381237.md) | CSRF | Ban or unban users in broadcast's chat | [Valve](../by-program/valve.md) | Low — CVSS 3.5 | — | 10 |
+| 188 | [227726](../reports/227726.md) | Missing CSRF Token On Remove Coupun From Cart | [Starbucks](../by-program/starbucks.md) | Low | — | 10 |
+| 189 | [381237](../reports/381237.md) | CSRF | Ban or unban users in broadcast's chat | [Valve](../by-program/valve.md) | Low — CVSS 3.5 | — | 10 |
+| 190 | [177635](../reports/177635.md) | CSRF vulnerability in saving payment card on store.starbucks.com  | [Starbucks](../by-program/starbucks.md) | Low | — | 10 |
 | 191 | [392761](../reports/392761.md) | vulnerable to Cross-site Request Forgery | Jira | [MariaDB](../by-program/mariadb.md) | Low | — | 9 |
-| 192 | [227725](../reports/227725.md) | Missing CSRF Token On Add Coupon To Basket | [Starbucks](../by-program/starbucks.md) | Low | — | 8 |
-| 193 | [1090982](../reports/1090982.md) | Non-changing "_idnonce" value leads to CSRF on accounts at https: | [Automattic](../by-program/automattic.md) | Low | — | 8 |
+| 192 | [1090982](../reports/1090982.md) | Non-changing "_idnonce" value leads to CSRF on accounts at https: | [Automattic](../by-program/automattic.md) | Low | — | 8 |
+| 193 | [227725](../reports/227725.md) | Missing CSRF Token On Add Coupon To Basket | [Starbucks](../by-program/starbucks.md) | Low | — | 8 |
 | 194 | [223333](../reports/223333.md) | CSRF : Reset API  | [Weblate](../by-program/weblate.md) | Low — CVSS 3.5 | — | 7 |
 | 195 | [182487](../reports/182487.md) | CSRF Token Bypass in Account Deletion | [GitLab](../by-program/gitlab.md) | Low | — | 7 |
 | 196 | [186862](../reports/186862.md) | Order-phishing via Payment ID URL | [PortSwigger Web Security](../by-program/portswigger.md) | Low | — | 6 |
@@ -207,15 +207,15 @@
 | 201 | [244778](../reports/244778.md) | Logout CSRF | [WakaTime](../by-program/wakatime.md) | Low | — | 0 |
 | 202 | [162809](../reports/162809.md) | Changing paymentProfileUuid when booking a trip allows free rides | [Uber](../by-program/uber.md) | None | — | 73 |
 | 203 | [215381](../reports/215381.md) | CSRF on Periscope Web OAuth authorization endpoint  | [X / xAI](../by-program/x.md) | None | — | 72 |
-| 204 | [127703](../reports/127703.md) | [CRITICAL] Full account takeover using CSRF | [Bumble](../by-program/bumble.md) | None | — | 58 |
-| 205 | [334139](../reports/334139.md) | CSRF Trial 14 days express subscription | [Instacart](../by-program/instacart.md) | None | — | 58 |
+| 204 | [334139](../reports/334139.md) | CSRF Trial 14 days express subscription | [Instacart](../by-program/instacart.md) | None | — | 58 |
+| 205 | [127703](../reports/127703.md) | [CRITICAL] Full account takeover using CSRF | [Bumble](../by-program/bumble.md) | None | — | 58 |
 | 206 | [196458](../reports/196458.md) | apps.shopify.com - CSRF token leakage through Google Analytics | [Shopify](../by-program/shopify.md) | None | — | 47 |
 | 207 | [95555](../reports/95555.md) | CSRF on cards API | [X / xAI](../by-program/x.md) | None | — | 39 |
 | 208 | [158434](../reports/158434.md) | (BYPASS) Open redirect and XSS in supporthiring.shopify.com | [Shopify](../by-program/shopify.md) | None | — | 37 |
 | 209 | [158393](../reports/158393.md) | Attacker could setup reminder remotely using brute force | [Uber](../by-program/uber.md) | None | — | 36 |
 | 210 | [157993](../reports/157993.md) | Cross-Site Request Forgery (CSRF) | [Instacart](../by-program/instacart.md) | None | — | 33 |
-| 211 | [136582](../reports/136582.md) | OAuth 2 Authorization Bypass via CSRF and Cross Site Flashing | [Vimeo](../by-program/vimeo.md) | None | — | 31 |
-| 212 | [44146](../reports/44146.md) | Make API calls on behalf of another user (CSRF protection bypass) | [Vimeo](../by-program/vimeo.md) | None | — | 31 |
+| 211 | [44146](../reports/44146.md) | Make API calls on behalf of another user (CSRF protection bypass) | [Vimeo](../by-program/vimeo.md) | None | — | 31 |
+| 212 | [136582](../reports/136582.md) | OAuth 2 Authorization Bypass via CSRF and Cross Site Flashing | [Vimeo](../by-program/vimeo.md) | None | — | 31 |
 | 213 | [195156](../reports/195156.md) | CSRF in all API endpoints when authenticated using HTTP Authentic | [Shopify](../by-program/shopify.md) | None | — | 29 |
 | 214 | [547](../reports/547.md) | CSRF login | [HackerOne](../by-program/security.md) | None | — | 24 |
 | 215 | [49170](../reports/49170.md) | Information disclosure - emails disclosed in response > staging.s | [Yelp](../by-program/yelp.md) | None | — | 21 |
@@ -224,110 +224,110 @@
 | 218 | [1400309](../reports/1400309.md) | [https://shipit-sox-staging.shopifycloud.com] Presence of multipl | [Shopify](../by-program/shopify.md) | None | — | 17 |
 | 219 | [91599](../reports/91599.md) | WooCommerce: Support Ticket indirect object reference | [Automattic](../by-program/automattic.md) | None | — | 16 |
 | 220 | [136481](../reports/136481.md) | CSRF on Vimeo via cross site flashing leading to info disclosure  | [Vimeo](../by-program/vimeo.md) | None | — | 15 |
-| 221 | [6910](../reports/6910.md) | Full account takeover using CSRF and password reset | [IRCCloud](../by-program/irccloud.md) | None | — | 14 |
-| 222 | [97501](../reports/97501.md) | SVG parser loads external resources on image upload | [Shopify](../by-program/shopify.md) | None | — | 14 |
+| 221 | [97501](../reports/97501.md) | SVG parser loads external resources on image upload | [Shopify](../by-program/shopify.md) | None | — | 14 |
+| 222 | [6910](../reports/6910.md) | Full account takeover using CSRF and password reset | [IRCCloud](../by-program/irccloud.md) | None | — | 14 |
 | 223 | [49663](../reports/49663.md) | URGENT - Subdomain Takeover on status.vimeo.com due to unclaimed  | [Vimeo](../by-program/vimeo.md) | None | — | 14 |
 | 224 | [178831](../reports/178831.md) | CSRF on signup endpoint (auto-api.yelp.com) | [Yelp](../by-program/yelp.md) | None | — | 13 |
 | 225 | [2228](../reports/2228.md) | Login CSRF using Twitter OAuth | [Phabricator](../by-program/phabricator.md) | None | — | 13 |
 | 226 | [100820](../reports/100820.md) | Add tweet to collection CSRF  | [X / xAI](../by-program/x.md) | None | — | 12 |
-| 227 | [103351](../reports/103351.md) | [CSRF] Install premium themes  | [Shopify](../by-program/shopify.md) | None | — | 11 |
-| 228 | [927413](../reports/927413.md) |  The vulnerabilities found were XSS, Public disclosure, Network e | [Eternal](../by-program/eternal.md) | None | — | 11 |
-| 229 | [109839](../reports/109839.md) | CSRF in Udemy.com  | [Udemy](../by-program/udemy.md) | None | — | 11 |
+| 227 | [927413](../reports/927413.md) |  The vulnerabilities found were XSS, Public disclosure, Network e | [Eternal](../by-program/eternal.md) | None | — | 11 |
+| 228 | [109839](../reports/109839.md) | CSRF in Udemy.com  | [Udemy](../by-program/udemy.md) | None | — | 11 |
+| 229 | [103351](../reports/103351.md) | [CSRF] Install premium themes  | [Shopify](../by-program/shopify.md) | None | — | 11 |
 | 230 | [152052](../reports/152052.md) | CSRF Full Account Takeover | [Concrete CMS](../by-program/concretecms.md) | None | — | 10 |
 | 231 | [50703](../reports/50703.md) | CSRF in login form would led to account takeover | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 10 |
-| 232 | [8226](../reports/8226.md) | Private Project Access Request Invitation Sent Via CSRF  | [Localize](../by-program/localize.md) | None | — | 9 |
-| 233 | [101909](../reports/101909.md) | account.ubnt.com CSRF | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 9 |
-| 234 | [114127](../reports/114127.md) | Twitter Disconnect CSRF | [Eternal](../by-program/eternal.md) | None | — | 9 |
-| 235 | [1408745](../reports/1408745.md) | CSRF on delete friend requests - Not protected with CSRF Token | [XVIDEOS](../by-program/xvideos.md) | None | — | 9 |
+| 232 | [1408745](../reports/1408745.md) | CSRF on delete friend requests - Not protected with CSRF Token | [XVIDEOS](../by-program/xvideos.md) | None | — | 9 |
+| 233 | [8226](../reports/8226.md) | Private Project Access Request Invitation Sent Via CSRF  | [Localize](../by-program/localize.md) | None | — | 9 |
+| 234 | [101909](../reports/101909.md) | account.ubnt.com CSRF | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 9 |
+| 235 | [114127](../reports/114127.md) | Twitter Disconnect CSRF | [Eternal](../by-program/eternal.md) | None | — | 9 |
 | 236 | [91816](../reports/91816.md) | Server Side Request Forgery In Video to GIF Functionality | [Imgur](../by-program/imgur.md) | None | — | 8 |
 | 237 | [292636](../reports/292636.md) | session_id is not being validated at email invitation endpoint | [Unikrn](../by-program/unikrn.md) | None | — | 8 |
-| 238 | [7531](../reports/7531.md) | Login CSRF can be bypassed (Similar approach to previous one). | [IRCCloud](../by-program/irccloud.md) | None | — | 8 |
-| 239 | [52635](../reports/52635.md) | UniFi v3.2.10 Cross-Site Request Forgeries / Referer-Check Bypass | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 8 |
+| 238 | [115158](../reports/115158.md) | CSRF in twitterflightschool.com ( CAN POST ON TIMELINE WITHOUT US | [X / xAI](../by-program/x.md) | None | — | 8 |
+| 239 | [7531](../reports/7531.md) | Login CSRF can be bypassed (Similar approach to previous one). | [IRCCloud](../by-program/irccloud.md) | None | — | 8 |
 | 240 | [157956](../reports/157956.md) | CSRF To change Email Notification Settings  | [Instacart](../by-program/instacart.md) | None | — | 8 |
-| 241 | [115158](../reports/115158.md) | CSRF in twitterflightschool.com ( CAN POST ON TIMELINE WITHOUT US | [X / xAI](../by-program/x.md) | None | — | 8 |
-| 242 | [65167](../reports/65167.md) | CSRF | [Legal Robot](../by-program/legalrobot.md) | None | — | 7 |
+| 241 | [52635](../reports/52635.md) | UniFi v3.2.10 Cross-Site Request Forgeries / Referer-Check Bypass | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 8 |
+| 242 | [141065](../reports/141065.md) | Security Issue : CSRF Token Design Flaw | [drchrono](../by-program/drchrono.md) | None | — | 7 |
 | 243 | [141344](../reports/141344.md) | [CRITICAL]  CSRF  leading to account take over  | [drchrono](../by-program/drchrono.md) | None | — | 7 |
-| 244 | [141065](../reports/141065.md) | Security Issue : CSRF Token Design Flaw | [drchrono](../by-program/drchrono.md) | None | — | 7 |
-| 245 | [56628](../reports/56628.md) | Payment gateway status transferred to Shopify without authenticat | [Shopify](../by-program/shopify.md) | None | — | 7 |
+| 244 | [56628](../reports/56628.md) | Payment gateway status transferred to Shopify without authenticat | [Shopify](../by-program/shopify.md) | None | — | 7 |
+| 245 | [65167](../reports/65167.md) | CSRF | [Legal Robot](../by-program/legalrobot.md) | None | — | 7 |
 | 246 | [46736](../reports/46736.md) | CSRF token leakage | [Enter](../by-program/enter.md) | None | — | 6 |
-| 247 | [13555](../reports/13555.md) | Login CSRF using Twitter oauth | [Factlink](../by-program/factlink.md) | None | — | 6 |
-| 248 | [239170](../reports/239170.md) | CSRF bug  | [Bumble](../by-program/bumble.md) | None | — | 6 |
-| 249 | [208734](../reports/208734.md) | CSRF @ configuration  | [Files.com](../by-program/files.md) | None | — | 6 |
-| 250 | [14883](../reports/14883.md) | [mobile.twitter.com / twitter.com] CSRF protection bypass | [X / xAI](../by-program/x.md) | None | — | 6 |
-| 251 | [124889](../reports/124889.md) | Websites opened from reports can change url of report page | [HackerOne](../by-program/security.md) | None | — | 6 |
-| 252 | [2628](../reports/2628.md) | CSRF vulnerability on https://sehacure.slack.com/account/settings | [Slack](../by-program/slack.md) | None | — | 5 |
-| 253 | [111218](../reports/111218.md) | Attach Pinterest account - no State/CSRF parameter in Oauth Call  | [Shopify](../by-program/shopify.md) | None | — | 5 |
+| 247 | [124889](../reports/124889.md) | Websites opened from reports can change url of report page | [HackerOne](../by-program/security.md) | None | — | 6 |
+| 248 | [208734](../reports/208734.md) | CSRF @ configuration  | [Files.com](../by-program/files.md) | None | — | 6 |
+| 249 | [14883](../reports/14883.md) | [mobile.twitter.com / twitter.com] CSRF protection bypass | [X / xAI](../by-program/x.md) | None | — | 6 |
+| 250 | [13555](../reports/13555.md) | Login CSRF using Twitter oauth | [Factlink](../by-program/factlink.md) | None | — | 6 |
+| 251 | [239170](../reports/239170.md) | CSRF bug  | [Bumble](../by-program/bumble.md) | None | — | 6 |
+| 252 | [143321](../reports/143321.md) | Unauthenticated CSRF(User can input any value for CSRF Token) | [Veris](../by-program/veris.md) | None | — | 5 |
+| 253 | [2688](../reports/2688.md) | State parameter missing on google OAuth | [Slack](../by-program/slack.md) | None | — | 5 |
 | 254 | [113857](../reports/113857.md) | CSRF AT SELECTING ZAMATO HANDLE | [Eternal](../by-program/eternal.md) | None | — | 5 |
-| 255 | [360834](../reports/360834.md) | CSRF to make any user accept the invitation to the team | [Liberapay](../by-program/liberapay.md) | None | — | 5 |
-| 256 | [2688](../reports/2688.md) | State parameter missing on google OAuth | [Slack](../by-program/slack.md) | None | — | 5 |
-| 257 | [18698](../reports/18698.md) | Resubmitted with POC #18685 Password reset CSRF | [RelateIQ](../by-program/relateiq.md) | None | — | 5 |
-| 258 | [143321](../reports/143321.md) | Unauthenticated CSRF(User can input any value for CSRF Token) | [Veris](../by-program/veris.md) | None | — | 5 |
-| 259 | [99647](../reports/99647.md) | CSRF  Add Album On  onpatient.com  | [drchrono](../by-program/drchrono.md) | None | — | 4 |
-| 260 | [6907](../reports/6907.md) | Session Token is not Verified while changing Account Setting's wh | [IRCCloud](../by-program/irccloud.md) | None | — | 4 |
-| 261 | [45428](../reports/45428.md) | CSRF bypass | [Vimeo](../by-program/vimeo.md) | None | — | 4 |
-| 262 | [109810](../reports/109810.md) | The 'Create a New Account' action is vulnerable to CSRF | [Coinbase](../by-program/coinbase.md) | None | — | 4 |
-| 263 | [2635](../reports/2635.md) | csrf | [Slack](../by-program/slack.md) | None | — | 4 |
-| 264 | [28500](../reports/28500.md) | iOS App can establish Facetime calls without user's permission | [X / xAI](../by-program/x.md) | None | — | 4 |
-| 265 | [21069](../reports/21069.md) | Login CSRF | [Mavenlink](../by-program/mavenlink.md) | None | — | 4 |
-| 266 | [415350](../reports/415350.md) | Missing CSRF Protection in  /stats EndPoint. | [Chaturbate](../by-program/chaturbate.md) | None | — | 4 |
-| 267 | [5946](../reports/5946.md) | Marking notifications as read CSRF bug | [HackerOne](../by-program/security.md) | None | — | 4 |
-| 268 | [99321](../reports/99321.md) |  [CSRF] Activate PayPal Express Checkout | [Shopify](../by-program/shopify.md) | None | — | 4 |
-| 269 | [198470](../reports/198470.md) | csrf blogs.starbucks.com | [Starbucks](../by-program/starbucks.md) | None | — | 4 |
-| 270 | [49935](../reports/49935.md) | rails-ujs will send CSRF tokens to other origins | [Ruby on Rails](../by-program/rails.md) | None | — | 3 |
+| 255 | [18698](../reports/18698.md) | Resubmitted with POC #18685 Password reset CSRF | [RelateIQ](../by-program/relateiq.md) | None | — | 5 |
+| 256 | [2628](../reports/2628.md) | CSRF vulnerability on https://sehacure.slack.com/account/settings | [Slack](../by-program/slack.md) | None | — | 5 |
+| 257 | [111218](../reports/111218.md) | Attach Pinterest account - no State/CSRF parameter in Oauth Call  | [Shopify](../by-program/shopify.md) | None | — | 5 |
+| 258 | [360834](../reports/360834.md) | CSRF to make any user accept the invitation to the team | [Liberapay](../by-program/liberapay.md) | None | — | 5 |
+| 259 | [198470](../reports/198470.md) | csrf blogs.starbucks.com | [Starbucks](../by-program/starbucks.md) | None | — | 4 |
+| 260 | [21069](../reports/21069.md) | Login CSRF | [Mavenlink](../by-program/mavenlink.md) | None | — | 4 |
+| 261 | [99321](../reports/99321.md) |  [CSRF] Activate PayPal Express Checkout | [Shopify](../by-program/shopify.md) | None | — | 4 |
+| 262 | [2635](../reports/2635.md) | csrf | [Slack](../by-program/slack.md) | None | — | 4 |
+| 263 | [109810](../reports/109810.md) | The 'Create a New Account' action is vulnerable to CSRF | [Coinbase](../by-program/coinbase.md) | None | — | 4 |
+| 264 | [45428](../reports/45428.md) | CSRF bypass | [Vimeo](../by-program/vimeo.md) | None | — | 4 |
+| 265 | [6907](../reports/6907.md) | Session Token is not Verified while changing Account Setting's wh | [IRCCloud](../by-program/irccloud.md) | None | — | 4 |
+| 266 | [5946](../reports/5946.md) | Marking notifications as read CSRF bug | [HackerOne](../by-program/security.md) | None | — | 4 |
+| 267 | [415350](../reports/415350.md) | Missing CSRF Protection in  /stats EndPoint. | [Chaturbate](../by-program/chaturbate.md) | None | — | 4 |
+| 268 | [28500](../reports/28500.md) | iOS App can establish Facetime calls without user's permission | [X / xAI](../by-program/x.md) | None | — | 4 |
+| 269 | [99647](../reports/99647.md) | CSRF  Add Album On  onpatient.com  | [drchrono](../by-program/drchrono.md) | None | — | 4 |
+| 270 | [110801](../reports/110801.md) | Internal GET SSRF via CSRF with Press This scan feature | [Automattic](../by-program/automattic.md) | None | — | 3 |
 | 271 | [84395](../reports/84395.md) | CSRF in apps.owncloud.com | [ownCloud](../by-program/owncloud.md) | None | — | 3 |
-| 272 | [125594](../reports/125594.md) | CSRF on eng.uber.com may lead to server-side compromise | [Uber](../by-program/uber.md) | None | — | 3 |
-| 273 | [110801](../reports/110801.md) | Internal GET SSRF via CSRF with Press This scan feature | [Automattic](../by-program/automattic.md) | None | — | 3 |
-| 274 | [7051](../reports/7051.md) |  User Account Creation CSRF  | [IRCCloud](../by-program/irccloud.md) | None | — | 3 |
-| 275 | [8273](../reports/8273.md) | Projects Watch or Notifications Settings Change Via CSRF | [Localize](../by-program/localize.md) | None | — | 3 |
-| 276 | [6888](../reports/6888.md) | HTML Form without CSRF protection | [IRCCloud](../by-program/irccloud.md) | None | — | 3 |
-| 277 | [361414](../reports/361414.md) | CSRF token manipulation in every possible form submits. NO server | [Liberapay](../by-program/liberapay.md) | None | — | 3 |
-| 278 | [159925](../reports/159925.md) | Send emails to all users using Camptix | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 3 |
-| 279 | [151827](../reports/151827.md) | The contribution save option seem to be vulnerable to CSRF | [Gratipay](../by-program/gratipay.md) | None | — | 3 |
-| 280 | [13583](../reports/13583.md) | Sign  up CSRF | [Factlink](../by-program/factlink.md) | None | — | 3 |
-| 281 | [919112](../reports/919112.md) | Authenticity token doesnt expire after single use leading to CSRF | [Omise](../by-program/omise.md) | None | — | 3 |
-| 282 | [15476](../reports/15476.md) | Session Token is not Verified while changing Account Setting's wh | [FanFootage](../by-program/fanfootage.md) | None | — | 3 |
-| 283 | [144147](../reports/144147.md) | Newsroom.uber HTML form without CSRF protection | [Uber](../by-program/uber.md) | None | — | 3 |
-| 284 | [283482](../reports/283482.md) | Login Cross Site Request Forgery  | [Infogram](../by-program/infogram.md) | None | — | 3 |
-| 285 | [102376](../reports/102376.md) | Обход защиты от csrf-ок в m.ok.ru | [ok.ru](../by-program/ok.md) | None | — | 3 |
-| 286 | [137008](../reports/137008.md) | Csrf on creating course | [Udemy](../by-program/udemy.md) | None | — | 3 |
-| 287 | [14494](../reports/14494.md) | Clickjacking & CSRF attack can be done at https://app.mavenlink.c | [Mavenlink](../by-program/mavenlink.md) | None | — | 3 |
-| 288 | [7916](../reports/7916.md) | No Cross-Site Request Forgery protection at multiple locations | [Localize](../by-program/localize.md) | None | — | 3 |
-| 289 | [273998](../reports/273998.md) | CSRF token does not valided during blog comment | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 3 |
-| 290 | [131108](../reports/131108.md) | Akismet Several CSRF vulnerabilities | [Automattic](../by-program/automattic.md) | None | — | 3 |
-| 291 | [104931](../reports/104931.md) | CSRF in Connecting Pinterest Account | [Shopify](../by-program/shopify.md) | None | — | 2 |
-| 292 | [52982](../reports/52982.md) | [URGENT ISSUE] Add or Delete the videos in watch later list of an | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
-| 293 | [7870](../reports/7870.md) | Change user settings through CSRF | [Localize](../by-program/localize.md) | None | — | 2 |
-| 294 | [8216](../reports/8216.md) | Group Creation Via CSRF | [Localize](../by-program/localize.md) | None | — | 2 |
-| 295 | [47357](../reports/47357.md) | CSRF token from another valid user session accepted | [Mobile Vikings](../by-program/mobilevikings.md) | None | — | 2 |
-| 296 | [2857](../reports/2857.md) | CSRF token valid even after the session logout of a particular us | [Phabricator](../by-program/phabricator.md) | None | — | 2 |
-| 297 | [148417](../reports/148417.md) | CSRF with redeem coupon request  | [Instacart](../by-program/instacart.md) | None | — | 2 |
-| 298 | [84372](../reports/84372.md) | owncloud.com: Account Compromise Through CSRF | [ownCloud](../by-program/owncloud.md) | None | — | 2 |
-| 299 | [8843](../reports/8843.md) | CSRF - Disabling orders at https://panel.stopthehacker.com/manage | [StopTheHacker](../by-program/stopthehacker.md) | None | — | 2 |
-| 300 | [54610](../reports/54610.md) | Logout any user of same team | [Slack](../by-program/slack.md) | None | — | 2 |
-| 301 | [17312](../reports/17312.md) | HTML Form Without CSRF Protection Vulnerability | [Uzbey](../by-program/uzbey.md) | None | — | 2 |
-| 302 | [267867](../reports/267867.md) | Logout CSRF | [delight.im](../by-program/delight_im.md) | None | — | 2 |
-| 303 | [8218](../reports/8218.md) | Group Deletion Via CSRF | [Localize](../by-program/localize.md) | None | — | 2 |
-| 304 | [43846](../reports/43846.md) | No Limitation on Following allows user to follow people automatic | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
-| 305 | [1190705](../reports/1190705.md) | CSRF in newsletter form | [Sifchain](../by-program/sifchain.md) | None | — | 2 |
-| 306 | [3455](../reports/3455.md) | flash content type sniff vulnerability in api.slack.com | [Slack](../by-program/slack.md) | None | — | 2 |
-| 307 | [145583](../reports/145583.md) | Lost Password CSRF | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
-| 308 | [230428](../reports/230428.md) | Csrf bug on signup session | [Coinbase](../by-program/coinbase.md) | None | — | 2 |
-| 309 | [86022](../reports/86022.md) | Multiple so called  'type juggling' attacks. Most notably Phabric | [Phabricator](../by-program/phabricator.md) | None | — | 2 |
-| 310 | [13314](../reports/13314.md) | CRLF Injection | [Khan Academy](../by-program/khanacademy.md) | None | — | 2 |
-| 311 | [123900](../reports/123900.md) | csrf_token cookie don't have the flag "HttpOnly" | [Gratipay](../by-program/gratipay.md) | None | — | 2 |
-| 312 | [10829](../reports/10829.md) | CSRF in function "Set as primary" on  accounts page | [Coinbase](../by-program/coinbase.md) | None | — | 1 |
-| 313 | [133847](../reports/133847.md) | ProBlog 2.6.6 CSRF Exploit | [Concrete CMS](../by-program/concretecms.md) | None | — | 1 |
-| 314 | [93154](../reports/93154.md) | Csrf near report abuse meme  | [Imgur](../by-program/imgur.md) | None | — | 1 |
-| 315 | [163815](../reports/163815.md) | Lack of CSRF token validation at server side | [Gratipay](../by-program/gratipay.md) | None | — | 1 |
-| 316 | [7571](../reports/7571.md) | Simplenote Silverlight cross-domain policy misconfiguration | [Automattic](../by-program/automattic.md) | None | — | 1 |
-| 317 | [13856](../reports/13856.md) | CSRF   in crashlytics.com | [X / xAI](../by-program/x.md) | None | — | 1 |
-| 318 | [216161](../reports/216161.md) | CSRF Token Design Flaw | [Udemy](../by-program/udemy.md) | None | — | 1 |
-| 319 | [85565](../reports/85565.md) | apps.owncloud.com: CSRF change privacy settings | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
-| 320 | [277431](../reports/277431.md) | XSS on app.legalrobot.com | [Legal Robot](../by-program/legalrobot.md) | None | — | 1 |
+| 272 | [137008](../reports/137008.md) | Csrf on creating course | [Udemy](../by-program/udemy.md) | None | — | 3 |
+| 273 | [361414](../reports/361414.md) | CSRF token manipulation in every possible form submits. NO server | [Liberapay](../by-program/liberapay.md) | None | — | 3 |
+| 274 | [14494](../reports/14494.md) | Clickjacking & CSRF attack can be done at https://app.mavenlink.c | [Mavenlink](../by-program/mavenlink.md) | None | — | 3 |
+| 275 | [283482](../reports/283482.md) | Login Cross Site Request Forgery  | [Infogram](../by-program/infogram.md) | None | — | 3 |
+| 276 | [7916](../reports/7916.md) | No Cross-Site Request Forgery protection at multiple locations | [Localize](../by-program/localize.md) | None | — | 3 |
+| 277 | [13583](../reports/13583.md) | Sign  up CSRF | [Factlink](../by-program/factlink.md) | None | — | 3 |
+| 278 | [15476](../reports/15476.md) | Session Token is not Verified while changing Account Setting's wh | [FanFootage](../by-program/fanfootage.md) | None | — | 3 |
+| 279 | [159925](../reports/159925.md) | Send emails to all users using Camptix | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 3 |
+| 280 | [919112](../reports/919112.md) | Authenticity token doesnt expire after single use leading to CSRF | [Omise](../by-program/omise.md) | None | — | 3 |
+| 281 | [6888](../reports/6888.md) | HTML Form without CSRF protection | [IRCCloud](../by-program/irccloud.md) | None | — | 3 |
+| 282 | [125594](../reports/125594.md) | CSRF on eng.uber.com may lead to server-side compromise | [Uber](../by-program/uber.md) | None | — | 3 |
+| 283 | [8273](../reports/8273.md) | Projects Watch or Notifications Settings Change Via CSRF | [Localize](../by-program/localize.md) | None | — | 3 |
+| 284 | [102376](../reports/102376.md) | Обход защиты от csrf-ок в m.ok.ru | [ok.ru](../by-program/ok.md) | None | — | 3 |
+| 285 | [151827](../reports/151827.md) | The contribution save option seem to be vulnerable to CSRF | [Gratipay](../by-program/gratipay.md) | None | — | 3 |
+| 286 | [144147](../reports/144147.md) | Newsroom.uber HTML form without CSRF protection | [Uber](../by-program/uber.md) | None | — | 3 |
+| 287 | [7051](../reports/7051.md) |  User Account Creation CSRF  | [IRCCloud](../by-program/irccloud.md) | None | — | 3 |
+| 288 | [131108](../reports/131108.md) | Akismet Several CSRF vulnerabilities | [Automattic](../by-program/automattic.md) | None | — | 3 |
+| 289 | [49935](../reports/49935.md) | rails-ujs will send CSRF tokens to other origins | [Ruby on Rails](../by-program/rails.md) | None | — | 3 |
+| 290 | [273998](../reports/273998.md) | CSRF token does not valided during blog comment | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 3 |
+| 291 | [8216](../reports/8216.md) | Group Creation Via CSRF | [Localize](../by-program/localize.md) | None | — | 2 |
+| 292 | [123900](../reports/123900.md) | csrf_token cookie don't have the flag "HttpOnly" | [Gratipay](../by-program/gratipay.md) | None | — | 2 |
+| 293 | [1190705](../reports/1190705.md) | CSRF in newsletter form | [Sifchain](../by-program/sifchain.md) | None | — | 2 |
+| 294 | [145583](../reports/145583.md) | Lost Password CSRF | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
+| 295 | [54610](../reports/54610.md) | Logout any user of same team | [Slack](../by-program/slack.md) | None | — | 2 |
+| 296 | [267867](../reports/267867.md) | Logout CSRF | [delight.im](../by-program/delight_im.md) | None | — | 2 |
+| 297 | [104931](../reports/104931.md) | CSRF in Connecting Pinterest Account | [Shopify](../by-program/shopify.md) | None | — | 2 |
+| 298 | [2857](../reports/2857.md) | CSRF token valid even after the session logout of a particular us | [Phabricator](../by-program/phabricator.md) | None | — | 2 |
+| 299 | [43846](../reports/43846.md) | No Limitation on Following allows user to follow people automatic | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
+| 300 | [13314](../reports/13314.md) | CRLF Injection | [Khan Academy](../by-program/khanacademy.md) | None | — | 2 |
+| 301 | [148417](../reports/148417.md) | CSRF with redeem coupon request  | [Instacart](../by-program/instacart.md) | None | — | 2 |
+| 302 | [8218](../reports/8218.md) | Group Deletion Via CSRF | [Localize](../by-program/localize.md) | None | — | 2 |
+| 303 | [52982](../reports/52982.md) | [URGENT ISSUE] Add or Delete the videos in watch later list of an | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
+| 304 | [86022](../reports/86022.md) | Multiple so called  'type juggling' attacks. Most notably Phabric | [Phabricator](../by-program/phabricator.md) | None | — | 2 |
+| 305 | [230428](../reports/230428.md) | Csrf bug on signup session | [Coinbase](../by-program/coinbase.md) | None | — | 2 |
+| 306 | [8843](../reports/8843.md) | CSRF - Disabling orders at https://panel.stopthehacker.com/manage | [StopTheHacker](../by-program/stopthehacker.md) | None | — | 2 |
+| 307 | [17312](../reports/17312.md) | HTML Form Without CSRF Protection Vulnerability | [Uzbey](../by-program/uzbey.md) | None | — | 2 |
+| 308 | [3455](../reports/3455.md) | flash content type sniff vulnerability in api.slack.com | [Slack](../by-program/slack.md) | None | — | 2 |
+| 309 | [47357](../reports/47357.md) | CSRF token from another valid user session accepted | [Mobile Vikings](../by-program/mobilevikings.md) | None | — | 2 |
+| 310 | [84372](../reports/84372.md) | owncloud.com: Account Compromise Through CSRF | [ownCloud](../by-program/owncloud.md) | None | — | 2 |
+| 311 | [7870](../reports/7870.md) | Change user settings through CSRF | [Localize](../by-program/localize.md) | None | — | 2 |
+| 312 | [64184](../reports/64184.md) | No csrf protection on index.php/ccm/system/user/add_group, index. | [Concrete CMS](../by-program/concretecms.md) | None | — | 1 |
+| 313 | [257237](../reports/257237.md) | CSRF Token | [Udemy](../by-program/udemy.md) | None | — | 1 |
+| 314 | [277431](../reports/277431.md) | XSS on app.legalrobot.com | [Legal Robot](../by-program/legalrobot.md) | None | — | 1 |
+| 315 | [7571](../reports/7571.md) | Simplenote Silverlight cross-domain policy misconfiguration | [Automattic](../by-program/automattic.md) | None | — | 1 |
+| 316 | [85565](../reports/85565.md) | apps.owncloud.com: CSRF change privacy settings | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
+| 317 | [163815](../reports/163815.md) | Lack of CSRF token validation at server side | [Gratipay](../by-program/gratipay.md) | None | — | 1 |
+| 318 | [10829](../reports/10829.md) | CSRF in function "Set as primary" on  accounts page | [Coinbase](../by-program/coinbase.md) | None | — | 1 |
+| 319 | [93154](../reports/93154.md) | Csrf near report abuse meme  | [Imgur](../by-program/imgur.md) | None | — | 1 |
+| 320 | [216161](../reports/216161.md) | CSRF Token Design Flaw | [Udemy](../by-program/udemy.md) | None | — | 1 |
 | 321 | [7516](../reports/7516.md) | Log Out Cross site Request Forgery | [IRCCloud](../by-program/irccloud.md) | None | — | 1 |
-| 322 | [64184](../reports/64184.md) | No csrf protection on index.php/ccm/system/user/add_group, index. | [Concrete CMS](../by-program/concretecms.md) | None | — | 1 |
-| 323 | [257237](../reports/257237.md) | CSRF Token | [Udemy](../by-program/udemy.md) | None | — | 1 |
-| 324 | [134894](../reports/134894.md) | The Anti-CSRF Library fails to restrict token to a particular IP  | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 1 |
+| 322 | [134894](../reports/134894.md) | The Anti-CSRF Library fails to restrict token to a particular IP  | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 1 |
+| 323 | [13856](../reports/13856.md) | CSRF   in crashlytics.com | [X / xAI](../by-program/x.md) | None | — | 1 |
+| 324 | [133847](../reports/133847.md) | ProBlog 2.6.6 CSRF Exploit | [Concrete CMS](../by-program/concretecms.md) | None | — | 1 |
 | 325 | [166231](../reports/166231.md) | CSRF Issue | [Legal Robot](../by-program/legalrobot.md) | None | — | 0 |
 | 326 | [25128](../reports/25128.md) | HTML form without CSRF protection at http://try.crashlytics.com/e | [X / xAI](../by-program/x.md) | None | — | 0 |
 | 327 | [269196](../reports/269196.md) | Cross site request forgery | [Hiro](../by-program/hiro.md) | None | — | 0 |

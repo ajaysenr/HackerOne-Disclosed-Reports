@@ -30,11 +30,11 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 24 | [756149](../reports/756149.md) | Blind SSRF on debug.nordvpn.com due to misconfigured sentry  | Low | — | 70 | [mase289](https://hackerone.com/mase289) | 2020-02-24 |
 | 25 | [772886](../reports/772886.md) | Password Reset Link Works Multiple Times | Low | — | 26 | [exag0ra](https://hackerone.com/exag0ra) | 2020-02-24 |
 | 26 | [806577](../reports/806577.md) | Arbitrary Set-Cookie via "?coupon=" due to semi-colon not en | Low | — | 18 | [yuyudhn](https://hackerone.com/yuyudhn) | 2020-04-03 |
-| 27 | [777984](../reports/777984.md) | Denial of Service with Cookie Bomb | Low | — | 17 | [bihari_web](https://hackerone.com/bihari_web) | 2020-04-03 |
-| 28 | [765955](../reports/765955.md) | Clickjacking at join.nordvpn.com | Low | — | 17 | [ddaasddd1](https://hackerone.com/ddaasddd1) | 2020-02-13 |
+| 27 | [765955](../reports/765955.md) | Clickjacking at join.nordvpn.com | Low | — | 17 | [ddaasddd1](https://hackerone.com/ddaasddd1) | 2020-02-13 |
+| 28 | [777984](../reports/777984.md) | Denial of Service with Cookie Bomb | Low | — | 17 | [bihari_web](https://hackerone.com/bihari_web) | 2020-04-03 |
 | 29 | [758380](../reports/758380.md) | Host header injection/redirection | signup and login page | Low | — | 11 | [hassancypher](https://hackerone.com/hassancypher) | 2020-02-21 |
-| 30 | [813421](../reports/813421.md) | Account deletion requests not entirely honoured. Misinformat | Low | — | 8 | [keshavkejriwal](https://hackerone.com/keshavkejriwal) | 2020-03-24 |
-| 31 | [792737](../reports/792737.md) | Password Reset Link not expiring after changing the email Le | Low | — | 8 | [dantt](https://hackerone.com/dantt) | 2020-10-27 |
+| 30 | [792737](../reports/792737.md) | Password Reset Link not expiring after changing the email Le | Low | — | 8 | [dantt](https://hackerone.com/dantt) | 2020-10-27 |
+| 31 | [813421](../reports/813421.md) | Account deletion requests not entirely honoured. Misinformat | Low | — | 8 | [keshavkejriwal](https://hackerone.com/keshavkejriwal) | 2020-03-24 |
 | 32 | [791674](../reports/791674.md) | Expired Available Domains in nordvpn.com website code | None | — | 29 | [khizer47](https://hackerone.com/khizer47) | 2020-03-23 |
 | 33 | [803141](../reports/803141.md) | Unauthorized User Can Delete Any User Account | None | — | 25 | [d4rk_g1rl](https://hackerone.com/d4rk_g1rl) | 2020-03-26 |
 | 34 | [803941](../reports/803941.md) | NordVPN Android Application privacy violation due to Google  | None | — | 11 | [tomtenisse](https://hackerone.com/tomtenisse) | 2020-06-25 |

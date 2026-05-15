@@ -25,18 +25,18 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 19 | [269426](../reports/269426.md) | Tor Project - Full Path Disclosure | Low | — | 5 | [yox](https://hackerone.com/yox) | 2023-11-28 |
 | 20 | [267922](../reports/267922.md) | Sql query disclosure, | Low | — | 0 | [utkarsh1](https://hackerone.com/utkarsh1) | 2017-09-18 |
 | 21 | [410087](../reports/410087.md) | Expose user IP if TOR crashs | None | — | 11 | [rbcafe](https://hackerone.com/rbcafe) | 2018-09-21 |
-| 22 | [274998](../reports/274998.md) | Use of unitialized value in crypto_pk_num_bits (src/common/c | None | — | 11 | [geeknik](https://hackerone.com/geeknik) | 2023-11-28 |
-| 23 | [142773](../reports/142773.md) | 16 instances where return value of OpenSSL i2d_RSAPublicKey  | None | — | 11 | [guido](https://hackerone.com/guido) | 2017-11-26 |
+| 22 | [142773](../reports/142773.md) | 16 instances where return value of OpenSSL i2d_RSAPublicKey  | None | — | 11 | [guido](https://hackerone.com/guido) | 2017-11-26 |
+| 23 | [274998](../reports/274998.md) | Use of unitialized value in crypto_pk_num_bits (src/common/c | None | — | 11 | [geeknik](https://hackerone.com/geeknik) | 2023-11-28 |
 | 24 | [265706](../reports/265706.md) | [rt.torproject.org] No Rate Limitting on Login Form | None | — | 9 | [0xspade](https://hackerone.com/0xspade) | 2023-11-28 |
 | 25 | [115686](../reports/115686.md) | [tor] pre-emptive defenses, potential vulnerabilities | None | — | 8 | [guido](https://hackerone.com/guido) | 2017-11-26 |
-| 26 | [115702](../reports/115702.md) | [tor] libevent dns OOB read | None | — | 7 | [guido](https://hackerone.com/guido) | 2017-10-19 |
-| 27 | [330721](../reports/330721.md) | Expose relay IP in the debug (The source is different from t | None | — | 7 | [rbcafe](https://hackerone.com/rbcafe) | 2018-07-21 |
+| 26 | [330721](../reports/330721.md) | Expose relay IP in the debug (The source is different from t | None | — | 7 | [rbcafe](https://hackerone.com/rbcafe) | 2018-07-21 |
+| 27 | [115702](../reports/115702.md) | [tor] libevent dns OOB read | None | — | 7 | [guido](https://hackerone.com/guido) | 2017-10-19 |
 | 28 | [113424](../reports/113424.md) | [tor] control connection pre-auth DoS (infinite loop) with - | None | — | 7 | [guido](https://hackerone.com/guido) | 2017-10-19 |
-| 29 | [112632](../reports/112632.md) | [tor] libevent dns remote stack overread vulnerability | None | — | 6 | [guido](https://hackerone.com/guido) | 2017-10-19 |
-| 30 | [112386](../reports/112386.md) | smartlist_add, smartlist_insert (may) cause heap corruption  | None | — | 6 | [guido](https://hackerone.com/guido) | 2017-10-19 |
-| 31 | [112784](../reports/112784.md) | libevent (stack) buffer overflow in evutil_parse_sockaddr_po | None | — | 6 | [guido](https://hackerone.com/guido) | 2017-10-19 |
+| 29 | [112386](../reports/112386.md) | smartlist_add, smartlist_insert (may) cause heap corruption  | None | — | 6 | [guido](https://hackerone.com/guido) | 2017-10-19 |
+| 30 | [112632](../reports/112632.md) | [tor] libevent dns remote stack overread vulnerability | None | — | 6 | [guido](https://hackerone.com/guido) | 2017-10-19 |
+| 31 | [163459](../reports/163459.md) | potential memory corruption in or/buffers.c (particularly on | None | — | 6 | [guido](https://hackerone.com/guido) | 2017-10-19 |
 | 32 | [138025](../reports/138025.md) | Heap corruption via memarea.c | None | — | 6 | [guido](https://hackerone.com/guido) | 2017-10-19 |
-| 33 | [163459](../reports/163459.md) | potential memory corruption in or/buffers.c (particularly on | None | — | 6 | [guido](https://hackerone.com/guido) | 2017-10-19 |
+| 33 | [112784](../reports/112784.md) | libevent (stack) buffer overflow in evutil_parse_sockaddr_po | None | — | 6 | [guido](https://hackerone.com/guido) | 2017-10-19 |
 | 34 | [274285](../reports/274285.md) | https://get.ooni.torproject.org/ | None | — | 5 | [ba4fe4ca95021d367f8a574](https://hackerone.com/ba4fe4ca95021d367f8a574) | 2023-11-28 |
 | 35 | [276255](../reports/276255.md) | Use of unitialized value in token_check_object (src/or/parse | None | — | 3 | [geeknik](https://hackerone.com/geeknik) | 2019-10-04 |
 | 36 | [276253](../reports/276253.md) | Use of uninitialized value in networkstatus_parse_vote_from_ | None | — | 2 | [geeknik](https://hackerone.com/geeknik) | 2017-10-31 |

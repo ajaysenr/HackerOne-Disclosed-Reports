@@ -33,25 +33,25 @@
 | 27 | [1662194](../reports/1662194.md) | Secret API Key is logged in cleartext  | [Omise](../by-program/omise.md) | Medium | — | 31 |
 | 28 | [2101165](../reports/2101165.md) | user_ldap app logs user passwords in the log file on level debug | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.6 | — | 28 |
 | 29 | [1874155](../reports/1874155.md) | Biometric key is stored in Windows Credential Manager, accessible | [Bitwarden](../by-program/bitwarden.md) | Medium — CVSS 6.2 | — | 19 |
-| 30 | [1255869](../reports/1255869.md) | private keys exposed on the GitHub repository | [MCUboot](../by-program/mcuboot.md) | Medium | — | 13 |
-| 31 | [1613714](../reports/1613714.md) | Non-revoked API Key Information disclosure via Stripo_report() | [Stripo Inc](../by-program/stripo.md) | Medium | — | 13 |
+| 30 | [1613714](../reports/1613714.md) | Non-revoked API Key Information disclosure via Stripo_report() | [Stripo Inc](../by-program/stripo.md) | Medium | — | 13 |
+| 31 | [1255869](../reports/1255869.md) | private keys exposed on the GitHub repository | [MCUboot](../by-program/mcuboot.md) | Medium | — | 13 |
 | 32 | [262620](../reports/262620.md) | Gratipay rails secret token (secret_key_base) publicly exposed in | [Gratipay](../by-program/gratipay.md) | Medium | — | 10 |
 | 33 | [282475](../reports/282475.md) | Sensitive information is publicly available  | [Infogram](../by-program/infogram.md) | Medium — CVSS 5.0 | — | 7 |
 | 34 | [1512199](../reports/1512199.md) | username and password leaked via pptx for █████████ website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
 | 35 | [808167](../reports/808167.md) | Stored XSS on Company Logo | [8x8](../by-program/8x8-bounty.md) | Medium — CVSS 6.9 | — | 5 |
 | 36 | [966383](../reports/966383.md) | secret leaks in vsphere cloud controller manager log | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 6.2 | — | 3 |
-| 37 | [1199803](../reports/1199803.md) | Possible Database Details stored in values.yaml | [Sifchain](../by-program/sifchain.md) | Medium | — | 2 |
-| 38 | [1300589](../reports/1300589.md) | Sensitive information on ██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
+| 37 | [1300589](../reports/1300589.md) | Sensitive information on ██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
+| 38 | [1199803](../reports/1199803.md) | Possible Database Details stored in values.yaml | [Sifchain](../by-program/sifchain.md) | Medium | — | 2 |
 | 39 | [952771](../reports/952771.md) | CVE-2019-11250 remains in effect. | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 4.3 | — | 1 |
 | 40 | [1394399](../reports/1394399.md) | Unintended information disclosure in the Hubot Log files | [Rocket.Chat](../by-program/rocket_chat.md) | Medium | — | 1 |
 | 41 | [685990](../reports/685990.md) | Clear text storage of proxy parameters and passwords | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.9 | — | 53 |
-| 42 | [1591770](../reports/1591770.md) | API Key reported in #1465145 not rotated and thus is still valid  | [Adobe](../by-program/adobe.md) | Low — CVSS 3.7 | — | 6 |
-| 43 | [215083](../reports/215083.md) | Cleartext Password returned in JSON response | [Pushwoosh](../by-program/pushwoosh.md) | Low | — | 6 |
+| 42 | [215083](../reports/215083.md) | Cleartext Password returned in JSON response | [Pushwoosh](../by-program/pushwoosh.md) | Low | — | 6 |
+| 43 | [1591770](../reports/1591770.md) | API Key reported in #1465145 not rotated and thus is still valid  | [Adobe](../by-program/adobe.md) | Low — CVSS 3.7 | — | 6 |
 | 44 | [1102064](../reports/1102064.md) | kubectl creating secrets from stringData leaves secret in plain t | [Kubernetes](../by-program/kubernetes.md) | Low — CVSS 3.5 | — | 1 |
 | 45 | [1298809](../reports/1298809.md) | Senseitive data Related to Shopify Host -> https://shopify.zendes | [Shopify](../by-program/shopify.md) | None | — | 29 |
 | 46 | [942146](../reports/942146.md) | Open Github Repo Leaking WEBLATE SECRET KEY | [Weblate](../by-program/weblate.md) | None | — | 22 |
 | 47 | [386614](../reports/386614.md) | Slack Token exposed over internet (Github) | [Rocket.Chat](../by-program/rocket_chat.md) | None | — | 14 |
-| 48 | [1133670](../reports/1133670.md) |  ETHEREUM_PRIVATE_KEY leaked via Open Github Repository | [Sifchain](../by-program/sifchain.md) | None | — | 4 |
-| 49 | [361089](../reports/361089.md) | twitter api access token leaked on github  | [Liberapay](../by-program/liberapay.md) | None | — | 4 |
+| 48 | [361089](../reports/361089.md) | twitter api access token leaked on github  | [Liberapay](../by-program/liberapay.md) | None | — | 4 |
+| 49 | [1133670](../reports/1133670.md) |  ETHEREUM_PRIVATE_KEY leaked via Open Github Repository | [Sifchain](../by-program/sifchain.md) | None | — | 4 |
 | 50 | [1132690](../reports/1132690.md) | Exposed Openapi Token | [Sifchain](../by-program/sifchain.md) | None | — | 3 |
 | 51 | [223384](../reports/223384.md) | Directory Listing  | [Weblate](../by-program/weblate.md) | None | — | 3 |

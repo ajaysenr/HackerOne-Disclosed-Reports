@@ -19,13 +19,13 @@
 | 13 | [320269](../reports/320269.md) | `npmconf` (and `npm` js api) allocate and write to disk uninitial | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.4 | — | 3 |
 | 14 | [321686](../reports/321686.md) | `atob` allocates uninitialized Buffers when number is passed in i | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.5 | — | 5 |
 | 15 | [330351](../reports/330351.md) | `byte` allocates uninitialized buffers and reads data from them p | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.2 | — | 4 |
-| 16 | [320166](../reports/320166.md) | `concat-with-sourcemaps` allocates uninitialized Buffers when num | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.5 | — | 2 |
-| 17 | [852103](../reports/852103.md) | Out-of-Bound Read in urldecode() [CVE-2020-7067] | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 2 |
+| 16 | [852103](../reports/852103.md) | Out-of-Bound Read in urldecode() [CVE-2020-7067] | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 2 |
+| 17 | [320166](../reports/320166.md) | `concat-with-sourcemaps` allocates uninitialized Buffers when num | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.5 | — | 2 |
 | 18 | [781325](../reports/781325.md) | Out-of-bounds Read in php_strip_tags_ex | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 1 |
 | 19 | [1721098](../reports/1721098.md) | CVE-2022-35260: .netrc parser out-of-bounds access | [curl](../by-program/curl.md) | Low | — | 7 |
 | 20 | [284951](../reports/284951.md) | Out-of-bounds read when importing corrupt blockchain with monero- | [Monero](../by-program/monero.md) | Low | — | 6 |
 | 21 | [321704](../reports/321704.md) | `njwt` allocates uninitialized Buffers when number is passed in b | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 1.8 | — | 5 |
-| 22 | [221790](../reports/221790.md) | Certificate message OOB reads (CVE-2016-6306) | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
-| 23 | [221789](../reports/221789.md) | OOB read in TS_OBJ_print_bio() (CVE-2016-2180) | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
+| 22 | [221789](../reports/221789.md) | OOB read in TS_OBJ_print_bio() (CVE-2016-2180) | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
+| 23 | [221790](../reports/221790.md) | Certificate message OOB reads (CVE-2016-6306) | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
 | 24 | [3617719](../reports/3617719.md) | Function `do_pubkey()` can have out-of-bound read issue | [curl](../by-program/curl.md) | None | — | 13 |
 | 25 | [2509402](../reports/2509402.md) | Out-Of-Bounds Memory Read on ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | None | — | 7 |

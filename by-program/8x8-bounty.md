@@ -16,30 +16,30 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 10 | [807961](../reports/807961.md) | Blind Command Injection #1 | High — CVSS 8.4 | — | 42 | [bugify12334](https://hackerone.com/bugify12334) | 2020-06-22 |
 | 11 | [1499114](../reports/1499114.md) | connect.8x8.com: Users with no permission can track/access r | High | — | 31 | [emperor](https://hackerone.com/emperor) | 2023-02-15 |
 | 12 | [413077](../reports/413077.md) | Stored Cross Site Scripting. | High | — | 20 | [sakhauathr99](https://hackerone.com/sakhauathr99) | 2020-07-21 |
-| 13 | [412772](../reports/412772.md) | Hardcoded credentials in Android App | High | — | 17 | [madrobot](https://hackerone.com/madrobot) | 2020-06-22 |
-| 14 | [770548](../reports/770548.md) | Insecure OAuth redirection at [admin.8x8.vc] | High | — | 17 | [hundredpercent](https://hackerone.com/hundredpercent) | 2020-04-10 |
+| 13 | [770548](../reports/770548.md) | Insecure OAuth redirection at [admin.8x8.vc] | High | — | 17 | [hundredpercent](https://hackerone.com/hundredpercent) | 2020-04-10 |
+| 14 | [412772](../reports/412772.md) | Hardcoded credentials in Android App | High | — | 17 | [madrobot](https://hackerone.com/madrobot) | 2020-06-22 |
 | 15 | [893085](../reports/893085.md) | 2FA Disable With Wrong Password - Response Tampering. | High | — | 14 | [the_predator](https://hackerone.com/the_predator) | 2020-10-21 |
 | 16 | [778629](../reports/778629.md) | (Critical) Remote Code Execution Through Old TinyMCE upload  | High | — | 13 | [konqi](https://hackerone.com/konqi) | 2020-02-12 |
 | 17 | [1197013](../reports/1197013.md) | Subdomain takeover of ████.jitsi.net | High | — | 12 | [ian](https://hackerone.com/ian) | 2021-05-14 |
 | 18 | [1108125](../reports/1108125.md) | DNS Misconfiguration (Subdomain Takeover) █.staging.█.8x8.co | High | — | 11 | [melbadry9](https://hackerone.com/melbadry9) | 2021-02-28 |
 | 19 | [1101877](../reports/1101877.md) | DNS Misconfiguration (Subdomain Takeover) ███████.8x8.com | High — CVSS 7.1 | — | 10 | [melbadry9](https://hackerone.com/melbadry9) | 2021-02-12 |
 | 20 | [840688](../reports/840688.md) | Send Phishing/Spam email from support@sameroom.io to any ema | High | — | 9 | [wisp](https://hackerone.com/wisp) | 2020-08-05 |
-| 21 | [418267](../reports/418267.md) | Bypass Email activation on http://axa.dxi.eu | High | — | 4 | [madrobot](https://hackerone.com/madrobot) | 2020-06-09 |
-| 22 | [418271](../reports/418271.md) | Stored XSS agent_status  | High | — | 4 | [madrobot](https://hackerone.com/madrobot) | 2020-06-09 |
+| 21 | [418271](../reports/418271.md) | Stored XSS agent_status  | High | — | 4 | [madrobot](https://hackerone.com/madrobot) | 2020-06-09 |
+| 22 | [418267](../reports/418267.md) | Bypass Email activation on http://axa.dxi.eu | High | — | 4 | [madrobot](https://hackerone.com/madrobot) | 2020-06-09 |
 | 23 | [1875484](../reports/1875484.md) | connect.8x8.com: Blind SSRF via /api/v2/chats/image-check al | Medium | — | 63 | [yassinek3ch](https://hackerone.com/yassinek3ch) | 2023-05-15 |
 | 24 | [770513](../reports/770513.md) | Reflected xss on 8x8.com subdomain | Medium — CVSS 6.4 | — | 43 | [n0x496n](https://hackerone.com/n0x496n) | 2020-02-12 |
 | 25 | [1895783](../reports/1895783.md) | Unprotected Atlantis Server at https://132.226.█.█ | Medium | — | 42 | [imranhudaa](https://hackerone.com/imranhudaa) | 2023-09-15 |
 | 26 | [1417635](../reports/1417635.md) | Default credentials lead to Spring Boot Admin dashboard acce | Medium | — | 27 | [sparroww](https://hackerone.com/sparroww) | 2022-01-02 |
-| 27 | [692116](../reports/692116.md) | Access to ██████████████ due to weak credentials | Medium | — | 22 | [kingragnar](https://hackerone.com/kingragnar) | 2020-01-08 |
-| 28 | [1418101](../reports/1418101.md) | Exposed kubernetes dashboard | Medium | — | 22 | [bugkill3r](https://hackerone.com/bugkill3r) | 2021-12-09 |
+| 27 | [1418101](../reports/1418101.md) | Exposed kubernetes dashboard | Medium | — | 22 | [bugkill3r](https://hackerone.com/bugkill3r) | 2021-12-09 |
+| 28 | [692116](../reports/692116.md) | Access to ██████████████ due to weak credentials | Medium | — | 22 | [kingragnar](https://hackerone.com/kingragnar) | 2020-01-08 |
 | 29 | [1280167](../reports/1280167.md) | DNS Misconfiguration (Subdomain Takeover)  - █████████.8x8.c | Medium | — | 18 | [melbadry9](https://hackerone.com/melbadry9) | 2021-07-30 |
-| 30 | [1364022](../reports/1364022.md) | Authentication Bypass & ApacheTomcat Misconfiguration in [██ | Medium | — | 17 | [thecyberguy0](https://hackerone.com/thecyberguy0) | 2021-11-04 |
-| 31 | [1622624](../reports/1622624.md) | Public Apache Tomcat /examples example directory | Medium | — | 17 | [mr-k0anti](https://hackerone.com/mr-k0anti) | 2022-07-18 |
-| 32 | [413115](../reports/413115.md) | CRLF injection agentcrm.8x8.com | Medium | — | 12 | [w2w](https://hackerone.com/w2w) | 2020-06-26 |
-| 33 | [878434](../reports/878434.md) | vidyard api auth_token exposed | Medium | — | 12 | [stilou](https://hackerone.com/stilou) | 2020-12-15 |
+| 30 | [1622624](../reports/1622624.md) | Public Apache Tomcat /examples example directory | Medium | — | 17 | [mr-k0anti](https://hackerone.com/mr-k0anti) | 2022-07-18 |
+| 31 | [1364022](../reports/1364022.md) | Authentication Bypass & ApacheTomcat Misconfiguration in [██ | Medium | — | 17 | [thecyberguy0](https://hackerone.com/thecyberguy0) | 2021-11-04 |
+| 32 | [878434](../reports/878434.md) | vidyard api auth_token exposed | Medium | — | 12 | [stilou](https://hackerone.com/stilou) | 2020-12-15 |
+| 33 | [413115](../reports/413115.md) | CRLF injection agentcrm.8x8.com | Medium | — | 12 | [w2w](https://hackerone.com/w2w) | 2020-06-26 |
 | 34 | [1392733](../reports/1392733.md) | xss(r) vcc-na11.8x8.com | Medium | — | 7 | [ssharmaz](https://hackerone.com/ssharmaz) | 2023-07-10 |
-| 35 | [710368](../reports/710368.md) | Publicly accessible .svn repository - aastraconf.packet8.net | Medium | — | 6 | [madrobot](https://hackerone.com/madrobot) | 2020-06-22 |
-| 36 | [1400357](../reports/1400357.md) | 8x8pilot.com: Reflected XSS in Apache Tomcat /jsp-examples e | Medium | — | 6 | [huntinex](https://hackerone.com/huntinex) | 2022-05-19 |
+| 35 | [1400357](../reports/1400357.md) | 8x8pilot.com: Reflected XSS in Apache Tomcat /jsp-examples e | Medium | — | 6 | [huntinex](https://hackerone.com/huntinex) | 2022-05-19 |
+| 36 | [710368](../reports/710368.md) | Publicly accessible .svn repository - aastraconf.packet8.net | Medium | — | 6 | [madrobot](https://hackerone.com/madrobot) | 2020-06-22 |
 | 37 | [808167](../reports/808167.md) | Stored XSS on Company Logo | Medium — CVSS 6.9 | — | 5 | [bugify12334](https://hackerone.com/bugify12334) | 2020-07-07 |
 | 38 | [412754](../reports/412754.md) | XSS (Cross site scripting) on https://apimgr.8x8.com | Medium | — | 4 | [madrobot](https://hackerone.com/madrobot) | 2020-06-09 |
 | 39 | [1365076](../reports/1365076.md) | Information Disclosure of metrics fax.wavecell.com/metrics | Low | — | 90 | [kauenavarro](https://hackerone.com/kauenavarro) | 2025-05-30 |
@@ -53,6 +53,6 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 47 | [1132457](../reports/1132457.md) | Exposed PHP dependencies at ██.8x8.com | Low | — | 10 | [ian](https://hackerone.com/ian) | 2021-10-27 |
 | 48 | [1354066](../reports/1354066.md) | Dangling DNS Record docs.jitsi.net (unsuccessful GSuite take | Low | — | 9 | [bababounty99](https://hackerone.com/bababounty99) | 2023-04-03 |
 | 49 | [1467046](../reports/1467046.md) | Open Redirect on https://██.8x8.com/login?nextPage=%2F | Low | — | 8 | [0x7v](https://hackerone.com/0x7v) | 2022-03-10 |
-| 50 | [879960](../reports/879960.md) | IDOR: Adding Contacts to Other User Groups | Low | — | 6 | [ameyanekar](https://hackerone.com/ameyanekar) | 2020-07-27 |
-| 51 | [907701](../reports/907701.md) | PHPinfo page on  http://█████.callstats.io | Low | — | 6 | [manantch](https://hackerone.com/manantch) | 2020-07-02 |
+| 50 | [907701](../reports/907701.md) | PHPinfo page on  http://█████.callstats.io | Low | — | 6 | [manantch](https://hackerone.com/manantch) | 2020-07-02 |
+| 51 | [879960](../reports/879960.md) | IDOR: Adding Contacts to Other User Groups | Low | — | 6 | [ameyanekar](https://hackerone.com/ameyanekar) | 2020-07-27 |
 | 52 | [929633](../reports/929633.md) | Open Redirect on [blog.wavecell.com] | Low | — | 1 | [melbadry9](https://hackerone.com/melbadry9) | 2020-10-26 |

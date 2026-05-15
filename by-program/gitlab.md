@@ -133,19 +133,19 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 127 | [1212822](../reports/1212822.md) | Stored XSS in Mermaid when viewing Markdown files | High — CVSS 7.1 | — | 42 | [saleemrashid](https://hackerone.com/saleemrashid) | 2021-10-18 |
 | 128 | [1098793](../reports/1098793.md) | Kroki Arbitrary File Read/Write  | High | — | 41 | [ledz1996](https://hackerone.com/ledz1996) | 2021-05-21 |
 | 129 | [950190](../reports/950190.md) | Store-XSS in error message of build-dependencies  | High | — | 35 | [yvvdwf](https://hackerone.com/yvvdwf) | 2020-12-01 |
-| 130 | [1040786](../reports/1040786.md) | Exposure of a valid Gitlab-Workhorse JWT leading to various  | High | — | 33 | [ledz1996](https://hackerone.com/ledz1996) | 2022-07-05 |
-| 131 | [977697](../reports/977697.md) | Stored-XSS in merge requests | High | — | 33 | [yvvdwf](https://hackerone.com/yvvdwf) | 2021-07-13 |
+| 130 | [977697](../reports/977697.md) | Stored-XSS in merge requests | High | — | 33 | [yvvdwf](https://hackerone.com/yvvdwf) | 2021-07-13 |
+| 131 | [1040786](../reports/1040786.md) | Exposure of a valid Gitlab-Workhorse JWT leading to various  | High | — | 33 | [ledz1996](https://hackerone.com/ledz1996) | 2022-07-05 |
 | 132 | [674195](../reports/674195.md) | Stealing data from customers.gitlab.com without user interac | High — CVSS 8.1 | — | 24 | [rpadovani](https://hackerone.com/rpadovani) | 2020-08-26 |
-| 133 | [441090](../reports/441090.md) | CRLF injection & SSRF in git:// protocal lead to arbitrary c | High — CVSS 8.5 | — | 21 | [chromium1337](https://hackerone.com/chromium1337) | 2020-11-23 |
-| 134 | [684268](../reports/684268.md) | Stored XSS for Grafana dashboard URL | High | — | 21 | [xanbanx](https://hackerone.com/xanbanx) | 2022-07-13 |
+| 133 | [684268](../reports/684268.md) | Stored XSS for Grafana dashboard URL | High | — | 21 | [xanbanx](https://hackerone.com/xanbanx) | 2022-07-13 |
+| 134 | [441090](../reports/441090.md) | CRLF injection & SSRF in git:// protocal lead to arbitrary c | High — CVSS 8.5 | — | 21 | [chromium1337](https://hackerone.com/chromium1337) | 2020-11-23 |
 | 135 | [409380](../reports/409380.md) | Stored XSS in merge request pages | High | — | 18 | [8ayac](https://hackerone.com/8ayac) | 2018-12-03 |
 | 136 | [218872](../reports/218872.md) | Stored XSS on Files overview by abusing git submodule URL | High — CVSS 8.7 | — | 17 | [jobert](https://hackerone.com/jobert) | 2017-05-09 |
 | 137 | [384255](../reports/384255.md) | Stored XSS on Issue details page | High | — | 16 | [8ayac](https://hackerone.com/8ayac) | 2018-10-30 |
 | 138 | [960244](../reports/960244.md) | Insufficient Type Check leading to Developer ability to dele | High | — | 16 | [ledz1996](https://hackerone.com/ledz1996) | 2020-11-02 |
 | 139 | [858671](../reports/858671.md) | Insufficient Type Check on GraphQL leading to Maintainer del | High | — | 15 | [ledz1996](https://hackerone.com/ledz1996) | 2020-11-02 |
 | 140 | [962462](../reports/962462.md) | Unauthorized user is able to access schedule pipeline variab | High | — | 9 | [vaib25vicky](https://hackerone.com/vaib25vicky) | 2020-11-30 |
-| 141 | [346111](../reports/346111.md) | XSS (Persistent) - Selecting role(s) for protected branches | High | — | 8 | [phillycheeze](https://hackerone.com/phillycheeze) | 2018-07-16 |
-| 142 | [978768](../reports/978768.md) | Adding everyone to the repo due to the lack of rate limit | High | — | 8 | [sadd_man](https://hackerone.com/sadd_man) | 2020-09-14 |
+| 141 | [978768](../reports/978768.md) | Adding everyone to the repo due to the lack of rate limit | High | — | 8 | [sadd_man](https://hackerone.com/sadd_man) | 2020-09-14 |
+| 142 | [346111](../reports/346111.md) | XSS (Persistent) - Selecting role(s) for protected branches | High | — | 8 | [phillycheeze](https://hackerone.com/phillycheeze) | 2018-07-16 |
 | 143 | [1089914](../reports/1089914.md) | Responsible Disclosure of Privacy Leakage Issue | High | — | 7 | [mzaheri](https://hackerone.com/mzaheri) | 2021-06-29 |
 | 144 | [790786](../reports/790786.md) | Members from parent group keep their access level on a subgr | High — CVSS 7.6 | — | 5 | [kryword](https://hackerone.com/kryword) | 2020-09-08 |
 | 145 | [565883](../reports/565883.md) | Bypass Email Verification -- Able to Access Internal Gitlab  | Medium | — | 246 | [ngalog](https://hackerone.com/ngalog) | 2019-08-30 |
@@ -158,40 +158,40 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 152 | [806571](../reports/806571.md) | Stored XSS in blob viewer | Medium | — | 37 | [yvvdwf](https://hackerone.com/yvvdwf) | 2020-08-04 |
 | 153 | [526570](../reports/526570.md) | Bypassing push rules via MRs created by Email | Medium | — | 36 | [xanbanx](https://hackerone.com/xanbanx) | 2019-10-01 |
 | 154 | [1196958](../reports/1196958.md) | Clipboard DOM-based XSS | Medium — CVSS 4.2 | — | 34 | [vovohelo](https://hackerone.com/vovohelo) | 2021-08-19 |
-| 155 | [670572](../reports/670572.md) | Uncontrolled Resource Consumption in any Markdown field usin | Medium | — | 31 | [ryhmnlfj](https://hackerone.com/ryhmnlfj) | 2019-12-20 |
-| 156 | [1043480](../reports/1043480.md) | Remote hacker can download all the files of master branch in | Medium — CVSS 4.3 | — | 31 | [anshraj_srivastava](https://hackerone.com/anshraj_srivastava) | 2021-02-15 |
+| 155 | [1043480](../reports/1043480.md) | Remote hacker can download all the files of master branch in | Medium — CVSS 4.3 | — | 31 | [anshraj_srivastava](https://hackerone.com/anshraj_srivastava) | 2021-02-15 |
+| 156 | [670572](../reports/670572.md) | Uncontrolled Resource Consumption in any Markdown field usin | Medium | — | 31 | [ryhmnlfj](https://hackerone.com/ryhmnlfj) | 2019-12-20 |
 | 157 | [972355](../reports/972355.md) | Able to leak private email of any user given his/her usernam | Medium | — | 29 | [vaib25vicky](https://hackerone.com/vaib25vicky) | 2021-01-08 |
 | 158 | [853355](../reports/853355.md) | Unauthorized access to private project security dashboard | Medium | — | 24 | [vaib25vicky](https://hackerone.com/vaib25vicky) | 2020-11-21 |
-| 159 | [216243](../reports/216243.md) | CSV injection in gitlab.com via issues export feature. | Medium — CVSS 6.5 | — | 20 | [edoverflow](https://hackerone.com/edoverflow) | 2017-07-21 |
-| 160 | [270999](../reports/270999.md) | [Markdown] Stored XSS via character encoding parser bypass | Medium | — | 20 | [ysx](https://hackerone.com/ysx) | 2017-10-18 |
+| 159 | [270999](../reports/270999.md) | [Markdown] Stored XSS via character encoding parser bypass | Medium | — | 20 | [ysx](https://hackerone.com/ysx) | 2017-10-18 |
+| 160 | [216243](../reports/216243.md) | CSV injection in gitlab.com via issues export feature. | Medium — CVSS 6.5 | — | 20 | [edoverflow](https://hackerone.com/edoverflow) | 2017-07-21 |
 | 161 | [1669176](../reports/1669176.md) | Unauthorized access | Medium | — | 18 | [hacker1_agent](https://hackerone.com/hacker1_agent) | 2022-08-25 |
 | 162 | [215105](../reports/215105.md) | SSRF vulnerability in gitlab.com via project import. | Medium — CVSS 5.4 | — | 18 | [edoverflow](https://hackerone.com/edoverflow) | 2017-11-09 |
-| 163 | [970869](../reports/970869.md) | Sending Arbitrary Requests through Jupyter Notebooks on gitl | Medium — CVSS 5.4 | — | 14 | [iwis](https://hackerone.com/iwis) | 2022-02-10 |
-| 164 | [689245](../reports/689245.md) | SSRF In plantuml (on plantuml.pre.gitlab.com) | Medium | — | 14 | [plazmaz](https://hackerone.com/plazmaz) | 2020-08-17 |
-| 165 | [310185](../reports/310185.md) | Removing a user from a private group doesn't remove him from | Medium — CVSS 6.3 | — | 14 | [rpadovani](https://hackerone.com/rpadovani) | 2019-04-05 |
+| 163 | [689245](../reports/689245.md) | SSRF In plantuml (on plantuml.pre.gitlab.com) | Medium | — | 14 | [plazmaz](https://hackerone.com/plazmaz) | 2020-08-17 |
+| 164 | [310185](../reports/310185.md) | Removing a user from a private group doesn't remove him from | Medium — CVSS 6.3 | — | 14 | [rpadovani](https://hackerone.com/rpadovani) | 2019-04-05 |
+| 165 | [970869](../reports/970869.md) | Sending Arbitrary Requests through Jupyter Notebooks on gitl | Medium — CVSS 5.4 | — | 14 | [iwis](https://hackerone.com/iwis) | 2022-02-10 |
 | 166 | [748375](../reports/748375.md) | Transferring a public group to a private group doesn't remov | Medium | — | 13 | [rpadovani](https://hackerone.com/rpadovani) | 2020-10-06 |
-| 167 | [985124](../reports/985124.md) | GraphQL Query leads to sensitive information disclosure | Medium | — | 12 | [chroduath](https://hackerone.com/chroduath) | 2021-03-08 |
-| 168 | [195088](../reports/195088.md) | Every user can delete public deploy keys | Medium — CVSS 6.5 | — | 12 | [jobert](https://hackerone.com/jobert) | 2017-01-23 |
-| 169 | [809248](../reports/809248.md) | SSRF into Shared Runner, by replacing dockerd with malicious | Medium | — | 12 | [lucash-dev](https://hackerone.com/lucash-dev) | 2020-09-08 |
+| 167 | [809248](../reports/809248.md) | SSRF into Shared Runner, by replacing dockerd with malicious | Medium | — | 12 | [lucash-dev](https://hackerone.com/lucash-dev) | 2020-09-08 |
+| 168 | [985124](../reports/985124.md) | GraphQL Query leads to sensitive information disclosure | Medium | — | 12 | [chroduath](https://hackerone.com/chroduath) | 2021-03-08 |
+| 169 | [195088](../reports/195088.md) | Every user can delete public deploy keys | Medium — CVSS 6.5 | — | 12 | [jobert](https://hackerone.com/jobert) | 2017-01-23 |
 | 170 | [216453](../reports/216453.md) | Unfiltered `class` attribute in markdown code | Medium — CVSS 5.4 | — | 11 | [chalker](https://hackerone.com/chalker) | 2017-04-13 |
-| 171 | [195058](../reports/195058.md) | Users can download old project exports due to unclaimed name | Medium — CVSS 4.8 | — | 10 | [jobert](https://hackerone.com/jobert) | 2017-01-23 |
-| 172 | [215384](../reports/215384.md) | [Subgroups] Unprivileged User Can Disclose Private Group Nam | Medium | — | 10 | [ysx](https://hackerone.com/ysx) | 2017-03-30 |
+| 171 | [215384](../reports/215384.md) | [Subgroups] Unprivileged User Can Disclose Private Group Nam | Medium | — | 10 | [ysx](https://hackerone.com/ysx) | 2017-03-30 |
+| 172 | [195058](../reports/195058.md) | Users can download old project exports due to unclaimed name | Medium — CVSS 4.8 | — | 10 | [jobert](https://hackerone.com/jobert) | 2017-01-23 |
 | 173 | [301924](../reports/301924.md) | SSRF vulnerability in gitlab.com webhook | Medium | — | 10 | [wuqidashi](https://hackerone.com/wuqidashi) | 2018-04-30 |
 | 174 | [1531958](../reports/1531958.md) | ReDoS in net/http affects webhooks: Sidekiq job stuck at 100 | Medium — CVSS 4.3 | — | 9 | [afewgoats](https://hackerone.com/afewgoats) | 2022-09-13 |
 | 175 | [676976](../reports/676976.md) | Container scanning and Dependency scanning report leaked to  | Medium | — | 9 | [xanbanx](https://hackerone.com/xanbanx) | 2019-12-13 |
 | 176 | [200693](../reports/200693.md) | [RDoc] XSS in project README files | Medium | — | 8 | [ysx](https://hackerone.com/ysx) | 2017-02-15 |
-| 177 | [212629](../reports/212629.md) | Gitlab.com is vulnerable to reverse tabnabbing. (#2) | Medium — CVSS 5.4 | — | 8 | [edoverflow](https://hackerone.com/edoverflow) | 2017-05-09 |
-| 178 | [710006](../reports/710006.md) | Elasticsearch leaks data through the notes scope | Medium | — | 8 | [rpadovani](https://hackerone.com/rpadovani) | 2020-10-06 |
-| 179 | [880863](../reports/880863.md) | Todos are not redacted when membership changes - Access to ( | Medium | — | 7 | [vaib25vicky](https://hackerone.com/vaib25vicky) | 2020-11-02 |
+| 177 | [710006](../reports/710006.md) | Elasticsearch leaks data through the notes scope | Medium | — | 8 | [rpadovani](https://hackerone.com/rpadovani) | 2020-10-06 |
+| 178 | [212629](../reports/212629.md) | Gitlab.com is vulnerable to reverse tabnabbing. (#2) | Medium — CVSS 5.4 | — | 8 | [edoverflow](https://hackerone.com/edoverflow) | 2017-05-09 |
+| 179 | [351554](../reports/351554.md) | Persistent XSS - Deleting a project (No Longer Vulnerable in | Medium | — | 7 | [phillycheeze](https://hackerone.com/phillycheeze) | 2018-09-20 |
 | 180 | [359288](../reports/359288.md) | Potensial SSRF via Git repository URL  | Medium | — | 7 | [rootbakar___](https://hackerone.com/rootbakar___) | 2018-07-16 |
-| 181 | [351554](../reports/351554.md) | Persistent XSS - Deleting a project (No Longer Vulnerable in | Medium | — | 7 | [phillycheeze](https://hackerone.com/phillycheeze) | 2018-09-20 |
+| 181 | [880863](../reports/880863.md) | Todos are not redacted when membership changes - Access to ( | Medium | — | 7 | [vaib25vicky](https://hackerone.com/vaib25vicky) | 2020-11-02 |
 | 182 | [205497](../reports/205497.md) | [reStructuredText] XSS in project README files | Medium | — | 7 | [ysx](https://hackerone.com/ysx) | 2017-02-15 |
-| 183 | [221041](../reports/221041.md) | Cookie bomb | Medium | — | 6 | [moritz30](https://hackerone.com/moritz30) | 2018-02-16 |
-| 184 | [221432](../reports/221432.md) | CSRF-Token leak by request forgery | Medium — CVSS 6.3 | — | 6 | [naure](https://hackerone.com/naure) | 2017-10-09 |
+| 183 | [221432](../reports/221432.md) | CSRF-Token leak by request forgery | Medium — CVSS 6.3 | — | 6 | [naure](https://hackerone.com/naure) | 2017-10-09 |
+| 184 | [221041](../reports/221041.md) | Cookie bomb | Medium | — | 6 | [moritz30](https://hackerone.com/moritz30) | 2018-02-16 |
 | 185 | [205498](../reports/205498.md) | [Textile] XSS in project README files | Medium | — | 5 | [ysx](https://hackerone.com/ysx) | 2017-02-15 |
 | 186 | [213114](../reports/213114.md) | Gitlab.com is vulnerable to reverse tabnabbing via AsciiDoc  | Medium — CVSS 5.4 | — | 5 | [edoverflow](https://hackerone.com/edoverflow) | 2017-05-09 |
-| 187 | [215970](../reports/215970.md) | [Repository Import] Open Redirect via "continue[to]" paramet | Medium | — | 4 | [ysx](https://hackerone.com/ysx) | 2017-04-06 |
-| 188 | [214034](../reports/214034.md) | Open redirect | Medium — CVSS 5.3 | — | 4 | [eadz](https://hackerone.com/eadz) | 2017-04-06 |
+| 187 | [214034](../reports/214034.md) | Open redirect | Medium — CVSS 5.3 | — | 4 | [eadz](https://hackerone.com/eadz) | 2017-04-06 |
+| 188 | [215970](../reports/215970.md) | [Repository Import] Open Redirect via "continue[to]" paramet | Medium | — | 4 | [ysx](https://hackerone.com/ysx) | 2017-04-06 |
 | 189 | [191216](../reports/191216.md) | SSRF via git Repo by URL Abuse | Medium — CVSS 6.6 | — | 3 | [oroborus](https://hackerone.com/oroborus) | 2017-11-28 |
 | 190 | [2523654](../reports/2523654.md) | Subdomain takeover in Gitlab pages | Low — CVSS 3.5 | — | 79 | [fdeleite](https://hackerone.com/fdeleite) | 2024-10-09 |
 | 191 | [2599840](../reports/2599840.md) | Remove obsolete domain from handbook subdomain | Low | — | 72 | [tefa_](https://hackerone.com/tefa_) | 2024-10-01 |
@@ -204,8 +204,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 198 | [439729](../reports/439729.md) | Add and Access to Labels of any Private Projects/Groups of G | Low | — | 26 | [indoappsec](https://hackerone.com/indoappsec) | 2019-09-19 |
 | 199 | [2097377](../reports/2097377.md) | Information Disclosure - Pvt Gitlab Issue Disclosing Through | Low | — | 26 | [mrrajputhacker2](https://hackerone.com/mrrajputhacker2) | 2023-09-13 |
 | 200 | [702987](../reports/702987.md) | No redirect_uri in the db for web-internal clientKey leads t | Low | — | 26 | [gregxsunday](https://hackerone.com/gregxsunday) | 2020-05-15 |
-| 201 | [477222](../reports/477222.md) | Last build status and coverage leaked to unauthorized users | Low | — | 24 | [xanbanx](https://hackerone.com/xanbanx) | 2019-09-01 |
-| 202 | [496973](../reports/496973.md) | Persistent XSS via e-mail when creating merge requests | Low | — | 24 | [mario-areias](https://hackerone.com/mario-areias) | 2019-08-30 |
+| 201 | [496973](../reports/496973.md) | Persistent XSS via e-mail when creating merge requests | Low | — | 24 | [mario-areias](https://hackerone.com/mario-areias) | 2019-08-30 |
+| 202 | [477222](../reports/477222.md) | Last build status and coverage leaked to unauthorized users | Low | — | 24 | [xanbanx](https://hackerone.com/xanbanx) | 2019-09-01 |
 | 203 | [882848](../reports/882848.md) | Possibilty to purchase Ultimate - 1 Year (EDU or OSS) | Low | — | 23 | [steppe](https://hackerone.com/steppe) | 2020-11-02 |
 | 204 | [265696](../reports/265696.md) | Gitlab is vulnerable to impersonation attacks due to broken  | Low | — | 20 | [b3nac](https://hackerone.com/b3nac) | 2017-09-06 |
 | 205 | [358001](../reports/358001.md) | HTML TAG INJECTION ON PROFILE NAME | Low | — | 18 | [rootbakar_](https://hackerone.com/rootbakar_) | 2018-07-27 |
@@ -232,8 +232,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 226 | [118024](../reports/118024.md) | Markdown based stored XSS (IE only) | None | — | 9 | [a0xnirudh](https://hackerone.com/a0xnirudh) | 2017-05-03 |
 | 227 | [129736](../reports/129736.md) | Persistent XSS on public project page | None | — | 8 | [jobert](https://hackerone.com/jobert) | 2016-05-03 |
 | 228 | [134305](../reports/134305.md) | Private snippets in public / internal projects leaked though | None | — | 7 | [jobert](https://hackerone.com/jobert) | 2016-05-03 |
-| 229 | [134292](../reports/134292.md) | Attacker can delete (and read) private project webhooks | None | — | 6 | [jobert](https://hackerone.com/jobert) | 2016-05-03 |
+| 229 | [134299](../reports/134299.md) | Attacker can post notes on private MR, snippets, and issues | None | — | 6 | [jobert](https://hackerone.com/jobert) | 2016-05-03 |
 | 230 | [133717](../reports/133717.md) | GFM renderer leaks external issue tracker URL of private pro | None | — | 6 | [jobert](https://hackerone.com/jobert) | 2017-06-08 |
-| 231 | [134299](../reports/134299.md) | Attacker can post notes on private MR, snippets, and issues | None | — | 6 | [jobert](https://hackerone.com/jobert) | 2016-05-03 |
+| 231 | [134292](../reports/134292.md) | Attacker can delete (and read) private project webhooks | None | — | 6 | [jobert](https://hackerone.com/jobert) | 2016-05-03 |
 | 232 | [134300](../reports/134300.md) | Confidential issues leaked in public projects when attached  | None | — | 5 | [jobert](https://hackerone.com/jobert) | 2016-05-03 |
 | 233 | [801973](../reports/801973.md) | Email notification about login email changed is not received | None | — | 3 | [shaileshpratapwar](https://hackerone.com/shaileshpratapwar) | 2020-03-25 |

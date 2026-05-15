@@ -21,8 +21,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 15 | [339987](../reports/339987.md) | [EE] Spoof the redirect process | Low | — | 7 | [flex0geek](https://hackerone.com/flex0geek) | 2018-04-20 |
 | 16 | [341992](../reports/341992.md) | Import File Converter - local File inclusion  | Low — CVSS 3.4 | — | 6 | [0xsp](https://hackerone.com/0xsp) | 2018-05-17 |
 | 17 | [149268](../reports/149268.md) | Arbitrary file upload when setting an avatar | None | — | 6 | [strukt](https://hackerone.com/strukt) | 2018-04-04 |
-| 18 | [149279](../reports/149279.md) | Arbitrary SQL query execution and reflected XSS in the "SQL  | None | — | 4 | [strukt](https://hackerone.com/strukt) | 2016-08-18 |
-| 19 | [177943](../reports/177943.md) | Reflective XSS | None | — | 4 | [hogarth45](https://hackerone.com/hogarth45) | 2017-09-29 |
+| 18 | [177943](../reports/177943.md) | Reflective XSS | None | — | 4 | [hogarth45](https://hackerone.com/hogarth45) | 2017-09-29 |
+| 19 | [149279](../reports/149279.md) | Arbitrary SQL query execution and reflected XSS in the "SQL  | None | — | 4 | [strukt](https://hackerone.com/strukt) | 2016-08-18 |
 | 20 | [20221](../reports/20221.md) | Cross Site Scripting (Stored)  | None | — | 2 | [charan-eis](https://hackerone.com/charan-eis) | 2014-09-30 |
 | 21 | [149273](../reports/149273.md) | Filename and directory enumeration | None | — | 2 | [strukt](https://hackerone.com/strukt) | 2016-08-08 |
 | 22 | [26482](../reports/26482.md) | Stored Cross-Site Scripting Vulnerability in /admin.php?/cp/ | None | — | 1 | [deadlock](https://hackerone.com/deadlock) | 2014-11-17 |
