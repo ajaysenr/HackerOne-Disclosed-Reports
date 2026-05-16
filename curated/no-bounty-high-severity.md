@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1635 total)
+# High/Critical Severity — No Bounty Paid (1636 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -1166,6 +1166,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [402473](../reports/402473.md) | Arbitrary File Download as Shopmanager | [Automattic](../by-program/automattic.md) | High | Resolved | 15 |
 | [380873](../reports/380873.md) | Prototype pollution attack (lodash / constructor.prototype) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.0 | Resolved | 15 |
 | [893970](../reports/893970.md) | Sensitive information about a ██████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 15 |
+| [3462991](../reports/3462991.md) | SQL Injection in Column Type Parameter Allows Arbitrary SQL Execu | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.2 | Resolved | 15 |
 | [1850065](../reports/1850065.md) | [█████] Bug Reports allow for Unrestricted File Upload | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 15 |
 | [210654](../reports/210654.md) | Bypass to postMessage origin validation via FTP | [Slack](../by-program/slack.md) | High — CVSS 8.1 | Resolved | 15 |
 | [330957](../reports/330957.md) | [pdfinfojs] Command Injection on filename parameter | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.8 | Resolved | 15 |

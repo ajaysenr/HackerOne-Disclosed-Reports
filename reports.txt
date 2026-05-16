@@ -9290,6 +9290,7 @@ https://hackerone.com/reports/3452696 | PS4 BD-J privilege escalation using nest
 https://hackerone.com/reports/3456148 | Unbounded decompression chain in HTTP responses on Node.js Fetch API via Content-Encoding leads to resource exhaustion
 https://hackerone.com/reports/3456295 | Uncatchable "Maximum call stack size exceeded" error on Node.js via async_hooks leads to process crashes bypassing error handlers
 https://hackerone.com/reports/3459285 | [Critical] Unauthorized Cross-Tenant Data Access in Stripo AI Hub Campaign via Deleted Project.
+https://hackerone.com/reports/3462991 | SQL Injection in Column Type Parameter Allows Arbitrary SQL Execution
 https://hackerone.com/reports/3463719 | ASLR leak in Mario Kart World through LAN mode
 https://hackerone.com/reports/3465156 | Node.js permission model bypass via unchecked Unix Domain Socket connections (UDS)
 https://hackerone.com/reports/3467641 | Unauthenticated access to private files on app.fizzy.do via Active Storage URLs leads to information disclosure
