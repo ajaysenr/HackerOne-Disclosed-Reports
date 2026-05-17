@@ -7888,6 +7888,7 @@ https://hackerone.com/reports/1609955 | Improper Access Control in Ali Express I
 https://hackerone.com/reports/1609965 | RCE via the DecompressedArchiveSizeValidator and Project BulkImports (behind feature flag)
 https://hackerone.com/reports/1610316 | Improper user validation on mentions and hashtags
 https://hackerone.com/reports/1613714 | Non-revoked API Key Information disclosure via Stripo_report()
+https://hackerone.com/reports/1613943 | CVE-2022-35252: control code in cookie denial of service
 https://hackerone.com/reports/1614328 | CVE-2022-32205: Set-Cookie denial of service
 https://hackerone.com/reports/1614330 | CVE-2022-32206: HTTP compression denial of service
 https://hackerone.com/reports/1614331 | CVE-2022-32207: Unpreserved file permissions
