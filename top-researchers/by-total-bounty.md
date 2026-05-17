@@ -2267,7 +2267,7 @@
 | 2263 | [r4d1kal](https://hackerone.com/r4d1kal) | 1 | $0 | 1 |
 | 2264 | [jakkdu](https://hackerone.com/jakkdu) | 2 | $0 | 14 |
 | 2265 | [talko](https://hackerone.com/talko) | 2 | $0 | 12 |
-| 2266 | [haxatron1](https://hackerone.com/haxatron1) | 11 | $0 | 84 |
+| 2266 | [haxatron1](https://hackerone.com/haxatron1) | 12 | $0 | 97 |
 | 2267 | [jatanvora](https://hackerone.com/jatanvora) | 1 | $0 | 3 |
 | 2268 | [arsene_lupin](https://hackerone.com/arsene_lupin) | 2 | $0 | 26 |
 | 2269 | [juhhga](https://hackerone.com/juhhga) | 2 | $0 | 13 |
