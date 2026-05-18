@@ -9437,7 +9437,10 @@ https://hackerone.com/reports/3707747 | libcurl 8.20.0 incomplete fix for CVE-20
 https://hackerone.com/reports/3708482 | wcurl treats some URL operands after -- as curl options
 https://hackerone.com/reports/3710209 | Potential Resource Leak in tool_parsecfg.c at line 279 during fileerror
 https://hackerone.com/reports/3712343 | MQTT CONNACK Packet Type Bypass leads to RCE via Malicious Broker
+https://hackerone.com/reports/3713682 | IDOR: autotranslate.translateMessage Full Message Content Leak
 https://hackerone.com/reports/3717365 | mbedTLS private-key blob null-termination asymmetry in lib/vtls/mbedtls.c (mbed_load_privkey)
 https://hackerone.com/reports/3721519 | Liberapay member team twitter account broken Link Hijacking via Expired Twitter Account Link
 https://hackerone.com/reports/3723002 | another liberapay member team twitter account broken Link Hijacking via Expired Twitter Account Link
 https://hackerone.com/reports/3725659 | Kerberos/SPNEGO Connection Reuse Vulnerability
+https://hackerone.com/reports/3734921 | Trailing-dot IPv4 URL bypasses IP-address guard, allows wildcard DNS SAN match
+https://hackerone.com/reports/3736234 | NULL pointer dereference in libcurl URL API redirect_url() with CURLU_DEFAULT_SCHEME

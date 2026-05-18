@@ -1,4 +1,4 @@
-# Weakness: NULL Pointer Dereference (28 reports)
+# Weakness: NULL Pointer Dereference (29 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -32,3 +32,4 @@
 | 26 | [215447](../reports/215447.md) | SIGSEGV in mrb_class | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 5 |
 | 27 | [217097](../reports/217097.md) | SIGSEGV in mrb_vm_exec | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 4 |
 | 28 | [217083](../reports/217083.md) | SIGSEGV in mrb_str_inum | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 4 |
+| 29 | [3736234](../reports/3736234.md) | NULL pointer dereference in libcurl URL API redirect_url() with C | [curl](../by-program/curl.md) | None | — | 2 |

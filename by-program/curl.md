@@ -1,4 +1,4 @@
-# curl — Disclosed Reports (224 total)
+# curl — Disclosed Reports (226 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -223,8 +223,10 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 217 | [3508854](../reports/3508854.md) | MQTT: unsigned integer underflow bypasses MAX_MQTT_MESSAGE_S | None | — | 4 | [0xshakib0x04](https://hackerone.com/0xshakib0x04) | 2026-01-13 |
 | 218 | [3651975](../reports/3651975.md) | SMTP Command Injection via CRLF in libcurl MAIL_FROM / MAIL_ | None | — | 4 | [divsz](https://hackerone.com/divsz) | 2026-04-06 |
 | 219 | [3725659](../reports/3725659.md) | Kerberos/SPNEGO Connection Reuse Vulnerability | None | — | 3 | [rootofpi_ramesh](https://hackerone.com/rootofpi_ramesh) | 2026-05-14 |
-| 220 | [627245](../reports/627245.md) | Integer overlow in "header_append" function | None | — | 2 | [invictus1306](https://hackerone.com/invictus1306) | 2021-02-08 |
-| 221 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | None | — | 1 | [danielmarjamaki](https://hackerone.com/danielmarjamaki) | 2021-02-08 |
-| 222 | [1590102](../reports/1590102.md) | KRB-FTP: Security level downgrade | None | — | 1 | [nyymi](https://hackerone.com/nyymi) | 2022-06-05 |
-| 223 | [1019372](../reports/1019372.md) | Parallel upload hangs curl if upload file not found | None | — | 1 | [brumbrum](https://hackerone.com/brumbrum) | 2020-10-29 |
-| 224 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL against  | None | — | 0 | [lersek](https://hackerone.com/lersek) | 2021-01-08 |
+| 220 | [3734921](../reports/3734921.md) | Trailing-dot IPv4 URL bypasses IP-address guard, allows wild | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-17 |
+| 221 | [3736234](../reports/3736234.md) | NULL pointer dereference in libcurl URL API redirect_url() w | None | — | 2 | [mulan_dh](https://hackerone.com/mulan_dh) | 2026-05-17 |
+| 222 | [627245](../reports/627245.md) | Integer overlow in "header_append" function | None | — | 2 | [invictus1306](https://hackerone.com/invictus1306) | 2021-02-08 |
+| 223 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | None | — | 1 | [danielmarjamaki](https://hackerone.com/danielmarjamaki) | 2021-02-08 |
+| 224 | [1590102](../reports/1590102.md) | KRB-FTP: Security level downgrade | None | — | 1 | [nyymi](https://hackerone.com/nyymi) | 2022-06-05 |
+| 225 | [1019372](../reports/1019372.md) | Parallel upload hangs curl if upload file not found | None | — | 1 | [brumbrum](https://hackerone.com/brumbrum) | 2020-10-29 |
+| 226 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL against  | None | — | 0 | [lersek](https://hackerone.com/lersek) | 2021-01-08 |
