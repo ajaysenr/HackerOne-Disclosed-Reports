@@ -1,4 +1,4 @@
-# GitHub — Disclosed Reports (25 total)
+# GitHub — Disclosed Reports (26 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -28,4 +28,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 22 | [2357443](../reports/2357443.md) | RC Between GitHub's Repo Update REST API and updateTeamsRepo | Medium | — | 49 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
 | 23 | [1938106](../reports/1938106.md) | Smuggling content in PR with refs/replace in GitHub | Medium | — | 34 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2023-08-01 |
 | 24 | [1762025](../reports/1762025.md) | Improper handling of null bytes in GitHub Actions Runner all | Medium | — | 19 | [ryotak](https://hackerone.com/ryotak) | 2023-03-09 |
-| 25 | [2383092](../reports/2383092.md) | Source Code and data exfiltration via Github Copilot | Low | — | 63 | [astrounder](https://hackerone.com/astrounder) | 2024-08-19 |
+| 25 | [3560256](../reports/3560256.md) | Cross-repository IDOR in `/settings/security_analysis/bypass | Medium | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-05-19 |
+| 26 | [2383092](../reports/2383092.md) | Source Code and data exfiltration via Github Copilot | Low | — | 63 | [astrounder](https://hackerone.com/astrounder) | 2024-08-19 |

@@ -1,4 +1,4 @@
-# Weakness: Allocation of Resources Without Limits or Throttling (16 reports)
+# Weakness: Allocation of Resources Without Limits or Throttling (17 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -20,3 +20,4 @@
 | 14 | [1886139](../reports/1886139.md) | HTTP multi-header compression denial of service | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.3 | — | 5 |
 | 15 | [1085079](../reports/1085079.md) | No Limit on Email Subscription | [OpenMage](../by-program/openmage.md) | Low | — | 12 |
 | 16 | [3089595](../reports/3089595.md) | Memory leak from doh_write_cb | [curl](../by-program/curl.md) | None | — | 9 |
+| 17 | [3735080](../reports/3735080.md) | libssh SFTP initialization ignores CURLOPT_TIMEOUT, hangs indefin | [curl](../by-program/curl.md) | None | — | 5 |

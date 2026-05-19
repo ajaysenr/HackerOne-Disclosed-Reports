@@ -9343,6 +9343,7 @@ https://hackerone.com/reports/3556892 | HTML Injection in DAST Trial Request For
 https://hackerone.com/reports/3557138 | Arbitrary Code Execution via Scanner Bypass in **aws-diagram-mcp-server** `exec()` Namespace
 https://hackerone.com/reports/3558277 | Fail-Open in set_tlsext_servername_callback on pyopenssl via unhandled exceptions leads to security bypass
 https://hackerone.com/reports/3559715 | Node.js Permission Model bypass: UDS server bind/listen works without `--allow-net`
+https://hackerone.com/reports/3560256 | Cross-repository IDOR in `/settings/security_analysis/bypass_reviewers` allows unauthorized delegated bypass reviewer modification
 https://hackerone.com/reports/3560402 | Denial of Service via `__proto__` header name in `req.headersDistinct` (Uncaught `TypeError` crashes Node.js process)
 https://hackerone.com/reports/3564655 | Complete authentication bypass to admin permissions
 https://hackerone.com/reports/3574928 | Able to bypass HSTS using trailing dot
@@ -9359,6 +9360,7 @@ https://hackerone.com/reports/3584149 | SSTI leads to Command injection
 https://hackerone.com/reports/3584491 | LM Challenge-Response Hash Always Sent in SMB Authentication
 https://hackerone.com/reports/3584865 | In curl's SASL OAUTHBEARER authentication, including the SOH character (0x01) in the username corrupts the message structure.
 https://hackerone.com/reports/3584903 | CVE-2026-3784: wrong proxy connection reuse with credentials
+https://hackerone.com/reports/3589247 | Unauthenticated File Upload to CDN
 https://hackerone.com/reports/3589551 | RBAC bypass on App log endpoints via `permissionRequired` typo — any authenticated user reads admin-only Enterprise App logs
 https://hackerone.com/reports/3590576 | SMIL values and by attributes bypass remote image blocking via unvalidated resource-loading animations, enabling email tracking without consent
 https://hackerone.com/reports/3590583 | Unquoted body background attribute enables CSS injection that bypasses remote image blocking
@@ -9442,5 +9444,10 @@ https://hackerone.com/reports/3717365 | mbedTLS private-key blob null-terminatio
 https://hackerone.com/reports/3721519 | Liberapay member team twitter account broken Link Hijacking via Expired Twitter Account Link
 https://hackerone.com/reports/3723002 | another liberapay member team twitter account broken Link Hijacking via Expired Twitter Account Link
 https://hackerone.com/reports/3725659 | Kerberos/SPNEGO Connection Reuse Vulnerability
+https://hackerone.com/reports/3733934 | CURLOPT_HSTS_CTRL disables shared HSTS without share guard — use-after-free and double-free
+https://hackerone.com/reports/3733984 | HSTS multi-trailing-dot bypass-ish: possible incomplete fix for CVE-2022-30115
 https://hackerone.com/reports/3734921 | Trailing-dot IPv4 URL bypasses IP-address guard, allows wildcard DNS SAN match
+https://hackerone.com/reports/3734935 | rustls backend silently ignores CURLOPT_CRLFILE when native CA store is active
+https://hackerone.com/reports/3735080 | libssh SFTP initialization ignores CURLOPT_TIMEOUT, hangs indefinitely
+https://hackerone.com/reports/3735238 | cookie: case-insensitive path comparison in replace_existing() allows cookie eviction across distinct paths
 https://hackerone.com/reports/3736234 | NULL pointer dereference in libcurl URL API redirect_url() with CURLU_DEFAULT_SCHEME
