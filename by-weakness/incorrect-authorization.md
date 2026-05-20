@@ -1,4 +1,4 @@
-# Weakness: Incorrect Authorization (8 reports)
+# Weakness: Incorrect Authorization (9 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -12,3 +12,4 @@
 | 6 | [3584903](../reports/3584903.md) | CVE-2026-3784: wrong proxy connection reuse with credentials | [curl](../by-program/curl.md) | Low | — | 30 |
 | 7 | [448078](../reports/448078.md) | A user can request a report to be retested even though the progra | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | — | 27 |
 | 8 | [2109382](../reports/2109382.md) | Support Tickets can be created on behalf of other users using spo | [HackerOne](../by-program/security.md) | None | — | 18 |
+| 9 | [3741135](../reports/3741135.md) | Connection reuse ignores haproxyprotocol and HAPROXY_CLIENT_IP se | [curl](../by-program/curl.md) | None | — | 3 |

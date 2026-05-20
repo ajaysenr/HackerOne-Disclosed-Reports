@@ -9446,8 +9446,16 @@ https://hackerone.com/reports/3723002 | another liberapay member team twitter ac
 https://hackerone.com/reports/3725659 | Kerberos/SPNEGO Connection Reuse Vulnerability
 https://hackerone.com/reports/3733934 | CURLOPT_HSTS_CTRL disables shared HSTS without share guard — use-after-free and double-free
 https://hackerone.com/reports/3733984 | HSTS multi-trailing-dot bypass-ish: possible incomplete fix for CVE-2022-30115
+https://hackerone.com/reports/3734020 | HTTP/2 proxy CONNECT tunnel unbounded 1xx chain (missing Curl_bump_headersize cap in cf-h2-proxy.c)
+https://hackerone.com/reports/3734095 | TLS verifyhost bypass in rustls, mbedTLS, and wolfSSL when verifypeer=0
 https://hackerone.com/reports/3734921 | Trailing-dot IPv4 URL bypasses IP-address guard, allows wildcard DNS SAN match
 https://hackerone.com/reports/3734935 | rustls backend silently ignores CURLOPT_CRLFILE when native CA store is active
+https://hackerone.com/reports/3734947 | HTTP/3 paused transfer buffers incoming data without bound up to ~1 GiB
+https://hackerone.com/reports/3734992 | Schannel custom-CA path skips Extended Key Usage enforcement
 https://hackerone.com/reports/3735080 | libssh SFTP initialization ignores CURLOPT_TIMEOUT, hangs indefinitely
+https://hackerone.com/reports/3735179 | CURLOPT_PROXY_CAINFO_BLOB silently activates native CA store on Apple builds
 https://hackerone.com/reports/3735238 | cookie: case-insensitive path comparison in replace_existing() allows cookie eviction across distinct paths
+https://hackerone.com/reports/3735276 | TLS peer-verification bypass via mid-transfer ssl_config mutation
 https://hackerone.com/reports/3736234 | NULL pointer dereference in libcurl URL API redirect_url() with CURLU_DEFAULT_SCHEME
+https://hackerone.com/reports/3739561 | SSL session-cache peer key omits signature_algorithms: strict-sigalg handle silently resumes a permissive sibling's session
+https://hackerone.com/reports/3741135 | Connection reuse ignores haproxyprotocol and HAPROXY_CLIENT_IP settings, allowing PROXY context to persist across transfers
