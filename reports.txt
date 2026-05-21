@@ -9421,9 +9421,11 @@ https://hackerone.com/reports/3665363 | Integer Overflow/Signedness Mismatch in 
 https://hackerone.com/reports/3666576 | Negotiate Authentication Premature on Connection Reuse
 https://hackerone.com/reports/3669305 | Argument Injection via curl Short-Flag Grouping
 https://hackerone.com/reports/3669637 | CVE-2026-6253: proxy credentials leak over redirect-to proxy
+https://hackerone.com/reports/3670955 | HMAC signature verification omits endpoint and payload allowing request forgery on CoinMate API
 https://hackerone.com/reports/3671818 | CVE-2026-6276: stale custom cookie host causes cookie leak
 https://hackerone.com/reports/3673277 | libcurl stale CURLOPT_AUTOREFERER leaks a previous request URL to a different origin on a reused easy handle
 https://hackerone.com/reports/3674275 | lib/http2.c: SSL connections accept non-HTTP push schemes (incomplete fix for 2e8c922a)
+https://hackerone.com/reports/3676308 | POST /api/bitcoinWithdrawalFees returns financial data without authentication despite being documented as a USER OPERATION (private endpoint)
 https://hackerone.com/reports/3677759 | CVE-2026-6429: netrc credential leak with reused proxy connection
 https://hackerone.com/reports/3679660 | mruby-engine: UAF in MRubyEngine#initialize enables local RCE
 https://hackerone.com/reports/3680038 | Digest Auth State Leak on Cross-Origin Redirect via Netrc - Username and Password Hash Sent to Wrong Host
@@ -9445,6 +9447,7 @@ https://hackerone.com/reports/3721519 | Liberapay member team twitter account br
 https://hackerone.com/reports/3723002 | another liberapay member team twitter account broken Link Hijacking via Expired Twitter Account Link
 https://hackerone.com/reports/3725659 | Kerberos/SPNEGO Connection Reuse Vulnerability
 https://hackerone.com/reports/3733934 | CURLOPT_HSTS_CTRL disables shared HSTS without share guard — use-after-free and double-free
+https://hackerone.com/reports/3733946 | Credentials forwarded to HTTP after HTTPS→HTTP same-port redirect — url_set_data_creds uses scheme-blind comparator
 https://hackerone.com/reports/3733984 | HSTS multi-trailing-dot bypass-ish: possible incomplete fix for CVE-2022-30115
 https://hackerone.com/reports/3734020 | HTTP/2 proxy CONNECT tunnel unbounded 1xx chain (missing Curl_bump_headersize cap in cf-h2-proxy.c)
 https://hackerone.com/reports/3734095 | TLS verifyhost bypass in rustls, mbedTLS, and wolfSSL when verifypeer=0
@@ -9459,3 +9462,4 @@ https://hackerone.com/reports/3735276 | TLS peer-verification bypass via mid-tra
 https://hackerone.com/reports/3736234 | NULL pointer dereference in libcurl URL API redirect_url() with CURLU_DEFAULT_SCHEME
 https://hackerone.com/reports/3739561 | SSL session-cache peer key omits signature_algorithms: strict-sigalg handle silently resumes a permissive sibling's session
 https://hackerone.com/reports/3741135 | Connection reuse ignores haproxyprotocol and HAPROXY_CLIENT_IP settings, allowing PROXY context to persist across transfers
+https://hackerone.com/reports/3747959 | curl --skip-existing has a TOCTOU race that lets a post-check symlink redirect the later download write

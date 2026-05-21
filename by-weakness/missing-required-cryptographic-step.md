@@ -1,4 +1,4 @@
-# Weakness: Missing Required Cryptographic Step (5 reports)
+# Weakness: Missing Required Cryptographic Step (6 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -9,3 +9,4 @@
 | 3 | [3516974](../reports/3516974.md) | SSL options ISSUERCERT, EC_CURVES and CRLFILE silently ignored by | [curl](../by-program/curl.md) | Medium | — | 31 |
 | 4 | [3574928](../reports/3574928.md) | Able to bypass HSTS using trailing dot | [curl](../by-program/curl.md) | Medium | — | 22 |
 | 5 | [1334111](../reports/1334111.md) | CVE-2021-22946: Protocol downgrade required TLS bypassed | [curl](../by-program/curl.md) | Medium — CVSS 6.5 | — | 10 |
+| 6 | [3670955](../reports/3670955.md) | HMAC signature verification omits endpoint and payload allowing r | [CoinMate.io](../by-program/coinmate.md) | Low | — | 13 |
