@@ -9346,6 +9346,7 @@ https://hackerone.com/reports/3559715 | Node.js Permission Model bypass: UDS ser
 https://hackerone.com/reports/3560256 | Cross-repository IDOR in `/settings/security_analysis/bypass_reviewers` allows unauthorized delegated bypass reviewer modification
 https://hackerone.com/reports/3560402 | Denial of Service via `__proto__` header name in `req.headersDistinct` (Uncaught `TypeError` crashes Node.js process)
 https://hackerone.com/reports/3564655 | Complete authentication bypass to admin permissions
+https://hackerone.com/reports/3572848 | Group restriction bypass via bearer token in user_oidc (SETTING_RESTRICT_LOGIN_TO_GROUPS not enforced in Backend::getCurrentUserId)
 https://hackerone.com/reports/3574928 | Able to bypass HSTS using trailing dot
 https://hackerone.com/reports/3575245 | Integer Overflow in curl_multi_get_handles() Leading to Heap Buffer Overflow
 https://hackerone.com/reports/3575250 | RTSP RTP Interleaved Parser Assertion Failure (Zero-Length RTP Payload)
