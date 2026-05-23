@@ -7898,6 +7898,7 @@ https://hackerone.com/reports/1615790 | Any expired reset password link can stil
 https://hackerone.com/reports/1618021 | Enable 2Fa verification without verifying email
 https://hackerone.com/reports/1618347 | Disclosing  PolicyPageAssetGroup in Private Programs via /graphql `gid://hackerone/PolicyPageAssetGroupsIndex::PolicyPageAssetGroup/{id}`
 https://hackerone.com/reports/1619536 | xmlrpc.php file enabled at ██████.org
+https://hackerone.com/reports/1619604 | DoS via markdown API from unauthenticated user
 https://hackerone.com/reports/1620170 | DOS: out of memory from gif through upload api
 https://hackerone.com/reports/1620247 | Stored XSS at https://█████
 https://hackerone.com/reports/1620702 | RCE  on ingress-nginx-controller via Ingress spec.rules.http.paths.path field
