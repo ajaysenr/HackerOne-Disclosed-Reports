@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1636 total)
+# High/Critical Severity — No Bounty Paid (1638 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -1481,6 +1481,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [794407](../reports/794407.md) | nextcloud-snap CircleCI project has vulnerable configuration whic | [Nextcloud](../by-program/nextcloud.md) | High | Resolved | 5 |
 | [183231](../reports/183231.md) | SIGSEGV on mruby mrb_str_modify() (Invalid memory access) | [shopify-scripts](../by-program/shopify-scripts.md) | High | Resolved | 5 |
 | [319480](../reports/319480.md) | Broken Authentication: A project addition request can be used mul | [Semrush](../by-program/semrush.md) | High | Informative | 5 |
+| [3736889](../reports/3736889.md) | NULL pointer dereference in node:sqlite DatabaseSync#applyChanges | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | Informative | 5 |
 | [170052](../reports/170052.md) | AWS Signature Disclosure in www.digitalsellz.com allows access to | [DigitalSellz](../by-program/digitalsellz.md) | High | Resolved | 5 |
 | [878339](../reports/878339.md) | [extend-merge] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | Resolved | 5 |
 | [362119](../reports/362119.md) | Arbitrary File Write through archive extraction | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.2 | Resolved | 5 |
@@ -1537,6 +1538,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [263718](../reports/263718.md) | Wordpress 4.8.1 - Rogue editor leads to RCE. And the risks of sam | [WordPress](../by-program/wordpress.md) | High | Informative | 4 |
 | [1147611](../reports/1147611.md) | DoS due to improper input validation can break the admin access i | [Nextcloud](../by-program/nextcloud.md) | High | Resolved | 4 |
 | [2104564](../reports/2104564.md) | (CVE-2023-32004) Permission model bypass by specifying a path tra | [Internet Bug Bounty](../by-program/ibb.md) | High | Resolved | 4 |
+| [3752489](../reports/3752489.md) | Memory Corruption via TOCTOU Race in SharedArrayBuffer UTF-8 Deco | [Node.js](../by-program/nodejs.md) | High — CVSS 7.0 | Informative | 4 |
 | [245221](../reports/245221.md) | null pointer dereference and segfault in tile-count-merge | [Mapbox](../by-program/mapbox.md) | High | Resolved | 4 |
 | [312918](../reports/312918.md) | [public] Path Traversal allows to read content of arbitrary files | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | Resolved | 4 |
 | [1583680](../reports/1583680.md) | Undici does not use CONNECT or otherwise validate upstream HTTPS  | [Node.js](../by-program/nodejs.md) | High — CVSS 7.4 | Resolved | 4 |

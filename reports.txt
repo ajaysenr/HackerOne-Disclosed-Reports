@@ -9463,6 +9463,8 @@ https://hackerone.com/reports/3735179 | CURLOPT_PROXY_CAINFO_BLOB silently activ
 https://hackerone.com/reports/3735238 | cookie: case-insensitive path comparison in replace_existing() allows cookie eviction across distinct paths
 https://hackerone.com/reports/3735276 | TLS peer-verification bypass via mid-transfer ssl_config mutation
 https://hackerone.com/reports/3736234 | NULL pointer dereference in libcurl URL API redirect_url() with CURLU_DEFAULT_SCHEME
+https://hackerone.com/reports/3736889 | NULL pointer dereference in node:sqlite DatabaseSync#applyChangeset() via malformed SQLite changeset
 https://hackerone.com/reports/3739561 | SSL session-cache peer key omits signature_algorithms: strict-sigalg handle silently resumes a permissive sibling's session
 https://hackerone.com/reports/3741135 | Connection reuse ignores haproxyprotocol and HAPROXY_CLIENT_IP settings, allowing PROXY context to persist across transfers
 https://hackerone.com/reports/3747959 | curl --skip-existing has a TOCTOU race that lets a post-check symlink redirect the later download write
+https://hackerone.com/reports/3752489 | Memory Corruption via TOCTOU Race in SharedArrayBuffer UTF-8 Decode (`StringBytes::Encode`)
