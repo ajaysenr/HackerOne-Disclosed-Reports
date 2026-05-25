@@ -15,7 +15,7 @@ A structured, auto-updated database of publicly disclosed HackerOne vulnerabilit
 | **Medium** | 2,614 |
 | **Low** | 1,751 |
 
-*Last Updated: May 24, 2026 at 12:46 AM EST*
+*Last Updated: May 25, 2026 at 01:00 AM EST*
 
 ## 📁 Browse
 
