@@ -1345,7 +1345,7 @@
 | 1341 | [notahackman](https://hackerone.com/notahackman) | 1 | $0 | 6 |
 | 1342 | [rockrzhackr9z](https://hackerone.com/rockrzhackr9z) | 3 | $0 | 340 |
 | 1343 | [flyink](https://hackerone.com/flyink) | 2 | $0 | 13 |
-| 1344 | [deb0con](https://hackerone.com/deb0con) | 6 | $0 | 241 |
+| 1344 | [deb0con](https://hackerone.com/deb0con) | 7 | $0 | 269 |
 | 1345 | [konqi](https://hackerone.com/konqi) | 2 | $0 | 24 |
 | 1346 | [wiloos](https://hackerone.com/wiloos) | 1 | $0 | 23 |
 | 1347 | [sadhu16](https://hackerone.com/sadhu16) | 6 | $0 | 27 |

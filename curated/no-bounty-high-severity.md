@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1639 total)
+# High/Critical Severity — No Bounty Paid (1640 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -262,6 +262,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [654888](../reports/654888.md) | OS Command Injection in Nexus Repository Manager 2.x | [Central Security Project](../by-program/central-security-project.md) | Critical — CVSS 9.1 | Resolved | 28 |
 | [919175](../reports/919175.md) | HTTP request smuggling on Basecamp 2 allows web cache poisoning | [Basecamp](../by-program/basecamp.md) | Critical | Resolved | 28 |
 | [332632](../reports/332632.md) | (Possible) staff account takeover via reset token bruteforce at h | [BOHEMIA INTERACTIVE a.s.](../by-program/bohemia.md) | Critical | Resolved | 28 |
+| [1622432](../reports/1622432.md) | [SSRF] my.stripo.email via the setup-wizard parameter | [Stripo Inc](../by-program/stripo.md) | Critical | Resolved | 28 |
 | [3516186](../reports/3516186.md) | Cookie Max-Age Integer Overflow Vulnerability | [curl](../by-program/curl.md) | Critical | Not Applicable | 28 |
 | [728614](../reports/728614.md) | [HTAF4-213] [Pre-submission] Unsafe AMF deserialization (CVE-2017 | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical — CVSS 10.0 | Resolved | 28 |
 | [2266081](../reports/2266081.md) | Blind SQL Injection on █████ via URI Path | [Mars](../by-program/mars.md) | Critical — CVSS 9.6 | Resolved | 28 |
