@@ -7902,6 +7902,7 @@ https://hackerone.com/reports/1619604 | DoS via markdown API from unauthenticate
 https://hackerone.com/reports/1620170 | DOS: out of memory from gif through upload api
 https://hackerone.com/reports/1620247 | Stored XSS at https://█████
 https://hackerone.com/reports/1620702 | RCE  on ingress-nginx-controller via Ingress spec.rules.http.paths.path field
+https://hackerone.com/reports/1622432 | [SSRF] my.stripo.email via the setup-wizard parameter
 https://hackerone.com/reports/1622449 | June 2022 Incident Report
 https://hackerone.com/reports/1622624 | Public Apache Tomcat /examples example directory
 https://hackerone.com/reports/1622867 | xmlrpc.php FILE IS enable it will used for Bruteforce attack and Denial of Service(DoS)
