@@ -7907,6 +7907,8 @@ https://hackerone.com/reports/1622449 | June 2022 Incident Report
 https://hackerone.com/reports/1622624 | Public Apache Tomcat /examples example directory
 https://hackerone.com/reports/1622867 | xmlrpc.php FILE IS enable it will used for Bruteforce attack and Denial of Service(DoS)
 https://hackerone.com/reports/1623175 | Node 18 reads openssl.cnf from /home/iojs/build/... upon startup.
+https://hackerone.com/reports/1623672 | Host header injection leads to account takeover
+https://hackerone.com/reports/1623685 | SSRF ACCESS AWS METADATA - █████
 https://hackerone.com/reports/1624137 | LOGJ4 VUlnerability [HtUS]
 https://hackerone.com/reports/1624140 | SSRF to read AWS metaData at https://█████/ [HtUS]
 https://hackerone.com/reports/1624152 | insecure gitlab repositories at ████████ [HtUS]
