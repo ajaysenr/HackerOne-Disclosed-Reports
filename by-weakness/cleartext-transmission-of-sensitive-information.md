@@ -16,8 +16,8 @@
 | 10 | [1987680](../reports/1987680.md) | Leaking VPN traffic through non-RFC1918 local IP addresses | [Mozilla](../by-program/mozilla.md) | Medium | — | 49 |
 | 11 | [3000639](../reports/3000639.md) | curl doesn't hide credentials in /proc/XXX/cmdline provided via C | [curl](../by-program/curl.md) | Medium | — | 13 |
 | 12 | [1753226](../reports/1753226.md) | CVE-2022-42916: HSTS bypass via IDN | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 12 |
-| 13 | [1813831](../reports/1813831.md) | CVE-2022-43551: Another HSTS bypass via IDN | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 10 |
-| 14 | [1565622](../reports/1565622.md) | CVE-2022-30115: HSTS bypass via trailing dot | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 10 |
+| 13 | [1565622](../reports/1565622.md) | CVE-2022-30115: HSTS bypass via trailing dot | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 10 |
+| 14 | [1813831](../reports/1813831.md) | CVE-2022-43551: Another HSTS bypass via IDN | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 10 |
 | 15 | [1213181](../reports/1213181.md) | CVE-2021-22923: Metalink download sends credentials | [curl](../by-program/curl.md) | Medium | — | 4 |
 | 16 | [741549](../reports/741549.md) | Lack of HTTPS in service communications | [Clario](../by-program/clario.md) | Medium — CVSS 4.6 | — | 3 |
 | 17 | [3733984](../reports/3733984.md) | HSTS multi-trailing-dot bypass-ish: possible incomplete fix for C | [curl](../by-program/curl.md) | Medium | — | 3 |

@@ -24,17 +24,17 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 18 | [1108125](../reports/1108125.md) | DNS Misconfiguration (Subdomain Takeover) █.staging.█.8x8.co | High | — | 11 | [melbadry9](https://hackerone.com/melbadry9) | 2021-02-28 |
 | 19 | [1101877](../reports/1101877.md) | DNS Misconfiguration (Subdomain Takeover) ███████.8x8.com | High — CVSS 7.1 | — | 10 | [melbadry9](https://hackerone.com/melbadry9) | 2021-02-12 |
 | 20 | [840688](../reports/840688.md) | Send Phishing/Spam email from support@sameroom.io to any ema | High | — | 9 | [wisp](https://hackerone.com/wisp) | 2020-08-05 |
-| 21 | [418271](../reports/418271.md) | Stored XSS agent_status  | High | — | 4 | [madrobot](https://hackerone.com/madrobot) | 2020-06-09 |
-| 22 | [418267](../reports/418267.md) | Bypass Email activation on http://axa.dxi.eu | High | — | 4 | [madrobot](https://hackerone.com/madrobot) | 2020-06-09 |
+| 21 | [418267](../reports/418267.md) | Bypass Email activation on http://axa.dxi.eu | High | — | 4 | [madrobot](https://hackerone.com/madrobot) | 2020-06-09 |
+| 22 | [418271](../reports/418271.md) | Stored XSS agent_status  | High | — | 4 | [madrobot](https://hackerone.com/madrobot) | 2020-06-09 |
 | 23 | [1875484](../reports/1875484.md) | connect.8x8.com: Blind SSRF via /api/v2/chats/image-check al | Medium | — | 63 | [yassinek3ch](https://hackerone.com/yassinek3ch) | 2023-05-15 |
 | 24 | [770513](../reports/770513.md) | Reflected xss on 8x8.com subdomain | Medium — CVSS 6.4 | — | 43 | [n0x496n](https://hackerone.com/n0x496n) | 2020-02-12 |
 | 25 | [1895783](../reports/1895783.md) | Unprotected Atlantis Server at https://132.226.█.█ | Medium | — | 42 | [imranhudaa](https://hackerone.com/imranhudaa) | 2023-09-15 |
 | 26 | [1417635](../reports/1417635.md) | Default credentials lead to Spring Boot Admin dashboard acce | Medium | — | 27 | [sparroww](https://hackerone.com/sparroww) | 2022-01-02 |
-| 27 | [1418101](../reports/1418101.md) | Exposed kubernetes dashboard | Medium | — | 22 | [bugkill3r](https://hackerone.com/bugkill3r) | 2021-12-09 |
-| 28 | [692116](../reports/692116.md) | Access to ██████████████ due to weak credentials | Medium | — | 22 | [kingragnar](https://hackerone.com/kingragnar) | 2020-01-08 |
+| 27 | [692116](../reports/692116.md) | Access to ██████████████ due to weak credentials | Medium | — | 22 | [kingragnar](https://hackerone.com/kingragnar) | 2020-01-08 |
+| 28 | [1418101](../reports/1418101.md) | Exposed kubernetes dashboard | Medium | — | 22 | [bugkill3r](https://hackerone.com/bugkill3r) | 2021-12-09 |
 | 29 | [1280167](../reports/1280167.md) | DNS Misconfiguration (Subdomain Takeover)  - █████████.8x8.c | Medium | — | 18 | [melbadry9](https://hackerone.com/melbadry9) | 2021-07-30 |
-| 30 | [1622624](../reports/1622624.md) | Public Apache Tomcat /examples example directory | Medium | — | 17 | [mr-k0anti](https://hackerone.com/mr-k0anti) | 2022-07-18 |
-| 31 | [1364022](../reports/1364022.md) | Authentication Bypass & ApacheTomcat Misconfiguration in [██ | Medium | — | 17 | [thecyberguy0](https://hackerone.com/thecyberguy0) | 2021-11-04 |
+| 30 | [1364022](../reports/1364022.md) | Authentication Bypass & ApacheTomcat Misconfiguration in [██ | Medium | — | 17 | [thecyberguy0](https://hackerone.com/thecyberguy0) | 2021-11-04 |
+| 31 | [1622624](../reports/1622624.md) | Public Apache Tomcat /examples example directory | Medium | — | 17 | [mr-k0anti](https://hackerone.com/mr-k0anti) | 2022-07-18 |
 | 32 | [878434](../reports/878434.md) | vidyard api auth_token exposed | Medium | — | 12 | [stilou](https://hackerone.com/stilou) | 2020-12-15 |
 | 33 | [413115](../reports/413115.md) | CRLF injection agentcrm.8x8.com | Medium | — | 12 | [w2w](https://hackerone.com/w2w) | 2020-06-26 |
 | 34 | [1392733](../reports/1392733.md) | xss(r) vcc-na11.8x8.com | Medium | — | 7 | [ssharmaz](https://hackerone.com/ssharmaz) | 2023-07-10 |

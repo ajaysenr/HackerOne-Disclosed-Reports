@@ -52,8 +52,8 @@
 | 46 | [948146](../reports/948146.md) | Rate limiting on report video | [TikTok](../by-program/tiktok.md) | Low | — | 22 |
 | 47 | [1165225](../reports/1165225.md) | [dubsmash] Username and password bruteforce | [Reddit](../by-program/reddit.md) | Low — CVSS 3.9 | — | 18 |
 | 48 | [1894653](../reports/1894653.md) | Missing brute force protection for passwords of password protecte | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.1 | — | 17 |
-| 49 | [412526](../reports/412526.md) | No rate limit in stats api token endpoint | [Chaturbate](../by-program/chaturbate.md) | Low | — | 15 |
-| 50 | [2039447](../reports/2039447.md) | Entering passwords on the Share Login Page can lead to a brute-fo | [Automattic](../by-program/automattic.md) | Low | — | 15 |
+| 49 | [2039447](../reports/2039447.md) | Entering passwords on the Share Login Page can lead to a brute-fo | [Automattic](../by-program/automattic.md) | Low | — | 15 |
+| 50 | [412526](../reports/412526.md) | No rate limit in stats api token endpoint | [Chaturbate](../by-program/chaturbate.md) | Low | — | 15 |
 | 51 | [413505](../reports/413505.md) | No rate limit in affiliate statsapi endpoint | [Chaturbate](../by-program/chaturbate.md) | Low | — | 14 |
 | 52 | [229825](../reports/229825.md) | Rate Limit Issue on hosted.weblate.org | [Weblate](../by-program/weblate.md) | Low | — | 10 |
 | 53 | [1165285](../reports/1165285.md) | No Rate limit on change password leads to account takeover | [Reddit](../by-program/reddit.md) | Low | — | 8 |

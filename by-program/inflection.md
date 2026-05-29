@@ -18,8 +18,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 12 | [280803](../reports/280803.md) | Fake mailing reports using mail service on [URL : mail-txn.i | Low | — | 9 | [namansahore](https://hackerone.com/namansahore) | 2017-10-25 |
 | 13 | [296094](../reports/296094.md) | Reflected Cross-site Scripting Vulnerability via JSON Error  | Low — CVSS 3.7 | — | 7 | [cosmopolitan_fi](https://hackerone.com/cosmopolitan_fi) | 2018-02-09 |
 | 14 | [277078](../reports/277078.md) | Goodhire Open Redirect | None | — | 11 | [protector47](https://hackerone.com/protector47) | 2017-12-20 |
-| 15 | [277377](../reports/277377.md) | Amount Manipulation Buy Unlimited Credits in just $1.00 | None | — | 7 | [anonymousmian](https://hackerone.com/anonymousmian) | 2017-11-01 |
-| 16 | [280914](../reports/280914.md) | Business Logic Flaw allowing Privilege Escalation | None | — | 7 | [zs75](https://hackerone.com/zs75) | 2017-11-29 |
+| 15 | [280914](../reports/280914.md) | Business Logic Flaw allowing Privilege Escalation | None | — | 7 | [zs75](https://hackerone.com/zs75) | 2017-11-29 |
+| 16 | [277377](../reports/277377.md) | Amount Manipulation Buy Unlimited Credits in just $1.00 | None | — | 7 | [anonymousmian](https://hackerone.com/anonymousmian) | 2017-11-01 |
 | 17 | [277354](../reports/277354.md) | HTTP Host Header Injection on app.goodhire.com | None | — | 5 | [anonymousmian](https://hackerone.com/anonymousmian) | 2017-11-01 |
 | 18 | [277192](../reports/277192.md) | Host Header Injection and Cache Poisoning | None | — | 4 | [kiddie](https://hackerone.com/kiddie) | 2017-10-24 |
 | 19 | [281449](../reports/281449.md) | Limited Account Takeover via Backup codes  | None | — | 3 | [gopalsingh27](https://hackerone.com/gopalsingh27) | 2017-10-26 |

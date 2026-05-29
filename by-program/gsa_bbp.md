@@ -37,8 +37,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 31 | [262649](../reports/262649.md) | Information disclosure (system username) in the x-amz-meta-s | Low | — | 23 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-16 |
 | 32 | [374907](../reports/374907.md) | Root user disclosure in data.gov domain though x-amz-meta-s3 | Low | — | 22 | [sneakerz](https://hackerone.com/sneakerz) | 2019-07-29 |
 | 33 | [515574](../reports/515574.md) | Unclaimed Github Repository Takeover on https://www.data.gov | Low | — | 19 | [noobzombie](https://hackerone.com/noobzombie) | 2019-07-29 |
-| 34 | [249319](../reports/249319.md) | Race condition on the Federalist API endpoints can lead to t | Low | — | 17 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-05 |
-| 35 | [317005](../reports/317005.md) | Subdomain Takeover due to unclaimed domain pointing to AWS | Low | — | 17 | [zephrfish](https://hackerone.com/zephrfish) | 2019-08-26 |
+| 34 | [317005](../reports/317005.md) | Subdomain Takeover due to unclaimed domain pointing to AWS | Low | — | 17 | [zephrfish](https://hackerone.com/zephrfish) | 2019-08-26 |
+| 35 | [249319](../reports/249319.md) | Race condition on the Federalist API endpoints can lead to t | Low | — | 17 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-05 |
 | 36 | [250688](../reports/250688.md) | The Federalsit session cookie (federalist.sid) is not proper | Low | — | 16 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-05 |
 | 37 | [667032](../reports/667032.md) | Information disclosure (system username, server info) in the | Low | — | 5 | [ninja_cyber007](https://hackerone.com/ninja_cyber007) | 2019-08-06 |
 | 38 | [263913](../reports/263913.md) | Content injection via URL parameter. | None | — | 9 | [johnh4x0r](https://hackerone.com/johnh4x0r) | 2020-02-08 |

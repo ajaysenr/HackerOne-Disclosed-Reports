@@ -24,8 +24,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 18 | [157993](../reports/157993.md) | Cross-Site Request Forgery (CSRF) | None | — | 33 | [malcolmx](https://hackerone.com/malcolmx) | 2016-10-13 |
 | 19 | [227833](../reports/227833.md) | Reverse Tab-nabbing at www.instacart.com/store/partner_recip | None | — | 19 | [ak1t4](https://hackerone.com/ak1t4) | 2017-05-30 |
 | 20 | [104917](../reports/104917.md) | Cross-Site Scripting Reflected On Main Domain | None | — | 19 | [hussain_0x3c](https://hackerone.com/hussain_0x3c) | 2016-09-30 |
-| 21 | [158019](../reports/158019.md) | Host Header Injection/Redirection in: https://www.instacart. | None | — | 17 | [0xm1racle](https://hackerone.com/0xm1racle) | 2016-09-11 |
-| 22 | [157958](../reports/157958.md) | Stored XSS | None | — | 17 | [s44mux](https://hackerone.com/s44mux) | 2016-09-09 |
+| 21 | [157958](../reports/157958.md) | Stored XSS | None | — | 17 | [s44mux](https://hackerone.com/s44mux) | 2016-09-09 |
+| 22 | [158019](../reports/158019.md) | Host Header Injection/Redirection in: https://www.instacart. | None | — | 17 | [0xm1racle](https://hackerone.com/0xm1racle) | 2016-09-11 |
 | 23 | [105419](../reports/105419.md) | Cookie-Based Injection | None | — | 16 | [hussain_0x3c](https://hackerone.com/hussain_0x3c) | 2016-09-26 |
 | 24 | [160109](../reports/160109.md) | Brute force login and bypass locked account restrictions via | None | — | 11 | [cablej](https://hackerone.com/cablej) | 2016-09-19 |
 | 25 | [159820](../reports/159820.md) | Issues with uploading list images | None | — | 11 | [cablej](https://hackerone.com/cablej) | 2016-09-26 |

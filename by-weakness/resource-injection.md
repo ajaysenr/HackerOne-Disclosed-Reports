@@ -23,8 +23,8 @@
 | 17 | [2297561](../reports/2297561.md) | Resource Injection - [████████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 22 |
 | 18 | [1762025](../reports/1762025.md) | Improper handling of null bytes in GitHub Actions Runner allows a | [GitHub](../by-program/github.md) | Medium | — | 19 |
 | 19 | [241231](../reports/241231.md) | flash injection in http://www.rockstargames.com/IV/imgPlayer/imag | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 8 |
-| 20 | [1183335](../reports/1183335.md) | Object injection in `stripe-billing-typographic` GitHub project v | [Stripe](../by-program/stripe.md) | Low — CVSS 3.7 | — | 17 |
-| 21 | [601192](../reports/601192.md) | HTML injection in https://interviewing.shopify.com/index.php?cand | [Shopify](../by-program/shopify.md) | Low | — | 17 |
+| 20 | [601192](../reports/601192.md) | HTML injection in https://interviewing.shopify.com/index.php?cand | [Shopify](../by-program/shopify.md) | Low | — | 17 |
+| 21 | [1183335](../reports/1183335.md) | Object injection in `stripe-billing-typographic` GitHub project v | [Stripe](../by-program/stripe.md) | Low — CVSS 3.7 | — | 17 |
 | 22 | [257207](../reports/257207.md) | Code injection | [Legal Robot](../by-program/legalrobot.md) | Low — CVSS 3.5 | — | 13 |
 | 23 | [473144](../reports/473144.md) | Content spoofing on https://surveyserver.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | Low | — | 2 |
 | 24 | [415137](../reports/415137.md) | H1-5411 CTF Write-up by erbbysam and ziot | [h1-5411-CTF](../by-program/h1-5411-ctf.md) | None | — | 17 |

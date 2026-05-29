@@ -40,13 +40,13 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 34 | [426547](../reports/426547.md) | Missing Rate Limitation at /photo_videos/photoset/create | Low | — | 20 | [m00hdi](https://hackerone.com/m00hdi) | 2018-11-24 |
 | 35 | [418145](../reports/418145.md) | No rate limiting in changing room subject. | Low | — | 19 | [cunn](https://hackerone.com/cunn) | 2018-10-09 |
 | 36 | [415398](../reports/415398.md) | Chaturbate "/chat_ignore_list/" endpoint does not check for  | Low | — | 16 | [nismo](https://hackerone.com/nismo) | 2018-10-31 |
-| 37 | [412526](../reports/412526.md) | No rate limit in stats api token endpoint | Low | — | 15 | [exploit0tango](https://hackerone.com/exploit0tango) | 2018-10-19 |
-| 38 | [386735](../reports/386735.md) | Login form on non-HTTPS page on http://stream.highwebmedia.c | Low | — | 15 | [gujjuboy10x00](https://hackerone.com/gujjuboy10x00) | 2018-09-20 |
+| 37 | [386735](../reports/386735.md) | Login form on non-HTTPS page on http://stream.highwebmedia.c | Low | — | 15 | [gujjuboy10x00](https://hackerone.com/gujjuboy10x00) | 2018-09-20 |
+| 38 | [412526](../reports/412526.md) | No rate limit in stats api token endpoint | Low | — | 15 | [exploit0tango](https://hackerone.com/exploit0tango) | 2018-10-19 |
 | 39 | [418151](../reports/418151.md) | No rate limiting in starting up a bot. | Low | — | 15 | [cunn](https://hackerone.com/cunn) | 2018-10-09 |
 | 40 | [413505](../reports/413505.md) | No rate limit in affiliate statsapi endpoint | Low | — | 14 | [exploit0tango](https://hackerone.com/exploit0tango) | 2018-10-19 |
 | 41 | [386116](../reports/386116.md) | CSV Injection with the CSV export feature | Low — CVSS 3.1 | — | 14 | [hackaccinocraft](https://hackerone.com/hackaccinocraft) | 2018-09-20 |
-| 42 | [385239](../reports/385239.md) | Add non-existent room moderator | Low | — | 11 | [popeax](https://hackerone.com/popeax) | 2018-10-19 |
-| 43 | [385145](../reports/385145.md) | Homograph attack on redirect URL (https://chaturbate.com/ext | Low | — | 11 | [hackaccinocraft](https://hackerone.com/hackaccinocraft) | 2018-09-20 |
+| 42 | [385145](../reports/385145.md) | Homograph attack on redirect URL (https://chaturbate.com/ext | Low | — | 11 | [hackaccinocraft](https://hackerone.com/hackaccinocraft) | 2018-09-20 |
+| 43 | [385239](../reports/385239.md) | Add non-existent room moderator | Low | — | 11 | [popeax](https://hackerone.com/popeax) | 2018-10-19 |
 | 44 | [411822](../reports/411822.md) | Password protected rooms total number of viewers disclosure  | Low | — | 11 | [batee5a](https://hackerone.com/batee5a) | 2018-09-24 |
 | 45 | [385372](../reports/385372.md) | Homograph attack on redirect URL  | Low | — | 9 | [sam75434](https://hackerone.com/sam75434) | 2018-10-19 |
 | 46 | [417453](../reports/417453.md) | Cross-origin resource sharing: arbitrary origin trusted on c | None | — | 13 | [mase289](https://hackerone.com/mase289) | 2018-10-04 |

@@ -12,8 +12,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 6 | [1009046](../reports/1009046.md) | Able to use 'PREMIUM TEMPLATES' in 'FREE PLAN' at [https://m | High | — | 51 | [xploiterr](https://hackerone.com/xploiterr) | 2021-01-25 |
 | 7 | [751299](../reports/751299.md) | Improper Authorization | High | — | 20 | [abdellah29](https://hackerone.com/abdellah29) | 2020-02-03 |
 | 8 | [737169](../reports/737169.md) | Bypass email verification and create email template with the | High | — | 18 | [aishkendle](https://hackerone.com/aishkendle) | 2019-12-19 |
-| 9 | [777651](../reports/777651.md) | HTTP Request Smuggling on my.stripo.email | High | — | 15 | [codeslayer1337](https://hackerone.com/codeslayer1337) | 2020-04-10 |
-| 10 | [1166993](../reports/1166993.md) | Ability to use premium templates as free user via https://st | High | — | 15 | [20kilograma](https://hackerone.com/20kilograma) | 2022-03-30 |
+| 9 | [1166993](../reports/1166993.md) | Ability to use premium templates as free user via https://st | High | — | 15 | [20kilograma](https://hackerone.com/20kilograma) | 2022-03-30 |
+| 10 | [777651](../reports/777651.md) | HTTP Request Smuggling on my.stripo.email | High | — | 15 | [codeslayer1337](https://hackerone.com/codeslayer1337) | 2020-04-10 |
 | 11 | [915541](../reports/915541.md) | Cross-Site WebSocket Hijacking Lead to Steal XSRF-TOKEN | High | — | 13 | [0xwise](https://hackerone.com/0xwise) | 2020-07-27 |
 | 12 | [763458](../reports/763458.md) | Email verification bypasa | High | — | 5 | [veejeey_](https://hackerone.com/veejeey_) | 2020-03-24 |
 | 13 | [714521](../reports/714521.md) | stripo.email reflected xss | Medium | — | 70 | [trazer](https://hackerone.com/trazer) | 2019-12-26 |
@@ -33,8 +33,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 27 | [738553](../reports/738553.md) | SSRF in /cabinet/stripeapi/v1/siteInfoLookup?url=XXX | Medium — CVSS 5.3 | — | 11 | [eliel](https://hackerone.com/eliel) | 2019-12-18 |
 | 28 | [1055503](../reports/1055503.md) | No rate limiting for confirmation email lead to huge Mass ma | Medium | — | 9 | [buggfuzz1](https://hackerone.com/buggfuzz1) | 2020-12-11 |
 | 29 | [823588](../reports/823588.md) | Unrestricted File Upload on https://my.stripo.email and http | Medium | — | 9 | [doctor_spooky](https://hackerone.com/doctor_spooky) | 2020-04-13 |
-| 30 | [737625](../reports/737625.md) | Clickjacking on my.stripo.email for MailChimp credentials  | Medium | — | 7 | [jasongardner](https://hackerone.com/jasongardner) | 2020-01-08 |
-| 31 | [782979](../reports/782979.md) | Information disclosure through Server side resource forgery | Medium | — | 7 | [checkm50](https://hackerone.com/checkm50) | 2020-01-28 |
+| 30 | [782979](../reports/782979.md) | Information disclosure through Server side resource forgery | Medium | — | 7 | [checkm50](https://hackerone.com/checkm50) | 2020-01-28 |
+| 31 | [737625](../reports/737625.md) | Clickjacking on my.stripo.email for MailChimp credentials  | Medium | — | 7 | [jasongardner](https://hackerone.com/jasongardner) | 2020-01-08 |
 | 32 | [759131](../reports/759131.md) | Stored XSS in template comments. | Medium | — | 3 | [renekroka](https://hackerone.com/renekroka) | 2020-01-31 |
 | 33 | [765318](../reports/765318.md) | my.stripo.emai email verification bypassed and also create e | Medium | — | 2 | [h51ic0pt5r](https://hackerone.com/h51ic0pt5r) | 2020-02-04 |
 | 34 | [737578](../reports/737578.md) | Redirection through referer tag | Low | — | 12 | [b341eb9552f61203c850a10](https://hackerone.com/b341eb9552f61203c850a10) | 2019-12-18 |

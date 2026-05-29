@@ -7,8 +7,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 1 | [1727044](../reports/1727044.md) | Email Address Exposure via Gratipay Migration Tool | Medium — CVSS 5.3 | $100 | 32 | [suprnova](https://hackerone.com/suprnova) | 2022-10-09 |
 | 2 | [460121](../reports/460121.md) | Publicly editable GitHub wikis | High | — | 2 | [strukt](https://hackerone.com/strukt) | 2018-12-12 |
 | 3 | [2286764](../reports/2286764.md) | Avatar URL is exposed in patron export for secret donations | Medium — CVSS 4.3 | — | 47 | [mdivecky](https://hackerone.com/mdivecky) | 2023-12-15 |
-| 4 | [361951](../reports/361951.md) | Exploiting JSONP callback on /username/charts.json endpoint  | Medium — CVSS 4.3 | — | 34 | [kapytein](https://hackerone.com/kapytein) | 2018-06-05 |
-| 5 | [360825](../reports/360825.md) | Origin IP found, Cloudflare bypassed | Medium | — | 34 | [europa](https://hackerone.com/europa) | 2018-06-02 |
+| 4 | [360825](../reports/360825.md) | Origin IP found, Cloudflare bypassed | Medium | — | 34 | [europa](https://hackerone.com/europa) | 2018-06-02 |
+| 5 | [361951](../reports/361951.md) | Exploiting JSONP callback on /username/charts.json endpoint  | Medium — CVSS 4.3 | — | 34 | [kapytein](https://hackerone.com/kapytein) | 2018-06-05 |
 | 6 | [2088808](../reports/2088808.md) | Disavowed an email without any authentication | Medium | — | 23 | [hunterr0x01](https://hackerone.com/hunterr0x01) | 2023-07-31 |
 | 7 | [2467232](../reports/2467232.md) | Unsafe yaml load can lead to remote code execution | Low | — | 55 | [tarun_sec](https://hackerone.com/tarun_sec) | 2024-05-04 |
 | 8 | [1124540](../reports/1124540.md) | Login CSRF : Login Authentication Flaw on  https://liberapay | Low | — | 44 | [samjoy_26](https://hackerone.com/samjoy_26) | 2021-04-05 |
@@ -24,17 +24,17 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 18 | [3723002](../reports/3723002.md) | another liberapay member team twitter account broken Link Hi | None | — | 10 | [rox-11](https://hackerone.com/rox-11) | 2026-05-09 |
 | 19 | [3721519](../reports/3721519.md) | Liberapay member team twitter account broken Link Hijacking  | None | — | 9 | [rox-11](https://hackerone.com/rox-11) | 2026-05-09 |
 | 20 | [361133](../reports/361133.md) | Able to View other users income history | None | — | 6 | [amaljacob](https://hackerone.com/amaljacob) | 2018-06-02 |
-| 21 | [361368](../reports/361368.md) | Insecure Account Deletion | None | — | 5 | [hack2684](https://hackerone.com/hack2684) | 2018-06-04 |
-| 22 | [361337](../reports/361337.md) | Missing back-end user input validation can lead to DOS flaw | None | — | 5 | [zuh4n](https://hackerone.com/zuh4n) | 2018-06-05 |
-| 23 | [360834](../reports/360834.md) | CSRF to make any user accept the invitation to the team | None | — | 5 | [albatraoz](https://hackerone.com/albatraoz) | 2018-06-02 |
+| 21 | [361337](../reports/361337.md) | Missing back-end user input validation can lead to DOS flaw | None | — | 5 | [zuh4n](https://hackerone.com/zuh4n) | 2018-06-05 |
+| 22 | [360834](../reports/360834.md) | CSRF to make any user accept the invitation to the team | None | — | 5 | [albatraoz](https://hackerone.com/albatraoz) | 2018-06-02 |
+| 23 | [361368](../reports/361368.md) | Insecure Account Deletion | None | — | 5 | [hack2684](https://hackerone.com/hack2684) | 2018-06-04 |
 | 24 | [361089](../reports/361089.md) | twitter api access token leaked on github  | None | — | 4 | [sonahri501](https://hackerone.com/sonahri501) | 2018-06-02 |
 | 25 | [361106](../reports/361106.md) | Unsecure changing password | None | — | 3 | [asdfasdfasdfasdfasdfsdfsdfsdf](https://hackerone.com/asdfasdfasdfasdfasdfsdfsdfsdf) | 2018-06-02 |
 | 26 | [361414](../reports/361414.md) | CSRF token manipulation in every possible form submits. NO s | None | — | 3 | [mah1ndra](https://hackerone.com/mah1ndra) | 2018-06-04 |
-| 27 | [363845](../reports/363845.md) | Cross site scripting (content-sniffing) | None | — | 2 | [said778](https://hackerone.com/said778) | 2018-06-10 |
+| 27 | [362601](../reports/362601.md) | A single user can subscribe a community multiple times | None | — | 2 | [mkind](https://hackerone.com/mkind) | 2018-06-07 |
 | 28 | [361941](../reports/361941.md) | REGISTRATION USING FAKE EMAIL ACCOUNT | None | — | 2 | [rootbakar___](https://hackerone.com/rootbakar___) | 2018-06-05 |
-| 29 | [362601](../reports/362601.md) | A single user can subscribe a community multiple times | None | — | 2 | [mkind](https://hackerone.com/mkind) | 2018-06-07 |
-| 30 | [361400](../reports/361400.md) | The csrf token remains same after user logs in | None | — | 1 | [d4w](https://hackerone.com/d4w) | 2018-06-04 |
-| 31 | [362718](../reports/362718.md) | Returning back from the browser after logging off will discl | None | — | 1 | [zir0x](https://hackerone.com/zir0x) | 2018-06-07 |
-| 32 | [362033](../reports/362033.md) | Csrf token does not meet security design | None | — | 1 | [wsfengfan474](https://hackerone.com/wsfengfan474) | 2018-06-05 |
-| 33 | [361054](../reports/361054.md) | Phishing by Navigating Browser Tabs | None | — | 1 | [4w3](https://hackerone.com/4w3) | 2018-06-04 |
-| 34 | [363658](../reports/363658.md) | Buffer overflow | None | — | 1 | [kaushalag29](https://hackerone.com/kaushalag29) | 2018-06-10 |
+| 29 | [363845](../reports/363845.md) | Cross site scripting (content-sniffing) | None | — | 2 | [said778](https://hackerone.com/said778) | 2018-06-10 |
+| 30 | [362718](../reports/362718.md) | Returning back from the browser after logging off will discl | None | — | 1 | [zir0x](https://hackerone.com/zir0x) | 2018-06-07 |
+| 31 | [363658](../reports/363658.md) | Buffer overflow | None | — | 1 | [kaushalag29](https://hackerone.com/kaushalag29) | 2018-06-10 |
+| 32 | [361054](../reports/361054.md) | Phishing by Navigating Browser Tabs | None | — | 1 | [4w3](https://hackerone.com/4w3) | 2018-06-04 |
+| 33 | [362033](../reports/362033.md) | Csrf token does not meet security design | None | — | 1 | [wsfengfan474](https://hackerone.com/wsfengfan474) | 2018-06-05 |
+| 34 | [361400](../reports/361400.md) | The csrf token remains same after user logs in | None | — | 1 | [d4w](https://hackerone.com/d4w) | 2018-06-04 |

@@ -12,8 +12,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 6 | [212067](../reports/212067.md) | An “algobot”-s GitHub access token was leaked | Medium | $100 | 10 | [sainaen](https://hackerone.com/sainaen) | 2017-06-10 |
 | 7 | [149154](../reports/149154.md) | Stored xss  | None | $100 | 41 | [sysecure](https://hackerone.com/sysecure) | 2016-08-03 |
 | 8 | [164833](../reports/164833.md) | Hyperlink Injection in Friend Invitation Emails | None | $100 | 20 | [corb3nik](https://hackerone.com/corb3nik) | 2016-10-07 |
-| 9 | [151868](../reports/151868.md) | No Rate Limit In Inviting Similar Contact Multiple Times | None | $100 | 6 | [rajauzairabdullah](https://hackerone.com/rajauzairabdullah) | 2016-09-07 |
-| 10 | [128777](../reports/128777.md) | No rate-limit in Two factor Authentication leads to bypass u | None | $100 | 6 | [bugs3ra](https://hackerone.com/bugs3ra) | 2016-06-01 |
+| 9 | [128777](../reports/128777.md) | No rate-limit in Two factor Authentication leads to bypass u | None | $100 | 6 | [bugs3ra](https://hackerone.com/bugs3ra) | 2016-06-01 |
+| 10 | [151868](../reports/151868.md) | No Rate Limit In Inviting Similar Contact Multiple Times | None | $100 | 6 | [rajauzairabdullah](https://hackerone.com/rajauzairabdullah) | 2016-09-07 |
 | 11 | [102755](../reports/102755.md) | Stored XSS in name selection | None | $100 | 6 | [daveysec](https://hackerone.com/daveysec) | 2016-06-18 |
 | 12 | [106348](../reports/106348.md) | text injection can be used in phishing 404 page should not i | None | $100 | 2 | [djamel-ghorab](https://hackerone.com/djamel-ghorab) | 2016-05-09 |
 | 13 | [99368](../reports/99368.md) | an xss issue | None | $100 | 2 | [securitythinker](https://hackerone.com/securitythinker) | 2016-05-22 |

@@ -1,4 +1,4 @@
-# Asset Type: iOS (16 reports)
+# Asset Type: iOS (17 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -17,6 +17,7 @@
 | 11 | [511044](../reports/511044.md) | [www.zomato.com] Availing Zomato Gold membership for fr | [Eternal](../by-program/eternal.md) | 434613896 | Medium — CVSS 6.5 | — | 229 |
 | 12 | [781238](../reports/781238.md) | User data not anonymized is sent to analytics server | [Nord Security](../by-program/nordsecurity.md) | 905953485 | Medium | — | 99 |
 | 13 | [746541](../reports/746541.md) | SSRF on local storage of iOS mobile | [Nextcloud](../by-program/nextcloud.md) | it.twsweb.Nextcloud | Medium | — | 7 |
-| 14 | [1082991](../reports/1082991.md) | Webview address bar spoofing in LINE client for iOS | [LY Corporation](../by-program/line.md) | 443904275 | Low | — | 36 |
-| 15 | [1847368](../reports/1847368.md) | Full Passcode bypass on Nextcloud App iOS | [Nextcloud](../by-program/nextcloud.md) | it.twsweb.Nextcloud | Low — CVSS 1.8 | — | 20 |
-| 16 | [1167919](../reports/1167919.md) | Default Nextcloud server config and iOS Nextcloud clien | [Nextcloud](../by-program/nextcloud.md) | it.twsweb.Nextcloud | Low | — | 7 |
+| 14 | [3693295](../reports/3693295.md) | iOS Brave Playlist "Open in Private Tab" bypasses FaceI | [Brave Software](../by-program/brave.md) | com.brave.ios.browser | Medium | — | 4 |
+| 15 | [1082991](../reports/1082991.md) | Webview address bar spoofing in LINE client for iOS | [LY Corporation](../by-program/line.md) | 443904275 | Low | — | 36 |
+| 16 | [1847368](../reports/1847368.md) | Full Passcode bypass on Nextcloud App iOS | [Nextcloud](../by-program/nextcloud.md) | it.twsweb.Nextcloud | Low — CVSS 1.8 | — | 20 |
+| 17 | [1167919](../reports/1167919.md) | Default Nextcloud server config and iOS Nextcloud clien | [Nextcloud](../by-program/nextcloud.md) | it.twsweb.Nextcloud | Low | — | 7 |

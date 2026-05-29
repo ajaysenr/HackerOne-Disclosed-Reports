@@ -23,8 +23,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 17 | [3321406](../reports/3321406.md) | [Variation of #1554049] 1-Click Chaining of Self-XSS, Cookie | High | — | 37 | [matured_kazama](https://hackerone.com/matured_kazama) | 2026-04-14 |
 | 18 | [1525309](../reports/1525309.md) | A malicious actor could rotate tokens of a victim, given tha | High | — | 34 | [esx](https://hackerone.com/esx) | 2023-04-13 |
 | 19 | [2086301](../reports/2086301.md) | Permanent CASB Integration Takeover due to Improper Access C | High — CVSS 7.9 | — | 11 | [matured_kazama](https://hackerone.com/matured_kazama) | 2023-09-18 |
-| 20 | [1543259](../reports/1543259.md) | Signup with any Email and Enable 2-FA without verifying Emai | Medium | — | 39 | [imtheking](https://hackerone.com/imtheking) | 2022-09-12 |
-| 21 | [1618021](../reports/1618021.md) | Enable 2Fa verification without verifying email | Medium — CVSS 4.2 | — | 39 | [motu-vai](https://hackerone.com/motu-vai) | 2022-08-31 |
+| 20 | [1618021](../reports/1618021.md) | Enable 2Fa verification without verifying email | Medium — CVSS 4.2 | — | 39 | [motu-vai](https://hackerone.com/motu-vai) | 2022-08-31 |
+| 21 | [1543259](../reports/1543259.md) | Signup with any Email and Enable 2-FA without verifying Emai | Medium | — | 39 | [imtheking](https://hackerone.com/imtheking) | 2022-09-12 |
 | 22 | [1803659](../reports/1803659.md) | Origin IP address disclosure through Pingora response header | Medium — CVSS 6.1 | — | 21 | [smither](https://hackerone.com/smither) | 2023-01-10 |
 | 23 | [3424998](../reports/3424998.md) | AI Playground XSS to steal user-chat messages and access to  | Low | — | 56 | [matured_kazama](https://hackerone.com/matured_kazama) | 2026-02-26 |
 | 24 | [1467044](../reports/1467044.md) | Blind SSRF on platform.dash.cloudflare.com Due to Sentry mis | Low | — | 53 | [lohigowda](https://hackerone.com/lohigowda) | 2022-08-31 |

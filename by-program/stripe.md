@@ -20,7 +20,7 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 14 | [1717650](../reports/1717650.md) | Promotion code can be used more than redemption limit. | Low — CVSS 3.7 | — | 53 | [d_sharad](https://hackerone.com/d_sharad) | 2023-02-13 |
 | 15 | [1410214](../reports/1410214.md) | Bypassing domain deny_list rule in Smokescreen via trailing  | Low | — | 49 | [gregxsunday](https://hackerone.com/gregxsunday) | 2022-03-23 |
 | 16 | [1121896](../reports/1121896.md) | Verifying email bypass | Low | — | 35 | [fisjkars](https://hackerone.com/fisjkars) | 2023-03-03 |
-| 17 | [2011298](../reports/2011298.md) | The `stripe/veneur` GitHub repository links to a domain `ven | Low — CVSS 2.0 | — | 26 | [peterldowns](https://hackerone.com/peterldowns) | 2023-07-03 |
-| 18 | [1637761](../reports/1637761.md) | CSRF in Importing CSV files [app.taxjar.com] | Low | — | 26 | [bashcancare](https://hackerone.com/bashcancare) | 2023-03-16 |
+| 17 | [1637761](../reports/1637761.md) | CSRF in Importing CSV files [app.taxjar.com] | Low | — | 26 | [bashcancare](https://hackerone.com/bashcancare) | 2023-03-16 |
+| 18 | [2011298](../reports/2011298.md) | The `stripe/veneur` GitHub repository links to a domain `ven | Low — CVSS 2.0 | — | 26 | [peterldowns](https://hackerone.com/peterldowns) | 2023-07-03 |
 | 19 | [1272305](../reports/1272305.md) | Without verifying email and activate account, user can perfo | Low | — | 20 | [tabaahi](https://hackerone.com/tabaahi) | 2022-07-18 |
 | 20 | [1183335](../reports/1183335.md) | Object injection in `stripe-billing-typographic` GitHub proj | Low — CVSS 3.7 | — | 17 | [ph0r3nsic](https://hackerone.com/ph0r3nsic) | 2023-03-06 |

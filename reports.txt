@@ -9394,6 +9394,8 @@ https://hackerone.com/reports/3609505 | HSTS accepted from HTTP origin behind HT
 https://hackerone.com/reports/3611825 | Bearer Token Leaked to Attacker via .netrc Despite CVE-2026-3783 Fix
 https://hackerone.com/reports/3612891 | Exposed .git/config File Leading to Potential Sensitive Information Disclosure
 https://hackerone.com/reports/3617719 | Function `do_pubkey()` can have out-of-bound read issue
+https://hackerone.com/reports/3620748 | V1Plugin.Decrypt panics on empty ciphertext (Remote DoS)
+https://hackerone.com/reports/3620753 | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS)
 https://hackerone.com/reports/3620760 | Encryption context keys and values logged at INFO level
 https://hackerone.com/reports/3620761 | Health check errors silently dropped when channel buffer full
 https://hackerone.com/reports/3621851 | CVE-2026-4873: connection reuse ignores TLS requirement
@@ -9442,6 +9444,7 @@ https://hackerone.com/reports/3680680 | libcurl omits IPv6 zoneid from host iden
 https://hackerone.com/reports/3682666 | Use-after-free in `curl_easy_ssls_export()` during callback re-entrancy
 https://hackerone.com/reports/3684603 | Stack exhaustion in MIME multipart reading with deeply nested subparts
 https://hackerone.com/reports/3684614 | Heap-buffer-overflow in `Curl_ssl_push_certinfo_len()` — sole bounds check is `DEBUGASSERT`
+https://hackerone.com/reports/3693295 | iOS Brave Playlist "Open in Private Tab" bypasses FaceID requirement for Private Tabs
 https://hackerone.com/reports/3694390 | CVE-2026-7009: OCSP stapling bypass with Apple SecTrust
 https://hackerone.com/reports/3697719 | CVE-2026-7168: cross-proxy Digest auth state leak
 https://hackerone.com/reports/3702718 | MQTT state machine confusion: PINGRESP/DISCONNECT with non-zero remaining_length dispatches to stale nextstate

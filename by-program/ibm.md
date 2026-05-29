@@ -8,8 +8,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 2 | [3088290](../reports/3088290.md) | Middleware Authentication Bypass on IBM Portal | Critical | — | 80 | [muhammadwaseem3](https://hackerone.com/muhammadwaseem3) | 2025-05-02 |
 | 3 | [3060373](../reports/3060373.md) | Path Traversal Vulnerability found on IBM Cloud | Critical | — | 63 | [0xnullbytex0](https://hackerone.com/0xnullbytex0) | 2025-05-07 |
 | 4 | [2456603](../reports/2456603.md) | Insecure Direct Object Reference Protection bypass by changi | Critical — CVSS 9.3 | — | 53 | [suryahss](https://hackerone.com/suryahss) | 2024-05-01 |
-| 5 | [1567516](../reports/1567516.md) | sql injection via https://setup.p2p.ihost.com/ | Critical — CVSS 9.8 | — | 40 | [exploitmsf](https://hackerone.com/exploitmsf) | 2022-06-17 |
-| 6 | [2954547](../reports/2954547.md) | Weak credentials found in Jenkins endpoint | Critical | — | 40 | [roswell-47](https://hackerone.com/roswell-47) | 2025-02-05 |
+| 5 | [2954547](../reports/2954547.md) | Weak credentials found in Jenkins endpoint | Critical | — | 40 | [roswell-47](https://hackerone.com/roswell-47) | 2025-02-05 |
+| 6 | [1567516](../reports/1567516.md) | sql injection via https://setup.p2p.ihost.com/ | Critical — CVSS 9.8 | — | 40 | [exploitmsf](https://hackerone.com/exploitmsf) | 2022-06-17 |
 | 7 | [1670586](../reports/1670586.md) | Cleartext storage of sensitive information at https://stagin | Critical — CVSS 9.3 | — | 30 | [zere](https://hackerone.com/zere) | 2022-09-09 |
 | 8 | [1492447](../reports/1492447.md) | Public Jenkins instance with /script enabled | Critical | — | 15 | [thesanjok](https://hackerone.com/thesanjok) | 2022-03-11 |
 | 9 | [1089583](../reports/1089583.md) | Insecure Object Permissions for Guest User leads to access t | Critical — CVSS 9.3 | — | 14 | [mocr7](https://hackerone.com/mocr7) | 2022-07-15 |
@@ -29,8 +29,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 23 | [2308491](../reports/2308491.md) | XSS in Aspera documentation website | Medium — CVSS 6.4 | — | 52 | [aviv_keller](https://hackerone.com/aviv_keller) | 2024-05-06 |
 | 24 | [2501986](../reports/2501986.md) | IBM OpenPages vulnerable to exposure of sensitive informatio | Medium | — | 49 | [0xhassan](https://hackerone.com/0xhassan) | 2024-10-01 |
 | 25 | [2899380](../reports/2899380.md) | POST based Cross-Site Scripting on IBM research endpoint | Medium — CVSS 5.6 | — | 44 | [youssifs7](https://hackerone.com/youssifs7) | 2025-01-23 |
-| 26 | [2402842](../reports/2402842.md) | Information disclosure identified on IBM endpoint.  | Medium — CVSS 6.7 | — | 39 | [devire](https://hackerone.com/devire) | 2025-07-08 |
-| 27 | [2343548](../reports/2343548.md) | XSS in IBM InfoCenter | Medium — CVSS 6.4 | — | 39 | [aviv_keller](https://hackerone.com/aviv_keller) | 2024-07-17 |
+| 26 | [2343548](../reports/2343548.md) | XSS in IBM InfoCenter | Medium — CVSS 6.4 | — | 39 | [aviv_keller](https://hackerone.com/aviv_keller) | 2024-07-17 |
+| 27 | [2402842](../reports/2402842.md) | Information disclosure identified on IBM endpoint.  | Medium — CVSS 6.7 | — | 39 | [devire](https://hackerone.com/devire) | 2025-07-08 |
 | 28 | [2919623](../reports/2919623.md) | There is a POST based CSRF issue over IBM endpoint leading t | Medium — CVSS 5.0 | — | 37 | [youssifs7](https://hackerone.com/youssifs7) | 2025-02-04 |
 | 29 | [2292236](../reports/2292236.md) | Improper Authentication on Alertmanager instance | Medium — CVSS 6.1 | — | 34 | [nhx1](https://hackerone.com/nhx1) | 2024-02-29 |
 | 30 | [2844797](../reports/2844797.md) | Exposed Logs and Bearer Tokens on Test Endpoint | None | — | 57 | [facades](https://hackerone.com/facades) | 2024-12-12 |

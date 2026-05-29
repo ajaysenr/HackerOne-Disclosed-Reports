@@ -20,6 +20,6 @@
 | 14 | [1886139](../reports/1886139.md) | HTTP multi-header compression denial of service | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.3 | — | 5 |
 | 15 | [1085079](../reports/1085079.md) | No Limit on Email Subscription | [OpenMage](../by-program/openmage.md) | Low | — | 12 |
 | 16 | [3089595](../reports/3089595.md) | Memory leak from doh_write_cb | [curl](../by-program/curl.md) | None | — | 9 |
-| 17 | [3735080](../reports/3735080.md) | libssh SFTP initialization ignores CURLOPT_TIMEOUT, hangs indefin | [curl](../by-program/curl.md) | None | — | 5 |
-| 18 | [3734947](../reports/3734947.md) | HTTP/3 paused transfer buffers incoming data without bound up to  | [curl](../by-program/curl.md) | None | — | 5 |
+| 17 | [3734947](../reports/3734947.md) | HTTP/3 paused transfer buffers incoming data without bound up to  | [curl](../by-program/curl.md) | None | — | 5 |
+| 18 | [3735080](../reports/3735080.md) | libssh SFTP initialization ignores CURLOPT_TIMEOUT, hangs indefin | [curl](../by-program/curl.md) | None | — | 5 |
 | 19 | [3734020](../reports/3734020.md) | HTTP/2 proxy CONNECT tunnel unbounded 1xx chain (missing Curl_bum | [curl](../by-program/curl.md) | None | — | 2 |

@@ -10,8 +10,8 @@
 | 4 | [675580](../reports/675580.md) | Out of Bounds Memory Read in exif_process_user_comment | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.8 | $1,500 | 3 |
 | 5 | [633607](../reports/633607.md) | Invalid read in `str_replace_partial` | [shopify-scripts](../by-program/shopify-scripts.md) | None | $1,000 | 7 |
 | 6 | [295680](../reports/295680.md) | Invalid read leading to a segfault | [shopify-scripts](../by-program/shopify-scripts.md) | Low | $800 | 5 |
-| 7 | [724253](../reports/724253.md) | Tcpdump before 4.9.3 has a buffer over-read in print-dccp.c:dccp_ | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.8 | $500 | 3 |
-| 8 | [724243](../reports/724243.md) | Tcpdump before 4.9.3 has a buffer over-read in print-802_11.c (CV | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.8 | $500 | 3 |
+| 7 | [724243](../reports/724243.md) | Tcpdump before 4.9.3 has a buffer over-read in print-802_11.c (CV | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.8 | $500 | 3 |
+| 8 | [724253](../reports/724253.md) | Tcpdump before 4.9.3 has a buffer over-read in print-dccp.c:dccp_ | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.8 | $500 | 3 |
 | 9 | [200909](../reports/200909.md) | Out of bounds memory read in unserialize() | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $500 | 6 |
 | 10 | [1217702](../reports/1217702.md) | Adam and the  Deadly  Injections | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 13 |
 | 11 | [456727](../reports/456727.md) | null pointer dereference in imap_mail | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.5 | — | 13 |
@@ -19,8 +19,8 @@
 | 13 | [320269](../reports/320269.md) | `npmconf` (and `npm` js api) allocate and write to disk uninitial | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.4 | — | 3 |
 | 14 | [321686](../reports/321686.md) | `atob` allocates uninitialized Buffers when number is passed in i | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.5 | — | 5 |
 | 15 | [330351](../reports/330351.md) | `byte` allocates uninitialized buffers and reads data from them p | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.2 | — | 4 |
-| 16 | [852103](../reports/852103.md) | Out-of-Bound Read in urldecode() [CVE-2020-7067] | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 2 |
-| 17 | [320166](../reports/320166.md) | `concat-with-sourcemaps` allocates uninitialized Buffers when num | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.5 | — | 2 |
+| 16 | [320166](../reports/320166.md) | `concat-with-sourcemaps` allocates uninitialized Buffers when num | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.5 | — | 2 |
+| 17 | [852103](../reports/852103.md) | Out-of-Bound Read in urldecode() [CVE-2020-7067] | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 2 |
 | 18 | [781325](../reports/781325.md) | Out-of-bounds Read in php_strip_tags_ex | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 1 |
 | 19 | [1721098](../reports/1721098.md) | CVE-2022-35260: .netrc parser out-of-bounds access | [curl](../by-program/curl.md) | Low | — | 7 |
 | 20 | [284951](../reports/284951.md) | Out-of-bounds read when importing corrupt blockchain with monero- | [Monero](../by-program/monero.md) | Low | — | 6 |
