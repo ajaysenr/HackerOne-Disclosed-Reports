@@ -7915,6 +7915,7 @@ https://hackerone.com/reports/1624152 | insecure gitlab repositories at ██�
 https://hackerone.com/reports/1624157 | .git folder exposed [HtUS]
 https://hackerone.com/reports/1624172 | [███████] Remote Code Execution at ██████ [CVE-2021-44529] [HtUS]
 https://hackerone.com/reports/1624267 | [████████] RXSS via "CurrentFolder" parameter
+https://hackerone.com/reports/1624374 | Broken access discloses users and PII at https://███████ [HtUS]
 https://hackerone.com/reports/1624421 | CSRF to ATO at https://█████/user/account [HtUS]
 https://hackerone.com/reports/1624670 | Local File Read vulnerability on ██████████ [HtUS]
 https://hackerone.com/reports/1626198 | SQL injection at [█████████] [HtUS]
