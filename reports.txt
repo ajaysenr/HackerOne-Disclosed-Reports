@@ -7912,7 +7912,9 @@ https://hackerone.com/reports/1623685 | SSRF ACCESS AWS METADATA - ████�
 https://hackerone.com/reports/1624137 | LOGJ4 VUlnerability [HtUS]
 https://hackerone.com/reports/1624140 | SSRF to read AWS metaData at https://█████/ [HtUS]
 https://hackerone.com/reports/1624152 | insecure gitlab repositories at ████████ [HtUS]
+https://hackerone.com/reports/1624157 | .git folder exposed [HtUS]
 https://hackerone.com/reports/1624172 | [███████] Remote Code Execution at ██████ [CVE-2021-44529] [HtUS]
+https://hackerone.com/reports/1624267 | [████████] RXSS via "CurrentFolder" parameter
 https://hackerone.com/reports/1624421 | CSRF to ATO at https://█████/user/account [HtUS]
 https://hackerone.com/reports/1624670 | Local File Read vulnerability on ██████████ [HtUS]
 https://hackerone.com/reports/1626198 | SQL injection at [█████████] [HtUS]
