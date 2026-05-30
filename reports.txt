@@ -7918,6 +7918,8 @@ https://hackerone.com/reports/1624267 | [████████] RXSS via "Cur
 https://hackerone.com/reports/1624374 | Broken access discloses users and PII at https://███████ [HtUS]
 https://hackerone.com/reports/1624421 | CSRF to ATO at https://█████/user/account [HtUS]
 https://hackerone.com/reports/1624670 | Local File Read vulnerability on ██████████ [HtUS]
+https://hackerone.com/reports/1624911 | Misconfigured build on websites "abuse.cloudflare.com"
+https://hackerone.com/reports/1625036 | Insecure loading of ICU data through ICU_DATA environment variable
 https://hackerone.com/reports/1626198 | SQL injection at [█████████] [HtUS]
 https://hackerone.com/reports/1626205 | Wordpress Takeover using setup configuration at http://████.edu [HtUS]
 https://hackerone.com/reports/1626210 | Local file read at https://████/ [HtUS]
