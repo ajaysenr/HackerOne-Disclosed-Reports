@@ -1,4 +1,4 @@
-# Asset Type: Source Code (1313 reports)
+# Asset Type: Source Code (1314 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -1161,159 +1161,160 @@
 | 1155 | [661847](../reports/661847.md) | Integer overflows in tool_operate.c at line 1541 | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low — CVSS 3.3 | — | 4 |
 | 1156 | [1895135](../reports/1895135.md) | CVE-2023-27536: GSS delegation too eager connection re- | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 4 |
 | 1157 | [2904921](../reports/2904921.md) | OS Command Injection  (subprocess Module Usage) | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 4 |
-| 1158 | [1378706](../reports/1378706.md) | RDoc::MethodAttr is vulnerable to Regular Expression De | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Low | — | 4 |
-| 1159 | [311333](../reports/311333.md) | Prototype pollution attack (deep-extend) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | deep-extend | Low — CVSS 2.0 | — | 4 |
-| 1160 | [1200992](../reports/1200992.md) | No admin audit log for auth tokens | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 3 |
-| 1161 | [310671](../reports/310671.md) | [file-static-server] Path Traversal allows to read cont | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low — CVSS 3.5 | — | 3 |
-| 1162 | [1913110](../reports/1913110.md) | CVE-2023-27537: HSTS double-free | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 3 |
-| 1163 | [1354255](../reports/1354255.md) | Open redirect in fastify-static via mishandled user's i | [Fastify](../by-program/fastify.md) | https://github.com/fastify | Low — CVSS 3.7 | — | 3 |
-| 1164 | [298218](../reports/298218.md) | antispambot does not always escape <, >, &, " and ' | [WordPress](../by-program/wordpress.md) | WordPress Core | Low | — | 3 |
-| 1165 | [1195568](../reports/1195568.md) | Ransomware protection is missing extentions | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 3 |
-| 1166 | [1223882](../reports/1223882.md) | CVE-2021-22925: TELNET stack contents disclosure again | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low — CVSS 3.1 | — | 3 |
-| 1167 | [503821](../reports/503821.md) | Assertion `col >= 0 && col < line->cols' failed, proces | [PuTTY (European Commission - DIGIT)](../by-program/putty_h1c.md) | https://www.chiark.greenend.org.uk/~sgta | Low | — | 3 |
-| 1168 | [310708](../reports/310708.md) | Prototype pollution attack (merge-deep) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | merge-deep | Low — CVSS 1.8 | — | 3 |
-| 1169 | [895730](../reports/895730.md) | Contacts menu (not app) fails to restrict (to local gro | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.2 | — | 3 |
-| 1170 | [1468962](../reports/1468962.md) | Binary output bypass | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
-| 1171 | [1950627](../reports/1950627.md) | CVE-2023-28321: IDN wildcard match | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
-| 1172 | [1198203](../reports/1198203.md) | Bootstrap library is vulnerable | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 2 |
-| 1173 | [885041](../reports/885041.md) | The password of a mail share is not hashed if the passw | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 2 |
-| 1174 | [2070810](../reports/2070810.md) | Potential NULL dereference in libssh's sftp server | [Internet Bug Bounty](../by-program/ibb.md) | https://git.libssh.org/ | Low — CVSS 3.1 | — | 2 |
-| 1175 | [831654](../reports/831654.md) | "Self" DOS with large deployment and scaling | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Low — CVSS 3.7 | — | 2 |
-| 1176 | [2104567](../reports/2104567.md) | (CVE-2023-32003) fs.mkdtemp() and fs.mkdtempSync() are  | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/nodejs/node | Low | — | 2 |
-| 1177 | [264426](../reports/264426.md) | Nextcloud logs ldap passwords | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 2 |
-| 1178 | [765664](../reports/765664.md) | Heap Buffer Overflow (READ of size 1) in ourWriteOut | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
-| 1179 | [453795](../reports/453795.md) | [harp] Unsafe rendering of Markdown files | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | harp | Low — CVSS 3.3 | — | 2 |
-| 1180 | [310446](../reports/310446.md) | Prototype pollution attack (deap) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | deap | Low — CVSS 2.0 | — | 2 |
-| 1181 | [662412](../reports/662412.md) | Integer overflow  at line 1603 in the src/operator.c fi | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low — CVSS 3.3 | — | 1 |
-| 1182 | [1126401](../reports/1126401.md) | HTTPS not enforced at dex.sifchain.finance | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 1 |
-| 1183 | [636013](../reports/636013.md) | huge COLUMNS causes progress-bar to buffer overflow | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1184 | [640530](../reports/640530.md) | Insecure Frame (External) | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1185 | [1463013](../reports/1463013.md) | Occasional use-after-free in multi_done() libcurl-7.81. | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1186 | [696822](../reports/696822.md) | Potential invocation of qsort on uninitialized memory d | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1187 | [1188643](../reports/1188643.md) | Vulnerable javascript dependency at Main domain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 1 |
-| 1188 | [812028](../reports/812028.md) | xss on setup config page  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 1 |
-| 1189 | [311336](../reports/311336.md) | Prototype pollution attack (merge-options) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | merge-options | Low — CVSS 2.6 | — | 1 |
-| 1190 | [311337](../reports/311337.md) | Prototype pollution attack (merge-recursive) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | merge-recursive | Low — CVSS 2.0 | — | 1 |
-| 1191 | [694449](../reports/694449.md) | Buffer write overflow when forming dns over http reques | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1192 | [776371](../reports/776371.md) | [chart.js] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low — CVSS 3.1 | — | 1 |
-| 1193 | [1102064](../reports/1102064.md) | kubectl creating secrets from stringData leaves secret  | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubectl | Low — CVSS 3.5 | — | 1 |
-| 1194 | [872089](../reports/872089.md) | Curl_auth_create_plain_message integer overflow leads t | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low — CVSS 2.8 | — | 0 |
-| 1195 | [1188652](../reports/1188652.md) | Design Issues at Main Domain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 0 |
-| 1196 | [856588](../reports/856588.md) | [flsaba] Stored XSS in the file and directory name when | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low — CVSS 3.9 | — | 0 |
-| 1197 | [3122019](../reports/3122019.md) | Remote Code Execution via unsafe usage of `reply.view({ | [Fastify](../by-program/fastify.md) | https://github.com/fastify | None | — | 66 |
-| 1198 | [651518](../reports/651518.md) | OS Command Injection via egrep in Rake::FileList | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 62 |
-| 1199 | [3133379](../reports/3133379.md) | CRLF Injection in `--proxy-header` allows extra HTTP he | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 42 |
-| 1200 | [3639277](../reports/3639277.md) | Bypassing Strict SSH Server Verification via Connection | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 37 |
-| 1201 | [1485717](../reports/1485717.md) | ReDoS in IPAddr | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 31 |
-| 1202 | [3518758](../reports/3518758.md) | IDOR on ██████ via direct photo URL leads to unauthoriz | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 30 |
-| 1203 | [3516878](../reports/3516878.md) | Cross‑origin cookies leak and injection risk when using | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 30 |
-| 1204 | [2720030](../reports/2720030.md) | Open redirect when logging in with user_oidc | [Nextcloud](../by-program/nextcloud.md) | nextcloud/user_oidc | None | — | 30 |
-| 1205 | [3679660](../reports/3679660.md) | mruby-engine: UAF in MRubyEngine#initialize enables loc | [Shopify](../by-program/shopify.md) | https://github.com/Shopify/* | None | — | 30 |
-| 1206 | [2981245](../reports/2981245.md) | ("possible") UAF | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 29 |
-| 1207 | [1067824](../reports/1067824.md) | Database error shown to the user when using a long gues | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 29 |
-| 1208 | [3575250](../reports/3575250.md) | RTSP RTP Interleaved Parser Assertion Failure (Zero-Len | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 28 |
-| 1209 | [3117697](../reports/3117697.md) | Double Free Vulnerability in `libcurl` Cookie Managemen | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 27 |
-| 1210 | [2449038](../reports/2449038.md) | CVE-2019-1551: rsaz_512_sqr overflow bug on x86_64 | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/openssl/openssl | None | — | 26 |
-| 1211 | [3022041](../reports/3022041.md) | Use after free (read) in curl_multi_perform with DoH an | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 26 |
-| 1212 | [3636244](../reports/3636244.md) | HackerOne Vulnerability Report: libcurl SSL/TLS Identit | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 26 |
-| 1213 | [3609505](../reports/3609505.md) | HSTS accepted from HTTP origin behind HTTPS proxy | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 25 |
-| 1214 | [3456148](../reports/3456148.md) | Unbounded decompression chain in HTTP responses on Node | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 24 |
-| 1215 | [942146](../reports/942146.md) | Open Github Repo Leaking WEBLATE SECRET KEY | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/weblate | None | — | 22 |
-| 1216 | [3620761](../reports/3620761.md) | Health check errors silently dropped when channel buffe | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/kubernetes-sigs/aws-e | None | — | 21 |
-| 1217 | [3516202](../reports/3516202.md) | Cookie Replacement Use-After-Free Vulnerability | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 21 |
-| 1218 | [3116935](../reports/3116935.md) | Use of a Broken or Risky Cryptographic Algorithm (CWE-3 | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 21 |
-| 1219 | [2260337](../reports/2260337.md) | Permissions can be bypassed via arbitrary code executio | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 20 |
-| 1220 | [3023139](../reports/3023139.md) | Memory leak of ftp (with proxy reuse) | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 20 |
-| 1221 | [2058556](../reports/2058556.md) | Self XSS when sending HTML as a comment in the Deck app | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | None | — | 20 |
-| 1222 | [3620760](../reports/3620760.md) | Encryption context keys and values logged at INFO level | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/kubernetes-sigs/aws-e | None | — | 19 |
-| 1223 | [3580247](../reports/3580247.md) | Use after free in hyperfifo example | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 19 |
-| 1224 | [361341](../reports/361341.md) | Unsafe deserialization in Libera Pay allows to escalate | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | None | — | 18 |
-| 1225 | [3650443](../reports/3650443.md) | no_proxy IDN mismatch: Unicode hostnames bypass proxy e | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 15 |
-| 1226 | [2439734](../reports/2439734.md) | Missing policies for password in password_policies.go | [passhash](../by-program/passhash.md) | https://github.com/dhui/passhash | None | — | 15 |
-| 1227 | [3665363](../reports/3665363.md) | Integer Overflow/Signedness Mismatch in Printf Precisio | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 15 |
-| 1228 | [3617719](../reports/3617719.md) | Function `do_pubkey()` can have out-of-bound read issue | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 13 |
-| 1229 | [1073363](../reports/1073363.md) | Index Out Of Bounds in protobuf unmarshalling | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | None | — | 13 |
-| 1230 | [3627638](../reports/3627638.md) | Security Vulnerability Report: Protocol Injection via P | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 13 |
-| 1231 | [461308](../reports/461308.md) | Remote attacker can impersonate Social users via Activi | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 12 |
-| 1232 | [272824](../reports/272824.md) | client_secret Token disclosure  | [Aspen](../by-program/aspen.md) | https://github.com/AspenWeb | None | — | 12 |
-| 1233 | [3575475](../reports/3575475.md) | Curl Telnet Handler Buffer Overflow | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 11 |
-| 1234 | [1145581](../reports/1145581.md) | Private KEY of crypto wallet | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 11 |
-| 1235 | [2377760](../reports/2377760.md) | fetch with integrity option is too lax when algorithm i | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 11 |
-| 1236 | [726117](../reports/726117.md) | SMB access smuggling via FILE URL on Windows | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 10 |
-| 1237 | [3135673](../reports/3135673.md) | curl -OJ allows creating custom .curlrc file which allo | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 10 |
-| 1238 | [3650473](../reports/3650473.md) | FTP entrypath accepts 0xFF (Telnet IAC) through incompl | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 10 |
-| 1239 | [3133253](../reports/3133253.md) | curl_easy_header runs at O(N) or worse and can be abuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 9 |
-| 1240 | [1194280](../reports/1194280.md) | CORS Misconfiguration | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 9 |
-| 1241 | [3089595](../reports/3089595.md) | Memory leak from doh_write_cb | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 9 |
-| 1242 | [1670187](../reports/1670187.md) | Cross Site Scripting Vulnerability in fabric-sdk-py sou | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric-sd | None | — | 9 |
-| 1243 | [3645415](../reports/3645415.md) | # SCURLOPT_SSH_KNOWNHOSTS and host fingerprint pins are | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 9 |
-| 1244 | [504759](../reports/504759.md) | Uploading large avatar images cause excessive CPU usage | [Nextcloud](../by-program/nextcloud.md) | nextcloud/3rdparty | None | — | 8 |
-| 1245 | [3045390](../reports/3045390.md) | Double free caused by mqtt_doing() | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
-| 1246 | [3646914](../reports/3646914.md) | ignoring 'options' when doing connection reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
-| 1247 | [3037326](../reports/3037326.md) | Free of uninitialized pointer in doh_decode_rdata_name( | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
-| 1248 | [3037583](../reports/3037583.md) | Buffer Overflow in curl's Rustls Backend | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
-| 1249 | [3508701](../reports/3508701.md) | Use-After-Free in curl_easy_nextheader when reusing hea | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
-| 1250 | [1183502](../reports/1183502.md) | Private RSA key for Vagrant exposed in GitHub repositor | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 7 |
-| 1251 | [261297](../reports/261297.md) | Disabled user can reset their password   | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 7 |
-| 1252 | [888176](../reports/888176.md) | HTTP Host injection in redirect_to function | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | None | — | 6 |
-| 1253 | [2831558](../reports/2831558.md) | netrc crlf injection | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 6 |
-| 1254 | [263508](../reports/263508.md) | Server Side Misconfiguration (EMAIL SPOOFING)  | [GSA Bounty](../by-program/gsa_bbp.md) | https://github.com/18f/federalist-proxy | None | — | 6 |
-| 1255 | [1241460](../reports/1241460.md) | ApiService#fetch serves content as text/html and inline | [Nextcloud](../by-program/nextcloud.md) | nextcloud/text | None | — | 6 |
-| 1256 | [926222](../reports/926222.md) | Vulnerability in Private Data Endorsement Policy Manage | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric-sa | None | — | 6 |
-| 1257 | [3734947](../reports/3734947.md) | HTTP/3 paused transfer buffers incoming data without bo | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
-| 1258 | [2861797](../reports/2861797.md) | curl mishandles `%0c%0b` sequences in HTTP responses le | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
-| 1259 | [3735080](../reports/3735080.md) | libssh SFTP initialization ignores CURLOPT_TIMEOUT, han | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
-| 1260 | [752353](../reports/752353.md) | Anonymous file drop page ignores user profile visibilit | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 5 |
-| 1261 | [2981303](../reports/2981303.md) | TLS Cipher Misconfiguration in HTTP/3/QUIC Support | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
-| 1262 | [1485501](../reports/1485501.md) | ReDoS in Time.rfc2822 | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 5 |
-| 1263 | [1186701](../reports/1186701.md) | DMARC and DNS Records not found on  mcuboot.com | [MCUboot](../by-program/mcuboot.md) | https://github.com/mcu-tools/mcuboot | None | — | 5 |
-| 1264 | [3733934](../reports/3733934.md) | CURLOPT_HSTS_CTRL disables shared HSTS without share gu | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
-| 1265 | [3651975](../reports/3651975.md) | SMTP Command Injection via CRLF in libcurl MAIL_FROM /  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
-| 1266 | [3717365](../reports/3717365.md) | mbedTLS private-key blob null-termination asymmetry in  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
-| 1267 | [3735238](../reports/3735238.md) | cookie: case-insensitive path comparison in replace_exi | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
-| 1268 | [296632](../reports/296632.md) | Audit log validation | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/docker | None | — | 4 |
-| 1269 | [1186926](../reports/1186926.md) | Flaws In Social media Icon on error page which can lead | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 4 |
-| 1270 | [1057216](../reports/1057216.md) | Regex Injection from request header (Rack::Sendfile, se | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | None | — | 4 |
-| 1271 | [1183520](../reports/1183520.md) | RSA PRIVATE KEY discloser | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 4 |
-| 1272 | [1133670](../reports/1133670.md) |  ETHEREUM_PRIVATE_KEY leaked via Open Github Repository | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 4 |
-| 1273 | [3734935](../reports/3734935.md) | rustls backend silently ignores CURLOPT_CRLFILE when na | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
-| 1274 | [3739561](../reports/3739561.md) | SSL session-cache peer key omits signature_algorithms:  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
-| 1275 | [361089](../reports/361089.md) | twitter api access token leaked on github  | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | None | — | 4 |
-| 1276 | [951623](../reports/951623.md) | Vulnerabilities in Endorsement Mechanism of Private Dat | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric | None | — | 3 |
-| 1277 | [3725659](../reports/3725659.md) | Kerberos/SPNEGO Connection Reuse Vulnerability | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
-| 1278 | [1789602](../reports/1789602.md) | Contacts only sanitizes PHOTO svg if mime type is all l | [Nextcloud](../by-program/nextcloud.md) | nextcloud/contacts | None | — | 3 |
-| 1279 | [1187156](../reports/1187156.md) | XSS in HTML generated by RDoc | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 3 |
-| 1280 | [1173411](../reports/1173411.md) | Nextcloud update checks leaks information | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 3 |
-| 1281 | [1187816](../reports/1187816.md) | Dependency Confusion Vulnerability in Sifnode Due to Un | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 3 |
-| 1282 | [3741135](../reports/3741135.md) | Connection reuse ignores haproxyprotocol and HAPROXY_CL | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
-| 1283 | [629879](../reports/629879.md) | loader.js is not secure | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 3 |
-| 1284 | [1188982](../reports/1188982.md) | Found key_adress and key_password in GitHub history | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 3 |
-| 1285 | [1132690](../reports/1132690.md) | Exposed Openapi Token | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 3 |
-| 1286 | [3734992](../reports/3734992.md) | Schannel custom-CA path skips Extended Key Usage enforc | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
-| 1287 | [461345](../reports/461345.md) | Security issue: Github repo's wiki publicly editable | [Ian Dunn](../by-program/iandunn-projects.md) | GitHub repositories | None | — | 3 |
-| 1288 | [3734921](../reports/3734921.md) | Trailing-dot IPv4 URL bypasses IP-address guard, allows | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
-| 1289 | [678487](../reports/678487.md) | Hostname spoofing | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 3 |
-| 1290 | [3735276](../reports/3735276.md) | TLS peer-verification bypass via mid-transfer ssl_confi | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
-| 1291 | [362702](../reports/362702.md) | XSS in express-useragent through HTTP User-Agent | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | express-useragent | None | — | 3 |
-| 1292 | [549831](../reports/549831.md) | External Storage - WebDAV - New user has access to stor | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 2 |
-| 1293 | [3734095](../reports/3734095.md) | TLS verifyhost bypass in rustls, mbedTLS, and wolfSSL w | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 1294 | [1195432](../reports/1195432.md) | Found a url on source code which was disclosing differe | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 2 |
-| 1295 | [3733946](../reports/3733946.md) | Credentials forwarded to HTTP after HTTPS→HTTP same-por | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 1296 | [3734020](../reports/3734020.md) | HTTP/2 proxy CONNECT tunnel unbounded 1xx chain (missin | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 1297 | [1187001](../reports/1187001.md) | No valid SPF record found | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 2 |
-| 1298 | [3735179](../reports/3735179.md) | CURLOPT_PROXY_CAINFO_BLOB silently activates native CA  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 1299 | [627245](../reports/627245.md) | Integer overlow in "header_append" function | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 1300 | [1188998](../reports/1188998.md) |  Information disclosure on Sifchain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
-| 1301 | [1183809](../reports/1183809.md) | mongodb credentials leaked in github | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
-| 1302 | [1019372](../reports/1019372.md) | Parallel upload hangs curl if upload file not found | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 1303 | [1180668](../reports/1180668.md) | Vulnerability : Email Spoofing | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
-| 1304 | [3751715](../reports/3751715.md) | Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUE | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 1305 | [1188633](../reports/1188633.md) | Linux Desktop application "sifnoded" executable does no | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
-| 1306 | [361054](../reports/361054.md) | Phishing by Navigating Browser Tabs | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | None | — | 1 |
-| 1307 | [1590102](../reports/1590102.md) | KRB-FTP: Security level downgrade | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 1308 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 1309 | [676710](../reports/676710.md) | Http response is not ended although underlying socket i | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 1 |
-| 1310 | [1188725](../reports/1188725.md) | No Valid SPF Records at sifchain.finance | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
-| 1311 | [1218784](../reports/1218784.md) | information disclosure | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
-| 1312 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL aga | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 1313 | [1195423](../reports/1195423.md) | Information Disclosure at one of your subdomain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
+| 1158 | [1625036](../reports/1625036.md) | Insecure loading of ICU data through ICU_DATA environme | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.0 | — | 4 |
+| 1159 | [1378706](../reports/1378706.md) | RDoc::MethodAttr is vulnerable to Regular Expression De | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Low | — | 4 |
+| 1160 | [311333](../reports/311333.md) | Prototype pollution attack (deep-extend) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | deep-extend | Low — CVSS 2.0 | — | 4 |
+| 1161 | [1200992](../reports/1200992.md) | No admin audit log for auth tokens | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 3 |
+| 1162 | [310671](../reports/310671.md) | [file-static-server] Path Traversal allows to read cont | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low — CVSS 3.5 | — | 3 |
+| 1163 | [1913110](../reports/1913110.md) | CVE-2023-27537: HSTS double-free | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 3 |
+| 1164 | [1354255](../reports/1354255.md) | Open redirect in fastify-static via mishandled user's i | [Fastify](../by-program/fastify.md) | https://github.com/fastify | Low — CVSS 3.7 | — | 3 |
+| 1165 | [298218](../reports/298218.md) | antispambot does not always escape <, >, &, " and ' | [WordPress](../by-program/wordpress.md) | WordPress Core | Low | — | 3 |
+| 1166 | [1195568](../reports/1195568.md) | Ransomware protection is missing extentions | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 3 |
+| 1167 | [1223882](../reports/1223882.md) | CVE-2021-22925: TELNET stack contents disclosure again | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low — CVSS 3.1 | — | 3 |
+| 1168 | [503821](../reports/503821.md) | Assertion `col >= 0 && col < line->cols' failed, proces | [PuTTY (European Commission - DIGIT)](../by-program/putty_h1c.md) | https://www.chiark.greenend.org.uk/~sgta | Low | — | 3 |
+| 1169 | [310708](../reports/310708.md) | Prototype pollution attack (merge-deep) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | merge-deep | Low — CVSS 1.8 | — | 3 |
+| 1170 | [895730](../reports/895730.md) | Contacts menu (not app) fails to restrict (to local gro | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.2 | — | 3 |
+| 1171 | [1468962](../reports/1468962.md) | Binary output bypass | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
+| 1172 | [1950627](../reports/1950627.md) | CVE-2023-28321: IDN wildcard match | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
+| 1173 | [1198203](../reports/1198203.md) | Bootstrap library is vulnerable | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 2 |
+| 1174 | [885041](../reports/885041.md) | The password of a mail share is not hashed if the passw | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 2 |
+| 1175 | [2070810](../reports/2070810.md) | Potential NULL dereference in libssh's sftp server | [Internet Bug Bounty](../by-program/ibb.md) | https://git.libssh.org/ | Low — CVSS 3.1 | — | 2 |
+| 1176 | [831654](../reports/831654.md) | "Self" DOS with large deployment and scaling | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Low — CVSS 3.7 | — | 2 |
+| 1177 | [2104567](../reports/2104567.md) | (CVE-2023-32003) fs.mkdtemp() and fs.mkdtempSync() are  | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/nodejs/node | Low | — | 2 |
+| 1178 | [264426](../reports/264426.md) | Nextcloud logs ldap passwords | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 2 |
+| 1179 | [765664](../reports/765664.md) | Heap Buffer Overflow (READ of size 1) in ourWriteOut | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
+| 1180 | [453795](../reports/453795.md) | [harp] Unsafe rendering of Markdown files | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | harp | Low — CVSS 3.3 | — | 2 |
+| 1181 | [310446](../reports/310446.md) | Prototype pollution attack (deap) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | deap | Low — CVSS 2.0 | — | 2 |
+| 1182 | [662412](../reports/662412.md) | Integer overflow  at line 1603 in the src/operator.c fi | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low — CVSS 3.3 | — | 1 |
+| 1183 | [1126401](../reports/1126401.md) | HTTPS not enforced at dex.sifchain.finance | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 1 |
+| 1184 | [636013](../reports/636013.md) | huge COLUMNS causes progress-bar to buffer overflow | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1185 | [640530](../reports/640530.md) | Insecure Frame (External) | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1186 | [1463013](../reports/1463013.md) | Occasional use-after-free in multi_done() libcurl-7.81. | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1187 | [696822](../reports/696822.md) | Potential invocation of qsort on uninitialized memory d | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1188 | [1188643](../reports/1188643.md) | Vulnerable javascript dependency at Main domain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 1 |
+| 1189 | [812028](../reports/812028.md) | xss on setup config page  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 1 |
+| 1190 | [311336](../reports/311336.md) | Prototype pollution attack (merge-options) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | merge-options | Low — CVSS 2.6 | — | 1 |
+| 1191 | [311337](../reports/311337.md) | Prototype pollution attack (merge-recursive) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | merge-recursive | Low — CVSS 2.0 | — | 1 |
+| 1192 | [694449](../reports/694449.md) | Buffer write overflow when forming dns over http reques | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1193 | [776371](../reports/776371.md) | [chart.js] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low — CVSS 3.1 | — | 1 |
+| 1194 | [1102064](../reports/1102064.md) | kubectl creating secrets from stringData leaves secret  | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubectl | Low — CVSS 3.5 | — | 1 |
+| 1195 | [872089](../reports/872089.md) | Curl_auth_create_plain_message integer overflow leads t | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low — CVSS 2.8 | — | 0 |
+| 1196 | [1188652](../reports/1188652.md) | Design Issues at Main Domain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 0 |
+| 1197 | [856588](../reports/856588.md) | [flsaba] Stored XSS in the file and directory name when | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low — CVSS 3.9 | — | 0 |
+| 1198 | [3122019](../reports/3122019.md) | Remote Code Execution via unsafe usage of `reply.view({ | [Fastify](../by-program/fastify.md) | https://github.com/fastify | None | — | 66 |
+| 1199 | [651518](../reports/651518.md) | OS Command Injection via egrep in Rake::FileList | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 62 |
+| 1200 | [3133379](../reports/3133379.md) | CRLF Injection in `--proxy-header` allows extra HTTP he | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 42 |
+| 1201 | [3639277](../reports/3639277.md) | Bypassing Strict SSH Server Verification via Connection | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 37 |
+| 1202 | [1485717](../reports/1485717.md) | ReDoS in IPAddr | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 31 |
+| 1203 | [3518758](../reports/3518758.md) | IDOR on ██████ via direct photo URL leads to unauthoriz | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 30 |
+| 1204 | [3516878](../reports/3516878.md) | Cross‑origin cookies leak and injection risk when using | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 30 |
+| 1205 | [2720030](../reports/2720030.md) | Open redirect when logging in with user_oidc | [Nextcloud](../by-program/nextcloud.md) | nextcloud/user_oidc | None | — | 30 |
+| 1206 | [3679660](../reports/3679660.md) | mruby-engine: UAF in MRubyEngine#initialize enables loc | [Shopify](../by-program/shopify.md) | https://github.com/Shopify/* | None | — | 30 |
+| 1207 | [2981245](../reports/2981245.md) | ("possible") UAF | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 29 |
+| 1208 | [1067824](../reports/1067824.md) | Database error shown to the user when using a long gues | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 29 |
+| 1209 | [3575250](../reports/3575250.md) | RTSP RTP Interleaved Parser Assertion Failure (Zero-Len | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 28 |
+| 1210 | [3117697](../reports/3117697.md) | Double Free Vulnerability in `libcurl` Cookie Managemen | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 27 |
+| 1211 | [2449038](../reports/2449038.md) | CVE-2019-1551: rsaz_512_sqr overflow bug on x86_64 | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/openssl/openssl | None | — | 26 |
+| 1212 | [3022041](../reports/3022041.md) | Use after free (read) in curl_multi_perform with DoH an | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 26 |
+| 1213 | [3636244](../reports/3636244.md) | HackerOne Vulnerability Report: libcurl SSL/TLS Identit | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 26 |
+| 1214 | [3609505](../reports/3609505.md) | HSTS accepted from HTTP origin behind HTTPS proxy | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 25 |
+| 1215 | [3456148](../reports/3456148.md) | Unbounded decompression chain in HTTP responses on Node | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 24 |
+| 1216 | [942146](../reports/942146.md) | Open Github Repo Leaking WEBLATE SECRET KEY | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/weblate | None | — | 22 |
+| 1217 | [3620761](../reports/3620761.md) | Health check errors silently dropped when channel buffe | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/kubernetes-sigs/aws-e | None | — | 21 |
+| 1218 | [3516202](../reports/3516202.md) | Cookie Replacement Use-After-Free Vulnerability | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 21 |
+| 1219 | [3116935](../reports/3116935.md) | Use of a Broken or Risky Cryptographic Algorithm (CWE-3 | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 21 |
+| 1220 | [2260337](../reports/2260337.md) | Permissions can be bypassed via arbitrary code executio | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 20 |
+| 1221 | [3023139](../reports/3023139.md) | Memory leak of ftp (with proxy reuse) | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 20 |
+| 1222 | [2058556](../reports/2058556.md) | Self XSS when sending HTML as a comment in the Deck app | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | None | — | 20 |
+| 1223 | [3620760](../reports/3620760.md) | Encryption context keys and values logged at INFO level | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/kubernetes-sigs/aws-e | None | — | 19 |
+| 1224 | [3580247](../reports/3580247.md) | Use after free in hyperfifo example | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 19 |
+| 1225 | [361341](../reports/361341.md) | Unsafe deserialization in Libera Pay allows to escalate | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | None | — | 18 |
+| 1226 | [3650443](../reports/3650443.md) | no_proxy IDN mismatch: Unicode hostnames bypass proxy e | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 15 |
+| 1227 | [2439734](../reports/2439734.md) | Missing policies for password in password_policies.go | [passhash](../by-program/passhash.md) | https://github.com/dhui/passhash | None | — | 15 |
+| 1228 | [3665363](../reports/3665363.md) | Integer Overflow/Signedness Mismatch in Printf Precisio | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 15 |
+| 1229 | [3617719](../reports/3617719.md) | Function `do_pubkey()` can have out-of-bound read issue | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 13 |
+| 1230 | [1073363](../reports/1073363.md) | Index Out Of Bounds in protobuf unmarshalling | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | None | — | 13 |
+| 1231 | [3627638](../reports/3627638.md) | Security Vulnerability Report: Protocol Injection via P | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 13 |
+| 1232 | [461308](../reports/461308.md) | Remote attacker can impersonate Social users via Activi | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 12 |
+| 1233 | [272824](../reports/272824.md) | client_secret Token disclosure  | [Aspen](../by-program/aspen.md) | https://github.com/AspenWeb | None | — | 12 |
+| 1234 | [3575475](../reports/3575475.md) | Curl Telnet Handler Buffer Overflow | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 11 |
+| 1235 | [1145581](../reports/1145581.md) | Private KEY of crypto wallet | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 11 |
+| 1236 | [2377760](../reports/2377760.md) | fetch with integrity option is too lax when algorithm i | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 11 |
+| 1237 | [726117](../reports/726117.md) | SMB access smuggling via FILE URL on Windows | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 10 |
+| 1238 | [3135673](../reports/3135673.md) | curl -OJ allows creating custom .curlrc file which allo | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 10 |
+| 1239 | [3650473](../reports/3650473.md) | FTP entrypath accepts 0xFF (Telnet IAC) through incompl | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 10 |
+| 1240 | [3133253](../reports/3133253.md) | curl_easy_header runs at O(N) or worse and can be abuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 9 |
+| 1241 | [1194280](../reports/1194280.md) | CORS Misconfiguration | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 9 |
+| 1242 | [3089595](../reports/3089595.md) | Memory leak from doh_write_cb | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 9 |
+| 1243 | [1670187](../reports/1670187.md) | Cross Site Scripting Vulnerability in fabric-sdk-py sou | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric-sd | None | — | 9 |
+| 1244 | [3645415](../reports/3645415.md) | # SCURLOPT_SSH_KNOWNHOSTS and host fingerprint pins are | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 9 |
+| 1245 | [504759](../reports/504759.md) | Uploading large avatar images cause excessive CPU usage | [Nextcloud](../by-program/nextcloud.md) | nextcloud/3rdparty | None | — | 8 |
+| 1246 | [3045390](../reports/3045390.md) | Double free caused by mqtt_doing() | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
+| 1247 | [3646914](../reports/3646914.md) | ignoring 'options' when doing connection reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
+| 1248 | [3037326](../reports/3037326.md) | Free of uninitialized pointer in doh_decode_rdata_name( | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
+| 1249 | [3037583](../reports/3037583.md) | Buffer Overflow in curl's Rustls Backend | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
+| 1250 | [3508701](../reports/3508701.md) | Use-After-Free in curl_easy_nextheader when reusing hea | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
+| 1251 | [1183502](../reports/1183502.md) | Private RSA key for Vagrant exposed in GitHub repositor | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 7 |
+| 1252 | [261297](../reports/261297.md) | Disabled user can reset their password   | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 7 |
+| 1253 | [888176](../reports/888176.md) | HTTP Host injection in redirect_to function | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | None | — | 6 |
+| 1254 | [2831558](../reports/2831558.md) | netrc crlf injection | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 6 |
+| 1255 | [263508](../reports/263508.md) | Server Side Misconfiguration (EMAIL SPOOFING)  | [GSA Bounty](../by-program/gsa_bbp.md) | https://github.com/18f/federalist-proxy | None | — | 6 |
+| 1256 | [1241460](../reports/1241460.md) | ApiService#fetch serves content as text/html and inline | [Nextcloud](../by-program/nextcloud.md) | nextcloud/text | None | — | 6 |
+| 1257 | [926222](../reports/926222.md) | Vulnerability in Private Data Endorsement Policy Manage | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric-sa | None | — | 6 |
+| 1258 | [3734947](../reports/3734947.md) | HTTP/3 paused transfer buffers incoming data without bo | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
+| 1259 | [2861797](../reports/2861797.md) | curl mishandles `%0c%0b` sequences in HTTP responses le | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
+| 1260 | [3735080](../reports/3735080.md) | libssh SFTP initialization ignores CURLOPT_TIMEOUT, han | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
+| 1261 | [752353](../reports/752353.md) | Anonymous file drop page ignores user profile visibilit | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 5 |
+| 1262 | [2981303](../reports/2981303.md) | TLS Cipher Misconfiguration in HTTP/3/QUIC Support | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
+| 1263 | [1485501](../reports/1485501.md) | ReDoS in Time.rfc2822 | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 5 |
+| 1264 | [1186701](../reports/1186701.md) | DMARC and DNS Records not found on  mcuboot.com | [MCUboot](../by-program/mcuboot.md) | https://github.com/mcu-tools/mcuboot | None | — | 5 |
+| 1265 | [3733934](../reports/3733934.md) | CURLOPT_HSTS_CTRL disables shared HSTS without share gu | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
+| 1266 | [3651975](../reports/3651975.md) | SMTP Command Injection via CRLF in libcurl MAIL_FROM /  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
+| 1267 | [3717365](../reports/3717365.md) | mbedTLS private-key blob null-termination asymmetry in  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
+| 1268 | [3735238](../reports/3735238.md) | cookie: case-insensitive path comparison in replace_exi | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
+| 1269 | [296632](../reports/296632.md) | Audit log validation | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/docker | None | — | 4 |
+| 1270 | [1186926](../reports/1186926.md) | Flaws In Social media Icon on error page which can lead | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 4 |
+| 1271 | [1057216](../reports/1057216.md) | Regex Injection from request header (Rack::Sendfile, se | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | None | — | 4 |
+| 1272 | [1183520](../reports/1183520.md) | RSA PRIVATE KEY discloser | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 4 |
+| 1273 | [1133670](../reports/1133670.md) |  ETHEREUM_PRIVATE_KEY leaked via Open Github Repository | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 4 |
+| 1274 | [3734935](../reports/3734935.md) | rustls backend silently ignores CURLOPT_CRLFILE when na | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
+| 1275 | [3739561](../reports/3739561.md) | SSL session-cache peer key omits signature_algorithms:  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
+| 1276 | [361089](../reports/361089.md) | twitter api access token leaked on github  | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | None | — | 4 |
+| 1277 | [951623](../reports/951623.md) | Vulnerabilities in Endorsement Mechanism of Private Dat | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric | None | — | 3 |
+| 1278 | [3725659](../reports/3725659.md) | Kerberos/SPNEGO Connection Reuse Vulnerability | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
+| 1279 | [1789602](../reports/1789602.md) | Contacts only sanitizes PHOTO svg if mime type is all l | [Nextcloud](../by-program/nextcloud.md) | nextcloud/contacts | None | — | 3 |
+| 1280 | [1187156](../reports/1187156.md) | XSS in HTML generated by RDoc | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 3 |
+| 1281 | [1173411](../reports/1173411.md) | Nextcloud update checks leaks information | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 3 |
+| 1282 | [1187816](../reports/1187816.md) | Dependency Confusion Vulnerability in Sifnode Due to Un | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 3 |
+| 1283 | [3741135](../reports/3741135.md) | Connection reuse ignores haproxyprotocol and HAPROXY_CL | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
+| 1284 | [629879](../reports/629879.md) | loader.js is not secure | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 3 |
+| 1285 | [1188982](../reports/1188982.md) | Found key_adress and key_password in GitHub history | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 3 |
+| 1286 | [1132690](../reports/1132690.md) | Exposed Openapi Token | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 3 |
+| 1287 | [3734992](../reports/3734992.md) | Schannel custom-CA path skips Extended Key Usage enforc | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
+| 1288 | [461345](../reports/461345.md) | Security issue: Github repo's wiki publicly editable | [Ian Dunn](../by-program/iandunn-projects.md) | GitHub repositories | None | — | 3 |
+| 1289 | [3734921](../reports/3734921.md) | Trailing-dot IPv4 URL bypasses IP-address guard, allows | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
+| 1290 | [678487](../reports/678487.md) | Hostname spoofing | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 3 |
+| 1291 | [3735276](../reports/3735276.md) | TLS peer-verification bypass via mid-transfer ssl_confi | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
+| 1292 | [362702](../reports/362702.md) | XSS in express-useragent through HTTP User-Agent | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | express-useragent | None | — | 3 |
+| 1293 | [549831](../reports/549831.md) | External Storage - WebDAV - New user has access to stor | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 2 |
+| 1294 | [3734095](../reports/3734095.md) | TLS verifyhost bypass in rustls, mbedTLS, and wolfSSL w | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 1295 | [1195432](../reports/1195432.md) | Found a url on source code which was disclosing differe | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 2 |
+| 1296 | [3733946](../reports/3733946.md) | Credentials forwarded to HTTP after HTTPS→HTTP same-por | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 1297 | [3734020](../reports/3734020.md) | HTTP/2 proxy CONNECT tunnel unbounded 1xx chain (missin | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 1298 | [1187001](../reports/1187001.md) | No valid SPF record found | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 2 |
+| 1299 | [3735179](../reports/3735179.md) | CURLOPT_PROXY_CAINFO_BLOB silently activates native CA  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 1300 | [627245](../reports/627245.md) | Integer overlow in "header_append" function | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 1301 | [1188998](../reports/1188998.md) |  Information disclosure on Sifchain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
+| 1302 | [1183809](../reports/1183809.md) | mongodb credentials leaked in github | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
+| 1303 | [1019372](../reports/1019372.md) | Parallel upload hangs curl if upload file not found | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 1304 | [1180668](../reports/1180668.md) | Vulnerability : Email Spoofing | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
+| 1305 | [3751715](../reports/3751715.md) | Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUE | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 1306 | [1188633](../reports/1188633.md) | Linux Desktop application "sifnoded" executable does no | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
+| 1307 | [361054](../reports/361054.md) | Phishing by Navigating Browser Tabs | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | None | — | 1 |
+| 1308 | [1590102](../reports/1590102.md) | KRB-FTP: Security level downgrade | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 1309 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 1310 | [676710](../reports/676710.md) | Http response is not ended although underlying socket i | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 1 |
+| 1311 | [1188725](../reports/1188725.md) | No Valid SPF Records at sifchain.finance | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
+| 1312 | [1218784](../reports/1218784.md) | information disclosure | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
+| 1313 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL aga | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 1314 | [1195423](../reports/1195423.md) | Information Disclosure at one of your subdomain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |

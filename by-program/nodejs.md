@@ -1,4 +1,4 @@
-# Node.js — Disclosed Reports (89 total)
+# Node.js — Disclosed Reports (90 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -86,10 +86,11 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 80 | [2408074](../reports/2408074.md) | Proxy-Authorization header not cleared on cross-origin redir | Low | — | 9 | [iylz](https://hackerone.com/iylz) | 2024-05-03 |
 | 81 | [2051224](../reports/2051224.md) | fs.statfs bypasses Permission Model | Low — CVSS 3.3 | — | 8 | [rafaelgss](https://hackerone.com/rafaelgss) | 2023-09-10 |
 | 82 | [3449392](../reports/3449392.md) | CVE-2024-36137 Patch Bypass - FileHandle.chmod/chown | Low — CVSS 3.3 | — | 6 | [wooseokdotkim](https://hackerone.com/wooseokdotkim) | 2026-03-30 |
-| 83 | [340580](../reports/340580.md) | registry.nodejs.org Subdomain Takeover | None | — | 35 | [dade](https://hackerone.com/dade) | 2018-05-04 |
-| 84 | [3456148](../reports/3456148.md) | Unbounded decompression chain in HTTP responses on Node.js F | None | — | 24 | [illia-v](https://hackerone.com/illia-v) | 2026-02-23 |
-| 85 | [2260337](../reports/2260337.md) | Permissions can be bypassed via arbitrary code execution thr | None | — | 20 | [xion](https://hackerone.com/xion) | 2024-08-08 |
-| 86 | [2377760](../reports/2377760.md) | fetch with integrity option is too lax when algorithm is spe | None | — | 11 | [uzlopak](https://hackerone.com/uzlopak) | 2024-05-03 |
-| 87 | [629879](../reports/629879.md) | loader.js is not secure | None | — | 3 | [cdpython](https://hackerone.com/cdpython) | 2020-06-11 |
-| 88 | [678487](../reports/678487.md) | Hostname spoofing | None | — | 3 | [tosh](https://hackerone.com/tosh) | 2020-01-10 |
-| 89 | [676710](../reports/676710.md) | Http response is not ended although underlying socket is alr | None | — | 1 | [verdaster](https://hackerone.com/verdaster) | 2020-01-15 |
+| 83 | [1625036](../reports/1625036.md) | Insecure loading of ICU data through ICU_DATA environment va | Low — CVSS 3.0 | — | 4 | [bnoordhuis](https://hackerone.com/bnoordhuis) | 2023-03-19 |
+| 84 | [340580](../reports/340580.md) | registry.nodejs.org Subdomain Takeover | None | — | 35 | [dade](https://hackerone.com/dade) | 2018-05-04 |
+| 85 | [3456148](../reports/3456148.md) | Unbounded decompression chain in HTTP responses on Node.js F | None | — | 24 | [illia-v](https://hackerone.com/illia-v) | 2026-02-23 |
+| 86 | [2260337](../reports/2260337.md) | Permissions can be bypassed via arbitrary code execution thr | None | — | 20 | [xion](https://hackerone.com/xion) | 2024-08-08 |
+| 87 | [2377760](../reports/2377760.md) | fetch with integrity option is too lax when algorithm is spe | None | — | 11 | [uzlopak](https://hackerone.com/uzlopak) | 2024-05-03 |
+| 88 | [629879](../reports/629879.md) | loader.js is not secure | None | — | 3 | [cdpython](https://hackerone.com/cdpython) | 2020-06-11 |
+| 89 | [678487](../reports/678487.md) | Hostname spoofing | None | — | 3 | [tosh](https://hackerone.com/tosh) | 2020-01-10 |
+| 90 | [676710](../reports/676710.md) | Http response is not ended although underlying socket is alr | None | — | 1 | [verdaster](https://hackerone.com/verdaster) | 2020-01-15 |

@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1642 total)
+# High/Critical Severity — No Bounty Paid (1643 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -1384,6 +1384,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [586251](../reports/586251.md) | Homebrew installed LaunchDaemons create simple root esclations | [Homebrew](../by-program/homebrew.md) | High | Resolved | 8 |
 | [625199](../reports/625199.md) | Wordpress Users Disclosure | [Nextcloud](../by-program/nextcloud.md) | High | Duplicate | 8 |
 | [47280](../reports/47280.md) | JSON keys are not properly escaped | [Ruby on Rails](../by-program/rails.md) | High — CVSS 7.2 | Resolved | 8 |
+| [1624374](../reports/1624374.md) | Broken access discloses users and PII at https://███████ [HtUS] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 8 |
 | [181816](../reports/181816.md) | [marketplace.informatica.com] Persistent XSS through document tit | [Informatica](../by-program/informatica.md) | High | Resolved | 8 |
 | [309120](../reports/309120.md) | [angular-http-server] Path Traversal in angular-http-server.js al | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | Resolved | 8 |
 | [84740](../reports/84740.md) | Stored XSS On Statement | [Gratipay](../by-program/gratipay.md) | High | Resolved | 8 |
