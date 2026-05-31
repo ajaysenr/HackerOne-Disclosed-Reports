@@ -7926,6 +7926,7 @@ https://hackerone.com/reports/1626210 | Local file read at https://████/
 https://hackerone.com/reports/1626226 | Unauthenticated SQL Injection at █████████  [HtUS]
 https://hackerone.com/reports/1626236 | Critical sensitive information Disclosure. [HtUS]
 https://hackerone.com/reports/1626281 | Password reset tokens sent to CSP reporting endpoints
+https://hackerone.com/reports/1626356 | Account Takeover and Information update due to cross site request forgery via POST █████████/registration/my-account.cfm
 https://hackerone.com/reports/1626508 | IDOR leading unauthenticated attacker to download documents discloses PII of users and soldiers via https://www.█████████/Download.aspx?id= [HtUS]
 https://hackerone.com/reports/1627159 | Rack CVE-2022-30122: Denial of Service Vulnerability in Rack Multipart Parsing
 https://hackerone.com/reports/1627616 | RXSS on █████████
