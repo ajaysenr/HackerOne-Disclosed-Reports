@@ -9393,6 +9393,7 @@ https://hackerone.com/reports/3603300 | SMB READ_ANDX DataOffset not validated
 https://hackerone.com/reports/3604288 | Access to Deactivated LinkedIn Company Pages via Competitor Analytics API
 https://hackerone.com/reports/3608199 | DOM XSS in `fizzy.do` import filename preview enables one-click victim account takeover
 https://hackerone.com/reports/3608522 | Unescaped username in SASL DIGEST-MD5 response allows injection
+https://hackerone.com/reports/3608558 | Blind POST SSRF via Web Push Notification Endpoint
 https://hackerone.com/reports/3609505 | HSTS accepted from HTTP origin behind HTTPS proxy
 https://hackerone.com/reports/3611825 | Bearer Token Leaked to Attacker via .netrc Despite CVE-2026-3783 Fix
 https://hackerone.com/reports/3612891 | Exposed .git/config File Leading to Potential Sensitive Information Disclosure
