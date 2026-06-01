@@ -9484,3 +9484,4 @@ https://hackerone.com/reports/3747959 | curl --skip-existing has a TOCTOU race t
 https://hackerone.com/reports/3751715 | Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUESS_SCHEME` + `CURLU_NO_GUESS_SCHEME` flow
 https://hackerone.com/reports/3752489 | Memory Corruption via TOCTOU Race in SharedArrayBuffer UTF-8 Decode (`StringBytes::Encode`)
 https://hackerone.com/reports/3752567 | curl GnuTLS backend accepts a clientAuth-only certificate for HTTPS server authentication
+https://hackerone.com/reports/3769293 | Low priority HSTS bypass in curl_easy_duphandle()
