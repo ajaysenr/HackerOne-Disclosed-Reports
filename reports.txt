@@ -7928,6 +7928,7 @@ https://hackerone.com/reports/1626236 | Critical sensitive information Disclosur
 https://hackerone.com/reports/1626281 | Password reset tokens sent to CSP reporting endpoints
 https://hackerone.com/reports/1626356 | Account Takeover and Information update due to cross site request forgery via POST █████████/registration/my-account.cfm
 https://hackerone.com/reports/1626508 | IDOR leading unauthenticated attacker to download documents discloses PII of users and soldiers via https://www.█████████/Download.aspx?id= [HtUS]
+https://hackerone.com/reports/1626962 | RXSS on ███████
 https://hackerone.com/reports/1627159 | Rack CVE-2022-30122: Denial of Service Vulnerability in Rack Multipart Parsing
 https://hackerone.com/reports/1627616 | RXSS on █████████
 https://hackerone.com/reports/1627961 | Account takeover on ███████ [HtUS]
