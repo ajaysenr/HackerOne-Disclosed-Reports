@@ -1,4 +1,4 @@
-# Weakness: Cross-site Scripting (XSS) - Reflected (358 reports)
+# Weakness: Cross-site Scripting (XSS) - Reflected (359 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -283,82 +283,83 @@
 | 277 | [3127154](../reports/3127154.md) | POST XSS -  data[type] parameter | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
 | 278 | [453307](../reports/453307.md) | HTML Injection + XSS Vulnerability - https://████████/ | Proof of | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
 | 279 | [1309385](../reports/1309385.md) | Reflected XSS [██████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
-| 280 | [864091](../reports/864091.md) | RXSS - https://███/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
-| 281 | [1882754](../reports/1882754.md) | Reflected XSS in ██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
-| 282 | [1095765](../reports/1095765.md) | Reflected XSS in https://██████████ via "████████" parameter | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
-| 283 | [225020](../reports/225020.md) | reflected xss @ www.█████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
-| 284 | [1606068](../reports/1606068.md) | XSS DUE TO CVE-2020-3580 | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
-| 285 | [412754](../reports/412754.md) | XSS (Cross site scripting) on https://apimgr.8x8.com | [8x8](../by-program/8x8-bounty.md) | Medium | — | 4 |
-| 286 | [3284534](../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
-| 287 | [541199](../reports/541199.md) | Reflected XSS on card.starbucks.com.sg/unsubRevert.php via the 'c | [Starbucks](../by-program/starbucks.md) | Medium — CVSS 6.4 | — | 4 |
-| 288 | [1109544](../reports/1109544.md) | Self XSS + CSRF Leads to Reflected XSS in https://████/  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
-| 289 | [804364](../reports/804364.md) | Reflected XSS on https://███████/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
-| 290 | [3135626](../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP ASM By | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
-| 291 | [1309386](../reports/1309386.md) | Reflected XSS [██████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
-| 292 | [648298](../reports/648298.md) | [███████] Reflected GET XSS (/mission.php?...&missionDate=*) | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
-| 293 | [3269780](../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
-| 294 | [1252059](../reports/1252059.md) | XSS on https://██████/███ via █████ parameter | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
-| 295 | [686595](../reports/686595.md) | Improper Neutralization of Input During Web Page Generation | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
-| 296 | [373950](../reports/373950.md) | Reflected Cross-Site Scripting in Serendipity (serendipity.SetCoo | [Hanno's projects](../by-program/hannob.md) | Medium | — | 3 |
-| 297 | [838178](../reports/838178.md) | Reflected XSS in "*.mendix.com/openid/*" | [Mendix](../by-program/mendix.md) | Medium — CVSS 6.4 | — | 3 |
-| 298 | [1627616](../reports/1627616.md) | RXSS on █████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
-| 299 | [866837](../reports/866837.md) | Post Based Reflected XSS on https://apps.topcoder.com/wiki/plugin | [Lab45](../by-program/lab45.md) | Medium | — | 3 |
-| 300 | [1457444](../reports/1457444.md) | Reflected XSS at https://██████/██████ via "██████" parameter | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
-| 301 | [984654](../reports/984654.md) | RXSS Via URI Path - https://██████████/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
-| 302 | [1260823](../reports/1260823.md) | Reflected XSS - https://███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
-| 303 | [1305477](../reports/1305477.md) | XSS because of Akamai ARL misconfiguration on ████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
-| 304 | [1244145](../reports/1244145.md) | RXSS ON https://██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
-| 305 | [1143783](../reports/1143783.md) | xss reflected on https://███████- (███ parameters) | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
-| 306 | [1252020](../reports/1252020.md) | XSS on https://████████/████' parameter | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
-| 307 | [1103033](../reports/1103033.md) | Reflected XSS on https://█████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
-| 308 | [799839](../reports/799839.md) | Reflected XSS - in Email Input | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
-| 309 | [1699762](../reports/1699762.md) | XSS in www.shopify.com/markets?utm_source= | [Shopify](../by-program/shopify.md) | Low — CVSS 3.3 | — | 158 |
-| 310 | [2014955](../reports/2014955.md) | #1 XSS on watchdocs.indriverapp.com | [inDrive](../by-program/indrive.md) | Low | — | 144 |
-| 311 | [323005](../reports/323005.md) | CSRF leads to a stored self xss | [Imgur](../by-program/imgur.md) | Low | — | 143 |
-| 312 | [859395](../reports/859395.md) | Reflected XSS on http://www.grouplogic.com/files/glidownload/veri | [Acronis](../by-program/acronis.md) | Low | — | 84 |
-| 313 | [2106708](../reports/2106708.md) | Bypass of #2035332 RXSS at image.hackerone.live via the `url` par | [HackerOne](../by-program/security.md) | Low — CVSS 3.9 | — | 80 |
-| 314 | [629745](../reports/629745.md) | Reflected cross-site scripting on multiple Starbucks assets. | [Starbucks](../by-program/starbucks.md) | Low — CVSS 3.4 | — | 72 |
-| 315 | [2028265](../reports/2028265.md) | #3 XSS on watchdocs.indriverapp.com | [inDrive](../by-program/indrive.md) | Low | — | 67 |
-| 316 | [2419227](../reports/2419227.md) | XSS in new.loading.page.html | [GoCD](../by-program/gocd.md) | Low — CVSS 3.1 | — | 62 |
-| 317 | [716761](../reports/716761.md) | WAF bypass via double encoded non standard ASCII chars permitted  | [Starbucks](../by-program/starbucks.md) | Low — CVSS 3.8 | — | 58 |
-| 318 | [3424998](../reports/3424998.md) | AI Playground XSS to steal user-chat messages and access to conne | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | Low | — | 56 |
-| 319 | [259100](../reports/259100.md) | XSS through `__e2e_action_id` delivered by JSONP | [Quora](../by-program/quora.md) | Low | — | 53 |
-| 320 | [2684274](../reports/2684274.md) | RXSS on ████ via configUrl parameter | [Mars](../by-program/mars.md) | Low — CVSS 3.8 | — | 51 |
-| 321 | [569241](../reports/569241.md) | Reflected XSS  | [Shopify](../by-program/shopify.md) | Low | — | 48 |
-| 322 | [1040533](../reports/1040533.md) | [intensedebate.com] XSS Reflected POST-Based  | [Automattic](../by-program/automattic.md) | Low — CVSS 3.9 | — | 42 |
-| 323 | [515484](../reports/515484.md) | [Reflected XSS] In Request URL | [Nextcloud](../by-program/nextcloud.md) | Low | — | 37 |
-| 324 | [286667](../reports/286667.md) | Self-XSS in password reset functionality | [Shopify](../by-program/shopify.md) | Low — CVSS 3.8 | — | 34 |
-| 325 | [1145712](../reports/1145712.md) | Reflected XSS on www.acronis.com/de-de/my/subscriptions/index.htm | [Acronis](../by-program/acronis.md) | Low | — | 32 |
-| 326 | [2403554](../reports/2403554.md) | XSS on LINE CAREERS | [LY Corporation](../by-program/line.md) | Low | — | 26 |
-| 327 | [297203](../reports/297203.md) | Reflected XSS using Header Injection | [Semrush](../by-program/semrush.md) | Low | — | 25 |
-| 328 | [961787](../reports/961787.md) | CSRF and XSS on www.acronis.com | [Acronis](../by-program/acronis.md) | Low | — | 25 |
-| 329 | [491023](../reports/491023.md) | XSS Reflected on my_report | [Semrush](../by-program/semrush.md) | Low | — | 25 |
-| 330 | [1194301](../reports/1194301.md) | Reflected XSS in https://www.topcoder.com/blog/category/community | [Lab45](../by-program/lab45.md) | Low — CVSS 3.4 | — | 22 |
-| 331 | [415139](../reports/415139.md) | Reflected xss on theacademy.upserve.com | [Upserve ](../by-program/upserve.md) | Low | — | 20 |
-| 332 | [289330](../reports/289330.md) | Reflected XSS vulnerability in Database name field on installatio | [Concrete CMS](../by-program/concretecms.md) | Low | — | 18 |
-| 333 | [752042](../reports/752042.md) | Content Injection on api.semrush.com to Reflected XSS | [Semrush](../by-program/semrush.md) | Low | — | 16 |
-| 334 | [360797](../reports/360797.md) | Authenticated reflected XSS on liberapay.com via the back_to para | [Liberapay](../by-program/liberapay.md) | Low — CVSS 3.5 | — | 16 |
-| 335 | [1591403](../reports/1591403.md) | Self XSS in https://linkpop.com/dashboard/admin | [Shopify](../by-program/shopify.md) | Low | — | 16 |
-| 336 | [316319](../reports/316319.md) | XSS on redirection page( Bypassed)  | [Semrush](../by-program/semrush.md) | Low | — | 15 |
-| 337 | [786238](../reports/786238.md) | Reflected XSS on https://www.semrush.com/my_reports/externalSourc | [Semrush](../by-program/semrush.md) | Low | — | 12 |
-| 338 | [375352](../reports/375352.md) | Post Based XSS On Upload Via CK Editor [semrush.com] | [Semrush](../by-program/semrush.md) | Low — CVSS 3.5 | — | 12 |
-| 339 | [384112](../reports/384112.md) | xss - reflected | [WordPress](../by-program/wordpress.md) | Low | — | 10 |
-| 340 | [296094](../reports/296094.md) | Reflected Cross-site Scripting Vulnerability via JSON Error Messa | [Inflection](../by-program/inflection.md) | Low — CVSS 3.7 | — | 7 |
-| 341 | [217108](../reports/217108.md) | Reflected XSS in a DoD Website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 6 |
-| 342 | [1167034](../reports/1167034.md) | Reflected Cross Site Scripting at http://www.grouplogic.com/files | [Acronis](../by-program/acronis.md) | Low | — | 5 |
-| 343 | [253313](../reports/253313.md) | XSS Vulnerability in WooCommerce Product Vendors plugin | [Automattic](../by-program/automattic.md) | Low | — | 4 |
-| 344 | [296377](../reports/296377.md) | [redis-commander] Reflected SWF XSS via vulnerable "clipboard.swf | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low | — | 4 |
-| 345 | [1166918](../reports/1166918.md) | Reflected Cross Site Scripting at  ColdFusion Debugging Panel  ht | [Acronis](../by-program/acronis.md) | Low | — | 4 |
-| 346 | [219729](../reports/219729.md) | Reflected XSS on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 3 |
-| 347 | [218136](../reports/218136.md) | Reflected XSS vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 3 |
-| 348 | [741439](../reports/741439.md) | Unauthenticated Reflected Cross-Site Scripting on https://account | [Clario](../by-program/clario.md) | Low | — | 2 |
-| 349 | [766404](../reports/766404.md) | MK Site Cross-Site Scripting (XSS) in script context | [Clario](../by-program/clario.md) | Low | — | 2 |
-| 350 | [740999](../reports/740999.md) | Reflected XSS | [Clario](../by-program/clario.md) | Low | — | 2 |
-| 351 | [840515](../reports/840515.md) | rxss at https://mackeeper.com page not found via rid parameter | [Clario](../by-program/clario.md) | Low | — | 2 |
-| 352 | [770349](../reports/770349.md) | Reflected XSS in twitterflightschool.com | [X / xAI](../by-program/x.md) | None | — | 140 |
-| 353 | [226428](../reports/226428.md) | Reflected XSS in <any>.myshopify.com through theme preview | [Shopify](../by-program/shopify.md) | None | — | 69 |
-| 354 | [1028396](../reports/1028396.md) | Reflected XSS and possible SSRF/XXE on https://events.hackerone.c | [HackerOne](../by-program/security.md) | None | — | 32 |
-| 355 | [1058427](../reports/1058427.md) | xss reflected on imgur.com | [Imgur](../by-program/imgur.md) | None | — | 15 |
-| 356 | [831803](../reports/831803.md) | RXSS in http://procurement-businesscatalog.informatica.com | [Informatica](../by-program/informatica.md) | None | — | 13 |
-| 357 | [355773](../reports/355773.md) | XSS on support.wordcamp.org in ajax-quote.php | [WordPress](../by-program/wordpress.md) | None | — | 9 |
-| 358 | [219170](../reports/219170.md) | XSS | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 8 |
+| 280 | [1626962](../reports/1626962.md) | RXSS on ███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
+| 281 | [864091](../reports/864091.md) | RXSS - https://███/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
+| 282 | [1882754](../reports/1882754.md) | Reflected XSS in ██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
+| 283 | [1095765](../reports/1095765.md) | Reflected XSS in https://██████████ via "████████" parameter | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
+| 284 | [225020](../reports/225020.md) | reflected xss @ www.█████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
+| 285 | [1606068](../reports/1606068.md) | XSS DUE TO CVE-2020-3580 | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
+| 286 | [412754](../reports/412754.md) | XSS (Cross site scripting) on https://apimgr.8x8.com | [8x8](../by-program/8x8-bounty.md) | Medium | — | 4 |
+| 287 | [3284534](../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
+| 288 | [541199](../reports/541199.md) | Reflected XSS on card.starbucks.com.sg/unsubRevert.php via the 'c | [Starbucks](../by-program/starbucks.md) | Medium — CVSS 6.4 | — | 4 |
+| 289 | [1109544](../reports/1109544.md) | Self XSS + CSRF Leads to Reflected XSS in https://████/  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
+| 290 | [804364](../reports/804364.md) | Reflected XSS on https://███████/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
+| 291 | [3135626](../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP ASM By | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
+| 292 | [1309386](../reports/1309386.md) | Reflected XSS [██████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
+| 293 | [648298](../reports/648298.md) | [███████] Reflected GET XSS (/mission.php?...&missionDate=*) | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
+| 294 | [3269780](../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
+| 295 | [1252059](../reports/1252059.md) | XSS on https://██████/███ via █████ parameter | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
+| 296 | [686595](../reports/686595.md) | Improper Neutralization of Input During Web Page Generation | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
+| 297 | [373950](../reports/373950.md) | Reflected Cross-Site Scripting in Serendipity (serendipity.SetCoo | [Hanno's projects](../by-program/hannob.md) | Medium | — | 3 |
+| 298 | [838178](../reports/838178.md) | Reflected XSS in "*.mendix.com/openid/*" | [Mendix](../by-program/mendix.md) | Medium — CVSS 6.4 | — | 3 |
+| 299 | [1627616](../reports/1627616.md) | RXSS on █████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
+| 300 | [866837](../reports/866837.md) | Post Based Reflected XSS on https://apps.topcoder.com/wiki/plugin | [Lab45](../by-program/lab45.md) | Medium | — | 3 |
+| 301 | [1457444](../reports/1457444.md) | Reflected XSS at https://██████/██████ via "██████" parameter | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
+| 302 | [984654](../reports/984654.md) | RXSS Via URI Path - https://██████████/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
+| 303 | [1260823](../reports/1260823.md) | Reflected XSS - https://███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
+| 304 | [1305477](../reports/1305477.md) | XSS because of Akamai ARL misconfiguration on ████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
+| 305 | [1244145](../reports/1244145.md) | RXSS ON https://██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
+| 306 | [1143783](../reports/1143783.md) | xss reflected on https://███████- (███ parameters) | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
+| 307 | [1252020](../reports/1252020.md) | XSS on https://████████/████' parameter | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
+| 308 | [1103033](../reports/1103033.md) | Reflected XSS on https://█████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
+| 309 | [799839](../reports/799839.md) | Reflected XSS - in Email Input | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
+| 310 | [1699762](../reports/1699762.md) | XSS in www.shopify.com/markets?utm_source= | [Shopify](../by-program/shopify.md) | Low — CVSS 3.3 | — | 158 |
+| 311 | [2014955](../reports/2014955.md) | #1 XSS on watchdocs.indriverapp.com | [inDrive](../by-program/indrive.md) | Low | — | 144 |
+| 312 | [323005](../reports/323005.md) | CSRF leads to a stored self xss | [Imgur](../by-program/imgur.md) | Low | — | 143 |
+| 313 | [859395](../reports/859395.md) | Reflected XSS on http://www.grouplogic.com/files/glidownload/veri | [Acronis](../by-program/acronis.md) | Low | — | 84 |
+| 314 | [2106708](../reports/2106708.md) | Bypass of #2035332 RXSS at image.hackerone.live via the `url` par | [HackerOne](../by-program/security.md) | Low — CVSS 3.9 | — | 80 |
+| 315 | [629745](../reports/629745.md) | Reflected cross-site scripting on multiple Starbucks assets. | [Starbucks](../by-program/starbucks.md) | Low — CVSS 3.4 | — | 72 |
+| 316 | [2028265](../reports/2028265.md) | #3 XSS on watchdocs.indriverapp.com | [inDrive](../by-program/indrive.md) | Low | — | 67 |
+| 317 | [2419227](../reports/2419227.md) | XSS in new.loading.page.html | [GoCD](../by-program/gocd.md) | Low — CVSS 3.1 | — | 62 |
+| 318 | [716761](../reports/716761.md) | WAF bypass via double encoded non standard ASCII chars permitted  | [Starbucks](../by-program/starbucks.md) | Low — CVSS 3.8 | — | 58 |
+| 319 | [3424998](../reports/3424998.md) | AI Playground XSS to steal user-chat messages and access to conne | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | Low | — | 56 |
+| 320 | [259100](../reports/259100.md) | XSS through `__e2e_action_id` delivered by JSONP | [Quora](../by-program/quora.md) | Low | — | 53 |
+| 321 | [2684274](../reports/2684274.md) | RXSS on ████ via configUrl parameter | [Mars](../by-program/mars.md) | Low — CVSS 3.8 | — | 51 |
+| 322 | [569241](../reports/569241.md) | Reflected XSS  | [Shopify](../by-program/shopify.md) | Low | — | 48 |
+| 323 | [1040533](../reports/1040533.md) | [intensedebate.com] XSS Reflected POST-Based  | [Automattic](../by-program/automattic.md) | Low — CVSS 3.9 | — | 42 |
+| 324 | [515484](../reports/515484.md) | [Reflected XSS] In Request URL | [Nextcloud](../by-program/nextcloud.md) | Low | — | 37 |
+| 325 | [286667](../reports/286667.md) | Self-XSS in password reset functionality | [Shopify](../by-program/shopify.md) | Low — CVSS 3.8 | — | 34 |
+| 326 | [1145712](../reports/1145712.md) | Reflected XSS on www.acronis.com/de-de/my/subscriptions/index.htm | [Acronis](../by-program/acronis.md) | Low | — | 32 |
+| 327 | [2403554](../reports/2403554.md) | XSS on LINE CAREERS | [LY Corporation](../by-program/line.md) | Low | — | 26 |
+| 328 | [297203](../reports/297203.md) | Reflected XSS using Header Injection | [Semrush](../by-program/semrush.md) | Low | — | 25 |
+| 329 | [961787](../reports/961787.md) | CSRF and XSS on www.acronis.com | [Acronis](../by-program/acronis.md) | Low | — | 25 |
+| 330 | [491023](../reports/491023.md) | XSS Reflected on my_report | [Semrush](../by-program/semrush.md) | Low | — | 25 |
+| 331 | [1194301](../reports/1194301.md) | Reflected XSS in https://www.topcoder.com/blog/category/community | [Lab45](../by-program/lab45.md) | Low — CVSS 3.4 | — | 22 |
+| 332 | [415139](../reports/415139.md) | Reflected xss on theacademy.upserve.com | [Upserve ](../by-program/upserve.md) | Low | — | 20 |
+| 333 | [289330](../reports/289330.md) | Reflected XSS vulnerability in Database name field on installatio | [Concrete CMS](../by-program/concretecms.md) | Low | — | 18 |
+| 334 | [752042](../reports/752042.md) | Content Injection on api.semrush.com to Reflected XSS | [Semrush](../by-program/semrush.md) | Low | — | 16 |
+| 335 | [360797](../reports/360797.md) | Authenticated reflected XSS on liberapay.com via the back_to para | [Liberapay](../by-program/liberapay.md) | Low — CVSS 3.5 | — | 16 |
+| 336 | [1591403](../reports/1591403.md) | Self XSS in https://linkpop.com/dashboard/admin | [Shopify](../by-program/shopify.md) | Low | — | 16 |
+| 337 | [316319](../reports/316319.md) | XSS on redirection page( Bypassed)  | [Semrush](../by-program/semrush.md) | Low | — | 15 |
+| 338 | [786238](../reports/786238.md) | Reflected XSS on https://www.semrush.com/my_reports/externalSourc | [Semrush](../by-program/semrush.md) | Low | — | 12 |
+| 339 | [375352](../reports/375352.md) | Post Based XSS On Upload Via CK Editor [semrush.com] | [Semrush](../by-program/semrush.md) | Low — CVSS 3.5 | — | 12 |
+| 340 | [384112](../reports/384112.md) | xss - reflected | [WordPress](../by-program/wordpress.md) | Low | — | 10 |
+| 341 | [296094](../reports/296094.md) | Reflected Cross-site Scripting Vulnerability via JSON Error Messa | [Inflection](../by-program/inflection.md) | Low — CVSS 3.7 | — | 7 |
+| 342 | [217108](../reports/217108.md) | Reflected XSS in a DoD Website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 6 |
+| 343 | [1167034](../reports/1167034.md) | Reflected Cross Site Scripting at http://www.grouplogic.com/files | [Acronis](../by-program/acronis.md) | Low | — | 5 |
+| 344 | [253313](../reports/253313.md) | XSS Vulnerability in WooCommerce Product Vendors plugin | [Automattic](../by-program/automattic.md) | Low | — | 4 |
+| 345 | [296377](../reports/296377.md) | [redis-commander] Reflected SWF XSS via vulnerable "clipboard.swf | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low | — | 4 |
+| 346 | [1166918](../reports/1166918.md) | Reflected Cross Site Scripting at  ColdFusion Debugging Panel  ht | [Acronis](../by-program/acronis.md) | Low | — | 4 |
+| 347 | [219729](../reports/219729.md) | Reflected XSS on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 3 |
+| 348 | [218136](../reports/218136.md) | Reflected XSS vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 3 |
+| 349 | [741439](../reports/741439.md) | Unauthenticated Reflected Cross-Site Scripting on https://account | [Clario](../by-program/clario.md) | Low | — | 2 |
+| 350 | [766404](../reports/766404.md) | MK Site Cross-Site Scripting (XSS) in script context | [Clario](../by-program/clario.md) | Low | — | 2 |
+| 351 | [740999](../reports/740999.md) | Reflected XSS | [Clario](../by-program/clario.md) | Low | — | 2 |
+| 352 | [840515](../reports/840515.md) | rxss at https://mackeeper.com page not found via rid parameter | [Clario](../by-program/clario.md) | Low | — | 2 |
+| 353 | [770349](../reports/770349.md) | Reflected XSS in twitterflightschool.com | [X / xAI](../by-program/x.md) | None | — | 140 |
+| 354 | [226428](../reports/226428.md) | Reflected XSS in <any>.myshopify.com through theme preview | [Shopify](../by-program/shopify.md) | None | — | 69 |
+| 355 | [1028396](../reports/1028396.md) | Reflected XSS and possible SSRF/XXE on https://events.hackerone.c | [HackerOne](../by-program/security.md) | None | — | 32 |
+| 356 | [1058427](../reports/1058427.md) | xss reflected on imgur.com | [Imgur](../by-program/imgur.md) | None | — | 15 |
+| 357 | [831803](../reports/831803.md) | RXSS in http://procurement-businesscatalog.informatica.com | [Informatica](../by-program/informatica.md) | None | — | 13 |
+| 358 | [355773](../reports/355773.md) | XSS on support.wordcamp.org in ajax-quote.php | [WordPress](../by-program/wordpress.md) | None | — | 9 |
+| 359 | [219170](../reports/219170.md) | XSS | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 8 |

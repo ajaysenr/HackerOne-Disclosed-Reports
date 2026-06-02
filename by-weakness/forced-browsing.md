@@ -1,4 +1,4 @@
-# Weakness: Forced Browsing (10 reports)
+# Weakness: Forced Browsing (11 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -14,3 +14,4 @@
 | 8 | [565736](../reports/565736.md) | View HackerOne challenge scope before challenge begins | [HackerOne](../by-program/security.md) | Low — CVSS 2.7 | — | 48 |
 | 9 | [1087744](../reports/1087744.md) | Improper deep link validation  | [Shopify](../by-program/shopify.md) | Low — CVSS 3.1 | — | 13 |
 | 10 | [220150](../reports/220150.md) | 200 http code in 403 forbidden directories on main Ubnt.com domai | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 8 |
+| 11 | [3761789](../reports/3761789.md) | Mentioned unites are at the same time .Then we have to increase t | [curl](../by-program/curl.md) | None | — | 6 |

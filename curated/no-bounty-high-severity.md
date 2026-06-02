@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1643 total)
+# High/Critical Severity — No Bounty Paid (1644 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -1561,6 +1561,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [263718](../reports/263718.md) | Wordpress 4.8.1 - Rogue editor leads to RCE. And the risks of sam | [WordPress](../by-program/wordpress.md) | High | Informative | 4 |
 | [418271](../reports/418271.md) | Stored XSS agent_status  | [8x8](../by-program/8x8-bounty.md) | High | Resolved | 4 |
 | [1583680](../reports/1583680.md) | Undici does not use CONNECT or otherwise validate upstream HTTPS  | [Node.js](../by-program/nodejs.md) | High — CVSS 7.4 | Resolved | 4 |
+| [3761647](../reports/3761647.md) | TLS conn reuse and session cache ignore fsslctx callback and ssl_ | [curl](../by-program/curl.md) | High | Informative | 4 |
 | [703415](../reports/703415.md) | [treekill] RCE via insecure command concatenation (only Windows) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.3 | Resolved | 4 |
 | [802863](../reports/802863.md) | CVE-2017-13050: The RPKI-Router parser in tcpdump before 4.9.2 ha | [Internet Bug Bounty](../by-program/ibb.md) | High | Resolved | 4 |
 | [268808](../reports/268808.md) | CVE-2017-13038 The PPP parser in tcpdump before 4.9.2 has a buffe | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | Resolved | 3 |

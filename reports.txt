@@ -9287,6 +9287,7 @@ https://hackerone.com/reports/3400143 | Credential Disclosure via Unvalidated di
 https://hackerone.com/reports/3405778 | Timeout-based race conditions make Uint8Array/Buffer.alloc non-zerofilled
 https://hackerone.com/reports/3417819 | FS Permissions Bypass
 https://hackerone.com/reports/3418031 | Open Redirect in Rocket.Chat
+https://hackerone.com/reports/3423013 | page.line.me Open Redirect Leading to OAuth Authorization Code Exposure and Access Token Compromise
 https://hackerone.com/reports/3423950 | [Variation of #3321406] YetAnother 1-Click Chaining of Self-XSS, Cookie Tossing and AntiCSRF Token Prediction leads to auto approval in AccessTempAuth
 https://hackerone.com/reports/3424977 | User enumeration via timing attack in Django mod_wsgi authentication backend leads to account discovery
 https://hackerone.com/reports/3424998 | AI Playground XSS to steal user-chat messages and access to connected MCP Server
@@ -9452,6 +9453,7 @@ https://hackerone.com/reports/3684603 | Stack exhaustion in MIME multipart readi
 https://hackerone.com/reports/3684614 | Heap-buffer-overflow in `Curl_ssl_push_certinfo_len()` — sole bounds check is `DEBUGASSERT`
 https://hackerone.com/reports/3693295 | iOS Brave Playlist "Open in Private Tab" bypasses FaceID requirement for Private Tabs
 https://hackerone.com/reports/3694390 | CVE-2026-7009: OCSP stapling bypass with Apple SecTrust
+https://hackerone.com/reports/3697491 | Missing HMAC validation on /uninstall webhook in Shopify/sample-django-app reference template
 https://hackerone.com/reports/3697719 | CVE-2026-7168: cross-proxy Digest auth state leak
 https://hackerone.com/reports/3702718 | MQTT state machine confusion: PINGRESP/DISCONNECT with non-zero remaining_length dispatches to stale nextstate
 https://hackerone.com/reports/3707747 | libcurl 8.20.0 incomplete fix for CVE-2026-7168: changing only CURLOPT_PROXYPORT leaks stale Proxy Digest auth to a different proxy
@@ -9482,7 +9484,11 @@ https://hackerone.com/reports/3736889 | NULL pointer dereference in node:sqlite 
 https://hackerone.com/reports/3739561 | SSL session-cache peer key omits signature_algorithms: strict-sigalg handle silently resumes a permissive sibling's session
 https://hackerone.com/reports/3741135 | Connection reuse ignores haproxyprotocol and HAPROXY_CLIENT_IP settings, allowing PROXY context to persist across transfers
 https://hackerone.com/reports/3747959 | curl --skip-existing has a TOCTOU race that lets a post-check symlink redirect the later download write
+https://hackerone.com/reports/3751701 | Use-after-free in `curl_easy_duphandle()` with HTTP/2 stream-dependency tree
 https://hackerone.com/reports/3751715 | Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUESS_SCHEME` + `CURLU_NO_GUESS_SCHEME` flow
 https://hackerone.com/reports/3752489 | Memory Corruption via TOCTOU Race in SharedArrayBuffer UTF-8 Decode (`StringBytes::Encode`)
 https://hackerone.com/reports/3752567 | curl GnuTLS backend accepts a clientAuth-only certificate for HTTPS server authentication
+https://hackerone.com/reports/3756699 | lib/ldap.c follows attacker-controlled LDAP referrals and binds to a second server; WinLDAP builds leak current logon credentials (confirmed on Window
+https://hackerone.com/reports/3761647 | TLS conn reuse and session cache ignore fsslctx callback and ssl_config_data flags ( incomplete fix variant of 7541ae569 )
+https://hackerone.com/reports/3761789 | Mentioned unites are at the same time .Then we have to increase the bounty.
 https://hackerone.com/reports/3769293 | Low priority HSTS bypass in curl_easy_duphandle()

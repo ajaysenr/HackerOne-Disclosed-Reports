@@ -1,4 +1,4 @@
-# Weakness: Use After Free (43 reports)
+# Weakness: Use After Free (44 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -47,3 +47,4 @@
 | 41 | [3508701](../reports/3508701.md) | Use-After-Free in curl_easy_nextheader when reusing header handle | [curl](../by-program/curl.md) | None | — | 8 |
 | 42 | [3733934](../reports/3733934.md) | CURLOPT_HSTS_CTRL disables shared HSTS without share guard — use- | [curl](../by-program/curl.md) | None | — | 5 |
 | 43 | [295276](../reports/295276.md) | heap-use-after-free in OP_RESCUE | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 4 |
+| 44 | [3751701](../reports/3751701.md) | Use-after-free in `curl_easy_duphandle()` with HTTP/2 stream-depe | [curl](../by-program/curl.md) | None | — | 3 |
