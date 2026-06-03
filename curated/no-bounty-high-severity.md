@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1644 total)
+# High/Critical Severity — No Bounty Paid (1645 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -1402,6 +1402,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1066083](../reports/1066083.md) | ███████mill is vulnerable to cross site request forgery that lead | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 7 |
 | [150520](../reports/150520.md) | XXE at Informatica sub-domain | [Informatica](../by-program/informatica.md) | High | Resolved | 7 |
 | [268804](../reports/268804.md) | CVE-2017-12986 The IPv6 routing header parser in tcpdump before 4 | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | Resolved | 7 |
+| [3775183](../reports/3775183.md) | Incomplete fix for CVE-2022-35406: meta-redirect content-type che | [PortSwigger Web Security](../by-program/portswigger.md) | High | Informative | 7 |
 | [587214](../reports/587214.md) | ██████ Authenticated User Data Disclosure | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 7 |
 | [991718](../reports/991718.md) | hardcoded password stored in javascript of https://████.mil | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 7 |
 | [319532](../reports/319532.md) | `https-proxy-agent` passes unsanitized options to Buffer(arg), re | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.2 | Resolved | 7 |

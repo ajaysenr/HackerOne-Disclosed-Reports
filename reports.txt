@@ -9493,3 +9493,4 @@ https://hackerone.com/reports/3756699 | lib/ldap.c follows attacker-controlled L
 https://hackerone.com/reports/3761647 | TLS conn reuse and session cache ignore fsslctx callback and ssl_config_data flags ( incomplete fix variant of 7541ae569 )
 https://hackerone.com/reports/3761789 | Mentioned unites are at the same time .Then we have to increase the bounty.
 https://hackerone.com/reports/3769293 | Low priority HSTS bypass in curl_easy_duphandle()
+https://hackerone.com/reports/3775183 | Incomplete fix for CVE-2022-35406: meta-redirect content-type check bypassable via parameter injection

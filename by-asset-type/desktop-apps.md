@@ -1,4 +1,4 @@
-# Asset Type: Desktop Apps (136 reports)
+# Asset Type: Desktop Apps (137 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -85,58 +85,59 @@
 | 79 | [944735](../reports/944735.md) | Arbitrary DLL injection in mmsminisrv (Acronis Managed  | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | High — CVSS 8.1 | — | 11 |
 | 80 | [508894](../reports/508894.md) | Vulnerability in GoldSource Engine allows to upload and | [Valve](../by-program/valve.md) | hl.exe | High | — | 11 |
 | 81 | [1251464](../reports/1251464.md) | Acronis True Image Local Privilege Escalation Due To Ra | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | High — CVSS 7.4 | — | 8 |
-| 82 | [1001255](../reports/1001255.md) | Possible RCE through Windows Custom Protocol on Windows | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Windows Executable | Medium — CVSS 6.8 | — | 120 |
-| 83 | [953219](../reports/953219.md) | SMTP interaction theft via MITM | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Collaborator | Medium | — | 78 |
-| 84 | [2230842](../reports/2230842.md) | Title: Deceptive Manipulation of HTTP to HTTPS with VPN | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Medium | — | 71 |
-| 85 | [716448](../reports/716448.md) | Unquoted Service Path in "Rockstar Game Library Service | [Rockstar Games](../by-program/rockstargames.md) | Rockstar Games Launcher | Medium — CVSS 6.7 | — | 60 |
-| 86 | [440963](../reports/440963.md) | Privilege Escalation by abusing non-existent path. (Win | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Medium — CVSS 6.3 | — | 59 |
-| 87 | [745447](../reports/745447.md) | Steam chat - trade offer presentation vulnerability | [Valve](../by-program/valve.md) | *.exe | Medium — CVSS 6.3 | — | 59 |
-| 88 | [1300585](../reports/1300585.md) | blind Server-Side Request Forgery (SSRF)  allows scanni | [Elastic](../by-program/elastic.md) | Fleet Server | Medium — CVSS 6.7 | — | 52 |
-| 89 | [679907](../reports/679907.md) | Malformed string sent through FireServer leads to serve | [Roblox](../by-program/roblox.md) | Roblox Client | Medium | — | 44 |
-| 90 | [767647](../reports/767647.md) | Vulnerabilities chain leading to privilege escalation | [Nord Security](../by-program/nordsecurity.md) | NordVPN - MacOS Executable | Medium | — | 42 |
-| 91 | [1218523](../reports/1218523.md) | NordVPN Linux Client - Unsafe service file permissions  | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Linux Executable | Medium | — | 40 |
-| 92 | [337680](../reports/337680.md) | burp does not validate the common name of the presented | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Medium | — | 39 |
-| 93 | [1477050](../reports/1477050.md) | CSRF in AppSearch allows creation of "curations" | [Elastic](../by-program/elastic.md) | Elastic Enterprise Search | Medium — CVSS 4.3 | — | 35 |
-| 94 | [350119](../reports/350119.md) | Buffer overflows in demo parsing | [Valve](../by-program/valve.md) | hl.exe | Medium | — | 33 |
-| 95 | [780167](../reports/780167.md) | Hidden scheduled partner events are propagated to Steam | [Valve](../by-program/valve.md) | steam.exe | Medium | — | 31 |
-| 96 | [2433634](../reports/2433634.md) | XSS in GOCD Analytics Plugin | [GoCD](../by-program/gocd.md) | GoCD (https://www.gocd.org/download) | Medium — CVSS 4.3 | — | 28 |
-| 97 | [2597504](../reports/2597504.md) | X-E2EE-SIGNATURE verification can be bypassed, leading  | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 4.2 | — | 27 |
-| 98 | [604945](../reports/604945.md) | Tor IP leak caused by the PDF Viewer extension in certa | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | Medium | — | 25 |
-| 99 | [1741430](../reports/1741430.md) | CSRF vulnerability in Nextcloud Desktop Client 3.6.1 on | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 5.3 | — | 25 |
-| 100 | [959608](../reports/959608.md) | Local Privilege Escalation via DLL Search-Order Hijacki | [Acronis](../by-program/acronis.md) | Acronis Agent | Medium — CVSS 6.3 | — | 25 |
-| 101 | [1940788](../reports/1940788.md) | Stored XSS in plan name field (Acronis Cyber Protect) | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect | Medium — CVSS 5.5 | — | 22 |
-| 102 | [852091](../reports/852091.md) | Privilege Escalation vulnerability in steam's Remote Pl | [Valve](../by-program/valve.md) | steam.exe | Medium — CVSS 4.7 | — | 22 |
-| 103 | [1874155](../reports/1874155.md) | Biometric key is stored in Windows Credential Manager,  | [Bitwarden](../by-program/bitwarden.md) | https://github.com/bitwarden/desktop/rel | Medium — CVSS 6.2 | — | 19 |
-| 104 | [768110](../reports/768110.md) | Race condition (TOCTOU) in NordVPN can result in local  | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Windows Executable | Medium — CVSS 4.5 | — | 18 |
-| 105 | [685552](../reports/685552.md) | XSS in desktop client via invalid server address on log | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 4.7 | — | 17 |
-| 106 | [858608](../reports/858608.md) | anti_ransomware_service.exe REST API does not require a | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Medium — CVSS 5.4 | — | 17 |
-| 107 | [518837](../reports/518837.md) | DLL Hijacking in Burp Suite Pro 2.0.19 Installer | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Medium | — | 17 |
-| 108 | [975514](../reports/975514.md) | Arbitrary file download due to bad handling of Redirect | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | Medium | — | 15 |
-| 109 | [959815](../reports/959815.md) | Arbitrary Files and Folders Deletion vulnerability with | [Acronis](../by-program/acronis.md) | Acronis Agent | Medium | — | 14 |
-| 110 | [968328](../reports/968328.md) | Redirecting users to malicious torrent-files/websites u | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | Medium | — | 13 |
-| 111 | [1720043](../reports/1720043.md) | Desktop client can be tricked into opening/executing lo | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 6.6 | — | 13 |
-| 112 | [963155](../reports/963155.md) | Arbitrary file download via "Save .torrent file" option | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | Medium | — | 11 |
-| 113 | [858603](../reports/858603.md) | Denial of Service in anti_ransomware_service.exe via lo | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Medium — CVSS 4.7 | — | 8 |
-| 114 | [963103](../reports/963103.md) | Local Privilege Escalation via DLL Search-Order Hijacki | [Acronis](../by-program/acronis.md) | Acronis Agent | Medium | — | 7 |
-| 115 | [439828](../reports/439828.md) | Event privacy level does not work in Thunderbird | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 4.8 | — | 6 |
-| 116 | [858598](../reports/858598.md) | Local Privilege Escalation in anti_ransomware_service.e | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Medium — CVSS 6.9 | — | 5 |
-| 117 | [380102](../reports/380102.md) | Missing memory corruption protection on Windows release | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 4.7 | — | 2 |
-| 118 | [761480](../reports/761480.md) | User password left in memory in plain text after GUI la | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Windows Executable | Low | — | 82 |
-| 119 | [2419227](../reports/2419227.md) | XSS in new.loading.page.html | [GoCD](../by-program/gocd.md) | GoCD (https://www.gocd.org/download) | Low — CVSS 3.1 | — | 62 |
-| 120 | [685990](../reports/685990.md) | Clear text storage of proxy parameters and passwords | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Low — CVSS 3.9 | — | 53 |
-| 121 | [2279010](../reports/2279010.md) | A user with only [MODIFY_SETTINGS] permmision could tak | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Enterprise Edition | Low | — | 49 |
-| 122 | [2418210](../reports/2418210.md) | Acquisition on broken link listed on the page "https:// | [Doppler](../by-program/doppler.md) | doppler | Low | — | 44 |
-| 123 | [2279041](../reports/2279041.md) | Changing the administrator password via admin console d | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Enterprise Edition | Low | — | 40 |
-| 124 | [633266](../reports/633266.md) | Code injection in macOS Desktop Client  | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Low — CVSS 3.8 | — | 29 |
-| 125 | [440758](../reports/440758.md) | Potential buffer overflow in demoplayer module of GoldS | [Valve](../by-program/valve.md) | hl.exe | Low | — | 17 |
-| 126 | [1083532](../reports/1083532.md) | Acronis True Image 2020 Build 22510 Nonstop Backup Serv | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Low | — | 15 |
-| 127 | [1353603](../reports/1353603.md) | Fix for CVE-2021-22151 (Kibana path traversal issue) ca | [Elastic](../by-program/elastic.md) | Kibana | Low — CVSS 3.1 | — | 10 |
-| 128 | [663729](../reports/663729.md) | [Brave browser] WebTorrent has DNS rebinding vulnerabil | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | Low | — | 9 |
-| 129 | [971610](../reports/971610.md) | Local Privilege Escalation via EXE hijacking with Acron | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Low | — | 7 |
-| 130 | [294891](../reports/294891.md) | Improper Certificate Validation | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Low — CVSS 2.6 | — | 0 |
-| 131 | [1167530](../reports/1167530.md) | RCE in 'Copy as Node Request' BApp via code injection | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Extension (BApps) | None | — | 50 |
-| 132 | [3509632](../reports/3509632.md) | Information Disclosure via Logback Configuration Inject | [GoCD](../by-program/gocd.md) | GoCD (https://www.gocd.org/download) | None | — | 36 |
-| 133 | [366129](../reports/366129.md) | Activat burp suite pro with the old license after trans | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | None | — | 6 |
-| 134 | [817244](../reports/817244.md) | The Linux binaries (nordvpn and nordvpnd) don't use PIE | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Linux Executable | None | — | 3 |
-| 135 | [331428](../reports/331428.md) | Cross domain tracking even with 3rd party cookies disab | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | None | — | 2 |
-| 136 | [771977](../reports/771977.md) | nordvpn Linux Desktop executable application does not u | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Linux Executable | None | — | 1 |
+| 82 | [3775183](../reports/3775183.md) | Incomplete fix for CVE-2022-35406: meta-redirect conten | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | High | — | 7 |
+| 83 | [1001255](../reports/1001255.md) | Possible RCE through Windows Custom Protocol on Windows | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Windows Executable | Medium — CVSS 6.8 | — | 120 |
+| 84 | [953219](../reports/953219.md) | SMTP interaction theft via MITM | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Collaborator | Medium | — | 78 |
+| 85 | [2230842](../reports/2230842.md) | Title: Deceptive Manipulation of HTTP to HTTPS with VPN | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Medium | — | 71 |
+| 86 | [716448](../reports/716448.md) | Unquoted Service Path in "Rockstar Game Library Service | [Rockstar Games](../by-program/rockstargames.md) | Rockstar Games Launcher | Medium — CVSS 6.7 | — | 60 |
+| 87 | [440963](../reports/440963.md) | Privilege Escalation by abusing non-existent path. (Win | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Medium — CVSS 6.3 | — | 59 |
+| 88 | [745447](../reports/745447.md) | Steam chat - trade offer presentation vulnerability | [Valve](../by-program/valve.md) | *.exe | Medium — CVSS 6.3 | — | 59 |
+| 89 | [1300585](../reports/1300585.md) | blind Server-Side Request Forgery (SSRF)  allows scanni | [Elastic](../by-program/elastic.md) | Fleet Server | Medium — CVSS 6.7 | — | 52 |
+| 90 | [679907](../reports/679907.md) | Malformed string sent through FireServer leads to serve | [Roblox](../by-program/roblox.md) | Roblox Client | Medium | — | 44 |
+| 91 | [767647](../reports/767647.md) | Vulnerabilities chain leading to privilege escalation | [Nord Security](../by-program/nordsecurity.md) | NordVPN - MacOS Executable | Medium | — | 42 |
+| 92 | [1218523](../reports/1218523.md) | NordVPN Linux Client - Unsafe service file permissions  | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Linux Executable | Medium | — | 40 |
+| 93 | [337680](../reports/337680.md) | burp does not validate the common name of the presented | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Medium | — | 39 |
+| 94 | [1477050](../reports/1477050.md) | CSRF in AppSearch allows creation of "curations" | [Elastic](../by-program/elastic.md) | Elastic Enterprise Search | Medium — CVSS 4.3 | — | 35 |
+| 95 | [350119](../reports/350119.md) | Buffer overflows in demo parsing | [Valve](../by-program/valve.md) | hl.exe | Medium | — | 33 |
+| 96 | [780167](../reports/780167.md) | Hidden scheduled partner events are propagated to Steam | [Valve](../by-program/valve.md) | steam.exe | Medium | — | 31 |
+| 97 | [2433634](../reports/2433634.md) | XSS in GOCD Analytics Plugin | [GoCD](../by-program/gocd.md) | GoCD (https://www.gocd.org/download) | Medium — CVSS 4.3 | — | 28 |
+| 98 | [2597504](../reports/2597504.md) | X-E2EE-SIGNATURE verification can be bypassed, leading  | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 4.2 | — | 27 |
+| 99 | [604945](../reports/604945.md) | Tor IP leak caused by the PDF Viewer extension in certa | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | Medium | — | 25 |
+| 100 | [1741430](../reports/1741430.md) | CSRF vulnerability in Nextcloud Desktop Client 3.6.1 on | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 5.3 | — | 25 |
+| 101 | [959608](../reports/959608.md) | Local Privilege Escalation via DLL Search-Order Hijacki | [Acronis](../by-program/acronis.md) | Acronis Agent | Medium — CVSS 6.3 | — | 25 |
+| 102 | [1940788](../reports/1940788.md) | Stored XSS in plan name field (Acronis Cyber Protect) | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect | Medium — CVSS 5.5 | — | 22 |
+| 103 | [852091](../reports/852091.md) | Privilege Escalation vulnerability in steam's Remote Pl | [Valve](../by-program/valve.md) | steam.exe | Medium — CVSS 4.7 | — | 22 |
+| 104 | [1874155](../reports/1874155.md) | Biometric key is stored in Windows Credential Manager,  | [Bitwarden](../by-program/bitwarden.md) | https://github.com/bitwarden/desktop/rel | Medium — CVSS 6.2 | — | 19 |
+| 105 | [768110](../reports/768110.md) | Race condition (TOCTOU) in NordVPN can result in local  | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Windows Executable | Medium — CVSS 4.5 | — | 18 |
+| 106 | [685552](../reports/685552.md) | XSS in desktop client via invalid server address on log | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 4.7 | — | 17 |
+| 107 | [858608](../reports/858608.md) | anti_ransomware_service.exe REST API does not require a | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Medium — CVSS 5.4 | — | 17 |
+| 108 | [518837](../reports/518837.md) | DLL Hijacking in Burp Suite Pro 2.0.19 Installer | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Medium | — | 17 |
+| 109 | [975514](../reports/975514.md) | Arbitrary file download due to bad handling of Redirect | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | Medium | — | 15 |
+| 110 | [959815](../reports/959815.md) | Arbitrary Files and Folders Deletion vulnerability with | [Acronis](../by-program/acronis.md) | Acronis Agent | Medium | — | 14 |
+| 111 | [968328](../reports/968328.md) | Redirecting users to malicious torrent-files/websites u | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | Medium | — | 13 |
+| 112 | [1720043](../reports/1720043.md) | Desktop client can be tricked into opening/executing lo | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 6.6 | — | 13 |
+| 113 | [963155](../reports/963155.md) | Arbitrary file download via "Save .torrent file" option | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | Medium | — | 11 |
+| 114 | [858603](../reports/858603.md) | Denial of Service in anti_ransomware_service.exe via lo | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Medium — CVSS 4.7 | — | 8 |
+| 115 | [963103](../reports/963103.md) | Local Privilege Escalation via DLL Search-Order Hijacki | [Acronis](../by-program/acronis.md) | Acronis Agent | Medium | — | 7 |
+| 116 | [439828](../reports/439828.md) | Event privacy level does not work in Thunderbird | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 4.8 | — | 6 |
+| 117 | [858598](../reports/858598.md) | Local Privilege Escalation in anti_ransomware_service.e | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Medium — CVSS 6.9 | — | 5 |
+| 118 | [380102](../reports/380102.md) | Missing memory corruption protection on Windows release | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 4.7 | — | 2 |
+| 119 | [761480](../reports/761480.md) | User password left in memory in plain text after GUI la | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Windows Executable | Low | — | 82 |
+| 120 | [2419227](../reports/2419227.md) | XSS in new.loading.page.html | [GoCD](../by-program/gocd.md) | GoCD (https://www.gocd.org/download) | Low — CVSS 3.1 | — | 62 |
+| 121 | [685990](../reports/685990.md) | Clear text storage of proxy parameters and passwords | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Low — CVSS 3.9 | — | 53 |
+| 122 | [2279010](../reports/2279010.md) | A user with only [MODIFY_SETTINGS] permmision could tak | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Enterprise Edition | Low | — | 49 |
+| 123 | [2418210](../reports/2418210.md) | Acquisition on broken link listed on the page "https:// | [Doppler](../by-program/doppler.md) | doppler | Low | — | 44 |
+| 124 | [2279041](../reports/2279041.md) | Changing the administrator password via admin console d | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Enterprise Edition | Low | — | 40 |
+| 125 | [633266](../reports/633266.md) | Code injection in macOS Desktop Client  | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Low — CVSS 3.8 | — | 29 |
+| 126 | [440758](../reports/440758.md) | Potential buffer overflow in demoplayer module of GoldS | [Valve](../by-program/valve.md) | hl.exe | Low | — | 17 |
+| 127 | [1083532](../reports/1083532.md) | Acronis True Image 2020 Build 22510 Nonstop Backup Serv | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Low | — | 15 |
+| 128 | [1353603](../reports/1353603.md) | Fix for CVE-2021-22151 (Kibana path traversal issue) ca | [Elastic](../by-program/elastic.md) | Kibana | Low — CVSS 3.1 | — | 10 |
+| 129 | [663729](../reports/663729.md) | [Brave browser] WebTorrent has DNS rebinding vulnerabil | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | Low | — | 9 |
+| 130 | [971610](../reports/971610.md) | Local Privilege Escalation via EXE hijacking with Acron | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Low | — | 7 |
+| 131 | [294891](../reports/294891.md) | Improper Certificate Validation | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Low — CVSS 2.6 | — | 0 |
+| 132 | [1167530](../reports/1167530.md) | RCE in 'Copy as Node Request' BApp via code injection | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Extension (BApps) | None | — | 50 |
+| 133 | [3509632](../reports/3509632.md) | Information Disclosure via Logback Configuration Inject | [GoCD](../by-program/gocd.md) | GoCD (https://www.gocd.org/download) | None | — | 36 |
+| 134 | [366129](../reports/366129.md) | Activat burp suite pro with the old license after trans | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | None | — | 6 |
+| 135 | [817244](../reports/817244.md) | The Linux binaries (nordvpn and nordvpnd) don't use PIE | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Linux Executable | None | — | 3 |
+| 136 | [331428](../reports/331428.md) | Cross domain tracking even with 3rd party cookies disab | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | None | — | 2 |
+| 137 | [771977](../reports/771977.md) | nordvpn Linux Desktop executable application does not u | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Linux Executable | None | — | 1 |
