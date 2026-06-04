@@ -9431,22 +9431,32 @@ https://hackerone.com/reports/3648199 | Internal application wrapper or script u
 https://hackerone.com/reports/3650435 | Improper enforcement of CURLOPT_SOCKS5_AUTH due to missing reuse key validation in libcurl
 https://hackerone.com/reports/3650443 | no_proxy IDN mismatch: Unicode hostnames bypass proxy exclusion list
 https://hackerone.com/reports/3650473 | FTP entrypath accepts 0xFF (Telnet IAC) through incomplete ISCNTRL filter, sent on wire via CWD on connection reuse
+https://hackerone.com/reports/3650504 | Missing access control when linking banners or campaigns to zones
+https://hackerone.com/reports/3650582 | Missing access control when linking trackers to campaigns
 https://hackerone.com/reports/3650689 | CVE-2026-5773: wrong reuse of SMB connection
 https://hackerone.com/reports/3651975 | SMTP Command Injection via CRLF in libcurl MAIL_FROM / MAIL_RCPT (lib/smtp.c)
+https://hackerone.com/reports/3653196 | Blind SQL injection via clientid parameter in zone‑include.php
+https://hackerone.com/reports/3653316 | Reflected XSS via clientid parameter in zone‑include.php
+https://hackerone.com/reports/3656781 | PHP code injection via delivery limitation logical
 https://hackerone.com/reports/3658049 | libcurl: Integer truncation in curl_easy_ssls_import() causes TLS sessions to never expire
 https://hackerone.com/reports/3665151 | Brave Shields Domain Reordering Leads to Origin Confusion
 https://hackerone.com/reports/3665363 | Integer Overflow/Signedness Mismatch in Printf Precision for HTTP/2 Trailer Headers
 https://hackerone.com/reports/3666576 | Negotiate Authentication Premature on Connection Reuse
 https://hackerone.com/reports/3669305 | Argument Injection via curl Short-Flag Grouping
+https://hackerone.com/reports/3669623 | Stored XSS via Full Name field in userlog email entries
 https://hackerone.com/reports/3669637 | CVE-2026-6253: proxy credentials leak over redirect-to proxy
 https://hackerone.com/reports/3670955 | HMAC signature verification omits endpoint and payload allowing request forgery on CoinMate API
 https://hackerone.com/reports/3671818 | CVE-2026-6276: stale custom cookie host causes cookie leak
+https://hackerone.com/reports/3672641 | Session ID reuse allowing XML‑RPC API authentication bypass
 https://hackerone.com/reports/3673277 | libcurl stale CURLOPT_AUTOREFERER leaks a previous request URL to a different origin on a reused easy handle
 https://hackerone.com/reports/3674275 | lib/http2.c: SSL connections accept non-HTTP push schemes (incomplete fix for 2e8c922a)
 https://hackerone.com/reports/3676308 | POST /api/bitcoinWithdrawalFees returns financial data without authentication despite being documented as a USER OPERATION (private endpoint)
+https://hackerone.com/reports/3677576 | Missing access control when modifying parent entities via XML‑RPC
 https://hackerone.com/reports/3677759 | CVE-2026-6429: netrc credential leak with reused proxy connection
+https://hackerone.com/reports/3678828 | Banner status override by advertiser‑level users
 https://hackerone.com/reports/3679660 | mruby-engine: UAF in MRubyEngine#initialize enables local RCE
 https://hackerone.com/reports/3680038 | Digest Auth State Leak on Cross-Origin Redirect via Netrc - Username and Password Hash Sent to Wrong Host
+https://hackerone.com/reports/3680090 | Stored XSS via malicious usernames in audit log details + Username validation bypass in XML‑RPC addUser
 https://hackerone.com/reports/3680234 | libcurl reuses a learned RTSP Session header across different hosts on the same easy handle, enabling cross-host session leak and replay
 https://hackerone.com/reports/3680680 | libcurl omits IPv6 zoneid from host identity and leaks credentials/cookies across scoped link-local realms
 https://hackerone.com/reports/3682666 | Use-after-free in `curl_easy_ssls_export()` during callback re-entrancy
@@ -9484,6 +9494,7 @@ https://hackerone.com/reports/3736234 | NULL pointer dereference in libcurl URL 
 https://hackerone.com/reports/3736889 | NULL pointer dereference in node:sqlite DatabaseSync#applyChangeset() via malformed SQLite changeset
 https://hackerone.com/reports/3739561 | SSL session-cache peer key omits signature_algorithms: strict-sigalg handle silently resumes a permissive sibling's session
 https://hackerone.com/reports/3741135 | Connection reuse ignores haproxyprotocol and HAPROXY_CLIENT_IP settings, allowing PROXY context to persist across transfers
+https://hackerone.com/reports/3744200 | PHP code injection via unexpected delivery limitation parameter
 https://hackerone.com/reports/3747959 | curl --skip-existing has a TOCTOU race that lets a post-check symlink redirect the later download write
 https://hackerone.com/reports/3751701 | Use-after-free in `curl_easy_duphandle()` with HTTP/2 stream-dependency tree
 https://hackerone.com/reports/3751715 | Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUESS_SCHEME` + `CURLU_NO_GUESS_SCHEME` flow
@@ -9492,5 +9503,9 @@ https://hackerone.com/reports/3752567 | curl GnuTLS backend accepts a clientAuth
 https://hackerone.com/reports/3756699 | lib/ldap.c follows attacker-controlled LDAP referrals and binds to a second server; WinLDAP builds leak current logon credentials (confirmed on Window
 https://hackerone.com/reports/3761647 | TLS conn reuse and session cache ignore fsslctx callback and ssl_config_data flags ( incomplete fix variant of 7541ae569 )
 https://hackerone.com/reports/3761789 | Mentioned unites are at the same time .Then we have to increase the bounty.
+https://hackerone.com/reports/3767963 | Proxy CONNECT response poisoning via authentication retry in cf-h1-proxy.c (libcurl)
 https://hackerone.com/reports/3769293 | Low priority HSTS bypass in curl_easy_duphandle()
+https://hackerone.com/reports/3770979 | SMTP connection reuse ignores --ssl-reqd / CURLOPT_USE_SSL and reuses a clear-text STARTTLS session on current master
+https://hackerone.com/reports/3773293 | curl/libcurl 8.20.0 NOPROXY bypass via uppercase-hex IPv4 aliases leaks off-proxy Basic credentials to the configured proxy
 https://hackerone.com/reports/3775183 | Incomplete fix for CVE-2022-35406: meta-redirect content-type check bypassable via parameter injection
+https://hackerone.com/reports/3777381 | PRE_PROXY change leaks stale Proxy Digest state across proxy-chain boundary
