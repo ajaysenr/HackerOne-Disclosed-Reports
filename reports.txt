@@ -7940,6 +7940,8 @@ https://hackerone.com/reports/1627995 | SQL injection at [https://████�
 https://hackerone.com/reports/1628102 | Full read SSRF at █████████ [HtUS]
 https://hackerone.com/reports/1628209 | SSRF in Functional Administrative Support Tool pdf generator (████) [HtUS]
 https://hackerone.com/reports/1628408 | SQL Injection at https://████████.asp (█████████) [selMajcom] [HtUS]
+https://hackerone.com/reports/1629822 | Exposed GIT repo on ██████████[HtUS]
+https://hackerone.com/reports/1629828 | CSRF to delete accounts [HtUS]
 https://hackerone.com/reports/1630073 | Host Header Injection Attack - www.xnxx.com
 https://hackerone.com/reports/1630336 | CVE-2022-32213 bypass via obs-fold mechanic
 https://hackerone.com/reports/1630667 |  CVE-2022-32215 - HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding
