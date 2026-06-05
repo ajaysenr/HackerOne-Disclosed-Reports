@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1648 total)
+# High/Critical Severity — No Bounty Paid (1650 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -414,6 +414,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1294062](../reports/1294062.md) | Underrepresentation Bias through Twitter's Cropping Algorithm | [Twitter Algorithmic Bias](../by-program/twitter-algorithmic-bias.md) | Critical | Resolved | 10 |
 | [405694](../reports/405694.md) | [apex-publish-static-files] Command Injection on connectString | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | Resolved | 10 |
 | [1065829](../reports/1065829.md) | Invading Grinch Network and Saving Christmas | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 10 |
+| [1629822](../reports/1629822.md) | Exposed GIT repo on ██████████[HtUS] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Duplicate | 10 |
 | [301458](../reports/301458.md) | Remote Code Execution in Wordpress Desktop | [Automattic](../by-program/automattic.md) | Critical | Resolved | 10 |
 | [1026265](../reports/1026265.md) | Unauthenticated Arbitrary File Deletion "CVE-2020-3187" in █████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 10 |
 | [3509437](../reports/3509437.md) | Directory listing vulnerability is disclosing names and emails, w | [curl](../by-program/curl.md) | Critical | Not Applicable | 10 |
@@ -1156,6 +1157,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [229599](../reports/229599.md) | Email Spoofing Vulnerability from nextcloud. | [Nextcloud](../by-program/nextcloud.md) | High | Spam | 15 |
 | [197443](../reports/197443.md) | XSS in topics because of bandcamp preview engine vulnerability | [Discourse](../by-program/discourse.md) | High | Resolved | 15 |
 | [406614](../reports/406614.md) | Resource Consumption DOS on Edgemax v1.10.6 | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 8.3 | Resolved | 15 |
+| [1629828](../reports/1629828.md) | CSRF to delete accounts [HtUS] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Duplicate | 15 |
 | [380873](../reports/380873.md) | Prototype pollution attack (lodash / constructor.prototype) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.0 | Resolved | 15 |
 | [1850065](../reports/1850065.md) | [█████] Bug Reports allow for Unrestricted File Upload | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 15 |
 | [858671](../reports/858671.md) | Insufficient Type Check on GraphQL leading to Maintainer delete r | [GitLab](../by-program/gitlab.md) | High | Resolved | 15 |

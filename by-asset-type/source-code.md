@@ -1,4 +1,4 @@
-# Asset Type: Source Code (1335 reports)
+# Asset Type: Source Code (1336 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -1331,11 +1331,12 @@
 | 1325 | [1180668](../reports/1180668.md) | Vulnerability : Email Spoofing | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
 | 1326 | [3751715](../reports/3751715.md) | Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUE | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
 | 1327 | [1188633](../reports/1188633.md) | Linux Desktop application "sifnoded" executable does no | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
-| 1328 | [361054](../reports/361054.md) | Phishing by Navigating Browser Tabs | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | None | — | 1 |
-| 1329 | [1590102](../reports/1590102.md) | KRB-FTP: Security level downgrade | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 1330 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 1331 | [676710](../reports/676710.md) | Http response is not ended although underlying socket i | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 1 |
-| 1332 | [1188725](../reports/1188725.md) | No Valid SPF Records at sifchain.finance | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
-| 1333 | [1218784](../reports/1218784.md) | information disclosure | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
-| 1334 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL aga | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 1335 | [1195423](../reports/1195423.md) | Information Disclosure at one of your subdomain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
+| 1328 | [3777381](../reports/3777381.md) | PRE_PROXY change leaks stale Proxy Digest state across  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 1329 | [361054](../reports/361054.md) | Phishing by Navigating Browser Tabs | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | None | — | 1 |
+| 1330 | [1590102](../reports/1590102.md) | KRB-FTP: Security level downgrade | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 1331 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 1332 | [676710](../reports/676710.md) | Http response is not ended although underlying socket i | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 1 |
+| 1333 | [1188725](../reports/1188725.md) | No Valid SPF Records at sifchain.finance | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
+| 1334 | [1218784](../reports/1218784.md) | information disclosure | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
+| 1335 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL aga | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 1336 | [1195423](../reports/1195423.md) | Information Disclosure at one of your subdomain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |

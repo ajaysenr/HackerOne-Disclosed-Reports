@@ -1,4 +1,4 @@
-# curl — Disclosed Reports (251 total)
+# curl — Disclosed Reports (252 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -252,6 +252,7 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 246 | [627245](../reports/627245.md) | Integer overlow in "header_append" function | None | — | 2 | [invictus1306](https://hackerone.com/invictus1306) | 2021-02-08 |
 | 247 | [1019372](../reports/1019372.md) | Parallel upload hangs curl if upload file not found | None | — | 1 | [brumbrum](https://hackerone.com/brumbrum) | 2020-10-29 |
 | 248 | [3751715](../reports/3751715.md) | Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUESS_SC | None | — | 1 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-25 |
-| 249 | [1590102](../reports/1590102.md) | KRB-FTP: Security level downgrade | None | — | 1 | [nyymi](https://hackerone.com/nyymi) | 2022-06-05 |
-| 250 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | None | — | 1 | [danielmarjamaki](https://hackerone.com/danielmarjamaki) | 2021-02-08 |
-| 251 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL against  | None | — | 0 | [lersek](https://hackerone.com/lersek) | 2021-01-08 |
+| 249 | [3777381](../reports/3777381.md) | PRE_PROXY change leaks stale Proxy Digest state across proxy | None | — | 1 | [hungly09](https://hackerone.com/hungly09) | 2026-06-03 |
+| 250 | [1590102](../reports/1590102.md) | KRB-FTP: Security level downgrade | None | — | 1 | [nyymi](https://hackerone.com/nyymi) | 2022-06-05 |
+| 251 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | None | — | 1 | [danielmarjamaki](https://hackerone.com/danielmarjamaki) | 2021-02-08 |
+| 252 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL against  | None | — | 0 | [lersek](https://hackerone.com/lersek) | 2021-01-08 |
