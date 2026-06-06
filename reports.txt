@@ -9275,6 +9275,7 @@ https://hackerone.com/reports/3340797 | IBM Aspera HTTP Gateway stores sensitive
 https://hackerone.com/reports/3346375 | Publicly Accessible CDN Endpoint Exposing XML Metadata (including ETag)
 https://hackerone.com/reports/3351408 | Cross-Site Scripting via URL on ███████
 https://hackerone.com/reports/3354494 | Cross-Site Scripting via URL on ███████
+https://hackerone.com/reports/3355766 | DLL side-loading vulnerability in Sony Music Center for PC Ver. 2.7.2 (Latest version)
 https://hackerone.com/reports/3356149 | 2FA requirement bypass when inviting team members
 https://hackerone.com/reports/3357036 | Mail stored HTML injection in subject text
 https://hackerone.com/reports/3357723 | Memory leak that enables remote Denial of Service against applications processing TLS client certificates
@@ -9475,6 +9476,8 @@ https://hackerone.com/reports/3710209 | Potential Resource Leak in tool_parsecfg
 https://hackerone.com/reports/3712343 | MQTT CONNACK Packet Type Bypass leads to RCE via Malicious Broker
 https://hackerone.com/reports/3713682 | IDOR: autotranslate.translateMessage Full Message Content Leak
 https://hackerone.com/reports/3717365 | mbedTLS private-key blob null-termination asymmetry in lib/vtls/mbedtls.c (mbed_load_privkey)
+https://hackerone.com/reports/3717552 | CURLOPT_PROXY_CRLFILE / CURLOPT_PROXY_ISSUERCERT / CURLOPT_PROXY_ISSUERCERT_BLOB silently ignored on backends that don't support them
+https://hackerone.com/reports/3718265 | Shared HSTS cache accessed without lock
 https://hackerone.com/reports/3721519 | Liberapay member team twitter account broken Link Hijacking via Expired Twitter Account Link
 https://hackerone.com/reports/3723002 | another liberapay member team twitter account broken Link Hijacking via Expired Twitter Account Link
 https://hackerone.com/reports/3725659 | Kerberos/SPNEGO Connection Reuse Vulnerability
@@ -9505,9 +9508,14 @@ https://hackerone.com/reports/3752567 | curl GnuTLS backend accepts a clientAuth
 https://hackerone.com/reports/3756699 | lib/ldap.c follows attacker-controlled LDAP referrals and binds to a second server; WinLDAP builds leak current logon credentials (confirmed on Window
 https://hackerone.com/reports/3761647 | TLS conn reuse and session cache ignore fsslctx callback and ssl_config_data flags ( incomplete fix variant of 7541ae569 )
 https://hackerone.com/reports/3761789 | Mentioned unites are at the same time .Then we have to increase the bounty.
+https://hackerone.com/reports/3766065 | CURLOPT_COOKIE leaked to cross-origin redirect target — CURLOPT_UNRESTRICTED_AUTH bypass for the STRING_COOKIE path
 https://hackerone.com/reports/3767963 | Proxy CONNECT response poisoning via authentication retry in cf-h1-proxy.c (libcurl)
 https://hackerone.com/reports/3769293 | Low priority HSTS bypass in curl_easy_duphandle()
 https://hackerone.com/reports/3770979 | SMTP connection reuse ignores --ssl-reqd / CURLOPT_USE_SSL and reuses a clear-text STARTTLS session on current master
 https://hackerone.com/reports/3773293 | curl/libcurl 8.20.0 NOPROXY bypass via uppercase-hex IPv4 aliases leaks off-proxy Basic credentials to the configured proxy
+https://hackerone.com/reports/3774977 | libcurl 8.20.0 ignores HTTP Digest domain protection space and preemptively leaks Digest auth outside the declared scope
 https://hackerone.com/reports/3775183 | Incomplete fix for CVE-2022-35406: meta-redirect content-type check bypassable via parameter injection
+https://hackerone.com/reports/3776433 | TFTP upload ignores --continue-at / CURLOPT_RESUME_FROM and leaks skipped local file prefix
+https://hackerone.com/reports/3776535 | RTSP Digest auth state leaks across origins on reused libcurl easy handle
 https://hackerone.com/reports/3777381 | PRE_PROXY change leaks stale Proxy Digest state across proxy-chain boundary
+https://hackerone.com/reports/3784125 | GnuTLS OCSP stapling accepts unrelated SingleResponse (no cert-ID binding)
