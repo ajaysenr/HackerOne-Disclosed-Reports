@@ -7947,6 +7947,7 @@ https://hackerone.com/reports/1630336 | CVE-2022-32213 bypass via obs-fold mecha
 https://hackerone.com/reports/1630667 |  CVE-2022-32215 - HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding
 https://hackerone.com/reports/1630668 |  CVE-2022-32213 - HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding
 https://hackerone.com/reports/1630669 | CVE-2022-32214 - HTTP Request Smuggling Due To Improper Delimiting of Header Fields
+https://hackerone.com/reports/1631228 | [demo.stripo.email] HTTP request Smuggling
 https://hackerone.com/reports/1631471 | an internel important  paths  disclosure  [HtUS]
 https://hackerone.com/reports/1632104 | Sensitive information disclosure [HtUS]
 https://hackerone.com/reports/1632921 | DNS rebinding in --inspect (insufficient fix of CVE-2022-32212 affecting macOS devices)
