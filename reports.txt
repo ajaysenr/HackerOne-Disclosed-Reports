@@ -7948,6 +7948,11 @@ https://hackerone.com/reports/1630667 |  CVE-2022-32215 - HTTP Request Smuggling
 https://hackerone.com/reports/1630668 |  CVE-2022-32213 - HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding
 https://hackerone.com/reports/1630669 | CVE-2022-32214 - HTTP Request Smuggling Due To Improper Delimiting of Header Fields
 https://hackerone.com/reports/1631228 | [demo.stripo.email] HTTP request Smuggling
+https://hackerone.com/reports/1631258 | Rocket.Chat Server RCE
+https://hackerone.com/reports/1631350 | Off-by-slash vulnerability in nodejs.org and iojs.org
+https://hackerone.com/reports/1631364 | ██████_log4j - https://██████
+https://hackerone.com/reports/1631370 | solr_log4j - http://██████████
+https://hackerone.com/reports/1631447 | STORED XSS in █████████/nlc/login.aspx via "edit" GET parameter through markdown editor [HtUS]
 https://hackerone.com/reports/1631471 | an internel important  paths  disclosure  [HtUS]
 https://hackerone.com/reports/1632104 | Sensitive information disclosure [HtUS]
 https://hackerone.com/reports/1632921 | DNS rebinding in --inspect (insufficient fix of CVE-2022-32212 affecting macOS devices)
