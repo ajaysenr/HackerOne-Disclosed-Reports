@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1651 total)
+# High/Critical Severity — No Bounty Paid (1655 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -304,6 +304,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [918946](../reports/918946.md) | Subdomain takeover due to an unclaimed Amazon S3 bucket on ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 22 |
 | [1580567](../reports/1580567.md) | Exposed valid AWS, Mysql, Sendgrid and other secrets | [Glovo](../by-program/glovo.md) | Critical — CVSS 10.0 | Resolved | 21 |
 | [678496](../reports/678496.md) | Arbitrary File Reading leads to RCE in the Pulse Secure SSL VPN o | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 21 |
+| [1631258](../reports/1631258.md) | Rocket.Chat Server RCE | [Rocket.Chat](../by-program/rocket_chat.md) | Critical | Resolved | 21 |
 | [824203](../reports/824203.md) | Cache Manager ACL Bypass | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.3 | Resolved | 21 |
 | [2252307](../reports/2252307.md) | Buffer overflow and affected url:-https://github.com/curl/curl/bl | [curl](../by-program/curl.md) | Critical | Not Applicable | 21 |
 | [2262365](../reports/2262365.md) | Default Admin Username and Password on ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 21 |
@@ -557,6 +558,8 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [257276](../reports/257276.md) | Open aws s3 bucket s3://rubyci | [Ruby](../by-program/ruby.md) | Critical | Not Applicable | 1 |
 | [972936](../reports/972936.md) | A specially crafted value for the 'Cache-Digest' header causing c | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | Critical | Not Applicable | 1 |
 | [816637](../reports/816637.md) | CVE-2020-10938-buffer overflow/out-of-bounds write in compress.c: | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.8 | Resolved | 1 |
+| [1631370](../reports/1631370.md) | solr_log4j - http://██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 1 |
+| [1631364](../reports/1631364.md) | ██████_log4j - https://██████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 1 |
 | [1068434](../reports/1068434.md) | HackyHolidays 2020 Full Write-up: Information Disclosure of 12 Fl | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 1 |
 | [1069263](../reports/1069263.md) | First CTF ever! | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 0 |
 | [1069376](../reports/1069376.md) | [hackyholidays] CTF write-up | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 0 |
@@ -1609,6 +1612,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [411405](../reports/411405.md) | [http-live-simulator] Path traversal vulnerability | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | Resolved | 2 |
 | [268803](../reports/268803.md) | CVE-2017-12985: The IPv6 parser in tcpdump before 4.9.2 has a buf | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | Resolved | 2 |
 | [3048061](../reports/3048061.md) | [Xenoblade Chronicles X: Definitive Edition] Buffer overflow in s | [Nintendo](../by-program/nintendo.md) | High — CVSS 8.2 | Resolved | 2 |
+| [1631447](../reports/1631447.md) | STORED XSS in █████████/nlc/login.aspx via "edit" GET parameter t | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High — CVSS 8.2 | Resolved | 2 |
 | [228854](../reports/228854.md) | WordPress Automatic Update Protocol Does Not Authenticate Updates | [WordPress](../by-program/wordpress.md) | High — CVSS 8.1 | Not Applicable | 2 |
 | [714215](../reports/714215.md) | curl on Windows can be forced to execute code via OpenSSL environ | [curl](../by-program/curl.md) | High — CVSS 7.9 | Informative | 2 |
 | [1294043](../reports/1294043.md) | SSH server due to Improper Signature Verification | [Sifchain](../by-program/sifchain.md) | High — CVSS 7.0 | Not Applicable | 2 |

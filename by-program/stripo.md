@@ -1,4 +1,4 @@
-# Stripo Inc — Disclosed Reports (39 total)
+# Stripo Inc — Disclosed Reports (40 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -25,21 +25,22 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 19 | [1126433](../reports/1126433.md) | Stored XSS at Module Name | Medium | — | 23 | [20kilograma](https://hackerone.com/20kilograma) | 2021-04-12 |
 | 20 | [1076047](../reports/1076047.md) | Bypass of #1047119: Missing Rate Limit while creating Plug-I | Medium | — | 18 | [savxiety](https://hackerone.com/savxiety) | 2021-01-13 |
 | 21 | [1047100](../reports/1047100.md) | No rate limiting - Create data | Medium | — | 18 | [ofjaaaah](https://hackerone.com/ofjaaaah) | 2021-01-05 |
-| 22 | [764122](../reports/764122.md) | No Rate Limiting on /reset-password-request/ endpoint | Medium | — | 14 | [tess](https://hackerone.com/tess) | 2020-02-04 |
-| 23 | [1613714](../reports/1613714.md) | Non-revoked API Key Information disclosure via Stripo_report | Medium | — | 13 | [deb0con](https://hackerone.com/deb0con) | 2022-08-25 |
-| 24 | [996371](../reports/996371.md) | Stored XSS at "Conditions "  through "My Custom Rule" Field  | Medium | — | 13 | [xploiterr](https://hackerone.com/xploiterr) | 2020-12-24 |
-| 25 | [761382](../reports/761382.md) | stripo blog search  SQL Injection | Medium | — | 12 | [bluebridsec](https://hackerone.com/bluebridsec) | 2020-01-30 |
-| 26 | [753386](../reports/753386.md) | No CSRF Protection in Resend Confirmation Email feature lead | Medium — CVSS 6.3 | — | 12 | [whoisbinit](https://hackerone.com/whoisbinit) | 2020-09-08 |
-| 27 | [738553](../reports/738553.md) | SSRF in /cabinet/stripeapi/v1/siteInfoLookup?url=XXX | Medium — CVSS 5.3 | — | 11 | [eliel](https://hackerone.com/eliel) | 2019-12-18 |
-| 28 | [1055503](../reports/1055503.md) | No rate limiting for confirmation email lead to huge Mass ma | Medium | — | 9 | [buggfuzz1](https://hackerone.com/buggfuzz1) | 2020-12-11 |
-| 29 | [823588](../reports/823588.md) | Unrestricted File Upload on https://my.stripo.email and http | Medium | — | 9 | [doctor_spooky](https://hackerone.com/doctor_spooky) | 2020-04-13 |
-| 30 | [782979](../reports/782979.md) | Information disclosure through Server side resource forgery | Medium | — | 7 | [checkm50](https://hackerone.com/checkm50) | 2020-01-28 |
-| 31 | [737625](../reports/737625.md) | Clickjacking on my.stripo.email for MailChimp credentials  | Medium | — | 7 | [jasongardner](https://hackerone.com/jasongardner) | 2020-01-08 |
-| 32 | [759131](../reports/759131.md) | Stored XSS in template comments. | Medium | — | 3 | [renekroka](https://hackerone.com/renekroka) | 2020-01-31 |
-| 33 | [765318](../reports/765318.md) | my.stripo.emai email verification bypassed and also create e | Medium | — | 2 | [h51ic0pt5r](https://hackerone.com/h51ic0pt5r) | 2020-02-04 |
-| 34 | [737578](../reports/737578.md) | Redirection through referer tag | Low | — | 12 | [b341eb9552f61203c850a10](https://hackerone.com/b341eb9552f61203c850a10) | 2019-12-18 |
-| 35 | [856310](../reports/856310.md) | [www.stripo.email] There is no rate limit for /it/contact-us | Low | — | 6 | [what_web](https://hackerone.com/what_web) | 2020-07-03 |
-| 36 | [739858](../reports/739858.md) | Able to download any hosted content on AWS S3 bucket(stripo) | Low | — | 3 | [unchained_](https://hackerone.com/unchained_) | 2020-02-10 |
-| 37 | [764517](../reports/764517.md) | SSRF leads to internal port scan | Low | — | 3 | [veejeey_](https://hackerone.com/veejeey_) | 2020-03-24 |
-| 38 | [738899](../reports/738899.md) | Able to change password by entering wrong old password | None | — | 56 | [rutik346](https://hackerone.com/rutik346) | 2019-12-18 |
-| 39 | [985367](../reports/985367.md) | weak password poilicy in signup password leak to account tak | None | — | 22 | [assafrty](https://hackerone.com/assafrty) | 2020-10-16 |
+| 22 | [1631228](../reports/1631228.md) | [demo.stripo.email] HTTP request Smuggling | Medium | — | 17 | [deb0con](https://hackerone.com/deb0con) | 2024-02-15 |
+| 23 | [764122](../reports/764122.md) | No Rate Limiting on /reset-password-request/ endpoint | Medium | — | 14 | [tess](https://hackerone.com/tess) | 2020-02-04 |
+| 24 | [1613714](../reports/1613714.md) | Non-revoked API Key Information disclosure via Stripo_report | Medium | — | 13 | [deb0con](https://hackerone.com/deb0con) | 2022-08-25 |
+| 25 | [996371](../reports/996371.md) | Stored XSS at "Conditions "  through "My Custom Rule" Field  | Medium | — | 13 | [xploiterr](https://hackerone.com/xploiterr) | 2020-12-24 |
+| 26 | [761382](../reports/761382.md) | stripo blog search  SQL Injection | Medium | — | 12 | [bluebridsec](https://hackerone.com/bluebridsec) | 2020-01-30 |
+| 27 | [753386](../reports/753386.md) | No CSRF Protection in Resend Confirmation Email feature lead | Medium — CVSS 6.3 | — | 12 | [whoisbinit](https://hackerone.com/whoisbinit) | 2020-09-08 |
+| 28 | [738553](../reports/738553.md) | SSRF in /cabinet/stripeapi/v1/siteInfoLookup?url=XXX | Medium — CVSS 5.3 | — | 11 | [eliel](https://hackerone.com/eliel) | 2019-12-18 |
+| 29 | [1055503](../reports/1055503.md) | No rate limiting for confirmation email lead to huge Mass ma | Medium | — | 9 | [buggfuzz1](https://hackerone.com/buggfuzz1) | 2020-12-11 |
+| 30 | [823588](../reports/823588.md) | Unrestricted File Upload on https://my.stripo.email and http | Medium | — | 9 | [doctor_spooky](https://hackerone.com/doctor_spooky) | 2020-04-13 |
+| 31 | [782979](../reports/782979.md) | Information disclosure through Server side resource forgery | Medium | — | 7 | [checkm50](https://hackerone.com/checkm50) | 2020-01-28 |
+| 32 | [737625](../reports/737625.md) | Clickjacking on my.stripo.email for MailChimp credentials  | Medium | — | 7 | [jasongardner](https://hackerone.com/jasongardner) | 2020-01-08 |
+| 33 | [759131](../reports/759131.md) | Stored XSS in template comments. | Medium | — | 3 | [renekroka](https://hackerone.com/renekroka) | 2020-01-31 |
+| 34 | [765318](../reports/765318.md) | my.stripo.emai email verification bypassed and also create e | Medium | — | 2 | [h51ic0pt5r](https://hackerone.com/h51ic0pt5r) | 2020-02-04 |
+| 35 | [737578](../reports/737578.md) | Redirection through referer tag | Low | — | 12 | [b341eb9552f61203c850a10](https://hackerone.com/b341eb9552f61203c850a10) | 2019-12-18 |
+| 36 | [856310](../reports/856310.md) | [www.stripo.email] There is no rate limit for /it/contact-us | Low | — | 6 | [what_web](https://hackerone.com/what_web) | 2020-07-03 |
+| 37 | [739858](../reports/739858.md) | Able to download any hosted content on AWS S3 bucket(stripo) | Low | — | 3 | [unchained_](https://hackerone.com/unchained_) | 2020-02-10 |
+| 38 | [764517](../reports/764517.md) | SSRF leads to internal port scan | Low | — | 3 | [veejeey_](https://hackerone.com/veejeey_) | 2020-03-24 |
+| 39 | [738899](../reports/738899.md) | Able to change password by entering wrong old password | None | — | 56 | [rutik346](https://hackerone.com/rutik346) | 2019-12-18 |
+| 40 | [985367](../reports/985367.md) | weak password poilicy in signup password leak to account tak | None | — | 22 | [assafrty](https://hackerone.com/assafrty) | 2020-10-16 |
