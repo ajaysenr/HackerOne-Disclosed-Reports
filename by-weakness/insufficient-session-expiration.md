@@ -1,4 +1,4 @@
-# Weakness: Insufficient Session Expiration (27 reports)
+# Weakness: Insufficient Session Expiration (28 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -13,21 +13,22 @@
 | 7 | [3062299](../reports/3062299.md) | Logout Bypass Vulnerability in Hiro.so | [Hiro](../by-program/hiro.md) | Medium — CVSS 5.0 | $150 | 42 |
 | 8 | [1294231](../reports/1294231.md) | Login session not expire | [Basecamp](../by-program/basecamp.md) | Low | $100 | 18 |
 | 9 | [272839](../reports/272839.md) | Weak Session ID Implementation - No Session change on Password ch | [Unikrn](../by-program/unikrn.md) | Medium | $40 | 14 |
-| 10 | [774393](../reports/774393.md) | Web Server Predictable Session ID on EdgeSwitch  | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 8.8 | — | 18 |
-| 11 | [216294](../reports/216294.md) | Session replay vulnerability in www.urbandictionary.com | [Urban Dictionary](../by-program/urbandictionary.md) | High — CVSS 8.8 | — | 13 |
-| 12 | [3101207](../reports/3101207.md) | Improper Session Invalidation – Auto Sign-In Without Credentials  | [Dust](../by-program/dust.md) | Medium | — | 54 |
-| 13 | [263873](../reports/263873.md) | Improper Session management can cause account takeover[https://mi | [GSA Bounty](../by-program/gsa_bbp.md) | Medium | — | 35 |
-| 14 | [948345](../reports/948345.md) | Broken Authentication Session Token Bug | [Courier](../by-program/trycourier.md) | Medium — CVSS 6.1 | — | 34 |
-| 15 | [2469706](../reports/2469706.md) | Session Not Expire / 2FA Bypass | [HackerOne](../by-program/security.md) | Medium — CVSS 5.2 | — | 28 |
-| 16 | [514577](../reports/514577.md) | Failure to Invalid Session after Password Change | [Omise](../by-program/omise.md) | Medium | — | 18 |
-| 17 | [1069392](../reports/1069392.md) | Old Session Does Not Expires After Password Change | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 16 |
-| 18 | [996122](../reports/996122.md) | Insufficient Session Expiration on Adobe Connect | https://██████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 13 |
-| 19 | [1319892](../reports/1319892.md) | Possible to invite any team member without being logged in. [ Ses | [Courier](../by-program/trycourier.md) | Medium — CVSS 6.1 | — | 12 |
-| 20 | [293363](../reports/293363.md) | The Microsoft Store Uber App Does Not Implement Server-side Token | [Uber](../by-program/uber.md) | Medium | — | 3 |
-| 21 | [1172205](../reports/1172205.md) | Insufficient session expiration in the **com.shopify.ping** andro | [Shopify](../by-program/shopify.md) | Low — CVSS 2.3 | — | 63 |
-| 22 | [3073507](../reports/3073507.md) | Apache Airflow Fab Provider: Application does not invalidate sess | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 57 |
-| 23 | [250688](../reports/250688.md) | The Federalsit session cookie (federalist.sid) is not properly in | [GSA Bounty](../by-program/gsa_bbp.md) | Low | — | 16 |
-| 24 | [1108662](../reports/1108662.md) | The POS app doesn't revoke the Xauth token  | [Shopify](../by-program/shopify.md) | Low — CVSS 2.3 | — | 11 |
-| 25 | [223327](../reports/223327.md) | No expiration of session ID after Password change | [Weblate](../by-program/weblate.md) | Low | — | 4 |
-| 26 | [273881](../reports/273881.md) | Invalidate session after password reset on https://polldaddy.com | [Automattic](../by-program/automattic.md) | None | — | 12 |
-| 27 | [952035](../reports/952035.md) | Admin web sessions remain active after logout of Shopify ID | [Shopify](../by-program/shopify.md) | None | — | 7 |
+| 10 | [1632186](../reports/1632186.md) | Can use the Reddit android app as usual even though revoking the  | [Reddit](../by-program/reddit.md) | Critical | — | 19 |
+| 11 | [774393](../reports/774393.md) | Web Server Predictable Session ID on EdgeSwitch  | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 8.8 | — | 18 |
+| 12 | [216294](../reports/216294.md) | Session replay vulnerability in www.urbandictionary.com | [Urban Dictionary](../by-program/urbandictionary.md) | High — CVSS 8.8 | — | 13 |
+| 13 | [3101207](../reports/3101207.md) | Improper Session Invalidation – Auto Sign-In Without Credentials  | [Dust](../by-program/dust.md) | Medium | — | 54 |
+| 14 | [263873](../reports/263873.md) | Improper Session management can cause account takeover[https://mi | [GSA Bounty](../by-program/gsa_bbp.md) | Medium | — | 35 |
+| 15 | [948345](../reports/948345.md) | Broken Authentication Session Token Bug | [Courier](../by-program/trycourier.md) | Medium — CVSS 6.1 | — | 34 |
+| 16 | [2469706](../reports/2469706.md) | Session Not Expire / 2FA Bypass | [HackerOne](../by-program/security.md) | Medium — CVSS 5.2 | — | 28 |
+| 17 | [514577](../reports/514577.md) | Failure to Invalid Session after Password Change | [Omise](../by-program/omise.md) | Medium | — | 18 |
+| 18 | [1069392](../reports/1069392.md) | Old Session Does Not Expires After Password Change | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 16 |
+| 19 | [996122](../reports/996122.md) | Insufficient Session Expiration on Adobe Connect | https://██████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 13 |
+| 20 | [1319892](../reports/1319892.md) | Possible to invite any team member without being logged in. [ Ses | [Courier](../by-program/trycourier.md) | Medium — CVSS 6.1 | — | 12 |
+| 21 | [293363](../reports/293363.md) | The Microsoft Store Uber App Does Not Implement Server-side Token | [Uber](../by-program/uber.md) | Medium | — | 3 |
+| 22 | [1172205](../reports/1172205.md) | Insufficient session expiration in the **com.shopify.ping** andro | [Shopify](../by-program/shopify.md) | Low — CVSS 2.3 | — | 63 |
+| 23 | [3073507](../reports/3073507.md) | Apache Airflow Fab Provider: Application does not invalidate sess | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 57 |
+| 24 | [250688](../reports/250688.md) | The Federalsit session cookie (federalist.sid) is not properly in | [GSA Bounty](../by-program/gsa_bbp.md) | Low | — | 16 |
+| 25 | [1108662](../reports/1108662.md) | The POS app doesn't revoke the Xauth token  | [Shopify](../by-program/shopify.md) | Low — CVSS 2.3 | — | 11 |
+| 26 | [223327](../reports/223327.md) | No expiration of session ID after Password change | [Weblate](../by-program/weblate.md) | Low | — | 4 |
+| 27 | [273881](../reports/273881.md) | Invalidate session after password reset on https://polldaddy.com | [Automattic](../by-program/automattic.md) | None | — | 12 |
+| 28 | [952035](../reports/952035.md) | Admin web sessions remain active after logout of Shopify ID | [Shopify](../by-program/shopify.md) | None | — | 7 |

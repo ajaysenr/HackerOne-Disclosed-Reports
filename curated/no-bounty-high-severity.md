@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1655 total)
+# High/Critical Severity — No Bounty Paid (1656 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -324,6 +324,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [268794](../reports/268794.md) | all private tokens are leaked to an unauthenticated attacker | [GitLab](../by-program/gitlab.md) | Critical | Resolved | 20 |
 | [947946](../reports/947946.md) | Open SonarQube instance leaking internal source code | [Equifax-vdp](../by-program/equifax.md) | Critical | Resolved | 20 |
 | [1082288](../reports/1082288.md) | Disclosure of Merchant_id into the source code without entered OT | [Kartpay](../by-program/kartpay.md) | Critical | Resolved | 19 |
+| [1632186](../reports/1632186.md) | Can use the Reddit android app as usual even though revoking the  | [Reddit](../by-program/reddit.md) | Critical | Informative | 19 |
 | [219197](../reports/219197.md) | [██████████.gnip.com] .htpasswd disclosure | [X / xAI](../by-program/x.md) | Critical | Resolved | 19 |
 | [879562](../reports/879562.md) | Admin Reseller Account Disclosure | [8x8](../by-program/8x8-bounty.md) | Critical | Resolved | 19 |
 | [193932](../reports/193932.md) | Misconfigured password reset vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 19 |

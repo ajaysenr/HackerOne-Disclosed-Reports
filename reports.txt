@@ -9326,7 +9326,9 @@ https://hackerone.com/reports/3473882 | TLS PSK/ALPN Callback Exceptions Bypass 
 https://hackerone.com/reports/3475626 | Session Cookie Leakage via Static Header Field in WebViewerFragment
 https://hackerone.com/reports/3479692 | Unauthenticated SSRF via Public Reference API -Sharing Token Bypass
 https://hackerone.com/reports/3480841 | Permission Model Bypass in realpathSync.native Allows File Existence Disclosure
+https://hackerone.com/reports/3483708 | Valid share tokens allow to access tempory upload files of share owner
 https://hackerone.com/reports/3486747 | SVG filter primitives bypass remote image blocking, enabling email tracking without consent.
+https://hackerone.com/reports/3489490 | Authentication Bypass in ID4me handling via Missing JWT Signature Verification in User OIDC
 https://hackerone.com/reports/3506183 | Missing Access Control in MigrationFile allows attacker to upload files to any Migration
 https://hackerone.com/reports/3507241 | Authorization Bypass in Starknet Snap via enableAuthorize parameter leads to unauthorized transaction signing
 https://hackerone.com/reports/3508321 | Integer-underflow leads to heap over-read in TFTP implementation
@@ -9418,6 +9420,7 @@ https://hackerone.com/reports/3620760 | Encryption context keys and values logge
 https://hackerone.com/reports/3620761 | Health check errors silently dropped when channel buffer full
 https://hackerone.com/reports/3621851 | CVE-2026-4873: connection reuse ignores TLS requirement
 https://hackerone.com/reports/3623064 | HTTP/1.1 Response Desynchronization via conflicting CL/TE headers in Proxy CONNECT
+https://hackerone.com/reports/3625210 | PIN bypass in PassCodeActivity via back button
 https://hackerone.com/reports/3625600 | Out of scope: Improper Input Validation Order on /api-internal/login via password field leads to unnecessary resource consumption
 https://hackerone.com/reports/3627638 | Security Vulnerability Report: Protocol Injection via Programmatic Options
 https://hackerone.com/reports/3630310 | HTTP/2 server push accepts a non-authoritative :scheme=https over cleartext h2c, enabling HTTPS cache-key poisoning
@@ -9508,6 +9511,7 @@ https://hackerone.com/reports/3739561 | SSL session-cache peer key omits signatu
 https://hackerone.com/reports/3741135 | Connection reuse ignores haproxyprotocol and HAPROXY_CLIENT_IP settings, allowing PROXY context to persist across transfers
 https://hackerone.com/reports/3744200 | PHP code injection via unexpected delivery limitation parameter
 https://hackerone.com/reports/3747959 | curl --skip-existing has a TOCTOU race that lets a post-check symlink redirect the later download write
+https://hackerone.com/reports/3749428 | curl cross-origin HTTPS redirect reuses TLS client certificate for unintended second-origin mTLS authentication
 https://hackerone.com/reports/3751701 | Use-after-free in `curl_easy_duphandle()` with HTTP/2 stream-dependency tree
 https://hackerone.com/reports/3751715 | Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUESS_SCHEME` + `CURLU_NO_GUESS_SCHEME` flow
 https://hackerone.com/reports/3752489 | Memory Corruption via TOCTOU Race in SharedArrayBuffer UTF-8 Decode (`StringBytes::Encode`)
@@ -9516,6 +9520,7 @@ https://hackerone.com/reports/3756699 | lib/ldap.c follows attacker-controlled L
 https://hackerone.com/reports/3761647 | TLS conn reuse and session cache ignore fsslctx callback and ssl_config_data flags ( incomplete fix variant of 7541ae569 )
 https://hackerone.com/reports/3761789 | Mentioned unites are at the same time .Then we have to increase the bounty.
 https://hackerone.com/reports/3766065 | CURLOPT_COOKIE leaked to cross-origin redirect target — CURLOPT_UNRESTRICTED_AUTH bypass for the STRING_COOKIE path
+https://hackerone.com/reports/3766392 | curl External-Controlled Filename in `--url @file` Leads to Arbitrary File Overwrite
 https://hackerone.com/reports/3767963 | Proxy CONNECT response poisoning via authentication retry in cf-h1-proxy.c (libcurl)
 https://hackerone.com/reports/3769293 | Low priority HSTS bypass in curl_easy_duphandle()
 https://hackerone.com/reports/3770979 | SMTP connection reuse ignores --ssl-reqd / CURLOPT_USE_SSL and reuses a clear-text STARTTLS session on current master
@@ -9525,4 +9530,5 @@ https://hackerone.com/reports/3775183 | Incomplete fix for CVE-2022-35406: meta-
 https://hackerone.com/reports/3776433 | TFTP upload ignores --continue-at / CURLOPT_RESUME_FROM and leaks skipped local file prefix
 https://hackerone.com/reports/3776535 | RTSP Digest auth state leaks across origins on reused libcurl easy handle
 https://hackerone.com/reports/3777381 | PRE_PROXY change leaks stale Proxy Digest state across proxy-chain boundary
+https://hackerone.com/reports/3781305 | OpenSSL TLS 1.2 session resumption accepts expired server certificates in libcurl
 https://hackerone.com/reports/3784125 | GnuTLS OCSP stapling accepts unrelated SingleResponse (no cert-ID binding)

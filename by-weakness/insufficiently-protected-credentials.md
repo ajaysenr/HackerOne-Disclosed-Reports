@@ -1,4 +1,4 @@
-# Weakness: Insufficiently Protected Credentials (26 reports)
+# Weakness: Insufficiently Protected Credentials (27 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -29,4 +29,5 @@
 | 23 | [3514263](../reports/3514263.md) | libcurl: Improper Authentication State Management on Cross-Protoc | [curl](../by-program/curl.md) | Low | — | 17 |
 | 24 | [2408074](../reports/2408074.md) | Proxy-Authorization header not cleared on cross-origin redirect i | [Node.js](../by-program/nodejs.md) | Low | — | 9 |
 | 25 | [972561](../reports/972561.md) | kubeadm logs tokens before deleting them | [Kubernetes](../by-program/kubernetes.md) | Low — CVSS 3.4 | — | 7 |
-| 26 | [3516878](../reports/3516878.md) | Cross‑origin cookies leak and injection risk when using a custom  | [curl](../by-program/curl.md) | None | — | 30 |
+| 26 | [3749428](../reports/3749428.md) | curl cross-origin HTTPS redirect reuses TLS client certificate fo | [curl](../by-program/curl.md) | Low | — | 2 |
+| 27 | [3516878](../reports/3516878.md) | Cross‑origin cookies leak and injection risk when using a custom  | [curl](../by-program/curl.md) | None | — | 30 |
