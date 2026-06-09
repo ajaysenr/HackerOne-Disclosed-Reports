@@ -8674,6 +8674,7 @@ https://hackerone.com/reports/2387297 | Bypass Email Verification on Add Email M
 https://hackerone.com/reports/2387458 | CSP Bypass and escalation of https://hackerone.com/reports/2279346
 https://hackerone.com/reports/2387600 | CVE-2022-21371:  Oracle WebLogic Server Local File Inclusion
 https://hackerone.com/reports/2388183 | Easy way to create a new Deck board without permission
+https://hackerone.com/reports/2389431 | Action Text ReDoS (Ruby 3.1  or lower)
 https://hackerone.com/reports/2389565 | Action Text XSS (Rails 7.1.x)
 https://hackerone.com/reports/2389897 | Reflected xss on ████████
 https://hackerone.com/reports/2390009 | Proxy-Authorization header is not cleared in cross-domain redirect in undici
@@ -9530,5 +9531,7 @@ https://hackerone.com/reports/3775183 | Incomplete fix for CVE-2022-35406: meta-
 https://hackerone.com/reports/3776433 | TFTP upload ignores --continue-at / CURLOPT_RESUME_FROM and leaks skipped local file prefix
 https://hackerone.com/reports/3776535 | RTSP Digest auth state leaks across origins on reused libcurl easy handle
 https://hackerone.com/reports/3777381 | PRE_PROXY change leaks stale Proxy Digest state across proxy-chain boundary
+https://hackerone.com/reports/3780733 | DNS domain search list followed for extant domain missing A or AAAA records
 https://hackerone.com/reports/3781305 | OpenSSL TLS 1.2 session resumption accepts expired server certificates in libcurl
 https://hackerone.com/reports/3784125 | GnuTLS OCSP stapling accepts unrelated SingleResponse (no cert-ID binding)
+https://hackerone.com/reports/3785919 | libcurl: HTTP/1.x bare LF byte in response header value enables cookie jar pollution and POST body/credential exfiltration via redirect — RC=0, curl 8
