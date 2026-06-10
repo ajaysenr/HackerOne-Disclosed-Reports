@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1657 total)
+# High/Critical Severity — No Bounty Paid (1658 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -1306,6 +1306,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1294492](../reports/1294492.md) | DNS Miconfiguration Leads to Subdomain Takeover  - max1.liveplan. | [Palo Alto Software](../by-program/palo_alto_software.md) | High | Resolved | 10 |
 | [204237](../reports/204237.md) | [informatica.com]- Cross Site scripting  | [Informatica](../by-program/informatica.md) | High | Resolved | 10 |
 | [2915426](../reports/2915426.md) | Git repository found | [curl](../by-program/curl.md) | High | Not Applicable | 10 |
+| [3788506](../reports/3788506.md) | SSH/SFTP connection reuse can bypass SSH key identity after ssh_c | [curl](../by-program/curl.md) | High | Informative | 10 |
 | [189834](../reports/189834.md) | [kb.informatica.com] DOM based XSS in the bindBreadCrumb function | [Informatica](../by-program/informatica.md) | High | Resolved | 10 |
 | [329862](../reports/329862.md) | Stored xss in shop name @ lp.reverb.com | [Reverb.com](../by-program/reverb.md) | High | Resolved | 10 |
 | [1714767](../reports/1714767.md) | Upload and delete files in debug page without access control. | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 10 |

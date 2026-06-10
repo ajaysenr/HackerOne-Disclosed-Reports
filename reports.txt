@@ -9535,3 +9535,5 @@ https://hackerone.com/reports/3780733 | DNS domain search list followed for exta
 https://hackerone.com/reports/3781305 | OpenSSL TLS 1.2 session resumption accepts expired server certificates in libcurl
 https://hackerone.com/reports/3784125 | GnuTLS OCSP stapling accepts unrelated SingleResponse (no cert-ID binding)
 https://hackerone.com/reports/3785919 | libcurl: HTTP/1.x bare LF byte in response header value enables cookie jar pollution and POST body/credential exfiltration via redirect — RC=0, curl 8
+https://hackerone.com/reports/3786077 | SOCKS5 no-auth accepted despite username/password-only authentication
+https://hackerone.com/reports/3788506 | SSH/SFTP connection reuse can bypass SSH key identity after ssh_config_matches removal
