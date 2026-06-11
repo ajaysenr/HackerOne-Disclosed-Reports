@@ -8,8 +8,8 @@
 | 2 | [2526041](../reports/2526041.md) | CVE-2024-35200 in nginx | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $2,600 | 21 |
 | 3 | [621308](../reports/621308.md) | NULL pointer dereference in `mrb_check_frozen` | [shopify-scripts](../by-program/shopify-scripts.md) | None | $1,000 | 9 |
 | 4 | [214681](../reports/214681.md) | Null pointer dereference in ary_concat  | [shopify-scripts](../by-program/shopify-scripts.md) | Low | $800 | 7 |
-| 5 | [218233](../reports/218233.md) | Null pointer dereference in OP_ENTER | [shopify-scripts](../by-program/shopify-scripts.md) | Low | $800 | 3 |
-| 6 | [215891](../reports/215891.md) | Null pointer dereference in mrb_class | [shopify-scripts](../by-program/shopify-scripts.md) | Low | $800 | 3 |
+| 5 | [215891](../reports/215891.md) | Null pointer dereference in mrb_class | [shopify-scripts](../by-program/shopify-scripts.md) | Low | $800 | 3 |
+| 6 | [218233](../reports/218233.md) | Null pointer dereference in OP_ENTER | [shopify-scripts](../by-program/shopify-scripts.md) | Low | $800 | 3 |
 | 7 | [420115](../reports/420115.md) | Crash in mrb_ary_push | [shopify-scripts](../by-program/shopify-scripts.md) | None | $800 | 37 |
 | 8 | [242354](../reports/242354.md) | Null pointer dereference with send/method_missing | [shopify-scripts](../by-program/shopify-scripts.md) | None | $800 | 2 |
 | 9 | [1032086](../reports/1032086.md) | csi-snapshot-controller crashes when processing VolumeSnapshot wi | [Kubernetes](../by-program/kubernetes.md) | Medium | $500 | 15 |

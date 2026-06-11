@@ -21,8 +21,8 @@
 | 15 | [2336236](../reports/2336236.md) | Privilege Escalation to Root SSH Access via Pre-Receive | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 71 |
 | 16 | [2332551](../reports/2332551.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 61 |
 | 17 | [2329466](../reports/2329466.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 61 |
-| 18 | [2329547](../reports/2329547.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 47 |
-| 19 | [2323292](../reports/2323292.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 47 |
+| 18 | [2323292](../reports/2323292.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 47 |
+| 19 | [2329547](../reports/2329547.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 47 |
 | 20 | [825764](../reports/825764.md) | View Only to Root Privilege Escalation on UniFi Protect | [Ubiquiti Inc.](../by-program/ui.md) | UniFi Protect | High — CVSS 8.8 | — | 42 |
 | 21 | [1541273](../reports/1541273.md) | [WiiU/Switch] Remote code execution inside the ENL libr | [Nintendo](../by-program/nintendo.md) | Nintendo Switch applications for which N | High — CVSS 7.4 | — | 36 |
 | 22 | [323852](../reports/323852.md) | Firmware download/install vulnerable to CSRF | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | High — CVSS 8.8 | — | 35 |
@@ -50,5 +50,5 @@
 | 44 | [894922](../reports/894922.md) | [3DS][SSL] Improper certificate validation allows an at | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS System | None | — | 129 |
 | 45 | [3042475](../reports/3042475.md) | Splatoon 3 Anticheat Seed Randomization Weakness | [Nintendo](../by-program/nintendo.md) | Nintendo Switch applications for which N | None | — | 53 |
 | 46 | [897606](../reports/897606.md) | [3DS][SSL][SDK] Unchecked number of audio channels in M | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS System | None | — | 43 |
-| 47 | [923240](../reports/923240.md) | [3DS][StreetPass] Heap Overflow in Swapnote parser lead | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS applications for which Nint | None | — | 30 |
-| 48 | [687887](../reports/687887.md) | [3DS][StreetPass] Buffer Overflow in Super Mario Maker  | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS applications for which Nint | None | — | 30 |
+| 47 | [687887](../reports/687887.md) | [3DS][StreetPass] Buffer Overflow in Super Mario Maker  | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS applications for which Nint | None | — | 30 |
+| 48 | [923240](../reports/923240.md) | [3DS][StreetPass] Heap Overflow in Swapnote parser lead | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS applications for which Nint | None | — | 30 |

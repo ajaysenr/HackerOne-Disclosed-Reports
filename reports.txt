@@ -8178,6 +8178,7 @@ https://hackerone.com/reports/1825472 | speedtest.8x8.com: Enabled Directory Lis
 https://hackerone.com/reports/1825942 | XSS on ( █████████.gov ) Via URL path
 https://hackerone.com/reports/1826048 | CVE-2023-23916: HTTP multi-header compression denial of service
 https://hackerone.com/reports/1826141 | HackerOne Undisclosed Report Leak via PoC of Full Disclosure on Hacktivity
+https://hackerone.com/reports/1826392 | curl/libcurl vulnerable to TLS truncation attacks
 https://hackerone.com/reports/1829170 | Double forward slash breaks server-side restrictions & allows access to prohibited services from a partner account
 https://hackerone.com/reports/1832494 | Blind SSRF on https://my.exnessaffiliates.com/ allows for internal network enumeration
 https://hackerone.com/reports/1835133 | S3 Bucket Takeover  "brave-browser-rpm-staging-release-test"
@@ -9537,3 +9538,5 @@ https://hackerone.com/reports/3784125 | GnuTLS OCSP stapling accepts unrelated S
 https://hackerone.com/reports/3785919 | libcurl: HTTP/1.x bare LF byte in response header value enables cookie jar pollution and POST body/credential exfiltration via redirect — RC=0, curl 8
 https://hackerone.com/reports/3786077 | SOCKS5 no-auth accepted despite username/password-only authentication
 https://hackerone.com/reports/3788506 | SSH/SFTP connection reuse can bypass SSH key identity after ssh_config_matches removal
+https://hackerone.com/reports/3791168 | curl-ipv4-percent-normalization-SSRF
+https://hackerone.com/reports/3791191 | Trailing-Dot Hostname in Redirect Silently Strips Client Certificate and Auth Credentials

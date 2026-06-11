@@ -11,8 +11,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 5 | [262262](../reports/262262.md) | app.mixmax.com Information Discloure on cal.mixmax.com and N | Medium | — | 12 | [ykw1337](https://hackerone.com/ykw1337) | 2017-09-24 |
 | 6 | [237100](../reports/237100.md) | [app.mixmax.com] Stored XSS on Adding new enhancement. | Medium | — | 11 | [sh3r1](https://hackerone.com/sh3r1) | 2017-06-13 |
 | 7 | [233408](../reports/233408.md) | Subdomain takeover (sales.mixmax.com) | Medium | — | 7 | [jin](https://hackerone.com/jin) | 2017-05-31 |
-| 8 | [233376](../reports/233376.md) | mailbomb through invite feature on chrome addon | Medium | — | 6 | [konkakarthik](https://hackerone.com/konkakarthik) | 2017-07-16 |
-| 9 | [233402](../reports/233402.md) | Possible Subdomain Takeover | Medium | — | 6 | [z3t](https://hackerone.com/z3t) | 2017-05-31 |
+| 8 | [233402](../reports/233402.md) | Possible Subdomain Takeover | Medium | — | 6 | [z3t](https://hackerone.com/z3t) | 2017-05-31 |
+| 9 | [233376](../reports/233376.md) | mailbomb through invite feature on chrome addon | Medium | — | 6 | [konkakarthik](https://hackerone.com/konkakarthik) | 2017-07-16 |
 | 10 | [233379](../reports/233379.md) | Attacker can trick other into logging in as themselves | Medium | — | 3 | [fixit](https://hackerone.com/fixit) | 2017-06-13 |
 | 11 | [236301](../reports/236301.md) | Blind SSRF due to img tag injection in career form | Low | — | 9 | [encrypt](https://hackerone.com/encrypt) | 2017-07-19 |
 | 12 | [237125](../reports/237125.md) | no string size restriction on team name | Low | — | 6 | [michan](https://hackerone.com/michan) | 2017-07-16 |

@@ -24,9 +24,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 18 | [804534](../reports/804534.md) | Access to private file's of helpdesk. | Medium — CVSS 4.3 | — | 21 | [imran_nisar](https://hackerone.com/imran_nisar) | 2022-10-18 |
 | 19 | [877300](../reports/877300.md) | User with single department permission can view applicant li | Medium — CVSS 5.3 | — | 20 | [imran_nisar](https://hackerone.com/imran_nisar) | 2021-03-03 |
 | 20 | [971857](../reports/971857.md) | Stored xss on helpdesk using user's city | Medium | — | 18 | [imran_nisar](https://hackerone.com/imran_nisar) | 2022-01-14 |
-| 21 | [1533220](../reports/1533220.md) | Ability to View Non-Permitted Admin Log | Medium — CVSS 4.9 | — | 17 | [imran_nisar](https://hackerone.com/imran_nisar) | 2022-10-20 |
+| 21 | [1080700](../reports/1080700.md) | Viewer is able to leak the previous versions of the file | Medium — CVSS 4.9 | — | 17 | [imran0x01](https://hackerone.com/imran0x01) | 2022-10-24 |
 | 22 | [1335070](../reports/1335070.md) | Removed user can still view comments on the file/documents. | Medium — CVSS 4.3 | — | 17 | [imran_nisar](https://hackerone.com/imran_nisar) | 2022-10-20 |
-| 23 | [1080700](../reports/1080700.md) | Viewer is able to leak the previous versions of the file | Medium — CVSS 4.9 | — | 17 | [imran0x01](https://hackerone.com/imran0x01) | 2022-10-24 |
+| 23 | [1533220](../reports/1533220.md) | Ability to View Non-Permitted Admin Log | Medium — CVSS 4.9 | — | 17 | [imran_nisar](https://hackerone.com/imran_nisar) | 2022-10-20 |
 | 24 | [1074420](../reports/1074420.md) | IDOR Allows Viewer to Delete Bin's Files | Medium — CVSS 4.3 | — | 16 | [imran0x01](https://hackerone.com/imran0x01) | 2022-10-24 |
 | 25 | [912161](../reports/912161.md) | Messages disclosure via search feature of other users group( | Medium — CVSS 6.5 | — | 14 | [base_64](https://hackerone.com/base_64) | 2021-03-17 |
 | 26 | [1463028](../reports/1463028.md) | [AWC-Pune] - User can download files deleted by Admin using  | Medium — CVSS 6.5 | — | 11 | [prateek_thakare](https://hackerone.com/prateek_thakare) | 2022-02-25 |

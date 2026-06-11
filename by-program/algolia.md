@@ -12,11 +12,11 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 6 | [212067](../reports/212067.md) | An “algobot”-s GitHub access token was leaked | Medium | $100 | 10 | [sainaen](https://hackerone.com/sainaen) | 2017-06-10 |
 | 7 | [149154](../reports/149154.md) | Stored xss  | None | $100 | 41 | [sysecure](https://hackerone.com/sysecure) | 2016-08-03 |
 | 8 | [164833](../reports/164833.md) | Hyperlink Injection in Friend Invitation Emails | None | $100 | 20 | [corb3nik](https://hackerone.com/corb3nik) | 2016-10-07 |
-| 9 | [128777](../reports/128777.md) | No rate-limit in Two factor Authentication leads to bypass u | None | $100 | 6 | [bugs3ra](https://hackerone.com/bugs3ra) | 2016-06-01 |
-| 10 | [151868](../reports/151868.md) | No Rate Limit In Inviting Similar Contact Multiple Times | None | $100 | 6 | [rajauzairabdullah](https://hackerone.com/rajauzairabdullah) | 2016-09-07 |
-| 11 | [102755](../reports/102755.md) | Stored XSS in name selection | None | $100 | 6 | [daveysec](https://hackerone.com/daveysec) | 2016-06-18 |
-| 12 | [106348](../reports/106348.md) | text injection can be used in phishing 404 page should not i | None | $100 | 2 | [djamel-ghorab](https://hackerone.com/djamel-ghorab) | 2016-05-09 |
-| 13 | [99368](../reports/99368.md) | an xss issue | None | $100 | 2 | [securitythinker](https://hackerone.com/securitythinker) | 2016-05-22 |
+| 9 | [102755](../reports/102755.md) | Stored XSS in name selection | None | $100 | 6 | [daveysec](https://hackerone.com/daveysec) | 2016-06-18 |
+| 10 | [128777](../reports/128777.md) | No rate-limit in Two factor Authentication leads to bypass u | None | $100 | 6 | [bugs3ra](https://hackerone.com/bugs3ra) | 2016-06-01 |
+| 11 | [151868](../reports/151868.md) | No Rate Limit In Inviting Similar Contact Multiple Times | None | $100 | 6 | [rajauzairabdullah](https://hackerone.com/rajauzairabdullah) | 2016-09-07 |
+| 12 | [99368](../reports/99368.md) | an xss issue | None | $100 | 2 | [securitythinker](https://hackerone.com/securitythinker) | 2016-05-22 |
+| 13 | [106348](../reports/106348.md) | text injection can be used in phishing 404 page should not i | None | $100 | 2 | [djamel-ghorab](https://hackerone.com/djamel-ghorab) | 2016-05-09 |
 | 14 | [220494](../reports/220494.md) | [GitHub Extension] Unsanitised HTML leading to XSS on GitHub | High | — | 26 | [ysx](https://hackerone.com/ysx) | 2017-04-24 |
 | 15 | [1276373](../reports/1276373.md) | Information disclosure -> 2fa bypass -> POST exploitation  | Medium | — | 75 | [akashhamal0x01](https://hackerone.com/akashhamal0x01) | 2021-09-08 |
 | 16 | [333306](../reports/333306.md) | Directory traversal at https://msg.algolia.com | Medium | — | 34 | [n00bsec](https://hackerone.com/n00bsec) | 2018-06-09 |
@@ -28,6 +28,6 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 22 | [156373](../reports/156373.md) | Stored xss | None | — | 12 | [rishi62](https://hackerone.com/rishi62) | 2016-09-07 |
 | 23 | [173417](../reports/173417.md) | Possilbe Sub Domain takever at prestashop.algolia.com | None | — | 9 | [punkrock](https://hackerone.com/punkrock) | 2016-11-04 |
 | 24 | [156347](../reports/156347.md) | Stored XSS triggered by json key during UI generation | None | — | 7 | [ctee](https://hackerone.com/ctee) | 2016-09-07 |
-| 25 | [155576](../reports/155576.md) | [github.algolia.com] XSS | None | — | 4 | [bogdantc](https://hackerone.com/bogdantc) | 2016-09-01 |
-| 26 | [156387](../reports/156387.md) | Stored XSS from Display Settings triggered on Save and viewi | None | — | 4 | [ctee](https://hackerone.com/ctee) | 2016-09-07 |
+| 25 | [156387](../reports/156387.md) | Stored XSS from Display Settings triggered on Save and viewi | None | — | 4 | [ctee](https://hackerone.com/ctee) | 2016-09-07 |
+| 26 | [155576](../reports/155576.md) | [github.algolia.com] XSS | None | — | 4 | [bogdantc](https://hackerone.com/bogdantc) | 2016-09-01 |
 | 27 | [98012](../reports/98012.md) | Stored XSS on https://www.algolia.com/realtime-search-demo/* | None | — | 2 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2016-02-03 |

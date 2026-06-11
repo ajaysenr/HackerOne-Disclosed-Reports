@@ -14,8 +14,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 8 | [733152](../reports/733152.md) | RXSS on unsubscribe feature (affiliates.kromtech.com) | Low | $75 | 3 | [sec0ndw0lf](https://hackerone.com/sec0ndw0lf) | 2020-06-13 |
 | 9 | [733148](../reports/733148.md) | Reflected XSS on stage.mackeeper.com | Low | $60 | 3 | [karna__](https://hackerone.com/karna__) | 2020-05-15 |
 | 10 | [792725](../reports/792725.md) | Multiple Links Vulnerable to Reflected xss | Low | $50 | 4 | [dilawer](https://hackerone.com/dilawer) | 2020-05-17 |
-| 11 | [787054](../reports/787054.md) | Reflected xss on mackeeper.com | Low | $50 | 2 | [dilawer](https://hackerone.com/dilawer) | 2020-05-17 |
-| 12 | [734418](../reports/734418.md) | Open Redirect at https://store.mackeeper.com/767/cookie via  | Low | $50 | 2 | [sec0ndw0lf](https://hackerone.com/sec0ndw0lf) | 2020-06-14 |
+| 11 | [734418](../reports/734418.md) | Open Redirect at https://store.mackeeper.com/767/cookie via  | Low | $50 | 2 | [sec0ndw0lf](https://hackerone.com/sec0ndw0lf) | 2020-06-14 |
+| 12 | [787054](../reports/787054.md) | Reflected xss on mackeeper.com | Low | $50 | 2 | [dilawer](https://hackerone.com/dilawer) | 2020-05-17 |
 | 13 | [790115](../reports/790115.md) | Reflected xss | Low | $50 | 2 | [dilawer](https://hackerone.com/dilawer) | 2020-05-17 |
 | 14 | [730788](../reports/730788.md) | CRLF Injection - http://stage-static-cdn.mackeeper.com/ | Low | $50 | 1 | [kphaks](https://hackerone.com/kphaks) | 2020-05-25 |
 | 15 | [783117](../reports/783117.md) | IDOR at https://account.mackeeper.com/at/load-reports/profil | Medium — CVSS 5.0 | — | 18 | [m4ll0k](https://hackerone.com/m4ll0k) | 2020-05-15 |
@@ -24,7 +24,7 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 18 | [833836](../reports/833836.md) | Information disclosure of Internal php files on [mackeeper.c | Low | — | 4 | [darkerhack](https://hackerone.com/darkerhack) | 2020-05-15 |
 | 19 | [737058](../reports/737058.md) | Affiliates - Session Fixation | Low | — | 3 | [jair](https://hackerone.com/jair) | 2020-06-14 |
 | 20 | [771699](../reports/771699.md) | Open redirect on https://account.mackeeper.com | Low | — | 3 | [jin0ne](https://hackerone.com/jin0ne) | 2020-06-10 |
-| 21 | [741439](../reports/741439.md) | Unauthenticated Reflected Cross-Site Scripting on https://ac | Low | — | 2 | [patient_zero](https://hackerone.com/patient_zero) | 2020-05-23 |
+| 21 | [740999](../reports/740999.md) | Reflected XSS | Low | — | 2 | [patient_zero](https://hackerone.com/patient_zero) | 2020-05-23 |
 | 22 | [766404](../reports/766404.md) | MK Site Cross-Site Scripting (XSS) in script context | Low | — | 2 | [adelin30](https://hackerone.com/adelin30) | 2020-05-15 |
-| 23 | [740999](../reports/740999.md) | Reflected XSS | Low | — | 2 | [patient_zero](https://hackerone.com/patient_zero) | 2020-05-23 |
-| 24 | [840515](../reports/840515.md) | rxss at https://mackeeper.com page not found via rid paramet | Low | — | 2 | [g0dzira](https://hackerone.com/g0dzira) | 2020-06-14 |
+| 23 | [840515](../reports/840515.md) | rxss at https://mackeeper.com page not found via rid paramet | Low | — | 2 | [g0dzira](https://hackerone.com/g0dzira) | 2020-06-14 |
+| 24 | [741439](../reports/741439.md) | Unauthenticated Reflected Cross-Site Scripting on https://ac | Low | — | 2 | [patient_zero](https://hackerone.com/patient_zero) | 2020-05-23 |

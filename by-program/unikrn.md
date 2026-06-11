@@ -19,8 +19,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 13 | [251918](../reports/251918.md) | Flash CSRF: Update Ad Frequency %: [cp-ng.pinion.gg] | Medium | — | 33 | [geekboy](https://hackerone.com/geekboy) | 2017-09-06 |
 | 14 | [254200](../reports/254200.md) | Escaping images directory in S3 bucket when saving new avata | Medium | — | 26 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-08-23 |
 | 15 | [339352](../reports/339352.md) | CSRF logs the victim into attacker's account | Medium | — | 14 | [albatraoz](https://hackerone.com/albatraoz) | 2018-04-19 |
-| 16 | [592885](../reports/592885.md) | multiple vulnerabilities on your mautic server | Medium — CVSS 6.0 | — | 7 | [bbc6dfb7d3878289f2f98d4](https://hackerone.com/bbc6dfb7d3878289f2f98d4) | 2019-07-10 |
-| 17 | [277407](../reports/277407.md) | Email abuse and Referral Abuse | Medium | — | 7 | [le4rner](https://hackerone.com/le4rner) | 2019-06-12 |
+| 16 | [277407](../reports/277407.md) | Email abuse and Referral Abuse | Medium | — | 7 | [le4rner](https://hackerone.com/le4rner) | 2019-06-12 |
+| 17 | [592885](../reports/592885.md) | multiple vulnerabilities on your mautic server | Medium — CVSS 6.0 | — | 7 | [bbc6dfb7d3878289f2f98d4](https://hackerone.com/bbc6dfb7d3878289f2f98d4) | 2019-07-10 |
 | 18 | [591002](../reports/591002.md) | Full Path Disclosure | Medium | — | 5 | [bbc6dfb7d3878289f2f98d4](https://hackerone.com/bbc6dfb7d3878289f2f98d4) | 2019-05-29 |
 | 19 | [753602](../reports/753602.md) | Staging Rabbitmq instance is exposed to the internet with de | Low — CVSS 3.7 | — | 104 | [albatraoz](https://hackerone.com/albatraoz) | 2019-12-09 |
 | 20 | [254269](../reports/254269.md) | Persistent XSS found on bin.pinion.gg due to outdated FlowPl | Low | — | 17 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-10-05 |

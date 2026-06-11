@@ -11,8 +11,8 @@
 | 5 | [179828](../reports/179828.md) | DMARC  Not found for paragonie.com   URGENT | [Paragon Initiative Enterprises](../by-program/paragonie.md) | Critical | — | 146 |
 | 6 | [312543](../reports/312543.md) | XXE in Site Audit function exposing file and directory contents | [Semrush](../by-program/semrush.md) | Critical | — | 113 |
 | 7 | [227880](../reports/227880.md) | XXE in DoD website that may lead to RCE | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 96 |
-| 8 | [188743](../reports/188743.md) | XXE on DoD web server | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 36 |
-| 9 | [715949](../reports/715949.md) | [HTA2] XXE on https://███ via SpellCheck Endpoint. | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical — CVSS 9.1 | — | 36 |
+| 8 | [715949](../reports/715949.md) | [HTA2] XXE on https://███ via SpellCheck Endpoint. | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical — CVSS 9.1 | — | 36 |
+| 9 | [188743](../reports/188743.md) | XXE on DoD web server | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 36 |
 | 10 | [1321070](../reports/1321070.md) | AEM forms XXE Vulnerability | [Adobe](../by-program/adobe.md) | Critical — CVSS 9.8 | — | 18 |
 | 11 | [1218708](../reports/1218708.md) | HackerOne’s 100K CTF Writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical — CVSS 9.3 | — | 15 |
 | 12 | [415202](../reports/415202.md) | Flag WriteUp | [h1-5411-CTF](../by-program/h1-5411-ctf.md) | Critical | — | 15 |

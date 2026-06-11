@@ -8,8 +8,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 2 | [3088290](../reports/3088290.md) | Middleware Authentication Bypass on IBM Portal | Critical | — | 80 | [muhammadwaseem3](https://hackerone.com/muhammadwaseem3) | 2025-05-02 |
 | 3 | [3060373](../reports/3060373.md) | Path Traversal Vulnerability found on IBM Cloud | Critical | — | 63 | [0xnullbytex0](https://hackerone.com/0xnullbytex0) | 2025-05-07 |
 | 4 | [2456603](../reports/2456603.md) | Insecure Direct Object Reference Protection bypass by changi | Critical — CVSS 9.3 | — | 53 | [suryahss](https://hackerone.com/suryahss) | 2024-05-01 |
-| 5 | [2954547](../reports/2954547.md) | Weak credentials found in Jenkins endpoint | Critical | — | 40 | [roswell-47](https://hackerone.com/roswell-47) | 2025-02-05 |
-| 6 | [1567516](../reports/1567516.md) | sql injection via https://setup.p2p.ihost.com/ | Critical — CVSS 9.8 | — | 40 | [exploitmsf](https://hackerone.com/exploitmsf) | 2022-06-17 |
+| 5 | [1567516](../reports/1567516.md) | sql injection via https://setup.p2p.ihost.com/ | Critical — CVSS 9.8 | — | 40 | [exploitmsf](https://hackerone.com/exploitmsf) | 2022-06-17 |
+| 6 | [2954547](../reports/2954547.md) | Weak credentials found in Jenkins endpoint | Critical | — | 40 | [roswell-47](https://hackerone.com/roswell-47) | 2025-02-05 |
 | 7 | [1670586](../reports/1670586.md) | Cleartext storage of sensitive information at https://stagin | Critical — CVSS 9.3 | — | 30 | [zere](https://hackerone.com/zere) | 2022-09-09 |
 | 8 | [1492447](../reports/1492447.md) | Public Jenkins instance with /script enabled | Critical | — | 15 | [thesanjok](https://hackerone.com/thesanjok) | 2022-03-11 |
 | 9 | [1089583](../reports/1089583.md) | Insecure Object Permissions for Guest User leads to access t | Critical — CVSS 9.3 | — | 14 | [mocr7](https://hackerone.com/mocr7) | 2022-07-15 |

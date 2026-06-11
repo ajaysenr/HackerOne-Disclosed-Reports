@@ -23,5 +23,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 17 | [277354](../reports/277354.md) | HTTP Host Header Injection on app.goodhire.com | None | — | 5 | [anonymousmian](https://hackerone.com/anonymousmian) | 2017-11-01 |
 | 18 | [277192](../reports/277192.md) | Host Header Injection and Cache Poisoning | None | — | 4 | [kiddie](https://hackerone.com/kiddie) | 2017-10-24 |
 | 19 | [281449](../reports/281449.md) | Limited Account Takeover via Backup codes  | None | — | 3 | [gopalsingh27](https://hackerone.com/gopalsingh27) | 2017-10-26 |
-| 20 | [283502](../reports/283502.md) | XST(Cross Site Tracing) | None | — | 1 | [thalaivarsubu](https://hackerone.com/thalaivarsubu) | 2017-10-31 |
-| 21 | [281472](../reports/281472.md) | Unsubscribe Any User | None | — | 1 | [hk755a](https://hackerone.com/hk755a) | 2017-11-29 |
+| 20 | [281472](../reports/281472.md) | Unsubscribe Any User | None | — | 1 | [hk755a](https://hackerone.com/hk755a) | 2017-11-29 |
+| 21 | [283502](../reports/283502.md) | XST(Cross Site Tracing) | None | — | 1 | [thalaivarsubu](https://hackerone.com/thalaivarsubu) | 2017-10-31 |

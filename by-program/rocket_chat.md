@@ -22,8 +22,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 16 | [1379400](../reports/1379400.md) | XSS in various MessageTypes | High — CVSS 8.3 | — | 12 | [gronke](https://hackerone.com/gronke) | 2024-08-10 |
 | 17 | [276031](../reports/276031.md) | Remote Code Execution in Rocket.Chat Desktop | High | — | 12 | [mattaustin](https://hackerone.com/mattaustin) | 2018-09-18 |
 | 18 | [3734326](../reports/3734326.md) | Autotranslate DDP Method Exposes Private Messages Without Au | High — CVSS 7.5 | — | 8 | [deprrous](https://hackerone.com/deprrous) | 2026-05-25 |
-| 19 | [1448268](../reports/1448268.md) | TOTP 2 Factor Authentication Bypass | High | — | 7 | [gronke](https://hackerone.com/gronke) | 2022-09-22 |
-| 20 | [1844777](../reports/1844777.md) | Reflected Cross-Site Scripting(CVE-2022-32770 ) | High | — | 7 | [sachinrajput](https://hackerone.com/sachinrajput) | 2023-06-22 |
+| 19 | [1844777](../reports/1844777.md) | Reflected Cross-Site Scripting(CVE-2022-32770 ) | High | — | 7 | [sachinrajput](https://hackerone.com/sachinrajput) | 2023-06-22 |
+| 20 | [1448268](../reports/1448268.md) | TOTP 2 Factor Authentication Bypass | High | — | 7 | [gronke](https://hackerone.com/gronke) | 2022-09-22 |
 | 21 | [1132202](../reports/1132202.md) | Post-Auth Stored XSS with User Interaction leads to Remote C | High — CVSS 8.0 | — | 5 | [sonarsource](https://hackerone.com/sonarsource) | 2021-06-30 |
 | 22 | [832217](../reports/832217.md) | Android App Crashes while sending message to users/ on chann | High | — | 3 | [legalizenepal](https://hackerone.com/legalizenepal) | 2021-03-18 |
 | 23 | [501084](../reports/501084.md) | Upload of Avatars for other Users | Medium — CVSS 4.3 | — | 47 | [gronke](https://hackerone.com/gronke) | 2024-08-10 |
@@ -40,20 +40,20 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 34 | [384517](../reports/384517.md) | XSS (stored) Wizard is saving executable code | Medium | — | 7 | [nitin_24](https://hackerone.com/nitin_24) | 2018-09-27 |
 | 35 | [1379645](../reports/1379645.md) | Impersonation in Sequential Messages | Medium — CVSS 4.3 | — | 7 | [gronke](https://hackerone.com/gronke) | 2024-08-10 |
 | 36 | [1445810](../reports/1445810.md) | Mute User can disclose private channel members to unauthoriz | Medium — CVSS 4.3 | — | 6 | [gronke](https://hackerone.com/gronke) | 2023-05-09 |
-| 37 | [1031525](../reports/1031525.md) | User Impersonation through sendMessage options | Medium — CVSS 4.3 | — | 5 | [gronke](https://hackerone.com/gronke) | 2024-08-10 |
-| 38 | [1379451](../reports/1379451.md) | Messages can be hidden regardless of server configuration | Medium — CVSS 4.3 | — | 5 | [gronke](https://hackerone.com/gronke) | 2023-04-25 |
-| 39 | [917946](../reports/917946.md) | It is possible to elevate privileges for any authenticated u | Medium | — | 3 | [garretby](https://hackerone.com/garretby) | 2022-09-22 |
+| 37 | [1379451](../reports/1379451.md) | Messages can be hidden regardless of server configuration | Medium — CVSS 4.3 | — | 5 | [gronke](https://hackerone.com/gronke) | 2023-04-25 |
+| 38 | [1031525](../reports/1031525.md) | User Impersonation through sendMessage options | Medium — CVSS 4.3 | — | 5 | [gronke](https://hackerone.com/gronke) | 2024-08-10 |
+| 39 | [1140631](../reports/1140631.md) | REST API gets `query` as parameter and executes it | Medium — CVSS 6.5 | — | 3 | [paulocsanz](https://hackerone.com/paulocsanz) | 2022-09-22 |
 | 40 | [1461340](../reports/1461340.md) | Maliciously crafted message can cause Rocket.Chat server to  | Medium — CVSS 5.5 | — | 3 | [vv9k](https://hackerone.com/vv9k) | 2023-05-09 |
-| 41 | [1140631](../reports/1140631.md) | REST API gets `query` as parameter and executes it | Medium — CVSS 6.5 | — | 3 | [paulocsanz](https://hackerone.com/paulocsanz) | 2022-09-22 |
-| 42 | [1458020](../reports/1458020.md) | NoSQL-Injection discloses S3 File Upload URLs | Medium — CVSS 6.5 | — | 3 | [gronke](https://hackerone.com/gronke) | 2022-09-22 |
+| 41 | [1458020](../reports/1458020.md) | NoSQL-Injection discloses S3 File Upload URLs | Medium — CVSS 6.5 | — | 3 | [gronke](https://hackerone.com/gronke) | 2022-09-22 |
+| 42 | [917946](../reports/917946.md) | It is possible to elevate privileges for any authenticated u | Medium | — | 3 | [garretby](https://hackerone.com/garretby) | 2022-09-22 |
 | 43 | [1410357](../reports/1410357.md) | getUsersOfRoom discloses users in private channels | Medium — CVSS 6.5 | — | 2 | [gronke](https://hackerone.com/gronke) | 2022-09-22 |
 | 44 | [1406953](../reports/1406953.md) | Message ID Enumeration with Action Link Handler | Medium — CVSS 4.3 | — | 2 | [gronke](https://hackerone.com/gronke) | 2022-09-22 |
 | 45 | [1377105](../reports/1377105.md) | Message ID Enumeration with Regular Expression in getReadRec | Medium — CVSS 4.3 | — | 1 | [gronke](https://hackerone.com/gronke) | 2022-09-22 |
 | 46 | [1394399](../reports/1394399.md) | Unintended information disclosure in the Hubot Log files | Medium | — | 1 | [rolfzur](https://hackerone.com/rolfzur) | 2022-09-22 |
 | 47 | [3713682](../reports/3713682.md) | IDOR: autotranslate.translateMessage Full Message Content Le | Medium — CVSS 5.3 | — | 0 | [josan_george](https://hackerone.com/josan_george) | 2026-05-18 |
 | 48 | [728004](../reports/728004.md) | Clickjacking in the admin page | Low | — | 20 | [ant_pyne](https://hackerone.com/ant_pyne) | 2020-01-02 |
-| 49 | [1089116](../reports/1089116.md) | Hi! Security Team Rocket.Chat, It's possible to get informat | Low | — | 12 | [khekhe](https://hackerone.com/khekhe) | 2021-04-29 |
-| 50 | [1091118](../reports/1091118.md) | Blind XSS | Low | — | 12 | [abhinav-porwal](https://hackerone.com/abhinav-porwal) | 2021-12-07 |
+| 49 | [1091118](../reports/1091118.md) | Blind XSS | Low | — | 12 | [abhinav-porwal](https://hackerone.com/abhinav-porwal) | 2021-12-07 |
+| 50 | [1089116](../reports/1089116.md) | Hi! Security Team Rocket.Chat, It's possible to get informat | Low | — | 12 | [khekhe](https://hackerone.com/khekhe) | 2021-04-29 |
 | 51 | [724153](../reports/724153.md) | XSS (leads to arbitrary file read in Rocket.Chat-Desktop) | Low | — | 11 | [sectex](https://hackerone.com/sectex) | 2020-01-02 |
 | 52 | [1390782](../reports/1390782.md) | Possible Domain Takeover on AWS Instance. | Low | — | 9 | [samuelsiv](https://hackerone.com/samuelsiv) | 2022-05-22 |
 | 53 | [433792](../reports/433792.md) | Blind SQL injection in third-party software, that allows to  | None | — | 60 | [w2w](https://hackerone.com/w2w) | 2019-10-17 |

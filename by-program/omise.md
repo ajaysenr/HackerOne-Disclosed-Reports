@@ -21,8 +21,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 15 | [699200](../reports/699200.md) | Signup with any email and enable 2FA without verifying email | Medium | — | 40 | [rioncool22](https://hackerone.com/rioncool22) | 2020-04-23 |
 | 16 | [1662194](../reports/1662194.md) | Secret API Key is logged in cleartext  | Medium | — | 31 | [sim4n6](https://hackerone.com/sim4n6) | 2022-12-23 |
 | 17 | [514577](../reports/514577.md) | Failure to Invalid Session after Password Change | Medium | — | 18 | [d3tonator](https://hackerone.com/d3tonator) | 2019-12-08 |
-| 18 | [1466967](../reports/1466967.md) | Brute force attack of current password on  login page by byp | Medium | — | 14 | [sachinrajput](https://hackerone.com/sachinrajput) | 2022-03-04 |
-| 19 | [1379656](../reports/1379656.md) | The endpoint '/test/webhooks' is vulnerable to DNS Rebinding | Medium | — | 14 | [sim4n6](https://hackerone.com/sim4n6) | 2022-03-22 |
+| 18 | [1379656](../reports/1379656.md) | The endpoint '/test/webhooks' is vulnerable to DNS Rebinding | Medium | — | 14 | [sim4n6](https://hackerone.com/sim4n6) | 2022-03-22 |
+| 19 | [1466967](../reports/1466967.md) | Brute force attack of current password on  login page by byp | Medium | — | 14 | [sachinrajput](https://hackerone.com/sachinrajput) | 2022-03-04 |
 | 20 | [3119034](../reports/3119034.md) | Facebook Username Takeover via Broken Link in Footer | Low | — | 108 | [vulnerability_is_here](https://hackerone.com/vulnerability_is_here) | 2025-05-30 |
 | 21 | [666722](../reports/666722.md) | Email enumeration at SignUp page | Low | — | 61 | [sheerwood](https://hackerone.com/sheerwood) | 2019-09-04 |
 | 22 | [634488](../reports/634488.md) | Broken Authentication and Session Management Flaw After Chan | Low | — | 44 | [root_geek280](https://hackerone.com/root_geek280) | 2020-11-08 |

@@ -20,14 +20,14 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 14 | [78253](../reports/78253.md) | Покупка=>скачка песен, которые не предназначены для продажи | None | — | 7 | [4lemon](https://hackerone.com/4lemon) | 2017-03-20 |
 | 15 | [77904](../reports/77904.md) | cross siite scripting in the blog  | None | — | 7 | [cyberboy](https://hackerone.com/cyberboy) | 2017-04-17 |
 | 16 | [78052](../reports/78052.md) | xss in group | None | — | 6 | [ashishdhaduk](https://hackerone.com/ashishdhaduk) | 2016-07-10 |
-| 17 | [78436](../reports/78436.md) | (URGENT!) Покупка OK дешевле, чем он стоит | None | — | 5 | [4lemon](https://hackerone.com/4lemon) | 2016-04-29 |
-| 18 | [137126](../reports/137126.md) | Xss in m.ok.ru | None | — | 5 | [halbess](https://hackerone.com/halbess) | 2016-10-04 |
-| 19 | [78260](../reports/78260.md) | Stored XSS в имени песни (2) на платёжном гейте. | None | — | 5 | [4lemon](https://hackerone.com/4lemon) | 2017-03-20 |
-| 20 | [102234](../reports/102234.md) | Same-Origin Policy bypass on main domain - ok.ru | None | — | 5 | [zoczus](https://hackerone.com/zoczus) | 2016-05-04 |
+| 17 | [137126](../reports/137126.md) | Xss in m.ok.ru | None | — | 5 | [halbess](https://hackerone.com/halbess) | 2016-10-04 |
+| 18 | [78260](../reports/78260.md) | Stored XSS в имени песни (2) на платёжном гейте. | None | — | 5 | [4lemon](https://hackerone.com/4lemon) | 2017-03-20 |
+| 19 | [102234](../reports/102234.md) | Same-Origin Policy bypass on main domain - ok.ru | None | — | 5 | [zoczus](https://hackerone.com/zoczus) | 2016-05-04 |
+| 20 | [78436](../reports/78436.md) | (URGENT!) Покупка OK дешевле, чем он стоит | None | — | 5 | [4lemon](https://hackerone.com/4lemon) | 2016-04-29 |
 | 21 | [102236](../reports/102236.md) | Same-Origin Policy Bypass #2  | None | — | 4 | [zoczus](https://hackerone.com/zoczus) | 2016-05-04 |
-| 22 | [78219](../reports/78219.md) | Покупка песни дешевле, чем она стоит. | None | — | 3 | [4lemon](https://hackerone.com/4lemon) | 2016-04-29 |
+| 22 | [78516](../reports/78516.md) | Доступ к чужим приватным фотографиям (3) через обложку видео | None | — | 3 | [4lemon](https://hackerone.com/4lemon) | 2016-04-29 |
 | 23 | [102376](../reports/102376.md) | Обход защиты от csrf-ок в m.ok.ru | None | — | 3 | [bohdansec](https://hackerone.com/bohdansec) | 2016-03-18 |
 | 24 | [79046](../reports/79046.md) | Доступ к чужим групповым беседам. | None | — | 3 | [4lemon](https://hackerone.com/4lemon) | 2016-04-29 |
-| 25 | [78516](../reports/78516.md) | Доступ к чужим приватным фотографиям (3) через обложку видео | None | — | 3 | [4lemon](https://hackerone.com/4lemon) | 2016-04-29 |
-| 26 | [139319](../reports/139319.md) | Missing proper error message. | None | — | 2 | [exploitraja](https://hackerone.com/exploitraja) | 2016-07-21 |
-| 27 | [77817](../reports/77817.md) | SSRF/XSPA в форме загрузки видео по URL | None | — | 2 | [alpha](https://hackerone.com/alpha) | 2016-02-17 |
+| 25 | [78219](../reports/78219.md) | Покупка песни дешевле, чем она стоит. | None | — | 3 | [4lemon](https://hackerone.com/4lemon) | 2016-04-29 |
+| 26 | [77817](../reports/77817.md) | SSRF/XSPA в форме загрузки видео по URL | None | — | 2 | [alpha](https://hackerone.com/alpha) | 2016-02-17 |
+| 27 | [139319](../reports/139319.md) | Missing proper error message. | None | — | 2 | [exploitraja](https://hackerone.com/exploitraja) | 2016-07-21 |

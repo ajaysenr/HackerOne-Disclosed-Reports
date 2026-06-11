@@ -26,8 +26,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 20 | [265528](../reports/265528.md) | Reflected XSS on the data.gov (WAF bypass+ Chrome XSS Audito | Medium — CVSS 5.0 | — | 28 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-15 |
 | 21 | [245872](../reports/245872.md) | [IDOR] The authenticated user can restart website build or v | Medium | — | 22 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-05 |
 | 22 | [245833](../reports/245833.md) | The user, who was deleted from Github Organization, still ca | Medium | — | 16 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-05 |
-| 23 | [245172](../reports/245172.md) | Double Stored Cross-Site scripting in the admin panel | Medium | — | 15 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-05 |
-| 24 | [360171](../reports/360171.md) | Multiple Bugs in api.data.gov/signup endpoint leads to send  | Medium | — | 15 | [pressihackerone](https://hackerone.com/pressihackerone) | 2018-11-13 |
+| 23 | [360171](../reports/360171.md) | Multiple Bugs in api.data.gov/signup endpoint leads to send  | Medium | — | 15 | [pressihackerone](https://hackerone.com/pressihackerone) | 2018-11-13 |
+| 24 | [245172](../reports/245172.md) | Double Stored Cross-Site scripting in the admin panel | Medium | — | 15 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-05 |
 | 25 | [318068](../reports/318068.md) | SSH server compatible with several vulnerable cryptographic  | Medium | — | 14 | [northivanastan](https://hackerone.com/northivanastan) | 2018-03-02 |
 | 26 | [264090](../reports/264090.md) | 2FA bypass - confirmation tokens don't expire | Medium — CVSS 4.8 | — | 10 | [muskecan](https://hackerone.com/muskecan) | 2017-11-17 |
 | 27 | [673384](../reports/673384.md) | xmlrpc.php file enabled - data.gov | Medium | — | 10 | [zddw](https://hackerone.com/zddw) | 2019-08-19 |
@@ -37,8 +37,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 31 | [262649](../reports/262649.md) | Information disclosure (system username) in the x-amz-meta-s | Low | — | 23 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-16 |
 | 32 | [374907](../reports/374907.md) | Root user disclosure in data.gov domain though x-amz-meta-s3 | Low | — | 22 | [sneakerz](https://hackerone.com/sneakerz) | 2019-07-29 |
 | 33 | [515574](../reports/515574.md) | Unclaimed Github Repository Takeover on https://www.data.gov | Low | — | 19 | [noobzombie](https://hackerone.com/noobzombie) | 2019-07-29 |
-| 34 | [317005](../reports/317005.md) | Subdomain Takeover due to unclaimed domain pointing to AWS | Low | — | 17 | [zephrfish](https://hackerone.com/zephrfish) | 2019-08-26 |
-| 35 | [249319](../reports/249319.md) | Race condition on the Federalist API endpoints can lead to t | Low | — | 17 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-05 |
+| 34 | [249319](../reports/249319.md) | Race condition on the Federalist API endpoints can lead to t | Low | — | 17 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-05 |
+| 35 | [317005](../reports/317005.md) | Subdomain Takeover due to unclaimed domain pointing to AWS | Low | — | 17 | [zephrfish](https://hackerone.com/zephrfish) | 2019-08-26 |
 | 36 | [250688](../reports/250688.md) | The Federalsit session cookie (federalist.sid) is not proper | Low | — | 16 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-05 |
 | 37 | [667032](../reports/667032.md) | Information disclosure (system username, server info) in the | Low | — | 5 | [ninja_cyber007](https://hackerone.com/ninja_cyber007) | 2019-08-06 |
 | 38 | [263913](../reports/263913.md) | Content injection via URL parameter. | None | — | 9 | [johnh4x0r](https://hackerone.com/johnh4x0r) | 2020-02-08 |

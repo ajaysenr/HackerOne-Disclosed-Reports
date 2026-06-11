@@ -27,12 +27,12 @@
 | 21 | [1883806](../reports/1883806.md) | Complete Admin account takeover due to PhpDebugBar turned on in U | [Uber](../by-program/uber.md) | Medium | — | 89 |
 | 22 | [2269867](../reports/2269867.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 79 |
 | 23 | [2641211](../reports/2641211.md) | phpinfo() exposed on ██████████ | [Mars](../by-program/mars.md) | Medium — CVSS 4.6 | — | 50 |
-| 24 | [2357443](../reports/2357443.md) | RC Between GitHub's Repo Update REST API and updateTeamsRepositor | [GitHub](../by-program/github.md) | Medium | — | 49 |
-| 25 | [2545012](../reports/2545012.md) | Subdomain takeover on one of the subdomains under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 49 |
+| 24 | [2545012](../reports/2545012.md) | Subdomain takeover on one of the subdomains under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 49 |
+| 25 | [2357443](../reports/2357443.md) | RC Between GitHub's Repo Update REST API and updateTeamsRepositor | [GitHub](../by-program/github.md) | Medium | — | 49 |
 | 26 | [2286867](../reports/2286867.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 44 |
 | 27 | [2287098](../reports/2287098.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 40 |
-| 28 | [2262939](../reports/2262939.md) | Misconfiguration in AWS CloudFront CDN configuration makes rubyge | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 37 |
-| 29 | [2285286](../reports/2285286.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 37 |
+| 28 | [2285286](../reports/2285286.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 37 |
+| 29 | [2262939](../reports/2262939.md) | Misconfiguration in AWS CloudFront CDN configuration makes rubyge | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 37 |
 | 30 | [2398630](../reports/2398630.md) | Subdomain takeover on one of the subdomains under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 34 |
 | 31 | [1085743](../reports/1085743.md) | No error thrown when IDOR attempted while editing address | [OpenMage](../by-program/openmage.md) | Medium | — | 33 |
 | 32 | [2017323](../reports/2017323.md) | Subdomain takeover on one of the subdomain under mozilla.org | [Mozilla](../by-program/mozilla.md) | Medium | — | 31 |

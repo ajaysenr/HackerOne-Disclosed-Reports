@@ -37,8 +37,8 @@
 | 31 | [2286764](../reports/2286764.md) | Avatar URL is exposed in patron export for secret donations | [Liberapay](../by-program/liberapay.md) | Medium — CVSS 4.3 | — | 47 |
 | 32 | [1245741](../reports/1245741.md) | Friend Request Flow Exposes User Data  | [Zenly](../by-program/zenly.md) | Medium — CVSS 5.3 | — | 19 |
 | 33 | [1706248](../reports/1706248.md) | Guests can continue to receive video streams from call after bein | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.6 | — | 15 |
-| 34 | [1091957](../reports/1091957.md) | Very long names on demo.openmage.org could redirect victim users  | [OpenMage](../by-program/openmage.md) | Medium | — | 14 |
-| 35 | [508490](../reports/508490.md) | Nextcloud domain and name of every user leaked to lookup server | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.8 | — | 14 |
+| 34 | [508490](../reports/508490.md) | Nextcloud domain and name of every user leaked to lookup server | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.8 | — | 14 |
+| 35 | [1091957](../reports/1091957.md) | Very long names on demo.openmage.org could redirect victim users  | [OpenMage](../by-program/openmage.md) | Medium | — | 14 |
 | 36 | [304770](../reports/304770.md) | Corrupt RPC responses from remote daemon nodes can lead to transa | [Monero](../by-program/monero.md) | Medium | — | 13 |
 | 37 | [985124](../reports/985124.md) | GraphQL Query leads to sensitive information disclosure | [GitLab](../by-program/gitlab.md) | Medium | — | 12 |
 | 38 | [1484168](../reports/1484168.md) | De-anonymize anonymous tips through the Tumblr blog network | [Automattic](../by-program/automattic.md) | Medium | — | 6 |
@@ -54,8 +54,8 @@
 | 48 | [230608](../reports/230608.md) | [marketplace.informatica.com] User email disclosure | [Informatica](../by-program/informatica.md) | Low | — | 11 |
 | 49 | [270695](../reports/270695.md) | [marketplace.informatica.com] - Sensitive Data Exposure  | [Informatica](../by-program/informatica.md) | Low | — | 10 |
 | 50 | [813421](../reports/813421.md) | Account deletion requests not entirely honoured. Misinformation e | [Nord Security](../by-program/nordsecurity.md) | Low | — | 8 |
-| 51 | [391385](../reports/391385.md) | Unauthorized Use of Victim Credit Card | [Yelp](../by-program/yelp.md) | Low — CVSS 3.5 | — | 6 |
-| 52 | [361269](../reports/361269.md) | Trusted daemon check fails when proxied through torsocks or proxy | [Monero](../by-program/monero.md) | Low | — | 6 |
+| 51 | [361269](../reports/361269.md) | Trusted daemon check fails when proxied through torsocks or proxy | [Monero](../by-program/monero.md) | Low | — | 6 |
+| 52 | [391385](../reports/391385.md) | Unauthorized Use of Victim Credit Card | [Yelp](../by-program/yelp.md) | Low — CVSS 3.5 | — | 6 |
 | 53 | [313075](../reports/313075.md) | Information Disclosure which violate program privacy | [HackerOne](../by-program/security.md) | Low | — | 5 |
 | 54 | [1596918](../reports/1596918.md) | Brute force protections don't work | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.7 | — | 4 |
 | 55 | [791674](../reports/791674.md) | Expired Available Domains in nordvpn.com website code | [Nord Security](../by-program/nordsecurity.md) | None | — | 29 |

@@ -90,8 +90,8 @@
 | 84 | [953219](../reports/953219.md) | SMTP interaction theft via MITM | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Collaborator | Medium | — | 78 |
 | 85 | [2230842](../reports/2230842.md) | Title: Deceptive Manipulation of HTTP to HTTPS with VPN | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Medium | — | 71 |
 | 86 | [716448](../reports/716448.md) | Unquoted Service Path in "Rockstar Game Library Service | [Rockstar Games](../by-program/rockstargames.md) | Rockstar Games Launcher | Medium — CVSS 6.7 | — | 60 |
-| 87 | [440963](../reports/440963.md) | Privilege Escalation by abusing non-existent path. (Win | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Medium — CVSS 6.3 | — | 59 |
-| 88 | [745447](../reports/745447.md) | Steam chat - trade offer presentation vulnerability | [Valve](../by-program/valve.md) | *.exe | Medium — CVSS 6.3 | — | 59 |
+| 87 | [745447](../reports/745447.md) | Steam chat - trade offer presentation vulnerability | [Valve](../by-program/valve.md) | *.exe | Medium — CVSS 6.3 | — | 59 |
+| 88 | [440963](../reports/440963.md) | Privilege Escalation by abusing non-existent path. (Win | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Medium — CVSS 6.3 | — | 59 |
 | 89 | [1300585](../reports/1300585.md) | blind Server-Side Request Forgery (SSRF)  allows scanni | [Elastic](../by-program/elastic.md) | Fleet Server | Medium — CVSS 6.7 | — | 52 |
 | 90 | [679907](../reports/679907.md) | Malformed string sent through FireServer leads to serve | [Roblox](../by-program/roblox.md) | Roblox Client | Medium | — | 44 |
 | 91 | [767647](../reports/767647.md) | Vulnerabilities chain leading to privilege escalation | [Nord Security](../by-program/nordsecurity.md) | NordVPN - MacOS Executable | Medium | — | 42 |
@@ -102,16 +102,16 @@
 | 96 | [780167](../reports/780167.md) | Hidden scheduled partner events are propagated to Steam | [Valve](../by-program/valve.md) | steam.exe | Medium | — | 31 |
 | 97 | [2433634](../reports/2433634.md) | XSS in GOCD Analytics Plugin | [GoCD](../by-program/gocd.md) | GoCD (https://www.gocd.org/download) | Medium — CVSS 4.3 | — | 28 |
 | 98 | [2597504](../reports/2597504.md) | X-E2EE-SIGNATURE verification can be bypassed, leading  | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 4.2 | — | 27 |
-| 99 | [604945](../reports/604945.md) | Tor IP leak caused by the PDF Viewer extension in certa | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | Medium | — | 25 |
-| 100 | [1741430](../reports/1741430.md) | CSRF vulnerability in Nextcloud Desktop Client 3.6.1 on | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 5.3 | — | 25 |
-| 101 | [959608](../reports/959608.md) | Local Privilege Escalation via DLL Search-Order Hijacki | [Acronis](../by-program/acronis.md) | Acronis Agent | Medium — CVSS 6.3 | — | 25 |
+| 99 | [1741430](../reports/1741430.md) | CSRF vulnerability in Nextcloud Desktop Client 3.6.1 on | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 5.3 | — | 25 |
+| 100 | [959608](../reports/959608.md) | Local Privilege Escalation via DLL Search-Order Hijacki | [Acronis](../by-program/acronis.md) | Acronis Agent | Medium — CVSS 6.3 | — | 25 |
+| 101 | [604945](../reports/604945.md) | Tor IP leak caused by the PDF Viewer extension in certa | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | Medium | — | 25 |
 | 102 | [1940788](../reports/1940788.md) | Stored XSS in plan name field (Acronis Cyber Protect) | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect | Medium — CVSS 5.5 | — | 22 |
 | 103 | [852091](../reports/852091.md) | Privilege Escalation vulnerability in steam's Remote Pl | [Valve](../by-program/valve.md) | steam.exe | Medium — CVSS 4.7 | — | 22 |
 | 104 | [1874155](../reports/1874155.md) | Biometric key is stored in Windows Credential Manager,  | [Bitwarden](../by-program/bitwarden.md) | https://github.com/bitwarden/desktop/rel | Medium — CVSS 6.2 | — | 19 |
 | 105 | [768110](../reports/768110.md) | Race condition (TOCTOU) in NordVPN can result in local  | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Windows Executable | Medium — CVSS 4.5 | — | 18 |
-| 106 | [685552](../reports/685552.md) | XSS in desktop client via invalid server address on log | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 4.7 | — | 17 |
-| 107 | [858608](../reports/858608.md) | anti_ransomware_service.exe REST API does not require a | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Medium — CVSS 5.4 | — | 17 |
-| 108 | [518837](../reports/518837.md) | DLL Hijacking in Burp Suite Pro 2.0.19 Installer | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Medium | — | 17 |
+| 106 | [858608](../reports/858608.md) | anti_ransomware_service.exe REST API does not require a | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Medium — CVSS 5.4 | — | 17 |
+| 107 | [518837](../reports/518837.md) | DLL Hijacking in Burp Suite Pro 2.0.19 Installer | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Medium | — | 17 |
+| 108 | [685552](../reports/685552.md) | XSS in desktop client via invalid server address on log | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 4.7 | — | 17 |
 | 109 | [975514](../reports/975514.md) | Arbitrary file download due to bad handling of Redirect | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | Medium | — | 15 |
 | 110 | [959815](../reports/959815.md) | Arbitrary Files and Folders Deletion vulnerability with | [Acronis](../by-program/acronis.md) | Acronis Agent | Medium | — | 14 |
 | 111 | [968328](../reports/968328.md) | Redirecting users to malicious torrent-files/websites u | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | Medium | — | 13 |

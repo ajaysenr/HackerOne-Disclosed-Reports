@@ -11,10 +11,10 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 5 | [143064](../reports/143064.md) | Information Disclosure | None | — | 11 | [mugeesahmed](https://hackerone.com/mugeesahmed) | 2016-07-31 |
 | 6 | [59505](../reports/59505.md) | Create and Update patients vulnerability | None | — | 11 | [cliantech](https://hackerone.com/cliantech) | 2017-03-10 |
 | 7 | [141541](../reports/141541.md) | User with no permissions can access full wdcalendar feed | None | — | 8 | [yaworsk](https://hackerone.com/yaworsk) | 2016-11-25 |
-| 8 | [141344](../reports/141344.md) | [CRITICAL]  CSRF  leading to account take over  | None | — | 7 | [sysecure](https://hackerone.com/sysecure) | 2016-06-14 |
-| 9 | [141065](../reports/141065.md) | Security Issue : CSRF Token Design Flaw | None | — | 7 | [ghumman](https://hackerone.com/ghumman) | 2016-07-30 |
-| 10 | [59508](../reports/59508.md) | Accessing all appointments vulnerability | None | — | 6 | [cliantech](https://hackerone.com/cliantech) | 2016-07-21 |
-| 11 | [142101](../reports/142101.md) | User with no permissions can create, edit, delete favorite p | None | — | 6 | [yaworsk](https://hackerone.com/yaworsk) | 2016-11-25 |
+| 8 | [141065](../reports/141065.md) | Security Issue : CSRF Token Design Flaw | None | — | 7 | [ghumman](https://hackerone.com/ghumman) | 2016-07-30 |
+| 9 | [141344](../reports/141344.md) | [CRITICAL]  CSRF  leading to account take over  | None | — | 7 | [sysecure](https://hackerone.com/sysecure) | 2016-06-14 |
+| 10 | [142101](../reports/142101.md) | User with no permissions can create, edit, delete favorite p | None | — | 6 | [yaworsk](https://hackerone.com/yaworsk) | 2016-11-25 |
+| 11 | [59508](../reports/59508.md) | Accessing all appointments vulnerability | None | — | 6 | [cliantech](https://hackerone.com/cliantech) | 2016-07-21 |
 | 12 | [141125](../reports/141125.md) | Ngnix Server version disclosure | None | — | 5 | [ahsan](https://hackerone.com/ahsan) | 2016-06-13 |
 | 13 | [141198](../reports/141198.md) | Template stored XSS | None | — | 5 | [s_p_q_r](https://hackerone.com/s_p_q_r) | 2016-07-21 |
 | 14 | [99647](../reports/99647.md) | CSRF  Add Album On  onpatient.com  | None | — | 4 | [hussain_0x3c](https://hackerone.com/hussain_0x3c) | 2016-08-31 |
