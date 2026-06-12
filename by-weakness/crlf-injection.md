@@ -1,4 +1,4 @@
-# Weakness: CRLF Injection (35 reports)
+# Weakness: CRLF Injection (36 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -39,3 +39,4 @@
 | 33 | [2831558](../reports/2831558.md) | netrc crlf injection | [curl](../by-program/curl.md) | None | — | 6 |
 | 34 | [2861797](../reports/2861797.md) | curl mishandles `%0c%0b` sequences in HTTP responses leading to C | [curl](../by-program/curl.md) | None | — | 5 |
 | 35 | [3651975](../reports/3651975.md) | SMTP Command Injection via CRLF in libcurl MAIL_FROM / MAIL_RCPT  | [curl](../by-program/curl.md) | None | — | 4 |
+| 36 | [3741744](../reports/3741744.md) | CRLF Injection via Custom HTTP Headers | [curl](../by-program/curl.md) | None | — | 2 |

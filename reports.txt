@@ -9294,7 +9294,9 @@ https://hackerone.com/reports/3370430 | Users can change project visibility whic
 https://hackerone.com/reports/3376598 | Sensitive information exposed at [███] via /export_panelists_to_xlsx endpoint
 https://hackerone.com/reports/3378540 | Lack of Validation in Reward Redemption Allows Unlimited Burp Suite License Abuse
 https://hackerone.com/reports/3382343 | BOLA/IDOR in Out-of-Office API allows any authenticated user to read other users' absence data
+https://hackerone.com/reports/3383079 | SSRF via Improper Redirect Validation in Rocket.Chat oEmbed Function
 https://hackerone.com/reports/3390084 | fs.futimes() Bypasses Read-Only Permission Model
+https://hackerone.com/reports/3393664 | SSRF via improper validation after DNS name resolution in the link-preview feature
 https://hackerone.com/reports/3399016 | Improper input validation On Exported deep-link handler crashes `FileDisplayActivity` on crafted external URL — Denial-of-Service
 https://hackerone.com/reports/3400143 | Credential Disclosure via Unvalidated directDownloadUrl (Missing DontAddCredentialsAttribute)
 https://hackerone.com/reports/3405778 | Timeout-based race conditions make Uint8Array/Buffer.alloc non-zerofilled
@@ -9370,6 +9372,7 @@ https://hackerone.com/reports/3556769 | Incomplete fix for CVE-2026-21637: loadS
 https://hackerone.com/reports/3556892 | HTML Injection in DAST Trial Request Form Confirmation Email – PortSwigger
 https://hackerone.com/reports/3557138 | Arbitrary Code Execution via Scanner Bypass in **aws-diagram-mcp-server** `exec()` Namespace
 https://hackerone.com/reports/3558277 | Fail-Open in set_tlsext_servername_callback on pyopenssl via unhandled exceptions leads to security bypass
+https://hackerone.com/reports/3558713 | Command Injection via Unsanitized Bundling Options in `aws-cdk-lib/aws-lambda-nodejs`
 https://hackerone.com/reports/3559715 | Node.js Permission Model bypass: UDS server bind/listen works without `--allow-net`
 https://hackerone.com/reports/3560256 | Cross-repository IDOR in `/settings/security_analysis/bypass_reviewers` allows unauthorized delegated bypass reviewer modification
 https://hackerone.com/reports/3560402 | Denial of Service via `__proto__` header name in `req.headersDistinct` (Uncaught `TypeError` crashes Node.js process)
@@ -9416,6 +9419,8 @@ https://hackerone.com/reports/3609505 | HSTS accepted from HTTP origin behind HT
 https://hackerone.com/reports/3611825 | Bearer Token Leaked to Attacker via .netrc Despite CVE-2026-3783 Fix
 https://hackerone.com/reports/3612891 | Exposed .git/config File Leading to Potential Sensitive Information Disclosure
 https://hackerone.com/reports/3617719 | Function `do_pubkey()` can have out-of-bound read issue
+https://hackerone.com/reports/3619287 | RCE + Supply Chain Attack via pull_request_target in content-scope-scripts/semver-label.yml — Affects All DuckDuckGo Browsers
+https://hackerone.com/reports/3619288 | RCE + PAT Exfiltration via pull_request_target in privacy-configuration/auto-respond-pr.yml — Direct Supply Chain to All DDG Browsers
 https://hackerone.com/reports/3620748 | V1Plugin.Decrypt panics on empty ciphertext (Remote DoS)
 https://hackerone.com/reports/3620753 | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS)
 https://hackerone.com/reports/3620760 | Encryption context keys and values logged at INFO level
@@ -9509,8 +9514,10 @@ https://hackerone.com/reports/3735238 | cookie: case-insensitive path comparison
 https://hackerone.com/reports/3735276 | TLS peer-verification bypass via mid-transfer ssl_config mutation
 https://hackerone.com/reports/3736234 | NULL pointer dereference in libcurl URL API redirect_url() with CURLU_DEFAULT_SCHEME
 https://hackerone.com/reports/3736889 | NULL pointer dereference in node:sqlite DatabaseSync#applyChangeset() via malformed SQLite changeset
+https://hackerone.com/reports/3738654 | Firecracker Out-of-bounds Read/Write Local Privilege Escalation Vulnerability
 https://hackerone.com/reports/3739561 | SSL session-cache peer key omits signature_algorithms: strict-sigalg handle silently resumes a permissive sibling's session
 https://hackerone.com/reports/3741135 | Connection reuse ignores haproxyprotocol and HAPROXY_CLIENT_IP settings, allowing PROXY context to persist across transfers
+https://hackerone.com/reports/3741744 | CRLF Injection via Custom HTTP Headers
 https://hackerone.com/reports/3744200 | PHP code injection via unexpected delivery limitation parameter
 https://hackerone.com/reports/3747959 | curl --skip-existing has a TOCTOU race that lets a post-check symlink redirect the later download write
 https://hackerone.com/reports/3749428 | curl cross-origin HTTPS redirect reuses TLS client certificate for unintended second-origin mTLS authentication
@@ -9527,6 +9534,7 @@ https://hackerone.com/reports/3767963 | Proxy CONNECT response poisoning via aut
 https://hackerone.com/reports/3769293 | Low priority HSTS bypass in curl_easy_duphandle()
 https://hackerone.com/reports/3770979 | SMTP connection reuse ignores --ssl-reqd / CURLOPT_USE_SSL and reuses a clear-text STARTTLS session on current master
 https://hackerone.com/reports/3773293 | curl/libcurl 8.20.0 NOPROXY bypass via uppercase-hex IPv4 aliases leaks off-proxy Basic credentials to the configured proxy
+https://hackerone.com/reports/3774279 | heap-use-after-free in state.referer when CURLOPT_REFERER replaced or cleared after perform
 https://hackerone.com/reports/3774977 | libcurl 8.20.0 ignores HTTP Digest domain protection space and preemptively leaks Digest auth outside the declared scope
 https://hackerone.com/reports/3775183 | Incomplete fix for CVE-2022-35406: meta-redirect content-type check bypassable via parameter injection
 https://hackerone.com/reports/3776433 | TFTP upload ignores --continue-at / CURLOPT_RESUME_FROM and leaks skipped local file prefix
