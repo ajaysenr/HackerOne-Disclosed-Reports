@@ -7963,6 +7963,8 @@ https://hackerone.com/reports/1634165 | Mass account takeover!
 https://hackerone.com/reports/1635321 | Fix : (Security) Mitigate Path Traversal Bug
 https://hackerone.com/reports/1635748 | Ability to bypass locked Cloudflare WARP on wifi networks.
 https://hackerone.com/reports/1635854 | Remote denial of service in HyperLedger Fabric
+https://hackerone.com/reports/1636320 | Lack of Packet Sanitation in Goflow Results in Multiple DoS Attack Vectors and Bugs
+https://hackerone.com/reports/1636345 | Reflected cross site scripting in https://███████
 https://hackerone.com/reports/1636382 | Synthetics Recorder: Code injection when recording website with malicious content
 https://hackerone.com/reports/1636566 | Node.js - DLL Hijacking on Windows
 https://hackerone.com/reports/1637621 | Command injection in GitHub Actions ContainerStepHost
