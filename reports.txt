@@ -7966,7 +7966,7 @@ https://hackerone.com/reports/1635854 | Remote denial of service in HyperLedger 
 https://hackerone.com/reports/1636320 | Lack of Packet Sanitation in Goflow Results in Multiple DoS Attack Vectors and Bugs
 https://hackerone.com/reports/1636345 | Reflected cross site scripting in https://███████
 https://hackerone.com/reports/1636382 | Synthetics Recorder: Code injection when recording website with malicious content
-https://hackerone.com/reports/1636552 | Email Verification Bypass Allows Users to Add & verify Any Email  As Guardians Email 
+https://hackerone.com/reports/1636552 | Email Verification Bypass Allows Users to Add & verify Any Email  As Guardians Email
 https://hackerone.com/reports/1636566 | Node.js - DLL Hijacking on Windows
 https://hackerone.com/reports/1637621 | Command injection in GitHub Actions ContainerStepHost
 https://hackerone.com/reports/1637761 | CSRF in Importing CSV files [app.taxjar.com]
@@ -9544,6 +9544,7 @@ https://hackerone.com/reports/3776433 | TFTP upload ignores --continue-at / CURL
 https://hackerone.com/reports/3776535 | RTSP Digest auth state leaks across origins on reused libcurl easy handle
 https://hackerone.com/reports/3777381 | PRE_PROXY change leaks stale Proxy Digest state across proxy-chain boundary
 https://hackerone.com/reports/3780733 | DNS domain search list followed for extant domain missing A or AAAA records
+https://hackerone.com/reports/3781015 | Incomplete Fix for CVE-2026-21637: OCSPRequest and resumeSession Events Crash Node.js TLS Server via Unhandled Synchronous Exceptions
 https://hackerone.com/reports/3781305 | OpenSSL TLS 1.2 session resumption accepts expired server certificates in libcurl
 https://hackerone.com/reports/3784125 | GnuTLS OCSP stapling accepts unrelated SingleResponse (no cert-ID binding)
 https://hackerone.com/reports/3785919 | libcurl: HTTP/1.x bare LF byte in response header value enables cookie jar pollution and POST body/credential exfiltration via redirect — RC=0, curl 8
