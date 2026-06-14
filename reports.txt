@@ -9554,3 +9554,4 @@ https://hackerone.com/reports/3786077 | SOCKS5 no-auth accepted despite username
 https://hackerone.com/reports/3788506 | SSH/SFTP connection reuse can bypass SSH key identity after ssh_config_matches removal
 https://hackerone.com/reports/3791168 | curl-ipv4-percent-normalization-SSRF
 https://hackerone.com/reports/3791191 | Trailing-Dot Hostname in Redirect Silently Strips Client Certificate and Auth Credentials
+https://hackerone.com/reports/3795615 | Duplicate chunked Transfer-Encoding lets a malicious origin smuggle a response across reused HTTP proxy connections
