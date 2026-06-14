@@ -7968,6 +7968,8 @@ https://hackerone.com/reports/1636345 | Reflected cross site scripting in https:
 https://hackerone.com/reports/1636382 | Synthetics Recorder: Code injection when recording website with malicious content
 https://hackerone.com/reports/1636552 | Email Verification Bypass Allows Users to Add & verify Any Email  As Guardians Email
 https://hackerone.com/reports/1636566 | Node.js - DLL Hijacking on Windows
+https://hackerone.com/reports/1637571 | Open Redirect ███.8x8.com
+https://hackerone.com/reports/1637577 | Found Origin IP's lead to access to gitlab
 https://hackerone.com/reports/1637621 | Command injection in GitHub Actions ContainerStepHost
 https://hackerone.com/reports/1637761 | CSRF in Importing CSV files [app.taxjar.com]
 https://hackerone.com/reports/1638984 | fix(cmd-socketio-server): mitigate cross site scripting attack #2068
