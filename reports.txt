@@ -9496,6 +9496,7 @@ https://hackerone.com/reports/3702718 | MQTT state machine confusion: PINGRESP/D
 https://hackerone.com/reports/3707747 | libcurl 8.20.0 incomplete fix for CVE-2026-7168: changing only CURLOPT_PROXYPORT leaks stale Proxy Digest auth to a different proxy
 https://hackerone.com/reports/3708482 | wcurl treats some URL operands after -- as curl options
 https://hackerone.com/reports/3710209 | Potential Resource Leak in tool_parsecfg.c at line 279 during fileerror
+https://hackerone.com/reports/3712279 | Burp Suite Professional: browser-powered crawl can write attacker-controlled files through file input handling
 https://hackerone.com/reports/3712343 | MQTT CONNACK Packet Type Bypass leads to RCE via Malicious Broker
 https://hackerone.com/reports/3713682 | IDOR: autotranslate.translateMessage Full Message Content Leak
 https://hackerone.com/reports/3717365 | mbedTLS private-key blob null-termination asymmetry in lib/vtls/mbedtls.c (mbed_load_privkey)

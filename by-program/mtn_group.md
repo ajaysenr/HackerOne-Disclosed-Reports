@@ -1,4 +1,4 @@
-# MTN Group — Disclosed Reports (73 total)
+# MTN Group — Disclosed Reports (74 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -49,31 +49,32 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 43 | [853284](../reports/853284.md) | Disclosure of internal information using hidden NTLM authent | High — CVSS 7.5 | — | 12 | [z3lox](https://hackerone.com/z3lox) | 2021-08-04 |
 | 44 | [1646248](../reports/1646248.md) | Reflected xss on videostore.mtnonline.com | High — CVSS 8.8 | — | 10 | [possowski](https://hackerone.com/possowski) | 2022-09-25 |
 | 45 | [838817](../reports/838817.md) | Insecure crossdomain.xml on https://vdc.mtnonline.com/ | High | — | 7 | [xlife](https://hackerone.com/xlife) | 2022-03-20 |
-| 46 | [2319586](../reports/2319586.md) | Broken Access Control(Horizontal Privilege Escalation). | Medium — CVSS 6.5 | — | 67 | [aliyueka](https://hackerone.com/aliyueka) | 2025-01-31 |
-| 47 | [2322663](../reports/2322663.md) | Insecure direct Object Reference(Horizontal Escalation) | Medium — CVSS 6.5 | — | 59 | [aliyueka](https://hackerone.com/aliyueka) | 2025-01-31 |
-| 48 | [2765259](../reports/2765259.md) | Information disclosure due to debug mode enabled at Laravel  | Medium — CVSS 5.3 | — | 58 | [odaysec](https://hackerone.com/odaysec) | 2025-02-23 |
-| 49 | [2764952](../reports/2764952.md) | Unauthenticated phpinfo()files could lead to ability file re | Medium | — | 43 | [odaysec](https://hackerone.com/odaysec) | 2024-11-15 |
-| 50 | [1183336](../reports/1183336.md) | Cross-site Scripting (XSS) - Reflected | Medium | — | 34 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2022-10-30 |
-| 51 | [2610478](../reports/2610478.md) | Unauthenticated phpinfo()files could lead to ability file re | Medium | — | 32 | [odaysec](https://hackerone.com/odaysec) | 2025-02-20 |
-| 52 | [1183241](../reports/1183241.md) | Cross-Site Request Forgery (CSRF) to xss | Medium | — | 25 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2022-10-30 |
-| 53 | [1091165](../reports/1091165.md) | RXSS - http://macademy.mtnonline.com | Medium | — | 23 | [0xelkomy](https://hackerone.com/0xelkomy) | 2021-12-11 |
-| 54 | [1182016](../reports/1182016.md) | Email verification bypassed during sing up (████████) | Medium | — | 20 | [ibrahimatix0x01](https://hackerone.com/ibrahimatix0x01) | 2021-08-19 |
-| 55 | [1212235](../reports/1212235.md) | Reflected XSS on dailydeals.mtn.co.za | Medium | — | 19 | [musab_alharany](https://hackerone.com/musab_alharany) | 2021-12-24 |
-| 56 | [772744](../reports/772744.md) | Unsafe cors sharing of admin users  | Medium | — | 17 | [pwrspl0it](https://hackerone.com/pwrspl0it) | 2020-04-30 |
-| 57 | [1256496](../reports/1256496.md) | HTML injection in email content during registration via Firs | Medium | — | 16 | [ibrahimatix0x01](https://hackerone.com/ibrahimatix0x01) | 2021-12-18 |
-| 58 | [924851](../reports/924851.md) | xss on [developers.mtn.com] | Medium | — | 16 | [pisarenko](https://hackerone.com/pisarenko) | 2022-04-19 |
-| 59 | [1069528](../reports/1069528.md) | Reflected XSS on gamesclub.mtn.com.g | Medium | — | 15 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2021-05-24 |
-| 60 | [789388](../reports/789388.md) | Accessible Restricted directory on [bcm-bcaw.mtn.cm] | Medium — CVSS 5.3 | — | 15 | [tounsi_007](https://hackerone.com/tounsi_007) | 2020-07-15 |
-| 61 | [761617](../reports/761617.md) | Information Disclosure FrontPage Configuration Information / | Medium | — | 13 | [miguel_santareno](https://hackerone.com/miguel_santareno) | 2020-04-03 |
-| 62 | [1159362](../reports/1159362.md) | Cross-site Scripting (XSS) - Reflected on http://h1b4e.n2.ip | Medium | — | 12 | [renzi](https://hackerone.com/renzi) | 2024-08-24 |
-| 63 | [1735622](../reports/1735622.md) | Reflected XSS in chatbot | Medium — CVSS 5.5 | — | 9 | [roland_hack](https://hackerone.com/roland_hack) | 2022-11-19 |
-| 64 | [1244722](../reports/1244722.md) | XSS at http://nextapps.mtnonline.com/search/suggest/q/{xss p | Medium | — | 9 | [homosec](https://hackerone.com/homosec) | 2022-05-01 |
-| 65 | [801437](../reports/801437.md) | Exposed .bash_history at http://21days2017.mtncameroon.net/. | Medium | — | 8 | [xlife](https://hackerone.com/xlife) | 2022-03-20 |
-| 66 | [762118](../reports/762118.md) | Upload directory of Mtn.ci | Medium — CVSS 5.3 | — | 7 | [juni19](https://hackerone.com/juni19) | 2020-02-05 |
-| 67 | [925007](../reports/925007.md) | blind sql on [selfcare.mtn.com.af] | Medium | — | 5 | [pisarenko](https://hackerone.com/pisarenko) | 2021-09-09 |
-| 68 | [1165223](../reports/1165223.md) | Missing captcha and rate limit protection in help form  | Medium | — | 3 | [aliyugombe](https://hackerone.com/aliyugombe) | 2021-12-11 |
-| 69 | [761573](../reports/761573.md) | Cross-Site Scripting through search form on mtnplay.co.zm | Low | — | 40 | [cristiancornea](https://hackerone.com/cristiancornea) | 2021-06-08 |
-| 70 | [2682974](../reports/2682974.md) | Social media account takeover  | Low — CVSS 3.7 | — | 37 | [haythem02](https://hackerone.com/haythem02) | 2024-11-03 |
-| 71 | [1408589](../reports/1408589.md) | Wordpress users disclosure from json and xml file | Low — CVSS 3.7 | — | 6 | [drak3hft7](https://hackerone.com/drak3hft7) | 2022-09-02 |
-| 72 | [1305766](../reports/1305766.md) | There is no rate limit for SME REGISTRATION PORTAL | None | — | 14 | [sachinrajput](https://hackerone.com/sachinrajput) | 2022-09-19 |
-| 73 | [1058135](../reports/1058135.md) | Developer Mistake | None | — | 11 | [coyemerald](https://hackerone.com/coyemerald) | 2022-12-25 |
+| 46 | [1638347](../reports/1638347.md) | String length restriction byepass at https://callerfeel.mtno | High | — | 6 | [aliyugombe](https://hackerone.com/aliyugombe) | 2022-09-07 |
+| 47 | [2319586](../reports/2319586.md) | Broken Access Control(Horizontal Privilege Escalation). | Medium — CVSS 6.5 | — | 67 | [aliyueka](https://hackerone.com/aliyueka) | 2025-01-31 |
+| 48 | [2322663](../reports/2322663.md) | Insecure direct Object Reference(Horizontal Escalation) | Medium — CVSS 6.5 | — | 59 | [aliyueka](https://hackerone.com/aliyueka) | 2025-01-31 |
+| 49 | [2765259](../reports/2765259.md) | Information disclosure due to debug mode enabled at Laravel  | Medium — CVSS 5.3 | — | 58 | [odaysec](https://hackerone.com/odaysec) | 2025-02-23 |
+| 50 | [2764952](../reports/2764952.md) | Unauthenticated phpinfo()files could lead to ability file re | Medium | — | 43 | [odaysec](https://hackerone.com/odaysec) | 2024-11-15 |
+| 51 | [1183336](../reports/1183336.md) | Cross-site Scripting (XSS) - Reflected | Medium | — | 34 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2022-10-30 |
+| 52 | [2610478](../reports/2610478.md) | Unauthenticated phpinfo()files could lead to ability file re | Medium | — | 32 | [odaysec](https://hackerone.com/odaysec) | 2025-02-20 |
+| 53 | [1183241](../reports/1183241.md) | Cross-Site Request Forgery (CSRF) to xss | Medium | — | 25 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2022-10-30 |
+| 54 | [1091165](../reports/1091165.md) | RXSS - http://macademy.mtnonline.com | Medium | — | 23 | [0xelkomy](https://hackerone.com/0xelkomy) | 2021-12-11 |
+| 55 | [1182016](../reports/1182016.md) | Email verification bypassed during sing up (████████) | Medium | — | 20 | [ibrahimatix0x01](https://hackerone.com/ibrahimatix0x01) | 2021-08-19 |
+| 56 | [1212235](../reports/1212235.md) | Reflected XSS on dailydeals.mtn.co.za | Medium | — | 19 | [musab_alharany](https://hackerone.com/musab_alharany) | 2021-12-24 |
+| 57 | [772744](../reports/772744.md) | Unsafe cors sharing of admin users  | Medium | — | 17 | [pwrspl0it](https://hackerone.com/pwrspl0it) | 2020-04-30 |
+| 58 | [1256496](../reports/1256496.md) | HTML injection in email content during registration via Firs | Medium | — | 16 | [ibrahimatix0x01](https://hackerone.com/ibrahimatix0x01) | 2021-12-18 |
+| 59 | [924851](../reports/924851.md) | xss on [developers.mtn.com] | Medium | — | 16 | [pisarenko](https://hackerone.com/pisarenko) | 2022-04-19 |
+| 60 | [1069528](../reports/1069528.md) | Reflected XSS on gamesclub.mtn.com.g | Medium | — | 15 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2021-05-24 |
+| 61 | [789388](../reports/789388.md) | Accessible Restricted directory on [bcm-bcaw.mtn.cm] | Medium — CVSS 5.3 | — | 15 | [tounsi_007](https://hackerone.com/tounsi_007) | 2020-07-15 |
+| 62 | [761617](../reports/761617.md) | Information Disclosure FrontPage Configuration Information / | Medium | — | 13 | [miguel_santareno](https://hackerone.com/miguel_santareno) | 2020-04-03 |
+| 63 | [1159362](../reports/1159362.md) | Cross-site Scripting (XSS) - Reflected on http://h1b4e.n2.ip | Medium | — | 12 | [renzi](https://hackerone.com/renzi) | 2024-08-24 |
+| 64 | [1735622](../reports/1735622.md) | Reflected XSS in chatbot | Medium — CVSS 5.5 | — | 9 | [roland_hack](https://hackerone.com/roland_hack) | 2022-11-19 |
+| 65 | [1244722](../reports/1244722.md) | XSS at http://nextapps.mtnonline.com/search/suggest/q/{xss p | Medium | — | 9 | [homosec](https://hackerone.com/homosec) | 2022-05-01 |
+| 66 | [801437](../reports/801437.md) | Exposed .bash_history at http://21days2017.mtncameroon.net/. | Medium | — | 8 | [xlife](https://hackerone.com/xlife) | 2022-03-20 |
+| 67 | [762118](../reports/762118.md) | Upload directory of Mtn.ci | Medium — CVSS 5.3 | — | 7 | [juni19](https://hackerone.com/juni19) | 2020-02-05 |
+| 68 | [925007](../reports/925007.md) | blind sql on [selfcare.mtn.com.af] | Medium | — | 5 | [pisarenko](https://hackerone.com/pisarenko) | 2021-09-09 |
+| 69 | [1165223](../reports/1165223.md) | Missing captcha and rate limit protection in help form  | Medium | — | 3 | [aliyugombe](https://hackerone.com/aliyugombe) | 2021-12-11 |
+| 70 | [761573](../reports/761573.md) | Cross-Site Scripting through search form on mtnplay.co.zm | Low | — | 40 | [cristiancornea](https://hackerone.com/cristiancornea) | 2021-06-08 |
+| 71 | [2682974](../reports/2682974.md) | Social media account takeover  | Low — CVSS 3.7 | — | 37 | [haythem02](https://hackerone.com/haythem02) | 2024-11-03 |
+| 72 | [1408589](../reports/1408589.md) | Wordpress users disclosure from json and xml file | Low — CVSS 3.7 | — | 6 | [drak3hft7](https://hackerone.com/drak3hft7) | 2022-09-02 |
+| 73 | [1305766](../reports/1305766.md) | There is no rate limit for SME REGISTRATION PORTAL | None | — | 14 | [sachinrajput](https://hackerone.com/sachinrajput) | 2022-09-19 |
+| 74 | [1058135](../reports/1058135.md) | Developer Mistake | None | — | 11 | [coyemerald](https://hackerone.com/coyemerald) | 2022-12-25 |

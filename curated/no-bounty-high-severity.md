@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1664 total)
+# High/Critical Severity — No Bounty Paid (1665 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -1452,6 +1452,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [622864](../reports/622864.md) | https://█████████ Vulnerable to CVE-2018-0296 Cisco ASA Path Trav | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 6 |
 | [281387](../reports/281387.md) | xss | [Stellar.org](../by-program/stellar.md) | High | Informative | 6 |
 | [312907](../reports/312907.md) | [mcstatic] Path Traversal allows to read content of arbitrary fil | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | Resolved | 6 |
+| [1638347](../reports/1638347.md) | String length restriction byepass at https://callerfeel.mtnonline | [MTN Group](../by-program/mtn_group.md) | High | Resolved | 6 |
 | [1511619](../reports/1511619.md) | Read and write beyond bounds in mod_sed | [Internet Bug Bounty](../by-program/ibb.md) | High | Resolved | 6 |
 | [241244](../reports/241244.md) | Spring security configuration allows agent sessions to be hijacke | [GoCD](../by-program/gocd.md) | High | Resolved | 6 |
 | [362118](../reports/362118.md) | Arbitrary File Write Through Archive Extraction | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.2 | Resolved | 6 |
