@@ -7972,6 +7972,7 @@ https://hackerone.com/reports/1637571 | Open Redirect ███.8x8.com
 https://hackerone.com/reports/1637577 | Found Origin IP's lead to access to gitlab
 https://hackerone.com/reports/1637621 | Command injection in GitHub Actions ContainerStepHost
 https://hackerone.com/reports/1637761 | CSRF in Importing CSV files [app.taxjar.com]
+https://hackerone.com/reports/1638347 | String length restriction byepass at https://callerfeel.mtnonline.com/profile/feedback.html
 https://hackerone.com/reports/1638984 | fix(cmd-socketio-server): mitigate cross site scripting attack #2068
 https://hackerone.com/reports/1639919 | Stored XSS Via Filename On https://partners.line.me/
 https://hackerone.com/reports/1641475 | Facebook App API credentials leaked in the APK
