@@ -9466,6 +9466,7 @@ https://hackerone.com/reports/3653196 | Blind SQL injection via clientid paramet
 https://hackerone.com/reports/3653316 | Reflected XSS via clientid parameter in zone‑include.php
 https://hackerone.com/reports/3656781 | PHP code injection via delivery limitation logical
 https://hackerone.com/reports/3658049 | libcurl: Integer truncation in curl_easy_ssls_import() causes TLS sessions to never expire
+https://hackerone.com/reports/3664261 | Reflected Cross-Site Scripting (XSS) found on IBM.com domain
 https://hackerone.com/reports/3665151 | Brave Shields Domain Reordering Leads to Origin Confusion
 https://hackerone.com/reports/3665363 | Integer Overflow/Signedness Mismatch in Printf Precision for HTTP/2 Trailer Headers
 https://hackerone.com/reports/3666576 | Negotiate Authentication Premature on Connection Reuse
@@ -9489,6 +9490,7 @@ https://hackerone.com/reports/3680680 | libcurl omits IPv6 zoneid from host iden
 https://hackerone.com/reports/3682666 | Use-after-free in `curl_easy_ssls_export()` during callback re-entrancy
 https://hackerone.com/reports/3684603 | Stack exhaustion in MIME multipart reading with deeply nested subparts
 https://hackerone.com/reports/3684614 | Heap-buffer-overflow in `Curl_ssl_push_certinfo_len()` — sole bounds check is `DEBUGASSERT`
+https://hackerone.com/reports/3687142 | Unauthenticated reading of every file via livechat auth and predicting MongoDB ObjectId()
 https://hackerone.com/reports/3693295 | iOS Brave Playlist "Open in Private Tab" bypasses FaceID requirement for Private Tabs
 https://hackerone.com/reports/3694390 | CVE-2026-7009: OCSP stapling bypass with Apple SecTrust
 https://hackerone.com/reports/3697491 | Missing HMAC validation on /uninstall webhook in Shopify/sample-django-app reference template
@@ -9500,6 +9502,7 @@ https://hackerone.com/reports/3710209 | Potential Resource Leak in tool_parsecfg
 https://hackerone.com/reports/3712279 | Burp Suite Professional: browser-powered crawl can write attacker-controlled files through file input handling
 https://hackerone.com/reports/3712343 | MQTT CONNACK Packet Type Bypass leads to RCE via Malicious Broker
 https://hackerone.com/reports/3713682 | IDOR: autotranslate.translateMessage Full Message Content Leak
+https://hackerone.com/reports/3717354 | UI Consent Bypass via Comma Injection in `addAutoApproveTarget` — User-Approval Dialog and Persistence Layer Disagree on Target Scope, Yielding Authen
 https://hackerone.com/reports/3717365 | mbedTLS private-key blob null-termination asymmetry in lib/vtls/mbedtls.c (mbed_load_privkey)
 https://hackerone.com/reports/3717552 | CURLOPT_PROXY_CRLFILE / CURLOPT_PROXY_ISSUERCERT / CURLOPT_PROXY_ISSUERCERT_BLOB silently ignored on backends that don't support them
 https://hackerone.com/reports/3718265 | Shared HSTS cache accessed without lock
@@ -9557,4 +9560,6 @@ https://hackerone.com/reports/3786077 | SOCKS5 no-auth accepted despite username
 https://hackerone.com/reports/3788506 | SSH/SFTP connection reuse can bypass SSH key identity after ssh_config_matches removal
 https://hackerone.com/reports/3791168 | curl-ipv4-percent-normalization-SSRF
 https://hackerone.com/reports/3791191 | Trailing-Dot Hostname in Redirect Silently Strips Client Certificate and Auth Credentials
+https://hackerone.com/reports/3793495 | Incomplete Suppression of  Transfer-Encoding: chunked Header in HTTP/2 After Redirect From HTTP/1.1
 https://hackerone.com/reports/3795615 | Duplicate chunked Transfer-Encoding lets a malicious origin smuggle a response across reused HTTP proxy connections
+https://hackerone.com/reports/3803415 | Secure cookies leaked to HTTP origins through HTTPS forwarding proxy

@@ -1,4 +1,4 @@
-# Weakness: Cross-site Scripting (XSS) - Reflected (361 reports)
+# Weakness: Cross-site Scripting (XSS) - Reflected (362 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -365,3 +365,4 @@
 | 359 | [831803](../reports/831803.md) | RXSS in http://procurement-businesscatalog.informatica.com | [Informatica](../by-program/informatica.md) | None | — | 13 |
 | 360 | [355773](../reports/355773.md) | XSS on support.wordcamp.org in ajax-quote.php | [WordPress](../by-program/wordpress.md) | None | — | 9 |
 | 361 | [219170](../reports/219170.md) | XSS | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 8 |
+| 362 | [3664261](../reports/3664261.md) | Reflected Cross-Site Scripting (XSS) found on IBM.com domain | [IBM](../by-program/ibm.md) | None | — | 6 |

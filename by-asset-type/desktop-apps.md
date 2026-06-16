@@ -1,4 +1,4 @@
-# Asset Type: Desktop Apps (138 reports)
+# Asset Type: Desktop Apps (139 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -138,7 +138,8 @@
 | 132 | [294891](../reports/294891.md) | Improper Certificate Validation | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Low — CVSS 2.6 | — | 0 |
 | 133 | [1167530](../reports/1167530.md) | RCE in 'Copy as Node Request' BApp via code injection | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Extension (BApps) | None | — | 50 |
 | 134 | [3509632](../reports/3509632.md) | Information Disclosure via Logback Configuration Inject | [GoCD](../by-program/gocd.md) | GoCD (https://www.gocd.org/download) | None | — | 36 |
-| 135 | [366129](../reports/366129.md) | Activat burp suite pro with the old license after trans | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | None | — | 6 |
-| 136 | [817244](../reports/817244.md) | The Linux binaries (nordvpn and nordvpnd) don't use PIE | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Linux Executable | None | — | 3 |
-| 137 | [331428](../reports/331428.md) | Cross domain tracking even with 3rd party cookies disab | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | None | — | 2 |
-| 138 | [771977](../reports/771977.md) | nordvpn Linux Desktop executable application does not u | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Linux Executable | None | — | 1 |
+| 135 | [3717354](../reports/3717354.md) | UI Consent Bypass via Comma Injection in `addAutoApprov | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Extension (BApps) | None | — | 12 |
+| 136 | [366129](../reports/366129.md) | Activat burp suite pro with the old license after trans | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | None | — | 6 |
+| 137 | [817244](../reports/817244.md) | The Linux binaries (nordvpn and nordvpnd) don't use PIE | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Linux Executable | None | — | 3 |
+| 138 | [331428](../reports/331428.md) | Cross domain tracking even with 3rd party cookies disab | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | None | — | 2 |
+| 139 | [771977](../reports/771977.md) | nordvpn Linux Desktop executable application does not u | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Linux Executable | None | — | 1 |
