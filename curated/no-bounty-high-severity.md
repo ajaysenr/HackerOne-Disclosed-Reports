@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1666 total)
+# High/Critical Severity — No Bounty Paid (1669 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -182,6 +182,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [332586](../reports/332586.md) | Unauthorized access to jiratest.starbucks.com  | [Starbucks](../by-program/starbucks.md) | Critical | Resolved | 49 |
 | [953649](../reports/953649.md) | Critical Information disclosure of rtapi token for any user via h | [Uber](../by-program/uber.md) | Critical | Resolved | 49 |
 | [684099](../reports/684099.md) | Periscope-all Firebase database takeover | [X / xAI](../by-program/x.md) | Critical | Resolved | 49 |
+| [1639600](../reports/1639600.md) | Hashed data exposure via WebSockets to Workspace Members | [Slack](../by-program/slack.md) | Critical | Resolved | 48 |
 | [2778350](../reports/2778350.md) | Cisco IOS XE instance at ████ vulnerable to CVE-██████ | [MTN Group](../by-program/mtn_group.md) | Critical — CVSS 9.1 | Resolved | 48 |
 | [950881](../reports/950881.md) | IDOR when editing email leads to Account Takeover on Atavist | [Automattic](../by-program/automattic.md) | Critical | Resolved | 48 |
 | [221294](../reports/221294.md) | Java Deserialization RCE via JBoss on card.starbucks.in | [Starbucks](../by-program/starbucks.md) | Critical — CVSS 9.0 | Resolved | 48 |
@@ -444,6 +445,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [226245](../reports/226245.md) | Remote code execution (RCE) in multiple DoD websites | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 8 |
 | [1433581](../reports/1433581.md) | The Return of the Grinch | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 8 |
 | [418308](../reports/418308.md) | [CRITICAL] Remote code execution on http://axa.dxi.eu | [8x8](../by-program/8x8-bounty.md) | Critical | Resolved | 8 |
+| [3804525](../reports/3804525.md) | Vulnerability Report: Buffer Overflow in Path Sanitization | [curl](../by-program/curl.md) | Critical | Not Applicable | 8 |
 | [309648](../reports/309648.md) | [simplehttpserver] Stored XSS in file names leads to malicious Ja | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.6 | Resolved | 8 |
 | [1581059](../reports/1581059.md) | Regex account takeover | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 9.9 | Resolved | 8 |
 | [346516](../reports/346516.md) | Remote code executio in  NPM package getcookies | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | Resolved | 8 |
@@ -1352,6 +1354,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [203912](../reports/203912.md) | Stored XSS via Discussion Title and Send as Email attribute in [m | [Informatica](../by-program/informatica.md) | High | Resolved | 9 |
 | [249467](../reports/249467.md) | 2FA user enumeration via login | [Legal Robot](../by-program/legalrobot.md) | High | Resolved | 9 |
 | [1937235](../reports/1937235.md) | LDAP Server NULL Bind Connection Information Disclosure | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 9 |
+| [3611837](../reports/3611837.md) | Unauthenticated file deletion via deleteFileMessage DDP method al | [Rocket.Chat](../by-program/rocket_chat.md) | High — CVSS 7.5 | Resolved | 9 |
 | [455726](../reports/455726.md) | Thailand - SNMP Publicly Accessible | [Starbucks](../by-program/starbucks.md) | High | Resolved | 9 |
 | [244092](../reports/244092.md) | Password of failed (2FA) login attempt is stored in log | [Nextcloud](../by-program/nextcloud.md) | High | Resolved | 9 |
 | [3781015](../reports/3781015.md) |  Incomplete Fix for CVE-2026-21637: OCSPRequest and resumeSession | [Node.js](../by-program/nodejs.md) | High | Informative | 9 |

@@ -9427,6 +9427,7 @@ https://hackerone.com/reports/3608522 | Unescaped username in SASL DIGEST-MD5 re
 https://hackerone.com/reports/3608558 | Blind POST SSRF via Web Push Notification Endpoint
 https://hackerone.com/reports/3609505 | HSTS accepted from HTTP origin behind HTTPS proxy
 https://hackerone.com/reports/3611825 | Bearer Token Leaked to Attacker via .netrc Despite CVE-2026-3783 Fix
+https://hackerone.com/reports/3611837 | Unauthenticated file deletion via deleteFileMessage DDP method allows permanent destruction of any uploaded file
 https://hackerone.com/reports/3612891 | Exposed .git/config File Leading to Potential Sensitive Information Disclosure
 https://hackerone.com/reports/3617719 | Function `do_pubkey()` can have out-of-bound read issue
 https://hackerone.com/reports/3619287 | RCE + Supply Chain Attack via pull_request_target in content-scope-scripts/semver-label.yml — Affects All DuckDuckGo Browsers
@@ -9498,6 +9499,7 @@ https://hackerone.com/reports/3693295 | iOS Brave Playlist "Open in Private Tab"
 https://hackerone.com/reports/3694390 | CVE-2026-7009: OCSP stapling bypass with Apple SecTrust
 https://hackerone.com/reports/3697491 | Missing HMAC validation on /uninstall webhook in Shopify/sample-django-app reference template
 https://hackerone.com/reports/3697719 | CVE-2026-7168: cross-proxy Digest auth state leak
+https://hackerone.com/reports/3701692 | Malicious Conflux Endpoint Can Leave Stale Global OOO Queue Accounting After Teardown
 https://hackerone.com/reports/3702718 | MQTT state machine confusion: PINGRESP/DISCONNECT with non-zero remaining_length dispatches to stale nextstate
 https://hackerone.com/reports/3707747 | libcurl 8.20.0 incomplete fix for CVE-2026-7168: changing only CURLOPT_PROXYPORT leaks stale Proxy Digest auth to a different proxy
 https://hackerone.com/reports/3708482 | wcurl treats some URL operands after -- as curl options
@@ -9566,3 +9568,4 @@ https://hackerone.com/reports/3791191 | Trailing-Dot Hostname in Redirect Silent
 https://hackerone.com/reports/3793495 | Incomplete Suppression of  Transfer-Encoding: chunked Header in HTTP/2 After Redirect From HTTP/1.1
 https://hackerone.com/reports/3795615 | Duplicate chunked Transfer-Encoding lets a malicious origin smuggle a response across reused HTTP proxy connections
 https://hackerone.com/reports/3803415 | Secure cookies leaked to HTTP origins through HTTPS forwarding proxy
+https://hackerone.com/reports/3804525 | Vulnerability Report: Buffer Overflow in Path Sanitization

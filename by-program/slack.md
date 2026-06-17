@@ -1,4 +1,4 @@
-# Slack — Disclosed Reports (117 total)
+# Slack — Disclosed Reports (118 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -53,71 +53,72 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 47 | [737140](../reports/737140.md) | Mass account takeovers using HTTP Request Smuggling on https | Critical — CVSS 9.3 | — | 864 | [defparam](https://hackerone.com/defparam) | 2020-03-12 |
 | 48 | [783877](../reports/783877.md) | Remote Code Execution in Slack desktop apps + bonus | Critical | — | 506 | [oskarsv](https://hackerone.com/oskarsv) | 2020-08-28 |
 | 49 | [1716016](../reports/1716016.md) | Ability to join an arbitrary workspace by utilizing a proxy  | Critical — CVSS 9.3 | — | 105 | [hunter0xp7](https://hackerone.com/hunter0xp7) | 2023-06-23 |
-| 50 | [200427](../reports/200427.md) | Access of Android protected components via embedded intent | Critical | — | 31 | [bagipro](https://hackerone.com/bagipro) | 2017-07-17 |
-| 51 | [272578](../reports/272578.md) | Unauthenticated LFI revealing log information | High | — | 122 | [juji](https://hackerone.com/juji) | 2018-01-26 |
-| 52 | [816156](../reports/816156.md) | Team members can trigger arbitrary code execution in Slack D | High — CVSS 8.9 | — | 105 | [oskarsv](https://hackerone.com/oskarsv) | 2021-05-09 |
-| 53 | [503283](../reports/503283.md) | Real Time Error Logs Through Debug Information | High — CVSS 8.2 | — | 98 | [rubaljain](https://hackerone.com/rubaljain) | 2019-04-11 |
-| 54 | [470637](../reports/470637.md) | User-assisted RCE in Slack for macOS (from official site) du | High — CVSS 7.3 | — | 96 | [metnew](https://hackerone.com/metnew) | 2019-09-14 |
-| 55 | [258198](../reports/258198.md) | The Custom Emoji Page has a Reflected XSS | High | — | 56 | [co3k](https://hackerone.com/co3k) | 2017-09-24 |
-| 56 | [187410](../reports/187410.md) | Store XSS | High | — | 43 | [imran_hadid](https://hackerone.com/imran_hadid) | 2017-01-01 |
-| 57 | [864489](../reports/864489.md) | Workspace configuration metadata disclosure | High — CVSS 7.5 | — | 39 | [kadusantiago](https://hackerone.com/kadusantiago) | 2022-04-01 |
-| 58 | [1248852](../reports/1248852.md) | Misuse of groups feature allows workspace members to join pr | High — CVSS 7.1 | — | 23 | [kmap](https://hackerone.com/kmap) | 2021-10-21 |
-| 59 | [210654](../reports/210654.md) | Bypass to postMessage origin validation via FTP | High — CVSS 8.1 | — | 15 | [a1kmm-](https://hackerone.com/a1kmm-) | 2017-04-21 |
-| 60 | [727330](../reports/727330.md) | Header modification results in disclosure of Slack infra met | Medium | — | 94 | [showuon](https://hackerone.com/showuon) | 2021-06-09 |
-| 61 | [381129](../reports/381129.md) | SSRF in api.slack.com, using slash commands and bypassing th | Medium | — | 83 | [elber](https://hackerone.com/elber) | 2019-02-22 |
-| 62 | [386292](../reports/386292.md) | Bypass of the SSRF protection in Event Subscriptions paramet | Medium | — | 51 | [elber](https://hackerone.com/elber) | 2019-02-22 |
-| 63 | [356765](../reports/356765.md) | Internal SSRF bypass using slash commands at api.slack.com | Medium | — | 50 | [albatraoz](https://hackerone.com/albatraoz) | 2018-07-12 |
-| 64 | [375097](../reports/375097.md) | The POODLE attack (SSLv3 supported) at status.slack.com | Medium | — | 44 | [cryptographer](https://hackerone.com/cryptographer) | 2018-11-28 |
-| 65 | [679969](../reports/679969.md) | CSS Injection to disable app & potential message exfil | Medium — CVSS 4.3 | — | 37 | [fletchto99](https://hackerone.com/fletchto99) | 2019-11-09 |
-| 66 | [335339](../reports/335339.md) | HTTP parameter pollution from outdated Greenhouse.io JS depe | Medium — CVSS 4.7 | — | 25 | [irvinlim](https://hackerone.com/irvinlim) | 2018-07-19 |
-| 67 | [827606](../reports/827606.md) | Stored XSS in files.slack.com | Medium — CVSS 5.0 | — | 18 | [oskarsv](https://hackerone.com/oskarsv) | 2021-12-02 |
-| 68 | [966814](../reports/966814.md) | Slack-Corp Heroku application disclosing limited info about  | Low — CVSS 3.7 | — | 39 | [demonia](https://hackerone.com/demonia) | 2020-12-09 |
-| 69 | [196624](../reports/196624.md) | dom xss in https://www.slackatwork.com | Low | — | 12 | [ba4fe4ca95021d367f8a574](https://hackerone.com/ba4fe4ca95021d367f8a574) | 2017-03-02 |
-| 70 | [392728](../reports/392728.md) | Possibility to freeze/crash the host system of all Slack Des | Low | — | 9 | [freesec](https://hackerone.com/freesec) | 2020-11-10 |
-| 71 | [146336](../reports/146336.md) | XSS vulnerable parameter in a location hash | None | — | 453 | [virtualhunter](https://hackerone.com/virtualhunter) | 2019-10-16 |
-| 72 | [207170](../reports/207170.md) | Stealing xoxs-tokens using weak postMessage / call-popup red | None | — | 120 | [fransrosen](https://hackerone.com/fransrosen) | 2017-02-28 |
-| 73 | [132104](../reports/132104.md) | Stored XSS on team.slack.com using new Markdown editor of po | None | — | 102 | [fransrosen](https://hackerone.com/fransrosen) | 2016-09-01 |
-| 74 | [239623](../reports/239623.md) | Many Slack teams can be joined by abusing an improperly conf | None | — | 87 | [securinti](https://hackerone.com/securinti) | 2017-10-21 |
-| 75 | [79348](../reports/79348.md) | OSX slack:// protocol handler javascript injection | None | — | 72 | [computerality](https://hackerone.com/computerality) | 2016-06-24 |
-| 76 | [121696](../reports/121696.md) | Bypass  two-factor authentication | None | — | 35 | [kamikaze](https://hackerone.com/kamikaze) | 2017-11-18 |
-| 77 | [165570](../reports/165570.md) | Race Condition in account survey | None | — | 29 | [cablej](https://hackerone.com/cablej) | 2017-11-12 |
-| 78 | [142096](../reports/142096.md) | [Screenhero] Subdomain takeover | None | — | 23 | [yassineaboukir](https://hackerone.com/yassineaboukir) | 2017-01-21 |
-| 79 | [6017](../reports/6017.md) | Facebook Takeover using Slack using 302 from files.slack.com | None | — | 16 | [fransrosen](https://hackerone.com/fransrosen) | 2015-01-11 |
-| 80 | [162955](../reports/162955.md) | Code Injection in Slack's Windows Desktop Client leads to Pr | None | — | 14 | [fbogner](https://hackerone.com/fbogner) | 2017-07-14 |
-| 81 | [151459](../reports/151459.md) | Creating Post on a restricted channel | None | — | 10 | [thisishrsh](https://hackerone.com/thisishrsh) | 2016-09-29 |
-| 82 | [2575](../reports/2575.md) | Slack OAuth2 "redirect_uri" Bypass  | None | — | 10 | [prakharprasad](https://hackerone.com/prakharprasad) | 2014-05-29 |
-| 83 | [9774](../reports/9774.md) | Stored XSS Found | None | — | 9 | [karshxz7593](https://hackerone.com/karshxz7593) | 2014-06-01 |
-| 84 | [2746](../reports/2746.md) | Data exports stored on S3 can be scraped easily | None | — | 9 | [jobert](https://hackerone.com/jobert) | 2014-12-09 |
-| 85 | [2617](../reports/2617.md) | Stored XSS in www.slack-files.com | None | — | 8 | [prakharprasad](https://hackerone.com/prakharprasad) | 2014-05-23 |
-| 86 | [2766](../reports/2766.md) | Email enumeration | None | — | 8 | [anshuman_bh](https://hackerone.com/anshuman_bh) | 2014-04-02 |
-| 87 | [4561](../reports/4561.md) | Stored XSS in Slackbot Direct Messages | None | — | 8 | [prakharprasad](https://hackerone.com/prakharprasad) | 2014-05-04 |
-| 88 | [2559](../reports/2559.md) | Broken Authentication (including Slack OAuth bugs) | None | — | 7 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-08-30 |
-| 89 | [2582](../reports/2582.md) | Session Fixation disclosing email address | None | — | 7 | [xtross1](https://hackerone.com/xtross1) | 2014-03-31 |
-| 90 | [2639](../reports/2639.md) | Stored XSS on this link https://sehacure.slack.com/help/requ | None | — | 6 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-08-30 |
-| 91 | [99157](../reports/99157.md) | RC4 cipher suites detected on status.slack.com | None | — | 6 | [linkks](https://hackerone.com/linkks) | 2016-11-18 |
-| 92 | [2628](../reports/2628.md) | CSRF vulnerability on https://sehacure.slack.com/account/set | None | — | 5 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-07-26 |
-| 93 | [6002](../reports/6002.md) | Stored XSS in Slack.com | None | — | 5 | [atom](https://hackerone.com/atom) | 2015-03-09 |
-| 94 | [14127](../reports/14127.md) | SSRF on https://whitehataudit.slack.com/account/photo | None | — | 5 | [4lemon](https://hackerone.com/4lemon) | 2014-12-21 |
-| 95 | [2622](../reports/2622.md) | URL redirection flaw | None | — | 5 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-08-30 |
-| 96 | [143903](../reports/143903.md) | File upload over private IM channel | None | — | 5 | [thisishrsh](https://hackerone.com/thisishrsh) | 2016-07-13 |
-| 97 | [2688](../reports/2688.md) | State parameter missing on google OAuth | None | — | 5 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-04-06 |
-| 98 | [17160](../reports/17160.md) | Password Policy issue (Weak Protect) | None | — | 5 | [simon90](https://hackerone.com/simon90) | 2014-09-04 |
-| 99 | [2625](../reports/2625.md) | Stored XSS in username.slack.com | None | — | 4 | [prakharprasad](https://hackerone.com/prakharprasad) | 2014-08-07 |
-| 100 | [100565](../reports/100565.md) | Executing scripts on slack-files.com using SVG | None | — | 4 | [kamil_hism](https://hackerone.com/kamil_hism) | 2016-02-18 |
-| 101 | [2635](../reports/2635.md) | csrf | None | — | 4 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-04-06 |
-| 102 | [2926](../reports/2926.md) | Stored XSS  | None | — | 4 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-04-06 |
-| 103 | [96337](../reports/96337.md) | Stored XSS in Slack (weird, trial and error) | None | — | 4 | [harrymg](https://hackerone.com/harrymg) | 2015-11-10 |
-| 104 | [3722](../reports/3722.md) | User impersonation is possible with incoming webhooks | None | — | 3 | [pwndizzle](https://hackerone.com/pwndizzle) | 2014-04-10 |
-| 105 | [4638](../reports/4638.md) | Duplicate of #4550 | None | — | 3 | [prakharprasad](https://hackerone.com/prakharprasad) | 2014-05-21 |
-| 106 | [2979](../reports/2979.md) | Content Spoofing | None | — | 3 | [cliantech](https://hackerone.com/cliantech) | 2014-08-11 |
-| 107 | [2652](../reports/2652.md) | Stored XSS in Channel Chat  | None | — | 3 | [prakharprasad](https://hackerone.com/prakharprasad) | 2014-05-21 |
-| 108 | [4549](../reports/4549.md) | Open Redirect in Slack | None | — | 2 | [prakharprasad](https://hackerone.com/prakharprasad) | 2014-05-21 |
-| 109 | [54610](../reports/54610.md) | Logout any user of same team | None | — | 2 | [oldusername](https://hackerone.com/oldusername) | 2015-05-05 |
-| 110 | [97683](../reports/97683.md) | Reflected Self-XSS in Slack | None | — | 2 | [harrymg](https://hackerone.com/harrymg) | 2015-11-10 |
-| 111 | [6035](../reports/6035.md) | open redirect in https://slack.com | None | — | 2 | [ipk1](https://hackerone.com/ipk1) | 2014-05-31 |
-| 112 | [2975](../reports/2975.md) | Deleting Teams implemenation | None | — | 2 | [cliantech](https://hackerone.com/cliantech) | 2014-08-21 |
-| 113 | [26763](../reports/26763.md) | HTTP Strict Transport Policy not enabled on newly made accou | None | — | 2 | [shahmeer-amir](https://hackerone.com/shahmeer-amir) | 2014-10-03 |
-| 114 | [10297](../reports/10297.md) | Stored XSS in slack.com (integrations) | None | — | 2 | [jeroldcamacho_](https://hackerone.com/jeroldcamacho_) | 2014-05-29 |
-| 115 | [89505](../reports/89505.md) | Self-XSS in posts by formatting text as code | None | — | 2 | [harrymg](https://hackerone.com/harrymg) | 2015-11-10 |
-| 116 | [3455](../reports/3455.md) | flash content type sniff vulnerability in api.slack.com | None | — | 2 | [netfuzzer](https://hackerone.com/netfuzzer) | 2014-04-08 |
-| 117 | [66994](../reports/66994.md) | Link vulnerability leads to phishing attacks | None | — | 1 | [shpendk13](https://hackerone.com/shpendk13) | 2015-07-13 |
+| 50 | [1639600](../reports/1639600.md) | Hashed data exposure via WebSockets to Workspace Members | Critical | — | 48 | [d3f4u17](https://hackerone.com/d3f4u17) | 2023-09-21 |
+| 51 | [200427](../reports/200427.md) | Access of Android protected components via embedded intent | Critical | — | 31 | [bagipro](https://hackerone.com/bagipro) | 2017-07-17 |
+| 52 | [272578](../reports/272578.md) | Unauthenticated LFI revealing log information | High | — | 122 | [juji](https://hackerone.com/juji) | 2018-01-26 |
+| 53 | [816156](../reports/816156.md) | Team members can trigger arbitrary code execution in Slack D | High — CVSS 8.9 | — | 105 | [oskarsv](https://hackerone.com/oskarsv) | 2021-05-09 |
+| 54 | [503283](../reports/503283.md) | Real Time Error Logs Through Debug Information | High — CVSS 8.2 | — | 98 | [rubaljain](https://hackerone.com/rubaljain) | 2019-04-11 |
+| 55 | [470637](../reports/470637.md) | User-assisted RCE in Slack for macOS (from official site) du | High — CVSS 7.3 | — | 96 | [metnew](https://hackerone.com/metnew) | 2019-09-14 |
+| 56 | [258198](../reports/258198.md) | The Custom Emoji Page has a Reflected XSS | High | — | 56 | [co3k](https://hackerone.com/co3k) | 2017-09-24 |
+| 57 | [187410](../reports/187410.md) | Store XSS | High | — | 43 | [imran_hadid](https://hackerone.com/imran_hadid) | 2017-01-01 |
+| 58 | [864489](../reports/864489.md) | Workspace configuration metadata disclosure | High — CVSS 7.5 | — | 39 | [kadusantiago](https://hackerone.com/kadusantiago) | 2022-04-01 |
+| 59 | [1248852](../reports/1248852.md) | Misuse of groups feature allows workspace members to join pr | High — CVSS 7.1 | — | 23 | [kmap](https://hackerone.com/kmap) | 2021-10-21 |
+| 60 | [210654](../reports/210654.md) | Bypass to postMessage origin validation via FTP | High — CVSS 8.1 | — | 15 | [a1kmm-](https://hackerone.com/a1kmm-) | 2017-04-21 |
+| 61 | [727330](../reports/727330.md) | Header modification results in disclosure of Slack infra met | Medium | — | 94 | [showuon](https://hackerone.com/showuon) | 2021-06-09 |
+| 62 | [381129](../reports/381129.md) | SSRF in api.slack.com, using slash commands and bypassing th | Medium | — | 83 | [elber](https://hackerone.com/elber) | 2019-02-22 |
+| 63 | [386292](../reports/386292.md) | Bypass of the SSRF protection in Event Subscriptions paramet | Medium | — | 51 | [elber](https://hackerone.com/elber) | 2019-02-22 |
+| 64 | [356765](../reports/356765.md) | Internal SSRF bypass using slash commands at api.slack.com | Medium | — | 50 | [albatraoz](https://hackerone.com/albatraoz) | 2018-07-12 |
+| 65 | [375097](../reports/375097.md) | The POODLE attack (SSLv3 supported) at status.slack.com | Medium | — | 44 | [cryptographer](https://hackerone.com/cryptographer) | 2018-11-28 |
+| 66 | [679969](../reports/679969.md) | CSS Injection to disable app & potential message exfil | Medium — CVSS 4.3 | — | 37 | [fletchto99](https://hackerone.com/fletchto99) | 2019-11-09 |
+| 67 | [335339](../reports/335339.md) | HTTP parameter pollution from outdated Greenhouse.io JS depe | Medium — CVSS 4.7 | — | 25 | [irvinlim](https://hackerone.com/irvinlim) | 2018-07-19 |
+| 68 | [827606](../reports/827606.md) | Stored XSS in files.slack.com | Medium — CVSS 5.0 | — | 18 | [oskarsv](https://hackerone.com/oskarsv) | 2021-12-02 |
+| 69 | [966814](../reports/966814.md) | Slack-Corp Heroku application disclosing limited info about  | Low — CVSS 3.7 | — | 39 | [demonia](https://hackerone.com/demonia) | 2020-12-09 |
+| 70 | [196624](../reports/196624.md) | dom xss in https://www.slackatwork.com | Low | — | 12 | [ba4fe4ca95021d367f8a574](https://hackerone.com/ba4fe4ca95021d367f8a574) | 2017-03-02 |
+| 71 | [392728](../reports/392728.md) | Possibility to freeze/crash the host system of all Slack Des | Low | — | 9 | [freesec](https://hackerone.com/freesec) | 2020-11-10 |
+| 72 | [146336](../reports/146336.md) | XSS vulnerable parameter in a location hash | None | — | 453 | [virtualhunter](https://hackerone.com/virtualhunter) | 2019-10-16 |
+| 73 | [207170](../reports/207170.md) | Stealing xoxs-tokens using weak postMessage / call-popup red | None | — | 120 | [fransrosen](https://hackerone.com/fransrosen) | 2017-02-28 |
+| 74 | [132104](../reports/132104.md) | Stored XSS on team.slack.com using new Markdown editor of po | None | — | 102 | [fransrosen](https://hackerone.com/fransrosen) | 2016-09-01 |
+| 75 | [239623](../reports/239623.md) | Many Slack teams can be joined by abusing an improperly conf | None | — | 87 | [securinti](https://hackerone.com/securinti) | 2017-10-21 |
+| 76 | [79348](../reports/79348.md) | OSX slack:// protocol handler javascript injection | None | — | 72 | [computerality](https://hackerone.com/computerality) | 2016-06-24 |
+| 77 | [121696](../reports/121696.md) | Bypass  two-factor authentication | None | — | 35 | [kamikaze](https://hackerone.com/kamikaze) | 2017-11-18 |
+| 78 | [165570](../reports/165570.md) | Race Condition in account survey | None | — | 29 | [cablej](https://hackerone.com/cablej) | 2017-11-12 |
+| 79 | [142096](../reports/142096.md) | [Screenhero] Subdomain takeover | None | — | 23 | [yassineaboukir](https://hackerone.com/yassineaboukir) | 2017-01-21 |
+| 80 | [6017](../reports/6017.md) | Facebook Takeover using Slack using 302 from files.slack.com | None | — | 16 | [fransrosen](https://hackerone.com/fransrosen) | 2015-01-11 |
+| 81 | [162955](../reports/162955.md) | Code Injection in Slack's Windows Desktop Client leads to Pr | None | — | 14 | [fbogner](https://hackerone.com/fbogner) | 2017-07-14 |
+| 82 | [151459](../reports/151459.md) | Creating Post on a restricted channel | None | — | 10 | [thisishrsh](https://hackerone.com/thisishrsh) | 2016-09-29 |
+| 83 | [2575](../reports/2575.md) | Slack OAuth2 "redirect_uri" Bypass  | None | — | 10 | [prakharprasad](https://hackerone.com/prakharprasad) | 2014-05-29 |
+| 84 | [9774](../reports/9774.md) | Stored XSS Found | None | — | 9 | [karshxz7593](https://hackerone.com/karshxz7593) | 2014-06-01 |
+| 85 | [2746](../reports/2746.md) | Data exports stored on S3 can be scraped easily | None | — | 9 | [jobert](https://hackerone.com/jobert) | 2014-12-09 |
+| 86 | [2617](../reports/2617.md) | Stored XSS in www.slack-files.com | None | — | 8 | [prakharprasad](https://hackerone.com/prakharprasad) | 2014-05-23 |
+| 87 | [2766](../reports/2766.md) | Email enumeration | None | — | 8 | [anshuman_bh](https://hackerone.com/anshuman_bh) | 2014-04-02 |
+| 88 | [4561](../reports/4561.md) | Stored XSS in Slackbot Direct Messages | None | — | 8 | [prakharprasad](https://hackerone.com/prakharprasad) | 2014-05-04 |
+| 89 | [2559](../reports/2559.md) | Broken Authentication (including Slack OAuth bugs) | None | — | 7 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-08-30 |
+| 90 | [2582](../reports/2582.md) | Session Fixation disclosing email address | None | — | 7 | [xtross1](https://hackerone.com/xtross1) | 2014-03-31 |
+| 91 | [2639](../reports/2639.md) | Stored XSS on this link https://sehacure.slack.com/help/requ | None | — | 6 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-08-30 |
+| 92 | [99157](../reports/99157.md) | RC4 cipher suites detected on status.slack.com | None | — | 6 | [linkks](https://hackerone.com/linkks) | 2016-11-18 |
+| 93 | [2628](../reports/2628.md) | CSRF vulnerability on https://sehacure.slack.com/account/set | None | — | 5 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-07-26 |
+| 94 | [6002](../reports/6002.md) | Stored XSS in Slack.com | None | — | 5 | [atom](https://hackerone.com/atom) | 2015-03-09 |
+| 95 | [14127](../reports/14127.md) | SSRF on https://whitehataudit.slack.com/account/photo | None | — | 5 | [4lemon](https://hackerone.com/4lemon) | 2014-12-21 |
+| 96 | [2622](../reports/2622.md) | URL redirection flaw | None | — | 5 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-08-30 |
+| 97 | [143903](../reports/143903.md) | File upload over private IM channel | None | — | 5 | [thisishrsh](https://hackerone.com/thisishrsh) | 2016-07-13 |
+| 98 | [2688](../reports/2688.md) | State parameter missing on google OAuth | None | — | 5 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-04-06 |
+| 99 | [17160](../reports/17160.md) | Password Policy issue (Weak Protect) | None | — | 5 | [simon90](https://hackerone.com/simon90) | 2014-09-04 |
+| 100 | [2625](../reports/2625.md) | Stored XSS in username.slack.com | None | — | 4 | [prakharprasad](https://hackerone.com/prakharprasad) | 2014-08-07 |
+| 101 | [100565](../reports/100565.md) | Executing scripts on slack-files.com using SVG | None | — | 4 | [kamil_hism](https://hackerone.com/kamil_hism) | 2016-02-18 |
+| 102 | [2635](../reports/2635.md) | csrf | None | — | 4 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-04-06 |
+| 103 | [2926](../reports/2926.md) | Stored XSS  | None | — | 4 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-04-06 |
+| 104 | [96337](../reports/96337.md) | Stored XSS in Slack (weird, trial and error) | None | — | 4 | [harrymg](https://hackerone.com/harrymg) | 2015-11-10 |
+| 105 | [3722](../reports/3722.md) | User impersonation is possible with incoming webhooks | None | — | 3 | [pwndizzle](https://hackerone.com/pwndizzle) | 2014-04-10 |
+| 106 | [4638](../reports/4638.md) | Duplicate of #4550 | None | — | 3 | [prakharprasad](https://hackerone.com/prakharprasad) | 2014-05-21 |
+| 107 | [2979](../reports/2979.md) | Content Spoofing | None | — | 3 | [cliantech](https://hackerone.com/cliantech) | 2014-08-11 |
+| 108 | [2652](../reports/2652.md) | Stored XSS in Channel Chat  | None | — | 3 | [prakharprasad](https://hackerone.com/prakharprasad) | 2014-05-21 |
+| 109 | [4549](../reports/4549.md) | Open Redirect in Slack | None | — | 2 | [prakharprasad](https://hackerone.com/prakharprasad) | 2014-05-21 |
+| 110 | [54610](../reports/54610.md) | Logout any user of same team | None | — | 2 | [oldusername](https://hackerone.com/oldusername) | 2015-05-05 |
+| 111 | [97683](../reports/97683.md) | Reflected Self-XSS in Slack | None | — | 2 | [harrymg](https://hackerone.com/harrymg) | 2015-11-10 |
+| 112 | [6035](../reports/6035.md) | open redirect in https://slack.com | None | — | 2 | [ipk1](https://hackerone.com/ipk1) | 2014-05-31 |
+| 113 | [2975](../reports/2975.md) | Deleting Teams implemenation | None | — | 2 | [cliantech](https://hackerone.com/cliantech) | 2014-08-21 |
+| 114 | [26763](../reports/26763.md) | HTTP Strict Transport Policy not enabled on newly made accou | None | — | 2 | [shahmeer-amir](https://hackerone.com/shahmeer-amir) | 2014-10-03 |
+| 115 | [10297](../reports/10297.md) | Stored XSS in slack.com (integrations) | None | — | 2 | [jeroldcamacho_](https://hackerone.com/jeroldcamacho_) | 2014-05-29 |
+| 116 | [89505](../reports/89505.md) | Self-XSS in posts by formatting text as code | None | — | 2 | [harrymg](https://hackerone.com/harrymg) | 2015-11-10 |
+| 117 | [3455](../reports/3455.md) | flash content type sniff vulnerability in api.slack.com | None | — | 2 | [netfuzzer](https://hackerone.com/netfuzzer) | 2014-04-08 |
+| 118 | [66994](../reports/66994.md) | Link vulnerability leads to phishing attacks | None | — | 1 | [shpendk13](https://hackerone.com/shpendk13) | 2015-07-13 |
