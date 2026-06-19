@@ -8798,6 +8798,7 @@ https://hackerone.com/reports/2501986 | IBM OpenPages vulnerable to exposure of 
 https://hackerone.com/reports/2503113 | Reflected XSS of media.indrive.com
 https://hackerone.com/reports/2505761 | Information Leakage via Clicked Link in GitHub Repository (Fingerprinting)
 https://hackerone.com/reports/2508422 | Mail auto configurator can be tricked into sending account information to wrong servers
+https://hackerone.com/reports/2509022 | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdown Image Rendering
 https://hackerone.com/reports/2509402 | Out-Of-Bounds Memory Read on ███
 https://hackerone.com/reports/2513082 | Program Member Could Duplicate Report To A Non Related Program Original Report
 https://hackerone.com/reports/2513333 | csrftoken not unique to session or specific user and csrfmiddlewaretoken  can be altered
@@ -9473,6 +9474,7 @@ https://hackerone.com/reports/3653196 | Blind SQL injection via clientid paramet
 https://hackerone.com/reports/3653316 | Reflected XSS via clientid parameter in zone‑include.php
 https://hackerone.com/reports/3656781 | PHP code injection via delivery limitation logical
 https://hackerone.com/reports/3658049 | libcurl: Integer truncation in curl_easy_ssls_import() causes TLS sessions to never expire
+https://hackerone.com/reports/3658225 | HTTP/2 sessions never clean up after GOAWAY on invalid protocol errors
 https://hackerone.com/reports/3664261 | Reflected Cross-Site Scripting (XSS) found on IBM.com domain
 https://hackerone.com/reports/3665151 | Brave Shields Domain Reordering Leads to Origin Confusion
 https://hackerone.com/reports/3665363 | Integer Overflow/Signedness Mismatch in Printf Precision for HTTP/2 Trailer Headers
@@ -9498,6 +9500,7 @@ https://hackerone.com/reports/3682666 | Use-after-free in `curl_easy_ssls_export
 https://hackerone.com/reports/3684603 | Stack exhaustion in MIME multipart reading with deeply nested subparts
 https://hackerone.com/reports/3684614 | Heap-buffer-overflow in `Curl_ssl_push_certinfo_len()` — sole bounds check is `DEBUGASSERT`
 https://hackerone.com/reports/3687142 | Unauthenticated reading of every file via livechat auth and predicting MongoDB ObjectId()
+https://hackerone.com/reports/3692858 | Permission Model Bypass via `process.report.writeReport()` Path Misvalidation
 https://hackerone.com/reports/3693295 | iOS Brave Playlist "Open in Private Tab" bypasses FaceID requirement for Private Tabs
 https://hackerone.com/reports/3694007 | Authenticated Elasticsearch Painless script execution via Query.search.sort_query on hackerone.com/graphql
 https://hackerone.com/reports/3694390 | CVE-2026-7009: OCSP stapling bypass with Apple SecTrust
