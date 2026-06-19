@@ -7982,6 +7982,7 @@ https://hackerone.com/reports/1639919 | Stored XSS Via Filename On https://partn
 https://hackerone.com/reports/1641088 | Last video frame is still sent after video is disabled in a call
 https://hackerone.com/reports/1641148 | Directory Traversal at █████
 https://hackerone.com/reports/1641475 | Facebook App API credentials leaked in the APK
+https://hackerone.com/reports/1641661 | LFI via Jolokia at https://█.█.█.█:1293
 https://hackerone.com/reports/1643962 | Path paths and file disclosure vulnerabilities at influxdb.quality.gitlab.net
 https://hackerone.com/reports/1644436 | IDOR in Stats API Endpoint Allows Viewing Equity or Net Profit of Any MT Account
 https://hackerone.com/reports/1646248 | Reflected xss on videostore.mtnonline.com
