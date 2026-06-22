@@ -7984,6 +7984,7 @@ https://hackerone.com/reports/1641148 | Directory Traversal at █████
 https://hackerone.com/reports/1641475 | Facebook App API credentials leaked in the APK
 https://hackerone.com/reports/1641661 | LFI via Jolokia at https://█.█.█.█:1293
 https://hackerone.com/reports/1643962 | Path paths and file disclosure vulnerabilities at influxdb.quality.gitlab.net
+https://hackerone.com/reports/1644062 | No validation to Image upload user can upload ( php APK zip files and can be used as storage purpose)
 https://hackerone.com/reports/1644436 | IDOR in Stats API Endpoint Allows Viewing Equity or Net Profit of Any MT Account
 https://hackerone.com/reports/1646248 | Reflected xss on videostore.mtnonline.com
 https://hackerone.com/reports/1646554 | support.invisionpower.com takeover the subdomain with Zendesk
