@@ -1216,7 +1216,7 @@
 | 1212 | [saeedhashem](https://hackerone.com/saeedhashem) | 3 | $0 | 13 |
 | 1213 | [r0p3](https://hackerone.com/r0p3) | 7 | $0 | 32 |
 | 1214 | [joaomatosf](https://hackerone.com/joaomatosf) | 10 | $0 | 194 |
-| 1215 | [bug_vs_me](https://hackerone.com/bug_vs_me) | 2 | $0 | 181 |
+| 1215 | [bug_vs_me](https://hackerone.com/bug_vs_me) | 3 | $0 | 212 |
 | 1216 | [0xbastion](https://hackerone.com/0xbastion) | 1 | $0 | 10 |
 | 1217 | [akitech](https://hackerone.com/akitech) | 1 | $0 | 47 |
 | 1218 | [yacovm](https://hackerone.com/yacovm) | 1 | $0 | 34 |
