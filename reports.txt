@@ -7988,6 +7988,7 @@ https://hackerone.com/reports/1644062 | No validation to Image upload user can u
 https://hackerone.com/reports/1644436 | IDOR in Stats API Endpoint Allows Viewing Equity or Net Profit of Any MT Account
 https://hackerone.com/reports/1646248 | Reflected xss on videostore.mtnonline.com
 https://hackerone.com/reports/1646554 | support.invisionpower.com takeover the subdomain with Zendesk
+https://hackerone.com/reports/1647248 | Stored XSS Via Ads Account Name
 https://hackerone.com/reports/1647287 | Disabling context isolation, nodeIntegrationInSubFrames using an unauthorised frame.
 https://hackerone.com/reports/1650035 | Golang expvar Information Disclosure
 https://hackerone.com/reports/1650264 | GitHub Security Lab (GHSL) Vulnerability Report: SQLInjection in FileContentProvider.kt (GHSL-2022-059)
