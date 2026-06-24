@@ -9529,6 +9529,7 @@ https://hackerone.com/reports/3733984 | HSTS multi-trailing-dot bypass-ish: poss
 https://hackerone.com/reports/3734020 | HTTP/2 proxy CONNECT tunnel unbounded 1xx chain (missing Curl_bump_headersize cap in cf-h2-proxy.c)
 https://hackerone.com/reports/3734095 | TLS verifyhost bypass in rustls, mbedTLS, and wolfSSL when verifypeer=0
 https://hackerone.com/reports/3734326 | Autotranslate DDP Method Exposes Private Messages Without Authentication or Room Access Check
+https://hackerone.com/reports/3734676 | Taskcluster web-server OAuth2 authorization codes are reusable and the exchange handler checks the wrong expiry column
 https://hackerone.com/reports/3734921 | Trailing-dot IPv4 URL bypasses IP-address guard, allows wildcard DNS SAN match
 https://hackerone.com/reports/3734935 | rustls backend silently ignores CURLOPT_CRLFILE when native CA store is active
 https://hackerone.com/reports/3734947 | HTTP/3 paused transfer buffers incoming data without bound up to ~1 GiB
@@ -9579,3 +9580,4 @@ https://hackerone.com/reports/3795615 | Duplicate chunked Transfer-Encoding lets
 https://hackerone.com/reports/3802645 | verify-release rebuilds from the tarball under verification, enabling pre-check command execution and false OK for a malicious curl release tarball
 https://hackerone.com/reports/3803415 | Secure cookies leaked to HTTP origins through HTTPS forwarding proxy
 https://hackerone.com/reports/3804525 | Vulnerability Report: Buffer Overflow in Path Sanitization
+https://hackerone.com/reports/3817602 | Node --run POSIX positional argument escaping allows shell command injection

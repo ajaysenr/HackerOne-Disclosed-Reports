@@ -6,16 +6,16 @@ A structured, auto-updated database of publicly disclosed HackerOne vulnerabilit
 
 | Metric | Count |
 |---|---|
-| **Total Reports** | 9,581 |
-| **With Bounty** | 2,114 |
+| **Total Reports** | 9,583 |
+| **With Bounty** | 2,115 |
 | **With CVE** | 1,465 |
-| **Total Bounty Paid** | $3,484,666 |
+| **Total Bounty Paid** | $3,486,666 |
 | **Critical** | 709 |
-| **High** | 1,441 |
-| **Medium** | 2,658 |
+| **High** | 1,442 |
+| **Medium** | 2,659 |
 | **Low** | 1,766 |
 
-*Last Updated: June 23, 2026 at 12:39 AM EST*
+*Last Updated: June 24, 2026 at 12:45 AM EST*
 
 ## 📁 Browse
 
@@ -32,7 +32,7 @@ A structured, auto-updated database of publicly disclosed HackerOne vulnerabilit
 
 ## 📄 Data
 
-- `reports.txt` — flat URL + title list (9,581 entries)
+- `reports.txt` — flat URL + title list (9,583 entries)
 - `index.json` — structured metadata for all enriched reports
 - `reports/` — individual markdown page per report
 
