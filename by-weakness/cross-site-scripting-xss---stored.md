@@ -1,4 +1,4 @@
-# Weakness: Cross-site Scripting (XSS) - Stored (357 reports)
+# Weakness: Cross-site Scripting (XSS) - Stored (358 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -58,306 +58,307 @@
 | 52 | [354262](../reports/354262.md) | stored XSS (angular injection) in support.rockstargames.com using | [Rockstar Games](../by-program/rockstargames.md) | High | $1,000 | 31 |
 | 53 | [729424](../reports/729424.md) | Stored XSS in private message | [Shopify](../by-program/shopify.md) | Medium | $1,000 | 124 |
 | 54 | [265384](../reports/265384.md) | Stored XSS on support.rockstargames.com | [Rockstar Games](../by-program/rockstargames.md) | Medium — CVSS 6.3 | $1,000 | 49 |
-| 55 | [1694037](../reports/1694037.md) | Stored XSS in the ticketing system | [TikTok](../by-program/tiktok.md) | Medium | $1,000 | 46 |
-| 56 | [231444](../reports/231444.md) | Stored XSS in profile activity feed messages | [Rockstar Games](../by-program/rockstargames.md) | Medium | $1,000 | 44 |
-| 57 | [231389](../reports/231389.md) | Stored XSS in snapmatic comments | [Rockstar Games](../by-program/rockstargames.md) | Medium | $1,000 | 30 |
-| 58 | [265274](../reports/265274.md) | Stored XSS on support.rockstargames.com | [Rockstar Games](../by-program/rockstargames.md) | Medium — CVSS 5.6 | $1,000 | 11 |
-| 59 | [887879](../reports/887879.md) | xss stored in https://your store.myshopify.com/admin/ | [Shopify](../by-program/shopify.md) | Low | $1,000 | 46 |
-| 60 | [251224](../reports/251224.md) | Blind stored xss [parcel.grab.com] > name parameter  | [Grab](../by-program/grab.md) | Critical | $750 | 50 |
-| 61 | [303730](../reports/303730.md) | Defacement of catalog.data.gov via web cache poisoning to stored  | [GSA Bounty](../by-program/gsa_bbp.md) | High — CVSS 8.6 | $750 | 91 |
-| 62 | [1436558](../reports/1436558.md) | Universal XSS with Playlist feature | [Brave Software](../by-program/brave.md) | High — CVSS 8.3 | $750 | 27 |
-| 63 | [351171](../reports/351171.md) | Stored XXS @ https://steamcommunity.com/search/users/#text= via P | [Valve](../by-program/valve.md) | Medium — CVSS 5.5 | $750 | 40 |
-| 64 | [503298](../reports/503298.md) | Multiple XSS on account settings that can hijack any users in the | [X / xAI](../by-program/x.md) | Critical | $700 | 73 |
-| 65 | [485748](../reports/485748.md) | Stored XSS on reports. | [X / xAI](../by-program/x.md) | High | $700 | 230 |
-| 66 | [1073571](../reports/1073571.md) | XSS в обработчике ссылок | [VK.com](../by-program/vkcom.md) | Medium | $700 | 12 |
-| 67 | [324194](../reports/324194.md) | Blind stored xss in demo form | [Upserve ](../by-program/upserve.md) | High | $500 | 25 |
-| 68 | [283539](../reports/283539.md) | Stored xss в /lead_forms_app.php | [VK.com](../by-program/vkcom.md) | High | $500 | 19 |
-| 69 | [274112](../reports/274112.md) | Хранимая XSS в функционале добавления аудио в WYSIWYG | [VK.com](../by-program/vkcom.md) | High | $500 | 11 |
-| 70 | [961046](../reports/961046.md) | Stored XSS in backup scanning plan name | [Acronis](../by-program/acronis.md) | Medium | $500 | 120 |
-| 71 | [1669764](../reports/1669764.md) | Stored XSS in messages | [SideFX](../by-program/sidefx.md) | Medium — CVSS 6.3 | $500 | 110 |
-| 72 | [1376672](../reports/1376672.md) | Stored XSS in Email Templates via link | [Judge.me ](../by-program/judgeme.md) | Medium — CVSS 6.8 | $500 | 80 |
-| 73 | [1064095](../reports/1064095.md) | Stored XSS in Acronis Cyber Protect Console | [Acronis](../by-program/acronis.md) | Medium | $500 | 63 |
-| 74 | [267177](../reports/267177.md) | stored xss in invited team member via email parameter | [Shopify](../by-program/shopify.md) | Medium — CVSS 6.4 | $500 | 16 |
-| 75 | [949513](../reports/949513.md) | XSS by file (Active Storage `Proxying`) | [Ruby on Rails](../by-program/rails.md) | Medium | $500 | 3 |
-| 76 | [756729](../reports/756729.md) | Stored XSS in Shopify Chat  | [Shopify](../by-program/shopify.md) | Low — CVSS 2.3 | $500 | 105 |
-| 77 | [1433125](../reports/1433125.md) | Cross site scripting via file upload in subdomain ads.tiktok.com | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.1 | $500 | 64 |
-| 78 | [591786](../reports/591786.md) | XSS on services.shopify.com | [Shopify](../by-program/shopify.md) | Low | $500 | 43 |
-| 79 | [397088](../reports/397088.md) | Stored XSS on buy button | [Shopify](../by-program/shopify.md) | Low | $500 | 39 |
-| 80 | [738072](../reports/738072.md) | XSS on product comments in transfers | [Shopify](../by-program/shopify.md) | Low | $500 | 35 |
-| 81 | [1101500](../reports/1101500.md) | Stored XSS при удалении группы из беседы (m.vk.com) | [VK.com](../by-program/vkcom.md) | Low | $500 | 32 |
-| 82 | [2677187](../reports/2677187.md) | CVE-2024-41937: Apache Airflow: Stored XSS Vulnerability on provi | [Internet Bug Bounty](../by-program/ibb.md) | Low | $497 | 70 |
-| 83 | [429298](../reports/429298.md) | Stored XSS in chat topic due to insecure emoticon parsing on any  | [Chaturbate](../by-program/chaturbate.md) | Medium | $450 | 33 |
-| 84 | [314126](../reports/314126.md) | Blind XSS - Report review - Admin panel | [Eternal](../by-program/eternal.md) | Medium | $350 | 41 |
-| 85 | [632017](../reports/632017.md) | Self-Stored XSS - Chained with login/logout CSRF | [Eternal](../by-program/eternal.md) | Medium | $300 | 31 |
-| 86 | [615840](../reports/615840.md) | Blind Stored XSS In  "Report a Problem" on www.data.gov/issue/ | [GSA Bounty](../by-program/gsa_bbp.md) | Medium — CVSS 4.2 | $300 | 21 |
-| 87 | [2051085](../reports/2051085.md) | Stored XSS on promo.indrive.com | [inDrive](../by-program/indrive.md) | Medium | $284 | 45 |
-| 88 | [394016](../reports/394016.md) | Web Cache Deception Attack (XSS) | [Discourse](../by-program/discourse.md) | High | $256 | 49 |
-| 89 | [333507](../reports/333507.md) | Stored XSS in "post last edited" option | [Discourse](../by-program/discourse.md) | High — CVSS 8.2 | $256 | 19 |
-| 90 | [2956266](../reports/2956266.md) | Stored XSS via SMTP Error Message | [XVIDEOS](../by-program/xvideos.md) | Low | $250 | 84 |
-| 91 | [1398285](../reports/1398285.md) | Stored XSS in Public Profile Reviews | [Judge.me ](../by-program/judgeme.md) | None | $250 | 25 |
-| 92 | [1532858](../reports/1532858.md) | Cross-site scripting on dashboard2.omise.co | [Omise](../by-program/omise.md) | Critical | $200 | 13 |
-| 93 | [1028820](../reports/1028820.md) | Blind Stored XSS in https://partners.acronis.com/admin which lead | [Acronis](../by-program/acronis.md) | High | $150 | 33 |
-| 94 | [662204](../reports/662204.md) | Persistent XSS via filename in projects | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.1 | $150 | 23 |
-| 95 | [575562](../reports/575562.md) | Blind Stored XSS on iOS App due to Unsanitized Webview | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.8 | $100 | 28 |
-| 96 | [1639919](../reports/1639919.md) | Stored XSS Via Filename On https://partners.line.me/ | [LY Corporation](../by-program/line.md) | Low | $100 | 25 |
-| 97 | [894876](../reports/894876.md) | XSS through image upload of contacts using svg file | [Nextcloud](../by-program/nextcloud.md) | Low | $100 | 22 |
-| 98 | [425048](../reports/425048.md) | Stored XSS on chaturbate.com (wish list) | [Chaturbate](../by-program/chaturbate.md) | Low | $100 | 18 |
-| 99 | [1084183](../reports/1084183.md) | Stored XSS in profile page | [Acronis](../by-program/acronis.md) | Medium | $50 | 45 |
-| 100 | [961226](../reports/961226.md) | XSS in (Support Requests) : User Cases | [Acronis](../by-program/acronis.md) | Medium | $50 | 30 |
-| 101 | [1761505](../reports/1761505.md) | Self-XSS on Suggest Tag dialog box | [XVIDEOS](../by-program/xvideos.md) | Low | $50 | 15 |
-| 102 | [487081](../reports/487081.md) | Stored XSS in Private Message component (BuddyPress) | [WordPress](../by-program/wordpress.md) | Critical | — | 336 |
-| 103 | [1369674](../reports/1369674.md) | Blind XSS on Twitter's internal Jira panel at ████ allows exfiltr | [X / xAI](../by-program/x.md) | Critical | — | 97 |
-| 104 | [219957](../reports/219957.md) | XSS via /api/v1/chat.postMessage  | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 9.9 | — | 73 |
-| 105 | [472470](../reports/472470.md) | [manage.jumpbikes.com] Blind XSS on Jump admin panel via user nam | [Uber](../by-program/uber.md) | Critical | — | 54 |
-| 106 | [302253](../reports/302253.md) | Очень жесткая XSS в личных сообщениях m.ok.ru | [ok.ru](../by-program/ok.md) | Critical | — | 40 |
-| 107 | [735638](../reports/735638.md) | Account takeover via XSS | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 9.0 | — | 39 |
-| 108 | [1051369](../reports/1051369.md) | Blind Stored XSS Payload fired at the backend on https://████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 33 |
-| 109 | [375886](../reports/375886.md) | XSS-уязвимость, связанная с загрузкой файлов | [VK.com](../by-program/vkcom.md) | Critical | — | 30 |
-| 110 | [316946](../reports/316946.md) | новенькое (старенькое upgreid) хакерство: делаем демократию во вс | [VK.com](../by-program/vkcom.md) | Critical | — | 15 |
-| 111 | [1110243](../reports/1110243.md) | Blind Stored XSS on ███████  leads to takeover admin account | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 12 |
-| 112 | [309648](../reports/309648.md) | [simplehttpserver] Stored XSS in file names leads to malicious Ja | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.6 | — | 8 |
-| 113 | [309367](../reports/309367.md) | [metascraper] Stored XSS in Open Graph meta properties read by me | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.6 | — | 7 |
-| 114 | [282909](../reports/282909.md) | Report Design Critical Stored DOM XSS Vulnerability  | [Infogram](../by-program/infogram.md) | Critical | — | 5 |
-| 115 | [526325](../reports/526325.md) | Stored XSS in Wiki pages | [GitLab](../by-program/gitlab.md) | High | — | 619 |
-| 116 | [643908](../reports/643908.md) | Stored XSS Vulnerability | [WordPress](../by-program/wordpress.md) | High | — | 402 |
-| 117 | [733248](../reports/733248.md) | Stored XSS in wordpress.com | [Automattic](../by-program/automattic.md) | High | — | 355 |
-| 118 | [946053](../reports/946053.md) | Stored XSS in my staff name fired in another your internal panel | [Shopify](../by-program/shopify.md) | High — CVSS 8.3 | — | 324 |
-| 119 | [534450](../reports/534450.md) | Account takeover through the combination of cookie manipulation a | [Superhuman (formerly Grammarly)](../by-program/superhuman.md) | High — CVSS 8.2 | — | 288 |
-| 120 | [411690](../reports/411690.md) | Stored xss in address field in billing activity at https://shop.a | [Alliance of American Football ](../by-program/aaf.md) | High | — | 244 |
-| 121 | [1504410](../reports/1504410.md) | XSS via Mod Log Removed Posts | [Reddit](../by-program/reddit.md) | High — CVSS 7.5 | — | 216 |
-| 122 | [1665658](../reports/1665658.md) | Stored-XSS with CSP-bypass via labels' color | [GitLab](../by-program/gitlab.md) | High — CVSS 8.7 | — | 169 |
-| 123 | [2974307](../reports/2974307.md) | Stored XSS via Post Tittle Enabling Non-Privileged User to Privil | [Autodesk](../by-program/autodesk.md) | High | — | 139 |
-| 124 | [1760213](../reports/1760213.md) | Cache Poisoning Allows Stored XSS Via hav Cookie Parameter (To Ac | [Expedia Group Bug Bounty](../by-program/expediagroup_bbp.md) | High — CVSS 8.2 | — | 116 |
-| 125 | [3115705](../reports/3115705.md) | Stored XSS in File Upload Leads to Privilege Escalation and Full  | [Dust](../by-program/dust.md) | High — CVSS 8.7 | — | 115 |
-| 126 | [1392262](../reports/1392262.md) | Stored XSS via LINK Name. | [Insightly](../by-program/insightly.md) | High | — | 103 |
-| 127 | [1693150](../reports/1693150.md) | Bypass: Stored-XSS with CSP-bypass via scoped labels' color | [GitLab](../by-program/gitlab.md) | High — CVSS 8.7 | — | 95 |
-| 128 | [509930](../reports/509930.md) | Potential unprivileged Stored XSS through wp_targeted_link_rel | [WordPress](../by-program/wordpress.md) | High | — | 80 |
-| 129 | [974271](../reports/974271.md) | Stored XSS on https://app.crowdsignal.com/surveys/[Survey-Id]/que | [Automattic](../by-program/automattic.md) | High | — | 78 |
-| 130 | [423797](../reports/423797.md) | Passive stored XSS at broadcast room | [Chaturbate](../by-program/chaturbate.md) | High — CVSS 8.9 | — | 74 |
-| 131 | [3008066](../reports/3008066.md) | Stored XSS in AREA tutorials | [Autodesk](../by-program/autodesk.md) | High — CVSS 8.6 | — | 73 |
-| 132 | [2257080](../reports/2257080.md) | Stored-XSS injected in Wiki page via Banzai pipeline | [GitLab](../by-program/gitlab.md) | High — CVSS 8.7 | — | 71 |
-| 133 | [667188](../reports/667188.md) | Stored Self XSS on https://app.crowdsignal.com (in Photo Insert A | [Automattic](../by-program/automattic.md) | High | — | 68 |
-| 134 | [275518](../reports/275518.md) | Blind XSS in Mobpub Marketplace Admin Production | Sentry via dem | [X / xAI](../by-program/x.md) | High | — | 63 |
-| 135 | [765679](../reports/765679.md) | Stored XSS on upload files leads to steal cookie | [Palo Alto Software](../by-program/palo_alto_software.md) | High | — | 59 |
-| 136 | [1339034](../reports/1339034.md) | Blind XSS via Feedback form. | [Judge.me ](../by-program/judgeme.md) | High — CVSS 8.0 | — | 57 |
-| 137 | [3423950](../reports/3423950.md) | [Variation of #3321406] YetAnother 1-Click Chaining of Self-XSS,  | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | High | — | 56 |
-| 138 | [1039750](../reports/1039750.md) | Stored XSS in Intense Debate comment system | [Automattic](../by-program/automattic.md) | High — CVSS 8.2 | — | 52 |
-| 139 | [1054526](../reports/1054526.md) | Stored XSS in wordpress.com | [Automattic](../by-program/automattic.md) | High | — | 48 |
-| 140 | [530499](../reports/530499.md) | WooCommerce: Persistent XSS via customer address (state/county) | [Automattic](../by-program/automattic.md) | High | — | 40 |
-| 141 | [2234564](../reports/2234564.md) | Client Side Template Injection to Stored XSS in Image Collection | [Mars](../by-program/mars.md) | High — CVSS 7.3 | — | 38 |
-| 142 | [333008](../reports/333008.md) | Persistent XSS in https://sandbox.reverb.com/item/ | [Reverb.com](../by-program/reverb.md) | High | — | 36 |
-| 143 | [950190](../reports/950190.md) | Store-XSS in error message of build-dependencies  | [GitLab](../by-program/gitlab.md) | High | — | 35 |
-| 144 | [977697](../reports/977697.md) | Stored-XSS in merge requests | [GitLab](../by-program/gitlab.md) | High | — | 33 |
-| 145 | [2372332](../reports/2372332.md) | Multiple XSS and open HTTP redirection | [ExpressionEngine](../by-program/expressionengine.md) | High — CVSS 8.8 | — | 29 |
-| 146 | [684268](../reports/684268.md) | Stored XSS for Grafana dashboard URL | [GitLab](../by-program/gitlab.md) | High | — | 21 |
-| 147 | [413077](../reports/413077.md) | Stored Cross Site Scripting. | [8x8](../by-program/8x8-bounty.md) | High | — | 20 |
-| 148 | [430029](../reports/430029.md) | Stored XSS in infogram.com via language  | [Infogram](../by-program/infogram.md) | High | — | 20 |
-| 149 | [218226](../reports/218226.md) | Stored XSS in comments on https://www.starbucks.co.uk/blog/* | [Starbucks](../by-program/starbucks.md) | High — CVSS 7.3 | — | 19 |
-| 150 | [878145](../reports/878145.md) | Blind stored XSS due to insecure contact form at https://www.topc | [Lab45](../by-program/lab45.md) | High | — | 19 |
-| 151 | [409380](../reports/409380.md) | Stored XSS in merge request pages | [GitLab](../by-program/gitlab.md) | High | — | 18 |
-| 152 | [218872](../reports/218872.md) | Stored XSS on Files overview by abusing git submodule URL | [GitLab](../by-program/gitlab.md) | High — CVSS 8.7 | — | 17 |
-| 153 | [384255](../reports/384255.md) | Stored XSS on Issue details page | [GitLab](../by-program/gitlab.md) | High | — | 16 |
-| 154 | [2031855](../reports/2031855.md) | XSS with Visual Language Editor tags | [Invision Power Services, Inc.](../by-program/ips.md) | High | — | 15 |
-| 155 | [1011888](../reports/1011888.md) | Improper Sanitization leads to XSS Fire on admin panel | [Informatica](../by-program/informatica.md) | High | — | 15 |
-| 156 | [1620247](../reports/1620247.md) | Stored XSS at https://█████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 13 |
-| 157 | [633231](../reports/633231.md) | pre-auth Stored XSS in comments via javascript: url when administ | [WordPress](../by-program/wordpress.md) | High | — | 12 |
-| 158 | [1379400](../reports/1379400.md) | XSS in various MessageTypes | [Rocket.Chat](../by-program/rocket_chat.md) | High — CVSS 8.3 | — | 12 |
-| 159 | [779908](../reports/779908.md) | Stored-Xss at connect.topcoder.com/projects/ affected on project  | [Lab45](../by-program/lab45.md) | High | — | 11 |
-| 160 | [250837](../reports/250837.md) | Stored xss via template injection | [WordPress](../by-program/wordpress.md) | High | — | 11 |
-| 161 | [329862](../reports/329862.md) | Stored xss in shop name @ lp.reverb.com | [Reverb.com](../by-program/reverb.md) | High | — | 10 |
-| 162 | [294048](../reports/294048.md) | Stored XSS => community.ubnt.com  | [Ubiquiti Inc.](../by-program/ui.md) | High | — | 9 |
-| 163 | [244902](../reports/244902.md) | XSS through document projects | [Khan Academy](../by-program/khanacademy.md) | High | — | 9 |
-| 164 | [247517](../reports/247517.md) | Stored XSS in Private Messages 'Reply' allows to execute maliciou | [Concrete CMS](../by-program/concretecms.md) | High | — | 8 |
-| 165 | [915073](../reports/915073.md) | Stored XSS via Comment Form at ████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 8 |
-| 166 | [346111](../reports/346111.md) | XSS (Persistent) - Selecting role(s) for protected branches | [GitLab](../by-program/gitlab.md) | High | — | 8 |
-| 167 | [349146](../reports/349146.md) | Stored XSS in Node-Red | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 7 |
-| 168 | [1245787](../reports/1245787.md) | [Swiftype] - Stored XSS via document field `url` triggers on `htt | [Elastic](../by-program/elastic.md) | High — CVSS 8.0 | — | 7 |
-| 169 | [277259](../reports/277259.md) | [marketplace.informatica.com] - Stored XSS | [Informatica](../by-program/informatica.md) | High | — | 6 |
-| 170 | [866815](../reports/866815.md) | Stored XSS on https://apps.topcoder.com/wiki/plugins/socialbookma | [Lab45](../by-program/lab45.md) | High — CVSS 7.1 | — | 6 |
-| 171 | [1081994](../reports/1081994.md) | Stored XSS at https://www.█████████.mil | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 6 |
-| 172 | [901377](../reports/901377.md) | Stored XSS at ██████userprofile.aspx | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 6 |
-| 173 | [309641](../reports/309641.md) | [simple-server] HTML with iframe element can be used as filename, | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.7 | — | 6 |
-| 174 | [273960](../reports/273960.md) | Хранимая XSS на странице "Виджет для авторизации" | [VK.com](../by-program/vkcom.md) | High | — | 6 |
-| 175 | [216822](../reports/216822.md) | Stored XSS via transloadit.com and imageproxy | [Coursera](../by-program/coursera.md) | High — CVSS 7.2 | — | 5 |
-| 176 | [858874](../reports/858874.md) | Stored XSS in TSVB Visualizations Markdown Panel | [Elastic](../by-program/elastic.md) | High | — | 5 |
-| 177 | [1132202](../reports/1132202.md) | Post-Auth Stored XSS with User Interaction leads to Remote Code E | [Rocket.Chat](../by-program/rocket_chat.md) | High — CVSS 8.0 | — | 5 |
-| 178 | [418271](../reports/418271.md) | Stored XSS agent_status  | [8x8](../by-program/8x8-bounty.md) | High | — | 4 |
-| 179 | [1072616](../reports/1072616.md) | Stored XSS through name / last name on https://██████████/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 4 |
-| 180 | [1631447](../reports/1631447.md) | STORED XSS in █████████/nlc/login.aspx via "edit" GET parameter t | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High — CVSS 8.2 | — | 2 |
-| 181 | [507303](../reports/507303.md) | [file-browser] Inadequate Output Encoding and Escaping  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 1 |
-| 182 | [484434](../reports/484434.md) | Stored XSS on imgur profile | [Imgur](../by-program/imgur.md) | Medium | — | 608 |
-| 183 | [220852](../reports/220852.md) | XSS STORED AT socialclub.rockstargames.com (add friend request fr | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 193 |
-| 184 | [1173040](../reports/1173040.md) | Stored XSS in IE11 on hackerone.com via custom fields  | [HackerOne](../by-program/security.md) | Medium — CVSS 4.8 | — | 146 |
-| 185 | [2971572](../reports/2971572.md) | Stored Cross-Site Scripting found in custom integration app on ht | [Autodesk](../by-program/autodesk.md) | Medium — CVSS 4.1 | — | 127 |
-| 186 | [1598347](../reports/1598347.md) | Stored XSS on www.hackerone.com due to deleted S3-bucket from old | [HackerOne](../by-program/security.md) | Medium — CVSS 5.5 | — | 122 |
-| 187 | [707720](../reports/707720.md) | Stored XSS vulnerability in comments on *.wordpress.com | [Automattic](../by-program/automattic.md) | Medium — CVSS 4.7 | — | 118 |
-| 188 | [882733](../reports/882733.md) | Insecure file upload in xiaoai.mi.com Lead to Stored  XSS | [Xiaomi](../by-program/xiaomi.md) | Medium | — | 117 |
-| 189 | [1597271](../reports/1597271.md) | Stored XSS in Email Notifcation  | [Insightly](../by-program/insightly.md) | Medium — CVSS 5.7 | — | 96 |
-| 190 | [920005](../reports/920005.md) | Stored XSS on app.crowdsignal.com + your-subdomain.survey.fm via  | [Automattic](../by-program/automattic.md) | Medium | — | 95 |
-| 191 | [3045455](../reports/3045455.md) | Reflected XSS Vulnerability in SVG File at area-resources-stg.aut | [Autodesk](../by-program/autodesk.md) | Medium | — | 93 |
-| 192 | [880099](../reports/880099.md) | Unrestricted file upload leads to Stored XSS | [GitLab](../by-program/gitlab.md) | Medium | — | 87 |
-| 193 | [297968](../reports/297968.md) | Persistent DOM-based XSS in https://help.twitter.com via localSto | [X / xAI](../by-program/x.md) | Medium | — | 84 |
-| 194 | [1095934](../reports/1095934.md) | Stored XSS via Angular Expression injection via Subject while sta | [FetLife](../by-program/fetlife.md) | Medium | — | 82 |
-| 195 | [988272](../reports/988272.md) | stored XSS in hey.com message content | [Basecamp](../by-program/basecamp.md) | Medium | — | 80 |
-| 196 | [1376961](../reports/1376961.md) | Cross-site Scripting (XSS) - Stored on ads.tiktok.com in Text  fi | [TikTok](../by-program/tiktok.md) | Medium — CVSS 5.4 | — | 75 |
-| 197 | [1103298](../reports/1103298.md) | Blind Stored XSS in shopify internal Parquet Viewer | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.6 | — | 73 |
-| 198 | [1122513](../reports/1122513.md) | Stored Cross-site Scripting on devicelock.com/forum/ | [Acronis](../by-program/acronis.md) | Medium | — | 65 |
-| 199 | [942859](../reports/942859.md) | Stored XSS in Post title (PoC) | [Imgur](../by-program/imgur.md) | Medium | — | 63 |
-| 200 | [2012636](../reports/2012636.md) | Stored XSS on wordpress.com | [Automattic](../by-program/automattic.md) | Medium | — | 60 |
-| 201 | [1087061](../reports/1087061.md) | Stored-XSS on wiki pages | [GitLab](../by-program/gitlab.md) | Medium — CVSS 5.4 | — | 59 |
-| 202 | [1005355](../reports/1005355.md) | Unrestricted File Upload Results in Cross-Site Scripting Attacks | [Uber](../by-program/uber.md) | Medium — CVSS 4.7 | — | 57 |
-| 203 | [1537149](../reports/1537149.md) | XSS and HTML Injection on the pressable.com search box | [Automattic](../by-program/automattic.md) | Medium | — | 56 |
-| 204 | [1441988](../reports/1441988.md) | Stored XSS at https://linkpop.com | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.2 | — | 52 |
-| 205 | [382625](../reports/382625.md) | Stored XSS in '' Section and WAF Bypass | [Semrush](../by-program/semrush.md) | Medium — CVSS 6.5 | — | 49 |
-| 206 | [402753](../reports/402753.md) | Stored XSS in Jetpack's Simple Payment Module by Contributors / A | [Automattic](../by-program/automattic.md) | Medium | — | 41 |
-| 207 | [806571](../reports/806571.md) | Stored XSS in blob viewer | [GitLab](../by-program/gitlab.md) | Medium | — | 37 |
-| 208 | [439912](../reports/439912.md) | Stored XSS on demo app link  | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.2 | — | 37 |
-| 209 | [507957](../reports/507957.md) | Stored XSS on www.starbucks.com.sg/careers/career-center/career-l | [Starbucks](../by-program/starbucks.md) | Medium — CVSS 6.5 | — | 37 |
-| 210 | [3594137](../reports/3594137.md) | Stored XSS in attachment-display exploitable through SameSite | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.7 | — | 36 |
-| 211 | [263876](../reports/263876.md) | Stored XSS Deleting Menu Links in the Shopify Admin | [Shopify](../by-program/shopify.md) | Medium — CVSS 6.4 | — | 35 |
-| 212 | [380045](../reports/380045.md) | Stored XSS in the guide's GameplayVersion (www.dota2.com) | [Valve](../by-program/valve.md) | Medium — CVSS 6.4 | — | 34 |
-| 213 | [1842822](../reports/1842822.md) | Stored XSS on app.crowdsignal.com  your-subdomain.crowdsignal.net | [Automattic](../by-program/automattic.md) | Medium | — | 34 |
-| 214 | [2389565](../reports/2389565.md) | Action Text XSS (Rails 7.1.x) | [Ruby on Rails](../by-program/rails.md) | Medium | — | 33 |
-| 215 | [435618](../reports/435618.md) | Kaspersky Password Manager is vulnerable to HTML injection in the | [Kaspersky](../by-program/kaspersky.md) | Medium | — | 32 |
-| 216 | [1987172](../reports/1987172.md) | Stored XSS on  wordpress.com | [Automattic](../by-program/automattic.md) | Medium | — | 32 |
-| 217 | [495583](../reports/495583.md) | [FG-VD-19-022] Wordpress WooCommerce Cross-Site Scripting Vulnera | [Automattic](../by-program/automattic.md) | Medium — CVSS 6.0 | — | 30 |
-| 218 | [953791](../reports/953791.md) | Stored XSS in Satisfaction Surveys via "Ask Reason for Dissatisfa | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 4.9 | — | 29 |
-| 219 | [1011093](../reports/1011093.md) | XSS Stored in Cacheable  response | [Acronis](../by-program/acronis.md) | Medium | — | 28 |
-| 220 | [532643](../reports/532643.md) | Stored - XSS | [Shopify](../by-program/shopify.md) | Medium | — | 27 |
-| 221 | [1107726](../reports/1107726.md) | Stored XSS on apps.shopify.com | [Shopify](../by-program/shopify.md) | Medium | — | 26 |
-| 222 | [919859](../reports/919859.md) | stored xss in app.lemlist.com | [lemlist](../by-program/lemlist.md) | Medium | — | 26 |
-| 223 | [1065964](../reports/1065964.md) | Stored XSS in the banner block description | [Stripo Inc](../by-program/stripo.md) | Medium | — | 25 |
-| 224 | [881918](../reports/881918.md) | Authenticated Stored Cross-site Scripting in bbPress | [WordPress](../by-program/wordpress.md) | Medium | — | 24 |
-| 225 | [797754](../reports/797754.md) | Stored XSS in Application menu via Home Page Url | [Ping Identity](../by-program/pingidentity.md) | Medium — CVSS 5.7 | — | 24 |
-| 226 | [1126433](../reports/1126433.md) | Stored XSS at Module Name | [Stripo Inc](../by-program/stripo.md) | Medium | — | 23 |
-| 227 | [1940788](../reports/1940788.md) | Stored XSS in plan name field (Acronis Cyber Protect) | [Acronis](../by-program/acronis.md) | Medium — CVSS 5.5 | — | 22 |
-| 228 | [423454](../reports/423454.md) | H1514 Stored XSS on Wholesale sales channel allows cross-organiza | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.4 | — | 21 |
-| 229 | [420459](../reports/420459.md) | H1514 Stored XSS in Return Magic App portal content | [Shopify](../by-program/shopify.md) | Medium | — | 21 |
-| 230 | [642281](../reports/642281.md) | Stored XSS in https://app.mopub.com | [X / xAI](../by-program/x.md) | Medium | — | 21 |
-| 231 | [460911](../reports/460911.md) | [FG-VD-18-165] Wordpress Cross-Site Scripting Vulnerability Notif | [WordPress](../by-program/wordpress.md) | Medium — CVSS 6.4 | — | 20 |
-| 232 | [665302](../reports/665302.md) | [seeftl] Stored XSS when directory listing via filename. | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 4.4 | — | 20 |
-| 233 | [270999](../reports/270999.md) | [Markdown] Stored XSS via character encoding parser bypass | [GitLab](../by-program/gitlab.md) | Medium | — | 20 |
-| 234 | [1092678](../reports/1092678.md) | Self stored Xss + Login Csrf | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 20 |
-| 235 | [1161241](../reports/1161241.md) | Cross-site Scripting (XSS) - Stored | forum.acronis.com | [Acronis](../by-program/acronis.md) | Medium | — | 20 |
-| 236 | [263191](../reports/263191.md) | Stored XSS with CRLF injection via post message to user feed | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 19 |
-| 237 | [1331281](../reports/1331281.md) | Stored XSS on 1.4.0 | [ImpressCMS](../by-program/impresscms.md) | Medium — CVSS 4.8 | — | 19 |
-| 238 | [827606](../reports/827606.md) | Stored XSS in files.slack.com | [Slack](../by-program/slack.md) | Medium — CVSS 5.0 | — | 18 |
-| 239 | [272997](../reports/272997.md) | Stored XSS via Send crew invite | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 18 |
-| 240 | [971857](../reports/971857.md) | Stored xss on helpdesk using user's city | [Lark Technologies](../by-program/lark_technologies.md) | Medium | — | 18 |
-| 241 | [271007](../reports/271007.md) | [app.simplenote.com] Stored XSS via Markdown SVG filter bypass | [Automattic](../by-program/automattic.md) | Medium | — | 16 |
-| 242 | [1595905](../reports/1595905.md) | XSS in Widget Review Form Preview in settings | [Judge.me ](../by-program/judgeme.md) | Medium — CVSS 4.8 | — | 16 |
-| 243 | [1921606](../reports/1921606.md) | Stored XSS via ' profile ' at ███ | [Mars](../by-program/mars.md) | Medium — CVSS 6.2 | — | 16 |
-| 244 | [245172](../reports/245172.md) | Double Stored Cross-Site scripting in the admin panel | [GSA Bounty](../by-program/gsa_bbp.md) | Medium | — | 15 |
-| 245 | [220903](../reports/220903.md) | Authenticated Cross-site Scripting in Template Name | [WordPress](../by-program/wordpress.md) | Medium — CVSS 6.1 | — | 15 |
-| 246 | [1425882](../reports/1425882.md) | stored XSS on AliExpress Review Importer/Products when delete pro | [Judge.me ](../by-program/judgeme.md) | Medium | — | 15 |
-| 247 | [1164853](../reports/1164853.md) | Stored Cross Site Scripting at http://www.grouplogic.com/ADMIN/st | [Acronis](../by-program/acronis.md) | Medium — CVSS 5.8 | — | 15 |
-| 248 | [241008](../reports/241008.md) | Stored XSS in *.myshopify.com | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.4 | — | 13 |
-| 249 | [497724](../reports/497724.md) | Stored XSS in Post Preview as Contributor | [WordPress](../by-program/wordpress.md) | Medium | — | 13 |
-| 250 | [251043](../reports/251043.md) | Stored XSS at Moneybird | [Moneybird](../by-program/moneybird.md) | Medium | — | 13 |
-| 251 | [996371](../reports/996371.md) | Stored XSS at "Conditions "  through "My Custom Rule" Field at [h | [Stripo Inc](../by-program/stripo.md) | Medium | — | 13 |
-| 252 | [2037234](../reports/2037234.md) | Stored XSS + CSRF in "apellido" value | [Mars](../by-program/mars.md) | Medium | — | 12 |
-| 253 | [896511](../reports/896511.md) | XSS in image metadata field | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 12 |
-| 254 | [353334](../reports/353334.md) | Unfiltered input allows for XSS in "Playtime Item Grants" fields | [Valve](../by-program/valve.md) | Medium — CVSS 4.1 | — | 12 |
-| 255 | [230278](../reports/230278.md) | Stored XSS in Headline TextControl element in Express forms [ con | [Concrete CMS](../by-program/concretecms.md) | Medium | — | 12 |
-| 256 | [1083734](../reports/1083734.md) | Stored XSS on the "www.intensedebate.com/extras-widgets" url at " | [Automattic](../by-program/automattic.md) | Medium — CVSS 4.0 | — | 12 |
-| 257 | [1428207](../reports/1428207.md) | Stored XSS in Question edit for product name (bypass #1416672) | [Judge.me ](../by-program/judgeme.md) | Medium | — | 11 |
-| 258 | [282209](../reports/282209.md) | Stored XSS in the Custom Logo link (non-Basic plan required) | [Infogram](../by-program/infogram.md) | Medium | — | 11 |
-| 259 | [289085](../reports/289085.md) | Stored XSS on urbandictionary.com | [Urban Dictionary](../by-program/urbandictionary.md) | Medium | — | 11 |
-| 260 | [923679](../reports/923679.md) | stored xss via Campaign Name. | [lemlist](../by-program/lemlist.md) | Medium | — | 11 |
-| 261 | [998138](../reports/998138.md) | In orginization stored xss using location (Larksuite survey app) | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 5.4 | — | 11 |
-| 262 | [996237](../reports/996237.md) | Stored XSS on add project | [Moneybird](../by-program/moneybird.md) | Medium | — | 11 |
-| 263 | [237100](../reports/237100.md) | [app.mixmax.com] Stored XSS on Adding new enhancement. | [Mixmax](../by-program/mixmax.md) | Medium | — | 11 |
-| 264 | [384814](../reports/384814.md) | Stored XSS against all Chaturbate users using an application name | [Chaturbate](../by-program/chaturbate.md) | Medium — CVSS 6.3 | — | 10 |
-| 265 | [862882](../reports/862882.md) | XSS in redditmedia.com can compromise data of reddit.com | [Reddit](../by-program/reddit.md) | Medium | — | 10 |
-| 266 | [249759](../reports/249759.md) | Lack of Sanitization and Insufficient Authentication | [WordPress](../by-program/wordpress.md) | Medium | — | 10 |
-| 267 | [275386](../reports/275386.md) | Stored XSS Using Media | [Automattic](../by-program/automattic.md) | Medium | — | 10 |
-| 268 | [1102018](../reports/1102018.md) | Stored unauth XSS in calendar event via CSRF | [Concrete CMS](../by-program/concretecms.md) | Medium — CVSS 4.3 | — | 10 |
-| 269 | [1665648](../reports/1665648.md) | stored cross site scripting in https://████████.edu | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 9 |
-| 270 | [411063](../reports/411063.md) | Persistent XSS via malicious license file | [ExpressionEngine](../by-program/expressionengine.md) | Medium — CVSS 5.1 | — | 9 |
-| 271 | [230029](../reports/230029.md) | Stored XSS in Pages SEO dialog Name field (concrete5 8.1.0) | [Concrete CMS](../by-program/concretecms.md) | Medium | — | 9 |
-| 272 | [280495](../reports/280495.md) | Stored Cross-Site scripting in the infographics using links | [Infogram](../by-program/infogram.md) | Medium | — | 9 |
-| 273 | [293743](../reports/293743.md) | [public-api.wordpress.com] Stored XSS via Crafted Developer App D | [Automattic](../by-program/automattic.md) | Medium | — | 9 |
-| 274 | [351554](../reports/351554.md) | Persistent XSS - Deleting a project (No Longer Vulnerable in 10.7 | [GitLab](../by-program/gitlab.md) | Medium | — | 7 |
-| 275 | [287562](../reports/287562.md) | Stored XSS in content when Graph is created via API | [Infogram](../by-program/infogram.md) | Medium | — | 7 |
-| 276 | [1657020](../reports/1657020.md) | stored cross site scripting in https://███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
-| 277 | [403793](../reports/403793.md) | Stored 'undefined' Cross-site Scripting | [Khan Academy](../by-program/khanacademy.md) | Medium | — | 7 |
-| 278 | [384517](../reports/384517.md) | XSS (stored) Wizard is saving executable code | [Rocket.Chat](../by-program/rocket_chat.md) | Medium | — | 7 |
-| 279 | [472391](../reports/472391.md) | Stored XSS @ /engage/<project_slug> | [Weblate](../by-program/weblate.md) | Medium | — | 7 |
-| 280 | [1416672](../reports/1416672.md) | Stored XSS in Question edit from product name | [Judge.me ](../by-program/judgeme.md) | Medium — CVSS 5.7 | — | 7 |
-| 281 | [478957](../reports/478957.md) | Stored XSS/HTML injection in autocomplete suggestions for sharing | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.5 | — | 6 |
-| 282 | [403692](../reports/403692.md) | [tianma-static] Stored xss on filename | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.7 | — | 6 |
-| 283 | [287688](../reports/287688.md) | Stored XSS On Wordpress Infogram plugin | [Infogram](../by-program/infogram.md) | Medium | — | 6 |
-| 284 | [362735](../reports/362735.md) | Stored Cross Site Scripting | [Y Combinator](../by-program/ycombinator.md) | Medium | — | 6 |
-| 285 | [290794](../reports/290794.md) | Persistent XSS in share button | [Infogram](../by-program/infogram.md) | Medium | — | 6 |
-| 286 | [1657030](../reports/1657030.md) | stored cross site scripting in https://██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
-| 287 | [1660500](../reports/1660500.md) | stored cross site scripting in https://█████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
-| 288 | [1657006](../reports/1657006.md) | stored cross site scripting in https://███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
-| 289 | [3669623](../reports/3669623.md) | Stored XSS via Full Name field in userlog email entries | [Revive Adserver](../by-program/revive_adserver.md) | Medium — CVSS 5.4 | — | 5 |
-| 290 | [1321358](../reports/1321358.md) | XSS exploit of RDoc documentation generated by rdoc | [Ruby](../by-program/ruby.md) | Medium | — | 5 |
-| 291 | [358641](../reports/358641.md) | [serve] Stored XSS in the filename when directories listing | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.5 | — | 4 |
-| 292 | [301973](../reports/301973.md) | Airship: Persistent XSS via Comment | [Paragon Initiative Enterprises](../by-program/paragonie.md) | Medium | — | 4 |
-| 293 | [280865](../reports/280865.md) | Non Critical Code Quality Bug / Self XSS on Map Editor | [Infogram](../by-program/infogram.md) | Medium — CVSS 5.0 | — | 4 |
-| 294 | [289313](../reports/289313.md) | [gem server] Stored XSS via crafted JavaScript URL inclusion in G | [RubyGems](../by-program/rubygems.md) | Medium | — | 4 |
-| 295 | [681986](../reports/681986.md) | [node-red] Stored XSS within Flow's - "Name" field  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 4.6 | — | 3 |
-| 296 | [759131](../reports/759131.md) | Stored XSS in template comments. | [Stripo Inc](../by-program/stripo.md) | Medium | — | 3 |
-| 297 | [276105](../reports/276105.md) | Stored XSS in WordPress | [WordPress](../by-program/wordpress.md) | Medium | — | 3 |
-| 298 | [498852](../reports/498852.md) | XSS On Nextcloud Integrated with zimbra drive | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 3 |
-| 299 | [328210](../reports/328210.md) | [sexstatic] HTML injection in directory name(s) leads to Stored X | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.2 | — | 3 |
-| 300 | [694930](../reports/694930.md) | [snekserve] Stored XSS via filenames HTML formatted | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 3 |
-| 301 | [319794](../reports/319794.md) | [m-server] HTML Injection in filenames displayed as directory lis | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.0 | — | 3 |
-| 302 | [796487](../reports/796487.md) | [dy-server2] - stored Cross-Site Scripting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 4.2 | — | 1 |
-| 303 | [949823](../reports/949823.md) | XSS DI BIODATA | [Bumble](../by-program/bumble.md) | Medium | — | 0 |
-| 304 | [2306491](../reports/2306491.md) | Stored-XSS-ads.tiktok.com | [TikTok](../by-program/tiktok.md) | Low | — | 309 |
-| 305 | [592316](../reports/592316.md) | Stored XSS on byddypress Plug-in via groups name | [WordPress](../by-program/wordpress.md) | Low | — | 132 |
-| 306 | [564196](../reports/564196.md) | help.shopify.com Cross Site Scripting | [Shopify](../by-program/shopify.md) | Low | — | 71 |
-| 307 | [267570](../reports/267570.md) | Stored XSS through Facebook Page Connection | [Shopify](../by-program/shopify.md) | Low — CVSS 2.8 | — | 68 |
-| 308 | [1049012](../reports/1049012.md) | Stored XSS in [https://streamlabs.com/dashboard#/*goal] pages | [Logitech](../by-program/logitech.md) | Low — CVSS 3.4 | — | 67 |
-| 309 | [578138](../reports/578138.md) | [http_server] Stored XSS in the filename when directories listing | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 3.9 | — | 61 |
-| 310 | [1295497](../reports/1295497.md) | EC2 Takeover at turn.shopify.com | [Shopify](../by-program/shopify.md) | Low — CVSS 3.0 | — | 51 |
-| 311 | [968232](../reports/968232.md) | Stored XSS in collabora via user name | [Nextcloud](../by-program/nextcloud.md) | Low | — | 48 |
-| 312 | [1536046](../reports/1536046.md) | Stored XSS Payload when sending videos  | [TikTok](../by-program/tiktok.md) | Low | — | 44 |
-| 313 | [294505](../reports/294505.md) | Cross-site scripting in "Contact customer" form | [Shopify](../by-program/shopify.md) | Low — CVSS 3.4 | — | 32 |
-| 314 | [2210038](../reports/2210038.md) | HTML injection in search UI when selecting a circle with HTML in  | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 29 |
-| 315 | [437863](../reports/437863.md) | SVG file that HTML Included is able to upload via File Manager | [Concrete CMS](../by-program/concretecms.md) | Low | — | 26 |
-| 316 | [406289](../reports/406289.md) | Stored XSS on Broken Themes via filename | [WordPress](../by-program/wordpress.md) | Low | — | 23 |
-| 317 | [2111291](../reports/2111291.md) | Stored Xss on bugzilla.mozilla.org via comment edit feature from  | [Mozilla](../by-program/mozilla.md) | Low | — | 23 |
-| 318 | [753567](../reports/753567.md) | XSS in select attribute options | [Concrete CMS](../by-program/concretecms.md) | Low — CVSS 1.9 | — | 20 |
-| 319 | [1687410](../reports/1687410.md) | [user_oidc] Stored XSS via Authorization Endpoint - Safari-Only | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 19 |
-| 320 | [358001](../reports/358001.md) | HTML TAG INJECTION ON PROFILE NAME | [GitLab](../by-program/gitlab.md) | Low | — | 18 |
-| 321 | [275515](../reports/275515.md) | Stored XSS in dev-ucrm-billing-demo.ubnt.com In Client Custom Att | [Ubiquiti Inc.](../by-program/ui.md) | Low — CVSS 3.8 | — | 16 |
-| 322 | [786301](../reports/786301.md) | Stored XSS in Name of Team Member Invitation | [Localize](../by-program/localizejs.md) | Low | — | 15 |
-| 323 | [230232](../reports/230232.md) | Stored self-XSS in mercantile.wordpress.org checkout | [WordPress](../by-program/wordpress.md) | Low | — | 15 |
-| 324 | [271765](../reports/271765.md) | Stored XSS in partners dashboard | [Shopify](../by-program/shopify.md) | Low — CVSS 3.4 | — | 14 |
-| 325 | [1023787](../reports/1023787.md) | Stored XSS in markdown file with Nextcloud Talk using Internet Ex | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.0 | — | 13 |
-| 326 | [261138](../reports/261138.md) | Stored XSS in OAuth redirect URI  | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.4 | — | 13 |
-| 327 | [724153](../reports/724153.md) | XSS (leads to arbitrary file read in Rocket.Chat-Desktop) | [Rocket.Chat](../by-program/rocket_chat.md) | Low | — | 11 |
-| 328 | [1554888](../reports/1554888.md) |  Site information's Display Name section vulnerable for XSS attac | [Automattic](../by-program/automattic.md) | Low | — | 11 |
-| 329 | [1033882](../reports/1033882.md) | XSS stored in the Shopify Email app | [Shopify](../by-program/shopify.md) | Low — CVSS 2.6 | — | 10 |
-| 330 | [716570](../reports/716570.md) | Stored XSS (Hexo-admin plugin) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 2.7 | — | 9 |
-| 331 | [222224](../reports/222224.md) | Stored but [SELF] XSS in mercantile.wordpress.org | [WordPress](../by-program/wordpress.md) | Low | — | 8 |
-| 332 | [247521](../reports/247521.md) | Stored XSS in Name field in User Groups/Group Details form | [Concrete CMS](../by-program/concretecms.md) | Low | — | 7 |
-| 333 | [300532](../reports/300532.md) | Stored XSS on Add Event in Calendar | [Concrete CMS](../by-program/concretecms.md) | Low — CVSS 3.9 | — | 7 |
-| 334 | [251358](../reports/251358.md) | Stored XSS vulnerability in additional URLs in 'Location' dialog  | [Concrete CMS](../by-program/concretecms.md) | Low | — | 7 |
-| 335 | [300571](../reports/300571.md) | Stored XSS on Add Calendar | [Concrete CMS](../by-program/concretecms.md) | Low — CVSS 3.9 | — | 7 |
-| 336 | [316346](../reports/316346.md) | [public] Stored XSS in filenames in directory served by public | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 3.9 | — | 5 |
-| 337 | [223331](../reports/223331.md) | [demo.weblate.org] Stored Self-XSS via Editor Link in Profile | [Weblate](../by-program/weblate.md) | Low | — | 4 |
-| 338 | [390728](../reports/390728.md) | Stored XSS on scan.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | Low | — | 4 |
-| 339 | [226203](../reports/226203.md) | Cross-site-Scripting | [Paragon Initiative Enterprises](../by-program/paragonie.md) | Low | — | 4 |
-| 340 | [928816](../reports/928816.md) | Stored XSS in app.lemlist.com | [lemlist](../by-program/lemlist.md) | Low | — | 3 |
-| 341 | [856588](../reports/856588.md) | [flsaba] Stored XSS in the file and directory name when directori | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 3.9 | — | 0 |
-| 342 | [243138](../reports/243138.md) | Improper parsing of input could lead to future XSS vulnerabilitie | [Mixmax](../by-program/mixmax.md) | Low | — | 0 |
-| 343 | [798599](../reports/798599.md) | xss stored | [Shopify](../by-program/shopify.md) | None | — | 75 |
-| 344 | [419731](../reports/419731.md) | [www.zomato.com] Blind XSS in one of the Admin Dashboard | [Eternal](../by-program/eternal.md) | None | — | 61 |
-| 345 | [1028332](../reports/1028332.md) | Stored XSS on https://events.hackerone.com | [HackerOne](../by-program/security.md) | None | — | 58 |
-| 346 | [869831](../reports/869831.md) | XSS within Shopify Email App - Admin | [Shopify](../by-program/shopify.md) | None | — | 50 |
-| 347 | [300270](../reports/300270.md) | Stored XSS in learnboost.com via the lesson[goals] parameter. | [Automattic](../by-program/automattic.md) | None | — | 21 |
-| 348 | [758002](../reports/758002.md) | Markdown parsing issue enables insertion of malicious tags | [Phabricator](../by-program/phabricator.md) | None | — | 20 |
-| 349 | [382666](../reports/382666.md) | Blind XSS in the rocket.chat registration email | [Rocket.Chat](../by-program/rocket_chat.md) | None | — | 18 |
-| 350 | [300812](../reports/300812.md) | Stored XSS in www.learnboost.com via ZIP codes. | [Automattic](../by-program/automattic.md) | None | — | 17 |
-| 351 | [238906](../reports/238906.md) | Stored XSS in Templates>Enahance>Social Badges | [Mixmax](../by-program/mixmax.md) | None | — | 7 |
-| 352 | [283825](../reports/283825.md) | Multiple xss on infogram templates | [Infogram](../by-program/infogram.md) | None | — | 6 |
-| 353 | [1241460](../reports/1241460.md) | ApiService#fetch serves content as text/html and inline Content-D | [Nextcloud](../by-program/nextcloud.md) | None | — | 6 |
-| 354 | [282535](../reports/282535.md) | XSS on Report Classic | [Infogram](../by-program/infogram.md) | None | — | 5 |
-| 355 | [221380](../reports/221380.md) | Stored XSS in RSS Feeds Title (Concrete5 v8.1.0) | [Concrete CMS](../by-program/concretecms.md) | None | — | 4 |
-| 356 | [1187156](../reports/1187156.md) | XSS in HTML generated by RDoc | [Ruby](../by-program/ruby.md) | None | — | 3 |
-| 357 | [3680090](../reports/3680090.md) | Stored XSS via malicious usernames in audit log details + Usernam | [Revive Adserver](../by-program/revive_adserver.md) | None | — | 2 |
+| 55 | [1647248](../reports/1647248.md) | Stored XSS Via Ads Account Name | [TikTok](../by-program/tiktok.md) | Medium — CVSS 4.1 | $1,000 | 46 |
+| 56 | [1694037](../reports/1694037.md) | Stored XSS in the ticketing system | [TikTok](../by-program/tiktok.md) | Medium | $1,000 | 46 |
+| 57 | [231444](../reports/231444.md) | Stored XSS in profile activity feed messages | [Rockstar Games](../by-program/rockstargames.md) | Medium | $1,000 | 44 |
+| 58 | [231389](../reports/231389.md) | Stored XSS in snapmatic comments | [Rockstar Games](../by-program/rockstargames.md) | Medium | $1,000 | 30 |
+| 59 | [265274](../reports/265274.md) | Stored XSS on support.rockstargames.com | [Rockstar Games](../by-program/rockstargames.md) | Medium — CVSS 5.6 | $1,000 | 11 |
+| 60 | [887879](../reports/887879.md) | xss stored in https://your store.myshopify.com/admin/ | [Shopify](../by-program/shopify.md) | Low | $1,000 | 46 |
+| 61 | [251224](../reports/251224.md) | Blind stored xss [parcel.grab.com] > name parameter  | [Grab](../by-program/grab.md) | Critical | $750 | 50 |
+| 62 | [303730](../reports/303730.md) | Defacement of catalog.data.gov via web cache poisoning to stored  | [GSA Bounty](../by-program/gsa_bbp.md) | High — CVSS 8.6 | $750 | 91 |
+| 63 | [1436558](../reports/1436558.md) | Universal XSS with Playlist feature | [Brave Software](../by-program/brave.md) | High — CVSS 8.3 | $750 | 27 |
+| 64 | [351171](../reports/351171.md) | Stored XXS @ https://steamcommunity.com/search/users/#text= via P | [Valve](../by-program/valve.md) | Medium — CVSS 5.5 | $750 | 40 |
+| 65 | [503298](../reports/503298.md) | Multiple XSS on account settings that can hijack any users in the | [X / xAI](../by-program/x.md) | Critical | $700 | 73 |
+| 66 | [485748](../reports/485748.md) | Stored XSS on reports. | [X / xAI](../by-program/x.md) | High | $700 | 230 |
+| 67 | [1073571](../reports/1073571.md) | XSS в обработчике ссылок | [VK.com](../by-program/vkcom.md) | Medium | $700 | 12 |
+| 68 | [324194](../reports/324194.md) | Blind stored xss in demo form | [Upserve ](../by-program/upserve.md) | High | $500 | 25 |
+| 69 | [283539](../reports/283539.md) | Stored xss в /lead_forms_app.php | [VK.com](../by-program/vkcom.md) | High | $500 | 19 |
+| 70 | [274112](../reports/274112.md) | Хранимая XSS в функционале добавления аудио в WYSIWYG | [VK.com](../by-program/vkcom.md) | High | $500 | 11 |
+| 71 | [961046](../reports/961046.md) | Stored XSS in backup scanning plan name | [Acronis](../by-program/acronis.md) | Medium | $500 | 120 |
+| 72 | [1669764](../reports/1669764.md) | Stored XSS in messages | [SideFX](../by-program/sidefx.md) | Medium — CVSS 6.3 | $500 | 110 |
+| 73 | [1376672](../reports/1376672.md) | Stored XSS in Email Templates via link | [Judge.me ](../by-program/judgeme.md) | Medium — CVSS 6.8 | $500 | 80 |
+| 74 | [1064095](../reports/1064095.md) | Stored XSS in Acronis Cyber Protect Console | [Acronis](../by-program/acronis.md) | Medium | $500 | 63 |
+| 75 | [267177](../reports/267177.md) | stored xss in invited team member via email parameter | [Shopify](../by-program/shopify.md) | Medium — CVSS 6.4 | $500 | 16 |
+| 76 | [949513](../reports/949513.md) | XSS by file (Active Storage `Proxying`) | [Ruby on Rails](../by-program/rails.md) | Medium | $500 | 3 |
+| 77 | [756729](../reports/756729.md) | Stored XSS in Shopify Chat  | [Shopify](../by-program/shopify.md) | Low — CVSS 2.3 | $500 | 105 |
+| 78 | [1433125](../reports/1433125.md) | Cross site scripting via file upload in subdomain ads.tiktok.com | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.1 | $500 | 64 |
+| 79 | [591786](../reports/591786.md) | XSS on services.shopify.com | [Shopify](../by-program/shopify.md) | Low | $500 | 43 |
+| 80 | [397088](../reports/397088.md) | Stored XSS on buy button | [Shopify](../by-program/shopify.md) | Low | $500 | 39 |
+| 81 | [738072](../reports/738072.md) | XSS on product comments in transfers | [Shopify](../by-program/shopify.md) | Low | $500 | 35 |
+| 82 | [1101500](../reports/1101500.md) | Stored XSS при удалении группы из беседы (m.vk.com) | [VK.com](../by-program/vkcom.md) | Low | $500 | 32 |
+| 83 | [2677187](../reports/2677187.md) | CVE-2024-41937: Apache Airflow: Stored XSS Vulnerability on provi | [Internet Bug Bounty](../by-program/ibb.md) | Low | $497 | 70 |
+| 84 | [429298](../reports/429298.md) | Stored XSS in chat topic due to insecure emoticon parsing on any  | [Chaturbate](../by-program/chaturbate.md) | Medium | $450 | 33 |
+| 85 | [314126](../reports/314126.md) | Blind XSS - Report review - Admin panel | [Eternal](../by-program/eternal.md) | Medium | $350 | 41 |
+| 86 | [632017](../reports/632017.md) | Self-Stored XSS - Chained with login/logout CSRF | [Eternal](../by-program/eternal.md) | Medium | $300 | 31 |
+| 87 | [615840](../reports/615840.md) | Blind Stored XSS In  "Report a Problem" on www.data.gov/issue/ | [GSA Bounty](../by-program/gsa_bbp.md) | Medium — CVSS 4.2 | $300 | 21 |
+| 88 | [2051085](../reports/2051085.md) | Stored XSS on promo.indrive.com | [inDrive](../by-program/indrive.md) | Medium | $284 | 45 |
+| 89 | [394016](../reports/394016.md) | Web Cache Deception Attack (XSS) | [Discourse](../by-program/discourse.md) | High | $256 | 49 |
+| 90 | [333507](../reports/333507.md) | Stored XSS in "post last edited" option | [Discourse](../by-program/discourse.md) | High — CVSS 8.2 | $256 | 19 |
+| 91 | [2956266](../reports/2956266.md) | Stored XSS via SMTP Error Message | [XVIDEOS](../by-program/xvideos.md) | Low | $250 | 84 |
+| 92 | [1398285](../reports/1398285.md) | Stored XSS in Public Profile Reviews | [Judge.me ](../by-program/judgeme.md) | None | $250 | 25 |
+| 93 | [1532858](../reports/1532858.md) | Cross-site scripting on dashboard2.omise.co | [Omise](../by-program/omise.md) | Critical | $200 | 13 |
+| 94 | [1028820](../reports/1028820.md) | Blind Stored XSS in https://partners.acronis.com/admin which lead | [Acronis](../by-program/acronis.md) | High | $150 | 33 |
+| 95 | [662204](../reports/662204.md) | Persistent XSS via filename in projects | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.1 | $150 | 23 |
+| 96 | [575562](../reports/575562.md) | Blind Stored XSS on iOS App due to Unsanitized Webview | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.8 | $100 | 28 |
+| 97 | [1639919](../reports/1639919.md) | Stored XSS Via Filename On https://partners.line.me/ | [LY Corporation](../by-program/line.md) | Low | $100 | 25 |
+| 98 | [894876](../reports/894876.md) | XSS through image upload of contacts using svg file | [Nextcloud](../by-program/nextcloud.md) | Low | $100 | 22 |
+| 99 | [425048](../reports/425048.md) | Stored XSS on chaturbate.com (wish list) | [Chaturbate](../by-program/chaturbate.md) | Low | $100 | 18 |
+| 100 | [1084183](../reports/1084183.md) | Stored XSS in profile page | [Acronis](../by-program/acronis.md) | Medium | $50 | 45 |
+| 101 | [961226](../reports/961226.md) | XSS in (Support Requests) : User Cases | [Acronis](../by-program/acronis.md) | Medium | $50 | 30 |
+| 102 | [1761505](../reports/1761505.md) | Self-XSS on Suggest Tag dialog box | [XVIDEOS](../by-program/xvideos.md) | Low | $50 | 15 |
+| 103 | [487081](../reports/487081.md) | Stored XSS in Private Message component (BuddyPress) | [WordPress](../by-program/wordpress.md) | Critical | — | 336 |
+| 104 | [1369674](../reports/1369674.md) | Blind XSS on Twitter's internal Jira panel at ████ allows exfiltr | [X / xAI](../by-program/x.md) | Critical | — | 97 |
+| 105 | [219957](../reports/219957.md) | XSS via /api/v1/chat.postMessage  | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 9.9 | — | 73 |
+| 106 | [472470](../reports/472470.md) | [manage.jumpbikes.com] Blind XSS on Jump admin panel via user nam | [Uber](../by-program/uber.md) | Critical | — | 54 |
+| 107 | [302253](../reports/302253.md) | Очень жесткая XSS в личных сообщениях m.ok.ru | [ok.ru](../by-program/ok.md) | Critical | — | 40 |
+| 108 | [735638](../reports/735638.md) | Account takeover via XSS | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 9.0 | — | 39 |
+| 109 | [1051369](../reports/1051369.md) | Blind Stored XSS Payload fired at the backend on https://████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 33 |
+| 110 | [375886](../reports/375886.md) | XSS-уязвимость, связанная с загрузкой файлов | [VK.com](../by-program/vkcom.md) | Critical | — | 30 |
+| 111 | [316946](../reports/316946.md) | новенькое (старенькое upgreid) хакерство: делаем демократию во вс | [VK.com](../by-program/vkcom.md) | Critical | — | 15 |
+| 112 | [1110243](../reports/1110243.md) | Blind Stored XSS on ███████  leads to takeover admin account | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 12 |
+| 113 | [309648](../reports/309648.md) | [simplehttpserver] Stored XSS in file names leads to malicious Ja | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.6 | — | 8 |
+| 114 | [309367](../reports/309367.md) | [metascraper] Stored XSS in Open Graph meta properties read by me | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.6 | — | 7 |
+| 115 | [282909](../reports/282909.md) | Report Design Critical Stored DOM XSS Vulnerability  | [Infogram](../by-program/infogram.md) | Critical | — | 5 |
+| 116 | [526325](../reports/526325.md) | Stored XSS in Wiki pages | [GitLab](../by-program/gitlab.md) | High | — | 619 |
+| 117 | [643908](../reports/643908.md) | Stored XSS Vulnerability | [WordPress](../by-program/wordpress.md) | High | — | 402 |
+| 118 | [733248](../reports/733248.md) | Stored XSS in wordpress.com | [Automattic](../by-program/automattic.md) | High | — | 355 |
+| 119 | [946053](../reports/946053.md) | Stored XSS in my staff name fired in another your internal panel | [Shopify](../by-program/shopify.md) | High — CVSS 8.3 | — | 324 |
+| 120 | [534450](../reports/534450.md) | Account takeover through the combination of cookie manipulation a | [Superhuman (formerly Grammarly)](../by-program/superhuman.md) | High — CVSS 8.2 | — | 288 |
+| 121 | [411690](../reports/411690.md) | Stored xss in address field in billing activity at https://shop.a | [Alliance of American Football ](../by-program/aaf.md) | High | — | 244 |
+| 122 | [1504410](../reports/1504410.md) | XSS via Mod Log Removed Posts | [Reddit](../by-program/reddit.md) | High — CVSS 7.5 | — | 216 |
+| 123 | [1665658](../reports/1665658.md) | Stored-XSS with CSP-bypass via labels' color | [GitLab](../by-program/gitlab.md) | High — CVSS 8.7 | — | 169 |
+| 124 | [2974307](../reports/2974307.md) | Stored XSS via Post Tittle Enabling Non-Privileged User to Privil | [Autodesk](../by-program/autodesk.md) | High | — | 139 |
+| 125 | [1760213](../reports/1760213.md) | Cache Poisoning Allows Stored XSS Via hav Cookie Parameter (To Ac | [Expedia Group Bug Bounty](../by-program/expediagroup_bbp.md) | High — CVSS 8.2 | — | 116 |
+| 126 | [3115705](../reports/3115705.md) | Stored XSS in File Upload Leads to Privilege Escalation and Full  | [Dust](../by-program/dust.md) | High — CVSS 8.7 | — | 115 |
+| 127 | [1392262](../reports/1392262.md) | Stored XSS via LINK Name. | [Insightly](../by-program/insightly.md) | High | — | 103 |
+| 128 | [1693150](../reports/1693150.md) | Bypass: Stored-XSS with CSP-bypass via scoped labels' color | [GitLab](../by-program/gitlab.md) | High — CVSS 8.7 | — | 95 |
+| 129 | [509930](../reports/509930.md) | Potential unprivileged Stored XSS through wp_targeted_link_rel | [WordPress](../by-program/wordpress.md) | High | — | 80 |
+| 130 | [974271](../reports/974271.md) | Stored XSS on https://app.crowdsignal.com/surveys/[Survey-Id]/que | [Automattic](../by-program/automattic.md) | High | — | 78 |
+| 131 | [423797](../reports/423797.md) | Passive stored XSS at broadcast room | [Chaturbate](../by-program/chaturbate.md) | High — CVSS 8.9 | — | 74 |
+| 132 | [3008066](../reports/3008066.md) | Stored XSS in AREA tutorials | [Autodesk](../by-program/autodesk.md) | High — CVSS 8.6 | — | 73 |
+| 133 | [2257080](../reports/2257080.md) | Stored-XSS injected in Wiki page via Banzai pipeline | [GitLab](../by-program/gitlab.md) | High — CVSS 8.7 | — | 71 |
+| 134 | [667188](../reports/667188.md) | Stored Self XSS on https://app.crowdsignal.com (in Photo Insert A | [Automattic](../by-program/automattic.md) | High | — | 68 |
+| 135 | [275518](../reports/275518.md) | Blind XSS in Mobpub Marketplace Admin Production | Sentry via dem | [X / xAI](../by-program/x.md) | High | — | 63 |
+| 136 | [765679](../reports/765679.md) | Stored XSS on upload files leads to steal cookie | [Palo Alto Software](../by-program/palo_alto_software.md) | High | — | 59 |
+| 137 | [1339034](../reports/1339034.md) | Blind XSS via Feedback form. | [Judge.me ](../by-program/judgeme.md) | High — CVSS 8.0 | — | 57 |
+| 138 | [3423950](../reports/3423950.md) | [Variation of #3321406] YetAnother 1-Click Chaining of Self-XSS,  | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | High | — | 56 |
+| 139 | [1039750](../reports/1039750.md) | Stored XSS in Intense Debate comment system | [Automattic](../by-program/automattic.md) | High — CVSS 8.2 | — | 52 |
+| 140 | [1054526](../reports/1054526.md) | Stored XSS in wordpress.com | [Automattic](../by-program/automattic.md) | High | — | 48 |
+| 141 | [530499](../reports/530499.md) | WooCommerce: Persistent XSS via customer address (state/county) | [Automattic](../by-program/automattic.md) | High | — | 40 |
+| 142 | [2234564](../reports/2234564.md) | Client Side Template Injection to Stored XSS in Image Collection | [Mars](../by-program/mars.md) | High — CVSS 7.3 | — | 38 |
+| 143 | [333008](../reports/333008.md) | Persistent XSS in https://sandbox.reverb.com/item/ | [Reverb.com](../by-program/reverb.md) | High | — | 36 |
+| 144 | [950190](../reports/950190.md) | Store-XSS in error message of build-dependencies  | [GitLab](../by-program/gitlab.md) | High | — | 35 |
+| 145 | [977697](../reports/977697.md) | Stored-XSS in merge requests | [GitLab](../by-program/gitlab.md) | High | — | 33 |
+| 146 | [2372332](../reports/2372332.md) | Multiple XSS and open HTTP redirection | [ExpressionEngine](../by-program/expressionengine.md) | High — CVSS 8.8 | — | 29 |
+| 147 | [684268](../reports/684268.md) | Stored XSS for Grafana dashboard URL | [GitLab](../by-program/gitlab.md) | High | — | 21 |
+| 148 | [413077](../reports/413077.md) | Stored Cross Site Scripting. | [8x8](../by-program/8x8-bounty.md) | High | — | 20 |
+| 149 | [430029](../reports/430029.md) | Stored XSS in infogram.com via language  | [Infogram](../by-program/infogram.md) | High | — | 20 |
+| 150 | [218226](../reports/218226.md) | Stored XSS in comments on https://www.starbucks.co.uk/blog/* | [Starbucks](../by-program/starbucks.md) | High — CVSS 7.3 | — | 19 |
+| 151 | [878145](../reports/878145.md) | Blind stored XSS due to insecure contact form at https://www.topc | [Lab45](../by-program/lab45.md) | High | — | 19 |
+| 152 | [409380](../reports/409380.md) | Stored XSS in merge request pages | [GitLab](../by-program/gitlab.md) | High | — | 18 |
+| 153 | [218872](../reports/218872.md) | Stored XSS on Files overview by abusing git submodule URL | [GitLab](../by-program/gitlab.md) | High — CVSS 8.7 | — | 17 |
+| 154 | [384255](../reports/384255.md) | Stored XSS on Issue details page | [GitLab](../by-program/gitlab.md) | High | — | 16 |
+| 155 | [2031855](../reports/2031855.md) | XSS with Visual Language Editor tags | [Invision Power Services, Inc.](../by-program/ips.md) | High | — | 15 |
+| 156 | [1011888](../reports/1011888.md) | Improper Sanitization leads to XSS Fire on admin panel | [Informatica](../by-program/informatica.md) | High | — | 15 |
+| 157 | [1620247](../reports/1620247.md) | Stored XSS at https://█████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 13 |
+| 158 | [633231](../reports/633231.md) | pre-auth Stored XSS in comments via javascript: url when administ | [WordPress](../by-program/wordpress.md) | High | — | 12 |
+| 159 | [1379400](../reports/1379400.md) | XSS in various MessageTypes | [Rocket.Chat](../by-program/rocket_chat.md) | High — CVSS 8.3 | — | 12 |
+| 160 | [779908](../reports/779908.md) | Stored-Xss at connect.topcoder.com/projects/ affected on project  | [Lab45](../by-program/lab45.md) | High | — | 11 |
+| 161 | [250837](../reports/250837.md) | Stored xss via template injection | [WordPress](../by-program/wordpress.md) | High | — | 11 |
+| 162 | [329862](../reports/329862.md) | Stored xss in shop name @ lp.reverb.com | [Reverb.com](../by-program/reverb.md) | High | — | 10 |
+| 163 | [294048](../reports/294048.md) | Stored XSS => community.ubnt.com  | [Ubiquiti Inc.](../by-program/ui.md) | High | — | 9 |
+| 164 | [244902](../reports/244902.md) | XSS through document projects | [Khan Academy](../by-program/khanacademy.md) | High | — | 9 |
+| 165 | [247517](../reports/247517.md) | Stored XSS in Private Messages 'Reply' allows to execute maliciou | [Concrete CMS](../by-program/concretecms.md) | High | — | 8 |
+| 166 | [915073](../reports/915073.md) | Stored XSS via Comment Form at ████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 8 |
+| 167 | [346111](../reports/346111.md) | XSS (Persistent) - Selecting role(s) for protected branches | [GitLab](../by-program/gitlab.md) | High | — | 8 |
+| 168 | [349146](../reports/349146.md) | Stored XSS in Node-Red | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 7 |
+| 169 | [1245787](../reports/1245787.md) | [Swiftype] - Stored XSS via document field `url` triggers on `htt | [Elastic](../by-program/elastic.md) | High — CVSS 8.0 | — | 7 |
+| 170 | [277259](../reports/277259.md) | [marketplace.informatica.com] - Stored XSS | [Informatica](../by-program/informatica.md) | High | — | 6 |
+| 171 | [866815](../reports/866815.md) | Stored XSS on https://apps.topcoder.com/wiki/plugins/socialbookma | [Lab45](../by-program/lab45.md) | High — CVSS 7.1 | — | 6 |
+| 172 | [1081994](../reports/1081994.md) | Stored XSS at https://www.█████████.mil | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 6 |
+| 173 | [901377](../reports/901377.md) | Stored XSS at ██████userprofile.aspx | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 6 |
+| 174 | [309641](../reports/309641.md) | [simple-server] HTML with iframe element can be used as filename, | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.7 | — | 6 |
+| 175 | [273960](../reports/273960.md) | Хранимая XSS на странице "Виджет для авторизации" | [VK.com](../by-program/vkcom.md) | High | — | 6 |
+| 176 | [216822](../reports/216822.md) | Stored XSS via transloadit.com and imageproxy | [Coursera](../by-program/coursera.md) | High — CVSS 7.2 | — | 5 |
+| 177 | [858874](../reports/858874.md) | Stored XSS in TSVB Visualizations Markdown Panel | [Elastic](../by-program/elastic.md) | High | — | 5 |
+| 178 | [1132202](../reports/1132202.md) | Post-Auth Stored XSS with User Interaction leads to Remote Code E | [Rocket.Chat](../by-program/rocket_chat.md) | High — CVSS 8.0 | — | 5 |
+| 179 | [418271](../reports/418271.md) | Stored XSS agent_status  | [8x8](../by-program/8x8-bounty.md) | High | — | 4 |
+| 180 | [1072616](../reports/1072616.md) | Stored XSS through name / last name on https://██████████/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 4 |
+| 181 | [1631447](../reports/1631447.md) | STORED XSS in █████████/nlc/login.aspx via "edit" GET parameter t | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High — CVSS 8.2 | — | 2 |
+| 182 | [507303](../reports/507303.md) | [file-browser] Inadequate Output Encoding and Escaping  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 1 |
+| 183 | [484434](../reports/484434.md) | Stored XSS on imgur profile | [Imgur](../by-program/imgur.md) | Medium | — | 608 |
+| 184 | [220852](../reports/220852.md) | XSS STORED AT socialclub.rockstargames.com (add friend request fr | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 193 |
+| 185 | [1173040](../reports/1173040.md) | Stored XSS in IE11 on hackerone.com via custom fields  | [HackerOne](../by-program/security.md) | Medium — CVSS 4.8 | — | 146 |
+| 186 | [2971572](../reports/2971572.md) | Stored Cross-Site Scripting found in custom integration app on ht | [Autodesk](../by-program/autodesk.md) | Medium — CVSS 4.1 | — | 127 |
+| 187 | [1598347](../reports/1598347.md) | Stored XSS on www.hackerone.com due to deleted S3-bucket from old | [HackerOne](../by-program/security.md) | Medium — CVSS 5.5 | — | 122 |
+| 188 | [707720](../reports/707720.md) | Stored XSS vulnerability in comments on *.wordpress.com | [Automattic](../by-program/automattic.md) | Medium — CVSS 4.7 | — | 118 |
+| 189 | [882733](../reports/882733.md) | Insecure file upload in xiaoai.mi.com Lead to Stored  XSS | [Xiaomi](../by-program/xiaomi.md) | Medium | — | 117 |
+| 190 | [1597271](../reports/1597271.md) | Stored XSS in Email Notifcation  | [Insightly](../by-program/insightly.md) | Medium — CVSS 5.7 | — | 96 |
+| 191 | [920005](../reports/920005.md) | Stored XSS on app.crowdsignal.com + your-subdomain.survey.fm via  | [Automattic](../by-program/automattic.md) | Medium | — | 95 |
+| 192 | [3045455](../reports/3045455.md) | Reflected XSS Vulnerability in SVG File at area-resources-stg.aut | [Autodesk](../by-program/autodesk.md) | Medium | — | 93 |
+| 193 | [880099](../reports/880099.md) | Unrestricted file upload leads to Stored XSS | [GitLab](../by-program/gitlab.md) | Medium | — | 87 |
+| 194 | [297968](../reports/297968.md) | Persistent DOM-based XSS in https://help.twitter.com via localSto | [X / xAI](../by-program/x.md) | Medium | — | 84 |
+| 195 | [1095934](../reports/1095934.md) | Stored XSS via Angular Expression injection via Subject while sta | [FetLife](../by-program/fetlife.md) | Medium | — | 82 |
+| 196 | [988272](../reports/988272.md) | stored XSS in hey.com message content | [Basecamp](../by-program/basecamp.md) | Medium | — | 80 |
+| 197 | [1376961](../reports/1376961.md) | Cross-site Scripting (XSS) - Stored on ads.tiktok.com in Text  fi | [TikTok](../by-program/tiktok.md) | Medium — CVSS 5.4 | — | 75 |
+| 198 | [1103298](../reports/1103298.md) | Blind Stored XSS in shopify internal Parquet Viewer | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.6 | — | 73 |
+| 199 | [1122513](../reports/1122513.md) | Stored Cross-site Scripting on devicelock.com/forum/ | [Acronis](../by-program/acronis.md) | Medium | — | 65 |
+| 200 | [942859](../reports/942859.md) | Stored XSS in Post title (PoC) | [Imgur](../by-program/imgur.md) | Medium | — | 63 |
+| 201 | [2012636](../reports/2012636.md) | Stored XSS on wordpress.com | [Automattic](../by-program/automattic.md) | Medium | — | 60 |
+| 202 | [1087061](../reports/1087061.md) | Stored-XSS on wiki pages | [GitLab](../by-program/gitlab.md) | Medium — CVSS 5.4 | — | 59 |
+| 203 | [1005355](../reports/1005355.md) | Unrestricted File Upload Results in Cross-Site Scripting Attacks | [Uber](../by-program/uber.md) | Medium — CVSS 4.7 | — | 57 |
+| 204 | [1537149](../reports/1537149.md) | XSS and HTML Injection on the pressable.com search box | [Automattic](../by-program/automattic.md) | Medium | — | 56 |
+| 205 | [1441988](../reports/1441988.md) | Stored XSS at https://linkpop.com | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.2 | — | 52 |
+| 206 | [382625](../reports/382625.md) | Stored XSS in '' Section and WAF Bypass | [Semrush](../by-program/semrush.md) | Medium — CVSS 6.5 | — | 49 |
+| 207 | [402753](../reports/402753.md) | Stored XSS in Jetpack's Simple Payment Module by Contributors / A | [Automattic](../by-program/automattic.md) | Medium | — | 41 |
+| 208 | [806571](../reports/806571.md) | Stored XSS in blob viewer | [GitLab](../by-program/gitlab.md) | Medium | — | 37 |
+| 209 | [439912](../reports/439912.md) | Stored XSS on demo app link  | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.2 | — | 37 |
+| 210 | [507957](../reports/507957.md) | Stored XSS on www.starbucks.com.sg/careers/career-center/career-l | [Starbucks](../by-program/starbucks.md) | Medium — CVSS 6.5 | — | 37 |
+| 211 | [3594137](../reports/3594137.md) | Stored XSS in attachment-display exploitable through SameSite | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.7 | — | 36 |
+| 212 | [263876](../reports/263876.md) | Stored XSS Deleting Menu Links in the Shopify Admin | [Shopify](../by-program/shopify.md) | Medium — CVSS 6.4 | — | 35 |
+| 213 | [380045](../reports/380045.md) | Stored XSS in the guide's GameplayVersion (www.dota2.com) | [Valve](../by-program/valve.md) | Medium — CVSS 6.4 | — | 34 |
+| 214 | [1842822](../reports/1842822.md) | Stored XSS on app.crowdsignal.com  your-subdomain.crowdsignal.net | [Automattic](../by-program/automattic.md) | Medium | — | 34 |
+| 215 | [2389565](../reports/2389565.md) | Action Text XSS (Rails 7.1.x) | [Ruby on Rails](../by-program/rails.md) | Medium | — | 33 |
+| 216 | [435618](../reports/435618.md) | Kaspersky Password Manager is vulnerable to HTML injection in the | [Kaspersky](../by-program/kaspersky.md) | Medium | — | 32 |
+| 217 | [1987172](../reports/1987172.md) | Stored XSS on  wordpress.com | [Automattic](../by-program/automattic.md) | Medium | — | 32 |
+| 218 | [495583](../reports/495583.md) | [FG-VD-19-022] Wordpress WooCommerce Cross-Site Scripting Vulnera | [Automattic](../by-program/automattic.md) | Medium — CVSS 6.0 | — | 30 |
+| 219 | [953791](../reports/953791.md) | Stored XSS in Satisfaction Surveys via "Ask Reason for Dissatisfa | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 4.9 | — | 29 |
+| 220 | [1011093](../reports/1011093.md) | XSS Stored in Cacheable  response | [Acronis](../by-program/acronis.md) | Medium | — | 28 |
+| 221 | [532643](../reports/532643.md) | Stored - XSS | [Shopify](../by-program/shopify.md) | Medium | — | 27 |
+| 222 | [1107726](../reports/1107726.md) | Stored XSS on apps.shopify.com | [Shopify](../by-program/shopify.md) | Medium | — | 26 |
+| 223 | [919859](../reports/919859.md) | stored xss in app.lemlist.com | [lemlist](../by-program/lemlist.md) | Medium | — | 26 |
+| 224 | [1065964](../reports/1065964.md) | Stored XSS in the banner block description | [Stripo Inc](../by-program/stripo.md) | Medium | — | 25 |
+| 225 | [881918](../reports/881918.md) | Authenticated Stored Cross-site Scripting in bbPress | [WordPress](../by-program/wordpress.md) | Medium | — | 24 |
+| 226 | [797754](../reports/797754.md) | Stored XSS in Application menu via Home Page Url | [Ping Identity](../by-program/pingidentity.md) | Medium — CVSS 5.7 | — | 24 |
+| 227 | [1126433](../reports/1126433.md) | Stored XSS at Module Name | [Stripo Inc](../by-program/stripo.md) | Medium | — | 23 |
+| 228 | [1940788](../reports/1940788.md) | Stored XSS in plan name field (Acronis Cyber Protect) | [Acronis](../by-program/acronis.md) | Medium — CVSS 5.5 | — | 22 |
+| 229 | [423454](../reports/423454.md) | H1514 Stored XSS on Wholesale sales channel allows cross-organiza | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.4 | — | 21 |
+| 230 | [420459](../reports/420459.md) | H1514 Stored XSS in Return Magic App portal content | [Shopify](../by-program/shopify.md) | Medium | — | 21 |
+| 231 | [642281](../reports/642281.md) | Stored XSS in https://app.mopub.com | [X / xAI](../by-program/x.md) | Medium | — | 21 |
+| 232 | [460911](../reports/460911.md) | [FG-VD-18-165] Wordpress Cross-Site Scripting Vulnerability Notif | [WordPress](../by-program/wordpress.md) | Medium — CVSS 6.4 | — | 20 |
+| 233 | [665302](../reports/665302.md) | [seeftl] Stored XSS when directory listing via filename. | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 4.4 | — | 20 |
+| 234 | [270999](../reports/270999.md) | [Markdown] Stored XSS via character encoding parser bypass | [GitLab](../by-program/gitlab.md) | Medium | — | 20 |
+| 235 | [1092678](../reports/1092678.md) | Self stored Xss + Login Csrf | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 20 |
+| 236 | [1161241](../reports/1161241.md) | Cross-site Scripting (XSS) - Stored | forum.acronis.com | [Acronis](../by-program/acronis.md) | Medium | — | 20 |
+| 237 | [263191](../reports/263191.md) | Stored XSS with CRLF injection via post message to user feed | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 19 |
+| 238 | [1331281](../reports/1331281.md) | Stored XSS on 1.4.0 | [ImpressCMS](../by-program/impresscms.md) | Medium — CVSS 4.8 | — | 19 |
+| 239 | [827606](../reports/827606.md) | Stored XSS in files.slack.com | [Slack](../by-program/slack.md) | Medium — CVSS 5.0 | — | 18 |
+| 240 | [272997](../reports/272997.md) | Stored XSS via Send crew invite | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 18 |
+| 241 | [971857](../reports/971857.md) | Stored xss on helpdesk using user's city | [Lark Technologies](../by-program/lark_technologies.md) | Medium | — | 18 |
+| 242 | [271007](../reports/271007.md) | [app.simplenote.com] Stored XSS via Markdown SVG filter bypass | [Automattic](../by-program/automattic.md) | Medium | — | 16 |
+| 243 | [1595905](../reports/1595905.md) | XSS in Widget Review Form Preview in settings | [Judge.me ](../by-program/judgeme.md) | Medium — CVSS 4.8 | — | 16 |
+| 244 | [1921606](../reports/1921606.md) | Stored XSS via ' profile ' at ███ | [Mars](../by-program/mars.md) | Medium — CVSS 6.2 | — | 16 |
+| 245 | [245172](../reports/245172.md) | Double Stored Cross-Site scripting in the admin panel | [GSA Bounty](../by-program/gsa_bbp.md) | Medium | — | 15 |
+| 246 | [220903](../reports/220903.md) | Authenticated Cross-site Scripting in Template Name | [WordPress](../by-program/wordpress.md) | Medium — CVSS 6.1 | — | 15 |
+| 247 | [1425882](../reports/1425882.md) | stored XSS on AliExpress Review Importer/Products when delete pro | [Judge.me ](../by-program/judgeme.md) | Medium | — | 15 |
+| 248 | [1164853](../reports/1164853.md) | Stored Cross Site Scripting at http://www.grouplogic.com/ADMIN/st | [Acronis](../by-program/acronis.md) | Medium — CVSS 5.8 | — | 15 |
+| 249 | [241008](../reports/241008.md) | Stored XSS in *.myshopify.com | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.4 | — | 13 |
+| 250 | [497724](../reports/497724.md) | Stored XSS in Post Preview as Contributor | [WordPress](../by-program/wordpress.md) | Medium | — | 13 |
+| 251 | [251043](../reports/251043.md) | Stored XSS at Moneybird | [Moneybird](../by-program/moneybird.md) | Medium | — | 13 |
+| 252 | [996371](../reports/996371.md) | Stored XSS at "Conditions "  through "My Custom Rule" Field at [h | [Stripo Inc](../by-program/stripo.md) | Medium | — | 13 |
+| 253 | [2037234](../reports/2037234.md) | Stored XSS + CSRF in "apellido" value | [Mars](../by-program/mars.md) | Medium | — | 12 |
+| 254 | [896511](../reports/896511.md) | XSS in image metadata field | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 12 |
+| 255 | [353334](../reports/353334.md) | Unfiltered input allows for XSS in "Playtime Item Grants" fields | [Valve](../by-program/valve.md) | Medium — CVSS 4.1 | — | 12 |
+| 256 | [230278](../reports/230278.md) | Stored XSS in Headline TextControl element in Express forms [ con | [Concrete CMS](../by-program/concretecms.md) | Medium | — | 12 |
+| 257 | [1083734](../reports/1083734.md) | Stored XSS on the "www.intensedebate.com/extras-widgets" url at " | [Automattic](../by-program/automattic.md) | Medium — CVSS 4.0 | — | 12 |
+| 258 | [1428207](../reports/1428207.md) | Stored XSS in Question edit for product name (bypass #1416672) | [Judge.me ](../by-program/judgeme.md) | Medium | — | 11 |
+| 259 | [282209](../reports/282209.md) | Stored XSS in the Custom Logo link (non-Basic plan required) | [Infogram](../by-program/infogram.md) | Medium | — | 11 |
+| 260 | [289085](../reports/289085.md) | Stored XSS on urbandictionary.com | [Urban Dictionary](../by-program/urbandictionary.md) | Medium | — | 11 |
+| 261 | [923679](../reports/923679.md) | stored xss via Campaign Name. | [lemlist](../by-program/lemlist.md) | Medium | — | 11 |
+| 262 | [998138](../reports/998138.md) | In orginization stored xss using location (Larksuite survey app) | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 5.4 | — | 11 |
+| 263 | [996237](../reports/996237.md) | Stored XSS on add project | [Moneybird](../by-program/moneybird.md) | Medium | — | 11 |
+| 264 | [237100](../reports/237100.md) | [app.mixmax.com] Stored XSS on Adding new enhancement. | [Mixmax](../by-program/mixmax.md) | Medium | — | 11 |
+| 265 | [384814](../reports/384814.md) | Stored XSS against all Chaturbate users using an application name | [Chaturbate](../by-program/chaturbate.md) | Medium — CVSS 6.3 | — | 10 |
+| 266 | [862882](../reports/862882.md) | XSS in redditmedia.com can compromise data of reddit.com | [Reddit](../by-program/reddit.md) | Medium | — | 10 |
+| 267 | [249759](../reports/249759.md) | Lack of Sanitization and Insufficient Authentication | [WordPress](../by-program/wordpress.md) | Medium | — | 10 |
+| 268 | [275386](../reports/275386.md) | Stored XSS Using Media | [Automattic](../by-program/automattic.md) | Medium | — | 10 |
+| 269 | [1102018](../reports/1102018.md) | Stored unauth XSS in calendar event via CSRF | [Concrete CMS](../by-program/concretecms.md) | Medium — CVSS 4.3 | — | 10 |
+| 270 | [1665648](../reports/1665648.md) | stored cross site scripting in https://████████.edu | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 9 |
+| 271 | [411063](../reports/411063.md) | Persistent XSS via malicious license file | [ExpressionEngine](../by-program/expressionengine.md) | Medium — CVSS 5.1 | — | 9 |
+| 272 | [230029](../reports/230029.md) | Stored XSS in Pages SEO dialog Name field (concrete5 8.1.0) | [Concrete CMS](../by-program/concretecms.md) | Medium | — | 9 |
+| 273 | [280495](../reports/280495.md) | Stored Cross-Site scripting in the infographics using links | [Infogram](../by-program/infogram.md) | Medium | — | 9 |
+| 274 | [293743](../reports/293743.md) | [public-api.wordpress.com] Stored XSS via Crafted Developer App D | [Automattic](../by-program/automattic.md) | Medium | — | 9 |
+| 275 | [351554](../reports/351554.md) | Persistent XSS - Deleting a project (No Longer Vulnerable in 10.7 | [GitLab](../by-program/gitlab.md) | Medium | — | 7 |
+| 276 | [287562](../reports/287562.md) | Stored XSS in content when Graph is created via API | [Infogram](../by-program/infogram.md) | Medium | — | 7 |
+| 277 | [1657020](../reports/1657020.md) | stored cross site scripting in https://███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
+| 278 | [403793](../reports/403793.md) | Stored 'undefined' Cross-site Scripting | [Khan Academy](../by-program/khanacademy.md) | Medium | — | 7 |
+| 279 | [384517](../reports/384517.md) | XSS (stored) Wizard is saving executable code | [Rocket.Chat](../by-program/rocket_chat.md) | Medium | — | 7 |
+| 280 | [472391](../reports/472391.md) | Stored XSS @ /engage/<project_slug> | [Weblate](../by-program/weblate.md) | Medium | — | 7 |
+| 281 | [1416672](../reports/1416672.md) | Stored XSS in Question edit from product name | [Judge.me ](../by-program/judgeme.md) | Medium — CVSS 5.7 | — | 7 |
+| 282 | [478957](../reports/478957.md) | Stored XSS/HTML injection in autocomplete suggestions for sharing | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.5 | — | 6 |
+| 283 | [403692](../reports/403692.md) | [tianma-static] Stored xss on filename | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.7 | — | 6 |
+| 284 | [287688](../reports/287688.md) | Stored XSS On Wordpress Infogram plugin | [Infogram](../by-program/infogram.md) | Medium | — | 6 |
+| 285 | [362735](../reports/362735.md) | Stored Cross Site Scripting | [Y Combinator](../by-program/ycombinator.md) | Medium | — | 6 |
+| 286 | [290794](../reports/290794.md) | Persistent XSS in share button | [Infogram](../by-program/infogram.md) | Medium | — | 6 |
+| 287 | [1657030](../reports/1657030.md) | stored cross site scripting in https://██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
+| 288 | [1660500](../reports/1660500.md) | stored cross site scripting in https://█████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
+| 289 | [1657006](../reports/1657006.md) | stored cross site scripting in https://███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
+| 290 | [3669623](../reports/3669623.md) | Stored XSS via Full Name field in userlog email entries | [Revive Adserver](../by-program/revive_adserver.md) | Medium — CVSS 5.4 | — | 5 |
+| 291 | [1321358](../reports/1321358.md) | XSS exploit of RDoc documentation generated by rdoc | [Ruby](../by-program/ruby.md) | Medium | — | 5 |
+| 292 | [358641](../reports/358641.md) | [serve] Stored XSS in the filename when directories listing | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.5 | — | 4 |
+| 293 | [301973](../reports/301973.md) | Airship: Persistent XSS via Comment | [Paragon Initiative Enterprises](../by-program/paragonie.md) | Medium | — | 4 |
+| 294 | [280865](../reports/280865.md) | Non Critical Code Quality Bug / Self XSS on Map Editor | [Infogram](../by-program/infogram.md) | Medium — CVSS 5.0 | — | 4 |
+| 295 | [289313](../reports/289313.md) | [gem server] Stored XSS via crafted JavaScript URL inclusion in G | [RubyGems](../by-program/rubygems.md) | Medium | — | 4 |
+| 296 | [681986](../reports/681986.md) | [node-red] Stored XSS within Flow's - "Name" field  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 4.6 | — | 3 |
+| 297 | [759131](../reports/759131.md) | Stored XSS in template comments. | [Stripo Inc](../by-program/stripo.md) | Medium | — | 3 |
+| 298 | [276105](../reports/276105.md) | Stored XSS in WordPress | [WordPress](../by-program/wordpress.md) | Medium | — | 3 |
+| 299 | [498852](../reports/498852.md) | XSS On Nextcloud Integrated with zimbra drive | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 3 |
+| 300 | [328210](../reports/328210.md) | [sexstatic] HTML injection in directory name(s) leads to Stored X | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.2 | — | 3 |
+| 301 | [694930](../reports/694930.md) | [snekserve] Stored XSS via filenames HTML formatted | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 3 |
+| 302 | [319794](../reports/319794.md) | [m-server] HTML Injection in filenames displayed as directory lis | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.0 | — | 3 |
+| 303 | [796487](../reports/796487.md) | [dy-server2] - stored Cross-Site Scripting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 4.2 | — | 1 |
+| 304 | [949823](../reports/949823.md) | XSS DI BIODATA | [Bumble](../by-program/bumble.md) | Medium | — | 0 |
+| 305 | [2306491](../reports/2306491.md) | Stored-XSS-ads.tiktok.com | [TikTok](../by-program/tiktok.md) | Low | — | 309 |
+| 306 | [592316](../reports/592316.md) | Stored XSS on byddypress Plug-in via groups name | [WordPress](../by-program/wordpress.md) | Low | — | 132 |
+| 307 | [564196](../reports/564196.md) | help.shopify.com Cross Site Scripting | [Shopify](../by-program/shopify.md) | Low | — | 71 |
+| 308 | [267570](../reports/267570.md) | Stored XSS through Facebook Page Connection | [Shopify](../by-program/shopify.md) | Low — CVSS 2.8 | — | 68 |
+| 309 | [1049012](../reports/1049012.md) | Stored XSS in [https://streamlabs.com/dashboard#/*goal] pages | [Logitech](../by-program/logitech.md) | Low — CVSS 3.4 | — | 67 |
+| 310 | [578138](../reports/578138.md) | [http_server] Stored XSS in the filename when directories listing | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 3.9 | — | 61 |
+| 311 | [1295497](../reports/1295497.md) | EC2 Takeover at turn.shopify.com | [Shopify](../by-program/shopify.md) | Low — CVSS 3.0 | — | 51 |
+| 312 | [968232](../reports/968232.md) | Stored XSS in collabora via user name | [Nextcloud](../by-program/nextcloud.md) | Low | — | 48 |
+| 313 | [1536046](../reports/1536046.md) | Stored XSS Payload when sending videos  | [TikTok](../by-program/tiktok.md) | Low | — | 44 |
+| 314 | [294505](../reports/294505.md) | Cross-site scripting in "Contact customer" form | [Shopify](../by-program/shopify.md) | Low — CVSS 3.4 | — | 32 |
+| 315 | [2210038](../reports/2210038.md) | HTML injection in search UI when selecting a circle with HTML in  | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 29 |
+| 316 | [437863](../reports/437863.md) | SVG file that HTML Included is able to upload via File Manager | [Concrete CMS](../by-program/concretecms.md) | Low | — | 26 |
+| 317 | [406289](../reports/406289.md) | Stored XSS on Broken Themes via filename | [WordPress](../by-program/wordpress.md) | Low | — | 23 |
+| 318 | [2111291](../reports/2111291.md) | Stored Xss on bugzilla.mozilla.org via comment edit feature from  | [Mozilla](../by-program/mozilla.md) | Low | — | 23 |
+| 319 | [753567](../reports/753567.md) | XSS in select attribute options | [Concrete CMS](../by-program/concretecms.md) | Low — CVSS 1.9 | — | 20 |
+| 320 | [1687410](../reports/1687410.md) | [user_oidc] Stored XSS via Authorization Endpoint - Safari-Only | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 19 |
+| 321 | [358001](../reports/358001.md) | HTML TAG INJECTION ON PROFILE NAME | [GitLab](../by-program/gitlab.md) | Low | — | 18 |
+| 322 | [275515](../reports/275515.md) | Stored XSS in dev-ucrm-billing-demo.ubnt.com In Client Custom Att | [Ubiquiti Inc.](../by-program/ui.md) | Low — CVSS 3.8 | — | 16 |
+| 323 | [786301](../reports/786301.md) | Stored XSS in Name of Team Member Invitation | [Localize](../by-program/localizejs.md) | Low | — | 15 |
+| 324 | [230232](../reports/230232.md) | Stored self-XSS in mercantile.wordpress.org checkout | [WordPress](../by-program/wordpress.md) | Low | — | 15 |
+| 325 | [271765](../reports/271765.md) | Stored XSS in partners dashboard | [Shopify](../by-program/shopify.md) | Low — CVSS 3.4 | — | 14 |
+| 326 | [1023787](../reports/1023787.md) | Stored XSS in markdown file with Nextcloud Talk using Internet Ex | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.0 | — | 13 |
+| 327 | [261138](../reports/261138.md) | Stored XSS in OAuth redirect URI  | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.4 | — | 13 |
+| 328 | [724153](../reports/724153.md) | XSS (leads to arbitrary file read in Rocket.Chat-Desktop) | [Rocket.Chat](../by-program/rocket_chat.md) | Low | — | 11 |
+| 329 | [1554888](../reports/1554888.md) |  Site information's Display Name section vulnerable for XSS attac | [Automattic](../by-program/automattic.md) | Low | — | 11 |
+| 330 | [1033882](../reports/1033882.md) | XSS stored in the Shopify Email app | [Shopify](../by-program/shopify.md) | Low — CVSS 2.6 | — | 10 |
+| 331 | [716570](../reports/716570.md) | Stored XSS (Hexo-admin plugin) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 2.7 | — | 9 |
+| 332 | [222224](../reports/222224.md) | Stored but [SELF] XSS in mercantile.wordpress.org | [WordPress](../by-program/wordpress.md) | Low | — | 8 |
+| 333 | [247521](../reports/247521.md) | Stored XSS in Name field in User Groups/Group Details form | [Concrete CMS](../by-program/concretecms.md) | Low | — | 7 |
+| 334 | [300532](../reports/300532.md) | Stored XSS on Add Event in Calendar | [Concrete CMS](../by-program/concretecms.md) | Low — CVSS 3.9 | — | 7 |
+| 335 | [251358](../reports/251358.md) | Stored XSS vulnerability in additional URLs in 'Location' dialog  | [Concrete CMS](../by-program/concretecms.md) | Low | — | 7 |
+| 336 | [300571](../reports/300571.md) | Stored XSS on Add Calendar | [Concrete CMS](../by-program/concretecms.md) | Low — CVSS 3.9 | — | 7 |
+| 337 | [316346](../reports/316346.md) | [public] Stored XSS in filenames in directory served by public | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 3.9 | — | 5 |
+| 338 | [223331](../reports/223331.md) | [demo.weblate.org] Stored Self-XSS via Editor Link in Profile | [Weblate](../by-program/weblate.md) | Low | — | 4 |
+| 339 | [390728](../reports/390728.md) | Stored XSS on scan.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | Low | — | 4 |
+| 340 | [226203](../reports/226203.md) | Cross-site-Scripting | [Paragon Initiative Enterprises](../by-program/paragonie.md) | Low | — | 4 |
+| 341 | [928816](../reports/928816.md) | Stored XSS in app.lemlist.com | [lemlist](../by-program/lemlist.md) | Low | — | 3 |
+| 342 | [856588](../reports/856588.md) | [flsaba] Stored XSS in the file and directory name when directori | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 3.9 | — | 0 |
+| 343 | [243138](../reports/243138.md) | Improper parsing of input could lead to future XSS vulnerabilitie | [Mixmax](../by-program/mixmax.md) | Low | — | 0 |
+| 344 | [798599](../reports/798599.md) | xss stored | [Shopify](../by-program/shopify.md) | None | — | 75 |
+| 345 | [419731](../reports/419731.md) | [www.zomato.com] Blind XSS in one of the Admin Dashboard | [Eternal](../by-program/eternal.md) | None | — | 61 |
+| 346 | [1028332](../reports/1028332.md) | Stored XSS on https://events.hackerone.com | [HackerOne](../by-program/security.md) | None | — | 58 |
+| 347 | [869831](../reports/869831.md) | XSS within Shopify Email App - Admin | [Shopify](../by-program/shopify.md) | None | — | 50 |
+| 348 | [300270](../reports/300270.md) | Stored XSS in learnboost.com via the lesson[goals] parameter. | [Automattic](../by-program/automattic.md) | None | — | 21 |
+| 349 | [758002](../reports/758002.md) | Markdown parsing issue enables insertion of malicious tags | [Phabricator](../by-program/phabricator.md) | None | — | 20 |
+| 350 | [382666](../reports/382666.md) | Blind XSS in the rocket.chat registration email | [Rocket.Chat](../by-program/rocket_chat.md) | None | — | 18 |
+| 351 | [300812](../reports/300812.md) | Stored XSS in www.learnboost.com via ZIP codes. | [Automattic](../by-program/automattic.md) | None | — | 17 |
+| 352 | [238906](../reports/238906.md) | Stored XSS in Templates>Enahance>Social Badges | [Mixmax](../by-program/mixmax.md) | None | — | 7 |
+| 353 | [283825](../reports/283825.md) | Multiple xss on infogram templates | [Infogram](../by-program/infogram.md) | None | — | 6 |
+| 354 | [1241460](../reports/1241460.md) | ApiService#fetch serves content as text/html and inline Content-D | [Nextcloud](../by-program/nextcloud.md) | None | — | 6 |
+| 355 | [282535](../reports/282535.md) | XSS on Report Classic | [Infogram](../by-program/infogram.md) | None | — | 5 |
+| 356 | [221380](../reports/221380.md) | Stored XSS in RSS Feeds Title (Concrete5 v8.1.0) | [Concrete CMS](../by-program/concretecms.md) | None | — | 4 |
+| 357 | [1187156](../reports/1187156.md) | XSS in HTML generated by RDoc | [Ruby](../by-program/ruby.md) | None | — | 3 |
+| 358 | [3680090](../reports/3680090.md) | Stored XSS via malicious usernames in audit log details + Usernam | [Revive Adserver](../by-program/revive_adserver.md) | None | — | 2 |

@@ -9312,6 +9312,7 @@ https://hackerone.com/reports/3376598 | Sensitive information exposed at [██
 https://hackerone.com/reports/3378540 | Lack of Validation in Reward Redemption Allows Unlimited Burp Suite License Abuse
 https://hackerone.com/reports/3382343 | BOLA/IDOR in Out-of-Office API allows any authenticated user to read other users' absence data
 https://hackerone.com/reports/3383079 | SSRF via Improper Redirect Validation in Rocket.Chat oEmbed Function
+https://hackerone.com/reports/3384615 | Insufficient checks in the file path parameter allow writing to unauthorized directories
 https://hackerone.com/reports/3390084 | fs.futimes() Bypasses Read-Only Permission Model
 https://hackerone.com/reports/3393664 | SSRF via improper validation after DNS name resolution in the link-preview feature
 https://hackerone.com/reports/3399016 | Improper input validation On Exported deep-link handler crashes `FileDisplayActivity` on crafted external URL — Denial-of-Service
@@ -9520,11 +9521,15 @@ https://hackerone.com/reports/3713682 | IDOR: autotranslate.translateMessage Ful
 https://hackerone.com/reports/3717354 | UI Consent Bypass via Comma Injection in `addAutoApproveTarget` — User-Approval Dialog and Persistence Layer Disagree on Target Scope, Yielding Authen
 https://hackerone.com/reports/3717365 | mbedTLS private-key blob null-termination asymmetry in lib/vtls/mbedtls.c (mbed_load_privkey)
 https://hackerone.com/reports/3717552 | CURLOPT_PROXY_CRLFILE / CURLOPT_PROXY_ISSUERCERT / CURLOPT_PROXY_ISSUERCERT_BLOB silently ignored on backends that don't support them
+https://hackerone.com/reports/3718195 | CVE-2026-8286: wrong STARTTLS connection reuse
 https://hackerone.com/reports/3718265 | Shared HSTS cache accessed without lock
+https://hackerone.com/reports/3721183 | CVE-2026-8458: wrong reuse for different services
 https://hackerone.com/reports/3721519 | Liberapay member team twitter account broken Link Hijacking via Expired Twitter Account Link
 https://hackerone.com/reports/3723002 | another liberapay member team twitter account broken Link Hijacking via Expired Twitter Account Link
 https://hackerone.com/reports/3723458 | 1-Click Account Takeover via Open Redirect through Regex Bypass in Domain Validation
 https://hackerone.com/reports/3725659 | Kerberos/SPNEGO Connection Reuse Vulnerability
+https://hackerone.com/reports/3733905 | CVE-2026-8924: trailing dot domain super cookie
+https://hackerone.com/reports/3733910 | CVE-2026-8932: incomplete mTLS config matching in conn reuse
 https://hackerone.com/reports/3733934 | CURLOPT_HSTS_CTRL disables shared HSTS without share guard — use-after-free and double-free
 https://hackerone.com/reports/3733946 | Credentials forwarded to HTTP after HTTPS→HTTP same-port redirect — url_set_data_creds uses scheme-blind comparator
 https://hackerone.com/reports/3733984 | HSTS multi-trailing-dot bypass-ish: possible incomplete fix for CVE-2022-30115
@@ -9538,6 +9543,9 @@ https://hackerone.com/reports/3734947 | HTTP/3 paused transfer buffers incoming 
 https://hackerone.com/reports/3734992 | Schannel custom-CA path skips Extended Key Usage enforcement
 https://hackerone.com/reports/3735080 | libssh SFTP initialization ignores CURLOPT_TIMEOUT, hangs indefinitely
 https://hackerone.com/reports/3735179 | CURLOPT_PROXY_CAINFO_BLOB silently activates native CA store on Apple builds
+https://hackerone.com/reports/3735180 | HTTPS proxy connection reuse lets one easy handle inherit another handle's mTLS-authenticated proxy session
+https://hackerone.com/reports/3735184 | CVE-2026-8926: password leak with netrc and user in URL
+https://hackerone.com/reports/3735193 | CVE-2026-8925: SASL double-free
 https://hackerone.com/reports/3735238 | cookie: case-insensitive path comparison in replace_existing() allows cookie eviction across distinct paths
 https://hackerone.com/reports/3735276 | TLS peer-verification bypass via mid-transfer ssl_config mutation
 https://hackerone.com/reports/3736234 | NULL pointer dereference in libcurl URL API redirect_url() with CURLU_DEFAULT_SCHEME
@@ -9547,12 +9555,19 @@ https://hackerone.com/reports/3739561 | SSL session-cache peer key omits signatu
 https://hackerone.com/reports/3741135 | Connection reuse ignores haproxyprotocol and HAPROXY_CLIENT_IP settings, allowing PROXY context to persist across transfers
 https://hackerone.com/reports/3741744 | CRLF Injection via Custom HTTP Headers
 https://hackerone.com/reports/3744200 | PHP code injection via unexpected delivery limitation parameter
+https://hackerone.com/reports/3744543 | CVE-2026-8927: env-set cross-proxy Digest auth state leak
 https://hackerone.com/reports/3747959 | curl --skip-existing has a TOCTOU race that lets a post-check symlink redirect the later download write
+https://hackerone.com/reports/3749204 | CVE-2026-9080: UAF after pause in socket callback
 https://hackerone.com/reports/3749428 | curl cross-origin HTTPS redirect reuses TLS client certificate for unintended second-origin mTLS authentication
+https://hackerone.com/reports/3750295 | CVE-2026-9079: stale proxy password leak
+https://hackerone.com/reports/3751697 | CVE-2026-10536: HTTP/2 stream-dependency tree UAF
 https://hackerone.com/reports/3751701 | Use-after-free in `curl_easy_duphandle()` with HTTP/2 stream-dependency tree
+https://hackerone.com/reports/3751712 | CVE-2026-9547: SSH improper host validation
 https://hackerone.com/reports/3751715 | Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUESS_SCHEME` + `CURLU_NO_GUESS_SCHEME` flow
 https://hackerone.com/reports/3752489 | Memory Corruption via TOCTOU Race in SharedArrayBuffer UTF-8 Decode (`StringBytes::Encode`)
 https://hackerone.com/reports/3752567 | curl GnuTLS backend accepts a clientAuth-only certificate for HTTPS server authentication
+https://hackerone.com/reports/3752888 | CVE-2026-9545: exposing HTTP/3 early data
+https://hackerone.com/reports/3754343 | CVE-2026-9546: sending old referer
 https://hackerone.com/reports/3756699 | lib/ldap.c follows attacker-controlled LDAP referrals and binds to a second server; WinLDAP builds leak current logon credentials (confirmed on Window
 https://hackerone.com/reports/3761647 | TLS conn reuse and session cache ignore fsslctx callback and ssl_config_data flags ( incomplete fix variant of 7541ae569 )
 https://hackerone.com/reports/3761789 | Mentioned unites are at the same time .Then we have to increase the bounty.
@@ -9571,14 +9586,19 @@ https://hackerone.com/reports/3777381 | PRE_PROXY change leaks stale Proxy Diges
 https://hackerone.com/reports/3780733 | DNS domain search list followed for extant domain missing A or AAAA records
 https://hackerone.com/reports/3781015 | Incomplete Fix for CVE-2026-21637: OCSPRequest and resumeSession Events Crash Node.js TLS Server via Unhandled Synchronous Exceptions
 https://hackerone.com/reports/3781305 | OpenSSL TLS 1.2 session resumption accepts expired server certificates in libcurl
+https://hackerone.com/reports/3783438 | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop
 https://hackerone.com/reports/3784125 | GnuTLS OCSP stapling accepts unrelated SingleResponse (no cert-ID binding)
 https://hackerone.com/reports/3785919 | libcurl: HTTP/1.x bare LF byte in response header value enables cookie jar pollution and POST body/credential exfiltration via redirect — RC=0, curl 8
 https://hackerone.com/reports/3786077 | SOCKS5 no-auth accepted despite username/password-only authentication
 https://hackerone.com/reports/3788506 | SSH/SFTP connection reuse can bypass SSH key identity after ssh_config_matches removal
+https://hackerone.com/reports/3788931 | CVE-2026-11586: WS Auto-PONG memory exhaustion
+https://hackerone.com/reports/3788984 | CVE-2026-11564: Native CA trust persist
 https://hackerone.com/reports/3791168 | curl-ipv4-percent-normalization-SSRF
 https://hackerone.com/reports/3791191 | Trailing-Dot Hostname in Redirect Silently Strips Client Certificate and Auth Credentials
+https://hackerone.com/reports/3793260 | CVE-2026-11856: cross-origin Digest auth state leak
 https://hackerone.com/reports/3793495 | Incomplete Suppression of  Transfer-Encoding: chunked Header in HTTP/2 After Redirect From HTTP/1.1
 https://hackerone.com/reports/3795615 | Duplicate chunked Transfer-Encoding lets a malicious origin smuggle a response across reused HTTP proxy connections
+https://hackerone.com/reports/3797526 | CVE-2026-12064: proto-default skips SSH verification
 https://hackerone.com/reports/3802645 | verify-release rebuilds from the tarball under verification, enabling pre-check command execution and false OK for a malicious curl release tarball
 https://hackerone.com/reports/3803415 | Secure cookies leaked to HTTP origins through HTTPS forwarding proxy
 https://hackerone.com/reports/3804525 | Vulnerability Report: Buffer Overflow in Path Sanitization
