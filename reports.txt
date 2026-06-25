@@ -7998,6 +7998,11 @@ https://hackerone.com/reports/1650273 | Off-by-slash vulnerability in nodejs.org
 https://hackerone.com/reports/1651429 | Bypass parsing of transaction data, users on the phishing site will transfer/approve  ERC20 tokens without being alerted
 https://hackerone.com/reports/1652042 | CVE-2022-21831: Possible code injection vulnerability in Rails / Active Storage
 https://hackerone.com/reports/1652046 | Stored XSS in Dovetale by application of creator
+https://hackerone.com/reports/1653676 | [MK8DX] Improper verification of Competition creation allows to create "Official" competitions
+https://hackerone.com/reports/1654145 | Open S3 Bucket Accessible by any Aws User
+https://hackerone.com/reports/1654310 | Incomplete fix for CVE-2022-32209 (XSS in Rails::Html::Sanitizer under certain configurations)
+https://hackerone.com/reports/1654657 | Add products to any livestream.
+https://hackerone.com/reports/1655629 | Bypassing Recaptcha Protection in  `https://connect.acronis.com`
 https://hackerone.com/reports/1656380 | Reddit talk promotion offers don't expire, allowing users to accept them after being demoted
 https://hackerone.com/reports/1657006 | stored cross site scripting in https://███
 https://hackerone.com/reports/1657020 | stored cross site scripting in https://███
