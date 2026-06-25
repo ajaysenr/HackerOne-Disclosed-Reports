@@ -7991,6 +7991,7 @@ https://hackerone.com/reports/1646554 | support.invisionpower.com takeover the s
 https://hackerone.com/reports/1647248 | Stored XSS Via Ads Account Name
 https://hackerone.com/reports/1647287 | Disabling context isolation, nodeIntegrationInSubFrames using an unauthorised frame.
 https://hackerone.com/reports/1650035 | Golang expvar Information Disclosure
+https://hackerone.com/reports/1650210 | Corsa Site Scripting Vulnerability (XSS)
 https://hackerone.com/reports/1650264 | GitHub Security Lab (GHSL) Vulnerability Report: SQLInjection in FileContentProvider.kt (GHSL-2022-059)
 https://hackerone.com/reports/1650270 | GitHub Security Lab (GHSL) Vulnerability Report: Insufficient path validation in ReceiveExternalFilesActivity.java (GHSL-2022-060)
 https://hackerone.com/reports/1650273 | Off-by-slash vulnerability in nodejs.org and iojs.org
