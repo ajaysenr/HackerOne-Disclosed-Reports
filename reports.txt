@@ -8004,9 +8004,12 @@ https://hackerone.com/reports/1654310 | Incomplete fix for CVE-2022-32209 (XSS i
 https://hackerone.com/reports/1654657 | Add products to any livestream.
 https://hackerone.com/reports/1655629 | Bypassing Recaptcha Protection in  `https://connect.acronis.com`
 https://hackerone.com/reports/1656380 | Reddit talk promotion offers don't expire, allowing users to accept them after being demoted
+https://hackerone.com/reports/1656627 | Rails::Html::SafeListSanitizer vulnerable to XSS when certain tags are allowed (math+style || svg+style)
+https://hackerone.com/reports/1656650 | Reflected Cross site scripting via Swagger UI
 https://hackerone.com/reports/1657006 | stored cross site scripting in https://███
 https://hackerone.com/reports/1657020 | stored cross site scripting in https://███
 https://hackerone.com/reports/1657030 | stored cross site scripting in https://██████████
+https://hackerone.com/reports/1657033 | stored cross site scripting in https://███
 https://hackerone.com/reports/1658418 | Getting access of mod logs from any public or restricted subreddit with IDOR vulnerability
 https://hackerone.com/reports/1660500 | stored cross site scripting in https://█████████
 https://hackerone.com/reports/1661113 | IDOR allows an attacker to modify the links of any user
