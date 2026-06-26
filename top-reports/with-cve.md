@@ -1,4 +1,4 @@
-# Reports with CVE Assignments (1479 total)
+# Reports with CVE Assignments (1502 total)
 
 | # | Report | Title | CVE IDs | Severity | Bounty | Votes |
 |---|---|---|---|---|---|---|
@@ -934,550 +934,573 @@
 | 930 | [1243650](../reports/1243650.md) | ███████ - XSS - CVE-2020-3580 | CVE-2020-3580 | Medium | — | 8 |
 | 931 | [506040](../reports/506040.md) | ChaCha20-Poly1305 with long nonces | CVE-2019-1543 | High — CVSS 7.4 | — | 8 |
 | 932 | [47280](../reports/47280.md) | JSON keys are not properly escaped | CVE-2015-3226 | High — CVSS 7.2 | — | 8 |
-| 933 | [3692858](../reports/3692858.md) | Permission Model Bypass via `process.report.writeReport | CVE-2026-48617 | Low — CVSS 1.8 | — | 8 |
-| 934 | [2051224](../reports/2051224.md) | fs.statfs bypasses Permission Model | CVE-2023-32005 | Low — CVSS 3.3 | — | 8 |
-| 935 | [3650582](../reports/3650582.md) | Missing access control when linking trackers to campaig | CVE-2026-34913 | Medium — CVSS 4.3 | — | 8 |
-| 936 | [921717](../reports/921717.md) | Improper access control to messages of Social app | CVE-2020-8278 | Medium — CVSS 5.0 | — | 8 |
-| 937 | [149798](../reports/149798.md) | Content (Text) Injection at NextCloud Server 9.0.52 - v | CVE-2016-9468 | Low — CVSS 3.1 | — | 8 |
-| 938 | [298862](../reports/298862.md) | It's possible to view configuration and/or source code  | CVE-2005-2169, CVE-2005-0202 | Medium | — | 7 |
-| 939 | [802846](../reports/802846.md) |  The VTP parser in tcpdump before 4.9.2 has a buffer ov | CVE-2017-13033 | High | — | 7 |
-| 940 | [1844777](../reports/1844777.md) | Reflected Cross-Site Scripting(CVE-2022-32770 ) | CVE-2022-32770 | High | — | 7 |
-| 941 | [2094785](../reports/2094785.md) |  Cargo not respecting umask when extracting crate archi | CVE-2023-38497 | High — CVSS 7.9 | $4,660 | 7 |
-| 942 | [146067](../reports/146067.md) | Read-only share recipient can restore old versions of f | CVE-2016-9462 | None | $300 | 7 |
-| 943 | [1129529](../reports/1129529.md) | CVE-2021-22890: TLS 1.3 session ticket proxy host mixup | CVE-2021-22890 | Low | — | 7 |
-| 944 | [470553](../reports/470553.md) | Unauthorized command execution in Web protection compon | CVE-2019-15685 | Medium | — | 7 |
-| 945 | [330285](../reports/330285.md) | [mcstatic] Server Directory Traversal | CVE-2018-16482 | High — CVSS 8.6 | — | 7 |
-| 946 | [261336](../reports/261336.md) | Out of Bounds Memory Read in unserialize() | CVE-2017-12933 | Medium | — | 7 |
-| 947 | [1024668](../reports/1024668.md) | Brave Browser potentially logs the last time a Tor wind | CVE-2020-8276 | Low — CVSS 3.5 | $100 | 7 |
-| 948 | [261338](../reports/261338.md) | Heap Use After Free in unserialize() | CVE-2017-12934 | Medium | — | 7 |
-| 949 | [309367](../reports/309367.md) | [metascraper] Stored XSS in Open Graph meta properties  | CVE-2018-3773 | Critical — CVSS 9.6 | — | 7 |
-| 950 | [784186](../reports/784186.md) | napi_get_value_string_X allow various kinds of memory c | CVE-2020-8174 | High — CVSS 8.5 | $250 | 7 |
-| 951 | [310106](../reports/310106.md) | [glance] Path Traversal in glance static file server al | CVE-2018-3715 | High — CVSS 8.6 | — | 7 |
-| 952 | [388936](../reports/388936.md) | [egg-scripts] Command injection | CVE-2018-3786 | High — CVSS 8.6 | — | 7 |
-| 953 | [794144](../reports/794144.md) | Open redirection bypass in /www/admin/campaign-modify.p | CVE-2020-8143 | Low | — | 7 |
-| 954 | [331302](../reports/331302.md) | Improper protection of FileContentProvider | CVE-2018-3765 | Low | — | 7 |
-| 955 | [1614331](../reports/1614331.md) | CVE-2022-32207: Unpreserved file permissions | CVE-2022-32207 | Medium | $2,400 | 7 |
-| 956 | [632721](../reports/632721.md) | Root Remote Code Execution on https://███ | CVE-2019-11580 | Critical | — | 7 |
-| 957 | [315760](../reports/315760.md) | Path Traversal on Resolve-Path | CVE-2018-3732 | High — CVSS 8.6 | — | 7 |
-| 958 | [1147951](../reports/1147951.md) | CVE-2019-3403 on https://████/rest/api/2/user/picker?qu | CVE-2019-3403 | Medium | — | 7 |
-| 959 | [3120987](../reports/3120987.md) | [High] Arbitrary File Write via Path Traversal in cURL  | CVE-2020-8284 | High | — | 7 |
-| 960 | [1680241](../reports/1680241.md) | DoS via Automatic Response Message | CVE-2022-4044 | Medium — CVSS 5.0 | — | 7 |
-| 961 | [691977](../reports/691977.md) | [reveal.js] XSS by calling arbitrary method via postMes | CVE-2020-8127 | Medium — CVSS 5.4 | — | 7 |
-| 962 | [987090](../reports/987090.md) | https://██████ vulnerable to CVE-2020-3187 - Unauthenti | CVE-2020-3187 | Critical | — | 7 |
-| 963 | [1946470](../reports/1946470.md) | Dependency Policy Bypass via process.binding | CVE-2023-32559 | Medium — CVSS 5.5 | — | 7 |
-| 964 | [1183472](../reports/1183472.md) |  SSRF due to  CVE-2021-27905 in www.████████ | CVE-2021-27905 | Medium | — | 7 |
-| 965 | [772448](../reports/772448.md) | [blamer] RCE via insecure command formatting | CVE-2020-8137 | High — CVSS 7.5 | — | 7 |
-| 966 | [492512](../reports/492512.md) | [bower] Arbitrary File Write through improper validatio | CVE-2019-5484 | High | $500 | 7 |
-| 967 | [407319](../reports/407319.md) | ActiveStorage service's signed URLs can be hijacked via | CVE-2018-16477 | High — CVSS 7.4 | — | 7 |
-| 968 | [2552179](../reports/2552179.md) | Incorrect Encoding Conversion in hostname  results in i | CVE-2012-1823, CVE-2024-4577 | Low | — | 7 |
-| 969 | [1334763](../reports/1334763.md) | CVE-2021-22947: STARTTLS protocol injection via MITM | CVE-2021-22947 | Medium — CVSS 5.3 | — | 7 |
-| 970 | [1448268](../reports/1448268.md) | TOTP 2 Factor Authentication Bypass | CVE-2022-35248 | High | — | 7 |
-| 971 | [1097979](../reports/1097979.md) | Reflected XSS on /admin/campaign-zone-zones.php | CVE-2021-22888 | Medium | — | 7 |
-| 972 | [1364797](../reports/1364797.md) | SSRF - pivoting in the private LAN | CVE-2021-22970 | Low — CVSS 3.5 | — | 7 |
-| 973 | [510888](../reports/510888.md) | [CVE-2018-18313] regcomp: heap-buffer-overflow read in  | CVE-2018-18313 | Critical — CVSS 9.1 | — | 7 |
-| 974 | [1167919](../reports/1167919.md) | Default Nextcloud server config and iOS Nextcloud clien | CVE-2021-22912 | Low | — | 7 |
-| 975 | [859962](../reports/859962.md) | Bypass apiserver proxy filter | CVE-2020-8562 | Medium — CVSS 6.8 | — | 7 |
-| 976 | [514421](../reports/514421.md) | smtp service vulnerable to POODLE SSLv3 | CVE-2014-3566 | Low | — | 7 |
-| 977 | [1176461](../reports/1176461.md) | CVE-2021-22898: TELNET stack contents disclosure | CVE-2021-22898 | Medium — CVSS 5.5 | — | 7 |
-| 978 | [54327](../reports/54327.md) | Persistent cross-site scripting (XSS) in map attributio | CVE-2017-1000042 | None | $1,000 | 7 |
-| 979 | [2509402](../reports/2509402.md) | Out-Of-Bounds Memory Read on ███ | CVE-2023-4966 | None | — | 7 |
-| 980 | [1721098](../reports/1721098.md) | CVE-2022-35260: .netrc parser out-of-bounds access | CVE-2022-35260 | Low | — | 7 |
-| 981 | [1889474](../reports/1889474.md) | Ruby's CGI library has HTTP response splitting (HTTP he | CVE-2021-33621 | High | — | 7 |
-| 982 | [319003](../reports/319003.md) | [stattic] Inproper path validation leads to Path Traver | CVE-2018-3734 | High — CVSS 8.6 | — | 7 |
-| 983 | [1047447](../reports/1047447.md) | HostAuthorization middleware does not suitably sanitize | CVE-2021-22881 | Low | — | 7 |
-| 984 | [165686](../reports/165686.md) | Reflected XSS in Gallery App | CVE-2016-9466 | Medium — CVSS 6.1 | — | 7 |
-| 985 | [1888758](../reports/1888758.md) | Inadequate Encryption Strength in nodejs-current reads  | CVE-2022-32222 | Medium | $2,400 | 7 |
-| 986 | [3560256](../reports/3560256.md) | Cross-repository IDOR in `/settings/security_analysis/b | CVE-2026-3307 | Medium | — | 7 |
-| 987 | [3656781](../reports/3656781.md) | PHP code injection via delivery limitation logical  | CVE-2026-34916 | High — CVSS 8.8 | — | 7 |
-| 988 | [1501679](../reports/1501679.md) | HTTP Request Smuggling Due to Incorrect Parsing of Mult | CVE-2022-32215 | Medium — CVSS 6.5 | — | 7 |
-| 989 | [139321](../reports/139321.md) | Unsafe Query Generation (CVE-2012-2660, CVE-2012-2694 a | CVE-2016-6317, CVE-2012-2660, CVE-2012-2694, CVE-2013-0155 | None | — | 7 |
-| 990 | [3775183](../reports/3775183.md) | Incomplete fix for CVE-2022-35406: meta-redirect conten | CVE-2022-35406 | High | — | 7 |
-| 991 | [778803](../reports/778803.md) | Compromise of auth via subset/superset namespace names. | CVE-2020-8553 | Medium — CVSS 6.6 | — | 7 |
-| 992 | [783852](../reports/783852.md) | Nginx version is disclosed in HTTP response | CVE-2019-9511, CVE-2019-9513, CVE-2019-9516 | None | — | 7 |
-| 993 | [181642](../reports/181642.md) | libtiff 4.0.6 heap bufer overflow / out of bounds read  | CVE-2016-9273 | Medium — CVSS 5.4 | — | 7 |
-| 994 | [364964](../reports/364964.md) | Client DoS due to large DH parameter (CVE-2018-0732) | CVE-2018-0732 | Low | — | 7 |
-| 995 | [724217](../reports/724217.md) | tcpdump: CVE-2018-14879 - buffer overflow in tcpdump.c: | CVE-2018-14879 | Critical | — | 7 |
-| 996 | [268804](../reports/268804.md) | CVE-2017-12986 The IPv6 routing header parser in tcpdum | CVE-2017-12986 | High — CVSS 7.3 | — | 7 |
-| 997 | [1161691](../reports/1161691.md) | OS Command Injection in 'rdoc' documentation generator | CVE-2021-31799 | Medium — CVSS 6.4 | — | 7 |
-| 998 | [570133](../reports/570133.md) | [http-file-server] List any files and sub folders in th | CVE-2019-5447 | High — CVSS 8.2 | — | 7 |
-| 999 | [166634](../reports/166634.md) | SSLv2 doesn't block disabled ciphers (CVE-2015-3197) | CVE-2015-3197 | None | — | 7 |
-| 1000 | [113928](../reports/113928.md) | Remote code execution using render :inline | CVE-2016-0752 | None | $1,500 | 7 |
-| 1001 | [1990421](../reports/1990421.md) |  CVE-2023-28320 - siglongjmp race condition | CVE-2023-28320 | Low | $480 | 7 |
-| 1002 | [380878](../reports/380878.md) | Prototype pollution attack (defaults-deep / constructor | CVE-2018-16486 | Medium — CVSS 6.1 | — | 7 |
-| 1003 | [1927480](../reports/1927480.md) | DiffieHellman doesn't generate keys after setting a key | CVE-2023-30590 | Medium | — | 7 |
-| 1004 | [358339](../reports/358339.md) | File access control rules not enforced on image files | CVE-2018-3762 | Low — CVSS 3.5 | — | 7 |
-| 1005 | [475499](../reports/475499.md) | heap buffer overflow in phar_detect_phar_fname_ext | CVE-2019-9021 | Critical — CVSS 9.8 | — | 7 |
-| 1006 | [745276](../reports/745276.md) | Dragonblood: Design and Implementation Flaws in WPA3 an | CVE-2019-9498, CVE-2019-9499, CVE-2019-11235, CVE-2019-9497, CVE-2019-11234, CVE-2019-13377, CVE-2019-13456 | Medium | — | 7 |
-| 1007 | [221787](../reports/221787.md) | Malformed SHA512 ticket DoS (CVE-2016-6302) | CVE-2016-6302 | Low | — | 7 |
-| 1008 | [732415](../reports/732415.md) | The authenticity_token can be reversed and used to forg | CVE-2020-8166 | Medium — CVSS 5.9 | — | 7 |
-| 1009 | [1415436](../reports/1415436.md) | Deserialization of potentially malicious data to RCE | CVE-2021-33026 | High | — | 7 |
-| 1010 | [300513](../reports/300513.md) | WebLogic Server Side Request Forgery | CVE-2014-4241, CVE-2014-4210 | Medium | — | 6 |
-| 1011 | [3531737](../reports/3531737.md) | Memory leak in Node.js HTTP/2 server via WINDOW_UPDATE  | CVE-2026-21714 | Medium — CVSS 5.3 | — | 6 |
-| 1012 | [622864](../reports/622864.md) | https://█████████ Vulnerable to CVE-2018-0296 Cisco ASA | CVE-2018-0296 | High | — | 6 |
-| 1013 | [1445810](../reports/1445810.md) | Mute User can disclose private channel members to unaut | CVE-2023-28357 | Medium — CVSS 4.3 | — | 6 |
-| 1014 | [1246721](../reports/1246721.md) | Text app leaks file path of shared files | CVE-2021-32734 | Low | — | 6 |
-| 1015 | [1726445](../reports/1726445.md) | A vulnerability classified as critical has been found i | CVE-2019-7639 | Low | — | 6 |
-| 1016 | [212022](../reports/212022.md) | Remote Code Execution (RCE) in a DoD website | CVE-2017-5638 | Critical | — | 6 |
-| 1017 | [1354334](../reports/1354334.md) | Error in Deleting Deck cards attachment reveals the ful | CVE-2022-24906 | Low — CVSS 3.5 | — | 6 |
-| 1018 | [1579820](../reports/1579820.md) | Ownership check missing when updating or deleting attac | CVE-2022-31131 | Medium — CVSS 5.4 | — | 6 |
-| 1019 | [312907](../reports/312907.md) | [mcstatic] Path Traversal allows to read content of arb | CVE-2018-3730 | High — CVSS 8.6 | — | 6 |
-| 1020 | [1455248](../reports/1455248.md) | Buffer Overflow in optimized_escape_html method | CVE-2021-41816 | Medium | — | 6 |
-| 1021 | [184877](../reports/184877.md) |  Out-of-date Version (Apache)  | CVE-2010-1452, CVE-2010-1623, CVE-2011-0419, CVE-2011-3192, CVE-2007-0086, CVE-2011-3368, CVE-2012-0031, CVE-2011-4317, CVE-2011-3348, CVE-2012-4557, CVE-2012-4558, CVE-2013-1862, CVE-2013-1896, CVE-2013-6438, CVE-2014-0098 | Medium | — | 6 |
-| 1022 | [703138](../reports/703138.md) | [yarn] yarn.lock integrity & hash check logic is broken | CVE-2019-15608 | Critical — CVSS 9.6 | — | 6 |
-| 1023 | [1511619](../reports/1511619.md) | Read and write beyond bounds in mod_sed | CVE-2022-23943 | High | — | 6 |
-| 1024 | [194065](../reports/194065.md) |  DoS vulnerability in mod_auth_digest CVE-2016-2161 | CVE-2016-2161 | Low | — | 6 |
-| 1025 | [1630667](../reports/1630667.md) |  CVE-2022-32215 - HTTP Request Smuggling Due to Incorre | CVE-2022-32215 | Medium | $1,800 | 6 |
-| 1026 | [170156](../reports/170156.md) | Reflected XSS in Step 2 of the Installation | CVE-2016-9472 | None | — | 6 |
-| 1027 | [1879548](../reports/1879548.md) | Missing Function Level Access Control in Mozilla formul | CVE-2023-25166 | Medium | — | 6 |
-| 1028 | [358645](../reports/358645.md) | [serve] Server Directory Traversal | CVE-2019-5417 | Critical — CVSS 9.3 | — | 6 |
-| 1029 | [3717552](../reports/3717552.md) | CURLOPT_PROXY_CRLFILE / CURLOPT_PROXY_ISSUERCERT / CURL | CVE-2025-5025, CVE-2025-13034, CVE-2024-2466 | Low | — | 6 |
-| 1030 | [362118](../reports/362118.md) | Arbitrary File Write Through Archive Extraction | CVE-2018-1002204 | High — CVSS 8.2 | — | 6 |
-| 1031 | [309124](../reports/309124.md) | [node-srv] Path Traversal allows to read arbitrary file | CVE-2018-3714 | High — CVSS 8.6 | — | 6 |
-| 1032 | [298990](../reports/298990.md) | Configuration and/or source code files on uchat-staging | CVE-2005-2169, CVE-2005-0202 | Medium | — | 6 |
-| 1033 | [1404789](../reports/1404789.md) | Ruby - Regular Expression Denial of Service Vulnerabili | CVE-2021-41817 | Medium | — | 6 |
-| 1034 | [1614328](../reports/1614328.md) | CVE-2022-32205: Set-Cookie denial of service | CVE-2022-32205 | Low | $480 | 6 |
-| 1035 | [1681208](../reports/1681208.md) | XSS DUE TO CVE-2022-38463 in https://████████ | CVE-2022-38463 | Medium | — | 6 |
-| 1036 | [2107](../reports/2107.md) | Handling of jar: URIs bypasses AllowScriptAccess=never | CVE-2014-0491 | None | $2,000 | 6 |
-| 1037 | [1966492](../reports/1966492.md) | fs.openAsBlob() bypasses permission system | CVE-2023-30583 | Medium — CVSS 4.4 | — | 6 |
-| 1038 | [686823](../reports/686823.md) | CVE-2019-5481: krb5: double-free in read_data() after r | CVE-2019-5481 | Medium — CVSS 6.3 | — | 6 |
-| 1039 | [192567](../reports/192567.md) | Remote code execution vulnerability on a DoD website | CVE-2014-0094 | High | — | 6 |
-| 1040 | [403692](../reports/403692.md) | [tianma-static] Stored xss on filename | CVE-2018-16474 | Medium — CVSS 6.7 | — | 6 |
-| 1041 | [1018146](../reports/1018146.md) | Potential DDoS when posting long data into workflow val | CVE-2020-8293 | Medium — CVSS 5.7 | — | 6 |
-| 1042 | [1204977](../reports/1204977.md) | CGI::Cookieクラスにおけるセキュリティ上好ましくない仕様および実装 | CVE-2021-33621 | Low | — | 6 |
-| 1043 | [226335](../reports/226335.md) | Escape sequence injection in "summary" field | CVE-2017-0899 | Low | $500 | 6 |
-| 1044 | [661647](../reports/661647.md) | Local File Disclosure (+XSS+CSRF) in AirOS 6.2.0 device | CVE-2020-8170, CVE-2020-8168 | Medium — CVSS 6.1 | — | 6 |
-| 1045 | [662218](../reports/662218.md) | Talk - Leak of password-protected room name via already | CVE-2019-15620 | Low — CVSS 2.7 | $150 | 6 |
-| 1046 | [296991](../reports/296991.md) | Exim use-after-free vulnerability while reading mail he | CVE-2017-16943 | Critical — CVSS 9.8 | — | 6 |
-| 1047 | [510025](../reports/510025.md) | Invalid Read on exif_process_SOFn | CVE-2019-9640 | High — CVSS 7.5 | — | 6 |
-| 1048 | [113831](../reports/113831.md) | Regarding [CVE-2016-0752] Possible Information Leak Vul | CVE-2016-0752 | None | — | 6 |
-| 1049 | [1218173](../reports/1218173.md) | Cross-site Scripting (XSS) possible  at https://sifchai | CVE-2019-8331 | Medium — CVSS 6.5 | — | 6 |
-| 1050 | [2094235](../reports/2094235.md) | Integrity checks according to policies can be circumven | CVE-2023-38552 | Medium | — | 6 |
-| 1051 | [1813864](../reports/1813864.md) | CVE-2023-23914: curl HSTS ignored on multiple requests | CVE-2023-23914 | Low | — | 6 |
-| 1052 | [390860](../reports/390860.md) | Prototype Pollution Vulnerability in mpath Package | CVE-2018-16490 | High — CVSS 7.6 | — | 6 |
-| 1053 | [1238099](../reports/1238099.md) | HTTP Request Smuggling due to ignoring chunk extensions | CVE-2021-22960 | Medium | $250 | 6 |
-| 1054 | [1241460](../reports/1241460.md) | ApiService#fetch serves content as text/html and inline | CVE-2021-32733 | None | — | 6 |
-| 1055 | [208566](../reports/208566.md) | Outdated Jenkins server hosted at OwnCloud.org | CVE-2016-3727, CVE-2017-2608 | None | — | 6 |
-| 1056 | [1781751](../reports/1781751.md) | Ability to control the filename when uploading a logo o | CVE-2023-28833 | Low — CVSS 2.4 | — | 6 |
-| 1057 | [1538157](../reports/1538157.md) | Regular Expression Denial of Service vulnerability | CVE-2021-32640 | Medium | — | 6 |
-| 1058 | [439828](../reports/439828.md) | Event privacy level does not work in Thunderbird | CVE-2020-8117 | Medium — CVSS 4.8 | — | 6 |
-| 1059 | [403736](../reports/403736.md) | [takeapeek] Path traversal allow to expose directory an | CVE-2018-16473 | High — CVSS 8.6 | — | 6 |
-| 1060 | [3449392](../reports/3449392.md) | CVE-2024-36137 Patch Bypass - FileHandle.chmod/chown | CVE-2026-21716 | Low — CVSS 3.3 | — | 6 |
-| 1061 | [200909](../reports/200909.md) | Out of bounds memory read in unserialize() | CVE-2016-10161 | Medium | $500 | 6 |
-| 1062 | [1664019](../reports/1664019.md) | CVE-2022-35948: CRLF Injection in Nodejs ‘undici’ via C | CVE-2022-35948 | Medium | — | 6 |
-| 1063 | [182140](../reports/182140.md) | libtiff 4.0.6 segfault / read outside of buffer (CVE-20 | CVE-2016-9297 | Medium | — | 6 |
-| 1064 | [815084](../reports/815084.md) | [Limited bypass of #793704] Blind SSRF in Ghost CMS | CVE-2020-8134 | Low — CVSS 2.7 | — | 6 |
-| 1065 | [432600](../reports/432600.md) | [static-resource-server]  Path Traversal allows to read | CVE-2018-16493 | High — CVSS 8.6 | — | 6 |
-| 1066 | [309641](../reports/309641.md) | [simple-server] HTML with iframe element can be used as | CVE-2018-3717 | High — CVSS 7.7 | — | 6 |
-| 1067 | [311216](../reports/311216.md) | [626] Path Traversal allows to read arbitrary file from | CVE-2018-3727 | High — CVSS 8.6 | — | 6 |
-| 1068 | [1145044](../reports/1145044.md) | Holes in EndpointSlice Validation Enable Host Network H | CVE-2021-25737 | Low — CVSS 2.7 | — | 5 |
-| 1069 | [99245](../reports/99245.md) | XSS in L.mapbox.shareControl in mapbox.js | CVE-2017-1000043 | None | $1,000 | 5 |
-| 1070 | [1745702](../reports/1745702.md) | Insecure randomness for default password in file sharin | CVE-2023-28835 | Low — CVSS 3.5 | — | 5 |
-| 1071 | [3483708](../reports/3483708.md) | Valid share tokens allow to access tempory upload files | CVE-2026-45157 | Medium — CVSS 6.3 | — | 5 |
-| 1072 | [197253](../reports/197253.md) | formassembly.com is vulnerable to padding-oracle attack | CVE-2016-2107 | Medium — CVSS 5.9 | — | 5 |
-| 1073 | [1234760](../reports/1234760.md) | CVE-2021-22926: CURLOPT_SSLCERT mixup with Secure Trans | CVE-2021-22926 | Medium — CVSS 4.0 | — | 5 |
-| 1074 | [341710](../reports/341710.md) | [git-dummy-commit] Command injection on the msg paramet | CVE-2018-3785 | Critical — CVSS 10.0 | — | 5 |
-| 1075 | [1595281](../reports/1595281.md) | Read beyond bounds in ap_strcmp_match() [zhbug_httpd_47 | CVE-2022-28615 | Low | — | 5 |
-| 1076 | [3653316](../reports/3653316.md) | Reflected XSS via clientid parameter in zone‑include.ph | CVE-2026-34915 | Medium — CVSS 6.1 | — | 5 |
-| 1077 | [3733934](../reports/3733934.md) | CURLOPT_HSTS_CTRL disables shared HSTS without share gu | CVE-2018-16840, CVE-2023-27537 | None | — | 5 |
-| 1078 | [2861797](../reports/2861797.md) | curl mishandles `%0c%0b` sequences in HTTP responses le | CVE-2012-0036 | None | — | 5 |
-| 1079 | [660563](../reports/660563.md) | [script-manager] Unintended require | CVE-2020-8129 | Low | — | 5 |
-| 1080 | [119657](../reports/119657.md) | Adobe Flash Player Race Condition Vulnerability | CVE-2015-3103 | None | $2,000 | 5 |
-| 1081 | [221790](../reports/221790.md) | Certificate message OOB reads (CVE-2016-6306) | CVE-2016-6306 | Low | — | 5 |
-| 1082 | [231917](../reports/231917.md) | Shared file link - password protection bypass under cer | CVE-2018-16467, CVE-2019-5449 | Medium | $50 | 5 |
-| 1083 | [1073202](../reports/1073202.md) | Canonical Snapcraft vulnerable to remote code execution | CVE-2020-27348 | Medium — CVSS 6.8 | — | 5 |
-| 1084 | [1630336](../reports/1630336.md) | CVE-2022-32213 bypass via obs-fold mechanic | CVE-2022-32213 | Medium | — | 5 |
-| 1085 | [2170](../reports/2170.md) | Flash double free vulnerability leads to code execution | CVE-2014-0502 | None | — | 5 |
-| 1086 | [1129996](../reports/1129996.md) | Create alias does not validate account id | CVE-2021-22896 | Medium — CVSS 5.0 | — | 5 |
-| 1087 | [154827](../reports/154827.md) | More content spoofing through dir param in the files ap | CVE-2016-9467 | Low — CVSS 3.1 | $50 | 5 |
-| 1088 | [316346](../reports/316346.md) | [public] Stored XSS in filenames in directory served by | CVE-2018-3747 | Low — CVSS 3.9 | — | 5 |
-| 1089 | [43440](../reports/43440.md) | Arbitrary file existence disclosure in Action Pack | CVE-2014-7829 | None | — | 5 |
-| 1090 | [362119](../reports/362119.md) | Arbitrary File Write through archive extraction | CVE-2018-1002203 | High — CVSS 8.2 | — | 5 |
-| 1091 | [221785](../reports/221785.md) | OOB write in MDC2_Update() (CVE-2016-6303) | CVE-2016-6303 | Low | — | 5 |
-| 1092 | [321686](../reports/321686.md) | `atob` allocates uninitialized Buffers when number is p | CVE-2018-3745 | Medium — CVSS 6.5 | — | 5 |
-| 1093 | [1379451](../reports/1379451.md) | Messages can be hidden regardless of server configurati | CVE-2023-28318 | Medium — CVSS 4.3 | — | 5 |
-| 1094 | [47227](../reports/47227.md) | Race condition in workers may cause an exploitable doub | CVE-2015-0312 | None | — | 5 |
-| 1095 | [201346](../reports/201346.md) | CVE-2017-3730: Bad (EC)DHE parameters cause a client cr | CVE-2017-3730 | Medium | — | 5 |
-| 1096 | [1663788](../reports/1663788.md) | [CVE-2022-35949]: undici.request vulnerable to SSRF usi | CVE-2022-35949 | Medium | — | 5 |
-| 1097 | [381185](../reports/381185.md) | Prototype pollution attack (extend) | CVE-2018-16492 | Critical — CVSS 9.3 | — | 5 |
-| 1098 | [3718265](../reports/3718265.md) | Shared HSTS cache accessed without lock | CVE-2023-27537 | None | — | 5 |
-| 1099 | [1555441](../reports/1555441.md) | CVE-2022-27781: CERTINFO never-ending busy-loop | CVE-2022-27781 | Low | — | 5 |
-| 1100 | [308155](../reports/308155.md) | [html-janitor] Passing user-controlled data to clean()  | CVE-2017-0931 | Critical — CVSS 9.8 | — | 5 |
-| 1101 | [50170](../reports/50170.md) | FREAK: Factoring RSA_EXPORT Keys to Impersonate TLS Ser | CVE-2015-0204 | None | — | 5 |
-| 1102 | [1595296](../reports/1595296.md) | Read beyond bounds in mod_isapi.c [zhbug_httpd_41] | CVE-2022-28330 | Low | — | 5 |
-| 1103 | [221789](../reports/221789.md) | OOB read in TS_OBJ_print_bio() (CVE-2016-2180) | CVE-2016-2180 | Low | — | 5 |
-| 1104 | [1595290](../reports/1595290.md) | Controllable read beyond bounds in lua_websocket_readby | CVE-2022-30556 | Low | — | 5 |
-| 1105 | [3669623](../reports/3669623.md) | Stored XSS via Full Name field in userlog email entries | CVE-2026-44956 | Medium — CVSS 5.4 | — | 5 |
-| 1106 | [202967](../reports/202967.md) | CVE-2017-5484 The ATM parser in tcpdump before 4.9.0 ha | CVE-2017-5484 | High — CVSS 7.3 | — | 5 |
-| 1107 | [255587](../reports/255587.md) |  CVE-2017-1000101: cURL: URL globbing out of bounds rea | CVE-2017-1000101 | Medium — CVSS 4.3 | — | 5 |
-| 1108 | [2071556](../reports/2071556.md) | [CVE-2023-27539] Possible Denial of Service Vulnerabili | CVE-2023-27539 | Medium | $2,540 | 5 |
-| 1109 | [202965](../reports/202965.md) | CVE-2017-5341 The OTV parser in tcpdump before 4.9.0 ha | CVE-2017-5341 | High — CVSS 7.3 | — | 5 |
-| 1110 | [917843](../reports/917843.md) | Unsafe deserialization in Nexus Repository helm plugin | CVE-2020-15871 | Critical | — | 5 |
-| 1111 | [674540](../reports/674540.md) | mod_remoteip stack buffer overflow and NULL pointer der | CVE-2019-10097 | Medium | — | 5 |
-| 1112 | [170618](../reports/170618.md) | CVE-2016-7418 PHP Out-Of-Bounds Read in php_wddx_push_e | CVE-2016-7418 | None | — | 5 |
-| 1113 | [1209681](../reports/1209681.md) | OOB read in libuv | CVE-2021-22918 | Medium — CVSS 6.5 | — | 5 |
-| 1114 | [742588](../reports/742588.md) | Downgrade encryption scheme and break integrity through | CVE-2020-8150 | Medium — CVSS 5.3 | — | 5 |
-| 1115 | [247028](../reports/247028.md) | CVE-2017-10966: Heap-use-after-free in Irssi <1.0.4 | CVE-2017-10966 | High | — | 5 |
-| 1116 | [1049375](../reports/1049375.md) | SAML authentication bypass through unauthenticated `add | CVE-2020-29594 | Critical — CVSS 10.0 | — | 5 |
-| 1117 | [1223565](../reports/1223565.md) | CVE-2021-22924: Bad connection reuse due to flawed path | CVE-2021-22924 | High — CVSS 7.1 | — | 5 |
-| 1118 | [789579](../reports/789579.md) | ActiveStorage direct upload fails to sign content-lengt | CVE-2020-8162 | Medium — CVSS 5.3 | — | 5 |
-| 1119 | [223363](../reports/223363.md) | Escape sequence injection vulnerability in WEBrick Basi | CVE-2017-10784 | Medium — CVSS 6.3 | $500 | 5 |
-| 1120 | [221788](../reports/221788.md) | OOB write in BN_bn2dec() (CVE-2016-2182) | CVE-2016-2182 | Low | — | 5 |
-| 1121 | [1119228](../reports/1119228.md) | CVE-2021-26855 on ████████ resulting in SSRF | CVE-2021-26855 | Critical | — | 5 |
-| 1122 | [1596252](../reports/1596252.md) | DoS via lua_read_body() [zhbug_httpd_94] | CVE-2022-29404 | Low | — | 5 |
-| 1123 | [1213175](../reports/1213175.md) | CVE-2021-22922: Wrong content via metalink not discarde | CVE-2021-22922 | Medium | — | 5 |
-| 1124 | [330650](../reports/330650.md) | [serve] Directory listing and File access even when the | CVE-2018-3809 | Critical — CVSS 9.3 | — | 5 |
-| 1125 | [384939](../reports/384939.md) | http-live-simulator npm module is prone to path travers | CVE-2019-5423 | High — CVSS 8.6 | — | 5 |
-| 1126 | [87835](../reports/87835.md) | Webview Vulnerablity [OwnCloudAndroid Application]  | CVE-2013-4710 | None | — | 5 |
-| 1127 | [221792](../reports/221792.md) | Excessive allocation of memory in dtls1_preprocess_frag | CVE-2016-6308, CVE-2016-6307 | Low | — | 5 |
-| 1128 | [329950](../reports/329950.md) | [public] Stored XSS in the filename when directories li | CVE-2018-16480 | Medium — CVSS 5.5 | — | 5 |
-| 1129 | [1485501](../reports/1485501.md) | ReDoS in Time.rfc2822 | CVE-2023-28756 | None | — | 5 |
-| 1130 | [673724](../reports/673724.md) | Circle email-members have still access to a shared fold | CVE-2019-15610 | Low — CVSS 2.0 | $200 | 5 |
-| 1131 | [722748](../reports/722748.md) | Bypass configured 2FA provider with another provider th | CVE-2019-15617 | Medium — CVSS 4.6 | — | 5 |
-| 1132 | [1101882](../reports/1101882.md) | CVE-2021-22876: Automatic referer leaks credentials | CVE-2021-22876 | Low | — | 5 |
-| 1133 | [1886139](../reports/1886139.md) | HTTP multi-header compression denial of service | CVE-2023-23916 | Medium — CVSS 5.3 | — | 5 |
-| 1134 | [1606039](../reports/1606039.md) | CVE-2022-27781: CERTINFO never-ending busy-loop | CVE-2022-27781 | Low | — | 5 |
-| 1135 | [216840](../reports/216840.md) | OCSP Status Request extension unbounded memory growth ( | CVE-2016-6304 | High | — | 5 |
-| 1136 | [509315](../reports/509315.md) | c3p0 may be exploited by a Billion Laughs Attack when l | CVE-2019-5427, CVE-2018-20433 | Medium — CVSS 6.2 | — | 5 |
-| 1137 | [2125679](../reports/2125679.md) | [CVE-2023-23913] DOM Based Cross-site Scripting in rail | CVE-2023-23913 | Medium | — | 5 |
-| 1138 | [330356](../reports/330356.md) | [html-pages] Stored XSS in the filename when directorie | CVE-2018-16481 | High — CVSS 7.3 | — | 5 |
-| 1139 | [1944515](../reports/1944515.md) | CVE-2023-28755: ReDoS vulnerability in URI | CVE-2023-28755 | Medium — CVSS 6.5 | — | 5 |
-| 1140 | [2140](../reports/2140.md) | Flash local-with-fileaccess Sandbox Bypass | CVE-2014-0508 | None | — | 5 |
-| 1141 | [980649](../reports/980649.md) | [json8-merge-patch] Prototype Pollution | CVE-2020-8268 | High — CVSS 7.3 | — | 5 |
-| 1142 | [390929](../reports/390929.md) | Code Injection Vulnerability in dot Package | CVE-2020-8141 | High — CVSS 7.4 | — | 5 |
-| 1143 | [191979](../reports/191979.md) | Limitation of app specific password scope can be bypass | CVE-2017-0892 | Low — CVSS 3.0 | $300 | 5 |
-| 1144 | [142472](../reports/142472.md) | CVE-2016-2177 Undefined pointer arithmetic in SSL code | CVE-2016-2177 | None | — | 5 |
-| 1145 | [221791](../reports/221791.md) | Excessive allocation of memory in tls_get_message_heade | CVE-2016-6307 | Low | — | 5 |
-| 1146 | [1568175](../reports/1568175.md) | Credential leak on redirect | CVE-2022-27776 | Medium | — | 5 |
-| 1147 | [1690510](../reports/1690510.md) | the complete server installation path is visible in clo | CVE-2023-28834 | Low — CVSS 3.5 | — | 5 |
-| 1148 | [1321358](../reports/1321358.md) | XSS exploit of RDoc documentation generated by rdoc | CVE-2013-0256 | Medium | — | 5 |
-| 1149 | [1069487](../reports/1069487.md) | DNS rebinding in --inspect (insufficient fix of CVE-201 | CVE-2021-22884, CVE-2018-7160 | High — CVSS 7.5 | $500 | 5 |
-| 1150 | [1553301](../reports/1553301.md) | CVE-2022-27779: cookie for trailing dot TLD | CVE-2022-27779 | Medium | — | 5 |
-| 1151 | [924393](../reports/924393.md) | PIN for passwordless WebAuthn is asked for but not veri | CVE-2020-8236 | Medium — CVSS 4.3 | — | 4 |
-| 1152 | [288993](../reports/288993.md) | SSL_peek() hang on empty record (CVE-2016-6305) | CVE-2016-6305 | Medium | $1,000 | 4 |
-| 1153 | [268806](../reports/268806.md) | CVE-2017-13009 The IPv6 mobility parser in tcpdump befo | CVE-2017-13009 | High — CVSS 7.3 | — | 4 |
-| 1154 | [329400](../reports/329400.md) | Remote Code Execution (RCE) in a DoD website | CVE-2017-10366 | Critical | — | 4 |
-| 1155 | [272497](../reports/272497.md) | Perl $ENV Key Stack Buffer Overflow | CVE-2017-12814 | High | $1,500 | 4 |
-| 1156 | [138179](../reports/138179.md) | Divide-and-conquer session key recovery in SSLv2 (CVE-2 | CVE-2016-0703 | None | — | 4 |
-| 1157 | [3658225](../reports/3658225.md) | HTTP/2 sessions never clean up after GOAWAY on invalid  | CVE-2026-48937 | Medium — CVSS 5.3 | — | 4 |
-| 1158 | [636560](../reports/636560.md) | Project Milestones Disclosed Via Groups When the Victim | CVE-2019-15577 | Low | — | 4 |
-| 1159 | [1606068](../reports/1606068.md) | XSS DUE TO CVE-2020-3580 | CVE-2020-3580 | Medium | — | 4 |
-| 1160 | [527042](../reports/527042.md) | CVE-2019-0196: mod_http2 with scoreboard Use-After-Free | CVE-2019-0196 | Medium — CVSS 5.3 | — | 4 |
-| 1161 | [329645](../reports/329645.md) | Silent omission of certificate hostname verification in | CVE-2018-8970 | Critical — CVSS 9.1 | — | 4 |
-| 1162 | [430291](../reports/430291.md) | Prototype pollution attack in just-extend | CVE-2018-16489 | Medium — CVSS 5.7 | — | 4 |
-| 1163 | [1806223](../reports/1806223.md) | Reference fetch can saturate the server bandwidth for 1 | CVE-2023-28644 | Medium — CVSS 5.7 | — | 4 |
-| 1164 | [1623175](../reports/1623175.md) | Node 18 reads openssl.cnf from /home/iojs/build/... upo | CVE-2022-32222 | Medium — CVSS 6.6 | — | 4 |
-| 1165 | [1278891](../reports/1278891.md) | [CVE-2021-29156] LDAP Injection at https://██████ | CVE-2021-29156 | Medium | — | 4 |
-| 1166 | [960082](../reports/960082.md) | Read-only path traversal (CVE-2020-3452)  at https://██ | CVE-2020-3452 | High | — | 4 |
-| 1167 | [144782](../reports/144782.md) | CVE-2016-0772 - python: smtplib StartTLS stripping atta | CVE-2016-0772 | None | $1,000 | 4 |
-| 1168 | [3788984](../reports/3788984.md) | CVE-2026-11564: Native CA trust persist | CVE-2026-11564 | Low | — | 4 |
-| 1169 | [1892780](../reports/1892780.md) | CVE-2023-27535: FTP too eager connection reuse | CVE-2023-27535 | Medium | — | 4 |
-| 1170 | [964583](../reports/964583.md) | CVE-2017-13041 The ICMPv6 parser in tcpdump before 4.9. | CVE-2017-13041 | High | $500 | 4 |
-| 1171 | [1596918](../reports/1596918.md) | Brute force protections don't work | CVE-2022-31118 | Low — CVSS 3.7 | — | 4 |
-| 1172 | [27651](../reports/27651.md) | Flash Local Sandbox Bypass | CVE-2014-0554 | None | — | 4 |
-| 1173 | [1361804](../reports/1361804.md) | 1-click DOS in fastify-static via directly passing user | CVE-2021-22964 | Medium — CVSS 5.9 | — | 4 |
-| 1174 | [1141623](../reports/1141623.md) | Unexpected input validation of octal literals in nodejs | CVE-2021-28918, CVE-2020-28360 | Critical — CVSS 10.0 | — | 4 |
-| 1175 | [3739561](../reports/3739561.md) | SSL session-cache peer key omits signature_algorithms:  | CVE-2020-8231 | None | — | 4 |
-| 1176 | [2012135](../reports/2012135.md) | [CVE-2023-22799] Possible ReDoS based DoS vulnerability | CVE-2023-22799 | Low | $480 | 4 |
-| 1177 | [160294](../reports/160294.md) | Memory Leakage In exif_process_IFD_in_TIFF (CVE-2016-71 | CVE-2016-7128 | None | — | 4 |
-| 1178 | [1625036](../reports/1625036.md) | Insecure loading of ICU data through ICU_DATA environme | CVE-2023-23920 | Low — CVSS 3.0 | — | 4 |
-| 1179 | [453820](../reports/453820.md) | [harp] File access even when they have been set to be i | CVE-2019-5437 | Medium — CVSS 5.3 | — | 4 |
-| 1180 | [903521](../reports/903521.md) | Fastify uses allErrors: true ajv configuration by defau | CVE-2020-8192 | Medium — CVSS 5.3 | $250 | 4 |
-| 1181 | [199438](../reports/199438.md) | SWEET32 TLS attack | CVE-2016-2183 | None | — | 4 |
-| 1182 | [1063039](../reports/1063039.md) | Phar Deserialization Vulnerability via Logging Settings | CVE-2021-36766 | Medium — CVSS 6.4 | — | 4 |
-| 1183 | [1213181](../reports/1213181.md) | CVE-2021-22923: Metalink download sends credentials | CVE-2021-22923 | Medium | — | 4 |
-| 1184 | [356809](../reports/356809.md) | [exceljs] Possible XSS via cell value when worksheet is | CVE-2018-16459 | Medium — CVSS 6.8 | — | 4 |
-| 1185 | [3738654](../reports/3738654.md) |  Firecracker Out-of-bounds Read/Write Local Privilege E | CVE-2026-5747 | None | — | 4 |
-| 1186 | [179073](../reports/179073.md) | Content Spoofing in "files" app | CVE-2017-0888 | Low | $50 | 4 |
-| 1187 | [703415](../reports/703415.md) | [treekill] RCE via insecure command concatenation (only | CVE-2019-15598 | High — CVSS 7.3 | — | 4 |
-| 1188 | [1889477](../reports/1889477.md) | Security Unfavorable Specifications and Implementations | CVE-2021-33621 | Low | — | 4 |
-| 1189 | [1910810](../reports/1910810.md) | Apache HTTP Server: mod_proxy_uwsgi HTTP response split | CVE-2023-27522 | Medium | — | 4 |
-| 1190 | [2104564](../reports/2104564.md) | (CVE-2023-32004) Permission model bypass by specifying  | CVE-2023-32004 | High | — | 4 |
-| 1191 | [15362](../reports/15362.md) | Flash Sandbox Bypass | CVE-2014-0535 | None | — | 4 |
-| 1192 | [250581](../reports/250581.md) | CVE-2017-11367: Global buffer overflow (READ of size 4) | CVE-2017-11367 | None | — | 4 |
-| 1193 | [965914](../reports/965914.md) | `fs.realpath.native` on darwin may cause buffer overflo | CVE-2020-8252 | Medium | — | 4 |
-| 1194 | [2071561](../reports/2071561.md) | CVE-2023-36617: ReDoS vulnerability in URI (Ruby) | CVE-2023-36617 | Medium | $2,540 | 4 |
-| 1195 | [905015](../reports/905015.md) | Long filenames cause OOM and temp files are not cleaned | CVE-2019-11048 | Medium — CVSS 5.3 | — | 4 |
-| 1196 | [1178337](../reports/1178337.md) | Improper handling of untypical characters in domain nam | CVE-2021-22931 | High — CVSS 7.5 | — | 4 |
-| 1197 | [311333](../reports/311333.md) | Prototype pollution attack (deep-extend) | CVE-2018-3750 | Low — CVSS 2.0 | — | 4 |
-| 1198 | [1583680](../reports/1583680.md) | Undici does not use CONNECT or otherwise validate upstr | CVE-2022-32210 | High — CVSS 7.4 | — | 4 |
-| 1199 | [292797](../reports/292797.md) | ActionController::Parameters .each returns an unsafe ha | CVE-2020-8164 | Medium — CVSS 6.5 | — | 4 |
-| 1200 | [312918](../reports/312918.md) | [public] Path Traversal allows to read content of arbit | CVE-2018-3731 | High — CVSS 8.6 | — | 4 |
-| 1201 | [268807](../reports/268807.md) | CVE-2017-13010 The BEEP parser in tcpdump before 4.9.2  | CVE-2017-13010 | High — CVSS 7.3 | — | 4 |
-| 1202 | [634630](../reports/634630.md) | Remote OS command Execution in the 3 more Oracle Weblog | CVE-2017-10352 | Critical | — | 4 |
-| 1203 | [802863](../reports/802863.md) | CVE-2017-13050: The RPKI-Router parser in tcpdump befor | CVE-2017-13050 | High | — | 4 |
-| 1204 | [959679](../reports/959679.md) | Read-only path traversal (CVE-2020-3452)  at https://██ | CVE-2020-3452 | High | — | 4 |
-| 1205 | [838685](../reports/838685.md) | Use of uninitialized value in ftp_getrc_msg method of m | CVE-2020-1934 | Low — CVSS 3.7 | — | 4 |
-| 1206 | [1147611](../reports/1147611.md) | DoS due to improper input validation can break the admi | CVE-2021-32657 | High | — | 4 |
-| 1207 | [1991427](../reports/1991427.md) | CVE-2023-28321: IDN wildcard match | CVE-2023-28321 | Low | — | 4 |
-| 1208 | [1423496](../reports/1423496.md) | ██████████ running a vulnerable log4j | CVE-2021-44228 | Critical | — | 4 |
-| 1209 | [1895135](../reports/1895135.md) | CVE-2023-27536: GSS delegation too eager connection re- | CVE-2023-27536 | Low | — | 4 |
-| 1210 | [480778](../reports/480778.md) | Heap-buffer-overflow in Perl__byte_dump_string (utf8.c) | CVE-2018-6798, CVE-2018-6797 | High — CVSS 7.5 | — | 4 |
-| 1211 | [1555015](../reports/1555015.md) | [CVE-2020-3452] Unauthenticated file read in Cisco ASA | CVE-2020-3452 | High | — | 4 |
-| 1212 | [173622](../reports/173622.md) | Bypassing quota limit  | CVE-2017-0887 | None | — | 4 |
-| 1213 | [478368](../reports/478368.md) | imagecolormatch Out Of Bounds Write on Heap  | CVE-2019-6977 | High — CVSS 8.8 | $1,500 | 4 |
-| 1214 | [12497](../reports/12497.md) | Adobe Flash Player FileReference Use-after-Free Vulnera | CVE-2014-0538 | None | $7,500 | 4 |
-| 1215 | [151043](../reports/151043.md) | Adobe Flash Player PSDK Class Use After Free Vulnerabil | CVE-2016-4248 | None | $5,000 | 4 |
-| 1216 | [172411](../reports/172411.md) | Heap overflow caused by type confusion vulnerability in | CVE-2016-7398 | Low | — | 4 |
-| 1217 | [1537694](../reports/1537694.md) | ███ vulnerable to CVE-2022-22954 | CVE-2022-22954 | Critical | — | 4 |
-| 1218 | [310707](../reports/310707.md) | Prototype pollution attack (assign-deep) | CVE-2018-3720 | Low — CVSS 1.8 | — | 4 |
-| 1219 | [311236](../reports/311236.md) | Prototype pollution attack (mixin-deep) | CVE-2018-3719 | Low — CVSS 1.8 | — | 4 |
-| 1220 | [430831](../reports/430831.md) | Prototype pollution attack in node.extend | CVE-2018-16491 | Medium — CVSS 5.7 | — | 3 |
-| 1221 | [3741135](../reports/3741135.md) | Connection reuse ignores haproxyprotocol and HAPROXY_CL | CVE-2026-4873, CVE-2026-5545, CVE-2026-5773, CVE-2026-6429, CVE-2026-6253, CVE-2026-7168, CVE-2026-3784, CVE-2026-3805 | None | — | 3 |
-| 1222 | [681986](../reports/681986.md) | [node-red] Stored XSS within Flow's - "Name" field  | CVE-2019-15607 | Medium — CVSS 4.6 | — | 3 |
-| 1223 | [1140631](../reports/1140631.md) | REST API gets `query` as parameter and executes it | CVE-2022-32219 | Medium — CVSS 6.5 | — | 3 |
-| 1224 | [899069](../reports/899069.md) | Untrusted users able to run pending migrations in produ | CVE-2020-8185 | Medium — CVSS 6.5 | — | 3 |
-| 1225 | [3784125](../reports/3784125.md) | GnuTLS OCSP stapling accepts unrelated SingleResponse ( | CVE-2020-8286 | High | — | 3 |
-| 1226 | [891846](../reports/891846.md) | CVE-2020-9383 Floppy OOB read | CVE-2020-9383 | High — CVSS 7.0 | $750 | 3 |
-| 1227 | [1789602](../reports/1789602.md) | Contacts only sanitizes PHOTO svg if mime type is all l | CVE-2023-33182 | None | — | 3 |
-| 1228 | [247027](../reports/247027.md) | CVE-2017-10965: Null pointer dereference in Irssi <1.0. | CVE-2017-10965 | High | — | 3 |
-| 1229 | [88904](../reports/88904.md) | Apache Range Header Denial of Service Attack (Confirmed | CVE-2011-3192 | None | — | 3 |
-| 1230 | [964582](../reports/964582.md) | CVE-2017-13040 The MPTCP parser in tcpdump before 4.9.2 | CVE-2017-13040 | High | $500 | 3 |
-| 1231 | [3733984](../reports/3733984.md) | HSTS multi-trailing-dot bypass-ish: possible incomplete | CVE-2022-30115 | Medium | — | 3 |
-| 1232 | [1223882](../reports/1223882.md) | CVE-2021-22925: TELNET stack contents disclosure again | CVE-2021-22925, CVE-2021-22898 | Low — CVSS 3.1 | — | 3 |
-| 1233 | [1047086](../reports/1047086.md) | Heap buffer overflow vulnerability while processing a m | CVE-2020-27829 | High — CVSS 8.6 | — | 3 |
-| 1234 | [1913110](../reports/1913110.md) | CVE-2023-27537: HSTS double-free | CVE-2023-27537 | Low | — | 3 |
-| 1235 | [296282](../reports/296282.md) | [augustine] Static Web Server Directory Traversal via C | CVE-2017-0930 | Medium | — | 3 |
-| 1236 | [242119](../reports/242119.md) | Roundcube virtualmin privilege escalation (CVE-2017-811 | CVE-2017-8114 | Medium | — | 3 |
-| 1237 | [195950](../reports/195950.md) | Use of uninitialized memory in unserialize() | CVE-2017-5340 | Medium | — | 3 |
-| 1238 | [3625210](../reports/3625210.md) | PIN bypass in PassCodeActivity via back button | CVE-2026-45153 | Medium — CVSS 4.6 | — | 3 |
-| 1239 | [328210](../reports/328210.md) | [sexstatic] HTML injection in directory name(s) leads t | CVE-2018-3755 | Medium — CVSS 5.2 | — | 3 |
-| 1240 | [677557](../reports/677557.md) | mod_http2, memory corruption on early pushes (CVE-2019- | CVE-2019-10081 | High — CVSS 8.6 | — | 3 |
-| 1241 | [167955](../reports/167955.md) | CVE-2016-4796 OpenJPEG color_cmyk_to_rgb Out-of-Bounds  | CVE-2016-4796 | None | — | 3 |
-| 1242 | [51265](../reports/51265.md) | Flash Cross Domain Policy Bypass by Using File Upload a | CVE-2015-0337 | None | — | 3 |
-| 1243 | [3734921](../reports/3734921.md) | Trailing-dot IPv4 URL bypasses IP-address guard, allows | CVE-2022-30115 | None | — | 3 |
-| 1244 | [724253](../reports/724253.md) | Tcpdump before 4.9.3 has a buffer over-read in print-dc | CVE-2018-16229 | Critical — CVSS 9.8 | $500 | 3 |
-| 1245 | [310708](../reports/310708.md) | Prototype pollution attack (merge-deep) | CVE-2018-3722 | Low — CVSS 1.8 | — | 3 |
-| 1246 | [453513](../reports/453513.md) | Fix for CVE-2018-12122 can be bypassed via keep-alive r | CVE-2018-12122 | Medium | — | 3 |
-| 1247 | [1461340](../reports/1461340.md) | Maliciously crafted message can cause Rocket.Chat serve | CVE-2023-28356 | Medium — CVSS 5.5 | — | 3 |
-| 1248 | [262665](../reports/262665.md) | CVE-2017-5969: libxml2 when used in recover mode, allow | CVE-2017-5969 | Medium | — | 3 |
-| 1249 | [235842](../reports/235842.md) | Ruby 2.3.x and 2.2.x still bundle DoS vulnerable verisi | CVE-2014-9130 | Medium — CVSS 5.3 | — | 3 |
-| 1250 | [73429](../reports/73429.md) | pngcrush_measure_idat() off-by-one error (CVE-2015-2158 | CVE-2015-2158 | None | — | 3 |
-| 1251 | [476168](../reports/476168.md) | Heap overflow in utf32be_mbc_to_code | CVE-2019-9023 | Critical — CVSS 9.8 | $1,500 | 3 |
-| 1252 | [136986](../reports/136986.md) | Padding oracle in AES-NI CBC MAC check (CVE-2016-2107) | CVE-2016-2107 | None | — | 3 |
-| 1253 | [217381](../reports/217381.md) | doc.owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerabilit | CVE-2015-5477 | High | — | 3 |
-| 1254 | [268808](../reports/268808.md) | CVE-2017-13038 The PPP parser in tcpdump before 4.9.2 h | CVE-2017-13038 | High — CVSS 7.3 | — | 3 |
-| 1255 | [296994](../reports/296994.md) | Exim handles BDAT data incorrectly and leads to crash/h | CVE-2017-16944, CVE-2017-16943 | High — CVSS 7.5 | — | 3 |
-| 1256 | [724243](../reports/724243.md) | Tcpdump before 4.9.3 has a buffer over-read in print-80 | CVE-2018-16227 | Critical — CVSS 9.8 | $500 | 3 |
-| 1257 | [202960](../reports/202960.md) | CVE-2017-5204: The IPv6 parser in tcpdump before 4.9.0  | CVE-2017-5204 | High — CVSS 7.3 | — | 3 |
-| 1258 | [222020](../reports/222020.md) | Mercurial can be tricked into granting authorized users | CVE-2017-9462 | High | — | 3 |
-| 1259 | [1455411](../reports/1455411.md) | Invalid handling of X509_verify_cert() internal errors  | CVE-2021-4044 | Medium | $1,200 | 3 |
-| 1260 | [675580](../reports/675580.md) | Out of Bounds Memory Read in exif_process_user_comment | CVE-2019-11042 | High — CVSS 8.8 | $1,500 | 3 |
-| 1261 | [1369288](../reports/1369288.md) | Path Traversal CVE-2021-26086 CVE-2021-26085 | CVE-2021-26085, CVE-2021-26086 | Medium | — | 3 |
-| 1262 | [319794](../reports/319794.md) | [m-server] HTML Injection in filenames displayed as dir | CVE-2018-16484 | Medium — CVSS 6.0 | — | 3 |
-| 1263 | [530289](../reports/530289.md) | [harp] Path traversal using symlink | CVE-2019-5438 | Medium — CVSS 5.3 | — | 3 |
-| 1264 | [1067004](../reports/1067004.md) | Sensitive data exposure via https://███████/secure/Quer | CVE-2020-14179 | Medium | — | 3 |
-| 1265 | [6475](../reports/6475.md) | https://concrete5.org ::: HeartBleed Attack (CVE-2014-0 | CVE-2014-0160 | None | — | 3 |
-| 1266 | [295740](../reports/295740.md) | GarlicRust - heartbleed style vulnerability in major I2 | CVE-2017-17066 | High — CVSS 7.7 | — | 3 |
-| 1267 | [728110](../reports/728110.md) | [HTAF4-213] [Pre-submission] CVE-2018-2879 (padding ora | CVE-2018-2879 | High | — | 3 |
-| 1268 | [3707747](../reports/3707747.md) | libcurl 8.20.0 incomplete fix for CVE-2026-7168: changi | CVE-2026-7168 | Medium | — | 3 |
-| 1269 | [1354255](../reports/1354255.md) | Open redirect in fastify-static via mishandled user's i | CVE-2021-22963, CVE-2015-1164 | Low — CVSS 3.7 | — | 3 |
-| 1270 | [30567](../reports/30567.md) | Adobe Flash Player MP4 Use-After-Free Vulnerability | CVE-2014-0553 | None | $2,000 | 3 |
-| 1271 | [174069](../reports/174069.md) | Buffer overflow in HTTP parse_hostinfo(), parse_userinf | CVE-2016-7961 | Medium | — | 3 |
-| 1272 | [826238](../reports/826238.md) | load scripts DOS vulnerability | CVE-2018-6389 | High | — | 3 |
-| 1273 | [213069](../reports/213069.md) | Remote Code Execution (RCE) in a DoD website | CVE-2017-5638 | None | — | 3 |
-| 1274 | [838178](../reports/838178.md) | Reflected XSS in "*.mendix.com/openid/*" | CVE-2020-8160 | Medium — CVSS 6.4 | — | 3 |
-| 1275 | [1458020](../reports/1458020.md) | NoSQL-Injection discloses S3 File Upload URLs | CVE-2022-35246 | Medium — CVSS 6.5 | — | 3 |
-| 1276 | [140793](../reports/140793.md) | UniFi Video v3.2.2 (Windows) Local Privileges Escalatio | CVE-2016-6914 | High — CVSS 7.8 | — | 3 |
-| 1277 | [476439](../reports/476439.md) | Password authentication at newsletter.nextcloud.com dis | CVE-2016-6210 | Low | — | 3 |
-| 1278 | [692262](../reports/692262.md) | Path traversal in https://www.npmjs.com/package/http_se | CVE-2019-15600 | Medium — CVSS 5.5 | — | 3 |
-| 1279 | [1043360](../reports/1043360.md) | HTTP2 'unknownProtocol' cause Denial of Service by reso | CVE-2021-22883 | Critical — CVSS 9.3 | — | 3 |
-| 1280 | [917946](../reports/917946.md) | It is possible to elevate privileges for any authentica | CVE-2022-35250 | Medium | — | 3 |
-| 1281 | [6380](../reports/6380.md) | Same Origin Security Bypass Vulnerability | CVE-2014-0503 | None | $2,000 | 3 |
-| 1282 | [362702](../reports/362702.md) | XSS in express-useragent through HTTP User-Agent | CVE-2018-9863 | None | — | 3 |
-| 1283 | [966383](../reports/966383.md) | secret leaks in vsphere cloud controller manager log | CVE-2020-8563 | Medium — CVSS 6.2 | — | 3 |
-| 1284 | [20861](../reports/20861.md) | moderate: mod_deflate denial of service | CVE-2014-0118 | None | $500 | 3 |
-| 1285 | [73235](../reports/73235.md) | Use After Free Vulnerability in unserialize() | CVE-2015-2787 | None | — | 3 |
-| 1286 | [1410357](../reports/1410357.md) | getUsersOfRoom discloses users in private channels | CVE-2022-32226 | Medium — CVSS 6.5 | — | 2 |
-| 1287 | [1997312](../reports/1997312.md) | CVE-2023-28319: UAF in SSH sha256 fingerprint check | CVE-2023-28319 | Medium | — | 2 |
-| 1288 | [272979](../reports/272979.md) | 2 vulnerabilities of arbitrary code in ████████  - CVE- | CVE-2017-5929 | Critical | — | 2 |
-| 1289 | [202968](../reports/202968.md) | CVE-2017-5342 In tcpdump before 4.9.0 a bug in multiple | CVE-2017-5342 | High — CVSS 7.3 | — | 2 |
-| 1290 | [2012131](../reports/2012131.md) | [CVE-2023-22796] Possible ReDoS based DoS vulnerability | CVE-2023-22796 | Low | $480 | 2 |
-| 1291 | [3734020](../reports/3734020.md) | HTTP/2 proxy CONNECT tunnel unbounded 1xx chain (missin | CVE-2023-38039 | None | — | 2 |
-| 1292 | [2127968](../reports/2127968.md) | CVE-2023-40195: Apache Airflow Spark Provider Deseriali | CVE-2023-40195 | Medium | — | 2 |
-| 1293 | [504761](../reports/504761.md) | phar_tar_writeheaders_int() buffer overflow | CVE-2019-9675 | High — CVSS 8.1 | $1,500 | 2 |
-| 1294 | [413388](../reports/413388.md) | Untrusted strings that are cache fetched with raw optio | CVE-2020-8165 | High | — | 2 |
-| 1295 | [2104567](../reports/2104567.md) | (CVE-2023-32003) fs.mkdtemp() and fs.mkdtempSync() are  | CVE-2023-32003 | Low | — | 2 |
-| 1296 | [1730660](../reports/1730660.md) | CVE-2022-42916: HSTS bypass via IDN | CVE-2022-42916 | Medium | — | 2 |
-| 1297 | [128169](../reports/128169.md) | BN_mod_exp may produce incorrect results on x86_64 (CVE | CVE-2015-3193 | None | $1,000 | 2 |
-| 1298 | [1033107](../reports/1033107.md) | DNS Max Responses for DOS | CVE-2020-8277 | High | $250 | 2 |
-| 1299 | [885041](../reports/885041.md) | The password of a mail share is not hashed if the passw | CVE-2020-8183 | Low | — | 2 |
-| 1300 | [3797526](../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | CVE-2026-12064 | Low | — | 2 |
-| 1301 | [85201](../reports/85201.md) | Full Path Disclosure  | CVE-2016-1501 | None | — | 2 |
-| 1302 | [248659](../reports/248659.md) | PHP WDDX Deserialization Heap OOB Read in timelib_merid | CVE-2017-11145 | Medium — CVSS 5.3 | $500 | 2 |
-| 1303 | [145266](../reports/145266.md) | Adobe Flash Player ShimContentFactory.retrieveResolvers | CVE-2016-4151 | None | $2,000 | 2 |
-| 1304 | [1086259](../reports/1086259.md) | Proxy-Authorization header carried to a new host on a r | CVE-2018-1000007 | Medium — CVSS 4.4 | — | 2 |
-| 1305 | [652911](../reports/652911.md) | CVE-2019-13132 - libzmq 4.1 series is vulnerable | CVE-2019-13132 | Medium — CVSS 6.8 | — | 2 |
-| 1306 | [3672641](../reports/3672641.md) | Session ID reuse allowing XML‑RPC API authentication by | CVE-2026-34917 | Medium — CVSS 4.3 | — | 2 |
-| 1307 | [3788931](../reports/3788931.md) | CVE-2026-11586: WS Auto-PONG memory exhaustion | CVE-2026-11586 | Low | — | 2 |
-| 1308 | [319795](../reports/319795.md) | [m-server] Path Traversal allows to display content of  | CVE-2018-16485 | Medium — CVSS 6.1 | — | 2 |
-| 1309 | [48100](../reports/48100.md) | Bad Write in TTF font parsing (win32k.sys) | CVE-2015-0059 | None | — | 2 |
-| 1310 | [134880](../reports/134880.md) | ASN.1 BIO excessive memory allocation (CVE-2016-2109) | CVE-2016-2109 | None | — | 2 |
-| 1311 | [28449](../reports/28449.md) | Active Record SQL Injection Vulnerability Affecting Pos | CVE-2014-3482 | None | — | 2 |
-| 1312 | [36279](../reports/36279.md) | Adobe Flash Player MP4 Use-After-Free Vulnerability | CVE-2014-8438 | None | $2,000 | 2 |
-| 1313 | [3734095](../reports/3734095.md) | TLS verifyhost bypass in rustls, mbedTLS, and wolfSSL w | CVE-2013-4545, CVE-2014-0139 | None | — | 2 |
-| 1314 | [50885](../reports/50885.md) | CVE-2014-0224 openssl ccs vulnerability | CVE-2014-0224 | None | $10 | 2 |
-| 1315 | [3754343](../reports/3754343.md) | CVE-2026-9546: sending old referer | CVE-2026-9546 | Low | — | 2 |
-| 1316 | [1294043](../reports/1294043.md) | SSH server due to Improper Signature Verification | CVE-2020-9283 | High — CVSS 7.0 | — | 2 |
-| 1317 | [31408](../reports/31408.md) | Adobe Flash Player Out-of-Bound Read/Write Vulnerabilit | CVE-2014-0564 | None | $5,000 | 2 |
-| 1318 | [1278050](../reports/1278050.md) | [CVE-2021-29156 on ForgeRock OpenAm] LDAP Injection in  | CVE-2021-29156 | Medium | — | 2 |
-| 1319 | [852103](../reports/852103.md) | Out-of-Bound Read in urldecode() [CVE-2020-7067] | CVE-2020-7067 | Medium | — | 2 |
-| 1320 | [218876](../reports/218876.md) | Share tokens for public calendars disclosed (NC-SA-2017 | CVE-2017-0894 | Medium — CVSS 4.3 | — | 2 |
-| 1321 | [138516](../reports/138516.md) | Adobe Flash Player ContentFactory class Memory Corrupti | CVE-2016-1098 | None | $2,000 | 2 |
-| 1322 | [764986](../reports/764986.md) | Man in the middle using LoadBalancer or ExternalIPs ser | CVE-2020-8554 | Medium — CVSS 6.6 | — | 2 |
-| 1323 | [714215](../reports/714215.md) | curl on Windows can be forced to execute code via OpenS | CVE-2019-1552, CVE-2019-5443 | High — CVSS 7.9 | — | 2 |
-| 1324 | [202969](../reports/202969.md) | CVE-2017-5482 The Q.933 parser in tcpdump before 4.9.0  | CVE-2017-5482, CVE-2016-8575 | High — CVSS 7.3 | — | 2 |
-| 1325 | [189878](../reports/189878.md) | CSRF header is sent to external websites when using dat | CVE-2020-8167, CVE-2015-1840 | Low — CVSS 3.1 | — | 2 |
-| 1326 | [145271](../reports/145271.md) | Adobe Flash Player ShimContentResolver(resolverType=0)  | CVE-2016-4154 | None | $2,000 | 2 |
-| 1327 | [103991](../reports/103991.md) | mod_lua: Crash in websockets PING handling | CVE-2015-0228 | None | — | 2 |
-| 1328 | [227344](../reports/227344.md) | CVE-2017-8798 - miniupnp getHTTPResponse chunked encodi | CVE-2017-8798 | High — CVSS 7.1 | — | 2 |
-| 1329 | [145272](../reports/145272.md) | Adobe Flash Player ShimContentResolver(resolverType=1)  | CVE-2016-4155 | None | $2,000 | 2 |
-| 1330 | [105190](../reports/105190.md) | Unsafe usage of Ruby string interpolation enabling comm | CVE-2015-8969 | None | — | 2 |
-| 1331 | [380102](../reports/380102.md) | Missing memory corruption protection on Windows release | CVE-2020-8230 | Medium — CVSS 4.7 | — | 2 |
-| 1332 | [324491](../reports/324491.md) | `fs-path` concatenates unsanitized input into exec()/ex | CVE-2020-8298 | Critical — CVSS 9.6 | — | 2 |
-| 1333 | [476179](../reports/476179.md) | Buffer over-write in finfo_open with malformed magic fi | CVE-2015-8865 | High — CVSS 7.3 | $1,500 | 2 |
-| 1334 | [138517](../reports/138517.md) | Adobe Flash Player Metadata class Memory Corruption Vul | CVE-2016-1099 | None | $2,000 | 2 |
-| 1335 | [802896](../reports/802896.md) | CVE-2017-13019:  The PGM parser in tcpdump before 4.9.2 | CVE-2017-13019 | High | — | 2 |
-| 1336 | [3733946](../reports/3733946.md) | Credentials forwarded to HTTP after HTTPS→HTTP same-por | CVE-2022-27774, CVE-2024-11053 | None | — | 2 |
-| 1337 | [1411867](../reports/1411867.md) | Escape Sequence Injection vulnerability in Rack | CVE-2022-30123 | Medium — CVSS 6.5 | — | 2 |
-| 1338 | [882258](../reports/882258.md) | New users can read all Nextcloud Deck data from previou | CVE-2020-8297 | Low | — | 2 |
-| 1339 | [2012122](../reports/2012122.md) | [CVE-2022-44571] Possible Denial of Service Vulnerabili | CVE-2022-44571 | Low | $480 | 2 |
-| 1340 | [2012121](../reports/2012121.md) | [CVE-2022-44570] Possible Denial of Service Vulnerabili | CVE-2022-44570 | Low | $480 | 2 |
-| 1341 | [135945](../reports/135945.md) | EVP_EncryptUpdate overflow (CVE-2016-2106) | CVE-2016-2106 | None | — | 2 |
-| 1342 | [66962](../reports/66962.md) | Misusing of FPU Instruction Could Cause Security Vulner | CVE-2015-3100 | None | — | 2 |
-| 1343 | [167947](../reports/167947.md) | CVE-2016-3183 OpenJPEG sycc422_to_rgb Out-of-Bounds Rea | CVE-2016-3183 | None | — | 2 |
-| 1344 | [16330](../reports/16330.md) | Multiple issues in looking-glass software (aka from web | CVE-2014-3926, CVE-2014-3927, CVE-2014-3928, CVE-2014-3929, CVE-2014-3930, CVE-2014-3931 | None | — | 2 |
-| 1345 | [3680090](../reports/3680090.md) | Stored XSS via malicious usernames in audit log details | CVE-2026-44960, CVE-2026-44961 | None | — | 2 |
-| 1346 | [3791191](../reports/3791191.md) | Trailing-Dot Hostname in Redirect Silently Strips Clien | CVE-2022-27774 | Medium | — | 2 |
-| 1347 | [103996](../reports/103996.md) | Use After Free Vulnerability in unserialize() with SplO | CVE-2015-6834 | None | — | 2 |
-| 1348 | [476178](../reports/476178.md) | Negative size parameter in mb_split | CVE-2019-9025 | Critical — CVSS 9.8 | $1,500 | 2 |
-| 1349 | [73236](../reports/73236.md) | X509_to_X509_REQ NULL pointer deref | CVE-2015-0288 | None | — | 2 |
-| 1350 | [805010](../reports/805010.md) | PHP link() silently truncates after a null byte on Wind | CVE-2019-11044 | Medium | — | 2 |
-| 1351 | [2043807](../reports/2043807.md) | Policy-restricted modules can escalate to higher privil | CVE-2023-32006 | Medium — CVSS 6.7 | — | 2 |
-| 1352 | [195688](../reports/195688.md) | NULL Pointer Dereference while unserialize php object | CVE-2016-10162 | Medium | — | 2 |
-| 1353 | [411405](../reports/411405.md) | [http-live-simulator] Path traversal vulnerability | CVE-2018-16479 | High — CVSS 7.5 | — | 2 |
-| 1354 | [2070810](../reports/2070810.md) | Potential NULL dereference in libssh's sftp server | CVE-2023-3603 | Low — CVSS 3.1 | — | 2 |
-| 1355 | [1514863](../reports/1514863.md) | Use of uninitialized value of in req_parsebody method o | CVE-2022-22719 | Medium | — | 2 |
-| 1356 | [103997](../reports/103997.md) | Use After Free Vulnerability in unserialize() | CVE-2015-6834 | None | — | 2 |
-| 1357 | [145463](../reports/145463.md) | Nextcloud server software: Content Spoofing | CVE-2016-9460 | None | — | 2 |
-| 1358 | [145267](../reports/145267.md) | Adobe Flash Player ShimContentResolver.configure Memory | CVE-2016-4152 | None | $2,000 | 2 |
-| 1359 | [151040](../reports/151040.md) | Adobe Flash Player ShimAdPolicySelector(adPolicySelecto | CVE-2016-4188 | None | $2,000 | 2 |
-| 1360 | [104465](../reports/104465.md) | git-fastclone allows arbitrary command execution throug | CVE-2015-8968, CVE-2015-7545 | None | — | 2 |
-| 1361 | [3023605](../reports/3023605.md) | [CVE-2025-27220] ReDoS in CGI::Util#escapeElement | CVE-2025-27220 | High — CVSS 7.5 | — | 2 |
-| 1362 | [248609](../reports/248609.md) | PHP OpenSSL zif_openssl_seal() heap overflow (wild memc | CVE-2017-11144 | Medium — CVSS 5.9 | $500 | 2 |
-| 1363 | [248601](../reports/248601.md) | PHP INI Parsing Stack Buffer Overflow Vulnerability | CVE-2017-11628 | Medium — CVSS 6.8 | $500 | 2 |
-| 1364 | [1406953](../reports/1406953.md) | Message ID Enumeration with Action Link Handler | CVE-2022-32218 | Medium — CVSS 4.3 | — | 2 |
-| 1365 | [1103212](../reports/1103212.md) | Found multiple SAP NetWeaver vulnerable services | CVE-2020-6286, CVE-2020-6287 | High | — | 2 |
-| 1366 | [3677576](../reports/3677576.md) | Missing access control when modifying parent entities v | CVE-2026-44957 | Medium — CVSS 4.3 | — | 2 |
-| 1367 | [47012](../reports/47012.md) | Adobe Flash Player Out-of-Bound Access Vulnerability | CVE-2013-0634, CVE-2014-0559, CVE-2015-0330 | None | $2,000 | 2 |
-| 1368 | [3783438](../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loo | CVE-2026-11352 | Low | — | 2 |
-| 1369 | [145265](../reports/145265.md) | Adobe Flash Player ShimContentFactory class Memory Corr | CVE-2016-4150 | None | $2,000 | 2 |
-| 1370 | [293126](../reports/293126.md) | Multiple issues in Libxml2 (2.9.2 - 2.9.5) | CVE-2016-1835, CVE-2016-1836, CVE-2016-1837, CVE-2016-7115, CVE-2015-7115, CVE-2016-7116, CVE-2015-7116, CVE-2016-1762, CVE-2016-4447, CVE-2017-16931, CVE-2017-16932 | Medium — CVSS 5.4 | — | 2 |
-| 1371 | [36264](../reports/36264.md) | mod_proxy_fcgi buffer overflow | CVE-2014-3583 | None | — | 2 |
-| 1372 | [28450](../reports/28450.md) | Active Record SQL Injection Vulnerability Affecting Pos | CVE-2014-3483 | None | — | 2 |
-| 1373 | [104018](../reports/104018.md) | Multiple Use After Free Vulnerabilites in unserialize() | CVE-2015-6831 | None | — | 2 |
-| 1374 | [2012125](../reports/2012125.md) | [CVE-2022-44572] Possible Denial of Service Vulnerabili | CVE-2022-44572 | Low | $480 | 2 |
-| 1375 | [73234](../reports/73234.md) | out of bounds read crashes php-cgi | CVE-2014-9427 | None | — | 2 |
-| 1376 | [283644](../reports/283644.md) | Out-Of-Bounds Read in timelib_meridian() | CVE-2017-16642, CVE-2017-11145 | Medium — CVSS 5.3 | $500 | 2 |
-| 1377 | [138518](../reports/138518.md) | Adobe Flash Player OpportunityGenerator class Memory Co | CVE-2016-1100 | None | $2,000 | 2 |
-| 1378 | [268803](../reports/268803.md) | CVE-2017-12985: The IPv6 parser in tcpdump before 4.9.2 | CVE-2017-12985 | High — CVSS 7.3 | — | 2 |
-| 1379 | [778834](../reports/778834.md) | OOB read in php_strip_tags_ex | CVE-2020-7059 | Medium — CVSS 6.5 | $500 | 2 |
-| 1380 | [103995](../reports/103995.md) | Use After Free Vulnerability in unserialize() with SplD | CVE-2015-6834 | None | — | 2 |
-| 1381 | [199436](../reports/199436.md) | Yelp.com is vulnerable to SWEET32 attack | CVE-2016-2183 | None | — | 2 |
-| 1382 | [103998](../reports/103998.md) | Use After Free Vulnerability in session deserializer | CVE-2015-6835 | None | — | 2 |
-| 1383 | [199445](../reports/199445.md) | Nextcloud.com is vulnerable to SWEET32 attack | CVE-2016-2183 | None | — | 2 |
-| 1384 | [1950627](../reports/1950627.md) | CVE-2023-28321: IDN wildcard match | CVE-2023-28321 | Low | — | 2 |
-| 1385 | [113288](../reports/113288.md) | OpenSSL Key Recovery Attack on DH small subgroups (CVE- | CVE-2016-0701 | None | $2,500 | 2 |
-| 1386 | [111752](../reports/111752.md) | Big Bug in SSL : breach compression attack (CVE-2013-35 | CVE-2013-3587 | None | — | 2 |
-| 1387 | [477897](../reports/477897.md) | buffer overread in base64 code of the xmlrpc module | CVE-2019-9024 | Medium | $500 | 2 |
-| 1388 | [3678828](../reports/3678828.md) | Banner status override by advertiser‑level users | CVE-2026-44958 | Medium — CVSS 4.3 | — | 2 |
-| 1389 | [1884159](../reports/1884159.md) | node.js process aborts when processing x509 certs with  | CVE-2023-30588 | Medium — CVSS 5.3 | — | 2 |
-| 1390 | [310446](../reports/310446.md) | Prototype pollution attack (deap) | CVE-2018-3749 | Low — CVSS 2.0 | — | 2 |
-| 1391 | [680415](../reports/680415.md) | mod_http2, read-after-free in h2 connection shutdown (C | CVE-2019-10082 | Medium | — | 2 |
-| 1392 | [3721183](../reports/3721183.md) | CVE-2026-8458: wrong reuse for different services | CVE-2026-8458, CVE-2026-5545 | Low | — | 1 |
-| 1393 | [3735184](../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | CVE-2026-8926 | Low | — | 1 |
-| 1394 | [1377105](../reports/1377105.md) | Message ID Enumeration with Regular Expression in getRe | CVE-2022-32228 | Medium — CVSS 4.3 | — | 1 |
-| 1395 | [966347](../reports/966347.md) | [bl] Uninitialized memory exposure via negative .consum | CVE-2020-8244 | High — CVSS 7.7 | — | 1 |
-| 1396 | [145269](../reports/145269.md) | Adobe Flash Player ShimOpportunityGenerator class Memor | CVE-2016-4153 | None | $2,000 | 1 |
-| 1397 | [311336](../reports/311336.md) | Prototype pollution attack (merge-options) | CVE-2018-3752 | Low — CVSS 2.6 | — | 1 |
-| 1398 | [112687](../reports/112687.md) | grtp.co is vulnerable to http-vuln-cve2011-3192 | CVE-2011-3192 | None | — | 1 |
-| 1399 | [138181](../reports/138181.md) | Bleichenbacher oracle in SSLv2 (CVE-2016-0704) | CVE-2016-0704 | None | — | 1 |
-| 1400 | [119652](../reports/119652.md) | Adobe Flash Player ASnative(101,10) Memory Corruption V | CVE-2016-0981 | None | $5,000 | 1 |
-| 1401 | [47234](../reports/47234.md) | Use After Free in Flash MessageChannel.send can cause a | CVE-2015-0320 | None | — | 1 |
-| 1402 | [972936](../reports/972936.md) | A specially crafted value for the 'Cache-Digest' header | CVE-2020-9490 | Critical | — | 1 |
-| 1403 | [1081406](../reports/1081406.md) | Open redirect in ck.php and lg.php | CVE-2021-22873 | Medium — CVSS 5.4 | — | 1 |
-| 1404 | [1186985](../reports/1186985.md) | Possibility of DoS attack at https://sifchain.finance// | CVE-2018-6389 | None | — | 1 |
-| 1405 | [311337](../reports/311337.md) | Prototype pollution attack (merge-recursive) | CVE-2018-3751 | Low — CVSS 2.0 | — | 1 |
-| 1406 | [390847](../reports/390847.md) | Prototype Pollution Vulnerability in cached-path-relati | CVE-2018-16472 | High — CVSS 7.6 | — | 1 |
-| 1407 | [119808](../reports/119808.md) | DROWN Attack | CVE-2016-0800 | None | — | 1 |
-| 1408 | [151039](../reports/151039.md) | Adobe Flash Player TimedEvent.parent Memory Corruption  | CVE-2016-4182 | None | $5,000 | 1 |
-| 1409 | [1415825](../reports/1415825.md) | [CVE-2020-3452] Unauthenticated file read in Cisco ASA | CVE-2020-3452 | Critical | — | 1 |
-| 1410 | [73240](../reports/73240.md) | Integer overflow in ftp_genlist() resulting in heap ove | CVE-2015-4022 | None | — | 1 |
-| 1411 | [110655](../reports/110655.md) | Information Exposure Through Directory Listing | CVE-2016-1499 | None | — | 1 |
-| 1412 | [318594](../reports/318594.md) | SSLv3 Poodle Attack on Ip Of semrush | CVE-2014-3566 | Low | — | 1 |
-| 1413 | [916430](../reports/916430.md) | [json-bigint] DoS via `__proto__` assignment | CVE-2020-8237 | High — CVSS 7.5 | — | 1 |
-| 1414 | [119653](../reports/119653.md) | Adobe Flash Player ASnative(900,1).call(MovieClip) Use- | CVE-2016-0982 | None | $2,000 | 1 |
-| 1415 | [623588](../reports/623588.md) | Uninitialized read in gdImageCreateFromXbm | CVE-2019-11038 | Medium — CVSS 5.3 | — | 1 |
-| 1416 | [1455266](../reports/1455266.md) | Arbitrary File Deletion (CVE-2020-3187) on ████████ | CVE-2020-3187 | High | — | 1 |
-| 1417 | [310706](../reports/310706.md) | Prototype pollution attack (merge-objects) | CVE-2018-3753 | Medium — CVSS 4.2 | — | 1 |
-| 1418 | [47232](../reports/47232.md) | Use after free during the StageVideoAvailabilityEvent c | CVE-2015-0315 | None | — | 1 |
-| 1419 | [952771](../reports/952771.md) | CVE-2019-11250 remains in effect. | CVE-2020-8565, CVE-2019-11250 | Medium — CVSS 4.3 | — | 1 |
-| 1420 | [73239](../reports/73239.md) | ZIP Integer Overflow leads to writing past heap boundar | CVE-2015-2331 | None | $1,500 | 1 |
-| 1421 | [66724](../reports/66724.md) | type confusion in Sass::ParserState::ParserState(Sass:: | CVE-2015-4459 | None | — | 1 |
-| 1422 | [516237](../reports/516237.md) | Uninitialized read in exif_process_IFD_in_MAKERNOTE | CVE-2019-9638 | High — CVSS 7.5 | — | 1 |
-| 1423 | [122256](../reports/122256.md) | Adobe Flash Player  Uninitialised Memory Corruption | CVE-2016-0992 | None | — | 1 |
-| 1424 | [165154](../reports/165154.md) | Additional information for CVE-2016-5699 | CVE-2016-5699 | None | — | 1 |
-| 1425 | [28445](../reports/28445.md) | SPL ArrayObject/SPLObjectStorage Unserialization Type C | CVE-2014-3515 | None | — | 1 |
-| 1426 | [320222](../reports/320222.md) | memory corruption while parsing HTTP response | CVE-2018-7584 | Medium | $500 | 1 |
-| 1427 | [122254](../reports/122254.md) | Adobe Flash Player TextField Use-After-Free Vulnerabili | CVE-2016-0990 | None | $2,000 | 1 |
-| 1428 | [87505](../reports/87505.md) | Full Path Disclosure  | CVE-2016-1501 | None | — | 1 |
-| 1429 | [12297](../reports/12297.md) | Python vulnerability: reading arbitrary process memory | CVE-2014-4616 | None | — | 1 |
-| 1430 | [73238](../reports/73238.md) | Buffer Over-read in unserialize when parsing Phar | CVE-2015-2783 | None | $1,000 | 1 |
-| 1431 | [1188643](../reports/1188643.md) | Vulnerable javascript dependency at Main domain | CVE-2019-8331, CVE-2018-14041, CVE-2018-14040, CVE-2018-14042 | Low | — | 1 |
-| 1432 | [73237](../reports/73237.md) | Buffer Over flow when parsing tar/zip/phar in phar_set_ | CVE-2015-3329 | None | $1,000 | 1 |
-| 1433 | [3718195](../reports/3718195.md) | CVE-2026-8286: wrong STARTTLS connection reuse | CVE-2026-8286, CVE-2022-27782 | Low | — | 1 |
-| 1434 | [3744543](../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state le | CVE-2026-8927, CVE-2026-7168 | Medium | — | 1 |
-| 1435 | [135944](../reports/135944.md) | EVP_EncodeUpdate overflow (CVE-2016-2105) | CVE-2016-2105 | None | — | 1 |
-| 1436 | [89097](../reports/89097.md) | owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability +  | CVE-2015-5477 | None | — | 1 |
-| 1437 | [1394399](../reports/1394399.md) | Unintended information disclosure in the Hubot Log file | CVE-2022-32217 | Medium | — | 1 |
-| 1438 | [118855](../reports/118855.md) | CVE-2016-0799 memory issues in BIO_*printf functions | CVE-2016-0799 | None | — | 1 |
-| 1439 | [3733910](../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn  | CVE-2026-8932, CVE-2022-27782 | Low | — | 1 |
-| 1440 | [73241](../reports/73241.md) | Malformed ECParameters causes infinite loop | CVE-2015-1788 | None | — | 1 |
-| 1441 | [135946](../reports/135946.md) | EBCDIC overread (CVE-2016-2176) | CVE-2016-2176 | None | — | 1 |
-| 1442 | [17688](../reports/17688.md) | LZ4 Core | CVE-2014-4611 | None | — | 1 |
-| 1443 | [3735193](../reports/3735193.md) | CVE-2026-8925: SASL double-free | CVE-2026-8925 | Medium | — | 1 |
-| 1444 | [3752888](../reports/3752888.md) | CVE-2026-9545: exposing HTTP/3 early data | CVE-2026-9545 | Low | — | 1 |
-| 1445 | [119655](../reports/119655.md) | Adobe Flash Player ASnative(900,1).call(TextField) Use- | CVE-2016-0983 | None | $2,000 | 1 |
-| 1446 | [119873](../reports/119873.md) | BN_hex2bn/BN_dec2bn NULL pointer deref/heap corruption  | CVE-2016-0797 | None | — | 1 |
-| 1447 | [2021684](../reports/2021684.md) | Issuer not verified from obtained token in user_oidc  | CVE-2023-39953 | Medium — CVSS 4.8 | $250 | 1 |
-| 1448 | [3793260](../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | CVE-2026-11856 | Medium | — | 1 |
-| 1449 | [139879](../reports/139879.md) | Adobe Flash Player Regular Expression UAF Remote Code E | CVE-2016-4121 | None | $5,000 | 1 |
-| 1450 | [988550](../reports/988550.md) | Sensitive data exposure via https://████████.mil/secure | CVE-2020-14179 | Medium | — | 1 |
-| 1451 | [805013](../reports/805013.md) | DirectoryIterator class silently truncates after a null | CVE-2019-11045 | Medium | — | 1 |
-| 1452 | [816637](../reports/816637.md) | CVE-2020-10938-buffer overflow/out-of-bounds write in c | CVE-2020-10938 | Critical — CVSS 9.8 | — | 1 |
-| 1453 | [146936](../reports/146936.md) | CVE-2015-8874 Stack overflow with imagefilltoborder | CVE-2015-8874 | None | $500 | 1 |
-| 1454 | [167510](../reports/167510.md) | CVE-2016-5157 OpenJPEG opj_dwt_interleave_v Out-of-Boun | CVE-2016-5157 | None | — | 1 |
-| 1455 | [104014](../reports/104014.md) | libcurl duphandle read out of bounds | CVE-2014-3707 | None | $1,000 | 0 |
-| 1456 | [104027](../reports/104027.md) | Memory Corruption in phar_parse_tarfile when entry file | CVE-2015-4021 | None | $500 | 0 |
-| 1457 | [103990](../reports/103990.md) | Null pointer dereference in phar_get_fp_offset() | CVE-2015-7803 | None | $500 | 0 |
-| 1458 | [104012](../reports/104012.md) | Integer overflow in unserialize() (32-bits only) | CVE-2014-3669 | None | $500 | 0 |
-| 1459 | [510336](../reports/510336.md) | Uninitialized read in exif_process_IFD_in_TIFF | CVE-2019-9641 | Critical — CVSS 9.8 | — | 0 |
-| 1460 | [3733905](../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | CVE-2026-8924 | Low | — | 0 |
-| 1461 | [104010](../reports/104010.md) | SOAP serialize_function_call() type confusion / RCE | CVE-2015-6836 | None | — | 0 |
-| 1462 | [104017](../reports/104017.md) | Arbitrary code execution in str_ireplace function | CVE-2015-6527 | None | — | 0 |
-| 1463 | [777274](../reports/777274.md) | DoS of https://blog.makerdao.com/ via CVE-2018-6389 | CVE-2018-6389 | None | — | 0 |
-| 1464 | [254895](../reports/254895.md) | SSL BREACH attack (CVE-2013-3587) | CVE-2013-3587 | Low | — | 0 |
-| 1465 | [950299](../reports/950299.md) | Use after free vulnerability  in phar_parse_zipfile | CVE-2020-7068 | Medium | — | 0 |
-| 1466 | [104028](../reports/104028.md) | Improved fix for bug #69545 (Integer overflow in ftp_ge | CVE-2015-4643 | None | — | 0 |
-| 1467 | [24984](../reports/24984.md) | openssh-server Forced Command Handling Information Disc | CVE-2012-0814 | None | — | 0 |
-| 1468 | [104026](../reports/104026.md) | invalid pointer free() in phar_tar_process_metadata() | CVE-2015-3307 | None | $500 | 0 |
-| 1469 | [116774](../reports/116774.md) | UDP port 5060 (SIP) Open | CVE-2011-3280 | None | — | 0 |
-| 1470 | [315037](../reports/315037.md) | Media parsing in canvas is at least vulnerable to Denia | CVE-2020-8215 | Medium | — | 0 |
-| 1471 | [3766065](../reports/3766065.md) | CURLOPT_COOKIE leaked to cross-origin redirect target — | CVE-2022-27774 | Medium | — | 0 |
-| 1472 | [104008](../reports/104008.md) | Uninitialized pointer in phar_make_dirstream | CVE-2015-7804 | None | $1,000 | 0 |
-| 1473 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL aga | CVE-2019-14553 | None | — | 0 |
-| 1474 | [103993](../reports/103993.md) | Request Hijacking Vulnerability In RubyGems 2.4.6 And E | CVE-2015-3900 | None | — | 0 |
-| 1475 | [104011](../reports/104011.md) | AddressSanitizer reports a global buffer overflow in mk | CVE-2014-3668 | None | $500 | 0 |
-| 1476 | [104019](../reports/104019.md) | Files extracted from archive may be placed outside of d | CVE-2015-6833 | None | — | 0 |
-| 1477 | [104013](../reports/104013.md) | heap buffer overflow in enchant_broker_request_dict() | CVE-2014-9705 | None | $500 | 0 |
-| 1478 | [104016](../reports/104016.md) | Dangling pointer in the unserialization of ArrayObject  | CVE-2015-6832 | None | $1,000 | 0 |
-| 1479 | [872089](../reports/872089.md) | Curl_auth_create_plain_message integer overflow leads t | CVE-2018-16839 | Low — CVSS 2.8 | — | 0 |
+| 933 | [1656627](../reports/1656627.md) | Rails::Html::SafeListSanitizer vulnerable to XSS when c | CVE-2022-23519 | Medium — CVSS 4.7 | — | 8 |
+| 934 | [3692858](../reports/3692858.md) | Permission Model Bypass via `process.report.writeReport | CVE-2026-48617 | Low — CVSS 1.8 | — | 8 |
+| 935 | [2051224](../reports/2051224.md) | fs.statfs bypasses Permission Model | CVE-2023-32005 | Low — CVSS 3.3 | — | 8 |
+| 936 | [3650582](../reports/3650582.md) | Missing access control when linking trackers to campaig | CVE-2026-34913 | Medium — CVSS 4.3 | — | 8 |
+| 937 | [921717](../reports/921717.md) | Improper access control to messages of Social app | CVE-2020-8278 | Medium — CVSS 5.0 | — | 8 |
+| 938 | [149798](../reports/149798.md) | Content (Text) Injection at NextCloud Server 9.0.52 - v | CVE-2016-9468 | Low — CVSS 3.1 | — | 8 |
+| 939 | [298862](../reports/298862.md) | It's possible to view configuration and/or source code  | CVE-2005-2169, CVE-2005-0202 | Medium | — | 7 |
+| 940 | [802846](../reports/802846.md) |  The VTP parser in tcpdump before 4.9.2 has a buffer ov | CVE-2017-13033 | High | — | 7 |
+| 941 | [1844777](../reports/1844777.md) | Reflected Cross-Site Scripting(CVE-2022-32770 ) | CVE-2022-32770 | High | — | 7 |
+| 942 | [2094785](../reports/2094785.md) |  Cargo not respecting umask when extracting crate archi | CVE-2023-38497 | High — CVSS 7.9 | $4,660 | 7 |
+| 943 | [146067](../reports/146067.md) | Read-only share recipient can restore old versions of f | CVE-2016-9462 | None | $300 | 7 |
+| 944 | [1129529](../reports/1129529.md) | CVE-2021-22890: TLS 1.3 session ticket proxy host mixup | CVE-2021-22890 | Low | — | 7 |
+| 945 | [470553](../reports/470553.md) | Unauthorized command execution in Web protection compon | CVE-2019-15685 | Medium | — | 7 |
+| 946 | [330285](../reports/330285.md) | [mcstatic] Server Directory Traversal | CVE-2018-16482 | High — CVSS 8.6 | — | 7 |
+| 947 | [261336](../reports/261336.md) | Out of Bounds Memory Read in unserialize() | CVE-2017-12933 | Medium | — | 7 |
+| 948 | [1024668](../reports/1024668.md) | Brave Browser potentially logs the last time a Tor wind | CVE-2020-8276 | Low — CVSS 3.5 | $100 | 7 |
+| 949 | [261338](../reports/261338.md) | Heap Use After Free in unserialize() | CVE-2017-12934 | Medium | — | 7 |
+| 950 | [1654310](../reports/1654310.md) | Incomplete fix for CVE-2022-32209 (XSS in Rails::Html:: | CVE-2022-23520 | Medium — CVSS 4.7 | — | 7 |
+| 951 | [309367](../reports/309367.md) | [metascraper] Stored XSS in Open Graph meta properties  | CVE-2018-3773 | Critical — CVSS 9.6 | — | 7 |
+| 952 | [784186](../reports/784186.md) | napi_get_value_string_X allow various kinds of memory c | CVE-2020-8174 | High — CVSS 8.5 | $250 | 7 |
+| 953 | [310106](../reports/310106.md) | [glance] Path Traversal in glance static file server al | CVE-2018-3715 | High — CVSS 8.6 | — | 7 |
+| 954 | [388936](../reports/388936.md) | [egg-scripts] Command injection | CVE-2018-3786 | High — CVSS 8.6 | — | 7 |
+| 955 | [794144](../reports/794144.md) | Open redirection bypass in /www/admin/campaign-modify.p | CVE-2020-8143 | Low | — | 7 |
+| 956 | [331302](../reports/331302.md) | Improper protection of FileContentProvider | CVE-2018-3765 | Low | — | 7 |
+| 957 | [1614331](../reports/1614331.md) | CVE-2022-32207: Unpreserved file permissions | CVE-2022-32207 | Medium | $2,400 | 7 |
+| 958 | [632721](../reports/632721.md) | Root Remote Code Execution on https://███ | CVE-2019-11580 | Critical | — | 7 |
+| 959 | [315760](../reports/315760.md) | Path Traversal on Resolve-Path | CVE-2018-3732 | High — CVSS 8.6 | — | 7 |
+| 960 | [1147951](../reports/1147951.md) | CVE-2019-3403 on https://████/rest/api/2/user/picker?qu | CVE-2019-3403 | Medium | — | 7 |
+| 961 | [3120987](../reports/3120987.md) | [High] Arbitrary File Write via Path Traversal in cURL  | CVE-2020-8284 | High | — | 7 |
+| 962 | [1680241](../reports/1680241.md) | DoS via Automatic Response Message | CVE-2022-4044 | Medium — CVSS 5.0 | — | 7 |
+| 963 | [691977](../reports/691977.md) | [reveal.js] XSS by calling arbitrary method via postMes | CVE-2020-8127 | Medium — CVSS 5.4 | — | 7 |
+| 964 | [987090](../reports/987090.md) | https://██████ vulnerable to CVE-2020-3187 - Unauthenti | CVE-2020-3187 | Critical | — | 7 |
+| 965 | [1946470](../reports/1946470.md) | Dependency Policy Bypass via process.binding | CVE-2023-32559 | Medium — CVSS 5.5 | — | 7 |
+| 966 | [1183472](../reports/1183472.md) |  SSRF due to  CVE-2021-27905 in www.████████ | CVE-2021-27905 | Medium | — | 7 |
+| 967 | [772448](../reports/772448.md) | [blamer] RCE via insecure command formatting | CVE-2020-8137 | High — CVSS 7.5 | — | 7 |
+| 968 | [492512](../reports/492512.md) | [bower] Arbitrary File Write through improper validatio | CVE-2019-5484 | High | $500 | 7 |
+| 969 | [407319](../reports/407319.md) | ActiveStorage service's signed URLs can be hijacked via | CVE-2018-16477 | High — CVSS 7.4 | — | 7 |
+| 970 | [2552179](../reports/2552179.md) | Incorrect Encoding Conversion in hostname  results in i | CVE-2012-1823, CVE-2024-4577 | Low | — | 7 |
+| 971 | [1334763](../reports/1334763.md) | CVE-2021-22947: STARTTLS protocol injection via MITM | CVE-2021-22947 | Medium — CVSS 5.3 | — | 7 |
+| 972 | [1448268](../reports/1448268.md) | TOTP 2 Factor Authentication Bypass | CVE-2022-35248 | High | — | 7 |
+| 973 | [1097979](../reports/1097979.md) | Reflected XSS on /admin/campaign-zone-zones.php | CVE-2021-22888 | Medium | — | 7 |
+| 974 | [1364797](../reports/1364797.md) | SSRF - pivoting in the private LAN | CVE-2021-22970 | Low — CVSS 3.5 | — | 7 |
+| 975 | [510888](../reports/510888.md) | [CVE-2018-18313] regcomp: heap-buffer-overflow read in  | CVE-2018-18313 | Critical — CVSS 9.1 | — | 7 |
+| 976 | [1167919](../reports/1167919.md) | Default Nextcloud server config and iOS Nextcloud clien | CVE-2021-22912 | Low | — | 7 |
+| 977 | [859962](../reports/859962.md) | Bypass apiserver proxy filter | CVE-2020-8562 | Medium — CVSS 6.8 | — | 7 |
+| 978 | [514421](../reports/514421.md) | smtp service vulnerable to POODLE SSLv3 | CVE-2014-3566 | Low | — | 7 |
+| 979 | [1176461](../reports/1176461.md) | CVE-2021-22898: TELNET stack contents disclosure | CVE-2021-22898 | Medium — CVSS 5.5 | — | 7 |
+| 980 | [54327](../reports/54327.md) | Persistent cross-site scripting (XSS) in map attributio | CVE-2017-1000042 | None | $1,000 | 7 |
+| 981 | [2509402](../reports/2509402.md) | Out-Of-Bounds Memory Read on ███ | CVE-2023-4966 | None | — | 7 |
+| 982 | [1721098](../reports/1721098.md) | CVE-2022-35260: .netrc parser out-of-bounds access | CVE-2022-35260 | Low | — | 7 |
+| 983 | [1889474](../reports/1889474.md) | Ruby's CGI library has HTTP response splitting (HTTP he | CVE-2021-33621 | High | — | 7 |
+| 984 | [319003](../reports/319003.md) | [stattic] Inproper path validation leads to Path Traver | CVE-2018-3734 | High — CVSS 8.6 | — | 7 |
+| 985 | [1047447](../reports/1047447.md) | HostAuthorization middleware does not suitably sanitize | CVE-2021-22881 | Low | — | 7 |
+| 986 | [165686](../reports/165686.md) | Reflected XSS in Gallery App | CVE-2016-9466 | Medium — CVSS 6.1 | — | 7 |
+| 987 | [1888758](../reports/1888758.md) | Inadequate Encryption Strength in nodejs-current reads  | CVE-2022-32222 | Medium | $2,400 | 7 |
+| 988 | [3560256](../reports/3560256.md) | Cross-repository IDOR in `/settings/security_analysis/b | CVE-2026-3307 | Medium | — | 7 |
+| 989 | [3656781](../reports/3656781.md) | PHP code injection via delivery limitation logical  | CVE-2026-34916 | High — CVSS 8.8 | — | 7 |
+| 990 | [1501679](../reports/1501679.md) | HTTP Request Smuggling Due to Incorrect Parsing of Mult | CVE-2022-32215 | Medium — CVSS 6.5 | — | 7 |
+| 991 | [139321](../reports/139321.md) | Unsafe Query Generation (CVE-2012-2660, CVE-2012-2694 a | CVE-2016-6317, CVE-2012-2660, CVE-2012-2694, CVE-2013-0155 | None | — | 7 |
+| 992 | [3775183](../reports/3775183.md) | Incomplete fix for CVE-2022-35406: meta-redirect conten | CVE-2022-35406 | High | — | 7 |
+| 993 | [778803](../reports/778803.md) | Compromise of auth via subset/superset namespace names. | CVE-2020-8553 | Medium — CVSS 6.6 | — | 7 |
+| 994 | [783852](../reports/783852.md) | Nginx version is disclosed in HTTP response | CVE-2019-9511, CVE-2019-9513, CVE-2019-9516 | None | — | 7 |
+| 995 | [181642](../reports/181642.md) | libtiff 4.0.6 heap bufer overflow / out of bounds read  | CVE-2016-9273 | Medium — CVSS 5.4 | — | 7 |
+| 996 | [364964](../reports/364964.md) | Client DoS due to large DH parameter (CVE-2018-0732) | CVE-2018-0732 | Low | — | 7 |
+| 997 | [724217](../reports/724217.md) | tcpdump: CVE-2018-14879 - buffer overflow in tcpdump.c: | CVE-2018-14879 | Critical | — | 7 |
+| 998 | [268804](../reports/268804.md) | CVE-2017-12986 The IPv6 routing header parser in tcpdum | CVE-2017-12986 | High — CVSS 7.3 | — | 7 |
+| 999 | [1161691](../reports/1161691.md) | OS Command Injection in 'rdoc' documentation generator | CVE-2021-31799 | Medium — CVSS 6.4 | — | 7 |
+| 1000 | [570133](../reports/570133.md) | [http-file-server] List any files and sub folders in th | CVE-2019-5447 | High — CVSS 8.2 | — | 7 |
+| 1001 | [166634](../reports/166634.md) | SSLv2 doesn't block disabled ciphers (CVE-2015-3197) | CVE-2015-3197 | None | — | 7 |
+| 1002 | [113928](../reports/113928.md) | Remote code execution using render :inline | CVE-2016-0752 | None | $1,500 | 7 |
+| 1003 | [1990421](../reports/1990421.md) |  CVE-2023-28320 - siglongjmp race condition | CVE-2023-28320 | Low | $480 | 7 |
+| 1004 | [380878](../reports/380878.md) | Prototype pollution attack (defaults-deep / constructor | CVE-2018-16486 | Medium — CVSS 6.1 | — | 7 |
+| 1005 | [1927480](../reports/1927480.md) | DiffieHellman doesn't generate keys after setting a key | CVE-2023-30590 | Medium | — | 7 |
+| 1006 | [358339](../reports/358339.md) | File access control rules not enforced on image files | CVE-2018-3762 | Low — CVSS 3.5 | — | 7 |
+| 1007 | [475499](../reports/475499.md) | heap buffer overflow in phar_detect_phar_fname_ext | CVE-2019-9021 | Critical — CVSS 9.8 | — | 7 |
+| 1008 | [745276](../reports/745276.md) | Dragonblood: Design and Implementation Flaws in WPA3 an | CVE-2019-9498, CVE-2019-9499, CVE-2019-11235, CVE-2019-9497, CVE-2019-11234, CVE-2019-13377, CVE-2019-13456 | Medium | — | 7 |
+| 1009 | [221787](../reports/221787.md) | Malformed SHA512 ticket DoS (CVE-2016-6302) | CVE-2016-6302 | Low | — | 7 |
+| 1010 | [732415](../reports/732415.md) | The authenticity_token can be reversed and used to forg | CVE-2020-8166 | Medium — CVSS 5.9 | — | 7 |
+| 1011 | [1415436](../reports/1415436.md) | Deserialization of potentially malicious data to RCE | CVE-2021-33026 | High | — | 7 |
+| 1012 | [300513](../reports/300513.md) | WebLogic Server Side Request Forgery | CVE-2014-4241, CVE-2014-4210 | Medium | — | 6 |
+| 1013 | [3531737](../reports/3531737.md) | Memory leak in Node.js HTTP/2 server via WINDOW_UPDATE  | CVE-2026-21714 | Medium — CVSS 5.3 | — | 6 |
+| 1014 | [622864](../reports/622864.md) | https://█████████ Vulnerable to CVE-2018-0296 Cisco ASA | CVE-2018-0296 | High | — | 6 |
+| 1015 | [1445810](../reports/1445810.md) | Mute User can disclose private channel members to unaut | CVE-2023-28357 | Medium — CVSS 4.3 | — | 6 |
+| 1016 | [1246721](../reports/1246721.md) | Text app leaks file path of shared files | CVE-2021-32734 | Low | — | 6 |
+| 1017 | [1726445](../reports/1726445.md) | A vulnerability classified as critical has been found i | CVE-2019-7639 | Low | — | 6 |
+| 1018 | [212022](../reports/212022.md) | Remote Code Execution (RCE) in a DoD website | CVE-2017-5638 | Critical | — | 6 |
+| 1019 | [1354334](../reports/1354334.md) | Error in Deleting Deck cards attachment reveals the ful | CVE-2022-24906 | Low — CVSS 3.5 | — | 6 |
+| 1020 | [1579820](../reports/1579820.md) | Ownership check missing when updating or deleting attac | CVE-2022-31131 | Medium — CVSS 5.4 | — | 6 |
+| 1021 | [312907](../reports/312907.md) | [mcstatic] Path Traversal allows to read content of arb | CVE-2018-3730 | High — CVSS 8.6 | — | 6 |
+| 1022 | [1455248](../reports/1455248.md) | Buffer Overflow in optimized_escape_html method | CVE-2021-41816 | Medium | — | 6 |
+| 1023 | [184877](../reports/184877.md) |  Out-of-date Version (Apache)  | CVE-2010-1452, CVE-2010-1623, CVE-2011-0419, CVE-2011-3192, CVE-2007-0086, CVE-2011-3368, CVE-2012-0031, CVE-2011-4317, CVE-2011-3348, CVE-2012-4557, CVE-2012-4558, CVE-2013-1862, CVE-2013-1896, CVE-2013-6438, CVE-2014-0098 | Medium | — | 6 |
+| 1024 | [703138](../reports/703138.md) | [yarn] yarn.lock integrity & hash check logic is broken | CVE-2019-15608 | Critical — CVSS 9.6 | — | 6 |
+| 1025 | [1511619](../reports/1511619.md) | Read and write beyond bounds in mod_sed | CVE-2022-23943 | High | — | 6 |
+| 1026 | [194065](../reports/194065.md) |  DoS vulnerability in mod_auth_digest CVE-2016-2161 | CVE-2016-2161 | Low | — | 6 |
+| 1027 | [1630667](../reports/1630667.md) |  CVE-2022-32215 - HTTP Request Smuggling Due to Incorre | CVE-2022-32215 | Medium | $1,800 | 6 |
+| 1028 | [170156](../reports/170156.md) | Reflected XSS in Step 2 of the Installation | CVE-2016-9472 | None | — | 6 |
+| 1029 | [1879548](../reports/1879548.md) | Missing Function Level Access Control in Mozilla formul | CVE-2023-25166 | Medium | — | 6 |
+| 1030 | [358645](../reports/358645.md) | [serve] Server Directory Traversal | CVE-2019-5417 | Critical — CVSS 9.3 | — | 6 |
+| 1031 | [3717552](../reports/3717552.md) | CURLOPT_PROXY_CRLFILE / CURLOPT_PROXY_ISSUERCERT / CURL | CVE-2025-5025, CVE-2025-13034, CVE-2024-2466 | Low | — | 6 |
+| 1032 | [362118](../reports/362118.md) | Arbitrary File Write Through Archive Extraction | CVE-2018-1002204 | High — CVSS 8.2 | — | 6 |
+| 1033 | [309124](../reports/309124.md) | [node-srv] Path Traversal allows to read arbitrary file | CVE-2018-3714 | High — CVSS 8.6 | — | 6 |
+| 1034 | [298990](../reports/298990.md) | Configuration and/or source code files on uchat-staging | CVE-2005-2169, CVE-2005-0202 | Medium | — | 6 |
+| 1035 | [1404789](../reports/1404789.md) | Ruby - Regular Expression Denial of Service Vulnerabili | CVE-2021-41817 | Medium | — | 6 |
+| 1036 | [1614328](../reports/1614328.md) | CVE-2022-32205: Set-Cookie denial of service | CVE-2022-32205 | Low | $480 | 6 |
+| 1037 | [1681208](../reports/1681208.md) | XSS DUE TO CVE-2022-38463 in https://████████ | CVE-2022-38463 | Medium | — | 6 |
+| 1038 | [2107](../reports/2107.md) | Handling of jar: URIs bypasses AllowScriptAccess=never | CVE-2014-0491 | None | $2,000 | 6 |
+| 1039 | [1966492](../reports/1966492.md) | fs.openAsBlob() bypasses permission system | CVE-2023-30583 | Medium — CVSS 4.4 | — | 6 |
+| 1040 | [686823](../reports/686823.md) | CVE-2019-5481: krb5: double-free in read_data() after r | CVE-2019-5481 | Medium — CVSS 6.3 | — | 6 |
+| 1041 | [192567](../reports/192567.md) | Remote code execution vulnerability on a DoD website | CVE-2014-0094 | High | — | 6 |
+| 1042 | [403692](../reports/403692.md) | [tianma-static] Stored xss on filename | CVE-2018-16474 | Medium — CVSS 6.7 | — | 6 |
+| 1043 | [1018146](../reports/1018146.md) | Potential DDoS when posting long data into workflow val | CVE-2020-8293 | Medium — CVSS 5.7 | — | 6 |
+| 1044 | [1204977](../reports/1204977.md) | CGI::Cookieクラスにおけるセキュリティ上好ましくない仕様および実装 | CVE-2021-33621 | Low | — | 6 |
+| 1045 | [226335](../reports/226335.md) | Escape sequence injection in "summary" field | CVE-2017-0899 | Low | $500 | 6 |
+| 1046 | [661647](../reports/661647.md) | Local File Disclosure (+XSS+CSRF) in AirOS 6.2.0 device | CVE-2020-8170, CVE-2020-8168 | Medium — CVSS 6.1 | — | 6 |
+| 1047 | [662218](../reports/662218.md) | Talk - Leak of password-protected room name via already | CVE-2019-15620 | Low — CVSS 2.7 | $150 | 6 |
+| 1048 | [296991](../reports/296991.md) | Exim use-after-free vulnerability while reading mail he | CVE-2017-16943 | Critical — CVSS 9.8 | — | 6 |
+| 1049 | [510025](../reports/510025.md) | Invalid Read on exif_process_SOFn | CVE-2019-9640 | High — CVSS 7.5 | — | 6 |
+| 1050 | [113831](../reports/113831.md) | Regarding [CVE-2016-0752] Possible Information Leak Vul | CVE-2016-0752 | None | — | 6 |
+| 1051 | [1218173](../reports/1218173.md) | Cross-site Scripting (XSS) possible  at https://sifchai | CVE-2019-8331 | Medium — CVSS 6.5 | — | 6 |
+| 1052 | [2094235](../reports/2094235.md) | Integrity checks according to policies can be circumven | CVE-2023-38552 | Medium | — | 6 |
+| 1053 | [1813864](../reports/1813864.md) | CVE-2023-23914: curl HSTS ignored on multiple requests | CVE-2023-23914 | Low | — | 6 |
+| 1054 | [390860](../reports/390860.md) | Prototype Pollution Vulnerability in mpath Package | CVE-2018-16490 | High — CVSS 7.6 | — | 6 |
+| 1055 | [1238099](../reports/1238099.md) | HTTP Request Smuggling due to ignoring chunk extensions | CVE-2021-22960 | Medium | $250 | 6 |
+| 1056 | [1241460](../reports/1241460.md) | ApiService#fetch serves content as text/html and inline | CVE-2021-32733 | None | — | 6 |
+| 1057 | [208566](../reports/208566.md) | Outdated Jenkins server hosted at OwnCloud.org | CVE-2016-3727, CVE-2017-2608 | None | — | 6 |
+| 1058 | [1781751](../reports/1781751.md) | Ability to control the filename when uploading a logo o | CVE-2023-28833 | Low — CVSS 2.4 | — | 6 |
+| 1059 | [1538157](../reports/1538157.md) | Regular Expression Denial of Service vulnerability | CVE-2021-32640 | Medium | — | 6 |
+| 1060 | [439828](../reports/439828.md) | Event privacy level does not work in Thunderbird | CVE-2020-8117 | Medium — CVSS 4.8 | — | 6 |
+| 1061 | [403736](../reports/403736.md) | [takeapeek] Path traversal allow to expose directory an | CVE-2018-16473 | High — CVSS 8.6 | — | 6 |
+| 1062 | [3449392](../reports/3449392.md) | CVE-2024-36137 Patch Bypass - FileHandle.chmod/chown | CVE-2026-21716 | Low — CVSS 3.3 | — | 6 |
+| 1063 | [200909](../reports/200909.md) | Out of bounds memory read in unserialize() | CVE-2016-10161 | Medium | $500 | 6 |
+| 1064 | [1664019](../reports/1664019.md) | CVE-2022-35948: CRLF Injection in Nodejs ‘undici’ via C | CVE-2022-35948 | Medium | — | 6 |
+| 1065 | [182140](../reports/182140.md) | libtiff 4.0.6 segfault / read outside of buffer (CVE-20 | CVE-2016-9297 | Medium | — | 6 |
+| 1066 | [815084](../reports/815084.md) | [Limited bypass of #793704] Blind SSRF in Ghost CMS | CVE-2020-8134 | Low — CVSS 2.7 | — | 6 |
+| 1067 | [432600](../reports/432600.md) | [static-resource-server]  Path Traversal allows to read | CVE-2018-16493 | High — CVSS 8.6 | — | 6 |
+| 1068 | [309641](../reports/309641.md) | [simple-server] HTML with iframe element can be used as | CVE-2018-3717 | High — CVSS 7.7 | — | 6 |
+| 1069 | [311216](../reports/311216.md) | [626] Path Traversal allows to read arbitrary file from | CVE-2018-3727 | High — CVSS 8.6 | — | 6 |
+| 1070 | [1145044](../reports/1145044.md) | Holes in EndpointSlice Validation Enable Host Network H | CVE-2021-25737 | Low — CVSS 2.7 | — | 5 |
+| 1071 | [99245](../reports/99245.md) | XSS in L.mapbox.shareControl in mapbox.js | CVE-2017-1000043 | None | $1,000 | 5 |
+| 1072 | [1745702](../reports/1745702.md) | Insecure randomness for default password in file sharin | CVE-2023-28835 | Low — CVSS 3.5 | — | 5 |
+| 1073 | [3483708](../reports/3483708.md) | Valid share tokens allow to access tempory upload files | CVE-2026-45157 | Medium — CVSS 6.3 | — | 5 |
+| 1074 | [197253](../reports/197253.md) | formassembly.com is vulnerable to padding-oracle attack | CVE-2016-2107 | Medium — CVSS 5.9 | — | 5 |
+| 1075 | [1234760](../reports/1234760.md) | CVE-2021-22926: CURLOPT_SSLCERT mixup with Secure Trans | CVE-2021-22926 | Medium — CVSS 4.0 | — | 5 |
+| 1076 | [341710](../reports/341710.md) | [git-dummy-commit] Command injection on the msg paramet | CVE-2018-3785 | Critical — CVSS 10.0 | — | 5 |
+| 1077 | [1595281](../reports/1595281.md) | Read beyond bounds in ap_strcmp_match() [zhbug_httpd_47 | CVE-2022-28615 | Low | — | 5 |
+| 1078 | [3653316](../reports/3653316.md) | Reflected XSS via clientid parameter in zone‑include.ph | CVE-2026-34915 | Medium — CVSS 6.1 | — | 5 |
+| 1079 | [3733934](../reports/3733934.md) | CURLOPT_HSTS_CTRL disables shared HSTS without share gu | CVE-2018-16840, CVE-2023-27537 | None | — | 5 |
+| 1080 | [2861797](../reports/2861797.md) | curl mishandles `%0c%0b` sequences in HTTP responses le | CVE-2012-0036 | None | — | 5 |
+| 1081 | [660563](../reports/660563.md) | [script-manager] Unintended require | CVE-2020-8129 | Low | — | 5 |
+| 1082 | [119657](../reports/119657.md) | Adobe Flash Player Race Condition Vulnerability | CVE-2015-3103 | None | $2,000 | 5 |
+| 1083 | [221790](../reports/221790.md) | Certificate message OOB reads (CVE-2016-6306) | CVE-2016-6306 | Low | — | 5 |
+| 1084 | [231917](../reports/231917.md) | Shared file link - password protection bypass under cer | CVE-2018-16467, CVE-2019-5449 | Medium | $50 | 5 |
+| 1085 | [1073202](../reports/1073202.md) | Canonical Snapcraft vulnerable to remote code execution | CVE-2020-27348 | Medium — CVSS 6.8 | — | 5 |
+| 1086 | [1630336](../reports/1630336.md) | CVE-2022-32213 bypass via obs-fold mechanic | CVE-2022-32213 | Medium | — | 5 |
+| 1087 | [2170](../reports/2170.md) | Flash double free vulnerability leads to code execution | CVE-2014-0502 | None | — | 5 |
+| 1088 | [1129996](../reports/1129996.md) | Create alias does not validate account id | CVE-2021-22896 | Medium — CVSS 5.0 | — | 5 |
+| 1089 | [154827](../reports/154827.md) | More content spoofing through dir param in the files ap | CVE-2016-9467 | Low — CVSS 3.1 | $50 | 5 |
+| 1090 | [316346](../reports/316346.md) | [public] Stored XSS in filenames in directory served by | CVE-2018-3747 | Low — CVSS 3.9 | — | 5 |
+| 1091 | [43440](../reports/43440.md) | Arbitrary file existence disclosure in Action Pack | CVE-2014-7829 | None | — | 5 |
+| 1092 | [362119](../reports/362119.md) | Arbitrary File Write through archive extraction | CVE-2018-1002203 | High — CVSS 8.2 | — | 5 |
+| 1093 | [221785](../reports/221785.md) | OOB write in MDC2_Update() (CVE-2016-6303) | CVE-2016-6303 | Low | — | 5 |
+| 1094 | [321686](../reports/321686.md) | `atob` allocates uninitialized Buffers when number is p | CVE-2018-3745 | Medium — CVSS 6.5 | — | 5 |
+| 1095 | [1379451](../reports/1379451.md) | Messages can be hidden regardless of server configurati | CVE-2023-28318 | Medium — CVSS 4.3 | — | 5 |
+| 1096 | [47227](../reports/47227.md) | Race condition in workers may cause an exploitable doub | CVE-2015-0312 | None | — | 5 |
+| 1097 | [201346](../reports/201346.md) | CVE-2017-3730: Bad (EC)DHE parameters cause a client cr | CVE-2017-3730 | Medium | — | 5 |
+| 1098 | [1663788](../reports/1663788.md) | [CVE-2022-35949]: undici.request vulnerable to SSRF usi | CVE-2022-35949 | Medium | — | 5 |
+| 1099 | [381185](../reports/381185.md) | Prototype pollution attack (extend) | CVE-2018-16492 | Critical — CVSS 9.3 | — | 5 |
+| 1100 | [3718265](../reports/3718265.md) | Shared HSTS cache accessed without lock | CVE-2023-27537 | None | — | 5 |
+| 1101 | [1555441](../reports/1555441.md) | CVE-2022-27781: CERTINFO never-ending busy-loop | CVE-2022-27781 | Low | — | 5 |
+| 1102 | [308155](../reports/308155.md) | [html-janitor] Passing user-controlled data to clean()  | CVE-2017-0931 | Critical — CVSS 9.8 | — | 5 |
+| 1103 | [50170](../reports/50170.md) | FREAK: Factoring RSA_EXPORT Keys to Impersonate TLS Ser | CVE-2015-0204 | None | — | 5 |
+| 1104 | [1595296](../reports/1595296.md) | Read beyond bounds in mod_isapi.c [zhbug_httpd_41] | CVE-2022-28330 | Low | — | 5 |
+| 1105 | [221789](../reports/221789.md) | OOB read in TS_OBJ_print_bio() (CVE-2016-2180) | CVE-2016-2180 | Low | — | 5 |
+| 1106 | [1595290](../reports/1595290.md) | Controllable read beyond bounds in lua_websocket_readby | CVE-2022-30556 | Low | — | 5 |
+| 1107 | [3669623](../reports/3669623.md) | Stored XSS via Full Name field in userlog email entries | CVE-2026-44956 | Medium — CVSS 5.4 | — | 5 |
+| 1108 | [202967](../reports/202967.md) | CVE-2017-5484 The ATM parser in tcpdump before 4.9.0 ha | CVE-2017-5484 | High — CVSS 7.3 | — | 5 |
+| 1109 | [255587](../reports/255587.md) |  CVE-2017-1000101: cURL: URL globbing out of bounds rea | CVE-2017-1000101 | Medium — CVSS 4.3 | — | 5 |
+| 1110 | [2071556](../reports/2071556.md) | [CVE-2023-27539] Possible Denial of Service Vulnerabili | CVE-2023-27539 | Medium | $2,540 | 5 |
+| 1111 | [202965](../reports/202965.md) | CVE-2017-5341 The OTV parser in tcpdump before 4.9.0 ha | CVE-2017-5341 | High — CVSS 7.3 | — | 5 |
+| 1112 | [917843](../reports/917843.md) | Unsafe deserialization in Nexus Repository helm plugin | CVE-2020-15871 | Critical | — | 5 |
+| 1113 | [674540](../reports/674540.md) | mod_remoteip stack buffer overflow and NULL pointer der | CVE-2019-10097 | Medium | — | 5 |
+| 1114 | [170618](../reports/170618.md) | CVE-2016-7418 PHP Out-Of-Bounds Read in php_wddx_push_e | CVE-2016-7418 | None | — | 5 |
+| 1115 | [1209681](../reports/1209681.md) | OOB read in libuv | CVE-2021-22918 | Medium — CVSS 6.5 | — | 5 |
+| 1116 | [742588](../reports/742588.md) | Downgrade encryption scheme and break integrity through | CVE-2020-8150 | Medium — CVSS 5.3 | — | 5 |
+| 1117 | [247028](../reports/247028.md) | CVE-2017-10966: Heap-use-after-free in Irssi <1.0.4 | CVE-2017-10966 | High | — | 5 |
+| 1118 | [1049375](../reports/1049375.md) | SAML authentication bypass through unauthenticated `add | CVE-2020-29594 | Critical — CVSS 10.0 | — | 5 |
+| 1119 | [1223565](../reports/1223565.md) | CVE-2021-22924: Bad connection reuse due to flawed path | CVE-2021-22924 | High — CVSS 7.1 | — | 5 |
+| 1120 | [789579](../reports/789579.md) | ActiveStorage direct upload fails to sign content-lengt | CVE-2020-8162 | Medium — CVSS 5.3 | — | 5 |
+| 1121 | [223363](../reports/223363.md) | Escape sequence injection vulnerability in WEBrick Basi | CVE-2017-10784 | Medium — CVSS 6.3 | $500 | 5 |
+| 1122 | [221788](../reports/221788.md) | OOB write in BN_bn2dec() (CVE-2016-2182) | CVE-2016-2182 | Low | — | 5 |
+| 1123 | [1119228](../reports/1119228.md) | CVE-2021-26855 on ████████ resulting in SSRF | CVE-2021-26855 | Critical | — | 5 |
+| 1124 | [1596252](../reports/1596252.md) | DoS via lua_read_body() [zhbug_httpd_94] | CVE-2022-29404 | Low | — | 5 |
+| 1125 | [1213175](../reports/1213175.md) | CVE-2021-22922: Wrong content via metalink not discarde | CVE-2021-22922 | Medium | — | 5 |
+| 1126 | [330650](../reports/330650.md) | [serve] Directory listing and File access even when the | CVE-2018-3809 | Critical — CVSS 9.3 | — | 5 |
+| 1127 | [384939](../reports/384939.md) | http-live-simulator npm module is prone to path travers | CVE-2019-5423 | High — CVSS 8.6 | — | 5 |
+| 1128 | [87835](../reports/87835.md) | Webview Vulnerablity [OwnCloudAndroid Application]  | CVE-2013-4710 | None | — | 5 |
+| 1129 | [221792](../reports/221792.md) | Excessive allocation of memory in dtls1_preprocess_frag | CVE-2016-6308, CVE-2016-6307 | Low | — | 5 |
+| 1130 | [329950](../reports/329950.md) | [public] Stored XSS in the filename when directories li | CVE-2018-16480 | Medium — CVSS 5.5 | — | 5 |
+| 1131 | [1485501](../reports/1485501.md) | ReDoS in Time.rfc2822 | CVE-2023-28756 | None | — | 5 |
+| 1132 | [673724](../reports/673724.md) | Circle email-members have still access to a shared fold | CVE-2019-15610 | Low — CVSS 2.0 | $200 | 5 |
+| 1133 | [722748](../reports/722748.md) | Bypass configured 2FA provider with another provider th | CVE-2019-15617 | Medium — CVSS 4.6 | — | 5 |
+| 1134 | [1101882](../reports/1101882.md) | CVE-2021-22876: Automatic referer leaks credentials | CVE-2021-22876 | Low | — | 5 |
+| 1135 | [1886139](../reports/1886139.md) | HTTP multi-header compression denial of service | CVE-2023-23916 | Medium — CVSS 5.3 | — | 5 |
+| 1136 | [1606039](../reports/1606039.md) | CVE-2022-27781: CERTINFO never-ending busy-loop | CVE-2022-27781 | Low | — | 5 |
+| 1137 | [216840](../reports/216840.md) | OCSP Status Request extension unbounded memory growth ( | CVE-2016-6304 | High | — | 5 |
+| 1138 | [509315](../reports/509315.md) | c3p0 may be exploited by a Billion Laughs Attack when l | CVE-2019-5427, CVE-2018-20433 | Medium — CVSS 6.2 | — | 5 |
+| 1139 | [2125679](../reports/2125679.md) | [CVE-2023-23913] DOM Based Cross-site Scripting in rail | CVE-2023-23913 | Medium | — | 5 |
+| 1140 | [330356](../reports/330356.md) | [html-pages] Stored XSS in the filename when directorie | CVE-2018-16481 | High — CVSS 7.3 | — | 5 |
+| 1141 | [1944515](../reports/1944515.md) | CVE-2023-28755: ReDoS vulnerability in URI | CVE-2023-28755 | Medium — CVSS 6.5 | — | 5 |
+| 1142 | [2140](../reports/2140.md) | Flash local-with-fileaccess Sandbox Bypass | CVE-2014-0508 | None | — | 5 |
+| 1143 | [980649](../reports/980649.md) | [json8-merge-patch] Prototype Pollution | CVE-2020-8268 | High — CVSS 7.3 | — | 5 |
+| 1144 | [390929](../reports/390929.md) | Code Injection Vulnerability in dot Package | CVE-2020-8141 | High — CVSS 7.4 | — | 5 |
+| 1145 | [191979](../reports/191979.md) | Limitation of app specific password scope can be bypass | CVE-2017-0892 | Low — CVSS 3.0 | $300 | 5 |
+| 1146 | [3780806](../reports/3780806.md) | Reflected XSS via unsanitised refresh parameter in zone | CVE-2026-50740 | Medium — CVSS 6.1 | — | 5 |
+| 1147 | [142472](../reports/142472.md) | CVE-2016-2177 Undefined pointer arithmetic in SSL code | CVE-2016-2177 | None | — | 5 |
+| 1148 | [221791](../reports/221791.md) | Excessive allocation of memory in tls_get_message_heade | CVE-2016-6307 | Low | — | 5 |
+| 1149 | [1568175](../reports/1568175.md) | Credential leak on redirect | CVE-2022-27776 | Medium | — | 5 |
+| 1150 | [1690510](../reports/1690510.md) | the complete server installation path is visible in clo | CVE-2023-28834 | Low — CVSS 3.5 | — | 5 |
+| 1151 | [1321358](../reports/1321358.md) | XSS exploit of RDoc documentation generated by rdoc | CVE-2013-0256 | Medium | — | 5 |
+| 1152 | [1069487](../reports/1069487.md) | DNS rebinding in --inspect (insufficient fix of CVE-201 | CVE-2021-22884, CVE-2018-7160 | High — CVSS 7.5 | $500 | 5 |
+| 1153 | [1553301](../reports/1553301.md) | CVE-2022-27779: cookie for trailing dot TLD | CVE-2022-27779 | Medium | — | 5 |
+| 1154 | [924393](../reports/924393.md) | PIN for passwordless WebAuthn is asked for but not veri | CVE-2020-8236 | Medium — CVSS 4.3 | — | 4 |
+| 1155 | [288993](../reports/288993.md) | SSL_peek() hang on empty record (CVE-2016-6305) | CVE-2016-6305 | Medium | $1,000 | 4 |
+| 1156 | [268806](../reports/268806.md) | CVE-2017-13009 The IPv6 mobility parser in tcpdump befo | CVE-2017-13009 | High — CVSS 7.3 | — | 4 |
+| 1157 | [329400](../reports/329400.md) | Remote Code Execution (RCE) in a DoD website | CVE-2017-10366 | Critical | — | 4 |
+| 1158 | [272497](../reports/272497.md) | Perl $ENV Key Stack Buffer Overflow | CVE-2017-12814 | High | $1,500 | 4 |
+| 1159 | [138179](../reports/138179.md) | Divide-and-conquer session key recovery in SSLv2 (CVE-2 | CVE-2016-0703 | None | — | 4 |
+| 1160 | [3658225](../reports/3658225.md) | HTTP/2 sessions never clean up after GOAWAY on invalid  | CVE-2026-48937 | Medium — CVSS 5.3 | — | 4 |
+| 1161 | [636560](../reports/636560.md) | Project Milestones Disclosed Via Groups When the Victim | CVE-2019-15577 | Low | — | 4 |
+| 1162 | [1606068](../reports/1606068.md) | XSS DUE TO CVE-2020-3580 | CVE-2020-3580 | Medium | — | 4 |
+| 1163 | [527042](../reports/527042.md) | CVE-2019-0196: mod_http2 with scoreboard Use-After-Free | CVE-2019-0196 | Medium — CVSS 5.3 | — | 4 |
+| 1164 | [329645](../reports/329645.md) | Silent omission of certificate hostname verification in | CVE-2018-8970 | Critical — CVSS 9.1 | — | 4 |
+| 1165 | [430291](../reports/430291.md) | Prototype pollution attack in just-extend | CVE-2018-16489 | Medium — CVSS 5.7 | — | 4 |
+| 1166 | [1806223](../reports/1806223.md) | Reference fetch can saturate the server bandwidth for 1 | CVE-2023-28644 | Medium — CVSS 5.7 | — | 4 |
+| 1167 | [1623175](../reports/1623175.md) | Node 18 reads openssl.cnf from /home/iojs/build/... upo | CVE-2022-32222 | Medium — CVSS 6.6 | — | 4 |
+| 1168 | [1278891](../reports/1278891.md) | [CVE-2021-29156] LDAP Injection at https://██████ | CVE-2021-29156 | Medium | — | 4 |
+| 1169 | [960082](../reports/960082.md) | Read-only path traversal (CVE-2020-3452)  at https://██ | CVE-2020-3452 | High | — | 4 |
+| 1170 | [144782](../reports/144782.md) | CVE-2016-0772 - python: smtplib StartTLS stripping atta | CVE-2016-0772 | None | $1,000 | 4 |
+| 1171 | [3788984](../reports/3788984.md) | CVE-2026-11564: Native CA trust persist | CVE-2026-11564 | Low | — | 4 |
+| 1172 | [1892780](../reports/1892780.md) | CVE-2023-27535: FTP too eager connection reuse | CVE-2023-27535 | Medium | — | 4 |
+| 1173 | [964583](../reports/964583.md) | CVE-2017-13041 The ICMPv6 parser in tcpdump before 4.9. | CVE-2017-13041 | High | $500 | 4 |
+| 1174 | [1596918](../reports/1596918.md) | Brute force protections don't work | CVE-2022-31118 | Low — CVSS 3.7 | — | 4 |
+| 1175 | [27651](../reports/27651.md) | Flash Local Sandbox Bypass | CVE-2014-0554 | None | — | 4 |
+| 1176 | [1361804](../reports/1361804.md) | 1-click DOS in fastify-static via directly passing user | CVE-2021-22964 | Medium — CVSS 5.9 | — | 4 |
+| 1177 | [1141623](../reports/1141623.md) | Unexpected input validation of octal literals in nodejs | CVE-2021-28918, CVE-2020-28360 | Critical — CVSS 10.0 | — | 4 |
+| 1178 | [3739561](../reports/3739561.md) | SSL session-cache peer key omits signature_algorithms:  | CVE-2020-8231 | None | — | 4 |
+| 1179 | [2012135](../reports/2012135.md) | [CVE-2023-22799] Possible ReDoS based DoS vulnerability | CVE-2023-22799 | Low | $480 | 4 |
+| 1180 | [160294](../reports/160294.md) | Memory Leakage In exif_process_IFD_in_TIFF (CVE-2016-71 | CVE-2016-7128 | None | — | 4 |
+| 1181 | [1625036](../reports/1625036.md) | Insecure loading of ICU data through ICU_DATA environme | CVE-2023-23920 | Low — CVSS 3.0 | — | 4 |
+| 1182 | [453820](../reports/453820.md) | [harp] File access even when they have been set to be i | CVE-2019-5437 | Medium — CVSS 5.3 | — | 4 |
+| 1183 | [903521](../reports/903521.md) | Fastify uses allErrors: true ajv configuration by defau | CVE-2020-8192 | Medium — CVSS 5.3 | $250 | 4 |
+| 1184 | [199438](../reports/199438.md) | SWEET32 TLS attack | CVE-2016-2183 | None | — | 4 |
+| 1185 | [1063039](../reports/1063039.md) | Phar Deserialization Vulnerability via Logging Settings | CVE-2021-36766 | Medium — CVSS 6.4 | — | 4 |
+| 1186 | [1213181](../reports/1213181.md) | CVE-2021-22923: Metalink download sends credentials | CVE-2021-22923 | Medium | — | 4 |
+| 1187 | [356809](../reports/356809.md) | [exceljs] Possible XSS via cell value when worksheet is | CVE-2018-16459 | Medium — CVSS 6.8 | — | 4 |
+| 1188 | [3738654](../reports/3738654.md) |  Firecracker Out-of-bounds Read/Write Local Privilege E | CVE-2026-5747 | None | — | 4 |
+| 1189 | [179073](../reports/179073.md) | Content Spoofing in "files" app | CVE-2017-0888 | Low | $50 | 4 |
+| 1190 | [703415](../reports/703415.md) | [treekill] RCE via insecure command concatenation (only | CVE-2019-15598 | High — CVSS 7.3 | — | 4 |
+| 1191 | [3780854](../reports/3780854.md) | PHP code injection in delivery-limitation `logical` val | CVE-2026-50741 | High — CVSS 8.8 | — | 4 |
+| 1192 | [1889477](../reports/1889477.md) | Security Unfavorable Specifications and Implementations | CVE-2021-33621 | Low | — | 4 |
+| 1193 | [1910810](../reports/1910810.md) | Apache HTTP Server: mod_proxy_uwsgi HTTP response split | CVE-2023-27522 | Medium | — | 4 |
+| 1194 | [2104564](../reports/2104564.md) | (CVE-2023-32004) Permission model bypass by specifying  | CVE-2023-32004 | High | — | 4 |
+| 1195 | [15362](../reports/15362.md) | Flash Sandbox Bypass | CVE-2014-0535 | None | — | 4 |
+| 1196 | [250581](../reports/250581.md) | CVE-2017-11367: Global buffer overflow (READ of size 4) | CVE-2017-11367 | None | — | 4 |
+| 1197 | [965914](../reports/965914.md) | `fs.realpath.native` on darwin may cause buffer overflo | CVE-2020-8252 | Medium | — | 4 |
+| 1198 | [2071561](../reports/2071561.md) | CVE-2023-36617: ReDoS vulnerability in URI (Ruby) | CVE-2023-36617 | Medium | $2,540 | 4 |
+| 1199 | [905015](../reports/905015.md) | Long filenames cause OOM and temp files are not cleaned | CVE-2019-11048 | Medium — CVSS 5.3 | — | 4 |
+| 1200 | [1178337](../reports/1178337.md) | Improper handling of untypical characters in domain nam | CVE-2021-22931 | High — CVSS 7.5 | — | 4 |
+| 1201 | [311333](../reports/311333.md) | Prototype pollution attack (deep-extend) | CVE-2018-3750 | Low — CVSS 2.0 | — | 4 |
+| 1202 | [1583680](../reports/1583680.md) | Undici does not use CONNECT or otherwise validate upstr | CVE-2022-32210 | High — CVSS 7.4 | — | 4 |
+| 1203 | [292797](../reports/292797.md) | ActionController::Parameters .each returns an unsafe ha | CVE-2020-8164 | Medium — CVSS 6.5 | — | 4 |
+| 1204 | [312918](../reports/312918.md) | [public] Path Traversal allows to read content of arbit | CVE-2018-3731 | High — CVSS 8.6 | — | 4 |
+| 1205 | [3783738](../reports/3783738.md) | XML‑RPC login leak exposes valid session ID enabling un | CVE-2026-50744 | Medium — CVSS 4.3 | — | 4 |
+| 1206 | [268807](../reports/268807.md) | CVE-2017-13010 The BEEP parser in tcpdump before 4.9.2  | CVE-2017-13010 | High — CVSS 7.3 | — | 4 |
+| 1207 | [634630](../reports/634630.md) | Remote OS command Execution in the 3 more Oracle Weblog | CVE-2017-10352 | Critical | — | 4 |
+| 1208 | [802863](../reports/802863.md) | CVE-2017-13050: The RPKI-Router parser in tcpdump befor | CVE-2017-13050 | High | — | 4 |
+| 1209 | [959679](../reports/959679.md) | Read-only path traversal (CVE-2020-3452)  at https://██ | CVE-2020-3452 | High | — | 4 |
+| 1210 | [838685](../reports/838685.md) | Use of uninitialized value in ftp_getrc_msg method of m | CVE-2020-1934 | Low — CVSS 3.7 | — | 4 |
+| 1211 | [1147611](../reports/1147611.md) | DoS due to improper input validation can break the admi | CVE-2021-32657 | High | — | 4 |
+| 1212 | [1991427](../reports/1991427.md) | CVE-2023-28321: IDN wildcard match | CVE-2023-28321 | Low | — | 4 |
+| 1213 | [1423496](../reports/1423496.md) | ██████████ running a vulnerable log4j | CVE-2021-44228 | Critical | — | 4 |
+| 1214 | [1895135](../reports/1895135.md) | CVE-2023-27536: GSS delegation too eager connection re- | CVE-2023-27536 | Low | — | 4 |
+| 1215 | [480778](../reports/480778.md) | Heap-buffer-overflow in Perl__byte_dump_string (utf8.c) | CVE-2018-6798, CVE-2018-6797 | High — CVSS 7.5 | — | 4 |
+| 1216 | [1555015](../reports/1555015.md) | [CVE-2020-3452] Unauthenticated file read in Cisco ASA | CVE-2020-3452 | High | — | 4 |
+| 1217 | [173622](../reports/173622.md) | Bypassing quota limit  | CVE-2017-0887 | None | — | 4 |
+| 1218 | [478368](../reports/478368.md) | imagecolormatch Out Of Bounds Write on Heap  | CVE-2019-6977 | High — CVSS 8.8 | $1,500 | 4 |
+| 1219 | [12497](../reports/12497.md) | Adobe Flash Player FileReference Use-after-Free Vulnera | CVE-2014-0538 | None | $7,500 | 4 |
+| 1220 | [151043](../reports/151043.md) | Adobe Flash Player PSDK Class Use After Free Vulnerabil | CVE-2016-4248 | None | $5,000 | 4 |
+| 1221 | [172411](../reports/172411.md) | Heap overflow caused by type confusion vulnerability in | CVE-2016-7398 | Low | — | 4 |
+| 1222 | [1537694](../reports/1537694.md) | ███ vulnerable to CVE-2022-22954 | CVE-2022-22954 | Critical | — | 4 |
+| 1223 | [310707](../reports/310707.md) | Prototype pollution attack (assign-deep) | CVE-2018-3720 | Low — CVSS 1.8 | — | 4 |
+| 1224 | [311236](../reports/311236.md) | Prototype pollution attack (mixin-deep) | CVE-2018-3719 | Low — CVSS 1.8 | — | 4 |
+| 1225 | [430831](../reports/430831.md) | Prototype pollution attack in node.extend | CVE-2018-16491 | Medium — CVSS 5.7 | — | 3 |
+| 1226 | [3780709](../reports/3780709.md) | Missing ownership validation allows cross‑manager track | CVE-2026-50739, CVE-2026-34913 | Medium — CVSS 4.3 | — | 3 |
+| 1227 | [3741135](../reports/3741135.md) | Connection reuse ignores haproxyprotocol and HAPROXY_CL | CVE-2026-4873, CVE-2026-5545, CVE-2026-5773, CVE-2026-6429, CVE-2026-6253, CVE-2026-7168, CVE-2026-3784, CVE-2026-3805 | None | — | 3 |
+| 1228 | [681986](../reports/681986.md) | [node-red] Stored XSS within Flow's - "Name" field  | CVE-2019-15607 | Medium — CVSS 4.6 | — | 3 |
+| 1229 | [1140631](../reports/1140631.md) | REST API gets `query` as parameter and executes it | CVE-2022-32219 | Medium — CVSS 6.5 | — | 3 |
+| 1230 | [899069](../reports/899069.md) | Untrusted users able to run pending migrations in produ | CVE-2020-8185 | Medium — CVSS 6.5 | — | 3 |
+| 1231 | [3784125](../reports/3784125.md) | GnuTLS OCSP stapling accepts unrelated SingleResponse ( | CVE-2020-8286 | High | — | 3 |
+| 1232 | [891846](../reports/891846.md) | CVE-2020-9383 Floppy OOB read | CVE-2020-9383 | High — CVSS 7.0 | $750 | 3 |
+| 1233 | [1789602](../reports/1789602.md) | Contacts only sanitizes PHOTO svg if mime type is all l | CVE-2023-33182 | None | — | 3 |
+| 1234 | [247027](../reports/247027.md) | CVE-2017-10965: Null pointer dereference in Irssi <1.0. | CVE-2017-10965 | High | — | 3 |
+| 1235 | [88904](../reports/88904.md) | Apache Range Header Denial of Service Attack (Confirmed | CVE-2011-3192 | None | — | 3 |
+| 1236 | [964582](../reports/964582.md) | CVE-2017-13040 The MPTCP parser in tcpdump before 4.9.2 | CVE-2017-13040 | High | $500 | 3 |
+| 1237 | [3733984](../reports/3733984.md) | HSTS multi-trailing-dot bypass-ish: possible incomplete | CVE-2022-30115 | Medium | — | 3 |
+| 1238 | [1223882](../reports/1223882.md) | CVE-2021-22925: TELNET stack contents disclosure again | CVE-2021-22925, CVE-2021-22898 | Low — CVSS 3.1 | — | 3 |
+| 1239 | [1047086](../reports/1047086.md) | Heap buffer overflow vulnerability while processing a m | CVE-2020-27829 | High — CVSS 8.6 | — | 3 |
+| 1240 | [1913110](../reports/1913110.md) | CVE-2023-27537: HSTS double-free | CVE-2023-27537 | Low | — | 3 |
+| 1241 | [296282](../reports/296282.md) | [augustine] Static Web Server Directory Traversal via C | CVE-2017-0930 | Medium | — | 3 |
+| 1242 | [242119](../reports/242119.md) | Roundcube virtualmin privilege escalation (CVE-2017-811 | CVE-2017-8114 | Medium | — | 3 |
+| 1243 | [195950](../reports/195950.md) | Use of uninitialized memory in unserialize() | CVE-2017-5340 | Medium | — | 3 |
+| 1244 | [3625210](../reports/3625210.md) | PIN bypass in PassCodeActivity via back button | CVE-2026-45153 | Medium — CVSS 4.6 | — | 3 |
+| 1245 | [328210](../reports/328210.md) | [sexstatic] HTML injection in directory name(s) leads t | CVE-2018-3755 | Medium — CVSS 5.2 | — | 3 |
+| 1246 | [3781311](../reports/3781311.md) | Stored XSS in maintenance tools via unescaped entity na | CVE-2026-50742 | Medium — CVSS 4.4 | — | 3 |
+| 1247 | [677557](../reports/677557.md) | mod_http2, memory corruption on early pushes (CVE-2019- | CVE-2019-10081 | High — CVSS 8.6 | — | 3 |
+| 1248 | [167955](../reports/167955.md) | CVE-2016-4796 OpenJPEG color_cmyk_to_rgb Out-of-Bounds  | CVE-2016-4796 | None | — | 3 |
+| 1249 | [3781492](../reports/3781492.md) | PHP code injection in delivery-limitation `logical` val | CVE-2026-50741, CVE-2026-34916 | High — CVSS 8.8 | — | 3 |
+| 1250 | [51265](../reports/51265.md) | Flash Cross Domain Policy Bypass by Using File Upload a | CVE-2015-0337 | None | — | 3 |
+| 1251 | [3734921](../reports/3734921.md) | Trailing-dot IPv4 URL bypasses IP-address guard, allows | CVE-2022-30115 | None | — | 3 |
+| 1252 | [724253](../reports/724253.md) | Tcpdump before 4.9.3 has a buffer over-read in print-dc | CVE-2018-16229 | Critical — CVSS 9.8 | $500 | 3 |
+| 1253 | [310708](../reports/310708.md) | Prototype pollution attack (merge-deep) | CVE-2018-3722 | Low — CVSS 1.8 | — | 3 |
+| 1254 | [453513](../reports/453513.md) | Fix for CVE-2018-12122 can be bypassed via keep-alive r | CVE-2018-12122 | Medium | — | 3 |
+| 1255 | [1461340](../reports/1461340.md) | Maliciously crafted message can cause Rocket.Chat serve | CVE-2023-28356 | Medium — CVSS 5.5 | — | 3 |
+| 1256 | [262665](../reports/262665.md) | CVE-2017-5969: libxml2 when used in recover mode, allow | CVE-2017-5969 | Medium | — | 3 |
+| 1257 | [235842](../reports/235842.md) | Ruby 2.3.x and 2.2.x still bundle DoS vulnerable verisi | CVE-2014-9130 | Medium — CVSS 5.3 | — | 3 |
+| 1258 | [73429](../reports/73429.md) | pngcrush_measure_idat() off-by-one error (CVE-2015-2158 | CVE-2015-2158 | None | — | 3 |
+| 1259 | [476168](../reports/476168.md) | Heap overflow in utf32be_mbc_to_code | CVE-2019-9023 | Critical — CVSS 9.8 | $1,500 | 3 |
+| 1260 | [136986](../reports/136986.md) | Padding oracle in AES-NI CBC MAC check (CVE-2016-2107) | CVE-2016-2107 | None | — | 3 |
+| 1261 | [217381](../reports/217381.md) | doc.owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerabilit | CVE-2015-5477 | High | — | 3 |
+| 1262 | [268808](../reports/268808.md) | CVE-2017-13038 The PPP parser in tcpdump before 4.9.2 h | CVE-2017-13038 | High — CVSS 7.3 | — | 3 |
+| 1263 | [296994](../reports/296994.md) | Exim handles BDAT data incorrectly and leads to crash/h | CVE-2017-16944, CVE-2017-16943 | High — CVSS 7.5 | — | 3 |
+| 1264 | [724243](../reports/724243.md) | Tcpdump before 4.9.3 has a buffer over-read in print-80 | CVE-2018-16227 | Critical — CVSS 9.8 | $500 | 3 |
+| 1265 | [202960](../reports/202960.md) | CVE-2017-5204: The IPv6 parser in tcpdump before 4.9.0  | CVE-2017-5204 | High — CVSS 7.3 | — | 3 |
+| 1266 | [222020](../reports/222020.md) | Mercurial can be tricked into granting authorized users | CVE-2017-9462 | High | — | 3 |
+| 1267 | [1455411](../reports/1455411.md) | Invalid handling of X509_verify_cert() internal errors  | CVE-2021-4044 | Medium | $1,200 | 3 |
+| 1268 | [675580](../reports/675580.md) | Out of Bounds Memory Read in exif_process_user_comment | CVE-2019-11042 | High — CVSS 8.8 | $1,500 | 3 |
+| 1269 | [1369288](../reports/1369288.md) | Path Traversal CVE-2021-26086 CVE-2021-26085 | CVE-2021-26085, CVE-2021-26086 | Medium | — | 3 |
+| 1270 | [319794](../reports/319794.md) | [m-server] HTML Injection in filenames displayed as dir | CVE-2018-16484 | Medium — CVSS 6.0 | — | 3 |
+| 1271 | [530289](../reports/530289.md) | [harp] Path traversal using symlink | CVE-2019-5438 | Medium — CVSS 5.3 | — | 3 |
+| 1272 | [1067004](../reports/1067004.md) | Sensitive data exposure via https://███████/secure/Quer | CVE-2020-14179 | Medium | — | 3 |
+| 1273 | [6475](../reports/6475.md) | https://concrete5.org ::: HeartBleed Attack (CVE-2014-0 | CVE-2014-0160 | None | — | 3 |
+| 1274 | [295740](../reports/295740.md) | GarlicRust - heartbleed style vulnerability in major I2 | CVE-2017-17066 | High — CVSS 7.7 | — | 3 |
+| 1275 | [728110](../reports/728110.md) | [HTAF4-213] [Pre-submission] CVE-2018-2879 (padding ora | CVE-2018-2879 | High | — | 3 |
+| 1276 | [3707747](../reports/3707747.md) | libcurl 8.20.0 incomplete fix for CVE-2026-7168: changi | CVE-2026-7168 | Medium | — | 3 |
+| 1277 | [1354255](../reports/1354255.md) | Open redirect in fastify-static via mishandled user's i | CVE-2021-22963, CVE-2015-1164 | Low — CVSS 3.7 | — | 3 |
+| 1278 | [30567](../reports/30567.md) | Adobe Flash Player MP4 Use-After-Free Vulnerability | CVE-2014-0553 | None | $2,000 | 3 |
+| 1279 | [174069](../reports/174069.md) | Buffer overflow in HTTP parse_hostinfo(), parse_userinf | CVE-2016-7961 | Medium | — | 3 |
+| 1280 | [826238](../reports/826238.md) | load scripts DOS vulnerability | CVE-2018-6389 | High | — | 3 |
+| 1281 | [213069](../reports/213069.md) | Remote Code Execution (RCE) in a DoD website | CVE-2017-5638 | None | — | 3 |
+| 1282 | [838178](../reports/838178.md) | Reflected XSS in "*.mendix.com/openid/*" | CVE-2020-8160 | Medium — CVSS 6.4 | — | 3 |
+| 1283 | [1458020](../reports/1458020.md) | NoSQL-Injection discloses S3 File Upload URLs | CVE-2022-35246 | Medium — CVSS 6.5 | — | 3 |
+| 1284 | [3688064](../reports/3688064.md) | Node.js unicode dot separator handling can lead to tls  | CVE-2026-48618 | High — CVSS 7.7 | — | 3 |
+| 1285 | [140793](../reports/140793.md) | UniFi Video v3.2.2 (Windows) Local Privileges Escalatio | CVE-2016-6914 | High — CVSS 7.8 | — | 3 |
+| 1286 | [476439](../reports/476439.md) | Password authentication at newsletter.nextcloud.com dis | CVE-2016-6210 | Low | — | 3 |
+| 1287 | [692262](../reports/692262.md) | Path traversal in https://www.npmjs.com/package/http_se | CVE-2019-15600 | Medium — CVSS 5.5 | — | 3 |
+| 1288 | [1043360](../reports/1043360.md) | HTTP2 'unknownProtocol' cause Denial of Service by reso | CVE-2021-22883 | Critical — CVSS 9.3 | — | 3 |
+| 1289 | [917946](../reports/917946.md) | It is possible to elevate privileges for any authentica | CVE-2022-35250 | Medium | — | 3 |
+| 1290 | [6380](../reports/6380.md) | Same Origin Security Bypass Vulnerability | CVE-2014-0503 | None | $2,000 | 3 |
+| 1291 | [362702](../reports/362702.md) | XSS in express-useragent through HTTP User-Agent | CVE-2018-9863 | None | — | 3 |
+| 1292 | [966383](../reports/966383.md) | secret leaks in vsphere cloud controller manager log | CVE-2020-8563 | Medium — CVSS 6.2 | — | 3 |
+| 1293 | [20861](../reports/20861.md) | moderate: mod_deflate denial of service | CVE-2014-0118 | None | $500 | 3 |
+| 1294 | [73235](../reports/73235.md) | Use After Free Vulnerability in unserialize() | CVE-2015-2787 | None | — | 3 |
+| 1295 | [1410357](../reports/1410357.md) | getUsersOfRoom discloses users in private channels | CVE-2022-32226 | Medium — CVSS 6.5 | — | 2 |
+| 1296 | [1997312](../reports/1997312.md) | CVE-2023-28319: UAF in SSH sha256 fingerprint check | CVE-2023-28319 | Medium | — | 2 |
+| 1297 | [3720313](../reports/3720313.md) | Proxy credentials leaked in ERR_PROXY_TUNNEL error mess | CVE-2026-48615 | Medium — CVSS 5.9 | — | 2 |
+| 1298 | [272979](../reports/272979.md) | 2 vulnerabilities of arbitrary code in ████████  - CVE- | CVE-2017-5929 | Critical | — | 2 |
+| 1299 | [202968](../reports/202968.md) | CVE-2017-5342 In tcpdump before 4.9.0 a bug in multiple | CVE-2017-5342 | High — CVSS 7.3 | — | 2 |
+| 1300 | [2012131](../reports/2012131.md) | [CVE-2023-22796] Possible ReDoS based DoS vulnerability | CVE-2023-22796 | Low | $480 | 2 |
+| 1301 | [3734020](../reports/3734020.md) | HTTP/2 proxy CONNECT tunnel unbounded 1xx chain (missin | CVE-2023-38039 | None | — | 2 |
+| 1302 | [2127968](../reports/2127968.md) | CVE-2023-40195: Apache Airflow Spark Provider Deseriali | CVE-2023-40195 | Medium | — | 2 |
+| 1303 | [504761](../reports/504761.md) | phar_tar_writeheaders_int() buffer overflow | CVE-2019-9675 | High — CVSS 8.1 | $1,500 | 2 |
+| 1304 | [413388](../reports/413388.md) | Untrusted strings that are cache fetched with raw optio | CVE-2020-8165 | High | — | 2 |
+| 1305 | [2104567](../reports/2104567.md) | (CVE-2023-32003) fs.mkdtemp() and fs.mkdtempSync() are  | CVE-2023-32003 | Low | — | 2 |
+| 1306 | [1730660](../reports/1730660.md) | CVE-2022-42916: HSTS bypass via IDN | CVE-2022-42916 | Medium | — | 2 |
+| 1307 | [128169](../reports/128169.md) | BN_mod_exp may produce incorrect results on x86_64 (CVE | CVE-2015-3193 | None | $1,000 | 2 |
+| 1308 | [1033107](../reports/1033107.md) | DNS Max Responses for DOS | CVE-2020-8277 | High | $250 | 2 |
+| 1309 | [885041](../reports/885041.md) | The password of a mail share is not hashed if the passw | CVE-2020-8183 | Low | — | 2 |
+| 1310 | [3582376](../reports/3582376.md) | HTTP Response Queue Poisoning via TOCTOU Race Condition | CVE-2026-48931 | Low — CVSS 3.7 | — | 2 |
+| 1311 | [3797526](../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | CVE-2026-12064 | Low | — | 2 |
+| 1312 | [85201](../reports/85201.md) | Full Path Disclosure  | CVE-2016-1501 | None | — | 2 |
+| 1313 | [248659](../reports/248659.md) | PHP WDDX Deserialization Heap OOB Read in timelib_merid | CVE-2017-11145 | Medium — CVSS 5.3 | $500 | 2 |
+| 1314 | [145266](../reports/145266.md) | Adobe Flash Player ShimContentFactory.retrieveResolvers | CVE-2016-4151 | None | $2,000 | 2 |
+| 1315 | [1086259](../reports/1086259.md) | Proxy-Authorization header carried to a new host on a r | CVE-2018-1000007 | Medium — CVSS 4.4 | — | 2 |
+| 1316 | [3750295](../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | CVE-2026-9079 | Medium | — | 2 |
+| 1317 | [652911](../reports/652911.md) | CVE-2019-13132 - libzmq 4.1 series is vulnerable | CVE-2019-13132 | Medium — CVSS 6.8 | — | 2 |
+| 1318 | [3672641](../reports/3672641.md) | Session ID reuse allowing XML‑RPC API authentication by | CVE-2026-34917 | Medium — CVSS 4.3 | — | 2 |
+| 1319 | [3788931](../reports/3788931.md) | CVE-2026-11586: WS Auto-PONG memory exhaustion | CVE-2026-11586 | Low | — | 2 |
+| 1320 | [319795](../reports/319795.md) | [m-server] Path Traversal allows to display content of  | CVE-2018-16485 | Medium — CVSS 6.1 | — | 2 |
+| 1321 | [48100](../reports/48100.md) | Bad Write in TTF font parsing (win32k.sys) | CVE-2015-0059 | None | — | 2 |
+| 1322 | [134880](../reports/134880.md) | ASN.1 BIO excessive memory allocation (CVE-2016-2109) | CVE-2016-2109 | None | — | 2 |
+| 1323 | [28449](../reports/28449.md) | Active Record SQL Injection Vulnerability Affecting Pos | CVE-2014-3482 | None | — | 2 |
+| 1324 | [36279](../reports/36279.md) | Adobe Flash Player MP4 Use-After-Free Vulnerability | CVE-2014-8438 | None | $2,000 | 2 |
+| 1325 | [3734095](../reports/3734095.md) | TLS verifyhost bypass in rustls, mbedTLS, and wolfSSL w | CVE-2013-4545, CVE-2014-0139 | None | — | 2 |
+| 1326 | [50885](../reports/50885.md) | CVE-2014-0224 openssl ccs vulnerability | CVE-2014-0224 | None | $10 | 2 |
+| 1327 | [3754343](../reports/3754343.md) | CVE-2026-9546: sending old referer | CVE-2026-9546 | Low | — | 2 |
+| 1328 | [1294043](../reports/1294043.md) | SSH server due to Improper Signature Verification | CVE-2020-9283 | High — CVSS 7.0 | — | 2 |
+| 1329 | [31408](../reports/31408.md) | Adobe Flash Player Out-of-Bound Read/Write Vulnerabilit | CVE-2014-0564 | None | $5,000 | 2 |
+| 1330 | [1278050](../reports/1278050.md) | [CVE-2021-29156 on ForgeRock OpenAm] LDAP Injection in  | CVE-2021-29156 | Medium | — | 2 |
+| 1331 | [852103](../reports/852103.md) | Out-of-Bound Read in urldecode() [CVE-2020-7067] | CVE-2020-7067 | Medium | — | 2 |
+| 1332 | [218876](../reports/218876.md) | Share tokens for public calendars disclosed (NC-SA-2017 | CVE-2017-0894 | Medium — CVSS 4.3 | — | 2 |
+| 1333 | [138516](../reports/138516.md) | Adobe Flash Player ContentFactory class Memory Corrupti | CVE-2016-1098 | None | $2,000 | 2 |
+| 1334 | [764986](../reports/764986.md) | Man in the middle using LoadBalancer or ExternalIPs ser | CVE-2020-8554 | Medium — CVSS 6.6 | — | 2 |
+| 1335 | [714215](../reports/714215.md) | curl on Windows can be forced to execute code via OpenS | CVE-2019-1552, CVE-2019-5443 | High — CVSS 7.9 | — | 2 |
+| 1336 | [202969](../reports/202969.md) | CVE-2017-5482 The Q.933 parser in tcpdump before 4.9.0  | CVE-2017-5482, CVE-2016-8575 | High — CVSS 7.3 | — | 2 |
+| 1337 | [189878](../reports/189878.md) | CSRF header is sent to external websites when using dat | CVE-2020-8167, CVE-2015-1840 | Low — CVSS 3.1 | — | 2 |
+| 1338 | [145271](../reports/145271.md) | Adobe Flash Player ShimContentResolver(resolverType=0)  | CVE-2016-4154 | None | $2,000 | 2 |
+| 1339 | [103991](../reports/103991.md) | mod_lua: Crash in websockets PING handling | CVE-2015-0228 | None | — | 2 |
+| 1340 | [227344](../reports/227344.md) | CVE-2017-8798 - miniupnp getHTTPResponse chunked encodi | CVE-2017-8798 | High — CVSS 7.1 | — | 2 |
+| 1341 | [145272](../reports/145272.md) | Adobe Flash Player ShimContentResolver(resolverType=1)  | CVE-2016-4155 | None | $2,000 | 2 |
+| 1342 | [105190](../reports/105190.md) | Unsafe usage of Ruby string interpolation enabling comm | CVE-2015-8969 | None | — | 2 |
+| 1343 | [380102](../reports/380102.md) | Missing memory corruption protection on Windows release | CVE-2020-8230 | Medium — CVSS 4.7 | — | 2 |
+| 1344 | [324491](../reports/324491.md) | `fs-path` concatenates unsanitized input into exec()/ex | CVE-2020-8298 | Critical — CVSS 9.6 | — | 2 |
+| 1345 | [476179](../reports/476179.md) | Buffer over-write in finfo_open with malformed magic fi | CVE-2015-8865 | High — CVSS 7.3 | $1,500 | 2 |
+| 1346 | [138517](../reports/138517.md) | Adobe Flash Player Metadata class Memory Corruption Vul | CVE-2016-1099 | None | $2,000 | 2 |
+| 1347 | [802896](../reports/802896.md) | CVE-2017-13019:  The PGM parser in tcpdump before 4.9.2 | CVE-2017-13019 | High | — | 2 |
+| 1348 | [3733946](../reports/3733946.md) | Credentials forwarded to HTTP after HTTPS→HTTP same-por | CVE-2022-27774, CVE-2024-11053 | None | — | 2 |
+| 1349 | [1411867](../reports/1411867.md) | Escape Sequence Injection vulnerability in Rack | CVE-2022-30123 | Medium — CVSS 6.5 | — | 2 |
+| 1350 | [882258](../reports/882258.md) | New users can read all Nextcloud Deck data from previou | CVE-2020-8297 | Low | — | 2 |
+| 1351 | [2012122](../reports/2012122.md) | [CVE-2022-44571] Possible Denial of Service Vulnerabili | CVE-2022-44571 | Low | $480 | 2 |
+| 1352 | [2012121](../reports/2012121.md) | [CVE-2022-44570] Possible Denial of Service Vulnerabili | CVE-2022-44570 | Low | $480 | 2 |
+| 1353 | [135945](../reports/135945.md) | EVP_EncryptUpdate overflow (CVE-2016-2106) | CVE-2016-2106 | None | — | 2 |
+| 1354 | [66962](../reports/66962.md) | Misusing of FPU Instruction Could Cause Security Vulner | CVE-2015-3100 | None | — | 2 |
+| 1355 | [167947](../reports/167947.md) | CVE-2016-3183 OpenJPEG sycc422_to_rgb Out-of-Bounds Rea | CVE-2016-3183 | None | — | 2 |
+| 1356 | [16330](../reports/16330.md) | Multiple issues in looking-glass software (aka from web | CVE-2014-3926, CVE-2014-3927, CVE-2014-3928, CVE-2014-3929, CVE-2014-3930, CVE-2014-3931 | None | — | 2 |
+| 1357 | [3680090](../reports/3680090.md) | Stored XSS via malicious usernames in audit log details | CVE-2026-44960, CVE-2026-44961 | None | — | 2 |
+| 1358 | [3781691](../reports/3781691.md) | CSRF in zone‑include.php allows unauthorized banner and | CVE-2026-50743 | Medium — CVSS 5.4 | — | 2 |
+| 1359 | [3791191](../reports/3791191.md) | Trailing-Dot Hostname in Redirect Silently Strips Clien | CVE-2022-27774 | Medium | — | 2 |
+| 1360 | [103996](../reports/103996.md) | Use After Free Vulnerability in unserialize() with SplO | CVE-2015-6834 | None | — | 2 |
+| 1361 | [476178](../reports/476178.md) | Negative size parameter in mb_split | CVE-2019-9025 | Critical — CVSS 9.8 | $1,500 | 2 |
+| 1362 | [73236](../reports/73236.md) | X509_to_X509_REQ NULL pointer deref | CVE-2015-0288 | None | — | 2 |
+| 1363 | [805010](../reports/805010.md) | PHP link() silently truncates after a null byte on Wind | CVE-2019-11044 | Medium | — | 2 |
+| 1364 | [2043807](../reports/2043807.md) | Policy-restricted modules can escalate to higher privil | CVE-2023-32006 | Medium — CVSS 6.7 | — | 2 |
+| 1365 | [195688](../reports/195688.md) | NULL Pointer Dereference while unserialize php object | CVE-2016-10162 | Medium | — | 2 |
+| 1366 | [411405](../reports/411405.md) | [http-live-simulator] Path traversal vulnerability | CVE-2018-16479 | High — CVSS 7.5 | — | 2 |
+| 1367 | [2070810](../reports/2070810.md) | Potential NULL dereference in libssh's sftp server | CVE-2023-3603 | Low — CVSS 3.1 | — | 2 |
+| 1368 | [1514863](../reports/1514863.md) | Use of uninitialized value of in req_parsebody method o | CVE-2022-22719 | Medium | — | 2 |
+| 1369 | [103997](../reports/103997.md) | Use After Free Vulnerability in unserialize() | CVE-2015-6834 | None | — | 2 |
+| 1370 | [145463](../reports/145463.md) | Nextcloud server software: Content Spoofing | CVE-2016-9460 | None | — | 2 |
+| 1371 | [145267](../reports/145267.md) | Adobe Flash Player ShimContentResolver.configure Memory | CVE-2016-4152 | None | $2,000 | 2 |
+| 1372 | [3749204](../reports/3749204.md) | CVE-2026-9080: UAF after pause in socket callback | CVE-2026-9080 | Low | — | 2 |
+| 1373 | [151040](../reports/151040.md) | Adobe Flash Player ShimAdPolicySelector(adPolicySelecto | CVE-2016-4188 | None | $2,000 | 2 |
+| 1374 | [104465](../reports/104465.md) | git-fastclone allows arbitrary command execution throug | CVE-2015-8968, CVE-2015-7545 | None | — | 2 |
+| 1375 | [3023605](../reports/3023605.md) | [CVE-2025-27220] ReDoS in CGI::Util#escapeElement | CVE-2025-27220 | High — CVSS 7.5 | — | 2 |
+| 1376 | [248609](../reports/248609.md) | PHP OpenSSL zif_openssl_seal() heap overflow (wild memc | CVE-2017-11144 | Medium — CVSS 5.9 | $500 | 2 |
+| 1377 | [248601](../reports/248601.md) | PHP INI Parsing Stack Buffer Overflow Vulnerability | CVE-2017-11628 | Medium — CVSS 6.8 | $500 | 2 |
+| 1378 | [1406953](../reports/1406953.md) | Message ID Enumeration with Action Link Handler | CVE-2022-32218 | Medium — CVSS 4.3 | — | 2 |
+| 1379 | [1103212](../reports/1103212.md) | Found multiple SAP NetWeaver vulnerable services | CVE-2020-6286, CVE-2020-6287 | High | — | 2 |
+| 1380 | [3677576](../reports/3677576.md) | Missing access control when modifying parent entities v | CVE-2026-44957 | Medium — CVSS 4.3 | — | 2 |
+| 1381 | [47012](../reports/47012.md) | Adobe Flash Player Out-of-Bound Access Vulnerability | CVE-2013-0634, CVE-2014-0559, CVE-2015-0330 | None | $2,000 | 2 |
+| 1382 | [3783438](../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loo | CVE-2026-11352 | Low | — | 2 |
+| 1383 | [145265](../reports/145265.md) | Adobe Flash Player ShimContentFactory class Memory Corr | CVE-2016-4150 | None | $2,000 | 2 |
+| 1384 | [293126](../reports/293126.md) | Multiple issues in Libxml2 (2.9.2 - 2.9.5) | CVE-2016-1835, CVE-2016-1836, CVE-2016-1837, CVE-2016-7115, CVE-2015-7115, CVE-2016-7116, CVE-2015-7116, CVE-2016-1762, CVE-2016-4447, CVE-2017-16931, CVE-2017-16932 | Medium — CVSS 5.4 | — | 2 |
+| 1385 | [36264](../reports/36264.md) | mod_proxy_fcgi buffer overflow | CVE-2014-3583 | None | — | 2 |
+| 1386 | [28450](../reports/28450.md) | Active Record SQL Injection Vulnerability Affecting Pos | CVE-2014-3483 | None | — | 2 |
+| 1387 | [104018](../reports/104018.md) | Multiple Use After Free Vulnerabilites in unserialize() | CVE-2015-6831 | None | — | 2 |
+| 1388 | [2012125](../reports/2012125.md) | [CVE-2022-44572] Possible Denial of Service Vulnerabili | CVE-2022-44572 | Low | $480 | 2 |
+| 1389 | [73234](../reports/73234.md) | out of bounds read crashes php-cgi | CVE-2014-9427 | None | — | 2 |
+| 1390 | [283644](../reports/283644.md) | Out-Of-Bounds Read in timelib_meridian() | CVE-2017-16642, CVE-2017-11145 | Medium — CVSS 5.3 | $500 | 2 |
+| 1391 | [138518](../reports/138518.md) | Adobe Flash Player OpportunityGenerator class Memory Co | CVE-2016-1100 | None | $2,000 | 2 |
+| 1392 | [268803](../reports/268803.md) | CVE-2017-12985: The IPv6 parser in tcpdump before 4.9.2 | CVE-2017-12985 | High — CVSS 7.3 | — | 2 |
+| 1393 | [778834](../reports/778834.md) | OOB read in php_strip_tags_ex | CVE-2020-7059 | Medium — CVSS 6.5 | $500 | 2 |
+| 1394 | [3760016](../reports/3760016.md) | Node.js WebCrypto AES Integer Overflow Leads to Remote  | CVE-2026-48933 | High — CVSS 7.5 | — | 2 |
+| 1395 | [103995](../reports/103995.md) | Use After Free Vulnerability in unserialize() with SplD | CVE-2015-6834 | None | — | 2 |
+| 1396 | [199436](../reports/199436.md) | Yelp.com is vulnerable to SWEET32 attack | CVE-2016-2183 | None | — | 2 |
+| 1397 | [103998](../reports/103998.md) | Use After Free Vulnerability in session deserializer | CVE-2015-6835 | None | — | 2 |
+| 1398 | [199445](../reports/199445.md) | Nextcloud.com is vulnerable to SWEET32 attack | CVE-2016-2183 | None | — | 2 |
+| 1399 | [1950627](../reports/1950627.md) | CVE-2023-28321: IDN wildcard match | CVE-2023-28321 | Low | — | 2 |
+| 1400 | [113288](../reports/113288.md) | OpenSSL Key Recovery Attack on DH small subgroups (CVE- | CVE-2016-0701 | None | $2,500 | 2 |
+| 1401 | [111752](../reports/111752.md) | Big Bug in SSL : breach compression attack (CVE-2013-35 | CVE-2013-3587 | None | — | 2 |
+| 1402 | [477897](../reports/477897.md) | buffer overread in base64 code of the xmlrpc module | CVE-2019-9024 | Medium | $500 | 2 |
+| 1403 | [3678828](../reports/3678828.md) | Banner status override by advertiser‑level users | CVE-2026-44958 | Medium — CVSS 4.3 | — | 2 |
+| 1404 | [1884159](../reports/1884159.md) | node.js process aborts when processing x509 certs with  | CVE-2023-30588 | Medium — CVSS 5.3 | — | 2 |
+| 1405 | [310446](../reports/310446.md) | Prototype pollution attack (deap) | CVE-2018-3749 | Low — CVSS 2.0 | — | 2 |
+| 1406 | [680415](../reports/680415.md) | mod_http2, read-after-free in h2 connection shutdown (C | CVE-2019-10082 | Medium | — | 2 |
+| 1407 | [3721183](../reports/3721183.md) | CVE-2026-8458: wrong reuse for different services | CVE-2026-8458, CVE-2026-5545 | Low | — | 1 |
+| 1408 | [3735184](../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | CVE-2026-8926 | Low | — | 1 |
+| 1409 | [1377105](../reports/1377105.md) | Message ID Enumeration with Regular Expression in getRe | CVE-2022-32228 | Medium — CVSS 4.3 | — | 1 |
+| 1410 | [966347](../reports/966347.md) | [bl] Uninitialized memory exposure via negative .consum | CVE-2020-8244 | High — CVSS 7.7 | — | 1 |
+| 1411 | [145269](../reports/145269.md) | Adobe Flash Player ShimOpportunityGenerator class Memor | CVE-2016-4153 | None | $2,000 | 1 |
+| 1412 | [311336](../reports/311336.md) | Prototype pollution attack (merge-options) | CVE-2018-3752 | Low — CVSS 2.6 | — | 1 |
+| 1413 | [3676863](../reports/3676863.md) | Unbounded memory growth in `node:http2` clients via att | CVE-2026-48619 | Medium — CVSS 5.3 | — | 1 |
+| 1414 | [112687](../reports/112687.md) | grtp.co is vulnerable to http-vuln-cve2011-3192 | CVE-2011-3192 | None | — | 1 |
+| 1415 | [138181](../reports/138181.md) | Bleichenbacher oracle in SSLv2 (CVE-2016-0704) | CVE-2016-0704 | None | — | 1 |
+| 1416 | [119652](../reports/119652.md) | Adobe Flash Player ASnative(101,10) Memory Corruption V | CVE-2016-0981 | None | $5,000 | 1 |
+| 1417 | [47234](../reports/47234.md) | Use After Free in Flash MessageChannel.send can cause a | CVE-2015-0320 | None | — | 1 |
+| 1418 | [972936](../reports/972936.md) | A specially crafted value for the 'Cache-Digest' header | CVE-2020-9490 | Critical | — | 1 |
+| 1419 | [1081406](../reports/1081406.md) | Open redirect in ck.php and lg.php | CVE-2021-22873 | Medium — CVSS 5.4 | — | 1 |
+| 1420 | [1186985](../reports/1186985.md) | Possibility of DoS attack at https://sifchain.finance// | CVE-2018-6389 | None | — | 1 |
+| 1421 | [311337](../reports/311337.md) | Prototype pollution attack (merge-recursive) | CVE-2018-3751 | Low — CVSS 2.0 | — | 1 |
+| 1422 | [390847](../reports/390847.md) | Prototype Pollution Vulnerability in cached-path-relati | CVE-2018-16472 | High — CVSS 7.6 | — | 1 |
+| 1423 | [119808](../reports/119808.md) | DROWN Attack | CVE-2016-0800 | None | — | 1 |
+| 1424 | [151039](../reports/151039.md) | Adobe Flash Player TimedEvent.parent Memory Corruption  | CVE-2016-4182 | None | $5,000 | 1 |
+| 1425 | [1415825](../reports/1415825.md) | [CVE-2020-3452] Unauthenticated file read in Cisco ASA | CVE-2020-3452 | Critical | — | 1 |
+| 1426 | [73240](../reports/73240.md) | Integer overflow in ftp_genlist() resulting in heap ove | CVE-2015-4022 | None | — | 1 |
+| 1427 | [110655](../reports/110655.md) | Information Exposure Through Directory Listing | CVE-2016-1499 | None | — | 1 |
+| 1428 | [3649802](../reports/3649802.md) | TLS host identity verification bypass via session reuse | CVE-2026-48934 | Medium — CVSS 4.3 | — | 1 |
+| 1429 | [318594](../reports/318594.md) | SSLv3 Poodle Attack on Ip Of semrush | CVE-2014-3566 | Low | — | 1 |
+| 1430 | [916430](../reports/916430.md) | [json-bigint] DoS via `__proto__` assignment | CVE-2020-8237 | High — CVSS 7.5 | — | 1 |
+| 1431 | [119653](../reports/119653.md) | Adobe Flash Player ASnative(900,1).call(MovieClip) Use- | CVE-2016-0982 | None | $2,000 | 1 |
+| 1432 | [623588](../reports/623588.md) | Uninitialized read in gdImageCreateFromXbm | CVE-2019-11038 | Medium — CVSS 5.3 | — | 1 |
+| 1433 | [1455266](../reports/1455266.md) | Arbitrary File Deletion (CVE-2020-3187) on ████████ | CVE-2020-3187 | High | — | 1 |
+| 1434 | [310706](../reports/310706.md) | Prototype pollution attack (merge-objects) | CVE-2018-3753 | Medium — CVSS 4.2 | — | 1 |
+| 1435 | [47232](../reports/47232.md) | Use after free during the StageVideoAvailabilityEvent c | CVE-2015-0315 | None | — | 1 |
+| 1436 | [952771](../reports/952771.md) | CVE-2019-11250 remains in effect. | CVE-2020-8565, CVE-2019-11250 | Medium — CVSS 4.3 | — | 1 |
+| 1437 | [73239](../reports/73239.md) | ZIP Integer Overflow leads to writing past heap boundar | CVE-2015-2331 | None | $1,500 | 1 |
+| 1438 | [66724](../reports/66724.md) | type confusion in Sass::ParserState::ParserState(Sass:: | CVE-2015-4459 | None | — | 1 |
+| 1439 | [516237](../reports/516237.md) | Uninitialized read in exif_process_IFD_in_MAKERNOTE | CVE-2019-9638 | High — CVSS 7.5 | — | 1 |
+| 1440 | [122256](../reports/122256.md) | Adobe Flash Player  Uninitialised Memory Corruption | CVE-2016-0992 | None | — | 1 |
+| 1441 | [165154](../reports/165154.md) | Additional information for CVE-2016-5699 | CVE-2016-5699 | None | — | 1 |
+| 1442 | [28445](../reports/28445.md) | SPL ArrayObject/SPLObjectStorage Unserialization Type C | CVE-2014-3515 | None | — | 1 |
+| 1443 | [320222](../reports/320222.md) | memory corruption while parsing HTTP response | CVE-2018-7584 | Medium | $500 | 1 |
+| 1444 | [122254](../reports/122254.md) | Adobe Flash Player TextField Use-After-Free Vulnerabili | CVE-2016-0990 | None | $2,000 | 1 |
+| 1445 | [87505](../reports/87505.md) | Full Path Disclosure  | CVE-2016-1501 | None | — | 1 |
+| 1446 | [12297](../reports/12297.md) | Python vulnerability: reading arbitrary process memory | CVE-2014-4616 | None | — | 1 |
+| 1447 | [73238](../reports/73238.md) | Buffer Over-read in unserialize when parsing Phar | CVE-2015-2783 | None | $1,000 | 1 |
+| 1448 | [3793243](../reports/3793243.md) | Reflected XSS in stats‑video.php via improperly encoded | CVE-2026-50745 | Medium — CVSS 4.7 | — | 1 |
+| 1449 | [1188643](../reports/1188643.md) | Vulnerable javascript dependency at Main domain | CVE-2019-8331, CVE-2018-14041, CVE-2018-14040, CVE-2018-14042 | Low | — | 1 |
+| 1450 | [73237](../reports/73237.md) | Buffer Over flow when parsing tar/zip/phar in phar_set_ | CVE-2015-3329 | None | $1,000 | 1 |
+| 1451 | [3718195](../reports/3718195.md) | CVE-2026-8286: wrong STARTTLS connection reuse | CVE-2026-8286, CVE-2022-27782 | Low | — | 1 |
+| 1452 | [3744543](../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state le | CVE-2026-8927, CVE-2026-7168 | Medium | — | 1 |
+| 1453 | [135944](../reports/135944.md) | EVP_EncodeUpdate overflow (CVE-2016-2105) | CVE-2016-2105 | None | — | 1 |
+| 1454 | [89097](../reports/89097.md) | owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability +  | CVE-2015-5477 | None | — | 1 |
+| 1455 | [1394399](../reports/1394399.md) | Unintended information disclosure in the Hubot Log file | CVE-2022-32217 | Medium | — | 1 |
+| 1456 | [118855](../reports/118855.md) | CVE-2016-0799 memory issues in BIO_*printf functions | CVE-2016-0799 | None | — | 1 |
+| 1457 | [3733910](../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn  | CVE-2026-8932, CVE-2022-27782 | Low | — | 1 |
+| 1458 | [73241](../reports/73241.md) | Malformed ECParameters causes infinite loop | CVE-2015-1788 | None | — | 1 |
+| 1459 | [3656869](../reports/3656869.md) | Uppercase sni context matching can lead to mtls authori | CVE-2026-48928 | Medium — CVSS 4.2 | — | 1 |
+| 1460 | [135946](../reports/135946.md) | EBCDIC overread (CVE-2016-2176) | CVE-2016-2176 | None | — | 1 |
+| 1461 | [17688](../reports/17688.md) | LZ4 Core | CVE-2014-4611 | None | — | 1 |
+| 1462 | [3735193](../reports/3735193.md) | CVE-2026-8925: SASL double-free | CVE-2026-8925 | Medium | — | 1 |
+| 1463 | [3752888](../reports/3752888.md) | CVE-2026-9545: exposing HTTP/3 early data | CVE-2026-9545 | Low | — | 1 |
+| 1464 | [119655](../reports/119655.md) | Adobe Flash Player ASnative(900,1).call(TextField) Use- | CVE-2016-0983 | None | $2,000 | 1 |
+| 1465 | [3625987](../reports/3625987.md) | Permission Model bypass via FileHandle.utimes() in the  | CVE-2026-48935 | Low — CVSS 3.3 | — | 1 |
+| 1466 | [3751712](../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | CVE-2026-9547 | None | — | 1 |
+| 1467 | [119873](../reports/119873.md) | BN_hex2bn/BN_dec2bn NULL pointer deref/heap corruption  | CVE-2016-0797 | None | — | 1 |
+| 1468 | [3656716](../reports/3656716.md) | Embedded-nul hostnames can lead to silent authority reb | CVE-2026-48930 | Medium — CVSS 5.6 | — | 1 |
+| 1469 | [2021684](../reports/2021684.md) | Issuer not verified from obtained token in user_oidc  | CVE-2023-39953 | Medium — CVSS 4.8 | $250 | 1 |
+| 1470 | [3793260](../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | CVE-2026-11856 | Medium | — | 1 |
+| 1471 | [139879](../reports/139879.md) | Adobe Flash Player Regular Expression UAF Remote Code E | CVE-2016-4121 | None | $5,000 | 1 |
+| 1472 | [988550](../reports/988550.md) | Sensitive data exposure via https://████████.mil/secure | CVE-2020-14179 | Medium | — | 1 |
+| 1473 | [805013](../reports/805013.md) | DirectoryIterator class silently truncates after a null | CVE-2019-11045 | Medium | — | 1 |
+| 1474 | [3618831](../reports/3618831.md) | Unix domain socket server bypasses --permission network | CVE-2026-48936 | Low — CVSS 3.3 | — | 1 |
+| 1475 | [816637](../reports/816637.md) | CVE-2020-10938-buffer overflow/out-of-bounds write in c | CVE-2020-10938 | Critical — CVSS 9.8 | — | 1 |
+| 1476 | [146936](../reports/146936.md) | CVE-2015-8874 Stack overflow with imagefilltoborder | CVE-2015-8874 | None | $500 | 1 |
+| 1477 | [167510](../reports/167510.md) | CVE-2016-5157 OpenJPEG opj_dwt_interleave_v Out-of-Boun | CVE-2016-5157 | None | — | 1 |
+| 1478 | [104014](../reports/104014.md) | libcurl duphandle read out of bounds | CVE-2014-3707 | None | $1,000 | 0 |
+| 1479 | [104027](../reports/104027.md) | Memory Corruption in phar_parse_tarfile when entry file | CVE-2015-4021 | None | $500 | 0 |
+| 1480 | [103990](../reports/103990.md) | Null pointer dereference in phar_get_fp_offset() | CVE-2015-7803 | None | $500 | 0 |
+| 1481 | [104012](../reports/104012.md) | Integer overflow in unserialize() (32-bits only) | CVE-2014-3669 | None | $500 | 0 |
+| 1482 | [510336](../reports/510336.md) | Uninitialized read in exif_process_IFD_in_TIFF | CVE-2019-9641 | Critical — CVSS 9.8 | — | 0 |
+| 1483 | [3733905](../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | CVE-2026-8924 | Low | — | 0 |
+| 1484 | [104010](../reports/104010.md) | SOAP serialize_function_call() type confusion / RCE | CVE-2015-6836 | None | — | 0 |
+| 1485 | [104017](../reports/104017.md) | Arbitrary code execution in str_ireplace function | CVE-2015-6527 | None | — | 0 |
+| 1486 | [777274](../reports/777274.md) | DoS of https://blog.makerdao.com/ via CVE-2018-6389 | CVE-2018-6389 | None | — | 0 |
+| 1487 | [254895](../reports/254895.md) | SSL BREACH attack (CVE-2013-3587) | CVE-2013-3587 | Low | — | 0 |
+| 1488 | [950299](../reports/950299.md) | Use after free vulnerability  in phar_parse_zipfile | CVE-2020-7068 | Medium | — | 0 |
+| 1489 | [104028](../reports/104028.md) | Improved fix for bug #69545 (Integer overflow in ftp_ge | CVE-2015-4643 | None | — | 0 |
+| 1490 | [24984](../reports/24984.md) | openssh-server Forced Command Handling Information Disc | CVE-2012-0814 | None | — | 0 |
+| 1491 | [104026](../reports/104026.md) | invalid pointer free() in phar_tar_process_metadata() | CVE-2015-3307 | None | $500 | 0 |
+| 1492 | [116774](../reports/116774.md) | UDP port 5060 (SIP) Open | CVE-2011-3280 | None | — | 0 |
+| 1493 | [315037](../reports/315037.md) | Media parsing in canvas is at least vulnerable to Denia | CVE-2020-8215 | Medium | — | 0 |
+| 1494 | [3766065](../reports/3766065.md) | CURLOPT_COOKIE leaked to cross-origin redirect target — | CVE-2022-27774 | Medium | — | 0 |
+| 1495 | [104008](../reports/104008.md) | Uninitialized pointer in phar_make_dirstream | CVE-2015-7804 | None | $1,000 | 0 |
+| 1496 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL aga | CVE-2019-14553 | None | — | 0 |
+| 1497 | [103993](../reports/103993.md) | Request Hijacking Vulnerability In RubyGems 2.4.6 And E | CVE-2015-3900 | None | — | 0 |
+| 1498 | [104011](../reports/104011.md) | AddressSanitizer reports a global buffer overflow in mk | CVE-2014-3668 | None | $500 | 0 |
+| 1499 | [104019](../reports/104019.md) | Files extracted from archive may be placed outside of d | CVE-2015-6833 | None | — | 0 |
+| 1500 | [104013](../reports/104013.md) | heap buffer overflow in enchant_broker_request_dict() | CVE-2014-9705 | None | $500 | 0 |
+| 1501 | [104016](../reports/104016.md) | Dangling pointer in the unserialization of ArrayObject  | CVE-2015-6832 | None | $1,000 | 0 |
+| 1502 | [872089](../reports/872089.md) | Curl_auth_create_plain_message integer overflow leads t | CVE-2018-16839 | Low — CVSS 2.8 | — | 0 |

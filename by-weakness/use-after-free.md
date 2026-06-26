@@ -1,4 +1,4 @@
-# Weakness: Use After Free (46 reports)
+# Weakness: Use After Free (47 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -41,12 +41,13 @@
 | 35 | [511317](../reports/511317.md) | Potential use-after-free due to struct array_entry_t lacking an e | [Monero](../by-program/monero.md) | Low | — | 9 |
 | 36 | [3774279](../reports/3774279.md) | heap-use-after-free in state.referer when CURLOPT_REFERER replace | [curl](../by-program/curl.md) | Low | — | 3 |
 | 37 | [3754343](../reports/3754343.md) | CVE-2026-9546: sending old referer | [curl](../by-program/curl.md) | Low | — | 2 |
-| 38 | [1463013](../reports/1463013.md) | Occasional use-after-free in multi_done() libcurl-7.81.0 | [curl](../by-program/curl.md) | Low | — | 1 |
-| 39 | [3022041](../reports/3022041.md) | Use after free (read) in curl_multi_perform with DoH and Proxy op | [curl](../by-program/curl.md) | None | — | 26 |
-| 40 | [3516202](../reports/3516202.md) | Cookie Replacement Use-After-Free Vulnerability | [curl](../by-program/curl.md) | None | — | 21 |
-| 41 | [3580247](../reports/3580247.md) | Use after free in hyperfifo example | [curl](../by-program/curl.md) | None | — | 19 |
-| 42 | [3508701](../reports/3508701.md) | Use-After-Free in curl_easy_nextheader when reusing header handle | [curl](../by-program/curl.md) | None | — | 8 |
-| 43 | [3037326](../reports/3037326.md) | Free of uninitialized pointer in doh_decode_rdata_name() | [curl](../by-program/curl.md) | None | — | 8 |
-| 44 | [3733934](../reports/3733934.md) | CURLOPT_HSTS_CTRL disables shared HSTS without share guard — use- | [curl](../by-program/curl.md) | None | — | 5 |
-| 45 | [295276](../reports/295276.md) | heap-use-after-free in OP_RESCUE | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 4 |
-| 46 | [3751701](../reports/3751701.md) | Use-after-free in `curl_easy_duphandle()` with HTTP/2 stream-depe | [curl](../by-program/curl.md) | None | — | 3 |
+| 38 | [3749204](../reports/3749204.md) | CVE-2026-9080: UAF after pause in socket callback | [curl](../by-program/curl.md) | Low | — | 2 |
+| 39 | [1463013](../reports/1463013.md) | Occasional use-after-free in multi_done() libcurl-7.81.0 | [curl](../by-program/curl.md) | Low | — | 1 |
+| 40 | [3022041](../reports/3022041.md) | Use after free (read) in curl_multi_perform with DoH and Proxy op | [curl](../by-program/curl.md) | None | — | 26 |
+| 41 | [3516202](../reports/3516202.md) | Cookie Replacement Use-After-Free Vulnerability | [curl](../by-program/curl.md) | None | — | 21 |
+| 42 | [3580247](../reports/3580247.md) | Use after free in hyperfifo example | [curl](../by-program/curl.md) | None | — | 19 |
+| 43 | [3508701](../reports/3508701.md) | Use-After-Free in curl_easy_nextheader when reusing header handle | [curl](../by-program/curl.md) | None | — | 8 |
+| 44 | [3037326](../reports/3037326.md) | Free of uninitialized pointer in doh_decode_rdata_name() | [curl](../by-program/curl.md) | None | — | 8 |
+| 45 | [3733934](../reports/3733934.md) | CURLOPT_HSTS_CTRL disables shared HSTS without share guard — use- | [curl](../by-program/curl.md) | None | — | 5 |
+| 46 | [295276](../reports/295276.md) | heap-use-after-free in OP_RESCUE | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 4 |
+| 47 | [3751701](../reports/3751701.md) | Use-after-free in `curl_easy_duphandle()` with HTTP/2 stream-depe | [curl](../by-program/curl.md) | None | — | 3 |

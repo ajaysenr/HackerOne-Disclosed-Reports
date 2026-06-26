@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1673 total)
+# High/Critical Severity — No Bounty Paid (1678 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -1047,6 +1047,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [674195](../reports/674195.md) | Stealing data from customers.gitlab.com without user interaction | [GitLab](../by-program/gitlab.md) | High — CVSS 8.1 | Resolved | 24 |
 | [1066203](../reports/1066203.md) | GRAPHQL cross-tenant IDOR giving write access thought the operati | [Stripe](../by-program/stripe.md) | High | Resolved | 24 |
 | [865115](../reports/865115.md) | unpermitted user can change the device name of admin account | [Helium](../by-program/helium.md) | High | Resolved | 23 |
+| [1653676](../reports/1653676.md) | [MK8DX] Improper verification of Competition creation allows to c | [Nintendo](../by-program/nintendo.md) | High — CVSS 7.2 | Resolved | 23 |
 | [1632104](../reports/1632104.md) | Sensitive information disclosure [HtUS] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High — CVSS 8.1 | Resolved | 23 |
 | [592803](../reports/592803.md) | Gaining unlimited bonus points on websites with WooCommerce Point | [Automattic](../by-program/automattic.md) | High — CVSS 7.5 | Resolved | 23 |
 | [2237545](../reports/2237545.md) | Code injection and privilege escalation through Linux capabilitie | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | Resolved | 23 |
@@ -1559,6 +1560,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1262757](../reports/1262757.md) | SQL injection located in `███` in POST param `████████`  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 4 |
 | [278225](../reports/278225.md) | If the developer forgets to remove the built in controller welcom | [CodeIgniter](../by-program/codeigniter.md) | High — CVSS 8.4 | Not Applicable | 4 |
 | [703415](../reports/703415.md) | [treekill] RCE via insecure command concatenation (only Windows) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.3 | Resolved | 4 |
+| [3780854](../reports/3780854.md) | PHP code injection in delivery-limitation `logical` validation by | [Revive Adserver](../by-program/revive_adserver.md) | High — CVSS 8.8 | Resolved | 4 |
 | [2104564](../reports/2104564.md) | (CVE-2023-32004) Permission model bypass by specifying a path tra | [Internet Bug Bounty](../by-program/ibb.md) | High | Resolved | 4 |
 | [1422227](../reports/1422227.md) | Fraudulent claim of business. | [Yelp](../by-program/yelp.md) | High — CVSS 7.5 | Not Applicable | 4 |
 | [1566462](../reports/1566462.md) | error parse uri path in curl | [curl](../by-program/curl.md) | High | Not Applicable | 4 |
@@ -1598,6 +1600,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1047086](../reports/1047086.md) | Heap buffer overflow vulnerability while processing a malformed T | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.6 | Resolved | 3 |
 | [221251](../reports/221251.md) | heap-buffer-overflow (read outside of buffer) in mrb_vm_exec() | [shopify-scripts](../by-program/shopify-scripts.md) | High | Resolved | 3 |
 | [677557](../reports/677557.md) | mod_http2, memory corruption on early pushes (CVE-2019-10081) | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.6 | Resolved | 3 |
+| [3781492](../reports/3781492.md) | PHP code injection in delivery-limitation `logical` validation by | [Revive Adserver](../by-program/revive_adserver.md) | High — CVSS 8.8 | Resolved | 3 |
 | [219870](../reports/219870.md) | mirb only: stack-buffer-overflow (OOB write) in main() | [shopify-scripts](../by-program/shopify-scripts.md) | High | Resolved | 3 |
 | [227762](../reports/227762.md) | Heap Overflow in fiber_switch triggered from Fiber.transfer | [shopify-scripts](../by-program/shopify-scripts.md) | High | Resolved | 3 |
 | [832217](../reports/832217.md) | Android App Crashes while sending message to users/ on channel  | [Rocket.Chat](../by-program/rocket_chat.md) | High | Informative | 3 |
@@ -1618,6 +1621,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [195842](../reports/195842.md) | Segmentation fault - mrb_gc_mark | [shopify-scripts](../by-program/shopify-scripts.md) | High | Resolved | 3 |
 | [826238](../reports/826238.md) | load scripts DOS vulnerability | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | High | Duplicate | 3 |
 | [179121](../reports/179121.md) | Information disclosure of website | [Brave Software](../by-program/brave.md) | High | Informative | 3 |
+| [3688064](../reports/3688064.md) | Node.js unicode dot separator handling can lead to tls wildcard-d | [Node.js](../by-program/nodejs.md) | High — CVSS 7.7 | Resolved | 3 |
 | [140793](../reports/140793.md) | UniFi Video v3.2.2 (Windows) Local Privileges Escalation due to w | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 7.8 | Resolved | 3 |
 | [341074](../reports/341074.md) | Bruteforce in admin panel | [Nextcloud](../by-program/nextcloud.md) | High | Resolved | 3 |
 | [320586](../reports/320586.md) | `foreman` is vulnerable to ReDoS in path | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | Resolved | 3 |
@@ -1654,6 +1658,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [2097517](../reports/2097517.md) | Waketime Payment Gateway Vulnerability | [WakaTime](../by-program/wakatime.md) | High — CVSS 7.5 | Spam | 2 |
 | [579523](../reports/579523.md) | [http_server] Path Traversal allowing to read any files on the se | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | Resolved | 2 |
 | [268803](../reports/268803.md) | CVE-2017-12985: The IPv6 parser in tcpdump before 4.9.2 has a buf | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | Resolved | 2 |
+| [3760016](../reports/3760016.md) | Node.js WebCrypto AES Integer Overflow Leads to Remote Process Ab | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | Resolved | 2 |
 | [966347](../reports/966347.md) | [bl] Uninitialized memory exposure via negative .consume() | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.7 | Resolved | 1 |
 | [507310](../reports/507310.md) | [deliver-or-else] Path Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | Resolved | 1 |
 | [303480](../reports/303480.md) | Reflected XSS in admin settings | [Deconf](../by-program/deconf_com.md) | High | Not Applicable | 1 |

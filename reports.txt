@@ -9413,6 +9413,7 @@ https://hackerone.com/reports/3578842 | SQL Injection vulnerability found on ibm
 https://hackerone.com/reports/3580247 | Use after free in hyperfifo example
 https://hackerone.com/reports/3580511 | ActiveStorage Disk Service Path Traversal via Custom Blob Key Injection
 https://hackerone.com/reports/3581815 | Open Redirect on lovable.dev via redirect parameter leads to phishing attacks
+https://hackerone.com/reports/3582376 | HTTP Response Queue Poisoning via TOCTOU Race Condition in `http.Agent`
 https://hackerone.com/reports/3583983 | CVE-2026-3783: token leak with redirect and netrc
 https://hackerone.com/reports/3584149 | SSTI leads to Command injection
 https://hackerone.com/reports/3584491 | LM Challenge-Response Hash Always Sent in SMB Authentication
@@ -9446,6 +9447,7 @@ https://hackerone.com/reports/3611825 | Bearer Token Leaked to Attacker via .net
 https://hackerone.com/reports/3611837 | Unauthenticated file deletion via deleteFileMessage DDP method allows permanent destruction of any uploaded file
 https://hackerone.com/reports/3612891 | Exposed .git/config File Leading to Potential Sensitive Information Disclosure
 https://hackerone.com/reports/3617719 | Function `do_pubkey()` can have out-of-bound read issue
+https://hackerone.com/reports/3618831 | Unix domain socket server bypasses --permission network restrictions (incomplete CVE-2026-21636 fix)
 https://hackerone.com/reports/3619287 | RCE + Supply Chain Attack via pull_request_target in content-scope-scripts/semver-label.yml — Affects All DuckDuckGo Browsers
 https://hackerone.com/reports/3619288 | RCE + PAT Exfiltration via pull_request_target in privacy-configuration/auto-respond-pr.yml — Direct Supply Chain to All DDG Browsers
 https://hackerone.com/reports/3620748 | V1Plugin.Decrypt panics on empty ciphertext (Remote DoS)
@@ -9456,6 +9458,7 @@ https://hackerone.com/reports/3621851 | CVE-2026-4873: connection reuse ignores 
 https://hackerone.com/reports/3623064 | HTTP/1.1 Response Desynchronization via conflicting CL/TE headers in Proxy CONNECT
 https://hackerone.com/reports/3625210 | PIN bypass in PassCodeActivity via back button
 https://hackerone.com/reports/3625600 | Out of scope: Improper Input Validation Order on /api-internal/login via password field leads to unnecessary resource consumption
+https://hackerone.com/reports/3625987 | Permission Model bypass via FileHandle.utimes() in the promises API
 https://hackerone.com/reports/3627638 | Security Vulnerability Report: Protocol Injection via Programmatic Options
 https://hackerone.com/reports/3630310 | HTTP/2 server push accepts a non-authoritative :scheme=https over cleartext h2c, enabling HTTPS cache-key poisoning
 https://hackerone.com/reports/3632427 | Unbounded GZIP Decompression Leading to Event-Loop Starvation
@@ -9475,6 +9478,7 @@ https://hackerone.com/reports/3645415 | # SCURLOPT_SSH_KNOWNHOSTS and host finge
 https://hackerone.com/reports/3646072 | Negotiate connection reuse with wrong credentials when using CURLAUTH_ANY
 https://hackerone.com/reports/3646914 | ignoring 'options' when doing connection reuse
 https://hackerone.com/reports/3648199 | Internal application wrapper or script using curl
+https://hackerone.com/reports/3649802 | TLS host identity verification bypass via session reuse with different servername leads to unauthorized connections
 https://hackerone.com/reports/3650435 | Improper enforcement of CURLOPT_SOCKS5_AUTH due to missing reuse key validation in libcurl
 https://hackerone.com/reports/3650443 | no_proxy IDN mismatch: Unicode hostnames bypass proxy exclusion list
 https://hackerone.com/reports/3650473 | FTP entrypath accepts 0xFF (Telnet IAC) through incomplete ISCNTRL filter, sent on wire via CWD on connection reuse
@@ -9484,7 +9488,9 @@ https://hackerone.com/reports/3650689 | CVE-2026-5773: wrong reuse of SMB connec
 https://hackerone.com/reports/3651975 | SMTP Command Injection via CRLF in libcurl MAIL_FROM / MAIL_RCPT (lib/smtp.c)
 https://hackerone.com/reports/3653196 | Blind SQL injection via clientid parameter in zone‑include.php
 https://hackerone.com/reports/3653316 | Reflected XSS via clientid parameter in zone‑include.php
+https://hackerone.com/reports/3656716 | Embedded-nul hostnames can lead to silent authority rebinding due to c-string truncation in resolver bindings
 https://hackerone.com/reports/3656781 | PHP code injection via delivery limitation logical
+https://hackerone.com/reports/3656869 | Uppercase sni context matching can lead to mtls authorization bypass due to case-sensitive hostname matching
 https://hackerone.com/reports/3658049 | libcurl: Integer truncation in curl_easy_ssls_import() causes TLS sessions to never expire
 https://hackerone.com/reports/3658225 | HTTP/2 sessions never clean up after GOAWAY on invalid protocol errors
 https://hackerone.com/reports/3664261 | Reflected Cross-Site Scripting (XSS) found on IBM.com domain
@@ -9500,6 +9506,7 @@ https://hackerone.com/reports/3672641 | Session ID reuse allowing XML‑RPC API 
 https://hackerone.com/reports/3673277 | libcurl stale CURLOPT_AUTOREFERER leaks a previous request URL to a different origin on a reused easy handle
 https://hackerone.com/reports/3674275 | lib/http2.c: SSL connections accept non-HTTP push schemes (incomplete fix for 2e8c922a)
 https://hackerone.com/reports/3676308 | POST /api/bitcoinWithdrawalFees returns financial data without authentication despite being documented as a USER OPERATION (private endpoint)
+https://hackerone.com/reports/3676863 | Unbounded memory growth in `node:http2` clients via attacker-controlled ORIGIN frames
 https://hackerone.com/reports/3677576 | Missing access control when modifying parent entities via XML‑RPC
 https://hackerone.com/reports/3677759 | CVE-2026-6429: netrc credential leak with reused proxy connection
 https://hackerone.com/reports/3678828 | Banner status override by advertiser‑level users
@@ -9512,6 +9519,7 @@ https://hackerone.com/reports/3682666 | Use-after-free in `curl_easy_ssls_export
 https://hackerone.com/reports/3684603 | Stack exhaustion in MIME multipart reading with deeply nested subparts
 https://hackerone.com/reports/3684614 | Heap-buffer-overflow in `Curl_ssl_push_certinfo_len()` — sole bounds check is `DEBUGASSERT`
 https://hackerone.com/reports/3687142 | Unauthenticated reading of every file via livechat auth and predicting MongoDB ObjectId()
+https://hackerone.com/reports/3688064 | Node.js unicode dot separator handling can lead to tls wildcard-depth authentication bypass due to resolver and verifier hostname normalization mismat
 https://hackerone.com/reports/3692858 | Permission Model Bypass via `process.report.writeReport()` Path Misvalidation
 https://hackerone.com/reports/3693295 | iOS Brave Playlist "Open in Private Tab" bypasses FaceID requirement for Private Tabs
 https://hackerone.com/reports/3694007 | Authenticated Elasticsearch Painless script execution via Query.search.sort_query on hackerone.com/graphql
@@ -9531,6 +9539,7 @@ https://hackerone.com/reports/3717365 | mbedTLS private-key blob null-terminatio
 https://hackerone.com/reports/3717552 | CURLOPT_PROXY_CRLFILE / CURLOPT_PROXY_ISSUERCERT / CURLOPT_PROXY_ISSUERCERT_BLOB silently ignored on backends that don't support them
 https://hackerone.com/reports/3718195 | CVE-2026-8286: wrong STARTTLS connection reuse
 https://hackerone.com/reports/3718265 | Shared HSTS cache accessed without lock
+https://hackerone.com/reports/3720313 | Proxy credentials leaked in ERR_PROXY_TUNNEL error message
 https://hackerone.com/reports/3721183 | CVE-2026-8458: wrong reuse for different services
 https://hackerone.com/reports/3721519 | Liberapay member team twitter account broken Link Hijacking via Expired Twitter Account Link
 https://hackerone.com/reports/3723002 | another liberapay member team twitter account broken Link Hijacking via Expired Twitter Account Link
@@ -9577,6 +9586,7 @@ https://hackerone.com/reports/3752567 | curl GnuTLS backend accepts a clientAuth
 https://hackerone.com/reports/3752888 | CVE-2026-9545: exposing HTTP/3 early data
 https://hackerone.com/reports/3754343 | CVE-2026-9546: sending old referer
 https://hackerone.com/reports/3756699 | lib/ldap.c follows attacker-controlled LDAP referrals and binds to a second server; WinLDAP builds leak current logon credentials (confirmed on Window
+https://hackerone.com/reports/3760016 | Node.js WebCrypto AES Integer Overflow Leads to Remote Process Abort (DoS)
 https://hackerone.com/reports/3761647 | TLS conn reuse and session cache ignore fsslctx callback and ssl_config_data flags ( incomplete fix variant of 7541ae569 )
 https://hackerone.com/reports/3761789 | Mentioned unites are at the same time .Then we have to increase the bounty.
 https://hackerone.com/reports/3766065 | CURLOPT_COOKIE leaked to cross-origin redirect target — CURLOPT_UNRESTRICTED_AUTH bypass for the STRING_COOKIE path
@@ -9591,10 +9601,17 @@ https://hackerone.com/reports/3775183 | Incomplete fix for CVE-2022-35406: meta-
 https://hackerone.com/reports/3776433 | TFTP upload ignores --continue-at / CURLOPT_RESUME_FROM and leaks skipped local file prefix
 https://hackerone.com/reports/3776535 | RTSP Digest auth state leaks across origins on reused libcurl easy handle
 https://hackerone.com/reports/3777381 | PRE_PROXY change leaks stale Proxy Digest state across proxy-chain boundary
+https://hackerone.com/reports/3780709 | Missing ownership validation allows cross‑manager tracker–campaign linking
 https://hackerone.com/reports/3780733 | DNS domain search list followed for extant domain missing A or AAAA records
+https://hackerone.com/reports/3780806 | Reflected XSS via unsanitised refresh parameter in zone invocation tag
+https://hackerone.com/reports/3780854 | PHP code injection in delivery-limitation `logical` validation bypass
 https://hackerone.com/reports/3781015 | Incomplete Fix for CVE-2026-21637: OCSPRequest and resumeSession Events Crash Node.js TLS Server via Unhandled Synchronous Exceptions
 https://hackerone.com/reports/3781305 | OpenSSL TLS 1.2 session resumption accepts expired server certificates in libcurl
+https://hackerone.com/reports/3781311 | Stored XSS in maintenance tools via unescaped entity names
+https://hackerone.com/reports/3781492 | PHP code injection in delivery-limitation `logical` validation bypass - XML-RPC setChannelTargeting
+https://hackerone.com/reports/3781691 | CSRF in zone‑include.php allows unauthorized banner and campaign linking
 https://hackerone.com/reports/3783438 | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop
+https://hackerone.com/reports/3783738 | XML‑RPC login leak exposes valid session ID enabling unauthorized API access
 https://hackerone.com/reports/3784125 | GnuTLS OCSP stapling accepts unrelated SingleResponse (no cert-ID binding)
 https://hackerone.com/reports/3785919 | libcurl: HTTP/1.x bare LF byte in response header value enables cookie jar pollution and POST body/credential exfiltration via redirect — RC=0, curl 8
 https://hackerone.com/reports/3786077 | SOCKS5 no-auth accepted despite username/password-only authentication
@@ -9603,6 +9620,7 @@ https://hackerone.com/reports/3788931 | CVE-2026-11586: WS Auto-PONG memory exha
 https://hackerone.com/reports/3788984 | CVE-2026-11564: Native CA trust persist
 https://hackerone.com/reports/3791168 | curl-ipv4-percent-normalization-SSRF
 https://hackerone.com/reports/3791191 | Trailing-Dot Hostname in Redirect Silently Strips Client Certificate and Auth Credentials
+https://hackerone.com/reports/3793243 | Reflected XSS in stats‑video.php via improperly encoded URL parameters
 https://hackerone.com/reports/3793260 | CVE-2026-11856: cross-origin Digest auth state leak
 https://hackerone.com/reports/3793495 | Incomplete Suppression of  Transfer-Encoding: chunked Header in HTTP/2 After Redirect From HTTP/1.1
 https://hackerone.com/reports/3795615 | Duplicate chunked Transfer-Encoding lets a malicious origin smuggle a response across reused HTTP proxy connections

@@ -1,4 +1,4 @@
-# Acronis — Disclosed Reports (112 total)
+# Acronis — Disclosed Reports (113 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -95,24 +95,25 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 89 | [1121771](../reports/1121771.md) | Information Disclosure via ZIP file on AWS Bucket [http://ac | Medium | — | 5 | [h4x0r_dz](https://hackerone.com/h4x0r_dz) | 2022-02-08 |
 | 90 | [859395](../reports/859395.md) | Reflected XSS on http://www.grouplogic.com/files/glidownload | Low | — | 84 | [ali](https://hackerone.com/ali) | 2021-04-13 |
 | 91 | [979204](../reports/979204.md) | XSS on https://partners.acronis.com/ | Low | — | 73 | [yash_](https://hackerone.com/yash_) | 2021-06-17 |
-| 92 | [1536899](../reports/1536899.md) | HTML Injection in E-mail | Low | — | 52 | [hacker1_agent](https://hackerone.com/hacker1_agent) | 2022-06-14 |
-| 93 | [1241149](../reports/1241149.md) | FULL SSRF  | Low | — | 37 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2022-02-22 |
-| 94 | [1382448](../reports/1382448.md) | %0A (New line) and limitness URL leads to DoS at all system  | Low | — | 36 | [plantos](https://hackerone.com/plantos) | 2022-01-04 |
-| 95 | [1145712](../reports/1145712.md) | Reflected XSS on www.acronis.com/de-de/my/subscriptions/inde | Low | — | 32 | [cabelo](https://hackerone.com/cabelo) | 2024-08-27 |
-| 96 | [1023572](../reports/1023572.md) | [acronis.secure.force.com] - Insecure Salesforce default/cus | Low | — | 31 | [amsda](https://hackerone.com/amsda) | 2021-08-17 |
-| 97 | [963384](../reports/963384.md) | mysql credentials exposed on - https://cz.acronis.com/docker | Low | — | 28 | [melar_dev](https://hackerone.com/melar_dev) | 2022-12-24 |
-| 98 | [961787](../reports/961787.md) | CSRF and XSS on www.acronis.com | Low | — | 25 | [cabelo](https://hackerone.com/cabelo) | 2024-08-26 |
-| 99 | [982442](../reports/982442.md) | XSS in https://promo.acronis.com/ | Low | — | 24 | [yash_](https://hackerone.com/yash_) | 2024-08-26 |
-| 100 | [971234](../reports/971234.md) | Clickjacking on cas.acronis.com login page | Low | — | 19 | [dgirlwhohacks](https://hackerone.com/dgirlwhohacks) | 2020-11-03 |
-| 101 | [953719](../reports/953719.md) | Subdomain Takeover – www.jet.acronis.com pointing to unclaim | Low | — | 19 | [sumgr0](https://hackerone.com/sumgr0) | 2021-06-18 |
-| 102 | [1063627](../reports/1063627.md) | HTTP Request Smuggling on https://consumer.acronis.com | Low | — | 16 | [riramar](https://hackerone.com/riramar) | 2021-11-16 |
-| 103 | [952166](../reports/952166.md) | Subdomain Takeover – jet.acronis.com pointing to unclaimed W | Low | — | 15 | [sumgr0](https://hackerone.com/sumgr0) | 2021-06-18 |
-| 104 | [1083532](../reports/1083532.md) | Acronis True Image 2020 Build 22510 Nonstop Backup Service U | Low | — | 15 | [sanderz31](https://hackerone.com/sanderz31) | 2024-08-27 |
-| 105 | [1063493](../reports/1063493.md) | HTTP Request Smuggling on https://promosandbox.acronis.com | Low | — | 12 | [riramar](https://hackerone.com/riramar) | 2021-11-16 |
-| 106 | [971610](../reports/971610.md) | Local Privilege Escalation via EXE hijacking with Acronis Tr | Low | — | 7 | [mmg](https://hackerone.com/mmg) | 2024-08-27 |
-| 107 | [1167034](../reports/1167034.md) | Reflected Cross Site Scripting at http://www.grouplogic.com/ | Low | — | 5 | [ub3rsick](https://hackerone.com/ub3rsick) | 2022-06-14 |
-| 108 | [1166918](../reports/1166918.md) | Reflected Cross Site Scripting at  ColdFusion Debugging Pane | Low | — | 4 | [ub3rsick](https://hackerone.com/ub3rsick) | 2022-06-14 |
-| 109 | [998555](../reports/998555.md) | Get ip and Geo location any user via Clickjacking with inspe | None | — | 10 | [abosala7](https://hackerone.com/abosala7) | 2020-10-15 |
-| 110 | [841630](../reports/841630.md) | Content Spoofing | None | — | 8 | [full109tun](https://hackerone.com/full109tun) | 2020-08-12 |
-| 111 | [1265344](../reports/1265344.md) | Self-DoS due to template injection via email field in passwo | None | — | 7 | [sudo_bash](https://hackerone.com/sudo_bash) | 2022-05-03 |
-| 112 | [798767](../reports/798767.md) | Accessing repository and other files  by directory listing | None | — | 2 | [vivek111](https://hackerone.com/vivek111) | 2020-02-26 |
+| 92 | [1655629](../reports/1655629.md) | Bypassing Recaptcha Protection in  `https://connect.acronis. | Low | — | 54 | [regexr](https://hackerone.com/regexr) | 2024-10-30 |
+| 93 | [1536899](../reports/1536899.md) | HTML Injection in E-mail | Low | — | 52 | [hacker1_agent](https://hackerone.com/hacker1_agent) | 2022-06-14 |
+| 94 | [1241149](../reports/1241149.md) | FULL SSRF  | Low | — | 37 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2022-02-22 |
+| 95 | [1382448](../reports/1382448.md) | %0A (New line) and limitness URL leads to DoS at all system  | Low | — | 36 | [plantos](https://hackerone.com/plantos) | 2022-01-04 |
+| 96 | [1145712](../reports/1145712.md) | Reflected XSS on www.acronis.com/de-de/my/subscriptions/inde | Low | — | 32 | [cabelo](https://hackerone.com/cabelo) | 2024-08-27 |
+| 97 | [1023572](../reports/1023572.md) | [acronis.secure.force.com] - Insecure Salesforce default/cus | Low | — | 31 | [amsda](https://hackerone.com/amsda) | 2021-08-17 |
+| 98 | [963384](../reports/963384.md) | mysql credentials exposed on - https://cz.acronis.com/docker | Low | — | 28 | [melar_dev](https://hackerone.com/melar_dev) | 2022-12-24 |
+| 99 | [961787](../reports/961787.md) | CSRF and XSS on www.acronis.com | Low | — | 25 | [cabelo](https://hackerone.com/cabelo) | 2024-08-26 |
+| 100 | [982442](../reports/982442.md) | XSS in https://promo.acronis.com/ | Low | — | 24 | [yash_](https://hackerone.com/yash_) | 2024-08-26 |
+| 101 | [971234](../reports/971234.md) | Clickjacking on cas.acronis.com login page | Low | — | 19 | [dgirlwhohacks](https://hackerone.com/dgirlwhohacks) | 2020-11-03 |
+| 102 | [953719](../reports/953719.md) | Subdomain Takeover – www.jet.acronis.com pointing to unclaim | Low | — | 19 | [sumgr0](https://hackerone.com/sumgr0) | 2021-06-18 |
+| 103 | [1063627](../reports/1063627.md) | HTTP Request Smuggling on https://consumer.acronis.com | Low | — | 16 | [riramar](https://hackerone.com/riramar) | 2021-11-16 |
+| 104 | [952166](../reports/952166.md) | Subdomain Takeover – jet.acronis.com pointing to unclaimed W | Low | — | 15 | [sumgr0](https://hackerone.com/sumgr0) | 2021-06-18 |
+| 105 | [1083532](../reports/1083532.md) | Acronis True Image 2020 Build 22510 Nonstop Backup Service U | Low | — | 15 | [sanderz31](https://hackerone.com/sanderz31) | 2024-08-27 |
+| 106 | [1063493](../reports/1063493.md) | HTTP Request Smuggling on https://promosandbox.acronis.com | Low | — | 12 | [riramar](https://hackerone.com/riramar) | 2021-11-16 |
+| 107 | [971610](../reports/971610.md) | Local Privilege Escalation via EXE hijacking with Acronis Tr | Low | — | 7 | [mmg](https://hackerone.com/mmg) | 2024-08-27 |
+| 108 | [1167034](../reports/1167034.md) | Reflected Cross Site Scripting at http://www.grouplogic.com/ | Low | — | 5 | [ub3rsick](https://hackerone.com/ub3rsick) | 2022-06-14 |
+| 109 | [1166918](../reports/1166918.md) | Reflected Cross Site Scripting at  ColdFusion Debugging Pane | Low | — | 4 | [ub3rsick](https://hackerone.com/ub3rsick) | 2022-06-14 |
+| 110 | [998555](../reports/998555.md) | Get ip and Geo location any user via Clickjacking with inspe | None | — | 10 | [abosala7](https://hackerone.com/abosala7) | 2020-10-15 |
+| 111 | [841630](../reports/841630.md) | Content Spoofing | None | — | 8 | [full109tun](https://hackerone.com/full109tun) | 2020-08-12 |
+| 112 | [1265344](../reports/1265344.md) | Self-DoS due to template injection via email field in passwo | None | — | 7 | [sudo_bash](https://hackerone.com/sudo_bash) | 2022-05-03 |
+| 113 | [798767](../reports/798767.md) | Accessing repository and other files  by directory listing | None | — | 2 | [vivek111](https://hackerone.com/vivek111) | 2020-02-26 |
