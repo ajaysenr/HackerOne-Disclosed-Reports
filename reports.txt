@@ -8012,9 +8012,12 @@ https://hackerone.com/reports/1657030 | stored cross site scripting in https://�
 https://hackerone.com/reports/1657033 | stored cross site scripting in https://███
 https://hackerone.com/reports/1658418 | Getting access of mod logs from any public or restricted subreddit with IDOR vulnerability
 https://hackerone.com/reports/1660500 | stored cross site scripting in https://█████████
+https://hackerone.com/reports/1660611 | stored cross site scripting in https://███
 https://hackerone.com/reports/1661113 | IDOR allows an attacker to modify the links of any user
 https://hackerone.com/reports/1661310 | CSV export/import functionality allows administrators to modify member and message content of a workspace
+https://hackerone.com/reports/1661914 | Main Domain Takeover at  https://www.marketo.net/
 https://hackerone.com/reports/1662194 | Secret API Key is logged in cleartext
+https://hackerone.com/reports/1662474 | springboot actuator is leaking internals at ██████████
 https://hackerone.com/reports/1663299 | Ability to escape database transaction through SQL injection, leading to arbitrary code execution
 https://hackerone.com/reports/1663363 | Wordpress Users Disclosure (/wp-json/wp/v2/users/)
 https://hackerone.com/reports/1663788 | [CVE-2022-35949]: undici.request vulnerable to SSRF using absolute / protocol-relative URL on pathname
