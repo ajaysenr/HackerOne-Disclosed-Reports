@@ -8019,14 +8019,20 @@ https://hackerone.com/reports/1661914 | Main Domain Takeover at  https://www.mar
 https://hackerone.com/reports/1662194 | Secret API Key is logged in cleartext
 https://hackerone.com/reports/1662474 | springboot actuator is leaking internals at ██████████
 https://hackerone.com/reports/1663299 | Ability to escape database transaction through SQL injection, leading to arbitrary code execution
+https://hackerone.com/reports/1663361 | Bypass invite accept for victim
 https://hackerone.com/reports/1663363 | Wordpress Users Disclosure (/wp-json/wp/v2/users/)
 https://hackerone.com/reports/1663788 | [CVE-2022-35949]: undici.request vulnerable to SSRF using absolute / protocol-relative URL on pathname
 https://hackerone.com/reports/1664019 | CVE-2022-35948: CRLF Injection in Nodejs ‘undici’ via Content-Type
 https://hackerone.com/reports/1664244 | fix(security):Path Traversal Bug
+https://hackerone.com/reports/1664914 | Stored XSS in intensedebate.com via the Comments RSS 
 https://hackerone.com/reports/1664920 | Program managers can see draft reports using Export Reports feature
 https://hackerone.com/reports/1664974 | Bypass two-factor authentication
+https://hackerone.com/reports/1665156 | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding (improper fix for CVE-2022-32215)
 https://hackerone.com/reports/1665648 | stored cross site scripting in https://████████.edu
 https://hackerone.com/reports/1665658 | Stored-XSS with CSP-bypass via labels' color
+https://hackerone.com/reports/1665966 | stored cross site scripting in https://██████████
+https://hackerone.com/reports/1665971 | stored cross site scripting in https://████
+https://hackerone.com/reports/1666002 | stored cross site scripting in https://███████
 https://hackerone.com/reports/1667974 | Pause-based desync in Apache HTTPD
 https://hackerone.com/reports/1667998 | 1 click Account takeover via deeplink in [com.kayak.android]
 https://hackerone.com/reports/1668028 | XSS in Desktop Client in the notifications
