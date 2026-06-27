@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1678 total)
+# High/Critical Severity — No Bounty Paid (1680 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -302,6 +302,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [330028](../reports/330028.md) | Remote Code Execution (RCE) in a Sony Pictures WebSystem | [Sony](../by-program/sony.md) | Critical — CVSS 10.0 | Resolved | 22 |
 | [3669305](../reports/3669305.md) | Argument Injection via curl Short-Flag Grouping | [curl](../by-program/curl.md) | Critical | Not Applicable | 22 |
 | [719631](../reports/719631.md) | [Partial] SSN & [PII] exposed through iPERMs Presentation Slide. | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 22 |
+| [1661914](../reports/1661914.md) | Main Domain Takeover at  https://www.marketo.net/ | [Adobe](../by-program/adobe.md) | Critical | Resolved | 22 |
 | [471265](../reports/471265.md) | unuse domain still in using at wechat by Starbucks East China | [Starbucks](../by-program/starbucks.md) | Critical — CVSS 9.7 | Resolved | 22 |
 | [2262365](../reports/2262365.md) | Default Admin Username and Password on ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 21 |
 | [2252307](../reports/2252307.md) | Buffer overflow and affected url:-https://github.com/curl/curl/bl | [curl](../by-program/curl.md) | Critical | Not Applicable | 21 |
@@ -518,6 +519,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [329400](../reports/329400.md) | Remote Code Execution (RCE) in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 4 |
 | [890555](../reports/890555.md) | [H1-2006 2020] CTF write-up | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 4 |
 | [329645](../reports/329645.md) | Silent omission of certificate hostname verification in LibreSSL  | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.1 | Resolved | 4 |
+| [1662474](../reports/1662474.md) | springboot actuator is leaking internals at ██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 4 |
 | [3712343](../reports/3712343.md) | MQTT CONNACK Packet Type Bypass leads to RCE via Malicious Broker | [curl](../by-program/curl.md) | Critical | Informative | 4 |
 | [3687142](../reports/3687142.md) | Unauthenticated reading of every file via livechat auth and predi | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 9.3 | Resolved | 4 |
 | [895650](../reports/895650.md) | [h1-2006 2020]  Chained vulnerabilities lead to account takeover | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 4 |

@@ -1,7 +1,8 @@
-# Weakness: Improper Validation of Certificate with Host Mismatch (1 reports)
+# Weakness: Improper Validation of Certificate with Host Mismatch (2 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |---|---|---|---|---|---|---|
 | 1 | [2416725](../reports/2416725.md) | CVE-2024-2466: TLS certificate check bypass with mbedTLS | [curl](../by-program/curl.md) | Medium — CVSS 5.3 | — | 17 |
+| 2 | [3826199](../reports/3826199.md) | mbedTLS / wolfSSL / rustls backends silently skip hostname verifi | [curl](../by-program/curl.md) | Medium | — | 0 |

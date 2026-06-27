@@ -1,4 +1,4 @@
-# Weakness: CRLF Injection (36 reports)
+# Weakness: CRLF Injection (37 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -29,14 +29,15 @@
 | 23 | [245485](../reports/245485.md) | CRLF Injection on ███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
 | 24 | [266030](../reports/266030.md) | Add arbitrary value in reset password cookie | [Legal Robot](../by-program/legalrobot.md) | Medium | — | 3 |
 | 25 | [771596](../reports/771596.md) | CRLF Injection in legacy url API (url.parse().hostname) | [Node.js](../by-program/nodejs.md) | Medium | — | 2 |
-| 26 | [712979](../reports/712979.md) | Creating malformed URLs via new line character in-between two URL | [X / xAI](../by-program/x.md) | Low | — | 95 |
-| 27 | [1054282](../reports/1054282.md) | Protocol Smuggling over LDAP password field | [ownCloud](../by-program/owncloud.md) | Low | — | 11 |
-| 28 | [225936](../reports/225936.md) | Cross-site scripting (XSS) vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 8 |
-| 29 | [3133379](../reports/3133379.md) | CRLF Injection in `--proxy-header` allows extra HTTP headers (CWE | [curl](../by-program/curl.md) | None | — | 42 |
-| 30 | [217058](../reports/217058.md) | CRLF injection in info.hacker.one | [HackerOne](../by-program/security.md) | None | — | 21 |
-| 31 | [3627638](../reports/3627638.md) | Security Vulnerability Report: Protocol Injection via Programmati | [curl](../by-program/curl.md) | None | — | 13 |
-| 32 | [276427](../reports/276427.md) | Legal Robot | [Legal Robot](../by-program/legalrobot.md) | None | — | 12 |
-| 33 | [2831558](../reports/2831558.md) | netrc crlf injection | [curl](../by-program/curl.md) | None | — | 6 |
-| 34 | [2861797](../reports/2861797.md) | curl mishandles `%0c%0b` sequences in HTTP responses leading to C | [curl](../by-program/curl.md) | None | — | 5 |
-| 35 | [3651975](../reports/3651975.md) | SMTP Command Injection via CRLF in libcurl MAIL_FROM / MAIL_RCPT  | [curl](../by-program/curl.md) | None | — | 4 |
-| 36 | [3741744](../reports/3741744.md) | CRLF Injection via Custom HTTP Headers | [curl](../by-program/curl.md) | None | — | 2 |
+| 26 | [3823932](../reports/3823932.md) | CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabling HAProx | [curl](../by-program/curl.md) | Medium | — | 0 |
+| 27 | [712979](../reports/712979.md) | Creating malformed URLs via new line character in-between two URL | [X / xAI](../by-program/x.md) | Low | — | 95 |
+| 28 | [1054282](../reports/1054282.md) | Protocol Smuggling over LDAP password field | [ownCloud](../by-program/owncloud.md) | Low | — | 11 |
+| 29 | [225936](../reports/225936.md) | Cross-site scripting (XSS) vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 8 |
+| 30 | [3133379](../reports/3133379.md) | CRLF Injection in `--proxy-header` allows extra HTTP headers (CWE | [curl](../by-program/curl.md) | None | — | 42 |
+| 31 | [217058](../reports/217058.md) | CRLF injection in info.hacker.one | [HackerOne](../by-program/security.md) | None | — | 21 |
+| 32 | [3627638](../reports/3627638.md) | Security Vulnerability Report: Protocol Injection via Programmati | [curl](../by-program/curl.md) | None | — | 13 |
+| 33 | [276427](../reports/276427.md) | Legal Robot | [Legal Robot](../by-program/legalrobot.md) | None | — | 12 |
+| 34 | [2831558](../reports/2831558.md) | netrc crlf injection | [curl](../by-program/curl.md) | None | — | 6 |
+| 35 | [2861797](../reports/2861797.md) | curl mishandles `%0c%0b` sequences in HTTP responses leading to C | [curl](../by-program/curl.md) | None | — | 5 |
+| 36 | [3651975](../reports/3651975.md) | SMTP Command Injection via CRLF in libcurl MAIL_FROM / MAIL_RCPT  | [curl](../by-program/curl.md) | None | — | 4 |
+| 37 | [3741744](../reports/3741744.md) | CRLF Injection via Custom HTTP Headers | [curl](../by-program/curl.md) | None | — | 2 |
