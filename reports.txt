@@ -8048,6 +8048,7 @@ https://hackerone.com/reports/1670586 | Cleartext storage of sensitive informati
 https://hackerone.com/reports/1671140 | CVE-2022-38362: Apache Airflow Docker Provider <3.0 RCE vulnerability in example dag
 https://hackerone.com/reports/1672388 | RCE via github import
 https://hackerone.com/reports/1672459 | Cross-site scripting on api.collabs.shopify.com
+https://hackerone.com/reports/1672614 | [Broken Access Control ] Unauthorized Linking accounts & Linked Accounts info DIsclosure
 https://hackerone.com/reports/1675014 | Profile of disabled user stays accessible
 https://hackerone.com/reports/1675674 | An Attacker Can Flag Draft Job Posts And Can Disclose The Draft Job Posts Details [ Similar to #1581528 Resolved Report]
 https://hackerone.com/reports/1675730 | Password Policy Restriction Bypass
