@@ -8056,9 +8056,14 @@ https://hackerone.com/reports/1675730 | Password Policy Restriction Bypass
 https://hackerone.com/reports/1677155 | Business Logic, currency arbitrage - Possibility to pay less than the price in USD
 https://hackerone.com/reports/1677541 | Fully TaxJar account control and ability to disclose and modify business account settings Due to Broken Access Control in /current_user_data
 https://hackerone.com/reports/1679124 | Unauthorized Canceling/Unsubscribe TaxJar account & Payment information DIsclosure
+https://hackerone.com/reports/1679267 | Desktop client does not verify received singed certificate in end to end encryption
+https://hackerone.com/reports/1679276 | IDOR able to buy a plan with lesser fee
 https://hackerone.com/reports/1679624 | Remote Command Execution via Github import
 https://hackerone.com/reports/1679734 | Account Takeover Vulnerability in Shopify Collabs Platform Due to Missing Email Verification
+https://hackerone.com/reports/1679969 | Host Header Injection on https://███/████████/Account/ForgotPassword
 https://hackerone.com/reports/1680241 | DoS via Automatic Response Message
+https://hackerone.com/reports/1680818 | Modifying Sprunk vs eCola crew data
+https://hackerone.com/reports/1681178 | Reflected XSS at https://██████/
 https://hackerone.com/reports/1681208 | XSS DUE TO CVE-2022-38463 in https://████████
 https://hackerone.com/reports/1685822 | RepositoryPipeline allows importing of local git repos
 https://hackerone.com/reports/1685979 | DoS via Playbook
