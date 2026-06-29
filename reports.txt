@@ -8065,6 +8065,8 @@ https://hackerone.com/reports/1680241 | DoS via Automatic Response Message
 https://hackerone.com/reports/1680818 | Modifying Sprunk vs eCola crew data
 https://hackerone.com/reports/1681178 | Reflected XSS at https://██████/
 https://hackerone.com/reports/1681208 | XSS DUE TO CVE-2022-38463 in https://████████
+https://hackerone.com/reports/1683129 | XSS at TikTok Ads Endpoint
+https://hackerone.com/reports/1684163 | ReDoS (Rails::Html::PermitScrubber.scrub_attribute)
 https://hackerone.com/reports/1685822 | RepositoryPipeline allows importing of local git repos
 https://hackerone.com/reports/1685979 | DoS via Playbook
 https://hackerone.com/reports/1686935 | CVE-2022-35252: control code in cookie denial of service
