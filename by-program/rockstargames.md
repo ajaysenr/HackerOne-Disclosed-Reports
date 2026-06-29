@@ -1,4 +1,4 @@
-# Rockstar Games — Disclosed Reports (63 total)
+# Rockstar Games — Disclosed Reports (64 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -64,6 +64,7 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 58 | [210572](../reports/210572.md) | Full path Disclosure in Rockstargames.com██████████  | Low | — | 13 | [pappan](https://hackerone.com/pappan) | 2017-04-28 |
 | 59 | [271700](../reports/271700.md) | Leak IP internal | Low | — | 11 | [h1danilabs](https://hackerone.com/h1danilabs) | 2018-02-05 |
 | 60 | [214763](../reports/214763.md) | Profile bio at rockstar is accepting control characters | Low | — | 8 | [exception](https://hackerone.com/exception) | 2017-05-23 |
-| 61 | [253975](../reports/253975.md) | insecure redirect in https://www.rockstargames.com | Low | — | 6 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-12 |
-| 62 | [210331](../reports/210331.md) | SSLv3 POODLE Vulnerability | Low | — | 6 | [rmtyronerf](https://hackerone.com/rmtyronerf) | 2017-04-09 |
-| 63 | [870062](../reports/870062.md) | Referer Referer Header Leakage in language changer may lead  | Low — CVSS 3.8 | — | 3 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
+| 61 | [1680818](../reports/1680818.md) | Modifying Sprunk vs eCola crew data | Low | — | 8 | [bugstar](https://hackerone.com/bugstar) | 2022-09-06 |
+| 62 | [253975](../reports/253975.md) | insecure redirect in https://www.rockstargames.com | Low | — | 6 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-12 |
+| 63 | [210331](../reports/210331.md) | SSLv3 POODLE Vulnerability | Low | — | 6 | [rmtyronerf](https://hackerone.com/rmtyronerf) | 2017-04-09 |
+| 64 | [870062](../reports/870062.md) | Referer Referer Header Leakage in language changer may lead  | Low — CVSS 3.8 | — | 3 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |

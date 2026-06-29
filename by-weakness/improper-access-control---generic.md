@@ -1,4 +1,4 @@
-# Weakness: Improper Access Control - Generic (528 reports)
+# Weakness: Improper Access Control - Generic (529 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -37,498 +37,499 @@
 | 31 | [2188126](../reports/2188126.md) | Permissions policies can be bypassed via Module._load and require | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.7 | $1,165 | 29 |
 | 32 | [1193321](../reports/1193321.md) | Scoped apptokens can be changed by that very apptoken | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.7 | $1,000 | 39 |
 | 33 | [1984060](../reports/1984060.md) | After the upload of an private file, using transformations, the f | [Mozilla](../by-program/mozilla.md) | Medium — CVSS 6.5 | $1,000 | 61 |
-| 34 | [489284](../reports/489284.md) | Access to Employee calendar disclosing internal presentation and  | [Shopify](../by-program/shopify.md) | Low | $1,000 | 109 |
-| 35 | [1285226](../reports/1285226.md) | Improper access control for users with expired password, giving t | [GitLab](../by-program/gitlab.md) | Medium — CVSS 6.5 | $950 | 48 |
-| 36 | [1489077](../reports/1489077.md) | Bypass of fix #1370749 | [Shopify](../by-program/shopify.md) | Low — CVSS 3.7 | $900 | 50 |
-| 37 | [1692788](../reports/1692788.md) | Attacker is able to query Github repositories of arbitrary Shopif | [Shopify](../by-program/shopify.md) | Low — CVSS 3.7 | $900 | 17 |
-| 38 | [1392032](../reports/1392032.md) | Orders full read for a staff with only `Customers` permissions. | [Shopify](../by-program/shopify.md) | Low — CVSS 3.6 | $800 | 12 |
-| 39 | [1888915](../reports/1888915.md) | Reset password link sent over unsecured http protocol | [Mattermost](../by-program/mattermost.md) | High — CVSS 7.3 | $750 | 437 |
-| 40 | [2289425](../reports/2289425.md) | Can reshare read&share only folder with more permissions | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.1 | $750 | 30 |
-| 41 | [301137](../reports/301137.md) | GitHub import allows user to create child group under existing na | [GitLab](../by-program/gitlab.md) | High — CVSS 7.1 | $750 | 14 |
-| 42 | [893922](../reports/893922.md) | IP-in-IP protocol routes arbitrary traffic by default - CVE-2020- | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.3 | $750 | 13 |
-| 43 | [1167853](../reports/1167853.md) | Trusted servers exchange can be triggered by attacker | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | $750 | 12 |
-| 44 | [1167916](../reports/1167916.md) | Default Nextcloud Server and Android Client leak sharee searches  | [Nextcloud](../by-program/nextcloud.md) | Low | $750 | 57 |
-| 45 | [1375393](../reports/1375393.md) | "External status checks" can be accepted by users below developer | [GitLab](../by-program/gitlab.md) | Medium — CVSS 4.3 | $610 | 13 |
-| 46 | [1117768](../reports/1117768.md) | Guest Users can create issues for Sentry errors and track their s | [GitLab](../by-program/gitlab.md) | Low — CVSS 3.1 | $610 | 29 |
-| 47 | [1044869](../reports/1044869.md) | Staff with no permissions could possibly list and accept billing  | [Shopify](../by-program/shopify.md) | Low — CVSS 2.5 | $600 | 17 |
-| 48 | [574962](../reports/574962.md) | Verify any unused email address | [X / xAI](../by-program/x.md) | None | $560 | 195 |
-| 49 | [2340833](../reports/2340833.md) | Apache Airflow: Bypass permission verification to read code of ot | [Internet Bug Bounty](../by-program/ibb.md) | Low | $540 | 29 |
-| 50 | [2208647](../reports/2208647.md) | CVE-2023-42780: Apache Airflow: Improper access control vulnerabi | [Internet Bug Bounty](../by-program/ibb.md) | Low | $540 | 19 |
-| 51 | [809816](../reports/809816.md) | Organization Takeover | [Helium](../by-program/helium.md) | High — CVSS 8.9 | $500 | 260 |
-| 52 | [1069487](../reports/1069487.md) | DNS rebinding in --inspect (insufficient fix of CVE-2018-7160) | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | $500 | 5 |
-| 53 | [2381253](../reports/2381253.md) | Ability to identify actual private from sandboxed programs using  | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | $500 | 107 |
-| 54 | [1257767](../reports/1257767.md) | HTML Injection in the Invoice memos field | [Stripe](../by-program/stripe.md) | Medium | $500 | 53 |
-| 55 | [1724016](../reports/1724016.md) | Download permissions can be changed by resharer | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.7 | $500 | 49 |
-| 56 | [2447316](../reports/2447316.md) | User can copy locked folders and gain access to the contents | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.1 | $500 | 44 |
-| 57 | [1717626](../reports/1717626.md) | Sub-Domain Takeover at   http://www.codefi.consensys.net/ | [Consensys](../by-program/consensys.md) | Medium | $500 | 42 |
-| 58 | [1356508](../reports/1356508.md) | Read-only users can restore old versions | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.6 | $500 | 37 |
-| 59 | [412490](../reports/412490.md) | Permissive CORS policy trusting arbitrary extensions origin | [Superhuman (formerly Grammarly)](../by-program/superhuman.md) | Medium | $500 | 33 |
-| 60 | [2290680](../reports/2290680.md) | Re-emergence of Security Vulnerability in Nextcloud Version 28 Pr | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.8 | $500 | 24 |
-| 61 | [1679124](../reports/1679124.md) | Unauthorized Canceling/Unsubscribe TaxJar account & Payment infor | [Stripe](../by-program/stripe.md) | Medium — CVSS 4.3 | $500 | 24 |
-| 62 | [1226891](../reports/1226891.md) | Domain Takeover of Reddit.ru via DNS Hijacking | [Reddit](../by-program/reddit.md) | Medium | $500 | 19 |
-| 63 | [304240](../reports/304240.md) | Unrestricted access to Eureka server on ██████ | [Grab](../by-program/grab.md) | Medium | $500 | 17 |
-| 64 | [384719](../reports/384719.md) | linkinfo - openbasedir bypass on Windows PHP | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $500 | 7 |
-| 65 | [1179241](../reports/1179241.md) | Private program disclosure of `██████████` through notifications | [HackerOne](../by-program/security.md) | Low — CVSS 2.7 | $500 | 63 |
-| 66 | [357485](../reports/357485.md) | Hacktivity of a private program visible to banned user if he gets | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | $500 | 45 |
-| 67 | [1234746](../reports/1234746.md) | Private program disclosure through notifications | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | $500 | 39 |
-| 68 | [528940](../reports/528940.md) | STAFF member with NO Explicit permissions can view `ActivityFeed` | [Shopify](../by-program/shopify.md) | Low | $500 | 23 |
-| 69 | [431633](../reports/431633.md) | Order Creation Webhooks can be edited/deleted by STAFF with `Sett | [Shopify](../by-program/shopify.md) | Low — CVSS 3.4 | $500 | 22 |
-| 70 | [354660](../reports/354660.md) | Suspended users can bypass UGC upload ban | [Valve](../by-program/valve.md) | Low | $500 | 21 |
-| 71 | [442843](../reports/442843.md) | Notifications sent due to "Transfer report" functionality may be  | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | $500 | 21 |
-| 72 | [534554](../reports/534554.md) | Unpublished Product Images can be disclosed | [Shopify](../by-program/shopify.md) | Low | $500 | 20 |
-| 73 | [351519](../reports/351519.md) | Improper access check by Kit  leads to controlling attributes of  | [Shopify](../by-program/shopify.md) | Low — CVSS 2.0 | $500 | 18 |
-| 74 | [1262434](../reports/1262434.md) | Theme editor `oseid` parameter is leaked to third-party services  | [Shopify](../by-program/shopify.md) | Low — CVSS 2.4 | $500 | 16 |
-| 75 | [1167929](../reports/1167929.md) | File drop public link can also be converted to federated share | [Nextcloud](../by-program/nextcloud.md) | Low | $500 | 15 |
-| 76 | [417839](../reports/417839.md) | H1514 Lack of access control on edit packing slip template | [Shopify](../by-program/shopify.md) | Low | $500 | 12 |
-| 77 | [326080](../reports/326080.md) | Improper Access Control on Onelogin in multi-layered architecture | [Uber](../by-program/uber.md) | None | $500 | 29 |
-| 78 | [302997](../reports/302997.md) | Unix domain socket and a path containing a null character | [Ruby](../by-program/ruby.md) | None | $500 | 17 |
-| 79 | [302298](../reports/302298.md) | Unintentional file creation caused at Tempfile with directory tra | [Ruby](../by-program/ruby.md) | None | $500 | 15 |
-| 80 | [302338](../reports/302338.md) | The possibility that unintended file operation may be performed b | [Ruby](../by-program/ruby.md) | None | $500 | 13 |
-| 81 | [1519099](../reports/1519099.md) |  Renderers can obtain access to random bluetooth device without p | [Internet Bug Bounty](../by-program/ibb.md) | Low | $480 | 21 |
-| 82 | [1914115](../reports/1914115.md) | End-to-end encrypted file-drops can be made inaccessible | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 7.5 | $400 | 43 |
-| 83 | [532836](../reports/532836.md) | [com.exness.android.pa Android] Universal XSS in webview. Lead to | [EXNESS](../by-program/exness.md) | Low | $400 | 26 |
-| 84 | [998457](../reports/998457.md) | Authentication token and CSRF token bypass | [Enjin](../by-program/enjin.md) | High | $300 | 43 |
-| 85 | [2234736](../reports/2234736.md) | Session Doesn't expire after 2fa and also other session can chang | [SideFX](../by-program/sidefx.md) | Low | $300 | 85 |
-| 86 | [1563139](../reports/1563139.md) | Global default settings page is accessible to non-administrators | [Phabricator](../by-program/phabricator.md) | None | $300 | 10 |
-| 87 | [1584409](../reports/1584409.md) | Deprecated owners.query API bypasses object view policy | [Phabricator](../by-program/phabricator.md) | None | $300 | 7 |
-| 88 | [312647](../reports/312647.md) | Gaining access to private topics using quoting feature | [Discourse](../by-program/discourse.md) | High | $256 | 19 |
-| 89 | [2067572](../reports/2067572.md) | New AppPassword can be generated without password confirmation | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.1 | $250 | 11 |
-| 90 | [1485500](../reports/1485500.md) | File Read Vulnerability allows Attackers to Compromise S3 buckets | [Kubernetes](../by-program/kubernetes.md) | Medium | $250 | 26 |
-| 91 | [304386](../reports/304386.md) | Unrestricted access to https://██████.█████myteksi.net/ | [Grab](../by-program/grab.md) | Medium | $250 | 23 |
-| 92 | [1164854](../reports/1164854.md) | Store Admin Page Accessible Without Authentication at http://www. | [Acronis](../by-program/acronis.md) | Medium — CVSS 5.8 | $250 | 14 |
-| 93 | [2012659](../reports/2012659.md) | Spam & Clearance checks disabled with existing referenced Message | [Basecamp](../by-program/basecamp.md) | Low | $250 | 118 |
-| 94 | [2380133](../reports/2380133.md) | Can download files on Android app without permission | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.2 | $250 | 46 |
-| 95 | [1672614](../reports/1672614.md) | [Broken Access Control ] Unauthorized Linking accounts & Linked A | [Stripe](../by-program/stripe.md) | Low | $250 | 26 |
-| 96 | [1965156](../reports/1965156.md) | Text does not respect 'Allow download' permissions | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | $250 | 12 |
-| 97 | [1189174](../reports/1189174.md) | End to end encryption folder locking is not properly protected | [Nextcloud](../by-program/nextcloud.md) | Low | $250 | 10 |
-| 98 | [394516](../reports/394516.md) | Stats Token doesn't expire after deactivating account | [Chaturbate](../by-program/chaturbate.md) | Low — CVSS 2.7 | $250 | 8 |
-| 99 | [3543475](../reports/3543475.md) | Improper Access Control in `fizzy.do` import flow allows cross-te | [Basecamp](../by-program/basecamp.md) | Low — CVSS 3.1 | $218 | 43 |
-| 100 | [1071918](../reports/1071918.md) | Moderator user has access to owner's support portal and tickets | [Logitech](../by-program/logitech.md) | Medium — CVSS 5.0 | $200 | 19 |
-| 101 | [3100570](../reports/3100570.md) | Bypassing Inbox Privacy Settings and Enabling Spam on Pixiv.net | [pixiv](../by-program/pixiv.md) | Low | $200 | 35 |
-| 102 | [1450368](../reports/1450368.md) | com.nextcloud.client bypass the protection lock in andoid app v 3 | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 1.1 | $200 | 11 |
-| 103 | [673724](../reports/673724.md) | Circle email-members have still access to a shared folder/file af | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.0 | $200 | 5 |
-| 104 | [1194606](../reports/1194606.md) | Virtual Data Room / Hide download on collabora is easy to bypass | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 7.7 | $150 | 14 |
-| 105 | [1578574](../reports/1578574.md) | unauth mosquitto ( client emails, ips, license keys exposure ) | [Acronis](../by-program/acronis.md) | Medium — CVSS 5.5 | $150 | 20 |
-| 106 | [1724021](../reports/1724021.md) | Secure view trivial to bypass | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.7 | $150 | 13 |
-| 107 | [403603](../reports/403603.md) | Private and group tokens per minute endpoint active for disabled  | [Chaturbate](../by-program/chaturbate.md) | Low | $150 | 11 |
-| 108 | [1046697](../reports/1046697.md) | ████. | [Omise](../by-program/omise.md) | Medium | $100 | 38 |
-| 109 | [2120667](../reports/2120667.md) |  Bypass password confirmation via Context-dependent access contro | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.4 | $100 | 30 |
-| 110 | [1546726](../reports/1546726.md) | Anonymous access control - Payments Status | [Omise](../by-program/omise.md) | Medium | $100 | 26 |
-| 111 | [388515](../reports/388515.md) | Access control issue -- [Allow file system access not validated w | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.4 | $100 | 17 |
-| 112 | [447494](../reports/447494.md) | Share recipient can modify a share's expiration date | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | $100 | 9 |
-| 113 | [819278](../reports/819278.md) | Open S3 Bucket Accessible by any Aws User | [Greenhouse.io](../by-program/greenhouse.md) | Low | $100 | 53 |
-| 114 | [2107934](../reports/2107934.md) | Admins can change authentication details of user configured exter | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.4 | $100 | 29 |
-| 115 | [1675014](../reports/1675014.md) | Profile of disabled user stays accessible | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | $100 | 27 |
-| 116 | [1615790](../reports/1615790.md) | Any expired reset password link can still be used to reset the pa | [Acronis](../by-program/acronis.md) | Low | $100 | 19 |
-| 117 | [1691195](../reports/1691195.md) | Missing rate limiting on password reset functionality allows to s | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.7 | $100 | 17 |
-| 118 | [534541](../reports/534541.md) | Combination of content provider allows private data disclosure | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.4 | $100 | 14 |
-| 119 | [762271](../reports/762271.md) | Guest users can change the confidentiality attribute on those iss | [GitLab](../by-program/gitlab.md) | Low | $100 | 13 |
-| 120 | [1210424](../reports/1210424.md) | Federated editing allows iframing possibly malicious remotes | [Nextcloud](../by-program/nextcloud.md) | Low | $100 | 8 |
-| 121 | [2388183](../reports/2388183.md) | Easy way to create a new Deck board without permission  | [Nextcloud](../by-program/nextcloud.md) | None | $100 | 56 |
-| 122 | [1963213](../reports/1963213.md) | Subdomain takeover http://accessday.opn.ooo/ | [Omise](../by-program/omise.md) | Medium | $50 | 74 |
-| 123 | [275443](../reports/275443.md) | Missing robots exclusion header for user uploads | [IRCCloud](../by-program/irccloud.md) | Low | $50 | 5 |
-| 124 | [322985](../reports/322985.md) | Ability to reset password for account | [Upserve ](../by-program/upserve.md) | Critical | — | 632 |
-| 125 | [313457](../reports/313457.md) | Publicly accessible Continuous Integration Tool | [Snapchat](../by-program/snapchat.md) | Critical | — | 561 |
-| 126 | [1567186](../reports/1567186.md) | One-click account hijack for anyone using Apple sign-in with Redd | [Reddit](../by-program/reddit.md) | Critical | — | 503 |
-| 127 | [2831902](../reports/2831902.md) | [CRITICAL] 0-Click Account Takeover via Password Reset [AUTH-3243 | [Remitly](../by-program/remitly.md) | Critical — CVSS 9.8 | — | 270 |
-| 128 | [1027822](../reports/1027822.md) | Unrestricted File Upload Leads to RCE on mobile.starbucks.com.sg | [Starbucks](../by-program/starbucks.md) | Critical — CVSS 9.8 | — | 244 |
-| 129 | [2579939](../reports/2579939.md) | SAML Signature verification bypass allows logging into any user ( | [GitHub](../by-program/github.md) | Critical | — | 192 |
-| 130 | [837400](../reports/837400.md) | IDOR in the https://market.semrush.com/ | [Semrush](../by-program/semrush.md) | Critical | — | 171 |
-| 131 | [1667998](../reports/1667998.md) | 1 click Account takeover via deeplink in [com.kayak.android] | [KAYAK](../by-program/kayak.md) | Critical — CVSS 9.3 | — | 163 |
-| 132 | [2950536](../reports/2950536.md) | Applicant security exam Attachments/Documents accessible through  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 139 |
-| 133 | [3459285](../reports/3459285.md) | [Critical] Unauthorized Cross-Tenant Data Access in Stripo AI Hub | [Stripo Inc](../by-program/stripo.md) | Critical — CVSS 9.9 | — | 136 |
-| 134 | [499348](../reports/499348.md) | Twitter lite(Android): Vulnerable to local file steal, Javascript | [X / xAI](../by-program/x.md) | Critical | — | 93 |
-| 135 | [975212](../reports/975212.md) | Access to microtransaction sales data for lots of apps from 2014  | [Valve](../by-program/valve.md) | Critical | — | 86 |
-| 136 | [347296](../reports/347296.md) | Docker Registry HTTP API v2 exposed in HTTP without authenticatio | [Semmle](../by-program/semmle.md) | Critical | — | 80 |
-| 137 | [2801787](../reports/2801787.md) | Admin Dashboard Access Leads to Updating Merchant Info | [MTN Group](../by-program/mtn_group.md) | Critical — CVSS 9.1 | — | 79 |
-| 138 | [2976481](../reports/2976481.md) | Unauthorized coins transfer from locking account(s) | [Cosmos](../by-program/cosmos.md) | Critical | — | 78 |
-| 139 | [2633888](../reports/2633888.md) | OTP code Leaked in API Response  | [MTN Group](../by-program/mtn_group.md) | Critical — CVSS 9.1 | — | 78 |
-| 140 | [804548](../reports/804548.md) | [█████████] Administrative access to Oracle WebLogic Server using | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 65 |
-| 141 | [2499178](../reports/2499178.md) | Subdomain takeover ████████.mil | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 62 |
-| 142 | [915110](../reports/915110.md) | No Email Checking at Invitation Confirmation Link leads to Accoun | [Automattic](../by-program/automattic.md) | Critical | — | 62 |
-| 143 | [1022048](../reports/1022048.md) | Critically Sensitive Spring Boot Endpoints Exposed | [Semrush](../by-program/semrush.md) | Critical — CVSS 9.9 | — | 58 |
-| 144 | [2828641](../reports/2828641.md) | unauthorized access and add user and change personal information  | [Mars](../by-program/mars.md) | Critical — CVSS 9.6 | — | 52 |
-| 145 | [2828693](../reports/2828693.md) | change part of personal information all users | [Mars](../by-program/mars.md) | Critical — CVSS 9.4 | — | 51 |
-| 146 | [1175081](../reports/1175081.md) | Full account takeover of any user through reset password | [UPchieve](../by-program/upchieve.md) | Critical — CVSS 9.1 | — | 50 |
-| 147 | [684099](../reports/684099.md) | Periscope-all Firebase database takeover | [X / xAI](../by-program/x.md) | Critical | — | 49 |
-| 148 | [1394910](../reports/1394910.md) | Unauthenticated Access to Admin Panel Functions at https://██████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 47 |
-| 149 | [369581](../reports/369581.md) | HTTP PUT method enabled | [RATELIMITED](../by-program/ratelimited.md) | Critical | — | 43 |
-| 150 | [1297480](../reports/1297480.md) | Default Login Credentials on https://broadbandmaps.mtn.com.gh/  | [MTN Group](../by-program/mtn_group.md) | Critical | — | 41 |
-| 151 | [2633988](../reports/2633988.md) | DoD workstation exposed to internet via TinyPilot KVM with no aut | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 40 |
-| 152 | [2327238](../reports/2327238.md) | Lack of Tenant Scoping Enables Limited Cross-Tenant Data Querying | [Enjin](../by-program/enjin.md) | Critical | — | 39 |
-| 153 | [452854](../reports/452854.md) | Expired reshare links allow access to all files in share | [Nextcloud](../by-program/nextcloud.md) | Critical — CVSS 9.6 | — | 38 |
-| 154 | [1061664](../reports/1061664.md) | Access to alerta.khanacademy.org leak sensitive data  | [Khan Academy](../by-program/khanacademy.md) | Critical — CVSS 9.8 | — | 27 |
-| 155 | [674741](../reports/674741.md) | Examples directory is PUBLIC on https://████████mil, leading to m | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 24 |
-| 156 | [824802](../reports/824802.md) | URN Request bypass ACL Checks | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.1 | — | 23 |
-| 157 | [471265](../reports/471265.md) | unuse domain still in using at wechat by Starbucks East China | [Starbucks](../by-program/starbucks.md) | Critical — CVSS 9.7 | — | 22 |
-| 158 | [2262365](../reports/2262365.md) | Default Admin Username and Password on ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 21 |
-| 159 | [777099](../reports/777099.md) | [h1-415 2020] I got the flag | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 20 |
-| 160 | [345162](../reports/345162.md) | Local File Download | [RATELIMITED](../by-program/ratelimited.md) | Critical | — | 20 |
-| 161 | [3723458](../reports/3723458.md) | 1-Click Account Takeover via Open Redirect through Regex Bypass i | [Khan Academy](../by-program/khanacademy.md) | Critical — CVSS 9.6 | — | 19 |
-| 162 | [1959540](../reports/1959540.md) | ' Full Account Takeover ' at █████ | [Mars](../by-program/mars.md) | Critical | — | 17 |
-| 163 | [781253](../reports/781253.md) | [h1-415 2020] h1ctf{y3s_1m_c0sm1c_n0w} | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 17 |
-| 164 | [1492447](../reports/1492447.md) | Public Jenkins instance with /script enabled | [IBM](../by-program/ibm.md) | Critical | — | 15 |
-| 165 | [1397564](../reports/1397564.md) | Unauthenticated Access to Admin Panel Functions at https://██████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 14 |
-| 166 | [895798](../reports/895798.md) | [H1-2006 2020] Bounty Pay CTF challenge | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 11 |
-| 167 | [491892](../reports/491892.md) | Broken access control on apps  | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 9.6 | — | 9 |
-| 168 | [1067912](../reports/1067912.md) | A Visit from The Grinch ~ 'Twas the night before Hackmas... | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 9 |
-| 169 | [460642](../reports/460642.md) | HTTP PUT method enabled | [RATELIMITED](../by-program/ratelimited.md) | Critical | — | 8 |
-| 170 | [683024](../reports/683024.md) | Unrestricted File Upload | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 8 |
-| 171 | [1069396](../reports/1069396.md) | Hackyholidays [ h1-ctf] writeup [mission:- stop the grinch ] | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 7 |
-| 172 | [1049375](../reports/1049375.md) | SAML authentication bypass through unauthenticated `addSamlProvid | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 10.0 | — | 5 |
-| 173 | [3687142](../reports/3687142.md) | Unauthenticated reading of every file via livechat auth and predi | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 9.3 | — | 4 |
-| 174 | [314808](../reports/314808.md) | Full account takeover | [Reverb.com](../by-program/reverb.md) | High | — | 409 |
-| 175 | [502593](../reports/502593.md) | Attacker is able to access commit title and team member comments  | [GitLab](../by-program/gitlab.md) | High | — | 349 |
-| 176 | [2312029](../reports/2312029.md) | View Titles of Private Reports with pending email invitation | [HackerOne](../by-program/security.md) | High — CVSS 7.7 | — | 249 |
-| 177 | [3178999](../reports/3178999.md) | Account takeover of existing HackerOne accounts through SCIM prov | [HackerOne](../by-program/security.md) | High — CVSS 7.0 | — | 224 |
-| 178 | [692252](../reports/692252.md) | Group search leaks private MRs, code, commits | [GitLab](../by-program/gitlab.md) | High — CVSS 7.5 | — | 211 |
-| 179 | [3081691](../reports/3081691.md) | 1 Click Account Takeover via Auth Token Theft on marketing.hostin | [hostinger ](../by-program/hostinger.md) | High — CVSS 7.5 | — | 209 |
-| 180 | [1711938](../reports/1711938.md) | Github Apps can use Scoped-User-To-Server Tokens to Obtain Full A | [GitHub](../by-program/github.md) | High | — | 196 |
-| 181 | [1596663](../reports/1596663.md) | Admin can create a hidden admin account  which even the owner can | [Reddit](../by-program/reddit.md) | High | — | 180 |
-| 182 | [473742](../reports/473742.md) | Bug in GraphQL and API integration leads to limited user address  | [Starbucks](../by-program/starbucks.md) | High | — | 143 |
-| 183 | [999765](../reports/999765.md) | Ticket Trick at https://account.acronis.com | [Acronis](../by-program/acronis.md) | High | — | 141 |
-| 184 | [577584](../reports/577584.md) | ISteamAssets gives partners control over unrelated community mark | [Valve](../by-program/valve.md) | High — CVSS 7.1 | — | 109 |
-| 185 | [2513082](../reports/2513082.md) | Program Member Could Duplicate Report To A Non Related Program Or | [HackerOne](../by-program/security.md) | High — CVSS 7.1 | — | 101 |
-| 186 | [1464168](../reports/1464168.md) | IDOR allowing to read another user's token on the Social Media Ad | [Semrush](../by-program/semrush.md) | High — CVSS 8.8 | — | 101 |
-| 187 | [2516250](../reports/2516250.md) | Access Control Vulnerability Enabling Unauthorized Access to Limi | [HackerOne](../by-program/security.md) | High — CVSS 8.2 | — | 100 |
-| 188 | [708820](../reports/708820.md) | Group search with Elastic search enable leaks unrelated data | [GitLab](../by-program/gitlab.md) | High — CVSS 8.6 | — | 99 |
-| 189 | [2585855](../reports/2585855.md) | Missing Line Terminator on allowedOrigins enables origin spoofing | [MetaMask](../by-program/metamask.md) | High — CVSS 7.7 | — | 89 |
-| 190 | [836081](../reports/836081.md) | Insufficient access control on all BCRM instances leading to the  | [LY Corporation](../by-program/line.md) | High | — | 86 |
-| 191 | [2342461](../reports/2342461.md) | Improper Access Controls(Admin Path) | [MTN Group](../by-program/mtn_group.md) | High — CVSS 7.9 | — | 85 |
-| 192 | [1805779](../reports/1805779.md) | 2FA BYPASS | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | High — CVSS 7.2 | — | 84 |
-| 193 | [3103755](../reports/3103755.md) | Privilege Escalation in Edit and Create Secret Endpoints Leads to | [Dust](../by-program/dust.md) | High — CVSS 7.1 | — | 81 |
-| 194 | [452559](../reports/452559.md) | Possibility to overwrite any file in the vpe.cdn.vimeo.tv leads t | [Vimeo](../by-program/vimeo.md) | High | — | 76 |
-| 195 | [3592387](../reports/3592387.md) | Potential Subdomain Takeover on IBM.com domain. | [IBM](../by-program/ibm.md) | High | — | 75 |
-| 196 | [1960107](../reports/1960107.md) | Rider can forcefully get passenger's order accepted resulting in  | [inDrive](../by-program/indrive.md) | High — CVSS 8.1 | — | 71 |
-| 197 | [430249](../reports/430249.md) | CORS Misconfiguration leading to Private Information Disclosure | [Ubiquiti Inc.](../by-program/ui.md) | High | — | 56 |
-| 198 | [2623715](../reports/2623715.md) | Sensitive data exposure: █████████ candidate resumes/CVs availabl | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 55 |
-| 199 | [1018368](../reports/1018368.md) | Add any depot to your app and access its contents without decrypt | [Valve](../by-program/valve.md) | High — CVSS 8.5 | — | 54 |
-| 200 | [275714](../reports/275714.md) | Subdomain takeover on developer.openapi.starbucks.com | [Starbucks](../by-program/starbucks.md) | High | — | 50 |
-| 201 | [1486310](../reports/1486310.md) | admin.8x8.vc: Member users with no permission can integrate email | [8x8](../by-program/8x8-bounty.md) | High — CVSS 8.3 | — | 48 |
-| 202 | [3445710](../reports/3445710.md) | Broken Access Control allows advertiser accounts to delete tracke | [Revive Adserver](../by-program/revive_adserver.md) | High — CVSS 7.1 | — | 45 |
-| 203 | [2212627](../reports/2212627.md) | Delete external storage of any user | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.5 | — | 43 |
-| 204 | [1025881](../reports/1025881.md) | Accessing/Editing Folders of Other Users in the Orginisation. | [Lark Technologies](../by-program/lark_technologies.md) | High — CVSS 7.1 | — | 42 |
-| 205 | [2575105](../reports/2575105.md) | Worker permission bypass via InternalWorker leak in diagnostics | [Node.js](../by-program/nodejs.md) | High — CVSS 7.7 | — | 42 |
-| 206 | [1098793](../reports/1098793.md) | Kroki Arbitrary File Read/Write  | [GitLab](../by-program/gitlab.md) | High | — | 41 |
-| 207 | [380158](../reports/380158.md) | svcardproxydevus.starbucks.com Subdomain take over | [Starbucks](../by-program/starbucks.md) | High | — | 39 |
-| 208 | [294201](../reports/294201.md) | subdomain takeover at news-static.semrush.com | [Semrush](../by-program/semrush.md) | High | — | 39 |
-| 209 | [1525309](../reports/1525309.md) | A malicious actor could rotate tokens of a victim, given that he  | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | High | — | 34 |
-| 210 | [538008](../reports/538008.md) | Add users to groups who have restricted group invites | [WordPress](../by-program/wordpress.md) | High | — | 32 |
-| 211 | [951230](../reports/951230.md) | Can buy Atavist Magazine subscription for free | [Automattic](../by-program/automattic.md) | High | — | 29 |
-| 212 | [474798](../reports/474798.md) | Subdomain takeover on healthyhackathon.khanacademy.org and hackwe | [Khan Academy](../by-program/khanacademy.md) | High | — | 28 |
-| 213 | [1169340](../reports/1169340.md) | Improper Access Control on Lark Footer Feature | [Lark Technologies](../by-program/lark_technologies.md) | High — CVSS 7.5 | — | 28 |
-| 214 | [1653676](../reports/1653676.md) | [MK8DX] Improper verification of Competition creation allows to c | [Nintendo](../by-program/nintendo.md) | High — CVSS 7.2 | — | 23 |
-| 215 | [2408480](../reports/2408480.md) | CVE-2021-39226 Discovered on endpoint https://██████/api/snapshot | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 23 |
-| 216 | [1248852](../reports/1248852.md) | Misuse of groups feature allows workspace members to join private | [Slack](../by-program/slack.md) | High — CVSS 7.1 | — | 23 |
-| 217 | [815547](../reports/815547.md) | Unauthorized updates to extended_info properties in /store/ajaxpa | [Valve](../by-program/valve.md) | High — CVSS 7.2 | — | 22 |
-| 218 | [788257](../reports/788257.md) | "Secure View" aka "Hide Download" can be bypassed easily | [Nextcloud](../by-program/nextcloud.md) | High | — | 22 |
-| 219 | [1218680](../reports/1218680.md) | Improper authorization on `/api/as/v1/credentials/` for  Dev Role | [Elastic](../by-program/elastic.md) | High | — | 21 |
-| 220 | [827816](../reports/827816.md) | Missing server side controls when editing the board’s sharing per | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 7.3 | — | 16 |
-| 221 | [1632921](../reports/1632921.md) | DNS rebinding in --inspect (insufficient fix of CVE-2022-32212 af | [Node.js](../by-program/nodejs.md) | High | — | 16 |
-| 222 | [858671](../reports/858671.md) | Insufficient Type Check on GraphQL leading to Maintainer delete r | [GitLab](../by-program/gitlab.md) | High | — | 15 |
-| 223 | [2082528](../reports/2082528.md) | Adobe ColdFusion - Access Control Bypass [CVE-2023-38205] at ████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 15 |
-| 224 | [416123](../reports/416123.md) | MemeCTF serial exploitation to local file read to Papertrail acce | [h1-5411-CTF](../by-program/h1-5411-ctf.md) | High | — | 15 |
-| 225 | [409237](../reports/409237.md) | Broken Authentication | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 15 |
-| 226 | [2518407](../reports/2518407.md) | CVE-2023-26347 in https://████.mil/hax/..CFIDE/adminapi/administr | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 14 |
-| 227 | [2442229](../reports/2442229.md) | Missing Access Control Allows for User Creation and Privilege Esc | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 13 |
-| 228 | [1168528](../reports/1168528.md) | Improper authorization on `/api/as/v1/credentials/` allows any Ap | [Elastic](../by-program/elastic.md) | High — CVSS 8.8 | — | 13 |
-| 229 | [915541](../reports/915541.md) | Cross-Site WebSocket Hijacking Lead to Steal XSRF-TOKEN | [Stripo Inc](../by-program/stripo.md) | High | — | 13 |
-| 230 | [255651](../reports/255651.md) | Unauthorized update of merchants' information via /php/merchant_d | [Eternal](../by-program/eternal.md) | High | — | 13 |
-| 231 | [247158](../reports/247158.md) | Bypass OTP verification when placing Order | [Eternal](../by-program/eternal.md) | High | — | 13 |
-| 232 | [972243](../reports/972243.md) | Add apps to packages 0, 61, 62 with /store/ajaxpackagemerge | [Valve](../by-program/valve.md) | High | — | 12 |
-| 233 | [522876](../reports/522876.md) | In Dockerized Environments, Failing to Read config.php Grants Any | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.7 | — | 11 |
-| 234 | [2086301](../reports/2086301.md) | Permanent CASB Integration Takeover due to Improper Access Contro | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | High — CVSS 7.9 | — | 11 |
-| 235 | [1690548](../reports/1690548.md) | Authentication bypass leads to Information Disclosure at  U.S Air | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 10 |
-| 236 | [837510](../reports/837510.md) | Create an account on auth-sandbox.elastic.co with email @elastic. | [Elastic](../by-program/elastic.md) | High | — | 10 |
-| 237 | [1714767](../reports/1714767.md) | Upload and delete files in debug page without access control. | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 10 |
-| 238 | [1329792](../reports/1329792.md) | AWS subdomain takeover of www.███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 10 |
-| 239 | [2248781](../reports/2248781.md) | Unauthenticated File Read Adobe ColdFusion | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 10 |
-| 240 | [462442](../reports/462442.md) | Unauthorized access of Monero wallet by an unprivileged process | [Monero](../by-program/monero.md) | High | — | 10 |
-| 241 | [1937235](../reports/1937235.md) | LDAP Server NULL Bind Connection Information Disclosure | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 9 |
-| 242 | [455726](../reports/455726.md) | Thailand - SNMP Publicly Accessible | [Starbucks](../by-program/starbucks.md) | High | — | 9 |
-| 243 | [1624374](../reports/1624374.md) | Broken access discloses users and PII at https://███████ [HtUS] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 8 |
-| 244 | [1061591](../reports/1061591.md) | Acting under any different user via DB-stored credentials | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.7 | — | 8 |
-| 245 | [223434](../reports/223434.md) | Improper access control when an added email address is deleted fr | [Weblate](../by-program/weblate.md) | High | — | 7 |
-| 246 | [869450](../reports/869450.md) | Support incident can be opened for any user via /███████ and PII  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 6 |
-| 247 | [648222](../reports/648222.md) | [██████████] Unauthorized access to admin panel | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 6 |
-| 248 | [790786](../reports/790786.md) | Members from parent group keep their access level on a subgroup t | [GitLab](../by-program/gitlab.md) | High — CVSS 7.6 | — | 5 |
-| 249 | [953866](../reports/953866.md) | Unauthorized Access and updation of EMAIL settings of other user  | [Dropcontact](../by-program/dropcontact.md) | High | — | 4 |
-| 250 | [1566462](../reports/1566462.md) | error parse uri path in curl | [curl](../by-program/curl.md) | High | — | 4 |
-| 251 | [418267](../reports/418267.md) | Bypass Email activation on http://axa.dxi.eu | [8x8](../by-program/8x8-bounty.md) | High | — | 4 |
-| 252 | [1271710](../reports/1271710.md) | Broken Authentication and Session Management lead to take over ac | [Phabricator](../by-program/phabricator.md) | High | — | 4 |
-| 253 | [247225](../reports/247225.md) | Session Duplication due to Broken Access Control | [WakaTime](../by-program/wakatime.md) | High | — | 3 |
-| 254 | [745171](../reports/745171.md) | Unprotected ██████ and Test site API Exposes Documents, Credentia | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 3 |
-| 255 | [460121](../reports/460121.md) | Publicly editable GitHub wikis | [Liberapay](../by-program/liberapay.md) | High | — | 2 |
-| 256 | [1457471](../reports/1457471.md) | Limited Privilege User Can Create Unauthorized Referrals on partn | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.3 | — | 176 |
-| 257 | [667739](../reports/667739.md) | Previously created sessions continue being valid after MFA activa | [Superhuman (formerly Grammarly)](../by-program/superhuman.md) | Medium | — | 172 |
-| 258 | [642515](../reports/642515.md) | User can delete data in shared folders he's not autorized to acce | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 172 |
-| 259 | [1577940](../reports/1577940.md) | Banned user still has access to their deleted account via HackerO | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 144 |
-| 260 | [273099](../reports/273099.md) | User with removed manage shops permissions is still able to make  | [Shopify](../by-program/shopify.md) | Medium | — | 144 |
-| 261 | [1257428](../reports/1257428.md) | Create free Shopify application credits. | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.6 | — | 133 |
-| 262 | [2965723](../reports/2965723.md) | Ability to access policy and updates for unauthorized program | [HackerOne](../by-program/security.md) | Medium — CVSS 5.3 | — | 122 |
-| 263 | [258117](../reports/258117.md) | RCE/LFI on test Jenkins instance due to improper authentication f | [Snapchat](../by-program/snapchat.md) | Medium | — | 116 |
-| 264 | [2139190](../reports/2139190.md) | IDOR: Authorization Bypass in LockReport Mutation for public repo | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 111 |
-| 265 | [2891449](../reports/2891449.md) | Object Level access control leads to reading user's full requests | [Yelp](../by-program/yelp.md) | Medium | — | 109 |
-| 266 | [1124974](../reports/1124974.md) | Attacker Can Access to any Ticket Support on https://www.devicelo | [Acronis](../by-program/acronis.md) | Medium | — | 107 |
-| 267 | [1959219](../reports/1959219.md) | Banned user still able to invited to reports as a collabrator and | [HackerOne](../by-program/security.md) | Medium — CVSS 6.4 | — | 102 |
-| 268 | [417360](../reports/417360.md) | Thailand - a small number of SMB CCTV footage backup servers were | [Starbucks](../by-program/starbucks.md) | Medium — CVSS 6.1 | — | 97 |
-| 269 | [1987011](../reports/1987011.md) | [Hubs] - Broken access control in placing objects in hubs room | [Mozilla](../by-program/mozilla.md) | Medium | — | 96 |
-| 270 | [3235855](../reports/3235855.md) | Improper Access Control - Access to "Active Hiring" (Premium  fea | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 4.3 | — | 94 |
-| 271 | [3356149](../reports/3356149.md) | 2FA requirement bypass when inviting team members | [Omise](../by-program/omise.md) | Medium — CVSS 6.4 | — | 94 |
-| 272 | [3114554](../reports/3114554.md) | Privilege Persistence via Cloned Agent | [Dust](../by-program/dust.md) | Medium | — | 90 |
-| 273 | [2040756](../reports/2040756.md) | An attacker can submit a Pentest Opportunity and change the statu | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 90 |
-| 274 | [1167453](../reports/1167453.md) | Add new development stores without permission | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.3 | — | 88 |
-| 275 | [2484635](../reports/2484635.md) | GitHub Apps can access suspended installations via scoped user-to | [GitHub](../by-program/github.md) | Medium | — | 88 |
-| 276 | [1694304](../reports/1694304.md) | Able to see Twitter Circle tweets due to improper access control  | [X / xAI](../by-program/x.md) | Medium | — | 88 |
-| 277 | [687908](../reports/687908.md) | Found Origin IP's Lead To Access To [ Grafana Instance , PgHero I | [Omise](../by-program/omise.md) | Medium | — | 86 |
-| 278 | [1868473](../reports/1868473.md) | Scope information is leaked when visiting policy scopes tab of an | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 85 |
-| 279 | [2682079](../reports/2682079.md) | Publicly Editable U.S. Air Force Google Spreadsheet Exposing Stud | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 83 |
-| 280 | [2140960](../reports/2140960.md) | Ability to see hidden likes | [X / xAI](../by-program/x.md) | Medium | — | 80 |
-| 281 | [2299571](../reports/2299571.md) | Employee-only Area Bypass | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 5.3 | — | 74 |
-| 282 | [1011767](../reports/1011767.md) | X-Forward-For Header allows to bypass access restrictions | [Yelp](../by-program/yelp.md) | Medium — CVSS 6.1 | — | 72 |
-| 283 | [2498255](../reports/2498255.md) | S3 Bucket Takeover on apptio endpoint | [IBM](../by-program/ibm.md) | Medium | — | 71 |
-| 284 | [736283](../reports/736283.md) | open Firebase Database: msdict-dev.firebaseio.com | [MobiSystems Ltd.](../by-program/mobisystems_ltd.md) | Medium — CVSS 6.1 | — | 69 |
-| 285 | [2469713](../reports/2469713.md) | View private repository NWO of deploy key via internal LFS API | [GitHub](../by-program/github.md) | Medium | — | 68 |
-| 286 | [2319586](../reports/2319586.md) | Broken Access Control(Horizontal Privilege Escalation). | [MTN Group](../by-program/mtn_group.md) | Medium — CVSS 6.5 | — | 67 |
-| 287 | [2376929](../reports/2376929.md) | ID4me feature of OpenID connect app available even when disabled  | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.3 | — | 65 |
-| 288 | [614355](../reports/614355.md) | GraphQL query "namespace" leaks data | [GitLab](../by-program/gitlab.md) | Medium — CVSS 5.3 | — | 64 |
-| 289 | [3370430](../reports/3370430.md) | Users can change project visibility which requires high subscript | [Lovable VDP](../by-program/lovable-vdp.md) | Medium | — | 63 |
-| 290 | [2431495](../reports/2431495.md) | "package_name" can be set as desired when submitting a Pentest Op | [HackerOne](../by-program/security.md) | Medium — CVSS 5.2 | — | 62 |
-| 291 | [1318936](../reports/1318936.md) | Registration Information Leakage  | [Adobe](../by-program/adobe.md) | Medium — CVSS 5.3 | — | 58 |
-| 292 | [3522254](../reports/3522254.md) | PATs without the required scope can leak issues | [GitHub](../by-program/github.md) | Medium | — | 57 |
-| 293 | [1820953](../reports/1820953.md) | Non-store owners can transfer Shopify-managed domain to another d | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.4 | — | 55 |
-| 294 | [1690427](../reports/1690427.md) | Managing Pages  | [GitHub](../by-program/github.md) | Medium | — | 54 |
-| 295 | [3101986](../reports/3101986.md) | UI flaw allows unauthorized users to add documents to restricted  | [Dust](../by-program/dust.md) | Medium | — | 53 |
-| 296 | [2203432](../reports/2203432.md) | Organization members can delete reports in teams they have no acc | [HackerOne](../by-program/security.md) | Medium — CVSS 6.7 | — | 53 |
-| 297 | [756182](../reports/756182.md) | Potential leak of server side software at repogohi.nordvpn.com | [Nord Security](../by-program/nordsecurity.md) | Medium | — | 52 |
-| 298 | [2339192](../reports/2339192.md) | Blocking a company page admin prevents him from delete paid media | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 4.3 | — | 51 |
-| 299 | [273557](../reports/273557.md) | ability to install paid themes for free | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.6 | — | 50 |
-| 300 | [3101858](../reports/3101858.md) | Unauthorized Table Creation by Member | [Dust](../by-program/dust.md) | Medium | — | 49 |
-| 301 | [423496](../reports/423496.md) | H1514 Bypass Wholesale account signup restrictions | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.3 | — | 48 |
-| 302 | [634679](../reports/634679.md) | Custom Field Attributes may be created and updated for customers  | [HackerOne](../by-program/security.md) | Medium — CVSS 5.2 | — | 47 |
-| 303 | [501084](../reports/501084.md) | Upload of Avatars for other Users | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 4.3 | — | 47 |
-| 304 | [2679108](../reports/2679108.md) | Bypass comment restriction | [HackerOne](../by-program/security.md) | Medium — CVSS 5.3 | — | 46 |
-| 305 | [2764952](../reports/2764952.md) | Unauthenticated phpinfo()files could lead to ability file read at | [MTN Group](../by-program/mtn_group.md) | Medium | — | 43 |
-| 306 | [1851818](../reports/1851818.md) | Member role which doesn't have permission to send message can sen | [Mattermost](../by-program/mattermost.md) | Medium — CVSS 4.3 | — | 41 |
-| 307 | [2247457](../reports/2247457.md) | Can download files by zipping the folder | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.1 | — | 40 |
-| 308 | [1618021](../reports/1618021.md) | Enable 2Fa verification without verifying email | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | Medium — CVSS 4.2 | — | 39 |
-| 309 | [1948506](../reports/1948506.md) | Improper Access Control allows OTP bypass | [Lark Technologies](../by-program/lark_technologies.md) | Medium | — | 38 |
-| 310 | [1066790](../reports/1066790.md) | Internal API endpoint is accesible for everyone | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | Medium | — | 38 |
-| 311 | [3589551](../reports/3589551.md) | RBAC bypass on App log endpoints via `permissionRequired` typo —  | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 6.5 | — | 37 |
-| 312 | [526570](../reports/526570.md) | Bypassing push rules via MRs created by Email | [GitLab](../by-program/gitlab.md) | Medium | — | 36 |
-| 313 | [764243](../reports/764243.md) | API - Amazon S3 bucket misconfiguration | [BCM Messenger](../by-program/bcm.md) | Medium | — | 35 |
-| 314 | [1394982](../reports/1394982.md) | Unathorised access to admin endpoint on plus-website-staging5.sho | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.6 | — | 35 |
-| 315 | [254211](../reports/254211.md) | [www.zomato.com/dubai/gold] CRITICAL - Allowing arbitrary amount  | [Eternal](../by-program/eternal.md) | Medium | — | 34 |
-| 316 | [360825](../reports/360825.md) | Origin IP found, Cloudflare bypassed | [Liberapay](../by-program/liberapay.md) | Medium | — | 34 |
-| 317 | [425314](../reports/425314.md) | API request signature can be reused with other parameters/data th | [Gatecoin](../by-program/gatecoin.md) | Medium — CVSS 5.3 | — | 33 |
-| 318 | [2855610](../reports/2855610.md) | Staff with Restricted Permissions Could Access Customer Data Afte | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.2 | — | 32 |
-| 319 | [1085042](../reports/1085042.md) | [h1-2102] Improper Access Control at https://shopify.plus/[id]/us | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.3 | — | 32 |
-| 320 | [1167753](../reports/1167753.md) | Add new managed stores without permission | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.3 | — | 32 |
-| 321 | [2081744](../reports/2081744.md) | Deny Admin from Editing LinkedIn Company Page using Gen Form Visi | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 5.3 | — | 32 |
-| 322 | [2492631](../reports/2492631.md) | Reset the 2FA of the user which can lead to Account Takeover | [HackerOne](../by-program/security.md) | Medium — CVSS 6.6 | — | 31 |
-| 323 | [707748](../reports/707748.md) | Subdomain takeover on mta1a1.spmail.uber.com | [Uber](../by-program/uber.md) | Medium | — | 30 |
-| 324 | [1084638](../reports/1084638.md) | [h1-2102] Improper Access Control at https://shopify.plus/[id]/us | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.3 | — | 30 |
-| 325 | [1538004](../reports/1538004.md) | Read-only administrator can change agent update settings | [Acronis](../by-program/acronis.md) | Medium — CVSS 5.0 | — | 29 |
-| 326 | [698708](../reports/698708.md) | Bypass report #416983 - Removed Staff members who had "Apps" perm | [Shopify](../by-program/shopify.md) | Medium | — | 28 |
-| 327 | [1004007](../reports/1004007.md) | ..; bypass leading to  tomcat scripts [Unauthenticated] | [Informatica](../by-program/informatica.md) | Medium | — | 27 |
-| 328 | [777942](../reports/777942.md) | Unrestricted access to any "connected pack" on docs | [Superhuman (formerly Grammarly)](../by-program/superhuman.md) | Medium — CVSS 4.3 | — | 27 |
-| 329 | [1021460](../reports/1021460.md) | Privilege Escalation to All-staff group | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 4.2 | — | 26 |
-| 330 | [920357](../reports/920357.md) | Captcha checker "pd-captcha_form_SURVEYID" cookie is accepting an | [Automattic](../by-program/automattic.md) | Medium | — | 26 |
-| 331 | [1521336](../reports/1521336.md) | Staff can create workflows in Shopify Admin without apps permissi | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.2 | — | 25 |
-| 332 | [2088808](../reports/2088808.md) | Disavowed an email without any authentication | [Liberapay](../by-program/liberapay.md) | Medium | — | 23 |
-| 333 | [2180018](../reports/2180018.md) | Information Disclosure FrontPage Configuration Information | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 23 |
-| 334 | [1609955](../reports/1609955.md) | Improper Access Control in Ali Express Importer | [Judge.me ](../by-program/judgeme.md) | Medium — CVSS 5.0 | — | 21 |
-| 335 | [2805173](../reports/2805173.md) | A potential risk in the cloudFrontExtensionsConsole which can be  | [AWS VDP](../by-program/aws_vdp.md) | Medium — CVSS 6.5 | — | 21 |
-| 336 | [804534](../reports/804534.md) | Access to private file's of helpdesk. | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 4.3 | — | 21 |
-| 337 | [2257156](../reports/2257156.md) | Improper handling of wildcards in --allow-fs-read and --allow-fs- | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.0 | — | 20 |
-| 338 | [845677](../reports/845677.md) | Sourcemaps and Unminified Source Code Exposed on Pages | [Imgur](../by-program/imgur.md) | Medium | — | 19 |
-| 339 | [1791558](../reports/1791558.md) | S3 Bucket Takeover : brave-apt | [Brave Software](../by-program/brave.md) | Medium | — | 19 |
-| 340 | [1290170](../reports/1290170.md) | Access to images and videos in drafts on LINE BLOG | [LY Corporation](../by-program/line.md) | Medium | — | 19 |
-| 341 | [768110](../reports/768110.md) | Race condition (TOCTOU) in NordVPN can result in local privilege  | [Nord Security](../by-program/nordsecurity.md) | Medium — CVSS 4.5 | — | 18 |
-| 342 | [355859](../reports/355859.md) | CRITICAL-CLICKJACKING at Yelp Reservations Resulting in exposure  | [Yelp](../by-program/yelp.md) | Medium — CVSS 6.3 | — | 18 |
-| 343 | [1669176](../reports/1669176.md) | Unauthorized access | [GitLab](../by-program/gitlab.md) | Medium | — | 18 |
-| 344 | [1895976](../reports/1895976.md) | Users can set up workflows using restricted and invisible system  | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.5 | — | 17 |
-| 345 | [1850407](../reports/1850407.md) | Chat room member disclosure via autocomplete API | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.2 | — | 17 |
-| 346 | [1080700](../reports/1080700.md) | Viewer is able to leak the previous versions of the file | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 4.9 | — | 17 |
-| 347 | [1335070](../reports/1335070.md) | Removed user can still view comments on the file/documents. | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 4.3 | — | 17 |
-| 348 | [2289333](../reports/2289333.md) | see card comments after remove shared board | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 17 |
-| 349 | [1533220](../reports/1533220.md) | Ability to View Non-Permitted Admin Log | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 4.9 | — | 17 |
-| 350 | [1647287](../reports/1647287.md) | Disabling context isolation, nodeIntegrationInSubFrames using an  | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 16 |
-| 351 | [423286](../reports/423286.md) | Sidekiq web UI (Ruby background processing) accessible unauthenti | [Starbucks](../by-program/starbucks.md) | Medium | — | 16 |
-| 352 | [3589247](../reports/3589247.md) | Unauthenticated File Upload to CDN | [Enjin](../by-program/enjin.md) | Medium — CVSS 5.8 | — | 16 |
-| 353 | [1074420](../reports/1074420.md) | IDOR Allows Viewer to Delete Bin's Files | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 4.3 | — | 16 |
-| 354 | [1869184](../reports/1869184.md) | LDAP anonymous access enabled at certrep.pki.state.gov:389 | [U.S. Department of State](../by-program/us-department-of-state.md) | Medium — CVSS 5.3 | — | 16 |
-| 355 | [1094063](../reports/1094063.md) | Take over a mail account due missing validation of account id | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.4 | — | 15 |
-| 356 | [867052](../reports/867052.md) | Access Control: Inject tasks into other users decks | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.1 | — | 15 |
-| 357 | [310185](../reports/310185.md) | Removing a user from a private group doesn't remove him from grou | [GitLab](../by-program/gitlab.md) | Medium — CVSS 6.3 | — | 14 |
-| 358 | [1398706](../reports/1398706.md) | Google storage bucket takeover which is used to load JS file in d | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 5.3 | — | 14 |
-| 359 | [1095612](../reports/1095612.md) | Node Validation Admission does not observe all oldObject fields | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 6.5 | — | 14 |
-| 360 | [1005374](../reports/1005374.md) | CORS misconfiguration which leads to the disclosure  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 14 |
-| 361 | [761617](../reports/761617.md) | Information Disclosure FrontPage Configuration Information /_vti_ | [MTN Group](../by-program/mtn_group.md) | Medium | — | 13 |
-| 362 | [386351](../reports/386351.md) | Users may still able to view chat room panel of password protecte | [Chaturbate](../by-program/chaturbate.md) | Medium | — | 13 |
-| 363 | [1245529](../reports/1245529.md) | No Rate Limit On Forgot Password Page | [Acronis](../by-program/acronis.md) | Medium | — | 13 |
-| 364 | [748375](../reports/748375.md) | Transferring a public group to a private group doesn't remove cod | [GitLab](../by-program/gitlab.md) | Medium | — | 13 |
-| 365 | [1063164](../reports/1063164.md) | Unauthenticated clients can modify Livechat Business Hours | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 5.3 | — | 13 |
-| 366 | [1548067](../reports/1548067.md) | Unauthorized Access to Internal Server Panel without Authenticati | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 12 |
-| 367 | [1094702](../reports/1094702.md) | Theft of arbitrary files in LINE Lite client for Android | [LY Corporation](../by-program/line.md) | Medium — CVSS 4.3 | — | 12 |
-| 368 | [2247231](../reports/2247231.md) | Unauthorized access to Argo dashboard on █████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 12 |
-| 369 | [837256](../reports/837256.md) | Improper Access Control in Buddypress core allows reply,delete an | [WordPress](../by-program/wordpress.md) | Medium | — | 12 |
-| 370 | [3650504](../reports/3650504.md) | Missing access control when linking banners or campaigns to zones | [Revive Adserver](../by-program/revive_adserver.md) | Medium — CVSS 4.3 | — | 11 |
-| 371 | [761329](../reports/761329.md) | Update App Store: Django account high jacking vulnerability | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.5 | — | 11 |
-| 372 | [264090](../reports/264090.md) | 2FA bypass - confirmation tokens don't expire | [GSA Bounty](../by-program/gsa_bbp.md) | Medium — CVSS 4.8 | — | 10 |
-| 373 | [980876](../reports/980876.md) | [Fixed] KIS for macOS is vulnerable to AV bypass due to improper  | [Kaspersky](../by-program/kaspersky.md) | Medium | — | 10 |
-| 374 | [423546](../reports/423546.md) | H1514 Wholesale customer without checkout permission can complete | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.3 | — | 10 |
-| 375 | [273805](../reports/273805.md) | Improper access control lead  To delete anyone comment | [Paragon Initiative Enterprises](../by-program/paragonie.md) | Medium | — | 10 |
-| 376 | [1788222](../reports/1788222.md) | Document content of files can be obtained through Collabora for f | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.8 | — | 10 |
-| 377 | [673384](../reports/673384.md) | xmlrpc.php file enabled - data.gov | [GSA Bounty](../by-program/gsa_bbp.md) | Medium | — | 10 |
-| 378 | [3559715](../reports/3559715.md) | Node.js Permission Model bypass: UDS server bind/listen works wit | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.3 | — | 9 |
-| 379 | [1173598](../reports/1173598.md) | S3 bucket listing/download | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 9 |
-| 380 | [457009](../reports/457009.md) | Github wiki is editable by anyone | [MariaDB](../by-program/mariadb.md) | Medium | — | 9 |
-| 381 | [1808079](../reports/1808079.md) | Permissions not respected when copying entire group folders | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.5 | — | 9 |
-| 382 | [676976](../reports/676976.md) | Container scanning and Dependency scanning report leaked to unaut | [GitLab](../by-program/gitlab.md) | Medium | — | 9 |
-| 383 | [710006](../reports/710006.md) | Elasticsearch leaks data through the notes scope | [GitLab](../by-program/gitlab.md) | Medium | — | 8 |
-| 384 | [1804174](../reports/1804174.md) | Improper Access Control on Media Wiki allows an attackers to rest | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
-| 385 | [998981](../reports/998981.md) | {███} It is posible download all information and files via S3 Buc | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
-| 386 | [245340](../reports/245340.md) | Bypassing Access control, changing owner's name in a private lead | [WakaTime](../by-program/wakatime.md) | Medium | — | 8 |
-| 387 | [3650582](../reports/3650582.md) | Missing access control when linking trackers to campaigns | [Revive Adserver](../by-program/revive_adserver.md) | Medium — CVSS 4.3 | — | 8 |
-| 388 | [921717](../reports/921717.md) | Improper access control to messages of Social app | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.0 | — | 8 |
-| 389 | [1167767](../reports/1167767.md) | Unexpected federated shares added via public link | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 7 |
-| 390 | [1637577](../reports/1637577.md) | Found Origin IP's lead to access to gitlab | [GitLab](../by-program/gitlab.md) | Medium — CVSS 5.3 | — | 6 |
-| 391 | [1966492](../reports/1966492.md) | fs.openAsBlob() bypasses permission system | [Node.js](../by-program/nodejs.md) | Medium — CVSS 4.4 | — | 6 |
-| 392 | [819911](../reports/819911.md) | Knowledge Base Articles are Globally Modifiable via ██████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
-| 393 | [282176](../reports/282176.md) | Unauthenticated hidden groups disclosure via Ajax groups search | [WordPress](../by-program/wordpress.md) | Medium — CVSS 6.1 | — | 6 |
-| 394 | [3483708](../reports/3483708.md) | Valid share tokens allow to access tempory upload files of share  | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.3 | — | 5 |
-| 395 | [221948](../reports/221948.md) | The mailbox verification API interface is unlimited and can be us | [Phabricator](../by-program/phabricator.md) | Medium | — | 5 |
-| 396 | [1129996](../reports/1129996.md) | Create alias does not validate account id | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.0 | — | 5 |
-| 397 | [258573](../reports/258573.md) | Able to view Backend Database dur to improper authentication | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
-| 398 | [809212](../reports/809212.md) | No ACL on S3 Bucket in [https://www.██████████/] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
-| 399 | [1398617](../reports/1398617.md) | Broken Github Link Used in deployment docs of "github.com/kuberne | [Kubernetes](../by-program/kubernetes.md) | Medium | — | 4 |
-| 400 | [3783738](../reports/3783738.md) | XML‑RPC login leak exposes valid session ID enabling unauthorized | [Revive Adserver](../by-program/revive_adserver.md) | Medium — CVSS 4.3 | — | 4 |
-| 401 | [3572848](../reports/3572848.md) | Group restriction bypass via bearer token in user_oidc (SETTING_R | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.2 | — | 4 |
-| 402 | [661977](../reports/661977.md) | Github wikis are editable by anyone https://github.com/paragonie/ | [Paragon Initiative Enterprises](../by-program/paragonie.md) | Medium | — | 3 |
-| 403 | [923759](../reports/923759.md) | Edit Policy restriction does not prevent comments. | [Phabricator](../by-program/phabricator.md) | Medium | — | 3 |
-| 404 | [796557](../reports/796557.md) | Cross Origin Resource Sharing Misconfiguration | Lead to sensitiv | [Nord Security](../by-program/nordsecurity.md) | Medium | — | 2 |
-| 405 | [1003455](../reports/1003455.md) | Access to Unclassified / FOUO Advanced Motion Platform of ███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
-| 406 | [222660](../reports/222660.md) | The email API to test email-server settings is unlimited and can  | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 2 |
-| 407 | [3677576](../reports/3677576.md) | Missing access control when modifying parent entities via XML‑RPC | [Revive Adserver](../by-program/revive_adserver.md) | Medium — CVSS 4.3 | — | 2 |
-| 408 | [3678828](../reports/3678828.md) | Banner status override by advertiser‑level users | [Revive Adserver](../by-program/revive_adserver.md) | Medium — CVSS 4.3 | — | 2 |
-| 409 | [3656869](../reports/3656869.md) | Uppercase sni context matching can lead to mtls authorization byp | [Node.js](../by-program/nodejs.md) | Medium — CVSS 4.2 | — | 1 |
-| 410 | [3656716](../reports/3656716.md) | Embedded-nul hostnames can lead to silent authority rebinding due | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.6 | — | 1 |
-| 411 | [885539](../reports/885539.md) | Private list members disclosure via GraphQL | [X / xAI](../by-program/x.md) | Low | — | 343 |
-| 412 | [2530242](../reports/2530242.md) | [ Spot Check ] Team members can edit a user's write-up | [HackerOne](../by-program/security.md) | Low — CVSS 2.7 | — | 147 |
-| 413 | [745495](../reports/745495.md) | Unauthenticated users can access all food.grammarly.io user's dat | [Superhuman (formerly Grammarly)](../by-program/superhuman.md) | Low — CVSS 3.9 | — | 138 |
-| 414 | [3378540](../reports/3378540.md) | Lack of Validation in Reward Redemption Allows Unlimited Burp Sui | [HackerOne](../by-program/security.md) | Low — CVSS 2.1 | — | 113 |
-| 415 | [3119034](../reports/3119034.md) | Facebook Username Takeover via Broken Link in Footer | [Omise](../by-program/omise.md) | Low | — | 108 |
-| 416 | [3151001](../reports/3151001.md) | Previous commentor on post can still comment even after comment p | [LinkedIn](../by-program/linkedin.md) | Low — CVSS 3.1 | — | 108 |
-| 417 | [2286745](../reports/2286745.md) | Authentication Bypass on TikTok Seller Signup Process Allows Acco | [TikTok](../by-program/tiktok.md) | Low | — | 84 |
-| 418 | [2323303](../reports/2323303.md) | Program admins could add verified domains to an organization | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | — | 79 |
-| 419 | [1918362](../reports/1918362.md) | Any one can view collaborater email address via  path /reports/<i | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | — | 78 |
-| 420 | [2396549](../reports/2396549.md) | Privilege Escalation - A Non Owner User Who Does not Have access  | [Yelp](../by-program/yelp.md) | Low | — | 74 |
-| 421 | [2632876](../reports/2632876.md) | Access to limited confidential information of private program as  | [HackerOne](../by-program/security.md) | Low — CVSS 3.1 | — | 74 |
-| 422 | [220445](../reports/220445.md) | Race condition leads to duplicate payouts | [HackerOne](../by-program/security.md) | Low — CVSS 3.1 | — | 72 |
-| 423 | [3016540](../reports/3016540.md) | Enable 2FA without verifying the email | [XVIDEOS](../by-program/xvideos.md) | Low | — | 66 |
-| 424 | [490782](../reports/490782.md) | Mssing Authorization on Private Message replies (BuddyPress) | [WordPress](../by-program/wordpress.md) | Low | — | 66 |
-| 425 | [2396571](../reports/2396571.md) | Privilege Escalation - A Low Privilege User who does not have acc | [Yelp](../by-program/yelp.md) | Low | — | 59 |
-| 426 | [947728](../reports/947728.md) | staff can able to extend shopify trial period without admin permi | [Shopify](../by-program/shopify.md) | Low | — | 56 |
-| 427 | [3114132](../reports/3114132.md) | Broken Access Control Exposes Email Verification Status and Priva | [WakaTime](../by-program/wakatime.md) | Low | — | 55 |
-| 428 | [2383486](../reports/2383486.md) | Insecure S3 Bucket Exposing Git Directory in Mozilla Foundation I | [Mozilla](../by-program/mozilla.md) | Low | — | 55 |
-| 429 | [1298902](../reports/1298902.md) | Outsider can affect Upvote Percentage of private subreddit post b | [Reddit](../by-program/reddit.md) | Low — CVSS 3.8 | — | 51 |
-| 430 | [1084865](../reports/1084865.md) | [h1-2102] [Oberlo] Least privileged user can cancel account owner | [Shopify](../by-program/shopify.md) | Low — CVSS 3.6 | — | 50 |
-| 431 | [2279010](../reports/2279010.md) | A user with only [MODIFY_SETTINGS] permmision could takeover any  | [PortSwigger Web Security](../by-program/portswigger.md) | Low | — | 49 |
-| 432 | [2149124](../reports/2149124.md) | PATCH method manipulation allowing the users to escalate their fu | [Frontegg](../by-program/frontegg.md) | Low — CVSS 3.4 | — | 48 |
-| 433 | [1312365](../reports/1312365.md) | Subdomain takeover due to non registered TLD [ ██████████.█████.█ | [Affirm](../by-program/affirm.md) | Low | — | 48 |
-| 434 | [769058](../reports/769058.md) | CORS misconfiguration which leads to the disclosure of certain da | [Semrush](../by-program/semrush.md) | Low | — | 45 |
-| 435 | [472026](../reports/472026.md) | The auto login link does not expire on changing email id | [Chaturbate](../by-program/chaturbate.md) | Low | — | 45 |
-| 436 | [2354888](../reports/2354888.md) | unsubscribe anyone from all ████████ emails @ █████ | [Mars](../by-program/mars.md) | Low | — | 44 |
-| 437 | [2925666](../reports/2925666.md) | Blind SSRF Vulnerability in Appstore Release Upload Form | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.9 | — | 42 |
-| 438 | [460815](../reports/460815.md) | Milestones leaked via search API | [GitLab](../by-program/gitlab.md) | Low | — | 42 |
-| 439 | [2258950](../reports/2258950.md) | Timeline API returns private post when target of a push notificat | [Automattic](../by-program/automattic.md) | Low | — | 37 |
-| 440 | [1183296](../reports/1183296.md) | Subdomain Takeover At the Main Domain Of Your Site  | [Sifchain](../by-program/sifchain.md) | Low | — | 37 |
-| 441 | [1121896](../reports/1121896.md) | Verifying email bypass | [Stripe](../by-program/stripe.md) | Low | — | 35 |
-| 442 | [3325582](../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /delete-to | [Mozilla](../by-program/mozilla.md) | Low | — | 35 |
-| 443 | [3390084](../reports/3390084.md) | fs.futimes() Bypasses Read-Only Permission Model | [Node.js](../by-program/nodejs.md) | Low — CVSS 2.8 | — | 33 |
-| 444 | [368119](../reports/368119.md) | [engineering.udemy.com] - Subdomain Takeover (ghost.io) | [Udemy](../by-program/udemy.md) | Low | — | 33 |
-| 445 | [2144868](../reports/2144868.md) | CVE-2023-40611: Apache Airflow Dag Runs Broken Access Control Vul | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 32 |
-| 446 | [2569993](../reports/2569993.md) | Reports submitted by a non 2fa setupped user account can be trans | [HackerOne](../by-program/security.md) | Low — CVSS 2.7 | — | 31 |
-| 447 | [818848](../reports/818848.md) | Read-only team members can read all properties of webhooks | [HackerOne](../by-program/security.md) | Low | — | 30 |
-| 448 | [1486820](../reports/1486820.md) | Invitation Email is resent as a Reminder after invalidating pendi | [Mattermost](../by-program/mattermost.md) | Low — CVSS 2.6 | — | 30 |
-| 449 | [1137218](../reports/1137218.md) | Access control issue on invoice documents downloading feature. | [Moneybird](../by-program/moneybird.md) | Low — CVSS 3.4 | — | 29 |
-| 450 | [986679](../reports/986679.md) | Debugging panel exposure | [LY Corporation](../by-program/line.md) | Low | — | 29 |
-| 451 | [1305432](../reports/1305432.md) | Bot setting information leakage in OpenChat room | [LY Corporation](../by-program/line.md) | Low | — | 29 |
-| 452 | [1784645](../reports/1784645.md) | Passcode bypass on Talk Android app | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.5 | — | 29 |
-| 453 | [540711](../reports/540711.md) | Access Projects And create projects in gitlab pre production serv | [GitLab](../by-program/gitlab.md) | Low | — | 28 |
-| 454 | [772886](../reports/772886.md) | Password Reset Link Works Multiple Times | [Nord Security](../by-program/nordsecurity.md) | Low | — | 26 |
-| 455 | [608656](../reports/608656.md) | Disabled account can still use GraphQL endpoint | [HackerOne](../by-program/security.md) | Low — CVSS 2.9 | — | 24 |
-| 456 | [1670304](../reports/1670304.md) | Card requirement bypass for business trial | [Krisp](../by-program/krisp.md) | Low | — | 22 |
-| 457 | [452920](../reports/452920.md) | Import of repositories from GitHub is tied to username instead of | [Liberapay](../by-program/liberapay.md) | Low | — | 22 |
-| 458 | [278151](../reports/278151.md) | Content Spoofing @ https://irclogs.wordpress.org/ | [WordPress](../by-program/wordpress.md) | Low | — | 22 |
-| 459 | [955286](../reports/955286.md) | Graphql: Sorting the reports by jira_status field resulted to dif | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | — | 20 |
-| 460 | [2472071](../reports/2472071.md) | fs.fchown/fchmod bypasses permission model | [Node.js](../by-program/nodejs.md) | Low — CVSS 3.3 | — | 20 |
-| 461 | [1222873](../reports/1222873.md) | Sensitive files/ data exists  post deletion of user account | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.1 | — | 20 |
-| 462 | [1847368](../reports/1847368.md) | Full Passcode bypass on Nextcloud App iOS | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 1.8 | — | 20 |
-| 463 | [1525578](../reports/1525578.md) | Github Account Takeover which is used as gradle vcs in "github.co | [Palantir Public](../by-program/palantir_public.md) | Low | — | 19 |
-| 464 | [1596459](../reports/1596459.md) | Talk Android broadcast receiver is not protected by broadcastPerm | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.6 | — | 19 |
-| 465 | [394332](../reports/394332.md) | [Клевер/Android] Небезопасный BroadcastReceiver позволяет создава | [VK.com](../by-program/vkcom.md) | Low | — | 18 |
-| 466 | [2078707](../reports/2078707.md) | Exposing Django Debug Panel and Sensitive Infrastructure Informat | [Mozilla](../by-program/mozilla.md) | Low — CVSS 3.7 | — | 17 |
-| 467 | [1439355](../reports/1439355.md) | Github base action takeover which is used in `github.com/Shopify/ | [Shopify](../by-program/shopify.md) | Low — CVSS 3.6 | — | 16 |
-| 468 | [1370749](../reports/1370749.md) | After changing the storefront password, the preview link is still | [Shopify](../by-program/shopify.md) | Low — CVSS 3.7 | — | 16 |
-| 469 | [1434967](../reports/1434967.md) | Github Account Takeover from Docs page of `kubernetes-csi.github. | [Kubernetes](../by-program/kubernetes.md) | Low | — | 15 |
-| 470 | [1587246](../reports/1587246.md) | Improper access control on Linkedin Page | [LinkedIn](../by-program/linkedin.md) | Low — CVSS 2.7 | — | 13 |
-| 471 | [1331361](../reports/1331361.md) | Broken Link Hijacking on kubernetes.io Documentation | [Kubernetes](../by-program/kubernetes.md) | Low | — | 12 |
-| 472 | [372452](../reports/372452.md) | CORS on (ws.infogram.com) | [Infogram](../by-program/infogram.md) | Low | — | 12 |
-| 473 | [507172](../reports/507172.md) | Able to bypass "Device credentials" Lock | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.8 | — | 12 |
-| 474 | [1745755](../reports/1745755.md) | Hide download previews are accessible without a watermark | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.3 | — | 11 |
-| 475 | [1494308](../reports/1494308.md) | Waitlist bypass for accessing SIGN.PLUS Beta | [Alohi](../by-program/alohi.md) | Low | — | 11 |
-| 476 | [1455987](../reports/1455987.md) | Improper Implementation of SDK Allows Universal XSS in Webview Le | [EXNESS](../by-program/exness.md) | Low | — | 11 |
-| 477 | [667408](../reports/667408.md) | Head pipeline leaked to unauthorized users via blocking merge req | [GitLab](../by-program/gitlab.md) | Low — CVSS 3.5 | — | 11 |
-| 478 | [439021](../reports/439021.md) | Web cache deception attack - expose earning state information | [Semrush](../by-program/semrush.md) | Low — CVSS 3.1 | — | 10 |
-| 479 | [1167958](../reports/1167958.md) | Nextcloud deck sharee search leaks searches to lookupserver by de | [Nextcloud](../by-program/nextcloud.md) | Low | — | 9 |
-| 480 | [1767771](../reports/1767771.md) | Able to take over .zyrosite.com subdomains via `/v3/publish/conne | [hostinger ](../by-program/hostinger.md) | Low | — | 9 |
-| 481 | [3521434](../reports/3521434.md) | View-only guests could see deleted Collectives pages in the trash | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.6 | — | 9 |
-| 482 | [473690](../reports/473690.md) | доступ к com.vk.usersstore.UsersContentProvider, возможна утечка  | [VK.com](../by-program/vkcom.md) | Low | — | 9 |
-| 483 | [3692858](../reports/3692858.md) | Permission Model Bypass via `process.report.writeReport()` Path M | [Node.js](../by-program/nodejs.md) | Low — CVSS 1.8 | — | 8 |
-| 484 | [2051224](../reports/2051224.md) | fs.statfs bypasses Permission Model | [Node.js](../by-program/nodejs.md) | Low — CVSS 3.3 | — | 8 |
-| 485 | [331302](../reports/331302.md) | Improper protection of FileContentProvider | [Nextcloud](../by-program/nextcloud.md) | Low | — | 7 |
-| 486 | [888261](../reports/888261.md) | The password of a mail share is not set if the password is given  | [Nextcloud](../by-program/nextcloud.md) | Low | — | 7 |
-| 487 | [1167919](../reports/1167919.md) | Default Nextcloud server config and iOS Nextcloud client leak sha | [Nextcloud](../by-program/nextcloud.md) | Low | — | 7 |
-| 488 | [358339](../reports/358339.md) | File access control rules not enforced on image files | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 7 |
-| 489 | [1398572](../reports/1398572.md) | Broken Link Takeover from kubernetes.io docs | [Kubernetes](../by-program/kubernetes.md) | Low | — | 6 |
-| 490 | [545052](../reports/545052.md) | Github wikis are editable by anyone #Githubwikistakeover | [curl](../by-program/curl.md) | Low | — | 6 |
-| 491 | [3449392](../reports/3449392.md) | CVE-2024-36137 Patch Bypass - FileHandle.chmod/chown | [Node.js](../by-program/nodejs.md) | Low — CVSS 3.3 | — | 6 |
-| 492 | [1283871](../reports/1283871.md) | Bypass of the installation sandbox by injecting keystrokes with T | [Homebrew](../by-program/homebrew.md) | Low — CVSS 2.0 | — | 5 |
-| 493 | [224095](../reports/224095.md) | password reset email spamming | [ownCloud](../by-program/owncloud.md) | Low | — | 4 |
-| 494 | [222080](../reports/222080.md) | The email API to reset password is unlimited and can be used as a | [Nextcloud](../by-program/nextcloud.md) | Low | — | 3 |
-| 495 | [739858](../reports/739858.md) | Able to download any hosted content on AWS S3 bucket(stripo) | [Stripo Inc](../by-program/stripo.md) | Low | — | 3 |
-| 496 | [3618831](../reports/3618831.md) | Unix domain socket server bypasses --permission network restricti | [Node.js](../by-program/nodejs.md) | Low — CVSS 3.3 | — | 1 |
-| 497 | [293490](../reports/293490.md) | [www.zomato.com] Leaking Email Addresses of merchants via reset p | [Eternal](../by-program/eternal.md) | None | — | 111 |
-| 498 | [2425873](../reports/2425873.md) | [Monero wallet RPC] File precreation to file ownership and creden | [Monero](../by-program/monero.md) | None | — | 75 |
-| 499 | [2567048](../reports/2567048.md) | Possible Subdomain Takeover For Inbound Emails | [Smule](../by-program/smule.md) | None | — | 47 |
-| 500 | [3097900](../reports/3097900.md) | `/names.nsf` and all `/names*` files route to public API on rubyg | [RubyGems](../by-program/rubygems.md) | None | — | 46 |
-| 501 | [2921905](../reports/2921905.md) | WAF bypass and java script incomplete handling of Unicode charact | [Doppler](../by-program/doppler.md) | None | — | 33 |
-| 502 | [271407](../reports/271407.md) | Admin Access to a domain used for development and admin access to | [Eternal](../by-program/eternal.md) | None | — | 31 |
-| 503 | [330135](../reports/330135.md) | S3 bucket unnecessarily discloses permissions | [Udemy](../by-program/udemy.md) | None | — | 27 |
-| 504 | [2543342](../reports/2543342.md) | Bypassing Two-Factor Authentication via Account Deactivation and  | [HackerOne](../by-program/security.md) | None | — | 27 |
-| 505 | [1835133](../reports/1835133.md) | S3 Bucket Takeover  "brave-browser-rpm-staging-release-test" | [Brave Software](../by-program/brave.md) | None | — | 24 |
-| 506 | [968742](../reports/968742.md) | Password reset by malicious input on air.line.me | [LY Corporation](../by-program/line.md) | None | — | 23 |
-| 507 | [1654145](../reports/1654145.md) | Open S3 Bucket Accessible by any Aws User | [GoCD](../by-program/gocd.md) | None | — | 19 |
-| 508 | [898841](../reports/898841.md) | Password reset link not expired at Stocky App | [Shopify](../by-program/shopify.md) | None | — | 19 |
-| 509 | [1911568](../reports/1911568.md) | Unauthenticated cache purging | [Fastly VDP](../by-program/fastly-vdp.md) | None | — | 16 |
-| 510 | [3650443](../reports/3650443.md) | no_proxy IDN mismatch: Unicode hostnames bypass proxy exclusion l | [curl](../by-program/curl.md) | None | — | 15 |
-| 511 | [1668258](../reports/1668258.md) | Reentrancy attack in eth-monero atomic swap | [Monero](../by-program/monero.md) | None | — | 15 |
-| 512 | [417453](../reports/417453.md) | Cross-origin resource sharing: arbitrary origin trusted on chatws | [Chaturbate](../by-program/chaturbate.md) | None | — | 13 |
-| 513 | [246838](../reports/246838.md) | by pass rate limit exceed  | [WakaTime](../by-program/wakatime.md) | None | — | 11 |
-| 514 | [895202](../reports/895202.md) | [H1-2006 2020] Multiple vulnerabilities allow to leak sensitive i | [h1-ctf](../by-program/h1-ctf.md) | None | — | 11 |
-| 515 | [260632](../reports/260632.md) | Improper validation of parameters while creating issues | [Legal Robot](../by-program/legalrobot.md) | None | — | 10 |
-| 516 | [1995595](../reports/1995595.md) | Response Manipulation to enable Account recovery key with out cur | [Mozilla](../by-program/mozilla.md) | None | — | 9 |
-| 517 | [860197](../reports/860197.md) | A staff without export customers permissions can still export cus | [Shopify](../by-program/shopify.md) | None | — | 9 |
-| 518 | [249337](../reports/249337.md) | Non-functional 2FA recovery codes | [Legal Robot](../by-program/legalrobot.md) | None | — | 9 |
-| 519 | [874574](../reports/874574.md) | Partner's non-verified business email change reflected into Shopi | [Shopify](../by-program/shopify.md) | None | — | 8 |
-| 520 | [229417](../reports/229417.md) | Design Flaw in session management of password reset  | [Weblate](../by-program/weblate.md) | None | — | 6 |
-| 521 | [223846](../reports/223846.md) | Access to completion page without performing any action | [Weblate](../by-program/weblate.md) | None | — | 5 |
-| 522 | [265987](../reports/265987.md) | Add another email address without verification | [Weblate](../by-program/weblate.md) | None | — | 5 |
-| 523 | [1167029](../reports/1167029.md) | Broken Authendication And Session Management | [Reddit](../by-program/reddit.md) | None | — | 5 |
-| 524 | [894170](../reports/894170.md) | [H1-2006 2020] Writeup | [h1-ctf](../by-program/h1-ctf.md) | None | — | 5 |
-| 525 | [937921](../reports/937921.md) | app.lemlist.com : Admin Panel Access | [lemlist](../by-program/lemlist.md) | None | — | 5 |
-| 526 | [475114](../reports/475114.md) | Github repo's wiki publicly editable | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
-| 527 | [461345](../reports/461345.md) | Security issue: Github repo's wiki publicly editable | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 3 |
-| 528 | [889333](../reports/889333.md) | [H1-2006 2020]  The Story of Making Bounty Hunters Happy | [h1-ctf](../by-program/h1-ctf.md) | None | — | 3 |
+| 34 | [1677541](../reports/1677541.md) | Fully TaxJar account control and ability to disclose and modify b | [Stripe](../by-program/stripe.md) | Medium — CVSS 5.4 | $1,000 | 33 |
+| 35 | [489284](../reports/489284.md) | Access to Employee calendar disclosing internal presentation and  | [Shopify](../by-program/shopify.md) | Low | $1,000 | 109 |
+| 36 | [1285226](../reports/1285226.md) | Improper access control for users with expired password, giving t | [GitLab](../by-program/gitlab.md) | Medium — CVSS 6.5 | $950 | 48 |
+| 37 | [1489077](../reports/1489077.md) | Bypass of fix #1370749 | [Shopify](../by-program/shopify.md) | Low — CVSS 3.7 | $900 | 50 |
+| 38 | [1692788](../reports/1692788.md) | Attacker is able to query Github repositories of arbitrary Shopif | [Shopify](../by-program/shopify.md) | Low — CVSS 3.7 | $900 | 17 |
+| 39 | [1392032](../reports/1392032.md) | Orders full read for a staff with only `Customers` permissions. | [Shopify](../by-program/shopify.md) | Low — CVSS 3.6 | $800 | 12 |
+| 40 | [1888915](../reports/1888915.md) | Reset password link sent over unsecured http protocol | [Mattermost](../by-program/mattermost.md) | High — CVSS 7.3 | $750 | 437 |
+| 41 | [2289425](../reports/2289425.md) | Can reshare read&share only folder with more permissions | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.1 | $750 | 30 |
+| 42 | [301137](../reports/301137.md) | GitHub import allows user to create child group under existing na | [GitLab](../by-program/gitlab.md) | High — CVSS 7.1 | $750 | 14 |
+| 43 | [893922](../reports/893922.md) | IP-in-IP protocol routes arbitrary traffic by default - CVE-2020- | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.3 | $750 | 13 |
+| 44 | [1167853](../reports/1167853.md) | Trusted servers exchange can be triggered by attacker | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | $750 | 12 |
+| 45 | [1167916](../reports/1167916.md) | Default Nextcloud Server and Android Client leak sharee searches  | [Nextcloud](../by-program/nextcloud.md) | Low | $750 | 57 |
+| 46 | [1375393](../reports/1375393.md) | "External status checks" can be accepted by users below developer | [GitLab](../by-program/gitlab.md) | Medium — CVSS 4.3 | $610 | 13 |
+| 47 | [1117768](../reports/1117768.md) | Guest Users can create issues for Sentry errors and track their s | [GitLab](../by-program/gitlab.md) | Low — CVSS 3.1 | $610 | 29 |
+| 48 | [1044869](../reports/1044869.md) | Staff with no permissions could possibly list and accept billing  | [Shopify](../by-program/shopify.md) | Low — CVSS 2.5 | $600 | 17 |
+| 49 | [574962](../reports/574962.md) | Verify any unused email address | [X / xAI](../by-program/x.md) | None | $560 | 195 |
+| 50 | [2340833](../reports/2340833.md) | Apache Airflow: Bypass permission verification to read code of ot | [Internet Bug Bounty](../by-program/ibb.md) | Low | $540 | 29 |
+| 51 | [2208647](../reports/2208647.md) | CVE-2023-42780: Apache Airflow: Improper access control vulnerabi | [Internet Bug Bounty](../by-program/ibb.md) | Low | $540 | 19 |
+| 52 | [809816](../reports/809816.md) | Organization Takeover | [Helium](../by-program/helium.md) | High — CVSS 8.9 | $500 | 260 |
+| 53 | [1069487](../reports/1069487.md) | DNS rebinding in --inspect (insufficient fix of CVE-2018-7160) | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | $500 | 5 |
+| 54 | [2381253](../reports/2381253.md) | Ability to identify actual private from sandboxed programs using  | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | $500 | 107 |
+| 55 | [1257767](../reports/1257767.md) | HTML Injection in the Invoice memos field | [Stripe](../by-program/stripe.md) | Medium | $500 | 53 |
+| 56 | [1724016](../reports/1724016.md) | Download permissions can be changed by resharer | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.7 | $500 | 49 |
+| 57 | [2447316](../reports/2447316.md) | User can copy locked folders and gain access to the contents | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.1 | $500 | 44 |
+| 58 | [1717626](../reports/1717626.md) | Sub-Domain Takeover at   http://www.codefi.consensys.net/ | [Consensys](../by-program/consensys.md) | Medium | $500 | 42 |
+| 59 | [1356508](../reports/1356508.md) | Read-only users can restore old versions | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.6 | $500 | 37 |
+| 60 | [412490](../reports/412490.md) | Permissive CORS policy trusting arbitrary extensions origin | [Superhuman (formerly Grammarly)](../by-program/superhuman.md) | Medium | $500 | 33 |
+| 61 | [2290680](../reports/2290680.md) | Re-emergence of Security Vulnerability in Nextcloud Version 28 Pr | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.8 | $500 | 24 |
+| 62 | [1679124](../reports/1679124.md) | Unauthorized Canceling/Unsubscribe TaxJar account & Payment infor | [Stripe](../by-program/stripe.md) | Medium — CVSS 4.3 | $500 | 24 |
+| 63 | [1226891](../reports/1226891.md) | Domain Takeover of Reddit.ru via DNS Hijacking | [Reddit](../by-program/reddit.md) | Medium | $500 | 19 |
+| 64 | [304240](../reports/304240.md) | Unrestricted access to Eureka server on ██████ | [Grab](../by-program/grab.md) | Medium | $500 | 17 |
+| 65 | [384719](../reports/384719.md) | linkinfo - openbasedir bypass on Windows PHP | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $500 | 7 |
+| 66 | [1179241](../reports/1179241.md) | Private program disclosure of `██████████` through notifications | [HackerOne](../by-program/security.md) | Low — CVSS 2.7 | $500 | 63 |
+| 67 | [357485](../reports/357485.md) | Hacktivity of a private program visible to banned user if he gets | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | $500 | 45 |
+| 68 | [1234746](../reports/1234746.md) | Private program disclosure through notifications | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | $500 | 39 |
+| 69 | [528940](../reports/528940.md) | STAFF member with NO Explicit permissions can view `ActivityFeed` | [Shopify](../by-program/shopify.md) | Low | $500 | 23 |
+| 70 | [431633](../reports/431633.md) | Order Creation Webhooks can be edited/deleted by STAFF with `Sett | [Shopify](../by-program/shopify.md) | Low — CVSS 3.4 | $500 | 22 |
+| 71 | [354660](../reports/354660.md) | Suspended users can bypass UGC upload ban | [Valve](../by-program/valve.md) | Low | $500 | 21 |
+| 72 | [442843](../reports/442843.md) | Notifications sent due to "Transfer report" functionality may be  | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | $500 | 21 |
+| 73 | [534554](../reports/534554.md) | Unpublished Product Images can be disclosed | [Shopify](../by-program/shopify.md) | Low | $500 | 20 |
+| 74 | [351519](../reports/351519.md) | Improper access check by Kit  leads to controlling attributes of  | [Shopify](../by-program/shopify.md) | Low — CVSS 2.0 | $500 | 18 |
+| 75 | [1262434](../reports/1262434.md) | Theme editor `oseid` parameter is leaked to third-party services  | [Shopify](../by-program/shopify.md) | Low — CVSS 2.4 | $500 | 16 |
+| 76 | [1167929](../reports/1167929.md) | File drop public link can also be converted to federated share | [Nextcloud](../by-program/nextcloud.md) | Low | $500 | 15 |
+| 77 | [417839](../reports/417839.md) | H1514 Lack of access control on edit packing slip template | [Shopify](../by-program/shopify.md) | Low | $500 | 12 |
+| 78 | [326080](../reports/326080.md) | Improper Access Control on Onelogin in multi-layered architecture | [Uber](../by-program/uber.md) | None | $500 | 29 |
+| 79 | [302997](../reports/302997.md) | Unix domain socket and a path containing a null character | [Ruby](../by-program/ruby.md) | None | $500 | 17 |
+| 80 | [302298](../reports/302298.md) | Unintentional file creation caused at Tempfile with directory tra | [Ruby](../by-program/ruby.md) | None | $500 | 15 |
+| 81 | [302338](../reports/302338.md) | The possibility that unintended file operation may be performed b | [Ruby](../by-program/ruby.md) | None | $500 | 13 |
+| 82 | [1519099](../reports/1519099.md) |  Renderers can obtain access to random bluetooth device without p | [Internet Bug Bounty](../by-program/ibb.md) | Low | $480 | 21 |
+| 83 | [1914115](../reports/1914115.md) | End-to-end encrypted file-drops can be made inaccessible | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 7.5 | $400 | 43 |
+| 84 | [532836](../reports/532836.md) | [com.exness.android.pa Android] Universal XSS in webview. Lead to | [EXNESS](../by-program/exness.md) | Low | $400 | 26 |
+| 85 | [998457](../reports/998457.md) | Authentication token and CSRF token bypass | [Enjin](../by-program/enjin.md) | High | $300 | 43 |
+| 86 | [2234736](../reports/2234736.md) | Session Doesn't expire after 2fa and also other session can chang | [SideFX](../by-program/sidefx.md) | Low | $300 | 85 |
+| 87 | [1563139](../reports/1563139.md) | Global default settings page is accessible to non-administrators | [Phabricator](../by-program/phabricator.md) | None | $300 | 10 |
+| 88 | [1584409](../reports/1584409.md) | Deprecated owners.query API bypasses object view policy | [Phabricator](../by-program/phabricator.md) | None | $300 | 7 |
+| 89 | [312647](../reports/312647.md) | Gaining access to private topics using quoting feature | [Discourse](../by-program/discourse.md) | High | $256 | 19 |
+| 90 | [2067572](../reports/2067572.md) | New AppPassword can be generated without password confirmation | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.1 | $250 | 11 |
+| 91 | [1485500](../reports/1485500.md) | File Read Vulnerability allows Attackers to Compromise S3 buckets | [Kubernetes](../by-program/kubernetes.md) | Medium | $250 | 26 |
+| 92 | [304386](../reports/304386.md) | Unrestricted access to https://██████.█████myteksi.net/ | [Grab](../by-program/grab.md) | Medium | $250 | 23 |
+| 93 | [1164854](../reports/1164854.md) | Store Admin Page Accessible Without Authentication at http://www. | [Acronis](../by-program/acronis.md) | Medium — CVSS 5.8 | $250 | 14 |
+| 94 | [2012659](../reports/2012659.md) | Spam & Clearance checks disabled with existing referenced Message | [Basecamp](../by-program/basecamp.md) | Low | $250 | 118 |
+| 95 | [2380133](../reports/2380133.md) | Can download files on Android app without permission | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.2 | $250 | 46 |
+| 96 | [1672614](../reports/1672614.md) | [Broken Access Control ] Unauthorized Linking accounts & Linked A | [Stripe](../by-program/stripe.md) | Low | $250 | 26 |
+| 97 | [1965156](../reports/1965156.md) | Text does not respect 'Allow download' permissions | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | $250 | 12 |
+| 98 | [1189174](../reports/1189174.md) | End to end encryption folder locking is not properly protected | [Nextcloud](../by-program/nextcloud.md) | Low | $250 | 10 |
+| 99 | [394516](../reports/394516.md) | Stats Token doesn't expire after deactivating account | [Chaturbate](../by-program/chaturbate.md) | Low — CVSS 2.7 | $250 | 8 |
+| 100 | [3543475](../reports/3543475.md) | Improper Access Control in `fizzy.do` import flow allows cross-te | [Basecamp](../by-program/basecamp.md) | Low — CVSS 3.1 | $218 | 43 |
+| 101 | [1071918](../reports/1071918.md) | Moderator user has access to owner's support portal and tickets | [Logitech](../by-program/logitech.md) | Medium — CVSS 5.0 | $200 | 19 |
+| 102 | [3100570](../reports/3100570.md) | Bypassing Inbox Privacy Settings and Enabling Spam on Pixiv.net | [pixiv](../by-program/pixiv.md) | Low | $200 | 35 |
+| 103 | [1450368](../reports/1450368.md) | com.nextcloud.client bypass the protection lock in andoid app v 3 | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 1.1 | $200 | 11 |
+| 104 | [673724](../reports/673724.md) | Circle email-members have still access to a shared folder/file af | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.0 | $200 | 5 |
+| 105 | [1194606](../reports/1194606.md) | Virtual Data Room / Hide download on collabora is easy to bypass | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 7.7 | $150 | 14 |
+| 106 | [1578574](../reports/1578574.md) | unauth mosquitto ( client emails, ips, license keys exposure ) | [Acronis](../by-program/acronis.md) | Medium — CVSS 5.5 | $150 | 20 |
+| 107 | [1724021](../reports/1724021.md) | Secure view trivial to bypass | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.7 | $150 | 13 |
+| 108 | [403603](../reports/403603.md) | Private and group tokens per minute endpoint active for disabled  | [Chaturbate](../by-program/chaturbate.md) | Low | $150 | 11 |
+| 109 | [1046697](../reports/1046697.md) | ████. | [Omise](../by-program/omise.md) | Medium | $100 | 38 |
+| 110 | [2120667](../reports/2120667.md) |  Bypass password confirmation via Context-dependent access contro | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.4 | $100 | 30 |
+| 111 | [1546726](../reports/1546726.md) | Anonymous access control - Payments Status | [Omise](../by-program/omise.md) | Medium | $100 | 26 |
+| 112 | [388515](../reports/388515.md) | Access control issue -- [Allow file system access not validated w | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.4 | $100 | 17 |
+| 113 | [447494](../reports/447494.md) | Share recipient can modify a share's expiration date | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | $100 | 9 |
+| 114 | [819278](../reports/819278.md) | Open S3 Bucket Accessible by any Aws User | [Greenhouse.io](../by-program/greenhouse.md) | Low | $100 | 53 |
+| 115 | [2107934](../reports/2107934.md) | Admins can change authentication details of user configured exter | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.4 | $100 | 29 |
+| 116 | [1675014](../reports/1675014.md) | Profile of disabled user stays accessible | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | $100 | 27 |
+| 117 | [1615790](../reports/1615790.md) | Any expired reset password link can still be used to reset the pa | [Acronis](../by-program/acronis.md) | Low | $100 | 19 |
+| 118 | [1691195](../reports/1691195.md) | Missing rate limiting on password reset functionality allows to s | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.7 | $100 | 17 |
+| 119 | [534541](../reports/534541.md) | Combination of content provider allows private data disclosure | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.4 | $100 | 14 |
+| 120 | [762271](../reports/762271.md) | Guest users can change the confidentiality attribute on those iss | [GitLab](../by-program/gitlab.md) | Low | $100 | 13 |
+| 121 | [1210424](../reports/1210424.md) | Federated editing allows iframing possibly malicious remotes | [Nextcloud](../by-program/nextcloud.md) | Low | $100 | 8 |
+| 122 | [2388183](../reports/2388183.md) | Easy way to create a new Deck board without permission  | [Nextcloud](../by-program/nextcloud.md) | None | $100 | 56 |
+| 123 | [1963213](../reports/1963213.md) | Subdomain takeover http://accessday.opn.ooo/ | [Omise](../by-program/omise.md) | Medium | $50 | 74 |
+| 124 | [275443](../reports/275443.md) | Missing robots exclusion header for user uploads | [IRCCloud](../by-program/irccloud.md) | Low | $50 | 5 |
+| 125 | [322985](../reports/322985.md) | Ability to reset password for account | [Upserve ](../by-program/upserve.md) | Critical | — | 632 |
+| 126 | [313457](../reports/313457.md) | Publicly accessible Continuous Integration Tool | [Snapchat](../by-program/snapchat.md) | Critical | — | 561 |
+| 127 | [1567186](../reports/1567186.md) | One-click account hijack for anyone using Apple sign-in with Redd | [Reddit](../by-program/reddit.md) | Critical | — | 503 |
+| 128 | [2831902](../reports/2831902.md) | [CRITICAL] 0-Click Account Takeover via Password Reset [AUTH-3243 | [Remitly](../by-program/remitly.md) | Critical — CVSS 9.8 | — | 270 |
+| 129 | [1027822](../reports/1027822.md) | Unrestricted File Upload Leads to RCE on mobile.starbucks.com.sg | [Starbucks](../by-program/starbucks.md) | Critical — CVSS 9.8 | — | 244 |
+| 130 | [2579939](../reports/2579939.md) | SAML Signature verification bypass allows logging into any user ( | [GitHub](../by-program/github.md) | Critical | — | 192 |
+| 131 | [837400](../reports/837400.md) | IDOR in the https://market.semrush.com/ | [Semrush](../by-program/semrush.md) | Critical | — | 171 |
+| 132 | [1667998](../reports/1667998.md) | 1 click Account takeover via deeplink in [com.kayak.android] | [KAYAK](../by-program/kayak.md) | Critical — CVSS 9.3 | — | 163 |
+| 133 | [2950536](../reports/2950536.md) | Applicant security exam Attachments/Documents accessible through  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 139 |
+| 134 | [3459285](../reports/3459285.md) | [Critical] Unauthorized Cross-Tenant Data Access in Stripo AI Hub | [Stripo Inc](../by-program/stripo.md) | Critical — CVSS 9.9 | — | 136 |
+| 135 | [499348](../reports/499348.md) | Twitter lite(Android): Vulnerable to local file steal, Javascript | [X / xAI](../by-program/x.md) | Critical | — | 93 |
+| 136 | [975212](../reports/975212.md) | Access to microtransaction sales data for lots of apps from 2014  | [Valve](../by-program/valve.md) | Critical | — | 86 |
+| 137 | [347296](../reports/347296.md) | Docker Registry HTTP API v2 exposed in HTTP without authenticatio | [Semmle](../by-program/semmle.md) | Critical | — | 80 |
+| 138 | [2801787](../reports/2801787.md) | Admin Dashboard Access Leads to Updating Merchant Info | [MTN Group](../by-program/mtn_group.md) | Critical — CVSS 9.1 | — | 79 |
+| 139 | [2976481](../reports/2976481.md) | Unauthorized coins transfer from locking account(s) | [Cosmos](../by-program/cosmos.md) | Critical | — | 78 |
+| 140 | [2633888](../reports/2633888.md) | OTP code Leaked in API Response  | [MTN Group](../by-program/mtn_group.md) | Critical — CVSS 9.1 | — | 78 |
+| 141 | [804548](../reports/804548.md) | [█████████] Administrative access to Oracle WebLogic Server using | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 65 |
+| 142 | [2499178](../reports/2499178.md) | Subdomain takeover ████████.mil | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 62 |
+| 143 | [915110](../reports/915110.md) | No Email Checking at Invitation Confirmation Link leads to Accoun | [Automattic](../by-program/automattic.md) | Critical | — | 62 |
+| 144 | [1022048](../reports/1022048.md) | Critically Sensitive Spring Boot Endpoints Exposed | [Semrush](../by-program/semrush.md) | Critical — CVSS 9.9 | — | 58 |
+| 145 | [2828641](../reports/2828641.md) | unauthorized access and add user and change personal information  | [Mars](../by-program/mars.md) | Critical — CVSS 9.6 | — | 52 |
+| 146 | [2828693](../reports/2828693.md) | change part of personal information all users | [Mars](../by-program/mars.md) | Critical — CVSS 9.4 | — | 51 |
+| 147 | [1175081](../reports/1175081.md) | Full account takeover of any user through reset password | [UPchieve](../by-program/upchieve.md) | Critical — CVSS 9.1 | — | 50 |
+| 148 | [684099](../reports/684099.md) | Periscope-all Firebase database takeover | [X / xAI](../by-program/x.md) | Critical | — | 49 |
+| 149 | [1394910](../reports/1394910.md) | Unauthenticated Access to Admin Panel Functions at https://██████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 47 |
+| 150 | [369581](../reports/369581.md) | HTTP PUT method enabled | [RATELIMITED](../by-program/ratelimited.md) | Critical | — | 43 |
+| 151 | [1297480](../reports/1297480.md) | Default Login Credentials on https://broadbandmaps.mtn.com.gh/  | [MTN Group](../by-program/mtn_group.md) | Critical | — | 41 |
+| 152 | [2633988](../reports/2633988.md) | DoD workstation exposed to internet via TinyPilot KVM with no aut | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 40 |
+| 153 | [2327238](../reports/2327238.md) | Lack of Tenant Scoping Enables Limited Cross-Tenant Data Querying | [Enjin](../by-program/enjin.md) | Critical | — | 39 |
+| 154 | [452854](../reports/452854.md) | Expired reshare links allow access to all files in share | [Nextcloud](../by-program/nextcloud.md) | Critical — CVSS 9.6 | — | 38 |
+| 155 | [1061664](../reports/1061664.md) | Access to alerta.khanacademy.org leak sensitive data  | [Khan Academy](../by-program/khanacademy.md) | Critical — CVSS 9.8 | — | 27 |
+| 156 | [674741](../reports/674741.md) | Examples directory is PUBLIC on https://████████mil, leading to m | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 24 |
+| 157 | [824802](../reports/824802.md) | URN Request bypass ACL Checks | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.1 | — | 23 |
+| 158 | [471265](../reports/471265.md) | unuse domain still in using at wechat by Starbucks East China | [Starbucks](../by-program/starbucks.md) | Critical — CVSS 9.7 | — | 22 |
+| 159 | [2262365](../reports/2262365.md) | Default Admin Username and Password on ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 21 |
+| 160 | [777099](../reports/777099.md) | [h1-415 2020] I got the flag | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 20 |
+| 161 | [345162](../reports/345162.md) | Local File Download | [RATELIMITED](../by-program/ratelimited.md) | Critical | — | 20 |
+| 162 | [3723458](../reports/3723458.md) | 1-Click Account Takeover via Open Redirect through Regex Bypass i | [Khan Academy](../by-program/khanacademy.md) | Critical — CVSS 9.6 | — | 19 |
+| 163 | [1959540](../reports/1959540.md) | ' Full Account Takeover ' at █████ | [Mars](../by-program/mars.md) | Critical | — | 17 |
+| 164 | [781253](../reports/781253.md) | [h1-415 2020] h1ctf{y3s_1m_c0sm1c_n0w} | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 17 |
+| 165 | [1492447](../reports/1492447.md) | Public Jenkins instance with /script enabled | [IBM](../by-program/ibm.md) | Critical | — | 15 |
+| 166 | [1397564](../reports/1397564.md) | Unauthenticated Access to Admin Panel Functions at https://██████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 14 |
+| 167 | [895798](../reports/895798.md) | [H1-2006 2020] Bounty Pay CTF challenge | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 11 |
+| 168 | [491892](../reports/491892.md) | Broken access control on apps  | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 9.6 | — | 9 |
+| 169 | [1067912](../reports/1067912.md) | A Visit from The Grinch ~ 'Twas the night before Hackmas... | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 9 |
+| 170 | [460642](../reports/460642.md) | HTTP PUT method enabled | [RATELIMITED](../by-program/ratelimited.md) | Critical | — | 8 |
+| 171 | [683024](../reports/683024.md) | Unrestricted File Upload | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 8 |
+| 172 | [1069396](../reports/1069396.md) | Hackyholidays [ h1-ctf] writeup [mission:- stop the grinch ] | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 7 |
+| 173 | [1049375](../reports/1049375.md) | SAML authentication bypass through unauthenticated `addSamlProvid | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 10.0 | — | 5 |
+| 174 | [3687142](../reports/3687142.md) | Unauthenticated reading of every file via livechat auth and predi | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 9.3 | — | 4 |
+| 175 | [314808](../reports/314808.md) | Full account takeover | [Reverb.com](../by-program/reverb.md) | High | — | 409 |
+| 176 | [502593](../reports/502593.md) | Attacker is able to access commit title and team member comments  | [GitLab](../by-program/gitlab.md) | High | — | 349 |
+| 177 | [2312029](../reports/2312029.md) | View Titles of Private Reports with pending email invitation | [HackerOne](../by-program/security.md) | High — CVSS 7.7 | — | 249 |
+| 178 | [3178999](../reports/3178999.md) | Account takeover of existing HackerOne accounts through SCIM prov | [HackerOne](../by-program/security.md) | High — CVSS 7.0 | — | 224 |
+| 179 | [692252](../reports/692252.md) | Group search leaks private MRs, code, commits | [GitLab](../by-program/gitlab.md) | High — CVSS 7.5 | — | 211 |
+| 180 | [3081691](../reports/3081691.md) | 1 Click Account Takeover via Auth Token Theft on marketing.hostin | [hostinger ](../by-program/hostinger.md) | High — CVSS 7.5 | — | 209 |
+| 181 | [1711938](../reports/1711938.md) | Github Apps can use Scoped-User-To-Server Tokens to Obtain Full A | [GitHub](../by-program/github.md) | High | — | 196 |
+| 182 | [1596663](../reports/1596663.md) | Admin can create a hidden admin account  which even the owner can | [Reddit](../by-program/reddit.md) | High | — | 180 |
+| 183 | [473742](../reports/473742.md) | Bug in GraphQL and API integration leads to limited user address  | [Starbucks](../by-program/starbucks.md) | High | — | 143 |
+| 184 | [999765](../reports/999765.md) | Ticket Trick at https://account.acronis.com | [Acronis](../by-program/acronis.md) | High | — | 141 |
+| 185 | [577584](../reports/577584.md) | ISteamAssets gives partners control over unrelated community mark | [Valve](../by-program/valve.md) | High — CVSS 7.1 | — | 109 |
+| 186 | [2513082](../reports/2513082.md) | Program Member Could Duplicate Report To A Non Related Program Or | [HackerOne](../by-program/security.md) | High — CVSS 7.1 | — | 101 |
+| 187 | [1464168](../reports/1464168.md) | IDOR allowing to read another user's token on the Social Media Ad | [Semrush](../by-program/semrush.md) | High — CVSS 8.8 | — | 101 |
+| 188 | [2516250](../reports/2516250.md) | Access Control Vulnerability Enabling Unauthorized Access to Limi | [HackerOne](../by-program/security.md) | High — CVSS 8.2 | — | 100 |
+| 189 | [708820](../reports/708820.md) | Group search with Elastic search enable leaks unrelated data | [GitLab](../by-program/gitlab.md) | High — CVSS 8.6 | — | 99 |
+| 190 | [2585855](../reports/2585855.md) | Missing Line Terminator on allowedOrigins enables origin spoofing | [MetaMask](../by-program/metamask.md) | High — CVSS 7.7 | — | 89 |
+| 191 | [836081](../reports/836081.md) | Insufficient access control on all BCRM instances leading to the  | [LY Corporation](../by-program/line.md) | High | — | 86 |
+| 192 | [2342461](../reports/2342461.md) | Improper Access Controls(Admin Path) | [MTN Group](../by-program/mtn_group.md) | High — CVSS 7.9 | — | 85 |
+| 193 | [1805779](../reports/1805779.md) | 2FA BYPASS | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | High — CVSS 7.2 | — | 84 |
+| 194 | [3103755](../reports/3103755.md) | Privilege Escalation in Edit and Create Secret Endpoints Leads to | [Dust](../by-program/dust.md) | High — CVSS 7.1 | — | 81 |
+| 195 | [452559](../reports/452559.md) | Possibility to overwrite any file in the vpe.cdn.vimeo.tv leads t | [Vimeo](../by-program/vimeo.md) | High | — | 76 |
+| 196 | [3592387](../reports/3592387.md) | Potential Subdomain Takeover on IBM.com domain. | [IBM](../by-program/ibm.md) | High | — | 75 |
+| 197 | [1960107](../reports/1960107.md) | Rider can forcefully get passenger's order accepted resulting in  | [inDrive](../by-program/indrive.md) | High — CVSS 8.1 | — | 71 |
+| 198 | [430249](../reports/430249.md) | CORS Misconfiguration leading to Private Information Disclosure | [Ubiquiti Inc.](../by-program/ui.md) | High | — | 56 |
+| 199 | [2623715](../reports/2623715.md) | Sensitive data exposure: █████████ candidate resumes/CVs availabl | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 55 |
+| 200 | [1018368](../reports/1018368.md) | Add any depot to your app and access its contents without decrypt | [Valve](../by-program/valve.md) | High — CVSS 8.5 | — | 54 |
+| 201 | [275714](../reports/275714.md) | Subdomain takeover on developer.openapi.starbucks.com | [Starbucks](../by-program/starbucks.md) | High | — | 50 |
+| 202 | [1486310](../reports/1486310.md) | admin.8x8.vc: Member users with no permission can integrate email | [8x8](../by-program/8x8-bounty.md) | High — CVSS 8.3 | — | 48 |
+| 203 | [3445710](../reports/3445710.md) | Broken Access Control allows advertiser accounts to delete tracke | [Revive Adserver](../by-program/revive_adserver.md) | High — CVSS 7.1 | — | 45 |
+| 204 | [2212627](../reports/2212627.md) | Delete external storage of any user | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.5 | — | 43 |
+| 205 | [1025881](../reports/1025881.md) | Accessing/Editing Folders of Other Users in the Orginisation. | [Lark Technologies](../by-program/lark_technologies.md) | High — CVSS 7.1 | — | 42 |
+| 206 | [2575105](../reports/2575105.md) | Worker permission bypass via InternalWorker leak in diagnostics | [Node.js](../by-program/nodejs.md) | High — CVSS 7.7 | — | 42 |
+| 207 | [1098793](../reports/1098793.md) | Kroki Arbitrary File Read/Write  | [GitLab](../by-program/gitlab.md) | High | — | 41 |
+| 208 | [380158](../reports/380158.md) | svcardproxydevus.starbucks.com Subdomain take over | [Starbucks](../by-program/starbucks.md) | High | — | 39 |
+| 209 | [294201](../reports/294201.md) | subdomain takeover at news-static.semrush.com | [Semrush](../by-program/semrush.md) | High | — | 39 |
+| 210 | [1525309](../reports/1525309.md) | A malicious actor could rotate tokens of a victim, given that he  | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | High | — | 34 |
+| 211 | [538008](../reports/538008.md) | Add users to groups who have restricted group invites | [WordPress](../by-program/wordpress.md) | High | — | 32 |
+| 212 | [951230](../reports/951230.md) | Can buy Atavist Magazine subscription for free | [Automattic](../by-program/automattic.md) | High | — | 29 |
+| 213 | [474798](../reports/474798.md) | Subdomain takeover on healthyhackathon.khanacademy.org and hackwe | [Khan Academy](../by-program/khanacademy.md) | High | — | 28 |
+| 214 | [1169340](../reports/1169340.md) | Improper Access Control on Lark Footer Feature | [Lark Technologies](../by-program/lark_technologies.md) | High — CVSS 7.5 | — | 28 |
+| 215 | [1653676](../reports/1653676.md) | [MK8DX] Improper verification of Competition creation allows to c | [Nintendo](../by-program/nintendo.md) | High — CVSS 7.2 | — | 23 |
+| 216 | [2408480](../reports/2408480.md) | CVE-2021-39226 Discovered on endpoint https://██████/api/snapshot | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 23 |
+| 217 | [1248852](../reports/1248852.md) | Misuse of groups feature allows workspace members to join private | [Slack](../by-program/slack.md) | High — CVSS 7.1 | — | 23 |
+| 218 | [815547](../reports/815547.md) | Unauthorized updates to extended_info properties in /store/ajaxpa | [Valve](../by-program/valve.md) | High — CVSS 7.2 | — | 22 |
+| 219 | [788257](../reports/788257.md) | "Secure View" aka "Hide Download" can be bypassed easily | [Nextcloud](../by-program/nextcloud.md) | High | — | 22 |
+| 220 | [1218680](../reports/1218680.md) | Improper authorization on `/api/as/v1/credentials/` for  Dev Role | [Elastic](../by-program/elastic.md) | High | — | 21 |
+| 221 | [827816](../reports/827816.md) | Missing server side controls when editing the board’s sharing per | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 7.3 | — | 16 |
+| 222 | [1632921](../reports/1632921.md) | DNS rebinding in --inspect (insufficient fix of CVE-2022-32212 af | [Node.js](../by-program/nodejs.md) | High | — | 16 |
+| 223 | [858671](../reports/858671.md) | Insufficient Type Check on GraphQL leading to Maintainer delete r | [GitLab](../by-program/gitlab.md) | High | — | 15 |
+| 224 | [2082528](../reports/2082528.md) | Adobe ColdFusion - Access Control Bypass [CVE-2023-38205] at ████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 15 |
+| 225 | [416123](../reports/416123.md) | MemeCTF serial exploitation to local file read to Papertrail acce | [h1-5411-CTF](../by-program/h1-5411-ctf.md) | High | — | 15 |
+| 226 | [409237](../reports/409237.md) | Broken Authentication | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 15 |
+| 227 | [2518407](../reports/2518407.md) | CVE-2023-26347 in https://████.mil/hax/..CFIDE/adminapi/administr | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 14 |
+| 228 | [2442229](../reports/2442229.md) | Missing Access Control Allows for User Creation and Privilege Esc | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 13 |
+| 229 | [1168528](../reports/1168528.md) | Improper authorization on `/api/as/v1/credentials/` allows any Ap | [Elastic](../by-program/elastic.md) | High — CVSS 8.8 | — | 13 |
+| 230 | [915541](../reports/915541.md) | Cross-Site WebSocket Hijacking Lead to Steal XSRF-TOKEN | [Stripo Inc](../by-program/stripo.md) | High | — | 13 |
+| 231 | [255651](../reports/255651.md) | Unauthorized update of merchants' information via /php/merchant_d | [Eternal](../by-program/eternal.md) | High | — | 13 |
+| 232 | [247158](../reports/247158.md) | Bypass OTP verification when placing Order | [Eternal](../by-program/eternal.md) | High | — | 13 |
+| 233 | [972243](../reports/972243.md) | Add apps to packages 0, 61, 62 with /store/ajaxpackagemerge | [Valve](../by-program/valve.md) | High | — | 12 |
+| 234 | [522876](../reports/522876.md) | In Dockerized Environments, Failing to Read config.php Grants Any | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.7 | — | 11 |
+| 235 | [2086301](../reports/2086301.md) | Permanent CASB Integration Takeover due to Improper Access Contro | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | High — CVSS 7.9 | — | 11 |
+| 236 | [1690548](../reports/1690548.md) | Authentication bypass leads to Information Disclosure at  U.S Air | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 10 |
+| 237 | [837510](../reports/837510.md) | Create an account on auth-sandbox.elastic.co with email @elastic. | [Elastic](../by-program/elastic.md) | High | — | 10 |
+| 238 | [1714767](../reports/1714767.md) | Upload and delete files in debug page without access control. | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 10 |
+| 239 | [1329792](../reports/1329792.md) | AWS subdomain takeover of www.███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 10 |
+| 240 | [2248781](../reports/2248781.md) | Unauthenticated File Read Adobe ColdFusion | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 10 |
+| 241 | [462442](../reports/462442.md) | Unauthorized access of Monero wallet by an unprivileged process | [Monero](../by-program/monero.md) | High | — | 10 |
+| 242 | [1937235](../reports/1937235.md) | LDAP Server NULL Bind Connection Information Disclosure | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 9 |
+| 243 | [455726](../reports/455726.md) | Thailand - SNMP Publicly Accessible | [Starbucks](../by-program/starbucks.md) | High | — | 9 |
+| 244 | [1624374](../reports/1624374.md) | Broken access discloses users and PII at https://███████ [HtUS] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 8 |
+| 245 | [1061591](../reports/1061591.md) | Acting under any different user via DB-stored credentials | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.7 | — | 8 |
+| 246 | [223434](../reports/223434.md) | Improper access control when an added email address is deleted fr | [Weblate](../by-program/weblate.md) | High | — | 7 |
+| 247 | [869450](../reports/869450.md) | Support incident can be opened for any user via /███████ and PII  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 6 |
+| 248 | [648222](../reports/648222.md) | [██████████] Unauthorized access to admin panel | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 6 |
+| 249 | [790786](../reports/790786.md) | Members from parent group keep their access level on a subgroup t | [GitLab](../by-program/gitlab.md) | High — CVSS 7.6 | — | 5 |
+| 250 | [953866](../reports/953866.md) | Unauthorized Access and updation of EMAIL settings of other user  | [Dropcontact](../by-program/dropcontact.md) | High | — | 4 |
+| 251 | [1566462](../reports/1566462.md) | error parse uri path in curl | [curl](../by-program/curl.md) | High | — | 4 |
+| 252 | [418267](../reports/418267.md) | Bypass Email activation on http://axa.dxi.eu | [8x8](../by-program/8x8-bounty.md) | High | — | 4 |
+| 253 | [1271710](../reports/1271710.md) | Broken Authentication and Session Management lead to take over ac | [Phabricator](../by-program/phabricator.md) | High | — | 4 |
+| 254 | [247225](../reports/247225.md) | Session Duplication due to Broken Access Control | [WakaTime](../by-program/wakatime.md) | High | — | 3 |
+| 255 | [745171](../reports/745171.md) | Unprotected ██████ and Test site API Exposes Documents, Credentia | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 3 |
+| 256 | [460121](../reports/460121.md) | Publicly editable GitHub wikis | [Liberapay](../by-program/liberapay.md) | High | — | 2 |
+| 257 | [1457471](../reports/1457471.md) | Limited Privilege User Can Create Unauthorized Referrals on partn | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.3 | — | 176 |
+| 258 | [667739](../reports/667739.md) | Previously created sessions continue being valid after MFA activa | [Superhuman (formerly Grammarly)](../by-program/superhuman.md) | Medium | — | 172 |
+| 259 | [642515](../reports/642515.md) | User can delete data in shared folders he's not autorized to acce | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 172 |
+| 260 | [1577940](../reports/1577940.md) | Banned user still has access to their deleted account via HackerO | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 144 |
+| 261 | [273099](../reports/273099.md) | User with removed manage shops permissions is still able to make  | [Shopify](../by-program/shopify.md) | Medium | — | 144 |
+| 262 | [1257428](../reports/1257428.md) | Create free Shopify application credits. | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.6 | — | 133 |
+| 263 | [2965723](../reports/2965723.md) | Ability to access policy and updates for unauthorized program | [HackerOne](../by-program/security.md) | Medium — CVSS 5.3 | — | 122 |
+| 264 | [258117](../reports/258117.md) | RCE/LFI on test Jenkins instance due to improper authentication f | [Snapchat](../by-program/snapchat.md) | Medium | — | 116 |
+| 265 | [2139190](../reports/2139190.md) | IDOR: Authorization Bypass in LockReport Mutation for public repo | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 111 |
+| 266 | [2891449](../reports/2891449.md) | Object Level access control leads to reading user's full requests | [Yelp](../by-program/yelp.md) | Medium | — | 109 |
+| 267 | [1124974](../reports/1124974.md) | Attacker Can Access to any Ticket Support on https://www.devicelo | [Acronis](../by-program/acronis.md) | Medium | — | 107 |
+| 268 | [1959219](../reports/1959219.md) | Banned user still able to invited to reports as a collabrator and | [HackerOne](../by-program/security.md) | Medium — CVSS 6.4 | — | 102 |
+| 269 | [417360](../reports/417360.md) | Thailand - a small number of SMB CCTV footage backup servers were | [Starbucks](../by-program/starbucks.md) | Medium — CVSS 6.1 | — | 97 |
+| 270 | [1987011](../reports/1987011.md) | [Hubs] - Broken access control in placing objects in hubs room | [Mozilla](../by-program/mozilla.md) | Medium | — | 96 |
+| 271 | [3235855](../reports/3235855.md) | Improper Access Control - Access to "Active Hiring" (Premium  fea | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 4.3 | — | 94 |
+| 272 | [3356149](../reports/3356149.md) | 2FA requirement bypass when inviting team members | [Omise](../by-program/omise.md) | Medium — CVSS 6.4 | — | 94 |
+| 273 | [3114554](../reports/3114554.md) | Privilege Persistence via Cloned Agent | [Dust](../by-program/dust.md) | Medium | — | 90 |
+| 274 | [2040756](../reports/2040756.md) | An attacker can submit a Pentest Opportunity and change the statu | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 90 |
+| 275 | [1167453](../reports/1167453.md) | Add new development stores without permission | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.3 | — | 88 |
+| 276 | [2484635](../reports/2484635.md) | GitHub Apps can access suspended installations via scoped user-to | [GitHub](../by-program/github.md) | Medium | — | 88 |
+| 277 | [1694304](../reports/1694304.md) | Able to see Twitter Circle tweets due to improper access control  | [X / xAI](../by-program/x.md) | Medium | — | 88 |
+| 278 | [687908](../reports/687908.md) | Found Origin IP's Lead To Access To [ Grafana Instance , PgHero I | [Omise](../by-program/omise.md) | Medium | — | 86 |
+| 279 | [1868473](../reports/1868473.md) | Scope information is leaked when visiting policy scopes tab of an | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 85 |
+| 280 | [2682079](../reports/2682079.md) | Publicly Editable U.S. Air Force Google Spreadsheet Exposing Stud | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 83 |
+| 281 | [2140960](../reports/2140960.md) | Ability to see hidden likes | [X / xAI](../by-program/x.md) | Medium | — | 80 |
+| 282 | [2299571](../reports/2299571.md) | Employee-only Area Bypass | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 5.3 | — | 74 |
+| 283 | [1011767](../reports/1011767.md) | X-Forward-For Header allows to bypass access restrictions | [Yelp](../by-program/yelp.md) | Medium — CVSS 6.1 | — | 72 |
+| 284 | [2498255](../reports/2498255.md) | S3 Bucket Takeover on apptio endpoint | [IBM](../by-program/ibm.md) | Medium | — | 71 |
+| 285 | [736283](../reports/736283.md) | open Firebase Database: msdict-dev.firebaseio.com | [MobiSystems Ltd.](../by-program/mobisystems_ltd.md) | Medium — CVSS 6.1 | — | 69 |
+| 286 | [2469713](../reports/2469713.md) | View private repository NWO of deploy key via internal LFS API | [GitHub](../by-program/github.md) | Medium | — | 68 |
+| 287 | [2319586](../reports/2319586.md) | Broken Access Control(Horizontal Privilege Escalation). | [MTN Group](../by-program/mtn_group.md) | Medium — CVSS 6.5 | — | 67 |
+| 288 | [2376929](../reports/2376929.md) | ID4me feature of OpenID connect app available even when disabled  | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.3 | — | 65 |
+| 289 | [614355](../reports/614355.md) | GraphQL query "namespace" leaks data | [GitLab](../by-program/gitlab.md) | Medium — CVSS 5.3 | — | 64 |
+| 290 | [3370430](../reports/3370430.md) | Users can change project visibility which requires high subscript | [Lovable VDP](../by-program/lovable-vdp.md) | Medium | — | 63 |
+| 291 | [2431495](../reports/2431495.md) | "package_name" can be set as desired when submitting a Pentest Op | [HackerOne](../by-program/security.md) | Medium — CVSS 5.2 | — | 62 |
+| 292 | [1318936](../reports/1318936.md) | Registration Information Leakage  | [Adobe](../by-program/adobe.md) | Medium — CVSS 5.3 | — | 58 |
+| 293 | [3522254](../reports/3522254.md) | PATs without the required scope can leak issues | [GitHub](../by-program/github.md) | Medium | — | 57 |
+| 294 | [1820953](../reports/1820953.md) | Non-store owners can transfer Shopify-managed domain to another d | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.4 | — | 55 |
+| 295 | [1690427](../reports/1690427.md) | Managing Pages  | [GitHub](../by-program/github.md) | Medium | — | 54 |
+| 296 | [3101986](../reports/3101986.md) | UI flaw allows unauthorized users to add documents to restricted  | [Dust](../by-program/dust.md) | Medium | — | 53 |
+| 297 | [2203432](../reports/2203432.md) | Organization members can delete reports in teams they have no acc | [HackerOne](../by-program/security.md) | Medium — CVSS 6.7 | — | 53 |
+| 298 | [756182](../reports/756182.md) | Potential leak of server side software at repogohi.nordvpn.com | [Nord Security](../by-program/nordsecurity.md) | Medium | — | 52 |
+| 299 | [2339192](../reports/2339192.md) | Blocking a company page admin prevents him from delete paid media | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 4.3 | — | 51 |
+| 300 | [273557](../reports/273557.md) | ability to install paid themes for free | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.6 | — | 50 |
+| 301 | [3101858](../reports/3101858.md) | Unauthorized Table Creation by Member | [Dust](../by-program/dust.md) | Medium | — | 49 |
+| 302 | [423496](../reports/423496.md) | H1514 Bypass Wholesale account signup restrictions | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.3 | — | 48 |
+| 303 | [634679](../reports/634679.md) | Custom Field Attributes may be created and updated for customers  | [HackerOne](../by-program/security.md) | Medium — CVSS 5.2 | — | 47 |
+| 304 | [501084](../reports/501084.md) | Upload of Avatars for other Users | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 4.3 | — | 47 |
+| 305 | [2679108](../reports/2679108.md) | Bypass comment restriction | [HackerOne](../by-program/security.md) | Medium — CVSS 5.3 | — | 46 |
+| 306 | [2764952](../reports/2764952.md) | Unauthenticated phpinfo()files could lead to ability file read at | [MTN Group](../by-program/mtn_group.md) | Medium | — | 43 |
+| 307 | [1851818](../reports/1851818.md) | Member role which doesn't have permission to send message can sen | [Mattermost](../by-program/mattermost.md) | Medium — CVSS 4.3 | — | 41 |
+| 308 | [2247457](../reports/2247457.md) | Can download files by zipping the folder | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.1 | — | 40 |
+| 309 | [1618021](../reports/1618021.md) | Enable 2Fa verification without verifying email | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | Medium — CVSS 4.2 | — | 39 |
+| 310 | [1948506](../reports/1948506.md) | Improper Access Control allows OTP bypass | [Lark Technologies](../by-program/lark_technologies.md) | Medium | — | 38 |
+| 311 | [1066790](../reports/1066790.md) | Internal API endpoint is accesible for everyone | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | Medium | — | 38 |
+| 312 | [3589551](../reports/3589551.md) | RBAC bypass on App log endpoints via `permissionRequired` typo —  | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 6.5 | — | 37 |
+| 313 | [526570](../reports/526570.md) | Bypassing push rules via MRs created by Email | [GitLab](../by-program/gitlab.md) | Medium | — | 36 |
+| 314 | [764243](../reports/764243.md) | API - Amazon S3 bucket misconfiguration | [BCM Messenger](../by-program/bcm.md) | Medium | — | 35 |
+| 315 | [1394982](../reports/1394982.md) | Unathorised access to admin endpoint on plus-website-staging5.sho | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.6 | — | 35 |
+| 316 | [254211](../reports/254211.md) | [www.zomato.com/dubai/gold] CRITICAL - Allowing arbitrary amount  | [Eternal](../by-program/eternal.md) | Medium | — | 34 |
+| 317 | [360825](../reports/360825.md) | Origin IP found, Cloudflare bypassed | [Liberapay](../by-program/liberapay.md) | Medium | — | 34 |
+| 318 | [425314](../reports/425314.md) | API request signature can be reused with other parameters/data th | [Gatecoin](../by-program/gatecoin.md) | Medium — CVSS 5.3 | — | 33 |
+| 319 | [2855610](../reports/2855610.md) | Staff with Restricted Permissions Could Access Customer Data Afte | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.2 | — | 32 |
+| 320 | [1085042](../reports/1085042.md) | [h1-2102] Improper Access Control at https://shopify.plus/[id]/us | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.3 | — | 32 |
+| 321 | [1167753](../reports/1167753.md) | Add new managed stores without permission | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.3 | — | 32 |
+| 322 | [2081744](../reports/2081744.md) | Deny Admin from Editing LinkedIn Company Page using Gen Form Visi | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 5.3 | — | 32 |
+| 323 | [2492631](../reports/2492631.md) | Reset the 2FA of the user which can lead to Account Takeover | [HackerOne](../by-program/security.md) | Medium — CVSS 6.6 | — | 31 |
+| 324 | [707748](../reports/707748.md) | Subdomain takeover on mta1a1.spmail.uber.com | [Uber](../by-program/uber.md) | Medium | — | 30 |
+| 325 | [1084638](../reports/1084638.md) | [h1-2102] Improper Access Control at https://shopify.plus/[id]/us | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.3 | — | 30 |
+| 326 | [1538004](../reports/1538004.md) | Read-only administrator can change agent update settings | [Acronis](../by-program/acronis.md) | Medium — CVSS 5.0 | — | 29 |
+| 327 | [698708](../reports/698708.md) | Bypass report #416983 - Removed Staff members who had "Apps" perm | [Shopify](../by-program/shopify.md) | Medium | — | 28 |
+| 328 | [1004007](../reports/1004007.md) | ..; bypass leading to  tomcat scripts [Unauthenticated] | [Informatica](../by-program/informatica.md) | Medium | — | 27 |
+| 329 | [777942](../reports/777942.md) | Unrestricted access to any "connected pack" on docs | [Superhuman (formerly Grammarly)](../by-program/superhuman.md) | Medium — CVSS 4.3 | — | 27 |
+| 330 | [1021460](../reports/1021460.md) | Privilege Escalation to All-staff group | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 4.2 | — | 26 |
+| 331 | [920357](../reports/920357.md) | Captcha checker "pd-captcha_form_SURVEYID" cookie is accepting an | [Automattic](../by-program/automattic.md) | Medium | — | 26 |
+| 332 | [1521336](../reports/1521336.md) | Staff can create workflows in Shopify Admin without apps permissi | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.2 | — | 25 |
+| 333 | [2088808](../reports/2088808.md) | Disavowed an email without any authentication | [Liberapay](../by-program/liberapay.md) | Medium | — | 23 |
+| 334 | [2180018](../reports/2180018.md) | Information Disclosure FrontPage Configuration Information | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 23 |
+| 335 | [1609955](../reports/1609955.md) | Improper Access Control in Ali Express Importer | [Judge.me ](../by-program/judgeme.md) | Medium — CVSS 5.0 | — | 21 |
+| 336 | [2805173](../reports/2805173.md) | A potential risk in the cloudFrontExtensionsConsole which can be  | [AWS VDP](../by-program/aws_vdp.md) | Medium — CVSS 6.5 | — | 21 |
+| 337 | [804534](../reports/804534.md) | Access to private file's of helpdesk. | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 4.3 | — | 21 |
+| 338 | [2257156](../reports/2257156.md) | Improper handling of wildcards in --allow-fs-read and --allow-fs- | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.0 | — | 20 |
+| 339 | [845677](../reports/845677.md) | Sourcemaps and Unminified Source Code Exposed on Pages | [Imgur](../by-program/imgur.md) | Medium | — | 19 |
+| 340 | [1791558](../reports/1791558.md) | S3 Bucket Takeover : brave-apt | [Brave Software](../by-program/brave.md) | Medium | — | 19 |
+| 341 | [1290170](../reports/1290170.md) | Access to images and videos in drafts on LINE BLOG | [LY Corporation](../by-program/line.md) | Medium | — | 19 |
+| 342 | [768110](../reports/768110.md) | Race condition (TOCTOU) in NordVPN can result in local privilege  | [Nord Security](../by-program/nordsecurity.md) | Medium — CVSS 4.5 | — | 18 |
+| 343 | [355859](../reports/355859.md) | CRITICAL-CLICKJACKING at Yelp Reservations Resulting in exposure  | [Yelp](../by-program/yelp.md) | Medium — CVSS 6.3 | — | 18 |
+| 344 | [1669176](../reports/1669176.md) | Unauthorized access | [GitLab](../by-program/gitlab.md) | Medium | — | 18 |
+| 345 | [1895976](../reports/1895976.md) | Users can set up workflows using restricted and invisible system  | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.5 | — | 17 |
+| 346 | [1850407](../reports/1850407.md) | Chat room member disclosure via autocomplete API | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.2 | — | 17 |
+| 347 | [1080700](../reports/1080700.md) | Viewer is able to leak the previous versions of the file | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 4.9 | — | 17 |
+| 348 | [1335070](../reports/1335070.md) | Removed user can still view comments on the file/documents. | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 4.3 | — | 17 |
+| 349 | [2289333](../reports/2289333.md) | see card comments after remove shared board | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 17 |
+| 350 | [1533220](../reports/1533220.md) | Ability to View Non-Permitted Admin Log | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 4.9 | — | 17 |
+| 351 | [1647287](../reports/1647287.md) | Disabling context isolation, nodeIntegrationInSubFrames using an  | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 16 |
+| 352 | [423286](../reports/423286.md) | Sidekiq web UI (Ruby background processing) accessible unauthenti | [Starbucks](../by-program/starbucks.md) | Medium | — | 16 |
+| 353 | [3589247](../reports/3589247.md) | Unauthenticated File Upload to CDN | [Enjin](../by-program/enjin.md) | Medium — CVSS 5.8 | — | 16 |
+| 354 | [1074420](../reports/1074420.md) | IDOR Allows Viewer to Delete Bin's Files | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 4.3 | — | 16 |
+| 355 | [1869184](../reports/1869184.md) | LDAP anonymous access enabled at certrep.pki.state.gov:389 | [U.S. Department of State](../by-program/us-department-of-state.md) | Medium — CVSS 5.3 | — | 16 |
+| 356 | [1094063](../reports/1094063.md) | Take over a mail account due missing validation of account id | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.4 | — | 15 |
+| 357 | [867052](../reports/867052.md) | Access Control: Inject tasks into other users decks | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.1 | — | 15 |
+| 358 | [310185](../reports/310185.md) | Removing a user from a private group doesn't remove him from grou | [GitLab](../by-program/gitlab.md) | Medium — CVSS 6.3 | — | 14 |
+| 359 | [1398706](../reports/1398706.md) | Google storage bucket takeover which is used to load JS file in d | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 5.3 | — | 14 |
+| 360 | [1095612](../reports/1095612.md) | Node Validation Admission does not observe all oldObject fields | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 6.5 | — | 14 |
+| 361 | [1005374](../reports/1005374.md) | CORS misconfiguration which leads to the disclosure  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 14 |
+| 362 | [761617](../reports/761617.md) | Information Disclosure FrontPage Configuration Information /_vti_ | [MTN Group](../by-program/mtn_group.md) | Medium | — | 13 |
+| 363 | [386351](../reports/386351.md) | Users may still able to view chat room panel of password protecte | [Chaturbate](../by-program/chaturbate.md) | Medium | — | 13 |
+| 364 | [1245529](../reports/1245529.md) | No Rate Limit On Forgot Password Page | [Acronis](../by-program/acronis.md) | Medium | — | 13 |
+| 365 | [748375](../reports/748375.md) | Transferring a public group to a private group doesn't remove cod | [GitLab](../by-program/gitlab.md) | Medium | — | 13 |
+| 366 | [1063164](../reports/1063164.md) | Unauthenticated clients can modify Livechat Business Hours | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 5.3 | — | 13 |
+| 367 | [1548067](../reports/1548067.md) | Unauthorized Access to Internal Server Panel without Authenticati | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 12 |
+| 368 | [1094702](../reports/1094702.md) | Theft of arbitrary files in LINE Lite client for Android | [LY Corporation](../by-program/line.md) | Medium — CVSS 4.3 | — | 12 |
+| 369 | [2247231](../reports/2247231.md) | Unauthorized access to Argo dashboard on █████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 12 |
+| 370 | [837256](../reports/837256.md) | Improper Access Control in Buddypress core allows reply,delete an | [WordPress](../by-program/wordpress.md) | Medium | — | 12 |
+| 371 | [3650504](../reports/3650504.md) | Missing access control when linking banners or campaigns to zones | [Revive Adserver](../by-program/revive_adserver.md) | Medium — CVSS 4.3 | — | 11 |
+| 372 | [761329](../reports/761329.md) | Update App Store: Django account high jacking vulnerability | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.5 | — | 11 |
+| 373 | [264090](../reports/264090.md) | 2FA bypass - confirmation tokens don't expire | [GSA Bounty](../by-program/gsa_bbp.md) | Medium — CVSS 4.8 | — | 10 |
+| 374 | [980876](../reports/980876.md) | [Fixed] KIS for macOS is vulnerable to AV bypass due to improper  | [Kaspersky](../by-program/kaspersky.md) | Medium | — | 10 |
+| 375 | [423546](../reports/423546.md) | H1514 Wholesale customer without checkout permission can complete | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.3 | — | 10 |
+| 376 | [273805](../reports/273805.md) | Improper access control lead  To delete anyone comment | [Paragon Initiative Enterprises](../by-program/paragonie.md) | Medium | — | 10 |
+| 377 | [1788222](../reports/1788222.md) | Document content of files can be obtained through Collabora for f | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.8 | — | 10 |
+| 378 | [673384](../reports/673384.md) | xmlrpc.php file enabled - data.gov | [GSA Bounty](../by-program/gsa_bbp.md) | Medium | — | 10 |
+| 379 | [3559715](../reports/3559715.md) | Node.js Permission Model bypass: UDS server bind/listen works wit | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.3 | — | 9 |
+| 380 | [1173598](../reports/1173598.md) | S3 bucket listing/download | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 9 |
+| 381 | [457009](../reports/457009.md) | Github wiki is editable by anyone | [MariaDB](../by-program/mariadb.md) | Medium | — | 9 |
+| 382 | [1808079](../reports/1808079.md) | Permissions not respected when copying entire group folders | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.5 | — | 9 |
+| 383 | [676976](../reports/676976.md) | Container scanning and Dependency scanning report leaked to unaut | [GitLab](../by-program/gitlab.md) | Medium | — | 9 |
+| 384 | [710006](../reports/710006.md) | Elasticsearch leaks data through the notes scope | [GitLab](../by-program/gitlab.md) | Medium | — | 8 |
+| 385 | [1804174](../reports/1804174.md) | Improper Access Control on Media Wiki allows an attackers to rest | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
+| 386 | [998981](../reports/998981.md) | {███} It is posible download all information and files via S3 Buc | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
+| 387 | [245340](../reports/245340.md) | Bypassing Access control, changing owner's name in a private lead | [WakaTime](../by-program/wakatime.md) | Medium | — | 8 |
+| 388 | [3650582](../reports/3650582.md) | Missing access control when linking trackers to campaigns | [Revive Adserver](../by-program/revive_adserver.md) | Medium — CVSS 4.3 | — | 8 |
+| 389 | [921717](../reports/921717.md) | Improper access control to messages of Social app | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.0 | — | 8 |
+| 390 | [1167767](../reports/1167767.md) | Unexpected federated shares added via public link | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 7 |
+| 391 | [1637577](../reports/1637577.md) | Found Origin IP's lead to access to gitlab | [GitLab](../by-program/gitlab.md) | Medium — CVSS 5.3 | — | 6 |
+| 392 | [1966492](../reports/1966492.md) | fs.openAsBlob() bypasses permission system | [Node.js](../by-program/nodejs.md) | Medium — CVSS 4.4 | — | 6 |
+| 393 | [819911](../reports/819911.md) | Knowledge Base Articles are Globally Modifiable via ██████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
+| 394 | [282176](../reports/282176.md) | Unauthenticated hidden groups disclosure via Ajax groups search | [WordPress](../by-program/wordpress.md) | Medium — CVSS 6.1 | — | 6 |
+| 395 | [3483708](../reports/3483708.md) | Valid share tokens allow to access tempory upload files of share  | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.3 | — | 5 |
+| 396 | [221948](../reports/221948.md) | The mailbox verification API interface is unlimited and can be us | [Phabricator](../by-program/phabricator.md) | Medium | — | 5 |
+| 397 | [1129996](../reports/1129996.md) | Create alias does not validate account id | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.0 | — | 5 |
+| 398 | [258573](../reports/258573.md) | Able to view Backend Database dur to improper authentication | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
+| 399 | [809212](../reports/809212.md) | No ACL on S3 Bucket in [https://www.██████████/] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
+| 400 | [1398617](../reports/1398617.md) | Broken Github Link Used in deployment docs of "github.com/kuberne | [Kubernetes](../by-program/kubernetes.md) | Medium | — | 4 |
+| 401 | [3783738](../reports/3783738.md) | XML‑RPC login leak exposes valid session ID enabling unauthorized | [Revive Adserver](../by-program/revive_adserver.md) | Medium — CVSS 4.3 | — | 4 |
+| 402 | [3572848](../reports/3572848.md) | Group restriction bypass via bearer token in user_oidc (SETTING_R | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.2 | — | 4 |
+| 403 | [661977](../reports/661977.md) | Github wikis are editable by anyone https://github.com/paragonie/ | [Paragon Initiative Enterprises](../by-program/paragonie.md) | Medium | — | 3 |
+| 404 | [923759](../reports/923759.md) | Edit Policy restriction does not prevent comments. | [Phabricator](../by-program/phabricator.md) | Medium | — | 3 |
+| 405 | [796557](../reports/796557.md) | Cross Origin Resource Sharing Misconfiguration | Lead to sensitiv | [Nord Security](../by-program/nordsecurity.md) | Medium | — | 2 |
+| 406 | [1003455](../reports/1003455.md) | Access to Unclassified / FOUO Advanced Motion Platform of ███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
+| 407 | [222660](../reports/222660.md) | The email API to test email-server settings is unlimited and can  | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 2 |
+| 408 | [3677576](../reports/3677576.md) | Missing access control when modifying parent entities via XML‑RPC | [Revive Adserver](../by-program/revive_adserver.md) | Medium — CVSS 4.3 | — | 2 |
+| 409 | [3678828](../reports/3678828.md) | Banner status override by advertiser‑level users | [Revive Adserver](../by-program/revive_adserver.md) | Medium — CVSS 4.3 | — | 2 |
+| 410 | [3656869](../reports/3656869.md) | Uppercase sni context matching can lead to mtls authorization byp | [Node.js](../by-program/nodejs.md) | Medium — CVSS 4.2 | — | 1 |
+| 411 | [3656716](../reports/3656716.md) | Embedded-nul hostnames can lead to silent authority rebinding due | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.6 | — | 1 |
+| 412 | [885539](../reports/885539.md) | Private list members disclosure via GraphQL | [X / xAI](../by-program/x.md) | Low | — | 343 |
+| 413 | [2530242](../reports/2530242.md) | [ Spot Check ] Team members can edit a user's write-up | [HackerOne](../by-program/security.md) | Low — CVSS 2.7 | — | 147 |
+| 414 | [745495](../reports/745495.md) | Unauthenticated users can access all food.grammarly.io user's dat | [Superhuman (formerly Grammarly)](../by-program/superhuman.md) | Low — CVSS 3.9 | — | 138 |
+| 415 | [3378540](../reports/3378540.md) | Lack of Validation in Reward Redemption Allows Unlimited Burp Sui | [HackerOne](../by-program/security.md) | Low — CVSS 2.1 | — | 113 |
+| 416 | [3119034](../reports/3119034.md) | Facebook Username Takeover via Broken Link in Footer | [Omise](../by-program/omise.md) | Low | — | 108 |
+| 417 | [3151001](../reports/3151001.md) | Previous commentor on post can still comment even after comment p | [LinkedIn](../by-program/linkedin.md) | Low — CVSS 3.1 | — | 108 |
+| 418 | [2286745](../reports/2286745.md) | Authentication Bypass on TikTok Seller Signup Process Allows Acco | [TikTok](../by-program/tiktok.md) | Low | — | 84 |
+| 419 | [2323303](../reports/2323303.md) | Program admins could add verified domains to an organization | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | — | 79 |
+| 420 | [1918362](../reports/1918362.md) | Any one can view collaborater email address via  path /reports/<i | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | — | 78 |
+| 421 | [2396549](../reports/2396549.md) | Privilege Escalation - A Non Owner User Who Does not Have access  | [Yelp](../by-program/yelp.md) | Low | — | 74 |
+| 422 | [2632876](../reports/2632876.md) | Access to limited confidential information of private program as  | [HackerOne](../by-program/security.md) | Low — CVSS 3.1 | — | 74 |
+| 423 | [220445](../reports/220445.md) | Race condition leads to duplicate payouts | [HackerOne](../by-program/security.md) | Low — CVSS 3.1 | — | 72 |
+| 424 | [3016540](../reports/3016540.md) | Enable 2FA without verifying the email | [XVIDEOS](../by-program/xvideos.md) | Low | — | 66 |
+| 425 | [490782](../reports/490782.md) | Mssing Authorization on Private Message replies (BuddyPress) | [WordPress](../by-program/wordpress.md) | Low | — | 66 |
+| 426 | [2396571](../reports/2396571.md) | Privilege Escalation - A Low Privilege User who does not have acc | [Yelp](../by-program/yelp.md) | Low | — | 59 |
+| 427 | [947728](../reports/947728.md) | staff can able to extend shopify trial period without admin permi | [Shopify](../by-program/shopify.md) | Low | — | 56 |
+| 428 | [3114132](../reports/3114132.md) | Broken Access Control Exposes Email Verification Status and Priva | [WakaTime](../by-program/wakatime.md) | Low | — | 55 |
+| 429 | [2383486](../reports/2383486.md) | Insecure S3 Bucket Exposing Git Directory in Mozilla Foundation I | [Mozilla](../by-program/mozilla.md) | Low | — | 55 |
+| 430 | [1298902](../reports/1298902.md) | Outsider can affect Upvote Percentage of private subreddit post b | [Reddit](../by-program/reddit.md) | Low — CVSS 3.8 | — | 51 |
+| 431 | [1084865](../reports/1084865.md) | [h1-2102] [Oberlo] Least privileged user can cancel account owner | [Shopify](../by-program/shopify.md) | Low — CVSS 3.6 | — | 50 |
+| 432 | [2279010](../reports/2279010.md) | A user with only [MODIFY_SETTINGS] permmision could takeover any  | [PortSwigger Web Security](../by-program/portswigger.md) | Low | — | 49 |
+| 433 | [2149124](../reports/2149124.md) | PATCH method manipulation allowing the users to escalate their fu | [Frontegg](../by-program/frontegg.md) | Low — CVSS 3.4 | — | 48 |
+| 434 | [1312365](../reports/1312365.md) | Subdomain takeover due to non registered TLD [ ██████████.█████.█ | [Affirm](../by-program/affirm.md) | Low | — | 48 |
+| 435 | [769058](../reports/769058.md) | CORS misconfiguration which leads to the disclosure of certain da | [Semrush](../by-program/semrush.md) | Low | — | 45 |
+| 436 | [472026](../reports/472026.md) | The auto login link does not expire on changing email id | [Chaturbate](../by-program/chaturbate.md) | Low | — | 45 |
+| 437 | [2354888](../reports/2354888.md) | unsubscribe anyone from all ████████ emails @ █████ | [Mars](../by-program/mars.md) | Low | — | 44 |
+| 438 | [2925666](../reports/2925666.md) | Blind SSRF Vulnerability in Appstore Release Upload Form | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.9 | — | 42 |
+| 439 | [460815](../reports/460815.md) | Milestones leaked via search API | [GitLab](../by-program/gitlab.md) | Low | — | 42 |
+| 440 | [2258950](../reports/2258950.md) | Timeline API returns private post when target of a push notificat | [Automattic](../by-program/automattic.md) | Low | — | 37 |
+| 441 | [1183296](../reports/1183296.md) | Subdomain Takeover At the Main Domain Of Your Site  | [Sifchain](../by-program/sifchain.md) | Low | — | 37 |
+| 442 | [1121896](../reports/1121896.md) | Verifying email bypass | [Stripe](../by-program/stripe.md) | Low | — | 35 |
+| 443 | [3325582](../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /delete-to | [Mozilla](../by-program/mozilla.md) | Low | — | 35 |
+| 444 | [3390084](../reports/3390084.md) | fs.futimes() Bypasses Read-Only Permission Model | [Node.js](../by-program/nodejs.md) | Low — CVSS 2.8 | — | 33 |
+| 445 | [368119](../reports/368119.md) | [engineering.udemy.com] - Subdomain Takeover (ghost.io) | [Udemy](../by-program/udemy.md) | Low | — | 33 |
+| 446 | [2144868](../reports/2144868.md) | CVE-2023-40611: Apache Airflow Dag Runs Broken Access Control Vul | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 32 |
+| 447 | [2569993](../reports/2569993.md) | Reports submitted by a non 2fa setupped user account can be trans | [HackerOne](../by-program/security.md) | Low — CVSS 2.7 | — | 31 |
+| 448 | [818848](../reports/818848.md) | Read-only team members can read all properties of webhooks | [HackerOne](../by-program/security.md) | Low | — | 30 |
+| 449 | [1486820](../reports/1486820.md) | Invitation Email is resent as a Reminder after invalidating pendi | [Mattermost](../by-program/mattermost.md) | Low — CVSS 2.6 | — | 30 |
+| 450 | [1137218](../reports/1137218.md) | Access control issue on invoice documents downloading feature. | [Moneybird](../by-program/moneybird.md) | Low — CVSS 3.4 | — | 29 |
+| 451 | [986679](../reports/986679.md) | Debugging panel exposure | [LY Corporation](../by-program/line.md) | Low | — | 29 |
+| 452 | [1305432](../reports/1305432.md) | Bot setting information leakage in OpenChat room | [LY Corporation](../by-program/line.md) | Low | — | 29 |
+| 453 | [1784645](../reports/1784645.md) | Passcode bypass on Talk Android app | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.5 | — | 29 |
+| 454 | [540711](../reports/540711.md) | Access Projects And create projects in gitlab pre production serv | [GitLab](../by-program/gitlab.md) | Low | — | 28 |
+| 455 | [772886](../reports/772886.md) | Password Reset Link Works Multiple Times | [Nord Security](../by-program/nordsecurity.md) | Low | — | 26 |
+| 456 | [608656](../reports/608656.md) | Disabled account can still use GraphQL endpoint | [HackerOne](../by-program/security.md) | Low — CVSS 2.9 | — | 24 |
+| 457 | [1670304](../reports/1670304.md) | Card requirement bypass for business trial | [Krisp](../by-program/krisp.md) | Low | — | 22 |
+| 458 | [452920](../reports/452920.md) | Import of repositories from GitHub is tied to username instead of | [Liberapay](../by-program/liberapay.md) | Low | — | 22 |
+| 459 | [278151](../reports/278151.md) | Content Spoofing @ https://irclogs.wordpress.org/ | [WordPress](../by-program/wordpress.md) | Low | — | 22 |
+| 460 | [955286](../reports/955286.md) | Graphql: Sorting the reports by jira_status field resulted to dif | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | — | 20 |
+| 461 | [2472071](../reports/2472071.md) | fs.fchown/fchmod bypasses permission model | [Node.js](../by-program/nodejs.md) | Low — CVSS 3.3 | — | 20 |
+| 462 | [1222873](../reports/1222873.md) | Sensitive files/ data exists  post deletion of user account | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.1 | — | 20 |
+| 463 | [1847368](../reports/1847368.md) | Full Passcode bypass on Nextcloud App iOS | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 1.8 | — | 20 |
+| 464 | [1525578](../reports/1525578.md) | Github Account Takeover which is used as gradle vcs in "github.co | [Palantir Public](../by-program/palantir_public.md) | Low | — | 19 |
+| 465 | [1596459](../reports/1596459.md) | Talk Android broadcast receiver is not protected by broadcastPerm | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.6 | — | 19 |
+| 466 | [394332](../reports/394332.md) | [Клевер/Android] Небезопасный BroadcastReceiver позволяет создава | [VK.com](../by-program/vkcom.md) | Low | — | 18 |
+| 467 | [2078707](../reports/2078707.md) | Exposing Django Debug Panel and Sensitive Infrastructure Informat | [Mozilla](../by-program/mozilla.md) | Low — CVSS 3.7 | — | 17 |
+| 468 | [1439355](../reports/1439355.md) | Github base action takeover which is used in `github.com/Shopify/ | [Shopify](../by-program/shopify.md) | Low — CVSS 3.6 | — | 16 |
+| 469 | [1370749](../reports/1370749.md) | After changing the storefront password, the preview link is still | [Shopify](../by-program/shopify.md) | Low — CVSS 3.7 | — | 16 |
+| 470 | [1434967](../reports/1434967.md) | Github Account Takeover from Docs page of `kubernetes-csi.github. | [Kubernetes](../by-program/kubernetes.md) | Low | — | 15 |
+| 471 | [1587246](../reports/1587246.md) | Improper access control on Linkedin Page | [LinkedIn](../by-program/linkedin.md) | Low — CVSS 2.7 | — | 13 |
+| 472 | [1331361](../reports/1331361.md) | Broken Link Hijacking on kubernetes.io Documentation | [Kubernetes](../by-program/kubernetes.md) | Low | — | 12 |
+| 473 | [372452](../reports/372452.md) | CORS on (ws.infogram.com) | [Infogram](../by-program/infogram.md) | Low | — | 12 |
+| 474 | [507172](../reports/507172.md) | Able to bypass "Device credentials" Lock | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.8 | — | 12 |
+| 475 | [1745755](../reports/1745755.md) | Hide download previews are accessible without a watermark | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.3 | — | 11 |
+| 476 | [1494308](../reports/1494308.md) | Waitlist bypass for accessing SIGN.PLUS Beta | [Alohi](../by-program/alohi.md) | Low | — | 11 |
+| 477 | [1455987](../reports/1455987.md) | Improper Implementation of SDK Allows Universal XSS in Webview Le | [EXNESS](../by-program/exness.md) | Low | — | 11 |
+| 478 | [667408](../reports/667408.md) | Head pipeline leaked to unauthorized users via blocking merge req | [GitLab](../by-program/gitlab.md) | Low — CVSS 3.5 | — | 11 |
+| 479 | [439021](../reports/439021.md) | Web cache deception attack - expose earning state information | [Semrush](../by-program/semrush.md) | Low — CVSS 3.1 | — | 10 |
+| 480 | [1167958](../reports/1167958.md) | Nextcloud deck sharee search leaks searches to lookupserver by de | [Nextcloud](../by-program/nextcloud.md) | Low | — | 9 |
+| 481 | [1767771](../reports/1767771.md) | Able to take over .zyrosite.com subdomains via `/v3/publish/conne | [hostinger ](../by-program/hostinger.md) | Low | — | 9 |
+| 482 | [3521434](../reports/3521434.md) | View-only guests could see deleted Collectives pages in the trash | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.6 | — | 9 |
+| 483 | [473690](../reports/473690.md) | доступ к com.vk.usersstore.UsersContentProvider, возможна утечка  | [VK.com](../by-program/vkcom.md) | Low | — | 9 |
+| 484 | [3692858](../reports/3692858.md) | Permission Model Bypass via `process.report.writeReport()` Path M | [Node.js](../by-program/nodejs.md) | Low — CVSS 1.8 | — | 8 |
+| 485 | [2051224](../reports/2051224.md) | fs.statfs bypasses Permission Model | [Node.js](../by-program/nodejs.md) | Low — CVSS 3.3 | — | 8 |
+| 486 | [331302](../reports/331302.md) | Improper protection of FileContentProvider | [Nextcloud](../by-program/nextcloud.md) | Low | — | 7 |
+| 487 | [888261](../reports/888261.md) | The password of a mail share is not set if the password is given  | [Nextcloud](../by-program/nextcloud.md) | Low | — | 7 |
+| 488 | [1167919](../reports/1167919.md) | Default Nextcloud server config and iOS Nextcloud client leak sha | [Nextcloud](../by-program/nextcloud.md) | Low | — | 7 |
+| 489 | [358339](../reports/358339.md) | File access control rules not enforced on image files | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 7 |
+| 490 | [1398572](../reports/1398572.md) | Broken Link Takeover from kubernetes.io docs | [Kubernetes](../by-program/kubernetes.md) | Low | — | 6 |
+| 491 | [545052](../reports/545052.md) | Github wikis are editable by anyone #Githubwikistakeover | [curl](../by-program/curl.md) | Low | — | 6 |
+| 492 | [3449392](../reports/3449392.md) | CVE-2024-36137 Patch Bypass - FileHandle.chmod/chown | [Node.js](../by-program/nodejs.md) | Low — CVSS 3.3 | — | 6 |
+| 493 | [1283871](../reports/1283871.md) | Bypass of the installation sandbox by injecting keystrokes with T | [Homebrew](../by-program/homebrew.md) | Low — CVSS 2.0 | — | 5 |
+| 494 | [224095](../reports/224095.md) | password reset email spamming | [ownCloud](../by-program/owncloud.md) | Low | — | 4 |
+| 495 | [222080](../reports/222080.md) | The email API to reset password is unlimited and can be used as a | [Nextcloud](../by-program/nextcloud.md) | Low | — | 3 |
+| 496 | [739858](../reports/739858.md) | Able to download any hosted content on AWS S3 bucket(stripo) | [Stripo Inc](../by-program/stripo.md) | Low | — | 3 |
+| 497 | [3618831](../reports/3618831.md) | Unix domain socket server bypasses --permission network restricti | [Node.js](../by-program/nodejs.md) | Low — CVSS 3.3 | — | 1 |
+| 498 | [293490](../reports/293490.md) | [www.zomato.com] Leaking Email Addresses of merchants via reset p | [Eternal](../by-program/eternal.md) | None | — | 111 |
+| 499 | [2425873](../reports/2425873.md) | [Monero wallet RPC] File precreation to file ownership and creden | [Monero](../by-program/monero.md) | None | — | 75 |
+| 500 | [2567048](../reports/2567048.md) | Possible Subdomain Takeover For Inbound Emails | [Smule](../by-program/smule.md) | None | — | 47 |
+| 501 | [3097900](../reports/3097900.md) | `/names.nsf` and all `/names*` files route to public API on rubyg | [RubyGems](../by-program/rubygems.md) | None | — | 46 |
+| 502 | [2921905](../reports/2921905.md) | WAF bypass and java script incomplete handling of Unicode charact | [Doppler](../by-program/doppler.md) | None | — | 33 |
+| 503 | [271407](../reports/271407.md) | Admin Access to a domain used for development and admin access to | [Eternal](../by-program/eternal.md) | None | — | 31 |
+| 504 | [330135](../reports/330135.md) | S3 bucket unnecessarily discloses permissions | [Udemy](../by-program/udemy.md) | None | — | 27 |
+| 505 | [2543342](../reports/2543342.md) | Bypassing Two-Factor Authentication via Account Deactivation and  | [HackerOne](../by-program/security.md) | None | — | 27 |
+| 506 | [1835133](../reports/1835133.md) | S3 Bucket Takeover  "brave-browser-rpm-staging-release-test" | [Brave Software](../by-program/brave.md) | None | — | 24 |
+| 507 | [968742](../reports/968742.md) | Password reset by malicious input on air.line.me | [LY Corporation](../by-program/line.md) | None | — | 23 |
+| 508 | [1654145](../reports/1654145.md) | Open S3 Bucket Accessible by any Aws User | [GoCD](../by-program/gocd.md) | None | — | 19 |
+| 509 | [898841](../reports/898841.md) | Password reset link not expired at Stocky App | [Shopify](../by-program/shopify.md) | None | — | 19 |
+| 510 | [1911568](../reports/1911568.md) | Unauthenticated cache purging | [Fastly VDP](../by-program/fastly-vdp.md) | None | — | 16 |
+| 511 | [3650443](../reports/3650443.md) | no_proxy IDN mismatch: Unicode hostnames bypass proxy exclusion l | [curl](../by-program/curl.md) | None | — | 15 |
+| 512 | [1668258](../reports/1668258.md) | Reentrancy attack in eth-monero atomic swap | [Monero](../by-program/monero.md) | None | — | 15 |
+| 513 | [417453](../reports/417453.md) | Cross-origin resource sharing: arbitrary origin trusted on chatws | [Chaturbate](../by-program/chaturbate.md) | None | — | 13 |
+| 514 | [246838](../reports/246838.md) | by pass rate limit exceed  | [WakaTime](../by-program/wakatime.md) | None | — | 11 |
+| 515 | [895202](../reports/895202.md) | [H1-2006 2020] Multiple vulnerabilities allow to leak sensitive i | [h1-ctf](../by-program/h1-ctf.md) | None | — | 11 |
+| 516 | [260632](../reports/260632.md) | Improper validation of parameters while creating issues | [Legal Robot](../by-program/legalrobot.md) | None | — | 10 |
+| 517 | [1995595](../reports/1995595.md) | Response Manipulation to enable Account recovery key with out cur | [Mozilla](../by-program/mozilla.md) | None | — | 9 |
+| 518 | [860197](../reports/860197.md) | A staff without export customers permissions can still export cus | [Shopify](../by-program/shopify.md) | None | — | 9 |
+| 519 | [249337](../reports/249337.md) | Non-functional 2FA recovery codes | [Legal Robot](../by-program/legalrobot.md) | None | — | 9 |
+| 520 | [874574](../reports/874574.md) | Partner's non-verified business email change reflected into Shopi | [Shopify](../by-program/shopify.md) | None | — | 8 |
+| 521 | [229417](../reports/229417.md) | Design Flaw in session management of password reset  | [Weblate](../by-program/weblate.md) | None | — | 6 |
+| 522 | [223846](../reports/223846.md) | Access to completion page without performing any action | [Weblate](../by-program/weblate.md) | None | — | 5 |
+| 523 | [265987](../reports/265987.md) | Add another email address without verification | [Weblate](../by-program/weblate.md) | None | — | 5 |
+| 524 | [1167029](../reports/1167029.md) | Broken Authendication And Session Management | [Reddit](../by-program/reddit.md) | None | — | 5 |
+| 525 | [894170](../reports/894170.md) | [H1-2006 2020] Writeup | [h1-ctf](../by-program/h1-ctf.md) | None | — | 5 |
+| 526 | [937921](../reports/937921.md) | app.lemlist.com : Admin Panel Access | [lemlist](../by-program/lemlist.md) | None | — | 5 |
+| 527 | [475114](../reports/475114.md) | Github repo's wiki publicly editable | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
+| 528 | [461345](../reports/461345.md) | Security issue: Github repo's wiki publicly editable | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 3 |
+| 529 | [889333](../reports/889333.md) | [H1-2006 2020]  The Story of Making Bounty Hunters Happy | [h1-ctf](../by-program/h1-ctf.md) | None | — | 3 |

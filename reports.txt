@@ -9647,4 +9647,6 @@ https://hackerone.com/reports/3803415 | Secure cookies leaked to HTTP origins th
 https://hackerone.com/reports/3804525 | Vulnerability Report: Buffer Overflow in Path Sanitization
 https://hackerone.com/reports/3817602 | Node --run POSIX positional argument escaping allows shell command injection
 https://hackerone.com/reports/3823932 | CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabling HAProxy PROXY protocol injection
+https://hackerone.com/reports/3823985 | Use-after-free in `mev_forget_socket` when `curl_easy_pause()` is called from a `CURL_POLL_REMOVE` socket callback (incomplete fix of CVE-2026-9080)
+https://hackerone.com/reports/3824303 | UAF read in mev_pollset_diff() trace path after curl_easy_pause() in socket callback
 https://hackerone.com/reports/3826199 | mbedTLS / wolfSSL / rustls backends silently skip hostname verification when CURLOPT_SSL_VERIFYPEER=0

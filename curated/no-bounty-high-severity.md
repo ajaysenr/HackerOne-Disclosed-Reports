@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1680 total)
+# High/Critical Severity — No Bounty Paid (1681 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -695,6 +695,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [480883](../reports/480883.md) | Stack overflow in XML Parsing | [Notepad++](../by-program/notepad-plus-plus.md) | High — CVSS 8.1 | Resolved | 98 |
 | [1588732](../reports/1588732.md) | CSP-bypass XSS in project settings page | [GitLab](../by-program/gitlab.md) | High — CVSS 8.0 | Resolved | 98 |
 | [503283](../reports/503283.md) | Real Time Error Logs Through Debug Information | [Slack](../by-program/slack.md) | High — CVSS 8.2 | Resolved | 98 |
+| [1675516](../reports/1675516.md) | Stored XSS in reclamos | [MercadoLibre](../by-program/mercadolibre.md) | High — CVSS 7.4 | Resolved | 96 |
 | [470637](../reports/470637.md) | User-assisted RCE in Slack for macOS (from official site) due to  | [Slack](../by-program/slack.md) | High — CVSS 7.3 | Resolved | 96 |
 | [2264960](../reports/2264960.md) | Unrestricted Access to Celery Flower Instance | [EXNESS](../by-program/exness.md) | High | Resolved | 96 |
 | [659419](../reports/659419.md) | Reflected XSS on https://make.wordpress.org via 'channel' paramet | [WordPress](../by-program/wordpress.md) | High | Resolved | 96 |
