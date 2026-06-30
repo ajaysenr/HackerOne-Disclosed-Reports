@@ -8068,8 +8068,10 @@ https://hackerone.com/reports/1681208 | XSS DUE TO CVE-2022-38463 in https://█
 https://hackerone.com/reports/1683129 | XSS at TikTok Ads Endpoint
 https://hackerone.com/reports/1684163 | ReDoS (Rails::Html::PermitScrubber.scrub_attribute)
 https://hackerone.com/reports/1685822 | RepositoryPipeline allows importing of local git repos
+https://hackerone.com/reports/1685970 | Mass Accounts Takeover Without any user Interaction  at https://app.taxjar.com/ 
 https://hackerone.com/reports/1685979 | DoS via Playbook
 https://hackerone.com/reports/1686935 | CVE-2022-35252: control code in cookie denial of service
+https://hackerone.com/reports/1687005 | [user_oidc] Unencrypted Communications
 https://hackerone.com/reports/1687410 | [user_oidc] Stored XSS via Authorization Endpoint - Safari-Only
 https://hackerone.com/reports/1687415 | IDOR when editing email leads to Mass Full ATOs (Account Takeovers) without user interaction on https://██████/
 https://hackerone.com/reports/1688199 | Database resource exhaustion for logged-in users via sharee recommendations with circles
