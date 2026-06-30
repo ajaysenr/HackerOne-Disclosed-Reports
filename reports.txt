@@ -6074,6 +6074,7 @@ https://hackerone.com/reports/874924 | RCE (Remote code execution) in one of DoD
 https://hackerone.com/reports/875049 | Register with non accepted email types on https://███████
 https://hackerone.com/reports/876022 | RPC Implementation allows unauthenticated remote calls
 https://hackerone.com/reports/876192 | Cookie steal through content Uri
+https://hackerone.com/reports/876530 | Remote node DOS
 https://hackerone.com/reports/877300 | User with single department permission can view applicant list of all department's
 https://hackerone.com/reports/878145 | Blind stored XSS due to insecure contact form at https://www.topcoder.com leads to leakage of session token and other PII
 https://hackerone.com/reports/878339 | [extend-merge] Prototype pollution
@@ -8068,7 +8069,7 @@ https://hackerone.com/reports/1681208 | XSS DUE TO CVE-2022-38463 in https://█
 https://hackerone.com/reports/1683129 | XSS at TikTok Ads Endpoint
 https://hackerone.com/reports/1684163 | ReDoS (Rails::Html::PermitScrubber.scrub_attribute)
 https://hackerone.com/reports/1685822 | RepositoryPipeline allows importing of local git repos
-https://hackerone.com/reports/1685970 | Mass Accounts Takeover Without any user Interaction  at https://app.taxjar.com/ 
+https://hackerone.com/reports/1685970 | Mass Accounts Takeover Without any user Interaction  at https://app.taxjar.com/
 https://hackerone.com/reports/1685979 | DoS via Playbook
 https://hackerone.com/reports/1686935 | CVE-2022-35252: control code in cookie denial of service
 https://hackerone.com/reports/1687005 | [user_oidc] Unencrypted Communications
@@ -9345,6 +9346,7 @@ https://hackerone.com/reports/3384615 | Insufficient checks in the file path par
 https://hackerone.com/reports/3390084 | fs.futimes() Bypasses Read-Only Permission Model
 https://hackerone.com/reports/3393664 | SSRF via improper validation after DNS name resolution in the link-preview feature
 https://hackerone.com/reports/3399016 | Improper input validation On Exported deep-link handler crashes `FileDisplayActivity` on crafted external URL — Denial-of-Service
+https://hackerone.com/reports/3400140 | Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint
 https://hackerone.com/reports/3400143 | Credential Disclosure via Unvalidated directDownloadUrl (Missing DontAddCredentialsAttribute)
 https://hackerone.com/reports/3405778 | Timeout-based race conditions make Uint8Array/Buffer.alloc non-zerofilled
 https://hackerone.com/reports/3417819 | FS Permissions Bypass
@@ -9415,6 +9417,7 @@ https://hackerone.com/reports/3533945 | Timing side-channel in HMAC verification
 https://hackerone.com/reports/3542546 | Server-side ReDoS via user-controlled regex in OIDC Access Policy
 https://hackerone.com/reports/3543475 | Improper Access Control in `fizzy.do` import flow allows cross-tenant ActionText reference resolution and data disclosure
 https://hackerone.com/reports/3546390 | Assertion error in node_url.cc via malformed URL format leads to Node.js crash
+https://hackerone.com/reports/3547349 | Inverted ternary in peerlist_manager::filter() allows unlimited whitelist entries per host via different ports
 https://hackerone.com/reports/3556769 | Incomplete fix for CVE-2026-21637: loadSNI() in _tls_wrap.js lacks try/catch leading to Remote DoS
 https://hackerone.com/reports/3556892 | HTML Injection in DAST Trial Request Form Confirmation Email – PortSwigger
 https://hackerone.com/reports/3557138 | Arbitrary Code Execution via Scanner Bypass in **aws-diagram-mcp-server** `exec()` Namespace

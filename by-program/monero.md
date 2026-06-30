@@ -1,4 +1,4 @@
-# Monero — Disclosed Reports (41 total)
+# Monero — Disclosed Reports (43 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -25,23 +25,25 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 19 | [713321](../reports/713321.md) | Exploiting Network and Timing Side-Channels to Break Monero  | Medium — CVSS 6.8 | — | 15 | [ftramer](https://hackerone.com/ftramer) | 2019-11-15 |
 | 20 | [304770](../reports/304770.md) | Corrupt RPC responses from remote daemon nodes can lead to t | Medium | — | 13 | [monero-hax123](https://hackerone.com/monero-hax123) | 2018-03-16 |
 | 21 | [506496](../reports/506496.md) | RingCT malformed tx prevents target from being able to sweep | Medium — CVSS 6.5 | — | 9 | [organdonor1](https://hackerone.com/organdonor1) | 2019-04-20 |
-| 22 | [363714](../reports/363714.md) | monerod can be disabled by a well-timed TCP reset packet | Medium | — | 4 | [ahook](https://hackerone.com/ahook) | 2018-08-02 |
-| 23 | [592094](../reports/592094.md) | Remote Daemon RPC Attack | Medium | — | 4 | [padillac](https://hackerone.com/padillac) | 2019-07-03 |
-| 24 | [652911](../reports/652911.md) | CVE-2019-13132 - libzmq 4.1 series is vulnerable | Medium — CVSS 6.8 | — | 2 | [evertonmelo](https://hackerone.com/evertonmelo) | 2019-11-18 |
-| 25 | [340012](../reports/340012.md) | Buffer out of bound read in miniupnpc xml parser  | Low | — | 13 | [yukichen](https://hackerone.com/yukichen) | 2018-04-25 |
-| 26 | [511317](../reports/511317.md) | Potential use-after-free due to struct array_entry_t lacking | Low | — | 9 | [guido](https://hackerone.com/guido) | 2019-05-10 |
-| 27 | [803028](../reports/803028.md) | Monero wallet password change is confirmed when not matching | Low | — | 7 | [consistent-dream](https://hackerone.com/consistent-dream) | 2020-03-11 |
-| 28 | [284951](../reports/284951.md) | Out-of-bounds read when importing corrupt blockchain with mo | Low | — | 6 | [sybr](https://hackerone.com/sybr) | 2018-04-25 |
-| 29 | [361269](../reports/361269.md) | Trusted daemon check fails when proxied through torsocks or  | Low | — | 6 | [equim](https://hackerone.com/equim) | 2018-08-02 |
-| 30 | [344499](../reports/344499.md) | epee will accept an arbitrary amount of leading line-breaks  | Low | — | 4 | [ahook](https://hackerone.com/ahook) | 2018-08-02 |
-| 31 | [2425873](../reports/2425873.md) | [Monero wallet RPC] File precreation to file ownership and c | None | — | 75 | [selmelc](https://hackerone.com/selmelc) | 2024-09-04 |
-| 32 | [265161](../reports/265161.md) | Monero Website & Kovri on your policy are returning 404 not  | None | — | 29 | [r3y](https://hackerone.com/r3y) | 2018-04-25 |
-| 33 | [3240792](../reports/3240792.md) | Reported RPC Overflow | None | — | 25 | [jehrenhofermagicgrants](https://hackerone.com/jehrenhofermagicgrants) | 2026-04-06 |
-| 34 | [2315026](../reports/2315026.md) | Transactions in invalid blocks are kept in tx-pool without u | None | — | 22 | [boog900](https://hackerone.com/boog900) | 2025-04-23 |
-| 35 | [2693786](../reports/2693786.md) | A peer can remotely fill the pending block queue to an extre | None | — | 22 | [boog900](https://hackerone.com/boog900) | 2025-04-23 |
-| 36 | [3241102](../reports/3241102.md) | Reported Denial of Service | None | — | 22 | [jehrenhofermagicgrants](https://hackerone.com/jehrenhofermagicgrants) | 2026-04-06 |
-| 37 | [2677306](../reports/2677306.md) | Spamming highly nested JSON RPC requests cause node to disco | None | — | 22 | [asurar0](https://hackerone.com/asurar0) | 2025-04-23 |
-| 38 | [1668258](../reports/1668258.md) | Reentrancy attack in eth-monero atomic swap | None | — | 15 | [farinavito123](https://hackerone.com/farinavito123) | 2023-04-20 |
-| 39 | [265160](../reports/265160.md) | TabNabbing issue (due to taget=_blank) | None | — | 11 | [ursa](https://hackerone.com/ursa) | 2018-04-25 |
-| 40 | [390499](../reports/390499.md) | Stack Overflow in JSON RPC Server | None | — | 10 | [talko](https://hackerone.com/talko) | 2018-09-28 |
-| 41 | [3185083](../reports/3185083.md) | Connection Count Bug in Monero Node Enables Outbound Peer Re | None | — | 3 | [yulge](https://hackerone.com/yulge) | 2026-05-06 |
+| 22 | [876530](../reports/876530.md) | Remote node DOS | Medium — CVSS 5.3 | — | 5 | [xnbya](https://hackerone.com/xnbya) | 2026-06-29 |
+| 23 | [363714](../reports/363714.md) | monerod can be disabled by a well-timed TCP reset packet | Medium | — | 4 | [ahook](https://hackerone.com/ahook) | 2018-08-02 |
+| 24 | [592094](../reports/592094.md) | Remote Daemon RPC Attack | Medium | — | 4 | [padillac](https://hackerone.com/padillac) | 2019-07-03 |
+| 25 | [652911](../reports/652911.md) | CVE-2019-13132 - libzmq 4.1 series is vulnerable | Medium — CVSS 6.8 | — | 2 | [evertonmelo](https://hackerone.com/evertonmelo) | 2019-11-18 |
+| 26 | [340012](../reports/340012.md) | Buffer out of bound read in miniupnpc xml parser  | Low | — | 13 | [yukichen](https://hackerone.com/yukichen) | 2018-04-25 |
+| 27 | [511317](../reports/511317.md) | Potential use-after-free due to struct array_entry_t lacking | Low | — | 9 | [guido](https://hackerone.com/guido) | 2019-05-10 |
+| 28 | [803028](../reports/803028.md) | Monero wallet password change is confirmed when not matching | Low | — | 7 | [consistent-dream](https://hackerone.com/consistent-dream) | 2020-03-11 |
+| 29 | [284951](../reports/284951.md) | Out-of-bounds read when importing corrupt blockchain with mo | Low | — | 6 | [sybr](https://hackerone.com/sybr) | 2018-04-25 |
+| 30 | [361269](../reports/361269.md) | Trusted daemon check fails when proxied through torsocks or  | Low | — | 6 | [equim](https://hackerone.com/equim) | 2018-08-02 |
+| 31 | [344499](../reports/344499.md) | epee will accept an arbitrary amount of leading line-breaks  | Low | — | 4 | [ahook](https://hackerone.com/ahook) | 2018-08-02 |
+| 32 | [2425873](../reports/2425873.md) | [Monero wallet RPC] File precreation to file ownership and c | None | — | 75 | [selmelc](https://hackerone.com/selmelc) | 2024-09-04 |
+| 33 | [265161](../reports/265161.md) | Monero Website & Kovri on your policy are returning 404 not  | None | — | 29 | [r3y](https://hackerone.com/r3y) | 2018-04-25 |
+| 34 | [3240792](../reports/3240792.md) | Reported RPC Overflow | None | — | 25 | [jehrenhofermagicgrants](https://hackerone.com/jehrenhofermagicgrants) | 2026-04-06 |
+| 35 | [2315026](../reports/2315026.md) | Transactions in invalid blocks are kept in tx-pool without u | None | — | 22 | [boog900](https://hackerone.com/boog900) | 2025-04-23 |
+| 36 | [2693786](../reports/2693786.md) | A peer can remotely fill the pending block queue to an extre | None | — | 22 | [boog900](https://hackerone.com/boog900) | 2025-04-23 |
+| 37 | [3241102](../reports/3241102.md) | Reported Denial of Service | None | — | 22 | [jehrenhofermagicgrants](https://hackerone.com/jehrenhofermagicgrants) | 2026-04-06 |
+| 38 | [2677306](../reports/2677306.md) | Spamming highly nested JSON RPC requests cause node to disco | None | — | 22 | [asurar0](https://hackerone.com/asurar0) | 2025-04-23 |
+| 39 | [1668258](../reports/1668258.md) | Reentrancy attack in eth-monero atomic swap | None | — | 15 | [farinavito123](https://hackerone.com/farinavito123) | 2023-04-20 |
+| 40 | [265160](../reports/265160.md) | TabNabbing issue (due to taget=_blank) | None | — | 11 | [ursa](https://hackerone.com/ursa) | 2018-04-25 |
+| 41 | [390499](../reports/390499.md) | Stack Overflow in JSON RPC Server | None | — | 10 | [talko](https://hackerone.com/talko) | 2018-09-28 |
+| 42 | [3547349](../reports/3547349.md) | Inverted ternary in peerlist_manager::filter() allows unlimi | None | — | 4 | [kklam32](https://hackerone.com/kklam32) | 2026-06-29 |
+| 43 | [3185083](../reports/3185083.md) | Connection Count Bug in Monero Node Enables Outbound Peer Re | None | — | 3 | [yulge](https://hackerone.com/yulge) | 2026-05-06 |

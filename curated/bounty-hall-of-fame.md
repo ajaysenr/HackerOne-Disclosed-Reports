@@ -1,4 +1,4 @@
-# Bounty Hall of Fame — $10,000+ (78 total)
+# Bounty Hall of Fame — $10,000+ (79 total)
 
 | Report | Title | Program | Severity | Bounty | Votes |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [1731349](../reports/1731349.md) | Stored XSS via Kroki diagram | [GitLab](../by-program/gitlab.md) | High — CVSS 8.7 | $13,950 | 293 |
 | [1481207](../reports/1481207.md) | Stored XSS in Notes (with CSP bypass for gitlab.com) | [GitLab](../by-program/gitlab.md) | High — CVSS 8.7 | $13,950 | 160 |
 | [1578400](../reports/1578400.md) | New /add_contacts /remove_contacts quick commands susseptible to  | [GitLab](../by-program/gitlab.md) | High — CVSS 8.7 | $13,950 | 91 |
+| [1685970](../reports/1685970.md) | Mass Accounts Takeover Without any user Interaction  at https://a | [Stripe](../by-program/stripe.md) | High — CVSS 8.1 | $13,000 | 209 |
 | [3287208](../reports/3287208.md) | DOS via Mutation Aliasing in GraphQL Account Recovery Phone Numbe | [HackerOne](../by-program/security.md) | None | $12,500 | 141 |
 | [2032716](../reports/2032716.md) | An attacker can can view any hacker email via  /SaveCollaborators | [HackerOne](../by-program/security.md) | High — CVSS 8.3 | $12,500 | 422 |
 | [838635](../reports/838635.md) | Spring Actuator endpoints publicly available and broken authentic | [LY Corporation](../by-program/line.md) | Critical | $12,500 | 232 |
