@@ -8078,10 +8078,13 @@ https://hackerone.com/reports/1687415 | IDOR when editing email leads to Mass Fu
 https://hackerone.com/reports/1688199 | Database resource exhaustion for logged-in users via sharee recommendations with circles
 https://hackerone.com/reports/1688309 | [MK8DX] Improper metadata parsing
 https://hackerone.com/reports/1690000 | Weak randomness in WebCrypto keygen
+https://hackerone.com/reports/1690044 | IDOR leaking PII data via VendorId parameter
 https://hackerone.com/reports/1690093 | Airflow Daemon Mode Insecure Umask Privilege Escalation
+https://hackerone.com/reports/1690377 | Relative Path Traversal vulnerability in fabric-private-chaincode
 https://hackerone.com/reports/1690427 | Managing Pages
 https://hackerone.com/reports/1690510 | the complete server installation path is visible in cloud/user endpoint
 https://hackerone.com/reports/1690548 | Authentication bypass leads to Information Disclosure at  U.S Air Force "https://███"
+https://hackerone.com/reports/1690951 | Subdomain Takeover at course.oberlo.com
 https://hackerone.com/reports/1691195 | Missing rate limiting on password reset functionality allows to send lot of emails
 https://hackerone.com/reports/1691501 | Blind SSRF via image upload URL downloader on https://██████/
 https://hackerone.com/reports/1691603 | A Unverified User Can Post Newsletter (Which Is Not Allowed Through Application UI)
