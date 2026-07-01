@@ -8088,9 +8088,12 @@ https://hackerone.com/reports/1690951 | Subdomain Takeover at course.oberlo.com
 https://hackerone.com/reports/1691195 | Missing rate limiting on password reset functionality allows to send lot of emails
 https://hackerone.com/reports/1691501 | Blind SSRF via image upload URL downloader on https://██████/
 https://hackerone.com/reports/1691603 | A Unverified User Can Post Newsletter (Which Is Not Allowed Through Application UI)
+https://hackerone.com/reports/1691888 | Firebase credentials leak
+https://hackerone.com/reports/1692603 | Jitsi Desktop Client RCE By Interacting with Malicious URL Schemes on Windows
 https://hackerone.com/reports/1692788 | Attacker is able to query Github repositories of arbitrary Shopify Hydrogen Users
 https://hackerone.com/reports/1693150 | Bypass: Stored-XSS with CSP-bypass via scoped labels' color
 https://hackerone.com/reports/1694037 | Stored XSS in the ticketing system
+https://hackerone.com/reports/1694171 | Multiple cross-site scripting (XSS) vulnerabilities in Revive Adserver
 https://hackerone.com/reports/1694304 | Able to see Twitter Circle tweets due to improper access control on the "FavoriteTweet" endpoint
 https://hackerone.com/reports/1695454 | IDOR in API applications (able to see any API token, leads to account takeover)
 https://hackerone.com/reports/1695472 | DOS validator nodes of blockchain to block external connections
