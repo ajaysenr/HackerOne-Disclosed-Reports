@@ -8097,7 +8097,9 @@ https://hackerone.com/reports/1694171 | Multiple cross-site scripting (XSS) vuln
 https://hackerone.com/reports/1694304 | Able to see Twitter Circle tweets due to improper access control on the "FavoriteTweet" endpoint
 https://hackerone.com/reports/1695454 | IDOR in API applications (able to see any API token, leads to account takeover)
 https://hackerone.com/reports/1695472 | DOS validator nodes of blockchain to block external connections
+https://hackerone.com/reports/1695596 | Node 18 reads openssl.cnf from /home/iojs/build/... upon startup on MacOS
 https://hackerone.com/reports/1695604 | DoS Vulnerability via Cache Poisoning on cdn.shopify.com and shopify-assets.shopifycdn.com
+https://hackerone.com/reports/1696814 | No Restriction on password
 https://hackerone.com/reports/1697599 | Remotely Accessible Container Advisor exposed performance metrics and resource usage
 https://hackerone.com/reports/1698006 | IDOR  [mtnmobad.mtnbusiness.com.ng]
 https://hackerone.com/reports/1698316 | Cache Deception Allows Account Takeover
