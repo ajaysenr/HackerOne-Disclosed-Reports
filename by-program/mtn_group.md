@@ -1,4 +1,4 @@
-# MTN Group — Disclosed Reports (74 total)
+# MTN Group — Disclosed Reports (75 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -76,5 +76,6 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 70 | [761573](../reports/761573.md) | Cross-Site Scripting through search form on mtnplay.co.zm | Low | — | 40 | [cristiancornea](https://hackerone.com/cristiancornea) | 2021-06-08 |
 | 71 | [2682974](../reports/2682974.md) | Social media account takeover  | Low — CVSS 3.7 | — | 37 | [haythem02](https://hackerone.com/haythem02) | 2024-11-03 |
 | 72 | [1408589](../reports/1408589.md) | Wordpress users disclosure from json and xml file | Low — CVSS 3.7 | — | 6 | [drak3hft7](https://hackerone.com/drak3hft7) | 2022-09-02 |
-| 73 | [1305766](../reports/1305766.md) | There is no rate limit for SME REGISTRATION PORTAL | None | — | 14 | [sachinrajput](https://hackerone.com/sachinrajput) | 2022-09-19 |
-| 74 | [1058135](../reports/1058135.md) | Developer Mistake | None | — | 11 | [coyemerald](https://hackerone.com/coyemerald) | 2022-12-25 |
+| 73 | [1691888](../reports/1691888.md) | Firebase credentials leak | None | — | 20 | [jimmisimon](https://hackerone.com/jimmisimon) | 2022-12-15 |
+| 74 | [1305766](../reports/1305766.md) | There is no rate limit for SME REGISTRATION PORTAL | None | — | 14 | [sachinrajput](https://hackerone.com/sachinrajput) | 2022-09-19 |
+| 75 | [1058135](../reports/1058135.md) | Developer Mistake | None | — | 11 | [coyemerald](https://hackerone.com/coyemerald) | 2022-12-25 |

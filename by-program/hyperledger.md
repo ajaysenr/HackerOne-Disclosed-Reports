@@ -1,4 +1,4 @@
-# Linux Foundation Decentralized Trust — Disclosed Reports (21 total)
+# Linux Foundation Decentralized Trust — Disclosed Reports (22 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -22,6 +22,7 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 16 | [2779070](../reports/2779070.md) | Memory Leak in bytes_to_hexstring Function | Low | — | 25 | [cutiapretaa](https://hackerone.com/cutiapretaa) | 2024-10-24 |
 | 17 | [1639423](../reports/1639423.md) | Insecure TLS Configuration #3530 | Low | — | 2 | [bhaskar_ram](https://hackerone.com/bhaskar_ram) | 2022-08-01 |
 | 18 | [1670187](../reports/1670187.md) | Cross Site Scripting Vulnerability in fabric-sdk-py source c | None | — | 9 | [bhaskar_ram](https://hackerone.com/bhaskar_ram) | 2022-08-17 |
-| 19 | [926222](../reports/926222.md) | Vulnerability in Private Data Endorsement Policy Management  | None | — | 6 | [swang1994](https://hackerone.com/swang1994) | 2021-03-30 |
-| 20 | [951623](../reports/951623.md) | Vulnerabilities in Endorsement Mechanism of Private Data Rel | None | — | 3 | [swang1994](https://hackerone.com/swang1994) | 2021-03-30 |
-| 21 | [1763343](../reports/1763343.md) | Dependency confusion in https://github.com/hyperledger/aries | None | — | 1 | [r3drush](https://hackerone.com/r3drush) | 2023-02-07 |
+| 19 | [1690377](../reports/1690377.md) | Relative Path Traversal vulnerability in fabric-private-chai | None | — | 6 | [bhaskar_ram](https://hackerone.com/bhaskar_ram) | 2022-10-09 |
+| 20 | [926222](../reports/926222.md) | Vulnerability in Private Data Endorsement Policy Management  | None | — | 6 | [swang1994](https://hackerone.com/swang1994) | 2021-03-30 |
+| 21 | [951623](../reports/951623.md) | Vulnerabilities in Endorsement Mechanism of Private Data Rel | None | — | 3 | [swang1994](https://hackerone.com/swang1994) | 2021-03-30 |
+| 22 | [1763343](../reports/1763343.md) | Dependency confusion in https://github.com/hyperledger/aries | None | — | 1 | [r3drush](https://hackerone.com/r3drush) | 2023-02-07 |

@@ -1,4 +1,4 @@
-# Weakness: Path Traversal (142 reports)
+# Weakness: Path Traversal (143 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -146,3 +146,4 @@
 | 140 | [1313040](../reports/1313040.md) | Path Traversal on meetcqpub1.gsa.gov allows attackers to see arbi | [U.S. General Services Administration](../by-program/gsa_vdp.md) | Low — CVSS 3.7 | — | 11 |
 | 141 | [1353603](../reports/1353603.md) | Fix for CVE-2021-22151 (Kibana path traversal issue) can be bypas | [Elastic](../by-program/elastic.md) | Low — CVSS 3.1 | — | 10 |
 | 142 | [310671](../reports/310671.md) | [file-static-server] Path Traversal allows to read content of arb | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 3.5 | — | 3 |
+| 143 | [1690377](../reports/1690377.md) | Relative Path Traversal vulnerability in fabric-private-chaincode | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | None | — | 6 |

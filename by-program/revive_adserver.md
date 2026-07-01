@@ -1,4 +1,4 @@
-# Revive Adserver — Disclosed Reports (37 total)
+# Revive Adserver — Disclosed Reports (38 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -39,5 +39,6 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 33 | [3445332](../reports/3445332.md) | INI Format string injection in Revive Adserver 6.0.4 setting | Low — CVSS 2.7 | — | 19 | [pakcyberbot](https://hackerone.com/pakcyberbot) | 2026-01-14 |
 | 34 | [176116](../reports/176116.md) | Weak Forgot Password implementation | Low | — | 17 | [pavanw3b](https://hackerone.com/pavanw3b) | 2017-08-02 |
 | 35 | [794144](../reports/794144.md) | Open redirection bypass in /www/admin/campaign-modify.php | Low | — | 7 | [hoangn14](https://hackerone.com/hoangn14) | 2020-03-12 |
-| 36 | [170156](../reports/170156.md) | Reflected XSS in Step 2 of the Installation | None | — | 6 | [pavanw3b](https://hackerone.com/pavanw3b) | 2017-08-02 |
-| 37 | [3680090](../reports/3680090.md) | Stored XSS via malicious usernames in audit log details + Us | None | — | 2 | [3l4](https://hackerone.com/3l4) | 2026-06-03 |
+| 36 | [1694171](../reports/1694171.md) | Multiple cross-site scripting (XSS) vulnerabilities in Reviv | Low | — | 5 | [l4stb1t](https://hackerone.com/l4stb1t) | 2023-09-13 |
+| 37 | [170156](../reports/170156.md) | Reflected XSS in Step 2 of the Installation | None | — | 6 | [pavanw3b](https://hackerone.com/pavanw3b) | 2017-08-02 |
+| 38 | [3680090](../reports/3680090.md) | Stored XSS via malicious usernames in audit log details + Us | None | — | 2 | [3l4](https://hackerone.com/3l4) | 2026-06-03 |

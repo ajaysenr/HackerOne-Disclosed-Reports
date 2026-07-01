@@ -1,4 +1,4 @@
-# Shopify — Disclosed Reports (434 total)
+# Shopify — Disclosed Reports (435 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -360,81 +360,82 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 354 | [159522](../reports/159522.md) | Open redirect using checkout_url | None | — | 17 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2016-09-01 |
 | 355 | [854299](../reports/854299.md) | Self XSS in Timeline  | None | — | 16 | [ryat](https://hackerone.com/ryat) | 2020-08-25 |
 | 356 | [1267677](../reports/1267677.md) | Improper Input Validation on https://oberlo-image-proxy.shop | None | — | 16 | [riramar](https://hackerone.com/riramar) | 2021-08-16 |
-| 357 | [97501](../reports/97501.md) | SVG parser loads external resources on image upload | None | — | 14 | [ogig](https://hackerone.com/ogig) | 2016-06-02 |
-| 358 | [1067443](../reports/1067443.md) | Screenshot Service leaks X-ABS-App-Token | None | — | 14 | [corraldev](https://hackerone.com/corraldev) | 2021-02-12 |
-| 359 | [189378](../reports/189378.md) | Unauthenticated Stored XSS on <any>.myshopify.com via checko | None | — | 14 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2016-12-16 |
-| 360 | [166887](../reports/166887.md) | Unsanitized Location Name in POS Channel can lead to XSS in  | None | — | 12 | [nismo](https://hackerone.com/nismo) | 2016-09-19 |
-| 361 | [167075](../reports/167075.md) | XSS in SHOPIFY: Unsanitized Supplier Name  can lead to XSS i | None | — | 12 | [nismo](https://hackerone.com/nismo) | 2016-09-19 |
-| 362 | [155222](../reports/155222.md) | (BYPASS) Open Redirect after login at http://ecommerce.shopi | None | — | 12 | [jamesclyde](https://hackerone.com/jamesclyde) | 2016-09-01 |
-| 363 | [423437](../reports/423437.md) | H1514 Shopify API ruby SDK session setup lacks input validat | None | — | 11 | [jobert](https://hackerone.com/jobert) | 2019-04-05 |
-| 364 | [1092831](../reports/1092831.md) | Password reset token leak via "Host header"  on third party  | None | — | 11 | [danishalkatiri](https://hackerone.com/danishalkatiri) | 2022-02-10 |
-| 365 | [965510](../reports/965510.md) | Password protection can be removed for newly created develop | None | — | 11 | [imgnotfound](https://hackerone.com/imgnotfound) | 2020-09-14 |
-| 366 | [57505](../reports/57505.md) | amazon aws s3 bucket content is public :-  http://shopify.co | None | — | 11 | [pulkit_pandey](https://hackerone.com/pulkit_pandey) | 2015-10-15 |
-| 367 | [103351](../reports/103351.md) | [CSRF] Install premium themes  | None | — | 11 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2016-07-27 |
-| 368 | [95089](../reports/95089.md) | Reflected XSS in cart at hardware.shopify.com | None | — | 10 | [juhhga](https://hackerone.com/juhhga) | 2015-12-22 |
-| 369 | [154410](../reports/154410.md) | Delete/modify  your own comment after limited access(IDOR) | None | — | 9 | [indoappsec](https://hackerone.com/indoappsec) | 2016-08-09 |
-| 370 | [860197](../reports/860197.md) | A staff without export customers permissions can still expor | None | — | 9 | [ryat](https://hackerone.com/ryat) | 2020-09-15 |
-| 371 | [67377](../reports/67377.md) | SSRF via 'Add Image from URL' feature | None | — | 9 | [alpha](https://hackerone.com/alpha) | 2015-07-15 |
-| 372 | [58679](../reports/58679.md) | SSL cookie without secure flag set | None | — | 9 | [blackpanther_pintoo](https://hackerone.com/blackpanther_pintoo) | 2015-07-13 |
-| 373 | [58630](../reports/58630.md) | Content Spoofing | None | — | 9 | [zerohat](https://hackerone.com/zerohat) | 2015-05-05 |
-| 374 | [56002](../reports/56002.md) | Shopify android client all API request's response leakage, i | None | — | 8 | [sukhoi](https://hackerone.com/sukhoi) | 2015-07-04 |
-| 375 | [1017576](../reports/1017576.md) | Order lookup features of Shopify Chat Application leads to c | None | — | 8 | [imgnotfound](https://hackerone.com/imgnotfound) | 2020-11-19 |
-| 376 | [157876](../reports/157876.md) | (FULL PATH DISCLOSURE) Unknown MySQL server host 'shardm-rea | None | — | 8 | [jamesclyde](https://hackerone.com/jamesclyde) | 2016-09-01 |
-| 377 | [874574](../reports/874574.md) | Partner's non-verified business email change reflected into  | None | — | 8 | [imgnotfound](https://hackerone.com/imgnotfound) | 2020-09-14 |
-| 378 | [54779](../reports/54779.md) | Missing spf flags for myshopify.com | None | — | 8 | [shpendk13](https://hackerone.com/shpendk13) | 2015-04-16 |
-| 379 | [1018336](../reports/1018336.md) | Customer's full name disclosure via Shopify Chat (by email l | None | — | 8 | [imgnotfound](https://hackerone.com/imgnotfound) | 2020-11-19 |
-| 380 | [962895](../reports/962895.md) | Stocky App Administrator can create a backdoor admin account | None | — | 8 | [imgnotfound](https://hackerone.com/imgnotfound) | 2020-08-24 |
-| 381 | [952035](../reports/952035.md) | Admin web sessions remain active after logout of Shopify ID | None | — | 7 | [jaka-tingkir](https://hackerone.com/jaka-tingkir) | 2020-09-14 |
-| 382 | [167846](../reports/167846.md) | Deleted Post and Administrative Function Access in eCommerce | None | — | 7 | [ysx](https://hackerone.com/ysx) | 2016-10-05 |
-| 383 | [155704](../reports/155704.md) | Staff member can delete Private Apps | None | — | 7 | [indoappsec](https://hackerone.com/indoappsec) | 2016-08-09 |
-| 384 | [57459](../reports/57459.md) | XSS in experts.shopify.com | None | — | 7 | [haxs101](https://hackerone.com/haxs101) | 2015-05-19 |
-| 385 | [135756](../reports/135756.md) | View all deleted comments and rating of any app . | None | — | 7 | [vijay_kumar](https://hackerone.com/vijay_kumar) | 2016-09-01 |
-| 386 | [56628](../reports/56628.md) | Payment gateway status transferred to Shopify without authen | None | — | 7 | [ishwar_prasad_bhat](https://hackerone.com/ishwar_prasad_bhat) | 2016-09-27 |
-| 387 | [117449](../reports/117449.md) | XSS in Draft Orders in Timeline i SHOPIFY Admin Site! | None | — | 7 | [nismo](https://hackerone.com/nismo) | 2016-07-28 |
-| 388 | [55716](../reports/55716.md) | Force 500 Internal Server Error on any shop (for one user) | None | — | 7 | [4lemon](https://hackerone.com/4lemon) | 2015-06-09 |
-| 389 | [77802](../reports/77802.md) | TCP Source Port Pass Firewall | None | — | 6 | [salmankhanchampion](https://hackerone.com/salmankhanchampion) | 2015-08-11 |
-| 390 | [161991](../reports/161991.md) | Open Redirect possible in https://www.shopify.com/admin/ | None | — | 6 | [jamesclyde](https://hackerone.com/jamesclyde) | 2016-08-31 |
-| 391 | [95589](../reports/95589.md) | Privilege escalation and circumvention of permission to limi | None | — | 6 | [egrep](https://hackerone.com/egrep) | 2015-11-11 |
-| 392 | [105363](../reports/105363.md) | [livechat.shopify.com] Cookie bomb at customer chats | None | — | 6 | [s_p_q_r](https://hackerone.com/s_p_q_r) | 2016-01-19 |
-| 393 | [67389](../reports/67389.md) | SSRF via 'Insert Image' feature of Products/Collections/Fron | None | — | 5 | [alpha](https://hackerone.com/alpha) | 2015-08-24 |
-| 394 | [3697491](../reports/3697491.md) | Missing HMAC validation on /uninstall webhook in Shopify/sam | None | — | 5 | [cipher-kid](https://hackerone.com/cipher-kid) | 2026-06-01 |
-| 395 | [94899](../reports/94899.md) | Paid account can review\download any invoice of any other sh | None | — | 5 | [dvl](https://hackerone.com/dvl) | 2015-10-22 |
-| 396 | [216389](../reports/216389.md) | Full access at an internal service of Shopify | None | — | 5 | [jamesclyde](https://hackerone.com/jamesclyde) | 2017-03-28 |
-| 397 | [96855](../reports/96855.md) | Staff members with no permission to  access domains can acce | None | — | 5 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2015-11-03 |
-| 398 | [838231](../reports/838231.md) | *.shopify.com - Authentication bypass | None | — | 5 | [nooblife](https://hackerone.com/nooblife) | 2020-08-24 |
-| 399 | [111218](../reports/111218.md) | Attach Pinterest account - no State/CSRF parameter in Oauth  | None | — | 5 | [akhil-reni](https://hackerone.com/akhil-reni) | 2016-02-01 |
-| 400 | [54321](../reports/54321.md) | Xss in website's link | None | — | 5 | [bohdansec](https://hackerone.com/bohdansec) | 2015-05-13 |
-| 401 | [123125](../reports/123125.md) | XSS on hardware.shopify.com | None | — | 5 | [virtualhunter](https://hackerone.com/virtualhunter) | 2016-04-09 |
-| 402 | [57125](../reports/57125.md) | comment out causes information disclosure | None | — | 5 | [shhnjk](https://hackerone.com/shhnjk) | 2015-04-19 |
-| 403 | [62427](../reports/62427.md) | XSS in myshopify.com Admin site in TAX Overrides | None | — | 4 | [nismo](https://hackerone.com/nismo) | 2015-06-09 |
-| 404 | [96007](../reports/96007.md) | Domain takoever - https://sellocdn.com | None | — | 4 | [uname](https://hackerone.com/uname) | 2015-11-03 |
-| 405 | [72793](../reports/72793.md) | Prevent Shop Admin From Seeing his Installed Apps / Install  | None | — | 4 | [prakharprasad](https://hackerone.com/prakharprasad) | 2015-09-29 |
-| 406 | [55842](../reports/55842.md) | [persistent cross-site scripting] customers can target admin | None | — | 4 | [akhil-reni](https://hackerone.com/akhil-reni) | 2015-07-01 |
-| 407 | [64941](../reports/64941.md) | Header Misconfiguration - PHP API | None | — | 4 | [paulos__](https://hackerone.com/paulos__) | 2015-06-11 |
-| 408 | [95441](../reports/95441.md) | Unauthorized access to any Store Admin's First & Last name | None | — | 4 | [hazimaslam](https://hackerone.com/hazimaslam) | 2015-11-07 |
-| 409 | [99374](../reports/99374.md) | deleted staff member can add his amazon marketplace web serv | None | — | 4 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2015-11-18 |
-| 410 | [409973](../reports/409973.md) | Some store settings/data are accessible to "No Access" permi | None | — | 4 | [tolo7010](https://hackerone.com/tolo7010) | 2020-08-18 |
-| 411 | [100667](../reports/100667.md) | CSV Excel Macro Injection Vulnerability in export list of cu | None | — | 4 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2015-12-01 |
-| 412 | [56936](../reports/56936.md) | Notification request disclose private information about othe | None | — | 4 | [dvl](https://hackerone.com/dvl) | 2015-09-24 |
-| 413 | [98151](../reports/98151.md) | Non-owner user can remove online store channel and re-add it | None | — | 4 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2015-12-03 |
-| 414 | [99321](../reports/99321.md) |  [CSRF] Activate PayPal Express Checkout | None | — | 4 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2015-12-03 |
-| 415 | [90862](../reports/90862.md) | Passwords Returned in Later Responses. | None | — | 3 | [iamavinasht](https://hackerone.com/iamavinasht) | 2015-09-30 |
-| 416 | [101450](../reports/101450.md) | XSS in creating tweets | None | — | 3 | [haxs101](https://hackerone.com/haxs101) | 2015-12-03 |
-| 417 | [56726](../reports/56726.md) | Invitation issue | None | — | 3 | [frozen](https://hackerone.com/frozen) | 2015-09-16 |
-| 418 | [93901](../reports/93901.md) | Bypassing password requirement during deletion of accout | None | — | 3 | [computerk](https://hackerone.com/computerk) | 2015-11-03 |
-| 419 | [81757](../reports/81757.md) | Reflected XSS in chat. | None | — | 3 | [dz_samir](https://hackerone.com/dz_samir) | 2015-09-02 |
-| 420 | [55644](../reports/55644.md) | Lack of SSL Pinning on POS Application ( iOS ) | None | — | 3 | [ishikawa](https://hackerone.com/ishikawa) | 2015-05-21 |
-| 421 | [92633](../reports/92633.md) | The POS Firmware is leaking the root Password which can be u | None | — | 3 | [patrik](https://hackerone.com/patrik) | 2015-10-09 |
-| 422 | [93294](../reports/93294.md) | First & Last Name Disclosure of any Shopify Store Admin | None | — | 3 | [hazimaslam](https://hackerone.com/hazimaslam) | 2015-11-09 |
-| 423 | [93394](../reports/93394.md) | Unauthenticated access to details of hidden products in any  | None | — | 3 | [juhhga](https://hackerone.com/juhhga) | 2015-10-23 |
-| 424 | [67220](../reports/67220.md) | Expire User Sessions in Admin Site does not expire user sess | None | — | 3 | [nismo](https://hackerone.com/nismo) | 2015-07-15 |
-| 425 | [90671](../reports/90671.md) | Privilege escalation vulnerability | None | — | 3 | [marhvhelous](https://hackerone.com/marhvhelous) | 2015-10-14 |
-| 426 | [104931](../reports/104931.md) | CSRF in Connecting Pinterest Account | None | — | 2 | [mercurii](https://hackerone.com/mercurii) | 2016-02-02 |
-| 427 | [81441](../reports/81441.md) | XSS https://delivery.shopifyapps.com/  (Digital Downloads Ap | None | — | 2 | [dz_samir](https://hackerone.com/dz_samir) | 2015-08-24 |
-| 428 | [134757](../reports/134757.md) | staff memeber can install apps even if have limitied access  | None | — | 2 | [abdellahya](https://hackerone.com/abdellahya) | 2016-05-04 |
-| 429 | [106897](../reports/106897.md) | Stored XSS in /admin/orders  | None | — | 2 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2016-02-17 |
-| 430 | [71614](../reports/71614.md) | XSS in Myshopify Admin Site in DISCOUNTS | None | — | 2 | [nismo](https://hackerone.com/nismo) | 2015-07-20 |
-| 431 | [56779](../reports/56779.md) | XSS on ecommerce.shopify.com | None | — | 2 | [abze](https://hackerone.com/abze) | 2015-09-06 |
-| 432 | [73566](../reports/73566.md) | Reflected XSS in chat | None | — | 2 | [skavans](https://hackerone.com/skavans) | 2015-08-11 |
-| 433 | [72976](../reports/72976.md) | Body injection in mailto link while commenting shop blog | None | — | 2 | [skavans](https://hackerone.com/skavans) | 2015-09-10 |
-| 434 | [62861](../reports/62861.md) | Bulk Discount App in myshopify.com exposes http://bulkdiscou | None | — | 2 | [nismo](https://hackerone.com/nismo) | 2015-07-23 |
+| 357 | [1690951](../reports/1690951.md) | Subdomain Takeover at course.oberlo.com | None | — | 14 | [m7mdharoun](https://hackerone.com/m7mdharoun) | 2022-12-01 |
+| 358 | [97501](../reports/97501.md) | SVG parser loads external resources on image upload | None | — | 14 | [ogig](https://hackerone.com/ogig) | 2016-06-02 |
+| 359 | [1067443](../reports/1067443.md) | Screenshot Service leaks X-ABS-App-Token | None | — | 14 | [corraldev](https://hackerone.com/corraldev) | 2021-02-12 |
+| 360 | [189378](../reports/189378.md) | Unauthenticated Stored XSS on <any>.myshopify.com via checko | None | — | 14 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2016-12-16 |
+| 361 | [166887](../reports/166887.md) | Unsanitized Location Name in POS Channel can lead to XSS in  | None | — | 12 | [nismo](https://hackerone.com/nismo) | 2016-09-19 |
+| 362 | [167075](../reports/167075.md) | XSS in SHOPIFY: Unsanitized Supplier Name  can lead to XSS i | None | — | 12 | [nismo](https://hackerone.com/nismo) | 2016-09-19 |
+| 363 | [155222](../reports/155222.md) | (BYPASS) Open Redirect after login at http://ecommerce.shopi | None | — | 12 | [jamesclyde](https://hackerone.com/jamesclyde) | 2016-09-01 |
+| 364 | [423437](../reports/423437.md) | H1514 Shopify API ruby SDK session setup lacks input validat | None | — | 11 | [jobert](https://hackerone.com/jobert) | 2019-04-05 |
+| 365 | [1092831](../reports/1092831.md) | Password reset token leak via "Host header"  on third party  | None | — | 11 | [danishalkatiri](https://hackerone.com/danishalkatiri) | 2022-02-10 |
+| 366 | [965510](../reports/965510.md) | Password protection can be removed for newly created develop | None | — | 11 | [imgnotfound](https://hackerone.com/imgnotfound) | 2020-09-14 |
+| 367 | [57505](../reports/57505.md) | amazon aws s3 bucket content is public :-  http://shopify.co | None | — | 11 | [pulkit_pandey](https://hackerone.com/pulkit_pandey) | 2015-10-15 |
+| 368 | [103351](../reports/103351.md) | [CSRF] Install premium themes  | None | — | 11 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2016-07-27 |
+| 369 | [95089](../reports/95089.md) | Reflected XSS in cart at hardware.shopify.com | None | — | 10 | [juhhga](https://hackerone.com/juhhga) | 2015-12-22 |
+| 370 | [154410](../reports/154410.md) | Delete/modify  your own comment after limited access(IDOR) | None | — | 9 | [indoappsec](https://hackerone.com/indoappsec) | 2016-08-09 |
+| 371 | [860197](../reports/860197.md) | A staff without export customers permissions can still expor | None | — | 9 | [ryat](https://hackerone.com/ryat) | 2020-09-15 |
+| 372 | [67377](../reports/67377.md) | SSRF via 'Add Image from URL' feature | None | — | 9 | [alpha](https://hackerone.com/alpha) | 2015-07-15 |
+| 373 | [58679](../reports/58679.md) | SSL cookie without secure flag set | None | — | 9 | [blackpanther_pintoo](https://hackerone.com/blackpanther_pintoo) | 2015-07-13 |
+| 374 | [58630](../reports/58630.md) | Content Spoofing | None | — | 9 | [zerohat](https://hackerone.com/zerohat) | 2015-05-05 |
+| 375 | [56002](../reports/56002.md) | Shopify android client all API request's response leakage, i | None | — | 8 | [sukhoi](https://hackerone.com/sukhoi) | 2015-07-04 |
+| 376 | [1017576](../reports/1017576.md) | Order lookup features of Shopify Chat Application leads to c | None | — | 8 | [imgnotfound](https://hackerone.com/imgnotfound) | 2020-11-19 |
+| 377 | [157876](../reports/157876.md) | (FULL PATH DISCLOSURE) Unknown MySQL server host 'shardm-rea | None | — | 8 | [jamesclyde](https://hackerone.com/jamesclyde) | 2016-09-01 |
+| 378 | [874574](../reports/874574.md) | Partner's non-verified business email change reflected into  | None | — | 8 | [imgnotfound](https://hackerone.com/imgnotfound) | 2020-09-14 |
+| 379 | [54779](../reports/54779.md) | Missing spf flags for myshopify.com | None | — | 8 | [shpendk13](https://hackerone.com/shpendk13) | 2015-04-16 |
+| 380 | [1018336](../reports/1018336.md) | Customer's full name disclosure via Shopify Chat (by email l | None | — | 8 | [imgnotfound](https://hackerone.com/imgnotfound) | 2020-11-19 |
+| 381 | [962895](../reports/962895.md) | Stocky App Administrator can create a backdoor admin account | None | — | 8 | [imgnotfound](https://hackerone.com/imgnotfound) | 2020-08-24 |
+| 382 | [952035](../reports/952035.md) | Admin web sessions remain active after logout of Shopify ID | None | — | 7 | [jaka-tingkir](https://hackerone.com/jaka-tingkir) | 2020-09-14 |
+| 383 | [167846](../reports/167846.md) | Deleted Post and Administrative Function Access in eCommerce | None | — | 7 | [ysx](https://hackerone.com/ysx) | 2016-10-05 |
+| 384 | [155704](../reports/155704.md) | Staff member can delete Private Apps | None | — | 7 | [indoappsec](https://hackerone.com/indoappsec) | 2016-08-09 |
+| 385 | [57459](../reports/57459.md) | XSS in experts.shopify.com | None | — | 7 | [haxs101](https://hackerone.com/haxs101) | 2015-05-19 |
+| 386 | [135756](../reports/135756.md) | View all deleted comments and rating of any app . | None | — | 7 | [vijay_kumar](https://hackerone.com/vijay_kumar) | 2016-09-01 |
+| 387 | [56628](../reports/56628.md) | Payment gateway status transferred to Shopify without authen | None | — | 7 | [ishwar_prasad_bhat](https://hackerone.com/ishwar_prasad_bhat) | 2016-09-27 |
+| 388 | [117449](../reports/117449.md) | XSS in Draft Orders in Timeline i SHOPIFY Admin Site! | None | — | 7 | [nismo](https://hackerone.com/nismo) | 2016-07-28 |
+| 389 | [55716](../reports/55716.md) | Force 500 Internal Server Error on any shop (for one user) | None | — | 7 | [4lemon](https://hackerone.com/4lemon) | 2015-06-09 |
+| 390 | [77802](../reports/77802.md) | TCP Source Port Pass Firewall | None | — | 6 | [salmankhanchampion](https://hackerone.com/salmankhanchampion) | 2015-08-11 |
+| 391 | [161991](../reports/161991.md) | Open Redirect possible in https://www.shopify.com/admin/ | None | — | 6 | [jamesclyde](https://hackerone.com/jamesclyde) | 2016-08-31 |
+| 392 | [95589](../reports/95589.md) | Privilege escalation and circumvention of permission to limi | None | — | 6 | [egrep](https://hackerone.com/egrep) | 2015-11-11 |
+| 393 | [105363](../reports/105363.md) | [livechat.shopify.com] Cookie bomb at customer chats | None | — | 6 | [s_p_q_r](https://hackerone.com/s_p_q_r) | 2016-01-19 |
+| 394 | [67389](../reports/67389.md) | SSRF via 'Insert Image' feature of Products/Collections/Fron | None | — | 5 | [alpha](https://hackerone.com/alpha) | 2015-08-24 |
+| 395 | [3697491](../reports/3697491.md) | Missing HMAC validation on /uninstall webhook in Shopify/sam | None | — | 5 | [cipher-kid](https://hackerone.com/cipher-kid) | 2026-06-01 |
+| 396 | [94899](../reports/94899.md) | Paid account can review\download any invoice of any other sh | None | — | 5 | [dvl](https://hackerone.com/dvl) | 2015-10-22 |
+| 397 | [216389](../reports/216389.md) | Full access at an internal service of Shopify | None | — | 5 | [jamesclyde](https://hackerone.com/jamesclyde) | 2017-03-28 |
+| 398 | [96855](../reports/96855.md) | Staff members with no permission to  access domains can acce | None | — | 5 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2015-11-03 |
+| 399 | [838231](../reports/838231.md) | *.shopify.com - Authentication bypass | None | — | 5 | [nooblife](https://hackerone.com/nooblife) | 2020-08-24 |
+| 400 | [111218](../reports/111218.md) | Attach Pinterest account - no State/CSRF parameter in Oauth  | None | — | 5 | [akhil-reni](https://hackerone.com/akhil-reni) | 2016-02-01 |
+| 401 | [54321](../reports/54321.md) | Xss in website's link | None | — | 5 | [bohdansec](https://hackerone.com/bohdansec) | 2015-05-13 |
+| 402 | [123125](../reports/123125.md) | XSS on hardware.shopify.com | None | — | 5 | [virtualhunter](https://hackerone.com/virtualhunter) | 2016-04-09 |
+| 403 | [57125](../reports/57125.md) | comment out causes information disclosure | None | — | 5 | [shhnjk](https://hackerone.com/shhnjk) | 2015-04-19 |
+| 404 | [62427](../reports/62427.md) | XSS in myshopify.com Admin site in TAX Overrides | None | — | 4 | [nismo](https://hackerone.com/nismo) | 2015-06-09 |
+| 405 | [96007](../reports/96007.md) | Domain takoever - https://sellocdn.com | None | — | 4 | [uname](https://hackerone.com/uname) | 2015-11-03 |
+| 406 | [72793](../reports/72793.md) | Prevent Shop Admin From Seeing his Installed Apps / Install  | None | — | 4 | [prakharprasad](https://hackerone.com/prakharprasad) | 2015-09-29 |
+| 407 | [55842](../reports/55842.md) | [persistent cross-site scripting] customers can target admin | None | — | 4 | [akhil-reni](https://hackerone.com/akhil-reni) | 2015-07-01 |
+| 408 | [64941](../reports/64941.md) | Header Misconfiguration - PHP API | None | — | 4 | [paulos__](https://hackerone.com/paulos__) | 2015-06-11 |
+| 409 | [95441](../reports/95441.md) | Unauthorized access to any Store Admin's First & Last name | None | — | 4 | [hazimaslam](https://hackerone.com/hazimaslam) | 2015-11-07 |
+| 410 | [99374](../reports/99374.md) | deleted staff member can add his amazon marketplace web serv | None | — | 4 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2015-11-18 |
+| 411 | [409973](../reports/409973.md) | Some store settings/data are accessible to "No Access" permi | None | — | 4 | [tolo7010](https://hackerone.com/tolo7010) | 2020-08-18 |
+| 412 | [100667](../reports/100667.md) | CSV Excel Macro Injection Vulnerability in export list of cu | None | — | 4 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2015-12-01 |
+| 413 | [56936](../reports/56936.md) | Notification request disclose private information about othe | None | — | 4 | [dvl](https://hackerone.com/dvl) | 2015-09-24 |
+| 414 | [98151](../reports/98151.md) | Non-owner user can remove online store channel and re-add it | None | — | 4 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2015-12-03 |
+| 415 | [99321](../reports/99321.md) |  [CSRF] Activate PayPal Express Checkout | None | — | 4 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2015-12-03 |
+| 416 | [90862](../reports/90862.md) | Passwords Returned in Later Responses. | None | — | 3 | [iamavinasht](https://hackerone.com/iamavinasht) | 2015-09-30 |
+| 417 | [101450](../reports/101450.md) | XSS in creating tweets | None | — | 3 | [haxs101](https://hackerone.com/haxs101) | 2015-12-03 |
+| 418 | [56726](../reports/56726.md) | Invitation issue | None | — | 3 | [frozen](https://hackerone.com/frozen) | 2015-09-16 |
+| 419 | [93901](../reports/93901.md) | Bypassing password requirement during deletion of accout | None | — | 3 | [computerk](https://hackerone.com/computerk) | 2015-11-03 |
+| 420 | [81757](../reports/81757.md) | Reflected XSS in chat. | None | — | 3 | [dz_samir](https://hackerone.com/dz_samir) | 2015-09-02 |
+| 421 | [55644](../reports/55644.md) | Lack of SSL Pinning on POS Application ( iOS ) | None | — | 3 | [ishikawa](https://hackerone.com/ishikawa) | 2015-05-21 |
+| 422 | [92633](../reports/92633.md) | The POS Firmware is leaking the root Password which can be u | None | — | 3 | [patrik](https://hackerone.com/patrik) | 2015-10-09 |
+| 423 | [93294](../reports/93294.md) | First & Last Name Disclosure of any Shopify Store Admin | None | — | 3 | [hazimaslam](https://hackerone.com/hazimaslam) | 2015-11-09 |
+| 424 | [93394](../reports/93394.md) | Unauthenticated access to details of hidden products in any  | None | — | 3 | [juhhga](https://hackerone.com/juhhga) | 2015-10-23 |
+| 425 | [67220](../reports/67220.md) | Expire User Sessions in Admin Site does not expire user sess | None | — | 3 | [nismo](https://hackerone.com/nismo) | 2015-07-15 |
+| 426 | [90671](../reports/90671.md) | Privilege escalation vulnerability | None | — | 3 | [marhvhelous](https://hackerone.com/marhvhelous) | 2015-10-14 |
+| 427 | [104931](../reports/104931.md) | CSRF in Connecting Pinterest Account | None | — | 2 | [mercurii](https://hackerone.com/mercurii) | 2016-02-02 |
+| 428 | [81441](../reports/81441.md) | XSS https://delivery.shopifyapps.com/  (Digital Downloads Ap | None | — | 2 | [dz_samir](https://hackerone.com/dz_samir) | 2015-08-24 |
+| 429 | [134757](../reports/134757.md) | staff memeber can install apps even if have limitied access  | None | — | 2 | [abdellahya](https://hackerone.com/abdellahya) | 2016-05-04 |
+| 430 | [106897](../reports/106897.md) | Stored XSS in /admin/orders  | None | — | 2 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2016-02-17 |
+| 431 | [71614](../reports/71614.md) | XSS in Myshopify Admin Site in DISCOUNTS | None | — | 2 | [nismo](https://hackerone.com/nismo) | 2015-07-20 |
+| 432 | [56779](../reports/56779.md) | XSS on ecommerce.shopify.com | None | — | 2 | [abze](https://hackerone.com/abze) | 2015-09-06 |
+| 433 | [73566](../reports/73566.md) | Reflected XSS in chat | None | — | 2 | [skavans](https://hackerone.com/skavans) | 2015-08-11 |
+| 434 | [72976](../reports/72976.md) | Body injection in mailto link while commenting shop blog | None | — | 2 | [skavans](https://hackerone.com/skavans) | 2015-09-10 |
+| 435 | [62861](../reports/62861.md) | Bulk Discount App in myshopify.com exposes http://bulkdiscou | None | — | 2 | [nismo](https://hackerone.com/nismo) | 2015-07-23 |

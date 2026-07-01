@@ -1,4 +1,4 @@
-# Weakness: Use After Free (49 reports)
+# Weakness: Use After Free (51 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -52,4 +52,6 @@
 | 46 | [3037326](../reports/3037326.md) | Free of uninitialized pointer in doh_decode_rdata_name() | [curl](../by-program/curl.md) | None | — | 8 |
 | 47 | [3733934](../reports/3733934.md) | CURLOPT_HSTS_CTRL disables shared HSTS without share guard — use- | [curl](../by-program/curl.md) | None | — | 5 |
 | 48 | [295276](../reports/295276.md) | heap-use-after-free in OP_RESCUE | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 4 |
-| 49 | [3751701](../reports/3751701.md) | Use-after-free in `curl_easy_duphandle()` with HTTP/2 stream-depe | [curl](../by-program/curl.md) | None | — | 3 |
+| 49 | [3833577](../reports/3833577.md) | heap-use-after-free in curl_easy_cleanup() called from callback | [curl](../by-program/curl.md) | None | — | 4 |
+| 50 | [3751701](../reports/3751701.md) | Use-after-free in `curl_easy_duphandle()` with HTTP/2 stream-depe | [curl](../by-program/curl.md) | None | — | 3 |
+| 51 | [3831345](../reports/3831345.md) | CURLSHOPT_UNSHARE race can cause UAF in shared SSL session cache  | [curl](../by-program/curl.md) | None | — | 1 |
