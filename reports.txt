@@ -8113,6 +8113,10 @@ https://hackerone.com/reports/1700896 | access nagios dashboard using default cr
 https://hackerone.com/reports/1701378 | Bypassing 2FA with conventional session management - open.rocket.chat
 https://hackerone.com/reports/1701642 | iOS group chat denial of service
 https://hackerone.com/reports/1702864 | SSRF via filter bypass due to lax checking on IPs
+https://hackerone.com/reports/1703733 | Exposure Of Admin Username & Password
+https://hackerone.com/reports/1704017 | CVE-2022-32221: POST following PUT confusion
+https://hackerone.com/reports/1704024 | External service interaction ( DNS and HTTP ) in www.████████
+https://hackerone.com/reports/1704035 | AWS Credentials Disclosure at ███ 
 https://hackerone.com/reports/1705717 | POOL_UPGRADE request handler may allow an unauthenticated attacker to remotely execute code on every node in the network.
 https://hackerone.com/reports/1706248 | Guests can continue to receive video streams from call after being removed from a conversation
 https://hackerone.com/reports/1707287 | CVE-2022-40604: Apache Airflow: Format String Vulnerability
