@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1682 total)
+# High/Critical Severity — No Bounty Paid (1684 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -366,6 +366,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1397564](../reports/1397564.md) | Unauthenticated Access to Admin Panel Functions at https://██████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 14 |
 | [644358](../reports/644358.md) | PII leakage-Full SSN on ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 14 |
 | [693943](../reports/693943.md) | SSN leak due to editable slides | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 14 |
+| [1700896](../reports/1700896.md) | access nagios dashboard using default credentials in ** omon1.fpk | [U.S. General Services Administration](../by-program/gsa_vdp.md) | Critical | Resolved | 14 |
 | [172780](../reports/172780.md) | out of date disqus shortname usage in the web app source code | [Starbucks](../by-program/starbucks.md) | Critical — CVSS 9.3 | Resolved | 14 |
 | [1175980](../reports/1175980.md) | [Transportation Management Services Solution 2.0] Improper author | [U.S. General Services Administration](../by-program/gsa_vdp.md) | Critical | Resolved | 14 |
 | [240098](../reports/240098.md) | CSRF: Replacing the router configuration backup having an 'operat | [Ubiquiti Inc.](../by-program/ui.md) | Critical — CVSS 9.0 | Resolved | 14 |
@@ -1656,6 +1657,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [460121](../reports/460121.md) | Publicly editable GitHub wikis | [Liberapay](../by-program/liberapay.md) | High | Not Applicable | 2 |
 | [1591085](../reports/1591085.md) | Several Subdomains Takeover | [Reddit](../by-program/reddit.md) | High | Not Applicable | 2 |
 | [812585](../reports/812585.md) | Sensitive Information Leaking Through Navy Website. [█████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 2 |
+| [3559522](../reports/3559522.md) | Splatoon 3 In-Match Integrity Bypass via Consensus Reflection Att | [Nintendo](../by-program/nintendo.md) | High — CVSS 7.1 | Resolved | 2 |
 | [3023605](../reports/3023605.md) | [CVE-2025-27220] ReDoS in CGI::Util#escapeElement | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.5 | Resolved | 2 |
 | [1103212](../reports/1103212.md) | Found multiple SAP NetWeaver vulnerable services | [Acronis](../by-program/acronis.md) | High | Duplicate | 2 |
 | [895795](../reports/895795.md) | [h1-2006 2020]  Writeup h12006 CTF | [h1-ctf](../by-program/h1-ctf.md) | High | Resolved | 2 |

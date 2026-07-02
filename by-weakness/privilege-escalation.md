@@ -1,4 +1,4 @@
-# Weakness: Privilege Escalation (305 reports)
+# Weakness: Privilege Escalation (306 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -241,71 +241,72 @@
 | 235 | [1570591](../reports/1570591.md) | subdomain takeover at status.hosting24.com | [hostinger ](../by-program/hostinger.md) | Low | — | 6 |
 | 236 | [1145044](../reports/1145044.md) | Holes in EndpointSlice Validation Enable Host Network Hijack | [Kubernetes](../by-program/kubernetes.md) | Low — CVSS 2.7 | — | 5 |
 | 237 | [1092859](../reports/1092859.md) | KOPS documentation references domains which were not registered | [Kubernetes](../by-program/kubernetes.md) | Low — CVSS 3.1 | — | 5 |
-| 238 | [763994](../reports/763994.md) | Disclose Any Store products, Files, Purchase Orders Via Email thr | [Shopify](../by-program/shopify.md) | None | — | 116 |
-| 239 | [175070](../reports/175070.md) | Subdomain takeover on rider.uber.com due to non-existent distribu | [Uber](../by-program/uber.md) | None | — | 69 |
-| 240 | [145224](../reports/145224.md) | Subdomain takeover on partners.ubnt.com due to non-used CloudFron | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 57 |
-| 241 | [175490](../reports/175490.md) | Able to Login deactivated staff account in shopify app mobile | [Shopify](../by-program/shopify.md) | None | — | 48 |
-| 242 | [594080](../reports/594080.md) | Privilege escalation allows to use iframe functionality w/o upgra | [Infogram](../by-program/infogram.md) | None | — | 35 |
-| 243 | [174983](../reports/174983.md) | Mailgun misconfiguration leads to email snooping and postmaster@- | [GitLab](../by-program/gitlab.md) | None | — | 31 |
-| 244 | [194351](../reports/194351.md) | Able to download arbitrary  PHP files at yelpblog.com | [Yelp](../by-program/yelp.md) | None | — | 21 |
-| 245 | [2260337](../reports/2260337.md) | Permissions can be bypassed via arbitrary code execution through  | [Node.js](../by-program/nodejs.md) | None | — | 20 |
-| 246 | [1344982](../reports/1344982.md) | Domain Takeover at 3hopify.media | [Shopify](../by-program/shopify.md) | None | — | 19 |
-| 247 | [150976](../reports/150976.md) | Flash “local-with-filesystem” Bypass in navigateToURL | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 17 |
-| 248 | [1690951](../reports/1690951.md) | Subdomain Takeover at course.oberlo.com | [Shopify](../by-program/shopify.md) | None | — | 14 |
-| 249 | [137503](../reports/137503.md) | Inadequate access controls in "Vote" functionality??? | [HackerOne](../by-program/security.md) | None | — | 14 |
-| 250 | [157750](../reports/157750.md) | Missing rate limit on critical user actions e.g. reset password,  | [HackerOne](../by-program/security.md) | None | — | 14 |
-| 251 | [128685](../reports/128685.md) | SSRF on testing endpoint | [APITest.IO](../by-program/apitest.md) | None | — | 14 |
-| 252 | [159512](../reports/159512.md) | Requesting Mediation possible on reports that are too old for med | [HackerOne](../by-program/security.md) | None | — | 13 |
-| 253 | [59505](../reports/59505.md) | Create and Update patients vulnerability | [drchrono](../by-program/drchrono.md) | None | — | 11 |
-| 254 | [151459](../reports/151459.md) | Creating Post on a restricted channel | [Slack](../by-program/slack.md) | None | — | 10 |
-| 255 | [53858](../reports/53858.md) | Insecure Direct Object Reference - access to other user/group DM' | [X / xAI](../by-program/x.md) | None | — | 10 |
-| 256 | [154410](../reports/154410.md) | Delete/modify  your own comment after limited access(IDOR) | [Shopify](../by-program/shopify.md) | None | — | 9 |
-| 257 | [77679](../reports/77679.md) | http://217.20.144.201 privilege escalation in apache tomcat Sessi | [ok.ru](../by-program/ok.md) | None | — | 9 |
-| 258 | [244474](../reports/244474.md) | Mailgun misconfiguration  | [WakaTime](../by-program/wakatime.md) | None | — | 9 |
-| 259 | [112156](../reports/112156.md) | SSRF in the Connector Designer (REST and Elastic Search) | [Bime](../by-program/bime.md) | None | — | 7 |
-| 260 | [167846](../reports/167846.md) | Deleted Post and Administrative Function Access in eCommerce Foru | [Shopify](../by-program/shopify.md) | None | — | 7 |
-| 261 | [155704](../reports/155704.md) | Staff member can delete Private Apps | [Shopify](../by-program/shopify.md) | None | — | 7 |
-| 262 | [107336](../reports/107336.md) | Team Member(s) associated with a  Group have Read-only permission | [HackerOne](../by-program/security.md) | None | — | 6 |
-| 263 | [134292](../reports/134292.md) | Attacker can delete (and read) private project webhooks | [GitLab](../by-program/gitlab.md) | None | — | 6 |
-| 264 | [52707](../reports/52707.md) | Invite any user to your group without even following him | [Vimeo](../by-program/vimeo.md) | None | — | 6 |
-| 265 | [134299](../reports/134299.md) | Attacker can post notes on private MR, snippets, and issues | [GitLab](../by-program/gitlab.md) | None | — | 6 |
-| 266 | [59508](../reports/59508.md) | Accessing all appointments vulnerability | [drchrono](../by-program/drchrono.md) | None | — | 6 |
-| 267 | [120115](../reports/120115.md) | Critical - Insecure Direct Object Reference - Deleting any member | [Veris](../by-program/veris.md) | None | — | 6 |
-| 268 | [45960](../reports/45960.md) | CRITICAL vulnerability - Insecure Direct Object Reference - Unaut | [Vimeo](../by-program/vimeo.md) | None | — | 5 |
-| 269 | [143903](../reports/143903.md) | File upload over private IM channel | [Slack](../by-program/slack.md) | None | — | 5 |
-| 270 | [145745](../reports/145745.md) | Business/Functional logic bypass: Remove admins from admin group. | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
-| 271 | [154529](../reports/154529.md) | Bookmarks: Delete all existing bookmarks of a user | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
-| 272 | [136531](../reports/136531.md) | Compromising Atlassian Confluence (team.uberinternal.com) via Wor | [Uber](../by-program/uber.md) | None | — | 4 |
-| 273 | [43602](../reports/43602.md) | Buying ondemand videos that  0.1  and sometimes for free  | [Vimeo](../by-program/vimeo.md) | None | — | 4 |
-| 274 | [173622](../reports/173622.md) | Bypassing quota limit  | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
-| 275 | [8102](../reports/8102.md) | Making groups in any project without permission  | [Localize](../by-program/localize.md) | None | — | 3 |
-| 276 | [120318](../reports/120318.md) | Critical IDOR - Make Rule for Any Group & Any Venue remotely | [Veris](../by-program/veris.md) | None | — | 3 |
-| 277 | [50829](../reports/50829.md) | A user can post comments on other user's private videos | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
-| 278 | [120123](../reports/120123.md) | Critical IDOR - Delete any venue of any organization remotely | [Veris](../by-program/veris.md) | None | — | 3 |
-| 279 | [56726](../reports/56726.md) | Invitation issue | [Shopify](../by-program/shopify.md) | None | — | 3 |
-| 280 | [50776](../reports/50776.md) | A user can edit comments even after video comments are disabled | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
-| 281 | [93020](../reports/93020.md) | Способ узнать имя человека и ВУЗ удаленной страницы | [VK.com](../by-program/vkcom.md) | None | — | 3 |
-| 282 | [120312](../reports/120312.md) | Critical IDOR - Can select any Parent while creating new Venue | [Veris](../by-program/veris.md) | None | — | 3 |
-| 283 | [78516](../reports/78516.md) | Доступ к чужим приватным фотографиям (3) через обложку видео | [ok.ru](../by-program/ok.md) | None | — | 3 |
-| 284 | [8104](../reports/8104.md) | Deleting groups in any project without permission  | [Localize](../by-program/localize.md) | None | — | 3 |
-| 285 | [21210](../reports/21210.md) | privilege escalation | [Mavenlink](../by-program/mavenlink.md) | None | — | 3 |
-| 286 | [124564](../reports/124564.md) | Missing rate limit on private videos password | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
-| 287 | [93294](../reports/93294.md) | First & Last Name Disclosure of any Shopify Store Admin | [Shopify](../by-program/shopify.md) | None | — | 3 |
-| 288 | [120305](../reports/120305.md) | Critical IDOR - Get venue data of any organization remotely | [Veris](../by-program/veris.md) | None | — | 3 |
-| 289 | [50786](../reports/50786.md) | A user can add videos to other user's private groups | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
-| 290 | [79046](../reports/79046.md) | Доступ к чужим групповым беседам. | [ok.ru](../by-program/ok.md) | None | — | 3 |
-| 291 | [120291](../reports/120291.md) | Critical IDOR - Set anyone's Terminal Data remotely | [Veris](../by-program/veris.md) | None | — | 3 |
-| 292 | [97161](../reports/97161.md) | Can see private tweets via keyword searches on tweetdeck | [X / xAI](../by-program/x.md) | None | — | 3 |
-| 293 | [120126](../reports/120126.md) | Critical IDOR - Delete any rule of any organization remotely | [Veris](../by-program/veris.md) | None | — | 3 |
-| 294 | [163526](../reports/163526.md) | Email Spoofing | [Skyliner](../by-program/skyliner.md) | None | — | 3 |
-| 295 | [134757](../reports/134757.md) | staff memeber can install apps even if have limitied access  | [Shopify](../by-program/shopify.md) | None | — | 2 |
-| 296 | [43850](../reports/43850.md) | abusing Thumbnails(https://vimeo.com/upload/select_thumb) to see  | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
-| 297 | [51817](../reports/51817.md) | Post in private groups after getting removed | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
-| 298 | [118731](../reports/118731.md) | User with Read-Only permissions can edit the SwagAwarded Activiti | [HackerOne](../by-program/security.md) | None | — | 2 |
-| 299 | [50941](../reports/50941.md) | A user can enhance their videos with paid tracks without buying t | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
-| 300 | [304642](../reports/304642.md) | Administrators can add other administrators | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
-| 301 | [157412](../reports/157412.md) | Querying private posts and changing post meta | [SecNews](../by-program/secnews.md) | None | — | 2 |
-| 302 | [76784](../reports/76784.md) | Cheating at gallery rating | [Zaption](../by-program/zaption.md) | None | — | 2 |
-| 303 | [52708](../reports/52708.md) | Share your channel to any user on vimeo without following him | [Vimeo](../by-program/vimeo.md) | None | — | 1 |
-| 304 | [126260](../reports/126260.md) | Privilege escalation to allow non activated users to login and us | [Uber](../by-program/uber.md) | None | — | 1 |
-| 305 | [380782](../reports/380782.md) | Ubuntu 12.04 Privilege Escalation | [Nextcloud](../by-program/nextcloud.md) | None | — | 0 |
+| 238 | [3353000](../reports/3353000.md) | Privilege Escalation – Access to the Alert Subscribers page for u | [SingleStore](../by-program/singlestore.md) | Low — CVSS 3.8 | — | 5 |
+| 239 | [763994](../reports/763994.md) | Disclose Any Store products, Files, Purchase Orders Via Email thr | [Shopify](../by-program/shopify.md) | None | — | 116 |
+| 240 | [175070](../reports/175070.md) | Subdomain takeover on rider.uber.com due to non-existent distribu | [Uber](../by-program/uber.md) | None | — | 69 |
+| 241 | [145224](../reports/145224.md) | Subdomain takeover on partners.ubnt.com due to non-used CloudFron | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 57 |
+| 242 | [175490](../reports/175490.md) | Able to Login deactivated staff account in shopify app mobile | [Shopify](../by-program/shopify.md) | None | — | 48 |
+| 243 | [594080](../reports/594080.md) | Privilege escalation allows to use iframe functionality w/o upgra | [Infogram](../by-program/infogram.md) | None | — | 35 |
+| 244 | [174983](../reports/174983.md) | Mailgun misconfiguration leads to email snooping and postmaster@- | [GitLab](../by-program/gitlab.md) | None | — | 31 |
+| 245 | [194351](../reports/194351.md) | Able to download arbitrary  PHP files at yelpblog.com | [Yelp](../by-program/yelp.md) | None | — | 21 |
+| 246 | [2260337](../reports/2260337.md) | Permissions can be bypassed via arbitrary code execution through  | [Node.js](../by-program/nodejs.md) | None | — | 20 |
+| 247 | [1344982](../reports/1344982.md) | Domain Takeover at 3hopify.media | [Shopify](../by-program/shopify.md) | None | — | 19 |
+| 248 | [150976](../reports/150976.md) | Flash “local-with-filesystem” Bypass in navigateToURL | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 17 |
+| 249 | [1690951](../reports/1690951.md) | Subdomain Takeover at course.oberlo.com | [Shopify](../by-program/shopify.md) | None | — | 14 |
+| 250 | [137503](../reports/137503.md) | Inadequate access controls in "Vote" functionality??? | [HackerOne](../by-program/security.md) | None | — | 14 |
+| 251 | [157750](../reports/157750.md) | Missing rate limit on critical user actions e.g. reset password,  | [HackerOne](../by-program/security.md) | None | — | 14 |
+| 252 | [128685](../reports/128685.md) | SSRF on testing endpoint | [APITest.IO](../by-program/apitest.md) | None | — | 14 |
+| 253 | [159512](../reports/159512.md) | Requesting Mediation possible on reports that are too old for med | [HackerOne](../by-program/security.md) | None | — | 13 |
+| 254 | [59505](../reports/59505.md) | Create and Update patients vulnerability | [drchrono](../by-program/drchrono.md) | None | — | 11 |
+| 255 | [151459](../reports/151459.md) | Creating Post on a restricted channel | [Slack](../by-program/slack.md) | None | — | 10 |
+| 256 | [53858](../reports/53858.md) | Insecure Direct Object Reference - access to other user/group DM' | [X / xAI](../by-program/x.md) | None | — | 10 |
+| 257 | [154410](../reports/154410.md) | Delete/modify  your own comment after limited access(IDOR) | [Shopify](../by-program/shopify.md) | None | — | 9 |
+| 258 | [77679](../reports/77679.md) | http://217.20.144.201 privilege escalation in apache tomcat Sessi | [ok.ru](../by-program/ok.md) | None | — | 9 |
+| 259 | [244474](../reports/244474.md) | Mailgun misconfiguration  | [WakaTime](../by-program/wakatime.md) | None | — | 9 |
+| 260 | [112156](../reports/112156.md) | SSRF in the Connector Designer (REST and Elastic Search) | [Bime](../by-program/bime.md) | None | — | 7 |
+| 261 | [167846](../reports/167846.md) | Deleted Post and Administrative Function Access in eCommerce Foru | [Shopify](../by-program/shopify.md) | None | — | 7 |
+| 262 | [155704](../reports/155704.md) | Staff member can delete Private Apps | [Shopify](../by-program/shopify.md) | None | — | 7 |
+| 263 | [107336](../reports/107336.md) | Team Member(s) associated with a  Group have Read-only permission | [HackerOne](../by-program/security.md) | None | — | 6 |
+| 264 | [134292](../reports/134292.md) | Attacker can delete (and read) private project webhooks | [GitLab](../by-program/gitlab.md) | None | — | 6 |
+| 265 | [52707](../reports/52707.md) | Invite any user to your group without even following him | [Vimeo](../by-program/vimeo.md) | None | — | 6 |
+| 266 | [134299](../reports/134299.md) | Attacker can post notes on private MR, snippets, and issues | [GitLab](../by-program/gitlab.md) | None | — | 6 |
+| 267 | [59508](../reports/59508.md) | Accessing all appointments vulnerability | [drchrono](../by-program/drchrono.md) | None | — | 6 |
+| 268 | [120115](../reports/120115.md) | Critical - Insecure Direct Object Reference - Deleting any member | [Veris](../by-program/veris.md) | None | — | 6 |
+| 269 | [45960](../reports/45960.md) | CRITICAL vulnerability - Insecure Direct Object Reference - Unaut | [Vimeo](../by-program/vimeo.md) | None | — | 5 |
+| 270 | [143903](../reports/143903.md) | File upload over private IM channel | [Slack](../by-program/slack.md) | None | — | 5 |
+| 271 | [145745](../reports/145745.md) | Business/Functional logic bypass: Remove admins from admin group. | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
+| 272 | [154529](../reports/154529.md) | Bookmarks: Delete all existing bookmarks of a user | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
+| 273 | [136531](../reports/136531.md) | Compromising Atlassian Confluence (team.uberinternal.com) via Wor | [Uber](../by-program/uber.md) | None | — | 4 |
+| 274 | [43602](../reports/43602.md) | Buying ondemand videos that  0.1  and sometimes for free  | [Vimeo](../by-program/vimeo.md) | None | — | 4 |
+| 275 | [173622](../reports/173622.md) | Bypassing quota limit  | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
+| 276 | [8102](../reports/8102.md) | Making groups in any project without permission  | [Localize](../by-program/localize.md) | None | — | 3 |
+| 277 | [120318](../reports/120318.md) | Critical IDOR - Make Rule for Any Group & Any Venue remotely | [Veris](../by-program/veris.md) | None | — | 3 |
+| 278 | [50829](../reports/50829.md) | A user can post comments on other user's private videos | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
+| 279 | [120123](../reports/120123.md) | Critical IDOR - Delete any venue of any organization remotely | [Veris](../by-program/veris.md) | None | — | 3 |
+| 280 | [56726](../reports/56726.md) | Invitation issue | [Shopify](../by-program/shopify.md) | None | — | 3 |
+| 281 | [50776](../reports/50776.md) | A user can edit comments even after video comments are disabled | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
+| 282 | [93020](../reports/93020.md) | Способ узнать имя человека и ВУЗ удаленной страницы | [VK.com](../by-program/vkcom.md) | None | — | 3 |
+| 283 | [120312](../reports/120312.md) | Critical IDOR - Can select any Parent while creating new Venue | [Veris](../by-program/veris.md) | None | — | 3 |
+| 284 | [78516](../reports/78516.md) | Доступ к чужим приватным фотографиям (3) через обложку видео | [ok.ru](../by-program/ok.md) | None | — | 3 |
+| 285 | [8104](../reports/8104.md) | Deleting groups in any project without permission  | [Localize](../by-program/localize.md) | None | — | 3 |
+| 286 | [21210](../reports/21210.md) | privilege escalation | [Mavenlink](../by-program/mavenlink.md) | None | — | 3 |
+| 287 | [124564](../reports/124564.md) | Missing rate limit on private videos password | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
+| 288 | [93294](../reports/93294.md) | First & Last Name Disclosure of any Shopify Store Admin | [Shopify](../by-program/shopify.md) | None | — | 3 |
+| 289 | [120305](../reports/120305.md) | Critical IDOR - Get venue data of any organization remotely | [Veris](../by-program/veris.md) | None | — | 3 |
+| 290 | [50786](../reports/50786.md) | A user can add videos to other user's private groups | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
+| 291 | [79046](../reports/79046.md) | Доступ к чужим групповым беседам. | [ok.ru](../by-program/ok.md) | None | — | 3 |
+| 292 | [120291](../reports/120291.md) | Critical IDOR - Set anyone's Terminal Data remotely | [Veris](../by-program/veris.md) | None | — | 3 |
+| 293 | [97161](../reports/97161.md) | Can see private tweets via keyword searches on tweetdeck | [X / xAI](../by-program/x.md) | None | — | 3 |
+| 294 | [120126](../reports/120126.md) | Critical IDOR - Delete any rule of any organization remotely | [Veris](../by-program/veris.md) | None | — | 3 |
+| 295 | [163526](../reports/163526.md) | Email Spoofing | [Skyliner](../by-program/skyliner.md) | None | — | 3 |
+| 296 | [134757](../reports/134757.md) | staff memeber can install apps even if have limitied access  | [Shopify](../by-program/shopify.md) | None | — | 2 |
+| 297 | [43850](../reports/43850.md) | abusing Thumbnails(https://vimeo.com/upload/select_thumb) to see  | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
+| 298 | [51817](../reports/51817.md) | Post in private groups after getting removed | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
+| 299 | [118731](../reports/118731.md) | User with Read-Only permissions can edit the SwagAwarded Activiti | [HackerOne](../by-program/security.md) | None | — | 2 |
+| 300 | [50941](../reports/50941.md) | A user can enhance their videos with paid tracks without buying t | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
+| 301 | [304642](../reports/304642.md) | Administrators can add other administrators | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
+| 302 | [157412](../reports/157412.md) | Querying private posts and changing post meta | [SecNews](../by-program/secnews.md) | None | — | 2 |
+| 303 | [76784](../reports/76784.md) | Cheating at gallery rating | [Zaption](../by-program/zaption.md) | None | — | 2 |
+| 304 | [52708](../reports/52708.md) | Share your channel to any user on vimeo without following him | [Vimeo](../by-program/vimeo.md) | None | — | 1 |
+| 305 | [126260](../reports/126260.md) | Privilege escalation to allow non activated users to login and us | [Uber](../by-program/uber.md) | None | — | 1 |
+| 306 | [380782](../reports/380782.md) | Ubuntu 12.04 Privilege Escalation | [Nextcloud](../by-program/nextcloud.md) | None | — | 0 |

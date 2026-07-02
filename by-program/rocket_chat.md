@@ -1,4 +1,4 @@
-# Rocket.Chat — Disclosed Reports (59 total)
+# Rocket.Chat — Disclosed Reports (60 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -55,11 +55,12 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 49 | [1377105](../reports/1377105.md) | Message ID Enumeration with Regular Expression in getReadRec | Medium — CVSS 4.3 | — | 1 | [gronke](https://hackerone.com/gronke) | 2022-09-22 |
 | 50 | [1394399](../reports/1394399.md) | Unintended information disclosure in the Hubot Log files | Medium | — | 1 | [rolfzur](https://hackerone.com/rolfzur) | 2022-09-22 |
 | 51 | [3713682](../reports/3713682.md) | IDOR: autotranslate.translateMessage Full Message Content Le | Medium — CVSS 5.3 | — | 0 | [josan_george](https://hackerone.com/josan_george) | 2026-05-18 |
-| 52 | [728004](../reports/728004.md) | Clickjacking in the admin page | Low | — | 20 | [ant_pyne](https://hackerone.com/ant_pyne) | 2020-01-02 |
-| 53 | [1091118](../reports/1091118.md) | Blind XSS | Low | — | 12 | [abhinav-porwal](https://hackerone.com/abhinav-porwal) | 2021-12-07 |
-| 54 | [1089116](../reports/1089116.md) | Hi! Security Team Rocket.Chat, It's possible to get informat | Low | — | 12 | [khekhe](https://hackerone.com/khekhe) | 2021-04-29 |
-| 55 | [724153](../reports/724153.md) | XSS (leads to arbitrary file read in Rocket.Chat-Desktop) | Low | — | 11 | [sectex](https://hackerone.com/sectex) | 2020-01-02 |
-| 56 | [1390782](../reports/1390782.md) | Possible Domain Takeover on AWS Instance. | Low | — | 9 | [samuelsiv](https://hackerone.com/samuelsiv) | 2022-05-22 |
-| 57 | [433792](../reports/433792.md) | Blind SQL injection in third-party software, that allows to  | None | — | 60 | [w2w](https://hackerone.com/w2w) | 2019-10-17 |
-| 58 | [382666](../reports/382666.md) | Blind XSS in the rocket.chat registration email | None | — | 18 | [edoverflow](https://hackerone.com/edoverflow) | 2018-09-26 |
-| 59 | [386614](../reports/386614.md) | Slack Token exposed over internet (Github) | None | — | 14 | [sanjogpanda](https://hackerone.com/sanjogpanda) | 2019-07-11 |
+| 52 | [1701378](../reports/1701378.md) | Bypassing 2FA with conventional session management - open.ro | Low | — | 25 | [hackeriron1](https://hackerone.com/hackeriron1) | 2024-08-10 |
+| 53 | [728004](../reports/728004.md) | Clickjacking in the admin page | Low | — | 20 | [ant_pyne](https://hackerone.com/ant_pyne) | 2020-01-02 |
+| 54 | [1091118](../reports/1091118.md) | Blind XSS | Low | — | 12 | [abhinav-porwal](https://hackerone.com/abhinav-porwal) | 2021-12-07 |
+| 55 | [1089116](../reports/1089116.md) | Hi! Security Team Rocket.Chat, It's possible to get informat | Low | — | 12 | [khekhe](https://hackerone.com/khekhe) | 2021-04-29 |
+| 56 | [724153](../reports/724153.md) | XSS (leads to arbitrary file read in Rocket.Chat-Desktop) | Low | — | 11 | [sectex](https://hackerone.com/sectex) | 2020-01-02 |
+| 57 | [1390782](../reports/1390782.md) | Possible Domain Takeover on AWS Instance. | Low | — | 9 | [samuelsiv](https://hackerone.com/samuelsiv) | 2022-05-22 |
+| 58 | [433792](../reports/433792.md) | Blind SQL injection in third-party software, that allows to  | None | — | 60 | [w2w](https://hackerone.com/w2w) | 2019-10-17 |
+| 59 | [382666](../reports/382666.md) | Blind XSS in the rocket.chat registration email | None | — | 18 | [edoverflow](https://hackerone.com/edoverflow) | 2018-09-26 |
+| 60 | [386614](../reports/386614.md) | Slack Token exposed over internet (Github) | None | — | 14 | [sanjogpanda](https://hackerone.com/sanjogpanda) | 2019-07-11 |

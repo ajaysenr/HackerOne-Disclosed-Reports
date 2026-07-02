@@ -9333,6 +9333,7 @@ https://hackerone.com/reports/3284534 | Reflected Cross-Site Scripting (XSS)
 https://hackerone.com/reports/3287208 | DOS via Mutation Aliasing in GraphQL Account Recovery Phone Number Verification API
 https://hackerone.com/reports/3291053 | exposed FOUO documents, including Passport information
 https://hackerone.com/reports/3293803 | SQLi At `███████` via `theme_name`
+https://hackerone.com/reports/3295500 | Exceeding the maximum number of spaces allowed by exploiting a Race Condition in the Workspace creation process
 https://hackerone.com/reports/3304830 | Files drop share links for end-to-end encrypted folders allowed to drop files into other folders of the share owner
 https://hackerone.com/reports/3307874 | Critical Deadlock Vulnerability in Monero RPC Leading to Complete Node Paralysis
 https://hackerone.com/reports/3318295 | Information Disclosure via Publicly Accessible Debug Log
@@ -9343,6 +9344,9 @@ https://hackerone.com/reports/3329310 | Improper bot-authentication allows to im
 https://hackerone.com/reports/3340797 | IBM Aspera HTTP Gateway stores sensitive information in clear text in easily obtainable files which can be read by an unauthenticated user.
 https://hackerone.com/reports/3346375 | Publicly Accessible CDN Endpoint Exposing XML Metadata (including ETag)
 https://hackerone.com/reports/3351408 | Cross-Site Scripting via URL on ███████
+https://hackerone.com/reports/3353000 | Privilege Escalation – Access to the Alert Subscribers page for users with low privileges
+https://hackerone.com/reports/3353035 | Delete any folder for any user within the organization
+https://hackerone.com/reports/3353057 | Insecure Direct Object Reference (IDOR) allows creating folders.
 https://hackerone.com/reports/3354494 | Cross-Site Scripting via URL on ███████
 https://hackerone.com/reports/3355766 | DLL side-loading vulnerability in Sony Music Center for PC Ver. 2.7.2 (Latest version)
 https://hackerone.com/reports/3356149 | 2FA requirement bypass when inviting team members
@@ -9436,6 +9440,7 @@ https://hackerone.com/reports/3556892 | HTML Injection in DAST Trial Request For
 https://hackerone.com/reports/3557138 | Arbitrary Code Execution via Scanner Bypass in **aws-diagram-mcp-server** `exec()` Namespace
 https://hackerone.com/reports/3558277 | Fail-Open in set_tlsext_servername_callback on pyopenssl via unhandled exceptions leads to security bypass
 https://hackerone.com/reports/3558713 | Command Injection via Unsanitized Bundling Options in `aws-cdk-lib/aws-lambda-nodejs`
+https://hackerone.com/reports/3559522 | Splatoon 3 In-Match Integrity Bypass via Consensus Reflection Attack on Unordered Peer Submission
 https://hackerone.com/reports/3559715 | Node.js Permission Model bypass: UDS server bind/listen works without `--allow-net`
 https://hackerone.com/reports/3560256 | Cross-repository IDOR in `/settings/security_analysis/bypass_reviewers` allows unauthorized delegated bypass reviewer modification
 https://hackerone.com/reports/3560402 | Denial of Service via `__proto__` header name in `req.headersDistinct` (Uncaught `TypeError` crashes Node.js process)
@@ -9515,6 +9520,7 @@ https://hackerone.com/reports/3645415 | # SCURLOPT_SSH_KNOWNHOSTS and host finge
 https://hackerone.com/reports/3646072 | Negotiate connection reuse with wrong credentials when using CURLAUTH_ANY
 https://hackerone.com/reports/3646914 | ignoring 'options' when doing connection reuse
 https://hackerone.com/reports/3648199 | Internal application wrapper or script using curl
+https://hackerone.com/reports/3648681 | Improper Input Validation — HTTP Response Parser Unconditionally Accepts Bare CR in Status Line
 https://hackerone.com/reports/3649802 | TLS host identity verification bypass via session reuse with different servername leads to unauthorized connections
 https://hackerone.com/reports/3650435 | Improper enforcement of CURLOPT_SOCKS5_AUTH due to missing reuse key validation in libcurl
 https://hackerone.com/reports/3650443 | no_proxy IDN mismatch: Unicode hostnames bypass proxy exclusion list
@@ -9665,6 +9671,7 @@ https://hackerone.com/reports/3797526 | CVE-2026-12064: proto-default skips SSH 
 https://hackerone.com/reports/3802645 | verify-release rebuilds from the tarball under verification, enabling pre-check command execution and false OK for a malicious curl release tarball
 https://hackerone.com/reports/3803415 | Secure cookies leaked to HTTP origins through HTTPS forwarding proxy
 https://hackerone.com/reports/3804525 | Vulnerability Report: Buffer Overflow in Path Sanitization
+https://hackerone.com/reports/3813932 | [Splatoon 3] Kick other players with NplnLogin message
 https://hackerone.com/reports/3817602 | Node --run POSIX positional argument escaping allows shell command injection
 https://hackerone.com/reports/3823932 | CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabling HAProxy PROXY protocol injection
 https://hackerone.com/reports/3823985 | Use-after-free in `mev_forget_socket` when `curl_easy_pause()` is called from a `CURL_POLL_REMOVE` socket callback (incomplete fix of CVE-2026-9080)

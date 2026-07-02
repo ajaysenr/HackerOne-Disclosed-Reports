@@ -1,4 +1,4 @@
-# Asset Type: Desktop Apps (141 reports)
+# Asset Type: Desktop Apps (142 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -134,14 +134,15 @@
 | 128 | [440758](../reports/440758.md) | Potential buffer overflow in demoplayer module of GoldS | [Valve](../by-program/valve.md) | hl.exe | Low | — | 17 |
 | 129 | [1083532](../reports/1083532.md) | Acronis True Image 2020 Build 22510 Nonstop Backup Serv | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Low | — | 15 |
 | 130 | [1353603](../reports/1353603.md) | Fix for CVE-2021-22151 (Kibana path traversal issue) ca | [Elastic](../by-program/elastic.md) | Kibana | Low — CVSS 3.1 | — | 10 |
-| 131 | [663729](../reports/663729.md) | [Brave browser] WebTorrent has DNS rebinding vulnerabil | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | Low | — | 9 |
-| 132 | [971610](../reports/971610.md) | Local Privilege Escalation via EXE hijacking with Acron | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Low | — | 7 |
-| 133 | [294891](../reports/294891.md) | Improper Certificate Validation | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Low — CVSS 2.6 | — | 0 |
-| 134 | [1167530](../reports/1167530.md) | RCE in 'Copy as Node Request' BApp via code injection | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Extension (BApps) | None | — | 50 |
-| 135 | [3509632](../reports/3509632.md) | Information Disclosure via Logback Configuration Inject | [GoCD](../by-program/gocd.md) | GoCD (https://www.gocd.org/download) | None | — | 36 |
-| 136 | [1654145](../reports/1654145.md) | Open S3 Bucket Accessible by any Aws User | [GoCD](../by-program/gocd.md) | GoCD (https://www.gocd.org/download) | None | — | 19 |
-| 137 | [3717354](../reports/3717354.md) | UI Consent Bypass via Comma Injection in `addAutoApprov | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Extension (BApps) | None | — | 12 |
-| 138 | [366129](../reports/366129.md) | Activat burp suite pro with the old license after trans | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | None | — | 6 |
-| 139 | [817244](../reports/817244.md) | The Linux binaries (nordvpn and nordvpnd) don't use PIE | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Linux Executable | None | — | 3 |
-| 140 | [331428](../reports/331428.md) | Cross domain tracking even with 3rd party cookies disab | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | None | — | 2 |
-| 141 | [771977](../reports/771977.md) | nordvpn Linux Desktop executable application does not u | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Linux Executable | None | — | 1 |
+| 131 | [1699740](../reports/1699740.md) | nextcloudcmd incorrectly trusts bad TLS certificates | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Low — CVSS 2.8 | — | 10 |
+| 132 | [663729](../reports/663729.md) | [Brave browser] WebTorrent has DNS rebinding vulnerabil | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | Low | — | 9 |
+| 133 | [971610](../reports/971610.md) | Local Privilege Escalation via EXE hijacking with Acron | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Low | — | 7 |
+| 134 | [294891](../reports/294891.md) | Improper Certificate Validation | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Low — CVSS 2.6 | — | 0 |
+| 135 | [1167530](../reports/1167530.md) | RCE in 'Copy as Node Request' BApp via code injection | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Extension (BApps) | None | — | 50 |
+| 136 | [3509632](../reports/3509632.md) | Information Disclosure via Logback Configuration Inject | [GoCD](../by-program/gocd.md) | GoCD (https://www.gocd.org/download) | None | — | 36 |
+| 137 | [1654145](../reports/1654145.md) | Open S3 Bucket Accessible by any Aws User | [GoCD](../by-program/gocd.md) | GoCD (https://www.gocd.org/download) | None | — | 19 |
+| 138 | [3717354](../reports/3717354.md) | UI Consent Bypass via Comma Injection in `addAutoApprov | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Extension (BApps) | None | — | 12 |
+| 139 | [366129](../reports/366129.md) | Activat burp suite pro with the old license after trans | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | None | — | 6 |
+| 140 | [817244](../reports/817244.md) | The Linux binaries (nordvpn and nordvpnd) don't use PIE | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Linux Executable | None | — | 3 |
+| 141 | [331428](../reports/331428.md) | Cross domain tracking even with 3rd party cookies disab | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | None | — | 2 |
+| 142 | [771977](../reports/771977.md) | nordvpn Linux Desktop executable application does not u | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Linux Executable | None | — | 1 |

@@ -1,4 +1,4 @@
-# Weakness: Improper Certificate Validation (35 reports)
+# Weakness: Improper Certificate Validation (36 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -30,12 +30,13 @@
 | 24 | [3752567](../reports/3752567.md) | curl GnuTLS backend accepts a clientAuth-only certificate for HTT | [curl](../by-program/curl.md) | Medium | — | 1 |
 | 25 | [813279](../reports/813279.md) | Lets Encrypt Certificates affected by CAA Rechecking Incident | [Endless Group](../by-program/endless_group.md) | Medium — CVSS 6.1 | — | 1 |
 | 26 | [2410774](../reports/2410774.md) | CVE-2024-2379: QUIC certificate check bypass with wolfSSL | [curl](../by-program/curl.md) | Low | — | 11 |
-| 27 | [1991427](../reports/1991427.md) | CVE-2023-28321: IDN wildcard match | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 4 |
-| 28 | [3797526](../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | [curl](../by-program/curl.md) | Low | — | 2 |
-| 29 | [1950627](../reports/1950627.md) | CVE-2023-28321: IDN wildcard match | [curl](../by-program/curl.md) | Low | — | 2 |
-| 30 | [3752888](../reports/3752888.md) | CVE-2026-9545: exposing HTTP/3 early data | [curl](../by-program/curl.md) | Low | — | 1 |
-| 31 | [294891](../reports/294891.md) | Improper Certificate Validation | [PortSwigger Web Security](../by-program/portswigger.md) | Low — CVSS 2.6 | — | 0 |
-| 32 | [894922](../reports/894922.md) | [3DS][SSL] Improper certificate validation allows an attacker to  | [Nintendo](../by-program/nintendo.md) | None | — | 129 |
-| 33 | [3739561](../reports/3739561.md) | SSL session-cache peer key omits signature_algorithms: strict-sig | [curl](../by-program/curl.md) | None | — | 4 |
-| 34 | [225540](../reports/225540.md) | Incorrect HTTPS Certificate | [Weblate](../by-program/weblate.md) | None | — | 2 |
-| 35 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL against IP ad | [curl](../by-program/curl.md) | None | — | 0 |
+| 27 | [1699740](../reports/1699740.md) | nextcloudcmd incorrectly trusts bad TLS certificates | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.8 | — | 10 |
+| 28 | [1991427](../reports/1991427.md) | CVE-2023-28321: IDN wildcard match | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 4 |
+| 29 | [3797526](../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | [curl](../by-program/curl.md) | Low | — | 2 |
+| 30 | [1950627](../reports/1950627.md) | CVE-2023-28321: IDN wildcard match | [curl](../by-program/curl.md) | Low | — | 2 |
+| 31 | [3752888](../reports/3752888.md) | CVE-2026-9545: exposing HTTP/3 early data | [curl](../by-program/curl.md) | Low | — | 1 |
+| 32 | [294891](../reports/294891.md) | Improper Certificate Validation | [PortSwigger Web Security](../by-program/portswigger.md) | Low — CVSS 2.6 | — | 0 |
+| 33 | [894922](../reports/894922.md) | [3DS][SSL] Improper certificate validation allows an attacker to  | [Nintendo](../by-program/nintendo.md) | None | — | 129 |
+| 34 | [3739561](../reports/3739561.md) | SSL session-cache peer key omits signature_algorithms: strict-sig | [curl](../by-program/curl.md) | None | — | 4 |
+| 35 | [225540](../reports/225540.md) | Incorrect HTTPS Certificate | [Weblate](../by-program/weblate.md) | None | — | 2 |
+| 36 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL against IP ad | [curl](../by-program/curl.md) | None | — | 0 |

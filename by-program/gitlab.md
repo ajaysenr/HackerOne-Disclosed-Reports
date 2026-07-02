@@ -1,4 +1,4 @@
-# GitLab — Disclosed Reports (234 total)
+# GitLab — Disclosed Reports (235 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -238,3 +238,4 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 232 | [133717](../reports/133717.md) | GFM renderer leaks external issue tracker URL of private pro | None | — | 6 | [jobert](https://hackerone.com/jobert) | 2017-06-08 |
 | 233 | [134300](../reports/134300.md) | Confidential issues leaked in public projects when attached  | None | — | 5 | [jobert](https://hackerone.com/jobert) | 2016-05-03 |
 | 234 | [801973](../reports/801973.md) | Email notification about login email changed is not received | None | — | 3 | [shaileshpratapwar](https://hackerone.com/shaileshpratapwar) | 2020-03-25 |
+| 235 | [1696814](../reports/1696814.md) | No Restriction on password | None | — | 2 | [mta-sts](https://hackerone.com/mta-sts) | 2022-09-13 |
