@@ -8103,9 +8103,14 @@ https://hackerone.com/reports/1696814 | No Restriction on password
 https://hackerone.com/reports/1697599 | Remotely Accessible Container Advisor exposed performance metrics and resource usage
 https://hackerone.com/reports/1698006 | IDOR  [mtnmobad.mtnbusiness.com.ng]
 https://hackerone.com/reports/1698316 | Cache Deception Allows Account Takeover
+https://hackerone.com/reports/1699025 | [song.link] Open Redirect
+https://hackerone.com/reports/1699740 | nextcloudcmd incorrectly trusts bad TLS certificates
 https://hackerone.com/reports/1699762 | XSS in www.shopify.com/markets?utm_source=
+https://hackerone.com/reports/1699855 | XSS in ServiceNow logout https://████:443
 https://hackerone.com/reports/1700276 | Take over subdomains of r2.dev using R2 custom domains
 https://hackerone.com/reports/1700734 | Shop App - Attacker is able to intercept authorization code during authentication (OAuth) and is able to get access to Microsoft Outlook email account
+https://hackerone.com/reports/1700896 | access nagios dashboard using default credentials in ** omon1.fpki.gov, 3.220.248.203**
+https://hackerone.com/reports/1701378 | Bypassing 2FA with conventional session management - open.rocket.chat
 https://hackerone.com/reports/1701642 | iOS group chat denial of service
 https://hackerone.com/reports/1702864 | SSRF via filter bypass due to lax checking on IPs
 https://hackerone.com/reports/1705717 | POOL_UPGRADE request handler may allow an unauthenticated attacker to remotely execute code on every node in the network.
