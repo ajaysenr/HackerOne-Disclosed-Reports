@@ -1,4 +1,4 @@
-# Nintendo — Disclosed Reports (14 total)
+# Nintendo — Disclosed Reports (15 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -13,8 +13,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 7 | [3559522](../reports/3559522.md) | Splatoon 3 In-Match Integrity Bypass via Consensus Reflectio | High — CVSS 7.1 | — | 2 | [hana2736](https://hackerone.com/hana2736) | 2026-07-02 |
 | 8 | [3052880](../reports/3052880.md) | [Xenoblade Chronicles X: Definitive Edition] Improper valida | Medium — CVSS 5.3 | — | 40 | [roccodev](https://hackerone.com/roccodev) | 2025-05-15 |
 | 9 | [2611669](../reports/2611669.md) | [Switch, PIA/MK8DX] Stack buffer overflow and potential RCE  | Medium — CVSS 4.3 | — | 36 | [jitlua](https://hackerone.com/jitlua) | 2024-09-30 |
-| 10 | [894922](../reports/894922.md) | [3DS][SSL] Improper certificate validation allows an attacke | None | — | 129 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2020-12-18 |
-| 11 | [3042475](../reports/3042475.md) | Splatoon 3 Anticheat Seed Randomization Weakness | None | — | 53 | [hana2736](https://hackerone.com/hana2736) | 2026-02-19 |
-| 12 | [897606](../reports/897606.md) | [3DS][SSL][SDK] Unchecked number of audio channels in Mobicl | None | — | 43 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2020-12-18 |
-| 13 | [687887](../reports/687887.md) | [3DS][StreetPass] Buffer Overflow in Super Mario Maker level | None | — | 30 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2021-04-20 |
-| 14 | [923240](../reports/923240.md) | [3DS][StreetPass] Heap Overflow in Swapnote parser leads to  | None | — | 30 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2021-01-18 |
+| 10 | [3813932](../reports/3813932.md) | [Splatoon 3] Kick other players with NplnLogin message | Medium — CVSS 6.5 | — | 7 | [alzxk11](https://hackerone.com/alzxk11) | 2026-07-02 |
+| 11 | [894922](../reports/894922.md) | [3DS][SSL] Improper certificate validation allows an attacke | None | — | 129 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2020-12-18 |
+| 12 | [3042475](../reports/3042475.md) | Splatoon 3 Anticheat Seed Randomization Weakness | None | — | 53 | [hana2736](https://hackerone.com/hana2736) | 2026-02-19 |
+| 13 | [897606](../reports/897606.md) | [3DS][SSL][SDK] Unchecked number of audio channels in Mobicl | None | — | 43 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2020-12-18 |
+| 14 | [687887](../reports/687887.md) | [3DS][StreetPass] Buffer Overflow in Super Mario Maker level | None | — | 30 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2021-04-20 |
+| 15 | [923240](../reports/923240.md) | [3DS][StreetPass] Heap Overflow in Swapnote parser leads to  | None | — | 30 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2021-01-18 |

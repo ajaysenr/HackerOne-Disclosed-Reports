@@ -9402,6 +9402,7 @@ https://hackerone.com/reports/3475626 | Session Cookie Leakage via Static Header
 https://hackerone.com/reports/3479692 | Unauthenticated SSRF via Public Reference API -Sharing Token Bypass
 https://hackerone.com/reports/3480841 | Permission Model Bypass in realpathSync.native Allows File Existence Disclosure
 https://hackerone.com/reports/3483708 | Valid share tokens allow to access tempory upload files of share owner
+https://hackerone.com/reports/3485343 | jitsi-call-analytics: Unauthenticated arbitrary file write via path traversal in `/api/v1/uploads/analyze`
 https://hackerone.com/reports/3486747 | SVG filter primitives bypass remote image blocking, enabling email tracking without consent.
 https://hackerone.com/reports/3489490 | Authentication Bypass in ID4me handling via Missing JWT Signature Verification in User OIDC
 https://hackerone.com/reports/3506183 | Missing Access Control in MigrationFile allows attacker to upload files to any Migration
@@ -9639,6 +9640,7 @@ https://hackerone.com/reports/3761647 | TLS conn reuse and session cache ignore 
 https://hackerone.com/reports/3761789 | Mentioned unites are at the same time .Then we have to increase the bounty.
 https://hackerone.com/reports/3766065 | CURLOPT_COOKIE leaked to cross-origin redirect target — CURLOPT_UNRESTRICTED_AUTH bypass for the STRING_COOKIE path
 https://hackerone.com/reports/3766392 | curl External-Controlled Filename in `--url @file` Leads to Arbitrary File Overwrite
+https://hackerone.com/reports/3766455 | Yelp for Business: locked Email field silently editable via API
 https://hackerone.com/reports/3767963 | Proxy CONNECT response poisoning via authentication retry in cf-h1-proxy.c (libcurl)
 https://hackerone.com/reports/3769293 | Low priority HSTS bypass in curl_easy_duphandle()
 https://hackerone.com/reports/3770979 | SMTP connection reuse ignores --ssl-reqd / CURLOPT_USE_SSL and reuses a clear-text STARTTLS session on current master
@@ -9649,6 +9651,7 @@ https://hackerone.com/reports/3775183 | Incomplete fix for CVE-2022-35406: meta-
 https://hackerone.com/reports/3776433 | TFTP upload ignores --continue-at / CURLOPT_RESUME_FROM and leaks skipped local file prefix
 https://hackerone.com/reports/3776535 | RTSP Digest auth state leaks across origins on reused libcurl easy handle
 https://hackerone.com/reports/3777381 | PRE_PROXY change leaks stale Proxy Digest state across proxy-chain boundary
+https://hackerone.com/reports/3780277 | Non-Production API Endpoints for the Amazon S3 Tables Service Fails to Log to CloudTrail Resulting in Silent Permission Enumeration
 https://hackerone.com/reports/3780709 | Missing ownership validation allows cross‑manager tracker–campaign linking
 https://hackerone.com/reports/3780733 | DNS domain search list followed for extant domain missing A or AAAA records
 https://hackerone.com/reports/3780806 | Reflected XSS via unsanitised refresh parameter in zone invocation tag
@@ -9666,6 +9669,7 @@ https://hackerone.com/reports/3786077 | SOCKS5 no-auth accepted despite username
 https://hackerone.com/reports/3788506 | SSH/SFTP connection reuse can bypass SSH key identity after ssh_config_matches removal
 https://hackerone.com/reports/3788931 | CVE-2026-11586: WS Auto-PONG memory exhaustion
 https://hackerone.com/reports/3788984 | CVE-2026-11564: Native CA trust persist
+https://hackerone.com/reports/3789570 | jitsi-meet: Prosody/Jigasi missing header whitelist in mod_filter_iq_rayo allows arbitrary SIP header injection and Caller ID spoofing
 https://hackerone.com/reports/3791168 | curl-ipv4-percent-normalization-SSRF
 https://hackerone.com/reports/3791191 | Trailing-Dot Hostname in Redirect Silently Strips Client Certificate and Auth Credentials
 https://hackerone.com/reports/3793243 | Reflected XSS in stats‑video.php via improperly encoded URL parameters

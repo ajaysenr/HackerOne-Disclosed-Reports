@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1684 total)
+# High/Critical Severity — No Bounty Paid (1686 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -182,6 +182,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [332586](../reports/332586.md) | Unauthorized access to jiratest.starbucks.com  | [Starbucks](../by-program/starbucks.md) | Critical | Resolved | 49 |
 | [953649](../reports/953649.md) | Critical Information disclosure of rtapi token for any user via h | [Uber](../by-program/uber.md) | Critical | Resolved | 49 |
 | [684099](../reports/684099.md) | Periscope-all Firebase database takeover | [X / xAI](../by-program/x.md) | Critical | Resolved | 49 |
+| [1703733](../reports/1703733.md) | Exposure Of Admin Username & Password | [MTN Group](../by-program/mtn_group.md) | Critical | Resolved | 48 |
 | [1639600](../reports/1639600.md) | Hashed data exposure via WebSockets to Workspace Members | [Slack](../by-program/slack.md) | Critical | Resolved | 48 |
 | [2778350](../reports/2778350.md) | Cisco IOS XE instance at ████ vulnerable to CVE-██████ | [MTN Group](../by-program/mtn_group.md) | Critical — CVSS 9.1 | Resolved | 48 |
 | [950881](../reports/950881.md) | IDOR when editing email leads to Account Takeover on Atavist | [Automattic](../by-program/automattic.md) | Critical | Resolved | 48 |
@@ -1209,6 +1210,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [106797](../reports/106797.md) | [marketplace.informatica.com] - XXE | [Informatica](../by-program/informatica.md) | High | Resolved | 14 |
 | [1024984](../reports/1024984.md) | [SQLI ]Time Bassed Injection at ██████████ via /██████/library.ph | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 14 |
 | [495495](../reports/495495.md) | CVE-2019-5736: Escape from Docker and Kubernetes containers to ro | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.6 | Resolved | 14 |
+| [1704024](../reports/1704024.md) | External service interaction ( DNS and HTTP ) in www.████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 14 |
 | [269940](../reports/269940.md) | XSS в приглашении в группу | [VK.com](../by-program/vkcom.md) | High | Resolved | 14 |
 | [1183601](../reports/1183601.md) | Cross-origin resource sharing misconfig | steal user information  | [UPchieve](../by-program/upchieve.md) | High | Resolved | 14 |
 | [390631](../reports/390631.md) | [ascii-art] Command injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | Resolved | 14 |

@@ -1,4 +1,4 @@
-# Asset Type: Desktop Apps (142 reports)
+# Asset Type: Desktop Apps (143 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -137,12 +137,13 @@
 | 131 | [1699740](../reports/1699740.md) | nextcloudcmd incorrectly trusts bad TLS certificates | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Low — CVSS 2.8 | — | 10 |
 | 132 | [663729](../reports/663729.md) | [Brave browser] WebTorrent has DNS rebinding vulnerabil | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | Low | — | 9 |
 | 133 | [971610](../reports/971610.md) | Local Privilege Escalation via EXE hijacking with Acron | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Low | — | 7 |
-| 134 | [294891](../reports/294891.md) | Improper Certificate Validation | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Low — CVSS 2.6 | — | 0 |
-| 135 | [1167530](../reports/1167530.md) | RCE in 'Copy as Node Request' BApp via code injection | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Extension (BApps) | None | — | 50 |
-| 136 | [3509632](../reports/3509632.md) | Information Disclosure via Logback Configuration Inject | [GoCD](../by-program/gocd.md) | GoCD (https://www.gocd.org/download) | None | — | 36 |
-| 137 | [1654145](../reports/1654145.md) | Open S3 Bucket Accessible by any Aws User | [GoCD](../by-program/gocd.md) | GoCD (https://www.gocd.org/download) | None | — | 19 |
-| 138 | [3717354](../reports/3717354.md) | UI Consent Bypass via Comma Injection in `addAutoApprov | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Extension (BApps) | None | — | 12 |
-| 139 | [366129](../reports/366129.md) | Activat burp suite pro with the old license after trans | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | None | — | 6 |
-| 140 | [817244](../reports/817244.md) | The Linux binaries (nordvpn and nordvpnd) don't use PIE | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Linux Executable | None | — | 3 |
-| 141 | [331428](../reports/331428.md) | Cross domain tracking even with 3rd party cookies disab | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | None | — | 2 |
-| 142 | [771977](../reports/771977.md) | nordvpn Linux Desktop executable application does not u | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Linux Executable | None | — | 1 |
+| 134 | [1707977](../reports/1707977.md) | XSS in Desktop Client via user status and information | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Low — CVSS 3.5 | — | 5 |
+| 135 | [294891](../reports/294891.md) | Improper Certificate Validation | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Low — CVSS 2.6 | — | 0 |
+| 136 | [1167530](../reports/1167530.md) | RCE in 'Copy as Node Request' BApp via code injection | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Extension (BApps) | None | — | 50 |
+| 137 | [3509632](../reports/3509632.md) | Information Disclosure via Logback Configuration Inject | [GoCD](../by-program/gocd.md) | GoCD (https://www.gocd.org/download) | None | — | 36 |
+| 138 | [1654145](../reports/1654145.md) | Open S3 Bucket Accessible by any Aws User | [GoCD](../by-program/gocd.md) | GoCD (https://www.gocd.org/download) | None | — | 19 |
+| 139 | [3717354](../reports/3717354.md) | UI Consent Bypass via Comma Injection in `addAutoApprov | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Extension (BApps) | None | — | 12 |
+| 140 | [366129](../reports/366129.md) | Activat burp suite pro with the old license after trans | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | None | — | 6 |
+| 141 | [817244](../reports/817244.md) | The Linux binaries (nordvpn and nordvpnd) don't use PIE | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Linux Executable | None | — | 3 |
+| 142 | [331428](../reports/331428.md) | Cross domain tracking even with 3rd party cookies disab | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | None | — | 2 |
+| 143 | [771977](../reports/771977.md) | nordvpn Linux Desktop executable application does not u | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Linux Executable | None | — | 1 |

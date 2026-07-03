@@ -1,4 +1,4 @@
-# Weakness: HTTP Request Smuggling (48 reports)
+# Weakness: HTTP Request Smuggling (49 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -40,15 +40,16 @@
 | 34 | [1631228](../reports/1631228.md) | [demo.stripo.email] HTTP request Smuggling | [Stripo Inc](../by-program/stripo.md) | Medium | — | 17 |
 | 35 | [244459](../reports/244459.md) | Apache HTTP Request Parsing Whitespace Defects | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 4.0 | — | 11 |
 | 36 | [643225](../reports/643225.md) | HTTP Request Smuggling | [JamieWeb](../by-program/jamieweb.md) | Medium | — | 10 |
-| 37 | [1524692](../reports/1524692.md) | HTTP Request Smuggling Due To Improper Delimiting of Header Field | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 9 |
-| 38 | [1025575](../reports/1025575.md) | Default behavior of Fastifys versioned routes can be used for cac | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.9 | — | 8 |
-| 39 | [1501679](../reports/1501679.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 7 |
-| 40 | [1665156](../reports/1665156.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium | — | 6 |
-| 41 | [1630336](../reports/1630336.md) | CVE-2022-32213 bypass via obs-fold mechanic | [Node.js](../by-program/nodejs.md) | Medium | — | 5 |
-| 42 | [3795615](../reports/3795615.md) | Duplicate chunked Transfer-Encoding lets a malicious origin smugg | [curl](../by-program/curl.md) | Medium | — | 3 |
-| 43 | [3623064](../reports/3623064.md) | HTTP/1.1 Response Desynchronization via conflicting CL/TE headers | [curl](../by-program/curl.md) | Low | — | 30 |
-| 44 | [1063627](../reports/1063627.md) | HTTP Request Smuggling on https://consumer.acronis.com | [Acronis](../by-program/acronis.md) | Low | — | 16 |
-| 45 | [1063493](../reports/1063493.md) | HTTP Request Smuggling on https://promosandbox.acronis.com | [Acronis](../by-program/acronis.md) | Low | — | 12 |
-| 46 | [3793495](../reports/3793495.md) | Incomplete Suppression of  Transfer-Encoding: chunked Header in H | [curl](../by-program/curl.md) | Low | — | 7 |
-| 47 | [231510](../reports/231510.md) | Gratipay Website CSP "script-scr" includes "unsafe-inline" | [Gratipay](../by-program/gratipay.md) | Low | — | 1 |
-| 48 | [214436](../reports/214436.md) | HTTP Header Injection/HTTP_Response_Splitting | [Blockchain](../by-program/blockchain.md) | None | — | 4 |
+| 37 | [3648681](../reports/3648681.md) | Improper Input Validation — HTTP Response Parser Unconditionally  | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 9 |
+| 38 | [1524692](../reports/1524692.md) | HTTP Request Smuggling Due To Improper Delimiting of Header Field | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 9 |
+| 39 | [1025575](../reports/1025575.md) | Default behavior of Fastifys versioned routes can be used for cac | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.9 | — | 8 |
+| 40 | [1501679](../reports/1501679.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 7 |
+| 41 | [1665156](../reports/1665156.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium | — | 6 |
+| 42 | [1630336](../reports/1630336.md) | CVE-2022-32213 bypass via obs-fold mechanic | [Node.js](../by-program/nodejs.md) | Medium | — | 5 |
+| 43 | [3795615](../reports/3795615.md) | Duplicate chunked Transfer-Encoding lets a malicious origin smugg | [curl](../by-program/curl.md) | Medium | — | 3 |
+| 44 | [3623064](../reports/3623064.md) | HTTP/1.1 Response Desynchronization via conflicting CL/TE headers | [curl](../by-program/curl.md) | Low | — | 30 |
+| 45 | [1063627](../reports/1063627.md) | HTTP Request Smuggling on https://consumer.acronis.com | [Acronis](../by-program/acronis.md) | Low | — | 16 |
+| 46 | [1063493](../reports/1063493.md) | HTTP Request Smuggling on https://promosandbox.acronis.com | [Acronis](../by-program/acronis.md) | Low | — | 12 |
+| 47 | [3793495](../reports/3793495.md) | Incomplete Suppression of  Transfer-Encoding: chunked Header in H | [curl](../by-program/curl.md) | Low | — | 7 |
+| 48 | [231510](../reports/231510.md) | Gratipay Website CSP "script-scr" includes "unsafe-inline" | [Gratipay](../by-program/gratipay.md) | Low | — | 1 |
+| 49 | [214436](../reports/214436.md) | HTTP Header Injection/HTTP_Response_Splitting | [Blockchain](../by-program/blockchain.md) | None | — | 4 |

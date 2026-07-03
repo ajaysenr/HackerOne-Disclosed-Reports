@@ -1,4 +1,4 @@
-# Weakness: Server-Side Request Forgery (SSRF) (166 reports)
+# Weakness: Server-Side Request Forgery (SSRF) (167 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -90,83 +90,84 @@
 | 84 | [441090](../reports/441090.md) | CRLF injection & SSRF in git:// protocal lead to arbitrary code e | [GitLab](../by-program/gitlab.md) | High — CVSS 8.5 | — | 21 |
 | 85 | [1370731](../reports/1370731.md) | CVE-2021-40438 on cp-eu2.acronis.com | [Acronis](../by-program/acronis.md) | High | — | 19 |
 | 86 | [358119](../reports/358119.md) | SSRF in proxy.duckduckgo.com via the image_host parameter | [DuckDuckGo](../by-program/duckduckgo.md) | High — CVSS 7.5 | — | 16 |
-| 87 | [1691501](../reports/1691501.md) | Blind SSRF via image upload URL downloader on https://██████/  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 13 |
-| 88 | [1628102](../reports/1628102.md) | Full read SSRF at █████████ [HtUS] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High — CVSS 7.7 | — | 11 |
-| 89 | [448598](../reports/448598.md) | [usuppliers.uber.com] - Server Side Request Forgery via XXE OOB | [Uber](../by-program/uber.md) | High | — | 11 |
-| 90 | [1057531](../reports/1057531.md) | GET /api/v2/url_info endpoint is vulnerable to Blind SSRF | [Automattic](../by-program/automattic.md) | High — CVSS 8.4 | — | 9 |
-| 91 | [879803](../reports/879803.md) | Bypass of SSRF Vulnerability | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 8 |
-| 92 | [229199](../reports/229199.md) | Limited code execution vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 7 |
-| 93 | [471520](../reports/471520.md) | Local file disclosure through SSRF at next.nutanix.com | [Nutanix](../by-program/nutanix.md) | High | — | 7 |
-| 94 | [3508785](../reports/3508785.md) | Gopher Protocol Command Injection (SSRF Smuggling) | [curl](../by-program/curl.md) | High | — | 7 |
-| 95 | [996273](../reports/996273.md) | SSRF in login page using fetch API exposes victims IP address to  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 5 |
-| 96 | [3393664](../reports/3393664.md) | SSRF via improper validation after DNS name resolution in the lin | [Rocket.Chat](../by-program/rocket_chat.md) | High — CVSS 7.7 | — | 1 |
-| 97 | [341876](../reports/341876.md) | SSRF in Exchange leads to ROOT access in all instances | [Shopify](../by-program/shopify.md) | Medium — CVSS 6.9 | — | 574 |
-| 98 | [643622](../reports/643622.md) | SSRF In Get Video Contents | [Semrush](../by-program/semrush.md) | Medium | — | 124 |
-| 99 | [1832494](../reports/1832494.md) | Blind SSRF on https://my.exnessaffiliates.com/ allows for interna | [EXNESS](../by-program/exness.md) | Medium — CVSS 6.1 | — | 118 |
-| 100 | [727330](../reports/727330.md) | Header modification results in disclosure of Slack infra metadata | [Slack](../by-program/slack.md) | Medium | — | 94 |
-| 101 | [381129](../reports/381129.md) | SSRF in api.slack.com, using slash commands and bypassing the pro | [Slack](../by-program/slack.md) | Medium | — | 83 |
-| 102 | [369451](../reports/369451.md) | SSRF in CI after first run | [GitLab](../by-program/gitlab.md) | Medium | — | 72 |
-| 103 | [1875484](../reports/1875484.md) | connect.8x8.com: Blind SSRF via /api/v2/chats/image-check allows  | [8x8](../by-program/8x8-bounty.md) | Medium | — | 63 |
-| 104 | [1300585](../reports/1300585.md) | blind Server-Side Request Forgery (SSRF)  allows scanning interna | [Elastic](../by-program/elastic.md) | Medium — CVSS 6.7 | — | 52 |
-| 105 | [386292](../reports/386292.md) | Bypass of the SSRF protection in Event Subscriptions parameter. | [Slack](../by-program/slack.md) | Medium | — | 51 |
-| 106 | [356765](../reports/356765.md) | Internal SSRF bypass using slash commands at api.slack.com | [Slack](../by-program/slack.md) | Medium | — | 50 |
-| 107 | [3465156](../reports/3465156.md) | Node.js permission model bypass via unchecked Unix Domain Socket  | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.8 | — | 49 |
-| 108 | [1086206](../reports/1086206.md) | Blind SSRF vulnerability on cz.acronis.com | [Acronis](../by-program/acronis.md) | Medium | — | 49 |
-| 109 | [310036](../reports/310036.md) | SSRF vulnerability on ██████████ leaks internal IP and various se | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 30 |
-| 110 | [941178](../reports/941178.md) | SSRF for kube-apiserver cloudprovider scene | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 6.8 | — | 24 |
-| 111 | [783392](../reports/783392.md) | SSRF in img.lemlist.com that leads to Localhost Port Scanning | [lemlist](../by-program/lemlist.md) | Medium | — | 23 |
-| 112 | [204513](../reports/204513.md) | Infrastructure - Photon - SSRF | [WordPress](../by-program/wordpress.md) | Medium | — | 21 |
-| 113 | [397402](../reports/397402.md) | SSRF on jira.mariadb.org | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 5.8 | — | 21 |
-| 114 | [215105](../reports/215105.md) | SSRF vulnerability in gitlab.com via project import. | [GitLab](../by-program/gitlab.md) | Medium — CVSS 5.4 | — | 18 |
-| 115 | [178184](../reports/178184.md) | SSRF in https://cards-dev.twitter.com/validator | [X / xAI](../by-program/x.md) | Medium | — | 16 |
-| 116 | [1379656](../reports/1379656.md) | The endpoint '/test/webhooks' is vulnerable to DNS Rebinding | [Omise](../by-program/omise.md) | Medium | — | 14 |
-| 117 | [1895874](../reports/1895874.md) | Responsive Server-side Request Forgery (SSRF) | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 14 |
-| 118 | [689245](../reports/689245.md) | SSRF In plantuml (on plantuml.pre.gitlab.com) | [GitLab](../by-program/gitlab.md) | Medium | — | 14 |
-| 119 | [913276](../reports/913276.md) | Server-Side Request Forgery in "icons.bitwarden.net" | [Bitwarden](../by-program/bitwarden.md) | Medium | — | 13 |
-| 120 | [832858](../reports/832858.md) | SSRF via 3d.cs.money/pasteLinkToImage | [CS Money](../by-program/cs_money.md) | Medium — CVSS 5.2 | — | 13 |
-| 121 | [809248](../reports/809248.md) | SSRF into Shared Runner, by replacing dockerd with malicious serv | [GitLab](../by-program/gitlab.md) | Medium | — | 12 |
-| 122 | [738553](../reports/738553.md) | SSRF in /cabinet/stripeapi/v1/siteInfoLookup?url=XXX | [Stripo Inc](../by-program/stripo.md) | Medium — CVSS 5.3 | — | 11 |
-| 123 | [385178](../reports/385178.md) | Blind SSRF on image proxy camo.stream.highwebmedia.com | [Chaturbate](../by-program/chaturbate.md) | Medium — CVSS 6.5 | — | 10 |
-| 124 | [301924](../reports/301924.md) | SSRF vulnerability in gitlab.com webhook | [GitLab](../by-program/gitlab.md) | Medium | — | 10 |
-| 125 | [207477](../reports/207477.md) | SSRF in ███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 10 |
-| 126 | [382048](../reports/382048.md) | Server-Side Request Forgery (SSRF) | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 10 |
-| 127 | [3608558](../reports/3608558.md) | Blind POST SSRF via Web Push Notification Endpoint | [phpBB](../by-program/phpbb.md) | Medium — CVSS 5.9 | — | 9 |
-| 128 | [236349](../reports/236349.md) | [out-of-scope] toxiproxy: Lack of CSRF protection allows an attac | [Shopify](../by-program/shopify.md) | Medium | — | 8 |
-| 129 | [1623685](../reports/1623685.md) | SSRF ACCESS AWS METADATA - █████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
-| 130 | [746541](../reports/746541.md) | SSRF on local storage of iOS mobile | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 7 |
-| 131 | [782979](../reports/782979.md) | Information disclosure through Server side resource forgery | [Stripo Inc](../by-program/stripo.md) | Medium | — | 7 |
-| 132 | [1183472](../reports/1183472.md) |  SSRF due to  CVE-2021-27905 in www.████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
-| 133 | [359288](../reports/359288.md) | Potensial SSRF via Git repository URL  | [GitLab](../by-program/gitlab.md) | Medium | — | 7 |
-| 134 | [300513](../reports/300513.md) | WebLogic Server Side Request Forgery | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
-| 135 | [1663788](../reports/1663788.md) | [CVE-2022-35949]: undici.request vulnerable to SSRF using absolut | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 5 |
-| 136 | [3383079](../reports/3383079.md) | SSRF via Improper Redirect Validation in Rocket.Chat oEmbed Funct | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 5.0 | — | 3 |
-| 137 | [191216](../reports/191216.md) | SSRF via git Repo by URL Abuse | [GitLab](../by-program/gitlab.md) | Medium — CVSS 6.6 | — | 3 |
-| 138 | [222667](../reports/222667.md) | Possible SSRF in email server settings(SMTP mode) | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 2 |
-| 139 | [3791168](../reports/3791168.md) | curl-ipv4-percent-normalization-SSRF | [curl](../by-program/curl.md) | Medium | — | 1 |
-| 140 | [756149](../reports/756149.md) | Blind SSRF on debug.nordvpn.com due to misconfigured sentry insta | [Nord Security](../by-program/nordsecurity.md) | Low | — | 70 |
-| 141 | [1467044](../reports/1467044.md) | Blind SSRF on platform.dash.cloudflare.com Due to Sentry misconfi | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | Low | — | 53 |
-| 142 | [1410214](../reports/1410214.md) | Bypassing domain deny_list rule in Smokescreen via trailing dot l | [Stripe](../by-program/stripe.md) | Low | — | 49 |
-| 143 | [1241149](../reports/1241149.md) | FULL SSRF  | [Acronis](../by-program/acronis.md) | Low | — | 37 |
-| 144 | [642675](../reports/642675.md) | Bypass for blind SSRF #281950 and #287496 | [Infogram](../by-program/infogram.md) | Low | — | 28 |
-| 145 | [1006599](../reports/1006599.md) | Blind SSRF in ads.tiktok.com | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.7 | — | 23 |
-| 146 | [206894](../reports/206894.md) | SSRF at iris.lystit.com | [Lyst](../by-program/lyst.md) | Low | — | 21 |
-| 147 | [925527](../reports/925527.md) | Blind HTTP GET SSRF via website icon fetch (bypass of pull#812) | [Bitwarden](../by-program/bitwarden.md) | Low | — | 21 |
-| 148 | [863221](../reports/863221.md) | SSRF bypass | [Concrete CMS](../by-program/concretecms.md) | Low — CVSS 2.0 | — | 14 |
-| 149 | [1736390](../reports/1736390.md) | Mail app - blind SSRF via imapHost parameter | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 11 |
-| 150 | [287496](../reports/287496.md) | Internal Ports Scanning via Blind SSRF  (URL Redirection to beat  | [Infogram](../by-program/infogram.md) | Low | — | 11 |
-| 151 | [1018568](../reports/1018568.md) | Server Side Request Forgery in 'Jabber settings' in Admin Control | [phpBB](../by-program/phpbb.md) | Low — CVSS 3.4 | — | 11 |
-| 152 | [1369312](../reports/1369312.md) | SSRF mitigation bypass using DNS Rebind attack | [Concrete CMS](../by-program/concretecms.md) | Low — CVSS 3.5 | — | 10 |
-| 153 | [1746582](../reports/1746582.md) | Mail app - blind SSRF via smtpHost parameter | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 9 |
-| 154 | [236301](../reports/236301.md) | Blind SSRF due to img tag injection in career form | [Mixmax](../by-program/mixmax.md) | Low | — | 9 |
-| 155 | [382612](../reports/382612.md) | Potential SSRF and disclosure of sensitive site on *shopifycloud. | [Shopify](../by-program/shopify.md) | Low | — | 9 |
-| 156 | [1364797](../reports/1364797.md) | SSRF - pivoting in the private LAN | [Concrete CMS](../by-program/concretecms.md) | Low — CVSS 3.5 | — | 7 |
-| 157 | [815084](../reports/815084.md) | [Limited bypass of #793704] Blind SSRF in Ghost CMS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 2.7 | — | 6 |
-| 158 | [374818](../reports/374818.md) | SSRF in rompager-check | [Hanno's projects](../by-program/hannob.md) | Low | — | 3 |
-| 159 | [764517](../reports/764517.md) | SSRF leads to internal port scan | [Stripo Inc](../by-program/stripo.md) | Low | — | 3 |
-| 160 | [530974](../reports/530974.md) | Server-Side Request Forgery using Javascript allows to exfill dat | [Snapchat](../by-program/snapchat.md) | None | — | 416 |
-| 161 | [713](../reports/713.md) | Upload profile photo from URL | [HackerOne](../by-program/security.md) | None | — | 43 |
-| 162 | [287245](../reports/287245.md) | Blind SSRF in "Integrations" by abusing a bug in Ruby's native re | [HackerOne](../by-program/security.md) | None | — | 30 |
-| 163 | [243277](../reports/243277.md) | SSRF via webhook | [Mixmax](../by-program/mixmax.md) | None | — | 18 |
-| 164 | [1067443](../reports/1067443.md) | Screenshot Service leaks X-ABS-App-Token | [Shopify](../by-program/shopify.md) | None | — | 14 |
-| 165 | [213358](../reports/213358.md) | SSRF at apps.nextcloud.com/developer/apps/releases/new | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
-| 166 | [1004847](../reports/1004847.md) | SSRF Possible through /wordpress/xmlrpc.php | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 3 |
+| 87 | [1704024](../reports/1704024.md) | External service interaction ( DNS and HTTP ) in www.████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 14 |
+| 88 | [1691501](../reports/1691501.md) | Blind SSRF via image upload URL downloader on https://██████/  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 13 |
+| 89 | [1628102](../reports/1628102.md) | Full read SSRF at █████████ [HtUS] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High — CVSS 7.7 | — | 11 |
+| 90 | [448598](../reports/448598.md) | [usuppliers.uber.com] - Server Side Request Forgery via XXE OOB | [Uber](../by-program/uber.md) | High | — | 11 |
+| 91 | [1057531](../reports/1057531.md) | GET /api/v2/url_info endpoint is vulnerable to Blind SSRF | [Automattic](../by-program/automattic.md) | High — CVSS 8.4 | — | 9 |
+| 92 | [879803](../reports/879803.md) | Bypass of SSRF Vulnerability | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 8 |
+| 93 | [229199](../reports/229199.md) | Limited code execution vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 7 |
+| 94 | [471520](../reports/471520.md) | Local file disclosure through SSRF at next.nutanix.com | [Nutanix](../by-program/nutanix.md) | High | — | 7 |
+| 95 | [3508785](../reports/3508785.md) | Gopher Protocol Command Injection (SSRF Smuggling) | [curl](../by-program/curl.md) | High | — | 7 |
+| 96 | [996273](../reports/996273.md) | SSRF in login page using fetch API exposes victims IP address to  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 5 |
+| 97 | [3393664](../reports/3393664.md) | SSRF via improper validation after DNS name resolution in the lin | [Rocket.Chat](../by-program/rocket_chat.md) | High — CVSS 7.7 | — | 1 |
+| 98 | [341876](../reports/341876.md) | SSRF in Exchange leads to ROOT access in all instances | [Shopify](../by-program/shopify.md) | Medium — CVSS 6.9 | — | 574 |
+| 99 | [643622](../reports/643622.md) | SSRF In Get Video Contents | [Semrush](../by-program/semrush.md) | Medium | — | 124 |
+| 100 | [1832494](../reports/1832494.md) | Blind SSRF on https://my.exnessaffiliates.com/ allows for interna | [EXNESS](../by-program/exness.md) | Medium — CVSS 6.1 | — | 118 |
+| 101 | [727330](../reports/727330.md) | Header modification results in disclosure of Slack infra metadata | [Slack](../by-program/slack.md) | Medium | — | 94 |
+| 102 | [381129](../reports/381129.md) | SSRF in api.slack.com, using slash commands and bypassing the pro | [Slack](../by-program/slack.md) | Medium | — | 83 |
+| 103 | [369451](../reports/369451.md) | SSRF in CI after first run | [GitLab](../by-program/gitlab.md) | Medium | — | 72 |
+| 104 | [1875484](../reports/1875484.md) | connect.8x8.com: Blind SSRF via /api/v2/chats/image-check allows  | [8x8](../by-program/8x8-bounty.md) | Medium | — | 63 |
+| 105 | [1300585](../reports/1300585.md) | blind Server-Side Request Forgery (SSRF)  allows scanning interna | [Elastic](../by-program/elastic.md) | Medium — CVSS 6.7 | — | 52 |
+| 106 | [386292](../reports/386292.md) | Bypass of the SSRF protection in Event Subscriptions parameter. | [Slack](../by-program/slack.md) | Medium | — | 51 |
+| 107 | [356765](../reports/356765.md) | Internal SSRF bypass using slash commands at api.slack.com | [Slack](../by-program/slack.md) | Medium | — | 50 |
+| 108 | [3465156](../reports/3465156.md) | Node.js permission model bypass via unchecked Unix Domain Socket  | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.8 | — | 49 |
+| 109 | [1086206](../reports/1086206.md) | Blind SSRF vulnerability on cz.acronis.com | [Acronis](../by-program/acronis.md) | Medium | — | 49 |
+| 110 | [310036](../reports/310036.md) | SSRF vulnerability on ██████████ leaks internal IP and various se | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 30 |
+| 111 | [941178](../reports/941178.md) | SSRF for kube-apiserver cloudprovider scene | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 6.8 | — | 24 |
+| 112 | [783392](../reports/783392.md) | SSRF in img.lemlist.com that leads to Localhost Port Scanning | [lemlist](../by-program/lemlist.md) | Medium | — | 23 |
+| 113 | [204513](../reports/204513.md) | Infrastructure - Photon - SSRF | [WordPress](../by-program/wordpress.md) | Medium | — | 21 |
+| 114 | [397402](../reports/397402.md) | SSRF on jira.mariadb.org | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 5.8 | — | 21 |
+| 115 | [215105](../reports/215105.md) | SSRF vulnerability in gitlab.com via project import. | [GitLab](../by-program/gitlab.md) | Medium — CVSS 5.4 | — | 18 |
+| 116 | [178184](../reports/178184.md) | SSRF in https://cards-dev.twitter.com/validator | [X / xAI](../by-program/x.md) | Medium | — | 16 |
+| 117 | [1379656](../reports/1379656.md) | The endpoint '/test/webhooks' is vulnerable to DNS Rebinding | [Omise](../by-program/omise.md) | Medium | — | 14 |
+| 118 | [1895874](../reports/1895874.md) | Responsive Server-side Request Forgery (SSRF) | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 14 |
+| 119 | [689245](../reports/689245.md) | SSRF In plantuml (on plantuml.pre.gitlab.com) | [GitLab](../by-program/gitlab.md) | Medium | — | 14 |
+| 120 | [913276](../reports/913276.md) | Server-Side Request Forgery in "icons.bitwarden.net" | [Bitwarden](../by-program/bitwarden.md) | Medium | — | 13 |
+| 121 | [832858](../reports/832858.md) | SSRF via 3d.cs.money/pasteLinkToImage | [CS Money](../by-program/cs_money.md) | Medium — CVSS 5.2 | — | 13 |
+| 122 | [809248](../reports/809248.md) | SSRF into Shared Runner, by replacing dockerd with malicious serv | [GitLab](../by-program/gitlab.md) | Medium | — | 12 |
+| 123 | [738553](../reports/738553.md) | SSRF in /cabinet/stripeapi/v1/siteInfoLookup?url=XXX | [Stripo Inc](../by-program/stripo.md) | Medium — CVSS 5.3 | — | 11 |
+| 124 | [385178](../reports/385178.md) | Blind SSRF on image proxy camo.stream.highwebmedia.com | [Chaturbate](../by-program/chaturbate.md) | Medium — CVSS 6.5 | — | 10 |
+| 125 | [301924](../reports/301924.md) | SSRF vulnerability in gitlab.com webhook | [GitLab](../by-program/gitlab.md) | Medium | — | 10 |
+| 126 | [207477](../reports/207477.md) | SSRF in ███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 10 |
+| 127 | [382048](../reports/382048.md) | Server-Side Request Forgery (SSRF) | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 10 |
+| 128 | [3608558](../reports/3608558.md) | Blind POST SSRF via Web Push Notification Endpoint | [phpBB](../by-program/phpbb.md) | Medium — CVSS 5.9 | — | 9 |
+| 129 | [236349](../reports/236349.md) | [out-of-scope] toxiproxy: Lack of CSRF protection allows an attac | [Shopify](../by-program/shopify.md) | Medium | — | 8 |
+| 130 | [1623685](../reports/1623685.md) | SSRF ACCESS AWS METADATA - █████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
+| 131 | [746541](../reports/746541.md) | SSRF on local storage of iOS mobile | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 7 |
+| 132 | [782979](../reports/782979.md) | Information disclosure through Server side resource forgery | [Stripo Inc](../by-program/stripo.md) | Medium | — | 7 |
+| 133 | [1183472](../reports/1183472.md) |  SSRF due to  CVE-2021-27905 in www.████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
+| 134 | [359288](../reports/359288.md) | Potensial SSRF via Git repository URL  | [GitLab](../by-program/gitlab.md) | Medium | — | 7 |
+| 135 | [300513](../reports/300513.md) | WebLogic Server Side Request Forgery | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
+| 136 | [1663788](../reports/1663788.md) | [CVE-2022-35949]: undici.request vulnerable to SSRF using absolut | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 5 |
+| 137 | [3383079](../reports/3383079.md) | SSRF via Improper Redirect Validation in Rocket.Chat oEmbed Funct | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 5.0 | — | 3 |
+| 138 | [191216](../reports/191216.md) | SSRF via git Repo by URL Abuse | [GitLab](../by-program/gitlab.md) | Medium — CVSS 6.6 | — | 3 |
+| 139 | [222667](../reports/222667.md) | Possible SSRF in email server settings(SMTP mode) | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 2 |
+| 140 | [3791168](../reports/3791168.md) | curl-ipv4-percent-normalization-SSRF | [curl](../by-program/curl.md) | Medium | — | 1 |
+| 141 | [756149](../reports/756149.md) | Blind SSRF on debug.nordvpn.com due to misconfigured sentry insta | [Nord Security](../by-program/nordsecurity.md) | Low | — | 70 |
+| 142 | [1467044](../reports/1467044.md) | Blind SSRF on platform.dash.cloudflare.com Due to Sentry misconfi | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | Low | — | 53 |
+| 143 | [1410214](../reports/1410214.md) | Bypassing domain deny_list rule in Smokescreen via trailing dot l | [Stripe](../by-program/stripe.md) | Low | — | 49 |
+| 144 | [1241149](../reports/1241149.md) | FULL SSRF  | [Acronis](../by-program/acronis.md) | Low | — | 37 |
+| 145 | [642675](../reports/642675.md) | Bypass for blind SSRF #281950 and #287496 | [Infogram](../by-program/infogram.md) | Low | — | 28 |
+| 146 | [1006599](../reports/1006599.md) | Blind SSRF in ads.tiktok.com | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.7 | — | 23 |
+| 147 | [206894](../reports/206894.md) | SSRF at iris.lystit.com | [Lyst](../by-program/lyst.md) | Low | — | 21 |
+| 148 | [925527](../reports/925527.md) | Blind HTTP GET SSRF via website icon fetch (bypass of pull#812) | [Bitwarden](../by-program/bitwarden.md) | Low | — | 21 |
+| 149 | [863221](../reports/863221.md) | SSRF bypass | [Concrete CMS](../by-program/concretecms.md) | Low — CVSS 2.0 | — | 14 |
+| 150 | [1736390](../reports/1736390.md) | Mail app - blind SSRF via imapHost parameter | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 11 |
+| 151 | [287496](../reports/287496.md) | Internal Ports Scanning via Blind SSRF  (URL Redirection to beat  | [Infogram](../by-program/infogram.md) | Low | — | 11 |
+| 152 | [1018568](../reports/1018568.md) | Server Side Request Forgery in 'Jabber settings' in Admin Control | [phpBB](../by-program/phpbb.md) | Low — CVSS 3.4 | — | 11 |
+| 153 | [1369312](../reports/1369312.md) | SSRF mitigation bypass using DNS Rebind attack | [Concrete CMS](../by-program/concretecms.md) | Low — CVSS 3.5 | — | 10 |
+| 154 | [1746582](../reports/1746582.md) | Mail app - blind SSRF via smtpHost parameter | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 9 |
+| 155 | [236301](../reports/236301.md) | Blind SSRF due to img tag injection in career form | [Mixmax](../by-program/mixmax.md) | Low | — | 9 |
+| 156 | [382612](../reports/382612.md) | Potential SSRF and disclosure of sensitive site on *shopifycloud. | [Shopify](../by-program/shopify.md) | Low | — | 9 |
+| 157 | [1364797](../reports/1364797.md) | SSRF - pivoting in the private LAN | [Concrete CMS](../by-program/concretecms.md) | Low — CVSS 3.5 | — | 7 |
+| 158 | [815084](../reports/815084.md) | [Limited bypass of #793704] Blind SSRF in Ghost CMS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 2.7 | — | 6 |
+| 159 | [374818](../reports/374818.md) | SSRF in rompager-check | [Hanno's projects](../by-program/hannob.md) | Low | — | 3 |
+| 160 | [764517](../reports/764517.md) | SSRF leads to internal port scan | [Stripo Inc](../by-program/stripo.md) | Low | — | 3 |
+| 161 | [530974](../reports/530974.md) | Server-Side Request Forgery using Javascript allows to exfill dat | [Snapchat](../by-program/snapchat.md) | None | — | 416 |
+| 162 | [713](../reports/713.md) | Upload profile photo from URL | [HackerOne](../by-program/security.md) | None | — | 43 |
+| 163 | [287245](../reports/287245.md) | Blind SSRF in "Integrations" by abusing a bug in Ruby's native re | [HackerOne](../by-program/security.md) | None | — | 30 |
+| 164 | [243277](../reports/243277.md) | SSRF via webhook | [Mixmax](../by-program/mixmax.md) | None | — | 18 |
+| 165 | [1067443](../reports/1067443.md) | Screenshot Service leaks X-ABS-App-Token | [Shopify](../by-program/shopify.md) | None | — | 14 |
+| 166 | [213358](../reports/213358.md) | SSRF at apps.nextcloud.com/developer/apps/releases/new | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
+| 167 | [1004847](../reports/1004847.md) | SSRF Possible through /wordpress/xmlrpc.php | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 3 |

@@ -1,4 +1,4 @@
-# Weakness: Resource Injection (25 reports)
+# Weakness: Resource Injection (26 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -26,6 +26,7 @@
 | 20 | [601192](../reports/601192.md) | HTML injection in https://interviewing.shopify.com/index.php?cand | [Shopify](../by-program/shopify.md) | Low | — | 17 |
 | 21 | [1183335](../reports/1183335.md) | Object injection in `stripe-billing-typographic` GitHub project v | [Stripe](../by-program/stripe.md) | Low — CVSS 3.7 | — | 17 |
 | 22 | [257207](../reports/257207.md) | Code injection | [Legal Robot](../by-program/legalrobot.md) | Low — CVSS 3.5 | — | 13 |
-| 23 | [473144](../reports/473144.md) | Content spoofing on https://surveyserver.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | Low | — | 2 |
-| 24 | [415137](../reports/415137.md) | H1-5411 CTF Write-up by erbbysam and ziot | [h1-5411-CTF](../by-program/h1-5411-ctf.md) | None | — | 17 |
-| 25 | [315865](../reports/315865.md) | Stored CSS Injection | [Coinbase](../by-program/coinbase.md) | None | — | 15 |
+| 23 | [1707977](../reports/1707977.md) | XSS in Desktop Client via user status and information | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 5 |
+| 24 | [473144](../reports/473144.md) | Content spoofing on https://surveyserver.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | Low | — | 2 |
+| 25 | [415137](../reports/415137.md) | H1-5411 CTF Write-up by erbbysam and ziot | [h1-5411-CTF](../by-program/h1-5411-ctf.md) | None | — | 17 |
+| 26 | [315865](../reports/315865.md) | Stored CSS Injection | [Coinbase](../by-program/coinbase.md) | None | — | 15 |

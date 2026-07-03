@@ -1,4 +1,4 @@
-# Weakness: Client-Side Enforcement of Server-Side Security (13 reports)
+# Weakness: Client-Side Enforcement of Server-Side Security (14 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -16,4 +16,5 @@
 | 10 | [700831](../reports/700831.md) | Unauthenticated read and write access to ALL endpoints of a store | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.8 | — | 53 |
 | 11 | [259913](../reports/259913.md) | File Upload Restriction Bypass | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 10 |
 | 12 | [1338256](../reports/1338256.md) | No server side check on terms of service page which leads to bypa | [Acronis](../by-program/acronis.md) | Medium | — | 8 |
-| 13 | [789579](../reports/789579.md) | ActiveStorage direct upload fails to sign content-length header f | [Ruby on Rails](../by-program/rails.md) | Medium — CVSS 5.3 | — | 5 |
+| 13 | [3766455](../reports/3766455.md) | Yelp for Business: locked Email field silently editable via API | [Yelp](../by-program/yelp.md) | Medium | — | 7 |
+| 14 | [789579](../reports/789579.md) | ActiveStorage direct upload fails to sign content-length header f | [Ruby on Rails](../by-program/rails.md) | Medium — CVSS 5.3 | — | 5 |
