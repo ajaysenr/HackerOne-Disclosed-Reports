@@ -8123,19 +8123,25 @@ https://hackerone.com/reports/1707287 | CVE-2022-40604: Apache Airflow: Format S
 https://hackerone.com/reports/1707616 | CORS Misconfiguration on Yelp
 https://hackerone.com/reports/1707680 | If the website does not impose additional defense against CSRF attacks, failing to use the 'Lax' or 'Strict' values could increase the risk of exposur
 https://hackerone.com/reports/1707977 | XSS in Desktop Client via user status and information
-https://hackerone.com/reports/1708824 | No rate limit on subscribe form 
+https://hackerone.com/reports/1708824 | No rate limit on subscribe form
 https://hackerone.com/reports/1709815 | Non-revoked API Key Disclosure in a Disclosed API Key Disclosure Report on Stripo
 https://hackerone.com/reports/1709881 | Authentication Bypass Leads To  Complete Account TakeveOver on ██████████
-https://hackerone.com/reports/1710541 | Arbitrary write in the application's data folder and arbitrary read of server's replies from 3rd party apps. 
+https://hackerone.com/reports/1710541 | Arbitrary write in the application's data folder and arbitrary read of server's replies from 3rd party apps.
 https://hackerone.com/reports/1710564 | Possible to spoof Origin in "Connected Sites"
 https://hackerone.com/reports/1710652 | DNS rebinding in --inspect via invalid octal IP address
 https://hackerone.com/reports/1711318 | Archived / Deleted / Private Poll Can Be Viewed by Another Users [Crowdsignal WordPress plugins]
 https://hackerone.com/reports/1711847 | XSS in Desktop Client in call notification popup
 https://hackerone.com/reports/1711890 | Subdomain takeover on 'de-headless.staging.gymshark.com'
 https://hackerone.com/reports/1711938 | Github Apps can use Scoped-User-To-Server Tokens to Obtain Full Access to User's Projects in Project V2 GraphQL api
+https://hackerone.com/reports/1712240 | Server-side request forgery  (ssrf)
+https://hackerone.com/reports/1712329 | [nextcloud/server] Moment.js vulnerable to Inefficient Regular Expression Complexity
+https://hackerone.com/reports/1714563 | Jolokia Reflected XSS 
+https://hackerone.com/reports/1714638 | IDOR Leads To  User Profile Modification https://mtnmobad.mtnbusiness.com.ng/app/updateUser
 https://hackerone.com/reports/1714767 | Upload and delete files in debug page without access control.
 https://hackerone.com/reports/1714970 | no rate limit in forgot password session
 https://hackerone.com/reports/1714979 | DNS rebinding in --inspect (insufficient fix of CVE-2022-32212 affecting macOS devices)
+https://hackerone.com/reports/1715536 | Deny of service via malicious Content-Type
+https://hackerone.com/reports/1715538 | Subdomain Takeover on  delivey.yelp.com 
 https://hackerone.com/reports/1716016 | Ability to join an arbitrary workspace by utilizing a proxy to manipulate invite links
 https://hackerone.com/reports/1717626 | Sub-Domain Takeover at   http://www.codefi.consensys.net/
 https://hackerone.com/reports/1717650 | Promotion code can be used more than redemption limit.
