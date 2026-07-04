@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1686 total)
+# High/Critical Severity — No Bounty Paid (1690 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -90,6 +90,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [325336](../reports/325336.md) | Subdomain takeover on svcgatewayus.starbucks.com | [Starbucks](../by-program/starbucks.md) | Critical — CVSS 9.3 | Resolved | 109 |
 | [776634](../reports/776634.md) | [H1-415 2020] CTF Writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 107 |
 | [1716016](../reports/1716016.md) | Ability to join an arbitrary workspace by utilizing a proxy to ma | [Slack](../by-program/slack.md) | Critical — CVSS 9.3 | Resolved | 105 |
+| [1709881](../reports/1709881.md) | Authentication Bypass Leads To  Complete Account TakeveOver on ██ | [MTN Group](../by-program/mtn_group.md) | Critical — CVSS 10.0 | Resolved | 105 |
 | [1072832](../reports/1072832.md) | [hta3] Remote Code Execution on ████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical — CVSS 10.0 | Resolved | 103 |
 | [3080597](../reports/3080597.md) | Unauthorized Account Access via Leaked Credentials in URL Format  | [Khan Academy](../by-program/khanacademy.md) | Critical | Resolved | 103 |
 | [735748](../reports/735748.md) | HTTP request smuggling using malformed Transfer-Encoding header | [Node.js](../by-program/nodejs.md) | Critical — CVSS 9.0 | Resolved | 103 |
@@ -99,6 +100,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [2748003](../reports/2748003.md) | Lack of rate limiting in https://███/PKI/PassReset.aspx leads to  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 98 |
 | [1369674](../reports/1369674.md) | Blind XSS on Twitter's internal Jira panel at ████ allows exfiltr | [X / xAI](../by-program/x.md) | Critical | Resolved | 97 |
 | [2382120](../reports/2382120.md) | Creation of bounties through Customer API leads to private email  | [HackerOne](../by-program/security.md) | Critical — CVSS 9.3 | Resolved | 97 |
+| [1714638](../reports/1714638.md) | IDOR Leads To  User Profile Modification https://mtnmobad.mtnbusi | [MTN Group](../by-program/mtn_group.md) | Critical — CVSS 10.0 | Resolved | 96 |
 | [227880](../reports/227880.md) | XXE in DoD website that may lead to RCE | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 96 |
 | [2926447](../reports/2926447.md) | Public google drive link Exposes Military Orders Containing PII ( | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 95 |
 | [2858802](../reports/2858802.md) | low-level p2p ping + tcp flooding leads to a remote crash in mone | [Monero](../by-program/monero.md) | Critical | Resolved | 95 |
@@ -936,6 +938,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [3598358](../reports/3598358.md) | urlapi: off-by-one in custom scheme validation skips last charact | [curl](../by-program/curl.md) | High | Informative | 38 |
 | [3321406](../reports/3321406.md) | [Variation of #1554049] 1-Click Chaining of Self-XSS, Cookie Toss | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | High | Resolved | 37 |
 | [2334455](../reports/2334455.md) | Path traversal in AcitveStorage, and lead RCE | [Ruby on Rails](../by-program/rails.md) | High — CVSS 8.1 | Informative | 37 |
+| [1710541](../reports/1710541.md) | Arbitrary write in the application's data folder and arbitrary re | [Basecamp](../by-program/basecamp.md) | High — CVSS 8.8 | Resolved | 37 |
 | [1072277](../reports/1072277.md) | Host Header injection in oslo.io (using X-Forwarded-For header) l | [Logitech](../by-program/logitech.md) | High — CVSS 7.1 | Resolved | 37 |
 | [2817648](../reports/2817648.md) | Improper error handling in async cryptographic operations crashes | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | Resolved | 37 |
 | [2571981](../reports/2571981.md) | Business Logic error leads to bypass 2FA requirement  | [HackerOne](../by-program/security.md) | High — CVSS 8.2 | Duplicate | 36 |
@@ -1143,6 +1146,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [715996](../reports/715996.md) | http request smuggling in  twitter.com | [X / xAI](../by-program/x.md) | High | Duplicate | 17 |
 | [770548](../reports/770548.md) | Insecure OAuth redirection at [admin.8x8.vc] | [8x8](../by-program/8x8-bounty.md) | High | Resolved | 17 |
 | [379049](../reports/379049.md) | Attcker can trick monero wallet into reporting it recived twice a | [Monero](../by-program/monero.md) | High — CVSS 8.2 | Resolved | 17 |
+| [1715536](../reports/1715536.md) | Deny of service via malicious Content-Type | [Fastify](../by-program/fastify.md) | High — CVSS 7.5 | Resolved | 17 |
 | [1514356](../reports/1514356.md) | Enumerate class codes via yahoo dork - Can access any course unde | [Khan Academy](../by-program/khanacademy.md) | High | Resolved | 17 |
 | [1429148](../reports/1429148.md) | Subdomain Takeover at https://new.rubyonrails.org/ | [Ruby on Rails](../by-program/rails.md) | High | Resolved | 17 |
 | [200623](../reports/200623.md) | SQL injection vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 17 |

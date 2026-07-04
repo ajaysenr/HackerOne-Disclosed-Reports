@@ -1,4 +1,4 @@
-# Weakness: Phishing (23 reports)
+# Weakness: Phishing (24 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -23,7 +23,8 @@
 | 17 | [384101](../reports/384101.md) | Go.imgur.com can be used to phish for account information | [Imgur](../by-program/imgur.md) | Low | — | 18 |
 | 18 | [1390782](../reports/1390782.md) | Possible Domain Takeover on AWS Instance. | [Rocket.Chat](../by-program/rocket_chat.md) | Low | — | 9 |
 | 19 | [325827](../reports/325827.md) | Content Spoofing or Text Injection support.mycrypto.com | [MyCrypto](../by-program/mycrypto.md) | Low | — | 7 |
-| 20 | [1165919](../reports/1165919.md) | Content Spoofing | [Reddit](../by-program/reddit.md) | Low | — | 1 |
-| 21 | [459634](../reports/459634.md) | GitHub users outside of HackerOne organization can create and upd | [HackerOne](../by-program/security.md) | None | — | 12 |
-| 22 | [1504294](../reports/1504294.md) | Impersonation of tiktok account via Broken Link in TikTok Newsroo | [TikTok](../by-program/tiktok.md) | None | — | 10 |
-| 23 | [841630](../reports/841630.md) | Content Spoofing | [Acronis](../by-program/acronis.md) | None | — | 8 |
+| 20 | [1715538](../reports/1715538.md) | Subdomain Takeover on  delivey.yelp.com  | [Yelp](../by-program/yelp.md) | Low | — | 2 |
+| 21 | [1165919](../reports/1165919.md) | Content Spoofing | [Reddit](../by-program/reddit.md) | Low | — | 1 |
+| 22 | [459634](../reports/459634.md) | GitHub users outside of HackerOne organization can create and upd | [HackerOne](../by-program/security.md) | None | — | 12 |
+| 23 | [1504294](../reports/1504294.md) | Impersonation of tiktok account via Broken Link in TikTok Newsroo | [TikTok](../by-program/tiktok.md) | None | — | 10 |
+| 24 | [841630](../reports/841630.md) | Content Spoofing | [Acronis](../by-program/acronis.md) | None | — | 8 |

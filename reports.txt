@@ -8135,13 +8135,13 @@ https://hackerone.com/reports/1711890 | Subdomain takeover on 'de-headless.stagi
 https://hackerone.com/reports/1711938 | Github Apps can use Scoped-User-To-Server Tokens to Obtain Full Access to User's Projects in Project V2 GraphQL api
 https://hackerone.com/reports/1712240 | Server-side request forgery  (ssrf)
 https://hackerone.com/reports/1712329 | [nextcloud/server] Moment.js vulnerable to Inefficient Regular Expression Complexity
-https://hackerone.com/reports/1714563 | Jolokia Reflected XSS 
+https://hackerone.com/reports/1714563 | Jolokia Reflected XSS
 https://hackerone.com/reports/1714638 | IDOR Leads To  User Profile Modification https://mtnmobad.mtnbusiness.com.ng/app/updateUser
 https://hackerone.com/reports/1714767 | Upload and delete files in debug page without access control.
 https://hackerone.com/reports/1714970 | no rate limit in forgot password session
 https://hackerone.com/reports/1714979 | DNS rebinding in --inspect (insufficient fix of CVE-2022-32212 affecting macOS devices)
 https://hackerone.com/reports/1715536 | Deny of service via malicious Content-Type
-https://hackerone.com/reports/1715538 | Subdomain Takeover on  delivey.yelp.com 
+https://hackerone.com/reports/1715538 | Subdomain Takeover on  delivey.yelp.com
 https://hackerone.com/reports/1716016 | Ability to join an arbitrary workspace by utilizing a proxy to manipulate invite links
 https://hackerone.com/reports/1717626 | Sub-Domain Takeover at   http://www.codefi.consensys.net/
 https://hackerone.com/reports/1717650 | Promotion code can be used more than redemption limit.
@@ -9521,6 +9521,7 @@ https://hackerone.com/reports/3625210 | PIN bypass in PassCodeActivity via back 
 https://hackerone.com/reports/3625600 | Out of scope: Improper Input Validation Order on /api-internal/login via password field leads to unnecessary resource consumption
 https://hackerone.com/reports/3625987 | Permission Model bypass via FileHandle.utimes() in the promises API
 https://hackerone.com/reports/3627638 | Security Vulnerability Report: Protocol Injection via Programmatic Options
+https://hackerone.com/reports/3628961 | admin.shopify.com: Shopify Flow continues sending internal emails to a configured recipient after the staff author is removed
 https://hackerone.com/reports/3630310 | HTTP/2 server push accepts a non-authoritative :scheme=https over cleartext h2c, enabling HTTPS cache-key poisoning
 https://hackerone.com/reports/3632427 | Unbounded GZIP Decompression Leading to Event-Loop Starvation
 https://hackerone.com/reports/3633534 | CRLF Injection in HAProxy PROXY Protocol via CURLOPT_HAPROXY_CLIENT_IP allows IP spoofing and protocol injection

@@ -1,4 +1,4 @@
-# Weakness: OS Command Injection (38 reports)
+# Weakness: OS Command Injection (39 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -37,8 +37,9 @@
 | 31 | [690010](../reports/690010.md) | OS Command Injection on Jison [all-parser-ports] | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 14 |
 | 32 | [1161691](../reports/1161691.md) | OS Command Injection in 'rdoc' documentation generator | [Ruby](../by-program/ruby.md) | Medium — CVSS 6.4 | — | 7 |
 | 33 | [1158824](../reports/1158824.md) | OS Command Injection in '/lib/un.rb -- Utilities to replace commo | [Ruby](../by-program/ruby.md) | Medium — CVSS 6.4 | — | 4 |
-| 34 | [282628](../reports/282628.md) | OS Command Execution on User's PC via CSV Injection | [X / xAI](../by-program/x.md) | Medium | — | 2 |
-| 35 | [386116](../reports/386116.md) | CSV Injection with the CSV export feature | [Chaturbate](../by-program/chaturbate.md) | Low — CVSS 3.1 | — | 14 |
-| 36 | [223344](../reports/223344.md) | CSV Injection with the CSV export feature | [Weblate](../by-program/weblate.md) | Low | — | 7 |
-| 37 | [2904921](../reports/2904921.md) | OS Command Injection  (subprocess Module Usage) | [curl](../by-program/curl.md) | Low | — | 4 |
-| 38 | [651518](../reports/651518.md) | OS Command Injection via egrep in Rake::FileList | [Ruby](../by-program/ruby.md) | None | — | 62 |
+| 34 | [1710652](../reports/1710652.md) | DNS rebinding in --inspect via invalid octal IP address | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.8 | — | 4 |
+| 35 | [282628](../reports/282628.md) | OS Command Execution on User's PC via CSV Injection | [X / xAI](../by-program/x.md) | Medium | — | 2 |
+| 36 | [386116](../reports/386116.md) | CSV Injection with the CSV export feature | [Chaturbate](../by-program/chaturbate.md) | Low — CVSS 3.1 | — | 14 |
+| 37 | [223344](../reports/223344.md) | CSV Injection with the CSV export feature | [Weblate](../by-program/weblate.md) | Low | — | 7 |
+| 38 | [2904921](../reports/2904921.md) | OS Command Injection  (subprocess Module Usage) | [curl](../by-program/curl.md) | Low | — | 4 |
+| 39 | [651518](../reports/651518.md) | OS Command Injection via egrep in Rake::FileList | [Ruby](../by-program/ruby.md) | None | — | 62 |

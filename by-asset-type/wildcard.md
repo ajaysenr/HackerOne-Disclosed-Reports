@@ -1,4 +1,4 @@
-# Asset Type: Wildcard (698 reports)
+# Asset Type: Wildcard (702 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -478,227 +478,231 @@
 | 472 | [311639](../reports/311639.md) | Reflected XSS on https://www.zomato.com | [Eternal](../by-program/eternal.md) | *.zomato.com | Medium — CVSS 5.4 | — | 14 |
 | 473 | [332631](../reports/332631.md) | Bypass blocked profile protection on aircrm.ubnt.com | [Ubiquiti Inc.](../by-program/ui.md) | *.ubnt.com | Medium | — | 13 |
 | 474 | [490899](../reports/490899.md) | Credientals Over GET method in plain Text | [RATELIMITED](../by-program/ratelimited.md) | *.ratelimited.me | Medium | — | 13 |
-| 475 | [1853061](../reports/1853061.md) | XSS via Vuln Rendertron Instance At `██████████.jetblue | [JetBlue](../by-program/jetblue.md) | *.jetblue.com | Medium — CVSS 5.4 | — | 13 |
-| 476 | [413115](../reports/413115.md) | CRLF injection agentcrm.8x8.com | [8x8](../by-program/8x8-bounty.md) | *.8x8.com | Medium | — | 12 |
-| 477 | [987132](../reports/987132.md) | Отправка произвольных запросов к API с правами любого у | [VK.com](../by-program/vkcom.md) | *.vk.com | Medium | — | 12 |
-| 478 | [791498](../reports/791498.md) | No Rate Limit On Forgot Password Page Of affiliates.nor | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Medium | — | 12 |
-| 479 | [2037234](../reports/2037234.md) | Stored XSS + CSRF in "apellido" value | [Mars](../by-program/mars.md) | *.miroyalcanin.cl | Medium | — | 12 |
-| 480 | [1536461](../reports/1536461.md) | Reflected  XSS on  ███?loc= | [UPS VDP](../by-program/ups.md) | *.ups.com | Medium — CVSS 6.1 | — | 11 |
-| 481 | [385178](../reports/385178.md) | Blind SSRF on image proxy camo.stream.highwebmedia.com | [Chaturbate](../by-program/chaturbate.md) | *.highwebmedia.com | Medium — CVSS 6.5 | — | 10 |
-| 482 | [313050](../reports/313050.md) | IDOR in treat subscriptions | [Eternal](../by-program/eternal.md) | *.zomato.com | Medium | — | 10 |
-| 483 | [295330](../reports/295330.md) | code.wordpress.net subdomain Takeover | [WordPress](../by-program/wordpress.md) | *.wordpress.net | Medium — CVSS 5.8 | — | 9 |
-| 484 | [935503](../reports/935503.md) | Reflected XSS on cz.acronis.com/dekujeme-za-odber-novin | [Acronis](../by-program/acronis.md) | *.acronis.com | Medium | — | 9 |
-| 485 | [958864](../reports/958864.md) | Open redirect (DOM-based) on av.ru via "return_url" par | [Azbuka Vkusa](../by-program/av.md) | *.av.ru | Medium — CVSS 4.7 | — | 8 |
-| 486 | [3766455](../reports/3766455.md) | Yelp for Business: locked Email field silently editable | [Yelp](../by-program/yelp.md) | *.yelp.com | Medium | — | 7 |
-| 487 | [473798](../reports/473798.md) | Cross Site Request Forgery in auth in https://auth.rate | [RATELIMITED](../by-program/ratelimited.md) | *.ratelimited.me | Medium | — | 7 |
-| 488 | [1392733](../reports/1392733.md) | xss(r) vcc-na11.8x8.com | [8x8](../by-program/8x8-bounty.md) | vcc-*.8x8.com | Medium | — | 7 |
-| 489 | [798913](../reports/798913.md) | Email address is not validated, No Rate Limit and RCE O | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Medium | — | 7 |
-| 490 | [386340](../reports/386340.md) | Reflected XSS on ssl-ccstatic.highwebmedia.com  via pla | [Chaturbate](../by-program/chaturbate.md) | *.highwebmedia.com | Medium | — | 7 |
-| 491 | [1400357](../reports/1400357.md) | 8x8pilot.com: Reflected XSS in Apache Tomcat /jsp-examp | [8x8](../by-program/8x8-bounty.md) | *.8x8pilot.com | Medium | — | 6 |
-| 492 | [321938](../reports/321938.md) | [www.zomato.com] Getting a complimentary dessert [Zomat | [Eternal](../by-program/eternal.md) | *.zomato.com | Medium | — | 6 |
-| 493 | [808167](../reports/808167.md) | Stored XSS on Company Logo | [8x8](../by-program/8x8-bounty.md) | *.easycontactnow.com | Medium — CVSS 6.9 | — | 5 |
-| 494 | [1285441](../reports/1285441.md) | Rate limit missing sign-in page | [Tennessee Valley Authority](../by-program/tennessee-valley-authority.md) | *.tva.gov | Medium | — | 5 |
-| 495 | [412754](../reports/412754.md) | XSS (Cross site scripting) on https://apimgr.8x8.com | [8x8](../by-program/8x8-bounty.md) | *.8x8.com | Medium | — | 4 |
-| 496 | [459532](../reports/459532.md) | Persistent CSV injection | [Semrush](../by-program/semrush.md) | *.semrush.com | Medium | — | 4 |
-| 497 | [642876](../reports/642876.md) | URl redirection  | [Kartpay](../by-program/kartpay.md) | *.kartpay.com | Medium | — | 4 |
-| 498 | [741549](../reports/741549.md) | Lack of HTTPS in service communications | [Clario](../by-program/clario.md) | *.kromtech.com | Medium — CVSS 4.6 | — | 3 |
-| 499 | [1714970](../reports/1714970.md) | no rate limit in forgot password session | [Yelp](../by-program/yelp.md) | *.yelp.com | Medium | — | 3 |
-| 500 | [838178](../reports/838178.md) | Reflected XSS in "*.mendix.com/openid/*" | [Mendix](../by-program/mendix.md) | *.mendix.com | Medium — CVSS 6.4 | — | 3 |
-| 501 | [373950](../reports/373950.md) | Reflected Cross-Site Scripting in Serendipity (serendip | [Hanno's projects](../by-program/hannob.md) | *.fuzzing-project.org | Medium | — | 3 |
-| 502 | [282628](../reports/282628.md) | OS Command Execution on User's PC via CSV Injection | [X / xAI](../by-program/x.md) | *.twitter.com | Medium | — | 2 |
-| 503 | [796557](../reports/796557.md) | Cross Origin Resource Sharing Misconfiguration | Lead t | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Medium | — | 2 |
-| 504 | [885539](../reports/885539.md) | Private list members disclosure via GraphQL | [X / xAI](../by-program/x.md) | *.twitter.com | Low | — | 343 |
-| 505 | [1065041](../reports/1065041.md) | Google API key leaked to Public | [FetLife](../by-program/fetlife.md) | *.fetlife.com | Low | — | 225 |
-| 506 | [751581](../reports/751581.md) | Password Reset Link Leaked In Refer Header In Request T | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 215 |
-| 507 | [1699762](../reports/1699762.md) | XSS in www.shopify.com/markets?utm_source= | [Shopify](../by-program/shopify.md) | *.shopify.com | Low — CVSS 3.3 | — | 158 |
-| 508 | [2014955](../reports/2014955.md) | #1 XSS on watchdocs.indriverapp.com | [inDrive](../by-program/indrive.md) | *.indriverapp.com | Low | — | 144 |
-| 509 | [751876](../reports/751876.md) | Version problem in wordpress leads to the many vulneara | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 95 |
-| 510 | [712979](../reports/712979.md) | Creating malformed URLs via new line character in-betwe | [X / xAI](../by-program/x.md) | *.twitter.com | Low | — | 95 |
-| 511 | [1365076](../reports/1365076.md) | Information Disclosure of metrics fax.wavecell.com/metr | [8x8](../by-program/8x8-bounty.md) | *.wavecell.com | Low | — | 90 |
-| 512 | [753725](../reports/753725.md) | Disclosure of User Information | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 88 |
-| 513 | [511440](../reports/511440.md) |  credentials leakage in public lead to view dev website | [Eternal](../by-program/eternal.md) | *.zomato.com | Low | — | 77 |
-| 514 | [2396549](../reports/2396549.md) | Privilege Escalation - A Non Owner User Who Does not Ha | [Yelp](../by-program/yelp.md) | *.yelp.com | Low | — | 74 |
-| 515 | [979204](../reports/979204.md) | XSS on https://partners.acronis.com/ | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 73 |
-| 516 | [752010](../reports/752010.md) | DoS of https://nordvpn.com/ via CVE-2018-6389 exploitat | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 73 |
-| 517 | [564196](../reports/564196.md) | help.shopify.com Cross Site Scripting | [Shopify](../by-program/shopify.md) | *.shopify.com | Low | — | 71 |
-| 518 | [756149](../reports/756149.md) | Blind SSRF on debug.nordvpn.com due to misconfigured se | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 70 |
-| 519 | [1049012](../reports/1049012.md) | Stored XSS in [https://streamlabs.com/dashboard#/*goal] | [Logitech](../by-program/logitech.md) | *.streamlabs.com | Low — CVSS 3.4 | — | 67 |
-| 520 | [983070](../reports/983070.md) | IDOR when creating App on [platform.streamlabs.com/api/ | [Logitech](../by-program/logitech.md) | *.streamlabs.com | Low | — | 60 |
-| 521 | [2261600](../reports/2261600.md) | CSRF to delete a pet on ██████ | [Mars](../by-program/mars.md) | *.royalcanin.pt | Low — CVSS 3.8 | — | 59 |
-| 522 | [2396571](../reports/2396571.md) | Privilege Escalation - A Low Privilege User who does no | [Yelp](../by-program/yelp.md) | *.yelp.com | Low | — | 59 |
-| 523 | [1132803](../reports/1132803.md) | Graphql introspection is enabled and leaks details abou | [On ](../by-program/on.md) | *.on-running.com | Low | — | 55 |
-| 524 | [1655629](../reports/1655629.md) | Bypassing Recaptcha Protection in  `https://connect.acr | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 54 |
-| 525 | [1295497](../reports/1295497.md) | EC2 Takeover at turn.shopify.com | [Shopify](../by-program/shopify.md) | *.shopify.com | Low — CVSS 3.0 | — | 51 |
-| 526 | [2684274](../reports/2684274.md) | RXSS on ████ via configUrl parameter | [Mars](../by-program/mars.md) | *.royalcanin.com.cn | Low — CVSS 3.8 | — | 51 |
-| 527 | [1357013](../reports/1357013.md) | ABLE TO TRICK THE VICTIM INTO USING A CRAFTED EMAIL ADD | [Mattermost](../by-program/mattermost.md) | h1-*your-own-instance*.cloud.mattermost. | Low — CVSS 3.7 | — | 49 |
-| 528 | [1134060](../reports/1134060.md) | credentials found in config file on github | [BlockFi](../by-program/blockfi.md) | *.blockfi.com | Low | — | 47 |
-| 529 | [3523703](../reports/3523703.md) | Password Strength Policy Bypass via Server-Side Validat | [Tucows (VDP)](../by-program/tucows_vdp.md) | *.hover.com | Low | — | 47 |
-| 530 | [1443211](../reports/1443211.md) | Bypass Email Verification in Customer Portal | [Mattermost](../by-program/mattermost.md) | h1-*your-own-instance*.cloud.mattermost. | Low — CVSS 3.7 | — | 45 |
-| 531 | [1114617](../reports/1114617.md) | Privilege Escalation leading to post in channel without | [Mattermost](../by-program/mattermost.md) | h1-*your-own-instance*.cloud.mattermost. | Low — CVSS 2.6 | — | 45 |
-| 532 | [769058](../reports/769058.md) | CORS misconfiguration which leads to the disclosure of  | [Semrush](../by-program/semrush.md) | *.semrush.com | Low | — | 45 |
-| 533 | [1409913](../reports/1409913.md) | Race condition in User comments  Likes | [Eternal](../by-program/eternal.md) | *.zomato.com | Low — CVSS 3.7 | — | 45 |
-| 534 | [2354888](../reports/2354888.md) | unsubscribe anyone from all ████████ emails @ █████ | [Mars](../by-program/mars.md) | *.banfield.com | Low | — | 44 |
-| 535 | [1124540](../reports/1124540.md) | Login CSRF : Login Authentication Flaw on  https://libe | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | Low | — | 44 |
-| 536 | [1148548](../reports/1148548.md) | Bypass t.co link shortener in Twitter direct messages | [X / xAI](../by-program/x.md) | *.twitter.com | Low | — | 43 |
-| 537 | [1442017](../reports/1442017.md) | Self XSS in Create New Workspace Screen | [Mattermost](../by-program/mattermost.md) | h1-*your-own-instance*.cloud.mattermost. | Low | — | 42 |
-| 538 | [3063026](../reports/3063026.md) | debug.log leaked [█████████] | [Mars](../by-program/mars.md) | *.royalcanin.co.uk | Low | — | 39 |
-| 539 | [1174527](../reports/1174527.md) | Privilege Escalation Leads to Control The Owner Access  | [Logitech](../by-program/logitech.md) | *.streamlabs.com | Low — CVSS 2.4 | — | 38 |
-| 540 | [1443567](../reports/1443567.md) | html injection via invite members can be leads account  | [Mattermost](../by-program/mattermost.md) | h1-*your-own-instance*.cloud.mattermost. | Low — CVSS 2.0 | — | 37 |
-| 541 | [1382448](../reports/1382448.md) | %0A (New line) and limitness URL leads to DoS at all sy | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 36 |
-| 542 | [981796](../reports/981796.md) | Information Disclosure of Garbage Collection Cycle | [Basecamp](../by-program/basecamp.md) | *.hey.com | Low | — | 33 |
-| 543 | [1145712](../reports/1145712.md) | Reflected XSS on www.acronis.com/de-de/my/subscriptions | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 32 |
-| 544 | [879582](../reports/879582.md) | CORS Misconfiguration, could lead to disclosure of user | [Xiaomi](../by-program/xiaomi.md) | *.miui.com | Low | — | 32 |
-| 545 | [2534300](../reports/2534300.md) | HTML injection in swagger UI | [Ionity GmbH](../by-program/ionity_gmbh.md) | *.ionity.eu | Low | — | 31 |
-| 546 | [1023572](../reports/1023572.md) | [acronis.secure.force.com] - Insecure Salesforce defaul | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 31 |
-| 547 | [1486820](../reports/1486820.md) | Invitation Email is resent as a Reminder after invalida | [Mattermost](../by-program/mattermost.md) | *.mattermost.com | Low — CVSS 2.6 | — | 30 |
-| 548 | [963384](../reports/963384.md) | mysql credentials exposed on - https://cz.acronis.com/d | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 28 |
-| 549 | [1836339](../reports/1836339.md) | Open Redirect - Polycom Company Directory | [8x8](../by-program/8x8-bounty.md) | *.8x8pilot.com | Low | — | 27 |
-| 550 | [475167](../reports/475167.md) | Apache mod_negotiation filename bruteforcing https://ap | [RATELIMITED](../by-program/ratelimited.md) | *.ratelimited.me | Low | — | 27 |
-| 551 | [1699025](../reports/1699025.md) | [song.link] Open Redirect | [Linktree](../by-program/linktree.md) | *.song.link | Low — CVSS 3.1 | — | 27 |
-| 552 | [2545994](../reports/2545994.md) | Cloudflare /cdn-cgi/ path allows resizing images from u | [Enjin](../by-program/enjin.md) | *.enjinusercontent.com | Low | — | 27 |
-| 553 | [702987](../reports/702987.md) | No redirect_uri in the db for web-internal clientKey le | [GitLab](../by-program/gitlab.md) | *.gitter.im | Low | — | 26 |
-| 554 | [772886](../reports/772886.md) | Password Reset Link Works Multiple Times | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 26 |
-| 555 | [716976](../reports/716976.md) | Open redirect in semrush.com | [Semrush](../by-program/semrush.md) | *.semrush.com | Low | — | 26 |
-| 556 | [1202408](../reports/1202408.md) | No Rate Limit on redditgifts gift  when Adding Comment | [Reddit](../by-program/reddit.md) | *.redditgifts.com | Low | — | 25 |
-| 557 | [700075](../reports/700075.md) | bypass captcha in the form forgot password | [Kartpay](../by-program/kartpay.md) | *.kartpay.com | Low | — | 25 |
-| 558 | [961787](../reports/961787.md) | CSRF and XSS on www.acronis.com | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 25 |
-| 559 | [491023](../reports/491023.md) | XSS Reflected on my_report | [Semrush](../by-program/semrush.md) | *.semrush.com | Low | — | 25 |
-| 560 | [982442](../reports/982442.md) | XSS in https://promo.acronis.com/ | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 24 |
-| 561 | [1607940](../reports/1607940.md) | CVE-2019-11248 on http://█.█.█.█:9100/debug/pprof/gorou | [8x8](../by-program/8x8-bounty.md) | *.8x8.com | Low | — | 24 |
-| 562 | [452920](../reports/452920.md) | Import of repositories from GitHub is tied to username  | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | Low | — | 22 |
-| 563 | [861521](../reports/861521.md) | Cookie injection leads to complete DoS over whole domai | [Clario](../by-program/clario.md) | *.mackeeper.com | Low | — | 22 |
-| 564 | [927661](../reports/927661.md) | Ability to manipulate price with a max threshold of `<1 | [Eternal](../by-program/eternal.md) | *.zomato.com | Low | — | 21 |
-| 565 | [2243003](../reports/2243003.md) | Information Exposure due to enabled debug mode | [Mars](../by-program/mars.md) | *.mars.com | Low | — | 21 |
-| 566 | [971234](../reports/971234.md) | Clickjacking on cas.acronis.com login page | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 19 |
-| 567 | [785243](../reports/785243.md) | Twitter Source Label allow 'mongolian vowel separator'  | [X / xAI](../by-program/x.md) | *.twitter.com | Low | — | 19 |
-| 568 | [953719](../reports/953719.md) | Subdomain Takeover – www.jet.acronis.com pointing to un | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 19 |
-| 569 | [1385844](../reports/1385844.md) | Information disclosure on error message | [PortSwigger Web Security](../by-program/portswigger.md) | *.web-security-academy.net | Low | — | 18 |
-| 570 | [1607429](../reports/1607429.md) | Twitter Account hijack through broken link in https://r | [Panther Labs](../by-program/panther_labs.md) | *.runpanther.io | Low | — | 18 |
-| 571 | [806577](../reports/806577.md) | Arbitrary Set-Cookie via "?coupon=" due to semi-colon n | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 18 |
-| 572 | [463123](../reports/463123.md) | Exposure of tinyMCE js source code with plugin version  | [RATELIMITED](../by-program/ratelimited.md) | *.theendlessweb.com | Low | — | 18 |
-| 573 | [777984](../reports/777984.md) | Denial of Service with Cookie Bomb | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 17 |
-| 574 | [601192](../reports/601192.md) | HTML injection in https://interviewing.shopify.com/inde | [Shopify](../by-program/shopify.md) | *.shopify.com | Low | — | 17 |
-| 575 | [765955](../reports/765955.md) | Clickjacking at join.nordvpn.com | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 17 |
-| 576 | [1844830](../reports/1844830.md) | HTML INJECTION on coins.state.gov | [U.S. Department of State](../by-program/us-department-of-state.md) | *.STATE.GOV | Low | — | 16 |
-| 577 | [1063627](../reports/1063627.md) | HTTP Request Smuggling on https://consumer.acronis.com | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 16 |
-| 578 | [360797](../reports/360797.md) | Authenticated reflected XSS on liberapay.com via the ba | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | Low — CVSS 3.5 | — | 16 |
-| 579 | [752042](../reports/752042.md) | Content Injection on api.semrush.com to Reflected XSS | [Semrush](../by-program/semrush.md) | *.semrush.com | Low | — | 16 |
-| 580 | [1118402](../reports/1118402.md) | Failure to Invalid Session after Password Change | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | Low | — | 16 |
-| 581 | [1825472](../reports/1825472.md) | speedtest.8x8.com: Enabled Directory Listing  | [8x8](../by-program/8x8-bounty.md) | *.8x8.com | Low | — | 15 |
-| 582 | [1637571](../reports/1637571.md) | Open Redirect ███.8x8.com | [8x8](../by-program/8x8-bounty.md) | *.8x8.com | Low — CVSS 3.8 | — | 15 |
-| 583 | [952166](../reports/952166.md) | Subdomain Takeover – jet.acronis.com pointing to unclai | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 15 |
-| 584 | [879984](../reports/879984.md) | DOM-based XSS in d.miwifi.com on IE 11 | [Xiaomi](../by-program/xiaomi.md) | *.miwifi.com | Low | — | 15 |
-| 585 | [386735](../reports/386735.md) | Login form on non-HTTPS page on http://stream.highwebme | [Chaturbate](../by-program/chaturbate.md) | *.highwebmedia.com | Low | — | 15 |
-| 586 | [1358249](../reports/1358249.md) | php info file and sql backup at vendor's subdomain | [Semrush](../by-program/semrush.md) | *.semrush.com | Low | — | 14 |
-| 587 | [309058](../reports/309058.md) | Open Redirect on the nl.wordpress.net | [WordPress](../by-program/wordpress.md) | *.wordpress.net | Low | — | 14 |
-| 588 | [459286](../reports/459286.md) | protocol & Ports are not shown in third-party site redi | [Semrush](../by-program/semrush.md) | *.semrush.com | Low | — | 13 |
-| 589 | [1063493](../reports/1063493.md) | HTTP Request Smuggling on https://promosandbox.acronis. | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 12 |
-| 590 | [642498](../reports/642498.md) | Captcha protection Bypass on Forgot password page | [Kartpay](../by-program/kartpay.md) | *.kartpay.com | Low | — | 12 |
-| 591 | [786238](../reports/786238.md) | Reflected XSS on https://www.semrush.com/my_reports/ext | [Semrush](../by-program/semrush.md) | *.semrush.com | Low | — | 12 |
-| 592 | [758380](../reports/758380.md) | Host header injection/redirection | signup and login pa | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 11 |
-| 593 | [473064](../reports/473064.md) | Open Redirect On Your Login Panel | [Eternal](../by-program/eternal.md) | *.zomato.com | Low | — | 11 |
-| 594 | [708076](../reports/708076.md) | Full Path disclosure on 500 error | [Liberapay](../by-program/liberapay.md) | *.liberapay.org | Low | — | 11 |
-| 595 | [1494308](../reports/1494308.md) | Waitlist bypass for accessing SIGN.PLUS Beta | [Alohi](../by-program/alohi.md) | *.sign.plus | Low | — | 11 |
-| 596 | [1132457](../reports/1132457.md) | Exposed PHP dependencies at ██.8x8.com | [8x8](../by-program/8x8-bounty.md) | *.8x8.com | Low | — | 10 |
-| 597 | [439021](../reports/439021.md) | Web cache deception attack - expose earning state infor | [Semrush](../by-program/semrush.md) | *.berush.com | Low — CVSS 3.1 | — | 10 |
-| 598 | [384112](../reports/384112.md) | xss - reflected | [WordPress](../by-program/wordpress.md) | *.wordpress.net | Low | — | 10 |
-| 599 | [1354066](../reports/1354066.md) | Dangling DNS Record docs.jitsi.net (unsuccessful GSuite | [8x8](../by-program/8x8-bounty.md) | *.jitsi.net | Low | — | 9 |
-| 600 | [280803](../reports/280803.md) | Fake mailing reports using mail service on [URL : mail- | [Inflection](../by-program/inflection.md) | *.identity.com | Low | — | 9 |
-| 601 | [474899](../reports/474899.md) | User Enumeration  | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | Low | — | 9 |
-| 602 | [382612](../reports/382612.md) | Potential SSRF and disclosure of sensitive site on *sho | [Shopify](../by-program/shopify.md) | *.shopify.com | Low | — | 9 |
-| 603 | [1369806](../reports/1369806.md) | OPEN REDIRECT  | [Nutanix](../by-program/nutanix.md) | *.nutanix.com | Low | — | 9 |
-| 604 | [792737](../reports/792737.md) | Password Reset Link not expiring after changing the ema | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 8 |
-| 605 | [1467046](../reports/1467046.md) | Open Redirect on https://██.8x8.com/login?nextPage=%2F | [8x8](../by-program/8x8-bounty.md) | *.8x8.com | Low | — | 8 |
-| 606 | [1912540](../reports/1912540.md) | CVE-2018-6389 exploitation - using scripts loader | [Fastly VDP](../by-program/fastly-vdp.md) | *.signalsciences.com | Low | — | 8 |
-| 607 | [1643962](../reports/1643962.md) | Path paths and file disclosure vulnerabilities at influ | [GitLab](../by-program/gitlab.md) | *.gitlab.net | Low | — | 8 |
-| 608 | [642886](../reports/642886.md) | Reauthentication for changing password bypass | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | Low | — | 8 |
-| 609 | [813421](../reports/813421.md) | Account deletion requests not entirely honoured. Misinf | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 8 |
-| 610 | [517711](../reports/517711.md) | Bypassing the SMS sending limit for download app link. | [Eternal](../by-program/eternal.md) | *.zomato.com | Low | — | 7 |
-| 611 | [879960](../reports/879960.md) | IDOR: Adding Contacts to Other User Groups | [8x8](../by-program/8x8-bounty.md) | *.wavecell.com | Low | — | 6 |
-| 612 | [907701](../reports/907701.md) | PHPinfo page on  http://█████.callstats.io | [8x8](../by-program/8x8-bounty.md) | http://*.callstats.io | Low | — | 6 |
-| 613 | [894518](../reports/894518.md) | xss on polaris.shopify.com/demo using postMessage | [Shopify](../by-program/shopify.md) | *.shopify.com | Low | — | 5 |
-| 614 | [966949](../reports/966949.md) | IDOR in locid parameter allowing to view others account | [Yelp](../by-program/yelp.md) | *.yelp.com | Low | — | 4 |
-| 615 | [833836](../reports/833836.md) | Information disclosure of Internal php files on [mackee | [Clario](../by-program/clario.md) | *.mackeeper.com | Low | — | 4 |
-| 616 | [1294767](../reports/1294767.md) | clickjacking on deleting user's clips [https://crosscli | [Logitech](../by-program/logitech.md) | *.crossclip.com | Low — CVSS 3.1 | — | 4 |
-| 617 | [737058](../reports/737058.md) | Affiliates - Session Fixation | [Clario](../by-program/clario.md) | *.kromtech.com | Low | — | 3 |
-| 618 | [1707680](../reports/1707680.md) | If the website does not impose additional defense again | [Yelp](../by-program/yelp.md) | *.yelp.com | Low | — | 3 |
-| 619 | [1082521](../reports/1082521.md) | Full Path Disclosure of Server through 500 Server Error | [Kartpay](../by-program/kartpay.md) | *.kartpay.com | Low | — | 3 |
-| 620 | [460530](../reports/460530.md) |  information disclosure which leak the apache version  | [RATELIMITED](../by-program/ratelimited.md) | *.ratelimited.me | Low | — | 2 |
-| 621 | [642862](../reports/642862.md) | Option method enabled in kartpay Webservers | [Kartpay](../by-program/kartpay.md) | *.kartpay.com | Low | — | 2 |
-| 622 | [766404](../reports/766404.md) | MK Site Cross-Site Scripting (XSS) in script context | [Clario](../by-program/clario.md) | *.mackeeper.com | Low | — | 2 |
-| 623 | [840515](../reports/840515.md) | rxss at https://mackeeper.com page not found via rid pa | [Clario](../by-program/clario.md) | *.mackeeper.com | Low | — | 2 |
-| 624 | [929633](../reports/929633.md) | Open Redirect on [blog.wavecell.com] | [8x8](../by-program/8x8-bounty.md) | *.wavecell.com | Low | — | 1 |
-| 625 | [482170](../reports/482170.md) | Ports are not shown in third-party site redirect warnin | [Semrush](../by-program/semrush.md) | *.semrush.com | Low | — | 0 |
-| 626 | [341908](../reports/341908.md) | XSS via Direct Message deeplinks | [X / xAI](../by-program/x.md) | *.twitter.com | None | — | 234 |
-| 627 | [1020371](../reports/1020371.md) | User can upload files even after closing his account | [Basecamp](../by-program/basecamp.md) | *.hey.com | None | — | 122 |
-| 628 | [293490](../reports/293490.md) | [www.zomato.com] Leaking Email Addresses of merchants v | [Eternal](../by-program/eternal.md) | *.zomato.com | None | — | 111 |
-| 629 | [2552027](../reports/2552027.md) | Exposure of shopify employee summit page allows anonymo | [Shopify](../by-program/shopify.md) | *.shopify.io | None | — | 76 |
-| 630 | [798599](../reports/798599.md) | xss stored | [Shopify](../by-program/shopify.md) | *.shopify.com | None | — | 75 |
-| 631 | [858915](../reports/858915.md) | CircleCI token in github repo allows for access to sens | [Shopify](../by-program/shopify.md) | *.shopify.com | None | — | 73 |
-| 632 | [3020733](../reports/3020733.md) | Email Verification Bypass via Race Condition | [Malwarebytes](../by-program/malwarebytes.md) | *.malwarebytes.com | None | — | 66 |
-| 633 | [419731](../reports/419731.md) | [www.zomato.com] Blind XSS in one of the Admin Dashboar | [Eternal](../by-program/eternal.md) | *.zomato.com | None | — | 61 |
-| 634 | [2567048](../reports/2567048.md) | Possible Subdomain Takeover For Inbound Emails | [Smule](../by-program/smule.md) | *.smule.com | None | — | 47 |
-| 635 | [2888001](../reports/2888001.md) | Information Disclosure: .dockerignore file is publicly  | [Flickr](../by-program/flickr.md) | *.flickr.com | None | — | 45 |
-| 636 | [1066851](../reports/1066851.md) | 12 Days of Hacky Holidays write-up, but as a text-based | [h1-ctf](../by-program/h1-ctf.md) | *.hackyholidays.h1ctf.com | None | — | 44 |
-| 637 | [3557138](../reports/3557138.md) | Arbitrary Code Execution via Scanner Bypass in **aws-di | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/awslabs/* | None | — | 42 |
-| 638 | [1563334](../reports/1563334.md) | One Click XSS in [www.shopify.com] | [Shopify](../by-program/shopify.md) | *.shopify.com | None | — | 36 |
-| 639 | [2666151](../reports/2666151.md) | phpinfo() exposed on ██████████ | [Mars](../by-program/mars.md) | *.royalcanin.com.ar | None | — | 35 |
-| 640 | [271407](../reports/271407.md) | Admin Access to a domain used for development and admin | [Eternal](../by-program/eternal.md) | *.zomato.com | None | — | 31 |
-| 641 | [1298809](../reports/1298809.md) | Senseitive data Related to Shopify Host -> https://shop | [Shopify](../by-program/shopify.md) | *.shopifycloud.com | None | — | 29 |
-| 642 | [791674](../reports/791674.md) | Expired Available Domains in nordvpn.com website code | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | None | — | 29 |
-| 643 | [288966](../reports/288966.md) | POODLE SSLv3 bug on multiple twitter smtp servers (mx3. | [X / xAI](../by-program/x.md) | *.twitter.com | None | — | 28 |
-| 644 | [1421804](../reports/1421804.md) | Direct Access To admin Dashboard | [Shopify](../by-program/shopify.md) | *.shopify.com | None | — | 26 |
-| 645 | [803141](../reports/803141.md) | Unauthorized User Can Delete Any User Account | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | None | — | 25 |
-| 646 | [449671](../reports/449671.md) | Broken Authentication and session management OWASP A2 | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 23 |
-| 647 | [968742](../reports/968742.md) | Password reset by malicious input on air.line.me | [LY Corporation](../by-program/line.md) | *.line.me | None | — | 23 |
-| 648 | [1262907](../reports/1262907.md) | Apache Flink Dashboard exposure at https://streaming-sa | [Shopify](../by-program/shopify.md) | *.shopifykloud.com | None | — | 23 |
-| 649 | [463604](../reports/463604.md) | Unrestricted File Upload on https://auth.ratelimited.me | [RATELIMITED](../by-program/ratelimited.md) | *.ratelimited.me | None | — | 22 |
-| 650 | [264919](../reports/264919.md) | [www.zomato.com] IDOR - Delete/Deactivate any special m | [Eternal](../by-program/eternal.md) | *.zomato.com | None | — | 20 |
-| 651 | [1129816](../reports/1129816.md) | Member still able close another user poll on communitie | [VK.com](../by-program/vkcom.md) | *.vk.com | None | — | 20 |
-| 652 | [345152](../reports/345152.md) | Publicly Accessible Datadog link | [Shopify](../by-program/shopify.md) | *.shopify.io | None | — | 18 |
-| 653 | [1400309](../reports/1400309.md) | [https://shipit-sox-staging.shopifycloud.com] Presence  | [Shopify](../by-program/shopify.md) | *.shopifycloud.com | None | — | 17 |
-| 654 | [1911568](../reports/1911568.md) | Unauthenticated cache purging | [Fastly VDP](../by-program/fastly-vdp.md) | *.fanout.io | None | — | 16 |
-| 655 | [1267677](../reports/1267677.md) | Improper Input Validation on https://oberlo-image-proxy | [Shopify](../by-program/shopify.md) | *.shopifycloud.com | None | — | 16 |
-| 656 | [264754](../reports/264754.md) | [www.zomato.com] IDOR - Delete/Deactivate ANY/ALL Promo | [Eternal](../by-program/eternal.md) | *.zomato.com | None | — | 16 |
-| 657 | [417453](../reports/417453.md) | Cross-origin resource sharing: arbitrary origin trusted | [Chaturbate](../by-program/chaturbate.md) | *.highwebmedia.com | None | — | 13 |
-| 658 | [493791](../reports/493791.md) | Inadequate cache control in gitter allows to view priva | [GitLab](../by-program/gitlab.md) | *.gitter.im | None | — | 13 |
-| 659 | [1215867](../reports/1215867.md) | [100K-ctf] Multiple vulnerabilities leading to compromi | [h1-ctf](../by-program/h1-ctf.md) | *.ccc.h1ctf.com | None | — | 13 |
-| 660 | [927413](../reports/927413.md) |  The vulnerabilities found were XSS, Public disclosure, | [Eternal](../by-program/eternal.md) | *.zomato.com | None | — | 11 |
-| 661 | [791826](../reports/791826.md) | Misconfigured web directory allows to retrieve public p | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | None | — | 11 |
-| 662 | [895202](../reports/895202.md) | [H1-2006 2020] Multiple vulnerabilities allow to leak s | [h1-ctf](../by-program/h1-ctf.md) | *.bountypay.h1ctf.com | None | — | 11 |
-| 663 | [3723002](../reports/3723002.md) | another liberapay member team twitter account broken Li | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 10 |
-| 664 | [998555](../reports/998555.md) | Get ip and Geo location any user via Clickjacking with  | [Acronis](../by-program/acronis.md) | *.acronis.com | None | — | 10 |
-| 665 | [1065516](../reports/1065516.md) | Flags for hackyholidays CTF | [h1-ctf](../by-program/h1-ctf.md) | *.hackyholidays.h1ctf.com | None | — | 9 |
-| 666 | [3721519](../reports/3721519.md) | Liberapay member team twitter account broken Link Hijac | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 9 |
-| 667 | [355773](../reports/355773.md) | XSS on support.wordcamp.org in ajax-quote.php | [WordPress](../by-program/wordpress.md) | *.wordcamp.org | None | — | 9 |
-| 668 | [789260](../reports/789260.md) | Past payments using the Direct Debit method keep subscr | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | None | — | 9 |
-| 669 | [1444031](../reports/1444031.md) | Error Page Content Spoofing or Text Injection | [Krisp](../by-program/krisp.md) | *.krisp.ai | None | — | 8 |
-| 670 | [1065128](../reports/1065128.md) | No Rate Limit On dashboard.myndr.net/auth | [Myndr](../by-program/myndr.md) | *.myndr.nl | None | — | 8 |
-| 671 | [1265344](../reports/1265344.md) | Self-DoS due to template injection via email field in p | [Acronis](../by-program/acronis.md) | *.acronis.com | None | — | 7 |
-| 672 | [361133](../reports/361133.md) | Able to View other users income history | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 6 |
-| 673 | [463481](../reports/463481.md) | Feature-Policy Header is Missing and Pastebin files | [arkadiyt-projects](../by-program/arkadiyt-projects.md) | *.arkadiyt.com | None | — | 6 |
-| 674 | [1113759](../reports/1113759.md) | [mattermost.com] CORS Misconfiguration leakage of admin | [Mattermost](../by-program/mattermost.md) | *.mattermost.com | None | — | 5 |
-| 675 | [360834](../reports/360834.md) | CSRF to make any user accept the invitation to the team | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 5 |
-| 676 | [838231](../reports/838231.md) | *.shopify.com - Authentication bypass | [Shopify](../by-program/shopify.md) | *.shopify.com | None | — | 5 |
-| 677 | [361368](../reports/361368.md) | Insecure Account Deletion | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 5 |
-| 678 | [894170](../reports/894170.md) | [H1-2006 2020] Writeup | [h1-ctf](../by-program/h1-ctf.md) | *.bountypay.h1ctf.com | None | — | 5 |
-| 679 | [361337](../reports/361337.md) | Missing back-end user input validation can lead to DOS  | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 5 |
-| 680 | [892632](../reports/892632.md) | [H1-2006 2020] CTF writeup | [h1-ctf](../by-program/h1-ctf.md) | *.bountypay.h1ctf.com | None | — | 4 |
-| 681 | [416516](../reports/416516.md) | A 10GB file is reachable | [Chaturbate](../by-program/chaturbate.md) | *.highwebmedia.com | None | — | 4 |
-| 682 | [361414](../reports/361414.md) | CSRF token manipulation in every possible form submits. | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 3 |
-| 683 | [935573](../reports/935573.md) | JDBC credentials leaked via github | [Yelp](../by-program/yelp.md) | *.yelp.com | None | — | 3 |
-| 684 | [361106](../reports/361106.md) | Unsecure changing password | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 3 |
-| 685 | [889333](../reports/889333.md) | [H1-2006 2020]  The Story of Making Bounty Hunters Happ | [h1-ctf](../by-program/h1-ctf.md) | *.bountypay.h1ctf.com | None | — | 3 |
-| 686 | [363845](../reports/363845.md) | Cross site scripting (content-sniffing) | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 2 |
-| 687 | [361941](../reports/361941.md) | REGISTRATION USING FAKE EMAIL ACCOUNT | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 2 |
-| 688 | [337219](../reports/337219.md) | URL is vulnerable to clickjacking | [Eternal](../by-program/eternal.md) | *.zomato.com | None | — | 2 |
-| 689 | [362601](../reports/362601.md) | A single user can subscribe a community multiple times | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 2 |
-| 690 | [1065583](../reports/1065583.md) | Hackyholidays CTF writeup | [h1-ctf](../by-program/h1-ctf.md) | *.hackyholidays.h1ctf.com | None | — | 2 |
-| 691 | [373932](../reports/373932.md) | Open redirect in Serendipity (exit.php) | [Hanno's projects](../by-program/hannob.md) | *.fuzzing-project.org | None | — | 2 |
-| 692 | [362718](../reports/362718.md) | Returning back from the browser after logging off will  | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 1 |
-| 693 | [361400](../reports/361400.md) | The csrf token remains same after user logs in | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 1 |
-| 694 | [281472](../reports/281472.md) | Unsubscribe Any User | [Inflection](../by-program/inflection.md) | *.goodhire.com | None | — | 1 |
-| 695 | [1068881](../reports/1068881.md) | HackyHolidays H1 CTF Writeup | [h1-ctf](../by-program/h1-ctf.md) | *.hackyholidays.h1ctf.com | None | — | 1 |
-| 696 | [363658](../reports/363658.md) | Buffer overflow | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 1 |
-| 697 | [362033](../reports/362033.md) | Csrf token does not meet security design | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 1 |
-| 698 | [463177](../reports/463177.md) | Information Disclosure PHPpgAdmin | [RATELIMITED](../by-program/ratelimited.md) | *.ratelimited.me | None | — | 0 |
+| 475 | [1708824](../reports/1708824.md) | No rate limit on subscribe form  | [Yelp](../by-program/yelp.md) | *.yelp.com | Medium — CVSS 6.1 | — | 13 |
+| 476 | [1853061](../reports/1853061.md) | XSS via Vuln Rendertron Instance At `██████████.jetblue | [JetBlue](../by-program/jetblue.md) | *.jetblue.com | Medium — CVSS 5.4 | — | 13 |
+| 477 | [1714563](../reports/1714563.md) | Jolokia Reflected XSS  | [Mars](../by-program/mars.md) | *.mars.com | Medium — CVSS 6.2 | — | 13 |
+| 478 | [413115](../reports/413115.md) | CRLF injection agentcrm.8x8.com | [8x8](../by-program/8x8-bounty.md) | *.8x8.com | Medium | — | 12 |
+| 479 | [987132](../reports/987132.md) | Отправка произвольных запросов к API с правами любого у | [VK.com](../by-program/vkcom.md) | *.vk.com | Medium | — | 12 |
+| 480 | [791498](../reports/791498.md) | No Rate Limit On Forgot Password Page Of affiliates.nor | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Medium | — | 12 |
+| 481 | [2037234](../reports/2037234.md) | Stored XSS + CSRF in "apellido" value | [Mars](../by-program/mars.md) | *.miroyalcanin.cl | Medium | — | 12 |
+| 482 | [1536461](../reports/1536461.md) | Reflected  XSS on  ███?loc= | [UPS VDP](../by-program/ups.md) | *.ups.com | Medium — CVSS 6.1 | — | 11 |
+| 483 | [385178](../reports/385178.md) | Blind SSRF on image proxy camo.stream.highwebmedia.com | [Chaturbate](../by-program/chaturbate.md) | *.highwebmedia.com | Medium — CVSS 6.5 | — | 10 |
+| 484 | [313050](../reports/313050.md) | IDOR in treat subscriptions | [Eternal](../by-program/eternal.md) | *.zomato.com | Medium | — | 10 |
+| 485 | [295330](../reports/295330.md) | code.wordpress.net subdomain Takeover | [WordPress](../by-program/wordpress.md) | *.wordpress.net | Medium — CVSS 5.8 | — | 9 |
+| 486 | [935503](../reports/935503.md) | Reflected XSS on cz.acronis.com/dekujeme-za-odber-novin | [Acronis](../by-program/acronis.md) | *.acronis.com | Medium | — | 9 |
+| 487 | [958864](../reports/958864.md) | Open redirect (DOM-based) on av.ru via "return_url" par | [Azbuka Vkusa](../by-program/av.md) | *.av.ru | Medium — CVSS 4.7 | — | 8 |
+| 488 | [3766455](../reports/3766455.md) | Yelp for Business: locked Email field silently editable | [Yelp](../by-program/yelp.md) | *.yelp.com | Medium | — | 7 |
+| 489 | [473798](../reports/473798.md) | Cross Site Request Forgery in auth in https://auth.rate | [RATELIMITED](../by-program/ratelimited.md) | *.ratelimited.me | Medium | — | 7 |
+| 490 | [1392733](../reports/1392733.md) | xss(r) vcc-na11.8x8.com | [8x8](../by-program/8x8-bounty.md) | vcc-*.8x8.com | Medium | — | 7 |
+| 491 | [798913](../reports/798913.md) | Email address is not validated, No Rate Limit and RCE O | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Medium | — | 7 |
+| 492 | [386340](../reports/386340.md) | Reflected XSS on ssl-ccstatic.highwebmedia.com  via pla | [Chaturbate](../by-program/chaturbate.md) | *.highwebmedia.com | Medium | — | 7 |
+| 493 | [1400357](../reports/1400357.md) | 8x8pilot.com: Reflected XSS in Apache Tomcat /jsp-examp | [8x8](../by-program/8x8-bounty.md) | *.8x8pilot.com | Medium | — | 6 |
+| 494 | [321938](../reports/321938.md) | [www.zomato.com] Getting a complimentary dessert [Zomat | [Eternal](../by-program/eternal.md) | *.zomato.com | Medium | — | 6 |
+| 495 | [808167](../reports/808167.md) | Stored XSS on Company Logo | [8x8](../by-program/8x8-bounty.md) | *.easycontactnow.com | Medium — CVSS 6.9 | — | 5 |
+| 496 | [1712240](../reports/1712240.md) | Server-side request forgery  (ssrf) | [Yelp](../by-program/yelp.md) | *.yelp-support.com | Medium | — | 5 |
+| 497 | [1285441](../reports/1285441.md) | Rate limit missing sign-in page | [Tennessee Valley Authority](../by-program/tennessee-valley-authority.md) | *.tva.gov | Medium | — | 5 |
+| 498 | [412754](../reports/412754.md) | XSS (Cross site scripting) on https://apimgr.8x8.com | [8x8](../by-program/8x8-bounty.md) | *.8x8.com | Medium | — | 4 |
+| 499 | [459532](../reports/459532.md) | Persistent CSV injection | [Semrush](../by-program/semrush.md) | *.semrush.com | Medium | — | 4 |
+| 500 | [642876](../reports/642876.md) | URl redirection  | [Kartpay](../by-program/kartpay.md) | *.kartpay.com | Medium | — | 4 |
+| 501 | [741549](../reports/741549.md) | Lack of HTTPS in service communications | [Clario](../by-program/clario.md) | *.kromtech.com | Medium — CVSS 4.6 | — | 3 |
+| 502 | [1714970](../reports/1714970.md) | no rate limit in forgot password session | [Yelp](../by-program/yelp.md) | *.yelp.com | Medium | — | 3 |
+| 503 | [838178](../reports/838178.md) | Reflected XSS in "*.mendix.com/openid/*" | [Mendix](../by-program/mendix.md) | *.mendix.com | Medium — CVSS 6.4 | — | 3 |
+| 504 | [373950](../reports/373950.md) | Reflected Cross-Site Scripting in Serendipity (serendip | [Hanno's projects](../by-program/hannob.md) | *.fuzzing-project.org | Medium | — | 3 |
+| 505 | [282628](../reports/282628.md) | OS Command Execution on User's PC via CSV Injection | [X / xAI](../by-program/x.md) | *.twitter.com | Medium | — | 2 |
+| 506 | [796557](../reports/796557.md) | Cross Origin Resource Sharing Misconfiguration | Lead t | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Medium | — | 2 |
+| 507 | [885539](../reports/885539.md) | Private list members disclosure via GraphQL | [X / xAI](../by-program/x.md) | *.twitter.com | Low | — | 343 |
+| 508 | [1065041](../reports/1065041.md) | Google API key leaked to Public | [FetLife](../by-program/fetlife.md) | *.fetlife.com | Low | — | 225 |
+| 509 | [751581](../reports/751581.md) | Password Reset Link Leaked In Refer Header In Request T | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 215 |
+| 510 | [1699762](../reports/1699762.md) | XSS in www.shopify.com/markets?utm_source= | [Shopify](../by-program/shopify.md) | *.shopify.com | Low — CVSS 3.3 | — | 158 |
+| 511 | [2014955](../reports/2014955.md) | #1 XSS on watchdocs.indriverapp.com | [inDrive](../by-program/indrive.md) | *.indriverapp.com | Low | — | 144 |
+| 512 | [751876](../reports/751876.md) | Version problem in wordpress leads to the many vulneara | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 95 |
+| 513 | [712979](../reports/712979.md) | Creating malformed URLs via new line character in-betwe | [X / xAI](../by-program/x.md) | *.twitter.com | Low | — | 95 |
+| 514 | [1365076](../reports/1365076.md) | Information Disclosure of metrics fax.wavecell.com/metr | [8x8](../by-program/8x8-bounty.md) | *.wavecell.com | Low | — | 90 |
+| 515 | [753725](../reports/753725.md) | Disclosure of User Information | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 88 |
+| 516 | [511440](../reports/511440.md) |  credentials leakage in public lead to view dev website | [Eternal](../by-program/eternal.md) | *.zomato.com | Low | — | 77 |
+| 517 | [2396549](../reports/2396549.md) | Privilege Escalation - A Non Owner User Who Does not Ha | [Yelp](../by-program/yelp.md) | *.yelp.com | Low | — | 74 |
+| 518 | [979204](../reports/979204.md) | XSS on https://partners.acronis.com/ | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 73 |
+| 519 | [752010](../reports/752010.md) | DoS of https://nordvpn.com/ via CVE-2018-6389 exploitat | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 73 |
+| 520 | [564196](../reports/564196.md) | help.shopify.com Cross Site Scripting | [Shopify](../by-program/shopify.md) | *.shopify.com | Low | — | 71 |
+| 521 | [756149](../reports/756149.md) | Blind SSRF on debug.nordvpn.com due to misconfigured se | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 70 |
+| 522 | [1049012](../reports/1049012.md) | Stored XSS in [https://streamlabs.com/dashboard#/*goal] | [Logitech](../by-program/logitech.md) | *.streamlabs.com | Low — CVSS 3.4 | — | 67 |
+| 523 | [983070](../reports/983070.md) | IDOR when creating App on [platform.streamlabs.com/api/ | [Logitech](../by-program/logitech.md) | *.streamlabs.com | Low | — | 60 |
+| 524 | [2261600](../reports/2261600.md) | CSRF to delete a pet on ██████ | [Mars](../by-program/mars.md) | *.royalcanin.pt | Low — CVSS 3.8 | — | 59 |
+| 525 | [2396571](../reports/2396571.md) | Privilege Escalation - A Low Privilege User who does no | [Yelp](../by-program/yelp.md) | *.yelp.com | Low | — | 59 |
+| 526 | [1132803](../reports/1132803.md) | Graphql introspection is enabled and leaks details abou | [On ](../by-program/on.md) | *.on-running.com | Low | — | 55 |
+| 527 | [1655629](../reports/1655629.md) | Bypassing Recaptcha Protection in  `https://connect.acr | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 54 |
+| 528 | [1295497](../reports/1295497.md) | EC2 Takeover at turn.shopify.com | [Shopify](../by-program/shopify.md) | *.shopify.com | Low — CVSS 3.0 | — | 51 |
+| 529 | [2684274](../reports/2684274.md) | RXSS on ████ via configUrl parameter | [Mars](../by-program/mars.md) | *.royalcanin.com.cn | Low — CVSS 3.8 | — | 51 |
+| 530 | [1357013](../reports/1357013.md) | ABLE TO TRICK THE VICTIM INTO USING A CRAFTED EMAIL ADD | [Mattermost](../by-program/mattermost.md) | h1-*your-own-instance*.cloud.mattermost. | Low — CVSS 3.7 | — | 49 |
+| 531 | [1134060](../reports/1134060.md) | credentials found in config file on github | [BlockFi](../by-program/blockfi.md) | *.blockfi.com | Low | — | 47 |
+| 532 | [3523703](../reports/3523703.md) | Password Strength Policy Bypass via Server-Side Validat | [Tucows (VDP)](../by-program/tucows_vdp.md) | *.hover.com | Low | — | 47 |
+| 533 | [1443211](../reports/1443211.md) | Bypass Email Verification in Customer Portal | [Mattermost](../by-program/mattermost.md) | h1-*your-own-instance*.cloud.mattermost. | Low — CVSS 3.7 | — | 45 |
+| 534 | [1114617](../reports/1114617.md) | Privilege Escalation leading to post in channel without | [Mattermost](../by-program/mattermost.md) | h1-*your-own-instance*.cloud.mattermost. | Low — CVSS 2.6 | — | 45 |
+| 535 | [769058](../reports/769058.md) | CORS misconfiguration which leads to the disclosure of  | [Semrush](../by-program/semrush.md) | *.semrush.com | Low | — | 45 |
+| 536 | [1409913](../reports/1409913.md) | Race condition in User comments  Likes | [Eternal](../by-program/eternal.md) | *.zomato.com | Low — CVSS 3.7 | — | 45 |
+| 537 | [2354888](../reports/2354888.md) | unsubscribe anyone from all ████████ emails @ █████ | [Mars](../by-program/mars.md) | *.banfield.com | Low | — | 44 |
+| 538 | [1124540](../reports/1124540.md) | Login CSRF : Login Authentication Flaw on  https://libe | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | Low | — | 44 |
+| 539 | [1148548](../reports/1148548.md) | Bypass t.co link shortener in Twitter direct messages | [X / xAI](../by-program/x.md) | *.twitter.com | Low | — | 43 |
+| 540 | [1442017](../reports/1442017.md) | Self XSS in Create New Workspace Screen | [Mattermost](../by-program/mattermost.md) | h1-*your-own-instance*.cloud.mattermost. | Low | — | 42 |
+| 541 | [3063026](../reports/3063026.md) | debug.log leaked [█████████] | [Mars](../by-program/mars.md) | *.royalcanin.co.uk | Low | — | 39 |
+| 542 | [1174527](../reports/1174527.md) | Privilege Escalation Leads to Control The Owner Access  | [Logitech](../by-program/logitech.md) | *.streamlabs.com | Low — CVSS 2.4 | — | 38 |
+| 543 | [1443567](../reports/1443567.md) | html injection via invite members can be leads account  | [Mattermost](../by-program/mattermost.md) | h1-*your-own-instance*.cloud.mattermost. | Low — CVSS 2.0 | — | 37 |
+| 544 | [1382448](../reports/1382448.md) | %0A (New line) and limitness URL leads to DoS at all sy | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 36 |
+| 545 | [981796](../reports/981796.md) | Information Disclosure of Garbage Collection Cycle | [Basecamp](../by-program/basecamp.md) | *.hey.com | Low | — | 33 |
+| 546 | [1145712](../reports/1145712.md) | Reflected XSS on www.acronis.com/de-de/my/subscriptions | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 32 |
+| 547 | [879582](../reports/879582.md) | CORS Misconfiguration, could lead to disclosure of user | [Xiaomi](../by-program/xiaomi.md) | *.miui.com | Low | — | 32 |
+| 548 | [2534300](../reports/2534300.md) | HTML injection in swagger UI | [Ionity GmbH](../by-program/ionity_gmbh.md) | *.ionity.eu | Low | — | 31 |
+| 549 | [1023572](../reports/1023572.md) | [acronis.secure.force.com] - Insecure Salesforce defaul | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 31 |
+| 550 | [1486820](../reports/1486820.md) | Invitation Email is resent as a Reminder after invalida | [Mattermost](../by-program/mattermost.md) | *.mattermost.com | Low — CVSS 2.6 | — | 30 |
+| 551 | [963384](../reports/963384.md) | mysql credentials exposed on - https://cz.acronis.com/d | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 28 |
+| 552 | [1836339](../reports/1836339.md) | Open Redirect - Polycom Company Directory | [8x8](../by-program/8x8-bounty.md) | *.8x8pilot.com | Low | — | 27 |
+| 553 | [475167](../reports/475167.md) | Apache mod_negotiation filename bruteforcing https://ap | [RATELIMITED](../by-program/ratelimited.md) | *.ratelimited.me | Low | — | 27 |
+| 554 | [1699025](../reports/1699025.md) | [song.link] Open Redirect | [Linktree](../by-program/linktree.md) | *.song.link | Low — CVSS 3.1 | — | 27 |
+| 555 | [2545994](../reports/2545994.md) | Cloudflare /cdn-cgi/ path allows resizing images from u | [Enjin](../by-program/enjin.md) | *.enjinusercontent.com | Low | — | 27 |
+| 556 | [702987](../reports/702987.md) | No redirect_uri in the db for web-internal clientKey le | [GitLab](../by-program/gitlab.md) | *.gitter.im | Low | — | 26 |
+| 557 | [772886](../reports/772886.md) | Password Reset Link Works Multiple Times | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 26 |
+| 558 | [716976](../reports/716976.md) | Open redirect in semrush.com | [Semrush](../by-program/semrush.md) | *.semrush.com | Low | — | 26 |
+| 559 | [1202408](../reports/1202408.md) | No Rate Limit on redditgifts gift  when Adding Comment | [Reddit](../by-program/reddit.md) | *.redditgifts.com | Low | — | 25 |
+| 560 | [700075](../reports/700075.md) | bypass captcha in the form forgot password | [Kartpay](../by-program/kartpay.md) | *.kartpay.com | Low | — | 25 |
+| 561 | [961787](../reports/961787.md) | CSRF and XSS on www.acronis.com | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 25 |
+| 562 | [491023](../reports/491023.md) | XSS Reflected on my_report | [Semrush](../by-program/semrush.md) | *.semrush.com | Low | — | 25 |
+| 563 | [982442](../reports/982442.md) | XSS in https://promo.acronis.com/ | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 24 |
+| 564 | [1607940](../reports/1607940.md) | CVE-2019-11248 on http://█.█.█.█:9100/debug/pprof/gorou | [8x8](../by-program/8x8-bounty.md) | *.8x8.com | Low | — | 24 |
+| 565 | [452920](../reports/452920.md) | Import of repositories from GitHub is tied to username  | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | Low | — | 22 |
+| 566 | [861521](../reports/861521.md) | Cookie injection leads to complete DoS over whole domai | [Clario](../by-program/clario.md) | *.mackeeper.com | Low | — | 22 |
+| 567 | [927661](../reports/927661.md) | Ability to manipulate price with a max threshold of `<1 | [Eternal](../by-program/eternal.md) | *.zomato.com | Low | — | 21 |
+| 568 | [2243003](../reports/2243003.md) | Information Exposure due to enabled debug mode | [Mars](../by-program/mars.md) | *.mars.com | Low | — | 21 |
+| 569 | [971234](../reports/971234.md) | Clickjacking on cas.acronis.com login page | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 19 |
+| 570 | [785243](../reports/785243.md) | Twitter Source Label allow 'mongolian vowel separator'  | [X / xAI](../by-program/x.md) | *.twitter.com | Low | — | 19 |
+| 571 | [953719](../reports/953719.md) | Subdomain Takeover – www.jet.acronis.com pointing to un | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 19 |
+| 572 | [1385844](../reports/1385844.md) | Information disclosure on error message | [PortSwigger Web Security](../by-program/portswigger.md) | *.web-security-academy.net | Low | — | 18 |
+| 573 | [1607429](../reports/1607429.md) | Twitter Account hijack through broken link in https://r | [Panther Labs](../by-program/panther_labs.md) | *.runpanther.io | Low | — | 18 |
+| 574 | [806577](../reports/806577.md) | Arbitrary Set-Cookie via "?coupon=" due to semi-colon n | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 18 |
+| 575 | [463123](../reports/463123.md) | Exposure of tinyMCE js source code with plugin version  | [RATELIMITED](../by-program/ratelimited.md) | *.theendlessweb.com | Low | — | 18 |
+| 576 | [777984](../reports/777984.md) | Denial of Service with Cookie Bomb | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 17 |
+| 577 | [601192](../reports/601192.md) | HTML injection in https://interviewing.shopify.com/inde | [Shopify](../by-program/shopify.md) | *.shopify.com | Low | — | 17 |
+| 578 | [765955](../reports/765955.md) | Clickjacking at join.nordvpn.com | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 17 |
+| 579 | [1844830](../reports/1844830.md) | HTML INJECTION on coins.state.gov | [U.S. Department of State](../by-program/us-department-of-state.md) | *.STATE.GOV | Low | — | 16 |
+| 580 | [1063627](../reports/1063627.md) | HTTP Request Smuggling on https://consumer.acronis.com | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 16 |
+| 581 | [360797](../reports/360797.md) | Authenticated reflected XSS on liberapay.com via the ba | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | Low — CVSS 3.5 | — | 16 |
+| 582 | [752042](../reports/752042.md) | Content Injection on api.semrush.com to Reflected XSS | [Semrush](../by-program/semrush.md) | *.semrush.com | Low | — | 16 |
+| 583 | [1118402](../reports/1118402.md) | Failure to Invalid Session after Password Change | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | Low | — | 16 |
+| 584 | [1825472](../reports/1825472.md) | speedtest.8x8.com: Enabled Directory Listing  | [8x8](../by-program/8x8-bounty.md) | *.8x8.com | Low | — | 15 |
+| 585 | [1637571](../reports/1637571.md) | Open Redirect ███.8x8.com | [8x8](../by-program/8x8-bounty.md) | *.8x8.com | Low — CVSS 3.8 | — | 15 |
+| 586 | [952166](../reports/952166.md) | Subdomain Takeover – jet.acronis.com pointing to unclai | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 15 |
+| 587 | [879984](../reports/879984.md) | DOM-based XSS in d.miwifi.com on IE 11 | [Xiaomi](../by-program/xiaomi.md) | *.miwifi.com | Low | — | 15 |
+| 588 | [386735](../reports/386735.md) | Login form on non-HTTPS page on http://stream.highwebme | [Chaturbate](../by-program/chaturbate.md) | *.highwebmedia.com | Low | — | 15 |
+| 589 | [1358249](../reports/1358249.md) | php info file and sql backup at vendor's subdomain | [Semrush](../by-program/semrush.md) | *.semrush.com | Low | — | 14 |
+| 590 | [309058](../reports/309058.md) | Open Redirect on the nl.wordpress.net | [WordPress](../by-program/wordpress.md) | *.wordpress.net | Low | — | 14 |
+| 591 | [459286](../reports/459286.md) | protocol & Ports are not shown in third-party site redi | [Semrush](../by-program/semrush.md) | *.semrush.com | Low | — | 13 |
+| 592 | [1063493](../reports/1063493.md) | HTTP Request Smuggling on https://promosandbox.acronis. | [Acronis](../by-program/acronis.md) | *.acronis.com | Low | — | 12 |
+| 593 | [642498](../reports/642498.md) | Captcha protection Bypass on Forgot password page | [Kartpay](../by-program/kartpay.md) | *.kartpay.com | Low | — | 12 |
+| 594 | [786238](../reports/786238.md) | Reflected XSS on https://www.semrush.com/my_reports/ext | [Semrush](../by-program/semrush.md) | *.semrush.com | Low | — | 12 |
+| 595 | [758380](../reports/758380.md) | Host header injection/redirection | signup and login pa | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 11 |
+| 596 | [473064](../reports/473064.md) | Open Redirect On Your Login Panel | [Eternal](../by-program/eternal.md) | *.zomato.com | Low | — | 11 |
+| 597 | [708076](../reports/708076.md) | Full Path disclosure on 500 error | [Liberapay](../by-program/liberapay.md) | *.liberapay.org | Low | — | 11 |
+| 598 | [1494308](../reports/1494308.md) | Waitlist bypass for accessing SIGN.PLUS Beta | [Alohi](../by-program/alohi.md) | *.sign.plus | Low | — | 11 |
+| 599 | [1132457](../reports/1132457.md) | Exposed PHP dependencies at ██.8x8.com | [8x8](../by-program/8x8-bounty.md) | *.8x8.com | Low | — | 10 |
+| 600 | [439021](../reports/439021.md) | Web cache deception attack - expose earning state infor | [Semrush](../by-program/semrush.md) | *.berush.com | Low — CVSS 3.1 | — | 10 |
+| 601 | [384112](../reports/384112.md) | xss - reflected | [WordPress](../by-program/wordpress.md) | *.wordpress.net | Low | — | 10 |
+| 602 | [1354066](../reports/1354066.md) | Dangling DNS Record docs.jitsi.net (unsuccessful GSuite | [8x8](../by-program/8x8-bounty.md) | *.jitsi.net | Low | — | 9 |
+| 603 | [280803](../reports/280803.md) | Fake mailing reports using mail service on [URL : mail- | [Inflection](../by-program/inflection.md) | *.identity.com | Low | — | 9 |
+| 604 | [474899](../reports/474899.md) | User Enumeration  | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | Low | — | 9 |
+| 605 | [382612](../reports/382612.md) | Potential SSRF and disclosure of sensitive site on *sho | [Shopify](../by-program/shopify.md) | *.shopify.com | Low | — | 9 |
+| 606 | [1369806](../reports/1369806.md) | OPEN REDIRECT  | [Nutanix](../by-program/nutanix.md) | *.nutanix.com | Low | — | 9 |
+| 607 | [792737](../reports/792737.md) | Password Reset Link not expiring after changing the ema | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 8 |
+| 608 | [1467046](../reports/1467046.md) | Open Redirect on https://██.8x8.com/login?nextPage=%2F | [8x8](../by-program/8x8-bounty.md) | *.8x8.com | Low | — | 8 |
+| 609 | [1912540](../reports/1912540.md) | CVE-2018-6389 exploitation - using scripts loader | [Fastly VDP](../by-program/fastly-vdp.md) | *.signalsciences.com | Low | — | 8 |
+| 610 | [1643962](../reports/1643962.md) | Path paths and file disclosure vulnerabilities at influ | [GitLab](../by-program/gitlab.md) | *.gitlab.net | Low | — | 8 |
+| 611 | [642886](../reports/642886.md) | Reauthentication for changing password bypass | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | Low | — | 8 |
+| 612 | [813421](../reports/813421.md) | Account deletion requests not entirely honoured. Misinf | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | Low | — | 8 |
+| 613 | [517711](../reports/517711.md) | Bypassing the SMS sending limit for download app link. | [Eternal](../by-program/eternal.md) | *.zomato.com | Low | — | 7 |
+| 614 | [879960](../reports/879960.md) | IDOR: Adding Contacts to Other User Groups | [8x8](../by-program/8x8-bounty.md) | *.wavecell.com | Low | — | 6 |
+| 615 | [907701](../reports/907701.md) | PHPinfo page on  http://█████.callstats.io | [8x8](../by-program/8x8-bounty.md) | http://*.callstats.io | Low | — | 6 |
+| 616 | [894518](../reports/894518.md) | xss on polaris.shopify.com/demo using postMessage | [Shopify](../by-program/shopify.md) | *.shopify.com | Low | — | 5 |
+| 617 | [966949](../reports/966949.md) | IDOR in locid parameter allowing to view others account | [Yelp](../by-program/yelp.md) | *.yelp.com | Low | — | 4 |
+| 618 | [833836](../reports/833836.md) | Information disclosure of Internal php files on [mackee | [Clario](../by-program/clario.md) | *.mackeeper.com | Low | — | 4 |
+| 619 | [1294767](../reports/1294767.md) | clickjacking on deleting user's clips [https://crosscli | [Logitech](../by-program/logitech.md) | *.crossclip.com | Low — CVSS 3.1 | — | 4 |
+| 620 | [737058](../reports/737058.md) | Affiliates - Session Fixation | [Clario](../by-program/clario.md) | *.kromtech.com | Low | — | 3 |
+| 621 | [1707680](../reports/1707680.md) | If the website does not impose additional defense again | [Yelp](../by-program/yelp.md) | *.yelp.com | Low | — | 3 |
+| 622 | [1082521](../reports/1082521.md) | Full Path Disclosure of Server through 500 Server Error | [Kartpay](../by-program/kartpay.md) | *.kartpay.com | Low | — | 3 |
+| 623 | [460530](../reports/460530.md) |  information disclosure which leak the apache version  | [RATELIMITED](../by-program/ratelimited.md) | *.ratelimited.me | Low | — | 2 |
+| 624 | [642862](../reports/642862.md) | Option method enabled in kartpay Webservers | [Kartpay](../by-program/kartpay.md) | *.kartpay.com | Low | — | 2 |
+| 625 | [766404](../reports/766404.md) | MK Site Cross-Site Scripting (XSS) in script context | [Clario](../by-program/clario.md) | *.mackeeper.com | Low | — | 2 |
+| 626 | [840515](../reports/840515.md) | rxss at https://mackeeper.com page not found via rid pa | [Clario](../by-program/clario.md) | *.mackeeper.com | Low | — | 2 |
+| 627 | [1715538](../reports/1715538.md) | Subdomain Takeover on  delivey.yelp.com  | [Yelp](../by-program/yelp.md) | *.yelp.com | Low | — | 2 |
+| 628 | [929633](../reports/929633.md) | Open Redirect on [blog.wavecell.com] | [8x8](../by-program/8x8-bounty.md) | *.wavecell.com | Low | — | 1 |
+| 629 | [482170](../reports/482170.md) | Ports are not shown in third-party site redirect warnin | [Semrush](../by-program/semrush.md) | *.semrush.com | Low | — | 0 |
+| 630 | [341908](../reports/341908.md) | XSS via Direct Message deeplinks | [X / xAI](../by-program/x.md) | *.twitter.com | None | — | 234 |
+| 631 | [1020371](../reports/1020371.md) | User can upload files even after closing his account | [Basecamp](../by-program/basecamp.md) | *.hey.com | None | — | 122 |
+| 632 | [293490](../reports/293490.md) | [www.zomato.com] Leaking Email Addresses of merchants v | [Eternal](../by-program/eternal.md) | *.zomato.com | None | — | 111 |
+| 633 | [2552027](../reports/2552027.md) | Exposure of shopify employee summit page allows anonymo | [Shopify](../by-program/shopify.md) | *.shopify.io | None | — | 76 |
+| 634 | [798599](../reports/798599.md) | xss stored | [Shopify](../by-program/shopify.md) | *.shopify.com | None | — | 75 |
+| 635 | [858915](../reports/858915.md) | CircleCI token in github repo allows for access to sens | [Shopify](../by-program/shopify.md) | *.shopify.com | None | — | 73 |
+| 636 | [3020733](../reports/3020733.md) | Email Verification Bypass via Race Condition | [Malwarebytes](../by-program/malwarebytes.md) | *.malwarebytes.com | None | — | 66 |
+| 637 | [419731](../reports/419731.md) | [www.zomato.com] Blind XSS in one of the Admin Dashboar | [Eternal](../by-program/eternal.md) | *.zomato.com | None | — | 61 |
+| 638 | [2567048](../reports/2567048.md) | Possible Subdomain Takeover For Inbound Emails | [Smule](../by-program/smule.md) | *.smule.com | None | — | 47 |
+| 639 | [2888001](../reports/2888001.md) | Information Disclosure: .dockerignore file is publicly  | [Flickr](../by-program/flickr.md) | *.flickr.com | None | — | 45 |
+| 640 | [1066851](../reports/1066851.md) | 12 Days of Hacky Holidays write-up, but as a text-based | [h1-ctf](../by-program/h1-ctf.md) | *.hackyholidays.h1ctf.com | None | — | 44 |
+| 641 | [3557138](../reports/3557138.md) | Arbitrary Code Execution via Scanner Bypass in **aws-di | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/awslabs/* | None | — | 42 |
+| 642 | [1563334](../reports/1563334.md) | One Click XSS in [www.shopify.com] | [Shopify](../by-program/shopify.md) | *.shopify.com | None | — | 36 |
+| 643 | [2666151](../reports/2666151.md) | phpinfo() exposed on ██████████ | [Mars](../by-program/mars.md) | *.royalcanin.com.ar | None | — | 35 |
+| 644 | [271407](../reports/271407.md) | Admin Access to a domain used for development and admin | [Eternal](../by-program/eternal.md) | *.zomato.com | None | — | 31 |
+| 645 | [1298809](../reports/1298809.md) | Senseitive data Related to Shopify Host -> https://shop | [Shopify](../by-program/shopify.md) | *.shopifycloud.com | None | — | 29 |
+| 646 | [791674](../reports/791674.md) | Expired Available Domains in nordvpn.com website code | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | None | — | 29 |
+| 647 | [288966](../reports/288966.md) | POODLE SSLv3 bug on multiple twitter smtp servers (mx3. | [X / xAI](../by-program/x.md) | *.twitter.com | None | — | 28 |
+| 648 | [1421804](../reports/1421804.md) | Direct Access To admin Dashboard | [Shopify](../by-program/shopify.md) | *.shopify.com | None | — | 26 |
+| 649 | [803141](../reports/803141.md) | Unauthorized User Can Delete Any User Account | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | None | — | 25 |
+| 650 | [449671](../reports/449671.md) | Broken Authentication and session management OWASP A2 | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 23 |
+| 651 | [968742](../reports/968742.md) | Password reset by malicious input on air.line.me | [LY Corporation](../by-program/line.md) | *.line.me | None | — | 23 |
+| 652 | [1262907](../reports/1262907.md) | Apache Flink Dashboard exposure at https://streaming-sa | [Shopify](../by-program/shopify.md) | *.shopifykloud.com | None | — | 23 |
+| 653 | [463604](../reports/463604.md) | Unrestricted File Upload on https://auth.ratelimited.me | [RATELIMITED](../by-program/ratelimited.md) | *.ratelimited.me | None | — | 22 |
+| 654 | [264919](../reports/264919.md) | [www.zomato.com] IDOR - Delete/Deactivate any special m | [Eternal](../by-program/eternal.md) | *.zomato.com | None | — | 20 |
+| 655 | [1129816](../reports/1129816.md) | Member still able close another user poll on communitie | [VK.com](../by-program/vkcom.md) | *.vk.com | None | — | 20 |
+| 656 | [345152](../reports/345152.md) | Publicly Accessible Datadog link | [Shopify](../by-program/shopify.md) | *.shopify.io | None | — | 18 |
+| 657 | [1400309](../reports/1400309.md) | [https://shipit-sox-staging.shopifycloud.com] Presence  | [Shopify](../by-program/shopify.md) | *.shopifycloud.com | None | — | 17 |
+| 658 | [1911568](../reports/1911568.md) | Unauthenticated cache purging | [Fastly VDP](../by-program/fastly-vdp.md) | *.fanout.io | None | — | 16 |
+| 659 | [1267677](../reports/1267677.md) | Improper Input Validation on https://oberlo-image-proxy | [Shopify](../by-program/shopify.md) | *.shopifycloud.com | None | — | 16 |
+| 660 | [264754](../reports/264754.md) | [www.zomato.com] IDOR - Delete/Deactivate ANY/ALL Promo | [Eternal](../by-program/eternal.md) | *.zomato.com | None | — | 16 |
+| 661 | [417453](../reports/417453.md) | Cross-origin resource sharing: arbitrary origin trusted | [Chaturbate](../by-program/chaturbate.md) | *.highwebmedia.com | None | — | 13 |
+| 662 | [493791](../reports/493791.md) | Inadequate cache control in gitter allows to view priva | [GitLab](../by-program/gitlab.md) | *.gitter.im | None | — | 13 |
+| 663 | [1215867](../reports/1215867.md) | [100K-ctf] Multiple vulnerabilities leading to compromi | [h1-ctf](../by-program/h1-ctf.md) | *.ccc.h1ctf.com | None | — | 13 |
+| 664 | [927413](../reports/927413.md) |  The vulnerabilities found were XSS, Public disclosure, | [Eternal](../by-program/eternal.md) | *.zomato.com | None | — | 11 |
+| 665 | [791826](../reports/791826.md) | Misconfigured web directory allows to retrieve public p | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | None | — | 11 |
+| 666 | [895202](../reports/895202.md) | [H1-2006 2020] Multiple vulnerabilities allow to leak s | [h1-ctf](../by-program/h1-ctf.md) | *.bountypay.h1ctf.com | None | — | 11 |
+| 667 | [3723002](../reports/3723002.md) | another liberapay member team twitter account broken Li | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 10 |
+| 668 | [998555](../reports/998555.md) | Get ip and Geo location any user via Clickjacking with  | [Acronis](../by-program/acronis.md) | *.acronis.com | None | — | 10 |
+| 669 | [1065516](../reports/1065516.md) | Flags for hackyholidays CTF | [h1-ctf](../by-program/h1-ctf.md) | *.hackyholidays.h1ctf.com | None | — | 9 |
+| 670 | [3721519](../reports/3721519.md) | Liberapay member team twitter account broken Link Hijac | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 9 |
+| 671 | [355773](../reports/355773.md) | XSS on support.wordcamp.org in ajax-quote.php | [WordPress](../by-program/wordpress.md) | *.wordcamp.org | None | — | 9 |
+| 672 | [789260](../reports/789260.md) | Past payments using the Direct Debit method keep subscr | [Nord Security](../by-program/nordsecurity.md) | *.nordvpn.com | None | — | 9 |
+| 673 | [1444031](../reports/1444031.md) | Error Page Content Spoofing or Text Injection | [Krisp](../by-program/krisp.md) | *.krisp.ai | None | — | 8 |
+| 674 | [1065128](../reports/1065128.md) | No Rate Limit On dashboard.myndr.net/auth | [Myndr](../by-program/myndr.md) | *.myndr.nl | None | — | 8 |
+| 675 | [1265344](../reports/1265344.md) | Self-DoS due to template injection via email field in p | [Acronis](../by-program/acronis.md) | *.acronis.com | None | — | 7 |
+| 676 | [361133](../reports/361133.md) | Able to View other users income history | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 6 |
+| 677 | [463481](../reports/463481.md) | Feature-Policy Header is Missing and Pastebin files | [arkadiyt-projects](../by-program/arkadiyt-projects.md) | *.arkadiyt.com | None | — | 6 |
+| 678 | [1113759](../reports/1113759.md) | [mattermost.com] CORS Misconfiguration leakage of admin | [Mattermost](../by-program/mattermost.md) | *.mattermost.com | None | — | 5 |
+| 679 | [360834](../reports/360834.md) | CSRF to make any user accept the invitation to the team | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 5 |
+| 680 | [838231](../reports/838231.md) | *.shopify.com - Authentication bypass | [Shopify](../by-program/shopify.md) | *.shopify.com | None | — | 5 |
+| 681 | [361368](../reports/361368.md) | Insecure Account Deletion | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 5 |
+| 682 | [894170](../reports/894170.md) | [H1-2006 2020] Writeup | [h1-ctf](../by-program/h1-ctf.md) | *.bountypay.h1ctf.com | None | — | 5 |
+| 683 | [361337](../reports/361337.md) | Missing back-end user input validation can lead to DOS  | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 5 |
+| 684 | [892632](../reports/892632.md) | [H1-2006 2020] CTF writeup | [h1-ctf](../by-program/h1-ctf.md) | *.bountypay.h1ctf.com | None | — | 4 |
+| 685 | [416516](../reports/416516.md) | A 10GB file is reachable | [Chaturbate](../by-program/chaturbate.md) | *.highwebmedia.com | None | — | 4 |
+| 686 | [361414](../reports/361414.md) | CSRF token manipulation in every possible form submits. | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 3 |
+| 687 | [935573](../reports/935573.md) | JDBC credentials leaked via github | [Yelp](../by-program/yelp.md) | *.yelp.com | None | — | 3 |
+| 688 | [361106](../reports/361106.md) | Unsecure changing password | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 3 |
+| 689 | [889333](../reports/889333.md) | [H1-2006 2020]  The Story of Making Bounty Hunters Happ | [h1-ctf](../by-program/h1-ctf.md) | *.bountypay.h1ctf.com | None | — | 3 |
+| 690 | [363845](../reports/363845.md) | Cross site scripting (content-sniffing) | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 2 |
+| 691 | [361941](../reports/361941.md) | REGISTRATION USING FAKE EMAIL ACCOUNT | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 2 |
+| 692 | [337219](../reports/337219.md) | URL is vulnerable to clickjacking | [Eternal](../by-program/eternal.md) | *.zomato.com | None | — | 2 |
+| 693 | [362601](../reports/362601.md) | A single user can subscribe a community multiple times | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 2 |
+| 694 | [1065583](../reports/1065583.md) | Hackyholidays CTF writeup | [h1-ctf](../by-program/h1-ctf.md) | *.hackyholidays.h1ctf.com | None | — | 2 |
+| 695 | [373932](../reports/373932.md) | Open redirect in Serendipity (exit.php) | [Hanno's projects](../by-program/hannob.md) | *.fuzzing-project.org | None | — | 2 |
+| 696 | [362718](../reports/362718.md) | Returning back from the browser after logging off will  | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 1 |
+| 697 | [361400](../reports/361400.md) | The csrf token remains same after user logs in | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 1 |
+| 698 | [281472](../reports/281472.md) | Unsubscribe Any User | [Inflection](../by-program/inflection.md) | *.goodhire.com | None | — | 1 |
+| 699 | [1068881](../reports/1068881.md) | HackyHolidays H1 CTF Writeup | [h1-ctf](../by-program/h1-ctf.md) | *.hackyholidays.h1ctf.com | None | — | 1 |
+| 700 | [363658](../reports/363658.md) | Buffer overflow | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 1 |
+| 701 | [362033](../reports/362033.md) | Csrf token does not meet security design | [Liberapay](../by-program/liberapay.md) | *.liberapay.com | None | — | 1 |
+| 702 | [463177](../reports/463177.md) | Information Disclosure PHPpgAdmin | [RATELIMITED](../by-program/ratelimited.md) | *.ratelimited.me | None | — | 0 |

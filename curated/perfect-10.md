@@ -1,4 +1,4 @@
-# Perfect CVSS 10.0 Reports (47 total)
+# Perfect CVSS 10.0 Reports (49 total)
 
 Reports where the program assigned a CVSS score of exactly 10.0.
 
@@ -14,6 +14,7 @@ Reports where the program assigned a CVSS score of exactly 10.0.
 | [237915](../reports/237915.md) | PHP mbstring / Oniguruma multiple remote heap/stack corruptions | [Internet Bug Bounty](../by-program/ibb.md) | $1,500 | 35 |
 | [1425474](../reports/1425474.md) | [CVE-2021-44228] nps.acronis.com is vulnerable to the recent log4 | [Acronis](../by-program/acronis.md) | $1,000 | 75 |
 | [405694](../reports/405694.md) | [apex-publish-static-files] Command Injection on connectString | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | — | 10 |
+| [1714638](../reports/1714638.md) | IDOR Leads To  User Profile Modification https://mtnmobad.mtnbusi | [MTN Group](../by-program/mtn_group.md) | — | 96 |
 | [783360](../reports/783360.md) | Open memory dump method leaking customer information ,secret keys | [Stripo Inc](../by-program/stripo.md) | — | 157 |
 | [341710](../reports/341710.md) | [git-dummy-commit] Command injection on the msg parameter | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | — | 5 |
 | [319467](../reports/319467.md) | `macaddress` concatenates unsanitized input into exec() command | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | — | 5 |
@@ -23,6 +24,7 @@ Reports where the program assigned a CVSS score of exactly 10.0.
 | [330028](../reports/330028.md) | Remote Code Execution (RCE) in a Sony Pictures WebSystem | [Sony](../by-program/sony.md) | — | 22 |
 | [500515](../reports/500515.md) | XXE at ecjobs.starbucks.com.cn/retail/hxpublic_v6/hxdynamicpage6. | [Starbucks](../by-program/starbucks.md) | — | 318 |
 | [946409](../reports/946409.md) | RCE on build server via misconfigured pip install | [Yelp](../by-program/yelp.md) | — | 365 |
+| [1709881](../reports/1709881.md) | Authentication Bypass Leads To  Complete Account TakeveOver on ██ | [MTN Group](../by-program/mtn_group.md) | — | 105 |
 | [1067090](../reports/1067090.md) | Mission completed. Grinch Networks is down and Christmas saved. | [h1-ctf](../by-program/h1-ctf.md) | — | 2 |
 | [542670](../reports/542670.md) | Deserialization of Untrusted Data in www/delivery/dxmlrpc.php | [Revive Adserver](../by-program/revive_adserver.md) | — | 11 |
 | [296701](../reports/296701.md) | SSL-protected Reflected XSS in m.uber.com | [Uber](../by-program/uber.md) | — | 3 |
