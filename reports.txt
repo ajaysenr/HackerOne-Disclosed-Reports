@@ -8143,10 +8143,16 @@ https://hackerone.com/reports/1714979 | DNS rebinding in --inspect (insufficient
 https://hackerone.com/reports/1715536 | Deny of service via malicious Content-Type
 https://hackerone.com/reports/1715538 | Subdomain Takeover on  delivey.yelp.com
 https://hackerone.com/reports/1716016 | Ability to join an arbitrary workspace by utilizing a proxy to manipulate invite links
+https://hackerone.com/reports/1716069 | The endpoint '/test/webhooks' is vulnerable to DNS Rebinding
+https://hackerone.com/reports/1716249 | sensitive data exposure
+https://hackerone.com/reports/1716286 | CORS Misconfiguration on trust.yelp.com
+https://hackerone.com/reports/1716300 | Unauthorized User can View Subscribers of Other Users Newsletters
+https://hackerone.com/reports/1717210 | Exposure of service tokens to webpack bundle
 https://hackerone.com/reports/1717626 | Sub-Domain Takeover at   http://www.codefi.consensys.net/
 https://hackerone.com/reports/1717650 | Promotion code can be used more than redemption limit.
 https://hackerone.com/reports/1718371 | Subdomain takeover at http://test.www.midigator.com
 https://hackerone.com/reports/1718574 | A malicious admin can be able to permanently disable a Owner(Admin) to access his account
+https://hackerone.com/reports/1718757 | Header CRLF Injection in Ruby Net::HTTP
 https://hackerone.com/reports/1719719 |  mail.acronis.com is vulnerable to zero day vulnerability CVE-2022-41040
 https://hackerone.com/reports/1720043 | Desktop client can be tricked into opening/executing local files when clicking a nc://open/ link
 https://hackerone.com/reports/1720822 | Suspicious login app ships old league/flysystem version
