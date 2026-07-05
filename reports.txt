@@ -8160,9 +8160,12 @@ https://hackerone.com/reports/1720278 | Sensitive Data Exposure at https://█�
 https://hackerone.com/reports/1720822 | Suspicious login app ships old league/flysystem version
 https://hackerone.com/reports/1721098 | CVE-2022-35260: .netrc parser out-of-bounds access
 https://hackerone.com/reports/1722065 | CVE-2022-42915: HTTP proxy double-free
+https://hackerone.com/reports/1723445 | No rate limiting for Remove Account lead to huge Mass mailings
+https://hackerone.com/reports/1723896 | Sql Injection At █████████
 https://hackerone.com/reports/1724016 | Download permissions can be changed by resharer
 https://hackerone.com/reports/1724021 | Secure view trivial to bypass
 https://hackerone.com/reports/1724464 | cd=false (DNSSEC) not respected in DNS over HTTPS JSON requests
+https://hackerone.com/reports/1724771 | Robots.txt file with potentially sensitive content.
 https://hackerone.com/reports/1726445 | A vulnerability classified as critical has been found in gsi-openssh-server 7.9p1 on Fedora (Connectivity Software) on server (http://95.217.64.181:22
 https://hackerone.com/reports/1727044 | Email Address Exposure via Gratipay Migration Tool
 https://hackerone.com/reports/1727221 | Improper CSRF token validation allows attackers to access victim's accounts linked to Hackerone
