@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1690 total)
+# High/Critical Severity — No Bounty Paid (1695 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -396,6 +396,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1164452](../reports/1164452.md) | Remote code execution due to unvalidated file upload | [MTN Group](../by-program/mtn_group.md) | Critical | Resolved | 12 |
 | [1290872](../reports/1290872.md) | Economic Harm through Twitter's Cropping Algorithm | [Twitter Algorithmic Bias](../by-program/twitter-algorithmic-bias.md) | Critical | Resolved | 11 |
 | [804772](../reports/804772.md) | Prototype pollution in multipart parsing | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.3 | Resolved | 11 |
+| [1719588](../reports/1719588.md) | HTML injection in API response including request url | [Reddit](../by-program/reddit.md) | Critical | Informative | 11 |
 | [1536936](../reports/1536936.md) | Unprotected Direct Object Reference | [MTN Group](../by-program/mtn_group.md) | Critical | Resolved | 11 |
 | [863544](../reports/863544.md) | [devcert] Command Injection via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.8 | Resolved | 11 |
 | [998925](../reports/998925.md) | https://████ is vulnerable to cve-2020-3452 | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 11 |
@@ -670,6 +671,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1733627](../reports/1733627.md) | IDOR for changing privacy settings on any memories | [TikTok](../by-program/tiktok.md) | High | Resolved | 119 |
 | [208978](../reports/208978.md) | [URGENT] Opportunity to publish tweets on any twitters account | [X / xAI](../by-program/x.md) | High | Resolved | 118 |
 | [2450215](../reports/2450215.md) | Any user could upload attachments to pentest scoping form they do | [HackerOne](../by-program/security.md) | High — CVSS 7.7 | Resolved | 118 |
+| [1716300](../reports/1716300.md) | Unauthorized User can View Subscribers of Other Users Newsletters | [LinkedIn](../by-program/linkedin.md) | High — CVSS 7.5 | Resolved | 117 |
 | [3475626](../reports/3475626.md) | Session Cookie Leakage via Static Header Field in WebViewerFragme | [LinkedIn](../by-program/linkedin.md) | High — CVSS 8.1 | Resolved | 116 |
 | [1760213](../reports/1760213.md) | Cache Poisoning Allows Stored XSS Via hav Cookie Parameter (To Ac | [Expedia Group Bug Bounty](../by-program/expediagroup_bbp.md) | High — CVSS 8.2 | Resolved | 116 |
 | [3115705](../reports/3115705.md) | Stored XSS in File Upload Leads to Privilege Escalation and Full  | [Dust](../by-program/dust.md) | High — CVSS 8.7 | Resolved | 115 |
@@ -839,6 +841,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [2808412](../reports/2808412.md) | A potential risk in the experimental-programmatic-access-ccft whi | [AWS VDP](../by-program/aws_vdp.md) | High — CVSS 7.3 | Resolved | 55 |
 | [2787650](../reports/2787650.md) | Reflected XSS on Amazon EC2 Instance | [AWS VDP](../by-program/aws_vdp.md) | High — CVSS 7.2 | Informative | 55 |
 | [684152](../reports/684152.md) | Steal all MKR from `flap` during liquidation by exploiting lack o | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | High | Resolved | 55 |
+| [1717210](../reports/1717210.md) | Exposure of service tokens to webpack bundle | [Semrush](../by-program/semrush.md) | High | Resolved | 55 |
 | [1249583](../reports/1249583.md) | Authenticated kubernetes principal with restricted permissions ca | [Kubernetes](../by-program/kubernetes.md) | High — CVSS 7.6 | Resolved | 55 |
 | [1901713](../reports/1901713.md) | IDOR in backup recovery functionality | [Acronis](../by-program/acronis.md) | High — CVSS 7.5 | Resolved | 54 |
 | [411865](../reports/411865.md) | Blind SSRF at https://chaturbate.com/notifications/update_push/ | [Chaturbate](../by-program/chaturbate.md) | High | Resolved | 54 |
@@ -1258,6 +1261,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [247158](../reports/247158.md) | Bypass OTP verification when placing Order | [Eternal](../by-program/eternal.md) | High | Resolved | 13 |
 | [234713](../reports/234713.md) | Clickjacking on Mixmax.com | [Mixmax](../by-program/mixmax.md) | High | Resolved | 12 |
 | [2550951](../reports/2550951.md) | Unicode-to-ASCII conversion on Windows can lead to argument injec | [curl](../by-program/curl.md) | High — CVSS 8.2 | Not Applicable | 12 |
+| [1720278](../reports/1720278.md) | Sensitive Data Exposure at https://█████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 12 |
 | [321511](../reports/321511.md) | It's possible to put SDX orderbook into invalid state and execute | [Stellar.org](../by-program/stellar.md) | High — CVSS 8.2 | Resolved | 12 |
 | [633231](../reports/633231.md) | pre-auth Stored XSS in comments via javascript: url when administ | [WordPress](../by-program/wordpress.md) | High | Resolved | 12 |
 | [129698](../reports/129698.md) | UniFi Video Server - Broken access control on system configuratio | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 7.7 | Resolved | 12 |
@@ -1531,6 +1535,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1223565](../reports/1223565.md) | CVE-2021-22924: Bad connection reuse due to flawed path name chec | [curl](../by-program/curl.md) | High — CVSS 7.1 | Resolved | 5 |
 | [183239](../reports/183239.md) | SIGSEGV on mruby's mark_tbl() (Invalid memory access) | [shopify-scripts](../by-program/shopify-scripts.md) | High | Resolved | 5 |
 | [794407](../reports/794407.md) | nextcloud-snap CircleCI project has vulnerable configuration whic | [Nextcloud](../by-program/nextcloud.md) | High | Resolved | 5 |
+| [1716249](../reports/1716249.md) | sensitive data exposure | [Reddit](../by-program/reddit.md) | High | Not Applicable | 5 |
 | [1444539](../reports/1444539.md) |  Remote memory disclosure vulnerability in libcurl on 64 Bit Wind | [curl](../by-program/curl.md) | High — CVSS 7.7 | Informative | 5 |
 | [384939](../reports/384939.md) | http-live-simulator npm module is prone to path traversal attacks | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | Resolved | 5 |
 | [417515](../reports/417515.md) | Locked_Transfer functional burning | [Monero](../by-program/monero.md) | High — CVSS 8.1 | Resolved | 5 |

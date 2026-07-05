@@ -1,4 +1,4 @@
-# Weakness: Insecure Storage of Sensitive Information (25 reports)
+# Weakness: Insecure Storage of Sensitive Information (26 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -18,14 +18,15 @@
 | 12 | [665144](../reports/665144.md) | Partial SSN exposed through Presentation slides on ██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 18 |
 | 13 | [2370578](../reports/2370578.md) | DBMS information getting exposed publicly on -- [ ██████████ ] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 15 |
 | 14 | [273630](../reports/273630.md) | Leaking sensitive information lead to compromise employer API key | [Yelp](../by-program/yelp.md) | High | — | 11 |
-| 15 | [2887506](../reports/2887506.md) | massive PII  leakage for ███████ | [Mars](../by-program/mars.md) | Medium — CVSS 5.7 | — | 35 |
-| 16 | [1860905](../reports/1860905.md) | Splunk Sensitive Information Disclosure @████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 32 |
-| 17 | [647409](../reports/647409.md) | ██████████ bruteforceable RIC Codes allowing information on contr | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
-| 18 | [900137](../reports/900137.md) | PII Leak (such as CAC User ID) at https://████████/pages/login.as | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
-| 19 | [1211061](../reports/1211061.md) | Leaking sensitive information through JSON  file path. | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 1 |
-| 20 | [1096045](../reports/1096045.md) | Import/Convert user file exposure leading to logins/passwords/PII | [ExpressionEngine](../by-program/expressionengine.md) | Low — CVSS 3.1 | — | 22 |
-| 21 | [669365](../reports/669365.md) | Veracode and security audit record are publicly available | [Nextcloud](../by-program/nextcloud.md) | Low | — | 3 |
-| 22 | [475177](../reports/475177.md) | Логирование ответов запросов VK API в приложении Клевер | [VK.com](../by-program/vkcom.md) | Low | — | 3 |
-| 23 | [1183502](../reports/1183502.md) | Private RSA key for Vagrant exposed in GitHub repository | [Sifchain](../by-program/sifchain.md) | None | — | 7 |
-| 24 | [1188938](../reports/1188938.md) | Sifchain token leak  | [Sifchain](../by-program/sifchain.md) | None | — | 2 |
-| 25 | [549831](../reports/549831.md) | External Storage - WebDAV - New user has access to storage from d | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
+| 15 | [1716249](../reports/1716249.md) | sensitive data exposure | [Reddit](../by-program/reddit.md) | High | — | 5 |
+| 16 | [2887506](../reports/2887506.md) | massive PII  leakage for ███████ | [Mars](../by-program/mars.md) | Medium — CVSS 5.7 | — | 35 |
+| 17 | [1860905](../reports/1860905.md) | Splunk Sensitive Information Disclosure @████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 32 |
+| 18 | [647409](../reports/647409.md) | ██████████ bruteforceable RIC Codes allowing information on contr | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
+| 19 | [900137](../reports/900137.md) | PII Leak (such as CAC User ID) at https://████████/pages/login.as | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
+| 20 | [1211061](../reports/1211061.md) | Leaking sensitive information through JSON  file path. | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 1 |
+| 21 | [1096045](../reports/1096045.md) | Import/Convert user file exposure leading to logins/passwords/PII | [ExpressionEngine](../by-program/expressionengine.md) | Low — CVSS 3.1 | — | 22 |
+| 22 | [669365](../reports/669365.md) | Veracode and security audit record are publicly available | [Nextcloud](../by-program/nextcloud.md) | Low | — | 3 |
+| 23 | [475177](../reports/475177.md) | Логирование ответов запросов VK API в приложении Клевер | [VK.com](../by-program/vkcom.md) | Low | — | 3 |
+| 24 | [1183502](../reports/1183502.md) | Private RSA key for Vagrant exposed in GitHub repository | [Sifchain](../by-program/sifchain.md) | None | — | 7 |
+| 25 | [1188938](../reports/1188938.md) | Sifchain token leak  | [Sifchain](../by-program/sifchain.md) | None | — | 2 |
+| 26 | [549831](../reports/549831.md) | External Storage - WebDAV - New user has access to storage from d | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |

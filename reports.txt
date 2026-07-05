@@ -9661,6 +9661,7 @@ https://hackerone.com/reports/3756699 | lib/ldap.c follows attacker-controlled L
 https://hackerone.com/reports/3760016 | Node.js WebCrypto AES Integer Overflow Leads to Remote Process Abort (DoS)
 https://hackerone.com/reports/3761647 | TLS conn reuse and session cache ignore fsslctx callback and ssl_config_data flags ( incomplete fix variant of 7541ae569 )
 https://hackerone.com/reports/3761789 | Mentioned unites are at the same time .Then we have to increase the bounty.
+https://hackerone.com/reports/3764217 | Any installed app can force immediate logout and persistent DOS of authenticated Basecamp sessions via unprotected exported StartActivity
 https://hackerone.com/reports/3766065 | CURLOPT_COOKIE leaked to cross-origin redirect target — CURLOPT_UNRESTRICTED_AUTH bypass for the STRING_COOKIE path
 https://hackerone.com/reports/3766392 | curl External-Controlled Filename in `--url @file` Leads to Arbitrary File Overwrite
 https://hackerone.com/reports/3766455 | Yelp for Business: locked Email field silently editable via API
