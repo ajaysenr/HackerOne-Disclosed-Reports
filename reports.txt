@@ -8175,6 +8175,7 @@ https://hackerone.com/reports/1728174 | Ingress nginx annotation injection cause
 https://hackerone.com/reports/1728292 | Cloudflare is not properly deleting user's account
 https://hackerone.com/reports/1730660 | CVE-2022-42916: HSTS bypass via IDN
 https://hackerone.com/reports/1731349 | Stored XSS via Kroki diagram
+https://hackerone.com/reports/1732595 | Github app Privilege Escalation to Administrator/Owner of the Organization 
 https://hackerone.com/reports/1733627 | IDOR for changing privacy settings on any memories
 https://hackerone.com/reports/1734639 | IDOR to make someone attend or leave an event
 https://hackerone.com/reports/1735586 | Wordpress users Disclosure [ /wp-json/wp/v2/users/ ]
