@@ -1,4 +1,4 @@
-# LinkedIn — Disclosed Reports (32 total)
+# LinkedIn — Disclosed Reports (33 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -30,9 +30,10 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 24 | [1591504](../reports/1591504.md) | The software does not implement sufficient measures to preve | Medium | — | 2 | [suryasnn](https://hackerone.com/suryasnn) | 2022-06-15 |
 | 25 | [3151001](../reports/3151001.md) | Previous commentor on post can still comment even after comm | Low — CVSS 3.1 | — | 108 | [allenjo](https://hackerone.com/allenjo) | 2026-02-03 |
 | 26 | [3079966](../reports/3079966.md) | HTML Injection in LinkedIn Premium Support Chat | Low — CVSS 3.1 | — | 100 | [nagu123](https://hackerone.com/nagu123) | 2025-05-07 |
-| 27 | [2215418](../reports/2215418.md) | Html injection in event Description  | Low — CVSS 3.1 | — | 53 | [khaledx](https://hackerone.com/khaledx) | 2024-01-29 |
-| 28 | [2076019](../reports/2076019.md) | HTML injection at Company Name or Product Name and can be sh | Low — CVSS 2.6 | — | 31 | [domg](https://hackerone.com/domg) | 2023-10-18 |
-| 29 | [1691603](../reports/1691603.md) | A Unverified User Can Post Newsletter (Which Is Not Allowed  | Low | — | 26 | [tushar6378](https://hackerone.com/tushar6378) | 2023-08-24 |
-| 30 | [1862677](../reports/1862677.md) | Attacker can unpin posts from companies he's not part of. | Low | — | 19 | [spaceboy20](https://hackerone.com/spaceboy20) | 2023-05-12 |
-| 31 | [1587246](../reports/1587246.md) | Improper access control on Linkedin Page | Low — CVSS 2.7 | — | 13 | [dr_nimishadavis](https://hackerone.com/dr_nimishadavis) | 2023-08-24 |
-| 32 | [1607645](../reports/1607645.md) | Add me email address Authentication bypass | None | — | 7 | [raajeevrathnam](https://hackerone.com/raajeevrathnam) | 2022-07-15 |
+| 27 | [1728087](../reports/1728087.md) | User Details Can Be Disclosed Even If The Account IS In Hibe | Low — CVSS 3.7 | — | 55 | [tushar6378](https://hackerone.com/tushar6378) | 2023-12-06 |
+| 28 | [2215418](../reports/2215418.md) | Html injection in event Description  | Low — CVSS 3.1 | — | 53 | [khaledx](https://hackerone.com/khaledx) | 2024-01-29 |
+| 29 | [2076019](../reports/2076019.md) | HTML injection at Company Name or Product Name and can be sh | Low — CVSS 2.6 | — | 31 | [domg](https://hackerone.com/domg) | 2023-10-18 |
+| 30 | [1691603](../reports/1691603.md) | A Unverified User Can Post Newsletter (Which Is Not Allowed  | Low | — | 26 | [tushar6378](https://hackerone.com/tushar6378) | 2023-08-24 |
+| 31 | [1862677](../reports/1862677.md) | Attacker can unpin posts from companies he's not part of. | Low | — | 19 | [spaceboy20](https://hackerone.com/spaceboy20) | 2023-05-12 |
+| 32 | [1587246](../reports/1587246.md) | Improper access control on Linkedin Page | Low — CVSS 2.7 | — | 13 | [dr_nimishadavis](https://hackerone.com/dr_nimishadavis) | 2023-08-24 |
+| 33 | [1607645](../reports/1607645.md) | Add me email address Authentication bypass | None | — | 7 | [raajeevrathnam](https://hackerone.com/raajeevrathnam) | 2022-07-15 |

@@ -1,4 +1,4 @@
-# Weakness: SQL Injection (157 reports)
+# Weakness: SQL Injection (158 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -127,37 +127,38 @@
 | 121 | [269347](../reports/269347.md) | SQL Injection in parameter REPORT | [Tor](../by-program/torproject.md) | Medium | — | 23 |
 | 122 | [1102591](../reports/1102591.md) | Blind SQL iNJECTION  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 19 |
 | 123 | [310280](../reports/310280.md) | [Informational] Possible SQL Injection in inc/ajax-actions-fronte | [MapsMarker.com e.U.](../by-program/mapsmarker_com_e_u.md) | Medium | — | 15 |
-| 124 | [761382](../reports/761382.md) | stripo blog search  SQL Injection | [Stripo Inc](../by-program/stripo.md) | Medium | — | 12 |
-| 125 | [2073717](../reports/2073717.md) | SqlInject at ██████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 12 |
-| 126 | [771215](../reports/771215.md) | Blind SQL Injection | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 10 |
-| 127 | [189851](../reports/189851.md) | Time Based SQL Injection vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 9 |
-| 128 | [968240](../reports/968240.md) | SQL injection at /admin.php?/cp/members/create | [ExpressionEngine](../by-program/expressionengine.md) | Medium — CVSS 5.2 | — | 8 |
-| 129 | [648346](../reports/648346.md) | [████████] Boolean SQL Injection (/personnel.php?content=profile& | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
-| 130 | [925007](../reports/925007.md) | blind sql on [selfcare.mtn.com.af] | [MTN Group](../by-program/mtn_group.md) | Medium | — | 5 |
-| 131 | [202619](../reports/202619.md) | SQL injection vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
-| 132 | [201512](../reports/201512.md) | SQL Injection vulnerability in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
-| 133 | [188929](../reports/188929.md) | Time Based SQL Injection vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
-| 134 | [227587](../reports/227587.md) | SQL Injection vulnerability in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
-| 135 | [195051](../reports/195051.md) | SQL injection vulnerability in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
-| 136 | [214798](../reports/214798.md) | SQL injection on https://███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
-| 137 | [242882](../reports/242882.md) | Blind SQL Injection on DoD Site | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
-| 138 | [226211](../reports/226211.md) | SQL Injection vulnerability in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
-| 139 | [197754](../reports/197754.md) | SQL Injection vulnerability in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
-| 140 | [674838](../reports/674838.md) | SQL Injection - https://███/█████████/MSI.portal | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
-| 141 | [319458](../reports/319458.md) | typeorm does not properly escape parameters when building SQL que | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.4 | — | 1 |
-| 142 | [227102](../reports/227102.md) | Two Error-Based SQLi in courses.aspx on ██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 0 |
-| 143 | [808832](../reports/808832.md) | Information Disclosure in https://www.rockstargames.com/search | [Rockstar Games](../by-program/rockstargames.md) | Low | — | 22 |
-| 144 | [81701](../reports/81701.md) | Possible SQL injection on "Jump to twitter" | [Gratipay](../by-program/gratipay.md) | Low | — | 2 |
-| 145 | [433792](../reports/433792.md) | Blind SQL injection in third-party software, that allows to revea | [Rocket.Chat](../by-program/rocket_chat.md) | None | — | 60 |
-| 146 | [135288](../reports/135288.md) | Multiple vulnerabilities in a WordPress plugin at drive.uber.com | [Uber](../by-program/uber.md) | None | — | 55 |
-| 147 | [3591725](../reports/3591725.md) | SQL Injection Detection Bypass in AWS WAF Managed Rules (AWSManag | [AWS VDP](../by-program/aws_vdp.md) | None | — | 36 |
-| 148 | [1107536](../reports/1107536.md) | Blind Based SQL Injection in 3d.sc.money | [CS Money](../by-program/cs_money.md) | None | — | 23 |
-| 149 | [109395](../reports/109395.md) | gmmovinparts.com SQLi via forgot_password.jsp | [General Motors](../by-program/gm.md) | None | — | 22 |
-| 150 | [31756](../reports/31756.md) | Drupal 7 pre auth sql injection and remote code execution | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 21 |
-| 151 | [248037](../reports/248037.md) | SQL TEST | [Gratipay](../by-program/gratipay.md) | None | — | 14 |
-| 152 | [211988](../reports/211988.md) | sql injection vulnerablity found | [Legal Robot](../by-program/legalrobot.md) | None | — | 5 |
-| 153 | [116764](../reports/116764.md) | vk.com/login.php  | [VK.com](../by-program/vkcom.md) | None | — | 4 |
-| 154 | [38778](../reports/38778.md) | SQL injection in conc/index.php/ccm/system/search/users/submit | [Concrete CMS](../by-program/concretecms.md) | None | — | 3 |
-| 155 | [59664](../reports/59664.md) | SQL Injection Vulnerability in Concrete5 version 5.7.3.1 | [Concrete CMS](../by-program/concretecms.md) | None | — | 1 |
-| 156 | [144359](../reports/144359.md) | Time Based SQL injection in url parameter | [WebSummit](../by-program/websummit.md) | None | — | 1 |
-| 157 | [115304](../reports/115304.md) | Blind SQL INJ | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 1 |
+| 124 | [1723896](../reports/1723896.md) | Sql Injection At █████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 14 |
+| 125 | [761382](../reports/761382.md) | stripo blog search  SQL Injection | [Stripo Inc](../by-program/stripo.md) | Medium | — | 12 |
+| 126 | [2073717](../reports/2073717.md) | SqlInject at ██████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 12 |
+| 127 | [771215](../reports/771215.md) | Blind SQL Injection | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 10 |
+| 128 | [189851](../reports/189851.md) | Time Based SQL Injection vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 9 |
+| 129 | [968240](../reports/968240.md) | SQL injection at /admin.php?/cp/members/create | [ExpressionEngine](../by-program/expressionengine.md) | Medium — CVSS 5.2 | — | 8 |
+| 130 | [648346](../reports/648346.md) | [████████] Boolean SQL Injection (/personnel.php?content=profile& | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
+| 131 | [925007](../reports/925007.md) | blind sql on [selfcare.mtn.com.af] | [MTN Group](../by-program/mtn_group.md) | Medium | — | 5 |
+| 132 | [202619](../reports/202619.md) | SQL injection vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
+| 133 | [201512](../reports/201512.md) | SQL Injection vulnerability in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
+| 134 | [188929](../reports/188929.md) | Time Based SQL Injection vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
+| 135 | [227587](../reports/227587.md) | SQL Injection vulnerability in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
+| 136 | [195051](../reports/195051.md) | SQL injection vulnerability in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
+| 137 | [214798](../reports/214798.md) | SQL injection on https://███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
+| 138 | [242882](../reports/242882.md) | Blind SQL Injection on DoD Site | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
+| 139 | [226211](../reports/226211.md) | SQL Injection vulnerability in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
+| 140 | [197754](../reports/197754.md) | SQL Injection vulnerability in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
+| 141 | [674838](../reports/674838.md) | SQL Injection - https://███/█████████/MSI.portal | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
+| 142 | [319458](../reports/319458.md) | typeorm does not properly escape parameters when building SQL que | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.4 | — | 1 |
+| 143 | [227102](../reports/227102.md) | Two Error-Based SQLi in courses.aspx on ██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 0 |
+| 144 | [808832](../reports/808832.md) | Information Disclosure in https://www.rockstargames.com/search | [Rockstar Games](../by-program/rockstargames.md) | Low | — | 22 |
+| 145 | [81701](../reports/81701.md) | Possible SQL injection on "Jump to twitter" | [Gratipay](../by-program/gratipay.md) | Low | — | 2 |
+| 146 | [433792](../reports/433792.md) | Blind SQL injection in third-party software, that allows to revea | [Rocket.Chat](../by-program/rocket_chat.md) | None | — | 60 |
+| 147 | [135288](../reports/135288.md) | Multiple vulnerabilities in a WordPress plugin at drive.uber.com | [Uber](../by-program/uber.md) | None | — | 55 |
+| 148 | [3591725](../reports/3591725.md) | SQL Injection Detection Bypass in AWS WAF Managed Rules (AWSManag | [AWS VDP](../by-program/aws_vdp.md) | None | — | 36 |
+| 149 | [1107536](../reports/1107536.md) | Blind Based SQL Injection in 3d.sc.money | [CS Money](../by-program/cs_money.md) | None | — | 23 |
+| 150 | [109395](../reports/109395.md) | gmmovinparts.com SQLi via forgot_password.jsp | [General Motors](../by-program/gm.md) | None | — | 22 |
+| 151 | [31756](../reports/31756.md) | Drupal 7 pre auth sql injection and remote code execution | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 21 |
+| 152 | [248037](../reports/248037.md) | SQL TEST | [Gratipay](../by-program/gratipay.md) | None | — | 14 |
+| 153 | [211988](../reports/211988.md) | sql injection vulnerablity found | [Legal Robot](../by-program/legalrobot.md) | None | — | 5 |
+| 154 | [116764](../reports/116764.md) | vk.com/login.php  | [VK.com](../by-program/vkcom.md) | None | — | 4 |
+| 155 | [38778](../reports/38778.md) | SQL injection in conc/index.php/ccm/system/search/users/submit | [Concrete CMS](../by-program/concretecms.md) | None | — | 3 |
+| 156 | [59664](../reports/59664.md) | SQL Injection Vulnerability in Concrete5 version 5.7.3.1 | [Concrete CMS](../by-program/concretecms.md) | None | — | 1 |
+| 157 | [144359](../reports/144359.md) | Time Based SQL injection in url parameter | [WebSummit](../by-program/websummit.md) | None | — | 1 |
+| 158 | [115304](../reports/115304.md) | Blind SQL INJ | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 1 |

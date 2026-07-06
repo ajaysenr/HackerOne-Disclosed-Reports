@@ -1,4 +1,4 @@
-# Cloudflare Public Bug Bounty — Disclosed Reports (30 total)
+# Cloudflare Public Bug Bounty — Disclosed Reports (31 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -27,10 +27,11 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 21 | [2086301](../reports/2086301.md) | Permanent CASB Integration Takeover due to Improper Access C | High — CVSS 7.9 | — | 11 | [matured_kazama](https://hackerone.com/matured_kazama) | 2023-09-18 |
 | 22 | [1618021](../reports/1618021.md) | Enable 2Fa verification without verifying email | Medium — CVSS 4.2 | — | 39 | [motu-vai](https://hackerone.com/motu-vai) | 2022-08-31 |
 | 23 | [1543259](../reports/1543259.md) | Signup with any Email and Enable 2-FA without verifying Emai | Medium | — | 39 | [imtheking](https://hackerone.com/imtheking) | 2022-09-12 |
-| 24 | [1803659](../reports/1803659.md) | Origin IP address disclosure through Pingora response header | Medium — CVSS 6.1 | — | 21 | [smither](https://hackerone.com/smither) | 2023-01-10 |
-| 25 | [3424998](../reports/3424998.md) | AI Playground XSS to steal user-chat messages and access to  | Low | — | 56 | [matured_kazama](https://hackerone.com/matured_kazama) | 2026-02-26 |
-| 26 | [1467044](../reports/1467044.md) | Blind SSRF on platform.dash.cloudflare.com Due to Sentry mis | Low | — | 53 | [lohigowda](https://hackerone.com/lohigowda) | 2022-08-31 |
-| 27 | [1781096](../reports/1781096.md) | 💥💥Crash report -Cloudflare WARP doesn't verify text length i | Low | — | 29 | [theendisnear](https://hackerone.com/theendisnear) | 2023-07-31 |
-| 28 | [1675730](../reports/1675730.md) | Password Policy Restriction Bypass | Low | — | 11 | [lohigowda](https://hackerone.com/lohigowda) | 2022-09-30 |
-| 29 | [2802817](../reports/2802817.md) | Any WARP User Can Access Organization-Specific Application | None | — | 46 | [jai-kandepu](https://hackerone.com/jai-kandepu) | 2025-05-19 |
-| 30 | [1615743](../reports/1615743.md) | Basic XSS [WAF Bypasses] | None | — | 27 | [hacker1_agent](https://hackerone.com/hacker1_agent) | 2023-07-07 |
+| 24 | [1728292](../reports/1728292.md) | Cloudflare is not properly deleting user's account | Medium | — | 23 | [csc_](https://hackerone.com/csc_) | 2023-04-13 |
+| 25 | [1803659](../reports/1803659.md) | Origin IP address disclosure through Pingora response header | Medium — CVSS 6.1 | — | 21 | [smither](https://hackerone.com/smither) | 2023-01-10 |
+| 26 | [3424998](../reports/3424998.md) | AI Playground XSS to steal user-chat messages and access to  | Low | — | 56 | [matured_kazama](https://hackerone.com/matured_kazama) | 2026-02-26 |
+| 27 | [1467044](../reports/1467044.md) | Blind SSRF on platform.dash.cloudflare.com Due to Sentry mis | Low | — | 53 | [lohigowda](https://hackerone.com/lohigowda) | 2022-08-31 |
+| 28 | [1781096](../reports/1781096.md) | 💥💥Crash report -Cloudflare WARP doesn't verify text length i | Low | — | 29 | [theendisnear](https://hackerone.com/theendisnear) | 2023-07-31 |
+| 29 | [1675730](../reports/1675730.md) | Password Policy Restriction Bypass | Low | — | 11 | [lohigowda](https://hackerone.com/lohigowda) | 2022-09-30 |
+| 30 | [2802817](../reports/2802817.md) | Any WARP User Can Access Organization-Specific Application | None | — | 46 | [jai-kandepu](https://hackerone.com/jai-kandepu) | 2025-05-19 |
+| 31 | [1615743](../reports/1615743.md) | Basic XSS [WAF Bypasses] | None | — | 27 | [hacker1_agent](https://hackerone.com/hacker1_agent) | 2023-07-07 |

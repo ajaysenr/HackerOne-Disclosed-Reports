@@ -1,4 +1,4 @@
-# Weakness: Privacy Violation (62 reports)
+# Weakness: Privacy Violation (63 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -55,14 +55,15 @@
 | 49 | [1596673](../reports/1596673.md) | Lack of Brute force protection while joining video call in talk s | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 12 |
 | 50 | [230608](../reports/230608.md) | [marketplace.informatica.com] User email disclosure | [Informatica](../by-program/informatica.md) | Low | — | 11 |
 | 51 | [270695](../reports/270695.md) | [marketplace.informatica.com] - Sensitive Data Exposure  | [Informatica](../by-program/informatica.md) | Low | — | 10 |
-| 52 | [813421](../reports/813421.md) | Account deletion requests not entirely honoured. Misinformation e | [Nord Security](../by-program/nordsecurity.md) | Low | — | 8 |
-| 53 | [361269](../reports/361269.md) | Trusted daemon check fails when proxied through torsocks or proxy | [Monero](../by-program/monero.md) | Low | — | 6 |
-| 54 | [391385](../reports/391385.md) | Unauthorized Use of Victim Credit Card | [Yelp](../by-program/yelp.md) | Low — CVSS 3.5 | — | 6 |
-| 55 | [313075](../reports/313075.md) | Information Disclosure which violate program privacy | [HackerOne](../by-program/security.md) | Low | — | 5 |
-| 56 | [1596918](../reports/1596918.md) | Brute force protections don't work | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.7 | — | 4 |
-| 57 | [791674](../reports/791674.md) | Expired Available Domains in nordvpn.com website code | [Nord Security](../by-program/nordsecurity.md) | None | — | 29 |
-| 58 | [803141](../reports/803141.md) | Unauthorized User Can Delete Any User Account | [Nord Security](../by-program/nordsecurity.md) | None | — | 25 |
-| 59 | [386596](../reports/386596.md) | Email Not Completely Deleted after Deleting an account | [Semmle](../by-program/semmle.md) | None | — | 18 |
-| 60 | [803941](../reports/803941.md) | NordVPN Android Application privacy violation due to Google Adver | [Nord Security](../by-program/nordsecurity.md) | None | — | 11 |
-| 61 | [3185083](../reports/3185083.md) | Connection Count Bug in Monero Node Enables Outbound Peer Reset A | [Monero](../by-program/monero.md) | None | — | 3 |
-| 62 | [262088](../reports/262088.md) | Show hide privacy giving receiving on my website  | [Gratipay](../by-program/gratipay.md) | None | — | 3 |
+| 52 | [1724771](../reports/1724771.md) | Robots.txt file with potentially sensitive content. | [Yelp](../by-program/yelp.md) | Low | — | 9 |
+| 53 | [813421](../reports/813421.md) | Account deletion requests not entirely honoured. Misinformation e | [Nord Security](../by-program/nordsecurity.md) | Low | — | 8 |
+| 54 | [361269](../reports/361269.md) | Trusted daemon check fails when proxied through torsocks or proxy | [Monero](../by-program/monero.md) | Low | — | 6 |
+| 55 | [391385](../reports/391385.md) | Unauthorized Use of Victim Credit Card | [Yelp](../by-program/yelp.md) | Low — CVSS 3.5 | — | 6 |
+| 56 | [313075](../reports/313075.md) | Information Disclosure which violate program privacy | [HackerOne](../by-program/security.md) | Low | — | 5 |
+| 57 | [1596918](../reports/1596918.md) | Brute force protections don't work | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.7 | — | 4 |
+| 58 | [791674](../reports/791674.md) | Expired Available Domains in nordvpn.com website code | [Nord Security](../by-program/nordsecurity.md) | None | — | 29 |
+| 59 | [803141](../reports/803141.md) | Unauthorized User Can Delete Any User Account | [Nord Security](../by-program/nordsecurity.md) | None | — | 25 |
+| 60 | [386596](../reports/386596.md) | Email Not Completely Deleted after Deleting an account | [Semmle](../by-program/semmle.md) | None | — | 18 |
+| 61 | [803941](../reports/803941.md) | NordVPN Android Application privacy violation due to Google Adver | [Nord Security](../by-program/nordsecurity.md) | None | — | 11 |
+| 62 | [3185083](../reports/3185083.md) | Connection Count Bug in Monero Node Enables Outbound Peer Reset A | [Monero](../by-program/monero.md) | None | — | 3 |
+| 63 | [262088](../reports/262088.md) | Show hide privacy giving receiving on my website  | [Gratipay](../by-program/gratipay.md) | None | — | 3 |
