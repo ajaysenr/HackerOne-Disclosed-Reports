@@ -9548,6 +9548,7 @@ https://hackerone.com/reports/3634400 | SSRF Filter Bypass via Unblocked NAT64 L
 https://hackerone.com/reports/3634571 | Path Traversal in writeFile via Unsafe Prefix Containment Check Allows Out-of-Directory Writes
 https://hackerone.com/reports/3636044 | HTTP/2 PUSH_PROMISE header loss on OOM bypasses scheme validation (regression of 2e8c922a89)
 https://hackerone.com/reports/3636244 | HackerOne Vulnerability Report: libcurl SSL/TLS Identity Leakage via Insecure Connection Reuse
+https://hackerone.com/reports/3637898 | OS Command Injection in `aws-cdk-lib` NodejsFunction via Unsanitized `OsCommand` Helper (Supply Chain RCE)
 https://hackerone.com/reports/3638715 | Use-After-Free race condition in url_move_hostname() via shared connection pool
 https://hackerone.com/reports/3639277 | Bypassing Strict SSH Server Verification via Connection Pool Reuse in libcurl
 https://hackerone.com/reports/3640932 | Missing server identity policy enforcement in SSH connection reuse allows host key verification bypass via pool poisoning
