@@ -8188,6 +8188,8 @@ https://hackerone.com/reports/1736432 | Reflected XSS | https://████
 https://hackerone.com/reports/1736466 | HTML INJECTION FOUND ON https://adobedocs.github.io/analytics-1.4-apis/swagger-docs.html DUE TO OUTDATED SWAGGER UI
 https://hackerone.com/reports/1736846 | Akismet API keys are exposed by authentication method
 https://hackerone.com/reports/1737358 | URL Scheme Validation Bypass in Shopify Mobile App Allows Javascript Execution
+https://hackerone.com/reports/1737943 | IDOR may allow access to non-public photos
+https://hackerone.com/reports/1739099 | CVE-2017-5929: Hyperledger - Arbitrary Deserialization of Untrusted Data 
 https://hackerone.com/reports/1741430 | CSRF vulnerability in Nextcloud Desktop Client 3.6.1 on Windows when clicking malicious link
 https://hackerone.com/reports/1744212 | HTML INJECTION on https://adobedocs.github.io/JourneyAPI/ due to outdated SWAGGER UI
 https://hackerone.com/reports/1745702 | Insecure randomness for default password in file sharing when password policy app is disabled
