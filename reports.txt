@@ -8175,13 +8175,16 @@ https://hackerone.com/reports/1728174 | Ingress nginx annotation injection cause
 https://hackerone.com/reports/1728292 | Cloudflare is not properly deleting user's account
 https://hackerone.com/reports/1730660 | CVE-2022-42916: HSTS bypass via IDN
 https://hackerone.com/reports/1731349 | Stored XSS via Kroki diagram
-https://hackerone.com/reports/1732595 | Github app Privilege Escalation to Administrator/Owner of the Organization 
+https://hackerone.com/reports/1732595 | Github app Privilege Escalation to Administrator/Owner of the Organization
 https://hackerone.com/reports/1733627 | IDOR for changing privacy settings on any memories
 https://hackerone.com/reports/1734639 | IDOR to make someone attend or leave an event
 https://hackerone.com/reports/1735586 | Wordpress users Disclosure [ /wp-json/wp/v2/users/ ]
 https://hackerone.com/reports/1735622 | Reflected XSS in chatbot
+https://hackerone.com/reports/1736317 | XSS via Client Side Template Injection on www.███/News/Speeches
+https://hackerone.com/reports/1736327 | DOM XSS at `https://adobedocs.github.io/indesign-api-docs/?configUrl={site}` due to outdated Swagger UI
 https://hackerone.com/reports/1736378 | DOM XSS at `https://adobedocs.github.io/OAE_PartnerAPI/?configUrl={site}` due to outdated Swagger UI
 https://hackerone.com/reports/1736390 | Mail app - blind SSRF via imapHost parameter
+https://hackerone.com/reports/1736432 | Reflected XSS | https://████
 https://hackerone.com/reports/1736466 | HTML INJECTION FOUND ON https://adobedocs.github.io/analytics-1.4-apis/swagger-docs.html DUE TO OUTDATED SWAGGER UI
 https://hackerone.com/reports/1736846 | Akismet API keys are exposed by authentication method
 https://hackerone.com/reports/1737358 | URL Scheme Validation Bypass in Shopify Mobile App Allows Javascript Execution
