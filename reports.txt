@@ -8191,9 +8191,12 @@ https://hackerone.com/reports/1737358 | URL Scheme Validation Bypass in Shopify 
 https://hackerone.com/reports/1737943 | IDOR may allow access to non-public photos
 https://hackerone.com/reports/1739099 | CVE-2017-5929: Hyperledger - Arbitrary Deserialization of Untrusted Data
 https://hackerone.com/reports/1741430 | CSRF vulnerability in Nextcloud Desktop Client 3.6.1 on Windows when clicking malicious link
+https://hackerone.com/reports/1744194 | Business Suite "Get Leads" Resulting in Revealing User Email & Phone
 https://hackerone.com/reports/1744212 | HTML INJECTION on https://adobedocs.github.io/JourneyAPI/ due to outdated SWAGGER UI
+https://hackerone.com/reports/1744264 |  read and message other user's messages
 https://hackerone.com/reports/1745702 | Insecure randomness for default password in file sharing when password policy app is disabled
 https://hackerone.com/reports/1745755 | Hide download previews are accessible without a watermark
+https://hackerone.com/reports/1745766 | Disabled download shares still allow download through preview images
 https://hackerone.com/reports/1746098 | potential denial of service attack via the locale parameter
 https://hackerone.com/reports/1746582 | Mail app - blind SSRF via smtpHost parameter
 https://hackerone.com/reports/1748961 | CSV Injection at https://assets-paris-demo.codefi.network/
