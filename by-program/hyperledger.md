@@ -1,4 +1,4 @@
-# Linux Foundation Decentralized Trust — Disclosed Reports (22 total)
+# Linux Foundation Decentralized Trust — Disclosed Reports (23 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -24,5 +24,6 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 18 | [1670187](../reports/1670187.md) | Cross Site Scripting Vulnerability in fabric-sdk-py source c | None | — | 9 | [bhaskar_ram](https://hackerone.com/bhaskar_ram) | 2022-08-17 |
 | 19 | [1690377](../reports/1690377.md) | Relative Path Traversal vulnerability in fabric-private-chai | None | — | 6 | [bhaskar_ram](https://hackerone.com/bhaskar_ram) | 2022-10-09 |
 | 20 | [926222](../reports/926222.md) | Vulnerability in Private Data Endorsement Policy Management  | None | — | 6 | [swang1994](https://hackerone.com/swang1994) | 2021-03-30 |
-| 21 | [951623](../reports/951623.md) | Vulnerabilities in Endorsement Mechanism of Private Data Rel | None | — | 3 | [swang1994](https://hackerone.com/swang1994) | 2021-03-30 |
-| 22 | [1763343](../reports/1763343.md) | Dependency confusion in https://github.com/hyperledger/aries | None | — | 1 | [r3drush](https://hackerone.com/r3drush) | 2023-02-07 |
+| 21 | [1739099](../reports/1739099.md) | CVE-2017-5929: Hyperledger - Arbitrary Deserialization of Un | None | — | 5 | [mik-patient](https://hackerone.com/mik-patient) | 2022-10-18 |
+| 22 | [951623](../reports/951623.md) | Vulnerabilities in Endorsement Mechanism of Private Data Rel | None | — | 3 | [swang1994](https://hackerone.com/swang1994) | 2021-03-30 |
+| 23 | [1763343](../reports/1763343.md) | Dependency confusion in https://github.com/hyperledger/aries | None | — | 1 | [r3drush](https://hackerone.com/r3drush) | 2023-02-07 |
