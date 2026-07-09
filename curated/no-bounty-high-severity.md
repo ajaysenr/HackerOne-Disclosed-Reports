@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1697 total)
+# High/Critical Severity — No Bounty Paid (1701 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -313,6 +313,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1888723](../reports/1888723.md) |  WordPress application vulnerable to DoS attack via wp-cron.php | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 21 |
 | [415275](../reports/415275.md) | CTF Writeup flag{cha1n1ng_bugs_f0r_fun_4nd_pr0f1t?_or_rep0rt_an_L | [h1-5411-CTF](../by-program/h1-5411-ctf.md) | Critical | Resolved | 21 |
 | [1580567](../reports/1580567.md) | Exposed valid AWS, Mysql, Sendgrid and other secrets | [Glovo](../by-program/glovo.md) | Critical — CVSS 10.0 | Resolved | 21 |
+| [1747146](../reports/1747146.md) | Authentication bypass in ████████ | [MTN Group](../by-program/mtn_group.md) | Critical | Resolved | 21 |
 | [1631258](../reports/1631258.md) | Rocket.Chat Server RCE | [Rocket.Chat](../by-program/rocket_chat.md) | Critical | Resolved | 21 |
 | [678496](../reports/678496.md) | Arbitrary File Reading leads to RCE in the Pulse Secure SSL VPN o | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 21 |
 | [2312609](../reports/2312609.md) | Full Access to sonarQube and Docker | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 21 |
@@ -391,6 +392,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [491668](../reports/491668.md) | RCE on https://█████/ Using CVE-2017-9248 | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 12 |
 | [683965](../reports/683965.md) | Unrestricted File Upload Leading to Remote Code Execution | [Central Security Project](../by-program/central-security-project.md) | Critical — CVSS 9.1 | Resolved | 12 |
 | [182576](../reports/182576.md) | Subdomain Takeover on http://kiosk.owox.com/ | [OWOX, Inc.](../by-program/owox.md) | Critical | Resolved | 12 |
+| [1744264](../reports/1744264.md) |  read and message other user's messages | [Reddit](../by-program/reddit.md) | Critical | Not Applicable | 12 |
 | [924151](../reports/924151.md) | Insecure use of shell.openExternal() in Rocket.Chat Desktop App l | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 9.0 | Resolved | 12 |
 | [895824](../reports/895824.md) | [h1-2006 2020] Bounty payments are done ! | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 12 |
 | [1164452](../reports/1164452.md) | Remote code execution due to unvalidated file upload | [MTN Group](../by-program/mtn_group.md) | Critical | Resolved | 12 |
@@ -858,6 +860,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [3120790](../reports/3120790.md) | Session Replay Attack Allows Authentication Bypass via Captured L | [WakaTime](../by-program/wakatime.md) | High — CVSS 8.2 | Informative | 52 |
 | [3556769](../reports/3556769.md) | Incomplete fix for CVE-2026-21637: loadSNI() in _tls_wrap.js lack | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | Resolved | 52 |
 | [1792544](../reports/1792544.md) | Security Issue into Wallet lock protection  | [Hiro](../by-program/hiro.md) | High | Resolved | 51 |
+| [1744194](../reports/1744194.md) | Business Suite "Get Leads" Resulting in Revealing User Email & Ph | [TikTok](../by-program/tiktok.md) | High — CVSS 7.1 | Resolved | 51 |
 | [1203842](../reports/1203842.md) | DNS Leaks when using any VPN Browser extension with Brave Shield  | [Brave Software](../by-program/brave.md) | High | Resolved | 51 |
 | [277138](../reports/277138.md) | Privilege Escalation: Read-Only to Admin | [Inflection](../by-program/inflection.md) | High — CVSS 8.2 | Resolved | 51 |
 | [1009046](../reports/1009046.md) | Able to use 'PREMIUM TEMPLATES' in 'FREE PLAN' at [https://my.str | [Stripo Inc](../by-program/stripo.md) | High | Resolved | 51 |
@@ -1463,6 +1466,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [3508785](../reports/3508785.md) | Gopher Protocol Command Injection (SSRF Smuggling) | [curl](../by-program/curl.md) | High | Not Applicable | 7 |
 | [3775183](../reports/3775183.md) | Incomplete fix for CVE-2022-35406: meta-redirect content-type che | [PortSwigger Web Security](../by-program/portswigger.md) | High | Informative | 7 |
 | [783191](../reports/783191.md) | Clickjacking to change email address | [Gener8](../by-program/gener8.md) | High | Resolved | 7 |
+| [1747642](../reports/1747642.md) | Permissions policies can be bypassed via process.mainModule | [Node.js](../by-program/nodejs.md) | High — CVSS 7.1 | Resolved | 7 |
 | [319532](../reports/319532.md) | `https-proxy-agent` passes unsanitized options to Buffer(arg), re | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.2 | Resolved | 7 |
 | [268804](../reports/268804.md) | CVE-2017-12986 The IPv6 routing header parser in tcpdump before 4 | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | Resolved | 7 |
 | [570133](../reports/570133.md) | [http-file-server] List any files and sub folders in the folder b | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.2 | Resolved | 7 |
