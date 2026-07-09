@@ -8199,6 +8199,10 @@ https://hackerone.com/reports/1745755 | Hide download previews are accessible wi
 https://hackerone.com/reports/1745766 | Disabled download shares still allow download through preview images
 https://hackerone.com/reports/1746098 | potential denial of service attack via the locale parameter
 https://hackerone.com/reports/1746582 | Mail app - blind SSRF via smtpHost parameter
+https://hackerone.com/reports/1747146 | Authentication bypass in ████████
+https://hackerone.com/reports/1747596 | Bypassing Whitelist to perform SSRF for internal host scanning
+https://hackerone.com/reports/1747642 | Permissions policies can be bypassed via process.mainModule
+https://hackerone.com/reports/1747978 | bypass two-factor authentication in Android apps and web
 https://hackerone.com/reports/1748961 | CSV Injection at https://assets-paris-demo.codefi.network/
 https://hackerone.com/reports/1751258 | Attacker is able to create,Edit & delete notes and leak the title of a victim's private personal snippet
 https://hackerone.com/reports/1752146 | POST following PUT confusion
