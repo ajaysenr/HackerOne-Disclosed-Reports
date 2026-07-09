@@ -8205,6 +8205,7 @@ https://hackerone.com/reports/1747642 | Permissions policies can be bypassed via
 https://hackerone.com/reports/1747978 | bypass two-factor authentication in Android apps and web
 https://hackerone.com/reports/1748961 | CSV Injection at https://assets-paris-demo.codefi.network/
 https://hackerone.com/reports/1751258 | Attacker is able to create,Edit & delete notes and leak the title of a victim's private personal snippet
+https://hackerone.com/reports/1751333 | MetaMask Browser URL and Transaction Origin Spoofing - Metamask wallet Android & Metamask wallet iOS
 https://hackerone.com/reports/1752146 | POST following PUT confusion
 https://hackerone.com/reports/1753224 | CVE-2022-35260: .netrc parser out-of-bounds access
 https://hackerone.com/reports/1753226 | CVE-2022-42916: HSTS bypass via IDN
