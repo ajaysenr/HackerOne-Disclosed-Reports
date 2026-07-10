@@ -8210,6 +8210,9 @@ https://hackerone.com/reports/1752146 | POST following PUT confusion
 https://hackerone.com/reports/1753224 | CVE-2022-35260: .netrc parser out-of-bounds access
 https://hackerone.com/reports/1753226 | CVE-2022-42916: HSTS bypass via IDN
 https://hackerone.com/reports/1754811 | Extraction of Pages build scripts, config values, tokens, etc. via symlinks
+https://hackerone.com/reports/1754843 | Reflected XSS In Marketing Reports Page On *.myshopify.com/admin
+https://hackerone.com/reports/1755083 | CVE-2022-43551: Another HSTS bypass via IDN
+https://hackerone.com/reports/1755552 | Exceed photo dimensions, Flickr.com
 https://hackerone.com/reports/1755555 | Possibility to delete files attached to deck cards of other users
 https://hackerone.com/reports/1758174 | Unauthorized access to GovSlack
 https://hackerone.com/reports/1760213 | Cache Poisoning Allows Stored XSS Via hav Cookie Parameter (To Account Takeover)
