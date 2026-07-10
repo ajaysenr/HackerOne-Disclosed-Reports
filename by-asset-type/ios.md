@@ -1,4 +1,4 @@
-# Asset Type: iOS (17 reports)
+# Asset Type: iOS (18 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -11,13 +11,14 @@
 | 5 | [2245437](../reports/2245437.md) | App PIN code can be bypassed in Files iOS | [Nextcloud](../by-program/nextcloud.md) | it.twsweb.Nextcloud | Low — CVSS 2.3 | $100 | 30 |
 | 6 | [575562](../reports/575562.md) | Blind Stored XSS on iOS App due to Unsanitized Webview | [Nextcloud](../by-program/nextcloud.md) | it.twsweb.Nextcloud | Low — CVSS 2.8 | $100 | 28 |
 | 7 | [727727](../reports/727727.md) | Path traversal in filename in LINE Mac client | [LY Corporation](../by-program/line.md) | 539883307 | High — CVSS 8.0 | — | 173 |
-| 8 | [1257586](../reports/1257586.md) | PIN 📌 BYPASS 🥷 | [Yoti](../by-program/yoti.md) | 983980808 | High | — | 83 |
-| 9 | [1237428](../reports/1237428.md) | [dubsmash] Long String in 'shoutout' Parameter Leading  | [Reddit](../by-program/reddit.md) | 918820076 | High — CVSS 7.8 | — | 32 |
-| 10 | [1102365](../reports/1102365.md) | [dubmash] Lack of authorization checks - Update Sound T | [Reddit](../by-program/reddit.md) | 918820076 | High | — | 19 |
-| 11 | [511044](../reports/511044.md) | [www.zomato.com] Availing Zomato Gold membership for fr | [Eternal](../by-program/eternal.md) | 434613896 | Medium — CVSS 6.5 | — | 229 |
-| 12 | [781238](../reports/781238.md) | User data not anonymized is sent to analytics server | [Nord Security](../by-program/nordsecurity.md) | 905953485 | Medium | — | 99 |
-| 13 | [746541](../reports/746541.md) | SSRF on local storage of iOS mobile | [Nextcloud](../by-program/nextcloud.md) | it.twsweb.Nextcloud | Medium | — | 7 |
-| 14 | [3693295](../reports/3693295.md) | iOS Brave Playlist "Open in Private Tab" bypasses FaceI | [Brave Software](../by-program/brave.md) | com.brave.ios.browser | Medium | — | 4 |
-| 15 | [1082991](../reports/1082991.md) | Webview address bar spoofing in LINE client for iOS | [LY Corporation](../by-program/line.md) | 443904275 | Low | — | 36 |
-| 16 | [1847368](../reports/1847368.md) | Full Passcode bypass on Nextcloud App iOS | [Nextcloud](../by-program/nextcloud.md) | it.twsweb.Nextcloud | Low — CVSS 1.8 | — | 20 |
-| 17 | [1167919](../reports/1167919.md) | Default Nextcloud server config and iOS Nextcloud clien | [Nextcloud](../by-program/nextcloud.md) | it.twsweb.Nextcloud | Low | — | 7 |
+| 8 | [1751333](../reports/1751333.md) | MetaMask Browser URL and Transaction Origin Spoofing -  | [MetaMask](../by-program/metamask.md) | io.metamask.Metamask | High — CVSS 7.1 | — | 85 |
+| 9 | [1257586](../reports/1257586.md) | PIN 📌 BYPASS 🥷 | [Yoti](../by-program/yoti.md) | 983980808 | High | — | 83 |
+| 10 | [1237428](../reports/1237428.md) | [dubsmash] Long String in 'shoutout' Parameter Leading  | [Reddit](../by-program/reddit.md) | 918820076 | High — CVSS 7.8 | — | 32 |
+| 11 | [1102365](../reports/1102365.md) | [dubmash] Lack of authorization checks - Update Sound T | [Reddit](../by-program/reddit.md) | 918820076 | High | — | 19 |
+| 12 | [511044](../reports/511044.md) | [www.zomato.com] Availing Zomato Gold membership for fr | [Eternal](../by-program/eternal.md) | 434613896 | Medium — CVSS 6.5 | — | 229 |
+| 13 | [781238](../reports/781238.md) | User data not anonymized is sent to analytics server | [Nord Security](../by-program/nordsecurity.md) | 905953485 | Medium | — | 99 |
+| 14 | [746541](../reports/746541.md) | SSRF on local storage of iOS mobile | [Nextcloud](../by-program/nextcloud.md) | it.twsweb.Nextcloud | Medium | — | 7 |
+| 15 | [3693295](../reports/3693295.md) | iOS Brave Playlist "Open in Private Tab" bypasses FaceI | [Brave Software](../by-program/brave.md) | com.brave.ios.browser | Medium | — | 4 |
+| 16 | [1082991](../reports/1082991.md) | Webview address bar spoofing in LINE client for iOS | [LY Corporation](../by-program/line.md) | 443904275 | Low | — | 36 |
+| 17 | [1847368](../reports/1847368.md) | Full Passcode bypass on Nextcloud App iOS | [Nextcloud](../by-program/nextcloud.md) | it.twsweb.Nextcloud | Low — CVSS 1.8 | — | 20 |
+| 18 | [1167919](../reports/1167919.md) | Default Nextcloud server config and iOS Nextcloud clien | [Nextcloud](../by-program/nextcloud.md) | it.twsweb.Nextcloud | Low | — | 7 |

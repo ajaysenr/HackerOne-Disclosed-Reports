@@ -1,4 +1,4 @@
-# Flickr — Disclosed Reports (7 total)
+# Flickr — Disclosed Reports (8 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -10,4 +10,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 4 | [1342088](../reports/1342088.md) | Flickr Account Takeover using AWS Cognito API | Critical | — | 436 | [lauritz](https://hackerone.com/lauritz) | 2021-12-18 |
 | 5 | [487008](../reports/487008.md) | Arbitrary file read via ffmpeg HLS parser at https://www.fli | Critical — CVSS 9.9 | — | 339 | [asad0x01_](https://hackerone.com/asad0x01_) | 2020-01-25 |
 | 6 | [1737943](../reports/1737943.md) | IDOR may allow access to non-public photos | Medium — CVSS 5.9 | — | 57 | [0xcyborg](https://hackerone.com/0xcyborg) | 2024-07-06 |
-| 7 | [2888001](../reports/2888001.md) | Information Disclosure: .dockerignore file is publicly acces | None | — | 45 | [neon_mm](https://hackerone.com/neon_mm) | 2025-01-14 |
+| 7 | [1755552](../reports/1755552.md) | Exceed photo dimensions, Flickr.com | Low | — | 9 | [0xcyborg](https://hackerone.com/0xcyborg) | 2022-11-07 |
+| 8 | [2888001](../reports/2888001.md) | Information Disclosure: .dockerignore file is publicly acces | None | — | 45 | [neon_mm](https://hackerone.com/neon_mm) | 2025-01-14 |

@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1701 total)
+# High/Critical Severity — No Bounty Paid (1702 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -731,6 +731,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [836081](../reports/836081.md) | Insufficient access control on all BCRM instances leading to the  | [LY Corporation](../by-program/line.md) | High | Resolved | 86 |
 | [2412583](../reports/2412583.md) | Crafted smart contract can take 8 minutes to execute due to bug i | [Rootstock Labs](../by-program/rootstocklabs.md) | High — CVSS 8.3 | Resolved | 85 |
 | [2699029](../reports/2699029.md) | CSRF leads to Account takeover | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 85 |
+| [1751333](../reports/1751333.md) | MetaMask Browser URL and Transaction Origin Spoofing - Metamask w | [MetaMask](../by-program/metamask.md) | High — CVSS 7.1 | Resolved | 85 |
 | [235642](../reports/235642.md) | [CRITICAL] Full account takeover using CSRF | [X / xAI](../by-program/x.md) | High | Resolved | 85 |
 | [1893800](../reports/1893800.md) | SQL Injection in CVE Discovery Search  | [HackerOne](../by-program/security.md) | High — CVSS 7.5 | Resolved | 85 |
 | [1350653](../reports/1350653.md) | Remote kernel heap overflow | [PlayStation](../by-program/playstation.md) | High — CVSS 7.4 | Resolved | 85 |
