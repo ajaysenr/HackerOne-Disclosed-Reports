@@ -8222,8 +8222,10 @@ https://hackerone.com/reports/1760403 | Account takeover - improper validation o
 https://hackerone.com/reports/1761505 | Self-XSS on Suggest Tag dialog box
 https://hackerone.com/reports/1762025 | Improper handling of null bytes in GitHub Actions Runner allows an attacker to set arbitrary environment variables
 https://hackerone.com/reports/1762764 | Sensitive information for phpinfo.php at https://products.ean.com/
+https://hackerone.com/reports/1762927 | api keys leaked
 https://hackerone.com/reports/1763266 | Public Github Repo Leaking Internal Credentials
 https://hackerone.com/reports/1763343 | Dependency confusion in https://github.com/hyperledger/aries-mobile-agent-react-native
+https://hackerone.com/reports/1763404 | xss on reset password page
 https://hackerone.com/reports/1763704 | Git Arg Injection in  kubernetes-sigs/release-sdk
 https://hackerone.com/reports/1765631 | Potential directory traversal in OC\Files\Node\Folder::getFullPath
 https://hackerone.com/reports/1767151 | DOM based XSS via insecure parameter on [ https://uberpay-mock-psp.uber.com ]
