@@ -8230,11 +8230,14 @@ https://hackerone.com/reports/1763704 | Git Arg Injection in  kubernetes-sigs/re
 https://hackerone.com/reports/1764858 | CVE-2022-43552: HTTP Proxy deny use-after-free
 https://hackerone.com/reports/1765631 | Potential directory traversal in OC\Files\Node\Folder::getFullPath
 https://hackerone.com/reports/1767151 | DOM based XSS via insecure parameter on [ https://uberpay-mock-psp.uber.com ]
-https://hackerone.com/reports/1767439 | Exposed Log File Lead to Full Internal path disclosure at [https://nextcloud.com/wp-content/debug.log] 
+https://hackerone.com/reports/1767439 | Exposed Log File Lead to Full Internal path disclosure at [https://nextcloud.com/wp-content/debug.log]
 https://hackerone.com/reports/1767503 | Reference caching can leak data to unauthorized users
 https://hackerone.com/reports/1767771 | Able to take over .zyrosite.com subdomains via `/v3/publish/connect-domain-hostinger` API endpoint
 https://hackerone.com/reports/1768166 | Arbitrary file write triggered by deeplink abuse - MetaMask Android
 https://hackerone.com/reports/1770797 | adding h1_analyst_* to username for normal users
+https://hackerone.com/reports/1770858 | IDOR vulnerability reveals additional information
+https://hackerone.com/reports/1771051 | Directory Listing at https://█.█.█.█
+https://hackerone.com/reports/1771149 | CORS Misconfiguration in https://████████/accounts/login/
 https://hackerone.com/reports/1773895 | Leak of sensitive values to Airflow rendered template
 https://hackerone.com/reports/1776476 | CVE-2022-40127: RCE in Apache Airflow <2.4.0 bash example
 https://hackerone.com/reports/1777077 | S3 bucket takeover [learn2.khanacademy.org]
