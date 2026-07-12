@@ -8238,7 +8238,10 @@ https://hackerone.com/reports/1770797 | adding h1_analyst_* to username for norm
 https://hackerone.com/reports/1770858 | IDOR vulnerability reveals additional information
 https://hackerone.com/reports/1771051 | Directory Listing at https://█.█.█.█
 https://hackerone.com/reports/1771149 | CORS Misconfiguration in https://████████/accounts/login/
+https://hackerone.com/reports/1772063 | ReDoS due to device-detector parsing user agents
+https://hackerone.com/reports/1773609 | IDOR at mtnmobad.mtnbusiness.com.ng leads to PII leakage. 
 https://hackerone.com/reports/1773895 | Leak of sensitive values to Airflow rendered template
+https://hackerone.com/reports/1775162 | XSS in linktr.ee - on link thumbnail adding
 https://hackerone.com/reports/1776476 | CVE-2022-40127: RCE in Apache Airflow <2.4.0 bash example
 https://hackerone.com/reports/1777077 | S3 bucket takeover [learn2.khanacademy.org]
 https://hackerone.com/reports/1781096 | 💥💥Crash report -Cloudflare WARP doesn't verify text length in "Excluded Host" name input data💥💥
