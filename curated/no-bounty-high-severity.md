@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1704 total)
+# High/Critical Severity — No Bounty Paid (1705 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -102,6 +102,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [2382120](../reports/2382120.md) | Creation of bounties through Customer API leads to private email  | [HackerOne](../by-program/security.md) | Critical — CVSS 9.3 | Resolved | 97 |
 | [1714638](../reports/1714638.md) | IDOR Leads To  User Profile Modification https://mtnmobad.mtnbusi | [MTN Group](../by-program/mtn_group.md) | Critical — CVSS 10.0 | Resolved | 96 |
 | [227880](../reports/227880.md) | XXE in DoD website that may lead to RCE | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 96 |
+| [1770858](../reports/1770858.md) | IDOR vulnerability reveals additional information | [Semrush](../by-program/semrush.md) | Critical — CVSS 9.9 | Resolved | 95 |
 | [2926447](../reports/2926447.md) | Public google drive link Exposes Military Orders Containing PII ( | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 95 |
 | [2858802](../reports/2858802.md) | low-level p2p ping + tcp flooding leads to a remote crash in mone | [Monero](../by-program/monero.md) | Critical | Resolved | 95 |
 | [1889161](../reports/1889161.md) | JWT audience claim is not verified | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.0 | Resolved | 94 |

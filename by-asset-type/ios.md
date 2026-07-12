@@ -1,4 +1,4 @@
-# Asset Type: iOS (18 reports)
+# Asset Type: iOS (19 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -17,8 +17,9 @@
 | 11 | [1102365](../reports/1102365.md) | [dubmash] Lack of authorization checks - Update Sound T | [Reddit](../by-program/reddit.md) | 918820076 | High | — | 19 |
 | 12 | [511044](../reports/511044.md) | [www.zomato.com] Availing Zomato Gold membership for fr | [Eternal](../by-program/eternal.md) | 434613896 | Medium — CVSS 6.5 | — | 229 |
 | 13 | [781238](../reports/781238.md) | User data not anonymized is sent to analytics server | [Nord Security](../by-program/nordsecurity.md) | 905953485 | Medium | — | 99 |
-| 14 | [746541](../reports/746541.md) | SSRF on local storage of iOS mobile | [Nextcloud](../by-program/nextcloud.md) | it.twsweb.Nextcloud | Medium | — | 7 |
-| 15 | [3693295](../reports/3693295.md) | iOS Brave Playlist "Open in Private Tab" bypasses FaceI | [Brave Software](../by-program/brave.md) | com.brave.ios.browser | Medium | — | 4 |
-| 16 | [1082991](../reports/1082991.md) | Webview address bar spoofing in LINE client for iOS | [LY Corporation](../by-program/line.md) | 443904275 | Low | — | 36 |
-| 17 | [1847368](../reports/1847368.md) | Full Passcode bypass on Nextcloud App iOS | [Nextcloud](../by-program/nextcloud.md) | it.twsweb.Nextcloud | Low — CVSS 1.8 | — | 20 |
-| 18 | [1167919](../reports/1167919.md) | Default Nextcloud server config and iOS Nextcloud clien | [Nextcloud](../by-program/nextcloud.md) | it.twsweb.Nextcloud | Low | — | 7 |
+| 14 | [1768166](../reports/1768166.md) | Arbitrary file write triggered by deeplink abuse - Meta | [MetaMask](../by-program/metamask.md) | io.metamask.Metamask | Medium | — | 40 |
+| 15 | [746541](../reports/746541.md) | SSRF on local storage of iOS mobile | [Nextcloud](../by-program/nextcloud.md) | it.twsweb.Nextcloud | Medium | — | 7 |
+| 16 | [3693295](../reports/3693295.md) | iOS Brave Playlist "Open in Private Tab" bypasses FaceI | [Brave Software](../by-program/brave.md) | com.brave.ios.browser | Medium | — | 4 |
+| 17 | [1082991](../reports/1082991.md) | Webview address bar spoofing in LINE client for iOS | [LY Corporation](../by-program/line.md) | 443904275 | Low | — | 36 |
+| 18 | [1847368](../reports/1847368.md) | Full Passcode bypass on Nextcloud App iOS | [Nextcloud](../by-program/nextcloud.md) | it.twsweb.Nextcloud | Low — CVSS 1.8 | — | 20 |
+| 19 | [1167919](../reports/1167919.md) | Default Nextcloud server config and iOS Nextcloud clien | [Nextcloud](../by-program/nextcloud.md) | it.twsweb.Nextcloud | Low | — | 7 |

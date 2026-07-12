@@ -1,4 +1,4 @@
-# MetaMask — Disclosed Reports (8 total)
+# MetaMask — Disclosed Reports (9 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -11,4 +11,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 5 | [2280279](../reports/2280279.md) | total Failure of password protection while extracting seed p | Medium — CVSS 6.1 | — | 130 | [bug_vs_me](https://hackerone.com/bug_vs_me) | 2025-07-31 |
 | 6 | [3507241](../reports/3507241.md) | Authorization Bypass in Starknet Snap via enableAuthorize pa | Medium | — | 80 | [aszx87410](https://hackerone.com/aszx87410) | 2026-03-13 |
 | 7 | [1941767](../reports/1941767.md) | MetaMask Browser (on Android) does not enforce Content-Secur | Medium — CVSS 4.7 | — | 62 | [renniepak](https://hackerone.com/renniepak) | 2024-08-27 |
-| 8 | [1710564](../reports/1710564.md) | Possible to spoof Origin in "Connected Sites" | Low — CVSS 3.3 | — | 13 | [renniepak](https://hackerone.com/renniepak) | 2023-04-13 |
+| 8 | [1768166](../reports/1768166.md) | Arbitrary file write triggered by deeplink abuse - MetaMask  | Medium | — | 40 | [hackerontwowheels](https://hackerone.com/hackerontwowheels) | 2023-07-07 |
+| 9 | [1710564](../reports/1710564.md) | Possible to spoof Origin in "Connected Sites" | Low — CVSS 3.3 | — | 13 | [renniepak](https://hackerone.com/renniepak) | 2023-04-13 |
