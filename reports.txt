@@ -8245,7 +8245,11 @@ https://hackerone.com/reports/1775162 | XSS in linktr.ee - on link thumbnail add
 https://hackerone.com/reports/1776476 | CVE-2022-40127: RCE in Apache Airflow <2.4.0 bash example
 https://hackerone.com/reports/1777077 | S3 bucket takeover [learn2.khanacademy.org]
 https://hackerone.com/reports/1777095 | Unauthorized access to resumes stored on LinkedIn
+https://hackerone.com/reports/1779447 | Reflected - XSS
+https://hackerone.com/reports/1780399 | No rate limit in OTP code sending
 https://hackerone.com/reports/1781096 | 💥💥Crash report -Cloudflare WARP doesn't verify text length in "Excluded Host" name input data💥💥
+https://hackerone.com/reports/1781102 | Insecure use of shell.openExternal() leads to RCE in Rocket.Chat-Desktop
+https://hackerone.com/reports/1781131 | Cross-Site-Scripting in "Search Messages"
 https://hackerone.com/reports/1781751 | Ability to control the filename when uploading a logo or favicon on theming
 https://hackerone.com/reports/1782467 | Disclosure of users' ip address whenever they view my fright offer on image preview (Without interaction)
 https://hackerone.com/reports/1782514 | CVE-2022-45402: Apache Airflow: Open redirect during login
