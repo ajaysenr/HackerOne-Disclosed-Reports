@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1705 total)
+# High/Critical Severity — No Bounty Paid (1707 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -77,6 +77,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [2495989](../reports/2495989.md) | Sale cancellations from other sellers without restrictions | [MercadoLibre](../by-program/mercadolibre.md) | Critical — CVSS 9.3 | Resolved | 137 |
 | [3459285](../reports/3459285.md) | [Critical] Unauthorized Cross-Tenant Data Access in Stripo AI Hub | [Stripo Inc](../by-program/stripo.md) | Critical — CVSS 9.9 | Resolved | 136 |
 | [1046084](../reports/1046084.md) | SQL Injection Union Based | [Automattic](../by-program/automattic.md) | Critical | Resolved | 135 |
+| [1773609](../reports/1773609.md) | IDOR at mtnmobad.mtnbusiness.com.ng leads to PII leakage.  | [MTN Group](../by-program/mtn_group.md) | Critical | Resolved | 130 |
 | [2635315](../reports/2635315.md) | Yet Another OTP code Leaked in the API Response | [MTN Group](../by-program/mtn_group.md) | Critical — CVSS 9.1 | Resolved | 130 |
 | [1044698](../reports/1044698.md) | [intensedebate.com] SQL Injection Time Based On /js/commentAction | [Automattic](../by-program/automattic.md) | Critical | Resolved | 128 |
 | [3578842](../reports/3578842.md) | SQL Injection vulnerability found on ibm.com endpoint | [IBM](../by-program/ibm.md) | Critical — CVSS 9.3 | Resolved | 127 |
@@ -679,6 +680,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1760213](../reports/1760213.md) | Cache Poisoning Allows Stored XSS Via hav Cookie Parameter (To Ac | [Expedia Group Bug Bounty](../by-program/expediagroup_bbp.md) | High — CVSS 8.2 | Resolved | 116 |
 | [3115705](../reports/3115705.md) | Stored XSS in File Upload Leads to Privilege Escalation and Full  | [Dust](../by-program/dust.md) | High — CVSS 8.7 | Resolved | 115 |
 | [390386](../reports/390386.md) | Reflected XSS on https://www.uber.com  | [Uber](../by-program/uber.md) | High | Resolved | 114 |
+| [1777095](../reports/1777095.md) | Unauthorized access to resumes stored on LinkedIn | [LinkedIn](../by-program/linkedin.md) | High — CVSS 7.5 | Resolved | 112 |
 | [1452375](../reports/1452375.md) | Reflected xss on ads.tiktok.com using `from` parameter. | [TikTok](../by-program/tiktok.md) | High — CVSS 8.2 | Resolved | 110 |
 | [577584](../reports/577584.md) | ISteamAssets gives partners control over unrelated community mark | [Valve](../by-program/valve.md) | High — CVSS 7.1 | Resolved | 109 |
 | [2534458](../reports/2534458.md) | Can see phone numbers of others by providing mail address | [LinkedIn](../by-program/linkedin.md) | High — CVSS 7.5 | Resolved | 107 |
