@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1707 total)
+# High/Critical Severity — No Bounty Paid (1710 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -815,6 +815,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1166054](../reports/1166054.md) | User enumeration through forget password | [UPchieve](../by-program/upchieve.md) | High | Resolved | 63 |
 | [328724](../reports/328724.md) | Improper Authentication in Vimeo's API 'versions' endpoint. | [Vimeo](../by-program/vimeo.md) | High | Resolved | 63 |
 | [182104](../reports/182104.md) | Completed Compromise & Source Code Disclosure via Exposed Jenkins | [Udemy](../by-program/udemy.md) | High | Resolved | 63 |
+| [1779447](../reports/1779447.md) | Reflected - XSS | [MTN Group](../by-program/mtn_group.md) | High | Resolved | 63 |
 | [281575](../reports/281575.md) | Password reset link injection allows redirect to malicious URL | [Mavenlink](../by-program/mavenlink.md) | High | Resolved | 62 |
 | [401098](../reports/401098.md) | [mena.starbucks.com] Laravel App Log & Configuration Disclosure. | [Starbucks](../by-program/starbucks.md) | High | Resolved | 62 |
 | [2332551](../reports/2332551.md) | Management Console Editor Privilege Escalation to Root SSH Access | [GitHub](../by-program/github.md) | High | Resolved | 61 |
@@ -1580,7 +1581,9 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [192079](../reports/192079.md) | SQL Injection vulnerability in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 4 |
 | [418271](../reports/418271.md) | Stored XSS agent_status  | [8x8](../by-program/8x8-bounty.md) | High | Resolved | 4 |
 | [3684614](../reports/3684614.md) | Heap-buffer-overflow in `Curl_ssl_push_certinfo_len()` — sole bou | [curl](../by-program/curl.md) | High | Not Applicable | 4 |
+| [3780695](../reports/3780695.md) | SELECT ... INTO OUTFILE does not enforce the FILE WRITE privilege | [SingleStore](../by-program/singlestore.md) | High | Resolved | 4 |
 | [1000922](../reports/1000922.md) | Unsecured Grafana instance on https://monitoring.prow-canary.k8s. | [Kubernetes](../by-program/kubernetes.md) | High | Duplicate | 4 |
+| [1781102](../reports/1781102.md) | Insecure use of shell.openExternal() leads to RCE in Rocket.Chat- | [Rocket.Chat](../by-program/rocket_chat.md) | High | Resolved | 4 |
 | [3761647](../reports/3761647.md) | TLS conn reuse and session cache ignore fsslctx callback and ssl_ | [curl](../by-program/curl.md) | High | Informative | 4 |
 | [1250273](../reports/1250273.md) | Tor Browser using --log or --verbose logs the exact connection ti | [Tor](../by-program/torproject.md) | High — CVSS 7.1 | Informative | 4 |
 | [190870](../reports/190870.md) | Stored XSS on new Calling plugin (spreed) | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.8 | Resolved | 4 |

@@ -9723,6 +9723,7 @@ https://hackerone.com/reports/3776433 | TFTP upload ignores --continue-at / CURL
 https://hackerone.com/reports/3776535 | RTSP Digest auth state leaks across origins on reused libcurl easy handle
 https://hackerone.com/reports/3777381 | PRE_PROXY change leaks stale Proxy Digest state across proxy-chain boundary
 https://hackerone.com/reports/3780277 | Non-Production API Endpoints for the Amazon S3 Tables Service Fails to Log to CloudTrail Resulting in Silent Permission Enumeration
+https://hackerone.com/reports/3780695 | SELECT ... INTO OUTFILE does not enforce the FILE WRITE privilege  unprivileged arbitrary file write on the   server
 https://hackerone.com/reports/3780709 | Missing ownership validation allows cross‑manager tracker–campaign linking
 https://hackerone.com/reports/3780733 | DNS domain search list followed for extant domain missing A or AAAA records
 https://hackerone.com/reports/3780806 | Reflected XSS via unsanitised refresh parameter in zone invocation tag
