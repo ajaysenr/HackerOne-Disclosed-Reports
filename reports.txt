@@ -8265,6 +8265,7 @@ https://hackerone.com/reports/1785079 | # Drivers can access the customers phone
 https://hackerone.com/reports/1785145 | Full access to InDrive jira panel via exposed API token
 https://hackerone.com/reports/1785260 | Using special IPv4-mapped IPv6 addresses to bypass local IP ban
 https://hackerone.com/reports/1785378 | Double evaluation in .bash_prompt of dotfiles allows a malicious repository to execute arbitrary commands
+https://hackerone.com/reports/1787644 | Any organization's assets pending review can be downloaded
 https://hackerone.com/reports/1787810 | Electron CVE-2022-35954 Delimiter Injection Vulnerability in exportVariable
 https://hackerone.com/reports/1788006 | Open Redirect in Logout & Login
 https://hackerone.com/reports/1788222 | Document content of files can be obtained through Collabora for files of other users
