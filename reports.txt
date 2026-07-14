@@ -8253,14 +8253,17 @@ https://hackerone.com/reports/1781131 | Cross-Site-Scripting in "Search Messages
 https://hackerone.com/reports/1781751 | Ability to control the filename when uploading a logo or favicon on theming
 https://hackerone.com/reports/1782467 | Disclosure of users' ip address whenever they view my fright offer on image preview (Without interaction)
 https://hackerone.com/reports/1782514 | CVE-2022-45402: Apache Airflow: Open redirect during login
+https://hackerone.com/reports/1783001 | Ability to change permissions across seller platform
 https://hackerone.com/reports/1783015 | Host header injection that bypassed protection and allowed accessing multiple subdomains
 https://hackerone.com/reports/1784162 | OAuth2 "authorization_code" is valid indefinetly
 https://hackerone.com/reports/1784310 | Messages can still be seen on conversation after expiring when cron is misconfigured
+https://hackerone.com/reports/1784449 | Regular Expression Denial of Service in Headers
 https://hackerone.com/reports/1784645 | Passcode bypass on Talk Android app
 https://hackerone.com/reports/1784681 | Ability to read any emails through IDOR on Nextcloud Mail
 https://hackerone.com/reports/1784999 | Wordpress users Disclosure [ /wp-json/wp/v2/users/ ]  Not Resolved ()
 https://hackerone.com/reports/1785079 | # Drivers can access the customers phone number, current location without getting their offer accepted!
 https://hackerone.com/reports/1785145 | Full access to InDrive jira panel via exposed API token
+https://hackerone.com/reports/1785260 | Using special IPv4-mapped IPv6 addresses to bypass local IP ban
 https://hackerone.com/reports/1785378 | Double evaluation in .bash_prompt of dotfiles allows a malicious repository to execute arbitrary commands
 https://hackerone.com/reports/1787810 | Electron CVE-2022-35954 Delimiter Injection Vulnerability in exportVariable
 https://hackerone.com/reports/1788006 | Open Redirect in Logout & Login
