@@ -9531,6 +9531,7 @@ https://hackerone.com/reports/3578842 | SQL Injection vulnerability found on ibm
 https://hackerone.com/reports/3580247 | Use after free in hyperfifo example
 https://hackerone.com/reports/3580511 | ActiveStorage Disk Service Path Traversal via Custom Blob Key Injection
 https://hackerone.com/reports/3581815 | Open Redirect on lovable.dev via redirect parameter leads to phishing attacks
+https://hackerone.com/reports/3581911 | Stored XSS on Trix Editor version latest (2.1.16) - Sanitizer Bypass
 https://hackerone.com/reports/3582376 | HTTP Response Queue Poisoning via TOCTOU Race Condition in `http.Agent`
 https://hackerone.com/reports/3583983 | CVE-2026-3783: token leak with redirect and netrc
 https://hackerone.com/reports/3584149 | SSTI leads to Command injection
@@ -9649,6 +9650,7 @@ https://hackerone.com/reports/3694390 | CVE-2026-7009: OCSP stapling bypass with
 https://hackerone.com/reports/3697491 | Missing HMAC validation on /uninstall webhook in Shopify/sample-django-app reference template
 https://hackerone.com/reports/3697719 | CVE-2026-7168: cross-proxy Digest auth state leak
 https://hackerone.com/reports/3701692 | Malicious Conflux Endpoint Can Leave Stale Global OOO Queue Accounting After Teardown
+https://hackerone.com/reports/3702072 | bedrock-mantle.api.aws accepts Bedrock API keys outside the IAM Deny, CloudTrail signal, and invocation logging AWS publishes for Bedrock keys
 https://hackerone.com/reports/3702718 | MQTT state machine confusion: PINGRESP/DISCONNECT with non-zero remaining_length dispatches to stale nextstate
 https://hackerone.com/reports/3707747 | libcurl 8.20.0 incomplete fix for CVE-2026-7168: changing only CURLOPT_PROXYPORT leaks stale Proxy Digest auth to a different proxy
 https://hackerone.com/reports/3708482 | wcurl treats some URL operands after -- as curl options

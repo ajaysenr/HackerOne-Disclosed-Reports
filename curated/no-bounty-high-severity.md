@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1710 total)
+# High/Critical Severity — No Bounty Paid (1712 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -258,6 +258,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [375886](../reports/375886.md) | XSS-уязвимость, связанная с загрузкой файлов | [VK.com](../by-program/vkcom.md) | Critical | Resolved | 30 |
 | [1670586](../reports/1670586.md) | Cleartext storage of sensitive information at https://staging.sta | [IBM](../by-program/ibm.md) | Critical — CVSS 9.3 | Resolved | 30 |
 | [1125752](../reports/1125752.md) | SQL Injection on https://soa-accp.glbx.tva.gov/ via "/api/" path  | [Tennessee Valley Authority](../by-program/tennessee-valley-authority.md) | Critical — CVSS 10.0 | Resolved | 30 |
+| [1791720](../reports/1791720.md) | Ad Account Takeover | [LinkedIn](../by-program/linkedin.md) | Critical — CVSS 9.1 | Resolved | 29 |
 | [1784999](../reports/1784999.md) | Wordpress users Disclosure [ /wp-json/wp/v2/users/ ]  Not Resolve | [MTN Group](../by-program/mtn_group.md) | Critical | Resolved | 29 |
 | [1627995](../reports/1627995.md) | SQL injection at [https://█████████] [HtUS] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 29 |
 | [211381](../reports/211381.md) | Remote Code Execution (RCE) in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 29 |
@@ -774,6 +775,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1180380](../reports/1180380.md) | CVE-2021-22901: TLS session caching disaster | [curl](../by-program/curl.md) | High | Resolved | 75 |
 | [2968039](../reports/2968039.md) | Insecure Direct Object Reference (IDOR) in GraphQL deleteProfileI | [Autodesk](../by-program/autodesk.md) | High | Resolved | 75 |
 | [3592387](../reports/3592387.md) | Potential Subdomain Takeover on IBM.com domain. | [IBM](../by-program/ibm.md) | High | Resolved | 75 |
+| [1787644](../reports/1787644.md) | Any organization's assets pending review can be downloaded | [HackerOne](../by-program/security.md) | High — CVSS 8.3 | Resolved | 75 |
 | [2944357](../reports/2944357.md) | Unauthorized Reservation Cancellation Through IDOR Vulnerability | [Yelp](../by-program/yelp.md) | High — CVSS 8.6 | Duplicate | 74 |
 | [423797](../reports/423797.md) | Passive stored XSS at broadcast room | [Chaturbate](../by-program/chaturbate.md) | High — CVSS 8.9 | Resolved | 74 |
 | [3008066](../reports/3008066.md) | Stored XSS in AREA tutorials | [Autodesk](../by-program/autodesk.md) | High — CVSS 8.6 | Resolved | 73 |
