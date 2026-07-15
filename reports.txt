@@ -8270,7 +8270,9 @@ https://hackerone.com/reports/1787810 | Electron CVE-2022-35954 Delimiter Inject
 https://hackerone.com/reports/1788006 | Open Redirect in Logout & Login
 https://hackerone.com/reports/1788222 | Document content of files can be obtained through Collabora for files of other users
 https://hackerone.com/reports/1789602 | Contacts only sanitizes PHOTO svg if mime type is all lower case
+https://hackerone.com/reports/1790444 | HTML injection via insecure parameter [https://www.ubercarshare.com/]
 https://hackerone.com/reports/1791558 | S3 Bucket Takeover : brave-apt
+https://hackerone.com/reports/1791720 | Ad Account Takeover
 https://hackerone.com/reports/1792544 | Security Issue into Wallet lock protection
 https://hackerone.com/reports/1799562 | Reflected XSS on ██████.mil
 https://hackerone.com/reports/1801427 | Information disclosure by sending a GIF
