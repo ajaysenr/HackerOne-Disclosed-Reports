@@ -8280,8 +8280,10 @@ https://hackerone.com/reports/1794462 | Website PHP source code returned in java
 https://hackerone.com/reports/1794757 | Reflective Cross Site Scripting (XSS) on ███████/Pages
 https://hackerone.com/reports/1794884 | Unauthenticated phpinfo()files could lead to ability file read at █████████  [HtUS]
 https://hackerone.com/reports/1797661 | Uninstalling Mattermost Launcher for Windows (64-bit), then reinstalling keeps you logged in without authentication
+https://hackerone.com/reports/1799197 | Reflected cross site scripting (XSS) attacks Reflected XSS attacks, 
 https://hackerone.com/reports/1799562 | Reflected XSS on ██████.mil
 https://hackerone.com/reports/1801427 | Information disclosure by sending a GIF
+https://hackerone.com/reports/1801527 | Delete any LinkedIn comment on learning API of other users
 https://hackerone.com/reports/1803659 | Origin IP address disclosure through Pingora response header
 https://hackerone.com/reports/1804128 | ReDoS (Rails::Html::PermitScrubber.scrub_attribute)
 https://hackerone.com/reports/1804174 | Improper Access Control on Media Wiki allows an attackers to restart installation on DoD asset
