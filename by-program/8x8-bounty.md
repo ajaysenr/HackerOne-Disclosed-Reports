@@ -1,4 +1,4 @@
-# 8x8 — Disclosed Reports (58 total)
+# 8x8 — Disclosed Reports (59 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -41,24 +41,25 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 35 | [1622624](../reports/1622624.md) | Public Apache Tomcat /examples example directory | Medium | — | 17 | [mr-k0anti](https://hackerone.com/mr-k0anti) | 2022-07-18 |
 | 36 | [413115](../reports/413115.md) | CRLF injection agentcrm.8x8.com | Medium | — | 12 | [w2w](https://hackerone.com/w2w) | 2020-06-26 |
 | 37 | [878434](../reports/878434.md) | vidyard api auth_token exposed | Medium | — | 12 | [stilou](https://hackerone.com/stilou) | 2020-12-15 |
-| 38 | [1392733](../reports/1392733.md) | xss(r) vcc-na11.8x8.com | Medium | — | 7 | [ssharmaz](https://hackerone.com/ssharmaz) | 2023-07-10 |
-| 39 | [1400357](../reports/1400357.md) | 8x8pilot.com: Reflected XSS in Apache Tomcat /jsp-examples e | Medium | — | 6 | [huntinex](https://hackerone.com/huntinex) | 2022-05-19 |
-| 40 | [710368](../reports/710368.md) | Publicly accessible .svn repository - aastraconf.packet8.net | Medium | — | 6 | [madrobot](https://hackerone.com/madrobot) | 2020-06-22 |
-| 41 | [808167](../reports/808167.md) | Stored XSS on Company Logo | Medium — CVSS 6.9 | — | 5 | [bugify12334](https://hackerone.com/bugify12334) | 2020-07-07 |
-| 42 | [412754](../reports/412754.md) | XSS (Cross site scripting) on https://apimgr.8x8.com | Medium | — | 4 | [madrobot](https://hackerone.com/madrobot) | 2020-06-09 |
-| 43 | [1365076](../reports/1365076.md) | Information Disclosure of metrics fax.wavecell.com/metrics | Low | — | 90 | [kauenavarro](https://hackerone.com/kauenavarro) | 2025-05-30 |
-| 44 | [1957430](../reports/1957430.md) | Credential leak on GitHub: https://github.com/█/█/ (Peopleso | Low | — | 47 | [pentestor](https://hackerone.com/pentestor) | 2023-04-27 |
-| 45 | [1836339](../reports/1836339.md) | Open Redirect - Polycom Company Directory | Low | — | 27 | [mr-k0anti](https://hackerone.com/mr-k0anti) | 2023-10-17 |
-| 46 | [1607940](../reports/1607940.md) | CVE-2019-11248 on http://█.█.█.█:9100/debug/pprof/goroutine | Low | — | 24 | [mr-k0anti](https://hackerone.com/mr-k0anti) | 2022-07-18 |
-| 47 | [1771051](../reports/1771051.md) | Directory Listing at https://█.█.█.█ | Low | — | 18 | [shuvam321](https://hackerone.com/shuvam321) | 2022-11-18 |
-| 48 | [1825472](../reports/1825472.md) | speedtest.8x8.com: Enabled Directory Listing  | Low | — | 15 | [shriyanss](https://hackerone.com/shriyanss) | 2023-03-28 |
-| 49 | [1637571](../reports/1637571.md) | Open Redirect ███.8x8.com | Low — CVSS 3.8 | — | 15 | [mr-k0anti](https://hackerone.com/mr-k0anti) | 2022-07-17 |
-| 50 | [790846](../reports/790846.md) | Directory Listing vulnerability on █.packet8.net/php/include | Low | — | 14 | [rajauzairabdullah](https://hackerone.com/rajauzairabdullah) | 2022-09-28 |
-| 51 | [1440161](../reports/1440161.md) | Improper Neutralization of Script-Related HTML Tags in a Web | Low | — | 13 | [n1had](https://hackerone.com/n1had) | 2022-01-05 |
-| 52 | [1877185](../reports/1877185.md) | connect.8x8.com: Too much resource consumption of the server | Low | — | 12 | [exhandler](https://hackerone.com/exhandler) | 2023-06-26 |
-| 53 | [1132457](../reports/1132457.md) | Exposed PHP dependencies at ██.8x8.com | Low | — | 10 | [ian](https://hackerone.com/ian) | 2021-10-27 |
-| 54 | [1354066](../reports/1354066.md) | Dangling DNS Record docs.jitsi.net (unsuccessful GSuite take | Low | — | 9 | [bababounty99](https://hackerone.com/bababounty99) | 2023-04-03 |
-| 55 | [1467046](../reports/1467046.md) | Open Redirect on https://██.8x8.com/login?nextPage=%2F | Low | — | 8 | [0x7v](https://hackerone.com/0x7v) | 2022-03-10 |
-| 56 | [879960](../reports/879960.md) | IDOR: Adding Contacts to Other User Groups | Low | — | 6 | [ameyanekar](https://hackerone.com/ameyanekar) | 2020-07-27 |
-| 57 | [907701](../reports/907701.md) | PHPinfo page on  http://█████.callstats.io | Low | — | 6 | [manantch](https://hackerone.com/manantch) | 2020-07-02 |
-| 58 | [929633](../reports/929633.md) | Open Redirect on [blog.wavecell.com] | Low | — | 1 | [melbadry9](https://hackerone.com/melbadry9) | 2020-10-26 |
+| 38 | [1793526](../reports/1793526.md) | Unprotected Atlantis Server at https://152.70.█.█ | Medium | — | 11 | [shuvam321](https://hackerone.com/shuvam321) | 2022-12-06 |
+| 39 | [1392733](../reports/1392733.md) | xss(r) vcc-na11.8x8.com | Medium | — | 7 | [ssharmaz](https://hackerone.com/ssharmaz) | 2023-07-10 |
+| 40 | [1400357](../reports/1400357.md) | 8x8pilot.com: Reflected XSS in Apache Tomcat /jsp-examples e | Medium | — | 6 | [huntinex](https://hackerone.com/huntinex) | 2022-05-19 |
+| 41 | [710368](../reports/710368.md) | Publicly accessible .svn repository - aastraconf.packet8.net | Medium | — | 6 | [madrobot](https://hackerone.com/madrobot) | 2020-06-22 |
+| 42 | [808167](../reports/808167.md) | Stored XSS on Company Logo | Medium — CVSS 6.9 | — | 5 | [bugify12334](https://hackerone.com/bugify12334) | 2020-07-07 |
+| 43 | [412754](../reports/412754.md) | XSS (Cross site scripting) on https://apimgr.8x8.com | Medium | — | 4 | [madrobot](https://hackerone.com/madrobot) | 2020-06-09 |
+| 44 | [1365076](../reports/1365076.md) | Information Disclosure of metrics fax.wavecell.com/metrics | Low | — | 90 | [kauenavarro](https://hackerone.com/kauenavarro) | 2025-05-30 |
+| 45 | [1957430](../reports/1957430.md) | Credential leak on GitHub: https://github.com/█/█/ (Peopleso | Low | — | 47 | [pentestor](https://hackerone.com/pentestor) | 2023-04-27 |
+| 46 | [1836339](../reports/1836339.md) | Open Redirect - Polycom Company Directory | Low | — | 27 | [mr-k0anti](https://hackerone.com/mr-k0anti) | 2023-10-17 |
+| 47 | [1607940](../reports/1607940.md) | CVE-2019-11248 on http://█.█.█.█:9100/debug/pprof/goroutine | Low | — | 24 | [mr-k0anti](https://hackerone.com/mr-k0anti) | 2022-07-18 |
+| 48 | [1771051](../reports/1771051.md) | Directory Listing at https://█.█.█.█ | Low | — | 18 | [shuvam321](https://hackerone.com/shuvam321) | 2022-11-18 |
+| 49 | [1825472](../reports/1825472.md) | speedtest.8x8.com: Enabled Directory Listing  | Low | — | 15 | [shriyanss](https://hackerone.com/shriyanss) | 2023-03-28 |
+| 50 | [1637571](../reports/1637571.md) | Open Redirect ███.8x8.com | Low — CVSS 3.8 | — | 15 | [mr-k0anti](https://hackerone.com/mr-k0anti) | 2022-07-17 |
+| 51 | [790846](../reports/790846.md) | Directory Listing vulnerability on █.packet8.net/php/include | Low | — | 14 | [rajauzairabdullah](https://hackerone.com/rajauzairabdullah) | 2022-09-28 |
+| 52 | [1440161](../reports/1440161.md) | Improper Neutralization of Script-Related HTML Tags in a Web | Low | — | 13 | [n1had](https://hackerone.com/n1had) | 2022-01-05 |
+| 53 | [1877185](../reports/1877185.md) | connect.8x8.com: Too much resource consumption of the server | Low | — | 12 | [exhandler](https://hackerone.com/exhandler) | 2023-06-26 |
+| 54 | [1132457](../reports/1132457.md) | Exposed PHP dependencies at ██.8x8.com | Low | — | 10 | [ian](https://hackerone.com/ian) | 2021-10-27 |
+| 55 | [1354066](../reports/1354066.md) | Dangling DNS Record docs.jitsi.net (unsuccessful GSuite take | Low | — | 9 | [bababounty99](https://hackerone.com/bababounty99) | 2023-04-03 |
+| 56 | [1467046](../reports/1467046.md) | Open Redirect on https://██.8x8.com/login?nextPage=%2F | Low | — | 8 | [0x7v](https://hackerone.com/0x7v) | 2022-03-10 |
+| 57 | [879960](../reports/879960.md) | IDOR: Adding Contacts to Other User Groups | Low | — | 6 | [ameyanekar](https://hackerone.com/ameyanekar) | 2020-07-27 |
+| 58 | [907701](../reports/907701.md) | PHPinfo page on  http://█████.callstats.io | Low | — | 6 | [manantch](https://hackerone.com/manantch) | 2020-07-02 |
+| 59 | [929633](../reports/929633.md) | Open Redirect on [blog.wavecell.com] | Low | — | 1 | [melbadry9](https://hackerone.com/melbadry9) | 2020-10-26 |

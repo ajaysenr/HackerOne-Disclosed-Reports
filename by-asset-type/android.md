@@ -1,4 +1,4 @@
-# Asset Type: Android (99 reports)
+# Asset Type: Android (100 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -85,21 +85,22 @@
 | 79 | [331489](../reports/331489.md) | Extremly simple way to bypass Nextcloud-Client PIN/Fing | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 2.1 | — | 58 |
 | 80 | [1253926](../reports/1253926.md) | Domain Takeover [3737signals.com] | [Basecamp](../by-program/basecamp.md) | com.basecamp.bc3 | Low | — | 47 |
 | 81 | [1784645](../reports/1784645.md) | Passcode bypass on Talk Android app | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.talk2 | Low — CVSS 2.5 | — | 29 |
-| 82 | [289000](../reports/289000.md) | Vulnerable exported broadcast receiver | [Bitwarden](../by-program/bitwarden.md) | com.x8bit.bitwarden | Low | — | 23 |
-| 83 | [486629](../reports/486629.md) | Improper validation allows user to unlock Zomato Gold m | [Eternal](../by-program/eternal.md) | com.application.zomato | Low | — | 22 |
-| 84 | [1222873](../reports/1222873.md) | Sensitive files/ data exists  post deletion of user acc | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 2.1 | — | 20 |
-| 85 | [1596459](../reports/1596459.md) | Talk Android broadcast receiver is not protected by bro | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.talk2 | Low — CVSS 2.6 | — | 19 |
-| 86 | [507172](../reports/507172.md) | Able to bypass "Device credentials" Lock | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 3.8 | — | 12 |
-| 87 | [1455987](../reports/1455987.md) | Improper Implementation of SDK Allows Universal XSS in  | [EXNESS](../by-program/exness.md) | com.exness.investments | Low | — | 11 |
-| 88 | [331302](../reports/331302.md) | Improper protection of FileContentProvider | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low | — | 7 |
-| 89 | [328486](../reports/328486.md) | [Zomato Android/iOS] Theft of user session | [Eternal](../by-program/eternal.md) | com.application.zomato | None | — | 68 |
-| 90 | [1095633](../reports/1095633.md) | [VK Android] Access to app protected components leads t | [VK.com](../by-program/vkcom.md) | com.vkontakte.android | None | — | 43 |
-| 91 | [3399016](../reports/3399016.md) | Improper input validation On Exported deep-link handler | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | None | — | 28 |
-| 92 | [54631](../reports/54631.md) | Vulnerable to JavaScript injection. (WXS)  (Javascript  | [Snapchat](../by-program/snapchat.md) | com.snapchat.android | None | — | 13 |
-| 93 | [792850](../reports/792850.md) | Hard-coded API keys at NordVpn Android App | [Nord Security](../by-program/nordsecurity.md) | com.nordvpn.android | None | — | 11 |
-| 94 | [803941](../reports/803941.md) | NordVPN Android Application privacy violation due to Go | [Nord Security](../by-program/nordsecurity.md) | com.nordvpn.android | None | — | 11 |
-| 95 | [731724](../reports/731724.md) | Firebase Firestore insecure database | [MobiSystems Ltd.](../by-program/mobisystems_ltd.md) | com.mobisystems.msdict.embedded.wireless | None | — | 11 |
-| 96 | [819333](../reports/819333.md) | Mathematical error  found in meals for one | [Eternal](../by-program/eternal.md) | com.application.zomato | None | — | 10 |
-| 97 | [631227](../reports/631227.md) | Some HTML Tags are Getting Executed in com.nextcloud.cl | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | None | — | 9 |
-| 98 | [764558](../reports/764558.md) | Account Takeover with old password and login QR | [BCM Messenger](../by-program/bcm.md) | com.bcm.messenger | None | — | 5 |
-| 99 | [292500](../reports/292500.md) | User provided values passed to PHP unset() function | [Coinbase](../by-program/coinbase.md) | com.coinbase.android | None | — | 1 |
+| 82 | [1793940](../reports/1793940.md) | Any user can vote on `Friend Only` video pull | [TikTok](../by-program/tiktok.md) | com.zhiliaoapp.musically | Low — CVSS 3.1 | — | 26 |
+| 83 | [289000](../reports/289000.md) | Vulnerable exported broadcast receiver | [Bitwarden](../by-program/bitwarden.md) | com.x8bit.bitwarden | Low | — | 23 |
+| 84 | [486629](../reports/486629.md) | Improper validation allows user to unlock Zomato Gold m | [Eternal](../by-program/eternal.md) | com.application.zomato | Low | — | 22 |
+| 85 | [1222873](../reports/1222873.md) | Sensitive files/ data exists  post deletion of user acc | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 2.1 | — | 20 |
+| 86 | [1596459](../reports/1596459.md) | Talk Android broadcast receiver is not protected by bro | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.talk2 | Low — CVSS 2.6 | — | 19 |
+| 87 | [507172](../reports/507172.md) | Able to bypass "Device credentials" Lock | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 3.8 | — | 12 |
+| 88 | [1455987](../reports/1455987.md) | Improper Implementation of SDK Allows Universal XSS in  | [EXNESS](../by-program/exness.md) | com.exness.investments | Low | — | 11 |
+| 89 | [331302](../reports/331302.md) | Improper protection of FileContentProvider | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low | — | 7 |
+| 90 | [328486](../reports/328486.md) | [Zomato Android/iOS] Theft of user session | [Eternal](../by-program/eternal.md) | com.application.zomato | None | — | 68 |
+| 91 | [1095633](../reports/1095633.md) | [VK Android] Access to app protected components leads t | [VK.com](../by-program/vkcom.md) | com.vkontakte.android | None | — | 43 |
+| 92 | [3399016](../reports/3399016.md) | Improper input validation On Exported deep-link handler | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | None | — | 28 |
+| 93 | [54631](../reports/54631.md) | Vulnerable to JavaScript injection. (WXS)  (Javascript  | [Snapchat](../by-program/snapchat.md) | com.snapchat.android | None | — | 13 |
+| 94 | [792850](../reports/792850.md) | Hard-coded API keys at NordVpn Android App | [Nord Security](../by-program/nordsecurity.md) | com.nordvpn.android | None | — | 11 |
+| 95 | [803941](../reports/803941.md) | NordVPN Android Application privacy violation due to Go | [Nord Security](../by-program/nordsecurity.md) | com.nordvpn.android | None | — | 11 |
+| 96 | [731724](../reports/731724.md) | Firebase Firestore insecure database | [MobiSystems Ltd.](../by-program/mobisystems_ltd.md) | com.mobisystems.msdict.embedded.wireless | None | — | 11 |
+| 97 | [819333](../reports/819333.md) | Mathematical error  found in meals for one | [Eternal](../by-program/eternal.md) | com.application.zomato | None | — | 10 |
+| 98 | [631227](../reports/631227.md) | Some HTML Tags are Getting Executed in com.nextcloud.cl | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | None | — | 9 |
+| 99 | [764558](../reports/764558.md) | Account Takeover with old password and login QR | [BCM Messenger](../by-program/bcm.md) | com.bcm.messenger | None | — | 5 |
+| 100 | [292500](../reports/292500.md) | User provided values passed to PHP unset() function | [Coinbase](../by-program/coinbase.md) | com.coinbase.android | None | — | 1 |

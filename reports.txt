@@ -9589,6 +9589,7 @@ https://hackerone.com/reports/3628961 | admin.shopify.com: Shopify Flow continue
 https://hackerone.com/reports/3630310 | HTTP/2 server push accepts a non-authoritative :scheme=https over cleartext h2c, enabling HTTPS cache-key poisoning
 https://hackerone.com/reports/3630605 | Kiro IDE Stores Auth Tokens with World-Readable Permissions (0644)
 https://hackerone.com/reports/3632427 | Unbounded GZIP Decompression Leading to Event-Loop Starvation
+https://hackerone.com/reports/3632577 | Bedrock AgentCore Starter Toolkit Creates Gateway IAM Roles Without Confused Deputy Protections
 https://hackerone.com/reports/3633534 | CRLF Injection in HAProxy PROXY Protocol via CURLOPT_HAPROXY_CLIENT_IP allows IP spoofing and protocol injection
 https://hackerone.com/reports/3634400 | SSRF Filter Bypass via Unblocked NAT64 Local-Use IPv6 Prefix (64:ff9b:1::/48)
 https://hackerone.com/reports/3634571 | Path Traversal in writeFile via Unsafe Prefix Containment Check Allows Out-of-Directory Writes
@@ -9664,6 +9665,7 @@ https://hackerone.com/reports/3710209 | Potential Resource Leak in tool_parsecfg
 https://hackerone.com/reports/3712279 | Burp Suite Professional: browser-powered crawl can write attacker-controlled files through file input handling
 https://hackerone.com/reports/3712343 | MQTT CONNACK Packet Type Bypass leads to RCE via Malicious Broker
 https://hackerone.com/reports/3713682 | IDOR: autotranslate.translateMessage Full Message Content Leak
+https://hackerone.com/reports/3713965 | Able to bypass authorization logic and gain more access then intended
 https://hackerone.com/reports/3717354 | UI Consent Bypass via Comma Injection in `addAutoApproveTarget` — User-Approval Dialog and Persistence Layer Disagree on Target Scope, Yielding Authen
 https://hackerone.com/reports/3717365 | mbedTLS private-key blob null-termination asymmetry in lib/vtls/mbedtls.c (mbed_load_privkey)
 https://hackerone.com/reports/3717552 | CURLOPT_PROXY_CRLFILE / CURLOPT_PROXY_ISSUERCERT / CURLOPT_PROXY_ISSUERCERT_BLOB silently ignored on backends that don't support them

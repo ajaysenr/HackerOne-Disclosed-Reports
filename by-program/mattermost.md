@@ -1,4 +1,4 @@
-# Mattermost — Disclosed Reports (19 total)
+# Mattermost — Disclosed Reports (20 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -22,4 +22,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 16 | [1442017](../reports/1442017.md) | Self XSS in Create New Workspace Screen | Low | — | 42 | [unnamedx](https://hackerone.com/unnamedx) | 2022-02-20 |
 | 17 | [1443567](../reports/1443567.md) | html injection via invite members can be leads account takeo | Low — CVSS 2.0 | — | 37 | [unnamedx](https://hackerone.com/unnamedx) | 2022-03-22 |
 | 18 | [1486820](../reports/1486820.md) | Invitation Email is resent as a Reminder after invalidating  | Low — CVSS 2.6 | — | 30 | [mr_anksec](https://hackerone.com/mr_anksec) | 2022-04-19 |
-| 19 | [1113759](../reports/1113759.md) | [mattermost.com] CORS Misconfiguration leakage of admin user | None | — | 5 | [deb0con](https://hackerone.com/deb0con) | 2021-03-19 |
+| 19 | [1797661](../reports/1797661.md) | Uninstalling Mattermost Launcher for Windows (64-bit), then  | Low | — | 20 | [annonmous](https://hackerone.com/annonmous) | 2023-01-14 |
+| 20 | [1113759](../reports/1113759.md) | [mattermost.com] CORS Misconfiguration leakage of admin user | None | — | 5 | [deb0con](https://hackerone.com/deb0con) | 2021-03-19 |

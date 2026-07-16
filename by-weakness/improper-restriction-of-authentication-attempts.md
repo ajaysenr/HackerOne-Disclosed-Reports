@@ -1,4 +1,4 @@
-# Weakness: Improper Restriction of Authentication Attempts (60 reports)
+# Weakness: Improper Restriction of Authentication Attempts (61 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -50,17 +50,18 @@
 | 44 | [1040471](../reports/1040471.md) | Login page vulnerable to bruteforce attacks via rate limiting byp | [Khan Academy](../by-program/khanacademy.md) | Low | — | 32 |
 | 45 | [1154003](../reports/1154003.md) | Ratelimiting can be bypassed using IPv6 subnets | [Nextcloud](../by-program/nextcloud.md) | Low | — | 23 |
 | 46 | [948146](../reports/948146.md) | Rate limiting on report video | [TikTok](../by-program/tiktok.md) | Low | — | 22 |
-| 47 | [1165225](../reports/1165225.md) | [dubsmash] Username and password bruteforce | [Reddit](../by-program/reddit.md) | Low — CVSS 3.9 | — | 18 |
-| 48 | [1894653](../reports/1894653.md) | Missing brute force protection for passwords of password protecte | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.1 | — | 17 |
-| 49 | [412526](../reports/412526.md) | No rate limit in stats api token endpoint | [Chaturbate](../by-program/chaturbate.md) | Low | — | 15 |
-| 50 | [2039447](../reports/2039447.md) | Entering passwords on the Share Login Page can lead to a brute-fo | [Automattic](../by-program/automattic.md) | Low | — | 15 |
-| 51 | [413505](../reports/413505.md) | No rate limit in affiliate statsapi endpoint | [Chaturbate](../by-program/chaturbate.md) | Low | — | 14 |
-| 52 | [229825](../reports/229825.md) | Rate Limit Issue on hosted.weblate.org | [Weblate](../by-program/weblate.md) | Low | — | 10 |
-| 53 | [1165285](../reports/1165285.md) | No Rate limit on change password leads to account takeover | [Reddit](../by-program/reddit.md) | Low | — | 8 |
-| 54 | [517711](../reports/517711.md) | Bypassing the SMS sending limit for download app link. | [Eternal](../by-program/eternal.md) | Low | — | 7 |
-| 55 | [897556](../reports/897556.md) | SSH port on store.greenhouse.io is vulnerable to brute force atta | [Greenhouse.io](../by-program/greenhouse.md) | Low | — | 7 |
-| 56 | [269318](../reports/269318.md) | Bypass of Rate limiting in secure_session endpoint's password inp | [Moneybird](../by-program/moneybird.md) | None | — | 18 |
-| 57 | [265706](../reports/265706.md) | [rt.torproject.org] No Rate Limitting on Login Form | [Tor](../by-program/torproject.md) | None | — | 9 |
-| 58 | [1238749](../reports/1238749.md) | No rate Limit on Add new Translation Project  | [Weblate](../by-program/weblate.md) | None | — | 8 |
-| 59 | [855304](../reports/855304.md) | No set limit to try to login in "https://auth.nextcloud.com/auth/ | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
-| 60 | [1065583](../reports/1065583.md) | Hackyholidays CTF writeup | [h1-ctf](../by-program/h1-ctf.md) | None | — | 2 |
+| 47 | [1797661](../reports/1797661.md) | Uninstalling Mattermost Launcher for Windows (64-bit), then reins | [Mattermost](../by-program/mattermost.md) | Low | — | 20 |
+| 48 | [1165225](../reports/1165225.md) | [dubsmash] Username and password bruteforce | [Reddit](../by-program/reddit.md) | Low — CVSS 3.9 | — | 18 |
+| 49 | [1894653](../reports/1894653.md) | Missing brute force protection for passwords of password protecte | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.1 | — | 17 |
+| 50 | [412526](../reports/412526.md) | No rate limit in stats api token endpoint | [Chaturbate](../by-program/chaturbate.md) | Low | — | 15 |
+| 51 | [2039447](../reports/2039447.md) | Entering passwords on the Share Login Page can lead to a brute-fo | [Automattic](../by-program/automattic.md) | Low | — | 15 |
+| 52 | [413505](../reports/413505.md) | No rate limit in affiliate statsapi endpoint | [Chaturbate](../by-program/chaturbate.md) | Low | — | 14 |
+| 53 | [229825](../reports/229825.md) | Rate Limit Issue on hosted.weblate.org | [Weblate](../by-program/weblate.md) | Low | — | 10 |
+| 54 | [1165285](../reports/1165285.md) | No Rate limit on change password leads to account takeover | [Reddit](../by-program/reddit.md) | Low | — | 8 |
+| 55 | [517711](../reports/517711.md) | Bypassing the SMS sending limit for download app link. | [Eternal](../by-program/eternal.md) | Low | — | 7 |
+| 56 | [897556](../reports/897556.md) | SSH port on store.greenhouse.io is vulnerable to brute force atta | [Greenhouse.io](../by-program/greenhouse.md) | Low | — | 7 |
+| 57 | [269318](../reports/269318.md) | Bypass of Rate limiting in secure_session endpoint's password inp | [Moneybird](../by-program/moneybird.md) | None | — | 18 |
+| 58 | [265706](../reports/265706.md) | [rt.torproject.org] No Rate Limitting on Login Form | [Tor](../by-program/torproject.md) | None | — | 9 |
+| 59 | [1238749](../reports/1238749.md) | No rate Limit on Add new Translation Project  | [Weblate](../by-program/weblate.md) | None | — | 8 |
+| 60 | [855304](../reports/855304.md) | No set limit to try to login in "https://auth.nextcloud.com/auth/ | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
+| 61 | [1065583](../reports/1065583.md) | Hackyholidays CTF writeup | [h1-ctf](../by-program/h1-ctf.md) | None | — | 2 |

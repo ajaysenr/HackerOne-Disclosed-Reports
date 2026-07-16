@@ -1,4 +1,4 @@
-# TikTok — Disclosed Reports (73 total)
+# TikTok — Disclosed Reports (74 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -71,9 +71,10 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 65 | [1378533](../reports/1378533.md) | Open Redirect TO  Stealing aadvid | Low — CVSS 3.1 | — | 31 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2022-03-02 |
 | 66 | [1133661](../reports/1133661.md) | TikTok Session Donation CSRF via QR code login | Low — CVSS 3.1 | — | 30 | [lauritz](https://hackerone.com/lauritz) | 2021-06-17 |
 | 67 | [1509057](../reports/1509057.md) | IDOR on TikTok Seller | Low — CVSS 3.7 | — | 30 | [find_me_here](https://hackerone.com/find_me_here) | 2022-08-16 |
-| 68 | [1006599](../reports/1006599.md) | Blind SSRF in ads.tiktok.com | Low — CVSS 3.7 | — | 23 | [chihuahua](https://hackerone.com/chihuahua) | 2020-12-17 |
-| 69 | [948146](../reports/948146.md) | Rate limiting on report video | Low | — | 22 | [alertjd](https://hackerone.com/alertjd) | 2021-02-02 |
-| 70 | [1610316](../reports/1610316.md) | Improper user validation on mentions and hashtags | Low — CVSS 3.5 | — | 15 | [rektile404](https://hackerone.com/rektile404) | 2023-06-22 |
-| 71 | [1249050](../reports/1249050.md) | Information Disclosure on TikTok Unplugged Site | Low — CVSS 3.7 | — | 11 | [nanwn](https://hackerone.com/nanwn) | 2021-08-13 |
-| 72 | [1478930](../reports/1478930.md) | Instance Page DOS  within Organization on TikTok Ads | Low | — | 3 | [arsene_lupin](https://hackerone.com/arsene_lupin) | 2022-03-17 |
-| 73 | [1504294](../reports/1504294.md) | Impersonation of tiktok account via Broken Link in TikTok Ne | None | — | 10 | [bushido-x](https://hackerone.com/bushido-x) | 2022-03-24 |
+| 68 | [1793940](../reports/1793940.md) | Any user can vote on `Friend Only` video pull | Low — CVSS 3.1 | — | 26 | [mrhavit](https://hackerone.com/mrhavit) | 2023-01-27 |
+| 69 | [1006599](../reports/1006599.md) | Blind SSRF in ads.tiktok.com | Low — CVSS 3.7 | — | 23 | [chihuahua](https://hackerone.com/chihuahua) | 2020-12-17 |
+| 70 | [948146](../reports/948146.md) | Rate limiting on report video | Low | — | 22 | [alertjd](https://hackerone.com/alertjd) | 2021-02-02 |
+| 71 | [1610316](../reports/1610316.md) | Improper user validation on mentions and hashtags | Low — CVSS 3.5 | — | 15 | [rektile404](https://hackerone.com/rektile404) | 2023-06-22 |
+| 72 | [1249050](../reports/1249050.md) | Information Disclosure on TikTok Unplugged Site | Low — CVSS 3.7 | — | 11 | [nanwn](https://hackerone.com/nanwn) | 2021-08-13 |
+| 73 | [1478930](../reports/1478930.md) | Instance Page DOS  within Organization on TikTok Ads | Low | — | 3 | [arsene_lupin](https://hackerone.com/arsene_lupin) | 2022-03-17 |
+| 74 | [1504294](../reports/1504294.md) | Impersonation of tiktok account via Broken Link in TikTok Ne | None | — | 10 | [bushido-x](https://hackerone.com/bushido-x) | 2022-03-24 |
