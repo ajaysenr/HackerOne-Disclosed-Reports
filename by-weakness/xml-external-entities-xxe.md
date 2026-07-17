@@ -14,8 +14,8 @@
 | 8 | [715949](../reports/715949.md) | [HTA2] XXE on https://███ via SpellCheck Endpoint. | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical — CVSS 9.1 | — | 36 |
 | 9 | [188743](../reports/188743.md) | XXE on DoD web server | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 36 |
 | 10 | [1321070](../reports/1321070.md) | AEM forms XXE Vulnerability | [Adobe](../by-program/adobe.md) | Critical — CVSS 9.8 | — | 18 |
-| 11 | [1218708](../reports/1218708.md) | HackerOne’s 100K CTF Writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical — CVSS 9.3 | — | 15 |
-| 12 | [415202](../reports/415202.md) | Flag WriteUp | [h1-5411-CTF](../by-program/h1-5411-ctf.md) | Critical | — | 15 |
+| 11 | [415202](../reports/415202.md) | Flag WriteUp | [h1-5411-CTF](../by-program/h1-5411-ctf.md) | Critical | — | 15 |
+| 12 | [1218708](../reports/1218708.md) | HackerOne’s 100K CTF Writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical — CVSS 9.3 | — | 15 |
 | 13 | [1156748](../reports/1156748.md) | XXE in Enterprise Search's App Search web crawler | [Elastic](../by-program/elastic.md) | Critical — CVSS 9.1 | — | 9 |
 | 14 | [486732](../reports/486732.md) | Partial bypass of #483774 with Blind XXE on https://duckduckgo.co | [DuckDuckGo](../by-program/duckduckgo.md) | High | — | 158 |
 | 15 | [762251](../reports/762251.md) | Singapore - XXE at https://www.starbucks.com.sg/RestApi/soap11 | [Starbucks](../by-program/starbucks.md) | High — CVSS 7.5 | — | 32 |

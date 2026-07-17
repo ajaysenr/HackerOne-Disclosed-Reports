@@ -28,8 +28,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 22 | [237357](../reports/237357.md) | CRLF Injection at vpn.bitstrips.com | Medium | — | 24 | [wplus](https://hackerone.com/wplus) | 2017-06-15 |
 | 23 | [196222](../reports/196222.md) | RTLO char allowed in chat | Medium | — | 18 | [kontez](https://hackerone.com/kontez) | 2017-02-28 |
 | 24 | [2018615](../reports/2018615.md) | HTML injection on newsroom.snap.com/* via search?q=1 | Low | — | 54 | [jotita3](https://hackerone.com/jotita3) | 2023-08-14 |
-| 25 | [1626281](../reports/1626281.md) | Password reset tokens sent to CSP reporting endpoints | Low | — | 26 | [mahfujwhh](https://hackerone.com/mahfujwhh) | 2022-08-31 |
-| 26 | [1103448](../reports/1103448.md) | Organization Members in Snap Kit may Deactivate Apps | Low | — | 26 | [poneglyph](https://hackerone.com/poneglyph) | 2021-08-26 |
+| 25 | [1103448](../reports/1103448.md) | Organization Members in Snap Kit may Deactivate Apps | Low | — | 26 | [poneglyph](https://hackerone.com/poneglyph) | 2021-08-26 |
+| 26 | [1626281](../reports/1626281.md) | Password reset tokens sent to CSP reporting endpoints | Low | — | 26 | [mahfujwhh](https://hackerone.com/mahfujwhh) | 2022-08-31 |
 | 27 | [530974](../reports/530974.md) | Server-Side Request Forgery using Javascript allows to exfil | None | — | 416 | [nahamsec](https://hackerone.com/nahamsec) | 2020-11-30 |
 | 28 | [125849](../reports/125849.md) | XSS found on Snapchat website | None | — | 38 | [esnard](https://hackerone.com/esnard) | 2018-05-26 |
 | 29 | [168476](../reports/168476.md) | Incoming email hijacking on sc-cdn.net | None | — | 24 | [rubyroobs](https://hackerone.com/rubyroobs) | 2016-09-23 |

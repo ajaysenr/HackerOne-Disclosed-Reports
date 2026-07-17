@@ -12,8 +12,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 6 | [1009046](../reports/1009046.md) | Able to use 'PREMIUM TEMPLATES' in 'FREE PLAN' at [https://m | High | — | 51 | [xploiterr](https://hackerone.com/xploiterr) | 2021-01-25 |
 | 7 | [751299](../reports/751299.md) | Improper Authorization | High | — | 20 | [abdellah29](https://hackerone.com/abdellah29) | 2020-02-03 |
 | 8 | [737169](../reports/737169.md) | Bypass email verification and create email template with the | High | — | 18 | [aishkendle](https://hackerone.com/aishkendle) | 2019-12-19 |
-| 9 | [777651](../reports/777651.md) | HTTP Request Smuggling on my.stripo.email | High | — | 15 | [codeslayer1337](https://hackerone.com/codeslayer1337) | 2020-04-10 |
-| 10 | [1166993](../reports/1166993.md) | Ability to use premium templates as free user via https://st | High | — | 15 | [20kilograma](https://hackerone.com/20kilograma) | 2022-03-30 |
+| 9 | [1166993](../reports/1166993.md) | Ability to use premium templates as free user via https://st | High | — | 15 | [20kilograma](https://hackerone.com/20kilograma) | 2022-03-30 |
+| 10 | [777651](../reports/777651.md) | HTTP Request Smuggling on my.stripo.email | High | — | 15 | [codeslayer1337](https://hackerone.com/codeslayer1337) | 2020-04-10 |
 | 11 | [915541](../reports/915541.md) | Cross-Site WebSocket Hijacking Lead to Steal XSRF-TOKEN | High | — | 13 | [0xwise](https://hackerone.com/0xwise) | 2020-07-27 |
 | 12 | [763458](../reports/763458.md) | Email verification bypasa | High | — | 5 | [veejeey_](https://hackerone.com/veejeey_) | 2020-03-24 |
 | 13 | [714521](../reports/714521.md) | stripo.email reflected xss | Medium | — | 70 | [trazer](https://hackerone.com/trazer) | 2019-12-26 |
@@ -29,8 +29,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 23 | [764122](../reports/764122.md) | No Rate Limiting on /reset-password-request/ endpoint | Medium | — | 14 | [tess](https://hackerone.com/tess) | 2020-02-04 |
 | 24 | [1613714](../reports/1613714.md) | Non-revoked API Key Information disclosure via Stripo_report | Medium | — | 13 | [deb0con](https://hackerone.com/deb0con) | 2022-08-25 |
 | 25 | [996371](../reports/996371.md) | Stored XSS at "Conditions "  through "My Custom Rule" Field  | Medium | — | 13 | [xploiterr](https://hackerone.com/xploiterr) | 2020-12-24 |
-| 26 | [761382](../reports/761382.md) | stripo blog search  SQL Injection | Medium | — | 12 | [bluebridsec](https://hackerone.com/bluebridsec) | 2020-01-30 |
-| 27 | [753386](../reports/753386.md) | No CSRF Protection in Resend Confirmation Email feature lead | Medium — CVSS 6.3 | — | 12 | [whoisbinit](https://hackerone.com/whoisbinit) | 2020-09-08 |
+| 26 | [753386](../reports/753386.md) | No CSRF Protection in Resend Confirmation Email feature lead | Medium — CVSS 6.3 | — | 12 | [whoisbinit](https://hackerone.com/whoisbinit) | 2020-09-08 |
+| 27 | [761382](../reports/761382.md) | stripo blog search  SQL Injection | Medium | — | 12 | [bluebridsec](https://hackerone.com/bluebridsec) | 2020-01-30 |
 | 28 | [1709815](../reports/1709815.md) | Non-revoked API Key Disclosure in a Disclosed API Key Disclo | Medium | — | 12 | [sankalpa_1337](https://hackerone.com/sankalpa_1337) | 2024-02-15 |
 | 29 | [738553](../reports/738553.md) | SSRF in /cabinet/stripeapi/v1/siteInfoLookup?url=XXX | Medium — CVSS 5.3 | — | 11 | [eliel](https://hackerone.com/eliel) | 2019-12-18 |
 | 30 | [1055503](../reports/1055503.md) | No rate limiting for confirmation email lead to huge Mass ma | Medium | — | 9 | [buggfuzz1](https://hackerone.com/buggfuzz1) | 2020-12-11 |

@@ -41,15 +41,15 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 35 | [249234](../reports/249234.md) | Posting to Twitter CSRF on php/post_twitter_authenticate.php | Low | $50 | 15 | [kuromatae](https://hackerone.com/kuromatae) | 2017-08-19 |
 | 36 | [169699](../reports/169699.md) | CSRF in the "Add restaurant picture" function | None | $50 | 8 | [0xamir](https://hackerone.com/0xamir) | 2017-09-14 |
 | 37 | [771666](../reports/771666.md) | Stealing Zomato X-Access-Token: in Bulk using HTTP Request S | Critical — CVSS 9.8 | — | 557 | [defparam](https://hackerone.com/defparam) | 2020-07-09 |
-| 38 | [202921](../reports/202921.md) | Unauthorised Access to Anyone's User Account | Critical | — | 32 | [bhavukjain1](https://hackerone.com/bhavukjain1) | 2017-03-28 |
-| 39 | [271224](../reports/271224.md) | SSRF in https://www.zomato.com████ allows reading local file | Critical — CVSS 9.8 | — | 32 | [adibou](https://hackerone.com/adibou) | 2018-02-28 |
+| 38 | [271224](../reports/271224.md) | SSRF in https://www.zomato.com████ allows reading local file | Critical — CVSS 9.8 | — | 32 | [adibou](https://hackerone.com/adibou) | 2018-02-28 |
+| 39 | [202921](../reports/202921.md) | Unauthorised Access to Anyone's User Account | Critical | — | 32 | [bhavukjain1](https://hackerone.com/bhavukjain1) | 2017-03-28 |
 | 40 | [246412](../reports/246412.md) | SQL Injection, exploitable in boolean mode | Critical — CVSS 9.0 | — | 20 | [securitygab](https://hackerone.com/securitygab) | 2017-07-19 |
 | 41 | [252043](../reports/252043.md) | Restaurant payment information leakage | Critical | — | 15 | [adibou](https://hackerone.com/adibou) | 2017-08-24 |
 | 42 | [403783](../reports/403783.md) | [www.zomato.com] Tampering with Order Quantity and paying le | High | — | 76 | [akhil-reni](https://hackerone.com/akhil-reni) | 2018-09-17 |
 | 43 | [269937](../reports/269937.md) | [www.zomato.com] IDOR - Leaking all Personal Details of all  | High — CVSS 7.5 | — | 32 | [prateek_0490](https://hackerone.com/prateek_0490) | 2017-10-27 |
 | 44 | [180388](../reports/180388.md) | takeover a lot of accounts | High | — | 15 | [yipman](https://hackerone.com/yipman) | 2017-03-08 |
-| 45 | [255651](../reports/255651.md) | Unauthorized update of merchants' information via /php/merch | High | — | 13 | [adibou](https://hackerone.com/adibou) | 2017-09-19 |
-| 46 | [247158](../reports/247158.md) | Bypass OTP verification when placing Order | High | — | 13 | [madrobot](https://hackerone.com/madrobot) | 2017-08-09 |
+| 45 | [247158](../reports/247158.md) | Bypass OTP verification when placing Order | High | — | 13 | [madrobot](https://hackerone.com/madrobot) | 2017-08-09 |
+| 46 | [255651](../reports/255651.md) | Unauthorized update of merchants' information via /php/merch | High | — | 13 | [adibou](https://hackerone.com/adibou) | 2017-09-19 |
 | 47 | [200355](../reports/200355.md) | MailPoet Newsletters <= 2.7.2 - Authenticated Reflected Cros | High | — | 4 | [madrobot](https://hackerone.com/madrobot) | 2017-06-17 |
 | 48 | [120941](../reports/120941.md) | NexTable: Credentials exposure | High — CVSS 8.5 | — | 3 | [mrtuxracer](https://hackerone.com/mrtuxracer) | 2017-06-30 |
 | 49 | [511044](../reports/511044.md) | [www.zomato.com] Availing Zomato Gold membership for free by | Medium — CVSS 6.5 | — | 229 | [pasw](https://hackerone.com/pasw) | 2019-03-18 |
@@ -85,25 +85,25 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 79 | [156182](../reports/156182.md) | Visibility  Robots.txt file | None | — | 10 | [akshay_raj](https://hackerone.com/akshay_raj) | 2017-05-18 |
 | 80 | [137905](../reports/137905.md) | Reflected XSS on business-blog.zomato.com - Part I | None | — | 10 | [dsopas](https://hackerone.com/dsopas) | 2017-06-18 |
 | 81 | [139981](../reports/139981.md) | XSS onmouseover  | None | — | 9 | [idomin](https://hackerone.com/idomin) | 2016-08-02 |
-| 82 | [145246](../reports/145246.md) | Stored Cross site scripting | None | — | 9 | [amirisme](https://hackerone.com/amirisme) | 2016-06-28 |
-| 83 | [114127](../reports/114127.md) | Twitter Disconnect CSRF | None | — | 9 | [hussain_0x3c](https://hackerone.com/hussain_0x3c) | 2016-09-30 |
+| 82 | [114127](../reports/114127.md) | Twitter Disconnect CSRF | None | — | 9 | [hussain_0x3c](https://hackerone.com/hussain_0x3c) | 2016-09-30 |
+| 83 | [145246](../reports/145246.md) | Stored Cross site scripting | None | — | 9 | [amirisme](https://hackerone.com/amirisme) | 2016-06-28 |
 | 84 | [155228](../reports/155228.md) | Outdated MediaElement.js Reflected Cross-Site Scripting (XSS | None | — | 6 | [mrtn](https://hackerone.com/mrtn) | 2018-04-02 |
 | 85 | [114631](../reports/114631.md) | Several XSS affecting Zomato.com and developers.zomato.com | None | — | 5 | [harrymg](https://hackerone.com/harrymg) | 2016-08-02 |
-| 86 | [113857](../reports/113857.md) | CSRF AT SELECTING ZAMATO HANDLE | None | — | 5 | [kiraak-boy](https://hackerone.com/kiraak-boy) | 2016-03-18 |
-| 87 | [137906](../reports/137906.md) | Reflected XSS on business-blog.zomato.com - Part 2 | None | — | 5 | [dsopas](https://hackerone.com/dsopas) | 2017-06-18 |
+| 86 | [137906](../reports/137906.md) | Reflected XSS on business-blog.zomato.com - Part 2 | None | — | 5 | [dsopas](https://hackerone.com/dsopas) | 2017-06-18 |
+| 87 | [113857](../reports/113857.md) | CSRF AT SELECTING ZAMATO HANDLE | None | — | 5 | [kiraak-boy](https://hackerone.com/kiraak-boy) | 2016-03-18 |
 | 88 | [113865](../reports/113865.md) | CSRF AT INVITING PEOPLE THOUGH PHONE NUMBER | None | — | 5 | [kiraak-boy](https://hackerone.com/kiraak-boy) | 2016-09-14 |
-| 89 | [124151](../reports/124151.md) | Authentication Bypassing and Sensitive Information Disclosur | None | — | 4 | [vivek-p](https://hackerone.com/vivek-p) | 2016-05-28 |
-| 90 | [113869](../reports/113869.md) | Subdomain Takeover  | None | — | 4 | [kiraak-boy](https://hackerone.com/kiraak-boy) | 2016-03-09 |
-| 91 | [114879](../reports/114879.md) | Persistent input validation mail encoding vulnerability  in  | None | — | 4 | [pr0tagon1st](https://hackerone.com/pr0tagon1st) | 2016-04-07 |
-| 92 | [138262](../reports/138262.md) | Reflected Cross-Site Scripting in www.zomato.com/php/instagr | None | — | 4 | [dejavuln](https://hackerone.com/dejavuln) | 2016-06-16 |
-| 93 | [115036](../reports/115036.md) | Weak Password Policy | None | — | 4 | [mugeesahmed](https://hackerone.com/mugeesahmed) | 2016-03-13 |
+| 89 | [138262](../reports/138262.md) | Reflected Cross-Site Scripting in www.zomato.com/php/instagr | None | — | 4 | [dejavuln](https://hackerone.com/dejavuln) | 2016-06-16 |
+| 90 | [115036](../reports/115036.md) | Weak Password Policy | None | — | 4 | [mugeesahmed](https://hackerone.com/mugeesahmed) | 2016-03-13 |
+| 91 | [113869](../reports/113869.md) | Subdomain Takeover  | None | — | 4 | [kiraak-boy](https://hackerone.com/kiraak-boy) | 2016-03-09 |
+| 92 | [114879](../reports/114879.md) | Persistent input validation mail encoding vulnerability  in  | None | — | 4 | [pr0tagon1st](https://hackerone.com/pr0tagon1st) | 2016-04-07 |
+| 93 | [124151](../reports/124151.md) | Authentication Bypassing and Sensitive Information Disclosur | None | — | 4 | [vivek-p](https://hackerone.com/vivek-p) | 2016-05-28 |
 | 94 | [143294](../reports/143294.md) | XSS on zomato.com | None | — | 3 | [spam404](https://hackerone.com/spam404) | 2016-08-14 |
 | 95 | [125762](../reports/125762.md) | Reflected XSS on Zomato API | None | — | 2 | [murat](https://hackerone.com/murat) | 2016-05-27 |
-| 96 | [337219](../reports/337219.md) | URL is vulnerable to clickjacking | None | — | 2 | [hacker_one_one](https://hackerone.com/hacker_one_one) | 2018-04-14 |
+| 96 | [114151](../reports/114151.md) | Cross Site Scripting - type Patameter | None | — | 2 | [thsa](https://hackerone.com/thsa) | 2016-03-06 |
 | 97 | [145686](../reports/145686.md) | CSS | None | — | 2 | [top](https://hackerone.com/top) | 2017-05-18 |
-| 98 | [114151](../reports/114151.md) | Cross Site Scripting - type Patameter | None | — | 2 | [thsa](https://hackerone.com/thsa) | 2016-03-06 |
-| 99 | [123005](../reports/123005.md) | Persistent XSS on Reservation / Booking Page | None | — | 1 | [murat](https://hackerone.com/murat) | 2016-05-27 |
-| 100 | [143265](../reports/143265.md) | Unvalidated redirect on user profile website | None | — | 1 | [roshanpty](https://hackerone.com/roshanpty) | 2017-05-18 |
-| 101 | [115248](../reports/115248.md) | XSS and CSRF in Zomato Contact form | None | — | 1 | [vibs123i](https://hackerone.com/vibs123i) | 2016-05-24 |
-| 102 | [114389](../reports/114389.md) | Remote File Upload Vulnerability in business-blog.zomato.com | None | — | 1 | [missoum1307](https://hackerone.com/missoum1307) | 2016-03-06 |
+| 98 | [337219](../reports/337219.md) | URL is vulnerable to clickjacking | None | — | 2 | [hacker_one_one](https://hackerone.com/hacker_one_one) | 2018-04-14 |
+| 99 | [114389](../reports/114389.md) | Remote File Upload Vulnerability in business-blog.zomato.com | None | — | 1 | [missoum1307](https://hackerone.com/missoum1307) | 2016-03-06 |
+| 100 | [123005](../reports/123005.md) | Persistent XSS on Reservation / Booking Page | None | — | 1 | [murat](https://hackerone.com/murat) | 2016-05-27 |
+| 101 | [143265](../reports/143265.md) | Unvalidated redirect on user profile website | None | — | 1 | [roshanpty](https://hackerone.com/roshanpty) | 2017-05-18 |
+| 102 | [115248](../reports/115248.md) | XSS and CSRF in Zomato Contact form | None | — | 1 | [vibs123i](https://hackerone.com/vibs123i) | 2016-05-24 |
 | 103 | [115402](../reports/115402.md) | XSS via modified Zomato widget (res_search_widget.php) | None | — | 0 | [pr0tagon1st](https://hackerone.com/pr0tagon1st) | 2016-03-11 |

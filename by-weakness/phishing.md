@@ -18,8 +18,8 @@
 | 12 | [1124540](../reports/1124540.md) | Login CSRF : Login Authentication Flaw on  https://liberapay.com/ | [Liberapay](../by-program/liberapay.md) | Low | — | 44 |
 | 13 | [1082991](../reports/1082991.md) | Webview address bar spoofing in LINE client for iOS | [LY Corporation](../by-program/line.md) | Low | — | 36 |
 | 14 | [1128701](../reports/1128701.md) | Lack warning label when receiving a letter | [HackerOne](../by-program/security.md) | Low — CVSS 3.1 | — | 33 |
-| 15 | [785243](../reports/785243.md) | Twitter Source Label allow 'mongolian vowel separator' U+180E (ap | [X / xAI](../by-program/x.md) | Low | — | 19 |
-| 16 | [515574](../reports/515574.md) | Unclaimed Github Repository Takeover on https://www.data.gov/labs | [GSA Bounty](../by-program/gsa_bbp.md) | Low | — | 19 |
+| 15 | [515574](../reports/515574.md) | Unclaimed Github Repository Takeover on https://www.data.gov/labs | [GSA Bounty](../by-program/gsa_bbp.md) | Low | — | 19 |
+| 16 | [785243](../reports/785243.md) | Twitter Source Label allow 'mongolian vowel separator' U+180E (ap | [X / xAI](../by-program/x.md) | Low | — | 19 |
 | 17 | [384101](../reports/384101.md) | Go.imgur.com can be used to phish for account information | [Imgur](../by-program/imgur.md) | Low | — | 18 |
 | 18 | [1390782](../reports/1390782.md) | Possible Domain Takeover on AWS Instance. | [Rocket.Chat](../by-program/rocket_chat.md) | Low | — | 9 |
 | 19 | [325827](../reports/325827.md) | Content Spoofing or Text Injection support.mycrypto.com | [MyCrypto](../by-program/mycrypto.md) | Low | — | 7 |

@@ -23,18 +23,18 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 17 | [3650504](../reports/3650504.md) | Missing access control when linking banners or campaigns to  | Medium — CVSS 4.3 | — | 11 | [darky_os](https://hackerone.com/darky_os) | 2026-06-03 |
 | 18 | [3650582](../reports/3650582.md) | Missing access control when linking trackers to campaigns | Medium — CVSS 4.3 | — | 8 | [darky_os](https://hackerone.com/darky_os) | 2026-06-03 |
 | 19 | [1097979](../reports/1097979.md) | Reflected XSS on /admin/campaign-zone-zones.php | Medium | — | 7 | [solov9ev](https://hackerone.com/solov9ev) | 2021-03-16 |
-| 20 | [3653316](../reports/3653316.md) | Reflected XSS via clientid parameter in zone‑include.php | Medium — CVSS 6.1 | — | 5 | [titanrain](https://hackerone.com/titanrain) | 2026-06-03 |
+| 20 | [3780806](../reports/3780806.md) | Reflected XSS via unsanitised refresh parameter in zone invo | Medium — CVSS 6.1 | — | 5 | [kanon4](https://hackerone.com/kanon4) | 2026-06-25 |
 | 21 | [3669623](../reports/3669623.md) | Stored XSS via Full Name field in userlog email entries | Medium — CVSS 5.4 | — | 5 | [3l4](https://hackerone.com/3l4) | 2026-06-03 |
-| 22 | [3780806](../reports/3780806.md) | Reflected XSS via unsanitised refresh parameter in zone invo | Medium — CVSS 6.1 | — | 5 | [kanon4](https://hackerone.com/kanon4) | 2026-06-25 |
+| 22 | [3653316](../reports/3653316.md) | Reflected XSS via clientid parameter in zone‑include.php | Medium — CVSS 6.1 | — | 5 | [titanrain](https://hackerone.com/titanrain) | 2026-06-03 |
 | 23 | [3783738](../reports/3783738.md) | XML‑RPC login leak exposes valid session ID enabling unautho | Medium — CVSS 4.3 | — | 4 | [garuthacktvist](https://hackerone.com/garuthacktvist) | 2026-06-25 |
 | 24 | [3780709](../reports/3780709.md) | Missing ownership validation allows cross‑manager tracker–ca | Medium — CVSS 4.3 | — | 3 | [hakuopi](https://hackerone.com/hakuopi) | 2026-06-25 |
 | 25 | [3781311](../reports/3781311.md) | Stored XSS in maintenance tools via unescaped entity names | Medium — CVSS 4.4 | — | 3 | [an_gr_y](https://hackerone.com/an_gr_y) | 2026-06-25 |
-| 26 | [3672641](../reports/3672641.md) | Session ID reuse allowing XML‑RPC API authentication bypass | Medium — CVSS 4.3 | — | 2 | [0x4c616e](https://hackerone.com/0x4c616e) | 2026-06-03 |
+| 26 | [3678828](../reports/3678828.md) | Banner status override by advertiser‑level users | Medium — CVSS 4.3 | — | 2 | [v3rtical](https://hackerone.com/v3rtical) | 2026-06-03 |
 | 27 | [3781691](../reports/3781691.md) | CSRF in zone‑include.php allows unauthorized banner and camp | Medium — CVSS 5.4 | — | 2 | [an_gr_y](https://hackerone.com/an_gr_y) | 2026-06-25 |
 | 28 | [3677576](../reports/3677576.md) | Missing access control when modifying parent entities via XM | Medium — CVSS 4.3 | — | 2 | [3l4](https://hackerone.com/3l4) | 2026-06-03 |
-| 29 | [3678828](../reports/3678828.md) | Banner status override by advertiser‑level users | Medium — CVSS 4.3 | — | 2 | [v3rtical](https://hackerone.com/v3rtical) | 2026-06-03 |
-| 30 | [1081406](../reports/1081406.md) | Open redirect in ck.php and lg.php | Medium — CVSS 5.4 | — | 1 | [mbeccati](https://hackerone.com/mbeccati) | 2021-01-20 |
-| 31 | [3793243](../reports/3793243.md) | Reflected XSS in stats‑video.php via improperly encoded URL  | Medium — CVSS 4.7 | — | 1 | [kanon4](https://hackerone.com/kanon4) | 2026-06-25 |
+| 29 | [3672641](../reports/3672641.md) | Session ID reuse allowing XML‑RPC API authentication bypass | Medium — CVSS 4.3 | — | 2 | [0x4c616e](https://hackerone.com/0x4c616e) | 2026-06-03 |
+| 30 | [3793243](../reports/3793243.md) | Reflected XSS in stats‑video.php via improperly encoded URL  | Medium — CVSS 4.7 | — | 1 | [kanon4](https://hackerone.com/kanon4) | 2026-06-25 |
+| 31 | [1081406](../reports/1081406.md) | Open redirect in ck.php and lg.php | Medium — CVSS 5.4 | — | 1 | [mbeccati](https://hackerone.com/mbeccati) | 2021-01-20 |
 | 32 | [792895](../reports/792895.md) | bypass old password with array in /admin/account-user-email. | Low | — | 22 | [hoangn14](https://hackerone.com/hoangn14) | 2020-03-12 |
 | 33 | [3445332](../reports/3445332.md) | INI Format string injection in Revive Adserver 6.0.4 setting | Low — CVSS 2.7 | — | 19 | [pakcyberbot](https://hackerone.com/pakcyberbot) | 2026-01-14 |
 | 34 | [176116](../reports/176116.md) | Weak Forgot Password implementation | Low | — | 17 | [pavanw3b](https://hackerone.com/pavanw3b) | 2017-08-02 |

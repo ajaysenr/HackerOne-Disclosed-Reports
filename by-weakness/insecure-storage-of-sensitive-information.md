@@ -8,8 +8,8 @@
 | 2 | [1773895](../reports/1773895.md) | Leak of sensitive values to Airflow rendered template | [Internet Bug Bounty](../by-program/ibb.md) | Low | $480 | 17 |
 | 3 | [979787](../reports/979787.md) | Able to view hackerone reports attachments | [GitLab](../by-program/gitlab.md) | Critical | — | 101 |
 | 4 | [1703733](../reports/1703733.md) | Exposure Of Admin Username & Password | [MTN Group](../by-program/mtn_group.md) | Critical | — | 48 |
-| 5 | [644358](../reports/644358.md) | PII leakage-Full SSN on ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 14 |
-| 6 | [693943](../reports/693943.md) | SSN leak due to editable slides | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 14 |
+| 5 | [693943](../reports/693943.md) | SSN leak due to editable slides | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 14 |
+| 6 | [644358](../reports/644358.md) | PII leakage-Full SSN on ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 14 |
 | 7 | [1482830](../reports/1482830.md) | Insecure Storage of Sensitive Information on lonestarcell.com ser | [MTN Group](../by-program/mtn_group.md) | Critical | — | 13 |
 | 8 | [1490133](../reports/1490133.md) | Military  name,email,phone,address,certdata Disclosure  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 7 |
 | 9 | [684838](../reports/684838.md) | Directory Indexing on the ████ (https://████/) leads to the backu | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 5 |

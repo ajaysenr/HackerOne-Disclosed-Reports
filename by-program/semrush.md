@@ -30,11 +30,11 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 24 | [662583](../reports/662583.md) | Manipulation of exam results at Semrush.Academy | Medium | — | 38 | [r0hack](https://hackerone.com/r0hack) | 2019-10-11 |
 | 25 | [1237700](../reports/1237700.md) | Improper input validation in projects leads to fully deny ac | Medium | — | 35 | [a_d_a_m](https://hackerone.com/a_d_a_m) | 2021-09-01 |
 | 26 | [853145](../reports/853145.md) | Broken validation of user Id for JWT Token | Medium — CVSS 5.9 | — | 31 | [a_d_a_m](https://hackerone.com/a_d_a_m) | 2020-12-11 |
-| 27 | [723707](../reports/723707.md) | Code injection in https://www.semrush.com | Medium | — | 22 | [dangkhai0x21](https://hackerone.com/dangkhai0x21) | 2019-11-01 |
-| 28 | [316713](../reports/316713.md) | Ad Builder Display Ads Path Traversal | Medium | — | 22 | [ajxchapman](https://hackerone.com/ajxchapman) | 2020-02-28 |
+| 27 | [316713](../reports/316713.md) | Ad Builder Display Ads Path Traversal | Medium | — | 22 | [ajxchapman](https://hackerone.com/ajxchapman) | 2020-02-28 |
+| 28 | [723707](../reports/723707.md) | Code injection in https://www.semrush.com | Medium | — | 22 | [dangkhai0x21](https://hackerone.com/dangkhai0x21) | 2019-11-01 |
 | 29 | [459532](../reports/459532.md) | Persistent CSV injection | Medium | — | 4 | [8r33](https://hackerone.com/8r33) | 2019-01-11 |
-| 30 | [285482](../reports/285482.md) | Security misconfiguration "weak passwords". | Medium | — | 1 | [whitehatmmalam](https://hackerone.com/whitehatmmalam) | 2018-03-13 |
-| 31 | [276614](../reports/276614.md) | Email Spoofing | Medium | — | 1 | [protector47](https://hackerone.com/protector47) | 2018-03-13 |
+| 30 | [276614](../reports/276614.md) | Email Spoofing | Medium | — | 1 | [protector47](https://hackerone.com/protector47) | 2018-03-13 |
+| 31 | [285482](../reports/285482.md) | Security misconfiguration "weak passwords". | Medium | — | 1 | [whitehatmmalam](https://hackerone.com/whitehatmmalam) | 2018-03-13 |
 | 32 | [769058](../reports/769058.md) | CORS misconfiguration which leads to the disclosure of certa | Low | — | 45 | [a_d_a_m](https://hackerone.com/a_d_a_m) | 2020-02-15 |
 | 33 | [342693](../reports/342693.md) | Password reset token leakage via referer | Low | — | 34 | [mansishah](https://hackerone.com/mansishah) | 2018-08-14 |
 | 34 | [327671](../reports/327671.md) | Error Page Content Spoofing or Text Injection  | Low | — | 33 | [asad_anwar](https://hackerone.com/asad_anwar) | 2018-06-29 |
@@ -47,8 +47,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 41 | [1358249](../reports/1358249.md) | php info file and sql backup at vendor's subdomain | Low | — | 14 | [rivalsec](https://hackerone.com/rivalsec) | 2021-12-08 |
 | 42 | [459286](../reports/459286.md) | protocol & Ports are not shown in third-party site redirect  | Low | — | 13 | [0xprial](https://hackerone.com/0xprial) | 2019-01-11 |
 | 43 | [289246](../reports/289246.md) | Following links are vulnerable to clickjacking | Low | — | 12 | [karma1](https://hackerone.com/karma1) | 2018-01-11 |
-| 44 | [375352](../reports/375352.md) | Post Based XSS On Upload Via CK Editor [semrush.com] | Low — CVSS 3.5 | — | 12 | [apapedulimu](https://hackerone.com/apapedulimu) | 2018-08-17 |
-| 45 | [786238](../reports/786238.md) | Reflected XSS on https://www.semrush.com/my_reports/external | Low | — | 12 | [sec44](https://hackerone.com/sec44) | 2020-04-02 |
+| 44 | [786238](../reports/786238.md) | Reflected XSS on https://www.semrush.com/my_reports/external | Low | — | 12 | [sec44](https://hackerone.com/sec44) | 2020-04-02 |
+| 45 | [375352](../reports/375352.md) | Post Based XSS On Upload Via CK Editor [semrush.com] | Low — CVSS 3.5 | — | 12 | [apapedulimu](https://hackerone.com/apapedulimu) | 2018-08-17 |
 | 46 | [299009](../reports/299009.md) | Single Sing On - Clickjacking | Low | — | 11 | [r0p3](https://hackerone.com/r0p3) | 2018-02-21 |
 | 47 | [439021](../reports/439021.md) | Web cache deception attack - expose earning state informatio | Low — CVSS 3.1 | — | 10 | [memon](https://hackerone.com/memon) | 2019-04-12 |
 | 48 | [311805](../reports/311805.md) | Cross-origin resource sharing misconfig  | Low | — | 6 | [asad_anwar](https://hackerone.com/asad_anwar) | 2018-03-13 |

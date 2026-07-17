@@ -19,8 +19,8 @@
 | 13 | [2332623](../reports/2332623.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 80 |
 | 14 | [3463719](../reports/3463719.md) | ASLR leak in Mario Kart World through LAN mode | [Nintendo](../by-program/nintendo.md) | Nintendo Switch 2 applications for which | High — CVSS 7.5 | — | 73 |
 | 15 | [2336236](../reports/2336236.md) | Privilege Escalation to Root SSH Access via Pre-Receive | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 71 |
-| 16 | [2332551](../reports/2332551.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 61 |
-| 17 | [2329466](../reports/2329466.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 61 |
+| 16 | [2329466](../reports/2329466.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 61 |
+| 17 | [2332551](../reports/2332551.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 61 |
 | 18 | [2323292](../reports/2323292.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 47 |
 | 19 | [2329547](../reports/2329547.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 47 |
 | 20 | [825764](../reports/825764.md) | View Only to Root Privilege Escalation on UniFi Protect | [Ubiquiti Inc.](../by-program/ui.md) | UniFi Protect | High — CVSS 8.8 | — | 42 |

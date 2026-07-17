@@ -10,8 +10,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 4 | [213558](../reports/213558.md) | Arbitrary Local-File Read from Admin - Restore From Backup d | High | $512 | 52 | [ziot](https://hackerone.com/ziot) | 2017-05-13 |
 | 5 | [214022](../reports/214022.md) | Admin Command Injection via username in user_archive ExportC | High | $512 | 45 | [ziot](https://hackerone.com/ziot) | 2017-05-13 |
 | 6 | [394016](../reports/394016.md) | Web Cache Deception Attack (XSS) | High | $256 | 49 | [bobrov](https://hackerone.com/bobrov) | 2018-11-18 |
-| 7 | [312647](../reports/312647.md) | Gaining access to private topics using quoting feature | High | $256 | 19 | [mishre](https://hackerone.com/mishre) | 2018-03-17 |
-| 8 | [333507](../reports/333507.md) | Stored XSS in "post last edited" option | High — CVSS 8.2 | $256 | 19 | [luigigubello](https://hackerone.com/luigigubello) | 2018-07-09 |
+| 7 | [333507](../reports/333507.md) | Stored XSS in "post last edited" option | High — CVSS 8.2 | $256 | 19 | [luigigubello](https://hackerone.com/luigigubello) | 2018-07-09 |
+| 8 | [312647](../reports/312647.md) | Gaining access to private topics using quoting feature | High | $256 | 19 | [mishre](https://hackerone.com/mishre) | 2018-03-17 |
 | 9 | [192223](../reports/192223.md) | XSS vulnerability on Audio and Video parsers | High | $256 | 14 | [alberto__segura](https://hackerone.com/alberto__segura) | 2017-01-10 |
 | 10 | [191909](../reports/191909.md) | XSS Vulnerability on Image link parser | High | $256 | 14 | [alberto__segura](https://hackerone.com/alberto__segura) | 2017-01-10 |
 | 11 | [228399](../reports/228399.md) | Any authenticated user can download full list of users, incl | Medium — CVSS 5.0 | $256 | 19 | [arkadiyt](https://hackerone.com/arkadiyt) | 2017-06-17 |

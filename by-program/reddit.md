@@ -31,8 +31,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 25 | [1069039](../reports/1069039.md) | GPS metadata preserved when converting HEIF to PNG | High | — | 67 | [ianonavy](https://hackerone.com/ianonavy) | 2021-10-21 |
 | 26 | [1237428](../reports/1237428.md) | [dubsmash] Long String in 'shoutout' Parameter Leading Inter | High — CVSS 7.8 | — | 32 | [sandeep_rj49](https://hackerone.com/sandeep_rj49) | 2021-12-13 |
 | 27 | [1102365](../reports/1102365.md) | [dubmash] Lack of authorization checks - Update Sound Titles | High | — | 19 | [sandeep_rj49](https://hackerone.com/sandeep_rj49) | 2021-10-21 |
-| 28 | [1187003](../reports/1187003.md) | critical file found etc/passwd on www.reddit.com | High | — | 10 | [himan253](https://hackerone.com/himan253) | 2021-10-21 |
-| 29 | [1168804](../reports/1168804.md) | Application level DOS at Login Page ( Accepts Long Password  | High — CVSS 7.5 | — | 10 | [e100_speaks](https://hackerone.com/e100_speaks) | 2022-02-07 |
+| 28 | [1168804](../reports/1168804.md) | Application level DOS at Login Page ( Accepts Long Password  | High — CVSS 7.5 | — | 10 | [e100_speaks](https://hackerone.com/e100_speaks) | 2022-02-07 |
+| 29 | [1187003](../reports/1187003.md) | critical file found etc/passwd on www.reddit.com | High | — | 10 | [himan253](https://hackerone.com/himan253) | 2021-10-21 |
 | 30 | [1716249](../reports/1716249.md) | sensitive data exposure | High | — | 5 | [saibalaji143_](https://hackerone.com/saibalaji143_) | 2022-11-10 |
 | 31 | [1591085](../reports/1591085.md) | Several Subdomains Takeover | High | — | 2 | [3amii](https://hackerone.com/3amii) | 2022-06-08 |
 | 32 | [2353237](../reports/2353237.md) | Infromation Disclosure To Use of Hard-coded Cryptographic Ke | Medium | — | 234 | [ahmed_xyz](https://hackerone.com/ahmed_xyz) | 2024-02-06 |
@@ -55,11 +55,11 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 49 | [1202408](../reports/1202408.md) | No Rate Limit on redditgifts gift  when Adding Comment | Low | — | 25 | [gaurav-bhatia](https://hackerone.com/gaurav-bhatia) | 2021-10-21 |
 | 50 | [1165225](../reports/1165225.md) | [dubsmash] Username and password bruteforce | Low — CVSS 3.9 | — | 18 | [asce21](https://hackerone.com/asce21) | 2021-12-13 |
 | 51 | [785833](../reports/785833.md) | registering with the same email address multiple times leads | Low | — | 10 | [whitehacker18](https://hackerone.com/whitehacker18) | 2022-03-14 |
-| 52 | [1609004](../reports/1609004.md) | Rate limit is implemented in Reddit , but its not working .  | Low | — | 8 | [suryanm](https://hackerone.com/suryanm) | 2023-05-18 |
-| 53 | [1165285](../reports/1165285.md) | No Rate limit on change password leads to account takeover | Low | — | 8 | [dreamispossible](https://hackerone.com/dreamispossible) | 2021-12-13 |
+| 52 | [1165285](../reports/1165285.md) | No Rate limit on change password leads to account takeover | Low | — | 8 | [dreamispossible](https://hackerone.com/dreamispossible) | 2021-12-13 |
+| 53 | [1609004](../reports/1609004.md) | Rate limit is implemented in Reddit , but its not working .  | Low | — | 8 | [suryanm](https://hackerone.com/suryanm) | 2023-05-18 |
 | 54 | [1165919](../reports/1165919.md) | Content Spoofing | Low | — | 1 | [abdallah1911](https://hackerone.com/abdallah1911) | 2021-10-21 |
 | 55 | [1209098](../reports/1209098.md) |  XSS | None | — | 10 | [shylo](https://hackerone.com/shylo) | 2021-10-21 |
 | 56 | [1167029](../reports/1167029.md) | Broken Authendication And Session Management | None | — | 5 | [kedibeauty](https://hackerone.com/kedibeauty) | 2021-10-21 |
-| 57 | [1243009](../reports/1243009.md) | No Password Length Restriction leads to Denial of Service | None | — | 2 | [c_j_27](https://hackerone.com/c_j_27) | 2021-10-21 |
-| 58 | [1182824](../reports/1182824.md) | Vulnerability Name: URL Redirection / Unvalidate Open Redire | None | — | 2 | [hasnain_123](https://hackerone.com/hasnain_123) | 2021-10-21 |
+| 57 | [1182824](../reports/1182824.md) | Vulnerability Name: URL Redirection / Unvalidate Open Redire | None | — | 2 | [hasnain_123](https://hackerone.com/hasnain_123) | 2021-10-21 |
+| 58 | [1243009](../reports/1243009.md) | No Password Length Restriction leads to Denial of Service | None | — | 2 | [c_j_27](https://hackerone.com/c_j_27) | 2021-10-21 |
 | 59 | [1166770](../reports/1166770.md) | Content Spoofing/Text Injection at https://gateway-productio | None | — | 1 | [karthik86](https://hackerone.com/karthik86) | 2021-10-27 |

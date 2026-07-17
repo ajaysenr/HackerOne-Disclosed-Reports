@@ -34,18 +34,18 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 28 | [970520](../reports/970520.md) | exposed Git Repo at http://api.e2e-kops-aws-canary.test-cncf | High | — | 2 | [zevfw5pp](https://hackerone.com/zevfw5pp) | 2021-01-07 |
 | 29 | [941178](../reports/941178.md) | SSRF for kube-apiserver cloudprovider scene | Medium — CVSS 6.8 | — | 24 | [lazydog](https://hackerone.com/lazydog) | 2021-10-07 |
 | 30 | [1357948](../reports/1357948.md) | Attacker can bypass authentication build on ingress external | Medium — CVSS 6.5 | — | 15 | [thisbug](https://hackerone.com/thisbug) | 2022-04-23 |
-| 31 | [1398706](../reports/1398706.md) | Google storage bucket takeover which is used to load JS file | Medium — CVSS 5.3 | — | 14 | [codermak](https://hackerone.com/codermak) | 2021-12-16 |
-| 32 | [1095612](../reports/1095612.md) | Node Validation Admission does not observe all oldObject fie | Medium — CVSS 6.5 | — | 14 | [ariellima](https://hackerone.com/ariellima) | 2021-09-05 |
+| 31 | [1095612](../reports/1095612.md) | Node Validation Admission does not observe all oldObject fie | Medium — CVSS 6.5 | — | 14 | [ariellima](https://hackerone.com/ariellima) | 2021-09-05 |
+| 32 | [1398706](../reports/1398706.md) | Google storage bucket takeover which is used to load JS file | Medium — CVSS 5.3 | — | 14 | [codermak](https://hackerone.com/codermak) | 2021-12-16 |
 | 33 | [1130416](../reports/1130416.md) | SHA512 incorrect on most/many releases | Medium — CVSS 6.5 | — | 11 | [ronald_petty](https://hackerone.com/ronald_petty) | 2021-05-09 |
 | 34 | [819717](../reports/819717.md) | IPv4 only clusters susceptible to MitM attacks via IPv6 rogu | Medium — CVSS 6.0 | — | 10 | [champtar](https://hackerone.com/champtar) | 2021-11-07 |
 | 35 | [863979](../reports/863979.md) | Compromise of node can lead to compromise of pods on other n | Medium — CVSS 6.8 | — | 10 | [wtm](https://hackerone.com/wtm) | 2020-10-30 |
 | 36 | [774896](../reports/774896.md) | Kubelet resource exhaustion attack via metric label cardinal | Medium — CVSS 5.0 | — | 9 | [mr_incompetent](https://hackerone.com/mr_incompetent) | 2020-10-31 |
 | 37 | [859962](../reports/859962.md) | Bypass apiserver proxy filter | Medium — CVSS 6.8 | — | 7 | [javierprovecho](https://hackerone.com/javierprovecho) | 2021-05-27 |
 | 38 | [778803](../reports/778803.md) | Compromise of auth via subset/superset namespace names. | Medium — CVSS 6.6 | — | 7 | [alex_orange](https://hackerone.com/alex_orange) | 2020-10-30 |
-| 39 | [1398617](../reports/1398617.md) | Broken Github Link Used in deployment docs of "github.com/ku | Medium | — | 4 | [codermak](https://hackerone.com/codermak) | 2021-12-16 |
-| 40 | [833856](../reports/833856.md) | DoS for GCSArtifact.RealAll | Medium — CVSS 4.3 | — | 4 | [lazydog](https://hackerone.com/lazydog) | 2021-02-04 |
-| 41 | [1212853](../reports/1212853.md) | Broken link hijacing in https://kubernetes-csi.github.io/doc | Medium — CVSS 5.3 | — | 3 | [tendermint](https://hackerone.com/tendermint) | 2021-11-06 |
-| 42 | [966383](../reports/966383.md) | secret leaks in vsphere cloud controller manager log | Medium — CVSS 6.2 | — | 3 | [derek0405](https://hackerone.com/derek0405) | 2020-11-29 |
+| 39 | [833856](../reports/833856.md) | DoS for GCSArtifact.RealAll | Medium — CVSS 4.3 | — | 4 | [lazydog](https://hackerone.com/lazydog) | 2021-02-04 |
+| 40 | [1398617](../reports/1398617.md) | Broken Github Link Used in deployment docs of "github.com/ku | Medium | — | 4 | [codermak](https://hackerone.com/codermak) | 2021-12-16 |
+| 41 | [966383](../reports/966383.md) | secret leaks in vsphere cloud controller manager log | Medium — CVSS 6.2 | — | 3 | [derek0405](https://hackerone.com/derek0405) | 2020-11-29 |
+| 42 | [1212853](../reports/1212853.md) | Broken link hijacing in https://kubernetes-csi.github.io/doc | Medium — CVSS 5.3 | — | 3 | [tendermint](https://hackerone.com/tendermint) | 2021-11-06 |
 | 43 | [1096907](../reports/1096907.md) | API Server DoS (crash?) if many large resources (~1MB each)  | Medium — CVSS 5.7 | — | 2 | [bradgeesaman](https://hackerone.com/bradgeesaman) | 2021-04-01 |
 | 44 | [764986](../reports/764986.md) | Man in the middle using LoadBalancer or ExternalIPs services | Medium — CVSS 6.6 | — | 2 | [champtar](https://hackerone.com/champtar) | 2021-11-04 |
 | 45 | [952771](../reports/952771.md) | CVE-2019-11250 remains in effect. | Medium — CVSS 4.3 | — | 1 | [purelyapplied](https://hackerone.com/purelyapplied) | 2020-11-29 |
@@ -64,7 +64,7 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 58 | [775531](../reports/775531.md) | No valid SPF record found | None | — | 5 | [aravindn](https://hackerone.com/aravindn) | 2020-02-04 |
 | 59 | [832593](../reports/832593.md) | Clickjacking | None | — | 4 | [hackerboy404](https://hackerone.com/hackerboy404) | 2020-07-23 |
 | 60 | [918243](../reports/918243.md) | Fake email from <any_name>@kubernetes.io to any other email | None | — | 3 | [lamscun](https://hackerone.com/lamscun) | 2020-07-24 |
-| 61 | [774872](../reports/774872.md) | Configuartion [Sensitive] Information Disclosure | None | — | 1 | [barsainya](https://hackerone.com/barsainya) | 2020-10-22 |
-| 62 | [864696](../reports/864696.md) | There is any issue No valid SPF Records | None | — | 1 | [blackviper21](https://hackerone.com/blackviper21) | 2020-07-24 |
-| 63 | [775123](../reports/775123.md) | Sensitive Information disclosure Through Config File | None | — | 1 | [a1c3venom](https://hackerone.com/a1c3venom) | 2020-07-24 |
-| 64 | [908880](../reports/908880.md) | Private IP addresses Disclosure | None | — | 1 | [iwiwwooqo](https://hackerone.com/iwiwwooqo) | 2020-07-23 |
+| 61 | [775123](../reports/775123.md) | Sensitive Information disclosure Through Config File | None | — | 1 | [a1c3venom](https://hackerone.com/a1c3venom) | 2020-07-24 |
+| 62 | [908880](../reports/908880.md) | Private IP addresses Disclosure | None | — | 1 | [iwiwwooqo](https://hackerone.com/iwiwwooqo) | 2020-07-23 |
+| 63 | [774872](../reports/774872.md) | Configuartion [Sensitive] Information Disclosure | None | — | 1 | [barsainya](https://hackerone.com/barsainya) | 2020-10-22 |
+| 64 | [864696](../reports/864696.md) | There is any issue No valid SPF Records | None | — | 1 | [blackviper21](https://hackerone.com/blackviper21) | 2020-07-24 |

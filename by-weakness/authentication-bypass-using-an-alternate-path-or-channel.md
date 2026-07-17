@@ -12,8 +12,8 @@
 | 6 | [1581240](../reports/1581240.md) | Mass Account Takeover at https://app.taxjar.com/ - No user Intera | [Stripe](../by-program/stripe.md) | Critical | — | 249 |
 | 7 | [1709881](../reports/1709881.md) | Authentication Bypass Leads To  Complete Account TakeveOver on ██ | [MTN Group](../by-program/mtn_group.md) | Critical — CVSS 10.0 | — | 105 |
 | 8 | [2762462](../reports/2762462.md) | Ability to Add and Verify Uncontrolled Mobile Numbers Leading to  | [MTN Group](../by-program/mtn_group.md) | Critical — CVSS 9.1 | — | 88 |
-| 9 | [824203](../reports/824203.md) | Cache Manager ACL Bypass | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.3 | — | 21 |
-| 10 | [1747146](../reports/1747146.md) | Authentication bypass in ████████ | [MTN Group](../by-program/mtn_group.md) | Critical | — | 21 |
+| 9 | [1747146](../reports/1747146.md) | Authentication bypass in ████████ | [MTN Group](../by-program/mtn_group.md) | Critical | — | 21 |
+| 10 | [824203](../reports/824203.md) | Cache Manager ACL Bypass | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.3 | — | 21 |
 | 11 | [428757](../reports/428757.md) | Admin panel take over | User info leakage | Mass Comprimise | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 9 |
 | 12 | [708303](../reports/708303.md) | Two-factor authentication (2FA) Bypass | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | Critical | — | 6 |
 | 13 | [2280279](../reports/2280279.md) | total Failure of password protection while extracting seed phrase | [MetaMask](../by-program/metamask.md) | Medium — CVSS 6.1 | — | 130 |

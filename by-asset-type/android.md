@@ -21,8 +21,8 @@
 | 15 | [1650264](../reports/1650264.md) | GitHub Security Lab (GHSL) Vulnerability Report: SQLInj | [ownCloud](../by-program/owncloud.md) | com.owncloud.android | Medium — CVSS 4.2 | $300 | 12 |
 | 16 | [3764217](../reports/3764217.md) | Any installed app can force immediate logout and persis | [Basecamp](../by-program/basecamp.md) | com.basecamp.bc3 | Medium — CVSS 4.0 | $287 | 8 |
 | 17 | [2380133](../reports/2380133.md) | Can download files on Android app without permission | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 3.2 | $250 | 46 |
-| 18 | [1085336](../reports/1085336.md) | CSRF when unlocking lenses leads to lenses being forcef | [Snapchat](../by-program/snapchat.md) | com.snapchat.android | Low | $250 | 20 |
-| 19 | [1161401](../reports/1161401.md) | Notification implicit PendingIntent in com.nextcloud.cl | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 1.3 | $250 | 20 |
+| 18 | [1161401](../reports/1161401.md) | Notification implicit PendingIntent in com.nextcloud.cl | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 1.3 | $250 | 20 |
+| 19 | [1085336](../reports/1085336.md) | CSRF when unlocking lenses leads to lenses being forcef | [Snapchat](../by-program/snapchat.md) | com.snapchat.android | Low | $250 | 20 |
 | 20 | [1408692](../reports/1408692.md) | Access to arbitrary file of the Nextcloud Android app f | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 2.3 | $250 | 11 |
 | 21 | [1102537](../reports/1102537.md) | Subdomain Takeover via Unclaimed Amazon S3 Bucket (Musi | [TikTok](../by-program/tiktok.md) | com.zhiliaoapp.musically | Low | $200 | 29 |
 | 22 | [1450368](../reports/1450368.md) | com.nextcloud.client bypass the protection lock in ando | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 1.1 | $200 | 11 |

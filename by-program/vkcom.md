@@ -116,18 +116,18 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 110 | [64529](../reports/64529.md) | Page replacement and redirect loop | None | — | 13 | [tohasec](https://hackerone.com/tohasec) | 2019-02-24 |
 | 111 | [114476](../reports/114476.md) | Внедрение внешних сущностей в функционале импорта пользовате | None | — | 11 | [bo0om](https://hackerone.com/bo0om) | 2016-03-18 |
 | 112 | [309594](../reports/309594.md) | error | None | — | 10 | [linkks](https://hackerone.com/linkks) | 2018-02-24 |
-| 113 | [92271](../reports/92271.md) | Недочет в поиске по хештегам | None | — | 8 | [pisarenko](https://hackerone.com/pisarenko) | 2018-03-04 |
-| 114 | [183352](../reports/183352.md) | Возможность провести DoS атаку от имени vk.com сервера | None | — | 8 | [denispugachev](https://hackerone.com/denispugachev) | 2017-03-06 |
-| 115 | [293581](../reports/293581.md) | self-xss ads_easy_promote vk.com | None | — | 8 | [circuit](https://hackerone.com/circuit) | 2017-12-31 |
+| 113 | [183352](../reports/183352.md) | Возможность провести DoS атаку от имени vk.com сервера | None | — | 8 | [denispugachev](https://hackerone.com/denispugachev) | 2017-03-06 |
+| 114 | [293581](../reports/293581.md) | self-xss ads_easy_promote vk.com | None | — | 8 | [circuit](https://hackerone.com/circuit) | 2017-12-31 |
+| 115 | [92271](../reports/92271.md) | Недочет в поиске по хештегам | None | — | 8 | [pisarenko](https://hackerone.com/pisarenko) | 2018-03-04 |
 | 116 | [80298](../reports/80298.md) | Внедрение произвольного javascript-сценария в функционале пр | None | — | 7 | [bo0om](https://hackerone.com/bo0om) | 2015-10-30 |
 | 117 | [288540](../reports/288540.md) | CSRF создание опроса от имени пользователя, зная id приложен | None | — | 6 | [circuit](https://hackerone.com/circuit) | 2018-02-09 |
 | 118 | [107664](../reports/107664.md) | Изменение текстов вариантов ответа в опросах | None | — | 6 | [umfc](https://hackerone.com/umfc) | 2018-01-30 |
-| 119 | [193759](../reports/193759.md) | Способ узнать имя человека удаленной страницы 2 | None | — | 5 | [pisarenko](https://hackerone.com/pisarenko) | 2017-02-09 |
-| 120 | [146939](../reports/146939.md) | DOM XSS в /activation.php?act=activate_mobile | None | — | 5 | [abr1k0s](https://hackerone.com/abr1k0s) | 2016-09-22 |
-| 121 | [193419](../reports/193419.md) | Способ узнать имя человека удаленной страницы | None | — | 5 | [pisarenko](https://hackerone.com/pisarenko) | 2017-02-09 |
-| 122 | [117902](../reports/117902.md) | Дорк | None | — | 5 | [linkks](https://hackerone.com/linkks) | 2016-11-18 |
+| 119 | [193419](../reports/193419.md) | Способ узнать имя человека удаленной страницы | None | — | 5 | [pisarenko](https://hackerone.com/pisarenko) | 2017-02-09 |
+| 120 | [117902](../reports/117902.md) | Дорк | None | — | 5 | [linkks](https://hackerone.com/linkks) | 2016-11-18 |
+| 121 | [146939](../reports/146939.md) | DOM XSS в /activation.php?act=activate_mobile | None | — | 5 | [abr1k0s](https://hackerone.com/abr1k0s) | 2016-09-22 |
+| 122 | [193759](../reports/193759.md) | Способ узнать имя человека удаленной страницы 2 | None | — | 5 | [pisarenko](https://hackerone.com/pisarenko) | 2017-02-09 |
 | 123 | [116764](../reports/116764.md) | vk.com/login.php  | None | — | 4 | [388](https://hackerone.com/388) | 2016-12-29 |
-| 124 | [93020](../reports/93020.md) | Способ узнать имя человека и ВУЗ удаленной страницы | None | — | 3 | [grande](https://hackerone.com/grande) | 2016-10-17 |
-| 125 | [64963](../reports/64963.md) | API: Bug in method auth.validatePhone | None | — | 3 | [vladislav805](https://hackerone.com/vladislav805) | 2015-07-17 |
+| 124 | [64963](../reports/64963.md) | API: Bug in method auth.validatePhone | None | — | 3 | [vladislav805](https://hackerone.com/vladislav805) | 2015-07-17 |
+| 125 | [93020](../reports/93020.md) | Способ узнать имя человека и ВУЗ удаленной страницы | None | — | 3 | [grande](https://hackerone.com/grande) | 2016-10-17 |
 | 126 | [531146](../reports/531146.md) | Information Disclosure (phpinfo()) | None | — | 3 | [linkks](https://hackerone.com/linkks) | 2019-09-18 |
 | 127 | [65324](../reports/65324.md) | XSS on added name album on videos. | None | — | 2 | [ruisilva](https://hackerone.com/ruisilva) | 2015-06-26 |
