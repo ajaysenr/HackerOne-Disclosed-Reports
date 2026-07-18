@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1712 total)
+# High/Critical Severity — No Bounty Paid (1714 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -747,6 +747,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1180697](../reports/1180697.md) | Subdomain takeover of v.zego.com | [Zego](../by-program/zego.md) | High | Resolved | 84 |
 | [419896](../reports/419896.md) | Unauthenticated user can upload an attachment to the last updated | [HackerOne](../by-program/security.md) | High — CVSS 8.3 | Resolved | 84 |
 | [1257586](../reports/1257586.md) | PIN 📌 BYPASS 🥷 | [Yoti](../by-program/yoti.md) | High | Resolved | 83 |
+| [1808719](../reports/1808719.md) | Attackers can use TRIAL Premium only by paying **IDR 10,000.00**  | [LinkedIn](../by-program/linkedin.md) | High — CVSS 7.5 | Resolved | 83 |
 | [3506183](../reports/3506183.md) | Missing Access Control in MigrationFile allows attacker to upload | [GitHub](../by-program/github.md) | High | Resolved | 83 |
 | [3014158](../reports/3014158.md) | Burp Suite extensions can execute arbitrary code | [PortSwigger Web Security](../by-program/portswigger.md) | High | Informative | 83 |
 | [984965](../reports/984965.md) | Cross-Tenant IDOR ( graphql `AddRulesToPixelEvents` query ) allow | [TikTok](../by-program/tiktok.md) | High — CVSS 7.5 | Resolved | 83 |
@@ -902,6 +903,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1623672](../reports/1623672.md) | Host header injection leads to account takeover | [Enjin](../by-program/enjin.md) | High | Duplicate | 45 |
 | [2309291](../reports/2309291.md) | CVE-2023-41763 Business Elevation of Privilege vulnerability on [ | [MTN Group](../by-program/mtn_group.md) | High | Resolved | 45 |
 | [3445710](../reports/3445710.md) | Broken Access Control allows advertiser accounts to delete tracke | [Revive Adserver](../by-program/revive_adserver.md) | High — CVSS 7.1 | Resolved | 45 |
+| [1806387](../reports/1806387.md) | Accessing unauthorized administration pages and seeing admin pass | [U.S. Department of State](../by-program/us-department-of-state.md) | High — CVSS 8.2 | Resolved | 44 |
 | [505278](../reports/505278.md) | DOS in stream filters | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.5 | Resolved | 44 |
 | [2652603](../reports/2652603.md) | CSRF Attack on changing security questions leads to full Account  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High — CVSS 8.8 | Resolved | 44 |
 | [1410498](../reports/1410498.md) | IDOR: leak buyer info & Publish/Hide foreign comments | [Judge.me ](../by-program/judgeme.md) | High — CVSS 7.5 | Resolved | 44 |
