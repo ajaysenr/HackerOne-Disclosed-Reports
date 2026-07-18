@@ -8303,10 +8303,18 @@ https://hackerone.com/reports/1808596 | Multiple OpenSSL error handling issues i
 https://hackerone.com/reports/1808719 | Attackers can use TRIAL Premium only by paying **IDR 10,000.00** from the original price of `IDR462,400.00` per month
 https://hackerone.com/reports/1809633 | Can VIEW Videos on LinkedIn Learning that Require a Subscription Without having to Subscribe Via `SHARE features`
 https://hackerone.com/reports/1810656 | xss and html injection on ( https://labs.history.state.gov)
+https://hackerone.com/reports/1812705 | Bypassing creation of  API tokens without email verification
+https://hackerone.com/reports/1812732 | [MK8DX] Improper metadata validation 2
+https://hackerone.com/reports/1812768 | CVE-2020-11022
 https://hackerone.com/reports/1813450 | Attackers do not need to Pay for a Subscription to get the `Discussion Group URL` in `Paid Learning`
+https://hackerone.com/reports/1813453 | [MK8DX] Improper ranking/replay file parsing
 https://hackerone.com/reports/1813831 | CVE-2022-43551: Another HSTS bypass via IDN
 https://hackerone.com/reports/1813864 | CVE-2023-23914: curl HSTS ignored on multiple requests
+https://hackerone.com/reports/1814333 | CVE-2023-23915: HSTS amnesia with --parallel
 https://hackerone.com/reports/1814335 | reflected xss in www.████████.gov
+https://hackerone.com/reports/1814824 | curl file writing susceptible to symlink attacks
+https://hackerone.com/reports/1815355 | Twitter Broken Link in https://gener8ads.com (Hackerone Profile)
+https://hackerone.com/reports/1815463 | oauth misconfigration lead to account takeover
 https://hackerone.com/reports/1817214 | Mystery with a leaked token and Reusability of email confirmation link leading to Account Takeover
 https://hackerone.com/reports/1818163 | reflected XSS in [www.equifax.com]
 https://hackerone.com/reports/1818969 | [ Continuation Report from #1814842 ] Can create articles using other users' NewsLetters
