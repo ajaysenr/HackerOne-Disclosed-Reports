@@ -8315,8 +8315,11 @@ https://hackerone.com/reports/1814335 | reflected xss in www.██████�
 https://hackerone.com/reports/1814824 | curl file writing susceptible to symlink attacks
 https://hackerone.com/reports/1815355 | Twitter Broken Link in https://gener8ads.com (Hackerone Profile)
 https://hackerone.com/reports/1815463 | oauth misconfigration lead to account takeover
+https://hackerone.com/reports/1816181 | Reflected XSS via File Upload
 https://hackerone.com/reports/1817214 | Mystery with a leaked token and Reusability of email confirmation link leading to Account Takeover
 https://hackerone.com/reports/1818163 | reflected XSS in [www.equifax.com]
+https://hackerone.com/reports/1818172 | reflected XSS in [www.equifax.com]
+https://hackerone.com/reports/1818628 | RXSS on https://travel.state.gov/content/travel/en/search.html
 https://hackerone.com/reports/1818969 | [ Continuation Report from #1814842 ] Can create articles using other users' NewsLetters
 https://hackerone.com/reports/1819329 | Brave Shield for iOS is weak against IDN homograph attacks
 https://hackerone.com/reports/1819652 | UI spoofing by showing sms:/tel: dialog on another website
