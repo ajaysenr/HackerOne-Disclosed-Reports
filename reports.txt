@@ -8329,6 +8329,8 @@ https://hackerone.com/reports/1820492 | PHP Object injection -> Building Custom 
 https://hackerone.com/reports/1820864 | No password length restriction in reset password endpoint
 https://hackerone.com/reports/1820953 | Non-store owners can transfer Shopify-managed domain to another domain provider
 https://hackerone.com/reports/1820955 | CRLF Injection in Nodejs ‘undici’ via host
+https://hackerone.com/reports/1822160 | [U.S. Air Force] Information disclosure due unauthenticated access to APIs and system browser functions
+https://hackerone.com/reports/1822665 | Impact of Using the PHP Function "phpinfo()" on System Security - PHP info page disclosure
 https://hackerone.com/reports/1823216 | XSS vulnerability without a content security bypass in a `CUSTOM` App through Button tag
 https://hackerone.com/reports/1824342 | Users querying dim_hacker_reports table through Analytics API can determine data from dim_reports table using WHERE or HAVING query
 https://hackerone.com/reports/1825472 | speedtest.8x8.com: Enabled Directory Listing
