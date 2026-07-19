@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1714 total)
+# High/Critical Severity — No Bounty Paid (1716 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -221,6 +221,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1082891](../reports/1082891.md) | Duplicate Entry of email leads to 500 Server Error which disclosi | [Kartpay](../by-program/kartpay.md) | Critical | Resolved | 39 |
 | [452854](../reports/452854.md) | Expired reshare links allow access to all files in share | [Nextcloud](../by-program/nextcloud.md) | Critical — CVSS 9.6 | Resolved | 38 |
 | [204292](../reports/204292.md) | <- Critical IDOR vulnerability in socialclub allow to insert and  | [Rockstar Games](../by-program/rockstargames.md) | Critical | Resolved | 38 |
+| [1813453](../reports/1813453.md) | [MK8DX] Improper ranking/replay file parsing | [Nintendo](../by-program/nintendo.md) | Critical | Resolved | 36 |
 | [1168104](../reports/1168104.md) | Weak password policy leading to exposure of administrator account | [U.S. General Services Administration](../by-program/gsa_vdp.md) | Critical — CVSS 9.1 | Resolved | 36 |
 | [715949](../reports/715949.md) | [HTA2] XXE on https://███ via SpellCheck Endpoint. | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical — CVSS 9.1 | Resolved | 36 |
 | [188743](../reports/188743.md) | XXE on DoD web server | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 36 |
@@ -1180,6 +1181,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [304175](../reports/304175.md) | Reflected XSS | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 8.1 | Resolved | 16 |
 | [844067](../reports/844067.md) | Korea - LFI Server directory traversal at starbucks.co.kr | [Starbucks](../by-program/starbucks.md) | High | Resolved | 16 |
 | [405191](../reports/405191.md) | DOM XSS on 50x.html page | [DuckDuckGo](../by-program/duckduckgo.md) | High | Resolved | 16 |
+| [1812732](../reports/1812732.md) | [MK8DX] Improper metadata validation 2 | [Nintendo](../by-program/nintendo.md) | High — CVSS 8.2 | Resolved | 16 |
 | [415258](../reports/415258.md) | RCE: DnDing shortcut files to chrome://brave allows loading HTML  | [Brave Software](../by-program/brave.md) | High — CVSS 8.3 | Resolved | 16 |
 | [384255](../reports/384255.md) | Stored XSS on Issue details page | [GitLab](../by-program/gitlab.md) | High | Resolved | 16 |
 | [358119](../reports/358119.md) | SSRF in proxy.duckduckgo.com via the image_host parameter | [DuckDuckGo](../by-program/duckduckgo.md) | High — CVSS 7.5 | Resolved | 16 |

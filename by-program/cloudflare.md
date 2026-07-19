@@ -1,4 +1,4 @@
-# Cloudflare Public Bug Bounty — Disclosed Reports (32 total)
+# Cloudflare Public Bug Bounty — Disclosed Reports (33 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -33,6 +33,7 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 27 | [3424998](../reports/3424998.md) | AI Playground XSS to steal user-chat messages and access to  | Low | — | 56 | [matured_kazama](https://hackerone.com/matured_kazama) | 2026-02-26 |
 | 28 | [1467044](../reports/1467044.md) | Blind SSRF on platform.dash.cloudflare.com Due to Sentry mis | Low | — | 53 | [lohigowda](https://hackerone.com/lohigowda) | 2022-08-31 |
 | 29 | [1781096](../reports/1781096.md) | 💥💥Crash report -Cloudflare WARP doesn't verify text length i | Low | — | 29 | [theendisnear](https://hackerone.com/theendisnear) | 2023-07-31 |
-| 30 | [1675730](../reports/1675730.md) | Password Policy Restriction Bypass | Low | — | 11 | [lohigowda](https://hackerone.com/lohigowda) | 2022-09-30 |
-| 31 | [2802817](../reports/2802817.md) | Any WARP User Can Access Organization-Specific Application | None | — | 46 | [jai-kandepu](https://hackerone.com/jai-kandepu) | 2025-05-19 |
-| 32 | [1615743](../reports/1615743.md) | Basic XSS [WAF Bypasses] | None | — | 27 | [hacker1_agent](https://hackerone.com/hacker1_agent) | 2023-07-07 |
+| 30 | [1812705](../reports/1812705.md) | Bypassing creation of  API tokens without email verification | Low — CVSS 3.9 | — | 17 | [boy_child_](https://hackerone.com/boy_child_) | 2023-03-27 |
+| 31 | [1675730](../reports/1675730.md) | Password Policy Restriction Bypass | Low | — | 11 | [lohigowda](https://hackerone.com/lohigowda) | 2022-09-30 |
+| 32 | [2802817](../reports/2802817.md) | Any WARP User Can Access Organization-Specific Application | None | — | 46 | [jai-kandepu](https://hackerone.com/jai-kandepu) | 2025-05-19 |
+| 33 | [1615743](../reports/1615743.md) | Basic XSS [WAF Bypasses] | None | — | 27 | [hacker1_agent](https://hackerone.com/hacker1_agent) | 2023-07-07 |

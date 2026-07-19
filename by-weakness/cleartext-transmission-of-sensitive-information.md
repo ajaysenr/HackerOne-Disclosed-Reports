@@ -1,4 +1,4 @@
-# Weakness: Cleartext Transmission of Sensitive Information (32 reports)
+# Weakness: Cleartext Transmission of Sensitive Information (33 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -32,7 +32,8 @@
 | 26 | [576288](../reports/576288.md) | Testnet address being sent in cleartext as http://rinkeby.chain.l | [Chainlink](../by-program/chainlink.md) | Low | — | 19 |
 | 27 | [386735](../reports/386735.md) | Login form on non-HTTPS page on http://stream.highwebmedia.com/au | [Chaturbate](../by-program/chaturbate.md) | Low | — | 15 |
 | 28 | [3621851](../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | [curl](../by-program/curl.md) | Low | — | 10 |
-| 29 | [1813864](../reports/1813864.md) | CVE-2023-23914: curl HSTS ignored on multiple requests | [curl](../by-program/curl.md) | Low | — | 6 |
-| 30 | [3770979](../reports/3770979.md) | SMTP connection reuse ignores --ssl-reqd / CURLOPT_USE_SSL and re | [curl](../by-program/curl.md) | Low | — | 1 |
-| 31 | [374053](../reports/374053.md) | Accessing to download.nextcloud.com from original ip adreess | in | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
-| 32 | [265441](../reports/265441.md) | Error the message with already e-mail  | [Legal Robot](../by-program/legalrobot.md) | None | — | 2 |
+| 29 | [1814333](../reports/1814333.md) | CVE-2023-23915: HSTS amnesia with --parallel | [curl](../by-program/curl.md) | Low | — | 7 |
+| 30 | [1813864](../reports/1813864.md) | CVE-2023-23914: curl HSTS ignored on multiple requests | [curl](../by-program/curl.md) | Low | — | 6 |
+| 31 | [3770979](../reports/3770979.md) | SMTP connection reuse ignores --ssl-reqd / CURLOPT_USE_SSL and re | [curl](../by-program/curl.md) | Low | — | 1 |
+| 32 | [374053](../reports/374053.md) | Accessing to download.nextcloud.com from original ip adreess | in | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
+| 33 | [265441](../reports/265441.md) | Error the message with already e-mail  | [Legal Robot](../by-program/legalrobot.md) | None | — | 2 |
