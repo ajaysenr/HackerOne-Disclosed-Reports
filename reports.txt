@@ -8341,6 +8341,7 @@ https://hackerone.com/reports/1825942 | XSS on ( █████████.gov
 https://hackerone.com/reports/1826048 | CVE-2023-23916: HTTP multi-header compression denial of service
 https://hackerone.com/reports/1826141 | HackerOne Undisclosed Report Leak via PoC of Full Disclosure on Hacktivity
 https://hackerone.com/reports/1826392 | curl/libcurl vulnerable to TLS truncation attacks
+https://hackerone.com/reports/1826892 | wavecell.com: Broken Link Hijacking / Instagram Takeover @██
 https://hackerone.com/reports/1829170 | Double forward slash breaks server-side restrictions & allows access to prohibited services from a partner account
 https://hackerone.com/reports/1832494 | Blind SSRF on https://my.exnessaffiliates.com/ allows for internal network enumeration
 https://hackerone.com/reports/1835133 | S3 Bucket Takeover  "brave-browser-rpm-staging-release-test"
