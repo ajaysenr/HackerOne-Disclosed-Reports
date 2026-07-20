@@ -8333,7 +8333,10 @@ https://hackerone.com/reports/1822160 | [U.S. Air Force] Information disclosure 
 https://hackerone.com/reports/1822665 | Impact of Using the PHP Function "phpinfo()" on System Security - PHP info page disclosure
 https://hackerone.com/reports/1823216 | XSS vulnerability without a content security bypass in a `CUSTOM` App through Button tag
 https://hackerone.com/reports/1824342 | Users querying dim_hacker_reports table through Analytics API can determine data from dim_reports table using WHERE or HAVING query
+https://hackerone.com/reports/1825227 | Session mismatch leading to potential account takeover (local access required)
+https://hackerone.com/reports/1825377 |  libssh backend CURLOPT_SSH_HOST_PUBLIC_KEY_SHA256 validation bypass
 https://hackerone.com/reports/1825472 | speedtest.8x8.com: Enabled Directory Listing
+https://hackerone.com/reports/1825679 | App pin of the Android app can be bypassed via 3rdparty apps generating deep links
 https://hackerone.com/reports/1825942 | XSS on ( █████████.gov ) Via URL path
 https://hackerone.com/reports/1826048 | CVE-2023-23916: HTTP multi-header compression denial of service
 https://hackerone.com/reports/1826141 | HackerOne Undisclosed Report Leak via PoC of Full Disclosure on Hacktivity
