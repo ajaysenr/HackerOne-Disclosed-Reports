@@ -1,4 +1,4 @@
-# U.S. Department of State — Disclosed Reports (7 total)
+# U.S. Department of State — Disclosed Reports (8 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -11,3 +11,4 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 5 | [1869184](../reports/1869184.md) | LDAP anonymous access enabled at certrep.pki.state.gov:389 | Medium — CVSS 5.3 | — | 16 | [0xjackal](https://hackerone.com/0xjackal) | 2023-05-11 |
 | 6 | [1747596](../reports/1747596.md) | Bypassing Whitelist to perform SSRF for internal host scanni | Low | — | 21 | [imthatt](https://hackerone.com/imthatt) | 2023-03-24 |
 | 7 | [1844830](../reports/1844830.md) | HTML INJECTION on coins.state.gov | Low | — | 16 | [devdevrl](https://hackerone.com/devdevrl) | 2023-04-26 |
+| 8 | [1822665](../reports/1822665.md) | Impact of Using the PHP Function "phpinfo()" on System Secur | Low — CVSS 3.7 | — | 13 | [carpc](https://hackerone.com/carpc) | 2023-05-18 |

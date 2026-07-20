@@ -1,4 +1,4 @@
-# Weakness: Improper Access Control - Generic (542 reports)
+# Weakness: Improper Access Control - Generic (543 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -514,35 +514,36 @@
 | 508 | [739858](../reports/739858.md) | Able to download any hosted content on AWS S3 bucket(stripo) | [Stripo Inc](../by-program/stripo.md) | Low | — | 3 |
 | 509 | [222080](../reports/222080.md) | The email API to reset password is unlimited and can be used as a | [Nextcloud](../by-program/nextcloud.md) | Low | — | 3 |
 | 510 | [3618831](../reports/3618831.md) | Unix domain socket server bypasses --permission network restricti | [Node.js](../by-program/nodejs.md) | Low — CVSS 3.3 | — | 1 |
-| 511 | [293490](../reports/293490.md) | [www.zomato.com] Leaking Email Addresses of merchants via reset p | [Eternal](../by-program/eternal.md) | None | — | 111 |
-| 512 | [2425873](../reports/2425873.md) | [Monero wallet RPC] File precreation to file ownership and creden | [Monero](../by-program/monero.md) | None | — | 75 |
-| 513 | [2567048](../reports/2567048.md) | Possible Subdomain Takeover For Inbound Emails | [Smule](../by-program/smule.md) | None | — | 47 |
-| 514 | [3097900](../reports/3097900.md) | `/names.nsf` and all `/names*` files route to public API on rubyg | [RubyGems](../by-program/rubygems.md) | None | — | 46 |
-| 515 | [2921905](../reports/2921905.md) | WAF bypass and java script incomplete handling of Unicode charact | [Doppler](../by-program/doppler.md) | None | — | 33 |
-| 516 | [271407](../reports/271407.md) | Admin Access to a domain used for development and admin access to | [Eternal](../by-program/eternal.md) | None | — | 31 |
-| 517 | [330135](../reports/330135.md) | S3 bucket unnecessarily discloses permissions | [Udemy](../by-program/udemy.md) | None | — | 27 |
-| 518 | [2543342](../reports/2543342.md) | Bypassing Two-Factor Authentication via Account Deactivation and  | [HackerOne](../by-program/security.md) | None | — | 27 |
-| 519 | [1835133](../reports/1835133.md) | S3 Bucket Takeover  "brave-browser-rpm-staging-release-test" | [Brave Software](../by-program/brave.md) | None | — | 24 |
-| 520 | [968742](../reports/968742.md) | Password reset by malicious input on air.line.me | [LY Corporation](../by-program/line.md) | None | — | 23 |
-| 521 | [1654145](../reports/1654145.md) | Open S3 Bucket Accessible by any Aws User | [GoCD](../by-program/gocd.md) | None | — | 19 |
-| 522 | [898841](../reports/898841.md) | Password reset link not expired at Stocky App | [Shopify](../by-program/shopify.md) | None | — | 19 |
-| 523 | [1911568](../reports/1911568.md) | Unauthenticated cache purging | [Fastly VDP](../by-program/fastly-vdp.md) | None | — | 16 |
-| 524 | [1668258](../reports/1668258.md) | Reentrancy attack in eth-monero atomic swap | [Monero](../by-program/monero.md) | None | — | 15 |
-| 525 | [3650443](../reports/3650443.md) | no_proxy IDN mismatch: Unicode hostnames bypass proxy exclusion l | [curl](../by-program/curl.md) | None | — | 15 |
-| 526 | [417453](../reports/417453.md) | Cross-origin resource sharing: arbitrary origin trusted on chatws | [Chaturbate](../by-program/chaturbate.md) | None | — | 13 |
-| 527 | [246838](../reports/246838.md) | by pass rate limit exceed  | [WakaTime](../by-program/wakatime.md) | None | — | 11 |
-| 528 | [895202](../reports/895202.md) | [H1-2006 2020] Multiple vulnerabilities allow to leak sensitive i | [h1-ctf](../by-program/h1-ctf.md) | None | — | 11 |
-| 529 | [260632](../reports/260632.md) | Improper validation of parameters while creating issues | [Legal Robot](../by-program/legalrobot.md) | None | — | 10 |
-| 530 | [249337](../reports/249337.md) | Non-functional 2FA recovery codes | [Legal Robot](../by-program/legalrobot.md) | None | — | 9 |
-| 531 | [860197](../reports/860197.md) | A staff without export customers permissions can still export cus | [Shopify](../by-program/shopify.md) | None | — | 9 |
-| 532 | [1995595](../reports/1995595.md) | Response Manipulation to enable Account recovery key with out cur | [Mozilla](../by-program/mozilla.md) | None | — | 9 |
-| 533 | [874574](../reports/874574.md) | Partner's non-verified business email change reflected into Shopi | [Shopify](../by-program/shopify.md) | None | — | 8 |
-| 534 | [229417](../reports/229417.md) | Design Flaw in session management of password reset  | [Weblate](../by-program/weblate.md) | None | — | 6 |
-| 535 | [1167029](../reports/1167029.md) | Broken Authendication And Session Management | [Reddit](../by-program/reddit.md) | None | — | 5 |
-| 536 | [937921](../reports/937921.md) | app.lemlist.com : Admin Panel Access | [lemlist](../by-program/lemlist.md) | None | — | 5 |
-| 537 | [894170](../reports/894170.md) | [H1-2006 2020] Writeup | [h1-ctf](../by-program/h1-ctf.md) | None | — | 5 |
-| 538 | [265987](../reports/265987.md) | Add another email address without verification | [Weblate](../by-program/weblate.md) | None | — | 5 |
-| 539 | [223846](../reports/223846.md) | Access to completion page without performing any action | [Weblate](../by-program/weblate.md) | None | — | 5 |
-| 540 | [461345](../reports/461345.md) | Security issue: Github repo's wiki publicly editable | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 3 |
-| 541 | [475114](../reports/475114.md) | Github repo's wiki publicly editable | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
-| 542 | [889333](../reports/889333.md) | [H1-2006 2020]  The Story of Making Bounty Hunters Happy | [h1-ctf](../by-program/h1-ctf.md) | None | — | 3 |
+| 511 | [3738727](../reports/3738727.md) | Restricted RPC leaks alternative block hashes via /get_alt_blocks | [Monero](../by-program/monero.md) | Low | — | 1 |
+| 512 | [293490](../reports/293490.md) | [www.zomato.com] Leaking Email Addresses of merchants via reset p | [Eternal](../by-program/eternal.md) | None | — | 111 |
+| 513 | [2425873](../reports/2425873.md) | [Monero wallet RPC] File precreation to file ownership and creden | [Monero](../by-program/monero.md) | None | — | 75 |
+| 514 | [2567048](../reports/2567048.md) | Possible Subdomain Takeover For Inbound Emails | [Smule](../by-program/smule.md) | None | — | 47 |
+| 515 | [3097900](../reports/3097900.md) | `/names.nsf` and all `/names*` files route to public API on rubyg | [RubyGems](../by-program/rubygems.md) | None | — | 46 |
+| 516 | [2921905](../reports/2921905.md) | WAF bypass and java script incomplete handling of Unicode charact | [Doppler](../by-program/doppler.md) | None | — | 33 |
+| 517 | [271407](../reports/271407.md) | Admin Access to a domain used for development and admin access to | [Eternal](../by-program/eternal.md) | None | — | 31 |
+| 518 | [330135](../reports/330135.md) | S3 bucket unnecessarily discloses permissions | [Udemy](../by-program/udemy.md) | None | — | 27 |
+| 519 | [2543342](../reports/2543342.md) | Bypassing Two-Factor Authentication via Account Deactivation and  | [HackerOne](../by-program/security.md) | None | — | 27 |
+| 520 | [1835133](../reports/1835133.md) | S3 Bucket Takeover  "brave-browser-rpm-staging-release-test" | [Brave Software](../by-program/brave.md) | None | — | 24 |
+| 521 | [968742](../reports/968742.md) | Password reset by malicious input on air.line.me | [LY Corporation](../by-program/line.md) | None | — | 23 |
+| 522 | [1654145](../reports/1654145.md) | Open S3 Bucket Accessible by any Aws User | [GoCD](../by-program/gocd.md) | None | — | 19 |
+| 523 | [898841](../reports/898841.md) | Password reset link not expired at Stocky App | [Shopify](../by-program/shopify.md) | None | — | 19 |
+| 524 | [1911568](../reports/1911568.md) | Unauthenticated cache purging | [Fastly VDP](../by-program/fastly-vdp.md) | None | — | 16 |
+| 525 | [1668258](../reports/1668258.md) | Reentrancy attack in eth-monero atomic swap | [Monero](../by-program/monero.md) | None | — | 15 |
+| 526 | [3650443](../reports/3650443.md) | no_proxy IDN mismatch: Unicode hostnames bypass proxy exclusion l | [curl](../by-program/curl.md) | None | — | 15 |
+| 527 | [417453](../reports/417453.md) | Cross-origin resource sharing: arbitrary origin trusted on chatws | [Chaturbate](../by-program/chaturbate.md) | None | — | 13 |
+| 528 | [246838](../reports/246838.md) | by pass rate limit exceed  | [WakaTime](../by-program/wakatime.md) | None | — | 11 |
+| 529 | [895202](../reports/895202.md) | [H1-2006 2020] Multiple vulnerabilities allow to leak sensitive i | [h1-ctf](../by-program/h1-ctf.md) | None | — | 11 |
+| 530 | [260632](../reports/260632.md) | Improper validation of parameters while creating issues | [Legal Robot](../by-program/legalrobot.md) | None | — | 10 |
+| 531 | [249337](../reports/249337.md) | Non-functional 2FA recovery codes | [Legal Robot](../by-program/legalrobot.md) | None | — | 9 |
+| 532 | [860197](../reports/860197.md) | A staff without export customers permissions can still export cus | [Shopify](../by-program/shopify.md) | None | — | 9 |
+| 533 | [1995595](../reports/1995595.md) | Response Manipulation to enable Account recovery key with out cur | [Mozilla](../by-program/mozilla.md) | None | — | 9 |
+| 534 | [874574](../reports/874574.md) | Partner's non-verified business email change reflected into Shopi | [Shopify](../by-program/shopify.md) | None | — | 8 |
+| 535 | [229417](../reports/229417.md) | Design Flaw in session management of password reset  | [Weblate](../by-program/weblate.md) | None | — | 6 |
+| 536 | [1167029](../reports/1167029.md) | Broken Authendication And Session Management | [Reddit](../by-program/reddit.md) | None | — | 5 |
+| 537 | [937921](../reports/937921.md) | app.lemlist.com : Admin Panel Access | [lemlist](../by-program/lemlist.md) | None | — | 5 |
+| 538 | [894170](../reports/894170.md) | [H1-2006 2020] Writeup | [h1-ctf](../by-program/h1-ctf.md) | None | — | 5 |
+| 539 | [265987](../reports/265987.md) | Add another email address without verification | [Weblate](../by-program/weblate.md) | None | — | 5 |
+| 540 | [223846](../reports/223846.md) | Access to completion page without performing any action | [Weblate](../by-program/weblate.md) | None | — | 5 |
+| 541 | [461345](../reports/461345.md) | Security issue: Github repo's wiki publicly editable | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 3 |
+| 542 | [475114](../reports/475114.md) | Github repo's wiki publicly editable | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
+| 543 | [889333](../reports/889333.md) | [H1-2006 2020]  The Story of Making Bounty Hunters Happy | [h1-ctf](../by-program/h1-ctf.md) | None | — | 3 |
