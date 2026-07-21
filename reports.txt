@@ -8344,7 +8344,7 @@ https://hackerone.com/reports/1826392 | curl/libcurl vulnerable to TLS truncatio
 https://hackerone.com/reports/1826892 | wavecell.com: Broken Link Hijacking / Instagram Takeover @██
 https://hackerone.com/reports/1829170 | Double forward slash breaks server-side restrictions & allows access to prohibited services from a partner account
 https://hackerone.com/reports/1831528 | Rogue collaborators and ambiguous branch names in GitHub
-https://hackerone.com/reports/1832126 | Existance of calendars and addressbooks can be checked by unauthenticated users 
+https://hackerone.com/reports/1832126 | Existance of calendars and addressbooks can be checked by unauthenticated users
 https://hackerone.com/reports/1832494 | Blind SSRF on https://my.exnessaffiliates.com/ allows for internal network enumeration
 https://hackerone.com/reports/1835133 | S3 Bucket Takeover  "brave-browser-rpm-staging-release-test"
 https://hackerone.com/reports/1836339 | Open Redirect - Polycom Company Directory
