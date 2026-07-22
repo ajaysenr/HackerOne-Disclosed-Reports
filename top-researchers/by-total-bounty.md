@@ -1035,7 +1035,7 @@
 | 1031 | [lauritz](https://hackerone.com/lauritz) | 6 | $0 | 972 |
 | 1032 | [thanhb](https://hackerone.com/thanhb) | 1 | $0 | 10 |
 | 1033 | [smiegles](https://hackerone.com/smiegles) | 17 | $0 | 129 |
-| 1034 | [ahacker1](https://hackerone.com/ahacker1) | 13 | $0 | 1703 |
+| 1034 | [ahacker1](https://hackerone.com/ahacker1) | 14 | $0 | 1710 |
 | 1035 | [gronke](https://hackerone.com/gronke) | 15 | $0 | 240 |
 | 1036 | [nahamsec](https://hackerone.com/nahamsec) | 20 | $0 | 1013 |
 | 1037 | [fuzzme](https://hackerone.com/fuzzme) | 11 | $0 | 605 |
@@ -1917,7 +1917,7 @@
 | 1913 | [cardinal](https://hackerone.com/cardinal) | 1 | $0 | 1 |
 | 1914 | [0xwise](https://hackerone.com/0xwise) | 2 | $0 | 41 |
 | 1915 | [hemantsolo](https://hackerone.com/hemantsolo) | 3 | $0 | 50 |
-| 1916 | [marvelmaniac](https://hackerone.com/marvelmaniac) | 2 | $0 | 180 |
+| 1916 | [marvelmaniac](https://hackerone.com/marvelmaniac) | 3 | $0 | 222 |
 | 1917 | [rafsanzami](https://hackerone.com/rafsanzami) | 1 | $0 | 20 |
 | 1918 | [nkirk-nrlabs](https://hackerone.com/nkirk-nrlabs) | 1 | $0 | 53 |
 | 1919 | [patrik](https://hackerone.com/patrik) | 3 | $0 | 13 |

@@ -9570,6 +9570,7 @@ https://hackerone.com/reports/3584149 | SSTI leads to Command injection
 https://hackerone.com/reports/3584491 | LM Challenge-Response Hash Always Sent in SMB Authentication
 https://hackerone.com/reports/3584865 | In curl's SASL OAUTHBEARER authentication, including the SOH character (0x01) in the username corrupts the message structure.
 https://hackerone.com/reports/3584903 | CVE-2026-3784: wrong proxy connection reuse with credentials
+https://hackerone.com/reports/3588801 | OAuth redirect uri validation bypass for :proxima_first_party_sync apps
 https://hackerone.com/reports/3589247 | Unauthenticated File Upload to CDN
 https://hackerone.com/reports/3589551 | RBAC bypass on App log endpoints via `permissionRequired` typo — any authenticated user reads admin-only Enterprise App logs
 https://hackerone.com/reports/3590576 | SMIL values and by attributes bypass remote image blocking via unvalidated resource-loading animations, enabling email tracking without consent

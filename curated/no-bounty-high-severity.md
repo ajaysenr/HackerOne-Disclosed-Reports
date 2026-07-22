@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1716 total)
+# High/Critical Severity — No Bounty Paid (1717 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -1483,6 +1483,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [193936](../reports/193936.md) | SQL injection vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 7 |
 | [838817](../reports/838817.md) | Insecure crossdomain.xml on https://vdc.mtnonline.com/ | [MTN Group](../by-program/mtn_group.md) | High | Resolved | 7 |
 | [3120987](../reports/3120987.md) | [High] Arbitrary File Write via Path Traversal in cURL CLI (`-o`, | [curl](../by-program/curl.md) | High | Not Applicable | 7 |
+| [3588801](../reports/3588801.md) | OAuth redirect uri validation bypass for :proxima_first_party_syn | [GitHub](../by-program/github.md) | High | Resolved | 7 |
 | [319003](../reports/319003.md) | [stattic] Inproper path validation leads to Path Traversal and al | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | Resolved | 7 |
 | [1581454](../reports/1581454.md) | 2 Cache Poisoning Attack Methods Affect Core Functionality www.ex | [Exodus](../by-program/exodus.md) | High | Informative | 7 |
 | [1245787](../reports/1245787.md) | [Swiftype] - Stored XSS via document field `url` triggers on `htt | [Elastic](../by-program/elastic.md) | High — CVSS 8.0 | Resolved | 7 |
