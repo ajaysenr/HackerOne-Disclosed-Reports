@@ -8352,7 +8352,12 @@ https://hackerone.com/reports/1837309 | Anyone can view the results of linkedin 
 https://hackerone.com/reports/1838329 | Private information exposed through GraphQL search endpoints aggregates
 https://hackerone.com/reports/1838674 | Remote Code Execution on ownCloud instances with ImageMagick installed
 https://hackerone.com/reports/1839012 | Authentication Bypass Using Default Credentials on █████
+https://hackerone.com/reports/1841064 | Ability to getting Twitter Blue verified badge without purchase it
+https://hackerone.com/reports/1841408 | Error in  Booking an appointment reveals the full path of the website
 https://hackerone.com/reports/1842114 | Missing brute force protection on password confirmation modal
+https://hackerone.com/reports/1842183 | bypass two-factor authentication.
+https://hackerone.com/reports/1842674 | SQL Injection + Insecure Deserialization leads to Remote Code Execution on https://krisp.ai
+https://hackerone.com/reports/1842801 | Adobe Experience Manager 'Childlist selector' - Cross-Site Scripting on  cbconnection.adobe.com
 https://hackerone.com/reports/1842822 | Stored XSS on app.crowdsignal.com  your-subdomain.crowdsignal.net via Thank You Header
 https://hackerone.com/reports/1842829 | Privilege Escalation in kOps using GCE/GCP Provider
 https://hackerone.com/reports/1844674 | Install.php File Exposure on Drupal
