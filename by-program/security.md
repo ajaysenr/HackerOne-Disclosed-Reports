@@ -1,4 +1,4 @@
-# HackerOne — Disclosed Reports (540 total)
+# HackerOne — Disclosed Reports (541 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -258,289 +258,290 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 252 | [800231](../reports/800231.md) | GraphQL node interface for ActiveResource models lacks encod | Medium — CVSS 6.1 | — | 42 | [jobert](https://hackerone.com/jobert) | 2020-05-11 |
 | 253 | [1486417](../reports/1486417.md) | [Bypass] Ability to invite a new member in  sandbox Organiza | Medium — CVSS 5.2 | — | 35 | [0619](https://hackerone.com/0619) | 2022-04-14 |
 | 254 | [2719622](../reports/2719622.md) | Issue with VDP Program's Transition to Private Status and Mi | Medium — CVSS 5.3 | — | 32 | [harshdranjan](https://hackerone.com/harshdranjan) | 2024-09-19 |
-| 255 | [2492631](../reports/2492631.md) | Reset the 2FA of the user which can lead to Account Takeover | Medium — CVSS 6.6 | — | 31 | [5zdob13](https://hackerone.com/5zdob13) | 2024-07-11 |
-| 256 | [291721](../reports/291721.md) | IDOR on Program Visibilty (Revealed / Concealed) against oth | Medium | — | 31 | [japz](https://hackerone.com/japz) | 2017-11-23 |
-| 257 | [289568](../reports/289568.md) | Program profile metrics endpoint contains mean time to triag | Medium — CVSS 5.0 | — | 29 | [flashdisk](https://hackerone.com/flashdisk) | 2017-11-14 |
-| 258 | [2479622](../reports/2479622.md) | 2FA Bypass via Leaked Cookies | Medium — CVSS 6.8 | — | 28 | [deepmarketer](https://hackerone.com/deepmarketer) | 2024-07-11 |
-| 259 | [2469706](../reports/2469706.md) | Session Not Expire / 2FA Bypass | Medium — CVSS 5.2 | — | 28 | [blackflyhunter](https://hackerone.com/blackflyhunter) | 2024-07-11 |
-| 260 | [293593](../reports/293593.md) | Able To Check The Exact Bounty Balance of any Bug Bounty Pro | Medium — CVSS 5.0 | — | 27 | [cjlegacion](https://hackerone.com/cjlegacion) | 2017-12-06 |
-| 261 | [317543](../reports/317543.md) | Unicorn worker pool exhaustion by continuously updating payo | Medium — CVSS 5.0 | — | 25 | [blackni9ht](https://hackerone.com/blackni9ht) | 2018-03-30 |
-| 262 | [1824342](../reports/1824342.md) | Users querying dim_hacker_reports table through Analytics AP | Medium — CVSS 6.1 | — | 21 | [jobert](https://hackerone.com/jobert) | 2023-02-22 |
-| 263 | [447488](../reports/447488.md) | Corrupted Authorization header can cause logs not to be inge | Medium — CVSS 6.1 | — | 19 | [jobert](https://hackerone.com/jobert) | 2019-04-04 |
-| 264 | [823915](../reports/823915.md) | Attacker may be able to bounce enough emails which suspend H | Medium — CVSS 5.0 | — | 18 | [iamr0000t](https://hackerone.com/iamr0000t) | 2020-06-12 |
-| 265 | [2575079](../reports/2575079.md) | Hackers can Invite Collaborators Without 2FA on Programs Req | Medium — CVSS 5.3 | — | 10 | [anish-kosaraju](https://hackerone.com/anish-kosaraju) | 2024-07-11 |
-| 266 | [284143](../reports/284143.md) | Reverse Tabnabbing Vulnerability in Outgoing Links | Medium | — | 3 | [what94](https://hackerone.com/what94) | 2017-11-21 |
-| 267 | [999789](../reports/999789.md) | Getting New Invitations without Leaving Programs | Low — CVSS 3.8 | — | 321 | [ali](https://hackerone.com/ali) | 2020-10-15 |
-| 268 | [792998](../reports/792998.md) | 404-response contains debug-information with all headers | Low | — | 170 | [p4fg](https://hackerone.com/p4fg) | 2020-05-16 |
-| 269 | [536853](../reports/536853.md) | Unreleased CTF Levels are Revealed on /group/user/ID1?user=U | Low — CVSS 2.4 | — | 160 | [spaceraccoon](https://hackerone.com/spaceraccoon) | 2019-04-23 |
-| 270 | [159156](../reports/159156.md) | Hacker.One Subdomain Takeover | Low — CVSS 3.5 | — | 154 | [geekboy](https://hackerone.com/geekboy) | 2016-09-20 |
-| 271 | [381356](../reports/381356.md) | Client-Side Race Condition using Marketo, allows sending use | Low — CVSS 3.1 | — | 152 | [fransrosen](https://hackerone.com/fransrosen) | 2019-04-05 |
-| 272 | [604534](../reports/604534.md) | Race Condition leads to undeletable group member | Low — CVSS 2.4 | — | 150 | [yashrs](https://hackerone.com/yashrs) | 2020-03-20 |
-| 273 | [2530242](../reports/2530242.md) | [ Spot Check ] Team members can edit a user's write-up | Low — CVSS 2.7 | — | 147 | [youstin](https://hackerone.com/youstin) | 2024-06-06 |
-| 274 | [202767](../reports/202767.md) | Subdomain takeover at info.hacker.one | Low — CVSS 3.5 | — | 134 | [ak1t4](https://hackerone.com/ak1t4) | 2017-03-27 |
-| 275 | [549364](../reports/549364.md) | Account recovery text message is sending a wrong domain to u | Low — CVSS 3.8 | — | 117 | [zeesek](https://hackerone.com/zeesek) | 2019-05-31 |
-| 276 | [3378540](../reports/3378540.md) | Lack of Validation in Reward Redemption Allows Unlimited Bur | Low — CVSS 2.1 | — | 113 | [theokeen](https://hackerone.com/theokeen) | 2026-03-18 |
-| 277 | [269230](../reports/269230.md) | Emails of invited collaborators are disclosed in full in pay | Low — CVSS 3.4 | — | 111 | [flashdisk](https://hackerone.com/flashdisk) | 2019-04-09 |
-| 278 | [961841](../reports/961841.md) | Recently added 'Country' field doesn't send email notificati | Low | — | 107 | [bugra](https://hackerone.com/bugra) | 2020-08-25 |
-| 279 | [499030](../reports/499030.md) | DOM Based XSS in www.hackerone.com via PostMessage (bypass o | Low — CVSS 3.1 | — | 105 | [honoki](https://hackerone.com/honoki) | 2019-05-04 |
-| 280 | [861170](../reports/861170.md) | Attacker with an Old account might still be able to DoS ctf. | Low | — | 96 | [iamr0000t](https://hackerone.com/iamr0000t) | 2020-05-25 |
-| 281 | [587910](../reports/587910.md) | Password not checked when disabling 2FA on HackerOne | Low — CVSS 3.4 | — | 92 | [tester1231233](https://hackerone.com/tester1231233) | 2019-06-07 |
-| 282 | [454949](../reports/454949.md) | Race Condition in Flag Submission | Low | — | 91 | [dropper](https://hackerone.com/dropper) | 2019-07-22 |
-| 283 | [2476149](../reports/2476149.md) | Confirmed #2118458: Intentional redirect from www.hackerone. | Low — CVSS 3.0 | — | 90 | [sarthakbhingare015](https://hackerone.com/sarthakbhingare015) | 2024-05-09 |
-| 284 | [1581499](../reports/1581499.md) | HTML Injection in email via Name field | Low — CVSS 3.1 | — | 84 | [hacker1_agent](https://hackerone.com/hacker1_agent) | 2022-09-18 |
-| 285 | [2553026](../reports/2553026.md) | Domain highlighting on External link warning is not working  | Low — CVSS 3.5 | — | 80 | [sarthakbhingare015](https://hackerone.com/sarthakbhingare015) | 2025-03-13 |
-| 286 | [2106708](../reports/2106708.md) | Bypass of #2035332 RXSS at image.hackerone.live via the `url | Low — CVSS 3.9 | — | 80 | [sudi](https://hackerone.com/sudi) | 2023-08-22 |
-| 287 | [2323303](../reports/2323303.md) | Program admins could add verified domains to an organization | Low — CVSS 3.4 | — | 79 | [hillybott](https://hackerone.com/hillybott) | 2024-03-07 |
-| 288 | [724944](../reports/724944.md) | latest_activity_id and latest_activity_at may disclose infor | Low — CVSS 3.4 | — | 79 | [egrep](https://hackerone.com/egrep) | 2019-11-10 |
-| 289 | [1918362](../reports/1918362.md) | Any one can view collaborater email address via  path /repor | Low — CVSS 3.8 | — | 78 | [aloneh1_breecher](https://hackerone.com/aloneh1_breecher) | 2023-06-01 |
-| 290 | [209004](../reports/209004.md) | Subdomain takeover #2  at info.hacker.one | Low — CVSS 3.5 | — | 78 | [ak1t4](https://hackerone.com/ak1t4) | 2017-04-28 |
-| 291 | [262661](../reports/262661.md) | IDOR on HackerOne Feedback Review | Low — CVSS 3.4 | — | 76 | [japz](https://hackerone.com/japz) | 2017-09-02 |
-| 292 | [2632876](../reports/2632876.md) | Access to limited confidential information of private progra | Low — CVSS 3.1 | — | 74 | [sarthakbhingare015](https://hackerone.com/sarthakbhingare015) | 2024-12-24 |
-| 293 | [220445](../reports/220445.md) | Race condition leads to duplicate payouts | Low — CVSS 3.1 | — | 72 | [jigarthakkar39](https://hackerone.com/jigarthakkar39) | 2017-05-23 |
-| 294 | [929361](../reports/929361.md) | Making program preference -> program visibilty feature usles | Low — CVSS 3.8 | — | 70 | [spongebhav](https://hackerone.com/spongebhav) | 2020-10-02 |
-| 295 | [510759](../reports/510759.md) | IDOR in Report CSV export discloses the IDs of Custom Field  | Low — CVSS 3.8 | — | 65 | [jobert](https://hackerone.com/jobert) | 2019-09-06 |
-| 296 | [1039821](../reports/1039821.md) | Second-order SOQL injection through email and campaign name  | Low — CVSS 2.7 | — | 64 | [jobert](https://hackerone.com/jobert) | 2021-06-18 |
-| 297 | [2430179](../reports/2430179.md) | Minor security issue with Hackerone Invitations from sandbox | Low — CVSS 3.8 | — | 63 | [iam_srpk](https://hackerone.com/iam_srpk) | 2024-07-22 |
-| 298 | [2709660](../reports/2709660.md) | Takeover of hackerone.engineering via Medium  | Low — CVSS 3.7 | — | 60 | [raditz](https://hackerone.com/raditz) | 2024-11-14 |
-| 299 | [389600](../reports/389600.md) | TeamProfile exposes partially sensitive information through  | Low — CVSS 3.8 | — | 60 | [0619](https://hackerone.com/0619) | 2018-08-08 |
-| 300 | [1392511](../reports/1392511.md) | HackerOne Staging uses Production data for testing | Low | — | 58 | [tk0](https://hackerone.com/tk0) | 2021-11-05 |
-| 301 | [217358](../reports/217358.md) | Subdomain takeover #3 at info.hacker.one | Low — CVSS 3.5 | — | 58 | [ak1t4](https://hackerone.com/ak1t4) | 2017-06-21 |
-| 302 | [278095](../reports/278095.md) | Invalid Host detection at https://hackerone.com/redirect | Low | — | 57 | [shailesh4594](https://hackerone.com/shailesh4594) | 2017-12-03 |
-| 303 | [2000000](../reports/2000000.md) | 2M Reports on HackerOne Celebration! - Ability to bulk-submi | Low — CVSS 3.4 | — | 54 | [nagli](https://hackerone.com/nagli) | 2023-07-11 |
-| 304 | [488985](../reports/488985.md) | Race condition in claiming program credentials  | Low — CVSS 3.4 | — | 52 | [flashdisk](https://hackerone.com/flashdisk) | 2019-05-19 |
-| 305 | [220002](../reports/220002.md) | Subdomain takeover #4 at info.hacker.one | Low — CVSS 3.5 | — | 50 | [ak1t4](https://hackerone.com/ak1t4) | 2017-06-21 |
-| 306 | [1159398](../reports/1159398.md) | New link opening method makes hackerone vulnerable to tabnab | Low | — | 50 | [recon_ninja](https://hackerone.com/recon_ninja) | 2021-07-07 |
-| 307 | [1664920](../reports/1664920.md) | Program managers can see draft reports using Export Reports  | Low — CVSS 3.4 | — | 50 | [alp](https://hackerone.com/alp) | 2023-05-18 |
-| 308 | [640488](../reports/640488.md) | Total bounties paid amount is disclosed because of redesign  | Low | — | 50 | [asad0x01_](https://hackerone.com/asad0x01_) | 2019-08-02 |
-| 309 | [565736](../reports/565736.md) | View HackerOne challenge scope before challenge begins | Low — CVSS 2.7 | — | 48 | [neema](https://hackerone.com/neema) | 2019-07-11 |
-| 310 | [1869613](../reports/1869613.md) | Attachment in published HackerOne report exposure private pr | Low — CVSS 3.8 | — | 48 | [mateuszek](https://hackerone.com/mateuszek) | 2023-06-07 |
-| 311 | [1886143](../reports/1886143.md) | information disclosure of another company bug on video. | Low — CVSS 3.8 | — | 47 | [mundre_07](https://hackerone.com/mundre_07) | 2023-03-12 |
-| 312 | [299403](../reports/299403.md) | Domain spoofing in redirect page using RTLO | Low | — | 47 | [ashish_r_padelkar](https://hackerone.com/ashish_r_padelkar) | 2018-01-30 |
-| 313 | [1103812](../reports/1103812.md) | "Bounty splitting enabled" can discloses if public VDPs are  | Low — CVSS 3.4 | — | 46 | [hundredpercent](https://hackerone.com/hundredpercent) | 2021-03-18 |
-| 314 | [250729](../reports/250729.md) | Content Security Policy not applied to error pages at multip | Low | — | 45 | [brad07](https://hackerone.com/brad07) | 2017-12-12 |
-| 315 | [1088966](../reports/1088966.md) | Ability to invite a new member on Sandbox Program | Low | — | 44 | [ex1st3nc3_](https://hackerone.com/ex1st3nc3_) | 2021-04-05 |
-| 316 | [199779](../reports/199779.md) | Google Analytics could be used as CSP bypass for data exfilt | Low — CVSS 3.7 | — | 44 | [aaron_costello](https://hackerone.com/aaron_costello) | 2017-03-26 |
-| 317 | [220774](../reports/220774.md) | API Last Request Date/Time Not Updating | Low | — | 44 | [yaworsk](https://hackerone.com/yaworsk) | 2019-05-19 |
-| 318 | [171398](../reports/171398.md) | (HackerOne SSO-SAML) Login CSRF, Open Redirect, and Self-XSS | Low | — | 43 | [whhackersbr](https://hackerone.com/whhackersbr) | 2016-10-27 |
-| 319 | [410451](../reports/410451.md) | User login page doesn't implement any form of rate limiting | Low — CVSS 3.0 | — | 42 | [0xspade](https://hackerone.com/0xspade) | 2019-01-04 |
-| 320 | [1138668](../reports/1138668.md) | The possibility of disrupting the normal operation of fronte | Low — CVSS 3.1 | — | 41 | [haxta4ok00](https://hackerone.com/haxta4ok00) | 2021-08-24 |
-| 321 | [397031](../reports/397031.md) | Disclosure of top 10 vulnerability types for programs that h | Low | — | 40 | [tolo7010](https://hackerone.com/tolo7010) | 2018-11-07 |
-| 322 | [1374017](../reports/1374017.md) | HTML injection in email at https://www.hackerone.com/ | Low — CVSS 3.8 | — | 40 | [iamr0000t](https://hackerone.com/iamr0000t) | 2023-05-12 |
-| 323 | [669776](../reports/669776.md) | Disclosure of Program email Title Report when being removed  | Low — CVSS 3.4 | — | 39 | [hisokamorou](https://hackerone.com/hisokamorou) | 2019-09-06 |
-| 324 | [1131306](../reports/1131306.md) | User's who are banned from program can still be invited to t | Low — CVSS 3.1 | — | 36 | [muon4](https://hackerone.com/muon4) | 2021-09-22 |
-| 325 | [301526](../reports/301526.md) | Invitation token leaks to https://bat.bing.com | Low — CVSS 2.7 | — | 36 | [zuriel](https://hackerone.com/zuriel) | 2018-01-11 |
-| 326 | [1128701](../reports/1128701.md) | Lack warning label when receiving a letter | Low — CVSS 3.1 | — | 33 | [haxta4ok00](https://hackerone.com/haxta4ok00) | 2021-05-13 |
-| 327 | [645264](../reports/645264.md) | Program Email Nofication settings ignored when being added a | Low — CVSS 3.4 | — | 33 | [archangel](https://hackerone.com/archangel) | 2019-08-07 |
-| 328 | [348168](../reports/348168.md) | Timing attack towards endpoints on the web without CSRF  | Low — CVSS 2.9 | — | 33 | [b258ea62bf297b02afa9854](https://hackerone.com/b258ea62bf297b02afa9854) | 2018-12-27 |
-| 329 | [1130235](../reports/1130235.md) | Hackers can reveal the names of private programs that have a | Low — CVSS 2.6 | — | 32 | [haxta4ok00](https://hackerone.com/haxta4ok00) | 2021-08-24 |
-| 330 | [395518](../reports/395518.md) | Internal usage of AdBlockPlus may expose PoC URLs to unknown | Low — CVSS 3.5 | — | 32 | [dudez](https://hackerone.com/dudez) | 2018-08-17 |
-| 331 | [237262](../reports/237262.md) | Invitation tokens leak to Google Analytics | Low — CVSS 3.1 | — | 32 | [h33tjev](https://hackerone.com/h33tjev) | 2017-07-16 |
-| 332 | [2569993](../reports/2569993.md) | Reports submitted by a non 2fa setupped user account can be  | Low — CVSS 2.7 | — | 31 | [aloneh1](https://hackerone.com/aloneh1) | 2024-07-11 |
-| 333 | [1264725](../reports/1264725.md) | Information disclosure - Feedback is accessible on Public pr | Low | — | 30 | [brdoors3](https://hackerone.com/brdoors3) | 2021-08-03 |
-| 334 | [818848](../reports/818848.md) | Read-only team members can read all properties of webhooks | Low | — | 30 | [bencode](https://hackerone.com/bencode) | 2020-04-29 |
-| 335 | [334253](../reports/334253.md) | CSRF at [Apply to this program] that lead to submit your req | Low — CVSS 3.4 | — | 30 | [modam3r5](https://hackerone.com/modam3r5) | 2018-07-05 |
-| 336 | [1386277](../reports/1386277.md) | Attachment references in markdown don't warn before download | Low | — | 29 | [iamr0000t](https://hackerone.com/iamr0000t) | 2022-02-25 |
-| 337 | [1139528](../reports/1139528.md) | Editing Pentest Summary Report Answers After Submitting Them | Low — CVSS 3.1 | — | 29 | [whhackersbr](https://hackerone.com/whhackersbr) | 2021-05-06 |
-| 338 | [207266](../reports/207266.md) | Information leakage via CSV when content is valid JavaScript | Low | — | 29 | [mikkocarreon](https://hackerone.com/mikkocarreon) | 2017-05-23 |
-| 339 | [488643](../reports/488643.md) | Disclosure of h1 challenges name through the calendar | Low — CVSS 3.8 | — | 29 | [rijalrojan](https://hackerone.com/rijalrojan) | 2019-01-30 |
-| 340 | [196358](../reports/196358.md) | Report redaction doesn't apply to report title update activi | Low | — | 27 | [b21cbe5e1e1a9be6a2b9da3](https://hackerone.com/b21cbe5e1e1a9be6a2b9da3) | 2017-02-25 |
-| 341 | [448078](../reports/448078.md) | A user can request a report to be retested even though the p | Low — CVSS 3.8 | — | 27 | [0xelement](https://hackerone.com/0xelement) | 2018-12-27 |
-| 342 | [270993](../reports/270993.md) | resolved bugs in a program are public despite the program se | Low | — | 25 | [flashdisk](https://hackerone.com/flashdisk) | 2017-10-13 |
-| 343 | [888930](../reports/888930.md) | SAML Response Reuse on hackerone.com/users/saml/auth | Low | — | 25 | [samtink](https://hackerone.com/samtink) | 2020-07-24 |
-| 344 | [608656](../reports/608656.md) | Disabled account can still use GraphQL endpoint | Low — CVSS 2.9 | — | 24 | [tolo7010](https://hackerone.com/tolo7010) | 2020-03-12 |
-| 345 | [826176](../reports/826176.md) | program_analytics_benchmarks query shows information not vis | Low | — | 22 | [0619](https://hackerone.com/0619) | 2020-03-27 |
-| 346 | [143975](../reports/143975.md) | Homograph attack in escalate report | Low — CVSS 3.5 | — | 20 | [user_name2023](https://hackerone.com/user_name2023) | 2019-04-19 |
-| 347 | [955286](../reports/955286.md) | Graphql: Sorting the reports by jira_status field resulted t | Low — CVSS 3.8 | — | 20 | [0619](https://hackerone.com/0619) | 2020-08-27 |
-| 348 | [178345](../reports/178345.md) | Limited Open redirection using SSO-SAML | Low | — | 18 | [shailesh4594](https://hackerone.com/shailesh4594) | 2017-03-26 |
-| 349 | [1132171](../reports/1132171.md) | Race condition allows to send multiple times feedback for th | Low — CVSS 2.7 | — | 17 | [muon4](https://hackerone.com/muon4) | 2021-09-22 |
-| 350 | [129773](../reports/129773.md) | Previous attachments can be referenced when creating a new r | Low — CVSS 3.1 | — | 17 | [kusl](https://hackerone.com/kusl) | 2019-04-12 |
-| 351 | [1256371](../reports/1256371.md) | PII data Leakage through hackerone reports  | Low — CVSS 2.7 | — | 16 | [iamr0000t](https://hackerone.com/iamr0000t) | 2021-08-09 |
-| 352 | [1139541](../reports/1139541.md) | Enumerating HackerOne Pentests | Low — CVSS 3.7 | — | 16 | [whhackersbr](https://hackerone.com/whhackersbr) | 2021-08-25 |
-| 353 | [1127455](../reports/1127455.md) | Hackers can reveal the names of private programs that have a | Low — CVSS 2.6 | — | 16 | [haxta4ok00](https://hackerone.com/haxta4ok00) | 2021-08-24 |
-| 354 | [118582](../reports/118582.md) | CSV Injection at the CSV export feature | Low — CVSS 2.0 | — | 14 | [niemand_sec](https://hackerone.com/niemand_sec) | 2019-04-08 |
-| 355 | [174449](../reports/174449.md) | Researcher gets email updates on a private program after he/ | Low — CVSS 3.5 | — | 14 | [sasi2103](https://hackerone.com/sasi2103) | 2016-11-21 |
-| 356 | [813300](../reports/813300.md) | Changes to data in a CVE request after draft via GraphQL que | Low — CVSS 2.6 | — | 14 | [haxta4ok00](https://hackerone.com/haxta4ok00) | 2020-05-15 |
-| 357 | [1133536](../reports/1133536.md) | Temporary banned user (from platform) is able to make submis | Low — CVSS 3.1 | — | 12 | [muon4](https://hackerone.com/muon4) | 2021-09-22 |
-| 358 | [174470](../reports/174470.md) | Possible CSRF during external programs | Low | — | 12 | [malcolmx](https://hackerone.com/malcolmx) | 2016-10-18 |
-| 359 | [209917](../reports/209917.md) | javascript: and mailto: links are allowed in JIRA integratio | Low — CVSS 3.5 | — | 12 | [jamesclyde](https://hackerone.com/jamesclyde) | 2017-04-10 |
-| 360 | [307424](../reports/307424.md) | While adding a payment method - Notification email not sent  | Low | — | 10 | [us111](https://hackerone.com/us111) | 2018-01-23 |
-| 361 | [177484](../reports/177484.md) | Information disclosure via policy update notifications after | Low — CVSS 3.5 | — | 9 | [staytuned](https://hackerone.com/staytuned) | 2016-10-29 |
-| 362 | [350432](../reports/350432.md) | Information disclosure | Low — CVSS 2.9 | — | 8 | [b258ea62bf297b02afa9854](https://hackerone.com/b258ea62bf297b02afa9854) | 2018-12-27 |
-| 363 | [325594](../reports/325594.md) | Leakage badges on disabled user | Low | — | 8 | [e333jsjs7se](https://hackerone.com/e333jsjs7se) | 2018-03-15 |
-| 364 | [296706](../reports/296706.md) | Open redirect deceive in hackerone.com via another open redi | Low | — | 7 | [abidbaseer](https://hackerone.com/abidbaseer) | 2017-12-13 |
-| 365 | [313075](../reports/313075.md) | Information Disclosure which violate program privacy | Low | — | 5 | [eqbang](https://hackerone.com/eqbang) | 2018-02-20 |
-| 366 | [311449](../reports/311449.md) | Reputation gain split by company can be used to track the ex | Low | — | 4 | [aidantwoods](https://hackerone.com/aidantwoods) | 2018-02-02 |
-| 367 | [279914](../reports/279914.md) | Issue with password change in Disabled Account | Low | — | 4 | [0xm1racle](https://hackerone.com/0xm1racle) | 2017-11-16 |
-| 368 | [228648](../reports/228648.md) | WannaCrypt “Killswitch” | None | — | 808 | [malwaretech](https://hackerone.com/malwaretech) | 2017-05-13 |
-| 369 | [762510](../reports/762510.md) | How the Bug stole hacking | None | — | 470 | [archangel](https://hackerone.com/archangel) | 2019-12-20 |
-| 370 | [1220747](../reports/1220747.md) | HackerOne making payments in USDC (Coinbase stable coin) | None | — | 201 | [arl_rose](https://hackerone.com/arl_rose) | 2021-06-17 |
-| 371 | [1007689](../reports/1007689.md) | 2020-10-09 Credential Stuffing Attack | None | — | 195 | [jobert](https://hackerone.com/jobert) | 2020-10-13 |
-| 372 | [127844](../reports/127844.md) | Web Authentication Endpoint Credentials Brute-Force Vulnerab | None | — | 160 | [arneswinnen](https://hackerone.com/arneswinnen) | 2016-06-23 |
-| 373 | [207042](../reports/207042.md) | Stealing contact form data on www.hackerone.com using Market | None | — | 152 | [fransrosen](https://hackerone.com/fransrosen) | 2017-08-29 |
-| 374 | [271506](../reports/271506.md) | Banned researcher gets email updates on a private program. | None | — | 139 | [fixit](https://hackerone.com/fixit) | 2019-05-18 |
-| 375 | [146845](../reports/146845.md) | Race Conditions in Popular reports feature. | None | — | 124 | [shmoo](https://hackerone.com/shmoo) | 2016-08-03 |
-| 376 | [2285198](../reports/2285198.md) | How the Arch Angel stole Live Events | None | — | 97 | [archangel](https://hackerone.com/archangel) | 2023-12-15 |
-| 377 | [2263294](../reports/2263294.md) | Cloud Computer Hackerone Triager can be Accessible for every | None | — | 91 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2024-05-10 |
-| 378 | [170310](../reports/170310.md) | Bypass rate limiting on /users/password (possibly site-wide  | None | — | 75 | [zseano](https://hackerone.com/zseano) | 2016-12-08 |
-| 379 | [298265](../reports/298265.md) | HTTP Parameter Pollution using semicolons in iframe element  | None | — | 65 | [kapytein](https://hackerone.com/kapytein) | 2018-03-13 |
-| 380 | [2370955](../reports/2370955.md) | LLM03: Training Data Poisoning via ASCII decoding  | None | — | 62 | [hacktus](https://hackerone.com/hacktus) | 2024-05-28 |
-| 381 | [378122](../reports/378122.md) | HackerOne customer submitted sensitive link to VirusTotal, e | None | — | 60 | [user_name2023](https://hackerone.com/user_name2023) | 2018-07-26 |
-| 382 | [1028332](../reports/1028332.md) | Stored XSS on https://events.hackerone.com | None | — | 58 | [nagli](https://hackerone.com/nagli) | 2021-03-26 |
-| 383 | [1028345](../reports/1028345.md) | Open Redirect on http://events.hackerone.com/redirect?url=ht | None | — | 54 | [nagli](https://hackerone.com/nagli) | 2021-03-26 |
-| 384 | [320376](../reports/320376.md) | Open Redirection in index.php page | None | — | 53 | [prashantkumar96](https://hackerone.com/prashantkumar96) | 2018-03-07 |
-| 385 | [280](../reports/280.md) | Real impersonation | None | — | 48 | [janpaul123](https://hackerone.com/janpaul123) | 2013-11-30 |
-| 386 | [120](../reports/120.md) | Missing SPF for hackerone.com | None | — | 48 | [defensis](https://hackerone.com/defensis) | 2014-01-09 |
-| 387 | [2134874](../reports/2134874.md) | Hackers two email disclosed on  submission at hackerone hact | None | — | 43 | [inscryption](https://hackerone.com/inscryption) | 2023-10-18 |
-| 388 | [713](../reports/713.md) | Upload profile photo from URL | None | — | 43 | [zurke](https://hackerone.com/zurke) | 2014-02-15 |
-| 389 | [128088](../reports/128088.md) | AWS S3 bucket writeable for authenticated aws users | None | — | 41 | [yaworsk](https://hackerone.com/yaworsk) | 2016-04-05 |
-| 390 | [301862](../reports/301862.md) | Path traversal leading to limited CSRF on GET requests on tw | None | — | 39 | [kapytein](https://hackerone.com/kapytein) | 2019-04-05 |
-| 391 | [347937](../reports/347937.md) | Team object in GraphQL that have a published external progra | None | — | 39 | [nismo](https://hackerone.com/nismo) | 2018-07-04 |
-| 392 | [321](../reports/321.md) | CSP not consistently applied | None | — | 34 | [janpaul123](https://hackerone.com/janpaul123) | 2013-11-30 |
-| 393 | [284](../reports/284.md) | Broken Authentication and session management OWASP A2 | None | — | 34 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-01-09 |
-| 394 | [135072](../reports/135072.md) | RCE in profile picture upload | None | — | 32 | [c666a323be94d57](https://hackerone.com/c666a323be94d57) | 2016-06-08 |
-| 395 | [1028396](../reports/1028396.md) | Reflected XSS and possible SSRF/XXE on https://events.hacker | None | — | 32 | [nagli](https://hackerone.com/nagli) | 2021-03-26 |
-| 396 | [158186](../reports/158186.md) | Non-secure requests are not automatically upgraded to HTTPS | None | — | 30 | [koenrh](https://hackerone.com/koenrh) | 2016-08-19 |
-| 397 | [287245](../reports/287245.md) | Blind SSRF in "Integrations" by abusing a bug in Ruby's nati | None | — | 30 | [edoverflow](https://hackerone.com/edoverflow) | 2017-11-09 |
-| 398 | [2001913](../reports/2001913.md) | Create miscellaneous support ticket on anyone's account thro | None | — | 29 | [sayaanalam](https://hackerone.com/sayaanalam) | 2023-08-11 |
-| 399 | [575](../reports/575.md) | Email spoofing  | None | — | 27 | [introvertmac](https://hackerone.com/introvertmac) | 2015-05-28 |
-| 400 | [2543342](../reports/2543342.md) | Bypassing Two-Factor Authentication via Account Deactivation | None | — | 27 | [011alsanosi](https://hackerone.com/011alsanosi) | 2024-07-11 |
-| 401 | [111968](../reports/111968.md) | Interstitial redirect bypass / open redirect in https://hack | None | — | 26 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2016-02-24 |
-| 402 | [350964](../reports/350964.md) | User object in GraphQL exposes number of trial reports for E | None | — | 24 | [ashish_r_padelkar](https://hackerone.com/ashish_r_padelkar) | 2018-06-27 |
-| 403 | [547](../reports/547.md) | CSRF login | None | — | 24 | [andrisatteka](https://hackerone.com/andrisatteka) | 2014-01-13 |
-| 404 | [2463069](../reports/2463069.md) | 2fa can't be activated on app.pullrequest.com | None | — | 24 | [iam_srpk](https://hackerone.com/iam_srpk) | 2024-07-11 |
-| 405 | [2429](../reports/2429.md) | Hackerone Email Addresses Enumeration | None | — | 24 | [cliantech](https://hackerone.com/cliantech) | 2016-06-17 |
-| 406 | [148050](../reports/148050.md) | Know undisclosed Bounty Amount when Bounty Statistics are en | None | — | 23 | [vijay_kumar](https://hackerone.com/vijay_kumar) | 2016-09-02 |
-| 407 | [110](../reports/110.md) | Login page password-guessing attack | None | — | 22 | [gazly](https://hackerone.com/gazly) | 2014-01-16 |
-| 408 | [291531](../reports/291531.md) | Introspection query leaks sensitive graphql system informati | None | — | 22 | [zuriel](https://hackerone.com/zuriel) | 2017-11-22 |
-| 409 | [217058](../reports/217058.md) | CRLF injection in info.hacker.one | None | — | 21 | [thalaivarsubu](https://hackerone.com/thalaivarsubu) | 2017-05-03 |
-| 410 | [2528919](../reports/2528919.md) | 2FA requirement bypass when claiming bounty  | None | — | 21 | [raymatp](https://hackerone.com/raymatp) | 2024-07-11 |
-| 411 | [129992](../reports/129992.md) | Missing Certificate Authority Authorization rule | None | — | 20 | [ericlaw](https://hackerone.com/ericlaw) | 2017-08-17 |
-| 412 | [2068830](../reports/2068830.md) | HackerOne Support System Doesn't Require Any Authentication  | None | — | 20 | [rafsanzami](https://hackerone.com/rafsanzami) | 2023-08-11 |
-| 413 | [208407](../reports/208407.md) | Able to create basic user account via Google login on Hacker | None | — | 20 | [ishahriyar](https://hackerone.com/ishahriyar) | 2017-04-25 |
-| 414 | [163381](../reports/163381.md) | Session  hijacking attack | None | — | 20 | [haxta4ok00](https://hackerone.com/haxta4ok00) | 2019-12-06 |
-| 415 | [761](../reports/761.md) | Enumeration of users | None | — | 20 | [dawidczagan](https://hackerone.com/dawidczagan) | 2014-10-03 |
-| 416 | [225754](../reports/225754.md) | Insecure SHA1withRSA in b5s.hackerone-ext-content.com and a4 | None | — | 19 | [evanricafort](https://hackerone.com/evanricafort) | 2017-06-21 |
-| 417 | [1509](../reports/1509.md) | DNS Misconfiguration | None | — | 19 | [defensis](https://hackerone.com/defensis) | 2014-02-15 |
-| 418 | [2109382](../reports/2109382.md) | Support Tickets can be created on behalf of other users usin | None | — | 18 | [as_patro](https://hackerone.com/as_patro) | 2023-09-08 |
-| 419 | [357576](../reports/357576.md) | Exposing hackerone users personally identifiable information | None | — | 18 | [japz](https://hackerone.com/japz) | 2018-06-07 |
-| 420 | [97292](../reports/97292.md) | HTTP header injection in info.hackerone.com allows setting c | None | — | 18 | [harisec](https://hackerone.com/harisec) | 2015-12-02 |
-| 421 | [105887](../reports/105887.md) | Know whether private program for company exist or not | None | — | 18 | [ashish_r_padelkar](https://hackerone.com/ashish_r_padelkar) | 2016-01-15 |
-| 422 | [161947](../reports/161947.md) | Lack of length validation on user address attribute | None | — | 18 | [rohitdua](https://hackerone.com/rohitdua) | 2019-04-11 |
-| 423 | [112935](../reports/112935.md) | Unintended HTML inclusion as a result of https://hackerone.c | None | — | 18 | [yaworsk](https://hackerone.com/yaworsk) | 2016-02-24 |
-| 424 | [410245](../reports/410245.md) | Missing Certificate Authority Authorization rule | None | — | 17 | [theendisnear](https://hackerone.com/theendisnear) | 2019-04-11 |
-| 425 | [225833](../reports/225833.md) | www.hackerone.com website CSP "script-src" includes "unsafe- | None | — | 17 | [rootkid](https://hackerone.com/rootkid) | 2017-05-23 |
-| 426 | [283361](../reports/283361.md) | Private partial disclosure of h1 infrastructure  | None | — | 17 | [exadmin](https://hackerone.com/exadmin) | 2017-11-03 |
-| 427 | [59375](../reports/59375.md) | Homograph attack | None | — | 17 | [filedescriptor](https://hackerone.com/filedescriptor) | 2015-05-09 |
-| 428 | [33935](../reports/33935.md) | File Name Enumeration  | None | — | 17 | [nahamsec](https://hackerone.com/nahamsec) | 2014-11-17 |
-| 429 | [144129](../reports/144129.md) | Old titles are not hidden in reports with limited disclosure | None | — | 16 | [jthetechguy](https://hackerone.com/jthetechguy) | 2016-06-21 |
-| 430 | [163131](../reports/163131.md) | Users contents on AWS  is cacheable  | None | — | 16 | [abdullah](https://hackerone.com/abdullah) | 2016-09-06 |
-| 431 | [275](../reports/275.md) | Flawed account creation process allows registration of usern | None | — | 15 | [robots-txt](https://hackerone.com/robots-txt) | 2015-06-08 |
-| 432 | [141629](../reports/141629.md) | Able to remove the admin access of my program | None | — | 15 | [pardeepbattu02](https://hackerone.com/pardeepbattu02) | 2016-07-06 |
-| 433 | [546](../reports/546.md) | Logical issues with account settings | None | — | 15 | [introvertmac](https://hackerone.com/introvertmac) | 2015-05-28 |
-| 434 | [157750](../reports/157750.md) | Missing rate limit on critical user actions e.g. reset passw | None | — | 14 | [rohitdua](https://hackerone.com/rohitdua) | 2019-04-11 |
-| 435 | [3227](../reports/3227.md) | Control Characters Not Stripped From Username on Signup | None | — | 14 | [wkcaj](https://hackerone.com/wkcaj) | 2014-03-11 |
-| 436 | [17383](../reports/17383.md) | Category- Broken Authentication and Session Management (lead | None | — | 14 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-07-26 |
-| 437 | [35237](../reports/35237.md) | Gain reputation by creating a duplicate of an existing repor | None | — | 14 | [huzaifa_jawaid](https://hackerone.com/huzaifa_jawaid) | 2015-08-14 |
-| 438 | [119354](../reports/119354.md) | Race Conditions Exist When Accepting Invitations | None | — | 14 | [yaworsk](https://hackerone.com/yaworsk) | 2016-04-26 |
-| 439 | [15785](../reports/15785.md) | Session not invalidated after password reset | None | — | 14 | [guido](https://hackerone.com/guido) | 2014-06-10 |
-| 440 | [137503](../reports/137503.md) | Inadequate access controls in "Vote" functionality??? | None | — | 14 | [apok](https://hackerone.com/apok) | 2016-05-12 |
-| 441 | [288](../reports/288.md) | Session Management | None | — | 14 | [javidhussain21](https://hackerone.com/javidhussain21) | 2014-04-19 |
-| 442 | [72785](../reports/72785.md) | CSV Injection with the CVS export feature | None | — | 13 | [appsec3](https://hackerone.com/appsec3) | 2015-09-21 |
-| 443 | [159512](../reports/159512.md) | Requesting Mediation possible on reports that are too old fo | None | — | 13 | [troubleshooter](https://hackerone.com/troubleshooter) | 2016-08-17 |
-| 444 | [2221](../reports/2221.md) | CSS leaks SCSS debug info | None | — | 13 | [guido](https://hackerone.com/guido) | 2014-02-28 |
-| 445 | [459634](../reports/459634.md) | GitHub users outside of HackerOne organization can create an | None | — | 12 | [mik317](https://hackerone.com/mik317) | 2018-12-12 |
-| 446 | [106305](../reports/106305.md) | Improve signals in reputation | None | — | 12 | [ashish_r_padelkar](https://hackerone.com/ashish_r_padelkar) | 2016-01-07 |
-| 447 | [123572](../reports/123572.md) | Unauthorized Team members viewing | None | — | 12 | [temmyscript](https://hackerone.com/temmyscript) | 2016-07-02 |
-| 448 | [298](../reports/298.md) | RTL override symbol not stripped from file names | None | — | 11 | [mathias](https://hackerone.com/mathias) | 2015-05-28 |
-| 449 | [345](../reports/345.md) | Privilege escalation..., or not?! | None | — | 11 | [tomvg](https://hackerone.com/tomvg) | 2015-06-08 |
-| 450 | [19640](../reports/19640.md) | Session Hijacking attack (Different Scenario) | None | — | 10 | [shahmeer-amir](https://hackerone.com/shahmeer-amir) | 2014-07-17 |
-| 451 | [1093](../reports/1093.md) | LinkedIN URL should be HTTPS | None | — | 10 | [teo](https://hackerone.com/teo) | 2016-05-18 |
-| 452 | [39658](../reports/39658.md) | Reflected File Download | None | — | 10 | [0xbastion](https://hackerone.com/0xbastion) | 2016-04-25 |
-| 453 | [149435](../reports/149435.md) | Reward Money Leakage | None | — | 10 | [xsserboiii](https://hackerone.com/xsserboiii) | 2016-08-09 |
-| 454 | [111192](../reports/111192.md) | CSV Injection via the CSV export feature | None | — | 10 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2016-02-16 |
-| 455 | [132057](../reports/132057.md) | Reputation Manipulation (Theoretical) | None | — | 9 | [paulos__](https://hackerone.com/paulos__) | 2016-04-19 |
-| 456 | [29185](../reports/29185.md) | "early preview" programs disclosure | None | — | 9 | [d4d1a179c0f3](https://hackerone.com/d4d1a179c0f3) | 2015-01-21 |
-| 457 | [283847](../reports/283847.md) | GraphQL sessions aren't immediately invalidated when user pa | None | — | 9 | [bigbug](https://hackerone.com/bigbug) | 2017-11-30 |
-| 458 | [9479](../reports/9479.md) | Anti-MIME-Sniffing header X-Content-Type-Options header has  | None | — | 9 | [uname](https://hackerone.com/uname) | 2015-04-28 |
-| 459 | [116029](../reports/116029.md) | Private program activity timeline information disclosure | None | — | 9 | [charfe](https://hackerone.com/charfe) | 2016-03-16 |
-| 460 | [157699](../reports/157699.md) | Disclosure of external users invited to a specific report | None | — | 9 | [kirils](https://hackerone.com/kirils) | 2016-09-01 |
-| 461 | [54034](../reports/54034.md) | Reflected Filename Download | None | — | 9 | [dsopas](https://hackerone.com/dsopas) | 2016-04-25 |
-| 462 | [31383](../reports/31383.md) | Ability to see common response titles of other teams (limite | None | — | 8 | [prakharprasad](https://hackerone.com/prakharprasad) | 2014-10-15 |
-| 463 | [18846](../reports/18846.md) | Email changing | None | — | 8 | [djamel-ghorab](https://hackerone.com/djamel-ghorab) | 2014-08-28 |
-| 464 | [283309](../reports/283309.md) | Private Program all members disclosed  | None | — | 8 | [vulnh0lic](https://hackerone.com/vulnh0lic) | 2017-11-16 |
-| 465 | [116951](../reports/116951.md) | Increase number of bugs by sending duplicate of your own val | None | — | 8 | [ashish_r_padelkar](https://hackerone.com/ashish_r_padelkar) | 2016-04-25 |
-| 466 | [48416](../reports/48416.md) | Restrict any user from logging into his account. | None | — | 8 | [siddiki](https://hackerone.com/siddiki) | 2015-03-24 |
-| 467 | [3923](../reports/3923.md) | Adding an user email address to the list before confirming. | None | — | 8 | [siddiki](https://hackerone.com/siddiki) | 2014-06-11 |
-| 468 | [263](../reports/263.md) | Report title autocompletion | None | — | 8 | [janpaul123](https://hackerone.com/janpaul123) | 2015-06-08 |
-| 469 | [36211](../reports/36211.md) | Logic Issue with Reputation: Boost Reputation Points | None | — | 8 | [prakharprasad](https://hackerone.com/prakharprasad) | 2015-04-28 |
-| 470 | [842](../reports/842.md) | Autocomplete enabled in Paypal preferences | None | — | 8 | [xtross1](https://hackerone.com/xtross1) | 2015-05-28 |
-| 471 | [80118](../reports/80118.md) | Information leakage - Private reports cached by Google  | None | — | 8 | [tisisire](https://hackerone.com/tisisire) | 2018-07-23 |
-| 472 | [2584](../reports/2584.md) | Weird Bug - Ability to see partial of other user's notificat | None | — | 8 | [wcypierre](https://hackerone.com/wcypierre) | 2014-04-19 |
-| 473 | [378209](../reports/378209.md) | Ajouter le même utilisateur que celui déjà inscrit dans les  | None | — | 7 | [rbcafe](https://hackerone.com/rbcafe) | 2018-07-17 |
-| 474 | [52532](../reports/52532.md) | "learn more here", reward email - domain expired. | None | — | 7 | [smiegles](https://hackerone.com/smiegles) | 2015-03-23 |
-| 475 | [127914](../reports/127914.md) | Deleted name still present via mouseover functionality for u | None | — | 7 | [meals](https://hackerone.com/meals) | 2016-04-21 |
-| 476 | [97191](../reports/97191.md) | Send AJAX request to external domain | None | — | 7 | [abze](https://hackerone.com/abze) | 2015-11-14 |
-| 477 | [124620](../reports/124620.md) | External links should use rel="noopener" or use the redirect | None | — | 7 | [lukasreschke](https://hackerone.com/lukasreschke) | 2016-04-05 |
-| 478 | [46312](../reports/46312.md) | In markdown, parsing things like @danlec and #46072 after li | None | — | 7 | [danlec](https://hackerone.com/danlec) | 2015-07-04 |
-| 479 | [3991](../reports/3991.md) | Accepting Invalid characters on email address | None | — | 7 | [siddiki](https://hackerone.com/siddiki) | 2016-04-25 |
-| 480 | [124889](../reports/124889.md) | Websites opened from reports can change url of report page | None | — | 6 | [cablej](https://hackerone.com/cablej) | 2016-04-21 |
-| 481 | [99687](../reports/99687.md) | profile cover can also load external URL's  | None | — | 6 | [smiegles](https://hackerone.com/smiegles) | 2015-12-02 |
-| 482 | [118663](../reports/118663.md) | Denial of Service any Report | None | — | 6 | [cyberunit](https://hackerone.com/cyberunit) | 2016-03-09 |
-| 483 | [6350](../reports/6350.md) | creating titleless and non-closable bugs  | None | — | 6 | [leander](https://hackerone.com/leander) | 2014-04-17 |
-| 484 | [108928](../reports/108928.md) | Signals get affected once reports closed as self  | None | — | 6 | [kpr](https://hackerone.com/kpr) | 2016-04-25 |
-| 485 | [127235](../reports/127235.md) | New hacktivity view discloses report IDs of non-public repor | None | — | 6 | [ayoubfathi_](https://hackerone.com/ayoubfathi_) | 2016-04-26 |
-| 486 | [66151](../reports/66151.md) | Invitation is not properly cancelled while inviting to bug r | None | — | 6 | [boredengineer21](https://hackerone.com/boredengineer21) | 2015-07-10 |
-| 487 | [49566](../reports/49566.md) | Auto Approval of Invitation to join Team as a Team member | None | — | 6 | [h122-](https://hackerone.com/h122-) | 2015-03-11 |
-| 488 | [59369](../reports/59369.md) | Making any Report Failed to load | None | — | 6 | [atom](https://hackerone.com/atom) | 2015-05-09 |
-| 489 | [60429](../reports/60429.md) | Logical Issue (Boosting Reputation points) | None | — | 6 | [coolboss](https://hackerone.com/coolboss) | 2015-07-21 |
-| 490 | [107336](../reports/107336.md) | Team Member(s) associated with a  Group have Read-only permi | None | — | 6 | [dz_samir](https://hackerone.com/dz_samir) | 2016-01-27 |
-| 491 | [116032](../reports/116032.md) | Private Program Disclosure in /:handle/reports/draft.json en | None | — | 6 | [charfe](https://hackerone.com/charfe) | 2016-02-16 |
-| 492 | [1131887](../reports/1131887.md) | CSV injection in the credentials export | None | — | 6 | [muon4](https://hackerone.com/muon4) | 2021-09-22 |
-| 493 | [59659](../reports/59659.md) | Reopen Disable Accounts/ Hidden Access After Disable | None | — | 6 | [antrax](https://hackerone.com/antrax) | 2015-06-08 |
-| 494 | [97948](../reports/97948.md) | Cross-domain AJAX request | None | — | 6 | [bohdansec](https://hackerone.com/bohdansec) | 2015-11-14 |
-| 495 | [32990](../reports/32990.md) | Enumeration/Guess of Private (Invited) Programs | None | — | 6 | [prakharprasad](https://hackerone.com/prakharprasad) | 2015-05-09 |
-| 496 | [56742](../reports/56742.md) | SPF whitelist of mandrill leads to email forgery | None | — | 6 | [mikebrooks](https://hackerone.com/mikebrooks) | 2015-06-08 |
-| 497 | [116189](../reports/116189.md) | Null byte injection  | None | — | 6 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2016-02-23 |
-| 498 | [46952](../reports/46952.md) | Markdown code block sequence makes report unreadable | None | — | 6 | [danlec](https://hackerone.com/danlec) | 2015-06-29 |
-| 499 | [57163](../reports/57163.md) | Open-redirect on hackerone.com | None | — | 6 | [abze](https://hackerone.com/abze) | 2015-04-23 |
-| 500 | [12782](../reports/12782.md) | Spamming any user from Reset Password Function | None | — | 5 | [coolboss](https://hackerone.com/coolboss) | 2016-05-03 |
-| 501 | [63865](../reports/63865.md) | Potential denial of service in hackerone.com/<program>/rewar | None | — | 5 | [ashesh](https://hackerone.com/ashesh) | 2015-06-10 |
-| 502 | [90367](../reports/90367.md) | Minor Bug: Public un-compiled CSS with original sass, versio | None | — | 5 | [ericr](https://hackerone.com/ericr) | 2015-09-25 |
-| 503 | [66262](../reports/66262.md) | mailto: link injection on https://hackerone.com/directory | None | — | 5 | [ashesh](https://hackerone.com/ashesh) | 2015-06-10 |
-| 504 | [57736](../reports/57736.md) | Missing spf flags for hackerone.com | None | — | 5 | [d1pakda5](https://hackerone.com/d1pakda5) | 2015-04-23 |
-| 505 | [123278](../reports/123278.md) | Possible XSS | None | — | 5 | [paulos__](https://hackerone.com/paulos__) | 2016-04-21 |
-| 506 | [44888](../reports/44888.md) | Improper way of validating a program | None | — | 5 | [atom](https://hackerone.com/atom) | 2015-02-04 |
-| 507 | [58612](../reports/58612.md) | Homograph attack | None | — | 5 | [abze](https://hackerone.com/abze) | 2015-05-02 |
-| 508 | [59372](../reports/59372.md) | Homograph Attack | None | — | 5 | [atom](https://hackerone.com/atom) | 2015-05-09 |
-| 509 | [39139](../reports/39139.md) | URL Crashing browser. {Tested on firefox, Chrome and Safari} | None | — | 5 | [avicoder_](https://hackerone.com/avicoder_) | 2016-05-25 |
-| 510 | [116798](../reports/116798.md) | Private Program Disclosure in /:handle/settings/allow_report | None | — | 5 | [charfee](https://hackerone.com/charfee) | 2016-02-24 |
-| 511 | [44359](../reports/44359.md) | Add text to the title of the page "Thanks" | None | — | 5 | [bohdansec](https://hackerone.com/bohdansec) | 2016-04-25 |
-| 512 | [20122](../reports/20122.md) | No option to logout concurrent sessions | None | — | 5 | [ashesh](https://hackerone.com/ashesh) | 2014-07-17 |
-| 513 | [43280](../reports/43280.md) | HTTPS is not enforced for objects stored by HackerOne on Ama | None | — | 5 | [ank1ta](https://hackerone.com/ank1ta) | 2015-03-08 |
-| 514 | [5946](../reports/5946.md) | Marking notifications as read CSRF bug | None | — | 4 | [redkan](https://hackerone.com/redkan) | 2015-04-28 |
-| 515 | [92607](../reports/92607.md) | Content spoofing on invitations page  | None | — | 4 | [rohan_pagey](https://hackerone.com/rohan_pagey) | 2015-10-21 |
-| 516 | [7929](../reports/7929.md) | Arbitrary file uploads to Amazon WS. | None | — | 4 | [leander](https://hackerone.com/leander) | 2014-04-26 |
-| 517 | [118965](../reports/118965.md) | Distinguish EP+Private vs Private programs in HackerOne | None | — | 4 | [nismo](https://hackerone.com/nismo) | 2016-04-25 |
-| 518 | [80597](../reports/80597.md) | Number of invited researchers disclosed as part of JSON sear | None | — | 4 | [jessescitech](https://hackerone.com/jessescitech) | 2015-08-05 |
-| 519 | [92716](../reports/92716.md) | HackerOne Private Programs users disclosure and de-anonymous | None | — | 4 | [symbiansymoh](https://hackerone.com/symbiansymoh) | 2015-12-08 |
-| 520 | [21083](../reports/21083.md) | Account Hijacking (Only rare case scenario) | None | — | 4 | [xtross1](https://hackerone.com/xtross1) | 2014-08-23 |
-| 521 | [38232](../reports/38232.md) | Breaking Bugs as team member | None | — | 4 | [melvin](https://hackerone.com/melvin) | 2014-12-09 |
-| 522 | [17105](../reports/17105.md) | Cache leads to Privacy leaks | None | — | 4 | [ashesh](https://hackerone.com/ashesh) | 2014-07-17 |
-| 523 | [123743](../reports/123743.md) | Sending emails (via HackerOne) impersonating other users | None | — | 4 | [anshuman_bh](https://hackerone.com/anshuman_bh) | 2016-03-18 |
-| 524 | [27987](../reports/27987.md) | Window Opener Property Bug | None | — | 4 | [prakharprasad](https://hackerone.com/prakharprasad) | 2014-10-28 |
-| 525 | [60402](../reports/60402.md) | Content Spoofing - External Link Warning Page | None | — | 4 | [thsa](https://hackerone.com/thsa) | 2015-05-11 |
-| 526 | [115205](../reports/115205.md) | Putting link inside link in markdown | None | — | 4 | [pikachu](https://hackerone.com/pikachu) | 2016-04-02 |
-| 527 | [124611](../reports/124611.md) | Disclosure of private programs that have an "external" page  | None | — | 4 | [saeedhashem](https://hackerone.com/saeedhashem) | 2016-04-01 |
-| 528 | [3709](../reports/3709.md) | Criptographic Issue: Strisct Transport Security with not goo | None | — | 4 | [simon90](https://hackerone.com/simon90) | 2014-04-22 |
-| 529 | [67929](../reports/67929.md) | Redirection Page throwing error instead of redirecting to si | None | — | 3 | [mafia](https://hackerone.com/mafia) | 2016-05-25 |
-| 530 | [13748](../reports/13748.md) | Potential denial of service in hackerone.com/teams/new | None | — | 3 | [idps](https://hackerone.com/idps) | 2014-06-20 |
-| 531 | [59469](../reports/59469.md) | Fake URL + Additional vectors for homograph attack | None | — | 3 | [abze](https://hackerone.com/abze) | 2015-05-09 |
-| 532 | [97377](../reports/97377.md) | Hackerone impersonation | None | — | 3 | [abhisheksingh](https://hackerone.com/abhisheksingh) | 2015-12-02 |
-| 533 | [63158](../reports/63158.md) | External URL page bypass | None | — | 3 | [danielchatfield](https://hackerone.com/danielchatfield) | 2015-05-28 |
-| 534 | [123615](../reports/123615.md) | SECURITY: Referencing  previous Reports attachment_IDs on ne | None | — | 3 | [nismo](https://hackerone.com/nismo) | 2016-04-30 |
-| 535 | [86067](../reports/86067.md) | Weak HSTS age in support hackerone site | None | — | 3 | [codequick](https://hackerone.com/codequick) | 2015-09-18 |
-| 536 | [124223](../reports/124223.md) | CSV Injection via the CSV export feature | None | — | 3 | [stewie](https://hackerone.com/stewie) | 2016-04-25 |
-| 537 | [109420](../reports/109420.md) | Requesting unknown file type returns Ruby object w/ address | None | — | 2 | [run](https://hackerone.com/run) | 2016-02-19 |
-| 538 | [140720](../reports/140720.md) | Denial of service in report view. | None | — | 2 | [apok](https://hackerone.com/apok) | 2016-05-27 |
-| 539 | [118731](../reports/118731.md) | User with Read-Only permissions can edit the SwagAwarded Act | None | — | 2 | [techguynoob](https://hackerone.com/techguynoob) | 2016-04-01 |
-| 540 | [275293](../reports/275293.md) | Pending member invitations are not revoked on program name c | None | — | 2 | [ashish_r_padelkar](https://hackerone.com/ashish_r_padelkar) | 2017-11-18 |
+| 255 | [1838329](../reports/1838329.md) | Private information exposed through GraphQL search endpoints | Medium — CVSS 6.1 | — | 32 | [reigertje](https://hackerone.com/reigertje) | 2023-01-19 |
+| 256 | [2492631](../reports/2492631.md) | Reset the 2FA of the user which can lead to Account Takeover | Medium — CVSS 6.6 | — | 31 | [5zdob13](https://hackerone.com/5zdob13) | 2024-07-11 |
+| 257 | [291721](../reports/291721.md) | IDOR on Program Visibilty (Revealed / Concealed) against oth | Medium | — | 31 | [japz](https://hackerone.com/japz) | 2017-11-23 |
+| 258 | [289568](../reports/289568.md) | Program profile metrics endpoint contains mean time to triag | Medium — CVSS 5.0 | — | 29 | [flashdisk](https://hackerone.com/flashdisk) | 2017-11-14 |
+| 259 | [2479622](../reports/2479622.md) | 2FA Bypass via Leaked Cookies | Medium — CVSS 6.8 | — | 28 | [deepmarketer](https://hackerone.com/deepmarketer) | 2024-07-11 |
+| 260 | [2469706](../reports/2469706.md) | Session Not Expire / 2FA Bypass | Medium — CVSS 5.2 | — | 28 | [blackflyhunter](https://hackerone.com/blackflyhunter) | 2024-07-11 |
+| 261 | [293593](../reports/293593.md) | Able To Check The Exact Bounty Balance of any Bug Bounty Pro | Medium — CVSS 5.0 | — | 27 | [cjlegacion](https://hackerone.com/cjlegacion) | 2017-12-06 |
+| 262 | [317543](../reports/317543.md) | Unicorn worker pool exhaustion by continuously updating payo | Medium — CVSS 5.0 | — | 25 | [blackni9ht](https://hackerone.com/blackni9ht) | 2018-03-30 |
+| 263 | [1824342](../reports/1824342.md) | Users querying dim_hacker_reports table through Analytics AP | Medium — CVSS 6.1 | — | 21 | [jobert](https://hackerone.com/jobert) | 2023-02-22 |
+| 264 | [447488](../reports/447488.md) | Corrupted Authorization header can cause logs not to be inge | Medium — CVSS 6.1 | — | 19 | [jobert](https://hackerone.com/jobert) | 2019-04-04 |
+| 265 | [823915](../reports/823915.md) | Attacker may be able to bounce enough emails which suspend H | Medium — CVSS 5.0 | — | 18 | [iamr0000t](https://hackerone.com/iamr0000t) | 2020-06-12 |
+| 266 | [2575079](../reports/2575079.md) | Hackers can Invite Collaborators Without 2FA on Programs Req | Medium — CVSS 5.3 | — | 10 | [anish-kosaraju](https://hackerone.com/anish-kosaraju) | 2024-07-11 |
+| 267 | [284143](../reports/284143.md) | Reverse Tabnabbing Vulnerability in Outgoing Links | Medium | — | 3 | [what94](https://hackerone.com/what94) | 2017-11-21 |
+| 268 | [999789](../reports/999789.md) | Getting New Invitations without Leaving Programs | Low — CVSS 3.8 | — | 321 | [ali](https://hackerone.com/ali) | 2020-10-15 |
+| 269 | [792998](../reports/792998.md) | 404-response contains debug-information with all headers | Low | — | 170 | [p4fg](https://hackerone.com/p4fg) | 2020-05-16 |
+| 270 | [536853](../reports/536853.md) | Unreleased CTF Levels are Revealed on /group/user/ID1?user=U | Low — CVSS 2.4 | — | 160 | [spaceraccoon](https://hackerone.com/spaceraccoon) | 2019-04-23 |
+| 271 | [159156](../reports/159156.md) | Hacker.One Subdomain Takeover | Low — CVSS 3.5 | — | 154 | [geekboy](https://hackerone.com/geekboy) | 2016-09-20 |
+| 272 | [381356](../reports/381356.md) | Client-Side Race Condition using Marketo, allows sending use | Low — CVSS 3.1 | — | 152 | [fransrosen](https://hackerone.com/fransrosen) | 2019-04-05 |
+| 273 | [604534](../reports/604534.md) | Race Condition leads to undeletable group member | Low — CVSS 2.4 | — | 150 | [yashrs](https://hackerone.com/yashrs) | 2020-03-20 |
+| 274 | [2530242](../reports/2530242.md) | [ Spot Check ] Team members can edit a user's write-up | Low — CVSS 2.7 | — | 147 | [youstin](https://hackerone.com/youstin) | 2024-06-06 |
+| 275 | [202767](../reports/202767.md) | Subdomain takeover at info.hacker.one | Low — CVSS 3.5 | — | 134 | [ak1t4](https://hackerone.com/ak1t4) | 2017-03-27 |
+| 276 | [549364](../reports/549364.md) | Account recovery text message is sending a wrong domain to u | Low — CVSS 3.8 | — | 117 | [zeesek](https://hackerone.com/zeesek) | 2019-05-31 |
+| 277 | [3378540](../reports/3378540.md) | Lack of Validation in Reward Redemption Allows Unlimited Bur | Low — CVSS 2.1 | — | 113 | [theokeen](https://hackerone.com/theokeen) | 2026-03-18 |
+| 278 | [269230](../reports/269230.md) | Emails of invited collaborators are disclosed in full in pay | Low — CVSS 3.4 | — | 111 | [flashdisk](https://hackerone.com/flashdisk) | 2019-04-09 |
+| 279 | [961841](../reports/961841.md) | Recently added 'Country' field doesn't send email notificati | Low | — | 107 | [bugra](https://hackerone.com/bugra) | 2020-08-25 |
+| 280 | [499030](../reports/499030.md) | DOM Based XSS in www.hackerone.com via PostMessage (bypass o | Low — CVSS 3.1 | — | 105 | [honoki](https://hackerone.com/honoki) | 2019-05-04 |
+| 281 | [861170](../reports/861170.md) | Attacker with an Old account might still be able to DoS ctf. | Low | — | 96 | [iamr0000t](https://hackerone.com/iamr0000t) | 2020-05-25 |
+| 282 | [587910](../reports/587910.md) | Password not checked when disabling 2FA on HackerOne | Low — CVSS 3.4 | — | 92 | [tester1231233](https://hackerone.com/tester1231233) | 2019-06-07 |
+| 283 | [454949](../reports/454949.md) | Race Condition in Flag Submission | Low | — | 91 | [dropper](https://hackerone.com/dropper) | 2019-07-22 |
+| 284 | [2476149](../reports/2476149.md) | Confirmed #2118458: Intentional redirect from www.hackerone. | Low — CVSS 3.0 | — | 90 | [sarthakbhingare015](https://hackerone.com/sarthakbhingare015) | 2024-05-09 |
+| 285 | [1581499](../reports/1581499.md) | HTML Injection in email via Name field | Low — CVSS 3.1 | — | 84 | [hacker1_agent](https://hackerone.com/hacker1_agent) | 2022-09-18 |
+| 286 | [2553026](../reports/2553026.md) | Domain highlighting on External link warning is not working  | Low — CVSS 3.5 | — | 80 | [sarthakbhingare015](https://hackerone.com/sarthakbhingare015) | 2025-03-13 |
+| 287 | [2106708](../reports/2106708.md) | Bypass of #2035332 RXSS at image.hackerone.live via the `url | Low — CVSS 3.9 | — | 80 | [sudi](https://hackerone.com/sudi) | 2023-08-22 |
+| 288 | [2323303](../reports/2323303.md) | Program admins could add verified domains to an organization | Low — CVSS 3.4 | — | 79 | [hillybott](https://hackerone.com/hillybott) | 2024-03-07 |
+| 289 | [724944](../reports/724944.md) | latest_activity_id and latest_activity_at may disclose infor | Low — CVSS 3.4 | — | 79 | [egrep](https://hackerone.com/egrep) | 2019-11-10 |
+| 290 | [1918362](../reports/1918362.md) | Any one can view collaborater email address via  path /repor | Low — CVSS 3.8 | — | 78 | [aloneh1_breecher](https://hackerone.com/aloneh1_breecher) | 2023-06-01 |
+| 291 | [209004](../reports/209004.md) | Subdomain takeover #2  at info.hacker.one | Low — CVSS 3.5 | — | 78 | [ak1t4](https://hackerone.com/ak1t4) | 2017-04-28 |
+| 292 | [262661](../reports/262661.md) | IDOR on HackerOne Feedback Review | Low — CVSS 3.4 | — | 76 | [japz](https://hackerone.com/japz) | 2017-09-02 |
+| 293 | [2632876](../reports/2632876.md) | Access to limited confidential information of private progra | Low — CVSS 3.1 | — | 74 | [sarthakbhingare015](https://hackerone.com/sarthakbhingare015) | 2024-12-24 |
+| 294 | [220445](../reports/220445.md) | Race condition leads to duplicate payouts | Low — CVSS 3.1 | — | 72 | [jigarthakkar39](https://hackerone.com/jigarthakkar39) | 2017-05-23 |
+| 295 | [929361](../reports/929361.md) | Making program preference -> program visibilty feature usles | Low — CVSS 3.8 | — | 70 | [spongebhav](https://hackerone.com/spongebhav) | 2020-10-02 |
+| 296 | [510759](../reports/510759.md) | IDOR in Report CSV export discloses the IDs of Custom Field  | Low — CVSS 3.8 | — | 65 | [jobert](https://hackerone.com/jobert) | 2019-09-06 |
+| 297 | [1039821](../reports/1039821.md) | Second-order SOQL injection through email and campaign name  | Low — CVSS 2.7 | — | 64 | [jobert](https://hackerone.com/jobert) | 2021-06-18 |
+| 298 | [2430179](../reports/2430179.md) | Minor security issue with Hackerone Invitations from sandbox | Low — CVSS 3.8 | — | 63 | [iam_srpk](https://hackerone.com/iam_srpk) | 2024-07-22 |
+| 299 | [2709660](../reports/2709660.md) | Takeover of hackerone.engineering via Medium  | Low — CVSS 3.7 | — | 60 | [raditz](https://hackerone.com/raditz) | 2024-11-14 |
+| 300 | [389600](../reports/389600.md) | TeamProfile exposes partially sensitive information through  | Low — CVSS 3.8 | — | 60 | [0619](https://hackerone.com/0619) | 2018-08-08 |
+| 301 | [1392511](../reports/1392511.md) | HackerOne Staging uses Production data for testing | Low | — | 58 | [tk0](https://hackerone.com/tk0) | 2021-11-05 |
+| 302 | [217358](../reports/217358.md) | Subdomain takeover #3 at info.hacker.one | Low — CVSS 3.5 | — | 58 | [ak1t4](https://hackerone.com/ak1t4) | 2017-06-21 |
+| 303 | [278095](../reports/278095.md) | Invalid Host detection at https://hackerone.com/redirect | Low | — | 57 | [shailesh4594](https://hackerone.com/shailesh4594) | 2017-12-03 |
+| 304 | [2000000](../reports/2000000.md) | 2M Reports on HackerOne Celebration! - Ability to bulk-submi | Low — CVSS 3.4 | — | 54 | [nagli](https://hackerone.com/nagli) | 2023-07-11 |
+| 305 | [488985](../reports/488985.md) | Race condition in claiming program credentials  | Low — CVSS 3.4 | — | 52 | [flashdisk](https://hackerone.com/flashdisk) | 2019-05-19 |
+| 306 | [220002](../reports/220002.md) | Subdomain takeover #4 at info.hacker.one | Low — CVSS 3.5 | — | 50 | [ak1t4](https://hackerone.com/ak1t4) | 2017-06-21 |
+| 307 | [1159398](../reports/1159398.md) | New link opening method makes hackerone vulnerable to tabnab | Low | — | 50 | [recon_ninja](https://hackerone.com/recon_ninja) | 2021-07-07 |
+| 308 | [1664920](../reports/1664920.md) | Program managers can see draft reports using Export Reports  | Low — CVSS 3.4 | — | 50 | [alp](https://hackerone.com/alp) | 2023-05-18 |
+| 309 | [640488](../reports/640488.md) | Total bounties paid amount is disclosed because of redesign  | Low | — | 50 | [asad0x01_](https://hackerone.com/asad0x01_) | 2019-08-02 |
+| 310 | [565736](../reports/565736.md) | View HackerOne challenge scope before challenge begins | Low — CVSS 2.7 | — | 48 | [neema](https://hackerone.com/neema) | 2019-07-11 |
+| 311 | [1869613](../reports/1869613.md) | Attachment in published HackerOne report exposure private pr | Low — CVSS 3.8 | — | 48 | [mateuszek](https://hackerone.com/mateuszek) | 2023-06-07 |
+| 312 | [1886143](../reports/1886143.md) | information disclosure of another company bug on video. | Low — CVSS 3.8 | — | 47 | [mundre_07](https://hackerone.com/mundre_07) | 2023-03-12 |
+| 313 | [299403](../reports/299403.md) | Domain spoofing in redirect page using RTLO | Low | — | 47 | [ashish_r_padelkar](https://hackerone.com/ashish_r_padelkar) | 2018-01-30 |
+| 314 | [1103812](../reports/1103812.md) | "Bounty splitting enabled" can discloses if public VDPs are  | Low — CVSS 3.4 | — | 46 | [hundredpercent](https://hackerone.com/hundredpercent) | 2021-03-18 |
+| 315 | [250729](../reports/250729.md) | Content Security Policy not applied to error pages at multip | Low | — | 45 | [brad07](https://hackerone.com/brad07) | 2017-12-12 |
+| 316 | [1088966](../reports/1088966.md) | Ability to invite a new member on Sandbox Program | Low | — | 44 | [ex1st3nc3_](https://hackerone.com/ex1st3nc3_) | 2021-04-05 |
+| 317 | [199779](../reports/199779.md) | Google Analytics could be used as CSP bypass for data exfilt | Low — CVSS 3.7 | — | 44 | [aaron_costello](https://hackerone.com/aaron_costello) | 2017-03-26 |
+| 318 | [220774](../reports/220774.md) | API Last Request Date/Time Not Updating | Low | — | 44 | [yaworsk](https://hackerone.com/yaworsk) | 2019-05-19 |
+| 319 | [171398](../reports/171398.md) | (HackerOne SSO-SAML) Login CSRF, Open Redirect, and Self-XSS | Low | — | 43 | [whhackersbr](https://hackerone.com/whhackersbr) | 2016-10-27 |
+| 320 | [410451](../reports/410451.md) | User login page doesn't implement any form of rate limiting | Low — CVSS 3.0 | — | 42 | [0xspade](https://hackerone.com/0xspade) | 2019-01-04 |
+| 321 | [1138668](../reports/1138668.md) | The possibility of disrupting the normal operation of fronte | Low — CVSS 3.1 | — | 41 | [haxta4ok00](https://hackerone.com/haxta4ok00) | 2021-08-24 |
+| 322 | [397031](../reports/397031.md) | Disclosure of top 10 vulnerability types for programs that h | Low | — | 40 | [tolo7010](https://hackerone.com/tolo7010) | 2018-11-07 |
+| 323 | [1374017](../reports/1374017.md) | HTML injection in email at https://www.hackerone.com/ | Low — CVSS 3.8 | — | 40 | [iamr0000t](https://hackerone.com/iamr0000t) | 2023-05-12 |
+| 324 | [669776](../reports/669776.md) | Disclosure of Program email Title Report when being removed  | Low — CVSS 3.4 | — | 39 | [hisokamorou](https://hackerone.com/hisokamorou) | 2019-09-06 |
+| 325 | [1131306](../reports/1131306.md) | User's who are banned from program can still be invited to t | Low — CVSS 3.1 | — | 36 | [muon4](https://hackerone.com/muon4) | 2021-09-22 |
+| 326 | [301526](../reports/301526.md) | Invitation token leaks to https://bat.bing.com | Low — CVSS 2.7 | — | 36 | [zuriel](https://hackerone.com/zuriel) | 2018-01-11 |
+| 327 | [1128701](../reports/1128701.md) | Lack warning label when receiving a letter | Low — CVSS 3.1 | — | 33 | [haxta4ok00](https://hackerone.com/haxta4ok00) | 2021-05-13 |
+| 328 | [645264](../reports/645264.md) | Program Email Nofication settings ignored when being added a | Low — CVSS 3.4 | — | 33 | [archangel](https://hackerone.com/archangel) | 2019-08-07 |
+| 329 | [348168](../reports/348168.md) | Timing attack towards endpoints on the web without CSRF  | Low — CVSS 2.9 | — | 33 | [b258ea62bf297b02afa9854](https://hackerone.com/b258ea62bf297b02afa9854) | 2018-12-27 |
+| 330 | [1130235](../reports/1130235.md) | Hackers can reveal the names of private programs that have a | Low — CVSS 2.6 | — | 32 | [haxta4ok00](https://hackerone.com/haxta4ok00) | 2021-08-24 |
+| 331 | [395518](../reports/395518.md) | Internal usage of AdBlockPlus may expose PoC URLs to unknown | Low — CVSS 3.5 | — | 32 | [dudez](https://hackerone.com/dudez) | 2018-08-17 |
+| 332 | [237262](../reports/237262.md) | Invitation tokens leak to Google Analytics | Low — CVSS 3.1 | — | 32 | [h33tjev](https://hackerone.com/h33tjev) | 2017-07-16 |
+| 333 | [2569993](../reports/2569993.md) | Reports submitted by a non 2fa setupped user account can be  | Low — CVSS 2.7 | — | 31 | [aloneh1](https://hackerone.com/aloneh1) | 2024-07-11 |
+| 334 | [1264725](../reports/1264725.md) | Information disclosure - Feedback is accessible on Public pr | Low | — | 30 | [brdoors3](https://hackerone.com/brdoors3) | 2021-08-03 |
+| 335 | [818848](../reports/818848.md) | Read-only team members can read all properties of webhooks | Low | — | 30 | [bencode](https://hackerone.com/bencode) | 2020-04-29 |
+| 336 | [334253](../reports/334253.md) | CSRF at [Apply to this program] that lead to submit your req | Low — CVSS 3.4 | — | 30 | [modam3r5](https://hackerone.com/modam3r5) | 2018-07-05 |
+| 337 | [1386277](../reports/1386277.md) | Attachment references in markdown don't warn before download | Low | — | 29 | [iamr0000t](https://hackerone.com/iamr0000t) | 2022-02-25 |
+| 338 | [1139528](../reports/1139528.md) | Editing Pentest Summary Report Answers After Submitting Them | Low — CVSS 3.1 | — | 29 | [whhackersbr](https://hackerone.com/whhackersbr) | 2021-05-06 |
+| 339 | [207266](../reports/207266.md) | Information leakage via CSV when content is valid JavaScript | Low | — | 29 | [mikkocarreon](https://hackerone.com/mikkocarreon) | 2017-05-23 |
+| 340 | [488643](../reports/488643.md) | Disclosure of h1 challenges name through the calendar | Low — CVSS 3.8 | — | 29 | [rijalrojan](https://hackerone.com/rijalrojan) | 2019-01-30 |
+| 341 | [196358](../reports/196358.md) | Report redaction doesn't apply to report title update activi | Low | — | 27 | [b21cbe5e1e1a9be6a2b9da3](https://hackerone.com/b21cbe5e1e1a9be6a2b9da3) | 2017-02-25 |
+| 342 | [448078](../reports/448078.md) | A user can request a report to be retested even though the p | Low — CVSS 3.8 | — | 27 | [0xelement](https://hackerone.com/0xelement) | 2018-12-27 |
+| 343 | [270993](../reports/270993.md) | resolved bugs in a program are public despite the program se | Low | — | 25 | [flashdisk](https://hackerone.com/flashdisk) | 2017-10-13 |
+| 344 | [888930](../reports/888930.md) | SAML Response Reuse on hackerone.com/users/saml/auth | Low | — | 25 | [samtink](https://hackerone.com/samtink) | 2020-07-24 |
+| 345 | [608656](../reports/608656.md) | Disabled account can still use GraphQL endpoint | Low — CVSS 2.9 | — | 24 | [tolo7010](https://hackerone.com/tolo7010) | 2020-03-12 |
+| 346 | [826176](../reports/826176.md) | program_analytics_benchmarks query shows information not vis | Low | — | 22 | [0619](https://hackerone.com/0619) | 2020-03-27 |
+| 347 | [143975](../reports/143975.md) | Homograph attack in escalate report | Low — CVSS 3.5 | — | 20 | [user_name2023](https://hackerone.com/user_name2023) | 2019-04-19 |
+| 348 | [955286](../reports/955286.md) | Graphql: Sorting the reports by jira_status field resulted t | Low — CVSS 3.8 | — | 20 | [0619](https://hackerone.com/0619) | 2020-08-27 |
+| 349 | [178345](../reports/178345.md) | Limited Open redirection using SSO-SAML | Low | — | 18 | [shailesh4594](https://hackerone.com/shailesh4594) | 2017-03-26 |
+| 350 | [1132171](../reports/1132171.md) | Race condition allows to send multiple times feedback for th | Low — CVSS 2.7 | — | 17 | [muon4](https://hackerone.com/muon4) | 2021-09-22 |
+| 351 | [129773](../reports/129773.md) | Previous attachments can be referenced when creating a new r | Low — CVSS 3.1 | — | 17 | [kusl](https://hackerone.com/kusl) | 2019-04-12 |
+| 352 | [1256371](../reports/1256371.md) | PII data Leakage through hackerone reports  | Low — CVSS 2.7 | — | 16 | [iamr0000t](https://hackerone.com/iamr0000t) | 2021-08-09 |
+| 353 | [1139541](../reports/1139541.md) | Enumerating HackerOne Pentests | Low — CVSS 3.7 | — | 16 | [whhackersbr](https://hackerone.com/whhackersbr) | 2021-08-25 |
+| 354 | [1127455](../reports/1127455.md) | Hackers can reveal the names of private programs that have a | Low — CVSS 2.6 | — | 16 | [haxta4ok00](https://hackerone.com/haxta4ok00) | 2021-08-24 |
+| 355 | [118582](../reports/118582.md) | CSV Injection at the CSV export feature | Low — CVSS 2.0 | — | 14 | [niemand_sec](https://hackerone.com/niemand_sec) | 2019-04-08 |
+| 356 | [174449](../reports/174449.md) | Researcher gets email updates on a private program after he/ | Low — CVSS 3.5 | — | 14 | [sasi2103](https://hackerone.com/sasi2103) | 2016-11-21 |
+| 357 | [813300](../reports/813300.md) | Changes to data in a CVE request after draft via GraphQL que | Low — CVSS 2.6 | — | 14 | [haxta4ok00](https://hackerone.com/haxta4ok00) | 2020-05-15 |
+| 358 | [1133536](../reports/1133536.md) | Temporary banned user (from platform) is able to make submis | Low — CVSS 3.1 | — | 12 | [muon4](https://hackerone.com/muon4) | 2021-09-22 |
+| 359 | [174470](../reports/174470.md) | Possible CSRF during external programs | Low | — | 12 | [malcolmx](https://hackerone.com/malcolmx) | 2016-10-18 |
+| 360 | [209917](../reports/209917.md) | javascript: and mailto: links are allowed in JIRA integratio | Low — CVSS 3.5 | — | 12 | [jamesclyde](https://hackerone.com/jamesclyde) | 2017-04-10 |
+| 361 | [307424](../reports/307424.md) | While adding a payment method - Notification email not sent  | Low | — | 10 | [us111](https://hackerone.com/us111) | 2018-01-23 |
+| 362 | [177484](../reports/177484.md) | Information disclosure via policy update notifications after | Low — CVSS 3.5 | — | 9 | [staytuned](https://hackerone.com/staytuned) | 2016-10-29 |
+| 363 | [350432](../reports/350432.md) | Information disclosure | Low — CVSS 2.9 | — | 8 | [b258ea62bf297b02afa9854](https://hackerone.com/b258ea62bf297b02afa9854) | 2018-12-27 |
+| 364 | [325594](../reports/325594.md) | Leakage badges on disabled user | Low | — | 8 | [e333jsjs7se](https://hackerone.com/e333jsjs7se) | 2018-03-15 |
+| 365 | [296706](../reports/296706.md) | Open redirect deceive in hackerone.com via another open redi | Low | — | 7 | [abidbaseer](https://hackerone.com/abidbaseer) | 2017-12-13 |
+| 366 | [313075](../reports/313075.md) | Information Disclosure which violate program privacy | Low | — | 5 | [eqbang](https://hackerone.com/eqbang) | 2018-02-20 |
+| 367 | [311449](../reports/311449.md) | Reputation gain split by company can be used to track the ex | Low | — | 4 | [aidantwoods](https://hackerone.com/aidantwoods) | 2018-02-02 |
+| 368 | [279914](../reports/279914.md) | Issue with password change in Disabled Account | Low | — | 4 | [0xm1racle](https://hackerone.com/0xm1racle) | 2017-11-16 |
+| 369 | [228648](../reports/228648.md) | WannaCrypt “Killswitch” | None | — | 808 | [malwaretech](https://hackerone.com/malwaretech) | 2017-05-13 |
+| 370 | [762510](../reports/762510.md) | How the Bug stole hacking | None | — | 470 | [archangel](https://hackerone.com/archangel) | 2019-12-20 |
+| 371 | [1220747](../reports/1220747.md) | HackerOne making payments in USDC (Coinbase stable coin) | None | — | 201 | [arl_rose](https://hackerone.com/arl_rose) | 2021-06-17 |
+| 372 | [1007689](../reports/1007689.md) | 2020-10-09 Credential Stuffing Attack | None | — | 195 | [jobert](https://hackerone.com/jobert) | 2020-10-13 |
+| 373 | [127844](../reports/127844.md) | Web Authentication Endpoint Credentials Brute-Force Vulnerab | None | — | 160 | [arneswinnen](https://hackerone.com/arneswinnen) | 2016-06-23 |
+| 374 | [207042](../reports/207042.md) | Stealing contact form data on www.hackerone.com using Market | None | — | 152 | [fransrosen](https://hackerone.com/fransrosen) | 2017-08-29 |
+| 375 | [271506](../reports/271506.md) | Banned researcher gets email updates on a private program. | None | — | 139 | [fixit](https://hackerone.com/fixit) | 2019-05-18 |
+| 376 | [146845](../reports/146845.md) | Race Conditions in Popular reports feature. | None | — | 124 | [shmoo](https://hackerone.com/shmoo) | 2016-08-03 |
+| 377 | [2285198](../reports/2285198.md) | How the Arch Angel stole Live Events | None | — | 97 | [archangel](https://hackerone.com/archangel) | 2023-12-15 |
+| 378 | [2263294](../reports/2263294.md) | Cloud Computer Hackerone Triager can be Accessible for every | None | — | 91 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2024-05-10 |
+| 379 | [170310](../reports/170310.md) | Bypass rate limiting on /users/password (possibly site-wide  | None | — | 75 | [zseano](https://hackerone.com/zseano) | 2016-12-08 |
+| 380 | [298265](../reports/298265.md) | HTTP Parameter Pollution using semicolons in iframe element  | None | — | 65 | [kapytein](https://hackerone.com/kapytein) | 2018-03-13 |
+| 381 | [2370955](../reports/2370955.md) | LLM03: Training Data Poisoning via ASCII decoding  | None | — | 62 | [hacktus](https://hackerone.com/hacktus) | 2024-05-28 |
+| 382 | [378122](../reports/378122.md) | HackerOne customer submitted sensitive link to VirusTotal, e | None | — | 60 | [user_name2023](https://hackerone.com/user_name2023) | 2018-07-26 |
+| 383 | [1028332](../reports/1028332.md) | Stored XSS on https://events.hackerone.com | None | — | 58 | [nagli](https://hackerone.com/nagli) | 2021-03-26 |
+| 384 | [1028345](../reports/1028345.md) | Open Redirect on http://events.hackerone.com/redirect?url=ht | None | — | 54 | [nagli](https://hackerone.com/nagli) | 2021-03-26 |
+| 385 | [320376](../reports/320376.md) | Open Redirection in index.php page | None | — | 53 | [prashantkumar96](https://hackerone.com/prashantkumar96) | 2018-03-07 |
+| 386 | [280](../reports/280.md) | Real impersonation | None | — | 48 | [janpaul123](https://hackerone.com/janpaul123) | 2013-11-30 |
+| 387 | [120](../reports/120.md) | Missing SPF for hackerone.com | None | — | 48 | [defensis](https://hackerone.com/defensis) | 2014-01-09 |
+| 388 | [2134874](../reports/2134874.md) | Hackers two email disclosed on  submission at hackerone hact | None | — | 43 | [inscryption](https://hackerone.com/inscryption) | 2023-10-18 |
+| 389 | [713](../reports/713.md) | Upload profile photo from URL | None | — | 43 | [zurke](https://hackerone.com/zurke) | 2014-02-15 |
+| 390 | [128088](../reports/128088.md) | AWS S3 bucket writeable for authenticated aws users | None | — | 41 | [yaworsk](https://hackerone.com/yaworsk) | 2016-04-05 |
+| 391 | [301862](../reports/301862.md) | Path traversal leading to limited CSRF on GET requests on tw | None | — | 39 | [kapytein](https://hackerone.com/kapytein) | 2019-04-05 |
+| 392 | [347937](../reports/347937.md) | Team object in GraphQL that have a published external progra | None | — | 39 | [nismo](https://hackerone.com/nismo) | 2018-07-04 |
+| 393 | [321](../reports/321.md) | CSP not consistently applied | None | — | 34 | [janpaul123](https://hackerone.com/janpaul123) | 2013-11-30 |
+| 394 | [284](../reports/284.md) | Broken Authentication and session management OWASP A2 | None | — | 34 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-01-09 |
+| 395 | [135072](../reports/135072.md) | RCE in profile picture upload | None | — | 32 | [c666a323be94d57](https://hackerone.com/c666a323be94d57) | 2016-06-08 |
+| 396 | [1028396](../reports/1028396.md) | Reflected XSS and possible SSRF/XXE on https://events.hacker | None | — | 32 | [nagli](https://hackerone.com/nagli) | 2021-03-26 |
+| 397 | [158186](../reports/158186.md) | Non-secure requests are not automatically upgraded to HTTPS | None | — | 30 | [koenrh](https://hackerone.com/koenrh) | 2016-08-19 |
+| 398 | [287245](../reports/287245.md) | Blind SSRF in "Integrations" by abusing a bug in Ruby's nati | None | — | 30 | [edoverflow](https://hackerone.com/edoverflow) | 2017-11-09 |
+| 399 | [2001913](../reports/2001913.md) | Create miscellaneous support ticket on anyone's account thro | None | — | 29 | [sayaanalam](https://hackerone.com/sayaanalam) | 2023-08-11 |
+| 400 | [575](../reports/575.md) | Email spoofing  | None | — | 27 | [introvertmac](https://hackerone.com/introvertmac) | 2015-05-28 |
+| 401 | [2543342](../reports/2543342.md) | Bypassing Two-Factor Authentication via Account Deactivation | None | — | 27 | [011alsanosi](https://hackerone.com/011alsanosi) | 2024-07-11 |
+| 402 | [111968](../reports/111968.md) | Interstitial redirect bypass / open redirect in https://hack | None | — | 26 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2016-02-24 |
+| 403 | [350964](../reports/350964.md) | User object in GraphQL exposes number of trial reports for E | None | — | 24 | [ashish_r_padelkar](https://hackerone.com/ashish_r_padelkar) | 2018-06-27 |
+| 404 | [547](../reports/547.md) | CSRF login | None | — | 24 | [andrisatteka](https://hackerone.com/andrisatteka) | 2014-01-13 |
+| 405 | [2463069](../reports/2463069.md) | 2fa can't be activated on app.pullrequest.com | None | — | 24 | [iam_srpk](https://hackerone.com/iam_srpk) | 2024-07-11 |
+| 406 | [2429](../reports/2429.md) | Hackerone Email Addresses Enumeration | None | — | 24 | [cliantech](https://hackerone.com/cliantech) | 2016-06-17 |
+| 407 | [148050](../reports/148050.md) | Know undisclosed Bounty Amount when Bounty Statistics are en | None | — | 23 | [vijay_kumar](https://hackerone.com/vijay_kumar) | 2016-09-02 |
+| 408 | [110](../reports/110.md) | Login page password-guessing attack | None | — | 22 | [gazly](https://hackerone.com/gazly) | 2014-01-16 |
+| 409 | [291531](../reports/291531.md) | Introspection query leaks sensitive graphql system informati | None | — | 22 | [zuriel](https://hackerone.com/zuriel) | 2017-11-22 |
+| 410 | [217058](../reports/217058.md) | CRLF injection in info.hacker.one | None | — | 21 | [thalaivarsubu](https://hackerone.com/thalaivarsubu) | 2017-05-03 |
+| 411 | [2528919](../reports/2528919.md) | 2FA requirement bypass when claiming bounty  | None | — | 21 | [raymatp](https://hackerone.com/raymatp) | 2024-07-11 |
+| 412 | [129992](../reports/129992.md) | Missing Certificate Authority Authorization rule | None | — | 20 | [ericlaw](https://hackerone.com/ericlaw) | 2017-08-17 |
+| 413 | [2068830](../reports/2068830.md) | HackerOne Support System Doesn't Require Any Authentication  | None | — | 20 | [rafsanzami](https://hackerone.com/rafsanzami) | 2023-08-11 |
+| 414 | [208407](../reports/208407.md) | Able to create basic user account via Google login on Hacker | None | — | 20 | [ishahriyar](https://hackerone.com/ishahriyar) | 2017-04-25 |
+| 415 | [163381](../reports/163381.md) | Session  hijacking attack | None | — | 20 | [haxta4ok00](https://hackerone.com/haxta4ok00) | 2019-12-06 |
+| 416 | [761](../reports/761.md) | Enumeration of users | None | — | 20 | [dawidczagan](https://hackerone.com/dawidczagan) | 2014-10-03 |
+| 417 | [225754](../reports/225754.md) | Insecure SHA1withRSA in b5s.hackerone-ext-content.com and a4 | None | — | 19 | [evanricafort](https://hackerone.com/evanricafort) | 2017-06-21 |
+| 418 | [1509](../reports/1509.md) | DNS Misconfiguration | None | — | 19 | [defensis](https://hackerone.com/defensis) | 2014-02-15 |
+| 419 | [2109382](../reports/2109382.md) | Support Tickets can be created on behalf of other users usin | None | — | 18 | [as_patro](https://hackerone.com/as_patro) | 2023-09-08 |
+| 420 | [357576](../reports/357576.md) | Exposing hackerone users personally identifiable information | None | — | 18 | [japz](https://hackerone.com/japz) | 2018-06-07 |
+| 421 | [97292](../reports/97292.md) | HTTP header injection in info.hackerone.com allows setting c | None | — | 18 | [harisec](https://hackerone.com/harisec) | 2015-12-02 |
+| 422 | [105887](../reports/105887.md) | Know whether private program for company exist or not | None | — | 18 | [ashish_r_padelkar](https://hackerone.com/ashish_r_padelkar) | 2016-01-15 |
+| 423 | [161947](../reports/161947.md) | Lack of length validation on user address attribute | None | — | 18 | [rohitdua](https://hackerone.com/rohitdua) | 2019-04-11 |
+| 424 | [112935](../reports/112935.md) | Unintended HTML inclusion as a result of https://hackerone.c | None | — | 18 | [yaworsk](https://hackerone.com/yaworsk) | 2016-02-24 |
+| 425 | [410245](../reports/410245.md) | Missing Certificate Authority Authorization rule | None | — | 17 | [theendisnear](https://hackerone.com/theendisnear) | 2019-04-11 |
+| 426 | [225833](../reports/225833.md) | www.hackerone.com website CSP "script-src" includes "unsafe- | None | — | 17 | [rootkid](https://hackerone.com/rootkid) | 2017-05-23 |
+| 427 | [283361](../reports/283361.md) | Private partial disclosure of h1 infrastructure  | None | — | 17 | [exadmin](https://hackerone.com/exadmin) | 2017-11-03 |
+| 428 | [59375](../reports/59375.md) | Homograph attack | None | — | 17 | [filedescriptor](https://hackerone.com/filedescriptor) | 2015-05-09 |
+| 429 | [33935](../reports/33935.md) | File Name Enumeration  | None | — | 17 | [nahamsec](https://hackerone.com/nahamsec) | 2014-11-17 |
+| 430 | [144129](../reports/144129.md) | Old titles are not hidden in reports with limited disclosure | None | — | 16 | [jthetechguy](https://hackerone.com/jthetechguy) | 2016-06-21 |
+| 431 | [163131](../reports/163131.md) | Users contents on AWS  is cacheable  | None | — | 16 | [abdullah](https://hackerone.com/abdullah) | 2016-09-06 |
+| 432 | [275](../reports/275.md) | Flawed account creation process allows registration of usern | None | — | 15 | [robots-txt](https://hackerone.com/robots-txt) | 2015-06-08 |
+| 433 | [141629](../reports/141629.md) | Able to remove the admin access of my program | None | — | 15 | [pardeepbattu02](https://hackerone.com/pardeepbattu02) | 2016-07-06 |
+| 434 | [546](../reports/546.md) | Logical issues with account settings | None | — | 15 | [introvertmac](https://hackerone.com/introvertmac) | 2015-05-28 |
+| 435 | [157750](../reports/157750.md) | Missing rate limit on critical user actions e.g. reset passw | None | — | 14 | [rohitdua](https://hackerone.com/rohitdua) | 2019-04-11 |
+| 436 | [3227](../reports/3227.md) | Control Characters Not Stripped From Username on Signup | None | — | 14 | [wkcaj](https://hackerone.com/wkcaj) | 2014-03-11 |
+| 437 | [17383](../reports/17383.md) | Category- Broken Authentication and Session Management (lead | None | — | 14 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-07-26 |
+| 438 | [35237](../reports/35237.md) | Gain reputation by creating a duplicate of an existing repor | None | — | 14 | [huzaifa_jawaid](https://hackerone.com/huzaifa_jawaid) | 2015-08-14 |
+| 439 | [119354](../reports/119354.md) | Race Conditions Exist When Accepting Invitations | None | — | 14 | [yaworsk](https://hackerone.com/yaworsk) | 2016-04-26 |
+| 440 | [15785](../reports/15785.md) | Session not invalidated after password reset | None | — | 14 | [guido](https://hackerone.com/guido) | 2014-06-10 |
+| 441 | [137503](../reports/137503.md) | Inadequate access controls in "Vote" functionality??? | None | — | 14 | [apok](https://hackerone.com/apok) | 2016-05-12 |
+| 442 | [288](../reports/288.md) | Session Management | None | — | 14 | [javidhussain21](https://hackerone.com/javidhussain21) | 2014-04-19 |
+| 443 | [72785](../reports/72785.md) | CSV Injection with the CVS export feature | None | — | 13 | [appsec3](https://hackerone.com/appsec3) | 2015-09-21 |
+| 444 | [159512](../reports/159512.md) | Requesting Mediation possible on reports that are too old fo | None | — | 13 | [troubleshooter](https://hackerone.com/troubleshooter) | 2016-08-17 |
+| 445 | [2221](../reports/2221.md) | CSS leaks SCSS debug info | None | — | 13 | [guido](https://hackerone.com/guido) | 2014-02-28 |
+| 446 | [459634](../reports/459634.md) | GitHub users outside of HackerOne organization can create an | None | — | 12 | [mik317](https://hackerone.com/mik317) | 2018-12-12 |
+| 447 | [106305](../reports/106305.md) | Improve signals in reputation | None | — | 12 | [ashish_r_padelkar](https://hackerone.com/ashish_r_padelkar) | 2016-01-07 |
+| 448 | [123572](../reports/123572.md) | Unauthorized Team members viewing | None | — | 12 | [temmyscript](https://hackerone.com/temmyscript) | 2016-07-02 |
+| 449 | [298](../reports/298.md) | RTL override symbol not stripped from file names | None | — | 11 | [mathias](https://hackerone.com/mathias) | 2015-05-28 |
+| 450 | [345](../reports/345.md) | Privilege escalation..., or not?! | None | — | 11 | [tomvg](https://hackerone.com/tomvg) | 2015-06-08 |
+| 451 | [19640](../reports/19640.md) | Session Hijacking attack (Different Scenario) | None | — | 10 | [shahmeer-amir](https://hackerone.com/shahmeer-amir) | 2014-07-17 |
+| 452 | [1093](../reports/1093.md) | LinkedIN URL should be HTTPS | None | — | 10 | [teo](https://hackerone.com/teo) | 2016-05-18 |
+| 453 | [39658](../reports/39658.md) | Reflected File Download | None | — | 10 | [0xbastion](https://hackerone.com/0xbastion) | 2016-04-25 |
+| 454 | [149435](../reports/149435.md) | Reward Money Leakage | None | — | 10 | [xsserboiii](https://hackerone.com/xsserboiii) | 2016-08-09 |
+| 455 | [111192](../reports/111192.md) | CSV Injection via the CSV export feature | None | — | 10 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2016-02-16 |
+| 456 | [132057](../reports/132057.md) | Reputation Manipulation (Theoretical) | None | — | 9 | [paulos__](https://hackerone.com/paulos__) | 2016-04-19 |
+| 457 | [29185](../reports/29185.md) | "early preview" programs disclosure | None | — | 9 | [d4d1a179c0f3](https://hackerone.com/d4d1a179c0f3) | 2015-01-21 |
+| 458 | [283847](../reports/283847.md) | GraphQL sessions aren't immediately invalidated when user pa | None | — | 9 | [bigbug](https://hackerone.com/bigbug) | 2017-11-30 |
+| 459 | [9479](../reports/9479.md) | Anti-MIME-Sniffing header X-Content-Type-Options header has  | None | — | 9 | [uname](https://hackerone.com/uname) | 2015-04-28 |
+| 460 | [116029](../reports/116029.md) | Private program activity timeline information disclosure | None | — | 9 | [charfe](https://hackerone.com/charfe) | 2016-03-16 |
+| 461 | [157699](../reports/157699.md) | Disclosure of external users invited to a specific report | None | — | 9 | [kirils](https://hackerone.com/kirils) | 2016-09-01 |
+| 462 | [54034](../reports/54034.md) | Reflected Filename Download | None | — | 9 | [dsopas](https://hackerone.com/dsopas) | 2016-04-25 |
+| 463 | [31383](../reports/31383.md) | Ability to see common response titles of other teams (limite | None | — | 8 | [prakharprasad](https://hackerone.com/prakharprasad) | 2014-10-15 |
+| 464 | [18846](../reports/18846.md) | Email changing | None | — | 8 | [djamel-ghorab](https://hackerone.com/djamel-ghorab) | 2014-08-28 |
+| 465 | [283309](../reports/283309.md) | Private Program all members disclosed  | None | — | 8 | [vulnh0lic](https://hackerone.com/vulnh0lic) | 2017-11-16 |
+| 466 | [116951](../reports/116951.md) | Increase number of bugs by sending duplicate of your own val | None | — | 8 | [ashish_r_padelkar](https://hackerone.com/ashish_r_padelkar) | 2016-04-25 |
+| 467 | [48416](../reports/48416.md) | Restrict any user from logging into his account. | None | — | 8 | [siddiki](https://hackerone.com/siddiki) | 2015-03-24 |
+| 468 | [3923](../reports/3923.md) | Adding an user email address to the list before confirming. | None | — | 8 | [siddiki](https://hackerone.com/siddiki) | 2014-06-11 |
+| 469 | [263](../reports/263.md) | Report title autocompletion | None | — | 8 | [janpaul123](https://hackerone.com/janpaul123) | 2015-06-08 |
+| 470 | [36211](../reports/36211.md) | Logic Issue with Reputation: Boost Reputation Points | None | — | 8 | [prakharprasad](https://hackerone.com/prakharprasad) | 2015-04-28 |
+| 471 | [842](../reports/842.md) | Autocomplete enabled in Paypal preferences | None | — | 8 | [xtross1](https://hackerone.com/xtross1) | 2015-05-28 |
+| 472 | [80118](../reports/80118.md) | Information leakage - Private reports cached by Google  | None | — | 8 | [tisisire](https://hackerone.com/tisisire) | 2018-07-23 |
+| 473 | [2584](../reports/2584.md) | Weird Bug - Ability to see partial of other user's notificat | None | — | 8 | [wcypierre](https://hackerone.com/wcypierre) | 2014-04-19 |
+| 474 | [378209](../reports/378209.md) | Ajouter le même utilisateur que celui déjà inscrit dans les  | None | — | 7 | [rbcafe](https://hackerone.com/rbcafe) | 2018-07-17 |
+| 475 | [52532](../reports/52532.md) | "learn more here", reward email - domain expired. | None | — | 7 | [smiegles](https://hackerone.com/smiegles) | 2015-03-23 |
+| 476 | [127914](../reports/127914.md) | Deleted name still present via mouseover functionality for u | None | — | 7 | [meals](https://hackerone.com/meals) | 2016-04-21 |
+| 477 | [97191](../reports/97191.md) | Send AJAX request to external domain | None | — | 7 | [abze](https://hackerone.com/abze) | 2015-11-14 |
+| 478 | [124620](../reports/124620.md) | External links should use rel="noopener" or use the redirect | None | — | 7 | [lukasreschke](https://hackerone.com/lukasreschke) | 2016-04-05 |
+| 479 | [46312](../reports/46312.md) | In markdown, parsing things like @danlec and #46072 after li | None | — | 7 | [danlec](https://hackerone.com/danlec) | 2015-07-04 |
+| 480 | [3991](../reports/3991.md) | Accepting Invalid characters on email address | None | — | 7 | [siddiki](https://hackerone.com/siddiki) | 2016-04-25 |
+| 481 | [124889](../reports/124889.md) | Websites opened from reports can change url of report page | None | — | 6 | [cablej](https://hackerone.com/cablej) | 2016-04-21 |
+| 482 | [99687](../reports/99687.md) | profile cover can also load external URL's  | None | — | 6 | [smiegles](https://hackerone.com/smiegles) | 2015-12-02 |
+| 483 | [118663](../reports/118663.md) | Denial of Service any Report | None | — | 6 | [cyberunit](https://hackerone.com/cyberunit) | 2016-03-09 |
+| 484 | [6350](../reports/6350.md) | creating titleless and non-closable bugs  | None | — | 6 | [leander](https://hackerone.com/leander) | 2014-04-17 |
+| 485 | [108928](../reports/108928.md) | Signals get affected once reports closed as self  | None | — | 6 | [kpr](https://hackerone.com/kpr) | 2016-04-25 |
+| 486 | [127235](../reports/127235.md) | New hacktivity view discloses report IDs of non-public repor | None | — | 6 | [ayoubfathi_](https://hackerone.com/ayoubfathi_) | 2016-04-26 |
+| 487 | [66151](../reports/66151.md) | Invitation is not properly cancelled while inviting to bug r | None | — | 6 | [boredengineer21](https://hackerone.com/boredengineer21) | 2015-07-10 |
+| 488 | [49566](../reports/49566.md) | Auto Approval of Invitation to join Team as a Team member | None | — | 6 | [h122-](https://hackerone.com/h122-) | 2015-03-11 |
+| 489 | [59369](../reports/59369.md) | Making any Report Failed to load | None | — | 6 | [atom](https://hackerone.com/atom) | 2015-05-09 |
+| 490 | [60429](../reports/60429.md) | Logical Issue (Boosting Reputation points) | None | — | 6 | [coolboss](https://hackerone.com/coolboss) | 2015-07-21 |
+| 491 | [107336](../reports/107336.md) | Team Member(s) associated with a  Group have Read-only permi | None | — | 6 | [dz_samir](https://hackerone.com/dz_samir) | 2016-01-27 |
+| 492 | [116032](../reports/116032.md) | Private Program Disclosure in /:handle/reports/draft.json en | None | — | 6 | [charfe](https://hackerone.com/charfe) | 2016-02-16 |
+| 493 | [1131887](../reports/1131887.md) | CSV injection in the credentials export | None | — | 6 | [muon4](https://hackerone.com/muon4) | 2021-09-22 |
+| 494 | [59659](../reports/59659.md) | Reopen Disable Accounts/ Hidden Access After Disable | None | — | 6 | [antrax](https://hackerone.com/antrax) | 2015-06-08 |
+| 495 | [97948](../reports/97948.md) | Cross-domain AJAX request | None | — | 6 | [bohdansec](https://hackerone.com/bohdansec) | 2015-11-14 |
+| 496 | [32990](../reports/32990.md) | Enumeration/Guess of Private (Invited) Programs | None | — | 6 | [prakharprasad](https://hackerone.com/prakharprasad) | 2015-05-09 |
+| 497 | [56742](../reports/56742.md) | SPF whitelist of mandrill leads to email forgery | None | — | 6 | [mikebrooks](https://hackerone.com/mikebrooks) | 2015-06-08 |
+| 498 | [116189](../reports/116189.md) | Null byte injection  | None | — | 6 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2016-02-23 |
+| 499 | [46952](../reports/46952.md) | Markdown code block sequence makes report unreadable | None | — | 6 | [danlec](https://hackerone.com/danlec) | 2015-06-29 |
+| 500 | [57163](../reports/57163.md) | Open-redirect on hackerone.com | None | — | 6 | [abze](https://hackerone.com/abze) | 2015-04-23 |
+| 501 | [12782](../reports/12782.md) | Spamming any user from Reset Password Function | None | — | 5 | [coolboss](https://hackerone.com/coolboss) | 2016-05-03 |
+| 502 | [63865](../reports/63865.md) | Potential denial of service in hackerone.com/<program>/rewar | None | — | 5 | [ashesh](https://hackerone.com/ashesh) | 2015-06-10 |
+| 503 | [90367](../reports/90367.md) | Minor Bug: Public un-compiled CSS with original sass, versio | None | — | 5 | [ericr](https://hackerone.com/ericr) | 2015-09-25 |
+| 504 | [66262](../reports/66262.md) | mailto: link injection on https://hackerone.com/directory | None | — | 5 | [ashesh](https://hackerone.com/ashesh) | 2015-06-10 |
+| 505 | [57736](../reports/57736.md) | Missing spf flags for hackerone.com | None | — | 5 | [d1pakda5](https://hackerone.com/d1pakda5) | 2015-04-23 |
+| 506 | [123278](../reports/123278.md) | Possible XSS | None | — | 5 | [paulos__](https://hackerone.com/paulos__) | 2016-04-21 |
+| 507 | [44888](../reports/44888.md) | Improper way of validating a program | None | — | 5 | [atom](https://hackerone.com/atom) | 2015-02-04 |
+| 508 | [58612](../reports/58612.md) | Homograph attack | None | — | 5 | [abze](https://hackerone.com/abze) | 2015-05-02 |
+| 509 | [59372](../reports/59372.md) | Homograph Attack | None | — | 5 | [atom](https://hackerone.com/atom) | 2015-05-09 |
+| 510 | [39139](../reports/39139.md) | URL Crashing browser. {Tested on firefox, Chrome and Safari} | None | — | 5 | [avicoder_](https://hackerone.com/avicoder_) | 2016-05-25 |
+| 511 | [116798](../reports/116798.md) | Private Program Disclosure in /:handle/settings/allow_report | None | — | 5 | [charfee](https://hackerone.com/charfee) | 2016-02-24 |
+| 512 | [44359](../reports/44359.md) | Add text to the title of the page "Thanks" | None | — | 5 | [bohdansec](https://hackerone.com/bohdansec) | 2016-04-25 |
+| 513 | [20122](../reports/20122.md) | No option to logout concurrent sessions | None | — | 5 | [ashesh](https://hackerone.com/ashesh) | 2014-07-17 |
+| 514 | [43280](../reports/43280.md) | HTTPS is not enforced for objects stored by HackerOne on Ama | None | — | 5 | [ank1ta](https://hackerone.com/ank1ta) | 2015-03-08 |
+| 515 | [5946](../reports/5946.md) | Marking notifications as read CSRF bug | None | — | 4 | [redkan](https://hackerone.com/redkan) | 2015-04-28 |
+| 516 | [92607](../reports/92607.md) | Content spoofing on invitations page  | None | — | 4 | [rohan_pagey](https://hackerone.com/rohan_pagey) | 2015-10-21 |
+| 517 | [7929](../reports/7929.md) | Arbitrary file uploads to Amazon WS. | None | — | 4 | [leander](https://hackerone.com/leander) | 2014-04-26 |
+| 518 | [118965](../reports/118965.md) | Distinguish EP+Private vs Private programs in HackerOne | None | — | 4 | [nismo](https://hackerone.com/nismo) | 2016-04-25 |
+| 519 | [80597](../reports/80597.md) | Number of invited researchers disclosed as part of JSON sear | None | — | 4 | [jessescitech](https://hackerone.com/jessescitech) | 2015-08-05 |
+| 520 | [92716](../reports/92716.md) | HackerOne Private Programs users disclosure and de-anonymous | None | — | 4 | [symbiansymoh](https://hackerone.com/symbiansymoh) | 2015-12-08 |
+| 521 | [21083](../reports/21083.md) | Account Hijacking (Only rare case scenario) | None | — | 4 | [xtross1](https://hackerone.com/xtross1) | 2014-08-23 |
+| 522 | [38232](../reports/38232.md) | Breaking Bugs as team member | None | — | 4 | [melvin](https://hackerone.com/melvin) | 2014-12-09 |
+| 523 | [17105](../reports/17105.md) | Cache leads to Privacy leaks | None | — | 4 | [ashesh](https://hackerone.com/ashesh) | 2014-07-17 |
+| 524 | [123743](../reports/123743.md) | Sending emails (via HackerOne) impersonating other users | None | — | 4 | [anshuman_bh](https://hackerone.com/anshuman_bh) | 2016-03-18 |
+| 525 | [27987](../reports/27987.md) | Window Opener Property Bug | None | — | 4 | [prakharprasad](https://hackerone.com/prakharprasad) | 2014-10-28 |
+| 526 | [60402](../reports/60402.md) | Content Spoofing - External Link Warning Page | None | — | 4 | [thsa](https://hackerone.com/thsa) | 2015-05-11 |
+| 527 | [115205](../reports/115205.md) | Putting link inside link in markdown | None | — | 4 | [pikachu](https://hackerone.com/pikachu) | 2016-04-02 |
+| 528 | [124611](../reports/124611.md) | Disclosure of private programs that have an "external" page  | None | — | 4 | [saeedhashem](https://hackerone.com/saeedhashem) | 2016-04-01 |
+| 529 | [3709](../reports/3709.md) | Criptographic Issue: Strisct Transport Security with not goo | None | — | 4 | [simon90](https://hackerone.com/simon90) | 2014-04-22 |
+| 530 | [67929](../reports/67929.md) | Redirection Page throwing error instead of redirecting to si | None | — | 3 | [mafia](https://hackerone.com/mafia) | 2016-05-25 |
+| 531 | [13748](../reports/13748.md) | Potential denial of service in hackerone.com/teams/new | None | — | 3 | [idps](https://hackerone.com/idps) | 2014-06-20 |
+| 532 | [59469](../reports/59469.md) | Fake URL + Additional vectors for homograph attack | None | — | 3 | [abze](https://hackerone.com/abze) | 2015-05-09 |
+| 533 | [97377](../reports/97377.md) | Hackerone impersonation | None | — | 3 | [abhisheksingh](https://hackerone.com/abhisheksingh) | 2015-12-02 |
+| 534 | [63158](../reports/63158.md) | External URL page bypass | None | — | 3 | [danielchatfield](https://hackerone.com/danielchatfield) | 2015-05-28 |
+| 535 | [123615](../reports/123615.md) | SECURITY: Referencing  previous Reports attachment_IDs on ne | None | — | 3 | [nismo](https://hackerone.com/nismo) | 2016-04-30 |
+| 536 | [86067](../reports/86067.md) | Weak HSTS age in support hackerone site | None | — | 3 | [codequick](https://hackerone.com/codequick) | 2015-09-18 |
+| 537 | [124223](../reports/124223.md) | CSV Injection via the CSV export feature | None | — | 3 | [stewie](https://hackerone.com/stewie) | 2016-04-25 |
+| 538 | [109420](../reports/109420.md) | Requesting unknown file type returns Ruby object w/ address | None | — | 2 | [run](https://hackerone.com/run) | 2016-02-19 |
+| 539 | [140720](../reports/140720.md) | Denial of service in report view. | None | — | 2 | [apok](https://hackerone.com/apok) | 2016-05-27 |
+| 540 | [118731](../reports/118731.md) | User with Read-Only permissions can edit the SwagAwarded Act | None | — | 2 | [techguynoob](https://hackerone.com/techguynoob) | 2016-04-01 |
+| 541 | [275293](../reports/275293.md) | Pending member invitations are not revoked on program name c | None | — | 2 | [ashish_r_padelkar](https://hackerone.com/ashish_r_padelkar) | 2017-11-18 |

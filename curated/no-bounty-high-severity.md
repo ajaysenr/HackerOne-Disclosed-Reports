@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1717 total)
+# High/Critical Severity — No Bounty Paid (1720 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -83,6 +83,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [3578842](../reports/3578842.md) | SQL Injection vulnerability found on ibm.com endpoint | [IBM](../by-program/ibm.md) | Critical — CVSS 9.3 | Resolved | 127 |
 | [2542372](../reports/2542372.md) | FULL ACCOUNT TAKEOVER | [MTN Group](../by-program/mtn_group.md) | Critical | Resolved | 122 |
 | [202823](../reports/202823.md) | Vine all registered user Private/sensitive information disclosure | [X / xAI](../by-program/x.md) | Critical — CVSS 9.3 | Resolved | 121 |
+| [1842674](../reports/1842674.md) | SQL Injection + Insecure Deserialization leads to Remote Code Exe | [Krisp](../by-program/krisp.md) | Critical — CVSS 10.0 | Resolved | 119 |
 | [206227](../reports/206227.md) | Remote Code Execution on Git.imgur-dev.com  | [Imgur](../by-program/imgur.md) | Critical | Resolved | 119 |
 | [210741](../reports/210741.md) | Unserialize leading to arbitrary PHP function invoke | [Rockstar Games](../by-program/rockstargames.md) | Critical — CVSS 10.0 | Resolved | 118 |
 | [659248](../reports/659248.md) | China – Limited Partner PII Regarding Work Scheduling via Unauthe | [Starbucks](../by-program/starbucks.md) | Critical | Resolved | 114 |
@@ -389,6 +390,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [343726](../reports/343726.md) | Unrestricted file upload (RCE) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.1 | Resolved | 13 |
 | [1482830](../reports/1482830.md) | Insecure Storage of Sensitive Information on lonestarcell.com ser | [MTN Group](../by-program/mtn_group.md) | Critical | Resolved | 13 |
 | [683965](../reports/683965.md) | Unrestricted File Upload Leading to Remote Code Execution | [Central Security Project](../by-program/central-security-project.md) | Critical — CVSS 9.1 | Resolved | 12 |
+| [1839012](../reports/1839012.md) | Authentication Bypass Using Default Credentials on █████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 12 |
 | [895824](../reports/895824.md) | [h1-2006 2020] Bounty payments are done ! | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 12 |
 | [1626210](../reports/1626210.md) | Local file read at https://████/ [HtUS] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 12 |
 | [1164452](../reports/1164452.md) | Remote code execution due to unvalidated file upload | [MTN Group](../by-program/mtn_group.md) | Critical | Resolved | 12 |
@@ -1700,6 +1702,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [221163](../reports/221163.md) | heap-buffer-overflow (read outside of buffer) in Sass::Prelexer:: | [LibSass](../by-program/libsass.md) | High | Informative | 2 |
 | [1276384](../reports/1276384.md) | Signature Verification /// golang.org/x/crypto/ssh | [Sifchain](../by-program/sifchain.md) | High — CVSS 7.0 | Not Applicable | 1 |
 | [3393664](../reports/3393664.md) | SSRF via improper validation after DNS name resolution in the lin | [Rocket.Chat](../by-program/rocket_chat.md) | High — CVSS 7.7 | Resolved | 1 |
+| [3809407](../reports/3809407.md) | AWS *.a2z.com | Unauthenticated Clickhouse UI : Database access + | [AWS VDP](../by-program/aws_vdp.md) | High | Resolved | 1 |
 | [507303](../reports/507303.md) | [file-browser] Inadequate Output Encoding and Escaping  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | Resolved | 1 |
 | [507310](../reports/507310.md) | [deliver-or-else] Path Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | Resolved | 1 |
 | [281850](../reports/281850.md) | Provide a security sistem most fit to our team | [Ruby](../by-program/ruby.md) | High — CVSS 7.6 | Not Applicable | 1 |

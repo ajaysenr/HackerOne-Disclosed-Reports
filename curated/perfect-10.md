@@ -1,4 +1,4 @@
-# Perfect CVSS 10.0 Reports (49 total)
+# Perfect CVSS 10.0 Reports (50 total)
 
 Reports where the program assigned a CVSS score of exactly 10.0.
 
@@ -22,6 +22,7 @@ Reports where the program assigned a CVSS score of exactly 10.0.
 | [394294](../reports/394294.md) | [samsung-remote] Command injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | — | 10 |
 | [1122791](../reports/1122791.md) | [hta3] Remote Code Execution on  https://███ via improper access  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | — | 28 |
 | [2262382](../reports/2262382.md) | Server Side Request Forgery (SSRF) via Analytics Reports | [HackerOne](../by-program/security.md) | — | 511 |
+| [1842674](../reports/1842674.md) | SQL Injection + Insecure Deserialization leads to Remote Code Exe | [Krisp](../by-program/krisp.md) | — | 119 |
 | [270981](../reports/270981.md) | Shopify admin authentication bypass using partners.shopify.com | [Shopify](../by-program/shopify.md) | — | 308 |
 | [500515](../reports/500515.md) | XXE at ecjobs.starbucks.com.cn/retail/hxpublic_v6/hxdynamicpage6. | [Starbucks](../by-program/starbucks.md) | — | 318 |
 | [330028](../reports/330028.md) | Remote Code Execution (RCE) in a Sony Pictures WebSystem | [Sony](../by-program/sony.md) | — | 22 |

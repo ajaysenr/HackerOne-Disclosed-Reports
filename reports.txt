@@ -9633,6 +9633,7 @@ https://hackerone.com/reports/3637898 | OS Command Injection in `aws-cdk-lib` No
 https://hackerone.com/reports/3638715 | Use-After-Free race condition in url_move_hostname() via shared connection pool
 https://hackerone.com/reports/3639277 | Bypassing Strict SSH Server Verification via Connection Pool Reuse in libcurl
 https://hackerone.com/reports/3640932 | Missing server identity policy enforcement in SSH connection reuse allows host key verification bypass via pool poisoning
+https://hackerone.com/reports/3641229 | GitHub user to server tokens can create issues in any public repository
 https://hackerone.com/reports/3641893 | Cookie attribute TAB injection regression in Set-Cookie parsing
 https://hackerone.com/reports/3642555 | CVE-2026-5545: wrong reuse of HTTP Negotiate connection
 https://hackerone.com/reports/3642600 | Authorization header leak in ssrf_filter via cross-host redirect leads to credential theft and unauthorized access
@@ -9798,9 +9799,11 @@ https://hackerone.com/reports/3793260 | CVE-2026-11856: cross-origin Digest auth
 https://hackerone.com/reports/3793495 | Incomplete Suppression of  Transfer-Encoding: chunked Header in HTTP/2 After Redirect From HTTP/1.1
 https://hackerone.com/reports/3795615 | Duplicate chunked Transfer-Encoding lets a malicious origin smuggle a response across reused HTTP proxy connections
 https://hackerone.com/reports/3797526 | CVE-2026-12064: proto-default skips SSH verification
+https://hackerone.com/reports/3800870 | connect.8x8.com/api/v1: JWT Algorithm Confusion Vulnerability
 https://hackerone.com/reports/3802645 | verify-release rebuilds from the tarball under verification, enabling pre-check command execution and false OK for a malicious curl release tarball
 https://hackerone.com/reports/3803415 | Secure cookies leaked to HTTP origins through HTTPS forwarding proxy
 https://hackerone.com/reports/3804525 | Vulnerability Report: Buffer Overflow in Path Sanitization
+https://hackerone.com/reports/3809407 | AWS *.a2z.com | Unauthenticated Clickhouse UI : Database access + SSRF
 https://hackerone.com/reports/3813932 | [Splatoon 3] Kick other players with NplnLogin message
 https://hackerone.com/reports/3817602 | Node --run POSIX positional argument escaping allows shell command injection
 https://hackerone.com/reports/3823932 | CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabling HAProxy PROXY protocol injection
