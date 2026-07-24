@@ -8367,11 +8367,16 @@ https://hackerone.com/reports/1847140 | Argo CD reconciles apps outside configur
 https://hackerone.com/reports/1847368 | Full Passcode bypass on Nextcloud App iOS
 https://hackerone.com/reports/1848062 | download file type warning on Windows does not appear if "ask where to save file before downloading" setting is enabled
 https://hackerone.com/reports/1848176 | IDOR in TalentMAP API can be abused to enumerate personal information of all the users
+https://hackerone.com/reports/1848551 | Moodle XSS on s-immerscio.comprehend.ibm.com
+https://hackerone.com/reports/1848780 | PHP info page disclosure in ██████████
 https://hackerone.com/reports/1848940 | URL Path Manipulation Enables Cache Poisoning of Amazon Affiliate Products in Shopify Linkpop
 https://hackerone.com/reports/1849626 | Fee discounts can be redeemed many times, resulting in unlimited fee-free transactions
 https://hackerone.com/reports/1850065 | [█████] Bug Reports allow for Unrestricted File Upload
+https://hackerone.com/reports/1850235 | [XSS] Reflected XSS via POST request
 https://hackerone.com/reports/1850407 | Chat room member disclosure via autocomplete API
 https://hackerone.com/reports/1851818 | Member role which doesn't have permission to send message can send by executing channel commands
+https://hackerone.com/reports/1851886 | Bug Report #23JAN135 (subdomain takeover via shopify )
+https://hackerone.com/reports/1851895 | Bug Report #23JAN136 (subdomain takeover via shopify )
 https://hackerone.com/reports/1851969 | Open Redirect - https://████████.jetblue.com/███?url=
 https://hackerone.com/reports/1853061 | XSS via Vuln Rendertron Instance At `██████████.jetblue.com/render/*`
 https://hackerone.com/reports/1858574 | [CVE-2022-44268] Arbitrary Remote Leak via ImageMagick
