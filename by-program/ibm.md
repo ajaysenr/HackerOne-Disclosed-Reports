@@ -1,4 +1,4 @@
-# IBM — Disclosed Reports (33 total)
+# IBM — Disclosed Reports (34 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -33,7 +33,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 27 | [2402842](../reports/2402842.md) | Information disclosure identified on IBM endpoint.  | Medium — CVSS 6.7 | — | 39 | [devire](https://hackerone.com/devire) | 2025-07-08 |
 | 28 | [2919623](../reports/2919623.md) | There is a POST based CSRF issue over IBM endpoint leading t | Medium — CVSS 5.0 | — | 37 | [youssifs7](https://hackerone.com/youssifs7) | 2025-02-04 |
 | 29 | [2292236](../reports/2292236.md) | Improper Authentication on Alertmanager instance | Medium — CVSS 6.1 | — | 34 | [nhx1](https://hackerone.com/nhx1) | 2024-02-29 |
-| 30 | [2844797](../reports/2844797.md) | Exposed Logs and Bearer Tokens on Test Endpoint | None | — | 57 | [facades](https://hackerone.com/facades) | 2024-12-12 |
-| 31 | [3051155](../reports/3051155.md) | Information disclosure on IBM training service endpoint | None | — | 47 | [thpless](https://hackerone.com/thpless) | 2025-04-29 |
-| 32 | [2398335](../reports/2398335.md) | jazz.net - publicly accessible .svn repositories | None | — | 43 | [cyber_punk](https://hackerone.com/cyber_punk) | 2024-08-16 |
-| 33 | [3664261](../reports/3664261.md) | Reflected Cross-Site Scripting (XSS) found on IBM.com domain | None | — | 6 | [entrovyx](https://hackerone.com/entrovyx) | 2026-06-15 |
+| 30 | [1848551](../reports/1848551.md) | Moodle XSS on s-immerscio.comprehend.ibm.com | Medium | — | 11 | [0xpugal](https://hackerone.com/0xpugal) | 2023-05-11 |
+| 31 | [2844797](../reports/2844797.md) | Exposed Logs and Bearer Tokens on Test Endpoint | None | — | 57 | [facades](https://hackerone.com/facades) | 2024-12-12 |
+| 32 | [3051155](../reports/3051155.md) | Information disclosure on IBM training service endpoint | None | — | 47 | [thpless](https://hackerone.com/thpless) | 2025-04-29 |
+| 33 | [2398335](../reports/2398335.md) | jazz.net - publicly accessible .svn repositories | None | — | 43 | [cyber_punk](https://hackerone.com/cyber_punk) | 2024-08-16 |
+| 34 | [3664261](../reports/3664261.md) | Reflected Cross-Site Scripting (XSS) found on IBM.com domain | None | — | 6 | [entrovyx](https://hackerone.com/entrovyx) | 2026-06-15 |

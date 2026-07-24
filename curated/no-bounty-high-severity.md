@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1720 total)
+# High/Critical Severity — No Bounty Paid (1722 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -823,6 +823,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1779447](../reports/1779447.md) | Reflected - XSS | [MTN Group](../by-program/mtn_group.md) | High | Resolved | 63 |
 | [665798](../reports/665798.md) | Earn free DAI interest (inflation) through instant CDP+DSR in one | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | High | Resolved | 63 |
 | [401098](../reports/401098.md) | [mena.starbucks.com] Laravel App Log & Configuration Disclosure. | [Starbucks](../by-program/starbucks.md) | High | Resolved | 62 |
+| [1851895](../reports/1851895.md) | Bug Report #23JAN136 (subdomain takeover via shopify ) | [Mars](../by-program/mars.md) | High | Resolved | 62 |
 | [281575](../reports/281575.md) | Password reset link injection allows redirect to malicious URL | [Mavenlink](../by-program/mavenlink.md) | High | Resolved | 62 |
 | [2731133](../reports/2731133.md) | External service interaction (HTTP) | [AWS VDP](../by-program/aws_vdp.md) | High — CVSS 8.2 | Resolved | 61 |
 | [2329466](../reports/2329466.md) | Management Console Editor Privilege Escalation to Root SSH Access | [GitHub](../by-program/github.md) | High | Resolved | 61 |
@@ -878,6 +879,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1051734](../reports/1051734.md) | [intensedebate.com] No Rate Limit On The report Functionality Lea | [Automattic](../by-program/automattic.md) | High | Resolved | 50 |
 | [275714](../reports/275714.md) | Subdomain takeover on developer.openapi.starbucks.com | [Starbucks](../by-program/starbucks.md) | High | Resolved | 50 |
 | [637267](../reports/637267.md) | Payment method token being sent to 3rd party analytics service | [Upserve ](../by-program/upserve.md) | High — CVSS 7.7 | Resolved | 50 |
+| [1851886](../reports/1851886.md) | Bug Report #23JAN135 (subdomain takeover via shopify ) | [Mars](../by-program/mars.md) | High | Resolved | 50 |
 | [792295](../reports/792295.md) | On Singing up with a Phone number , The 4 digit OTP does not expi | [Bumble](../by-program/bumble.md) | High — CVSS 8.1 | Resolved | 49 |
 | [1373784](../reports/1373784.md) | Able to steal private files by manipulating response using Compos | [Lark Technologies](../by-program/lark_technologies.md) | High | Resolved | 49 |
 | [147196](../reports/147196.md) | [careers.informatica.com] Reflected Cross Site Scripting to XSS S | [Informatica](../by-program/informatica.md) | High — CVSS 7.1 | Resolved | 49 |
