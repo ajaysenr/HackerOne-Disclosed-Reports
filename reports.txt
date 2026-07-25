@@ -8380,6 +8380,7 @@ https://hackerone.com/reports/1851895 | Bug Report #23JAN136 (subdomain takeover
 https://hackerone.com/reports/1851969 | Open Redirect - https://████████.jetblue.com/███?url=
 https://hackerone.com/reports/1853061 | XSS via Vuln Rendertron Instance At `██████████.jetblue.com/render/*`
 https://hackerone.com/reports/1858574 | [CVE-2022-44268] Arbitrary Remote Leak via ImageMagick
+https://hackerone.com/reports/1859592 | [indy_node]POOL_UPGRADE command injection, Trustee Node can execute command in any other Node`s system.
 https://hackerone.com/reports/1860905 | Splunk Sensitive Information Disclosure @████████
 https://hackerone.com/reports/1861487 | inDriver Job - Admin Approval Bypass
 https://hackerone.com/reports/1861569 | DoS at ████████ (CVE-2018-6389)
