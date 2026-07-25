@@ -5,8 +5,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | # | Report | Title | Severity | Bounty | Votes | Reporter | Disclosed |
 |---|---|---|---|---|---|---|---|
 | 1 | [182576](../reports/182576.md) | Subdomain Takeover on http://kiosk.owox.com/ | Critical | — | 12 | [hax0rgb](https://hackerone.com/hax0rgb) | 2016-11-17 |
-| 2 | [184884](../reports/184884.md) | Subdomain Takeover on  http://blog.owox.com/ | Critical | — | 2 | [yynl](https://hackerone.com/yynl) | 2017-05-22 |
-| 3 | [186393](../reports/186393.md) | Subdomain Takeover on OWOX.RU | Critical | — | 2 | [yynl](https://hackerone.com/yynl) | 2017-05-22 |
+| 2 | [186393](../reports/186393.md) | Subdomain Takeover on OWOX.RU | Critical | — | 2 | [yynl](https://hackerone.com/yynl) | 2017-05-22 |
+| 3 | [184884](../reports/184884.md) | Subdomain Takeover on  http://blog.owox.com/ | Critical | — | 2 | [yynl](https://hackerone.com/yynl) | 2017-05-22 |
 | 4 | [732987](../reports/732987.md) | Reflected XSS  | High | — | 20 | [imthehackerlor](https://hackerone.com/imthehackerlor) | 2019-12-09 |
 | 5 | [291012](../reports/291012.md) | Server-side cache poisoning leads to the http://my.dev.owox. | High | — | 18 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-11-23 |
 | 6 | [733051](../reports/733051.md) | The URL in "Choose a data source'' at "https://bi.owox.com/u | High | — | 8 | [imthehackerlor](https://hackerone.com/imthehackerlor) | 2019-12-09 |

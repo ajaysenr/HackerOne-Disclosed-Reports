@@ -21,8 +21,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 15 | [3604288](../reports/3604288.md) | Access to Deactivated LinkedIn Company Pages via Competitor  | Medium — CVSS 5.3 | — | 66 | [riadalrashed](https://hackerone.com/riadalrashed) | 2026-03-24 |
 | 16 | [1581528](../reports/1581528.md) | Can access the job name, creator name and can report any dra | Medium — CVSS 5.3 | — | 63 | [sachin_kr](https://hackerone.com/sachin_kr) | 2022-07-20 |
 | 17 | [2339192](../reports/2339192.md) | Blocking a company page admin prevents him from delete paid  | Medium — CVSS 4.3 | — | 51 | [riadalrashed](https://hackerone.com/riadalrashed) | 2026-03-05 |
-| 18 | [1592587](../reports/1592587.md) | IDOR - Delete technical skill assessment result & Gained Bad | Medium — CVSS 5.3 | — | 48 | [sachin_kr](https://hackerone.com/sachin_kr) | 2022-10-05 |
-| 19 | [1572591](../reports/1572591.md) | Privilege Escalation - "Analyst" Role Can View Email Domains | Medium | — | 48 | [naaash](https://hackerone.com/naaash) | 2022-08-26 |
+| 18 | [1572591](../reports/1572591.md) | Privilege Escalation - "Analyst" Role Can View Email Domains | Medium | — | 48 | [naaash](https://hackerone.com/naaash) | 2022-08-26 |
+| 19 | [1592587](../reports/1592587.md) | IDOR - Delete technical skill assessment result & Gained Bad | Medium — CVSS 5.3 | — | 48 | [sachin_kr](https://hackerone.com/sachin_kr) | 2022-10-05 |
 | 20 | [1813450](../reports/1813450.md) | Attackers do not need to Pay for a Subscription to get the ` | Medium — CVSS 5.3 | — | 43 | [find_me_here](https://hackerone.com/find_me_here) | 2023-05-12 |
 | 21 | [1837309](../reports/1837309.md) | Anyone can view the results of linkedin skill test -if faile | Medium — CVSS 5.3 | — | 42 | [marvelmaniac](https://hackerone.com/marvelmaniac) | 2023-05-17 |
 | 22 | [1801527](../reports/1801527.md) | Delete any LinkedIn comment on learning API of other users | Medium — CVSS 5.3 | — | 40 | [encodedguy](https://hackerone.com/encodedguy) | 2023-05-12 |

@@ -19,5 +19,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 13 | [894922](../reports/894922.md) | [3DS][SSL] Improper certificate validation allows an attacke | None | — | 129 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2020-12-18 |
 | 14 | [3042475](../reports/3042475.md) | Splatoon 3 Anticheat Seed Randomization Weakness | None | — | 53 | [hana2736](https://hackerone.com/hana2736) | 2026-02-19 |
 | 15 | [897606](../reports/897606.md) | [3DS][SSL][SDK] Unchecked number of audio channels in Mobicl | None | — | 43 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2020-12-18 |
-| 16 | [687887](../reports/687887.md) | [3DS][StreetPass] Buffer Overflow in Super Mario Maker level | None | — | 30 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2021-04-20 |
-| 17 | [923240](../reports/923240.md) | [3DS][StreetPass] Heap Overflow in Swapnote parser leads to  | None | — | 30 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2021-01-18 |
+| 16 | [923240](../reports/923240.md) | [3DS][StreetPass] Heap Overflow in Swapnote parser leads to  | None | — | 30 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2021-01-18 |
+| 17 | [687887](../reports/687887.md) | [3DS][StreetPass] Buffer Overflow in Super Mario Maker level | None | — | 30 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2021-04-20 |

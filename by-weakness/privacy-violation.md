@@ -42,8 +42,8 @@
 | 36 | [304770](../reports/304770.md) | Corrupt RPC responses from remote daemon nodes can lead to transa | [Monero](../by-program/monero.md) | Medium | — | 13 |
 | 37 | [985124](../reports/985124.md) | GraphQL Query leads to sensitive information disclosure | [GitLab](../by-program/gitlab.md) | Medium | — | 12 |
 | 38 | [1641088](../reports/1641088.md) | Last video frame is still sent after video is disabled in a call | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.2 | — | 10 |
-| 39 | [520842](../reports/520842.md) | Email PII disclosure due to Insecure Password Reset field | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
-| 40 | [1484168](../reports/1484168.md) | De-anonymize anonymous tips through the Tumblr blog network | [Automattic](../by-program/automattic.md) | Medium | — | 6 |
+| 39 | [1484168](../reports/1484168.md) | De-anonymize anonymous tips through the Tumblr blog network | [Automattic](../by-program/automattic.md) | Medium | — | 6 |
+| 40 | [520842](../reports/520842.md) | Email PII disclosure due to Insecure Password Reset field | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
 | 41 | [219715](../reports/219715.md) | Раскрытие имени файла приватных документов | [VK.com](../by-program/vkcom.md) | Medium | — | 5 |
 | 42 | [1245094](../reports/1245094.md) | Exposed data of credit card details to hacker or attacker. | [Urban Company](../by-program/urbancompany.md) | Medium | — | 4 |
 | 43 | [235041](../reports/235041.md) | Sensitive Email disclosure Due to Insecure  Reactivate Account fi | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
@@ -65,5 +65,5 @@
 | 59 | [803141](../reports/803141.md) | Unauthorized User Can Delete Any User Account | [Nord Security](../by-program/nordsecurity.md) | None | — | 25 |
 | 60 | [386596](../reports/386596.md) | Email Not Completely Deleted after Deleting an account | [Semmle](../by-program/semmle.md) | None | — | 18 |
 | 61 | [803941](../reports/803941.md) | NordVPN Android Application privacy violation due to Google Adver | [Nord Security](../by-program/nordsecurity.md) | None | — | 11 |
-| 62 | [262088](../reports/262088.md) | Show hide privacy giving receiving on my website  | [Gratipay](../by-program/gratipay.md) | None | — | 3 |
-| 63 | [3185083](../reports/3185083.md) | Connection Count Bug in Monero Node Enables Outbound Peer Reset A | [Monero](../by-program/monero.md) | None | — | 3 |
+| 62 | [3185083](../reports/3185083.md) | Connection Count Bug in Monero Node Enables Outbound Peer Reset A | [Monero](../by-program/monero.md) | None | — | 3 |
+| 63 | [262088](../reports/262088.md) | Show hide privacy giving receiving on my website  | [Gratipay](../by-program/gratipay.md) | None | — | 3 |

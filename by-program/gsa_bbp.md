@@ -29,8 +29,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 23 | [360171](../reports/360171.md) | Multiple Bugs in api.data.gov/signup endpoint leads to send  | Medium | — | 15 | [pressihackerone](https://hackerone.com/pressihackerone) | 2018-11-13 |
 | 24 | [245172](../reports/245172.md) | Double Stored Cross-Site scripting in the admin panel | Medium | — | 15 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-05 |
 | 25 | [318068](../reports/318068.md) | SSH server compatible with several vulnerable cryptographic  | Medium | — | 14 | [northivanastan](https://hackerone.com/northivanastan) | 2018-03-02 |
-| 26 | [673384](../reports/673384.md) | xmlrpc.php file enabled - data.gov | Medium | — | 10 | [zddw](https://hackerone.com/zddw) | 2019-08-19 |
-| 27 | [264090](../reports/264090.md) | 2FA bypass - confirmation tokens don't expire | Medium — CVSS 4.8 | — | 10 | [muskecan](https://hackerone.com/muskecan) | 2017-11-17 |
+| 26 | [264090](../reports/264090.md) | 2FA bypass - confirmation tokens don't expire | Medium — CVSS 4.8 | — | 10 | [muskecan](https://hackerone.com/muskecan) | 2017-11-17 |
+| 27 | [673384](../reports/673384.md) | xmlrpc.php file enabled - data.gov | Medium | — | 10 | [zddw](https://hackerone.com/zddw) | 2019-08-19 |
 | 28 | [263498](../reports/263498.md) | CSRF to change Account Security Keys on secure.login.gov | Medium | — | 8 | [fawazxq](https://hackerone.com/fawazxq) | 2017-11-01 |
 | 29 | [263512](../reports/263512.md) | CSRF in generating a new Personal Key | Medium | — | 4 | [streaak](https://hackerone.com/streaak) | 2017-11-17 |
 | 30 | [263553](../reports/263553.md) | federalist.18f.gov vulnerable to Sweet32 attack | Medium | — | 3 | [r0p3](https://hackerone.com/r0p3) | 2017-09-05 |

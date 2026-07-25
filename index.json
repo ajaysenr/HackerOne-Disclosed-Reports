@@ -176304,6 +176304,24 @@
     "votes": 21
   },
   {
+    "id": 3621606,
+    "url": "https://hackerone.com/reports/3621606",
+    "title": "ZMQ RPC Log Injection and Untrusted Payload Persistence",
+    "program": "Monero",
+    "program_handle": "monero",
+    "reporter": "redlobsterzzz",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "CRLF Injection",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-03-22",
+    "disclosed_at": "2026-07-24",
+    "votes": 2
+  },
+  {
     "id": 3621851,
     "url": "https://hackerone.com/reports/3621851",
     "title": "CVE-2026-4873: connection reuse ignores TLS requirement",

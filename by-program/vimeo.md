@@ -21,52 +21,52 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 15 | [43807](../reports/43807.md) | Securing "Reset password" pages from bots | None | — | 11 | [panchocosil](https://hackerone.com/panchocosil) | 2017-01-31 |
 | 16 | [85488](../reports/85488.md) | Stored XSS on player.vimeo.com | None | — | 11 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2017-08-31 |
 | 17 | [39181](../reports/39181.md) | [vimeopro.com] CRLF Injection | None | — | 10 | [bobrov](https://hackerone.com/bobrov) | 2016-10-24 |
-| 18 | [57603](../reports/57603.md) | API: missing invalidation of OAuth2 Authorization Code durin | None | — | 8 | [dor1s](https://hackerone.com/dor1s) | 2015-05-31 |
-| 19 | [88508](../reports/88508.md) | XSS when using captions/subtitles on video player based on F | None | — | 8 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2017-08-31 |
-| 20 | [88105](../reports/88105.md) | XSS on vimeo.com | "Search within these results" feature (re | None | — | 8 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2017-08-31 |
-| 21 | [43617](../reports/43617.md) | Adding profile picture to anyone on Vimeo | None | — | 8 | [avlidienbrunn](https://hackerone.com/avlidienbrunn) | 2015-02-26 |
-| 22 | [44217](../reports/44217.md) | Application XSS filter function Bypass may allow Multiple st | None | — | 8 | [securityidiots](https://hackerone.com/securityidiots) | 2015-06-28 |
-| 23 | [88088](../reports/88088.md) | XSS on mobile version of vimeo.com where the button "Follow" | None | — | 7 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2017-08-31 |
-| 24 | [46113](../reports/46113.md) | Can message users without the proper authorization | None | — | 7 | [jkjkjk](https://hackerone.com/jkjkjk) | 2015-04-01 |
-| 25 | [52707](../reports/52707.md) | Invite any user to your group without even following him | None | — | 6 | [indoappsec](https://hackerone.com/indoappsec) | 2016-08-25 |
-| 26 | [44202](../reports/44202.md) | Poodle bleed vulnerability in cloud sub domain | None | — | 6 | [shahmeer-amir](https://hackerone.com/shahmeer-amir) | 2015-03-05 |
+| 18 | [88508](../reports/88508.md) | XSS when using captions/subtitles on video player based on F | None | — | 8 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2017-08-31 |
+| 19 | [44217](../reports/44217.md) | Application XSS filter function Bypass may allow Multiple st | None | — | 8 | [securityidiots](https://hackerone.com/securityidiots) | 2015-06-28 |
+| 20 | [43617](../reports/43617.md) | Adding profile picture to anyone on Vimeo | None | — | 8 | [avlidienbrunn](https://hackerone.com/avlidienbrunn) | 2015-02-26 |
+| 21 | [88105](../reports/88105.md) | XSS on vimeo.com | "Search within these results" feature (re | None | — | 8 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2017-08-31 |
+| 22 | [57603](../reports/57603.md) | API: missing invalidation of OAuth2 Authorization Code durin | None | — | 8 | [dor1s](https://hackerone.com/dor1s) | 2015-05-31 |
+| 23 | [46113](../reports/46113.md) | Can message users without the proper authorization | None | — | 7 | [jkjkjk](https://hackerone.com/jkjkjk) | 2015-04-01 |
+| 24 | [88088](../reports/88088.md) | XSS on mobile version of vimeo.com where the button "Follow" | None | — | 7 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2017-08-31 |
+| 25 | [130914](../reports/130914.md) | Error page Text Injection. | None | — | 6 | [h4rsh4d](https://hackerone.com/h4rsh4d) | 2016-08-02 |
+| 26 | [44512](../reports/44512.md) | XSS on any site that includes the moogaloop flash player | d | None | — | 6 | [batram](https://hackerone.com/batram) | 2015-02-22 |
 | 27 | [85615](../reports/85615.md) | Reflected XSS on vimeo.com/musicstore | None | — | 6 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2017-08-31 |
 | 28 | [96229](../reports/96229.md) | XSS on player.vimeo.com without user interaction and vimeo.c | None | — | 6 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2017-08-31 |
-| 29 | [44512](../reports/44512.md) | XSS on any site that includes the moogaloop flash player | d | None | — | 6 | [batram](https://hackerone.com/batram) | 2015-02-22 |
-| 30 | [130914](../reports/130914.md) | Error page Text Injection. | None | — | 6 | [h4rsh4d](https://hackerone.com/h4rsh4d) | 2016-08-02 |
+| 29 | [52707](../reports/52707.md) | Invite any user to your group without even following him | None | — | 6 | [indoappsec](https://hackerone.com/indoappsec) | 2016-08-25 |
+| 30 | [44202](../reports/44202.md) | Poodle bleed vulnerability in cloud sub domain | None | — | 6 | [shahmeer-amir](https://hackerone.com/shahmeer-amir) | 2015-03-05 |
 | 31 | [43070](../reports/43070.md) | Misconfigured crossdomain.xml - vimeo.com | None | — | 5 | [balag_py](https://hackerone.com/balag_py) | 2015-02-09 |
 | 32 | [45960](../reports/45960.md) | CRITICAL vulnerability - Insecure Direct Object Reference -  | None | — | 5 | [coolboss](https://hackerone.com/coolboss) | 2015-03-18 |
-| 33 | [52181](../reports/52181.md) | Insecure Direct Object References that allows to read any co | None | — | 5 | [patrik](https://hackerone.com/patrik) | 2015-05-04 |
-| 34 | [52176](../reports/52176.md) | Insecure Direct Object References in https://vimeo.com/forum | None | — | 5 | [patrik](https://hackerone.com/patrik) | 2015-05-04 |
-| 35 | [43770](../reports/43770.md) | Ability to Download Music Tracks Without Paying (Missing per | None | — | 5 | [wkcaj](https://hackerone.com/wkcaj) | 2015-03-01 |
-| 36 | [43998](../reports/43998.md) | CRITICAL full source code/config disclosure for Cameo | None | — | 5 | [avlidienbrunn](https://hackerone.com/avlidienbrunn) | 2015-05-11 |
+| 33 | [43770](../reports/43770.md) | Ability to Download Music Tracks Without Paying (Missing per | None | — | 5 | [wkcaj](https://hackerone.com/wkcaj) | 2015-03-01 |
+| 34 | [43998](../reports/43998.md) | CRITICAL full source code/config disclosure for Cameo | None | — | 5 | [avlidienbrunn](https://hackerone.com/avlidienbrunn) | 2015-05-11 |
+| 35 | [52176](../reports/52176.md) | Insecure Direct Object References in https://vimeo.com/forum | None | — | 5 | [patrik](https://hackerone.com/patrik) | 2015-05-04 |
+| 36 | [52181](../reports/52181.md) | Insecure Direct Object References that allows to read any co | None | — | 5 | [patrik](https://hackerone.com/patrik) | 2015-05-04 |
 | 37 | [87577](../reports/87577.md) | Stored XSS on vimeo.com and player.vimeo.com | None | — | 4 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2015-11-30 |
 | 38 | [44425](../reports/44425.md) | unvalid open authentication with facebook | None | — | 4 | [ckmk44](https://hackerone.com/ckmk44) | 2015-01-21 |
-| 39 | [43602](../reports/43602.md) | Buying ondemand videos that  0.1  and sometimes for free  | None | — | 4 | [defmax](https://hackerone.com/defmax) | 2015-02-13 |
-| 40 | [45428](../reports/45428.md) | CSRF bypass | None | — | 4 | [b7882330c6060c6b277c5a1](https://hackerone.com/b7882330c6060c6b277c5a1) | 2015-01-30 |
-| 41 | [50786](../reports/50786.md) | A user can add videos to other user's private groups | None | — | 3 | [satishb3](https://hackerone.com/satishb3) | 2015-04-23 |
-| 42 | [124564](../reports/124564.md) | Missing rate limit on private videos password | None | — | 3 | [saeedhashem](https://hackerone.com/saeedhashem) | 2016-03-22 |
-| 43 | [50829](../reports/50829.md) | A user can post comments on other user's private videos | None | — | 3 | [satishb3](https://hackerone.com/satishb3) | 2015-03-11 |
-| 44 | [46109](../reports/46109.md) | Brute force on "vimeo" cookie | None | — | 3 | [ba4fe4ca95021d367f8a574](https://hackerone.com/ba4fe4ca95021d367f8a574) | 2015-02-02 |
-| 45 | [44798](../reports/44798.md) | Vimeo Search - XSS Vulnerability [http://vimeo.com/search] | None | — | 3 | [shamrocksu88](https://hackerone.com/shamrocksu88) | 2015-01-23 |
-| 46 | [121919](../reports/121919.md) | Private, embeddable videos leaks data through Facebook & Ope | None | — | 3 | [tomash](https://hackerone.com/tomash) | 2016-05-21 |
-| 47 | [44157](../reports/44157.md) | Open Redirection Security Filter bypassed | None | — | 3 | [securityidiots](https://hackerone.com/securityidiots) | 2015-06-28 |
-| 48 | [50776](../reports/50776.md) | A user can edit comments even after video comments are disab | None | — | 3 | [satishb3](https://hackerone.com/satishb3) | 2015-03-11 |
-| 49 | [45084](../reports/45084.md) | Full account takeover via Add a New Email to account without | None | — | 3 | [a7medel-ma7alawy](https://hackerone.com/a7medel-ma7alawy) | 2015-03-06 |
-| 50 | [49561](../reports/49561.md) | Vimeo + & Vimeo PRO Unautorised Tax bypass | None | — | 3 | [march](https://hackerone.com/march) | 2015-04-18 |
-| 51 | [45368](../reports/45368.md) | ftp upload of video allows naming that is not sanitized as t | None | — | 2 | [ba4fe4ca95021d367f8a574](https://hackerone.com/ba4fe4ca95021d367f8a574) | 2015-01-29 |
-| 52 | [50941](../reports/50941.md) | A user can enhance their videos with paid tracks without buy | None | — | 2 | [satishb3](https://hackerone.com/satishb3) | 2015-10-14 |
-| 53 | [45484](../reports/45484.md) | XSS on Vimeo | None | — | 2 | [niyaax](https://hackerone.com/niyaax) | 2015-01-29 |
-| 54 | [51817](../reports/51817.md) | Post in private groups after getting removed | None | — | 2 | [niyaax](https://hackerone.com/niyaax) | 2015-05-01 |
+| 39 | [45428](../reports/45428.md) | CSRF bypass | None | — | 4 | [b7882330c6060c6b277c5a1](https://hackerone.com/b7882330c6060c6b277c5a1) | 2015-01-30 |
+| 40 | [43602](../reports/43602.md) | Buying ondemand videos that  0.1  and sometimes for free  | None | — | 4 | [defmax](https://hackerone.com/defmax) | 2015-02-13 |
+| 41 | [50776](../reports/50776.md) | A user can edit comments even after video comments are disab | None | — | 3 | [satishb3](https://hackerone.com/satishb3) | 2015-03-11 |
+| 42 | [50786](../reports/50786.md) | A user can add videos to other user's private groups | None | — | 3 | [satishb3](https://hackerone.com/satishb3) | 2015-04-23 |
+| 43 | [124564](../reports/124564.md) | Missing rate limit on private videos password | None | — | 3 | [saeedhashem](https://hackerone.com/saeedhashem) | 2016-03-22 |
+| 44 | [45084](../reports/45084.md) | Full account takeover via Add a New Email to account without | None | — | 3 | [a7medel-ma7alawy](https://hackerone.com/a7medel-ma7alawy) | 2015-03-06 |
+| 45 | [121919](../reports/121919.md) | Private, embeddable videos leaks data through Facebook & Ope | None | — | 3 | [tomash](https://hackerone.com/tomash) | 2016-05-21 |
+| 46 | [44798](../reports/44798.md) | Vimeo Search - XSS Vulnerability [http://vimeo.com/search] | None | — | 3 | [shamrocksu88](https://hackerone.com/shamrocksu88) | 2015-01-23 |
+| 47 | [46109](../reports/46109.md) | Brute force on "vimeo" cookie | None | — | 3 | [ba4fe4ca95021d367f8a574](https://hackerone.com/ba4fe4ca95021d367f8a574) | 2015-02-02 |
+| 48 | [49561](../reports/49561.md) | Vimeo + & Vimeo PRO Unautorised Tax bypass | None | — | 3 | [march](https://hackerone.com/march) | 2015-04-18 |
+| 49 | [44157](../reports/44157.md) | Open Redirection Security Filter bypassed | None | — | 3 | [securityidiots](https://hackerone.com/securityidiots) | 2015-06-28 |
+| 50 | [50829](../reports/50829.md) | A user can post comments on other user's private videos | None | — | 3 | [satishb3](https://hackerone.com/satishb3) | 2015-03-11 |
+| 51 | [50941](../reports/50941.md) | A user can enhance their videos with paid tracks without buy | None | — | 2 | [satishb3](https://hackerone.com/satishb3) | 2015-10-14 |
+| 52 | [43672](../reports/43672.md) | player.vimeo.com - Reflected XSS Vulnerability | None | — | 2 | [dekeeu](https://hackerone.com/dekeeu) | 2015-03-09 |
+| 53 | [42702](../reports/42702.md) | APIs for channels allow HTML entities that may cause XSS iss | None | — | 2 | [artem](https://hackerone.com/artem) | 2015-01-08 |
+| 54 | [49304](../reports/49304.md) | Bypassing Email verification  | None | — | 2 | [localpwn](https://hackerone.com/localpwn) | 2015-03-29 |
 | 55 | [43850](../reports/43850.md) | abusing Thumbnails(https://vimeo.com/upload/select_thumb) to | None | — | 2 | [adrianbelen](https://hackerone.com/adrianbelen) | 2015-04-03 |
-| 56 | [49304](../reports/49304.md) | Bypassing Email verification  | None | — | 2 | [localpwn](https://hackerone.com/localpwn) | 2015-03-29 |
-| 57 | [42702](../reports/42702.md) | APIs for channels allow HTML entities that may cause XSS iss | None | — | 2 | [artem](https://hackerone.com/artem) | 2015-01-08 |
-| 58 | [52982](../reports/52982.md) | [URGENT ISSUE] Add or Delete the videos in watch later list  | None | — | 2 | [ckmk44](https://hackerone.com/ckmk44) | 2015-05-01 |
-| 59 | [43846](../reports/43846.md) | No Limitation on Following allows user to follow people auto | None | — | 2 | [optimus_prime](https://hackerone.com/optimus_prime) | 2016-05-02 |
-| 60 | [44056](../reports/44056.md) | USER PRIVACY VIOLATED (PRIVATE DATA GETTING TRANSFER OVER IN | None | — | 2 | [geekboy](https://hackerone.com/geekboy) | 2015-01-20 |
-| 61 | [43672](../reports/43672.md) | player.vimeo.com - Reflected XSS Vulnerability | None | — | 2 | [dekeeu](https://hackerone.com/dekeeu) | 2015-03-09 |
-| 62 | [56182](../reports/56182.md) | May cause account take over (Via invitation page) | None | — | 1 | [dia2diab](https://hackerone.com/dia2diab) | 2015-05-20 |
-| 63 | [52708](../reports/52708.md) | Share your channel to any user on vimeo without following hi | None | — | 1 | [indoappsec](https://hackerone.com/indoappsec) | 2015-09-28 |
-| 64 | [42584](../reports/42584.md) | Vimeo.com - reflected xss vulnerability | None | — | 1 | [dekeeu](https://hackerone.com/dekeeu) | 2015-03-09 |
-| 65 | [111386](../reports/111386.md) | Legacy API exposes private video titles | None | — | 1 | [nathonsecurity](https://hackerone.com/nathonsecurity) | 2016-02-10 |
-| 66 | [42582](../reports/42582.md) | Vimeo.com - Reflected XSS Vulnerability | None | — | 1 | [dekeeu](https://hackerone.com/dekeeu) | 2015-04-08 |
+| 56 | [51817](../reports/51817.md) | Post in private groups after getting removed | None | — | 2 | [niyaax](https://hackerone.com/niyaax) | 2015-05-01 |
+| 57 | [44056](../reports/44056.md) | USER PRIVACY VIOLATED (PRIVATE DATA GETTING TRANSFER OVER IN | None | — | 2 | [geekboy](https://hackerone.com/geekboy) | 2015-01-20 |
+| 58 | [45484](../reports/45484.md) | XSS on Vimeo | None | — | 2 | [niyaax](https://hackerone.com/niyaax) | 2015-01-29 |
+| 59 | [45368](../reports/45368.md) | ftp upload of video allows naming that is not sanitized as t | None | — | 2 | [ba4fe4ca95021d367f8a574](https://hackerone.com/ba4fe4ca95021d367f8a574) | 2015-01-29 |
+| 60 | [43846](../reports/43846.md) | No Limitation on Following allows user to follow people auto | None | — | 2 | [optimus_prime](https://hackerone.com/optimus_prime) | 2016-05-02 |
+| 61 | [52982](../reports/52982.md) | [URGENT ISSUE] Add or Delete the videos in watch later list  | None | — | 2 | [ckmk44](https://hackerone.com/ckmk44) | 2015-05-01 |
+| 62 | [111386](../reports/111386.md) | Legacy API exposes private video titles | None | — | 1 | [nathonsecurity](https://hackerone.com/nathonsecurity) | 2016-02-10 |
+| 63 | [56182](../reports/56182.md) | May cause account take over (Via invitation page) | None | — | 1 | [dia2diab](https://hackerone.com/dia2diab) | 2015-05-20 |
+| 64 | [42582](../reports/42582.md) | Vimeo.com - Reflected XSS Vulnerability | None | — | 1 | [dekeeu](https://hackerone.com/dekeeu) | 2015-04-08 |
+| 65 | [52708](../reports/52708.md) | Share your channel to any user on vimeo without following hi | None | — | 1 | [indoappsec](https://hackerone.com/indoappsec) | 2015-09-28 |
+| 66 | [42584](../reports/42584.md) | Vimeo.com - reflected xss vulnerability | None | — | 1 | [dekeeu](https://hackerone.com/dekeeu) | 2015-03-09 |

@@ -5,8 +5,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | # | Report | Title | Severity | Bounty | Votes | Reporter | Disclosed |
 |---|---|---|---|---|---|---|---|
 | 1 | [2958619](../reports/2958619.md) | SQLi | in URL paths | Critical | — | 147 | [almuntadhar0x01](https://hackerone.com/almuntadhar0x01) | 2025-03-06 |
-| 2 | [2635315](../reports/2635315.md) | Yet Another OTP code Leaked in the API Response | Critical — CVSS 9.1 | — | 130 | [tinopreter](https://hackerone.com/tinopreter) | 2025-01-08 |
-| 3 | [1773609](../reports/1773609.md) | IDOR at mtnmobad.mtnbusiness.com.ng leads to PII leakage.  | Critical | — | 130 | [hazemhussien99](https://hackerone.com/hazemhussien99) | 2024-10-05 |
+| 2 | [1773609](../reports/1773609.md) | IDOR at mtnmobad.mtnbusiness.com.ng leads to PII leakage.  | Critical | — | 130 | [hazemhussien99](https://hackerone.com/hazemhussien99) | 2024-10-05 |
+| 3 | [2635315](../reports/2635315.md) | Yet Another OTP code Leaked in the API Response | Critical — CVSS 9.1 | — | 130 | [tinopreter](https://hackerone.com/tinopreter) | 2025-01-08 |
 | 4 | [2542372](../reports/2542372.md) | FULL ACCOUNT TAKEOVER | Critical | — | 122 | [impozzible](https://hackerone.com/impozzible) | 2024-08-17 |
 | 5 | [2633959](../reports/2633959.md) | SQL injection in URL path leads to Database Access | Critical — CVSS 9.8 | — | 110 | [tinopreter](https://hackerone.com/tinopreter) | 2025-01-08 |
 | 6 | [1709881](../reports/1709881.md) | Authentication Bypass Leads To  Complete Account TakeveOver  | Critical — CVSS 10.0 | — | 105 | [reachaxis](https://hackerone.com/reachaxis) | 2024-09-14 |
@@ -17,8 +17,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 11 | [2633888](../reports/2633888.md) | OTP code Leaked in API Response  | Critical — CVSS 9.1 | — | 78 | [tinopreter](https://hackerone.com/tinopreter) | 2025-01-08 |
 | 12 | [2375666](../reports/2375666.md) | CVE-2018-0296 Cisco ASA Denial of Service & Path Traversal v | Critical | — | 61 | [deb0con](https://hackerone.com/deb0con) | 2024-08-30 |
 | 13 | [817331](../reports/817331.md) | Weak/Auto Fill Password | Critical | — | 53 | [harris0ft](https://hackerone.com/harris0ft) | 2022-09-03 |
-| 14 | [1703733](../reports/1703733.md) | Exposure Of Admin Username & Password | Critical | — | 48 | [coyemerald](https://hackerone.com/coyemerald) | 2022-12-25 |
-| 15 | [2778350](../reports/2778350.md) | Cisco IOS XE instance at ████ vulnerable to CVE-██████ | Critical — CVSS 9.1 | — | 48 | [odaysec](https://hackerone.com/odaysec) | 2025-02-19 |
+| 14 | [2778350](../reports/2778350.md) | Cisco IOS XE instance at ████ vulnerable to CVE-██████ | Critical — CVSS 9.1 | — | 48 | [odaysec](https://hackerone.com/odaysec) | 2025-02-19 |
+| 15 | [1703733](../reports/1703733.md) | Exposure Of Admin Username & Password | Critical | — | 48 | [coyemerald](https://hackerone.com/coyemerald) | 2022-12-25 |
 | 16 | [2762119](../reports/2762119.md) | CVE-2017-9822 DotNetNuke Cookie Deserialization Remote Code  | Critical | — | 45 | [odaysec](https://hackerone.com/odaysec) | 2024-11-16 |
 | 17 | [1069531](../reports/1069531.md) | Blind SQL Injection  | Critical | — | 43 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2021-08-14 |
 | 18 | [1297480](../reports/1297480.md) | Default Login Credentials on https://broadbandmaps.mtn.com.g | Critical | — | 41 | [theranger](https://hackerone.com/theranger) | 2022-08-25 |

@@ -34,8 +34,8 @@
 | 28 | [1812732](../reports/1812732.md) | [MK8DX] Improper metadata validation 2 | [Nintendo](../by-program/nintendo.md) | Nintendo Switch applications for which N | High — CVSS 8.2 | — | 16 |
 | 29 | [406614](../reports/406614.md) | Resource Consumption DOS on Edgemax v1.10.6 | [Ubiquiti Inc.](../by-program/ui.md) | EdgeMAX | High — CVSS 8.3 | — | 15 |
 | 30 | [519582](../reports/519582.md) | Catch mails sent to an SMTP Server over SSL using an Ev | [Ubiquiti Inc.](../by-program/ui.md) | UniFi | High — CVSS 7.5 | — | 13 |
-| 31 | [289264](../reports/289264.md) | Triggering RCE using XSS to bypass CSRF in PowerBeam M5 | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | High — CVSS 8.8 | — | 12 |
-| 32 | [703659](../reports/703659.md) | RCE in AirOS 6.2.0 Devices with CSRF bypass | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | High — CVSS 8.8 | — | 12 |
+| 31 | [703659](../reports/703659.md) | RCE in AirOS 6.2.0 Devices with CSRF bypass | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | High — CVSS 8.8 | — | 12 |
+| 32 | [289264](../reports/289264.md) | Triggering RCE using XSS to bypass CSRF in PowerBeam M5 | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | High — CVSS 8.8 | — | 12 |
 | 33 | [313245](../reports/313245.md) | Code Execution in restricted CLI of EdgeSwitch | [Ubiquiti Inc.](../by-program/ui.md) | EdgeMAX | High — CVSS 7.2 | — | 8 |
 | 34 | [311884](../reports/311884.md) | Format String Vulnerability in the EdgeSwitch restricte | [Ubiquiti Inc.](../by-program/ui.md) | EdgeMAX | High — CVSS 7.2 | — | 7 |
 | 35 | [273449](../reports/273449.md) | Authenticated RCE in ToughSwitch | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | High — CVSS 8.8 | — | 6 |
@@ -55,5 +55,5 @@
 | 49 | [894922](../reports/894922.md) | [3DS][SSL] Improper certificate validation allows an at | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS System | None | — | 129 |
 | 50 | [3042475](../reports/3042475.md) | Splatoon 3 Anticheat Seed Randomization Weakness | [Nintendo](../by-program/nintendo.md) | Nintendo Switch applications for which N | None | — | 53 |
 | 51 | [897606](../reports/897606.md) | [3DS][SSL][SDK] Unchecked number of audio channels in M | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS System | None | — | 43 |
-| 52 | [687887](../reports/687887.md) | [3DS][StreetPass] Buffer Overflow in Super Mario Maker  | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS applications for which Nint | None | — | 30 |
-| 53 | [923240](../reports/923240.md) | [3DS][StreetPass] Heap Overflow in Swapnote parser lead | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS applications for which Nint | None | — | 30 |
+| 52 | [923240](../reports/923240.md) | [3DS][StreetPass] Heap Overflow in Swapnote parser lead | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS applications for which Nint | None | — | 30 |
+| 53 | [687887](../reports/687887.md) | [3DS][StreetPass] Buffer Overflow in Super Mario Maker  | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS applications for which Nint | None | — | 30 |

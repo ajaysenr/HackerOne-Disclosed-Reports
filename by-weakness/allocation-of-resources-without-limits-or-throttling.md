@@ -21,6 +21,6 @@
 | 15 | [1085079](../reports/1085079.md) | No Limit on Email Subscription | [OpenMage](../by-program/openmage.md) | Low | — | 12 |
 | 16 | [3788931](../reports/3788931.md) | CVE-2026-11586: WS Auto-PONG memory exhaustion | [curl](../by-program/curl.md) | Low | — | 2 |
 | 17 | [3089595](../reports/3089595.md) | Memory leak from doh_write_cb | [curl](../by-program/curl.md) | None | — | 9 |
-| 18 | [3735080](../reports/3735080.md) | libssh SFTP initialization ignores CURLOPT_TIMEOUT, hangs indefin | [curl](../by-program/curl.md) | None | — | 5 |
-| 19 | [3734947](../reports/3734947.md) | HTTP/3 paused transfer buffers incoming data without bound up to  | [curl](../by-program/curl.md) | None | — | 5 |
+| 18 | [3734947](../reports/3734947.md) | HTTP/3 paused transfer buffers incoming data without bound up to  | [curl](../by-program/curl.md) | None | — | 5 |
+| 19 | [3735080](../reports/3735080.md) | libssh SFTP initialization ignores CURLOPT_TIMEOUT, hangs indefin | [curl](../by-program/curl.md) | None | — | 5 |
 | 20 | [3734020](../reports/3734020.md) | HTTP/2 proxy CONNECT tunnel unbounded 1xx chain (missing Curl_bum | [curl](../by-program/curl.md) | None | — | 2 |

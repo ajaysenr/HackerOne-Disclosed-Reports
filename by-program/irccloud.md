@@ -24,18 +24,18 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 18 | [6910](../reports/6910.md) | Full account takeover using CSRF and password reset | None | — | 14 | [melvin](https://hackerone.com/melvin) | 2014-04-14 |
 | 19 | [7226](../reports/7226.md) | Login page password-guessing attack(Brute-force attack-High) | None | — | 8 | [xss](https://hackerone.com/xss) | 2014-04-26 |
 | 20 | [7531](../reports/7531.md) | Login CSRF can be bypassed (Similar approach to previous one | None | — | 8 | [uname](https://hackerone.com/uname) | 2014-05-20 |
-| 21 | [7036](../reports/7036.md) | Bug in iOS application which could lead to unauthorised acce | None | — | 6 | [uname](https://hackerone.com/uname) | 2014-05-15 |
-| 22 | [6935](../reports/6935.md) | Missing X-Content-Type-Options | None | — | 6 | [shipcode](https://hackerone.com/shipcode) | 2014-05-15 |
+| 21 | [6935](../reports/6935.md) | Missing X-Content-Type-Options | None | — | 6 | [shipcode](https://hackerone.com/shipcode) | 2014-05-15 |
+| 22 | [7036](../reports/7036.md) | Bug in iOS application which could lead to unauthorised acce | None | — | 6 | [uname](https://hackerone.com/uname) | 2014-05-15 |
 | 23 | [7041](../reports/7041.md) | iOS application does not destroy session upon logout. | None | — | 5 | [uname](https://hackerone.com/uname) | 2014-05-22 |
 | 24 | [21603](../reports/21603.md) | Bruteforce protection not enabled on the login page https:// | None | — | 5 | [born2hack](https://hackerone.com/born2hack) | 2014-10-08 |
 | 25 | [7085](../reports/7085.md) | DNS Misconfiguration | None | — | 5 | [yourdarkshadow](https://hackerone.com/yourdarkshadow) | 2014-04-11 |
-| 26 | [28703](../reports/28703.md) | Weak password policy | None | — | 4 | [internetwache](https://hackerone.com/internetwache) | 2014-11-27 |
-| 27 | [51166](../reports/51166.md) | Email verification links still valid after changing it 2x | None | — | 4 | [jackds](https://hackerone.com/jackds) | 2015-03-13 |
-| 28 | [6907](../reports/6907.md) | Session Token is not Verified while changing Account Setting | None | — | 4 | [exploitprotocol](https://hackerone.com/exploitprotocol) | 2014-04-23 |
+| 26 | [51166](../reports/51166.md) | Email verification links still valid after changing it 2x | None | — | 4 | [jackds](https://hackerone.com/jackds) | 2015-03-13 |
+| 27 | [6907](../reports/6907.md) | Session Token is not Verified while changing Account Setting | None | — | 4 | [exploitprotocol](https://hackerone.com/exploitprotocol) | 2014-04-23 |
+| 28 | [28703](../reports/28703.md) | Weak password policy | None | — | 4 | [internetwache](https://hackerone.com/internetwache) | 2014-11-27 |
 | 29 | [7441](../reports/7441.md) | Dangerous Persistent xss | None | — | 4 | [reporter](https://hackerone.com/reporter) | 2014-05-13 |
-| 30 | [17540](../reports/17540.md) | Reflected XSS in Pastebin-view | None | — | 3 | [pseudochu](https://hackerone.com/pseudochu) | 2014-06-28 |
+| 30 | [7051](../reports/7051.md) |  User Account Creation CSRF  | None | — | 3 | [chandrakant](https://hackerone.com/chandrakant) | 2014-06-25 |
 | 31 | [13628](../reports/13628.md) | Password type input with auto-complete enabled | None | — | 3 | [harikrishnan_c](https://hackerone.com/harikrishnan_c) | 2014-11-17 |
-| 32 | [6888](../reports/6888.md) | HTML Form without CSRF protection | None | — | 3 | [robin](https://hackerone.com/robin) | 2014-05-14 |
-| 33 | [7051](../reports/7051.md) |  User Account Creation CSRF  | None | — | 3 | [chandrakant](https://hackerone.com/chandrakant) | 2014-06-25 |
+| 32 | [17540](../reports/17540.md) | Reflected XSS in Pastebin-view | None | — | 3 | [pseudochu](https://hackerone.com/pseudochu) | 2014-06-28 |
+| 33 | [6888](../reports/6888.md) | HTML Form without CSRF protection | None | — | 3 | [robin](https://hackerone.com/robin) | 2014-05-14 |
 | 34 | [6927](../reports/6927.md) | Session cookie can be leaked over an unencrypted HTTP connec | None | — | 1 | [melvin](https://hackerone.com/melvin) | 2014-05-15 |
 | 35 | [7516](../reports/7516.md) | Log Out Cross site Request Forgery | None | — | 1 | [gunda](https://hackerone.com/gunda) | 2014-06-13 |

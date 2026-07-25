@@ -9618,6 +9618,7 @@ https://hackerone.com/reports/3620748 | V1Plugin.Decrypt panics on empty ciphert
 https://hackerone.com/reports/3620753 | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS)
 https://hackerone.com/reports/3620760 | Encryption context keys and values logged at INFO level
 https://hackerone.com/reports/3620761 | Health check errors silently dropped when channel buffer full
+https://hackerone.com/reports/3621606 | ZMQ RPC Log Injection and Untrusted Payload Persistence
 https://hackerone.com/reports/3621851 | CVE-2026-4873: connection reuse ignores TLS requirement
 https://hackerone.com/reports/3623064 | HTTP/1.1 Response Desynchronization via conflicting CL/TE headers in Proxy CONNECT
 https://hackerone.com/reports/3625210 | PIN bypass in PassCodeActivity via back button

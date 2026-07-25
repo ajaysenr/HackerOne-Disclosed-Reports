@@ -27,8 +27,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 21 | [952095](../reports/952095.md) | Deleting someone else's profile image with a GraphQL query i | Medium — CVSS 4.3 | — | 15 | [tosun](https://hackerone.com/tosun) | 2022-04-18 |
 | 22 | [1094702](../reports/1094702.md) | Theft of arbitrary files in LINE Lite client for Android | Medium — CVSS 4.3 | — | 12 | [hulkvision_](https://hackerone.com/hulkvision_) | 2021-07-06 |
 | 23 | [1082991](../reports/1082991.md) | Webview address bar spoofing in LINE client for iOS | Low | — | 36 | [reinforchu](https://hackerone.com/reinforchu) | 2021-09-15 |
-| 24 | [986679](../reports/986679.md) | Debugging panel exposure | Low | — | 29 | [tosun](https://hackerone.com/tosun) | 2023-03-28 |
-| 25 | [1305432](../reports/1305432.md) | Bot setting information leakage in OpenChat room | Low | — | 29 | [akichia](https://hackerone.com/akichia) | 2021-12-27 |
+| 24 | [1305432](../reports/1305432.md) | Bot setting information leakage in OpenChat room | Low | — | 29 | [akichia](https://hackerone.com/akichia) | 2021-12-27 |
+| 25 | [986679](../reports/986679.md) | Debugging panel exposure | Low | — | 29 | [tosun](https://hackerone.com/tosun) | 2023-03-28 |
 | 26 | [2403554](../reports/2403554.md) | XSS on LINE CAREERS | Low | — | 26 | [nightm4re](https://hackerone.com/nightm4re) | 2024-07-10 |
 | 27 | [988877](../reports/988877.md) | Path traversal in a Tomcat server | None | — | 36 | [tosun](https://hackerone.com/tosun) | 2023-03-28 |
 | 28 | [968742](../reports/968742.md) | Password reset by malicious input on air.line.me | None | — | 23 | [tosun](https://hackerone.com/tosun) | 2021-12-27 |

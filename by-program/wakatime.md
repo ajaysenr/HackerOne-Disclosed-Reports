@@ -15,21 +15,21 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 9 | [245340](../reports/245340.md) | Bypassing Access control, changing owner's name in a private | Medium | — | 8 | [tikoo_sahil](https://hackerone.com/tikoo_sahil) | 2017-07-31 |
 | 10 | [3114132](../reports/3114132.md) | Broken Access Control Exposes Email Verification Status and  | Low | — | 55 | [ctrl_cipher](https://hackerone.com/ctrl_cipher) | 2025-04-29 |
 | 11 | [263672](../reports/263672.md) | previous token seems to work even though it does not verify  | Low | — | 35 | [rashedhasan007](https://hackerone.com/rashedhasan007) | 2019-11-27 |
-| 12 | [246042](../reports/246042.md) | Password Policy Issue | Low | — | 14 | [chuu](https://hackerone.com/chuu) | 2017-07-06 |
-| 13 | [601287](../reports/601287.md) | Vulnerability Name: Host Header Injection Redirect | Low — CVSS 3.7 | — | 14 | [jatingupta](https://hackerone.com/jatingupta) | 2019-09-02 |
+| 12 | [601287](../reports/601287.md) | Vulnerability Name: Host Header Injection Redirect | Low — CVSS 3.7 | — | 14 | [jatingupta](https://hackerone.com/jatingupta) | 2019-09-02 |
+| 13 | [246042](../reports/246042.md) | Password Policy Issue | Low | — | 14 | [chuu](https://hackerone.com/chuu) | 2017-07-06 |
 | 14 | [246780](../reports/246780.md) | Using an outdated version of OpenSSH on db01.wakatime.com | Low | — | 11 | [silv3rpoision](https://hackerone.com/silv3rpoision) | 2017-10-29 |
 | 15 | [244432](../reports/244432.md) | Missing SPF Flags | Low | — | 10 | [mr_r3boot](https://hackerone.com/mr_r3boot) | 2017-07-01 |
 | 16 | [248588](../reports/248588.md) | [wakatime.com] HTML Injection github-btn.html | Low | — | 9 | [bobrov](https://hackerone.com/bobrov) | 2018-10-19 |
-| 17 | [244958](../reports/244958.md) | No redirect uri for Twitter Oath resulting in token leak | Low | — | 8 | [b3nac](https://hackerone.com/b3nac) | 2017-07-03 |
-| 18 | [244967](../reports/244967.md) | Clickjacking on authorized page https://wakatime.com/share/e | Low | — | 8 | [silv3rpoision](https://hackerone.com/silv3rpoision) | 2017-07-05 |
-| 19 | [244614](../reports/244614.md) | Password token validation in https://wakatime.com/ | Low | — | 7 | [silv3rpoision](https://hackerone.com/silv3rpoision) | 2017-07-24 |
-| 20 | [244971](../reports/244971.md) | No notificatoin sent on email after account deletion. | Low | — | 7 | [silv3rpoision](https://hackerone.com/silv3rpoision) | 2017-07-03 |
+| 17 | [244967](../reports/244967.md) | Clickjacking on authorized page https://wakatime.com/share/e | Low | — | 8 | [silv3rpoision](https://hackerone.com/silv3rpoision) | 2017-07-05 |
+| 18 | [244958](../reports/244958.md) | No redirect uri for Twitter Oath resulting in token leak | Low | — | 8 | [b3nac](https://hackerone.com/b3nac) | 2017-07-03 |
+| 19 | [244971](../reports/244971.md) | No notificatoin sent on email after account deletion. | Low | — | 7 | [silv3rpoision](https://hackerone.com/silv3rpoision) | 2017-07-03 |
+| 20 | [244614](../reports/244614.md) | Password token validation in https://wakatime.com/ | Low | — | 7 | [silv3rpoision](https://hackerone.com/silv3rpoision) | 2017-07-24 |
 | 21 | [245236](../reports/245236.md) | Missing filteration of meta characters in all full name fiel | Low | — | 7 | [silv3rpoision](https://hackerone.com/silv3rpoision) | 2017-07-04 |
 | 22 | [244697](../reports/244697.md) | UI Redressing on Embedded Charts | Low | — | 6 | [mr_r3boot](https://hackerone.com/mr_r3boot) | 2017-07-05 |
 | 23 | [244766](../reports/244766.md) | https://wakatime.com/ website CSP "script-src" includes "uns | Low | — | 6 | [silv3rpoision](https://hackerone.com/silv3rpoision) | 2017-07-24 |
-| 24 | [244724](../reports/244724.md) | Unsafe Inline and Eval CSP Usage | Low | — | 4 | [mr_r3boot](https://hackerone.com/mr_r3boot) | 2017-07-24 |
-| 25 | [275242](../reports/275242.md) | password token validation | Low | — | 4 | [flex0geek](https://hackerone.com/flex0geek) | 2017-10-07 |
-| 26 | [275245](../reports/275245.md) | Can link to websites from profile | Low | — | 4 | [flex0geek](https://hackerone.com/flex0geek) | 2017-10-07 |
+| 24 | [275242](../reports/275242.md) | password token validation | Low | — | 4 | [flex0geek](https://hackerone.com/flex0geek) | 2017-10-07 |
+| 25 | [275245](../reports/275245.md) | Can link to websites from profile | Low | — | 4 | [flex0geek](https://hackerone.com/flex0geek) | 2017-10-07 |
+| 26 | [244724](../reports/244724.md) | Unsafe Inline and Eval CSP Usage | Low | — | 4 | [mr_r3boot](https://hackerone.com/mr_r3boot) | 2017-07-24 |
 | 27 | [255034](../reports/255034.md) | Failure to check password history | Low | — | 3 | [c0d3fire](https://hackerone.com/c0d3fire) | 2017-07-30 |
 | 28 | [273560](../reports/273560.md) | Validation of Password reset tokens | Low | — | 3 | [saikiran-10097](https://hackerone.com/saikiran-10097) | 2017-10-01 |
 | 29 | [244778](../reports/244778.md) | Logout CSRF | Low | — | 0 | [caesar302](https://hackerone.com/caesar302) | 2017-08-29 |
@@ -46,9 +46,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 40 | [245334](../reports/245334.md) | Lack of Password Confirmation When Changing Email | None | — | 9 | [pratyushjanghel](https://hackerone.com/pratyushjanghel) | 2017-07-03 |
 | 41 | [257119](../reports/257119.md) | Impersonation of Wakatime user using Invitation functionalit | None | — | 8 | [asaxena2190](https://hackerone.com/asaxena2190) | 2017-08-06 |
 | 42 | [245147](../reports/245147.md) | No rate limiting for confirmation email, can spam anyone wit | None | — | 8 | [pratyushjanghel](https://hackerone.com/pratyushjanghel) | 2017-07-03 |
-| 43 | [798812](../reports/798812.md) | Broken Authentication and session management OWASP A2 | None | — | 7 | [phhitachi](https://hackerone.com/phhitachi) | 2020-02-19 |
-| 44 | [244875](../reports/244875.md) | Session Not Expired On Logout | None | — | 7 | [pratyushjanghel](https://hackerone.com/pratyushjanghel) | 2017-07-01 |
-| 45 | [245311](../reports/245311.md) | Missing Account Deletion Notification | None | — | 5 | [pavanw3b](https://hackerone.com/pavanw3b) | 2017-07-03 |
-| 46 | [245124](../reports/245124.md) | Session not expired on logout | None | — | 5 | [ronygigi](https://hackerone.com/ronygigi) | 2017-07-03 |
+| 43 | [244875](../reports/244875.md) | Session Not Expired On Logout | None | — | 7 | [pratyushjanghel](https://hackerone.com/pratyushjanghel) | 2017-07-01 |
+| 44 | [798812](../reports/798812.md) | Broken Authentication and session management OWASP A2 | None | — | 7 | [phhitachi](https://hackerone.com/phhitachi) | 2020-02-19 |
+| 45 | [245124](../reports/245124.md) | Session not expired on logout | None | — | 5 | [ronygigi](https://hackerone.com/ronygigi) | 2017-07-03 |
+| 46 | [245311](../reports/245311.md) | Missing Account Deletion Notification | None | — | 5 | [pavanw3b](https://hackerone.com/pavanw3b) | 2017-07-03 |
 | 47 | [245514](../reports/245514.md) | Sensitive Cookie Without 'HttpOnly' Flag | None | — | 3 | [jatanvora](https://hackerone.com/jatanvora) | 2017-07-03 |
 | 48 | [245233](../reports/245233.md) | HTML - injection  | None | — | 1 | [b6bfe1fb5d9fa76d75aeb40](https://hackerone.com/b6bfe1fb5d9fa76d75aeb40) | 2021-10-12 |

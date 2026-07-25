@@ -37,8 +37,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 31 | [1987680](../reports/1987680.md) | Leaking VPN traffic through non-RFC1918 local IP addresses | Medium | — | 49 | [vanhoefm](https://hackerone.com/vanhoefm) | 2024-11-08 |
 | 32 | [2286867](../reports/2286867.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 44 | [holybugx](https://hackerone.com/holybugx) | 2024-01-04 |
 | 33 | [3020021](../reports/3020021.md) | [Vertical Privilege Escalation] User can Unapproved any Appr | Medium — CVSS 6.5 | — | 42 | [adilnbabras](https://hackerone.com/adilnbabras) | 2026-04-10 |
-| 34 | [2261577](../reports/2261577.md) | MozillaVPN: Elevation of Privilege via a Race Condition Vuln | Medium | — | 40 | [northsea](https://hackerone.com/northsea) | 2025-07-03 |
-| 35 | [2287098](../reports/2287098.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 40 | [holybugx](https://hackerone.com/holybugx) | 2024-01-04 |
+| 34 | [2287098](../reports/2287098.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 40 | [holybugx](https://hackerone.com/holybugx) | 2024-01-04 |
+| 35 | [2261577](../reports/2261577.md) | MozillaVPN: Elevation of Privilege via a Race Condition Vuln | Medium | — | 40 | [northsea](https://hackerone.com/northsea) | 2025-07-03 |
 | 36 | [2285286](../reports/2285286.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 37 | [holybugx](https://hackerone.com/holybugx) | 2024-01-04 |
 | 37 | [2398630](../reports/2398630.md) | Subdomain takeover on one of the subdomains under mozaws.net | Medium | — | 34 | [d0xing](https://hackerone.com/d0xing) | 2024-07-25 |
 | 38 | [2017323](../reports/2017323.md) | Subdomain takeover on one of the subdomain under mozilla.org | Medium | — | 31 | [d0xing](https://hackerone.com/d0xing) | 2023-10-04 |
@@ -52,8 +52,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 46 | [2106662](../reports/2106662.md) | CSRF to Information disclosure on password reset | Low | — | 37 | [hackeriron1](https://hackerone.com/hackeriron1) | 2023-11-27 |
 | 47 | [3325582](../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /dele | Low | — | 35 | [adilnbabras](https://hackerone.com/adilnbabras) | 2026-04-10 |
 | 48 | [2053396](../reports/2053396.md) | Possibility of Deface through translation tool - www.mozilla | Low | — | 30 | [astrounder](https://hackerone.com/astrounder) | 2023-10-27 |
-| 49 | [2860983](../reports/2860983.md) | Denial of Access to Static Resources via Cache Poisoning on  | Low | — | 24 | [jabiyev](https://hackerone.com/jabiyev) | 2025-01-08 |
-| 50 | [1992261](../reports/1992261.md) | Flickr API key leaked in GitHub commit | Low — CVSS 3.7 | — | 24 | [m4y4nk](https://hackerone.com/m4y4nk) | 2023-10-26 |
+| 49 | [1992261](../reports/1992261.md) | Flickr API key leaked in GitHub commit | Low — CVSS 3.7 | — | 24 | [m4y4nk](https://hackerone.com/m4y4nk) | 2023-10-26 |
+| 50 | [2860983](../reports/2860983.md) | Denial of Access to Static Resources via Cache Poisoning on  | Low | — | 24 | [jabiyev](https://hackerone.com/jabiyev) | 2025-01-08 |
 | 51 | [2111291](../reports/2111291.md) | Stored Xss on bugzilla.mozilla.org via comment edit feature  | Low | — | 23 | [r3dpars3c](https://hackerone.com/r3dpars3c) | 2023-09-20 |
 | 52 | [1989901](../reports/1989901.md) | If rate limit is hit, IP address is leaked to anyone who tri | Low — CVSS 3.7 | — | 22 | [anish-kosaraju](https://hackerone.com/anish-kosaraju) | 2023-09-20 |
 | 53 | [2078707](../reports/2078707.md) | Exposing Django Debug Panel and Sensitive Infrastructure Inf | Low — CVSS 3.7 | — | 17 | [aliend89](https://hackerone.com/aliend89) | 2023-10-13 |

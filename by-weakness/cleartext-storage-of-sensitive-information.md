@@ -30,19 +30,19 @@
 | 24 | [612231](../reports/612231.md) | Github Token Leaked publicly for https://github.com/mopub | [X / xAI](../by-program/x.md) | Medium | — | 91 |
 | 25 | [3017105](../reports/3017105.md) | Sensitive API Key Leakage | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 40 |
 | 26 | [3376598](../reports/3376598.md) | Sensitive information exposed at [███] via /export_panelists_to_x | [Mars](../by-program/mars.md) | Medium — CVSS 6.1 | — | 33 |
-| 27 | [1662194](../reports/1662194.md) | Secret API Key is logged in cleartext  | [Omise](../by-program/omise.md) | Medium | — | 31 |
-| 28 | [1641475](../reports/1641475.md) | Facebook App API credentials leaked in the APK | [GlassWire](../by-program/glasswire.md) | Medium | — | 31 |
+| 27 | [1641475](../reports/1641475.md) | Facebook App API credentials leaked in the APK | [GlassWire](../by-program/glasswire.md) | Medium | — | 31 |
+| 28 | [1662194](../reports/1662194.md) | Secret API Key is logged in cleartext  | [Omise](../by-program/omise.md) | Medium | — | 31 |
 | 29 | [2101165](../reports/2101165.md) | user_ldap app logs user passwords in the log file on level debug | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.6 | — | 28 |
 | 30 | [1874155](../reports/1874155.md) | Biometric key is stored in Windows Credential Manager, accessible | [Bitwarden](../by-program/bitwarden.md) | Medium — CVSS 6.2 | — | 19 |
-| 31 | [1613714](../reports/1613714.md) | Non-revoked API Key Information disclosure via Stripo_report() | [Stripo Inc](../by-program/stripo.md) | Medium | — | 13 |
-| 32 | [1255869](../reports/1255869.md) | private keys exposed on the GitHub repository | [MCUboot](../by-program/mcuboot.md) | Medium | — | 13 |
+| 31 | [1255869](../reports/1255869.md) | private keys exposed on the GitHub repository | [MCUboot](../by-program/mcuboot.md) | Medium | — | 13 |
+| 32 | [1613714](../reports/1613714.md) | Non-revoked API Key Information disclosure via Stripo_report() | [Stripo Inc](../by-program/stripo.md) | Medium | — | 13 |
 | 33 | [262620](../reports/262620.md) | Gratipay rails secret token (secret_key_base) publicly exposed in | [Gratipay](../by-program/gratipay.md) | Medium | — | 10 |
 | 34 | [282475](../reports/282475.md) | Sensitive information is publicly available  | [Infogram](../by-program/infogram.md) | Medium — CVSS 5.0 | — | 7 |
 | 35 | [1512199](../reports/1512199.md) | username and password leaked via pptx for █████████ website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
 | 36 | [808167](../reports/808167.md) | Stored XSS on Company Logo | [8x8](../by-program/8x8-bounty.md) | Medium — CVSS 6.9 | — | 5 |
 | 37 | [966383](../reports/966383.md) | secret leaks in vsphere cloud controller manager log | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 6.2 | — | 3 |
-| 38 | [1199803](../reports/1199803.md) | Possible Database Details stored in values.yaml | [Sifchain](../by-program/sifchain.md) | Medium | — | 2 |
-| 39 | [1300589](../reports/1300589.md) | Sensitive information on ██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
+| 38 | [1300589](../reports/1300589.md) | Sensitive information on ██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
+| 39 | [1199803](../reports/1199803.md) | Possible Database Details stored in values.yaml | [Sifchain](../by-program/sifchain.md) | Medium | — | 2 |
 | 40 | [1394399](../reports/1394399.md) | Unintended information disclosure in the Hubot Log files | [Rocket.Chat](../by-program/rocket_chat.md) | Medium | — | 1 |
 | 41 | [952771](../reports/952771.md) | CVE-2019-11250 remains in effect. | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 4.3 | — | 1 |
 | 42 | [685990](../reports/685990.md) | Clear text storage of proxy parameters and passwords | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.9 | — | 53 |

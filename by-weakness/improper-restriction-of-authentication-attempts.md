@@ -17,8 +17,8 @@
 | 11 | [271533](../reports/271533.md) | Bruteforcing password reset tokens, could lead to account takeove | [Instacart](../by-program/instacart.md) | Medium | $50 | 13 |
 | 12 | [766875](../reports/766875.md) | weak protection against brute-forcing on login api leads to accou | [Palo Alto Software](../by-program/palo_alto_software.md) | Critical | — | 23 |
 | 13 | [3030158](../reports/3030158.md) | Improper Restriction of Authentication Attempts in cURL | [curl](../by-program/curl.md) | Critical | — | 7 |
-| 14 | [1069189](../reports/1069189.md) | Grinch-Networks taken down - hacky holidays CTF  | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
-| 15 | [894198](../reports/894198.md) | [H1-2006 2020]  Includes 1 free content discovery | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
+| 14 | [894198](../reports/894198.md) | [H1-2006 2020]  Includes 1 free content discovery | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
+| 15 | [1069189](../reports/1069189.md) | Grinch-Networks taken down - hacky holidays CTF  | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
 | 16 | [972936](../reports/972936.md) | A specially crafted value for the 'Cache-Digest' header causing c | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | Critical | — | 1 |
 | 17 | [1075827](../reports/1075827.md) | Lack of rate limitation on careers site allows the attacker to br | [TikTok](../by-program/tiktok.md) | High — CVSS 8.2 | — | 103 |
 | 18 | [411364](../reports/411364.md) | Brute Force of fabric-ca server admin account | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | High | — | 61 |
@@ -26,12 +26,12 @@
 | 20 | [1879549](../reports/1879549.md) | Basic auth header on WebDAV requests is not bruteforce protected | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.1 | — | 52 |
 | 21 | [1059758](../reports/1059758.md) | Full account takeover in ███████ due lack of rate limiting in for | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 13 |
 | 22 | [293359](../reports/293359.md) | The Uber Promo Customer Endpoint Does Not Implement Multifactor A | [Uber](../by-program/uber.md) | High | — | 5 |
-| 23 | [341074](../reports/341074.md) | Bruteforce in admin panel | [Nextcloud](../by-program/nextcloud.md) | High | — | 3 |
-| 24 | [826238](../reports/826238.md) | load scripts DOS vulnerability | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | High | — | 3 |
+| 23 | [826238](../reports/826238.md) | load scripts DOS vulnerability | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | High | — | 3 |
+| 24 | [341074](../reports/341074.md) | Bruteforce in admin panel | [Nextcloud](../by-program/nextcloud.md) | High | — | 3 |
 | 25 | [827484](../reports/827484.md) | Missing rate limit for current password field (Password Change) A | [Acronis](../by-program/acronis.md) | Medium | — | 43 |
 | 26 | [708013](../reports/708013.md) | StoreFront API allows for a brute force attack on customer login  | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.8 | — | 37 |
-| 27 | [2230915](../reports/2230915.md) | Bruteforce protection in password verification can be bypassed | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 31 |
-| 28 | [441161](../reports/441161.md) | Missing Rate Limit in Forgot Password can Lead to email address l | [Smule](../by-program/smule.md) | Medium | — | 31 |
+| 27 | [441161](../reports/441161.md) | Missing Rate Limit in Forgot Password can Lead to email address l | [Smule](../by-program/smule.md) | Medium | — | 31 |
+| 28 | [2230915](../reports/2230915.md) | Bruteforce protection in password verification can be bypassed | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 31 |
 | 29 | [3174778](../reports/3174778.md) |  No Rate Limiting on Password Attempts After Insecure Registratio | [Mars](../by-program/mars.md) | Medium | — | 26 |
 | 30 | [1842114](../reports/1842114.md) | Missing brute force protection on password confirmation modal | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.2 | — | 24 |
 | 31 | [1924212](../reports/1924212.md) | Improper restriction of excessive authentication attempts on WebD | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.0 | — | 22 |
@@ -42,8 +42,8 @@
 | 36 | [319036](../reports/319036.md) | There is vulnebility Click Here TO fix | [Brave Software](../by-program/brave.md) | Medium — CVSS 6.8 | — | 8 |
 | 37 | [223337](../reports/223337.md) | No BruteForce Protection | [Weblate](../by-program/weblate.md) | Medium — CVSS 6.5 | — | 7 |
 | 38 | [233376](../reports/233376.md) | mailbomb through invite feature on chrome addon | [Mixmax](../by-program/mixmax.md) | Medium | — | 6 |
-| 39 | [1285441](../reports/1285441.md) | Rate limit missing sign-in page | [Tennessee Valley Authority](../by-program/tennessee-valley-authority.md) | Medium | — | 5 |
-| 40 | [1317494](../reports/1317494.md) | No Rate Limit on forgot password page | [UPchieve](../by-program/upchieve.md) | Medium | — | 5 |
+| 39 | [1317494](../reports/1317494.md) | No Rate Limit on forgot password page | [UPchieve](../by-program/upchieve.md) | Medium | — | 5 |
+| 40 | [1285441](../reports/1285441.md) | Rate limit missing sign-in page | [Tennessee Valley Authority](../by-program/tennessee-valley-authority.md) | Medium | — | 5 |
 | 41 | [1591504](../reports/1591504.md) | The software does not implement sufficient measures to prevent mu | [LinkedIn](../by-program/linkedin.md) | Medium | — | 2 |
 | 42 | [410451](../reports/410451.md) | User login page doesn't implement any form of rate limiting | [HackerOne](../by-program/security.md) | Low — CVSS 3.0 | — | 42 |
 | 43 | [1065186](../reports/1065186.md) | Weak rate limit could lead to ATO due to weak password protection | [Reddit](../by-program/reddit.md) | Low | — | 39 |

@@ -38,8 +38,8 @@
 | 32 | [881548](../reports/881548.md) | Default credentials for the temporary POC site alipoc.stg.starbuc | [Starbucks](../by-program/starbucks.md) | Medium — CVSS 6.7 | — | 19 |
 | 33 | [690010](../reports/690010.md) | OS Command Injection on Jison [all-parser-ports] | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 14 |
 | 34 | [1161691](../reports/1161691.md) | OS Command Injection in 'rdoc' documentation generator | [Ruby](../by-program/ruby.md) | Medium — CVSS 6.4 | — | 7 |
-| 35 | [1158824](../reports/1158824.md) | OS Command Injection in '/lib/un.rb -- Utilities to replace commo | [Ruby](../by-program/ruby.md) | Medium — CVSS 6.4 | — | 4 |
-| 36 | [1710652](../reports/1710652.md) | DNS rebinding in --inspect via invalid octal IP address | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.8 | — | 4 |
+| 35 | [1710652](../reports/1710652.md) | DNS rebinding in --inspect via invalid octal IP address | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.8 | — | 4 |
+| 36 | [1158824](../reports/1158824.md) | OS Command Injection in '/lib/un.rb -- Utilities to replace commo | [Ruby](../by-program/ruby.md) | Medium — CVSS 6.4 | — | 4 |
 | 37 | [282628](../reports/282628.md) | OS Command Execution on User's PC via CSV Injection | [X / xAI](../by-program/x.md) | Medium | — | 2 |
 | 38 | [386116](../reports/386116.md) | CSV Injection with the CSV export feature | [Chaturbate](../by-program/chaturbate.md) | Low — CVSS 3.1 | — | 14 |
 | 39 | [223344](../reports/223344.md) | CSV Injection with the CSV export feature | [Weblate](../by-program/weblate.md) | Low | — | 7 |
