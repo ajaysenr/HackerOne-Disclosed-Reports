@@ -1,4 +1,4 @@
-# Linux Foundation Decentralized Trust — Disclosed Reports (23 total)
+# Linux Foundation Decentralized Trust — Disclosed Reports (24 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -26,4 +26,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 20 | [926222](../reports/926222.md) | Vulnerability in Private Data Endorsement Policy Management  | None | — | 6 | [swang1994](https://hackerone.com/swang1994) | 2021-03-30 |
 | 21 | [1739099](../reports/1739099.md) | CVE-2017-5929: Hyperledger - Arbitrary Deserialization of Un | None | — | 5 | [mik-patient](https://hackerone.com/mik-patient) | 2022-10-18 |
 | 22 | [951623](../reports/951623.md) | Vulnerabilities in Endorsement Mechanism of Private Data Rel | None | — | 3 | [swang1994](https://hackerone.com/swang1994) | 2021-03-30 |
-| 23 | [1763343](../reports/1763343.md) | Dependency confusion in https://github.com/hyperledger/aries | None | — | 1 | [r3drush](https://hackerone.com/r3drush) | 2023-02-07 |
+| 23 | [1859592](../reports/1859592.md) | [indy_node]POOL_UPGRADE command injection, Trustee Node can  | None | — | 2 | [kmhlyxj0](https://hackerone.com/kmhlyxj0) | 2023-04-27 |
+| 24 | [1763343](../reports/1763343.md) | Dependency confusion in https://github.com/hyperledger/aries | None | — | 1 | [r3drush](https://hackerone.com/r3drush) | 2023-02-07 |

@@ -222,9 +222,9 @@
 | 218 | [lainkusanagi](https://hackerone.com/lainkusanagi) | 1 | $3,000 | 72 |
 | 219 | [rethink5807](https://hackerone.com/rethink5807) | 1 | $3,000 | 71 |
 | 220 | [benhayak](https://hackerone.com/benhayak) | 1 | $3,000 | 1 |
-| 221 | [seanhn](https://hackerone.com/seanhn) | 3 | $3,000 | 2 |
-| 222 | [bjornruytenberg](https://hackerone.com/bjornruytenberg) | 1 | $3,000 | 3 |
-| 223 | [kmhlyxj0](https://hackerone.com/kmhlyxj0) | 2 | $3,000 | 17 |
+| 221 | [kmhlyxj0](https://hackerone.com/kmhlyxj0) | 3 | $3,000 | 19 |
+| 222 | [seanhn](https://hackerone.com/seanhn) | 3 | $3,000 | 2 |
+| 223 | [bjornruytenberg](https://hackerone.com/bjornruytenberg) | 1 | $3,000 | 3 |
 | 224 | [nick0ve](https://hackerone.com/nick0ve) | 1 | $3,000 | 38 |
 | 225 | [sky003](https://hackerone.com/sky003) | 1 | $3,000 | 4 |
 | 226 | [misha98857](https://hackerone.com/misha98857) | 1 | $3,000 | 48 |

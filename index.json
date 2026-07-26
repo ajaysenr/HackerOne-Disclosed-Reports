@@ -153292,6 +153292,24 @@
     "votes": 371
   },
   {
+    "id": 1859592,
+    "url": "https://hackerone.com/reports/1859592",
+    "title": "[indy_node]POOL_UPGRADE command injection, Trustee Node can execute command in any other Node`s system.",
+    "program": "Linux Foundation Decentralized Trust",
+    "program_handle": "hyperledger",
+    "reporter": "kmhlyxj0",
+    "severity": "none",
+    "cvss": 0.0,
+    "weakness": "OS Command Injection",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-02-02",
+    "disclosed_at": "2023-04-27",
+    "votes": 2
+  },
+  {
     "id": 1860905,
     "url": "https://hackerone.com/reports/1860905",
     "title": "Splunk Sensitive Information Disclosure @\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",

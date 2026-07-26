@@ -1,4 +1,4 @@
-# Weakness: OS Command Injection (41 reports)
+# Weakness: OS Command Injection (42 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -45,3 +45,4 @@
 | 39 | [223344](../reports/223344.md) | CSV Injection with the CSV export feature | [Weblate](../by-program/weblate.md) | Low | — | 7 |
 | 40 | [2904921](../reports/2904921.md) | OS Command Injection  (subprocess Module Usage) | [curl](../by-program/curl.md) | Low | — | 4 |
 | 41 | [651518](../reports/651518.md) | OS Command Injection via egrep in Rake::FileList | [Ruby](../by-program/ruby.md) | None | — | 62 |
+| 42 | [1859592](../reports/1859592.md) | [indy_node]POOL_UPGRADE command injection, Trustee Node can execu | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | None | — | 2 |

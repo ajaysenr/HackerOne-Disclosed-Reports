@@ -1,4 +1,4 @@
-# Asset Type: Source Code (1458 reports)
+# Asset Type: Source Code (1459 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -1440,25 +1440,26 @@
 | 1434 | [3781305](../reports/3781305.md) | OpenSSL TLS 1.2 session resumption accepts expired serv | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
 | 1435 | [3680090](../reports/3680090.md) | Stored XSS via malicious usernames in audit log details | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | None | — | 2 |
 | 1436 | [3741744](../reports/3741744.md) | CRLF Injection via Custom HTTP Headers | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 1437 | [1187001](../reports/1187001.md) | No valid SPF record found | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 2 |
-| 1438 | [3733946](../reports/3733946.md) | Credentials forwarded to HTTP after HTTPS→HTTP same-por | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 1439 | [549831](../reports/549831.md) | External Storage - WebDAV - New user has access to stor | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 2 |
-| 1440 | [3734020](../reports/3734020.md) | HTTP/2 proxy CONNECT tunnel unbounded 1xx chain (missin | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 1441 | [3734095](../reports/3734095.md) | TLS verifyhost bypass in rustls, mbedTLS, and wolfSSL w | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 1442 | [3831345](../reports/3831345.md) | CURLSHOPT_UNSHARE race can cause UAF in shared SSL sess | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 1443 | [676710](../reports/676710.md) | Http response is not ended although underlying socket i | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 1 |
-| 1444 | [1188998](../reports/1188998.md) |  Information disclosure on Sifchain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
-| 1445 | [1183809](../reports/1183809.md) | mongodb credentials leaked in github | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
-| 1446 | [1180668](../reports/1180668.md) | Vulnerability : Email Spoofing | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
-| 1447 | [1019372](../reports/1019372.md) | Parallel upload hangs curl if upload file not found | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 1448 | [1188633](../reports/1188633.md) | Linux Desktop application "sifnoded" executable does no | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
-| 1449 | [3777381](../reports/3777381.md) | PRE_PROXY change leaks stale Proxy Digest state across  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 1450 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 1451 | [1590102](../reports/1590102.md) | KRB-FTP: Security level downgrade | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 1452 | [3751715](../reports/3751715.md) | Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUE | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 1453 | [361054](../reports/361054.md) | Phishing by Navigating Browser Tabs | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | None | — | 1 |
-| 1454 | [3751712](../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 1455 | [1188725](../reports/1188725.md) | No Valid SPF Records at sifchain.finance | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
-| 1456 | [1218784](../reports/1218784.md) | information disclosure | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
-| 1457 | [1195423](../reports/1195423.md) | Information Disclosure at one of your subdomain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
-| 1458 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL aga | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 1437 | [1859592](../reports/1859592.md) | [indy_node]POOL_UPGRADE command injection, Trustee Node | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric-am | None | — | 2 |
+| 1438 | [1187001](../reports/1187001.md) | No valid SPF record found | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 2 |
+| 1439 | [3733946](../reports/3733946.md) | Credentials forwarded to HTTP after HTTPS→HTTP same-por | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 1440 | [549831](../reports/549831.md) | External Storage - WebDAV - New user has access to stor | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 2 |
+| 1441 | [3734020](../reports/3734020.md) | HTTP/2 proxy CONNECT tunnel unbounded 1xx chain (missin | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 1442 | [3734095](../reports/3734095.md) | TLS verifyhost bypass in rustls, mbedTLS, and wolfSSL w | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 1443 | [3831345](../reports/3831345.md) | CURLSHOPT_UNSHARE race can cause UAF in shared SSL sess | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 1444 | [676710](../reports/676710.md) | Http response is not ended although underlying socket i | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 1 |
+| 1445 | [1188998](../reports/1188998.md) |  Information disclosure on Sifchain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
+| 1446 | [1183809](../reports/1183809.md) | mongodb credentials leaked in github | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
+| 1447 | [1180668](../reports/1180668.md) | Vulnerability : Email Spoofing | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
+| 1448 | [1019372](../reports/1019372.md) | Parallel upload hangs curl if upload file not found | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 1449 | [1188633](../reports/1188633.md) | Linux Desktop application "sifnoded" executable does no | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
+| 1450 | [3777381](../reports/3777381.md) | PRE_PROXY change leaks stale Proxy Digest state across  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 1451 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 1452 | [1590102](../reports/1590102.md) | KRB-FTP: Security level downgrade | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 1453 | [3751715](../reports/3751715.md) | Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUE | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 1454 | [361054](../reports/361054.md) | Phishing by Navigating Browser Tabs | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | None | — | 1 |
+| 1455 | [3751712](../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 1456 | [1188725](../reports/1188725.md) | No Valid SPF Records at sifchain.finance | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
+| 1457 | [1218784](../reports/1218784.md) | information disclosure | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
+| 1458 | [1195423](../reports/1195423.md) | Information Disclosure at one of your subdomain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
+| 1459 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL aga | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
