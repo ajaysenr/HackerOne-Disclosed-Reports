@@ -8391,6 +8391,7 @@ https://hackerone.com/reports/1865991 | Open Redirect Vulnerability in Action Pa
 https://hackerone.com/reports/1868473 | Scope information is leaked when visiting policy scopes tab of any External Program
 https://hackerone.com/reports/1869184 | LDAP anonymous access enabled at certrep.pki.state.gov:389
 https://hackerone.com/reports/1869613 | Attachment in published HackerOne report exposure private program
+https://hackerone.com/reports/1869714 | Blind SSRF in Mail App
 https://hackerone.com/reports/1872682 | Privilege Esacalation at Apache Airflow 2.5.1
 https://hackerone.com/reports/1873655 | Reflected XSS in ██████
 https://hackerone.com/reports/1874155 | Biometric key is stored in Windows Credential Manager, accessible to other local unprivileged processes
