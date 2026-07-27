@@ -8395,8 +8395,10 @@ https://hackerone.com/reports/1869714 | Blind SSRF in Mail App
 https://hackerone.com/reports/1872682 | Privilege Esacalation at Apache Airflow 2.5.1
 https://hackerone.com/reports/1873655 | Reflected XSS in ██████
 https://hackerone.com/reports/1874155 | Biometric key is stored in Windows Credential Manager, accessible to other local unprivileged processes
+https://hackerone.com/reports/1874260 | HTML injection that may lead to XSS on HackerOne.com through H1 Triage Wizard Chrome Extension
 https://hackerone.com/reports/1874715 | CVE-2023-23914: HSTS ignored on multiple requests
 https://hackerone.com/reports/1874716 | CVE-2023-23915: HSTS amnesia with --parallel
+https://hackerone.com/reports/1874836 | Rails Debug Mode Enabled On ( https://44.208.145.207/testrail/files.md5 ) 
 https://hackerone.com/reports/1875484 | connect.8x8.com: Blind SSRF via /api/v2/chats/image-check allows for Internal Ports scan
 https://hackerone.com/reports/1877185 | connect.8x8.com: Too much resource consumption of the server due to incorrect date range control via /api/v1/reports?dateFrom=
 https://hackerone.com/reports/1878381 | CSRF protection on OIDC login is broken
