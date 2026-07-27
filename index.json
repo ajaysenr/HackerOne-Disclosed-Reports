@@ -153496,6 +153496,26 @@
     "votes": 48
   },
   {
+    "id": 1869714,
+    "url": "https://hackerone.com/reports/1869714",
+    "title": "Blind SSRF in Mail App",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "maholli",
+    "severity": "low",
+    "cvss": 3.5,
+    "weakness": "Server-Side Request Forgery (SSRF)",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-48307"
+    ],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-02-10",
+    "disclosed_at": "2024-01-10",
+    "votes": 37
+  },
+  {
     "id": 1872682,
     "url": "https://hackerone.com/reports/1872682",
     "title": "Privilege Esacalation at Apache Airflow 2.5.1 ",
