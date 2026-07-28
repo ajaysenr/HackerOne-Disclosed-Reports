@@ -153574,6 +153574,24 @@
     "votes": 19
   },
   {
+    "id": 1874260,
+    "url": "https://hackerone.com/reports/1874260",
+    "title": "HTML injection that may lead to XSS on HackerOne.com through H1 Triage Wizard Chrome Extension",
+    "program": "HackerOne",
+    "program_handle": "security",
+    "reporter": "jobert",
+    "severity": "low",
+    "cvss": 3.7,
+    "weakness": "Cross-site Scripting (XSS) - Stored",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-02-14",
+    "disclosed_at": "2023-02-14",
+    "votes": 21
+  },
+  {
     "id": 1874715,
     "url": "https://hackerone.com/reports/1874715",
     "title": "CVE-2023-23914: HSTS ignored on multiple requests",
@@ -153614,6 +153632,24 @@
     "votes": 8
   },
   {
+    "id": 1874836,
+    "url": "https://hackerone.com/reports/1874836",
+    "title": "Rails Debug Mode Enabled On ( https://44.208.145.207/testrail/files.md5 ) ",
+    "program": "Malwarebytes",
+    "program_handle": "malwarebytes",
+    "reporter": "tarun_sec",
+    "severity": "low",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "WILDCARD",
+    "reported_at": "2023-02-15",
+    "disclosed_at": "2025-08-15",
+    "votes": 39
+  },
+  {
     "id": 1875484,
     "url": "https://hackerone.com/reports/1875484",
     "title": "connect.8x8.com: Blind SSRF via /api/v2/chats/image-check allows for Internal Ports scan",
@@ -153650,6 +153686,84 @@
     "votes": 12
   },
   {
+    "id": 1877919,
+    "url": "https://hackerone.com/reports/1877919",
+    "title": "The use of __proto__ in process.mainModule.__proto__.require() bypasses the permission system in Node v19.6.1",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "haxatron1",
+    "severity": "high",
+    "cvss": 8.4,
+    "weakness": "Privilege Escalation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-30581"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-02-17",
+    "disclosed_at": "2023-07-20",
+    "votes": 8
+  },
+  {
+    "id": 1877977,
+    "url": "https://hackerone.com/reports/1877977",
+    "title": "CVE-2023-23919: Multiple OpenSSL error handling issues in nodejs crypto library",
+    "program": "Internet Bug Bounty",
+    "program_handle": "ibb",
+    "reporter": "nobacktrack",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Cryptographic Issues - Generic",
+    "bounty": 1800.0,
+    "cve_ids": [
+      "CVE-2023-23919"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-02-17",
+    "disclosed_at": "2023-03-29",
+    "votes": 14
+  },
+  {
+    "id": 1877989,
+    "url": "https://hackerone.com/reports/1877989",
+    "title": "Client side authentication leads to Auth Bypass",
+    "program": "U.S. Dept Of Defense",
+    "program_handle": "deptofdefense",
+    "reporter": "kalkii",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Improper Authentication - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-02-17",
+    "disclosed_at": "2023-03-24",
+    "votes": 24
+  },
+  {
+    "id": 1878255,
+    "url": "https://hackerone.com/reports/1878255",
+    "title": "Nextcloud mail does not respect download permissions in shares",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "rullzer",
+    "severity": "low",
+    "cvss": 3.5,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": 250.0,
+    "cve_ids": [
+      "CVE-2024-52509"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-02-18",
+    "disclosed_at": "2024-12-15",
+    "votes": 29
+  },
+  {
     "id": 1878381,
     "url": "https://hackerone.com/reports/1878381",
     "title": "CSRF protection on OIDC login is broken",
@@ -153670,6 +153784,26 @@
     "votes": 76
   },
   {
+    "id": 1878391,
+    "url": "https://hackerone.com/reports/1878391",
+    "title": "ID4ME does not validate signature or expiration",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "mikaelgundersen",
+    "severity": "medium",
+    "cvss": 5.4,
+    "weakness": "Improper Verification of Cryptographic Signature",
+    "bounty": 750.0,
+    "cve_ids": [
+      "CVE-2024-37886"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-02-18",
+    "disclosed_at": "2024-07-14",
+    "votes": 29
+  },
+  {
     "id": 1878489,
     "url": "https://hackerone.com/reports/1878489",
     "title": "CRLF Injection in Nodejs \u2018undici\u2019 via host",
@@ -153687,6 +153821,42 @@
     "asset_type": "SOURCE_CODE",
     "reported_at": "2023-02-18",
     "disclosed_at": "2023-03-29",
+    "votes": 10
+  },
+  {
+    "id": 1878584,
+    "url": "https://hackerone.com/reports/1878584",
+    "title": "Time Based SQL Injection",
+    "program": "U.S. Department of State",
+    "program_handle": "us-department-of-state",
+    "reporter": "shadow-krd",
+    "severity": "critical",
+    "cvss": 9.3,
+    "weakness": "SQL Injection",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-02-18",
+    "disclosed_at": "2023-04-20",
+    "votes": 64
+  },
+  {
+    "id": 1878756,
+    "url": "https://hackerone.com/reports/1878756",
+    "title": "Email exploitation with web hosting services.",
+    "program": "U.S. Dept Of Defense",
+    "program_handle": "deptofdefense",
+    "reporter": "mdfarhanchowdhuryhasin",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Information Disclosure",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-02-19",
+    "disclosed_at": "2023-04-14",
     "votes": 10
   },
   {
@@ -179303,6 +179473,24 @@
     "reported_at": "2026-06-01",
     "disclosed_at": "2026-06-02",
     "votes": 7
+  },
+  {
+    "id": 3775702,
+    "url": "https://hackerone.com/reports/3775702",
+    "title": "Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resulting in Silent Permission Enumeration",
+    "program": "AWS VDP",
+    "program_handle": "aws_vdp",
+    "reporter": "nick_frichette_dd",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Insufficient Logging",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "API",
+    "reported_at": "2026-06-01",
+    "disclosed_at": "2026-07-27",
+    "votes": 2
   },
   {
     "id": 3776433,

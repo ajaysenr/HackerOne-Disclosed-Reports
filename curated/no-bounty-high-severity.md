@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1722 total)
+# High/Critical Severity — No Bounty Paid (1724 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -150,6 +150,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [2501984](../reports/2501984.md) | Bypassing the victim's phone number OTP in the account recovery p | [HackerOne](../by-program/security.md) | Critical — CVSS 9.8 | Informative | 66 |
 | [3062122](../reports/3062122.md) | [Xenoblade Chronicles X: Definitive Edition] Unrestricted RPCs al | [Nintendo](../by-program/nintendo.md) | Critical — CVSS 9.3 | Resolved | 65 |
 | [804548](../reports/804548.md) | [█████████] Administrative access to Oracle WebLogic Server using | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 65 |
+| [1878584](../reports/1878584.md) | Time Based SQL Injection | [U.S. Department of State](../by-program/us-department-of-state.md) | Critical — CVSS 9.3 | Resolved | 64 |
 | [887818](../reports/887818.md) | [H1-2006 2020] I successfully solved it! | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 64 |
 | [3060373](../reports/3060373.md) | Path Traversal Vulnerability found on IBM Cloud | [IBM](../by-program/ibm.md) | Critical | Resolved | 63 |
 | [1096560](../reports/1096560.md) | Ability to add arbitrary images/descriptions/titles to ohter peop | [X / xAI](../by-program/x.md) | Critical | Resolved | 63 |
@@ -1421,6 +1422,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [733051](../reports/733051.md) | The URL in "Choose a data source'' at "https://bi.owox.com/ui/set | [OWOX, Inc.](../by-program/owox.md) | High | Resolved | 8 |
 | [247517](../reports/247517.md) | Stored XSS in Private Messages 'Reply' allows to execute maliciou | [Concrete CMS](../by-program/concretecms.md) | High | Resolved | 8 |
 | [181816](../reports/181816.md) | [marketplace.informatica.com] Persistent XSS through document tit | [Informatica](../by-program/informatica.md) | High | Resolved | 8 |
+| [1877919](../reports/1877919.md) | The use of __proto__ in process.mainModule.__proto__.require() by | [Node.js](../by-program/nodejs.md) | High — CVSS 8.4 | Resolved | 8 |
 | [506040](../reports/506040.md) | ChaCha20-Poly1305 with long nonces | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.4 | Resolved | 8 |
 | [309120](../reports/309120.md) | [angular-http-server] Path Traversal in angular-http-server.js al | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | Resolved | 8 |
 | [313245](../reports/313245.md) | Code Execution in restricted CLI of EdgeSwitch | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 7.2 | Resolved | 8 |

@@ -1,4 +1,4 @@
-# Weakness: Cross-site Scripting (XSS) - Stored (370 reports)
+# Weakness: Cross-site Scripting (XSS) - Stored (371 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -334,43 +334,44 @@
 | 328 | [437863](../reports/437863.md) | SVG file that HTML Included is able to upload via File Manager | [Concrete CMS](../by-program/concretecms.md) | Low | — | 26 |
 | 329 | [2111291](../reports/2111291.md) | Stored Xss on bugzilla.mozilla.org via comment edit feature from  | [Mozilla](../by-program/mozilla.md) | Low | — | 23 |
 | 330 | [406289](../reports/406289.md) | Stored XSS on Broken Themes via filename | [WordPress](../by-program/wordpress.md) | Low | — | 23 |
-| 331 | [753567](../reports/753567.md) | XSS in select attribute options | [Concrete CMS](../by-program/concretecms.md) | Low — CVSS 1.9 | — | 20 |
-| 332 | [1687410](../reports/1687410.md) | [user_oidc] Stored XSS via Authorization Endpoint - Safari-Only | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 19 |
-| 333 | [358001](../reports/358001.md) | HTML TAG INJECTION ON PROFILE NAME | [GitLab](../by-program/gitlab.md) | Low | — | 18 |
-| 334 | [275515](../reports/275515.md) | Stored XSS in dev-ucrm-billing-demo.ubnt.com In Client Custom Att | [Ubiquiti Inc.](../by-program/ui.md) | Low — CVSS 3.8 | — | 16 |
-| 335 | [786301](../reports/786301.md) | Stored XSS in Name of Team Member Invitation | [Localize](../by-program/localizejs.md) | Low | — | 15 |
-| 336 | [230232](../reports/230232.md) | Stored self-XSS in mercantile.wordpress.org checkout | [WordPress](../by-program/wordpress.md) | Low | — | 15 |
-| 337 | [271765](../reports/271765.md) | Stored XSS in partners dashboard | [Shopify](../by-program/shopify.md) | Low — CVSS 3.4 | — | 14 |
-| 338 | [261138](../reports/261138.md) | Stored XSS in OAuth redirect URI  | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.4 | — | 13 |
-| 339 | [1023787](../reports/1023787.md) | Stored XSS in markdown file with Nextcloud Talk using Internet Ex | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.0 | — | 13 |
-| 340 | [1554888](../reports/1554888.md) |  Site information's Display Name section vulnerable for XSS attac | [Automattic](../by-program/automattic.md) | Low | — | 11 |
-| 341 | [724153](../reports/724153.md) | XSS (leads to arbitrary file read in Rocket.Chat-Desktop) | [Rocket.Chat](../by-program/rocket_chat.md) | Low | — | 11 |
-| 342 | [1033882](../reports/1033882.md) | XSS stored in the Shopify Email app | [Shopify](../by-program/shopify.md) | Low — CVSS 2.6 | — | 10 |
-| 343 | [716570](../reports/716570.md) | Stored XSS (Hexo-admin plugin) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 2.7 | — | 9 |
-| 344 | [222224](../reports/222224.md) | Stored but [SELF] XSS in mercantile.wordpress.org | [WordPress](../by-program/wordpress.md) | Low | — | 8 |
-| 345 | [300571](../reports/300571.md) | Stored XSS on Add Calendar | [Concrete CMS](../by-program/concretecms.md) | Low — CVSS 3.9 | — | 7 |
-| 346 | [300532](../reports/300532.md) | Stored XSS on Add Event in Calendar | [Concrete CMS](../by-program/concretecms.md) | Low — CVSS 3.9 | — | 7 |
-| 347 | [247521](../reports/247521.md) | Stored XSS in Name field in User Groups/Group Details form | [Concrete CMS](../by-program/concretecms.md) | Low | — | 7 |
-| 348 | [251358](../reports/251358.md) | Stored XSS vulnerability in additional URLs in 'Location' dialog  | [Concrete CMS](../by-program/concretecms.md) | Low | — | 7 |
-| 349 | [316346](../reports/316346.md) | [public] Stored XSS in filenames in directory served by public | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 3.9 | — | 5 |
-| 350 | [390728](../reports/390728.md) | Stored XSS on scan.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | Low | — | 4 |
-| 351 | [226203](../reports/226203.md) | Cross-site-Scripting | [Paragon Initiative Enterprises](../by-program/paragonie.md) | Low | — | 4 |
-| 352 | [223331](../reports/223331.md) | [demo.weblate.org] Stored Self-XSS via Editor Link in Profile | [Weblate](../by-program/weblate.md) | Low | — | 4 |
-| 353 | [928816](../reports/928816.md) | Stored XSS in app.lemlist.com | [lemlist](../by-program/lemlist.md) | Low | — | 3 |
-| 354 | [856588](../reports/856588.md) | [flsaba] Stored XSS in the file and directory name when directori | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 3.9 | — | 0 |
-| 355 | [243138](../reports/243138.md) | Improper parsing of input could lead to future XSS vulnerabilitie | [Mixmax](../by-program/mixmax.md) | Low | — | 0 |
-| 356 | [798599](../reports/798599.md) | xss stored | [Shopify](../by-program/shopify.md) | None | — | 75 |
-| 357 | [419731](../reports/419731.md) | [www.zomato.com] Blind XSS in one of the Admin Dashboard | [Eternal](../by-program/eternal.md) | None | — | 61 |
-| 358 | [1028332](../reports/1028332.md) | Stored XSS on https://events.hackerone.com | [HackerOne](../by-program/security.md) | None | — | 58 |
-| 359 | [869831](../reports/869831.md) | XSS within Shopify Email App - Admin | [Shopify](../by-program/shopify.md) | None | — | 50 |
-| 360 | [300270](../reports/300270.md) | Stored XSS in learnboost.com via the lesson[goals] parameter. | [Automattic](../by-program/automattic.md) | None | — | 21 |
-| 361 | [758002](../reports/758002.md) | Markdown parsing issue enables insertion of malicious tags | [Phabricator](../by-program/phabricator.md) | None | — | 20 |
-| 362 | [382666](../reports/382666.md) | Blind XSS in the rocket.chat registration email | [Rocket.Chat](../by-program/rocket_chat.md) | None | — | 18 |
-| 363 | [300812](../reports/300812.md) | Stored XSS in www.learnboost.com via ZIP codes. | [Automattic](../by-program/automattic.md) | None | — | 17 |
-| 364 | [238906](../reports/238906.md) | Stored XSS in Templates>Enahance>Social Badges | [Mixmax](../by-program/mixmax.md) | None | — | 7 |
-| 365 | [1241460](../reports/1241460.md) | ApiService#fetch serves content as text/html and inline Content-D | [Nextcloud](../by-program/nextcloud.md) | None | — | 6 |
-| 366 | [283825](../reports/283825.md) | Multiple xss on infogram templates | [Infogram](../by-program/infogram.md) | None | — | 6 |
-| 367 | [282535](../reports/282535.md) | XSS on Report Classic | [Infogram](../by-program/infogram.md) | None | — | 5 |
-| 368 | [221380](../reports/221380.md) | Stored XSS in RSS Feeds Title (Concrete5 v8.1.0) | [Concrete CMS](../by-program/concretecms.md) | None | — | 4 |
-| 369 | [1187156](../reports/1187156.md) | XSS in HTML generated by RDoc | [Ruby](../by-program/ruby.md) | None | — | 3 |
-| 370 | [3680090](../reports/3680090.md) | Stored XSS via malicious usernames in audit log details + Usernam | [Revive Adserver](../by-program/revive_adserver.md) | None | — | 2 |
+| 331 | [1874260](../reports/1874260.md) | HTML injection that may lead to XSS on HackerOne.com through H1 T | [HackerOne](../by-program/security.md) | Low — CVSS 3.7 | — | 21 |
+| 332 | [753567](../reports/753567.md) | XSS in select attribute options | [Concrete CMS](../by-program/concretecms.md) | Low — CVSS 1.9 | — | 20 |
+| 333 | [1687410](../reports/1687410.md) | [user_oidc] Stored XSS via Authorization Endpoint - Safari-Only | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 19 |
+| 334 | [358001](../reports/358001.md) | HTML TAG INJECTION ON PROFILE NAME | [GitLab](../by-program/gitlab.md) | Low | — | 18 |
+| 335 | [275515](../reports/275515.md) | Stored XSS in dev-ucrm-billing-demo.ubnt.com In Client Custom Att | [Ubiquiti Inc.](../by-program/ui.md) | Low — CVSS 3.8 | — | 16 |
+| 336 | [786301](../reports/786301.md) | Stored XSS in Name of Team Member Invitation | [Localize](../by-program/localizejs.md) | Low | — | 15 |
+| 337 | [230232](../reports/230232.md) | Stored self-XSS in mercantile.wordpress.org checkout | [WordPress](../by-program/wordpress.md) | Low | — | 15 |
+| 338 | [271765](../reports/271765.md) | Stored XSS in partners dashboard | [Shopify](../by-program/shopify.md) | Low — CVSS 3.4 | — | 14 |
+| 339 | [261138](../reports/261138.md) | Stored XSS in OAuth redirect URI  | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.4 | — | 13 |
+| 340 | [1023787](../reports/1023787.md) | Stored XSS in markdown file with Nextcloud Talk using Internet Ex | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.0 | — | 13 |
+| 341 | [1554888](../reports/1554888.md) |  Site information's Display Name section vulnerable for XSS attac | [Automattic](../by-program/automattic.md) | Low | — | 11 |
+| 342 | [724153](../reports/724153.md) | XSS (leads to arbitrary file read in Rocket.Chat-Desktop) | [Rocket.Chat](../by-program/rocket_chat.md) | Low | — | 11 |
+| 343 | [1033882](../reports/1033882.md) | XSS stored in the Shopify Email app | [Shopify](../by-program/shopify.md) | Low — CVSS 2.6 | — | 10 |
+| 344 | [716570](../reports/716570.md) | Stored XSS (Hexo-admin plugin) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 2.7 | — | 9 |
+| 345 | [222224](../reports/222224.md) | Stored but [SELF] XSS in mercantile.wordpress.org | [WordPress](../by-program/wordpress.md) | Low | — | 8 |
+| 346 | [300571](../reports/300571.md) | Stored XSS on Add Calendar | [Concrete CMS](../by-program/concretecms.md) | Low — CVSS 3.9 | — | 7 |
+| 347 | [300532](../reports/300532.md) | Stored XSS on Add Event in Calendar | [Concrete CMS](../by-program/concretecms.md) | Low — CVSS 3.9 | — | 7 |
+| 348 | [247521](../reports/247521.md) | Stored XSS in Name field in User Groups/Group Details form | [Concrete CMS](../by-program/concretecms.md) | Low | — | 7 |
+| 349 | [251358](../reports/251358.md) | Stored XSS vulnerability in additional URLs in 'Location' dialog  | [Concrete CMS](../by-program/concretecms.md) | Low | — | 7 |
+| 350 | [316346](../reports/316346.md) | [public] Stored XSS in filenames in directory served by public | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 3.9 | — | 5 |
+| 351 | [390728](../reports/390728.md) | Stored XSS on scan.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | Low | — | 4 |
+| 352 | [226203](../reports/226203.md) | Cross-site-Scripting | [Paragon Initiative Enterprises](../by-program/paragonie.md) | Low | — | 4 |
+| 353 | [223331](../reports/223331.md) | [demo.weblate.org] Stored Self-XSS via Editor Link in Profile | [Weblate](../by-program/weblate.md) | Low | — | 4 |
+| 354 | [928816](../reports/928816.md) | Stored XSS in app.lemlist.com | [lemlist](../by-program/lemlist.md) | Low | — | 3 |
+| 355 | [856588](../reports/856588.md) | [flsaba] Stored XSS in the file and directory name when directori | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 3.9 | — | 0 |
+| 356 | [243138](../reports/243138.md) | Improper parsing of input could lead to future XSS vulnerabilitie | [Mixmax](../by-program/mixmax.md) | Low | — | 0 |
+| 357 | [798599](../reports/798599.md) | xss stored | [Shopify](../by-program/shopify.md) | None | — | 75 |
+| 358 | [419731](../reports/419731.md) | [www.zomato.com] Blind XSS in one of the Admin Dashboard | [Eternal](../by-program/eternal.md) | None | — | 61 |
+| 359 | [1028332](../reports/1028332.md) | Stored XSS on https://events.hackerone.com | [HackerOne](../by-program/security.md) | None | — | 58 |
+| 360 | [869831](../reports/869831.md) | XSS within Shopify Email App - Admin | [Shopify](../by-program/shopify.md) | None | — | 50 |
+| 361 | [300270](../reports/300270.md) | Stored XSS in learnboost.com via the lesson[goals] parameter. | [Automattic](../by-program/automattic.md) | None | — | 21 |
+| 362 | [758002](../reports/758002.md) | Markdown parsing issue enables insertion of malicious tags | [Phabricator](../by-program/phabricator.md) | None | — | 20 |
+| 363 | [382666](../reports/382666.md) | Blind XSS in the rocket.chat registration email | [Rocket.Chat](../by-program/rocket_chat.md) | None | — | 18 |
+| 364 | [300812](../reports/300812.md) | Stored XSS in www.learnboost.com via ZIP codes. | [Automattic](../by-program/automattic.md) | None | — | 17 |
+| 365 | [238906](../reports/238906.md) | Stored XSS in Templates>Enahance>Social Badges | [Mixmax](../by-program/mixmax.md) | None | — | 7 |
+| 366 | [1241460](../reports/1241460.md) | ApiService#fetch serves content as text/html and inline Content-D | [Nextcloud](../by-program/nextcloud.md) | None | — | 6 |
+| 367 | [283825](../reports/283825.md) | Multiple xss on infogram templates | [Infogram](../by-program/infogram.md) | None | — | 6 |
+| 368 | [282535](../reports/282535.md) | XSS on Report Classic | [Infogram](../by-program/infogram.md) | None | — | 5 |
+| 369 | [221380](../reports/221380.md) | Stored XSS in RSS Feeds Title (Concrete5 v8.1.0) | [Concrete CMS](../by-program/concretecms.md) | None | — | 4 |
+| 370 | [1187156](../reports/1187156.md) | XSS in HTML generated by RDoc | [Ruby](../by-program/ruby.md) | None | — | 3 |
+| 371 | [3680090](../reports/3680090.md) | Stored XSS via malicious usernames in audit log details + Usernam | [Revive Adserver](../by-program/revive_adserver.md) | None | — | 2 |

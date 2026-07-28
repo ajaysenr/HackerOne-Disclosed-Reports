@@ -1,4 +1,4 @@
-# Weakness: Insufficient Logging (20 reports)
+# Weakness: Insufficient Logging (21 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -24,3 +24,4 @@
 | 18 | [3044471](../reports/3044471.md) | Amazon Kendra Intelligent Ranking Service Reporting "AWS Internal | [AWS VDP](../by-program/aws_vdp.md) | Medium — CVSS 5.0 | — | 16 |
 | 19 | [3092085](../reports/3092085.md) | Non-Production API Endpoints for the Route 53 Service Fail to Log | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 14 |
 | 20 | [3780277](../reports/3780277.md) | Non-Production API Endpoints for the Amazon S3 Tables Service Fai | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 3 |
+| 21 | [3775702](../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to L | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 2 |
