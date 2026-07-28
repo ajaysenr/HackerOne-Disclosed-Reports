@@ -8412,7 +8412,12 @@ https://hackerone.com/reports/1878584 | Time Based SQL Injection
 https://hackerone.com/reports/1878756 | Email exploitation with web hosting services.
 https://hackerone.com/reports/1879548 | Missing Function Level Access Control in Mozilla formula containsRegular Expression Denial of Service (CVE-2023-25166)
 https://hackerone.com/reports/1879549 | Basic auth header on WebDAV requests is not bruteforce protected
+https://hackerone.com/reports/1880607 | Reflected XSS on https://travel.line.me
+https://hackerone.com/reports/1880610 | Snowflake server: Leak of TLS packets from other clients
 https://hackerone.com/reports/1880896 | HTML Injection / Reflected Cross-Site Scripting with CSP on https://accounts.firefox.com/settings
+https://hackerone.com/reports/1880929 | Email  user account in indexacao waybackurl
+https://hackerone.com/reports/1882592 | Reflected XSS in ████████████
+https://hackerone.com/reports/1882751 | Reflected XSS in ██████████
 https://hackerone.com/reports/1882754 | Reflected XSS in ██████████
 https://hackerone.com/reports/1883806 | Complete Admin account takeover due to PhpDebugBar turned on in Uber's production server
 https://hackerone.com/reports/1884042 | UXss on brave browser via scan QR Code
