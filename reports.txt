@@ -9526,6 +9526,7 @@ https://hackerone.com/reports/3465156 | Node.js permission model bypass via unch
 https://hackerone.com/reports/3467641 | Unauthenticated access to private files on app.fizzy.do via Active Storage URLs leads to information disclosure
 https://hackerone.com/reports/3468169 | Reflected XSS in afr.php
 https://hackerone.com/reports/3470970 | Reflected XSS in banner-acl.php and channel-acl.php via executionorder
+https://hackerone.com/reports/3473145 | Unauthenticated SSRF in Voxtelesys integration ('checkUrlForSsrf' Bypass via DNS rebinding)
 https://hackerone.com/reports/3473696 | [revive-adserver] Reflected XSS in Banner Delivery Options via cap parameter
 https://hackerone.com/reports/3473882 | TLS PSK/ALPN Callback Exceptions Bypass Error Handlers, Causing DoS and FD Leak
 https://hackerone.com/reports/3475626 | Session Cookie Leakage via Static Header Field in WebViewerFragment
@@ -9646,6 +9647,7 @@ https://hackerone.com/reports/3630310 | HTTP/2 server push accepts a non-authori
 https://hackerone.com/reports/3630605 | Kiro IDE Stores Auth Tokens with World-Readable Permissions (0644)
 https://hackerone.com/reports/3632427 | Unbounded GZIP Decompression Leading to Event-Loop Starvation
 https://hackerone.com/reports/3632577 | Bedrock AgentCore Starter Toolkit Creates Gateway IAM Roles Without Confused Deputy Protections
+https://hackerone.com/reports/3633146 | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-certificates.sh
 https://hackerone.com/reports/3633534 | CRLF Injection in HAProxy PROXY Protocol via CURLOPT_HAPROXY_CLIENT_IP allows IP spoofing and protocol injection
 https://hackerone.com/reports/3634400 | SSRF Filter Bypass via Unblocked NAT64 Local-Use IPv6 Prefix (64:ff9b:1::/48)
 https://hackerone.com/reports/3634571 | Path Traversal in writeFile via Unsafe Prefix Containment Check Allows Out-of-Directory Writes
