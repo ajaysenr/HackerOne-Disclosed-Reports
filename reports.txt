@@ -8425,11 +8425,16 @@ https://hackerone.com/reports/1884159 | node.js process aborts when processing x
 https://hackerone.com/reports/1884372 | HAProxy stats panel exposed externally
 https://hackerone.com/reports/1886139 | HTTP multi-header compression denial of service
 https://hackerone.com/reports/1886143 | information disclosure of another company bug on video.
+https://hackerone.com/reports/1886954 | Unauthenticated full-read SSRF via Twilio integration
 https://hackerone.com/reports/1887917 | XSS from Mastodon embeds
+https://hackerone.com/reports/1887996 | DoS at █████(CVE-2018-6389)
 https://hackerone.com/reports/1888351 | https://www.wotif.com/vc/blog/info.php script is prone to reflected HTML/CSS injection and COOKIE leak
 https://hackerone.com/reports/1888545 | IDOR - send a message on behalf of other user
 https://hackerone.com/reports/1888723 |  WordPress application vulnerable to DoS attack via wp-cron.php
 https://hackerone.com/reports/1888758 | Inadequate Encryption Strength in nodejs-current reads openssl.cnf from /home/iojs/build/... upon startup on MacOS
+https://hackerone.com/reports/1888760 | HTTP Request Smuggling Due to Incorrect Parsing of Header Fields
+https://hackerone.com/reports/1888803 | Use of Cryptographically Weak Pseudo-Random Number Generator in WebCrypto keygen
+https://hackerone.com/reports/1888808 | Path traversal leads to reading of local files on ███████ and ████
 https://hackerone.com/reports/1888915 | Reset password link sent over unsecured http protocol
 https://hackerone.com/reports/1889161 | JWT audience claim is not verified
 https://hackerone.com/reports/1889474 | Ruby's CGI library has HTTP response splitting (HTTP header injection), leaking confidential information
