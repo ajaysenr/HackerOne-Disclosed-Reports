@@ -154140,6 +154140,26 @@
     "votes": 47
   },
   {
+    "id": 1886954,
+    "url": "https://hackerone.com/reports/1886954",
+    "title": "Unauthenticated full-read SSRF via Twilio integration",
+    "program": "Rocket.Chat",
+    "program_handle": "rocket_chat",
+    "reporter": "mokusou",
+    "severity": "high",
+    "cvss": 8.6,
+    "weakness": "Server-Side Request Forgery (SSRF)",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2024-39713"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-02-25",
+    "disclosed_at": "2024-08-04",
+    "votes": 52
+  },
+  {
     "id": 1887917,
     "url": "https://hackerone.com/reports/1887917",
     "title": "XSS from Mastodon embeds",
@@ -154156,6 +154176,26 @@
     "reported_at": "2023-02-27",
     "disclosed_at": "2023-10-09",
     "votes": 62
+  },
+  {
+    "id": 1887996,
+    "url": "https://hackerone.com/reports/1887996",
+    "title": "DoS at \u2588\u2588\u2588\u2588\u2588(CVE-2018-6389)",
+    "program": "U.S. Dept Of Defense",
+    "program_handle": "deptofdefense",
+    "reporter": "a4hamkhan",
+    "severity": "critical",
+    "cvss": null,
+    "weakness": "Uncontrolled Resource Consumption",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2018-6389"
+    ],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-02-27",
+    "disclosed_at": "2023-03-24",
+    "votes": 10
   },
   {
     "id": 1888351,
@@ -154230,6 +154270,64 @@
     "reported_at": "2023-02-28",
     "disclosed_at": "2023-04-09",
     "votes": 7
+  },
+  {
+    "id": 1888760,
+    "url": "https://hackerone.com/reports/1888760",
+    "title": "HTTP Request Smuggling Due to Incorrect Parsing of Header Fields",
+    "program": "Internet Bug Bounty",
+    "program_handle": "ibb",
+    "reporter": "vwx7",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "HTTP Request Smuggling",
+    "bounty": 1800.0,
+    "cve_ids": [
+      "CVE-2022-35256"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-02-28",
+    "disclosed_at": "2023-04-09",
+    "votes": 15
+  },
+  {
+    "id": 1888803,
+    "url": "https://hackerone.com/reports/1888803",
+    "title": "Use of Cryptographically Weak Pseudo-Random Number Generator in WebCrypto keygen",
+    "program": "Internet Bug Bounty",
+    "program_handle": "ibb",
+    "reporter": "imhunternull",
+    "severity": "high",
+    "cvss": null,
+    "weakness": null,
+    "bounty": 4000.0,
+    "cve_ids": [
+      "CVE-2022-35255"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-02-28",
+    "disclosed_at": "2023-04-09",
+    "votes": 18
+  },
+  {
+    "id": 1888808,
+    "url": "https://hackerone.com/reports/1888808",
+    "title": "Path traversal leads to reading of local files on \u2588\u2588\u2588\u2588\u2588\u2588\u2588 and \u2588\u2588\u2588\u2588",
+    "program": "U.S. Dept Of Defense",
+    "program_handle": "deptofdefense",
+    "reporter": "rodriguezjorgex",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Path Traversal",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-02-28",
+    "disclosed_at": "2023-03-24",
+    "votes": 12
   },
   {
     "id": 1888915,
@@ -154328,6 +154426,24 @@
     "votes": 114
   },
   {
+    "id": 1890310,
+    "url": "https://hackerone.com/reports/1890310",
+    "title": "CSRF in ticket function",
+    "program": "TikTok",
+    "program_handle": "tiktok",
+    "reporter": "ibrahim0936356",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Cross-Site Request Forgery (CSRF)",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2023-03-02",
+    "disclosed_at": "2024-11-05",
+    "votes": 78
+  },
+  {
     "id": 1890719,
     "url": "https://hackerone.com/reports/1890719",
     "title": "Unauthenticated Blind SSRF at https://\u2588\u2588\u2588\u2588\u2588 via xmlrpc.php file",
@@ -154344,6 +154460,26 @@
     "reported_at": "2023-03-03",
     "disclosed_at": "2023-04-14",
     "votes": 27
+  },
+  {
+    "id": 1891474,
+    "url": "https://hackerone.com/reports/1891474",
+    "title": "CVE-2023-27533: Telnet option IAC injection",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "nyymi",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Failure to Sanitize Special Elements into a Different Plane (Special Element Injection)",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-27533"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-03-03",
+    "disclosed_at": "2023-03-22",
+    "votes": 4
   },
   {
     "id": 1891795,
@@ -154420,6 +154556,26 @@
     "votes": 13
   },
   {
+    "id": 1892351,
+    "url": "https://hackerone.com/reports/1892351",
+    "title": "CVE-2023-27534: SFTP path ~ resolving discrepancy",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "nyymi",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Path Traversal",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-27534"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-03-05",
+    "disclosed_at": "2023-03-22",
+    "votes": 3
+  },
+  {
     "id": 1892780,
     "url": "https://hackerone.com/reports/1892780",
     "title": "CVE-2023-27535: FTP too eager connection reuse",
@@ -154438,6 +154594,44 @@
     "reported_at": "2023-03-05",
     "disclosed_at": "2023-03-22",
     "votes": 4
+  },
+  {
+    "id": 1892888,
+    "url": "https://hackerone.com/reports/1892888",
+    "title": "Users can access exams in course without having to subscribe to PREMIUM",
+    "program": "LinkedIn",
+    "program_handle": "linkedin",
+    "reporter": "find_me_here",
+    "severity": "medium",
+    "cvss": 5.3,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2023-03-06",
+    "disclosed_at": "2024-01-10",
+    "votes": 63
+  },
+  {
+    "id": 1893186,
+    "url": "https://hackerone.com/reports/1893186",
+    "title": "Reflected XSS vulnerability with full CSP bypass in Nextcloud installations using recommended bundle",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "lukasreschke",
+    "severity": "medium",
+    "cvss": 4.3,
+    "weakness": "Cross-site Scripting (XSS) - Reflected",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-31145"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-03-06",
+    "disclosed_at": "2023-05-15",
+    "votes": 13
   },
   {
     "id": 1893800,
@@ -175753,6 +175947,24 @@
     "votes": 10
   },
   {
+    "id": 3577216,
+    "url": "https://hackerone.com/reports/3577216",
+    "title": "`exportReportPdf` mutation shows internal Activity",
+    "program": "HackerOne",
+    "program_handle": "security",
+    "reporter": "0v3rw4tch",
+    "severity": "high",
+    "cvss": 8.2,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-02-27",
+    "disclosed_at": "2026-07-29",
+    "votes": 11
+  },
+  {
     "id": 3578842,
     "url": "https://hackerone.com/reports/3578842",
     "title": "SQL Injection vulnerability found on ibm.com endpoint",
@@ -176988,6 +177200,26 @@
     "reported_at": "2026-03-30",
     "disclosed_at": "2026-03-31",
     "votes": 23
+  },
+  {
+    "id": 3638909,
+    "url": "https://hackerone.com/reports/3638909",
+    "title": "GitHub scoped user to server tokens can escape their installation",
+    "program": "GitHub",
+    "program_handle": "github",
+    "reporter": "ahacker1",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-5845"
+    ],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-03-31",
+    "disclosed_at": "2026-07-29",
+    "votes": 4
   },
   {
     "id": 3639277,
@@ -179365,6 +179597,26 @@
     "votes": 2
   },
   {
+    "id": 3761342,
+    "url": "https://hackerone.com/reports/3761342",
+    "title": "Permission Model: --allow-fs-read/--allow-fs-write radix-tree prefix-boundary over-grant",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "sy2n0",
+    "severity": "high",
+    "cvss": 7.5,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-58043"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-05-25",
+    "disclosed_at": "2026-07-29",
+    "votes": 1
+  },
+  {
     "id": 3761647,
     "url": "https://hackerone.com/reports/3761647",
     "title": "TLS conn reuse and session cache ignore fsslctx callback and ssl_config_data flags ( incomplete fix variant of 7541ae569 )",
@@ -180304,6 +180556,26 @@
     "reported_at": "2026-06-17",
     "disclosed_at": "2026-07-22",
     "votes": 1
+  },
+  {
+    "id": 3812439,
+    "url": "https://hackerone.com/reports/3812439",
+    "title": "HTTPS Agent TLS session reuse skips hostname verification across identity policies (incomplete fix of CVE-2026-48934)",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "vnyuh",
+    "severity": "medium",
+    "cvss": 6.3,
+    "weakness": "Exploiting Incorrectly Configured SSL/TLS",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-58040"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-06-19",
+    "disclosed_at": "2026-07-30",
+    "votes": 0
   },
   {
     "id": 3813932,

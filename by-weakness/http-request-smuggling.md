@@ -1,4 +1,4 @@
-# Weakness: HTTP Request Smuggling (49 reports)
+# Weakness: HTTP Request Smuggling (50 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -10,46 +10,47 @@
 | 4 | [2299692](../reports/2299692.md) | Request Smuggling in Apache Tomcat (Important, CVE-2023-45648) | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.2 | $4,660 | 51 |
 | 5 | [1667974](../reports/1667974.md) | Pause-based desync in Apache HTTPD | [Internet Bug Bounty](../by-program/ibb.md) | High | $4,000 | 72 |
 | 6 | [1575912](../reports/1575912.md) | HTTP request smuggling with Origin Rules using newlines in the ho | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | Critical | $3,100 | 46 |
-| 7 | [2032842](../reports/2032842.md) | HTTP Request Smuggling via Empty headers separated by CR | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.5 | $1,800 | 15 |
-| 8 | [1630668](../reports/1630668.md) |  CVE-2022-32213 - HTTP Request Smuggling Due to Flawed Parsing of | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $1,800 | 13 |
-| 9 | [1630669](../reports/1630669.md) | CVE-2022-32214 - HTTP Request Smuggling Due To Improper Delimitin | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $1,800 | 11 |
-| 10 | [1630667](../reports/1630667.md) |  CVE-2022-32215 - HTTP Request Smuggling Due to Incorrect Parsing | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $1,800 | 6 |
-| 11 | [726773](../reports/726773.md) | HTTP Request Smuggling on https://labs.data.gov | [GSA Bounty](../by-program/gsa_bbp.md) | High — CVSS 7.7 | $750 | 159 |
-| 12 | [713285](../reports/713285.md) | http request smuggling in pscp.tv and periscope.tv | [X / xAI](../by-program/x.md) | High | $560 | 24 |
-| 13 | [965267](../reports/965267.md) | Potential HTTP Request Smuggling in ruby webrick | [Ruby](../by-program/ruby.md) | Low | $500 | 53 |
-| 14 | [246803](../reports/246803.md) | [spectacles.com] Bypassing quantity limit in orders | [Snapchat](../by-program/snapchat.md) | Medium — CVSS 5.3 | $250 | 22 |
-| 15 | [1238709](../reports/1238709.md) | HTTP Request Smuggling due to accepting space before colon | [Node.js](../by-program/nodejs.md) | Medium | $250 | 18 |
-| 16 | [1238099](../reports/1238099.md) | HTTP Request Smuggling due to ignoring chunk extensions | [Node.js](../by-program/nodejs.md) | Medium | $250 | 6 |
-| 17 | [1002188](../reports/1002188.md) | Potential HTTP Request Smuggling in nodejs | [Node.js](../by-program/nodejs.md) | Low | $250 | 34 |
-| 18 | [737140](../reports/737140.md) | Mass account takeovers using HTTP Request Smuggling on https://sl | [Slack](../by-program/slack.md) | Critical — CVSS 9.3 | — | 864 |
-| 19 | [771666](../reports/771666.md) | Stealing Zomato X-Access-Token: in Bulk using HTTP Request Smuggl | [Eternal](../by-program/eternal.md) | Critical — CVSS 9.8 | — | 557 |
-| 20 | [735748](../reports/735748.md) | HTTP request smuggling using malformed Transfer-Encoding header | [Node.js](../by-program/nodejs.md) | Critical — CVSS 9.0 | — | 103 |
-| 21 | [919175](../reports/919175.md) | HTTP request smuggling on Basecamp 2 allows web cache poisoning | [Basecamp](../by-program/basecamp.md) | Critical | — | 28 |
-| 22 | [867577](../reports/867577.md) | Unauthenticated request smuggling on launchpad.37signals.com | [Basecamp](../by-program/basecamp.md) | Critical | — | 24 |
-| 23 | [648434](../reports/648434.md) | Multiple HTTP Smuggling reports | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.8 | — | 20 |
-| 24 | [740037](../reports/740037.md) | Request smuggling on admin-official.line.me could lead to account | [LY Corporation](../by-program/line.md) | High | — | 563 |
-| 25 | [867952](../reports/867952.md) | HTTP request Smuggling | [Helium](../by-program/helium.md) | High | — | 299 |
-| 26 | [922597](../reports/922597.md) | HTTP Request Smuggling due to CR-to-Hyphen conversion | [Node.js](../by-program/nodejs.md) | High — CVSS 8.5 | — | 134 |
-| 27 | [1120982](../reports/1120982.md) | HTTP Request Smuggling  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 40 |
-| 28 | [526880](../reports/526880.md) | Request smuggling on ████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 25 |
-| 29 | [715996](../reports/715996.md) | http request smuggling in  twitter.com | [X / xAI](../by-program/x.md) | High | — | 17 |
-| 30 | [866382](../reports/866382.md) | HTTP Request Smuggling | [Brave Software](../by-program/brave.md) | High | — | 12 |
-| 31 | [753939](../reports/753939.md) | HTTP SMUGGLING EXPOSED HMAC/DOS  | [Magic](../by-program/magic-bbp.md) | Medium — CVSS 6.5 | — | 74 |
-| 32 | [1098948](../reports/1098948.md) | Host Header Injection | [Kartpay](../by-program/kartpay.md) | Medium | — | 27 |
-| 33 | [2237099](../reports/2237099.md) | HTTP Request Smuggling via Content Length Obfuscation | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 18 |
-| 34 | [1631228](../reports/1631228.md) | [demo.stripo.email] HTTP request Smuggling | [Stripo Inc](../by-program/stripo.md) | Medium | — | 17 |
-| 35 | [244459](../reports/244459.md) | Apache HTTP Request Parsing Whitespace Defects | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 4.0 | — | 11 |
-| 36 | [643225](../reports/643225.md) | HTTP Request Smuggling | [JamieWeb](../by-program/jamieweb.md) | Medium | — | 10 |
-| 37 | [1524692](../reports/1524692.md) | HTTP Request Smuggling Due To Improper Delimiting of Header Field | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 9 |
-| 38 | [3648681](../reports/3648681.md) | Improper Input Validation — HTTP Response Parser Unconditionally  | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 9 |
-| 39 | [1025575](../reports/1025575.md) | Default behavior of Fastifys versioned routes can be used for cac | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.9 | — | 8 |
-| 40 | [1501679](../reports/1501679.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 7 |
-| 41 | [1665156](../reports/1665156.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium | — | 6 |
-| 42 | [1630336](../reports/1630336.md) | CVE-2022-32213 bypass via obs-fold mechanic | [Node.js](../by-program/nodejs.md) | Medium | — | 5 |
-| 43 | [3795615](../reports/3795615.md) | Duplicate chunked Transfer-Encoding lets a malicious origin smugg | [curl](../by-program/curl.md) | Medium | — | 3 |
-| 44 | [3623064](../reports/3623064.md) | HTTP/1.1 Response Desynchronization via conflicting CL/TE headers | [curl](../by-program/curl.md) | Low | — | 30 |
-| 45 | [1063627](../reports/1063627.md) | HTTP Request Smuggling on https://consumer.acronis.com | [Acronis](../by-program/acronis.md) | Low | — | 16 |
-| 46 | [1063493](../reports/1063493.md) | HTTP Request Smuggling on https://promosandbox.acronis.com | [Acronis](../by-program/acronis.md) | Low | — | 12 |
-| 47 | [3793495](../reports/3793495.md) | Incomplete Suppression of  Transfer-Encoding: chunked Header in H | [curl](../by-program/curl.md) | Low | — | 7 |
-| 48 | [231510](../reports/231510.md) | Gratipay Website CSP "script-scr" includes "unsafe-inline" | [Gratipay](../by-program/gratipay.md) | Low | — | 1 |
-| 49 | [214436](../reports/214436.md) | HTTP Header Injection/HTTP_Response_Splitting | [Blockchain](../by-program/blockchain.md) | None | — | 4 |
+| 7 | [1888760](../reports/1888760.md) | HTTP Request Smuggling Due to Incorrect Parsing of Header Fields | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $1,800 | 15 |
+| 8 | [2032842](../reports/2032842.md) | HTTP Request Smuggling via Empty headers separated by CR | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.5 | $1,800 | 15 |
+| 9 | [1630668](../reports/1630668.md) |  CVE-2022-32213 - HTTP Request Smuggling Due to Flawed Parsing of | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $1,800 | 13 |
+| 10 | [1630669](../reports/1630669.md) | CVE-2022-32214 - HTTP Request Smuggling Due To Improper Delimitin | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $1,800 | 11 |
+| 11 | [1630667](../reports/1630667.md) |  CVE-2022-32215 - HTTP Request Smuggling Due to Incorrect Parsing | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $1,800 | 6 |
+| 12 | [726773](../reports/726773.md) | HTTP Request Smuggling on https://labs.data.gov | [GSA Bounty](../by-program/gsa_bbp.md) | High — CVSS 7.7 | $750 | 159 |
+| 13 | [713285](../reports/713285.md) | http request smuggling in pscp.tv and periscope.tv | [X / xAI](../by-program/x.md) | High | $560 | 24 |
+| 14 | [965267](../reports/965267.md) | Potential HTTP Request Smuggling in ruby webrick | [Ruby](../by-program/ruby.md) | Low | $500 | 53 |
+| 15 | [246803](../reports/246803.md) | [spectacles.com] Bypassing quantity limit in orders | [Snapchat](../by-program/snapchat.md) | Medium — CVSS 5.3 | $250 | 22 |
+| 16 | [1238709](../reports/1238709.md) | HTTP Request Smuggling due to accepting space before colon | [Node.js](../by-program/nodejs.md) | Medium | $250 | 18 |
+| 17 | [1238099](../reports/1238099.md) | HTTP Request Smuggling due to ignoring chunk extensions | [Node.js](../by-program/nodejs.md) | Medium | $250 | 6 |
+| 18 | [1002188](../reports/1002188.md) | Potential HTTP Request Smuggling in nodejs | [Node.js](../by-program/nodejs.md) | Low | $250 | 34 |
+| 19 | [737140](../reports/737140.md) | Mass account takeovers using HTTP Request Smuggling on https://sl | [Slack](../by-program/slack.md) | Critical — CVSS 9.3 | — | 864 |
+| 20 | [771666](../reports/771666.md) | Stealing Zomato X-Access-Token: in Bulk using HTTP Request Smuggl | [Eternal](../by-program/eternal.md) | Critical — CVSS 9.8 | — | 557 |
+| 21 | [735748](../reports/735748.md) | HTTP request smuggling using malformed Transfer-Encoding header | [Node.js](../by-program/nodejs.md) | Critical — CVSS 9.0 | — | 103 |
+| 22 | [919175](../reports/919175.md) | HTTP request smuggling on Basecamp 2 allows web cache poisoning | [Basecamp](../by-program/basecamp.md) | Critical | — | 28 |
+| 23 | [867577](../reports/867577.md) | Unauthenticated request smuggling on launchpad.37signals.com | [Basecamp](../by-program/basecamp.md) | Critical | — | 24 |
+| 24 | [648434](../reports/648434.md) | Multiple HTTP Smuggling reports | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.8 | — | 20 |
+| 25 | [740037](../reports/740037.md) | Request smuggling on admin-official.line.me could lead to account | [LY Corporation](../by-program/line.md) | High | — | 563 |
+| 26 | [867952](../reports/867952.md) | HTTP request Smuggling | [Helium](../by-program/helium.md) | High | — | 299 |
+| 27 | [922597](../reports/922597.md) | HTTP Request Smuggling due to CR-to-Hyphen conversion | [Node.js](../by-program/nodejs.md) | High — CVSS 8.5 | — | 134 |
+| 28 | [1120982](../reports/1120982.md) | HTTP Request Smuggling  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 40 |
+| 29 | [526880](../reports/526880.md) | Request smuggling on ████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 25 |
+| 30 | [715996](../reports/715996.md) | http request smuggling in  twitter.com | [X / xAI](../by-program/x.md) | High | — | 17 |
+| 31 | [866382](../reports/866382.md) | HTTP Request Smuggling | [Brave Software](../by-program/brave.md) | High | — | 12 |
+| 32 | [753939](../reports/753939.md) | HTTP SMUGGLING EXPOSED HMAC/DOS  | [Magic](../by-program/magic-bbp.md) | Medium — CVSS 6.5 | — | 74 |
+| 33 | [1098948](../reports/1098948.md) | Host Header Injection | [Kartpay](../by-program/kartpay.md) | Medium | — | 27 |
+| 34 | [2237099](../reports/2237099.md) | HTTP Request Smuggling via Content Length Obfuscation | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 18 |
+| 35 | [1631228](../reports/1631228.md) | [demo.stripo.email] HTTP request Smuggling | [Stripo Inc](../by-program/stripo.md) | Medium | — | 17 |
+| 36 | [244459](../reports/244459.md) | Apache HTTP Request Parsing Whitespace Defects | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 4.0 | — | 11 |
+| 37 | [643225](../reports/643225.md) | HTTP Request Smuggling | [JamieWeb](../by-program/jamieweb.md) | Medium | — | 10 |
+| 38 | [1524692](../reports/1524692.md) | HTTP Request Smuggling Due To Improper Delimiting of Header Field | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 9 |
+| 39 | [3648681](../reports/3648681.md) | Improper Input Validation — HTTP Response Parser Unconditionally  | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 9 |
+| 40 | [1025575](../reports/1025575.md) | Default behavior of Fastifys versioned routes can be used for cac | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.9 | — | 8 |
+| 41 | [1501679](../reports/1501679.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 7 |
+| 42 | [1665156](../reports/1665156.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium | — | 6 |
+| 43 | [1630336](../reports/1630336.md) | CVE-2022-32213 bypass via obs-fold mechanic | [Node.js](../by-program/nodejs.md) | Medium | — | 5 |
+| 44 | [3795615](../reports/3795615.md) | Duplicate chunked Transfer-Encoding lets a malicious origin smugg | [curl](../by-program/curl.md) | Medium | — | 3 |
+| 45 | [3623064](../reports/3623064.md) | HTTP/1.1 Response Desynchronization via conflicting CL/TE headers | [curl](../by-program/curl.md) | Low | — | 30 |
+| 46 | [1063627](../reports/1063627.md) | HTTP Request Smuggling on https://consumer.acronis.com | [Acronis](../by-program/acronis.md) | Low | — | 16 |
+| 47 | [1063493](../reports/1063493.md) | HTTP Request Smuggling on https://promosandbox.acronis.com | [Acronis](../by-program/acronis.md) | Low | — | 12 |
+| 48 | [3793495](../reports/3793495.md) | Incomplete Suppression of  Transfer-Encoding: chunked Header in H | [curl](../by-program/curl.md) | Low | — | 7 |
+| 49 | [231510](../reports/231510.md) | Gratipay Website CSP "script-scr" includes "unsafe-inline" | [Gratipay](../by-program/gratipay.md) | Low | — | 1 |
+| 50 | [214436](../reports/214436.md) | HTTP Header Injection/HTTP_Response_Splitting | [Blockchain](../by-program/blockchain.md) | None | — | 4 |

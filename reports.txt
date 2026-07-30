@@ -9598,6 +9598,7 @@ https://hackerone.com/reports/3575245 | Integer Overflow in curl_multi_get_handl
 https://hackerone.com/reports/3575250 | RTSP RTP Interleaved Parser Assertion Failure (Zero-Length RTP Payload)
 https://hackerone.com/reports/3575475 | Curl Telnet Handler Buffer Overflow
 https://hackerone.com/reports/3577145 | QuickSight Authorization Bypass: Chat Agents Accessible Despite Custom Permissions Denial
+https://hackerone.com/reports/3577216 | `exportReportPdf` mutation shows internal Activity
 https://hackerone.com/reports/3578842 | SQL Injection vulnerability found on ibm.com endpoint
 https://hackerone.com/reports/3580247 | Use after free in hyperfifo example
 https://hackerone.com/reports/3580511 | ActiveStorage Disk Service Path Traversal via Custom Blob Key Injection
@@ -9665,6 +9666,7 @@ https://hackerone.com/reports/3636044 | HTTP/2 PUSH_PROMISE header loss on OOM b
 https://hackerone.com/reports/3636244 | HackerOne Vulnerability Report: libcurl SSL/TLS Identity Leakage via Insecure Connection Reuse
 https://hackerone.com/reports/3637898 | OS Command Injection in `aws-cdk-lib` NodejsFunction via Unsanitized `OsCommand` Helper (Supply Chain RCE)
 https://hackerone.com/reports/3638715 | Use-After-Free race condition in url_move_hostname() via shared connection pool
+https://hackerone.com/reports/3638909 | GitHub scoped user to server tokens can escape their installation
 https://hackerone.com/reports/3639277 | Bypassing Strict SSH Server Verification via Connection Pool Reuse in libcurl
 https://hackerone.com/reports/3640932 | Missing server identity policy enforcement in SSH connection reuse allows host key verification bypass via pool poisoning
 https://hackerone.com/reports/3641229 | GitHub user to server tokens can create issues in any public repository
@@ -9789,6 +9791,7 @@ https://hackerone.com/reports/3752888 | CVE-2026-9545: exposing HTTP/3 early dat
 https://hackerone.com/reports/3754343 | CVE-2026-9546: sending old referer
 https://hackerone.com/reports/3756699 | lib/ldap.c follows attacker-controlled LDAP referrals and binds to a second server; WinLDAP builds leak current logon credentials (confirmed on Window
 https://hackerone.com/reports/3760016 | Node.js WebCrypto AES Integer Overflow Leads to Remote Process Abort (DoS)
+https://hackerone.com/reports/3761342 | Permission Model: --allow-fs-read/--allow-fs-write radix-tree prefix-boundary over-grant
 https://hackerone.com/reports/3761647 | TLS conn reuse and session cache ignore fsslctx callback and ssl_config_data flags ( incomplete fix variant of 7541ae569 )
 https://hackerone.com/reports/3761789 | Mentioned unites are at the same time .Then we have to increase the bounty.
 https://hackerone.com/reports/3764217 | Any installed app can force immediate logout and persistent DOS of authenticated Basecamp sessions via unprotected exported StartActivity
@@ -9839,7 +9842,9 @@ https://hackerone.com/reports/3802645 | verify-release rebuilds from the tarball
 https://hackerone.com/reports/3803415 | Secure cookies leaked to HTTP origins through HTTPS forwarding proxy
 https://hackerone.com/reports/3804525 | Vulnerability Report: Buffer Overflow in Path Sanitization
 https://hackerone.com/reports/3809407 | AWS *.a2z.com | Unauthenticated Clickhouse UI : Database access + SSRF
+https://hackerone.com/reports/3812439 | HTTPS Agent TLS session reuse skips hostname verification across identity policies (incomplete fix of CVE-2026-48934)
 https://hackerone.com/reports/3813932 | [Splatoon 3] Kick other players with NplnLogin message
+https://hackerone.com/reports/3816840 | HTTPS Agent PFX object-array key collision allows mTLS client identity reuse across different per-request certificates
 https://hackerone.com/reports/3817602 | Node --run POSIX positional argument escaping allows shell command injection
 https://hackerone.com/reports/3823932 | CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabling HAProxy PROXY protocol injection
 https://hackerone.com/reports/3823985 | Use-after-free in `mev_forget_socket` when `curl_easy_pause()` is called from a `CURL_POLL_REMOVE` socket callback (incomplete fix of CVE-2026-9080)
@@ -9851,3 +9856,4 @@ https://hackerone.com/reports/3831345 | CURLSHOPT_UNSHARE race can cause UAF in 
 https://hackerone.com/reports/3831432 | setopt(VERIFYPEER) from callback bypasses TLS verify on connection reuse
 https://hackerone.com/reports/3832393 | libcurl upload read callbacks miss recursive API guard, allowing prohibited multi API reentry and ASAN-confirmed UAF
 https://hackerone.com/reports/3833577 | heap-use-after-free in curl_easy_cleanup() called from callback
+https://hackerone.com/reports/3838601 | Permission Model Bypass: `trace_events.createTracing().enable()` Writes Trace Logs Outside `--allow-fs-write`

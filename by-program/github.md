@@ -1,4 +1,4 @@
-# GitHub — Disclosed Reports (32 total)
+# GitHub — Disclosed Reports (33 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -21,18 +21,19 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 15 | [2323292](../reports/2323292.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 47 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
 | 16 | [2329547](../reports/2329547.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 47 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
 | 17 | [3588801](../reports/3588801.md) | OAuth redirect uri validation bypass for :proxima_first_part | High | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-07-21 |
-| 18 | [2501036](../reports/2501036.md) | Access body and title of Internal Repo Issues in Projects | Medium | — | 99 | [ahacker1](https://hackerone.com/ahacker1) | 2024-07-31 |
-| 19 | [2484635](../reports/2484635.md) | GitHub Apps can access suspended installations via scoped us | Medium | — | 88 | [ahacker1](https://hackerone.com/ahacker1) | 2024-07-31 |
-| 20 | [2246576](../reports/2246576.md) | Self XSS in  Tag name pattern field /<username>/<reponame>/s | Medium | — | 75 | [sudi](https://hackerone.com/sudi) | 2024-04-15 |
-| 21 | [2469713](../reports/2469713.md) | View private repository NWO of deploy key via internal LFS A | Medium | — | 68 | [ahacker1](https://hackerone.com/ahacker1) | 2024-07-23 |
-| 22 | [3527771](../reports/3527771.md) | Add labels to arbitrary issues/prs & compromise github actio | Medium | — | 66 | [ahacker1](https://hackerone.com/ahacker1) | 2026-03-19 |
-| 23 | [3522254](../reports/3522254.md) | PATs without the required scope can leak issues | Medium | — | 57 | [s3rdz0](https://hackerone.com/s3rdz0) | 2026-03-19 |
-| 24 | [1690427](../reports/1690427.md) | Managing Pages  | Medium | — | 54 | [ali_shehab](https://hackerone.com/ali_shehab) | 2022-12-22 |
-| 25 | [2357443](../reports/2357443.md) | RC Between GitHub's Repo Update REST API and updateTeamsRepo | Medium | — | 49 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
-| 26 | [1938106](../reports/1938106.md) | Smuggling content in PR with refs/replace in GitHub | Medium | — | 34 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2023-08-01 |
-| 27 | [1762025](../reports/1762025.md) | Improper handling of null bytes in GitHub Actions Runner all | Medium | — | 19 | [ryotak](https://hackerone.com/ryotak) | 2023-03-09 |
-| 28 | [3641229](../reports/3641229.md) | GitHub user to server tokens can create issues in any public | Medium | — | 8 | [ahacker1](https://hackerone.com/ahacker1) | 2026-07-22 |
-| 29 | [3560256](../reports/3560256.md) | Cross-repository IDOR in `/settings/security_analysis/bypass | Medium | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-05-19 |
-| 30 | [3713965](../reports/3713965.md) | Able to bypass authorization logic and gain more access then | Medium | — | 7 | [vaib25vicky](https://hackerone.com/vaib25vicky) | 2026-07-15 |
-| 31 | [2383092](../reports/2383092.md) | Source Code and data exfiltration via Github Copilot | Low | — | 63 | [astrounder](https://hackerone.com/astrounder) | 2024-08-19 |
-| 32 | [1831528](../reports/1831528.md) | Rogue collaborators and ambiguous branch names in GitHub | None | — | 42 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2023-12-05 |
+| 18 | [3638909](../reports/3638909.md) | GitHub scoped user to server tokens can escape their install | High | — | 4 | [ahacker1](https://hackerone.com/ahacker1) | 2026-07-29 |
+| 19 | [2501036](../reports/2501036.md) | Access body and title of Internal Repo Issues in Projects | Medium | — | 99 | [ahacker1](https://hackerone.com/ahacker1) | 2024-07-31 |
+| 20 | [2484635](../reports/2484635.md) | GitHub Apps can access suspended installations via scoped us | Medium | — | 88 | [ahacker1](https://hackerone.com/ahacker1) | 2024-07-31 |
+| 21 | [2246576](../reports/2246576.md) | Self XSS in  Tag name pattern field /<username>/<reponame>/s | Medium | — | 75 | [sudi](https://hackerone.com/sudi) | 2024-04-15 |
+| 22 | [2469713](../reports/2469713.md) | View private repository NWO of deploy key via internal LFS A | Medium | — | 68 | [ahacker1](https://hackerone.com/ahacker1) | 2024-07-23 |
+| 23 | [3527771](../reports/3527771.md) | Add labels to arbitrary issues/prs & compromise github actio | Medium | — | 66 | [ahacker1](https://hackerone.com/ahacker1) | 2026-03-19 |
+| 24 | [3522254](../reports/3522254.md) | PATs without the required scope can leak issues | Medium | — | 57 | [s3rdz0](https://hackerone.com/s3rdz0) | 2026-03-19 |
+| 25 | [1690427](../reports/1690427.md) | Managing Pages  | Medium | — | 54 | [ali_shehab](https://hackerone.com/ali_shehab) | 2022-12-22 |
+| 26 | [2357443](../reports/2357443.md) | RC Between GitHub's Repo Update REST API and updateTeamsRepo | Medium | — | 49 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
+| 27 | [1938106](../reports/1938106.md) | Smuggling content in PR with refs/replace in GitHub | Medium | — | 34 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2023-08-01 |
+| 28 | [1762025](../reports/1762025.md) | Improper handling of null bytes in GitHub Actions Runner all | Medium | — | 19 | [ryotak](https://hackerone.com/ryotak) | 2023-03-09 |
+| 29 | [3641229](../reports/3641229.md) | GitHub user to server tokens can create issues in any public | Medium | — | 8 | [ahacker1](https://hackerone.com/ahacker1) | 2026-07-22 |
+| 30 | [3560256](../reports/3560256.md) | Cross-repository IDOR in `/settings/security_analysis/bypass | Medium | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-05-19 |
+| 31 | [3713965](../reports/3713965.md) | Able to bypass authorization logic and gain more access then | Medium | — | 7 | [vaib25vicky](https://hackerone.com/vaib25vicky) | 2026-07-15 |
+| 32 | [2383092](../reports/2383092.md) | Source Code and data exfiltration via Github Copilot | Low | — | 63 | [astrounder](https://hackerone.com/astrounder) | 2024-08-19 |
+| 33 | [1831528](../reports/1831528.md) | Rogue collaborators and ambiguous branch names in GitHub | None | — | 42 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2023-12-05 |
