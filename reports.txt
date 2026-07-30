@@ -8440,12 +8440,17 @@ https://hackerone.com/reports/1889161 | JWT audience claim is not verified
 https://hackerone.com/reports/1889474 | Ruby's CGI library has HTTP response splitting (HTTP header injection), leaking confidential information
 https://hackerone.com/reports/1889477 | Security Unfavorable Specifications and Implementations in the CGI::Cookie Class
 https://hackerone.com/reports/1890284 | Unrestricted File Upload on https://partner.tiktokshop.com/wsos_v2/oec_partner/upload
+https://hackerone.com/reports/1890310 | CSRF in ticket function
 https://hackerone.com/reports/1890719 | Unauthenticated Blind SSRF at https://█████ via xmlrpc.php file
+https://hackerone.com/reports/1891474 | CVE-2023-27533: Telnet option IAC injection
 https://hackerone.com/reports/1891795 | RCE vulnerability in apache-airflow-providers-apache-sqoop 3.1.0
 https://hackerone.com/reports/1891926 | Reflected XSS in https://www.acronis.com/products/cyber-protect/trial/
 https://hackerone.com/reports/1892200 | Attacker can create malicious child epics linked to a victim's epic in an unrelated group
 https://hackerone.com/reports/1892317 | XSS Reflected
+https://hackerone.com/reports/1892351 | CVE-2023-27534: SFTP path ~ resolving discrepancy
 https://hackerone.com/reports/1892780 | CVE-2023-27535: FTP too eager connection reuse
+https://hackerone.com/reports/1892888 | Users can access exams in course without having to subscribe to PREMIUM
+https://hackerone.com/reports/1893186 | Reflected XSS vulnerability with full CSP bypass in Nextcloud installations using recommended bundle
 https://hackerone.com/reports/1893800 | SQL Injection in CVE Discovery Search
 https://hackerone.com/reports/1894653 | Missing brute force protection for passwords of password protected share links
 https://hackerone.com/reports/1895135 | CVE-2023-27536: GSS delegation too eager connection re-use
