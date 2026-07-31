@@ -8463,6 +8463,8 @@ https://hackerone.com/reports/1897203 | CVE-2023-27537: HSTS double-free
 https://hackerone.com/reports/1897443 | 1 Click to 'Close Account and Refund' via POSTMESSAGE
 https://hackerone.com/reports/1898475 | CVE-2023-27538: SSH connection too eager reuse still
 https://hackerone.com/reports/1901040 | Authentication bypass on gist.github.com through SSH Certificates
+https://hackerone.com/reports/1901396 | Dos in Form Submission at https://nextcloud.com/instant-trial/
+https://hackerone.com/reports/1901706 | Stored Xss On "https://www.question.com/"
 https://hackerone.com/reports/1901713 | IDOR in backup recovery functionality
 https://hackerone.com/reports/1904097 | Potential DoS vulnerability in Django in multipart parser
 https://hackerone.com/reports/1910810 | Apache HTTP Server: mod_proxy_uwsgi HTTP response splitting (CVE-2023-27522)
