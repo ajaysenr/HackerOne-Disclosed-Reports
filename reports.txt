@@ -9585,6 +9585,7 @@ https://hackerone.com/reports/3542546 | Server-side ReDoS via user-controlled re
 https://hackerone.com/reports/3543475 | Improper Access Control in `fizzy.do` import flow allows cross-tenant ActionText reference resolution and data disclosure
 https://hackerone.com/reports/3546390 | Assertion error in node_url.cc via malformed URL format leads to Node.js crash
 https://hackerone.com/reports/3547349 | Inverted ternary in peerlist_manager::filter() allows unlimited whitelist entries per host via different ports
+https://hackerone.com/reports/3553340 | Active Storage Vips Transformer Missing validate_transformation — CVE-2025-24293 Incomplete Fix
 https://hackerone.com/reports/3556769 | Incomplete fix for CVE-2026-21637: loadSNI() in _tls_wrap.js lacks try/catch leading to Remote DoS
 https://hackerone.com/reports/3556892 | HTML Injection in DAST Trial Request Form Confirmation Email – PortSwigger
 https://hackerone.com/reports/3557138 | Arbitrary Code Execution via Scanner Bypass in **aws-diagram-mcp-server** `exec()` Namespace
@@ -9634,6 +9635,7 @@ https://hackerone.com/reports/3599248 | Bypass of Open Redirect Fix on lovable.d
 https://hackerone.com/reports/3601655 | Rails::HTML::Sanitizer.allowed_uri? returns true for entity-encoded control-character-split javascript: URLs
 https://hackerone.com/reports/3603300 | SMB READ_ANDX DataOffset not validated
 https://hackerone.com/reports/3604288 | Access to Deactivated LinkedIn Company Pages via Competitor Analytics API
+https://hackerone.com/reports/3606773 | Stored XSS via SVG Upload — check_content() Blocklist Bypass & 256-Byte Scan Limit (Self-Propagating Worm)
 https://hackerone.com/reports/3608199 | DOM XSS in `fizzy.do` import filename preview enables one-click victim account takeover
 https://hackerone.com/reports/3608522 | Unescaped username in SASL DIGEST-MD5 response allows injection
 https://hackerone.com/reports/3608558 | Blind POST SSRF via Web Push Notification Endpoint
@@ -9847,6 +9849,7 @@ https://hackerone.com/reports/3804525 | Vulnerability Report: Buffer Overflow in
 https://hackerone.com/reports/3809407 | AWS *.a2z.com | Unauthenticated Clickhouse UI : Database access + SSRF
 https://hackerone.com/reports/3812439 | HTTPS Agent TLS session reuse skips hostname verification across identity policies (incomplete fix of CVE-2026-48934)
 https://hackerone.com/reports/3813932 | [Splatoon 3] Kick other players with NplnLogin message
+https://hackerone.com/reports/3815767 | Permission Model bypass: process.report writes (and overwrites) files outside --allow-fs-write paths
 https://hackerone.com/reports/3816840 | HTTPS Agent PFX object-array key collision allows mTLS client identity reuse across different per-request certificates
 https://hackerone.com/reports/3817602 | Node --run POSIX positional argument escaping allows shell command injection
 https://hackerone.com/reports/3823932 | CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabling HAProxy PROXY protocol injection

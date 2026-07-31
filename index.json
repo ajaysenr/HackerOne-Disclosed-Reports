@@ -154788,6 +154788,64 @@
     "votes": 17
   },
   {
+    "id": 1897203,
+    "url": "https://hackerone.com/reports/1897203",
+    "title": "CVE-2023-27537: HSTS double-free",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "kurohiro",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Double Free",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-27537"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-03-08",
+    "disclosed_at": "2023-03-20",
+    "votes": 12
+  },
+  {
+    "id": 1897443,
+    "url": "https://hackerone.com/reports/1897443",
+    "title": "1 Click to 'Close Account and Refund' via POSTMESSAGE",
+    "program": "TikTok",
+    "program_handle": "tiktok",
+    "reporter": "sinayeganeh",
+    "severity": "medium",
+    "cvss": 6.3,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2023-03-08",
+    "disclosed_at": "2024-01-03",
+    "votes": 79
+  },
+  {
+    "id": 1898475,
+    "url": "https://hackerone.com/reports/1898475",
+    "title": "CVE-2023-27538: SSH connection too eager reuse still",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "nyymi",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Authentication Bypass by Primary Weakness",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-27538"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-03-09",
+    "disclosed_at": "2023-03-22",
+    "votes": 4
+  },
+  {
     "id": 1901040,
     "url": "https://hackerone.com/reports/1901040",
     "title": "Authentication bypass on gist.github.com through SSH Certificates",
@@ -175649,6 +175707,26 @@
     "votes": 4
   },
   {
+    "id": 3553340,
+    "url": "https://hackerone.com/reports/3553340",
+    "title": "Active Storage Vips Transformer Missing validate_transformation \u2014 CVE-2025-24293 Incomplete Fix",
+    "program": "Ruby on Rails",
+    "program_handle": "rails",
+    "reporter": "friedchicken112211",
+    "severity": "high",
+    "cvss": 7.5,
+    "weakness": "Path Traversal",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2025-24293"
+    ],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-02-13",
+    "disclosed_at": "2026-07-30",
+    "votes": 2
+  },
+  {
     "id": 3556769,
     "url": "https://hackerone.com/reports/3556769",
     "title": "Incomplete fix for CVE-2026-21637: loadSNI() in _tls_wrap.js lacks try/catch leading to Remote DoS",
@@ -176556,6 +176634,24 @@
     "reported_at": "2026-03-14",
     "disclosed_at": "2026-03-24",
     "votes": 66
+  },
+  {
+    "id": 3606773,
+    "url": "https://hackerone.com/reports/3606773",
+    "title": "Stored XSS via SVG Upload \u2014 check_content() Blocklist Bypass & 256-Byte Scan Limit (Self-Propagating Worm)",
+    "program": "phpBB",
+    "program_handle": "phpbb",
+    "reporter": "a7mmr",
+    "severity": "medium",
+    "cvss": 6.7,
+    "weakness": "Cross-site Scripting (XSS) - Stored",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-03-16",
+    "disclosed_at": "2026-07-30",
+    "votes": 6
   },
   {
     "id": 3608199,
@@ -180596,6 +180692,46 @@
     "votes": 7
   },
   {
+    "id": 3815767,
+    "url": "https://hackerone.com/reports/3815767",
+    "title": "Permission Model bypass: process.report writes (and overwrites) files outside --allow-fs-write paths",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "sinan-polat",
+    "severity": "low",
+    "cvss": 3.3,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-58039"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-06-21",
+    "disclosed_at": "2026-07-30",
+    "votes": 1
+  },
+  {
+    "id": 3816840,
+    "url": "https://hackerone.com/reports/3816840",
+    "title": "HTTPS Agent PFX object-array key collision allows mTLS client identity reuse across different per-request certificates",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "yottt",
+    "severity": "medium",
+    "cvss": 4.1,
+    "weakness": "Improper Authentication - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-56850"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-06-22",
+    "disclosed_at": "2026-07-29",
+    "votes": 10
+  },
+  {
     "id": 3817602,
     "url": "https://hackerone.com/reports/3817602",
     "title": "Node --run POSIX positional argument escaping allows shell command injection",
@@ -180799,5 +180935,25 @@
     "reported_at": "2026-06-30",
     "disclosed_at": "2026-06-30",
     "votes": 4
+  },
+  {
+    "id": 3838601,
+    "url": "https://hackerone.com/reports/3838601",
+    "title": "Permission Model Bypass: `trace_events.createTracing().enable()` Writes Trace Logs Outside `--allow-fs-write`",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "0xoroot",
+    "severity": "low",
+    "cvss": 3.3,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-56847"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-07-02",
+    "disclosed_at": "2026-07-29",
+    "votes": 8
   }
 ]
