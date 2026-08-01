@@ -8467,6 +8467,7 @@ https://hackerone.com/reports/1901396 | Dos in Form Submission at https://nextcl
 https://hackerone.com/reports/1901706 | Stored Xss On "https://www.question.com/"
 https://hackerone.com/reports/1901713 | IDOR in backup recovery functionality
 https://hackerone.com/reports/1904097 | Potential DoS vulnerability in Django in multipart parser
+https://hackerone.com/reports/1906897 | UAF in OpenSSL up to 3.0.7
 https://hackerone.com/reports/1910810 | Apache HTTP Server: mod_proxy_uwsgi HTTP response splitting (CVE-2023-27522)
 https://hackerone.com/reports/1911568 | Unauthenticated cache purging
 https://hackerone.com/reports/1912540 | CVE-2018-6389 exploitation - using scripts loader
