@@ -154866,6 +154866,42 @@
     "votes": 176
   },
   {
+    "id": 1901396,
+    "url": "https://hackerone.com/reports/1901396",
+    "title": "Dos in Form Submission at https://nextcloud.com/instant-trial/",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "krrish_hackk",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Uncontrolled Resource Consumption",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2023-03-11",
+    "disclosed_at": "2023-09-26",
+    "votes": 8
+  },
+  {
+    "id": 1901706,
+    "url": "https://hackerone.com/reports/1901706",
+    "title": "Stored Xss On \"https://www.question.com/\"",
+    "program": "Drugs.com",
+    "program_handle": "drugs_com",
+    "reporter": "vidaamuyarchi",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Cross-site Scripting (XSS) - Stored",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-03-12",
+    "disclosed_at": "2024-09-20",
+    "votes": 75
+  },
+  {
     "id": 1901713,
     "url": "https://hackerone.com/reports/1901713",
     "title": "IDOR in backup recovery functionality",
@@ -154902,6 +154938,26 @@
     "reported_at": "2023-03-13",
     "disclosed_at": "2023-03-20",
     "votes": 47
+  },
+  {
+    "id": 1906897,
+    "url": "https://hackerone.com/reports/1906897",
+    "title": "UAF in OpenSSL up to 3.0.7",
+    "program": "Internet Bug Bounty",
+    "program_handle": "ibb",
+    "reporter": "ogalland",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Use After Free",
+    "bounty": 2400.0,
+    "cve_ids": [
+      "CVE-2023-0215"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-03-15",
+    "disclosed_at": "2023-03-18",
+    "votes": 12
   },
   {
     "id": 1910810,
@@ -177435,6 +177491,24 @@
     "votes": 39
   },
   {
+    "id": 3644182,
+    "url": "https://hackerone.com/reports/3644182",
+    "title": "Stored XSS in nameserver field on account settings page",
+    "program": "Tucows (VDP)",
+    "program_handle": "tucows_vdp",
+    "reporter": "axolot23",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Cross-site Scripting (XSS) - Stored",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "WILDCARD",
+    "reported_at": "2026-04-02",
+    "disclosed_at": "2026-07-31",
+    "votes": 5
+  },
+  {
     "id": 3645361,
     "url": "https://hackerone.com/reports/3645361",
     "title": "Data race in Curl_dnscache_add_negative() corrupts shared DNS cache \u2014 heap corruption and double-free when using CURLOPT_SHARE with CURL_LOCK_DATA_DNS",
@@ -178827,6 +178901,24 @@
     "reported_at": "2026-05-09",
     "disclosed_at": "2026-05-09",
     "votes": 10
+  },
+  {
+    "id": 3723248,
+    "url": "https://hackerone.com/reports/3723248",
+    "title": "HTTP Request Smuggling via Connection: close<TAB> in Node.js llhttp parser",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "nadav0077",
+    "severity": "medium",
+    "cvss": 5.8,
+    "weakness": "HTTP Request Smuggling",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-05-09",
+    "disclosed_at": "2026-07-31",
+    "votes": 6
   },
   {
     "id": 3723458,

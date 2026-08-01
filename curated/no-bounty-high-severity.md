@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1734 total)
+# High/Critical Severity — No Bounty Paid (1735 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -782,6 +782,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1787644](../reports/1787644.md) | Any organization's assets pending review can be downloaded | [HackerOne](../by-program/security.md) | High — CVSS 8.3 | Resolved | 75 |
 | [3592387](../reports/3592387.md) | Potential Subdomain Takeover on IBM.com domain. | [IBM](../by-program/ibm.md) | High | Resolved | 75 |
 | [1180380](../reports/1180380.md) | CVE-2021-22901: TLS session caching disaster | [curl](../by-program/curl.md) | High | Resolved | 75 |
+| [1901706](../reports/1901706.md) | Stored Xss On "https://www.question.com/" | [Drugs.com](../by-program/drugs_com.md) | High | Resolved | 75 |
 | [2968039](../reports/2968039.md) | Insecure Direct Object Reference (IDOR) in GraphQL deleteProfileI | [Autodesk](../by-program/autodesk.md) | High | Resolved | 75 |
 | [423797](../reports/423797.md) | Passive stored XSS at broadcast room | [Chaturbate](../by-program/chaturbate.md) | High — CVSS 8.9 | Resolved | 74 |
 | [2944357](../reports/2944357.md) | Unauthorized Reservation Cancellation Through IDOR Vulnerability | [Yelp](../by-program/yelp.md) | High — CVSS 8.6 | Duplicate | 74 |

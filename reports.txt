@@ -9681,6 +9681,7 @@ https://hackerone.com/reports/3641229 | GitHub user to server tokens can create 
 https://hackerone.com/reports/3641893 | Cookie attribute TAB injection regression in Set-Cookie parsing
 https://hackerone.com/reports/3642555 | CVE-2026-5545: wrong reuse of HTTP Negotiate connection
 https://hackerone.com/reports/3642600 | Authorization header leak in ssrf_filter via cross-host redirect leads to credential theft and unauthorized access
+https://hackerone.com/reports/3644182 | Stored XSS in nameserver field on account settings page
 https://hackerone.com/reports/3645361 | Data race in Curl_dnscache_add_negative() corrupts shared DNS cache — heap corruption and double-free when using CURLOPT_SHARE with CURL_LOCK_DATA_DNS
 https://hackerone.com/reports/3645415 | # SCURLOPT_SSH_KNOWNHOSTS and host fingerprint pins are silently bypassed when an SSH connection is reused from the connection pool
 https://hackerone.com/reports/3646072 | Negotiate connection reuse with wrong credentials when using CURLAUTH_ANY
@@ -9754,6 +9755,7 @@ https://hackerone.com/reports/3720313 | Proxy credentials leaked in ERR_PROXY_TU
 https://hackerone.com/reports/3721183 | CVE-2026-8458: wrong reuse for different services
 https://hackerone.com/reports/3721519 | Liberapay member team twitter account broken Link Hijacking via Expired Twitter Account Link
 https://hackerone.com/reports/3723002 | another liberapay member team twitter account broken Link Hijacking via Expired Twitter Account Link
+https://hackerone.com/reports/3723248 | HTTP Request Smuggling via Connection: close<TAB> in Node.js llhttp parser
 https://hackerone.com/reports/3723458 | 1-Click Account Takeover via Open Redirect through Regex Bypass in Domain Validation
 https://hackerone.com/reports/3725659 | Kerberos/SPNEGO Connection Reuse Vulnerability
 https://hackerone.com/reports/3733905 | CVE-2026-8924: trailing dot domain super cookie
