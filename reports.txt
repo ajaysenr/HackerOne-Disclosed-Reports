@@ -8485,6 +8485,8 @@ https://hackerone.com/reports/1913733 | CVE-2023-28319: UAF in SSH sha256 finger
 https://hackerone.com/reports/1913951 | No rate limit while adding Additional emails feature
 https://hackerone.com/reports/1914115 | End-to-end encrypted file-drops can be made inaccessible
 https://hackerone.com/reports/1915808 | Reflected Cross-site Scripting (XSS) at https://www.tiktok.com/
+https://hackerone.com/reports/1916285 | Arbitrary escape sequence injection in docker-machine from worker nodes
+https://hackerone.com/reports/1916400 | High resource consumption by insufficient sanitization of forum threads pagination
 https://hackerone.com/reports/1916565 | Twitter Account hijack @nextcloudfrance
 https://hackerone.com/reports/1916583 | Authenticated but unauthorized users may enumerate Application names via the API
 https://hackerone.com/reports/1918362 | Any one can view collaborater email address via  path /reports/<id>/participants
