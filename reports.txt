@@ -8471,13 +8471,17 @@ https://hackerone.com/reports/1906897 | UAF in OpenSSL up to 3.0.7
 https://hackerone.com/reports/1910810 | Apache HTTP Server: mod_proxy_uwsgi HTTP response splitting (CVE-2023-27522)
 https://hackerone.com/reports/1911568 | Unauthenticated cache purging
 https://hackerone.com/reports/1912540 | CVE-2018-6389 exploitation - using scripts loader
+https://hackerone.com/reports/1912671 | Sensitive Data Exposure via wp-config.php file
 https://hackerone.com/reports/1912770 | CVE-2023-27533: TELNET option IAC injection
 https://hackerone.com/reports/1912777 | CVE-2023-27534: SFTP path ~ resolving discrepancy
 https://hackerone.com/reports/1912778 | CVE-2023-27535: FTP too eager connection reuse
 https://hackerone.com/reports/1912782 | CVE-2023-27536: GSS delegation too eager connection re-use
 https://hackerone.com/reports/1912783 | CVE-2023-27538: SSH connection too eager reuse still
+https://hackerone.com/reports/1913095 | Blind SSRF as normal user from mailapp
 https://hackerone.com/reports/1913110 | CVE-2023-27537: HSTS double-free
 https://hackerone.com/reports/1913263 | HTML Injection at https://stage.firefoxmonitor.nonprod.cloudops.mozgcp.net/user/unsubscribe
+https://hackerone.com/reports/1913309 | Race condition leads to add more than 5 email at Data breaches monitor system at https://stage.firefoxmonitor.nonprod.cloudops.mozgcp.net
+https://hackerone.com/reports/1913733 | CVE-2023-28319: UAF in SSH sha256 fingerprint check
 https://hackerone.com/reports/1913951 | No rate limit while adding Additional emails feature
 https://hackerone.com/reports/1914115 | End-to-end encrypted file-drops can be made inaccessible
 https://hackerone.com/reports/1915808 | Reflected Cross-site Scripting (XSS) at https://www.tiktok.com/
