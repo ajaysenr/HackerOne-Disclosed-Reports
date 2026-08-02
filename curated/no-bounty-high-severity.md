@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1735 total)
+# High/Critical Severity — No Bounty Paid (1736 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -437,6 +437,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1332433](../reports/1332433.md) | RCE on 17 different Docker containers on your network | [Nextcloud](../by-program/nextcloud.md) | Critical | Resolved | 10 |
 | [221757](../reports/221757.md) | Blind SQL Injection | [ok.ru](../by-program/ok.md) | Critical | Resolved | 10 |
 | [405694](../reports/405694.md) | [apex-publish-static-files] Command Injection on connectString | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | Resolved | 10 |
+| [1912671](../reports/1912671.md) | Sensitive Data Exposure via wp-config.php file | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 10 |
 | [301458](../reports/301458.md) | Remote Code Execution in Wordpress Desktop | [Automattic](../by-program/automattic.md) | Critical | Resolved | 10 |
 | [1887996](../reports/1887996.md) | DoS at █████(CVE-2018-6389) | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 10 |
 | [182234](../reports/182234.md) | Unsecured Grafana instance | [Pushwoosh](../by-program/pushwoosh.md) | Critical | Resolved | 9 |

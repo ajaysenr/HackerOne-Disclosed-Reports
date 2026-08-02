@@ -9872,3 +9872,4 @@ https://hackerone.com/reports/3831432 | setopt(VERIFYPEER) from callback bypasse
 https://hackerone.com/reports/3832393 | libcurl upload read callbacks miss recursive API guard, allowing prohibited multi API reentry and ASAN-confirmed UAF
 https://hackerone.com/reports/3833577 | heap-use-after-free in curl_easy_cleanup() called from callback
 https://hackerone.com/reports/3838601 | Permission Model Bypass: `trace_events.createTracing().enable()` Writes Trace Logs Outside `--allow-fs-write`
+https://hackerone.com/reports/3878586 | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, hide_from_lists) and uses frozen visibility, exposing donat

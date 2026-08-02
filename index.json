@@ -155018,6 +155018,24 @@
     "votes": 8
   },
   {
+    "id": 1912671,
+    "url": "https://hackerone.com/reports/1912671",
+    "title": "Sensitive Data Exposure via wp-config.php file",
+    "program": "U.S. Dept Of Defense",
+    "program_handle": "deptofdefense",
+    "reporter": "0r10nh4ck",
+    "severity": "critical",
+    "cvss": null,
+    "weakness": "Information Disclosure",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-03-20",
+    "disclosed_at": "2023-05-15",
+    "votes": 10
+  },
+  {
     "id": 1912770,
     "url": "https://hackerone.com/reports/1912770",
     "title": "CVE-2023-27533: TELNET option IAC injection",
@@ -155118,6 +155136,26 @@
     "votes": 12
   },
   {
+    "id": 1913095,
+    "url": "https://hackerone.com/reports/1913095",
+    "title": "Blind SSRF as normal user from mailapp",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "unknownsh",
+    "severity": "low",
+    "cvss": 3.5,
+    "weakness": "Server-Side Request Forgery (SSRF)",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-33184"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-03-20",
+    "disclosed_at": "2023-05-30",
+    "votes": 14
+  },
+  {
     "id": 1913110,
     "url": "https://hackerone.com/reports/1913110",
     "title": "CVE-2023-27537: HSTS double-free",
@@ -155154,6 +155192,44 @@
     "reported_at": "2023-03-20",
     "disclosed_at": "2023-10-20",
     "votes": 38
+  },
+  {
+    "id": 1913309,
+    "url": "https://hackerone.com/reports/1913309",
+    "title": "Race condition leads to add more than 5 email at Data breaches monitor system at https://stage.firefoxmonitor.nonprod.cloudops.mozgcp.net",
+    "program": "Mozilla",
+    "program_handle": "mozilla",
+    "reporter": "sushantd19",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2023-03-20",
+    "disclosed_at": "2024-10-18",
+    "votes": 49
+  },
+  {
+    "id": 1913733,
+    "url": "https://hackerone.com/reports/1913733",
+    "title": "CVE-2023-28319: UAF in SSH sha256 fingerprint check",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "wct",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Use After Free",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-28319"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-03-21",
+    "disclosed_at": "2023-05-24",
+    "votes": 20
   },
   {
     "id": 1913951,
@@ -181047,5 +181123,23 @@
     "reported_at": "2026-07-02",
     "disclosed_at": "2026-07-29",
     "votes": 8
+  },
+  {
+    "id": 3878586,
+    "url": "https://hackerone.com/reports/3878586",
+    "title": "Unauthenticated team \"income/payments\" export ignores donor privacy settings (hide_giving, hide_from_lists) and uses frozen visibility, exposing donat",
+    "program": "Liberapay",
+    "program_handle": "liberapay",
+    "reporter": "its9me",
+    "severity": "medium",
+    "cvss": 5.3,
+    "weakness": null,
+    "bounty": 100.0,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-07-21",
+    "disclosed_at": "2026-08-01",
+    "votes": 12
   }
 ]

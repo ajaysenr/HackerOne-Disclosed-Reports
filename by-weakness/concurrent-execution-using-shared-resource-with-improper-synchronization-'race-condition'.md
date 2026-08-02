@@ -1,4 +1,4 @@
-# Weakness: Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition') (11 reports)
+# Weakness: Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition') (12 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -12,6 +12,7 @@
 | 6 | [474021](../reports/474021.md) | Race condition vulnerability on "This Rocks" button. | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 21 |
 | 7 | [454949](../reports/454949.md) | Race Condition in Flag Submission | [HackerOne](../by-program/security.md) | Low | — | 91 |
 | 8 | [340191](../reports/340191.md) | Session works after logout from Shopify account | [Shopify](../by-program/shopify.md) | Low | — | 68 |
-| 9 | [2954286](../reports/2954286.md) | CVE-2025-0665: eventfd double close | [curl](../by-program/curl.md) | Low | — | 24 |
-| 10 | [1132171](../reports/1132171.md) | Race condition allows to send multiple times feedback for the hac | [HackerOne](../by-program/security.md) | Low — CVSS 2.7 | — | 17 |
-| 11 | [481654](../reports/481654.md) | No Rate On Add Suggest | [Weblate](../by-program/weblate.md) | Low | — | 10 |
+| 9 | [1913309](../reports/1913309.md) | Race condition leads to add more than 5 email at Data breaches mo | [Mozilla](../by-program/mozilla.md) | Low | — | 49 |
+| 10 | [2954286](../reports/2954286.md) | CVE-2025-0665: eventfd double close | [curl](../by-program/curl.md) | Low | — | 24 |
+| 11 | [1132171](../reports/1132171.md) | Race condition allows to send multiple times feedback for the hac | [HackerOne](../by-program/security.md) | Low — CVSS 2.7 | — | 17 |
+| 12 | [481654](../reports/481654.md) | No Rate On Add Suggest | [Weblate](../by-program/weblate.md) | Low | — | 10 |
