@@ -8493,8 +8493,10 @@ https://hackerone.com/reports/1918362 | Any one can view collaborater email addr
 https://hackerone.com/reports/1918525 | Brute force protection allows to send more requests than intended
 https://hackerone.com/reports/1920908 | Access to the business emails of Rockstar Support agents through the support platform
 https://hackerone.com/reports/1921606 | Stored XSS via ' profile ' at https://www.miroyalcanin.cl/
+https://hackerone.com/reports/1922736 | Limited Disclosure: Employee credentials checked in to github (fixed)
 https://hackerone.com/reports/1923672 | Account takeover due to insufficient URL validation on RelayState parameter
 https://hackerone.com/reports/1924212 | Improper restriction of excessive authentication attempts on WebDAV endpoint
+https://hackerone.com/reports/1924355 | Notes attachments render HTML in preview mode
 https://hackerone.com/reports/1927480 | DiffieHellman doesn't generate keys after setting a key
 https://hackerone.com/reports/1929567 | ReDoS( Ruby, Time)
 https://hackerone.com/reports/1930763 | RichText parser vulnerability in scheduled posts allows XSS
