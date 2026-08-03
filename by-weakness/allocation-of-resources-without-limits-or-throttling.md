@@ -1,4 +1,4 @@
-# Weakness: Allocation of Resources Without Limits or Throttling (20 reports)
+# Weakness: Allocation of Resources Without Limits or Throttling (21 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -11,16 +11,17 @@
 | 5 | [2645836](../reports/2645836.md) | [CVE-2024-35176] DoS vulnerability in REXML | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.3 | $2,142 | 19 |
 | 6 | [2622671](../reports/2622671.md) | Unbounded memory growth with session handling in TLSv1.3 | [Internet Bug Bounty](../by-program/ibb.md) | Low | $497 | 35 |
 | 7 | [1614328](../reports/1614328.md) | CVE-2022-32205: Set-Cookie denial of service | [Internet Bug Bounty](../by-program/ibb.md) | Low | $480 | 6 |
-| 8 | [712065](../reports/712065.md) | Prototype pollution attack (lodash) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.4 | — | 20 |
-| 9 | [3125820](../reports/3125820.md) | HTTP/2 CONTINUATION Flood Vulnerability | [curl](../by-program/curl.md) | High | — | 14 |
-| 10 | [2939077](../reports/2939077.md) | CVE-2024-56374 Potential denial-of-service in IPv6 validation | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 29 |
-| 11 | [3108869](../reports/3108869.md) | Denial of Service by memory exhaustion in net/imap | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 23 |
-| 12 | [1826048](../reports/1826048.md) | CVE-2023-23916: HTTP multi-header compression denial of service | [curl](../by-program/curl.md) | Medium — CVSS 5.3 | — | 16 |
-| 13 | [2552192](../reports/2552192.md) | Denial of Service in curl Request - HTTP headers eat all memory | [curl](../by-program/curl.md) | Medium — CVSS 6.3 | — | 6 |
-| 14 | [1886139](../reports/1886139.md) | HTTP multi-header compression denial of service | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.3 | — | 5 |
-| 15 | [1085079](../reports/1085079.md) | No Limit on Email Subscription | [OpenMage](../by-program/openmage.md) | Low | — | 12 |
-| 16 | [3788931](../reports/3788931.md) | CVE-2026-11586: WS Auto-PONG memory exhaustion | [curl](../by-program/curl.md) | Low | — | 2 |
-| 17 | [3089595](../reports/3089595.md) | Memory leak from doh_write_cb | [curl](../by-program/curl.md) | None | — | 9 |
-| 18 | [3734947](../reports/3734947.md) | HTTP/3 paused transfer buffers incoming data without bound up to  | [curl](../by-program/curl.md) | None | — | 5 |
-| 19 | [3735080](../reports/3735080.md) | libssh SFTP initialization ignores CURLOPT_TIMEOUT, hangs indefin | [curl](../by-program/curl.md) | None | — | 5 |
-| 20 | [3734020](../reports/3734020.md) | HTTP/2 proxy CONNECT tunnel unbounded 1xx chain (missing Curl_bum | [curl](../by-program/curl.md) | None | — | 2 |
+| 8 | [1916400](../reports/1916400.md) | High resource consumption by insufficient sanitization of forum t | [Flickr](../by-program/flickr.md) | Medium — CVSS 5.3 | $479 | 74 |
+| 9 | [712065](../reports/712065.md) | Prototype pollution attack (lodash) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.4 | — | 20 |
+| 10 | [3125820](../reports/3125820.md) | HTTP/2 CONTINUATION Flood Vulnerability | [curl](../by-program/curl.md) | High | — | 14 |
+| 11 | [2939077](../reports/2939077.md) | CVE-2024-56374 Potential denial-of-service in IPv6 validation | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 29 |
+| 12 | [3108869](../reports/3108869.md) | Denial of Service by memory exhaustion in net/imap | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 23 |
+| 13 | [1826048](../reports/1826048.md) | CVE-2023-23916: HTTP multi-header compression denial of service | [curl](../by-program/curl.md) | Medium — CVSS 5.3 | — | 16 |
+| 14 | [2552192](../reports/2552192.md) | Denial of Service in curl Request - HTTP headers eat all memory | [curl](../by-program/curl.md) | Medium — CVSS 6.3 | — | 6 |
+| 15 | [1886139](../reports/1886139.md) | HTTP multi-header compression denial of service | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.3 | — | 5 |
+| 16 | [1085079](../reports/1085079.md) | No Limit on Email Subscription | [OpenMage](../by-program/openmage.md) | Low | — | 12 |
+| 17 | [3788931](../reports/3788931.md) | CVE-2026-11586: WS Auto-PONG memory exhaustion | [curl](../by-program/curl.md) | Low | — | 2 |
+| 18 | [3089595](../reports/3089595.md) | Memory leak from doh_write_cb | [curl](../by-program/curl.md) | None | — | 9 |
+| 19 | [3734947](../reports/3734947.md) | HTTP/3 paused transfer buffers incoming data without bound up to  | [curl](../by-program/curl.md) | None | — | 5 |
+| 20 | [3735080](../reports/3735080.md) | libssh SFTP initialization ignores CURLOPT_TIMEOUT, hangs indefin | [curl](../by-program/curl.md) | None | — | 5 |
+| 21 | [3734020](../reports/3734020.md) | HTTP/2 proxy CONNECT tunnel unbounded 1xx chain (missing Curl_bum | [curl](../by-program/curl.md) | None | — | 2 |

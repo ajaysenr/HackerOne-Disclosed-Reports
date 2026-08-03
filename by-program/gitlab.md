@@ -1,4 +1,4 @@
-# GitLab — Disclosed Reports (236 total)
+# GitLab — Disclosed Reports (237 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -219,24 +219,25 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 213 | [182487](../reports/182487.md) | CSRF Token Bypass in Account Deletion | Low | — | 7 | [7h0r4pp4n](https://hackerone.com/7h0r4pp4n) | 2017-04-20 |
 | 214 | [211065](../reports/211065.md) | Gitlab.com is vulnerable to reverse tabnabbing. | Low — CVSS 3.5 | — | 7 | [edoverflow](https://hackerone.com/edoverflow) | 2017-03-21 |
 | 215 | [729341](../reports/729341.md) | Double linking cause XSS (but blokeced by CSP in gitlab.com) | Low | — | 6 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2020-01-20 |
-| 216 | [636560](../reports/636560.md) | Project Milestones Disclosed Via Groups When the Victim disa | Low | — | 4 | [rockrzhackr9z](https://hackerone.com/rockrzhackr9z) | 2019-12-13 |
-| 217 | [224198](../reports/224198.md) | Missing/Breach of Internal Security Boundary - Access to Job | Low | — | 0 | [pruby](https://hackerone.com/pruby) | 2017-06-28 |
-| 218 | [2676025](../reports/2676025.md) | Login email verification bypass via `/oauth/token`. | None | — | 66 | [cybxis](https://hackerone.com/cybxis) | 2024-09-03 |
-| 219 | [2668302](../reports/2668302.md) | Removed Guest role user who dosent have access to private pr | None | — | 37 | [tarun_sec](https://hackerone.com/tarun_sec) | 2024-09-18 |
-| 220 | [149598](../reports/149598.md) | Insecure 2FA/authentication implementation creates a brute f | None | — | 32 | [yaworsk](https://hackerone.com/yaworsk) | 2016-10-28 |
-| 221 | [174983](../reports/174983.md) | Mailgun misconfiguration leads to email snooping and postmas | None | — | 31 | [fransrosen](https://hackerone.com/fransrosen) | 2016-12-06 |
-| 222 | [128085](../reports/128085.md) | Bypassing password authentication of users that have 2FA ena | None | — | 26 | [jobert](https://hackerone.com/jobert) | 2016-04-18 |
-| 223 | [136333](../reports/136333.md) | Persistent XSS on public wiki pages | None | — | 14 | [jobert](https://hackerone.com/jobert) | 2016-07-27 |
-| 224 | [493791](../reports/493791.md) | Inadequate cache control in gitter allows to view private ch | None | — | 13 | [dhakal_ananda](https://hackerone.com/dhakal_ananda) | 2019-03-08 |
-| 225 | [135937](../reports/135937.md) | SSRF when importing a project from a git repo by URL | None | — | 12 | [strukt](https://hackerone.com/strukt) | 2018-05-29 |
-| 226 | [159984](../reports/159984.md) | XSS On meta tags in profile page | None | — | 11 | [plazmaz](https://hackerone.com/plazmaz) | 2016-08-21 |
-| 227 | [128051](../reports/128051.md) | Attacker can extract list of private project's project membe | None | — | 10 | [jobert](https://hackerone.com/jobert) | 2016-08-01 |
-| 228 | [118024](../reports/118024.md) | Markdown based stored XSS (IE only) | None | — | 9 | [a0xnirudh](https://hackerone.com/a0xnirudh) | 2017-05-03 |
-| 229 | [129736](../reports/129736.md) | Persistent XSS on public project page | None | — | 8 | [jobert](https://hackerone.com/jobert) | 2016-05-03 |
-| 230 | [134305](../reports/134305.md) | Private snippets in public / internal projects leaked though | None | — | 7 | [jobert](https://hackerone.com/jobert) | 2016-05-03 |
-| 231 | [134299](../reports/134299.md) | Attacker can post notes on private MR, snippets, and issues | None | — | 6 | [jobert](https://hackerone.com/jobert) | 2016-05-03 |
-| 232 | [133717](../reports/133717.md) | GFM renderer leaks external issue tracker URL of private pro | None | — | 6 | [jobert](https://hackerone.com/jobert) | 2017-06-08 |
-| 233 | [134292](../reports/134292.md) | Attacker can delete (and read) private project webhooks | None | — | 6 | [jobert](https://hackerone.com/jobert) | 2016-05-03 |
-| 234 | [134300](../reports/134300.md) | Confidential issues leaked in public projects when attached  | None | — | 5 | [jobert](https://hackerone.com/jobert) | 2016-05-03 |
-| 235 | [801973](../reports/801973.md) | Email notification about login email changed is not received | None | — | 3 | [shaileshpratapwar](https://hackerone.com/shaileshpratapwar) | 2020-03-25 |
-| 236 | [1696814](../reports/1696814.md) | No Restriction on password | None | — | 2 | [mta-sts](https://hackerone.com/mta-sts) | 2022-09-13 |
+| 216 | [1916285](../reports/1916285.md) | Arbitrary escape sequence injection in docker-machine from w | Low — CVSS 1.8 | — | 5 | [mehmil](https://hackerone.com/mehmil) | 2023-06-02 |
+| 217 | [636560](../reports/636560.md) | Project Milestones Disclosed Via Groups When the Victim disa | Low | — | 4 | [rockrzhackr9z](https://hackerone.com/rockrzhackr9z) | 2019-12-13 |
+| 218 | [224198](../reports/224198.md) | Missing/Breach of Internal Security Boundary - Access to Job | Low | — | 0 | [pruby](https://hackerone.com/pruby) | 2017-06-28 |
+| 219 | [2676025](../reports/2676025.md) | Login email verification bypass via `/oauth/token`. | None | — | 66 | [cybxis](https://hackerone.com/cybxis) | 2024-09-03 |
+| 220 | [2668302](../reports/2668302.md) | Removed Guest role user who dosent have access to private pr | None | — | 37 | [tarun_sec](https://hackerone.com/tarun_sec) | 2024-09-18 |
+| 221 | [149598](../reports/149598.md) | Insecure 2FA/authentication implementation creates a brute f | None | — | 32 | [yaworsk](https://hackerone.com/yaworsk) | 2016-10-28 |
+| 222 | [174983](../reports/174983.md) | Mailgun misconfiguration leads to email snooping and postmas | None | — | 31 | [fransrosen](https://hackerone.com/fransrosen) | 2016-12-06 |
+| 223 | [128085](../reports/128085.md) | Bypassing password authentication of users that have 2FA ena | None | — | 26 | [jobert](https://hackerone.com/jobert) | 2016-04-18 |
+| 224 | [136333](../reports/136333.md) | Persistent XSS on public wiki pages | None | — | 14 | [jobert](https://hackerone.com/jobert) | 2016-07-27 |
+| 225 | [493791](../reports/493791.md) | Inadequate cache control in gitter allows to view private ch | None | — | 13 | [dhakal_ananda](https://hackerone.com/dhakal_ananda) | 2019-03-08 |
+| 226 | [135937](../reports/135937.md) | SSRF when importing a project from a git repo by URL | None | — | 12 | [strukt](https://hackerone.com/strukt) | 2018-05-29 |
+| 227 | [159984](../reports/159984.md) | XSS On meta tags in profile page | None | — | 11 | [plazmaz](https://hackerone.com/plazmaz) | 2016-08-21 |
+| 228 | [128051](../reports/128051.md) | Attacker can extract list of private project's project membe | None | — | 10 | [jobert](https://hackerone.com/jobert) | 2016-08-01 |
+| 229 | [118024](../reports/118024.md) | Markdown based stored XSS (IE only) | None | — | 9 | [a0xnirudh](https://hackerone.com/a0xnirudh) | 2017-05-03 |
+| 230 | [129736](../reports/129736.md) | Persistent XSS on public project page | None | — | 8 | [jobert](https://hackerone.com/jobert) | 2016-05-03 |
+| 231 | [134305](../reports/134305.md) | Private snippets in public / internal projects leaked though | None | — | 7 | [jobert](https://hackerone.com/jobert) | 2016-05-03 |
+| 232 | [134299](../reports/134299.md) | Attacker can post notes on private MR, snippets, and issues | None | — | 6 | [jobert](https://hackerone.com/jobert) | 2016-05-03 |
+| 233 | [133717](../reports/133717.md) | GFM renderer leaks external issue tracker URL of private pro | None | — | 6 | [jobert](https://hackerone.com/jobert) | 2017-06-08 |
+| 234 | [134292](../reports/134292.md) | Attacker can delete (and read) private project webhooks | None | — | 6 | [jobert](https://hackerone.com/jobert) | 2016-05-03 |
+| 235 | [134300](../reports/134300.md) | Confidential issues leaked in public projects when attached  | None | — | 5 | [jobert](https://hackerone.com/jobert) | 2016-05-03 |
+| 236 | [801973](../reports/801973.md) | Email notification about login email changed is not received | None | — | 3 | [shaileshpratapwar](https://hackerone.com/shaileshpratapwar) | 2020-03-25 |
+| 237 | [1696814](../reports/1696814.md) | No Restriction on password | None | — | 2 | [mta-sts](https://hackerone.com/mta-sts) | 2022-09-13 |
