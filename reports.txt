@@ -8497,7 +8497,9 @@ https://hackerone.com/reports/1922736 | Limited Disclosure: Employee credentials
 https://hackerone.com/reports/1923672 | Account takeover due to insufficient URL validation on RelayState parameter
 https://hackerone.com/reports/1924212 | Improper restriction of excessive authentication attempts on WebDAV endpoint
 https://hackerone.com/reports/1924355 | Notes attachments render HTML in preview mode
+https://hackerone.com/reports/1927360 | Previously created sessions continue being valid after 2FA activation
 https://hackerone.com/reports/1927480 | DiffieHellman doesn't generate keys after setting a key
+https://hackerone.com/reports/1927499 | Testing flow includes a DeepSource secret
 https://hackerone.com/reports/1929567 | ReDoS( Ruby, Time)
 https://hackerone.com/reports/1930763 | RichText parser vulnerability in scheduled posts allows XSS
 https://hackerone.com/reports/1935151 | SQL Injection at https://████ via ███ parameter
