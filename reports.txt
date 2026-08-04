@@ -8501,6 +8501,8 @@ https://hackerone.com/reports/1927360 | Previously created sessions continue bei
 https://hackerone.com/reports/1927480 | DiffieHellman doesn't generate keys after setting a key
 https://hackerone.com/reports/1927499 | Testing flow includes a DeepSource secret
 https://hackerone.com/reports/1929567 | ReDoS( Ruby, Time)
+https://hackerone.com/reports/1929597 | CVE-2023-28320: siglongjmp race condition
+https://hackerone.com/reports/1929915 | Bypass for forced re-authentication upon biometrics change
 https://hackerone.com/reports/1930763 | RichText parser vulnerability in scheduled posts allows XSS
 https://hackerone.com/reports/1935151 | SQL Injection at https://████ via ███ parameter
 https://hackerone.com/reports/1935628 | HTML injection possible with soft email confirmations when Administrator manually confirms attacker email address
