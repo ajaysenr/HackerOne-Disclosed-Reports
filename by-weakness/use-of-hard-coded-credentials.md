@@ -1,4 +1,4 @@
-# Weakness: Use of Hard-coded Credentials (8 reports)
+# Weakness: Use of Hard-coded Credentials (9 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -10,5 +10,6 @@
 | 4 | [1580567](../reports/1580567.md) | Exposed valid AWS, Mysql, Sendgrid and other secrets | [Glovo](../by-program/glovo.md) | Critical — CVSS 10.0 | — | 21 |
 | 5 | [1368690](../reports/1368690.md) | Hardcoded AWS credentials in ███████.msi | [8x8](../by-program/8x8-bounty.md) | Critical | — | 7 |
 | 6 | [1957430](../reports/1957430.md) | Credential leak on GitHub: https://github.com/█/█/ (Peoplesoft CR | [8x8](../by-program/8x8-bounty.md) | Low | — | 47 |
-| 7 | [291200](../reports/291200.md) | Hard Coded username and password in registry | [Kaspersky](../by-program/kaspersky.md) | None | — | 17 |
-| 8 | [792850](../reports/792850.md) | Hard-coded API keys at NordVpn Android App | [Nord Security](../by-program/nordsecurity.md) | None | — | 11 |
+| 7 | [1927499](../reports/1927499.md) | Testing flow includes a DeepSource secret | [Weblate](../by-program/weblate.md) | Low | — | 7 |
+| 8 | [291200](../reports/291200.md) | Hard Coded username and password in registry | [Kaspersky](../by-program/kaspersky.md) | None | — | 17 |
+| 9 | [792850](../reports/792850.md) | Hard-coded API keys at NordVpn Android App | [Nord Security](../by-program/nordsecurity.md) | None | — | 11 |

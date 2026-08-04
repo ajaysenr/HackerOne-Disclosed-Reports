@@ -9558,6 +9558,7 @@ https://hackerone.com/reports/3473145 | Unauthenticated SSRF in Voxtelesys integ
 https://hackerone.com/reports/3473696 | [revive-adserver] Reflected XSS in Banner Delivery Options via cap parameter
 https://hackerone.com/reports/3473882 | TLS PSK/ALPN Callback Exceptions Bypass Error Handlers, Causing DoS and FD Leak
 https://hackerone.com/reports/3475626 | Session Cookie Leakage via Static Header Field in WebViewerFragment
+https://hackerone.com/reports/3478646 | GitHub Retired UsernameTakeover From  [aws/████████]
 https://hackerone.com/reports/3479692 | Unauthenticated SSRF via Public Reference API -Sharing Token Bypass
 https://hackerone.com/reports/3480841 | Permission Model Bypass in realpathSync.native Allows File Existence Disclosure
 https://hackerone.com/reports/3483708 | Valid share tokens allow to access tempory upload files of share owner
@@ -9580,6 +9581,7 @@ https://hackerone.com/reports/3511792 | HashDoS in V8
 https://hackerone.com/reports/3511998 | Private circle can be added to another circle via API despite visibility restriction
 https://hackerone.com/reports/3514122 | Password Reuse Vulnerability on AWS Sign-in Page via Password Reset Flow leads to Security Policy Violation
 https://hackerone.com/reports/3514263 | libcurl: Improper Authentication State Management on Cross-Protocol Redirects
+https://hackerone.com/reports/3514640 | Unauthenticated Path Traversal (LFI) via /custom-sounds/ when CustomSounds uses FileSystem storage
 https://hackerone.com/reports/3516186 | Cookie Max-Age Integer Overflow Vulnerability
 https://hackerone.com/reports/3516202 | Cookie Replacement Use-After-Free Vulnerability
 https://hackerone.com/reports/3516878 | Cross‑origin cookies leak and injection risk when using a custom Host header
@@ -9881,3 +9883,4 @@ https://hackerone.com/reports/3832393 | libcurl upload read callbacks miss recur
 https://hackerone.com/reports/3833577 | heap-use-after-free in curl_easy_cleanup() called from callback
 https://hackerone.com/reports/3838601 | Permission Model Bypass: `trace_events.createTracing().enable()` Writes Trace Logs Outside `--allow-fs-write`
 https://hackerone.com/reports/3878586 | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, hide_from_lists) and uses frozen visibility, exposing donat
+https://hackerone.com/reports/3911605 | SMTP CRLF injection in custom SMTP recipient operand allows additional SMTP commands after authentication

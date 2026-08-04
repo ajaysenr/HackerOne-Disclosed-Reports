@@ -1,4 +1,4 @@
-# Rocket.Chat — Disclosed Reports (68 total)
+# Rocket.Chat — Disclosed Reports (69 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -28,47 +28,48 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 22 | [1757676](../reports/1757676.md) | NoSQL injection in listEmojiCustom method call | High | — | 10 | [rijalrojan](https://hackerone.com/rijalrojan) | 2023-05-09 |
 | 23 | [3611837](../reports/3611837.md) | Unauthenticated file deletion via deleteFileMessage DDP meth | High — CVSS 7.5 | — | 9 | [eldudareeno](https://hackerone.com/eldudareeno) | 2026-06-16 |
 | 24 | [3734326](../reports/3734326.md) | Autotranslate DDP Method Exposes Private Messages Without Au | High — CVSS 7.5 | — | 8 | [deprrous](https://hackerone.com/deprrous) | 2026-05-25 |
-| 25 | [1844777](../reports/1844777.md) | Reflected Cross-Site Scripting(CVE-2022-32770 ) | High | — | 7 | [sachinrajput](https://hackerone.com/sachinrajput) | 2023-06-22 |
-| 26 | [1448268](../reports/1448268.md) | TOTP 2 Factor Authentication Bypass | High | — | 7 | [gronke](https://hackerone.com/gronke) | 2022-09-22 |
-| 27 | [1132202](../reports/1132202.md) | Post-Auth Stored XSS with User Interaction leads to Remote C | High — CVSS 8.0 | — | 5 | [sonarsource](https://hackerone.com/sonarsource) | 2021-06-30 |
-| 28 | [1781102](../reports/1781102.md) | Insecure use of shell.openExternal() leads to RCE in Rocket. | High | — | 4 | [sectex](https://hackerone.com/sectex) | 2022-12-08 |
-| 29 | [832217](../reports/832217.md) | Android App Crashes while sending message to users/ on chann | High | — | 3 | [legalizenepal](https://hackerone.com/legalizenepal) | 2021-03-18 |
-| 30 | [3393664](../reports/3393664.md) | SSRF via improper validation after DNS name resolution in th | High — CVSS 7.7 | — | 1 | [button142857](https://hackerone.com/button142857) | 2026-06-11 |
-| 31 | [3473145](../reports/3473145.md) | Unauthenticated SSRF in Voxtelesys integration ('checkUrlFor | High — CVSS 8.6 | — | 1 | [button142857](https://hackerone.com/button142857) | 2026-07-29 |
-| 32 | [501084](../reports/501084.md) | Upload of Avatars for other Users | Medium — CVSS 4.3 | — | 47 | [gronke](https://hackerone.com/gronke) | 2024-08-10 |
-| 33 | [3589551](../reports/3589551.md) | RBAC bypass on App log endpoints via `permissionRequired` ty | Medium — CVSS 6.5 | — | 37 | [arccode](https://hackerone.com/arccode) | 2026-04-23 |
-| 34 | [399166](../reports/399166.md) | Remote code execution by hijacking an unclaimed S3 bucket in | Medium | — | 35 | [edoverflow](https://hackerone.com/edoverflow) | 2018-08-28 |
-| 35 | [3418031](../reports/3418031.md) | Open Redirect in Rocket.Chat | Medium — CVSS 5.4 | — | 30 | [soohyun](https://hackerone.com/soohyun) | 2026-04-10 |
-| 36 | [2580062](../reports/2580062.md) | NoSQL injection leaks visitor token and livechat messages | Medium — CVSS 6.5 | — | 29 | [gronke](https://hackerone.com/gronke) | 2024-07-11 |
-| 37 | [833470](../reports/833470.md) | [Security Vulnerability Rocket.chat] HTML Injection into Ema | Medium | — | 27 | [steven_julian22](https://hackerone.com/steven_julian22) | 2020-06-24 |
-| 38 | [1584034](../reports/1584034.md) | Clickjacking at open.rocket.chat | Medium | — | 16 | [scriptsavvy](https://hackerone.com/scriptsavvy) | 2023-06-15 |
-| 39 | [3779690](../reports/3779690.md) | Stored XSS in Rocket.Chat HTML File Export — Unauthenticated | Medium — CVSS 5.4 | — | 16 | [olidayw](https://hackerone.com/olidayw) | 2026-07-16 |
-| 40 | [943737](../reports/943737.md) | Arbitrary file read in Rocket.Chat-Desktop | Medium | — | 14 | [sectex](https://hackerone.com/sectex) | 2022-02-06 |
-| 41 | [1063164](../reports/1063164.md) | Unauthenticated clients can modify Livechat Business Hours | Medium — CVSS 5.3 | — | 13 | [gronke](https://hackerone.com/gronke) | 2024-08-10 |
-| 42 | [962902](../reports/962902.md) | Session Hijack via Self-XSS | Medium — CVSS 5.4 | — | 11 | [jcardona](https://hackerone.com/jcardona) | 2021-01-17 |
-| 43 | [368927](../reports/368927.md) | Open redirect open.rocket.chat/file-upload/ID/filename.svg | Medium | — | 10 | [w2w](https://hackerone.com/w2w) | 2019-10-31 |
-| 44 | [1379645](../reports/1379645.md) | Impersonation in Sequential Messages | Medium — CVSS 4.3 | — | 7 | [gronke](https://hackerone.com/gronke) | 2024-08-10 |
-| 45 | [384517](../reports/384517.md) | XSS (stored) Wizard is saving executable code | Medium | — | 7 | [nitin_24](https://hackerone.com/nitin_24) | 2018-09-27 |
-| 46 | [1445810](../reports/1445810.md) | Mute User can disclose private channel members to unauthoriz | Medium — CVSS 4.3 | — | 6 | [gronke](https://hackerone.com/gronke) | 2023-05-09 |
-| 47 | [1781131](../reports/1781131.md) | Cross-Site-Scripting in "Search Messages" | Medium | — | 5 | [sectex](https://hackerone.com/sectex) | 2023-05-09 |
-| 48 | [1379451](../reports/1379451.md) | Messages can be hidden regardless of server configuration | Medium — CVSS 4.3 | — | 5 | [gronke](https://hackerone.com/gronke) | 2023-04-25 |
-| 49 | [1031525](../reports/1031525.md) | User Impersonation through sendMessage options | Medium — CVSS 4.3 | — | 5 | [gronke](https://hackerone.com/gronke) | 2024-08-10 |
-| 50 | [917946](../reports/917946.md) | It is possible to elevate privileges for any authenticated u | Medium | — | 3 | [garretby](https://hackerone.com/garretby) | 2022-09-22 |
-| 51 | [3383079](../reports/3383079.md) | SSRF via Improper Redirect Validation in Rocket.Chat oEmbed  | Medium — CVSS 5.0 | — | 3 | [button142857](https://hackerone.com/button142857) | 2026-06-11 |
-| 52 | [1458020](../reports/1458020.md) | NoSQL-Injection discloses S3 File Upload URLs | Medium — CVSS 6.5 | — | 3 | [gronke](https://hackerone.com/gronke) | 2022-09-22 |
-| 53 | [1461340](../reports/1461340.md) | Maliciously crafted message can cause Rocket.Chat server to  | Medium — CVSS 5.5 | — | 3 | [vv9k](https://hackerone.com/vv9k) | 2023-05-09 |
-| 54 | [1140631](../reports/1140631.md) | REST API gets `query` as parameter and executes it | Medium — CVSS 6.5 | — | 3 | [paulocsanz](https://hackerone.com/paulocsanz) | 2022-09-22 |
-| 55 | [1410357](../reports/1410357.md) | getUsersOfRoom discloses users in private channels | Medium — CVSS 6.5 | — | 2 | [gronke](https://hackerone.com/gronke) | 2022-09-22 |
-| 56 | [1406953](../reports/1406953.md) | Message ID Enumeration with Action Link Handler | Medium — CVSS 4.3 | — | 2 | [gronke](https://hackerone.com/gronke) | 2022-09-22 |
-| 57 | [1377105](../reports/1377105.md) | Message ID Enumeration with Regular Expression in getReadRec | Medium — CVSS 4.3 | — | 1 | [gronke](https://hackerone.com/gronke) | 2022-09-22 |
-| 58 | [1394399](../reports/1394399.md) | Unintended information disclosure in the Hubot Log files | Medium | — | 1 | [rolfzur](https://hackerone.com/rolfzur) | 2022-09-22 |
-| 59 | [3713682](../reports/3713682.md) | IDOR: autotranslate.translateMessage Full Message Content Le | Medium — CVSS 5.3 | — | 0 | [josan_george](https://hackerone.com/josan_george) | 2026-05-18 |
-| 60 | [1701378](../reports/1701378.md) | Bypassing 2FA with conventional session management - open.ro | Low | — | 25 | [hackeriron1](https://hackerone.com/hackeriron1) | 2024-08-10 |
-| 61 | [728004](../reports/728004.md) | Clickjacking in the admin page | Low | — | 20 | [ant_pyne](https://hackerone.com/ant_pyne) | 2020-01-02 |
-| 62 | [1089116](../reports/1089116.md) | Hi! Security Team Rocket.Chat, It's possible to get informat | Low | — | 12 | [khekhe](https://hackerone.com/khekhe) | 2021-04-29 |
-| 63 | [1091118](../reports/1091118.md) | Blind XSS | Low | — | 12 | [abhinav-porwal](https://hackerone.com/abhinav-porwal) | 2021-12-07 |
-| 64 | [724153](../reports/724153.md) | XSS (leads to arbitrary file read in Rocket.Chat-Desktop) | Low | — | 11 | [sectex](https://hackerone.com/sectex) | 2020-01-02 |
-| 65 | [1390782](../reports/1390782.md) | Possible Domain Takeover on AWS Instance. | Low | — | 9 | [samuelsiv](https://hackerone.com/samuelsiv) | 2022-05-22 |
-| 66 | [433792](../reports/433792.md) | Blind SQL injection in third-party software, that allows to  | None | — | 60 | [w2w](https://hackerone.com/w2w) | 2019-10-17 |
-| 67 | [382666](../reports/382666.md) | Blind XSS in the rocket.chat registration email | None | — | 18 | [edoverflow](https://hackerone.com/edoverflow) | 2018-09-26 |
-| 68 | [386614](../reports/386614.md) | Slack Token exposed over internet (Github) | None | — | 14 | [sanjogpanda](https://hackerone.com/sanjogpanda) | 2019-07-11 |
+| 25 | [3514640](../reports/3514640.md) | Unauthenticated Path Traversal (LFI) via /custom-sounds/ whe | High — CVSS 7.5 | — | 8 | [howtoplay](https://hackerone.com/howtoplay) | 2026-08-03 |
+| 26 | [1844777](../reports/1844777.md) | Reflected Cross-Site Scripting(CVE-2022-32770 ) | High | — | 7 | [sachinrajput](https://hackerone.com/sachinrajput) | 2023-06-22 |
+| 27 | [1448268](../reports/1448268.md) | TOTP 2 Factor Authentication Bypass | High | — | 7 | [gronke](https://hackerone.com/gronke) | 2022-09-22 |
+| 28 | [1132202](../reports/1132202.md) | Post-Auth Stored XSS with User Interaction leads to Remote C | High — CVSS 8.0 | — | 5 | [sonarsource](https://hackerone.com/sonarsource) | 2021-06-30 |
+| 29 | [1781102](../reports/1781102.md) | Insecure use of shell.openExternal() leads to RCE in Rocket. | High | — | 4 | [sectex](https://hackerone.com/sectex) | 2022-12-08 |
+| 30 | [832217](../reports/832217.md) | Android App Crashes while sending message to users/ on chann | High | — | 3 | [legalizenepal](https://hackerone.com/legalizenepal) | 2021-03-18 |
+| 31 | [3393664](../reports/3393664.md) | SSRF via improper validation after DNS name resolution in th | High — CVSS 7.7 | — | 1 | [button142857](https://hackerone.com/button142857) | 2026-06-11 |
+| 32 | [3473145](../reports/3473145.md) | Unauthenticated SSRF in Voxtelesys integration ('checkUrlFor | High — CVSS 8.6 | — | 1 | [button142857](https://hackerone.com/button142857) | 2026-07-29 |
+| 33 | [501084](../reports/501084.md) | Upload of Avatars for other Users | Medium — CVSS 4.3 | — | 47 | [gronke](https://hackerone.com/gronke) | 2024-08-10 |
+| 34 | [3589551](../reports/3589551.md) | RBAC bypass on App log endpoints via `permissionRequired` ty | Medium — CVSS 6.5 | — | 37 | [arccode](https://hackerone.com/arccode) | 2026-04-23 |
+| 35 | [399166](../reports/399166.md) | Remote code execution by hijacking an unclaimed S3 bucket in | Medium | — | 35 | [edoverflow](https://hackerone.com/edoverflow) | 2018-08-28 |
+| 36 | [3418031](../reports/3418031.md) | Open Redirect in Rocket.Chat | Medium — CVSS 5.4 | — | 30 | [soohyun](https://hackerone.com/soohyun) | 2026-04-10 |
+| 37 | [2580062](../reports/2580062.md) | NoSQL injection leaks visitor token and livechat messages | Medium — CVSS 6.5 | — | 29 | [gronke](https://hackerone.com/gronke) | 2024-07-11 |
+| 38 | [833470](../reports/833470.md) | [Security Vulnerability Rocket.chat] HTML Injection into Ema | Medium | — | 27 | [steven_julian22](https://hackerone.com/steven_julian22) | 2020-06-24 |
+| 39 | [1584034](../reports/1584034.md) | Clickjacking at open.rocket.chat | Medium | — | 16 | [scriptsavvy](https://hackerone.com/scriptsavvy) | 2023-06-15 |
+| 40 | [3779690](../reports/3779690.md) | Stored XSS in Rocket.Chat HTML File Export — Unauthenticated | Medium — CVSS 5.4 | — | 16 | [olidayw](https://hackerone.com/olidayw) | 2026-07-16 |
+| 41 | [943737](../reports/943737.md) | Arbitrary file read in Rocket.Chat-Desktop | Medium | — | 14 | [sectex](https://hackerone.com/sectex) | 2022-02-06 |
+| 42 | [1063164](../reports/1063164.md) | Unauthenticated clients can modify Livechat Business Hours | Medium — CVSS 5.3 | — | 13 | [gronke](https://hackerone.com/gronke) | 2024-08-10 |
+| 43 | [962902](../reports/962902.md) | Session Hijack via Self-XSS | Medium — CVSS 5.4 | — | 11 | [jcardona](https://hackerone.com/jcardona) | 2021-01-17 |
+| 44 | [368927](../reports/368927.md) | Open redirect open.rocket.chat/file-upload/ID/filename.svg | Medium | — | 10 | [w2w](https://hackerone.com/w2w) | 2019-10-31 |
+| 45 | [1379645](../reports/1379645.md) | Impersonation in Sequential Messages | Medium — CVSS 4.3 | — | 7 | [gronke](https://hackerone.com/gronke) | 2024-08-10 |
+| 46 | [384517](../reports/384517.md) | XSS (stored) Wizard is saving executable code | Medium | — | 7 | [nitin_24](https://hackerone.com/nitin_24) | 2018-09-27 |
+| 47 | [1445810](../reports/1445810.md) | Mute User can disclose private channel members to unauthoriz | Medium — CVSS 4.3 | — | 6 | [gronke](https://hackerone.com/gronke) | 2023-05-09 |
+| 48 | [1781131](../reports/1781131.md) | Cross-Site-Scripting in "Search Messages" | Medium | — | 5 | [sectex](https://hackerone.com/sectex) | 2023-05-09 |
+| 49 | [1379451](../reports/1379451.md) | Messages can be hidden regardless of server configuration | Medium — CVSS 4.3 | — | 5 | [gronke](https://hackerone.com/gronke) | 2023-04-25 |
+| 50 | [1031525](../reports/1031525.md) | User Impersonation through sendMessage options | Medium — CVSS 4.3 | — | 5 | [gronke](https://hackerone.com/gronke) | 2024-08-10 |
+| 51 | [917946](../reports/917946.md) | It is possible to elevate privileges for any authenticated u | Medium | — | 3 | [garretby](https://hackerone.com/garretby) | 2022-09-22 |
+| 52 | [3383079](../reports/3383079.md) | SSRF via Improper Redirect Validation in Rocket.Chat oEmbed  | Medium — CVSS 5.0 | — | 3 | [button142857](https://hackerone.com/button142857) | 2026-06-11 |
+| 53 | [1458020](../reports/1458020.md) | NoSQL-Injection discloses S3 File Upload URLs | Medium — CVSS 6.5 | — | 3 | [gronke](https://hackerone.com/gronke) | 2022-09-22 |
+| 54 | [1461340](../reports/1461340.md) | Maliciously crafted message can cause Rocket.Chat server to  | Medium — CVSS 5.5 | — | 3 | [vv9k](https://hackerone.com/vv9k) | 2023-05-09 |
+| 55 | [1140631](../reports/1140631.md) | REST API gets `query` as parameter and executes it | Medium — CVSS 6.5 | — | 3 | [paulocsanz](https://hackerone.com/paulocsanz) | 2022-09-22 |
+| 56 | [1410357](../reports/1410357.md) | getUsersOfRoom discloses users in private channels | Medium — CVSS 6.5 | — | 2 | [gronke](https://hackerone.com/gronke) | 2022-09-22 |
+| 57 | [1406953](../reports/1406953.md) | Message ID Enumeration with Action Link Handler | Medium — CVSS 4.3 | — | 2 | [gronke](https://hackerone.com/gronke) | 2022-09-22 |
+| 58 | [1377105](../reports/1377105.md) | Message ID Enumeration with Regular Expression in getReadRec | Medium — CVSS 4.3 | — | 1 | [gronke](https://hackerone.com/gronke) | 2022-09-22 |
+| 59 | [1394399](../reports/1394399.md) | Unintended information disclosure in the Hubot Log files | Medium | — | 1 | [rolfzur](https://hackerone.com/rolfzur) | 2022-09-22 |
+| 60 | [3713682](../reports/3713682.md) | IDOR: autotranslate.translateMessage Full Message Content Le | Medium — CVSS 5.3 | — | 0 | [josan_george](https://hackerone.com/josan_george) | 2026-05-18 |
+| 61 | [1701378](../reports/1701378.md) | Bypassing 2FA with conventional session management - open.ro | Low | — | 25 | [hackeriron1](https://hackerone.com/hackeriron1) | 2024-08-10 |
+| 62 | [728004](../reports/728004.md) | Clickjacking in the admin page | Low | — | 20 | [ant_pyne](https://hackerone.com/ant_pyne) | 2020-01-02 |
+| 63 | [1089116](../reports/1089116.md) | Hi! Security Team Rocket.Chat, It's possible to get informat | Low | — | 12 | [khekhe](https://hackerone.com/khekhe) | 2021-04-29 |
+| 64 | [1091118](../reports/1091118.md) | Blind XSS | Low | — | 12 | [abhinav-porwal](https://hackerone.com/abhinav-porwal) | 2021-12-07 |
+| 65 | [724153](../reports/724153.md) | XSS (leads to arbitrary file read in Rocket.Chat-Desktop) | Low | — | 11 | [sectex](https://hackerone.com/sectex) | 2020-01-02 |
+| 66 | [1390782](../reports/1390782.md) | Possible Domain Takeover on AWS Instance. | Low | — | 9 | [samuelsiv](https://hackerone.com/samuelsiv) | 2022-05-22 |
+| 67 | [433792](../reports/433792.md) | Blind SQL injection in third-party software, that allows to  | None | — | 60 | [w2w](https://hackerone.com/w2w) | 2019-10-17 |
+| 68 | [382666](../reports/382666.md) | Blind XSS in the rocket.chat registration email | None | — | 18 | [edoverflow](https://hackerone.com/edoverflow) | 2018-09-26 |
+| 69 | [386614](../reports/386614.md) | Slack Token exposed over internet (Github) | None | — | 14 | [sanjogpanda](https://hackerone.com/sanjogpanda) | 2019-07-11 |

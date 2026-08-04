@@ -155436,6 +155436,24 @@
     "votes": 16
   },
   {
+    "id": 1922736,
+    "url": "https://hackerone.com/reports/1922736",
+    "title": "Limited Disclosure: Employee credentials checked in to github (fixed)",
+    "program": "Nutanix",
+    "program_handle": "nutanix",
+    "reporter": "tosun",
+    "severity": "medium",
+    "cvss": 5.3,
+    "weakness": "Information Disclosure",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-03-28",
+    "disclosed_at": "2023-08-03",
+    "votes": 10
+  },
+  {
     "id": 1923672,
     "url": "https://hackerone.com/reports/1923672",
     "title": "Account takeover due to insufficient URL validation on RelayState parameter",
@@ -155474,6 +155492,44 @@
     "votes": 22
   },
   {
+    "id": 1924355,
+    "url": "https://hackerone.com/reports/1924355",
+    "title": "Notes attachments render HTML in preview mode",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "incident-response",
+    "severity": "low",
+    "cvss": 3.5,
+    "weakness": "Cross-site Scripting (XSS) - Reflected",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-39955"
+    ],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-03-29",
+    "disclosed_at": "2023-08-10",
+    "votes": 8
+  },
+  {
+    "id": 1927360,
+    "url": "https://hackerone.com/reports/1927360",
+    "title": "Previously created sessions continue being valid after 2FA activation",
+    "program": "WordPress",
+    "program_handle": "wordpress",
+    "reporter": "b740e9c0b92b389ac6646c5",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-03-31",
+    "disclosed_at": "2023-10-07",
+    "votes": 12
+  },
+  {
     "id": 1927480,
     "url": "https://hackerone.com/reports/1927480",
     "title": "DiffieHellman doesn't generate keys after setting a key",
@@ -155491,6 +155547,24 @@
     "asset_type": "SOURCE_CODE",
     "reported_at": "2023-03-31",
     "disclosed_at": "2023-07-20",
+    "votes": 7
+  },
+  {
+    "id": 1927499,
+    "url": "https://hackerone.com/reports/1927499",
+    "title": "Testing flow includes a DeepSource secret",
+    "program": "Weblate",
+    "program_handle": "weblate",
+    "reporter": "triplesided",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Use of Hard-coded Credentials",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-03-31",
+    "disclosed_at": "2023-04-11",
     "votes": 7
   },
   {
@@ -175130,6 +175204,24 @@
     "votes": 116
   },
   {
+    "id": 3478646,
+    "url": "https://hackerone.com/reports/3478646",
+    "title": "GitHub Retired UsernameTakeover From  [aws/\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588]",
+    "program": "AWS VDP",
+    "program_handle": "aws_vdp",
+    "reporter": "sh3d0w",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Inclusion of Functionality from Untrusted Control Sphere",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "OTHER",
+    "reported_at": "2025-12-25",
+    "disclosed_at": "2026-08-03",
+    "votes": 9
+  },
+  {
     "id": 3479692,
     "url": "https://hackerone.com/reports/3479692",
     "title": "Unauthenticated SSRF via Public Reference API -Sharing Token Bypass",
@@ -175537,6 +175629,26 @@
     "reported_at": "2026-01-17",
     "disclosed_at": "2026-01-17",
     "votes": 17
+  },
+  {
+    "id": 3514640,
+    "url": "https://hackerone.com/reports/3514640",
+    "title": "Unauthenticated Path Traversal (LFI) via /custom-sounds/ when CustomSounds uses FileSystem storage",
+    "program": "Rocket.Chat",
+    "program_handle": "rocket_chat",
+    "reporter": "howtoplay",
+    "severity": "high",
+    "cvss": 7.5,
+    "weakness": "Path Traversal",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-56845"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-01-17",
+    "disclosed_at": "2026-08-03",
+    "votes": 8
   },
   {
     "id": 3516186,
@@ -181215,5 +181327,23 @@
     "reported_at": "2026-07-21",
     "disclosed_at": "2026-08-01",
     "votes": 12
+  },
+  {
+    "id": 3911605,
+    "url": "https://hackerone.com/reports/3911605",
+    "title": "SMTP CRLF injection in custom SMTP recipient operand allows additional SMTP commands after authentication",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "dark_river",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "CRLF Injection",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-03",
+    "disclosed_at": "2026-08-03",
+    "votes": 8
   }
 ]

@@ -1,4 +1,4 @@
-# Nextcloud — Disclosed Reports (463 total)
+# Nextcloud — Disclosed Reports (464 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -324,146 +324,147 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 318 | [690796](../reports/690796.md) | Directory listing is enabled that exposes non public data th | Low | — | 8 | [tibin_sunny](https://hackerone.com/tibin_sunny) | 2020-02-01 |
 | 319 | [220385](../reports/220385.md) | Delete All Data of Any User | Low — CVSS 2.7 | — | 8 | [dalt4sec](https://hackerone.com/dalt4sec) | 2020-03-01 |
 | 320 | [149798](../reports/149798.md) | Content (Text) Injection at NextCloud Server 9.0.52 - via ht | Low — CVSS 3.1 | — | 8 | [abcdefghijklmnopqrstuvwxyzabc](https://hackerone.com/abcdefghijklmnopqrstuvwxyzabc) | 2016-12-02 |
-| 321 | [153905](../reports/153905.md) | IDOR - Disable sharing | Low — CVSS 2.6 | — | 8 | [dalt4sec](https://hackerone.com/dalt4sec) | 2016-12-03 |
-| 322 | [1167919](../reports/1167919.md) | Default Nextcloud server config and iOS Nextcloud client lea | Low | — | 7 | [rtod](https://hackerone.com/rtod) | 2021-05-31 |
-| 323 | [269705](../reports/269705.md) | WordPress < 4.8.2 vulnerable to multiple attacks | Low | — | 7 | [kuyschi](https://hackerone.com/kuyschi) | 2017-09-27 |
-| 324 | [1210458](../reports/1210458.md) | Serverinfo endpoints are not bruteforce protected nor are to | Low | — | 7 | [rtod](https://hackerone.com/rtod) | 2021-06-16 |
-| 325 | [358339](../reports/358339.md) | File access control rules not enforced on image files | Low — CVSS 3.5 | — | 7 | [reinism](https://hackerone.com/reinism) | 2018-06-15 |
-| 326 | [1169335](../reports/1169335.md) | Password policy changes not enforced for existing passwords | Low | — | 7 | [rtod](https://hackerone.com/rtod) | 2021-04-26 |
-| 327 | [3304830](../reports/3304830.md) | Files drop share links for end-to-end encrypted folders allo | Low — CVSS 3.5 | — | 7 | [0x0doteth](https://hackerone.com/0x0doteth) | 2026-05-08 |
-| 328 | [347782](../reports/347782.md) | Click Jacking Nextcloud | Low | — | 7 | [enz0](https://hackerone.com/enz0) | 2019-07-01 |
-| 329 | [331302](../reports/331302.md) | Improper protection of FileContentProvider | Low | — | 7 | [mmmds](https://hackerone.com/mmmds) | 2020-03-01 |
-| 330 | [888261](../reports/888261.md) | The password of a mail share is not set if the password is g | Low | — | 7 | [daniel_calvino_sanchez](https://hackerone.com/daniel_calvino_sanchez) | 2021-03-04 |
-| 331 | [476615](../reports/476615.md) | Private/confidential setting of calendar events is ignored o | Low | — | 7 | [nickvergessen](https://hackerone.com/nickvergessen) | 2019-06-27 |
-| 332 | [225777](../reports/225777.md) | DOMPurify 0.8.9 released | Low — CVSS 3.1 | — | 6 | [lukasreschke](https://hackerone.com/lukasreschke) | 2020-03-01 |
-| 333 | [1726445](../reports/1726445.md) | A vulnerability classified as critical has been found in gsi | Low | — | 6 | [ibrahim71192](https://hackerone.com/ibrahim71192) | 2022-12-10 |
-| 334 | [1108420](../reports/1108420.md) | HTML Injection on "polls" app - comments section (possibly X | Low | — | 6 | [supr4s](https://hackerone.com/supr4s) | 2021-03-31 |
-| 335 | [1781751](../reports/1781751.md) | Ability to control the filename when uploading a logo or fav | Low — CVSS 2.4 | — | 6 | [ctulhu](https://hackerone.com/ctulhu) | 2023-04-10 |
-| 336 | [1246721](../reports/1246721.md) | Text app leaks file path of shared files | Low | — | 6 | [lukasreschkenc](https://hackerone.com/lukasreschkenc) | 2021-08-11 |
-| 337 | [1354334](../reports/1354334.md) | Error in Deleting Deck cards attachment reveals the full pat | Low — CVSS 3.5 | — | 6 | [ctulhu](https://hackerone.com/ctulhu) | 2022-05-20 |
-| 338 | [225098](../reports/225098.md) | SQL exception in JSON format | Low | — | 6 | [clizsec](https://hackerone.com/clizsec) | 2020-01-31 |
-| 339 | [213360](../reports/213360.md) | Content Spoofing/Text Injection in nextcloud.com | Low | — | 6 | [demo--hacker](https://hackerone.com/demo--hacker) | 2017-04-19 |
-| 340 | [1745702](../reports/1745702.md) | Insecure randomness for default password in file sharing whe | Low — CVSS 3.5 | — | 5 | [gorei](https://hackerone.com/gorei) | 2023-03-30 |
-| 341 | [1195593](../reports/1195593.md) | Talk discloses turn server to anybody | Low | — | 5 | [rtod](https://hackerone.com/rtod) | 2021-05-26 |
-| 342 | [1711847](../reports/1711847.md) | XSS in Desktop Client in call notification popup | Low — CVSS 3.5 | — | 5 | [b911bade858ce8e6a0f50f8](https://hackerone.com/b911bade858ce8e6a0f50f8) | 2022-11-25 |
-| 343 | [1707977](../reports/1707977.md) | XSS in Desktop Client via user status and information | Low — CVSS 3.5 | — | 5 | [b911bade858ce8e6a0f50f8](https://hackerone.com/b911bade858ce8e6a0f50f8) | 2022-11-25 |
-| 344 | [1690510](../reports/1690510.md) | the complete server installation path is visible in cloud/us | Low — CVSS 3.5 | — | 5 | [bohwaz](https://hackerone.com/bohwaz) | 2023-03-30 |
-| 345 | [390728](../reports/390728.md) | Stored XSS on scan.nextcloud.com | Low | — | 4 | [5b66c571](https://hackerone.com/5b66c571) | 2020-03-01 |
-| 346 | [1200989](../reports/1200989.md) | No admin audit entry for enabling/disabling 2FA | Low | — | 4 | [rtod](https://hackerone.com/rtod) | 2021-06-16 |
-| 347 | [1596918](../reports/1596918.md) | Brute force protections don't work | Low — CVSS 3.7 | — | 4 | [nickvergessen](https://hackerone.com/nickvergessen) | 2022-09-03 |
-| 348 | [1607601](../reports/1607601.md) | @nextcloud/logger NPM package brings vulnerable ansi-regex v | Low — CVSS 2.7 | — | 4 | [ro0t_elqayser](https://hackerone.com/ro0t_elqayser) | 2022-07-29 |
-| 349 | [669365](../reports/669365.md) | Veracode and security audit record are publicly available | Low | — | 3 | [laxe](https://hackerone.com/laxe) | 2019-09-10 |
-| 350 | [358102](../reports/358102.md) | Disclosed Version of PORTS SSH|HTTP|SSL | Low | — | 3 | [bb00x](https://hackerone.com/bb00x) | 2018-06-14 |
-| 351 | [895730](../reports/895730.md) | Contacts menu (not app) fails to restrict (to local groups)  | Low — CVSS 3.2 | — | 3 | [nursoda](https://hackerone.com/nursoda) | 2020-07-25 |
-| 352 | [476439](../reports/476439.md) | Password authentication at newsletter.nextcloud.com disclose | Low | — | 3 | [br3ach](https://hackerone.com/br3ach) | 2020-03-01 |
-| 353 | [1195568](../reports/1195568.md) | Ransomware protection is missing extentions | Low | — | 3 | [rtod](https://hackerone.com/rtod) | 2021-06-16 |
-| 354 | [222080](../reports/222080.md) | The email API to reset password is unlimited and can be used | Low | — | 3 | [xifengweiyu](https://hackerone.com/xifengweiyu) | 2017-04-20 |
-| 355 | [1200992](../reports/1200992.md) | No admin audit log for auth tokens | Low | — | 3 | [rtod](https://hackerone.com/rtod) | 2021-06-16 |
-| 356 | [222805](../reports/222805.md) | Content (Text) Injection at https://nextcloud.com | Low | — | 3 | [xifengweiyu](https://hackerone.com/xifengweiyu) | 2017-05-15 |
-| 357 | [215372](../reports/215372.md) | Server version/OS type disclosure via HTTP Response Header | Low | — | 2 | [ryudox](https://hackerone.com/ryudox) | 2017-03-23 |
-| 358 | [473144](../reports/473144.md) | Content spoofing on https://surveyserver.nextcloud.com | Low | — | 2 | [mik317](https://hackerone.com/mik317) | 2021-02-14 |
-| 359 | [885041](../reports/885041.md) | The password of a mail share is not hashed if the password i | Low | — | 2 | [daniel_calvino_sanchez](https://hackerone.com/daniel_calvino_sanchez) | 2020-10-28 |
-| 360 | [264426](../reports/264426.md) | Nextcloud logs ldap passwords | Low | — | 2 | [tribut](https://hackerone.com/tribut) | 2020-01-31 |
-| 361 | [882258](../reports/882258.md) | New users can read all Nextcloud Deck data from previous use | Low | — | 2 | [stefanniedermann](https://hackerone.com/stefanniedermann) | 2021-02-14 |
-| 362 | [218199](../reports/218199.md) | Directory Listing In Subdomain Of nextcloud.com | Low | — | 1 | [xyberwolf1](https://hackerone.com/xyberwolf1) | 2017-07-14 |
-| 363 | [279717](../reports/279717.md) | Broken link for wrong domain entry may be leveraged for Phis | Low | — | 1 | [mehmil](https://hackerone.com/mehmil) | 2020-03-01 |
-| 364 | [812028](../reports/812028.md) | xss on setup config page  | Low | — | 1 | [jackzhou](https://hackerone.com/jackzhou) | 2021-02-14 |
-| 365 | [403909](../reports/403909.md) | Information Exposure Through Directory Listing - https://app | Low | — | 1 | [ismailtsdelen](https://hackerone.com/ismailtsdelen) | 2019-01-07 |
-| 366 | [209520](../reports/209520.md) | http://www.nextcloud.com/wp-includes/js/swfupload/swfupload. | None | — | 42 | [todayisnew](https://hackerone.com/todayisnew) | 2020-03-07 |
-| 367 | [2299069](../reports/2299069.md) | xmlrpc.php &wp-cron.php files are enabled, and will used for | None | — | 41 | [cyber-tech](https://hackerone.com/cyber-tech) | 2024-02-08 |
-| 368 | [3479692](../reports/3479692.md) | Unauthenticated SSRF via Public Reference API -Sharing Token | None | — | 40 | [eclipse07077](https://hackerone.com/eclipse07077) | 2026-03-31 |
-| 369 | [194329](../reports/194329.md) | No session logout after changing password & alsoandroid sess | None | — | 35 | [whitehattushu](https://hackerone.com/whitehattushu) | 2020-02-09 |
-| 370 | [3518758](../reports/3518758.md) | IDOR on ██████ via direct photo URL leads to unauthorized ac | None | — | 30 | [shiva2550](https://hackerone.com/shiva2550) | 2026-04-07 |
-| 371 | [2720030](../reports/2720030.md) | Open redirect when logging in with user_oidc | None | — | 30 | [kesselb](https://hackerone.com/kesselb) | 2024-11-15 |
-| 372 | [1067824](../reports/1067824.md) | Database error shown to the user when using a long guest nam | None | — | 29 | [hitman_47](https://hackerone.com/hitman_47) | 2021-02-07 |
-| 373 | [3399016](../reports/3399016.md) | Improper input validation On Exported deep-link handler cras | None | — | 28 | [khoof](https://hackerone.com/khoof) | 2026-05-01 |
-| 374 | [145355](../reports/145355.md) | Stored XSS on Share-popup of a directory's Gallery-view | None | — | 24 | [fransrosen](https://hackerone.com/fransrosen) | 2016-07-19 |
-| 375 | [211213](../reports/211213.md) | https://xmpp.nextcloud.com///;@www.google.com allows open re | None | — | 20 | [todayisnew](https://hackerone.com/todayisnew) | 2017-08-13 |
-| 376 | [2058556](../reports/2058556.md) | Self XSS when sending HTML as a comment in the Deck app | None | — | 20 | [hackit_bharat](https://hackerone.com/hackit_bharat) | 2024-01-18 |
-| 377 | [145524](../reports/145524.md) | Server side request forgery (SSRF) on nextcloud implementati | None | — | 19 | [paglababa](https://hackerone.com/paglababa) | 2016-06-17 |
-| 378 | [146278](../reports/146278.md) | Log pollution can lead to HTML Injection. | None | — | 18 | [apok](https://hackerone.com/apok) | 2016-07-19 |
-| 379 | [1720822](../reports/1720822.md) | Suspicious login app ships old league/flysystem version | None | — | 17 | [mik-patient](https://hackerone.com/mik-patient) | 2023-02-08 |
-| 380 | [168054](../reports/168054.md) | Unauthenticated Stored xss  | None | — | 14 | [spetr0x](https://hackerone.com/spetr0x) | 2016-09-13 |
-| 381 | [146424](../reports/146424.md) | No Rate Limiting on stats.nextcloud.com login | None | — | 12 | [japz](https://hackerone.com/japz) | 2016-06-22 |
-| 382 | [461308](../reports/461308.md) | Remote attacker can impersonate Social users via ActivityPub | None | — | 12 | [tomk](https://hackerone.com/tomk) | 2019-02-01 |
-| 383 | [220946](../reports/220946.md) | https://portal.nextcloud.com/.htaccess file is readable | None | — | 12 | [peeper35](https://hackerone.com/peeper35) | 2017-04-14 |
-| 384 | [197878](../reports/197878.md) | WordPress <= 4.6.1 Stored XSS Via Theme File | None | — | 12 | [madrobot](https://hackerone.com/madrobot) | 2017-01-13 |
-| 385 | [198012](../reports/198012.md) | Disclosure of administrators via JSON on nextcloud.com Wordp | None | — | 12 | [rbcafe](https://hackerone.com/rbcafe) | 2017-01-13 |
-| 386 | [213056](../reports/213056.md) | Invalid request may lead content spoofing for phishing | None | — | 11 | [d4rk_g1rl](https://hackerone.com/d4rk_g1rl) | 2017-04-12 |
-| 387 | [1039805](../reports/1039805.md) | Clickjacking URLS | None | — | 10 | [tinkerermaruthu](https://hackerone.com/tinkerermaruthu) | 2021-03-10 |
-| 388 | [221298](../reports/221298.md) | GIT Detected | None | — | 10 | [lulliii](https://hackerone.com/lulliii) | 2017-04-20 |
-| 389 | [145950](../reports/145950.md) | Uploading files to a folder where invited user don't have an | None | — | 10 | [detroitsmash](https://hackerone.com/detroitsmash) | 2016-07-19 |
-| 390 | [145727](../reports/145727.md) | Bruteforcing help.nextcloud.com | None | — | 10 | [japz](https://hackerone.com/japz) | 2016-06-19 |
-| 391 | [1712329](../reports/1712329.md) | [nextcloud/server] Moment.js vulnerable to Inefficient Regul | None | — | 10 | [mik-patient](https://hackerone.com/mik-patient) | 2022-12-09 |
-| 392 | [145734](../reports/145734.md) | help.nextcloud Email Address/Username enumeration | None | — | 9 | [japz](https://hackerone.com/japz) | 2016-06-19 |
-| 393 | [820146](../reports/820146.md) | PHPUnit is included in groupfolders release package potentia | None | — | 9 | [ledfan](https://hackerone.com/ledfan) | 2020-06-25 |
-| 394 | [161924](../reports/161924.md) | Password Reset Link issue | None | — | 9 | [i1ackerone](https://hackerone.com/i1ackerone) | 2016-09-23 |
-| 395 | [631227](../reports/631227.md) | Some HTML Tags are Getting Executed in com.nextcloud.client | None | — | 9 | [ctulhu](https://hackerone.com/ctulhu) | 2019-07-26 |
-| 396 | [504759](../reports/504759.md) | Uploading large avatar images cause excessive CPU usage | None | — | 8 | [fancycode](https://hackerone.com/fancycode) | 2019-06-27 |
-| 397 | [163342](../reports/163342.md) | Expired SSL certificate  | None | — | 7 | [goethe_](https://hackerone.com/goethe_) | 2016-08-25 |
-| 398 | [145896](../reports/145896.md) | Password reset link remains valid after email change | None | — | 7 | [rootxflood](https://hackerone.com/rootxflood) | 2016-12-13 |
-| 399 | [271253](../reports/271253.md) | NextCloud is also Accepting OCTET-STREAM Type of Documents i | None | — | 7 | [rohit_coder](https://hackerone.com/rohit_coder) | 2019-04-11 |
-| 400 | [261297](../reports/261297.md) | Disabled user can reset their password   | None | — | 7 | [egrep](https://hackerone.com/egrep) | 2020-03-01 |
-| 401 | [145452](../reports/145452.md) | Share owner has no possibility to list all existing derived  | None | — | 6 | [detroitsmash](https://hackerone.com/detroitsmash) | 2016-12-13 |
-| 402 | [1022211](../reports/1022211.md) | Leaked of Profile Image from URL changing | None | — | 6 | [ankitpuri](https://hackerone.com/ankitpuri) | 2020-11-17 |
-| 403 | [1241460](../reports/1241460.md) | ApiService#fetch serves content as text/html and inline Cont | None | — | 6 | [lukasreschkenc](https://hackerone.com/lukasreschkenc) | 2021-08-11 |
-| 404 | [145604](../reports/145604.md) | Avatar image upload and bypass  real image verification  | None | — | 6 | [dremos](https://hackerone.com/dremos) | 2017-01-15 |
-| 405 | [156510](../reports/156510.md) | Directory listening enabled in: 88.198.160.130 | None | — | 6 | [sandh0t](https://hackerone.com/sandh0t) | 2016-09-04 |
-| 406 | [214340](../reports/214340.md) | Content spoofing due to the improper behavior of the 403 pag | None | — | 6 | [t-pwn](https://hackerone.com/t-pwn) | 2017-05-18 |
-| 407 | [855304](../reports/855304.md) | No set limit to try to login in "https://auth.nextcloud.com/ | None | — | 5 | [syachineko](https://hackerone.com/syachineko) | 2021-04-20 |
-| 408 | [145745](../reports/145745.md) | Business/Functional logic bypass: Remove admins from admin g | None | — | 5 | [paglababa](https://hackerone.com/paglababa) | 2016-06-19 |
-| 409 | [269449](../reports/269449.md) | Banner Grabbing - Apache Server Version Disclousure | None | — | 5 | [cybertiger](https://hackerone.com/cybertiger) | 2018-05-17 |
-| 410 | [198773](../reports/198773.md) | Drone Nextcloud | None | — | 5 | [rbcafe](https://hackerone.com/rbcafe) | 2017-02-12 |
-| 411 | [163106](../reports/163106.md) | Information Disclosure of .htaccess file in Private Server/S | None | — | 5 | [ahsan](https://hackerone.com/ahsan) | 2016-08-26 |
-| 412 | [145517](../reports/145517.md) | Vulnerable Javascript library | None | — | 5 | [paulochoupina](https://hackerone.com/paulochoupina) | 2016-06-17 |
-| 413 | [146106](../reports/146106.md) | Email ID Disclosure. | None | — | 5 | [bugdiscloseguys](https://hackerone.com/bugdiscloseguys) | 2016-06-20 |
-| 414 | [175085](../reports/175085.md) | URI scheme bypass in mail app lead to HTML content spoof and | None | — | 5 | [trichimtrich_](https://hackerone.com/trichimtrich_) | 2017-01-12 |
-| 415 | [752353](../reports/752353.md) | Anonymous file drop page ignores user profile visibility res | None | — | 5 | [pshknst](https://hackerone.com/pshknst) | 2020-08-03 |
-| 416 | [200762](../reports/200762.md) | Email Spoofing | None | — | 4 | [khalidamin](https://hackerone.com/khalidamin) | 2017-01-25 |
-| 417 | [348801](../reports/348801.md) | Banner Grabbing - Apache Server Version Disclosure | None | — | 4 | [kistimat](https://hackerone.com/kistimat) | 2018-05-17 |
-| 418 | [145375](../reports/145375.md) | stats.nextcloud.com: Content Injection | None | — | 4 | [kiraak-boy](https://hackerone.com/kiraak-boy) | 2016-07-17 |
-| 419 | [146179](../reports/146179.md) | REG: Content provider information leakage | None | — | 4 | [zeroknife](https://hackerone.com/zeroknife) | 2016-06-24 |
-| 420 | [173622](../reports/173622.md) | Bypassing quota limit  | None | — | 4 | [nordin](https://hackerone.com/nordin) | 2017-03-10 |
-| 421 | [145730](../reports/145730.md) | newsletter.nextcloud.com: Bypass firewall protection | None | — | 4 | [bug_cat](https://hackerone.com/bug_cat) | 2016-07-18 |
-| 422 | [213358](../reports/213358.md) | SSRF at apps.nextcloud.com/developer/apps/releases/new | None | — | 4 | [t-pwn](https://hackerone.com/t-pwn) | 2017-04-20 |
-| 423 | [154529](../reports/154529.md) | Bookmarks: Delete all existing bookmarks of a user | None | — | 4 | [ctee](https://hackerone.com/ctee) | 2016-08-08 |
-| 424 | [145396](../reports/145396.md) | Enumeration of subscribed users and unauthenticated email un | None | — | 4 | [strukt](https://hackerone.com/strukt) | 2016-06-19 |
-| 425 | [145458](../reports/145458.md) | nextcloud.com: Mail Bombing ( No Rate Limiting On Sending Em | None | — | 4 | [ashishpathakall](https://hackerone.com/ashishpathakall) | 2016-07-17 |
-| 426 | [146093](../reports/146093.md) | WordPress Vulnerabilities: User Enumeration, Vulnerable Akis | None | — | 4 | [vivek-p](https://hackerone.com/vivek-p) | 2016-06-22 |
-| 427 | [194564](../reports/194564.md) | Review remote code execution in SwiftMailer | None | — | 4 | [lukasreschke](https://hackerone.com/lukasreschke) | 2017-02-18 |
-| 428 | [155189](../reports/155189.md) | demo.nextcloud.com: Content spoofing due to default Apache E | None | — | 3 | [sysecure](https://hackerone.com/sysecure) | 2016-09-29 |
-| 429 | [1789602](../reports/1789602.md) | Contacts only sanitizes PHOTO svg if mime type is all lower  | None | — | 3 | [christophwurst](https://hackerone.com/christophwurst) | 2023-06-24 |
-| 430 | [369979](../reports/369979.md) | Missing X-Content-Type-Options  | None | — | 3 | [pal434](https://hackerone.com/pal434) | 2020-03-01 |
-| 431 | [145612](../reports/145612.md) | No captcha on newsletter.nextcloudcom leaves vulnerable to e | None | — | 3 | [aaron_costello](https://hackerone.com/aaron_costello) | 2016-06-19 |
-| 432 | [145462](../reports/145462.md) | No rate limiting on password protected shared file link | None | — | 3 | [jayushc](https://hackerone.com/jayushc) | 2016-06-20 |
-| 433 | [145374](../reports/145374.md) | Content Spoofing | None | — | 3 | [ashishpathakall](https://hackerone.com/ashishpathakall) | 2016-06-19 |
-| 434 | [561805](../reports/561805.md) | W3 Total Cache plugin multiple vulnerabilities | None | — | 3 | [funt0m](https://hackerone.com/funt0m) | 2019-07-28 |
-| 435 | [1173411](../reports/1173411.md) | Nextcloud update checks leaks information | None | — | 3 | [rtod](https://hackerone.com/rtod) | 2021-05-01 |
-| 436 | [151847](../reports/151847.md) | The application uses basic authentication. | None | — | 3 | [roshanpty](https://hackerone.com/roshanpty) | 2016-07-18 |
-| 437 | [145853](../reports/145853.md) | Content injection in subdomain | None | — | 3 | [testest](https://hackerone.com/testest) | 2016-06-19 |
-| 438 | [145488](../reports/145488.md) | failure to invalidate session on password change | None | — | 3 | [pradeepch99](https://hackerone.com/pradeepch99) | 2017-04-20 |
-| 439 | [145722](../reports/145722.md) | Bruteforce attack is possible on newsletter.nextcloud.com | None | — | 3 | [koolacac](https://hackerone.com/koolacac) | 2016-06-19 |
-| 440 | [145402](../reports/145402.md) | No permission set on Activities [Android App] | None | — | 3 | [hax0rgb](https://hackerone.com/hax0rgb) | 2016-06-20 |
-| 441 | [145850](../reports/145850.md) | Content Spoofing/Text Injection - docs.nextcloud.org | None | — | 3 | [ahsan](https://hackerone.com/ahsan) | 2016-06-19 |
-| 442 | [475114](../reports/475114.md) | Github repo's wiki publicly editable | None | — | 3 | [whitehat_hacker](https://hackerone.com/whitehat_hacker) | 2020-01-31 |
-| 443 | [145849](../reports/145849.md) | Content Injection 404 page | None | — | 2 | [testest](https://hackerone.com/testest) | 2016-06-19 |
-| 444 | [374053](../reports/374053.md) | Accessing to download.nextcloud.com from original ip adreess | None | — | 2 | [bb00x](https://hackerone.com/bb00x) | 2018-07-12 |
-| 445 | [199445](../reports/199445.md) | Nextcloud.com is vulnerable to SWEET32 attack | None | — | 2 | [pkkothawade](https://hackerone.com/pkkothawade) | 2017-01-25 |
-| 446 | [161299](../reports/161299.md) | Content Injection - apps.nextcloud.com | None | — | 2 | [spodermen](https://hackerone.com/spodermen) | 2016-08-26 |
-| 447 | [155690](../reports/155690.md) | Arbitrary File Upload in Logo & Log in image Theming setting | None | — | 2 | [bastianwelfrid](https://hackerone.com/bastianwelfrid) | 2016-10-05 |
-| 448 | [145854](../reports/145854.md) | Content Injection in subdomain | None | — | 2 | [testest](https://hackerone.com/testest) | 2016-06-19 |
-| 449 | [145552](../reports/145552.md) | Directory Listing On download.nextcloud.com & Practical Atta | None | — | 2 | [1337_inj3c70r](https://hackerone.com/1337_inj3c70r) | 2016-06-17 |
-| 450 | [146314](../reports/146314.md) | Deny access to download.nextcloud.com + folders | None | — | 2 | [thearmfox](https://hackerone.com/thearmfox) | 2016-06-21 |
-| 451 | [145583](../reports/145583.md) | Lost Password CSRF | None | — | 2 | [mefkan](https://hackerone.com/mefkan) | 2016-06-19 |
-| 452 | [145463](../reports/145463.md) | Nextcloud server software: Content Spoofing | None | — | 2 | [ishahriyar](https://hackerone.com/ishahriyar) | 2016-07-19 |
-| 453 | [549831](../reports/549831.md) | External Storage - WebDAV - New user has access to storage f | None | — | 2 | [sanmue](https://hackerone.com/sanmue) | 2021-02-14 |
-| 454 | [223759](../reports/223759.md) | information disclose | None | — | 2 | [abdul1ah](https://hackerone.com/abdul1ah) | 2017-04-25 |
-| 455 | [145430](../reports/145430.md) | help.nextcloud.com: Session Management Issue | None | — | 2 | [ahsan](https://hackerone.com/ahsan) | 2016-06-17 |
-| 456 | [164520](../reports/164520.md) | Reflected Self-XSS Vulnerability in the Comment section of F | None | — | 2 | [shivakumar143](https://hackerone.com/shivakumar143) | 2016-08-31 |
-| 457 | [161323](../reports/161323.md) | Content Injection - demo.nextcloud.com | None | — | 1 | [spodermen](https://hackerone.com/spodermen) | 2016-08-26 |
-| 458 | [662155](../reports/662155.md) | Clickjacking on https://download.nextcloud.com/ | None | — | 1 | [j4tayu](https://hackerone.com/j4tayu) | 2019-11-11 |
-| 459 | [224108](../reports/224108.md) | Cross Site Scripting | None | — | 1 | [lulliii](https://hackerone.com/lulliii) | 2017-04-26 |
-| 460 | [658011](../reports/658011.md) | Clickjacking on https://download.nextcloud.com | None | — | 1 | [bibek1](https://hackerone.com/bibek1) | 2019-11-11 |
-| 461 | [153251](../reports/153251.md) | [Nextcloud 9.0.53] Content Spoofing in 'trustDomain' paramet | None | — | 1 | [ahsan](https://hackerone.com/ahsan) | 2016-12-05 |
-| 462 | [163823](../reports/163823.md) | Slow Http attack on nextcloud(DOS) | None | — | 1 | [dr-sera](https://hackerone.com/dr-sera) | 2016-10-05 |
-| 463 | [380782](../reports/380782.md) | Ubuntu 12.04 Privilege Escalation | None | — | 0 | [ezk](https://hackerone.com/ezk) | 2018-12-18 |
+| 321 | [1924355](../reports/1924355.md) | Notes attachments render HTML in preview mode | Low — CVSS 3.5 | — | 8 | [incident-response](https://hackerone.com/incident-response) | 2023-08-10 |
+| 322 | [153905](../reports/153905.md) | IDOR - Disable sharing | Low — CVSS 2.6 | — | 8 | [dalt4sec](https://hackerone.com/dalt4sec) | 2016-12-03 |
+| 323 | [1167919](../reports/1167919.md) | Default Nextcloud server config and iOS Nextcloud client lea | Low | — | 7 | [rtod](https://hackerone.com/rtod) | 2021-05-31 |
+| 324 | [269705](../reports/269705.md) | WordPress < 4.8.2 vulnerable to multiple attacks | Low | — | 7 | [kuyschi](https://hackerone.com/kuyschi) | 2017-09-27 |
+| 325 | [1210458](../reports/1210458.md) | Serverinfo endpoints are not bruteforce protected nor are to | Low | — | 7 | [rtod](https://hackerone.com/rtod) | 2021-06-16 |
+| 326 | [358339](../reports/358339.md) | File access control rules not enforced on image files | Low — CVSS 3.5 | — | 7 | [reinism](https://hackerone.com/reinism) | 2018-06-15 |
+| 327 | [1169335](../reports/1169335.md) | Password policy changes not enforced for existing passwords | Low | — | 7 | [rtod](https://hackerone.com/rtod) | 2021-04-26 |
+| 328 | [3304830](../reports/3304830.md) | Files drop share links for end-to-end encrypted folders allo | Low — CVSS 3.5 | — | 7 | [0x0doteth](https://hackerone.com/0x0doteth) | 2026-05-08 |
+| 329 | [347782](../reports/347782.md) | Click Jacking Nextcloud | Low | — | 7 | [enz0](https://hackerone.com/enz0) | 2019-07-01 |
+| 330 | [331302](../reports/331302.md) | Improper protection of FileContentProvider | Low | — | 7 | [mmmds](https://hackerone.com/mmmds) | 2020-03-01 |
+| 331 | [888261](../reports/888261.md) | The password of a mail share is not set if the password is g | Low | — | 7 | [daniel_calvino_sanchez](https://hackerone.com/daniel_calvino_sanchez) | 2021-03-04 |
+| 332 | [476615](../reports/476615.md) | Private/confidential setting of calendar events is ignored o | Low | — | 7 | [nickvergessen](https://hackerone.com/nickvergessen) | 2019-06-27 |
+| 333 | [225777](../reports/225777.md) | DOMPurify 0.8.9 released | Low — CVSS 3.1 | — | 6 | [lukasreschke](https://hackerone.com/lukasreschke) | 2020-03-01 |
+| 334 | [1726445](../reports/1726445.md) | A vulnerability classified as critical has been found in gsi | Low | — | 6 | [ibrahim71192](https://hackerone.com/ibrahim71192) | 2022-12-10 |
+| 335 | [1108420](../reports/1108420.md) | HTML Injection on "polls" app - comments section (possibly X | Low | — | 6 | [supr4s](https://hackerone.com/supr4s) | 2021-03-31 |
+| 336 | [1781751](../reports/1781751.md) | Ability to control the filename when uploading a logo or fav | Low — CVSS 2.4 | — | 6 | [ctulhu](https://hackerone.com/ctulhu) | 2023-04-10 |
+| 337 | [1246721](../reports/1246721.md) | Text app leaks file path of shared files | Low | — | 6 | [lukasreschkenc](https://hackerone.com/lukasreschkenc) | 2021-08-11 |
+| 338 | [1354334](../reports/1354334.md) | Error in Deleting Deck cards attachment reveals the full pat | Low — CVSS 3.5 | — | 6 | [ctulhu](https://hackerone.com/ctulhu) | 2022-05-20 |
+| 339 | [225098](../reports/225098.md) | SQL exception in JSON format | Low | — | 6 | [clizsec](https://hackerone.com/clizsec) | 2020-01-31 |
+| 340 | [213360](../reports/213360.md) | Content Spoofing/Text Injection in nextcloud.com | Low | — | 6 | [demo--hacker](https://hackerone.com/demo--hacker) | 2017-04-19 |
+| 341 | [1745702](../reports/1745702.md) | Insecure randomness for default password in file sharing whe | Low — CVSS 3.5 | — | 5 | [gorei](https://hackerone.com/gorei) | 2023-03-30 |
+| 342 | [1195593](../reports/1195593.md) | Talk discloses turn server to anybody | Low | — | 5 | [rtod](https://hackerone.com/rtod) | 2021-05-26 |
+| 343 | [1711847](../reports/1711847.md) | XSS in Desktop Client in call notification popup | Low — CVSS 3.5 | — | 5 | [b911bade858ce8e6a0f50f8](https://hackerone.com/b911bade858ce8e6a0f50f8) | 2022-11-25 |
+| 344 | [1707977](../reports/1707977.md) | XSS in Desktop Client via user status and information | Low — CVSS 3.5 | — | 5 | [b911bade858ce8e6a0f50f8](https://hackerone.com/b911bade858ce8e6a0f50f8) | 2022-11-25 |
+| 345 | [1690510](../reports/1690510.md) | the complete server installation path is visible in cloud/us | Low — CVSS 3.5 | — | 5 | [bohwaz](https://hackerone.com/bohwaz) | 2023-03-30 |
+| 346 | [390728](../reports/390728.md) | Stored XSS on scan.nextcloud.com | Low | — | 4 | [5b66c571](https://hackerone.com/5b66c571) | 2020-03-01 |
+| 347 | [1200989](../reports/1200989.md) | No admin audit entry for enabling/disabling 2FA | Low | — | 4 | [rtod](https://hackerone.com/rtod) | 2021-06-16 |
+| 348 | [1596918](../reports/1596918.md) | Brute force protections don't work | Low — CVSS 3.7 | — | 4 | [nickvergessen](https://hackerone.com/nickvergessen) | 2022-09-03 |
+| 349 | [1607601](../reports/1607601.md) | @nextcloud/logger NPM package brings vulnerable ansi-regex v | Low — CVSS 2.7 | — | 4 | [ro0t_elqayser](https://hackerone.com/ro0t_elqayser) | 2022-07-29 |
+| 350 | [669365](../reports/669365.md) | Veracode and security audit record are publicly available | Low | — | 3 | [laxe](https://hackerone.com/laxe) | 2019-09-10 |
+| 351 | [358102](../reports/358102.md) | Disclosed Version of PORTS SSH|HTTP|SSL | Low | — | 3 | [bb00x](https://hackerone.com/bb00x) | 2018-06-14 |
+| 352 | [895730](../reports/895730.md) | Contacts menu (not app) fails to restrict (to local groups)  | Low — CVSS 3.2 | — | 3 | [nursoda](https://hackerone.com/nursoda) | 2020-07-25 |
+| 353 | [476439](../reports/476439.md) | Password authentication at newsletter.nextcloud.com disclose | Low | — | 3 | [br3ach](https://hackerone.com/br3ach) | 2020-03-01 |
+| 354 | [1195568](../reports/1195568.md) | Ransomware protection is missing extentions | Low | — | 3 | [rtod](https://hackerone.com/rtod) | 2021-06-16 |
+| 355 | [222080](../reports/222080.md) | The email API to reset password is unlimited and can be used | Low | — | 3 | [xifengweiyu](https://hackerone.com/xifengweiyu) | 2017-04-20 |
+| 356 | [1200992](../reports/1200992.md) | No admin audit log for auth tokens | Low | — | 3 | [rtod](https://hackerone.com/rtod) | 2021-06-16 |
+| 357 | [222805](../reports/222805.md) | Content (Text) Injection at https://nextcloud.com | Low | — | 3 | [xifengweiyu](https://hackerone.com/xifengweiyu) | 2017-05-15 |
+| 358 | [215372](../reports/215372.md) | Server version/OS type disclosure via HTTP Response Header | Low | — | 2 | [ryudox](https://hackerone.com/ryudox) | 2017-03-23 |
+| 359 | [473144](../reports/473144.md) | Content spoofing on https://surveyserver.nextcloud.com | Low | — | 2 | [mik317](https://hackerone.com/mik317) | 2021-02-14 |
+| 360 | [885041](../reports/885041.md) | The password of a mail share is not hashed if the password i | Low | — | 2 | [daniel_calvino_sanchez](https://hackerone.com/daniel_calvino_sanchez) | 2020-10-28 |
+| 361 | [264426](../reports/264426.md) | Nextcloud logs ldap passwords | Low | — | 2 | [tribut](https://hackerone.com/tribut) | 2020-01-31 |
+| 362 | [882258](../reports/882258.md) | New users can read all Nextcloud Deck data from previous use | Low | — | 2 | [stefanniedermann](https://hackerone.com/stefanniedermann) | 2021-02-14 |
+| 363 | [218199](../reports/218199.md) | Directory Listing In Subdomain Of nextcloud.com | Low | — | 1 | [xyberwolf1](https://hackerone.com/xyberwolf1) | 2017-07-14 |
+| 364 | [279717](../reports/279717.md) | Broken link for wrong domain entry may be leveraged for Phis | Low | — | 1 | [mehmil](https://hackerone.com/mehmil) | 2020-03-01 |
+| 365 | [812028](../reports/812028.md) | xss on setup config page  | Low | — | 1 | [jackzhou](https://hackerone.com/jackzhou) | 2021-02-14 |
+| 366 | [403909](../reports/403909.md) | Information Exposure Through Directory Listing - https://app | Low | — | 1 | [ismailtsdelen](https://hackerone.com/ismailtsdelen) | 2019-01-07 |
+| 367 | [209520](../reports/209520.md) | http://www.nextcloud.com/wp-includes/js/swfupload/swfupload. | None | — | 42 | [todayisnew](https://hackerone.com/todayisnew) | 2020-03-07 |
+| 368 | [2299069](../reports/2299069.md) | xmlrpc.php &wp-cron.php files are enabled, and will used for | None | — | 41 | [cyber-tech](https://hackerone.com/cyber-tech) | 2024-02-08 |
+| 369 | [3479692](../reports/3479692.md) | Unauthenticated SSRF via Public Reference API -Sharing Token | None | — | 40 | [eclipse07077](https://hackerone.com/eclipse07077) | 2026-03-31 |
+| 370 | [194329](../reports/194329.md) | No session logout after changing password & alsoandroid sess | None | — | 35 | [whitehattushu](https://hackerone.com/whitehattushu) | 2020-02-09 |
+| 371 | [3518758](../reports/3518758.md) | IDOR on ██████ via direct photo URL leads to unauthorized ac | None | — | 30 | [shiva2550](https://hackerone.com/shiva2550) | 2026-04-07 |
+| 372 | [2720030](../reports/2720030.md) | Open redirect when logging in with user_oidc | None | — | 30 | [kesselb](https://hackerone.com/kesselb) | 2024-11-15 |
+| 373 | [1067824](../reports/1067824.md) | Database error shown to the user when using a long guest nam | None | — | 29 | [hitman_47](https://hackerone.com/hitman_47) | 2021-02-07 |
+| 374 | [3399016](../reports/3399016.md) | Improper input validation On Exported deep-link handler cras | None | — | 28 | [khoof](https://hackerone.com/khoof) | 2026-05-01 |
+| 375 | [145355](../reports/145355.md) | Stored XSS on Share-popup of a directory's Gallery-view | None | — | 24 | [fransrosen](https://hackerone.com/fransrosen) | 2016-07-19 |
+| 376 | [211213](../reports/211213.md) | https://xmpp.nextcloud.com///;@www.google.com allows open re | None | — | 20 | [todayisnew](https://hackerone.com/todayisnew) | 2017-08-13 |
+| 377 | [2058556](../reports/2058556.md) | Self XSS when sending HTML as a comment in the Deck app | None | — | 20 | [hackit_bharat](https://hackerone.com/hackit_bharat) | 2024-01-18 |
+| 378 | [145524](../reports/145524.md) | Server side request forgery (SSRF) on nextcloud implementati | None | — | 19 | [paglababa](https://hackerone.com/paglababa) | 2016-06-17 |
+| 379 | [146278](../reports/146278.md) | Log pollution can lead to HTML Injection. | None | — | 18 | [apok](https://hackerone.com/apok) | 2016-07-19 |
+| 380 | [1720822](../reports/1720822.md) | Suspicious login app ships old league/flysystem version | None | — | 17 | [mik-patient](https://hackerone.com/mik-patient) | 2023-02-08 |
+| 381 | [168054](../reports/168054.md) | Unauthenticated Stored xss  | None | — | 14 | [spetr0x](https://hackerone.com/spetr0x) | 2016-09-13 |
+| 382 | [146424](../reports/146424.md) | No Rate Limiting on stats.nextcloud.com login | None | — | 12 | [japz](https://hackerone.com/japz) | 2016-06-22 |
+| 383 | [461308](../reports/461308.md) | Remote attacker can impersonate Social users via ActivityPub | None | — | 12 | [tomk](https://hackerone.com/tomk) | 2019-02-01 |
+| 384 | [220946](../reports/220946.md) | https://portal.nextcloud.com/.htaccess file is readable | None | — | 12 | [peeper35](https://hackerone.com/peeper35) | 2017-04-14 |
+| 385 | [197878](../reports/197878.md) | WordPress <= 4.6.1 Stored XSS Via Theme File | None | — | 12 | [madrobot](https://hackerone.com/madrobot) | 2017-01-13 |
+| 386 | [198012](../reports/198012.md) | Disclosure of administrators via JSON on nextcloud.com Wordp | None | — | 12 | [rbcafe](https://hackerone.com/rbcafe) | 2017-01-13 |
+| 387 | [213056](../reports/213056.md) | Invalid request may lead content spoofing for phishing | None | — | 11 | [d4rk_g1rl](https://hackerone.com/d4rk_g1rl) | 2017-04-12 |
+| 388 | [1039805](../reports/1039805.md) | Clickjacking URLS | None | — | 10 | [tinkerermaruthu](https://hackerone.com/tinkerermaruthu) | 2021-03-10 |
+| 389 | [221298](../reports/221298.md) | GIT Detected | None | — | 10 | [lulliii](https://hackerone.com/lulliii) | 2017-04-20 |
+| 390 | [145950](../reports/145950.md) | Uploading files to a folder where invited user don't have an | None | — | 10 | [detroitsmash](https://hackerone.com/detroitsmash) | 2016-07-19 |
+| 391 | [145727](../reports/145727.md) | Bruteforcing help.nextcloud.com | None | — | 10 | [japz](https://hackerone.com/japz) | 2016-06-19 |
+| 392 | [1712329](../reports/1712329.md) | [nextcloud/server] Moment.js vulnerable to Inefficient Regul | None | — | 10 | [mik-patient](https://hackerone.com/mik-patient) | 2022-12-09 |
+| 393 | [145734](../reports/145734.md) | help.nextcloud Email Address/Username enumeration | None | — | 9 | [japz](https://hackerone.com/japz) | 2016-06-19 |
+| 394 | [820146](../reports/820146.md) | PHPUnit is included in groupfolders release package potentia | None | — | 9 | [ledfan](https://hackerone.com/ledfan) | 2020-06-25 |
+| 395 | [161924](../reports/161924.md) | Password Reset Link issue | None | — | 9 | [i1ackerone](https://hackerone.com/i1ackerone) | 2016-09-23 |
+| 396 | [631227](../reports/631227.md) | Some HTML Tags are Getting Executed in com.nextcloud.client | None | — | 9 | [ctulhu](https://hackerone.com/ctulhu) | 2019-07-26 |
+| 397 | [504759](../reports/504759.md) | Uploading large avatar images cause excessive CPU usage | None | — | 8 | [fancycode](https://hackerone.com/fancycode) | 2019-06-27 |
+| 398 | [163342](../reports/163342.md) | Expired SSL certificate  | None | — | 7 | [goethe_](https://hackerone.com/goethe_) | 2016-08-25 |
+| 399 | [145896](../reports/145896.md) | Password reset link remains valid after email change | None | — | 7 | [rootxflood](https://hackerone.com/rootxflood) | 2016-12-13 |
+| 400 | [271253](../reports/271253.md) | NextCloud is also Accepting OCTET-STREAM Type of Documents i | None | — | 7 | [rohit_coder](https://hackerone.com/rohit_coder) | 2019-04-11 |
+| 401 | [261297](../reports/261297.md) | Disabled user can reset their password   | None | — | 7 | [egrep](https://hackerone.com/egrep) | 2020-03-01 |
+| 402 | [145452](../reports/145452.md) | Share owner has no possibility to list all existing derived  | None | — | 6 | [detroitsmash](https://hackerone.com/detroitsmash) | 2016-12-13 |
+| 403 | [1022211](../reports/1022211.md) | Leaked of Profile Image from URL changing | None | — | 6 | [ankitpuri](https://hackerone.com/ankitpuri) | 2020-11-17 |
+| 404 | [1241460](../reports/1241460.md) | ApiService#fetch serves content as text/html and inline Cont | None | — | 6 | [lukasreschkenc](https://hackerone.com/lukasreschkenc) | 2021-08-11 |
+| 405 | [145604](../reports/145604.md) | Avatar image upload and bypass  real image verification  | None | — | 6 | [dremos](https://hackerone.com/dremos) | 2017-01-15 |
+| 406 | [156510](../reports/156510.md) | Directory listening enabled in: 88.198.160.130 | None | — | 6 | [sandh0t](https://hackerone.com/sandh0t) | 2016-09-04 |
+| 407 | [214340](../reports/214340.md) | Content spoofing due to the improper behavior of the 403 pag | None | — | 6 | [t-pwn](https://hackerone.com/t-pwn) | 2017-05-18 |
+| 408 | [855304](../reports/855304.md) | No set limit to try to login in "https://auth.nextcloud.com/ | None | — | 5 | [syachineko](https://hackerone.com/syachineko) | 2021-04-20 |
+| 409 | [145745](../reports/145745.md) | Business/Functional logic bypass: Remove admins from admin g | None | — | 5 | [paglababa](https://hackerone.com/paglababa) | 2016-06-19 |
+| 410 | [269449](../reports/269449.md) | Banner Grabbing - Apache Server Version Disclousure | None | — | 5 | [cybertiger](https://hackerone.com/cybertiger) | 2018-05-17 |
+| 411 | [198773](../reports/198773.md) | Drone Nextcloud | None | — | 5 | [rbcafe](https://hackerone.com/rbcafe) | 2017-02-12 |
+| 412 | [163106](../reports/163106.md) | Information Disclosure of .htaccess file in Private Server/S | None | — | 5 | [ahsan](https://hackerone.com/ahsan) | 2016-08-26 |
+| 413 | [145517](../reports/145517.md) | Vulnerable Javascript library | None | — | 5 | [paulochoupina](https://hackerone.com/paulochoupina) | 2016-06-17 |
+| 414 | [146106](../reports/146106.md) | Email ID Disclosure. | None | — | 5 | [bugdiscloseguys](https://hackerone.com/bugdiscloseguys) | 2016-06-20 |
+| 415 | [175085](../reports/175085.md) | URI scheme bypass in mail app lead to HTML content spoof and | None | — | 5 | [trichimtrich_](https://hackerone.com/trichimtrich_) | 2017-01-12 |
+| 416 | [752353](../reports/752353.md) | Anonymous file drop page ignores user profile visibility res | None | — | 5 | [pshknst](https://hackerone.com/pshknst) | 2020-08-03 |
+| 417 | [200762](../reports/200762.md) | Email Spoofing | None | — | 4 | [khalidamin](https://hackerone.com/khalidamin) | 2017-01-25 |
+| 418 | [348801](../reports/348801.md) | Banner Grabbing - Apache Server Version Disclosure | None | — | 4 | [kistimat](https://hackerone.com/kistimat) | 2018-05-17 |
+| 419 | [145375](../reports/145375.md) | stats.nextcloud.com: Content Injection | None | — | 4 | [kiraak-boy](https://hackerone.com/kiraak-boy) | 2016-07-17 |
+| 420 | [146179](../reports/146179.md) | REG: Content provider information leakage | None | — | 4 | [zeroknife](https://hackerone.com/zeroknife) | 2016-06-24 |
+| 421 | [173622](../reports/173622.md) | Bypassing quota limit  | None | — | 4 | [nordin](https://hackerone.com/nordin) | 2017-03-10 |
+| 422 | [145730](../reports/145730.md) | newsletter.nextcloud.com: Bypass firewall protection | None | — | 4 | [bug_cat](https://hackerone.com/bug_cat) | 2016-07-18 |
+| 423 | [213358](../reports/213358.md) | SSRF at apps.nextcloud.com/developer/apps/releases/new | None | — | 4 | [t-pwn](https://hackerone.com/t-pwn) | 2017-04-20 |
+| 424 | [154529](../reports/154529.md) | Bookmarks: Delete all existing bookmarks of a user | None | — | 4 | [ctee](https://hackerone.com/ctee) | 2016-08-08 |
+| 425 | [145396](../reports/145396.md) | Enumeration of subscribed users and unauthenticated email un | None | — | 4 | [strukt](https://hackerone.com/strukt) | 2016-06-19 |
+| 426 | [145458](../reports/145458.md) | nextcloud.com: Mail Bombing ( No Rate Limiting On Sending Em | None | — | 4 | [ashishpathakall](https://hackerone.com/ashishpathakall) | 2016-07-17 |
+| 427 | [146093](../reports/146093.md) | WordPress Vulnerabilities: User Enumeration, Vulnerable Akis | None | — | 4 | [vivek-p](https://hackerone.com/vivek-p) | 2016-06-22 |
+| 428 | [194564](../reports/194564.md) | Review remote code execution in SwiftMailer | None | — | 4 | [lukasreschke](https://hackerone.com/lukasreschke) | 2017-02-18 |
+| 429 | [155189](../reports/155189.md) | demo.nextcloud.com: Content spoofing due to default Apache E | None | — | 3 | [sysecure](https://hackerone.com/sysecure) | 2016-09-29 |
+| 430 | [1789602](../reports/1789602.md) | Contacts only sanitizes PHOTO svg if mime type is all lower  | None | — | 3 | [christophwurst](https://hackerone.com/christophwurst) | 2023-06-24 |
+| 431 | [369979](../reports/369979.md) | Missing X-Content-Type-Options  | None | — | 3 | [pal434](https://hackerone.com/pal434) | 2020-03-01 |
+| 432 | [145612](../reports/145612.md) | No captcha on newsletter.nextcloudcom leaves vulnerable to e | None | — | 3 | [aaron_costello](https://hackerone.com/aaron_costello) | 2016-06-19 |
+| 433 | [145462](../reports/145462.md) | No rate limiting on password protected shared file link | None | — | 3 | [jayushc](https://hackerone.com/jayushc) | 2016-06-20 |
+| 434 | [145374](../reports/145374.md) | Content Spoofing | None | — | 3 | [ashishpathakall](https://hackerone.com/ashishpathakall) | 2016-06-19 |
+| 435 | [561805](../reports/561805.md) | W3 Total Cache plugin multiple vulnerabilities | None | — | 3 | [funt0m](https://hackerone.com/funt0m) | 2019-07-28 |
+| 436 | [1173411](../reports/1173411.md) | Nextcloud update checks leaks information | None | — | 3 | [rtod](https://hackerone.com/rtod) | 2021-05-01 |
+| 437 | [151847](../reports/151847.md) | The application uses basic authentication. | None | — | 3 | [roshanpty](https://hackerone.com/roshanpty) | 2016-07-18 |
+| 438 | [145853](../reports/145853.md) | Content injection in subdomain | None | — | 3 | [testest](https://hackerone.com/testest) | 2016-06-19 |
+| 439 | [145488](../reports/145488.md) | failure to invalidate session on password change | None | — | 3 | [pradeepch99](https://hackerone.com/pradeepch99) | 2017-04-20 |
+| 440 | [145722](../reports/145722.md) | Bruteforce attack is possible on newsletter.nextcloud.com | None | — | 3 | [koolacac](https://hackerone.com/koolacac) | 2016-06-19 |
+| 441 | [145402](../reports/145402.md) | No permission set on Activities [Android App] | None | — | 3 | [hax0rgb](https://hackerone.com/hax0rgb) | 2016-06-20 |
+| 442 | [145850](../reports/145850.md) | Content Spoofing/Text Injection - docs.nextcloud.org | None | — | 3 | [ahsan](https://hackerone.com/ahsan) | 2016-06-19 |
+| 443 | [475114](../reports/475114.md) | Github repo's wiki publicly editable | None | — | 3 | [whitehat_hacker](https://hackerone.com/whitehat_hacker) | 2020-01-31 |
+| 444 | [145849](../reports/145849.md) | Content Injection 404 page | None | — | 2 | [testest](https://hackerone.com/testest) | 2016-06-19 |
+| 445 | [374053](../reports/374053.md) | Accessing to download.nextcloud.com from original ip adreess | None | — | 2 | [bb00x](https://hackerone.com/bb00x) | 2018-07-12 |
+| 446 | [199445](../reports/199445.md) | Nextcloud.com is vulnerable to SWEET32 attack | None | — | 2 | [pkkothawade](https://hackerone.com/pkkothawade) | 2017-01-25 |
+| 447 | [161299](../reports/161299.md) | Content Injection - apps.nextcloud.com | None | — | 2 | [spodermen](https://hackerone.com/spodermen) | 2016-08-26 |
+| 448 | [155690](../reports/155690.md) | Arbitrary File Upload in Logo & Log in image Theming setting | None | — | 2 | [bastianwelfrid](https://hackerone.com/bastianwelfrid) | 2016-10-05 |
+| 449 | [145854](../reports/145854.md) | Content Injection in subdomain | None | — | 2 | [testest](https://hackerone.com/testest) | 2016-06-19 |
+| 450 | [145552](../reports/145552.md) | Directory Listing On download.nextcloud.com & Practical Atta | None | — | 2 | [1337_inj3c70r](https://hackerone.com/1337_inj3c70r) | 2016-06-17 |
+| 451 | [146314](../reports/146314.md) | Deny access to download.nextcloud.com + folders | None | — | 2 | [thearmfox](https://hackerone.com/thearmfox) | 2016-06-21 |
+| 452 | [145583](../reports/145583.md) | Lost Password CSRF | None | — | 2 | [mefkan](https://hackerone.com/mefkan) | 2016-06-19 |
+| 453 | [145463](../reports/145463.md) | Nextcloud server software: Content Spoofing | None | — | 2 | [ishahriyar](https://hackerone.com/ishahriyar) | 2016-07-19 |
+| 454 | [549831](../reports/549831.md) | External Storage - WebDAV - New user has access to storage f | None | — | 2 | [sanmue](https://hackerone.com/sanmue) | 2021-02-14 |
+| 455 | [223759](../reports/223759.md) | information disclose | None | — | 2 | [abdul1ah](https://hackerone.com/abdul1ah) | 2017-04-25 |
+| 456 | [145430](../reports/145430.md) | help.nextcloud.com: Session Management Issue | None | — | 2 | [ahsan](https://hackerone.com/ahsan) | 2016-06-17 |
+| 457 | [164520](../reports/164520.md) | Reflected Self-XSS Vulnerability in the Comment section of F | None | — | 2 | [shivakumar143](https://hackerone.com/shivakumar143) | 2016-08-31 |
+| 458 | [161323](../reports/161323.md) | Content Injection - demo.nextcloud.com | None | — | 1 | [spodermen](https://hackerone.com/spodermen) | 2016-08-26 |
+| 459 | [662155](../reports/662155.md) | Clickjacking on https://download.nextcloud.com/ | None | — | 1 | [j4tayu](https://hackerone.com/j4tayu) | 2019-11-11 |
+| 460 | [224108](../reports/224108.md) | Cross Site Scripting | None | — | 1 | [lulliii](https://hackerone.com/lulliii) | 2017-04-26 |
+| 461 | [658011](../reports/658011.md) | Clickjacking on https://download.nextcloud.com | None | — | 1 | [bibek1](https://hackerone.com/bibek1) | 2019-11-11 |
+| 462 | [153251](../reports/153251.md) | [Nextcloud 9.0.53] Content Spoofing in 'trustDomain' paramet | None | — | 1 | [ahsan](https://hackerone.com/ahsan) | 2016-12-05 |
+| 463 | [163823](../reports/163823.md) | Slow Http attack on nextcloud(DOS) | None | — | 1 | [dr-sera](https://hackerone.com/dr-sera) | 2016-10-05 |
+| 464 | [380782](../reports/380782.md) | Ubuntu 12.04 Privilege Escalation | None | — | 0 | [ezk](https://hackerone.com/ezk) | 2018-12-18 |
