@@ -1,4 +1,4 @@
-# IBM — Disclosed Reports (34 total)
+# IBM — Disclosed Reports (35 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -31,10 +31,11 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 25 | [2899380](../reports/2899380.md) | POST based Cross-Site Scripting on IBM research endpoint | Medium — CVSS 5.6 | — | 44 | [youssifs7](https://hackerone.com/youssifs7) | 2025-01-23 |
 | 26 | [2343548](../reports/2343548.md) | XSS in IBM InfoCenter | Medium — CVSS 6.4 | — | 39 | [aviv_keller](https://hackerone.com/aviv_keller) | 2024-07-17 |
 | 27 | [2402842](../reports/2402842.md) | Information disclosure identified on IBM endpoint.  | Medium — CVSS 6.7 | — | 39 | [devire](https://hackerone.com/devire) | 2025-07-08 |
-| 28 | [2919623](../reports/2919623.md) | There is a POST based CSRF issue over IBM endpoint leading t | Medium — CVSS 5.0 | — | 37 | [youssifs7](https://hackerone.com/youssifs7) | 2025-02-04 |
-| 29 | [2292236](../reports/2292236.md) | Improper Authentication on Alertmanager instance | Medium — CVSS 6.1 | — | 34 | [nhx1](https://hackerone.com/nhx1) | 2024-02-29 |
-| 30 | [1848551](../reports/1848551.md) | Moodle XSS on s-immerscio.comprehend.ibm.com | Medium | — | 11 | [0xpugal](https://hackerone.com/0xpugal) | 2023-05-11 |
-| 31 | [2844797](../reports/2844797.md) | Exposed Logs and Bearer Tokens on Test Endpoint | None | — | 57 | [facades](https://hackerone.com/facades) | 2024-12-12 |
-| 32 | [3051155](../reports/3051155.md) | Information disclosure on IBM training service endpoint | None | — | 47 | [thpless](https://hackerone.com/thpless) | 2025-04-29 |
-| 33 | [2398335](../reports/2398335.md) | jazz.net - publicly accessible .svn repositories | None | — | 43 | [cyber_punk](https://hackerone.com/cyber_punk) | 2024-08-16 |
-| 34 | [3664261](../reports/3664261.md) | Reflected Cross-Site Scripting (XSS) found on IBM.com domain | None | — | 6 | [entrovyx](https://hackerone.com/entrovyx) | 2026-06-15 |
+| 28 | [1933304](../reports/1933304.md) | IBM Maximo Asset Management could allow a remote attacker to | Medium | — | 37 | [ibrahimsyam1](https://hackerone.com/ibrahimsyam1) | 2024-02-06 |
+| 29 | [2919623](../reports/2919623.md) | There is a POST based CSRF issue over IBM endpoint leading t | Medium — CVSS 5.0 | — | 37 | [youssifs7](https://hackerone.com/youssifs7) | 2025-02-04 |
+| 30 | [2292236](../reports/2292236.md) | Improper Authentication on Alertmanager instance | Medium — CVSS 6.1 | — | 34 | [nhx1](https://hackerone.com/nhx1) | 2024-02-29 |
+| 31 | [1848551](../reports/1848551.md) | Moodle XSS on s-immerscio.comprehend.ibm.com | Medium | — | 11 | [0xpugal](https://hackerone.com/0xpugal) | 2023-05-11 |
+| 32 | [2844797](../reports/2844797.md) | Exposed Logs and Bearer Tokens on Test Endpoint | None | — | 57 | [facades](https://hackerone.com/facades) | 2024-12-12 |
+| 33 | [3051155](../reports/3051155.md) | Information disclosure on IBM training service endpoint | None | — | 47 | [thpless](https://hackerone.com/thpless) | 2025-04-29 |
+| 34 | [2398335](../reports/2398335.md) | jazz.net - publicly accessible .svn repositories | None | — | 43 | [cyber_punk](https://hackerone.com/cyber_punk) | 2024-08-16 |
+| 35 | [3664261](../reports/3664261.md) | Reflected Cross-Site Scripting (XSS) found on IBM.com domain | None | — | 6 | [entrovyx](https://hackerone.com/entrovyx) | 2026-06-15 |

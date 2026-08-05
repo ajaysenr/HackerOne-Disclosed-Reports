@@ -9887,3 +9887,4 @@ https://hackerone.com/reports/3833577 | heap-use-after-free in curl_easy_cleanup
 https://hackerone.com/reports/3838601 | Permission Model Bypass: `trace_events.createTracing().enable()` Writes Trace Logs Outside `--allow-fs-write`
 https://hackerone.com/reports/3878586 | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, hide_from_lists) and uses frozen visibility, exposing donat
 https://hackerone.com/reports/3911605 | SMTP CRLF injection in custom SMTP recipient operand allows additional SMTP commands after authentication
+https://hackerone.com/reports/3911968 | Heap use-after-free (write) in mev_forget_socket() via reentrant curl_easy_pause() — incomplete fix for CVE-2026-9080

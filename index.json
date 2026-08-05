@@ -155588,6 +155588,44 @@
     "votes": 51
   },
   {
+    "id": 1929597,
+    "url": "https://hackerone.com/reports/1929597",
+    "title": "CVE-2023-28320: siglongjmp race condition",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "nyymi",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Improper Synchronization",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-28320"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-04-02",
+    "disclosed_at": "2023-05-17",
+    "votes": 6
+  },
+  {
+    "id": 1929915,
+    "url": "https://hackerone.com/reports/1929915",
+    "title": "Bypass for forced re-authentication upon biometrics change",
+    "program": "Bitwarden",
+    "program_handle": "bitwarden",
+    "reporter": "rink_",
+    "severity": "medium",
+    "cvss": 6.6,
+    "weakness": "Improper Authentication - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "GOOGLE_PLAY_APP_ID",
+    "reported_at": "2023-04-02",
+    "disclosed_at": "2023-07-19",
+    "votes": 34
+  },
+  {
     "id": 1930763,
     "url": "https://hackerone.com/reports/1930763",
     "title": "RichText parser vulnerability in scheduled posts allows XSS",
@@ -155604,6 +155642,26 @@
     "reported_at": "2023-04-03",
     "disclosed_at": "2023-04-20",
     "votes": 276
+  },
+  {
+    "id": 1933304,
+    "url": "https://hackerone.com/reports/1933304",
+    "title": "IBM Maximo Asset Management could allow a remote attacker to bypass authentication due to improper access controls",
+    "program": "IBM",
+    "program_handle": "ibm",
+    "reporter": "ibrahimsyam1",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-32333"
+    ],
+    "substate": "resolved",
+    "asset_type": "OTHER",
+    "reported_at": "2023-04-04",
+    "disclosed_at": "2024-02-06",
+    "votes": 37
   },
   {
     "id": 1935151,
@@ -181345,5 +181403,25 @@
     "reported_at": "2026-08-03",
     "disclosed_at": "2026-08-03",
     "votes": 8
+  },
+  {
+    "id": 3911968,
+    "url": "https://hackerone.com/reports/3911968",
+    "title": "Heap use-after-free (write) in mev_forget_socket() via reentrant curl_easy_pause() \u2014 incomplete fix for CVE-2026-9080",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "juthawong",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Use After Free",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-9080"
+    ],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-03",
+    "disclosed_at": "2026-08-04",
+    "votes": 3
   }
 ]
