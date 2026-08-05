@@ -8504,6 +8504,7 @@ https://hackerone.com/reports/1929567 | ReDoS( Ruby, Time)
 https://hackerone.com/reports/1929597 | CVE-2023-28320: siglongjmp race condition
 https://hackerone.com/reports/1929915 | Bypass for forced re-authentication upon biometrics change
 https://hackerone.com/reports/1930763 | RichText parser vulnerability in scheduled posts allows XSS
+https://hackerone.com/reports/1933304 | IBM Maximo Asset Management could allow a remote attacker to bypass authentication due to improper access controls
 https://hackerone.com/reports/1935151 | SQL Injection at https://████ via ███ parameter
 https://hackerone.com/reports/1935628 | HTML injection possible with soft email confirmations when Administrator manually confirms attacker email address
 https://hackerone.com/reports/1937235 | LDAP Server NULL Bind Connection Information Disclosure
