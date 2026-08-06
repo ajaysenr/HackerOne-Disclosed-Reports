@@ -8509,6 +8509,8 @@ https://hackerone.com/reports/1935151 | SQL Injection at https://████ vi
 https://hackerone.com/reports/1935628 | HTML injection possible with soft email confirmations when Administrator manually confirms attacker email address
 https://hackerone.com/reports/1937235 | LDAP Server NULL Bind Connection Information Disclosure
 https://hackerone.com/reports/1938106 | Smuggling content in PR with refs/replace in GitHub
+https://hackerone.com/reports/1938693 | Default Credentials on Kinetic Core System Console - https://█████/kinetic/app/
+https://hackerone.com/reports/1940002 | heap-buffer-overflow in gc_writebarrier_incremental
 https://hackerone.com/reports/1940245 | Reflected XSS on help.shopify.com
 https://hackerone.com/reports/1940443 | internal dev tokens disclosure
 https://hackerone.com/reports/1940788 | Stored XSS in plan name field (Acronis Cyber Protect)
