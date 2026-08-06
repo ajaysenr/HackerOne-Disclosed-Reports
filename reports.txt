@@ -8514,7 +8514,11 @@ https://hackerone.com/reports/1940002 | heap-buffer-overflow in gc_writebarrier_
 https://hackerone.com/reports/1940245 | Reflected XSS on help.shopify.com
 https://hackerone.com/reports/1940443 | internal dev tokens disclosure
 https://hackerone.com/reports/1940788 | Stored XSS in plan name field (Acronis Cyber Protect)
+https://hackerone.com/reports/1941390 | Plaintext leakage of DNS requests in Windows 1.1.1.1 WARP client
 https://hackerone.com/reports/1941767 | MetaMask Browser (on Android) does not enforce Content-Security-Policy header
+https://hackerone.com/reports/1943013 | CRLF Inection at `██████████`
+https://hackerone.com/reports/1943117 | Cache purge requests are not authenticated
+https://hackerone.com/reports/1943252 | Response Manipulation lead to bypass verification code while making appointment at `█████████`
 https://hackerone.com/reports/1944515 | CVE-2023-28755: ReDoS vulnerability in URI
 https://hackerone.com/reports/1945417 | “See who’s interested in working for your company” - security issue
 https://hackerone.com/reports/1946470 | Dependency Policy Bypass via process.binding
