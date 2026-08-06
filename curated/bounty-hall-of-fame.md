@@ -1,4 +1,4 @@
-# Bounty Hall of Fame — $10,000+ (79 total)
+# Bounty Hall of Fame — $10,000+ (80 total)
 
 | Report | Title | Program | Severity | Bounty | Votes |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [3113398](../reports/3113398.md) | Internal Access to Hackerone confluence Docs | [HackerOne](../by-program/security.md) | High — CVSS 8.2 | $12,500 | 220 |
 | [186230](../reports/186230.md) | Internal attachments can be exported via "Export as .zip" feature | [HackerOne](../by-program/security.md) | High — CVSS 7.5 | $12,500 | 267 |
 | [689314](../reports/689314.md) | Project Template functionality can be used to copy private projec | [GitLab](../by-program/gitlab.md) | Critical | $12,000 | 455 |
+| [3782701](../reports/3782701.md) | Unauthenticated RCE in Taskcluster web-server via GraphQL filter  | [Mozilla](../by-program/mozilla.md) | Critical | $12,000 | 54 |
 | [509924](../reports/509924.md) | JSON serialization of any Project model results in all Runner tok | [GitLab](../by-program/gitlab.md) | Critical — CVSS 9.1 | $12,000 | 363 |
 | [587854](../reports/587854.md) | Local files could be overwritten in GitLab, leading to remote com | [GitLab](../by-program/gitlab.md) | Critical | $12,000 | 540 |
 | [894569](../reports/894569.md) | An attacker can run pipeline jobs as arbitrary user | [GitLab](../by-program/gitlab.md) | Critical — CVSS 9.6 | $12,000 | 307 |

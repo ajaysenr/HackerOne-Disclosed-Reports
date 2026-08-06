@@ -1,4 +1,4 @@
-# Weakness: Man-in-the-Middle (20 reports)
+# Weakness: Man-in-the-Middle (21 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -24,3 +24,4 @@
 | 18 | [340580](../reports/340580.md) | registry.nodejs.org Subdomain Takeover | [Node.js](../by-program/nodejs.md) | None | — | 35 |
 | 19 | [762883](../reports/762883.md) | Free food bug done by burp suite | [Eternal](../by-program/eternal.md) | None | — | 17 |
 | 20 | [504507](../reports/504507.md) | Domain does not Match SSL Certificate | [Urban Dictionary](../by-program/urbandictionary.md) | None | — | 11 |
+| 21 | [3917775](../reports/3917775.md) | curl Missing Sec-WebSocket-Accept Verification Enables MITM WebSo | [curl](../by-program/curl.md) | None | — | 3 |

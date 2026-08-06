@@ -1,4 +1,4 @@
-# Weakness: Heap Overflow (39 reports)
+# Weakness: Heap Overflow (40 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -43,3 +43,4 @@
 | 37 | [687887](../reports/687887.md) | [3DS][StreetPass] Buffer Overflow in Super Mario Maker level deco | [Nintendo](../by-program/nintendo.md) | None | — | 30 |
 | 38 | [240659](../reports/240659.md) | heap-buffer-overflow (READ of size 1) in cpptoml::parser::consume | [Stellar.org](../by-program/stellar.md) | None | — | 8 |
 | 39 | [295380](../reports/295380.md) | heap-buffer-overflow in OP_R_BREAK | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 6 |
+| 40 | [1940002](../reports/1940002.md) | heap-buffer-overflow in gc_writebarrier_incremental | [Ruby](../by-program/ruby.md) | None | — | 0 |

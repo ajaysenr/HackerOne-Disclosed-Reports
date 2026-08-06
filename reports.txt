@@ -9748,13 +9748,18 @@ https://hackerone.com/reports/3682666 | Use-after-free in `curl_easy_ssls_export
 https://hackerone.com/reports/3684603 | Stack exhaustion in MIME multipart reading with deeply nested subparts
 https://hackerone.com/reports/3684614 | Heap-buffer-overflow in `Curl_ssl_push_certinfo_len()` — sole bounds check is `DEBUGASSERT`
 https://hackerone.com/reports/3687142 | Unauthenticated reading of every file via livechat auth and predicting MongoDB ObjectId()
+https://hackerone.com/reports/3687543 | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet state via attacker-controlled `pending_tx`
 https://hackerone.com/reports/3688064 | Node.js unicode dot separator handling can lead to tls wildcard-depth authentication bypass due to resolver and verifier hostname normalization mismat
 https://hackerone.com/reports/3692858 | Permission Model Bypass via `process.report.writeReport()` Path Misvalidation
 https://hackerone.com/reports/3693295 | iOS Brave Playlist "Open in Private Tab" bypasses FaceID requirement for Private Tabs
+https://hackerone.com/reports/3693636 | wallet-rpc crash via malformed /gettransactions response (empty txs → vector::front() in check_tx_key / check_tx_proof)
 https://hackerone.com/reports/3694007 | Authenticated Elasticsearch Painless script execution via Query.search.sort_query on hackerone.com/graphql
 https://hackerone.com/reports/3694390 | CVE-2026-7009: OCSP stapling bypass with Apple SecTrust
 https://hackerone.com/reports/3697491 | Missing HMAC validation on /uninstall webhook in Shopify/sample-django-app reference template
 https://hackerone.com/reports/3697719 | CVE-2026-7168: cross-proxy Digest auth state leak
+https://hackerone.com/reports/3698862 | `check_reserve_proof` sums RingCT ECDH amounts without checking the output commitment
+https://hackerone.com/reports/3699522 | `check_reserve_proof` counts duplicate entries: one output can inflate `total`
+https://hackerone.com/reports/3700036 | SpendProofV1 txid-substitution: get_spend_proof/check_spend_proof do not verify returned transaction hash
 https://hackerone.com/reports/3701692 | Malicious Conflux Endpoint Can Leave Stale Global OOO Queue Accounting After Teardown
 https://hackerone.com/reports/3702072 | bedrock-mantle.api.aws accepts Bedrock API keys outside the IAM Deny, CloudTrail signal, and invocation logging AWS publishes for Bedrock keys
 https://hackerone.com/reports/3702718 | MQTT state machine confusion: PINGRESP/DISCONNECT with non-zero remaining_length dispatches to stale nextstate
@@ -9775,6 +9780,7 @@ https://hackerone.com/reports/3721183 | CVE-2026-8458: wrong reuse for different
 https://hackerone.com/reports/3721519 | Liberapay member team twitter account broken Link Hijacking via Expired Twitter Account Link
 https://hackerone.com/reports/3723002 | another liberapay member team twitter account broken Link Hijacking via Expired Twitter Account Link
 https://hackerone.com/reports/3723248 | HTTP Request Smuggling via Connection: close<TAB> in Node.js llhttp parser
+https://hackerone.com/reports/3723315 | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wallet pre-sign review shows wrong ring member
 https://hackerone.com/reports/3723458 | 1-Click Account Takeover via Open Redirect through Regex Bypass in Domain Validation
 https://hackerone.com/reports/3725659 | Kerberos/SPNEGO Connection Reuse Vulnerability
 https://hackerone.com/reports/3733905 | CVE-2026-8924: trailing dot domain super cookie
@@ -9850,6 +9856,7 @@ https://hackerone.com/reports/3781305 | OpenSSL TLS 1.2 session resumption accep
 https://hackerone.com/reports/3781311 | Stored XSS in maintenance tools via unescaped entity names
 https://hackerone.com/reports/3781492 | PHP code injection in delivery-limitation `logical` validation bypass - XML-RPC setChannelTargeting
 https://hackerone.com/reports/3781691 | CSRF in zone‑include.php allows unauthorized banner and campaign linking
+https://hackerone.com/reports/3782701 | Unauthenticated RCE in Taskcluster web-server via GraphQL filter argument (sift $where)
 https://hackerone.com/reports/3783438 | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop
 https://hackerone.com/reports/3783738 | XML‑RPC login leak exposes valid session ID enabling unauthorized API access
 https://hackerone.com/reports/3784125 | GnuTLS OCSP stapling accepts unrelated SingleResponse (no cert-ID binding)
@@ -9890,3 +9897,4 @@ https://hackerone.com/reports/3838601 | Permission Model Bypass: `trace_events.c
 https://hackerone.com/reports/3878586 | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, hide_from_lists) and uses frozen visibility, exposing donat
 https://hackerone.com/reports/3911605 | SMTP CRLF injection in custom SMTP recipient operand allows additional SMTP commands after authentication
 https://hackerone.com/reports/3911968 | Heap use-after-free (write) in mev_forget_socket() via reentrant curl_easy_pause() — incomplete fix for CVE-2026-9080
+https://hackerone.com/reports/3917775 | curl Missing Sec-WebSocket-Accept Verification Enables MITM WebSocket Session Hijacking

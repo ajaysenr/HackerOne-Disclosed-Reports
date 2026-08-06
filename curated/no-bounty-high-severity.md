@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1737 total)
+# High/Critical Severity — No Bounty Paid (1740 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -466,9 +466,11 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1002641](../reports/1002641.md) | SQL Injection leads to retrieve the contents of an entire databas | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | Critical — CVSS 10.0 | Duplicate | 8 |
 | [418308](../reports/418308.md) | [CRITICAL] Remote code execution on http://axa.dxi.eu | [8x8](../by-program/8x8-bounty.md) | Critical | Resolved | 8 |
 | [309648](../reports/309648.md) | [simplehttpserver] Stored XSS in file names leads to malicious Ja | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.6 | Resolved | 8 |
+| [1938693](../reports/1938693.md) | Default Credentials on Kinetic Core System Console - https://████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 8 |
 | [683024](../reports/683024.md) | Unrestricted File Upload | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 8 |
 | [1581059](../reports/1581059.md) | Regex account takeover | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 9.9 | Resolved | 8 |
 | [346516](../reports/346516.md) | Remote code executio in  NPM package getcookies | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | Resolved | 8 |
+| [3687543](../reports/3687543.md) |  `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets an | [Monero](../by-program/monero.md) | Critical — CVSS 9.4 | Resolved | 8 |
 | [1049367](../reports/1049367.md) | Server-side RCE through directory traversal-based arbitrary file  | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 9.9 | Resolved | 8 |
 | [411270](../reports/411270.md) | Cisco RCE | [Informatica](../by-program/informatica.md) | Critical | Resolved | 8 |
 | [226712](../reports/226712.md) | Broken Authentication & Session Management - Failure to Invalidat | [Paragon Initiative Enterprises](../by-program/paragonie.md) | Critical | Not Applicable | 8 |
@@ -1542,6 +1544,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [281387](../reports/281387.md) | xss | [Stellar.org](../by-program/stellar.md) | High | Informative | 6 |
 | [403736](../reports/403736.md) | [takeapeek] Path traversal allow to expose directory and files | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | Resolved | 6 |
 | [241244](../reports/241244.md) | Spring security configuration allows agent sessions to be hijacke | [GoCD](../by-program/gocd.md) | High | Resolved | 6 |
+| [3693636](../reports/3693636.md) | wallet-rpc crash via malformed /gettransactions response (empty t | [Monero](../by-program/monero.md) | High — CVSS 7.5 | Resolved | 5 |
 | [878339](../reports/878339.md) | [extend-merge] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | Resolved | 5 |
 | [190020](../reports/190020.md) | [careers.informatica.com] XSS on "isJTN" | [Informatica](../by-program/informatica.md) | High | Resolved | 5 |
 | [858874](../reports/858874.md) | Stored XSS in TSVB Visualizations Markdown Panel | [Elastic](../by-program/elastic.md) | High | Resolved | 5 |

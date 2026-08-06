@@ -1,4 +1,4 @@
-# curl — Disclosed Reports (319 total)
+# curl — Disclosed Reports (320 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -301,25 +301,26 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 295 | [3734935](../reports/3734935.md) | rustls backend silently ignores CURLOPT_CRLFILE when native  | None | — | 4 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-18 |
 | 296 | [3735238](../reports/3735238.md) | cookie: case-insensitive path comparison in replace_existing | None | — | 4 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-18 |
 | 297 | [3735276](../reports/3735276.md) | TLS peer-verification bypass via mid-transfer ssl_config mut | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-19 |
-| 298 | [3803415](../reports/3803415.md) |  Secure cookies leaked to HTTP origins through HTTPS forward | None | — | 3 | [daviey](https://hackerone.com/daviey) | 2026-06-15 |
-| 299 | [3725659](../reports/3725659.md) | Kerberos/SPNEGO Connection Reuse Vulnerability | None | — | 3 | [rootofpi_ramesh](https://hackerone.com/rootofpi_ramesh) | 2026-05-14 |
-| 300 | [3734992](../reports/3734992.md) | Schannel custom-CA path skips Extended Key Usage enforcement | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-19 |
-| 301 | [3734921](../reports/3734921.md) | Trailing-dot IPv4 URL bypasses IP-address guard, allows wild | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-17 |
-| 302 | [3741135](../reports/3741135.md) | Connection reuse ignores haproxyprotocol and HAPROXY_CLIENT_ | None | — | 3 | [7omoo](https://hackerone.com/7omoo) | 2026-05-19 |
-| 303 | [3751701](../reports/3751701.md) | Use-after-free in `curl_easy_duphandle()` with HTTP/2 stream | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-06-01 |
-| 304 | [3735179](../reports/3735179.md) | CURLOPT_PROXY_CAINFO_BLOB silently activates native CA store | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-19 |
-| 305 | [627245](../reports/627245.md) | Integer overlow in "header_append" function | None | — | 2 | [invictus1306](https://hackerone.com/invictus1306) | 2021-02-08 |
-| 306 | [3781305](../reports/3781305.md) | OpenSSL TLS 1.2 session resumption accepts expired server ce | None | — | 2 | [awofjawofjfawf](https://hackerone.com/awofjawofjfawf) | 2026-06-07 |
-| 307 | [3741744](../reports/3741744.md) | CRLF Injection via Custom HTTP Headers | None | — | 2 | [bugthiru](https://hackerone.com/bugthiru) | 2026-06-11 |
-| 308 | [3733946](../reports/3733946.md) | Credentials forwarded to HTTP after HTTPS→HTTP same-port red | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-20 |
-| 309 | [3734020](../reports/3734020.md) | HTTP/2 proxy CONNECT tunnel unbounded 1xx chain (missing Cur | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-19 |
-| 310 | [3734095](../reports/3734095.md) | TLS verifyhost bypass in rustls, mbedTLS, and wolfSSL when v | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-19 |
-| 311 | [3736234](../reports/3736234.md) | NULL pointer dereference in libcurl URL API redirect_url() w | None | — | 2 | [mulan_dh](https://hackerone.com/mulan_dh) | 2026-05-17 |
-| 312 | [3831345](../reports/3831345.md) | CURLSHOPT_UNSHARE race can cause UAF in shared SSL session c | None | — | 1 | [smaeljaish771](https://hackerone.com/smaeljaish771) | 2026-06-30 |
-| 313 | [1019372](../reports/1019372.md) | Parallel upload hangs curl if upload file not found | None | — | 1 | [brumbrum](https://hackerone.com/brumbrum) | 2020-10-29 |
-| 314 | [3777381](../reports/3777381.md) | PRE_PROXY change leaks stale Proxy Digest state across proxy | None | — | 1 | [hungly09](https://hackerone.com/hungly09) | 2026-06-03 |
-| 315 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | None | — | 1 | [danielmarjamaki](https://hackerone.com/danielmarjamaki) | 2021-02-08 |
-| 316 | [1590102](../reports/1590102.md) | KRB-FTP: Security level downgrade | None | — | 1 | [nyymi](https://hackerone.com/nyymi) | 2022-06-05 |
-| 317 | [3751715](../reports/3751715.md) | Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUESS_SC | None | — | 1 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-25 |
-| 318 | [3751712](../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | None | — | 1 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-06-24 |
-| 319 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL against  | None | — | 0 | [lersek](https://hackerone.com/lersek) | 2021-01-08 |
+| 298 | [3917775](../reports/3917775.md) | curl Missing Sec-WebSocket-Accept Verification Enables MITM  | None | — | 3 | [kiyin](https://hackerone.com/kiyin) | 2026-08-05 |
+| 299 | [3803415](../reports/3803415.md) |  Secure cookies leaked to HTTP origins through HTTPS forward | None | — | 3 | [daviey](https://hackerone.com/daviey) | 2026-06-15 |
+| 300 | [3725659](../reports/3725659.md) | Kerberos/SPNEGO Connection Reuse Vulnerability | None | — | 3 | [rootofpi_ramesh](https://hackerone.com/rootofpi_ramesh) | 2026-05-14 |
+| 301 | [3734992](../reports/3734992.md) | Schannel custom-CA path skips Extended Key Usage enforcement | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-19 |
+| 302 | [3734921](../reports/3734921.md) | Trailing-dot IPv4 URL bypasses IP-address guard, allows wild | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-17 |
+| 303 | [3741135](../reports/3741135.md) | Connection reuse ignores haproxyprotocol and HAPROXY_CLIENT_ | None | — | 3 | [7omoo](https://hackerone.com/7omoo) | 2026-05-19 |
+| 304 | [3751701](../reports/3751701.md) | Use-after-free in `curl_easy_duphandle()` with HTTP/2 stream | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-06-01 |
+| 305 | [3735179](../reports/3735179.md) | CURLOPT_PROXY_CAINFO_BLOB silently activates native CA store | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-19 |
+| 306 | [627245](../reports/627245.md) | Integer overlow in "header_append" function | None | — | 2 | [invictus1306](https://hackerone.com/invictus1306) | 2021-02-08 |
+| 307 | [3781305](../reports/3781305.md) | OpenSSL TLS 1.2 session resumption accepts expired server ce | None | — | 2 | [awofjawofjfawf](https://hackerone.com/awofjawofjfawf) | 2026-06-07 |
+| 308 | [3741744](../reports/3741744.md) | CRLF Injection via Custom HTTP Headers | None | — | 2 | [bugthiru](https://hackerone.com/bugthiru) | 2026-06-11 |
+| 309 | [3733946](../reports/3733946.md) | Credentials forwarded to HTTP after HTTPS→HTTP same-port red | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-20 |
+| 310 | [3734020](../reports/3734020.md) | HTTP/2 proxy CONNECT tunnel unbounded 1xx chain (missing Cur | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-19 |
+| 311 | [3734095](../reports/3734095.md) | TLS verifyhost bypass in rustls, mbedTLS, and wolfSSL when v | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-19 |
+| 312 | [3736234](../reports/3736234.md) | NULL pointer dereference in libcurl URL API redirect_url() w | None | — | 2 | [mulan_dh](https://hackerone.com/mulan_dh) | 2026-05-17 |
+| 313 | [3831345](../reports/3831345.md) | CURLSHOPT_UNSHARE race can cause UAF in shared SSL session c | None | — | 1 | [smaeljaish771](https://hackerone.com/smaeljaish771) | 2026-06-30 |
+| 314 | [1019372](../reports/1019372.md) | Parallel upload hangs curl if upload file not found | None | — | 1 | [brumbrum](https://hackerone.com/brumbrum) | 2020-10-29 |
+| 315 | [3777381](../reports/3777381.md) | PRE_PROXY change leaks stale Proxy Digest state across proxy | None | — | 1 | [hungly09](https://hackerone.com/hungly09) | 2026-06-03 |
+| 316 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | None | — | 1 | [danielmarjamaki](https://hackerone.com/danielmarjamaki) | 2021-02-08 |
+| 317 | [1590102](../reports/1590102.md) | KRB-FTP: Security level downgrade | None | — | 1 | [nyymi](https://hackerone.com/nyymi) | 2022-06-05 |
+| 318 | [3751715](../reports/3751715.md) | Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUESS_SC | None | — | 1 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-25 |
+| 319 | [3751712](../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | None | — | 1 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-06-24 |
+| 320 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL against  | None | — | 0 | [lersek](https://hackerone.com/lersek) | 2021-01-08 |

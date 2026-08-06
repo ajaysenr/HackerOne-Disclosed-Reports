@@ -1,4 +1,4 @@
-# Weakness: Array Index Underflow (11 reports)
+# Weakness: Array Index Underflow (12 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -13,5 +13,6 @@
 | 7 | [980856](../reports/980856.md) | https://publishers.basicattentiontoken.org/favicon.ico is Vulnera | [Brave Software](../by-program/brave.md) | Medium — CVSS 5.2 | — | 18 |
 | 8 | [3620748](../reports/3620748.md) | V1Plugin.Decrypt panics on empty ciphertext (Remote DoS) | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 5 |
 | 9 | [3620753](../reports/3620753.md) | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS) | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 4 |
-| 10 | [792895](../reports/792895.md) | bypass old password with array in /admin/account-user-email.php | [Revive Adserver](../by-program/revive_adserver.md) | Low | — | 22 |
-| 11 | [284807](../reports/284807.md) | i am The bug | [Gratipay](../by-program/gratipay.md) | None | — | 23 |
+| 10 | [3723315](../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead | [Monero](../by-program/monero.md) | Medium — CVSS 5.4 | — | 4 |
+| 11 | [792895](../reports/792895.md) | bypass old password with array in /admin/account-user-email.php | [Revive Adserver](../by-program/revive_adserver.md) | Low | — | 22 |
+| 12 | [284807](../reports/284807.md) | i am The bug | [Gratipay](../by-program/gratipay.md) | None | — | 23 |
