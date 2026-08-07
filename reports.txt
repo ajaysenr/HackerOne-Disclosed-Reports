@@ -8519,6 +8519,7 @@ https://hackerone.com/reports/1941767 | MetaMask Browser (on Android) does not e
 https://hackerone.com/reports/1943013 | CRLF Inection at `██████████`
 https://hackerone.com/reports/1943117 | Cache purge requests are not authenticated
 https://hackerone.com/reports/1943252 | Response Manipulation lead to bypass verification code while making appointment at `█████████`
+https://hackerone.com/reports/1943608 | HTTP Request Smuggling (CL.0) leads to mass redirect users to attacker server without user interaction
 https://hackerone.com/reports/1944515 | CVE-2023-28755: ReDoS vulnerability in URI
 https://hackerone.com/reports/1945417 | “See who’s interested in working for your company” - security issue
 https://hackerone.com/reports/1946470 | Dependency Policy Bypass via process.binding
