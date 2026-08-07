@@ -1,4 +1,4 @@
-# Asset Type: Hardware (53 reports)
+# Asset Type: Hardware (54 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -52,8 +52,9 @@
 | 46 | [3813932](../reports/3813932.md) | [Splatoon 3] Kick other players with NplnLogin message | [Nintendo](../by-program/nintendo.md) | Nintendo Switch applications for which N | Medium — CVSS 6.5 | — | 7 |
 | 47 | [661647](../reports/661647.md) | Local File Disclosure (+XSS+CSRF) in AirOS 6.2.0 device | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | Medium — CVSS 6.1 | — | 6 |
 | 48 | [2778400](../reports/2778400.md) | Es posible poder navegar a cualquier pagina en Point Sm | [MercadoLibre](../by-program/mercadolibre.md) | Point Smart | Low — CVSS 2.1 | — | 41 |
-| 49 | [894922](../reports/894922.md) | [3DS][SSL] Improper certificate validation allows an at | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS System | None | — | 129 |
-| 50 | [3042475](../reports/3042475.md) | Splatoon 3 Anticheat Seed Randomization Weakness | [Nintendo](../by-program/nintendo.md) | Nintendo Switch applications for which N | None | — | 53 |
-| 51 | [897606](../reports/897606.md) | [3DS][SSL][SDK] Unchecked number of audio channels in M | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS System | None | — | 43 |
-| 52 | [923240](../reports/923240.md) | [3DS][StreetPass] Heap Overflow in Swapnote parser lead | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS applications for which Nint | None | — | 30 |
-| 53 | [687887](../reports/687887.md) | [3DS][StreetPass] Buffer Overflow in Super Mario Maker  | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS applications for which Nint | None | — | 30 |
+| 49 | [2551512](../reports/2551512.md) | [Wii U/3DS/Switch] Improper bounds check in StationURL  | [Nintendo](../by-program/nintendo.md) | Nintendo Switch applications for which N | Low — CVSS 2.4 | — | 1 |
+| 50 | [894922](../reports/894922.md) | [3DS][SSL] Improper certificate validation allows an at | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS System | None | — | 129 |
+| 51 | [3042475](../reports/3042475.md) | Splatoon 3 Anticheat Seed Randomization Weakness | [Nintendo](../by-program/nintendo.md) | Nintendo Switch applications for which N | None | — | 53 |
+| 52 | [897606](../reports/897606.md) | [3DS][SSL][SDK] Unchecked number of audio channels in M | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS System | None | — | 43 |
+| 53 | [923240](../reports/923240.md) | [3DS][StreetPass] Heap Overflow in Swapnote parser lead | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS applications for which Nint | None | — | 30 |
+| 54 | [687887](../reports/687887.md) | [3DS][StreetPass] Buffer Overflow in Super Mario Maker  | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS applications for which Nint | None | — | 30 |

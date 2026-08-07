@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1740 total)
+# High/Critical Severity — No Bounty Paid (1742 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -870,6 +870,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1018368](../reports/1018368.md) | Add any depot to your app and access its contents without decrypt | [Valve](../by-program/valve.md) | High — CVSS 8.5 | Resolved | 54 |
 | [1901713](../reports/1901713.md) | IDOR in backup recovery functionality | [Acronis](../by-program/acronis.md) | High — CVSS 7.5 | Resolved | 54 |
 | [411865](../reports/411865.md) | Blind SSRF at https://chaturbate.com/notifications/update_push/ | [Chaturbate](../by-program/chaturbate.md) | High | Resolved | 54 |
+| [1941390](../reports/1941390.md) | Plaintext leakage of DNS requests in Windows 1.1.1.1 WARP client | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | High — CVSS 7.4 | Resolved | 53 |
 | [172137](../reports/172137.md) | Authentication bypass on sso.ubnt.com via subdomain takeover of p | [Ubiquiti Inc.](../by-program/ui.md) | High | Duplicate | 53 |
 | [1539426](../reports/1539426.md) | Broken access control  | [UPS VDP](../by-program/ups.md) | High — CVSS 7.5 | Resolved | 53 |
 | [3131758](../reports/3131758.md) | HashDoS in V8 | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | Resolved | 52 |
@@ -942,6 +943,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [357929](../reports/357929.md) | Items bought for free due to lacks of quantity controls | [Reverb.com](../by-program/reverb.md) | High | Resolved | 41 |
 | [1098793](../reports/1098793.md) | Kroki Arbitrary File Read/Write  | [GitLab](../by-program/gitlab.md) | High | Resolved | 41 |
 | [2122690](../reports/2122690.md) | Accessing apps protected via ZT's Access when user account is del | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | High — CVSS 8.4 | Resolved | 41 |
+| [1943608](../reports/1943608.md) | HTTP Request Smuggling (CL.0) leads to mass redirect users to att | [LinkedIn](../by-program/linkedin.md) | High — CVSS 8.2 | Resolved | 40 |
 | [1320084](../reports/1320084.md) | Path Traversal issue at https://████/blaze/ | [Sony](../by-program/sony.md) | High — CVSS 7.5 | Resolved | 40 |
 | [765291](../reports/765291.md) | Remote code execution via path traversal in Zip extraction in the | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.8 | Resolved | 40 |
 | [958432](../reports/958432.md) | Corporate Jira credentials disclosed in public gist | [Azbuka Vkusa](../by-program/av.md) | High — CVSS 8.3 | Resolved | 40 |
