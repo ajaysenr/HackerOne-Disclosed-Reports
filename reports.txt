@@ -8524,6 +8524,8 @@ https://hackerone.com/reports/1944515 | CVE-2023-28755: ReDoS vulnerability in U
 https://hackerone.com/reports/1945417 | “See who’s interested in working for your company” - security issue
 https://hackerone.com/reports/1946470 | Dependency Policy Bypass via process.binding
 https://hackerone.com/reports/1946534 | Open redirect due to scanning QR code via brave browser
+https://hackerone.com/reports/1947376 | ███████  ' can delete any animal from other account  '  at ██████████ 
+https://hackerone.com/reports/1947924 | Insecure Direct Object Reference allows Crew Invite deletion
 https://hackerone.com/reports/1948506 | Improper Access Control allows OTP bypass
 https://hackerone.com/reports/1950627 | CVE-2023-28321: IDN wildcard match
 https://hackerone.com/reports/1954937 | Possible DoS Vulnerability in Multipart MIME parsing in rack
