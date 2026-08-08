@@ -9908,3 +9908,4 @@ https://hackerone.com/reports/3878586 | Unauthenticated team "income/payments" e
 https://hackerone.com/reports/3911605 | SMTP CRLF injection in custom SMTP recipient operand allows additional SMTP commands after authentication
 https://hackerone.com/reports/3911968 | Heap use-after-free (write) in mev_forget_socket() via reentrant curl_easy_pause() — incomplete fix for CVE-2026-9080
 https://hackerone.com/reports/3917775 | curl Missing Sec-WebSocket-Accept Verification Enables MITM WebSocket Session Hijacking
+https://hackerone.com/reports/3923212 | URL API: triple-slash parses path segment as hostname

@@ -156016,6 +156016,42 @@
     "votes": 145
   },
   {
+    "id": 1947376,
+    "url": "https://hackerone.com/reports/1947376",
+    "title": "\u2588\u2588\u2588\u2588\u2588\u2588\u2588  ' can delete any animal from other account  '  at \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 ",
+    "program": "Mars",
+    "program_handle": "mars",
+    "reporter": "0xs4m",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Insecure Direct Object Reference (IDOR)",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "WILDCARD",
+    "reported_at": "2023-04-14",
+    "disclosed_at": "2023-06-23",
+    "votes": 21
+  },
+  {
+    "id": 1947924,
+    "url": "https://hackerone.com/reports/1947924",
+    "title": "Insecure Direct Object Reference allows Crew Invite deletion",
+    "program": "Rockstar Games",
+    "program_handle": "rockstargames",
+    "reporter": "floorball",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Insecure Direct Object Reference (IDOR)",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2023-04-14",
+    "disclosed_at": "2023-08-17",
+    "votes": 66
+  },
+  {
     "id": 1948506,
     "url": "https://hackerone.com/reports/1948506",
     "title": "Improper Access Control allows OTP bypass",
@@ -156052,6 +156088,44 @@
     "reported_at": "2023-04-17",
     "disclosed_at": "2023-05-18",
     "votes": 2
+  },
+  {
+    "id": 1952771,
+    "url": "https://hackerone.com/reports/1952771",
+    "title": "\u2588\u2588\u2588\u2588 ' can change any account email and cannot retrieve his account and access it ' at \u2588\u2588\u2588",
+    "program": "Mars",
+    "program_handle": "mars",
+    "reporter": "0xs4m",
+    "severity": "high",
+    "cvss": 7.8,
+    "weakness": "Insecure Direct Object Reference (IDOR)",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "WILDCARD",
+    "reported_at": "2023-04-18",
+    "disclosed_at": "2023-06-23",
+    "votes": 32
+  },
+  {
+    "id": 1952978,
+    "url": "https://hackerone.com/reports/1952978",
+    "title": "Filesystem experimental permissions policy does not handle path traversal cases.",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "haxatron1",
+    "severity": "high",
+    "cvss": 7.7,
+    "weakness": "Path Traversal",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-30584"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-04-18",
+    "disclosed_at": "2023-07-20",
+    "votes": 5
   },
   {
     "id": 1954937,
@@ -181713,5 +181787,23 @@
     "reported_at": "2026-08-05",
     "disclosed_at": "2026-08-05",
     "votes": 3
+  },
+  {
+    "id": 3923212,
+    "url": "https://hackerone.com/reports/3923212",
+    "title": "URL API: triple-slash parses path segment as hostname",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "thinhlx",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Use of Incorrectly-Resolved Name or Reference",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-07",
+    "disclosed_at": "2026-08-07",
+    "votes": 0
   }
 ]

@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1742 total)
+# High/Critical Severity — No Bounty Paid (1744 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -1001,6 +1001,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1718371](../reports/1718371.md) | Subdomain takeover at http://test.www.midigator.com | [Equifax-vdp](../by-program/equifax.md) | High | Resolved | 32 |
 | [269937](../reports/269937.md) | [www.zomato.com] IDOR - Leaking all Personal Details of all Zomat | [Eternal](../by-program/eternal.md) | High — CVSS 7.5 | Resolved | 32 |
 | [762251](../reports/762251.md) | Singapore - XXE at https://www.starbucks.com.sg/RestApi/soap11 | [Starbucks](../by-program/starbucks.md) | High — CVSS 7.5 | Resolved | 32 |
+| [1952771](../reports/1952771.md) | ████ ' can change any account email and cannot retrieve his accou | [Mars](../by-program/mars.md) | High — CVSS 7.8 | Resolved | 32 |
 | [951292](../reports/951292.md) | Site-wide CSRF at Atavist  | [Automattic](../by-program/automattic.md) | High | Resolved | 32 |
 | [1604951](../reports/1604951.md) | Remote denial of service in  HyperLedger Fabric | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | High | Resolved | 32 |
 | [392785](../reports/392785.md) | Domain Takeover in [obviousengine.com] a snapchat acquisitions | [Snapchat](../by-program/snapchat.md) | High | Resolved | 32 |
@@ -1566,6 +1567,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [182027](../reports/182027.md) | SIGSEV on mrb_ary_splice | [shopify-scripts](../by-program/shopify-scripts.md) | High | Resolved | 5 |
 | [319593](../reports/319593.md) | `sshpk` is vulnerable to ReDoS when parsing crafted invalid publi | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | Resolved | 5 |
 | [390929](../reports/390929.md) | Code Injection Vulnerability in dot Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.4 | Resolved | 5 |
+| [1952978](../reports/1952978.md) | Filesystem experimental permissions policy does not handle path t | [Node.js](../by-program/nodejs.md) | High — CVSS 7.7 | Resolved | 5 |
 | [212931](../reports/212931.md) | heap-buffer-overflow (buffer read overrun) in curl: ourWriteOut() | [Internet Bug Bounty](../by-program/ibb.md) | High | Resolved | 5 |
 | [1444539](../reports/1444539.md) |  Remote memory disclosure vulnerability in libcurl on 64 Bit Wind | [curl](../by-program/curl.md) | High — CVSS 7.7 | Informative | 5 |
 | [183239](../reports/183239.md) | SIGSEGV on mruby's mark_tbl() (Invalid memory access) | [shopify-scripts](../by-program/shopify-scripts.md) | High | Resolved | 5 |
