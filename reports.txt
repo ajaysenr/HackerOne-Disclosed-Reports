@@ -8530,8 +8530,13 @@ https://hackerone.com/reports/1948506 | Improper Access Control allows OTP bypas
 https://hackerone.com/reports/1950627 | CVE-2023-28321: IDN wildcard match
 https://hackerone.com/reports/1952771 | ████ ' can change any account email and cannot retrieve his account and access it ' at ███
 https://hackerone.com/reports/1952978 | Filesystem experimental permissions policy does not handle path traversal cases.
+https://hackerone.com/reports/1954364 | Subdomain Takeover Affecting at  vex.weather.com
+https://hackerone.com/reports/1954535 | OpenSSL engines can be used to bypass and/or disable the permission model
+https://hackerone.com/reports/1954658 | CVE-2023-28322: more POST-after-PUT confusion
+https://hackerone.com/reports/1954711 | user_oidc app is missing bruteforce protection
 https://hackerone.com/reports/1954937 | Possible DoS Vulnerability in Multipart MIME parsing in rack
 https://hackerone.com/reports/1955370 | Incorrect handling of certain characters passed to the redirection functionality in Rails can lead to a single-click XSS vulnerability.
+https://hackerone.com/reports/1955485 | Stored Cross-Site Scripting in mercadopago.com.ar
 https://hackerone.com/reports/1957430 | Credential leak on GitHub: https://github.com/█/█/ (Peoplesoft CRM)
 https://hackerone.com/reports/1959219 | Banned user still able to invited to reports as a collabrator and reset the password
 https://hackerone.com/reports/1959540 | ' Full Account Takeover ' at https://www.miroyalcanin.cl/
