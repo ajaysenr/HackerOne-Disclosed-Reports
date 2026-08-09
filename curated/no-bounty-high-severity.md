@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1744 total)
+# High/Critical Severity — No Bounty Paid (1747 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -291,6 +291,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [566811](../reports/566811.md) | ████ - Complete account takeover | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 25 |
 | [810778](../reports/810778.md) | Remote OS Command Execution on Oracle Weblogic server via [CVE-20 | [MTN Group](../by-program/mtn_group.md) | Critical — CVSS 9.8 | Resolved | 25 |
 | [303632](../reports/303632.md) | Fastify denial-of-service vulnerability with large JSON payloads | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.3 | Resolved | 25 |
+| [1954364](../reports/1954364.md) | Subdomain Takeover Affecting at  vex.weather.com | [IBM](../by-program/ibm.md) | Critical | Resolved | 25 |
 | [1427086](../reports/1427086.md) | path traversal vulnerability in Grafana 8.x allows " local file r | [MTN Group](../by-program/mtn_group.md) | Critical | Resolved | 24 |
 | [395521](../reports/395521.md) | SSRF vulnerability on proxy.duckduckgo.com (access to metadata se | [DuckDuckGo](../by-program/duckduckgo.md) | Critical | Resolved | 24 |
 | [1688309](../reports/1688309.md) | [MK8DX] Improper metadata parsing | [Nintendo](../by-program/nintendo.md) | Critical — CVSS 9.3 | Resolved | 24 |
@@ -693,6 +694,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1777095](../reports/1777095.md) | Unauthorized access to resumes stored on LinkedIn | [LinkedIn](../by-program/linkedin.md) | High — CVSS 7.5 | Resolved | 112 |
 | [1452375](../reports/1452375.md) | Reflected xss on ads.tiktok.com using `from` parameter. | [TikTok](../by-program/tiktok.md) | High — CVSS 8.2 | Resolved | 110 |
 | [577584](../reports/577584.md) | ISteamAssets gives partners control over unrelated community mark | [Valve](../by-program/valve.md) | High — CVSS 7.1 | Resolved | 109 |
+| [1955485](../reports/1955485.md) | Stored Cross-Site Scripting in mercadopago.com.ar | [MercadoLibre](../by-program/mercadolibre.md) | High | Resolved | 107 |
 | [1173153](../reports/1173153.md) | Cache Poisoning DoS on downloads.exodus.com | [Exodus](../by-program/exodus.md) | High — CVSS 7.5 | Resolved | 107 |
 | [2534458](../reports/2534458.md) | Can see phone numbers of others by providing mail address | [LinkedIn](../by-program/linkedin.md) | High — CVSS 7.5 | Resolved | 107 |
 | [419891](../reports/419891.md) | Cross-Site Request Forgery (CSRF) vulnerability on API endpoint a | [Khan Academy](../by-program/khanacademy.md) | High | Resolved | 107 |
@@ -1435,6 +1437,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [733051](../reports/733051.md) | The URL in "Choose a data source'' at "https://bi.owox.com/ui/set | [OWOX, Inc.](../by-program/owox.md) | High | Resolved | 8 |
 | [247517](../reports/247517.md) | Stored XSS in Private Messages 'Reply' allows to execute maliciou | [Concrete CMS](../by-program/concretecms.md) | High | Resolved | 8 |
 | [181816](../reports/181816.md) | [marketplace.informatica.com] Persistent XSS through document tit | [Informatica](../by-program/informatica.md) | High | Resolved | 8 |
+| [1960870](../reports/1960870.md) | Permissions policies can be bypassed via Module._load. | [Node.js](../by-program/nodejs.md) | High — CVSS 7.7 | Resolved | 8 |
 | [1877919](../reports/1877919.md) | The use of __proto__ in process.mainModule.__proto__.require() by | [Node.js](../by-program/nodejs.md) | High — CVSS 8.4 | Resolved | 8 |
 | [506040](../reports/506040.md) | ChaCha20-Poly1305 with long nonces | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.4 | Resolved | 8 |
 | [309120](../reports/309120.md) | [angular-http-server] Path Traversal in angular-http-server.js al | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | Resolved | 8 |

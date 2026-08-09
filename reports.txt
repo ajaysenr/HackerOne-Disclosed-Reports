@@ -9509,6 +9509,7 @@ https://hackerone.com/reports/3240792 | Reported RPC Overflow
 https://hackerone.com/reports/3241102 | Reported Denial of Service
 https://hackerone.com/reports/3249794 | SQL injection in structure plugin
 https://hackerone.com/reports/3253725 | SameSite restrictions are lifted, and SameSite:Strict cookie are being sent.
+https://hackerone.com/reports/3265780 | Adding phone number to profile By OTP brute forcing
 https://hackerone.com/reports/3269780 | Cross-Site Scripting via 'fname' parameter in ███
 https://hackerone.com/reports/3277276 | SQLi at █████ parameter
 https://hackerone.com/reports/3279441 | Bypass of Restricted Keyword "Mozilla" in Display Name Field via Unicode Homoglyphs on addons.allizom.org

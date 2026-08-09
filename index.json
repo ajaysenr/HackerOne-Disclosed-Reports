@@ -156128,6 +156128,85 @@
     "votes": 5
   },
   {
+    "id": 1954364,
+    "url": "https://hackerone.com/reports/1954364",
+    "title": "Subdomain Takeover Affecting at  vex.weather.com",
+    "program": "IBM",
+    "program_handle": "ibm",
+    "reporter": "gdattacker",
+    "severity": "critical",
+    "cvss": null,
+    "weakness": "Improper Authentication - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "OTHER",
+    "reported_at": "2023-04-19",
+    "disclosed_at": "2023-05-10",
+    "votes": 25
+  },
+  {
+    "id": 1954535,
+    "url": "https://hackerone.com/reports/1954535",
+    "title": "OpenSSL engines can be used to bypass and/or disable the permission model",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "tniessen",
+    "severity": "medium",
+    "cvss": 6.3,
+    "weakness": "Privilege Escalation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-30586"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-04-19",
+    "disclosed_at": "2023-06-22",
+    "votes": 4
+  },
+  {
+    "id": 1954658,
+    "url": "https://hackerone.com/reports/1954658",
+    "title": "CVE-2023-28322: more POST-after-PUT confusion",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "kurohiro",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Expected Behavior Violation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-28322",
+      "CVE-2022-32221"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-04-19",
+    "disclosed_at": "2023-05-18",
+    "votes": 3
+  },
+  {
+    "id": 1954711,
+    "url": "https://hackerone.com/reports/1954711",
+    "title": "user_oidc app is missing bruteforce protection",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "nickvergessen",
+    "severity": "medium",
+    "cvss": 5.5,
+    "weakness": "Improper Restriction of Authentication Attempts",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-32074"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-04-19",
+    "disclosed_at": "2023-06-23",
+    "votes": 4
+  },
+  {
     "id": 1954937,
     "url": "https://hackerone.com/reports/1954937",
     "title": "Possible DoS Vulnerability in Multipart MIME parsing in rack",
@@ -156164,6 +156243,24 @@
     "reported_at": "2023-04-20",
     "disclosed_at": "2023-07-28",
     "votes": 15
+  },
+  {
+    "id": 1955485,
+    "url": "https://hackerone.com/reports/1955485",
+    "title": "Stored Cross-Site Scripting in mercadopago.com.ar",
+    "program": "MercadoLibre",
+    "program_handle": "mercadolibre",
+    "reporter": "elmago",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Cross-site Scripting (XSS) - Stored",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2023-04-20",
+    "disclosed_at": "2025-03-13",
+    "votes": 107
   },
   {
     "id": 1957430,
@@ -156254,6 +156351,44 @@
     "reported_at": "2023-04-24",
     "disclosed_at": "2023-04-26",
     "votes": 332
+  },
+  {
+    "id": 1960870,
+    "url": "https://hackerone.com/reports/1960870",
+    "title": "Permissions policies can be bypassed via Module._load.",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "mattaustin",
+    "severity": "high",
+    "cvss": 7.7,
+    "weakness": "Privilege Escalation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-32002"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-04-25",
+    "disclosed_at": "2023-08-16",
+    "votes": 8
+  },
+  {
+    "id": 1961163,
+    "url": "https://hackerone.com/reports/1961163",
+    "title": "CSRF that makes any user send invitations to the attacker by simply clicking on a link.",
+    "program": "LinkedIn",
+    "program_handle": "linkedin",
+    "reporter": "marvelmaniac",
+    "severity": "medium",
+    "cvss": 4.3,
+    "weakness": "Cross-Site Request Forgery (CSRF)",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2023-04-25",
+    "disclosed_at": "2023-12-06",
+    "votes": 41
   },
   {
     "id": 1962645,
@@ -174184,6 +174319,24 @@
     "reported_at": "2025-07-15",
     "disclosed_at": "2025-10-15",
     "votes": 70
+  },
+  {
+    "id": 3265780,
+    "url": "https://hackerone.com/reports/3265780",
+    "title": "Adding phone number to profile By OTP brute forcing",
+    "program": "CoinMate.io",
+    "program_handle": "coinmate",
+    "reporter": "ganesh_reddy",
+    "severity": "medium",
+    "cvss": 4.3,
+    "weakness": "Insecure Storage of Sensitive Information",
+    "bounty": 100.0,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2025-07-23",
+    "disclosed_at": "2026-08-08",
+    "votes": 17
   },
   {
     "id": 3269780,
