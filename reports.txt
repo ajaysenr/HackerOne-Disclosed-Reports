@@ -8542,6 +8542,8 @@ https://hackerone.com/reports/1959219 | Banned user still able to invited to rep
 https://hackerone.com/reports/1959540 | ' Full Account Takeover ' at https://www.miroyalcanin.cl/
 https://hackerone.com/reports/1960107 | Rider can forcefully get passenger's order accepted resulting in multiple impacts including PII reveal  and more mentioned in the report.
 https://hackerone.com/reports/1960765 | Blind SSRF to internal services in matrix preview_link API
+https://hackerone.com/reports/1960870 | Permissions policies can be bypassed via Module._load.
+https://hackerone.com/reports/1961163 | CSRF that makes any user send invitations to the attacker by simply clicking on a link.
 https://hackerone.com/reports/1962645 | [accounts.reddit.com] Redirect parameter allows for XSS
 https://hackerone.com/reports/1962951 | Regression on dest parameter sanitization doesn't check scheme/websafe destinations
 https://hackerone.com/reports/1963213 | Subdomain takeover http://accessday.opn.ooo/
