@@ -1,4 +1,4 @@
-# LinkedIn — Disclosed Reports (43 total)
+# LinkedIn — Disclosed Reports (44 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -22,28 +22,29 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 16 | [3604288](../reports/3604288.md) | Access to Deactivated LinkedIn Company Pages via Competitor  | Medium — CVSS 5.3 | — | 66 | [riadalrashed](https://hackerone.com/riadalrashed) | 2026-03-24 |
 | 17 | [1892888](../reports/1892888.md) | Users can access exams in course without having to subscribe | Medium — CVSS 5.3 | — | 63 | [find_me_here](https://hackerone.com/find_me_here) | 2024-01-10 |
 | 18 | [1581528](../reports/1581528.md) | Can access the job name, creator name and can report any dra | Medium — CVSS 5.3 | — | 63 | [sachin_kr](https://hackerone.com/sachin_kr) | 2022-07-20 |
-| 19 | [2339192](../reports/2339192.md) | Blocking a company page admin prevents him from delete paid  | Medium — CVSS 4.3 | — | 51 | [riadalrashed](https://hackerone.com/riadalrashed) | 2026-03-05 |
-| 20 | [1572591](../reports/1572591.md) | Privilege Escalation - "Analyst" Role Can View Email Domains | Medium | — | 48 | [naaash](https://hackerone.com/naaash) | 2022-08-26 |
-| 21 | [1592587](../reports/1592587.md) | IDOR - Delete technical skill assessment result & Gained Bad | Medium — CVSS 5.3 | — | 48 | [sachin_kr](https://hackerone.com/sachin_kr) | 2022-10-05 |
-| 22 | [1813450](../reports/1813450.md) | Attackers do not need to Pay for a Subscription to get the ` | Medium — CVSS 5.3 | — | 43 | [find_me_here](https://hackerone.com/find_me_here) | 2023-05-12 |
-| 23 | [1837309](../reports/1837309.md) | Anyone can view the results of linkedin skill test -if faile | Medium — CVSS 5.3 | — | 42 | [marvelmaniac](https://hackerone.com/marvelmaniac) | 2023-05-17 |
-| 24 | [1961163](../reports/1961163.md) | CSRF that makes any user send invitations to the attacker by | Medium — CVSS 4.3 | — | 41 | [marvelmaniac](https://hackerone.com/marvelmaniac) | 2023-12-06 |
-| 25 | [1801527](../reports/1801527.md) | Delete any LinkedIn comment on learning API of other users | Medium — CVSS 5.3 | — | 40 | [encodedguy](https://hackerone.com/encodedguy) | 2023-05-12 |
-| 26 | [1842183](../reports/1842183.md) | bypass two-factor authentication. | Medium — CVSS 4.8 | — | 39 | [spaceboy20](https://hackerone.com/spaceboy20) | 2023-08-01 |
-| 27 | [1675674](../reports/1675674.md) | An Attacker Can Flag Draft Job Posts And Can Disclose The Dr | Medium — CVSS 5.3 | — | 33 | [tushar6378](https://hackerone.com/tushar6378) | 2023-08-24 |
-| 28 | [2081744](../reports/2081744.md) | Deny Admin from Editing LinkedIn Company Page using Gen Form | Medium — CVSS 5.3 | — | 32 | [domg](https://hackerone.com/domg) | 2023-10-19 |
-| 29 | [1945417](../reports/1945417.md) | “See who’s interested in working for your company” - securit | Medium — CVSS 4.3 | — | 28 | [headhunter](https://hackerone.com/headhunter) | 2023-06-21 |
-| 30 | [1818969](../reports/1818969.md) | [ Continuation Report from #1814842 ] Can create articles us | Medium — CVSS 5.3 | — | 22 | [find_me_here](https://hackerone.com/find_me_here) | 2023-05-15 |
-| 31 | [1587374](../reports/1587374.md) | Campaign Account Balance and History Disclosed in API Respon | Medium — CVSS 5.3 | — | 20 | [sachin_kr](https://hackerone.com/sachin_kr) | 2022-11-30 |
-| 32 | [1809633](../reports/1809633.md) | Can VIEW Videos on LinkedIn Learning that Require a Subscrip | Medium — CVSS 5.3 | — | 19 | [find_me_here](https://hackerone.com/find_me_here) | 2023-09-25 |
-| 33 | [1808149](../reports/1808149.md) | Attackers can create unlimited jobs by paying a low price `( | Medium | — | 18 | [find_me_here](https://hackerone.com/find_me_here) | 2023-09-29 |
-| 34 | [1591504](../reports/1591504.md) | The software does not implement sufficient measures to preve | Medium | — | 2 | [suryasnn](https://hackerone.com/suryasnn) | 2022-06-15 |
-| 35 | [3151001](../reports/3151001.md) | Previous commentor on post can still comment even after comm | Low — CVSS 3.1 | — | 108 | [allenjo](https://hackerone.com/allenjo) | 2026-02-03 |
-| 36 | [3079966](../reports/3079966.md) | HTML Injection in LinkedIn Premium Support Chat | Low — CVSS 3.1 | — | 100 | [nagu123](https://hackerone.com/nagu123) | 2025-05-07 |
-| 37 | [1728087](../reports/1728087.md) | User Details Can Be Disclosed Even If The Account IS In Hibe | Low — CVSS 3.7 | — | 55 | [tushar6378](https://hackerone.com/tushar6378) | 2023-12-06 |
-| 38 | [2215418](../reports/2215418.md) | Html injection in event Description  | Low — CVSS 3.1 | — | 53 | [khaledx](https://hackerone.com/khaledx) | 2024-01-29 |
-| 39 | [2076019](../reports/2076019.md) | HTML injection at Company Name or Product Name and can be sh | Low — CVSS 2.6 | — | 31 | [domg](https://hackerone.com/domg) | 2023-10-18 |
-| 40 | [1691603](../reports/1691603.md) | A Unverified User Can Post Newsletter (Which Is Not Allowed  | Low | — | 26 | [tushar6378](https://hackerone.com/tushar6378) | 2023-08-24 |
-| 41 | [1862677](../reports/1862677.md) | Attacker can unpin posts from companies he's not part of. | Low | — | 19 | [spaceboy20](https://hackerone.com/spaceboy20) | 2023-05-12 |
-| 42 | [1587246](../reports/1587246.md) | Improper access control on Linkedin Page | Low — CVSS 2.7 | — | 13 | [dr_nimishadavis](https://hackerone.com/dr_nimishadavis) | 2023-08-24 |
-| 43 | [1607645](../reports/1607645.md) | Add me email address Authentication bypass | None | — | 7 | [raajeevrathnam](https://hackerone.com/raajeevrathnam) | 2022-07-15 |
+| 19 | [1964211](../reports/1964211.md) | CSRF that makes any linkedin user follow attacker controlled | Medium — CVSS 4.3 | — | 53 | [marvelmaniac](https://hackerone.com/marvelmaniac) | 2023-12-06 |
+| 20 | [2339192](../reports/2339192.md) | Blocking a company page admin prevents him from delete paid  | Medium — CVSS 4.3 | — | 51 | [riadalrashed](https://hackerone.com/riadalrashed) | 2026-03-05 |
+| 21 | [1572591](../reports/1572591.md) | Privilege Escalation - "Analyst" Role Can View Email Domains | Medium | — | 48 | [naaash](https://hackerone.com/naaash) | 2022-08-26 |
+| 22 | [1592587](../reports/1592587.md) | IDOR - Delete technical skill assessment result & Gained Bad | Medium — CVSS 5.3 | — | 48 | [sachin_kr](https://hackerone.com/sachin_kr) | 2022-10-05 |
+| 23 | [1813450](../reports/1813450.md) | Attackers do not need to Pay for a Subscription to get the ` | Medium — CVSS 5.3 | — | 43 | [find_me_here](https://hackerone.com/find_me_here) | 2023-05-12 |
+| 24 | [1837309](../reports/1837309.md) | Anyone can view the results of linkedin skill test -if faile | Medium — CVSS 5.3 | — | 42 | [marvelmaniac](https://hackerone.com/marvelmaniac) | 2023-05-17 |
+| 25 | [1961163](../reports/1961163.md) | CSRF that makes any user send invitations to the attacker by | Medium — CVSS 4.3 | — | 41 | [marvelmaniac](https://hackerone.com/marvelmaniac) | 2023-12-06 |
+| 26 | [1801527](../reports/1801527.md) | Delete any LinkedIn comment on learning API of other users | Medium — CVSS 5.3 | — | 40 | [encodedguy](https://hackerone.com/encodedguy) | 2023-05-12 |
+| 27 | [1842183](../reports/1842183.md) | bypass two-factor authentication. | Medium — CVSS 4.8 | — | 39 | [spaceboy20](https://hackerone.com/spaceboy20) | 2023-08-01 |
+| 28 | [1675674](../reports/1675674.md) | An Attacker Can Flag Draft Job Posts And Can Disclose The Dr | Medium — CVSS 5.3 | — | 33 | [tushar6378](https://hackerone.com/tushar6378) | 2023-08-24 |
+| 29 | [2081744](../reports/2081744.md) | Deny Admin from Editing LinkedIn Company Page using Gen Form | Medium — CVSS 5.3 | — | 32 | [domg](https://hackerone.com/domg) | 2023-10-19 |
+| 30 | [1945417](../reports/1945417.md) | “See who’s interested in working for your company” - securit | Medium — CVSS 4.3 | — | 28 | [headhunter](https://hackerone.com/headhunter) | 2023-06-21 |
+| 31 | [1818969](../reports/1818969.md) | [ Continuation Report from #1814842 ] Can create articles us | Medium — CVSS 5.3 | — | 22 | [find_me_here](https://hackerone.com/find_me_here) | 2023-05-15 |
+| 32 | [1587374](../reports/1587374.md) | Campaign Account Balance and History Disclosed in API Respon | Medium — CVSS 5.3 | — | 20 | [sachin_kr](https://hackerone.com/sachin_kr) | 2022-11-30 |
+| 33 | [1809633](../reports/1809633.md) | Can VIEW Videos on LinkedIn Learning that Require a Subscrip | Medium — CVSS 5.3 | — | 19 | [find_me_here](https://hackerone.com/find_me_here) | 2023-09-25 |
+| 34 | [1808149](../reports/1808149.md) | Attackers can create unlimited jobs by paying a low price `( | Medium | — | 18 | [find_me_here](https://hackerone.com/find_me_here) | 2023-09-29 |
+| 35 | [1591504](../reports/1591504.md) | The software does not implement sufficient measures to preve | Medium | — | 2 | [suryasnn](https://hackerone.com/suryasnn) | 2022-06-15 |
+| 36 | [3151001](../reports/3151001.md) | Previous commentor on post can still comment even after comm | Low — CVSS 3.1 | — | 108 | [allenjo](https://hackerone.com/allenjo) | 2026-02-03 |
+| 37 | [3079966](../reports/3079966.md) | HTML Injection in LinkedIn Premium Support Chat | Low — CVSS 3.1 | — | 100 | [nagu123](https://hackerone.com/nagu123) | 2025-05-07 |
+| 38 | [1728087](../reports/1728087.md) | User Details Can Be Disclosed Even If The Account IS In Hibe | Low — CVSS 3.7 | — | 55 | [tushar6378](https://hackerone.com/tushar6378) | 2023-12-06 |
+| 39 | [2215418](../reports/2215418.md) | Html injection in event Description  | Low — CVSS 3.1 | — | 53 | [khaledx](https://hackerone.com/khaledx) | 2024-01-29 |
+| 40 | [2076019](../reports/2076019.md) | HTML injection at Company Name or Product Name and can be sh | Low — CVSS 2.6 | — | 31 | [domg](https://hackerone.com/domg) | 2023-10-18 |
+| 41 | [1691603](../reports/1691603.md) | A Unverified User Can Post Newsletter (Which Is Not Allowed  | Low | — | 26 | [tushar6378](https://hackerone.com/tushar6378) | 2023-08-24 |
+| 42 | [1862677](../reports/1862677.md) | Attacker can unpin posts from companies he's not part of. | Low | — | 19 | [spaceboy20](https://hackerone.com/spaceboy20) | 2023-05-12 |
+| 43 | [1587246](../reports/1587246.md) | Improper access control on Linkedin Page | Low — CVSS 2.7 | — | 13 | [dr_nimishadavis](https://hackerone.com/dr_nimishadavis) | 2023-08-24 |
+| 44 | [1607645](../reports/1607645.md) | Add me email address Authentication bypass | None | — | 7 | [raajeevrathnam](https://hackerone.com/raajeevrathnam) | 2022-07-15 |

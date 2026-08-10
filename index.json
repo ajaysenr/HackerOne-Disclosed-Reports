@@ -156391,6 +156391,24 @@
     "votes": 41
   },
   {
+    "id": 1961655,
+    "url": "https://hackerone.com/reports/1961655",
+    "title": "Renaming/aliasing relative symbolic links potentially redirects them to supposedly inaccessible locations",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "tniessen",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Privilege Escalation",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-04-25",
+    "disclosed_at": "2023-08-15",
+    "votes": 5
+  },
+  {
     "id": 1962645,
     "url": "https://hackerone.com/reports/1962645",
     "title": "[accounts.reddit.com] Redirect parameter allows for XSS",
@@ -156407,6 +156425,26 @@
     "reported_at": "2023-04-26",
     "disclosed_at": "2023-05-18",
     "votes": 391
+  },
+  {
+    "id": 1962701,
+    "url": "https://hackerone.com/reports/1962701",
+    "title": "Process-based permissions can be bypassed with the \"inspector\" module.  ",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "mattaustin",
+    "severity": "high",
+    "cvss": 7.7,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-30587"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-04-26",
+    "disclosed_at": "2023-07-20",
+    "votes": 6
   },
   {
     "id": 1962951,
@@ -156443,6 +156481,24 @@
     "reported_at": "2023-04-27",
     "disclosed_at": "2023-06-11",
     "votes": 74
+  },
+  {
+    "id": 1964211,
+    "url": "https://hackerone.com/reports/1964211",
+    "title": "CSRF that makes any linkedin user follow attacker controlled accounts by simply clicking https://www.linkedin.com/comm/mynetwork/discovery-see-all/*",
+    "program": "LinkedIn",
+    "program_handle": "linkedin",
+    "reporter": "marvelmaniac",
+    "severity": "medium",
+    "cvss": 4.3,
+    "weakness": "Cross-Site Request Forgery (CSRF)",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2023-04-27",
+    "disclosed_at": "2023-12-06",
+    "votes": 53
   },
   {
     "id": 1965156,
@@ -156521,6 +156577,24 @@
     "votes": 22
   },
   {
+    "id": 1966262,
+    "url": "https://hackerone.com/reports/1966262",
+    "title": "Huge amount of Subdomains Takeovers at Reddit.com",
+    "program": "Reddit",
+    "program_handle": "reddit",
+    "reporter": "krrishbajaj",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "duplicate",
+    "asset_type": "WILDCARD",
+    "reported_at": "2023-04-29",
+    "disclosed_at": "2023-05-18",
+    "votes": 8
+  },
+  {
     "id": 1966492,
     "url": "https://hackerone.com/reports/1966492",
     "title": "fs.openAsBlob() bypasses permission system",
@@ -156539,6 +156613,44 @@
     "reported_at": "2023-04-29",
     "disclosed_at": "2023-07-20",
     "votes": 6
+  },
+  {
+    "id": 1966499,
+    "url": "https://hackerone.com/reports/1966499",
+    "title": "fs module's file watching is not restricted by --allow-fs-read",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "cjihrig",
+    "severity": "medium",
+    "cvss": 4.4,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-30582"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-04-29",
+    "disclosed_at": "2023-07-20",
+    "votes": 5
+  },
+  {
+    "id": 1967109,
+    "url": "https://hackerone.com/reports/1967109",
+    "title": "Rocket.Chat Desktop client fails to open browser on 3rd party external actions from PDF documents",
+    "program": "Rocket.Chat",
+    "program_handle": "rocket_chat",
+    "reporter": "itssixtynein",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Cleartext Transmission of Sensitive Information",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-04-30",
+    "disclosed_at": "2024-07-11",
+    "votes": 11
   },
   {
     "id": 1969141,

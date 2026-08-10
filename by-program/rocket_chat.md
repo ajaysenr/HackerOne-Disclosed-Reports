@@ -1,4 +1,4 @@
-# Rocket.Chat — Disclosed Reports (69 total)
+# Rocket.Chat — Disclosed Reports (70 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -69,7 +69,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 63 | [1089116](../reports/1089116.md) | Hi! Security Team Rocket.Chat, It's possible to get informat | Low | — | 12 | [khekhe](https://hackerone.com/khekhe) | 2021-04-29 |
 | 64 | [1091118](../reports/1091118.md) | Blind XSS | Low | — | 12 | [abhinav-porwal](https://hackerone.com/abhinav-porwal) | 2021-12-07 |
 | 65 | [724153](../reports/724153.md) | XSS (leads to arbitrary file read in Rocket.Chat-Desktop) | Low | — | 11 | [sectex](https://hackerone.com/sectex) | 2020-01-02 |
-| 66 | [1390782](../reports/1390782.md) | Possible Domain Takeover on AWS Instance. | Low | — | 9 | [samuelsiv](https://hackerone.com/samuelsiv) | 2022-05-22 |
-| 67 | [433792](../reports/433792.md) | Blind SQL injection in third-party software, that allows to  | None | — | 60 | [w2w](https://hackerone.com/w2w) | 2019-10-17 |
-| 68 | [382666](../reports/382666.md) | Blind XSS in the rocket.chat registration email | None | — | 18 | [edoverflow](https://hackerone.com/edoverflow) | 2018-09-26 |
-| 69 | [386614](../reports/386614.md) | Slack Token exposed over internet (Github) | None | — | 14 | [sanjogpanda](https://hackerone.com/sanjogpanda) | 2019-07-11 |
+| 66 | [1967109](../reports/1967109.md) | Rocket.Chat Desktop client fails to open browser on 3rd part | Low | — | 11 | [itssixtynein](https://hackerone.com/itssixtynein) | 2024-07-11 |
+| 67 | [1390782](../reports/1390782.md) | Possible Domain Takeover on AWS Instance. | Low | — | 9 | [samuelsiv](https://hackerone.com/samuelsiv) | 2022-05-22 |
+| 68 | [433792](../reports/433792.md) | Blind SQL injection in third-party software, that allows to  | None | — | 60 | [w2w](https://hackerone.com/w2w) | 2019-10-17 |
+| 69 | [382666](../reports/382666.md) | Blind XSS in the rocket.chat registration email | None | — | 18 | [edoverflow](https://hackerone.com/edoverflow) | 2018-09-26 |
+| 70 | [386614](../reports/386614.md) | Slack Token exposed over internet (Github) | None | — | 14 | [sanjogpanda](https://hackerone.com/sanjogpanda) | 2019-07-11 |
