@@ -8560,6 +8560,7 @@ https://hackerone.com/reports/1966499 | fs module's file watching is not restric
 https://hackerone.com/reports/1967109 | Rocket.Chat Desktop client fails to open browser on 3rd party external actions from PDF documents
 https://hackerone.com/reports/1969141 | Insecure Direct Object Reference (IDOR) - Delete Campaigns
 https://hackerone.com/reports/1969696 | XSS on terra-6.indriverapp.com
+https://hackerone.com/reports/1971589 | CSRF with logout action
 https://hackerone.com/reports/1971610 | Logging in without knowing credentials after logged out action
 https://hackerone.com/reports/1974296 | Steam Deck Single Click Root Remote Code Execution
 https://hackerone.com/reports/1977222 | Open redirect on "Unsupported browser" warning
