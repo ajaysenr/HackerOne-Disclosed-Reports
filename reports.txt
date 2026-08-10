@@ -8546,7 +8546,7 @@ https://hackerone.com/reports/1960870 | Permissions policies can be bypassed via
 https://hackerone.com/reports/1961163 | CSRF that makes any user send invitations to the attacker by simply clicking on a link.
 https://hackerone.com/reports/1961655 | Renaming/aliasing relative symbolic links potentially redirects them to supposedly inaccessible locations
 https://hackerone.com/reports/1962645 | [accounts.reddit.com] Redirect parameter allows for XSS
-https://hackerone.com/reports/1962701 | Process-based permissions can be bypassed with the "inspector" module.  
+https://hackerone.com/reports/1962701 | Process-based permissions can be bypassed with the "inspector" module.
 https://hackerone.com/reports/1962951 | Regression on dest parameter sanitization doesn't check scheme/websafe destinations
 https://hackerone.com/reports/1963213 | Subdomain takeover http://accessday.opn.ooo/
 https://hackerone.com/reports/1964211 | CSRF that makes any linkedin user follow attacker controlled accounts by simply clicking https://www.linkedin.com/comm/mynetwork/discovery-see-all/*
@@ -8554,7 +8554,10 @@ https://hackerone.com/reports/1965156 | Text does not respect 'Allow download' p
 https://hackerone.com/reports/1965640 | IDOR ' can add animal to other account ' at https://www.miroyalcanin.cl/
 https://hackerone.com/reports/1966006 | An IDOR that can lead to enumeration of a user and disclosure of email and phone number within cashier
 https://hackerone.com/reports/1966083 | CVE-2023-28710 Apache Airflow Spark Provider Arbitrary File Read via JDBC
+https://hackerone.com/reports/1966262 | Huge amount of Subdomains Takeovers at Reddit.com
 https://hackerone.com/reports/1966492 | fs.openAsBlob() bypasses permission system
+https://hackerone.com/reports/1966499 | fs module's file watching is not restricted by --allow-fs-read
+https://hackerone.com/reports/1967109 | Rocket.Chat Desktop client fails to open browser on 3rd party external actions from PDF documents
 https://hackerone.com/reports/1969141 | Insecure Direct Object Reference (IDOR) - Delete Campaigns
 https://hackerone.com/reports/1969696 | XSS on terra-6.indriverapp.com
 https://hackerone.com/reports/1971610 | Logging in without knowing credentials after logged out action
