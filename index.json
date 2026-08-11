@@ -156689,6 +156689,24 @@
     "votes": 42
   },
   {
+    "id": 1971589,
+    "url": "https://hackerone.com/reports/1971589",
+    "title": "CSRF with logout action",
+    "program": "Weblate",
+    "program_handle": "weblate",
+    "reporter": "mbi3s",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Cross-Site Request Forgery (CSRF)",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-05-03",
+    "disclosed_at": "2023-06-16",
+    "votes": 29
+  },
+  {
     "id": 1971610,
     "url": "https://hackerone.com/reports/1971610",
     "title": "Logging in without knowing credentials after logged out action",

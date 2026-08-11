@@ -2130,7 +2130,7 @@
 | 2126 | [spichanlio76](https://hackerone.com/spichanlio76) | 1 | $0 | 8 |
 | 2127 | [pk21](https://hackerone.com/pk21) | 1 | $0 | 1 |
 | 2128 | [0xd3adc0de](https://hackerone.com/0xd3adc0de) | 5 | $0 | 53 |
-| 2129 | [mbi3s](https://hackerone.com/mbi3s) | 1 | $0 | 10 |
+| 2129 | [mbi3s](https://hackerone.com/mbi3s) | 2 | $0 | 39 |
 | 2130 | [b6117130df17feef13481e3](https://hackerone.com/b6117130df17feef13481e3) | 3 | $0 | 64 |
 | 2131 | [dexter34](https://hackerone.com/dexter34) | 1 | $0 | 141 |
 | 2132 | [fafawf](https://hackerone.com/fafawf) | 1 | $0 | 2 |
