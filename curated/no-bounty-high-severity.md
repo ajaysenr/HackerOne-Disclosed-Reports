@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1748 total)
+# High/Critical Severity — No Bounty Paid (1749 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -1097,6 +1097,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [865115](../reports/865115.md) | unpermitted user can change the device name of admin account | [Helium](../by-program/helium.md) | High | Resolved | 23 |
 | [1267174](../reports/1267174.md) | Access to tomcat-manager with default creds | [JetBlue](../by-program/jetblue.md) | High | Resolved | 23 |
 | [2819666](../reports/2819666.md) | Exploitable Format String Vulnerability in curl_mfprintf Function | [curl](../by-program/curl.md) | High | Not Applicable | 23 |
+| [1978882](../reports/1978882.md) | User scoped external storage can be used to gather credentials of | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.4 | Resolved | 23 |
 | [682617](../reports/682617.md) | Improper handling of payment callback allows topping up a Swiss S | [Starbucks](../by-program/starbucks.md) | High — CVSS 8.5 | Resolved | 23 |
 | [2237545](../reports/2237545.md) | Code injection and privilege escalation through Linux capabilitie | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | Resolved | 23 |
 | [203515](../reports/203515.md) | Wordpress 4.7.2 - Two XSS in Media Upload when file too large. | [WordPress](../by-program/wordpress.md) | High | Resolved | 23 |

@@ -1,4 +1,4 @@
-# Mozilla — Disclosed Reports (60 total)
+# Mozilla — Disclosed Reports (61 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -50,17 +50,18 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 44 | [1987687](../reports/1987687.md) | Leakage of traffic in plaintext towards the IP address of VP | Low | — | 67 | [vanhoefm](https://hackerone.com/vanhoefm) | 2024-11-08 |
 | 45 | [3025797](../reports/3025797.md) | [Privilege Escalation] User can Pin|Unpin Any Comment on Any | Low | — | 56 | [adilnbabras](https://hackerone.com/adilnbabras) | 2026-03-20 |
 | 46 | [2383486](../reports/2383486.md) | Insecure S3 Bucket Exposing Git Directory in Mozilla Foundat | Low | — | 55 | [psycho_012](https://hackerone.com/psycho_012) | 2024-03-13 |
-| 47 | [1913309](../reports/1913309.md) | Race condition leads to add more than 5 email at Data breach | Low | — | 49 | [sushantd19](https://hackerone.com/sushantd19) | 2024-10-18 |
-| 48 | [2737309](../reports/2737309.md) | Information disclosure on password cancel endpoint  | Low — CVSS 3.5 | — | 45 | [hackeriron1](https://hackerone.com/hackeriron1) | 2024-10-29 |
-| 49 | [2106662](../reports/2106662.md) | CSRF to Information disclosure on password reset | Low | — | 37 | [hackeriron1](https://hackerone.com/hackeriron1) | 2023-11-27 |
-| 50 | [3325582](../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /dele | Low | — | 35 | [adilnbabras](https://hackerone.com/adilnbabras) | 2026-04-10 |
-| 51 | [2053396](../reports/2053396.md) | Possibility of Deface through translation tool - www.mozilla | Low | — | 30 | [astrounder](https://hackerone.com/astrounder) | 2023-10-27 |
-| 52 | [1992261](../reports/1992261.md) | Flickr API key leaked in GitHub commit | Low — CVSS 3.7 | — | 24 | [m4y4nk](https://hackerone.com/m4y4nk) | 2023-10-26 |
-| 53 | [2860983](../reports/2860983.md) | Denial of Access to Static Resources via Cache Poisoning on  | Low | — | 24 | [jabiyev](https://hackerone.com/jabiyev) | 2025-01-08 |
-| 54 | [2111291](../reports/2111291.md) | Stored Xss on bugzilla.mozilla.org via comment edit feature  | Low | — | 23 | [r3dpars3c](https://hackerone.com/r3dpars3c) | 2023-09-20 |
-| 55 | [1989901](../reports/1989901.md) | If rate limit is hit, IP address is leaked to anyone who tri | Low — CVSS 3.7 | — | 22 | [anish-kosaraju](https://hackerone.com/anish-kosaraju) | 2023-09-20 |
-| 56 | [2078707](../reports/2078707.md) | Exposing Django Debug Panel and Sensitive Infrastructure Inf | Low — CVSS 3.7 | — | 17 | [aliend89](https://hackerone.com/aliend89) | 2023-10-13 |
-| 57 | [2696294](../reports/2696294.md) | Private Emails of Moz Workers Leaked in Public file | None | — | 52 | [bd3b2acc340d2664004d535acbc0b](https://hackerone.com/bd3b2acc340d2664004d535acbc0b) | 2024-09-04 |
-| 58 | [2412983](../reports/2412983.md) | sentry Auth Token exposed publicly in docker hub image  | None | — | 51 | [ghaazy](https://hackerone.com/ghaazy) | 2024-10-18 |
-| 59 | [2380084](../reports/2380084.md) | paypal client_id And stripe api key indexed on web archive | None | — | 40 | [ghaazy](https://hackerone.com/ghaazy) | 2024-10-18 |
-| 60 | [1995595](../reports/1995595.md) | Response Manipulation to enable Account recovery key with ou | None | — | 9 | [saiteja12313234](https://hackerone.com/saiteja12313234) | 2023-09-11 |
+| 47 | [1976449](../reports/1976449.md) | DOS via cache poisoning on [developer.mozilla.org] | Low | — | 55 | [zhero_](https://hackerone.com/zhero_) | 2023-06-05 |
+| 48 | [1913309](../reports/1913309.md) | Race condition leads to add more than 5 email at Data breach | Low | — | 49 | [sushantd19](https://hackerone.com/sushantd19) | 2024-10-18 |
+| 49 | [2737309](../reports/2737309.md) | Information disclosure on password cancel endpoint  | Low — CVSS 3.5 | — | 45 | [hackeriron1](https://hackerone.com/hackeriron1) | 2024-10-29 |
+| 50 | [2106662](../reports/2106662.md) | CSRF to Information disclosure on password reset | Low | — | 37 | [hackeriron1](https://hackerone.com/hackeriron1) | 2023-11-27 |
+| 51 | [3325582](../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /dele | Low | — | 35 | [adilnbabras](https://hackerone.com/adilnbabras) | 2026-04-10 |
+| 52 | [2053396](../reports/2053396.md) | Possibility of Deface through translation tool - www.mozilla | Low | — | 30 | [astrounder](https://hackerone.com/astrounder) | 2023-10-27 |
+| 53 | [1992261](../reports/1992261.md) | Flickr API key leaked in GitHub commit | Low — CVSS 3.7 | — | 24 | [m4y4nk](https://hackerone.com/m4y4nk) | 2023-10-26 |
+| 54 | [2860983](../reports/2860983.md) | Denial of Access to Static Resources via Cache Poisoning on  | Low | — | 24 | [jabiyev](https://hackerone.com/jabiyev) | 2025-01-08 |
+| 55 | [2111291](../reports/2111291.md) | Stored Xss on bugzilla.mozilla.org via comment edit feature  | Low | — | 23 | [r3dpars3c](https://hackerone.com/r3dpars3c) | 2023-09-20 |
+| 56 | [1989901](../reports/1989901.md) | If rate limit is hit, IP address is leaked to anyone who tri | Low — CVSS 3.7 | — | 22 | [anish-kosaraju](https://hackerone.com/anish-kosaraju) | 2023-09-20 |
+| 57 | [2078707](../reports/2078707.md) | Exposing Django Debug Panel and Sensitive Infrastructure Inf | Low — CVSS 3.7 | — | 17 | [aliend89](https://hackerone.com/aliend89) | 2023-10-13 |
+| 58 | [2696294](../reports/2696294.md) | Private Emails of Moz Workers Leaked in Public file | None | — | 52 | [bd3b2acc340d2664004d535acbc0b](https://hackerone.com/bd3b2acc340d2664004d535acbc0b) | 2024-09-04 |
+| 59 | [2412983](../reports/2412983.md) | sentry Auth Token exposed publicly in docker hub image  | None | — | 51 | [ghaazy](https://hackerone.com/ghaazy) | 2024-10-18 |
+| 60 | [2380084](../reports/2380084.md) | paypal client_id And stripe api key indexed on web archive | None | — | 40 | [ghaazy](https://hackerone.com/ghaazy) | 2024-10-18 |
+| 61 | [1995595](../reports/1995595.md) | Response Manipulation to enable Account recovery key with ou | None | — | 9 | [saiteja12313234](https://hackerone.com/saiteja12313234) | 2023-09-11 |

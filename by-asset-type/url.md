@@ -1,4 +1,4 @@
-# Asset Type: URL (2073 reports)
+# Asset Type: URL (2074 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -1516,564 +1516,565 @@
 | 1510 | [964550](../reports/964550.md) | XSS Stored via Upload avatar PNG [HTML] File in account | [Shopify](../by-program/shopify.md) | accounts.shopify.com | Low | — | 56 |
 | 1511 | [947728](../reports/947728.md) | staff can able to extend shopify trial period without a | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low | — | 56 |
 | 1512 | [3025797](../reports/3025797.md) | [Privilege Escalation] User can Pin|Unpin Any Comment o | [Mozilla](../by-program/mozilla.md) | pontoon.allizom.org | Low | — | 56 |
-| 1513 | [411723](../reports/411723.md) | Open redirection at https://chaturbate.com/auth/login/ | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 55 |
-| 1514 | [3114132](../reports/3114132.md) | Broken Access Control Exposes Email Verification Status | [WakaTime](../by-program/wakatime.md) | wakatime.com | Low | — | 55 |
-| 1515 | [1728087](../reports/1728087.md) | User Details Can Be Disclosed Even If The Account IS In | [LinkedIn](../by-program/linkedin.md) | www.linkedin.com | Low — CVSS 3.7 | — | 55 |
-| 1516 | [835200](../reports/835200.md) | [www.drive2.ru] There is no rate limit for comments end | [DRIVE.NET, Inc.](../by-program/drive_net_inc.md) | www.drive2.ru | Low | — | 54 |
-| 1517 | [2018615](../reports/2018615.md) | HTML injection on newsroom.snap.com/* via search?q=1 | [Snapchat](../by-program/snapchat.md) | web.snapchat.com | Low | — | 54 |
-| 1518 | [1467044](../reports/1467044.md) | Blind SSRF on platform.dash.cloudflare.com Due to Sentr | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | *.cloudflare.com | Low | — | 53 |
-| 1519 | [2215418](../reports/2215418.md) | Html injection in event Description  | [LinkedIn](../by-program/linkedin.md) | www.linkedin.com | Low — CVSS 3.1 | — | 53 |
-| 1520 | [1073565](../reports/1073565.md) | Open Redirect on https://www.twitterflightschool.com/wi | [X / xAI](../by-program/x.md) | twitterflightschool.com | Low | — | 53 |
-| 1521 | [488985](../reports/488985.md) | Race condition in claiming program credentials  | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.4 | — | 52 |
-| 1522 | [1536899](../reports/1536899.md) | HTML Injection in E-mail | [Acronis](../by-program/acronis.md) | account.acronis.com | Low | — | 52 |
-| 1523 | [1298902](../reports/1298902.md) | Outsider can affect Upvote Percentage of private subred | [Reddit](../by-program/reddit.md) | www.reddit.com | Low — CVSS 3.8 | — | 51 |
-| 1524 | [549040](../reports/549040.md) | Clientside resource Exhausting by exploiting gitlab mat | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 50 |
-| 1525 | [1664920](../reports/1664920.md) | Program managers can see draft reports using Export Rep | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.4 | — | 50 |
-| 1526 | [2812583](../reports/2812583.md) | Open redirect via redirect_to parameter in tumblr.com | [Automattic](../by-program/automattic.md) | www.tumblr.com | Low | — | 50 |
-| 1527 | [640488](../reports/640488.md) | Total bounties paid amount is disclosed because of rede | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 50 |
-| 1528 | [1159398](../reports/1159398.md) | New link opening method makes hackerone vulnerable to t | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 50 |
-| 1529 | [1913309](../reports/1913309.md) | Race condition leads to add more than 5 email at Data b | [Mozilla](../by-program/mozilla.md) | monitor.mozilla.org | Low | — | 49 |
-| 1530 | [1312365](../reports/1312365.md) | Subdomain takeover due to non registered TLD [ ████████ | [Affirm](../by-program/affirm.md) | hackerone.affirm-odin.com | Low | — | 48 |
-| 1531 | [210238](../reports/210238.md) | full path disclosure on www.rockstargames.com via apach | [Rockstar Games](../by-program/rockstargames.md) | *.rockstargames.com | Low | — | 48 |
-| 1532 | [2149124](../reports/2149124.md) | PATCH method manipulation allowing the users to escalat | [Frontegg](../by-program/frontegg.md) | portal.frontegg.com | Low — CVSS 3.4 | — | 48 |
-| 1533 | [1869613](../reports/1869613.md) | Attachment in published HackerOne report exposure priva | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.8 | — | 48 |
-| 1534 | [569241](../reports/569241.md) | Reflected XSS  | [Shopify](../by-program/shopify.md) | oberlo.com | Low | — | 48 |
-| 1535 | [565736](../reports/565736.md) | View HackerOne challenge scope before challenge begins | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.7 | — | 48 |
-| 1536 | [1886143](../reports/1886143.md) | information disclosure of another company bug on video. | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.8 | — | 47 |
-| 1537 | [1103812](../reports/1103812.md) | "Bounty splitting enabled" can discloses if public VDPs | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.4 | — | 46 |
-| 1538 | [2968559](../reports/2968559.md) |  Error Page Content Spoofing or Text Injection | [XVIDEOS](../by-program/xvideos.md) | www.xnxx.com | Low | — | 46 |
-| 1539 | [250729](../reports/250729.md) | Content Security Policy not applied to error pages at m | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 45 |
-| 1540 | [472026](../reports/472026.md) | The auto login link does not expire on changing email i | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 45 |
-| 1541 | [2737309](../reports/2737309.md) | Information disclosure on password cancel endpoint  | [Mozilla](../by-program/mozilla.md) | bugzilla.mozilla.org | Low — CVSS 3.5 | — | 45 |
-| 1542 | [1088966](../reports/1088966.md) | Ability to invite a new member on Sandbox Program | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 44 |
-| 1543 | [634488](../reports/634488.md) | Broken Authentication and Session Management Flaw After | [Omise](../by-program/omise.md) | go.exchange | Low | — | 44 |
-| 1544 | [1536046](../reports/1536046.md) | Stored XSS Payload when sending videos  | [TikTok](../by-program/tiktok.md) | tiktok.com | Low | — | 44 |
-| 1545 | [2248116](../reports/2248116.md) | Able to see highest poll result without voting or view  | [FetLife](../by-program/fetlife.md) | fetlife.com | Low | — | 44 |
-| 1546 | [2679440](../reports/2679440.md) | Unauthenticated Varnish Cache Purge | [Adobe](../by-program/adobe.md) | https://contentcredentials.org/ | Low — CVSS 3.7 | — | 43 |
-| 1547 | [292783](../reports/292783.md) | Oauth flow on the comments widget login can lead to the | [Ed](../by-program/ed.md) | edoverflow.com | Low | — | 42 |
-| 1548 | [2925666](../reports/2925666.md) | Blind SSRF Vulnerability in Appstore Release Upload For | [Nextcloud](../by-program/nextcloud.md) | apps.nextcloud.com | Low — CVSS 3.9 | — | 42 |
-| 1549 | [410451](../reports/410451.md) | User login page doesn't implement any form of rate limi | [HackerOne](../by-program/security.md) | https://ctf.hacker101.com | Low — CVSS 3.0 | — | 42 |
-| 1550 | [1138668](../reports/1138668.md) | The possibility of disrupting the normal operation of f | [HackerOne](../by-program/security.md) | http://hackerone.com/graphql | Low — CVSS 3.1 | — | 41 |
-| 1551 | [1374017](../reports/1374017.md) | HTML injection in email at https://www.hackerone.com/ | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.8 | — | 40 |
-| 1552 | [761573](../reports/761573.md) | Cross-Site Scripting through search form on mtnplay.co. | [MTN Group](../by-program/mtn_group.md) | mtnplay.co.zm | Low | — | 40 |
-| 1553 | [397031](../reports/397031.md) | Disclosure of top 10 vulnerability types for programs t | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 40 |
-| 1554 | [1065186](../reports/1065186.md) | Weak rate limit could lead to ATO due to weak password  | [Reddit](../by-program/reddit.md) | gateway-production.dubsmash.com | Low | — | 39 |
-| 1555 | [966814](../reports/966814.md) | Slack-Corp Heroku application disclosing limited info a | [Slack](../by-program/slack.md) | slack.com | Low — CVSS 3.7 | — | 39 |
-| 1556 | [669776](../reports/669776.md) | Disclosure of Program email Title Report when being rem | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.4 | — | 39 |
-| 1557 | [2270633](../reports/2270633.md) | Web API key registration allows registering multiple ke | [Valve](../by-program/valve.md) | steamcommunity.com | Low — CVSS 3.5 | — | 37 |
-| 1558 | [905543](../reports/905543.md) | Low Privileged user can add or remove cash to/from sale | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low | — | 37 |
-| 1559 | [2682974](../reports/2682974.md) | Social media account takeover  | [MTN Group](../by-program/mtn_group.md) | simfy.africa | Low — CVSS 3.7 | — | 37 |
-| 1560 | [2258950](../reports/2258950.md) | Timeline API returns private post when target of a push | [Automattic](../by-program/automattic.md) | api.tumblr.com | Low | — | 37 |
-| 1561 | [2106662](../reports/2106662.md) | CSRF to Information disclosure on password reset | [Mozilla](../by-program/mozilla.md) | accounts.firefox.com | Low | — | 37 |
-| 1562 | [1131306](../reports/1131306.md) | User's who are banned from program can still be invited | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.1 | — | 36 |
-| 1563 | [301526](../reports/301526.md) | Invitation token leaks to https://bat.bing.com | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.7 | — | 36 |
-| 1564 | [3325582](../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at  | [Mozilla](../by-program/mozilla.md) | pontoon.allizom.org | Low | — | 35 |
-| 1565 | [286667](../reports/286667.md) | Self-XSS in password reset functionality | [Shopify](../by-program/shopify.md) | accounts.shopify.com | Low — CVSS 3.8 | — | 34 |
-| 1566 | [1108291](../reports/1108291.md) | Race condition via project team member invitation syste | [Enjin](../by-program/enjin.md) | cloud.enjin.io,goerli.cloud.enjin.io,jum | Low | — | 33 |
-| 1567 | [541606](../reports/541606.md) | [Privilege Escalation] Shopify Admin -- Permission from | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low — CVSS 3.4 | — | 33 |
-| 1568 | [1128701](../reports/1128701.md) | Lack warning label when receiving a letter | [HackerOne](../by-program/security.md) | http://hackerone.com/graphql | Low — CVSS 3.1 | — | 33 |
-| 1569 | [348168](../reports/348168.md) | Timing attack towards endpoints on the web without CSRF | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.9 | — | 33 |
-| 1570 | [645264](../reports/645264.md) | Program Email Nofication settings ignored when being ad | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.4 | — | 33 |
-| 1571 | [578119](../reports/578119.md) | Privilege escalation due to insecure use of logrotate | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 32 |
-| 1572 | [395518](../reports/395518.md) | Internal usage of AdBlockPlus may expose PoC URLs to un | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.5 | — | 32 |
-| 1573 | [1145293](../reports/1145293.md) | No rate Limit | [Moneybird](../by-program/moneybird.md) | moneybird.com | Low | — | 32 |
-| 1574 | [237262](../reports/237262.md) | Invitation tokens leak to Google Analytics | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.1 | — | 32 |
-| 1575 | [294505](../reports/294505.md) | Cross-site scripting in "Contact customer" form | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low — CVSS 3.4 | — | 32 |
-| 1576 | [1130235](../reports/1130235.md) | Hackers can reveal the names of private programs that h | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.6 | — | 32 |
-| 1577 | [1378533](../reports/1378533.md) | Open Redirect TO  Stealing aadvid | [TikTok](../by-program/tiktok.md) | ads.tiktok.com | Low — CVSS 3.1 | — | 31 |
-| 1578 | [2569993](../reports/2569993.md) | Reports submitted by a non 2fa setupped user account ca | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.7 | — | 31 |
-| 1579 | [2076019](../reports/2076019.md) | HTML injection at Company Name or Product Name and can  | [LinkedIn](../by-program/linkedin.md) | www.linkedin.com | Low — CVSS 2.6 | — | 31 |
-| 1580 | [1509057](../reports/1509057.md) | IDOR on TikTok Seller | [TikTok](../by-program/tiktok.md) | *.tiktok.com | Low — CVSS 3.7 | — | 30 |
-| 1581 | [835302](../reports/835302.md) | [www.drive2.ru] Insufficient Security Configurability - | [DRIVE.NET, Inc.](../by-program/drive_net_inc.md) | www.drive2.ru | Low | — | 30 |
-| 1582 | [953579](../reports/953579.md) | [api.tumblr.com] Exploiting clickjacking vulnerability  | [Automattic](../by-program/automattic.md) | api.tumblr.com | Low | — | 30 |
-| 1583 | [1133661](../reports/1133661.md) | TikTok Session Donation CSRF via QR code login | [TikTok](../by-program/tiktok.md) | tiktok.com | Low — CVSS 3.1 | — | 30 |
-| 1584 | [1264725](../reports/1264725.md) | Information disclosure - Feedback is accessible on Publ | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 30 |
-| 1585 | [818848](../reports/818848.md) | Read-only team members can read all properties of webho | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 30 |
-| 1586 | [692068](../reports/692068.md) | Domain takeover on http://doesfranshaveashell.com/ due  | [Ed](../by-program/ed.md) | doesfranshaveashell.com | Low — CVSS 2.7 | — | 30 |
-| 1587 | [334253](../reports/334253.md) | CSRF at [Apply to this program] that lead to submit you | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.4 | — | 30 |
-| 1588 | [1386277](../reports/1386277.md) | Attachment references in markdown don't warn before dow | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 29 |
-| 1589 | [2313478](../reports/2313478.md) | CSRF resulting in adding pet at ███████ | [Mars](../by-program/mars.md) | spsah2.securevetsource.com | Low — CVSS 3.8 | — | 29 |
-| 1590 | [1137218](../reports/1137218.md) | Access control issue on invoice documents downloading f | [Moneybird](../by-program/moneybird.md) | moneybird.com | Low — CVSS 3.4 | — | 29 |
-| 1591 | [1139528](../reports/1139528.md) | Editing Pentest Summary Report Answers After Submitting | [HackerOne](../by-program/security.md) | http://hackerone.com/graphql | Low — CVSS 3.1 | — | 29 |
-| 1592 | [488643](../reports/488643.md) | Disclosure of h1 challenges name through the calendar | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.8 | — | 29 |
-| 1593 | [540711](../reports/540711.md) | Access Projects And create projects in gitlab pre produ | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 28 |
-| 1594 | [990838](../reports/990838.md) | Bypass Filter on link of build | [CS Money](../by-program/cs_money.md) | 3d.cs.money | Low | — | 28 |
-| 1595 | [997198](../reports/997198.md) | Content Spoofing/Text Injection in https://support.cs.m | [CS Money](../by-program/cs_money.md) | support.cs.money | Low | — | 28 |
-| 1596 | [642675](../reports/642675.md) | Bypass for blind SSRF #281950 and #287496 | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 28 |
-| 1597 | [341969](../reports/341969.md) | DOM XSS in edoverflow.com/tools/respond due to unsafe u | [Ed](../by-program/ed.md) | edoverflow.com | Low | — | 28 |
-| 1598 | [1070081](../reports/1070081.md) | information disclosure lead to disclose users private n | [Automattic](../by-program/automattic.md) | simplenote.com | Low | — | 27 |
-| 1599 | [438299](../reports/438299.md) | Information Exposure Through Directory Listing vulnerab | [X / xAI](../by-program/x.md) | snappytv.com | Low | — | 27 |
-| 1600 | [835647](../reports/835647.md) | [www.drive2.ru] Insufficient Security Configurability - | [DRIVE.NET, Inc.](../by-program/drive_net_inc.md) | www.drive2.ru | Low | — | 27 |
-| 1601 | [448078](../reports/448078.md) | A user can request a report to be retested even though  | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.8 | — | 27 |
-| 1602 | [315838](../reports/315838.md) | Non-Cloudflare IPs allowed to access origin servers | [Coalition, Inc.](../by-program/coalition.md) | platform.thecoalition.com | Low | — | 26 |
-| 1603 | [1637761](../reports/1637761.md) | CSRF in Importing CSV files [app.taxjar.com] | [Stripe](../by-program/stripe.md) | app.taxjar.com | Low | — | 26 |
-| 1604 | [1285538](../reports/1285538.md) | Race condition on action: Invite members to a team | [Omise](../by-program/omise.md) | dashboard.omise.co | Low | — | 26 |
-| 1605 | [2403554](../reports/2403554.md) | XSS on LINE CAREERS | [LY Corporation](../by-program/line.md) | http://recruit.linepluscorp.com | Low | — | 26 |
-| 1606 | [2097377](../reports/2097377.md) | Information Disclosure - Pvt Gitlab Issue Disclosing Th | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 26 |
-| 1607 | [1626281](../reports/1626281.md) | Password reset tokens sent to CSP reporting endpoints | [Snapchat](../by-program/snapchat.md) | accounts.snapchat.com | Low | — | 26 |
-| 1608 | [1103448](../reports/1103448.md) | Organization Members in Snap Kit may Deactivate Apps | [Snapchat](../by-program/snapchat.md) | kit.snapchat.com | Low | — | 26 |
-| 1609 | [1691603](../reports/1691603.md) | A Unverified User Can Post Newsletter (Which Is Not All | [LinkedIn](../by-program/linkedin.md) | www.linkedin.com | Low | — | 26 |
-| 1610 | [1418419](../reports/1418419.md) | [api.krisp.ai] Race condition on /v2/seats endpoint all | [Krisp](../by-program/krisp.md) | api.krisp.ai | Low | — | 26 |
-| 1611 | [270993](../reports/270993.md) | resolved bugs in a program are public despite the progr | [HackerOne](../by-program/security.md) | www.hackerone.com | Low | — | 25 |
-| 1612 | [888930](../reports/888930.md) | SAML Response Reuse on hackerone.com/users/saml/auth | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 25 |
-| 1613 | [587687](../reports/587687.md) | IDOR to update folder name of other user | [Trint Ltd](../by-program/trint.md) | app.trint.com | Low — CVSS 3.4 | — | 25 |
-| 1614 | [1842801](../reports/1842801.md) | Adobe Experience Manager 'Childlist selector' - Cross-S | [Adobe](../by-program/adobe.md) | *.adobe.com | Low — CVSS 3.1 | — | 24 |
-| 1615 | [477222](../reports/477222.md) | Last build status and coverage leaked to unauthorized u | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 24 |
-| 1616 | [1086752](../reports/1086752.md) | CSRF in changing password after using reset password li | [OpenMage](../by-program/openmage.md) | demo.openmage.org | Low — CVSS 3.8 | — | 24 |
-| 1617 | [608656](../reports/608656.md) | Disabled account can still use GraphQL endpoint | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.9 | — | 24 |
-| 1618 | [745953](../reports/745953.md) | Camo Image Proxy Bypass with CSS Escape Sequences | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 24 |
-| 1619 | [2860983](../reports/2860983.md) | Denial of Access to Static Resources via Cache Poisonin | [Mozilla](../by-program/mozilla.md) | addons.allizom.org | Low | — | 24 |
-| 1620 | [496973](../reports/496973.md) | Persistent XSS via e-mail when creating merge requests | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 24 |
-| 1621 | [262649](../reports/262649.md) | Information disclosure (system username) in the x-amz-m | [GSA Bounty](../by-program/gsa_bbp.md) | federation.data.gov | Low | — | 23 |
-| 1622 | [210875](../reports/210875.md) | use of unsafe host header leads to open redirect | [Rockstar Games](../by-program/rockstargames.md) | socialclub.rockstargames.com | Low | — | 23 |
-| 1623 | [422698](../reports/422698.md) | Update Chat Allowed By Option ( without age verificatio | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 23 |
-| 1624 | [882848](../reports/882848.md) | Possibilty to purchase Ultimate - 1 Year (EDU or OSS) | [GitLab](../by-program/gitlab.md) | customers.gitlab.com | Low | — | 23 |
-| 1625 | [1762764](../reports/1762764.md) | Sensitive information for phpinfo.php at https://produc | [Expedia Group Bug Bounty](../by-program/expediagroup_bbp.md) | *.ean.com | Low — CVSS 3.7 | — | 23 |
-| 1626 | [2111291](../reports/2111291.md) | Stored Xss on bugzilla.mozilla.org via comment edit fea | [Mozilla](../by-program/mozilla.md) | bugzilla.mozilla.org | Low | — | 23 |
-| 1627 | [1006599](../reports/1006599.md) | Blind SSRF in ads.tiktok.com | [TikTok](../by-program/tiktok.md) | ads.tiktok.com | Low — CVSS 3.7 | — | 23 |
-| 1628 | [1101771](../reports/1101771.md) | Open redirect on https://signin.rockstargames.com/conne | [Rockstar Games](../by-program/rockstargames.md) | *.rockstargames.com | Low | — | 23 |
-| 1629 | [481518](../reports/481518.md) | Bypass GraphQL rate limit by abusing negative cost quer | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low | — | 23 |
-| 1630 | [404864](../reports/404864.md) | Emails from Grammarly missing sanitization(lack of vali | [Superhuman (formerly Grammarly)](../by-program/superhuman.md) | app.grammarly.com | Low | — | 22 |
-| 1631 | [808832](../reports/808832.md) | Information Disclosure in https://www.rockstargames.com | [Rockstar Games](../by-program/rockstargames.md) | *.rockstargames.com | Low | — | 22 |
-| 1632 | [1194301](../reports/1194301.md) | Reflected XSS in https://www.topcoder.com/blog/category | [Lab45](../by-program/lab45.md) | www.topcoder.com | Low — CVSS 3.4 | — | 22 |
-| 1633 | [694749](../reports/694749.md) | Clicking "http://burp" hyperlink on FireFox CA Installa | [PortSwigger Web Security](../by-program/portswigger.md) | portswigger.net | Low | — | 22 |
-| 1634 | [1989901](../reports/1989901.md) | If rate limit is hit, IP address is leaked to anyone wh | [Mozilla](../by-program/mozilla.md) | bugzilla.mozilla.org | Low — CVSS 3.7 | — | 22 |
-| 1635 | [948146](../reports/948146.md) | Rate limiting on report video | [TikTok](../by-program/tiktok.md) | tiktok.com | Low | — | 22 |
-| 1636 | [1670304](../reports/1670304.md) | Card requirement bypass for business trial | [Krisp](../by-program/krisp.md) | api.krisp.ai | Low | — | 22 |
-| 1637 | [826176](../reports/826176.md) | program_analytics_benchmarks query shows information no | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 22 |
-| 1638 | [374907](../reports/374907.md) | Root user disclosure in data.gov domain though x-amz-me | [GSA Bounty](../by-program/gsa_bbp.md) | www.data.gov | Low | — | 22 |
-| 1639 | [906201](../reports/906201.md) | XSS / SELF XSS | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low | — | 21 |
-| 1640 | [1102660](../reports/1102660.md) | staffOrderNotificationSubscriptionDelete Could Be Used  | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low — CVSS 2.7 | — | 21 |
-| 1641 | [416906](../reports/416906.md) | Missing Rate Limitation at /apps/upload_app/  | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 21 |
-| 1642 | [1102652](../reports/1102652.md) | staffOrderNotificationSubscriptionCreate Is Not Blocked | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low — CVSS 3.8 | — | 21 |
-| 1643 | [1851969](../reports/1851969.md) | Open Redirect - https://████████.jetblue.com/███?url= | [JetBlue](../by-program/jetblue.md) | mobile.jetblue.com | Low | — | 21 |
-| 1644 | [1267176](../reports/1267176.md) | Open Redirection | [JetBlue](../by-program/jetblue.md) | movil.jetblue.com | Low | — | 21 |
-| 1645 | [426547](../reports/426547.md) | Missing Rate Limitation at /photo_videos/photoset/creat | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 20 |
-| 1646 | [955286](../reports/955286.md) | Graphql: Sorting the reports by jira_status field resul | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.8 | — | 20 |
-| 1647 | [690330](../reports/690330.md) | scripts loader (denial of service) vulnerability | [MariaDB](../by-program/mariadb.md) | mariadb.org | Low | — | 20 |
-| 1648 | [1272305](../reports/1272305.md) | Without verifying email and activate account, user can  | [Stripe](../by-program/stripe.md) | *.stripe.com | Low | — | 20 |
-| 1649 | [1010806](../reports/1010806.md) | [tumblr.com] CSRF in /svc/user/filtered_content | [Automattic](../by-program/automattic.md) | www.tumblr.com | Low | — | 20 |
-| 1650 | [1087188](../reports/1087188.md) | Race Condition allows to get more free trials and get m | [Weblate](../by-program/weblate.md) | hosted.weblate.org | Low — CVSS 3.1 | — | 20 |
-| 1651 | [415139](../reports/415139.md) | Reflected xss on theacademy.upserve.com | [Upserve ](../by-program/upserve.md) | theacademy.upserve.com | Low | — | 20 |
-| 1652 | [229498](../reports/229498.md) | Host header injection/redirection via newsletter signup | [Starbucks](../by-program/starbucks.md) | www.starbucks.com | Low | — | 19 |
-| 1653 | [515574](../reports/515574.md) | Unclaimed Github Repository Takeover on https://www.dat | [GSA Bounty](../by-program/gsa_bbp.md) | www.data.gov | Low | — | 19 |
-| 1654 | [297359](../reports/297359.md) | No Rate Limit in email leads to huge Mass mailings | [X / xAI](../by-program/x.md) | mopub.com | Low | — | 19 |
-| 1655 | [1166073](../reports/1166073.md) | Hyper Link Injection while signup  | [UPchieve](../by-program/upchieve.md) | app.upchieve.org | Low | — | 19 |
-| 1656 | [726163](../reports/726163.md) | IDOR in https://moneybird.com/user/accountant_company/e | [Moneybird](../by-program/moneybird.md) | moneybird.com | Low — CVSS 3.8 | — | 19 |
-| 1657 | [1091403](../reports/1091403.md) | CSRF Bypassed on Logout Endpoint | [Enjin](../by-program/enjin.md) | cloud.enjin.io,goerli.cloud.enjin.io,jum | Low | — | 19 |
-| 1658 | [1118898](../reports/1118898.md) | PHP info page disclosure | [U.S. General Services Administration](../by-program/gsa_vdp.md) | mysmartplans.gsa.gov | Low — CVSS 3.7 | — | 19 |
-| 1659 | [418145](../reports/418145.md) | No rate limiting in changing room subject. | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 19 |
-| 1660 | [474397](../reports/474397.md) | Error Page Content Spoofing or Text Injection | [CFP Time](../by-program/cfptime.md) | www.cfptime.org | Low | — | 19 |
-| 1661 | [576288](../reports/576288.md) | Testnet address being sent in cleartext as http://rinke | [Chainlink](../by-program/chainlink.md) | rinkeby.chain.link | Low | — | 19 |
-| 1662 | [1862677](../reports/1862677.md) | Attacker can unpin posts from companies he's not part o | [LinkedIn](../by-program/linkedin.md) | www.linkedin.com | Low | — | 19 |
-| 1663 | [1165225](../reports/1165225.md) | [dubsmash] Username and password bruteforce | [Reddit](../by-program/reddit.md) | www.dubsmash.com | Low — CVSS 3.9 | — | 18 |
-| 1664 | [854793](../reports/854793.md) | No rate limiting for confirmation email lead to email f | [Brave Software](../by-program/brave.md) | creators.basicattentiontoken.org | Low | — | 18 |
-| 1665 | [365504](../reports/365504.md) | Comment restriction in subsection "Workshop" of domain  | [Valve](../by-program/valve.md) | steamcommunity.com | Low | — | 18 |
-| 1666 | [1087382](../reports/1087382.md) | Store Deletion or Sell without authentication | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low — CVSS 3.7 | — | 18 |
-| 1667 | [1132171](../reports/1132171.md) | Race condition allows to send multiple times feedback f | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.7 | — | 17 |
-| 1668 | [2078707](../reports/2078707.md) | Exposing Django Debug Panel and Sensitive Infrastructur | [Mozilla](../by-program/mozilla.md) | relay.firefox.com | Low — CVSS 3.7 | — | 17 |
-| 1669 | [1812705](../reports/1812705.md) | Bypassing creation of  API tokens without email verific | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | dash.cloudflare.com | Low — CVSS 3.9 | — | 17 |
-| 1670 | [658217](../reports/658217.md) | Clickjacking in [exchangemarketplace.com] | [Shopify](../by-program/shopify.md) | exchangemarketplace.com | Low | — | 17 |
-| 1671 | [129773](../reports/129773.md) | Previous attachments can be referenced when creating a  | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.1 | — | 17 |
-| 1672 | [633001](../reports/633001.md) | Private System Note Disclosure using GraphQL | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 17 |
-| 1673 | [254269](../reports/254269.md) | Persistent XSS found on bin.pinion.gg due to outdated F | [Unikrn](../by-program/unikrn.md) | pinion.gg | Low | — | 17 |
-| 1674 | [240562](../reports/240562.md) | Privilege Escalation. | [Inflection](../by-program/inflection.md) | www.identity.com | Low — CVSS 3.0 | — | 16 |
-| 1675 | [835138](../reports/835138.md) | [www.drive2.ru] Insufficient Security Configurability - | [DRIVE.NET, Inc.](../by-program/drive_net_inc.md) | www.drive2.ru | Low | — | 16 |
-| 1676 | [812351](../reports/812351.md) | Username Information Disclosure via Json response - Usi | [Brave Software](../by-program/brave.md) | brave.com | Low | — | 16 |
-| 1677 | [1127455](../reports/1127455.md) | Hackers can reveal the names of private programs that h | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.6 | — | 16 |
-| 1678 | [1006691](../reports/1006691.md) | [www.drive2.ru]  Insufficient Security Configurability  | [DRIVE.NET, Inc.](../by-program/drive_net_inc.md) | www.drive2.ru | Low | — | 16 |
-| 1679 | [415398](../reports/415398.md) | Chaturbate "/chat_ignore_list/" endpoint does not check | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 16 |
-| 1680 | [1736846](../reports/1736846.md) | Akismet API keys are exposed by authentication method | [Automattic](../by-program/automattic.md) | akismet.com | Low | — | 16 |
-| 1681 | [1591403](../reports/1591403.md) | Self XSS in https://linkpop.com/dashboard/admin | [Shopify](../by-program/shopify.md) | linkpop.com | Low | — | 16 |
-| 1682 | [922470](../reports/922470.md) | No rate limiting on sinup page | [Nextcloud](../by-program/nextcloud.md) | nextcloud.com | Low — CVSS 3.5 | — | 16 |
-| 1683 | [1139541](../reports/1139541.md) | Enumerating HackerOne Pentests | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.7 | — | 16 |
-| 1684 | [576532](../reports/576532.md) | DOM XSS via Shopify.API.remoteRedirect | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low | — | 16 |
-| 1685 | [1370749](../reports/1370749.md) | After changing the storefront password, the preview lin | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low — CVSS 3.7 | — | 16 |
-| 1686 | [1256371](../reports/1256371.md) | PII data Leakage through hackerone reports  | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.7 | — | 16 |
-| 1687 | [392701](../reports/392701.md) | Vulnerability Report - Missing Certificate Authority Au | [MariaDB](../by-program/mariadb.md) | mariadb.org | Low | — | 16 |
-| 1688 | [1434967](../reports/1434967.md) | Github Account Takeover from Docs page of `kubernetes-c | [Kubernetes](../by-program/kubernetes.md) | kubernetes-csi.github.io | Low | — | 15 |
-| 1689 | [743518](../reports/743518.md) | Pending MFA logins aren't immediatly expired after a pa | [Moneybird](../by-program/moneybird.md) | moneybird.com | Low | — | 15 |
-| 1690 | [412526](../reports/412526.md) | No rate limit in stats api token endpoint | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 15 |
-| 1691 | [418151](../reports/418151.md) | No rate limiting in starting up a bot. | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 15 |
-| 1692 | [210994](../reports/210994.md) | Control Character Injection In Messages | [Rockstar Games](../by-program/rockstargames.md) | socialclub.rockstargames.com | Low | — | 15 |
-| 1693 | [260390](../reports/260390.md) | 2FA manual entry uses wrong encoding | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | Low | — | 15 |
-| 1694 | [1466855](../reports/1466855.md) | User with no Develop apps permission can Uninstall Cust | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low — CVSS 3.1 | — | 15 |
-| 1695 | [1767439](../reports/1767439.md) | Exposed Log File Lead to Full Internal path disclosure  | [Nextcloud](../by-program/nextcloud.md) | nextcloud.com | Low | — | 15 |
-| 1696 | [1610316](../reports/1610316.md) | Improper user validation on mentions and hashtags | [TikTok](../by-program/tiktok.md) | *.tiktok.com | Low — CVSS 3.5 | — | 15 |
-| 1697 | [786301](../reports/786301.md) | Stored XSS in Name of Team Member Invitation | [Localize](../by-program/localizejs.md) | localizestaging.com | Low | — | 15 |
-| 1698 | [1322334](../reports/1322334.md) | Ability to subscribe to inactive Post+ creators | [Automattic](../by-program/automattic.md) | www.tumblr.com | Low | — | 15 |
-| 1699 | [280534](../reports/280534.md) | No Rate Limit on account deletion request(Leads to huge | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 14 |
-| 1700 | [413505](../reports/413505.md) | No rate limit in affiliate statsapi endpoint | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 14 |
-| 1701 | [386116](../reports/386116.md) | CSV Injection with the CSV export feature | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low — CVSS 3.1 | — | 14 |
-| 1702 | [118582](../reports/118582.md) | CSV Injection at the CSV export feature | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.0 | — | 14 |
-| 1703 | [666557](../reports/666557.md) | Content Spoofing /Text Injection in https://docs.nextcl | [Nextcloud](../by-program/nextcloud.md) | docs.nextcloud.com | Low | — | 14 |
-| 1704 | [330122](../reports/330122.md) | Bypassing CSRF Token On Reply Message & Send Message | [Reverb.com](../by-program/reverb.md) | sandbox.reverb.com | Low | — | 14 |
-| 1705 | [813300](../reports/813300.md) | Changes to data in a CVE request after draft via GraphQ | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.6 | — | 14 |
-| 1706 | [796295](../reports/796295.md) | csrf in https://www.rockstargames.com/reddeadonline/fee | [Rockstar Games](../by-program/rockstargames.md) | *.rockstargames.com | Low | — | 14 |
-| 1707 | [271765](../reports/271765.md) | Stored XSS in partners dashboard | [Shopify](../by-program/shopify.md) | partners.shopify.com | Low — CVSS 3.4 | — | 14 |
-| 1708 | [210572](../reports/210572.md) | Full path Disclosure in Rockstargames.com██████████  | [Rockstar Games](../by-program/rockstargames.md) | *.rockstargames.com | Low | — | 13 |
-| 1709 | [1587246](../reports/1587246.md) | Improper access control on Linkedin Page | [LinkedIn](../by-program/linkedin.md) | www.linkedin.com | Low — CVSS 2.7 | — | 13 |
-| 1710 | [783356](../reports/783356.md) | The password limit is not set, [DoS]. | [Localize](../by-program/localizejs.md) | localizestaging.com | Low | — | 13 |
-| 1711 | [323735](../reports/323735.md) | Insecure Transportation Security Protocol Supported (TL | [JamieWeb](../by-program/jamieweb.md) | www.jamieweb.net | Low | — | 13 |
-| 1712 | [605608](../reports/605608.md) | [information disclosure] Validate existence of a privat | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 13 |
-| 1713 | [1087744](../reports/1087744.md) | Improper deep link validation  | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low — CVSS 3.1 | — | 13 |
-| 1714 | [1440161](../reports/1440161.md) | Improper Neutralization of Script-Related HTML Tags in  | [8x8](../by-program/8x8-bounty.md) | supersite.8x8.com | Low | — | 13 |
-| 1715 | [257207](../reports/257207.md) | Code injection | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | Low — CVSS 3.5 | — | 13 |
-| 1716 | [1877185](../reports/1877185.md) | connect.8x8.com: Too much resource consumption of the s | [8x8](../by-program/8x8-bounty.md) | connect.8x8.com | Low | — | 12 |
-| 1717 | [1089978](../reports/1089978.md) | [h1-2102] [Yaworski's Broskis] Suspected overcharge and | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low — CVSS 2.0 | — | 12 |
-| 1718 | [737578](../reports/737578.md) | Redirection through referer tag | [Stripo Inc](../by-program/stripo.md) | stripo.email | Low | — | 12 |
-| 1719 | [298028](../reports/298028.md) | Clickjacking on https://www.goodhire.com/api | [Inflection](../by-program/inflection.md) | api.goodhire.com | Low | — | 12 |
-| 1720 | [503804](../reports/503804.md) | Path Disclosure Vulnerability http://crm.******.com | [Unikrn](../by-program/unikrn.md) | crm.unikrn.com | Low | — | 12 |
-| 1721 | [1085079](../reports/1085079.md) | No Limit on Email Subscription | [OpenMage](../by-program/openmage.md) | demo.openmage.org | Low | — | 12 |
-| 1722 | [280504](../reports/280504.md) | Weak Password Policy on Signup | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 12 |
-| 1723 | [1133536](../reports/1133536.md) | Temporary banned user (from platform) is able to make s | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.1 | — | 12 |
-| 1724 | [1157893](../reports/1157893.md) | PHP-FPM status page disclosure | [Algolia](../by-program/algolia.md) | www.algolia.com | Low | — | 12 |
-| 1725 | [1331361](../reports/1331361.md) | Broken Link Hijacking on kubernetes.io Documentation | [Kubernetes](../by-program/kubernetes.md) | kubernetes.io | Low | — | 12 |
-| 1726 | [372452](../reports/372452.md) | CORS on (ws.infogram.com) | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 12 |
-| 1727 | [260751](../reports/260751.md) | Change password session fixed | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot.com | Low | — | 12 |
-| 1728 | [288707](../reports/288707.md) | Email Spoofing | [Aspen](../by-program/aspen.md) | aspen.io | Low | — | 11 |
-| 1729 | [1554888](../reports/1554888.md) |  Site information's Display Name section vulnerable for | [Automattic](../by-program/automattic.md) | my.pressable.com | Low | — | 11 |
-| 1730 | [679657](../reports/679657.md) | The twitter accounts are linked on page but unclaimed. | [MyCrypto](../by-program/mycrypto.md) | about.mycrypto.com | Low | — | 11 |
-| 1731 | [271700](../reports/271700.md) | Leak IP internal | [Rockstar Games](../by-program/rockstargames.md) | www.rockstargames.com | Low | — | 11 |
-| 1732 | [411822](../reports/411822.md) | Password protected rooms total number of viewers disclo | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 11 |
-| 1733 | [385145](../reports/385145.md) | Homograph attack on redirect URL (https://chaturbate.co | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 11 |
-| 1734 | [388527](../reports/388527.md) | Self xss | [Nextcloud](../by-program/nextcloud.md) | nextcloud.com | Low | — | 11 |
-| 1735 | [287496](../reports/287496.md) | Internal Ports Scanning via Blind SSRF  (URL Redirectio | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 11 |
-| 1736 | [405697](../reports/405697.md) | Open redirection in OAuth | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low | — | 11 |
-| 1737 | [667408](../reports/667408.md) | Head pipeline leaked to unauthorized users via blocking | [GitLab](../by-program/gitlab.md) | gitlab.com | Low — CVSS 3.5 | — | 11 |
-| 1738 | [1675730](../reports/1675730.md) | Password Policy Restriction Bypass | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | dash.cloudflare.com | Low | — | 11 |
-| 1739 | [282772](../reports/282772.md) | no notification send to victim if attacker hacks/access | [Weblate](../by-program/weblate.md) | hosted.weblate.org | Low | — | 11 |
-| 1740 | [385239](../reports/385239.md) | Add non-existent room moderator | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 11 |
-| 1741 | [280519](../reports/280519.md) | Email notification is not being sent while changing pas | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 11 |
-| 1742 | [381237](../reports/381237.md) | CSRF | Ban or unban users in broadcast's chat | [Valve](../by-program/valve.md) | steamcommunity.com | Low — CVSS 3.5 | — | 10 |
-| 1743 | [386160](../reports/386160.md) | xmlrpc.php on mariadb.org can lead to DDOS and brute fo | [MariaDB](../by-program/mariadb.md) | mariadb.org | Low | — | 10 |
-| 1744 | [227726](../reports/227726.md) | Missing CSRF Token On Remove Coupun From Cart | [Starbucks](../by-program/starbucks.md) | www.teavana.com | Low | — | 10 |
-| 1745 | [481654](../reports/481654.md) | No Rate On Add Suggest | [Weblate](../by-program/weblate.md) | hosted.weblate.org | Low | — | 10 |
-| 1746 | [367581](../reports/367581.md) | Basic auth details is still work on report ( 351555 )  | [Reverb.com](../by-program/reverb.md) | sandbox.reverb.com | Low | — | 10 |
-| 1747 | [1083531](../reports/1083531.md) | Reset password policy isn't consistent with registratio | [Enjin](../by-program/enjin.md) | cloud.enjin.io,goerli.cloud.enjin.io,jum | Low | — | 10 |
-| 1748 | [307424](../reports/307424.md) | While adding a payment method - Notification email not  | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 10 |
-| 1749 | [582349](../reports/582349.md) | Last pipeline status for MR leaked  | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 10 |
-| 1750 | [727870](../reports/727870.md) | [www.yoti.com] Wordpress user admin information disclou | [Yoti](../by-program/yoti.md) | www.yoti.com | Low | — | 10 |
-| 1751 | [938683](../reports/938683.md) | CVE-2019-19935 - DOM based XSS in the froala editor | [lemlist](../by-program/lemlist.md) | app.lemlist.com | Low | — | 10 |
-| 1752 | [263010](../reports/263010.md) | Improper validation at Phone verification (possible cos | [Unikrn](../by-program/unikrn.md) | unikrn.com | Low | — | 10 |
-| 1753 | [785833](../reports/785833.md) | registering with the same email address multiple times  | [Reddit](../by-program/reddit.md) | www.reddit.com | Low | — | 10 |
-| 1754 | [1420070](../reports/1420070.md) | Force User to Accept Attacker's invite [ Restrict user  | [Krisp](../by-program/krisp.md) | account.krisp.ai | Low | — | 10 |
-| 1755 | [186554](../reports/186554.md) | Stored XSS in Adress Book (starbucks.com/account/profil | [Starbucks](../by-program/starbucks.md) | www.starbucks.com | Low | — | 9 |
-| 1756 | [265775](../reports/265775.md) | Password reset token issue | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | Low | — | 9 |
-| 1757 | [385372](../reports/385372.md) | Homograph attack on redirect URL  | [Chaturbate](../by-program/chaturbate.md) | m.chaturbate.com | Low | — | 9 |
-| 1758 | [287758](../reports/287758.md) | Bypass insecure password validation | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 9 |
-| 1759 | [1296597](../reports/1296597.md) | Business logic error | [UPchieve](../by-program/upchieve.md) | hackers.upchieve.org | Low | — | 9 |
-| 1760 | [392761](../reports/392761.md) | vulnerable to Cross-site Request Forgery | Jira | [MariaDB](../by-program/mariadb.md) | mariadb.org | Low | — | 9 |
-| 1761 | [280529](../reports/280529.md) | Incorrect Functionality of Password reset links | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 8 |
-| 1762 | [350432](../reports/350432.md) | Information disclosure | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.9 | — | 8 |
-| 1763 | [214763](../reports/214763.md) | Profile bio at rockstar is accepting control characters | [Rockstar Games](../by-program/rockstargames.md) | socialclub.rockstargames.com | Low | — | 8 |
-| 1764 | [1680818](../reports/1680818.md) | Modifying Sprunk vs eCola crew data | [Rockstar Games](../by-program/rockstargames.md) | socialclub.rockstargames.com | Low | — | 8 |
-| 1765 | [1165285](../reports/1165285.md) | No Rate limit on change password leads to account takeo | [Reddit](../by-program/reddit.md) | old.reddit.com | Low | — | 8 |
-| 1766 | [1609004](../reports/1609004.md) | Rate limit is implemented in Reddit , but its not worki | [Reddit](../by-program/reddit.md) | www.reddit.com | Low | — | 8 |
-| 1767 | [1090982](../reports/1090982.md) | Non-changing "_idnonce" value leads to CSRF on accounts | [Automattic](../by-program/automattic.md) | intensedebate.com | Low | — | 8 |
-| 1768 | [257035](../reports/257035.md) | User enumeration from failed login error message | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | Low | — | 8 |
-| 1769 | [227725](../reports/227725.md) | Missing CSRF Token On Add Coupon To Basket | [Starbucks](../by-program/starbucks.md) | www.teavana.com | Low | — | 8 |
-| 1770 | [311380](../reports/311380.md) | See details of a unpublished word by guessing the word  | [Urban Dictionary](../by-program/urbandictionary.md) | urbandictionary.com | Low | — | 8 |
-| 1771 | [1416701](../reports/1416701.md) | Missing SPF record on trycourier.app | [Courier](../by-program/trycourier.md) | www.trycourier.app | Low | — | 8 |
-| 1772 | [325594](../reports/325594.md) | Leakage badges on disabled user | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 8 |
-| 1773 | [269705](../reports/269705.md) | WordPress < 4.8.2 vulnerable to multiple attacks | [Nextcloud](../by-program/nextcloud.md) | nextcloud.com | Low | — | 7 |
-| 1774 | [897556](../reports/897556.md) | SSH port on store.greenhouse.io is vulnerable to brute  | [Greenhouse.io](../by-program/greenhouse.md) | www.greenhouse.io | Low | — | 7 |
-| 1775 | [262830](../reports/262830.md) | Rate-limit protection get executed in the last stage of | [Unikrn](../by-program/unikrn.md) | unikrn.com | Low | — | 7 |
-| 1776 | [295865](../reports/295865.md) | Open Redirection on auth.rbk.money | [RBKmoney](../by-program/rbkmoney.md) | auth.rbk.money | Low | — | 7 |
-| 1777 | [514421](../reports/514421.md) | smtp service vulnerable to POODLE SSLv3 | [MariaDB](../by-program/mariadb.md) | mariadb.org | Low | — | 7 |
-| 1778 | [296094](../reports/296094.md) | Reflected Cross-site Scripting Vulnerability via JSON E | [Inflection](../by-program/inflection.md) | www.identity.com | Low — CVSS 3.7 | — | 7 |
-| 1779 | [1125143](../reports/1125143.md) | No DMARC record at cordacon.com | [R3](../by-program/r3.md) | cordacon.com | Low | — | 7 |
-| 1780 | [449356](../reports/449356.md) | 65534 times efficient, Brute-force attack for api_key | [RubyGems](../by-program/rubygems.md) | rubygems.org | Low | — | 7 |
-| 1781 | [296706](../reports/296706.md) | Open redirect deceive in hackerone.com via another open | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 7 |
-| 1782 | [347782](../reports/347782.md) | Click Jacking Nextcloud | [Nextcloud](../by-program/nextcloud.md) | portal.nextcloud.com | Low | — | 7 |
-| 1783 | [325827](../reports/325827.md) | Content Spoofing or Text Injection support.mycrypto.com | [MyCrypto](../by-program/mycrypto.md) | support.mycrypto.com | Low | — | 7 |
-| 1784 | [729341](../reports/729341.md) | Double linking cause XSS (but blokeced by CSP in gitlab | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 6 |
-| 1785 | [1570591](../reports/1570591.md) | subdomain takeover at status.hosting24.com | [hostinger ](../by-program/hostinger.md) | www.hosting24.com | Low | — | 6 |
-| 1786 | [1726445](../reports/1726445.md) | A vulnerability classified as critical has been found i | [Nextcloud](../by-program/nextcloud.md) | updates.nextcloud.com | Low | — | 6 |
-| 1787 | [210331](../reports/210331.md) | SSLv3 POODLE Vulnerability | [Rockstar Games](../by-program/rockstargames.md) | *.rockstargames.com | Low | — | 6 |
-| 1788 | [856310](../reports/856310.md) | [www.stripo.email] There is no rate limit for /it/conta | [Stripo Inc](../by-program/stripo.md) | stripo.email | Low | — | 6 |
-| 1789 | [3353057](../reports/3353057.md) | Insecure Direct Object Reference (IDOR) allows creating | [SingleStore](../by-program/singlestore.md) | backend.singlestore.com | Low — CVSS 3.8 | — | 6 |
-| 1790 | [947637](../reports/947637.md) | Ngnix Server version disclosure. | [Dropcontact](../by-program/dropcontact.md) | app.dropcontact.io | Low | — | 6 |
-| 1791 | [1398572](../reports/1398572.md) | Broken Link Takeover from kubernetes.io docs | [Kubernetes](../by-program/kubernetes.md) | kubernetes.io | Low | — | 6 |
-| 1792 | [253975](../reports/253975.md) | insecure redirect in https://www.rockstargames.com | [Rockstar Games](../by-program/rockstargames.md) | www.rockstargames.com | Low | — | 6 |
-| 1793 | [280500](../reports/280500.md) | Tabnabbing via window.opener | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 6 |
-| 1794 | [1591770](../reports/1591770.md) | API Key reported in #1465145 not rotated and thus is st | [Adobe](../by-program/adobe.md) | *.testdrive.workfront.com | Low — CVSS 3.7 | — | 6 |
-| 1795 | [449818](../reports/449818.md) | Is the 504 Gateway Time-out error ok? | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 6 |
-| 1796 | [1408589](../reports/1408589.md) | Wordpress users disclosure from json and xml file | [MTN Group](../by-program/mtn_group.md) | mtn.co.sz | Low — CVSS 3.7 | — | 6 |
-| 1797 | [3353000](../reports/3353000.md) | Privilege Escalation – Access to the Alert Subscribers  | [SingleStore](../by-program/singlestore.md) | backend.singlestore.com | Low — CVSS 3.8 | — | 5 |
-| 1798 | [826005](../reports/826005.md) | Private account causes displayed through API | [Staging.every.org](../by-program/stagingdoteverydotorg.md) | staging.every.org | Low | — | 5 |
-| 1799 | [1003468](../reports/1003468.md) | Send Empty CSRF leads to log out user on [https://hoste | [Weblate](../by-program/weblate.md) | hosted.weblate.org | Low — CVSS 3.1 | — | 5 |
-| 1800 | [479021](../reports/479021.md) | No Rate Limit  On Add new word | [Weblate](../by-program/weblate.md) | hosted.weblate.org | Low | — | 5 |
-| 1801 | [3295500](../reports/3295500.md) | Exceeding the maximum number of spaces allowed by explo | [SingleStore](../by-program/singlestore.md) | backend.singlestore.com | Low | — | 5 |
-| 1802 | [313075](../reports/313075.md) | Information Disclosure which violate program privacy | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 5 |
-| 1803 | [3353035](../reports/3353035.md) | Delete any folder for any user within the organization | [SingleStore](../by-program/singlestore.md) | backend.singlestore.com | Low — CVSS 3.8 | — | 5 |
-| 1804 | [272863](../reports/272863.md) | External links should be served in HTTPS. | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot.com | Low | — | 5 |
-| 1805 | [280509](../reports/280509.md) | User Enumeration | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 5 |
-| 1806 | [390728](../reports/390728.md) | Stored XSS on scan.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | scan.nextcloud.com | Low | — | 4 |
-| 1807 | [280408](../reports/280408.md) | SPF Misconfiguration | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 4 |
-| 1808 | [311449](../reports/311449.md) | Reputation gain split by company can be used to track t | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 4 |
-| 1809 | [1301113](../reports/1301113.md) | CLICKJACKING LEADS TO DEACTIVATE ACCOUNT | [UPchieve](../by-program/upchieve.md) | hackers.upchieve.org | Low | — | 4 |
-| 1810 | [1575401](../reports/1575401.md) | xmlrpc file enabled | [Yelp](../by-program/yelp.md) | restaurants.yelp.com | Low | — | 4 |
-| 1811 | [279914](../reports/279914.md) | Issue with password change in Disabled Account | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 4 |
-| 1812 | [636560](../reports/636560.md) | Project Milestones Disclosed Via Groups When the Victim | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 4 |
-| 1813 | [963164](../reports/963164.md) | Django debug enabled showing information about system,  | [Dropcontact](../by-program/dropcontact.md) | app.dropcontact.io | Low | — | 3 |
-| 1814 | [669365](../reports/669365.md) | Veracode and security audit record are publicly availab | [Nextcloud](../by-program/nextcloud.md) | nextcloud.com | Low | — | 3 |
-| 1815 | [358102](../reports/358102.md) | Disclosed Version of PORTS SSH|HTTP|SSL | [Nextcloud](../by-program/nextcloud.md) | scan.nextcloud.com | Low | — | 3 |
-| 1816 | [413655](../reports/413655.md) | Server side includes in https://lgtm-com.pentesting.sem | [Semmle](../by-program/semmle.md) | lgtm-com.pentesting.semmle.net | Low | — | 3 |
-| 1817 | [928816](../reports/928816.md) | Stored XSS in app.lemlist.com | [lemlist](../by-program/lemlist.md) | app.lemlist.com | Low | — | 3 |
-| 1818 | [307681](../reports/307681.md) | Cross-Domain JavaScript Source File Inclusion  | [RubyGems](../by-program/rubygems.md) | rubygems.org | Low | — | 3 |
-| 1819 | [764517](../reports/764517.md) | SSRF leads to internal port scan | [Stripo Inc](../by-program/stripo.md) | my.stripo.email | Low | — | 3 |
-| 1820 | [3384615](../reports/3384615.md) | Insufficient checks in the file path parameter allow wr | [SingleStore](../by-program/singlestore.md) | backend.singlestore.com | Low | — | 3 |
-| 1821 | [1478930](../reports/1478930.md) | Instance Page DOS  within Organization on TikTok Ads | [TikTok](../by-program/tiktok.md) | ads.tiktok.com | Low | — | 3 |
-| 1822 | [476439](../reports/476439.md) | Password authentication at newsletter.nextcloud.com dis | [Nextcloud](../by-program/nextcloud.md) | newsletter.nextcloud.com | Low | — | 3 |
-| 1823 | [870062](../reports/870062.md) | Referer Referer Header Leakage in language changer may  | [Rockstar Games](../by-program/rockstargames.md) | *.rockstargames.com | Low — CVSS 3.8 | — | 3 |
-| 1824 | [374818](../reports/374818.md) | SSRF in rompager-check | [Hanno's projects](../by-program/hannob.md) | invalid.hboeck.de | Low | — | 3 |
-| 1825 | [771699](../reports/771699.md) | Open redirect on https://account.mackeeper.com | [Clario](../by-program/clario.md) | account.mackeeper.com | Low | — | 3 |
-| 1826 | [463657](../reports/463657.md) | Editable Wiki repo by anyone  | [RATELIMITED](../by-program/ratelimited.md) | theendlessweb.com | Low | — | 3 |
-| 1827 | [473144](../reports/473144.md) | Content spoofing on https://surveyserver.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | surveyserver.nextcloud.com | Low | — | 2 |
-| 1828 | [741439](../reports/741439.md) | Unauthenticated Reflected Cross-Site Scripting on https | [Clario](../by-program/clario.md) | account.mackeeper.com | Low | — | 2 |
-| 1829 | [272387](../reports/272387.md) | aspen | clickjacking | [Aspen](../by-program/aspen.md) | django.aspen.io | Low | — | 2 |
-| 1830 | [259742](../reports/259742.md) | Incorrect error message | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | Low | — | 2 |
-| 1831 | [740999](../reports/740999.md) | Reflected XSS | [Clario](../by-program/clario.md) | account.mackeeper.com | Low | — | 2 |
-| 1832 | [1400405](../reports/1400405.md) | Clickjacking ar https://hackers.upchieve.org/login | [UPchieve](../by-program/upchieve.md) | hackers.upchieve.org | Low | — | 2 |
-| 1833 | [262140](../reports/262140.md) | Password Restriction On Change | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot.com | Low | — | 1 |
-| 1834 | [1165919](../reports/1165919.md) | Content Spoofing | [Reddit](../by-program/reddit.md) | s.reddit.com | Low | — | 1 |
-| 1835 | [260492](../reports/260492.md) | Invalid Email Verification | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | Low | — | 1 |
-| 1836 | [434670](../reports/434670.md) | Text injection at https://media.hboeck.de | [Hanno's projects](../by-program/hannob.md) | invalid.hboeck.de | Low | — | 1 |
-| 1837 | [279717](../reports/279717.md) | Broken link for wrong domain entry may be leveraged for | [Nextcloud](../by-program/nextcloud.md) | nextcloud.com | Low | — | 1 |
-| 1838 | [403909](../reports/403909.md) | Information Exposure Through Directory Listing - https: | [Nextcloud](../by-program/nextcloud.md) | apps.nextcloud.com | Low | — | 1 |
-| 1839 | [762510](../reports/762510.md) | How the Bug stole hacking | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 470 |
-| 1840 | [530974](../reports/530974.md) | Server-Side Request Forgery using Javascript allows to  | [Snapchat](../by-program/snapchat.md) | snappublisher.snapchat.com | None | — | 416 |
-| 1841 | [1220747](../reports/1220747.md) | HackerOne making payments in USDC (Coinbase stable coin | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 201 |
-| 1842 | [1007689](../reports/1007689.md) | 2020-10-09 Credential Stuffing Attack | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 195 |
-| 1843 | [770349](../reports/770349.md) | Reflected XSS in twitterflightschool.com | [X / xAI](../by-program/x.md) | twitterflightschool.com | None | — | 140 |
-| 1844 | [271506](../reports/271506.md) | Banned researcher gets email updates on a private progr | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 139 |
-| 1845 | [2957962](../reports/2957962.md) | Open redirect | [XVIDEOS](../by-program/xvideos.md) | www.xnxx.com | None | — | 138 |
-| 1846 | [2524562](../reports/2524562.md) | IDOR to view order information of users and personal in | [WakaTime](../by-program/wakatime.md) | wakatime.com | None | — | 123 |
-| 1847 | [2285198](../reports/2285198.md) | How the Arch Angel stole Live Events | [HackerOne](../by-program/security.md) | api.hackerone.com | None | — | 97 |
-| 1848 | [2263294](../reports/2263294.md) | Cloud Computer Hackerone Triager can be Accessible for  | [HackerOne](../by-program/security.md) | www.hackerone.com | None | — | 91 |
-| 1849 | [892904](../reports/892904.md) | Ability to link a Google account to another staff accou | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | None | — | 84 |
-| 1850 | [3091909](../reports/3091909.md) | Leaked credentials ( emails and passwords , etc...) | [WakaTime](../by-program/wakatime.md) | wakatime.com | None | — | 76 |
-| 1851 | [170310](../reports/170310.md) | Bypass rate limiting on /users/password (possibly site- | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 75 |
-| 1852 | [3042984](../reports/3042984.md) | #**CSV Injection in shared passwords leads to complete  | [1Password - Enterprise Password Manager](../by-program/1password.md) | http://--your-own-1password-account--.1p | None | — | 75 |
-| 1853 | [3090641](../reports/3090641.md) | Login Information and Credentials Have Been Leaked on w | [WakaTime](../by-program/wakatime.md) | wakatime.com | None | — | 73 |
-| 1854 | [2828499](../reports/2828499.md) | open redirected by host header | [Localize](../by-program/localizejs.md) | localizestaging.com | None | — | 72 |
-| 1855 | [141090](../reports/141090.md) | Parameter Manipulation allowed for viewing of other use | [Starbucks](../by-program/starbucks.md) | www.teavana.com | None | — | 70 |
-| 1856 | [2676025](../reports/2676025.md) | Login email verification bypass via `/oauth/token`. | [GitLab](../by-program/gitlab.md) | gitlab.com | None | — | 66 |
-| 1857 | [3098717](../reports/3098717.md) | user api key leaked | [WakaTime](../by-program/wakatime.md) | wakatime.com | None | — | 64 |
-| 1858 | [2370955](../reports/2370955.md) | LLM03: Training Data Poisoning via ASCII decoding  | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 62 |
-| 1859 | [2461737](../reports/2461737.md) | Incorrect logic when buy one more license which may lea | [PortSwigger Web Security](../by-program/portswigger.md) | portswigger.net | None | — | 60 |
-| 1860 | [1028332](../reports/1028332.md) | Stored XSS on https://events.hackerone.com | [HackerOne](../by-program/security.md) | events.hackerone.com | None | — | 58 |
-| 1861 | [334139](../reports/334139.md) | CSRF Trial 14 days express subscription | [Instacart](../by-program/instacart.md) | www.instacart.com | None | — | 58 |
-| 1862 | [738899](../reports/738899.md) | Able to change password by entering wrong old password | [Stripo Inc](../by-program/stripo.md) | stripo.email | None | — | 56 |
-| 1863 | [1028345](../reports/1028345.md) | Open Redirect on http://events.hackerone.com/redirect?u | [HackerOne](../by-program/security.md) | events.hackerone.com | None | — | 54 |
-| 1864 | [320376](../reports/320376.md) | Open Redirection in index.php page | [HackerOne](../by-program/security.md) | www.hackerone.com | None | — | 53 |
-| 1865 | [2696294](../reports/2696294.md) | Private Emails of Moz Workers Leaked in Public file | [Mozilla](../by-program/mozilla.md) | community-tc.services.mozilla.com | None | — | 52 |
-| 1866 | [3097900](../reports/3097900.md) | `/names.nsf` and all `/names*` files route to public AP | [RubyGems](../by-program/rubygems.md) | rubygems.org | None | — | 46 |
-| 1867 | [2979176](../reports/2979176.md) | Unauthenticated API Access Exposing Premium Content and | [XVIDEOS](../by-program/xvideos.md) | www.xvideos.red | None | — | 46 |
-| 1868 | [2682392](../reports/2682392.md) | Race Condition on Create API Function | [Enjin](../by-program/enjin.md) | platform.enjin.io | None | — | 44 |
-| 1869 | [2134874](../reports/2134874.md) | Hackers two email disclosed on  submission at hackerone | [HackerOne](../by-program/security.md) | www.hackerone.com | None | — | 43 |
-| 1870 | [1831528](../reports/1831528.md) | Rogue collaborators and ambiguous branch names in GitHu | [GitHub](../by-program/github.md) | github.com | None | — | 42 |
-| 1871 | [3581815](../reports/3581815.md) | Open Redirect on lovable.dev via redirect parameter lea | [Lovable VDP](../by-program/lovable-vdp.md) | lovable.dev | None | — | 42 |
-| 1872 | [2299069](../reports/2299069.md) | xmlrpc.php &wp-cron.php files are enabled, and will use | [Nextcloud](../by-program/nextcloud.md) | nextcloud.com | None | — | 41 |
-| 1873 | [3542546](../reports/3542546.md) | Server-side ReDoS via user-controlled regex in OIDC Acc | [RubyGems](../by-program/rubygems.md) | rubygems.org | None | — | 40 |
-| 1874 | [2380084](../reports/2380084.md) | paypal client_id And stripe api key indexed on web arch | [Mozilla](../by-program/mozilla.md) | accounts.firefox.com | None | — | 40 |
-| 1875 | [301862](../reports/301862.md) | Path traversal leading to limited CSRF on GET requests  | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 39 |
-| 1876 | [347937](../reports/347937.md) | Team object in GraphQL that have a published external p | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 39 |
-| 1877 | [692352](../reports/692352.md) | XSS on https://app.mopub.com/reports/custom/add/ [new-d | [X / xAI](../by-program/x.md) | mopub.com | None | — | 38 |
-| 1878 | [141120](../reports/141120.md) | Parameter Manipulation allowed for editing the shipping | [Starbucks](../by-program/starbucks.md) | www.teavana.com | None | — | 37 |
-| 1879 | [2668302](../reports/2668302.md) | Removed Guest role user who dosent have access to priva | [GitLab](../by-program/gitlab.md) | gitlab.com | None | — | 37 |
-| 1880 | [2979148](../reports/2979148.md) | Error Page Content Spoofing or Text Injection | [XVIDEOS](../by-program/xvideos.md) | www.xvideos.com | None | — | 37 |
-| 1881 | [140616](../reports/140616.md) | www.starbucks.co.uk Reflected XSS via utm_source parame | [Starbucks](../by-program/starbucks.md) | www.starbucks.co.uk | None | — | 36 |
-| 1882 | [594080](../reports/594080.md) | Privilege escalation allows to use iframe functionality | [Infogram](../by-program/infogram.md) | infogram.com | None | — | 35 |
-| 1883 | [2921905](../reports/2921905.md) | WAF bypass and java script incomplete handling of Unico | [Doppler](../by-program/doppler.md) | share.doppler.com | None | — | 33 |
-| 1884 | [915940](../reports/915940.md) | Script Editor preview token still working with uninstal | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | None | — | 33 |
-| 1885 | [2979153](../reports/2979153.md) |  API Data Leakage Vulnerability Report - `xvcams.com` | [XVIDEOS](../by-program/xvideos.md) | www.xvideos.com | None | — | 33 |
-| 1886 | [1028396](../reports/1028396.md) | Reflected XSS and possible SSRF/XXE on https://events.h | [HackerOne](../by-program/security.md) | events.hackerone.com | None | — | 32 |
-| 1887 | [287245](../reports/287245.md) | Blind SSRF in "Integrations" by abusing a bug in Ruby's | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 30 |
-| 1888 | [2001913](../reports/2001913.md) | Create miscellaneous support ticket on anyone's account | [HackerOne](../by-program/security.md) | support.hackerone.com | None | — | 29 |
-| 1889 | [2543342](../reports/2543342.md) | Bypassing Two-Factor Authentication via Account Deactiv | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 27 |
-| 1890 | [1181253](../reports/1181253.md) | e-mail verification bypass through interception & modif | [U.S. General Services Administration](../by-program/gsa_vdp.md) | tams.preprod.gsa.gov | None | — | 25 |
-| 1891 | [1102546](../reports/1102546.md) | Is the Google Bucket Meant To Be Publicly Listable? htt | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | None | — | 25 |
-| 1892 | [884159](../reports/884159.md) | Ability to generate shipping labels in another store or | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | None | — | 25 |
-| 1893 | [350964](../reports/350964.md) | User object in GraphQL exposes number of trial reports  | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 24 |
-| 1894 | [2463069](../reports/2463069.md) | 2fa can't be activated on app.pullrequest.com | [HackerOne](../by-program/security.md) | app.pullrequest.com | None | — | 24 |
-| 1895 | [1835133](../reports/1835133.md) | S3 Bucket Takeover  "brave-browser-rpm-staging-release- | [Brave Software](../by-program/brave.md) | brave.com | None | — | 24 |
-| 1896 | [1107536](../reports/1107536.md) | Blind Based SQL Injection in 3d.sc.money | [CS Money](../by-program/cs_money.md) | 3d.cs.money | None | — | 23 |
-| 1897 | [284807](../reports/284807.md) | i am The bug | [Gratipay](../by-program/gratipay.md) | https://gratipay.com | None | — | 23 |
-| 1898 | [1027873](../reports/1027873.md) | Ability to potentially hit internal NGINX locations on  | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | None | — | 22 |
-| 1899 | [291531](../reports/291531.md) | Introspection query leaks sensitive graphql system info | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 22 |
-| 1900 | [985367](../reports/985367.md) | weak password poilicy in signup password leak to accoun | [Stripo Inc](../by-program/stripo.md) | my.stripo.email | None | — | 22 |
-| 1901 | [708917](../reports/708917.md) | Rate Limit Misconfiguration on tumblr login . | [Automattic](../by-program/automattic.md) | www.tumblr.com | None | — | 21 |
-| 1902 | [2528919](../reports/2528919.md) | 2FA requirement bypass when claiming bounty  | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 21 |
-| 1903 | [2068830](../reports/2068830.md) | HackerOne Support System Doesn't Require Any Authentica | [HackerOne](../by-program/security.md) | support.hackerone.com | None | — | 20 |
-| 1904 | [1691888](../reports/1691888.md) | Firebase credentials leak | [MTN Group](../by-program/mtn_group.md) | mtnonline.com | None | — | 20 |
-| 1905 | [173043](../reports/173043.md) | Bypassing "You've requested your data the maximum numbe | [Snapchat](../by-program/snapchat.md) | accounts.snapchat.com | None | — | 20 |
-| 1906 | [269467](../reports/269467.md) | Banner Grabbing - Apache Server Version Disclousure | [ownCloud](../by-program/owncloud.md) | marketplace.owncloud.com | None | — | 19 |
-| 1907 | [386596](../reports/386596.md) | Email Not Completely Deleted after Deleting an account | [Semmle](../by-program/semmle.md) | lgtm-com.pentesting.semmle.net | None | — | 18 |
-| 1908 | [357576](../reports/357576.md) | Exposing hackerone users personally identifiable inform | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 18 |
-| 1909 | [2109382](../reports/2109382.md) | Support Tickets can be created on behalf of other users | [HackerOne](../by-program/security.md) | support.hackerone.com | None | — | 18 |
-| 1910 | [762883](../reports/762883.md) | Free food bug done by burp suite | [Eternal](../by-program/eternal.md) | www.zomatobook.com | None | — | 17 |
-| 1911 | [283361](../reports/283361.md) | Private partial disclosure of h1 infrastructure  | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 17 |
-| 1912 | [410245](../reports/410245.md) | Missing Certificate Authority Authorization rule | [HackerOne](../by-program/security.md) | https://ctf.hacker101.com | None | — | 17 |
-| 1913 | [260938](../reports/260938.md) | Homograph IDNs displayed in Description | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 17 |
-| 1914 | [854299](../reports/854299.md) | Self XSS in Timeline  | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | None | — | 16 |
-| 1915 | [316290](../reports/316290.md) | Prepopulation of email address and name leaks informati | [Coinbase](../by-program/coinbase.md) | *.coinbase.com | None | — | 16 |
-| 1916 | [315865](../reports/315865.md) | Stored CSS Injection | [Coinbase](../by-program/coinbase.md) | *.coinbase.com | None | — | 15 |
-| 1917 | [503300](../reports/503300.md) | █████████ on CRM server without authorization | [Unikrn](../by-program/unikrn.md) | crm.unikrn.com | None | — | 15 |
-| 1918 | [281950](../reports/281950.md) | Internal Ports Scanning via Blind SSRF | [Infogram](../by-program/infogram.md) | infogram.com | None | — | 14 |
-| 1919 | [1305766](../reports/1305766.md) | There is no rate limit for SME REGISTRATION PORTAL | [MTN Group](../by-program/mtn_group.md) | mtngbissau.com | None | — | 14 |
-| 1920 | [157750](../reports/157750.md) | Missing rate limit on critical user actions e.g. reset  | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 14 |
-| 1921 | [1630073](../reports/1630073.md) | Host Header Injection Attack - www.xnxx.com | [XVIDEOS](../by-program/xvideos.md) | www.xnxx.com | None | — | 14 |
-| 1922 | [622937](../reports/622937.md) | Private ip leaking through response | [Urban Company](../by-program/urbancompany.md) | www.urbancompany.com | None | — | 14 |
-| 1923 | [776699](../reports/776699.md) | [h1-415 2020] Solution for h1415's CTF challenge | [h1-ctf](../by-program/h1-ctf.md) | h1-415.h1ctf.com | None | — | 13 |
-| 1924 | [264101](../reports/264101.md) | design issue exists on login page  | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 13 |
-| 1925 | [260604](../reports/260604.md) | Update any profile | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 13 |
-| 1926 | [260278](../reports/260278.md) | TabNabbing issue (due to taget=_blank) | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 13 |
-| 1927 | [263743](../reports/263743.md) | I cant login to my account | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 12 |
-| 1928 | [253926](../reports/253926.md) | DKIM records not present, Email Hijacking is possible.. | [Weblate](../by-program/weblate.md) | hosted.weblate.org | None | — | 12 |
-| 1929 | [1395068](../reports/1395068.md) | The response shows the nginx version | [Judge.me ](../by-program/judgeme.md) | cache.judge.me | None | — | 12 |
-| 1930 | [276427](../reports/276427.md) | Legal Robot | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot-test.com | None | — | 12 |
-| 1931 | [1723445](../reports/1723445.md) | No rate limiting for Remove Account lead to huge Mass m | [Weblate](../by-program/weblate.md) | hosted.weblate.org | None | — | 12 |
-| 1932 | [504507](../reports/504507.md) | Domain does not Match SSL Certificate | [Urban Dictionary](../by-program/urbandictionary.md) | urbandictionary.net | None | — | 11 |
-| 1933 | [277078](../reports/277078.md) | Goodhire Open Redirect | [Inflection](../by-program/inflection.md) | app.goodhire.com | None | — | 11 |
-| 1934 | [411920](../reports/411920.md) | Leaking Username and Password in the URLs via Virustota | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | None | — | 11 |
-| 1935 | [965510](../reports/965510.md) | Password protection can be removed for newly created de | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | None | — | 11 |
-| 1936 | [284811](../reports/284811.md) | Reflected SQL Execution | [Gratipay](../by-program/gratipay.md) | https://gratipay.com | None | — | 11 |
-| 1937 | [402671](../reports/402671.md) | HTTPS is not validating TLS mac codes | [X / xAI](../by-program/x.md) | twitterflightschool.com | None | — | 11 |
-| 1938 | [1058135](../reports/1058135.md) | Developer Mistake | [MTN Group](../by-program/mtn_group.md) | mtn.cm | None | — | 11 |
-| 1939 | [1337425](../reports/1337425.md) | No Rate Limit On Regenerate Password on Portswigger | [PortSwigger Web Security](../by-program/portswigger.md) | portswigger.net | None | — | 11 |
-| 1940 | [265931](../reports/265931.md) | Logic issue in email change process | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 11 |
-| 1941 | [1209098](../reports/1209098.md) |  XSS | [Reddit](../by-program/reddit.md) | www.reddit.com | None | — | 10 |
-| 1942 | [1039805](../reports/1039805.md) | Clickjacking URLS | [Nextcloud](../by-program/nextcloud.md) | pushfeed.nextcloud.com | None | — | 10 |
-| 1943 | [1504294](../reports/1504294.md) | Impersonation of tiktok account via Broken Link in TikT | [TikTok](../by-program/tiktok.md) | *.tiktok.com | None | — | 10 |
-| 1944 | [268629](../reports/268629.md) | Failed OutLink on Terms of Service | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot-test.com | None | — | 10 |
-| 1945 | [1815463](../reports/1815463.md) | oauth misconfigration lead to account takeover | [Reddit](../by-program/reddit.md) | accounts.reddit.com | None | — | 10 |
-| 1946 | [260632](../reports/260632.md) | Improper validation of parameters while creating issues | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 10 |
-| 1947 | [173251](../reports/173251.md) | Password Reset emails missing TLS leads account takeove | [RubyGems](../by-program/rubygems.md) | rubygems.org | None | — | 9 |
-| 1948 | [283847](../reports/283847.md) | GraphQL sessions aren't immediately invalidated when us | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 9 |
-| 1949 | [255679](../reports/255679.md) | Change password logic inversion | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 9 |
-| 1950 | [263913](../reports/263913.md) | Content injection via URL parameter. | [GSA Bounty](../by-program/gsa_bbp.md) | labs.data.gov | None | — | 9 |
-| 1951 | [860197](../reports/860197.md) | A staff without export customers permissions can still  | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | None | — | 9 |
-| 1952 | [1995595](../reports/1995595.md) | Response Manipulation to enable Account recovery key wi | [Mozilla](../by-program/mozilla.md) | accounts.firefox.com | None | — | 9 |
-| 1953 | [54641](../reports/54641.md) | Captcha Bypass in Snapchat's Geofilter Submission Proce | [Snapchat](../by-program/snapchat.md) | geofilters.snapchat.com | None | — | 9 |
-| 1954 | [1408745](../reports/1408745.md) | CSRF on delete friend requests - Not protected with CSR | [XVIDEOS](../by-program/xvideos.md) | www.xvideos.com | None | — | 9 |
-| 1955 | [260468](../reports/260468.md) | first name and last name restrictions bypass | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 9 |
-| 1956 | [460514](../reports/460514.md) | Server Header disclose The Os and Web server Version  | [RATELIMITED](../by-program/ratelimited.md) | theendlessweb.com | None | — | 9 |
-| 1957 | [1017576](../reports/1017576.md) | Order lookup features of Shopify Chat Application leads | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | None | — | 8 |
-| 1958 | [292636](../reports/292636.md) | session_id is not being validated at email invitation e | [Unikrn](../by-program/unikrn.md) | unikrn.com | None | — | 8 |
-| 1959 | [1238749](../reports/1238749.md) | No rate Limit on Add new Translation Project  | [Weblate](../by-program/weblate.md) | hosted.weblate.org | None | — | 8 |
-| 1960 | [874574](../reports/874574.md) | Partner's non-verified business email change reflected  | [Shopify](../by-program/shopify.md) | partners.shopify.com | None | — | 8 |
-| 1961 | [257376](../reports/257376.md) | Missing Restriction On String Size | [Weblate](../by-program/weblate.md) | hosted.weblate.org | None | — | 8 |
-| 1962 | [269288](../reports/269288.md) | External links to be in HTTP | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot.com | None | — | 8 |
-| 1963 | [283309](../reports/283309.md) | Private Program all members disclosed  | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 8 |
-| 1964 | [277377](../reports/277377.md) | Amount Manipulation Buy Unlimited Credits in just $1.00 | [Inflection](../by-program/inflection.md) | app.goodhire.com | None | — | 7 |
-| 1965 | [255474](../reports/255474.md) | Profile fields validation bypass | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 7 |
-| 1966 | [783852](../reports/783852.md) | Nginx version is disclosed in HTTP response | [Localize](../by-program/localizejs.md) | localizestaging.com | None | — | 7 |
-| 1967 | [1607645](../reports/1607645.md) | Add me email address Authentication bypass | [LinkedIn](../by-program/linkedin.md) | www.linkedin.com | None | — | 7 |
-| 1968 | [507012](../reports/507012.md) | bypass Claudflare access crm.mautic.com | [Unikrn](../by-program/unikrn.md) | crm.unikrn.com | None | — | 7 |
-| 1969 | [280914](../reports/280914.md) | Business Logic Flaw allowing Privilege Escalation | [Inflection](../by-program/inflection.md) | app.goodhire.com | None | — | 7 |
-| 1970 | [765227](../reports/765227.md) | Potential Open-Redirection | [Ian Dunn](../by-program/iandunn-projects.md) | iandunn.name | None | — | 7 |
-| 1971 | [378209](../reports/378209.md) | Ajouter le même utilisateur que celui déjà inscrit dans | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 7 |
-| 1972 | [263736](../reports/263736.md) | Email Spoofing - SPF record set to Neutral | [GSA Bounty](../by-program/gsa_bbp.md) | federalist-proxy.app.cloud.gov | None | — | 7 |
-| 1973 | [343928](../reports/343928.md) | Session Cookie Without Secure Flag  | [Ed](../by-program/ed.md) | git.edoverflow.com | None | — | 7 |
-| 1974 | [271253](../reports/271253.md) | NextCloud is also Accepting OCTET-STREAM Type of Docume | [Nextcloud](../by-program/nextcloud.md) | auth.nextcloud.com | None | — | 7 |
-| 1975 | [265930](../reports/265930.md) | No notification of change email feature | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 6 |
-| 1976 | [1131887](../reports/1131887.md) | CSV injection in the credentials export | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 6 |
-| 1977 | [260299](../reports/260299.md) | observer.com URL should HTTPS | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot-test.com | None | — | 6 |
-| 1978 | [264934](../reports/264934.md) |  Application allowing old password to be set as new pas | [Weblate](../by-program/weblate.md) | hosted.weblate.org | None | — | 6 |
-| 1979 | [283825](../reports/283825.md) | Multiple xss on infogram templates | [Infogram](../by-program/infogram.md) | infogram.com | None | — | 6 |
-| 1980 | [268981](../reports/268981.md) | Missing homograph filter character | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 5 |
-| 1981 | [259415](../reports/259415.md) | Lengthy manual entry of 2FA secret | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 5 |
-| 1982 | [855304](../reports/855304.md) | No set limit to try to login in "https://auth.nextcloud | [Nextcloud](../by-program/nextcloud.md) | auth.nextcloud.com | None | — | 5 |
-| 1983 | [282535](../reports/282535.md) | XSS on Report Classic | [Infogram](../by-program/infogram.md) | infogram.com | None | — | 5 |
-| 1984 | [264405](../reports/264405.md) | Header Injection In app.legalrobot.com | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 5 |
-| 1985 | [269449](../reports/269449.md) | Banner Grabbing - Apache Server Version Disclousure | [Nextcloud](../by-program/nextcloud.md) | customerupdates.nextcloud.com | None | — | 5 |
-| 1986 | [474963](../reports/474963.md) | Missing Two Factor Authentication in /admin/login | [CFP Time](../by-program/cfptime.md) | www.cfptime.org | None | — | 5 |
-| 1987 | [282363](../reports/282363.md) | Outdated jQuery Version | [Infogram](../by-program/infogram.md) | infogram.com | None | — | 5 |
-| 1988 | [259416](../reports/259416.md) | Incorrect email content when disabling 2FA | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 5 |
-| 1989 | [1252155](../reports/1252155.md) | HTML INJECTION  (STORED) | [Judge.me ](../by-program/judgeme.md) | judge.me | None | — | 5 |
-| 1990 | [775531](../reports/775531.md) | No valid SPF record found | [Kubernetes](../by-program/kubernetes.md) | prow.k8s.io | None | — | 5 |
-| 1991 | [255100](../reports/255100.md) | No error or notification on Reset password page | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 5 |
-| 1992 | [371550](../reports/371550.md) | xmlrpc.php FILE IS enable on Main website | [Ian Dunn](../by-program/iandunn-projects.md) | iandunn.name | None | — | 5 |
-| 1993 | [260648](../reports/260648.md) | CSP script-src includes "unsafe-inline" | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 5 |
-| 1994 | [260941](../reports/260941.md) | UX: JS error on Password Safety link | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 5 |
-| 1995 | [265987](../reports/265987.md) | Add another email address without verification | [Weblate](../by-program/weblate.md) | hosted.weblate.org | None | — | 5 |
-| 1996 | [259400](../reports/259400.md) | Issues with Forgot password Error Handling  | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 5 |
-| 1997 | [277354](../reports/277354.md) | HTTP Host Header Injection on app.goodhire.com | [Inflection](../by-program/inflection.md) | app.goodhire.com | None | — | 5 |
-| 1998 | [3628961](../reports/3628961.md) | admin.shopify.com: Shopify Flow continues sending inter | [Shopify](../by-program/shopify.md) | admin.shopify.com | None | — | 5 |
-| 1999 | [343095](../reports/343095.md) | Session Cookie Without Secure Flag, | [Ed](../by-program/ed.md) | git.edoverflow.com | None | — | 5 |
-| 2000 | [1167029](../reports/1167029.md) | Broken Authendication And Session Management | [Reddit](../by-program/reddit.md) | www.reddit.com | None | — | 5 |
-| 2001 | [260491](../reports/260491.md) | 2FA manual entry uses wrong encoding | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 5 |
-| 2002 | [937921](../reports/937921.md) | app.lemlist.com : Admin Panel Access | [lemlist](../by-program/lemlist.md) | app.lemlist.com | None | — | 5 |
-| 2003 | [278718](../reports/278718.md) | Improper validation of unicode characters  | [Weblate](../by-program/weblate.md) | hosted.weblate.org | None | — | 4 |
-| 2004 | [832593](../reports/832593.md) | Clickjacking | [Kubernetes](../by-program/kubernetes.md) | kubernetes.io | None | — | 4 |
-| 2005 | [348801](../reports/348801.md) | Banner Grabbing - Apache Server Version Disclosure | [Nextcloud](../by-program/nextcloud.md) | customerupdates.nextcloud.com | None | — | 4 |
-| 2006 | [415350](../reports/415350.md) | Missing CSRF Protection in  /stats EndPoint. | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | None | — | 4 |
-| 2007 | [276244](../reports/276244.md) | Broken links for stale domains may be leveraged for Phi | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot.com | None | — | 4 |
-| 2008 | [262109](../reports/262109.md) | UX: JS error on Password Safety link | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 4 |
-| 2009 | [267356](../reports/267356.md) | Autocomplete feature  | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 4 |
-| 2010 | [260662](../reports/260662.md) | No length limit in invite_code can cause server degrada | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 4 |
-| 2011 | [1036995](../reports/1036995.md) | HTML injection in review content | [Judge.me ](../by-program/judgeme.md) | judge.me | None | — | 4 |
-| 2012 | [300301](../reports/300301.md) | [unikrn.com] Profile updated with error":true,"success" | [Unikrn](../by-program/unikrn.md) | unikrn.com | None | — | 4 |
-| 2013 | [277192](../reports/277192.md) | Host Header Injection and Cache Poisoning | [Inflection](../by-program/inflection.md) | app.goodhire.com | None | — | 4 |
-| 2014 | [265749](../reports/265749.md) | Bypass email verification when register new account | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 4 |
-| 2015 | [409973](../reports/409973.md) | Some store settings/data are accessible to "No Access"  | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | None | — | 4 |
-| 2016 | [255481](../reports/255481.md) | app.legalrobot.com opens FireFox but not in FireFox ESR | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 4 |
-| 2017 | [1065830](../reports/1065830.md) | Error Page Text Injection (no compromise) | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | hack.whocoronavirus.org | None | — | 4 |
-| 2018 | [281274](../reports/281274.md) | Non-HTTPS link on blog | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot-test.com | None | — | 3 |
-| 2019 | [288846](../reports/288846.md) | Bruteforcing Coupons | [Infogram](../by-program/infogram.md) | infogram.com | None | — | 3 |
-| 2020 | [919112](../reports/919112.md) | Authenticity token doesnt expire after single use leadi | [Omise](../by-program/omise.md) | dashboard.omise.co | None | — | 3 |
-| 2021 | [801973](../reports/801973.md) | Email notification about login email changed is not rec | [GitLab](../by-program/gitlab.md) | gitlab.com | None | — | 3 |
-| 2022 | [326697](../reports/326697.md) | HTML Injection on https://www.mycrypto.com/ | [MyCrypto](../by-program/mycrypto.md) | www.mycrypto.com | None | — | 3 |
-| 2023 | [273647](../reports/273647.md) | Adding Used Primary Email Address to attacker account a | [Gratipay](../by-program/gratipay.md) | https://gratipay.com | None | — | 3 |
-| 2024 | [294568](../reports/294568.md) | Information Disclosure - Composer.lock | [RBKmoney](../by-program/rbkmoney.md) | rbkmoney.com | None | — | 3 |
-| 2025 | [369979](../reports/369979.md) | Missing X-Content-Type-Options  | [Nextcloud](../by-program/nextcloud.md) | download.nextcloud.com | None | — | 3 |
-| 2026 | [918243](../reports/918243.md) | Fake email from <any_name>@kubernetes.io to any other e | [Kubernetes](../by-program/kubernetes.md) | kubernetes.io | None | — | 3 |
-| 2027 | [1004847](../reports/1004847.md) | SSRF Possible through /wordpress/xmlrpc.php | [Ian Dunn](../by-program/iandunn-projects.md) | iandunn.name | None | — | 3 |
-| 2028 | [561805](../reports/561805.md) | W3 Total Cache plugin multiple vulnerabilities | [Nextcloud](../by-program/nextcloud.md) | nextcloud.com | None | — | 3 |
-| 2029 | [263728](../reports/263728.md) | Password Complexity  | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 3 |
-| 2030 | [279945](../reports/279945.md) | Improper validation of unicode characters#2 | [Weblate](../by-program/weblate.md) | hosted.weblate.org | None | — | 3 |
-| 2031 | [283482](../reports/283482.md) | Login Cross Site Request Forgery  | [Infogram](../by-program/infogram.md) | infogram.com | None | — | 3 |
-| 2032 | [262088](../reports/262088.md) | Show hide privacy giving receiving on my website  | [Gratipay](../by-program/gratipay.md) | https://gratipay.com | None | — | 3 |
-| 2033 | [281449](../reports/281449.md) | Limited Account Takeover via Backup codes  | [Inflection](../by-program/inflection.md) | www.identity.com | None | — | 3 |
-| 2034 | [374053](../reports/374053.md) | Accessing to download.nextcloud.com from original ip ad | [Nextcloud](../by-program/nextcloud.md) | download.nextcloud.com | None | — | 2 |
-| 2035 | [275293](../reports/275293.md) | Pending member invitations are not revoked on program n | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 2 |
-| 2036 | [1182824](../reports/1182824.md) | Vulnerability Name: URL Redirection / Unvalidate Open R | [Reddit](../by-program/reddit.md) | www.reddit.com | None | — | 2 |
-| 2037 | [299034](../reports/299034.md) | Text manipulation in https://checkout.rbk.money | [RBKmoney](../by-program/rbkmoney.md) | checkout.rbk.money | None | — | 2 |
-| 2038 | [263733](../reports/263733.md) | Email Spoofing - SPF record set to Neutral | [GSA Bounty](../by-program/gsa_bbp.md) | federalist.18f.gov | None | — | 2 |
-| 2039 | [263846](../reports/263846.md) | Registration Allows Disposable Email Addresses | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 2 |
-| 2040 | [256649](../reports/256649.md) | Mixed Content over HTTPS | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot.com | None | — | 2 |
-| 2041 | [1696814](../reports/1696814.md) | No Restriction on password | [GitLab](../by-program/gitlab.md) | gitlab.com | None | — | 2 |
-| 2042 | [267867](../reports/267867.md) | Logout CSRF | [delight.im](../by-program/delight_im.md) | www.moviecontentfilter.com | None | — | 2 |
-| 2043 | [272982](../reports/272982.md) | Information leakage on django.aspen.io | [Aspen](../by-program/aspen.md) | django.aspen.io | None | — | 2 |
-| 2044 | [283951](../reports/283951.md) | Bypassing X-frame options  | [Gratipay](../by-program/gratipay.md) | https://gratipay.com | None | — | 2 |
-| 2045 | [1243009](../reports/1243009.md) | No Password Length Restriction leads to Denial of Servi | [Reddit](../by-program/reddit.md) | www.reddit.com | None | — | 2 |
-| 2046 | [255125](../reports/255125.md) | Null Byte Injection in all fields of Profile | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 2 |
-| 2047 | [274324](../reports/274324.md) | cross site web socket hijacking | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 2 |
-| 2048 | [769716](../reports/769716.md) | xmlrpc.php FILE IS enable it can be used for conducting | [Ian Dunn](../by-program/iandunn-projects.md) | iandunn.name | None | — | 1 |
-| 2049 | [775123](../reports/775123.md) | Sensitive Information disclosure Through Config File | [Kubernetes](../by-program/kubernetes.md) | prow.k8s.io | None | — | 1 |
-| 2050 | [277431](../reports/277431.md) | XSS on app.legalrobot.com | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 1 |
-| 2051 | [774872](../reports/774872.md) | Configuartion [Sensitive] Information Disclosure | [Kubernetes](../by-program/kubernetes.md) | prow.k8s.io | None | — | 1 |
-| 2052 | [279070](../reports/279070.md) | Chat exposed using cookie | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 1 |
-| 2053 | [864696](../reports/864696.md) | There is any issue No valid SPF Records | [Kubernetes](../by-program/kubernetes.md) | kubernetes.io | None | — | 1 |
-| 2054 | [282843](../reports/282843.md) | UnResolved ChangeSet are Visible to Public That also Ca | [WordPress](../by-program/wordpress.md) | irclogs.wordpress.org | None | — | 1 |
-| 2055 | [260689](../reports/260689.md) | Weak Cryptography for Passwords | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 1 |
-| 2056 | [908880](../reports/908880.md) | Private IP addresses Disclosure | [Kubernetes](../by-program/kubernetes.md) | kubernetes.io | None | — | 1 |
-| 2057 | [260316](../reports/260316.md) | Profile fields validation mismatch | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 1 |
-| 2058 | [263196](../reports/263196.md) | Name can't be numbers or email | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot.com | None | — | 1 |
-| 2059 | [267212](../reports/267212.md) | 400 Bad Request [Use a third-party provider to sign in  | [Gratipay](../by-program/gratipay.md) | https://gratipay.com | None | — | 1 |
-| 2060 | [257331](../reports/257331.md) | Sub domain take over in gratipay.com | [Gratipay](../by-program/gratipay.md) | https://gratipay.com | None | — | 1 |
-| 2061 | [257384](../reports/257384.md) | No rate limit or captcha to identify humans | [Weblate](../by-program/weblate.md) | hosted.weblate.org | None | — | 1 |
-| 2062 | [662155](../reports/662155.md) | Clickjacking on https://download.nextcloud.com/ | [Nextcloud](../by-program/nextcloud.md) | download.nextcloud.com | None | — | 1 |
-| 2063 | [1166770](../reports/1166770.md) | Content Spoofing/Text Injection at https://gateway-prod | [Reddit](../by-program/reddit.md) | gateway-production.dubsmash.com | None | — | 1 |
-| 2064 | [283502](../reports/283502.md) | XST(Cross Site Tracing) | [Inflection](../by-program/inflection.md) | checks.identity.com | None | — | 1 |
-| 2065 | [658011](../reports/658011.md) | Clickjacking on https://download.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | download.nextcloud.com | None | — | 1 |
-| 2066 | [388215](../reports/388215.md) | Internal loop going to infinite for cb.setTimeout(func, | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | None | — | 1 |
-| 2067 | [277213](../reports/277213.md) | Two accounts can be made with same password | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot.com | None | — | 1 |
-| 2068 | [777279](../reports/777279.md) | xmlrpc.php FILE IS enable it will used for Bruteforce a | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | blog.makerdao.com | None | — | 1 |
-| 2069 | [957557](../reports/957557.md) | Failure to Invalid Session after Password Change | [Rockset](../by-program/rockset.md) | console.rockset.com | None | — | 0 |
-| 2070 | [254869](../reports/254869.md) | Device confirmation Flaw | [Coinbase](../by-program/coinbase.md) | *.coinbase.com | None | — | 0 |
-| 2071 | [260838](../reports/260838.md) | Special characters are not filtered out on profile fiel | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 0 |
-| 2072 | [777274](../reports/777274.md) | DoS of https://blog.makerdao.com/ via CVE-2018-6389 | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | blog.makerdao.com | None | — | 0 |
-| 2073 | [290889](../reports/290889.md) | Session does't get expired after changing the password  | [Aspen](../by-program/aspen.md) | aspen.io | None | — | 0 |
+| 1513 | [1976449](../reports/1976449.md) | DOS via cache poisoning on [developer.mozilla.org] | [Mozilla](../by-program/mozilla.md) | developer.mozilla.org | Low | — | 55 |
+| 1514 | [411723](../reports/411723.md) | Open redirection at https://chaturbate.com/auth/login/ | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 55 |
+| 1515 | [3114132](../reports/3114132.md) | Broken Access Control Exposes Email Verification Status | [WakaTime](../by-program/wakatime.md) | wakatime.com | Low | — | 55 |
+| 1516 | [1728087](../reports/1728087.md) | User Details Can Be Disclosed Even If The Account IS In | [LinkedIn](../by-program/linkedin.md) | www.linkedin.com | Low — CVSS 3.7 | — | 55 |
+| 1517 | [835200](../reports/835200.md) | [www.drive2.ru] There is no rate limit for comments end | [DRIVE.NET, Inc.](../by-program/drive_net_inc.md) | www.drive2.ru | Low | — | 54 |
+| 1518 | [2018615](../reports/2018615.md) | HTML injection on newsroom.snap.com/* via search?q=1 | [Snapchat](../by-program/snapchat.md) | web.snapchat.com | Low | — | 54 |
+| 1519 | [1467044](../reports/1467044.md) | Blind SSRF on platform.dash.cloudflare.com Due to Sentr | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | *.cloudflare.com | Low | — | 53 |
+| 1520 | [2215418](../reports/2215418.md) | Html injection in event Description  | [LinkedIn](../by-program/linkedin.md) | www.linkedin.com | Low — CVSS 3.1 | — | 53 |
+| 1521 | [1073565](../reports/1073565.md) | Open Redirect on https://www.twitterflightschool.com/wi | [X / xAI](../by-program/x.md) | twitterflightschool.com | Low | — | 53 |
+| 1522 | [488985](../reports/488985.md) | Race condition in claiming program credentials  | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.4 | — | 52 |
+| 1523 | [1536899](../reports/1536899.md) | HTML Injection in E-mail | [Acronis](../by-program/acronis.md) | account.acronis.com | Low | — | 52 |
+| 1524 | [1298902](../reports/1298902.md) | Outsider can affect Upvote Percentage of private subred | [Reddit](../by-program/reddit.md) | www.reddit.com | Low — CVSS 3.8 | — | 51 |
+| 1525 | [549040](../reports/549040.md) | Clientside resource Exhausting by exploiting gitlab mat | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 50 |
+| 1526 | [1664920](../reports/1664920.md) | Program managers can see draft reports using Export Rep | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.4 | — | 50 |
+| 1527 | [2812583](../reports/2812583.md) | Open redirect via redirect_to parameter in tumblr.com | [Automattic](../by-program/automattic.md) | www.tumblr.com | Low | — | 50 |
+| 1528 | [640488](../reports/640488.md) | Total bounties paid amount is disclosed because of rede | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 50 |
+| 1529 | [1159398](../reports/1159398.md) | New link opening method makes hackerone vulnerable to t | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 50 |
+| 1530 | [1913309](../reports/1913309.md) | Race condition leads to add more than 5 email at Data b | [Mozilla](../by-program/mozilla.md) | monitor.mozilla.org | Low | — | 49 |
+| 1531 | [1312365](../reports/1312365.md) | Subdomain takeover due to non registered TLD [ ████████ | [Affirm](../by-program/affirm.md) | hackerone.affirm-odin.com | Low | — | 48 |
+| 1532 | [210238](../reports/210238.md) | full path disclosure on www.rockstargames.com via apach | [Rockstar Games](../by-program/rockstargames.md) | *.rockstargames.com | Low | — | 48 |
+| 1533 | [2149124](../reports/2149124.md) | PATCH method manipulation allowing the users to escalat | [Frontegg](../by-program/frontegg.md) | portal.frontegg.com | Low — CVSS 3.4 | — | 48 |
+| 1534 | [1869613](../reports/1869613.md) | Attachment in published HackerOne report exposure priva | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.8 | — | 48 |
+| 1535 | [569241](../reports/569241.md) | Reflected XSS  | [Shopify](../by-program/shopify.md) | oberlo.com | Low | — | 48 |
+| 1536 | [565736](../reports/565736.md) | View HackerOne challenge scope before challenge begins | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.7 | — | 48 |
+| 1537 | [1886143](../reports/1886143.md) | information disclosure of another company bug on video. | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.8 | — | 47 |
+| 1538 | [1103812](../reports/1103812.md) | "Bounty splitting enabled" can discloses if public VDPs | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.4 | — | 46 |
+| 1539 | [2968559](../reports/2968559.md) |  Error Page Content Spoofing or Text Injection | [XVIDEOS](../by-program/xvideos.md) | www.xnxx.com | Low | — | 46 |
+| 1540 | [250729](../reports/250729.md) | Content Security Policy not applied to error pages at m | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 45 |
+| 1541 | [472026](../reports/472026.md) | The auto login link does not expire on changing email i | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 45 |
+| 1542 | [2737309](../reports/2737309.md) | Information disclosure on password cancel endpoint  | [Mozilla](../by-program/mozilla.md) | bugzilla.mozilla.org | Low — CVSS 3.5 | — | 45 |
+| 1543 | [1088966](../reports/1088966.md) | Ability to invite a new member on Sandbox Program | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 44 |
+| 1544 | [634488](../reports/634488.md) | Broken Authentication and Session Management Flaw After | [Omise](../by-program/omise.md) | go.exchange | Low | — | 44 |
+| 1545 | [1536046](../reports/1536046.md) | Stored XSS Payload when sending videos  | [TikTok](../by-program/tiktok.md) | tiktok.com | Low | — | 44 |
+| 1546 | [2248116](../reports/2248116.md) | Able to see highest poll result without voting or view  | [FetLife](../by-program/fetlife.md) | fetlife.com | Low | — | 44 |
+| 1547 | [2679440](../reports/2679440.md) | Unauthenticated Varnish Cache Purge | [Adobe](../by-program/adobe.md) | https://contentcredentials.org/ | Low — CVSS 3.7 | — | 43 |
+| 1548 | [292783](../reports/292783.md) | Oauth flow on the comments widget login can lead to the | [Ed](../by-program/ed.md) | edoverflow.com | Low | — | 42 |
+| 1549 | [2925666](../reports/2925666.md) | Blind SSRF Vulnerability in Appstore Release Upload For | [Nextcloud](../by-program/nextcloud.md) | apps.nextcloud.com | Low — CVSS 3.9 | — | 42 |
+| 1550 | [410451](../reports/410451.md) | User login page doesn't implement any form of rate limi | [HackerOne](../by-program/security.md) | https://ctf.hacker101.com | Low — CVSS 3.0 | — | 42 |
+| 1551 | [1138668](../reports/1138668.md) | The possibility of disrupting the normal operation of f | [HackerOne](../by-program/security.md) | http://hackerone.com/graphql | Low — CVSS 3.1 | — | 41 |
+| 1552 | [1374017](../reports/1374017.md) | HTML injection in email at https://www.hackerone.com/ | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.8 | — | 40 |
+| 1553 | [761573](../reports/761573.md) | Cross-Site Scripting through search form on mtnplay.co. | [MTN Group](../by-program/mtn_group.md) | mtnplay.co.zm | Low | — | 40 |
+| 1554 | [397031](../reports/397031.md) | Disclosure of top 10 vulnerability types for programs t | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 40 |
+| 1555 | [1065186](../reports/1065186.md) | Weak rate limit could lead to ATO due to weak password  | [Reddit](../by-program/reddit.md) | gateway-production.dubsmash.com | Low | — | 39 |
+| 1556 | [966814](../reports/966814.md) | Slack-Corp Heroku application disclosing limited info a | [Slack](../by-program/slack.md) | slack.com | Low — CVSS 3.7 | — | 39 |
+| 1557 | [669776](../reports/669776.md) | Disclosure of Program email Title Report when being rem | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.4 | — | 39 |
+| 1558 | [2270633](../reports/2270633.md) | Web API key registration allows registering multiple ke | [Valve](../by-program/valve.md) | steamcommunity.com | Low — CVSS 3.5 | — | 37 |
+| 1559 | [905543](../reports/905543.md) | Low Privileged user can add or remove cash to/from sale | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low | — | 37 |
+| 1560 | [2682974](../reports/2682974.md) | Social media account takeover  | [MTN Group](../by-program/mtn_group.md) | simfy.africa | Low — CVSS 3.7 | — | 37 |
+| 1561 | [2258950](../reports/2258950.md) | Timeline API returns private post when target of a push | [Automattic](../by-program/automattic.md) | api.tumblr.com | Low | — | 37 |
+| 1562 | [2106662](../reports/2106662.md) | CSRF to Information disclosure on password reset | [Mozilla](../by-program/mozilla.md) | accounts.firefox.com | Low | — | 37 |
+| 1563 | [1131306](../reports/1131306.md) | User's who are banned from program can still be invited | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.1 | — | 36 |
+| 1564 | [301526](../reports/301526.md) | Invitation token leaks to https://bat.bing.com | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.7 | — | 36 |
+| 1565 | [3325582](../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at  | [Mozilla](../by-program/mozilla.md) | pontoon.allizom.org | Low | — | 35 |
+| 1566 | [286667](../reports/286667.md) | Self-XSS in password reset functionality | [Shopify](../by-program/shopify.md) | accounts.shopify.com | Low — CVSS 3.8 | — | 34 |
+| 1567 | [1108291](../reports/1108291.md) | Race condition via project team member invitation syste | [Enjin](../by-program/enjin.md) | cloud.enjin.io,goerli.cloud.enjin.io,jum | Low | — | 33 |
+| 1568 | [541606](../reports/541606.md) | [Privilege Escalation] Shopify Admin -- Permission from | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low — CVSS 3.4 | — | 33 |
+| 1569 | [1128701](../reports/1128701.md) | Lack warning label when receiving a letter | [HackerOne](../by-program/security.md) | http://hackerone.com/graphql | Low — CVSS 3.1 | — | 33 |
+| 1570 | [348168](../reports/348168.md) | Timing attack towards endpoints on the web without CSRF | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.9 | — | 33 |
+| 1571 | [645264](../reports/645264.md) | Program Email Nofication settings ignored when being ad | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.4 | — | 33 |
+| 1572 | [578119](../reports/578119.md) | Privilege escalation due to insecure use of logrotate | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 32 |
+| 1573 | [395518](../reports/395518.md) | Internal usage of AdBlockPlus may expose PoC URLs to un | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.5 | — | 32 |
+| 1574 | [1145293](../reports/1145293.md) | No rate Limit | [Moneybird](../by-program/moneybird.md) | moneybird.com | Low | — | 32 |
+| 1575 | [237262](../reports/237262.md) | Invitation tokens leak to Google Analytics | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.1 | — | 32 |
+| 1576 | [294505](../reports/294505.md) | Cross-site scripting in "Contact customer" form | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low — CVSS 3.4 | — | 32 |
+| 1577 | [1130235](../reports/1130235.md) | Hackers can reveal the names of private programs that h | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.6 | — | 32 |
+| 1578 | [1378533](../reports/1378533.md) | Open Redirect TO  Stealing aadvid | [TikTok](../by-program/tiktok.md) | ads.tiktok.com | Low — CVSS 3.1 | — | 31 |
+| 1579 | [2569993](../reports/2569993.md) | Reports submitted by a non 2fa setupped user account ca | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.7 | — | 31 |
+| 1580 | [2076019](../reports/2076019.md) | HTML injection at Company Name or Product Name and can  | [LinkedIn](../by-program/linkedin.md) | www.linkedin.com | Low — CVSS 2.6 | — | 31 |
+| 1581 | [1509057](../reports/1509057.md) | IDOR on TikTok Seller | [TikTok](../by-program/tiktok.md) | *.tiktok.com | Low — CVSS 3.7 | — | 30 |
+| 1582 | [835302](../reports/835302.md) | [www.drive2.ru] Insufficient Security Configurability - | [DRIVE.NET, Inc.](../by-program/drive_net_inc.md) | www.drive2.ru | Low | — | 30 |
+| 1583 | [953579](../reports/953579.md) | [api.tumblr.com] Exploiting clickjacking vulnerability  | [Automattic](../by-program/automattic.md) | api.tumblr.com | Low | — | 30 |
+| 1584 | [1133661](../reports/1133661.md) | TikTok Session Donation CSRF via QR code login | [TikTok](../by-program/tiktok.md) | tiktok.com | Low — CVSS 3.1 | — | 30 |
+| 1585 | [1264725](../reports/1264725.md) | Information disclosure - Feedback is accessible on Publ | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 30 |
+| 1586 | [818848](../reports/818848.md) | Read-only team members can read all properties of webho | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 30 |
+| 1587 | [692068](../reports/692068.md) | Domain takeover on http://doesfranshaveashell.com/ due  | [Ed](../by-program/ed.md) | doesfranshaveashell.com | Low — CVSS 2.7 | — | 30 |
+| 1588 | [334253](../reports/334253.md) | CSRF at [Apply to this program] that lead to submit you | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.4 | — | 30 |
+| 1589 | [1386277](../reports/1386277.md) | Attachment references in markdown don't warn before dow | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 29 |
+| 1590 | [2313478](../reports/2313478.md) | CSRF resulting in adding pet at ███████ | [Mars](../by-program/mars.md) | spsah2.securevetsource.com | Low — CVSS 3.8 | — | 29 |
+| 1591 | [1137218](../reports/1137218.md) | Access control issue on invoice documents downloading f | [Moneybird](../by-program/moneybird.md) | moneybird.com | Low — CVSS 3.4 | — | 29 |
+| 1592 | [1139528](../reports/1139528.md) | Editing Pentest Summary Report Answers After Submitting | [HackerOne](../by-program/security.md) | http://hackerone.com/graphql | Low — CVSS 3.1 | — | 29 |
+| 1593 | [488643](../reports/488643.md) | Disclosure of h1 challenges name through the calendar | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.8 | — | 29 |
+| 1594 | [540711](../reports/540711.md) | Access Projects And create projects in gitlab pre produ | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 28 |
+| 1595 | [990838](../reports/990838.md) | Bypass Filter on link of build | [CS Money](../by-program/cs_money.md) | 3d.cs.money | Low | — | 28 |
+| 1596 | [997198](../reports/997198.md) | Content Spoofing/Text Injection in https://support.cs.m | [CS Money](../by-program/cs_money.md) | support.cs.money | Low | — | 28 |
+| 1597 | [642675](../reports/642675.md) | Bypass for blind SSRF #281950 and #287496 | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 28 |
+| 1598 | [341969](../reports/341969.md) | DOM XSS in edoverflow.com/tools/respond due to unsafe u | [Ed](../by-program/ed.md) | edoverflow.com | Low | — | 28 |
+| 1599 | [1070081](../reports/1070081.md) | information disclosure lead to disclose users private n | [Automattic](../by-program/automattic.md) | simplenote.com | Low | — | 27 |
+| 1600 | [438299](../reports/438299.md) | Information Exposure Through Directory Listing vulnerab | [X / xAI](../by-program/x.md) | snappytv.com | Low | — | 27 |
+| 1601 | [835647](../reports/835647.md) | [www.drive2.ru] Insufficient Security Configurability - | [DRIVE.NET, Inc.](../by-program/drive_net_inc.md) | www.drive2.ru | Low | — | 27 |
+| 1602 | [448078](../reports/448078.md) | A user can request a report to be retested even though  | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.8 | — | 27 |
+| 1603 | [315838](../reports/315838.md) | Non-Cloudflare IPs allowed to access origin servers | [Coalition, Inc.](../by-program/coalition.md) | platform.thecoalition.com | Low | — | 26 |
+| 1604 | [1637761](../reports/1637761.md) | CSRF in Importing CSV files [app.taxjar.com] | [Stripe](../by-program/stripe.md) | app.taxjar.com | Low | — | 26 |
+| 1605 | [1285538](../reports/1285538.md) | Race condition on action: Invite members to a team | [Omise](../by-program/omise.md) | dashboard.omise.co | Low | — | 26 |
+| 1606 | [2403554](../reports/2403554.md) | XSS on LINE CAREERS | [LY Corporation](../by-program/line.md) | http://recruit.linepluscorp.com | Low | — | 26 |
+| 1607 | [2097377](../reports/2097377.md) | Information Disclosure - Pvt Gitlab Issue Disclosing Th | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 26 |
+| 1608 | [1626281](../reports/1626281.md) | Password reset tokens sent to CSP reporting endpoints | [Snapchat](../by-program/snapchat.md) | accounts.snapchat.com | Low | — | 26 |
+| 1609 | [1103448](../reports/1103448.md) | Organization Members in Snap Kit may Deactivate Apps | [Snapchat](../by-program/snapchat.md) | kit.snapchat.com | Low | — | 26 |
+| 1610 | [1691603](../reports/1691603.md) | A Unverified User Can Post Newsletter (Which Is Not All | [LinkedIn](../by-program/linkedin.md) | www.linkedin.com | Low | — | 26 |
+| 1611 | [1418419](../reports/1418419.md) | [api.krisp.ai] Race condition on /v2/seats endpoint all | [Krisp](../by-program/krisp.md) | api.krisp.ai | Low | — | 26 |
+| 1612 | [270993](../reports/270993.md) | resolved bugs in a program are public despite the progr | [HackerOne](../by-program/security.md) | www.hackerone.com | Low | — | 25 |
+| 1613 | [888930](../reports/888930.md) | SAML Response Reuse on hackerone.com/users/saml/auth | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 25 |
+| 1614 | [587687](../reports/587687.md) | IDOR to update folder name of other user | [Trint Ltd](../by-program/trint.md) | app.trint.com | Low — CVSS 3.4 | — | 25 |
+| 1615 | [1842801](../reports/1842801.md) | Adobe Experience Manager 'Childlist selector' - Cross-S | [Adobe](../by-program/adobe.md) | *.adobe.com | Low — CVSS 3.1 | — | 24 |
+| 1616 | [477222](../reports/477222.md) | Last build status and coverage leaked to unauthorized u | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 24 |
+| 1617 | [1086752](../reports/1086752.md) | CSRF in changing password after using reset password li | [OpenMage](../by-program/openmage.md) | demo.openmage.org | Low — CVSS 3.8 | — | 24 |
+| 1618 | [608656](../reports/608656.md) | Disabled account can still use GraphQL endpoint | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.9 | — | 24 |
+| 1619 | [745953](../reports/745953.md) | Camo Image Proxy Bypass with CSS Escape Sequences | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 24 |
+| 1620 | [2860983](../reports/2860983.md) | Denial of Access to Static Resources via Cache Poisonin | [Mozilla](../by-program/mozilla.md) | addons.allizom.org | Low | — | 24 |
+| 1621 | [496973](../reports/496973.md) | Persistent XSS via e-mail when creating merge requests | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 24 |
+| 1622 | [262649](../reports/262649.md) | Information disclosure (system username) in the x-amz-m | [GSA Bounty](../by-program/gsa_bbp.md) | federation.data.gov | Low | — | 23 |
+| 1623 | [210875](../reports/210875.md) | use of unsafe host header leads to open redirect | [Rockstar Games](../by-program/rockstargames.md) | socialclub.rockstargames.com | Low | — | 23 |
+| 1624 | [422698](../reports/422698.md) | Update Chat Allowed By Option ( without age verificatio | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 23 |
+| 1625 | [882848](../reports/882848.md) | Possibilty to purchase Ultimate - 1 Year (EDU or OSS) | [GitLab](../by-program/gitlab.md) | customers.gitlab.com | Low | — | 23 |
+| 1626 | [1762764](../reports/1762764.md) | Sensitive information for phpinfo.php at https://produc | [Expedia Group Bug Bounty](../by-program/expediagroup_bbp.md) | *.ean.com | Low — CVSS 3.7 | — | 23 |
+| 1627 | [2111291](../reports/2111291.md) | Stored Xss on bugzilla.mozilla.org via comment edit fea | [Mozilla](../by-program/mozilla.md) | bugzilla.mozilla.org | Low | — | 23 |
+| 1628 | [1006599](../reports/1006599.md) | Blind SSRF in ads.tiktok.com | [TikTok](../by-program/tiktok.md) | ads.tiktok.com | Low — CVSS 3.7 | — | 23 |
+| 1629 | [1101771](../reports/1101771.md) | Open redirect on https://signin.rockstargames.com/conne | [Rockstar Games](../by-program/rockstargames.md) | *.rockstargames.com | Low | — | 23 |
+| 1630 | [481518](../reports/481518.md) | Bypass GraphQL rate limit by abusing negative cost quer | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low | — | 23 |
+| 1631 | [404864](../reports/404864.md) | Emails from Grammarly missing sanitization(lack of vali | [Superhuman (formerly Grammarly)](../by-program/superhuman.md) | app.grammarly.com | Low | — | 22 |
+| 1632 | [808832](../reports/808832.md) | Information Disclosure in https://www.rockstargames.com | [Rockstar Games](../by-program/rockstargames.md) | *.rockstargames.com | Low | — | 22 |
+| 1633 | [1194301](../reports/1194301.md) | Reflected XSS in https://www.topcoder.com/blog/category | [Lab45](../by-program/lab45.md) | www.topcoder.com | Low — CVSS 3.4 | — | 22 |
+| 1634 | [694749](../reports/694749.md) | Clicking "http://burp" hyperlink on FireFox CA Installa | [PortSwigger Web Security](../by-program/portswigger.md) | portswigger.net | Low | — | 22 |
+| 1635 | [1989901](../reports/1989901.md) | If rate limit is hit, IP address is leaked to anyone wh | [Mozilla](../by-program/mozilla.md) | bugzilla.mozilla.org | Low — CVSS 3.7 | — | 22 |
+| 1636 | [948146](../reports/948146.md) | Rate limiting on report video | [TikTok](../by-program/tiktok.md) | tiktok.com | Low | — | 22 |
+| 1637 | [1670304](../reports/1670304.md) | Card requirement bypass for business trial | [Krisp](../by-program/krisp.md) | api.krisp.ai | Low | — | 22 |
+| 1638 | [826176](../reports/826176.md) | program_analytics_benchmarks query shows information no | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 22 |
+| 1639 | [374907](../reports/374907.md) | Root user disclosure in data.gov domain though x-amz-me | [GSA Bounty](../by-program/gsa_bbp.md) | www.data.gov | Low | — | 22 |
+| 1640 | [906201](../reports/906201.md) | XSS / SELF XSS | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low | — | 21 |
+| 1641 | [1102660](../reports/1102660.md) | staffOrderNotificationSubscriptionDelete Could Be Used  | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low — CVSS 2.7 | — | 21 |
+| 1642 | [416906](../reports/416906.md) | Missing Rate Limitation at /apps/upload_app/  | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 21 |
+| 1643 | [1102652](../reports/1102652.md) | staffOrderNotificationSubscriptionCreate Is Not Blocked | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low — CVSS 3.8 | — | 21 |
+| 1644 | [1851969](../reports/1851969.md) | Open Redirect - https://████████.jetblue.com/███?url= | [JetBlue](../by-program/jetblue.md) | mobile.jetblue.com | Low | — | 21 |
+| 1645 | [1267176](../reports/1267176.md) | Open Redirection | [JetBlue](../by-program/jetblue.md) | movil.jetblue.com | Low | — | 21 |
+| 1646 | [426547](../reports/426547.md) | Missing Rate Limitation at /photo_videos/photoset/creat | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 20 |
+| 1647 | [955286](../reports/955286.md) | Graphql: Sorting the reports by jira_status field resul | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.8 | — | 20 |
+| 1648 | [690330](../reports/690330.md) | scripts loader (denial of service) vulnerability | [MariaDB](../by-program/mariadb.md) | mariadb.org | Low | — | 20 |
+| 1649 | [1272305](../reports/1272305.md) | Without verifying email and activate account, user can  | [Stripe](../by-program/stripe.md) | *.stripe.com | Low | — | 20 |
+| 1650 | [1010806](../reports/1010806.md) | [tumblr.com] CSRF in /svc/user/filtered_content | [Automattic](../by-program/automattic.md) | www.tumblr.com | Low | — | 20 |
+| 1651 | [1087188](../reports/1087188.md) | Race Condition allows to get more free trials and get m | [Weblate](../by-program/weblate.md) | hosted.weblate.org | Low — CVSS 3.1 | — | 20 |
+| 1652 | [415139](../reports/415139.md) | Reflected xss on theacademy.upserve.com | [Upserve ](../by-program/upserve.md) | theacademy.upserve.com | Low | — | 20 |
+| 1653 | [229498](../reports/229498.md) | Host header injection/redirection via newsletter signup | [Starbucks](../by-program/starbucks.md) | www.starbucks.com | Low | — | 19 |
+| 1654 | [515574](../reports/515574.md) | Unclaimed Github Repository Takeover on https://www.dat | [GSA Bounty](../by-program/gsa_bbp.md) | www.data.gov | Low | — | 19 |
+| 1655 | [297359](../reports/297359.md) | No Rate Limit in email leads to huge Mass mailings | [X / xAI](../by-program/x.md) | mopub.com | Low | — | 19 |
+| 1656 | [1166073](../reports/1166073.md) | Hyper Link Injection while signup  | [UPchieve](../by-program/upchieve.md) | app.upchieve.org | Low | — | 19 |
+| 1657 | [726163](../reports/726163.md) | IDOR in https://moneybird.com/user/accountant_company/e | [Moneybird](../by-program/moneybird.md) | moneybird.com | Low — CVSS 3.8 | — | 19 |
+| 1658 | [1091403](../reports/1091403.md) | CSRF Bypassed on Logout Endpoint | [Enjin](../by-program/enjin.md) | cloud.enjin.io,goerli.cloud.enjin.io,jum | Low | — | 19 |
+| 1659 | [1118898](../reports/1118898.md) | PHP info page disclosure | [U.S. General Services Administration](../by-program/gsa_vdp.md) | mysmartplans.gsa.gov | Low — CVSS 3.7 | — | 19 |
+| 1660 | [418145](../reports/418145.md) | No rate limiting in changing room subject. | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 19 |
+| 1661 | [474397](../reports/474397.md) | Error Page Content Spoofing or Text Injection | [CFP Time](../by-program/cfptime.md) | www.cfptime.org | Low | — | 19 |
+| 1662 | [576288](../reports/576288.md) | Testnet address being sent in cleartext as http://rinke | [Chainlink](../by-program/chainlink.md) | rinkeby.chain.link | Low | — | 19 |
+| 1663 | [1862677](../reports/1862677.md) | Attacker can unpin posts from companies he's not part o | [LinkedIn](../by-program/linkedin.md) | www.linkedin.com | Low | — | 19 |
+| 1664 | [1165225](../reports/1165225.md) | [dubsmash] Username and password bruteforce | [Reddit](../by-program/reddit.md) | www.dubsmash.com | Low — CVSS 3.9 | — | 18 |
+| 1665 | [854793](../reports/854793.md) | No rate limiting for confirmation email lead to email f | [Brave Software](../by-program/brave.md) | creators.basicattentiontoken.org | Low | — | 18 |
+| 1666 | [365504](../reports/365504.md) | Comment restriction in subsection "Workshop" of domain  | [Valve](../by-program/valve.md) | steamcommunity.com | Low | — | 18 |
+| 1667 | [1087382](../reports/1087382.md) | Store Deletion or Sell without authentication | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low — CVSS 3.7 | — | 18 |
+| 1668 | [1132171](../reports/1132171.md) | Race condition allows to send multiple times feedback f | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.7 | — | 17 |
+| 1669 | [2078707](../reports/2078707.md) | Exposing Django Debug Panel and Sensitive Infrastructur | [Mozilla](../by-program/mozilla.md) | relay.firefox.com | Low — CVSS 3.7 | — | 17 |
+| 1670 | [1812705](../reports/1812705.md) | Bypassing creation of  API tokens without email verific | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | dash.cloudflare.com | Low — CVSS 3.9 | — | 17 |
+| 1671 | [658217](../reports/658217.md) | Clickjacking in [exchangemarketplace.com] | [Shopify](../by-program/shopify.md) | exchangemarketplace.com | Low | — | 17 |
+| 1672 | [129773](../reports/129773.md) | Previous attachments can be referenced when creating a  | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.1 | — | 17 |
+| 1673 | [633001](../reports/633001.md) | Private System Note Disclosure using GraphQL | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 17 |
+| 1674 | [254269](../reports/254269.md) | Persistent XSS found on bin.pinion.gg due to outdated F | [Unikrn](../by-program/unikrn.md) | pinion.gg | Low | — | 17 |
+| 1675 | [240562](../reports/240562.md) | Privilege Escalation. | [Inflection](../by-program/inflection.md) | www.identity.com | Low — CVSS 3.0 | — | 16 |
+| 1676 | [835138](../reports/835138.md) | [www.drive2.ru] Insufficient Security Configurability - | [DRIVE.NET, Inc.](../by-program/drive_net_inc.md) | www.drive2.ru | Low | — | 16 |
+| 1677 | [812351](../reports/812351.md) | Username Information Disclosure via Json response - Usi | [Brave Software](../by-program/brave.md) | brave.com | Low | — | 16 |
+| 1678 | [1127455](../reports/1127455.md) | Hackers can reveal the names of private programs that h | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.6 | — | 16 |
+| 1679 | [1006691](../reports/1006691.md) | [www.drive2.ru]  Insufficient Security Configurability  | [DRIVE.NET, Inc.](../by-program/drive_net_inc.md) | www.drive2.ru | Low | — | 16 |
+| 1680 | [415398](../reports/415398.md) | Chaturbate "/chat_ignore_list/" endpoint does not check | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 16 |
+| 1681 | [1736846](../reports/1736846.md) | Akismet API keys are exposed by authentication method | [Automattic](../by-program/automattic.md) | akismet.com | Low | — | 16 |
+| 1682 | [1591403](../reports/1591403.md) | Self XSS in https://linkpop.com/dashboard/admin | [Shopify](../by-program/shopify.md) | linkpop.com | Low | — | 16 |
+| 1683 | [922470](../reports/922470.md) | No rate limiting on sinup page | [Nextcloud](../by-program/nextcloud.md) | nextcloud.com | Low — CVSS 3.5 | — | 16 |
+| 1684 | [1139541](../reports/1139541.md) | Enumerating HackerOne Pentests | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.7 | — | 16 |
+| 1685 | [576532](../reports/576532.md) | DOM XSS via Shopify.API.remoteRedirect | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low | — | 16 |
+| 1686 | [1370749](../reports/1370749.md) | After changing the storefront password, the preview lin | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low — CVSS 3.7 | — | 16 |
+| 1687 | [1256371](../reports/1256371.md) | PII data Leakage through hackerone reports  | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.7 | — | 16 |
+| 1688 | [392701](../reports/392701.md) | Vulnerability Report - Missing Certificate Authority Au | [MariaDB](../by-program/mariadb.md) | mariadb.org | Low | — | 16 |
+| 1689 | [1434967](../reports/1434967.md) | Github Account Takeover from Docs page of `kubernetes-c | [Kubernetes](../by-program/kubernetes.md) | kubernetes-csi.github.io | Low | — | 15 |
+| 1690 | [743518](../reports/743518.md) | Pending MFA logins aren't immediatly expired after a pa | [Moneybird](../by-program/moneybird.md) | moneybird.com | Low | — | 15 |
+| 1691 | [412526](../reports/412526.md) | No rate limit in stats api token endpoint | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 15 |
+| 1692 | [418151](../reports/418151.md) | No rate limiting in starting up a bot. | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 15 |
+| 1693 | [210994](../reports/210994.md) | Control Character Injection In Messages | [Rockstar Games](../by-program/rockstargames.md) | socialclub.rockstargames.com | Low | — | 15 |
+| 1694 | [260390](../reports/260390.md) | 2FA manual entry uses wrong encoding | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | Low | — | 15 |
+| 1695 | [1466855](../reports/1466855.md) | User with no Develop apps permission can Uninstall Cust | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low — CVSS 3.1 | — | 15 |
+| 1696 | [1767439](../reports/1767439.md) | Exposed Log File Lead to Full Internal path disclosure  | [Nextcloud](../by-program/nextcloud.md) | nextcloud.com | Low | — | 15 |
+| 1697 | [1610316](../reports/1610316.md) | Improper user validation on mentions and hashtags | [TikTok](../by-program/tiktok.md) | *.tiktok.com | Low — CVSS 3.5 | — | 15 |
+| 1698 | [786301](../reports/786301.md) | Stored XSS in Name of Team Member Invitation | [Localize](../by-program/localizejs.md) | localizestaging.com | Low | — | 15 |
+| 1699 | [1322334](../reports/1322334.md) | Ability to subscribe to inactive Post+ creators | [Automattic](../by-program/automattic.md) | www.tumblr.com | Low | — | 15 |
+| 1700 | [280534](../reports/280534.md) | No Rate Limit on account deletion request(Leads to huge | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 14 |
+| 1701 | [413505](../reports/413505.md) | No rate limit in affiliate statsapi endpoint | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 14 |
+| 1702 | [386116](../reports/386116.md) | CSV Injection with the CSV export feature | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low — CVSS 3.1 | — | 14 |
+| 1703 | [118582](../reports/118582.md) | CSV Injection at the CSV export feature | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.0 | — | 14 |
+| 1704 | [666557](../reports/666557.md) | Content Spoofing /Text Injection in https://docs.nextcl | [Nextcloud](../by-program/nextcloud.md) | docs.nextcloud.com | Low | — | 14 |
+| 1705 | [330122](../reports/330122.md) | Bypassing CSRF Token On Reply Message & Send Message | [Reverb.com](../by-program/reverb.md) | sandbox.reverb.com | Low | — | 14 |
+| 1706 | [813300](../reports/813300.md) | Changes to data in a CVE request after draft via GraphQ | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.6 | — | 14 |
+| 1707 | [796295](../reports/796295.md) | csrf in https://www.rockstargames.com/reddeadonline/fee | [Rockstar Games](../by-program/rockstargames.md) | *.rockstargames.com | Low | — | 14 |
+| 1708 | [271765](../reports/271765.md) | Stored XSS in partners dashboard | [Shopify](../by-program/shopify.md) | partners.shopify.com | Low — CVSS 3.4 | — | 14 |
+| 1709 | [210572](../reports/210572.md) | Full path Disclosure in Rockstargames.com██████████  | [Rockstar Games](../by-program/rockstargames.md) | *.rockstargames.com | Low | — | 13 |
+| 1710 | [1587246](../reports/1587246.md) | Improper access control on Linkedin Page | [LinkedIn](../by-program/linkedin.md) | www.linkedin.com | Low — CVSS 2.7 | — | 13 |
+| 1711 | [783356](../reports/783356.md) | The password limit is not set, [DoS]. | [Localize](../by-program/localizejs.md) | localizestaging.com | Low | — | 13 |
+| 1712 | [323735](../reports/323735.md) | Insecure Transportation Security Protocol Supported (TL | [JamieWeb](../by-program/jamieweb.md) | www.jamieweb.net | Low | — | 13 |
+| 1713 | [605608](../reports/605608.md) | [information disclosure] Validate existence of a privat | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 13 |
+| 1714 | [1087744](../reports/1087744.md) | Improper deep link validation  | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low — CVSS 3.1 | — | 13 |
+| 1715 | [1440161](../reports/1440161.md) | Improper Neutralization of Script-Related HTML Tags in  | [8x8](../by-program/8x8-bounty.md) | supersite.8x8.com | Low | — | 13 |
+| 1716 | [257207](../reports/257207.md) | Code injection | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | Low — CVSS 3.5 | — | 13 |
+| 1717 | [1877185](../reports/1877185.md) | connect.8x8.com: Too much resource consumption of the s | [8x8](../by-program/8x8-bounty.md) | connect.8x8.com | Low | — | 12 |
+| 1718 | [1089978](../reports/1089978.md) | [h1-2102] [Yaworski's Broskis] Suspected overcharge and | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low — CVSS 2.0 | — | 12 |
+| 1719 | [737578](../reports/737578.md) | Redirection through referer tag | [Stripo Inc](../by-program/stripo.md) | stripo.email | Low | — | 12 |
+| 1720 | [298028](../reports/298028.md) | Clickjacking on https://www.goodhire.com/api | [Inflection](../by-program/inflection.md) | api.goodhire.com | Low | — | 12 |
+| 1721 | [503804](../reports/503804.md) | Path Disclosure Vulnerability http://crm.******.com | [Unikrn](../by-program/unikrn.md) | crm.unikrn.com | Low | — | 12 |
+| 1722 | [1085079](../reports/1085079.md) | No Limit on Email Subscription | [OpenMage](../by-program/openmage.md) | demo.openmage.org | Low | — | 12 |
+| 1723 | [280504](../reports/280504.md) | Weak Password Policy on Signup | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 12 |
+| 1724 | [1133536](../reports/1133536.md) | Temporary banned user (from platform) is able to make s | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 3.1 | — | 12 |
+| 1725 | [1157893](../reports/1157893.md) | PHP-FPM status page disclosure | [Algolia](../by-program/algolia.md) | www.algolia.com | Low | — | 12 |
+| 1726 | [1331361](../reports/1331361.md) | Broken Link Hijacking on kubernetes.io Documentation | [Kubernetes](../by-program/kubernetes.md) | kubernetes.io | Low | — | 12 |
+| 1727 | [372452](../reports/372452.md) | CORS on (ws.infogram.com) | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 12 |
+| 1728 | [260751](../reports/260751.md) | Change password session fixed | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot.com | Low | — | 12 |
+| 1729 | [288707](../reports/288707.md) | Email Spoofing | [Aspen](../by-program/aspen.md) | aspen.io | Low | — | 11 |
+| 1730 | [1554888](../reports/1554888.md) |  Site information's Display Name section vulnerable for | [Automattic](../by-program/automattic.md) | my.pressable.com | Low | — | 11 |
+| 1731 | [679657](../reports/679657.md) | The twitter accounts are linked on page but unclaimed. | [MyCrypto](../by-program/mycrypto.md) | about.mycrypto.com | Low | — | 11 |
+| 1732 | [271700](../reports/271700.md) | Leak IP internal | [Rockstar Games](../by-program/rockstargames.md) | www.rockstargames.com | Low | — | 11 |
+| 1733 | [411822](../reports/411822.md) | Password protected rooms total number of viewers disclo | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 11 |
+| 1734 | [385145](../reports/385145.md) | Homograph attack on redirect URL (https://chaturbate.co | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 11 |
+| 1735 | [388527](../reports/388527.md) | Self xss | [Nextcloud](../by-program/nextcloud.md) | nextcloud.com | Low | — | 11 |
+| 1736 | [287496](../reports/287496.md) | Internal Ports Scanning via Blind SSRF  (URL Redirectio | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 11 |
+| 1737 | [405697](../reports/405697.md) | Open redirection in OAuth | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | Low | — | 11 |
+| 1738 | [667408](../reports/667408.md) | Head pipeline leaked to unauthorized users via blocking | [GitLab](../by-program/gitlab.md) | gitlab.com | Low — CVSS 3.5 | — | 11 |
+| 1739 | [1675730](../reports/1675730.md) | Password Policy Restriction Bypass | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | dash.cloudflare.com | Low | — | 11 |
+| 1740 | [282772](../reports/282772.md) | no notification send to victim if attacker hacks/access | [Weblate](../by-program/weblate.md) | hosted.weblate.org | Low | — | 11 |
+| 1741 | [385239](../reports/385239.md) | Add non-existent room moderator | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | Low | — | 11 |
+| 1742 | [280519](../reports/280519.md) | Email notification is not being sent while changing pas | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 11 |
+| 1743 | [381237](../reports/381237.md) | CSRF | Ban or unban users in broadcast's chat | [Valve](../by-program/valve.md) | steamcommunity.com | Low — CVSS 3.5 | — | 10 |
+| 1744 | [386160](../reports/386160.md) | xmlrpc.php on mariadb.org can lead to DDOS and brute fo | [MariaDB](../by-program/mariadb.md) | mariadb.org | Low | — | 10 |
+| 1745 | [227726](../reports/227726.md) | Missing CSRF Token On Remove Coupun From Cart | [Starbucks](../by-program/starbucks.md) | www.teavana.com | Low | — | 10 |
+| 1746 | [481654](../reports/481654.md) | No Rate On Add Suggest | [Weblate](../by-program/weblate.md) | hosted.weblate.org | Low | — | 10 |
+| 1747 | [367581](../reports/367581.md) | Basic auth details is still work on report ( 351555 )  | [Reverb.com](../by-program/reverb.md) | sandbox.reverb.com | Low | — | 10 |
+| 1748 | [1083531](../reports/1083531.md) | Reset password policy isn't consistent with registratio | [Enjin](../by-program/enjin.md) | cloud.enjin.io,goerli.cloud.enjin.io,jum | Low | — | 10 |
+| 1749 | [307424](../reports/307424.md) | While adding a payment method - Notification email not  | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 10 |
+| 1750 | [582349](../reports/582349.md) | Last pipeline status for MR leaked  | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 10 |
+| 1751 | [727870](../reports/727870.md) | [www.yoti.com] Wordpress user admin information disclou | [Yoti](../by-program/yoti.md) | www.yoti.com | Low | — | 10 |
+| 1752 | [938683](../reports/938683.md) | CVE-2019-19935 - DOM based XSS in the froala editor | [lemlist](../by-program/lemlist.md) | app.lemlist.com | Low | — | 10 |
+| 1753 | [263010](../reports/263010.md) | Improper validation at Phone verification (possible cos | [Unikrn](../by-program/unikrn.md) | unikrn.com | Low | — | 10 |
+| 1754 | [785833](../reports/785833.md) | registering with the same email address multiple times  | [Reddit](../by-program/reddit.md) | www.reddit.com | Low | — | 10 |
+| 1755 | [1420070](../reports/1420070.md) | Force User to Accept Attacker's invite [ Restrict user  | [Krisp](../by-program/krisp.md) | account.krisp.ai | Low | — | 10 |
+| 1756 | [186554](../reports/186554.md) | Stored XSS in Adress Book (starbucks.com/account/profil | [Starbucks](../by-program/starbucks.md) | www.starbucks.com | Low | — | 9 |
+| 1757 | [265775](../reports/265775.md) | Password reset token issue | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | Low | — | 9 |
+| 1758 | [385372](../reports/385372.md) | Homograph attack on redirect URL  | [Chaturbate](../by-program/chaturbate.md) | m.chaturbate.com | Low | — | 9 |
+| 1759 | [287758](../reports/287758.md) | Bypass insecure password validation | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 9 |
+| 1760 | [1296597](../reports/1296597.md) | Business logic error | [UPchieve](../by-program/upchieve.md) | hackers.upchieve.org | Low | — | 9 |
+| 1761 | [392761](../reports/392761.md) | vulnerable to Cross-site Request Forgery | Jira | [MariaDB](../by-program/mariadb.md) | mariadb.org | Low | — | 9 |
+| 1762 | [280529](../reports/280529.md) | Incorrect Functionality of Password reset links | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 8 |
+| 1763 | [350432](../reports/350432.md) | Information disclosure | [HackerOne](../by-program/security.md) | hackerone.com | Low — CVSS 2.9 | — | 8 |
+| 1764 | [214763](../reports/214763.md) | Profile bio at rockstar is accepting control characters | [Rockstar Games](../by-program/rockstargames.md) | socialclub.rockstargames.com | Low | — | 8 |
+| 1765 | [1680818](../reports/1680818.md) | Modifying Sprunk vs eCola crew data | [Rockstar Games](../by-program/rockstargames.md) | socialclub.rockstargames.com | Low | — | 8 |
+| 1766 | [1165285](../reports/1165285.md) | No Rate limit on change password leads to account takeo | [Reddit](../by-program/reddit.md) | old.reddit.com | Low | — | 8 |
+| 1767 | [1609004](../reports/1609004.md) | Rate limit is implemented in Reddit , but its not worki | [Reddit](../by-program/reddit.md) | www.reddit.com | Low | — | 8 |
+| 1768 | [1090982](../reports/1090982.md) | Non-changing "_idnonce" value leads to CSRF on accounts | [Automattic](../by-program/automattic.md) | intensedebate.com | Low | — | 8 |
+| 1769 | [257035](../reports/257035.md) | User enumeration from failed login error message | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | Low | — | 8 |
+| 1770 | [227725](../reports/227725.md) | Missing CSRF Token On Add Coupon To Basket | [Starbucks](../by-program/starbucks.md) | www.teavana.com | Low | — | 8 |
+| 1771 | [311380](../reports/311380.md) | See details of a unpublished word by guessing the word  | [Urban Dictionary](../by-program/urbandictionary.md) | urbandictionary.com | Low | — | 8 |
+| 1772 | [1416701](../reports/1416701.md) | Missing SPF record on trycourier.app | [Courier](../by-program/trycourier.md) | www.trycourier.app | Low | — | 8 |
+| 1773 | [325594](../reports/325594.md) | Leakage badges on disabled user | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 8 |
+| 1774 | [269705](../reports/269705.md) | WordPress < 4.8.2 vulnerable to multiple attacks | [Nextcloud](../by-program/nextcloud.md) | nextcloud.com | Low | — | 7 |
+| 1775 | [897556](../reports/897556.md) | SSH port on store.greenhouse.io is vulnerable to brute  | [Greenhouse.io](../by-program/greenhouse.md) | www.greenhouse.io | Low | — | 7 |
+| 1776 | [262830](../reports/262830.md) | Rate-limit protection get executed in the last stage of | [Unikrn](../by-program/unikrn.md) | unikrn.com | Low | — | 7 |
+| 1777 | [295865](../reports/295865.md) | Open Redirection on auth.rbk.money | [RBKmoney](../by-program/rbkmoney.md) | auth.rbk.money | Low | — | 7 |
+| 1778 | [514421](../reports/514421.md) | smtp service vulnerable to POODLE SSLv3 | [MariaDB](../by-program/mariadb.md) | mariadb.org | Low | — | 7 |
+| 1779 | [296094](../reports/296094.md) | Reflected Cross-site Scripting Vulnerability via JSON E | [Inflection](../by-program/inflection.md) | www.identity.com | Low — CVSS 3.7 | — | 7 |
+| 1780 | [1125143](../reports/1125143.md) | No DMARC record at cordacon.com | [R3](../by-program/r3.md) | cordacon.com | Low | — | 7 |
+| 1781 | [449356](../reports/449356.md) | 65534 times efficient, Brute-force attack for api_key | [RubyGems](../by-program/rubygems.md) | rubygems.org | Low | — | 7 |
+| 1782 | [296706](../reports/296706.md) | Open redirect deceive in hackerone.com via another open | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 7 |
+| 1783 | [347782](../reports/347782.md) | Click Jacking Nextcloud | [Nextcloud](../by-program/nextcloud.md) | portal.nextcloud.com | Low | — | 7 |
+| 1784 | [325827](../reports/325827.md) | Content Spoofing or Text Injection support.mycrypto.com | [MyCrypto](../by-program/mycrypto.md) | support.mycrypto.com | Low | — | 7 |
+| 1785 | [729341](../reports/729341.md) | Double linking cause XSS (but blokeced by CSP in gitlab | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 6 |
+| 1786 | [1570591](../reports/1570591.md) | subdomain takeover at status.hosting24.com | [hostinger ](../by-program/hostinger.md) | www.hosting24.com | Low | — | 6 |
+| 1787 | [1726445](../reports/1726445.md) | A vulnerability classified as critical has been found i | [Nextcloud](../by-program/nextcloud.md) | updates.nextcloud.com | Low | — | 6 |
+| 1788 | [210331](../reports/210331.md) | SSLv3 POODLE Vulnerability | [Rockstar Games](../by-program/rockstargames.md) | *.rockstargames.com | Low | — | 6 |
+| 1789 | [856310](../reports/856310.md) | [www.stripo.email] There is no rate limit for /it/conta | [Stripo Inc](../by-program/stripo.md) | stripo.email | Low | — | 6 |
+| 1790 | [3353057](../reports/3353057.md) | Insecure Direct Object Reference (IDOR) allows creating | [SingleStore](../by-program/singlestore.md) | backend.singlestore.com | Low — CVSS 3.8 | — | 6 |
+| 1791 | [947637](../reports/947637.md) | Ngnix Server version disclosure. | [Dropcontact](../by-program/dropcontact.md) | app.dropcontact.io | Low | — | 6 |
+| 1792 | [1398572](../reports/1398572.md) | Broken Link Takeover from kubernetes.io docs | [Kubernetes](../by-program/kubernetes.md) | kubernetes.io | Low | — | 6 |
+| 1793 | [253975](../reports/253975.md) | insecure redirect in https://www.rockstargames.com | [Rockstar Games](../by-program/rockstargames.md) | www.rockstargames.com | Low | — | 6 |
+| 1794 | [280500](../reports/280500.md) | Tabnabbing via window.opener | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 6 |
+| 1795 | [1591770](../reports/1591770.md) | API Key reported in #1465145 not rotated and thus is st | [Adobe](../by-program/adobe.md) | *.testdrive.workfront.com | Low — CVSS 3.7 | — | 6 |
+| 1796 | [449818](../reports/449818.md) | Is the 504 Gateway Time-out error ok? | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 6 |
+| 1797 | [1408589](../reports/1408589.md) | Wordpress users disclosure from json and xml file | [MTN Group](../by-program/mtn_group.md) | mtn.co.sz | Low — CVSS 3.7 | — | 6 |
+| 1798 | [3353000](../reports/3353000.md) | Privilege Escalation – Access to the Alert Subscribers  | [SingleStore](../by-program/singlestore.md) | backend.singlestore.com | Low — CVSS 3.8 | — | 5 |
+| 1799 | [826005](../reports/826005.md) | Private account causes displayed through API | [Staging.every.org](../by-program/stagingdoteverydotorg.md) | staging.every.org | Low | — | 5 |
+| 1800 | [1003468](../reports/1003468.md) | Send Empty CSRF leads to log out user on [https://hoste | [Weblate](../by-program/weblate.md) | hosted.weblate.org | Low — CVSS 3.1 | — | 5 |
+| 1801 | [479021](../reports/479021.md) | No Rate Limit  On Add new word | [Weblate](../by-program/weblate.md) | hosted.weblate.org | Low | — | 5 |
+| 1802 | [3295500](../reports/3295500.md) | Exceeding the maximum number of spaces allowed by explo | [SingleStore](../by-program/singlestore.md) | backend.singlestore.com | Low | — | 5 |
+| 1803 | [313075](../reports/313075.md) | Information Disclosure which violate program privacy | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 5 |
+| 1804 | [3353035](../reports/3353035.md) | Delete any folder for any user within the organization | [SingleStore](../by-program/singlestore.md) | backend.singlestore.com | Low — CVSS 3.8 | — | 5 |
+| 1805 | [272863](../reports/272863.md) | External links should be served in HTTPS. | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot.com | Low | — | 5 |
+| 1806 | [280509](../reports/280509.md) | User Enumeration | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 5 |
+| 1807 | [390728](../reports/390728.md) | Stored XSS on scan.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | scan.nextcloud.com | Low | — | 4 |
+| 1808 | [280408](../reports/280408.md) | SPF Misconfiguration | [Infogram](../by-program/infogram.md) | infogram.com | Low | — | 4 |
+| 1809 | [311449](../reports/311449.md) | Reputation gain split by company can be used to track t | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 4 |
+| 1810 | [1301113](../reports/1301113.md) | CLICKJACKING LEADS TO DEACTIVATE ACCOUNT | [UPchieve](../by-program/upchieve.md) | hackers.upchieve.org | Low | — | 4 |
+| 1811 | [1575401](../reports/1575401.md) | xmlrpc file enabled | [Yelp](../by-program/yelp.md) | restaurants.yelp.com | Low | — | 4 |
+| 1812 | [279914](../reports/279914.md) | Issue with password change in Disabled Account | [HackerOne](../by-program/security.md) | hackerone.com | Low | — | 4 |
+| 1813 | [636560](../reports/636560.md) | Project Milestones Disclosed Via Groups When the Victim | [GitLab](../by-program/gitlab.md) | gitlab.com | Low | — | 4 |
+| 1814 | [963164](../reports/963164.md) | Django debug enabled showing information about system,  | [Dropcontact](../by-program/dropcontact.md) | app.dropcontact.io | Low | — | 3 |
+| 1815 | [669365](../reports/669365.md) | Veracode and security audit record are publicly availab | [Nextcloud](../by-program/nextcloud.md) | nextcloud.com | Low | — | 3 |
+| 1816 | [358102](../reports/358102.md) | Disclosed Version of PORTS SSH|HTTP|SSL | [Nextcloud](../by-program/nextcloud.md) | scan.nextcloud.com | Low | — | 3 |
+| 1817 | [413655](../reports/413655.md) | Server side includes in https://lgtm-com.pentesting.sem | [Semmle](../by-program/semmle.md) | lgtm-com.pentesting.semmle.net | Low | — | 3 |
+| 1818 | [928816](../reports/928816.md) | Stored XSS in app.lemlist.com | [lemlist](../by-program/lemlist.md) | app.lemlist.com | Low | — | 3 |
+| 1819 | [307681](../reports/307681.md) | Cross-Domain JavaScript Source File Inclusion  | [RubyGems](../by-program/rubygems.md) | rubygems.org | Low | — | 3 |
+| 1820 | [764517](../reports/764517.md) | SSRF leads to internal port scan | [Stripo Inc](../by-program/stripo.md) | my.stripo.email | Low | — | 3 |
+| 1821 | [3384615](../reports/3384615.md) | Insufficient checks in the file path parameter allow wr | [SingleStore](../by-program/singlestore.md) | backend.singlestore.com | Low | — | 3 |
+| 1822 | [1478930](../reports/1478930.md) | Instance Page DOS  within Organization on TikTok Ads | [TikTok](../by-program/tiktok.md) | ads.tiktok.com | Low | — | 3 |
+| 1823 | [476439](../reports/476439.md) | Password authentication at newsletter.nextcloud.com dis | [Nextcloud](../by-program/nextcloud.md) | newsletter.nextcloud.com | Low | — | 3 |
+| 1824 | [870062](../reports/870062.md) | Referer Referer Header Leakage in language changer may  | [Rockstar Games](../by-program/rockstargames.md) | *.rockstargames.com | Low — CVSS 3.8 | — | 3 |
+| 1825 | [374818](../reports/374818.md) | SSRF in rompager-check | [Hanno's projects](../by-program/hannob.md) | invalid.hboeck.de | Low | — | 3 |
+| 1826 | [771699](../reports/771699.md) | Open redirect on https://account.mackeeper.com | [Clario](../by-program/clario.md) | account.mackeeper.com | Low | — | 3 |
+| 1827 | [463657](../reports/463657.md) | Editable Wiki repo by anyone  | [RATELIMITED](../by-program/ratelimited.md) | theendlessweb.com | Low | — | 3 |
+| 1828 | [473144](../reports/473144.md) | Content spoofing on https://surveyserver.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | surveyserver.nextcloud.com | Low | — | 2 |
+| 1829 | [741439](../reports/741439.md) | Unauthenticated Reflected Cross-Site Scripting on https | [Clario](../by-program/clario.md) | account.mackeeper.com | Low | — | 2 |
+| 1830 | [272387](../reports/272387.md) | aspen | clickjacking | [Aspen](../by-program/aspen.md) | django.aspen.io | Low | — | 2 |
+| 1831 | [259742](../reports/259742.md) | Incorrect error message | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | Low | — | 2 |
+| 1832 | [740999](../reports/740999.md) | Reflected XSS | [Clario](../by-program/clario.md) | account.mackeeper.com | Low | — | 2 |
+| 1833 | [1400405](../reports/1400405.md) | Clickjacking ar https://hackers.upchieve.org/login | [UPchieve](../by-program/upchieve.md) | hackers.upchieve.org | Low | — | 2 |
+| 1834 | [262140](../reports/262140.md) | Password Restriction On Change | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot.com | Low | — | 1 |
+| 1835 | [1165919](../reports/1165919.md) | Content Spoofing | [Reddit](../by-program/reddit.md) | s.reddit.com | Low | — | 1 |
+| 1836 | [260492](../reports/260492.md) | Invalid Email Verification | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | Low | — | 1 |
+| 1837 | [434670](../reports/434670.md) | Text injection at https://media.hboeck.de | [Hanno's projects](../by-program/hannob.md) | invalid.hboeck.de | Low | — | 1 |
+| 1838 | [279717](../reports/279717.md) | Broken link for wrong domain entry may be leveraged for | [Nextcloud](../by-program/nextcloud.md) | nextcloud.com | Low | — | 1 |
+| 1839 | [403909](../reports/403909.md) | Information Exposure Through Directory Listing - https: | [Nextcloud](../by-program/nextcloud.md) | apps.nextcloud.com | Low | — | 1 |
+| 1840 | [762510](../reports/762510.md) | How the Bug stole hacking | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 470 |
+| 1841 | [530974](../reports/530974.md) | Server-Side Request Forgery using Javascript allows to  | [Snapchat](../by-program/snapchat.md) | snappublisher.snapchat.com | None | — | 416 |
+| 1842 | [1220747](../reports/1220747.md) | HackerOne making payments in USDC (Coinbase stable coin | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 201 |
+| 1843 | [1007689](../reports/1007689.md) | 2020-10-09 Credential Stuffing Attack | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 195 |
+| 1844 | [770349](../reports/770349.md) | Reflected XSS in twitterflightschool.com | [X / xAI](../by-program/x.md) | twitterflightschool.com | None | — | 140 |
+| 1845 | [271506](../reports/271506.md) | Banned researcher gets email updates on a private progr | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 139 |
+| 1846 | [2957962](../reports/2957962.md) | Open redirect | [XVIDEOS](../by-program/xvideos.md) | www.xnxx.com | None | — | 138 |
+| 1847 | [2524562](../reports/2524562.md) | IDOR to view order information of users and personal in | [WakaTime](../by-program/wakatime.md) | wakatime.com | None | — | 123 |
+| 1848 | [2285198](../reports/2285198.md) | How the Arch Angel stole Live Events | [HackerOne](../by-program/security.md) | api.hackerone.com | None | — | 97 |
+| 1849 | [2263294](../reports/2263294.md) | Cloud Computer Hackerone Triager can be Accessible for  | [HackerOne](../by-program/security.md) | www.hackerone.com | None | — | 91 |
+| 1850 | [892904](../reports/892904.md) | Ability to link a Google account to another staff accou | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | None | — | 84 |
+| 1851 | [3091909](../reports/3091909.md) | Leaked credentials ( emails and passwords , etc...) | [WakaTime](../by-program/wakatime.md) | wakatime.com | None | — | 76 |
+| 1852 | [170310](../reports/170310.md) | Bypass rate limiting on /users/password (possibly site- | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 75 |
+| 1853 | [3042984](../reports/3042984.md) | #**CSV Injection in shared passwords leads to complete  | [1Password - Enterprise Password Manager](../by-program/1password.md) | http://--your-own-1password-account--.1p | None | — | 75 |
+| 1854 | [3090641](../reports/3090641.md) | Login Information and Credentials Have Been Leaked on w | [WakaTime](../by-program/wakatime.md) | wakatime.com | None | — | 73 |
+| 1855 | [2828499](../reports/2828499.md) | open redirected by host header | [Localize](../by-program/localizejs.md) | localizestaging.com | None | — | 72 |
+| 1856 | [141090](../reports/141090.md) | Parameter Manipulation allowed for viewing of other use | [Starbucks](../by-program/starbucks.md) | www.teavana.com | None | — | 70 |
+| 1857 | [2676025](../reports/2676025.md) | Login email verification bypass via `/oauth/token`. | [GitLab](../by-program/gitlab.md) | gitlab.com | None | — | 66 |
+| 1858 | [3098717](../reports/3098717.md) | user api key leaked | [WakaTime](../by-program/wakatime.md) | wakatime.com | None | — | 64 |
+| 1859 | [2370955](../reports/2370955.md) | LLM03: Training Data Poisoning via ASCII decoding  | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 62 |
+| 1860 | [2461737](../reports/2461737.md) | Incorrect logic when buy one more license which may lea | [PortSwigger Web Security](../by-program/portswigger.md) | portswigger.net | None | — | 60 |
+| 1861 | [1028332](../reports/1028332.md) | Stored XSS on https://events.hackerone.com | [HackerOne](../by-program/security.md) | events.hackerone.com | None | — | 58 |
+| 1862 | [334139](../reports/334139.md) | CSRF Trial 14 days express subscription | [Instacart](../by-program/instacart.md) | www.instacart.com | None | — | 58 |
+| 1863 | [738899](../reports/738899.md) | Able to change password by entering wrong old password | [Stripo Inc](../by-program/stripo.md) | stripo.email | None | — | 56 |
+| 1864 | [1028345](../reports/1028345.md) | Open Redirect on http://events.hackerone.com/redirect?u | [HackerOne](../by-program/security.md) | events.hackerone.com | None | — | 54 |
+| 1865 | [320376](../reports/320376.md) | Open Redirection in index.php page | [HackerOne](../by-program/security.md) | www.hackerone.com | None | — | 53 |
+| 1866 | [2696294](../reports/2696294.md) | Private Emails of Moz Workers Leaked in Public file | [Mozilla](../by-program/mozilla.md) | community-tc.services.mozilla.com | None | — | 52 |
+| 1867 | [3097900](../reports/3097900.md) | `/names.nsf` and all `/names*` files route to public AP | [RubyGems](../by-program/rubygems.md) | rubygems.org | None | — | 46 |
+| 1868 | [2979176](../reports/2979176.md) | Unauthenticated API Access Exposing Premium Content and | [XVIDEOS](../by-program/xvideos.md) | www.xvideos.red | None | — | 46 |
+| 1869 | [2682392](../reports/2682392.md) | Race Condition on Create API Function | [Enjin](../by-program/enjin.md) | platform.enjin.io | None | — | 44 |
+| 1870 | [2134874](../reports/2134874.md) | Hackers two email disclosed on  submission at hackerone | [HackerOne](../by-program/security.md) | www.hackerone.com | None | — | 43 |
+| 1871 | [1831528](../reports/1831528.md) | Rogue collaborators and ambiguous branch names in GitHu | [GitHub](../by-program/github.md) | github.com | None | — | 42 |
+| 1872 | [3581815](../reports/3581815.md) | Open Redirect on lovable.dev via redirect parameter lea | [Lovable VDP](../by-program/lovable-vdp.md) | lovable.dev | None | — | 42 |
+| 1873 | [2299069](../reports/2299069.md) | xmlrpc.php &wp-cron.php files are enabled, and will use | [Nextcloud](../by-program/nextcloud.md) | nextcloud.com | None | — | 41 |
+| 1874 | [3542546](../reports/3542546.md) | Server-side ReDoS via user-controlled regex in OIDC Acc | [RubyGems](../by-program/rubygems.md) | rubygems.org | None | — | 40 |
+| 1875 | [2380084](../reports/2380084.md) | paypal client_id And stripe api key indexed on web arch | [Mozilla](../by-program/mozilla.md) | accounts.firefox.com | None | — | 40 |
+| 1876 | [301862](../reports/301862.md) | Path traversal leading to limited CSRF on GET requests  | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 39 |
+| 1877 | [347937](../reports/347937.md) | Team object in GraphQL that have a published external p | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 39 |
+| 1878 | [692352](../reports/692352.md) | XSS on https://app.mopub.com/reports/custom/add/ [new-d | [X / xAI](../by-program/x.md) | mopub.com | None | — | 38 |
+| 1879 | [141120](../reports/141120.md) | Parameter Manipulation allowed for editing the shipping | [Starbucks](../by-program/starbucks.md) | www.teavana.com | None | — | 37 |
+| 1880 | [2668302](../reports/2668302.md) | Removed Guest role user who dosent have access to priva | [GitLab](../by-program/gitlab.md) | gitlab.com | None | — | 37 |
+| 1881 | [2979148](../reports/2979148.md) | Error Page Content Spoofing or Text Injection | [XVIDEOS](../by-program/xvideos.md) | www.xvideos.com | None | — | 37 |
+| 1882 | [140616](../reports/140616.md) | www.starbucks.co.uk Reflected XSS via utm_source parame | [Starbucks](../by-program/starbucks.md) | www.starbucks.co.uk | None | — | 36 |
+| 1883 | [594080](../reports/594080.md) | Privilege escalation allows to use iframe functionality | [Infogram](../by-program/infogram.md) | infogram.com | None | — | 35 |
+| 1884 | [2921905](../reports/2921905.md) | WAF bypass and java script incomplete handling of Unico | [Doppler](../by-program/doppler.md) | share.doppler.com | None | — | 33 |
+| 1885 | [915940](../reports/915940.md) | Script Editor preview token still working with uninstal | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | None | — | 33 |
+| 1886 | [2979153](../reports/2979153.md) |  API Data Leakage Vulnerability Report - `xvcams.com` | [XVIDEOS](../by-program/xvideos.md) | www.xvideos.com | None | — | 33 |
+| 1887 | [1028396](../reports/1028396.md) | Reflected XSS and possible SSRF/XXE on https://events.h | [HackerOne](../by-program/security.md) | events.hackerone.com | None | — | 32 |
+| 1888 | [287245](../reports/287245.md) | Blind SSRF in "Integrations" by abusing a bug in Ruby's | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 30 |
+| 1889 | [2001913](../reports/2001913.md) | Create miscellaneous support ticket on anyone's account | [HackerOne](../by-program/security.md) | support.hackerone.com | None | — | 29 |
+| 1890 | [2543342](../reports/2543342.md) | Bypassing Two-Factor Authentication via Account Deactiv | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 27 |
+| 1891 | [1181253](../reports/1181253.md) | e-mail verification bypass through interception & modif | [U.S. General Services Administration](../by-program/gsa_vdp.md) | tams.preprod.gsa.gov | None | — | 25 |
+| 1892 | [1102546](../reports/1102546.md) | Is the Google Bucket Meant To Be Publicly Listable? htt | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | None | — | 25 |
+| 1893 | [884159](../reports/884159.md) | Ability to generate shipping labels in another store or | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | None | — | 25 |
+| 1894 | [350964](../reports/350964.md) | User object in GraphQL exposes number of trial reports  | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 24 |
+| 1895 | [2463069](../reports/2463069.md) | 2fa can't be activated on app.pullrequest.com | [HackerOne](../by-program/security.md) | app.pullrequest.com | None | — | 24 |
+| 1896 | [1835133](../reports/1835133.md) | S3 Bucket Takeover  "brave-browser-rpm-staging-release- | [Brave Software](../by-program/brave.md) | brave.com | None | — | 24 |
+| 1897 | [1107536](../reports/1107536.md) | Blind Based SQL Injection in 3d.sc.money | [CS Money](../by-program/cs_money.md) | 3d.cs.money | None | — | 23 |
+| 1898 | [284807](../reports/284807.md) | i am The bug | [Gratipay](../by-program/gratipay.md) | https://gratipay.com | None | — | 23 |
+| 1899 | [1027873](../reports/1027873.md) | Ability to potentially hit internal NGINX locations on  | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | None | — | 22 |
+| 1900 | [291531](../reports/291531.md) | Introspection query leaks sensitive graphql system info | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 22 |
+| 1901 | [985367](../reports/985367.md) | weak password poilicy in signup password leak to accoun | [Stripo Inc](../by-program/stripo.md) | my.stripo.email | None | — | 22 |
+| 1902 | [708917](../reports/708917.md) | Rate Limit Misconfiguration on tumblr login . | [Automattic](../by-program/automattic.md) | www.tumblr.com | None | — | 21 |
+| 1903 | [2528919](../reports/2528919.md) | 2FA requirement bypass when claiming bounty  | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 21 |
+| 1904 | [2068830](../reports/2068830.md) | HackerOne Support System Doesn't Require Any Authentica | [HackerOne](../by-program/security.md) | support.hackerone.com | None | — | 20 |
+| 1905 | [1691888](../reports/1691888.md) | Firebase credentials leak | [MTN Group](../by-program/mtn_group.md) | mtnonline.com | None | — | 20 |
+| 1906 | [173043](../reports/173043.md) | Bypassing "You've requested your data the maximum numbe | [Snapchat](../by-program/snapchat.md) | accounts.snapchat.com | None | — | 20 |
+| 1907 | [269467](../reports/269467.md) | Banner Grabbing - Apache Server Version Disclousure | [ownCloud](../by-program/owncloud.md) | marketplace.owncloud.com | None | — | 19 |
+| 1908 | [386596](../reports/386596.md) | Email Not Completely Deleted after Deleting an account | [Semmle](../by-program/semmle.md) | lgtm-com.pentesting.semmle.net | None | — | 18 |
+| 1909 | [357576](../reports/357576.md) | Exposing hackerone users personally identifiable inform | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 18 |
+| 1910 | [2109382](../reports/2109382.md) | Support Tickets can be created on behalf of other users | [HackerOne](../by-program/security.md) | support.hackerone.com | None | — | 18 |
+| 1911 | [762883](../reports/762883.md) | Free food bug done by burp suite | [Eternal](../by-program/eternal.md) | www.zomatobook.com | None | — | 17 |
+| 1912 | [283361](../reports/283361.md) | Private partial disclosure of h1 infrastructure  | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 17 |
+| 1913 | [410245](../reports/410245.md) | Missing Certificate Authority Authorization rule | [HackerOne](../by-program/security.md) | https://ctf.hacker101.com | None | — | 17 |
+| 1914 | [260938](../reports/260938.md) | Homograph IDNs displayed in Description | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 17 |
+| 1915 | [854299](../reports/854299.md) | Self XSS in Timeline  | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | None | — | 16 |
+| 1916 | [316290](../reports/316290.md) | Prepopulation of email address and name leaks informati | [Coinbase](../by-program/coinbase.md) | *.coinbase.com | None | — | 16 |
+| 1917 | [315865](../reports/315865.md) | Stored CSS Injection | [Coinbase](../by-program/coinbase.md) | *.coinbase.com | None | — | 15 |
+| 1918 | [503300](../reports/503300.md) | █████████ on CRM server without authorization | [Unikrn](../by-program/unikrn.md) | crm.unikrn.com | None | — | 15 |
+| 1919 | [281950](../reports/281950.md) | Internal Ports Scanning via Blind SSRF | [Infogram](../by-program/infogram.md) | infogram.com | None | — | 14 |
+| 1920 | [1305766](../reports/1305766.md) | There is no rate limit for SME REGISTRATION PORTAL | [MTN Group](../by-program/mtn_group.md) | mtngbissau.com | None | — | 14 |
+| 1921 | [157750](../reports/157750.md) | Missing rate limit on critical user actions e.g. reset  | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 14 |
+| 1922 | [1630073](../reports/1630073.md) | Host Header Injection Attack - www.xnxx.com | [XVIDEOS](../by-program/xvideos.md) | www.xnxx.com | None | — | 14 |
+| 1923 | [622937](../reports/622937.md) | Private ip leaking through response | [Urban Company](../by-program/urbancompany.md) | www.urbancompany.com | None | — | 14 |
+| 1924 | [776699](../reports/776699.md) | [h1-415 2020] Solution for h1415's CTF challenge | [h1-ctf](../by-program/h1-ctf.md) | h1-415.h1ctf.com | None | — | 13 |
+| 1925 | [264101](../reports/264101.md) | design issue exists on login page  | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 13 |
+| 1926 | [260604](../reports/260604.md) | Update any profile | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 13 |
+| 1927 | [260278](../reports/260278.md) | TabNabbing issue (due to taget=_blank) | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 13 |
+| 1928 | [263743](../reports/263743.md) | I cant login to my account | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 12 |
+| 1929 | [253926](../reports/253926.md) | DKIM records not present, Email Hijacking is possible.. | [Weblate](../by-program/weblate.md) | hosted.weblate.org | None | — | 12 |
+| 1930 | [1395068](../reports/1395068.md) | The response shows the nginx version | [Judge.me ](../by-program/judgeme.md) | cache.judge.me | None | — | 12 |
+| 1931 | [276427](../reports/276427.md) | Legal Robot | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot-test.com | None | — | 12 |
+| 1932 | [1723445](../reports/1723445.md) | No rate limiting for Remove Account lead to huge Mass m | [Weblate](../by-program/weblate.md) | hosted.weblate.org | None | — | 12 |
+| 1933 | [504507](../reports/504507.md) | Domain does not Match SSL Certificate | [Urban Dictionary](../by-program/urbandictionary.md) | urbandictionary.net | None | — | 11 |
+| 1934 | [277078](../reports/277078.md) | Goodhire Open Redirect | [Inflection](../by-program/inflection.md) | app.goodhire.com | None | — | 11 |
+| 1935 | [411920](../reports/411920.md) | Leaking Username and Password in the URLs via Virustota | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | None | — | 11 |
+| 1936 | [965510](../reports/965510.md) | Password protection can be removed for newly created de | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | None | — | 11 |
+| 1937 | [284811](../reports/284811.md) | Reflected SQL Execution | [Gratipay](../by-program/gratipay.md) | https://gratipay.com | None | — | 11 |
+| 1938 | [402671](../reports/402671.md) | HTTPS is not validating TLS mac codes | [X / xAI](../by-program/x.md) | twitterflightschool.com | None | — | 11 |
+| 1939 | [1058135](../reports/1058135.md) | Developer Mistake | [MTN Group](../by-program/mtn_group.md) | mtn.cm | None | — | 11 |
+| 1940 | [1337425](../reports/1337425.md) | No Rate Limit On Regenerate Password on Portswigger | [PortSwigger Web Security](../by-program/portswigger.md) | portswigger.net | None | — | 11 |
+| 1941 | [265931](../reports/265931.md) | Logic issue in email change process | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 11 |
+| 1942 | [1209098](../reports/1209098.md) |  XSS | [Reddit](../by-program/reddit.md) | www.reddit.com | None | — | 10 |
+| 1943 | [1039805](../reports/1039805.md) | Clickjacking URLS | [Nextcloud](../by-program/nextcloud.md) | pushfeed.nextcloud.com | None | — | 10 |
+| 1944 | [1504294](../reports/1504294.md) | Impersonation of tiktok account via Broken Link in TikT | [TikTok](../by-program/tiktok.md) | *.tiktok.com | None | — | 10 |
+| 1945 | [268629](../reports/268629.md) | Failed OutLink on Terms of Service | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot-test.com | None | — | 10 |
+| 1946 | [1815463](../reports/1815463.md) | oauth misconfigration lead to account takeover | [Reddit](../by-program/reddit.md) | accounts.reddit.com | None | — | 10 |
+| 1947 | [260632](../reports/260632.md) | Improper validation of parameters while creating issues | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 10 |
+| 1948 | [173251](../reports/173251.md) | Password Reset emails missing TLS leads account takeove | [RubyGems](../by-program/rubygems.md) | rubygems.org | None | — | 9 |
+| 1949 | [283847](../reports/283847.md) | GraphQL sessions aren't immediately invalidated when us | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 9 |
+| 1950 | [255679](../reports/255679.md) | Change password logic inversion | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 9 |
+| 1951 | [263913](../reports/263913.md) | Content injection via URL parameter. | [GSA Bounty](../by-program/gsa_bbp.md) | labs.data.gov | None | — | 9 |
+| 1952 | [860197](../reports/860197.md) | A staff without export customers permissions can still  | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | None | — | 9 |
+| 1953 | [1995595](../reports/1995595.md) | Response Manipulation to enable Account recovery key wi | [Mozilla](../by-program/mozilla.md) | accounts.firefox.com | None | — | 9 |
+| 1954 | [54641](../reports/54641.md) | Captcha Bypass in Snapchat's Geofilter Submission Proce | [Snapchat](../by-program/snapchat.md) | geofilters.snapchat.com | None | — | 9 |
+| 1955 | [1408745](../reports/1408745.md) | CSRF on delete friend requests - Not protected with CSR | [XVIDEOS](../by-program/xvideos.md) | www.xvideos.com | None | — | 9 |
+| 1956 | [260468](../reports/260468.md) | first name and last name restrictions bypass | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 9 |
+| 1957 | [460514](../reports/460514.md) | Server Header disclose The Os and Web server Version  | [RATELIMITED](../by-program/ratelimited.md) | theendlessweb.com | None | — | 9 |
+| 1958 | [1017576](../reports/1017576.md) | Order lookup features of Shopify Chat Application leads | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | None | — | 8 |
+| 1959 | [292636](../reports/292636.md) | session_id is not being validated at email invitation e | [Unikrn](../by-program/unikrn.md) | unikrn.com | None | — | 8 |
+| 1960 | [1238749](../reports/1238749.md) | No rate Limit on Add new Translation Project  | [Weblate](../by-program/weblate.md) | hosted.weblate.org | None | — | 8 |
+| 1961 | [874574](../reports/874574.md) | Partner's non-verified business email change reflected  | [Shopify](../by-program/shopify.md) | partners.shopify.com | None | — | 8 |
+| 1962 | [257376](../reports/257376.md) | Missing Restriction On String Size | [Weblate](../by-program/weblate.md) | hosted.weblate.org | None | — | 8 |
+| 1963 | [269288](../reports/269288.md) | External links to be in HTTP | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot.com | None | — | 8 |
+| 1964 | [283309](../reports/283309.md) | Private Program all members disclosed  | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 8 |
+| 1965 | [277377](../reports/277377.md) | Amount Manipulation Buy Unlimited Credits in just $1.00 | [Inflection](../by-program/inflection.md) | app.goodhire.com | None | — | 7 |
+| 1966 | [255474](../reports/255474.md) | Profile fields validation bypass | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 7 |
+| 1967 | [783852](../reports/783852.md) | Nginx version is disclosed in HTTP response | [Localize](../by-program/localizejs.md) | localizestaging.com | None | — | 7 |
+| 1968 | [1607645](../reports/1607645.md) | Add me email address Authentication bypass | [LinkedIn](../by-program/linkedin.md) | www.linkedin.com | None | — | 7 |
+| 1969 | [507012](../reports/507012.md) | bypass Claudflare access crm.mautic.com | [Unikrn](../by-program/unikrn.md) | crm.unikrn.com | None | — | 7 |
+| 1970 | [280914](../reports/280914.md) | Business Logic Flaw allowing Privilege Escalation | [Inflection](../by-program/inflection.md) | app.goodhire.com | None | — | 7 |
+| 1971 | [765227](../reports/765227.md) | Potential Open-Redirection | [Ian Dunn](../by-program/iandunn-projects.md) | iandunn.name | None | — | 7 |
+| 1972 | [378209](../reports/378209.md) | Ajouter le même utilisateur que celui déjà inscrit dans | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 7 |
+| 1973 | [263736](../reports/263736.md) | Email Spoofing - SPF record set to Neutral | [GSA Bounty](../by-program/gsa_bbp.md) | federalist-proxy.app.cloud.gov | None | — | 7 |
+| 1974 | [343928](../reports/343928.md) | Session Cookie Without Secure Flag  | [Ed](../by-program/ed.md) | git.edoverflow.com | None | — | 7 |
+| 1975 | [271253](../reports/271253.md) | NextCloud is also Accepting OCTET-STREAM Type of Docume | [Nextcloud](../by-program/nextcloud.md) | auth.nextcloud.com | None | — | 7 |
+| 1976 | [265930](../reports/265930.md) | No notification of change email feature | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 6 |
+| 1977 | [1131887](../reports/1131887.md) | CSV injection in the credentials export | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 6 |
+| 1978 | [260299](../reports/260299.md) | observer.com URL should HTTPS | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot-test.com | None | — | 6 |
+| 1979 | [264934](../reports/264934.md) |  Application allowing old password to be set as new pas | [Weblate](../by-program/weblate.md) | hosted.weblate.org | None | — | 6 |
+| 1980 | [283825](../reports/283825.md) | Multiple xss on infogram templates | [Infogram](../by-program/infogram.md) | infogram.com | None | — | 6 |
+| 1981 | [268981](../reports/268981.md) | Missing homograph filter character | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 5 |
+| 1982 | [259415](../reports/259415.md) | Lengthy manual entry of 2FA secret | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 5 |
+| 1983 | [855304](../reports/855304.md) | No set limit to try to login in "https://auth.nextcloud | [Nextcloud](../by-program/nextcloud.md) | auth.nextcloud.com | None | — | 5 |
+| 1984 | [282535](../reports/282535.md) | XSS on Report Classic | [Infogram](../by-program/infogram.md) | infogram.com | None | — | 5 |
+| 1985 | [264405](../reports/264405.md) | Header Injection In app.legalrobot.com | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 5 |
+| 1986 | [269449](../reports/269449.md) | Banner Grabbing - Apache Server Version Disclousure | [Nextcloud](../by-program/nextcloud.md) | customerupdates.nextcloud.com | None | — | 5 |
+| 1987 | [474963](../reports/474963.md) | Missing Two Factor Authentication in /admin/login | [CFP Time](../by-program/cfptime.md) | www.cfptime.org | None | — | 5 |
+| 1988 | [282363](../reports/282363.md) | Outdated jQuery Version | [Infogram](../by-program/infogram.md) | infogram.com | None | — | 5 |
+| 1989 | [259416](../reports/259416.md) | Incorrect email content when disabling 2FA | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 5 |
+| 1990 | [1252155](../reports/1252155.md) | HTML INJECTION  (STORED) | [Judge.me ](../by-program/judgeme.md) | judge.me | None | — | 5 |
+| 1991 | [775531](../reports/775531.md) | No valid SPF record found | [Kubernetes](../by-program/kubernetes.md) | prow.k8s.io | None | — | 5 |
+| 1992 | [255100](../reports/255100.md) | No error or notification on Reset password page | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 5 |
+| 1993 | [371550](../reports/371550.md) | xmlrpc.php FILE IS enable on Main website | [Ian Dunn](../by-program/iandunn-projects.md) | iandunn.name | None | — | 5 |
+| 1994 | [260648](../reports/260648.md) | CSP script-src includes "unsafe-inline" | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 5 |
+| 1995 | [260941](../reports/260941.md) | UX: JS error on Password Safety link | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 5 |
+| 1996 | [265987](../reports/265987.md) | Add another email address without verification | [Weblate](../by-program/weblate.md) | hosted.weblate.org | None | — | 5 |
+| 1997 | [259400](../reports/259400.md) | Issues with Forgot password Error Handling  | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 5 |
+| 1998 | [277354](../reports/277354.md) | HTTP Host Header Injection on app.goodhire.com | [Inflection](../by-program/inflection.md) | app.goodhire.com | None | — | 5 |
+| 1999 | [3628961](../reports/3628961.md) | admin.shopify.com: Shopify Flow continues sending inter | [Shopify](../by-program/shopify.md) | admin.shopify.com | None | — | 5 |
+| 2000 | [343095](../reports/343095.md) | Session Cookie Without Secure Flag, | [Ed](../by-program/ed.md) | git.edoverflow.com | None | — | 5 |
+| 2001 | [1167029](../reports/1167029.md) | Broken Authendication And Session Management | [Reddit](../by-program/reddit.md) | www.reddit.com | None | — | 5 |
+| 2002 | [260491](../reports/260491.md) | 2FA manual entry uses wrong encoding | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 5 |
+| 2003 | [937921](../reports/937921.md) | app.lemlist.com : Admin Panel Access | [lemlist](../by-program/lemlist.md) | app.lemlist.com | None | — | 5 |
+| 2004 | [278718](../reports/278718.md) | Improper validation of unicode characters  | [Weblate](../by-program/weblate.md) | hosted.weblate.org | None | — | 4 |
+| 2005 | [832593](../reports/832593.md) | Clickjacking | [Kubernetes](../by-program/kubernetes.md) | kubernetes.io | None | — | 4 |
+| 2006 | [348801](../reports/348801.md) | Banner Grabbing - Apache Server Version Disclosure | [Nextcloud](../by-program/nextcloud.md) | customerupdates.nextcloud.com | None | — | 4 |
+| 2007 | [415350](../reports/415350.md) | Missing CSRF Protection in  /stats EndPoint. | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | None | — | 4 |
+| 2008 | [276244](../reports/276244.md) | Broken links for stale domains may be leveraged for Phi | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot.com | None | — | 4 |
+| 2009 | [262109](../reports/262109.md) | UX: JS error on Password Safety link | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 4 |
+| 2010 | [267356](../reports/267356.md) | Autocomplete feature  | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 4 |
+| 2011 | [260662](../reports/260662.md) | No length limit in invite_code can cause server degrada | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 4 |
+| 2012 | [1036995](../reports/1036995.md) | HTML injection in review content | [Judge.me ](../by-program/judgeme.md) | judge.me | None | — | 4 |
+| 2013 | [300301](../reports/300301.md) | [unikrn.com] Profile updated with error":true,"success" | [Unikrn](../by-program/unikrn.md) | unikrn.com | None | — | 4 |
+| 2014 | [277192](../reports/277192.md) | Host Header Injection and Cache Poisoning | [Inflection](../by-program/inflection.md) | app.goodhire.com | None | — | 4 |
+| 2015 | [265749](../reports/265749.md) | Bypass email verification when register new account | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 4 |
+| 2016 | [409973](../reports/409973.md) | Some store settings/data are accessible to "No Access"  | [Shopify](../by-program/shopify.md) | your-store.myshopify.com | None | — | 4 |
+| 2017 | [255481](../reports/255481.md) | app.legalrobot.com opens FireFox but not in FireFox ESR | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 4 |
+| 2018 | [1065830](../reports/1065830.md) | Error Page Text Injection (no compromise) | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | hack.whocoronavirus.org | None | — | 4 |
+| 2019 | [281274](../reports/281274.md) | Non-HTTPS link on blog | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot-test.com | None | — | 3 |
+| 2020 | [288846](../reports/288846.md) | Bruteforcing Coupons | [Infogram](../by-program/infogram.md) | infogram.com | None | — | 3 |
+| 2021 | [919112](../reports/919112.md) | Authenticity token doesnt expire after single use leadi | [Omise](../by-program/omise.md) | dashboard.omise.co | None | — | 3 |
+| 2022 | [801973](../reports/801973.md) | Email notification about login email changed is not rec | [GitLab](../by-program/gitlab.md) | gitlab.com | None | — | 3 |
+| 2023 | [326697](../reports/326697.md) | HTML Injection on https://www.mycrypto.com/ | [MyCrypto](../by-program/mycrypto.md) | www.mycrypto.com | None | — | 3 |
+| 2024 | [273647](../reports/273647.md) | Adding Used Primary Email Address to attacker account a | [Gratipay](../by-program/gratipay.md) | https://gratipay.com | None | — | 3 |
+| 2025 | [294568](../reports/294568.md) | Information Disclosure - Composer.lock | [RBKmoney](../by-program/rbkmoney.md) | rbkmoney.com | None | — | 3 |
+| 2026 | [369979](../reports/369979.md) | Missing X-Content-Type-Options  | [Nextcloud](../by-program/nextcloud.md) | download.nextcloud.com | None | — | 3 |
+| 2027 | [918243](../reports/918243.md) | Fake email from <any_name>@kubernetes.io to any other e | [Kubernetes](../by-program/kubernetes.md) | kubernetes.io | None | — | 3 |
+| 2028 | [1004847](../reports/1004847.md) | SSRF Possible through /wordpress/xmlrpc.php | [Ian Dunn](../by-program/iandunn-projects.md) | iandunn.name | None | — | 3 |
+| 2029 | [561805](../reports/561805.md) | W3 Total Cache plugin multiple vulnerabilities | [Nextcloud](../by-program/nextcloud.md) | nextcloud.com | None | — | 3 |
+| 2030 | [263728](../reports/263728.md) | Password Complexity  | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot-test.com | None | — | 3 |
+| 2031 | [279945](../reports/279945.md) | Improper validation of unicode characters#2 | [Weblate](../by-program/weblate.md) | hosted.weblate.org | None | — | 3 |
+| 2032 | [283482](../reports/283482.md) | Login Cross Site Request Forgery  | [Infogram](../by-program/infogram.md) | infogram.com | None | — | 3 |
+| 2033 | [262088](../reports/262088.md) | Show hide privacy giving receiving on my website  | [Gratipay](../by-program/gratipay.md) | https://gratipay.com | None | — | 3 |
+| 2034 | [281449](../reports/281449.md) | Limited Account Takeover via Backup codes  | [Inflection](../by-program/inflection.md) | www.identity.com | None | — | 3 |
+| 2035 | [374053](../reports/374053.md) | Accessing to download.nextcloud.com from original ip ad | [Nextcloud](../by-program/nextcloud.md) | download.nextcloud.com | None | — | 2 |
+| 2036 | [275293](../reports/275293.md) | Pending member invitations are not revoked on program n | [HackerOne](../by-program/security.md) | hackerone.com | None | — | 2 |
+| 2037 | [1182824](../reports/1182824.md) | Vulnerability Name: URL Redirection / Unvalidate Open R | [Reddit](../by-program/reddit.md) | www.reddit.com | None | — | 2 |
+| 2038 | [299034](../reports/299034.md) | Text manipulation in https://checkout.rbk.money | [RBKmoney](../by-program/rbkmoney.md) | checkout.rbk.money | None | — | 2 |
+| 2039 | [263733](../reports/263733.md) | Email Spoofing - SPF record set to Neutral | [GSA Bounty](../by-program/gsa_bbp.md) | federalist.18f.gov | None | — | 2 |
+| 2040 | [263846](../reports/263846.md) | Registration Allows Disposable Email Addresses | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 2 |
+| 2041 | [256649](../reports/256649.md) | Mixed Content over HTTPS | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot.com | None | — | 2 |
+| 2042 | [1696814](../reports/1696814.md) | No Restriction on password | [GitLab](../by-program/gitlab.md) | gitlab.com | None | — | 2 |
+| 2043 | [267867](../reports/267867.md) | Logout CSRF | [delight.im](../by-program/delight_im.md) | www.moviecontentfilter.com | None | — | 2 |
+| 2044 | [272982](../reports/272982.md) | Information leakage on django.aspen.io | [Aspen](../by-program/aspen.md) | django.aspen.io | None | — | 2 |
+| 2045 | [283951](../reports/283951.md) | Bypassing X-frame options  | [Gratipay](../by-program/gratipay.md) | https://gratipay.com | None | — | 2 |
+| 2046 | [1243009](../reports/1243009.md) | No Password Length Restriction leads to Denial of Servi | [Reddit](../by-program/reddit.md) | www.reddit.com | None | — | 2 |
+| 2047 | [255125](../reports/255125.md) | Null Byte Injection in all fields of Profile | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 2 |
+| 2048 | [274324](../reports/274324.md) | cross site web socket hijacking | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 2 |
+| 2049 | [769716](../reports/769716.md) | xmlrpc.php FILE IS enable it can be used for conducting | [Ian Dunn](../by-program/iandunn-projects.md) | iandunn.name | None | — | 1 |
+| 2050 | [775123](../reports/775123.md) | Sensitive Information disclosure Through Config File | [Kubernetes](../by-program/kubernetes.md) | prow.k8s.io | None | — | 1 |
+| 2051 | [277431](../reports/277431.md) | XSS on app.legalrobot.com | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 1 |
+| 2052 | [774872](../reports/774872.md) | Configuartion [Sensitive] Information Disclosure | [Kubernetes](../by-program/kubernetes.md) | prow.k8s.io | None | — | 1 |
+| 2053 | [279070](../reports/279070.md) | Chat exposed using cookie | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 1 |
+| 2054 | [864696](../reports/864696.md) | There is any issue No valid SPF Records | [Kubernetes](../by-program/kubernetes.md) | kubernetes.io | None | — | 1 |
+| 2055 | [282843](../reports/282843.md) | UnResolved ChangeSet are Visible to Public That also Ca | [WordPress](../by-program/wordpress.md) | irclogs.wordpress.org | None | — | 1 |
+| 2056 | [260689](../reports/260689.md) | Weak Cryptography for Passwords | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 1 |
+| 2057 | [908880](../reports/908880.md) | Private IP addresses Disclosure | [Kubernetes](../by-program/kubernetes.md) | kubernetes.io | None | — | 1 |
+| 2058 | [260316](../reports/260316.md) | Profile fields validation mismatch | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 1 |
+| 2059 | [263196](../reports/263196.md) | Name can't be numbers or email | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot.com | None | — | 1 |
+| 2060 | [267212](../reports/267212.md) | 400 Bad Request [Use a third-party provider to sign in  | [Gratipay](../by-program/gratipay.md) | https://gratipay.com | None | — | 1 |
+| 2061 | [257331](../reports/257331.md) | Sub domain take over in gratipay.com | [Gratipay](../by-program/gratipay.md) | https://gratipay.com | None | — | 1 |
+| 2062 | [257384](../reports/257384.md) | No rate limit or captcha to identify humans | [Weblate](../by-program/weblate.md) | hosted.weblate.org | None | — | 1 |
+| 2063 | [662155](../reports/662155.md) | Clickjacking on https://download.nextcloud.com/ | [Nextcloud](../by-program/nextcloud.md) | download.nextcloud.com | None | — | 1 |
+| 2064 | [1166770](../reports/1166770.md) | Content Spoofing/Text Injection at https://gateway-prod | [Reddit](../by-program/reddit.md) | gateway-production.dubsmash.com | None | — | 1 |
+| 2065 | [283502](../reports/283502.md) | XST(Cross Site Tracing) | [Inflection](../by-program/inflection.md) | checks.identity.com | None | — | 1 |
+| 2066 | [658011](../reports/658011.md) | Clickjacking on https://download.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | download.nextcloud.com | None | — | 1 |
+| 2067 | [388215](../reports/388215.md) | Internal loop going to infinite for cb.setTimeout(func, | [Chaturbate](../by-program/chaturbate.md) | chaturbate.com | None | — | 1 |
+| 2068 | [277213](../reports/277213.md) | Two accounts can be made with same password | [Legal Robot](../by-program/legalrobot.md) | www.legalrobot.com | None | — | 1 |
+| 2069 | [777279](../reports/777279.md) | xmlrpc.php FILE IS enable it will used for Bruteforce a | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | blog.makerdao.com | None | — | 1 |
+| 2070 | [957557](../reports/957557.md) | Failure to Invalid Session after Password Change | [Rockset](../by-program/rockset.md) | console.rockset.com | None | — | 0 |
+| 2071 | [254869](../reports/254869.md) | Device confirmation Flaw | [Coinbase](../by-program/coinbase.md) | *.coinbase.com | None | — | 0 |
+| 2072 | [260838](../reports/260838.md) | Special characters are not filtered out on profile fiel | [Legal Robot](../by-program/legalrobot.md) | app.legalrobot.com | None | — | 0 |
+| 2073 | [777274](../reports/777274.md) | DoS of https://blog.makerdao.com/ via CVE-2018-6389 | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | blog.makerdao.com | None | — | 0 |
+| 2074 | [290889](../reports/290889.md) | Session does't get expired after changing the password  | [Aspen](../by-program/aspen.md) | aspen.io | None | — | 0 |
