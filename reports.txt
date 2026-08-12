@@ -8571,6 +8571,8 @@ https://hackerone.com/reports/1977258 | Stored XSS in RDoc hyperlinks through ja
 https://hackerone.com/reports/1978882 | User scoped external storage can be used to gather credentials of other users
 https://hackerone.com/reports/1979372 | Privilege escalation to root in Pages build image v2
 https://hackerone.com/reports/1981441 | Dynamic fee algorithm doesn't check for zero fee
+https://hackerone.com/reports/1982099 | DOM-XSS
+https://hackerone.com/reports/1982630 | CVE-2023-29489 XSS in cpanel at [www.███] - Securado, Oman
 https://hackerone.com/reports/1984060 | After the upload of an private file, using transformations, the file becomes public without the possibility of changing it.
 https://hackerone.com/reports/1987011 | [Hubs] - Broken access control in placing objects in hubs room
 https://hackerone.com/reports/1987062 | Password reset endpoint is not brute force protected
