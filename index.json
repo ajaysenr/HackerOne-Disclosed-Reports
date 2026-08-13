@@ -156893,6 +156893,46 @@
     "votes": 47
   },
   {
+    "id": 1982099,
+    "url": "https://hackerone.com/reports/1982099",
+    "title": "DOM-XSS",
+    "program": "U.S. Dept Of Defense",
+    "program_handle": "deptofdefense",
+    "reporter": "medokll0011",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Cross-site Scripting (XSS) - DOM",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2013-5968"
+    ],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-05-10",
+    "disclosed_at": "2023-06-02",
+    "votes": 8
+  },
+  {
+    "id": 1982630,
+    "url": "https://hackerone.com/reports/1982630",
+    "title": "CVE-2023-29489 XSS in cpanel at [www.\u2588\u2588\u2588] - Securado, Oman",
+    "program": "U.S. Dept Of Defense",
+    "program_handle": "deptofdefense",
+    "reporter": "rook1337",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Cross-site Scripting (XSS) - Reflected",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-29489"
+    ],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-05-10",
+    "disclosed_at": "2023-06-09",
+    "votes": 58
+  },
+  {
     "id": 1984060,
     "url": "https://hackerone.com/reports/1984060",
     "title": "After the upload of an private file, using transformations, the file becomes public without the possibility of changing it.",
@@ -182090,6 +182130,24 @@
     "votes": 4
   },
   {
+    "id": 3837634,
+    "url": "https://hackerone.com/reports/3837634",
+    "title": "JaaS SIP Gateway Authorization Bypass",
+    "program": "8x8",
+    "program_handle": "8x8-bounty",
+    "reporter": "offseq",
+    "severity": "medium",
+    "cvss": 5.8,
+    "weakness": "Missing Authorization",
+    "bounty": 500.0,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "WILDCARD",
+    "reported_at": "2026-07-02",
+    "disclosed_at": "2026-08-12",
+    "votes": 10
+  },
+  {
     "id": 3838601,
     "url": "https://hackerone.com/reports/3838601",
     "title": "Permission Model Bypass: `trace_events.createTracing().enable()` Writes Trace Logs Outside `--allow-fs-write`",
@@ -182200,5 +182258,23 @@
     "reported_at": "2026-08-07",
     "disclosed_at": "2026-08-07",
     "votes": 0
+  },
+  {
+    "id": 3930957,
+    "url": "https://hackerone.com/reports/3930957",
+    "title": " Myndr CORS Misconfiguration",
+    "program": "Myndr",
+    "program_handle": "myndr",
+    "reporter": "hackwithshubh",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-08-11",
+    "disclosed_at": "2026-08-12",
+    "votes": 9
   }
 ]

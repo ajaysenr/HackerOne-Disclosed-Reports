@@ -9926,9 +9926,11 @@ https://hackerone.com/reports/3831345 | CURLSHOPT_UNSHARE race can cause UAF in 
 https://hackerone.com/reports/3831432 | setopt(VERIFYPEER) from callback bypasses TLS verify on connection reuse
 https://hackerone.com/reports/3832393 | libcurl upload read callbacks miss recursive API guard, allowing prohibited multi API reentry and ASAN-confirmed UAF
 https://hackerone.com/reports/3833577 | heap-use-after-free in curl_easy_cleanup() called from callback
+https://hackerone.com/reports/3837634 | JaaS SIP Gateway Authorization Bypass
 https://hackerone.com/reports/3838601 | Permission Model Bypass: `trace_events.createTracing().enable()` Writes Trace Logs Outside `--allow-fs-write`
 https://hackerone.com/reports/3878586 | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, hide_from_lists) and uses frozen visibility, exposing donat
 https://hackerone.com/reports/3911605 | SMTP CRLF injection in custom SMTP recipient operand allows additional SMTP commands after authentication
 https://hackerone.com/reports/3911968 | Heap use-after-free (write) in mev_forget_socket() via reentrant curl_easy_pause() — incomplete fix for CVE-2026-9080
 https://hackerone.com/reports/3917775 | curl Missing Sec-WebSocket-Accept Verification Enables MITM WebSocket Session Hijacking
 https://hackerone.com/reports/3923212 | URL API: triple-slash parses path segment as hostname
+https://hackerone.com/reports/3930957 | Myndr CORS Misconfiguration

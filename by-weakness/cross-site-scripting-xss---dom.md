@@ -1,4 +1,4 @@
-# Weakness: Cross-site Scripting (XSS) - DOM (90 reports)
+# Weakness: Cross-site Scripting (XSS) - DOM (91 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -74,23 +74,24 @@
 | 68 | [700726](../reports/700726.md) | Reflected XSS  on Lark Suite | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 4.7 | — | 10 |
 | 69 | [922496](../reports/922496.md) | DOM XSS on https://www.███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
 | 70 | [299924](../reports/299924.md) | DOM-based Cross-Site Scripting in redirect url checkout | [RBKmoney](../by-program/rbkmoney.md) | Medium | — | 8 |
-| 71 | [691977](../reports/691977.md) | [reveal.js] XSS by calling arbitrary method via postMessage | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.4 | — | 7 |
-| 72 | [2125679](../reports/2125679.md) | [CVE-2023-23913] DOM Based Cross-site Scripting in rails-ujs for  | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 5 |
-| 73 | [377264](../reports/377264.md) | █████ - DOM-based XSS | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
-| 74 | [499030](../reports/499030.md) | DOM Based XSS in www.hackerone.com via PostMessage (bypass of #39 | [HackerOne](../by-program/security.md) | Low — CVSS 3.1 | — | 105 |
-| 75 | [646505](../reports/646505.md) | ██████ DOM XSS via Shopify.API.remoteRedirect | [Shopify](../by-program/shopify.md) | Low | — | 76 |
-| 76 | [979204](../reports/979204.md) | XSS on https://partners.acronis.com/ | [Acronis](../by-program/acronis.md) | Low | — | 73 |
-| 77 | [341969](../reports/341969.md) | DOM XSS in edoverflow.com/tools/respond due to unsafe usage of th | [Ed](../by-program/ed.md) | Low | — | 28 |
-| 78 | [982442](../reports/982442.md) | XSS in https://promo.acronis.com/ | [Acronis](../by-program/acronis.md) | Low | — | 24 |
-| 79 | [241619](../reports/241619.md) | DOM-based XSS in store.starbucks.co.uk on IE 11 | [Starbucks](../by-program/starbucks.md) | Low — CVSS 2.4 | — | 17 |
-| 80 | [1736466](../reports/1736466.md) | HTML INJECTION FOUND ON https://adobedocs.github.io/analytics-1.4 | [Adobe](../by-program/adobe.md) | Low — CVSS 3.1 | — | 17 |
-| 81 | [576532](../reports/576532.md) | DOM XSS via Shopify.API.remoteRedirect | [Shopify](../by-program/shopify.md) | Low | — | 16 |
-| 82 | [892289](../reports/892289.md) | self-xss with ClickJacking can leads to account takeover in Firef | [Imgur](../by-program/imgur.md) | Low | — | 16 |
-| 83 | [879984](../reports/879984.md) | DOM-based XSS in d.miwifi.com on IE 11 | [Xiaomi](../by-program/xiaomi.md) | Low | — | 15 |
-| 84 | [938683](../reports/938683.md) | CVE-2019-19935 - DOM based XSS in the froala editor | [lemlist](../by-program/lemlist.md) | Low | — | 10 |
-| 85 | [248588](../reports/248588.md) | [wakatime.com] HTML Injection github-btn.html | [WakaTime](../by-program/wakatime.md) | Low | — | 9 |
-| 86 | [729341](../reports/729341.md) | Double linking cause XSS (but blokeced by CSP in gitlab.com) | [GitLab](../by-program/gitlab.md) | Low | — | 6 |
-| 87 | [894518](../reports/894518.md) | xss on polaris.shopify.com/demo using postMessage | [Shopify](../by-program/shopify.md) | Low | — | 5 |
-| 88 | [341908](../reports/341908.md) | XSS via Direct Message deeplinks | [X / xAI](../by-program/x.md) | None | — | 234 |
-| 89 | [1670187](../reports/1670187.md) | Cross Site Scripting Vulnerability in fabric-sdk-py source code  | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | None | — | 9 |
-| 90 | [363845](../reports/363845.md) | Cross site scripting (content-sniffing) | [Liberapay](../by-program/liberapay.md) | None | — | 2 |
+| 71 | [1982099](../reports/1982099.md) | DOM-XSS | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
+| 72 | [691977](../reports/691977.md) | [reveal.js] XSS by calling arbitrary method via postMessage | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.4 | — | 7 |
+| 73 | [2125679](../reports/2125679.md) | [CVE-2023-23913] DOM Based Cross-site Scripting in rails-ujs for  | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 5 |
+| 74 | [377264](../reports/377264.md) | █████ - DOM-based XSS | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
+| 75 | [499030](../reports/499030.md) | DOM Based XSS in www.hackerone.com via PostMessage (bypass of #39 | [HackerOne](../by-program/security.md) | Low — CVSS 3.1 | — | 105 |
+| 76 | [646505](../reports/646505.md) | ██████ DOM XSS via Shopify.API.remoteRedirect | [Shopify](../by-program/shopify.md) | Low | — | 76 |
+| 77 | [979204](../reports/979204.md) | XSS on https://partners.acronis.com/ | [Acronis](../by-program/acronis.md) | Low | — | 73 |
+| 78 | [341969](../reports/341969.md) | DOM XSS in edoverflow.com/tools/respond due to unsafe usage of th | [Ed](../by-program/ed.md) | Low | — | 28 |
+| 79 | [982442](../reports/982442.md) | XSS in https://promo.acronis.com/ | [Acronis](../by-program/acronis.md) | Low | — | 24 |
+| 80 | [241619](../reports/241619.md) | DOM-based XSS in store.starbucks.co.uk on IE 11 | [Starbucks](../by-program/starbucks.md) | Low — CVSS 2.4 | — | 17 |
+| 81 | [1736466](../reports/1736466.md) | HTML INJECTION FOUND ON https://adobedocs.github.io/analytics-1.4 | [Adobe](../by-program/adobe.md) | Low — CVSS 3.1 | — | 17 |
+| 82 | [576532](../reports/576532.md) | DOM XSS via Shopify.API.remoteRedirect | [Shopify](../by-program/shopify.md) | Low | — | 16 |
+| 83 | [892289](../reports/892289.md) | self-xss with ClickJacking can leads to account takeover in Firef | [Imgur](../by-program/imgur.md) | Low | — | 16 |
+| 84 | [879984](../reports/879984.md) | DOM-based XSS in d.miwifi.com on IE 11 | [Xiaomi](../by-program/xiaomi.md) | Low | — | 15 |
+| 85 | [938683](../reports/938683.md) | CVE-2019-19935 - DOM based XSS in the froala editor | [lemlist](../by-program/lemlist.md) | Low | — | 10 |
+| 86 | [248588](../reports/248588.md) | [wakatime.com] HTML Injection github-btn.html | [WakaTime](../by-program/wakatime.md) | Low | — | 9 |
+| 87 | [729341](../reports/729341.md) | Double linking cause XSS (but blokeced by CSP in gitlab.com) | [GitLab](../by-program/gitlab.md) | Low | — | 6 |
+| 88 | [894518](../reports/894518.md) | xss on polaris.shopify.com/demo using postMessage | [Shopify](../by-program/shopify.md) | Low | — | 5 |
+| 89 | [341908](../reports/341908.md) | XSS via Direct Message deeplinks | [X / xAI](../by-program/x.md) | None | — | 234 |
+| 90 | [1670187](../reports/1670187.md) | Cross Site Scripting Vulnerability in fabric-sdk-py source code  | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | None | — | 9 |
+| 91 | [363845](../reports/363845.md) | Cross site scripting (content-sniffing) | [Liberapay](../by-program/liberapay.md) | None | — | 2 |

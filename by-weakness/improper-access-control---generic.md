@@ -1,4 +1,4 @@
-# Weakness: Improper Access Control - Generic (561 reports)
+# Weakness: Improper Access Control - Generic (562 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -554,14 +554,15 @@
 | 548 | [860197](../reports/860197.md) | A staff without export customers permissions can still export cus | [Shopify](../by-program/shopify.md) | None | — | 9 |
 | 549 | [1995595](../reports/1995595.md) | Response Manipulation to enable Account recovery key with out cur | [Mozilla](../by-program/mozilla.md) | None | — | 9 |
 | 550 | [249337](../reports/249337.md) | Non-functional 2FA recovery codes | [Legal Robot](../by-program/legalrobot.md) | None | — | 9 |
-| 551 | [874574](../reports/874574.md) | Partner's non-verified business email change reflected into Shopi | [Shopify](../by-program/shopify.md) | None | — | 8 |
-| 552 | [1943117](../reports/1943117.md) | Cache purge requests are not authenticated | [Fastly VDP](../by-program/fastly-vdp.md) | None | — | 7 |
-| 553 | [229417](../reports/229417.md) | Design Flaw in session management of password reset  | [Weblate](../by-program/weblate.md) | None | — | 6 |
-| 554 | [894170](../reports/894170.md) | [H1-2006 2020] Writeup | [h1-ctf](../by-program/h1-ctf.md) | None | — | 5 |
-| 555 | [223846](../reports/223846.md) | Access to completion page without performing any action | [Weblate](../by-program/weblate.md) | None | — | 5 |
-| 556 | [265987](../reports/265987.md) | Add another email address without verification | [Weblate](../by-program/weblate.md) | None | — | 5 |
-| 557 | [1167029](../reports/1167029.md) | Broken Authendication And Session Management | [Reddit](../by-program/reddit.md) | None | — | 5 |
-| 558 | [937921](../reports/937921.md) | app.lemlist.com : Admin Panel Access | [lemlist](../by-program/lemlist.md) | None | — | 5 |
-| 559 | [461345](../reports/461345.md) | Security issue: Github repo's wiki publicly editable | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 3 |
-| 560 | [889333](../reports/889333.md) | [H1-2006 2020]  The Story of Making Bounty Hunters Happy | [h1-ctf](../by-program/h1-ctf.md) | None | — | 3 |
-| 561 | [475114](../reports/475114.md) | Github repo's wiki publicly editable | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
+| 551 | [3930957](../reports/3930957.md) |  Myndr CORS Misconfiguration | [Myndr](../by-program/myndr.md) | None | — | 9 |
+| 552 | [874574](../reports/874574.md) | Partner's non-verified business email change reflected into Shopi | [Shopify](../by-program/shopify.md) | None | — | 8 |
+| 553 | [1943117](../reports/1943117.md) | Cache purge requests are not authenticated | [Fastly VDP](../by-program/fastly-vdp.md) | None | — | 7 |
+| 554 | [229417](../reports/229417.md) | Design Flaw in session management of password reset  | [Weblate](../by-program/weblate.md) | None | — | 6 |
+| 555 | [894170](../reports/894170.md) | [H1-2006 2020] Writeup | [h1-ctf](../by-program/h1-ctf.md) | None | — | 5 |
+| 556 | [223846](../reports/223846.md) | Access to completion page without performing any action | [Weblate](../by-program/weblate.md) | None | — | 5 |
+| 557 | [265987](../reports/265987.md) | Add another email address without verification | [Weblate](../by-program/weblate.md) | None | — | 5 |
+| 558 | [1167029](../reports/1167029.md) | Broken Authendication And Session Management | [Reddit](../by-program/reddit.md) | None | — | 5 |
+| 559 | [937921](../reports/937921.md) | app.lemlist.com : Admin Panel Access | [lemlist](../by-program/lemlist.md) | None | — | 5 |
+| 560 | [461345](../reports/461345.md) | Security issue: Github repo's wiki publicly editable | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 3 |
+| 561 | [889333](../reports/889333.md) | [H1-2006 2020]  The Story of Making Bounty Hunters Happy | [h1-ctf](../by-program/h1-ctf.md) | None | — | 3 |
+| 562 | [475114](../reports/475114.md) | Github repo's wiki publicly editable | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
