@@ -8580,9 +8580,12 @@ https://hackerone.com/reports/1987172 | Stored XSS on  wordpress.com
 https://hackerone.com/reports/1987680 | Leaking VPN traffic through non-RFC1918 local IP addresses
 https://hackerone.com/reports/1987687 | Leakage of traffic in plaintext towards the IP address of VPN server
 https://hackerone.com/reports/1988560 | Reflected xss on https://█████████
+https://hackerone.com/reports/1989884 | Docker Registry without authentication leads to docker images download
 https://hackerone.com/reports/1989901 | If rate limit is hit, IP address is leaked to anyone who tries to login
+https://hackerone.com/reports/1990338 | Leaks of username and password leads to CVE-2018-18862 exploitation
 https://hackerone.com/reports/1990421 |  CVE-2023-28320 - siglongjmp race condition
 https://hackerone.com/reports/1990443 | Federated share permissions can be increased by recipient
+https://hackerone.com/reports/1991290 | Endpoint Redirects to Admin Page and Provides Admin role
 https://hackerone.com/reports/1991376 | the domain is truck-admin.eu-east-1.indriverapp.com and Enter the management system of the blasting mobile phone verification code
 https://hackerone.com/reports/1991427 | CVE-2023-28321: IDN wildcard match
 https://hackerone.com/reports/1991428 | CVE-2023-28322: more POST-after-PUT confusion
