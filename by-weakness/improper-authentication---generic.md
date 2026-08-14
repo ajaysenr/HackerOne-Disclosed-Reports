@@ -1,4 +1,4 @@
-# Weakness: Improper Authentication - Generic (542 reports)
+# Weakness: Improper Authentication - Generic (543 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -72,16 +72,16 @@
 | 66 | [100938](../reports/100938.md) | An administrator without any permission is able to get order noti | [Shopify](../by-program/shopify.md) | None | $500 | 10 |
 | 67 | [55530](../reports/55530.md) | Authentication Failed Mobile version | [Shopify](../by-program/shopify.md) | None | $500 | 8 |
 | 68 | [209251](../reports/209251.md) | public report - Reproducible - Writable RubyCi Amazon s3 bucket[2 | [Ruby](../by-program/ruby.md) | None | $500 | 7 |
-| 69 | [106084](../reports/106084.md) | Team Member███ associated with a Custom Group Created with 'Progr | [HackerOne](../by-program/security.md) | None | $500 | 7 |
-| 70 | [75556](../reports/75556.md) | Accessing title of the report of which you are marked as duplicat | [HackerOne](../by-program/security.md) | None | $500 | 7 |
+| 69 | [75556](../reports/75556.md) | Accessing title of the report of which you are marked as duplicat | [HackerOne](../by-program/security.md) | None | $500 | 7 |
+| 70 | [106084](../reports/106084.md) | Team Member███ associated with a Custom Group Created with 'Progr | [HackerOne](../by-program/security.md) | None | $500 | 7 |
 | 71 | [124845](../reports/124845.md) | Bypassed password authentication before enabling OTP verification | [Shopify](../by-program/shopify.md) | None | $500 | 6 |
-| 72 | [46429](../reports/46429.md) | Team member invitations to sandboxed teams are not invalidated co | [HackerOne](../by-program/security.md) | None | $500 | 5 |
+| 72 | [96908](../reports/96908.md) | An administrator without the 'Settings' permission is able to see | [Shopify](../by-program/shopify.md) | None | $500 | 5 |
 | 73 | [101063](../reports/101063.md) | Drivers can change profile picture | [Uber](../by-program/uber.md) | None | $500 | 5 |
-| 74 | [96908](../reports/96908.md) | An administrator without the 'Settings' permission is able to see | [Shopify](../by-program/shopify.md) | None | $500 | 5 |
-| 75 | [92344](../reports/92344.md) | customers password hash leak!!!! | [Shopify](../by-program/shopify.md) | None | $500 | 4 |
-| 76 | [80936](../reports/80936.md) | Private Program and bounty details disclosed as part of JSON sear | [HackerOne](../by-program/security.md) | None | $500 | 4 |
+| 74 | [46429](../reports/46429.md) | Team member invitations to sandboxed teams are not invalidated co | [HackerOne](../by-program/security.md) | None | $500 | 5 |
+| 75 | [105991](../reports/105991.md) | "Remember me" token generated when "Remember me" box unchecked | [Shopify](../by-program/shopify.md) | None | $500 | 4 |
+| 76 | [92344](../reports/92344.md) | customers password hash leak!!!! | [Shopify](../by-program/shopify.md) | None | $500 | 4 |
 | 77 | [94502](../reports/94502.md) | Some S3 Buckets are world readable (and one is world writeable) | [Shopify](../by-program/shopify.md) | None | $500 | 4 |
-| 78 | [105991](../reports/105991.md) | "Remember me" token generated when "Remember me" box unchecked | [Shopify](../by-program/shopify.md) | None | $500 | 4 |
+| 78 | [80936](../reports/80936.md) | Private Program and bounty details disclosed as part of JSON sear | [HackerOne](../by-program/security.md) | None | $500 | 4 |
 | 79 | [123420](../reports/123420.md) | Mediation link can be accepted by other users | [HackerOne](../by-program/security.md) | None | $500 | 4 |
 | 80 | [121469](../reports/121469.md) | Broken Authentication on Badoo | [Bumble](../by-program/bumble.md) | None | $427 | 5 |
 | 81 | [156520](../reports/156520.md) | Unauthorized team members can leak information and see all API ca | [Algolia](../by-program/algolia.md) | None | $400 | 19 |
@@ -106,8 +106,8 @@
 | 100 | [737](../reports/737.md) | Improper session management | [HackerOne](../by-program/security.md) | None | $100 | 24 |
 | 101 | [128777](../reports/128777.md) | No rate-limit in Two factor Authentication leads to bypass using  | [Algolia](../by-program/algolia.md) | None | $100 | 6 |
 | 102 | [30238](../reports/30238.md) | New Device confirmation tokens are not properly validated. | [Coinbase](../by-program/coinbase.md) | None | $100 | 5 |
-| 103 | [92251](../reports/92251.md) | Issue with Password reset functionality | [Uber](../by-program/uber.md) | None | $100 | 5 |
-| 104 | [147544](../reports/147544.md) | Generate new Test token | [Slack](../by-program/slack.md) | None | $100 | 5 |
+| 103 | [147544](../reports/147544.md) | Generate new Test token | [Slack](../by-program/slack.md) | None | $100 | 5 |
+| 104 | [92251](../reports/92251.md) | Issue with Password reset functionality | [Uber](../by-program/uber.md) | None | $100 | 5 |
 | 105 | [87561](../reports/87561.md) | OAUTH pemission set as true= lead to authorize malicious applicat | [Coinbase](../by-program/coinbase.md) | None | $100 | 4 |
 | 106 | [490946](../reports/490946.md) | Bypassing lock protection | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.8 | $50 | 13 |
 | 107 | [146133](../reports/146133.md) | Authentication Issue | [Nextcloud](../by-program/nextcloud.md) | None | $50 | 18 |
@@ -130,419 +130,420 @@
 | 124 | [1278881](../reports/1278881.md) | See drafts and post articles if the account owner hasn't set pass | [LY Corporation](../by-program/line.md) | Critical — CVSS 9.1 | — | 35 |
 | 125 | [1242212](../reports/1242212.md) | PIN bypass | [MyEtherWallet](../by-program/myetherwallet.md) | Critical | — | 34 |
 | 126 | [202921](../reports/202921.md) | Unauthorised Access to Anyone's User Account | [Eternal](../by-program/eternal.md) | Critical | — | 32 |
-| 127 | [684070](../reports/684070.md) | Authentication bypass and RCE on the https://████ due to exposed  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 28 |
+| 127 | [1994227](../reports/1994227.md) | response manipulation leads to bypass in register at employee web | [IBM](../by-program/ibm.md) | Critical | — | 30 |
 | 128 | [1447619](../reports/1447619.md) | Authentication Bypass in login-token Authentication Method | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 10.0 | — | 28 |
-| 129 | [566811](../reports/566811.md) | ████ - Complete account takeover | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 25 |
-| 130 | [1954364](../reports/1954364.md) | Subdomain Takeover Affecting at  vex.weather.com | [IBM](../by-program/ibm.md) | Critical | — | 25 |
-| 131 | [3827674](../reports/3827674.md) | Authentication Bypass via XML Signature Wrapping in SAML SSO | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 9.8 | — | 20 |
-| 132 | [193932](../reports/193932.md) | Misconfigured password reset vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 19 |
-| 133 | [776684](../reports/776684.md) | [h1-415 2020] My writeup on how to retrieve the special secret do | [h1-ctf](../by-program/h1-ctf.md) | Critical — CVSS 9.0 | — | 15 |
-| 134 | [1146600](../reports/1146600.md) | Administration Authentication Bypass on https://█████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 15 |
-| 135 | [1089583](../reports/1089583.md) | Insecure Object Permissions for Guest User leads to access to int | [IBM](../by-program/ibm.md) | Critical — CVSS 9.3 | — | 14 |
-| 136 | [182576](../reports/182576.md) | Subdomain Takeover on http://kiosk.owox.com/ | [OWOX, Inc.](../by-program/owox.md) | Critical | — | 12 |
-| 137 | [1839012](../reports/1839012.md) | Authentication Bypass Using Default Credentials on █████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 12 |
-| 138 | [187705](../reports/187705.md) | Authentication bypass vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 11 |
-| 139 | [182234](../reports/182234.md) | Unsecured Grafana instance | [Pushwoosh](../by-program/pushwoosh.md) | Critical | — | 9 |
-| 140 | [226712](../reports/226712.md) | Broken Authentication & Session Management - Failure to Invalidat | [Paragon Initiative Enterprises](../by-program/paragonie.md) | Critical | — | 8 |
-| 141 | [890196](../reports/890196.md) | [H1-2006 2020]  Multiple vulnerabilities lead to CEO account take | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 4 |
-| 142 | [186393](../reports/186393.md) | Subdomain Takeover on OWOX.RU | [OWOX, Inc.](../by-program/owox.md) | Critical | — | 2 |
+| 129 | [684070](../reports/684070.md) | Authentication bypass and RCE on the https://████ due to exposed  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 28 |
+| 130 | [566811](../reports/566811.md) | ████ - Complete account takeover | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 25 |
+| 131 | [1954364](../reports/1954364.md) | Subdomain Takeover Affecting at  vex.weather.com | [IBM](../by-program/ibm.md) | Critical | — | 25 |
+| 132 | [3827674](../reports/3827674.md) | Authentication Bypass via XML Signature Wrapping in SAML SSO | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 9.8 | — | 20 |
+| 133 | [193932](../reports/193932.md) | Misconfigured password reset vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 19 |
+| 134 | [776684](../reports/776684.md) | [h1-415 2020] My writeup on how to retrieve the special secret do | [h1-ctf](../by-program/h1-ctf.md) | Critical — CVSS 9.0 | — | 15 |
+| 135 | [1146600](../reports/1146600.md) | Administration Authentication Bypass on https://█████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 15 |
+| 136 | [1089583](../reports/1089583.md) | Insecure Object Permissions for Guest User leads to access to int | [IBM](../by-program/ibm.md) | Critical — CVSS 9.3 | — | 14 |
+| 137 | [182576](../reports/182576.md) | Subdomain Takeover on http://kiosk.owox.com/ | [OWOX, Inc.](../by-program/owox.md) | Critical | — | 12 |
+| 138 | [1839012](../reports/1839012.md) | Authentication Bypass Using Default Credentials on █████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 12 |
+| 139 | [187705](../reports/187705.md) | Authentication bypass vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 11 |
+| 140 | [182234](../reports/182234.md) | Unsecured Grafana instance | [Pushwoosh](../by-program/pushwoosh.md) | Critical | — | 9 |
+| 141 | [226712](../reports/226712.md) | Broken Authentication & Session Management - Failure to Invalidat | [Paragon Initiative Enterprises](../by-program/paragonie.md) | Critical | — | 8 |
+| 142 | [890196](../reports/890196.md) | [H1-2006 2020]  Multiple vulnerabilities lead to CEO account take | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 4 |
 | 143 | [184884](../reports/184884.md) | Subdomain Takeover on  http://blog.owox.com/ | [OWOX, Inc.](../by-program/owox.md) | Critical | — | 2 |
-| 144 | [202781](../reports/202781.md) | Chained Bugs to Leak Victim's Uber's FB Oauth Token | [Uber](../by-program/uber.md) | High | — | 423 |
-| 145 | [770504](../reports/770504.md) | Bypass Password Authentication for updating email and phone numbe | [X / xAI](../by-program/x.md) | High | — | 285 |
-| 146 | [2885636](../reports/2885636.md) | 2FA Bypass leads to  impersonation of legimate users | [Drugs.com](../by-program/drugs_com.md) | High — CVSS 7.5 | — | 205 |
-| 147 | [925757](../reports/925757.md) | Getting SmartDNS for free from -  join.nordvpn.com | [Nord Security](../by-program/nordsecurity.md) | High | — | 103 |
-| 148 | [1245762](../reports/1245762.md) | Account Takeover via SMS Authentication Flow  | [Zenly](../by-program/zenly.md) | High | — | 92 |
-| 149 | [1257586](../reports/1257586.md) | PIN 📌 BYPASS 🥷 | [Yoti](../by-program/yoti.md) | High | — | 83 |
-| 150 | [671406](../reports/671406.md) | Account takeover via Google OneTap | [Priceline](../by-program/priceline.md) | High — CVSS 8.1 | — | 78 |
-| 151 | [314814](../reports/314814.md) | [oauth token leak] at oauth.semrush.com | [Semrush](../by-program/semrush.md) | High — CVSS 7.4 | — | 69 |
-| 152 | [205000](../reports/205000.md) | Authorization bypass using login by phone option+horizontal escal | [Grab](../by-program/grab.md) | High — CVSS 7.5 | — | 67 |
-| 153 | [206650](../reports/206650.md) | Broken Authentication - Security token gets captured via man in t | [Automattic](../by-program/automattic.md) | High | — | 66 |
-| 154 | [2334420](../reports/2334420.md) | Improper Authentication (Login without Registration with any user | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 65 |
-| 155 | [328724](../reports/328724.md) | Improper Authentication in Vimeo's API 'versions' endpoint. | [Vimeo](../by-program/vimeo.md) | High | — | 63 |
-| 156 | [1065134](../reports/1065134.md) | Firebase Database Takeover in Zego Sense Android app | [Zego](../by-program/zego.md) | High — CVSS 7.5 | — | 58 |
-| 157 | [970157](../reports/970157.md) | Bypass Password Authentication to Update the Password | [X / xAI](../by-program/x.md) | High | — | 55 |
-| 158 | [1539426](../reports/1539426.md) | Broken access control  | [UPS VDP](../by-program/ups.md) | High — CVSS 7.5 | — | 53 |
-| 159 | [3120790](../reports/3120790.md) | Session Replay Attack Allows Authentication Bypass via Captured L | [WakaTime](../by-program/wakatime.md) | High — CVSS 8.2 | — | 52 |
-| 160 | [1792544](../reports/1792544.md) | Security Issue into Wallet lock protection  | [Hiro](../by-program/hiro.md) | High | — | 51 |
-| 161 | [2122690](../reports/2122690.md) | Accessing apps protected via ZT's Access when user account is del | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | High — CVSS 8.4 | — | 41 |
-| 162 | [99600](../reports/99600.md) | Urgent : Unauthorised Access to Media content of all Direct messa | [X / xAI](../by-program/x.md) | High | — | 39 |
-| 163 | [209008](../reports/209008.md) | Authentication Bypass - Chaining two vulnerabilities leads to acc | [Automattic](../by-program/automattic.md) | High | — | 38 |
-| 164 | [1040786](../reports/1040786.md) | Exposure of a valid Gitlab-Workhorse JWT leading to various bad t | [GitLab](../by-program/gitlab.md) | High | — | 33 |
-| 165 | [767829](../reports/767829.md) | Account take over of 'light' starbuckscardb2b users | [Starbucks](../by-program/starbucks.md) | High — CVSS 7.5 | — | 30 |
+| 144 | [186393](../reports/186393.md) | Subdomain Takeover on OWOX.RU | [OWOX, Inc.](../by-program/owox.md) | Critical | — | 2 |
+| 145 | [202781](../reports/202781.md) | Chained Bugs to Leak Victim's Uber's FB Oauth Token | [Uber](../by-program/uber.md) | High | — | 423 |
+| 146 | [770504](../reports/770504.md) | Bypass Password Authentication for updating email and phone numbe | [X / xAI](../by-program/x.md) | High | — | 285 |
+| 147 | [2885636](../reports/2885636.md) | 2FA Bypass leads to  impersonation of legimate users | [Drugs.com](../by-program/drugs_com.md) | High — CVSS 7.5 | — | 205 |
+| 148 | [925757](../reports/925757.md) | Getting SmartDNS for free from -  join.nordvpn.com | [Nord Security](../by-program/nordsecurity.md) | High | — | 103 |
+| 149 | [1245762](../reports/1245762.md) | Account Takeover via SMS Authentication Flow  | [Zenly](../by-program/zenly.md) | High | — | 92 |
+| 150 | [1257586](../reports/1257586.md) | PIN 📌 BYPASS 🥷 | [Yoti](../by-program/yoti.md) | High | — | 83 |
+| 151 | [671406](../reports/671406.md) | Account takeover via Google OneTap | [Priceline](../by-program/priceline.md) | High — CVSS 8.1 | — | 78 |
+| 152 | [314814](../reports/314814.md) | [oauth token leak] at oauth.semrush.com | [Semrush](../by-program/semrush.md) | High — CVSS 7.4 | — | 69 |
+| 153 | [205000](../reports/205000.md) | Authorization bypass using login by phone option+horizontal escal | [Grab](../by-program/grab.md) | High — CVSS 7.5 | — | 67 |
+| 154 | [206650](../reports/206650.md) | Broken Authentication - Security token gets captured via man in t | [Automattic](../by-program/automattic.md) | High | — | 66 |
+| 155 | [2334420](../reports/2334420.md) | Improper Authentication (Login without Registration with any user | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 65 |
+| 156 | [328724](../reports/328724.md) | Improper Authentication in Vimeo's API 'versions' endpoint. | [Vimeo](../by-program/vimeo.md) | High | — | 63 |
+| 157 | [1065134](../reports/1065134.md) | Firebase Database Takeover in Zego Sense Android app | [Zego](../by-program/zego.md) | High — CVSS 7.5 | — | 58 |
+| 158 | [970157](../reports/970157.md) | Bypass Password Authentication to Update the Password | [X / xAI](../by-program/x.md) | High | — | 55 |
+| 159 | [1539426](../reports/1539426.md) | Broken access control  | [UPS VDP](../by-program/ups.md) | High — CVSS 7.5 | — | 53 |
+| 160 | [3120790](../reports/3120790.md) | Session Replay Attack Allows Authentication Bypass via Captured L | [WakaTime](../by-program/wakatime.md) | High — CVSS 8.2 | — | 52 |
+| 161 | [1792544](../reports/1792544.md) | Security Issue into Wallet lock protection  | [Hiro](../by-program/hiro.md) | High | — | 51 |
+| 162 | [2122690](../reports/2122690.md) | Accessing apps protected via ZT's Access when user account is del | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | High — CVSS 8.4 | — | 41 |
+| 163 | [99600](../reports/99600.md) | Urgent : Unauthorised Access to Media content of all Direct messa | [X / xAI](../by-program/x.md) | High | — | 39 |
+| 164 | [209008](../reports/209008.md) | Authentication Bypass - Chaining two vulnerabilities leads to acc | [Automattic](../by-program/automattic.md) | High | — | 38 |
+| 165 | [1040786](../reports/1040786.md) | Exposure of a valid Gitlab-Workhorse JWT leading to various bad t | [GitLab](../by-program/gitlab.md) | High | — | 33 |
 | 166 | [576504](../reports/576504.md) | Authentication Bypass by abusing Insecure crypto tokens in /lib/O | [Revive Adserver](../by-program/revive_adserver.md) | High | — | 30 |
-| 167 | [2858876](../reports/2858876.md) | Unauthorized Access  Exposing Sensitive Data | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 28 |
-| 168 | [197789](../reports/197789.md) | [insideok.ru] Database Dump | [ok.ru](../by-program/ok.md) | High | — | 27 |
+| 167 | [767829](../reports/767829.md) | Account take over of 'light' starbuckscardb2b users | [Starbucks](../by-program/starbucks.md) | High — CVSS 7.5 | — | 30 |
+| 168 | [2858876](../reports/2858876.md) | Unauthorized Access  Exposing Sensitive Data | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 28 |
 | 169 | [2529780](../reports/2529780.md) | Improper Authentication - 2FA OTP Reusable | [HackerOne](../by-program/security.md) | High — CVSS 7.2 | — | 27 |
-| 170 | [1267174](../reports/1267174.md) | Access to tomcat-manager with default creds | [JetBlue](../by-program/jetblue.md) | High | — | 23 |
+| 170 | [197789](../reports/197789.md) | [insideok.ru] Database Dump | [ok.ru](../by-program/ok.md) | High | — | 27 |
 | 171 | [1508661](../reports/1508661.md) | Response Manipulation leads to Admin Panel Login Bypass at https: | [Sony](../by-program/sony.md) | High — CVSS 7.5 | — | 23 |
-| 172 | [410475](../reports/410475.md) | Unauthorized access to a system used for CI/CD processes | [Starbucks](../by-program/starbucks.md) | High — CVSS 8.1 | — | 22 |
-| 173 | [3666576](../reports/3666576.md) | Negotiate Authentication Premature on Connection Reuse | [curl](../by-program/curl.md) | High | — | 21 |
-| 174 | [2586616](../reports/2586616.md) | Restrict any user from Login to their account | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 19 |
-| 175 | [2588810](../reports/2588810.md) | TOTP Authenticator implementation Accepts Expired Codes | [HackerOne](../by-program/security.md) | High — CVSS 7.2 | — | 18 |
-| 176 | [812064](../reports/812064.md) | SAML authentication bypass | [Rocket.Chat](../by-program/rocket_chat.md) | High — CVSS 8.8 | — | 14 |
-| 177 | [1627961](../reports/1627961.md) | Account takeover on ███████ [HtUS] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High — CVSS 7.0 | — | 14 |
-| 178 | [209223](../reports/209223.md) | Open S3 Bucket WriteAble To Any Aws User | [Ruby](../by-program/ruby.md) | High | — | 14 |
-| 179 | [761000](../reports/761000.md) | Account Take over of millions of  MTN users account due to lack o | [MTN Group](../by-program/mtn_group.md) | High | — | 12 |
+| 172 | [1267174](../reports/1267174.md) | Access to tomcat-manager with default creds | [JetBlue](../by-program/jetblue.md) | High | — | 23 |
+| 173 | [410475](../reports/410475.md) | Unauthorized access to a system used for CI/CD processes | [Starbucks](../by-program/starbucks.md) | High — CVSS 8.1 | — | 22 |
+| 174 | [3666576](../reports/3666576.md) | Negotiate Authentication Premature on Connection Reuse | [curl](../by-program/curl.md) | High | — | 21 |
+| 175 | [2586616](../reports/2586616.md) | Restrict any user from Login to their account | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 19 |
+| 176 | [2588810](../reports/2588810.md) | TOTP Authenticator implementation Accepts Expired Codes | [HackerOne](../by-program/security.md) | High — CVSS 7.2 | — | 18 |
+| 177 | [209223](../reports/209223.md) | Open S3 Bucket WriteAble To Any Aws User | [Ruby](../by-program/ruby.md) | High | — | 14 |
+| 178 | [812064](../reports/812064.md) | SAML authentication bypass | [Rocket.Chat](../by-program/rocket_chat.md) | High — CVSS 8.8 | — | 14 |
+| 179 | [1627961](../reports/1627961.md) | Account takeover on ███████ [HtUS] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High — CVSS 7.0 | — | 14 |
 | 180 | [1483201](../reports/1483201.md) | Account takeover leading to PII chained with stored XSS | [U.S. General Services Administration](../by-program/gsa_vdp.md) | High | — | 12 |
-| 181 | [192074](../reports/192074.md) | Default credentials on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 9 |
-| 182 | [201152](../reports/201152.md) | [ipm.informatica.com]- Broken Authentication | [Informatica](../by-program/informatica.md) | High | — | 9 |
+| 181 | [761000](../reports/761000.md) | Account Take over of millions of  MTN users account due to lack o | [MTN Group](../by-program/mtn_group.md) | High | — | 12 |
+| 182 | [192074](../reports/192074.md) | Default credentials on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 9 |
 | 183 | [194308](../reports/194308.md) | Password reset vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 9 |
-| 184 | [3611837](../reports/3611837.md) | Unauthenticated file deletion via deleteFileMessage DDP method al | [Rocket.Chat](../by-program/rocket_chat.md) | High — CVSS 7.5 | — | 9 |
-| 185 | [1448268](../reports/1448268.md) | TOTP 2 Factor Authentication Bypass | [Rocket.Chat](../by-program/rocket_chat.md) | High | — | 7 |
-| 186 | [1080901](../reports/1080901.md) | Misconfiguration of Merchant id in jwt header + Weird Debug mode  | [Kartpay](../by-program/kartpay.md) | High | — | 6 |
+| 184 | [201152](../reports/201152.md) | [ipm.informatica.com]- Broken Authentication | [Informatica](../by-program/informatica.md) | High | — | 9 |
+| 185 | [3611837](../reports/3611837.md) | Unauthenticated file deletion via deleteFileMessage DDP method al | [Rocket.Chat](../by-program/rocket_chat.md) | High — CVSS 7.5 | — | 9 |
+| 186 | [1448268](../reports/1448268.md) | TOTP 2 Factor Authentication Bypass | [Rocket.Chat](../by-program/rocket_chat.md) | High | — | 7 |
 | 187 | [241244](../reports/241244.md) | Spring security configuration allows agent sessions to be hijacke | [GoCD](../by-program/gocd.md) | High | — | 6 |
-| 188 | [170052](../reports/170052.md) | AWS Signature Disclosure in www.digitalsellz.com allows access to | [DigitalSellz](../by-program/digitalsellz.md) | High | — | 5 |
-| 189 | [736522](../reports/736522.md) | [authmagic-timerange-stateless-core] Improper Authentication | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 4 |
-| 190 | [1000922](../reports/1000922.md) | Unsecured Grafana instance on https://monitoring.prow-canary.k8s. | [Kubernetes](../by-program/kubernetes.md) | High | — | 4 |
-| 191 | [188205](../reports/188205.md) | BruteForce in to Admin Account | [Nextcloud](../by-program/nextcloud.md) | High | — | 2 |
-| 192 | [905607](../reports/905607.md) | [cs.money] Open Redirect Leads to Account Takeover | [CS Money](../by-program/cs_money.md) | Medium | — | 355 |
-| 193 | [1490470](../reports/1490470.md) | Admin Authentication Bypass Lead to Admin Account Takeover  | [UPS VDP](../by-program/ups.md) | Medium — CVSS 6.5 | — | 100 |
-| 194 | [751604](../reports/751604.md) | No Rate Limit On Forgot Password Page Of NordVPN | [Nord Security](../by-program/nordsecurity.md) | Medium — CVSS 5.3 | — | 98 |
-| 195 | [1544236](../reports/1544236.md) | returnUrl= allow attacker to redirect users to the another phisin | [Insightly](../by-program/insightly.md) | Medium | — | 92 |
-| 196 | [685007](../reports/685007.md) | Password Reset Link not expiring after changing the email Leads T | [Imgur](../by-program/imgur.md) | Medium | — | 83 |
-| 197 | [2649615](../reports/2649615.md) | Forced OAuth authorization using button ID in hash and holding sp | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 4.2 | — | 78 |
-| 198 | [2666323](../reports/2666323.md) | Improper Authentication Allows Making Appeals as Other Users | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 76 |
-| 199 | [2414707](../reports/2414707.md) | Authentication Bypass on https://███████/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 57 |
-| 200 | [507097](../reports/507097.md) | Open AWS S3 bucket leaks all Images uploaded to Zomato chat | [Eternal](../by-program/eternal.md) | Medium — CVSS 5.7 | — | 57 |
-| 201 | [512958](../reports/512958.md) | Login as root without password on EdgeSwitchX | [Ubiquiti Inc.](../by-program/ui.md) | Medium — CVSS 4.8 | — | 56 |
+| 188 | [1080901](../reports/1080901.md) | Misconfiguration of Merchant id in jwt header + Weird Debug mode  | [Kartpay](../by-program/kartpay.md) | High | — | 6 |
+| 189 | [170052](../reports/170052.md) | AWS Signature Disclosure in www.digitalsellz.com allows access to | [DigitalSellz](../by-program/digitalsellz.md) | High | — | 5 |
+| 190 | [736522](../reports/736522.md) | [authmagic-timerange-stateless-core] Improper Authentication | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 4 |
+| 191 | [1000922](../reports/1000922.md) | Unsecured Grafana instance on https://monitoring.prow-canary.k8s. | [Kubernetes](../by-program/kubernetes.md) | High | — | 4 |
+| 192 | [188205](../reports/188205.md) | BruteForce in to Admin Account | [Nextcloud](../by-program/nextcloud.md) | High | — | 2 |
+| 193 | [905607](../reports/905607.md) | [cs.money] Open Redirect Leads to Account Takeover | [CS Money](../by-program/cs_money.md) | Medium | — | 355 |
+| 194 | [1490470](../reports/1490470.md) | Admin Authentication Bypass Lead to Admin Account Takeover  | [UPS VDP](../by-program/ups.md) | Medium — CVSS 6.5 | — | 100 |
+| 195 | [751604](../reports/751604.md) | No Rate Limit On Forgot Password Page Of NordVPN | [Nord Security](../by-program/nordsecurity.md) | Medium — CVSS 5.3 | — | 98 |
+| 196 | [1544236](../reports/1544236.md) | returnUrl= allow attacker to redirect users to the another phisin | [Insightly](../by-program/insightly.md) | Medium | — | 92 |
+| 197 | [685007](../reports/685007.md) | Password Reset Link not expiring after changing the email Leads T | [Imgur](../by-program/imgur.md) | Medium | — | 83 |
+| 198 | [2649615](../reports/2649615.md) | Forced OAuth authorization using button ID in hash and holding sp | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 4.2 | — | 78 |
+| 199 | [2666323](../reports/2666323.md) | Improper Authentication Allows Making Appeals as Other Users | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 76 |
+| 200 | [2414707](../reports/2414707.md) | Authentication Bypass on https://███████/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 57 |
+| 201 | [507097](../reports/507097.md) | Open AWS S3 bucket leaks all Images uploaded to Zomato chat | [Eternal](../by-program/eternal.md) | Medium — CVSS 5.7 | — | 57 |
 | 202 | [2536758](../reports/2536758.md) | Authentication & Registration Bypass in Newspack Extended Access | [Automattic](../by-program/automattic.md) | Medium | — | 56 |
-| 203 | [629087](../reports/629087.md) | No Valid SPF Records. | [Chainlink](../by-program/chainlink.md) | Medium | — | 52 |
-| 204 | [903363](../reports/903363.md) | No Rate Limiting On Phone Number Login Leads to Login Bypass | [Smule](../by-program/smule.md) | Medium | — | 51 |
-| 205 | [210417](../reports/210417.md) | Bypass CAPTCHA protection | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 50 |
-| 206 | [2501986](../reports/2501986.md) | IBM OpenPages vulnerable to exposure of sensitive information | [IBM](../by-program/ibm.md) | Medium | — | 49 |
-| 207 | [2472798](../reports/2472798.md) | Authentication & Registration Bypass in Newspack Extended Access | [Automattic](../by-program/automattic.md) | Medium — CVSS 6.5 | — | 48 |
-| 208 | [55140](../reports/55140.md) | Race Conditions in OAuth 2 API implementations | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 48 |
-| 209 | [202425](../reports/202425.md) | Two-factor authentication bypass on Grab Android App | [Grab](../by-program/grab.md) | Medium — CVSS 4.3 | — | 44 |
-| 210 | [405100](../reports/405100.md) | Stealing Users OAUTH Tokens via redirect_uri  | [BOHEMIA INTERACTIVE a.s.](../by-program/bohemia.md) | Medium | — | 43 |
-| 211 | [1895783](../reports/1895783.md) | Unprotected Atlantis Server at https://132.226.█.█ | [8x8](../by-program/8x8-bounty.md) | Medium | — | 42 |
-| 212 | [1842183](../reports/1842183.md) | bypass two-factor authentication. | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 4.8 | — | 39 |
-| 213 | [1543259](../reports/1543259.md) | Signup with any Email and Enable 2-FA without verifying Email | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | Medium | — | 39 |
+| 203 | [512958](../reports/512958.md) | Login as root without password on EdgeSwitchX | [Ubiquiti Inc.](../by-program/ui.md) | Medium — CVSS 4.8 | — | 56 |
+| 204 | [629087](../reports/629087.md) | No Valid SPF Records. | [Chainlink](../by-program/chainlink.md) | Medium | — | 52 |
+| 205 | [903363](../reports/903363.md) | No Rate Limiting On Phone Number Login Leads to Login Bypass | [Smule](../by-program/smule.md) | Medium | — | 51 |
+| 206 | [210417](../reports/210417.md) | Bypass CAPTCHA protection | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 50 |
+| 207 | [2501986](../reports/2501986.md) | IBM OpenPages vulnerable to exposure of sensitive information | [IBM](../by-program/ibm.md) | Medium | — | 49 |
+| 208 | [2472798](../reports/2472798.md) | Authentication & Registration Bypass in Newspack Extended Access | [Automattic](../by-program/automattic.md) | Medium — CVSS 6.5 | — | 48 |
+| 209 | [55140](../reports/55140.md) | Race Conditions in OAuth 2 API implementations | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 48 |
+| 210 | [202425](../reports/202425.md) | Two-factor authentication bypass on Grab Android App | [Grab](../by-program/grab.md) | Medium — CVSS 4.3 | — | 44 |
+| 211 | [405100](../reports/405100.md) | Stealing Users OAUTH Tokens via redirect_uri  | [BOHEMIA INTERACTIVE a.s.](../by-program/bohemia.md) | Medium | — | 43 |
+| 212 | [1895783](../reports/1895783.md) | Unprotected Atlantis Server at https://132.226.█.█ | [8x8](../by-program/8x8-bounty.md) | Medium | — | 42 |
+| 213 | [1842183](../reports/1842183.md) | bypass two-factor authentication. | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 4.8 | — | 39 |
 | 214 | [274336](../reports/274336.md) | Subdomain Takeover via Unclaimed WordPress site | [Snapchat](../by-program/snapchat.md) | Medium | — | 39 |
-| 215 | [982293](../reports/982293.md) | Bypass Password Authentication to Update the Password | [X / xAI](../by-program/x.md) | Medium | — | 37 |
-| 216 | [1929915](../reports/1929915.md) | Bypass for forced re-authentication upon biometrics change | [Bitwarden](../by-program/bitwarden.md) | Medium — CVSS 6.6 | — | 34 |
-| 217 | [2292236](../reports/2292236.md) | Improper Authentication on Alertmanager instance | [IBM](../by-program/ibm.md) | Medium — CVSS 6.1 | — | 34 |
-| 218 | [2401359](../reports/2401359.md) | CVE-2024-25128: Apache Airflow: Authentication Bypass when Legacy | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 32 |
-| 219 | [1043480](../reports/1043480.md) | Remote hacker can download all the files of master branch in publ | [GitLab](../by-program/gitlab.md) | Medium — CVSS 4.3 | — | 31 |
-| 220 | [1177356](../reports/1177356.md) | pam_ussh does not properly validate the SSH certificate authority | [Uber](../by-program/uber.md) | Medium — CVSS 6.0 | — | 31 |
-| 221 | [2479622](../reports/2479622.md) | 2FA Bypass via Leaked Cookies | [HackerOne](../by-program/security.md) | Medium — CVSS 6.8 | — | 28 |
+| 215 | [1543259](../reports/1543259.md) | Signup with any Email and Enable 2-FA without verifying Email | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | Medium | — | 39 |
+| 216 | [982293](../reports/982293.md) | Bypass Password Authentication to Update the Password | [X / xAI](../by-program/x.md) | Medium | — | 37 |
+| 217 | [1929915](../reports/1929915.md) | Bypass for forced re-authentication upon biometrics change | [Bitwarden](../by-program/bitwarden.md) | Medium — CVSS 6.6 | — | 34 |
+| 218 | [2292236](../reports/2292236.md) | Improper Authentication on Alertmanager instance | [IBM](../by-program/ibm.md) | Medium — CVSS 6.1 | — | 34 |
+| 219 | [2401359](../reports/2401359.md) | CVE-2024-25128: Apache Airflow: Authentication Bypass when Legacy | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 32 |
+| 220 | [1043480](../reports/1043480.md) | Remote hacker can download all the files of master branch in publ | [GitLab](../by-program/gitlab.md) | Medium — CVSS 4.3 | — | 31 |
+| 221 | [1177356](../reports/1177356.md) | pam_ussh does not properly validate the SSH certificate authority | [Uber](../by-program/uber.md) | Medium — CVSS 6.0 | — | 31 |
 | 222 | [195163](../reports/195163.md) | SAP Server - default credentials enabled | [Starbucks](../by-program/starbucks.md) | Medium | — | 28 |
-| 223 | [232650](../reports/232650.md) | Full Api Access and Run All Functions via Starbucks App | [Starbucks](../by-program/starbucks.md) | Medium | — | 28 |
-| 224 | [1877989](../reports/1877989.md) | Client side authentication leads to Auth Bypass | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 24 |
-| 225 | [204802](../reports/204802.md) | pam-ussh may be tricked into using another logged in user's ssh-a | [Uber](../by-program/uber.md) | Medium — CVSS 6.6 | — | 23 |
-| 226 | [692116](../reports/692116.md) | Access to ██████████████ due to weak credentials | [8x8](../by-program/8x8-bounty.md) | Medium | — | 22 |
-| 227 | [1485788](../reports/1485788.md) | Improper Authentication via previous backup code login | [Basecamp](../by-program/basecamp.md) | Medium — CVSS 6.9 | — | 21 |
-| 228 | [762695](../reports/762695.md) | India - OTP bypass on Phone number verification for account creat | [Starbucks](../by-program/starbucks.md) | Medium — CVSS 6.1 | — | 20 |
-| 229 | [315879](../reports/315879.md) | Able to reset other user's password in https://card.starbucks.com | [Starbucks](../by-program/starbucks.md) | Medium | — | 18 |
-| 230 | [3676308](../reports/3676308.md) | POST /api/bitcoinWithdrawalFees returns financial data without au | [CoinMate.io](../by-program/coinmate.md) | Medium | — | 17 |
-| 231 | [3595753](../reports/3595753.md) | Connection Reuse Ignores OAuth Bearer Token Mismatch | [curl](../by-program/curl.md) | Medium | — | 17 |
-| 232 | [1364022](../reports/1364022.md) | Authentication Bypass & ApacheTomcat Misconfiguration in [██] | [8x8](../by-program/8x8-bounty.md) | Medium | — | 17 |
-| 233 | [245833](../reports/245833.md) | The user, who was deleted from Github Organization, still can acc | [GSA Bounty](../by-program/gsa_bbp.md) | Medium | — | 16 |
-| 234 | [1357948](../reports/1357948.md) | Attacker can bypass authentication build on ingress external auth | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 6.5 | — | 15 |
-| 235 | [1552110](../reports/1552110.md) | OAUTH2 bearer not-checked for connection re-use | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 14 |
-| 236 | [244612](../reports/244612.md) | Password reset links should expire after being used, instead of a | [WakaTime](../by-program/wakatime.md) | Medium | — | 12 |
+| 223 | [2479622](../reports/2479622.md) | 2FA Bypass via Leaked Cookies | [HackerOne](../by-program/security.md) | Medium — CVSS 6.8 | — | 28 |
+| 224 | [232650](../reports/232650.md) | Full Api Access and Run All Functions via Starbucks App | [Starbucks](../by-program/starbucks.md) | Medium | — | 28 |
+| 225 | [1877989](../reports/1877989.md) | Client side authentication leads to Auth Bypass | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 24 |
+| 226 | [204802](../reports/204802.md) | pam-ussh may be tricked into using another logged in user's ssh-a | [Uber](../by-program/uber.md) | Medium — CVSS 6.6 | — | 23 |
+| 227 | [692116](../reports/692116.md) | Access to ██████████████ due to weak credentials | [8x8](../by-program/8x8-bounty.md) | Medium | — | 22 |
+| 228 | [1485788](../reports/1485788.md) | Improper Authentication via previous backup code login | [Basecamp](../by-program/basecamp.md) | Medium — CVSS 6.9 | — | 21 |
+| 229 | [762695](../reports/762695.md) | India - OTP bypass on Phone number verification for account creat | [Starbucks](../by-program/starbucks.md) | Medium — CVSS 6.1 | — | 20 |
+| 230 | [315879](../reports/315879.md) | Able to reset other user's password in https://card.starbucks.com | [Starbucks](../by-program/starbucks.md) | Medium | — | 18 |
+| 231 | [3676308](../reports/3676308.md) | POST /api/bitcoinWithdrawalFees returns financial data without au | [CoinMate.io](../by-program/coinmate.md) | Medium | — | 17 |
+| 232 | [3595753](../reports/3595753.md) | Connection Reuse Ignores OAuth Bearer Token Mismatch | [curl](../by-program/curl.md) | Medium | — | 17 |
+| 233 | [1364022](../reports/1364022.md) | Authentication Bypass & ApacheTomcat Misconfiguration in [██] | [8x8](../by-program/8x8-bounty.md) | Medium | — | 17 |
+| 234 | [245833](../reports/245833.md) | The user, who was deleted from Github Organization, still can acc | [GSA Bounty](../by-program/gsa_bbp.md) | Medium | — | 16 |
+| 235 | [1357948](../reports/1357948.md) | Attacker can bypass authentication build on ingress external auth | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 6.5 | — | 15 |
+| 236 | [1552110](../reports/1552110.md) | OAUTH2 bearer not-checked for connection re-use | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 14 |
 | 237 | [281344](../reports/281344.md) | No rate limiting on https://biz.uber.com/confirm allowed an attac | [Uber](../by-program/uber.md) | Medium | — | 12 |
 | 238 | [180895](../reports/180895.md) | Password reset access control | [Legal Robot](../by-program/legalrobot.md) | Medium | — | 12 |
-| 239 | [210188](../reports/210188.md) | Subdomain takeover on https://cloudfront.ubnt.com/ due to non-use | [Ubiquiti Inc.](../by-program/ui.md) | Medium | — | 12 |
-| 240 | [791498](../reports/791498.md) | No Rate Limit On Forgot Password Page Of affiliates.nordvpn.com | [Nord Security](../by-program/nordsecurity.md) | Medium | — | 12 |
-| 241 | [1793526](../reports/1793526.md) | Unprotected Atlantis Server at https://152.70.█.█ | [8x8](../by-program/8x8-bounty.md) | Medium | — | 11 |
-| 242 | [3816840](../reports/3816840.md) | HTTPS Agent PFX object-array key collision allows mTLS client ide | [Node.js](../by-program/nodejs.md) | Medium — CVSS 4.1 | — | 10 |
+| 239 | [791498](../reports/791498.md) | No Rate Limit On Forgot Password Page Of affiliates.nordvpn.com | [Nord Security](../by-program/nordsecurity.md) | Medium | — | 12 |
+| 240 | [210188](../reports/210188.md) | Subdomain takeover on https://cloudfront.ubnt.com/ due to non-use | [Ubiquiti Inc.](../by-program/ui.md) | Medium | — | 12 |
+| 241 | [244612](../reports/244612.md) | Password reset links should expire after being used, instead of a | [WakaTime](../by-program/wakatime.md) | Medium | — | 12 |
+| 242 | [1793526](../reports/1793526.md) | Unprotected Atlantis Server at https://152.70.█.█ | [8x8](../by-program/8x8-bounty.md) | Medium | — | 11 |
 | 243 | [1431808](../reports/1431808.md) | Email/OTP verification bypass leads to Pre-Account Takeover. | [S-Pankki](../by-program/s-pankki.md) | Medium | — | 10 |
 | 244 | [195544](../reports/195544.md) | Exposed Access Control Data Backup Files on DoD Website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 10 |
-| 245 | [111078](../reports/111078.md) | Sub Domain Take over | [Gratipay](../by-program/gratipay.md) | Medium | — | 9 |
-| 246 | [109161](../reports/109161.md) | protect against tabnabbing in statement | [Gratipay](../by-program/gratipay.md) | Medium | — | 8 |
-| 247 | [1062803](../reports/1062803.md) | Misconfigured AWS S3 bucket leaks senstive data  such of  admin,  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
-| 248 | [186189](../reports/186189.md) | Information leakage on a Department of Defense website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
-| 249 | [200125](../reports/200125.md) | Information disclosure vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
-| 250 | [298862](../reports/298862.md) | It's possible to view configuration and/or source code on uchat.a | [Uber](../by-program/uber.md) | Medium | — | 7 |
-| 251 | [798913](../reports/798913.md) | Email address is not validated, No Rate Limit and RCE On Forgot P | [Nord Security](../by-program/nordsecurity.md) | Medium | — | 7 |
-| 252 | [298990](../reports/298990.md) | Configuration and/or source code files on uchat-staging.uberinter | [Uber](../by-program/uber.md) | Medium | — | 6 |
-| 253 | [875049](../reports/875049.md) | Register with non accepted email types on https://███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
-| 254 | [315512](../reports/315512.md) | No authentication on email address for password reset functionali | [Coalition, Inc.](../by-program/coalition.md) | Medium | — | 6 |
+| 245 | [3816840](../reports/3816840.md) | HTTPS Agent PFX object-array key collision allows mTLS client ide | [Node.js](../by-program/nodejs.md) | Medium — CVSS 4.1 | — | 10 |
+| 246 | [111078](../reports/111078.md) | Sub Domain Take over | [Gratipay](../by-program/gratipay.md) | Medium | — | 9 |
+| 247 | [109161](../reports/109161.md) | protect against tabnabbing in statement | [Gratipay](../by-program/gratipay.md) | Medium | — | 8 |
+| 248 | [200125](../reports/200125.md) | Information disclosure vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
+| 249 | [186189](../reports/186189.md) | Information leakage on a Department of Defense website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
+| 250 | [1062803](../reports/1062803.md) | Misconfigured AWS S3 bucket leaks senstive data  such of  admin,  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
+| 251 | [298862](../reports/298862.md) | It's possible to view configuration and/or source code on uchat.a | [Uber](../by-program/uber.md) | Medium | — | 7 |
+| 252 | [798913](../reports/798913.md) | Email address is not validated, No Rate Limit and RCE On Forgot P | [Nord Security](../by-program/nordsecurity.md) | Medium | — | 7 |
+| 253 | [315512](../reports/315512.md) | No authentication on email address for password reset functionali | [Coalition, Inc.](../by-program/coalition.md) | Medium | — | 6 |
+| 254 | [875049](../reports/875049.md) | Register with non accepted email types on https://███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
 | 255 | [764335](../reports/764335.md) | Bypass to report #280389 [Thinking The issue is not fixed Yet] | [Infogram](../by-program/infogram.md) | Medium | — | 6 |
-| 256 | [722748](../reports/722748.md) | Bypass configured 2FA provider with another provider that can be  | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.6 | — | 5 |
-| 257 | [3786077](../reports/3786077.md) | SOCKS5 no-auth accepted despite username/password-only authentica | [curl](../by-program/curl.md) | Medium | — | 4 |
-| 258 | [117159](../reports/117159.md) | SPF/DKIM/DMARC for aspen.io | [Gratipay](../by-program/gratipay.md) | Medium | — | 4 |
-| 259 | [204052](../reports/204052.md) | Weak credentials for nutty.ubnt.com | [Ubiquiti Inc.](../by-program/ui.md) | Medium | — | 4 |
+| 256 | [298990](../reports/298990.md) | Configuration and/or source code files on uchat-staging.uberinter | [Uber](../by-program/uber.md) | Medium | — | 6 |
+| 257 | [722748](../reports/722748.md) | Bypass configured 2FA provider with another provider that can be  | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.6 | — | 5 |
+| 258 | [924393](../reports/924393.md) | PIN for passwordless WebAuthn is asked for but not verified | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 4 |
+| 259 | [117159](../reports/117159.md) | SPF/DKIM/DMARC for aspen.io | [Gratipay](../by-program/gratipay.md) | Medium | — | 4 |
 | 260 | [3693295](../reports/3693295.md) | iOS Brave Playlist "Open in Private Tab" bypasses FaceID requirem | [Brave Software](../by-program/brave.md) | Medium | — | 4 |
-| 261 | [924393](../reports/924393.md) | PIN for passwordless WebAuthn is asked for but not verified | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 4 |
-| 262 | [3625210](../reports/3625210.md) | PIN bypass in PassCodeActivity via back button | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.6 | — | 3 |
-| 263 | [189023](../reports/189023.md) | S3 ACL misconfiguration | [Legal Robot](../by-program/legalrobot.md) | Medium | — | 3 |
+| 261 | [204052](../reports/204052.md) | Weak credentials for nutty.ubnt.com | [Ubiquiti Inc.](../by-program/ui.md) | Medium | — | 4 |
+| 262 | [3786077](../reports/3786077.md) | SOCKS5 no-auth accepted despite username/password-only authentica | [curl](../by-program/curl.md) | Medium | — | 4 |
+| 263 | [3625210](../reports/3625210.md) | PIN bypass in PassCodeActivity via back button | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.6 | — | 3 |
 | 264 | [211283](../reports/211283.md) | Cross Site WebSocket Hijacking | [Legal Robot](../by-program/legalrobot.md) | Medium | — | 3 |
-| 265 | [84287](../reports/84287.md) | DKIM records not present, Email Hijacking is possible | [Gratipay](../by-program/gratipay.md) | Medium | — | 2 |
-| 266 | [3791191](../reports/3791191.md) | Trailing-Dot Hostname in Redirect Silently Strips Client Certific | [curl](../by-program/curl.md) | Medium | — | 2 |
-| 267 | [3672641](../reports/3672641.md) | Session ID reuse allowing XML‑RPC API authentication bypass | [Revive Adserver](../by-program/revive_adserver.md) | Medium — CVSS 4.3 | — | 2 |
-| 268 | [3744543](../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | [curl](../by-program/curl.md) | Medium | — | 1 |
-| 269 | [753602](../reports/753602.md) | Staging Rabbitmq instance is exposed to the internet with default | [Unikrn](../by-program/unikrn.md) | Low — CVSS 3.7 | — | 104 |
-| 270 | [292783](../reports/292783.md) | Oauth flow on the comments widget login can lead to the access co | [Ed](../by-program/ed.md) | Low | — | 42 |
-| 271 | [2279041](../reports/2279041.md) | Changing the administrator password via admin console does not in | [PortSwigger Web Security](../by-program/portswigger.md) | Low | — | 40 |
-| 272 | [835302](../reports/835302.md) | [www.drive2.ru] Insufficient Security Configurability - The user' | [DRIVE.NET, Inc.](../by-program/drive_net_inc.md) | Low | — | 30 |
-| 273 | [835647](../reports/835647.md) | [www.drive2.ru] Insufficient Security Configurability - Notificat | [DRIVE.NET, Inc.](../by-program/drive_net_inc.md) | Low | — | 27 |
-| 274 | [1701378](../reports/1701378.md) | Bypassing 2FA with conventional session management - open.rocket. | [Rocket.Chat](../by-program/rocket_chat.md) | Low | — | 25 |
+| 265 | [189023](../reports/189023.md) | S3 ACL misconfiguration | [Legal Robot](../by-program/legalrobot.md) | Medium | — | 3 |
+| 266 | [3672641](../reports/3672641.md) | Session ID reuse allowing XML‑RPC API authentication bypass | [Revive Adserver](../by-program/revive_adserver.md) | Medium — CVSS 4.3 | — | 2 |
+| 267 | [84287](../reports/84287.md) | DKIM records not present, Email Hijacking is possible | [Gratipay](../by-program/gratipay.md) | Medium | — | 2 |
+| 268 | [3791191](../reports/3791191.md) | Trailing-Dot Hostname in Redirect Silently Strips Client Certific | [curl](../by-program/curl.md) | Medium | — | 2 |
+| 269 | [3744543](../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | [curl](../by-program/curl.md) | Medium | — | 1 |
+| 270 | [753602](../reports/753602.md) | Staging Rabbitmq instance is exposed to the internet with default | [Unikrn](../by-program/unikrn.md) | Low — CVSS 3.7 | — | 104 |
+| 271 | [292783](../reports/292783.md) | Oauth flow on the comments widget login can lead to the access co | [Ed](../by-program/ed.md) | Low | — | 42 |
+| 272 | [2279041](../reports/2279041.md) | Changing the administrator password via admin console does not in | [PortSwigger Web Security](../by-program/portswigger.md) | Low | — | 40 |
+| 273 | [835302](../reports/835302.md) | [www.drive2.ru] Insufficient Security Configurability - The user' | [DRIVE.NET, Inc.](../by-program/drive_net_inc.md) | Low | — | 30 |
+| 274 | [835647](../reports/835647.md) | [www.drive2.ru] Insufficient Security Configurability - Notificat | [DRIVE.NET, Inc.](../by-program/drive_net_inc.md) | Low | — | 27 |
 | 275 | [888930](../reports/888930.md) | SAML Response Reuse on hackerone.com/users/saml/auth | [HackerOne](../by-program/security.md) | Low | — | 25 |
-| 276 | [209352](../reports/209352.md) | Cross Domain leakage of sensitive information - Leading to Accoun | [Automattic](../by-program/automattic.md) | Low | — | 18 |
+| 276 | [1701378](../reports/1701378.md) | Bypassing 2FA with conventional session management - open.rocket. | [Rocket.Chat](../by-program/rocket_chat.md) | Low | — | 25 |
 | 277 | [1087382](../reports/1087382.md) | Store Deletion or Sell without authentication | [Shopify](../by-program/shopify.md) | Low — CVSS 3.7 | — | 18 |
-| 278 | [1812705](../reports/1812705.md) | Bypassing creation of  API tokens without email verification | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | Low — CVSS 3.9 | — | 17 |
-| 279 | [1825679](../reports/1825679.md) | App pin of the Android app can be bypassed via 3rdparty apps gene | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 1.8 | — | 17 |
-| 280 | [176116](../reports/176116.md) | Weak Forgot Password implementation | [Revive Adserver](../by-program/revive_adserver.md) | Low | — | 17 |
+| 278 | [209352](../reports/209352.md) | Cross Domain leakage of sensitive information - Leading to Accoun | [Automattic](../by-program/automattic.md) | Low | — | 18 |
+| 279 | [1812705](../reports/1812705.md) | Bypassing creation of  API tokens without email verification | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | Low — CVSS 3.9 | — | 17 |
+| 280 | [1825679](../reports/1825679.md) | App pin of the Android app can be bypassed via 3rdparty apps gene | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 1.8 | — | 17 |
 | 281 | [191643](../reports/191643.md) | Password complexity requirements not enforced | [Legal Robot](../by-program/legalrobot.md) | Low | — | 17 |
-| 282 | [835138](../reports/835138.md) | [www.drive2.ru] Insufficient Security Configurability - Email not | [DRIVE.NET, Inc.](../by-program/drive_net_inc.md) | Low | — | 16 |
-| 283 | [202177](../reports/202177.md) | Login with Google Not Authenticated on iOS App | [Instacart](../by-program/instacart.md) | Low | — | 15 |
-| 284 | [210994](../reports/210994.md) | Control Character Injection In Messages | [Rockstar Games](../by-program/rockstargames.md) | Low | — | 15 |
-| 285 | [177551](../reports/177551.md) | SMS/Call spamming due to truncated phone number | [Uber](../by-program/uber.md) | Low | — | 14 |
-| 286 | [246042](../reports/246042.md) | Password Policy Issue | [WakaTime](../by-program/wakatime.md) | Low | — | 14 |
-| 287 | [351361](../reports/351361.md) | Administrator can create user without entering high security mode | [Phabricator](../by-program/phabricator.md) | Low — CVSS 3.5 | — | 11 |
+| 282 | [176116](../reports/176116.md) | Weak Forgot Password implementation | [Revive Adserver](../by-program/revive_adserver.md) | Low | — | 17 |
+| 283 | [835138](../reports/835138.md) | [www.drive2.ru] Insufficient Security Configurability - Email not | [DRIVE.NET, Inc.](../by-program/drive_net_inc.md) | Low | — | 16 |
+| 284 | [202177](../reports/202177.md) | Login with Google Not Authenticated on iOS App | [Instacart](../by-program/instacart.md) | Low | — | 15 |
+| 285 | [210994](../reports/210994.md) | Control Character Injection In Messages | [Rockstar Games](../by-program/rockstargames.md) | Low | — | 15 |
+| 286 | [177551](../reports/177551.md) | SMS/Call spamming due to truncated phone number | [Uber](../by-program/uber.md) | Low | — | 14 |
+| 287 | [246042](../reports/246042.md) | Password Policy Issue | [WakaTime](../by-program/wakatime.md) | Low | — | 14 |
 | 288 | [174668](../reports/174668.md) | No rate-limit in SERVER_SECURITY_CHECK | [Bumble](../by-program/bumble.md) | Low | — | 11 |
-| 289 | [194832](../reports/194832.md) | Authentication Bypass on monitoring server | [Shopify](../by-program/shopify.md) | Low | — | 11 |
-| 290 | [187025](../reports/187025.md) | Publicy accessible IDRAC instance at api-m.inapp.pushwoosh.com | [Pushwoosh](../by-program/pushwoosh.md) | Low | — | 11 |
-| 291 | [127995](../reports/127995.md) | Limit email address length | [Gratipay](../by-program/gratipay.md) | Low | — | 11 |
-| 292 | [582349](../reports/582349.md) | Last pipeline status for MR leaked  | [GitLab](../by-program/gitlab.md) | Low | — | 10 |
-| 293 | [317711](../reports/317711.md) | twofactor_auth bypassable if provider fails to load | [Nextcloud](../by-program/nextcloud.md) | Low | — | 10 |
-| 294 | [785833](../reports/785833.md) | registering with the same email address multiple times leads to a | [Reddit](../by-program/reddit.md) | Low | — | 10 |
-| 295 | [200179](../reports/200179.md) | SMS URL verification link does not expire on phone number change  | [Uber](../by-program/uber.md) | Low | — | 9 |
-| 296 | [265775](../reports/265775.md) | Password reset token issue | [Legal Robot](../by-program/legalrobot.md) | Low | — | 9 |
-| 297 | [199714](../reports/199714.md) | Missing Rate Limit for Current Password field in nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.7 | — | 8 |
-| 298 | [792737](../reports/792737.md) | Password Reset Link not expiring after changing the email Leads T | [Nord Security](../by-program/nordsecurity.md) | Low | — | 8 |
-| 299 | [642886](../reports/642886.md) | Reauthentication for changing password bypass | [Liberapay](../by-program/liberapay.md) | Low | — | 8 |
+| 289 | [127995](../reports/127995.md) | Limit email address length | [Gratipay](../by-program/gratipay.md) | Low | — | 11 |
+| 290 | [194832](../reports/194832.md) | Authentication Bypass on monitoring server | [Shopify](../by-program/shopify.md) | Low | — | 11 |
+| 291 | [351361](../reports/351361.md) | Administrator can create user without entering high security mode | [Phabricator](../by-program/phabricator.md) | Low — CVSS 3.5 | — | 11 |
+| 292 | [187025](../reports/187025.md) | Publicy accessible IDRAC instance at api-m.inapp.pushwoosh.com | [Pushwoosh](../by-program/pushwoosh.md) | Low | — | 11 |
+| 293 | [582349](../reports/582349.md) | Last pipeline status for MR leaked  | [GitLab](../by-program/gitlab.md) | Low | — | 10 |
+| 294 | [317711](../reports/317711.md) | twofactor_auth bypassable if provider fails to load | [Nextcloud](../by-program/nextcloud.md) | Low | — | 10 |
+| 295 | [785833](../reports/785833.md) | registering with the same email address multiple times leads to a | [Reddit](../by-program/reddit.md) | Low | — | 10 |
+| 296 | [200179](../reports/200179.md) | SMS URL verification link does not expire on phone number change  | [Uber](../by-program/uber.md) | Low | — | 9 |
+| 297 | [265775](../reports/265775.md) | Password reset token issue | [Legal Robot](../by-program/legalrobot.md) | Low | — | 9 |
+| 298 | [642886](../reports/642886.md) | Reauthentication for changing password bypass | [Liberapay](../by-program/liberapay.md) | Low | — | 8 |
+| 299 | [199714](../reports/199714.md) | Missing Rate Limit for Current Password field in nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.7 | — | 8 |
 | 300 | [244958](../reports/244958.md) | No redirect uri for Twitter Oath resulting in token leak | [WakaTime](../by-program/wakatime.md) | Low | — | 8 |
 | 301 | [1609004](../reports/1609004.md) | Rate limit is implemented in Reddit , but its not working .  | [Reddit](../by-program/reddit.md) | Low | — | 8 |
 | 302 | [203311](../reports/203311.md) | Bypass file access control vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 8 |
-| 303 | [244614](../reports/244614.md) | Password token validation in https://wakatime.com/ | [WakaTime](../by-program/wakatime.md) | Low | — | 7 |
-| 304 | [168289](../reports/168289.md) | coinbase Email leak while sending and requesting | [Coinbase](../by-program/coinbase.md) | Low — CVSS 3.5 | — | 6 |
-| 305 | [856310](../reports/856310.md) | [www.stripo.email] There is no rate limit for /it/contact-us/ end | [Stripo Inc](../by-program/stripo.md) | Low | — | 6 |
-| 306 | [223427](../reports/223427.md) | Login using disconnected google account i.e login using old email | [Weblate](../by-program/weblate.md) | Low | — | 6 |
+| 303 | [792737](../reports/792737.md) | Password Reset Link not expiring after changing the email Leads T | [Nord Security](../by-program/nordsecurity.md) | Low | — | 8 |
+| 304 | [244614](../reports/244614.md) | Password token validation in https://wakatime.com/ | [WakaTime](../by-program/wakatime.md) | Low | — | 7 |
+| 305 | [223427](../reports/223427.md) | Login using disconnected google account i.e login using old email | [Weblate](../by-program/weblate.md) | Low | — | 6 |
+| 306 | [168289](../reports/168289.md) | coinbase Email leak while sending and requesting | [Coinbase](../by-program/coinbase.md) | Low — CVSS 3.5 | — | 6 |
 | 307 | [311805](../reports/311805.md) | Cross-origin resource sharing misconfig  | [Semrush](../by-program/semrush.md) | Low | — | 6 |
-| 308 | [310579](../reports/310579.md) |  CORS (Cross-Origin Resource Sharing) | [Semrush](../by-program/semrush.md) | Low | — | 5 |
-| 309 | [123897](../reports/123897.md) | auto-logout after 20 minutes | [Gratipay](../by-program/gratipay.md) | Low | — | 4 |
+| 308 | [856310](../reports/856310.md) | [www.stripo.email] There is no rate limit for /it/contact-us/ end | [Stripo Inc](../by-program/stripo.md) | Low | — | 6 |
+| 309 | [310579](../reports/310579.md) |  CORS (Cross-Origin Resource Sharing) | [Semrush](../by-program/semrush.md) | Low | — | 5 |
 | 310 | [197907](../reports/197907.md) | Misconfigured user account settings on DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
-| 311 | [275242](../reports/275242.md) | password token validation | [WakaTime](../by-program/wakatime.md) | Low | — | 4 |
-| 312 | [275245](../reports/275245.md) | Can link to websites from profile | [WakaTime](../by-program/wakatime.md) | Low | — | 4 |
-| 313 | [117458](../reports/117458.md) | strengthen Diffie-Hellman (DH) key exchange parameters in grtp.co | [Gratipay](../by-program/gratipay.md) | Low | — | 4 |
-| 314 | [223475](../reports/223475.md) | Existing sessions valid after removing third party auth | [Weblate](../by-program/weblate.md) | Low | — | 4 |
-| 315 | [262140](../reports/262140.md) | Password Restriction On Change | [Legal Robot](../by-program/legalrobot.md) | Low | — | 1 |
+| 311 | [117458](../reports/117458.md) | strengthen Diffie-Hellman (DH) key exchange parameters in grtp.co | [Gratipay](../by-program/gratipay.md) | Low | — | 4 |
+| 312 | [223475](../reports/223475.md) | Existing sessions valid after removing third party auth | [Weblate](../by-program/weblate.md) | Low | — | 4 |
+| 313 | [275242](../reports/275242.md) | password token validation | [WakaTime](../by-program/wakatime.md) | Low | — | 4 |
+| 314 | [123897](../reports/123897.md) | auto-logout after 20 minutes | [Gratipay](../by-program/gratipay.md) | Low | — | 4 |
+| 315 | [275245](../reports/275245.md) | Can link to websites from profile | [WakaTime](../by-program/wakatime.md) | Low | — | 4 |
 | 316 | [192197](../reports/192197.md) |  Information disclosure in coinbase android app | [Coinbase](../by-program/coinbase.md) | Low — CVSS 3.2 | — | 1 |
-| 317 | [129873](../reports/129873.md) | Bypassing Digits origin validation which leads to account takeove | [X / xAI](../by-program/x.md) | None | — | 614 |
-| 318 | [143717](../reports/143717.md) | Change any Uber user's password through /rt/users/passwordless-si | [Uber](../by-program/uber.md) | None | — | 308 |
-| 319 | [110293](../reports/110293.md) | Insufficient OAuth callback validation which leads to Periscope a | [X / xAI](../by-program/x.md) | None | — | 273 |
-| 320 | [168116](../reports/168116.md) | Insufficient validation on Digits bridge | [X / xAI](../by-program/x.md) | None | — | 261 |
-| 321 | [127844](../reports/127844.md) | Web Authentication Endpoint Credentials Brute-Force Vulnerability | [HackerOne](../by-program/security.md) | None | — | 160 |
-| 322 | [156536](../reports/156536.md) | Reading Emails in Uber Subdomains | [Uber](../by-program/uber.md) | None | — | 141 |
-| 323 | [126522](../reports/126522.md) | Incorrect param parsing in Digits web authentication | [X / xAI](../by-program/x.md) | None | — | 126 |
-| 324 | [1020371](../reports/1020371.md) | User can upload files even after closing his account | [Basecamp](../by-program/basecamp.md) | None | — | 122 |
-| 325 | [114169](../reports/114169.md) | Bypassing Digits web authentication's host validation with HPP | [X / xAI](../by-program/x.md) | None | — | 107 |
-| 326 | [201300](../reports/201300.md) | Attacker can get vine repost user all informations even Ip addres | [X / xAI](../by-program/x.md) | None | — | 94 |
-| 327 | [179103](../reports/179103.md) | Unauthenticated Docker registry | [Imgur](../by-program/imgur.md) | None | — | 92 |
-| 328 | [110467](../reports/110467.md) | Bypassing Digits bridge origin validation | [X / xAI](../by-program/x.md) | None | — | 91 |
-| 329 | [239623](../reports/239623.md) | Many Slack teams can be joined by abusing an improperly configure | [Slack](../by-program/slack.md) | None | — | 87 |
-| 330 | [164649](../reports/164649.md) | [Studio.twitter.com] See someone else pics  | [X / xAI](../by-program/x.md) | None | — | 84 |
-| 331 | [100926](../reports/100926.md) | Access to internal CMS containing private Data | [Yelp](../by-program/yelp.md) | None | — | 80 |
-| 332 | [151058](../reports/151058.md) | Stealing livechat token and using it to chat as the user - user i | [Shopify](../by-program/shopify.md) | None | — | 70 |
+| 317 | [262140](../reports/262140.md) | Password Restriction On Change | [Legal Robot](../by-program/legalrobot.md) | Low | — | 1 |
+| 318 | [129873](../reports/129873.md) | Bypassing Digits origin validation which leads to account takeove | [X / xAI](../by-program/x.md) | None | — | 614 |
+| 319 | [143717](../reports/143717.md) | Change any Uber user's password through /rt/users/passwordless-si | [Uber](../by-program/uber.md) | None | — | 308 |
+| 320 | [110293](../reports/110293.md) | Insufficient OAuth callback validation which leads to Periscope a | [X / xAI](../by-program/x.md) | None | — | 273 |
+| 321 | [168116](../reports/168116.md) | Insufficient validation on Digits bridge | [X / xAI](../by-program/x.md) | None | — | 261 |
+| 322 | [127844](../reports/127844.md) | Web Authentication Endpoint Credentials Brute-Force Vulnerability | [HackerOne](../by-program/security.md) | None | — | 160 |
+| 323 | [156536](../reports/156536.md) | Reading Emails in Uber Subdomains | [Uber](../by-program/uber.md) | None | — | 141 |
+| 324 | [126522](../reports/126522.md) | Incorrect param parsing in Digits web authentication | [X / xAI](../by-program/x.md) | None | — | 126 |
+| 325 | [1020371](../reports/1020371.md) | User can upload files even after closing his account | [Basecamp](../by-program/basecamp.md) | None | — | 122 |
+| 326 | [114169](../reports/114169.md) | Bypassing Digits web authentication's host validation with HPP | [X / xAI](../by-program/x.md) | None | — | 107 |
+| 327 | [201300](../reports/201300.md) | Attacker can get vine repost user all informations even Ip addres | [X / xAI](../by-program/x.md) | None | — | 94 |
+| 328 | [179103](../reports/179103.md) | Unauthenticated Docker registry | [Imgur](../by-program/imgur.md) | None | — | 92 |
+| 329 | [110467](../reports/110467.md) | Bypassing Digits bridge origin validation | [X / xAI](../by-program/x.md) | None | — | 91 |
+| 330 | [239623](../reports/239623.md) | Many Slack teams can be joined by abusing an improperly configure | [Slack](../by-program/slack.md) | None | — | 87 |
+| 331 | [164649](../reports/164649.md) | [Studio.twitter.com] See someone else pics  | [X / xAI](../by-program/x.md) | None | — | 84 |
+| 332 | [100926](../reports/100926.md) | Access to internal CMS containing private Data | [Yelp](../by-program/yelp.md) | None | — | 80 |
 | 333 | [141090](../reports/141090.md) | Parameter Manipulation allowed for viewing of other user’s teavan | [Starbucks](../by-program/starbucks.md) | None | — | 70 |
-| 334 | [3020733](../reports/3020733.md) | Email Verification Bypass via Race Condition | [Malwarebytes](../by-program/malwarebytes.md) | None | — | 66 |
-| 335 | [2802817](../reports/2802817.md) | Any WARP User Can Access Organization-Specific Application | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | None | — | 46 |
-| 336 | [143482](../reports/143482.md) | Authentication Bypass on Icinga monitoring server | [Shopify](../by-program/shopify.md) | None | — | 42 |
-| 337 | [808762](../reports/808762.md) | Exposed Slinky Instance Admin Panel | [Shopify](../by-program/shopify.md) | None | — | 41 |
+| 334 | [151058](../reports/151058.md) | Stealing livechat token and using it to chat as the user - user i | [Shopify](../by-program/shopify.md) | None | — | 70 |
+| 335 | [3020733](../reports/3020733.md) | Email Verification Bypass via Race Condition | [Malwarebytes](../by-program/malwarebytes.md) | None | — | 66 |
+| 336 | [2802817](../reports/2802817.md) | Any WARP User Can Access Organization-Specific Application | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | None | — | 46 |
+| 337 | [143482](../reports/143482.md) | Authentication Bypass on Icinga monitoring server | [Shopify](../by-program/shopify.md) | None | — | 42 |
 | 338 | [128088](../reports/128088.md) | AWS S3 bucket writeable for authenticated aws users | [HackerOne](../by-program/security.md) | None | — | 41 |
-| 339 | [129381](../reports/129381.md) | niche s3 buckets are readable/writeable/deleteable by authorized  | [X / xAI](../by-program/x.md) | None | — | 39 |
-| 340 | [141120](../reports/141120.md) | Parameter Manipulation allowed for editing the shipping address f | [Starbucks](../by-program/starbucks.md) | None | — | 37 |
-| 341 | [121696](../reports/121696.md) | Bypass  two-factor authentication | [Slack](../by-program/slack.md) | None | — | 35 |
-| 342 | [284](../reports/284.md) | Broken Authentication and session management OWASP A2 | [HackerOne](../by-program/security.md) | None | — | 34 |
+| 339 | [808762](../reports/808762.md) | Exposed Slinky Instance Admin Panel | [Shopify](../by-program/shopify.md) | None | — | 41 |
+| 340 | [129381](../reports/129381.md) | niche s3 buckets are readable/writeable/deleteable by authorized  | [X / xAI](../by-program/x.md) | None | — | 39 |
+| 341 | [141120](../reports/141120.md) | Parameter Manipulation allowed for editing the shipping address f | [Starbucks](../by-program/starbucks.md) | None | — | 37 |
+| 342 | [121696](../reports/121696.md) | Bypass  two-factor authentication | [Slack](../by-program/slack.md) | None | — | 35 |
 | 343 | [167489](../reports/167489.md) | Bybass The Closing of the account and logged again to your accoun | [Yelp](../by-program/yelp.md) | None | — | 34 |
-| 344 | [42587](../reports/42587.md) | Vimeo.com Insecure Direct Object References Reset Password | [Vimeo](../by-program/vimeo.md) | None | — | 30 |
-| 345 | [98247](../reports/98247.md) | login to any user's cashier account and full account information  | [Deriv.com](../by-program/deriv.md) | None | — | 27 |
-| 346 | [128085](../reports/128085.md) | Bypassing password authentication of users that have 2FA enabled | [GitLab](../by-program/gitlab.md) | None | — | 26 |
-| 347 | [1421804](../reports/1421804.md) | Direct Access To admin Dashboard | [Shopify](../by-program/shopify.md) | None | — | 26 |
-| 348 | [17474](../reports/17474.md) | Broken Authentication and Session Management | [Phabricator](../by-program/phabricator.md) | None | — | 25 |
-| 349 | [449671](../reports/449671.md) | Broken Authentication and session management OWASP A2 | [Liberapay](../by-program/liberapay.md) | None | — | 23 |
-| 350 | [708917](../reports/708917.md) | Rate Limit Misconfiguration on tumblr login . | [Automattic](../by-program/automattic.md) | None | — | 21 |
-| 351 | [1129816](../reports/1129816.md) | Member still able close another user poll on communities topic | [VK.com](../by-program/vkcom.md) | None | — | 20 |
-| 352 | [208407](../reports/208407.md) | Able to create basic user account via Google login on HackerOne D | [HackerOne](../by-program/security.md) | None | — | 20 |
-| 353 | [173043](../reports/173043.md) | Bypassing "You've requested your data the maximum number of times | [Snapchat](../by-program/snapchat.md) | None | — | 20 |
-| 354 | [115452](../reports/115452.md) | Email Spoof | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 19 |
+| 344 | [284](../reports/284.md) | Broken Authentication and session management OWASP A2 | [HackerOne](../by-program/security.md) | None | — | 34 |
+| 345 | [42587](../reports/42587.md) | Vimeo.com Insecure Direct Object References Reset Password | [Vimeo](../by-program/vimeo.md) | None | — | 30 |
+| 346 | [98247](../reports/98247.md) | login to any user's cashier account and full account information  | [Deriv.com](../by-program/deriv.md) | None | — | 27 |
+| 347 | [128085](../reports/128085.md) | Bypassing password authentication of users that have 2FA enabled | [GitLab](../by-program/gitlab.md) | None | — | 26 |
+| 348 | [1421804](../reports/1421804.md) | Direct Access To admin Dashboard | [Shopify](../by-program/shopify.md) | None | — | 26 |
+| 349 | [17474](../reports/17474.md) | Broken Authentication and Session Management | [Phabricator](../by-program/phabricator.md) | None | — | 25 |
+| 350 | [449671](../reports/449671.md) | Broken Authentication and session management OWASP A2 | [Liberapay](../by-program/liberapay.md) | None | — | 23 |
+| 351 | [708917](../reports/708917.md) | Rate Limit Misconfiguration on tumblr login . | [Automattic](../by-program/automattic.md) | None | — | 21 |
+| 352 | [173043](../reports/173043.md) | Bypassing "You've requested your data the maximum number of times | [Snapchat](../by-program/snapchat.md) | None | — | 20 |
+| 353 | [208407](../reports/208407.md) | Able to create basic user account via Google login on HackerOne D | [HackerOne](../by-program/security.md) | None | — | 20 |
+| 354 | [1129816](../reports/1129816.md) | Member still able close another user poll on communities topic | [VK.com](../by-program/vkcom.md) | None | — | 20 |
 | 355 | [154405](../reports/154405.md) | Read access to hidden orders,products,customers etc. by limited a | [Shopify](../by-program/shopify.md) | None | — | 19 |
 | 356 | [145629](../reports/145629.md) | 2-factor authentication bypass | [Algolia](../by-program/algolia.md) | None | — | 19 |
-| 357 | [170161](../reports/170161.md) | Password reset token not expiring | [Yelp](../by-program/yelp.md) | None | — | 18 |
-| 358 | [138244](../reports/138244.md) | Missing access control exposing detailed information on all users | [WP API](../by-program/wp-api.md) | None | — | 17 |
+| 357 | [115452](../reports/115452.md) | Email Spoof | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 19 |
+| 358 | [170161](../reports/170161.md) | Password reset token not expiring | [Yelp](../by-program/yelp.md) | None | — | 18 |
 | 359 | [116927](../reports/116927.md) | Spf  | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 17 |
-| 360 | [99857](../reports/99857.md) | Request Accepts without X-CSRFToken  [ Header - Cookie ] | [drchrono](../by-program/drchrono.md) | None | — | 16 |
+| 360 | [138244](../reports/138244.md) | Missing access control exposing detailed information on all users | [WP API](../by-program/wp-api.md) | None | — | 17 |
 | 361 | [119166](../reports/119166.md) | Able to view others' gifts on /gift/share URL, giftId is predicta | [Udemy](../by-program/udemy.md) | None | — | 16 |
-| 362 | [95552](../reports/95552.md) | IDOR- Activate Mopub on different organizations- steal api token- | [X / xAI](../by-program/x.md) | None | — | 16 |
-| 363 | [135989](../reports/135989.md) | Employees with Any Permissions Can Create App with Full Permissio | [Moneybird](../by-program/moneybird.md) | None | — | 15 |
-| 364 | [230525](../reports/230525.md) | Domain takeover (legalrobot.co.za) | [Legal Robot](../by-program/legalrobot.md) | None | — | 15 |
+| 362 | [99857](../reports/99857.md) | Request Accepts without X-CSRFToken  [ Header - Cookie ] | [drchrono](../by-program/drchrono.md) | None | — | 16 |
+| 363 | [95552](../reports/95552.md) | IDOR- Activate Mopub on different organizations- steal api token- | [X / xAI](../by-program/x.md) | None | — | 16 |
+| 364 | [135989](../reports/135989.md) | Employees with Any Permissions Can Create App with Full Permissio | [Moneybird](../by-program/moneybird.md) | None | — | 15 |
 | 365 | [171337](../reports/171337.md) | Near-duplicate accounts allowed with ignored email mutations | [Legal Robot](../by-program/legalrobot.md) | None | — | 15 |
-| 366 | [142221](../reports/142221.md) | Bypass OTP verification when placing Order | [Eternal](../by-program/eternal.md) | None | — | 14 |
-| 367 | [17383](../reports/17383.md) | Category- Broken Authentication and Session Management (leads to  | [HackerOne](../by-program/security.md) | None | — | 14 |
+| 366 | [230525](../reports/230525.md) | Domain takeover (legalrobot.co.za) | [Legal Robot](../by-program/legalrobot.md) | None | — | 15 |
+| 367 | [142221](../reports/142221.md) | Bypass OTP verification when placing Order | [Eternal](../by-program/eternal.md) | None | — | 14 |
 | 368 | [1305766](../reports/1305766.md) | There is no rate limit for SME REGISTRATION PORTAL | [MTN Group](../by-program/mtn_group.md) | None | — | 14 |
 | 369 | [152080](../reports/152080.md) | Broken authentication and session management flaw  | [Coursera](../by-program/coursera.md) | None | — | 14 |
-| 370 | [493791](../reports/493791.md) | Inadequate cache control in gitter allows to view private chat ro | [GitLab](../by-program/gitlab.md) | None | — | 13 |
-| 371 | [253926](../reports/253926.md) | DKIM records not present, Email Hijacking is possible..... | [Weblate](../by-program/weblate.md) | None | — | 12 |
+| 370 | [17383](../reports/17383.md) | Category- Broken Authentication and Session Management (leads to  | [HackerOne](../by-program/security.md) | None | — | 14 |
+| 371 | [493791](../reports/493791.md) | Inadequate cache control in gitter allows to view private chat ro | [GitLab](../by-program/gitlab.md) | None | — | 13 |
 | 372 | [123572](../reports/123572.md) | Unauthorized Team members viewing | [HackerOne](../by-program/security.md) | None | — | 12 |
-| 373 | [4795](../reports/4795.md) | Bypass auth.email-domains | [Concrete CMS](../by-program/concretecms.md) | None | — | 11 |
-| 374 | [165561](../reports/165561.md) | Physical Access to Mobile App Allows Local Attribute Updates with | [Uber](../by-program/uber.md) | None | — | 10 |
-| 375 | [148151](../reports/148151.md) | SMB User Authentication Bypass and Persistence | [ownCloud](../by-program/owncloud.md) | None | — | 10 |
-| 376 | [156941](../reports/156941.md) | bug | [Veris](../by-program/veris.md) | None | — | 10 |
-| 377 | [23579](../reports/23579.md) | Broken Authentication and Session Management | [Secret](../by-program/secret.md) | None | — | 10 |
-| 378 | [145950](../reports/145950.md) | Uploading files to a folder where invited user don't have any EDI | [Nextcloud](../by-program/nextcloud.md) | None | — | 10 |
-| 379 | [158270](../reports/158270.md) | Business logic Failure - Browser cache management and logout vuln | [Certly](../by-program/certly.md) | None | — | 10 |
-| 380 | [145727](../reports/145727.md) | Bruteforcing help.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | None | — | 10 |
-| 381 | [2575](../reports/2575.md) | Slack OAuth2 "redirect_uri" Bypass  | [Slack](../by-program/slack.md) | None | — | 10 |
-| 382 | [19640](../reports/19640.md) | Session Hijacking attack (Different Scenario) | [HackerOne](../by-program/security.md) | None | — | 10 |
+| 373 | [253926](../reports/253926.md) | DKIM records not present, Email Hijacking is possible..... | [Weblate](../by-program/weblate.md) | None | — | 12 |
+| 374 | [4795](../reports/4795.md) | Bypass auth.email-domains | [Concrete CMS](../by-program/concretecms.md) | None | — | 11 |
+| 375 | [2575](../reports/2575.md) | Slack OAuth2 "redirect_uri" Bypass  | [Slack](../by-program/slack.md) | None | — | 10 |
+| 376 | [148151](../reports/148151.md) | SMB User Authentication Bypass and Persistence | [ownCloud](../by-program/owncloud.md) | None | — | 10 |
+| 377 | [165561](../reports/165561.md) | Physical Access to Mobile App Allows Local Attribute Updates with | [Uber](../by-program/uber.md) | None | — | 10 |
+| 378 | [52646](../reports/52646.md) | Insecure direct object reference - have access to deleted DM's | [X / xAI](../by-program/x.md) | None | — | 10 |
+| 379 | [23579](../reports/23579.md) | Broken Authentication and Session Management | [Secret](../by-program/secret.md) | None | — | 10 |
+| 380 | [156941](../reports/156941.md) | bug | [Veris](../by-program/veris.md) | None | — | 10 |
+| 381 | [158270](../reports/158270.md) | Business logic Failure - Browser cache management and logout vuln | [Certly](../by-program/certly.md) | None | — | 10 |
+| 382 | [145727](../reports/145727.md) | Bruteforcing help.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | None | — | 10 |
 | 383 | [1712329](../reports/1712329.md) | [nextcloud/server] Moment.js vulnerable to Inefficient Regular Ex | [Nextcloud](../by-program/nextcloud.md) | None | — | 10 |
-| 384 | [52646](../reports/52646.md) | Insecure direct object reference - have access to deleted DM's | [X / xAI](../by-program/x.md) | None | — | 10 |
-| 385 | [173251](../reports/173251.md) | Password Reset emails missing TLS leads account takeover | [RubyGems](../by-program/rubygems.md) | None | — | 9 |
-| 386 | [116029](../reports/116029.md) | Private program activity timeline information disclosure | [HackerOne](../by-program/security.md) | None | — | 9 |
-| 387 | [2746](../reports/2746.md) | Data exports stored on S3 can be scraped easily | [Slack](../by-program/slack.md) | None | — | 9 |
-| 388 | [158157](../reports/158157.md) | shopper login_code's can be brute forced | [Instacart](../by-program/instacart.md) | None | — | 9 |
-| 389 | [13959](../reports/13959.md) | privilege escalation | [Automattic](../by-program/automattic.md) | None | — | 9 |
-| 390 | [161924](../reports/161924.md) | Password Reset Link issue | [Nextcloud](../by-program/nextcloud.md) | None | — | 9 |
-| 391 | [157876](../reports/157876.md) | (FULL PATH DISCLOSURE) Unknown MySQL server host 'shardm-reader.c | [Shopify](../by-program/shopify.md) | None | — | 8 |
-| 392 | [163491](../reports/163491.md) | CORS (Cross-Origin Resource Sharing) | [Legal Robot](../by-program/legalrobot.md) | None | — | 8 |
-| 393 | [23363](../reports/23363.md) | Forgot Password Issue | [Phabricator](../by-program/phabricator.md) | None | — | 8 |
-| 394 | [78781](../reports/78781.md) | Critical : Access to group videos where videos are restricted for | [ok.ru](../by-program/ok.md) | None | — | 8 |
-| 395 | [1065128](../reports/1065128.md) | No Rate Limit On dashboard.myndr.net/auth | [Myndr](../by-program/myndr.md) | None | — | 8 |
-| 396 | [7226](../reports/7226.md) | Login page password-guessing attack(Brute-force attack-High). | [IRCCloud](../by-program/irccloud.md) | None | — | 8 |
-| 397 | [48416](../reports/48416.md) | Restrict any user from logging into his account. | [HackerOne](../by-program/security.md) | None | — | 8 |
-| 398 | [242874](../reports/242874.md) | Bypassing Verify Humans Page | [Stellar.org](../by-program/stellar.md) | None | — | 8 |
-| 399 | [250243](../reports/250243.md) | Users with 2FA can have multiple sessions | [Legal Robot](../by-program/legalrobot.md) | None | — | 8 |
-| 400 | [141541](../reports/141541.md) | User with no permissions can access full wdcalendar feed | [drchrono](../by-program/drchrono.md) | None | — | 8 |
-| 401 | [57603](../reports/57603.md) | API: missing invalidation of OAuth2 Authorization Code during acc | [Vimeo](../by-program/vimeo.md) | None | — | 8 |
-| 402 | [56002](../reports/56002.md) | Shopify android client all API request's response leakage, includ | [Shopify](../by-program/shopify.md) | None | — | 8 |
-| 403 | [145896](../reports/145896.md) | Password reset link remains valid after email change | [Nextcloud](../by-program/nextcloud.md) | None | — | 7 |
-| 404 | [244875](../reports/244875.md) | Session Not Expired On Logout | [WakaTime](../by-program/wakatime.md) | None | — | 7 |
-| 405 | [255474](../reports/255474.md) | Profile fields validation bypass | [Legal Robot](../by-program/legalrobot.md) | None | — | 7 |
-| 406 | [5441](../reports/5441.md) | Hack administrator password even if you are a guest | [MS-DOS](../by-program/msdos.md) | None | — | 7 |
-| 407 | [46113](../reports/46113.md) | Can message users without the proper authorization | [Vimeo](../by-program/vimeo.md) | None | — | 7 |
-| 408 | [94568](../reports/94568.md) | http_basic_authenticate_with is suseptible to timing attacks. | [Ruby on Rails](../by-program/rails.md) | None | — | 7 |
-| 409 | [798812](../reports/798812.md) | Broken Authentication and session management OWASP A2 | [WakaTime](../by-program/wakatime.md) | None | — | 7 |
-| 410 | [148538](../reports/148538.md) | No authorization required in iOS device web-application | [Coinbase](../by-program/coinbase.md) | None | — | 7 |
-| 411 | [98469](../reports/98469.md) | Email Verification Link can be Used as Password Reset Link! | [Deriv.com](../by-program/deriv.md) | None | — | 7 |
-| 412 | [6697](../reports/6697.md) | No Captcha or rate limit on Login Page | [ReddAPI](../by-program/reddapi.md) | None | — | 7 |
-| 413 | [66845](../reports/66845.md) | - Guessing registered users in legalrobot.com | [Legal Robot](../by-program/legalrobot.md) | None | — | 7 |
-| 414 | [271253](../reports/271253.md) | NextCloud is also Accepting OCTET-STREAM Type of Documents instea | [Nextcloud](../by-program/nextcloud.md) | None | — | 7 |
-| 415 | [168453](../reports/168453.md) | Users can falsely declare their own Uber account info on the mont | [Uber](../by-program/uber.md) | None | — | 7 |
-| 416 | [164648](../reports/164648.md) | Missing access control at password change | [Legal Robot](../by-program/legalrobot.md) | None | — | 7 |
-| 417 | [116805](../reports/116805.md) | SSL Issue on legalrobot.com | [Legal Robot](../by-program/legalrobot.md) | None | — | 7 |
-| 418 | [213180](../reports/213180.md) | Password reset form ignores email field | [Legal Robot](../by-program/legalrobot.md) | None | — | 6 |
-| 419 | [64561](../reports/64561.md) | missing SPF for legalrobot.com  | [Legal Robot](../by-program/legalrobot.md) | None | — | 6 |
-| 420 | [95589](../reports/95589.md) | Privilege escalation and circumvention of permission to limited a | [Shopify](../by-program/shopify.md) | None | — | 6 |
-| 421 | [145452](../reports/145452.md) | Share owner has no possibility to list all existing derived share | [Nextcloud](../by-program/nextcloud.md) | None | — | 6 |
+| 384 | [145950](../reports/145950.md) | Uploading files to a folder where invited user don't have any EDI | [Nextcloud](../by-program/nextcloud.md) | None | — | 10 |
+| 385 | [19640](../reports/19640.md) | Session Hijacking attack (Different Scenario) | [HackerOne](../by-program/security.md) | None | — | 10 |
+| 386 | [161924](../reports/161924.md) | Password Reset Link issue | [Nextcloud](../by-program/nextcloud.md) | None | — | 9 |
+| 387 | [116029](../reports/116029.md) | Private program activity timeline information disclosure | [HackerOne](../by-program/security.md) | None | — | 9 |
+| 388 | [13959](../reports/13959.md) | privilege escalation | [Automattic](../by-program/automattic.md) | None | — | 9 |
+| 389 | [173251](../reports/173251.md) | Password Reset emails missing TLS leads account takeover | [RubyGems](../by-program/rubygems.md) | None | — | 9 |
+| 390 | [2746](../reports/2746.md) | Data exports stored on S3 can be scraped easily | [Slack](../by-program/slack.md) | None | — | 9 |
+| 391 | [158157](../reports/158157.md) | shopper login_code's can be brute forced | [Instacart](../by-program/instacart.md) | None | — | 9 |
+| 392 | [7226](../reports/7226.md) | Login page password-guessing attack(Brute-force attack-High). | [IRCCloud](../by-program/irccloud.md) | None | — | 8 |
+| 393 | [78781](../reports/78781.md) | Critical : Access to group videos where videos are restricted for | [ok.ru](../by-program/ok.md) | None | — | 8 |
+| 394 | [163491](../reports/163491.md) | CORS (Cross-Origin Resource Sharing) | [Legal Robot](../by-program/legalrobot.md) | None | — | 8 |
+| 395 | [48416](../reports/48416.md) | Restrict any user from logging into his account. | [HackerOne](../by-program/security.md) | None | — | 8 |
+| 396 | [56002](../reports/56002.md) | Shopify android client all API request's response leakage, includ | [Shopify](../by-program/shopify.md) | None | — | 8 |
+| 397 | [242874](../reports/242874.md) | Bypassing Verify Humans Page | [Stellar.org](../by-program/stellar.md) | None | — | 8 |
+| 398 | [57603](../reports/57603.md) | API: missing invalidation of OAuth2 Authorization Code during acc | [Vimeo](../by-program/vimeo.md) | None | — | 8 |
+| 399 | [23363](../reports/23363.md) | Forgot Password Issue | [Phabricator](../by-program/phabricator.md) | None | — | 8 |
+| 400 | [1065128](../reports/1065128.md) | No Rate Limit On dashboard.myndr.net/auth | [Myndr](../by-program/myndr.md) | None | — | 8 |
+| 401 | [250243](../reports/250243.md) | Users with 2FA can have multiple sessions | [Legal Robot](../by-program/legalrobot.md) | None | — | 8 |
+| 402 | [141541](../reports/141541.md) | User with no permissions can access full wdcalendar feed | [drchrono](../by-program/drchrono.md) | None | — | 8 |
+| 403 | [157876](../reports/157876.md) | (FULL PATH DISCLOSURE) Unknown MySQL server host 'shardm-reader.c | [Shopify](../by-program/shopify.md) | None | — | 8 |
+| 404 | [98469](../reports/98469.md) | Email Verification Link can be Used as Password Reset Link! | [Deriv.com](../by-program/deriv.md) | None | — | 7 |
+| 405 | [5441](../reports/5441.md) | Hack administrator password even if you are a guest | [MS-DOS](../by-program/msdos.md) | None | — | 7 |
+| 406 | [255474](../reports/255474.md) | Profile fields validation bypass | [Legal Robot](../by-program/legalrobot.md) | None | — | 7 |
+| 407 | [168453](../reports/168453.md) | Users can falsely declare their own Uber account info on the mont | [Uber](../by-program/uber.md) | None | — | 7 |
+| 408 | [244875](../reports/244875.md) | Session Not Expired On Logout | [WakaTime](../by-program/wakatime.md) | None | — | 7 |
+| 409 | [66845](../reports/66845.md) | - Guessing registered users in legalrobot.com | [Legal Robot](../by-program/legalrobot.md) | None | — | 7 |
+| 410 | [6697](../reports/6697.md) | No Captcha or rate limit on Login Page | [ReddAPI](../by-program/reddapi.md) | None | — | 7 |
+| 411 | [271253](../reports/271253.md) | NextCloud is also Accepting OCTET-STREAM Type of Documents instea | [Nextcloud](../by-program/nextcloud.md) | None | — | 7 |
+| 412 | [164648](../reports/164648.md) | Missing access control at password change | [Legal Robot](../by-program/legalrobot.md) | None | — | 7 |
+| 413 | [46113](../reports/46113.md) | Can message users without the proper authorization | [Vimeo](../by-program/vimeo.md) | None | — | 7 |
+| 414 | [94568](../reports/94568.md) | http_basic_authenticate_with is suseptible to timing attacks. | [Ruby on Rails](../by-program/rails.md) | None | — | 7 |
+| 415 | [145896](../reports/145896.md) | Password reset link remains valid after email change | [Nextcloud](../by-program/nextcloud.md) | None | — | 7 |
+| 416 | [116805](../reports/116805.md) | SSL Issue on legalrobot.com | [Legal Robot](../by-program/legalrobot.md) | None | — | 7 |
+| 417 | [798812](../reports/798812.md) | Broken Authentication and session management OWASP A2 | [WakaTime](../by-program/wakatime.md) | None | — | 7 |
+| 418 | [148538](../reports/148538.md) | No authorization required in iOS device web-application | [Coinbase](../by-program/coinbase.md) | None | — | 7 |
+| 419 | [213180](../reports/213180.md) | Password reset form ignores email field | [Legal Robot](../by-program/legalrobot.md) | None | — | 6 |
+| 420 | [98432](../reports/98432.md) | Urgent : Disclosure of all the apps with hash ID in mopub through | [X / xAI](../by-program/x.md) | None | — | 6 |
+| 421 | [116032](../reports/116032.md) | Private Program Disclosure in /:handle/reports/draft.json endpoin | [HackerOne](../by-program/security.md) | None | — | 6 |
 | 422 | [263508](../reports/263508.md) | Server Side Misconfiguration (EMAIL SPOOFING)  | [GSA Bounty](../by-program/gsa_bbp.md) | None | — | 6 |
-| 423 | [15166](../reports/15166.md) | Password reset token not expiring | [Mavenlink](../by-program/mavenlink.md) | None | — | 6 |
+| 423 | [116609](../reports/116609.md) | SPF Issue  | [Legal Robot](../by-program/legalrobot.md) | None | — | 6 |
 | 424 | [23921](../reports/23921.md) | broken authentication | [Concrete CMS](../by-program/concretecms.md) | None | — | 6 |
-| 425 | [66151](../reports/66151.md) | Invitation is not properly cancelled while inviting to bug report | [HackerOne](../by-program/security.md) | None | — | 6 |
-| 426 | [98432](../reports/98432.md) | Urgent : Disclosure of all the apps with hash ID in mopub through | [X / xAI](../by-program/x.md) | None | — | 6 |
-| 427 | [116609](../reports/116609.md) | SPF Issue  | [Legal Robot](../by-program/legalrobot.md) | None | — | 6 |
-| 428 | [142101](../reports/142101.md) | User with no permissions can create, edit, delete favorite prescr | [drchrono](../by-program/drchrono.md) | None | — | 6 |
-| 429 | [56742](../reports/56742.md) | SPF whitelist of mandrill leads to email forgery | [HackerOne](../by-program/security.md) | None | — | 6 |
-| 430 | [164239](../reports/164239.md) | NON VALIDATION OF SESSIONS AFTER PASSWORD CHANGE | [Udemy](../by-program/udemy.md) | None | — | 6 |
-| 431 | [116032](../reports/116032.md) | Private Program Disclosure in /:handle/reports/draft.json endpoin | [HackerOne](../by-program/security.md) | None | — | 6 |
-| 432 | [27404](../reports/27404.md) | Delete Credit Cards from any Twitter Account in ads.twitter.com [ | [X / xAI](../by-program/x.md) | None | — | 6 |
-| 433 | [77802](../reports/77802.md) | TCP Source Port Pass Firewall | [Shopify](../by-program/shopify.md) | None | — | 6 |
-| 434 | [7036](../reports/7036.md) | Bug in iOS application which could lead to unauthorised access. | [IRCCloud](../by-program/irccloud.md) | None | — | 6 |
-| 435 | [163501](../reports/163501.md) | Email spoofing-fake mail from your mail domain server  | [Legal Robot](../by-program/legalrobot.md) | None | — | 6 |
-| 436 | [59659](../reports/59659.md) | Reopen Disable Accounts/ Hidden Access After Disable | [HackerOne](../by-program/security.md) | None | — | 6 |
-| 437 | [245124](../reports/245124.md) | Session not expired on logout | [WakaTime](../by-program/wakatime.md) | None | — | 5 |
-| 438 | [764558](../reports/764558.md) | Account Takeover with old password and login QR | [BCM Messenger](../by-program/bcm.md) | None | — | 5 |
-| 439 | [66385](../reports/66385.md) | No valid SPF record | [Legal Robot](../by-program/legalrobot.md) | None | — | 5 |
-| 440 | [9088](../reports/9088.md) | Atttacker can send "Invitation Request" to a Project that is not  | [Localize](../by-program/localize.md) | None | — | 5 |
-| 441 | [67660](../reports/67660.md) | Verification code issues for Two-Step Authentication | [Automattic](../by-program/automattic.md) | None | — | 5 |
-| 442 | [119794](../reports/119794.md) | Password modification without knowing actual password & httpOnly  | [Bumble](../by-program/bumble.md) | None | — | 5 |
-| 443 | [148537](../reports/148537.md) | No authorization required in Windows phone web-application | [Coinbase](../by-program/coinbase.md) | None | — | 5 |
-| 444 | [90172](../reports/90172.md) | Tweetdeck (twitter owned app) not revoked | [X / xAI](../by-program/x.md) | None | — | 5 |
-| 445 | [66223](../reports/66223.md) | Two-factor authentication (via SMS) | [Coinbase](../by-program/coinbase.md) | None | — | 5 |
-| 446 | [7041](../reports/7041.md) | iOS application does not destroy session upon logout. | [IRCCloud](../by-program/irccloud.md) | None | — | 5 |
+| 425 | [27404](../reports/27404.md) | Delete Credit Cards from any Twitter Account in ads.twitter.com [ | [X / xAI](../by-program/x.md) | None | — | 6 |
+| 426 | [145452](../reports/145452.md) | Share owner has no possibility to list all existing derived share | [Nextcloud](../by-program/nextcloud.md) | None | — | 6 |
+| 427 | [163501](../reports/163501.md) | Email spoofing-fake mail from your mail domain server  | [Legal Robot](../by-program/legalrobot.md) | None | — | 6 |
+| 428 | [164239](../reports/164239.md) | NON VALIDATION OF SESSIONS AFTER PASSWORD CHANGE | [Udemy](../by-program/udemy.md) | None | — | 6 |
+| 429 | [142101](../reports/142101.md) | User with no permissions can create, edit, delete favorite prescr | [drchrono](../by-program/drchrono.md) | None | — | 6 |
+| 430 | [66151](../reports/66151.md) | Invitation is not properly cancelled while inviting to bug report | [HackerOne](../by-program/security.md) | None | — | 6 |
+| 431 | [56742](../reports/56742.md) | SPF whitelist of mandrill leads to email forgery | [HackerOne](../by-program/security.md) | None | — | 6 |
+| 432 | [7036](../reports/7036.md) | Bug in iOS application which could lead to unauthorised access. | [IRCCloud](../by-program/irccloud.md) | None | — | 6 |
+| 433 | [59659](../reports/59659.md) | Reopen Disable Accounts/ Hidden Access After Disable | [HackerOne](../by-program/security.md) | None | — | 6 |
+| 434 | [77802](../reports/77802.md) | TCP Source Port Pass Firewall | [Shopify](../by-program/shopify.md) | None | — | 6 |
+| 435 | [15166](../reports/15166.md) | Password reset token not expiring | [Mavenlink](../by-program/mavenlink.md) | None | — | 6 |
+| 436 | [95589](../reports/95589.md) | Privilege escalation and circumvention of permission to limited a | [Shopify](../by-program/shopify.md) | None | — | 6 |
+| 437 | [64561](../reports/64561.md) | missing SPF for legalrobot.com  | [Legal Robot](../by-program/legalrobot.md) | None | — | 6 |
+| 438 | [49356](../reports/49356.md) | I Can Delete Any Airbnb Users Symbol! | [Airbnb](../by-program/airbnb.md) | None | — | 5 |
+| 439 | [9088](../reports/9088.md) | Atttacker can send "Invitation Request" to a Project that is not  | [Localize](../by-program/localize.md) | None | — | 5 |
+| 440 | [66385](../reports/66385.md) | No valid SPF record | [Legal Robot](../by-program/legalrobot.md) | None | — | 5 |
+| 441 | [134206](../reports/134206.md) | Defect-Security | Driver-Broken Authentication | Able to update t | [Uber](../by-program/uber.md) | None | — | 5 |
+| 442 | [243842](../reports/243842.md) | Password token validation in Weblate Bypass | [Weblate](../by-program/weblate.md) | None | — | 5 |
+| 443 | [43770](../reports/43770.md) | Ability to Download Music Tracks Without Paying (Missing permissi | [Vimeo](../by-program/vimeo.md) | None | — | 5 |
+| 444 | [133680](../reports/133680.md) | AWS S3 Bucket hotornot-images permissions allow for listing and r | [Bumble](../by-program/bumble.md) | None | — | 5 |
+| 445 | [52176](../reports/52176.md) | Insecure Direct Object References in https://vimeo.com/forums | [Vimeo](../by-program/vimeo.md) | None | — | 5 |
+| 446 | [119794](../reports/119794.md) | Password modification without knowing actual password & httpOnly  | [Bumble](../by-program/bumble.md) | None | — | 5 |
 | 447 | [96855](../reports/96855.md) | Staff members with no permission to  access domains can access th | [Shopify](../by-program/shopify.md) | None | — | 5 |
-| 448 | [43770](../reports/43770.md) | Ability to Download Music Tracks Without Paying (Missing permissi | [Vimeo](../by-program/vimeo.md) | None | — | 5 |
-| 449 | [133680](../reports/133680.md) | AWS S3 Bucket hotornot-images permissions allow for listing and r | [Bumble](../by-program/bumble.md) | None | — | 5 |
-| 450 | [127085](../reports/127085.md) | Use Partner/Driver App Without Being Activated | [Uber](../by-program/uber.md) | None | — | 5 |
-| 451 | [44492](../reports/44492.md) | Flaw in login with twitter to steal Oauth tokens | [X / xAI](../by-program/x.md) | None | — | 5 |
-| 452 | [775531](../reports/775531.md) | No valid SPF record found | [Kubernetes](../by-program/kubernetes.md) | None | — | 5 |
-| 453 | [5596](../reports/5596.md) | एमएस  डॉस प्राणघाती है।   | [MS-DOS](../by-program/msdos.md) | None | — | 5 |
-| 454 | [361368](../reports/361368.md) | Insecure Account Deletion | [Liberapay](../by-program/liberapay.md) | None | — | 5 |
-| 455 | [124173](../reports/124173.md) | Captcha Bypass enable login bruteforce | [Veris](../by-program/veris.md) | None | — | 5 |
-| 456 | [94899](../reports/94899.md) | Paid account can review\download any invoice of any other shop | [Shopify](../by-program/shopify.md) | None | — | 5 |
-| 457 | [52176](../reports/52176.md) | Insecure Direct Object References in https://vimeo.com/forums | [Vimeo](../by-program/vimeo.md) | None | — | 5 |
+| 448 | [52181](../reports/52181.md) | Insecure Direct Object References that allows to read any comment | [Vimeo](../by-program/vimeo.md) | None | — | 5 |
+| 449 | [245124](../reports/245124.md) | Session not expired on logout | [WakaTime](../by-program/wakatime.md) | None | — | 5 |
+| 450 | [5596](../reports/5596.md) | एमएस  डॉस प्राणघाती है।   | [MS-DOS](../by-program/msdos.md) | None | — | 5 |
+| 451 | [67660](../reports/67660.md) | Verification code issues for Two-Step Authentication | [Automattic](../by-program/automattic.md) | None | — | 5 |
+| 452 | [764558](../reports/764558.md) | Account Takeover with old password and login QR | [BCM Messenger](../by-program/bcm.md) | None | — | 5 |
+| 453 | [66223](../reports/66223.md) | Two-factor authentication (via SMS) | [Coinbase](../by-program/coinbase.md) | None | — | 5 |
+| 454 | [124173](../reports/124173.md) | Captcha Bypass enable login bruteforce | [Veris](../by-program/veris.md) | None | — | 5 |
+| 455 | [7041](../reports/7041.md) | iOS application does not destroy session upon logout. | [IRCCloud](../by-program/irccloud.md) | None | — | 5 |
+| 456 | [127085](../reports/127085.md) | Use Partner/Driver App Without Being Activated | [Uber](../by-program/uber.md) | None | — | 5 |
+| 457 | [94899](../reports/94899.md) | Paid account can review\download any invoice of any other shop | [Shopify](../by-program/shopify.md) | None | — | 5 |
 | 458 | [144385](../reports/144385.md) | SMTP server allows anonymous relay from internal addresses to int | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 5 |
-| 459 | [134206](../reports/134206.md) | Defect-Security | Driver-Broken Authentication | Able to update t | [Uber](../by-program/uber.md) | None | — | 5 |
-| 460 | [52181](../reports/52181.md) | Insecure Direct Object References that allows to read any comment | [Vimeo](../by-program/vimeo.md) | None | — | 5 |
-| 461 | [49356](../reports/49356.md) | I Can Delete Any Airbnb Users Symbol! | [Airbnb](../by-program/airbnb.md) | None | — | 5 |
-| 462 | [77330](../reports/77330.md) | Account creation code bypass | [MapLogin](../by-program/maplogin.md) | None | — | 5 |
-| 463 | [243842](../reports/243842.md) | Password token validation in Weblate Bypass | [Weblate](../by-program/weblate.md) | None | — | 5 |
-| 464 | [7954](../reports/7954.md) | Password type input with auto-complete enabled | [Localize](../by-program/localize.md) | None | — | 4 |
-| 465 | [101145](../reports/101145.md) | Remove anyone's pic gravtar | [Automattic](../by-program/automattic.md) | None | — | 4 |
-| 466 | [119262](../reports/119262.md) | Authentication Data are not Clearing  | [Udemy](../by-program/udemy.md) | None | — | 4 |
-| 467 | [124151](../reports/124151.md) | Authentication Bypassing and Sensitive Information Disclosure on  | [Eternal](../by-program/eternal.md) | None | — | 4 |
-| 468 | [119454](../reports/119454.md) | Password(s) can be found via login process. | [Veris](../by-program/veris.md) | None | — | 4 |
-| 469 | [115036](../reports/115036.md) | Weak Password Policy | [Eternal](../by-program/eternal.md) | None | — | 4 |
+| 459 | [44492](../reports/44492.md) | Flaw in login with twitter to steal Oauth tokens | [X / xAI](../by-program/x.md) | None | — | 5 |
+| 460 | [148537](../reports/148537.md) | No authorization required in Windows phone web-application | [Coinbase](../by-program/coinbase.md) | None | — | 5 |
+| 461 | [90172](../reports/90172.md) | Tweetdeck (twitter owned app) not revoked | [X / xAI](../by-program/x.md) | None | — | 5 |
+| 462 | [775531](../reports/775531.md) | No valid SPF record found | [Kubernetes](../by-program/kubernetes.md) | None | — | 5 |
+| 463 | [361368](../reports/361368.md) | Insecure Account Deletion | [Liberapay](../by-program/liberapay.md) | None | — | 5 |
+| 464 | [77330](../reports/77330.md) | Account creation code bypass | [MapLogin](../by-program/maplogin.md) | None | — | 5 |
+| 465 | [28632](../reports/28632.md) | Email field filtering problem. | [Mavenlink](../by-program/mavenlink.md) | None | — | 4 |
+| 466 | [98151](../reports/98151.md) | Non-owner user can remove online store channel and re-add it. | [Shopify](../by-program/shopify.md) | None | — | 4 |
+| 467 | [7954](../reports/7954.md) | Password type input with auto-complete enabled | [Localize](../by-program/localize.md) | None | — | 4 |
+| 468 | [44425](../reports/44425.md) | unvalid open authentication with facebook | [Vimeo](../by-program/vimeo.md) | None | — | 4 |
+| 469 | [8996](../reports/8996.md) | No Bruteforce Protection | [Respondly](../by-program/respondly.md) | None | — | 4 |
 | 470 | [99374](../reports/99374.md) | deleted staff member can add his amazon marketplace web services  | [Shopify](../by-program/shopify.md) | None | — | 4 |
-| 471 | [8996](../reports/8996.md) | No Bruteforce Protection | [Respondly](../by-program/respondly.md) | None | — | 4 |
-| 472 | [21083](../reports/21083.md) | Account Hijacking (Only rare case scenario) | [HackerOne](../by-program/security.md) | None | — | 4 |
-| 473 | [115844](../reports/115844.md) |   Rate limiting on password reset links  | [Legal Robot](../by-program/legalrobot.md) | None | — | 4 |
-| 474 | [115845](../reports/115845.md) |   Rate limiting on Email confirmation link | [Legal Robot](../by-program/legalrobot.md) | None | — | 4 |
-| 475 | [18503](../reports/18503.md) | Top 10 2013-A2-Broken Authentication and Session Management - wor | [Automattic](../by-program/automattic.md) | None | — | 4 |
-| 476 | [28703](../reports/28703.md) | Weak password policy | [IRCCloud](../by-program/irccloud.md) | None | — | 4 |
-| 477 | [203673](../reports/203673.md) | AirFibre products vulnerable to HTTP Header injection | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 4 |
-| 478 | [28632](../reports/28632.md) | Email field filtering problem. | [Mavenlink](../by-program/mavenlink.md) | None | — | 4 |
-| 479 | [17105](../reports/17105.md) | Cache leads to Privacy leaks | [HackerOne](../by-program/security.md) | None | — | 4 |
-| 480 | [98151](../reports/98151.md) | Non-owner user can remove online store channel and re-add it. | [Shopify](../by-program/shopify.md) | None | — | 4 |
-| 481 | [95441](../reports/95441.md) | Unauthorized access to any Store Admin's First & Last name | [Shopify](../by-program/shopify.md) | None | — | 4 |
-| 482 | [22858](../reports/22858.md) | Password Reset Links Not Expiring | [Phabricator](../by-program/phabricator.md) | None | — | 4 |
-| 483 | [146838](../reports/146838.md) | Authentication Issue for easter egg on bonjour.uber.com | [Uber](../by-program/uber.md) | None | — | 4 |
-| 484 | [145730](../reports/145730.md) | newsletter.nextcloud.com: Bypass firewall protection | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
-| 485 | [35287](../reports/35287.md) | getting emails of users/removing them from victims account [using | [X / xAI](../by-program/x.md) | None | — | 4 |
-| 486 | [44425](../reports/44425.md) | unvalid open authentication with facebook | [Vimeo](../by-program/vimeo.md) | None | — | 4 |
-| 487 | [119605](../reports/119605.md) | An adversary can overwhelm the resources by automating Forgot pas | [Coinbase](../by-program/coinbase.md) | None | — | 4 |
-| 488 | [96007](../reports/96007.md) | Domain takoever - https://sellocdn.com | [Shopify](../by-program/shopify.md) | None | — | 4 |
-| 489 | [123731](../reports/123731.md) | Complete or Edit Another User's Profile | [Veris](../by-program/veris.md) | None | — | 4 |
-| 490 | [56936](../reports/56936.md) | Notification request disclose private information about other mys | [Shopify](../by-program/shopify.md) | None | — | 4 |
-| 491 | [163156](../reports/163156.md) | Email Spoofing With Your Website's Email | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 4 |
-| 492 | [1187511](../reports/1187511.md) | Email spoofing | [Sifchain](../by-program/sifchain.md) | None | — | 4 |
-| 493 | [1194598](../reports/1194598.md) | No Valid SPF Records/don't have DMARC record | [Sifchain](../by-program/sifchain.md) | None | — | 3 |
-| 494 | [47362](../reports/47362.md) | Enum phone numbers thru /en/sims/topup/add/ | [Mobile Vikings](../by-program/mobilevikings.md) | None | — | 3 |
-| 495 | [67220](../reports/67220.md) | Expire User Sessions in Admin Site does not expire user session i | [Shopify](../by-program/shopify.md) | None | — | 3 |
-| 496 | [141734](../reports/141734.md) | Bypassing Password Reset   | [drchrono](../by-program/drchrono.md) | None | — | 3 |
-| 497 | [14177](../reports/14177.md) | Token remains alive ever after logging out! | [X / xAI](../by-program/x.md) | None | — | 3 |
-| 498 | [93394](../reports/93394.md) | Unauthenticated access to details of hidden products in any shop  | [Shopify](../by-program/shopify.md) | None | — | 3 |
-| 499 | [37822](../reports/37822.md) | Abuse of "Remember Me" functionality. | [X / xAI](../by-program/x.md) | None | — | 3 |
-| 500 | [56119](../reports/56119.md) | Privecy Issue : view "Protected users" followers and following | [X / xAI](../by-program/x.md) | None | — | 3 |
-| 501 | [115209](../reports/115209.md) | Unauthorized file (invoice) download | [Uber](../by-program/uber.md) | None | — | 3 |
-| 502 | [118514](../reports/118514.md) | Subdomain takeover : URGENT | [KIWI.KI GmbH](../by-program/kiwi-ki.md) | None | — | 3 |
-| 503 | [145462](../reports/145462.md) | No rate limiting on password protected shared file link | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
-| 504 | [139965](../reports/139965.md) | No authentication required to add an email address. | [Phabricator](../by-program/phabricator.md) | None | — | 3 |
-| 505 | [93901](../reports/93901.md) | Bypassing password requirement during deletion of accout | [Shopify](../by-program/shopify.md) | None | — | 3 |
-| 506 | [263728](../reports/263728.md) | Password Complexity  | [Legal Robot](../by-program/legalrobot.md) | None | — | 3 |
-| 507 | [46109](../reports/46109.md) | Brute force on "vimeo" cookie | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
-| 508 | [123496](../reports/123496.md) | User enumeration via error message | [Veris](../by-program/veris.md) | None | — | 3 |
-| 509 | [151847](../reports/151847.md) | The application uses basic authentication. | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
-| 510 | [83710](../reports/83710.md) | apps.owncloud.com: SSL Session cookie without secure flag set | [ownCloud](../by-program/owncloud.md) | None | — | 3 |
-| 511 | [13639](../reports/13639.md) | X/Csrf token problem | [Factlink](../by-program/factlink.md) | None | — | 3 |
-| 512 | [145488](../reports/145488.md) | failure to invalidate session on password change | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
-| 513 | [83667](../reports/83667.md) | apps.owncloud.com: Session Cookie in URL can be captured by hacke | [ownCloud](../by-program/owncloud.md) | None | — | 3 |
-| 514 | [145722](../reports/145722.md) | Bruteforce attack is possible on newsletter.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
-| 515 | [101104](../reports/101104.md) | Subdomain Expired | [X / xAI](../by-program/x.md) | None | — | 3 |
-| 516 | [80883](../reports/80883.md) | Authentication errors in server side validaton of E-MAIL | [Gratipay](../by-program/gratipay.md) | None | — | 3 |
-| 517 | [145402](../reports/145402.md) | No permission set on Activities [Android App] | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
-| 518 | [229987](../reports/229987.md) | Password token validation in https://demo.weblate.org/ | [Weblate](../by-program/weblate.md) | None | — | 3 |
-| 519 | [64626](../reports/64626.md) | Not Completed Accounts Take Over (Urgent bug) | [MapLogin](../by-program/maplogin.md) | None | — | 3 |
-| 520 | [17252](../reports/17252.md) | All Active user sessions should be destroyed when user change his | [Uzbey](../by-program/uzbey.md) | None | — | 3 |
-| 521 | [48065](../reports/48065.md) | open authentication bug | [Coinbase](../by-program/coinbase.md) | None | — | 3 |
-| 522 | [125242](../reports/125242.md) | Create account in uber without signup form | [Uber](../by-program/uber.md) | None | — | 3 |
-| 523 | [92644](../reports/92644.md) | apps.owncloud.com: Referer protection Bypassed | [ownCloud](../by-program/owncloud.md) | None | — | 3 |
-| 524 | [123902](../reports/123902.md) | Complete Profile URL is not Random and not expiring  | [Veris](../by-program/veris.md) | None | — | 2 |
-| 525 | [151583](../reports/151583.md) | User enumeration in wp-admin | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 2 |
-| 526 | [145206](../reports/145206.md) | set Pragma header | [Gratipay](../by-program/gratipay.md) | None | — | 2 |
-| 527 | [148903](../reports/148903.md) | Airship doesn't reject weak passwords | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 2 |
-| 528 | [192986](../reports/192986.md) | User Enumeration | [Gratipay](../by-program/gratipay.md) | None | — | 2 |
-| 529 | [46379](../reports/46379.md) | Group Invite not properly authenticated | [Nearby Live](../by-program/nearby.md) | None | — | 2 |
-| 530 | [145207](../reports/145207.md) | set Expires header | [Gratipay](../by-program/gratipay.md) | None | — | 2 |
-| 531 | [127645](../reports/127645.md) | Session Impersonation in riders.uber.com | [Uber](../by-program/uber.md) | None | — | 2 |
-| 532 | [25191](../reports/25191.md) | SMTP protection not used (please read carefully ) | [Greenhouse.io](../by-program/greenhouse.md) | None | — | 2 |
-| 533 | [129209](../reports/129209.md) | After removing app from facebook app session not expiring. | [Gratipay](../by-program/gratipay.md) | None | — | 2 |
-| 534 | [125634](../reports/125634.md) | Session retention is present which reveals the customer info | [Uber](../by-program/uber.md) | None | — | 2 |
-| 535 | [56177](../reports/56177.md) | SMTP protection not used | [Coin.Space](../by-program/coinspace.md) | None | — | 2 |
-| 536 | [2975](../reports/2975.md) | Deleting Teams implemenation | [Slack](../by-program/slack.md) | None | — | 2 |
-| 537 | [172618](../reports/172618.md) | All Plugins - Direct file access to plugin files Vulnerability | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 2 |
-| 538 | [1187001](../reports/1187001.md) | No valid SPF record found | [Sifchain](../by-program/sifchain.md) | None | — | 2 |
-| 539 | [128895](../reports/128895.md) | User credentials are not strong on vault.uber.com | [Uber](../by-program/uber.md) | None | — | 2 |
-| 540 | [113211](../reports/113211.md) | No Any Kind of Protection on Delete account | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
-| 541 | [864696](../reports/864696.md) | There is any issue No valid SPF Records | [Kubernetes](../by-program/kubernetes.md) | None | — | 1 |
+| 471 | [95441](../reports/95441.md) | Unauthorized access to any Store Admin's First & Last name | [Shopify](../by-program/shopify.md) | None | — | 4 |
+| 472 | [203673](../reports/203673.md) | AirFibre products vulnerable to HTTP Header injection | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 4 |
+| 473 | [96007](../reports/96007.md) | Domain takoever - https://sellocdn.com | [Shopify](../by-program/shopify.md) | None | — | 4 |
+| 474 | [18503](../reports/18503.md) | Top 10 2013-A2-Broken Authentication and Session Management - wor | [Automattic](../by-program/automattic.md) | None | — | 4 |
+| 475 | [119454](../reports/119454.md) | Password(s) can be found via login process. | [Veris](../by-program/veris.md) | None | — | 4 |
+| 476 | [56936](../reports/56936.md) | Notification request disclose private information about other mys | [Shopify](../by-program/shopify.md) | None | — | 4 |
+| 477 | [101145](../reports/101145.md) | Remove anyone's pic gravtar | [Automattic](../by-program/automattic.md) | None | — | 4 |
+| 478 | [115845](../reports/115845.md) |   Rate limiting on Email confirmation link | [Legal Robot](../by-program/legalrobot.md) | None | — | 4 |
+| 479 | [145730](../reports/145730.md) | newsletter.nextcloud.com: Bypass firewall protection | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
+| 480 | [146838](../reports/146838.md) | Authentication Issue for easter egg on bonjour.uber.com | [Uber](../by-program/uber.md) | None | — | 4 |
+| 481 | [123731](../reports/123731.md) | Complete or Edit Another User's Profile | [Veris](../by-program/veris.md) | None | — | 4 |
+| 482 | [21083](../reports/21083.md) | Account Hijacking (Only rare case scenario) | [HackerOne](../by-program/security.md) | None | — | 4 |
+| 483 | [35287](../reports/35287.md) | getting emails of users/removing them from victims account [using | [X / xAI](../by-program/x.md) | None | — | 4 |
+| 484 | [124151](../reports/124151.md) | Authentication Bypassing and Sensitive Information Disclosure on  | [Eternal](../by-program/eternal.md) | None | — | 4 |
+| 485 | [115036](../reports/115036.md) | Weak Password Policy | [Eternal](../by-program/eternal.md) | None | — | 4 |
+| 486 | [119605](../reports/119605.md) | An adversary can overwhelm the resources by automating Forgot pas | [Coinbase](../by-program/coinbase.md) | None | — | 4 |
+| 487 | [28703](../reports/28703.md) | Weak password policy | [IRCCloud](../by-program/irccloud.md) | None | — | 4 |
+| 488 | [1187511](../reports/1187511.md) | Email spoofing | [Sifchain](../by-program/sifchain.md) | None | — | 4 |
+| 489 | [17105](../reports/17105.md) | Cache leads to Privacy leaks | [HackerOne](../by-program/security.md) | None | — | 4 |
+| 490 | [163156](../reports/163156.md) | Email Spoofing With Your Website's Email | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 4 |
+| 491 | [119262](../reports/119262.md) | Authentication Data are not Clearing  | [Udemy](../by-program/udemy.md) | None | — | 4 |
+| 492 | [22858](../reports/22858.md) | Password Reset Links Not Expiring | [Phabricator](../by-program/phabricator.md) | None | — | 4 |
+| 493 | [115844](../reports/115844.md) |   Rate limiting on password reset links  | [Legal Robot](../by-program/legalrobot.md) | None | — | 4 |
+| 494 | [123496](../reports/123496.md) | User enumeration via error message | [Veris](../by-program/veris.md) | None | — | 3 |
+| 495 | [64626](../reports/64626.md) | Not Completed Accounts Take Over (Urgent bug) | [MapLogin](../by-program/maplogin.md) | None | — | 3 |
+| 496 | [145722](../reports/145722.md) | Bruteforce attack is possible on newsletter.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
+| 497 | [145488](../reports/145488.md) | failure to invalidate session on password change | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
+| 498 | [125242](../reports/125242.md) | Create account in uber without signup form | [Uber](../by-program/uber.md) | None | — | 3 |
+| 499 | [93901](../reports/93901.md) | Bypassing password requirement during deletion of accout | [Shopify](../by-program/shopify.md) | None | — | 3 |
+| 500 | [263728](../reports/263728.md) | Password Complexity  | [Legal Robot](../by-program/legalrobot.md) | None | — | 3 |
+| 501 | [83667](../reports/83667.md) | apps.owncloud.com: Session Cookie in URL can be captured by hacke | [ownCloud](../by-program/owncloud.md) | None | — | 3 |
+| 502 | [229987](../reports/229987.md) | Password token validation in https://demo.weblate.org/ | [Weblate](../by-program/weblate.md) | None | — | 3 |
+| 503 | [151847](../reports/151847.md) | The application uses basic authentication. | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
+| 504 | [83710](../reports/83710.md) | apps.owncloud.com: SSL Session cookie without secure flag set | [ownCloud](../by-program/owncloud.md) | None | — | 3 |
+| 505 | [67220](../reports/67220.md) | Expire User Sessions in Admin Site does not expire user session i | [Shopify](../by-program/shopify.md) | None | — | 3 |
+| 506 | [93394](../reports/93394.md) | Unauthenticated access to details of hidden products in any shop  | [Shopify](../by-program/shopify.md) | None | — | 3 |
+| 507 | [13639](../reports/13639.md) | X/Csrf token problem | [Factlink](../by-program/factlink.md) | None | — | 3 |
+| 508 | [47362](../reports/47362.md) | Enum phone numbers thru /en/sims/topup/add/ | [Mobile Vikings](../by-program/mobilevikings.md) | None | — | 3 |
+| 509 | [115209](../reports/115209.md) | Unauthorized file (invoice) download | [Uber](../by-program/uber.md) | None | — | 3 |
+| 510 | [141734](../reports/141734.md) | Bypassing Password Reset   | [drchrono](../by-program/drchrono.md) | None | — | 3 |
+| 511 | [145402](../reports/145402.md) | No permission set on Activities [Android App] | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
+| 512 | [48065](../reports/48065.md) | open authentication bug | [Coinbase](../by-program/coinbase.md) | None | — | 3 |
+| 513 | [145462](../reports/145462.md) | No rate limiting on password protected shared file link | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
+| 514 | [37822](../reports/37822.md) | Abuse of "Remember Me" functionality. | [X / xAI](../by-program/x.md) | None | — | 3 |
+| 515 | [46109](../reports/46109.md) | Brute force on "vimeo" cookie | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
+| 516 | [56119](../reports/56119.md) | Privecy Issue : view "Protected users" followers and following | [X / xAI](../by-program/x.md) | None | — | 3 |
+| 517 | [80883](../reports/80883.md) | Authentication errors in server side validaton of E-MAIL | [Gratipay](../by-program/gratipay.md) | None | — | 3 |
+| 518 | [92644](../reports/92644.md) | apps.owncloud.com: Referer protection Bypassed | [ownCloud](../by-program/owncloud.md) | None | — | 3 |
+| 519 | [17252](../reports/17252.md) | All Active user sessions should be destroyed when user change his | [Uzbey](../by-program/uzbey.md) | None | — | 3 |
+| 520 | [101104](../reports/101104.md) | Subdomain Expired | [X / xAI](../by-program/x.md) | None | — | 3 |
+| 521 | [139965](../reports/139965.md) | No authentication required to add an email address. | [Phabricator](../by-program/phabricator.md) | None | — | 3 |
+| 522 | [1194598](../reports/1194598.md) | No Valid SPF Records/don't have DMARC record | [Sifchain](../by-program/sifchain.md) | None | — | 3 |
+| 523 | [14177](../reports/14177.md) | Token remains alive ever after logging out! | [X / xAI](../by-program/x.md) | None | — | 3 |
+| 524 | [118514](../reports/118514.md) | Subdomain takeover : URGENT | [KIWI.KI GmbH](../by-program/kiwi-ki.md) | None | — | 3 |
+| 525 | [123902](../reports/123902.md) | Complete Profile URL is not Random and not expiring  | [Veris](../by-program/veris.md) | None | — | 2 |
+| 526 | [129209](../reports/129209.md) | After removing app from facebook app session not expiring. | [Gratipay](../by-program/gratipay.md) | None | — | 2 |
+| 527 | [172618](../reports/172618.md) | All Plugins - Direct file access to plugin files Vulnerability | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 2 |
+| 528 | [2975](../reports/2975.md) | Deleting Teams implemenation | [Slack](../by-program/slack.md) | None | — | 2 |
+| 529 | [145207](../reports/145207.md) | set Expires header | [Gratipay](../by-program/gratipay.md) | None | — | 2 |
+| 530 | [148903](../reports/148903.md) | Airship doesn't reject weak passwords | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 2 |
+| 531 | [145206](../reports/145206.md) | set Pragma header | [Gratipay](../by-program/gratipay.md) | None | — | 2 |
+| 532 | [151583](../reports/151583.md) | User enumeration in wp-admin | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 2 |
+| 533 | [125634](../reports/125634.md) | Session retention is present which reveals the customer info | [Uber](../by-program/uber.md) | None | — | 2 |
+| 534 | [56177](../reports/56177.md) | SMTP protection not used | [Coin.Space](../by-program/coinspace.md) | None | — | 2 |
+| 535 | [128895](../reports/128895.md) | User credentials are not strong on vault.uber.com | [Uber](../by-program/uber.md) | None | — | 2 |
+| 536 | [1187001](../reports/1187001.md) | No valid SPF record found | [Sifchain](../by-program/sifchain.md) | None | — | 2 |
+| 537 | [192986](../reports/192986.md) | User Enumeration | [Gratipay](../by-program/gratipay.md) | None | — | 2 |
+| 538 | [46379](../reports/46379.md) | Group Invite not properly authenticated | [Nearby Live](../by-program/nearby.md) | None | — | 2 |
+| 539 | [25191](../reports/25191.md) | SMTP protection not used (please read carefully ) | [Greenhouse.io](../by-program/greenhouse.md) | None | — | 2 |
+| 540 | [127645](../reports/127645.md) | Session Impersonation in riders.uber.com | [Uber](../by-program/uber.md) | None | — | 2 |
+| 541 | [113211](../reports/113211.md) | No Any Kind of Protection on Delete account | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
 | 542 | [263196](../reports/263196.md) | Name can't be numbers or email | [Legal Robot](../by-program/legalrobot.md) | None | — | 1 |
+| 543 | [864696](../reports/864696.md) | There is any issue No valid SPF Records | [Kubernetes](../by-program/kubernetes.md) | None | — | 1 |

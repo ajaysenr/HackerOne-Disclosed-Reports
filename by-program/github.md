@@ -18,8 +18,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 12 | [2336236](../reports/2336236.md) | Privilege Escalation to Root SSH Access via Pre-Receive Hook | High | — | 71 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
 | 13 | [2329466](../reports/2329466.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 61 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
 | 14 | [2332551](../reports/2332551.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 61 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
-| 15 | [2323292](../reports/2323292.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 47 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
-| 16 | [2329547](../reports/2329547.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 47 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
+| 15 | [2329547](../reports/2329547.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 47 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
+| 16 | [2323292](../reports/2323292.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 47 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
 | 17 | [3588801](../reports/3588801.md) | OAuth redirect uri validation bypass for :proxima_first_part | High | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-07-21 |
 | 18 | [3638909](../reports/3638909.md) | GitHub scoped user to server tokens can escape their install | High | — | 4 | [ahacker1](https://hackerone.com/ahacker1) | 2026-07-29 |
 | 19 | [2501036](../reports/2501036.md) | Access body and title of Internal Repo Issues in Projects | Medium | — | 99 | [ahacker1](https://hackerone.com/ahacker1) | 2024-07-31 |

@@ -40,8 +40,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 34 | [327671](../reports/327671.md) | Error Page Content Spoofing or Text Injection  | Low | — | 33 | [asad_anwar](https://hackerone.com/asad_anwar) | 2018-06-29 |
 | 35 | [311330](../reports/311330.md) | Open Redirect | Low | — | 27 | [ankit_singh](https://hackerone.com/ankit_singh) | 2018-12-07 |
 | 36 | [716976](../reports/716976.md) | Open redirect in semrush.com | Low | — | 26 | [batuhanu](https://hackerone.com/batuhanu) | 2019-10-25 |
-| 37 | [491023](../reports/491023.md) | XSS Reflected on my_report | Low | — | 25 | [r0hack](https://hackerone.com/r0hack) | 2019-06-21 |
-| 38 | [297203](../reports/297203.md) | Reflected XSS using Header Injection | Low | — | 25 | [inferno-](https://hackerone.com/inferno-) | 2018-01-18 |
+| 37 | [297203](../reports/297203.md) | Reflected XSS using Header Injection | Low | — | 25 | [inferno-](https://hackerone.com/inferno-) | 2018-01-18 |
+| 38 | [491023](../reports/491023.md) | XSS Reflected on my_report | Low | — | 25 | [r0hack](https://hackerone.com/r0hack) | 2019-06-21 |
 | 39 | [752042](../reports/752042.md) | Content Injection on api.semrush.com to Reflected XSS | Low | — | 16 | [nikitastupin](https://hackerone.com/nikitastupin) | 2020-04-02 |
 | 40 | [316319](../reports/316319.md) | XSS on redirection page( Bypassed)  | Low | — | 15 | [kunal94](https://hackerone.com/kunal94) | 2018-06-13 |
 | 41 | [1358249](../reports/1358249.md) | php info file and sql backup at vendor's subdomain | Low | — | 14 | [rivalsec](https://hackerone.com/rivalsec) | 2021-12-08 |

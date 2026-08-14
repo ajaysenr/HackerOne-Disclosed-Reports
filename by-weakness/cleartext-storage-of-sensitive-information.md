@@ -30,8 +30,8 @@
 | 24 | [612231](../reports/612231.md) | Github Token Leaked publicly for https://github.com/mopub | [X / xAI](../by-program/x.md) | Medium | — | 91 |
 | 25 | [3017105](../reports/3017105.md) | Sensitive API Key Leakage | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 40 |
 | 26 | [3376598](../reports/3376598.md) | Sensitive information exposed at [███] via /export_panelists_to_x | [Mars](../by-program/mars.md) | Medium — CVSS 6.1 | — | 33 |
-| 27 | [1641475](../reports/1641475.md) | Facebook App API credentials leaked in the APK | [GlassWire](../by-program/glasswire.md) | Medium | — | 31 |
-| 28 | [1662194](../reports/1662194.md) | Secret API Key is logged in cleartext  | [Omise](../by-program/omise.md) | Medium | — | 31 |
+| 27 | [1662194](../reports/1662194.md) | Secret API Key is logged in cleartext  | [Omise](../by-program/omise.md) | Medium | — | 31 |
+| 28 | [1641475](../reports/1641475.md) | Facebook App API credentials leaked in the APK | [GlassWire](../by-program/glasswire.md) | Medium | — | 31 |
 | 29 | [2101165](../reports/2101165.md) | user_ldap app logs user passwords in the log file on level debug | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.6 | — | 28 |
 | 30 | [1874155](../reports/1874155.md) | Biometric key is stored in Windows Credential Manager, accessible | [Bitwarden](../by-program/bitwarden.md) | Medium — CVSS 6.2 | — | 19 |
 | 31 | [1255869](../reports/1255869.md) | private keys exposed on the GitHub repository | [MCUboot](../by-program/mcuboot.md) | Medium | — | 13 |
@@ -52,7 +52,7 @@
 | 46 | [1298809](../reports/1298809.md) | Senseitive data Related to Shopify Host -> https://shopify.zendes | [Shopify](../by-program/shopify.md) | None | — | 29 |
 | 47 | [942146](../reports/942146.md) | Open Github Repo Leaking WEBLATE SECRET KEY | [Weblate](../by-program/weblate.md) | None | — | 22 |
 | 48 | [386614](../reports/386614.md) | Slack Token exposed over internet (Github) | [Rocket.Chat](../by-program/rocket_chat.md) | None | — | 14 |
-| 49 | [361089](../reports/361089.md) | twitter api access token leaked on github  | [Liberapay](../by-program/liberapay.md) | None | — | 4 |
-| 50 | [1133670](../reports/1133670.md) |  ETHEREUM_PRIVATE_KEY leaked via Open Github Repository | [Sifchain](../by-program/sifchain.md) | None | — | 4 |
+| 49 | [1133670](../reports/1133670.md) |  ETHEREUM_PRIVATE_KEY leaked via Open Github Repository | [Sifchain](../by-program/sifchain.md) | None | — | 4 |
+| 50 | [361089](../reports/361089.md) | twitter api access token leaked on github  | [Liberapay](../by-program/liberapay.md) | None | — | 4 |
 | 51 | [223384](../reports/223384.md) | Directory Listing  | [Weblate](../by-program/weblate.md) | None | — | 3 |
 | 52 | [1132690](../reports/1132690.md) | Exposed Openapi Token | [Sifchain](../by-program/sifchain.md) | None | — | 3 |

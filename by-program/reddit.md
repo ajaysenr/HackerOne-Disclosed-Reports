@@ -58,8 +58,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 52 | [1202408](../reports/1202408.md) | No Rate Limit on redditgifts gift  when Adding Comment | Low | — | 25 | [gaurav-bhatia](https://hackerone.com/gaurav-bhatia) | 2021-10-21 |
 | 53 | [1165225](../reports/1165225.md) | [dubsmash] Username and password bruteforce | Low — CVSS 3.9 | — | 18 | [asce21](https://hackerone.com/asce21) | 2021-12-13 |
 | 54 | [785833](../reports/785833.md) | registering with the same email address multiple times leads | Low | — | 10 | [whitehacker18](https://hackerone.com/whitehacker18) | 2022-03-14 |
-| 55 | [1165285](../reports/1165285.md) | No Rate limit on change password leads to account takeover | Low | — | 8 | [dreamispossible](https://hackerone.com/dreamispossible) | 2021-12-13 |
-| 56 | [1609004](../reports/1609004.md) | Rate limit is implemented in Reddit , but its not working .  | Low | — | 8 | [suryanm](https://hackerone.com/suryanm) | 2023-05-18 |
+| 55 | [1609004](../reports/1609004.md) | Rate limit is implemented in Reddit , but its not working .  | Low | — | 8 | [suryanm](https://hackerone.com/suryanm) | 2023-05-18 |
+| 56 | [1165285](../reports/1165285.md) | No Rate limit on change password leads to account takeover | Low | — | 8 | [dreamispossible](https://hackerone.com/dreamispossible) | 2021-12-13 |
 | 57 | [1165919](../reports/1165919.md) | Content Spoofing | Low | — | 1 | [abdallah1911](https://hackerone.com/abdallah1911) | 2021-10-21 |
 | 58 | [1209098](../reports/1209098.md) |  XSS | None | — | 10 | [shylo](https://hackerone.com/shylo) | 2021-10-21 |
 | 59 | [1815463](../reports/1815463.md) | oauth misconfigration lead to account takeover | None | — | 10 | [greymanx1](https://hackerone.com/greymanx1) | 2023-05-18 |

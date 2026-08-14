@@ -9,8 +9,8 @@
 | 3 | [3516186](../reports/3516186.md) | Cookie Max-Age Integer Overflow Vulnerability | [curl](../by-program/curl.md) | Critical | — | 28 |
 | 4 | [1113025](../reports/1113025.md) | Integer overflow in CipherUpdate | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.5 | — | 43 |
 | 5 | [3508500](../reports/3508500.md) | integer Overflow in MQTT Protocol Handling Allows Bypassing Messa | [curl](../by-program/curl.md) | High | — | 5 |
-| 6 | [3760016](../reports/3760016.md) | Node.js WebCrypto AES Integer Overflow Leads to Remote Process Ab | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | — | 2 |
-| 7 | [227344](../reports/227344.md) | CVE-2017-8798 - miniupnp getHTTPResponse chunked encoding integer | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.1 | — | 2 |
+| 6 | [227344](../reports/227344.md) | CVE-2017-8798 - miniupnp getHTTPResponse chunked encoding integer | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.1 | — | 2 |
+| 7 | [3760016](../reports/3760016.md) | Node.js WebCrypto AES Integer Overflow Leads to Remote Process Ab | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | — | 2 |
 | 8 | [384477](../reports/384477.md) | Int Overflow lead to Heap OverFlow in exif_thumbnail_extract of e | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.3 | — | 42 |
 | 9 | [661847](../reports/661847.md) | Integer overflows in tool_operate.c at line 1541 | [curl](../by-program/curl.md) | Low — CVSS 3.3 | — | 4 |
 | 10 | [662412](../reports/662412.md) | Integer overflow  at line 1603 in the src/operator.c file | [curl](../by-program/curl.md) | Low — CVSS 3.3 | — | 1 |

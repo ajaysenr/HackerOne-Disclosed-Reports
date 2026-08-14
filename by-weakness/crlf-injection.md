@@ -22,8 +22,8 @@
 | 16 | [413115](../reports/413115.md) | CRLF injection agentcrm.8x8.com | [8x8](../by-program/8x8-bounty.md) | Medium | — | 12 |
 | 17 | [1820955](../reports/1820955.md) | CRLF Injection in Nodejs ‘undici’ via host | [Node.js](../by-program/nodejs.md) | Medium — CVSS 4.6 | — | 11 |
 | 18 | [3633534](../reports/3633534.md) | CRLF Injection in HAProxy PROXY Protocol via CURLOPT_HAPROXY_CLIE | [curl](../by-program/curl.md) | Medium | — | 9 |
-| 19 | [3911605](../reports/3911605.md) | SMTP CRLF injection in custom SMTP recipient operand allows addit | [curl](../by-program/curl.md) | Medium | — | 8 |
-| 20 | [1402249](../reports/1402249.md) | Control character filtering misses leading and trailing whitespac | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 8 |
+| 19 | [1402249](../reports/1402249.md) | Control character filtering misses leading and trailing whitespac | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 8 |
+| 20 | [3911605](../reports/3911605.md) | SMTP CRLF injection in custom SMTP recipient operand allows addit | [curl](../by-program/curl.md) | Medium | — | 8 |
 | 21 | [481512](../reports/481512.md) | CRLF injection on https://buildbot.mariadb.org | [MariaDB](../by-program/mariadb.md) | Medium | — | 7 |
 | 22 | [490997](../reports/490997.md) | [downloads.mariadb.org] CRLF injection in case of encoded query m | [MariaDB](../by-program/mariadb.md) | Medium | — | 6 |
 | 23 | [1664019](../reports/1664019.md) | CVE-2022-35948: CRLF Injection in Nodejs ‘undici’ via Content-Typ | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 6 |

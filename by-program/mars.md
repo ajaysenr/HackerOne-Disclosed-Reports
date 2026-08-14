@@ -36,14 +36,14 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 30 | [2341038](../reports/2341038.md) | Account takeover using reset password link | Medium — CVSS 4.7 | — | 38 | [haoshokunoo](https://hackerone.com/haoshokunoo) | 2024-06-25 |
 | 31 | [2307913](../reports/2307913.md) | RXSS in ███ via S parameter   | Medium — CVSS 6.2 | — | 37 | [mosalah1102](https://hackerone.com/mosalah1102) | 2024-11-19 |
 | 32 | [2887506](../reports/2887506.md) | massive PII  leakage for ███████ | Medium — CVSS 5.7 | — | 35 | [thpless](https://hackerone.com/thpless) | 2025-05-12 |
-| 33 | [2389897](../reports/2389897.md) | Reflected xss on ████████  | Medium — CVSS 6.2 | — | 33 | [blax17](https://hackerone.com/blax17) | 2024-06-25 |
-| 34 | [3376598](../reports/3376598.md) | Sensitive information exposed at [███] via /export_panelists | Medium — CVSS 6.1 | — | 33 | [prakhar0x01](https://hackerone.com/prakhar0x01) | 2026-02-24 |
+| 33 | [3376598](../reports/3376598.md) | Sensitive information exposed at [███] via /export_panelists | Medium — CVSS 6.1 | — | 33 | [prakhar0x01](https://hackerone.com/prakhar0x01) | 2026-02-24 |
+| 34 | [2389897](../reports/2389897.md) | Reflected xss on ████████  | Medium — CVSS 6.2 | — | 33 | [blax17](https://hackerone.com/blax17) | 2024-06-25 |
 | 35 | [2445106](../reports/2445106.md) | CSRF in Delete Pet Function | Medium — CVSS 4.4 | — | 31 | [mosalah1102](https://hackerone.com/mosalah1102) | 2024-11-19 |
 | 36 | [3066548](../reports/3066548.md) | ███████ - Publicly Accessible public_html Directory Exposing | Medium — CVSS 5.7 | — | 28 | [xgoon](https://hackerone.com/xgoon) | 2026-02-24 |
 | 37 | [2828720](../reports/2828720.md) | Customer Data Exposure via Insecure Endpoint of coupon | Medium — CVSS 5.7 | — | 27 | [bughunter0x7](https://hackerone.com/bughunter0x7) | 2025-05-27 |
-| 38 | [3174778](../reports/3174778.md) |  No Rate Limiting on Password Attempts After Insecure Regist | Medium | — | 26 | [azar_man](https://hackerone.com/azar_man) | 2026-02-24 |
-| 39 | [2396630](../reports/2396630.md) | sensitive  data-creds for database - private key | Medium — CVSS 4.6 | — | 26 | [mosalah1102](https://hackerone.com/mosalah1102) | 2024-11-19 |
-| 40 | [1965640](../reports/1965640.md) | ████ ' can add animal to other account ' at ██████ | Medium | — | 26 | [0xs4m](https://hackerone.com/0xs4m) | 2023-06-22 |
+| 38 | [1965640](../reports/1965640.md) | ████ ' can add animal to other account ' at ██████ | Medium | — | 26 | [0xs4m](https://hackerone.com/0xs4m) | 2023-06-22 |
+| 39 | [3174778](../reports/3174778.md) |  No Rate Limiting on Password Attempts After Insecure Regist | Medium | — | 26 | [azar_man](https://hackerone.com/azar_man) | 2026-02-24 |
+| 40 | [2396630](../reports/2396630.md) | sensitive  data-creds for database - private key | Medium — CVSS 4.6 | — | 26 | [mosalah1102](https://hackerone.com/mosalah1102) | 2024-11-19 |
 | 41 | [1943252](../reports/1943252.md) | Response Manipulation lead to bypass verification code while | Medium — CVSS 6.1 | — | 23 | [mo3giza](https://hackerone.com/mo3giza) | 2023-08-30 |
 | 42 | [1947376](../reports/1947376.md) | ███████  ' can delete any animal from other account  '  at █ | Medium | — | 21 | [0xs4m](https://hackerone.com/0xs4m) | 2023-06-23 |
 | 43 | [1921606](../reports/1921606.md) | Stored XSS via ' profile ' at ███ | Medium — CVSS 6.2 | — | 16 | [0xs4m](https://hackerone.com/0xs4m) | 2023-06-23 |

@@ -11,6 +11,6 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 5 | [112001](../reports/112001.md) | XSS on gmchat.gm.com | None | — | 3 | [rmashhoon](https://hackerone.com/rmashhoon) | 2016-05-23 |
 | 6 | [116135](../reports/116135.md) | Reflected Cross Site Script in www.gmcar.gm.com | None | — | 2 | [adrianomarcmont](https://hackerone.com/adrianomarcmont) | 2017-06-09 |
 | 7 | [124578](../reports/124578.md) | Angular Expression Injection in the my.gmc.com Search Page | None | — | 2 | [signalchaos](https://hackerone.com/signalchaos) | 2017-06-09 |
-| 8 | [120622](../reports/120622.md) | Reflected Cross Site Script in imtportal.gm.com | None | — | 1 | [adrianomarcmont](https://hackerone.com/adrianomarcmont) | 2017-06-09 |
-| 9 | [116432](../reports/116432.md) | E-mail Spoof in media.gm.com | None | — | 1 | [adrianomarcmont](https://hackerone.com/adrianomarcmont) | 2016-05-23 |
-| 10 | [116382](../reports/116382.md) | Content Spoof in webcaps.ecomm.gm.com | None | — | 1 | [adrianomarcmont](https://hackerone.com/adrianomarcmont) | 2016-08-30 |
+| 8 | [116432](../reports/116432.md) | E-mail Spoof in media.gm.com | None | — | 1 | [adrianomarcmont](https://hackerone.com/adrianomarcmont) | 2016-05-23 |
+| 9 | [116382](../reports/116382.md) | Content Spoof in webcaps.ecomm.gm.com | None | — | 1 | [adrianomarcmont](https://hackerone.com/adrianomarcmont) | 2016-08-30 |
+| 10 | [120622](../reports/120622.md) | Reflected Cross Site Script in imtportal.gm.com | None | — | 1 | [adrianomarcmont](https://hackerone.com/adrianomarcmont) | 2017-06-09 |

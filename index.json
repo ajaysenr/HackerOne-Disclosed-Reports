@@ -157061,6 +157061,24 @@
     "votes": 28
   },
   {
+    "id": 1989884,
+    "url": "https://hackerone.com/reports/1989884",
+    "title": "Docker Registry without authentication leads to docker images download",
+    "program": "U.S. Dept Of Defense",
+    "program_handle": "deptofdefense",
+    "reporter": "samuelsiv",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-05-16",
+    "disclosed_at": "2023-06-23",
+    "votes": 27
+  },
+  {
     "id": 1989901,
     "url": "https://hackerone.com/reports/1989901",
     "title": "If rate limit is hit, IP address is leaked to anyone who tries to login",
@@ -157077,6 +157095,26 @@
     "reported_at": "2023-05-16",
     "disclosed_at": "2023-09-20",
     "votes": 22
+  },
+  {
+    "id": 1990338,
+    "url": "https://hackerone.com/reports/1990338",
+    "title": "Leaks of username and password leads to CVE-2018-18862 exploitation",
+    "program": "U.S. Dept Of Defense",
+    "program_handle": "deptofdefense",
+    "reporter": "pll25",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2018-18862"
+    ],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-05-17",
+    "disclosed_at": "2023-06-02",
+    "votes": 24
   },
   {
     "id": 1990421,
@@ -157115,6 +157153,24 @@
     "reported_at": "2023-05-17",
     "disclosed_at": "2023-06-24",
     "votes": 29
+  },
+  {
+    "id": 1991290,
+    "url": "https://hackerone.com/reports/1991290",
+    "title": "Endpoint Redirects to Admin Page and Provides Admin role",
+    "program": "U.S. Dept Of Defense",
+    "program_handle": "deptofdefense",
+    "reporter": "bulldawg",
+    "severity": "critical",
+    "cvss": null,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-05-18",
+    "disclosed_at": "2024-07-19",
+    "votes": 28
   },
   {
     "id": 1991376,
@@ -157193,6 +157249,24 @@
     "votes": 24
   },
   {
+    "id": 1994227,
+    "url": "https://hackerone.com/reports/1994227",
+    "title": "response manipulation leads to bypass in register at employee website than 0 click account takeover",
+    "program": "IBM",
+    "program_handle": "ibm",
+    "reporter": "ro0od",
+    "severity": "critical",
+    "cvss": null,
+    "weakness": "Improper Authentication - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "OTHER",
+    "reported_at": "2023-05-19",
+    "disclosed_at": "2023-06-21",
+    "votes": 30
+  },
+  {
     "id": 1994324,
     "url": "https://hackerone.com/reports/1994324",
     "title": "OAuth2 client_secret stored in plain text in the database",
@@ -157211,6 +157285,26 @@
     "reported_at": "2023-05-19",
     "disclosed_at": "2023-11-15",
     "votes": 31
+  },
+  {
+    "id": 1994328,
+    "url": "https://hackerone.com/reports/1994328",
+    "title": "App stores client secret unencrypted in database",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "rullzer",
+    "severity": "low",
+    "cvss": 3.8,
+    "weakness": "Missing Encryption of Sensitive Data",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-39954"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-05-19",
+    "disclosed_at": "2023-08-23",
+    "votes": 3
   },
   {
     "id": 1994585,
@@ -182056,6 +182150,24 @@
     "reported_at": "2026-06-26",
     "disclosed_at": "2026-07-27",
     "votes": 20
+  },
+  {
+    "id": 3829030,
+    "url": "https://hackerone.com/reports/3829030",
+    "title": "Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption",
+    "program": "Yelp",
+    "program_handle": "yelp",
+    "reporter": "0xkarim_dix",
+    "severity": "low",
+    "cvss": 3.3,
+    "weakness": "Violation of Secure Design Principles",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "GOOGLE_PLAY_APP_ID",
+    "reported_at": "2026-06-27",
+    "disclosed_at": "2026-08-13",
+    "votes": 11
   },
   {
     "id": 3831345,

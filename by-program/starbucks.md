@@ -21,8 +21,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 15 | [665398](../reports/665398.md) | Subdomain takeover of datacafe-cert.starbucks.com | High — CVSS 7.5 | — | 310 | [parzel](https://hackerone.com/parzel) | 2019-08-28 |
 | 16 | [549355](../reports/549355.md) | Blind SQL Injection on starbucks.com.gt and WAF Bypass  :* | High | — | 209 | [d3417_](https://hackerone.com/d3417_) | 2019-06-19 |
 | 17 | [473742](../reports/473742.md) | Bug in GraphQL and API integration leads to limited user add | High | — | 143 | [loxiran](https://hackerone.com/loxiran) | 2019-03-08 |
-| 18 | [661751](../reports/661751.md) | Subdomain takeover of d02-1-ag.productioncontroller.starbuck | High — CVSS 8.4 | — | 122 | [mindtrick](https://hackerone.com/mindtrick) | 2019-08-15 |
-| 19 | [570651](../reports/570651.md) | Subdomain takeover of mydailydev.starbucks.com | High — CVSS 7.5 | — | 122 | [0xpatrik](https://hackerone.com/0xpatrik) | 2019-05-22 |
+| 18 | [570651](../reports/570651.md) | Subdomain takeover of mydailydev.starbucks.com | High — CVSS 7.5 | — | 122 | [0xpatrik](https://hackerone.com/0xpatrik) | 2019-05-22 |
+| 19 | [661751](../reports/661751.md) | Subdomain takeover of d02-1-ag.productioncontroller.starbuck | High — CVSS 8.4 | — | 122 | [mindtrick](https://hackerone.com/mindtrick) | 2019-08-15 |
 | 20 | [186766](../reports/186766.md) | Subdomain takeover on happymondays.starbucks.com due to non- | High | — | 105 | [dpgribkov](https://hackerone.com/dpgribkov) | 2016-12-19 |
 | 21 | [388622](../reports/388622.md) | Subdomain takeover on wfmnarptpc.starbucks.com | High | — | 89 | [0xpatrik](https://hackerone.com/0xpatrik) | 2018-08-09 |
 | 22 | [276269](../reports/276269.md) | Multiple Subdomain takeovers via unclaimed instances | High | — | 83 | [benoculars](https://hackerone.com/benoculars) | 2017-12-04 |
@@ -36,11 +36,11 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 30 | [316789](../reports/316789.md) | Able to purchase a gift card with any amount | High — CVSS 8.3 | — | 40 | [qwacsawd](https://hackerone.com/qwacsawd) | 2018-07-20 |
 | 31 | [380158](../reports/380158.md) | svcardproxydevus.starbucks.com Subdomain take over | High | — | 39 | [txt3rob](https://hackerone.com/txt3rob) | 2018-07-23 |
 | 32 | [766437](../reports/766437.md) | Thailand - Insecure Direct Object Reference permits an unaut | High — CVSS 7.6 | — | 35 | [nnez](https://hackerone.com/nnez) | 2020-02-11 |
-| 33 | [188972](../reports/188972.md) | Persistent XSS in www.starbucks.com | High | — | 35 | [ddworken](https://hackerone.com/ddworken) | 2017-01-17 |
-| 34 | [198292](../reports/198292.md) | Time-based Blind SQLi on news.starbucks.com | High | — | 35 | [toctou](https://hackerone.com/toctou) | 2017-02-24 |
+| 33 | [198292](../reports/198292.md) | Time-based Blind SQLi on news.starbucks.com | High | — | 35 | [toctou](https://hackerone.com/toctou) | 2017-02-24 |
+| 34 | [188972](../reports/188972.md) | Persistent XSS in www.starbucks.com | High | — | 35 | [ddworken](https://hackerone.com/ddworken) | 2017-01-17 |
 | 35 | [440629](../reports/440629.md) | Starbucks China Android app cloud storage service leaks a cr | High | — | 33 | [k3mlol](https://hackerone.com/k3mlol) | 2019-09-30 |
-| 36 | [500468](../reports/500468.md) | SSRF at ideas.starbucks.com | High — CVSS 7.9 | — | 32 | [damian89](https://hackerone.com/damian89) | 2019-04-03 |
-| 37 | [762251](../reports/762251.md) | Singapore - XXE at https://www.starbucks.com.sg/RestApi/soap | High — CVSS 7.5 | — | 32 | [rugb](https://hackerone.com/rugb) | 2020-07-22 |
+| 36 | [762251](../reports/762251.md) | Singapore - XXE at https://www.starbucks.com.sg/RestApi/soap | High — CVSS 7.5 | — | 32 | [rugb](https://hackerone.com/rugb) | 2020-07-22 |
+| 37 | [500468](../reports/500468.md) | SSRF at ideas.starbucks.com | High — CVSS 7.9 | — | 32 | [damian89](https://hackerone.com/damian89) | 2019-04-03 |
 | 38 | [767829](../reports/767829.md) | Account take over of 'light' starbuckscardb2b users | High — CVSS 7.5 | — | 30 | [zude](https://hackerone.com/zude) | 2020-01-29 |
 | 39 | [244504](../reports/244504.md) | Possible SOP bypass in www.starbucks.com due to insecure cro | High — CVSS 7.1 | — | 29 | [jackb898](https://hackerone.com/jackb898) | 2017-09-23 |
 | 40 | [227486](../reports/227486.md) | XSS on https://www.starbucks.co.uk (can lead to credit card  | High | — | 27 | [bayotop](https://hackerone.com/bayotop) | 2018-05-22 |
@@ -75,15 +75,15 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 69 | [190798](../reports/190798.md) | Reflected XSS on teavana.com (Locale-Change) | Medium | — | 15 | [inhibitor181](https://hackerone.com/inhibitor181) | 2017-06-09 |
 | 70 | [389454](../reports/389454.md) | Backup Source Code Detected | Medium — CVSS 5.3 | — | 15 | [linkks](https://hackerone.com/linkks) | 2018-09-21 |
 | 71 | [209736](../reports/209736.md) | DOM XSS on teavana.com via "pr_zip_location" parameter | Medium | — | 15 | [fizhimchik](https://hackerone.com/fizhimchik) | 2017-05-03 |
-| 72 | [177472](../reports/177472.md) | CSRF: add item to victim's cart automatically (starbucks.com | Medium | — | 13 | [bughuntermate](https://hackerone.com/bughuntermate) | 2017-06-02 |
+| 72 | [701160](../reports/701160.md) | India - An Insecure Direct Object Reference (IDOR) allowed u | Medium — CVSS 5.0 | — | 13 | [mr_intrusionist](https://hackerone.com/mr_intrusionist) | 2019-12-12 |
 | 73 | [396493](../reports/396493.md) | Reflected DOM XSS on www.starbucks.co.uk | Medium | — | 13 | [bayotop](https://hackerone.com/bayotop) | 2020-06-16 |
-| 74 | [252908](../reports/252908.md) | Reflected XSS on https://www.starbucks.co.uk/shop/paymentmet | Medium — CVSS 4.2 | — | 13 | [bayotop](https://hackerone.com/bayotop) | 2020-06-16 |
-| 75 | [701160](../reports/701160.md) | India - An Insecure Direct Object Reference (IDOR) allowed u | Medium — CVSS 5.0 | — | 13 | [mr_intrusionist](https://hackerone.com/mr_intrusionist) | 2019-12-12 |
+| 74 | [177472](../reports/177472.md) | CSRF: add item to victim's cart automatically (starbucks.com | Medium | — | 13 | [bughuntermate](https://hackerone.com/bughuntermate) | 2017-06-02 |
+| 75 | [252908](../reports/252908.md) | Reflected XSS on https://www.starbucks.co.uk/shop/paymentmet | Medium — CVSS 4.2 | — | 13 | [bayotop](https://hackerone.com/bayotop) | 2020-06-16 |
 | 76 | [213190](../reports/213190.md) | Reflected XSS in openapi.starbucks.com /searchasyoutype/v1/s | Medium | — | 10 | [an0n-j](https://hackerone.com/an0n-j) | 2017-07-25 |
-| 77 | [233099](../reports/233099.md) | CSRF in Report Lost or Stolen Page https://www.starbucks.com | Medium — CVSS 4.5 | — | 9 | [darwinks](https://hackerone.com/darwinks) | 2017-09-25 |
-| 78 | [197585](../reports/197585.md) | Starbucks.com is reachable via ip address thus possible to l | Medium | — | 9 | [cj862530](https://hackerone.com/cj862530) | 2017-01-26 |
-| 79 | [768345](../reports/768345.md) | Korea - Reflected XSS on https://www.istarbucks.co.kr/app/ge | Medium — CVSS 6.4 | — | 8 | [rexvuz](https://hackerone.com/rexvuz) | 2020-08-18 |
-| 80 | [177639](../reports/177639.md) | CSRF exploit | Adding/Editing comment of wishlist items (tea | Medium | — | 8 | [faisalahmed](https://hackerone.com/faisalahmed) | 2017-02-13 |
+| 77 | [197585](../reports/197585.md) | Starbucks.com is reachable via ip address thus possible to l | Medium | — | 9 | [cj862530](https://hackerone.com/cj862530) | 2017-01-26 |
+| 78 | [233099](../reports/233099.md) | CSRF in Report Lost or Stolen Page https://www.starbucks.com | Medium — CVSS 4.5 | — | 9 | [darwinks](https://hackerone.com/darwinks) | 2017-09-25 |
+| 79 | [177639](../reports/177639.md) | CSRF exploit | Adding/Editing comment of wishlist items (tea | Medium | — | 8 | [faisalahmed](https://hackerone.com/faisalahmed) | 2017-02-13 |
+| 80 | [768345](../reports/768345.md) | Korea - Reflected XSS on https://www.istarbucks.co.kr/app/ge | Medium — CVSS 6.4 | — | 8 | [rexvuz](https://hackerone.com/rexvuz) | 2020-08-18 |
 | 81 | [217430](../reports/217430.md) | [connect.teavana.com] Open Redirect and abuse of connect.tea | Medium | — | 8 | [rbcafe](https://hackerone.com/rbcafe) | 2017-07-27 |
 | 82 | [450882](../reports/450882.md) | Able to bypass information requirements before launching a C | Medium | — | 6 | [notahackman](https://hackerone.com/notahackman) | 2018-12-20 |
 | 83 | [482707](../reports/482707.md) | Information Exposure Through an Error Message at news.starbu | Medium | — | 5 | [seytan6161](https://hackerone.com/seytan6161) | 2019-01-31 |

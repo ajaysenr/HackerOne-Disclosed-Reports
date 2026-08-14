@@ -60,8 +60,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 54 | [350119](../reports/350119.md) | Buffer overflows in demo parsing | Medium | — | 33 | [yalter](https://hackerone.com/yalter) | 2018-08-28 |
 | 55 | [780167](../reports/780167.md) | Hidden scheduled partner events are propagated to Steam clie | Medium | — | 31 | [xpaw](https://hackerone.com/xpaw) | 2020-03-20 |
 | 56 | [292457](../reports/292457.md) | Reflected XSS in www.dota2.com | Medium | — | 30 | [jr0ch17](https://hackerone.com/jr0ch17) | 2018-05-09 |
-| 57 | [852091](../reports/852091.md) | Privilege Escalation vulnerability in steam's Remote Play fe | Medium — CVSS 4.7 | — | 22 | [hydraskyteam](https://hackerone.com/hydraskyteam) | 2021-09-21 |
-| 58 | [541020](../reports/541020.md) | GetGlobalAchievementPercentagesForApp is missing the same re | Medium — CVSS 6.8 | — | 22 | [xpaw](https://hackerone.com/xpaw) | 2020-02-19 |
+| 57 | [541020](../reports/541020.md) | GetGlobalAchievementPercentagesForApp is missing the same re | Medium — CVSS 6.8 | — | 22 | [xpaw](https://hackerone.com/xpaw) | 2020-02-19 |
+| 58 | [852091](../reports/852091.md) | Privilege Escalation vulnerability in steam's Remote Play fe | Medium — CVSS 4.7 | — | 22 | [hydraskyteam](https://hackerone.com/hydraskyteam) | 2021-09-21 |
 | 59 | [349681](../reports/349681.md) | Aapp name leakage on economy history page | Medium — CVSS 5.0 | — | 16 | [xpaw](https://hackerone.com/xpaw) | 2018-05-24 |
 | 60 | [390429](../reports/390429.md) | Reflected XSS on help.steampowered.com | Medium — CVSS 4.6 | — | 14 | [xpaw](https://hackerone.com/xpaw) | 2019-01-07 |
 | 61 | [353334](../reports/353334.md) | Unfiltered input allows for XSS in "Playtime Item Grants" fi | Medium — CVSS 4.1 | — | 12 | [xpaw](https://hackerone.com/xpaw) | 2018-05-24 |

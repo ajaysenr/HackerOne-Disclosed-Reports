@@ -1,4 +1,4 @@
-# Weakness: Missing Encryption of Sensitive Data (6 reports)
+# Weakness: Missing Encryption of Sensitive Data (7 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -10,3 +10,4 @@
 | 4 | [1794884](../reports/1794884.md) | Unauthenticated phpinfo()files could lead to ability file read at | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 9 |
 | 5 | [2279759](../reports/2279759.md) | curl HSTS long file name clears contents  | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 57 |
 | 6 | [2236133](../reports/2236133.md) | CVE-2023-46219: HSTS long file name clears contents | [curl](../by-program/curl.md) | Low | — | 27 |
+| 7 | [1994328](../reports/1994328.md) | App stores client secret unencrypted in database | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.8 | — | 3 |

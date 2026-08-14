@@ -51,8 +51,8 @@
 | 45 | [831962](../reports/831962.md) | XSS on Issue reference numbers | [GitLab](../by-program/gitlab.md) | Medium | — | 49 |
 | 46 | [1238528](../reports/1238528.md) | wp-embed XSS on Safari | [WordPress](../by-program/wordpress.md) | Medium | — | 47 |
 | 47 | [508517](../reports/508517.md) | DOM based XSS on /GTAOnline/tw/starterpack/ | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 45 |
-| 48 | [2343548](../reports/2343548.md) | XSS in IBM InfoCenter | [IBM](../by-program/ibm.md) | Medium — CVSS 6.4 | — | 39 |
-| 49 | [1767151](../reports/1767151.md) | DOM based XSS via insecure parameter on [ https://uberpay-mock-ps | [Uber](../by-program/uber.md) | Medium — CVSS 6.1 | — | 39 |
+| 48 | [1767151](../reports/1767151.md) | DOM based XSS via insecure parameter on [ https://uberpay-mock-ps | [Uber](../by-program/uber.md) | Medium — CVSS 6.1 | — | 39 |
+| 49 | [2343548](../reports/2343548.md) | XSS in IBM InfoCenter | [IBM](../by-program/ibm.md) | Medium — CVSS 6.4 | — | 39 |
 | 50 | [507139](../reports/507139.md) | DOM based XSS in the WooCommerce plugin | [Automattic](../by-program/automattic.md) | Medium — CVSS 5.4 | — | 37 |
 | 51 | [1736378](../reports/1736378.md) | DOM XSS at `https://adobedocs.github.io/OAE_PartnerAPI/?configUrl | [Adobe](../by-program/adobe.md) | Medium — CVSS 6.1 | — | 37 |
 | 52 | [1245165](../reports/1245165.md) | CSS Injection via Client Side Path Traversal + Open Redirect lead | [Acronis](../by-program/acronis.md) | Medium | — | 36 |
@@ -67,13 +67,13 @@
 | 61 | [247246](../reports/247246.md) | Dom based xss affecting all pages from https://www.grab.com/. | [Grab](../by-program/grab.md) | Medium — CVSS 6.1 | — | 16 |
 | 62 | [708592](../reports/708592.md) | [█████] — DOM-based XSS on endpoint `/?s=` | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 15 |
 | 63 | [1736327](../reports/1736327.md) | DOM XSS at `https://adobedocs.github.io/indesign-api-docs/?config | [Adobe](../by-program/adobe.md) | Medium — CVSS 6.1 | — | 14 |
-| 64 | [1744212](../reports/1744212.md) | HTML INJECTION on https://adobedocs.github.io/JourneyAPI/ due to  | [Adobe](../by-program/adobe.md) | Medium | — | 12 |
-| 65 | [753971](../reports/753971.md) | [htmr] DOM-based XSS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.5 | — | 12 |
+| 64 | [753971](../reports/753971.md) | [htmr] DOM-based XSS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.5 | — | 12 |
+| 65 | [1744212](../reports/1744212.md) | HTML INJECTION on https://adobedocs.github.io/JourneyAPI/ due to  | [Adobe](../by-program/adobe.md) | Medium | — | 12 |
 | 66 | [962902](../reports/962902.md) | Session Hijack via Self-XSS | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 5.4 | — | 11 |
 | 67 | [216453](../reports/216453.md) | Unfiltered `class` attribute in markdown code | [GitLab](../by-program/gitlab.md) | Medium — CVSS 5.4 | — | 11 |
 | 68 | [700726](../reports/700726.md) | Reflected XSS  on Lark Suite | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 4.7 | — | 10 |
-| 69 | [922496](../reports/922496.md) | DOM XSS on https://www.███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
-| 70 | [299924](../reports/299924.md) | DOM-based Cross-Site Scripting in redirect url checkout | [RBKmoney](../by-program/rbkmoney.md) | Medium | — | 8 |
+| 69 | [299924](../reports/299924.md) | DOM-based Cross-Site Scripting in redirect url checkout | [RBKmoney](../by-program/rbkmoney.md) | Medium | — | 8 |
+| 70 | [922496](../reports/922496.md) | DOM XSS on https://www.███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
 | 71 | [1982099](../reports/1982099.md) | DOM-XSS | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
 | 72 | [691977](../reports/691977.md) | [reveal.js] XSS by calling arbitrary method via postMessage | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.4 | — | 7 |
 | 73 | [2125679](../reports/2125679.md) | [CVE-2023-23913] DOM Based Cross-site Scripting in rails-ujs for  | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 5 |
@@ -85,8 +85,8 @@
 | 79 | [982442](../reports/982442.md) | XSS in https://promo.acronis.com/ | [Acronis](../by-program/acronis.md) | Low | — | 24 |
 | 80 | [241619](../reports/241619.md) | DOM-based XSS in store.starbucks.co.uk on IE 11 | [Starbucks](../by-program/starbucks.md) | Low — CVSS 2.4 | — | 17 |
 | 81 | [1736466](../reports/1736466.md) | HTML INJECTION FOUND ON https://adobedocs.github.io/analytics-1.4 | [Adobe](../by-program/adobe.md) | Low — CVSS 3.1 | — | 17 |
-| 82 | [576532](../reports/576532.md) | DOM XSS via Shopify.API.remoteRedirect | [Shopify](../by-program/shopify.md) | Low | — | 16 |
-| 83 | [892289](../reports/892289.md) | self-xss with ClickJacking can leads to account takeover in Firef | [Imgur](../by-program/imgur.md) | Low | — | 16 |
+| 82 | [892289](../reports/892289.md) | self-xss with ClickJacking can leads to account takeover in Firef | [Imgur](../by-program/imgur.md) | Low | — | 16 |
+| 83 | [576532](../reports/576532.md) | DOM XSS via Shopify.API.remoteRedirect | [Shopify](../by-program/shopify.md) | Low | — | 16 |
 | 84 | [879984](../reports/879984.md) | DOM-based XSS in d.miwifi.com on IE 11 | [Xiaomi](../by-program/xiaomi.md) | Low | — | 15 |
 | 85 | [938683](../reports/938683.md) | CVE-2019-19935 - DOM based XSS in the froala editor | [lemlist](../by-program/lemlist.md) | Low | — | 10 |
 | 86 | [248588](../reports/248588.md) | [wakatime.com] HTML Injection github-btn.html | [WakaTime](../by-program/wakatime.md) | Low | — | 9 |

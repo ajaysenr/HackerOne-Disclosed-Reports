@@ -11,8 +11,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 5 | [1062888](../reports/1062888.md) | External SSRF and Local File Read via video upload due to vu | High — CVSS 7.7 | $2,727 | 155 | [ach](https://hackerone.com/ach) | 2021-02-15 |
 | 6 | [1543234](../reports/1543234.md) | CSRF protection bypass on TikTok Webcast Endpoints | Medium — CVSS 5.4 | $2,500 | 78 | [zerody](https://hackerone.com/zerody) | 2023-07-12 |
 | 7 | [1247108](../reports/1247108.md) | TikTok 2FA Bypass | Medium | $1,564 | 189 | [amans](https://hackerone.com/amans) | 2023-02-03 |
-| 8 | [1647248](../reports/1647248.md) | Stored XSS Via Ads Account Name | Medium — CVSS 4.1 | $1,000 | 46 | [rioncool22](https://hackerone.com/rioncool22) | 2023-09-12 |
-| 9 | [1694037](../reports/1694037.md) | Stored XSS in the ticketing system | Medium | $1,000 | 46 | [codeslayer1337](https://hackerone.com/codeslayer1337) | 2022-10-10 |
+| 8 | [1694037](../reports/1694037.md) | Stored XSS in the ticketing system | Medium | $1,000 | 46 | [codeslayer1337](https://hackerone.com/codeslayer1337) | 2022-10-10 |
+| 9 | [1647248](../reports/1647248.md) | Stored XSS Via Ads Account Name | Medium — CVSS 4.1 | $1,000 | 46 | [rioncool22](https://hackerone.com/rioncool22) | 2023-09-12 |
 | 10 | [1575560](../reports/1575560.md) | Internal Employee informations Disclosure via TikTok Athena  | Medium — CVSS 4.3 | $1,000 | 27 | [ht0x0](https://hackerone.com/ht0x0) | 2022-07-20 |
 | 11 | [1087436](../reports/1087436.md) | CSRF on TikTok Ads Portal | Medium — CVSS 5.7 | $1,000 | 23 | [probatorem](https://hackerone.com/probatorem) | 2021-05-26 |
 | 12 | [2848610](../reports/2848610.md) | IDOR on ads.tiktok.com Allows Unauthorized Product Addition | Low — CVSS 3.7 | $500 | 127 | [p_oria](https://hackerone.com/p_oria) | 2025-02-20 |
@@ -71,8 +71,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 65 | [1083421](../reports/1083421.md) | Blocked user can send notification by liking the message due | Low | — | 59 | [sandipgyawalii](https://hackerone.com/sandipgyawalii) | 2021-07-10 |
 | 66 | [1536046](../reports/1536046.md) | Stored XSS Payload when sending videos  | Low | — | 44 | [find_me_here](https://hackerone.com/find_me_here) | 2022-11-29 |
 | 67 | [1378533](../reports/1378533.md) | Open Redirect TO  Stealing aadvid | Low — CVSS 3.1 | — | 31 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2022-03-02 |
-| 68 | [1509057](../reports/1509057.md) | IDOR on TikTok Seller | Low — CVSS 3.7 | — | 30 | [find_me_here](https://hackerone.com/find_me_here) | 2022-08-16 |
-| 69 | [1133661](../reports/1133661.md) | TikTok Session Donation CSRF via QR code login | Low — CVSS 3.1 | — | 30 | [lauritz](https://hackerone.com/lauritz) | 2021-06-17 |
+| 68 | [1133661](../reports/1133661.md) | TikTok Session Donation CSRF via QR code login | Low — CVSS 3.1 | — | 30 | [lauritz](https://hackerone.com/lauritz) | 2021-06-17 |
+| 69 | [1509057](../reports/1509057.md) | IDOR on TikTok Seller | Low — CVSS 3.7 | — | 30 | [find_me_here](https://hackerone.com/find_me_here) | 2022-08-16 |
 | 70 | [1793940](../reports/1793940.md) | Any user can vote on `Friend Only` video pull | Low — CVSS 3.1 | — | 26 | [mrhavit](https://hackerone.com/mrhavit) | 2023-01-27 |
 | 71 | [1006599](../reports/1006599.md) | Blind SSRF in ads.tiktok.com | Low — CVSS 3.7 | — | 23 | [chihuahua](https://hackerone.com/chihuahua) | 2020-12-17 |
 | 72 | [948146](../reports/948146.md) | Rate limiting on report video | Low | — | 22 | [alertjd](https://hackerone.com/alertjd) | 2021-02-02 |

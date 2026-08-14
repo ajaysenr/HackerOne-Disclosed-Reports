@@ -9,8 +9,8 @@
 | 3 | [3265780](../reports/3265780.md) | Adding phone number to profile By OTP brute forcing | [CoinMate.io](../by-program/coinmate.md) | Medium — CVSS 4.3 | $100 | 17 |
 | 4 | [979787](../reports/979787.md) | Able to view hackerone reports attachments | [GitLab](../by-program/gitlab.md) | Critical | — | 101 |
 | 5 | [1703733](../reports/1703733.md) | Exposure Of Admin Username & Password | [MTN Group](../by-program/mtn_group.md) | Critical | — | 48 |
-| 6 | [644358](../reports/644358.md) | PII leakage-Full SSN on ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 14 |
-| 7 | [693943](../reports/693943.md) | SSN leak due to editable slides | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 14 |
+| 6 | [693943](../reports/693943.md) | SSN leak due to editable slides | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 14 |
+| 7 | [644358](../reports/644358.md) | PII leakage-Full SSN on ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 14 |
 | 8 | [1482830](../reports/1482830.md) | Insecure Storage of Sensitive Information on lonestarcell.com ser | [MTN Group](../by-program/mtn_group.md) | Critical | — | 13 |
 | 9 | [1490133](../reports/1490133.md) | Military  name,email,phone,address,certdata Disclosure  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 7 |
 | 10 | [684838](../reports/684838.md) | Directory Indexing on the ████ (https://████/) leads to the backu | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 5 |
