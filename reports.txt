@@ -8590,7 +8590,9 @@ https://hackerone.com/reports/1991376 | the domain is truck-admin.eu-east-1.indr
 https://hackerone.com/reports/1991427 | CVE-2023-28321: IDN wildcard match
 https://hackerone.com/reports/1991428 | CVE-2023-28322: more POST-after-PUT confusion
 https://hackerone.com/reports/1992261 | Flickr API key leaked in GitHub commit
+https://hackerone.com/reports/1994227 | response manipulation leads to bypass in register at employee website than 0 click account takeover
 https://hackerone.com/reports/1994324 | OAuth2 client_secret stored in plain text in the database
+https://hackerone.com/reports/1994328 | App stores client secret unencrypted in database
 https://hackerone.com/reports/1994585 | Cache purge requests are not authenticated
 https://hackerone.com/reports/1995595 | Response Manipulation to enable Account recovery key with out current password
 https://hackerone.com/reports/1997029 | Path traversal allows tricking the Talk Android app into writing files into it's root directory
