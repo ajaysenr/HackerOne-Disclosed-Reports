@@ -8598,6 +8598,7 @@ https://hackerone.com/reports/1995595 | Response Manipulation to enable Account 
 https://hackerone.com/reports/1997029 | Path traversal allows tricking the Talk Android app into writing files into it's root directory
 https://hackerone.com/reports/1997312 | CVE-2023-28319: UAF in SSH sha256 fingerprint check
 https://hackerone.com/reports/2000000 | 2M Reports on HackerOne Celebration! - Ability to bulk-submit many reports.
+https://hackerone.com/reports/2001873 | HTTP Request Smuggling via Empty headers separated by CR
 https://hackerone.com/reports/2001913 | Create miscellaneous support ticket on anyone's account through support@hackerone.com email
 https://hackerone.com/reports/2010530 | yelp.com XSS ATO (via login keylogger, link Google account)
 https://hackerone.com/reports/2011298 | The `stripe/veneur` GitHub repository links to a domain `veneur.org`, which is not under stripe's control
