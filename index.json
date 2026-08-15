@@ -157401,6 +157401,26 @@
     "votes": 54
   },
   {
+    "id": 2001873,
+    "url": "https://hackerone.com/reports/2001873",
+    "title": "HTTP Request Smuggling via Empty headers separated by CR",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "yadhukrishnam",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "HTTP Request Smuggling",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-30589"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-05-25",
+    "disclosed_at": "2023-06-20",
+    "votes": 7
+  },
+  {
     "id": 2001913,
     "url": "https://hackerone.com/reports/2001913",
     "title": "Create miscellaneous support ticket on anyone's account through support@hackerone.com email",
@@ -181851,6 +181871,24 @@
     "votes": 2
   },
   {
+    "id": 3799010,
+    "url": "https://hackerone.com/reports/3799010",
+    "title": "TaskProcessing callback authorization bypass allows ex-members to post as Assistant Talk Bot",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "kuninogu",
+    "severity": "medium",
+    "cvss": 4.3,
+    "weakness": "Insecure Direct Object Reference (IDOR)",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-06-12",
+    "disclosed_at": "2026-08-14",
+    "votes": 5
+  },
+  {
     "id": 3800870,
     "url": "https://hackerone.com/reports/3800870",
     "title": "connect.8x8.com/api/v1: JWT Algorithm Confusion Vulnerability",
@@ -182354,6 +182392,24 @@
     "votes": 3
   },
   {
+    "id": 3920276,
+    "url": "https://hackerone.com/reports/3920276",
+    "title": "Cookie jar load skips public suffix check on PSL builds",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "1rhino2",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Information Exposure Through Sent Data",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-06",
+    "disclosed_at": "2026-08-14",
+    "votes": 4
+  },
+  {
     "id": 3923212,
     "url": "https://hackerone.com/reports/3923212",
     "title": "URL API: triple-slash parses path segment as hostname",
@@ -182388,5 +182444,41 @@
     "reported_at": "2026-08-11",
     "disclosed_at": "2026-08-12",
     "votes": 9
+  },
+  {
+    "id": 3938185,
+    "url": "https://hackerone.com/reports/3938185",
+    "title": "Windows SSPI connection-pool probe can reuse a connection under the wrong user",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "mr4bugs",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Authentication Bypass by Spoofing",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-13",
+    "disclosed_at": "2026-08-14",
+    "votes": 6
+  },
+  {
+    "id": 3938220,
+    "url": "https://hackerone.com/reports/3938220",
+    "title": "libcurl cache updates follow symlinks and truncate their targets",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "mr4bugs",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Time-of-check Time-of-use (TOCTOU) Race Condition",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-13",
+    "disclosed_at": "2026-08-14",
+    "votes": 2
   }
 ]

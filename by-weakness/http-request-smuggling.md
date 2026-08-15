@@ -1,4 +1,4 @@
-# Weakness: HTTP Request Smuggling (52 reports)
+# Weakness: HTTP Request Smuggling (53 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -45,14 +45,15 @@
 | 39 | [1524692](../reports/1524692.md) | HTTP Request Smuggling Due To Improper Delimiting of Header Field | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 9 |
 | 40 | [3648681](../reports/3648681.md) | Improper Input Validation — HTTP Response Parser Unconditionally  | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 9 |
 | 41 | [1025575](../reports/1025575.md) | Default behavior of Fastifys versioned routes can be used for cac | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.9 | — | 8 |
-| 42 | [1501679](../reports/1501679.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 7 |
-| 43 | [1665156](../reports/1665156.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium | — | 6 |
-| 44 | [3723248](../reports/3723248.md) | HTTP Request Smuggling via Connection: close<TAB> in Node.js llht | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.8 | — | 6 |
-| 45 | [1630336](../reports/1630336.md) | CVE-2022-32213 bypass via obs-fold mechanic | [Node.js](../by-program/nodejs.md) | Medium | — | 5 |
-| 46 | [3795615](../reports/3795615.md) | Duplicate chunked Transfer-Encoding lets a malicious origin smugg | [curl](../by-program/curl.md) | Medium | — | 3 |
-| 47 | [3623064](../reports/3623064.md) | HTTP/1.1 Response Desynchronization via conflicting CL/TE headers | [curl](../by-program/curl.md) | Low | — | 30 |
-| 48 | [1063627](../reports/1063627.md) | HTTP Request Smuggling on https://consumer.acronis.com | [Acronis](../by-program/acronis.md) | Low | — | 16 |
-| 49 | [1063493](../reports/1063493.md) | HTTP Request Smuggling on https://promosandbox.acronis.com | [Acronis](../by-program/acronis.md) | Low | — | 12 |
-| 50 | [3793495](../reports/3793495.md) | Incomplete Suppression of  Transfer-Encoding: chunked Header in H | [curl](../by-program/curl.md) | Low | — | 7 |
-| 51 | [231510](../reports/231510.md) | Gratipay Website CSP "script-scr" includes "unsafe-inline" | [Gratipay](../by-program/gratipay.md) | Low | — | 1 |
-| 52 | [214436](../reports/214436.md) | HTTP Header Injection/HTTP_Response_Splitting | [Blockchain](../by-program/blockchain.md) | None | — | 4 |
+| 42 | [2001873](../reports/2001873.md) | HTTP Request Smuggling via Empty headers separated by CR | [Node.js](../by-program/nodejs.md) | Medium | — | 7 |
+| 43 | [1501679](../reports/1501679.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 7 |
+| 44 | [1665156](../reports/1665156.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium | — | 6 |
+| 45 | [3723248](../reports/3723248.md) | HTTP Request Smuggling via Connection: close<TAB> in Node.js llht | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.8 | — | 6 |
+| 46 | [1630336](../reports/1630336.md) | CVE-2022-32213 bypass via obs-fold mechanic | [Node.js](../by-program/nodejs.md) | Medium | — | 5 |
+| 47 | [3795615](../reports/3795615.md) | Duplicate chunked Transfer-Encoding lets a malicious origin smugg | [curl](../by-program/curl.md) | Medium | — | 3 |
+| 48 | [3623064](../reports/3623064.md) | HTTP/1.1 Response Desynchronization via conflicting CL/TE headers | [curl](../by-program/curl.md) | Low | — | 30 |
+| 49 | [1063627](../reports/1063627.md) | HTTP Request Smuggling on https://consumer.acronis.com | [Acronis](../by-program/acronis.md) | Low | — | 16 |
+| 50 | [1063493](../reports/1063493.md) | HTTP Request Smuggling on https://promosandbox.acronis.com | [Acronis](../by-program/acronis.md) | Low | — | 12 |
+| 51 | [3793495](../reports/3793495.md) | Incomplete Suppression of  Transfer-Encoding: chunked Header in H | [curl](../by-program/curl.md) | Low | — | 7 |
+| 52 | [231510](../reports/231510.md) | Gratipay Website CSP "script-scr" includes "unsafe-inline" | [Gratipay](../by-program/gratipay.md) | Low | — | 1 |
+| 53 | [214436](../reports/214436.md) | HTTP Header Injection/HTTP_Response_Splitting | [Blockchain](../by-program/blockchain.md) | None | — | 4 |
