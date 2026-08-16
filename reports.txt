@@ -8610,6 +8610,7 @@ https://hackerone.com/reports/2012122 | [CVE-2022-44571] Possible Denial of Serv
 https://hackerone.com/reports/2012125 | [CVE-2022-44572] Possible Denial of Service Vulnerability in Rack’s RFC2183 boundary parsing
 https://hackerone.com/reports/2012131 | [CVE-2023-22796] Possible ReDoS based DoS vulnerability in Active Support’s underscore
 https://hackerone.com/reports/2012135 | [CVE-2023-22799] Possible ReDoS based DoS vulnerability in GlobalID
+https://hackerone.com/reports/2012519 | CRLF to XSS & Open Redirection
 https://hackerone.com/reports/2012636 | Stored XSS on wordpress.com
 https://hackerone.com/reports/2012659 | Spam & Clearance checks disabled with existing referenced Message-ID
 https://hackerone.com/reports/2014955 | #1 XSS on watchdocs.indriverapp.com
