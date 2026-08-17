@@ -9790,6 +9790,7 @@ https://hackerone.com/reports/3680680 | libcurl omits IPv6 zoneid from host iden
 https://hackerone.com/reports/3682666 | Use-after-free in `curl_easy_ssls_export()` during callback re-entrancy
 https://hackerone.com/reports/3684603 | Stack exhaustion in MIME multipart reading with deeply nested subparts
 https://hackerone.com/reports/3684614 | Heap-buffer-overflow in `Curl_ssl_push_certinfo_len()` — sole bounds check is `DEBUGASSERT`
+https://hackerone.com/reports/3686259 | `set_daemon` wallet-rpc silently ignores `ssl_allowed_fingerprints` → pinning bypassed, wallet↔daemon MITM
 https://hackerone.com/reports/3687142 | Unauthenticated reading of every file via livechat auth and predicting MongoDB ObjectId()
 https://hackerone.com/reports/3687543 | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet state via attacker-controlled `pending_tx`
 https://hackerone.com/reports/3688064 | Node.js unicode dot separator handling can lead to tls wildcard-depth authentication bypass due to resolver and verifier hostname normalization mismat

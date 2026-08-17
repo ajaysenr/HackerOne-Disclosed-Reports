@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1752 total)
+# High/Critical Severity — No Bounty Paid (1754 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -720,6 +720,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [503283](../reports/503283.md) | Real Time Error Logs Through Debug Information | [Slack](../by-program/slack.md) | High — CVSS 8.2 | Resolved | 98 |
 | [480883](../reports/480883.md) | Stack overflow in XML Parsing | [Notepad++](../by-program/notepad-plus-plus.md) | High — CVSS 8.1 | Resolved | 98 |
 | [1588732](../reports/1588732.md) | CSP-bypass XSS in project settings page | [GitLab](../by-program/gitlab.md) | High — CVSS 8.0 | Resolved | 98 |
+| [2012519](../reports/2012519.md) | CRLF to XSS & Open Redirection | [TikTok](../by-program/tiktok.md) | High | Resolved | 97 |
 | [1732595](../reports/1732595.md) | Github app Privilege Escalation to Administrator/Owner of the Org | [GitHub](../by-program/github.md) | High | Resolved | 97 |
 | [470637](../reports/470637.md) | User-assisted RCE in Slack for macOS (from official site) due to  | [Slack](../by-program/slack.md) | High — CVSS 7.3 | Resolved | 96 |
 | [2264960](../reports/2264960.md) | Unrestricted Access to Celery Flower Instance | [EXNESS](../by-program/exness.md) | High | Resolved | 96 |
@@ -1710,6 +1711,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [812585](../reports/812585.md) | Sensitive Information Leaking Through Navy Website. [█████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 2 |
 | [802896](../reports/802896.md) | CVE-2017-13019:  The PGM parser in tcpdump before 4.9.2 has a buf | [Internet Bug Bounty](../by-program/ibb.md) | High | Resolved | 2 |
 | [895795](../reports/895795.md) | [h1-2006 2020]  Writeup h12006 CTF | [h1-ctf](../by-program/h1-ctf.md) | High | Resolved | 2 |
+| [3686259](../reports/3686259.md) | `set_daemon` wallet-rpc silently ignores `ssl_allowed_fingerprint | [Monero](../by-program/monero.md) | High — CVSS 7.7 | Resolved | 2 |
 | [1631447](../reports/1631447.md) | STORED XSS in █████████/nlc/login.aspx via "edit" GET parameter t | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High — CVSS 8.2 | Resolved | 2 |
 | [1018790](../reports/1018790.md) | Subdomains takeover of  register.acronis.com, promo.acronis.com,  | [Acronis](../by-program/acronis.md) | High | Not Applicable | 2 |
 | [228854](../reports/228854.md) | WordPress Automatic Update Protocol Does Not Authenticate Updates | [WordPress](../by-program/wordpress.md) | High — CVSS 8.1 | Not Applicable | 2 |

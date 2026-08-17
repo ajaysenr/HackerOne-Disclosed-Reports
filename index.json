@@ -157629,6 +157629,24 @@
     "votes": 4
   },
   {
+    "id": 2012519,
+    "url": "https://hackerone.com/reports/2012519",
+    "title": "CRLF to XSS & Open Redirection",
+    "program": "TikTok",
+    "program_handle": "tiktok",
+    "reporter": "ashrafabdelrazik",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Cross-site Scripting (XSS) - Reflected",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2023-06-04",
+    "disclosed_at": "2023-08-16",
+    "votes": 97
+  },
+  {
     "id": 2012636,
     "url": "https://hackerone.com/reports/2012636",
     "title": "Stored XSS on wordpress.com",
@@ -157699,6 +157717,24 @@
     "reported_at": "2023-06-06",
     "disclosed_at": "2024-04-11",
     "votes": 100
+  },
+  {
+    "id": 2015554,
+    "url": "https://hackerone.com/reports/2015554",
+    "title": "Internal Blind Server-Side Request Forgery (SSRF) allows scanning internal ports",
+    "program": "Mozilla",
+    "program_handle": "mozilla",
+    "reporter": "harshdranjan",
+    "severity": "none",
+    "cvss": null,
+    "weakness": "Server-Side Request Forgery (SSRF)",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "URL",
+    "reported_at": "2023-06-07",
+    "disclosed_at": "2024-01-12",
+    "votes": 53
   },
   {
     "id": 2017323,
@@ -179512,6 +179548,24 @@
     "reported_at": "2026-04-20",
     "disclosed_at": "2026-04-29",
     "votes": 4
+  },
+  {
+    "id": 3686259,
+    "url": "https://hackerone.com/reports/3686259",
+    "title": "`set_daemon` wallet-rpc silently ignores `ssl_allowed_fingerprints` \u2192 pinning bypassed, wallet\u2194daemon MITM",
+    "program": "Monero",
+    "program_handle": "monero",
+    "reporter": "benisprlh",
+    "severity": "high",
+    "cvss": 7.7,
+    "weakness": "Improper Certificate Validation",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-04-21",
+    "disclosed_at": "2026-08-05",
+    "votes": 2
   },
   {
     "id": 3687142,

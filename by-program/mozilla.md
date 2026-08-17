@@ -1,4 +1,4 @@
-# Mozilla — Disclosed Reports (61 total)
+# Mozilla — Disclosed Reports (62 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -61,7 +61,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 55 | [2111291](../reports/2111291.md) | Stored Xss on bugzilla.mozilla.org via comment edit feature  | Low | — | 23 | [r3dpars3c](https://hackerone.com/r3dpars3c) | 2023-09-20 |
 | 56 | [1989901](../reports/1989901.md) | If rate limit is hit, IP address is leaked to anyone who tri | Low — CVSS 3.7 | — | 22 | [anish-kosaraju](https://hackerone.com/anish-kosaraju) | 2023-09-20 |
 | 57 | [2078707](../reports/2078707.md) | Exposing Django Debug Panel and Sensitive Infrastructure Inf | Low — CVSS 3.7 | — | 17 | [aliend89](https://hackerone.com/aliend89) | 2023-10-13 |
-| 58 | [2696294](../reports/2696294.md) | Private Emails of Moz Workers Leaked in Public file | None | — | 52 | [bd3b2acc340d2664004d535acbc0b](https://hackerone.com/bd3b2acc340d2664004d535acbc0b) | 2024-09-04 |
-| 59 | [2412983](../reports/2412983.md) | sentry Auth Token exposed publicly in docker hub image  | None | — | 51 | [ghaazy](https://hackerone.com/ghaazy) | 2024-10-18 |
-| 60 | [2380084](../reports/2380084.md) | paypal client_id And stripe api key indexed on web archive | None | — | 40 | [ghaazy](https://hackerone.com/ghaazy) | 2024-10-18 |
-| 61 | [1995595](../reports/1995595.md) | Response Manipulation to enable Account recovery key with ou | None | — | 9 | [saiteja12313234](https://hackerone.com/saiteja12313234) | 2023-09-11 |
+| 58 | [2015554](../reports/2015554.md) | Internal Blind Server-Side Request Forgery (SSRF) allows sca | None | — | 53 | [harshdranjan](https://hackerone.com/harshdranjan) | 2024-01-12 |
+| 59 | [2696294](../reports/2696294.md) | Private Emails of Moz Workers Leaked in Public file | None | — | 52 | [bd3b2acc340d2664004d535acbc0b](https://hackerone.com/bd3b2acc340d2664004d535acbc0b) | 2024-09-04 |
+| 60 | [2412983](../reports/2412983.md) | sentry Auth Token exposed publicly in docker hub image  | None | — | 51 | [ghaazy](https://hackerone.com/ghaazy) | 2024-10-18 |
+| 61 | [2380084](../reports/2380084.md) | paypal client_id And stripe api key indexed on web archive | None | — | 40 | [ghaazy](https://hackerone.com/ghaazy) | 2024-10-18 |
+| 62 | [1995595](../reports/1995595.md) | Response Manipulation to enable Account recovery key with ou | None | — | 9 | [saiteja12313234](https://hackerone.com/saiteja12313234) | 2023-09-11 |
