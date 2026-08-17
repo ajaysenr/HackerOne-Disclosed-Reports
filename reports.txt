@@ -8617,6 +8617,7 @@ https://hackerone.com/reports/2014955 | #1 XSS on watchdocs.indriverapp.com
 https://hackerone.com/reports/2015074 | #2 XSS on watchdocs.indriverapp.com
 https://hackerone.com/reports/2015554 | Internal Blind Server-Side Request Forgery (SSRF) allows scanning internal ports
 https://hackerone.com/reports/2017323 | Subdomain takeover on one of the subdomain under mozilla.org
+https://hackerone.com/reports/2017600 | Git Reference Ambiguity in GitHub - Commit Smuggling, Account Takeover, and Remote Code Execution
 https://hackerone.com/reports/2018615 | HTML injection on newsroom.snap.com/* via search?q=1
 https://hackerone.com/reports/2020429 | Blind Sql Injection https:/████████
 https://hackerone.com/reports/2021684 | Issuer not verified from obtained token in user_oidc
