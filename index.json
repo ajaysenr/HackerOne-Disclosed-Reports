@@ -157755,6 +157755,26 @@
     "votes": 31
   },
   {
+    "id": 2017600,
+    "url": "https://hackerone.com/reports/2017600",
+    "title": "Git Reference Ambiguity in GitHub - Commit Smuggling, Account Takeover, and Remote Code Execution",
+    "program": "GitHub",
+    "program_handle": "github",
+    "reporter": "inspector-ambitious",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Resource Injection",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-23766"
+    ],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2023-06-08",
+    "disclosed_at": "2023-11-29",
+    "votes": 25
+  },
+  {
     "id": 2018615,
     "url": "https://hackerone.com/reports/2018615",
     "title": "HTML injection on newsroom.snap.com/* via search?q=1",
@@ -177799,6 +177819,24 @@
     "votes": 67
   },
   {
+    "id": 3601469,
+    "url": "https://hackerone.com/reports/3601469",
+    "title": "Restricted RPC Policy Bypass on ZMQ JSON-RPC Allows Unauthenticated Remote Admin Actions",
+    "program": "Monero",
+    "program_handle": "monero",
+    "reporter": "usagirabbit",
+    "severity": "high",
+    "cvss": 8.2,
+    "weakness": "Improper Authentication - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-03-12",
+    "disclosed_at": "2026-08-17",
+    "votes": 12
+  },
+  {
     "id": 3601655,
     "url": "https://hackerone.com/reports/3601655",
     "title": "Rails::HTML::Sanitizer.allowed_uri? returns true for entity-encoded control-character-split javascript: URLs",
@@ -178073,6 +178111,24 @@
     "reported_at": "2026-03-21",
     "disclosed_at": "2026-06-11",
     "votes": 4
+  },
+  {
+    "id": 3620006,
+    "url": "https://hackerone.com/reports/3620006",
+    "title": "Wallet RPC Restricted-Mode Policy Bypass",
+    "program": "Monero",
+    "program_handle": "monero",
+    "reporter": "usagirabbit",
+    "severity": "high",
+    "cvss": 7.6,
+    "weakness": "Improper Authentication - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-03-21",
+    "disclosed_at": "2026-08-17",
+    "votes": 12
   },
   {
     "id": 3620748,

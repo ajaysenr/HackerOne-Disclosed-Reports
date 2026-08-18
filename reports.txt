@@ -9698,6 +9698,7 @@ https://hackerone.com/reports/3597359 | NULL Pointer Dereference (DoS) in libcur
 https://hackerone.com/reports/3598358 | urlapi: off-by-one in custom scheme validation skips last character
 https://hackerone.com/reports/3598444 | Curl_compareheader() fails to match multi-value HTTP headers
 https://hackerone.com/reports/3599248 | Bypass of Open Redirect Fix on lovable.dev via /..// Path Traversal in redirect parameter
+https://hackerone.com/reports/3601469 | Restricted RPC Policy Bypass on ZMQ JSON-RPC Allows Unauthenticated Remote Admin Actions
 https://hackerone.com/reports/3601655 | Rails::HTML::Sanitizer.allowed_uri? returns true for entity-encoded control-character-split javascript: URLs
 https://hackerone.com/reports/3603300 | SMB READ_ANDX DataOffset not validated
 https://hackerone.com/reports/3604288 | Access to Deactivated LinkedIn Company Pages via Competitor Analytics API
@@ -9713,6 +9714,7 @@ https://hackerone.com/reports/3617719 | Function `do_pubkey()` can have out-of-b
 https://hackerone.com/reports/3618831 | Unix domain socket server bypasses --permission network restrictions (incomplete CVE-2026-21636 fix)
 https://hackerone.com/reports/3619287 | RCE + Supply Chain Attack via pull_request_target in content-scope-scripts/semver-label.yml — Affects All DuckDuckGo Browsers
 https://hackerone.com/reports/3619288 | RCE + PAT Exfiltration via pull_request_target in privacy-configuration/auto-respond-pr.yml — Direct Supply Chain to All DDG Browsers
+https://hackerone.com/reports/3620006 | Wallet RPC Restricted-Mode Policy Bypass
 https://hackerone.com/reports/3620748 | V1Plugin.Decrypt panics on empty ciphertext (Remote DoS)
 https://hackerone.com/reports/3620753 | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS)
 https://hackerone.com/reports/3620760 | Encryption context keys and values logged at INFO level

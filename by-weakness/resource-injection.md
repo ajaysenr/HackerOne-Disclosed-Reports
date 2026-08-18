@@ -1,4 +1,4 @@
-# Weakness: Resource Injection (27 reports)
+# Weakness: Resource Injection (28 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -19,15 +19,16 @@
 | 13 | [1938106](../reports/1938106.md) | Smuggling content in PR with refs/replace in GitHub | [GitHub](../by-program/github.md) | Medium | — | 34 |
 | 14 | [3590583](../reports/3590583.md) | Unquoted body background attribute enables CSS injection that byp | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.4 | — | 33 |
 | 15 | [587727](../reports/587727.md) | CSS injection via BB code tag "█████" | [phpBB](../by-program/phpbb.md) | Medium | — | 28 |
-| 16 | [335339](../reports/335339.md) | HTTP parameter pollution from outdated Greenhouse.io JS dependenc | [Slack](../by-program/slack.md) | Medium — CVSS 4.7 | — | 25 |
-| 17 | [2297561](../reports/2297561.md) | Resource Injection - [████████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 22 |
-| 18 | [1762025](../reports/1762025.md) | Improper handling of null bytes in GitHub Actions Runner allows a | [GitHub](../by-program/github.md) | Medium | — | 19 |
-| 19 | [241231](../reports/241231.md) | flash injection in http://www.rockstargames.com/IV/imgPlayer/imag | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 8 |
-| 20 | [1183335](../reports/1183335.md) | Object injection in `stripe-billing-typographic` GitHub project v | [Stripe](../by-program/stripe.md) | Low — CVSS 3.7 | — | 17 |
-| 21 | [601192](../reports/601192.md) | HTML injection in https://interviewing.shopify.com/index.php?cand | [Shopify](../by-program/shopify.md) | Low | — | 17 |
-| 22 | [257207](../reports/257207.md) | Code injection | [Legal Robot](../by-program/legalrobot.md) | Low — CVSS 3.5 | — | 13 |
-| 23 | [1711847](../reports/1711847.md) | XSS in Desktop Client in call notification popup | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 5 |
-| 24 | [1707977](../reports/1707977.md) | XSS in Desktop Client via user status and information | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 5 |
-| 25 | [473144](../reports/473144.md) | Content spoofing on https://surveyserver.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | Low | — | 2 |
-| 26 | [415137](../reports/415137.md) | H1-5411 CTF Write-up by erbbysam and ziot | [h1-5411-CTF](../by-program/h1-5411-ctf.md) | None | — | 17 |
-| 27 | [315865](../reports/315865.md) | Stored CSS Injection | [Coinbase](../by-program/coinbase.md) | None | — | 15 |
+| 16 | [2017600](../reports/2017600.md) | Git Reference Ambiguity in GitHub - Commit Smuggling, Account Tak | [GitHub](../by-program/github.md) | Medium | — | 25 |
+| 17 | [335339](../reports/335339.md) | HTTP parameter pollution from outdated Greenhouse.io JS dependenc | [Slack](../by-program/slack.md) | Medium — CVSS 4.7 | — | 25 |
+| 18 | [2297561](../reports/2297561.md) | Resource Injection - [████████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 22 |
+| 19 | [1762025](../reports/1762025.md) | Improper handling of null bytes in GitHub Actions Runner allows a | [GitHub](../by-program/github.md) | Medium | — | 19 |
+| 20 | [241231](../reports/241231.md) | flash injection in http://www.rockstargames.com/IV/imgPlayer/imag | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 8 |
+| 21 | [1183335](../reports/1183335.md) | Object injection in `stripe-billing-typographic` GitHub project v | [Stripe](../by-program/stripe.md) | Low — CVSS 3.7 | — | 17 |
+| 22 | [601192](../reports/601192.md) | HTML injection in https://interviewing.shopify.com/index.php?cand | [Shopify](../by-program/shopify.md) | Low | — | 17 |
+| 23 | [257207](../reports/257207.md) | Code injection | [Legal Robot](../by-program/legalrobot.md) | Low — CVSS 3.5 | — | 13 |
+| 24 | [1711847](../reports/1711847.md) | XSS in Desktop Client in call notification popup | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 5 |
+| 25 | [1707977](../reports/1707977.md) | XSS in Desktop Client via user status and information | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 5 |
+| 26 | [473144](../reports/473144.md) | Content spoofing on https://surveyserver.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | Low | — | 2 |
+| 27 | [415137](../reports/415137.md) | H1-5411 CTF Write-up by erbbysam and ziot | [h1-5411-CTF](../by-program/h1-5411-ctf.md) | None | — | 17 |
+| 28 | [315865](../reports/315865.md) | Stored CSS Injection | [Coinbase](../by-program/coinbase.md) | None | — | 15 |
