@@ -8624,8 +8624,10 @@ https://hackerone.com/reports/2021684 | Issuer not verified from obtained token 
 https://hackerone.com/reports/2028265 | #3 XSS on watchdocs.indriverapp.com
 https://hackerone.com/reports/2028450 | IDOR vulnerability leads to Deleting message after leaving/getting banned from group using message ID
 https://hackerone.com/reports/2029753 | CSRF to delete a pet
+https://hackerone.com/reports/2030076 | Mozilla FuzzManager API Token Exposed in Git Commit
 https://hackerone.com/reports/2031855 | XSS with Visual Language Editor tags
 https://hackerone.com/reports/2032716 | An attacker can can view any hacker email via  /SaveCollaboratorsMutation operation name
+https://hackerone.com/reports/2032778 | Internal machine learning API endpoint for CWE classification is vulnerable to path traversal
 https://hackerone.com/reports/2032842 | HTTP Request Smuggling via Empty headers separated by CR
 https://hackerone.com/reports/2033005 | Bypassing the block of Security Domain Restriction and normally invite blocked domains with special characters “İ”
 https://hackerone.com/reports/2035332 | RXSS at image.hackerone.live via the `url` parameter
