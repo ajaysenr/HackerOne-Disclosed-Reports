@@ -8622,6 +8622,8 @@ https://hackerone.com/reports/2018615 | HTML injection on newsroom.snap.com/* vi
 https://hackerone.com/reports/2020429 | Blind Sql Injection https:/████████
 https://hackerone.com/reports/2021684 | Issuer not verified from obtained token in user_oidc
 https://hackerone.com/reports/2028265 | #3 XSS on watchdocs.indriverapp.com
+https://hackerone.com/reports/2028450 | IDOR vulnerability leads to Deleting message after leaving/getting banned from group using message ID
+https://hackerone.com/reports/2029753 | CSRF to delete a pet
 https://hackerone.com/reports/2031855 | XSS with Visual Language Editor tags
 https://hackerone.com/reports/2032716 | An attacker can can view any hacker email via  /SaveCollaboratorsMutation operation name
 https://hackerone.com/reports/2032842 | HTTP Request Smuggling via Empty headers separated by CR
