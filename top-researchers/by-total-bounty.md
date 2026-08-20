@@ -14,7 +14,7 @@
 | 10 | [dkasak](https://hackerone.com/dkasak) | 7 | $52,000 | 74 |
 | 11 | [brakhane](https://hackerone.com/brakhane) | 12 | $51,500 | 69 |
 | 12 | [augustozanellato](https://hackerone.com/augustozanellato) | 1 | $50,000 | 1514 |
-| 13 | [jobert](https://hackerone.com/jobert) | 46 | $48,900 | 3828 |
+| 13 | [jobert](https://hackerone.com/jobert) | 47 | $48,900 | 3860 |
 | 14 | [moskowsky](https://hackerone.com/moskowsky) | 2 | $45,000 | 1032 |
 | 15 | [jouko](https://hackerone.com/jouko) | 14 | $42,500 | 824 |
 | 16 | [theflow0](https://hackerone.com/theflow0) | 4 | $40,000 | 1412 |
@@ -2625,7 +2625,7 @@
 | 2621 | [amartinfraguas](https://hackerone.com/amartinfraguas) | 1 | $0 | 41 |
 | 2622 | [morningstar](https://hackerone.com/morningstar) | 1 | $0 | 11 |
 | 2623 | [b3f53dc9b2061f7df0c2ffd](https://hackerone.com/b3f53dc9b2061f7df0c2ffd) | 1 | $0 | 0 |
-| 2624 | [yakirka](https://hackerone.com/yakirka) | 1 | $0 | 17 |
+| 2624 | [yakirka](https://hackerone.com/yakirka) | 2 | $0 | 66 |
 | 2625 | [hiffley](https://hackerone.com/hiffley) | 1 | $0 | 173 |
 | 2626 | [0xjam](https://hackerone.com/0xjam) | 1 | $0 | 47 |
 | 2627 | [hdbreaker](https://hackerone.com/hdbreaker) | 1 | $0 | 124 |

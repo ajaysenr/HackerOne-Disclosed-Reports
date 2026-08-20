@@ -157885,6 +157885,24 @@
     "votes": 25
   },
   {
+    "id": 2030076,
+    "url": "https://hackerone.com/reports/2030076",
+    "title": "Mozilla FuzzManager API Token Exposed in Git Commit",
+    "program": "Mozilla",
+    "program_handle": "mozilla",
+    "reporter": "yakirka",
+    "severity": "critical",
+    "cvss": null,
+    "weakness": "Cleartext Storage of Sensitive Information",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-06-17",
+    "disclosed_at": "2023-11-29",
+    "votes": 49
+  },
+  {
     "id": 2031855,
     "url": "https://hackerone.com/reports/2031855",
     "title": "XSS with Visual Language Editor tags",
@@ -157919,6 +157937,24 @@
     "reported_at": "2023-06-20",
     "disclosed_at": "2023-07-04",
     "votes": 422
+  },
+  {
+    "id": 2032778,
+    "url": "https://hackerone.com/reports/2032778",
+    "title": "Internal machine learning API endpoint for CWE classification is vulnerable to path traversal",
+    "program": "HackerOne",
+    "program_handle": "security",
+    "reporter": "jobert",
+    "severity": "medium",
+    "cvss": 6.4,
+    "weakness": "Path Traversal",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2023-06-20",
+    "disclosed_at": "2023-07-05",
+    "votes": 32
   },
   {
     "id": 2032842,

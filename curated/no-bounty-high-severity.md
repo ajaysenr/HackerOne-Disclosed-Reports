@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1756 total)
+# High/Critical Severity — No Bounty Paid (1757 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -187,6 +187,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1175081](../reports/1175081.md) | Full account takeover of any user through reset password | [UPchieve](../by-program/upchieve.md) | Critical — CVSS 9.1 | Duplicate | 50 |
 | [332586](../reports/332586.md) | Unauthorized access to jiratest.starbucks.com  | [Starbucks](../by-program/starbucks.md) | Critical | Resolved | 49 |
 | [953649](../reports/953649.md) | Critical Information disclosure of rtapi token for any user via h | [Uber](../by-program/uber.md) | Critical | Resolved | 49 |
+| [2030076](../reports/2030076.md) | Mozilla FuzzManager API Token Exposed in Git Commit | [Mozilla](../by-program/mozilla.md) | Critical | Resolved | 49 |
 | [684099](../reports/684099.md) | Periscope-all Firebase database takeover | [X / xAI](../by-program/x.md) | Critical | Resolved | 49 |
 | [2778350](../reports/2778350.md) | Cisco IOS XE instance at ████ vulnerable to CVE-██████ | [MTN Group](../by-program/mtn_group.md) | Critical — CVSS 9.1 | Resolved | 48 |
 | [221294](../reports/221294.md) | Java Deserialization RCE via JBoss on card.starbucks.in | [Starbucks](../by-program/starbucks.md) | Critical — CVSS 9.0 | Resolved | 48 |
