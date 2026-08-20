@@ -8631,10 +8631,14 @@ https://hackerone.com/reports/2032778 | Internal machine learning API endpoint f
 https://hackerone.com/reports/2032842 | HTTP Request Smuggling via Empty headers separated by CR
 https://hackerone.com/reports/2033005 | Bypassing the block of Security Domain Restriction and normally invite blocked domains with special characters “İ”
 https://hackerone.com/reports/2035332 | RXSS at image.hackerone.live via the `url` parameter
+https://hackerone.com/reports/2037032 | Subdomain takeover on one of the subdomain under mozaws.net
 https://hackerone.com/reports/2037234 | Stored XSS + CSRF in "apellido" value
+https://hackerone.com/reports/2037887 | fs.mkdtemp() and fs.mkdtempSync() are missing getValidatedPath() checks.
 https://hackerone.com/reports/2037902 | Authentication bypass on JetPack SSO manager - Allows to access the administration panel of wordpress without user interaction
+https://hackerone.com/reports/2038134 | Permission model bypass by specifying a path traversal sequence in a buffer, 
 https://hackerone.com/reports/2038484 | DiffieHellman doesn't generate keys after setting a key
 https://hackerone.com/reports/2038943 | [oem.acronis.com] Reflected Cross Site Scripting
+https://hackerone.com/reports/2039384 | Reflected XSS in https://nin.mtn.ng/nin/success?message=lol&nin=<VULNERABLE>
 https://hackerone.com/reports/2039447 | Entering passwords on the Share Login Page can lead to a brute-force attack
 https://hackerone.com/reports/2039464 | Code inject via nginx.ingress.kubernetes.io/permanent-redirect annotation
 https://hackerone.com/reports/2039870 | CVE-2023-32001: fopen race condition
