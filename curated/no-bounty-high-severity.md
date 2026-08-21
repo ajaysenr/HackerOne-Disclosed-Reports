@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1757 total)
+# High/Critical Severity — No Bounty Paid (1762 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -143,6 +143,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [301831](../reports/301831.md) | Leaking sensitive files on Github leads to internal files (python | [Starbucks](../by-program/starbucks.md) | Critical | Resolved | 72 |
 | [204703](../reports/204703.md) | CSRF to change password | [Nord Security](../by-program/nordsecurity.md) | Critical | Resolved | 71 |
 | [2401648](../reports/2401648.md) | two aws access key and secret key and database username and passw | [Mozilla](../by-program/mozilla.md) | Critical | Resolved | 70 |
+| [2039384](../reports/2039384.md) | Reflected XSS in https://nin.mtn.ng/nin/success?message=lol&nin=< | [MTN Group](../by-program/mtn_group.md) | Critical | Resolved | 70 |
 | [2981756](../reports/2981756.md) | Wordpress users Disclosure | [Autodesk](../by-program/autodesk.md) | Critical | Informative | 69 |
 | [576887](../reports/576887.md) | RCE on █████ via CVE-2017-10271 | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 68 |
 | [2200329](../reports/2200329.md) | CVE-█████-35813 in █████ | [Mars](../by-program/mars.md) | Critical — CVSS 9.8 | Resolved | 68 |
@@ -695,6 +696,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [3115705](../reports/3115705.md) | Stored XSS in File Upload Leads to Privilege Escalation and Full  | [Dust](../by-program/dust.md) | High — CVSS 8.7 | Resolved | 115 |
 | [390386](../reports/390386.md) | Reflected XSS on https://www.uber.com  | [Uber](../by-program/uber.md) | High | Resolved | 114 |
 | [1777095](../reports/1777095.md) | Unauthorized access to resumes stored on LinkedIn | [LinkedIn](../by-program/linkedin.md) | High — CVSS 7.5 | Resolved | 112 |
+| [2041007](../reports/2041007.md) | Cross-Site Request Forgery  | [ownCloud](../by-program/owncloud.md) | High — CVSS 7.5 | Resolved | 111 |
 | [1452375](../reports/1452375.md) | Reflected xss on ads.tiktok.com using `from` parameter. | [TikTok](../by-program/tiktok.md) | High — CVSS 8.2 | Resolved | 110 |
 | [577584](../reports/577584.md) | ISteamAssets gives partners control over unrelated community mark | [Valve](../by-program/valve.md) | High — CVSS 7.1 | Resolved | 109 |
 | [419891](../reports/419891.md) | Cross-Site Request Forgery (CSRF) vulnerability on API endpoint a | [Khan Academy](../by-program/khanacademy.md) | High | Resolved | 107 |
@@ -1615,6 +1617,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [390857](../reports/390857.md) | Prototype Pollution Vulnerability in noble Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | Resolved | 4 |
 | [312918](../reports/312918.md) | [public] Path Traversal allows to read content of arbitrary files | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | Resolved | 4 |
 | [1250273](../reports/1250273.md) | Tor Browser using --log or --verbose logs the exact connection ti | [Tor](../by-program/torproject.md) | High — CVSS 7.1 | Informative | 4 |
+| [2038134](../reports/2038134.md) | Permission model bypass by specifying a path traversal sequence i | [Node.js](../by-program/nodejs.md) | High — CVSS 7.7 | Resolved | 4 |
 | [1262757](../reports/1262757.md) | SQL injection located in `███` in POST param `████████`  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 4 |
 | [312292](../reports/312292.md) | [https://life.informatica.com] - information disclose  | [Informatica](../by-program/informatica.md) | High | Resolved | 4 |
 | [710813](../reports/710813.md) | Able to log in with default ██████g creds at  https██████████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 4 |
@@ -1719,6 +1722,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1018790](../reports/1018790.md) | Subdomains takeover of  register.acronis.com, promo.acronis.com,  | [Acronis](../by-program/acronis.md) | High | Not Applicable | 2 |
 | [228854](../reports/228854.md) | WordPress Automatic Update Protocol Does Not Authenticate Updates | [WordPress](../by-program/wordpress.md) | High — CVSS 8.1 | Not Applicable | 2 |
 | [188205](../reports/188205.md) | BruteForce in to Admin Account | [Nextcloud](../by-program/nextcloud.md) | High | Informative | 2 |
+| [3852135](../reports/3852135.md) | DDP methods getThreadsList / getThreadMessages leaks private thre | [Rocket.Chat](../by-program/rocket_chat.md) | High | Resolved | 2 |
 | [3559522](../reports/3559522.md) | Splatoon 3 In-Match Integrity Bypass via Consensus Reflection Att | [Nintendo](../by-program/nintendo.md) | High — CVSS 7.1 | Resolved | 2 |
 | [1103212](../reports/1103212.md) | Found multiple SAP NetWeaver vulnerable services | [Acronis](../by-program/acronis.md) | High | Duplicate | 2 |
 | [202968](../reports/202968.md) | CVE-2017-5342 In tcpdump before 4.9.0 a bug in multiple protocol  | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | Resolved | 2 |
@@ -1732,6 +1736,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [2097517](../reports/2097517.md) | Waketime Payment Gateway Vulnerability | [WakaTime](../by-program/wakatime.md) | High — CVSS 7.5 | Spam | 2 |
 | [3760016](../reports/3760016.md) | Node.js WebCrypto AES Integer Overflow Leads to Remote Process Ab | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | Resolved | 2 |
 | [320159](../reports/320159.md) | `useragent` is vulnerable to ReDoS in user-agent string | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | Resolved | 2 |
+| [3619409](../reports/3619409.md) | Windows installer grants low-privileged users write access to exe | [Monero](../by-program/monero.md) | High — CVSS 7.3 | Resolved | 2 |
 | [3553340](../reports/3553340.md) | Active Storage Vips Transformer Missing validate_transformation — | [Ruby on Rails](../by-program/rails.md) | High — CVSS 7.5 | Informative | 2 |
 | [1591085](../reports/1591085.md) | Several Subdomains Takeover | [Reddit](../by-program/reddit.md) | High | Not Applicable | 2 |
 | [341044](../reports/341044.md) | [cloudcmd] Stored XSS in the filename when directories listing | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.5 | Resolved | 2 |

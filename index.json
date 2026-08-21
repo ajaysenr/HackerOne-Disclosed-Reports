@@ -158013,6 +158013,24 @@
     "votes": 166
   },
   {
+    "id": 2037032,
+    "url": "https://hackerone.com/reports/2037032",
+    "title": "Subdomain takeover on one of the subdomain under mozaws.net",
+    "program": "Mozilla",
+    "program_handle": "mozilla",
+    "reporter": "proabiral",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Improper Resource Shutdown or Release",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-06-24",
+    "disclosed_at": "2024-02-11",
+    "votes": 25
+  },
+  {
     "id": 2037234,
     "url": "https://hackerone.com/reports/2037234",
     "title": "Stored XSS + CSRF in \"apellido\" value",
@@ -158031,6 +158049,26 @@
     "votes": 12
   },
   {
+    "id": 2037887,
+    "url": "https://hackerone.com/reports/2037887",
+    "title": "fs.mkdtemp() and fs.mkdtempSync() are missing getValidatedPath() checks.",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "haxatron1",
+    "severity": "low",
+    "cvss": 2.9,
+    "weakness": "Path Traversal",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-32003"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-06-25",
+    "disclosed_at": "2023-08-11",
+    "votes": 4
+  },
+  {
     "id": 2037902,
     "url": "https://hackerone.com/reports/2037902",
     "title": "Authentication bypass on JetPack SSO manager - Allows to access the administration panel of wordpress without user interaction",
@@ -158047,6 +158085,26 @@
     "reported_at": "2023-06-25",
     "disclosed_at": "2023-12-28",
     "votes": 40
+  },
+  {
+    "id": 2038134,
+    "url": "https://hackerone.com/reports/2038134",
+    "title": "Permission model bypass by specifying a path traversal sequence in a buffer, ",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "haxatron1",
+    "severity": "high",
+    "cvss": 7.7,
+    "weakness": "Path Traversal",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-32004"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-06-26",
+    "disclosed_at": "2023-08-11",
+    "votes": 4
   },
   {
     "id": 2038484,
@@ -158085,6 +158143,24 @@
     "reported_at": "2023-06-26",
     "disclosed_at": "2024-12-28",
     "votes": 132
+  },
+  {
+    "id": 2039384,
+    "url": "https://hackerone.com/reports/2039384",
+    "title": "Reflected XSS in https://nin.mtn.ng/nin/success?message=lol&nin=<VULNERABLE>",
+    "program": "MTN Group",
+    "program_handle": "mtn_group",
+    "reporter": "hazemhussien99",
+    "severity": "critical",
+    "cvss": null,
+    "weakness": "Cross-site Scripting (XSS) - Reflected",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2023-06-26",
+    "disclosed_at": "2024-10-05",
+    "votes": 70
   },
   {
     "id": 2039447,
@@ -158161,6 +158237,24 @@
     "reported_at": "2023-06-27",
     "disclosed_at": "2024-01-04",
     "votes": 90
+  },
+  {
+    "id": 2041007,
+    "url": "https://hackerone.com/reports/2041007",
+    "title": "Cross-Site Request Forgery ",
+    "program": "ownCloud",
+    "program_handle": "owncloud",
+    "reporter": "pascal_geuter",
+    "severity": "high",
+    "cvss": 7.5,
+    "weakness": "Cross-Site Request Forgery (CSRF)",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-06-28",
+    "disclosed_at": "2023-11-05",
+    "votes": 111
   },
   {
     "id": 2043552,
@@ -176642,6 +176736,24 @@
     "votes": 8
   },
   {
+    "id": 3515557,
+    "url": "https://hackerone.com/reports/3515557",
+    "title": "Loss of multisig funds through single malicious participant's deliberate deception",
+    "program": "Monero",
+    "program_handle": "monero",
+    "reporter": "k-privacy-enjoyer",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Business Logic Errors",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-01-18",
+    "disclosed_at": "2026-08-20",
+    "votes": 1
+  },
+  {
     "id": 3516186,
     "url": "https://hackerone.com/reports/3516186",
     "title": "Cookie Max-Age Integer Overflow Vulnerability",
@@ -178185,6 +178297,24 @@
     "votes": 4
   },
   {
+    "id": 3619409,
+    "url": "https://hackerone.com/reports/3619409",
+    "title": "Windows installer grants low-privileged users write access to executable P2Pool directory, enabling local code execution",
+    "program": "Monero",
+    "program_handle": "monero",
+    "reporter": "qttps",
+    "severity": "high",
+    "cvss": 7.3,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-03-21",
+    "disclosed_at": "2026-08-20",
+    "votes": 2
+  },
+  {
     "id": 3620006,
     "url": "https://hackerone.com/reports/3620006",
     "title": "Wallet RPC Restricted-Mode Policy Bypass",
@@ -178890,6 +179020,24 @@
     "votes": 27
   },
   {
+    "id": 3648638,
+    "url": "https://hackerone.com/reports/3648638",
+    "title": "monero:// deeplink parsing accepts tx_amount=(all) and can trigger send-all transaction mode",
+    "program": "Monero",
+    "program_handle": "monero",
+    "reporter": "qttps",
+    "severity": "medium",
+    "cvss": 6.5,
+    "weakness": "Business Logic Errors",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-04-04",
+    "disclosed_at": "2026-08-20",
+    "votes": 1
+  },
+  {
     "id": 3648681,
     "url": "https://hackerone.com/reports/3648681",
     "title": "Improper Input Validation \u2014 HTTP Response Parser Unconditionally Accepts Bare CR in Status Line",
@@ -179527,6 +179675,26 @@
     "votes": 2
   },
   {
+    "id": 3679471,
+    "url": "https://hackerone.com/reports/3679471",
+    "title": "HTML Injection in Transaction Confirmation Dialog via Address Book Description Enables UI Spoofing Before Fund Transfer",
+    "program": "Monero",
+    "program_handle": "monero",
+    "reporter": "fg0x0",
+    "severity": "medium",
+    "cvss": 6.5,
+    "weakness": "Code Injection",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2021-3401"
+    ],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-04-17",
+    "disclosed_at": "2026-08-20",
+    "votes": 3
+  },
+  {
     "id": 3679660,
     "url": "https://hackerone.com/reports/3679660",
     "title": "mruby-engine: UAF in MRubyEngine#initialize enables local RCE",
@@ -179693,6 +179861,24 @@
     "asset_type": null,
     "reported_at": "2026-04-21",
     "disclosed_at": "2026-08-05",
+    "votes": 2
+  },
+  {
+    "id": 3686283,
+    "url": "https://hackerone.com/reports/3686283",
+    "title": "View-only offline transaction creation bypasses the long-payment-ID privacy block",
+    "program": "Monero",
+    "program_handle": "monero",
+    "reporter": "qttps",
+    "severity": "medium",
+    "cvss": 5.4,
+    "weakness": "Information Disclosure",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-04-21",
+    "disclosed_at": "2026-08-20",
     "votes": 2
   },
   {
@@ -182293,6 +182479,24 @@
     "votes": 4
   },
   {
+    "id": 3819475,
+    "url": "https://hackerone.com/reports/3819475",
+    "title": "Monero GUI OpenAlias DNSSEC-invalid resolution still writes spoofable address into recipient field",
+    "program": "Monero",
+    "program_handle": "monero",
+    "reporter": "lilpeko",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-06-23",
+    "disclosed_at": "2026-08-20",
+    "votes": 3
+  },
+  {
     "id": 3823932,
     "url": "https://hackerone.com/reports/3823932",
     "title": "CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabling HAProxy PROXY protocol injection",
@@ -182534,6 +182738,42 @@
     "reported_at": "2026-07-02",
     "disclosed_at": "2026-07-29",
     "votes": 8
+  },
+  {
+    "id": 3852135,
+    "url": "https://hackerone.com/reports/3852135",
+    "title": "DDP methods getThreadsList / getThreadMessages leaks private thread content to any authenticated low privilege user (unpatched sibling of #1446767)",
+    "program": "Rocket.Chat",
+    "program_handle": "rocket_chat",
+    "reporter": "iamaangx028",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "NoSQL Injection",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-07-09",
+    "disclosed_at": "2026-08-20",
+    "votes": 2
+  },
+  {
+    "id": 3872858,
+    "url": "https://hackerone.com/reports/3872858",
+    "title": "Stored HTML Injection (CWE-79) via Livechat Visitor Name",
+    "program": "Rocket.Chat",
+    "program_handle": "rocket_chat",
+    "reporter": "hillng",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Cross-site Scripting (XSS) - DOM",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-07-18",
+    "disclosed_at": "2026-08-20",
+    "votes": 2
   },
   {
     "id": 3878586,

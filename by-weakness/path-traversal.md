@@ -1,4 +1,4 @@
-# Weakness: Path Traversal (151 reports)
+# Weakness: Path Traversal (153 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -93,65 +93,67 @@
 | 87 | [384939](../reports/384939.md) | http-live-simulator npm module is prone to path traversal attacks | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 5 |
 | 88 | [1952978](../reports/1952978.md) | Filesystem experimental permissions policy does not handle path t | [Node.js](../by-program/nodejs.md) | High — CVSS 7.7 | — | 5 |
 | 89 | [312918](../reports/312918.md) | [public] Path Traversal allows to read content of arbitrary files | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 4 |
-| 90 | [960082](../reports/960082.md) | Read-only path traversal (CVE-2020-3452)  at https://█████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 4 |
-| 91 | [329837](../reports/329837.md) | Bypass to defective fix of Path Traversal  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 4 |
-| 92 | [820224](../reports/820224.md) | [sapper] Path Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 4 |
-| 93 | [1555015](../reports/1555015.md) | [CVE-2020-3452] Unauthenticated file read in Cisco ASA | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 4 |
-| 94 | [330349](../reports/330349.md) | [angular-http-server] Server Directory Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 4 |
-| 95 | [383112](../reports/383112.md) | [ponse] Path traversal in ponse module allows to read any file on | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 4 |
-| 96 | [959679](../reports/959679.md) | Read-only path traversal (CVE-2020-3452)  at https://████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 4 |
-| 97 | [579517](../reports/579517.md) | [hnzserver] Path Traversal allowing to read any files on the serv | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 4 |
-| 98 | [2104564](../reports/2104564.md) | (CVE-2023-32004) Permission model bypass by specifying a path tra | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 4 |
-| 99 | [1664244](../reports/1664244.md) | fix(security):Path Traversal Bug | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | High | — | 3 |
-| 100 | [1641148](../reports/1641148.md) | Directory Traversal at █████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 3 |
-| 101 | [579523](../reports/579523.md) | [http_server] Path Traversal allowing to read any files on the se | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 2 |
-| 102 | [411405](../reports/411405.md) | [http-live-simulator] Path traversal vulnerability | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 2 |
-| 103 | [581939](../reports/581939.md) | [static-server-gx] Path Traversal allowing to read any files on t | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 2 |
-| 104 | [3553340](../reports/3553340.md) | Active Storage Vips Transformer Missing validate_transformation — | [Ruby on Rails](../by-program/rails.md) | High — CVSS 7.5 | — | 2 |
-| 105 | [790623](../reports/790623.md) | [sirloin] Web Server Directory Traversal via Crafted GET Request | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 1 |
-| 106 | [1455266](../reports/1455266.md) | Arbitrary File Deletion (CVE-2020-3187) on ████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 1 |
-| 107 | [507310](../reports/507310.md) | [deliver-or-else] Path Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 1 |
-| 108 | [790873](../reports/790873.md) | [hangersteak] Web Server Directory Traversal via Crafted GET Requ | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 1 |
-| 109 | [509697](../reports/509697.md) | [md-fileserver] Path Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 1 |
-| 110 | [2553411](../reports/2553411.md) | Path traversal in deeplink query parameter can expose any user's  | [Basecamp](../by-program/basecamp.md) | Medium — CVSS 5.5 | — | 64 |
-| 111 | [2307225](../reports/2307225.md) | Path traversal by drive name in Windows environment | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.6 | — | 59 |
-| 112 | [1997029](../reports/1997029.md) | Path traversal allows tricking the Talk Android app into writing  | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.4 | — | 41 |
-| 113 | [270072](../reports/270072.md) | Unpacker improperly validates symlinks, allowing gems writes to a | [RubyGems](../by-program/rubygems.md) | Medium | — | 35 |
-| 114 | [333306](../reports/333306.md) | Directory traversal at https://msg.algolia.com | [Algolia](../by-program/algolia.md) | Medium | — | 34 |
-| 115 | [2032778](../reports/2032778.md) | Internal machine learning API endpoint for CWE classification is  | [HackerOne](../by-program/security.md) | Medium — CVSS 6.4 | — | 32 |
-| 116 | [869888](../reports/869888.md) | Path Traversal in App Proxy | [Shopify](../by-program/shopify.md) | Medium — CVSS 6.8 | — | 29 |
-| 117 | [254200](../reports/254200.md) | Escaping images directory in S3 bucket when saving new avatar, us | [Unikrn](../by-program/unikrn.md) | Medium | — | 26 |
-| 118 | [316713](../reports/316713.md) | Ad Builder Display Ads Path Traversal | [Semrush](../by-program/semrush.md) | Medium | — | 22 |
-| 119 | [924407](../reports/924407.md) | Local File Disclosure /Delete On [us-az-vpn.acronis.com] | [Acronis](../by-program/acronis.md) | Medium | — | 21 |
-| 120 | [3634571](../reports/3634571.md) | Path Traversal in writeFile via Unsafe Prefix Containment Check A | [arkadiyt-projects](../by-program/arkadiyt-projects.md) | Medium — CVSS 6.7 | — | 20 |
-| 121 | [695429](../reports/695429.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://███████/  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 5.3 | — | 19 |
-| 122 | [695427](../reports/695427.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://███ (████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 5.3 | — | 17 |
-| 123 | [694865](../reports/694865.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://█████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 5.3 | — | 16 |
-| 124 | [435457](../reports/435457.md) | Ability to login to the Nexus Repo Manager from https://nexus.img | [Imgur](../by-program/imgur.md) | Medium — CVSS 5.3 | — | 16 |
-| 125 | [748765](../reports/748765.md) | [Total.js] Path traversal vulnerability allows to read files outs | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.3 | — | 16 |
-| 126 | [403703](../reports/403703.md) | List any file in the folder by using path traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.8 | — | 15 |
-| 127 | [1631350](../reports/1631350.md) | Off-by-slash vulnerability in nodejs.org and iojs.org | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.3 | — | 12 |
-| 128 | [696400](../reports/696400.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://████████/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 6.5 | — | 10 |
-| 129 | [695776](../reports/695776.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://███████/  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 6.5 | — | 10 |
-| 130 | [695780](../reports/695780.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://████████/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 6.5 | — | 10 |
-| 131 | [694861](../reports/694861.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://1████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 5.3 | — | 9 |
-| 132 | [270068](../reports/270068.md) | Installer can modify other gems if gem name is specially crafted | [RubyGems](../by-program/rubygems.md) | Medium — CVSS 5.5 | — | 8 |
-| 133 | [360727](../reports/360727.md) | [markdown-pdf] Local file reading | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.3 | — | 8 |
-| 134 | [1081878](../reports/1081878.md) | Arbitrary File Deletion via Path Traversal in image-edit.php | [ImpressCMS](../by-program/impresscms.md) | Medium — CVSS 6.3 | — | 7 |
-| 135 | [3580511](../reports/3580511.md) | ActiveStorage Disk Service Path Traversal via Custom Blob Key Inj | [Ruby on Rails](../by-program/rails.md) | Medium — CVSS 6.5 | — | 6 |
-| 136 | [637840](../reports/637840.md) | Path traversal in command line client | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 4.5 | — | 4 |
-| 137 | [296254](../reports/296254.md) | [serve-here] Static Web Server Directory Traversal via Crafted GE | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 4 |
-| 138 | [530289](../reports/530289.md) | [harp] Path traversal using symlink | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.3 | — | 3 |
-| 139 | [692262](../reports/692262.md) | Path traversal in https://www.npmjs.com/package/http_server via s | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.5 | — | 3 |
-| 140 | [1369288](../reports/1369288.md) | Path Traversal CVE-2021-26086 CVE-2021-26085 | [MariaDB](../by-program/mariadb.md) | Medium | — | 3 |
-| 141 | [296282](../reports/296282.md) | [augustine] Static Web Server Directory Traversal via Crafted GET | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 3 |
-| 142 | [225495](../reports/225495.md) | full path disclosure at hosted.weblate.org/admin/accounts/profile | [Weblate](../by-program/weblate.md) | Medium — CVSS 4.3 | — | 2 |
-| 143 | [772509](../reports/772509.md) | [node-downloader-helper] Path traversal via Content-Disposition h | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 4.6 | — | 2 |
-| 144 | [319795](../reports/319795.md) | [m-server] Path Traversal allows to display content of arbitrary  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.1 | — | 2 |
-| 145 | [355456](../reports/355456.md) | [statics-server] Path Traversal due to lack of provided path sani | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 1 |
-| 146 | [797159](../reports/797159.md) | PHP builded for Windows with TS support does not resolve relalati | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.8 | — | 0 |
-| 147 | [1313040](../reports/1313040.md) | Path Traversal on meetcqpub1.gsa.gov allows attackers to see arbi | [U.S. General Services Administration](../by-program/gsa_vdp.md) | Low — CVSS 3.7 | — | 11 |
-| 148 | [1353603](../reports/1353603.md) | Fix for CVE-2021-22151 (Kibana path traversal issue) can be bypas | [Elastic](../by-program/elastic.md) | Low — CVSS 3.1 | — | 10 |
-| 149 | [310671](../reports/310671.md) | [file-static-server] Path Traversal allows to read content of arb | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 3.5 | — | 3 |
-| 150 | [1892351](../reports/1892351.md) | CVE-2023-27534: SFTP path ~ resolving discrepancy | [curl](../by-program/curl.md) | Low | — | 3 |
-| 151 | [1690377](../reports/1690377.md) | Relative Path Traversal vulnerability in fabric-private-chaincode | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | None | — | 6 |
+| 90 | [2038134](../reports/2038134.md) | Permission model bypass by specifying a path traversal sequence i | [Node.js](../by-program/nodejs.md) | High — CVSS 7.7 | — | 4 |
+| 91 | [960082](../reports/960082.md) | Read-only path traversal (CVE-2020-3452)  at https://█████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 4 |
+| 92 | [329837](../reports/329837.md) | Bypass to defective fix of Path Traversal  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 4 |
+| 93 | [820224](../reports/820224.md) | [sapper] Path Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 4 |
+| 94 | [1555015](../reports/1555015.md) | [CVE-2020-3452] Unauthenticated file read in Cisco ASA | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 4 |
+| 95 | [330349](../reports/330349.md) | [angular-http-server] Server Directory Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 4 |
+| 96 | [383112](../reports/383112.md) | [ponse] Path traversal in ponse module allows to read any file on | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 4 |
+| 97 | [959679](../reports/959679.md) | Read-only path traversal (CVE-2020-3452)  at https://████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 4 |
+| 98 | [579517](../reports/579517.md) | [hnzserver] Path Traversal allowing to read any files on the serv | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 4 |
+| 99 | [2104564](../reports/2104564.md) | (CVE-2023-32004) Permission model bypass by specifying a path tra | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 4 |
+| 100 | [1664244](../reports/1664244.md) | fix(security):Path Traversal Bug | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | High | — | 3 |
+| 101 | [1641148](../reports/1641148.md) | Directory Traversal at █████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 3 |
+| 102 | [579523](../reports/579523.md) | [http_server] Path Traversal allowing to read any files on the se | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 2 |
+| 103 | [411405](../reports/411405.md) | [http-live-simulator] Path traversal vulnerability | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 2 |
+| 104 | [581939](../reports/581939.md) | [static-server-gx] Path Traversal allowing to read any files on t | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 2 |
+| 105 | [3553340](../reports/3553340.md) | Active Storage Vips Transformer Missing validate_transformation — | [Ruby on Rails](../by-program/rails.md) | High — CVSS 7.5 | — | 2 |
+| 106 | [790623](../reports/790623.md) | [sirloin] Web Server Directory Traversal via Crafted GET Request | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 1 |
+| 107 | [1455266](../reports/1455266.md) | Arbitrary File Deletion (CVE-2020-3187) on ████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 1 |
+| 108 | [507310](../reports/507310.md) | [deliver-or-else] Path Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 1 |
+| 109 | [790873](../reports/790873.md) | [hangersteak] Web Server Directory Traversal via Crafted GET Requ | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 1 |
+| 110 | [509697](../reports/509697.md) | [md-fileserver] Path Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 1 |
+| 111 | [2553411](../reports/2553411.md) | Path traversal in deeplink query parameter can expose any user's  | [Basecamp](../by-program/basecamp.md) | Medium — CVSS 5.5 | — | 64 |
+| 112 | [2307225](../reports/2307225.md) | Path traversal by drive name in Windows environment | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.6 | — | 59 |
+| 113 | [1997029](../reports/1997029.md) | Path traversal allows tricking the Talk Android app into writing  | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.4 | — | 41 |
+| 114 | [270072](../reports/270072.md) | Unpacker improperly validates symlinks, allowing gems writes to a | [RubyGems](../by-program/rubygems.md) | Medium | — | 35 |
+| 115 | [333306](../reports/333306.md) | Directory traversal at https://msg.algolia.com | [Algolia](../by-program/algolia.md) | Medium | — | 34 |
+| 116 | [2032778](../reports/2032778.md) | Internal machine learning API endpoint for CWE classification is  | [HackerOne](../by-program/security.md) | Medium — CVSS 6.4 | — | 32 |
+| 117 | [869888](../reports/869888.md) | Path Traversal in App Proxy | [Shopify](../by-program/shopify.md) | Medium — CVSS 6.8 | — | 29 |
+| 118 | [254200](../reports/254200.md) | Escaping images directory in S3 bucket when saving new avatar, us | [Unikrn](../by-program/unikrn.md) | Medium | — | 26 |
+| 119 | [316713](../reports/316713.md) | Ad Builder Display Ads Path Traversal | [Semrush](../by-program/semrush.md) | Medium | — | 22 |
+| 120 | [924407](../reports/924407.md) | Local File Disclosure /Delete On [us-az-vpn.acronis.com] | [Acronis](../by-program/acronis.md) | Medium | — | 21 |
+| 121 | [3634571](../reports/3634571.md) | Path Traversal in writeFile via Unsafe Prefix Containment Check A | [arkadiyt-projects](../by-program/arkadiyt-projects.md) | Medium — CVSS 6.7 | — | 20 |
+| 122 | [695429](../reports/695429.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://███████/  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 5.3 | — | 19 |
+| 123 | [695427](../reports/695427.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://███ (████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 5.3 | — | 17 |
+| 124 | [694865](../reports/694865.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://█████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 5.3 | — | 16 |
+| 125 | [435457](../reports/435457.md) | Ability to login to the Nexus Repo Manager from https://nexus.img | [Imgur](../by-program/imgur.md) | Medium — CVSS 5.3 | — | 16 |
+| 126 | [748765](../reports/748765.md) | [Total.js] Path traversal vulnerability allows to read files outs | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.3 | — | 16 |
+| 127 | [403703](../reports/403703.md) | List any file in the folder by using path traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.8 | — | 15 |
+| 128 | [1631350](../reports/1631350.md) | Off-by-slash vulnerability in nodejs.org and iojs.org | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.3 | — | 12 |
+| 129 | [696400](../reports/696400.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://████████/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 6.5 | — | 10 |
+| 130 | [695776](../reports/695776.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://███████/  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 6.5 | — | 10 |
+| 131 | [695780](../reports/695780.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://████████/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 6.5 | — | 10 |
+| 132 | [694861](../reports/694861.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://1████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 5.3 | — | 9 |
+| 133 | [270068](../reports/270068.md) | Installer can modify other gems if gem name is specially crafted | [RubyGems](../by-program/rubygems.md) | Medium — CVSS 5.5 | — | 8 |
+| 134 | [360727](../reports/360727.md) | [markdown-pdf] Local file reading | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.3 | — | 8 |
+| 135 | [1081878](../reports/1081878.md) | Arbitrary File Deletion via Path Traversal in image-edit.php | [ImpressCMS](../by-program/impresscms.md) | Medium — CVSS 6.3 | — | 7 |
+| 136 | [3580511](../reports/3580511.md) | ActiveStorage Disk Service Path Traversal via Custom Blob Key Inj | [Ruby on Rails](../by-program/rails.md) | Medium — CVSS 6.5 | — | 6 |
+| 137 | [637840](../reports/637840.md) | Path traversal in command line client | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 4.5 | — | 4 |
+| 138 | [296254](../reports/296254.md) | [serve-here] Static Web Server Directory Traversal via Crafted GE | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 4 |
+| 139 | [530289](../reports/530289.md) | [harp] Path traversal using symlink | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.3 | — | 3 |
+| 140 | [692262](../reports/692262.md) | Path traversal in https://www.npmjs.com/package/http_server via s | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.5 | — | 3 |
+| 141 | [1369288](../reports/1369288.md) | Path Traversal CVE-2021-26086 CVE-2021-26085 | [MariaDB](../by-program/mariadb.md) | Medium | — | 3 |
+| 142 | [296282](../reports/296282.md) | [augustine] Static Web Server Directory Traversal via Crafted GET | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 3 |
+| 143 | [225495](../reports/225495.md) | full path disclosure at hosted.weblate.org/admin/accounts/profile | [Weblate](../by-program/weblate.md) | Medium — CVSS 4.3 | — | 2 |
+| 144 | [772509](../reports/772509.md) | [node-downloader-helper] Path traversal via Content-Disposition h | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 4.6 | — | 2 |
+| 145 | [319795](../reports/319795.md) | [m-server] Path Traversal allows to display content of arbitrary  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.1 | — | 2 |
+| 146 | [355456](../reports/355456.md) | [statics-server] Path Traversal due to lack of provided path sani | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 1 |
+| 147 | [797159](../reports/797159.md) | PHP builded for Windows with TS support does not resolve relalati | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.8 | — | 0 |
+| 148 | [1313040](../reports/1313040.md) | Path Traversal on meetcqpub1.gsa.gov allows attackers to see arbi | [U.S. General Services Administration](../by-program/gsa_vdp.md) | Low — CVSS 3.7 | — | 11 |
+| 149 | [1353603](../reports/1353603.md) | Fix for CVE-2021-22151 (Kibana path traversal issue) can be bypas | [Elastic](../by-program/elastic.md) | Low — CVSS 3.1 | — | 10 |
+| 150 | [2037887](../reports/2037887.md) | fs.mkdtemp() and fs.mkdtempSync() are missing getValidatedPath()  | [Node.js](../by-program/nodejs.md) | Low — CVSS 2.9 | — | 4 |
+| 151 | [310671](../reports/310671.md) | [file-static-server] Path Traversal allows to read content of arb | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 3.5 | — | 3 |
+| 152 | [1892351](../reports/1892351.md) | CVE-2023-27534: SFTP path ~ resolving discrepancy | [curl](../by-program/curl.md) | Low | — | 3 |
+| 153 | [1690377](../reports/1690377.md) | Relative Path Traversal vulnerability in fabric-private-chaincode | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | None | — | 6 |

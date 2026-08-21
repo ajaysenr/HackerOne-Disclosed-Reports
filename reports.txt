@@ -8643,7 +8643,7 @@ https://hackerone.com/reports/2039447 | Entering passwords on the Share Login Pa
 https://hackerone.com/reports/2039464 | Code inject via nginx.ingress.kubernetes.io/permanent-redirect annotation
 https://hackerone.com/reports/2039870 | CVE-2023-32001: fopen race condition
 https://hackerone.com/reports/2040756 | An attacker can submit a Pentest Opportunity and change the status of the opportunity from submitted to in_review or reviewed
-https://hackerone.com/reports/2041007 | Cross-Site Request Forgery 
+https://hackerone.com/reports/2041007 | Cross-Site Request Forgery
 https://hackerone.com/reports/2043552 | Admin.MyTVA.com Customer lookup and internal notes bypass
 https://hackerone.com/reports/2043807 | Policy-restricted modules can escalate to higher privileges by impersonating other modules in a policy list using module.constructor.createRequire()
 https://hackerone.com/reports/2043885 | Ability to  bypass Admin override on Cloudflare WARP Android
@@ -9640,6 +9640,7 @@ https://hackerone.com/reports/3511998 | Private circle can be added to another c
 https://hackerone.com/reports/3514122 | Password Reuse Vulnerability on AWS Sign-in Page via Password Reset Flow leads to Security Policy Violation
 https://hackerone.com/reports/3514263 | libcurl: Improper Authentication State Management on Cross-Protocol Redirects
 https://hackerone.com/reports/3514640 | Unauthenticated Path Traversal (LFI) via /custom-sounds/ when CustomSounds uses FileSystem storage
+https://hackerone.com/reports/3515557 | Loss of multisig funds through single malicious participant's deliberate deception
 https://hackerone.com/reports/3516186 | Cookie Max-Age Integer Overflow Vulnerability
 https://hackerone.com/reports/3516202 | Cookie Replacement Use-After-Free Vulnerability
 https://hackerone.com/reports/3516878 | Cross‑origin cookies leak and injection risk when using a custom Host header
@@ -9723,6 +9724,7 @@ https://hackerone.com/reports/3617719 | Function `do_pubkey()` can have out-of-b
 https://hackerone.com/reports/3618831 | Unix domain socket server bypasses --permission network restrictions (incomplete CVE-2026-21636 fix)
 https://hackerone.com/reports/3619287 | RCE + Supply Chain Attack via pull_request_target in content-scope-scripts/semver-label.yml — Affects All DuckDuckGo Browsers
 https://hackerone.com/reports/3619288 | RCE + PAT Exfiltration via pull_request_target in privacy-configuration/auto-respond-pr.yml — Direct Supply Chain to All DDG Browsers
+https://hackerone.com/reports/3619409 | Windows installer grants low-privileged users write access to executable P2Pool directory, enabling local code execution
 https://hackerone.com/reports/3620006 | Wallet RPC Restricted-Mode Policy Bypass
 https://hackerone.com/reports/3620748 | V1Plugin.Decrypt panics on empty ciphertext (Remote DoS)
 https://hackerone.com/reports/3620753 | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS)
@@ -9761,6 +9763,7 @@ https://hackerone.com/reports/3645415 | # SCURLOPT_SSH_KNOWNHOSTS and host finge
 https://hackerone.com/reports/3646072 | Negotiate connection reuse with wrong credentials when using CURLAUTH_ANY
 https://hackerone.com/reports/3646914 | ignoring 'options' when doing connection reuse
 https://hackerone.com/reports/3648199 | Internal application wrapper or script using curl
+https://hackerone.com/reports/3648638 | monero:// deeplink parsing accepts tx_amount=(all) and can trigger send-all transaction mode
 https://hackerone.com/reports/3648681 | Improper Input Validation — HTTP Response Parser Unconditionally Accepts Bare CR in Status Line
 https://hackerone.com/reports/3649802 | TLS host identity verification bypass via session reuse with different servername leads to unauthorized connections
 https://hackerone.com/reports/3650435 | Improper enforcement of CURLOPT_SOCKS5_AUTH due to missing reuse key validation in libcurl
@@ -9794,6 +9797,7 @@ https://hackerone.com/reports/3676863 | Unbounded memory growth in `node:http2` 
 https://hackerone.com/reports/3677576 | Missing access control when modifying parent entities via XML‑RPC
 https://hackerone.com/reports/3677759 | CVE-2026-6429: netrc credential leak with reused proxy connection
 https://hackerone.com/reports/3678828 | Banner status override by advertiser‑level users
+https://hackerone.com/reports/3679471 | HTML Injection in Transaction Confirmation Dialog via Address Book Description Enables UI Spoofing Before Fund Transfer
 https://hackerone.com/reports/3679660 | mruby-engine: UAF in MRubyEngine#initialize enables local RCE
 https://hackerone.com/reports/3680038 | Digest Auth State Leak on Cross-Origin Redirect via Netrc - Username and Password Hash Sent to Wrong Host
 https://hackerone.com/reports/3680090 | Stored XSS via malicious usernames in audit log details + Username validation bypass in XML‑RPC addUser
@@ -9803,6 +9807,7 @@ https://hackerone.com/reports/3682666 | Use-after-free in `curl_easy_ssls_export
 https://hackerone.com/reports/3684603 | Stack exhaustion in MIME multipart reading with deeply nested subparts
 https://hackerone.com/reports/3684614 | Heap-buffer-overflow in `Curl_ssl_push_certinfo_len()` — sole bounds check is `DEBUGASSERT`
 https://hackerone.com/reports/3686259 | `set_daemon` wallet-rpc silently ignores `ssl_allowed_fingerprints` → pinning bypassed, wallet↔daemon MITM
+https://hackerone.com/reports/3686283 | View-only offline transaction creation bypasses the long-payment-ID privacy block
 https://hackerone.com/reports/3687142 | Unauthenticated reading of every file via livechat auth and predicting MongoDB ObjectId()
 https://hackerone.com/reports/3687543 | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet state via attacker-controlled `pending_tx`
 https://hackerone.com/reports/3688064 | Node.js unicode dot separator handling can lead to tls wildcard-depth authentication bypass due to resolver and verifier hostname normalization mismat
@@ -9940,6 +9945,7 @@ https://hackerone.com/reports/3813932 | [Splatoon 3] Kick other players with Npl
 https://hackerone.com/reports/3815767 | Permission Model bypass: process.report writes (and overwrites) files outside --allow-fs-write paths
 https://hackerone.com/reports/3816840 | HTTPS Agent PFX object-array key collision allows mTLS client identity reuse across different per-request certificates
 https://hackerone.com/reports/3817602 | Node --run POSIX positional argument escaping allows shell command injection
+https://hackerone.com/reports/3819475 | Monero GUI OpenAlias DNSSEC-invalid resolution still writes spoofable address into recipient field
 https://hackerone.com/reports/3823932 | CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabling HAProxy PROXY protocol injection
 https://hackerone.com/reports/3823985 | Use-after-free in `mev_forget_socket` when `curl_easy_pause()` is called from a `CURL_POLL_REMOVE` socket callback (incomplete fix of CVE-2026-9080)
 https://hackerone.com/reports/3824303 | UAF read in mev_pollset_diff() trace path after curl_easy_pause() in socket callback
@@ -9953,6 +9959,8 @@ https://hackerone.com/reports/3832393 | libcurl upload read callbacks miss recur
 https://hackerone.com/reports/3833577 | heap-use-after-free in curl_easy_cleanup() called from callback
 https://hackerone.com/reports/3837634 | JaaS SIP Gateway Authorization Bypass
 https://hackerone.com/reports/3838601 | Permission Model Bypass: `trace_events.createTracing().enable()` Writes Trace Logs Outside `--allow-fs-write`
+https://hackerone.com/reports/3852135 | DDP methods getThreadsList / getThreadMessages leaks private thread content to any authenticated low privilege user (unpatched sibling of #1446767)
+https://hackerone.com/reports/3872858 | Stored HTML Injection (CWE-79) via Livechat Visitor Name
 https://hackerone.com/reports/3878586 | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, hide_from_lists) and uses frozen visibility, exposing donat
 https://hackerone.com/reports/3911605 | SMTP CRLF injection in custom SMTP recipient operand allows additional SMTP commands after authentication
 https://hackerone.com/reports/3911968 | Heap use-after-free (write) in mev_forget_socket() via reentrant curl_easy_pause() — incomplete fix for CVE-2026-9080
