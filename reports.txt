@@ -8635,7 +8635,7 @@ https://hackerone.com/reports/2037032 | Subdomain takeover on one of the subdoma
 https://hackerone.com/reports/2037234 | Stored XSS + CSRF in "apellido" value
 https://hackerone.com/reports/2037887 | fs.mkdtemp() and fs.mkdtempSync() are missing getValidatedPath() checks.
 https://hackerone.com/reports/2037902 | Authentication bypass on JetPack SSO manager - Allows to access the administration panel of wordpress without user interaction
-https://hackerone.com/reports/2038134 | Permission model bypass by specifying a path traversal sequence in a buffer, 
+https://hackerone.com/reports/2038134 | Permission model bypass by specifying a path traversal sequence in a buffer,
 https://hackerone.com/reports/2038484 | DiffieHellman doesn't generate keys after setting a key
 https://hackerone.com/reports/2038943 | [oem.acronis.com] Reflected Cross Site Scripting
 https://hackerone.com/reports/2039384 | Reflected XSS in https://nin.mtn.ng/nin/success?message=lol&nin=<VULNERABLE>
@@ -8643,6 +8643,7 @@ https://hackerone.com/reports/2039447 | Entering passwords on the Share Login Pa
 https://hackerone.com/reports/2039464 | Code inject via nginx.ingress.kubernetes.io/permanent-redirect annotation
 https://hackerone.com/reports/2039870 | CVE-2023-32001: fopen race condition
 https://hackerone.com/reports/2040756 | An attacker can submit a Pentest Opportunity and change the status of the opportunity from submitted to in_review or reviewed
+https://hackerone.com/reports/2041007 | Cross-Site Request Forgery 
 https://hackerone.com/reports/2043552 | Admin.MyTVA.com Customer lookup and internal notes bypass
 https://hackerone.com/reports/2043807 | Policy-restricted modules can escalate to higher privileges by impersonating other modules in a policy list using module.constructor.createRequire()
 https://hackerone.com/reports/2043885 | Ability to  bypass Admin override on Cloudflare WARP Android
