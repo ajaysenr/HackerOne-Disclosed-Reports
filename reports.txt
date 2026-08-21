@@ -8647,6 +8647,7 @@ https://hackerone.com/reports/2041007 | Cross-Site Request Forgery
 https://hackerone.com/reports/2043552 | Admin.MyTVA.com Customer lookup and internal notes bypass
 https://hackerone.com/reports/2043807 | Policy-restricted modules can escalate to higher privileges by impersonating other modules in a policy list using module.constructor.createRequire()
 https://hackerone.com/reports/2043885 | Ability to  bypass Admin override on Cloudflare WARP Android
+https://hackerone.com/reports/2045549 | CVE-2023-24488 xss on https://██████/
 https://hackerone.com/reports/2045722 | inviting collaborator using email disclose the hackerone account related to the user
 https://hackerone.com/reports/2048725 | Circular based introspetion Query leading to single request denial of service and cost consumption and query cost on api.sorare.com/graphql
 https://hackerone.com/reports/2051085 | Stored XSS on promo.indrive.com
