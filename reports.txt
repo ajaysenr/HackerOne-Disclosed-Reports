@@ -8649,7 +8649,9 @@ https://hackerone.com/reports/2043807 | Policy-restricted modules can escalate t
 https://hackerone.com/reports/2043885 | Ability to  bypass Admin override on Cloudflare WARP Android
 https://hackerone.com/reports/2045549 | CVE-2023-24488 xss on https://██████/
 https://hackerone.com/reports/2045722 | inviting collaborator using email disclose the hackerone account related to the user
+https://hackerone.com/reports/2047168 | Any (non-admin) user from an instance can destroy any (user and/or global) external filesystem
 https://hackerone.com/reports/2048725 | Circular based introspetion Query leading to single request denial of service and cost consumption and query cost on api.sorare.com/graphql
+https://hackerone.com/reports/2050059 | Nextcloud All-In-One path disclosure of internal frontend
 https://hackerone.com/reports/2051085 | Stored XSS on promo.indrive.com
 https://hackerone.com/reports/2051224 | fs.statfs bypasses Permission Model
 https://hackerone.com/reports/2051257 | process.binding() can bypass the permission model through path traversal
