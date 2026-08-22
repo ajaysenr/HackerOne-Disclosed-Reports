@@ -158315,6 +158315,26 @@
     "votes": 29
   },
   {
+    "id": 2045549,
+    "url": "https://hackerone.com/reports/2045549",
+    "title": "CVE-2023-24488 xss on https://\u2588\u2588\u2588\u2588\u2588\u2588/",
+    "program": "U.S. Dept Of Defense",
+    "program_handle": "deptofdefense",
+    "reporter": "0xmaruf",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Cross-site Scripting (XSS) - Reflected",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-24488"
+    ],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-07-01",
+    "disclosed_at": "2023-09-08",
+    "votes": 6
+  },
+  {
     "id": 2045722,
     "url": "https://hackerone.com/reports/2045722",
     "title": "inviting collaborator using email disclose the hackerone account related to the user",
@@ -158333,6 +158353,26 @@
     "votes": 77
   },
   {
+    "id": 2047168,
+    "url": "https://hackerone.com/reports/2047168",
+    "title": "Any (non-admin) user from an instance can destroy any (user and/or global) external filesystem",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "cult",
+    "severity": "medium",
+    "cvss": 6.5,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-39962"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-07-02",
+    "disclosed_at": "2023-08-10",
+    "votes": 12
+  },
+  {
     "id": 2048725,
     "url": "https://hackerone.com/reports/2048725",
     "title": "Circular based introspetion Query leading to single request denial of service and cost consumption and query cost on api.sorare.com/graphql",
@@ -158349,6 +158389,24 @@
     "reported_at": "2023-07-03",
     "disclosed_at": "2024-10-17",
     "votes": 55
+  },
+  {
+    "id": 2050059,
+    "url": "https://hackerone.com/reports/2050059",
+    "title": "Nextcloud All-In-One path disclosure of internal frontend",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "shuvam321",
+    "severity": "none",
+    "cvss": 0.0,
+    "weakness": "Information Disclosure",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-07-04",
+    "disclosed_at": "2023-09-26",
+    "votes": 5
   },
   {
     "id": 2051085,
@@ -182938,5 +182996,23 @@
     "reported_at": "2026-08-13",
     "disclosed_at": "2026-08-14",
     "votes": 2
+  },
+  {
+    "id": 3952619,
+    "url": "https://hackerone.com/reports/3952619",
+    "title": "Domainless COOKIEFILE cookie leaks to unrelated IP-literal hosts",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "accl",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Information Exposure Through Sent Data",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-19",
+    "disclosed_at": "2026-08-21",
+    "votes": 6
   }
 ]

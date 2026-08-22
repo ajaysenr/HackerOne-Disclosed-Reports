@@ -9973,3 +9973,4 @@ https://hackerone.com/reports/3923212 | URL API: triple-slash parses path segmen
 https://hackerone.com/reports/3930957 | Myndr CORS Misconfiguration
 https://hackerone.com/reports/3938185 | Windows SSPI connection-pool probe can reuse a connection under the wrong user
 https://hackerone.com/reports/3938220 | libcurl cache updates follow symlinks and truncate their targets
+https://hackerone.com/reports/3952619 | Domainless COOKIEFILE cookie leaks to unrelated IP-literal hosts
