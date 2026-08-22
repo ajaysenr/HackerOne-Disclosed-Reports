@@ -8656,9 +8656,12 @@ https://hackerone.com/reports/2051085 | Stored XSS on promo.indrive.com
 https://hackerone.com/reports/2051224 | fs.statfs bypasses Permission Model
 https://hackerone.com/reports/2051257 | process.binding() can bypass the permission model through path traversal
 https://hackerone.com/reports/2051931 | Blind SQL injection on id.indrive.com
+https://hackerone.com/reports/2052795 | No Rate Limit On Forgot Password on https://apps.nextcloud.com
 https://hackerone.com/reports/2053051 | Hackerone All Private Program Name Leaked to Public Via Collaborator OR Attacker can Easily Dump all Private Program Names through Collaborator
 https://hackerone.com/reports/2053396 | Possibility of Deface through translation tool - www.mozilla.com
+https://hackerone.com/reports/2054184 | RCE via File Upload  with a Null Byte Truncated File Extension at https://██████/
 https://hackerone.com/reports/2054222 | Usernames still visible on report export pdf despite "I want to redact all usernames" is selected
+https://hackerone.com/reports/2054283 | Improper HTTP header block termination in llhttp
 https://hackerone.com/reports/2055132 | reflected xss in https://wordpress.com/start/account/user
 https://hackerone.com/reports/2058337 | Inviting excessive long email addresses to a calendar event makes the server unresponsive
 https://hackerone.com/reports/2058556 | Self XSS when sending HTML as a comment in the Deck app
