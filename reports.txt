@@ -8662,6 +8662,7 @@ https://hackerone.com/reports/2053396 | Possibility of Deface through translatio
 https://hackerone.com/reports/2054184 | RCE via File Upload  with a Null Byte Truncated File Extension at https://██████/
 https://hackerone.com/reports/2054222 | Usernames still visible on report export pdf despite "I want to redact all usernames" is selected
 https://hackerone.com/reports/2054283 | Improper HTTP header block termination in llhttp
+https://hackerone.com/reports/2055081 | Google dork lead to unsubscribe anyone from all Banfield emails
 https://hackerone.com/reports/2055132 | reflected xss in https://wordpress.com/start/account/user
 https://hackerone.com/reports/2058337 | Inviting excessive long email addresses to a calendar event makes the server unresponsive
 https://hackerone.com/reports/2058556 | Self XSS when sending HTML as a comment in the Deck app
