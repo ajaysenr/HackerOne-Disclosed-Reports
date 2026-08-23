@@ -8666,6 +8666,7 @@ https://hackerone.com/reports/2055081 | Google dork lead to unsubscribe anyone f
 https://hackerone.com/reports/2055132 | reflected xss in https://wordpress.com/start/account/user
 https://hackerone.com/reports/2058337 | Inviting excessive long email addresses to a calendar event makes the server unresponsive
 https://hackerone.com/reports/2058556 | Self XSS when sending HTML as a comment in the Deck app
+https://hackerone.com/reports/2061049 | Html injection
 https://hackerone.com/reports/2061367 | Triager/Team members can edit  hacker's report and hacker is not even notified
 https://hackerone.com/reports/2061826 | Nginx Alias Traversal -  babel.bluetab.net
 https://hackerone.com/reports/2061982 | Create account without auth via response manipulation
