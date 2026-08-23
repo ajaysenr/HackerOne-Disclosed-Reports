@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1762 total)
+# High/Critical Severity — No Bounty Paid (1763 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -241,6 +241,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1457928](../reports/1457928.md) | Subdomain takeover of █████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 33 |
 | [825643](../reports/825643.md) | Flaw in Change Email https://youtu.be/MMvlcHIGs2A | [Staging.every.org](../by-program/stagingdoteverydotorg.md) | Critical | Resolved | 33 |
 | [1051369](../reports/1051369.md) | Blind Stored XSS Payload fired at the backend on https://████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 33 |
+| [2054184](../reports/2054184.md) | RCE via File Upload  with a Null Byte Truncated File Extension at | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 33 |
 | [1735586](../reports/1735586.md) | Wordpress users Disclosure [ /wp-json/wp/v2/users/ ] | [MTN Group](../by-program/mtn_group.md) | Critical | Resolved | 33 |
 | [1296366](../reports/1296366.md) | EC2 subdomain takeover at http://████████/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 33 |
 | [1459714](../reports/1459714.md) | [CVE-2021-44228] Arbitrary Code Execution on ng01-cloud.acronis.c | [Acronis](../by-program/acronis.md) | Critical — CVSS 10.0 | Resolved | 32 |

@@ -1,4 +1,4 @@
-# Mars — Disclosed Reports (54 total)
+# Mars — Disclosed Reports (55 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -57,4 +57,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 51 | [2313478](../reports/2313478.md) | CSRF resulting in adding pet at ███████ | Low — CVSS 3.8 | — | 29 | [dr34m14](https://hackerone.com/dr34m14) | 2024-06-25 |
 | 52 | [2243003](../reports/2243003.md) | Information Exposure due to enabled debug mode | Low | — | 21 | [thpless](https://hackerone.com/thpless) | 2024-11-25 |
 | 53 | [1943013](../reports/1943013.md) | CRLF Inection at `██████████` | Low | — | 14 | [mo3giza](https://hackerone.com/mo3giza) | 2023-06-23 |
-| 54 | [2666151](../reports/2666151.md) | phpinfo() exposed on ██████████ | None | — | 35 | [thpless](https://hackerone.com/thpless) | 2024-11-21 |
+| 54 | [2055081](../reports/2055081.md) | Google dork lead to unsubscribe anyone from all Banfield ema | Low | — | 12 | [ractiurd](https://hackerone.com/ractiurd) | 2023-08-30 |
+| 55 | [2666151](../reports/2666151.md) | phpinfo() exposed on ██████████ | None | — | 35 | [thpless](https://hackerone.com/thpless) | 2024-11-21 |

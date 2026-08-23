@@ -158485,6 +158485,24 @@
     "votes": 194
   },
   {
+    "id": 2052795,
+    "url": "https://hackerone.com/reports/2052795",
+    "title": "No Rate Limit On Forgot Password on https://apps.nextcloud.com",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "cyber_world_01",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Improper Authentication - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2023-07-06",
+    "disclosed_at": "2023-09-26",
+    "votes": 10
+  },
+  {
     "id": 2053051,
     "url": "https://hackerone.com/reports/2053051",
     "title": "Hackerone All Private Program Name Leaked to Public Via Collaborator OR Attacker can Easily Dump all Private Program Names through Collaborator ",
@@ -158521,6 +158539,24 @@
     "votes": 30
   },
   {
+    "id": 2054184,
+    "url": "https://hackerone.com/reports/2054184",
+    "title": "RCE via File Upload  with a Null Byte Truncated File Extension at https://\u2588\u2588\u2588\u2588\u2588\u2588/",
+    "program": "U.S. Dept Of Defense",
+    "program_handle": "deptofdefense",
+    "reporter": "pizzapower",
+    "severity": "critical",
+    "cvss": null,
+    "weakness": "Command Injection - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-07-06",
+    "disclosed_at": "2023-12-21",
+    "votes": 33
+  },
+  {
     "id": 2054222,
     "url": "https://hackerone.com/reports/2054222",
     "title": "Usernames still visible on report export pdf despite \"I want to redact all usernames\" is selected",
@@ -158537,6 +158573,44 @@
     "reported_at": "2023-07-06",
     "disclosed_at": "2023-08-08",
     "votes": 74
+  },
+  {
+    "id": 2054283,
+    "url": "https://hackerone.com/reports/2054283",
+    "title": "Improper HTTP header block termination in llhttp",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "kenballus",
+    "severity": "medium",
+    "cvss": 6.5,
+    "weakness": "HTTP Request Smuggling",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2025-23167"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-07-07",
+    "disclosed_at": "2025-06-13",
+    "votes": 122
+  },
+  {
+    "id": 2055081,
+    "url": "https://hackerone.com/reports/2055081",
+    "title": "Google dork lead to unsubscribe anyone from all Banfield emails",
+    "program": "Mars",
+    "program_handle": "mars",
+    "reporter": "ractiurd",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "WILDCARD",
+    "reported_at": "2023-07-07",
+    "disclosed_at": "2023-08-30",
+    "votes": 12
   },
   {
     "id": 2055132,
