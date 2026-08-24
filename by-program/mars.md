@@ -1,4 +1,4 @@
-# Mars — Disclosed Reports (55 total)
+# Mars — Disclosed Reports (56 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -50,12 +50,13 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 44 | [1921606](../reports/1921606.md) | Stored XSS via ' profile ' at ███ | Medium — CVSS 6.2 | — | 16 | [0xs4m](https://hackerone.com/0xs4m) | 2023-06-23 |
 | 45 | [1714563](../reports/1714563.md) | Jolokia Reflected XSS  | Medium — CVSS 6.2 | — | 13 | [ramzanrl](https://hackerone.com/ramzanrl) | 2022-10-27 |
 | 46 | [2037234](../reports/2037234.md) | Stored XSS + CSRF in "apellido" value | Medium | — | 12 | [never_die](https://hackerone.com/never_die) | 2023-08-30 |
-| 47 | [2261600](../reports/2261600.md) | CSRF to delete a pet on ██████ | Low — CVSS 3.8 | — | 59 | [dr34m14](https://hackerone.com/dr34m14) | 2024-02-05 |
-| 48 | [2684274](../reports/2684274.md) | RXSS on ████ via configUrl parameter | Low — CVSS 3.8 | — | 51 | [kh4rish34v3n](https://hackerone.com/kh4rish34v3n) | 2024-11-26 |
-| 49 | [2354888](../reports/2354888.md) | unsubscribe anyone from all ████████ emails @ █████ | Low | — | 44 | [abfe](https://hackerone.com/abfe) | 2024-11-25 |
-| 50 | [3063026](../reports/3063026.md) | debug.log leaked [█████████] | Low | — | 39 | [imeng](https://hackerone.com/imeng) | 2025-05-12 |
-| 51 | [2313478](../reports/2313478.md) | CSRF resulting in adding pet at ███████ | Low — CVSS 3.8 | — | 29 | [dr34m14](https://hackerone.com/dr34m14) | 2024-06-25 |
-| 52 | [2243003](../reports/2243003.md) | Information Exposure due to enabled debug mode | Low | — | 21 | [thpless](https://hackerone.com/thpless) | 2024-11-25 |
-| 53 | [1943013](../reports/1943013.md) | CRLF Inection at `██████████` | Low | — | 14 | [mo3giza](https://hackerone.com/mo3giza) | 2023-06-23 |
-| 54 | [2055081](../reports/2055081.md) | Google dork lead to unsubscribe anyone from all Banfield ema | Low | — | 12 | [ractiurd](https://hackerone.com/ractiurd) | 2023-08-30 |
-| 55 | [2666151](../reports/2666151.md) | phpinfo() exposed on ██████████ | None | — | 35 | [thpless](https://hackerone.com/thpless) | 2024-11-21 |
+| 47 | [2061049](../reports/2061049.md) | Html injection | Medium — CVSS 4.3 | — | 11 | [ped_baq](https://hackerone.com/ped_baq) | 2023-08-30 |
+| 48 | [2261600](../reports/2261600.md) | CSRF to delete a pet on ██████ | Low — CVSS 3.8 | — | 59 | [dr34m14](https://hackerone.com/dr34m14) | 2024-02-05 |
+| 49 | [2684274](../reports/2684274.md) | RXSS on ████ via configUrl parameter | Low — CVSS 3.8 | — | 51 | [kh4rish34v3n](https://hackerone.com/kh4rish34v3n) | 2024-11-26 |
+| 50 | [2354888](../reports/2354888.md) | unsubscribe anyone from all ████████ emails @ █████ | Low | — | 44 | [abfe](https://hackerone.com/abfe) | 2024-11-25 |
+| 51 | [3063026](../reports/3063026.md) | debug.log leaked [█████████] | Low | — | 39 | [imeng](https://hackerone.com/imeng) | 2025-05-12 |
+| 52 | [2313478](../reports/2313478.md) | CSRF resulting in adding pet at ███████ | Low — CVSS 3.8 | — | 29 | [dr34m14](https://hackerone.com/dr34m14) | 2024-06-25 |
+| 53 | [2243003](../reports/2243003.md) | Information Exposure due to enabled debug mode | Low | — | 21 | [thpless](https://hackerone.com/thpless) | 2024-11-25 |
+| 54 | [1943013](../reports/1943013.md) | CRLF Inection at `██████████` | Low | — | 14 | [mo3giza](https://hackerone.com/mo3giza) | 2023-06-23 |
+| 55 | [2055081](../reports/2055081.md) | Google dork lead to unsubscribe anyone from all Banfield ema | Low | — | 12 | [ractiurd](https://hackerone.com/ractiurd) | 2023-08-30 |
+| 56 | [2666151](../reports/2666151.md) | phpinfo() exposed on ██████████ | None | — | 35 | [thpless](https://hackerone.com/thpless) | 2024-11-21 |

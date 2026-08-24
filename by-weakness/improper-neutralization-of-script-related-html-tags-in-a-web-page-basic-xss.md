@@ -1,4 +1,4 @@
-# Weakness: Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) (14 reports)
+# Weakness: Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) (15 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -14,7 +14,8 @@
 | 8 | [1376990](../reports/1376990.md) | HTML Injection via TikTok Ads Email Share  | [TikTok](../by-program/tiktok.md) | Medium | — | 29 |
 | 9 | [1810656](../reports/1810656.md) | xss and html injection on ( https://labs.history.state.gov) | [U.S. Department of State](../by-program/us-department-of-state.md) | Medium — CVSS 4.7 | — | 23 |
 | 10 | [1256496](../reports/1256496.md) | HTML injection in email content during registration via FirstName | [MTN Group](../by-program/mtn_group.md) | Medium | — | 16 |
-| 11 | [2299529](../reports/2299529.md) | HTML Injection on TikTok Ads | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.1 | — | 152 |
-| 12 | [1844830](../reports/1844830.md) | HTML INJECTION on coins.state.gov | [U.S. Department of State](../by-program/us-department-of-state.md) | Low | — | 16 |
-| 13 | [1440161](../reports/1440161.md) | Improper Neutralization of Script-Related HTML Tags in a Web Page | [8x8](../by-program/8x8-bounty.md) | Low | — | 13 |
-| 14 | [1252155](../reports/1252155.md) | HTML INJECTION  (STORED) | [Judge.me ](../by-program/judgeme.md) | None | — | 5 |
+| 11 | [2061049](../reports/2061049.md) | Html injection | [Mars](../by-program/mars.md) | Medium — CVSS 4.3 | — | 11 |
+| 12 | [2299529](../reports/2299529.md) | HTML Injection on TikTok Ads | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.1 | — | 152 |
+| 13 | [1844830](../reports/1844830.md) | HTML INJECTION on coins.state.gov | [U.S. Department of State](../by-program/us-department-of-state.md) | Low | — | 16 |
+| 14 | [1440161](../reports/1440161.md) | Improper Neutralization of Script-Related HTML Tags in a Web Page | [8x8](../by-program/8x8-bounty.md) | Low | — | 13 |
+| 15 | [1252155](../reports/1252155.md) | HTML INJECTION  (STORED) | [Judge.me ](../by-program/judgeme.md) | None | — | 5 |

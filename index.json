@@ -158671,6 +158671,24 @@
     "votes": 20
   },
   {
+    "id": 2061049,
+    "url": "https://hackerone.com/reports/2061049",
+    "title": "Html injection",
+    "program": "Mars",
+    "program_handle": "mars",
+    "reporter": "ped_baq",
+    "severity": "medium",
+    "cvss": 4.3,
+    "weakness": "Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS)",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "WILDCARD",
+    "reported_at": "2023-07-10",
+    "disclosed_at": "2023-08-30",
+    "votes": 11
+  },
+  {
     "id": 2061367,
     "url": "https://hackerone.com/reports/2061367",
     "title": "Triager/Team members can edit  hacker's report and hacker is not even notified",
@@ -180164,6 +180182,24 @@
     "reported_at": "2026-04-25",
     "disclosed_at": "2026-04-29",
     "votes": 23
+  },
+  {
+    "id": 3696266,
+    "url": "https://hackerone.com/reports/3696266",
+    "title": "Path Traversal in Nextcloud Talk Android Exposes User Credentials and Private Data via FileProvider",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "mirachael",
+    "severity": "medium",
+    "cvss": 4.5,
+    "weakness": "Path Traversal",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "GOOGLE_PLAY_APP_ID",
+    "reported_at": "2026-04-26",
+    "disclosed_at": "2026-08-24",
+    "votes": 0
   },
   {
     "id": 3697491,

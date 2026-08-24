@@ -9824,6 +9824,7 @@ https://hackerone.com/reports/3693295 | iOS Brave Playlist "Open in Private Tab"
 https://hackerone.com/reports/3693636 | wallet-rpc crash via malformed /gettransactions response (empty txs → vector::front() in check_tx_key / check_tx_proof)
 https://hackerone.com/reports/3694007 | Authenticated Elasticsearch Painless script execution via Query.search.sort_query on hackerone.com/graphql
 https://hackerone.com/reports/3694390 | CVE-2026-7009: OCSP stapling bypass with Apple SecTrust
+https://hackerone.com/reports/3696266 | Path Traversal in Nextcloud Talk Android Exposes User Credentials and Private Data via FileProvider
 https://hackerone.com/reports/3697491 | Missing HMAC validation on /uninstall webhook in Shopify/sample-django-app reference template
 https://hackerone.com/reports/3697719 | CVE-2026-7168: cross-proxy Digest auth state leak
 https://hackerone.com/reports/3698862 | `check_reserve_proof` sums RingCT ECDH amounts without checking the output commitment
