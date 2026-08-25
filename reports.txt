@@ -8686,6 +8686,7 @@ https://hackerone.com/reports/2071556 | [CVE-2023-27539] Possible Denial of Serv
 https://hackerone.com/reports/2071561 | CVE-2023-36617: ReDoS vulnerability in URI (Ruby)
 https://hackerone.com/reports/2072306 | Blind Sql Injection in https://████████/
 https://hackerone.com/reports/2073717 | SqlInject at ██████
+https://hackerone.com/reports/2073950 | IDOR in one subdomain of █████████ -> change information of pets without athorization!
 https://hackerone.com/reports/2076019 | HTML injection at Company Name or Product Name and can be shown on Contact Sales form
 https://hackerone.com/reports/2078490 | Stored xss at https://█.8x8.com/api/█/ID
 https://hackerone.com/reports/2078571 | [curl] CVE-2023-32001: fopen race condition
