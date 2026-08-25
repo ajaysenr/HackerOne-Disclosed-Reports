@@ -9853,6 +9853,7 @@ https://hackerone.com/reports/3723248 | HTTP Request Smuggling via Connection: c
 https://hackerone.com/reports/3723315 | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wallet pre-sign review shows wrong ring member
 https://hackerone.com/reports/3723458 | 1-Click Account Takeover via Open Redirect through Regex Bypass in Domain Validation
 https://hackerone.com/reports/3725659 | Kerberos/SPNEGO Connection Reuse Vulnerability
+https://hackerone.com/reports/3727743 | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-markdown>` marker tag
 https://hackerone.com/reports/3733905 | CVE-2026-8924: trailing dot domain super cookie
 https://hackerone.com/reports/3733910 | CVE-2026-8932: incomplete mTLS config matching in conn reuse
 https://hackerone.com/reports/3733934 | CURLOPT_HSTS_CTRL disables shared HSTS without share guard — use-after-free and double-free
@@ -9900,6 +9901,7 @@ https://hackerone.com/reports/3761342 | Permission Model: --allow-fs-read/--allo
 https://hackerone.com/reports/3761647 | TLS conn reuse and session cache ignore fsslctx callback and ssl_config_data flags ( incomplete fix variant of 7541ae569 )
 https://hackerone.com/reports/3761789 | Mentioned unites are at the same time .Then we have to increase the bounty.
 https://hackerone.com/reports/3764217 | Any installed app can force immediate logout and persistent DOS of authenticated Basecamp sessions via unprotected exported StartActivity
+https://hackerone.com/reports/3765476 | Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ████████
 https://hackerone.com/reports/3766065 | CURLOPT_COOKIE leaked to cross-origin redirect target — CURLOPT_UNRESTRICTED_AUTH bypass for the STRING_COOKIE path
 https://hackerone.com/reports/3766392 | curl External-Controlled Filename in `--url @file` Leads to Arbitrary File Overwrite
 https://hackerone.com/reports/3766455 | Yelp for Business: locked Email field silently editable via API
@@ -9926,6 +9928,7 @@ https://hackerone.com/reports/3781305 | OpenSSL TLS 1.2 session resumption accep
 https://hackerone.com/reports/3781311 | Stored XSS in maintenance tools via unescaped entity names
 https://hackerone.com/reports/3781492 | PHP code injection in delivery-limitation `logical` validation bypass - XML-RPC setChannelTargeting
 https://hackerone.com/reports/3781691 | CSRF in zone‑include.php allows unauthorized banner and campaign linking
+https://hackerone.com/reports/3781785 | Reflected HTML Injection in ████████ Login Page via infotext/signintext Parameters
 https://hackerone.com/reports/3782701 | Unauthenticated RCE in Taskcluster web-server via GraphQL filter argument (sift $where)
 https://hackerone.com/reports/3783438 | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop
 https://hackerone.com/reports/3783738 | XML‑RPC login leak exposes valid session ID enabling unauthorized API access
@@ -9949,6 +9952,7 @@ https://hackerone.com/reports/3802645 | verify-release rebuilds from the tarball
 https://hackerone.com/reports/3803415 | Secure cookies leaked to HTTP origins through HTTPS forwarding proxy
 https://hackerone.com/reports/3804525 | Vulnerability Report: Buffer Overflow in Path Sanitization
 https://hackerone.com/reports/3809407 | AWS *.a2z.com | Unauthenticated Clickhouse UI : Database access + SSRF
+https://hackerone.com/reports/3809973 | Error-Based SQL Injection in ████████.com Login/Password Reset (username parameter)
 https://hackerone.com/reports/3812439 | HTTPS Agent TLS session reuse skips hostname verification across identity policies (incomplete fix of CVE-2026-48934)
 https://hackerone.com/reports/3813932 | [Splatoon 3] Kick other players with NplnLogin message
 https://hackerone.com/reports/3815767 | Permission Model bypass: process.report writes (and overwrites) files outside --allow-fs-write paths
@@ -9962,14 +9966,18 @@ https://hackerone.com/reports/3826199 | mbedTLS / wolfSSL / rustls backends sile
 https://hackerone.com/reports/3826843 | ssh_config_matches is dead code: unauthorized SSH key reuse
 https://hackerone.com/reports/3827674 | Authentication Bypass via XML Signature Wrapping in SAML SSO
 https://hackerone.com/reports/3829030 | Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption
+https://hackerone.com/reports/3830771 | Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` parameter
 https://hackerone.com/reports/3831345 | CURLSHOPT_UNSHARE race can cause UAF in shared SSL session cache during HTTPS transfer
 https://hackerone.com/reports/3831432 | setopt(VERIFYPEER) from callback bypasses TLS verify on connection reuse
 https://hackerone.com/reports/3832393 | libcurl upload read callbacks miss recursive API guard, allowing prohibited multi API reentry and ASAN-confirmed UAF
 https://hackerone.com/reports/3833577 | heap-use-after-free in curl_easy_cleanup() called from callback
 https://hackerone.com/reports/3837634 | JaaS SIP Gateway Authorization Bypass
 https://hackerone.com/reports/3838601 | Permission Model Bypass: `trace_events.createTracing().enable()` Writes Trace Logs Outside `--allow-fs-write`
+https://hackerone.com/reports/3839889 | 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory
+https://hackerone.com/reports/3839914 | Unauthenticated Plugin Settings Modification on Three Crocoblock/Jet Plugins
 https://hackerone.com/reports/3852135 | DDP methods getThreadsList / getThreadMessages leaks private thread content to any authenticated low privilege user (unpatched sibling of #1446767)
 https://hackerone.com/reports/3872858 | Stored HTML Injection (CWE-79) via Livechat Visitor Name
+https://hackerone.com/reports/3873072 | Unauthenticated SQL Injection via REST Batch Route Confusion ████████
 https://hackerone.com/reports/3878586 | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, hide_from_lists) and uses frozen visibility, exposing donat
 https://hackerone.com/reports/3911605 | SMTP CRLF injection in custom SMTP recipient operand allows additional SMTP commands after authentication
 https://hackerone.com/reports/3911968 | Heap use-after-free (write) in mev_forget_socket() via reentrant curl_easy_pause() — incomplete fix for CVE-2026-9080
@@ -9980,3 +9988,5 @@ https://hackerone.com/reports/3930957 | Myndr CORS Misconfiguration
 https://hackerone.com/reports/3938185 | Windows SSPI connection-pool probe can reuse a connection under the wrong user
 https://hackerone.com/reports/3938220 | libcurl cache updates follow symlinks and truncate their targets
 https://hackerone.com/reports/3952619 | Domainless COOKIEFILE cookie leaks to unrelated IP-literal hosts
+https://hackerone.com/reports/3963494 | RTSP CRLF injection in libcurl allows CURLOPT_RTSP_* values to inject commands into independent sessions
+https://hackerone.com/reports/3963725 | wolfSSL backend disables hostname verification when CURLOPT_SSL_VERIFYPEER is 0

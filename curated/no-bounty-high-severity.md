@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1763 total)
+# High/Critical Severity — No Bounty Paid (1768 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -500,6 +500,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [228825](../reports/228825.md) | (Authenticated) RCE by bypassing of the .htaccess blacklist | [Nextcloud](../by-program/nextcloud.md) | Critical — CVSS 9.0 | Resolved | 7 |
 | [510888](../reports/510888.md) | [CVE-2018-18313] regcomp: heap-buffer-overflow read in S_grok_bsl | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.1 | Resolved | 7 |
 | [632721](../reports/632721.md) | Root Remote Code Execution on https://███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 7 |
+| [3873072](../reports/3873072.md) | Unauthenticated SQL Injection via REST Batch Route Confusion ████ | [Essity](../by-program/essity.md) | Critical — CVSS 9.3 | Resolved | 7 |
 | [963921](../reports/963921.md) | Information Disclosure through DEBUG at Subscription [https://app | [Dropcontact](../by-program/dropcontact.md) | Critical | Resolved | 7 |
 | [1150573](../reports/1150573.md) | ████████ portal is open to enumeration once authenticated.  Sessi | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 7 |
 | [846184](../reports/846184.md) | Blind SSRF at https://chat.makerdao.com/account/profile | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | Critical — CVSS 9.8 | Informative | 7 |
@@ -523,6 +524,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [894623](../reports/894623.md) | @shakedko H1-2006 CTF writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 6 |
 | [703138](../reports/703138.md) | [yarn] yarn.lock integrity & hash check logic is broken | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.6 | Resolved | 6 |
 | [3307874](../reports/3307874.md) | Critical Deadlock Vulnerability in Monero RPC Leading to Complete | [Monero](../by-program/monero.md) | Critical — CVSS 10.0 | Resolved | 6 |
+| [3809973](../reports/3809973.md) | Error-Based SQL Injection in ████████.com Login/Password Reset (u | [Essity](../by-program/essity.md) | Critical | Resolved | 6 |
 | [1119228](../reports/1119228.md) | CVE-2021-26855 on ████████ resulting in SSRF | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 5 |
 | [319467](../reports/319467.md) | `macaddress` concatenates unsanitized input into exec() command | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | Resolved | 5 |
 | [381185](../reports/381185.md) | Prototype pollution attack (extend) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.3 | Resolved | 5 |
@@ -1608,6 +1610,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [183231](../reports/183231.md) | SIGSEGV on mruby mrb_str_modify() (Invalid memory access) | [shopify-scripts](../by-program/shopify-scripts.md) | High | Resolved | 5 |
 | [1952978](../reports/1952978.md) | Filesystem experimental permissions policy does not handle path t | [Node.js](../by-program/nodejs.md) | High — CVSS 7.7 | Resolved | 5 |
 | [3693636](../reports/3693636.md) | wallet-rpc crash via malformed /gettransactions response (empty t | [Monero](../by-program/monero.md) | High — CVSS 7.5 | Resolved | 5 |
+| [3765476](../reports/3765476.md) | Unauthenticated File Upload with CORS Wildcard and No Rate Limiti | [Essity](../by-program/essity.md) | High — CVSS 7.8 | Resolved | 5 |
 | [736522](../reports/736522.md) | [authmagic-timerange-stateless-core] Improper Authentication | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | Resolved | 4 |
 | [3638909](../reports/3638909.md) | GitHub scoped user to server tokens can escape their installation | [GitHub](../by-program/github.md) | High | Resolved | 4 |
 | [3684614](../reports/3684614.md) | Heap-buffer-overflow in `Curl_ssl_push_certinfo_len()` — sole bou | [curl](../by-program/curl.md) | High | Not Applicable | 4 |
@@ -1670,6 +1673,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1664244](../reports/1664244.md) | fix(security):Path Traversal Bug | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | High | Not Applicable | 3 |
 | [179121](../reports/179121.md) | Information disclosure of website | [Brave Software](../by-program/brave.md) | High | Informative | 3 |
 | [677557](../reports/677557.md) | mod_http2, memory corruption on early pushes (CVE-2019-10081) | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.6 | Resolved | 3 |
+| [3830771](../reports/3830771.md) | Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ██████ | [Essity](../by-program/essity.md) | High | Resolved | 3 |
 | [745171](../reports/745171.md) | Unprotected ██████ and Test site API Exposes Documents, Credentia | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 3 |
 | [202960](../reports/202960.md) | CVE-2017-5204: The IPv6 parser in tcpdump before 4.9.0 has a buff | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | Resolved | 3 |
 | [341074](../reports/341074.md) | Bruteforce in admin panel | [Nextcloud](../by-program/nextcloud.md) | High | Resolved | 3 |
@@ -1679,6 +1683,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [120941](../reports/120941.md) | NexTable: Credentials exposure | [Eternal](../by-program/eternal.md) | High — CVSS 8.5 | Resolved | 3 |
 | [1047086](../reports/1047086.md) | Heap buffer overflow vulnerability while processing a malformed T | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.6 | Resolved | 3 |
 | [381771](../reports/381771.md) | ████████ SQL | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 3 |
+| [3781785](../reports/3781785.md) | Reflected HTML Injection in ████████ Login Page via infotext/sign | [Essity](../by-program/essity.md) | High | Resolved | 3 |
 | [217381](../reports/217381.md) | doc.owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploi | [ownCloud](../by-program/owncloud.md) | High | Resolved | 3 |
 | [45050](../reports/45050.md) | [community.informatica.com] - CSRF in Private Messages allows to  | [Informatica](../by-program/informatica.md) | High | Resolved | 3 |
 | [140793](../reports/140793.md) | UniFi Video v3.2.2 (Windows) Local Privileges Escalation due to w | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 7.8 | Resolved | 3 |

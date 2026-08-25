@@ -1,4 +1,4 @@
-# Weakness: Improper Input Validation (54 reports)
+# Weakness: Improper Input Validation (55 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -35,26 +35,27 @@
 | 29 | [840688](../reports/840688.md) | Send Phishing/Spam email from support@sameroom.io to any email ad | [8x8](../by-program/8x8-bounty.md) | High | — | 9 |
 | 30 | [2864414](../reports/2864414.md) | Arbitrary File Deletion Vulnerability in curl Source Code via os. | [curl](../by-program/curl.md) | High | — | 8 |
 | 31 | [1223565](../reports/1223565.md) | CVE-2021-22924: Bad connection reuse due to flawed path name chec | [curl](../by-program/curl.md) | High — CVSS 7.1 | — | 5 |
-| 32 | [3168691](../reports/3168691.md) | Residual Malicious Payloads on HackerOne after Vulnerability Fixe | [HackerOne](../by-program/security.md) | Medium — CVSS 4.3 | — | 60 |
-| 33 | [887462](../reports/887462.md) | CVE-2020-8177: curl overwrite local file with -J | [curl](../by-program/curl.md) | Medium — CVSS 4.7 | — | 55 |
-| 34 | [679969](../reports/679969.md) | CSS Injection to disable app & potential message exfil | [Slack](../by-program/slack.md) | Medium — CVSS 4.3 | — | 37 |
-| 35 | [1237700](../reports/1237700.md) | Improper input validation in projects leads to fully deny access  | [Semrush](../by-program/semrush.md) | Medium | — | 35 |
-| 36 | [1446090](../reports/1446090.md) | Add more seats by paying less via PUT /v2/seats request manipulat | [Krisp](../by-program/krisp.md) | Medium — CVSS 5.0 | — | 30 |
-| 37 | [1639364](../reports/1639364.md) | Local File Inclusion in download.php | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 25 |
-| 38 | [3702718](../reports/3702718.md) | MQTT state machine confusion: PINGRESP/DISCONNECT with non-zero r | [curl](../by-program/curl.md) | Medium | — | 20 |
-| 39 | [1565619](../reports/1565619.md) | CVE-2022-27780: percent-encoded path separator in URL host | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 8 |
-| 40 | [1064149](../reports/1064149.md) | Improper Input Validation on User's Location on PUT /WhoService/p | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | Medium — CVSS 4.6 | — | 8 |
-| 41 | [1165223](../reports/1165223.md) | Missing captcha and rate limit protection in help form  | [MTN Group](../by-program/mtn_group.md) | Medium | — | 3 |
-| 42 | [3175695](../reports/3175695.md) | Bypass "No Links" Restriction in Biography via Protocol-Relative  | [Mozilla](../by-program/mozilla.md) | Low | — | 95 |
-| 43 | [2215418](../reports/2215418.md) | Html injection in event Description  | [LinkedIn](../by-program/linkedin.md) | Low — CVSS 3.1 | — | 53 |
-| 44 | [1166073](../reports/1166073.md) | Hyper Link Injection while signup  | [UPchieve](../by-program/upchieve.md) | Low | — | 19 |
-| 45 | [3641893](../reports/3641893.md) | Cookie attribute TAB injection regression in Set-Cookie parsing | [curl](../by-program/curl.md) | Low | — | 18 |
-| 46 | [1610316](../reports/1610316.md) | Improper user validation on mentions and hashtags | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.5 | — | 15 |
-| 47 | [838647](../reports/838647.md) | Improper Input Validation on User's Location on PUT /WhoService/p | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | Low | — | 15 |
-| 48 | [3509396](../reports/3509396.md) | IMAP Protocol Desynchronization and Response Smuggling via Naive  | [curl](../by-program/curl.md) | Low | — | 14 |
-| 49 | [1613943](../reports/1613943.md) | CVE-2022-35252: control code in cookie denial of service | [curl](../by-program/curl.md) | Low | — | 13 |
-| 50 | [385239](../reports/385239.md) | Add non-existent room moderator | [Chaturbate](../by-program/chaturbate.md) | Low | — | 11 |
-| 51 | [1686935](../reports/1686935.md) | CVE-2022-35252: control code in cookie denial of service | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 8 |
-| 52 | [423437](../reports/423437.md) | H1514 Shopify API ruby SDK session setup lacks input validation,  | [Shopify](../by-program/shopify.md) | None | — | 11 |
-| 53 | [726117](../reports/726117.md) | SMB access smuggling via FILE URL on Windows | [curl](../by-program/curl.md) | None | — | 10 |
-| 54 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | [curl](../by-program/curl.md) | None | — | 1 |
+| 32 | [3781785](../reports/3781785.md) | Reflected HTML Injection in ████████ Login Page via infotext/sign | [Essity](../by-program/essity.md) | High | — | 3 |
+| 33 | [3168691](../reports/3168691.md) | Residual Malicious Payloads on HackerOne after Vulnerability Fixe | [HackerOne](../by-program/security.md) | Medium — CVSS 4.3 | — | 60 |
+| 34 | [887462](../reports/887462.md) | CVE-2020-8177: curl overwrite local file with -J | [curl](../by-program/curl.md) | Medium — CVSS 4.7 | — | 55 |
+| 35 | [679969](../reports/679969.md) | CSS Injection to disable app & potential message exfil | [Slack](../by-program/slack.md) | Medium — CVSS 4.3 | — | 37 |
+| 36 | [1237700](../reports/1237700.md) | Improper input validation in projects leads to fully deny access  | [Semrush](../by-program/semrush.md) | Medium | — | 35 |
+| 37 | [1446090](../reports/1446090.md) | Add more seats by paying less via PUT /v2/seats request manipulat | [Krisp](../by-program/krisp.md) | Medium — CVSS 5.0 | — | 30 |
+| 38 | [1639364](../reports/1639364.md) | Local File Inclusion in download.php | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 25 |
+| 39 | [3702718](../reports/3702718.md) | MQTT state machine confusion: PINGRESP/DISCONNECT with non-zero r | [curl](../by-program/curl.md) | Medium | — | 20 |
+| 40 | [1565619](../reports/1565619.md) | CVE-2022-27780: percent-encoded path separator in URL host | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 8 |
+| 41 | [1064149](../reports/1064149.md) | Improper Input Validation on User's Location on PUT /WhoService/p | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | Medium — CVSS 4.6 | — | 8 |
+| 42 | [1165223](../reports/1165223.md) | Missing captcha and rate limit protection in help form  | [MTN Group](../by-program/mtn_group.md) | Medium | — | 3 |
+| 43 | [3175695](../reports/3175695.md) | Bypass "No Links" Restriction in Biography via Protocol-Relative  | [Mozilla](../by-program/mozilla.md) | Low | — | 95 |
+| 44 | [2215418](../reports/2215418.md) | Html injection in event Description  | [LinkedIn](../by-program/linkedin.md) | Low — CVSS 3.1 | — | 53 |
+| 45 | [1166073](../reports/1166073.md) | Hyper Link Injection while signup  | [UPchieve](../by-program/upchieve.md) | Low | — | 19 |
+| 46 | [3641893](../reports/3641893.md) | Cookie attribute TAB injection regression in Set-Cookie parsing | [curl](../by-program/curl.md) | Low | — | 18 |
+| 47 | [1610316](../reports/1610316.md) | Improper user validation on mentions and hashtags | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.5 | — | 15 |
+| 48 | [838647](../reports/838647.md) | Improper Input Validation on User's Location on PUT /WhoService/p | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | Low | — | 15 |
+| 49 | [3509396](../reports/3509396.md) | IMAP Protocol Desynchronization and Response Smuggling via Naive  | [curl](../by-program/curl.md) | Low | — | 14 |
+| 50 | [1613943](../reports/1613943.md) | CVE-2022-35252: control code in cookie denial of service | [curl](../by-program/curl.md) | Low | — | 13 |
+| 51 | [385239](../reports/385239.md) | Add non-existent room moderator | [Chaturbate](../by-program/chaturbate.md) | Low | — | 11 |
+| 52 | [1686935](../reports/1686935.md) | CVE-2022-35252: control code in cookie denial of service | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 8 |
+| 53 | [423437](../reports/423437.md) | H1514 Shopify API ruby SDK session setup lacks input validation,  | [Shopify](../by-program/shopify.md) | None | — | 11 |
+| 54 | [726117](../reports/726117.md) | SMB access smuggling via FILE URL on Windows | [curl](../by-program/curl.md) | None | — | 10 |
+| 55 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | [curl](../by-program/curl.md) | None | — | 1 |
