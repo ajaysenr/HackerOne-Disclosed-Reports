@@ -8688,10 +8688,14 @@ https://hackerone.com/reports/2072306 | Blind Sql Injection in https://███
 https://hackerone.com/reports/2073717 | SqlInject at ██████
 https://hackerone.com/reports/2073950 | IDOR in one subdomain of █████████ -> change information of pets without athorization!
 https://hackerone.com/reports/2076019 | HTML injection at Company Name or Product Name and can be shown on Contact Sales form
+https://hackerone.com/reports/2076786 | Host Header Injection - internal.qa.delivery.indrive.com
+https://hackerone.com/reports/2077985 | Lack of sanitization of the billing address in pdf invoice
 https://hackerone.com/reports/2078490 | Stored xss at https://█.8x8.com/api/█/ID
+https://hackerone.com/reports/2078527 | Bypassing Garbage Collection with Uppercase Endpoint
 https://hackerone.com/reports/2078571 | [curl] CVE-2023-32001: fopen race condition
 https://hackerone.com/reports/2078581 | CVE-2023-30587 Process-based permissions can be bypassed with the "inspector" module.
 https://hackerone.com/reports/2078707 | Exposing Django Debug Panel and Sensitive Infrastructure Information at https://dev.fxprivaterelay.nonprod.cloudops.mozgcp.net
+https://hackerone.com/reports/2079103 | Permission model improperly processes UNC paths
 https://hackerone.com/reports/2079502 | Unauthorized Ticket can be created by an Attacker in user's Helpdesk account
 https://hackerone.com/reports/2081316 | Blind Sql Injection in https://█████/qsSearch.aspx
 https://hackerone.com/reports/2081744 | Deny Admin from Editing LinkedIn Company Page using Gen Form Visibility via POST /voyager/api/voyagerOrganizationDashCompanies/{id}
