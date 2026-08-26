@@ -1,4 +1,4 @@
-# inDrive — Disclosed Reports (16 total)
+# inDrive — Disclosed Reports (18 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -20,3 +20,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 14 | [1969696](../reports/1969696.md) | XSS on terra-6.indriverapp.com | Medium | — | 42 | [maxdha](https://hackerone.com/maxdha) | 2024-01-29 |
 | 15 | [2014955](../reports/2014955.md) | #1 XSS on watchdocs.indriverapp.com | Low | — | 144 | [maxdha](https://hackerone.com/maxdha) | 2024-04-11 |
 | 16 | [2028265](../reports/2028265.md) | #3 XSS on watchdocs.indriverapp.com | Low | — | 67 | [maxdha](https://hackerone.com/maxdha) | 2024-04-11 |
+| 17 | [2076786](../reports/2076786.md) | Host Header Injection - internal.qa.delivery.indrive.com | Low | — | 66 | [sid_x95](https://hackerone.com/sid_x95) | 2024-02-12 |
+| 18 | [2078527](../reports/2078527.md) | Bypassing Garbage Collection with Uppercase Endpoint | None | — | 41 | [h1xploit](https://hackerone.com/h1xploit) | 2023-10-04 |

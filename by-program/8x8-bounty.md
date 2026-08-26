@@ -1,4 +1,4 @@
-# 8x8 — Disclosed Reports (62 total)
+# 8x8 — Disclosed Reports (63 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -60,9 +60,10 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 54 | [790846](../reports/790846.md) | Directory Listing vulnerability on █.packet8.net/php/include | Low | — | 14 | [rajauzairabdullah](https://hackerone.com/rajauzairabdullah) | 2022-09-28 |
 | 55 | [1440161](../reports/1440161.md) | Improper Neutralization of Script-Related HTML Tags in a Web | Low | — | 13 | [n1had](https://hackerone.com/n1had) | 2022-01-05 |
 | 56 | [1877185](../reports/1877185.md) | connect.8x8.com: Too much resource consumption of the server | Low | — | 12 | [exhandler](https://hackerone.com/exhandler) | 2023-06-26 |
-| 57 | [1132457](../reports/1132457.md) | Exposed PHP dependencies at ██.8x8.com | Low | — | 10 | [ian](https://hackerone.com/ian) | 2021-10-27 |
-| 58 | [1354066](../reports/1354066.md) | Dangling DNS Record docs.jitsi.net (unsuccessful GSuite take | Low | — | 9 | [bababounty99](https://hackerone.com/bababounty99) | 2023-04-03 |
-| 59 | [1467046](../reports/1467046.md) | Open Redirect on https://██.8x8.com/login?nextPage=%2F | Low | — | 8 | [0x7v](https://hackerone.com/0x7v) | 2022-03-10 |
-| 60 | [907701](../reports/907701.md) | PHPinfo page on  http://█████.callstats.io | Low | — | 6 | [manantch](https://hackerone.com/manantch) | 2020-07-02 |
-| 61 | [879960](../reports/879960.md) | IDOR: Adding Contacts to Other User Groups | Low | — | 6 | [ameyanekar](https://hackerone.com/ameyanekar) | 2020-07-27 |
-| 62 | [929633](../reports/929633.md) | Open Redirect on [blog.wavecell.com] | Low | — | 1 | [melbadry9](https://hackerone.com/melbadry9) | 2020-10-26 |
+| 57 | [3889473](../reports/3889473.md) | @jitsi/docker-jitsi-meet: `/colibri-relay-ws/` unsafe nginx  | Low | — | 12 | [a3z4km3](https://hackerone.com/a3z4km3) | 2026-08-25 |
+| 58 | [1132457](../reports/1132457.md) | Exposed PHP dependencies at ██.8x8.com | Low | — | 10 | [ian](https://hackerone.com/ian) | 2021-10-27 |
+| 59 | [1354066](../reports/1354066.md) | Dangling DNS Record docs.jitsi.net (unsuccessful GSuite take | Low | — | 9 | [bababounty99](https://hackerone.com/bababounty99) | 2023-04-03 |
+| 60 | [1467046](../reports/1467046.md) | Open Redirect on https://██.8x8.com/login?nextPage=%2F | Low | — | 8 | [0x7v](https://hackerone.com/0x7v) | 2022-03-10 |
+| 61 | [907701](../reports/907701.md) | PHPinfo page on  http://█████.callstats.io | Low | — | 6 | [manantch](https://hackerone.com/manantch) | 2020-07-02 |
+| 62 | [879960](../reports/879960.md) | IDOR: Adding Contacts to Other User Groups | Low | — | 6 | [ameyanekar](https://hackerone.com/ameyanekar) | 2020-07-27 |
+| 63 | [929633](../reports/929633.md) | Open Redirect on [blog.wavecell.com] | Low | — | 1 | [melbadry9](https://hackerone.com/melbadry9) | 2020-10-26 |

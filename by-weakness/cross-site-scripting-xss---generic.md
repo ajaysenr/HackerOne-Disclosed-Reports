@@ -1,4 +1,4 @@
-# Weakness: Cross-site Scripting (XSS) - Generic (635 reports)
+# Weakness: Cross-site Scripting (XSS) - Generic (636 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -275,367 +275,368 @@
 | 269 | [474262](../reports/474262.md) | XSS due to incomplete JS escaping | [Ruby on Rails](../by-program/rails.md) | Low | — | 13 |
 | 270 | [196624](../reports/196624.md) | dom xss in https://www.slackatwork.com | [Slack](../by-program/slack.md) | Low | — | 12 |
 | 271 | [1091118](../reports/1091118.md) | Blind XSS | [Rocket.Chat](../by-program/rocket_chat.md) | Low | — | 12 |
-| 272 | [184042](../reports/184042.md) | Reflected cross-site scripting vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 11 |
-| 273 | [388527](../reports/388527.md) | Self xss | [Nextcloud](../by-program/nextcloud.md) | Low | — | 11 |
-| 274 | [183871](../reports/183871.md) | Reflected XSS on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 9 |
-| 275 | [186554](../reports/186554.md) | Stored XSS in Adress Book (starbucks.com/account/profile) | [Starbucks](../by-program/starbucks.md) | Low | — | 9 |
-| 276 | [184759](../reports/184759.md) | XSS on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 8 |
-| 277 | [188691](../reports/188691.md) | Reflected XSS in a Navy website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 8 |
-| 278 | [224556](../reports/224556.md) | Self-XSS in WordPress Editor Link Modal | [WordPress](../by-program/wordpress.md) | Low | — | 8 |
-| 279 | [184750](../reports/184750.md) | Reflected XSS on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 8 |
-| 280 | [456702](../reports/456702.md) | [atlasboard-atlassian-package] Cross-site Scripting (XSS) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low | — | 8 |
-| 281 | [183835](../reports/183835.md) | Reflected XSS vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 7 |
-| 282 | [191902](../reports/191902.md) | HTML injection vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 6 |
-| 283 | [1108420](../reports/1108420.md) | HTML Injection on "polls" app - comments section (possibly XSS) | [Nextcloud](../by-program/nextcloud.md) | Low | — | 6 |
-| 284 | [225777](../reports/225777.md) | DOMPurify 0.8.9 released | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.1 | — | 6 |
-| 285 | [206877](../reports/206877.md) | HTML injection in Desktop Client | [ownCloud](../by-program/owncloud.md) | Low — CVSS 3.5 | — | 5 |
-| 286 | [1694171](../reports/1694171.md) | Multiple cross-site scripting (XSS) vulnerabilities in Revive Ads | [Revive Adserver](../by-program/revive_adserver.md) | Low | — | 5 |
-| 287 | [187822](../reports/187822.md) | Reflected XSS vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 5 |
-| 288 | [191381](../reports/191381.md) | Reflected cross-site scripting (XSS) vulnerability on a DoD websi | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 5 |
-| 289 | [183854](../reports/183854.md) | Reflective XSS vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
-| 290 | [184575](../reports/184575.md) | Cross-site scripting vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
-| 291 | [194294](../reports/194294.md) | Reflected XSS on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
-| 292 | [184125](../reports/184125.md) | Reflected XSS vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
-| 293 | [189241](../reports/189241.md) | Reflected XSS on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
-| 294 | [186315](../reports/186315.md) | Cross-site scripting (XSS) vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
-| 295 | [190427](../reports/190427.md) | Reflected XSS on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
-| 296 | [184901](../reports/184901.md) | Stored cross site scripting (XSS) vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
-| 297 | [187232](../reports/187232.md) | Arbitrary Script Injection (Mail) in a DoD Website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
-| 298 | [198259](../reports/198259.md) | Reflected XSS vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 3 |
-| 299 | [307681](../reports/307681.md) | Cross-Domain JavaScript Source File Inclusion  | [RubyGems](../by-program/rubygems.md) | Low | — | 3 |
-| 300 | [191416](../reports/191416.md) | DOM Based XSS on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 3 |
-| 301 | [190205](../reports/190205.md) | Reflected XSS on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 3 |
-| 302 | [298218](../reports/298218.md) | antispambot does not always escape <, >, &, " and ' | [WordPress](../by-program/wordpress.md) | Low | — | 3 |
-| 303 | [223692](../reports/223692.md) | Self XSS at translation page through Editor Link at demo.weblate. | [Weblate](../by-program/weblate.md) | Low | — | 3 |
-| 304 | [192751](../reports/192751.md) | XSS vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 3 |
-| 305 | [453795](../reports/453795.md) | [harp] Unsafe rendering of Markdown files | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 3.3 | — | 2 |
-| 306 | [223723](../reports/223723.md) | weblate.org: X-XSS-Protection not enabled | [Weblate](../by-program/weblate.md) | Low | — | 2 |
-| 307 | [208556](../reports/208556.md) | Cross-site scripting (XSS) vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 1 |
-| 308 | [812028](../reports/812028.md) | xss on setup config page  | [Nextcloud](../by-program/nextcloud.md) | Low | — | 1 |
-| 309 | [146336](../reports/146336.md) | XSS vulnerable parameter in a location hash | [Slack](../by-program/slack.md) | None | — | 453 |
-| 310 | [156098](../reports/156098.md) | XSS At "pages.et.uber.com" | [Uber](../by-program/uber.md) | None | — | 259 |
-| 311 | [84601](../reports/84601.md) | XSS and cache poisoning via upload.twitter.com on ton.twitter.com | [X / xAI](../by-program/x.md) | None | — | 198 |
-| 312 | [132104](../reports/132104.md) | Stored XSS on team.slack.com using new Markdown editor of posts i | [Slack](../by-program/slack.md) | None | — | 102 |
-| 313 | [150179](../reports/150179.md) | Html Injection and Possible XSS in sms-be-vip.twitter.com | [X / xAI](../by-program/x.md) | None | — | 83 |
-| 314 | [121461](../reports/121461.md) | Subdomain takeover due to unclaimed Amazon S3 bucket on a2.bime.i | [Bime](../by-program/bime.md) | None | — | 77 |
-| 315 | [134546](../reports/134546.md) | WordPress Flash XSS in *flashmediaelement.swf* | [Automattic](../by-program/automattic.md) | None | — | 69 |
-| 316 | [88719](../reports/88719.md) | Multiple DOMXSS on Amplify Web Player | [X / xAI](../by-program/x.md) | None | — | 66 |
-| 317 | [145278](../reports/145278.md) | xss in https://www.uber.com | [Uber](../by-program/uber.md) | None | — | 64 |
-| 318 | [153666](../reports/153666.md) | csp bypass + xss | [X / xAI](../by-program/x.md) | None | — | 51 |
-| 319 | [119471](../reports/119471.md) | DOMXSS in Tweetdeck | [X / xAI](../by-program/x.md) | None | — | 50 |
-| 320 | [32825](../reports/32825.md) | URGENT - Subdomain Takeover on media.vine.co due to unclaimed dom | [X / xAI](../by-program/x.md) | None | — | 50 |
-| 321 | [149855](../reports/149855.md) | Reflected XSS in m.imgur.com | [Imgur](../by-program/imgur.md) | None | — | 50 |
-| 322 | [150083](../reports/150083.md) | Cross Site Scripting(XSS) on IRCCloud Badges Page (using Paramete | [IRCCloud](../by-program/irccloud.md) | None | — | 48 |
-| 323 | [125849](../reports/125849.md) | XSS found on Snapchat website | [Snapchat](../by-program/snapchat.md) | None | — | 38 |
-| 324 | [1563334](../reports/1563334.md) | One Click XSS in [www.shopify.com] | [Shopify](../by-program/shopify.md) | None | — | 36 |
-| 325 | [140616](../reports/140616.md) | www.starbucks.co.uk Reflected XSS via utm_source parameter | [Starbucks](../by-program/starbucks.md) | None | — | 36 |
-| 326 | [214044](../reports/214044.md) | Stored XSS in [shop].myshopify.com/admin/orders/[id] | [Shopify](../by-program/shopify.md) | None | — | 36 |
-| 327 | [321](../reports/321.md) | CSP not consistently applied | [HackerOne](../by-program/security.md) | None | — | 34 |
-| 328 | [182160](../reports/182160.md) | XSS in IE11 on portswigger.net via Flash | [PortSwigger Web Security](../by-program/portswigger.md) | None | — | 33 |
-| 329 | [38007](../reports/38007.md) | Subdomain Takeover using blog.greenhouse.io pointing to Hubspot | [Greenhouse.io](../by-program/greenhouse.md) | None | — | 33 |
-| 330 | [168458](../reports/168458.md) | Stored XSS in https://productreviews.shopifyapps.com/proxy/v4/rev | [Shopify](../by-program/shopify.md) | None | — | 30 |
-| 331 | [139245](../reports/139245.md) | WordPress core stored XSS via attachment file name | [Automattic](../by-program/automattic.md) | None | — | 25 |
-| 332 | [148741](../reports/148741.md) | Stored Cross-Site-Scripting in CMS Airship's  authors profiles | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 24 |
-| 333 | [145355](../reports/145355.md) | Stored XSS on Share-popup of a directory's Gallery-view | [Nextcloud](../by-program/nextcloud.md) | None | — | 24 |
-| 334 | [97672](../reports/97672.md) | File Upload XSS in image uploading of App in mopub | [X / xAI](../by-program/x.md) | None | — | 23 |
-| 335 | [87040](../reports/87040.md) | XSS on OAuth authorize/authenticate endpoint | [X / xAI](../by-program/x.md) | None | — | 22 |
-| 336 | [264832](../reports/264832.md) | xss filter bypass [polldaddy] | [Automattic](../by-program/automattic.md) | None | — | 21 |
-| 337 | [2058556](../reports/2058556.md) | Self XSS when sending HTML as a comment in the Deck app | [Nextcloud](../by-program/nextcloud.md) | None | — | 20 |
-| 338 | [141463](../reports/141463.md) | Stored XSS via AngularJS Injection | [drchrono](../by-program/drchrono.md) | None | — | 20 |
-| 339 | [87854](../reports/87854.md) | XSS on vimeo.com/home after other user follows you | [Vimeo](../by-program/vimeo.md) | None | — | 19 |
-| 340 | [104917](../reports/104917.md) | Cross-Site Scripting Reflected On Main Domain | [Instacart](../by-program/instacart.md) | None | — | 19 |
-| 341 | [146278](../reports/146278.md) | Log pollution can lead to HTML Injection. | [Nextcloud](../by-program/nextcloud.md) | None | — | 18 |
-| 342 | [143240](../reports/143240.md) | XSS on www.mapbox.com/authorize/ because of open redirect at /cor | [Mapbox](../by-program/mapbox.md) | None | — | 18 |
-| 343 | [157958](../reports/157958.md) | Stored XSS | [Instacart](../by-program/instacart.md) | None | — | 17 |
-| 344 | [91421](../reports/91421.md) | Reflected Flash XSS using swfupload.swf with an epileptic reloadi | [Imgur](../by-program/imgur.md) | None | — | 16 |
-| 345 | [854299](../reports/854299.md) | Self XSS in Timeline  | [Shopify](../by-program/shopify.md) | None | — | 16 |
-| 346 | [105419](../reports/105419.md) | Cookie-Based Injection | [Instacart](../by-program/instacart.md) | None | — | 16 |
-| 347 | [148853](../reports/148853.md) | Stored XSS using  SVG  | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 15 |
-| 348 | [143220](../reports/143220.md) | XSS on www.mapbox.com/authorize | [Mapbox](../by-program/mapbox.md) | None | — | 15 |
-| 349 | [151231](../reports/151231.md) | Content-type sniffing leads to stored XSS in CMS Airship on Inter | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 15 |
-| 350 | [189378](../reports/189378.md) | Unauthenticated Stored XSS on <any>.myshopify.com via checkout pa | [Shopify](../by-program/shopify.md) | None | — | 14 |
-| 351 | [142946](../reports/142946.md) | xss vulnerability in http://ubermovement.com/community/daniel | [Uber](../by-program/uber.md) | None | — | 14 |
-| 352 | [141240](../reports/141240.md) | Angular injection in the profile name of onpatient | [drchrono](../by-program/drchrono.md) | None | — | 14 |
-| 353 | [203241](../reports/203241.md) | Reflected XSS | [Algolia](../by-program/algolia.md) | None | — | 14 |
-| 354 | [136333](../reports/136333.md) | Persistent XSS on public wiki pages | [GitLab](../by-program/gitlab.md) | None | — | 14 |
-| 355 | [168054](../reports/168054.md) | Unauthenticated Stored xss  | [Nextcloud](../by-program/nextcloud.md) | None | — | 14 |
-| 356 | [100829](../reports/100829.md) | Stored-XSS in https://www.coinbase.com/ | [Coinbase](../by-program/coinbase.md) | None | — | 12 |
-| 357 | [151117](../reports/151117.md) | [bbPress] Stored XSS in any forum post. | [Automattic](../by-program/automattic.md) | None | — | 12 |
-| 358 | [148865](../reports/148865.md) | HTML in Diffusion not escaped in certain circumstances | [Phabricator](../by-program/phabricator.md) | None | — | 12 |
-| 359 | [166887](../reports/166887.md) | Unsanitized Location Name in POS Channel can lead to XSS in Order | [Shopify](../by-program/shopify.md) | None | — | 12 |
-| 360 | [197878](../reports/197878.md) | WordPress <= 4.6.1 Stored XSS Via Theme File | [Nextcloud](../by-program/nextcloud.md) | None | — | 12 |
-| 361 | [172574](../reports/172574.md) | Follow Button XSS | [Automattic](../by-program/automattic.md) | None | — | 12 |
-| 362 | [142084](../reports/142084.md) | Stored XSS in unifi.ubnt.com | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 12 |
-| 363 | [152416](../reports/152416.md) | Lazy Load stored XSS | [Automattic](../by-program/automattic.md) | None | — | 12 |
-| 364 | [167075](../reports/167075.md) | XSS in SHOPIFY: Unsanitized Supplier Name  can lead to XSS in Tra | [Shopify](../by-program/shopify.md) | None | — | 12 |
-| 365 | [156373](../reports/156373.md) | Stored xss | [Algolia](../by-program/algolia.md) | None | — | 12 |
-| 366 | [158484](../reports/158484.md) | [scores.ubnt.com] DOM based XSS at form.html | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 11 |
-| 367 | [159984](../reports/159984.md) | XSS On meta tags in profile page | [GitLab](../by-program/gitlab.md) | None | — | 11 |
-| 368 | [130889](../reports/130889.md) | Reflected XSS in scores.ubnt.com | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 11 |
-| 369 | [85488](../reports/85488.md) | Stored XSS on player.vimeo.com | [Vimeo](../by-program/vimeo.md) | None | — | 11 |
-| 370 | [1209098](../reports/1209098.md) |  XSS | [Reddit](../by-program/reddit.md) | None | — | 10 |
-| 371 | [137905](../reports/137905.md) | Reflected XSS on business-blog.zomato.com - Part I | [Eternal](../by-program/eternal.md) | None | — | 10 |
-| 372 | [7887](../reports/7887.md) | XSS in invite approval | [Localize](../by-program/localize.md) | None | — | 10 |
-| 373 | [95089](../reports/95089.md) | Reflected XSS in cart at hardware.shopify.com | [Shopify](../by-program/shopify.md) | None | — | 10 |
-| 374 | [7882](../reports/7882.md) | XSS in main page | [Localize](../by-program/localize.md) | None | — | 10 |
-| 375 | [152958](../reports/152958.md) | Multiple XSS in Camptix Event Ticketing Plugin | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 10 |
-| 376 | [2735](../reports/2735.md) | HTML injection in "Invite Collaborators" | [RelateIQ](../by-program/relateiq.md) | None | — | 9 |
-| 377 | [151678](../reports/151678.md) | Cross Site Scripting | [GoCD](../by-program/gocd.md) | None | — | 9 |
-| 378 | [118024](../reports/118024.md) | Markdown based stored XSS (IE only) | [GitLab](../by-program/gitlab.md) | None | — | 9 |
-| 379 | [145246](../reports/145246.md) | Stored Cross site scripting | [Eternal](../by-program/eternal.md) | None | — | 9 |
-| 380 | [9774](../reports/9774.md) | Stored XSS Found | [Slack](../by-program/slack.md) | None | — | 9 |
-| 381 | [142893](../reports/142893.md) | [STORED XSS] in debtor reports of ,,invoices'' | [Moneybird](../by-program/moneybird.md) | None | — | 9 |
-| 382 | [139981](../reports/139981.md) | XSS onmouseover  | [Eternal](../by-program/eternal.md) | None | — | 9 |
-| 383 | [88508](../reports/88508.md) | XSS when using captions/subtitles on video player based on Flash  | [Vimeo](../by-program/vimeo.md) | None | — | 8 |
-| 384 | [117190](../reports/117190.md) | Reflected XSS on Uber.com careers | [Uber](../by-program/uber.md) | None | — | 8 |
-| 385 | [88105](../reports/88105.md) | XSS on vimeo.com | "Search within these results" feature (require | [Vimeo](../by-program/vimeo.md) | None | — | 8 |
-| 386 | [129736](../reports/129736.md) | Persistent XSS on public project page | [GitLab](../by-program/gitlab.md) | None | — | 8 |
-| 387 | [121941](../reports/121941.md) | Unauthenticated Cross-Site Scripting in Web Management Console | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 8 |
-| 388 | [166709](../reports/166709.md) | Self-XSS via location cookie city field when getting suggestions  | [Yelp](../by-program/yelp.md) | None | — | 8 |
-| 389 | [50389](../reports/50389.md) | Adobe XSS | [Adobe](../by-program/adobe.md) | None | — | 8 |
-| 390 | [4561](../reports/4561.md) | Stored XSS in Slackbot Direct Messages | [Slack](../by-program/slack.md) | None | — | 8 |
-| 391 | [44217](../reports/44217.md) | Application XSS filter function Bypass may allow Multiple stored  | [Vimeo](../by-program/vimeo.md) | None | — | 8 |
-| 392 | [2617](../reports/2617.md) | Stored XSS in www.slack-files.com | [Slack](../by-program/slack.md) | None | — | 8 |
-| 393 | [149287](../reports/149287.md) | Reflected Xss in AirMax [Nanostation Loco M2] | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 8 |
-| 394 | [4826](../reports/4826.md) | XSS in private message | [Concrete CMS](../by-program/concretecms.md) | None | — | 7 |
-| 395 | [156347](../reports/156347.md) | Stored XSS triggered by json key during UI generation | [Algolia](../by-program/algolia.md) | None | — | 7 |
-| 396 | [7886](../reports/7886.md) | XSS in main page (invitation) | [Localize](../by-program/localize.md) | None | — | 7 |
-| 397 | [80298](../reports/80298.md) | Внедрение произвольного javascript-сценария в функционале просмот | [VK.com](../by-program/vkcom.md) | None | — | 7 |
-| 398 | [88088](../reports/88088.md) | XSS on mobile version of vimeo.com where the button "Follow" appe | [Vimeo](../by-program/vimeo.md) | None | — | 7 |
-| 399 | [131038](../reports/131038.md) | Stored XSS in Financial Account executing in Bank tab | [Moneybird](../by-program/moneybird.md) | None | — | 7 |
-| 400 | [57459](../reports/57459.md) | XSS in experts.shopify.com | [Shopify](../by-program/shopify.md) | None | — | 7 |
-| 401 | [9230](../reports/9230.md) | XSS 1 | [StopTheHacker](../by-program/stopthehacker.md) | None | — | 7 |
-| 402 | [4276](../reports/4276.md) | Here is another XSS i got for you | [MoneyStream](../by-program/moneystream.md) | None | — | 7 |
-| 403 | [77904](../reports/77904.md) | cross siite scripting in the blog  | [ok.ru](../by-program/ok.md) | None | — | 7 |
-| 404 | [117449](../reports/117449.md) | XSS in Draft Orders in Timeline i SHOPIFY Admin Site! | [Shopify](../by-program/shopify.md) | None | — | 7 |
-| 405 | [28150](../reports/28150.md) | Cross site scripting on ads.twitter.com | [X / xAI](../by-program/x.md) | None | — | 7 |
-| 406 | [97191](../reports/97191.md) | Send AJAX request to external domain | [HackerOne](../by-program/security.md) | None | — | 7 |
-| 407 | [6575](../reports/6575.md) | XSS at  http://smarthistory.khanacademy.org | [Khan Academy](../by-program/khanacademy.md) | None | — | 7 |
-| 408 | [96229](../reports/96229.md) | XSS on player.vimeo.com without user interaction and vimeo.com wi | [Vimeo](../by-program/vimeo.md) | None | — | 6 |
-| 409 | [78052](../reports/78052.md) | xss in group | [ok.ru](../by-program/ok.md) | None | — | 6 |
-| 410 | [170156](../reports/170156.md) | Reflected XSS in Step 2 of the Installation | [Revive Adserver](../by-program/revive_adserver.md) | None | — | 6 |
-| 411 | [42728](../reports/42728.md) | Data-Tags and the New HTML Sanitizer Subverts CSRF protection | [Ruby on Rails](../by-program/rails.md) | None | — | 6 |
-| 412 | [44512](../reports/44512.md) | XSS on any site that includes the moogaloop flash player | deprec | [Vimeo](../by-program/vimeo.md) | None | — | 6 |
-| 413 | [112372](../reports/112372.md) | XSS during presentation | [Zaption](../by-program/zaption.md) | None | — | 6 |
-| 414 | [155228](../reports/155228.md) | Outdated MediaElement.js Reflected Cross-Site Scripting (XSS) | [Eternal](../by-program/eternal.md) | None | — | 6 |
-| 415 | [95231](../reports/95231.md) | XSS in the "Poll" Feature on Twitter.com | [X / xAI](../by-program/x.md) | None | — | 6 |
-| 416 | [152692](../reports/152692.md) | Persistent Cross-Site Scripting in WooCommerce WordPress plugin | [Automattic](../by-program/automattic.md) | None | — | 6 |
-| 417 | [85615](../reports/85615.md) | Reflected XSS on vimeo.com/musicstore | [Vimeo](../by-program/vimeo.md) | None | — | 6 |
-| 418 | [148751](../reports/148751.md) | Stored XSS in comments | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 6 |
-| 419 | [141114](../reports/141114.md) | Stored XSS in Filters | [Pushwoosh](../by-program/pushwoosh.md) | None | — | 6 |
-| 420 | [4839](../reports/4839.md) | XSS IN member List (Because of City Textbox) | [Concrete CMS](../by-program/concretecms.md) | None | — | 6 |
-| 421 | [7897](../reports/7897.md) | HTML/Javascript possible in "Discussion" section of reviews | [Localize](../by-program/localize.md) | None | — | 6 |
-| 422 | [93550](../reports/93550.md) | Reflected XSS via. search | [Adobe](../by-program/adobe.md) | None | — | 6 |
-| 423 | [2639](../reports/2639.md) | Stored XSS on this link https://sehacure.slack.com/help/requests/ | [Slack](../by-program/slack.md) | None | — | 6 |
-| 424 | [119022](../reports/119022.md) | Tweet Deck XSS- Persistent- Group DM name | [X / xAI](../by-program/x.md) | None | — | 5 |
-| 425 | [54321](../reports/54321.md) | Xss in website's link | [Shopify](../by-program/shopify.md) | None | — | 5 |
-| 426 | [162120](../reports/162120.md) | Cross Site Scripting In Profile Statement  | [Gratipay](../by-program/gratipay.md) | None | — | 5 |
-| 427 | [31187](../reports/31187.md) | Reflected XSS on www.bookfresh.com/index.html?view=upload_form | [Bookfresh](../by-program/bookfresh.md) | None | — | 5 |
-| 428 | [187380](../reports/187380.md) | Stored xss | [ownCloud](../by-program/owncloud.md) | None | — | 5 |
-| 429 | [6412](../reports/6412.md) | Persistent class XSS [the fuck] | [Khan Academy](../by-program/khanacademy.md) | None | — | 5 |
-| 430 | [6002](../reports/6002.md) | Stored XSS in Slack.com | [Slack](../by-program/slack.md) | None | — | 5 |
-| 431 | [9735](../reports/9735.md) | Reflected cross site scripting in login page  | [StopTheHacker](../by-program/stopthehacker.md) | None | — | 5 |
-| 432 | [172809](../reports/172809.md) | Flash XSS on global nav | [General Motors](../by-program/gm.md) | None | — | 5 |
-| 433 | [114631](../reports/114631.md) | Several XSS affecting Zomato.com and developers.zomato.com | [Eternal](../by-program/eternal.md) | None | — | 5 |
-| 434 | [137964](../reports/137964.md) | Wordpress  flashmediaelement.swf XSS on stopthehacker.com   | [StopTheHacker](../by-program/stopthehacker.md) | None | — | 5 |
-| 435 | [34725](../reports/34725.md) | XSS via Fabrico Account Name | [X / xAI](../by-program/x.md) | None | — | 5 |
-| 436 | [2439](../reports/2439.md) | Cross Site Scripting (XSS) - app.relateiq.com | [RelateIQ](../by-program/relateiq.md) | None | — | 5 |
-| 437 | [50157](../reports/50157.md) | Reflected Cross Site Scripting - 'puser' Parameter in login page | [Adobe](../by-program/adobe.md) | None | — | 5 |
-| 438 | [137906](../reports/137906.md) | Reflected XSS on business-blog.zomato.com - Part 2 | [Eternal](../by-program/eternal.md) | None | — | 5 |
-| 439 | [146939](../reports/146939.md) | DOM XSS в /activation.php?act=activate_mobile | [VK.com](../by-program/vkcom.md) | None | — | 5 |
-| 440 | [109461](../reports/109461.md) | refelected Xss on https://gmid.gm.com/gmid/jsp/GMIDInitialLogin.j | [General Motors](../by-program/gm.md) | None | — | 5 |
-| 441 | [78260](../reports/78260.md) | Stored XSS в имени песни (2) на платёжном гейте. | [ok.ru](../by-program/ok.md) | None | — | 5 |
-| 442 | [131052](../reports/131052.md) | XSS in uber oauth | [Uber](../by-program/uber.md) | None | — | 5 |
-| 443 | [123125](../reports/123125.md) | XSS on hardware.shopify.com | [Shopify](../by-program/shopify.md) | None | — | 5 |
-| 444 | [124277](../reports/124277.md) | XSS via React element spoofing | [Imgur](../by-program/imgur.md) | None | — | 5 |
-| 445 | [134004](../reports/134004.md) | Reflected XSS and something more Store XSS too | [General Motors](../by-program/gm.md) | None | — | 5 |
-| 446 | [81212](../reports/81212.md) | Potential XSS on sanitize/Rails::Html::WhiteListSanitizer | [Ruby on Rails](../by-program/rails.md) | None | — | 5 |
-| 447 | [137126](../reports/137126.md) | Xss in m.ok.ru | [ok.ru](../by-program/ok.md) | None | — | 5 |
-| 448 | [50134](../reports/50134.md) | XSS in original referrer after follow | [X / xAI](../by-program/x.md) | None | — | 5 |
-| 449 | [127163](../reports/127163.md) | XSS in https://www.coursera.org/courses/ | [Coursera](../by-program/coursera.md) | None | — | 5 |
-| 450 | [125059](../reports/125059.md) | Self-XSS Vulnerability on Password Reset Form | [Uber](../by-program/uber.md) | None | — | 5 |
-| 451 | [123278](../reports/123278.md) | Possible XSS | [HackerOne](../by-program/security.md) | None | — | 5 |
-| 452 | [87835](../reports/87835.md) | Webview Vulnerablity [OwnCloudAndroid Application]  | [ownCloud](../by-program/owncloud.md) | None | — | 5 |
-| 453 | [41856](../reports/41856.md) | HTML/XSS rendered in Android App of Crashlytics through fabric.io | [X / xAI](../by-program/x.md) | None | — | 5 |
-| 454 | [141198](../reports/141198.md) | Template stored XSS | [drchrono](../by-program/drchrono.md) | None | — | 5 |
-| 455 | [151634](../reports/151634.md) | XSS in http://localhost:8153/go/admin/config/server/update | [GoCD](../by-program/gocd.md) | None | — | 5 |
-| 456 | [229735](../reports/229735.md) | Self-XSS can be achieved in the editor link using filter bypass | [Weblate](../by-program/weblate.md) | None | — | 5 |
-| 457 | [2625](../reports/2625.md) | Stored XSS in username.slack.com | [Slack](../by-program/slack.md) | None | — | 4 |
-| 458 | [140791](../reports/140791.md) | XSS in people.uber.com | [Uber](../by-program/uber.md) | None | — | 4 |
-| 459 | [21150](../reports/21150.md) | Flash XSS  on swfupload.swf showing at app.mavenlink.com | [Mavenlink](../by-program/mavenlink.md) | None | — | 4 |
-| 460 | [27511](../reports/27511.md) | ads.twitter.com xss | [X / xAI](../by-program/x.md) | None | — | 4 |
-| 461 | [156387](../reports/156387.md) | Stored XSS from Display Settings triggered on Save and viewing re | [Algolia](../by-program/algolia.md) | None | — | 4 |
-| 462 | [2926](../reports/2926.md) | Stored XSS  | [Slack](../by-program/slack.md) | None | — | 4 |
-| 463 | [100565](../reports/100565.md) | Executing scripts on slack-files.com using SVG | [Slack](../by-program/slack.md) | None | — | 4 |
-| 464 | [81736](../reports/81736.md) | XSS in WordPress  | [Automattic](../by-program/automattic.md) | None | — | 4 |
-| 465 | [131123](../reports/131123.md) | XSS via password recovering | [Uber](../by-program/uber.md) | None | — | 4 |
-| 466 | [50358](../reports/50358.md) | files.acrobat.com stored XSS via send file | [Adobe](../by-program/adobe.md) | None | — | 4 |
-| 467 | [138262](../reports/138262.md) | Reflected Cross-Site Scripting in www.zomato.com/php/instagram_ta | [Eternal](../by-program/eternal.md) | None | — | 4 |
-| 468 | [125498](../reports/125498.md) | Dom Based Xss | [Uber](../by-program/uber.md) | None | — | 4 |
-| 469 | [62427](../reports/62427.md) | XSS in myshopify.com Admin site in TAX Overrides | [Shopify](../by-program/shopify.md) | None | — | 4 |
-| 470 | [6369](../reports/6369.md) | Stored XSS {dangerous?} https://www.khanacademy.org/coach/roster/ | [Khan Academy](../by-program/khanacademy.md) | None | — | 4 |
-| 471 | [7890](../reports/7890.md) | XSS in Localize.io | [Localize](../by-program/localize.md) | None | — | 4 |
-| 472 | [10577](../reports/10577.md) | XSS in Team Only Area | [Localize](../by-program/localize.md) | None | — | 4 |
-| 473 | [6344](../reports/6344.md) | http://smarthistory.khanacademy.org/search-results.html XSS | [Khan Academy](../by-program/khanacademy.md) | None | — | 4 |
-| 474 | [6352](../reports/6352.md) | Dom based XSS https://www.khanacademy.org/ | [Khan Academy](../by-program/khanacademy.md) | None | — | 4 |
-| 475 | [55842](../reports/55842.md) | [persistent cross-site scripting] customers can target admins | [Shopify](../by-program/shopify.md) | None | — | 4 |
-| 476 | [35036](../reports/35036.md) | XSS in Tagregator plugin | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 4 |
-| 477 | [50379](../reports/50379.md) | Open redirect and reflected xss in http://youthvoices.adobe.com/c | [Adobe](../by-program/adobe.md) | None | — | 4 |
-| 478 | [49513](../reports/49513.md) | Vulnerability type xss uncovered in airbnb.es | [Airbnb](../by-program/airbnb.md) | None | — | 4 |
-| 479 | [87577](../reports/87577.md) | Stored XSS on vimeo.com and player.vimeo.com | [Vimeo](../by-program/vimeo.md) | None | — | 4 |
-| 480 | [27846](../reports/27846.md) | Stored xss | [X / xAI](../by-program/x.md) | None | — | 4 |
-| 481 | [129436](../reports/129436.md) | xss in DM group name in twitter | [X / xAI](../by-program/x.md) | None | — | 4 |
-| 482 | [95564](../reports/95564.md) | Persistent XSS in image title | [Imgur](../by-program/imgur.md) | None | — | 4 |
-| 483 | [65284](../reports/65284.md) | Stored Cross-Site Scripting in Map Share Page | [Mapbox](../by-program/mapbox.md) | None | — | 4 |
-| 484 | [15356](../reports/15356.md) | XSS ON MOPUB.COM | [X / xAI](../by-program/x.md) | None | — | 4 |
-| 485 | [177943](../reports/177943.md) | Reflective XSS | [ExpressionEngine](../by-program/expressionengine.md) | None | — | 4 |
-| 486 | [155576](../reports/155576.md) | [github.algolia.com] XSS | [Algolia](../by-program/algolia.md) | None | — | 4 |
-| 487 | [114879](../reports/114879.md) | Persistent input validation mail encoding vulnerability  in the " | [Eternal](../by-program/eternal.md) | None | — | 4 |
-| 488 | [9391](../reports/9391.md) | Xss in CampTix Event Ticketing | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 4 |
-| 489 | [7441](../reports/7441.md) | Dangerous Persistent xss | [IRCCloud](../by-program/irccloud.md) | None | — | 4 |
-| 490 | [80694](../reports/80694.md) | Reflective Xss Vulnerability  | [Urban Dictionary](../by-program/urbandictionary.md) | None | — | 4 |
-| 491 | [4808](../reports/4808.md) | /index.php/dashboard/sitemap/explore/ Cross-site scripting | [Concrete CMS](../by-program/concretecms.md) | None | — | 4 |
-| 492 | [96337](../reports/96337.md) | Stored XSS in Slack (weird, trial and error) | [Slack](../by-program/slack.md) | None | — | 4 |
-| 493 | [9522](../reports/9522.md) | https://polldaddy.com storage.swf XSS | [Automattic](../by-program/automattic.md) | None | — | 4 |
-| 494 | [41758](../reports/41758.md) | Stored XSS in api key of operator wallet | [Enter](../by-program/enter.md) | None | — | 4 |
-| 495 | [160488](../reports/160488.md) | stored SELF xss on Basic Google Maps Placemarks Settings plugin | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 4 |
-| 496 | [31023](../reports/31023.md) | Sql injection And XSS | [Khan Academy](../by-program/khanacademy.md) | None | — | 4 |
-| 497 | [151779](../reports/151779.md) | Reflected XSS | [GoCD](../by-program/gocd.md) | None | — | 3 |
-| 498 | [111763](../reports/111763.md) | XSS vulnerability in "/coach/roster/" ( create your first class)  | [Khan Academy](../by-program/khanacademy.md) | None | — | 3 |
-| 499 | [161621](../reports/161621.md) | XSS Via Method injection | [Gratipay](../by-program/gratipay.md) | None | — | 3 |
-| 500 | [29328](../reports/29328.md) | XSS platform.twitter.com | [X / xAI](../by-program/x.md) | None | — | 3 |
-| 501 | [59662](../reports/59662.md) | Multiple Stored Cross Site Scripting Vulnerabilities in Concrete5 | [Concrete CMS](../by-program/concretecms.md) | None | — | 3 |
-| 502 | [48516](../reports/48516.md) | Redirect URL in /intent/ functionality is not properly escaped | [X / xAI](../by-program/x.md) | None | — | 3 |
-| 503 | [109832](../reports/109832.md) | HTML injection via 'underlying' parameter | [Deriv.com](../by-program/deriv.md) | None | — | 3 |
-| 504 | [81757](../reports/81757.md) | Reflected XSS in chat. | [Shopify](../by-program/shopify.md) | None | — | 3 |
-| 505 | [60016](../reports/60016.md) | xss profile | [Udemy](../by-program/udemy.md) | None | — | 3 |
-| 506 | [44798](../reports/44798.md) | Vimeo Search - XSS Vulnerability [http://vimeo.com/search] | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
-| 507 | [130951](../reports/130951.md) | doc.owncloud.org: XSS via Referrer | [ownCloud](../by-program/owncloud.md) | None | — | 3 |
-| 508 | [42161](../reports/42161.md) | stored xss in transaction | [Enter](../by-program/enter.md) | None | — | 3 |
-| 509 | [129551](../reports/129551.md) | Cross site scripting in apps.owncloud.com | [ownCloud](../by-program/owncloud.md) | None | — | 3 |
-| 510 | [87588](../reports/87588.md) | XSS Vulnerability | [Udemy](../by-program/udemy.md) | None | — | 3 |
-| 511 | [101450](../reports/101450.md) | XSS in creating tweets | [Shopify](../by-program/shopify.md) | None | — | 3 |
-| 512 | [1789602](../reports/1789602.md) | Contacts only sanitizes PHOTO svg if mime type is all lower case | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
-| 513 | [12389](../reports/12389.md) | XSS in the input | [Respondly](../by-program/respondly.md) | None | — | 3 |
-| 514 | [38890](../reports/38890.md) | stored XSS in concrete5 5.7.2.1 | [Concrete CMS](../by-program/concretecms.md) | None | — | 3 |
-| 515 | [133963](../reports/133963.md) | XSS on www.wordpress.com | [Automattic](../by-program/automattic.md) | None | — | 3 |
-| 516 | [50564](../reports/50564.md) | Stored XSS in Contact Form | [Concrete CMS](../by-program/concretecms.md) | None | — | 3 |
-| 517 | [17540](../reports/17540.md) | Reflected XSS in Pastebin-view | [IRCCloud](../by-program/irccloud.md) | None | — | 3 |
-| 518 | [50627](../reports/50627.md) | Stored XSS in title of date navigation | [Concrete CMS](../by-program/concretecms.md) | None | — | 3 |
-| 519 | [23010](../reports/23010.md) | XSS in 3rd party plugin (not affecting Uzbey's users) | [Uzbey](../by-program/uzbey.md) | None | — | 3 |
-| 520 | [172694](../reports/172694.md) | Critical : Malware and XSS file can be uploaded and executed on u | [Udemy](../by-program/udemy.md) | None | — | 3 |
-| 521 | [2652](../reports/2652.md) | Stored XSS in Channel Chat  | [Slack](../by-program/slack.md) | None | — | 3 |
-| 522 | [166699](../reports/166699.md) | Reflected xss on websummit.net | [WebSummit](../by-program/websummit.md) | None | — | 3 |
-| 523 | [111365](../reports/111365.md) | XSS at www.woothemes.com | [Automattic](../by-program/automattic.md) | None | — | 3 |
-| 524 | [97938](../reports/97938.md) | XSS m.imgur.com | [Imgur](../by-program/imgur.md) | None | — | 3 |
-| 525 | [85577](../reports/85577.md) | apps.owncloud.com: Potential XSS | [ownCloud](../by-program/owncloud.md) | None | — | 3 |
-| 526 | [112001](../reports/112001.md) | XSS on gmchat.gm.com | [General Motors](../by-program/gm.md) | None | — | 3 |
-| 527 | [362702](../reports/362702.md) | XSS in express-useragent through HTTP User-Agent | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | None | — | 3 |
-| 528 | [104559](../reports/104559.md) | XSS on codex.wordpress.org | [Automattic](../by-program/automattic.md) | None | — | 3 |
-| 529 | [13506](../reports/13506.md) | Unchecking hidden parameter is vulnerable to XSS-attack | [Khan Academy](../by-program/khanacademy.md) | None | — | 3 |
-| 530 | [143294](../reports/143294.md) | XSS on zomato.com | [Eternal](../by-program/eternal.md) | None | — | 3 |
-| 531 | [18805](../reports/18805.md) | XSS 01 on staging.fct.li | [Factlink](../by-program/factlink.md) | None | — | 3 |
-| 532 | [13703](../reports/13703.md) | xss in app.simplenote.com | [Automattic](../by-program/automattic.md) | None | — | 3 |
-| 533 | [127259](../reports/127259.md) | Reflected XSS in owncloud.com | [ownCloud](../by-program/owncloud.md) | None | — | 3 |
-| 534 | [62400](../reports/62400.md) | XSS on https://www.udemy.com/asset/export.html | [Udemy](../by-program/udemy.md) | None | — | 3 |
-| 535 | [6409](../reports/6409.md) | https://www.khanacademy.org/coach/reports/activity XSS | [Khan Academy](../by-program/khanacademy.md) | None | — | 3 |
-| 536 | [21034](../reports/21034.md) | Invoice Details activate JS that filled in  | [Coinbase](../by-program/coinbase.md) | None | — | 3 |
-| 537 | [63537](../reports/63537.md) | XSS in https://app.mavenlink.com/workspaces/ | [Mavenlink](../by-program/mavenlink.md) | None | — | 3 |
-| 538 | [84371](../reports/84371.md) | apps.owncloud.com: Stored XSS in profile page | [ownCloud](../by-program/owncloud.md) | None | — | 3 |
-| 539 | [32519](../reports/32519.md) | XSS in fabric.io | [X / xAI](../by-program/x.md) | None | — | 3 |
-| 540 | [65324](../reports/65324.md) | XSS on added name album on videos. | [VK.com](../by-program/vkcom.md) | None | — | 2 |
-| 541 | [164520](../reports/164520.md) | Reflected Self-XSS Vulnerability in the Comment section of Files  | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
-| 542 | [155690](../reports/155690.md) | Arbitrary File Upload in Logo & Log in image Theming setting. | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
-| 543 | [56779](../reports/56779.md) | XSS on ecommerce.shopify.com | [Shopify](../by-program/shopify.md) | None | — | 2 |
-| 544 | [73566](../reports/73566.md) | Reflected XSS in chat | [Shopify](../by-program/shopify.md) | None | — | 2 |
-| 545 | [50662](../reports/50662.md) | Stored XSS In Company URL | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
-| 546 | [50782](../reports/50782.md) | Stored XSS in Image Alt. Text | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
-| 547 | [36986](../reports/36986.md) | [Stored XSS] vine.co - profile page | [X / xAI](../by-program/x.md) | None | — | 2 |
-| 548 | [50656](../reports/50656.md) | Stored XSS in testimonial Company | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
-| 549 | [83837](../reports/83837.md) | demo.owncloud.org: Web Server HTTP Trace/Track Method Support Cro | [ownCloud](../by-program/owncloud.md) | None | — | 2 |
-| 550 | [42702](../reports/42702.md) | APIs for channels allow HTML entities that may cause XSS issue | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
-| 551 | [63888](../reports/63888.md) | Cross site scripting | [Enter](../by-program/enter.md) | None | — | 2 |
-| 552 | [59661](../reports/59661.md) | Multiple Reflected Cross Site Scripting Vulnerabilities in Concre | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
-| 553 | [50626](../reports/50626.md) | Stored XSS in Title of the topic List | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
-| 554 | [17287](../reports/17287.md) | email field doesn't filtered against XSS | [Uzbey](../by-program/uzbey.md) | None | — | 2 |
-| 555 | [52822](../reports/52822.md) | XSS with Time-of-Day Format | [Phabricator](../by-program/phabricator.md) | None | — | 2 |
-| 556 | [207781](../reports/207781.md) | Reflected XSS vulnerability in a DoD website  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | None | — | 2 |
-| 557 | [83373](../reports/83373.md) | owncloud.com: Cross Site Tracing | [ownCloud](../by-program/owncloud.md) | None | — | 2 |
-| 558 | [65808](../reports/65808.md) | No CSRF protection when creating new community points actions, an | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
-| 559 | [50556](../reports/50556.md) | Stored XSS on Search Title | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
-| 560 | [111131](../reports/111131.md) | XSS | [Deriv.com](../by-program/deriv.md) | None | — | 2 |
-| 561 | [116135](../reports/116135.md) | Reflected Cross Site Script in www.gmcar.gm.com | [General Motors](../by-program/gm.md) | None | — | 2 |
-| 562 | [81441](../reports/81441.md) | XSS https://delivery.shopifyapps.com/  (Digital Downloads App  in | [Shopify](../by-program/shopify.md) | None | — | 2 |
-| 563 | [7898](../reports/7898.md) | Persistent Cross-site scripting vulnerability settings. | [Respondly](../by-program/respondly.md) | None | — | 2 |
-| 564 | [114151](../reports/114151.md) | Cross Site Scripting - type Patameter | [Eternal](../by-program/eternal.md) | None | — | 2 |
-| 565 | [14303](../reports/14303.md) | http://jetpack.me/ Self XSS | [Automattic](../by-program/automattic.md) | None | — | 2 |
-| 566 | [47349](../reports/47349.md) | Stored xss in user name (2) affected another user. | [Mobile Vikings](../by-program/mobilevikings.md) | None | — | 2 |
-| 567 | [50552](../reports/50552.md) | Stored XSS on Blog's page Tile | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
-| 568 | [50779](../reports/50779.md) | Stored XSS in Bio/Quote | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
-| 569 | [43672](../reports/43672.md) | player.vimeo.com - Reflected XSS Vulnerability | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
-| 570 | [20049](../reports/20049.md) | Cross-site Scripting in mailing (username) | [RelateIQ](../by-program/relateiq.md) | None | — | 2 |
-| 571 | [50642](../reports/50642.md) | Stored Xss in Feature Paragraph | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
-| 572 | [106982](../reports/106982.md) | XSS in imgur mobile | [Imgur](../by-program/imgur.md) | None | — | 2 |
-| 573 | [62861](../reports/62861.md) | Bulk Discount App in myshopify.com exposes http://bulkdiscounts.s | [Shopify](../by-program/shopify.md) | None | — | 2 |
-| 574 | [89505](../reports/89505.md) | Self-XSS in posts by formatting text as code | [Slack](../by-program/slack.md) | None | — | 2 |
-| 575 | [133744](../reports/133744.md) | XSS in Asset name | [Veris](../by-program/veris.md) | None | — | 2 |
-| 576 | [107036](../reports/107036.md) | XSS in imgur mobile 3 | [Imgur](../by-program/imgur.md) | None | — | 2 |
-| 577 | [9148](../reports/9148.md) | XSS Reflected - https://www.stopthehacker.com/ | [StopTheHacker](../by-program/stopthehacker.md) | None | — | 2 |
-| 578 | [13746](../reports/13746.md) | xss in simperium.com | [Automattic](../by-program/automattic.md) | None | — | 2 |
-| 579 | [50645](../reports/50645.md) | Stored XSS in Testimonial Position | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
-| 580 | [90980](../reports/90980.md) | owncloud.com: WP Super Cache plugin is outdated | [ownCloud](../by-program/owncloud.md) | None | — | 2 |
-| 581 | [42248](../reports/42248.md) | Stored XSS in adding fileset | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
-| 582 | [7913](../reports/7913.md) | Import emails from Gmail are activate XSS | [Respondly](../by-program/respondly.md) | None | — | 2 |
-| 583 | [20221](../reports/20221.md) | Cross Site Scripting (Stored)  | [ExpressionEngine](../by-program/expressionengine.md) | None | — | 2 |
-| 584 | [202496](../reports/202496.md) | Stored XSS vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | None | — | 2 |
-| 585 | [16330](../reports/16330.md) | Multiple issues in looking-glass software (aka from web to BGP in | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 2 |
-| 586 | [6843](../reports/6843.md) | Cross-Site Scripting in getMarketplacePurchaseFrame | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
-| 587 | [98012](../reports/98012.md) | Stored XSS on https://www.algolia.com/realtime-search-demo/* | [Algolia](../by-program/algolia.md) | None | — | 2 |
-| 588 | [71614](../reports/71614.md) | XSS in Myshopify Admin Site in DISCOUNTS | [Shopify](../by-program/shopify.md) | None | — | 2 |
-| 589 | [125762](../reports/125762.md) | Reflected XSS on Zomato API | [Eternal](../by-program/eternal.md) | None | — | 2 |
-| 590 | [47343](../reports/47343.md) | Stored xss in user name | [Mobile Vikings](../by-program/mobilevikings.md) | None | — | 2 |
-| 591 | [154397](../reports/154397.md) | [Stored Cross-Site-Scripting] When search about Incoming ( Manual | [Moneybird](../by-program/moneybird.md) | None | — | 2 |
-| 592 | [95640](../reports/95640.md) | Reflected XSS and/or malicious redirection via JWPlayer 6 configu | [Udemy](../by-program/udemy.md) | None | — | 2 |
-| 593 | [62385](../reports/62385.md) | Pretty Photo Dom XSS  | [jsDelivr](../by-program/jsdelivr.md) | None | — | 2 |
-| 594 | [7917](../reports/7917.md) | Find, private notes Cross-site scripting. | [Respondly](../by-program/respondly.md) | None | — | 2 |
-| 595 | [124975](../reports/124975.md) | Cross-site Scripting (XSS) autocomplete generation in https://www | [Uber](../by-program/uber.md) | None | — | 2 |
-| 596 | [136600](../reports/136600.md) | Reflected XSS in Backend search | [Moneybird](../by-program/moneybird.md) | None | — | 2 |
-| 597 | [45484](../reports/45484.md) | XSS on Vimeo | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
-| 598 | [10297](../reports/10297.md) | Stored XSS in slack.com (integrations) | [Slack](../by-program/slack.md) | None | — | 2 |
-| 599 | [106897](../reports/106897.md) | Stored XSS in /admin/orders  | [Shopify](../by-program/shopify.md) | None | — | 2 |
-| 600 | [17235](../reports/17235.md) | Album image XSS | [Uzbey](../by-program/uzbey.md) | None | — | 2 |
-| 601 | [97683](../reports/97683.md) | Reflected Self-XSS in Slack | [Slack](../by-program/slack.md) | None | — | 2 |
-| 602 | [50780](../reports/50780.md) | Stored XSS in Message to Display When No Pages Listed. | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
-| 603 | [34188](../reports/34188.md) | Various Low level Vulnerabilities | [Block.io](../by-program/blockio.md) | None | — | 2 |
-| 604 | [62294](../reports/62294.md) | Multiple XSS Vulnerabilities in Concrete5 5.7.3.1 | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
-| 605 | [60201](../reports/60201.md) | XSS Vulnerability on all pages | [Mobile Vikings](../by-program/mobilevikings.md) | None | — | 2 |
-| 606 | [50554](../reports/50554.md) | Stored XSS on Title of Page List in edit page list | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
-| 607 | [120324](../reports/120324.md) | Multiple Stored XSS | [Veris](../by-program/veris.md) | None | — | 1 |
-| 608 | [42582](../reports/42582.md) | Vimeo.com - Reflected XSS Vulnerability | [Vimeo](../by-program/vimeo.md) | None | — | 1 |
-| 609 | [137845](../reports/137845.md) | Stored XSS on 'Badges' page | [Veris](../by-program/veris.md) | None | — | 1 |
-| 610 | [72526](../reports/72526.md) | Xss via Dropbox | [ThisData](../by-program/thisdata.md) | None | — | 1 |
-| 611 | [83381](../reports/83381.md) | apps.owncloud.com: Multiple reflected XSS by insecure URL generat | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
-| 612 | [121275](../reports/121275.md) | Multiple Stored XSS on Sanbox.veris.in through Veris Frontdesk An | [Veris](../by-program/veris.md) | None | — | 1 |
-| 613 | [123005](../reports/123005.md) | Persistent XSS on Reservation / Booking Page | [Eternal](../by-program/eternal.md) | None | — | 1 |
-| 614 | [111500](../reports/111500.md) | XSS at wordpress.com | [Automattic](../by-program/automattic.md) | None | — | 1 |
-| 615 | [115248](../reports/115248.md) | XSS and CSRF in Zomato Contact form | [Eternal](../by-program/eternal.md) | None | — | 1 |
-| 616 | [136396](../reports/136396.md) | STORED XSS FOUND | [ThisData](../by-program/thisdata.md) | None | — | 1 |
-| 617 | [137938](../reports/137938.md) | Reflected XSS in domain www.veris.in | [Veris](../by-program/veris.md) | None | — | 1 |
-| 618 | [138622](../reports/138622.md) | Self-XSS on partners.uber.com | [Uber](../by-program/uber.md) | None | — | 1 |
-| 619 | [50481](../reports/50481.md) | Self Xss on File Replace | [Concrete CMS](../by-program/concretecms.md) | None | — | 1 |
-| 620 | [61367](../reports/61367.md) | xss on autoserch | [Udemy](../by-program/udemy.md) | None | — | 1 |
-| 621 | [26482](../reports/26482.md) | Stored Cross-Site Scripting Vulnerability in /admin.php?/cp/admin | [ExpressionEngine](../by-program/expressionengine.md) | None | — | 1 |
-| 622 | [116254](../reports/116254.md) | owncloud.com: Persistent XSS In Account Profile | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
-| 623 | [29360](../reports/29360.md) | XSS platform.twitter.com | video-js metadata | [X / xAI](../by-program/x.md) | None | — | 1 |
-| 624 | [123905](../reports/123905.md) | Stored XSS in Access Rules | [Veris](../by-program/veris.md) | None | — | 1 |
-| 625 | [125179](../reports/125179.md) | XSS on love.uber.com | [Uber](../by-program/uber.md) | None | — | 1 |
-| 626 | [120622](../reports/120622.md) | Reflected Cross Site Script in imtportal.gm.com | [General Motors](../by-program/gm.md) | None | — | 1 |
-| 627 | [164922](../reports/164922.md) | XSS found In Your Web | [Gratipay](../by-program/gratipay.md) | None | — | 1 |
-| 628 | [42584](../reports/42584.md) | Vimeo.com - reflected xss vulnerability | [Vimeo](../by-program/vimeo.md) | None | — | 1 |
-| 629 | [141728](../reports/141728.md) | XSS in Blog  | [drchrono](../by-program/drchrono.md) | None | — | 1 |
-| 630 | [76713](../reports/76713.md) | XSS - Gallery Search Listing | [Zaption](../by-program/zaption.md) | None | — | 1 |
-| 631 | [148300](../reports/148300.md) | Full Page Caching Stored XSS Vulnerability | [Concrete CMS](../by-program/concretecms.md) | None | — | 1 |
-| 632 | [103989](../reports/103989.md) | Escaping the iframe via exceptions | [Khan Academy](../by-program/khanacademy.md) | None | — | 0 |
-| 633 | [115402](../reports/115402.md) | XSS via modified Zomato widget (res_search_widget.php) | [Eternal](../by-program/eternal.md) | None | — | 0 |
-| 634 | [116512](../reports/116512.md) | Markdown parsing issue enables insertion of malicious tags | [Gratipay](../by-program/gratipay.md) | None | — | 0 |
-| 635 | [108288](../reports/108288.md) | otrs.owncloud.com: Reflected Cross-Site Scripting | [ownCloud](../by-program/owncloud.md) | None | — | 0 |
+| 272 | [3889473](../reports/3889473.md) | @jitsi/docker-jitsi-meet: `/colibri-relay-ws/` unsafe nginx regex | [8x8](../by-program/8x8-bounty.md) | Low | — | 12 |
+| 273 | [184042](../reports/184042.md) | Reflected cross-site scripting vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 11 |
+| 274 | [388527](../reports/388527.md) | Self xss | [Nextcloud](../by-program/nextcloud.md) | Low | — | 11 |
+| 275 | [183871](../reports/183871.md) | Reflected XSS on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 9 |
+| 276 | [186554](../reports/186554.md) | Stored XSS in Adress Book (starbucks.com/account/profile) | [Starbucks](../by-program/starbucks.md) | Low | — | 9 |
+| 277 | [184759](../reports/184759.md) | XSS on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 8 |
+| 278 | [188691](../reports/188691.md) | Reflected XSS in a Navy website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 8 |
+| 279 | [224556](../reports/224556.md) | Self-XSS in WordPress Editor Link Modal | [WordPress](../by-program/wordpress.md) | Low | — | 8 |
+| 280 | [184750](../reports/184750.md) | Reflected XSS on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 8 |
+| 281 | [456702](../reports/456702.md) | [atlasboard-atlassian-package] Cross-site Scripting (XSS) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low | — | 8 |
+| 282 | [183835](../reports/183835.md) | Reflected XSS vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 7 |
+| 283 | [191902](../reports/191902.md) | HTML injection vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 6 |
+| 284 | [1108420](../reports/1108420.md) | HTML Injection on "polls" app - comments section (possibly XSS) | [Nextcloud](../by-program/nextcloud.md) | Low | — | 6 |
+| 285 | [225777](../reports/225777.md) | DOMPurify 0.8.9 released | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.1 | — | 6 |
+| 286 | [206877](../reports/206877.md) | HTML injection in Desktop Client | [ownCloud](../by-program/owncloud.md) | Low — CVSS 3.5 | — | 5 |
+| 287 | [1694171](../reports/1694171.md) | Multiple cross-site scripting (XSS) vulnerabilities in Revive Ads | [Revive Adserver](../by-program/revive_adserver.md) | Low | — | 5 |
+| 288 | [187822](../reports/187822.md) | Reflected XSS vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 5 |
+| 289 | [191381](../reports/191381.md) | Reflected cross-site scripting (XSS) vulnerability on a DoD websi | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 5 |
+| 290 | [183854](../reports/183854.md) | Reflective XSS vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
+| 291 | [184575](../reports/184575.md) | Cross-site scripting vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
+| 292 | [194294](../reports/194294.md) | Reflected XSS on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
+| 293 | [184125](../reports/184125.md) | Reflected XSS vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
+| 294 | [189241](../reports/189241.md) | Reflected XSS on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
+| 295 | [186315](../reports/186315.md) | Cross-site scripting (XSS) vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
+| 296 | [190427](../reports/190427.md) | Reflected XSS on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
+| 297 | [184901](../reports/184901.md) | Stored cross site scripting (XSS) vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
+| 298 | [187232](../reports/187232.md) | Arbitrary Script Injection (Mail) in a DoD Website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
+| 299 | [198259](../reports/198259.md) | Reflected XSS vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 3 |
+| 300 | [307681](../reports/307681.md) | Cross-Domain JavaScript Source File Inclusion  | [RubyGems](../by-program/rubygems.md) | Low | — | 3 |
+| 301 | [191416](../reports/191416.md) | DOM Based XSS on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 3 |
+| 302 | [190205](../reports/190205.md) | Reflected XSS on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 3 |
+| 303 | [298218](../reports/298218.md) | antispambot does not always escape <, >, &, " and ' | [WordPress](../by-program/wordpress.md) | Low | — | 3 |
+| 304 | [223692](../reports/223692.md) | Self XSS at translation page through Editor Link at demo.weblate. | [Weblate](../by-program/weblate.md) | Low | — | 3 |
+| 305 | [192751](../reports/192751.md) | XSS vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 3 |
+| 306 | [453795](../reports/453795.md) | [harp] Unsafe rendering of Markdown files | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 3.3 | — | 2 |
+| 307 | [223723](../reports/223723.md) | weblate.org: X-XSS-Protection not enabled | [Weblate](../by-program/weblate.md) | Low | — | 2 |
+| 308 | [208556](../reports/208556.md) | Cross-site scripting (XSS) vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 1 |
+| 309 | [812028](../reports/812028.md) | xss on setup config page  | [Nextcloud](../by-program/nextcloud.md) | Low | — | 1 |
+| 310 | [146336](../reports/146336.md) | XSS vulnerable parameter in a location hash | [Slack](../by-program/slack.md) | None | — | 453 |
+| 311 | [156098](../reports/156098.md) | XSS At "pages.et.uber.com" | [Uber](../by-program/uber.md) | None | — | 259 |
+| 312 | [84601](../reports/84601.md) | XSS and cache poisoning via upload.twitter.com on ton.twitter.com | [X / xAI](../by-program/x.md) | None | — | 198 |
+| 313 | [132104](../reports/132104.md) | Stored XSS on team.slack.com using new Markdown editor of posts i | [Slack](../by-program/slack.md) | None | — | 102 |
+| 314 | [150179](../reports/150179.md) | Html Injection and Possible XSS in sms-be-vip.twitter.com | [X / xAI](../by-program/x.md) | None | — | 83 |
+| 315 | [121461](../reports/121461.md) | Subdomain takeover due to unclaimed Amazon S3 bucket on a2.bime.i | [Bime](../by-program/bime.md) | None | — | 77 |
+| 316 | [134546](../reports/134546.md) | WordPress Flash XSS in *flashmediaelement.swf* | [Automattic](../by-program/automattic.md) | None | — | 69 |
+| 317 | [88719](../reports/88719.md) | Multiple DOMXSS on Amplify Web Player | [X / xAI](../by-program/x.md) | None | — | 66 |
+| 318 | [145278](../reports/145278.md) | xss in https://www.uber.com | [Uber](../by-program/uber.md) | None | — | 64 |
+| 319 | [153666](../reports/153666.md) | csp bypass + xss | [X / xAI](../by-program/x.md) | None | — | 51 |
+| 320 | [119471](../reports/119471.md) | DOMXSS in Tweetdeck | [X / xAI](../by-program/x.md) | None | — | 50 |
+| 321 | [32825](../reports/32825.md) | URGENT - Subdomain Takeover on media.vine.co due to unclaimed dom | [X / xAI](../by-program/x.md) | None | — | 50 |
+| 322 | [149855](../reports/149855.md) | Reflected XSS in m.imgur.com | [Imgur](../by-program/imgur.md) | None | — | 50 |
+| 323 | [150083](../reports/150083.md) | Cross Site Scripting(XSS) on IRCCloud Badges Page (using Paramete | [IRCCloud](../by-program/irccloud.md) | None | — | 48 |
+| 324 | [125849](../reports/125849.md) | XSS found on Snapchat website | [Snapchat](../by-program/snapchat.md) | None | — | 38 |
+| 325 | [1563334](../reports/1563334.md) | One Click XSS in [www.shopify.com] | [Shopify](../by-program/shopify.md) | None | — | 36 |
+| 326 | [140616](../reports/140616.md) | www.starbucks.co.uk Reflected XSS via utm_source parameter | [Starbucks](../by-program/starbucks.md) | None | — | 36 |
+| 327 | [214044](../reports/214044.md) | Stored XSS in [shop].myshopify.com/admin/orders/[id] | [Shopify](../by-program/shopify.md) | None | — | 36 |
+| 328 | [321](../reports/321.md) | CSP not consistently applied | [HackerOne](../by-program/security.md) | None | — | 34 |
+| 329 | [182160](../reports/182160.md) | XSS in IE11 on portswigger.net via Flash | [PortSwigger Web Security](../by-program/portswigger.md) | None | — | 33 |
+| 330 | [38007](../reports/38007.md) | Subdomain Takeover using blog.greenhouse.io pointing to Hubspot | [Greenhouse.io](../by-program/greenhouse.md) | None | — | 33 |
+| 331 | [168458](../reports/168458.md) | Stored XSS in https://productreviews.shopifyapps.com/proxy/v4/rev | [Shopify](../by-program/shopify.md) | None | — | 30 |
+| 332 | [139245](../reports/139245.md) | WordPress core stored XSS via attachment file name | [Automattic](../by-program/automattic.md) | None | — | 25 |
+| 333 | [148741](../reports/148741.md) | Stored Cross-Site-Scripting in CMS Airship's  authors profiles | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 24 |
+| 334 | [145355](../reports/145355.md) | Stored XSS on Share-popup of a directory's Gallery-view | [Nextcloud](../by-program/nextcloud.md) | None | — | 24 |
+| 335 | [97672](../reports/97672.md) | File Upload XSS in image uploading of App in mopub | [X / xAI](../by-program/x.md) | None | — | 23 |
+| 336 | [87040](../reports/87040.md) | XSS on OAuth authorize/authenticate endpoint | [X / xAI](../by-program/x.md) | None | — | 22 |
+| 337 | [264832](../reports/264832.md) | xss filter bypass [polldaddy] | [Automattic](../by-program/automattic.md) | None | — | 21 |
+| 338 | [2058556](../reports/2058556.md) | Self XSS when sending HTML as a comment in the Deck app | [Nextcloud](../by-program/nextcloud.md) | None | — | 20 |
+| 339 | [141463](../reports/141463.md) | Stored XSS via AngularJS Injection | [drchrono](../by-program/drchrono.md) | None | — | 20 |
+| 340 | [87854](../reports/87854.md) | XSS on vimeo.com/home after other user follows you | [Vimeo](../by-program/vimeo.md) | None | — | 19 |
+| 341 | [104917](../reports/104917.md) | Cross-Site Scripting Reflected On Main Domain | [Instacart](../by-program/instacart.md) | None | — | 19 |
+| 342 | [146278](../reports/146278.md) | Log pollution can lead to HTML Injection. | [Nextcloud](../by-program/nextcloud.md) | None | — | 18 |
+| 343 | [143240](../reports/143240.md) | XSS on www.mapbox.com/authorize/ because of open redirect at /cor | [Mapbox](../by-program/mapbox.md) | None | — | 18 |
+| 344 | [157958](../reports/157958.md) | Stored XSS | [Instacart](../by-program/instacart.md) | None | — | 17 |
+| 345 | [91421](../reports/91421.md) | Reflected Flash XSS using swfupload.swf with an epileptic reloadi | [Imgur](../by-program/imgur.md) | None | — | 16 |
+| 346 | [854299](../reports/854299.md) | Self XSS in Timeline  | [Shopify](../by-program/shopify.md) | None | — | 16 |
+| 347 | [105419](../reports/105419.md) | Cookie-Based Injection | [Instacart](../by-program/instacart.md) | None | — | 16 |
+| 348 | [148853](../reports/148853.md) | Stored XSS using  SVG  | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 15 |
+| 349 | [143220](../reports/143220.md) | XSS on www.mapbox.com/authorize | [Mapbox](../by-program/mapbox.md) | None | — | 15 |
+| 350 | [151231](../reports/151231.md) | Content-type sniffing leads to stored XSS in CMS Airship on Inter | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 15 |
+| 351 | [189378](../reports/189378.md) | Unauthenticated Stored XSS on <any>.myshopify.com via checkout pa | [Shopify](../by-program/shopify.md) | None | — | 14 |
+| 352 | [142946](../reports/142946.md) | xss vulnerability in http://ubermovement.com/community/daniel | [Uber](../by-program/uber.md) | None | — | 14 |
+| 353 | [141240](../reports/141240.md) | Angular injection in the profile name of onpatient | [drchrono](../by-program/drchrono.md) | None | — | 14 |
+| 354 | [203241](../reports/203241.md) | Reflected XSS | [Algolia](../by-program/algolia.md) | None | — | 14 |
+| 355 | [136333](../reports/136333.md) | Persistent XSS on public wiki pages | [GitLab](../by-program/gitlab.md) | None | — | 14 |
+| 356 | [168054](../reports/168054.md) | Unauthenticated Stored xss  | [Nextcloud](../by-program/nextcloud.md) | None | — | 14 |
+| 357 | [100829](../reports/100829.md) | Stored-XSS in https://www.coinbase.com/ | [Coinbase](../by-program/coinbase.md) | None | — | 12 |
+| 358 | [151117](../reports/151117.md) | [bbPress] Stored XSS in any forum post. | [Automattic](../by-program/automattic.md) | None | — | 12 |
+| 359 | [148865](../reports/148865.md) | HTML in Diffusion not escaped in certain circumstances | [Phabricator](../by-program/phabricator.md) | None | — | 12 |
+| 360 | [166887](../reports/166887.md) | Unsanitized Location Name in POS Channel can lead to XSS in Order | [Shopify](../by-program/shopify.md) | None | — | 12 |
+| 361 | [197878](../reports/197878.md) | WordPress <= 4.6.1 Stored XSS Via Theme File | [Nextcloud](../by-program/nextcloud.md) | None | — | 12 |
+| 362 | [172574](../reports/172574.md) | Follow Button XSS | [Automattic](../by-program/automattic.md) | None | — | 12 |
+| 363 | [142084](../reports/142084.md) | Stored XSS in unifi.ubnt.com | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 12 |
+| 364 | [152416](../reports/152416.md) | Lazy Load stored XSS | [Automattic](../by-program/automattic.md) | None | — | 12 |
+| 365 | [167075](../reports/167075.md) | XSS in SHOPIFY: Unsanitized Supplier Name  can lead to XSS in Tra | [Shopify](../by-program/shopify.md) | None | — | 12 |
+| 366 | [156373](../reports/156373.md) | Stored xss | [Algolia](../by-program/algolia.md) | None | — | 12 |
+| 367 | [158484](../reports/158484.md) | [scores.ubnt.com] DOM based XSS at form.html | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 11 |
+| 368 | [159984](../reports/159984.md) | XSS On meta tags in profile page | [GitLab](../by-program/gitlab.md) | None | — | 11 |
+| 369 | [130889](../reports/130889.md) | Reflected XSS in scores.ubnt.com | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 11 |
+| 370 | [85488](../reports/85488.md) | Stored XSS on player.vimeo.com | [Vimeo](../by-program/vimeo.md) | None | — | 11 |
+| 371 | [1209098](../reports/1209098.md) |  XSS | [Reddit](../by-program/reddit.md) | None | — | 10 |
+| 372 | [137905](../reports/137905.md) | Reflected XSS on business-blog.zomato.com - Part I | [Eternal](../by-program/eternal.md) | None | — | 10 |
+| 373 | [7887](../reports/7887.md) | XSS in invite approval | [Localize](../by-program/localize.md) | None | — | 10 |
+| 374 | [95089](../reports/95089.md) | Reflected XSS in cart at hardware.shopify.com | [Shopify](../by-program/shopify.md) | None | — | 10 |
+| 375 | [7882](../reports/7882.md) | XSS in main page | [Localize](../by-program/localize.md) | None | — | 10 |
+| 376 | [152958](../reports/152958.md) | Multiple XSS in Camptix Event Ticketing Plugin | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 10 |
+| 377 | [2735](../reports/2735.md) | HTML injection in "Invite Collaborators" | [RelateIQ](../by-program/relateiq.md) | None | — | 9 |
+| 378 | [151678](../reports/151678.md) | Cross Site Scripting | [GoCD](../by-program/gocd.md) | None | — | 9 |
+| 379 | [118024](../reports/118024.md) | Markdown based stored XSS (IE only) | [GitLab](../by-program/gitlab.md) | None | — | 9 |
+| 380 | [145246](../reports/145246.md) | Stored Cross site scripting | [Eternal](../by-program/eternal.md) | None | — | 9 |
+| 381 | [9774](../reports/9774.md) | Stored XSS Found | [Slack](../by-program/slack.md) | None | — | 9 |
+| 382 | [142893](../reports/142893.md) | [STORED XSS] in debtor reports of ,,invoices'' | [Moneybird](../by-program/moneybird.md) | None | — | 9 |
+| 383 | [139981](../reports/139981.md) | XSS onmouseover  | [Eternal](../by-program/eternal.md) | None | — | 9 |
+| 384 | [88508](../reports/88508.md) | XSS when using captions/subtitles on video player based on Flash  | [Vimeo](../by-program/vimeo.md) | None | — | 8 |
+| 385 | [117190](../reports/117190.md) | Reflected XSS on Uber.com careers | [Uber](../by-program/uber.md) | None | — | 8 |
+| 386 | [88105](../reports/88105.md) | XSS on vimeo.com | "Search within these results" feature (require | [Vimeo](../by-program/vimeo.md) | None | — | 8 |
+| 387 | [129736](../reports/129736.md) | Persistent XSS on public project page | [GitLab](../by-program/gitlab.md) | None | — | 8 |
+| 388 | [121941](../reports/121941.md) | Unauthenticated Cross-Site Scripting in Web Management Console | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 8 |
+| 389 | [166709](../reports/166709.md) | Self-XSS via location cookie city field when getting suggestions  | [Yelp](../by-program/yelp.md) | None | — | 8 |
+| 390 | [50389](../reports/50389.md) | Adobe XSS | [Adobe](../by-program/adobe.md) | None | — | 8 |
+| 391 | [4561](../reports/4561.md) | Stored XSS in Slackbot Direct Messages | [Slack](../by-program/slack.md) | None | — | 8 |
+| 392 | [44217](../reports/44217.md) | Application XSS filter function Bypass may allow Multiple stored  | [Vimeo](../by-program/vimeo.md) | None | — | 8 |
+| 393 | [2617](../reports/2617.md) | Stored XSS in www.slack-files.com | [Slack](../by-program/slack.md) | None | — | 8 |
+| 394 | [149287](../reports/149287.md) | Reflected Xss in AirMax [Nanostation Loco M2] | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 8 |
+| 395 | [4826](../reports/4826.md) | XSS in private message | [Concrete CMS](../by-program/concretecms.md) | None | — | 7 |
+| 396 | [156347](../reports/156347.md) | Stored XSS triggered by json key during UI generation | [Algolia](../by-program/algolia.md) | None | — | 7 |
+| 397 | [7886](../reports/7886.md) | XSS in main page (invitation) | [Localize](../by-program/localize.md) | None | — | 7 |
+| 398 | [80298](../reports/80298.md) | Внедрение произвольного javascript-сценария в функционале просмот | [VK.com](../by-program/vkcom.md) | None | — | 7 |
+| 399 | [88088](../reports/88088.md) | XSS on mobile version of vimeo.com where the button "Follow" appe | [Vimeo](../by-program/vimeo.md) | None | — | 7 |
+| 400 | [131038](../reports/131038.md) | Stored XSS in Financial Account executing in Bank tab | [Moneybird](../by-program/moneybird.md) | None | — | 7 |
+| 401 | [57459](../reports/57459.md) | XSS in experts.shopify.com | [Shopify](../by-program/shopify.md) | None | — | 7 |
+| 402 | [9230](../reports/9230.md) | XSS 1 | [StopTheHacker](../by-program/stopthehacker.md) | None | — | 7 |
+| 403 | [4276](../reports/4276.md) | Here is another XSS i got for you | [MoneyStream](../by-program/moneystream.md) | None | — | 7 |
+| 404 | [77904](../reports/77904.md) | cross siite scripting in the blog  | [ok.ru](../by-program/ok.md) | None | — | 7 |
+| 405 | [117449](../reports/117449.md) | XSS in Draft Orders in Timeline i SHOPIFY Admin Site! | [Shopify](../by-program/shopify.md) | None | — | 7 |
+| 406 | [28150](../reports/28150.md) | Cross site scripting on ads.twitter.com | [X / xAI](../by-program/x.md) | None | — | 7 |
+| 407 | [97191](../reports/97191.md) | Send AJAX request to external domain | [HackerOne](../by-program/security.md) | None | — | 7 |
+| 408 | [6575](../reports/6575.md) | XSS at  http://smarthistory.khanacademy.org | [Khan Academy](../by-program/khanacademy.md) | None | — | 7 |
+| 409 | [96229](../reports/96229.md) | XSS on player.vimeo.com without user interaction and vimeo.com wi | [Vimeo](../by-program/vimeo.md) | None | — | 6 |
+| 410 | [78052](../reports/78052.md) | xss in group | [ok.ru](../by-program/ok.md) | None | — | 6 |
+| 411 | [170156](../reports/170156.md) | Reflected XSS in Step 2 of the Installation | [Revive Adserver](../by-program/revive_adserver.md) | None | — | 6 |
+| 412 | [42728](../reports/42728.md) | Data-Tags and the New HTML Sanitizer Subverts CSRF protection | [Ruby on Rails](../by-program/rails.md) | None | — | 6 |
+| 413 | [44512](../reports/44512.md) | XSS on any site that includes the moogaloop flash player | deprec | [Vimeo](../by-program/vimeo.md) | None | — | 6 |
+| 414 | [112372](../reports/112372.md) | XSS during presentation | [Zaption](../by-program/zaption.md) | None | — | 6 |
+| 415 | [155228](../reports/155228.md) | Outdated MediaElement.js Reflected Cross-Site Scripting (XSS) | [Eternal](../by-program/eternal.md) | None | — | 6 |
+| 416 | [95231](../reports/95231.md) | XSS in the "Poll" Feature on Twitter.com | [X / xAI](../by-program/x.md) | None | — | 6 |
+| 417 | [152692](../reports/152692.md) | Persistent Cross-Site Scripting in WooCommerce WordPress plugin | [Automattic](../by-program/automattic.md) | None | — | 6 |
+| 418 | [85615](../reports/85615.md) | Reflected XSS on vimeo.com/musicstore | [Vimeo](../by-program/vimeo.md) | None | — | 6 |
+| 419 | [148751](../reports/148751.md) | Stored XSS in comments | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 6 |
+| 420 | [141114](../reports/141114.md) | Stored XSS in Filters | [Pushwoosh](../by-program/pushwoosh.md) | None | — | 6 |
+| 421 | [4839](../reports/4839.md) | XSS IN member List (Because of City Textbox) | [Concrete CMS](../by-program/concretecms.md) | None | — | 6 |
+| 422 | [7897](../reports/7897.md) | HTML/Javascript possible in "Discussion" section of reviews | [Localize](../by-program/localize.md) | None | — | 6 |
+| 423 | [93550](../reports/93550.md) | Reflected XSS via. search | [Adobe](../by-program/adobe.md) | None | — | 6 |
+| 424 | [2639](../reports/2639.md) | Stored XSS on this link https://sehacure.slack.com/help/requests/ | [Slack](../by-program/slack.md) | None | — | 6 |
+| 425 | [119022](../reports/119022.md) | Tweet Deck XSS- Persistent- Group DM name | [X / xAI](../by-program/x.md) | None | — | 5 |
+| 426 | [54321](../reports/54321.md) | Xss in website's link | [Shopify](../by-program/shopify.md) | None | — | 5 |
+| 427 | [162120](../reports/162120.md) | Cross Site Scripting In Profile Statement  | [Gratipay](../by-program/gratipay.md) | None | — | 5 |
+| 428 | [31187](../reports/31187.md) | Reflected XSS on www.bookfresh.com/index.html?view=upload_form | [Bookfresh](../by-program/bookfresh.md) | None | — | 5 |
+| 429 | [187380](../reports/187380.md) | Stored xss | [ownCloud](../by-program/owncloud.md) | None | — | 5 |
+| 430 | [6412](../reports/6412.md) | Persistent class XSS [the fuck] | [Khan Academy](../by-program/khanacademy.md) | None | — | 5 |
+| 431 | [6002](../reports/6002.md) | Stored XSS in Slack.com | [Slack](../by-program/slack.md) | None | — | 5 |
+| 432 | [9735](../reports/9735.md) | Reflected cross site scripting in login page  | [StopTheHacker](../by-program/stopthehacker.md) | None | — | 5 |
+| 433 | [172809](../reports/172809.md) | Flash XSS on global nav | [General Motors](../by-program/gm.md) | None | — | 5 |
+| 434 | [114631](../reports/114631.md) | Several XSS affecting Zomato.com and developers.zomato.com | [Eternal](../by-program/eternal.md) | None | — | 5 |
+| 435 | [137964](../reports/137964.md) | Wordpress  flashmediaelement.swf XSS on stopthehacker.com   | [StopTheHacker](../by-program/stopthehacker.md) | None | — | 5 |
+| 436 | [34725](../reports/34725.md) | XSS via Fabrico Account Name | [X / xAI](../by-program/x.md) | None | — | 5 |
+| 437 | [2439](../reports/2439.md) | Cross Site Scripting (XSS) - app.relateiq.com | [RelateIQ](../by-program/relateiq.md) | None | — | 5 |
+| 438 | [50157](../reports/50157.md) | Reflected Cross Site Scripting - 'puser' Parameter in login page | [Adobe](../by-program/adobe.md) | None | — | 5 |
+| 439 | [137906](../reports/137906.md) | Reflected XSS on business-blog.zomato.com - Part 2 | [Eternal](../by-program/eternal.md) | None | — | 5 |
+| 440 | [146939](../reports/146939.md) | DOM XSS в /activation.php?act=activate_mobile | [VK.com](../by-program/vkcom.md) | None | — | 5 |
+| 441 | [109461](../reports/109461.md) | refelected Xss on https://gmid.gm.com/gmid/jsp/GMIDInitialLogin.j | [General Motors](../by-program/gm.md) | None | — | 5 |
+| 442 | [78260](../reports/78260.md) | Stored XSS в имени песни (2) на платёжном гейте. | [ok.ru](../by-program/ok.md) | None | — | 5 |
+| 443 | [131052](../reports/131052.md) | XSS in uber oauth | [Uber](../by-program/uber.md) | None | — | 5 |
+| 444 | [123125](../reports/123125.md) | XSS on hardware.shopify.com | [Shopify](../by-program/shopify.md) | None | — | 5 |
+| 445 | [124277](../reports/124277.md) | XSS via React element spoofing | [Imgur](../by-program/imgur.md) | None | — | 5 |
+| 446 | [134004](../reports/134004.md) | Reflected XSS and something more Store XSS too | [General Motors](../by-program/gm.md) | None | — | 5 |
+| 447 | [81212](../reports/81212.md) | Potential XSS on sanitize/Rails::Html::WhiteListSanitizer | [Ruby on Rails](../by-program/rails.md) | None | — | 5 |
+| 448 | [137126](../reports/137126.md) | Xss in m.ok.ru | [ok.ru](../by-program/ok.md) | None | — | 5 |
+| 449 | [50134](../reports/50134.md) | XSS in original referrer after follow | [X / xAI](../by-program/x.md) | None | — | 5 |
+| 450 | [127163](../reports/127163.md) | XSS in https://www.coursera.org/courses/ | [Coursera](../by-program/coursera.md) | None | — | 5 |
+| 451 | [125059](../reports/125059.md) | Self-XSS Vulnerability on Password Reset Form | [Uber](../by-program/uber.md) | None | — | 5 |
+| 452 | [123278](../reports/123278.md) | Possible XSS | [HackerOne](../by-program/security.md) | None | — | 5 |
+| 453 | [87835](../reports/87835.md) | Webview Vulnerablity [OwnCloudAndroid Application]  | [ownCloud](../by-program/owncloud.md) | None | — | 5 |
+| 454 | [41856](../reports/41856.md) | HTML/XSS rendered in Android App of Crashlytics through fabric.io | [X / xAI](../by-program/x.md) | None | — | 5 |
+| 455 | [141198](../reports/141198.md) | Template stored XSS | [drchrono](../by-program/drchrono.md) | None | — | 5 |
+| 456 | [151634](../reports/151634.md) | XSS in http://localhost:8153/go/admin/config/server/update | [GoCD](../by-program/gocd.md) | None | — | 5 |
+| 457 | [229735](../reports/229735.md) | Self-XSS can be achieved in the editor link using filter bypass | [Weblate](../by-program/weblate.md) | None | — | 5 |
+| 458 | [2625](../reports/2625.md) | Stored XSS in username.slack.com | [Slack](../by-program/slack.md) | None | — | 4 |
+| 459 | [140791](../reports/140791.md) | XSS in people.uber.com | [Uber](../by-program/uber.md) | None | — | 4 |
+| 460 | [21150](../reports/21150.md) | Flash XSS  on swfupload.swf showing at app.mavenlink.com | [Mavenlink](../by-program/mavenlink.md) | None | — | 4 |
+| 461 | [27511](../reports/27511.md) | ads.twitter.com xss | [X / xAI](../by-program/x.md) | None | — | 4 |
+| 462 | [156387](../reports/156387.md) | Stored XSS from Display Settings triggered on Save and viewing re | [Algolia](../by-program/algolia.md) | None | — | 4 |
+| 463 | [2926](../reports/2926.md) | Stored XSS  | [Slack](../by-program/slack.md) | None | — | 4 |
+| 464 | [100565](../reports/100565.md) | Executing scripts on slack-files.com using SVG | [Slack](../by-program/slack.md) | None | — | 4 |
+| 465 | [81736](../reports/81736.md) | XSS in WordPress  | [Automattic](../by-program/automattic.md) | None | — | 4 |
+| 466 | [131123](../reports/131123.md) | XSS via password recovering | [Uber](../by-program/uber.md) | None | — | 4 |
+| 467 | [50358](../reports/50358.md) | files.acrobat.com stored XSS via send file | [Adobe](../by-program/adobe.md) | None | — | 4 |
+| 468 | [138262](../reports/138262.md) | Reflected Cross-Site Scripting in www.zomato.com/php/instagram_ta | [Eternal](../by-program/eternal.md) | None | — | 4 |
+| 469 | [125498](../reports/125498.md) | Dom Based Xss | [Uber](../by-program/uber.md) | None | — | 4 |
+| 470 | [62427](../reports/62427.md) | XSS in myshopify.com Admin site in TAX Overrides | [Shopify](../by-program/shopify.md) | None | — | 4 |
+| 471 | [6369](../reports/6369.md) | Stored XSS {dangerous?} https://www.khanacademy.org/coach/roster/ | [Khan Academy](../by-program/khanacademy.md) | None | — | 4 |
+| 472 | [7890](../reports/7890.md) | XSS in Localize.io | [Localize](../by-program/localize.md) | None | — | 4 |
+| 473 | [10577](../reports/10577.md) | XSS in Team Only Area | [Localize](../by-program/localize.md) | None | — | 4 |
+| 474 | [6344](../reports/6344.md) | http://smarthistory.khanacademy.org/search-results.html XSS | [Khan Academy](../by-program/khanacademy.md) | None | — | 4 |
+| 475 | [6352](../reports/6352.md) | Dom based XSS https://www.khanacademy.org/ | [Khan Academy](../by-program/khanacademy.md) | None | — | 4 |
+| 476 | [55842](../reports/55842.md) | [persistent cross-site scripting] customers can target admins | [Shopify](../by-program/shopify.md) | None | — | 4 |
+| 477 | [35036](../reports/35036.md) | XSS in Tagregator plugin | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 4 |
+| 478 | [50379](../reports/50379.md) | Open redirect and reflected xss in http://youthvoices.adobe.com/c | [Adobe](../by-program/adobe.md) | None | — | 4 |
+| 479 | [49513](../reports/49513.md) | Vulnerability type xss uncovered in airbnb.es | [Airbnb](../by-program/airbnb.md) | None | — | 4 |
+| 480 | [87577](../reports/87577.md) | Stored XSS on vimeo.com and player.vimeo.com | [Vimeo](../by-program/vimeo.md) | None | — | 4 |
+| 481 | [27846](../reports/27846.md) | Stored xss | [X / xAI](../by-program/x.md) | None | — | 4 |
+| 482 | [129436](../reports/129436.md) | xss in DM group name in twitter | [X / xAI](../by-program/x.md) | None | — | 4 |
+| 483 | [95564](../reports/95564.md) | Persistent XSS in image title | [Imgur](../by-program/imgur.md) | None | — | 4 |
+| 484 | [65284](../reports/65284.md) | Stored Cross-Site Scripting in Map Share Page | [Mapbox](../by-program/mapbox.md) | None | — | 4 |
+| 485 | [15356](../reports/15356.md) | XSS ON MOPUB.COM | [X / xAI](../by-program/x.md) | None | — | 4 |
+| 486 | [177943](../reports/177943.md) | Reflective XSS | [ExpressionEngine](../by-program/expressionengine.md) | None | — | 4 |
+| 487 | [155576](../reports/155576.md) | [github.algolia.com] XSS | [Algolia](../by-program/algolia.md) | None | — | 4 |
+| 488 | [114879](../reports/114879.md) | Persistent input validation mail encoding vulnerability  in the " | [Eternal](../by-program/eternal.md) | None | — | 4 |
+| 489 | [9391](../reports/9391.md) | Xss in CampTix Event Ticketing | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 4 |
+| 490 | [7441](../reports/7441.md) | Dangerous Persistent xss | [IRCCloud](../by-program/irccloud.md) | None | — | 4 |
+| 491 | [80694](../reports/80694.md) | Reflective Xss Vulnerability  | [Urban Dictionary](../by-program/urbandictionary.md) | None | — | 4 |
+| 492 | [4808](../reports/4808.md) | /index.php/dashboard/sitemap/explore/ Cross-site scripting | [Concrete CMS](../by-program/concretecms.md) | None | — | 4 |
+| 493 | [96337](../reports/96337.md) | Stored XSS in Slack (weird, trial and error) | [Slack](../by-program/slack.md) | None | — | 4 |
+| 494 | [9522](../reports/9522.md) | https://polldaddy.com storage.swf XSS | [Automattic](../by-program/automattic.md) | None | — | 4 |
+| 495 | [41758](../reports/41758.md) | Stored XSS in api key of operator wallet | [Enter](../by-program/enter.md) | None | — | 4 |
+| 496 | [160488](../reports/160488.md) | stored SELF xss on Basic Google Maps Placemarks Settings plugin | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 4 |
+| 497 | [31023](../reports/31023.md) | Sql injection And XSS | [Khan Academy](../by-program/khanacademy.md) | None | — | 4 |
+| 498 | [151779](../reports/151779.md) | Reflected XSS | [GoCD](../by-program/gocd.md) | None | — | 3 |
+| 499 | [111763](../reports/111763.md) | XSS vulnerability in "/coach/roster/" ( create your first class)  | [Khan Academy](../by-program/khanacademy.md) | None | — | 3 |
+| 500 | [161621](../reports/161621.md) | XSS Via Method injection | [Gratipay](../by-program/gratipay.md) | None | — | 3 |
+| 501 | [29328](../reports/29328.md) | XSS platform.twitter.com | [X / xAI](../by-program/x.md) | None | — | 3 |
+| 502 | [59662](../reports/59662.md) | Multiple Stored Cross Site Scripting Vulnerabilities in Concrete5 | [Concrete CMS](../by-program/concretecms.md) | None | — | 3 |
+| 503 | [48516](../reports/48516.md) | Redirect URL in /intent/ functionality is not properly escaped | [X / xAI](../by-program/x.md) | None | — | 3 |
+| 504 | [109832](../reports/109832.md) | HTML injection via 'underlying' parameter | [Deriv.com](../by-program/deriv.md) | None | — | 3 |
+| 505 | [81757](../reports/81757.md) | Reflected XSS in chat. | [Shopify](../by-program/shopify.md) | None | — | 3 |
+| 506 | [60016](../reports/60016.md) | xss profile | [Udemy](../by-program/udemy.md) | None | — | 3 |
+| 507 | [44798](../reports/44798.md) | Vimeo Search - XSS Vulnerability [http://vimeo.com/search] | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
+| 508 | [130951](../reports/130951.md) | doc.owncloud.org: XSS via Referrer | [ownCloud](../by-program/owncloud.md) | None | — | 3 |
+| 509 | [42161](../reports/42161.md) | stored xss in transaction | [Enter](../by-program/enter.md) | None | — | 3 |
+| 510 | [129551](../reports/129551.md) | Cross site scripting in apps.owncloud.com | [ownCloud](../by-program/owncloud.md) | None | — | 3 |
+| 511 | [87588](../reports/87588.md) | XSS Vulnerability | [Udemy](../by-program/udemy.md) | None | — | 3 |
+| 512 | [101450](../reports/101450.md) | XSS in creating tweets | [Shopify](../by-program/shopify.md) | None | — | 3 |
+| 513 | [1789602](../reports/1789602.md) | Contacts only sanitizes PHOTO svg if mime type is all lower case | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
+| 514 | [12389](../reports/12389.md) | XSS in the input | [Respondly](../by-program/respondly.md) | None | — | 3 |
+| 515 | [38890](../reports/38890.md) | stored XSS in concrete5 5.7.2.1 | [Concrete CMS](../by-program/concretecms.md) | None | — | 3 |
+| 516 | [133963](../reports/133963.md) | XSS on www.wordpress.com | [Automattic](../by-program/automattic.md) | None | — | 3 |
+| 517 | [50564](../reports/50564.md) | Stored XSS in Contact Form | [Concrete CMS](../by-program/concretecms.md) | None | — | 3 |
+| 518 | [17540](../reports/17540.md) | Reflected XSS in Pastebin-view | [IRCCloud](../by-program/irccloud.md) | None | — | 3 |
+| 519 | [50627](../reports/50627.md) | Stored XSS in title of date navigation | [Concrete CMS](../by-program/concretecms.md) | None | — | 3 |
+| 520 | [23010](../reports/23010.md) | XSS in 3rd party plugin (not affecting Uzbey's users) | [Uzbey](../by-program/uzbey.md) | None | — | 3 |
+| 521 | [172694](../reports/172694.md) | Critical : Malware and XSS file can be uploaded and executed on u | [Udemy](../by-program/udemy.md) | None | — | 3 |
+| 522 | [2652](../reports/2652.md) | Stored XSS in Channel Chat  | [Slack](../by-program/slack.md) | None | — | 3 |
+| 523 | [166699](../reports/166699.md) | Reflected xss on websummit.net | [WebSummit](../by-program/websummit.md) | None | — | 3 |
+| 524 | [111365](../reports/111365.md) | XSS at www.woothemes.com | [Automattic](../by-program/automattic.md) | None | — | 3 |
+| 525 | [97938](../reports/97938.md) | XSS m.imgur.com | [Imgur](../by-program/imgur.md) | None | — | 3 |
+| 526 | [85577](../reports/85577.md) | apps.owncloud.com: Potential XSS | [ownCloud](../by-program/owncloud.md) | None | — | 3 |
+| 527 | [112001](../reports/112001.md) | XSS on gmchat.gm.com | [General Motors](../by-program/gm.md) | None | — | 3 |
+| 528 | [362702](../reports/362702.md) | XSS in express-useragent through HTTP User-Agent | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | None | — | 3 |
+| 529 | [104559](../reports/104559.md) | XSS on codex.wordpress.org | [Automattic](../by-program/automattic.md) | None | — | 3 |
+| 530 | [13506](../reports/13506.md) | Unchecking hidden parameter is vulnerable to XSS-attack | [Khan Academy](../by-program/khanacademy.md) | None | — | 3 |
+| 531 | [143294](../reports/143294.md) | XSS on zomato.com | [Eternal](../by-program/eternal.md) | None | — | 3 |
+| 532 | [18805](../reports/18805.md) | XSS 01 on staging.fct.li | [Factlink](../by-program/factlink.md) | None | — | 3 |
+| 533 | [13703](../reports/13703.md) | xss in app.simplenote.com | [Automattic](../by-program/automattic.md) | None | — | 3 |
+| 534 | [127259](../reports/127259.md) | Reflected XSS in owncloud.com | [ownCloud](../by-program/owncloud.md) | None | — | 3 |
+| 535 | [62400](../reports/62400.md) | XSS on https://www.udemy.com/asset/export.html | [Udemy](../by-program/udemy.md) | None | — | 3 |
+| 536 | [6409](../reports/6409.md) | https://www.khanacademy.org/coach/reports/activity XSS | [Khan Academy](../by-program/khanacademy.md) | None | — | 3 |
+| 537 | [21034](../reports/21034.md) | Invoice Details activate JS that filled in  | [Coinbase](../by-program/coinbase.md) | None | — | 3 |
+| 538 | [63537](../reports/63537.md) | XSS in https://app.mavenlink.com/workspaces/ | [Mavenlink](../by-program/mavenlink.md) | None | — | 3 |
+| 539 | [84371](../reports/84371.md) | apps.owncloud.com: Stored XSS in profile page | [ownCloud](../by-program/owncloud.md) | None | — | 3 |
+| 540 | [32519](../reports/32519.md) | XSS in fabric.io | [X / xAI](../by-program/x.md) | None | — | 3 |
+| 541 | [65324](../reports/65324.md) | XSS on added name album on videos. | [VK.com](../by-program/vkcom.md) | None | — | 2 |
+| 542 | [164520](../reports/164520.md) | Reflected Self-XSS Vulnerability in the Comment section of Files  | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
+| 543 | [155690](../reports/155690.md) | Arbitrary File Upload in Logo & Log in image Theming setting. | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
+| 544 | [56779](../reports/56779.md) | XSS on ecommerce.shopify.com | [Shopify](../by-program/shopify.md) | None | — | 2 |
+| 545 | [73566](../reports/73566.md) | Reflected XSS in chat | [Shopify](../by-program/shopify.md) | None | — | 2 |
+| 546 | [50662](../reports/50662.md) | Stored XSS In Company URL | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
+| 547 | [50782](../reports/50782.md) | Stored XSS in Image Alt. Text | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
+| 548 | [36986](../reports/36986.md) | [Stored XSS] vine.co - profile page | [X / xAI](../by-program/x.md) | None | — | 2 |
+| 549 | [50656](../reports/50656.md) | Stored XSS in testimonial Company | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
+| 550 | [83837](../reports/83837.md) | demo.owncloud.org: Web Server HTTP Trace/Track Method Support Cro | [ownCloud](../by-program/owncloud.md) | None | — | 2 |
+| 551 | [42702](../reports/42702.md) | APIs for channels allow HTML entities that may cause XSS issue | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
+| 552 | [63888](../reports/63888.md) | Cross site scripting | [Enter](../by-program/enter.md) | None | — | 2 |
+| 553 | [59661](../reports/59661.md) | Multiple Reflected Cross Site Scripting Vulnerabilities in Concre | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
+| 554 | [50626](../reports/50626.md) | Stored XSS in Title of the topic List | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
+| 555 | [17287](../reports/17287.md) | email field doesn't filtered against XSS | [Uzbey](../by-program/uzbey.md) | None | — | 2 |
+| 556 | [52822](../reports/52822.md) | XSS with Time-of-Day Format | [Phabricator](../by-program/phabricator.md) | None | — | 2 |
+| 557 | [207781](../reports/207781.md) | Reflected XSS vulnerability in a DoD website  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | None | — | 2 |
+| 558 | [83373](../reports/83373.md) | owncloud.com: Cross Site Tracing | [ownCloud](../by-program/owncloud.md) | None | — | 2 |
+| 559 | [65808](../reports/65808.md) | No CSRF protection when creating new community points actions, an | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
+| 560 | [50556](../reports/50556.md) | Stored XSS on Search Title | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
+| 561 | [111131](../reports/111131.md) | XSS | [Deriv.com](../by-program/deriv.md) | None | — | 2 |
+| 562 | [116135](../reports/116135.md) | Reflected Cross Site Script in www.gmcar.gm.com | [General Motors](../by-program/gm.md) | None | — | 2 |
+| 563 | [81441](../reports/81441.md) | XSS https://delivery.shopifyapps.com/  (Digital Downloads App  in | [Shopify](../by-program/shopify.md) | None | — | 2 |
+| 564 | [7898](../reports/7898.md) | Persistent Cross-site scripting vulnerability settings. | [Respondly](../by-program/respondly.md) | None | — | 2 |
+| 565 | [114151](../reports/114151.md) | Cross Site Scripting - type Patameter | [Eternal](../by-program/eternal.md) | None | — | 2 |
+| 566 | [14303](../reports/14303.md) | http://jetpack.me/ Self XSS | [Automattic](../by-program/automattic.md) | None | — | 2 |
+| 567 | [47349](../reports/47349.md) | Stored xss in user name (2) affected another user. | [Mobile Vikings](../by-program/mobilevikings.md) | None | — | 2 |
+| 568 | [50552](../reports/50552.md) | Stored XSS on Blog's page Tile | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
+| 569 | [50779](../reports/50779.md) | Stored XSS in Bio/Quote | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
+| 570 | [43672](../reports/43672.md) | player.vimeo.com - Reflected XSS Vulnerability | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
+| 571 | [20049](../reports/20049.md) | Cross-site Scripting in mailing (username) | [RelateIQ](../by-program/relateiq.md) | None | — | 2 |
+| 572 | [50642](../reports/50642.md) | Stored Xss in Feature Paragraph | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
+| 573 | [106982](../reports/106982.md) | XSS in imgur mobile | [Imgur](../by-program/imgur.md) | None | — | 2 |
+| 574 | [62861](../reports/62861.md) | Bulk Discount App in myshopify.com exposes http://bulkdiscounts.s | [Shopify](../by-program/shopify.md) | None | — | 2 |
+| 575 | [89505](../reports/89505.md) | Self-XSS in posts by formatting text as code | [Slack](../by-program/slack.md) | None | — | 2 |
+| 576 | [133744](../reports/133744.md) | XSS in Asset name | [Veris](../by-program/veris.md) | None | — | 2 |
+| 577 | [107036](../reports/107036.md) | XSS in imgur mobile 3 | [Imgur](../by-program/imgur.md) | None | — | 2 |
+| 578 | [9148](../reports/9148.md) | XSS Reflected - https://www.stopthehacker.com/ | [StopTheHacker](../by-program/stopthehacker.md) | None | — | 2 |
+| 579 | [13746](../reports/13746.md) | xss in simperium.com | [Automattic](../by-program/automattic.md) | None | — | 2 |
+| 580 | [50645](../reports/50645.md) | Stored XSS in Testimonial Position | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
+| 581 | [90980](../reports/90980.md) | owncloud.com: WP Super Cache plugin is outdated | [ownCloud](../by-program/owncloud.md) | None | — | 2 |
+| 582 | [42248](../reports/42248.md) | Stored XSS in adding fileset | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
+| 583 | [7913](../reports/7913.md) | Import emails from Gmail are activate XSS | [Respondly](../by-program/respondly.md) | None | — | 2 |
+| 584 | [20221](../reports/20221.md) | Cross Site Scripting (Stored)  | [ExpressionEngine](../by-program/expressionengine.md) | None | — | 2 |
+| 585 | [202496](../reports/202496.md) | Stored XSS vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | None | — | 2 |
+| 586 | [16330](../reports/16330.md) | Multiple issues in looking-glass software (aka from web to BGP in | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 2 |
+| 587 | [6843](../reports/6843.md) | Cross-Site Scripting in getMarketplacePurchaseFrame | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
+| 588 | [98012](../reports/98012.md) | Stored XSS on https://www.algolia.com/realtime-search-demo/* | [Algolia](../by-program/algolia.md) | None | — | 2 |
+| 589 | [71614](../reports/71614.md) | XSS in Myshopify Admin Site in DISCOUNTS | [Shopify](../by-program/shopify.md) | None | — | 2 |
+| 590 | [125762](../reports/125762.md) | Reflected XSS on Zomato API | [Eternal](../by-program/eternal.md) | None | — | 2 |
+| 591 | [47343](../reports/47343.md) | Stored xss in user name | [Mobile Vikings](../by-program/mobilevikings.md) | None | — | 2 |
+| 592 | [154397](../reports/154397.md) | [Stored Cross-Site-Scripting] When search about Incoming ( Manual | [Moneybird](../by-program/moneybird.md) | None | — | 2 |
+| 593 | [95640](../reports/95640.md) | Reflected XSS and/or malicious redirection via JWPlayer 6 configu | [Udemy](../by-program/udemy.md) | None | — | 2 |
+| 594 | [62385](../reports/62385.md) | Pretty Photo Dom XSS  | [jsDelivr](../by-program/jsdelivr.md) | None | — | 2 |
+| 595 | [7917](../reports/7917.md) | Find, private notes Cross-site scripting. | [Respondly](../by-program/respondly.md) | None | — | 2 |
+| 596 | [124975](../reports/124975.md) | Cross-site Scripting (XSS) autocomplete generation in https://www | [Uber](../by-program/uber.md) | None | — | 2 |
+| 597 | [136600](../reports/136600.md) | Reflected XSS in Backend search | [Moneybird](../by-program/moneybird.md) | None | — | 2 |
+| 598 | [45484](../reports/45484.md) | XSS on Vimeo | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
+| 599 | [10297](../reports/10297.md) | Stored XSS in slack.com (integrations) | [Slack](../by-program/slack.md) | None | — | 2 |
+| 600 | [106897](../reports/106897.md) | Stored XSS in /admin/orders  | [Shopify](../by-program/shopify.md) | None | — | 2 |
+| 601 | [17235](../reports/17235.md) | Album image XSS | [Uzbey](../by-program/uzbey.md) | None | — | 2 |
+| 602 | [97683](../reports/97683.md) | Reflected Self-XSS in Slack | [Slack](../by-program/slack.md) | None | — | 2 |
+| 603 | [50780](../reports/50780.md) | Stored XSS in Message to Display When No Pages Listed. | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
+| 604 | [34188](../reports/34188.md) | Various Low level Vulnerabilities | [Block.io](../by-program/blockio.md) | None | — | 2 |
+| 605 | [62294](../reports/62294.md) | Multiple XSS Vulnerabilities in Concrete5 5.7.3.1 | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
+| 606 | [60201](../reports/60201.md) | XSS Vulnerability on all pages | [Mobile Vikings](../by-program/mobilevikings.md) | None | — | 2 |
+| 607 | [50554](../reports/50554.md) | Stored XSS on Title of Page List in edit page list | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
+| 608 | [120324](../reports/120324.md) | Multiple Stored XSS | [Veris](../by-program/veris.md) | None | — | 1 |
+| 609 | [42582](../reports/42582.md) | Vimeo.com - Reflected XSS Vulnerability | [Vimeo](../by-program/vimeo.md) | None | — | 1 |
+| 610 | [137845](../reports/137845.md) | Stored XSS on 'Badges' page | [Veris](../by-program/veris.md) | None | — | 1 |
+| 611 | [72526](../reports/72526.md) | Xss via Dropbox | [ThisData](../by-program/thisdata.md) | None | — | 1 |
+| 612 | [83381](../reports/83381.md) | apps.owncloud.com: Multiple reflected XSS by insecure URL generat | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
+| 613 | [121275](../reports/121275.md) | Multiple Stored XSS on Sanbox.veris.in through Veris Frontdesk An | [Veris](../by-program/veris.md) | None | — | 1 |
+| 614 | [123005](../reports/123005.md) | Persistent XSS on Reservation / Booking Page | [Eternal](../by-program/eternal.md) | None | — | 1 |
+| 615 | [111500](../reports/111500.md) | XSS at wordpress.com | [Automattic](../by-program/automattic.md) | None | — | 1 |
+| 616 | [115248](../reports/115248.md) | XSS and CSRF in Zomato Contact form | [Eternal](../by-program/eternal.md) | None | — | 1 |
+| 617 | [136396](../reports/136396.md) | STORED XSS FOUND | [ThisData](../by-program/thisdata.md) | None | — | 1 |
+| 618 | [137938](../reports/137938.md) | Reflected XSS in domain www.veris.in | [Veris](../by-program/veris.md) | None | — | 1 |
+| 619 | [138622](../reports/138622.md) | Self-XSS on partners.uber.com | [Uber](../by-program/uber.md) | None | — | 1 |
+| 620 | [50481](../reports/50481.md) | Self Xss on File Replace | [Concrete CMS](../by-program/concretecms.md) | None | — | 1 |
+| 621 | [61367](../reports/61367.md) | xss on autoserch | [Udemy](../by-program/udemy.md) | None | — | 1 |
+| 622 | [26482](../reports/26482.md) | Stored Cross-Site Scripting Vulnerability in /admin.php?/cp/admin | [ExpressionEngine](../by-program/expressionengine.md) | None | — | 1 |
+| 623 | [116254](../reports/116254.md) | owncloud.com: Persistent XSS In Account Profile | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
+| 624 | [29360](../reports/29360.md) | XSS platform.twitter.com | video-js metadata | [X / xAI](../by-program/x.md) | None | — | 1 |
+| 625 | [123905](../reports/123905.md) | Stored XSS in Access Rules | [Veris](../by-program/veris.md) | None | — | 1 |
+| 626 | [125179](../reports/125179.md) | XSS on love.uber.com | [Uber](../by-program/uber.md) | None | — | 1 |
+| 627 | [120622](../reports/120622.md) | Reflected Cross Site Script in imtportal.gm.com | [General Motors](../by-program/gm.md) | None | — | 1 |
+| 628 | [164922](../reports/164922.md) | XSS found In Your Web | [Gratipay](../by-program/gratipay.md) | None | — | 1 |
+| 629 | [42584](../reports/42584.md) | Vimeo.com - reflected xss vulnerability | [Vimeo](../by-program/vimeo.md) | None | — | 1 |
+| 630 | [141728](../reports/141728.md) | XSS in Blog  | [drchrono](../by-program/drchrono.md) | None | — | 1 |
+| 631 | [76713](../reports/76713.md) | XSS - Gallery Search Listing | [Zaption](../by-program/zaption.md) | None | — | 1 |
+| 632 | [148300](../reports/148300.md) | Full Page Caching Stored XSS Vulnerability | [Concrete CMS](../by-program/concretecms.md) | None | — | 1 |
+| 633 | [103989](../reports/103989.md) | Escaping the iframe via exceptions | [Khan Academy](../by-program/khanacademy.md) | None | — | 0 |
+| 634 | [115402](../reports/115402.md) | XSS via modified Zomato widget (res_search_widget.php) | [Eternal](../by-program/eternal.md) | None | — | 0 |
+| 635 | [116512](../reports/116512.md) | Markdown parsing issue enables insertion of malicious tags | [Gratipay](../by-program/gratipay.md) | None | — | 0 |
+| 636 | [108288](../reports/108288.md) | otrs.owncloud.com: Reflected Cross-Site Scripting | [ownCloud](../by-program/owncloud.md) | None | — | 0 |

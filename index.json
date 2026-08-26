@@ -159043,6 +159043,24 @@
     "votes": 12
   },
   {
+    "id": 2073950,
+    "url": "https://hackerone.com/reports/2073950",
+    "title": "IDOR in one subdomain of \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 -> change information of pets without athorization!",
+    "program": "Mars",
+    "program_handle": "mars",
+    "reporter": "haoshokunoo",
+    "severity": "medium",
+    "cvss": 4.9,
+    "weakness": "Insecure Direct Object Reference (IDOR)",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "WILDCARD",
+    "reported_at": "2023-07-18",
+    "disclosed_at": "2024-02-14",
+    "votes": 44
+  },
+  {
     "id": 2076019,
     "url": "https://hackerone.com/reports/2076019",
     "title": "HTML injection at Company Name or Product Name and can be shown on Contact Sales form",
@@ -159061,6 +159079,42 @@
     "votes": 31
   },
   {
+    "id": 2076786,
+    "url": "https://hackerone.com/reports/2076786",
+    "title": "Host Header Injection - internal.qa.delivery.indrive.com",
+    "program": "inDrive",
+    "program_handle": "indrive",
+    "reporter": "sid_x95",
+    "severity": "low",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "WILDCARD",
+    "reported_at": "2023-07-20",
+    "disclosed_at": "2024-02-12",
+    "votes": 66
+  },
+  {
+    "id": 2077985,
+    "url": "https://hackerone.com/reports/2077985",
+    "title": "Lack of sanitization of the billing address in pdf invoice",
+    "program": "Semrush",
+    "program_handle": "semrush",
+    "reporter": "a_d_a_m",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Server-Side Request Forgery (SSRF)",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "WILDCARD",
+    "reported_at": "2023-07-20",
+    "disclosed_at": "2024-03-06",
+    "votes": 66
+  },
+  {
     "id": 2078490,
     "url": "https://hackerone.com/reports/2078490",
     "title": "Stored xss at https://\u2588.8x8.com/api/\u2588/ID",
@@ -159077,6 +159131,24 @@
     "reported_at": "2023-07-20",
     "disclosed_at": "2023-10-30",
     "votes": 105
+  },
+  {
+    "id": 2078527,
+    "url": "https://hackerone.com/reports/2078527",
+    "title": "Bypassing Garbage Collection with Uppercase Endpoint",
+    "program": "inDrive",
+    "program_handle": "indrive",
+    "reporter": "h1xploit",
+    "severity": null,
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2023-07-21",
+    "disclosed_at": "2023-10-04",
+    "votes": 41
   },
   {
     "id": 2078571,
@@ -159135,6 +159207,26 @@
     "reported_at": "2023-07-21",
     "disclosed_at": "2023-10-13",
     "votes": 17
+  },
+  {
+    "id": 2079103,
+    "url": "https://hackerone.com/reports/2079103",
+    "title": "Permission model improperly processes UNC paths",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "tniessen",
+    "severity": "low",
+    "cvss": 3.6,
+    "weakness": "Privilege Escalation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2024-37372"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-07-21",
+    "disclosed_at": "2024-07-15",
+    "votes": 35
   },
   {
     "id": 2079502,
@@ -177146,6 +177238,26 @@
     "votes": 66
   },
   {
+    "id": 3527788,
+    "url": "https://hackerone.com/reports/3527788",
+    "title": "Add labels to arbitrary issues/prs via Memex Bulk Update to compromise github actions label gating ",
+    "program": "GitHub",
+    "program_handle": "github",
+    "reporter": "ahacker1",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Insecure Direct Object Reference (IDOR)",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-3306"
+    ],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-01-27",
+    "disclosed_at": "2026-08-25",
+    "votes": 7
+  },
+  {
     "id": 3531216,
     "url": "https://hackerone.com/reports/3531216",
     "title": "MQTT Protocol Packet Injection via Unchecked CONNACK Remaining Length",
@@ -183106,6 +183218,24 @@
     "votes": 12
   },
   {
+    "id": 3889473,
+    "url": "https://hackerone.com/reports/3889473",
+    "title": "@jitsi/docker-jitsi-meet: `/colibri-relay-ws/` unsafe nginx regex (OCTO relay configuration)",
+    "program": "8x8",
+    "program_handle": "8x8-bounty",
+    "reporter": "a3z4km3",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Cross-site Scripting (XSS) - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-07-25",
+    "disclosed_at": "2026-08-25",
+    "votes": 12
+  },
+  {
     "id": 3911605,
     "url": "https://hackerone.com/reports/3911605",
     "title": "SMTP CRLF injection in custom SMTP recipient operand allows additional SMTP commands after authentication",
@@ -183270,6 +183400,24 @@
     "votes": 6
   },
   {
+    "id": 3963330,
+    "url": "https://hackerone.com/reports/3963330",
+    "title": "libcurl Digest/NTLM authentication ignores an explicit Authorization header",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "subadevan",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Incorrect Authorization",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-23",
+    "disclosed_at": "2026-08-25",
+    "votes": 5
+  },
+  {
     "id": 3963494,
     "url": "https://hackerone.com/reports/3963494",
     "title": "RTSP CRLF injection in libcurl allows CURLOPT_RTSP_* values to inject commands into independent sessions",
@@ -183304,5 +183452,25 @@
     "reported_at": "2026-08-23",
     "disclosed_at": "2026-08-24",
     "votes": 1
+  },
+  {
+    "id": 3966955,
+    "url": "https://hackerone.com/reports/3966955",
+    "title": "TLS session cache case-folds CA paths and bypasses the active trust profile",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "1rhino2",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Improper Certificate Validation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2021-22924"
+    ],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-25",
+    "disclosed_at": "2026-08-25",
+    "votes": 6
   }
 ]

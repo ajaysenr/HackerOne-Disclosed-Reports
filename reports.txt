@@ -9667,6 +9667,7 @@ https://hackerone.com/reports/3523703 | Password Strength Policy Bypass via Serv
 https://hackerone.com/reports/3523953 | wcurl Argument Injection via Unquoted Variable
 https://hackerone.com/reports/3524779 | DoS via Unbounded Memory Allocation in sendWebStream on Fastify v5.7.0+ leads to OOM crash when backpressure is ignored
 https://hackerone.com/reports/3527771 | Add labels to arbitrary issues/prs & compromise github actions label checks
+https://hackerone.com/reports/3527788 | Add labels to arbitrary issues/prs via Memex Bulk Update to compromise github actions label gating
 https://hackerone.com/reports/3531216 | MQTT Protocol Packet Injection via Unchecked CONNACK Remaining Length
 https://hackerone.com/reports/3531737 | Memory leak in Node.js HTTP/2 server via WINDOW_UPDATE on stream 0 leads to resource exhaustion
 https://hackerone.com/reports/3533945 | Timing side-channel in HMAC verification via memcmp() in crypto_hmac.cc leads to potential MAC forgery
@@ -9984,6 +9985,7 @@ https://hackerone.com/reports/3852135 | DDP methods getThreadsList / getThreadMe
 https://hackerone.com/reports/3872858 | Stored HTML Injection (CWE-79) via Livechat Visitor Name
 https://hackerone.com/reports/3873072 | Unauthenticated SQL Injection via REST Batch Route Confusion ████████
 https://hackerone.com/reports/3878586 | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, hide_from_lists) and uses frozen visibility, exposing donat
+https://hackerone.com/reports/3889473 | @jitsi/docker-jitsi-meet: `/colibri-relay-ws/` unsafe nginx regex (OCTO relay configuration)
 https://hackerone.com/reports/3911605 | SMTP CRLF injection in custom SMTP recipient operand allows additional SMTP commands after authentication
 https://hackerone.com/reports/3911968 | Heap use-after-free (write) in mev_forget_socket() via reentrant curl_easy_pause() — incomplete fix for CVE-2026-9080
 https://hackerone.com/reports/3917775 | curl Missing Sec-WebSocket-Accept Verification Enables MITM WebSocket Session Hijacking
@@ -9993,5 +9995,7 @@ https://hackerone.com/reports/3930957 | Myndr CORS Misconfiguration
 https://hackerone.com/reports/3938185 | Windows SSPI connection-pool probe can reuse a connection under the wrong user
 https://hackerone.com/reports/3938220 | libcurl cache updates follow symlinks and truncate their targets
 https://hackerone.com/reports/3952619 | Domainless COOKIEFILE cookie leaks to unrelated IP-literal hosts
+https://hackerone.com/reports/3963330 | libcurl Digest/NTLM authentication ignores an explicit Authorization header
 https://hackerone.com/reports/3963494 | RTSP CRLF injection in libcurl allows CURLOPT_RTSP_* values to inject commands into independent sessions
 https://hackerone.com/reports/3963725 | wolfSSL backend disables hostname verification when CURLOPT_SSL_VERIFYPEER is 0
+https://hackerone.com/reports/3966955 | TLS session cache case-folds CA paths and bypasses the active trust profile

@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1768 total)
+# High/Critical Severity — No Bounty Paid (1769 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -825,6 +825,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [2372018](../reports/2372018.md) | Non Org Admin/Group Manager can create groups in an organization | [HackerOne](../by-program/security.md) | High — CVSS 7.5 | Resolved | 67 |
 | [205000](../reports/205000.md) | Authorization bypass using login by phone option+horizontal escal | [Grab](../by-program/grab.md) | High — CVSS 7.5 | Resolved | 67 |
 | [1069039](../reports/1069039.md) | GPS metadata preserved when converting HEIF to PNG | [Reddit](../by-program/reddit.md) | High | Resolved | 67 |
+| [2077985](../reports/2077985.md) | Lack of sanitization of the billing address in pdf invoice | [Semrush](../by-program/semrush.md) | High | Resolved | 66 |
 | [206650](../reports/206650.md) | Broken Authentication - Security token gets captured via man in t | [Automattic](../by-program/automattic.md) | High | Resolved | 66 |
 | [1115864](../reports/1115864.md) | Persistant Arbitrary code execution in mattermost android | [Mattermost](../by-program/mattermost.md) | High — CVSS 7.8 | Resolved | 66 |
 | [2319584](../reports/2319584.md) | "Assertion failed" in node::http2::Http2Session::~Http2Session()  | [Node.js](../by-program/nodejs.md) | High — CVSS 8.2 | Resolved | 65 |
