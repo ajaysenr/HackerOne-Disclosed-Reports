@@ -8698,6 +8698,7 @@ https://hackerone.com/reports/2078707 | Exposing Django Debug Panel and Sensitiv
 https://hackerone.com/reports/2079103 | Permission model improperly processes UNC paths
 https://hackerone.com/reports/2079502 | Unauthorized Ticket can be created by an Attacker in user's Helpdesk account
 https://hackerone.com/reports/2081316 | Blind Sql Injection in https://█████/qsSearch.aspx
+https://hackerone.com/reports/2081332 | LDAP Anonymous Login enabled in ████
 https://hackerone.com/reports/2081744 | Deny Admin from Editing LinkedIn Company Page using Gen Form Visibility via POST /voyager/api/voyagerOrganizationDashCompanies/{id}
 https://hackerone.com/reports/2081930 | Bypass report submit restriction/ban using the API key
 https://hackerone.com/reports/2082528 | Adobe ColdFusion - Access Control Bypass [CVE-2023-38205] at ██████
