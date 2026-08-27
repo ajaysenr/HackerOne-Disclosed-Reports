@@ -1,4 +1,4 @@
-# Discourse — Disclosed Reports (18 total)
+# Discourse — Disclosed Reports (19 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -21,4 +21,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 15 | [197443](../reports/197443.md) | XSS in topics because of bandcamp preview engine vulnerabili | High | — | 15 | [skavans](https://hackerone.com/skavans) | 2017-01-20 |
 | 16 | [197902](../reports/197902.md) | Stored XSS in topics because of whitelisted_generic engine v | High | — | 13 | [skavans](https://hackerone.com/skavans) | 2017-01-20 |
 | 17 | [197914](../reports/197914.md) | Stored XSS in posts because of absence of oembed variables v | High | — | 13 | [skavans](https://hackerone.com/skavans) | 2017-01-20 |
-| 18 | [260697](../reports/260697.md) | CSRF-tokens on pages without no-cache headers, resulting in  | Low | — | 56 | [fransrosen](https://hackerone.com/fransrosen) | 2018-08-08 |
+| 18 | [3689633](../reports/3689633.md) | Hidden/restricted tags can be mutated through synonym ID pat | Medium — CVSS 4.3 | — | 14 | [ahpuh](https://hackerone.com/ahpuh) | 2026-08-26 |
+| 19 | [260697](../reports/260697.md) | CSRF-tokens on pages without no-cache headers, resulting in  | Low | — | 56 | [fransrosen](https://hackerone.com/fransrosen) | 2018-08-08 |

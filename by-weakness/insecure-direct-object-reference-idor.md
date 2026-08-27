@@ -1,4 +1,4 @@
-# Weakness: Insecure Direct Object Reference (IDOR) (241 reports)
+# Weakness: Insecure Direct Object Reference (IDOR) (243 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -57,191 +57,193 @@
 | 51 | [1770858](../reports/1770858.md) | IDOR vulnerability reveals additional information | [Semrush](../by-program/semrush.md) | Critical — CVSS 9.9 | — | 95 |
 | 52 | [2756402](../reports/2756402.md) | █████████ when adding branches to your account | [Mars](../by-program/mars.md) | Critical — CVSS 9.3 | — | 92 |
 | 53 | [1096560](../reports/1096560.md) | Ability to add arbitrary images/descriptions/titles to ohter peop | [X / xAI](../by-program/x.md) | Critical | — | 63 |
-| 54 | [1695454](../reports/1695454.md) | IDOR in API applications (able to see any API token, leads to acc | [Automattic](../by-program/automattic.md) | Critical | — | 54 |
-| 55 | [2456603](../reports/2456603.md) | Insecure Direct Object Reference Protection bypass by changing HT | [IBM](../by-program/ibm.md) | Critical — CVSS 9.3 | — | 53 |
-| 56 | [950881](../reports/950881.md) | IDOR when editing email leads to Account Takeover on Atavist | [Automattic](../by-program/automattic.md) | Critical | — | 48 |
-| 57 | [1272478](../reports/1272478.md) | IDOR Leads To Account Takeover Without User Interaction | [MTN Group](../by-program/mtn_group.md) | Critical | — | 30 |
-| 58 | [1448550](../reports/1448550.md) | Remove Every User, Admin, And Owner Out Of Their Teams on develop | [MTN Group](../by-program/mtn_group.md) | Critical | — | 26 |
-| 59 | [969223](../reports/969223.md) | IDOR to Account Takeover on https://████/index.html | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 26 |
-| 60 | [429000](../reports/429000.md) | Access to all █████████ files, including CAC authentication bypas | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 23 |
-| 61 | [265284](../reports/265284.md) | 'cnvID' parameter vulnerable to Insecure Direct Object References | [Concrete CMS](../by-program/concretecms.md) | Critical | — | 20 |
-| 62 | [1004750](../reports/1004750.md) | IDOR + Account Takeover  [UNAUTHENTICATED] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 15 |
-| 63 | [1744264](../reports/1744264.md) |  read and message other user's messages | [Reddit](../by-program/reddit.md) | Critical | — | 12 |
-| 64 | [1536936](../reports/1536936.md) | Unprotected Direct Object Reference | [MTN Group](../by-program/mtn_group.md) | Critical | — | 11 |
-| 65 | [388554](../reports/388554.md) | ████ █████ exposes highly sensitive information to public | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 7 |
-| 66 | [751577](../reports/751577.md) | IDOR allow access to payments data of any user | [Nord Security](../by-program/nordsecurity.md) | High | — | 384 |
-| 67 | [1969141](../reports/1969141.md) | Insecure Direct Object Reference (IDOR) - Delete Campaigns   | [HackerOne](../by-program/security.md) | High — CVSS 8.3 | — | 342 |
-| 68 | [3154983](../reports/3154983.md) | IDOR: Account Deletion via Session Misbinding – Attacker Can Dele | [Mozilla](../by-program/mozilla.md) | High | — | 231 |
-| 69 | [1661113](../reports/1661113.md) | IDOR allows an attacker to modify the links of any user | [Reddit](../by-program/reddit.md) | High | — | 202 |
-| 70 | [974222](../reports/974222.md) | IDOR leads to Edit Anyone's Blogs / Websites | [Automattic](../by-program/automattic.md) | High | — | 175 |
-| 71 | [534794](../reports/534794.md) | Importing GitLab project archives can replace uploads of other us | [GitLab](../by-program/gitlab.md) | High — CVSS 7.5 | — | 146 |
-| 72 | [1733627](../reports/1733627.md) | IDOR for changing privacy settings on any memories | [TikTok](../by-program/tiktok.md) | High | — | 119 |
-| 73 | [1716300](../reports/1716300.md) | Unauthorized User can View Subscribers of Other Users Newsletters | [LinkedIn](../by-program/linkedin.md) | High — CVSS 7.5 | — | 117 |
-| 74 | [1777095](../reports/1777095.md) | Unauthorized access to resumes stored on LinkedIn | [LinkedIn](../by-program/linkedin.md) | High — CVSS 7.5 | — | 112 |
-| 75 | [2374730](../reports/2374730.md) | Broken Access Control (IDOR) in Booking Detail and Bids Could Lea | [Bykea](../by-program/bykea.md) | High | — | 99 |
-| 76 | [915127](../reports/915127.md) | IDOR when moving contents at CrowdSignal | [Automattic](../by-program/automattic.md) | High | — | 92 |
-| 77 | [2291999](../reports/2291999.md) | An attacker can submit arbitrary projects to their service accoun | [LinkedIn](../by-program/linkedin.md) | High — CVSS 8.2 | — | 90 |
-| 78 | [1034346](../reports/1034346.md) | Security@ email forwarding and Embedded Submission drafts can be  | [HackerOne](../by-program/security.md) | High — CVSS 7.5 | — | 89 |
-| 79 | [1808719](../reports/1808719.md) | Attackers can use TRIAL Premium only by paying **IDR 10,000.00**  | [LinkedIn](../by-program/linkedin.md) | High — CVSS 7.5 | — | 83 |
-| 80 | [3506183](../reports/3506183.md) | Missing Access Control in MigrationFile allows attacker to upload | [GitHub](../by-program/github.md) | High | — | 83 |
-| 81 | [984965](../reports/984965.md) | Cross-Tenant IDOR ( graphql `AddRulesToPixelEvents` query ) allow | [TikTok](../by-program/tiktok.md) | High — CVSS 7.5 | — | 83 |
-| 82 | [2382484](../reports/2382484.md) | IDOR on Delete Email address features | [Mozilla](../by-program/mozilla.md) | High | — | 79 |
-| 83 | [2968039](../reports/2968039.md) | Insecure Direct Object Reference (IDOR) in GraphQL deleteProfileI | [Autodesk](../by-program/autodesk.md) | High | — | 75 |
-| 84 | [2944357](../reports/2944357.md) | Unauthorized Reservation Cancellation Through IDOR Vulnerability | [Yelp](../by-program/yelp.md) | High — CVSS 8.6 | — | 74 |
-| 85 | [1148697](../reports/1148697.md) | Chain of IDORs Between U4B and Vouchers APIs Allows Attackers to  | [Uber](../by-program/uber.md) | High — CVSS 8.1 | — | 63 |
-| 86 | [2393021](../reports/2393021.md) | Upload profile photo and  Pets addition - IDOR | [Mars](../by-program/mars.md) | High | — | 61 |
-| 87 | [1061292](../reports/1061292.md) | TAMS registration details API for admins open at https://tamsapi. | [U.S. General Services Administration](../by-program/gsa_vdp.md) | High — CVSS 7.5 | — | 58 |
-| 88 | [1744194](../reports/1744194.md) | Business Suite "Get Leads" Resulting in Revealing User Email & Ph | [TikTok](../by-program/tiktok.md) | High — CVSS 7.1 | — | 51 |
-| 89 | [1373784](../reports/1373784.md) | Able to steal private files by manipulating response using Compos | [Lark Technologies](../by-program/lark_technologies.md) | High | — | 49 |
-| 90 | [1410498](../reports/1410498.md) | IDOR: leak buyer info & Publish/Hide foreign comments | [Judge.me ](../by-program/judgeme.md) | High — CVSS 7.5 | — | 44 |
-| 91 | [316789](../reports/316789.md) | Able to purchase a gift card with any amount | [Starbucks](../by-program/starbucks.md) | High — CVSS 8.3 | — | 40 |
-| 92 | [1848176](../reports/1848176.md) | IDOR in TalentMAP API can be abused to enumerate personal informa | [U.S. Department of State](../by-program/us-department-of-state.md) | High — CVSS 7.5 | — | 38 |
-| 93 | [1387320](../reports/1387320.md) | Able to steal private files by manipulating response using Auto R | [Lark Technologies](../by-program/lark_technologies.md) | High — CVSS 7.5 | — | 38 |
-| 94 | [766437](../reports/766437.md) | Thailand - Insecure Direct Object Reference permits an unauthoriz | [Starbucks](../by-program/starbucks.md) | High — CVSS 7.6 | — | 35 |
-| 95 | [269937](../reports/269937.md) | [www.zomato.com] IDOR - Leaking all Personal Details of all Zomat | [Eternal](../by-program/eternal.md) | High — CVSS 7.5 | — | 32 |
-| 96 | [1952771](../reports/1952771.md) | ████ ' can change any account email and cannot retrieve his accou | [Mars](../by-program/mars.md) | High — CVSS 7.8 | — | 32 |
-| 97 | [964010](../reports/964010.md) | IDOR - Other user's delivery address disclosed | [Azbuka Vkusa](../by-program/av.md) | High — CVSS 7.5 | — | 28 |
-| 98 | [1196976](../reports/1196976.md) | IDOR while uploading ████ attachments at [█████████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 26 |
-| 99 | [674195](../reports/674195.md) | Stealing data from customers.gitlab.com without user interaction | [GitLab](../by-program/gitlab.md) | High — CVSS 8.1 | — | 24 |
-| 100 | [1066203](../reports/1066203.md) | GRAPHQL cross-tenant IDOR giving write access thought the operati | [Stripe](../by-program/stripe.md) | High | — | 24 |
-| 101 | [2587953](../reports/2587953.md) | Email Takeover leads to permanent account deletion | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 23 |
-| 102 | [888729](../reports/888729.md) | Read-Only user can delete users | [Helium](../by-program/helium.md) | High | — | 18 |
-| 103 | [344284](../reports/344284.md) | View & add to cart unlisted items via IDOR | [Instacart](../by-program/instacart.md) | High | — | 18 |
-| 104 | [685338](../reports/685338.md) | Unauth IDOR to mass account takeover without user interaction on  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 17 |
-| 105 | [1004745](../reports/1004745.md) | View another user information with IDOR vulnerability  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 11 |
-| 106 | [1489470](../reports/1489470.md) | Authorization bypass -> IDOR -> PII Leakage | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 11 |
-| 107 | [847452](../reports/847452.md) | Full Account Take-Over of ████████ Members via IDOR | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 9 |
-| 108 | [978768](../reports/978768.md) | Adding everyone to the repo due to the lack of rate limit | [GitLab](../by-program/gitlab.md) | High | — | 8 |
-| 109 | [3734326](../reports/3734326.md) | Autotranslate DDP Method Exposes Private Messages Without Authent | [Rocket.Chat](../by-program/rocket_chat.md) | High — CVSS 7.5 | — | 8 |
-| 110 | [959697](../reports/959697.md) | Idor for firstpromoter service | [Dropcontact](../by-program/dropcontact.md) | High | — | 7 |
-| 111 | [703058](../reports/703058.md) | Insecure redirect rule results in bypassing ban redirect on certa | [Roblox](../by-program/roblox.md) | Medium — CVSS 5.4 | — | 229 |
-| 112 | [2218334](../reports/2218334.md) | IDOR vulnerability in unreleased HackerOne Copilot feature | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 204 |
-| 113 | [2633771](../reports/2633771.md) | IDOR Vulnerability at AddTagToAssets operation name | [HackerOne](../by-program/security.md) | Medium — CVSS 5.3 | — | 167 |
-| 114 | [2868084](../reports/2868084.md) | Unauthorized Access to TikTok Account [Private Videos] via API En | [TikTok](../by-program/tiktok.md) | Medium — CVSS 5.3 | — | 161 |
-| 115 | [1403176](../reports/1403176.md) | IDOR vulnerability (Price manipulation) | [Acronis](../by-program/acronis.md) | Medium | — | 145 |
-| 116 | [990878](../reports/990878.md) | IDOR in https://3d.cs.money/ | [CS Money](../by-program/cs_money.md) | Medium | — | 126 |
-| 117 | [3085742](../reports/3085742.md) | IDOR on in-app hardcoded zombie endpoint   | [Bykea](../by-program/bykea.md) | Medium — CVSS 5.3 | — | 125 |
-| 118 | [1116387](../reports/1116387.md) | IDOR leads to leak analytics of any restaurant | [Uber](../by-program/uber.md) | Medium — CVSS 6.5 | — | 122 |
-| 119 | [1137819](../reports/1137819.md) | IDOR leads to See analytics of Loyalty Program in any restaurant. | [Uber](../by-program/uber.md) | Medium — CVSS 4.3 | — | 110 |
-| 120 | [1328278](../reports/1328278.md) | User can pay using archived price by manipulating the request sen | [Stripe](../by-program/stripe.md) | Medium — CVSS 5.9 | — | 96 |
-| 121 | [1608735](../reports/1608735.md) | IDOR allows an attacker to delete anyone's featured photo. | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 6.5 | — | 94 |
-| 122 | [1888545](../reports/1888545.md) | IDOR - send a message on behalf of other user  | [Mozilla](../by-program/mozilla.md) | Medium — CVSS 6.5 | — | 78 |
-| 123 | [1734639](../reports/1734639.md) | IDOR to make someone attend or leave an event | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 6.5 | — | 78 |
-| 124 | [2867022](../reports/2867022.md) | Improper Access Control Allows Trip Hijacking and Passenger/Drive | [Bykea](../by-program/bykea.md) | Medium | — | 76 |
-| 125 | [717729](../reports/717729.md) | Reporter, external users, collaborators can mark sent swag awarde | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 75 |
-| 126 | [2861888](../reports/2861888.md) | Ability to increase any customer offered fare (BAC) | [Bykea](../by-program/bykea.md) | Medium | — | 71 |
-| 127 | [2965357](../reports/2965357.md) | Insecure Direct Object Reference (IDOR) Vulnerability in Autodesk | [Autodesk](../by-program/autodesk.md) | Medium — CVSS 5.9 | — | 70 |
-| 128 | [1656380](../reports/1656380.md) | Reddit talk promotion offers don't expire, allowing users to acce | [Reddit](../by-program/reddit.md) | Medium — CVSS 5.0 | — | 68 |
-| 129 | [3604288](../reports/3604288.md) | Access to Deactivated LinkedIn Company Pages via Competitor Analy | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 5.3 | — | 66 |
-| 130 | [1947924](../reports/1947924.md) | Insecure Direct Object Reference allows Crew Invite deletion | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 66 |
-| 131 | [3527771](../reports/3527771.md) | Add labels to arbitrary issues/prs & compromise github actions la | [GitHub](../by-program/github.md) | Medium | — | 66 |
-| 132 | [469372](../reports/469372.md) | Web protection component in Anti-Virus products family uses predi | [Kaspersky](../by-program/kaspersky.md) | Medium | — | 64 |
-| 133 | [2962056](../reports/2962056.md) | IDOR Vulnerability Allowing Unauthorized Profile Picture Change | [Autodesk](../by-program/autodesk.md) | Medium — CVSS 5.3 | — | 64 |
-| 134 | [717716](../reports/717716.md) | Any user with access to program can resume and suspend HackerOne  | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 64 |
-| 135 | [1581528](../reports/1581528.md) | Can access the job name, creator name and can report any draft/un | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 5.3 | — | 63 |
-| 136 | [1555376](../reports/1555376.md) | IDOR on Tagged People | [TikTok](../by-program/tiktok.md) | Medium — CVSS 6.5 | — | 62 |
-| 137 | [797685](../reports/797685.md) | IDOR in marketing calendar tool | [Semrush](../by-program/semrush.md) | Medium — CVSS 5.0 | — | 62 |
-| 138 | [2586584](../reports/2586584.md) | IDOR leads to PII Leak | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 61 |
-| 139 | [2322663](../reports/2322663.md) | Insecure direct Object Reference(Horizontal Escalation) | [MTN Group](../by-program/mtn_group.md) | Medium — CVSS 6.5 | — | 59 |
-| 140 | [1737943](../reports/1737943.md) | IDOR may allow access to non-public photos | [Flickr](../by-program/flickr.md) | Medium — CVSS 5.9 | — | 57 |
-| 141 | [1644436](../reports/1644436.md) | IDOR in Stats API Endpoint Allows Viewing Equity or Net Profit of | [EXNESS](../by-program/exness.md) | Medium | — | 55 |
-| 142 | [2357113](../reports/2357113.md) | Unauthorized Access to Offline Publication Cover Pages via SOURCE | [Publitas](../by-program/publitas.md) | Medium — CVSS 5.3 | — | 55 |
-| 143 | [2894018](../reports/2894018.md) | Lack of Feedback Validation Permits Arbitrary Driver Ratings | [Bykea](../by-program/bykea.md) | Medium — CVSS 5.3 | — | 54 |
-| 144 | [783708](../reports/783708.md) | IDOR in semrush academy | [Semrush](../by-program/semrush.md) | Medium | — | 48 |
-| 145 | [2073950](../reports/2073950.md) | IDOR in one subdomain of █████████ -> change information of pets  | [Mars](../by-program/mars.md) | Medium — CVSS 4.9 | — | 44 |
-| 146 | [1813450](../reports/1813450.md) | Attackers do not need to Pay for a Subscription to get the `Discu | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 5.3 | — | 43 |
-| 147 | [1837309](../reports/1837309.md) | Anyone can view the results of linkedin skill test -if failed to  | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 5.3 | — | 42 |
-| 148 | [2586641](../reports/2586641.md) | IDOR  leads to view other user Biographical details (Possible PII | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 40 |
-| 149 | [946323](../reports/946323.md) | [IDOR] Modify other team's reminders via reminderId parameter | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 5.3 | — | 39 |
-| 150 | [2586662](../reports/2586662.md) | IDOR : Modify other users demographic details | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 38 |
-| 151 | [909863](../reports/909863.md) | Low privileged user can create high privileged user's KITCRM auth | [Shopify](../by-program/shopify.md) | Medium | — | 37 |
-| 152 | [322661](../reports/322661.md) | Replace other user files in Inbox messages  | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.7 | — | 37 |
-| 153 | [547663](../reports/547663.md) | IDOR in changing shared file name | [Trint Ltd](../by-program/trint.md) | Medium — CVSS 4.2 | — | 34 |
-| 154 | [3382343](../reports/3382343.md) | BOLA/IDOR in Out-of-Office API allows any authenticated user to r | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.5 | — | 34 |
-| 155 | [1784681](../reports/1784681.md) | Ability to read any emails through IDOR on Nextcloud Mail | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.1 | — | 33 |
-| 156 | [1654657](../reports/1654657.md) | Add products to any livestream. | [TikTok](../by-program/tiktok.md) | Medium — CVSS 6.4 | — | 33 |
-| 157 | [361984](../reports/361984.md) | I.D.O.R TO EDIT ALL USER'S CREDIT CARD INFORMATION+(Partial credi | [Yelp](../by-program/yelp.md) | Medium — CVSS 4.3 | — | 31 |
-| 158 | [291721](../reports/291721.md) | IDOR on Program Visibilty (Revealed / Concealed) against other te | [HackerOne](../by-program/security.md) | Medium | — | 31 |
-| 159 | [230328](../reports/230328.md) | IDOR unsubscribe Anyone from NextClouds Newsletters by knowing th | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 28 |
-| 160 | [2112973](../reports/2112973.md) | Enabling Birthday Contact to any user | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 27 |
-| 161 | [1965640](../reports/1965640.md) | ████ ' can add animal to other account ' at ██████ | [Mars](../by-program/mars.md) | Medium | — | 26 |
-| 162 | [1159367](../reports/1159367.md) | Access control vulnerability (read-only) | [EXNESS](../by-program/exness.md) | Medium | — | 24 |
-| 163 | [1690044](../reports/1690044.md) | IDOR leaking PII data via VendorId parameter | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 23 |
-| 164 | [1005020](../reports/1005020.md) | Identify unique user ID of all the profiles  | [Bumble](../by-program/bumble.md) | Medium | — | 23 |
-| 165 | [245872](../reports/245872.md) | [IDOR] The authenticated user can restart website build or view b | [GSA Bounty](../by-program/gsa_bbp.md) | Medium | — | 22 |
-| 166 | [1818969](../reports/1818969.md) | [ Continuation Report from #1814842 ] Can create articles using o | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 5.3 | — | 22 |
-| 167 | [914331](../reports/914331.md) | IDOR on notes to HTML injection | [Palo Alto Software](../by-program/palo_alto_software.md) | Medium | — | 21 |
-| 168 | [1947376](../reports/1947376.md) | ███████  ' can delete any animal from other account  '  at ██████ | [Mars](../by-program/mars.md) | Medium | — | 21 |
-| 169 | [194594](../reports/194594.md) | IDOR on partners.uber.com allows for a driver to override adminis | [Uber](../by-program/uber.md) | Medium | — | 21 |
-| 170 | [915133](../reports/915133.md) | IDOR at 'media_code' when addings media to questions | [Automattic](../by-program/automattic.md) | Medium | — | 21 |
-| 171 | [1587374](../reports/1587374.md) | Campaign Account Balance and History Disclosed in API Response | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 5.3 | — | 20 |
-| 172 | [1174734](../reports/1174734.md) | Access control vulnerability (read/write) | [EXNESS](../by-program/exness.md) | Medium | — | 20 |
-| 173 | [1505609](../reports/1505609.md) | Read Other Users Reports Through Cloning | [U.S. General Services Administration](../by-program/gsa_vdp.md) | Medium — CVSS 6.5 | — | 18 |
-| 174 | [318751](../reports/318751.md) | Access to Private Photos of Apps in App section(IDOR) | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.6 | — | 18 |
-| 175 | [783117](../reports/783117.md) | IDOR at https://account.mackeeper.com/at/load-reports/profile/<pr | [Clario](../by-program/clario.md) | Medium — CVSS 5.0 | — | 18 |
-| 176 | [389250](../reports/389250.md) | IDOR | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 18 |
-| 177 | [1808149](../reports/1808149.md) | Attackers can create unlimited jobs by paying a low price `( Rp.  | [LinkedIn](../by-program/linkedin.md) | Medium | — | 18 |
-| 178 | [1118638](../reports/1118638.md) | IDOR at training.smartpay.gsa.gov/reports/quizzes-taken-by-user | [U.S. General Services Administration](../by-program/gsa_vdp.md) | Medium — CVSS 4.3 | — | 17 |
-| 179 | [1825227](../reports/1825227.md) | Session mismatch leading to potential account takeover (local acc | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | Medium — CVSS 5.0 | — | 16 |
-| 180 | [317332](../reports/317332.md) | Improper access control on adding a Register to an Outlet | [Vend VDP](../by-program/vend_vdp.md) | Medium — CVSS 4.9 | — | 16 |
-| 181 | [952095](../reports/952095.md) | Deleting someone else's profile image with a GraphQL query in pro | [LY Corporation](../by-program/line.md) | Medium — CVSS 4.3 | — | 15 |
-| 182 | [912161](../reports/912161.md) | Messages disclosure via search feature of other users group(Cross | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 6.5 | — | 14 |
-| 183 | [701160](../reports/701160.md) | India - An Insecure Direct Object Reference (IDOR) allowed unauth | [Starbucks](../by-program/starbucks.md) | Medium — CVSS 5.0 | — | 13 |
-| 184 | [1048540](../reports/1048540.md) | IDOR on https://██████ via POST UID enables database scraping | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 13 |
-| 185 | [230870](../reports/230870.md) | Arbitary file download vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 13 |
-| 186 | [1450117](../reports/1450117.md) | Nextcloud Deck : Possibility for anyone to add a stack with exist | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.0 | — | 12 |
-| 187 | [1679276](../reports/1679276.md) | IDOR able to buy a plan with lesser fee | [Automattic](../by-program/automattic.md) | Medium | — | 11 |
-| 188 | [1174387](../reports/1174387.md) | Acess control vulnerability (read/write) | [EXNESS](../by-program/exness.md) | Medium | — | 11 |
-| 189 | [215384](../reports/215384.md) | [Subgroups] Unprivileged User Can Disclose Private Group Names | [GitLab](../by-program/gitlab.md) | Medium | — | 10 |
-| 190 | [313050](../reports/313050.md) | IDOR in treat subscriptions | [Eternal](../by-program/eternal.md) | Medium | — | 10 |
-| 191 | [230714](../reports/230714.md) | Arbitary file download vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 10 |
-| 192 | [498351](../reports/498351.md) | [█████] Get all tickets (IDOR) | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 9 |
-| 193 | [1627974](../reports/1627974.md) | IDOR on ███████ [HtUS] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 6.5 | — | 8 |
-| 194 | [3560256](../reports/3560256.md) | Cross-repository IDOR in `/settings/security_analysis/bypass_revi | [GitHub](../by-program/github.md) | Medium | — | 7 |
-| 195 | [3527788](../reports/3527788.md) | Add labels to arbitrary issues/prs via Memex Bulk Update to compr | [GitHub](../by-program/github.md) | Medium | — | 7 |
-| 196 | [230026](../reports/230026.md) | Insecure Direct Object Reference on in-scope .mil website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
-| 197 | [450882](../reports/450882.md) | Able to bypass information requirements before launching a Chat. | [Starbucks](../by-program/starbucks.md) | Medium | — | 6 |
-| 198 | [1579820](../reports/1579820.md) | Ownership check missing when updating or deleting attachments | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.4 | — | 6 |
-| 199 | [3799010](../reports/3799010.md) | TaskProcessing callback authorization bypass allows ex-members to | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 5 |
-| 200 | [800608](../reports/800608.md) | IDOR - Delete Users Saved Projects | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
-| 201 | [3780709](../reports/3780709.md) | Missing ownership validation allows cross‑manager tracker–campaig | [Revive Adserver](../by-program/revive_adserver.md) | Medium — CVSS 4.3 | — | 3 |
-| 202 | [3713682](../reports/3713682.md) | IDOR: autotranslate.translateMessage Full Message Content Leak | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 5.3 | — | 0 |
-| 203 | [536853](../reports/536853.md) | Unreleased CTF Levels are Revealed on /group/user/ID1?user=USERID | [HackerOne](../by-program/security.md) | Low — CVSS 2.4 | — | 160 |
-| 204 | [2028450](../reports/2028450.md) | IDOR vulnerability leads to Deleting message after leaving/gettin | [Rocket.Chat](../by-program/rocket_chat.md) | Low | — | 85 |
-| 205 | [2921830](../reports/2921830.md) | Unauthorized Access to Private Video Description via Translation  | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.7 | — | 78 |
-| 206 | [262661](../reports/262661.md) | IDOR on HackerOne Feedback Review | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | — | 76 |
-| 207 | [510759](../reports/510759.md) | IDOR in Report CSV export discloses the IDs of Custom Field Attri | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | — | 65 |
-| 208 | [983070](../reports/983070.md) | IDOR when creating App on [platform.streamlabs.com/api/v1/store/w | [Logitech](../by-program/logitech.md) | Low | — | 60 |
-| 209 | [2618486](../reports/2618486.md) | IDOR lets a malicious user reveal the unpinned achievement badges | [Reddit](../by-program/reddit.md) | Low | — | 44 |
-| 210 | [1592596](../reports/1592596.md) | Sensei LMS IDOR to send message | [Automattic](../by-program/automattic.md) | Low | — | 43 |
-| 211 | [300179](../reports/300179.md) | User uploaded portfolio files can be accessed by any user even af | [Mavenlink](../by-program/mavenlink.md) | Low | — | 42 |
-| 212 | [2705507](../reports/2705507.md) | Share information of Tables app is not limited to affected users  | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 30 |
-| 213 | [1509057](../reports/1509057.md) | IDOR on TikTok Seller | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.7 | — | 30 |
-| 214 | [858662](../reports/858662.md) | Thailand - IDOR on www.starbuckscardth.in.th: A logged in user co | [Starbucks](../by-program/starbucks.md) | Low | — | 27 |
-| 215 | [261221](../reports/261221.md) | Participation of expired account holders in Projects can occure f | [Mavenlink](../by-program/mavenlink.md) | Low — CVSS 2.6 | — | 27 |
-| 216 | [439729](../reports/439729.md) | Add and Access to Labels of any Private Projects/Groups of Gitlab | [GitLab](../by-program/gitlab.md) | Low | — | 26 |
-| 217 | [254151](../reports/254151.md) | IDOR in activateFuelCard id allows bulk lookup of driver uuids | [Uber](../by-program/uber.md) | Low | — | 26 |
-| 218 | [587687](../reports/587687.md) | IDOR to update folder name of other user | [Trint Ltd](../by-program/trint.md) | Low — CVSS 3.4 | — | 25 |
-| 219 | [1755555](../reports/1755555.md) | Possibility to delete files attached to deck cards of other users | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 20 |
-| 220 | [726163](../reports/726163.md) | IDOR in https://moneybird.com/user/accountant_company/edit(change | [Moneybird](../by-program/moneybird.md) | Low — CVSS 3.8 | — | 19 |
-| 221 | [365504](../reports/365504.md) | Comment restriction in subsection "Workshop" of domain "steamcomm | [Valve](../by-program/valve.md) | Low | — | 18 |
-| 222 | [338477](../reports/338477.md) | [EE] change the author of post using the author_id | [ExpressionEngine](../by-program/expressionengine.md) | Low | — | 10 |
-| 223 | [1680818](../reports/1680818.md) | Modifying Sprunk vs eCola crew data | [Rockstar Games](../by-program/rockstargames.md) | Low | — | 8 |
-| 224 | [3304830](../reports/3304830.md) | Files drop share links for end-to-end encrypted folders allowed t | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 7 |
-| 225 | [3353057](../reports/3353057.md) | Insecure Direct Object Reference (IDOR) allows creating folders. | [SingleStore](../by-program/singlestore.md) | Low — CVSS 3.8 | — | 6 |
-| 226 | [215326](../reports/215326.md) | Подмена SSL-сертификата для любой группы в секции Управление груп | [VK.com](../by-program/vkcom.md) | Low — CVSS 3.7 | — | 6 |
-| 227 | [879960](../reports/879960.md) | IDOR: Adding Contacts to Other User Groups | [8x8](../by-program/8x8-bounty.md) | Low | — | 6 |
-| 228 | [3353035](../reports/3353035.md) | Delete any folder for any user within the organization | [SingleStore](../by-program/singlestore.md) | Low — CVSS 3.8 | — | 5 |
-| 229 | [882258](../reports/882258.md) | New users can read all Nextcloud Deck data from previous user wit | [Nextcloud](../by-program/nextcloud.md) | Low | — | 2 |
-| 230 | [762510](../reports/762510.md) | How the Bug stole hacking | [HackerOne](../by-program/security.md) | None | — | 470 |
-| 231 | [2524562](../reports/2524562.md) | IDOR to view order information of users and personal information | [WakaTime](../by-program/wakatime.md) | None | — | 123 |
-| 232 | [725569](../reports/725569.md) | [IDOR] Attacker user can Approve/Decline AFK on the behalf of oth | [Automattic](../by-program/automattic.md) | None | — | 50 |
-| 233 | [3051155](../reports/3051155.md) | Information disclosure on IBM training service endpoint | [IBM](../by-program/ibm.md) | None | — | 47 |
-| 234 | [3518758](../reports/3518758.md) | IDOR on ██████ via direct photo URL leads to unauthorized access  | [Nextcloud](../by-program/nextcloud.md) | None | — | 30 |
-| 235 | [884159](../reports/884159.md) | Ability to generate shipping labels in another store orders | [Shopify](../by-program/shopify.md) | None | — | 25 |
-| 236 | [264919](../reports/264919.md) | [www.zomato.com] IDOR - Delete/Deactivate any special menu of any | [Eternal](../by-program/eternal.md) | None | — | 20 |
-| 237 | [1687415](../reports/1687415.md) | IDOR when editing email leads to Mass Full ATOs (Account Takeover | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | None | — | 17 |
-| 238 | [264754](../reports/264754.md) | [www.zomato.com] IDOR - Delete/Deactivate ANY/ALL Promos through  | [Eternal](../by-program/eternal.md) | None | — | 16 |
-| 239 | [260604](../reports/260604.md) | Update any profile | [Legal Robot](../by-program/legalrobot.md) | None | — | 13 |
-| 240 | [277377](../reports/277377.md) | Amount Manipulation Buy Unlimited Credits in just $1.00 | [Inflection](../by-program/inflection.md) | None | — | 7 |
-| 241 | [361133](../reports/361133.md) | Able to View other users income history | [Liberapay](../by-program/liberapay.md) | None | — | 6 |
+| 54 | [2085185](../reports/2085185.md) | IDOR in upload videos of a Channel on https://video.ibm.com | [IBM](../by-program/ibm.md) | Critical — CVSS 9.8 | — | 57 |
+| 55 | [1695454](../reports/1695454.md) | IDOR in API applications (able to see any API token, leads to acc | [Automattic](../by-program/automattic.md) | Critical | — | 54 |
+| 56 | [2456603](../reports/2456603.md) | Insecure Direct Object Reference Protection bypass by changing HT | [IBM](../by-program/ibm.md) | Critical — CVSS 9.3 | — | 53 |
+| 57 | [950881](../reports/950881.md) | IDOR when editing email leads to Account Takeover on Atavist | [Automattic](../by-program/automattic.md) | Critical | — | 48 |
+| 58 | [1272478](../reports/1272478.md) | IDOR Leads To Account Takeover Without User Interaction | [MTN Group](../by-program/mtn_group.md) | Critical | — | 30 |
+| 59 | [1448550](../reports/1448550.md) | Remove Every User, Admin, And Owner Out Of Their Teams on develop | [MTN Group](../by-program/mtn_group.md) | Critical | — | 26 |
+| 60 | [969223](../reports/969223.md) | IDOR to Account Takeover on https://████/index.html | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 26 |
+| 61 | [429000](../reports/429000.md) | Access to all █████████ files, including CAC authentication bypas | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 23 |
+| 62 | [265284](../reports/265284.md) | 'cnvID' parameter vulnerable to Insecure Direct Object References | [Concrete CMS](../by-program/concretecms.md) | Critical | — | 20 |
+| 63 | [1004750](../reports/1004750.md) | IDOR + Account Takeover  [UNAUTHENTICATED] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 15 |
+| 64 | [1744264](../reports/1744264.md) |  read and message other user's messages | [Reddit](../by-program/reddit.md) | Critical | — | 12 |
+| 65 | [1536936](../reports/1536936.md) | Unprotected Direct Object Reference | [MTN Group](../by-program/mtn_group.md) | Critical | — | 11 |
+| 66 | [388554](../reports/388554.md) | ████ █████ exposes highly sensitive information to public | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 7 |
+| 67 | [751577](../reports/751577.md) | IDOR allow access to payments data of any user | [Nord Security](../by-program/nordsecurity.md) | High | — | 384 |
+| 68 | [1969141](../reports/1969141.md) | Insecure Direct Object Reference (IDOR) - Delete Campaigns   | [HackerOne](../by-program/security.md) | High — CVSS 8.3 | — | 342 |
+| 69 | [3154983](../reports/3154983.md) | IDOR: Account Deletion via Session Misbinding – Attacker Can Dele | [Mozilla](../by-program/mozilla.md) | High | — | 231 |
+| 70 | [1661113](../reports/1661113.md) | IDOR allows an attacker to modify the links of any user | [Reddit](../by-program/reddit.md) | High | — | 202 |
+| 71 | [974222](../reports/974222.md) | IDOR leads to Edit Anyone's Blogs / Websites | [Automattic](../by-program/automattic.md) | High | — | 175 |
+| 72 | [534794](../reports/534794.md) | Importing GitLab project archives can replace uploads of other us | [GitLab](../by-program/gitlab.md) | High — CVSS 7.5 | — | 146 |
+| 73 | [1733627](../reports/1733627.md) | IDOR for changing privacy settings on any memories | [TikTok](../by-program/tiktok.md) | High | — | 119 |
+| 74 | [1716300](../reports/1716300.md) | Unauthorized User can View Subscribers of Other Users Newsletters | [LinkedIn](../by-program/linkedin.md) | High — CVSS 7.5 | — | 117 |
+| 75 | [1777095](../reports/1777095.md) | Unauthorized access to resumes stored on LinkedIn | [LinkedIn](../by-program/linkedin.md) | High — CVSS 7.5 | — | 112 |
+| 76 | [2374730](../reports/2374730.md) | Broken Access Control (IDOR) in Booking Detail and Bids Could Lea | [Bykea](../by-program/bykea.md) | High | — | 99 |
+| 77 | [915127](../reports/915127.md) | IDOR when moving contents at CrowdSignal | [Automattic](../by-program/automattic.md) | High | — | 92 |
+| 78 | [2291999](../reports/2291999.md) | An attacker can submit arbitrary projects to their service accoun | [LinkedIn](../by-program/linkedin.md) | High — CVSS 8.2 | — | 90 |
+| 79 | [1034346](../reports/1034346.md) | Security@ email forwarding and Embedded Submission drafts can be  | [HackerOne](../by-program/security.md) | High — CVSS 7.5 | — | 89 |
+| 80 | [1808719](../reports/1808719.md) | Attackers can use TRIAL Premium only by paying **IDR 10,000.00**  | [LinkedIn](../by-program/linkedin.md) | High — CVSS 7.5 | — | 83 |
+| 81 | [3506183](../reports/3506183.md) | Missing Access Control in MigrationFile allows attacker to upload | [GitHub](../by-program/github.md) | High | — | 83 |
+| 82 | [984965](../reports/984965.md) | Cross-Tenant IDOR ( graphql `AddRulesToPixelEvents` query ) allow | [TikTok](../by-program/tiktok.md) | High — CVSS 7.5 | — | 83 |
+| 83 | [2382484](../reports/2382484.md) | IDOR on Delete Email address features | [Mozilla](../by-program/mozilla.md) | High | — | 79 |
+| 84 | [2968039](../reports/2968039.md) | Insecure Direct Object Reference (IDOR) in GraphQL deleteProfileI | [Autodesk](../by-program/autodesk.md) | High | — | 75 |
+| 85 | [2944357](../reports/2944357.md) | Unauthorized Reservation Cancellation Through IDOR Vulnerability | [Yelp](../by-program/yelp.md) | High — CVSS 8.6 | — | 74 |
+| 86 | [1148697](../reports/1148697.md) | Chain of IDORs Between U4B and Vouchers APIs Allows Attackers to  | [Uber](../by-program/uber.md) | High — CVSS 8.1 | — | 63 |
+| 87 | [2393021](../reports/2393021.md) | Upload profile photo and  Pets addition - IDOR | [Mars](../by-program/mars.md) | High | — | 61 |
+| 88 | [1061292](../reports/1061292.md) | TAMS registration details API for admins open at https://tamsapi. | [U.S. General Services Administration](../by-program/gsa_vdp.md) | High — CVSS 7.5 | — | 58 |
+| 89 | [1744194](../reports/1744194.md) | Business Suite "Get Leads" Resulting in Revealing User Email & Ph | [TikTok](../by-program/tiktok.md) | High — CVSS 7.1 | — | 51 |
+| 90 | [1373784](../reports/1373784.md) | Able to steal private files by manipulating response using Compos | [Lark Technologies](../by-program/lark_technologies.md) | High | — | 49 |
+| 91 | [1410498](../reports/1410498.md) | IDOR: leak buyer info & Publish/Hide foreign comments | [Judge.me ](../by-program/judgeme.md) | High — CVSS 7.5 | — | 44 |
+| 92 | [316789](../reports/316789.md) | Able to purchase a gift card with any amount | [Starbucks](../by-program/starbucks.md) | High — CVSS 8.3 | — | 40 |
+| 93 | [1848176](../reports/1848176.md) | IDOR in TalentMAP API can be abused to enumerate personal informa | [U.S. Department of State](../by-program/us-department-of-state.md) | High — CVSS 7.5 | — | 38 |
+| 94 | [1387320](../reports/1387320.md) | Able to steal private files by manipulating response using Auto R | [Lark Technologies](../by-program/lark_technologies.md) | High — CVSS 7.5 | — | 38 |
+| 95 | [766437](../reports/766437.md) | Thailand - Insecure Direct Object Reference permits an unauthoriz | [Starbucks](../by-program/starbucks.md) | High — CVSS 7.6 | — | 35 |
+| 96 | [269937](../reports/269937.md) | [www.zomato.com] IDOR - Leaking all Personal Details of all Zomat | [Eternal](../by-program/eternal.md) | High — CVSS 7.5 | — | 32 |
+| 97 | [1952771](../reports/1952771.md) | ████ ' can change any account email and cannot retrieve his accou | [Mars](../by-program/mars.md) | High — CVSS 7.8 | — | 32 |
+| 98 | [964010](../reports/964010.md) | IDOR - Other user's delivery address disclosed | [Azbuka Vkusa](../by-program/av.md) | High — CVSS 7.5 | — | 28 |
+| 99 | [1196976](../reports/1196976.md) | IDOR while uploading ████ attachments at [█████████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 26 |
+| 100 | [674195](../reports/674195.md) | Stealing data from customers.gitlab.com without user interaction | [GitLab](../by-program/gitlab.md) | High — CVSS 8.1 | — | 24 |
+| 101 | [1066203](../reports/1066203.md) | GRAPHQL cross-tenant IDOR giving write access thought the operati | [Stripe](../by-program/stripe.md) | High | — | 24 |
+| 102 | [2587953](../reports/2587953.md) | Email Takeover leads to permanent account deletion | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 23 |
+| 103 | [888729](../reports/888729.md) | Read-Only user can delete users | [Helium](../by-program/helium.md) | High | — | 18 |
+| 104 | [344284](../reports/344284.md) | View & add to cart unlisted items via IDOR | [Instacart](../by-program/instacart.md) | High | — | 18 |
+| 105 | [685338](../reports/685338.md) | Unauth IDOR to mass account takeover without user interaction on  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 17 |
+| 106 | [1004745](../reports/1004745.md) | View another user information with IDOR vulnerability  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 11 |
+| 107 | [1489470](../reports/1489470.md) | Authorization bypass -> IDOR -> PII Leakage | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 11 |
+| 108 | [847452](../reports/847452.md) | Full Account Take-Over of ████████ Members via IDOR | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 9 |
+| 109 | [978768](../reports/978768.md) | Adding everyone to the repo due to the lack of rate limit | [GitLab](../by-program/gitlab.md) | High | — | 8 |
+| 110 | [3734326](../reports/3734326.md) | Autotranslate DDP Method Exposes Private Messages Without Authent | [Rocket.Chat](../by-program/rocket_chat.md) | High — CVSS 7.5 | — | 8 |
+| 111 | [959697](../reports/959697.md) | Idor for firstpromoter service | [Dropcontact](../by-program/dropcontact.md) | High | — | 7 |
+| 112 | [703058](../reports/703058.md) | Insecure redirect rule results in bypassing ban redirect on certa | [Roblox](../by-program/roblox.md) | Medium — CVSS 5.4 | — | 229 |
+| 113 | [2218334](../reports/2218334.md) | IDOR vulnerability in unreleased HackerOne Copilot feature | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 204 |
+| 114 | [2633771](../reports/2633771.md) | IDOR Vulnerability at AddTagToAssets operation name | [HackerOne](../by-program/security.md) | Medium — CVSS 5.3 | — | 167 |
+| 115 | [2868084](../reports/2868084.md) | Unauthorized Access to TikTok Account [Private Videos] via API En | [TikTok](../by-program/tiktok.md) | Medium — CVSS 5.3 | — | 161 |
+| 116 | [1403176](../reports/1403176.md) | IDOR vulnerability (Price manipulation) | [Acronis](../by-program/acronis.md) | Medium | — | 145 |
+| 117 | [990878](../reports/990878.md) | IDOR in https://3d.cs.money/ | [CS Money](../by-program/cs_money.md) | Medium | — | 126 |
+| 118 | [3085742](../reports/3085742.md) | IDOR on in-app hardcoded zombie endpoint   | [Bykea](../by-program/bykea.md) | Medium — CVSS 5.3 | — | 125 |
+| 119 | [1116387](../reports/1116387.md) | IDOR leads to leak analytics of any restaurant | [Uber](../by-program/uber.md) | Medium — CVSS 6.5 | — | 122 |
+| 120 | [1137819](../reports/1137819.md) | IDOR leads to See analytics of Loyalty Program in any restaurant. | [Uber](../by-program/uber.md) | Medium — CVSS 4.3 | — | 110 |
+| 121 | [1328278](../reports/1328278.md) | User can pay using archived price by manipulating the request sen | [Stripe](../by-program/stripe.md) | Medium — CVSS 5.9 | — | 96 |
+| 122 | [1608735](../reports/1608735.md) | IDOR allows an attacker to delete anyone's featured photo. | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 6.5 | — | 94 |
+| 123 | [1888545](../reports/1888545.md) | IDOR - send a message on behalf of other user  | [Mozilla](../by-program/mozilla.md) | Medium — CVSS 6.5 | — | 78 |
+| 124 | [1734639](../reports/1734639.md) | IDOR to make someone attend or leave an event | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 6.5 | — | 78 |
+| 125 | [2867022](../reports/2867022.md) | Improper Access Control Allows Trip Hijacking and Passenger/Drive | [Bykea](../by-program/bykea.md) | Medium | — | 76 |
+| 126 | [717729](../reports/717729.md) | Reporter, external users, collaborators can mark sent swag awarde | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 75 |
+| 127 | [2861888](../reports/2861888.md) | Ability to increase any customer offered fare (BAC) | [Bykea](../by-program/bykea.md) | Medium | — | 71 |
+| 128 | [2965357](../reports/2965357.md) | Insecure Direct Object Reference (IDOR) Vulnerability in Autodesk | [Autodesk](../by-program/autodesk.md) | Medium — CVSS 5.9 | — | 70 |
+| 129 | [1656380](../reports/1656380.md) | Reddit talk promotion offers don't expire, allowing users to acce | [Reddit](../by-program/reddit.md) | Medium — CVSS 5.0 | — | 68 |
+| 130 | [3604288](../reports/3604288.md) | Access to Deactivated LinkedIn Company Pages via Competitor Analy | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 5.3 | — | 66 |
+| 131 | [1947924](../reports/1947924.md) | Insecure Direct Object Reference allows Crew Invite deletion | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 66 |
+| 132 | [3527771](../reports/3527771.md) | Add labels to arbitrary issues/prs & compromise github actions la | [GitHub](../by-program/github.md) | Medium | — | 66 |
+| 133 | [469372](../reports/469372.md) | Web protection component in Anti-Virus products family uses predi | [Kaspersky](../by-program/kaspersky.md) | Medium | — | 64 |
+| 134 | [2962056](../reports/2962056.md) | IDOR Vulnerability Allowing Unauthorized Profile Picture Change | [Autodesk](../by-program/autodesk.md) | Medium — CVSS 5.3 | — | 64 |
+| 135 | [717716](../reports/717716.md) | Any user with access to program can resume and suspend HackerOne  | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 64 |
+| 136 | [1581528](../reports/1581528.md) | Can access the job name, creator name and can report any draft/un | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 5.3 | — | 63 |
+| 137 | [1555376](../reports/1555376.md) | IDOR on Tagged People | [TikTok](../by-program/tiktok.md) | Medium — CVSS 6.5 | — | 62 |
+| 138 | [797685](../reports/797685.md) | IDOR in marketing calendar tool | [Semrush](../by-program/semrush.md) | Medium — CVSS 5.0 | — | 62 |
+| 139 | [2586584](../reports/2586584.md) | IDOR leads to PII Leak | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 61 |
+| 140 | [2322663](../reports/2322663.md) | Insecure direct Object Reference(Horizontal Escalation) | [MTN Group](../by-program/mtn_group.md) | Medium — CVSS 6.5 | — | 59 |
+| 141 | [1737943](../reports/1737943.md) | IDOR may allow access to non-public photos | [Flickr](../by-program/flickr.md) | Medium — CVSS 5.9 | — | 57 |
+| 142 | [1644436](../reports/1644436.md) | IDOR in Stats API Endpoint Allows Viewing Equity or Net Profit of | [EXNESS](../by-program/exness.md) | Medium | — | 55 |
+| 143 | [2357113](../reports/2357113.md) | Unauthorized Access to Offline Publication Cover Pages via SOURCE | [Publitas](../by-program/publitas.md) | Medium — CVSS 5.3 | — | 55 |
+| 144 | [2894018](../reports/2894018.md) | Lack of Feedback Validation Permits Arbitrary Driver Ratings | [Bykea](../by-program/bykea.md) | Medium — CVSS 5.3 | — | 54 |
+| 145 | [783708](../reports/783708.md) | IDOR in semrush academy | [Semrush](../by-program/semrush.md) | Medium | — | 48 |
+| 146 | [2073950](../reports/2073950.md) | IDOR in one subdomain of █████████ -> change information of pets  | [Mars](../by-program/mars.md) | Medium — CVSS 4.9 | — | 44 |
+| 147 | [1813450](../reports/1813450.md) | Attackers do not need to Pay for a Subscription to get the `Discu | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 5.3 | — | 43 |
+| 148 | [1837309](../reports/1837309.md) | Anyone can view the results of linkedin skill test -if failed to  | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 5.3 | — | 42 |
+| 149 | [2586641](../reports/2586641.md) | IDOR  leads to view other user Biographical details (Possible PII | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 40 |
+| 150 | [946323](../reports/946323.md) | [IDOR] Modify other team's reminders via reminderId parameter | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 5.3 | — | 39 |
+| 151 | [2586662](../reports/2586662.md) | IDOR : Modify other users demographic details | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 38 |
+| 152 | [909863](../reports/909863.md) | Low privileged user can create high privileged user's KITCRM auth | [Shopify](../by-program/shopify.md) | Medium | — | 37 |
+| 153 | [322661](../reports/322661.md) | Replace other user files in Inbox messages  | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.7 | — | 37 |
+| 154 | [547663](../reports/547663.md) | IDOR in changing shared file name | [Trint Ltd](../by-program/trint.md) | Medium — CVSS 4.2 | — | 34 |
+| 155 | [3382343](../reports/3382343.md) | BOLA/IDOR in Out-of-Office API allows any authenticated user to r | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.5 | — | 34 |
+| 156 | [1784681](../reports/1784681.md) | Ability to read any emails through IDOR on Nextcloud Mail | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.1 | — | 33 |
+| 157 | [1654657](../reports/1654657.md) | Add products to any livestream. | [TikTok](../by-program/tiktok.md) | Medium — CVSS 6.4 | — | 33 |
+| 158 | [361984](../reports/361984.md) | I.D.O.R TO EDIT ALL USER'S CREDIT CARD INFORMATION+(Partial credi | [Yelp](../by-program/yelp.md) | Medium — CVSS 4.3 | — | 31 |
+| 159 | [291721](../reports/291721.md) | IDOR on Program Visibilty (Revealed / Concealed) against other te | [HackerOne](../by-program/security.md) | Medium | — | 31 |
+| 160 | [230328](../reports/230328.md) | IDOR unsubscribe Anyone from NextClouds Newsletters by knowing th | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 28 |
+| 161 | [2112973](../reports/2112973.md) | Enabling Birthday Contact to any user | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 27 |
+| 162 | [1965640](../reports/1965640.md) | ████ ' can add animal to other account ' at ██████ | [Mars](../by-program/mars.md) | Medium | — | 26 |
+| 163 | [1159367](../reports/1159367.md) | Access control vulnerability (read-only) | [EXNESS](../by-program/exness.md) | Medium | — | 24 |
+| 164 | [1690044](../reports/1690044.md) | IDOR leaking PII data via VendorId parameter | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 23 |
+| 165 | [1005020](../reports/1005020.md) | Identify unique user ID of all the profiles  | [Bumble](../by-program/bumble.md) | Medium | — | 23 |
+| 166 | [245872](../reports/245872.md) | [IDOR] The authenticated user can restart website build or view b | [GSA Bounty](../by-program/gsa_bbp.md) | Medium | — | 22 |
+| 167 | [1818969](../reports/1818969.md) | [ Continuation Report from #1814842 ] Can create articles using o | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 5.3 | — | 22 |
+| 168 | [914331](../reports/914331.md) | IDOR on notes to HTML injection | [Palo Alto Software](../by-program/palo_alto_software.md) | Medium | — | 21 |
+| 169 | [1947376](../reports/1947376.md) | ███████  ' can delete any animal from other account  '  at ██████ | [Mars](../by-program/mars.md) | Medium | — | 21 |
+| 170 | [194594](../reports/194594.md) | IDOR on partners.uber.com allows for a driver to override adminis | [Uber](../by-program/uber.md) | Medium | — | 21 |
+| 171 | [915133](../reports/915133.md) | IDOR at 'media_code' when addings media to questions | [Automattic](../by-program/automattic.md) | Medium | — | 21 |
+| 172 | [1587374](../reports/1587374.md) | Campaign Account Balance and History Disclosed in API Response | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 5.3 | — | 20 |
+| 173 | [1174734](../reports/1174734.md) | Access control vulnerability (read/write) | [EXNESS](../by-program/exness.md) | Medium | — | 20 |
+| 174 | [1505609](../reports/1505609.md) | Read Other Users Reports Through Cloning | [U.S. General Services Administration](../by-program/gsa_vdp.md) | Medium — CVSS 6.5 | — | 18 |
+| 175 | [318751](../reports/318751.md) | Access to Private Photos of Apps in App section(IDOR) | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.6 | — | 18 |
+| 176 | [783117](../reports/783117.md) | IDOR at https://account.mackeeper.com/at/load-reports/profile/<pr | [Clario](../by-program/clario.md) | Medium — CVSS 5.0 | — | 18 |
+| 177 | [389250](../reports/389250.md) | IDOR | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 18 |
+| 178 | [1808149](../reports/1808149.md) | Attackers can create unlimited jobs by paying a low price `( Rp.  | [LinkedIn](../by-program/linkedin.md) | Medium | — | 18 |
+| 179 | [1118638](../reports/1118638.md) | IDOR at training.smartpay.gsa.gov/reports/quizzes-taken-by-user | [U.S. General Services Administration](../by-program/gsa_vdp.md) | Medium — CVSS 4.3 | — | 17 |
+| 180 | [1825227](../reports/1825227.md) | Session mismatch leading to potential account takeover (local acc | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | Medium — CVSS 5.0 | — | 16 |
+| 181 | [317332](../reports/317332.md) | Improper access control on adding a Register to an Outlet | [Vend VDP](../by-program/vend_vdp.md) | Medium — CVSS 4.9 | — | 16 |
+| 182 | [952095](../reports/952095.md) | Deleting someone else's profile image with a GraphQL query in pro | [LY Corporation](../by-program/line.md) | Medium — CVSS 4.3 | — | 15 |
+| 183 | [3689633](../reports/3689633.md) | Hidden/restricted tags can be mutated through synonym ID paths wi | [Discourse](../by-program/discourse.md) | Medium — CVSS 4.3 | — | 14 |
+| 184 | [912161](../reports/912161.md) | Messages disclosure via search feature of other users group(Cross | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 6.5 | — | 14 |
+| 185 | [701160](../reports/701160.md) | India - An Insecure Direct Object Reference (IDOR) allowed unauth | [Starbucks](../by-program/starbucks.md) | Medium — CVSS 5.0 | — | 13 |
+| 186 | [1048540](../reports/1048540.md) | IDOR on https://██████ via POST UID enables database scraping | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 13 |
+| 187 | [230870](../reports/230870.md) | Arbitary file download vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 13 |
+| 188 | [1450117](../reports/1450117.md) | Nextcloud Deck : Possibility for anyone to add a stack with exist | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.0 | — | 12 |
+| 189 | [1679276](../reports/1679276.md) | IDOR able to buy a plan with lesser fee | [Automattic](../by-program/automattic.md) | Medium | — | 11 |
+| 190 | [1174387](../reports/1174387.md) | Acess control vulnerability (read/write) | [EXNESS](../by-program/exness.md) | Medium | — | 11 |
+| 191 | [215384](../reports/215384.md) | [Subgroups] Unprivileged User Can Disclose Private Group Names | [GitLab](../by-program/gitlab.md) | Medium | — | 10 |
+| 192 | [313050](../reports/313050.md) | IDOR in treat subscriptions | [Eternal](../by-program/eternal.md) | Medium | — | 10 |
+| 193 | [230714](../reports/230714.md) | Arbitary file download vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 10 |
+| 194 | [498351](../reports/498351.md) | [█████] Get all tickets (IDOR) | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 9 |
+| 195 | [1627974](../reports/1627974.md) | IDOR on ███████ [HtUS] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 6.5 | — | 8 |
+| 196 | [3560256](../reports/3560256.md) | Cross-repository IDOR in `/settings/security_analysis/bypass_revi | [GitHub](../by-program/github.md) | Medium | — | 7 |
+| 197 | [3527788](../reports/3527788.md) | Add labels to arbitrary issues/prs via Memex Bulk Update to compr | [GitHub](../by-program/github.md) | Medium | — | 7 |
+| 198 | [230026](../reports/230026.md) | Insecure Direct Object Reference on in-scope .mil website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
+| 199 | [450882](../reports/450882.md) | Able to bypass information requirements before launching a Chat. | [Starbucks](../by-program/starbucks.md) | Medium | — | 6 |
+| 200 | [1579820](../reports/1579820.md) | Ownership check missing when updating or deleting attachments | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.4 | — | 6 |
+| 201 | [3799010](../reports/3799010.md) | TaskProcessing callback authorization bypass allows ex-members to | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 5 |
+| 202 | [800608](../reports/800608.md) | IDOR - Delete Users Saved Projects | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
+| 203 | [3780709](../reports/3780709.md) | Missing ownership validation allows cross‑manager tracker–campaig | [Revive Adserver](../by-program/revive_adserver.md) | Medium — CVSS 4.3 | — | 3 |
+| 204 | [3713682](../reports/3713682.md) | IDOR: autotranslate.translateMessage Full Message Content Leak | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 5.3 | — | 0 |
+| 205 | [536853](../reports/536853.md) | Unreleased CTF Levels are Revealed on /group/user/ID1?user=USERID | [HackerOne](../by-program/security.md) | Low — CVSS 2.4 | — | 160 |
+| 206 | [2028450](../reports/2028450.md) | IDOR vulnerability leads to Deleting message after leaving/gettin | [Rocket.Chat](../by-program/rocket_chat.md) | Low | — | 85 |
+| 207 | [2921830](../reports/2921830.md) | Unauthorized Access to Private Video Description via Translation  | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.7 | — | 78 |
+| 208 | [262661](../reports/262661.md) | IDOR on HackerOne Feedback Review | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | — | 76 |
+| 209 | [510759](../reports/510759.md) | IDOR in Report CSV export discloses the IDs of Custom Field Attri | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | — | 65 |
+| 210 | [983070](../reports/983070.md) | IDOR when creating App on [platform.streamlabs.com/api/v1/store/w | [Logitech](../by-program/logitech.md) | Low | — | 60 |
+| 211 | [2618486](../reports/2618486.md) | IDOR lets a malicious user reveal the unpinned achievement badges | [Reddit](../by-program/reddit.md) | Low | — | 44 |
+| 212 | [1592596](../reports/1592596.md) | Sensei LMS IDOR to send message | [Automattic](../by-program/automattic.md) | Low | — | 43 |
+| 213 | [300179](../reports/300179.md) | User uploaded portfolio files can be accessed by any user even af | [Mavenlink](../by-program/mavenlink.md) | Low | — | 42 |
+| 214 | [2705507](../reports/2705507.md) | Share information of Tables app is not limited to affected users  | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 30 |
+| 215 | [1509057](../reports/1509057.md) | IDOR on TikTok Seller | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.7 | — | 30 |
+| 216 | [858662](../reports/858662.md) | Thailand - IDOR on www.starbuckscardth.in.th: A logged in user co | [Starbucks](../by-program/starbucks.md) | Low | — | 27 |
+| 217 | [261221](../reports/261221.md) | Participation of expired account holders in Projects can occure f | [Mavenlink](../by-program/mavenlink.md) | Low — CVSS 2.6 | — | 27 |
+| 218 | [439729](../reports/439729.md) | Add and Access to Labels of any Private Projects/Groups of Gitlab | [GitLab](../by-program/gitlab.md) | Low | — | 26 |
+| 219 | [254151](../reports/254151.md) | IDOR in activateFuelCard id allows bulk lookup of driver uuids | [Uber](../by-program/uber.md) | Low | — | 26 |
+| 220 | [587687](../reports/587687.md) | IDOR to update folder name of other user | [Trint Ltd](../by-program/trint.md) | Low — CVSS 3.4 | — | 25 |
+| 221 | [1755555](../reports/1755555.md) | Possibility to delete files attached to deck cards of other users | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 20 |
+| 222 | [726163](../reports/726163.md) | IDOR in https://moneybird.com/user/accountant_company/edit(change | [Moneybird](../by-program/moneybird.md) | Low — CVSS 3.8 | — | 19 |
+| 223 | [365504](../reports/365504.md) | Comment restriction in subsection "Workshop" of domain "steamcomm | [Valve](../by-program/valve.md) | Low | — | 18 |
+| 224 | [338477](../reports/338477.md) | [EE] change the author of post using the author_id | [ExpressionEngine](../by-program/expressionengine.md) | Low | — | 10 |
+| 225 | [1680818](../reports/1680818.md) | Modifying Sprunk vs eCola crew data | [Rockstar Games](../by-program/rockstargames.md) | Low | — | 8 |
+| 226 | [3304830](../reports/3304830.md) | Files drop share links for end-to-end encrypted folders allowed t | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 7 |
+| 227 | [3353057](../reports/3353057.md) | Insecure Direct Object Reference (IDOR) allows creating folders. | [SingleStore](../by-program/singlestore.md) | Low — CVSS 3.8 | — | 6 |
+| 228 | [215326](../reports/215326.md) | Подмена SSL-сертификата для любой группы в секции Управление груп | [VK.com](../by-program/vkcom.md) | Low — CVSS 3.7 | — | 6 |
+| 229 | [879960](../reports/879960.md) | IDOR: Adding Contacts to Other User Groups | [8x8](../by-program/8x8-bounty.md) | Low | — | 6 |
+| 230 | [3353035](../reports/3353035.md) | Delete any folder for any user within the organization | [SingleStore](../by-program/singlestore.md) | Low — CVSS 3.8 | — | 5 |
+| 231 | [882258](../reports/882258.md) | New users can read all Nextcloud Deck data from previous user wit | [Nextcloud](../by-program/nextcloud.md) | Low | — | 2 |
+| 232 | [762510](../reports/762510.md) | How the Bug stole hacking | [HackerOne](../by-program/security.md) | None | — | 470 |
+| 233 | [2524562](../reports/2524562.md) | IDOR to view order information of users and personal information | [WakaTime](../by-program/wakatime.md) | None | — | 123 |
+| 234 | [725569](../reports/725569.md) | [IDOR] Attacker user can Approve/Decline AFK on the behalf of oth | [Automattic](../by-program/automattic.md) | None | — | 50 |
+| 235 | [3051155](../reports/3051155.md) | Information disclosure on IBM training service endpoint | [IBM](../by-program/ibm.md) | None | — | 47 |
+| 236 | [3518758](../reports/3518758.md) | IDOR on ██████ via direct photo URL leads to unauthorized access  | [Nextcloud](../by-program/nextcloud.md) | None | — | 30 |
+| 237 | [884159](../reports/884159.md) | Ability to generate shipping labels in another store orders | [Shopify](../by-program/shopify.md) | None | — | 25 |
+| 238 | [264919](../reports/264919.md) | [www.zomato.com] IDOR - Delete/Deactivate any special menu of any | [Eternal](../by-program/eternal.md) | None | — | 20 |
+| 239 | [1687415](../reports/1687415.md) | IDOR when editing email leads to Mass Full ATOs (Account Takeover | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | None | — | 17 |
+| 240 | [264754](../reports/264754.md) | [www.zomato.com] IDOR - Delete/Deactivate ANY/ALL Promos through  | [Eternal](../by-program/eternal.md) | None | — | 16 |
+| 241 | [260604](../reports/260604.md) | Update any profile | [Legal Robot](../by-program/legalrobot.md) | None | — | 13 |
+| 242 | [277377](../reports/277377.md) | Amount Manipulation Buy Unlimited Credits in just $1.00 | [Inflection](../by-program/inflection.md) | None | — | 7 |
+| 243 | [361133](../reports/361133.md) | Able to View other users income history | [Liberapay](../by-program/liberapay.md) | None | — | 6 |

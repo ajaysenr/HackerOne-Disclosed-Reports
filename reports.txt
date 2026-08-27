@@ -8702,7 +8702,7 @@ https://hackerone.com/reports/2081332 | LDAP Anonymous Login enabled in ██�
 https://hackerone.com/reports/2081744 | Deny Admin from Editing LinkedIn Company Page using Gen Form Visibility via POST /voyager/api/voyagerOrganizationDashCompanies/{id}
 https://hackerone.com/reports/2081930 | Bypass report submit restriction/ban using the API key
 https://hackerone.com/reports/2082528 | Adobe ColdFusion - Access Control Bypass [CVE-2023-38205] at ██████
-https://hackerone.com/reports/2082680 | Register & create a ticket as somebody else on HackerOne Support 
+https://hackerone.com/reports/2082680 | Register & create a ticket as somebody else on HackerOne Support
 https://hackerone.com/reports/2083270 | IDOR in channel ID leads to customer email disclosure on https://video.ibm.com
 https://hackerone.com/reports/2083771 |  Remote Code Execution and AWS IAM Credentials Exfiltration in https://████████/
 https://hackerone.com/reports/2084280 | WASI sandbox escape via symlink
@@ -9830,6 +9830,7 @@ https://hackerone.com/reports/3686283 | View-only offline transaction creation b
 https://hackerone.com/reports/3687142 | Unauthenticated reading of every file via livechat auth and predicting MongoDB ObjectId()
 https://hackerone.com/reports/3687543 | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet state via attacker-controlled `pending_tx`
 https://hackerone.com/reports/3688064 | Node.js unicode dot separator handling can lead to tls wildcard-depth authentication bypass due to resolver and verifier hostname normalization mismat
+https://hackerone.com/reports/3689633 | Hidden/restricted tags can be mutated through synonym ID paths without per-tag authorization
 https://hackerone.com/reports/3692858 | Permission Model Bypass via `process.report.writeReport()` Path Misvalidation
 https://hackerone.com/reports/3693295 | iOS Brave Playlist "Open in Private Tab" bypasses FaceID requirement for Private Tabs
 https://hackerone.com/reports/3693636 | wallet-rpc crash via malformed /gettransactions response (empty txs → vector::front() in check_tx_key / check_tx_proof)
@@ -9865,6 +9866,7 @@ https://hackerone.com/reports/3723315 | wallet-rpc describe_transfer uses real_o
 https://hackerone.com/reports/3723458 | 1-Click Account Takeover via Open Redirect through Regex Bypass in Domain Validation
 https://hackerone.com/reports/3725659 | Kerberos/SPNEGO Connection Reuse Vulnerability
 https://hackerone.com/reports/3727743 | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-markdown>` marker tag
+https://hackerone.com/reports/3729501 | Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCHA bypass + no rate limit)
 https://hackerone.com/reports/3733905 | CVE-2026-8924: trailing dot domain super cookie
 https://hackerone.com/reports/3733910 | CVE-2026-8932: incomplete mTLS config matching in conn reuse
 https://hackerone.com/reports/3733934 | CURLOPT_HSTS_CTRL disables shared HSTS without share guard — use-after-free and double-free
@@ -9927,6 +9929,7 @@ https://hackerone.com/reports/3775702 | Non-Production API Endpoints for the Ama
 https://hackerone.com/reports/3776433 | TFTP upload ignores --continue-at / CURLOPT_RESUME_FROM and leaks skipped local file prefix
 https://hackerone.com/reports/3776535 | RTSP Digest auth state leaks across origins on reused libcurl easy handle
 https://hackerone.com/reports/3777381 | PRE_PROXY change leaks stale Proxy Digest state across proxy-chain boundary
+https://hackerone.com/reports/3778282 | Critical SQL Injection WDM API (████████)
 https://hackerone.com/reports/3779690 | Stored XSS in Rocket.Chat HTML File Export — Unauthenticated Entry via LiveChat
 https://hackerone.com/reports/3780277 | Non-Production API Endpoints for the Amazon S3 Tables Service Fails to Log to CloudTrail Resulting in Silent Permission Enumeration
 https://hackerone.com/reports/3780695 | SELECT ... INTO OUTFILE does not enforce the FILE WRITE privilege  unprivileged arbitrary file write on the   server
@@ -10000,7 +10003,10 @@ https://hackerone.com/reports/3930957 | Myndr CORS Misconfiguration
 https://hackerone.com/reports/3938185 | Windows SSPI connection-pool probe can reuse a connection under the wrong user
 https://hackerone.com/reports/3938220 | libcurl cache updates follow symlinks and truncate their targets
 https://hackerone.com/reports/3952619 | Domainless COOKIEFILE cookie leaks to unrelated IP-literal hosts
+https://hackerone.com/reports/3955945 | curl_share TOCTOU > RCE via Curl_llist _dtor Function Pointer Hijack
 https://hackerone.com/reports/3963330 | libcurl Digest/NTLM authentication ignores an explicit Authorization header
 https://hackerone.com/reports/3963494 | RTSP CRLF injection in libcurl allows CURLOPT_RTSP_* values to inject commands into independent sessions
 https://hackerone.com/reports/3963725 | wolfSSL backend disables hostname verification when CURLOPT_SSL_VERIFYPEER is 0
 https://hackerone.com/reports/3966955 | TLS session cache case-folds CA paths and bypasses the active trust profile
+https://hackerone.com/reports/3968431 | ARG_CLEAR credential scrubbing wipes only UTF-8 copies on Windows Unicode builds
+https://hackerone.com/reports/3968729 | Unbound cross-peer HTTP Digest challenge state

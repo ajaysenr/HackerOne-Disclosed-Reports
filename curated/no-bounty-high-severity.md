@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1769 total)
+# High/Critical Severity — No Bounty Paid (1775 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -87,6 +87,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [206227](../reports/206227.md) | Remote Code Execution on Git.imgur-dev.com  | [Imgur](../by-program/imgur.md) | Critical | Resolved | 119 |
 | [210741](../reports/210741.md) | Unserialize leading to arbitrary PHP function invoke | [Rockstar Games](../by-program/rockstargames.md) | Critical — CVSS 10.0 | Resolved | 118 |
 | [659248](../reports/659248.md) | China – Limited Partner PII Regarding Work Scheduling via Unauthe | [Starbucks](../by-program/starbucks.md) | Critical | Resolved | 114 |
+| [2083771](../reports/2083771.md) |  Remote Code Execution and AWS IAM Credentials Exfiltration in ht | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 114 |
 | [312543](../reports/312543.md) | XXE in Site Audit function exposing file and directory contents | [Semrush](../by-program/semrush.md) | Critical | Resolved | 113 |
 | [2633959](../reports/2633959.md) | SQL injection in URL path leads to Database Access | [MTN Group](../by-program/mtn_group.md) | Critical — CVSS 9.8 | Resolved | 110 |
 | [325336](../reports/325336.md) | Subdomain takeover on svcgatewayus.starbucks.com | [Starbucks](../by-program/starbucks.md) | Critical — CVSS 9.3 | Resolved | 109 |
@@ -169,6 +170,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [3103849](../reports/3103849.md) | Privilege Escalation leads to Unauthorized Access to Private Conv | [Dust](../by-program/dust.md) | Critical | Informative | 59 |
 | [2404415](../reports/2404415.md) | View any user email using the Team's audit log section | [HackerOne](../by-program/security.md) | Critical — CVSS 9.3 | Duplicate | 59 |
 | [1022048](../reports/1022048.md) | Critically Sensitive Spring Boot Endpoints Exposed | [Semrush](../by-program/semrush.md) | Critical — CVSS 9.9 | Resolved | 58 |
+| [2085185](../reports/2085185.md) | IDOR in upload videos of a Channel on https://video.ibm.com | [IBM](../by-program/ibm.md) | Critical — CVSS 9.8 | Resolved | 57 |
 | [3090123](../reports/3090123.md) | insecure deserilize object leads to RCE On Sitecore (CVE-████████ | [Mars](../by-program/mars.md) | Critical | Resolved | 57 |
 | [536134](../reports/536134.md) | Store Development Resource Center was vulnerable to a Remote Code | [Starbucks](../by-program/starbucks.md) | Critical — CVSS 10.0 | Resolved | 57 |
 | [2733190](../reports/2733190.md) | Overwrite any file of the web server | [MOD Supply Chain VDP](../by-program/mod_supply_chain_vdp.md) | Critical — CVSS 9.1 | Resolved | 55 |
@@ -342,6 +344,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1106009](../reports/1106009.md) | critical information disclosure | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 20 |
 | [947946](../reports/947946.md) | Open SonarQube instance leaking internal source code | [Equifax-vdp](../by-program/equifax.md) | Critical | Resolved | 20 |
 | [777099](../reports/777099.md) | [h1-415 2020] I got the flag | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 20 |
+| [3955945](../reports/3955945.md) |  curl_share TOCTOU > RCE via Curl_llist _dtor Function Pointer Hi | [curl](../by-program/curl.md) | Critical | Not Applicable | 19 |
 | [1632186](../reports/1632186.md) | Can use the Reddit android app as usual even though revoking the  | [Reddit](../by-program/reddit.md) | Critical | Informative | 19 |
 | [1082288](../reports/1082288.md) | Disclosure of Merchant_id into the source code without entered OT | [Kartpay](../by-program/kartpay.md) | Critical | Resolved | 19 |
 | [193932](../reports/193932.md) | Misconfigured password reset vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 19 |
@@ -573,7 +576,9 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [434689](../reports/434689.md) | Global defaming of any twitter user | [X / xAI](../by-program/x.md) | Critical | Not Applicable | 3 |
 | [1066801](../reports/1066801.md) | Hacky Holidays CTF Writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical — CVSS 9.9 | Resolved | 3 |
 | [296701](../reports/296701.md) | SSL-protected Reflected XSS in m.uber.com | [Uber](../by-program/uber.md) | Critical — CVSS 10.0 | Duplicate | 3 |
+| [3778282](../reports/3778282.md) | Critical SQL Injection WDM API (████████) | [Essity](../by-program/essity.md) | Critical | Resolved | 3 |
 | [1043360](../reports/1043360.md) | HTTP2 'unknownProtocol' cause Denial of Service by resource exhau | [Node.js](../by-program/nodejs.md) | Critical — CVSS 9.3 | Resolved | 3 |
+| [3729501](../reports/3729501.md) | Pre-authentication Stored XSS in Essity Customer-Service Pipeline | [Essity](../by-program/essity.md) | Critical — CVSS 9.4 | Resolved | 3 |
 | [1066504](../reports/1066504.md) | Grinch Networks compromised! | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 3 |
 | [894198](../reports/894198.md) | [H1-2006 2020]  Includes 1 free content discovery | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 3 |
 | [324491](../reports/324491.md) | `fs-path` concatenates unsanitized input into exec()/execSync() c | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.6 | Resolved | 2 |
@@ -1383,6 +1388,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1294492](../reports/1294492.md) | DNS Miconfiguration Leads to Subdomain Takeover  - max1.liveplan. | [Palo Alto Software](../by-program/palo_alto_software.md) | High | Resolved | 10 |
 | [3788506](../reports/3788506.md) | SSH/SFTP connection reuse can bypass SSH key identity after ssh_c | [curl](../by-program/curl.md) | High | Informative | 10 |
 | [837510](../reports/837510.md) | Create an account on auth-sandbox.elastic.co with email @elastic. | [Elastic](../by-program/elastic.md) | High | Resolved | 10 |
+| [2081332](../reports/2081332.md) | LDAP Anonymous Login enabled in ████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 10 |
 | [1322732](../reports/1322732.md) | Cache Posioning leading to denial of service at `█████████` - Byp | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 10 |
 | [181319](../reports/181319.md) | Memory disclosure in mruby String#lines method | [shopify-scripts](../by-program/shopify-scripts.md) | High | Resolved | 10 |
 | [218088](../reports/218088.md) | Request Hijacking Vulnerability in RubyGems 2.6.11 and earlier | [RubyGems](../by-program/rubygems.md) | High | Resolved | 10 |

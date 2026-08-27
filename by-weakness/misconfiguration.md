@@ -1,4 +1,4 @@
-# Weakness: Misconfiguration (53 reports)
+# Weakness: Misconfiguration (54 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -49,11 +49,12 @@
 | 43 | [1139541](../reports/1139541.md) | Enumerating HackerOne Pentests | [HackerOne](../by-program/security.md) | Low — CVSS 3.7 | — | 16 |
 | 44 | [1416701](../reports/1416701.md) | Missing SPF record on trycourier.app | [Courier](../by-program/trycourier.md) | Low | — | 8 |
 | 45 | [1187018](../reports/1187018.md) | wrong url in hackerone > goes to wix.com > unconnected | [Sifchain](../by-program/sifchain.md) | Low | — | 5 |
-| 46 | [2666151](../reports/2666151.md) | phpinfo() exposed on ██████████ | [Mars](../by-program/mars.md) | None | — | 35 |
-| 47 | [2001913](../reports/2001913.md) | Create miscellaneous support ticket on anyone's account through s | [HackerOne](../by-program/security.md) | None | — | 29 |
-| 48 | [168476](../reports/168476.md) | Incoming email hijacking on sc-cdn.net | [Snapchat](../by-program/snapchat.md) | None | — | 24 |
-| 49 | [2068830](../reports/2068830.md) | HackerOne Support System Doesn't Require Any Authentication May L | [HackerOne](../by-program/security.md) | None | — | 20 |
-| 50 | [1194280](../reports/1194280.md) | CORS Misconfiguration | [Sifchain](../by-program/sifchain.md) | None | — | 9 |
-| 51 | [1160381](../reports/1160381.md) | Захват домена ozoncorporate.ru | [Ozon](../by-program/ozon.md) | None | — | 8 |
-| 52 | [1194293](../reports/1194293.md) | Wrong implementation of Telegram link on the main page for PC use | [Sifchain](../by-program/sifchain.md) | None | — | 8 |
-| 53 | [1065830](../reports/1065830.md) | Error Page Text Injection (no compromise) | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | None | — | 4 |
+| 46 | [2082680](../reports/2082680.md) | Register & create a ticket as somebody else on HackerOne Support  | [HackerOne](../by-program/security.md) | None | — | 56 |
+| 47 | [2666151](../reports/2666151.md) | phpinfo() exposed on ██████████ | [Mars](../by-program/mars.md) | None | — | 35 |
+| 48 | [2001913](../reports/2001913.md) | Create miscellaneous support ticket on anyone's account through s | [HackerOne](../by-program/security.md) | None | — | 29 |
+| 49 | [168476](../reports/168476.md) | Incoming email hijacking on sc-cdn.net | [Snapchat](../by-program/snapchat.md) | None | — | 24 |
+| 50 | [2068830](../reports/2068830.md) | HackerOne Support System Doesn't Require Any Authentication May L | [HackerOne](../by-program/security.md) | None | — | 20 |
+| 51 | [1194280](../reports/1194280.md) | CORS Misconfiguration | [Sifchain](../by-program/sifchain.md) | None | — | 9 |
+| 52 | [1160381](../reports/1160381.md) | Захват домена ozoncorporate.ru | [Ozon](../by-program/ozon.md) | None | — | 8 |
+| 53 | [1194293](../reports/1194293.md) | Wrong implementation of Telegram link on the main page for PC use | [Sifchain](../by-program/sifchain.md) | None | — | 8 |
+| 54 | [1065830](../reports/1065830.md) | Error Page Text Injection (no compromise) | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | None | — | 4 |
