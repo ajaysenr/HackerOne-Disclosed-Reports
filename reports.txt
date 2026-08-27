@@ -8702,7 +8702,11 @@ https://hackerone.com/reports/2081332 | LDAP Anonymous Login enabled in ██�
 https://hackerone.com/reports/2081744 | Deny Admin from Editing LinkedIn Company Page using Gen Form Visibility via POST /voyager/api/voyagerOrganizationDashCompanies/{id}
 https://hackerone.com/reports/2081930 | Bypass report submit restriction/ban using the API key
 https://hackerone.com/reports/2082528 | Adobe ColdFusion - Access Control Bypass [CVE-2023-38205] at ██████
+https://hackerone.com/reports/2082680 | Register & create a ticket as somebody else on HackerOne Support 
 https://hackerone.com/reports/2083270 | IDOR in channel ID leads to customer email disclosure on https://video.ibm.com
+https://hackerone.com/reports/2083771 |  Remote Code Execution and AWS IAM Credentials Exfiltration in https://████████/
+https://hackerone.com/reports/2084280 | WASI sandbox escape via symlink
+https://hackerone.com/reports/2085185 | IDOR in upload videos of a Channel on https://video.ibm.com
 https://hackerone.com/reports/2085260 | Takeover of hackerone.engineering via Github
 https://hackerone.com/reports/2086301 | Permanent CASB Integration Takeover due to Improper Access Controls+Confused Deputy Problem
 https://hackerone.com/reports/2088808 | Disavowed an email without any authentication
