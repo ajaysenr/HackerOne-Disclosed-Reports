@@ -8711,7 +8711,12 @@ https://hackerone.com/reports/2085260 | Takeover of hackerone.engineering via Gi
 https://hackerone.com/reports/2086301 | Permanent CASB Integration Takeover due to Improper Access Controls+Confused Deputy Problem
 https://hackerone.com/reports/2088808 | Disavowed an email without any authentication
 https://hackerone.com/reports/2089042 | yelp.com and biz.yelp.com ATO via XSS + Cookie Bridge
+https://hackerone.com/reports/2089895 | Reflected XSS on formaction parameter
+https://hackerone.com/reports/2090435 | Adobe ColdFusion Access Control Bypass - CVE-2023-38205
+https://hackerone.com/reports/2090964 | RXSS in hidden parameter
 https://hackerone.com/reports/2091137 | OpenSSL engines can be used to bypass and/or disable the Node.js permission model
+https://hackerone.com/reports/2092749 | Bypass network import restriction via data URL
+https://hackerone.com/reports/2092852 | Permission model improperly protects against path traversal
 https://hackerone.com/reports/2094235 | Integrity checks according to policies can be circumvented
 https://hackerone.com/reports/2094785 |  Cargo not respecting umask when extracting crate archives
 https://hackerone.com/reports/2097377 | Information Disclosure - Pvt Gitlab Issue Disclosing Through GitLab Unfiltered YouTube channel.
