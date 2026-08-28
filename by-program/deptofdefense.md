@@ -1,4 +1,4 @@
-# U.S. Dept Of Defense — Disclosed Reports (633 total)
+# U.S. Dept Of Defense — Disclosed Reports (634 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -203,437 +203,438 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 197 | [216699](../reports/216699.md) | SQL Injection vulnerability in a DoD website | High | — | 11 | [albinowax](https://hackerone.com/albinowax) | 2017-07-05 |
 | 198 | [1628102](../reports/1628102.md) | Full read SSRF at █████████ [HtUS] | High — CVSS 7.7 | — | 11 | [sudi](https://hackerone.com/sudi) | 2022-09-14 |
 | 199 | [1004745](../reports/1004745.md) | View another user information with IDOR vulnerability  | High | — | 11 | [silentbreach](https://hackerone.com/silentbreach) | 2020-11-23 |
-| 200 | [1489470](../reports/1489470.md) | Authorization bypass -> IDOR -> PII Leakage | High | — | 11 | [lubak](https://hackerone.com/lubak) | 2022-04-07 |
-| 201 | [2081316](../reports/2081316.md) | Blind Sql Injection in https://█████/qsSearch.aspx | High | — | 11 | [hack0neone](https://hackerone.com/hack0neone) | 2023-09-08 |
-| 202 | [1137321](../reports/1137321.md) | Path Traversal - [ CVE-2020-3452 ] | High | — | 11 | [kmxx](https://hackerone.com/kmxx) | 2021-05-11 |
-| 203 | [577612](../reports/577612.md) | MSSQL injection via param Customwho in https://█████/News/Tr | High | — | 11 | [bohdansec](https://hackerone.com/bohdansec) | 2019-10-10 |
-| 204 | [1714767](../reports/1714767.md) | Upload and delete files in debug page without access control | High | — | 10 | [0r10nh4ck](https://hackerone.com/0r10nh4ck) | 2023-02-24 |
-| 205 | [1542734](../reports/1542734.md) | lfi in filePathDownload parameter via ███████ | High | — | 10 | [exploitmsf](https://hackerone.com/exploitmsf) | 2022-04-29 |
-| 206 | [1329792](../reports/1329792.md) | AWS subdomain takeover of www.███████ | High | — | 10 | [al-madjus](https://hackerone.com/al-madjus) | 2021-10-28 |
-| 207 | [2248781](../reports/2248781.md) | Unauthenticated File Read Adobe ColdFusion | High | — | 10 | [r00tdaddy](https://hackerone.com/r00tdaddy) | 2023-12-21 |
-| 208 | [2081332](../reports/2081332.md) | LDAP Anonymous Login enabled in ████ | High | — | 10 | [shuvam321](https://hackerone.com/shuvam321) | 2023-09-08 |
-| 209 | [1322732](../reports/1322732.md) | Cache Posioning leading to denial of service at `█████████`  | High | — | 10 | [brumens](https://hackerone.com/brumens) | 2021-10-13 |
-| 210 | [1690548](../reports/1690548.md) | Authentication bypass leads to Information Disclosure at  U. | High | — | 10 | [h41th3m](https://hackerone.com/h41th3m) | 2022-10-14 |
-| 211 | [1624152](../reports/1624152.md) | insecure gitlab repositories at ████████ [HtUS] | High — CVSS 7.5 | — | 10 | [thpless](https://hackerone.com/thpless) | 2022-09-27 |
-| 212 | [847452](../reports/847452.md) | Full Account Take-Over of ████████ Members via IDOR | High | — | 9 | [r00tpgp](https://hackerone.com/r00tpgp) | 2020-05-14 |
-| 213 | [951508](../reports/951508.md) | CVE-2020-3452, unauthenticated file read in Cisco ASA & Cisc | High | — | 9 | [amrr](https://hackerone.com/amrr) | 2020-09-03 |
-| 214 | [710654](../reports/710654.md) | XXE with RCE potential on the https://█████████ (CVE-2017-35 | High | — | 9 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2024-07-19 |
-| 215 | [192074](../reports/192074.md) | Default credentials on a DoD website | High | — | 9 | [korprit](https://hackerone.com/korprit) | 2017-07-03 |
-| 216 | [186156](../reports/186156.md) | SQL Injection vulnerability on a DoD website | High | — | 9 | [korprit](https://hackerone.com/korprit) | 2017-01-11 |
-| 217 | [192931](../reports/192931.md) | Server-side include injection vulnerability in a DoD website | High | — | 9 | [jutsuce](https://hackerone.com/jutsuce) | 2017-07-03 |
-| 218 | [194308](../reports/194308.md) | Password reset vulnerability on a DoD website | High | — | 9 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-03-16 |
-| 219 | [1937235](../reports/1937235.md) | LDAP Server NULL Bind Connection Information Disclosure | High | — | 9 | [0xmaruf](https://hackerone.com/0xmaruf) | 2023-05-15 |
-| 220 | [2072306](../reports/2072306.md) | Blind Sql Injection in https://████████/ | High | — | 9 | [hack0neone](https://hackerone.com/hack0neone) | 2023-09-08 |
-| 221 | [1624374](../reports/1624374.md) | Broken access discloses users and PII at https://███████ [Ht | High | — | 8 | [g4mb4](https://hackerone.com/g4mb4) | 2022-10-14 |
-| 222 | [1249456](../reports/1249456.md) | Pre-auth RCE in ForgeRock OpenAM (CVE-2021-35464) | High | — | 8 | [fdeleite](https://hackerone.com/fdeleite) | 2021-07-29 |
-| 223 | [905679](../reports/905679.md) | PII Leak via /████████ | High | — | 8 | [z32](https://hackerone.com/z32) | 2021-02-18 |
-| 224 | [915073](../reports/915073.md) | Stored XSS via Comment Form at ████████ | High | — | 8 | [z32](https://hackerone.com/z32) | 2020-09-29 |
-| 225 | [232330](../reports/232330.md) | Remote Code Execution (RCE) vulnerability in a DoD website | High | — | 8 | [p3t3r_r4bb1t](https://hackerone.com/p3t3r_r4bb1t) | 2017-08-15 |
-| 226 | [1015406](../reports/1015406.md) | SQL Injection in www.██████████ | High | — | 8 | [val_brux](https://hackerone.com/val_brux) | 2021-01-12 |
-| 227 | [229199](../reports/229199.md) | Limited code execution vulnerability on a DoD website | High | — | 7 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-07-05 |
-| 228 | [587214](../reports/587214.md) | ██████ Authenticated User Data Disclosure | High | — | 7 | [deputy](https://hackerone.com/deputy) | 2019-10-04 |
-| 229 | [193936](../reports/193936.md) | SQL injection vulnerability on a DoD website | High | — | 7 | [thirup](https://hackerone.com/thirup) | 2017-05-31 |
-| 230 | [189458](../reports/189458.md) | Information disclosure vulnerability on a DoD website | High | — | 7 | [khizer47](https://hackerone.com/khizer47) | 2017-06-01 |
-| 231 | [1066083](../reports/1066083.md) | ███████mill is vulnerable to cross site request forgery that | High | — | 7 | [m4xp0w3r](https://hackerone.com/m4xp0w3r) | 2021-01-25 |
-| 232 | [991718](../reports/991718.md) | hardcoded password stored in javascript of https://████.mil | High | — | 7 | [x3ph_](https://hackerone.com/x3ph_) | 2020-11-02 |
-| 233 | [1198434](../reports/1198434.md) | Cache Posioning leading do Denial of Service on `www.███████ | High | — | 7 | [brumens](https://hackerone.com/brumens) | 2021-07-09 |
-| 234 | [709072](../reports/709072.md) | Null byte Injection in https://████/ | High | — | 7 | [mohammedadam24](https://hackerone.com/mohammedadam24) | 2020-05-14 |
-| 235 | [997988](../reports/997988.md) | External Service Interaction | https://█████████.mil | High | — | 7 | [x3ph_](https://hackerone.com/x3ph_) | 2020-10-16 |
-| 236 | [648222](../reports/648222.md) | [██████████] Unauthorized access to admin panel | High | — | 6 | [jarvis0x1](https://hackerone.com/jarvis0x1) | 2020-05-14 |
-| 237 | [622864](../reports/622864.md) | https://█████████ Vulnerable to CVE-2018-0296 Cisco ASA Path | High | — | 6 | [warsong](https://hackerone.com/warsong) | 2019-10-04 |
-| 238 | [1051885](../reports/1051885.md) | Insecure ███████ credentials on staging app at ████ leads to | High | — | 6 | [skarsom](https://hackerone.com/skarsom) | 2021-02-10 |
-| 239 | [901377](../reports/901377.md) | Stored XSS at ██████userprofile.aspx | High | — | 6 | [5050thepiguy](https://hackerone.com/5050thepiguy) | 2020-07-08 |
-| 240 | [192567](../reports/192567.md) | Remote code execution vulnerability on a DoD website | High | — | 6 | [korprit](https://hackerone.com/korprit) | 2017-06-23 |
-| 241 | [489483](../reports/489483.md) | SQL Injection in the get_publications.php on the https://███ | High | — | 6 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2019-10-04 |
-| 242 | [1018621](../reports/1018621.md) | [████] SQL Injections on Referer Header exploitable via Time | High | — | 6 | [polygon35](https://hackerone.com/polygon35) | 2020-11-02 |
-| 243 | [1095830](../reports/1095830.md) | CRXDE Lite/CRX is on ██████ exposed that leads to PII disclo | High | — | 6 | [mit0z](https://hackerone.com/mit0z) | 2021-03-11 |
-| 244 | [869450](../reports/869450.md) | Support incident can be opened for any user via /███████ and | High | — | 6 | [z32](https://hackerone.com/z32) | 2021-02-18 |
-| 245 | [1081994](../reports/1081994.md) | Stored XSS at https://www.█████████.mil | High | — | 6 | [5050thepiguy](https://hackerone.com/5050thepiguy) | 2021-02-01 |
-| 246 | [996273](../reports/996273.md) | SSRF in login page using fetch API exposes victims IP addres | High | — | 5 | [iamrose](https://hackerone.com/iamrose) | 2021-01-12 |
-| 247 | [865354](../reports/865354.md) | Arbitrary file upload and stored XSS via ███ support request | High | — | 5 | [z32](https://hackerone.com/z32) | 2021-02-18 |
-| 248 | [1262757](../reports/1262757.md) | SQL injection located in `███` in POST param `████████`  | High | — | 4 | [brumens](https://hackerone.com/brumens) | 2021-09-09 |
-| 249 | [710813](../reports/710813.md) | Able to log in with default ██████g creds at  https█████████ | High | — | 4 | [pirateducky](https://hackerone.com/pirateducky) | 2021-01-12 |
-| 250 | [960082](../reports/960082.md) | Read-only path traversal (CVE-2020-3452)  at https://█████ | High | — | 4 | [raginalstorm](https://hackerone.com/raginalstorm) | 2021-04-02 |
-| 251 | [1072616](../reports/1072616.md) | Stored XSS through name / last name on https://██████████/ | High | — | 4 | [nagli](https://hackerone.com/nagli) | 2021-03-11 |
-| 252 | [192079](../reports/192079.md) | SQL Injection vulnerability in a DoD website | High | — | 4 | [korprit](https://hackerone.com/korprit) | 2017-06-23 |
-| 253 | [183971](../reports/183971.md) | Stored cross-site scripting (XSS) on a DoD website | High | — | 4 | [jon_bottarini](https://hackerone.com/jon_bottarini) | 2017-03-16 |
-| 254 | [1555015](../reports/1555015.md) | [CVE-2020-3452] Unauthenticated file read in Cisco ASA | High | — | 4 | [b4dc4t](https://hackerone.com/b4dc4t) | 2022-05-12 |
-| 255 | [905688](../reports/905688.md) | PII Leak via /██████ | High | — | 4 | [z32](https://hackerone.com/z32) | 2021-02-18 |
-| 256 | [959679](../reports/959679.md) | Read-only path traversal (CVE-2020-3452)  at https://███████ | High | — | 4 | [raginalstorm](https://hackerone.com/raginalstorm) | 2021-04-02 |
-| 257 | [904064](../reports/904064.md) | Dashboard sharing enables code injection into ████ emails | High | — | 4 | [z32](https://hackerone.com/z32) | 2021-02-18 |
-| 258 | [904659](../reports/904659.md) | PII Leak via /███████ | High | — | 4 | [z32](https://hackerone.com/z32) | 2021-02-18 |
-| 259 | [745171](../reports/745171.md) | Unprotected ██████ and Test site API Exposes Documents, Cred | High | — | 3 | [byteone](https://hackerone.com/byteone) | 2022-09-14 |
-| 260 | [381771](../reports/381771.md) | ████████ SQL | High | — | 3 | [manshum12](https://hackerone.com/manshum12) | 2019-10-08 |
-| 261 | [728110](../reports/728110.md) | [HTAF4-213] [Pre-submission] CVE-2018-2879 (padding oracle a | High | — | 3 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2021-07-29 |
-| 262 | [1641148](../reports/1641148.md) | Directory Traversal at █████ | High | — | 3 | [0x45](https://hackerone.com/0x45) | 2022-09-14 |
-| 263 | [799898](../reports/799898.md) | Admin Login Credential Leak for DoD Gitlab EE instance | High | — | 3 | [daehee](https://hackerone.com/daehee) | 2020-05-14 |
-| 264 | [804080](../reports/804080.md) | Domian Takeover in [███████] | High | — | 3 | [0xsnowmn](https://hackerone.com/0xsnowmn) | 2020-05-14 |
-| 265 | [804980](../reports/804980.md) | Username&password is Disclosure in readme file in [https://█ | High | — | 2 | [0xsnowmn](https://hackerone.com/0xsnowmn) | 2020-05-14 |
-| 266 | [812585](../reports/812585.md) | Sensitive Information Leaking Through Navy Website. [█████] | High | — | 2 | [rootuser](https://hackerone.com/rootuser) | 2020-05-14 |
-| 267 | [1631447](../reports/1631447.md) | STORED XSS in █████████/nlc/login.aspx via "edit" GET parame | High — CVSS 8.2 | — | 2 | [shreky](https://hackerone.com/shreky) | 2022-09-14 |
-| 268 | [764731](../reports/764731.md) | Publicly accessible Grafana install allows pivoting to Prome | High | — | 1 | [gnarlygoat](https://hackerone.com/gnarlygoat) | 2020-05-14 |
-| 269 | [1455266](../reports/1455266.md) | Arbitrary File Deletion (CVE-2020-3187) on ████████ | High | — | 1 | [pirneci](https://hackerone.com/pirneci) | 2022-03-18 |
-| 270 | [2682079](../reports/2682079.md) | Publicly Editable U.S. Air Force Google Spreadsheet Exposing | Medium | — | 83 | [kolcyberdef](https://hackerone.com/kolcyberdef) | 2025-02-12 |
-| 271 | [2597543](../reports/2597543.md) | Blind Sql Injection in https://████ | Medium | — | 79 | [iamunixtz](https://hackerone.com/iamunixtz) | 2024-08-29 |
-| 272 | [2666323](../reports/2666323.md) | Improper Authentication Allows Making Appeals as Other Users | Medium | — | 76 | [tacnull](https://hackerone.com/tacnull) | 2025-02-12 |
-| 273 | [2599826](../reports/2599826.md) | Boolen Based Blind Sql Injection Via User Agent in ███.mil | Medium | — | 65 | [iamunixtz](https://hackerone.com/iamunixtz) | 2025-01-24 |
-| 274 | [2586584](../reports/2586584.md) | IDOR leads to PII Leak | Medium | — | 61 | [prakhar0x01](https://hackerone.com/prakhar0x01) | 2024-07-19 |
-| 275 | [1982630](../reports/1982630.md) | CVE-2023-29489 XSS in cpanel at [www.███] - Securado, Oman | Medium | — | 58 | [rook1337](https://hackerone.com/rook1337) | 2023-06-09 |
-| 276 | [2414707](../reports/2414707.md) | Authentication Bypass on https://███████/ | Medium | — | 57 | [bulldawg](https://hackerone.com/bulldawg) | 2024-07-19 |
-| 277 | [2759243](../reports/2759243.md) | Time-based blind SQL injection | Medium | — | 52 | [leofmlopes](https://hackerone.com/leofmlopes) | 2025-01-24 |
-| 278 | [2670521](../reports/2670521.md) | XSS found for https://█████████ | Medium | — | 51 | [thpless](https://hackerone.com/thpless) | 2024-08-29 |
-| 279 | [2615670](../reports/2615670.md) | XSS on ███████ | Medium — CVSS 5.3 | — | 48 | [0xelkot](https://hackerone.com/0xelkot) | 2024-08-29 |
-| 280 | [2434904](../reports/2434904.md) | Reflected Cross-site Scripting via search query on ██████ | Medium | — | 45 | [neg0x](https://hackerone.com/neg0x) | 2024-05-03 |
-| 281 | [2353185](../reports/2353185.md) | Xss  - ███ | Medium | — | 45 | [chor4o](https://hackerone.com/chor4o) | 2024-03-22 |
-| 282 | [723090](../reports/723090.md) | [HTAF4-213] [Pre-submission] HTTPOnly session cookie exposur | Medium — CVSS 4.3 | — | 43 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2024-06-18 |
-| 283 | [2479161](../reports/2479161.md) | reflected xss [CVE-2020-3580] | Medium | — | 43 | [maskedpersian](https://hackerone.com/maskedpersian) | 2024-05-03 |
-| 284 | [2888784](../reports/2888784.md) | XSS vulnerability found in javascript code of https://███.mi | Medium | — | 42 | [thpless](https://hackerone.com/thpless) | 2025-01-24 |
-| 285 | [2417864](../reports/2417864.md) | Reflected XSS on error message on Login Page | Medium | — | 42 | [kurogai](https://hackerone.com/kurogai) | 2024-05-03 |
-| 286 | [2555949](../reports/2555949.md) | █████████ (Android): Vulnerable to Javascript Injection and  | Medium | — | 41 | [cleanchain50](https://hackerone.com/cleanchain50) | 2024-07-26 |
-| 287 | [2587844](../reports/2587844.md) | Cross Site Scripting | Medium — CVSS 4.3 | — | 40 | [prakhar0x01](https://hackerone.com/prakhar0x01) | 2024-08-16 |
-| 288 | [2586641](../reports/2586641.md) | IDOR  leads to view other user Biographical details (Possibl | Medium | — | 40 | [prakhar0x01](https://hackerone.com/prakhar0x01) | 2024-07-19 |
-| 289 | [991717](../reports/991717.md) | 403 Forbidden Bypass at www.██████.mil | Medium | — | 40 | [sldwn](https://hackerone.com/sldwn) | 2020-11-02 |
-| 290 | [2853410](../reports/2853410.md) | XSS found in https://www.████████.mil | Medium | — | 39 | [thpless](https://hackerone.com/thpless) | 2025-01-24 |
-| 291 | [2020429](../reports/2020429.md) | Blind Sql Injection https:/████████ | Medium | — | 39 | [codeslayer1337](https://hackerone.com/codeslayer1337) | 2023-06-30 |
-| 292 | [2586662](../reports/2586662.md) | IDOR : Modify other users demographic details | Medium | — | 38 | [prakhar0x01](https://hackerone.com/prakhar0x01) | 2024-07-19 |
-| 293 | [2353131](../reports/2353131.md) | Xss  Parameter: /<s>/[*]/<s>.css ████████ | Medium | — | 36 | [chor4o](https://hackerone.com/chor4o) | 2024-03-22 |
-| 294 | [2433970](../reports/2433970.md) | SQL injection on ██████████ via 'where' parameter | Medium | — | 34 | [neg0x](https://hackerone.com/neg0x) | 2024-05-03 |
-| 295 | [2233421](../reports/2233421.md) | XSS in Cisco Endpoint | Medium | — | 34 | [r00tdaddy](https://hackerone.com/r00tdaddy) | 2023-11-17 |
-| 296 | [2652190](../reports/2652190.md) | CSRF Attack leads to delete album at | Medium — CVSS 5.4 | — | 33 | [prakhar0x01](https://hackerone.com/prakhar0x01) | 2024-12-18 |
-| 297 | [998935](../reports/998935.md) | POST based RXSS on https://███████/ via ███ parameter | Medium | — | 33 | [nagli](https://hackerone.com/nagli) | 2021-10-13 |
-| 298 | [1860905](../reports/1860905.md) | Splunk Sensitive Information Disclosure @████████ | Medium | — | 32 | [spell1](https://hackerone.com/spell1) | 2023-02-13 |
-| 299 | [1250293](../reports/1250293.md) | SQL injection my method -1 OR 3*2*1=6 AND 000159=000159 | Medium | — | 32 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2021-07-29 |
-| 300 | [2736979](../reports/2736979.md) | CSRF to XSS | Medium | — | 31 | [k0x](https://hackerone.com/k0x) | 2024-12-18 |
-| 301 | [310036](../reports/310036.md) | SSRF vulnerability on ██████████ leaks internal IP and vario | Medium | — | 30 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2019-12-02 |
-| 302 | [758854](../reports/758854.md) | Reflected Xss | Medium | — | 28 | [0xelkomy](https://hackerone.com/0xelkomy) | 2020-09-21 |
-| 303 | [1988560](../reports/1988560.md) | Reflected xss on https://█████████ | Medium | — | 28 | [rektile404](https://hackerone.com/rektile404) | 2023-06-02 |
-| 304 | [1118501](../reports/1118501.md) | CSRF to Cross-site Scripting (XSS) | Medium | — | 27 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2021-03-24 |
-| 305 | [1989884](../reports/1989884.md) | Docker Registry without authentication leads to docker image | Medium | — | 27 | [samuelsiv](https://hackerone.com/samuelsiv) | 2023-06-23 |
-| 306 | [195635](../reports/195635.md) | Video player on ███ allows arbitrary remote videos to be pla | Medium | — | 26 | [tomnomnom](https://hackerone.com/tomnomnom) | 2019-12-02 |
-| 307 | [2778412](../reports/2778412.md) | [ CVE-2018-1000129 ] RXSS At `https://███████` via the URI | Medium | — | 26 | [todayisnew-](https://hackerone.com/todayisnew-) | 2024-12-18 |
-| 308 | [1390131](../reports/1390131.md) | Reflected XSS | Medium | — | 26 | [f6x](https://hackerone.com/f6x) | 2023-01-06 |
-| 309 | [2741110](../reports/2741110.md) | XSS Reflected | Medium — CVSS 5.3 | — | 26 | [k0x](https://hackerone.com/k0x) | 2024-12-18 |
-| 310 | [1639364](../reports/1639364.md) | Local File Inclusion in download.php | Medium | — | 25 | [tokyoenigma](https://hackerone.com/tokyoenigma) | 2024-07-19 |
-| 311 | [2444032](../reports/2444032.md) | Reflected XSS via Moodle on ███ [CVE-2022-35653] | Medium | — | 24 | [maskedpersian](https://hackerone.com/maskedpersian) | 2024-05-03 |
-| 312 | [1877989](../reports/1877989.md) | Client side authentication leads to Auth Bypass | Medium | — | 24 | [kalkii](https://hackerone.com/kalkii) | 2023-03-24 |
-| 313 | [840285](../reports/840285.md) | CSRF Account Deletion on ███ Website | Medium | — | 24 | [notdeghost](https://hackerone.com/notdeghost) | 2020-07-09 |
-| 314 | [1690044](../reports/1690044.md) | IDOR leaking PII data via VendorId parameter | Medium | — | 23 | [696e746c6f6c](https://hackerone.com/696e746c6f6c) | 2022-10-14 |
-| 315 | [2180018](../reports/2180018.md) | Information Disclosure FrontPage Configuration Information | Medium | — | 23 | [gu4rdianbyte](https://hackerone.com/gu4rdianbyte) | 2023-10-20 |
-| 316 | [950700](../reports/950700.md) | Reflected XSS in https://www.█████/ | Medium | — | 23 | [nirajgautamit](https://hackerone.com/nirajgautamit) | 2020-09-29 |
-| 317 | [2297561](../reports/2297561.md) | Resource Injection - [████████] | Medium | — | 22 | [geej](https://hackerone.com/geej) | 2024-03-22 |
-| 318 | [2697588](../reports/2697588.md) | CSRF Attack leads to delete album at ████████ | Medium | — | 22 | [prakhar0x01](https://hackerone.com/prakhar0x01) | 2024-12-18 |
-| 319 | [1882592](../reports/1882592.md) | Reflected XSS in ████████████ | Medium | — | 21 | [0xd3adc0de](https://hackerone.com/0xd3adc0de) | 2023-04-14 |
-| 320 | [924650](../reports/924650.md) | Reflected XSS in https://www.██████/ | Medium | — | 21 | [nirajgautamit](https://hackerone.com/nirajgautamit) | 2020-09-29 |
-| 321 | [2356104](../reports/2356104.md) | Parâmetro XSS: Nome de usuário - █████████ | Medium | — | 20 | [chor4o](https://hackerone.com/chor4o) | 2024-03-22 |
-| 322 | [1624267](../reports/1624267.md) | [████████] RXSS via "CurrentFolder" parameter | Medium | — | 20 | [qu1nten](https://hackerone.com/qu1nten) | 2023-12-21 |
-| 323 | [1092678](../reports/1092678.md) | Self stored Xss + Login Csrf | Medium | — | 20 | [biest](https://hackerone.com/biest) | 2021-06-30 |
-| 324 | [695429](../reports/695429.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://████ | Medium — CVSS 5.3 | — | 19 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2024-06-18 |
-| 325 | [1799562](../reports/1799562.md) | Reflected XSS on ██████.mil | Medium | — | 19 | [alishah](https://hackerone.com/alishah) | 2023-01-27 |
-| 326 | [1102591](../reports/1102591.md) | Blind SQL iNJECTION  | Medium | — | 19 | [1337n0x](https://hackerone.com/1337n0x) | 2021-06-03 |
-| 327 | [1679969](../reports/1679969.md) | Host Header Injection on https://███/████████/Account/Forgot | Medium | — | 19 | [696e746c6f6c](https://hackerone.com/696e746c6f6c) | 2022-10-14 |
-| 328 | [1794757](../reports/1794757.md) | Reflective Cross Site Scripting (XSS) on ███████/Pages | Medium | — | 18 | [predatorsparrow](https://hackerone.com/predatorsparrow) | 2024-03-22 |
-| 329 | [389250](../reports/389250.md) | IDOR | Medium | — | 18 | [websecnl](https://hackerone.com/websecnl) | 2022-02-14 |
-| 330 | [1003433](../reports/1003433.md) | XSS Reflect to POST █████ | Medium | — | 18 | [ofjaaaah](https://hackerone.com/ofjaaaah) | 2020-11-23 |
-| 331 | [485684](../reports/485684.md) | Self XSS combine CSRF at https://████████/index.php | Medium | — | 17 | [manshum12](https://hackerone.com/manshum12) | 2020-05-27 |
-| 332 | [695427](../reports/695427.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://███  | Medium — CVSS 5.3 | — | 17 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2024-07-19 |
-| 333 | [872304](../reports/872304.md) | RXSS - https://████████/ | Medium | — | 17 | [0xelkomy](https://hackerone.com/0xelkomy) | 2021-10-18 |
-| 334 | [694865](../reports/694865.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://████ | Medium — CVSS 5.3 | — | 16 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2024-06-18 |
-| 335 | [1065167](../reports/1065167.md) | Reflected XSS on https://█████████/ | Medium | — | 16 | [nagli](https://hackerone.com/nagli) | 2021-02-01 |
-| 336 | [1814335](../reports/1814335.md) | reflected xss in www.████████.gov | Medium | — | 16 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-01-27 |
-| 337 | [1069392](../reports/1069392.md) | Old Session Does Not Expires After Password Change | Medium | — | 16 | [hemantsolo](https://hackerone.com/hemantsolo) | 2021-01-25 |
-| 338 | [882220](../reports/882220.md) | XSS via X-Forwarded-Host header | Medium | — | 16 | [geeknik](https://hackerone.com/geeknik) | 2021-05-11 |
-| 339 | [1090838](../reports/1090838.md) | CSRF in  https://███ | Medium | — | 15 | [blackangel11](https://hackerone.com/blackangel11) | 2021-04-20 |
-| 340 | [708592](../reports/708592.md) | [█████] — DOM-based XSS on endpoint `/?s=` | Medium | — | 15 | [usamasood](https://hackerone.com/usamasood) | 2019-12-02 |
-| 341 | [2126954](../reports/2126954.md) | [██████] Reflected XSS via Keycloak on ██████ | Medium | — | 15 | [hackeronanywhere](https://hackerone.com/hackeronanywhere) | 2023-09-29 |
-| 342 | [862681](../reports/862681.md) | No Rate Limiting on https://██████/██████████/accounts/passw | Medium | — | 15 | [nagli](https://hackerone.com/nagli) | 2020-05-27 |
-| 343 | [1771149](../reports/1771149.md) | CORS Misconfiguration in https://████████/accounts/login/ | Medium | — | 15 | [deepvvm](https://hackerone.com/deepvvm) | 2023-02-24 |
-| 344 | [3238607](../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025- | Medium | — | 15 | [0xkarim_dix](https://hackerone.com/0xkarim_dix) | 2026-01-12 |
-| 345 | [213239](../reports/213239.md) | Blind SQLi vulnerability in a DoD Website | Medium | — | 14 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-06-16 |
-| 346 | [1014593](../reports/1014593.md) | CSRF to Stored HTML injection at https://www.█████ | Medium | — | 14 | [nagli](https://hackerone.com/nagli) | 2020-12-03 |
-| 347 | [1763404](../reports/1763404.md) | xss on reset password page | Medium | — | 14 | [0x53_0x52_0x59](https://hackerone.com/0x53_0x52_0x59) | 2023-01-06 |
-| 348 | [896093](../reports/896093.md) | (CORS) Cross-origin resource sharing misconfiguration | Medium | — | 14 | [natanalves01001](https://hackerone.com/natanalves01001) | 2020-07-14 |
-| 349 | [1171403](../reports/1171403.md) | Reflected XSS through ClickJacking | Medium | — | 14 | [sazouki](https://hackerone.com/sazouki) | 2021-06-15 |
-| 350 | [1822160](../reports/1822160.md) | [U.S. Air Force] Information disclosure due unauthenticated  | Medium | — | 14 | [hackeronanywhere](https://hackerone.com/hackeronanywhere) | 2023-01-27 |
-| 351 | [2231261](../reports/2231261.md) | Elasticsearch is currently open without authentication on  h | Medium | — | 14 | [roland_hack](https://hackerone.com/roland_hack) | 2023-12-21 |
-| 352 | [1723896](../reports/1723896.md) | Sql Injection At █████████ | Medium | — | 14 | [w13d0m](https://hackerone.com/w13d0m) | 2023-01-06 |
-| 353 | [1704035](../reports/1704035.md) | AWS Credentials Disclosure at ███  | Medium | — | 14 | [0r10nh4ck](https://hackerone.com/0r10nh4ck) | 2023-02-24 |
-| 354 | [1159255](../reports/1159255.md) | DOM Based XSS on https://████ via backURL param | Medium | — | 14 | [nagli](https://hackerone.com/nagli) | 2021-05-11 |
-| 355 | [1005374](../reports/1005374.md) | CORS misconfiguration which leads to the disclosure  | Medium | — | 14 | [blackangel11](https://hackerone.com/blackangel11) | 2020-11-23 |
-| 356 | [799855](../reports/799855.md) | CSRF - Delete Account (Urgent) | Medium | — | 13 | [ahmd_halabi](https://hackerone.com/ahmd_halabi) | 2022-03-18 |
-| 357 | [1048540](../reports/1048540.md) | IDOR on https://██████ via POST UID enables database scrapin | Medium | — | 13 | [skarsom](https://hackerone.com/skarsom) | 2021-04-08 |
-| 358 | [996122](../reports/996122.md) | Insufficient Session Expiration on Adobe Connect | https://█ | Medium | — | 13 | [x3ph_](https://hackerone.com/x3ph_) | 2021-06-03 |
-| 359 | [1196945](../reports/1196945.md) | Reflected XSS at [████████] | Medium | — | 13 | [rook1337](https://hackerone.com/rook1337) | 2021-06-30 |
-| 360 | [184472](../reports/184472.md) | http://████/data.json  showing users sensitive information v | Medium | — | 13 | [00utsav00](https://hackerone.com/00utsav00) | 2019-12-02 |
-| 361 | [1825942](../reports/1825942.md) | XSS on ( █████████.gov ) Via URL path | Medium | — | 13 | [notajax](https://hackerone.com/notajax) | 2023-01-27 |
-| 362 | [1636345](../reports/1636345.md) | Reflected cross site scripting in https://███████ | Medium | — | 13 | [maskedpersian](https://hackerone.com/maskedpersian) | 2022-09-06 |
-| 363 | [230870](../reports/230870.md) | Arbitary file download vulnerability on a DoD website | Medium | — | 13 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2017-07-05 |
-| 364 | [1892317](../reports/1892317.md) | XSS Reflected | Medium | — | 13 | [ferreiraklet_](https://hackerone.com/ferreiraklet_) | 2023-09-08 |
-| 365 | [2073717](../reports/2073717.md) | SqlInject at ██████ | Medium | — | 12 | [appllite](https://hackerone.com/appllite) | 2023-09-08 |
-| 366 | [2521186](../reports/2521186.md) | Self XSS | Medium | — | 12 | [0xtrav](https://hackerone.com/0xtrav) | 2024-07-19 |
-| 367 | [1147949](../reports/1147949.md) | CSRF Based XSS @ https://██████████ | Medium | — | 12 | [nagli](https://hackerone.com/nagli) | 2021-06-30 |
-| 368 | [1406598](../reports/1406598.md) | Rxss on █████████ via logout?service=javascript:alert(1) | Medium | — | 12 | [m00n_knight](https://hackerone.com/m00n_knight) | 2021-12-22 |
-| 369 | [1850235](../reports/1850235.md) | [XSS] Reflected XSS via POST request | Medium | — | 12 | [0xd3adc0de](https://hackerone.com/0xd3adc0de) | 2023-02-24 |
-| 370 | [2247231](../reports/2247231.md) | Unauthorized access to Argo dashboard on █████ | Medium | — | 12 | [devdevrl](https://hackerone.com/devdevrl) | 2023-12-21 |
-| 371 | [1548067](../reports/1548067.md) | Unauthorized Access to Internal Server Panel without Authent | Medium | — | 12 | [ahmd_halabi](https://hackerone.com/ahmd_halabi) | 2022-06-27 |
-| 372 | [1007702](../reports/1007702.md) | PII Leak of USCG Designated Examiner List at https://www.███ | Medium | — | 12 | [nagli](https://hackerone.com/nagli) | 2020-12-03 |
-| 373 | [3437836](../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | Medium | — | 11 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
-| 374 | [1223577](../reports/1223577.md) | XSS Reflected - ██████████ | Medium | — | 11 | [drauschkolb](https://hackerone.com/drauschkolb) | 2022-01-19 |
-| 375 | [1093908](../reports/1093908.md) | IDOR leads to Leakage an ██████████ Login Information | Medium | — | 11 | [sleepnotf0und](https://hackerone.com/sleepnotf0und) | 2021-03-11 |
-| 376 | [196448](../reports/196448.md) | Local file inclusion vulnerability on a DoD website | Medium | — | 11 | [fransrosen](https://hackerone.com/fransrosen) | 2017-04-27 |
-| 377 | [1149144](../reports/1149144.md) | Reflected XSS through clickjacking at https://████ | Medium | — | 11 | [nagli](https://hackerone.com/nagli) | 2021-06-03 |
-| 378 | [759418](../reports/759418.md) | Reflected Xss  https://██████/ | Medium | — | 11 | [0xelkomy](https://hackerone.com/0xelkomy) | 2021-10-18 |
-| 379 | [1619536](../reports/1619536.md) | xmlrpc.php file enabled at ██████.org | Medium | — | 11 | [iam_a_jinchuriki](https://hackerone.com/iam_a_jinchuriki) | 2023-03-24 |
-| 380 | [1094276](../reports/1094276.md) | Reflected XSS In https://███████ | Medium | — | 10 | [sleepnotf0und](https://hackerone.com/sleepnotf0und) | 2021-02-10 |
-| 381 | [207477](../reports/207477.md) | SSRF in ███████ | Medium | — | 10 | [bfe3fdb1088411d8ef018aa3abde8](https://hackerone.com/bfe3fdb1088411d8ef018aa3abde8) | 2019-12-02 |
-| 382 | [382048](../reports/382048.md) | Server-Side Request Forgery (SSRF) | Medium | — | 10 | [t-pwn](https://hackerone.com/t-pwn) | 2019-12-02 |
-| 383 | [1250199](../reports/1250199.md) | Cross site scripting  | Medium | — | 10 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2021-07-29 |
-| 384 | [696400](../reports/696400.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://████ | Medium — CVSS 6.5 | — | 10 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2024-06-18 |
-| 385 | [695776](../reports/695776.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://████ | Medium — CVSS 6.5 | — | 10 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2024-07-19 |
-| 386 | [191243](../reports/191243.md) | File upload vulnerability on a DoD website | Medium | — | 10 | [korprit](https://hackerone.com/korprit) | 2017-03-16 |
-| 387 | [1873655](../reports/1873655.md) | Reflected XSS in ██████ | Medium | — | 10 | [0xd3adc0de](https://hackerone.com/0xd3adc0de) | 2023-03-24 |
-| 388 | [1878756](../reports/1878756.md) | Email exploitation with web hosting services. | Medium | — | 10 | [mdfarhanchowdhuryhasin](https://hackerone.com/mdfarhanchowdhuryhasin) | 2023-04-14 |
-| 389 | [771215](../reports/771215.md) | Blind SQL Injection | Medium | — | 10 | [mido0x0x](https://hackerone.com/mido0x0x) | 2022-04-29 |
-| 390 | [1147060](../reports/1147060.md) | Reflected XSS | Medium | — | 10 | [fdeleite](https://hackerone.com/fdeleite) | 2021-06-03 |
-| 391 | [856981](../reports/856981.md) | CSRF - Modify Company Info | Medium | — | 10 | [ahmd_halabi](https://hackerone.com/ahmd_halabi) | 2020-06-11 |
-| 392 | [695780](../reports/695780.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://████ | Medium — CVSS 6.5 | — | 10 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2024-07-19 |
-| 393 | [3136754](../reports/3136754.md) | Cross-Site Scripting via 'autoPlay' parameter | Medium | — | 10 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
-| 394 | [1626356](../reports/1626356.md) | Account Takeover and Information update due to cross site re | Medium — CVSS 5.4 | — | 10 | [snifyak](https://hackerone.com/snifyak) | 2022-10-14 |
-| 395 | [230714](../reports/230714.md) | Arbitary file download vulnerability on a DoD website | Medium | — | 10 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2017-07-05 |
-| 396 | [1010316](../reports/1010316.md) | Reflected XSS on https://████/ (Bypass of #1002977) | Medium | — | 10 | [nagli](https://hackerone.com/nagli) | 2020-11-23 |
-| 397 | [962753](../reports/962753.md) | Elmah.axd is publicly accessible and leaking  Error Log for  | Medium | — | 10 | [rudra16](https://hackerone.com/rudra16) | 2020-09-03 |
-| 398 | [1012249](../reports/1012249.md) | Reflected XSS  www.█████ search form | Medium | — | 10 | [val_brux](https://hackerone.com/val_brux) | 2021-01-25 |
-| 399 | [1154378](../reports/1154378.md) | Reflected XSS on https://██████ | Medium | — | 10 | [thiennv](https://hackerone.com/thiennv) | 2021-06-03 |
-| 400 | [1267380](../reports/1267380.md) | Reflected XSS on [█████████] | Medium | — | 10 | [saajanbhujel](https://hackerone.com/saajanbhujel) | 2022-04-07 |
-| 401 | [259913](../reports/259913.md) | File Upload Restriction Bypass | Medium | — | 10 | [ok_bye_now](https://hackerone.com/ok_bye_now) | 2020-05-14 |
-| 402 | [195544](../reports/195544.md) | Exposed Access Control Data Backup Files on DoD Website | Medium | — | 10 | [mazen160](https://hackerone.com/mazen160) | 2017-02-15 |
-| 403 | [3137212](../reports/3137212.md) | Cross-Site Scripting via 'wikitext' parameter | Medium | — | 9 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
-| 404 | [1794884](../reports/1794884.md) | Unauthenticated phpinfo()files could lead to ability file re | Medium | — | 9 | [hackeronanywhere](https://hackerone.com/hackeronanywhere) | 2023-01-06 |
-| 405 | [1173598](../reports/1173598.md) | S3 bucket listing/download | Medium | — | 9 | [fdeleite](https://hackerone.com/fdeleite) | 2021-08-19 |
-| 406 | [1665648](../reports/1665648.md) | stored cross site scripting in https://████████.edu | Medium | — | 9 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-09-08 |
-| 407 | [3137206](../reports/3137206.md) | Cross-Site Scripting via 'description_extra' parameter | Medium | — | 9 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
-| 408 | [1139340](../reports/1139340.md) | Elmah.axd is publicly accessible leaking Error Log | Medium | — | 9 | [fdeleite](https://hackerone.com/fdeleite) | 2021-06-15 |
-| 409 | [1660611](../reports/1660611.md) | stored cross site scripting in https://███ | Medium | — | 9 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-01-06 |
-| 410 | [189851](../reports/189851.md) | Time Based SQL Injection vulnerability on a DoD website | Medium | — | 9 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2017-07-05 |
-| 411 | [3053220](../reports/3053220.md) | XSS on ███ | Medium | — | 9 | [bewgsy](https://hackerone.com/bewgsy) | 2026-01-12 |
-| 412 | [188149](../reports/188149.md) | Personal information disclosure on a DoD website | Medium | — | 9 | [spam404](https://hackerone.com/spam404) | 2017-02-16 |
-| 413 | [3166585](../reports/3166585.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Medium | — | 9 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
-| 414 | [694861](../reports/694861.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://1███ | Medium — CVSS 5.3 | — | 9 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2024-07-19 |
-| 415 | [3284389](../reports/3284389.md) | Cross-Site Scripting via 'RAISED_FUNDS_DESC' parameter | Medium | — | 9 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
-| 416 | [498351](../reports/498351.md) | [█████] Get all tickets (IDOR) | Medium | — | 9 | [jarvis0x1](https://hackerone.com/jarvis0x1) | 2019-12-02 |
-| 417 | [1623685](../reports/1623685.md) | SSRF ACCESS AWS METADATA - █████ | Medium | — | 8 | [0xr3dhunt](https://hackerone.com/0xr3dhunt) | 2022-09-14 |
-| 418 | [184286](../reports/184286.md) | Reflected XSS on a Department of Defense website | Medium | — | 8 | [juliocesar](https://hackerone.com/juliocesar) | 2017-01-12 |
-| 419 | [1057269](../reports/1057269.md) | PII Information Leak at https://████████.mil/ | Medium | — | 8 | [savxiety](https://hackerone.com/savxiety) | 2021-01-12 |
-| 420 | [874427](../reports/874427.md) | Tomcat examples available for public, Disclosure Apache Tomc | Medium | — | 8 | [pvm](https://hackerone.com/pvm) | 2020-06-11 |
-| 421 | [1173593](../reports/1173593.md) | Reflected XSS at www.███████ at /██████████ via the ████████ | Medium | — | 8 | [z32](https://hackerone.com/z32) | 2021-06-03 |
-| 422 | [1665966](../reports/1665966.md) | stored cross site scripting in https://██████████ | Medium | — | 8 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-01-06 |
-| 423 | [922496](../reports/922496.md) | DOM XSS on https://www.███████ | Medium | — | 8 | [gamer7112](https://hackerone.com/gamer7112) | 2020-09-29 |
-| 424 | [3166579](../reports/3166579.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Medium | — | 8 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
-| 425 | [207099](../reports/207099.md) | Insecure Direct Object Reference (IDOR) vulnerability in a D | Medium | — | 8 | [amsda](https://hackerone.com/amsda) | 2017-08-15 |
-| 426 | [1982099](../reports/1982099.md) | DOM-XSS | Medium | — | 8 | [medokll0011](https://hackerone.com/medokll0011) | 2023-06-02 |
-| 427 | [184199](../reports/184199.md) | Reflected XSS on an Army website | Medium | — | 8 | [juliocesar](https://hackerone.com/juliocesar) | 2017-01-12 |
-| 428 | [3136746](../reports/3136746.md) | Cross-Site Scripting via 'currentImage' parameter | Medium | — | 8 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
-| 429 | [3204997](../reports/3204997.md) | Reflected XSS via user Parameter on getconfig.esp Endpoint | Medium | — | 8 | [aramx4](https://hackerone.com/aramx4) | 2026-01-12 |
-| 430 | [1804174](../reports/1804174.md) | Improper Access Control on Media Wiki allows an attackers to | Medium | — | 8 | [miguel_santareno](https://hackerone.com/miguel_santareno) | 2023-03-24 |
-| 431 | [409230](../reports/409230.md) | Cross Site Scripting (XSS) – Reflected | Medium | — | 8 | [jayhanspara](https://hackerone.com/jayhanspara) | 2020-09-29 |
-| 432 | [3351408](../reports/3351408.md) | Cross-Site Scripting via URL on ███████ | Medium | — | 8 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
-| 433 | [1243650](../reports/1243650.md) | ███████ - XSS - CVE-2020-3580 | Medium | — | 8 | [pr3r00t](https://hackerone.com/pr3r00t) | 2021-09-29 |
-| 434 | [998981](../reports/998981.md) | {███} It is posible download all information and files via S | Medium | — | 8 | [z3ck3bug](https://hackerone.com/z3ck3bug) | 2020-11-23 |
-| 435 | [728001](../reports/728001.md) | [HTAF4-213] [Pre-submission] XSS via arbitrary cookie name a | Medium — CVSS 5.4 | — | 8 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2024-06-18 |
-| 436 | [1884372](../reports/1884372.md) | HAProxy stats panel exposed externally | Medium | — | 8 | [kalkii](https://hackerone.com/kalkii) | 2023-03-24 |
-| 437 | [183855](../reports/183855.md) | Reflected XSS on a Department of Defense website | Medium | — | 8 | [juliocesar](https://hackerone.com/juliocesar) | 2017-01-12 |
-| 438 | [1317031](../reports/1317031.md) | Open Akamai ARL XSS at ████████ | Medium | — | 8 | [whoisbinit](https://hackerone.com/whoisbinit) | 2022-04-07 |
-| 439 | [1627974](../reports/1627974.md) | IDOR on ███████ [HtUS] | Medium — CVSS 6.5 | — | 8 | [nightm4re](https://hackerone.com/nightm4re) | 2022-11-18 |
-| 440 | [1317024](../reports/1317024.md) | Open Akamai ARL XSS at ████████ | Medium | — | 7 | [whoisbinit](https://hackerone.com/whoisbinit) | 2022-04-20 |
-| 441 | [3354494](../reports/3354494.md) | Cross-Site Scripting via URL on ███████ | Medium | — | 7 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
-| 442 | [3205104](../reports/3205104.md) | Reflected XSS via user Parameter in /ssl-vpn/getconfig.esp | Medium | — | 7 | [aramx4](https://hackerone.com/aramx4) | 2026-01-12 |
-| 443 | [1074136](../reports/1074136.md) | Bypassed a fix to gain access to PII of more than 100 Office | Medium | — | 7 | [mrsinister15](https://hackerone.com/mrsinister15) | 2021-02-10 |
-| 444 | [1536215](../reports/1536215.md) | Reflected XSS via `████████` parameter | Medium | — | 7 | [mdakh404](https://hackerone.com/mdakh404) | 2022-06-27 |
-| 445 | [197976](../reports/197976.md) | Open FTP on ███ | Medium | — | 7 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2019-12-02 |
-| 446 | [200125](../reports/200125.md) | Information disclosure vulnerability on a DoD website | Medium | — | 7 | [jon_bottarini](https://hackerone.com/jon_bottarini) | 2017-06-16 |
-| 447 | [1657020](../reports/1657020.md) | stored cross site scripting in https://███ | Medium | — | 7 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-01-06 |
-| 448 | [3166581](../reports/3166581.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Medium | — | 7 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
-| 449 | [186189](../reports/186189.md) | Information leakage on a Department of Defense website | Medium | — | 7 | [korprit](https://hackerone.com/korprit) | 2017-01-12 |
-| 450 | [648346](../reports/648346.md) | [████████] Boolean SQL Injection (/personnel.php?content=pro | Medium | — | 7 | [jarvis0x1](https://hackerone.com/jarvis0x1) | 2019-12-02 |
-| 451 | [995144](../reports/995144.md) | (CORS) Cross-origin resource sharing misconfiguration on htt | Medium | — | 7 | [fiveguyslover](https://hackerone.com/fiveguyslover) | 2022-02-14 |
-| 452 | [1681178](../reports/1681178.md) | Reflected XSS at https://██████/ | Medium | — | 7 | [testingforbugs](https://hackerone.com/testingforbugs) | 2023-09-29 |
-| 453 | [1062803](../reports/1062803.md) | Misconfigured AWS S3 bucket leaks senstive data  such of  ad | Medium | — | 7 | [i_am_no__one](https://hackerone.com/i_am_no__one) | 2021-03-24 |
-| 454 | [1183472](../reports/1183472.md) |  SSRF due to  CVE-2021-27905 in www.████████ | Medium | — | 7 | [fdeleite](https://hackerone.com/fdeleite) | 2022-04-29 |
-| 455 | [1184644](../reports/1184644.md) | [www.███] Reflected Cross-Site Scripting | Medium | — | 7 | [celesian](https://hackerone.com/celesian) | 2021-06-30 |
-| 456 | [410099](../reports/410099.md) | Account takeover due to CSRF in "Account details" option on  | Medium | — | 7 | [mik317](https://hackerone.com/mik317) | 2019-01-11 |
-| 457 | [1147951](../reports/1147951.md) | CVE-2019-3403 on https://████/rest/api/2/user/picker?query= | Medium | — | 7 | [nagli](https://hackerone.com/nagli) | 2021-06-03 |
-| 458 | [359290](../reports/359290.md) | LDAP Injection at ██████ | Medium | — | 7 | [tampe125](https://hackerone.com/tampe125) | 2019-12-02 |
-| 459 | [1252282](../reports/1252282.md) | XSS on ███ | Medium | — | 7 | [0xelkot](https://hackerone.com/0xelkot) | 2021-08-19 |
-| 460 | [1062380](../reports/1062380.md) | Reflected XSS on ███████ | Medium | — | 7 | [0x0d0](https://hackerone.com/0x0d0) | 2021-04-02 |
-| 461 | [223948](../reports/223948.md) | Exposed ███████ Administrative Interface (ColdFusion 11) | Medium | — | 7 | [jamesit](https://hackerone.com/jamesit) | 2019-12-02 |
-| 462 | [230026](../reports/230026.md) | Insecure Direct Object Reference on in-scope .mil website | Medium | — | 7 | [gamliel](https://hackerone.com/gamliel) | 2019-12-02 |
-| 463 | [3166582](../reports/3166582.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Medium | — | 7 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
-| 464 | [374057](../reports/374057.md) | Corda Server XSS ████████ | Medium | — | 7 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2019-12-02 |
-| 465 | [1627962](../reports/1627962.md) | Unauthenticated PII leak on verified/requested to be verifie | Medium — CVSS 4.3 | — | 7 | [shreky](https://hackerone.com/shreky) | 2022-10-14 |
-| 466 | [191608](../reports/191608.md) | Cross-site request forgery vulnerability on a DoD website | Medium | — | 6 | [korprit](https://hackerone.com/korprit) | 2017-03-16 |
-| 467 | [1059395](../reports/1059395.md) | Reflected XSS on █████████ | Medium | — | 6 | [0x0d0](https://hackerone.com/0x0d0) | 2021-04-02 |
-| 468 | [1305472](../reports/1305472.md) | Reflected XSS at ████ via ██████████= parameter  | Medium | — | 6 | [zhenwarx](https://hackerone.com/zhenwarx) | 2021-10-28 |
-| 469 | [1660500](../reports/1660500.md) | stored cross site scripting in https://█████████ | Medium | — | 6 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-01-06 |
-| 470 | [1736317](../reports/1736317.md) | XSS via Client Side Template Injection on www.███/News/Speec | Medium | — | 6 | [chef_shell](https://hackerone.com/chef_shell) | 2023-01-06 |
-| 471 | [184877](../reports/184877.md) |  Out-of-date Version (Apache)  | Medium | — | 6 | [linkks](https://hackerone.com/linkks) | 2019-12-02 |
-| 472 | [1657030](../reports/1657030.md) | stored cross site scripting in https://██████████ | Medium | — | 6 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-01-06 |
-| 473 | [3127147](../reports/3127147.md) | POST XSS - data[account][id] parameter | Medium | — | 6 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
-| 474 | [1512199](../reports/1512199.md) | username and password leaked via pptx for █████████ website | Medium | — | 6 | [ibrahimatix0x01](https://hackerone.com/ibrahimatix0x01) | 2022-04-07 |
-| 475 | [3127158](../reports/3127158.md) | POST XSS -  fields[account][firstname] parameter | Medium | — | 6 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
-| 476 | [520842](../reports/520842.md) | Email PII disclosure due to Insecure Password Reset field | Medium | — | 6 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2019-12-02 |
-| 477 | [214800](../reports/214800.md) | Default page exposes admin functions and all metods and clas | Medium | — | 6 | [daveysec](https://hackerone.com/daveysec) | 2019-12-02 |
-| 478 | [3291053](../reports/3291053.md) | exposed FOUO documents, including Passport information | Medium | — | 6 | [aporia](https://hackerone.com/aporia) | 2026-01-12 |
-| 479 | [648348](../reports/648348.md) | [█████] Reflected GET XSS  (/personnel.php?...&rcnum=*) with | Medium | — | 6 | [jarvis0x1](https://hackerone.com/jarvis0x1) | 2019-12-02 |
-| 480 | [1251868](../reports/1251868.md) | XSS on https://████/ via ███████ parameter | Medium | — | 6 | [homosec](https://hackerone.com/homosec) | 2022-04-07 |
-| 481 | [1844674](../reports/1844674.md) | Install.php File Exposure on Drupal | Medium | — | 6 | [carpc](https://hackerone.com/carpc) | 2023-02-24 |
-| 482 | [300513](../reports/300513.md) | WebLogic Server Side Request Forgery | Medium | — | 6 | [linkks](https://hackerone.com/linkks) | 2019-12-02 |
-| 483 | [2045549](../reports/2045549.md) | CVE-2023-24488 xss on https://██████/ | Medium | — | 6 | [0xmaruf](https://hackerone.com/0xmaruf) | 2023-09-08 |
-| 484 | [647409](../reports/647409.md) | ██████████ bruteforceable RIC Codes allowing information on  | Medium | — | 6 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2019-12-02 |
-| 485 | [3284381](../reports/3284381.md) | Cross-Site Scripting via 'EVENT_DESCRIPTION' parameter | Medium | — | 6 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
-| 486 | [1666002](../reports/1666002.md) | stored cross site scripting in https://███████ | Medium | — | 6 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-01-06 |
-| 487 | [3166587](../reports/3166587.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Medium | — | 6 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
-| 488 | [875049](../reports/875049.md) | Register with non accepted email types on https://███████ | Medium | — | 6 | [dianeme_](https://hackerone.com/dianeme_) | 2021-02-10 |
-| 489 | [1657033](../reports/1657033.md) | stored cross site scripting in https://███ | Medium | — | 6 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-01-06 |
-| 490 | [1634105](../reports/1634105.md) | Open Redirect at █████ | Medium | — | 6 | [angeltsvetkov](https://hackerone.com/angeltsvetkov) | 2022-11-18 |
-| 491 | [1681208](../reports/1681208.md) | XSS DUE TO CVE-2022-38463 in https://████████ | Medium | — | 6 | [shuvam321](https://hackerone.com/shuvam321) | 2022-09-14 |
-| 492 | [375091](../reports/375091.md) | Partial PII leakage due to public set gitlab | Medium | — | 6 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2019-12-02 |
-| 493 | [819911](../reports/819911.md) | Knowledge Base Articles are Globally Modifiable via ██████ | Medium | — | 6 | [z32](https://hackerone.com/z32) | 2021-02-18 |
-| 494 | [3137200](../reports/3137200.md) | Cross-Site Scripting via 'return_link_url' parameter  | Medium | — | 6 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
-| 495 | [3127154](../reports/3127154.md) | POST XSS -  data[type] parameter | Medium | — | 5 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
-| 496 | [225020](../reports/225020.md) | reflected xss @ www.█████████ | Medium | — | 5 | [geeknik](https://hackerone.com/geeknik) | 2021-03-11 |
-| 497 | [1882754](../reports/1882754.md) | Reflected XSS in ██████████ | Medium | — | 5 | [0xd3adc0de](https://hackerone.com/0xd3adc0de) | 2023-03-24 |
-| 498 | [1095765](../reports/1095765.md) | Reflected XSS in https://██████████ via "████████" parameter | Medium | — | 5 | [nirajgautamit](https://hackerone.com/nirajgautamit) | 2021-04-02 |
-| 499 | [1092125](../reports/1092125.md) | Bypassing CORS Misconfiguration Leads to Sensitive Exposure  | Medium | — | 5 | [whoisbinit](https://hackerone.com/whoisbinit) | 2022-04-07 |
-| 500 | [864091](../reports/864091.md) | RXSS - https://███/ | Medium | — | 5 | [0xelkomy](https://hackerone.com/0xelkomy) | 2021-03-11 |
-| 501 | [453307](../reports/453307.md) | HTML Injection + XSS Vulnerability - https://████████/ | Pro | Medium | — | 5 | [ismailtsdelen](https://hackerone.com/ismailtsdelen) | 2021-03-11 |
-| 502 | [707228](../reports/707228.md) | Internal IP Address Disclosed | Medium | — | 5 | [ahmd_halabi](https://hackerone.com/ahmd_halabi) | 2020-05-14 |
-| 503 | [1665971](../reports/1665971.md) | stored cross site scripting in https://████ | Medium | — | 5 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-01-06 |
-| 504 | [1050196](../reports/1050196.md) | PII Leak of ████████ Personal at  https://www.█████████ | Medium | — | 5 | [nagli](https://hackerone.com/nagli) | 2021-02-10 |
-| 505 | [1657006](../reports/1657006.md) | stored cross site scripting in https://███ | Medium | — | 5 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-01-06 |
-| 506 | [201512](../reports/201512.md) | SQL Injection vulnerability in a DoD website | Medium | — | 5 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2017-07-05 |
-| 507 | [1626962](../reports/1626962.md) | RXSS on ███████ | Medium | — | 5 | [tmz900](https://hackerone.com/tmz900) | 2022-09-06 |
-| 508 | [258573](../reports/258573.md) | Able to view Backend Database dur to improper authentication | Medium | — | 5 | [nobody_cares_](https://hackerone.com/nobody_cares_) | 2019-12-02 |
-| 509 | [1699855](../reports/1699855.md) | XSS in ServiceNow logout https://████:443 | Medium | — | 5 | [colemanj](https://hackerone.com/colemanj) | 2023-05-15 |
-| 510 | [1309385](../reports/1309385.md) | Reflected XSS [██████] | Medium | — | 5 | [fdeleite](https://hackerone.com/fdeleite) | 2022-04-29 |
-| 511 | [202619](../reports/202619.md) | SQL injection vulnerability on a DoD website | Medium | — | 5 | [0xd0m7](https://hackerone.com/0xd0m7) | 2017-07-05 |
-| 512 | [192940](../reports/192940.md) | Remote File Inclusion, Malicious File Hosting, and Cross-sit | Medium | — | 5 | [jutsuce](https://hackerone.com/jutsuce) | 2019-12-02 |
-| 513 | [1882751](../reports/1882751.md) | Reflected XSS in ██████████ | Medium | — | 5 | [0xd3adc0de](https://hackerone.com/0xd3adc0de) | 2023-03-24 |
-| 514 | [3284534](../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | Medium | — | 4 | [maskedpersian](https://hackerone.com/maskedpersian) | 2026-01-12 |
-| 515 | [743643](../reports/743643.md) | Firewall rules for ████████ can be bypassed to leak site aut | Medium | — | 4 | [nrockhouse](https://hackerone.com/nrockhouse) | 2020-05-14 |
-| 516 | [800608](../reports/800608.md) | IDOR - Delete Users Saved Projects | Medium | — | 4 | [ahmd_halabi](https://hackerone.com/ahmd_halabi) | 2022-03-18 |
-| 517 | [874228](../reports/874228.md) | HTML Injection leads to XSS on███ | Medium | — | 4 | [lemonoftroy](https://hackerone.com/lemonoftroy) | 2020-07-30 |
-| 518 | [1309386](../reports/1309386.md) | Reflected XSS [██████] | Medium | — | 4 | [fdeleite](https://hackerone.com/fdeleite) | 2022-09-14 |
-| 519 | [804364](../reports/804364.md) | Reflected XSS on https://███████/ | Medium | — | 4 | [the_unlucky_guy](https://hackerone.com/the_unlucky_guy) | 2020-07-30 |
-| 520 | [1109544](../reports/1109544.md) | Self XSS + CSRF Leads to Reflected XSS in https://████/  | Medium | — | 4 | [sleepnotf0und](https://hackerone.com/sleepnotf0und) | 2021-03-24 |
-| 521 | [195051](../reports/195051.md) | SQL injection vulnerability in a DoD website | Medium | — | 4 | [shakaa1](https://hackerone.com/shakaa1) | 2017-06-23 |
-| 522 | [3135626](../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP A | Medium | — | 4 | [the_reinhardt](https://hackerone.com/the_reinhardt) | 2026-01-12 |
-| 523 | [648298](../reports/648298.md) | [███████] Reflected GET XSS (/mission.php?...&missionDate=*) | Medium | — | 4 | [jarvis0x1](https://hackerone.com/jarvis0x1) | 2019-12-02 |
-| 524 | [847185](../reports/847185.md) | Members Personal Information Leak Due to IDOR | Medium | — | 4 | [r00tpgp](https://hackerone.com/r00tpgp) | 2021-05-11 |
-| 525 | [1530581](../reports/1530581.md) | CORS Misconfiguration | Medium | — | 4 | [shirshak](https://hackerone.com/shirshak) | 2022-04-20 |
-| 526 | [245485](../reports/245485.md) | CRLF Injection on ███████ | Medium | — | 4 | [twicedi](https://hackerone.com/twicedi) | 2019-12-02 |
-| 527 | [214798](../reports/214798.md) | SQL injection on https://███████ | Medium | — | 4 | [daveysec](https://hackerone.com/daveysec) | 2019-12-02 |
-| 528 | [1020472](../reports/1020472.md) | System Error Reveals Sensitive SQL Call Data | Medium | — | 4 | [5050thepiguy](https://hackerone.com/5050thepiguy) | 2021-01-12 |
-| 529 | [242882](../reports/242882.md) | Blind SQL Injection on DoD Site | Medium | — | 4 | [mr_r3boot](https://hackerone.com/mr_r3boot) | 2019-12-02 |
-| 530 | [195356](../reports/195356.md) | HTML Injection/Load Images vulnerability on a DoD website | Medium | — | 4 | [jon_bottarini](https://hackerone.com/jon_bottarini) | 2017-03-16 |
-| 531 | [1278891](../reports/1278891.md) | [CVE-2021-29156] LDAP Injection at https://██████ | Medium | — | 4 | [whoisbinit](https://hackerone.com/whoisbinit) | 2021-08-26 |
-| 532 | [227587](../reports/227587.md) | SQL Injection vulnerability in a DoD website | Medium | — | 4 | [tcpiplab](https://hackerone.com/tcpiplab) | 2017-08-15 |
-| 533 | [188929](../reports/188929.md) | Time Based SQL Injection vulnerability on a DoD website | Medium | — | 4 | [korprit](https://hackerone.com/korprit) | 2017-06-16 |
-| 534 | [787179](../reports/787179.md) | Application level DoS via xmlrpc.php  | Medium | — | 4 | [mohammedadam24](https://hackerone.com/mohammedadam24) | 2020-05-14 |
-| 535 | [809212](../reports/809212.md) | No ACL on S3 Bucket in [https://www.██████████/] | Medium | — | 4 | [0xsnowmn](https://hackerone.com/0xsnowmn) | 2020-05-14 |
-| 536 | [3269780](../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | Medium | — | 4 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
-| 537 | [377264](../reports/377264.md) | █████ - DOM-based XSS | Medium | — | 4 | [yumi](https://hackerone.com/yumi) | 2019-12-02 |
-| 538 | [1606068](../reports/1606068.md) | XSS DUE TO CVE-2020-3580 | Medium | — | 4 | [cruxn3t](https://hackerone.com/cruxn3t) | 2022-09-06 |
-| 539 | [1200770](../reports/1200770.md) | XSS trigger via HTML Iframe injection in ( https://█████████ | Medium | — | 4 | [basant0x01](https://hackerone.com/basant0x01) | 2022-02-14 |
-| 540 | [1033253](../reports/1033253.md) | Reflected Xss in [██████] | Medium | — | 3 | [medblgsec](https://hackerone.com/medblgsec) | 2022-09-06 |
-| 541 | [191831](../reports/191831.md) | Cross-site request forgery (CSRF) vulnerability on a DoD web | Medium | — | 3 | [korprit](https://hackerone.com/korprit) | 2017-06-16 |
-| 542 | [1627616](../reports/1627616.md) | RXSS on █████████ | Medium | — | 3 | [tmz900](https://hackerone.com/tmz900) | 2022-09-06 |
-| 543 | [184200](../reports/184200.md) | Reflected XSS on a DoD website | Medium | — | 3 | [korprit](https://hackerone.com/korprit) | 2017-06-01 |
-| 544 | [1272095](../reports/1272095.md) | System Error Reveals  SQL Information | Medium | — | 3 | [miguel_santareno](https://hackerone.com/miguel_santareno) | 2021-09-09 |
-| 545 | [715740](../reports/715740.md) | [HTA2] Receiving████ access request on @wearehackerone.com e | Medium — CVSS 4.3 | — | 3 | [jr0ch17](https://hackerone.com/jr0ch17) | 2022-10-14 |
-| 546 | [1252059](../reports/1252059.md) | XSS on https://██████/███ via █████ parameter | Medium | — | 3 | [homosec](https://hackerone.com/homosec) | 2022-04-07 |
-| 547 | [226211](../reports/226211.md) | SQL Injection vulnerability in a DoD website | Medium | — | 3 | [amsda](https://hackerone.com/amsda) | 2017-08-15 |
-| 548 | [686595](../reports/686595.md) | Improper Neutralization of Input During Web Page Generation | Medium | — | 3 | [null_rhythm](https://hackerone.com/null_rhythm) | 2020-05-14 |
-| 549 | [900137](../reports/900137.md) | PII Leak (such as CAC User ID) at https://████████/pages/log | Medium | — | 3 | [5050thepiguy](https://hackerone.com/5050thepiguy) | 2020-11-02 |
-| 550 | [1457444](../reports/1457444.md) | Reflected XSS at https://██████/██████ via "██████" paramete | Medium | — | 3 | [pelegn](https://hackerone.com/pelegn) | 2022-02-14 |
-| 551 | [1067004](../reports/1067004.md) | Sensitive data exposure via https://███████/secure/QueryComp | Medium | — | 3 | [ba56adcb299ff13a87475bf](https://hackerone.com/ba56adcb299ff13a87475bf) | 2021-01-12 |
-| 552 | [204048](../reports/204048.md) | Illegal account registration in ████████ | Medium | — | 3 | [bfe3fdb1088411d8ef018aa3abde8](https://hackerone.com/bfe3fdb1088411d8ef018aa3abde8) | 2019-12-02 |
-| 553 | [235216](../reports/235216.md) | Exposed FTP Credentials on ███████ | Medium | — | 3 | [z3t](https://hackerone.com/z3t) | 2019-12-02 |
-| 554 | [235041](../reports/235041.md) | Sensitive Email disclosure Due to Insecure  Reactivate Accou | Medium | — | 3 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2019-12-02 |
-| 555 | [1631471](../reports/1631471.md) | an internel important  paths  disclosure  [HtUS] | Medium — CVSS 5.3 | — | 2 | [ahmed0x0mahmoud](https://hackerone.com/ahmed0x0mahmoud) | 2022-09-14 |
-| 556 | [197754](../reports/197754.md) | SQL Injection vulnerability in a DoD website | Medium | — | 2 | [hassaan](https://hackerone.com/hassaan) | 2017-08-15 |
-| 557 | [1736432](../reports/1736432.md) | Reflected XSS | https://████ | Medium | — | 2 | [x3ph_](https://hackerone.com/x3ph_) | 2022-11-18 |
-| 558 | [423118](../reports/423118.md) | Unencrypted __VIEWSTATE parameter in a DoD website | Medium | — | 2 | [miguel_santareno](https://hackerone.com/miguel_santareno) | 2020-05-14 |
-| 559 | [1300589](../reports/1300589.md) | Sensitive information on ██████████ | Medium | — | 2 | [3mm3](https://hackerone.com/3mm3) | 2021-08-26 |
-| 560 | [1260823](../reports/1260823.md) | Reflected XSS - https://███ | Medium | — | 2 | [fiveguyslover](https://hackerone.com/fiveguyslover) | 2021-07-29 |
-| 561 | [1278050](../reports/1278050.md) | [CVE-2021-29156 on ForgeRock OpenAm] LDAP Injection in Webfi | Medium | — | 2 | [whoisbinit](https://hackerone.com/whoisbinit) | 2021-08-19 |
-| 562 | [1003455](../reports/1003455.md) | Access to Unclassified / FOUO Advanced Motion Platform of ██ | Medium | — | 2 | [kaulse](https://hackerone.com/kaulse) | 2020-11-02 |
-| 563 | [984654](../reports/984654.md) | RXSS Via URI Path - https://██████████/ | Medium | — | 2 | [0xelkomy](https://hackerone.com/0xelkomy) | 2021-10-18 |
-| 564 | [223936](../reports/223936.md) | Multiple cryptographic vulnerabilities in login page on ████ | Medium | — | 2 | [tcpiplab](https://hackerone.com/tcpiplab) | 2019-12-02 |
-| 565 | [1305477](../reports/1305477.md) | XSS because of Akamai ARL misconfiguration on ████ | Medium | — | 2 | [pirneci](https://hackerone.com/pirneci) | 2022-03-18 |
-| 566 | [1244145](../reports/1244145.md) | RXSS ON https://██████████ | Medium | — | 1 | [iam_a_jinchuriki](https://hackerone.com/iam_a_jinchuriki) | 2022-02-14 |
-| 567 | [205360](../reports/205360.md) | Content-Injection/XSS ████ | Medium | — | 1 | [c0rte](https://hackerone.com/c0rte) | 2019-12-02 |
-| 568 | [988550](../reports/988550.md) | Sensitive data exposure via https://████████.mil/secure/Quer | Medium | — | 1 | [r4d1kal](https://hackerone.com/r4d1kal) | 2020-10-16 |
-| 569 | [674838](../reports/674838.md) | SQL Injection - https://███/█████████/MSI.portal | Medium | — | 1 | [arkaic](https://hackerone.com/arkaic) | 2020-05-14 |
-| 570 | [1252020](../reports/1252020.md) | XSS on https://████████/████' parameter | Medium | — | 1 | [homosec](https://hackerone.com/homosec) | 2022-04-07 |
-| 571 | [1103033](../reports/1103033.md) | Reflected XSS on https://█████ | Medium | — | 1 | [ibring](https://hackerone.com/ibring) | 2021-03-11 |
-| 572 | [799839](../reports/799839.md) | Reflected XSS - in Email Input | Medium | — | 1 | [ahmd_halabi](https://hackerone.com/ahmd_halabi) | 2022-03-18 |
-| 573 | [1143783](../reports/1143783.md) | xss reflected on https://███████- (███ parameters) | Medium | — | 1 | [fiveguyslover](https://hackerone.com/fiveguyslover) | 2021-07-29 |
-| 574 | [227102](../reports/227102.md) | Two Error-Based SQLi in courses.aspx on ██████████ | Medium | — | 0 | [tcpiplab](https://hackerone.com/tcpiplab) | 2019-12-02 |
-| 575 | [2061982](../reports/2061982.md) | Create account without auth via response manipulation  | Low | — | 38 | [exec_iq](https://hackerone.com/exec_iq) | 2026-01-12 |
-| 576 | [3027405](../reports/3027405.md) | Information Disclosure in API Endpoint /users | Low | — | 27 | [moha1sd](https://hackerone.com/moha1sd) | 2026-01-12 |
-| 577 | [2554003](../reports/2554003.md) | HTML Injection into https://www.██████.mil | Low | — | 16 | [thpless](https://hackerone.com/thpless) | 2024-07-19 |
-| 578 | [3318295](../reports/3318295.md) | Information Disclosure via Publicly Accessible Debug Log | Low | — | 14 | [xgoon](https://hackerone.com/xgoon) | 2026-01-12 |
-| 579 | [3346375](../reports/3346375.md) | Publicly Accessible CDN Endpoint Exposing XML Metadata (incl | Low | — | 12 | [l0rdv0ld3m0r7](https://hackerone.com/l0rdv0ld3m0r7) | 2026-01-12 |
-| 580 | [184042](../reports/184042.md) | Reflected cross-site scripting vulnerability on a DoD websit | Low | — | 11 | [kjashwanth13](https://hackerone.com/kjashwanth13) | 2017-04-07 |
-| 581 | [183871](../reports/183871.md) | Reflected XSS on a DoD website | Low | — | 9 | [juliocesar](https://hackerone.com/juliocesar) | 2017-02-16 |
-| 582 | [3066992](../reports/3066992.md) | Debug Info disclose  | Low | — | 9 | [saqib98](https://hackerone.com/saqib98) | 2026-01-12 |
-| 583 | [184759](../reports/184759.md) | XSS on a DoD website | Low | — | 8 | [ramsexy](https://hackerone.com/ramsexy) | 2017-04-27 |
-| 584 | [188691](../reports/188691.md) | Reflected XSS in a Navy website | Low | — | 8 | [juliocesar](https://hackerone.com/juliocesar) | 2017-01-06 |
-| 585 | [184750](../reports/184750.md) | Reflected XSS on a DoD website | Low | — | 8 | [ramsexy](https://hackerone.com/ramsexy) | 2017-06-01 |
-| 586 | [225936](../reports/225936.md) | Cross-site scripting (XSS) vulnerability on a DoD website | Low | — | 8 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-08-15 |
-| 587 | [203311](../reports/203311.md) | Bypass file access control vulnerability on a DoD website | Low | — | 8 | [generaleg](https://hackerone.com/generaleg) | 2017-04-07 |
-| 588 | [289846](../reports/289846.md) | X-XSS-Protection -> Misconfiguration | Low | — | 7 | [bb343cc5cbd74210c09dafe](https://hackerone.com/bb343cc5cbd74210c09dafe) | 2017-12-15 |
-| 589 | [188124](../reports/188124.md) | Violation of secure design principles on a DoD website | Low | — | 7 | [spam404](https://hackerone.com/spam404) | 2017-07-05 |
-| 590 | [184076](../reports/184076.md) | Information disclosure on a DoD website | Low | — | 7 | [tsug0d](https://hackerone.com/tsug0d) | 2017-07-03 |
-| 591 | [183835](../reports/183835.md) | Reflected XSS vulnerability on a DoD website | Low | — | 7 | [yaworsk](https://hackerone.com/yaworsk) | 2017-03-16 |
-| 592 | [189149](../reports/189149.md) | QuickTime Promotion on a DoD website | Low | — | 7 | [spam404](https://hackerone.com/spam404) | 2017-02-15 |
-| 593 | [217108](../reports/217108.md) | Reflected XSS in a DoD Website | Low | — | 6 | [shogunlab](https://hackerone.com/shogunlab) | 2017-06-14 |
-| 594 | [191902](../reports/191902.md) | HTML injection vulnerability on a DoD website | Low | — | 6 | [kunal_khubchandani](https://hackerone.com/kunal_khubchandani) | 2017-04-27 |
-| 595 | [195638](../reports/195638.md) | Information disclosure vulnerability on a DoD website | Low | — | 5 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-06-16 |
-| 596 | [187822](../reports/187822.md) | Reflected XSS vulnerability on a DoD website | Low | — | 5 | [korprit](https://hackerone.com/korprit) | 2017-06-16 |
-| 597 | [196482](../reports/196482.md) | Information disclosure vulnerability on a DoD website | Low | — | 5 | [joshualaurencio](https://hackerone.com/joshualaurencio) | 2017-04-27 |
-| 598 | [187006](../reports/187006.md) | Open Redirect in a DoD website | Low | — | 5 | [adrianomarcmont](https://hackerone.com/adrianomarcmont) | 2017-02-14 |
-| 599 | [195636](../reports/195636.md) | Information disclosure vulnerability on a DoD website | Low | — | 5 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-06-16 |
-| 600 | [191381](../reports/191381.md) | Reflected cross-site scripting (XSS) vulnerability on a DoD  | Low | — | 5 | [ahsan](https://hackerone.com/ahsan) | 2017-06-23 |
-| 601 | [197055](../reports/197055.md) | Information disclosure vulnerability on a DoD website | Low | — | 5 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-06-16 |
-| 602 | [183854](../reports/183854.md) | Reflective XSS vulnerability on a DoD website | Low | — | 4 | [fantam1](https://hackerone.com/fantam1) | 2017-06-23 |
-| 603 | [197907](../reports/197907.md) | Misconfigured user account settings on DoD website | Low | — | 4 | [mantis](https://hackerone.com/mantis) | 2017-03-16 |
-| 604 | [184575](../reports/184575.md) | Cross-site scripting vulnerability on a DoD website | Low | — | 4 | [r0p3](https://hackerone.com/r0p3) | 2017-03-16 |
-| 605 | [191830](../reports/191830.md) | Server side information disclosure on a DoD website | Low | — | 4 | [samhax](https://hackerone.com/samhax) | 2017-06-01 |
-| 606 | [194294](../reports/194294.md) | Reflected XSS on a DoD website | Low | — | 4 | [amsda](https://hackerone.com/amsda) | 2017-05-31 |
-| 607 | [184125](../reports/184125.md) | Reflected XSS vulnerability on a DoD website | Low | — | 4 | [r0p3](https://hackerone.com/r0p3) | 2017-06-23 |
-| 608 | [186308](../reports/186308.md) | Information disclosure vulnerability in a DoD website | Low | — | 4 | [r0p3](https://hackerone.com/r0p3) | 2017-06-23 |
-| 609 | [189241](../reports/189241.md) | Reflected XSS on a DoD website | Low | — | 4 | [juliocesar](https://hackerone.com/juliocesar) | 2017-06-01 |
-| 610 | [186315](../reports/186315.md) | Cross-site scripting (XSS) vulnerability on a DoD website | Low | — | 4 | [r0p3](https://hackerone.com/r0p3) | 2017-03-16 |
-| 611 | [190427](../reports/190427.md) | Reflected XSS on a DoD website | Low | — | 4 | [juliocesar](https://hackerone.com/juliocesar) | 2017-06-16 |
-| 612 | [184901](../reports/184901.md) | Stored cross site scripting (XSS) vulnerability on a DoD web | Low | — | 4 | [ahsan](https://hackerone.com/ahsan) | 2017-06-23 |
-| 613 | [187232](../reports/187232.md) | Arbitrary Script Injection (Mail) in a DoD Website | Low | — | 4 | [ahsan](https://hackerone.com/ahsan) | 2017-03-16 |
-| 614 | [217747](../reports/217747.md) | Information disclosure vulnerability on a DoD website | Low | — | 4 | [tcpiplab](https://hackerone.com/tcpiplab) | 2017-06-23 |
-| 615 | [198259](../reports/198259.md) | Reflected XSS vulnerability on a DoD website | Low | — | 3 | [mantis](https://hackerone.com/mantis) | 2017-07-05 |
-| 616 | [219729](../reports/219729.md) | Reflected XSS on a DoD website | Low | — | 3 | [guifre](https://hackerone.com/guifre) | 2017-08-15 |
-| 617 | [203600](../reports/203600.md) | Remote code execution vulnerability on a DoD website | Low | — | 3 | [mantis](https://hackerone.com/mantis) | 2017-06-23 |
-| 618 | [191416](../reports/191416.md) | DOM Based XSS on a DoD website | Low | — | 3 | [juliocesar](https://hackerone.com/juliocesar) | 2017-06-16 |
-| 619 | [190205](../reports/190205.md) | Reflected XSS on a DoD website | Low | — | 3 | [juliocesar](https://hackerone.com/juliocesar) | 2017-06-16 |
-| 620 | [186307](../reports/186307.md) | Information disclosure vulnerability on a DoD website | Low | — | 3 | [clizsec](https://hackerone.com/clizsec) | 2017-04-27 |
-| 621 | [184558](../reports/184558.md) | Information disclosure vulnerability on a DoD website | Low | — | 3 | [0x01alka](https://hackerone.com/0x01alka) | 2017-07-05 |
-| 622 | [218136](../reports/218136.md) | Reflected XSS vulnerability on a DoD website | Low | — | 3 | [twicedi](https://hackerone.com/twicedi) | 2017-06-16 |
-| 623 | [192751](../reports/192751.md) | XSS vulnerability on a DoD website | Low | — | 3 | [swissky](https://hackerone.com/swissky) | 2017-03-16 |
-| 624 | [186317](../reports/186317.md) | Information disclosure on a DoD website | Low | — | 2 | [r0p3](https://hackerone.com/r0p3) | 2017-03-16 |
-| 625 | [208556](../reports/208556.md) | Cross-site scripting (XSS) vulnerability on a DoD website | Low | — | 1 | [guruprasadmullangi](https://hackerone.com/guruprasadmullangi) | 2017-08-15 |
-| 626 | [1687415](../reports/1687415.md) | IDOR when editing email leads to Mass Full ATOs (Account Tak | None | — | 17 | [696e746c6f6c](https://hackerone.com/696e746c6f6c) | 2023-01-06 |
-| 627 | [2509402](../reports/2509402.md) | Out-Of-Bounds Memory Read on ███ | None | — | 7 | [maskedpersian](https://hackerone.com/maskedpersian) | 2024-06-18 |
-| 628 | [186316](../reports/186316.md) | DNS Misconfiguration | None | — | 4 | [atik-rahman](https://hackerone.com/atik-rahman) | 2016-12-22 |
-| 629 | [213069](../reports/213069.md) | Remote Code Execution (RCE) in a DoD website | None | — | 3 | [daveysec](https://hackerone.com/daveysec) | 2017-05-31 |
-| 630 | [192577](../reports/192577.md) | Server side information disclosure | None | — | 3 | [samhax](https://hackerone.com/samhax) | 2017-01-06 |
-| 631 | [207236](../reports/207236.md) | Potentially sensitive information disclosure on a DoD websit | None | — | 3 | [scraps](https://hackerone.com/scraps) | 2017-03-16 |
-| 632 | [207781](../reports/207781.md) | Reflected XSS vulnerability in a DoD website  | None | — | 2 | [rashedhasan007](https://hackerone.com/rashedhasan007) | 2017-04-27 |
-| 633 | [202496](../reports/202496.md) | Stored XSS vulnerability on a DoD website | None | — | 2 | [rashedhasan007](https://hackerone.com/rashedhasan007) | 2017-05-31 |
+| 200 | [2090435](../reports/2090435.md) | Adobe ColdFusion Access Control Bypass - CVE-2023-38205 | High | — | 11 | [0r10nh4ck](https://hackerone.com/0r10nh4ck) | 2023-12-21 |
+| 201 | [1489470](../reports/1489470.md) | Authorization bypass -> IDOR -> PII Leakage | High | — | 11 | [lubak](https://hackerone.com/lubak) | 2022-04-07 |
+| 202 | [2081316](../reports/2081316.md) | Blind Sql Injection in https://█████/qsSearch.aspx | High | — | 11 | [hack0neone](https://hackerone.com/hack0neone) | 2023-09-08 |
+| 203 | [1137321](../reports/1137321.md) | Path Traversal - [ CVE-2020-3452 ] | High | — | 11 | [kmxx](https://hackerone.com/kmxx) | 2021-05-11 |
+| 204 | [577612](../reports/577612.md) | MSSQL injection via param Customwho in https://█████/News/Tr | High | — | 11 | [bohdansec](https://hackerone.com/bohdansec) | 2019-10-10 |
+| 205 | [1714767](../reports/1714767.md) | Upload and delete files in debug page without access control | High | — | 10 | [0r10nh4ck](https://hackerone.com/0r10nh4ck) | 2023-02-24 |
+| 206 | [1542734](../reports/1542734.md) | lfi in filePathDownload parameter via ███████ | High | — | 10 | [exploitmsf](https://hackerone.com/exploitmsf) | 2022-04-29 |
+| 207 | [1329792](../reports/1329792.md) | AWS subdomain takeover of www.███████ | High | — | 10 | [al-madjus](https://hackerone.com/al-madjus) | 2021-10-28 |
+| 208 | [2248781](../reports/2248781.md) | Unauthenticated File Read Adobe ColdFusion | High | — | 10 | [r00tdaddy](https://hackerone.com/r00tdaddy) | 2023-12-21 |
+| 209 | [2081332](../reports/2081332.md) | LDAP Anonymous Login enabled in ████ | High | — | 10 | [shuvam321](https://hackerone.com/shuvam321) | 2023-09-08 |
+| 210 | [1322732](../reports/1322732.md) | Cache Posioning leading to denial of service at `█████████`  | High | — | 10 | [brumens](https://hackerone.com/brumens) | 2021-10-13 |
+| 211 | [1690548](../reports/1690548.md) | Authentication bypass leads to Information Disclosure at  U. | High | — | 10 | [h41th3m](https://hackerone.com/h41th3m) | 2022-10-14 |
+| 212 | [1624152](../reports/1624152.md) | insecure gitlab repositories at ████████ [HtUS] | High — CVSS 7.5 | — | 10 | [thpless](https://hackerone.com/thpless) | 2022-09-27 |
+| 213 | [847452](../reports/847452.md) | Full Account Take-Over of ████████ Members via IDOR | High | — | 9 | [r00tpgp](https://hackerone.com/r00tpgp) | 2020-05-14 |
+| 214 | [951508](../reports/951508.md) | CVE-2020-3452, unauthenticated file read in Cisco ASA & Cisc | High | — | 9 | [amrr](https://hackerone.com/amrr) | 2020-09-03 |
+| 215 | [710654](../reports/710654.md) | XXE with RCE potential on the https://█████████ (CVE-2017-35 | High | — | 9 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2024-07-19 |
+| 216 | [192074](../reports/192074.md) | Default credentials on a DoD website | High | — | 9 | [korprit](https://hackerone.com/korprit) | 2017-07-03 |
+| 217 | [186156](../reports/186156.md) | SQL Injection vulnerability on a DoD website | High | — | 9 | [korprit](https://hackerone.com/korprit) | 2017-01-11 |
+| 218 | [192931](../reports/192931.md) | Server-side include injection vulnerability in a DoD website | High | — | 9 | [jutsuce](https://hackerone.com/jutsuce) | 2017-07-03 |
+| 219 | [194308](../reports/194308.md) | Password reset vulnerability on a DoD website | High | — | 9 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-03-16 |
+| 220 | [1937235](../reports/1937235.md) | LDAP Server NULL Bind Connection Information Disclosure | High | — | 9 | [0xmaruf](https://hackerone.com/0xmaruf) | 2023-05-15 |
+| 221 | [2072306](../reports/2072306.md) | Blind Sql Injection in https://████████/ | High | — | 9 | [hack0neone](https://hackerone.com/hack0neone) | 2023-09-08 |
+| 222 | [1624374](../reports/1624374.md) | Broken access discloses users and PII at https://███████ [Ht | High | — | 8 | [g4mb4](https://hackerone.com/g4mb4) | 2022-10-14 |
+| 223 | [1249456](../reports/1249456.md) | Pre-auth RCE in ForgeRock OpenAM (CVE-2021-35464) | High | — | 8 | [fdeleite](https://hackerone.com/fdeleite) | 2021-07-29 |
+| 224 | [905679](../reports/905679.md) | PII Leak via /████████ | High | — | 8 | [z32](https://hackerone.com/z32) | 2021-02-18 |
+| 225 | [915073](../reports/915073.md) | Stored XSS via Comment Form at ████████ | High | — | 8 | [z32](https://hackerone.com/z32) | 2020-09-29 |
+| 226 | [232330](../reports/232330.md) | Remote Code Execution (RCE) vulnerability in a DoD website | High | — | 8 | [p3t3r_r4bb1t](https://hackerone.com/p3t3r_r4bb1t) | 2017-08-15 |
+| 227 | [1015406](../reports/1015406.md) | SQL Injection in www.██████████ | High | — | 8 | [val_brux](https://hackerone.com/val_brux) | 2021-01-12 |
+| 228 | [229199](../reports/229199.md) | Limited code execution vulnerability on a DoD website | High | — | 7 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-07-05 |
+| 229 | [587214](../reports/587214.md) | ██████ Authenticated User Data Disclosure | High | — | 7 | [deputy](https://hackerone.com/deputy) | 2019-10-04 |
+| 230 | [193936](../reports/193936.md) | SQL injection vulnerability on a DoD website | High | — | 7 | [thirup](https://hackerone.com/thirup) | 2017-05-31 |
+| 231 | [189458](../reports/189458.md) | Information disclosure vulnerability on a DoD website | High | — | 7 | [khizer47](https://hackerone.com/khizer47) | 2017-06-01 |
+| 232 | [1066083](../reports/1066083.md) | ███████mill is vulnerable to cross site request forgery that | High | — | 7 | [m4xp0w3r](https://hackerone.com/m4xp0w3r) | 2021-01-25 |
+| 233 | [991718](../reports/991718.md) | hardcoded password stored in javascript of https://████.mil | High | — | 7 | [x3ph_](https://hackerone.com/x3ph_) | 2020-11-02 |
+| 234 | [1198434](../reports/1198434.md) | Cache Posioning leading do Denial of Service on `www.███████ | High | — | 7 | [brumens](https://hackerone.com/brumens) | 2021-07-09 |
+| 235 | [709072](../reports/709072.md) | Null byte Injection in https://████/ | High | — | 7 | [mohammedadam24](https://hackerone.com/mohammedadam24) | 2020-05-14 |
+| 236 | [997988](../reports/997988.md) | External Service Interaction | https://█████████.mil | High | — | 7 | [x3ph_](https://hackerone.com/x3ph_) | 2020-10-16 |
+| 237 | [648222](../reports/648222.md) | [██████████] Unauthorized access to admin panel | High | — | 6 | [jarvis0x1](https://hackerone.com/jarvis0x1) | 2020-05-14 |
+| 238 | [622864](../reports/622864.md) | https://█████████ Vulnerable to CVE-2018-0296 Cisco ASA Path | High | — | 6 | [warsong](https://hackerone.com/warsong) | 2019-10-04 |
+| 239 | [1051885](../reports/1051885.md) | Insecure ███████ credentials on staging app at ████ leads to | High | — | 6 | [skarsom](https://hackerone.com/skarsom) | 2021-02-10 |
+| 240 | [901377](../reports/901377.md) | Stored XSS at ██████userprofile.aspx | High | — | 6 | [5050thepiguy](https://hackerone.com/5050thepiguy) | 2020-07-08 |
+| 241 | [192567](../reports/192567.md) | Remote code execution vulnerability on a DoD website | High | — | 6 | [korprit](https://hackerone.com/korprit) | 2017-06-23 |
+| 242 | [489483](../reports/489483.md) | SQL Injection in the get_publications.php on the https://███ | High | — | 6 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2019-10-04 |
+| 243 | [1018621](../reports/1018621.md) | [████] SQL Injections on Referer Header exploitable via Time | High | — | 6 | [polygon35](https://hackerone.com/polygon35) | 2020-11-02 |
+| 244 | [1095830](../reports/1095830.md) | CRXDE Lite/CRX is on ██████ exposed that leads to PII disclo | High | — | 6 | [mit0z](https://hackerone.com/mit0z) | 2021-03-11 |
+| 245 | [869450](../reports/869450.md) | Support incident can be opened for any user via /███████ and | High | — | 6 | [z32](https://hackerone.com/z32) | 2021-02-18 |
+| 246 | [1081994](../reports/1081994.md) | Stored XSS at https://www.█████████.mil | High | — | 6 | [5050thepiguy](https://hackerone.com/5050thepiguy) | 2021-02-01 |
+| 247 | [996273](../reports/996273.md) | SSRF in login page using fetch API exposes victims IP addres | High | — | 5 | [iamrose](https://hackerone.com/iamrose) | 2021-01-12 |
+| 248 | [865354](../reports/865354.md) | Arbitrary file upload and stored XSS via ███ support request | High | — | 5 | [z32](https://hackerone.com/z32) | 2021-02-18 |
+| 249 | [1262757](../reports/1262757.md) | SQL injection located in `███` in POST param `████████`  | High | — | 4 | [brumens](https://hackerone.com/brumens) | 2021-09-09 |
+| 250 | [710813](../reports/710813.md) | Able to log in with default ██████g creds at  https█████████ | High | — | 4 | [pirateducky](https://hackerone.com/pirateducky) | 2021-01-12 |
+| 251 | [960082](../reports/960082.md) | Read-only path traversal (CVE-2020-3452)  at https://█████ | High | — | 4 | [raginalstorm](https://hackerone.com/raginalstorm) | 2021-04-02 |
+| 252 | [1072616](../reports/1072616.md) | Stored XSS through name / last name on https://██████████/ | High | — | 4 | [nagli](https://hackerone.com/nagli) | 2021-03-11 |
+| 253 | [192079](../reports/192079.md) | SQL Injection vulnerability in a DoD website | High | — | 4 | [korprit](https://hackerone.com/korprit) | 2017-06-23 |
+| 254 | [183971](../reports/183971.md) | Stored cross-site scripting (XSS) on a DoD website | High | — | 4 | [jon_bottarini](https://hackerone.com/jon_bottarini) | 2017-03-16 |
+| 255 | [1555015](../reports/1555015.md) | [CVE-2020-3452] Unauthenticated file read in Cisco ASA | High | — | 4 | [b4dc4t](https://hackerone.com/b4dc4t) | 2022-05-12 |
+| 256 | [905688](../reports/905688.md) | PII Leak via /██████ | High | — | 4 | [z32](https://hackerone.com/z32) | 2021-02-18 |
+| 257 | [959679](../reports/959679.md) | Read-only path traversal (CVE-2020-3452)  at https://███████ | High | — | 4 | [raginalstorm](https://hackerone.com/raginalstorm) | 2021-04-02 |
+| 258 | [904064](../reports/904064.md) | Dashboard sharing enables code injection into ████ emails | High | — | 4 | [z32](https://hackerone.com/z32) | 2021-02-18 |
+| 259 | [904659](../reports/904659.md) | PII Leak via /███████ | High | — | 4 | [z32](https://hackerone.com/z32) | 2021-02-18 |
+| 260 | [745171](../reports/745171.md) | Unprotected ██████ and Test site API Exposes Documents, Cred | High | — | 3 | [byteone](https://hackerone.com/byteone) | 2022-09-14 |
+| 261 | [381771](../reports/381771.md) | ████████ SQL | High | — | 3 | [manshum12](https://hackerone.com/manshum12) | 2019-10-08 |
+| 262 | [728110](../reports/728110.md) | [HTAF4-213] [Pre-submission] CVE-2018-2879 (padding oracle a | High | — | 3 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2021-07-29 |
+| 263 | [1641148](../reports/1641148.md) | Directory Traversal at █████ | High | — | 3 | [0x45](https://hackerone.com/0x45) | 2022-09-14 |
+| 264 | [799898](../reports/799898.md) | Admin Login Credential Leak for DoD Gitlab EE instance | High | — | 3 | [daehee](https://hackerone.com/daehee) | 2020-05-14 |
+| 265 | [804080](../reports/804080.md) | Domian Takeover in [███████] | High | — | 3 | [0xsnowmn](https://hackerone.com/0xsnowmn) | 2020-05-14 |
+| 266 | [804980](../reports/804980.md) | Username&password is Disclosure in readme file in [https://█ | High | — | 2 | [0xsnowmn](https://hackerone.com/0xsnowmn) | 2020-05-14 |
+| 267 | [812585](../reports/812585.md) | Sensitive Information Leaking Through Navy Website. [█████] | High | — | 2 | [rootuser](https://hackerone.com/rootuser) | 2020-05-14 |
+| 268 | [1631447](../reports/1631447.md) | STORED XSS in █████████/nlc/login.aspx via "edit" GET parame | High — CVSS 8.2 | — | 2 | [shreky](https://hackerone.com/shreky) | 2022-09-14 |
+| 269 | [764731](../reports/764731.md) | Publicly accessible Grafana install allows pivoting to Prome | High | — | 1 | [gnarlygoat](https://hackerone.com/gnarlygoat) | 2020-05-14 |
+| 270 | [1455266](../reports/1455266.md) | Arbitrary File Deletion (CVE-2020-3187) on ████████ | High | — | 1 | [pirneci](https://hackerone.com/pirneci) | 2022-03-18 |
+| 271 | [2682079](../reports/2682079.md) | Publicly Editable U.S. Air Force Google Spreadsheet Exposing | Medium | — | 83 | [kolcyberdef](https://hackerone.com/kolcyberdef) | 2025-02-12 |
+| 272 | [2597543](../reports/2597543.md) | Blind Sql Injection in https://████ | Medium | — | 79 | [iamunixtz](https://hackerone.com/iamunixtz) | 2024-08-29 |
+| 273 | [2666323](../reports/2666323.md) | Improper Authentication Allows Making Appeals as Other Users | Medium | — | 76 | [tacnull](https://hackerone.com/tacnull) | 2025-02-12 |
+| 274 | [2599826](../reports/2599826.md) | Boolen Based Blind Sql Injection Via User Agent in ███.mil | Medium | — | 65 | [iamunixtz](https://hackerone.com/iamunixtz) | 2025-01-24 |
+| 275 | [2586584](../reports/2586584.md) | IDOR leads to PII Leak | Medium | — | 61 | [prakhar0x01](https://hackerone.com/prakhar0x01) | 2024-07-19 |
+| 276 | [1982630](../reports/1982630.md) | CVE-2023-29489 XSS in cpanel at [www.███] - Securado, Oman | Medium | — | 58 | [rook1337](https://hackerone.com/rook1337) | 2023-06-09 |
+| 277 | [2414707](../reports/2414707.md) | Authentication Bypass on https://███████/ | Medium | — | 57 | [bulldawg](https://hackerone.com/bulldawg) | 2024-07-19 |
+| 278 | [2759243](../reports/2759243.md) | Time-based blind SQL injection | Medium | — | 52 | [leofmlopes](https://hackerone.com/leofmlopes) | 2025-01-24 |
+| 279 | [2670521](../reports/2670521.md) | XSS found for https://█████████ | Medium | — | 51 | [thpless](https://hackerone.com/thpless) | 2024-08-29 |
+| 280 | [2615670](../reports/2615670.md) | XSS on ███████ | Medium — CVSS 5.3 | — | 48 | [0xelkot](https://hackerone.com/0xelkot) | 2024-08-29 |
+| 281 | [2434904](../reports/2434904.md) | Reflected Cross-site Scripting via search query on ██████ | Medium | — | 45 | [neg0x](https://hackerone.com/neg0x) | 2024-05-03 |
+| 282 | [2353185](../reports/2353185.md) | Xss  - ███ | Medium | — | 45 | [chor4o](https://hackerone.com/chor4o) | 2024-03-22 |
+| 283 | [723090](../reports/723090.md) | [HTAF4-213] [Pre-submission] HTTPOnly session cookie exposur | Medium — CVSS 4.3 | — | 43 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2024-06-18 |
+| 284 | [2479161](../reports/2479161.md) | reflected xss [CVE-2020-3580] | Medium | — | 43 | [maskedpersian](https://hackerone.com/maskedpersian) | 2024-05-03 |
+| 285 | [2888784](../reports/2888784.md) | XSS vulnerability found in javascript code of https://███.mi | Medium | — | 42 | [thpless](https://hackerone.com/thpless) | 2025-01-24 |
+| 286 | [2417864](../reports/2417864.md) | Reflected XSS on error message on Login Page | Medium | — | 42 | [kurogai](https://hackerone.com/kurogai) | 2024-05-03 |
+| 287 | [2555949](../reports/2555949.md) | █████████ (Android): Vulnerable to Javascript Injection and  | Medium | — | 41 | [cleanchain50](https://hackerone.com/cleanchain50) | 2024-07-26 |
+| 288 | [2587844](../reports/2587844.md) | Cross Site Scripting | Medium — CVSS 4.3 | — | 40 | [prakhar0x01](https://hackerone.com/prakhar0x01) | 2024-08-16 |
+| 289 | [2586641](../reports/2586641.md) | IDOR  leads to view other user Biographical details (Possibl | Medium | — | 40 | [prakhar0x01](https://hackerone.com/prakhar0x01) | 2024-07-19 |
+| 290 | [991717](../reports/991717.md) | 403 Forbidden Bypass at www.██████.mil | Medium | — | 40 | [sldwn](https://hackerone.com/sldwn) | 2020-11-02 |
+| 291 | [2853410](../reports/2853410.md) | XSS found in https://www.████████.mil | Medium | — | 39 | [thpless](https://hackerone.com/thpless) | 2025-01-24 |
+| 292 | [2020429](../reports/2020429.md) | Blind Sql Injection https:/████████ | Medium | — | 39 | [codeslayer1337](https://hackerone.com/codeslayer1337) | 2023-06-30 |
+| 293 | [2586662](../reports/2586662.md) | IDOR : Modify other users demographic details | Medium | — | 38 | [prakhar0x01](https://hackerone.com/prakhar0x01) | 2024-07-19 |
+| 294 | [2353131](../reports/2353131.md) | Xss  Parameter: /<s>/[*]/<s>.css ████████ | Medium | — | 36 | [chor4o](https://hackerone.com/chor4o) | 2024-03-22 |
+| 295 | [2433970](../reports/2433970.md) | SQL injection on ██████████ via 'where' parameter | Medium | — | 34 | [neg0x](https://hackerone.com/neg0x) | 2024-05-03 |
+| 296 | [2233421](../reports/2233421.md) | XSS in Cisco Endpoint | Medium | — | 34 | [r00tdaddy](https://hackerone.com/r00tdaddy) | 2023-11-17 |
+| 297 | [2652190](../reports/2652190.md) | CSRF Attack leads to delete album at | Medium — CVSS 5.4 | — | 33 | [prakhar0x01](https://hackerone.com/prakhar0x01) | 2024-12-18 |
+| 298 | [998935](../reports/998935.md) | POST based RXSS on https://███████/ via ███ parameter | Medium | — | 33 | [nagli](https://hackerone.com/nagli) | 2021-10-13 |
+| 299 | [1860905](../reports/1860905.md) | Splunk Sensitive Information Disclosure @████████ | Medium | — | 32 | [spell1](https://hackerone.com/spell1) | 2023-02-13 |
+| 300 | [1250293](../reports/1250293.md) | SQL injection my method -1 OR 3*2*1=6 AND 000159=000159 | Medium | — | 32 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2021-07-29 |
+| 301 | [2736979](../reports/2736979.md) | CSRF to XSS | Medium | — | 31 | [k0x](https://hackerone.com/k0x) | 2024-12-18 |
+| 302 | [310036](../reports/310036.md) | SSRF vulnerability on ██████████ leaks internal IP and vario | Medium | — | 30 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2019-12-02 |
+| 303 | [758854](../reports/758854.md) | Reflected Xss | Medium | — | 28 | [0xelkomy](https://hackerone.com/0xelkomy) | 2020-09-21 |
+| 304 | [1988560](../reports/1988560.md) | Reflected xss on https://█████████ | Medium | — | 28 | [rektile404](https://hackerone.com/rektile404) | 2023-06-02 |
+| 305 | [1118501](../reports/1118501.md) | CSRF to Cross-site Scripting (XSS) | Medium | — | 27 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2021-03-24 |
+| 306 | [1989884](../reports/1989884.md) | Docker Registry without authentication leads to docker image | Medium | — | 27 | [samuelsiv](https://hackerone.com/samuelsiv) | 2023-06-23 |
+| 307 | [195635](../reports/195635.md) | Video player on ███ allows arbitrary remote videos to be pla | Medium | — | 26 | [tomnomnom](https://hackerone.com/tomnomnom) | 2019-12-02 |
+| 308 | [2778412](../reports/2778412.md) | [ CVE-2018-1000129 ] RXSS At `https://███████` via the URI | Medium | — | 26 | [todayisnew-](https://hackerone.com/todayisnew-) | 2024-12-18 |
+| 309 | [1390131](../reports/1390131.md) | Reflected XSS | Medium | — | 26 | [f6x](https://hackerone.com/f6x) | 2023-01-06 |
+| 310 | [2741110](../reports/2741110.md) | XSS Reflected | Medium — CVSS 5.3 | — | 26 | [k0x](https://hackerone.com/k0x) | 2024-12-18 |
+| 311 | [1639364](../reports/1639364.md) | Local File Inclusion in download.php | Medium | — | 25 | [tokyoenigma](https://hackerone.com/tokyoenigma) | 2024-07-19 |
+| 312 | [2444032](../reports/2444032.md) | Reflected XSS via Moodle on ███ [CVE-2022-35653] | Medium | — | 24 | [maskedpersian](https://hackerone.com/maskedpersian) | 2024-05-03 |
+| 313 | [1877989](../reports/1877989.md) | Client side authentication leads to Auth Bypass | Medium | — | 24 | [kalkii](https://hackerone.com/kalkii) | 2023-03-24 |
+| 314 | [840285](../reports/840285.md) | CSRF Account Deletion on ███ Website | Medium | — | 24 | [notdeghost](https://hackerone.com/notdeghost) | 2020-07-09 |
+| 315 | [1690044](../reports/1690044.md) | IDOR leaking PII data via VendorId parameter | Medium | — | 23 | [696e746c6f6c](https://hackerone.com/696e746c6f6c) | 2022-10-14 |
+| 316 | [2180018](../reports/2180018.md) | Information Disclosure FrontPage Configuration Information | Medium | — | 23 | [gu4rdianbyte](https://hackerone.com/gu4rdianbyte) | 2023-10-20 |
+| 317 | [950700](../reports/950700.md) | Reflected XSS in https://www.█████/ | Medium | — | 23 | [nirajgautamit](https://hackerone.com/nirajgautamit) | 2020-09-29 |
+| 318 | [2297561](../reports/2297561.md) | Resource Injection - [████████] | Medium | — | 22 | [geej](https://hackerone.com/geej) | 2024-03-22 |
+| 319 | [2697588](../reports/2697588.md) | CSRF Attack leads to delete album at ████████ | Medium | — | 22 | [prakhar0x01](https://hackerone.com/prakhar0x01) | 2024-12-18 |
+| 320 | [1882592](../reports/1882592.md) | Reflected XSS in ████████████ | Medium | — | 21 | [0xd3adc0de](https://hackerone.com/0xd3adc0de) | 2023-04-14 |
+| 321 | [924650](../reports/924650.md) | Reflected XSS in https://www.██████/ | Medium | — | 21 | [nirajgautamit](https://hackerone.com/nirajgautamit) | 2020-09-29 |
+| 322 | [2356104](../reports/2356104.md) | Parâmetro XSS: Nome de usuário - █████████ | Medium | — | 20 | [chor4o](https://hackerone.com/chor4o) | 2024-03-22 |
+| 323 | [1624267](../reports/1624267.md) | [████████] RXSS via "CurrentFolder" parameter | Medium | — | 20 | [qu1nten](https://hackerone.com/qu1nten) | 2023-12-21 |
+| 324 | [1092678](../reports/1092678.md) | Self stored Xss + Login Csrf | Medium | — | 20 | [biest](https://hackerone.com/biest) | 2021-06-30 |
+| 325 | [695429](../reports/695429.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://████ | Medium — CVSS 5.3 | — | 19 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2024-06-18 |
+| 326 | [1799562](../reports/1799562.md) | Reflected XSS on ██████.mil | Medium | — | 19 | [alishah](https://hackerone.com/alishah) | 2023-01-27 |
+| 327 | [1102591](../reports/1102591.md) | Blind SQL iNJECTION  | Medium | — | 19 | [1337n0x](https://hackerone.com/1337n0x) | 2021-06-03 |
+| 328 | [1679969](../reports/1679969.md) | Host Header Injection on https://███/████████/Account/Forgot | Medium | — | 19 | [696e746c6f6c](https://hackerone.com/696e746c6f6c) | 2022-10-14 |
+| 329 | [1794757](../reports/1794757.md) | Reflective Cross Site Scripting (XSS) on ███████/Pages | Medium | — | 18 | [predatorsparrow](https://hackerone.com/predatorsparrow) | 2024-03-22 |
+| 330 | [389250](../reports/389250.md) | IDOR | Medium | — | 18 | [websecnl](https://hackerone.com/websecnl) | 2022-02-14 |
+| 331 | [1003433](../reports/1003433.md) | XSS Reflect to POST █████ | Medium | — | 18 | [ofjaaaah](https://hackerone.com/ofjaaaah) | 2020-11-23 |
+| 332 | [485684](../reports/485684.md) | Self XSS combine CSRF at https://████████/index.php | Medium | — | 17 | [manshum12](https://hackerone.com/manshum12) | 2020-05-27 |
+| 333 | [695427](../reports/695427.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://███  | Medium — CVSS 5.3 | — | 17 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2024-07-19 |
+| 334 | [872304](../reports/872304.md) | RXSS - https://████████/ | Medium | — | 17 | [0xelkomy](https://hackerone.com/0xelkomy) | 2021-10-18 |
+| 335 | [694865](../reports/694865.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://████ | Medium — CVSS 5.3 | — | 16 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2024-06-18 |
+| 336 | [1065167](../reports/1065167.md) | Reflected XSS on https://█████████/ | Medium | — | 16 | [nagli](https://hackerone.com/nagli) | 2021-02-01 |
+| 337 | [1814335](../reports/1814335.md) | reflected xss in www.████████.gov | Medium | — | 16 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-01-27 |
+| 338 | [1069392](../reports/1069392.md) | Old Session Does Not Expires After Password Change | Medium | — | 16 | [hemantsolo](https://hackerone.com/hemantsolo) | 2021-01-25 |
+| 339 | [882220](../reports/882220.md) | XSS via X-Forwarded-Host header | Medium | — | 16 | [geeknik](https://hackerone.com/geeknik) | 2021-05-11 |
+| 340 | [1090838](../reports/1090838.md) | CSRF in  https://███ | Medium | — | 15 | [blackangel11](https://hackerone.com/blackangel11) | 2021-04-20 |
+| 341 | [708592](../reports/708592.md) | [█████] — DOM-based XSS on endpoint `/?s=` | Medium | — | 15 | [usamasood](https://hackerone.com/usamasood) | 2019-12-02 |
+| 342 | [2126954](../reports/2126954.md) | [██████] Reflected XSS via Keycloak on ██████ | Medium | — | 15 | [hackeronanywhere](https://hackerone.com/hackeronanywhere) | 2023-09-29 |
+| 343 | [862681](../reports/862681.md) | No Rate Limiting on https://██████/██████████/accounts/passw | Medium | — | 15 | [nagli](https://hackerone.com/nagli) | 2020-05-27 |
+| 344 | [1771149](../reports/1771149.md) | CORS Misconfiguration in https://████████/accounts/login/ | Medium | — | 15 | [deepvvm](https://hackerone.com/deepvvm) | 2023-02-24 |
+| 345 | [3238607](../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025- | Medium | — | 15 | [0xkarim_dix](https://hackerone.com/0xkarim_dix) | 2026-01-12 |
+| 346 | [213239](../reports/213239.md) | Blind SQLi vulnerability in a DoD Website | Medium | — | 14 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-06-16 |
+| 347 | [1014593](../reports/1014593.md) | CSRF to Stored HTML injection at https://www.█████ | Medium | — | 14 | [nagli](https://hackerone.com/nagli) | 2020-12-03 |
+| 348 | [1763404](../reports/1763404.md) | xss on reset password page | Medium | — | 14 | [0x53_0x52_0x59](https://hackerone.com/0x53_0x52_0x59) | 2023-01-06 |
+| 349 | [896093](../reports/896093.md) | (CORS) Cross-origin resource sharing misconfiguration | Medium | — | 14 | [natanalves01001](https://hackerone.com/natanalves01001) | 2020-07-14 |
+| 350 | [1171403](../reports/1171403.md) | Reflected XSS through ClickJacking | Medium | — | 14 | [sazouki](https://hackerone.com/sazouki) | 2021-06-15 |
+| 351 | [1822160](../reports/1822160.md) | [U.S. Air Force] Information disclosure due unauthenticated  | Medium | — | 14 | [hackeronanywhere](https://hackerone.com/hackeronanywhere) | 2023-01-27 |
+| 352 | [2231261](../reports/2231261.md) | Elasticsearch is currently open without authentication on  h | Medium | — | 14 | [roland_hack](https://hackerone.com/roland_hack) | 2023-12-21 |
+| 353 | [1723896](../reports/1723896.md) | Sql Injection At █████████ | Medium | — | 14 | [w13d0m](https://hackerone.com/w13d0m) | 2023-01-06 |
+| 354 | [1704035](../reports/1704035.md) | AWS Credentials Disclosure at ███  | Medium | — | 14 | [0r10nh4ck](https://hackerone.com/0r10nh4ck) | 2023-02-24 |
+| 355 | [1159255](../reports/1159255.md) | DOM Based XSS on https://████ via backURL param | Medium | — | 14 | [nagli](https://hackerone.com/nagli) | 2021-05-11 |
+| 356 | [1005374](../reports/1005374.md) | CORS misconfiguration which leads to the disclosure  | Medium | — | 14 | [blackangel11](https://hackerone.com/blackangel11) | 2020-11-23 |
+| 357 | [799855](../reports/799855.md) | CSRF - Delete Account (Urgent) | Medium | — | 13 | [ahmd_halabi](https://hackerone.com/ahmd_halabi) | 2022-03-18 |
+| 358 | [1048540](../reports/1048540.md) | IDOR on https://██████ via POST UID enables database scrapin | Medium | — | 13 | [skarsom](https://hackerone.com/skarsom) | 2021-04-08 |
+| 359 | [996122](../reports/996122.md) | Insufficient Session Expiration on Adobe Connect | https://█ | Medium | — | 13 | [x3ph_](https://hackerone.com/x3ph_) | 2021-06-03 |
+| 360 | [1196945](../reports/1196945.md) | Reflected XSS at [████████] | Medium | — | 13 | [rook1337](https://hackerone.com/rook1337) | 2021-06-30 |
+| 361 | [184472](../reports/184472.md) | http://████/data.json  showing users sensitive information v | Medium | — | 13 | [00utsav00](https://hackerone.com/00utsav00) | 2019-12-02 |
+| 362 | [1825942](../reports/1825942.md) | XSS on ( █████████.gov ) Via URL path | Medium | — | 13 | [notajax](https://hackerone.com/notajax) | 2023-01-27 |
+| 363 | [1636345](../reports/1636345.md) | Reflected cross site scripting in https://███████ | Medium | — | 13 | [maskedpersian](https://hackerone.com/maskedpersian) | 2022-09-06 |
+| 364 | [230870](../reports/230870.md) | Arbitary file download vulnerability on a DoD website | Medium | — | 13 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2017-07-05 |
+| 365 | [1892317](../reports/1892317.md) | XSS Reflected | Medium | — | 13 | [ferreiraklet_](https://hackerone.com/ferreiraklet_) | 2023-09-08 |
+| 366 | [2073717](../reports/2073717.md) | SqlInject at ██████ | Medium | — | 12 | [appllite](https://hackerone.com/appllite) | 2023-09-08 |
+| 367 | [2521186](../reports/2521186.md) | Self XSS | Medium | — | 12 | [0xtrav](https://hackerone.com/0xtrav) | 2024-07-19 |
+| 368 | [1147949](../reports/1147949.md) | CSRF Based XSS @ https://██████████ | Medium | — | 12 | [nagli](https://hackerone.com/nagli) | 2021-06-30 |
+| 369 | [1406598](../reports/1406598.md) | Rxss on █████████ via logout?service=javascript:alert(1) | Medium | — | 12 | [m00n_knight](https://hackerone.com/m00n_knight) | 2021-12-22 |
+| 370 | [1850235](../reports/1850235.md) | [XSS] Reflected XSS via POST request | Medium | — | 12 | [0xd3adc0de](https://hackerone.com/0xd3adc0de) | 2023-02-24 |
+| 371 | [2247231](../reports/2247231.md) | Unauthorized access to Argo dashboard on █████ | Medium | — | 12 | [devdevrl](https://hackerone.com/devdevrl) | 2023-12-21 |
+| 372 | [1548067](../reports/1548067.md) | Unauthorized Access to Internal Server Panel without Authent | Medium | — | 12 | [ahmd_halabi](https://hackerone.com/ahmd_halabi) | 2022-06-27 |
+| 373 | [1007702](../reports/1007702.md) | PII Leak of USCG Designated Examiner List at https://www.███ | Medium | — | 12 | [nagli](https://hackerone.com/nagli) | 2020-12-03 |
+| 374 | [3437836](../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | Medium | — | 11 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
+| 375 | [1223577](../reports/1223577.md) | XSS Reflected - ██████████ | Medium | — | 11 | [drauschkolb](https://hackerone.com/drauschkolb) | 2022-01-19 |
+| 376 | [1093908](../reports/1093908.md) | IDOR leads to Leakage an ██████████ Login Information | Medium | — | 11 | [sleepnotf0und](https://hackerone.com/sleepnotf0und) | 2021-03-11 |
+| 377 | [196448](../reports/196448.md) | Local file inclusion vulnerability on a DoD website | Medium | — | 11 | [fransrosen](https://hackerone.com/fransrosen) | 2017-04-27 |
+| 378 | [1149144](../reports/1149144.md) | Reflected XSS through clickjacking at https://████ | Medium | — | 11 | [nagli](https://hackerone.com/nagli) | 2021-06-03 |
+| 379 | [759418](../reports/759418.md) | Reflected Xss  https://██████/ | Medium | — | 11 | [0xelkomy](https://hackerone.com/0xelkomy) | 2021-10-18 |
+| 380 | [1619536](../reports/1619536.md) | xmlrpc.php file enabled at ██████.org | Medium | — | 11 | [iam_a_jinchuriki](https://hackerone.com/iam_a_jinchuriki) | 2023-03-24 |
+| 381 | [1094276](../reports/1094276.md) | Reflected XSS In https://███████ | Medium | — | 10 | [sleepnotf0und](https://hackerone.com/sleepnotf0und) | 2021-02-10 |
+| 382 | [207477](../reports/207477.md) | SSRF in ███████ | Medium | — | 10 | [bfe3fdb1088411d8ef018aa3abde8](https://hackerone.com/bfe3fdb1088411d8ef018aa3abde8) | 2019-12-02 |
+| 383 | [382048](../reports/382048.md) | Server-Side Request Forgery (SSRF) | Medium | — | 10 | [t-pwn](https://hackerone.com/t-pwn) | 2019-12-02 |
+| 384 | [1250199](../reports/1250199.md) | Cross site scripting  | Medium | — | 10 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2021-07-29 |
+| 385 | [696400](../reports/696400.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://████ | Medium — CVSS 6.5 | — | 10 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2024-06-18 |
+| 386 | [695776](../reports/695776.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://████ | Medium — CVSS 6.5 | — | 10 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2024-07-19 |
+| 387 | [191243](../reports/191243.md) | File upload vulnerability on a DoD website | Medium | — | 10 | [korprit](https://hackerone.com/korprit) | 2017-03-16 |
+| 388 | [1873655](../reports/1873655.md) | Reflected XSS in ██████ | Medium | — | 10 | [0xd3adc0de](https://hackerone.com/0xd3adc0de) | 2023-03-24 |
+| 389 | [1878756](../reports/1878756.md) | Email exploitation with web hosting services. | Medium | — | 10 | [mdfarhanchowdhuryhasin](https://hackerone.com/mdfarhanchowdhuryhasin) | 2023-04-14 |
+| 390 | [771215](../reports/771215.md) | Blind SQL Injection | Medium | — | 10 | [mido0x0x](https://hackerone.com/mido0x0x) | 2022-04-29 |
+| 391 | [1147060](../reports/1147060.md) | Reflected XSS | Medium | — | 10 | [fdeleite](https://hackerone.com/fdeleite) | 2021-06-03 |
+| 392 | [856981](../reports/856981.md) | CSRF - Modify Company Info | Medium | — | 10 | [ahmd_halabi](https://hackerone.com/ahmd_halabi) | 2020-06-11 |
+| 393 | [695780](../reports/695780.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://████ | Medium — CVSS 6.5 | — | 10 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2024-07-19 |
+| 394 | [3136754](../reports/3136754.md) | Cross-Site Scripting via 'autoPlay' parameter | Medium | — | 10 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
+| 395 | [1626356](../reports/1626356.md) | Account Takeover and Information update due to cross site re | Medium — CVSS 5.4 | — | 10 | [snifyak](https://hackerone.com/snifyak) | 2022-10-14 |
+| 396 | [230714](../reports/230714.md) | Arbitary file download vulnerability on a DoD website | Medium | — | 10 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2017-07-05 |
+| 397 | [1010316](../reports/1010316.md) | Reflected XSS on https://████/ (Bypass of #1002977) | Medium | — | 10 | [nagli](https://hackerone.com/nagli) | 2020-11-23 |
+| 398 | [962753](../reports/962753.md) | Elmah.axd is publicly accessible and leaking  Error Log for  | Medium | — | 10 | [rudra16](https://hackerone.com/rudra16) | 2020-09-03 |
+| 399 | [1012249](../reports/1012249.md) | Reflected XSS  www.█████ search form | Medium | — | 10 | [val_brux](https://hackerone.com/val_brux) | 2021-01-25 |
+| 400 | [1154378](../reports/1154378.md) | Reflected XSS on https://██████ | Medium | — | 10 | [thiennv](https://hackerone.com/thiennv) | 2021-06-03 |
+| 401 | [1267380](../reports/1267380.md) | Reflected XSS on [█████████] | Medium | — | 10 | [saajanbhujel](https://hackerone.com/saajanbhujel) | 2022-04-07 |
+| 402 | [259913](../reports/259913.md) | File Upload Restriction Bypass | Medium | — | 10 | [ok_bye_now](https://hackerone.com/ok_bye_now) | 2020-05-14 |
+| 403 | [195544](../reports/195544.md) | Exposed Access Control Data Backup Files on DoD Website | Medium | — | 10 | [mazen160](https://hackerone.com/mazen160) | 2017-02-15 |
+| 404 | [3137212](../reports/3137212.md) | Cross-Site Scripting via 'wikitext' parameter | Medium | — | 9 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
+| 405 | [1794884](../reports/1794884.md) | Unauthenticated phpinfo()files could lead to ability file re | Medium | — | 9 | [hackeronanywhere](https://hackerone.com/hackeronanywhere) | 2023-01-06 |
+| 406 | [1173598](../reports/1173598.md) | S3 bucket listing/download | Medium | — | 9 | [fdeleite](https://hackerone.com/fdeleite) | 2021-08-19 |
+| 407 | [1665648](../reports/1665648.md) | stored cross site scripting in https://████████.edu | Medium | — | 9 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-09-08 |
+| 408 | [3137206](../reports/3137206.md) | Cross-Site Scripting via 'description_extra' parameter | Medium | — | 9 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
+| 409 | [1139340](../reports/1139340.md) | Elmah.axd is publicly accessible leaking Error Log | Medium | — | 9 | [fdeleite](https://hackerone.com/fdeleite) | 2021-06-15 |
+| 410 | [1660611](../reports/1660611.md) | stored cross site scripting in https://███ | Medium | — | 9 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-01-06 |
+| 411 | [189851](../reports/189851.md) | Time Based SQL Injection vulnerability on a DoD website | Medium | — | 9 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2017-07-05 |
+| 412 | [3053220](../reports/3053220.md) | XSS on ███ | Medium | — | 9 | [bewgsy](https://hackerone.com/bewgsy) | 2026-01-12 |
+| 413 | [188149](../reports/188149.md) | Personal information disclosure on a DoD website | Medium | — | 9 | [spam404](https://hackerone.com/spam404) | 2017-02-16 |
+| 414 | [3166585](../reports/3166585.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Medium | — | 9 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
+| 415 | [694861](../reports/694861.md) | [CVE-2018-0296] Cisco VPN path traversal on the https://1███ | Medium — CVSS 5.3 | — | 9 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2024-07-19 |
+| 416 | [3284389](../reports/3284389.md) | Cross-Site Scripting via 'RAISED_FUNDS_DESC' parameter | Medium | — | 9 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
+| 417 | [498351](../reports/498351.md) | [█████] Get all tickets (IDOR) | Medium | — | 9 | [jarvis0x1](https://hackerone.com/jarvis0x1) | 2019-12-02 |
+| 418 | [1623685](../reports/1623685.md) | SSRF ACCESS AWS METADATA - █████ | Medium | — | 8 | [0xr3dhunt](https://hackerone.com/0xr3dhunt) | 2022-09-14 |
+| 419 | [184286](../reports/184286.md) | Reflected XSS on a Department of Defense website | Medium | — | 8 | [juliocesar](https://hackerone.com/juliocesar) | 2017-01-12 |
+| 420 | [1057269](../reports/1057269.md) | PII Information Leak at https://████████.mil/ | Medium | — | 8 | [savxiety](https://hackerone.com/savxiety) | 2021-01-12 |
+| 421 | [874427](../reports/874427.md) | Tomcat examples available for public, Disclosure Apache Tomc | Medium | — | 8 | [pvm](https://hackerone.com/pvm) | 2020-06-11 |
+| 422 | [1173593](../reports/1173593.md) | Reflected XSS at www.███████ at /██████████ via the ████████ | Medium | — | 8 | [z32](https://hackerone.com/z32) | 2021-06-03 |
+| 423 | [1665966](../reports/1665966.md) | stored cross site scripting in https://██████████ | Medium | — | 8 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-01-06 |
+| 424 | [922496](../reports/922496.md) | DOM XSS on https://www.███████ | Medium | — | 8 | [gamer7112](https://hackerone.com/gamer7112) | 2020-09-29 |
+| 425 | [3166579](../reports/3166579.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Medium | — | 8 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
+| 426 | [207099](../reports/207099.md) | Insecure Direct Object Reference (IDOR) vulnerability in a D | Medium | — | 8 | [amsda](https://hackerone.com/amsda) | 2017-08-15 |
+| 427 | [1982099](../reports/1982099.md) | DOM-XSS | Medium | — | 8 | [medokll0011](https://hackerone.com/medokll0011) | 2023-06-02 |
+| 428 | [184199](../reports/184199.md) | Reflected XSS on an Army website | Medium | — | 8 | [juliocesar](https://hackerone.com/juliocesar) | 2017-01-12 |
+| 429 | [3136746](../reports/3136746.md) | Cross-Site Scripting via 'currentImage' parameter | Medium | — | 8 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
+| 430 | [3204997](../reports/3204997.md) | Reflected XSS via user Parameter on getconfig.esp Endpoint | Medium | — | 8 | [aramx4](https://hackerone.com/aramx4) | 2026-01-12 |
+| 431 | [1804174](../reports/1804174.md) | Improper Access Control on Media Wiki allows an attackers to | Medium | — | 8 | [miguel_santareno](https://hackerone.com/miguel_santareno) | 2023-03-24 |
+| 432 | [409230](../reports/409230.md) | Cross Site Scripting (XSS) – Reflected | Medium | — | 8 | [jayhanspara](https://hackerone.com/jayhanspara) | 2020-09-29 |
+| 433 | [3351408](../reports/3351408.md) | Cross-Site Scripting via URL on ███████ | Medium | — | 8 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
+| 434 | [1243650](../reports/1243650.md) | ███████ - XSS - CVE-2020-3580 | Medium | — | 8 | [pr3r00t](https://hackerone.com/pr3r00t) | 2021-09-29 |
+| 435 | [998981](../reports/998981.md) | {███} It is posible download all information and files via S | Medium | — | 8 | [z3ck3bug](https://hackerone.com/z3ck3bug) | 2020-11-23 |
+| 436 | [728001](../reports/728001.md) | [HTAF4-213] [Pre-submission] XSS via arbitrary cookie name a | Medium — CVSS 5.4 | — | 8 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2024-06-18 |
+| 437 | [1884372](../reports/1884372.md) | HAProxy stats panel exposed externally | Medium | — | 8 | [kalkii](https://hackerone.com/kalkii) | 2023-03-24 |
+| 438 | [183855](../reports/183855.md) | Reflected XSS on a Department of Defense website | Medium | — | 8 | [juliocesar](https://hackerone.com/juliocesar) | 2017-01-12 |
+| 439 | [1317031](../reports/1317031.md) | Open Akamai ARL XSS at ████████ | Medium | — | 8 | [whoisbinit](https://hackerone.com/whoisbinit) | 2022-04-07 |
+| 440 | [1627974](../reports/1627974.md) | IDOR on ███████ [HtUS] | Medium — CVSS 6.5 | — | 8 | [nightm4re](https://hackerone.com/nightm4re) | 2022-11-18 |
+| 441 | [1317024](../reports/1317024.md) | Open Akamai ARL XSS at ████████ | Medium | — | 7 | [whoisbinit](https://hackerone.com/whoisbinit) | 2022-04-20 |
+| 442 | [3354494](../reports/3354494.md) | Cross-Site Scripting via URL on ███████ | Medium | — | 7 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
+| 443 | [3205104](../reports/3205104.md) | Reflected XSS via user Parameter in /ssl-vpn/getconfig.esp | Medium | — | 7 | [aramx4](https://hackerone.com/aramx4) | 2026-01-12 |
+| 444 | [1074136](../reports/1074136.md) | Bypassed a fix to gain access to PII of more than 100 Office | Medium | — | 7 | [mrsinister15](https://hackerone.com/mrsinister15) | 2021-02-10 |
+| 445 | [1536215](../reports/1536215.md) | Reflected XSS via `████████` parameter | Medium | — | 7 | [mdakh404](https://hackerone.com/mdakh404) | 2022-06-27 |
+| 446 | [197976](../reports/197976.md) | Open FTP on ███ | Medium | — | 7 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2019-12-02 |
+| 447 | [200125](../reports/200125.md) | Information disclosure vulnerability on a DoD website | Medium | — | 7 | [jon_bottarini](https://hackerone.com/jon_bottarini) | 2017-06-16 |
+| 448 | [1657020](../reports/1657020.md) | stored cross site scripting in https://███ | Medium | — | 7 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-01-06 |
+| 449 | [3166581](../reports/3166581.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Medium | — | 7 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
+| 450 | [186189](../reports/186189.md) | Information leakage on a Department of Defense website | Medium | — | 7 | [korprit](https://hackerone.com/korprit) | 2017-01-12 |
+| 451 | [648346](../reports/648346.md) | [████████] Boolean SQL Injection (/personnel.php?content=pro | Medium | — | 7 | [jarvis0x1](https://hackerone.com/jarvis0x1) | 2019-12-02 |
+| 452 | [995144](../reports/995144.md) | (CORS) Cross-origin resource sharing misconfiguration on htt | Medium | — | 7 | [fiveguyslover](https://hackerone.com/fiveguyslover) | 2022-02-14 |
+| 453 | [1681178](../reports/1681178.md) | Reflected XSS at https://██████/ | Medium | — | 7 | [testingforbugs](https://hackerone.com/testingforbugs) | 2023-09-29 |
+| 454 | [1062803](../reports/1062803.md) | Misconfigured AWS S3 bucket leaks senstive data  such of  ad | Medium | — | 7 | [i_am_no__one](https://hackerone.com/i_am_no__one) | 2021-03-24 |
+| 455 | [1183472](../reports/1183472.md) |  SSRF due to  CVE-2021-27905 in www.████████ | Medium | — | 7 | [fdeleite](https://hackerone.com/fdeleite) | 2022-04-29 |
+| 456 | [1184644](../reports/1184644.md) | [www.███] Reflected Cross-Site Scripting | Medium | — | 7 | [celesian](https://hackerone.com/celesian) | 2021-06-30 |
+| 457 | [410099](../reports/410099.md) | Account takeover due to CSRF in "Account details" option on  | Medium | — | 7 | [mik317](https://hackerone.com/mik317) | 2019-01-11 |
+| 458 | [1147951](../reports/1147951.md) | CVE-2019-3403 on https://████/rest/api/2/user/picker?query= | Medium | — | 7 | [nagli](https://hackerone.com/nagli) | 2021-06-03 |
+| 459 | [359290](../reports/359290.md) | LDAP Injection at ██████ | Medium | — | 7 | [tampe125](https://hackerone.com/tampe125) | 2019-12-02 |
+| 460 | [1252282](../reports/1252282.md) | XSS on ███ | Medium | — | 7 | [0xelkot](https://hackerone.com/0xelkot) | 2021-08-19 |
+| 461 | [1062380](../reports/1062380.md) | Reflected XSS on ███████ | Medium | — | 7 | [0x0d0](https://hackerone.com/0x0d0) | 2021-04-02 |
+| 462 | [223948](../reports/223948.md) | Exposed ███████ Administrative Interface (ColdFusion 11) | Medium | — | 7 | [jamesit](https://hackerone.com/jamesit) | 2019-12-02 |
+| 463 | [230026](../reports/230026.md) | Insecure Direct Object Reference on in-scope .mil website | Medium | — | 7 | [gamliel](https://hackerone.com/gamliel) | 2019-12-02 |
+| 464 | [3166582](../reports/3166582.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Medium | — | 7 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
+| 465 | [374057](../reports/374057.md) | Corda Server XSS ████████ | Medium | — | 7 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2019-12-02 |
+| 466 | [1627962](../reports/1627962.md) | Unauthenticated PII leak on verified/requested to be verifie | Medium — CVSS 4.3 | — | 7 | [shreky](https://hackerone.com/shreky) | 2022-10-14 |
+| 467 | [191608](../reports/191608.md) | Cross-site request forgery vulnerability on a DoD website | Medium | — | 6 | [korprit](https://hackerone.com/korprit) | 2017-03-16 |
+| 468 | [1059395](../reports/1059395.md) | Reflected XSS on █████████ | Medium | — | 6 | [0x0d0](https://hackerone.com/0x0d0) | 2021-04-02 |
+| 469 | [1305472](../reports/1305472.md) | Reflected XSS at ████ via ██████████= parameter  | Medium | — | 6 | [zhenwarx](https://hackerone.com/zhenwarx) | 2021-10-28 |
+| 470 | [1660500](../reports/1660500.md) | stored cross site scripting in https://█████████ | Medium | — | 6 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-01-06 |
+| 471 | [1736317](../reports/1736317.md) | XSS via Client Side Template Injection on www.███/News/Speec | Medium | — | 6 | [chef_shell](https://hackerone.com/chef_shell) | 2023-01-06 |
+| 472 | [184877](../reports/184877.md) |  Out-of-date Version (Apache)  | Medium | — | 6 | [linkks](https://hackerone.com/linkks) | 2019-12-02 |
+| 473 | [1657030](../reports/1657030.md) | stored cross site scripting in https://██████████ | Medium | — | 6 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-01-06 |
+| 474 | [3127147](../reports/3127147.md) | POST XSS - data[account][id] parameter | Medium | — | 6 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
+| 475 | [1512199](../reports/1512199.md) | username and password leaked via pptx for █████████ website | Medium | — | 6 | [ibrahimatix0x01](https://hackerone.com/ibrahimatix0x01) | 2022-04-07 |
+| 476 | [3127158](../reports/3127158.md) | POST XSS -  fields[account][firstname] parameter | Medium | — | 6 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
+| 477 | [520842](../reports/520842.md) | Email PII disclosure due to Insecure Password Reset field | Medium | — | 6 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2019-12-02 |
+| 478 | [214800](../reports/214800.md) | Default page exposes admin functions and all metods and clas | Medium | — | 6 | [daveysec](https://hackerone.com/daveysec) | 2019-12-02 |
+| 479 | [3291053](../reports/3291053.md) | exposed FOUO documents, including Passport information | Medium | — | 6 | [aporia](https://hackerone.com/aporia) | 2026-01-12 |
+| 480 | [648348](../reports/648348.md) | [█████] Reflected GET XSS  (/personnel.php?...&rcnum=*) with | Medium | — | 6 | [jarvis0x1](https://hackerone.com/jarvis0x1) | 2019-12-02 |
+| 481 | [1251868](../reports/1251868.md) | XSS on https://████/ via ███████ parameter | Medium | — | 6 | [homosec](https://hackerone.com/homosec) | 2022-04-07 |
+| 482 | [1844674](../reports/1844674.md) | Install.php File Exposure on Drupal | Medium | — | 6 | [carpc](https://hackerone.com/carpc) | 2023-02-24 |
+| 483 | [300513](../reports/300513.md) | WebLogic Server Side Request Forgery | Medium | — | 6 | [linkks](https://hackerone.com/linkks) | 2019-12-02 |
+| 484 | [2045549](../reports/2045549.md) | CVE-2023-24488 xss on https://██████/ | Medium | — | 6 | [0xmaruf](https://hackerone.com/0xmaruf) | 2023-09-08 |
+| 485 | [647409](../reports/647409.md) | ██████████ bruteforceable RIC Codes allowing information on  | Medium | — | 6 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2019-12-02 |
+| 486 | [3284381](../reports/3284381.md) | Cross-Site Scripting via 'EVENT_DESCRIPTION' parameter | Medium | — | 6 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
+| 487 | [1666002](../reports/1666002.md) | stored cross site scripting in https://███████ | Medium | — | 6 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-01-06 |
+| 488 | [3166587](../reports/3166587.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Medium | — | 6 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
+| 489 | [875049](../reports/875049.md) | Register with non accepted email types on https://███████ | Medium | — | 6 | [dianeme_](https://hackerone.com/dianeme_) | 2021-02-10 |
+| 490 | [1657033](../reports/1657033.md) | stored cross site scripting in https://███ | Medium | — | 6 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-01-06 |
+| 491 | [1634105](../reports/1634105.md) | Open Redirect at █████ | Medium | — | 6 | [angeltsvetkov](https://hackerone.com/angeltsvetkov) | 2022-11-18 |
+| 492 | [1681208](../reports/1681208.md) | XSS DUE TO CVE-2022-38463 in https://████████ | Medium | — | 6 | [shuvam321](https://hackerone.com/shuvam321) | 2022-09-14 |
+| 493 | [375091](../reports/375091.md) | Partial PII leakage due to public set gitlab | Medium | — | 6 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2019-12-02 |
+| 494 | [819911](../reports/819911.md) | Knowledge Base Articles are Globally Modifiable via ██████ | Medium | — | 6 | [z32](https://hackerone.com/z32) | 2021-02-18 |
+| 495 | [3137200](../reports/3137200.md) | Cross-Site Scripting via 'return_link_url' parameter  | Medium | — | 6 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
+| 496 | [3127154](../reports/3127154.md) | POST XSS -  data[type] parameter | Medium | — | 5 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
+| 497 | [225020](../reports/225020.md) | reflected xss @ www.█████████ | Medium | — | 5 | [geeknik](https://hackerone.com/geeknik) | 2021-03-11 |
+| 498 | [1882754](../reports/1882754.md) | Reflected XSS in ██████████ | Medium | — | 5 | [0xd3adc0de](https://hackerone.com/0xd3adc0de) | 2023-03-24 |
+| 499 | [1095765](../reports/1095765.md) | Reflected XSS in https://██████████ via "████████" parameter | Medium | — | 5 | [nirajgautamit](https://hackerone.com/nirajgautamit) | 2021-04-02 |
+| 500 | [1092125](../reports/1092125.md) | Bypassing CORS Misconfiguration Leads to Sensitive Exposure  | Medium | — | 5 | [whoisbinit](https://hackerone.com/whoisbinit) | 2022-04-07 |
+| 501 | [864091](../reports/864091.md) | RXSS - https://███/ | Medium | — | 5 | [0xelkomy](https://hackerone.com/0xelkomy) | 2021-03-11 |
+| 502 | [453307](../reports/453307.md) | HTML Injection + XSS Vulnerability - https://████████/ | Pro | Medium | — | 5 | [ismailtsdelen](https://hackerone.com/ismailtsdelen) | 2021-03-11 |
+| 503 | [707228](../reports/707228.md) | Internal IP Address Disclosed | Medium | — | 5 | [ahmd_halabi](https://hackerone.com/ahmd_halabi) | 2020-05-14 |
+| 504 | [1665971](../reports/1665971.md) | stored cross site scripting in https://████ | Medium | — | 5 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-01-06 |
+| 505 | [1050196](../reports/1050196.md) | PII Leak of ████████ Personal at  https://www.█████████ | Medium | — | 5 | [nagli](https://hackerone.com/nagli) | 2021-02-10 |
+| 506 | [1657006](../reports/1657006.md) | stored cross site scripting in https://███ | Medium | — | 5 | [maskedpersian](https://hackerone.com/maskedpersian) | 2023-01-06 |
+| 507 | [201512](../reports/201512.md) | SQL Injection vulnerability in a DoD website | Medium | — | 5 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2017-07-05 |
+| 508 | [1626962](../reports/1626962.md) | RXSS on ███████ | Medium | — | 5 | [tmz900](https://hackerone.com/tmz900) | 2022-09-06 |
+| 509 | [258573](../reports/258573.md) | Able to view Backend Database dur to improper authentication | Medium | — | 5 | [nobody_cares_](https://hackerone.com/nobody_cares_) | 2019-12-02 |
+| 510 | [1699855](../reports/1699855.md) | XSS in ServiceNow logout https://████:443 | Medium | — | 5 | [colemanj](https://hackerone.com/colemanj) | 2023-05-15 |
+| 511 | [1309385](../reports/1309385.md) | Reflected XSS [██████] | Medium | — | 5 | [fdeleite](https://hackerone.com/fdeleite) | 2022-04-29 |
+| 512 | [202619](../reports/202619.md) | SQL injection vulnerability on a DoD website | Medium | — | 5 | [0xd0m7](https://hackerone.com/0xd0m7) | 2017-07-05 |
+| 513 | [192940](../reports/192940.md) | Remote File Inclusion, Malicious File Hosting, and Cross-sit | Medium | — | 5 | [jutsuce](https://hackerone.com/jutsuce) | 2019-12-02 |
+| 514 | [1882751](../reports/1882751.md) | Reflected XSS in ██████████ | Medium | — | 5 | [0xd3adc0de](https://hackerone.com/0xd3adc0de) | 2023-03-24 |
+| 515 | [3284534](../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | Medium | — | 4 | [maskedpersian](https://hackerone.com/maskedpersian) | 2026-01-12 |
+| 516 | [743643](../reports/743643.md) | Firewall rules for ████████ can be bypassed to leak site aut | Medium | — | 4 | [nrockhouse](https://hackerone.com/nrockhouse) | 2020-05-14 |
+| 517 | [800608](../reports/800608.md) | IDOR - Delete Users Saved Projects | Medium | — | 4 | [ahmd_halabi](https://hackerone.com/ahmd_halabi) | 2022-03-18 |
+| 518 | [874228](../reports/874228.md) | HTML Injection leads to XSS on███ | Medium | — | 4 | [lemonoftroy](https://hackerone.com/lemonoftroy) | 2020-07-30 |
+| 519 | [1309386](../reports/1309386.md) | Reflected XSS [██████] | Medium | — | 4 | [fdeleite](https://hackerone.com/fdeleite) | 2022-09-14 |
+| 520 | [804364](../reports/804364.md) | Reflected XSS on https://███████/ | Medium | — | 4 | [the_unlucky_guy](https://hackerone.com/the_unlucky_guy) | 2020-07-30 |
+| 521 | [1109544](../reports/1109544.md) | Self XSS + CSRF Leads to Reflected XSS in https://████/  | Medium | — | 4 | [sleepnotf0und](https://hackerone.com/sleepnotf0und) | 2021-03-24 |
+| 522 | [195051](../reports/195051.md) | SQL injection vulnerability in a DoD website | Medium | — | 4 | [shakaa1](https://hackerone.com/shakaa1) | 2017-06-23 |
+| 523 | [3135626](../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP A | Medium | — | 4 | [the_reinhardt](https://hackerone.com/the_reinhardt) | 2026-01-12 |
+| 524 | [648298](../reports/648298.md) | [███████] Reflected GET XSS (/mission.php?...&missionDate=*) | Medium | — | 4 | [jarvis0x1](https://hackerone.com/jarvis0x1) | 2019-12-02 |
+| 525 | [847185](../reports/847185.md) | Members Personal Information Leak Due to IDOR | Medium | — | 4 | [r00tpgp](https://hackerone.com/r00tpgp) | 2021-05-11 |
+| 526 | [1530581](../reports/1530581.md) | CORS Misconfiguration | Medium | — | 4 | [shirshak](https://hackerone.com/shirshak) | 2022-04-20 |
+| 527 | [245485](../reports/245485.md) | CRLF Injection on ███████ | Medium | — | 4 | [twicedi](https://hackerone.com/twicedi) | 2019-12-02 |
+| 528 | [214798](../reports/214798.md) | SQL injection on https://███████ | Medium | — | 4 | [daveysec](https://hackerone.com/daveysec) | 2019-12-02 |
+| 529 | [1020472](../reports/1020472.md) | System Error Reveals Sensitive SQL Call Data | Medium | — | 4 | [5050thepiguy](https://hackerone.com/5050thepiguy) | 2021-01-12 |
+| 530 | [242882](../reports/242882.md) | Blind SQL Injection on DoD Site | Medium | — | 4 | [mr_r3boot](https://hackerone.com/mr_r3boot) | 2019-12-02 |
+| 531 | [195356](../reports/195356.md) | HTML Injection/Load Images vulnerability on a DoD website | Medium | — | 4 | [jon_bottarini](https://hackerone.com/jon_bottarini) | 2017-03-16 |
+| 532 | [1278891](../reports/1278891.md) | [CVE-2021-29156] LDAP Injection at https://██████ | Medium | — | 4 | [whoisbinit](https://hackerone.com/whoisbinit) | 2021-08-26 |
+| 533 | [227587](../reports/227587.md) | SQL Injection vulnerability in a DoD website | Medium | — | 4 | [tcpiplab](https://hackerone.com/tcpiplab) | 2017-08-15 |
+| 534 | [188929](../reports/188929.md) | Time Based SQL Injection vulnerability on a DoD website | Medium | — | 4 | [korprit](https://hackerone.com/korprit) | 2017-06-16 |
+| 535 | [787179](../reports/787179.md) | Application level DoS via xmlrpc.php  | Medium | — | 4 | [mohammedadam24](https://hackerone.com/mohammedadam24) | 2020-05-14 |
+| 536 | [809212](../reports/809212.md) | No ACL on S3 Bucket in [https://www.██████████/] | Medium | — | 4 | [0xsnowmn](https://hackerone.com/0xsnowmn) | 2020-05-14 |
+| 537 | [3269780](../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | Medium | — | 4 | [jonasdiasrebelo](https://hackerone.com/jonasdiasrebelo) | 2026-01-12 |
+| 538 | [377264](../reports/377264.md) | █████ - DOM-based XSS | Medium | — | 4 | [yumi](https://hackerone.com/yumi) | 2019-12-02 |
+| 539 | [1606068](../reports/1606068.md) | XSS DUE TO CVE-2020-3580 | Medium | — | 4 | [cruxn3t](https://hackerone.com/cruxn3t) | 2022-09-06 |
+| 540 | [1200770](../reports/1200770.md) | XSS trigger via HTML Iframe injection in ( https://█████████ | Medium | — | 4 | [basant0x01](https://hackerone.com/basant0x01) | 2022-02-14 |
+| 541 | [1033253](../reports/1033253.md) | Reflected Xss in [██████] | Medium | — | 3 | [medblgsec](https://hackerone.com/medblgsec) | 2022-09-06 |
+| 542 | [191831](../reports/191831.md) | Cross-site request forgery (CSRF) vulnerability on a DoD web | Medium | — | 3 | [korprit](https://hackerone.com/korprit) | 2017-06-16 |
+| 543 | [1627616](../reports/1627616.md) | RXSS on █████████ | Medium | — | 3 | [tmz900](https://hackerone.com/tmz900) | 2022-09-06 |
+| 544 | [184200](../reports/184200.md) | Reflected XSS on a DoD website | Medium | — | 3 | [korprit](https://hackerone.com/korprit) | 2017-06-01 |
+| 545 | [1272095](../reports/1272095.md) | System Error Reveals  SQL Information | Medium | — | 3 | [miguel_santareno](https://hackerone.com/miguel_santareno) | 2021-09-09 |
+| 546 | [715740](../reports/715740.md) | [HTA2] Receiving████ access request on @wearehackerone.com e | Medium — CVSS 4.3 | — | 3 | [jr0ch17](https://hackerone.com/jr0ch17) | 2022-10-14 |
+| 547 | [1252059](../reports/1252059.md) | XSS on https://██████/███ via █████ parameter | Medium | — | 3 | [homosec](https://hackerone.com/homosec) | 2022-04-07 |
+| 548 | [226211](../reports/226211.md) | SQL Injection vulnerability in a DoD website | Medium | — | 3 | [amsda](https://hackerone.com/amsda) | 2017-08-15 |
+| 549 | [686595](../reports/686595.md) | Improper Neutralization of Input During Web Page Generation | Medium | — | 3 | [null_rhythm](https://hackerone.com/null_rhythm) | 2020-05-14 |
+| 550 | [900137](../reports/900137.md) | PII Leak (such as CAC User ID) at https://████████/pages/log | Medium | — | 3 | [5050thepiguy](https://hackerone.com/5050thepiguy) | 2020-11-02 |
+| 551 | [1457444](../reports/1457444.md) | Reflected XSS at https://██████/██████ via "██████" paramete | Medium | — | 3 | [pelegn](https://hackerone.com/pelegn) | 2022-02-14 |
+| 552 | [1067004](../reports/1067004.md) | Sensitive data exposure via https://███████/secure/QueryComp | Medium | — | 3 | [ba56adcb299ff13a87475bf](https://hackerone.com/ba56adcb299ff13a87475bf) | 2021-01-12 |
+| 553 | [204048](../reports/204048.md) | Illegal account registration in ████████ | Medium | — | 3 | [bfe3fdb1088411d8ef018aa3abde8](https://hackerone.com/bfe3fdb1088411d8ef018aa3abde8) | 2019-12-02 |
+| 554 | [235216](../reports/235216.md) | Exposed FTP Credentials on ███████ | Medium | — | 3 | [z3t](https://hackerone.com/z3t) | 2019-12-02 |
+| 555 | [235041](../reports/235041.md) | Sensitive Email disclosure Due to Insecure  Reactivate Accou | Medium | — | 3 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2019-12-02 |
+| 556 | [1631471](../reports/1631471.md) | an internel important  paths  disclosure  [HtUS] | Medium — CVSS 5.3 | — | 2 | [ahmed0x0mahmoud](https://hackerone.com/ahmed0x0mahmoud) | 2022-09-14 |
+| 557 | [197754](../reports/197754.md) | SQL Injection vulnerability in a DoD website | Medium | — | 2 | [hassaan](https://hackerone.com/hassaan) | 2017-08-15 |
+| 558 | [1736432](../reports/1736432.md) | Reflected XSS | https://████ | Medium | — | 2 | [x3ph_](https://hackerone.com/x3ph_) | 2022-11-18 |
+| 559 | [423118](../reports/423118.md) | Unencrypted __VIEWSTATE parameter in a DoD website | Medium | — | 2 | [miguel_santareno](https://hackerone.com/miguel_santareno) | 2020-05-14 |
+| 560 | [1300589](../reports/1300589.md) | Sensitive information on ██████████ | Medium | — | 2 | [3mm3](https://hackerone.com/3mm3) | 2021-08-26 |
+| 561 | [1260823](../reports/1260823.md) | Reflected XSS - https://███ | Medium | — | 2 | [fiveguyslover](https://hackerone.com/fiveguyslover) | 2021-07-29 |
+| 562 | [1278050](../reports/1278050.md) | [CVE-2021-29156 on ForgeRock OpenAm] LDAP Injection in Webfi | Medium | — | 2 | [whoisbinit](https://hackerone.com/whoisbinit) | 2021-08-19 |
+| 563 | [1003455](../reports/1003455.md) | Access to Unclassified / FOUO Advanced Motion Platform of ██ | Medium | — | 2 | [kaulse](https://hackerone.com/kaulse) | 2020-11-02 |
+| 564 | [984654](../reports/984654.md) | RXSS Via URI Path - https://██████████/ | Medium | — | 2 | [0xelkomy](https://hackerone.com/0xelkomy) | 2021-10-18 |
+| 565 | [223936](../reports/223936.md) | Multiple cryptographic vulnerabilities in login page on ████ | Medium | — | 2 | [tcpiplab](https://hackerone.com/tcpiplab) | 2019-12-02 |
+| 566 | [1305477](../reports/1305477.md) | XSS because of Akamai ARL misconfiguration on ████ | Medium | — | 2 | [pirneci](https://hackerone.com/pirneci) | 2022-03-18 |
+| 567 | [1244145](../reports/1244145.md) | RXSS ON https://██████████ | Medium | — | 1 | [iam_a_jinchuriki](https://hackerone.com/iam_a_jinchuriki) | 2022-02-14 |
+| 568 | [205360](../reports/205360.md) | Content-Injection/XSS ████ | Medium | — | 1 | [c0rte](https://hackerone.com/c0rte) | 2019-12-02 |
+| 569 | [988550](../reports/988550.md) | Sensitive data exposure via https://████████.mil/secure/Quer | Medium | — | 1 | [r4d1kal](https://hackerone.com/r4d1kal) | 2020-10-16 |
+| 570 | [674838](../reports/674838.md) | SQL Injection - https://███/█████████/MSI.portal | Medium | — | 1 | [arkaic](https://hackerone.com/arkaic) | 2020-05-14 |
+| 571 | [1252020](../reports/1252020.md) | XSS on https://████████/████' parameter | Medium | — | 1 | [homosec](https://hackerone.com/homosec) | 2022-04-07 |
+| 572 | [1103033](../reports/1103033.md) | Reflected XSS on https://█████ | Medium | — | 1 | [ibring](https://hackerone.com/ibring) | 2021-03-11 |
+| 573 | [799839](../reports/799839.md) | Reflected XSS - in Email Input | Medium | — | 1 | [ahmd_halabi](https://hackerone.com/ahmd_halabi) | 2022-03-18 |
+| 574 | [1143783](../reports/1143783.md) | xss reflected on https://███████- (███ parameters) | Medium | — | 1 | [fiveguyslover](https://hackerone.com/fiveguyslover) | 2021-07-29 |
+| 575 | [227102](../reports/227102.md) | Two Error-Based SQLi in courses.aspx on ██████████ | Medium | — | 0 | [tcpiplab](https://hackerone.com/tcpiplab) | 2019-12-02 |
+| 576 | [2061982](../reports/2061982.md) | Create account without auth via response manipulation  | Low | — | 38 | [exec_iq](https://hackerone.com/exec_iq) | 2026-01-12 |
+| 577 | [3027405](../reports/3027405.md) | Information Disclosure in API Endpoint /users | Low | — | 27 | [moha1sd](https://hackerone.com/moha1sd) | 2026-01-12 |
+| 578 | [2554003](../reports/2554003.md) | HTML Injection into https://www.██████.mil | Low | — | 16 | [thpless](https://hackerone.com/thpless) | 2024-07-19 |
+| 579 | [3318295](../reports/3318295.md) | Information Disclosure via Publicly Accessible Debug Log | Low | — | 14 | [xgoon](https://hackerone.com/xgoon) | 2026-01-12 |
+| 580 | [3346375](../reports/3346375.md) | Publicly Accessible CDN Endpoint Exposing XML Metadata (incl | Low | — | 12 | [l0rdv0ld3m0r7](https://hackerone.com/l0rdv0ld3m0r7) | 2026-01-12 |
+| 581 | [184042](../reports/184042.md) | Reflected cross-site scripting vulnerability on a DoD websit | Low | — | 11 | [kjashwanth13](https://hackerone.com/kjashwanth13) | 2017-04-07 |
+| 582 | [183871](../reports/183871.md) | Reflected XSS on a DoD website | Low | — | 9 | [juliocesar](https://hackerone.com/juliocesar) | 2017-02-16 |
+| 583 | [3066992](../reports/3066992.md) | Debug Info disclose  | Low | — | 9 | [saqib98](https://hackerone.com/saqib98) | 2026-01-12 |
+| 584 | [184759](../reports/184759.md) | XSS on a DoD website | Low | — | 8 | [ramsexy](https://hackerone.com/ramsexy) | 2017-04-27 |
+| 585 | [188691](../reports/188691.md) | Reflected XSS in a Navy website | Low | — | 8 | [juliocesar](https://hackerone.com/juliocesar) | 2017-01-06 |
+| 586 | [184750](../reports/184750.md) | Reflected XSS on a DoD website | Low | — | 8 | [ramsexy](https://hackerone.com/ramsexy) | 2017-06-01 |
+| 587 | [225936](../reports/225936.md) | Cross-site scripting (XSS) vulnerability on a DoD website | Low | — | 8 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-08-15 |
+| 588 | [203311](../reports/203311.md) | Bypass file access control vulnerability on a DoD website | Low | — | 8 | [generaleg](https://hackerone.com/generaleg) | 2017-04-07 |
+| 589 | [289846](../reports/289846.md) | X-XSS-Protection -> Misconfiguration | Low | — | 7 | [bb343cc5cbd74210c09dafe](https://hackerone.com/bb343cc5cbd74210c09dafe) | 2017-12-15 |
+| 590 | [188124](../reports/188124.md) | Violation of secure design principles on a DoD website | Low | — | 7 | [spam404](https://hackerone.com/spam404) | 2017-07-05 |
+| 591 | [184076](../reports/184076.md) | Information disclosure on a DoD website | Low | — | 7 | [tsug0d](https://hackerone.com/tsug0d) | 2017-07-03 |
+| 592 | [183835](../reports/183835.md) | Reflected XSS vulnerability on a DoD website | Low | — | 7 | [yaworsk](https://hackerone.com/yaworsk) | 2017-03-16 |
+| 593 | [189149](../reports/189149.md) | QuickTime Promotion on a DoD website | Low | — | 7 | [spam404](https://hackerone.com/spam404) | 2017-02-15 |
+| 594 | [217108](../reports/217108.md) | Reflected XSS in a DoD Website | Low | — | 6 | [shogunlab](https://hackerone.com/shogunlab) | 2017-06-14 |
+| 595 | [191902](../reports/191902.md) | HTML injection vulnerability on a DoD website | Low | — | 6 | [kunal_khubchandani](https://hackerone.com/kunal_khubchandani) | 2017-04-27 |
+| 596 | [195638](../reports/195638.md) | Information disclosure vulnerability on a DoD website | Low | — | 5 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-06-16 |
+| 597 | [187822](../reports/187822.md) | Reflected XSS vulnerability on a DoD website | Low | — | 5 | [korprit](https://hackerone.com/korprit) | 2017-06-16 |
+| 598 | [196482](../reports/196482.md) | Information disclosure vulnerability on a DoD website | Low | — | 5 | [joshualaurencio](https://hackerone.com/joshualaurencio) | 2017-04-27 |
+| 599 | [187006](../reports/187006.md) | Open Redirect in a DoD website | Low | — | 5 | [adrianomarcmont](https://hackerone.com/adrianomarcmont) | 2017-02-14 |
+| 600 | [195636](../reports/195636.md) | Information disclosure vulnerability on a DoD website | Low | — | 5 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-06-16 |
+| 601 | [191381](../reports/191381.md) | Reflected cross-site scripting (XSS) vulnerability on a DoD  | Low | — | 5 | [ahsan](https://hackerone.com/ahsan) | 2017-06-23 |
+| 602 | [197055](../reports/197055.md) | Information disclosure vulnerability on a DoD website | Low | — | 5 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-06-16 |
+| 603 | [183854](../reports/183854.md) | Reflective XSS vulnerability on a DoD website | Low | — | 4 | [fantam1](https://hackerone.com/fantam1) | 2017-06-23 |
+| 604 | [197907](../reports/197907.md) | Misconfigured user account settings on DoD website | Low | — | 4 | [mantis](https://hackerone.com/mantis) | 2017-03-16 |
+| 605 | [184575](../reports/184575.md) | Cross-site scripting vulnerability on a DoD website | Low | — | 4 | [r0p3](https://hackerone.com/r0p3) | 2017-03-16 |
+| 606 | [191830](../reports/191830.md) | Server side information disclosure on a DoD website | Low | — | 4 | [samhax](https://hackerone.com/samhax) | 2017-06-01 |
+| 607 | [194294](../reports/194294.md) | Reflected XSS on a DoD website | Low | — | 4 | [amsda](https://hackerone.com/amsda) | 2017-05-31 |
+| 608 | [184125](../reports/184125.md) | Reflected XSS vulnerability on a DoD website | Low | — | 4 | [r0p3](https://hackerone.com/r0p3) | 2017-06-23 |
+| 609 | [186308](../reports/186308.md) | Information disclosure vulnerability in a DoD website | Low | — | 4 | [r0p3](https://hackerone.com/r0p3) | 2017-06-23 |
+| 610 | [189241](../reports/189241.md) | Reflected XSS on a DoD website | Low | — | 4 | [juliocesar](https://hackerone.com/juliocesar) | 2017-06-01 |
+| 611 | [186315](../reports/186315.md) | Cross-site scripting (XSS) vulnerability on a DoD website | Low | — | 4 | [r0p3](https://hackerone.com/r0p3) | 2017-03-16 |
+| 612 | [190427](../reports/190427.md) | Reflected XSS on a DoD website | Low | — | 4 | [juliocesar](https://hackerone.com/juliocesar) | 2017-06-16 |
+| 613 | [184901](../reports/184901.md) | Stored cross site scripting (XSS) vulnerability on a DoD web | Low | — | 4 | [ahsan](https://hackerone.com/ahsan) | 2017-06-23 |
+| 614 | [187232](../reports/187232.md) | Arbitrary Script Injection (Mail) in a DoD Website | Low | — | 4 | [ahsan](https://hackerone.com/ahsan) | 2017-03-16 |
+| 615 | [217747](../reports/217747.md) | Information disclosure vulnerability on a DoD website | Low | — | 4 | [tcpiplab](https://hackerone.com/tcpiplab) | 2017-06-23 |
+| 616 | [198259](../reports/198259.md) | Reflected XSS vulnerability on a DoD website | Low | — | 3 | [mantis](https://hackerone.com/mantis) | 2017-07-05 |
+| 617 | [219729](../reports/219729.md) | Reflected XSS on a DoD website | Low | — | 3 | [guifre](https://hackerone.com/guifre) | 2017-08-15 |
+| 618 | [203600](../reports/203600.md) | Remote code execution vulnerability on a DoD website | Low | — | 3 | [mantis](https://hackerone.com/mantis) | 2017-06-23 |
+| 619 | [191416](../reports/191416.md) | DOM Based XSS on a DoD website | Low | — | 3 | [juliocesar](https://hackerone.com/juliocesar) | 2017-06-16 |
+| 620 | [190205](../reports/190205.md) | Reflected XSS on a DoD website | Low | — | 3 | [juliocesar](https://hackerone.com/juliocesar) | 2017-06-16 |
+| 621 | [186307](../reports/186307.md) | Information disclosure vulnerability on a DoD website | Low | — | 3 | [clizsec](https://hackerone.com/clizsec) | 2017-04-27 |
+| 622 | [184558](../reports/184558.md) | Information disclosure vulnerability on a DoD website | Low | — | 3 | [0x01alka](https://hackerone.com/0x01alka) | 2017-07-05 |
+| 623 | [218136](../reports/218136.md) | Reflected XSS vulnerability on a DoD website | Low | — | 3 | [twicedi](https://hackerone.com/twicedi) | 2017-06-16 |
+| 624 | [192751](../reports/192751.md) | XSS vulnerability on a DoD website | Low | — | 3 | [swissky](https://hackerone.com/swissky) | 2017-03-16 |
+| 625 | [186317](../reports/186317.md) | Information disclosure on a DoD website | Low | — | 2 | [r0p3](https://hackerone.com/r0p3) | 2017-03-16 |
+| 626 | [208556](../reports/208556.md) | Cross-site scripting (XSS) vulnerability on a DoD website | Low | — | 1 | [guruprasadmullangi](https://hackerone.com/guruprasadmullangi) | 2017-08-15 |
+| 627 | [1687415](../reports/1687415.md) | IDOR when editing email leads to Mass Full ATOs (Account Tak | None | — | 17 | [696e746c6f6c](https://hackerone.com/696e746c6f6c) | 2023-01-06 |
+| 628 | [2509402](../reports/2509402.md) | Out-Of-Bounds Memory Read on ███ | None | — | 7 | [maskedpersian](https://hackerone.com/maskedpersian) | 2024-06-18 |
+| 629 | [186316](../reports/186316.md) | DNS Misconfiguration | None | — | 4 | [atik-rahman](https://hackerone.com/atik-rahman) | 2016-12-22 |
+| 630 | [213069](../reports/213069.md) | Remote Code Execution (RCE) in a DoD website | None | — | 3 | [daveysec](https://hackerone.com/daveysec) | 2017-05-31 |
+| 631 | [192577](../reports/192577.md) | Server side information disclosure | None | — | 3 | [samhax](https://hackerone.com/samhax) | 2017-01-06 |
+| 632 | [207236](../reports/207236.md) | Potentially sensitive information disclosure on a DoD websit | None | — | 3 | [scraps](https://hackerone.com/scraps) | 2017-03-16 |
+| 633 | [207781](../reports/207781.md) | Reflected XSS vulnerability in a DoD website  | None | — | 2 | [rashedhasan007](https://hackerone.com/rashedhasan007) | 2017-04-27 |
+| 634 | [202496](../reports/202496.md) | Stored XSS vulnerability on a DoD website | None | — | 2 | [rashedhasan007](https://hackerone.com/rashedhasan007) | 2017-05-31 |

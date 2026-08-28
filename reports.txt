@@ -10015,3 +10015,7 @@ https://hackerone.com/reports/3963725 | wolfSSL backend disables hostname verifi
 https://hackerone.com/reports/3966955 | TLS session cache case-folds CA paths and bypasses the active trust profile
 https://hackerone.com/reports/3968431 | ARG_CLEAR credential scrubbing wipes only UTF-8 copies on Windows Unicode builds
 https://hackerone.com/reports/3968729 | Unbound cross-peer HTTP Digest challenge state
+https://hackerone.com/reports/3970639 | --etag-save - truncates append-redirected stdout
+https://hackerone.com/reports/3970650 | Stacked --proto modifiers leave denied protocol enabled
+https://hackerone.com/reports/3971496 | 28: HTTP/3 UDP path ignores CURL_SOCKOPT_ALREADY_CONNECTED, reconnects callback-provided socket
+https://hackerone.com/reports/3972196 | 34: `curl_mprintf` reads `double` for documented `long double` conversions — uninitialized value disclosure
