@@ -8717,8 +8717,13 @@ https://hackerone.com/reports/2090964 | RXSS in hidden parameter
 https://hackerone.com/reports/2091137 | OpenSSL engines can be used to bypass and/or disable the Node.js permission model
 https://hackerone.com/reports/2092749 | Bypass network import restriction via data URL
 https://hackerone.com/reports/2092852 | Permission model improperly protects against path traversal
+https://hackerone.com/reports/2094056 | RCE and DoS in Cosmovisor
 https://hackerone.com/reports/2094235 | Integrity checks according to policies can be circumvented
+https://hackerone.com/reports/2094346 | Yet Another CASB Integration Takeover of Active Integrations
+https://hackerone.com/reports/2094473 | Password of talk conversations can be bruteforced
 https://hackerone.com/reports/2094785 |  Cargo not respecting umask when extracting crate archives
+https://hackerone.com/reports/2095061 | Jitsi: Bridge Message Spoofing due to Improper JSON Handling leads to Prototype Pollution
+https://hackerone.com/reports/2096271 | Staff and Triage can modify the initial post of a report, including of already disclosed reports
 https://hackerone.com/reports/2097377 | Information Disclosure - Pvt Gitlab Issue Disclosing Through GitLab Unfiltered YouTube channel.
 https://hackerone.com/reports/2097517 | Waketime Payment Gateway Vulnerability
 https://hackerone.com/reports/2101076 | HackerOne SAML signup domain enforcement bypass results in unauthorized access to HackerOne PullRequest organization
