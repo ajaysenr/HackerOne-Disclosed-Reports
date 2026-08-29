@@ -9701,6 +9701,7 @@ https://hackerone.com/reports/3559715 | Node.js Permission Model bypass: UDS ser
 https://hackerone.com/reports/3560256 | Cross-repository IDOR in `/settings/security_analysis/bypass_reviewers` allows unauthorized delegated bypass reviewer modification
 https://hackerone.com/reports/3560402 | Denial of Service via `__proto__` header name in `req.headersDistinct` (Uncaught `TypeError` crashes Node.js process)
 https://hackerone.com/reports/3564655 | Complete authentication bypass to admin permissions
+https://hackerone.com/reports/3564941 | HTTP Request Smuggling via Silent Header Truncation in Node.js HTTP Parser
 https://hackerone.com/reports/3572848 | Group restriction bypass via bearer token in user_oidc (SETTING_RESTRICT_LOGIN_TO_GROUPS not enforced in Backend::getCurrentUserId)
 https://hackerone.com/reports/3574928 | Able to bypass HSTS using trailing dot
 https://hackerone.com/reports/3575245 | Integer Overflow in curl_multi_get_handles() Leading to Heap Buffer Overflow
@@ -9969,6 +9970,8 @@ https://hackerone.com/reports/3793243 | Reflected XSS in stats‑video.php via i
 https://hackerone.com/reports/3793260 | CVE-2026-11856: cross-origin Digest auth state leak
 https://hackerone.com/reports/3793495 | Incomplete Suppression of  Transfer-Encoding: chunked Header in HTTP/2 After Redirect From HTTP/1.1
 https://hackerone.com/reports/3795615 | Duplicate chunked Transfer-Encoding lets a malicious origin smuggle a response across reused HTTP proxy connections
+https://hackerone.com/reports/3795657 | dns.resolveAny() Aborts the Node.js Process When a DNS Response Contains More Than 256 A Records
+https://hackerone.com/reports/3795900 | node:sqlite SQLTagStore Iterator Replay Lets Attacker Re-Execute Victim-Bound Writes Indefinitely
 https://hackerone.com/reports/3797526 | CVE-2026-12064: proto-default skips SSH verification
 https://hackerone.com/reports/3799010 | TaskProcessing callback authorization bypass allows ex-members to post as Assistant Talk Bot
 https://hackerone.com/reports/3800870 | connect.8x8.com/api/v1: JWT Algorithm Confusion Vulnerability
@@ -9995,21 +9998,27 @@ https://hackerone.com/reports/3831345 | CURLSHOPT_UNSHARE race can cause UAF in 
 https://hackerone.com/reports/3831432 | setopt(VERIFYPEER) from callback bypasses TLS verify on connection reuse
 https://hackerone.com/reports/3832393 | libcurl upload read callbacks miss recursive API guard, allowing prohibited multi API reentry and ASAN-confirmed UAF
 https://hackerone.com/reports/3833577 | heap-use-after-free in curl_easy_cleanup() called from callback
+https://hackerone.com/reports/3833629 | Re-entrant `nghttp2_session_mem_send()` during `nghttp2_session_mem_recv()` causes heap-use-after-free in Node.js HTTP/2
 https://hackerone.com/reports/3837634 | JaaS SIP Gateway Authorization Bypass
 https://hackerone.com/reports/3838601 | Permission Model Bypass: `trace_events.createTracing().enable()` Writes Trace Logs Outside `--allow-fs-write`
 https://hackerone.com/reports/3839889 | 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory
 https://hackerone.com/reports/3839914 | Unauthenticated Plugin Settings Modification on Three Crocoblock/Jet Plugins
+https://hackerone.com/reports/3846922 | HTTP/2 retained header blocks evade maxSessionMemory and enable remote memory exhaustion
 https://hackerone.com/reports/3852135 | DDP methods getThreadsList / getThreadMessages leaks private thread content to any authenticated low privilege user (unpatched sibling of #1446767)
+https://hackerone.com/reports/3857258 | Reachable assertion in node:zlib sync API crashes the entire process via spoofed TypedArray byteLength (all 11 *Sync functions affected)
 https://hackerone.com/reports/3872858 | Stored HTML Injection (CWE-79) via Livechat Visitor Name
 https://hackerone.com/reports/3873072 | Unauthenticated SQL Injection via REST Batch Route Confusion ████████
 https://hackerone.com/reports/3878586 | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, hide_from_lists) and uses frozen visibility, exposing donat
 https://hackerone.com/reports/3889473 | @jitsi/docker-jitsi-meet: `/colibri-relay-ws/` unsafe nginx regex (OCTO relay configuration)
+https://hackerone.com/reports/3909372 | Unauthorized vertical privilege escalation vulnerability found on ibm.com endpoint
 https://hackerone.com/reports/3911605 | SMTP CRLF injection in custom SMTP recipient operand allows additional SMTP commands after authentication
 https://hackerone.com/reports/3911968 | Heap use-after-free (write) in mev_forget_socket() via reentrant curl_easy_pause() — incomplete fix for CVE-2026-9080
 https://hackerone.com/reports/3917775 | curl Missing Sec-WebSocket-Accept Verification Enables MITM WebSocket Session Hijacking
 https://hackerone.com/reports/3920276 | Cookie jar load skips public suffix check on PSL builds
 https://hackerone.com/reports/3923212 | URL API: triple-slash parses path segment as hostname
 https://hackerone.com/reports/3930957 | Myndr CORS Misconfiguration
+https://hackerone.com/reports/3931771 | Author → stored XSS in wp-admin: unescaped sub-size filename from attachment metadata breaks out of the `src` attribute in `get_media_item()`
+https://hackerone.com/reports/3931777 | Author → arbitrary file deletion anywhere on disk (site takeover) via `POST /wp/v2/media/<id>/finalize` poisoning `_wp_attachment_metadata`
 https://hackerone.com/reports/3938185 | Windows SSPI connection-pool probe can reuse a connection under the wrong user
 https://hackerone.com/reports/3938220 | libcurl cache updates follow symlinks and truncate their targets
 https://hackerone.com/reports/3952619 | Domainless COOKIEFILE cookie leaks to unrelated IP-literal hosts
@@ -10024,3 +10033,4 @@ https://hackerone.com/reports/3970639 | --etag-save - truncates append-redirecte
 https://hackerone.com/reports/3970650 | Stacked --proto modifiers leave denied protocol enabled
 https://hackerone.com/reports/3971496 | 28: HTTP/3 UDP path ignores CURL_SOCKOPT_ALREADY_CONNECTED, reconnects callback-provided socket
 https://hackerone.com/reports/3972196 | 34: `curl_mprintf` reads `double` for documented `long double` conversions — uninitialized value disclosure
+https://hackerone.com/reports/3972316 | 46: `--libcurl` output carries `--insecure` across `--next` boundaries

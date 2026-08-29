@@ -1,4 +1,4 @@
-# Weakness: Improper Restriction of Authentication Attempts (63 reports)
+# Weakness: Improper Restriction of Authentication Attempts (64 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -33,37 +33,38 @@
 | 27 | [708013](../reports/708013.md) | StoreFront API allows for a brute force attack on customer login  | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.8 | — | 37 |
 | 28 | [2230915](../reports/2230915.md) | Bruteforce protection in password verification can be bypassed | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 31 |
 | 29 | [441161](../reports/441161.md) | Missing Rate Limit in Forgot Password can Lead to email address l | [Smule](../by-program/smule.md) | Medium | — | 31 |
-| 30 | [3174778](../reports/3174778.md) |  No Rate Limiting on Password Attempts After Insecure Registratio | [Mars](../by-program/mars.md) | Medium | — | 26 |
-| 31 | [1842114](../reports/1842114.md) | Missing brute force protection on password confirmation modal | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.2 | — | 24 |
-| 32 | [1924212](../reports/1924212.md) | Improper restriction of excessive authentication attempts on WebD | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.0 | — | 22 |
-| 33 | [342977](../reports/342977.md) | brute force attack allowed on admin page https://www.stellar.org/ | [Stellar.org](../by-program/stellar.md) | Medium | — | 16 |
-| 34 | [1024880](../reports/1024880.md) | SSL expired subdomain leads to API swap with main and flagged coo | [Basecamp](../by-program/basecamp.md) | Medium | — | 15 |
-| 35 | [1466967](../reports/1466967.md) | Brute force attack of current password on  login page by bypassin | [Omise](../by-program/omise.md) | Medium | — | 14 |
-| 36 | [1170522](../reports/1170522.md) | Missing rate limit in current password change settings leads to A | [Reddit](../by-program/reddit.md) | Medium | — | 12 |
-| 37 | [319036](../reports/319036.md) | There is vulnebility Click Here TO fix | [Brave Software](../by-program/brave.md) | Medium — CVSS 6.8 | — | 8 |
-| 38 | [223337](../reports/223337.md) | No BruteForce Protection | [Weblate](../by-program/weblate.md) | Medium — CVSS 6.5 | — | 7 |
-| 39 | [233376](../reports/233376.md) | mailbomb through invite feature on chrome addon | [Mixmax](../by-program/mixmax.md) | Medium | — | 6 |
-| 40 | [1285441](../reports/1285441.md) | Rate limit missing sign-in page | [Tennessee Valley Authority](../by-program/tennessee-valley-authority.md) | Medium | — | 5 |
-| 41 | [1317494](../reports/1317494.md) | No Rate Limit on forgot password page | [UPchieve](../by-program/upchieve.md) | Medium | — | 5 |
-| 42 | [1954711](../reports/1954711.md) | user_oidc app is missing bruteforce protection | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.5 | — | 4 |
-| 43 | [1591504](../reports/1591504.md) | The software does not implement sufficient measures to prevent mu | [LinkedIn](../by-program/linkedin.md) | Medium | — | 2 |
-| 44 | [410451](../reports/410451.md) | User login page doesn't implement any form of rate limiting | [HackerOne](../by-program/security.md) | Low — CVSS 3.0 | — | 42 |
-| 45 | [1065186](../reports/1065186.md) | Weak rate limit could lead to ATO due to weak password protection | [Reddit](../by-program/reddit.md) | Low | — | 39 |
-| 46 | [1040471](../reports/1040471.md) | Login page vulnerable to bruteforce attacks via rate limiting byp | [Khan Academy](../by-program/khanacademy.md) | Low | — | 32 |
-| 47 | [1154003](../reports/1154003.md) | Ratelimiting can be bypassed using IPv6 subnets | [Nextcloud](../by-program/nextcloud.md) | Low | — | 23 |
-| 48 | [948146](../reports/948146.md) | Rate limiting on report video | [TikTok](../by-program/tiktok.md) | Low | — | 22 |
-| 49 | [1797661](../reports/1797661.md) | Uninstalling Mattermost Launcher for Windows (64-bit), then reins | [Mattermost](../by-program/mattermost.md) | Low | — | 20 |
-| 50 | [1165225](../reports/1165225.md) | [dubsmash] Username and password bruteforce | [Reddit](../by-program/reddit.md) | Low — CVSS 3.9 | — | 18 |
-| 51 | [1894653](../reports/1894653.md) | Missing brute force protection for passwords of password protecte | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.1 | — | 17 |
-| 52 | [2039447](../reports/2039447.md) | Entering passwords on the Share Login Page can lead to a brute-fo | [Automattic](../by-program/automattic.md) | Low | — | 15 |
-| 53 | [412526](../reports/412526.md) | No rate limit in stats api token endpoint | [Chaturbate](../by-program/chaturbate.md) | Low | — | 15 |
-| 54 | [413505](../reports/413505.md) | No rate limit in affiliate statsapi endpoint | [Chaturbate](../by-program/chaturbate.md) | Low | — | 14 |
-| 55 | [229825](../reports/229825.md) | Rate Limit Issue on hosted.weblate.org | [Weblate](../by-program/weblate.md) | Low | — | 10 |
-| 56 | [1165285](../reports/1165285.md) | No Rate limit on change password leads to account takeover | [Reddit](../by-program/reddit.md) | Low | — | 8 |
-| 57 | [517711](../reports/517711.md) | Bypassing the SMS sending limit for download app link. | [Eternal](../by-program/eternal.md) | Low | — | 7 |
-| 58 | [897556](../reports/897556.md) | SSH port on store.greenhouse.io is vulnerable to brute force atta | [Greenhouse.io](../by-program/greenhouse.md) | Low | — | 7 |
-| 59 | [269318](../reports/269318.md) | Bypass of Rate limiting in secure_session endpoint's password inp | [Moneybird](../by-program/moneybird.md) | None | — | 18 |
-| 60 | [265706](../reports/265706.md) | [rt.torproject.org] No Rate Limitting on Login Form | [Tor](../by-program/torproject.md) | None | — | 9 |
-| 61 | [1238749](../reports/1238749.md) | No rate Limit on Add new Translation Project  | [Weblate](../by-program/weblate.md) | None | — | 8 |
-| 62 | [855304](../reports/855304.md) | No set limit to try to login in "https://auth.nextcloud.com/auth/ | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
-| 63 | [1065583](../reports/1065583.md) | Hackyholidays CTF writeup | [h1-ctf](../by-program/h1-ctf.md) | None | — | 2 |
+| 30 | [2094473](../reports/2094473.md) | Password of talk conversations can be bruteforced | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.0 | — | 27 |
+| 31 | [3174778](../reports/3174778.md) |  No Rate Limiting on Password Attempts After Insecure Registratio | [Mars](../by-program/mars.md) | Medium | — | 26 |
+| 32 | [1842114](../reports/1842114.md) | Missing brute force protection on password confirmation modal | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.2 | — | 24 |
+| 33 | [1924212](../reports/1924212.md) | Improper restriction of excessive authentication attempts on WebD | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.0 | — | 22 |
+| 34 | [342977](../reports/342977.md) | brute force attack allowed on admin page https://www.stellar.org/ | [Stellar.org](../by-program/stellar.md) | Medium | — | 16 |
+| 35 | [1024880](../reports/1024880.md) | SSL expired subdomain leads to API swap with main and flagged coo | [Basecamp](../by-program/basecamp.md) | Medium | — | 15 |
+| 36 | [1466967](../reports/1466967.md) | Brute force attack of current password on  login page by bypassin | [Omise](../by-program/omise.md) | Medium | — | 14 |
+| 37 | [1170522](../reports/1170522.md) | Missing rate limit in current password change settings leads to A | [Reddit](../by-program/reddit.md) | Medium | — | 12 |
+| 38 | [319036](../reports/319036.md) | There is vulnebility Click Here TO fix | [Brave Software](../by-program/brave.md) | Medium — CVSS 6.8 | — | 8 |
+| 39 | [223337](../reports/223337.md) | No BruteForce Protection | [Weblate](../by-program/weblate.md) | Medium — CVSS 6.5 | — | 7 |
+| 40 | [233376](../reports/233376.md) | mailbomb through invite feature on chrome addon | [Mixmax](../by-program/mixmax.md) | Medium | — | 6 |
+| 41 | [1285441](../reports/1285441.md) | Rate limit missing sign-in page | [Tennessee Valley Authority](../by-program/tennessee-valley-authority.md) | Medium | — | 5 |
+| 42 | [1317494](../reports/1317494.md) | No Rate Limit on forgot password page | [UPchieve](../by-program/upchieve.md) | Medium | — | 5 |
+| 43 | [1954711](../reports/1954711.md) | user_oidc app is missing bruteforce protection | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.5 | — | 4 |
+| 44 | [1591504](../reports/1591504.md) | The software does not implement sufficient measures to prevent mu | [LinkedIn](../by-program/linkedin.md) | Medium | — | 2 |
+| 45 | [410451](../reports/410451.md) | User login page doesn't implement any form of rate limiting | [HackerOne](../by-program/security.md) | Low — CVSS 3.0 | — | 42 |
+| 46 | [1065186](../reports/1065186.md) | Weak rate limit could lead to ATO due to weak password protection | [Reddit](../by-program/reddit.md) | Low | — | 39 |
+| 47 | [1040471](../reports/1040471.md) | Login page vulnerable to bruteforce attacks via rate limiting byp | [Khan Academy](../by-program/khanacademy.md) | Low | — | 32 |
+| 48 | [1154003](../reports/1154003.md) | Ratelimiting can be bypassed using IPv6 subnets | [Nextcloud](../by-program/nextcloud.md) | Low | — | 23 |
+| 49 | [948146](../reports/948146.md) | Rate limiting on report video | [TikTok](../by-program/tiktok.md) | Low | — | 22 |
+| 50 | [1797661](../reports/1797661.md) | Uninstalling Mattermost Launcher for Windows (64-bit), then reins | [Mattermost](../by-program/mattermost.md) | Low | — | 20 |
+| 51 | [1165225](../reports/1165225.md) | [dubsmash] Username and password bruteforce | [Reddit](../by-program/reddit.md) | Low — CVSS 3.9 | — | 18 |
+| 52 | [1894653](../reports/1894653.md) | Missing brute force protection for passwords of password protecte | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.1 | — | 17 |
+| 53 | [2039447](../reports/2039447.md) | Entering passwords on the Share Login Page can lead to a brute-fo | [Automattic](../by-program/automattic.md) | Low | — | 15 |
+| 54 | [412526](../reports/412526.md) | No rate limit in stats api token endpoint | [Chaturbate](../by-program/chaturbate.md) | Low | — | 15 |
+| 55 | [413505](../reports/413505.md) | No rate limit in affiliate statsapi endpoint | [Chaturbate](../by-program/chaturbate.md) | Low | — | 14 |
+| 56 | [229825](../reports/229825.md) | Rate Limit Issue on hosted.weblate.org | [Weblate](../by-program/weblate.md) | Low | — | 10 |
+| 57 | [1165285](../reports/1165285.md) | No Rate limit on change password leads to account takeover | [Reddit](../by-program/reddit.md) | Low | — | 8 |
+| 58 | [517711](../reports/517711.md) | Bypassing the SMS sending limit for download app link. | [Eternal](../by-program/eternal.md) | Low | — | 7 |
+| 59 | [897556](../reports/897556.md) | SSH port on store.greenhouse.io is vulnerable to brute force atta | [Greenhouse.io](../by-program/greenhouse.md) | Low | — | 7 |
+| 60 | [269318](../reports/269318.md) | Bypass of Rate limiting in secure_session endpoint's password inp | [Moneybird](../by-program/moneybird.md) | None | — | 18 |
+| 61 | [265706](../reports/265706.md) | [rt.torproject.org] No Rate Limitting on Login Form | [Tor](../by-program/torproject.md) | None | — | 9 |
+| 62 | [1238749](../reports/1238749.md) | No rate Limit on Add new Translation Project  | [Weblate](../by-program/weblate.md) | None | — | 8 |
+| 63 | [855304](../reports/855304.md) | No set limit to try to login in "https://auth.nextcloud.com/auth/ | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
+| 64 | [1065583](../reports/1065583.md) | Hackyholidays CTF writeup | [h1-ctf](../by-program/h1-ctf.md) | None | — | 2 |

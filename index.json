@@ -159618,6 +159618,24 @@
     "votes": 9
   },
   {
+    "id": 2094056,
+    "url": "https://hackerone.com/reports/2094056",
+    "title": "RCE and DoS in Cosmovisor",
+    "program": "Cosmos",
+    "program_handle": "cosmos",
+    "reporter": "strikeout",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Code Injection",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-08-02",
+    "disclosed_at": "2023-10-10",
+    "votes": 28
+  },
+  {
     "id": 2094235,
     "url": "https://hackerone.com/reports/2094235",
     "title": "Integrity checks according to policies can be circumvented",
@@ -159638,6 +159656,44 @@
     "votes": 6
   },
   {
+    "id": 2094346,
+    "url": "https://hackerone.com/reports/2094346",
+    "title": "Yet Another CASB Integration Takeover of Active Integrations",
+    "program": "Cloudflare Public Bug Bounty",
+    "program_handle": "cloudflare",
+    "reporter": "matured_kazama",
+    "severity": "high",
+    "cvss": 8.4,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "OTHER",
+    "reported_at": "2023-08-03",
+    "disclosed_at": "2023-11-13",
+    "votes": 68
+  },
+  {
+    "id": 2094473,
+    "url": "https://hackerone.com/reports/2094473",
+    "title": "Password of talk conversations can be bruteforced",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "nickvergessen",
+    "severity": "medium",
+    "cvss": 5.0,
+    "weakness": "Improper Restriction of Authentication Attempts",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-45149"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-08-03",
+    "disclosed_at": "2023-11-12",
+    "votes": 27
+  },
+  {
     "id": 2094785,
     "url": "https://hackerone.com/reports/2094785",
     "title": " Cargo not respecting umask when extracting crate archives",
@@ -159656,6 +159712,42 @@
     "reported_at": "2023-08-03",
     "disclosed_at": "2023-08-15",
     "votes": 7
+  },
+  {
+    "id": 2095061,
+    "url": "https://hackerone.com/reports/2095061",
+    "title": "Jitsi: Bridge Message Spoofing due to Improper JSON Handling leads to Prototype Pollution",
+    "program": "8x8",
+    "program_handle": "8x8-bounty",
+    "reporter": "afewgoats",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Command Injection - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-08-03",
+    "disclosed_at": "2024-08-26",
+    "votes": 17
+  },
+  {
+    "id": 2096271,
+    "url": "https://hackerone.com/reports/2096271",
+    "title": "Staff and Triage can modify the initial post of a report, including of already disclosed reports",
+    "program": "HackerOne",
+    "program_handle": "security",
+    "reporter": "zerotea",
+    "severity": "medium",
+    "cvss": 6.7,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2023-08-04",
+    "disclosed_at": "2023-08-28",
+    "votes": 50
   },
   {
     "id": 2097377,
@@ -177787,6 +177879,26 @@
     "votes": 79
   },
   {
+    "id": 3564941,
+    "url": "https://hackerone.com/reports/3564941",
+    "title": "HTTP Request Smuggling via Silent Header Truncation in Node.js HTTP Parser",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "yushengchen",
+    "severity": "low",
+    "cvss": 3.7,
+    "weakness": "HTTP Request Smuggling",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-58044"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-02-20",
+    "disclosed_at": "2026-08-28",
+    "votes": 3
+  },
+  {
     "id": 3572848,
     "url": "https://hackerone.com/reports/3572848",
     "title": "Group restriction bypass via bearer token in user_oidc (SETTING_RESTRICT_LOGIN_TO_GROUPS not enforced in Backend::getCurrentUserId)",
@@ -182830,6 +182942,46 @@
     "votes": 3
   },
   {
+    "id": 3795657,
+    "url": "https://hackerone.com/reports/3795657",
+    "title": "dns.resolveAny() Aborts the Node.js Process When a DNS Response Contains More Than 256 A Records",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "cantina-security",
+    "severity": "medium",
+    "cvss": 5.9,
+    "weakness": "Uncontrolled Resource Consumption",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-58042"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-06-11",
+    "disclosed_at": "2026-08-28",
+    "votes": 6
+  },
+  {
+    "id": 3795900,
+    "url": "https://hackerone.com/reports/3795900",
+    "title": "node:sqlite SQLTagStore Iterator Replay Lets Attacker Re-Execute Victim-Bound Writes Indefinitely",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "cantina-security",
+    "severity": "medium",
+    "cvss": 5.3,
+    "weakness": "Time-of-check Time-of-use (TOCTOU) Race Condition",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-58041"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-06-11",
+    "disclosed_at": "2026-08-28",
+    "votes": 5
+  },
+  {
     "id": 3797526,
     "url": "https://hackerone.com/reports/3797526",
     "title": "CVE-2026-12064: proto-default skips SSH verification",
@@ -183313,6 +183465,26 @@
     "votes": 4
   },
   {
+    "id": 3833629,
+    "url": "https://hackerone.com/reports/3833629",
+    "title": "Re-entrant `nghttp2_session_mem_send()` during `nghttp2_session_mem_recv()` causes heap-use-after-free in Node.js HTTP/2",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "hahahkim",
+    "severity": "high",
+    "cvss": 7.5,
+    "weakness": "Use After Free",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-56848"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-06-30",
+    "disclosed_at": "2026-08-28",
+    "votes": 5
+  },
+  {
     "id": 3837634,
     "url": "https://hackerone.com/reports/3837634",
     "title": "JaaS SIP Gateway Authorization Bypass",
@@ -183387,6 +183559,26 @@
     "votes": 3
   },
   {
+    "id": 3846922,
+    "url": "https://hackerone.com/reports/3846922",
+    "title": "HTTP/2 retained header blocks evade maxSessionMemory and enable remote memory exhaustion",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "leduckhuong",
+    "severity": "high",
+    "cvss": 7.5,
+    "weakness": "Uncontrolled Resource Consumption",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-56846"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-07-06",
+    "disclosed_at": "2026-08-28",
+    "votes": 2
+  },
+  {
     "id": 3852135,
     "url": "https://hackerone.com/reports/3852135",
     "title": "DDP methods getThreadsList / getThreadMessages leaks private thread content to any authenticated low privilege user (unpatched sibling of #1446767)",
@@ -183403,6 +183595,26 @@
     "reported_at": "2026-07-09",
     "disclosed_at": "2026-08-20",
     "votes": 2
+  },
+  {
+    "id": 3857258,
+    "url": "https://hackerone.com/reports/3857258",
+    "title": "Reachable assertion in node:zlib sync API crashes the entire process via spoofed TypedArray byteLength (all 11 *Sync functions affected)",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "byvini",
+    "severity": "medium",
+    "cvss": 6.2,
+    "weakness": "Uncontrolled Resource Consumption",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-58045"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-07-11",
+    "disclosed_at": "2026-08-28",
+    "votes": 3
   },
   {
     "id": 3872858,
@@ -183475,6 +183687,24 @@
     "reported_at": "2026-07-25",
     "disclosed_at": "2026-08-25",
     "votes": 12
+  },
+  {
+    "id": 3909372,
+    "url": "https://hackerone.com/reports/3909372",
+    "title": "Unauthorized vertical privilege escalation vulnerability found on ibm.com endpoint",
+    "program": "IBM",
+    "program_handle": "ibm",
+    "reporter": "inventor0x01",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "OTHER",
+    "reported_at": "2026-08-02",
+    "disclosed_at": "2026-08-28",
+    "votes": 2
   },
   {
     "id": 3911605,
@@ -183585,6 +183815,24 @@
     "reported_at": "2026-08-11",
     "disclosed_at": "2026-08-12",
     "votes": 9
+  },
+  {
+    "id": 3931771,
+    "url": "https://hackerone.com/reports/3931771",
+    "title": "Author \u2192 stored XSS in wp-admin: unescaped sub-size filename from attachment metadata breaks out of the `src` attribute in `get_media_item()`",
+    "program": "WordPress",
+    "program_handle": "wordpress",
+    "reporter": "jakubk",
+    "severity": "critical",
+    "cvss": 9.0,
+    "weakness": "Cross-site Scripting (XSS) - Stored",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-11",
+    "disclosed_at": "2026-08-28",
+    "votes": 3
   },
   {
     "id": 3938185,
