@@ -8739,8 +8739,10 @@ https://hackerone.com/reports/2106708 | Bypass of #2035332 RXSS at image.hackero
 https://hackerone.com/reports/2106886 | subdomain takeover at █████████
 https://hackerone.com/reports/2107680 | AWS keys and user cookie leakage via uninitialized memory leak in outdated librsvg version in Basecamp
 https://hackerone.com/reports/2107934 | Admins can change authentication details of user configured external storage
+https://hackerone.com/reports/2108342 | Error when editing a calendar appointment returns stacktrace and query
 https://hackerone.com/reports/2109320 | Potential Spoofing Risk through Firefox Private Relay Service
 https://hackerone.com/reports/2109382 | Support Tickets can be created on behalf of other users using spoofed email | Bypass of #2001913
+https://hackerone.com/reports/2110030 | Race Condition Enables Bypassing Verification Check
 https://hackerone.com/reports/2111291 | Stored Xss on bugzilla.mozilla.org via comment edit feature from non-admin to admin.
 https://hackerone.com/reports/2112973 | Enabling Birthday Contact to any user
 https://hackerone.com/reports/2119892 | clickjacing can lead to account takeover
