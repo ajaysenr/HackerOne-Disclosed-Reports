@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1781 total)
+# High/Critical Severity — No Bounty Paid (1784 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -410,6 +410,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1164452](../reports/1164452.md) | Remote code execution due to unvalidated file upload | [MTN Group](../by-program/mtn_group.md) | Critical | Resolved | 12 |
 | [1839012](../reports/1839012.md) | Authentication Bypass Using Default Credentials on █████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 12 |
 | [1317236](../reports/1317236.md) | Unauthorized Kubernetes to RCE (root) and found TEAMTNT Crypto Mi | [IBM](../by-program/ibm.md) | Critical | Resolved | 12 |
+| [3931777](../reports/3931777.md) | Author → arbitrary file deletion anywhere on disk (site takeover) | [WordPress](../by-program/wordpress.md) | Critical — CVSS 9.9 | Resolved | 12 |
 | [683965](../reports/683965.md) | Unrestricted File Upload Leading to Remote Code Execution | [Central Security Project](../by-program/central-security-project.md) | Critical — CVSS 9.1 | Resolved | 12 |
 | [1626210](../reports/1626210.md) | Local file read at https://████/ [HtUS] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 12 |
 | [1744264](../reports/1744264.md) |  read and message other user's messages | [Reddit](../by-program/reddit.md) | Critical | Not Applicable | 12 |
@@ -968,6 +969,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [2037902](../reports/2037902.md) | Authentication bypass on JetPack SSO manager - Allows to access t | [Automattic](../by-program/automattic.md) | High | Resolved | 40 |
 | [293105](../reports/293105.md) | XSS в личных сообщениях | [ok.ru](../by-program/ok.md) | High | Resolved | 40 |
 | [530499](../reports/530499.md) | WooCommerce: Persistent XSS via customer address (state/county) | [Automattic](../by-program/automattic.md) | High | Resolved | 40 |
+| [2106886](../reports/2106886.md) | subdomain takeover at █████████ | [Mars](../by-program/mars.md) | High — CVSS 8.4 | Resolved | 40 |
 | [316789](../reports/316789.md) | Able to purchase a gift card with any amount | [Starbucks](../by-program/starbucks.md) | High — CVSS 8.3 | Resolved | 40 |
 | [1120982](../reports/1120982.md) | HTTP Request Smuggling  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 40 |
 | [958432](../reports/958432.md) | Corporate Jira credentials disclosed in public gist | [Azbuka Vkusa](../by-program/av.md) | High — CVSS 8.3 | Resolved | 40 |
@@ -1781,6 +1783,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1068880](../reports/1068880.md) | Writeup Submission | [h1-ctf](../by-program/h1-ctf.md) | High | Resolved | 1 |
 | [790873](../reports/790873.md) | [hangersteak] Web Server Directory Traversal via Crafted GET Requ | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | Resolved | 1 |
 | [509697](../reports/509697.md) | [md-fileserver] Path Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | Resolved | 1 |
+| [3869124](../reports/3869124.md) | **Unauthenticated IDOR allows modification of payment customer bi | [Weblate](../by-program/weblate.md) | High — CVSS 7.5 | Resolved | 1 |
 | [966347](../reports/966347.md) | [bl] Uninitialized memory exposure via negative .consume() | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.7 | Resolved | 1 |
 | [358005](../reports/358005.md) | Tor Browser: iframe with `data:` uri  has access to parent window | [Tor](../by-program/torproject.md) | High | Informative | 0 |
 | [1001218](../reports/1001218.md) | [@firebase/util] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | Resolved | 0 |

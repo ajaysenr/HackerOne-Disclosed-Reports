@@ -1,4 +1,4 @@
-# Weakness: Server-Side Request Forgery (SSRF) (176 reports)
+# Weakness: Server-Side Request Forgery (SSRF) (177 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -180,3 +180,4 @@
 | 174 | [1067443](../reports/1067443.md) | Screenshot Service leaks X-ABS-App-Token | [Shopify](../by-program/shopify.md) | None | — | 14 |
 | 175 | [213358](../reports/213358.md) | SSRF at apps.nextcloud.com/developer/apps/releases/new | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
 | 176 | [1004847](../reports/1004847.md) | SSRF Possible through /wordpress/xmlrpc.php | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 3 |
+| 177 | [3973228](../reports/3973228.md) | 50: CMake `HTTP_ONLY` does not disable SSH backends — SCP and SFT | [curl](../by-program/curl.md) | None | — | 2 |

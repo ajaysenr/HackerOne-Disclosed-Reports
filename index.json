@@ -159902,6 +159902,24 @@
     "votes": 2
   },
   {
+    "id": 2104591,
+    "url": "https://hackerone.com/reports/2104591",
+    "title": "Maintainer can leak sentry token by changing the configured URL (fix bypass)",
+    "program": "GitLab",
+    "program_handle": "gitlab",
+    "reporter": "70rpedo",
+    "severity": "medium",
+    "cvss": 5.5,
+    "weakness": "Information Disclosure",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2023-08-09",
+    "disclosed_at": "2024-10-08",
+    "votes": 32
+  },
+  {
     "id": 2105808,
     "url": "https://hackerone.com/reports/2105808",
     "title": "DOS of RSKJ server",
@@ -159954,6 +159972,24 @@
     "reported_at": "2023-08-11",
     "disclosed_at": "2023-08-22",
     "votes": 80
+  },
+  {
+    "id": 2106886,
+    "url": "https://hackerone.com/reports/2106886",
+    "title": "subdomain takeover at \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+    "program": "Mars",
+    "program_handle": "mars",
+    "reporter": "skoll101",
+    "severity": "high",
+    "cvss": 8.4,
+    "weakness": "Misconfiguration",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "WILDCARD",
+    "reported_at": "2023-08-11",
+    "disclosed_at": "2023-11-15",
+    "votes": 40
   },
   {
     "id": 2107680,
@@ -183617,6 +183653,24 @@
     "votes": 3
   },
   {
+    "id": 3869124,
+    "url": "https://hackerone.com/reports/3869124",
+    "title": "**Unauthenticated IDOR allows modification of payment customer billing information**",
+    "program": "Weblate",
+    "program_handle": "weblate",
+    "reporter": "visionx7",
+    "severity": "high",
+    "cvss": 7.5,
+    "weakness": "Insecure Direct Object Reference (IDOR)",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-07-16",
+    "disclosed_at": "2026-08-30",
+    "votes": 1
+  },
+  {
     "id": 3872858,
     "url": "https://hackerone.com/reports/3872858",
     "title": "Stored HTML Injection (CWE-79) via Livechat Visitor Name",
@@ -183833,6 +183887,26 @@
     "reported_at": "2026-08-11",
     "disclosed_at": "2026-08-28",
     "votes": 3
+  },
+  {
+    "id": 3931777,
+    "url": "https://hackerone.com/reports/3931777",
+    "title": "Author \u2192 arbitrary file deletion anywhere on disk (site takeover) via `POST /wp/v2/media/<id>/finalize` poisoning `_wp_attachment_metadata`",
+    "program": "WordPress",
+    "program_handle": "wordpress",
+    "reporter": "jakubk",
+    "severity": "critical",
+    "cvss": 9.9,
+    "weakness": "Path Traversal",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2018-12895"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-11",
+    "disclosed_at": "2026-08-28",
+    "votes": 12
   },
   {
     "id": 3938185,
@@ -184087,5 +184161,59 @@
     "reported_at": "2026-08-26",
     "disclosed_at": "2026-08-28",
     "votes": 0
+  },
+  {
+    "id": 3972316,
+    "url": "https://hackerone.com/reports/3972316",
+    "title": "46: `--libcurl` output carries `--insecure` across `--next` boundaries",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-26",
+    "disclosed_at": "2026-08-28",
+    "votes": 2
+  },
+  {
+    "id": 3973169,
+    "url": "https://hackerone.com/reports/3973169",
+    "title": "42: `VMS_STS` macro typo (`< 3` vs `<< 3`) turns curl failures into successful OpenVMS conditions",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Improper Check or Handling of Exceptional Conditions",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-27",
+    "disclosed_at": "2026-08-29",
+    "votes": 2
+  },
+  {
+    "id": 3973228,
+    "url": "https://hackerone.com/reports/3973228",
+    "title": "50: CMake `HTTP_ONLY` does not disable SSH backends \u2014 SCP and SFTP remain usable",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Server-Side Request Forgery (SSRF)",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-27",
+    "disclosed_at": "2026-08-29",
+    "votes": 2
   }
 ]
