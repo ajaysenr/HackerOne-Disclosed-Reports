@@ -8732,9 +8732,11 @@ https://hackerone.com/reports/2101165 | user_ldap app logs user passwords in the
 https://hackerone.com/reports/2104564 | (CVE-2023-32004) Permission model bypass by specifying a path traversal sequence in a Buffer
 https://hackerone.com/reports/2104566 | (CVE-2023-32006) Permissions policies can impersonate other modules in using module.constructor.createRequire()
 https://hackerone.com/reports/2104567 | (CVE-2023-32003) fs.mkdtemp() and fs.mkdtempSync() are missing getValidatedPath() checks
+https://hackerone.com/reports/2104591 | Maintainer can leak sentry token by changing the configured URL (fix bypass)
 https://hackerone.com/reports/2105808 | DOS of RSKJ server
 https://hackerone.com/reports/2106662 | CSRF to Information disclosure on password reset
 https://hackerone.com/reports/2106708 | Bypass of #2035332 RXSS at image.hackerone.live via the `url` parameter
+https://hackerone.com/reports/2106886 | subdomain takeover at █████████
 https://hackerone.com/reports/2107680 | AWS keys and user cookie leakage via uninitialized memory leak in outdated librsvg version in Basecamp
 https://hackerone.com/reports/2107934 | Admins can change authentication details of user configured external storage
 https://hackerone.com/reports/2109320 | Potential Spoofing Risk through Firefox Private Relay Service
