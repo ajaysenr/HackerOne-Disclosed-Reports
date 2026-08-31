@@ -160030,6 +160030,26 @@
     "votes": 29
   },
   {
+    "id": 2108342,
+    "url": "https://hackerone.com/reports/2108342",
+    "title": "Error when editing a calendar appointment returns stacktrace and query",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "st0nzy",
+    "severity": "medium",
+    "cvss": 4.3,
+    "weakness": "Information Disclosure",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-48308"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-08-14",
+    "disclosed_at": "2024-01-17",
+    "votes": 16
+  },
+  {
     "id": 2109320,
     "url": "https://hackerone.com/reports/2109320",
     "title": "Potential Spoofing Risk through Firefox Private Relay Service",
@@ -160064,6 +160084,24 @@
     "reported_at": "2023-08-14",
     "disclosed_at": "2023-09-08",
     "votes": 18
+  },
+  {
+    "id": 2110030,
+    "url": "https://hackerone.com/reports/2110030",
+    "title": "Race Condition Enables Bypassing Verification Check",
+    "program": "Tools for Humanity",
+    "program_handle": "toolsforhumanity",
+    "reporter": "toormund",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')",
+    "bounty": 3000.0,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "WILDCARD",
+    "reported_at": "2023-08-14",
+    "disclosed_at": "2024-04-04",
+    "votes": 95
   },
   {
     "id": 2111291,
