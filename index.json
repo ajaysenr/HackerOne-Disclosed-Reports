@@ -184183,6 +184183,26 @@
     "votes": 0
   },
   {
+    "id": 3971585,
+    "url": "https://hackerone.com/reports/3971585",
+    "title": "33: CONNECT_ONLY raw I/O selects wrong connection after CURLOPT_SHARE detach (incomplete fix for CVE-2020-8231)",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2020-8231"
+    ],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-26",
+    "disclosed_at": "2026-08-31",
+    "votes": 3
+  },
+  {
     "id": 3972196,
     "url": "https://hackerone.com/reports/3972196",
     "title": "34: `curl_mprintf` reads `double` for documented `long double` conversions \u2014 uninitialized value disclosure",
@@ -184217,6 +184237,62 @@
     "reported_at": "2026-08-26",
     "disclosed_at": "2026-08-28",
     "votes": 2
+  },
+  {
+    "id": 3973093,
+    "url": "https://hackerone.com/reports/3973093",
+    "title": "06: Incomplete fix for CVE-2026-7009: GCC/SecTrust builds silently discard stapled OCSP responses",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Improper Certificate Validation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-7009"
+    ],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-27",
+    "disclosed_at": "2026-08-31",
+    "votes": 4
+  },
+  {
+    "id": 3973127,
+    "url": "https://hackerone.com/reports/3973127",
+    "title": "18:  Explicit IPv6 proxy zone ID silently ignored \u2014 proxy credentials sent to wrong interface",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Information Disclosure",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-27",
+    "disclosed_at": "2026-08-31",
+    "votes": 4
+  },
+  {
+    "id": 3973158,
+    "url": "https://hackerone.com/reports/3973158",
+    "title": "41: `main_checkfds()` pipe reuse leaks proxy credentials into HTTPS upload body",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Information Exposure Through Sent Data",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-27",
+    "disclosed_at": "2026-08-31",
+    "votes": 3
   },
   {
     "id": 3973169,

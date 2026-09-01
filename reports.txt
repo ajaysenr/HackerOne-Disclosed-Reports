@@ -10037,7 +10037,11 @@ https://hackerone.com/reports/3968729 | Unbound cross-peer HTTP Digest challenge
 https://hackerone.com/reports/3970639 | --etag-save - truncates append-redirected stdout
 https://hackerone.com/reports/3970650 | Stacked --proto modifiers leave denied protocol enabled
 https://hackerone.com/reports/3971496 | 28: HTTP/3 UDP path ignores CURL_SOCKOPT_ALREADY_CONNECTED, reconnects callback-provided socket
+https://hackerone.com/reports/3971585 | 33: CONNECT_ONLY raw I/O selects wrong connection after CURLOPT_SHARE detach (incomplete fix for CVE-2020-8231)
 https://hackerone.com/reports/3972196 | 34: `curl_mprintf` reads `double` for documented `long double` conversions — uninitialized value disclosure
 https://hackerone.com/reports/3972316 | 46: `--libcurl` output carries `--insecure` across `--next` boundaries
+https://hackerone.com/reports/3973093 | 06: Incomplete fix for CVE-2026-7009: GCC/SecTrust builds silently discard stapled OCSP responses
+https://hackerone.com/reports/3973127 | 18:  Explicit IPv6 proxy zone ID silently ignored — proxy credentials sent to wrong interface
+https://hackerone.com/reports/3973158 | 41: `main_checkfds()` pipe reuse leaks proxy credentials into HTTPS upload body
 https://hackerone.com/reports/3973169 | 42: `VMS_STS` macro typo (`< 3` vs `<< 3`) turns curl failures into successful OpenVMS conditions
 https://hackerone.com/reports/3973228 | 50: CMake `HTTP_ONLY` does not disable SSH backends — SCP and SFTP remain usable

@@ -1051,7 +1051,7 @@
 | 1047 | [ucuping](https://hackerone.com/ucuping) | 1 | $0 | 48 |
 | 1048 | [sandeep_rj49](https://hackerone.com/sandeep_rj49) | 4 | $0 | 125 |
 | 1049 | [babykeem](https://hackerone.com/babykeem) | 1 | $0 | 15 |
-| 1050 | [giant_anteater](https://hackerone.com/giant_anteater) | 31 | $0 | 94 |
+| 1050 | [giant_anteater](https://hackerone.com/giant_anteater) | 35 | $0 | 108 |
 | 1051 | [ryat](https://hackerone.com/ryat) | 47 | $0 | 262 |
 | 1052 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 32 | $0 | 1334 |
 | 1053 | [hazimaslam](https://hackerone.com/hazimaslam) | 5 | $0 | 71 |

@@ -1,4 +1,4 @@
-# Weakness: Information Exposure Through Sent Data (18 reports)
+# Weakness: Information Exposure Through Sent Data (19 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -22,3 +22,4 @@
 | 16 | [1395068](../reports/1395068.md) | The response shows the nginx version | [Judge.me ](../by-program/judgeme.md) | None | — | 12 |
 | 17 | [411920](../reports/411920.md) | Leaking Username and Password in the URLs via Virustotal, can lea | [Chaturbate](../by-program/chaturbate.md) | None | — | 11 |
 | 18 | [3952619](../reports/3952619.md) | Domainless COOKIEFILE cookie leaks to unrelated IP-literal hosts | [curl](../by-program/curl.md) | None | — | 6 |
+| 19 | [3973158](../reports/3973158.md) | 41: `main_checkfds()` pipe reuse leaks proxy credentials into HTT | [curl](../by-program/curl.md) | None | — | 3 |

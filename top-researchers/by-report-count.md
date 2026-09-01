@@ -9,11 +9,11 @@
 | 5 | [nyymi](https://hackerone.com/nyymi) | 47 | $25,125 | 591 |
 | 6 | [jobert](https://hackerone.com/jobert) | 47 | $48,900 | 3860 |
 | 7 | [guido](https://hackerone.com/guido) | 40 | $0 | 429 |
-| 8 | [japz](https://hackerone.com/japz) | 35 | $36,000 | 1747 |
-| 9 | [fms](https://hackerone.com/fms) | 34 | $18,600 | 144 |
-| 10 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 32 | $0 | 1334 |
-| 11 | [bobrov](https://hackerone.com/bobrov) | 32 | $7,346 | 767 |
-| 12 | [giant_anteater](https://hackerone.com/giant_anteater) | 31 | $0 | 94 |
+| 8 | [giant_anteater](https://hackerone.com/giant_anteater) | 35 | $0 | 108 |
+| 9 | [japz](https://hackerone.com/japz) | 35 | $36,000 | 1747 |
+| 10 | [fms](https://hackerone.com/fms) | 34 | $18,600 | 144 |
+| 11 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 32 | $0 | 1334 |
+| 12 | [bobrov](https://hackerone.com/bobrov) | 32 | $7,346 | 767 |
 | 13 | [haxta4ok00](https://hackerone.com/haxta4ok00) | 30 | $77,800 | 4178 |
 | 14 | [rtod](https://hackerone.com/rtod) | 30 | $11,200 | 584 |
 | 15 | [haquaman](https://hackerone.com/haquaman) | 28 | $57,400 | 107 |
