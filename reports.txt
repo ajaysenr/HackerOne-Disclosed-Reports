@@ -8752,8 +8752,11 @@ https://hackerone.com/reports/2121960 | CVE-2023-40273: Session fixation in Apac
 https://hackerone.com/reports/2122644 | Names not completely redacted despite "Redact the names of the involved users" is selected
 https://hackerone.com/reports/2122671 | IDOR - Delete all Licenses and certifications from users account using CreateOrUpdateHackerCertification GraphQL query
 https://hackerone.com/reports/2122690 | Accessing apps protected via ZT's Access when user account is deleted/disabled even after clearing user session/seat
+https://hackerone.com/reports/2122938 | debug.log File Exposure that exposes (user/████) username and password at █████████
+https://hackerone.com/reports/2122964 | [███████] Information disclosure due unauthenticated access to APIs and system browser functions
 https://hackerone.com/reports/2123094 | Argocd's web terminal session doesn't expire
 https://hackerone.com/reports/2123113 | SSRF Vulnerability through Connection test feature
+https://hackerone.com/reports/2123680 | Subdomain takeover on one of the subdomain under mozgcp.net
 https://hackerone.com/reports/2123957 | 'Request English versions of web pages for enhanced privacy' keeps previous (grayed out) settings
 https://hackerone.com/reports/2125049 | Unlimited fake rate to the passenger in city to city, Affected endpoint `/api/v1/reviews/ride/<ID>/driver`
 https://hackerone.com/reports/2125679 | [CVE-2023-23913] DOM Based Cross-site Scripting in rails-ujs for contenteditable HTML Elements
