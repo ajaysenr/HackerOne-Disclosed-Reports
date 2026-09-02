@@ -8759,8 +8759,10 @@ https://hackerone.com/reports/2123113 | SSRF Vulnerability through Connection te
 https://hackerone.com/reports/2123680 | Subdomain takeover on one of the subdomain under mozgcp.net
 https://hackerone.com/reports/2123957 | 'Request English versions of web pages for enhanced privacy' keeps previous (grayed out) settings
 https://hackerone.com/reports/2125049 | Unlimited fake rate to the passenger in city to city, Affected endpoint `/api/v1/reviews/ride/<ID>/driver`
+https://hackerone.com/reports/2125346 |  Twitter account hijack @Costalfy
 https://hackerone.com/reports/2125679 | [CVE-2023-23913] DOM Based Cross-site Scripting in rails-ujs for contenteditable HTML Elements
 https://hackerone.com/reports/2126954 | [██████] Reflected XSS via Keycloak on ██████
+https://hackerone.com/reports/2127469 | Subdomain takeover on one of the subdomain under mozaws.net
 https://hackerone.com/reports/2127968 | CVE-2023-40195: Apache Airflow Spark Provider Deserialization Vulnerability RCE
 https://hackerone.com/reports/2129769 | fetlife.com/signup_step_profile expose access_token of mapbox.com
 https://hackerone.com/reports/2134874 | Hackers two email disclosed on  submission at hackerone hactivity
