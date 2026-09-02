@@ -1,4 +1,4 @@
-# Liberapay — Disclosed Reports (35 total)
+# Liberapay — Disclosed Reports (36 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -17,25 +17,26 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 11 | [837733](../reports/837733.md) | Leaking Of Sensitive Information on Github | Low | — | 17 | [harris0ft](https://hackerone.com/harris0ft) | 2020-04-03 |
 | 12 | [1118402](../reports/1118402.md) | Failure to Invalid Session after Password Change | Low | — | 16 | [sudipraj](https://hackerone.com/sudipraj) | 2021-03-12 |
 | 13 | [360797](../reports/360797.md) | Authenticated reflected XSS on liberapay.com via the back_to | Low — CVSS 3.5 | — | 16 | [techguynoob](https://hackerone.com/techguynoob) | 2018-06-02 |
-| 14 | [708076](../reports/708076.md) | Full Path disclosure on 500 error | Low | — | 11 | [rajauzairabdullah](https://hackerone.com/rajauzairabdullah) | 2019-10-05 |
-| 15 | [474899](../reports/474899.md) | User Enumeration  | Low | — | 9 | [htrgouvea](https://hackerone.com/htrgouvea) | 2019-01-05 |
-| 16 | [642886](../reports/642886.md) | Reauthentication for changing password bypass | Low | — | 8 | [viber](https://hackerone.com/viber) | 2020-12-23 |
-| 17 | [449671](../reports/449671.md) | Broken Authentication and session management OWASP A2 | None | — | 23 | [sameerphad72](https://hackerone.com/sameerphad72) | 2018-11-26 |
-| 18 | [361341](../reports/361341.md) | Unsafe deserialization in Libera Pay allows to escalate a SQ | None | — | 18 | [kapytein](https://hackerone.com/kapytein) | 2018-06-04 |
-| 19 | [3723002](../reports/3723002.md) | another liberapay member team twitter account broken Link Hi | None | — | 10 | [rox-11](https://hackerone.com/rox-11) | 2026-05-09 |
-| 20 | [3721519](../reports/3721519.md) | Liberapay member team twitter account broken Link Hijacking  | None | — | 9 | [rox-11](https://hackerone.com/rox-11) | 2026-05-09 |
-| 21 | [361133](../reports/361133.md) | Able to View other users income history | None | — | 6 | [amaljacob](https://hackerone.com/amaljacob) | 2018-06-02 |
-| 22 | [360834](../reports/360834.md) | CSRF to make any user accept the invitation to the team | None | — | 5 | [albatraoz](https://hackerone.com/albatraoz) | 2018-06-02 |
-| 23 | [361337](../reports/361337.md) | Missing back-end user input validation can lead to DOS flaw | None | — | 5 | [zuh4n](https://hackerone.com/zuh4n) | 2018-06-05 |
-| 24 | [361368](../reports/361368.md) | Insecure Account Deletion | None | — | 5 | [hack2684](https://hackerone.com/hack2684) | 2018-06-04 |
-| 25 | [361089](../reports/361089.md) | twitter api access token leaked on github  | None | — | 4 | [sonahri501](https://hackerone.com/sonahri501) | 2018-06-02 |
-| 26 | [361106](../reports/361106.md) | Unsecure changing password | None | — | 3 | [asdfasdfasdfasdfasdfsdfsdfsdf](https://hackerone.com/asdfasdfasdfasdfasdfsdfsdfsdf) | 2018-06-02 |
-| 27 | [361414](../reports/361414.md) | CSRF token manipulation in every possible form submits. NO s | None | — | 3 | [mah1ndra](https://hackerone.com/mah1ndra) | 2018-06-04 |
-| 28 | [361941](../reports/361941.md) | REGISTRATION USING FAKE EMAIL ACCOUNT | None | — | 2 | [rootbakar___](https://hackerone.com/rootbakar___) | 2018-06-05 |
-| 29 | [362601](../reports/362601.md) | A single user can subscribe a community multiple times | None | — | 2 | [mkind](https://hackerone.com/mkind) | 2018-06-07 |
-| 30 | [363845](../reports/363845.md) | Cross site scripting (content-sniffing) | None | — | 2 | [said778](https://hackerone.com/said778) | 2018-06-10 |
-| 31 | [361054](../reports/361054.md) | Phishing by Navigating Browser Tabs | None | — | 1 | [4w3](https://hackerone.com/4w3) | 2018-06-04 |
-| 32 | [362033](../reports/362033.md) | Csrf token does not meet security design | None | — | 1 | [wsfengfan474](https://hackerone.com/wsfengfan474) | 2018-06-05 |
-| 33 | [362718](../reports/362718.md) | Returning back from the browser after logging off will discl | None | — | 1 | [zir0x](https://hackerone.com/zir0x) | 2018-06-07 |
-| 34 | [361400](../reports/361400.md) | The csrf token remains same after user logs in | None | — | 1 | [d4w](https://hackerone.com/d4w) | 2018-06-04 |
-| 35 | [363658](../reports/363658.md) | Buffer overflow | None | — | 1 | [kaushalag29](https://hackerone.com/kaushalag29) | 2018-06-10 |
+| 14 | [2125346](../reports/2125346.md) |  Twitter account hijack @Costalfy | Low | — | 15 | [mwhx-404](https://hackerone.com/mwhx-404) | 2023-09-27 |
+| 15 | [708076](../reports/708076.md) | Full Path disclosure on 500 error | Low | — | 11 | [rajauzairabdullah](https://hackerone.com/rajauzairabdullah) | 2019-10-05 |
+| 16 | [474899](../reports/474899.md) | User Enumeration  | Low | — | 9 | [htrgouvea](https://hackerone.com/htrgouvea) | 2019-01-05 |
+| 17 | [642886](../reports/642886.md) | Reauthentication for changing password bypass | Low | — | 8 | [viber](https://hackerone.com/viber) | 2020-12-23 |
+| 18 | [449671](../reports/449671.md) | Broken Authentication and session management OWASP A2 | None | — | 23 | [sameerphad72](https://hackerone.com/sameerphad72) | 2018-11-26 |
+| 19 | [361341](../reports/361341.md) | Unsafe deserialization in Libera Pay allows to escalate a SQ | None | — | 18 | [kapytein](https://hackerone.com/kapytein) | 2018-06-04 |
+| 20 | [3723002](../reports/3723002.md) | another liberapay member team twitter account broken Link Hi | None | — | 10 | [rox-11](https://hackerone.com/rox-11) | 2026-05-09 |
+| 21 | [3721519](../reports/3721519.md) | Liberapay member team twitter account broken Link Hijacking  | None | — | 9 | [rox-11](https://hackerone.com/rox-11) | 2026-05-09 |
+| 22 | [361133](../reports/361133.md) | Able to View other users income history | None | — | 6 | [amaljacob](https://hackerone.com/amaljacob) | 2018-06-02 |
+| 23 | [360834](../reports/360834.md) | CSRF to make any user accept the invitation to the team | None | — | 5 | [albatraoz](https://hackerone.com/albatraoz) | 2018-06-02 |
+| 24 | [361337](../reports/361337.md) | Missing back-end user input validation can lead to DOS flaw | None | — | 5 | [zuh4n](https://hackerone.com/zuh4n) | 2018-06-05 |
+| 25 | [361368](../reports/361368.md) | Insecure Account Deletion | None | — | 5 | [hack2684](https://hackerone.com/hack2684) | 2018-06-04 |
+| 26 | [361089](../reports/361089.md) | twitter api access token leaked on github  | None | — | 4 | [sonahri501](https://hackerone.com/sonahri501) | 2018-06-02 |
+| 27 | [361106](../reports/361106.md) | Unsecure changing password | None | — | 3 | [asdfasdfasdfasdfasdfsdfsdfsdf](https://hackerone.com/asdfasdfasdfasdfasdfsdfsdfsdf) | 2018-06-02 |
+| 28 | [361414](../reports/361414.md) | CSRF token manipulation in every possible form submits. NO s | None | — | 3 | [mah1ndra](https://hackerone.com/mah1ndra) | 2018-06-04 |
+| 29 | [361941](../reports/361941.md) | REGISTRATION USING FAKE EMAIL ACCOUNT | None | — | 2 | [rootbakar___](https://hackerone.com/rootbakar___) | 2018-06-05 |
+| 30 | [362601](../reports/362601.md) | A single user can subscribe a community multiple times | None | — | 2 | [mkind](https://hackerone.com/mkind) | 2018-06-07 |
+| 31 | [363845](../reports/363845.md) | Cross site scripting (content-sniffing) | None | — | 2 | [said778](https://hackerone.com/said778) | 2018-06-10 |
+| 32 | [361054](../reports/361054.md) | Phishing by Navigating Browser Tabs | None | — | 1 | [4w3](https://hackerone.com/4w3) | 2018-06-04 |
+| 33 | [362033](../reports/362033.md) | Csrf token does not meet security design | None | — | 1 | [wsfengfan474](https://hackerone.com/wsfengfan474) | 2018-06-05 |
+| 34 | [362718](../reports/362718.md) | Returning back from the browser after logging off will discl | None | — | 1 | [zir0x](https://hackerone.com/zir0x) | 2018-06-07 |
+| 35 | [361400](../reports/361400.md) | The csrf token remains same after user logs in | None | — | 1 | [d4w](https://hackerone.com/d4w) | 2018-06-04 |
+| 36 | [363658](../reports/363658.md) | Buffer overflow | None | — | 1 | [kaushalag29](https://hackerone.com/kaushalag29) | 2018-06-10 |

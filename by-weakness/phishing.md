@@ -1,4 +1,4 @@
-# Weakness: Phishing (24 reports)
+# Weakness: Phishing (25 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -21,10 +21,11 @@
 | 15 | [515574](../reports/515574.md) | Unclaimed Github Repository Takeover on https://www.data.gov/labs | [GSA Bounty](../by-program/gsa_bbp.md) | Low | — | 19 |
 | 16 | [785243](../reports/785243.md) | Twitter Source Label allow 'mongolian vowel separator' U+180E (ap | [X / xAI](../by-program/x.md) | Low | — | 19 |
 | 17 | [384101](../reports/384101.md) | Go.imgur.com can be used to phish for account information | [Imgur](../by-program/imgur.md) | Low | — | 18 |
-| 18 | [1390782](../reports/1390782.md) | Possible Domain Takeover on AWS Instance. | [Rocket.Chat](../by-program/rocket_chat.md) | Low | — | 9 |
-| 19 | [325827](../reports/325827.md) | Content Spoofing or Text Injection support.mycrypto.com | [MyCrypto](../by-program/mycrypto.md) | Low | — | 7 |
-| 20 | [1715538](../reports/1715538.md) | Subdomain Takeover on  delivey.yelp.com  | [Yelp](../by-program/yelp.md) | Low | — | 2 |
-| 21 | [1165919](../reports/1165919.md) | Content Spoofing | [Reddit](../by-program/reddit.md) | Low | — | 1 |
-| 22 | [459634](../reports/459634.md) | GitHub users outside of HackerOne organization can create and upd | [HackerOne](../by-program/security.md) | None | — | 12 |
-| 23 | [1504294](../reports/1504294.md) | Impersonation of tiktok account via Broken Link in TikTok Newsroo | [TikTok](../by-program/tiktok.md) | None | — | 10 |
-| 24 | [841630](../reports/841630.md) | Content Spoofing | [Acronis](../by-program/acronis.md) | None | — | 8 |
+| 18 | [2125346](../reports/2125346.md) |  Twitter account hijack @Costalfy | [Liberapay](../by-program/liberapay.md) | Low | — | 15 |
+| 19 | [1390782](../reports/1390782.md) | Possible Domain Takeover on AWS Instance. | [Rocket.Chat](../by-program/rocket_chat.md) | Low | — | 9 |
+| 20 | [325827](../reports/325827.md) | Content Spoofing or Text Injection support.mycrypto.com | [MyCrypto](../by-program/mycrypto.md) | Low | — | 7 |
+| 21 | [1715538](../reports/1715538.md) | Subdomain Takeover on  delivey.yelp.com  | [Yelp](../by-program/yelp.md) | Low | — | 2 |
+| 22 | [1165919](../reports/1165919.md) | Content Spoofing | [Reddit](../by-program/reddit.md) | Low | — | 1 |
+| 23 | [459634](../reports/459634.md) | GitHub users outside of HackerOne organization can create and upd | [HackerOne](../by-program/security.md) | None | — | 12 |
+| 24 | [1504294](../reports/1504294.md) | Impersonation of tiktok account via Broken Link in TikTok Newsroo | [TikTok](../by-program/tiktok.md) | None | — | 10 |
+| 25 | [841630](../reports/841630.md) | Content Spoofing | [Acronis](../by-program/acronis.md) | None | — | 8 |

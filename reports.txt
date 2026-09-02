@@ -7734,6 +7734,7 @@ https://hackerone.com/reports/1531958 | ReDoS in net/http affects webhooks: Side
 https://hackerone.com/reports/1532858 | Cross-site scripting on dashboard2.omise.co
 https://hackerone.com/reports/1533220 | Ability to View Non-Permitted Admin Log
 https://hackerone.com/reports/1533976 | Content injection in Jira issue title enabling sending arbitrary POST request as victim
+https://hackerone.com/reports/1534465 | Ticket Trick Attack allows access to Rockstar Games' workspaces
 https://hackerone.com/reports/1536046 | Stored XSS Payload when sending videos
 https://hackerone.com/reports/1536215 | Reflected XSS via `████████` parameter
 https://hackerone.com/reports/1536299 | Origin IP found, WAF Cloudflare Bypass
@@ -10015,6 +10016,8 @@ https://hackerone.com/reports/3839914 | Unauthenticated Plugin Settings Modifica
 https://hackerone.com/reports/3846922 | HTTP/2 retained header blocks evade maxSessionMemory and enable remote memory exhaustion
 https://hackerone.com/reports/3852135 | DDP methods getThreadsList / getThreadMessages leaks private thread content to any authenticated low privilege user (unpatched sibling of #1446767)
 https://hackerone.com/reports/3857258 | Reachable assertion in node:zlib sync API crashes the entire process via spoofed TypedArray byteLength (all 11 *Sync functions affected)
+https://hackerone.com/reports/3858504 | connect.8x8.com: Automation Builder - Input Validation Issue in Workflow Step Outputs
+https://hackerone.com/reports/3861550 | connect.8x8.com: Deserialization Vulnerability  in Automation Builder via Jint→Newtonsoft serializer coercion (TypeNameHandling)
 https://hackerone.com/reports/3869124 | **Unauthenticated IDOR allows modification of payment customer billing information**
 https://hackerone.com/reports/3872858 | Stored HTML Injection (CWE-79) via Livechat Visitor Name
 https://hackerone.com/reports/3873072 | Unauthenticated SQL Injection via REST Batch Route Confusion ████████

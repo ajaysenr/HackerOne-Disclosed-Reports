@@ -1,4 +1,4 @@
-# Mozilla — Disclosed Reports (64 total)
+# Mozilla — Disclosed Reports (66 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -47,24 +47,26 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 41 | [2017323](../reports/2017323.md) | Subdomain takeover on one of the subdomain under mozilla.org | Medium | — | 31 | [d0xing](https://hackerone.com/d0xing) | 2023-10-04 |
 | 42 | [2037032](../reports/2037032.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 25 | [proabiral](https://hackerone.com/proabiral) | 2024-02-11 |
 | 43 | [2171494](../reports/2171494.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 10 | [mikey96](https://hackerone.com/mikey96) | 2023-09-27 |
-| 44 | [1879548](../reports/1879548.md) | Missing Function Level Access Control in Mozilla formula con | Medium | — | 6 | [hackeronanywhere](https://hackerone.com/hackeronanywhere) | 2023-09-27 |
-| 45 | [3175695](../reports/3175695.md) | Bypass "No Links" Restriction in Biography via Protocol-Rela | Low | — | 95 | [yoyomiski](https://hackerone.com/yoyomiski) | 2025-07-29 |
-| 46 | [1987687](../reports/1987687.md) | Leakage of traffic in plaintext towards the IP address of VP | Low | — | 67 | [vanhoefm](https://hackerone.com/vanhoefm) | 2024-11-08 |
-| 47 | [3025797](../reports/3025797.md) | [Privilege Escalation] User can Pin|Unpin Any Comment on Any | Low | — | 56 | [adilnbabras](https://hackerone.com/adilnbabras) | 2026-03-20 |
-| 48 | [1976449](../reports/1976449.md) | DOS via cache poisoning on [developer.mozilla.org] | Low | — | 55 | [zhero_](https://hackerone.com/zhero_) | 2023-06-05 |
-| 49 | [2383486](../reports/2383486.md) | Insecure S3 Bucket Exposing Git Directory in Mozilla Foundat | Low | — | 55 | [psycho_012](https://hackerone.com/psycho_012) | 2024-03-13 |
-| 50 | [1913309](../reports/1913309.md) | Race condition leads to add more than 5 email at Data breach | Low | — | 49 | [sushantd19](https://hackerone.com/sushantd19) | 2024-10-18 |
-| 51 | [2737309](../reports/2737309.md) | Information disclosure on password cancel endpoint  | Low — CVSS 3.5 | — | 45 | [hackeriron1](https://hackerone.com/hackeriron1) | 2024-10-29 |
-| 52 | [2106662](../reports/2106662.md) | CSRF to Information disclosure on password reset | Low | — | 37 | [hackeriron1](https://hackerone.com/hackeriron1) | 2023-11-27 |
-| 53 | [3325582](../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /dele | Low | — | 35 | [adilnbabras](https://hackerone.com/adilnbabras) | 2026-04-10 |
-| 54 | [2053396](../reports/2053396.md) | Possibility of Deface through translation tool - www.mozilla | Low | — | 30 | [astrounder](https://hackerone.com/astrounder) | 2023-10-27 |
-| 55 | [2860983](../reports/2860983.md) | Denial of Access to Static Resources via Cache Poisoning on  | Low | — | 24 | [jabiyev](https://hackerone.com/jabiyev) | 2025-01-08 |
-| 56 | [1992261](../reports/1992261.md) | Flickr API key leaked in GitHub commit | Low — CVSS 3.7 | — | 24 | [m4y4nk](https://hackerone.com/m4y4nk) | 2023-10-26 |
-| 57 | [2111291](../reports/2111291.md) | Stored Xss on bugzilla.mozilla.org via comment edit feature  | Low | — | 23 | [r3dpars3c](https://hackerone.com/r3dpars3c) | 2023-09-20 |
-| 58 | [1989901](../reports/1989901.md) | If rate limit is hit, IP address is leaked to anyone who tri | Low — CVSS 3.7 | — | 22 | [anish-kosaraju](https://hackerone.com/anish-kosaraju) | 2023-09-20 |
-| 59 | [2078707](../reports/2078707.md) | Exposing Django Debug Panel and Sensitive Infrastructure Inf | Low — CVSS 3.7 | — | 17 | [aliend89](https://hackerone.com/aliend89) | 2023-10-13 |
-| 60 | [2015554](../reports/2015554.md) | Internal Blind Server-Side Request Forgery (SSRF) allows sca | None | — | 53 | [harshdranjan](https://hackerone.com/harshdranjan) | 2024-01-12 |
-| 61 | [2696294](../reports/2696294.md) | Private Emails of Moz Workers Leaked in Public file | None | — | 52 | [bd3b2acc340d2664004d535acbc0b](https://hackerone.com/bd3b2acc340d2664004d535acbc0b) | 2024-09-04 |
-| 62 | [2412983](../reports/2412983.md) | sentry Auth Token exposed publicly in docker hub image  | None | — | 51 | [ghaazy](https://hackerone.com/ghaazy) | 2024-10-18 |
-| 63 | [2380084](../reports/2380084.md) | paypal client_id And stripe api key indexed on web archive | None | — | 40 | [ghaazy](https://hackerone.com/ghaazy) | 2024-10-18 |
-| 64 | [1995595](../reports/1995595.md) | Response Manipulation to enable Account recovery key with ou | None | — | 9 | [saiteja12313234](https://hackerone.com/saiteja12313234) | 2023-09-11 |
+| 44 | [2123680](../reports/2123680.md) | Subdomain takeover on one of the subdomain under mozgcp.net | Medium | — | 7 | [d0xing](https://hackerone.com/d0xing) | 2024-02-11 |
+| 45 | [1879548](../reports/1879548.md) | Missing Function Level Access Control in Mozilla formula con | Medium | — | 6 | [hackeronanywhere](https://hackerone.com/hackeronanywhere) | 2023-09-27 |
+| 46 | [2127469](../reports/2127469.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 3 | [d0xing](https://hackerone.com/d0xing) | 2024-02-11 |
+| 47 | [3175695](../reports/3175695.md) | Bypass "No Links" Restriction in Biography via Protocol-Rela | Low | — | 95 | [yoyomiski](https://hackerone.com/yoyomiski) | 2025-07-29 |
+| 48 | [1987687](../reports/1987687.md) | Leakage of traffic in plaintext towards the IP address of VP | Low | — | 67 | [vanhoefm](https://hackerone.com/vanhoefm) | 2024-11-08 |
+| 49 | [3025797](../reports/3025797.md) | [Privilege Escalation] User can Pin|Unpin Any Comment on Any | Low | — | 56 | [adilnbabras](https://hackerone.com/adilnbabras) | 2026-03-20 |
+| 50 | [1976449](../reports/1976449.md) | DOS via cache poisoning on [developer.mozilla.org] | Low | — | 55 | [zhero_](https://hackerone.com/zhero_) | 2023-06-05 |
+| 51 | [2383486](../reports/2383486.md) | Insecure S3 Bucket Exposing Git Directory in Mozilla Foundat | Low | — | 55 | [psycho_012](https://hackerone.com/psycho_012) | 2024-03-13 |
+| 52 | [1913309](../reports/1913309.md) | Race condition leads to add more than 5 email at Data breach | Low | — | 49 | [sushantd19](https://hackerone.com/sushantd19) | 2024-10-18 |
+| 53 | [2737309](../reports/2737309.md) | Information disclosure on password cancel endpoint  | Low — CVSS 3.5 | — | 45 | [hackeriron1](https://hackerone.com/hackeriron1) | 2024-10-29 |
+| 54 | [2106662](../reports/2106662.md) | CSRF to Information disclosure on password reset | Low | — | 37 | [hackeriron1](https://hackerone.com/hackeriron1) | 2023-11-27 |
+| 55 | [3325582](../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /dele | Low | — | 35 | [adilnbabras](https://hackerone.com/adilnbabras) | 2026-04-10 |
+| 56 | [2053396](../reports/2053396.md) | Possibility of Deface through translation tool - www.mozilla | Low | — | 30 | [astrounder](https://hackerone.com/astrounder) | 2023-10-27 |
+| 57 | [2860983](../reports/2860983.md) | Denial of Access to Static Resources via Cache Poisoning on  | Low | — | 24 | [jabiyev](https://hackerone.com/jabiyev) | 2025-01-08 |
+| 58 | [1992261](../reports/1992261.md) | Flickr API key leaked in GitHub commit | Low — CVSS 3.7 | — | 24 | [m4y4nk](https://hackerone.com/m4y4nk) | 2023-10-26 |
+| 59 | [2111291](../reports/2111291.md) | Stored Xss on bugzilla.mozilla.org via comment edit feature  | Low | — | 23 | [r3dpars3c](https://hackerone.com/r3dpars3c) | 2023-09-20 |
+| 60 | [1989901](../reports/1989901.md) | If rate limit is hit, IP address is leaked to anyone who tri | Low — CVSS 3.7 | — | 22 | [anish-kosaraju](https://hackerone.com/anish-kosaraju) | 2023-09-20 |
+| 61 | [2078707](../reports/2078707.md) | Exposing Django Debug Panel and Sensitive Infrastructure Inf | Low — CVSS 3.7 | — | 17 | [aliend89](https://hackerone.com/aliend89) | 2023-10-13 |
+| 62 | [2015554](../reports/2015554.md) | Internal Blind Server-Side Request Forgery (SSRF) allows sca | None | — | 53 | [harshdranjan](https://hackerone.com/harshdranjan) | 2024-01-12 |
+| 63 | [2696294](../reports/2696294.md) | Private Emails of Moz Workers Leaked in Public file | None | — | 52 | [bd3b2acc340d2664004d535acbc0b](https://hackerone.com/bd3b2acc340d2664004d535acbc0b) | 2024-09-04 |
+| 64 | [2412983](../reports/2412983.md) | sentry Auth Token exposed publicly in docker hub image  | None | — | 51 | [ghaazy](https://hackerone.com/ghaazy) | 2024-10-18 |
+| 65 | [2380084](../reports/2380084.md) | paypal client_id And stripe api key indexed on web archive | None | — | 40 | [ghaazy](https://hackerone.com/ghaazy) | 2024-10-18 |
+| 66 | [1995595](../reports/1995595.md) | Response Manipulation to enable Account recovery key with ou | None | — | 9 | [saiteja12313234](https://hackerone.com/saiteja12313234) | 2023-09-11 |

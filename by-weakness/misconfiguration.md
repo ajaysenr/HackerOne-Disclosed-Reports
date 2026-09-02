@@ -1,4 +1,4 @@
-# Weakness: Misconfiguration (55 reports)
+# Weakness: Misconfiguration (57 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -39,23 +39,25 @@
 | 33 | [2017323](../reports/2017323.md) | Subdomain takeover on one of the subdomain under mozilla.org | [Mozilla](../by-program/mozilla.md) | Medium | — | 31 |
 | 34 | [1019367](../reports/1019367.md) | Memory Dump and Env Disclosure via Spring Boot Actuator | [Stripo Inc](../by-program/stripo.md) | Medium | — | 28 |
 | 35 | [2171494](../reports/2171494.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 10 |
-| 36 | [1354382](../reports/1354382.md) | Password Reuse | [UPchieve](../by-program/upchieve.md) | Medium | — | 6 |
-| 37 | [1354368](../reports/1354368.md) | Missing Validation in editing  "Your Phone Number"  | [UPchieve](../by-program/upchieve.md) | Medium | — | 4 |
-| 38 | [2523654](../reports/2523654.md) | Subdomain takeover in Gitlab pages | [GitLab](../by-program/gitlab.md) | Low — CVSS 3.5 | — | 79 |
-| 39 | [2599840](../reports/2599840.md) | Remove obsolete domain from handbook subdomain | [GitLab](../by-program/gitlab.md) | Low | — | 72 |
-| 40 | [1132803](../reports/1132803.md) | Graphql introspection is enabled and leaks details about the sche | [On ](../by-program/on.md) | Low | — | 55 |
-| 41 | [2000000](../reports/2000000.md) | 2M Reports on HackerOne Celebration! - Ability to bulk-submit man | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | — | 54 |
-| 42 | [2679440](../reports/2679440.md) | Unauthenticated Varnish Cache Purge | [Adobe](../by-program/adobe.md) | Low — CVSS 3.7 | — | 43 |
-| 43 | [2011298](../reports/2011298.md) | The `stripe/veneur` GitHub repository links to a domain `veneur.o | [Stripe](../by-program/stripe.md) | Low — CVSS 2.0 | — | 26 |
-| 44 | [1139541](../reports/1139541.md) | Enumerating HackerOne Pentests | [HackerOne](../by-program/security.md) | Low — CVSS 3.7 | — | 16 |
-| 45 | [1416701](../reports/1416701.md) | Missing SPF record on trycourier.app | [Courier](../by-program/trycourier.md) | Low | — | 8 |
-| 46 | [1187018](../reports/1187018.md) | wrong url in hackerone > goes to wix.com > unconnected | [Sifchain](../by-program/sifchain.md) | Low | — | 5 |
-| 47 | [2082680](../reports/2082680.md) | Register & create a ticket as somebody else on HackerOne Support  | [HackerOne](../by-program/security.md) | None | — | 56 |
-| 48 | [2666151](../reports/2666151.md) | phpinfo() exposed on ██████████ | [Mars](../by-program/mars.md) | None | — | 35 |
-| 49 | [2001913](../reports/2001913.md) | Create miscellaneous support ticket on anyone's account through s | [HackerOne](../by-program/security.md) | None | — | 29 |
-| 50 | [168476](../reports/168476.md) | Incoming email hijacking on sc-cdn.net | [Snapchat](../by-program/snapchat.md) | None | — | 24 |
-| 51 | [2068830](../reports/2068830.md) | HackerOne Support System Doesn't Require Any Authentication May L | [HackerOne](../by-program/security.md) | None | — | 20 |
-| 52 | [1194280](../reports/1194280.md) | CORS Misconfiguration | [Sifchain](../by-program/sifchain.md) | None | — | 9 |
-| 53 | [1160381](../reports/1160381.md) | Захват домена ozoncorporate.ru | [Ozon](../by-program/ozon.md) | None | — | 8 |
-| 54 | [1194293](../reports/1194293.md) | Wrong implementation of Telegram link on the main page for PC use | [Sifchain](../by-program/sifchain.md) | None | — | 8 |
-| 55 | [1065830](../reports/1065830.md) | Error Page Text Injection (no compromise) | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | None | — | 4 |
+| 36 | [2123680](../reports/2123680.md) | Subdomain takeover on one of the subdomain under mozgcp.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 7 |
+| 37 | [1354382](../reports/1354382.md) | Password Reuse | [UPchieve](../by-program/upchieve.md) | Medium | — | 6 |
+| 38 | [1354368](../reports/1354368.md) | Missing Validation in editing  "Your Phone Number"  | [UPchieve](../by-program/upchieve.md) | Medium | — | 4 |
+| 39 | [2127469](../reports/2127469.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 3 |
+| 40 | [2523654](../reports/2523654.md) | Subdomain takeover in Gitlab pages | [GitLab](../by-program/gitlab.md) | Low — CVSS 3.5 | — | 79 |
+| 41 | [2599840](../reports/2599840.md) | Remove obsolete domain from handbook subdomain | [GitLab](../by-program/gitlab.md) | Low | — | 72 |
+| 42 | [1132803](../reports/1132803.md) | Graphql introspection is enabled and leaks details about the sche | [On ](../by-program/on.md) | Low | — | 55 |
+| 43 | [2000000](../reports/2000000.md) | 2M Reports on HackerOne Celebration! - Ability to bulk-submit man | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | — | 54 |
+| 44 | [2679440](../reports/2679440.md) | Unauthenticated Varnish Cache Purge | [Adobe](../by-program/adobe.md) | Low — CVSS 3.7 | — | 43 |
+| 45 | [2011298](../reports/2011298.md) | The `stripe/veneur` GitHub repository links to a domain `veneur.o | [Stripe](../by-program/stripe.md) | Low — CVSS 2.0 | — | 26 |
+| 46 | [1139541](../reports/1139541.md) | Enumerating HackerOne Pentests | [HackerOne](../by-program/security.md) | Low — CVSS 3.7 | — | 16 |
+| 47 | [1416701](../reports/1416701.md) | Missing SPF record on trycourier.app | [Courier](../by-program/trycourier.md) | Low | — | 8 |
+| 48 | [1187018](../reports/1187018.md) | wrong url in hackerone > goes to wix.com > unconnected | [Sifchain](../by-program/sifchain.md) | Low | — | 5 |
+| 49 | [2082680](../reports/2082680.md) | Register & create a ticket as somebody else on HackerOne Support  | [HackerOne](../by-program/security.md) | None | — | 56 |
+| 50 | [2666151](../reports/2666151.md) | phpinfo() exposed on ██████████ | [Mars](../by-program/mars.md) | None | — | 35 |
+| 51 | [2001913](../reports/2001913.md) | Create miscellaneous support ticket on anyone's account through s | [HackerOne](../by-program/security.md) | None | — | 29 |
+| 52 | [168476](../reports/168476.md) | Incoming email hijacking on sc-cdn.net | [Snapchat](../by-program/snapchat.md) | None | — | 24 |
+| 53 | [2068830](../reports/2068830.md) | HackerOne Support System Doesn't Require Any Authentication May L | [HackerOne](../by-program/security.md) | None | — | 20 |
+| 54 | [1194280](../reports/1194280.md) | CORS Misconfiguration | [Sifchain](../by-program/sifchain.md) | None | — | 9 |
+| 55 | [1160381](../reports/1160381.md) | Захват домена ozoncorporate.ru | [Ozon](../by-program/ozon.md) | None | — | 8 |
+| 56 | [1194293](../reports/1194293.md) | Wrong implementation of Telegram link on the main page for PC use | [Sifchain](../by-program/sifchain.md) | None | — | 8 |
+| 57 | [1065830](../reports/1065830.md) | Error Page Text Injection (no compromise) | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | None | — | 4 |
