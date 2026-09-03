@@ -8771,7 +8771,9 @@ https://hackerone.com/reports/2130385 |  Unauthorized Blogs Creation
 https://hackerone.com/reports/2131215 | Subdomain takeover on one of the subdomain under mozaws.net
 https://hackerone.com/reports/2131224 | Attackers can *Upgrade and claim offer* on the Premium Trial Subscription with a total price of *IDR0.00* from the original *IDR7,022,061.82*
 https://hackerone.com/reports/2133308 | Password Reset Token Leak Via Referrer
+https://hackerone.com/reports/2134671 | Subdomain takeover on one of the subdomain under mozaws.net
 https://hackerone.com/reports/2134874 | Hackers two email disclosed on  submission at hackerone hactivity
+https://hackerone.com/reports/2135054 | Subdomain takeover on one of the subdomain under mozaws.net
 https://hackerone.com/reports/2137154 | Mozilla Mastodon Staging Instance Admin API Key Disclosure Through Slack
 https://hackerone.com/reports/2138080 | Context isolation bypass via nested unserializable return value
 https://hackerone.com/reports/2139190 | IDOR: Authorization Bypass in LockReport Mutation for public reports
