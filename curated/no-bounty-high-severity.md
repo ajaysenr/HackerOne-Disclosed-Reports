@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1786 total)
+# High/Critical Severity — No Bounty Paid (1788 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -820,6 +820,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [2336236](../reports/2336236.md) | Privilege Escalation to Root SSH Access via Pre-Receive Hook Envi | [GitHub](../by-program/github.md) | High | Resolved | 71 |
 | [1960107](../reports/1960107.md) | Rider can forcefully get passenger's order accepted resulting in  | [inDrive](../by-program/indrive.md) | High — CVSS 8.1 | Resolved | 71 |
 | [2786591](../reports/2786591.md) | Unauthenticated WordPress Database Repair DoS | [WordPress](../by-program/wordpress.md) | High — CVSS 8.0 | Not Applicable | 70 |
+| [2131224](../reports/2131224.md) | Attackers can *Upgrade and claim offer* on the Premium Trial Subs | [LinkedIn](../by-program/linkedin.md) | High — CVSS 7.2 | Resolved | 70 |
 | [2697592](../reports/2697592.md) | SSRF and secret key disclosure found on Turbonomic endpoint | [IBM](../by-program/ibm.md) | High | Resolved | 70 |
 | [314814](../reports/314814.md) | [oauth token leak] at oauth.semrush.com | [Semrush](../by-program/semrush.md) | High — CVSS 7.4 | Resolved | 69 |
 | [1406335](../reports/1406335.md) | Subdomain takeover of images.crossinstall.com | [X / xAI](../by-program/x.md) | High | Resolved | 69 |
@@ -1229,6 +1230,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [384255](../reports/384255.md) | Stored XSS on Issue details page | [GitLab](../by-program/gitlab.md) | High | Resolved | 16 |
 | [344086](../reports/344086.md) | Uber employees are sharing information on productforums.google.co | [Uber](../by-program/uber.md) | High — CVSS 7.5 | Resolved | 16 |
 | [843171](../reports/843171.md) | Desktop app RCE (#276031 bypass) | [Rocket.Chat](../by-program/rocket_chat.md) | High | Resolved | 16 |
+| [3887969](../reports/3887969.md) | SSRF via URL Parser Differential in `normalize_request_url` (wlc) | [Weblate](../by-program/weblate.md) | High | Resolved | 16 |
 | [330957](../reports/330957.md) | [pdfinfojs] Command Injection on filename parameter | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.8 | Resolved | 15 |
 | [2370578](../reports/2370578.md) | DBMS information getting exposed publicly on -- [ ██████████ ] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 15 |
 | [685344](../reports/685344.md) | Local File Disclosure on the ████████ (https://████/) leads to th | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 15 |

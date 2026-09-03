@@ -9925,6 +9925,7 @@ https://hackerone.com/reports/3744543 | CVE-2026-8927: env-set cross-proxy Diges
 https://hackerone.com/reports/3747959 | curl --skip-existing has a TOCTOU race that lets a post-check symlink redirect the later download write
 https://hackerone.com/reports/3749204 | CVE-2026-9080: UAF after pause in socket callback
 https://hackerone.com/reports/3749428 | curl cross-origin HTTPS redirect reuses TLS client certificate for unintended second-origin mTLS authentication
+https://hackerone.com/reports/3749681 | Background sync cache retains outgoing additional transaction secret keys
 https://hackerone.com/reports/3750295 | CVE-2026-9079: stale proxy password leak
 https://hackerone.com/reports/3751697 | CVE-2026-10536: HTTP/2 stream-dependency tree UAF
 https://hackerone.com/reports/3751701 | Use-after-free in `curl_easy_duphandle()` with HTTP/2 stream-dependency tree
@@ -10001,6 +10002,7 @@ https://hackerone.com/reports/3815767 | Permission Model bypass: process.report 
 https://hackerone.com/reports/3816840 | HTTPS Agent PFX object-array key collision allows mTLS client identity reuse across different per-request certificates
 https://hackerone.com/reports/3817602 | Node --run POSIX positional argument escaping allows shell command injection
 https://hackerone.com/reports/3819475 | Monero GUI OpenAlias DNSSEC-invalid resolution still writes spoofable address into recipient field
+https://hackerone.com/reports/3822248 | CVE-2026-13608: OpenLDAP SASL authentication bypass
 https://hackerone.com/reports/3823932 | CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabling HAProxy PROXY protocol injection
 https://hackerone.com/reports/3823985 | Use-after-free in `mev_forget_socket` when `curl_easy_pause()` is called from a `CURL_POLL_REMOVE` socket callback (incomplete fix of CVE-2026-9080)
 https://hackerone.com/reports/3824303 | UAF read in mev_pollset_diff() trace path after curl_easy_pause() in socket callback
@@ -10027,10 +10029,12 @@ https://hackerone.com/reports/3869124 | **Unauthenticated IDOR allows modificati
 https://hackerone.com/reports/3872858 | Stored HTML Injection (CWE-79) via Livechat Visitor Name
 https://hackerone.com/reports/3873072 | Unauthenticated SQL Injection via REST Batch Route Confusion ████████
 https://hackerone.com/reports/3878586 | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, hide_from_lists) and uses frozen visibility, exposing donat
+https://hackerone.com/reports/3887969 | SSRF via URL Parser Differential in `normalize_request_url` (wlc)
 https://hackerone.com/reports/3889473 | @jitsi/docker-jitsi-meet: `/colibri-relay-ws/` unsafe nginx regex (OCTO relay configuration)
 https://hackerone.com/reports/3909372 | Unauthorized vertical privilege escalation vulnerability found on ibm.com endpoint
 https://hackerone.com/reports/3911605 | SMTP CRLF injection in custom SMTP recipient operand allows additional SMTP commands after authentication
 https://hackerone.com/reports/3911968 | Heap use-after-free (write) in mev_forget_socket() via reentrant curl_easy_pause() — incomplete fix for CVE-2026-9080
+https://hackerone.com/reports/3916059 | CVE-2026-18924: HTTP/2 server push UAF
 https://hackerone.com/reports/3917775 | curl Missing Sec-WebSocket-Accept Verification Enables MITM WebSocket Session Hijacking
 https://hackerone.com/reports/3920276 | Cookie jar load skips public suffix check on PSL builds
 https://hackerone.com/reports/3923212 | URL API: triple-slash parses path segment as hostname
@@ -10047,6 +10051,7 @@ https://hackerone.com/reports/3963725 | wolfSSL backend disables hostname verifi
 https://hackerone.com/reports/3966955 | TLS session cache case-folds CA paths and bypasses the active trust profile
 https://hackerone.com/reports/3968431 | ARG_CLEAR credential scrubbing wipes only UTF-8 copies on Windows Unicode builds
 https://hackerone.com/reports/3968729 | Unbound cross-peer HTTP Digest challenge state
+https://hackerone.com/reports/3969820 | CVE-2026-80256: wcurl backslash bypass
 https://hackerone.com/reports/3970639 | --etag-save - truncates append-redirected stdout
 https://hackerone.com/reports/3970650 | Stacked --proto modifiers leave denied protocol enabled
 https://hackerone.com/reports/3971496 | 28: HTTP/3 UDP path ignores CURL_SOCKOPT_ALREADY_CONNECTED, reconnects callback-provided socket
@@ -10054,6 +10059,7 @@ https://hackerone.com/reports/3971585 | 33: CONNECT_ONLY raw I/O selects wrong c
 https://hackerone.com/reports/3972196 | 34: `curl_mprintf` reads `double` for documented `long double` conversions — uninitialized value disclosure
 https://hackerone.com/reports/3972316 | 46: `--libcurl` output carries `--insecure` across `--next` boundaries
 https://hackerone.com/reports/3973093 | 06: Incomplete fix for CVE-2026-7009: GCC/SecTrust builds silently discard stapled OCSP responses
+https://hackerone.com/reports/3973098 | 07: GnuTLS 0-RTT early data bypasses file-backed public-key pin verification
 https://hackerone.com/reports/3973127 | 18:  Explicit IPv6 proxy zone ID silently ignored — proxy credentials sent to wrong interface
 https://hackerone.com/reports/3973158 | 41: `main_checkfds()` pipe reuse leaks proxy credentials into HTTPS upload body
 https://hackerone.com/reports/3973169 | 42: `VMS_STS` macro typo (`< 3` vs `<< 3`) turns curl failures into successful OpenVMS conditions

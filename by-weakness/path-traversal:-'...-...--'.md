@@ -1,4 +1,4 @@
-# Weakness: Path Traversal: '.../...//' (4 reports)
+# Weakness: Path Traversal: '.../...//' (5 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -8,3 +8,4 @@
 | 2 | [2375666](../reports/2375666.md) | CVE-2018-0296 Cisco ASA Denial of Service & Path Traversal vulner | [MTN Group](../by-program/mtn_group.md) | Critical | — | 61 |
 | 3 | [1626210](../reports/1626210.md) | Local file read at https://████/ [HtUS] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 12 |
 | 4 | [1377748](../reports/1377748.md) | 2 click Remote Code execution in Evernote Android | [Evernote](../by-program/evernote.md) | High | — | 28 |
+| 5 | [3969820](../reports/3969820.md) | CVE-2026-80256: wcurl backslash bypass | [curl](../by-program/curl.md) | Medium | — | 12 |
