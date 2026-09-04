@@ -8776,8 +8776,11 @@ https://hackerone.com/reports/2134874 | Hackers two email disclosed on  submissi
 https://hackerone.com/reports/2135054 | Subdomain takeover on one of the subdomain under mozaws.net
 https://hackerone.com/reports/2137154 | Mozilla Mastodon Staging Instance Admin API Key Disclosure Through Slack
 https://hackerone.com/reports/2138080 | Context isolation bypass via nested unserializable return value
+https://hackerone.com/reports/2139047 | Jenkins server access due to weak password
 https://hackerone.com/reports/2139190 | IDOR: Authorization Bypass in LockReport Mutation for public reports
+https://hackerone.com/reports/2139260 | Intent Leads To Unauthorised Video Call Initiation Leaking Surrounding Informations Of Victim
 https://hackerone.com/reports/2140960 | Ability to see hidden likes
+https://hackerone.com/reports/2140976 | Subdomain takeover on one of the subdomain under mozgcp.net
 https://hackerone.com/reports/2144868 | CVE-2023-40611: Apache Airflow Dag Runs Broken Access Control Vulnerability
 https://hackerone.com/reports/2146691 | [curl] CVE-2023-38039: HTTP header allocation DOS
 https://hackerone.com/reports/2147132 | Security bug https://bugzilla.mozilla.org/oauth/authorize - CRLF Header injection via "redirect_uri" parameter
