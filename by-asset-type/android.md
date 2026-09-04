@@ -1,4 +1,4 @@
-# Asset Type: Android (104 reports)
+# Asset Type: Android (105 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -61,50 +61,51 @@
 | 55 | [865828](../reports/865828.md) | Incorrect control of the trial period | [Nord Security](../by-program/nordsecurity.md) | com.nordvpn.android | Medium | — | 188 |
 | 56 | [424443](../reports/424443.md) | [PayPal Android] Remote theft of user session using pus | [PayPal](../by-program/paypal.md) | com.paypal.android.p2pmobile | Medium — CVSS 5.4 | — | 187 |
 | 57 | [2516732](../reports/2516732.md) | Account takeover via insecure intent handling   | [Basecamp](../by-program/basecamp.md) | com.basecamp.bc3 | Medium — CVSS 6.8 | — | 134 |
-| 58 | [824931](../reports/824931.md) | Grammarly Keyboard for Android "Authorization Code with | [Superhuman (formerly Grammarly)](../by-program/superhuman.md) | com.grammarly.android.keyboard | Medium — CVSS 6.5 | — | 76 |
-| 59 | [736283](../reports/736283.md) | open Firebase Database: msdict-dev.firebaseio.com | [MobiSystems Ltd.](../by-program/mobisystems_ltd.md) | com.mobisystems.msdict.embedded.wireless | Medium — CVSS 6.1 | — | 69 |
-| 60 | [2553411](../reports/2553411.md) | Path traversal in deeplink query parameter can expose a | [Basecamp](../by-program/basecamp.md) | com.basecamp.bc3 | Medium — CVSS 5.5 | — | 64 |
-| 61 | [1941767](../reports/1941767.md) | MetaMask Browser (on Android) does not enforce Content- | [MetaMask](../by-program/metamask.md) | io.metamask | Medium — CVSS 4.7 | — | 62 |
-| 62 | [1747978](../reports/1747978.md) | bypass two-factor authentication in Android apps and we | [TikTok](../by-program/tiktok.md) | com.ss.android.ugc.now | Medium | — | 55 |
-| 63 | [537670](../reports/537670.md) | [Zomato for Business Android] Vulnerability in exported | [Eternal](../by-program/eternal.md) | com.application.zomatomerchant | Medium | — | 52 |
-| 64 | [283063](../reports/283063.md) | [IRCCloud Android] XSS in ImageViewerActivity | [IRCCloud](../by-program/irccloud.md) | com.irccloud.android | Medium | — | 44 |
-| 65 | [1997029](../reports/1997029.md) | Path traversal allows tricking the Talk Android app int | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.talk2 | Medium — CVSS 4.4 | — | 41 |
-| 66 | [764243](../reports/764243.md) | API - Amazon S3 bucket misconfiguration | [BCM Messenger](../by-program/bcm.md) | com.bcm.messenger | Medium | — | 35 |
-| 67 | [1929915](../reports/1929915.md) | Bypass for forced re-authentication upon biometrics cha | [Bitwarden](../by-program/bitwarden.md) | com.x8bit.bitwarden | Medium — CVSS 6.6 | — | 34 |
-| 68 | [1122177](../reports/1122177.md) | Third party app could steal access token as well as pro | [Reddit](../by-program/reddit.md) | com.reddit.frontpage | Medium | — | 31 |
-| 69 | [2552879](../reports/2552879.md) | Navgraph confusion allows any 3p app to send and read r | [Basecamp](../by-program/basecamp.md) | com.basecamp.hey | Medium — CVSS 5.5 | — | 29 |
-| 70 | [1142918](../reports/1142918.md) | Leak arbitrary file under nextcloud android client priv | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Medium | — | 25 |
-| 71 | [1058383](../reports/1058383.md) | DoS of LINE client for Android via message containing m | [LY Corporation](../by-program/line.md) | jp.naver.line.android | Medium — CVSS 4.3 | — | 23 |
-| 72 | [283058](../reports/283058.md) | [IRCCloud Android] Opening arbitrary URLs/XSS in SAMLAu | [IRCCloud](../by-program/irccloud.md) | com.irccloud.android | Medium | — | 16 |
-| 73 | [1094702](../reports/1094702.md) | Theft of arbitrary files in LINE Lite client for Androi | [LY Corporation](../by-program/line.md) | com.linecorp.linelite | Medium — CVSS 4.3 | — | 12 |
-| 74 | [1338781](../reports/1338781.md) | User files is disclosed when someone called while the s | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.talk2 | Medium | — | 9 |
-| 75 | [631206](../reports/631206.md) | Passcode Protection in Android Devices Can be Bypassed. | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Medium | — | 6 |
-| 76 | [462441](../reports/462441.md) | Retrieval and alteration of exposed media on Android Or | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Medium — CVSS 5.9 | — | 3 |
-| 77 | [1325649](../reports/1325649.md) | com.reddit.frontpage vulernable to Task Hijacking (aka  | [Reddit](../by-program/reddit.md) | com.reddit.frontpage | Medium | — | 2 |
-| 78 | [3696266](../reports/3696266.md) | Path Traversal in Nextcloud Talk Android Exposes User C | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.talk2 | Medium — CVSS 4.5 | — | 0 |
-| 79 | [668439](../reports/668439.md) | IDOR leading to downloading of any attachment | [BCM Messenger](../by-program/bcm.md) | com.bcm.messenger | Low | — | 113 |
-| 80 | [462416](../reports/462416.md) | Grammarly Keyboard for Android <4.1  leaks user input t | [Superhuman (formerly Grammarly)](../by-program/superhuman.md) | com.grammarly.android.keyboard | Low | — | 84 |
-| 81 | [331489](../reports/331489.md) | Extremly simple way to bypass Nextcloud-Client PIN/Fing | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 2.1 | — | 58 |
-| 82 | [1253926](../reports/1253926.md) | Domain Takeover [3737signals.com] | [Basecamp](../by-program/basecamp.md) | com.basecamp.bc3 | Low | — | 47 |
-| 83 | [1784645](../reports/1784645.md) | Passcode bypass on Talk Android app | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.talk2 | Low — CVSS 2.5 | — | 29 |
-| 84 | [1793940](../reports/1793940.md) | Any user can vote on `Friend Only` video pull | [TikTok](../by-program/tiktok.md) | com.zhiliaoapp.musically | Low — CVSS 3.1 | — | 26 |
-| 85 | [289000](../reports/289000.md) | Vulnerable exported broadcast receiver | [Bitwarden](../by-program/bitwarden.md) | com.x8bit.bitwarden | Low | — | 23 |
-| 86 | [486629](../reports/486629.md) | Improper validation allows user to unlock Zomato Gold m | [Eternal](../by-program/eternal.md) | com.application.zomato | Low | — | 22 |
-| 87 | [1222873](../reports/1222873.md) | Sensitive files/ data exists  post deletion of user acc | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 2.1 | — | 20 |
-| 88 | [1596459](../reports/1596459.md) | Talk Android broadcast receiver is not protected by bro | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.talk2 | Low — CVSS 2.6 | — | 19 |
-| 89 | [1825679](../reports/1825679.md) | App pin of the Android app can be bypassed via 3rdparty | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 1.8 | — | 17 |
-| 90 | [507172](../reports/507172.md) | Able to bypass "Device credentials" Lock | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 3.8 | — | 12 |
-| 91 | [1455987](../reports/1455987.md) | Improper Implementation of SDK Allows Universal XSS in  | [EXNESS](../by-program/exness.md) | com.exness.investments | Low | — | 11 |
-| 92 | [3829030](../reports/3829030.md) | Debug Deep Link Abuse Allows Repeated Forced Logout and | [Yelp](../by-program/yelp.md) | com.yelp.android.biz | Low — CVSS 3.3 | — | 11 |
-| 93 | [331302](../reports/331302.md) | Improper protection of FileContentProvider | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low | — | 7 |
-| 94 | [328486](../reports/328486.md) | [Zomato Android/iOS] Theft of user session | [Eternal](../by-program/eternal.md) | com.application.zomato | None | — | 68 |
-| 95 | [1095633](../reports/1095633.md) | [VK Android] Access to app protected components leads t | [VK.com](../by-program/vkcom.md) | com.vkontakte.android | None | — | 43 |
-| 96 | [3399016](../reports/3399016.md) | Improper input validation On Exported deep-link handler | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | None | — | 28 |
-| 97 | [54631](../reports/54631.md) | Vulnerable to JavaScript injection. (WXS)  (Javascript  | [Snapchat](../by-program/snapchat.md) | com.snapchat.android | None | — | 13 |
-| 98 | [792850](../reports/792850.md) | Hard-coded API keys at NordVpn Android App | [Nord Security](../by-program/nordsecurity.md) | com.nordvpn.android | None | — | 11 |
-| 99 | [803941](../reports/803941.md) | NordVPN Android Application privacy violation due to Go | [Nord Security](../by-program/nordsecurity.md) | com.nordvpn.android | None | — | 11 |
-| 100 | [731724](../reports/731724.md) | Firebase Firestore insecure database | [MobiSystems Ltd.](../by-program/mobisystems_ltd.md) | com.mobisystems.msdict.embedded.wireless | None | — | 11 |
-| 101 | [819333](../reports/819333.md) | Mathematical error  found in meals for one | [Eternal](../by-program/eternal.md) | com.application.zomato | None | — | 10 |
-| 102 | [631227](../reports/631227.md) | Some HTML Tags are Getting Executed in com.nextcloud.cl | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | None | — | 9 |
-| 103 | [764558](../reports/764558.md) | Account Takeover with old password and login QR | [BCM Messenger](../by-program/bcm.md) | com.bcm.messenger | None | — | 5 |
-| 104 | [292500](../reports/292500.md) | User provided values passed to PHP unset() function | [Coinbase](../by-program/coinbase.md) | com.coinbase.android | None | — | 1 |
+| 58 | [2139260](../reports/2139260.md) | Intent Leads To Unauthorised Video Call Initiation Leak | [Snapchat](../by-program/snapchat.md) | com.snapchat.android | Medium — CVSS 6.5 | — | 126 |
+| 59 | [824931](../reports/824931.md) | Grammarly Keyboard for Android "Authorization Code with | [Superhuman (formerly Grammarly)](../by-program/superhuman.md) | com.grammarly.android.keyboard | Medium — CVSS 6.5 | — | 76 |
+| 60 | [736283](../reports/736283.md) | open Firebase Database: msdict-dev.firebaseio.com | [MobiSystems Ltd.](../by-program/mobisystems_ltd.md) | com.mobisystems.msdict.embedded.wireless | Medium — CVSS 6.1 | — | 69 |
+| 61 | [2553411](../reports/2553411.md) | Path traversal in deeplink query parameter can expose a | [Basecamp](../by-program/basecamp.md) | com.basecamp.bc3 | Medium — CVSS 5.5 | — | 64 |
+| 62 | [1941767](../reports/1941767.md) | MetaMask Browser (on Android) does not enforce Content- | [MetaMask](../by-program/metamask.md) | io.metamask | Medium — CVSS 4.7 | — | 62 |
+| 63 | [1747978](../reports/1747978.md) | bypass two-factor authentication in Android apps and we | [TikTok](../by-program/tiktok.md) | com.ss.android.ugc.now | Medium | — | 55 |
+| 64 | [537670](../reports/537670.md) | [Zomato for Business Android] Vulnerability in exported | [Eternal](../by-program/eternal.md) | com.application.zomatomerchant | Medium | — | 52 |
+| 65 | [283063](../reports/283063.md) | [IRCCloud Android] XSS in ImageViewerActivity | [IRCCloud](../by-program/irccloud.md) | com.irccloud.android | Medium | — | 44 |
+| 66 | [1997029](../reports/1997029.md) | Path traversal allows tricking the Talk Android app int | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.talk2 | Medium — CVSS 4.4 | — | 41 |
+| 67 | [764243](../reports/764243.md) | API - Amazon S3 bucket misconfiguration | [BCM Messenger](../by-program/bcm.md) | com.bcm.messenger | Medium | — | 35 |
+| 68 | [1929915](../reports/1929915.md) | Bypass for forced re-authentication upon biometrics cha | [Bitwarden](../by-program/bitwarden.md) | com.x8bit.bitwarden | Medium — CVSS 6.6 | — | 34 |
+| 69 | [1122177](../reports/1122177.md) | Third party app could steal access token as well as pro | [Reddit](../by-program/reddit.md) | com.reddit.frontpage | Medium | — | 31 |
+| 70 | [2552879](../reports/2552879.md) | Navgraph confusion allows any 3p app to send and read r | [Basecamp](../by-program/basecamp.md) | com.basecamp.hey | Medium — CVSS 5.5 | — | 29 |
+| 71 | [1142918](../reports/1142918.md) | Leak arbitrary file under nextcloud android client priv | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Medium | — | 25 |
+| 72 | [1058383](../reports/1058383.md) | DoS of LINE client for Android via message containing m | [LY Corporation](../by-program/line.md) | jp.naver.line.android | Medium — CVSS 4.3 | — | 23 |
+| 73 | [283058](../reports/283058.md) | [IRCCloud Android] Opening arbitrary URLs/XSS in SAMLAu | [IRCCloud](../by-program/irccloud.md) | com.irccloud.android | Medium | — | 16 |
+| 74 | [1094702](../reports/1094702.md) | Theft of arbitrary files in LINE Lite client for Androi | [LY Corporation](../by-program/line.md) | com.linecorp.linelite | Medium — CVSS 4.3 | — | 12 |
+| 75 | [1338781](../reports/1338781.md) | User files is disclosed when someone called while the s | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.talk2 | Medium | — | 9 |
+| 76 | [631206](../reports/631206.md) | Passcode Protection in Android Devices Can be Bypassed. | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Medium | — | 6 |
+| 77 | [462441](../reports/462441.md) | Retrieval and alteration of exposed media on Android Or | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Medium — CVSS 5.9 | — | 3 |
+| 78 | [1325649](../reports/1325649.md) | com.reddit.frontpage vulernable to Task Hijacking (aka  | [Reddit](../by-program/reddit.md) | com.reddit.frontpage | Medium | — | 2 |
+| 79 | [3696266](../reports/3696266.md) | Path Traversal in Nextcloud Talk Android Exposes User C | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.talk2 | Medium — CVSS 4.5 | — | 0 |
+| 80 | [668439](../reports/668439.md) | IDOR leading to downloading of any attachment | [BCM Messenger](../by-program/bcm.md) | com.bcm.messenger | Low | — | 113 |
+| 81 | [462416](../reports/462416.md) | Grammarly Keyboard for Android <4.1  leaks user input t | [Superhuman (formerly Grammarly)](../by-program/superhuman.md) | com.grammarly.android.keyboard | Low | — | 84 |
+| 82 | [331489](../reports/331489.md) | Extremly simple way to bypass Nextcloud-Client PIN/Fing | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 2.1 | — | 58 |
+| 83 | [1253926](../reports/1253926.md) | Domain Takeover [3737signals.com] | [Basecamp](../by-program/basecamp.md) | com.basecamp.bc3 | Low | — | 47 |
+| 84 | [1784645](../reports/1784645.md) | Passcode bypass on Talk Android app | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.talk2 | Low — CVSS 2.5 | — | 29 |
+| 85 | [1793940](../reports/1793940.md) | Any user can vote on `Friend Only` video pull | [TikTok](../by-program/tiktok.md) | com.zhiliaoapp.musically | Low — CVSS 3.1 | — | 26 |
+| 86 | [289000](../reports/289000.md) | Vulnerable exported broadcast receiver | [Bitwarden](../by-program/bitwarden.md) | com.x8bit.bitwarden | Low | — | 23 |
+| 87 | [486629](../reports/486629.md) | Improper validation allows user to unlock Zomato Gold m | [Eternal](../by-program/eternal.md) | com.application.zomato | Low | — | 22 |
+| 88 | [1222873](../reports/1222873.md) | Sensitive files/ data exists  post deletion of user acc | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 2.1 | — | 20 |
+| 89 | [1596459](../reports/1596459.md) | Talk Android broadcast receiver is not protected by bro | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.talk2 | Low — CVSS 2.6 | — | 19 |
+| 90 | [1825679](../reports/1825679.md) | App pin of the Android app can be bypassed via 3rdparty | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 1.8 | — | 17 |
+| 91 | [507172](../reports/507172.md) | Able to bypass "Device credentials" Lock | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 3.8 | — | 12 |
+| 92 | [1455987](../reports/1455987.md) | Improper Implementation of SDK Allows Universal XSS in  | [EXNESS](../by-program/exness.md) | com.exness.investments | Low | — | 11 |
+| 93 | [3829030](../reports/3829030.md) | Debug Deep Link Abuse Allows Repeated Forced Logout and | [Yelp](../by-program/yelp.md) | com.yelp.android.biz | Low — CVSS 3.3 | — | 11 |
+| 94 | [331302](../reports/331302.md) | Improper protection of FileContentProvider | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low | — | 7 |
+| 95 | [328486](../reports/328486.md) | [Zomato Android/iOS] Theft of user session | [Eternal](../by-program/eternal.md) | com.application.zomato | None | — | 68 |
+| 96 | [1095633](../reports/1095633.md) | [VK Android] Access to app protected components leads t | [VK.com](../by-program/vkcom.md) | com.vkontakte.android | None | — | 43 |
+| 97 | [3399016](../reports/3399016.md) | Improper input validation On Exported deep-link handler | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | None | — | 28 |
+| 98 | [54631](../reports/54631.md) | Vulnerable to JavaScript injection. (WXS)  (Javascript  | [Snapchat](../by-program/snapchat.md) | com.snapchat.android | None | — | 13 |
+| 99 | [792850](../reports/792850.md) | Hard-coded API keys at NordVpn Android App | [Nord Security](../by-program/nordsecurity.md) | com.nordvpn.android | None | — | 11 |
+| 100 | [803941](../reports/803941.md) | NordVPN Android Application privacy violation due to Go | [Nord Security](../by-program/nordsecurity.md) | com.nordvpn.android | None | — | 11 |
+| 101 | [731724](../reports/731724.md) | Firebase Firestore insecure database | [MobiSystems Ltd.](../by-program/mobisystems_ltd.md) | com.mobisystems.msdict.embedded.wireless | None | — | 11 |
+| 102 | [819333](../reports/819333.md) | Mathematical error  found in meals for one | [Eternal](../by-program/eternal.md) | com.application.zomato | None | — | 10 |
+| 103 | [631227](../reports/631227.md) | Some HTML Tags are Getting Executed in com.nextcloud.cl | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | None | — | 9 |
+| 104 | [764558](../reports/764558.md) | Account Takeover with old password and login QR | [BCM Messenger](../by-program/bcm.md) | com.bcm.messenger | None | — | 5 |
+| 105 | [292500](../reports/292500.md) | User provided values passed to PHP unset() function | [Coinbase](../by-program/coinbase.md) | com.coinbase.android | None | — | 1 |

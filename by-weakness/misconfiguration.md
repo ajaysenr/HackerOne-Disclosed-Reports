@@ -1,4 +1,4 @@
-# Weakness: Misconfiguration (59 reports)
+# Weakness: Misconfiguration (62 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -33,33 +33,36 @@
 | 27 | [2545012](../reports/2545012.md) | Subdomain takeover on one of the subdomains under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 49 |
 | 28 | [2286867](../reports/2286867.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 44 |
 | 29 | [2287098](../reports/2287098.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 40 |
-| 30 | [2262939](../reports/2262939.md) | Misconfiguration in AWS CloudFront CDN configuration makes rubyge | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 37 |
-| 31 | [2285286](../reports/2285286.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 37 |
-| 32 | [2398630](../reports/2398630.md) | Subdomain takeover on one of the subdomains under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 34 |
-| 33 | [1085743](../reports/1085743.md) | No error thrown when IDOR attempted while editing address | [OpenMage](../by-program/openmage.md) | Medium | — | 33 |
-| 34 | [2017323](../reports/2017323.md) | Subdomain takeover on one of the subdomain under mozilla.org | [Mozilla](../by-program/mozilla.md) | Medium | — | 31 |
-| 35 | [1019367](../reports/1019367.md) | Memory Dump and Env Disclosure via Spring Boot Actuator | [Stripo Inc](../by-program/stripo.md) | Medium | — | 28 |
-| 36 | [2171494](../reports/2171494.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 10 |
-| 37 | [2123680](../reports/2123680.md) | Subdomain takeover on one of the subdomain under mozgcp.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 7 |
-| 38 | [1354382](../reports/1354382.md) | Password Reuse | [UPchieve](../by-program/upchieve.md) | Medium | — | 6 |
-| 39 | [1354368](../reports/1354368.md) | Missing Validation in editing  "Your Phone Number"  | [UPchieve](../by-program/upchieve.md) | Medium | — | 4 |
-| 40 | [2129791](../reports/2129791.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 4 |
-| 41 | [2127469](../reports/2127469.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 3 |
-| 42 | [2523654](../reports/2523654.md) | Subdomain takeover in Gitlab pages | [GitLab](../by-program/gitlab.md) | Low — CVSS 3.5 | — | 79 |
-| 43 | [2599840](../reports/2599840.md) | Remove obsolete domain from handbook subdomain | [GitLab](../by-program/gitlab.md) | Low | — | 72 |
-| 44 | [1132803](../reports/1132803.md) | Graphql introspection is enabled and leaks details about the sche | [On ](../by-program/on.md) | Low | — | 55 |
-| 45 | [2000000](../reports/2000000.md) | 2M Reports on HackerOne Celebration! - Ability to bulk-submit man | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | — | 54 |
-| 46 | [2679440](../reports/2679440.md) | Unauthenticated Varnish Cache Purge | [Adobe](../by-program/adobe.md) | Low — CVSS 3.7 | — | 43 |
-| 47 | [2011298](../reports/2011298.md) | The `stripe/veneur` GitHub repository links to a domain `veneur.o | [Stripe](../by-program/stripe.md) | Low — CVSS 2.0 | — | 26 |
-| 48 | [1139541](../reports/1139541.md) | Enumerating HackerOne Pentests | [HackerOne](../by-program/security.md) | Low — CVSS 3.7 | — | 16 |
-| 49 | [1416701](../reports/1416701.md) | Missing SPF record on trycourier.app | [Courier](../by-program/trycourier.md) | Low | — | 8 |
-| 50 | [1187018](../reports/1187018.md) | wrong url in hackerone > goes to wix.com > unconnected | [Sifchain](../by-program/sifchain.md) | Low | — | 5 |
-| 51 | [2082680](../reports/2082680.md) | Register & create a ticket as somebody else on HackerOne Support  | [HackerOne](../by-program/security.md) | None | — | 56 |
-| 52 | [2666151](../reports/2666151.md) | phpinfo() exposed on ██████████ | [Mars](../by-program/mars.md) | None | — | 35 |
-| 53 | [2001913](../reports/2001913.md) | Create miscellaneous support ticket on anyone's account through s | [HackerOne](../by-program/security.md) | None | — | 29 |
-| 54 | [168476](../reports/168476.md) | Incoming email hijacking on sc-cdn.net | [Snapchat](../by-program/snapchat.md) | None | — | 24 |
-| 55 | [2068830](../reports/2068830.md) | HackerOne Support System Doesn't Require Any Authentication May L | [HackerOne](../by-program/security.md) | None | — | 20 |
-| 56 | [1194280](../reports/1194280.md) | CORS Misconfiguration | [Sifchain](../by-program/sifchain.md) | None | — | 9 |
-| 57 | [1160381](../reports/1160381.md) | Захват домена ozoncorporate.ru | [Ozon](../by-program/ozon.md) | None | — | 8 |
-| 58 | [1194293](../reports/1194293.md) | Wrong implementation of Telegram link on the main page for PC use | [Sifchain](../by-program/sifchain.md) | None | — | 8 |
-| 59 | [1065830](../reports/1065830.md) | Error Page Text Injection (no compromise) | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | None | — | 4 |
+| 30 | [2140976](../reports/2140976.md) | Subdomain takeover on one of the subdomain under mozgcp.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 39 |
+| 31 | [2262939](../reports/2262939.md) | Misconfiguration in AWS CloudFront CDN configuration makes rubyge | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 37 |
+| 32 | [2285286](../reports/2285286.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 37 |
+| 33 | [2398630](../reports/2398630.md) | Subdomain takeover on one of the subdomains under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 34 |
+| 34 | [1085743](../reports/1085743.md) | No error thrown when IDOR attempted while editing address | [OpenMage](../by-program/openmage.md) | Medium | — | 33 |
+| 35 | [2017323](../reports/2017323.md) | Subdomain takeover on one of the subdomain under mozilla.org | [Mozilla](../by-program/mozilla.md) | Medium | — | 31 |
+| 36 | [1019367](../reports/1019367.md) | Memory Dump and Env Disclosure via Spring Boot Actuator | [Stripo Inc](../by-program/stripo.md) | Medium | — | 28 |
+| 37 | [2135054](../reports/2135054.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 15 |
+| 38 | [2171494](../reports/2171494.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 10 |
+| 39 | [2123680](../reports/2123680.md) | Subdomain takeover on one of the subdomain under mozgcp.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 7 |
+| 40 | [1354382](../reports/1354382.md) | Password Reuse | [UPchieve](../by-program/upchieve.md) | Medium | — | 6 |
+| 41 | [1354368](../reports/1354368.md) | Missing Validation in editing  "Your Phone Number"  | [UPchieve](../by-program/upchieve.md) | Medium | — | 4 |
+| 42 | [2129791](../reports/2129791.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 4 |
+| 43 | [2127469](../reports/2127469.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 3 |
+| 44 | [2134671](../reports/2134671.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 3 |
+| 45 | [2523654](../reports/2523654.md) | Subdomain takeover in Gitlab pages | [GitLab](../by-program/gitlab.md) | Low — CVSS 3.5 | — | 79 |
+| 46 | [2599840](../reports/2599840.md) | Remove obsolete domain from handbook subdomain | [GitLab](../by-program/gitlab.md) | Low | — | 72 |
+| 47 | [1132803](../reports/1132803.md) | Graphql introspection is enabled and leaks details about the sche | [On ](../by-program/on.md) | Low | — | 55 |
+| 48 | [2000000](../reports/2000000.md) | 2M Reports on HackerOne Celebration! - Ability to bulk-submit man | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | — | 54 |
+| 49 | [2679440](../reports/2679440.md) | Unauthenticated Varnish Cache Purge | [Adobe](../by-program/adobe.md) | Low — CVSS 3.7 | — | 43 |
+| 50 | [2011298](../reports/2011298.md) | The `stripe/veneur` GitHub repository links to a domain `veneur.o | [Stripe](../by-program/stripe.md) | Low — CVSS 2.0 | — | 26 |
+| 51 | [1139541](../reports/1139541.md) | Enumerating HackerOne Pentests | [HackerOne](../by-program/security.md) | Low — CVSS 3.7 | — | 16 |
+| 52 | [1416701](../reports/1416701.md) | Missing SPF record on trycourier.app | [Courier](../by-program/trycourier.md) | Low | — | 8 |
+| 53 | [1187018](../reports/1187018.md) | wrong url in hackerone > goes to wix.com > unconnected | [Sifchain](../by-program/sifchain.md) | Low | — | 5 |
+| 54 | [2082680](../reports/2082680.md) | Register & create a ticket as somebody else on HackerOne Support  | [HackerOne](../by-program/security.md) | None | — | 56 |
+| 55 | [2666151](../reports/2666151.md) | phpinfo() exposed on ██████████ | [Mars](../by-program/mars.md) | None | — | 35 |
+| 56 | [2001913](../reports/2001913.md) | Create miscellaneous support ticket on anyone's account through s | [HackerOne](../by-program/security.md) | None | — | 29 |
+| 57 | [168476](../reports/168476.md) | Incoming email hijacking on sc-cdn.net | [Snapchat](../by-program/snapchat.md) | None | — | 24 |
+| 58 | [2068830](../reports/2068830.md) | HackerOne Support System Doesn't Require Any Authentication May L | [HackerOne](../by-program/security.md) | None | — | 20 |
+| 59 | [1194280](../reports/1194280.md) | CORS Misconfiguration | [Sifchain](../by-program/sifchain.md) | None | — | 9 |
+| 60 | [1160381](../reports/1160381.md) | Захват домена ozoncorporate.ru | [Ozon](../by-program/ozon.md) | None | — | 8 |
+| 61 | [1194293](../reports/1194293.md) | Wrong implementation of Telegram link on the main page for PC use | [Sifchain](../by-program/sifchain.md) | None | — | 8 |
+| 62 | [1065830](../reports/1065830.md) | Error Page Text Injection (no compromise) | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | None | — | 4 |

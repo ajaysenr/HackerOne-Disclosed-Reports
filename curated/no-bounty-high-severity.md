@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1788 total)
+# High/Critical Severity — No Bounty Paid (1789 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -976,6 +976,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [958432](../reports/958432.md) | Corporate Jira credentials disclosed in public gist | [Azbuka Vkusa](../by-program/av.md) | High — CVSS 8.3 | Resolved | 40 |
 | [838127](../reports/838127.md) | mb_strtolower (UTF-32LE): stack-buffer-overflow at php_unicode_to | [Internet Bug Bounty](../by-program/ibb.md) | High | Resolved | 40 |
 | [380158](../reports/380158.md) | svcardproxydevus.starbucks.com Subdomain take over | [Starbucks](../by-program/starbucks.md) | High | Resolved | 39 |
+| [2139047](../reports/2139047.md) | Jenkins server access due to weak password | [IBM](../by-program/ibm.md) | High | Resolved | 39 |
 | [2122938](../reports/2122938.md) | debug.log File Exposure that exposes (user/████) username and pas | [Mars](../by-program/mars.md) | High | Resolved | 39 |
 | [864489](../reports/864489.md) | Workspace configuration metadata disclosure | [Slack](../by-program/slack.md) | High — CVSS 7.5 | Resolved | 39 |
 | [294201](../reports/294201.md) | subdomain takeover at news-static.semrush.com | [Semrush](../by-program/semrush.md) | High | Resolved | 39 |

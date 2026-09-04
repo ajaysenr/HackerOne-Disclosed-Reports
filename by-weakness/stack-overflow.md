@@ -1,4 +1,4 @@
-# Weakness: Stack Overflow (19 reports)
+# Weakness: Stack Overflow (20 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -19,7 +19,8 @@
 | 13 | [480984](../reports/480984.md) | Stack overflow affecting "ext" field on stylers.xml configuration | [Notepad++](../by-program/notepad-plus-plus.md) | Medium — CVSS 6.8 | — | 51 |
 | 14 | [2611669](../reports/2611669.md) | [Switch, PIA/MK8DX] Stack buffer overflow and potential RCE in PI | [Nintendo](../by-program/nintendo.md) | Medium — CVSS 4.3 | — | 36 |
 | 15 | [221833](../reports/221833.md) | [https://jenkins.brew.sh] Jenkins in Debug Mode with Stack Traces | [Homebrew](../by-program/homebrew.md) | Medium | — | 14 |
-| 16 | [1753224](../reports/1753224.md) | CVE-2022-35260: .netrc parser out-of-bounds access | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 11 |
-| 17 | [497255](../reports/497255.md) | A stack buffer overflow in BabyGrid.cpp can lead to program crash | [Notepad++](../by-program/notepad-plus-plus.md) | Low | — | 8 |
-| 18 | [2551512](../reports/2551512.md) | [Wii U/3DS/Switch] Improper bounds check in StationURL in all NEX | [Nintendo](../by-program/nintendo.md) | Low — CVSS 2.4 | — | 1 |
-| 19 | [390499](../reports/390499.md) | Stack Overflow in JSON RPC Server | [Monero](../by-program/monero.md) | None | — | 10 |
+| 16 | [3769676](../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated | [MariaDB](../by-program/mariadb.md) | Medium | — | 2 |
+| 17 | [1753224](../reports/1753224.md) | CVE-2022-35260: .netrc parser out-of-bounds access | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 11 |
+| 18 | [497255](../reports/497255.md) | A stack buffer overflow in BabyGrid.cpp can lead to program crash | [Notepad++](../by-program/notepad-plus-plus.md) | Low | — | 8 |
+| 19 | [2551512](../reports/2551512.md) | [Wii U/3DS/Switch] Improper bounds check in StationURL in all NEX | [Nintendo](../by-program/nintendo.md) | Low — CVSS 2.4 | — | 1 |
+| 20 | [390499](../reports/390499.md) | Stack Overflow in JSON RPC Server | [Monero](../by-program/monero.md) | None | — | 10 |

@@ -160622,6 +160622,24 @@
     "votes": 42
   },
   {
+    "id": 2134671,
+    "url": "https://hackerone.com/reports/2134671",
+    "title": "Subdomain takeover on one of the subdomain under mozaws.net",
+    "program": "Mozilla",
+    "program_handle": "mozilla",
+    "reporter": "d0xing",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Misconfiguration",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-09-04",
+    "disclosed_at": "2024-02-11",
+    "votes": 3
+  },
+  {
     "id": 2134874,
     "url": "https://hackerone.com/reports/2134874",
     "title": "Hackers two email disclosed on  submission at hackerone hactivity",
@@ -160638,6 +160656,24 @@
     "reported_at": "2023-09-04",
     "disclosed_at": "2023-10-18",
     "votes": 43
+  },
+  {
+    "id": 2135054,
+    "url": "https://hackerone.com/reports/2135054",
+    "title": "Subdomain takeover on one of the subdomain under mozaws.net",
+    "program": "Mozilla",
+    "program_handle": "mozilla",
+    "reporter": "d0xing",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Misconfiguration",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-09-05",
+    "disclosed_at": "2023-10-04",
+    "votes": 15
   },
   {
     "id": 2137154,
@@ -160678,6 +160714,24 @@
     "votes": 15
   },
   {
+    "id": 2139047,
+    "url": "https://hackerone.com/reports/2139047",
+    "title": "Jenkins server access due to weak password",
+    "program": "IBM",
+    "program_handle": "ibm",
+    "reporter": "bugoverflow",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Improper Authentication - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "OTHER",
+    "reported_at": "2023-09-07",
+    "disclosed_at": "2024-02-29",
+    "votes": 39
+  },
+  {
     "id": 2139190,
     "url": "https://hackerone.com/reports/2139190",
     "title": "IDOR: Authorization Bypass in LockReport Mutation for public reports",
@@ -160696,6 +160750,24 @@
     "votes": 111
   },
   {
+    "id": 2139260,
+    "url": "https://hackerone.com/reports/2139260",
+    "title": "Intent Leads To Unauthorised Video Call Initiation Leaking Surrounding Informations Of Victim",
+    "program": "Snapchat",
+    "program_handle": "snapchat",
+    "reporter": "hulkvision_",
+    "severity": "medium",
+    "cvss": 6.5,
+    "weakness": "Privacy Violation",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "GOOGLE_PLAY_APP_ID",
+    "reported_at": "2023-09-07",
+    "disclosed_at": "2024-04-05",
+    "votes": 126
+  },
+  {
     "id": 2140960,
     "url": "https://hackerone.com/reports/2140960",
     "title": "Ability to see hidden likes",
@@ -160712,6 +160784,24 @@
     "reported_at": "2023-09-08",
     "disclosed_at": "2024-05-10",
     "votes": 80
+  },
+  {
+    "id": 2140976,
+    "url": "https://hackerone.com/reports/2140976",
+    "title": "Subdomain takeover on one of the subdomain under mozgcp.net",
+    "program": "Mozilla",
+    "program_handle": "mozilla",
+    "reporter": "mikey96",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Misconfiguration",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-09-08",
+    "disclosed_at": "2023-11-12",
+    "votes": 39
   },
   {
     "id": 2144868,
@@ -182495,6 +182585,24 @@
     "votes": 1
   },
   {
+    "id": 3769676,
+    "url": "https://hackerone.com/reports/3769676",
+    "title": "Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire Server",
+    "program": "MariaDB",
+    "program_handle": "mariadb",
+    "reporter": "byteoverride",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Stack Overflow",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-05-29",
+    "disclosed_at": "2026-09-03",
+    "votes": 2
+  },
+  {
     "id": 3770979,
     "url": "https://hackerone.com/reports/3770979",
     "title": "SMTP connection reuse ignores --ssl-reqd / CURLOPT_USE_SSL and reuses a clear-text STARTTLS session on current master",
@@ -184203,6 +184311,26 @@
     "votes": 0
   },
   {
+    "id": 3923520,
+    "url": "https://hackerone.com/reports/3923520",
+    "title": "CVE-2026-19931: Negotiate ambient user conn reuse",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "dukek",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Authentication Bypass by Primary Weakness",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-19931"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-07",
+    "disclosed_at": "2026-09-03",
+    "votes": 3
+  },
+  {
     "id": 3930957,
     "url": "https://hackerone.com/reports/3930957",
     "title": " Myndr CORS Misconfiguration",
@@ -184441,6 +184569,66 @@
     "votes": 0
   },
   {
+    "id": 3969255,
+    "url": "https://hackerone.com/reports/3969255",
+    "title": "CVE-2026-80229: OpenSSL provider use-after-free",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": "none",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-80229"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-25",
+    "disclosed_at": "2026-09-03",
+    "votes": 2
+  },
+  {
+    "id": 3969300,
+    "url": "https://hackerone.com/reports/3969300",
+    "title": "CVE-2026-80230: OpenSSL pinning bypass",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": "none",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-80230"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-25",
+    "disclosed_at": "2026-09-03",
+    "votes": 2
+  },
+  {
+    "id": 3969368,
+    "url": "https://hackerone.com/reports/3969368",
+    "title": "CVE-2026-80231: native CA store conn reuse",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": "low",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-80231"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-25",
+    "disclosed_at": "2026-09-03",
+    "votes": 3
+  },
+  {
     "id": 3969820,
     "url": "https://hackerone.com/reports/3969820",
     "title": "CVE-2026-80256: wcurl backslash bypass",
@@ -184570,6 +184758,66 @@
     "reported_at": "2026-08-26",
     "disclosed_at": "2026-08-28",
     "votes": 2
+  },
+  {
+    "id": 3972385,
+    "url": "https://hackerone.com/reports/3972385",
+    "title": "CVE-2026-82209: domain-scoped PSL domain cookie",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Information Disclosure",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-82209"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-26",
+    "disclosed_at": "2026-09-03",
+    "votes": 4
+  },
+  {
+    "id": 3972395,
+    "url": "https://hackerone.com/reports/3972395",
+    "title": "CVE-2026-80255: secure cookie attribute bypass with tab",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Improper Input Validation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-80255"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-26",
+    "disclosed_at": "2026-09-03",
+    "votes": 0
+  },
+  {
+    "id": 3973090,
+    "url": "https://hackerone.com/reports/3973090",
+    "title": "CVE-2026-82208: wolfSSL CA-cache hit overrides callback",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Improper Certificate Validation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-82208"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-27",
+    "disclosed_at": "2026-09-03",
+    "votes": 1
   },
   {
     "id": 3973093,

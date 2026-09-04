@@ -1,4 +1,4 @@
-# Snapchat — Disclosed Reports (33 total)
+# Snapchat — Disclosed Reports (34 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -23,17 +23,18 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 17 | [396467](../reports/396467.md) | Github Token Leaked publicly for https://github.sc-corp.net | Critical — CVSS 9.8 | — | 580 | [th3g3nt3lman](https://hackerone.com/th3g3nt3lman) | 2018-10-08 |
 | 18 | [313457](../reports/313457.md) | Publicly accessible Continuous Integration Tool | Critical | — | 561 | [stgstate](https://hackerone.com/stgstate) | 2021-07-29 |
 | 19 | [392785](../reports/392785.md) | Domain Takeover in [obviousengine.com] a snapchat acquisitio | High | — | 32 | [malcolmx](https://hackerone.com/malcolmx) | 2018-10-07 |
-| 20 | [258117](../reports/258117.md) | RCE/LFI on test Jenkins instance due to improper authenticat | Medium | — | 116 | [nahamsec](https://hackerone.com/nahamsec) | 2017-08-19 |
-| 21 | [274336](../reports/274336.md) | Subdomain Takeover via Unclaimed WordPress site | Medium | — | 39 | [ysx](https://hackerone.com/ysx) | 2017-10-06 |
-| 22 | [237357](../reports/237357.md) | CRLF Injection at vpn.bitstrips.com | Medium | — | 24 | [wplus](https://hackerone.com/wplus) | 2017-06-15 |
-| 23 | [196222](../reports/196222.md) | RTLO char allowed in chat | Medium | — | 18 | [kontez](https://hackerone.com/kontez) | 2017-02-28 |
-| 24 | [2018615](../reports/2018615.md) | HTML injection on newsroom.snap.com/* via search?q=1 | Low | — | 54 | [jotita3](https://hackerone.com/jotita3) | 2023-08-14 |
-| 25 | [1626281](../reports/1626281.md) | Password reset tokens sent to CSP reporting endpoints | Low | — | 26 | [mahfujwhh](https://hackerone.com/mahfujwhh) | 2022-08-31 |
-| 26 | [1103448](../reports/1103448.md) | Organization Members in Snap Kit may Deactivate Apps | Low | — | 26 | [poneglyph](https://hackerone.com/poneglyph) | 2021-08-26 |
-| 27 | [530974](../reports/530974.md) | Server-Side Request Forgery using Javascript allows to exfil | None | — | 416 | [nahamsec](https://hackerone.com/nahamsec) | 2020-11-30 |
-| 28 | [125849](../reports/125849.md) | XSS found on Snapchat website | None | — | 38 | [esnard](https://hackerone.com/esnard) | 2018-05-26 |
-| 29 | [168476](../reports/168476.md) | Incoming email hijacking on sc-cdn.net | None | — | 24 | [rubyroobs](https://hackerone.com/rubyroobs) | 2016-09-23 |
-| 30 | [173043](../reports/173043.md) | Bypassing "You've requested your data the maximum number of  | None | — | 20 | [marwan](https://hackerone.com/marwan) | 2016-11-25 |
-| 31 | [171942](../reports/171942.md) | Subdomain takeover of blog.snapchat.com | None | — | 14 | [jreynoldsdev](https://hackerone.com/jreynoldsdev) | 2016-10-05 |
-| 32 | [54631](../reports/54631.md) | Vulnerable to JavaScript injection. (WXS)  (Javascript injec | None | — | 13 | [protector47](https://hackerone.com/protector47) | 2015-10-22 |
-| 33 | [54641](../reports/54641.md) | Captcha Bypass in Snapchat's Geofilter Submission Process | None | — | 9 | [zero](https://hackerone.com/zero) | 2015-05-04 |
+| 20 | [2139260](../reports/2139260.md) | Intent Leads To Unauthorised Video Call Initiation Leaking S | Medium — CVSS 6.5 | — | 126 | [hulkvision_](https://hackerone.com/hulkvision_) | 2024-04-05 |
+| 21 | [258117](../reports/258117.md) | RCE/LFI on test Jenkins instance due to improper authenticat | Medium | — | 116 | [nahamsec](https://hackerone.com/nahamsec) | 2017-08-19 |
+| 22 | [274336](../reports/274336.md) | Subdomain Takeover via Unclaimed WordPress site | Medium | — | 39 | [ysx](https://hackerone.com/ysx) | 2017-10-06 |
+| 23 | [237357](../reports/237357.md) | CRLF Injection at vpn.bitstrips.com | Medium | — | 24 | [wplus](https://hackerone.com/wplus) | 2017-06-15 |
+| 24 | [196222](../reports/196222.md) | RTLO char allowed in chat | Medium | — | 18 | [kontez](https://hackerone.com/kontez) | 2017-02-28 |
+| 25 | [2018615](../reports/2018615.md) | HTML injection on newsroom.snap.com/* via search?q=1 | Low | — | 54 | [jotita3](https://hackerone.com/jotita3) | 2023-08-14 |
+| 26 | [1626281](../reports/1626281.md) | Password reset tokens sent to CSP reporting endpoints | Low | — | 26 | [mahfujwhh](https://hackerone.com/mahfujwhh) | 2022-08-31 |
+| 27 | [1103448](../reports/1103448.md) | Organization Members in Snap Kit may Deactivate Apps | Low | — | 26 | [poneglyph](https://hackerone.com/poneglyph) | 2021-08-26 |
+| 28 | [530974](../reports/530974.md) | Server-Side Request Forgery using Javascript allows to exfil | None | — | 416 | [nahamsec](https://hackerone.com/nahamsec) | 2020-11-30 |
+| 29 | [125849](../reports/125849.md) | XSS found on Snapchat website | None | — | 38 | [esnard](https://hackerone.com/esnard) | 2018-05-26 |
+| 30 | [168476](../reports/168476.md) | Incoming email hijacking on sc-cdn.net | None | — | 24 | [rubyroobs](https://hackerone.com/rubyroobs) | 2016-09-23 |
+| 31 | [173043](../reports/173043.md) | Bypassing "You've requested your data the maximum number of  | None | — | 20 | [marwan](https://hackerone.com/marwan) | 2016-11-25 |
+| 32 | [171942](../reports/171942.md) | Subdomain takeover of blog.snapchat.com | None | — | 14 | [jreynoldsdev](https://hackerone.com/jreynoldsdev) | 2016-10-05 |
+| 33 | [54631](../reports/54631.md) | Vulnerable to JavaScript injection. (WXS)  (Javascript injec | None | — | 13 | [protector47](https://hackerone.com/protector47) | 2015-10-22 |
+| 34 | [54641](../reports/54641.md) | Captcha Bypass in Snapchat's Geofilter Submission Process | None | — | 9 | [zero](https://hackerone.com/zero) | 2015-05-04 |

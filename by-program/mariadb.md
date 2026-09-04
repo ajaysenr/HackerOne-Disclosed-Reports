@@ -1,4 +1,4 @@
-# MariaDB — Disclosed Reports (16 total)
+# MariaDB — Disclosed Reports (17 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -15,8 +15,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 9 | [637840](../reports/637840.md) | Path traversal in command line client | Medium — CVSS 4.5 | — | 4 | [lixtelnis](https://hackerone.com/lixtelnis) | 2020-05-28 |
 | 10 | [775504](../reports/775504.md) | Exposed debug.log file leads to information disclosure | Medium | — | 4 | [muhammaddaffa](https://hackerone.com/muhammaddaffa) | 2020-01-15 |
 | 11 | [1369288](../reports/1369288.md) | Path Traversal CVE-2021-26086 CVE-2021-26085 | Medium | — | 3 | [kljunowsky](https://hackerone.com/kljunowsky) | 2021-11-05 |
-| 12 | [690330](../reports/690330.md) | scripts loader (denial of service) vulnerability | Low | — | 20 | [badisman](https://hackerone.com/badisman) | 2020-03-19 |
-| 13 | [392701](../reports/392701.md) | Vulnerability Report - Missing Certificate Authority Authori | Low | — | 16 | [theendisnear](https://hackerone.com/theendisnear) | 2018-11-11 |
-| 14 | [386160](../reports/386160.md) | xmlrpc.php on mariadb.org can lead to DDOS and brute force a | Low | — | 10 | [indoappsec](https://hackerone.com/indoappsec) | 2018-10-12 |
-| 15 | [392761](../reports/392761.md) | vulnerable to Cross-site Request Forgery | Jira | Low | — | 9 | [niteshkumarpandey](https://hackerone.com/niteshkumarpandey) | 2018-10-12 |
-| 16 | [514421](../reports/514421.md) | smtp service vulnerable to POODLE SSLv3 | Low | — | 7 | [rudrahacks007](https://hackerone.com/rudrahacks007) | 2019-05-11 |
+| 12 | [3769676](../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenti | Medium | — | 2 | [byteoverride](https://hackerone.com/byteoverride) | 2026-09-03 |
+| 13 | [690330](../reports/690330.md) | scripts loader (denial of service) vulnerability | Low | — | 20 | [badisman](https://hackerone.com/badisman) | 2020-03-19 |
+| 14 | [392701](../reports/392701.md) | Vulnerability Report - Missing Certificate Authority Authori | Low | — | 16 | [theendisnear](https://hackerone.com/theendisnear) | 2018-11-11 |
+| 15 | [386160](../reports/386160.md) | xmlrpc.php on mariadb.org can lead to DDOS and brute force a | Low | — | 10 | [indoappsec](https://hackerone.com/indoappsec) | 2018-10-12 |
+| 16 | [392761](../reports/392761.md) | vulnerable to Cross-site Request Forgery | Jira | Low | — | 9 | [niteshkumarpandey](https://hackerone.com/niteshkumarpandey) | 2018-10-12 |
+| 17 | [514421](../reports/514421.md) | smtp service vulnerable to POODLE SSLv3 | Low | — | 7 | [rudrahacks007](https://hackerone.com/rudrahacks007) | 2019-05-11 |

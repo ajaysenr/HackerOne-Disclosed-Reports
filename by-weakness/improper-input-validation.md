@@ -1,4 +1,4 @@
-# Weakness: Improper Input Validation (55 reports)
+# Weakness: Improper Input Validation (56 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -59,3 +59,4 @@
 | 53 | [423437](../reports/423437.md) | H1514 Shopify API ruby SDK session setup lacks input validation,  | [Shopify](../by-program/shopify.md) | None | — | 11 |
 | 54 | [726117](../reports/726117.md) | SMB access smuggling via FILE URL on Windows | [curl](../by-program/curl.md) | None | — | 10 |
 | 55 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | [curl](../by-program/curl.md) | None | — | 1 |
+| 56 | [3972395](../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | [curl](../by-program/curl.md) | None | — | 0 |
