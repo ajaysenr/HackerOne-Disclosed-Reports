@@ -8781,6 +8781,9 @@ https://hackerone.com/reports/2139190 | IDOR: Authorization Bypass in LockReport
 https://hackerone.com/reports/2139260 | Intent Leads To Unauthorised Video Call Initiation Leaking Surrounding Informations Of Victim
 https://hackerone.com/reports/2140960 | Ability to see hidden likes
 https://hackerone.com/reports/2140976 | Subdomain takeover on one of the subdomain under mozgcp.net
+https://hackerone.com/reports/2142109 | 0 Click account takeover via timed requests to ███████forgot-password (single-packet attack)
+https://hackerone.com/reports/2143408 | Subdomain takeover on one of the subdomain under mozgcp.net
+https://hackerone.com/reports/2143411 | authentication bypass
 https://hackerone.com/reports/2144868 | CVE-2023-40611: Apache Airflow Dag Runs Broken Access Control Vulnerability
 https://hackerone.com/reports/2146691 | [curl] CVE-2023-38039: HTTP header allocation DOS
 https://hackerone.com/reports/2147132 | Security bug https://bugzilla.mozilla.org/oauth/authorize - CRLF Header injection via "redirect_uri" parameter
