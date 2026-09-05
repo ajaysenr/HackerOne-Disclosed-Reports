@@ -8785,6 +8785,8 @@ https://hackerone.com/reports/2142109 | 0 Click account takeover via timed reque
 https://hackerone.com/reports/2143408 | Subdomain takeover on one of the subdomain under mozgcp.net
 https://hackerone.com/reports/2143411 | authentication bypass
 https://hackerone.com/reports/2144868 | CVE-2023-40611: Apache Airflow Dag Runs Broken Access Control Vulnerability
+https://hackerone.com/reports/2144870 | **"CSRF Vulnerability in ███████ Website Allows Attackers to Change User Profile Picture at ███████"**
+https://hackerone.com/reports/2145862 | fs.lstat bypasses permission model
 https://hackerone.com/reports/2146691 | [curl] CVE-2023-38039: HTTP header allocation DOS
 https://hackerone.com/reports/2147132 | Security bug https://bugzilla.mozilla.org/oauth/authorize - CRLF Header injection via "redirect_uri" parameter
 https://hackerone.com/reports/2148242 | CVE-2023-38546: cookie injection with none file
