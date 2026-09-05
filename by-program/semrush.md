@@ -31,8 +31,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 25 | [662583](../reports/662583.md) | Manipulation of exam results at Semrush.Academy | Medium | — | 38 | [r0hack](https://hackerone.com/r0hack) | 2019-10-11 |
 | 26 | [1237700](../reports/1237700.md) | Improper input validation in projects leads to fully deny ac | Medium | — | 35 | [a_d_a_m](https://hackerone.com/a_d_a_m) | 2021-09-01 |
 | 27 | [853145](../reports/853145.md) | Broken validation of user Id for JWT Token | Medium — CVSS 5.9 | — | 31 | [a_d_a_m](https://hackerone.com/a_d_a_m) | 2020-12-11 |
-| 28 | [723707](../reports/723707.md) | Code injection in https://www.semrush.com | Medium | — | 22 | [dangkhai0x21](https://hackerone.com/dangkhai0x21) | 2019-11-01 |
-| 29 | [316713](../reports/316713.md) | Ad Builder Display Ads Path Traversal | Medium | — | 22 | [ajxchapman](https://hackerone.com/ajxchapman) | 2020-02-28 |
+| 28 | [316713](../reports/316713.md) | Ad Builder Display Ads Path Traversal | Medium | — | 22 | [ajxchapman](https://hackerone.com/ajxchapman) | 2020-02-28 |
+| 29 | [723707](../reports/723707.md) | Code injection in https://www.semrush.com | Medium | — | 22 | [dangkhai0x21](https://hackerone.com/dangkhai0x21) | 2019-11-01 |
 | 30 | [459532](../reports/459532.md) | Persistent CSV injection | Medium | — | 4 | [8r33](https://hackerone.com/8r33) | 2019-01-11 |
 | 31 | [276614](../reports/276614.md) | Email Spoofing | Medium | — | 1 | [protector47](https://hackerone.com/protector47) | 2018-03-13 |
 | 32 | [285482](../reports/285482.md) | Security misconfiguration "weak passwords". | Medium | — | 1 | [whitehatmmalam](https://hackerone.com/whitehatmmalam) | 2018-03-13 |

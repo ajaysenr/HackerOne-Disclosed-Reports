@@ -22,5 +22,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 16 | [50389](../reports/50389.md) | Adobe XSS | None | — | 8 | [dsopas](https://hackerone.com/dsopas) | 2016-10-18 |
 | 17 | [93550](../reports/93550.md) | Reflected XSS via. search | None | — | 6 | [skansing](https://hackerone.com/skansing) | 2016-04-13 |
 | 18 | [50157](../reports/50157.md) | Reflected Cross Site Scripting - 'puser' Parameter in login  | None | — | 5 | [thsa](https://hackerone.com/thsa) | 2015-05-09 |
-| 19 | [50358](../reports/50358.md) | files.acrobat.com stored XSS via send file | None | — | 4 | [reactors08](https://hackerone.com/reactors08) | 2015-04-14 |
-| 20 | [50379](../reports/50379.md) | Open redirect and reflected xss in http://youthvoices.adobe. | None | — | 4 | [nijagaw](https://hackerone.com/nijagaw) | 2015-05-20 |
+| 19 | [50379](../reports/50379.md) | Open redirect and reflected xss in http://youthvoices.adobe. | None | — | 4 | [nijagaw](https://hackerone.com/nijagaw) | 2015-05-20 |
+| 20 | [50358](../reports/50358.md) | files.acrobat.com stored XSS via send file | None | — | 4 | [reactors08](https://hackerone.com/reactors08) | 2015-04-14 |

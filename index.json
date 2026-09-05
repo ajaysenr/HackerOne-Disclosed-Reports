@@ -160804,6 +160804,60 @@
     "votes": 39
   },
   {
+    "id": 2142109,
+    "url": "https://hackerone.com/reports/2142109",
+    "title": "0 Click account takeover via timed requests to \u2588\u2588\u2588\u2588\u2588\u2588\u2588forgot-password (single-packet attack)",
+    "program": "Mars",
+    "program_handle": "mars",
+    "reporter": "0x999",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Use of a Broken or Risky Cryptographic Algorithm",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "WILDCARD",
+    "reported_at": "2023-09-09",
+    "disclosed_at": "2024-07-11",
+    "votes": 58
+  },
+  {
+    "id": 2143408,
+    "url": "https://hackerone.com/reports/2143408",
+    "title": "Subdomain takeover on one of the subdomain under mozgcp.net",
+    "program": "Mozilla",
+    "program_handle": "mozilla",
+    "reporter": "d0xing",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Misconfiguration",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-09-11",
+    "disclosed_at": "2023-11-12",
+    "votes": 29
+  },
+  {
+    "id": 2143411,
+    "url": "https://hackerone.com/reports/2143411",
+    "title": "authentication bypass",
+    "program": "U.S. Dept Of Defense",
+    "program_handle": "deptofdefense",
+    "reporter": "xandsz",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Improper Authentication - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2023-09-11",
+    "disclosed_at": "2023-09-29",
+    "votes": 21
+  },
+  {
     "id": 2144868,
     "url": "https://hackerone.com/reports/2144868",
     "title": "CVE-2023-40611: Apache Airflow Dag Runs Broken Access Control Vulnerability",
@@ -160822,6 +160876,44 @@
     "reported_at": "2023-09-12",
     "disclosed_at": "2023-10-27",
     "votes": 32
+  },
+  {
+    "id": 2144870,
+    "url": "https://hackerone.com/reports/2144870",
+    "title": "**\"CSRF Vulnerability in \u2588\u2588\u2588\u2588\u2588\u2588\u2588 Website Allows Attackers to Change User Profile Picture at \u2588\u2588\u2588\u2588\u2588\u2588\u2588\"**",
+    "program": "Mars",
+    "program_handle": "mars",
+    "reporter": "bx00",
+    "severity": "medium",
+    "cvss": 5.0,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "WILDCARD",
+    "reported_at": "2023-09-12",
+    "disclosed_at": "2023-11-15",
+    "votes": 26
+  },
+  {
+    "id": 2145862,
+    "url": "https://hackerone.com/reports/2145862",
+    "title": "fs.lstat bypasses permission model",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "haxatron1",
+    "severity": "low",
+    "cvss": 2.9,
+    "weakness": "Privilege Escalation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2024-22018"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2023-09-12",
+    "disclosed_at": "2024-07-09",
+    "votes": 18
   },
   {
     "id": 2146691,
@@ -179166,6 +179258,26 @@
     "votes": 13
   },
   {
+    "id": 3617729,
+    "url": "https://hackerone.com/reports/3617729",
+    "title": "Mail contact autocomplete bypasses administrator-configured user enumeration restrictions and expose member information outside the intended scope",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "njh215",
+    "severity": "medium",
+    "cvss": 4.3,
+    "weakness": "Privacy Violation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-61545"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-03-20",
+    "disclosed_at": "2026-09-04",
+    "votes": 4
+  },
+  {
     "id": 3618831,
     "url": "https://hackerone.com/reports/3618831",
     "title": "Unix domain socket server bypasses --permission network restrictions (incomplete CVE-2026-21636 fix)",
@@ -183720,6 +183832,26 @@
     "votes": 3
   },
   {
+    "id": 3825141,
+    "url": "https://hackerone.com/reports/3825141",
+    "title": "API token sent to URL dictated by an untrusted project .weblate file",
+    "program": "Weblate",
+    "program_handle": "weblate",
+    "reporter": "type5afe",
+    "severity": "medium",
+    "cvss": 6.3,
+    "weakness": "Information Disclosure",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-22251"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-06-25",
+    "disclosed_at": "2026-09-04",
+    "votes": 8
+  },
+  {
     "id": 3826199,
     "url": "https://hackerone.com/reports/3826199",
     "title": "mbedTLS / wolfSSL / rustls backends silently skip hostname verification when CURLOPT_SSL_VERIFYPEER=0",
@@ -184179,6 +184311,24 @@
     "reported_at": "2026-07-25",
     "disclosed_at": "2026-08-25",
     "votes": 12
+  },
+  {
+    "id": 3898281,
+    "url": "https://hackerone.com/reports/3898281",
+    "title": "Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process-global lock in Weblate",
+    "program": "Weblate",
+    "program_handle": "weblate",
+    "reporter": "type5afe",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Uncontrolled Resource Consumption",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-07-29",
+    "disclosed_at": "2026-09-04",
+    "votes": 6
   },
   {
     "id": 3909372,

@@ -9776,6 +9776,7 @@ https://hackerone.com/reports/3611825 | Bearer Token Leaked to Attacker via .net
 https://hackerone.com/reports/3611837 | Unauthenticated file deletion via deleteFileMessage DDP method allows permanent destruction of any uploaded file
 https://hackerone.com/reports/3612891 | Exposed .git/config File Leading to Potential Sensitive Information Disclosure
 https://hackerone.com/reports/3617719 | Function `do_pubkey()` can have out-of-bound read issue
+https://hackerone.com/reports/3617729 | Mail contact autocomplete bypasses administrator-configured user enumeration restrictions and expose member information outside the intended scope
 https://hackerone.com/reports/3618831 | Unix domain socket server bypasses --permission network restrictions (incomplete CVE-2026-21636 fix)
 https://hackerone.com/reports/3619287 | RCE + Supply Chain Attack via pull_request_target in content-scope-scripts/semver-label.yml — Affects All DuckDuckGo Browsers
 https://hackerone.com/reports/3619288 | RCE + PAT Exfiltration via pull_request_target in privacy-configuration/auto-respond-pr.yml — Direct Supply Chain to All DDG Browsers
@@ -10017,6 +10018,7 @@ https://hackerone.com/reports/3822248 | CVE-2026-13608: OpenLDAP SASL authentica
 https://hackerone.com/reports/3823932 | CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabling HAProxy PROXY protocol injection
 https://hackerone.com/reports/3823985 | Use-after-free in `mev_forget_socket` when `curl_easy_pause()` is called from a `CURL_POLL_REMOVE` socket callback (incomplete fix of CVE-2026-9080)
 https://hackerone.com/reports/3824303 | UAF read in mev_pollset_diff() trace path after curl_easy_pause() in socket callback
+https://hackerone.com/reports/3825141 | API token sent to URL dictated by an untrusted project .weblate file
 https://hackerone.com/reports/3826199 | mbedTLS / wolfSSL / rustls backends silently skip hostname verification when CURLOPT_SSL_VERIFYPEER=0
 https://hackerone.com/reports/3826843 | ssh_config_matches is dead code: unauthorized SSH key reuse
 https://hackerone.com/reports/3827674 | Authentication Bypass via XML Signature Wrapping in SAML SSO
@@ -10042,6 +10044,7 @@ https://hackerone.com/reports/3873072 | Unauthenticated SQL Injection via REST B
 https://hackerone.com/reports/3878586 | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, hide_from_lists) and uses frozen visibility, exposing donat
 https://hackerone.com/reports/3887969 | SSRF via URL Parser Differential in `normalize_request_url` (wlc)
 https://hackerone.com/reports/3889473 | @jitsi/docker-jitsi-meet: `/colibri-relay-ws/` unsafe nginx regex (OCTO relay configuration)
+https://hackerone.com/reports/3898281 | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process-global lock in Weblate
 https://hackerone.com/reports/3909372 | Unauthorized vertical privilege escalation vulnerability found on ibm.com endpoint
 https://hackerone.com/reports/3911605 | SMTP CRLF injection in custom SMTP recipient operand allows additional SMTP commands after authentication
 https://hackerone.com/reports/3911968 | Heap use-after-free (write) in mev_forget_socket() via reentrant curl_easy_pause() — incomplete fix for CVE-2026-9080

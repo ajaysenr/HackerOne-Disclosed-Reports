@@ -16,10 +16,10 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 10 | [3506183](../reports/3506183.md) | Missing Access Control in MigrationFile allows attacker to u | High | — | 83 | [ahacker1](https://hackerone.com/ahacker1) | 2026-03-05 |
 | 11 | [2332623](../reports/2332623.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 80 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
 | 12 | [2336236](../reports/2336236.md) | Privilege Escalation to Root SSH Access via Pre-Receive Hook | High | — | 71 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
-| 13 | [2329466](../reports/2329466.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 61 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
-| 14 | [2332551](../reports/2332551.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 61 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
-| 15 | [2329547](../reports/2329547.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 47 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
-| 16 | [2323292](../reports/2323292.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 47 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
+| 13 | [2332551](../reports/2332551.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 61 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
+| 14 | [2329466](../reports/2329466.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 61 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
+| 15 | [2323292](../reports/2323292.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 47 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
+| 16 | [2329547](../reports/2329547.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 47 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
 | 17 | [3588801](../reports/3588801.md) | OAuth redirect uri validation bypass for :proxima_first_part | High | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-07-21 |
 | 18 | [3638909](../reports/3638909.md) | GitHub scoped user to server tokens can escape their install | High | — | 4 | [ahacker1](https://hackerone.com/ahacker1) | 2026-07-29 |
 | 19 | [2501036](../reports/2501036.md) | Access body and title of Internal Repo Issues in Projects | Medium | — | 99 | [ahacker1](https://hackerone.com/ahacker1) | 2024-07-31 |
@@ -34,8 +34,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 28 | [2017600](../reports/2017600.md) | Git Reference Ambiguity in GitHub - Commit Smuggling, Accoun | Medium | — | 25 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2023-11-29 |
 | 29 | [1762025](../reports/1762025.md) | Improper handling of null bytes in GitHub Actions Runner all | Medium | — | 19 | [ryotak](https://hackerone.com/ryotak) | 2023-03-09 |
 | 30 | [3641229](../reports/3641229.md) | GitHub user to server tokens can create issues in any public | Medium | — | 8 | [ahacker1](https://hackerone.com/ahacker1) | 2026-07-22 |
-| 31 | [3560256](../reports/3560256.md) | Cross-repository IDOR in `/settings/security_analysis/bypass | Medium | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-05-19 |
-| 32 | [3527788](../reports/3527788.md) | Add labels to arbitrary issues/prs via Memex Bulk Update to  | Medium | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-08-25 |
-| 33 | [3713965](../reports/3713965.md) | Able to bypass authorization logic and gain more access then | Medium | — | 7 | [vaib25vicky](https://hackerone.com/vaib25vicky) | 2026-07-15 |
+| 31 | [3713965](../reports/3713965.md) | Able to bypass authorization logic and gain more access then | Medium | — | 7 | [vaib25vicky](https://hackerone.com/vaib25vicky) | 2026-07-15 |
+| 32 | [3560256](../reports/3560256.md) | Cross-repository IDOR in `/settings/security_analysis/bypass | Medium | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-05-19 |
+| 33 | [3527788](../reports/3527788.md) | Add labels to arbitrary issues/prs via Memex Bulk Update to  | Medium | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-08-25 |
 | 34 | [2383092](../reports/2383092.md) | Source Code and data exfiltration via Github Copilot | Low | — | 63 | [astrounder](https://hackerone.com/astrounder) | 2024-08-19 |
 | 35 | [1831528](../reports/1831528.md) | Rogue collaborators and ambiguous branch names in GitHub | None | — | 42 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2023-12-05 |

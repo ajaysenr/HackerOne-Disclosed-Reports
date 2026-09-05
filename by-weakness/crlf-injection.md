@@ -9,8 +9,8 @@
 | 3 | [409512](../reports/409512.md) | mod_userdir CRLF injection (CVE-2016-4975) | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $500 | 17 |
 | 4 | [2147132](../reports/2147132.md) | Security bug https://bugzilla.mozilla.org/oauth/authorize - CRLF  | [Mozilla](../by-program/mozilla.md) | Low | $200 | 59 |
 | 5 | [1514359](../reports/1514359.md) | CRLF Injection - Http Response Splitting  | [EXNESS](../by-program/exness.md) | Low | $200 | 15 |
-| 6 | [300622](../reports/300622.md) | Монипулирование на страницах пользоватлей значением "Подсказывать | [VK.com](../by-program/vkcom.md) | Low | $100 | 7 |
-| 7 | [242408](../reports/242408.md) | Нет маркера на добавление песни в плейлист пользователя | [VK.com](../by-program/vkcom.md) | Low | $100 | 7 |
+| 6 | [242408](../reports/242408.md) | Нет маркера на добавление песни в плейлист пользователя | [VK.com](../by-program/vkcom.md) | Low | $100 | 7 |
+| 7 | [300622](../reports/300622.md) | Монипулирование на страницах пользоватлей значением "Подсказывать | [VK.com](../by-program/vkcom.md) | Low | $100 | 7 |
 | 8 | [730788](../reports/730788.md) | CRLF Injection - http://stage-static-cdn.mackeeper.com/ | [Clario](../by-program/clario.md) | Low | $50 | 1 |
 | 9 | [1168205](../reports/1168205.md) | 'net/http': HTTP Header Injection in the set_content_type method | [Ruby](../by-program/ruby.md) | High — CVSS 7.2 | — | 9 |
 | 10 | [590020](../reports/590020.md) | CRLF Injection in urllib | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.1 | — | 340 |

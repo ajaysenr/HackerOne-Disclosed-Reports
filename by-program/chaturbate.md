@@ -29,8 +29,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 23 | [411337](../reports/411337.md) | Forget password link not expiring after email change. | Medium | — | 45 | [imran_nisar](https://hackerone.com/imran_nisar) | 2018-09-20 |
 | 24 | [397508](../reports/397508.md) | Web cache deception attack - expose token information | Medium — CVSS 6.5 | — | 28 | [memon](https://hackerone.com/memon) | 2018-09-20 |
 | 25 | [386351](../reports/386351.md) | Users may still able to view chat room panel of password pro | Medium | — | 13 | [mikkz](https://hackerone.com/mikkz) | 2018-09-20 |
-| 26 | [385178](../reports/385178.md) | Blind SSRF on image proxy camo.stream.highwebmedia.com | Medium — CVSS 6.5 | — | 10 | [hackaccinocraft](https://hackerone.com/hackaccinocraft) | 2018-09-20 |
-| 27 | [384814](../reports/384814.md) | Stored XSS against all Chaturbate users using an application | Medium — CVSS 6.3 | — | 10 | [nahamsec](https://hackerone.com/nahamsec) | 2018-09-19 |
+| 26 | [384814](../reports/384814.md) | Stored XSS against all Chaturbate users using an application | Medium — CVSS 6.3 | — | 10 | [nahamsec](https://hackerone.com/nahamsec) | 2018-09-19 |
+| 27 | [385178](../reports/385178.md) | Blind SSRF on image proxy camo.stream.highwebmedia.com | Medium — CVSS 6.5 | — | 10 | [hackaccinocraft](https://hackerone.com/hackaccinocraft) | 2018-09-20 |
 | 28 | [386340](../reports/386340.md) | Reflected XSS on ssl-ccstatic.highwebmedia.com  via player.s | Medium | — | 7 | [nahamsec](https://hackerone.com/nahamsec) | 2018-09-19 |
 | 29 | [411723](../reports/411723.md) | Open redirection at https://chaturbate.com/auth/login/ | Low | — | 55 | [shailesh4594](https://hackerone.com/shailesh4594) | 2018-10-22 |
 | 30 | [472026](../reports/472026.md) | The auto login link does not expire on changing email id | Low | — | 45 | [whitehattushu](https://hackerone.com/whitehattushu) | 2019-05-16 |
@@ -45,12 +45,12 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 39 | [418151](../reports/418151.md) | No rate limiting in starting up a bot. | Low | — | 15 | [cunn](https://hackerone.com/cunn) | 2018-10-09 |
 | 40 | [386116](../reports/386116.md) | CSV Injection with the CSV export feature | Low — CVSS 3.1 | — | 14 | [hackaccinocraft](https://hackerone.com/hackaccinocraft) | 2018-09-20 |
 | 41 | [413505](../reports/413505.md) | No rate limit in affiliate statsapi endpoint | Low | — | 14 | [exploit0tango](https://hackerone.com/exploit0tango) | 2018-10-19 |
-| 42 | [411822](../reports/411822.md) | Password protected rooms total number of viewers disclosure  | Low | — | 11 | [batee5a](https://hackerone.com/batee5a) | 2018-09-24 |
-| 43 | [385239](../reports/385239.md) | Add non-existent room moderator | Low | — | 11 | [popeax](https://hackerone.com/popeax) | 2018-10-19 |
+| 42 | [385239](../reports/385239.md) | Add non-existent room moderator | Low | — | 11 | [popeax](https://hackerone.com/popeax) | 2018-10-19 |
+| 43 | [411822](../reports/411822.md) | Password protected rooms total number of viewers disclosure  | Low | — | 11 | [batee5a](https://hackerone.com/batee5a) | 2018-09-24 |
 | 44 | [385145](../reports/385145.md) | Homograph attack on redirect URL (https://chaturbate.com/ext | Low | — | 11 | [hackaccinocraft](https://hackerone.com/hackaccinocraft) | 2018-09-20 |
 | 45 | [385372](../reports/385372.md) | Homograph attack on redirect URL  | Low | — | 9 | [sam75434](https://hackerone.com/sam75434) | 2018-10-19 |
 | 46 | [417453](../reports/417453.md) | Cross-origin resource sharing: arbitrary origin trusted on c | None | — | 13 | [mase289](https://hackerone.com/mase289) | 2018-10-04 |
 | 47 | [411920](../reports/411920.md) | Leaking Username and Password in the URLs via Virustotal, ca | None | — | 11 | [sumit7](https://hackerone.com/sumit7) | 2018-09-21 |
-| 48 | [416516](../reports/416516.md) | A 10GB file is reachable | None | — | 4 | [apt-mirror](https://hackerone.com/apt-mirror) | 2018-10-01 |
-| 49 | [415350](../reports/415350.md) | Missing CSRF Protection in  /stats EndPoint. | None | — | 4 | [kaustubh](https://hackerone.com/kaustubh) | 2018-10-09 |
+| 48 | [415350](../reports/415350.md) | Missing CSRF Protection in  /stats EndPoint. | None | — | 4 | [kaustubh](https://hackerone.com/kaustubh) | 2018-10-09 |
+| 49 | [416516](../reports/416516.md) | A 10GB file is reachable | None | — | 4 | [apt-mirror](https://hackerone.com/apt-mirror) | 2018-10-01 |
 | 50 | [388215](../reports/388215.md) | Internal loop going to infinite for cb.setTimeout(func, msec | None | — | 1 | [hackaccinocraft](https://hackerone.com/hackaccinocraft) | 2018-10-01 |

@@ -19,8 +19,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 13 | [289313](../reports/289313.md) | [gem server] Stored XSS via crafted JavaScript URL inclusion | Medium | — | 4 | [ysx](https://hackerone.com/ysx) | 2018-02-22 |
 | 14 | [449356](../reports/449356.md) | 65534 times efficient, Brute-force attack for api_key | Low | — | 7 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2018-12-08 |
 | 15 | [281336](../reports/281336.md) | Negative size in tar header causes infinite loop | Low | — | 7 | [plover](https://hackerone.com/plover) | 2018-03-01 |
-| 16 | [307681](../reports/307681.md) | Cross-Domain JavaScript Source File Inclusion  | Low | — | 3 | [mrunal](https://hackerone.com/mrunal) | 2018-12-10 |
-| 17 | [180196](../reports/180196.md) | Host header Injection rubygems.org | Low | — | 3 | [bugs3ra](https://hackerone.com/bugs3ra) | 2018-02-08 |
+| 16 | [180196](../reports/180196.md) | Host header Injection rubygems.org | Low | — | 3 | [bugs3ra](https://hackerone.com/bugs3ra) | 2018-02-08 |
+| 17 | [307681](../reports/307681.md) | Cross-Domain JavaScript Source File Inclusion  | Low | — | 3 | [mrunal](https://hackerone.com/mrunal) | 2018-12-10 |
 | 18 | [3097900](../reports/3097900.md) | `/names.nsf` and all `/names*` files route to public API on  | None | — | 46 | [jagat-singh](https://hackerone.com/jagat-singh) | 2025-05-03 |
 | 19 | [3542546](../reports/3542546.md) | Server-side ReDoS via user-controlled regex in OIDC Access P | None | — | 40 | [6b_jjj](https://hackerone.com/6b_jjj) | 2026-03-26 |
 | 20 | [173251](../reports/173251.md) | Password Reset emails missing TLS leads account takeover | None | — | 9 | [c0rte](https://hackerone.com/c0rte) | 2016-10-04 |

@@ -35,6 +35,6 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 29 | [92472](../reports/92472.md) | Tokens from services like Facebook can be stolen | None | — | 7 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2016-06-03 |
 | 30 | [139192](../reports/139192.md) | Ability to collect users' ids that have visited a specific w | None | — | 6 | [saeedhashem](https://hackerone.com/saeedhashem) | 2016-06-03 |
 | 31 | [239170](../reports/239170.md) | CSRF bug  | None | — | 6 | [dark_heaven](https://hackerone.com/dark_heaven) | 2017-06-12 |
-| 32 | [133680](../reports/133680.md) | AWS S3 Bucket hotornot-images permissions allow for listing  | None | — | 5 | [yaworsk](https://hackerone.com/yaworsk) | 2016-04-22 |
-| 33 | [119794](../reports/119794.md) | Password modification without knowing actual password & http | None | — | 5 | [ngocdh](https://hackerone.com/ngocdh) | 2016-04-12 |
+| 32 | [119794](../reports/119794.md) | Password modification without knowing actual password & http | None | — | 5 | [ngocdh](https://hackerone.com/ngocdh) | 2016-04-12 |
+| 33 | [133680](../reports/133680.md) | AWS S3 Bucket hotornot-images permissions allow for listing  | None | — | 5 | [yaworsk](https://hackerone.com/yaworsk) | 2016-04-22 |
 | 34 | [130453](../reports/130453.md) | Badoo and Hotornot User Disclosure | None | — | 2 | [symbiansymoh](https://hackerone.com/symbiansymoh) | 2016-05-16 |

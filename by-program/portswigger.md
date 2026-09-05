@@ -40,5 +40,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 34 | [3717354](../reports/3717354.md) | UI Consent Bypass via Comma Injection in `addAutoApproveTarg | None | — | 12 | [hacker-kartel](https://hackerone.com/hacker-kartel) | 2026-06-15 |
 | 35 | [1337425](../reports/1337425.md) | No Rate Limit On Regenerate Password on Portswigger | None | — | 11 | [thespiritman](https://hackerone.com/thespiritman) | 2021-09-13 |
 | 36 | [366129](../reports/366129.md) | Activat burp suite pro with the old license after transfared | None | — | 6 | [egyptghost1](https://hackerone.com/egyptghost1) | 2018-07-19 |
-| 37 | [228873](../reports/228873.md) | Misconfiguration: Missing Custom Error Page (CWE-12 & CWE-75 | None | — | 5 | [siyadlbug](https://hackerone.com/siyadlbug) | 2017-05-16 |
-| 38 | [400785](../reports/400785.md) | Browser Self XSS Protection not implemented | None | — | 5 | [allenaleen](https://hackerone.com/allenaleen) | 2018-09-26 |
+| 37 | [400785](../reports/400785.md) | Browser Self XSS Protection not implemented | None | — | 5 | [allenaleen](https://hackerone.com/allenaleen) | 2018-09-26 |
+| 38 | [228873](../reports/228873.md) | Misconfiguration: Missing Custom Error Page (CWE-12 & CWE-75 | None | — | 5 | [siyadlbug](https://hackerone.com/siyadlbug) | 2017-05-16 |

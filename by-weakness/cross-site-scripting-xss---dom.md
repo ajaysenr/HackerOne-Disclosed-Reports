@@ -54,8 +54,8 @@
 | 48 | [508517](../reports/508517.md) | DOM based XSS on /GTAOnline/tw/starterpack/ | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 45 |
 | 49 | [1767151](../reports/1767151.md) | DOM based XSS via insecure parameter on [ https://uberpay-mock-ps | [Uber](../by-program/uber.md) | Medium — CVSS 6.1 | — | 39 |
 | 50 | [2343548](../reports/2343548.md) | XSS in IBM InfoCenter | [IBM](../by-program/ibm.md) | Medium — CVSS 6.4 | — | 39 |
-| 51 | [507139](../reports/507139.md) | DOM based XSS in the WooCommerce plugin | [Automattic](../by-program/automattic.md) | Medium — CVSS 5.4 | — | 37 |
-| 52 | [1736378](../reports/1736378.md) | DOM XSS at `https://adobedocs.github.io/OAE_PartnerAPI/?configUrl | [Adobe](../by-program/adobe.md) | Medium — CVSS 6.1 | — | 37 |
+| 51 | [1736378](../reports/1736378.md) | DOM XSS at `https://adobedocs.github.io/OAE_PartnerAPI/?configUrl | [Adobe](../by-program/adobe.md) | Medium — CVSS 6.1 | — | 37 |
+| 52 | [507139](../reports/507139.md) | DOM based XSS in the WooCommerce plugin | [Automattic](../by-program/automattic.md) | Medium — CVSS 5.4 | — | 37 |
 | 53 | [1245165](../reports/1245165.md) | CSS Injection via Client Side Path Traversal + Open Redirect lead | [Acronis](../by-program/acronis.md) | Medium | — | 36 |
 | 54 | [1196958](../reports/1196958.md) | Clipboard DOM-based XSS | [GitLab](../by-program/gitlab.md) | Medium — CVSS 4.2 | — | 34 |
 | 55 | [2433634](../reports/2433634.md) | XSS in GOCD Analytics Plugin | [GoCD](../by-program/gocd.md) | Medium — CVSS 4.3 | — | 28 |
@@ -68,14 +68,14 @@
 | 62 | [247246](../reports/247246.md) | Dom based xss affecting all pages from https://www.grab.com/. | [Grab](../by-program/grab.md) | Medium — CVSS 6.1 | — | 16 |
 | 63 | [708592](../reports/708592.md) | [█████] — DOM-based XSS on endpoint `/?s=` | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 15 |
 | 64 | [1736327](../reports/1736327.md) | DOM XSS at `https://adobedocs.github.io/indesign-api-docs/?config | [Adobe](../by-program/adobe.md) | Medium — CVSS 6.1 | — | 14 |
-| 65 | [753971](../reports/753971.md) | [htmr] DOM-based XSS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.5 | — | 12 |
-| 66 | [1744212](../reports/1744212.md) | HTML INJECTION on https://adobedocs.github.io/JourneyAPI/ due to  | [Adobe](../by-program/adobe.md) | Medium | — | 12 |
+| 65 | [1744212](../reports/1744212.md) | HTML INJECTION on https://adobedocs.github.io/JourneyAPI/ due to  | [Adobe](../by-program/adobe.md) | Medium | — | 12 |
+| 66 | [753971](../reports/753971.md) | [htmr] DOM-based XSS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.5 | — | 12 |
 | 67 | [962902](../reports/962902.md) | Session Hijack via Self-XSS | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 5.4 | — | 11 |
 | 68 | [216453](../reports/216453.md) | Unfiltered `class` attribute in markdown code | [GitLab](../by-program/gitlab.md) | Medium — CVSS 5.4 | — | 11 |
 | 69 | [700726](../reports/700726.md) | Reflected XSS  on Lark Suite | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 4.7 | — | 10 |
-| 70 | [299924](../reports/299924.md) | DOM-based Cross-Site Scripting in redirect url checkout | [RBKmoney](../by-program/rbkmoney.md) | Medium | — | 8 |
+| 70 | [1982099](../reports/1982099.md) | DOM-XSS | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
 | 71 | [922496](../reports/922496.md) | DOM XSS on https://www.███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
-| 72 | [1982099](../reports/1982099.md) | DOM-XSS | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
+| 72 | [299924](../reports/299924.md) | DOM-based Cross-Site Scripting in redirect url checkout | [RBKmoney](../by-program/rbkmoney.md) | Medium | — | 8 |
 | 73 | [691977](../reports/691977.md) | [reveal.js] XSS by calling arbitrary method via postMessage | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.4 | — | 7 |
 | 74 | [2125679](../reports/2125679.md) | [CVE-2023-23913] DOM Based Cross-site Scripting in rails-ujs for  | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 5 |
 | 75 | [377264](../reports/377264.md) | █████ - DOM-based XSS | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |

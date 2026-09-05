@@ -27,9 +27,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 21 | [1293377](../reports/1293377.md) | The endpoint /api/internal/graphql/requestAuthEmail on Khana | Medium | — | 15 | [sim4n6](https://hackerone.com/sim4n6) | 2022-03-22 |
 | 22 | [331752](../reports/331752.md) | https://mathfacts.khanacademy.org/ includes code from unpriv | Medium | — | 11 | [hanno](https://hackerone.com/hanno) | 2019-05-25 |
 | 23 | [403822](../reports/403822.md) | Possible Take Over Subdomain For Inbound Emails  | Medium | — | 9 | [rootbakar___](https://hackerone.com/rootbakar___) | 2018-11-08 |
-| 24 | [308394](../reports/308394.md) | CSRF token fixation and potential account takeover | Medium | — | 8 | [co0nan](https://hackerone.com/co0nan) | 2018-04-19 |
-| 25 | [438953](../reports/438953.md) | Cross site scripting (content-sniffing) | Medium | — | 8 | [sarmadkhan](https://hackerone.com/sarmadkhan) | 2018-12-08 |
-| 26 | [399165](../reports/399165.md) | Possible Subdomain Takeover | Medium | — | 8 | [avileox](https://hackerone.com/avileox) | 2018-08-31 |
+| 24 | [399165](../reports/399165.md) | Possible Subdomain Takeover | Medium | — | 8 | [avileox](https://hackerone.com/avileox) | 2018-08-31 |
+| 25 | [308394](../reports/308394.md) | CSRF token fixation and potential account takeover | Medium | — | 8 | [co0nan](https://hackerone.com/co0nan) | 2018-04-19 |
+| 26 | [438953](../reports/438953.md) | Cross site scripting (content-sniffing) | Medium | — | 8 | [sarmadkhan](https://hackerone.com/sarmadkhan) | 2018-12-08 |
 | 27 | [403793](../reports/403793.md) | Stored 'undefined' Cross-site Scripting | Medium | — | 7 | [rootbakar___](https://hackerone.com/rootbakar___) | 2018-09-05 |
 | 28 | [403803](../reports/403803.md) | SignUp With Fake Email | Medium | — | 6 | [rootbakar___](https://hackerone.com/rootbakar___) | 2018-09-05 |
 | 29 | [266090](../reports/266090.md) | Possible to join any class without coache's knowledge & Litt | Medium | — | 6 | [prosadizaman](https://hackerone.com/prosadizaman) | 2017-10-12 |
@@ -44,16 +44,16 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 38 | [6564](../reports/6564.md) | Open Redirection in SmartHistory KhanAcademy | None | — | 5 | [atom](https://hackerone.com/atom) | 2014-04-09 |
 | 39 | [6412](../reports/6412.md) | Persistent class XSS [the fuck] | None | — | 5 | [smiegles](https://hackerone.com/smiegles) | 2014-04-09 |
 | 40 | [6371](../reports/6371.md) | Lighttpd version disclosure / directory listing | None | — | 4 | [internetwache](https://hackerone.com/internetwache) | 2014-04-12 |
-| 41 | [6369](../reports/6369.md) | Stored XSS {dangerous?} https://www.khanacademy.org/coach/ro | None | — | 4 | [smiegles](https://hackerone.com/smiegles) | 2014-04-09 |
+| 41 | [31023](../reports/31023.md) | Sql injection And XSS | None | — | 4 | [jayden](https://hackerone.com/jayden) | 2015-12-08 |
 | 42 | [6344](../reports/6344.md) | http://smarthistory.khanacademy.org/search-results.html XSS | None | — | 4 | [smiegles](https://hackerone.com/smiegles) | 2014-04-09 |
-| 43 | [6352](../reports/6352.md) | Dom based XSS https://www.khanacademy.org/ | None | — | 4 | [smiegles](https://hackerone.com/smiegles) | 2014-04-09 |
-| 44 | [31023](../reports/31023.md) | Sql injection And XSS | None | — | 4 | [jayden](https://hackerone.com/jayden) | 2015-12-08 |
+| 43 | [6369](../reports/6369.md) | Stored XSS {dangerous?} https://www.khanacademy.org/coach/ro | None | — | 4 | [smiegles](https://hackerone.com/smiegles) | 2014-04-09 |
+| 44 | [6352](../reports/6352.md) | Dom based XSS https://www.khanacademy.org/ | None | — | 4 | [smiegles](https://hackerone.com/smiegles) | 2014-04-09 |
 | 45 | [111763](../reports/111763.md) | XSS vulnerability in "/coach/roster/" ( create your first cl | None | — | 3 | [hacker00000000](https://hackerone.com/hacker00000000) | 2016-02-12 |
-| 46 | [6357](../reports/6357.md) | https://www.khanacademy.org/login open-redirect | None | — | 3 | [smiegles](https://hackerone.com/smiegles) | 2014-04-09 |
-| 47 | [13506](../reports/13506.md) | Unchecking hidden parameter is vulnerable to XSS-attack | None | — | 3 | [bigbear](https://hackerone.com/bigbear) | 2014-08-07 |
-| 48 | [6362](../reports/6362.md) | Full Path Disclosure on [smarthistory.khanacademy.org] | None | — | 3 | [gsalazar](https://hackerone.com/gsalazar) | 2014-04-11 |
-| 49 | [6409](../reports/6409.md) | https://www.khanacademy.org/coach/reports/activity XSS | None | — | 3 | [smiegles](https://hackerone.com/smiegles) | 2014-04-09 |
-| 50 | [6376](../reports/6376.md) | User guessing/enumeration at sw.khanacademy.org | None | — | 3 | [internetwache](https://hackerone.com/internetwache) | 2014-04-15 |
-| 51 | [6370](../reports/6370.md) | Possible clickjacking at shop.khanacademy.org | None | — | 2 | [internetwache](https://hackerone.com/internetwache) | 2014-05-08 |
-| 52 | [13314](../reports/13314.md) | CRLF Injection | None | — | 2 | [bigbear](https://hackerone.com/bigbear) | 2014-08-07 |
+| 46 | [6376](../reports/6376.md) | User guessing/enumeration at sw.khanacademy.org | None | — | 3 | [internetwache](https://hackerone.com/internetwache) | 2014-04-15 |
+| 47 | [6362](../reports/6362.md) | Full Path Disclosure on [smarthistory.khanacademy.org] | None | — | 3 | [gsalazar](https://hackerone.com/gsalazar) | 2014-04-11 |
+| 48 | [6357](../reports/6357.md) | https://www.khanacademy.org/login open-redirect | None | — | 3 | [smiegles](https://hackerone.com/smiegles) | 2014-04-09 |
+| 49 | [13506](../reports/13506.md) | Unchecking hidden parameter is vulnerable to XSS-attack | None | — | 3 | [bigbear](https://hackerone.com/bigbear) | 2014-08-07 |
+| 50 | [6409](../reports/6409.md) | https://www.khanacademy.org/coach/reports/activity XSS | None | — | 3 | [smiegles](https://hackerone.com/smiegles) | 2014-04-09 |
+| 51 | [13314](../reports/13314.md) | CRLF Injection | None | — | 2 | [bigbear](https://hackerone.com/bigbear) | 2014-08-07 |
+| 52 | [6370](../reports/6370.md) | Possible clickjacking at shop.khanacademy.org | None | — | 2 | [internetwache](https://hackerone.com/internetwache) | 2014-05-08 |
 | 53 | [103989](../reports/103989.md) | Escaping the iframe via exceptions | None | — | 0 | [benburrill](https://hackerone.com/benburrill) | 2015-12-29 |

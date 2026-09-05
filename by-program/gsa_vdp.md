@@ -5,8 +5,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | # | Report | Title | Severity | Bounty | Votes | Reporter | Disclosed |
 |---|---|---|---|---|---|---|---|
 | 1 | [1168104](../reports/1168104.md) | Weak password policy leading to exposure of administrator ac | Critical — CVSS 9.1 | — | 36 | [rptl](https://hackerone.com/rptl) | 2021-05-20 |
-| 2 | [1175980](../reports/1175980.md) | [Transportation Management Services Solution 2.0] Improper a | Critical | — | 14 | [alexandrio](https://hackerone.com/alexandrio) | 2021-12-08 |
-| 3 | [1700896](../reports/1700896.md) | access nagios dashboard using default credentials in ** omon | Critical | — | 14 | [ahmed0x0mahmoud](https://hackerone.com/ahmed0x0mahmoud) | 2022-10-21 |
+| 2 | [1700896](../reports/1700896.md) | access nagios dashboard using default credentials in ** omon | Critical | — | 14 | [ahmed0x0mahmoud](https://hackerone.com/ahmed0x0mahmoud) | 2022-10-21 |
+| 3 | [1175980](../reports/1175980.md) | [Transportation Management Services Solution 2.0] Improper a | Critical | — | 14 | [alexandrio](https://hackerone.com/alexandrio) | 2021-12-08 |
 | 4 | [1061292](../reports/1061292.md) | TAMS registration details API for admins open at https://tam | High — CVSS 7.5 | — | 58 | [skarsom](https://hackerone.com/skarsom) | 2021-05-07 |
 | 5 | [1483201](../reports/1483201.md) | Account takeover leading to PII chained with stored XSS | High | — | 12 | [imthatt](https://hackerone.com/imthatt) | 2022-04-16 |
 | 6 | [1443654](../reports/1443654.md) | Registered users contact  information disclosure on salesfor | High — CVSS 7.3 | — | 5 | [rptl](https://hackerone.com/rptl) | 2022-06-06 |
