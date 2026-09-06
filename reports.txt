@@ -9678,6 +9678,7 @@ https://hackerone.com/reports/3486747 | SVG filter primitives bypass remote imag
 https://hackerone.com/reports/3489490 | Authentication Bypass in ID4me handling via Missing JWT Signature Verification in User OIDC
 https://hackerone.com/reports/3506183 | Missing Access Control in MigrationFile allows attacker to upload files to any Migration
 https://hackerone.com/reports/3507241 | Authorization Bypass in Starknet Snap via enableAuthorize parameter leads to unauthorized transaction signing
+https://hackerone.com/reports/3507273 | Email Enumeration via Password-Protected Share Identity Verification
 https://hackerone.com/reports/3508321 | Integer-underflow leads to heap over-read in TFTP implementation
 https://hackerone.com/reports/3508500 | integer Overflow in MQTT Protocol Handling Allows Bypassing Message Size Limit
 https://hackerone.com/reports/3508701 | Use-After-Free in curl_easy_nextheader when reusing header handle across requests
@@ -9690,6 +9691,7 @@ https://hackerone.com/reports/3509632 | Information Disclosure via Logback Confi
 https://hackerone.com/reports/3510161 | Memory Exhaustion in CometBFT v1.0.1 via malicious ProposalMessage leads to network-wide denial of service
 https://hackerone.com/reports/3511792 | HashDoS in V8
 https://hackerone.com/reports/3511998 | Private circle can be added to another circle via API despite visibility restriction
+https://hackerone.com/reports/3513471 | Unauthenticated testing endpoint of notify_push expose internal IP
 https://hackerone.com/reports/3514122 | Password Reuse Vulnerability on AWS Sign-in Page via Password Reset Flow leads to Security Policy Violation
 https://hackerone.com/reports/3514263 | libcurl: Improper Authentication State Management on Cross-Protocol Redirects
 https://hackerone.com/reports/3514640 | Unauthenticated Path Traversal (LFI) via /custom-sounds/ when CustomSounds uses FileSystem storage
@@ -9701,6 +9703,8 @@ https://hackerone.com/reports/3516974 | SSL options ISSUERCERT, EC_CURVES and CR
 https://hackerone.com/reports/3518571 | Argument Injection in /manage/ssh/ via host parameter leads to sensitive file disclosure on Weblate
 https://hackerone.com/reports/3518758 | IDOR on ██████ via direct photo URL leads to unauthorized access to deleted and other users' photos
 https://hackerone.com/reports/3521434 | View-only guests could see deleted Collectives pages in the trashbin
+https://hackerone.com/reports/3521639 | Improper Input Validation and Integer Overflow in timeamount parameter of files_retention app
+https://hackerone.com/reports/3521646 | Missing Duplicate Check allowing Multiple Retention Rules per System Tag
 https://hackerone.com/reports/3522254 | PATs without the required scope can leak issues
 https://hackerone.com/reports/3523349 | Integer Underflow in src/var.c
 https://hackerone.com/reports/3523703 | Password Strength Policy Bypass via Server-Side Validation Flaw
@@ -9711,6 +9715,7 @@ https://hackerone.com/reports/3527788 | Add labels to arbitrary issues/prs via M
 https://hackerone.com/reports/3531216 | MQTT Protocol Packet Injection via Unchecked CONNACK Remaining Length
 https://hackerone.com/reports/3531737 | Memory leak in Node.js HTTP/2 server via WINDOW_UPDATE on stream 0 leads to resource exhaustion
 https://hackerone.com/reports/3533945 | Timing side-channel in HMAC verification via memcmp() in crypto_hmac.cc leads to potential MAC forgery
+https://hackerone.com/reports/3534050 | Activity app does not verify federated file activity received from remote servers
 https://hackerone.com/reports/3542546 | Server-side ReDoS via user-controlled regex in OIDC Access Policy
 https://hackerone.com/reports/3543475 | Improper Access Control in `fizzy.do` import flow allows cross-tenant ActionText reference resolution and data disclosure
 https://hackerone.com/reports/3546390 | Assertion error in node_url.cc via malformed URL format leads to Node.js crash
