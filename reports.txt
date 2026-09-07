@@ -8791,6 +8791,7 @@ https://hackerone.com/reports/2146691 | [curl] CVE-2023-38039: HTTP header alloc
 https://hackerone.com/reports/2147132 | Security bug https://bugzilla.mozilla.org/oauth/authorize - CRLF Header injection via "redirect_uri" parameter
 https://hackerone.com/reports/2148242 | CVE-2023-38546: cookie injection with none file
 https://hackerone.com/reports/2149124 | PATCH method manipulation allowing the users to escalate their functionalities and edit (upgrade/downgrade) API Keys settings which is not allowed
+https://hackerone.com/reports/2160178 | default credentials at https://52.42.105.71/
 https://hackerone.com/reports/2166697 | Ability to bulk submit reports via query named based batching
 https://hackerone.com/reports/2171494 | Subdomain Takeover on mozaws.net
 https://hackerone.com/reports/2180018 | Information Disclosure FrontPage Configuration Information
