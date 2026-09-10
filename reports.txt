@@ -8806,6 +8806,9 @@ https://hackerone.com/reports/2178941 | Unauthenticated Jenkins instance exposed
 https://hackerone.com/reports/2180018 | Information Disclosure FrontPage Configuration Information
 https://hackerone.com/reports/2180521 | Google Docs link in JS files allows editing & reading survey information
 https://hackerone.com/reports/2182202 | Remote code execution [CVE-2023-36845]
+https://hackerone.com/reports/2184872 | Exposed CDN access token allows modification of all newly uploaded Snapmatic photos
+https://hackerone.com/reports/2184950 | [PATs] Ability to leak comments from issues without ANY "Issues" repo permissions by utilizing "Pull Request" permissions
+https://hackerone.com/reports/2185545 | Persistent Unauthorized Administrative Access on All Organization Repositories via RC in User Conversion to Organization
 https://hackerone.com/reports/2188126 | Permissions policies can be bypassed via Module._load and require.extensions (High) (CVE-2023-30587)
 https://hackerone.com/reports/2197244 | Account deletion using the /v1/account/destroy API endpoint using account password without 2FA verification
 https://hackerone.com/reports/2200329 | CVE-█████-35813 in █████
