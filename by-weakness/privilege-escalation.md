@@ -1,4 +1,4 @@
-# Weakness: Privilege Escalation (318 reports)
+# Weakness: Privilege Escalation (319 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -47,9 +47,9 @@
 | 41 | [97452](../reports/97452.md) | Staff members with no permission can access to the files, uploade | [Shopify](../by-program/shopify.md) | None | $500 | 7 |
 | 42 | [48422](../reports/48422.md) | Team member invitations to sandboxed teams are not invalidated co | [HackerOne](../by-program/security.md) | None | $500 | 6 |
 | 43 | [93680](../reports/93680.md) | Missing authorization check on dashboard overviews | [Shopify](../by-program/shopify.md) | None | $500 | 4 |
-| 44 | [98499](../reports/98499.md) | Apps can access 'channels' beta api | [Shopify](../by-program/shopify.md) | None | $500 | 3 |
-| 45 | [119221](../reports/119221.md) | User with Read-Only permissions can edit the Internal comment Act | [HackerOne](../by-program/security.md) | None | $500 | 3 |
-| 46 | [96890](../reports/96890.md) | A 'Full access' administrator is able to see the shop owners user | [Shopify](../by-program/shopify.md) | None | $500 | 3 |
+| 44 | [96890](../reports/96890.md) | A 'Full access' administrator is able to see the shop owners user | [Shopify](../by-program/shopify.md) | None | $500 | 3 |
+| 45 | [98499](../reports/98499.md) | Apps can access 'channels' beta api | [Shopify](../by-program/shopify.md) | None | $500 | 3 |
+| 46 | [119221](../reports/119221.md) | User with Read-Only permissions can edit the Internal comment Act | [HackerOne](../by-program/security.md) | None | $500 | 3 |
 | 47 | [92481](../reports/92481.md) | Accessing Payments page and adding payment methods with limited a | [Shopify](../by-program/shopify.md) | None | $500 | 3 |
 | 48 | [1979372](../reports/1979372.md) | Privilege escalation to root in Pages build image v2 | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | Low | $350 | 10 |
 | 49 | [908162](../reports/908162.md) | Acronis True Image Local Privilege Escalation via insecure folder | [Acronis](../by-program/acronis.md) | Medium — CVSS 6.7 | $300 | 15 |
@@ -78,8 +78,8 @@
 | 72 | [176979](../reports/176979.md) | Authentication Issue | [Coinbase](../by-program/coinbase.md) | Low | $200 | 26 |
 | 73 | [716677](../reports/716677.md) | Domain Takeover - gl-canary.freetls.fastly.net | [GitLab](../by-program/gitlab.md) | Low | $200 | 25 |
 | 74 | [300454](../reports/300454.md) | [www.zomato.com] Privilege Escalation - /php/restaurant_menus_han | [Eternal](../by-program/eternal.md) | None | $200 | 26 |
-| 75 | [47940](../reports/47940.md) | Team admin can add billing contacts | [Slack](../by-program/slack.md) | None | $200 | 2 |
-| 76 | [46747](../reports/46747.md) | Team admin can change unauthorized team setting (require_at_for_m | [Slack](../by-program/slack.md) | None | $200 | 2 |
+| 75 | [46747](../reports/46747.md) | Team admin can change unauthorized team setting (require_at_for_m | [Slack](../by-program/slack.md) | None | $200 | 2 |
+| 76 | [47940](../reports/47940.md) | Team admin can add billing contacts | [Slack](../by-program/slack.md) | None | $200 | 2 |
 | 77 | [1398270](../reports/1398270.md) | [34.96.80.155] Server Logs Disclosure lead to Information Leakage | [Evernote](../by-program/evernote.md) | Low — CVSS 3.7 | $150 | 23 |
 | 78 | [173969](../reports/173969.md) | Full access to any list | [Instacart](../by-program/instacart.md) | None | $150 | 13 |
 | 79 | [824909](../reports/824909.md) | Subdomain Takeover uptime | [BTFS](../by-program/btfs.md) | High | $100 | 14 |
@@ -89,8 +89,8 @@
 | 83 | [147369](../reports/147369.md) | User can start call in a channel of an unpaid account | [Slack](../by-program/slack.md) | None | $100 | 10 |
 | 84 | [25281](../reports/25281.md) | Change Any username and profile link in hackerone | [HackerOne](../by-program/security.md) | None | $100 | 9 |
 | 85 | [1417211](../reports/1417211.md) | Installing Gitlab runner with Docker-In-Docker allows root access | [GitLab](../by-program/gitlab.md) | None | $100 | 9 |
-| 86 | [46750](../reports/46750.md) | Team admin can change unauthorized team setting (allow_message_de | [Slack](../by-program/slack.md) | None | $100 | 3 |
-| 87 | [50884](../reports/50884.md) | Bypass pin(4 digit passcode on your android app) | [Whisper](../by-program/whisper.md) | None | $100 | 3 |
+| 86 | [50884](../reports/50884.md) | Bypass pin(4 digit passcode on your android app) | [Whisper](../by-program/whisper.md) | None | $100 | 3 |
+| 87 | [46750](../reports/46750.md) | Team admin can change unauthorized team setting (allow_message_de | [Slack](../by-program/slack.md) | None | $100 | 3 |
 | 88 | [107213](../reports/107213.md) | GlassWireSetup.exe subject to EXE planting attack | [GlassWire](../by-program/glasswire.md) | None | $100 | 2 |
 | 89 | [148467](../reports/148467.md) | Паблики: Модератор паблика может удалять добавленные редакторами  | [VK.com](../by-program/vkcom.md) | None | $100 | 2 |
 | 90 | [910300](../reports/910300.md) | Email Confirmation Bypass in your-store.myshopify.com which leads | [Shopify](../by-program/shopify.md) | Critical | — | 557 |
@@ -104,8 +104,8 @@
 | 98 | [383564](../reports/383564.md) | Subdomain takeover on svcgatewaydevus.starbucks.com and svcgatewa | [Starbucks](../by-program/starbucks.md) | Critical | — | 35 |
 | 99 | [753375](../reports/753375.md) | Upload Profile Photo in any folder you want with any extension yo | [Stripo Inc](../by-program/stripo.md) | Critical — CVSS 9.9 | — | 33 |
 | 100 | [1296366](../reports/1296366.md) | EC2 subdomain takeover at http://████████/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 33 |
-| 101 | [200427](../reports/200427.md) | Access of Android protected components via embedded intent | [Slack](../by-program/slack.md) | Critical | — | 31 |
-| 102 | [219171](../reports/219171.md) | Возможность взлома любого пользователя, не использующего двухфакт | [VK.com](../by-program/vkcom.md) | Critical | — | 31 |
+| 101 | [219171](../reports/219171.md) | Возможность взлома любого пользователя, не использующего двухфакт | [VK.com](../by-program/vkcom.md) | Critical | — | 31 |
+| 102 | [200427](../reports/200427.md) | Access of Android protected components via embedded intent | [Slack](../by-program/slack.md) | Critical | — | 31 |
 | 103 | [1791720](../reports/1791720.md) | Ad Account Takeover | [LinkedIn](../by-program/linkedin.md) | Critical — CVSS 9.1 | — | 29 |
 | 104 | [239719](../reports/239719.md) | Privilege Escalation using API->Feature | [Ubiquiti Inc.](../by-program/ui.md) | Critical — CVSS 9.9 | — | 23 |
 | 105 | [895172](../reports/895172.md) | [H1-2006 2020] Bypassing access control checks by modifying the U | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 23 |
@@ -125,8 +125,8 @@
 | 119 | [484420](../reports/484420.md) | Subdomain takeover on usclsapipma.cv.ford.com | [Ford](../by-program/ford.md) | High | — | 104 |
 | 120 | [496285](../reports/496285.md) | Ubuntu Linux privilege escalation (dirty_sock) | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.8 | — | 102 |
 | 121 | [1107282](../reports/1107282.md) | Privilege Escalation via REST API to Administrator leads to RCE | [WordPress](../by-program/wordpress.md) | High | — | 90 |
-| 122 | [388622](../reports/388622.md) | Subdomain takeover on wfmnarptpc.starbucks.com | [Starbucks](../by-program/starbucks.md) | High | — | 89 |
-| 123 | [264494](../reports/264494.md) | Subdomain Takeover at creatorforum.roblox.com | [Roblox](../by-program/roblox.md) | High | — | 89 |
+| 122 | [264494](../reports/264494.md) | Subdomain Takeover at creatorforum.roblox.com | [Roblox](../by-program/roblox.md) | High | — | 89 |
+| 123 | [388622](../reports/388622.md) | Subdomain takeover on wfmnarptpc.starbucks.com | [Starbucks](../by-program/starbucks.md) | High | — | 89 |
 | 124 | [276269](../reports/276269.md) | Multiple Subdomain takeovers via unclaimed instances | [Starbucks](../by-program/starbucks.md) | High | — | 83 |
 | 125 | [197489](../reports/197489.md) | Subdomain takeover at signup.uber.com | [Uber](../by-program/uber.md) | High | — | 78 |
 | 126 | [423269](../reports/423269.md) | China - president-starbucks.com.cn DNS configuration reported as  | [Starbucks](../by-program/starbucks.md) | High — CVSS 7.5 | — | 71 |
@@ -139,186 +139,187 @@
 | 133 | [1168475](../reports/1168475.md) | Non privileged user is able to approve his own app himself leadin | [Lark Technologies](../by-program/lark_technologies.md) | High — CVSS 7.1 | — | 45 |
 | 134 | [1636552](../reports/1636552.md) | Email Verification Bypass Allows Users to Add & verify Any Email  | [Khan Academy](../by-program/khanacademy.md) | High — CVSS 7.3 | — | 41 |
 | 135 | [945122](../reports/945122.md) | Arbitrary file creation via symlink attack on syncagentsrv (Acron | [Acronis](../by-program/acronis.md) | High — CVSS 8.7 | — | 38 |
-| 136 | [392785](../reports/392785.md) | Domain Takeover in [obviousengine.com] a snapchat acquisitions | [Snapchat](../by-program/snapchat.md) | High | — | 32 |
-| 137 | [1718371](../reports/1718371.md) | Subdomain takeover at http://test.www.midigator.com | [Equifax-vdp](../by-program/equifax.md) | High | — | 32 |
+| 136 | [1718371](../reports/1718371.md) | Subdomain takeover at http://test.www.midigator.com | [Equifax-vdp](../by-program/equifax.md) | High | — | 32 |
+| 137 | [392785](../reports/392785.md) | Domain Takeover in [obviousengine.com] a snapchat acquisitions | [Snapchat](../by-program/snapchat.md) | High | — | 32 |
 | 138 | [508493](../reports/508493.md) | Group admins can remove arbitrary data from "data" directory (inc | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.4 | — | 32 |
 | 139 | [403039](../reports/403039.md) | WooCommerce Blacklist in 'map_meta_cap' leads to Privilege Escala | [Automattic](../by-program/automattic.md) | High | — | 28 |
 | 140 | [736863](../reports/736863.md) | Bulgaria - Subdomain takeover of mail.starbucks.bg | [Starbucks](../by-program/starbucks.md) | High — CVSS 8.4 | — | 26 |
-| 141 | [2237545](../reports/2237545.md) | Code injection and privilege escalation through Linux capabilitie | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | — | 23 |
-| 142 | [263542](../reports/263542.md) | Subdomain take-over of {REDACTED}.18f.gov | [GSA Bounty](../by-program/gsa_bbp.md) | High | — | 20 |
-| 143 | [1429148](../reports/1429148.md) | Subdomain Takeover at https://new.rubyonrails.org/ | [Ruby on Rails](../by-program/rails.md) | High | — | 17 |
-| 144 | [495495](../reports/495495.md) | CVE-2019-5736: Escape from Docker and Kubernetes containers to ro | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.6 | — | 14 |
-| 145 | [2941920](../reports/2941920.md) | Elevation of Privileges (EoP) vulnerabilities related to the some | [curl](../by-program/curl.md) | High | — | 14 |
-| 146 | [235059](../reports/235059.md) | Privilege escalation-User who does not have access is able to add | [Mixmax](../by-program/mixmax.md) | High | — | 13 |
-| 147 | [221454](../reports/221454.md) | Privilege escalation in the client impersonation functionality | [Ubiquiti Inc.](../by-program/ui.md) | High | — | 13 |
-| 148 | [1010787](../reports/1010787.md) | Request Access for Uber Device Returns Management Platform (https | [Uber](../by-program/uber.md) | High — CVSS 8.1 | — | 13 |
-| 149 | [324006](../reports/324006.md) | SaaS admin can modify/delete/get user information. | [Ping Identity](../by-program/pingidentity.md) | High — CVSS 8.8 | — | 12 |
+| 141 | [2170226](../reports/2170226.md) | setuid() does not drop all privileges due to io_uring | [Node.js](../by-program/nodejs.md) | High — CVSS 7.3 | — | 24 |
+| 142 | [2237545](../reports/2237545.md) | Code injection and privilege escalation through Linux capabilitie | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | — | 23 |
+| 143 | [263542](../reports/263542.md) | Subdomain take-over of {REDACTED}.18f.gov | [GSA Bounty](../by-program/gsa_bbp.md) | High | — | 20 |
+| 144 | [1429148](../reports/1429148.md) | Subdomain Takeover at https://new.rubyonrails.org/ | [Ruby on Rails](../by-program/rails.md) | High | — | 17 |
+| 145 | [495495](../reports/495495.md) | CVE-2019-5736: Escape from Docker and Kubernetes containers to ro | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.6 | — | 14 |
+| 146 | [2941920](../reports/2941920.md) | Elevation of Privileges (EoP) vulnerabilities related to the some | [curl](../by-program/curl.md) | High | — | 14 |
+| 147 | [235059](../reports/235059.md) | Privilege escalation-User who does not have access is able to add | [Mixmax](../by-program/mixmax.md) | High | — | 13 |
+| 148 | [221454](../reports/221454.md) | Privilege escalation in the client impersonation functionality | [Ubiquiti Inc.](../by-program/ui.md) | High | — | 13 |
+| 149 | [1010787](../reports/1010787.md) | Request Access for Uber Device Returns Management Platform (https | [Uber](../by-program/uber.md) | High — CVSS 8.1 | — | 13 |
 | 150 | [1197013](../reports/1197013.md) | Subdomain takeover of ████.jitsi.net | [8x8](../by-program/8x8-bounty.md) | High | — | 12 |
-| 151 | [129698](../reports/129698.md) | UniFi Video Server - Broken access control on system configuratio | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 7.7 | — | 12 |
-| 152 | [712318](../reports/712318.md) | able to login into login.topechelon.com | [Top Echelon Software](../by-program/top_echelon_software.md) | High | — | 12 |
-| 153 | [1108125](../reports/1108125.md) | DNS Misconfiguration (Subdomain Takeover) █.staging.█.8x8.com | [8x8](../by-program/8x8-bounty.md) | High | — | 11 |
+| 151 | [712318](../reports/712318.md) | able to login into login.topechelon.com | [Top Echelon Software](../by-program/top_echelon_software.md) | High | — | 12 |
+| 152 | [129698](../reports/129698.md) | UniFi Video Server - Broken access control on system configuratio | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 7.7 | — | 12 |
+| 153 | [324006](../reports/324006.md) | SaaS admin can modify/delete/get user information. | [Ping Identity](../by-program/pingidentity.md) | High — CVSS 8.8 | — | 12 |
 | 154 | [944735](../reports/944735.md) | Arbitrary DLL injection in mmsminisrv (Acronis Managed Machine Se | [Acronis](../by-program/acronis.md) | High — CVSS 8.1 | — | 11 |
-| 155 | [1101877](../reports/1101877.md) | DNS Misconfiguration (Subdomain Takeover) ███████.8x8.com | [8x8](../by-program/8x8-bounty.md) | High — CVSS 7.1 | — | 10 |
+| 155 | [1108125](../reports/1108125.md) | DNS Misconfiguration (Subdomain Takeover) █.staging.█.8x8.com | [8x8](../by-program/8x8-bounty.md) | High | — | 11 |
 | 156 | [1294492](../reports/1294492.md) | DNS Miconfiguration Leads to Subdomain Takeover  - max1.liveplan. | [Palo Alto Software](../by-program/palo_alto_software.md) | High | — | 10 |
-| 157 | [166581](../reports/166581.md) | Privilege escalation - Normal user can somehow make admin to dele | [Nextcloud](../by-program/nextcloud.md) | High | — | 9 |
-| 158 | [1251464](../reports/1251464.md) | Acronis True Image Local Privilege Escalation Due To Race Conditi | [Acronis](../by-program/acronis.md) | High — CVSS 7.4 | — | 8 |
-| 159 | [1960870](../reports/1960870.md) | Permissions policies can be bypassed via Module._load. | [Node.js](../by-program/nodejs.md) | High — CVSS 7.7 | — | 8 |
-| 160 | [586251](../reports/586251.md) | Homebrew installed LaunchDaemons create simple root esclations | [Homebrew](../by-program/homebrew.md) | High | — | 8 |
-| 161 | [1877919](../reports/1877919.md) | The use of __proto__ in process.mainModule.__proto__.require() by | [Node.js](../by-program/nodejs.md) | High — CVSS 8.4 | — | 8 |
-| 162 | [1747642](../reports/1747642.md) | Permissions policies can be bypassed via process.mainModule | [Node.js](../by-program/nodejs.md) | High — CVSS 7.1 | — | 7 |
-| 163 | [289051](../reports/289051.md) | Subdomain Takeover | [GSA Bounty](../by-program/gsa_bbp.md) | High | — | 6 |
-| 164 | [358359](../reports/358359.md) | Privilage escalation with malicious .npmrc | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.1 | — | 3 |
+| 157 | [1101877](../reports/1101877.md) | DNS Misconfiguration (Subdomain Takeover) ███████.8x8.com | [8x8](../by-program/8x8-bounty.md) | High — CVSS 7.1 | — | 10 |
+| 158 | [166581](../reports/166581.md) | Privilege escalation - Normal user can somehow make admin to dele | [Nextcloud](../by-program/nextcloud.md) | High | — | 9 |
+| 159 | [1251464](../reports/1251464.md) | Acronis True Image Local Privilege Escalation Due To Race Conditi | [Acronis](../by-program/acronis.md) | High — CVSS 7.4 | — | 8 |
+| 160 | [1960870](../reports/1960870.md) | Permissions policies can be bypassed via Module._load. | [Node.js](../by-program/nodejs.md) | High — CVSS 7.7 | — | 8 |
+| 161 | [586251](../reports/586251.md) | Homebrew installed LaunchDaemons create simple root esclations | [Homebrew](../by-program/homebrew.md) | High | — | 8 |
+| 162 | [1877919](../reports/1877919.md) | The use of __proto__ in process.mainModule.__proto__.require() by | [Node.js](../by-program/nodejs.md) | High — CVSS 8.4 | — | 8 |
+| 163 | [1747642](../reports/1747642.md) | Permissions policies can be bypassed via process.mainModule | [Node.js](../by-program/nodejs.md) | High — CVSS 7.1 | — | 7 |
+| 164 | [289051](../reports/289051.md) | Subdomain Takeover | [GSA Bounty](../by-program/gsa_bbp.md) | High | — | 6 |
 | 165 | [140793](../reports/140793.md) | UniFi Video v3.2.2 (Windows) Local Privileges Escalation due to w | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 7.8 | — | 3 |
-| 166 | [895795](../reports/895795.md) | [h1-2006 2020]  Writeup h12006 CTF | [h1-ctf](../by-program/h1-ctf.md) | High | — | 2 |
-| 167 | [1018790](../reports/1018790.md) | Subdomains takeover of  register.acronis.com, promo.acronis.com,  | [Acronis](../by-program/acronis.md) | High | — | 2 |
+| 166 | [358359](../reports/358359.md) | Privilage escalation with malicious .npmrc | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.1 | — | 3 |
+| 167 | [895795](../reports/895795.md) | [h1-2006 2020]  Writeup h12006 CTF | [h1-ctf](../by-program/h1-ctf.md) | High | — | 2 |
 | 168 | [714215](../reports/714215.md) | curl on Windows can be forced to execute code via OpenSSL environ | [curl](../by-program/curl.md) | High — CVSS 7.9 | — | 2 |
-| 169 | [740989](../reports/740989.md) | Shopify Stocky App OAuth Misconfiguration | [Shopify](../by-program/shopify.md) | Medium | — | 524 |
-| 170 | [1032468](../reports/1032468.md) | Read-only application can publish/delete fleets | [X / xAI](../by-program/x.md) | Medium | — | 398 |
-| 171 | [605720](../reports/605720.md) | Team member with Program permission only can escalate to Admin pe | [HackerOne](../by-program/security.md) | Medium — CVSS 4.8 | — | 267 |
-| 172 | [2085260](../reports/2085260.md) | Takeover of hackerone.engineering via Github | [HackerOne](../by-program/security.md) | Medium — CVSS 5.9 | — | 133 |
-| 173 | [3027478](../reports/3027478.md) | Chain Vulnerability lead to Full Control Group Live Accounts & Un | [TikTok](../by-program/tiktok.md) | Medium — CVSS 5.9 | — | 94 |
-| 174 | [2081930](../reports/2081930.md) | Bypass report submit restriction/ban using the API key | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 88 |
-| 175 | [1130376](../reports/1130376.md) | subdomain takeover on fddkim.zomato.com | [Eternal](../by-program/eternal.md) | Medium — CVSS 5.4 | — | 61 |
-| 176 | [716448](../reports/716448.md) | Unquoted Service Path in "Rockstar Game Library Service" | [Rockstar Games](../by-program/rockstargames.md) | Medium — CVSS 6.7 | — | 60 |
-| 177 | [2999394](../reports/2999394.md) | Pivilege escalation of any new user to Keymaster caused by CSRF | [WordPress](../by-program/wordpress.md) | Medium | — | 60 |
-| 178 | [440963](../reports/440963.md) | Privilege Escalation by abusing non-existent path. (Windows) | [PortSwigger Web Security](../by-program/portswigger.md) | Medium — CVSS 6.3 | — | 59 |
-| 179 | [1572591](../reports/1572591.md) | Privilege Escalation - "Analyst" Role Can View Email Domains of a | [LinkedIn](../by-program/linkedin.md) | Medium | — | 48 |
-| 180 | [365853](../reports/365853.md) | Subdomain Takeover - https://competition.shopify.com/ | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.3 | — | 45 |
-| 181 | [2084280](../reports/2084280.md) | WASI sandbox escape via symlink | [Node.js](../by-program/nodejs.md) | Medium — CVSS 4.8 | — | 44 |
-| 182 | [3020021](../reports/3020021.md) | [Vertical Privilege Escalation] User can Unapproved any Approved  | [Mozilla](../by-program/mozilla.md) | Medium — CVSS 6.5 | — | 42 |
-| 183 | [767647](../reports/767647.md) | Vulnerabilities chain leading to privilege escalation | [Nord Security](../by-program/nordsecurity.md) | Medium | — | 42 |
-| 184 | [1296584](../reports/1296584.md) | Getting a free delivery by singing up from "admin_@glovoapp.com" | [Glovo](../by-program/glovo.md) | Medium — CVSS 5.3 | — | 41 |
-| 185 | [1218523](../reports/1218523.md) | NordVPN Linux Client - Unsafe service file permissions leads to L | [Nord Security](../by-program/nordsecurity.md) | Medium | — | 40 |
-| 186 | [737695](../reports/737695.md) | subdomain takeover at status0.stripo.email | [Stripo Inc](../by-program/stripo.md) | Medium | — | 36 |
-| 187 | [1073114](../reports/1073114.md) | 2 Subdomains Takeover at readfu.com | [X / xAI](../by-program/x.md) | Medium | — | 35 |
-| 188 | [1063022](../reports/1063022.md) | Corss-Tenant IDOR on Business allowing escalation privilege, invi | [Uber](../by-program/uber.md) | Medium — CVSS 5.4 | — | 29 |
-| 189 | [959608](../reports/959608.md) | Local Privilege Escalation via DLL Search-Order Hijacking with Cy | [Acronis](../by-program/acronis.md) | Medium — CVSS 6.3 | — | 25 |
+| 169 | [1018790](../reports/1018790.md) | Subdomains takeover of  register.acronis.com, promo.acronis.com,  | [Acronis](../by-program/acronis.md) | High | — | 2 |
+| 170 | [740989](../reports/740989.md) | Shopify Stocky App OAuth Misconfiguration | [Shopify](../by-program/shopify.md) | Medium | — | 524 |
+| 171 | [1032468](../reports/1032468.md) | Read-only application can publish/delete fleets | [X / xAI](../by-program/x.md) | Medium | — | 398 |
+| 172 | [605720](../reports/605720.md) | Team member with Program permission only can escalate to Admin pe | [HackerOne](../by-program/security.md) | Medium — CVSS 4.8 | — | 267 |
+| 173 | [2085260](../reports/2085260.md) | Takeover of hackerone.engineering via Github | [HackerOne](../by-program/security.md) | Medium — CVSS 5.9 | — | 133 |
+| 174 | [3027478](../reports/3027478.md) | Chain Vulnerability lead to Full Control Group Live Accounts & Un | [TikTok](../by-program/tiktok.md) | Medium — CVSS 5.9 | — | 94 |
+| 175 | [2081930](../reports/2081930.md) | Bypass report submit restriction/ban using the API key | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 88 |
+| 176 | [1130376](../reports/1130376.md) | subdomain takeover on fddkim.zomato.com | [Eternal](../by-program/eternal.md) | Medium — CVSS 5.4 | — | 61 |
+| 177 | [716448](../reports/716448.md) | Unquoted Service Path in "Rockstar Game Library Service" | [Rockstar Games](../by-program/rockstargames.md) | Medium — CVSS 6.7 | — | 60 |
+| 178 | [2999394](../reports/2999394.md) | Pivilege escalation of any new user to Keymaster caused by CSRF | [WordPress](../by-program/wordpress.md) | Medium | — | 60 |
+| 179 | [440963](../reports/440963.md) | Privilege Escalation by abusing non-existent path. (Windows) | [PortSwigger Web Security](../by-program/portswigger.md) | Medium — CVSS 6.3 | — | 59 |
+| 180 | [1572591](../reports/1572591.md) | Privilege Escalation - "Analyst" Role Can View Email Domains of a | [LinkedIn](../by-program/linkedin.md) | Medium | — | 48 |
+| 181 | [365853](../reports/365853.md) | Subdomain Takeover - https://competition.shopify.com/ | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.3 | — | 45 |
+| 182 | [2084280](../reports/2084280.md) | WASI sandbox escape via symlink | [Node.js](../by-program/nodejs.md) | Medium — CVSS 4.8 | — | 44 |
+| 183 | [3020021](../reports/3020021.md) | [Vertical Privilege Escalation] User can Unapproved any Approved  | [Mozilla](../by-program/mozilla.md) | Medium — CVSS 6.5 | — | 42 |
+| 184 | [767647](../reports/767647.md) | Vulnerabilities chain leading to privilege escalation | [Nord Security](../by-program/nordsecurity.md) | Medium | — | 42 |
+| 185 | [1296584](../reports/1296584.md) | Getting a free delivery by singing up from "admin_@glovoapp.com" | [Glovo](../by-program/glovo.md) | Medium — CVSS 5.3 | — | 41 |
+| 186 | [1218523](../reports/1218523.md) | NordVPN Linux Client - Unsafe service file permissions leads to L | [Nord Security](../by-program/nordsecurity.md) | Medium | — | 40 |
+| 187 | [737695](../reports/737695.md) | subdomain takeover at status0.stripo.email | [Stripo Inc](../by-program/stripo.md) | Medium | — | 36 |
+| 188 | [1073114](../reports/1073114.md) | 2 Subdomains Takeover at readfu.com | [X / xAI](../by-program/x.md) | Medium | — | 35 |
+| 189 | [1063022](../reports/1063022.md) | Corss-Tenant IDOR on Business allowing escalation privilege, invi | [Uber](../by-program/uber.md) | Medium — CVSS 5.4 | — | 29 |
 | 190 | [794904](../reports/794904.md) | Users Without Permission Can Download Restricted Files | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 4.3 | — | 25 |
-| 191 | [852091](../reports/852091.md) | Privilege Escalation vulnerability in steam's Remote Play feature | [Valve](../by-program/valve.md) | Medium — CVSS 4.7 | — | 22 |
-| 192 | [810320](../reports/810320.md) | Read-only user can delete higher privileged members using open DE | [Helium](../by-program/helium.md) | Medium | — | 21 |
-| 193 | [877300](../reports/877300.md) | User with single department permission can view applicant list of | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 5.3 | — | 20 |
+| 191 | [959608](../reports/959608.md) | Local Privilege Escalation via DLL Search-Order Hijacking with Cy | [Acronis](../by-program/acronis.md) | Medium — CVSS 6.3 | — | 25 |
+| 192 | [852091](../reports/852091.md) | Privilege Escalation vulnerability in steam's Remote Play feature | [Valve](../by-program/valve.md) | Medium — CVSS 4.7 | — | 22 |
+| 193 | [810320](../reports/810320.md) | Read-only user can delete higher privileged members using open DE | [Helium](../by-program/helium.md) | Medium | — | 21 |
 | 194 | [496360](../reports/496360.md) | EMAIL SPOOFING | [Khan Academy](../by-program/khanacademy.md) | Medium — CVSS 4.6 | — | 20 |
-| 195 | [1809633](../reports/1809633.md) | Can VIEW Videos on LinkedIn Learning that Require a Subscription  | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 5.3 | — | 19 |
-| 196 | [1280167](../reports/1280167.md) | DNS Misconfiguration (Subdomain Takeover)  - █████████.8x8.com | [8x8](../by-program/8x8-bounty.md) | Medium | — | 18 |
-| 197 | [619484](../reports/619484.md) | User with read-only access to a share can gain write access to su | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.8 | — | 17 |
-| 198 | [518837](../reports/518837.md) | DLL Hijacking in Burp Suite Pro 2.0.19 Installer | [PortSwigger Web Security](../by-program/portswigger.md) | Medium | — | 17 |
-| 199 | [959815](../reports/959815.md) | Arbitrary Files and Folders Deletion vulnerability with Acronis M | [Acronis](../by-program/acronis.md) | Medium | — | 14 |
+| 195 | [877300](../reports/877300.md) | User with single department permission can view applicant list of | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 5.3 | — | 20 |
+| 196 | [1809633](../reports/1809633.md) | Can VIEW Videos on LinkedIn Learning that Require a Subscription  | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 5.3 | — | 19 |
+| 197 | [1280167](../reports/1280167.md) | DNS Misconfiguration (Subdomain Takeover)  - █████████.8x8.com | [8x8](../by-program/8x8-bounty.md) | Medium | — | 18 |
+| 198 | [619484](../reports/619484.md) | User with read-only access to a share can gain write access to su | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.8 | — | 17 |
+| 199 | [518837](../reports/518837.md) | DLL Hijacking in Burp Suite Pro 2.0.19 Installer | [PortSwigger Web Security](../by-program/portswigger.md) | Medium | — | 17 |
 | 200 | [165229](../reports/165229.md) | Nextcloud 10.0 privilege escalation issue - Normal user can mask  | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.4 | — | 14 |
-| 201 | [332631](../reports/332631.md) | Bypass blocked profile protection on aircrm.ubnt.com | [Ubiquiti Inc.](../by-program/ui.md) | Medium | — | 13 |
-| 202 | [195088](../reports/195088.md) | Every user can delete public deploy keys | [GitLab](../by-program/gitlab.md) | Medium — CVSS 6.5 | — | 12 |
+| 201 | [959815](../reports/959815.md) | Arbitrary Files and Folders Deletion vulnerability with Acronis M | [Acronis](../by-program/acronis.md) | Medium | — | 14 |
+| 202 | [332631](../reports/332631.md) | Bypass blocked profile protection on aircrm.ubnt.com | [Ubiquiti Inc.](../by-program/ui.md) | Medium | — | 13 |
 | 203 | [244567](../reports/244567.md) | [Privilege Escalation] Authenticated users can manipulate others  | [WakaTime](../by-program/wakatime.md) | Medium | — | 12 |
-| 204 | [196448](../reports/196448.md) | Local file inclusion vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 11 |
+| 204 | [195088](../reports/195088.md) | Every user can delete public deploy keys | [GitLab](../by-program/gitlab.md) | Medium — CVSS 6.5 | — | 12 |
 | 205 | [1084904](../reports/1084904.md) | [h1-2102] [Plus] User with Store Management Permission can Make c | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.3 | — | 11 |
-| 206 | [1646554](../reports/1646554.md) | support.invisionpower.com takeover the subdomain with Zendesk | [Invision Power Services, Inc.](../by-program/ips.md) | Medium | — | 11 |
-| 207 | [1211160](../reports/1211160.md) | Node Installer Local Privilege Escalation  | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.7 | — | 10 |
-| 208 | [169680](../reports/169680.md) | Bypass permissions | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.4 | — | 9 |
-| 209 | [833782](../reports/833782.md) | Allow authenticated users can edit, trash,and add new in BuddyPre | [WordPress](../by-program/wordpress.md) | Medium | — | 8 |
-| 210 | [963103](../reports/963103.md) | Local Privilege Escalation via DLL Search-Order Hijacking with Cy | [Acronis](../by-program/acronis.md) | Medium | — | 7 |
-| 211 | [233408](../reports/233408.md) | Subdomain takeover (sales.mixmax.com) | [Mixmax](../by-program/mixmax.md) | Medium | — | 7 |
-| 212 | [1946470](../reports/1946470.md) | Dependency Policy Bypass via process.binding | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.5 | — | 7 |
-| 213 | [394861](../reports/394861.md) | Incorrect Permission Assignment for Critical Resource | [MariaDB](../by-program/mariadb.md) | Medium | — | 6 |
-| 214 | [184877](../reports/184877.md) |  Out-of-date Version (Apache)  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
-| 215 | [295900](../reports/295900.md) | New team invitation functionality allows extend team without upgr | [Infogram](../by-program/infogram.md) | Medium | — | 6 |
-| 216 | [1961655](../reports/1961655.md) | Renaming/aliasing relative symbolic links potentially redirects t | [Node.js](../by-program/nodejs.md) | Medium | — | 5 |
+| 206 | [196448](../reports/196448.md) | Local file inclusion vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 11 |
+| 207 | [1646554](../reports/1646554.md) | support.invisionpower.com takeover the subdomain with Zendesk | [Invision Power Services, Inc.](../by-program/ips.md) | Medium | — | 11 |
+| 208 | [1211160](../reports/1211160.md) | Node Installer Local Privilege Escalation  | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.7 | — | 10 |
+| 209 | [169680](../reports/169680.md) | Bypass permissions | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.4 | — | 9 |
+| 210 | [833782](../reports/833782.md) | Allow authenticated users can edit, trash,and add new in BuddyPre | [WordPress](../by-program/wordpress.md) | Medium | — | 8 |
+| 211 | [1946470](../reports/1946470.md) | Dependency Policy Bypass via process.binding | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.5 | — | 7 |
+| 212 | [233408](../reports/233408.md) | Subdomain takeover (sales.mixmax.com) | [Mixmax](../by-program/mixmax.md) | Medium | — | 7 |
+| 213 | [963103](../reports/963103.md) | Local Privilege Escalation via DLL Search-Order Hijacking with Cy | [Acronis](../by-program/acronis.md) | Medium | — | 7 |
+| 214 | [295900](../reports/295900.md) | New team invitation functionality allows extend team without upgr | [Infogram](../by-program/infogram.md) | Medium | — | 6 |
+| 215 | [184877](../reports/184877.md) |  Out-of-date Version (Apache)  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
+| 216 | [394861](../reports/394861.md) | Incorrect Permission Assignment for Critical Resource | [MariaDB](../by-program/mariadb.md) | Medium | — | 6 |
 | 217 | [174896](../reports/174896.md) | Dav sharing permissions issue | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.6 | — | 5 |
-| 218 | [858598](../reports/858598.md) | Local Privilege Escalation in anti_ransomware_service.exe via qua | [Acronis](../by-program/acronis.md) | Medium — CVSS 6.9 | — | 5 |
-| 219 | [1954535](../reports/1954535.md) | OpenSSL engines can be used to bypass and/or disable the permissi | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.3 | — | 4 |
-| 220 | [917946](../reports/917946.md) | It is possible to elevate privileges for any authenticated user t | [Rocket.Chat](../by-program/rocket_chat.md) | Medium | — | 3 |
-| 221 | [2043807](../reports/2043807.md) | Policy-restricted modules can escalate to higher privileges by im | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.7 | — | 2 |
-| 222 | [202767](../reports/202767.md) | Subdomain takeover at info.hacker.one | [HackerOne](../by-program/security.md) | Low — CVSS 3.5 | — | 134 |
-| 223 | [209004](../reports/209004.md) | Subdomain takeover #2  at info.hacker.one | [HackerOne](../by-program/security.md) | Low — CVSS 3.5 | — | 78 |
-| 224 | [217358](../reports/217358.md) | Subdomain takeover #3 at info.hacker.one | [HackerOne](../by-program/security.md) | Low — CVSS 3.5 | — | 58 |
-| 225 | [3025797](../reports/3025797.md) | [Privilege Escalation] User can Pin|Unpin Any Comment on Any Proj | [Mozilla](../by-program/mozilla.md) | Low | — | 56 |
-| 226 | [220002](../reports/220002.md) | Subdomain takeover #4 at info.hacker.one | [HackerOne](../by-program/security.md) | Low — CVSS 3.5 | — | 50 |
-| 227 | [1114617](../reports/1114617.md) | Privilege Escalation leading to post in channel without having pr | [Mattermost](../by-program/mattermost.md) | Low — CVSS 2.6 | — | 45 |
-| 228 | [1174527](../reports/1174527.md) | Privilege Escalation Leads to Control The Owner Access Token Whic | [Logitech](../by-program/logitech.md) | Low — CVSS 2.4 | — | 38 |
+| 218 | [1961655](../reports/1961655.md) | Renaming/aliasing relative symbolic links potentially redirects t | [Node.js](../by-program/nodejs.md) | Medium | — | 5 |
+| 219 | [858598](../reports/858598.md) | Local Privilege Escalation in anti_ransomware_service.exe via qua | [Acronis](../by-program/acronis.md) | Medium — CVSS 6.9 | — | 5 |
+| 220 | [1954535](../reports/1954535.md) | OpenSSL engines can be used to bypass and/or disable the permissi | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.3 | — | 4 |
+| 221 | [917946](../reports/917946.md) | It is possible to elevate privileges for any authenticated user t | [Rocket.Chat](../by-program/rocket_chat.md) | Medium | — | 3 |
+| 222 | [2043807](../reports/2043807.md) | Policy-restricted modules can escalate to higher privileges by im | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.7 | — | 2 |
+| 223 | [202767](../reports/202767.md) | Subdomain takeover at info.hacker.one | [HackerOne](../by-program/security.md) | Low — CVSS 3.5 | — | 134 |
+| 224 | [209004](../reports/209004.md) | Subdomain takeover #2  at info.hacker.one | [HackerOne](../by-program/security.md) | Low — CVSS 3.5 | — | 78 |
+| 225 | [217358](../reports/217358.md) | Subdomain takeover #3 at info.hacker.one | [HackerOne](../by-program/security.md) | Low — CVSS 3.5 | — | 58 |
+| 226 | [3025797](../reports/3025797.md) | [Privilege Escalation] User can Pin|Unpin Any Comment on Any Proj | [Mozilla](../by-program/mozilla.md) | Low | — | 56 |
+| 227 | [220002](../reports/220002.md) | Subdomain takeover #4 at info.hacker.one | [HackerOne](../by-program/security.md) | Low — CVSS 3.5 | — | 50 |
+| 228 | [1114617](../reports/1114617.md) | Privilege Escalation leading to post in channel without having pr | [Mattermost](../by-program/mattermost.md) | Low — CVSS 2.6 | — | 45 |
 | 229 | [181748](../reports/181748.md) | [IDOR][translate.twitter.com] Opportunity to change any comment a | [X / xAI](../by-program/x.md) | Low | — | 38 |
-| 230 | [905543](../reports/905543.md) | Low Privileged user can add or remove cash to/from sales register | [Shopify](../by-program/shopify.md) | Low | — | 37 |
-| 231 | [2079103](../reports/2079103.md) | Permission model improperly processes UNC paths | [Node.js](../by-program/nodejs.md) | Low — CVSS 3.6 | — | 35 |
-| 232 | [578119](../reports/578119.md) | Privilege escalation due to insecure use of logrotate | [GitLab](../by-program/gitlab.md) | Low | — | 32 |
-| 233 | [692068](../reports/692068.md) | Domain takeover on http://doesfranshaveashell.com/ due to expirat | [Ed](../by-program/ed.md) | Low — CVSS 2.7 | — | 30 |
-| 234 | [1103448](../reports/1103448.md) | Organization Members in Snap Kit may Deactivate Apps | [Snapchat](../by-program/snapchat.md) | Low | — | 26 |
-| 235 | [953719](../reports/953719.md) | Subdomain Takeover – www.jet.acronis.com pointing to unclaimed We | [Acronis](../by-program/acronis.md) | Low | — | 19 |
-| 236 | [2145862](../reports/2145862.md) | fs.lstat bypasses permission model | [Node.js](../by-program/nodejs.md) | Low — CVSS 2.9 | — | 18 |
-| 237 | [240562](../reports/240562.md) | Privilege Escalation. | [Inflection](../by-program/inflection.md) | Low — CVSS 3.0 | — | 16 |
-| 238 | [1083532](../reports/1083532.md) | Acronis True Image 2020 Build 22510 Nonstop Backup Service Unquot | [Acronis](../by-program/acronis.md) | Low | — | 15 |
-| 239 | [952166](../reports/952166.md) | Subdomain Takeover – jet.acronis.com pointing to unclaimed Webflo | [Acronis](../by-program/acronis.md) | Low | — | 15 |
-| 240 | [633245](../reports/633245.md) | Delete permission can be added on reshare | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 14 |
+| 230 | [1174527](../reports/1174527.md) | Privilege Escalation Leads to Control The Owner Access Token Whic | [Logitech](../by-program/logitech.md) | Low — CVSS 2.4 | — | 38 |
+| 231 | [905543](../reports/905543.md) | Low Privileged user can add or remove cash to/from sales register | [Shopify](../by-program/shopify.md) | Low | — | 37 |
+| 232 | [2079103](../reports/2079103.md) | Permission model improperly processes UNC paths | [Node.js](../by-program/nodejs.md) | Low — CVSS 3.6 | — | 35 |
+| 233 | [578119](../reports/578119.md) | Privilege escalation due to insecure use of logrotate | [GitLab](../by-program/gitlab.md) | Low | — | 32 |
+| 234 | [692068](../reports/692068.md) | Domain takeover on http://doesfranshaveashell.com/ due to expirat | [Ed](../by-program/ed.md) | Low — CVSS 2.7 | — | 30 |
+| 235 | [1103448](../reports/1103448.md) | Organization Members in Snap Kit may Deactivate Apps | [Snapchat](../by-program/snapchat.md) | Low | — | 26 |
+| 236 | [953719](../reports/953719.md) | Subdomain Takeover – www.jet.acronis.com pointing to unclaimed We | [Acronis](../by-program/acronis.md) | Low | — | 19 |
+| 237 | [2145862](../reports/2145862.md) | fs.lstat bypasses permission model | [Node.js](../by-program/nodejs.md) | Low — CVSS 2.9 | — | 18 |
+| 238 | [240562](../reports/240562.md) | Privilege Escalation. | [Inflection](../by-program/inflection.md) | Low — CVSS 3.0 | — | 16 |
+| 239 | [1083532](../reports/1083532.md) | Acronis True Image 2020 Build 22510 Nonstop Backup Service Unquot | [Acronis](../by-program/acronis.md) | Low | — | 15 |
+| 240 | [952166](../reports/952166.md) | Subdomain Takeover – jet.acronis.com pointing to unclaimed Webflo | [Acronis](../by-program/acronis.md) | Low | — | 15 |
 | 241 | [300881](../reports/300881.md) | Account members can re-add themselve after has been deleted by ad | [Mavenlink](../by-program/mavenlink.md) | Low | — | 14 |
-| 242 | [1420070](../reports/1420070.md) | Force User to Accept Attacker's invite [ Restrict user to create  | [Krisp](../by-program/krisp.md) | Low | — | 10 |
-| 243 | [1540252](../reports/1540252.md) | subdomain takeover at odoo-staging.exness.io | [EXNESS](../by-program/exness.md) | Low | — | 9 |
-| 244 | [208719](../reports/208719.md) | Subdomain Takeover at Landing.udemy.com  | [Udemy](../by-program/udemy.md) | Low | — | 9 |
-| 245 | [153905](../reports/153905.md) | IDOR - Disable sharing | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.6 | — | 8 |
-| 246 | [971610](../reports/971610.md) | Local Privilege Escalation via EXE hijacking with Acronis True Im | [Acronis](../by-program/acronis.md) | Low | — | 7 |
-| 247 | [1570591](../reports/1570591.md) | subdomain takeover at status.hosting24.com | [hostinger ](../by-program/hostinger.md) | Low | — | 6 |
-| 248 | [1092859](../reports/1092859.md) | KOPS documentation references domains which were not registered | [Kubernetes](../by-program/kubernetes.md) | Low — CVSS 3.1 | — | 5 |
-| 249 | [3353000](../reports/3353000.md) | Privilege Escalation – Access to the Alert Subscribers page for u | [SingleStore](../by-program/singlestore.md) | Low — CVSS 3.8 | — | 5 |
-| 250 | [1145044](../reports/1145044.md) | Holes in EndpointSlice Validation Enable Host Network Hijack | [Kubernetes](../by-program/kubernetes.md) | Low — CVSS 2.7 | — | 5 |
-| 251 | [763994](../reports/763994.md) | Disclose Any Store products, Files, Purchase Orders Via Email thr | [Shopify](../by-program/shopify.md) | None | — | 116 |
-| 252 | [175070](../reports/175070.md) | Subdomain takeover on rider.uber.com due to non-existent distribu | [Uber](../by-program/uber.md) | None | — | 69 |
-| 253 | [145224](../reports/145224.md) | Subdomain takeover on partners.ubnt.com due to non-used CloudFron | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 57 |
-| 254 | [175490](../reports/175490.md) | Able to Login deactivated staff account in shopify app mobile | [Shopify](../by-program/shopify.md) | None | — | 48 |
-| 255 | [594080](../reports/594080.md) | Privilege escalation allows to use iframe functionality w/o upgra | [Infogram](../by-program/infogram.md) | None | — | 35 |
-| 256 | [174983](../reports/174983.md) | Mailgun misconfiguration leads to email snooping and postmaster@- | [GitLab](../by-program/gitlab.md) | None | — | 31 |
-| 257 | [194351](../reports/194351.md) | Able to download arbitrary  PHP files at yelpblog.com | [Yelp](../by-program/yelp.md) | None | — | 21 |
-| 258 | [2260337](../reports/2260337.md) | Permissions can be bypassed via arbitrary code execution through  | [Node.js](../by-program/nodejs.md) | None | — | 20 |
-| 259 | [1344982](../reports/1344982.md) | Domain Takeover at 3hopify.media | [Shopify](../by-program/shopify.md) | None | — | 19 |
-| 260 | [150976](../reports/150976.md) | Flash “local-with-filesystem” Bypass in navigateToURL | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 17 |
-| 261 | [128685](../reports/128685.md) | SSRF on testing endpoint | [APITest.IO](../by-program/apitest.md) | None | — | 14 |
-| 262 | [1690951](../reports/1690951.md) | Subdomain Takeover at course.oberlo.com | [Shopify](../by-program/shopify.md) | None | — | 14 |
+| 242 | [633245](../reports/633245.md) | Delete permission can be added on reshare | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 14 |
+| 243 | [1420070](../reports/1420070.md) | Force User to Accept Attacker's invite [ Restrict user to create  | [Krisp](../by-program/krisp.md) | Low | — | 10 |
+| 244 | [1540252](../reports/1540252.md) | subdomain takeover at odoo-staging.exness.io | [EXNESS](../by-program/exness.md) | Low | — | 9 |
+| 245 | [208719](../reports/208719.md) | Subdomain Takeover at Landing.udemy.com  | [Udemy](../by-program/udemy.md) | Low | — | 9 |
+| 246 | [153905](../reports/153905.md) | IDOR - Disable sharing | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.6 | — | 8 |
+| 247 | [971610](../reports/971610.md) | Local Privilege Escalation via EXE hijacking with Acronis True Im | [Acronis](../by-program/acronis.md) | Low | — | 7 |
+| 248 | [1570591](../reports/1570591.md) | subdomain takeover at status.hosting24.com | [hostinger ](../by-program/hostinger.md) | Low | — | 6 |
+| 249 | [1145044](../reports/1145044.md) | Holes in EndpointSlice Validation Enable Host Network Hijack | [Kubernetes](../by-program/kubernetes.md) | Low — CVSS 2.7 | — | 5 |
+| 250 | [3353000](../reports/3353000.md) | Privilege Escalation – Access to the Alert Subscribers page for u | [SingleStore](../by-program/singlestore.md) | Low — CVSS 3.8 | — | 5 |
+| 251 | [1092859](../reports/1092859.md) | KOPS documentation references domains which were not registered | [Kubernetes](../by-program/kubernetes.md) | Low — CVSS 3.1 | — | 5 |
+| 252 | [763994](../reports/763994.md) | Disclose Any Store products, Files, Purchase Orders Via Email thr | [Shopify](../by-program/shopify.md) | None | — | 116 |
+| 253 | [175070](../reports/175070.md) | Subdomain takeover on rider.uber.com due to non-existent distribu | [Uber](../by-program/uber.md) | None | — | 69 |
+| 254 | [145224](../reports/145224.md) | Subdomain takeover on partners.ubnt.com due to non-used CloudFron | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 57 |
+| 255 | [175490](../reports/175490.md) | Able to Login deactivated staff account in shopify app mobile | [Shopify](../by-program/shopify.md) | None | — | 48 |
+| 256 | [594080](../reports/594080.md) | Privilege escalation allows to use iframe functionality w/o upgra | [Infogram](../by-program/infogram.md) | None | — | 35 |
+| 257 | [174983](../reports/174983.md) | Mailgun misconfiguration leads to email snooping and postmaster@- | [GitLab](../by-program/gitlab.md) | None | — | 31 |
+| 258 | [194351](../reports/194351.md) | Able to download arbitrary  PHP files at yelpblog.com | [Yelp](../by-program/yelp.md) | None | — | 21 |
+| 259 | [2260337](../reports/2260337.md) | Permissions can be bypassed via arbitrary code execution through  | [Node.js](../by-program/nodejs.md) | None | — | 20 |
+| 260 | [1344982](../reports/1344982.md) | Domain Takeover at 3hopify.media | [Shopify](../by-program/shopify.md) | None | — | 19 |
+| 261 | [150976](../reports/150976.md) | Flash “local-with-filesystem” Bypass in navigateToURL | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 17 |
+| 262 | [137503](../reports/137503.md) | Inadequate access controls in "Vote" functionality??? | [HackerOne](../by-program/security.md) | None | — | 14 |
 | 263 | [157750](../reports/157750.md) | Missing rate limit on critical user actions e.g. reset password,  | [HackerOne](../by-program/security.md) | None | — | 14 |
-| 264 | [137503](../reports/137503.md) | Inadequate access controls in "Vote" functionality??? | [HackerOne](../by-program/security.md) | None | — | 14 |
-| 265 | [159512](../reports/159512.md) | Requesting Mediation possible on reports that are too old for med | [HackerOne](../by-program/security.md) | None | — | 13 |
-| 266 | [59505](../reports/59505.md) | Create and Update patients vulnerability | [drchrono](../by-program/drchrono.md) | None | — | 11 |
-| 267 | [151459](../reports/151459.md) | Creating Post on a restricted channel | [Slack](../by-program/slack.md) | None | — | 10 |
-| 268 | [53858](../reports/53858.md) | Insecure Direct Object Reference - access to other user/group DM' | [X / xAI](../by-program/x.md) | None | — | 10 |
-| 269 | [77679](../reports/77679.md) | http://217.20.144.201 privilege escalation in apache tomcat Sessi | [ok.ru](../by-program/ok.md) | None | — | 9 |
+| 264 | [1690951](../reports/1690951.md) | Subdomain Takeover at course.oberlo.com | [Shopify](../by-program/shopify.md) | None | — | 14 |
+| 265 | [128685](../reports/128685.md) | SSRF on testing endpoint | [APITest.IO](../by-program/apitest.md) | None | — | 14 |
+| 266 | [159512](../reports/159512.md) | Requesting Mediation possible on reports that are too old for med | [HackerOne](../by-program/security.md) | None | — | 13 |
+| 267 | [59505](../reports/59505.md) | Create and Update patients vulnerability | [drchrono](../by-program/drchrono.md) | None | — | 11 |
+| 268 | [151459](../reports/151459.md) | Creating Post on a restricted channel | [Slack](../by-program/slack.md) | None | — | 10 |
+| 269 | [53858](../reports/53858.md) | Insecure Direct Object Reference - access to other user/group DM' | [X / xAI](../by-program/x.md) | None | — | 10 |
 | 270 | [244474](../reports/244474.md) | Mailgun misconfiguration  | [WakaTime](../by-program/wakatime.md) | None | — | 9 |
 | 271 | [154410](../reports/154410.md) | Delete/modify  your own comment after limited access(IDOR) | [Shopify](../by-program/shopify.md) | None | — | 9 |
-| 272 | [112156](../reports/112156.md) | SSRF in the Connector Designer (REST and Elastic Search) | [Bime](../by-program/bime.md) | None | — | 7 |
-| 273 | [167846](../reports/167846.md) | Deleted Post and Administrative Function Access in eCommerce Foru | [Shopify](../by-program/shopify.md) | None | — | 7 |
-| 274 | [155704](../reports/155704.md) | Staff member can delete Private Apps | [Shopify](../by-program/shopify.md) | None | — | 7 |
-| 275 | [134292](../reports/134292.md) | Attacker can delete (and read) private project webhooks | [GitLab](../by-program/gitlab.md) | None | — | 6 |
-| 276 | [120115](../reports/120115.md) | Critical - Insecure Direct Object Reference - Deleting any member | [Veris](../by-program/veris.md) | None | — | 6 |
-| 277 | [59508](../reports/59508.md) | Accessing all appointments vulnerability | [drchrono](../by-program/drchrono.md) | None | — | 6 |
-| 278 | [107336](../reports/107336.md) | Team Member(s) associated with a  Group have Read-only permission | [HackerOne](../by-program/security.md) | None | — | 6 |
-| 279 | [52707](../reports/52707.md) | Invite any user to your group without even following him | [Vimeo](../by-program/vimeo.md) | None | — | 6 |
-| 280 | [134299](../reports/134299.md) | Attacker can post notes on private MR, snippets, and issues | [GitLab](../by-program/gitlab.md) | None | — | 6 |
-| 281 | [45960](../reports/45960.md) | CRITICAL vulnerability - Insecure Direct Object Reference - Unaut | [Vimeo](../by-program/vimeo.md) | None | — | 5 |
-| 282 | [145745](../reports/145745.md) | Business/Functional logic bypass: Remove admins from admin group. | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
-| 283 | [143903](../reports/143903.md) | File upload over private IM channel | [Slack](../by-program/slack.md) | None | — | 5 |
-| 284 | [136531](../reports/136531.md) | Compromising Atlassian Confluence (team.uberinternal.com) via Wor | [Uber](../by-program/uber.md) | None | — | 4 |
-| 285 | [173622](../reports/173622.md) | Bypassing quota limit  | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
-| 286 | [154529](../reports/154529.md) | Bookmarks: Delete all existing bookmarks of a user | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
+| 272 | [77679](../reports/77679.md) | http://217.20.144.201 privilege escalation in apache tomcat Sessi | [ok.ru](../by-program/ok.md) | None | — | 9 |
+| 273 | [155704](../reports/155704.md) | Staff member can delete Private Apps | [Shopify](../by-program/shopify.md) | None | — | 7 |
+| 274 | [112156](../reports/112156.md) | SSRF in the Connector Designer (REST and Elastic Search) | [Bime](../by-program/bime.md) | None | — | 7 |
+| 275 | [167846](../reports/167846.md) | Deleted Post and Administrative Function Access in eCommerce Foru | [Shopify](../by-program/shopify.md) | None | — | 7 |
+| 276 | [134299](../reports/134299.md) | Attacker can post notes on private MR, snippets, and issues | [GitLab](../by-program/gitlab.md) | None | — | 6 |
+| 277 | [134292](../reports/134292.md) | Attacker can delete (and read) private project webhooks | [GitLab](../by-program/gitlab.md) | None | — | 6 |
+| 278 | [59508](../reports/59508.md) | Accessing all appointments vulnerability | [drchrono](../by-program/drchrono.md) | None | — | 6 |
+| 279 | [107336](../reports/107336.md) | Team Member(s) associated with a  Group have Read-only permission | [HackerOne](../by-program/security.md) | None | — | 6 |
+| 280 | [120115](../reports/120115.md) | Critical - Insecure Direct Object Reference - Deleting any member | [Veris](../by-program/veris.md) | None | — | 6 |
+| 281 | [52707](../reports/52707.md) | Invite any user to your group without even following him | [Vimeo](../by-program/vimeo.md) | None | — | 6 |
+| 282 | [45960](../reports/45960.md) | CRITICAL vulnerability - Insecure Direct Object Reference - Unaut | [Vimeo](../by-program/vimeo.md) | None | — | 5 |
+| 283 | [145745](../reports/145745.md) | Business/Functional logic bypass: Remove admins from admin group. | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
+| 284 | [143903](../reports/143903.md) | File upload over private IM channel | [Slack](../by-program/slack.md) | None | — | 5 |
+| 285 | [154529](../reports/154529.md) | Bookmarks: Delete all existing bookmarks of a user | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
+| 286 | [136531](../reports/136531.md) | Compromising Atlassian Confluence (team.uberinternal.com) via Wor | [Uber](../by-program/uber.md) | None | — | 4 |
 | 287 | [43602](../reports/43602.md) | Buying ondemand videos that  0.1  and sometimes for free  | [Vimeo](../by-program/vimeo.md) | None | — | 4 |
-| 288 | [93020](../reports/93020.md) | Способ узнать имя человека и ВУЗ удаленной страницы | [VK.com](../by-program/vkcom.md) | None | — | 3 |
-| 289 | [97161](../reports/97161.md) | Can see private tweets via keyword searches on tweetdeck | [X / xAI](../by-program/x.md) | None | — | 3 |
-| 290 | [93294](../reports/93294.md) | First & Last Name Disclosure of any Shopify Store Admin | [Shopify](../by-program/shopify.md) | None | — | 3 |
-| 291 | [120318](../reports/120318.md) | Critical IDOR - Make Rule for Any Group & Any Venue remotely | [Veris](../by-program/veris.md) | None | — | 3 |
-| 292 | [78516](../reports/78516.md) | Доступ к чужим приватным фотографиям (3) через обложку видео | [ok.ru](../by-program/ok.md) | None | — | 3 |
-| 293 | [21210](../reports/21210.md) | privilege escalation | [Mavenlink](../by-program/mavenlink.md) | None | — | 3 |
-| 294 | [50786](../reports/50786.md) | A user can add videos to other user's private groups | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
-| 295 | [56726](../reports/56726.md) | Invitation issue | [Shopify](../by-program/shopify.md) | None | — | 3 |
-| 296 | [120305](../reports/120305.md) | Critical IDOR - Get venue data of any organization remotely | [Veris](../by-program/veris.md) | None | — | 3 |
+| 288 | [173622](../reports/173622.md) | Bypassing quota limit  | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
+| 289 | [21210](../reports/21210.md) | privilege escalation | [Mavenlink](../by-program/mavenlink.md) | None | — | 3 |
+| 290 | [93020](../reports/93020.md) | Способ узнать имя человека и ВУЗ удаленной страницы | [VK.com](../by-program/vkcom.md) | None | — | 3 |
+| 291 | [56726](../reports/56726.md) | Invitation issue | [Shopify](../by-program/shopify.md) | None | — | 3 |
+| 292 | [120126](../reports/120126.md) | Critical IDOR - Delete any rule of any organization remotely | [Veris](../by-program/veris.md) | None | — | 3 |
+| 293 | [93294](../reports/93294.md) | First & Last Name Disclosure of any Shopify Store Admin | [Shopify](../by-program/shopify.md) | None | — | 3 |
+| 294 | [78516](../reports/78516.md) | Доступ к чужим приватным фотографиям (3) через обложку видео | [ok.ru](../by-program/ok.md) | None | — | 3 |
+| 295 | [97161](../reports/97161.md) | Can see private tweets via keyword searches on tweetdeck | [X / xAI](../by-program/x.md) | None | — | 3 |
+| 296 | [50786](../reports/50786.md) | A user can add videos to other user's private groups | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
 | 297 | [120291](../reports/120291.md) | Critical IDOR - Set anyone's Terminal Data remotely | [Veris](../by-program/veris.md) | None | — | 3 |
 | 298 | [124564](../reports/124564.md) | Missing rate limit on private videos password | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
-| 299 | [50829](../reports/50829.md) | A user can post comments on other user's private videos | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
-| 300 | [8104](../reports/8104.md) | Deleting groups in any project without permission  | [Localize](../by-program/localize.md) | None | — | 3 |
-| 301 | [120126](../reports/120126.md) | Critical IDOR - Delete any rule of any organization remotely | [Veris](../by-program/veris.md) | None | — | 3 |
-| 302 | [163526](../reports/163526.md) | Email Spoofing | [Skyliner](../by-program/skyliner.md) | None | — | 3 |
-| 303 | [79046](../reports/79046.md) | Доступ к чужим групповым беседам. | [ok.ru](../by-program/ok.md) | None | — | 3 |
-| 304 | [8102](../reports/8102.md) | Making groups in any project without permission  | [Localize](../by-program/localize.md) | None | — | 3 |
-| 305 | [120123](../reports/120123.md) | Critical IDOR - Delete any venue of any organization remotely | [Veris](../by-program/veris.md) | None | — | 3 |
-| 306 | [120312](../reports/120312.md) | Critical IDOR - Can select any Parent while creating new Venue | [Veris](../by-program/veris.md) | None | — | 3 |
-| 307 | [50776](../reports/50776.md) | A user can edit comments even after video comments are disabled | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
-| 308 | [304642](../reports/304642.md) | Administrators can add other administrators | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
-| 309 | [157412](../reports/157412.md) | Querying private posts and changing post meta | [SecNews](../by-program/secnews.md) | None | — | 2 |
-| 310 | [76784](../reports/76784.md) | Cheating at gallery rating | [Zaption](../by-program/zaption.md) | None | — | 2 |
-| 311 | [43850](../reports/43850.md) | abusing Thumbnails(https://vimeo.com/upload/select_thumb) to see  | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
-| 312 | [50941](../reports/50941.md) | A user can enhance their videos with paid tracks without buying t | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
-| 313 | [118731](../reports/118731.md) | User with Read-Only permissions can edit the SwagAwarded Activiti | [HackerOne](../by-program/security.md) | None | — | 2 |
-| 314 | [51817](../reports/51817.md) | Post in private groups after getting removed | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
+| 299 | [120318](../reports/120318.md) | Critical IDOR - Make Rule for Any Group & Any Venue remotely | [Veris](../by-program/veris.md) | None | — | 3 |
+| 300 | [120123](../reports/120123.md) | Critical IDOR - Delete any venue of any organization remotely | [Veris](../by-program/veris.md) | None | — | 3 |
+| 301 | [8104](../reports/8104.md) | Deleting groups in any project without permission  | [Localize](../by-program/localize.md) | None | — | 3 |
+| 302 | [120312](../reports/120312.md) | Critical IDOR - Can select any Parent while creating new Venue | [Veris](../by-program/veris.md) | None | — | 3 |
+| 303 | [8102](../reports/8102.md) | Making groups in any project without permission  | [Localize](../by-program/localize.md) | None | — | 3 |
+| 304 | [163526](../reports/163526.md) | Email Spoofing | [Skyliner](../by-program/skyliner.md) | None | — | 3 |
+| 305 | [50776](../reports/50776.md) | A user can edit comments even after video comments are disabled | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
+| 306 | [50829](../reports/50829.md) | A user can post comments on other user's private videos | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
+| 307 | [79046](../reports/79046.md) | Доступ к чужим групповым беседам. | [ok.ru](../by-program/ok.md) | None | — | 3 |
+| 308 | [120305](../reports/120305.md) | Critical IDOR - Get venue data of any organization remotely | [Veris](../by-program/veris.md) | None | — | 3 |
+| 309 | [51817](../reports/51817.md) | Post in private groups after getting removed | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
+| 310 | [43850](../reports/43850.md) | abusing Thumbnails(https://vimeo.com/upload/select_thumb) to see  | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
+| 311 | [304642](../reports/304642.md) | Administrators can add other administrators | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
+| 312 | [76784](../reports/76784.md) | Cheating at gallery rating | [Zaption](../by-program/zaption.md) | None | — | 2 |
+| 313 | [50941](../reports/50941.md) | A user can enhance their videos with paid tracks without buying t | [Vimeo](../by-program/vimeo.md) | None | — | 2 |
+| 314 | [118731](../reports/118731.md) | User with Read-Only permissions can edit the SwagAwarded Activiti | [HackerOne](../by-program/security.md) | None | — | 2 |
 | 315 | [134757](../reports/134757.md) | staff memeber can install apps even if have limitied access  | [Shopify](../by-program/shopify.md) | None | — | 2 |
-| 316 | [126260](../reports/126260.md) | Privilege escalation to allow non activated users to login and us | [Uber](../by-program/uber.md) | None | — | 1 |
+| 316 | [157412](../reports/157412.md) | Querying private posts and changing post meta | [SecNews](../by-program/secnews.md) | None | — | 2 |
 | 317 | [52708](../reports/52708.md) | Share your channel to any user on vimeo without following him | [Vimeo](../by-program/vimeo.md) | None | — | 1 |
-| 318 | [380782](../reports/380782.md) | Ubuntu 12.04 Privilege Escalation | [Nextcloud](../by-program/nextcloud.md) | None | — | 0 |
+| 318 | [126260](../reports/126260.md) | Privilege escalation to allow non activated users to login and us | [Uber](../by-program/uber.md) | None | — | 1 |
+| 319 | [380782](../reports/380782.md) | Ubuntu 12.04 Privilege Escalation | [Nextcloud](../by-program/nextcloud.md) | None | — | 0 |

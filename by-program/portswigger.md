@@ -30,8 +30,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 24 | [2279041](../reports/2279041.md) | Changing the administrator password via admin console does n | Low | — | 40 | [osama-hamad](https://hackerone.com/osama-hamad) | 2024-05-20 |
 | 25 | [694749](../reports/694749.md) | Clicking "http://burp" hyperlink on FireFox CA Installation  | Low | — | 22 | [intelcorgi](https://hackerone.com/intelcorgi) | 2019-09-16 |
 | 26 | [1385844](../reports/1385844.md) | Information disclosure on error message | Low | — | 18 | [cometome780](https://hackerone.com/cometome780) | 2021-11-15 |
-| 27 | [191220](../reports/191220.md) | HTTP OPTION Method is Enabled on portswigger.net  | Low | — | 6 | [wragg-s](https://hackerone.com/wragg-s) | 2016-12-27 |
-| 28 | [186862](../reports/186862.md) | Order-phishing via Payment ID URL | Low | — | 6 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2016-11-30 |
+| 27 | [186862](../reports/186862.md) | Order-phishing via Payment ID URL | Low | — | 6 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2016-11-30 |
+| 28 | [191220](../reports/191220.md) | HTTP OPTION Method is Enabled on portswigger.net  | Low | — | 6 | [wragg-s](https://hackerone.com/wragg-s) | 2016-12-27 |
 | 29 | [206359](../reports/206359.md) |  Email Spoofing | Low | — | 3 | [dhamu007](https://hackerone.com/dhamu007) | 2017-02-14 |
 | 30 | [294891](../reports/294891.md) | Improper Certificate Validation | Low — CVSS 2.6 | — | 0 | [srssingh](https://hackerone.com/srssingh) | 2018-01-02 |
 | 31 | [2461737](../reports/2461737.md) | Incorrect logic when buy one more license which may lead to  | None | — | 60 | [liru](https://hackerone.com/liru) | 2024-04-16 |

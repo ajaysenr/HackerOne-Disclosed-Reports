@@ -11,6 +11,6 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 5 | [1073420](../reports/1073420.md) | IDOR at https://fast.trychameleon.com/observe/v2/profiles/ v | Medium — CVSS 6.5 | — | 13 | [cankat](https://hackerone.com/cankat) | 2021-02-03 |
 | 6 | [866576](../reports/866576.md) | Reflected XSS on https://apps.topcoder.com/wiki/pages/create | Medium — CVSS 5.4 | — | 6 | [meryem0x](https://hackerone.com/meryem0x) | 2020-05-12 |
 | 7 | [868572](../reports/868572.md) | CSRF on https://apps.topcoder.com/wiki/users/editmyprofilepi | Medium — CVSS 6.3 | — | 5 | [meryem0x](https://hackerone.com/meryem0x) | 2020-12-14 |
-| 8 | [866844](../reports/866844.md) | CSRF on https://apps.topcoder.com/wiki/plugins/socialbookmar | Medium — CVSS 4.3 | — | 3 | [meryem0x](https://hackerone.com/meryem0x) | 2020-05-12 |
-| 9 | [866837](../reports/866837.md) | Post Based Reflected XSS on https://apps.topcoder.com/wiki/p | Medium | — | 3 | [meryem0x](https://hackerone.com/meryem0x) | 2020-05-12 |
+| 8 | [866837](../reports/866837.md) | Post Based Reflected XSS on https://apps.topcoder.com/wiki/p | Medium | — | 3 | [meryem0x](https://hackerone.com/meryem0x) | 2020-05-12 |
+| 9 | [866844](../reports/866844.md) | CSRF on https://apps.topcoder.com/wiki/plugins/socialbookmar | Medium — CVSS 4.3 | — | 3 | [meryem0x](https://hackerone.com/meryem0x) | 2020-05-12 |
 | 10 | [1194301](../reports/1194301.md) | Reflected XSS in https://www.topcoder.com/blog/category/comm | Low — CVSS 3.4 | — | 22 | [c0mbo](https://hackerone.com/c0mbo) | 2021-07-12 |

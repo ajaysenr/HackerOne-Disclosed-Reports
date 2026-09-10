@@ -1,4 +1,4 @@
-# phpBB — Disclosed Reports (4 total)
+# phpBB — Disclosed Reports (5 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -8,3 +8,4 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 2 | [3608558](../reports/3608558.md) | Blind POST SSRF via Web Push Notification Endpoint | Medium — CVSS 5.9 | — | 9 | [misop00p](https://hackerone.com/misop00p) | 2026-05-30 |
 | 3 | [3606773](../reports/3606773.md) | Stored XSS via SVG Upload — check_content() Blocklist Bypass | Medium — CVSS 6.7 | — | 6 | [a7mmr](https://hackerone.com/a7mmr) | 2026-07-30 |
 | 4 | [1018568](../reports/1018568.md) | Server Side Request Forgery in 'Jabber settings' in Admin Co | Low — CVSS 3.4 | — | 11 | [they](https://hackerone.com/they) | 2020-12-20 |
+| 5 | [2168002](../reports/2168002.md) | Authenticated path traversal to Stored XSS and Denial-of-Ser | None | — | 69 | [shin24](https://hackerone.com/shin24) | 2023-10-29 |

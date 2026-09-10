@@ -8793,9 +8793,19 @@ https://hackerone.com/reports/2148242 | CVE-2023-38546: cookie injection with no
 https://hackerone.com/reports/2149124 | PATCH method manipulation allowing the users to escalate their functionalities and edit (upgrade/downgrade) API Keys settings which is not allowed
 https://hackerone.com/reports/2160178 | default credentials at https://52.42.105.71/
 https://hackerone.com/reports/2166697 | Ability to bulk submit reports via query named based batching
+https://hackerone.com/reports/2166843 | RXSS on ████ via q parameter
+https://hackerone.com/reports/2168002 | Authenticated path traversal to Stored XSS and Denial-of-Service
+https://hackerone.com/reports/2170226 | setuid() does not drop all privileges due to io_uring
+https://hackerone.com/reports/2170559 | Bypass R2 payment screen
+https://hackerone.com/reports/2171309 | NULL Pointer dereference in idn.c
 https://hackerone.com/reports/2171494 | Subdomain Takeover on mozaws.net
+https://hackerone.com/reports/2174818 | YAML schema injection risk in Swagger UI via schema_url parameter at developers.cloudflare.com
+https://hackerone.com/reports/2177925 | Remote vulnerabilities in spp
+https://hackerone.com/reports/2178061 | Reflected XSS On [https://www-useast1a.tiktok.com/ug/incentive/share/hd]
+https://hackerone.com/reports/2178941 | Unauthenticated Jenkins instance exposed information related to █████
 https://hackerone.com/reports/2180018 | Information Disclosure FrontPage Configuration Information
 https://hackerone.com/reports/2180521 | Google Docs link in JS files allows editing & reading survey information
+https://hackerone.com/reports/2182202 | Remote code execution [CVE-2023-36845]
 https://hackerone.com/reports/2188126 | Permissions policies can be bypassed via Module._load and require.extensions (High) (CVE-2023-30587)
 https://hackerone.com/reports/2197244 | Account deletion using the /v1/account/destroy API endpoint using account password without 2FA verification
 https://hackerone.com/reports/2200329 | CVE-█████-35813 in █████
@@ -9994,6 +10004,7 @@ https://hackerone.com/reports/3783738 | XML‑RPC login leak exposes valid sessi
 https://hackerone.com/reports/3784125 | GnuTLS OCSP stapling accepts unrelated SingleResponse (no cert-ID binding)
 https://hackerone.com/reports/3785919 | libcurl: HTTP/1.x bare LF byte in response header value enables cookie jar pollution and POST body/credential exfiltration via redirect — RC=0, curl 8
 https://hackerone.com/reports/3786077 | SOCKS5 no-auth accepted despite username/password-only authentication
+https://hackerone.com/reports/3788482 | Stack Buffer Overflow in mariadb-dump quote_name() Allows Malicious Server to Execute Arbitrary Code on Client
 https://hackerone.com/reports/3788506 | SSH/SFTP connection reuse can bypass SSH key identity after ssh_config_matches removal
 https://hackerone.com/reports/3788931 | CVE-2026-11586: WS Auto-PONG memory exhaustion
 https://hackerone.com/reports/3788984 | CVE-2026-11564: Native CA trust persist
@@ -10047,10 +10058,15 @@ https://hackerone.com/reports/3861550 | connect.8x8.com: Deserialization Vulnera
 https://hackerone.com/reports/3869124 | **Unauthenticated IDOR allows modification of payment customer billing information**
 https://hackerone.com/reports/3872858 | Stored HTML Injection (CWE-79) via Livechat Visitor Name
 https://hackerone.com/reports/3873072 | Unauthenticated SQL Injection via REST Batch Route Confusion ████████
+https://hackerone.com/reports/3876430 | MariaDB GRANT PROXY permits unauthorized authentication changes and administrator account takeover
 https://hackerone.com/reports/3878586 | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, hide_from_lists) and uses frozen visibility, exposing donat
 https://hackerone.com/reports/3887969 | SSRF via URL Parser Differential in `normalize_request_url` (wlc)
 https://hackerone.com/reports/3889473 | @jitsi/docker-jitsi-meet: `/colibri-relay-ws/` unsafe nginx regex (OCTO relay configuration)
+https://hackerone.com/reports/3889667 | ACL cache collision lets a role inherit privileges from a same-named socket user
+https://hackerone.com/reports/3897588 | KILL authorization trusts the presented login name instead of the authenticated anonymous account
+https://hackerone.com/reports/3897914 | Out-of-bounds read in MariaDB .frm parsing enables RCE via vtable hijacking
 https://hackerone.com/reports/3898281 | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process-global lock in Weblate
+https://hackerone.com/reports/3909248 | MariaDB: heap buffer overflow in ha_tina::chain_append() lets a low-privileged user crash the server via CSV row deletion
 https://hackerone.com/reports/3909372 | Unauthorized vertical privilege escalation vulnerability found on ibm.com endpoint
 https://hackerone.com/reports/3911605 | SMTP CRLF injection in custom SMTP recipient operand allows additional SMTP commands after authentication
 https://hackerone.com/reports/3911968 | Heap use-after-free (write) in mev_forget_socket() via reentrant curl_easy_pause() — incomplete fix for CVE-2026-9080
@@ -10079,15 +10095,26 @@ https://hackerone.com/reports/3969820 | CVE-2026-80256: wcurl backslash bypass
 https://hackerone.com/reports/3970639 | --etag-save - truncates append-redirected stdout
 https://hackerone.com/reports/3970650 | Stacked --proto modifiers leave denied protocol enabled
 https://hackerone.com/reports/3971496 | 28: HTTP/3 UDP path ignores CURL_SOCKOPT_ALREADY_CONNECTED, reconnects callback-provided socket
+https://hackerone.com/reports/3971518 | 29: CURLOPT_ISSUERCERT accepts a different-key certificate when issuer metadata collides
 https://hackerone.com/reports/3971585 | 33: CONNECT_ONLY raw I/O selects wrong connection after CURLOPT_SHARE detach (incomplete fix for CVE-2020-8231)
+https://hackerone.com/reports/3971706 | 36: HTTP upload resume offset consumed twice after early 307/308 redirect
 https://hackerone.com/reports/3972196 | 34: `curl_mprintf` reads `double` for documented `long double` conversions — uninitialized value disclosure
+https://hackerone.com/reports/3972293 | 43: HTTP proxy CONNECT header chooses the `-OJ` filename after a redirect
 https://hackerone.com/reports/3972316 | 46: `--libcurl` output carries `--insecure` across `--next` boundaries
 https://hackerone.com/reports/3972385 | CVE-2026-82209: domain-scoped PSL domain cookie
 https://hackerone.com/reports/3972395 | CVE-2026-80255: secure cookie attribute bypass with tab
 https://hackerone.com/reports/3973090 | CVE-2026-82208: wolfSSL CA-cache hit overrides callback
 https://hackerone.com/reports/3973093 | 06: Incomplete fix for CVE-2026-7009: GCC/SecTrust builds silently discard stapled OCSP responses
 https://hackerone.com/reports/3973098 | 07: GnuTLS 0-RTT early data bypasses file-backed public-key pin verification
+https://hackerone.com/reports/3973111 | 08: CVE-2026-7009 fix incomplete for AWS-LC: `--cert-status` bypass on SecTrust path
+https://hackerone.com/reports/3973121 | 11: `CURLOPT_FORBID_REUSE` silently lost on multiplexed HTTP/2 connection when the forbidding transfer finishes first
 https://hackerone.com/reports/3973127 | 18:  Explicit IPv6 proxy zone ID silently ignored — proxy credentials sent to wrong interface
+https://hackerone.com/reports/3973143 | 22:  FTP wildcard matching decodes server-provided filenames, enabling directory traversal
 https://hackerone.com/reports/3973158 | 41: `main_checkfds()` pipe reuse leaks proxy credentials into HTTPS upload body
 https://hackerone.com/reports/3973169 | 42: `VMS_STS` macro typo (`< 3` vs `<< 3`) turns curl failures into successful OpenVMS conditions
+https://hackerone.com/reports/3973194 | 49: Cookie-jar save transfers group access to a different GID
+https://hackerone.com/reports/3973213 | 54: Rejected HTTP/2 push destroys MIME callback state still used by parent (use-after-free)
+https://hackerone.com/reports/3973219 | 57: Heap out-of-bounds read in `curl_easy_escape_ccsid()` / `curl_easy_unescape_ccsid()`
 https://hackerone.com/reports/3973228 | 50: CMake `HTTP_ONLY` does not disable SSH backends — SCP and SFTP remain usable
+https://hackerone.com/reports/3993850 | Apple SecTrust fallback ignores CURLOPT_CRLFILE, letting a revoked cert pass
+https://hackerone.com/reports/3993973 | HTTP Digest nonce reused across an https→http scheme change on the same handle
