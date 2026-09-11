@@ -1,4 +1,4 @@
-# Nintendo — Disclosed Reports (18 total)
+# Nintendo — Disclosed Reports (22 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -13,12 +13,16 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 7 | [1812732](../reports/1812732.md) | [MK8DX] Improper metadata validation 2 | High — CVSS 8.2 | — | 16 | [crazy_man123](https://hackerone.com/crazy_man123) | 2023-08-17 |
 | 8 | [3048061](../reports/3048061.md) | [Xenoblade Chronicles X: Definitive Edition] Buffer overflow | High — CVSS 8.2 | — | 2 | [roccodev](https://hackerone.com/roccodev) | 2025-05-15 |
 | 9 | [3559522](../reports/3559522.md) | Splatoon 3 In-Match Integrity Bypass via Consensus Reflectio | High — CVSS 7.1 | — | 2 | [hana2736](https://hackerone.com/hana2736) | 2026-07-02 |
-| 10 | [3052880](../reports/3052880.md) | [Xenoblade Chronicles X: Definitive Edition] Improper valida | Medium — CVSS 5.3 | — | 40 | [roccodev](https://hackerone.com/roccodev) | 2025-05-15 |
-| 11 | [2611669](../reports/2611669.md) | [Switch, PIA/MK8DX] Stack buffer overflow and potential RCE  | Medium — CVSS 4.3 | — | 36 | [jitlua](https://hackerone.com/jitlua) | 2024-09-30 |
-| 12 | [3813932](../reports/3813932.md) | [Splatoon 3] Kick other players with NplnLogin message | Medium — CVSS 6.5 | — | 7 | [alzxk11](https://hackerone.com/alzxk11) | 2026-07-02 |
-| 13 | [2551512](../reports/2551512.md) | [Wii U/3DS/Switch] Improper bounds check in StationURL in al | Low — CVSS 2.4 | — | 1 | [jonbarrow](https://hackerone.com/jonbarrow) | 2026-08-07 |
-| 14 | [894922](../reports/894922.md) | [3DS][SSL] Improper certificate validation allows an attacke | None | — | 129 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2020-12-18 |
-| 15 | [3042475](../reports/3042475.md) | Splatoon 3 Anticheat Seed Randomization Weakness | None | — | 53 | [hana2736](https://hackerone.com/hana2736) | 2026-02-19 |
-| 16 | [897606](../reports/897606.md) | [3DS][SSL][SDK] Unchecked number of audio channels in Mobicl | None | — | 43 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2020-12-18 |
-| 17 | [687887](../reports/687887.md) | [3DS][StreetPass] Buffer Overflow in Super Mario Maker level | None | — | 30 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2021-04-20 |
-| 18 | [923240](../reports/923240.md) | [3DS][StreetPass] Heap Overflow in Swapnote parser leads to  | None | — | 30 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2021-01-18 |
+| 10 | [3174987](../reports/3174987.md) | Man-in-the-middle through broken SSL certificate verificatio | Medium — CVSS 6.5 | — | 53 | [kinnay](https://hackerone.com/kinnay) | 2025-08-08 |
+| 11 | [3052880](../reports/3052880.md) | [Xenoblade Chronicles X: Definitive Edition] Improper valida | Medium — CVSS 5.3 | — | 40 | [roccodev](https://hackerone.com/roccodev) | 2025-05-15 |
+| 12 | [924418](../reports/924418.md) | Arbitrary code execution in TSEC Heavy Secure, return-orient | Medium — CVSS 6.7 | — | 37 | [lnchan](https://hackerone.com/lnchan) | 2024-07-22 |
+| 13 | [2611669](../reports/2611669.md) | [Switch, PIA/MK8DX] Stack buffer overflow and potential RCE  | Medium — CVSS 4.3 | — | 36 | [jitlua](https://hackerone.com/jitlua) | 2024-09-30 |
+| 14 | [3813932](../reports/3813932.md) | [Splatoon 3] Kick other players with NplnLogin message | Medium — CVSS 6.5 | — | 7 | [alzxk11](https://hackerone.com/alzxk11) | 2026-07-02 |
+| 15 | [2551512](../reports/2551512.md) | [Wii U/3DS/Switch] Improper bounds check in StationURL in al | Low — CVSS 2.4 | — | 1 | [jonbarrow](https://hackerone.com/jonbarrow) | 2026-08-07 |
+| 16 | [894922](../reports/894922.md) | [3DS][SSL] Improper certificate validation allows an attacke | None | — | 129 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2020-12-18 |
+| 17 | [3042475](../reports/3042475.md) | Splatoon 3 Anticheat Seed Randomization Weakness | None | — | 53 | [hana2736](https://hackerone.com/hana2736) | 2026-02-19 |
+| 18 | [897606](../reports/897606.md) | [3DS][SSL][SDK] Unchecked number of audio channels in Mobicl | None | — | 43 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2020-12-18 |
+| 19 | [895769](../reports/895769.md) | [3DS][SSL] Use of uninitialized class member leads to RCE in | None | — | 38 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2020-12-18 |
+| 20 | [923240](../reports/923240.md) | [3DS][StreetPass] Heap Overflow in Swapnote parser leads to  | None | — | 30 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2021-01-18 |
+| 21 | [687887](../reports/687887.md) | [3DS][StreetPass] Buffer Overflow in Super Mario Maker level | None | — | 30 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2021-04-20 |
+| 22 | [469997](../reports/469997.md) | NEX: Stack overflow in UnicodeToUtf8 | None | — | 23 | [kinnay](https://hackerone.com/kinnay) | 2025-06-27 |

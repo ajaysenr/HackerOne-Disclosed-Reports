@@ -1,4 +1,4 @@
-# Weakness: Command Injection - Generic (170 reports)
+# Weakness: Command Injection - Generic (209 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -31,8 +31,8 @@
 | 25 | [154096](../reports/154096.md) | Blind OOB XXE At "http://ubermovement.com/" | [Uber](../by-program/uber.md) | None | $500 | 56 |
 | 26 | [187542](../reports/187542.md) | Brave Browser unexpectedly allows to send arbitrary IPC messages | [Brave Software](../by-program/brave.md) | Critical | $300 | 9 |
 | 27 | [449482](../reports/449482.md) | Command injection in Pathname | [Ruby](../by-program/ruby.md) | None | $200 | 36 |
-| 28 | [327512](../reports/327512.md) | Potential command injection in `Shell#[]` and `Shell#test` | [Ruby](../by-program/ruby.md) | None | $200 | 1 |
-| 29 | [97657](../reports/97657.md) | File upload XSS (Java applet) on http://slackatwork.com/ | [Slack](../by-program/slack.md) | None | $200 | 1 |
+| 28 | [97657](../reports/97657.md) | File upload XSS (Java applet) on http://slackatwork.com/ | [Slack](../by-program/slack.md) | None | $200 | 1 |
+| 29 | [327512](../reports/327512.md) | Potential command injection in `Shell#[]` and `Shell#test` | [Ruby](../by-program/ruby.md) | None | $200 | 1 |
 | 30 | [160520](../reports/160520.md) | Bypass fix in https://hackerone.com/reports/151516 report. | [Ian Dunn](../by-program/iandunn-projects.md) | Low | $100 | 4 |
 | 31 | [65330](../reports/65330.md) | Не достаточная проверка логина скайп | [VK.com](../by-program/vkcom.md) | None | $100 | 1 |
 | 32 | [277525](../reports/277525.md) | Formula injection via CSV exports in WordCamp Talks plugin | [Ian Dunn](../by-program/iandunn-projects.md) | Medium — CVSS 4.6 | $50 | 13 |
@@ -42,135 +42,174 @@
 | 36 | [212696](../reports/212696.md) | RCE by command line argument injection to `gm convert` in `/edit/ | [Imgur](../by-program/imgur.md) | Critical | — | 229 |
 | 37 | [329689](../reports/329689.md) | Test-scripts for postgis in mason-repository using unsafe unzip o | [Mapbox](../by-program/mapbox.md) | Critical — CVSS 10.0 | — | 208 |
 | 38 | [2083771](../reports/2083771.md) |  Remote Code Execution and AWS IAM Credentials Exfiltration in ht | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 114 |
-| 39 | [3088290](../reports/3088290.md) | Middleware Authentication Bypass on IBM Portal | [IBM](../by-program/ibm.md) | Critical | — | 80 |
-| 40 | [269066](../reports/269066.md) | Remote Code Execution at http://tw.corp.ubnt.com | [Ubiquiti Inc.](../by-program/ui.md) | Critical | — | 61 |
-| 41 | [2778350](../reports/2778350.md) | Cisco IOS XE instance at ████ vulnerable to CVE-██████ | [MTN Group](../by-program/mtn_group.md) | Critical — CVSS 9.1 | — | 48 |
-| 42 | [288704](../reports/288704.md) | Command injection on Phabricator instance with an evil hg branch  | [Phabricator](../by-program/phabricator.md) | Critical — CVSS 9.9 | — | 41 |
-| 43 | [688270](../reports/688270.md) | OS Command Injection in Nexus Repository Manager 2.x(bypass CVE-2 | [Central Security Project](../by-program/central-security-project.md) | Critical | — | 34 |
-| 44 | [2054184](../reports/2054184.md) | RCE via File Upload  with a Null Byte Truncated File Extension at | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 33 |
-| 45 | [378148](../reports/378148.md) | Vulnerability in project import leads to arbitrary command execut | [GitLab](../by-program/gitlab.md) | Critical | — | 32 |
-| 46 | [184596](../reports/184596.md) | Unrestricted File Upload | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 31 |
-| 47 | [680480](../reports/680480.md) | Command Injection (via CVE-2019-11510 and CVE-2019-11539) | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 26 |
-| 48 | [3669305](../reports/3669305.md) | Argument Injection via curl Short-Flag Grouping | [curl](../by-program/curl.md) | Critical | — | 22 |
-| 49 | [1631258](../reports/1631258.md) | Rocket.Chat Server RCE | [Rocket.Chat](../by-program/rocket_chat.md) | Critical | — | 21 |
-| 50 | [863544](../reports/863544.md) | [devcert] Command Injection via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.8 | — | 11 |
-| 51 | [405694](../reports/405694.md) | [apex-publish-static-files] Command Injection on connectString | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 10 |
-| 52 | [394294](../reports/394294.md) | [samsung-remote] Command injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 10 |
-| 53 | [182637](../reports/182637.md) | Administrator Access To Management Console | [Pushwoosh](../by-program/pushwoosh.md) | Critical | — | 9 |
-| 54 | [294147](../reports/294147.md) | Mercurial git subrepo lead to arbritary command injection | [Internet Bug Bounty](../by-program/ibb.md) | Critical | — | 9 |
-| 55 | [411270](../reports/411270.md) | Cisco RCE | [Informatica](../by-program/informatica.md) | Critical | — | 8 |
-| 56 | [324453](../reports/324453.md) | `command-exists` concatenates unsanitized input into exec()/execS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 6 |
-| 57 | [188561](../reports/188561.md) | Sending arbitrary IPC messages via overriding Array.prototype.pus | [Brave Software](../by-program/brave.md) | Critical | — | 6 |
-| 58 | [192512](../reports/192512.md) | RCE on default Ubuntu Desktop >= 12.10 Quantal | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.6 | — | 6 |
-| 59 | [319467](../reports/319467.md) | `macaddress` concatenates unsanitized input into exec() command | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 5 |
-| 60 | [324491](../reports/324491.md) | `fs-path` concatenates unsanitized input into exec()/execSync() c | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.6 | — | 2 |
-| 61 | [863944](../reports/863944.md) | [extra-ffmpeg] Command Injection via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 0 |
-| 62 | [865168](../reports/865168.md) | [xps] Command Injection via insecure command concatenation | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 0 |
-| 63 | [864777](../reports/864777.md) | [vboxmanage.js] Command Injection via insecure command concatenat | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 0 |
-| 64 | [2325023](../reports/2325023.md) | Management Console Editor Privilege Escalation to Root SSH Access | [GitHub](../by-program/github.md) | High | — | 87 |
-| 65 | [2332623](../reports/2332623.md) | Management Console Editor Privilege Escalation to Root SSH Access | [GitHub](../by-program/github.md) | High | — | 80 |
-| 66 | [2332551](../reports/2332551.md) | Management Console Editor Privilege Escalation to Root SSH Access | [GitHub](../by-program/github.md) | High | — | 61 |
-| 67 | [2329466](../reports/2329466.md) | Management Console Editor Privilege Escalation to Root SSH Access | [GitHub](../by-program/github.md) | High | — | 61 |
-| 68 | [147196](../reports/147196.md) | [careers.informatica.com] Reflected Cross Site Scripting to XSS S | [Informatica](../by-program/informatica.md) | High — CVSS 7.1 | — | 49 |
-| 69 | [2323292](../reports/2323292.md) | Management Console Editor Privilege Escalation to Root SSH Access | [GitHub](../by-program/github.md) | High | — | 47 |
-| 70 | [2329547](../reports/2329547.md) | Management Console Editor Privilege Escalation to Root SSH Access | [GitHub](../by-program/github.md) | High | — | 47 |
-| 71 | [1492896](../reports/1492896.md) | CVE-2022-24288: Apache Airflow: TWO RCEs in example DAGs | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 46 |
-| 72 | [2309291](../reports/2309291.md) | CVE-2023-41763 Business Elevation of Privilege vulnerability on [ | [MTN Group](../by-program/mtn_group.md) | High | — | 45 |
-| 73 | [807961](../reports/807961.md) | Blind Command Injection #1 | [8x8](../by-program/8x8-bounty.md) | High — CVSS 8.4 | — | 42 |
-| 74 | [825764](../reports/825764.md) | View Only to Root Privilege Escalation on UniFi Protect | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 8.8 | — | 42 |
-| 75 | [796414](../reports/796414.md) | Readonly to Root Privilege Escalation on EdgeSwitch | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 8.8 | — | 27 |
-| 76 | [1671140](../reports/1671140.md) | CVE-2022-38362: Apache Airflow Docker Provider <3.0 RCE vulnerabi | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.8 | — | 22 |
-| 77 | [335761](../reports/335761.md) | RCE By import channel field | [ExpressionEngine](../by-program/expressionengine.md) | High — CVSS 7.3 | — | 21 |
-| 78 | [2461831](../reports/2461831.md) | Bypass incomplete fix of CVE-2024-27980 | [Node.js](../by-program/nodejs.md) | High — CVSS 8.1 | — | 20 |
-| 79 | [1063256](../reports/1063256.md) | [CVE-2018-7600] Remote Code Execution due to outdated Drupal serv | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 19 |
-| 80 | [262004](../reports/262004.md) | HTML injection in email in unikrn.com | [Unikrn](../by-program/unikrn.md) | High | — | 18 |
-| 81 | [330957](../reports/330957.md) | [pdfinfojs] Command Injection on filename parameter | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.8 | — | 15 |
-| 82 | [106797](../reports/106797.md) | [marketplace.informatica.com] - XXE | [Informatica](../by-program/informatica.md) | High | — | 14 |
-| 83 | [390631](../reports/390631.md) | [ascii-art] Command injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 14 |
-| 84 | [289264](../reports/289264.md) | Triggering RCE using XSS to bypass CSRF in PowerBeam M5 300 | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 8.8 | — | 12 |
-| 85 | [703659](../reports/703659.md) | RCE in AirOS 6.2.0 Devices with CSRF bypass | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 8.8 | — | 12 |
-| 86 | [1820492](../reports/1820492.md) | PHP Object injection -> Building Custom Gadget chain -> RCE  | [ExpressionEngine](../by-program/expressionengine.md) | High — CVSS 8.5 | — | 11 |
-| 87 | [389561](../reports/389561.md) | Command Injection Vulnerability in kill-port Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.3 | — | 10 |
-| 88 | [188078](../reports/188078.md) | Command Execution because of extension handling | [Brave Software](../by-program/brave.md) | High — CVSS 8.8 | — | 8 |
-| 89 | [313245](../reports/313245.md) | Code Execution in restricted CLI of EdgeSwitch | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 7.2 | — | 8 |
-| 90 | [183458](../reports/183458.md) | Command injection in the process of downloading the latest versio | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 8.3 | — | 7 |
-| 91 | [388936](../reports/388936.md) | [egg-scripts] Command injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 7 |
-| 92 | [150520](../reports/150520.md) | XXE at Informatica sub-domain | [Informatica](../by-program/informatica.md) | High | — | 7 |
-| 93 | [319473](../reports/319473.md) | [open] concatenation of unsanitized input into exec() command | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.4 | — | 3 |
-| 94 | [422944](../reports/422944.md) | H1514 Remote Code Execution on kitcrm using bulk customer update  | [Shopify](../by-program/shopify.md) | Medium | — | 829 |
-| 95 | [824689](../reports/824689.md) | Send arbitrary PUT requests when user clicks on a link | [GitLab](../by-program/gitlab.md) | Medium | — | 135 |
-| 96 | [495382](../reports/495382.md) | No SearchEngine sanatizing can lead to command injection | [Notepad++](../by-program/notepad-plus-plus.md) | Medium — CVSS 5.0 | — | 99 |
-| 97 | [494979](../reports/494979.md) | Insufficient sanitizing can lead to arbitrary commands execution | [Notepad++](../by-program/notepad-plus-plus.md) | Medium | — | 50 |
-| 98 | [497312](../reports/497312.md) | Command injection by setting a custom search engine | [Notepad++](../by-program/notepad-plus-plus.md) | Medium | — | 50 |
-| 99 | [3523953](../reports/3523953.md) | wcurl Argument Injection via Unquoted Variable | [curl](../by-program/curl.md) | Medium | — | 43 |
-| 100 | [197958](../reports/197958.md) | [EdgeSwitch] Web GUI command injection as root with Privilege-1 a | [Ubiquiti Inc.](../by-program/ui.md) | Medium — CVSS 6.8 | — | 27 |
-| 101 | [470547](../reports/470547.md) | Unauthorized command execution in Web protection component of Ant | [Kaspersky](../by-program/kaspersky.md) | Medium | — | 22 |
-| 102 | [470519](../reports/470519.md) | Kaspersky Protection extension for Google Chrome is vulnerable to | [Kaspersky](../by-program/kaspersky.md) | Medium | — | 21 |
-| 103 | [216243](../reports/216243.md) | CSV injection in gitlab.com via issues export feature. | [GitLab](../by-program/gitlab.md) | Medium — CVSS 6.5 | — | 20 |
-| 104 | [244292](../reports/244292.md) | CSV Injection https://hub.grab.com | [Grab](../by-program/grab.md) | Medium — CVSS 4.3 | — | 20 |
-| 105 | [2095061](../reports/2095061.md) | Jitsi: Bridge Message Spoofing due to Improper JSON Handling lead | [8x8](../by-program/8x8-bounty.md) | Medium | — | 17 |
-| 106 | [508256](../reports/508256.md) | EdgeSwitch Command Injection | [Ubiquiti Inc.](../by-program/ui.md) | Medium — CVSS 4.9 | — | 15 |
-| 107 | [970869](../reports/970869.md) | Sending Arbitrary Requests through Jupyter Notebooks on gitlab.co | [GitLab](../by-program/gitlab.md) | Medium — CVSS 5.4 | — | 14 |
-| 108 | [470544](../reports/470544.md) | Unauthorized command execution in Web protection component of Ant | [Kaspersky](../by-program/kaspersky.md) | Medium | — | 13 |
-| 109 | [175403](../reports/175403.md) | [website] Script injection in newsletter signup https://brave.com | [Brave Software](../by-program/brave.md) | Medium | — | 10 |
-| 110 | [390865](../reports/390865.md) | Command Injection Vulnerability in libnmap Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.8 | — | 9 |
-| 111 | [219323](../reports/219323.md) | CSV injection in gratipay.com via payment history export feature. | [Gratipay](../by-program/gratipay.md) | Medium — CVSS 6.5 | — | 8 |
-| 112 | [390848](../reports/390848.md) | Command Injection is ps Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.8 | — | 8 |
-| 113 | [470553](../reports/470553.md) | Unauthorized command execution in Web protection component of Ant | [Kaspersky](../by-program/kaspersky.md) | Medium | — | 7 |
-| 114 | [950192](../reports/950192.md) | [@knutkirkhorn/free-space] - Command Injection through Lack of Sa | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.8 | — | 7 |
-| 115 | [223999](../reports/223999.md) | CSV export filter bypass leads to formula injection. | [Weblate](../by-program/weblate.md) | Medium — CVSS 5.4 | — | 6 |
-| 116 | [951249](../reports/951249.md) | [freespace] Command Injection due to Lack of Sanitization | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 6 |
-| 117 | [661647](../reports/661647.md) | Local File Disclosure (+XSS+CSRF) in AirOS 6.2.0 devices | [Ubiquiti Inc.](../by-program/ui.md) | Medium — CVSS 6.1 | — | 6 |
-| 118 | [415329](../reports/415329.md) | Pull Request #12949 - Security Implications without CVE assignmen | [Node.js](../by-program/nodejs.md) | Medium | — | 5 |
-| 119 | [630227](../reports/630227.md) | Command Injection due to lack of sanitisation of tar.gz filename  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.4 | — | 4 |
-| 120 | [633364](../reports/633364.md) | Command Injection in npm module name passed as an argument to pm2 | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.4 | — | 3 |
-| 121 | [242119](../reports/242119.md) | Roundcube virtualmin privilege escalation (CVE-2017-8114) | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 3 |
-| 122 | [294462](../reports/294462.md) | NET::Ftp allows command injection in filenames | [Ruby](../by-program/ruby.md) | Low | — | 28 |
-| 123 | [2554003](../reports/2554003.md) | HTML Injection into https://www.██████.mil | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 16 |
-| 124 | [118582](../reports/118582.md) | CSV Injection at the CSV export feature | [HackerOne](../by-program/security.md) | Low — CVSS 2.0 | — | 14 |
-| 125 | [1916285](../reports/1916285.md) | Arbitrary escape sequence injection in docker-machine from worker | [GitLab](../by-program/gitlab.md) | Low — CVSS 1.8 | — | 5 |
-| 126 | [160500](../reports/160500.md) | Bypassing CSV injection using new line charcter | [Ian Dunn](../by-program/iandunn-projects.md) | Low | — | 5 |
-| 127 | [164674](../reports/164674.md) | CSV Injection in Camptix | [Ian Dunn](../by-program/iandunn-projects.md) | Low | — | 4 |
-| 128 | [413655](../reports/413655.md) | Server side includes in https://lgtm-com.pentesting.semmle.net/in | [Semmle](../by-program/semmle.md) | Low | — | 3 |
-| 129 | [180074](../reports/180074.md) | BAD Code !  | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 542 |
-| 130 | [79348](../reports/79348.md) | OSX slack:// protocol handler javascript injection | [Slack](../by-program/slack.md) | None | — | 72 |
-| 131 | [139398](../reports/139398.md) | Read-Only user can execute arbitraty shell commands on AirOS | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 44 |
-| 132 | [73567](../reports/73567.md) | Attention! Remote Code Execution at http://wpt.ec2.shopify.com/ | [Shopify](../by-program/shopify.md) | None | — | 28 |
-| 133 | [3584149](../reports/3584149.md) | SSTI leads to Command injection | [curl](../by-program/curl.md) | None | — | 24 |
-| 134 | [128750](../reports/128750.md) | Read-Only user can execute arbitraty shell commands on AirOS | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 22 |
-| 135 | [121940](../reports/121940.md) | Shell Injection via Web Management Console (dl-fw.cgi) | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 20 |
-| 136 | [3427370](../reports/3427370.md) | Command Injection on Amazon Q Developer CLI via malicious .amazon | [AWS VDP](../by-program/aws_vdp.md) | None | — | 19 |
-| 137 | [119317](../reports/119317.md) | Read-Only user can execute arbitraty shell commands on AirOS | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 18 |
-| 138 | [149442](../reports/149442.md) | Site support SNI But Browser can't | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 17 |
-| 139 | [155657](../reports/155657.md) | Arbitrary Code Injection in ownCloud’s Windows Client | [ownCloud](../by-program/owncloud.md) | None | — | 16 |
-| 140 | [151516](../reports/151516.md) | CSV Injection at Camptix Event Ticketing | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 15 |
-| 141 | [162955](../reports/162955.md) | Code Injection in Slack's Windows Desktop Client leads to Privile | [Slack](../by-program/slack.md) | None | — | 14 |
-| 142 | [54631](../reports/54631.md) | Vulnerable to JavaScript injection. (WXS)  (Javascript injection) | [Snapchat](../by-program/snapchat.md) | None | — | 13 |
-| 143 | [171473](../reports/171473.md) | HTTP Response Splitting(CRLF injection) in bi.owox.com | [OWOX, Inc.](../by-program/owox.md) | None | — | 13 |
-| 144 | [72785](../reports/72785.md) | CSV Injection with the CVS export feature | [HackerOne](../by-program/security.md) | None | — | 13 |
-| 145 | [130661](../reports/130661.md) | XXE issue | [Moneybird](../by-program/moneybird.md) | None | — | 13 |
-| 146 | [114476](../reports/114476.md) | Внедрение внешних сущностей в функционале импорта пользователей Y | [VK.com](../by-program/vkcom.md) | None | — | 11 |
-| 147 | [137631](../reports/137631.md) | SMTP command injection | [Ruby](../by-program/ruby.md) | None | — | 10 |
-| 148 | [111192](../reports/111192.md) | CSV Injection via the CSV export feature | [HackerOne](../by-program/security.md) | None | — | 10 |
-| 149 | [147220](../reports/147220.md) | Urgent Fix Balance Limit bypass  | [FantasyTote](../by-program/fantasytote.md) | None | — | 10 |
-| 150 | [115978](../reports/115978.md) | SSRF / Local file enumeration / DoS due to improper handling of c | [Imgur](../by-program/imgur.md) | None | — | 7 |
-| 151 | [159213](../reports/159213.md) | The web app's forgot password page is vulnerable to text injectio | [Khan Academy](../by-program/khanacademy.md) | None | — | 6 |
-| 152 | [14127](../reports/14127.md) | SSRF on https://whitehataudit.slack.com/account/photo | [Slack](../by-program/slack.md) | None | — | 5 |
-| 153 | [31554](../reports/31554.md) | Singup Page HTML Injection Vulnerability | [X / xAI](../by-program/x.md) | None | — | 5 |
-| 154 | [5499](../reports/5499.md) | Arbitrary command execution in MS-DOS | [MS-DOS](../by-program/msdos.md) | None | — | 5 |
-| 155 | [146179](../reports/146179.md) | REG: Content provider information leakage | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
-| 156 | [1036995](../reports/1036995.md) | HTML injection in review content | [Judge.me ](../by-program/judgeme.md) | None | — | 4 |
-| 157 | [18371](../reports/18371.md) | Directory Traversal at http://staging.jsdelivr.net/ | [jsDelivr](../by-program/jsdelivr.md) | None | — | 4 |
-| 158 | [100667](../reports/100667.md) | CSV Excel Macro Injection Vulnerability in export list of current | [Shopify](../by-program/shopify.md) | None | — | 4 |
-| 159 | [90415](../reports/90415.md) | CSV Excel Macro Injection in Export Response | [Zaption](../by-program/zaption.md) | None | — | 3 |
-| 160 | [124223](../reports/124223.md) | CSV Injection via the CSV export feature | [HackerOne](../by-program/security.md) | None | — | 3 |
-| 161 | [130338](../reports/130338.md) | CSV Injection with the CSV export feature | [Moneybird](../by-program/moneybird.md) | None | — | 3 |
-| 162 | [59663](../reports/59663.md) | Sendmail Remote Code Execution Vulnerability in Concrete5 version | [Concrete CMS](../by-program/concretecms.md) | None | — | 3 |
-| 163 | [34917](../reports/34917.md) | Bypassed or command injection | [Block.io](../by-program/blockio.md) | None | — | 2 |
-| 164 | [105190](../reports/105190.md) | Unsafe usage of Ruby string interpolation enabling command inject | [Square Open Source](../by-program/square-open-source.md) | None | — | 2 |
-| 165 | [43988](../reports/43988.md) | twitter android app Fragment Injection | [X / xAI](../by-program/x.md) | None | — | 2 |
-| 166 | [104465](../reports/104465.md) | git-fastclone allows arbitrary command execution through usage of | [Square Open Source](../by-program/square-open-source.md) | None | — | 2 |
-| 167 | [17225](../reports/17225.md) | SQL injection, tile ID | [Uzbey](../by-program/uzbey.md) | None | — | 2 |
-| 168 | [105980](../reports/105980.md) | XXE at host vpn.owncloud.com | [ownCloud](../by-program/owncloud.md) | None | — | 2 |
-| 169 | [170748](../reports/170748.md) | RCE,SQL,Vulnerability + Exploit Method. | [RubyGems](../by-program/rubygems.md) | None | — | 1 |
-| 170 | [161290](../reports/161290.md) | bypass to csv injection | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 1 |
+| 39 | [666716](../reports/666716.md) | [insideok.ru] Remote Command Execution via file upload. | [ok.ru](../by-program/ok.md) | Critical | — | 98 |
+| 40 | [3088290](../reports/3088290.md) | Middleware Authentication Bypass on IBM Portal | [IBM](../by-program/ibm.md) | Critical | — | 80 |
+| 41 | [269066](../reports/269066.md) | Remote Code Execution at http://tw.corp.ubnt.com | [Ubiquiti Inc.](../by-program/ui.md) | Critical | — | 61 |
+| 42 | [840243](../reports/840243.md) | Shell command injection in https://partner.steamgames.com/apps/co | [Valve](../by-program/valve.md) | Critical | — | 52 |
+| 43 | [1379130](../reports/1379130.md) | Remote Code Execution at https://169.38.86.185/ (edst.ibm.com) | [IBM](../by-program/ibm.md) | Critical | — | 49 |
+| 44 | [2778350](../reports/2778350.md) | Cisco IOS XE instance at ████ vulnerable to CVE-██████ | [MTN Group](../by-program/mtn_group.md) | Critical — CVSS 9.1 | — | 48 |
+| 45 | [652649](../reports/652649.md) | WG call injection in /economy/contextcommand | [Valve](../by-program/valve.md) | Critical — CVSS 9.6 | — | 46 |
+| 46 | [288704](../reports/288704.md) | Command injection on Phabricator instance with an evil hg branch  | [Phabricator](../by-program/phabricator.md) | Critical — CVSS 9.9 | — | 41 |
+| 47 | [688270](../reports/688270.md) | OS Command Injection in Nexus Repository Manager 2.x(bypass CVE-2 | [Central Security Project](../by-program/central-security-project.md) | Critical | — | 34 |
+| 48 | [2054184](../reports/2054184.md) | RCE via File Upload  with a Null Byte Truncated File Extension at | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 33 |
+| 49 | [378148](../reports/378148.md) | Vulnerability in project import leads to arbitrary command execut | [GitLab](../by-program/gitlab.md) | Critical | — | 32 |
+| 50 | [184596](../reports/184596.md) | Unrestricted File Upload | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 31 |
+| 51 | [680480](../reports/680480.md) | Command Injection (via CVE-2019-11510 and CVE-2019-11539) | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 26 |
+| 52 | [3669305](../reports/3669305.md) | Argument Injection via curl Short-Flag Grouping | [curl](../by-program/curl.md) | Critical | — | 22 |
+| 53 | [1631258](../reports/1631258.md) | Rocket.Chat Server RCE | [Rocket.Chat](../by-program/rocket_chat.md) | Critical | — | 21 |
+| 54 | [518348](../reports/518348.md) | RCE on partner.steampowered.com | [Valve](../by-program/valve.md) | Critical | — | 18 |
+| 55 | [863544](../reports/863544.md) | [devcert] Command Injection via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.8 | — | 11 |
+| 56 | [405694](../reports/405694.md) | [apex-publish-static-files] Command Injection on connectString | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 10 |
+| 57 | [394294](../reports/394294.md) | [samsung-remote] Command injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 10 |
+| 58 | [294147](../reports/294147.md) | Mercurial git subrepo lead to arbritary command injection | [Internet Bug Bounty](../by-program/ibb.md) | Critical | — | 9 |
+| 59 | [319476](../reports/319476.md) | `whereis` concatenates unsanitized input into exec() command | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.9 | — | 9 |
+| 60 | [182637](../reports/182637.md) | Administrator Access To Management Console | [Pushwoosh](../by-program/pushwoosh.md) | Critical | — | 9 |
+| 61 | [858674](../reports/858674.md) | [wireguard-wrapper] Command Injection via insecure command concat | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 8 |
+| 62 | [392311](../reports/392311.md) | Malware in `active-support` gem | [RubyGems](../by-program/rubygems.md) | Critical | — | 8 |
+| 63 | [415233](../reports/415233.md) | h1-5411-CTF report: LFI / Deserialization / XXE vulnerability,  | [h1-5411-CTF](../by-program/h1-5411-ctf.md) | Critical | — | 8 |
+| 64 | [411270](../reports/411270.md) | Cisco RCE | [Informatica](../by-program/informatica.md) | Critical | — | 8 |
+| 65 | [315773](../reports/315773.md) | Remote Command Execution vulnerability in pullit | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.3 | — | 7 |
+| 66 | [724599](../reports/724599.md) | OS Command Injection in Nexus Repository Manager 2.x -- Bypass fo | [Central Security Project](../by-program/central-security-project.md) | Critical | — | 7 |
+| 67 | [188561](../reports/188561.md) | Sending arbitrary IPC messages via overriding Array.prototype.pus | [Brave Software](../by-program/brave.md) | Critical | — | 6 |
+| 68 | [324453](../reports/324453.md) | `command-exists` concatenates unsanitized input into exec()/execS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 6 |
+| 69 | [192512](../reports/192512.md) | RCE on default Ubuntu Desktop >= 12.10 Quantal | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.6 | — | 6 |
+| 70 | [319467](../reports/319467.md) | `macaddress` concatenates unsanitized input into exec() command | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 5 |
+| 71 | [925324](../reports/925324.md) | [systeminformation] Command Injection via insecure command format | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 3 |
+| 72 | [871071](../reports/871071.md) | [gfc] Command Injection via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 3 |
+| 73 | [864354](../reports/864354.md) | [diskstats] Command Injection via insecure command concatenation | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 2 |
+| 74 | [324491](../reports/324491.md) | `fs-path` concatenates unsanitized input into exec()/execSync() c | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.6 | — | 2 |
+| 75 | [863956](../reports/863956.md) | [extra-asciinema] Command Injection via insecure command formatti | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 1 |
+| 76 | [973386](../reports/973386.md) | [curling] Remote Code Execution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 1 |
+| 77 | [865168](../reports/865168.md) | [xps] Command Injection via insecure command concatenation | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 0 |
+| 78 | [864777](../reports/864777.md) | [vboxmanage.js] Command Injection via insecure command concatenat | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 0 |
+| 79 | [863944](../reports/863944.md) | [extra-ffmpeg] Command Injection via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 0 |
+| 80 | [2325023](../reports/2325023.md) | Management Console Editor Privilege Escalation to Root SSH Access | [GitHub](../by-program/github.md) | High | — | 87 |
+| 81 | [2332623](../reports/2332623.md) | Management Console Editor Privilege Escalation to Root SSH Access | [GitHub](../by-program/github.md) | High | — | 80 |
+| 82 | [2329466](../reports/2329466.md) | Management Console Editor Privilege Escalation to Root SSH Access | [GitHub](../by-program/github.md) | High | — | 61 |
+| 83 | [2332551](../reports/2332551.md) | Management Console Editor Privilege Escalation to Root SSH Access | [GitHub](../by-program/github.md) | High | — | 61 |
+| 84 | [147196](../reports/147196.md) | [careers.informatica.com] Reflected Cross Site Scripting to XSS S | [Informatica](../by-program/informatica.md) | High — CVSS 7.1 | — | 49 |
+| 85 | [2323292](../reports/2323292.md) | Management Console Editor Privilege Escalation to Root SSH Access | [GitHub](../by-program/github.md) | High | — | 47 |
+| 86 | [2329547](../reports/2329547.md) | Management Console Editor Privilege Escalation to Root SSH Access | [GitHub](../by-program/github.md) | High | — | 47 |
+| 87 | [1492896](../reports/1492896.md) | CVE-2022-24288: Apache Airflow: TWO RCEs in example DAGs | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 46 |
+| 88 | [2309291](../reports/2309291.md) | CVE-2023-41763 Business Elevation of Privilege vulnerability on [ | [MTN Group](../by-program/mtn_group.md) | High | — | 45 |
+| 89 | [807961](../reports/807961.md) | Blind Command Injection #1 | [8x8](../by-program/8x8-bounty.md) | High — CVSS 8.4 | — | 42 |
+| 90 | [825764](../reports/825764.md) | View Only to Root Privilege Escalation on UniFi Protect | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 8.8 | — | 42 |
+| 91 | [986380](../reports/986380.md) | LFI at http://www.████ | [Sony](../by-program/sony.md) | High — CVSS 7.5 | — | 37 |
+| 92 | [796414](../reports/796414.md) | Readonly to Root Privilege Escalation on EdgeSwitch | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 8.8 | — | 27 |
+| 93 | [1671140](../reports/1671140.md) | CVE-2022-38362: Apache Airflow Docker Provider <3.0 RCE vulnerabi | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.8 | — | 22 |
+| 94 | [335761](../reports/335761.md) | RCE By import channel field | [ExpressionEngine](../by-program/expressionengine.md) | High — CVSS 7.3 | — | 21 |
+| 95 | [2461831](../reports/2461831.md) | Bypass incomplete fix of CVE-2024-27980 | [Node.js](../by-program/nodejs.md) | High — CVSS 8.1 | — | 20 |
+| 96 | [1063256](../reports/1063256.md) | [CVE-2018-7600] Remote Code Execution due to outdated Drupal serv | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 19 |
+| 97 | [262004](../reports/262004.md) | HTML injection in email in unikrn.com | [Unikrn](../by-program/unikrn.md) | High | — | 18 |
+| 98 | [330957](../reports/330957.md) | [pdfinfojs] Command Injection on filename parameter | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.8 | — | 15 |
+| 99 | [390631](../reports/390631.md) | [ascii-art] Command injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 14 |
+| 100 | [106797](../reports/106797.md) | [marketplace.informatica.com] - XXE | [Informatica](../by-program/informatica.md) | High | — | 14 |
+| 101 | [106865](../reports/106865.md) | [rev-app.informatica.com] - XXE via SAML | [Informatica](../by-program/informatica.md) | High | — | 12 |
+| 102 | [289264](../reports/289264.md) | Triggering RCE using XSS to bypass CSRF in PowerBeam M5 300 | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 8.8 | — | 12 |
+| 103 | [703659](../reports/703659.md) | RCE in AirOS 6.2.0 Devices with CSRF bypass | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 8.8 | — | 12 |
+| 104 | [1820492](../reports/1820492.md) | PHP Object injection -> Building Custom Gadget chain -> RCE  | [ExpressionEngine](../by-program/expressionengine.md) | High — CVSS 8.5 | — | 11 |
+| 105 | [389561](../reports/389561.md) | Command Injection Vulnerability in kill-port Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.3 | — | 10 |
+| 106 | [313245](../reports/313245.md) | Code Execution in restricted CLI of EdgeSwitch | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 7.2 | — | 8 |
+| 107 | [188078](../reports/188078.md) | Command Execution because of extension handling | [Brave Software](../by-program/brave.md) | High — CVSS 8.8 | — | 8 |
+| 108 | [183458](../reports/183458.md) | Command injection in the process of downloading the latest versio | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 8.3 | — | 7 |
+| 109 | [150520](../reports/150520.md) | XXE at Informatica sub-domain | [Informatica](../by-program/informatica.md) | High | — | 7 |
+| 110 | [388936](../reports/388936.md) | [egg-scripts] Command injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 7 |
+| 111 | [881713](../reports/881713.md) | [last-commit-log] Command Injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.0 | — | 6 |
+| 112 | [341869](../reports/341869.md) | [entitlements] Command injection on the 'path' parameter | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 5 |
+| 113 | [319473](../reports/319473.md) | [open] concatenation of unsanitized input into exec() command | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.4 | — | 3 |
+| 114 | [390871](../reports/390871.md) | Command Injection Vulnerability in win-fork/win-spawn Packages | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.4 | — | 1 |
+| 115 | [422944](../reports/422944.md) | H1514 Remote Code Execution on kitcrm using bulk customer update  | [Shopify](../by-program/shopify.md) | Medium | — | 829 |
+| 116 | [824689](../reports/824689.md) | Send arbitrary PUT requests when user clicks on a link | [GitLab](../by-program/gitlab.md) | Medium | — | 135 |
+| 117 | [495382](../reports/495382.md) | No SearchEngine sanatizing can lead to command injection | [Notepad++](../by-program/notepad-plus-plus.md) | Medium — CVSS 5.0 | — | 99 |
+| 118 | [497312](../reports/497312.md) | Command injection by setting a custom search engine | [Notepad++](../by-program/notepad-plus-plus.md) | Medium | — | 50 |
+| 119 | [494979](../reports/494979.md) | Insufficient sanitizing can lead to arbitrary commands execution | [Notepad++](../by-program/notepad-plus-plus.md) | Medium | — | 50 |
+| 120 | [3523953](../reports/3523953.md) | wcurl Argument Injection via Unquoted Variable | [curl](../by-program/curl.md) | Medium | — | 43 |
+| 121 | [197958](../reports/197958.md) | [EdgeSwitch] Web GUI command injection as root with Privilege-1 a | [Ubiquiti Inc.](../by-program/ui.md) | Medium — CVSS 6.8 | — | 27 |
+| 122 | [470547](../reports/470547.md) | Unauthorized command execution in Web protection component of Ant | [Kaspersky](../by-program/kaspersky.md) | Medium | — | 22 |
+| 123 | [470519](../reports/470519.md) | Kaspersky Protection extension for Google Chrome is vulnerable to | [Kaspersky](../by-program/kaspersky.md) | Medium | — | 21 |
+| 124 | [216243](../reports/216243.md) | CSV injection in gitlab.com via issues export feature. | [GitLab](../by-program/gitlab.md) | Medium — CVSS 6.5 | — | 20 |
+| 125 | [244292](../reports/244292.md) | CSV Injection https://hub.grab.com | [Grab](../by-program/grab.md) | Medium — CVSS 4.3 | — | 20 |
+| 126 | [2095061](../reports/2095061.md) | Jitsi: Bridge Message Spoofing due to Improper JSON Handling lead | [8x8](../by-program/8x8-bounty.md) | Medium | — | 17 |
+| 127 | [508256](../reports/508256.md) | EdgeSwitch Command Injection | [Ubiquiti Inc.](../by-program/ui.md) | Medium — CVSS 4.9 | — | 15 |
+| 128 | [970869](../reports/970869.md) | Sending Arbitrary Requests through Jupyter Notebooks on gitlab.co | [GitLab](../by-program/gitlab.md) | Medium — CVSS 5.4 | — | 14 |
+| 129 | [470544](../reports/470544.md) | Unauthorized command execution in Web protection component of Ant | [Kaspersky](../by-program/kaspersky.md) | Medium | — | 13 |
+| 130 | [175403](../reports/175403.md) | [website] Script injection in newsletter signup https://brave.com | [Brave Software](../by-program/brave.md) | Medium | — | 10 |
+| 131 | [390865](../reports/390865.md) | Command Injection Vulnerability in libnmap Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.8 | — | 9 |
+| 132 | [390848](../reports/390848.md) | Command Injection is ps Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.8 | — | 8 |
+| 133 | [219323](../reports/219323.md) | CSV injection in gratipay.com via payment history export feature. | [Gratipay](../by-program/gratipay.md) | Medium — CVSS 6.5 | — | 8 |
+| 134 | [950192](../reports/950192.md) | [@knutkirkhorn/free-space] - Command Injection through Lack of Sa | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.8 | — | 7 |
+| 135 | [470553](../reports/470553.md) | Unauthorized command execution in Web protection component of Ant | [Kaspersky](../by-program/kaspersky.md) | Medium | — | 7 |
+| 136 | [661647](../reports/661647.md) | Local File Disclosure (+XSS+CSRF) in AirOS 6.2.0 devices | [Ubiquiti Inc.](../by-program/ui.md) | Medium — CVSS 6.1 | — | 6 |
+| 137 | [223999](../reports/223999.md) | CSV export filter bypass leads to formula injection. | [Weblate](../by-program/weblate.md) | Medium — CVSS 5.4 | — | 6 |
+| 138 | [951249](../reports/951249.md) | [freespace] Command Injection due to Lack of Sanitization | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 6 |
+| 139 | [415329](../reports/415329.md) | Pull Request #12949 - Security Implications without CVE assignmen | [Node.js](../by-program/nodejs.md) | Medium | — | 5 |
+| 140 | [630227](../reports/630227.md) | Command Injection due to lack of sanitisation of tar.gz filename  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.4 | — | 4 |
+| 141 | [242119](../reports/242119.md) | Roundcube virtualmin privilege escalation (CVE-2017-8114) | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 3 |
+| 142 | [340208](../reports/340208.md) | Command injection in 'pdf-image' | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.1 | — | 3 |
+| 143 | [633364](../reports/633364.md) | Command Injection in npm module name passed as an argument to pm2 | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.4 | — | 3 |
+| 144 | [661959](../reports/661959.md) | Command Injection vulnerability in kill-port-process package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.1 | — | 0 |
+| 145 | [294462](../reports/294462.md) | NET::Ftp allows command injection in filenames | [Ruby](../by-program/ruby.md) | Low | — | 28 |
+| 146 | [2554003](../reports/2554003.md) | HTML Injection into https://www.██████.mil | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 16 |
+| 147 | [118582](../reports/118582.md) | CSV Injection at the CSV export feature | [HackerOne](../by-program/security.md) | Low — CVSS 2.0 | — | 14 |
+| 148 | [274267](../reports/274267.md) | Request Hijacking Vulnerability in RubyGems 2.6.13 and earlier | [RubyGems](../by-program/rubygems.md) | Low | — | 5 |
+| 149 | [160500](../reports/160500.md) | Bypassing CSV injection using new line charcter | [Ian Dunn](../by-program/iandunn-projects.md) | Low | — | 5 |
+| 150 | [1916285](../reports/1916285.md) | Arbitrary escape sequence injection in docker-machine from worker | [GitLab](../by-program/gitlab.md) | Low — CVSS 1.8 | — | 5 |
+| 151 | [164674](../reports/164674.md) | CSV Injection in Camptix | [Ian Dunn](../by-program/iandunn-projects.md) | Low | — | 4 |
+| 152 | [224291](../reports/224291.md) | CSV Injection with the CVS export feature - Glossary | [Weblate](../by-program/weblate.md) | Low | — | 4 |
+| 153 | [413655](../reports/413655.md) | Server side includes in https://lgtm-com.pentesting.semmle.net/in | [Semmle](../by-program/semmle.md) | Low | — | 3 |
+| 154 | [1090678](../reports/1090678.md) | Command injection in OptionParser.load | [Ruby](../by-program/ruby.md) | Low | — | 1 |
+| 155 | [180074](../reports/180074.md) | BAD Code !  | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 542 |
+| 156 | [79348](../reports/79348.md) | OSX slack:// protocol handler javascript injection | [Slack](../by-program/slack.md) | None | — | 72 |
+| 157 | [139398](../reports/139398.md) | Read-Only user can execute arbitraty shell commands on AirOS | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 44 |
+| 158 | [73567](../reports/73567.md) | Attention! Remote Code Execution at http://wpt.ec2.shopify.com/ | [Shopify](../by-program/shopify.md) | None | — | 28 |
+| 159 | [3357960](../reports/3357960.md) | SMTP Command Injection Vulnerabilities in curl | [curl](../by-program/curl.md) | None | — | 27 |
+| 160 | [3584149](../reports/3584149.md) | SSTI leads to Command injection | [curl](../by-program/curl.md) | None | — | 24 |
+| 161 | [128750](../reports/128750.md) | Read-Only user can execute arbitraty shell commands on AirOS | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 22 |
+| 162 | [121940](../reports/121940.md) | Shell Injection via Web Management Console (dl-fw.cgi) | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 20 |
+| 163 | [3427370](../reports/3427370.md) | Command Injection on Amazon Q Developer CLI via malicious .amazon | [AWS VDP](../by-program/aws_vdp.md) | None | — | 19 |
+| 164 | [119317](../reports/119317.md) | Read-Only user can execute arbitraty shell commands on AirOS | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 18 |
+| 165 | [149442](../reports/149442.md) | Site support SNI But Browser can't | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 17 |
+| 166 | [155657](../reports/155657.md) | Arbitrary Code Injection in ownCloud’s Windows Client | [ownCloud](../by-program/owncloud.md) | None | — | 16 |
+| 167 | [151516](../reports/151516.md) | CSV Injection at Camptix Event Ticketing | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 15 |
+| 168 | [162955](../reports/162955.md) | Code Injection in Slack's Windows Desktop Client leads to Privile | [Slack](../by-program/slack.md) | None | — | 14 |
+| 169 | [72785](../reports/72785.md) | CSV Injection with the CVS export feature | [HackerOne](../by-program/security.md) | None | — | 13 |
+| 170 | [130661](../reports/130661.md) | XXE issue | [Moneybird](../by-program/moneybird.md) | None | — | 13 |
+| 171 | [54631](../reports/54631.md) | Vulnerable to JavaScript injection. (WXS)  (Javascript injection) | [Snapchat](../by-program/snapchat.md) | None | — | 13 |
+| 172 | [171473](../reports/171473.md) | HTTP Response Splitting(CRLF injection) in bi.owox.com | [OWOX, Inc.](../by-program/owox.md) | None | — | 13 |
+| 173 | [114476](../reports/114476.md) | Внедрение внешних сущностей в функционале импорта пользователей Y | [VK.com](../by-program/vkcom.md) | None | — | 11 |
+| 174 | [147220](../reports/147220.md) | Urgent Fix Balance Limit bypass  | [FantasyTote](../by-program/fantasytote.md) | None | — | 10 |
+| 175 | [137631](../reports/137631.md) | SMTP command injection | [Ruby](../by-program/ruby.md) | None | — | 10 |
+| 176 | [111192](../reports/111192.md) | CSV Injection via the CSV export feature | [HackerOne](../by-program/security.md) | None | — | 10 |
+| 177 | [157465](../reports/157465.md) | Host Header Injection/Redirection Attack | [Gratipay](../by-program/gratipay.md) | None | — | 9 |
+| 178 | [3418760](../reports/3418760.md) | Command Injection - CRITICISM | [curl](../by-program/curl.md) | None | — | 8 |
+| 179 | [115978](../reports/115978.md) | SSRF / Local file enumeration / DoS due to improper handling of c | [Imgur](../by-program/imgur.md) | None | — | 7 |
+| 180 | [158505](../reports/158505.md) | Reflected File Download on recipe list search | [Instacart](../by-program/instacart.md) | None | — | 7 |
+| 181 | [159213](../reports/159213.md) | The web app's forgot password page is vulnerable to text injectio | [Khan Academy](../by-program/khanacademy.md) | None | — | 6 |
+| 182 | [147188](../reports/147188.md) | Stored number of clicks in the Deposits button | [FantasyTote](../by-program/fantasytote.md) | None | — | 6 |
+| 183 | [5499](../reports/5499.md) | Arbitrary command execution in MS-DOS | [MS-DOS](../by-program/msdos.md) | None | — | 5 |
+| 184 | [145343](../reports/145343.md) | Possible RCE | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
+| 185 | [120219](../reports/120219.md) | SSRF issue | [Bime](../by-program/bime.md) | None | — | 5 |
+| 186 | [31554](../reports/31554.md) | Singup Page HTML Injection Vulnerability | [X / xAI](../by-program/x.md) | None | — | 5 |
+| 187 | [942103](../reports/942103.md) | Server-side template injection at ujs test server | [Ruby on Rails](../by-program/rails.md) | None | — | 5 |
+| 188 | [14127](../reports/14127.md) | SSRF on https://whitehataudit.slack.com/account/photo | [Slack](../by-program/slack.md) | None | — | 5 |
+| 189 | [83604](../reports/83604.md) | Html injection on khanacademy | [Khan Academy](../by-program/khanacademy.md) | None | — | 5 |
+| 190 | [18371](../reports/18371.md) | Directory Traversal at http://staging.jsdelivr.net/ | [jsDelivr](../by-program/jsdelivr.md) | None | — | 4 |
+| 191 | [1036995](../reports/1036995.md) | HTML injection in review content | [Judge.me ](../by-program/judgeme.md) | None | — | 4 |
+| 192 | [100667](../reports/100667.md) | CSV Excel Macro Injection Vulnerability in export list of current | [Shopify](../by-program/shopify.md) | None | — | 4 |
+| 193 | [146179](../reports/146179.md) | REG: Content provider information leakage | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
+| 194 | [50658](../reports/50658.md) | Reflected File Download attack allows attacker to 'upload' execut | [HackerOne](../by-program/security.md) | None | — | 4 |
+| 195 | [179701](../reports/179701.md) | username enumeration  | [Blockchain](../by-program/blockchain.md) | None | — | 4 |
+| 196 | [130338](../reports/130338.md) | CSV Injection with the CSV export feature | [Moneybird](../by-program/moneybird.md) | None | — | 3 |
+| 197 | [59663](../reports/59663.md) | Sendmail Remote Code Execution Vulnerability in Concrete5 version | [Concrete CMS](../by-program/concretecms.md) | None | — | 3 |
+| 198 | [90415](../reports/90415.md) | CSV Excel Macro Injection in Export Response | [Zaption](../by-program/zaption.md) | None | — | 3 |
+| 199 | [124223](../reports/124223.md) | CSV Injection via the CSV export feature | [HackerOne](../by-program/security.md) | None | — | 3 |
+| 200 | [34917](../reports/34917.md) | Bypassed or command injection | [Block.io](../by-program/blockio.md) | None | — | 2 |
+| 201 | [104465](../reports/104465.md) | git-fastclone allows arbitrary command execution through usage of | [Square Open Source](../by-program/square-open-source.md) | None | — | 2 |
+| 202 | [105980](../reports/105980.md) | XXE at host vpn.owncloud.com | [ownCloud](../by-program/owncloud.md) | None | — | 2 |
+| 203 | [105190](../reports/105190.md) | Unsafe usage of Ruby string interpolation enabling command inject | [Square Open Source](../by-program/square-open-source.md) | None | — | 2 |
+| 204 | [43988](../reports/43988.md) | twitter android app Fragment Injection | [X / xAI](../by-program/x.md) | None | — | 2 |
+| 205 | [17225](../reports/17225.md) | SQL injection, tile ID | [Uzbey](../by-program/uzbey.md) | None | — | 2 |
+| 206 | [146735](../reports/146735.md) | Command Injection, Information  | [Uber](../by-program/uber.md) | None | — | 1 |
+| 207 | [57263](../reports/57263.md) | Rank Creation function not validating user inputs. | [WordPoints](../by-program/wordpoints.md) | None | — | 1 |
+| 208 | [170748](../reports/170748.md) | RCE,SQL,Vulnerability + Exploit Method. | [RubyGems](../by-program/rubygems.md) | None | — | 1 |
+| 209 | [161290](../reports/161290.md) | bypass to csv injection | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 1 |

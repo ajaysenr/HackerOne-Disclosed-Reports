@@ -1,4 +1,4 @@
-# Greenhouse.io — Disclosed Reports (12 total)
+# Greenhouse.io — Disclosed Reports (13 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -13,6 +13,7 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 7 | [326639](../reports/326639.md) | DoS through cache poisoning using invalid HTTP parameters | Medium — CVSS 5.8 | — | 24 | [irvinlim](https://hackerone.com/irvinlim) | 2018-05-02 |
 | 8 | [897556](../reports/897556.md) | SSH port on store.greenhouse.io is vulnerable to brute force | Low | — | 7 | [lonelyhuman](https://hackerone.com/lonelyhuman) | 2020-06-22 |
 | 9 | [38007](../reports/38007.md) | Subdomain Takeover using blog.greenhouse.io pointing to Hubs | None | — | 33 | [fransrosen](https://hackerone.com/fransrosen) | 2015-02-26 |
-| 10 | [209521](../reports/209521.md) | Content Spoofing on link.greenhouse.io | None | — | 6 | [0xorigin](https://hackerone.com/0xorigin) | 2017-07-27 |
-| 11 | [25191](../reports/25191.md) | SMTP protection not used (please read carefully ) | None | — | 2 | [ashesh](https://hackerone.com/ashesh) | 2014-12-07 |
-| 12 | [24984](../reports/24984.md) | openssh-server Forced Command Handling Information Disclosur | None | — | 0 | [simon90](https://hackerone.com/simon90) | 2014-10-10 |
+| 10 | [25275](../reports/25275.md) | [greenhouse.io] CRLF Injection / Insecure nginx configuratio | None | — | 8 | [bobrov](https://hackerone.com/bobrov) | 2016-11-02 |
+| 11 | [209521](../reports/209521.md) | Content Spoofing on link.greenhouse.io | None | — | 6 | [0xorigin](https://hackerone.com/0xorigin) | 2017-07-27 |
+| 12 | [25191](../reports/25191.md) | SMTP protection not used (please read carefully ) | None | — | 2 | [ashesh](https://hackerone.com/ashesh) | 2014-12-07 |
+| 13 | [24984](../reports/24984.md) | openssh-server Forced Command Handling Information Disclosur | None | — | 0 | [simon90](https://hackerone.com/simon90) | 2014-10-10 |

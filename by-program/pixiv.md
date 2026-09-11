@@ -1,4 +1,4 @@
-# pixiv — Disclosed Reports (13 total)
+# pixiv — Disclosed Reports (14 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -17,3 +17,4 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 11 | [703972](../reports/703972.md) | Reset any password | High | — | 312 | [pdaa](https://hackerone.com/pdaa) | 2021-03-31 |
 | 12 | [2473173](../reports/2473173.md) | Internal logs/info leaked via endpoint {https://203.137.128. | High | — | 141 | [dexter34](https://hackerone.com/dexter34) | 2026-01-20 |
 | 13 | [1503601](../reports/1503601.md) | XSS Reflected at https://sketch.pixiv.net/ Via `next_url` | Medium — CVSS 6.4 | — | 64 | [find_me_here](https://hackerone.com/find_me_here) | 2022-03-23 |
+| 14 | [1019425](../reports/1019425.md) | Bypass extension check leads to stored XSS at https://s2.boo | Medium — CVSS 5.7 | — | 30 | [fanar](https://hackerone.com/fanar) | 2021-01-08 |

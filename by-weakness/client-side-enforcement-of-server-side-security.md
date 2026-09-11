@@ -1,4 +1,4 @@
-# Weakness: Client-Side Enforcement of Server-Side Security (14 reports)
+# Weakness: Client-Side Enforcement of Server-Side Security (16 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -14,7 +14,9 @@
 | 8 | [865828](../reports/865828.md) | Incorrect control of the trial period | [Nord Security](../by-program/nordsecurity.md) | Medium | — | 188 |
 | 9 | [1801427](../reports/1801427.md) | Information disclosure by sending a GIF | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 4.3 | — | 83 |
 | 10 | [700831](../reports/700831.md) | Unauthenticated read and write access to ALL endpoints of a store | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.8 | — | 53 |
-| 11 | [259913](../reports/259913.md) | File Upload Restriction Bypass | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 10 |
-| 12 | [1338256](../reports/1338256.md) | No server side check on terms of service page which leads to bypa | [Acronis](../by-program/acronis.md) | Medium | — | 8 |
-| 13 | [3766455](../reports/3766455.md) | Yelp for Business: locked Email field silently editable via API | [Yelp](../by-program/yelp.md) | Medium | — | 7 |
-| 14 | [789579](../reports/789579.md) | ActiveStorage direct upload fails to sign content-length header f | [Ruby on Rails](../by-program/rails.md) | Medium — CVSS 5.3 | — | 5 |
+| 11 | [1244798](../reports/1244798.md) | Client Side string length check | [Khan Academy](../by-program/khanacademy.md) | Medium — CVSS 4.6 | — | 25 |
+| 12 | [259913](../reports/259913.md) | File Upload Restriction Bypass | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 10 |
+| 13 | [1338256](../reports/1338256.md) | No server side check on terms of service page which leads to bypa | [Acronis](../by-program/acronis.md) | Medium | — | 8 |
+| 14 | [3766455](../reports/3766455.md) | Yelp for Business: locked Email field silently editable via API | [Yelp](../by-program/yelp.md) | Medium | — | 7 |
+| 15 | [789579](../reports/789579.md) | ActiveStorage direct upload fails to sign content-length header f | [Ruby on Rails](../by-program/rails.md) | Medium — CVSS 5.3 | — | 5 |
+| 16 | [981036](../reports/981036.md) | Hacker can bypass minimum bounty amount restrictions in "invitati | [HackerOne](../by-program/security.md) | Low | — | 29 |

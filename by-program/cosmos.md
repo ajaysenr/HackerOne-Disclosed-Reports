@@ -1,4 +1,4 @@
-# Cosmos — Disclosed Reports (10 total)
+# Cosmos — Disclosed Reports (11 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -9,8 +9,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 3 | [2930811](../reports/2930811.md) | Attacker can use any non-enabled capability | Low | $2,000 | 80 | [julianor](https://hackerone.com/julianor) | 2025-01-15 |
 | 4 | [2806356](../reports/2806356.md) | Heap-Buffer-Overread in contains_whitespace when calling par | None | $2,000 | 34 | [l33thaxor](https://hackerone.com/l33thaxor) | 2024-11-19 |
 | 5 | [2976481](../reports/2976481.md) | Unauthorized coins transfer from locking account(s) | Critical | — | 78 | [unknown_feature](https://hackerone.com/unknown_feature) | 2025-06-29 |
-| 6 | [2094056](../reports/2094056.md) | RCE and DoS in Cosmovisor | Medium | — | 28 | [strikeout](https://hackerone.com/strikeout) | 2023-10-10 |
-| 7 | [1397826](../reports/1397826.md) | Unclaimed official s3 bucket of tendermint(tendermint-packag | Low | — | 27 | [gaurav-bhatia](https://hackerone.com/gaurav-bhatia) | 2023-02-15 |
-| 8 | [2914705](../reports/2914705.md) | Making transfer v2 channel unupgradable through the forwardi | Low | — | 25 | [unknown_feature](https://hackerone.com/unknown_feature) | 2025-06-30 |
-| 9 | [2917368](../reports/2917368.md) | Replacing ICA active channel during the upgrade and a bit mo | Low | — | 21 | [unknown_feature](https://hackerone.com/unknown_feature) | 2025-06-30 |
-| 10 | [3510161](../reports/3510161.md) | Memory Exhaustion in CometBFT v1.0.1 via malicious ProposalM | None | — | 47 | [0xjam](https://hackerone.com/0xjam) | 2026-01-20 |
+| 6 | [3425308](../reports/3425308.md) | Economic DoS (Griefing) on IBC Relayers via `memo` Callback  | High — CVSS 8.6 | — | 16 | [tychebe](https://hackerone.com/tychebe) | 2025-12-18 |
+| 7 | [2094056](../reports/2094056.md) | RCE and DoS in Cosmovisor | Medium | — | 28 | [strikeout](https://hackerone.com/strikeout) | 2023-10-10 |
+| 8 | [1397826](../reports/1397826.md) | Unclaimed official s3 bucket of tendermint(tendermint-packag | Low | — | 27 | [gaurav-bhatia](https://hackerone.com/gaurav-bhatia) | 2023-02-15 |
+| 9 | [2914705](../reports/2914705.md) | Making transfer v2 channel unupgradable through the forwardi | Low | — | 25 | [unknown_feature](https://hackerone.com/unknown_feature) | 2025-06-30 |
+| 10 | [2917368](../reports/2917368.md) | Replacing ICA active channel during the upgrade and a bit mo | Low | — | 21 | [unknown_feature](https://hackerone.com/unknown_feature) | 2025-06-30 |
+| 11 | [3510161](../reports/3510161.md) | Memory Exhaustion in CometBFT v1.0.1 via malicious ProposalM | None | — | 47 | [0xjam](https://hackerone.com/0xjam) | 2026-01-20 |

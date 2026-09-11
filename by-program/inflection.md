@@ -1,4 +1,4 @@
-# Inflection — Disclosed Reports (21 total)
+# Inflection — Disclosed Reports (24 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -18,10 +18,13 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 12 | [280803](../reports/280803.md) | Fake mailing reports using mail service on [URL : mail-txn.i | Low | — | 9 | [namansahore](https://hackerone.com/namansahore) | 2017-10-25 |
 | 13 | [296094](../reports/296094.md) | Reflected Cross-site Scripting Vulnerability via JSON Error  | Low — CVSS 3.7 | — | 7 | [cosmopolitan_fi](https://hackerone.com/cosmopolitan_fi) | 2018-02-09 |
 | 14 | [277078](../reports/277078.md) | Goodhire Open Redirect | None | — | 11 | [protector47](https://hackerone.com/protector47) | 2017-12-20 |
-| 15 | [277377](../reports/277377.md) | Amount Manipulation Buy Unlimited Credits in just $1.00 | None | — | 7 | [anonymousmian](https://hackerone.com/anonymousmian) | 2017-11-01 |
-| 16 | [280914](../reports/280914.md) | Business Logic Flaw allowing Privilege Escalation | None | — | 7 | [zs75](https://hackerone.com/zs75) | 2017-11-29 |
-| 17 | [277354](../reports/277354.md) | HTTP Host Header Injection on app.goodhire.com | None | — | 5 | [anonymousmian](https://hackerone.com/anonymousmian) | 2017-11-01 |
-| 18 | [277192](../reports/277192.md) | Host Header Injection and Cache Poisoning | None | — | 4 | [kiddie](https://hackerone.com/kiddie) | 2017-10-24 |
-| 19 | [281449](../reports/281449.md) | Limited Account Takeover via Backup codes  | None | — | 3 | [gopalsingh27](https://hackerone.com/gopalsingh27) | 2017-10-26 |
-| 20 | [283502](../reports/283502.md) | XST(Cross Site Tracing) | None | — | 1 | [thalaivarsubu](https://hackerone.com/thalaivarsubu) | 2017-10-31 |
-| 21 | [281472](../reports/281472.md) | Unsubscribe Any User | None | — | 1 | [hk755a](https://hackerone.com/hk755a) | 2017-11-29 |
+| 15 | [280914](../reports/280914.md) | Business Logic Flaw allowing Privilege Escalation | None | — | 7 | [zs75](https://hackerone.com/zs75) | 2017-11-29 |
+| 16 | [277377](../reports/277377.md) | Amount Manipulation Buy Unlimited Credits in just $1.00 | None | — | 7 | [anonymousmian](https://hackerone.com/anonymousmian) | 2017-11-01 |
+| 17 | [276816](../reports/276816.md) | No password confirmation on changing primary email address | None | — | 6 | [papa_hecker](https://hackerone.com/papa_hecker) | 2017-10-18 |
+| 18 | [277354](../reports/277354.md) | HTTP Host Header Injection on app.goodhire.com | None | — | 5 | [anonymousmian](https://hackerone.com/anonymousmian) | 2017-11-01 |
+| 19 | [277192](../reports/277192.md) | Host Header Injection and Cache Poisoning | None | — | 4 | [kiddie](https://hackerone.com/kiddie) | 2017-10-24 |
+| 20 | [281449](../reports/281449.md) | Limited Account Takeover via Backup codes  | None | — | 3 | [gopalsingh27](https://hackerone.com/gopalsingh27) | 2017-10-26 |
+| 21 | [283786](../reports/283786.md) | Host Header Injection or cache poisoning in multiple domains | None | — | 2 | [thalaivarsubu](https://hackerone.com/thalaivarsubu) | 2017-10-31 |
+| 22 | [283502](../reports/283502.md) | XST(Cross Site Tracing) | None | — | 1 | [thalaivarsubu](https://hackerone.com/thalaivarsubu) | 2017-10-31 |
+| 23 | [281472](../reports/281472.md) | Unsubscribe Any User | None | — | 1 | [hk755a](https://hackerone.com/hk755a) | 2017-11-29 |
+| 24 | [278220](../reports/278220.md) | Limited arbitrary text inclusion in user invite emails | None | — | 0 | [hk755a](https://hackerone.com/hk755a) | 2017-11-29 |

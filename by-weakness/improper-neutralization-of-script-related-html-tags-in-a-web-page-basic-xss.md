@@ -1,4 +1,4 @@
-# Weakness: Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) (15 reports)
+# Weakness: Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) (18 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -10,12 +10,15 @@
 | 4 | [2587101](../reports/2587101.md) | Reflected HTML Injection via contact (faq) search parameter on ██ | [Mars](../by-program/mars.md) | Medium | — | 101 |
 | 5 | [2578985](../reports/2578985.md) | Reflected HTML Injection via contact (faq) search parameter on ██ | [Mars](../by-program/mars.md) | Medium — CVSS 5.0 | — | 81 |
 | 6 | [1601140](../reports/1601140.md) | reflected XSS on panther.com | [Panther Labs](../by-program/panther_labs.md) | Medium | — | 65 |
-| 7 | [1790444](../reports/1790444.md) | HTML injection via insecure parameter [https://www.ubercarshare.c | [Uber](../by-program/uber.md) | Medium — CVSS 4.3 | — | 35 |
-| 8 | [1376990](../reports/1376990.md) | HTML Injection via TikTok Ads Email Share  | [TikTok](../by-program/tiktok.md) | Medium | — | 29 |
-| 9 | [1810656](../reports/1810656.md) | xss and html injection on ( https://labs.history.state.gov) | [U.S. Department of State](../by-program/us-department-of-state.md) | Medium — CVSS 4.7 | — | 23 |
-| 10 | [1256496](../reports/1256496.md) | HTML injection in email content during registration via FirstName | [MTN Group](../by-program/mtn_group.md) | Medium | — | 16 |
-| 11 | [2061049](../reports/2061049.md) | Html injection | [Mars](../by-program/mars.md) | Medium — CVSS 4.3 | — | 11 |
-| 12 | [2299529](../reports/2299529.md) | HTML Injection on TikTok Ads | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.1 | — | 152 |
-| 13 | [1844830](../reports/1844830.md) | HTML INJECTION on coins.state.gov | [U.S. Department of State](../by-program/us-department-of-state.md) | Low | — | 16 |
-| 14 | [1440161](../reports/1440161.md) | Improper Neutralization of Script-Related HTML Tags in a Web Page | [8x8](../by-program/8x8-bounty.md) | Low | — | 13 |
-| 15 | [1252155](../reports/1252155.md) | HTML INJECTION  (STORED) | [Judge.me ](../by-program/judgeme.md) | None | — | 5 |
+| 7 | [903869](../reports/903869.md) | [bugs.fuzzing-project.org] HTML Injection via 'custom_field_7[]'  | [Hanno's projects](../by-program/hannob.md) | Medium — CVSS 6.5 | — | 38 |
+| 8 | [1790444](../reports/1790444.md) | HTML injection via insecure parameter [https://www.ubercarshare.c | [Uber](../by-program/uber.md) | Medium — CVSS 4.3 | — | 35 |
+| 9 | [1376990](../reports/1376990.md) | HTML Injection via TikTok Ads Email Share  | [TikTok](../by-program/tiktok.md) | Medium | — | 29 |
+| 10 | [1810656](../reports/1810656.md) | xss and html injection on ( https://labs.history.state.gov) | [U.S. Department of State](../by-program/us-department-of-state.md) | Medium — CVSS 4.7 | — | 23 |
+| 11 | [1256496](../reports/1256496.md) | HTML injection in email content during registration via FirstName | [MTN Group](../by-program/mtn_group.md) | Medium | — | 16 |
+| 12 | [2061049](../reports/2061049.md) | Html injection | [Mars](../by-program/mars.md) | Medium — CVSS 4.3 | — | 11 |
+| 13 | [2299529](../reports/2299529.md) | HTML Injection on TikTok Ads | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.1 | — | 152 |
+| 14 | [1490311](../reports/1490311.md) | HTML Injection via Email Share | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.4 | — | 53 |
+| 15 | [1844830](../reports/1844830.md) | HTML INJECTION on coins.state.gov | [U.S. Department of State](../by-program/us-department-of-state.md) | Low | — | 16 |
+| 16 | [1440161](../reports/1440161.md) | Improper Neutralization of Script-Related HTML Tags in a Web Page | [8x8](../by-program/8x8-bounty.md) | Low | — | 13 |
+| 17 | [3442024](../reports/3442024.md) | runs javascript on powershell when it shouldnt | [curl](../by-program/curl.md) | None | — | 12 |
+| 18 | [1252155](../reports/1252155.md) | HTML INJECTION  (STORED) | [Judge.me ](../by-program/judgeme.md) | None | — | 5 |

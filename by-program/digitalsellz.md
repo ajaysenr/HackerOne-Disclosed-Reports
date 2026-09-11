@@ -1,4 +1,4 @@
-# DigitalSellz — Disclosed Reports (6 total)
+# DigitalSellz — Disclosed Reports (8 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -9,4 +9,6 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 3 | [170295](../reports/170295.md) | Access to Amazon S3 bucket | None | — | 4 | [sameoldstory](https://hackerone.com/sameoldstory) | 2016-11-27 |
 | 4 | [20305](../reports/20305.md) | USER Account is not being deleted after user "Delete Account | None | — | 3 | [faisalahmed](https://hackerone.com/faisalahmed) | 2014-08-17 |
 | 5 | [74518](../reports/74518.md) | The email updates issues | None | — | 3 | [s_p_q_r](https://hackerone.com/s_p_q_r) | 2015-08-25 |
-| 6 | [20279](../reports/20279.md) | Verbose SQL error messages | None | — | 2 | [bitquark](https://hackerone.com/bitquark) | 2014-08-17 |
+| 6 | [74514](../reports/74514.md) | Own downloading link isn't properly checked in the email tem | None | — | 3 | [s_p_q_r](https://hackerone.com/s_p_q_r) | 2015-11-16 |
+| 7 | [74595](../reports/74595.md) | The product/status method CSRF | None | — | 3 | [s_p_q_r](https://hackerone.com/s_p_q_r) | 2015-08-25 |
+| 8 | [20279](../reports/20279.md) | Verbose SQL error messages | None | — | 2 | [bitquark](https://hackerone.com/bitquark) | 2014-08-17 |

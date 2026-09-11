@@ -1,4 +1,4 @@
-# Weakness: HTTP Response Splitting (14 reports)
+# Weakness: HTTP Response Splitting (16 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -16,5 +16,7 @@
 | 10 | [1910810](../reports/1910810.md) | Apache HTTP Server: mod_proxy_uwsgi HTTP response splitting (CVE- | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 4 |
 | 11 | [3508799](../reports/3508799.md) | Digest Authentication Header Injection | [curl](../by-program/curl.md) | Low | — | 8 |
 | 12 | [1204977](../reports/1204977.md) | CGI::Cookieクラスにおけるセキュリティ上好ましくない仕様および実装 | [Ruby](../by-program/ruby.md) | Low | — | 6 |
-| 13 | [184881](../reports/184881.md) | invalid URL parsing with and '@' | [OWOX, Inc.](../by-program/owox.md) | Low | — | 2 |
-| 14 | [277354](../reports/277354.md) | HTTP Host Header Injection on app.goodhire.com | [Inflection](../by-program/inflection.md) | None | — | 5 |
+| 13 | [176159](../reports/176159.md) | [iOS] URI Obfuscation in iOS application | [Brave Software](../by-program/brave.md) | Low | — | 3 |
+| 14 | [184881](../reports/184881.md) | invalid URL parsing with and '@' | [OWOX, Inc.](../by-program/owox.md) | Low | — | 2 |
+| 15 | [3481849](../reports/3481849.md) | HTTP/2 and HTTP/3 Header Injection in curl | [curl](../by-program/curl.md) | None | — | 20 |
+| 16 | [277354](../reports/277354.md) | HTTP Host Header Injection on app.goodhire.com | [Inflection](../by-program/inflection.md) | None | — | 5 |

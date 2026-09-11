@@ -1,4 +1,4 @@
-# StopTheHacker — Disclosed Reports (6 total)
+# StopTheHacker — Disclosed Reports (7 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -8,5 +8,6 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 2 | [137964](../reports/137964.md) | Wordpress  flashmediaelement.swf XSS on stopthehacker.com   | None | — | 5 | [strutsonsecurity](https://hackerone.com/strutsonsecurity) | 2017-01-12 |
 | 3 | [9735](../reports/9735.md) | Reflected cross site scripting in login page  | None | — | 5 | [robincool03111](https://hackerone.com/robincool03111) | 2014-09-07 |
 | 4 | [8780](../reports/8780.md) | Information Disclosure (FPD) - stopthehacker.com | None | — | 4 | [quistertow](https://hackerone.com/quistertow) | 2014-07-08 |
-| 5 | [8843](../reports/8843.md) | CSRF - Disabling orders at https://panel.stopthehacker.com/m | None | — | 2 | [internetwache](https://hackerone.com/internetwache) | 2014-07-19 |
-| 6 | [9148](../reports/9148.md) | XSS Reflected - https://www.stopthehacker.com/ | None | — | 2 | [dekeeu](https://hackerone.com/dekeeu) | 2014-08-08 |
+| 5 | [8862](../reports/8862.md) | XSS in Stopthehacker support | None | — | 3 | [cliantech](https://hackerone.com/cliantech) | 2014-07-19 |
+| 6 | [8843](../reports/8843.md) | CSRF - Disabling orders at https://panel.stopthehacker.com/m | None | — | 2 | [internetwache](https://hackerone.com/internetwache) | 2014-07-19 |
+| 7 | [9148](../reports/9148.md) | XSS Reflected - https://www.stopthehacker.com/ | None | — | 2 | [dekeeu](https://hackerone.com/dekeeu) | 2014-08-08 |

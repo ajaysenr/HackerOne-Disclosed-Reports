@@ -1,4 +1,4 @@
-# Weakness: Session Fixation (9 reports)
+# Weakness: Session Fixation (14 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -6,10 +6,15 @@
 |---|---|---|---|---|---|---|
 | 1 | [2121960](../reports/2121960.md) | CVE-2023-40273: Session fixation in Apache Airflow web interface | [Internet Bug Bounty](../by-program/ibb.md) | Low | $540 | 26 |
 | 2 | [1181962](../reports/1181962.md) | Session fixation on public talk links | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.4 | $100 | 22 |
-| 3 | [1150573](../reports/1150573.md) | ████████ portal is open to enumeration once authenticated.  Sessi | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 7 |
-| 4 | [1486341](../reports/1486341.md) | Session Fixation on Acronis | [Acronis](../by-program/acronis.md) | Medium | — | 6 |
-| 5 | [237184](../reports/237184.md) | Session fixation in password protected public download. | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.1 | — | 20 |
-| 6 | [249798](../reports/249798.md) | Intercom chat session information persists after logout | [Legal Robot](../by-program/legalrobot.md) | Low — CVSS 2.5 | — | 20 |
-| 7 | [743518](../reports/743518.md) | Pending MFA logins aren't immediatly expired after a password cha | [Moneybird](../by-program/moneybird.md) | Low | — | 15 |
-| 8 | [737058](../reports/737058.md) | Affiliates - Session Fixation | [Clario](../by-program/clario.md) | Low | — | 3 |
-| 9 | [423136](../reports/423136.md) | H1514 Session Fixation on multiple shopify-built apps on *.shopif | [Shopify](../by-program/shopify.md) | None | — | 144 |
+| 3 | [486693](../reports/486693.md) | 2FA Session not expires after the password reset | [Nextcloud](../by-program/nextcloud.md) | Medium | $50 | 35 |
+| 4 | [1150573](../reports/1150573.md) | ████████ portal is open to enumeration once authenticated.  Sessi | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 7 |
+| 5 | [1560324](../reports/1560324.md) | Cookie injection from non-secure context | [curl](../by-program/curl.md) | High | — | 2 |
+| 6 | [1329434](../reports/1329434.md) | Session Fixiation allow attacker to create new evil workspace wit | [Courier](../by-program/trycourier.md) | Medium | — | 11 |
+| 7 | [255020](../reports/255020.md) | Password Reset page Session Fixation | [Legal Robot](../by-program/legalrobot.md) | Medium | — | 7 |
+| 8 | [1486341](../reports/1486341.md) | Session Fixation on Acronis | [Acronis](../by-program/acronis.md) | Medium | — | 6 |
+| 9 | [237184](../reports/237184.md) | Session fixation in password protected public download. | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.1 | — | 20 |
+| 10 | [249798](../reports/249798.md) | Intercom chat session information persists after logout | [Legal Robot](../by-program/legalrobot.md) | Low — CVSS 2.5 | — | 20 |
+| 11 | [743518](../reports/743518.md) | Pending MFA logins aren't immediatly expired after a password cha | [Moneybird](../by-program/moneybird.md) | Low | — | 15 |
+| 12 | [737058](../reports/737058.md) | Affiliates - Session Fixation | [Clario](../by-program/clario.md) | Low | — | 3 |
+| 13 | [423136](../reports/423136.md) | H1514 Session Fixation on multiple shopify-built apps on *.shopif | [Shopify](../by-program/shopify.md) | None | — | 144 |
+| 14 | [3161827](../reports/3161827.md) | Session Persistence Designed to Keep Users Logged In Across Multi | [Shopify](../by-program/shopify.md) | None | — | 63 |

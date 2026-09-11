@@ -1,4 +1,4 @@
-# Discourse — Disclosed Reports (19 total)
+# Discourse — Disclosed Reports (20 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -10,10 +10,10 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 4 | [213558](../reports/213558.md) | Arbitrary Local-File Read from Admin - Restore From Backup d | High | $512 | 52 | [ziot](https://hackerone.com/ziot) | 2017-05-13 |
 | 5 | [214022](../reports/214022.md) | Admin Command Injection via username in user_archive ExportC | High | $512 | 45 | [ziot](https://hackerone.com/ziot) | 2017-05-13 |
 | 6 | [394016](../reports/394016.md) | Web Cache Deception Attack (XSS) | High | $256 | 49 | [bobrov](https://hackerone.com/bobrov) | 2018-11-18 |
-| 7 | [333507](../reports/333507.md) | Stored XSS in "post last edited" option | High — CVSS 8.2 | $256 | 19 | [luigigubello](https://hackerone.com/luigigubello) | 2018-07-09 |
-| 8 | [312647](../reports/312647.md) | Gaining access to private topics using quoting feature | High | $256 | 19 | [mishre](https://hackerone.com/mishre) | 2018-03-17 |
-| 9 | [191909](../reports/191909.md) | XSS Vulnerability on Image link parser | High | $256 | 14 | [alberto__segura](https://hackerone.com/alberto__segura) | 2017-01-10 |
-| 10 | [192223](../reports/192223.md) | XSS vulnerability on Audio and Video parsers | High | $256 | 14 | [alberto__segura](https://hackerone.com/alberto__segura) | 2017-01-10 |
+| 7 | [312647](../reports/312647.md) | Gaining access to private topics using quoting feature | High | $256 | 19 | [mishre](https://hackerone.com/mishre) | 2018-03-17 |
+| 8 | [333507](../reports/333507.md) | Stored XSS in "post last edited" option | High — CVSS 8.2 | $256 | 19 | [luigigubello](https://hackerone.com/luigigubello) | 2018-07-09 |
+| 9 | [192223](../reports/192223.md) | XSS vulnerability on Audio and Video parsers | High | $256 | 14 | [alberto__segura](https://hackerone.com/alberto__segura) | 2017-01-10 |
+| 10 | [191909](../reports/191909.md) | XSS Vulnerability on Image link parser | High | $256 | 14 | [alberto__segura](https://hackerone.com/alberto__segura) | 2017-01-10 |
 | 11 | [228399](../reports/228399.md) | Any authenticated user can download full list of users, incl | Medium — CVSS 5.0 | $256 | 19 | [arkadiyt](https://hackerone.com/arkadiyt) | 2017-06-17 |
 | 12 | [228377](../reports/228377.md) | SSRF in upload IMG through URL | Low | $64 | 32 | [mariuszdeepsec](https://hackerone.com/mariuszdeepsec) | 2017-06-18 |
 | 13 | [3058919](../reports/3058919.md) | Application Level DoS - Large Markdown Payload in Reply Sect | High — CVSS 7.5 | — | 82 | [theteatoast](https://hackerone.com/theteatoast) | 2025-10-18 |
@@ -22,4 +22,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 16 | [197902](../reports/197902.md) | Stored XSS in topics because of whitelisted_generic engine v | High | — | 13 | [skavans](https://hackerone.com/skavans) | 2017-01-20 |
 | 17 | [197914](../reports/197914.md) | Stored XSS in posts because of absence of oembed variables v | High | — | 13 | [skavans](https://hackerone.com/skavans) | 2017-01-20 |
 | 18 | [3689633](../reports/3689633.md) | Hidden/restricted tags can be mutated through synonym ID pat | Medium — CVSS 4.3 | — | 14 | [ahpuh](https://hackerone.com/ahpuh) | 2026-08-26 |
-| 19 | [260697](../reports/260697.md) | CSRF-tokens on pages without no-cache headers, resulting in  | Low | — | 56 | [fransrosen](https://hackerone.com/fransrosen) | 2018-08-08 |
+| 19 | [192611](../reports/192611.md) | Users can bookmark other user's messages | Medium | — | 7 | [strukt](https://hackerone.com/strukt) | 2017-01-10 |
+| 20 | [260697](../reports/260697.md) | CSRF-tokens on pages without no-cache headers, resulting in  | Low | — | 56 | [fransrosen](https://hackerone.com/fransrosen) | 2018-08-08 |

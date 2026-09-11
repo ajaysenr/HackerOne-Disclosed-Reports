@@ -1,4 +1,4 @@
-# X / xAI — Disclosed Reports (234 total)
+# X / xAI — Disclosed Reports (250 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -41,8 +41,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 35 | [921286](../reports/921286.md) | Denial of Service  [Chrome] | Medium | $560 | 66 | [try_to_hac](https://hackerone.com/try_to_hac) | 2020-07-24 |
 | 36 | [781673](../reports/781673.md) | Accepting error message on twitter sends you to attacker sit | Medium | $560 | 33 | [safehacker_2715](https://hackerone.com/safehacker_2715) | 2020-03-13 |
 | 37 | [1392211](../reports/1392211.md) | Remote 0click exfiltration of Safari user's IP address | Medium | $560 | 28 | [max2x](https://hackerone.com/max2x) | 2022-06-15 |
-| 38 | [583819](../reports/583819.md) | cookie injection allow dos attack to periscope.tv | Medium | $560 | 26 | [protostar0](https://hackerone.com/protostar0) | 2019-07-03 |
-| 39 | [1437004](../reports/1437004.md) | Improper santization of edit in list feature at twitter lead | Medium — CVSS 4.3 | $560 | 26 | [greytesla](https://hackerone.com/greytesla) | 2023-09-18 |
+| 38 | [1437004](../reports/1437004.md) | Improper santization of edit in list feature at twitter lead | Medium — CVSS 4.3 | $560 | 26 | [greytesla](https://hackerone.com/greytesla) | 2023-09-18 |
+| 39 | [583819](../reports/583819.md) | cookie injection allow dos attack to periscope.tv | Medium | $560 | 26 | [protostar0](https://hackerone.com/protostar0) | 2019-07-03 |
 | 40 | [1421345](../reports/1421345.md) | Link-shortener bypass (regression on fix for #1032610) | Medium — CVSS 5.7 | $560 | 23 | [jub0bs](https://hackerone.com/jub0bs) | 2022-12-12 |
 | 41 | [768677](../reports/768677.md) | lack of input validation that can lead Denial of Service (DO | Medium | $560 | 22 | [meepmerp](https://hackerone.com/meepmerp) | 2020-03-12 |
 | 42 | [347748](../reports/347748.md) | Improper session handling on web browsers | Medium | $560 | 19 | [arjuniet](https://hackerone.com/arjuniet) | 2018-06-26 |
@@ -58,8 +58,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 52 | [142549](../reports/142549.md) | Information Disclosure through .DS_Store in ██████████ | None | $560 | 27 | [lewerkun](https://hackerone.com/lewerkun) | 2016-12-12 |
 | 53 | [100931](../reports/100931.md) | xss in link items (mopub.com) | None | $560 | 14 | [cymtrick](https://hackerone.com/cymtrick) | 2016-07-05 |
 | 54 | [100849](../reports/100849.md) | URGENT : NICHE.co Account Take Over Vulnerability | None | $560 | 7 | [hussein98d](https://hackerone.com/hussein98d) | 2015-12-21 |
-| 55 | [30975](../reports/30975.md) | Improper Verification of email address while saving Account  | None | $560 | 6 | [anshuman_bh](https://hackerone.com/anshuman_bh) | 2015-08-13 |
-| 56 | [49806](../reports/49806.md) | Twitter Ads Campaign information disclosure through admin wi | None | $560 | 6 | [avicoder_](https://hackerone.com/avicoder_) | 2015-04-25 |
+| 55 | [49806](../reports/49806.md) | Twitter Ads Campaign information disclosure through admin wi | None | $560 | 6 | [avicoder_](https://hackerone.com/avicoder_) | 2015-04-25 |
+| 56 | [30975](../reports/30975.md) | Improper Verification of email address while saving Account  | None | $560 | 6 | [anshuman_bh](https://hackerone.com/anshuman_bh) | 2015-08-13 |
 | 57 | [46818](../reports/46818.md) | Twitter Card - Parent Window Redirection | None | $560 | 3 | [batuhan](https://hackerone.com/batuhan) | 2015-05-04 |
 | 58 | [50752](../reports/50752.md) | open redirect sends authenticity_token to any website or (ip | None | $560 | 1 | [seifelsallamy](https://hackerone.com/seifelsallamy) | 2015-03-14 |
 | 59 | [819930](../reports/819930.md) | Ability to bruteforce mopub account’s password due to lack o | Low — CVSS 3.7 | $420 | 55 | [updatelap](https://hackerone.com/updatelap) | 2020-07-10 |
@@ -82,159 +82,175 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 76 | [95243](../reports/95243.md) | Following a User Actually Follows Another User | None | $280 | 1 | [ericr](https://hackerone.com/ericr) | 2015-12-02 |
 | 77 | [97510](../reports/97510.md) | Following a User After Favoriting Actually Follows Another U | None | $280 | 1 | [ericr](https://hackerone.com/ericr) | 2015-12-02 |
 | 78 | [2257374](../reports/2257374.md) | Bypassing x profile verification to receive instant blue che | Low | $250 | 57 | [itsdavid](https://hackerone.com/itsdavid) | 2024-03-26 |
-| 79 | [278191](../reports/278191.md) | Listing of Amazon S3 Bucket accessible to any amazon authent | None | $140 | 36 | [segumarc](https://hackerone.com/segumarc) | 2017-11-19 |
-| 80 | [191323](../reports/191323.md) | Sub Domain Takeover at mk.prd.vine.co | None | $140 | 7 | [punkrock](https://hackerone.com/punkrock) | 2017-02-13 |
-| 81 | [44727](../reports/44727.md) | Insecure Data Storage in Vine Android App | None | $140 | 6 | [avicoder_](https://hackerone.com/avicoder_) | 2015-06-24 |
-| 82 | [47888](../reports/47888.md) | Reporting user's profile by using another people's ID | None | $140 | 4 | [hussein98d](https://hackerone.com/hussein98d) | 2015-06-11 |
-| 83 | [26825](../reports/26825.md) | Full path disclosure at ads.twitter.com | None | $140 | 2 | [internetwache](https://hackerone.com/internetwache) | 2014-11-17 |
-| 84 | [41240](../reports/41240.md) | POODLE Bug: 199.16.156.44, 199.16.156.108, mx4.twitter.com | None | $140 | 1 | [isox](https://hackerone.com/isox) | 2015-09-20 |
-| 85 | [202823](../reports/202823.md) | Vine all registered user Private/sensitive information discl | Critical — CVSS 9.3 | — | 121 | [0xprial](https://hackerone.com/0xprial) | 2017-07-11 |
-| 86 | [1369674](../reports/1369674.md) | Blind XSS on Twitter's internal Jira panel at ████ allows ex | Critical | — | 97 | [iambouali](https://hackerone.com/iambouali) | 2022-02-12 |
-| 87 | [499348](../reports/499348.md) | Twitter lite(Android): Vulnerable to local file steal, Javas | Critical | — | 93 | [rahulkankrale](https://hackerone.com/rahulkankrale) | 2019-04-29 |
-| 88 | [1096560](../reports/1096560.md) | Ability to add arbitrary images/descriptions/titles to ohter | Critical | — | 63 | [mirhat](https://hackerone.com/mirhat) | 2021-05-26 |
-| 89 | [684099](../reports/684099.md) | Periscope-all Firebase database takeover | Critical | — | 49 | [deeptiman](https://hackerone.com/deeptiman) | 2019-09-25 |
-| 90 | [219197](../reports/219197.md) | [██████████.gnip.com] .htpasswd disclosure | Critical | — | 19 | [rbcafe](https://hackerone.com/rbcafe) | 2017-05-26 |
-| 91 | [434689](../reports/434689.md) | Global defaming of any twitter user | Critical | — | 3 | [csanuragjain](https://hackerone.com/csanuragjain) | 2018-12-06 |
-| 92 | [434202](../reports/434202.md) | Opportunity to post hidden comments | Critical | — | 2 | [csanuragjain](https://hackerone.com/csanuragjain) | 2018-12-11 |
-| 93 | [770504](../reports/770504.md) | Bypass Password Authentication for updating email and phone  | High | — | 285 | [jayesh25](https://hackerone.com/jayesh25) | 2020-02-08 |
-| 94 | [1031321](../reports/1031321.md) |  Github Account hijack through broken link in developer.twit | High | — | 220 | [milankatwal99](https://hackerone.com/milankatwal99) | 2021-02-04 |
-| 95 | [317476](../reports/317476.md) | Account Takeover in Periscope TV | High | — | 210 | [ngalog](https://hackerone.com/ngalog) | 2018-09-06 |
-| 96 | [208978](../reports/208978.md) | [URGENT] Opportunity to publish tweets on any twitters accou | High | — | 118 | [kedrischh](https://hackerone.com/kedrischh) | 2017-05-22 |
-| 97 | [235642](../reports/235642.md) | [CRITICAL] Full account takeover using CSRF | High | — | 85 | [yipman](https://hackerone.com/yipman) | 2017-11-03 |
-| 98 | [1406335](../reports/1406335.md) | Subdomain takeover of images.crossinstall.com | High | — | 69 | [ian](https://hackerone.com/ian) | 2022-01-05 |
-| 99 | [643274](../reports/643274.md) | Viral Direct Message Clickjacking via link truncation leadin | High | — | 64 | [slickrockweb](https://hackerone.com/slickrockweb) | 2019-10-31 |
-| 100 | [275518](../reports/275518.md) | Blind XSS in Mobpub Marketplace Admin Production | Sentry vi | High | — | 63 | [harisec](https://hackerone.com/harisec) | 2018-02-17 |
-| 101 | [970157](../reports/970157.md) | Bypass Password Authentication to Update the Password | High | — | 55 | [a13h1](https://hackerone.com/a13h1) | 2021-01-11 |
-| 102 | [99600](../reports/99600.md) | Urgent : Unauthorised Access to Media content of all Direct  | High | — | 39 | [indoappsec](https://hackerone.com/indoappsec) | 2018-03-21 |
-| 103 | [189548](../reports/189548.md) | GNIP subdomain take over | High | — | 30 | [hussein98d](https://hackerone.com/hussein98d) | 2017-02-06 |
-| 104 | [273698](../reports/273698.md) | Unauthorized Access to Protected Tweets via niche.co API | High | — | 22 | [eidelweiss](https://hackerone.com/eidelweiss) | 2017-11-02 |
-| 105 | [715996](../reports/715996.md) | http request smuggling in  twitter.com | High | — | 17 | [protostar0](https://hackerone.com/protostar0) | 2020-11-18 |
-| 106 | [399174](../reports/399174.md) | Access MoPub Reports Data even after Company removed you fro | High | — | 11 | [suyog](https://hackerone.com/suyog) | 2019-11-05 |
-| 107 | [446271](../reports/446271.md) | CRLF injection | Medium | — | 437 | [s3c](https://hackerone.com/s3c) | 2019-12-25 |
-| 108 | [1032468](../reports/1032468.md) | Read-only application can publish/delete fleets | Medium | — | 398 | [ryotak](https://hackerone.com/ryotak) | 2021-01-04 |
-| 109 | [248668](../reports/248668.md) | XXE on sms-be-vip.twitter.com in SXMP Processor | Medium — CVSS 5.3 | — | 258 | [joshbrodienz](https://hackerone.com/joshbrodienz) | 2017-07-26 |
-| 110 | [664038](../reports/664038.md) | protected Tweet settings overwritten by other settings | Medium — CVSS 6.8 | — | 175 | [jaka-tingkir](https://hackerone.com/jaka-tingkir) | 2020-01-01 |
-| 111 | [819088](../reports/819088.md) | character limitation bypass can lead to DoS on Twitter App a | Medium | — | 140 | [exit_n0de](https://hackerone.com/exit_n0de) | 2020-05-06 |
-| 112 | [867616](../reports/867616.md) | XSS via referrer parameter | Medium | — | 124 | [keer0k](https://hackerone.com/keer0k) | 2020-10-26 |
-| 113 | [612231](../reports/612231.md) | Github Token Leaked publicly for https://github.com/mopub | Medium | — | 91 | [moro139](https://hackerone.com/moro139) | 2019-08-15 |
-| 114 | [1694304](../reports/1694304.md) | Able to see Twitter Circle tweets due to improper access con | Medium | — | 88 | [bugra](https://hackerone.com/bugra) | 2024-03-01 |
-| 115 | [1841064](../reports/1841064.md) | Ability to getting Twitter Blue verified badge without purch | Medium | — | 84 | [alp](https://hackerone.com/alp) | 2024-02-22 |
-| 116 | [297968](../reports/297968.md) | Persistent DOM-based XSS in https://help.twitter.com via loc | Medium | — | 84 | [harisec](https://hackerone.com/harisec) | 2018-02-24 |
-| 117 | [2140960](../reports/2140960.md) | Ability to see hidden likes | Medium | — | 80 | [mirhat](https://hackerone.com/mirhat) | 2024-05-10 |
-| 118 | [790854](../reports/790854.md) | NO username used in authenthication to www.mopub.com leading | Medium | — | 58 | [adarsh_p](https://hackerone.com/adarsh_p) | 2020-02-28 |
-| 119 | [154963](../reports/154963.md) | Stealing User emails by clickjacking cards.twitter.com/xxx/x | Medium | — | 49 | [akhil-reni](https://hackerone.com/akhil-reni) | 2017-02-03 |
-| 120 | [174721](../reports/174721.md) | View liked twits of private account via publish.twitter.com | Medium | — | 47 | [kedrischh](https://hackerone.com/kedrischh) | 2016-11-14 |
-| 121 | [176754](../reports/176754.md) |  Cross-site scripting (reflected) | Medium | — | 45 | [linkks](https://hackerone.com/linkks) | 2016-12-09 |
-| 122 | [982293](../reports/982293.md) | Bypass Password Authentication to Update the Password | Medium | — | 37 | [a13h1](https://hackerone.com/a13h1) | 2021-02-12 |
-| 123 | [493552](../reports/493552.md) | CSRF on https://www.niche.co leads to "account disconnection | Medium | — | 35 | [mik317](https://hackerone.com/mik317) | 2019-03-02 |
-| 124 | [1073114](../reports/1073114.md) | 2 Subdomains Takeover at readfu.com | Medium | — | 35 | [m7mdharoun](https://hackerone.com/m7mdharoun) | 2021-03-15 |
-| 125 | [854424](../reports/854424.md) | 暴力破解用户密码没有速率控制 | Medium | — | 30 | [1735096419](https://hackerone.com/1735096419) | 2020-07-01 |
-| 126 | [2063636](../reports/2063636.md) | Twitter Subscriptions Information Disclosure | Medium — CVSS 5.3 | — | 28 | [mirhat](https://hackerone.com/mirhat) | 2023-09-18 |
-| 127 | [961757](../reports/961757.md) | Twitter Media Studio Source Information Disclosure With Anal | Medium | — | 27 | [bcc20c71c2f1f135afb8c3b](https://hackerone.com/bcc20c71c2f1f135afb8c3b) | 2020-10-26 |
-| 128 | [712344](../reports/712344.md) | [Bypass fixed #664038 and #519059] Application settings chan | Medium | — | 26 | [jaka-tingkir](https://hackerone.com/jaka-tingkir) | 2021-07-13 |
-| 129 | [493535](../reports/493535.md) | CSRF and probable account takeover on https://www.niche.co | Medium | — | 23 | [mik317](https://hackerone.com/mik317) | 2019-02-28 |
-| 130 | [642281](../reports/642281.md) | Stored XSS in https://app.mopub.com | Medium | — | 21 | [august1808](https://hackerone.com/august1808) | 2019-12-17 |
-| 131 | [178184](../reports/178184.md) | SSRF in https://cards-dev.twitter.com/validator | Medium | — | 16 | [mindaugas](https://hackerone.com/mindaugas) | 2017-04-06 |
-| 132 | [218451](../reports/218451.md) | [Gnip Blogs] Reflected XSS via "plupload.flash.swf" componen | Medium | — | 11 | [ysx](https://hackerone.com/ysx) | 2017-05-08 |
-| 133 | [282628](../reports/282628.md) | OS Command Execution on User's PC via CSV Injection | Medium | — | 2 | [cornerpirate](https://hackerone.com/cornerpirate) | 2017-11-02 |
-| 134 | [885539](../reports/885539.md) | Private list members disclosure via GraphQL | Low | — | 343 | [ryotak](https://hackerone.com/ryotak) | 2020-08-04 |
-| 135 | [191884](../reports/191884.md) | Remote Unrestricted file Creation/Deletion and Possible RCE. | Low | — | 98 | [zigoo0](https://hackerone.com/zigoo0) | 2017-02-26 |
-| 136 | [712979](../reports/712979.md) | Creating malformed URLs via new line character in-between tw | Low | — | 95 | [zlz](https://hackerone.com/zlz) | 2020-01-24 |
-| 137 | [1073565](../reports/1073565.md) | Open Redirect on https://www.twitterflightschool.com/widgets | Low | — | 53 | [nagli](https://hackerone.com/nagli) | 2021-05-04 |
-| 138 | [1148548](../reports/1148548.md) | Bypass t.co link shortener in Twitter direct messages | Low | — | 43 | [iambouali](https://hackerone.com/iambouali) | 2021-05-18 |
-| 139 | [181748](../reports/181748.md) | [IDOR][translate.twitter.com] Opportunity to change any comm | Low | — | 38 | [kedrischh](https://hackerone.com/kedrischh) | 2017-05-12 |
-| 140 | [221328](../reports/221328.md) | HTTP 401 response injection on "amp.twimg.com/amplify-web-pl | Low | — | 30 | [zlz](https://hackerone.com/zlz) | 2017-05-08 |
-| 141 | [438299](../reports/438299.md) | Information Exposure Through Directory Listing vulnerability | Low | — | 27 | [ameerpornillos](https://hackerone.com/ameerpornillos) | 2019-02-11 |
-| 142 | [297359](../reports/297359.md) | No Rate Limit in email leads to huge Mass mailings | Low | — | 19 | [trabajoduro_2](https://hackerone.com/trabajoduro_2) | 2018-06-01 |
-| 143 | [785243](../reports/785243.md) | Twitter Source Label allow 'mongolian vowel separator' U+180 | Low | — | 19 | [lorenznickel](https://hackerone.com/lorenznickel) | 2020-02-21 |
-| 144 | [127154](../reports/127154.md) | XSS using javascript:alert(8007) | Low | — | 15 | [bains](https://hackerone.com/bains) | 2016-11-28 |
-| 145 | [129873](../reports/129873.md) | Bypassing Digits origin validation which leads to account ta | None | — | 614 | [filedescriptor](https://hackerone.com/filedescriptor) | 2020-06-24 |
-| 146 | [210779](../reports/210779.md) | [Urgent] Invalidating OAuth2 Bearer token makes TweetDeck un | None | — | 322 | [filedescriptor](https://hackerone.com/filedescriptor) | 2019-04-25 |
-| 147 | [110293](../reports/110293.md) | Insufficient OAuth callback validation which leads to Perisc | None | — | 273 | [filedescriptor](https://hackerone.com/filedescriptor) | 2019-04-10 |
-| 148 | [168116](../reports/168116.md) | Insufficient validation on Digits bridge | None | — | 261 | [filedescriptor](https://hackerone.com/filedescriptor) | 2020-08-20 |
-| 149 | [341908](../reports/341908.md) | XSS via Direct Message deeplinks | None | — | 234 | [0xsobky](https://hackerone.com/0xsobky) | 2019-05-09 |
-| 150 | [84601](../reports/84601.md) | XSS and cache poisoning via upload.twitter.com on ton.twitte | None | — | 198 | [filedescriptor](https://hackerone.com/filedescriptor) | 2019-05-01 |
-| 151 | [321699](../reports/321699.md) | Takeover of Twitter-owned domain at mobileapplinking.com | None | — | 159 | [healdb](https://hackerone.com/healdb) | 2019-02-28 |
-| 152 | [770349](../reports/770349.md) | Reflected XSS in twitterflightschool.com | None | — | 140 | [jubabaghdad](https://hackerone.com/jubabaghdad) | 2020-02-21 |
-| 153 | [85624](../reports/85624.md) | Highly wormable clickjacking in player card | None | — | 134 | [filedescriptor](https://hackerone.com/filedescriptor) | 2018-05-17 |
-| 154 | [126522](../reports/126522.md) | Incorrect param parsing in Digits web authentication | None | — | 126 | [filedescriptor](https://hackerone.com/filedescriptor) | 2018-08-18 |
-| 155 | [114169](../reports/114169.md) | Bypassing Digits web authentication's host validation with H | None | — | 107 | [filedescriptor](https://hackerone.com/filedescriptor) | 2016-08-12 |
-| 156 | [201300](../reports/201300.md) | Attacker can get vine repost user all informations even Ip a | None | — | 94 | [0xprial](https://hackerone.com/0xprial) | 2017-03-25 |
-| 157 | [110467](../reports/110467.md) | Bypassing Digits bridge origin validation | None | — | 91 | [filedescriptor](https://hackerone.com/filedescriptor) | 2017-04-30 |
-| 158 | [164649](../reports/164649.md) | [Studio.twitter.com] See someone else pics  | None | — | 84 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2017-06-22 |
-| 159 | [150179](../reports/150179.md) | Html Injection and Possible XSS in sms-be-vip.twitter.com | None | — | 83 | [secgeek](https://hackerone.com/secgeek) | 2016-08-28 |
-| 160 | [215381](../reports/215381.md) | CSRF on Periscope Web OAuth authorization endpoint  | None | — | 72 | [filedescriptor](https://hackerone.com/filedescriptor) | 2017-07-26 |
-| 161 | [88719](../reports/88719.md) | Multiple DOMXSS on Amplify Web Player | None | — | 66 | [filedescriptor](https://hackerone.com/filedescriptor) | 2017-04-15 |
-| 162 | [52042](../reports/52042.md) | HTTP Response Splitting (CRLF injection) in report_story | None | — | 58 | [filedescriptor](https://hackerone.com/filedescriptor) | 2015-04-21 |
-| 163 | [57356](../reports/57356.md) | DOM based cookie bomb | None | — | 53 | [filedescriptor](https://hackerone.com/filedescriptor) | 2017-04-11 |
-| 164 | [153666](../reports/153666.md) | csp bypass + xss | None | — | 51 | [b6117130df17feef13481e3](https://hackerone.com/b6117130df17feef13481e3) | 2017-07-05 |
-| 165 | [119471](../reports/119471.md) | DOMXSS in Tweetdeck | None | — | 50 | [filedescriptor](https://hackerone.com/filedescriptor) | 2017-04-02 |
-| 166 | [32825](../reports/32825.md) | URGENT - Subdomain Takeover on media.vine.co due to unclaime | None | — | 50 | [fransrosen](https://hackerone.com/fransrosen) | 2014-11-03 |
-| 167 | [158148](../reports/158148.md) | reverb.twitter.com redirects to vulnerable reverb.guru | None | — | 50 | [theraz0r](https://hackerone.com/theraz0r) | 2016-10-01 |
-| 168 | [108113](../reports/108113.md) | Bypassing callback_url validation on Digits | None | — | 47 | [filedescriptor](https://hackerone.com/filedescriptor) | 2016-08-12 |
-| 169 | [246897](../reports/246897.md) | Open Redirect | None | — | 41 | [malcolmx](https://hackerone.com/malcolmx) | 2017-08-19 |
-| 170 | [95555](../reports/95555.md) | CSRF on cards API | None | — | 39 | [filedescriptor](https://hackerone.com/filedescriptor) | 2017-04-11 |
-| 171 | [129381](../reports/129381.md) | niche s3 buckets are readable/writeable/deleteable by author | None | — | 39 | [yaworsk](https://hackerone.com/yaworsk) | 2017-04-02 |
-| 172 | [692352](../reports/692352.md) | XSS on https://app.mopub.com/reports/custom/add/ [new-d1] | None | — | 38 | [c00lbugs](https://hackerone.com/c00lbugs) | 2019-12-07 |
-| 173 | [53843](../reports/53843.md) | HTTP Response Splitting (CRLF injection) due to headers over | None | — | 29 | [filedescriptor](https://hackerone.com/filedescriptor) | 2015-05-04 |
-| 174 | [288966](../reports/288966.md) | POODLE SSLv3 bug on multiple twitter smtp servers (mx3.twitt | None | — | 28 | [omespino](https://hackerone.com/omespino) | 2018-02-22 |
-| 175 | [97672](../reports/97672.md) | File Upload XSS in image uploading of App in mopub | None | — | 23 | [indoappsec](https://hackerone.com/indoappsec) | 2016-08-25 |
-| 176 | [87040](../reports/87040.md) | XSS on OAuth authorize/authenticate endpoint | None | — | 22 | [filedescriptor](https://hackerone.com/filedescriptor) | 2015-11-20 |
-| 177 | [95552](../reports/95552.md) | IDOR- Activate Mopub on different organizations- steal api t | None | — | 16 | [akhil-reni](https://hackerone.com/akhil-reni) | 2016-01-25 |
-| 178 | [166942](../reports/166942.md) | leaking Digits OAuth authorization to third party websites | None | — | 12 | [akhil-reni](https://hackerone.com/akhil-reni) | 2017-01-24 |
-| 179 | [100820](../reports/100820.md) | Add tweet to collection CSRF  | None | — | 12 | [indoappsec](https://hackerone.com/indoappsec) | 2016-08-22 |
-| 180 | [402671](../reports/402671.md) | HTTPS is not validating TLS mac codes | None | — | 11 | [cy1337](https://hackerone.com/cy1337) | 2019-05-25 |
-| 181 | [52646](../reports/52646.md) | Insecure direct object reference - have access to deleted DM | None | — | 10 | [akhil-reni](https://hackerone.com/akhil-reni) | 2015-10-12 |
-| 182 | [53858](../reports/53858.md) | Insecure Direct Object Reference - access to other user/grou | None | — | 10 | [akhil-reni](https://hackerone.com/akhil-reni) | 2015-10-03 |
-| 183 | [115158](../reports/115158.md) | CSRF in twitterflightschool.com ( CAN POST ON TIMELINE WITHO | None | — | 8 | [cymtrick](https://hackerone.com/cymtrick) | 2017-11-06 |
-| 184 | [22203](../reports/22203.md) | Broken authentication and invalidated email address leads to | None | — | 8 | [born2hack](https://hackerone.com/born2hack) | 2014-11-28 |
-| 185 | [28150](../reports/28150.md) | Cross site scripting on ads.twitter.com | None | — | 7 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-10-16 |
-| 186 | [95231](../reports/95231.md) | XSS in the "Poll" Feature on Twitter.com | None | — | 6 | [mazen160](https://hackerone.com/mazen160) | 2016-08-12 |
-| 187 | [98432](../reports/98432.md) | Urgent : Disclosure of all the apps with hash ID in mopub th | None | — | 6 | [indoappsec](https://hackerone.com/indoappsec) | 2016-08-22 |
-| 188 | [14883](../reports/14883.md) | [mobile.twitter.com / twitter.com] CSRF protection bypass | None | — | 6 | [bobrov](https://hackerone.com/bobrov) | 2015-05-04 |
-| 189 | [27404](../reports/27404.md) | Delete Credit Cards from any Twitter Account in ads.twitter. | None | — | 6 | [secgeek](https://hackerone.com/secgeek) | 2014-09-30 |
-| 190 | [119022](../reports/119022.md) | Tweet Deck XSS- Persistent- Group DM name | None | — | 5 | [akhil-reni](https://hackerone.com/akhil-reni) | 2016-03-04 |
-| 191 | [31554](../reports/31554.md) | Singup Page HTML Injection Vulnerability | None | — | 5 | [ashwarya](https://hackerone.com/ashwarya) | 2015-03-22 |
-| 192 | [44492](../reports/44492.md) | Flaw in login with twitter to steal Oauth tokens | None | — | 5 | [akhil-reni](https://hackerone.com/akhil-reni) | 2015-02-18 |
-| 193 | [34725](../reports/34725.md) | XSS via Fabrico Account Name | None | — | 5 | [anon90](https://hackerone.com/anon90) | 2016-07-11 |
-| 194 | [50134](../reports/50134.md) | XSS in original referrer after follow | None | — | 5 | [akhil-reni](https://hackerone.com/akhil-reni) | 2015-03-09 |
-| 195 | [90172](../reports/90172.md) | Tweetdeck (twitter owned app) not revoked | None | — | 5 | [xmly](https://hackerone.com/xmly) | 2016-04-29 |
-| 196 | [41856](../reports/41856.md) | HTML/XSS rendered in Android App of Crashlytics through fabr | None | — | 5 | [akhil-reni](https://hackerone.com/akhil-reni) | 2015-02-18 |
-| 197 | [137404](../reports/137404.md) | List of a ton of internal twitter servers available on GitHu | None | — | 4 | [a0005](https://hackerone.com/a0005) | 2016-10-17 |
-| 198 | [15356](../reports/15356.md) | XSS ON MOPUB.COM | None | — | 4 | [jpsecurityresearch](https://hackerone.com/jpsecurityresearch) | 2014-08-15 |
-| 199 | [22012](../reports/22012.md) | Password reset link not validated. | None | — | 4 | [born2hack](https://hackerone.com/born2hack) | 2014-08-31 |
-| 200 | [129436](../reports/129436.md) | xss in DM group name in twitter | None | — | 4 | [ashish_r_padelkar](https://hackerone.com/ashish_r_padelkar) | 2016-04-22 |
-| 201 | [27846](../reports/27846.md) | Stored xss | None | — | 4 | [detroitsmash](https://hackerone.com/detroitsmash) | 2014-09-27 |
-| 202 | [119220](../reports/119220.md) | Sub-Domain Takeover | None | — | 4 | [bugdisclose](https://hackerone.com/bugdisclose) | 2016-03-18 |
-| 203 | [27511](../reports/27511.md) | ads.twitter.com xss | None | — | 4 | [arbitrarycode](https://hackerone.com/arbitrarycode) | 2014-11-17 |
-| 204 | [49474](../reports/49474.md) | Cross site Port Scanning bug in twitter developers console  | None | — | 4 | [d1pakda5](https://hackerone.com/d1pakda5) | 2015-05-23 |
-| 205 | [35287](../reports/35287.md) | getting emails of users/removing them from victims account [ | None | — | 4 | [akhil-reni](https://hackerone.com/akhil-reni) | 2015-03-13 |
-| 206 | [28500](../reports/28500.md) | iOS App can establish Facetime calls without user's permissi | None | — | 4 | [gepeto42](https://hackerone.com/gepeto42) | 2015-04-27 |
-| 207 | [32519](../reports/32519.md) | XSS in fabric.io | None | — | 3 | [atom](https://hackerone.com/atom) | 2014-12-23 |
-| 208 | [29328](../reports/29328.md) | XSS platform.twitter.com | None | — | 3 | [batram](https://hackerone.com/batram) | 2014-11-17 |
-| 209 | [14177](../reports/14177.md) | Token remains alive ever after logging out! | None | — | 3 | [shahriyar](https://hackerone.com/shahriyar) | 2014-11-17 |
-| 210 | [97161](../reports/97161.md) | Can see private tweets via keyword searches on tweetdeck | None | — | 3 | [xmly](https://hackerone.com/xmly) | 2016-02-16 |
-| 211 | [37822](../reports/37822.md) | Abuse of "Remember Me" functionality. | None | — | 3 | [gadhiyasavan](https://hackerone.com/gadhiyasavan) | 2014-12-29 |
-| 212 | [14199](../reports/14199.md) | uclfinal.twitter.com and euro2012.twitter.com are vulnerable | None | — | 3 | [told_snider](https://hackerone.com/told_snider) | 2014-08-16 |
-| 213 | [48516](../reports/48516.md) | Redirect URL in /intent/ functionality is not properly escap | None | — | 3 | [homakov](https://hackerone.com/homakov) | 2015-02-24 |
-| 214 | [56119](../reports/56119.md) | Privecy Issue : view "Protected users" followers and followi | None | — | 3 | [kaito](https://hackerone.com/kaito) | 2015-05-15 |
-| 215 | [36053](../reports/36053.md) | Headers Missing | None | — | 3 | [hammad](https://hackerone.com/hammad) | 2014-11-15 |
-| 216 | [101104](../reports/101104.md) | Subdomain Expired | None | — | 3 | [hak](https://hackerone.com/hak) | 2016-01-15 |
-| 217 | [23913](../reports/23913.md) | User's DM won't deleted after logout from Twitter for iOS (c | None | — | 3 | [abcdefghijklmnopqrstuvwxyzabc](https://hackerone.com/abcdefghijklmnopqrstuvwxyzabc) | 2015-02-25 |
-| 218 | [37108](../reports/37108.md) |  Homograph attack.  | None | — | 2 | [shivathegame](https://hackerone.com/shivathegame) | 2015-01-01 |
-| 219 | [15232](../reports/15232.md) | Cookie not marked as secure. | None | — | 2 | [simon90](https://hackerone.com/simon90) | 2014-08-04 |
-| 220 | [44578](../reports/44578.md) | URGENT - SUBDOMAIN TAKEOVER ON TWITTER ACQ. | None | — | 2 | [simon90](https://hackerone.com/simon90) | 2015-02-21 |
-| 221 | [33432](../reports/33432.md) | BROKEN AUTHENTICATION IN MOBILE VERIFICATION   | None | — | 2 | [geekboy](https://hackerone.com/geekboy) | 2014-12-14 |
-| 222 | [36986](../reports/36986.md) | [Stored XSS] vine.co - profile page | None | — | 2 | [xorb](https://hackerone.com/xorb) | 2015-03-26 |
-| 223 | [43988](../reports/43988.md) | twitter android app Fragment Injection | None | — | 2 | [miantaiduo](https://hackerone.com/miantaiduo) | 2015-04-11 |
-| 224 | [33986](../reports/33986.md) | Option Method Enabled on web server | None | — | 2 | [ruisilva](https://hackerone.com/ruisilva) | 2014-12-25 |
-| 225 | [31188](../reports/31188.md) | Creating Unauthorized Audience Lists | None | — | 2 | [anshuman_bh](https://hackerone.com/anshuman_bh) | 2014-11-28 |
-| 226 | [29360](../reports/29360.md) | XSS platform.twitter.com | video-js metadata | None | — | 1 | [batram](https://hackerone.com/batram) | 2014-11-17 |
-| 227 | [29206](../reports/29206.md) | Twitter Flight SSL 2.0 deprecated protocol vulnerability. | None | — | 1 | [simon90](https://hackerone.com/simon90) | 2014-10-07 |
-| 228 | [15047](../reports/15047.md) | Captcha bypass with extension at http://www.mopub.com/about/ | None | — | 1 | [vineet](https://hackerone.com/vineet) | 2014-09-22 |
-| 229 | [34084](../reports/34084.md) | Bad extended ascii handling in HTTP 301 redirects of t.co | None | — | 1 | [cqoicebordel](https://hackerone.com/cqoicebordel) | 2015-08-09 |
-| 230 | [13856](../reports/13856.md) | CSRF   in crashlytics.com | None | — | 1 | [defmax](https://hackerone.com/defmax) | 2014-09-08 |
-| 231 | [42250](../reports/42250.md) | No rate limiting on creating lists | None | — | 1 | [sappi](https://hackerone.com/sappi) | 2015-01-06 |
-| 232 | [44371](../reports/44371.md) | Path disclosure in platform0.twitter.com | None | — | 1 | [avicoder_](https://hackerone.com/avicoder_) | 2015-02-20 |
-| 233 | [27166](../reports/27166.md) | Missing Rate Limiting on https://twitter.com/account/complet | None | — | 1 | [surgent10cross](https://hackerone.com/surgent10cross) | 2014-11-10 |
-| 234 | [25128](../reports/25128.md) | HTML form without CSRF protection at http://try.crashlytics. | None | — | 0 | [karthik-reddy](https://hackerone.com/karthik-reddy) | 2014-10-02 |
+| 79 | [175451](../reports/175451.md) | Full Path Disclosure at 27.prd.vine.co | Low | $140 | 3 | [punkrock](https://hackerone.com/punkrock) | 2016-10-21 |
+| 80 | [278191](../reports/278191.md) | Listing of Amazon S3 Bucket accessible to any amazon authent | None | $140 | 36 | [segumarc](https://hackerone.com/segumarc) | 2017-11-19 |
+| 81 | [191323](../reports/191323.md) | Sub Domain Takeover at mk.prd.vine.co | None | $140 | 7 | [punkrock](https://hackerone.com/punkrock) | 2017-02-13 |
+| 82 | [44727](../reports/44727.md) | Insecure Data Storage in Vine Android App | None | $140 | 6 | [avicoder_](https://hackerone.com/avicoder_) | 2015-06-24 |
+| 83 | [47888](../reports/47888.md) | Reporting user's profile by using another people's ID | None | $140 | 4 | [hussein98d](https://hackerone.com/hussein98d) | 2015-06-11 |
+| 84 | [26825](../reports/26825.md) | Full path disclosure at ads.twitter.com | None | $140 | 2 | [internetwache](https://hackerone.com/internetwache) | 2014-11-17 |
+| 85 | [41240](../reports/41240.md) | POODLE Bug: 199.16.156.44, 199.16.156.108, mx4.twitter.com | None | $140 | 1 | [isox](https://hackerone.com/isox) | 2015-09-20 |
+| 86 | [1207040](../reports/1207040.md) | Blind XSS on Twitter's internal Big Data panel at ██████████ | Critical | — | 357 | [iambouali](https://hackerone.com/iambouali) | 2021-07-09 |
+| 87 | [202823](../reports/202823.md) | Vine all registered user Private/sensitive information discl | Critical — CVSS 9.3 | — | 121 | [0xprial](https://hackerone.com/0xprial) | 2017-07-11 |
+| 88 | [470749](../reports/470749.md) | Ability to perform actions (Tweet, Retweet, DM) and other ac | Critical — CVSS 9.4 | — | 106 | [antisocial_eng](https://hackerone.com/antisocial_eng) | 2019-09-26 |
+| 89 | [1369674](../reports/1369674.md) | Blind XSS on Twitter's internal Jira panel at ████ allows ex | Critical | — | 97 | [iambouali](https://hackerone.com/iambouali) | 2022-02-12 |
+| 90 | [499348](../reports/499348.md) | Twitter lite(Android): Vulnerable to local file steal, Javas | Critical | — | 93 | [rahulkankrale](https://hackerone.com/rahulkankrale) | 2019-04-29 |
+| 91 | [1096560](../reports/1096560.md) | Ability to add arbitrary images/descriptions/titles to ohter | Critical | — | 63 | [mirhat](https://hackerone.com/mirhat) | 2021-05-26 |
+| 92 | [684099](../reports/684099.md) | Periscope-all Firebase database takeover | Critical | — | 49 | [deeptiman](https://hackerone.com/deeptiman) | 2019-09-25 |
+| 93 | [219197](../reports/219197.md) | [██████████.gnip.com] .htpasswd disclosure | Critical | — | 19 | [rbcafe](https://hackerone.com/rbcafe) | 2017-05-26 |
+| 94 | [502926](../reports/502926.md) | Html Injection and Possible XSS via MathML | Critical | — | 13 | [z41b1337_](https://hackerone.com/z41b1337_) | 2019-09-03 |
+| 95 | [434689](../reports/434689.md) | Global defaming of any twitter user | Critical | — | 3 | [csanuragjain](https://hackerone.com/csanuragjain) | 2018-12-06 |
+| 96 | [434202](../reports/434202.md) | Opportunity to post hidden comments | Critical | — | 2 | [csanuragjain](https://hackerone.com/csanuragjain) | 2018-12-11 |
+| 97 | [770504](../reports/770504.md) | Bypass Password Authentication for updating email and phone  | High | — | 285 | [jayesh25](https://hackerone.com/jayesh25) | 2020-02-08 |
+| 98 | [1031321](../reports/1031321.md) |  Github Account hijack through broken link in developer.twit | High | — | 220 | [milankatwal99](https://hackerone.com/milankatwal99) | 2021-02-04 |
+| 99 | [317476](../reports/317476.md) | Account Takeover in Periscope TV | High | — | 210 | [ngalog](https://hackerone.com/ngalog) | 2018-09-06 |
+| 100 | [208978](../reports/208978.md) | [URGENT] Opportunity to publish tweets on any twitters accou | High | — | 118 | [kedrischh](https://hackerone.com/kedrischh) | 2017-05-22 |
+| 101 | [235642](../reports/235642.md) | [CRITICAL] Full account takeover using CSRF | High | — | 85 | [yipman](https://hackerone.com/yipman) | 2017-11-03 |
+| 102 | [1406335](../reports/1406335.md) | Subdomain takeover of images.crossinstall.com | High | — | 69 | [ian](https://hackerone.com/ian) | 2022-01-05 |
+| 103 | [643274](../reports/643274.md) | Viral Direct Message Clickjacking via link truncation leadin | High | — | 64 | [slickrockweb](https://hackerone.com/slickrockweb) | 2019-10-31 |
+| 104 | [275518](../reports/275518.md) | Blind XSS in Mobpub Marketplace Admin Production | Sentry vi | High | — | 63 | [harisec](https://hackerone.com/harisec) | 2018-02-17 |
+| 105 | [970157](../reports/970157.md) | Bypass Password Authentication to Update the Password | High | — | 55 | [a13h1](https://hackerone.com/a13h1) | 2021-01-11 |
+| 106 | [99600](../reports/99600.md) | Urgent : Unauthorised Access to Media content of all Direct  | High | — | 39 | [indoappsec](https://hackerone.com/indoappsec) | 2018-03-21 |
+| 107 | [426147](../reports/426147.md) | CORS misconfig | Account Takeover | High | — | 30 | [nahoragg](https://hackerone.com/nahoragg) | 2018-12-10 |
+| 108 | [189548](../reports/189548.md) | GNIP subdomain take over | High | — | 30 | [hussein98d](https://hackerone.com/hussein98d) | 2017-02-06 |
+| 109 | [273698](../reports/273698.md) | Unauthorized Access to Protected Tweets via niche.co API | High | — | 22 | [eidelweiss](https://hackerone.com/eidelweiss) | 2017-11-02 |
+| 110 | [715996](../reports/715996.md) | http request smuggling in  twitter.com | High | — | 17 | [protostar0](https://hackerone.com/protostar0) | 2020-11-18 |
+| 111 | [399174](../reports/399174.md) | Access MoPub Reports Data even after Company removed you fro | High | — | 11 | [suyog](https://hackerone.com/suyog) | 2019-11-05 |
+| 112 | [446271](../reports/446271.md) | CRLF injection | Medium | — | 437 | [s3c](https://hackerone.com/s3c) | 2019-12-25 |
+| 113 | [1032468](../reports/1032468.md) | Read-only application can publish/delete fleets | Medium | — | 398 | [ryotak](https://hackerone.com/ryotak) | 2021-01-04 |
+| 114 | [248668](../reports/248668.md) | XXE on sms-be-vip.twitter.com in SXMP Processor | Medium — CVSS 5.3 | — | 258 | [joshbrodienz](https://hackerone.com/joshbrodienz) | 2017-07-26 |
+| 115 | [664038](../reports/664038.md) | protected Tweet settings overwritten by other settings | Medium — CVSS 6.8 | — | 175 | [jaka-tingkir](https://hackerone.com/jaka-tingkir) | 2020-01-01 |
+| 116 | [819088](../reports/819088.md) | character limitation bypass can lead to DoS on Twitter App a | Medium | — | 140 | [exit_n0de](https://hackerone.com/exit_n0de) | 2020-05-06 |
+| 117 | [867616](../reports/867616.md) | XSS via referrer parameter | Medium | — | 124 | [keer0k](https://hackerone.com/keer0k) | 2020-10-26 |
+| 118 | [612231](../reports/612231.md) | Github Token Leaked publicly for https://github.com/mopub | Medium | — | 91 | [moro139](https://hackerone.com/moro139) | 2019-08-15 |
+| 119 | [1694304](../reports/1694304.md) | Able to see Twitter Circle tweets due to improper access con | Medium | — | 88 | [bugra](https://hackerone.com/bugra) | 2024-03-01 |
+| 120 | [1841064](../reports/1841064.md) | Ability to getting Twitter Blue verified badge without purch | Medium | — | 84 | [alp](https://hackerone.com/alp) | 2024-02-22 |
+| 121 | [297968](../reports/297968.md) | Persistent DOM-based XSS in https://help.twitter.com via loc | Medium | — | 84 | [harisec](https://hackerone.com/harisec) | 2018-02-24 |
+| 122 | [2140960](../reports/2140960.md) | Ability to see hidden likes | Medium | — | 80 | [mirhat](https://hackerone.com/mirhat) | 2024-05-10 |
+| 123 | [790854](../reports/790854.md) | NO username used in authenthication to www.mopub.com leading | Medium | — | 58 | [adarsh_p](https://hackerone.com/adarsh_p) | 2020-02-28 |
+| 124 | [531890](../reports/531890.md) | Subdomain takeover on dev-admin.periscope.tv | Medium | — | 55 | [h1ch3ro](https://hackerone.com/h1ch3ro) | 2019-05-28 |
+| 125 | [154963](../reports/154963.md) | Stealing User emails by clickjacking cards.twitter.com/xxx/x | Medium | — | 49 | [akhil-reni](https://hackerone.com/akhil-reni) | 2017-02-03 |
+| 126 | [174721](../reports/174721.md) | View liked twits of private account via publish.twitter.com | Medium | — | 47 | [kedrischh](https://hackerone.com/kedrischh) | 2016-11-14 |
+| 127 | [176754](../reports/176754.md) |  Cross-site scripting (reflected) | Medium | — | 45 | [linkks](https://hackerone.com/linkks) | 2016-12-09 |
+| 128 | [982293](../reports/982293.md) | Bypass Password Authentication to Update the Password | Medium | — | 37 | [a13h1](https://hackerone.com/a13h1) | 2021-02-12 |
+| 129 | [493552](../reports/493552.md) | CSRF on https://www.niche.co leads to "account disconnection | Medium | — | 35 | [mik317](https://hackerone.com/mik317) | 2019-03-02 |
+| 130 | [1073114](../reports/1073114.md) | 2 Subdomains Takeover at readfu.com | Medium | — | 35 | [m7mdharoun](https://hackerone.com/m7mdharoun) | 2021-03-15 |
+| 131 | [854424](../reports/854424.md) | 暴力破解用户密码没有速率控制 | Medium | — | 30 | [1735096419](https://hackerone.com/1735096419) | 2020-07-01 |
+| 132 | [2063636](../reports/2063636.md) | Twitter Subscriptions Information Disclosure | Medium — CVSS 5.3 | — | 28 | [mirhat](https://hackerone.com/mirhat) | 2023-09-18 |
+| 133 | [961757](../reports/961757.md) | Twitter Media Studio Source Information Disclosure With Anal | Medium | — | 27 | [bcc20c71c2f1f135afb8c3b](https://hackerone.com/bcc20c71c2f1f135afb8c3b) | 2020-10-26 |
+| 134 | [712344](../reports/712344.md) | [Bypass fixed #664038 and #519059] Application settings chan | Medium | — | 26 | [jaka-tingkir](https://hackerone.com/jaka-tingkir) | 2021-07-13 |
+| 135 | [493535](../reports/493535.md) | CSRF and probable account takeover on https://www.niche.co | Medium | — | 23 | [mik317](https://hackerone.com/mik317) | 2019-02-28 |
+| 136 | [642281](../reports/642281.md) | Stored XSS in https://app.mopub.com | Medium | — | 21 | [august1808](https://hackerone.com/august1808) | 2019-12-17 |
+| 137 | [178184](../reports/178184.md) | SSRF in https://cards-dev.twitter.com/validator | Medium | — | 16 | [mindaugas](https://hackerone.com/mindaugas) | 2017-04-06 |
+| 138 | [1087525](../reports/1087525.md) | PI leakage By Brute Forcing and Phone number deleting withou | Medium | — | 16 | [a13h1](https://hackerone.com/a13h1) | 2021-04-22 |
+| 139 | [218451](../reports/218451.md) | [Gnip Blogs] Reflected XSS via "plupload.flash.swf" componen | Medium | — | 11 | [ysx](https://hackerone.com/ysx) | 2017-05-08 |
+| 140 | [282628](../reports/282628.md) | OS Command Execution on User's PC via CSV Injection | Medium | — | 2 | [cornerpirate](https://hackerone.com/cornerpirate) | 2017-11-02 |
+| 141 | [885539](../reports/885539.md) | Private list members disclosure via GraphQL | Low | — | 343 | [ryotak](https://hackerone.com/ryotak) | 2020-08-04 |
+| 142 | [191884](../reports/191884.md) | Remote Unrestricted file Creation/Deletion and Possible RCE. | Low | — | 98 | [zigoo0](https://hackerone.com/zigoo0) | 2017-02-26 |
+| 143 | [712979](../reports/712979.md) | Creating malformed URLs via new line character in-between tw | Low | — | 95 | [zlz](https://hackerone.com/zlz) | 2020-01-24 |
+| 144 | [1073565](../reports/1073565.md) | Open Redirect on https://www.twitterflightschool.com/widgets | Low | — | 53 | [nagli](https://hackerone.com/nagli) | 2021-05-04 |
+| 145 | [1148548](../reports/1148548.md) | Bypass t.co link shortener in Twitter direct messages | Low | — | 43 | [iambouali](https://hackerone.com/iambouali) | 2021-05-18 |
+| 146 | [181748](../reports/181748.md) | [IDOR][translate.twitter.com] Opportunity to change any comm | Low | — | 38 | [kedrischh](https://hackerone.com/kedrischh) | 2017-05-12 |
+| 147 | [806055](../reports/806055.md) | Reset password without knowing current password | Low | — | 32 | [naategh](https://hackerone.com/naategh) | 2020-03-25 |
+| 148 | [221328](../reports/221328.md) | HTTP 401 response injection on "amp.twimg.com/amplify-web-pl | Low | — | 30 | [zlz](https://hackerone.com/zlz) | 2017-05-08 |
+| 149 | [438299](../reports/438299.md) | Information Exposure Through Directory Listing vulnerability | Low | — | 27 | [ameerpornillos](https://hackerone.com/ameerpornillos) | 2019-02-11 |
+| 150 | [315906](../reports/315906.md) | CVE-2017-15277 on Profile page | Low | — | 23 | [emitrani](https://hackerone.com/emitrani) | 2018-03-08 |
+| 151 | [297359](../reports/297359.md) | No Rate Limit in email leads to huge Mass mailings | Low | — | 19 | [trabajoduro_2](https://hackerone.com/trabajoduro_2) | 2018-06-01 |
+| 152 | [785243](../reports/785243.md) | Twitter Source Label allow 'mongolian vowel separator' U+180 | Low | — | 19 | [lorenznickel](https://hackerone.com/lorenznickel) | 2020-02-21 |
+| 153 | [127154](../reports/127154.md) | XSS using javascript:alert(8007) | Low | — | 15 | [bains](https://hackerone.com/bains) | 2016-11-28 |
+| 154 | [129873](../reports/129873.md) | Bypassing Digits origin validation which leads to account ta | None | — | 614 | [filedescriptor](https://hackerone.com/filedescriptor) | 2020-06-24 |
+| 155 | [210779](../reports/210779.md) | [Urgent] Invalidating OAuth2 Bearer token makes TweetDeck un | None | — | 322 | [filedescriptor](https://hackerone.com/filedescriptor) | 2019-04-25 |
+| 156 | [110293](../reports/110293.md) | Insufficient OAuth callback validation which leads to Perisc | None | — | 273 | [filedescriptor](https://hackerone.com/filedescriptor) | 2019-04-10 |
+| 157 | [168116](../reports/168116.md) | Insufficient validation on Digits bridge | None | — | 261 | [filedescriptor](https://hackerone.com/filedescriptor) | 2020-08-20 |
+| 158 | [341908](../reports/341908.md) | XSS via Direct Message deeplinks | None | — | 234 | [0xsobky](https://hackerone.com/0xsobky) | 2019-05-09 |
+| 159 | [84601](../reports/84601.md) | XSS and cache poisoning via upload.twitter.com on ton.twitte | None | — | 198 | [filedescriptor](https://hackerone.com/filedescriptor) | 2019-05-01 |
+| 160 | [321699](../reports/321699.md) | Takeover of Twitter-owned domain at mobileapplinking.com | None | — | 159 | [healdb](https://hackerone.com/healdb) | 2019-02-28 |
+| 161 | [770349](../reports/770349.md) | Reflected XSS in twitterflightschool.com | None | — | 140 | [jubabaghdad](https://hackerone.com/jubabaghdad) | 2020-02-21 |
+| 162 | [85624](../reports/85624.md) | Highly wormable clickjacking in player card | None | — | 134 | [filedescriptor](https://hackerone.com/filedescriptor) | 2018-05-17 |
+| 163 | [126522](../reports/126522.md) | Incorrect param parsing in Digits web authentication | None | — | 126 | [filedescriptor](https://hackerone.com/filedescriptor) | 2018-08-18 |
+| 164 | [114169](../reports/114169.md) | Bypassing Digits web authentication's host validation with H | None | — | 107 | [filedescriptor](https://hackerone.com/filedescriptor) | 2016-08-12 |
+| 165 | [201300](../reports/201300.md) | Attacker can get vine repost user all informations even Ip a | None | — | 94 | [0xprial](https://hackerone.com/0xprial) | 2017-03-25 |
+| 166 | [110467](../reports/110467.md) | Bypassing Digits bridge origin validation | None | — | 91 | [filedescriptor](https://hackerone.com/filedescriptor) | 2017-04-30 |
+| 167 | [164649](../reports/164649.md) | [Studio.twitter.com] See someone else pics  | None | — | 84 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2017-06-22 |
+| 168 | [150179](../reports/150179.md) | Html Injection and Possible XSS in sms-be-vip.twitter.com | None | — | 83 | [secgeek](https://hackerone.com/secgeek) | 2016-08-28 |
+| 169 | [215381](../reports/215381.md) | CSRF on Periscope Web OAuth authorization endpoint  | None | — | 72 | [filedescriptor](https://hackerone.com/filedescriptor) | 2017-07-26 |
+| 170 | [88719](../reports/88719.md) | Multiple DOMXSS on Amplify Web Player | None | — | 66 | [filedescriptor](https://hackerone.com/filedescriptor) | 2017-04-15 |
+| 171 | [52042](../reports/52042.md) | HTTP Response Splitting (CRLF injection) in report_story | None | — | 58 | [filedescriptor](https://hackerone.com/filedescriptor) | 2015-04-21 |
+| 172 | [57356](../reports/57356.md) | DOM based cookie bomb | None | — | 53 | [filedescriptor](https://hackerone.com/filedescriptor) | 2017-04-11 |
+| 173 | [153666](../reports/153666.md) | csp bypass + xss | None | — | 51 | [b6117130df17feef13481e3](https://hackerone.com/b6117130df17feef13481e3) | 2017-07-05 |
+| 174 | [119471](../reports/119471.md) | DOMXSS in Tweetdeck | None | — | 50 | [filedescriptor](https://hackerone.com/filedescriptor) | 2017-04-02 |
+| 175 | [158148](../reports/158148.md) | reverb.twitter.com redirects to vulnerable reverb.guru | None | — | 50 | [theraz0r](https://hackerone.com/theraz0r) | 2016-10-01 |
+| 176 | [32825](../reports/32825.md) | URGENT - Subdomain Takeover on media.vine.co due to unclaime | None | — | 50 | [fransrosen](https://hackerone.com/fransrosen) | 2014-11-03 |
+| 177 | [108113](../reports/108113.md) | Bypassing callback_url validation on Digits | None | — | 47 | [filedescriptor](https://hackerone.com/filedescriptor) | 2016-08-12 |
+| 178 | [246897](../reports/246897.md) | Open Redirect | None | — | 41 | [malcolmx](https://hackerone.com/malcolmx) | 2017-08-19 |
+| 179 | [95555](../reports/95555.md) | CSRF on cards API | None | — | 39 | [filedescriptor](https://hackerone.com/filedescriptor) | 2017-04-11 |
+| 180 | [129381](../reports/129381.md) | niche s3 buckets are readable/writeable/deleteable by author | None | — | 39 | [yaworsk](https://hackerone.com/yaworsk) | 2017-04-02 |
+| 181 | [692352](../reports/692352.md) | XSS on https://app.mopub.com/reports/custom/add/ [new-d1] | None | — | 38 | [c00lbugs](https://hackerone.com/c00lbugs) | 2019-12-07 |
+| 182 | [53843](../reports/53843.md) | HTTP Response Splitting (CRLF injection) due to headers over | None | — | 29 | [filedescriptor](https://hackerone.com/filedescriptor) | 2015-05-04 |
+| 183 | [288966](../reports/288966.md) | POODLE SSLv3 bug on multiple twitter smtp servers (mx3.twitt | None | — | 28 | [omespino](https://hackerone.com/omespino) | 2018-02-22 |
+| 184 | [97672](../reports/97672.md) | File Upload XSS in image uploading of App in mopub | None | — | 23 | [indoappsec](https://hackerone.com/indoappsec) | 2016-08-25 |
+| 185 | [87040](../reports/87040.md) | XSS on OAuth authorize/authenticate endpoint | None | — | 22 | [filedescriptor](https://hackerone.com/filedescriptor) | 2015-11-20 |
+| 186 | [95552](../reports/95552.md) | IDOR- Activate Mopub on different organizations- steal api t | None | — | 16 | [akhil-reni](https://hackerone.com/akhil-reni) | 2016-01-25 |
+| 187 | [100820](../reports/100820.md) | Add tweet to collection CSRF  | None | — | 12 | [indoappsec](https://hackerone.com/indoappsec) | 2016-08-22 |
+| 188 | [166942](../reports/166942.md) | leaking Digits OAuth authorization to third party websites | None | — | 12 | [akhil-reni](https://hackerone.com/akhil-reni) | 2017-01-24 |
+| 189 | [402671](../reports/402671.md) | HTTPS is not validating TLS mac codes | None | — | 11 | [cy1337](https://hackerone.com/cy1337) | 2019-05-25 |
+| 190 | [52646](../reports/52646.md) | Insecure direct object reference - have access to deleted DM | None | — | 10 | [akhil-reni](https://hackerone.com/akhil-reni) | 2015-10-12 |
+| 191 | [53858](../reports/53858.md) | Insecure Direct Object Reference - access to other user/grou | None | — | 10 | [akhil-reni](https://hackerone.com/akhil-reni) | 2015-10-03 |
+| 192 | [115158](../reports/115158.md) | CSRF in twitterflightschool.com ( CAN POST ON TIMELINE WITHO | None | — | 8 | [cymtrick](https://hackerone.com/cymtrick) | 2017-11-06 |
+| 193 | [22203](../reports/22203.md) | Broken authentication and invalidated email address leads to | None | — | 8 | [born2hack](https://hackerone.com/born2hack) | 2014-11-28 |
+| 194 | [28150](../reports/28150.md) | Cross site scripting on ads.twitter.com | None | — | 7 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-10-16 |
+| 195 | [27404](../reports/27404.md) | Delete Credit Cards from any Twitter Account in ads.twitter. | None | — | 6 | [secgeek](https://hackerone.com/secgeek) | 2014-09-30 |
+| 196 | [14883](../reports/14883.md) | [mobile.twitter.com / twitter.com] CSRF protection bypass | None | — | 6 | [bobrov](https://hackerone.com/bobrov) | 2015-05-04 |
+| 197 | [98432](../reports/98432.md) | Urgent : Disclosure of all the apps with hash ID in mopub th | None | — | 6 | [indoappsec](https://hackerone.com/indoappsec) | 2016-08-22 |
+| 198 | [95231](../reports/95231.md) | XSS in the "Poll" Feature on Twitter.com | None | — | 6 | [mazen160](https://hackerone.com/mazen160) | 2016-08-12 |
+| 199 | [41856](../reports/41856.md) | HTML/XSS rendered in Android App of Crashlytics through fabr | None | — | 5 | [akhil-reni](https://hackerone.com/akhil-reni) | 2015-02-18 |
+| 200 | [31554](../reports/31554.md) | Singup Page HTML Injection Vulnerability | None | — | 5 | [ashwarya](https://hackerone.com/ashwarya) | 2015-03-22 |
+| 201 | [90172](../reports/90172.md) | Tweetdeck (twitter owned app) not revoked | None | — | 5 | [xmly](https://hackerone.com/xmly) | 2016-04-29 |
+| 202 | [50134](../reports/50134.md) | XSS in original referrer after follow | None | — | 5 | [akhil-reni](https://hackerone.com/akhil-reni) | 2015-03-09 |
+| 203 | [119022](../reports/119022.md) | Tweet Deck XSS- Persistent- Group DM name | None | — | 5 | [akhil-reni](https://hackerone.com/akhil-reni) | 2016-03-04 |
+| 204 | [44492](../reports/44492.md) | Flaw in login with twitter to steal Oauth tokens | None | — | 5 | [akhil-reni](https://hackerone.com/akhil-reni) | 2015-02-18 |
+| 205 | [34725](../reports/34725.md) | XSS via Fabrico Account Name | None | — | 5 | [anon90](https://hackerone.com/anon90) | 2016-07-11 |
+| 206 | [35287](../reports/35287.md) | getting emails of users/removing them from victims account [ | None | — | 4 | [akhil-reni](https://hackerone.com/akhil-reni) | 2015-03-13 |
+| 207 | [27511](../reports/27511.md) | ads.twitter.com xss | None | — | 4 | [arbitrarycode](https://hackerone.com/arbitrarycode) | 2014-11-17 |
+| 208 | [119220](../reports/119220.md) | Sub-Domain Takeover | None | — | 4 | [bugdisclose](https://hackerone.com/bugdisclose) | 2016-03-18 |
+| 209 | [28500](../reports/28500.md) | iOS App can establish Facetime calls without user's permissi | None | — | 4 | [gepeto42](https://hackerone.com/gepeto42) | 2015-04-27 |
+| 210 | [15356](../reports/15356.md) | XSS ON MOPUB.COM | None | — | 4 | [jpsecurityresearch](https://hackerone.com/jpsecurityresearch) | 2014-08-15 |
+| 211 | [129436](../reports/129436.md) | xss in DM group name in twitter | None | — | 4 | [ashish_r_padelkar](https://hackerone.com/ashish_r_padelkar) | 2016-04-22 |
+| 212 | [137404](../reports/137404.md) | List of a ton of internal twitter servers available on GitHu | None | — | 4 | [a0005](https://hackerone.com/a0005) | 2016-10-17 |
+| 213 | [49474](../reports/49474.md) | Cross site Port Scanning bug in twitter developers console  | None | — | 4 | [d1pakda5](https://hackerone.com/d1pakda5) | 2015-05-23 |
+| 214 | [22012](../reports/22012.md) | Password reset link not validated. | None | — | 4 | [born2hack](https://hackerone.com/born2hack) | 2014-08-31 |
+| 215 | [27846](../reports/27846.md) | Stored xss | None | — | 4 | [detroitsmash](https://hackerone.com/detroitsmash) | 2014-09-27 |
+| 216 | [36980](../reports/36980.md) | Notifications can mark as read by CSRF | None | — | 4 | [batuhan](https://hackerone.com/batuhan) | 2015-01-03 |
+| 217 | [42403](../reports/42403.md) | Account Deleted without any confirmation | None | — | 4 | [sappi](https://hackerone.com/sappi) | 2015-02-05 |
+| 218 | [32519](../reports/32519.md) | XSS in fabric.io | None | — | 3 | [atom](https://hackerone.com/atom) | 2014-12-23 |
+| 219 | [23913](../reports/23913.md) | User's DM won't deleted after logout from Twitter for iOS (c | None | — | 3 | [abcdefghijklmnopqrstuvwxyzabc](https://hackerone.com/abcdefghijklmnopqrstuvwxyzabc) | 2015-02-25 |
+| 220 | [97161](../reports/97161.md) | Can see private tweets via keyword searches on tweetdeck | None | — | 3 | [xmly](https://hackerone.com/xmly) | 2016-02-16 |
+| 221 | [36053](../reports/36053.md) | Headers Missing | None | — | 3 | [hammad](https://hackerone.com/hammad) | 2014-11-15 |
+| 222 | [37822](../reports/37822.md) | Abuse of "Remember Me" functionality. | None | — | 3 | [gadhiyasavan](https://hackerone.com/gadhiyasavan) | 2014-12-29 |
+| 223 | [101104](../reports/101104.md) | Subdomain Expired | None | — | 3 | [hak](https://hackerone.com/hak) | 2016-01-15 |
+| 224 | [29328](../reports/29328.md) | XSS platform.twitter.com | None | — | 3 | [batram](https://hackerone.com/batram) | 2014-11-17 |
+| 225 | [14199](../reports/14199.md) | uclfinal.twitter.com and euro2012.twitter.com are vulnerable | None | — | 3 | [told_snider](https://hackerone.com/told_snider) | 2014-08-16 |
+| 226 | [14177](../reports/14177.md) | Token remains alive ever after logging out! | None | — | 3 | [shahriyar](https://hackerone.com/shahriyar) | 2014-11-17 |
+| 227 | [33331](../reports/33331.md) | Flaw in valid password policy. | None | — | 3 | [siddiki](https://hackerone.com/siddiki) | 2014-11-30 |
+| 228 | [48516](../reports/48516.md) | Redirect URL in /intent/ functionality is not properly escap | None | — | 3 | [homakov](https://hackerone.com/homakov) | 2015-02-24 |
+| 229 | [56119](../reports/56119.md) | Privecy Issue : view "Protected users" followers and followi | None | — | 3 | [kaito](https://hackerone.com/kaito) | 2015-05-15 |
+| 230 | [15125](../reports/15125.md) | XSS vulnerability in video player page | None | — | 2 | [guido](https://hackerone.com/guido) | 2014-08-02 |
+| 231 | [33986](../reports/33986.md) | Option Method Enabled on web server | None | — | 2 | [ruisilva](https://hackerone.com/ruisilva) | 2014-12-25 |
+| 232 | [55506](../reports/55506.md) | Privacy Issue on protected tweets | None | — | 2 | [dia2diab](https://hackerone.com/dia2diab) | 2015-05-14 |
+| 233 | [36986](../reports/36986.md) | [Stored XSS] vine.co - profile page | None | — | 2 | [xorb](https://hackerone.com/xorb) | 2015-03-26 |
+| 234 | [15232](../reports/15232.md) | Cookie not marked as secure. | None | — | 2 | [simon90](https://hackerone.com/simon90) | 2014-08-04 |
+| 235 | [31188](../reports/31188.md) | Creating Unauthorized Audience Lists | None | — | 2 | [anshuman_bh](https://hackerone.com/anshuman_bh) | 2014-11-28 |
+| 236 | [43988](../reports/43988.md) | twitter android app Fragment Injection | None | — | 2 | [miantaiduo](https://hackerone.com/miantaiduo) | 2015-04-11 |
+| 237 | [37108](../reports/37108.md) |  Homograph attack.  | None | — | 2 | [shivathegame](https://hackerone.com/shivathegame) | 2015-01-01 |
+| 238 | [33432](../reports/33432.md) | BROKEN AUTHENTICATION IN MOBILE VERIFICATION   | None | — | 2 | [geekboy](https://hackerone.com/geekboy) | 2014-12-14 |
+| 239 | [44578](../reports/44578.md) | URGENT - SUBDOMAIN TAKEOVER ON TWITTER ACQ. | None | — | 2 | [simon90](https://hackerone.com/simon90) | 2015-02-21 |
+| 240 | [42250](../reports/42250.md) | No rate limiting on creating lists | None | — | 1 | [sappi](https://hackerone.com/sappi) | 2015-01-06 |
+| 241 | [44371](../reports/44371.md) | Path disclosure in platform0.twitter.com | None | — | 1 | [avicoder_](https://hackerone.com/avicoder_) | 2015-02-20 |
+| 242 | [27166](../reports/27166.md) | Missing Rate Limiting on https://twitter.com/account/complet | None | — | 1 | [surgent10cross](https://hackerone.com/surgent10cross) | 2014-11-10 |
+| 243 | [29206](../reports/29206.md) | Twitter Flight SSL 2.0 deprecated protocol vulnerability. | None | — | 1 | [simon90](https://hackerone.com/simon90) | 2014-10-07 |
+| 244 | [15047](../reports/15047.md) | Captcha bypass with extension at http://www.mopub.com/about/ | None | — | 1 | [vineet](https://hackerone.com/vineet) | 2014-09-22 |
+| 245 | [33987](../reports/33987.md) | Options Method Enabled | None | — | 1 | [ruisilva](https://hackerone.com/ruisilva) | 2014-12-26 |
+| 246 | [20081](../reports/20081.md) | password sent over HTTP | None | — | 1 | [told_snider](https://hackerone.com/told_snider) | 2014-08-05 |
+| 247 | [34084](../reports/34084.md) | Bad extended ascii handling in HTTP 301 redirects of t.co | None | — | 1 | [cqoicebordel](https://hackerone.com/cqoicebordel) | 2015-08-09 |
+| 248 | [29360](../reports/29360.md) | XSS platform.twitter.com | video-js metadata | None | — | 1 | [batram](https://hackerone.com/batram) | 2014-11-17 |
+| 249 | [13856](../reports/13856.md) | CSRF   in crashlytics.com | None | — | 1 | [defmax](https://hackerone.com/defmax) | 2014-09-08 |
+| 250 | [25128](../reports/25128.md) | HTML form without CSRF protection at http://try.crashlytics. | None | — | 0 | [karthik-reddy](https://hackerone.com/karthik-reddy) | 2014-10-02 |

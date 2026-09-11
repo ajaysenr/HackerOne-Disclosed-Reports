@@ -1,4 +1,4 @@
-# Weakness: Improper Authorization (37 reports)
+# Weakness: Improper Authorization (45 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -18,26 +18,34 @@
 | 12 | [1021776](../reports/1021776.md) | Attacker can generate cancelled transctions in a user's transacti | [CS Money](../by-program/cs_money.md) | Medium — CVSS 6.1 | $300 | 65 |
 | 13 | [270981](../reports/270981.md) | Shopify admin authentication bypass using partners.shopify.com | [Shopify](../by-program/shopify.md) | Critical — CVSS 10.0 | — | 308 |
 | 14 | [2718253](../reports/2718253.md) | Email verification bypass via request  to endpoint "accounts.insi | [Insightly](../by-program/insightly.md) | Critical — CVSS 9.7 | — | 137 |
-| 15 | [1175980](../reports/1175980.md) | [Transportation Management Services Solution 2.0] Improper author | [U.S. General Services Administration](../by-program/gsa_vdp.md) | Critical | — | 14 |
-| 16 | [792927](../reports/792927.md) | Email address of any user can be queried on Report Invitation Gra | [HackerOne](../by-program/security.md) | High — CVSS 8.3 | — | 669 |
-| 17 | [1760403](../reports/1760403.md) | Account takeover - improper validation of jwt signature (with reg | [Linktree](../by-program/linktree.md) | High — CVSS 8.8 | — | 141 |
-| 18 | [751299](../reports/751299.md) | Improper Authorization | [Stripo Inc](../by-program/stripo.md) | High | — | 20 |
-| 19 | [1102365](../reports/1102365.md) | [dubmash] Lack of authorization checks - Update Sound Titles | [Reddit](../by-program/reddit.md) | High | — | 19 |
-| 20 | [1627980](../reports/1627980.md) | Unauthenticated access to internal API at██████████.███.edu  [HtU | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High — CVSS 7.5 | — | 13 |
-| 21 | [1598749](../reports/1598749.md) | TikTok's pixel/sdk.js leaks current URL from websites using postM | [TikTok](../by-program/tiktok.md) | Medium — CVSS 5.9 | — | 78 |
-| 22 | [411337](../reports/411337.md) | Forget password link not expiring after email change. | [Chaturbate](../by-program/chaturbate.md) | Medium | — | 45 |
-| 23 | [1560149](../reports/1560149.md) | Tomcat Servlet Examples accessible at https://44.240.33.83:38443  | [Stripe](../by-program/stripe.md) | Medium | — | 38 |
-| 24 | [254588](../reports/254588.md) | Removed staff members who had "Manage shops" permission can still | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.0 | — | 38 |
-| 25 | [1212374](../reports/1212374.md) | Oauth Misconfiguration Lead To Account Takeover | [Reddit](../by-program/reddit.md) | Medium — CVSS 6.8 | — | 18 |
-| 26 | [1091380](../reports/1091380.md) | [h1-2102] Partner's team member with no permission can retrieve s | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.3 | — | 16 |
-| 27 | [1084939](../reports/1084939.md) | [h1-2102] [PLUS] User with Store Management Permission can Make e | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.3 | — | 15 |
-| 28 | [962033](../reports/962033.md) | API key is not validated for C.R.M integration [Pipedrive] of LOG | [Dropcontact](../by-program/dropcontact.md) | Medium | — | 4 |
-| 29 | [416983](../reports/416983.md) | H1514 Removed Staff members who had "Apps" permission can still m | [Shopify](../by-program/shopify.md) | Low — CVSS 3.6 | — | 43 |
-| 30 | [1793940](../reports/1793940.md) | Any user can vote on `Friend Only` video pull | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.1 | — | 26 |
-| 31 | [2249299](../reports/2249299.md) | CVE-2023-47037: Airflow Broken Access Control Vulnerability | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 23 |
-| 32 | [1102660](../reports/1102660.md) | staffOrderNotificationSubscriptionDelete Could Be Used By Staff M | [Shopify](../by-program/shopify.md) | Low — CVSS 2.7 | — | 21 |
-| 33 | [1102652](../reports/1102652.md) | staffOrderNotificationSubscriptionCreate Is Not Blocked Entirely  | [Shopify](../by-program/shopify.md) | Low — CVSS 3.8 | — | 21 |
-| 34 | [3650435](../reports/3650435.md) | Improper enforcement of CURLOPT_SOCKS5_AUTH due to missing reuse  | [curl](../by-program/curl.md) | Low | — | 15 |
-| 35 | [1466855](../reports/1466855.md) | User with no Develop apps permission can Uninstall Custom App | [Shopify](../by-program/shopify.md) | Low — CVSS 3.1 | — | 15 |
-| 36 | [802011](../reports/802011.md) | Grafana Improper authorization  | [Kubernetes](../by-program/kubernetes.md) | Low | — | 6 |
-| 37 | [2668302](../reports/2668302.md) | Removed Guest role user who dosent have access to private project | [GitLab](../by-program/gitlab.md) | None | — | 37 |
+| 15 | [736391](../reports/736391.md) | [HTA2] Authorization Bypass on https://██████ leaks confidential  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical — CVSS 9.1 | — | 40 |
+| 16 | [1175980](../reports/1175980.md) | [Transportation Management Services Solution 2.0] Improper author | [U.S. General Services Administration](../by-program/gsa_vdp.md) | Critical | — | 14 |
+| 17 | [792927](../reports/792927.md) | Email address of any user can be queried on Report Invitation Gra | [HackerOne](../by-program/security.md) | High — CVSS 8.3 | — | 669 |
+| 18 | [1760403](../reports/1760403.md) | Account takeover - improper validation of jwt signature (with reg | [Linktree](../by-program/linktree.md) | High — CVSS 8.8 | — | 141 |
+| 19 | [751299](../reports/751299.md) | Improper Authorization | [Stripo Inc](../by-program/stripo.md) | High | — | 20 |
+| 20 | [1102365](../reports/1102365.md) | [dubmash] Lack of authorization checks - Update Sound Titles | [Reddit](../by-program/reddit.md) | High | — | 19 |
+| 21 | [1627980](../reports/1627980.md) | Unauthenticated access to internal API at██████████.███.edu  [HtU | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High — CVSS 7.5 | — | 13 |
+| 22 | [1598749](../reports/1598749.md) | TikTok's pixel/sdk.js leaks current URL from websites using postM | [TikTok](../by-program/tiktok.md) | Medium — CVSS 5.9 | — | 78 |
+| 23 | [411337](../reports/411337.md) | Forget password link not expiring after email change. | [Chaturbate](../by-program/chaturbate.md) | Medium | — | 45 |
+| 24 | [1560149](../reports/1560149.md) | Tomcat Servlet Examples accessible at https://44.240.33.83:38443  | [Stripe](../by-program/stripe.md) | Medium | — | 38 |
+| 25 | [254588](../reports/254588.md) | Removed staff members who had "Manage shops" permission can still | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.0 | — | 38 |
+| 26 | [855013](../reports/855013.md) | [www.stripo.email] You can override the speed limit by adding the | [Stripo Inc](../by-program/stripo.md) | Medium | — | 34 |
+| 27 | [1212374](../reports/1212374.md) | Oauth Misconfiguration Lead To Account Takeover | [Reddit](../by-program/reddit.md) | Medium — CVSS 6.8 | — | 18 |
+| 28 | [1091380](../reports/1091380.md) | [h1-2102] Partner's team member with no permission can retrieve s | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.3 | — | 16 |
+| 29 | [1084939](../reports/1084939.md) | [h1-2102] [PLUS] User with Store Management Permission can Make e | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.3 | — | 15 |
+| 30 | [962033](../reports/962033.md) | API key is not validated for C.R.M integration [Pipedrive] of LOG | [Dropcontact](../by-program/dropcontact.md) | Medium | — | 4 |
+| 31 | [3371448](../reports/3371448.md) | Improper Authorization Leads to Editor can toggle admin-only work | [Lovable VDP](../by-program/lovable-vdp.md) | Low | — | 79 |
+| 32 | [3371414](../reports/3371414.md) | Improper Authorization Leads to Editor can toggle admin-only work | [Lovable VDP](../by-program/lovable-vdp.md) | Low | — | 66 |
+| 33 | [964467](../reports/964467.md) | Bypass SMS verification to delete TikTok account | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.7 | — | 63 |
+| 34 | [3369843](../reports/3369843.md) | Low-privileged user can enable or disable Lovable AI for new proj | [Lovable VDP](../by-program/lovable-vdp.md) | Low | — | 56 |
+| 35 | [856305](../reports/856305.md) | [www.stripo.email] There is no rate limit for contact-us endpoint | [Stripo Inc](../by-program/stripo.md) | Low | — | 47 |
+| 36 | [416983](../reports/416983.md) | H1514 Removed Staff members who had "Apps" permission can still m | [Shopify](../by-program/shopify.md) | Low — CVSS 3.6 | — | 43 |
+| 37 | [1793940](../reports/1793940.md) | Any user can vote on `Friend Only` video pull | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.1 | — | 26 |
+| 38 | [2249299](../reports/2249299.md) | CVE-2023-47037: Airflow Broken Access Control Vulnerability | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 23 |
+| 39 | [1102652](../reports/1102652.md) | staffOrderNotificationSubscriptionCreate Is Not Blocked Entirely  | [Shopify](../by-program/shopify.md) | Low — CVSS 3.8 | — | 21 |
+| 40 | [1102660](../reports/1102660.md) | staffOrderNotificationSubscriptionDelete Could Be Used By Staff M | [Shopify](../by-program/shopify.md) | Low — CVSS 2.7 | — | 21 |
+| 41 | [1466855](../reports/1466855.md) | User with no Develop apps permission can Uninstall Custom App | [Shopify](../by-program/shopify.md) | Low — CVSS 3.1 | — | 15 |
+| 42 | [3650435](../reports/3650435.md) | Improper enforcement of CURLOPT_SOCKS5_AUTH due to missing reuse  | [curl](../by-program/curl.md) | Low | — | 15 |
+| 43 | [802011](../reports/802011.md) | Grafana Improper authorization  | [Kubernetes](../by-program/kubernetes.md) | Low | — | 6 |
+| 44 | [2668302](../reports/2668302.md) | Removed Guest role user who dosent have access to private project | [GitLab](../by-program/gitlab.md) | None | — | 37 |
+| 45 | [3371067](../reports/3371067.md) | Unauthenticated Access Control Bypass — Private WordPress Post Di | [Tucows (VDP)](../by-program/tucows_vdp.md) | None | — | 16 |

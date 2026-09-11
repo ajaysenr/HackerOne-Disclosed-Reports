@@ -1,4 +1,4 @@
-# Reddit — Disclosed Reports (63 total)
+# Reddit — Disclosed Reports (71 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -21,49 +21,57 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 15 | [1543770](../reports/1543770.md) | Moderators can send messages to users from banned subreddits | Low | $100 | 18 | [ba-reynolds](https://hackerone.com/ba-reynolds) | 2022-07-04 |
 | 16 | [1567186](../reports/1567186.md) | One-click account hijack for anyone using Apple sign-in with | Critical | — | 503 | [fransrosen](https://hackerone.com/fransrosen) | 2022-08-02 |
 | 17 | [1632186](../reports/1632186.md) | Can use the Reddit android app as usual even though revoking | Critical | — | 19 | [sateeshn](https://hackerone.com/sateeshn) | 2022-07-16 |
-| 18 | [1744264](../reports/1744264.md) |  read and message other user's messages | Critical | — | 12 | [beksem35](https://hackerone.com/beksem35) | 2023-05-18 |
-| 19 | [1719588](../reports/1719588.md) | HTML injection in API response including request url | Critical | — | 11 | [prilvesh](https://hackerone.com/prilvesh) | 2023-05-18 |
-| 20 | [1504410](../reports/1504410.md) | XSS via Mod Log Removed Posts | High — CVSS 7.5 | — | 216 | [ahacker1](https://hackerone.com/ahacker1) | 2022-03-10 |
-| 21 | [1661113](../reports/1661113.md) | IDOR allows an attacker to modify the links of any user | High | — | 202 | [criptex](https://hackerone.com/criptex) | 2022-09-30 |
-| 22 | [1596663](../reports/1596663.md) | Admin can create a hidden admin account  which even the owne | High | — | 180 | [41bin](https://hackerone.com/41bin) | 2022-11-14 |
-| 23 | [1051373](../reports/1051373.md) | XSS Reflected on reddit.com via url path | High | — | 155 | [criptex](https://hackerone.com/criptex) | 2022-09-27 |
-| 24 | [1285598](../reports/1285598.md) | s3 bucket takeover presented in https://github.com/reddit/rp | High — CVSS 8.2 | — | 94 | [gaurav-bhatia](https://hackerone.com/gaurav-bhatia) | 2021-10-21 |
-| 25 | [1069039](../reports/1069039.md) | GPS metadata preserved when converting HEIF to PNG | High | — | 67 | [ianonavy](https://hackerone.com/ianonavy) | 2021-10-21 |
-| 26 | [1237428](../reports/1237428.md) | [dubsmash] Long String in 'shoutout' Parameter Leading Inter | High — CVSS 7.8 | — | 32 | [sandeep_rj49](https://hackerone.com/sandeep_rj49) | 2021-12-13 |
-| 27 | [1102365](../reports/1102365.md) | [dubmash] Lack of authorization checks - Update Sound Titles | High | — | 19 | [sandeep_rj49](https://hackerone.com/sandeep_rj49) | 2021-10-21 |
-| 28 | [1168804](../reports/1168804.md) | Application level DOS at Login Page ( Accepts Long Password  | High — CVSS 7.5 | — | 10 | [e100_speaks](https://hackerone.com/e100_speaks) | 2022-02-07 |
-| 29 | [1187003](../reports/1187003.md) | critical file found etc/passwd on www.reddit.com | High | — | 10 | [himan253](https://hackerone.com/himan253) | 2021-10-21 |
-| 30 | [1716249](../reports/1716249.md) | sensitive data exposure | High | — | 5 | [saibalaji143_](https://hackerone.com/saibalaji143_) | 2022-11-10 |
-| 31 | [1591085](../reports/1591085.md) | Several Subdomains Takeover | High | — | 2 | [3amii](https://hackerone.com/3amii) | 2022-06-08 |
-| 32 | [2353237](../reports/2353237.md) | Infromation Disclosure To Use of Hard-coded Cryptographic Ke | Medium | — | 234 | [ahmed_xyz](https://hackerone.com/ahmed_xyz) | 2024-02-06 |
-| 33 | [1656380](../reports/1656380.md) | Reddit talk promotion offers don't expire, allowing users to | Medium — CVSS 5.0 | — | 68 | [ahacker1](https://hackerone.com/ahacker1) | 2022-10-03 |
-| 34 | [1341957](../reports/1341957.md) | Hash-Collision Denial-of-Service Vulnerability in Markdown P | Medium | — | 44 | [nicolaas](https://hackerone.com/nicolaas) | 2021-10-21 |
-| 35 | [1257753](../reports/1257753.md) | Open Redirect on www.redditinc.com via `failed` query param | Medium | — | 41 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2022-09-22 |
-| 36 | [801743](../reports/801743.md) | Race condition leads to Inflation of coins when bought via G | Medium | — | 37 | [yashrs](https://hackerone.com/yashrs) | 2021-10-27 |
-| 37 | [1122177](../reports/1122177.md) | Third party app could steal access token as well as protecte | Medium | — | 31 | [rahulkankrale](https://hackerone.com/rahulkankrale) | 2021-10-27 |
-| 38 | [1285081](../reports/1285081.md) | Open Redirect on www.redditinc.com via `failed` query param  | Medium | — | 20 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2022-09-30 |
-| 39 | [1212374](../reports/1212374.md) | Oauth Misconfiguration Lead To Account Takeover | Medium — CVSS 6.8 | — | 18 | [shylo](https://hackerone.com/shylo) | 2021-10-21 |
-| 40 | [1762927](../reports/1762927.md) | api keys leaked | Medium | — | 15 | [saibalaji143_](https://hackerone.com/saibalaji143_) | 2022-11-10 |
-| 41 | [1170522](../reports/1170522.md) | Missing rate limit in current password change settings leads | Medium | — | 12 | [m0hacks](https://hackerone.com/m0hacks) | 2021-10-27 |
-| 42 | [862882](../reports/862882.md) | XSS in redditmedia.com can compromise data of reddit.com | Medium | — | 10 | [keer0k](https://hackerone.com/keer0k) | 2022-08-03 |
-| 43 | [1966262](../reports/1966262.md) | Huge amount of Subdomains Takeovers at Reddit.com | Medium | — | 8 | [krrishbajaj](https://hackerone.com/krrishbajaj) | 2023-05-18 |
-| 44 | [1538157](../reports/1538157.md) | Regular Expression Denial of Service vulnerability | Medium | — | 6 | [dingleberryfarts](https://hackerone.com/dingleberryfarts) | 2022-04-12 |
-| 45 | [1816181](../reports/1816181.md) | Reflected XSS via File Upload | Medium | — | 4 | [greymanx1](https://hackerone.com/greymanx1) | 2023-05-18 |
-| 46 | [1812768](../reports/1812768.md) | CVE-2020-11022 | Medium | — | 3 | [greymanx1](https://hackerone.com/greymanx1) | 2023-05-18 |
-| 47 | [1350401](../reports/1350401.md) | Email Verification Bypass And Get access to user's private i | Medium | — | 3 | [manish_prajapat](https://hackerone.com/manish_prajapat) | 2021-10-21 |
-| 48 | [1325649](../reports/1325649.md) | com.reddit.frontpage vulernable to Task Hijacking (aka Stran | Medium | — | 2 | [nexus2k](https://hackerone.com/nexus2k) | 2021-12-13 |
-| 49 | [1298902](../reports/1298902.md) | Outsider can affect Upvote Percentage of private subreddit p | Low — CVSS 3.8 | — | 51 | [trieulieuf9](https://hackerone.com/trieulieuf9) | 2021-10-27 |
-| 50 | [2618486](../reports/2618486.md) | IDOR lets a malicious user reveal the unpinned achievement b | Low | — | 44 | [saurabhb](https://hackerone.com/saurabhb) | 2024-08-09 |
-| 51 | [1065186](../reports/1065186.md) | Weak rate limit could lead to ATO due to weak password prote | Low | — | 39 | [bombon](https://hackerone.com/bombon) | 2021-12-15 |
-| 52 | [1202408](../reports/1202408.md) | No Rate Limit on redditgifts gift  when Adding Comment | Low | — | 25 | [gaurav-bhatia](https://hackerone.com/gaurav-bhatia) | 2021-10-21 |
-| 53 | [1165225](../reports/1165225.md) | [dubsmash] Username and password bruteforce | Low — CVSS 3.9 | — | 18 | [asce21](https://hackerone.com/asce21) | 2021-12-13 |
-| 54 | [785833](../reports/785833.md) | registering with the same email address multiple times leads | Low | — | 10 | [whitehacker18](https://hackerone.com/whitehacker18) | 2022-03-14 |
-| 55 | [1165285](../reports/1165285.md) | No Rate limit on change password leads to account takeover | Low | — | 8 | [dreamispossible](https://hackerone.com/dreamispossible) | 2021-12-13 |
-| 56 | [1609004](../reports/1609004.md) | Rate limit is implemented in Reddit , but its not working .  | Low | — | 8 | [suryanm](https://hackerone.com/suryanm) | 2023-05-18 |
-| 57 | [1165919](../reports/1165919.md) | Content Spoofing | Low | — | 1 | [abdallah1911](https://hackerone.com/abdallah1911) | 2021-10-21 |
-| 58 | [1815463](../reports/1815463.md) | oauth misconfigration lead to account takeover | None | — | 10 | [greymanx1](https://hackerone.com/greymanx1) | 2023-05-18 |
-| 59 | [1209098](../reports/1209098.md) |  XSS | None | — | 10 | [shylo](https://hackerone.com/shylo) | 2021-10-21 |
-| 60 | [1167029](../reports/1167029.md) | Broken Authendication And Session Management | None | — | 5 | [kedibeauty](https://hackerone.com/kedibeauty) | 2021-10-21 |
-| 61 | [1243009](../reports/1243009.md) | No Password Length Restriction leads to Denial of Service | None | — | 2 | [c_j_27](https://hackerone.com/c_j_27) | 2021-10-21 |
-| 62 | [1182824](../reports/1182824.md) | Vulnerability Name: URL Redirection / Unvalidate Open Redire | None | — | 2 | [hasnain_123](https://hackerone.com/hasnain_123) | 2021-10-21 |
-| 63 | [1166770](../reports/1166770.md) | Content Spoofing/Text Injection at https://gateway-productio | None | — | 1 | [karthik86](https://hackerone.com/karthik86) | 2021-10-27 |
+| 18 | [1582778](../reports/1582778.md) | Misconfigurated login page able to lock login action for any | Critical — CVSS 9.3 | — | 19 | [ug0x01](https://hackerone.com/ug0x01) | 2022-06-06 |
+| 19 | [1744264](../reports/1744264.md) |  read and message other user's messages | Critical | — | 12 | [beksem35](https://hackerone.com/beksem35) | 2023-05-18 |
+| 20 | [1719588](../reports/1719588.md) | HTML injection in API response including request url | Critical | — | 11 | [prilvesh](https://hackerone.com/prilvesh) | 2023-05-18 |
+| 21 | [1195340](../reports/1195340.md) | User Account has been taken out | Critical | — | 9 | [ravitejag](https://hackerone.com/ravitejag) | 2021-10-21 |
+| 22 | [1241116](../reports/1241116.md) | hardcoded api secret & api key in com.reddit.frontpage | Critical | — | 8 | [0xcharan](https://hackerone.com/0xcharan) | 2021-10-21 |
+| 23 | [1504410](../reports/1504410.md) | XSS via Mod Log Removed Posts | High — CVSS 7.5 | — | 216 | [ahacker1](https://hackerone.com/ahacker1) | 2022-03-10 |
+| 24 | [1661113](../reports/1661113.md) | IDOR allows an attacker to modify the links of any user | High | — | 202 | [criptex](https://hackerone.com/criptex) | 2022-09-30 |
+| 25 | [1596663](../reports/1596663.md) | Admin can create a hidden admin account  which even the owne | High | — | 180 | [41bin](https://hackerone.com/41bin) | 2022-11-14 |
+| 26 | [1051373](../reports/1051373.md) | XSS Reflected on reddit.com via url path | High | — | 155 | [criptex](https://hackerone.com/criptex) | 2022-09-27 |
+| 27 | [1285598](../reports/1285598.md) | s3 bucket takeover presented in https://github.com/reddit/rp | High — CVSS 8.2 | — | 94 | [gaurav-bhatia](https://hackerone.com/gaurav-bhatia) | 2021-10-21 |
+| 28 | [1069039](../reports/1069039.md) | GPS metadata preserved when converting HEIF to PNG | High | — | 67 | [ianonavy](https://hackerone.com/ianonavy) | 2021-10-21 |
+| 29 | [1237428](../reports/1237428.md) | [dubsmash] Long String in 'shoutout' Parameter Leading Inter | High — CVSS 7.8 | — | 32 | [sandeep_rj49](https://hackerone.com/sandeep_rj49) | 2021-12-13 |
+| 30 | [1102365](../reports/1102365.md) | [dubmash] Lack of authorization checks - Update Sound Titles | High | — | 19 | [sandeep_rj49](https://hackerone.com/sandeep_rj49) | 2021-10-21 |
+| 31 | [1187003](../reports/1187003.md) | critical file found etc/passwd on www.reddit.com | High | — | 10 | [himan253](https://hackerone.com/himan253) | 2021-10-21 |
+| 32 | [1168804](../reports/1168804.md) | Application level DOS at Login Page ( Accepts Long Password  | High — CVSS 7.5 | — | 10 | [e100_speaks](https://hackerone.com/e100_speaks) | 2022-02-07 |
+| 33 | [1716249](../reports/1716249.md) | sensitive data exposure | High | — | 5 | [saibalaji143_](https://hackerone.com/saibalaji143_) | 2022-11-10 |
+| 34 | [1591085](../reports/1591085.md) | Several Subdomains Takeover | High | — | 2 | [3amii](https://hackerone.com/3amii) | 2022-06-08 |
+| 35 | [2353237](../reports/2353237.md) | Infromation Disclosure To Use of Hard-coded Cryptographic Ke | Medium | — | 234 | [ahmed_xyz](https://hackerone.com/ahmed_xyz) | 2024-02-06 |
+| 36 | [1656380](../reports/1656380.md) | Reddit talk promotion offers don't expire, allowing users to | Medium — CVSS 5.0 | — | 68 | [ahacker1](https://hackerone.com/ahacker1) | 2022-10-03 |
+| 37 | [1480569](../reports/1480569.md) | CSRF (protection bypassed) to force a below 18 user into vie | Medium — CVSS 5.0 | — | 47 | [marvelmaniac](https://hackerone.com/marvelmaniac) | 2022-06-16 |
+| 38 | [1341957](../reports/1341957.md) | Hash-Collision Denial-of-Service Vulnerability in Markdown P | Medium | — | 44 | [nicolaas](https://hackerone.com/nicolaas) | 2021-10-21 |
+| 39 | [1257753](../reports/1257753.md) | Open Redirect on www.redditinc.com via `failed` query param | Medium | — | 41 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2022-09-22 |
+| 40 | [801743](../reports/801743.md) | Race condition leads to Inflation of coins when bought via G | Medium | — | 37 | [yashrs](https://hackerone.com/yashrs) | 2021-10-27 |
+| 41 | [1122177](../reports/1122177.md) | Third party app could steal access token as well as protecte | Medium | — | 31 | [rahulkankrale](https://hackerone.com/rahulkankrale) | 2021-10-27 |
+| 42 | [1285081](../reports/1285081.md) | Open Redirect on www.redditinc.com via `failed` query param  | Medium | — | 20 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2022-09-30 |
+| 43 | [1212374](../reports/1212374.md) | Oauth Misconfiguration Lead To Account Takeover | Medium — CVSS 6.8 | — | 18 | [shylo](https://hackerone.com/shylo) | 2021-10-21 |
+| 44 | [1762927](../reports/1762927.md) | api keys leaked | Medium | — | 15 | [saibalaji143_](https://hackerone.com/saibalaji143_) | 2022-11-10 |
+| 45 | [1170522](../reports/1170522.md) | Missing rate limit in current password change settings leads | Medium | — | 12 | [m0hacks](https://hackerone.com/m0hacks) | 2021-10-27 |
+| 46 | [1206004](../reports/1206004.md) | No rate limit leads to spaming post | Medium | — | 11 | [nshcys3c](https://hackerone.com/nshcys3c) | 2023-05-18 |
+| 47 | [1310230](../reports/1310230.md) | Open Redirect through POST Request in www.redditinc.com | Medium | — | 10 | [kratul](https://hackerone.com/kratul) | 2022-07-08 |
+| 48 | [862882](../reports/862882.md) | XSS in redditmedia.com can compromise data of reddit.com | Medium | — | 10 | [keer0k](https://hackerone.com/keer0k) | 2022-08-03 |
+| 49 | [1966262](../reports/1966262.md) | Huge amount of Subdomains Takeovers at Reddit.com | Medium | — | 8 | [krrishbajaj](https://hackerone.com/krrishbajaj) | 2023-05-18 |
+| 50 | [1538157](../reports/1538157.md) | Regular Expression Denial of Service vulnerability | Medium | — | 6 | [dingleberryfarts](https://hackerone.com/dingleberryfarts) | 2022-04-12 |
+| 51 | [1816181](../reports/1816181.md) | Reflected XSS via File Upload | Medium | — | 4 | [greymanx1](https://hackerone.com/greymanx1) | 2023-05-18 |
+| 52 | [1812768](../reports/1812768.md) | CVE-2020-11022 | Medium | — | 3 | [greymanx1](https://hackerone.com/greymanx1) | 2023-05-18 |
+| 53 | [1350401](../reports/1350401.md) | Email Verification Bypass And Get access to user's private i | Medium | — | 3 | [manish_prajapat](https://hackerone.com/manish_prajapat) | 2021-10-21 |
+| 54 | [1325649](../reports/1325649.md) | com.reddit.frontpage vulernable to Task Hijacking (aka Stran | Medium | — | 2 | [nexus2k](https://hackerone.com/nexus2k) | 2021-12-13 |
+| 55 | [1298902](../reports/1298902.md) | Outsider can affect Upvote Percentage of private subreddit p | Low — CVSS 3.8 | — | 51 | [trieulieuf9](https://hackerone.com/trieulieuf9) | 2021-10-27 |
+| 56 | [2618486](../reports/2618486.md) | IDOR lets a malicious user reveal the unpinned achievement b | Low | — | 44 | [saurabhb](https://hackerone.com/saurabhb) | 2024-08-09 |
+| 57 | [1065186](../reports/1065186.md) | Weak rate limit could lead to ATO due to weak password prote | Low | — | 39 | [bombon](https://hackerone.com/bombon) | 2021-12-15 |
+| 58 | [1202408](../reports/1202408.md) | No Rate Limit on redditgifts gift  when Adding Comment | Low | — | 25 | [gaurav-bhatia](https://hackerone.com/gaurav-bhatia) | 2021-10-21 |
+| 59 | [1165225](../reports/1165225.md) | [dubsmash] Username and password bruteforce | Low — CVSS 3.9 | — | 18 | [asce21](https://hackerone.com/asce21) | 2021-12-13 |
+| 60 | [785833](../reports/785833.md) | registering with the same email address multiple times leads | Low | — | 10 | [whitehacker18](https://hackerone.com/whitehacker18) | 2022-03-14 |
+| 61 | [1165285](../reports/1165285.md) | No Rate limit on change password leads to account takeover | Low | — | 8 | [dreamispossible](https://hackerone.com/dreamispossible) | 2021-12-13 |
+| 62 | [1609004](../reports/1609004.md) | Rate limit is implemented in Reddit , but its not working .  | Low | — | 8 | [suryanm](https://hackerone.com/suryanm) | 2023-05-18 |
+| 63 | [1276733](../reports/1276733.md) | S3 bucket Upload on studio.redditinc.com (s3-r-w.ap-east-1.a | Low — CVSS 2.1 | — | 4 | [dinesh07](https://hackerone.com/dinesh07) | 2021-10-21 |
+| 64 | [1165919](../reports/1165919.md) | Content Spoofing | Low | — | 1 | [abdallah1911](https://hackerone.com/abdallah1911) | 2021-10-21 |
+| 65 | [1209098](../reports/1209098.md) |  XSS | None | — | 10 | [shylo](https://hackerone.com/shylo) | 2021-10-21 |
+| 66 | [1815463](../reports/1815463.md) | oauth misconfigration lead to account takeover | None | — | 10 | [greymanx1](https://hackerone.com/greymanx1) | 2023-05-18 |
+| 67 | [1461207](../reports/1461207.md) | Broken links make users from France unable to understand the | None | — | 6 | [ardyanv1ckyramadhan](https://hackerone.com/ardyanv1ckyramadhan) | 2023-05-18 |
+| 68 | [1167029](../reports/1167029.md) | Broken Authendication And Session Management | None | — | 5 | [kedibeauty](https://hackerone.com/kedibeauty) | 2021-10-21 |
+| 69 | [1243009](../reports/1243009.md) | No Password Length Restriction leads to Denial of Service | None | — | 2 | [c_j_27](https://hackerone.com/c_j_27) | 2021-10-21 |
+| 70 | [1182824](../reports/1182824.md) | Vulnerability Name: URL Redirection / Unvalidate Open Redire | None | — | 2 | [hasnain_123](https://hackerone.com/hasnain_123) | 2021-10-21 |
+| 71 | [1166770](../reports/1166770.md) | Content Spoofing/Text Injection at https://gateway-productio | None | — | 1 | [karthik86](https://hackerone.com/karthik86) | 2021-10-27 |

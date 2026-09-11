@@ -1,4 +1,4 @@
-# Bitwarden — Disclosed Reports (8 total)
+# Bitwarden — Disclosed Reports (11 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -9,6 +9,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 3 | [272570](../reports/272570.md) | Organization Admin Privilege Escalation To Owner | Medium | — | 27 | [rhynorater](https://hackerone.com/rhynorater) | 2017-10-28 |
 | 4 | [1874155](../reports/1874155.md) | Biometric key is stored in Windows Credential Manager, acces | Medium — CVSS 6.2 | — | 19 | [mebeim](https://hackerone.com/mebeim) | 2023-06-07 |
 | 5 | [913276](../reports/913276.md) | Server-Side Request Forgery in "icons.bitwarden.net" | Medium | — | 13 | [njgadhiya](https://hackerone.com/njgadhiya) | 2020-08-07 |
-| 6 | [289000](../reports/289000.md) | Vulnerable exported broadcast receiver | Low | — | 23 | [b3nac](https://hackerone.com/b3nac) | 2017-11-10 |
-| 7 | [925527](../reports/925527.md) | Blind HTTP GET SSRF via website icon fetch (bypass of pull#8 | Low | — | 21 | [shielder](https://hackerone.com/shielder) | 2020-09-11 |
-| 8 | [272357](../reports/272357.md) | Mailgun misconfiguration on email.bitwarden.com | Low | — | 17 | [khizer47](https://hackerone.com/khizer47) | 2017-10-27 |
+| 6 | [979820](../reports/979820.md) | Rate limits too low for email 2FA | Medium | — | 11 | [akashhamal0x01](https://hackerone.com/akashhamal0x01) | 2020-10-14 |
+| 7 | [289000](../reports/289000.md) | Vulnerable exported broadcast receiver | Low | — | 23 | [b3nac](https://hackerone.com/b3nac) | 2017-11-10 |
+| 8 | [925527](../reports/925527.md) | Blind HTTP GET SSRF via website icon fetch (bypass of pull#8 | Low | — | 21 | [shielder](https://hackerone.com/shielder) | 2020-09-11 |
+| 9 | [272357](../reports/272357.md) | Mailgun misconfiguration on email.bitwarden.com | Low | — | 17 | [khizer47](https://hackerone.com/khizer47) | 2017-10-27 |
+| 10 | [1206799](../reports/1206799.md) | When uploading attachments, unencrypted file names are made  | None | — | 8 | [jjlin](https://hackerone.com/jjlin) | 2021-08-02 |
+| 11 | [272272](../reports/272272.md) | Export vault feature is vulnerable to CSV injection | None | — | 2 | [kenziy](https://hackerone.com/kenziy) | 2017-09-28 |

@@ -1,4 +1,4 @@
-# ReddAPI — Disclosed Reports (5 total)
+# ReddAPI — Disclosed Reports (6 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -8,4 +8,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 2 | [6574](../reports/6574.md) | Login page password-guessing attack | None | — | 6 | [simon90](https://hackerone.com/simon90) | 2014-05-09 |
 | 3 | [12453](../reports/12453.md) | Strict Transport Security Misconfiguration | None | — | 5 | [yourdarkshadow](https://hackerone.com/yourdarkshadow) | 2014-10-28 |
 | 4 | [6504](../reports/6504.md) | Session Fixation Found | None | — | 5 | [0xsaikiran](https://hackerone.com/0xsaikiran) | 2014-04-20 |
-| 5 | [12457](../reports/12457.md) |  Content Sniffing not disabled | None | — | 2 | [yourdarkshadow](https://hackerone.com/yourdarkshadow) | 2014-10-28 |
+| 5 | [12454](../reports/12454.md) | Browser cross-site scripting filter misconfiguration | None | — | 3 | [yourdarkshadow](https://hackerone.com/yourdarkshadow) | 2014-10-28 |
+| 6 | [12457](../reports/12457.md) |  Content Sniffing not disabled | None | — | 2 | [yourdarkshadow](https://hackerone.com/yourdarkshadow) | 2014-10-28 |

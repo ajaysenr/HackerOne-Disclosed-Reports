@@ -1,4 +1,4 @@
-# Weakness: Security Through Obscurity (6 reports)
+# Weakness: Security Through Obscurity (7 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -10,3 +10,4 @@
 | 4 | [945990](../reports/945990.md) | Safe Redirect Bypass  | [X / xAI](../by-program/x.md) | Low | $560 | 97 |
 | 5 | [1457928](../reports/1457928.md) | Subdomain takeover of █████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 33 |
 | 6 | [780285](../reports/780285.md) | [h1-415 2020] H1-415 CTF Writeup by W-- | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 17 |
+| 7 | [513172](../reports/513172.md) | All Burp Suite Scan report | [Semmle](../by-program/semmle.md) | Low | — | 5 |

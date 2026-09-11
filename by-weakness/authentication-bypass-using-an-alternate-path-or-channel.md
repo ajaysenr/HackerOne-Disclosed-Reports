@@ -1,4 +1,4 @@
-# Weakness: Authentication Bypass Using an Alternate Path or Channel (19 reports)
+# Weakness: Authentication Bypass Using an Alternate Path or Channel (22 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -16,10 +16,13 @@
 | 10 | [824203](../reports/824203.md) | Cache Manager ACL Bypass | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.3 | — | 21 |
 | 11 | [428757](../reports/428757.md) | Admin panel take over | User info leakage | Mass Comprimise | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 9 |
 | 12 | [708303](../reports/708303.md) | Two-factor authentication (2FA) Bypass | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | Critical | — | 6 |
-| 13 | [2280279](../reports/2280279.md) | total Failure of password protection while extracting seed phrase | [MetaMask](../by-program/metamask.md) | Medium — CVSS 6.1 | — | 130 |
-| 14 | [1747978](../reports/1747978.md) | bypass two-factor authentication in Android apps and web | [TikTok](../by-program/tiktok.md) | Medium | — | 55 |
-| 15 | [2043552](../reports/2043552.md) | Admin.MyTVA.com Customer lookup and internal notes bypass | [Tennessee Valley Authority](../by-program/tennessee-valley-authority.md) | Medium — CVSS 6.5 | — | 18 |
-| 16 | [778803](../reports/778803.md) | Compromise of auth via subset/superset namespace names. | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 6.6 | — | 7 |
-| 17 | [947349](../reports/947349.md) | Bypass Too Many Requests Sign Up  | [Courier](../by-program/trycourier.md) | Medium — CVSS 5.3 | — | 6 |
-| 18 | [1070344](../reports/1070344.md) | ArcGIS Rest Service linked to unsecured survey data | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | Medium | — | 3 |
-| 19 | [1035976](../reports/1035976.md) | Slack server disclose h1 private issue report | [ImpressCMS](../by-program/impresscms.md) | Low | — | 12 |
+| 13 | [1039325](../reports/1039325.md) | Other misconfiguration on Slack Server | [ImpressCMS](../by-program/impresscms.md) | Critical | — | 5 |
+| 14 | [1063298](../reports/1063298.md) | Unauthorized access to employee panel with default credentials. | [U.S. General Services Administration](../by-program/gsa_vdp.md) | High | — | 22 |
+| 15 | [2280279](../reports/2280279.md) | total Failure of password protection while extracting seed phrase | [MetaMask](../by-program/metamask.md) | Medium — CVSS 6.1 | — | 130 |
+| 16 | [1747978](../reports/1747978.md) | bypass two-factor authentication in Android apps and web | [TikTok](../by-program/tiktok.md) | Medium | — | 55 |
+| 17 | [2043552](../reports/2043552.md) | Admin.MyTVA.com Customer lookup and internal notes bypass | [Tennessee Valley Authority](../by-program/tennessee-valley-authority.md) | Medium — CVSS 6.5 | — | 18 |
+| 18 | [778803](../reports/778803.md) | Compromise of auth via subset/superset namespace names. | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 6.6 | — | 7 |
+| 19 | [947349](../reports/947349.md) | Bypass Too Many Requests Sign Up  | [Courier](../by-program/trycourier.md) | Medium — CVSS 5.3 | — | 6 |
+| 20 | [1070344](../reports/1070344.md) | ArcGIS Rest Service linked to unsecured survey data | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | Medium | — | 3 |
+| 21 | [3287396](../reports/3287396.md) | AWS | Self Registration Internal LibreChat : Access to internal/p | [AWS VDP](../by-program/aws_vdp.md) | Low | — | 61 |
+| 22 | [1035976](../reports/1035976.md) | Slack server disclose h1 private issue report | [ImpressCMS](../by-program/impresscms.md) | Low | — | 12 |

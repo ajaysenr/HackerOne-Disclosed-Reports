@@ -1,4 +1,4 @@
-# Internet Bug Bounty — Disclosed Reports (789 total)
+# Internet Bug Bounty — Disclosed Reports (817 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -10,8 +10,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 4 | [56385](../reports/56385.md) | Double free vulnerability in Flash Player Settings Manager ( | None | $5,000 | 35 | [jouko](https://hackerone.com/jouko) | 2019-10-18 |
 | 5 | [151043](../reports/151043.md) | Adobe Flash Player PSDK Class Use After Free Vulnerability | None | $5,000 | 4 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
 | 6 | [31408](../reports/31408.md) | Adobe Flash Player Out-of-Bound Read/Write Vulnerability | None | $5,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2015-03-11 |
-| 7 | [151039](../reports/151039.md) | Adobe Flash Player TimedEvent.parent Memory Corruption Vulne | None | $5,000 | 1 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
-| 8 | [139879](../reports/139879.md) | Adobe Flash Player Regular Expression UAF Remote Code Execut | None | $5,000 | 1 | [bee13oy](https://hackerone.com/bee13oy) | 2019-11-12 |
+| 7 | [139879](../reports/139879.md) | Adobe Flash Player Regular Expression UAF Remote Code Execut | None | $5,000 | 1 | [bee13oy](https://hackerone.com/bee13oy) | 2019-11-12 |
+| 8 | [151039](../reports/151039.md) | Adobe Flash Player TimedEvent.parent Memory Corruption Vulne | None | $5,000 | 1 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
 | 9 | [119652](../reports/119652.md) | Adobe Flash Player ASnative(101,10) Memory Corruption Vulner | None | $5,000 | 1 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
 | 10 | [2586226](../reports/2586226.md) | CVE-2024-34750 Apache Tomcat DoS vulnerability in HTTP/2 con | High — CVSS 7.5 | $4,920 | 60 | [devme4f](https://hackerone.com/devme4f) | 2024-07-05 |
 | 11 | [2585381](../reports/2585381.md) | important: Apache HTTP Server weakness with encoded question | High | $4,920 | 50 | [orange](https://hackerone.com/orange) | 2024-07-13 |
@@ -52,8 +52,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 46 | [2584376](../reports/2584376.md) | ReDoS Vulnerability in HTTP Accept Headers Parsing | Medium | $2,642 | 55 | [dwisiswant0](https://hackerone.com/dwisiswant0) | 2024-10-30 |
 | 47 | [2585374](../reports/2585374.md) | moderate: Apache HTTP Server: mod_rewrite proxy handler subs | Medium | $2,600 | 87 | [orange](https://hackerone.com/orange) | 2024-08-12 |
 | 48 | [2526046](../reports/2526046.md) | CVE-2024-32760 in nginx | Medium | $2,600 | 46 | [noentry](https://hackerone.com/noentry) | 2024-07-01 |
-| 49 | [2526051](../reports/2526051.md) | CVE-2024-31079 in nginx | Medium | $2,600 | 32 | [noentry](https://hackerone.com/noentry) | 2024-07-01 |
-| 50 | [2542806](../reports/2542806.md) | [CVE-2024-32464] ActionText ContentAttachment’s can Contain  | Medium | $2,600 | 32 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2024-06-30 |
+| 49 | [2542806](../reports/2542806.md) | [CVE-2024-32464] ActionText ContentAttachment’s can Contain  | Medium | $2,600 | 32 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2024-06-30 |
+| 50 | [2526051](../reports/2526051.md) | CVE-2024-31079 in nginx | Medium | $2,600 | 32 | [noentry](https://hackerone.com/noentry) | 2024-07-01 |
 | 51 | [2526041](../reports/2526041.md) | CVE-2024-35200 in nginx | Medium | $2,600 | 21 | [noentry](https://hackerone.com/noentry) | 2024-07-01 |
 | 52 | [2585373](../reports/2585373.md) | moderate: Apache HTTP Server: HTTP response splitting (CVE-2 | Medium | $2,600 | 19 | [orange](https://hackerone.com/orange) | 2024-07-13 |
 | 53 | [2599391](../reports/2599391.md) | CVE-2024-3416: MTU of 4096 or greater without fragmentation  | Medium | $2,600 | 16 | [noentry](https://hackerone.com/noentry) | 2024-07-12 |
@@ -81,25 +81,25 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 75 | [1805873](../reports/1805873.md) | Rails ActionView sanitize helper bypass leading to XSS using | Medium | $2,400 | 39 | [haqpl](https://hackerone.com/haqpl) | 2023-01-29 |
 | 76 | [1551586](../reports/1551586.md) | CVE-2022-27774: Credential leak on redirect | Medium | $2,400 | 36 | [nyymi](https://hackerone.com/nyymi) | 2022-04-29 |
 | 77 | [1891795](../reports/1891795.md) | RCE vulnerability in apache-airflow-providers-apache-sqoop 3 | Medium | $2,400 | 30 | [leixiao](https://hackerone.com/leixiao) | 2023-03-18 |
-| 78 | [1966083](../reports/1966083.md) | CVE-2023-28710 Apache Airflow Spark Provider Arbitrary File  | Medium | $2,400 | 22 | [sw0rd1ight](https://hackerone.com/sw0rd1ight) | 2023-07-12 |
-| 79 | [1805899](../reports/1805899.md) | CVE-2022-23519: Rails::Html::SafeListSanitizer vulnerable to | Medium | $2,400 | 22 | [0b5cur17y](https://hackerone.com/0b5cur17y) | 2023-01-04 |
+| 78 | [1805899](../reports/1805899.md) | CVE-2022-23519: Rails::Html::SafeListSanitizer vulnerable to | Medium | $2,400 | 22 | [0b5cur17y](https://hackerone.com/0b5cur17y) | 2023-01-04 |
+| 79 | [1966083](../reports/1966083.md) | CVE-2023-28710 Apache Airflow Spark Provider Arbitrary File  | Medium | $2,400 | 22 | [sw0rd1ight](https://hackerone.com/sw0rd1ight) | 2023-07-12 |
 | 80 | [1594627](../reports/1594627.md) | Apache HTTP Server: mod_proxy_ajp: Possible request smugglin | Medium — CVSS 5.3 | $2,400 | 21 | [ricterz](https://hackerone.com/ricterz) | 2022-07-09 |
 | 81 | [1912778](../reports/1912778.md) | CVE-2023-27535: FTP too eager connection reuse | Medium | $2,400 | 21 | [nyymi](https://hackerone.com/nyymi) | 2023-03-20 |
 | 82 | [1872682](../reports/1872682.md) | Privilege Esacalation at Apache Airflow 2.5.1  | Medium | $2,400 | 19 | [ksw9722](https://hackerone.com/ksw9722) | 2023-05-18 |
 | 83 | [1805893](../reports/1805893.md) |  CVE-2022-23520: Incomplete fix for CVE-2022-32209 (XSS in R | Medium | $2,400 | 15 | [0b5cur17y](https://hackerone.com/0b5cur17y) | 2023-01-04 |
 | 84 | [1752146](../reports/1752146.md) | POST following PUT confusion | Medium | $2,400 | 14 | [robbotic](https://hackerone.com/robbotic) | 2022-12-02 |
-| 85 | [1599573](../reports/1599573.md) | Rails::Html::SafeListSanitizer vulnerable to xss attack in a | Medium — CVSS 6.5 | $2,400 | 12 | [windshock](https://hackerone.com/windshock) | 2022-06-27 |
-| 86 | [1906897](../reports/1906897.md) | UAF in OpenSSL up to 3.0.7 | Medium | $2,400 | 12 | [ogalland](https://hackerone.com/ogalland) | 2023-03-18 |
-| 87 | [1565623](../reports/1565623.md) | CVE-2022-27778: curl removes wrong file on error | Medium | $2,400 | 11 | [nyymi](https://hackerone.com/nyymi) | 2022-05-12 |
-| 88 | [1565624](../reports/1565624.md) | CVE-2022-27782: TLS and SSH connection too eager reuse | Medium | $2,400 | 11 | [nyymi](https://hackerone.com/nyymi) | 2022-05-12 |
-| 89 | [1916583](../reports/1916583.md) | Authenticated but unauthorized users may enumerate Applicati | Medium — CVSS 5.3 | $2,400 | 11 | [bean-zhang](https://hackerone.com/bean-zhang) | 2023-05-25 |
+| 85 | [1906897](../reports/1906897.md) | UAF in OpenSSL up to 3.0.7 | Medium | $2,400 | 12 | [ogalland](https://hackerone.com/ogalland) | 2023-03-18 |
+| 86 | [1599573](../reports/1599573.md) | Rails::Html::SafeListSanitizer vulnerable to xss attack in a | Medium — CVSS 6.5 | $2,400 | 12 | [windshock](https://hackerone.com/windshock) | 2022-06-27 |
+| 87 | [1565624](../reports/1565624.md) | CVE-2022-27782: TLS and SSH connection too eager reuse | Medium | $2,400 | 11 | [nyymi](https://hackerone.com/nyymi) | 2022-05-12 |
+| 88 | [1916583](../reports/1916583.md) | Authenticated but unauthorized users may enumerate Applicati | Medium — CVSS 5.3 | $2,400 | 11 | [bean-zhang](https://hackerone.com/bean-zhang) | 2023-05-25 |
+| 89 | [1565623](../reports/1565623.md) | CVE-2022-27778: curl removes wrong file on error | Medium | $2,400 | 11 | [nyymi](https://hackerone.com/nyymi) | 2022-05-12 |
 | 90 | [1746098](../reports/1746098.md) | potential denial of service attack via the locale parameter | Medium | $2,400 | 9 | [benjaoming_realone](https://hackerone.com/benjaoming_realone) | 2022-11-28 |
 | 91 | [1627159](../reports/1627159.md) | Rack CVE-2022-30122: Denial of Service Vulnerability in Rack | Medium | $2,400 | 9 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2022-07-23 |
 | 92 | [1690093](../reports/1690093.md) | Airflow Daemon Mode Insecure Umask Privilege Escalation | Medium | $2,400 | 8 | [nyymi](https://hackerone.com/nyymi) | 2022-09-17 |
 | 93 | [1614330](../reports/1614330.md) | CVE-2022-32206: HTTP compression denial of service | Medium | $2,400 | 8 | [nyymi](https://hackerone.com/nyymi) | 2022-06-27 |
-| 94 | [1888758](../reports/1888758.md) | Inadequate Encryption Strength in nodejs-current reads opens | Medium | $2,400 | 7 | [zdg0x0](https://hackerone.com/zdg0x0) | 2023-04-09 |
+| 94 | [1895277](../reports/1895277.md) | Apache Airflow Google Cloud Sql Provider Remote Command Exec | Medium | $2,400 | 7 | [sw0rd1ight](https://hackerone.com/sw0rd1ight) | 2023-04-16 |
 | 95 | [1614331](../reports/1614331.md) | CVE-2022-32207: Unpreserved file permissions | Medium | $2,400 | 7 | [nyymi](https://hackerone.com/nyymi) | 2022-06-27 |
-| 96 | [1895277](../reports/1895277.md) | Apache Airflow Google Cloud Sql Provider Remote Command Exec | Medium | $2,400 | 7 | [sw0rd1ight](https://hackerone.com/sw0rd1ight) | 2023-04-16 |
+| 96 | [1888758](../reports/1888758.md) | Inadequate Encryption Strength in nodejs-current reads opens | Medium | $2,400 | 7 | [zdg0x0](https://hackerone.com/zdg0x0) | 2023-04-09 |
 | 97 | [2225660](../reports/2225660.md) | Permission model improperly protects against path traversal  | High | $2,330 | 42 | [tniessen](https://hackerone.com/tniessen) | 2023-11-30 |
 | 98 | [2921724](../reports/2921724.md) | Deadlock in x86 HVM standard VGA handling | Medium — CVSS 5.5 | $2,162 | 86 | [stonksy](https://hackerone.com/stonksy) | 2025-03-07 |
 | 99 | [2795558](../reports/2795558.md) | CVE-2024-41990: Potential denial-of-service in django.utils. | Medium | $2,162 | 83 | [mprogrammer](https://hackerone.com/mprogrammer) | 2024-11-30 |
@@ -119,23 +119,23 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 113 | [63324](../reports/63324.md) | Flash Player information disclosure (etc.) CVE-2015-3044, PS | None | $2,000 | 8 | [jouko](https://hackerone.com/jouko) | 2019-10-18 |
 | 114 | [2107](../reports/2107.md) | Handling of jar: URIs bypasses AllowScriptAccess=never | None | $2,000 | 6 | [masatokinugawa](https://hackerone.com/masatokinugawa) | 2014-01-14 |
 | 115 | [119657](../reports/119657.md) | Adobe Flash Player Race Condition Vulnerability | None | $2,000 | 5 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
-| 116 | [30567](../reports/30567.md) | Adobe Flash Player MP4 Use-After-Free Vulnerability | None | $2,000 | 3 | [hhj4ck](https://hackerone.com/hhj4ck) | 2015-03-11 |
+| 116 | [6380](../reports/6380.md) | Same Origin Security Bypass Vulnerability | None | $2,000 | 3 | [masatokinugawa](https://hackerone.com/masatokinugawa) | 2014-03-11 |
 | 117 | [7803](../reports/7803.md) | Security bypass could lead to information disclosure | None | $2,000 | 3 | [masatokinugawa](https://hackerone.com/masatokinugawa) | 2014-04-08 |
-| 118 | [6380](../reports/6380.md) | Same Origin Security Bypass Vulnerability | None | $2,000 | 3 | [masatokinugawa](https://hackerone.com/masatokinugawa) | 2014-03-11 |
-| 119 | [145271](../reports/145271.md) | Adobe Flash Player ShimContentResolver(resolverType=0) class | None | $2,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
-| 120 | [138518](../reports/138518.md) | Adobe Flash Player OpportunityGenerator class Memory Corrupt | None | $2,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
-| 121 | [145265](../reports/145265.md) | Adobe Flash Player ShimContentFactory class Memory Corruptio | None | $2,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
+| 118 | [30567](../reports/30567.md) | Adobe Flash Player MP4 Use-After-Free Vulnerability | None | $2,000 | 3 | [hhj4ck](https://hackerone.com/hhj4ck) | 2015-03-11 |
+| 119 | [36279](../reports/36279.md) | Adobe Flash Player MP4 Use-After-Free Vulnerability | None | $2,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2015-03-11 |
+| 120 | [145267](../reports/145267.md) | Adobe Flash Player ShimContentResolver.configure Memory Corr | None | $2,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
+| 121 | [145271](../reports/145271.md) | Adobe Flash Player ShimContentResolver(resolverType=0) class | None | $2,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
 | 122 | [138517](../reports/138517.md) | Adobe Flash Player Metadata class Memory Corruption Vulnerab | None | $2,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
-| 123 | [47012](../reports/47012.md) | Adobe Flash Player Out-of-Bound Access Vulnerability | None | $2,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2015-03-25 |
-| 124 | [145272](../reports/145272.md) | Adobe Flash Player ShimContentResolver(resolverType=1) class | None | $2,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
-| 125 | [151040](../reports/151040.md) | Adobe Flash Player ShimAdPolicySelector(adPolicySelectorType | None | $2,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
-| 126 | [36279](../reports/36279.md) | Adobe Flash Player MP4 Use-After-Free Vulnerability | None | $2,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2015-03-11 |
-| 127 | [138516](../reports/138516.md) | Adobe Flash Player ContentFactory class Memory Corruption Vu | None | $2,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
-| 128 | [145267](../reports/145267.md) | Adobe Flash Player ShimContentResolver.configure Memory Corr | None | $2,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
-| 129 | [145266](../reports/145266.md) | Adobe Flash Player ShimContentFactory.retrieveResolvers Memo | None | $2,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
-| 130 | [119655](../reports/119655.md) | Adobe Flash Player ASnative(900,1).call(TextField) Use-After | None | $2,000 | 1 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
+| 123 | [138516](../reports/138516.md) | Adobe Flash Player ContentFactory class Memory Corruption Vu | None | $2,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
+| 124 | [145266](../reports/145266.md) | Adobe Flash Player ShimContentFactory.retrieveResolvers Memo | None | $2,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
+| 125 | [47012](../reports/47012.md) | Adobe Flash Player Out-of-Bound Access Vulnerability | None | $2,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2015-03-25 |
+| 126 | [151040](../reports/151040.md) | Adobe Flash Player ShimAdPolicySelector(adPolicySelectorType | None | $2,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
+| 127 | [145265](../reports/145265.md) | Adobe Flash Player ShimContentFactory class Memory Corruptio | None | $2,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
+| 128 | [145272](../reports/145272.md) | Adobe Flash Player ShimContentResolver(resolverType=1) class | None | $2,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
+| 129 | [138518](../reports/138518.md) | Adobe Flash Player OpportunityGenerator class Memory Corrupt | None | $2,000 | 2 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
+| 130 | [122254](../reports/122254.md) | Adobe Flash Player TextField Use-After-Free Vulnerability | None | $2,000 | 1 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
 | 131 | [119653](../reports/119653.md) | Adobe Flash Player ASnative(900,1).call(MovieClip) Use-After | None | $2,000 | 1 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
-| 132 | [122254](../reports/122254.md) | Adobe Flash Player TextField Use-After-Free Vulnerability | None | $2,000 | 1 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
+| 132 | [119655](../reports/119655.md) | Adobe Flash Player ASnative(900,1).call(TextField) Use-After | None | $2,000 | 1 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
 | 133 | [145269](../reports/145269.md) | Adobe Flash Player ShimOpportunityGenerator class Memory Cor | None | $2,000 | 1 | [hhj4ck](https://hackerone.com/hhj4ck) | 2019-11-12 |
 | 134 | [2038484](../reports/2038484.md) | DiffieHellman doesn't generate keys after setting a key | Medium | $1,800 | 33 | [bensmyth](https://hackerone.com/bensmyth) | 2023-06-30 |
 | 135 | [1888760](../reports/1888760.md) | HTTP Request Smuggling Due to Incorrect Parsing of Header Fi | Medium | $1,800 | 15 | [vwx7](https://hackerone.com/vwx7) | 2023-04-09 |
@@ -156,18 +156,18 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 150 | [593229](../reports/593229.md) | Out-of-bounds read in iconv.c:_php_iconv_mime_decode() due t | High — CVSS 8.2 | $1,500 | 58 | [neural_x](https://hackerone.com/neural_x) | 2020-10-12 |
 | 151 | [1084342](../reports/1084342.md) | Buffer overflow in PyCArg_repr in _ctypes/callproc.c for Pyt | High | $1,500 | 51 | [jordyzomer](https://hackerone.com/jordyzomer) | 2021-08-25 |
 | 152 | [675578](../reports/675578.md) | Out of Bounds Memory Read in exif_scan_thumbnail | High — CVSS 8.8 | $1,500 | 20 | [sediruoksitsero](https://hackerone.com/sediruoksitsero) | 2020-11-09 |
-| 153 | [478368](../reports/478368.md) | imagecolormatch Out Of Bounds Write on Heap  | High — CVSS 8.8 | $1,500 | 4 | [simonscannell](https://hackerone.com/simonscannell) | 2020-10-10 |
-| 154 | [272497](../reports/272497.md) | Perl $ENV Key Stack Buffer Overflow | High | $1,500 | 4 | [johnleitch](https://hackerone.com/johnleitch) | 2019-11-12 |
+| 153 | [272497](../reports/272497.md) | Perl $ENV Key Stack Buffer Overflow | High | $1,500 | 4 | [johnleitch](https://hackerone.com/johnleitch) | 2019-11-12 |
+| 154 | [478368](../reports/478368.md) | imagecolormatch Out Of Bounds Write on Heap  | High — CVSS 8.8 | $1,500 | 4 | [simonscannell](https://hackerone.com/simonscannell) | 2020-10-10 |
 | 155 | [675580](../reports/675580.md) | Out of Bounds Memory Read in exif_process_user_comment | High — CVSS 8.8 | $1,500 | 3 | [sediruoksitsero](https://hackerone.com/sediruoksitsero) | 2020-11-09 |
-| 156 | [504761](../reports/504761.md) | phar_tar_writeheaders_int() buffer overflow | High — CVSS 8.1 | $1,500 | 2 | [jordyzomer](https://hackerone.com/jordyzomer) | 2020-11-09 |
-| 157 | [476179](../reports/476179.md) | Buffer over-write in finfo_open with malformed magic file. | High — CVSS 7.3 | $1,500 | 2 | [haquaman](https://hackerone.com/haquaman) | 2020-11-09 |
+| 156 | [476179](../reports/476179.md) | Buffer over-write in finfo_open with malformed magic file. | High — CVSS 7.3 | $1,500 | 2 | [haquaman](https://hackerone.com/haquaman) | 2020-11-09 |
+| 157 | [504761](../reports/504761.md) | phar_tar_writeheaders_int() buffer overflow | High — CVSS 8.1 | $1,500 | 2 | [jordyzomer](https://hackerone.com/jordyzomer) | 2020-11-09 |
 | 158 | [175587](../reports/175587.md) | Stack Buffer Overflow in GD dynamicGetbuf | High | $1,500 | 1 | [libnex](https://hackerone.com/libnex) | 2019-11-12 |
 | 159 | [122113](../reports/122113.md) | OpenSSH / dropbearSSHd xauth command injection | None | $1,500 | 4 | [hxd](https://hackerone.com/hxd) | 2019-11-12 |
 | 160 | [135152](../reports/135152.md) | Integer overflow in ZipArchive::getFrom* | None | $1,500 | 3 | [hji](https://hackerone.com/hji) | 2016-05-05 |
-| 161 | [73256](../reports/73256.md) | PHP yaml_parse/yaml_parse_file/yaml_parse_url Double Free | None | $1,500 | 1 | [johnleitch](https://hackerone.com/johnleitch) | 2015-05-18 |
+| 161 | [73239](../reports/73239.md) | ZIP Integer Overflow leads to writing past heap boundary | None | $1,500 | 1 | [libnex](https://hackerone.com/libnex) | 2015-03-18 |
 | 162 | [152772](../reports/152772.md) | Inadequate error handling in bzread() | None | $1,500 | 1 | [hji](https://hackerone.com/hji) | 2019-11-12 |
-| 163 | [73239](../reports/73239.md) | ZIP Integer Overflow leads to writing past heap boundary | None | $1,500 | 1 | [libnex](https://hackerone.com/libnex) | 2015-03-18 |
-| 164 | [188102](../reports/188102.md) | 3 heap corruptions in PHP | None | $1,500 | 1 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
+| 163 | [188102](../reports/188102.md) | 3 heap corruptions in PHP | None | $1,500 | 1 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
+| 164 | [73256](../reports/73256.md) | PHP yaml_parse/yaml_parse_file/yaml_parse_url Double Free | None | $1,500 | 1 | [johnleitch](https://hackerone.com/johnleitch) | 2015-05-18 |
 | 165 | [2434819](../reports/2434819.md) | Improper handling of wildcards in --allow-fs-read and --allo | Medium | $1,290 | 44 | [tniessen](https://hackerone.com/tniessen) | 2024-05-29 |
 | 166 | [2208860](../reports/2208860.md) | Integrity checks according to policies can be circumvented i | Medium | $1,270 | 82 | [tniessen](https://hackerone.com/tniessen) | 2023-11-30 |
 | 167 | [530292](../reports/530292.md) | Local Privilege Escalation during execution of VeraCryptExpa | Medium | $1,250 | 27 | [penrose](https://hackerone.com/penrose) | 2021-08-22 |
@@ -191,30 +191,30 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 185 | [116286](../reports/116286.md) | Type confusion in partial.setstate, partial_repr, partial_ca | None | $1,000 | 13 | [nedw](https://hackerone.com/nedw) | 2016-09-20 |
 | 186 | [152400](../reports/152400.md) | php mcrypt ext - In correct casting from size_t to int lead  | None | $1,000 | 12 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
 | 187 | [144782](../reports/144782.md) | CVE-2016-0772 - python: smtplib StartTLS stripping attack | None | $1,000 | 4 | [hxd](https://hackerone.com/hxd) | 2016-08-30 |
-| 188 | [170138](../reports/170138.md) | SEH buffer overflow msgfmt_format_message | None | $1,000 | 3 | [fms](https://hackerone.com/fms) | 2019-10-13 |
+| 188 | [110417](../reports/110417.md) | Heap corruption in tar/zip/phar parser | None | $1,000 | 3 | [l4w](https://hackerone.com/l4w) | 2019-10-15 |
 | 189 | [110352](../reports/110352.md) | Perl 5.22 VDir::MapPathA/W Out-of-bounds Reads and Buffer Ov | None | $1,000 | 3 | [johnleitch](https://hackerone.com/johnleitch) | 2016-03-31 |
-| 190 | [110417](../reports/110417.md) | Heap corruption in tar/zip/phar parser | None | $1,000 | 3 | [l4w](https://hackerone.com/l4w) | 2019-10-15 |
-| 191 | [109843](../reports/109843.md) | Uninitialized pointer in phar_make_dirstream() | None | $1,000 | 3 | [l4w](https://hackerone.com/l4w) | 2019-10-15 |
-| 192 | [127212](../reports/127212.md) | php_snmp_error() Format String Vulnerability | None | $1,000 | 3 | [rewzilla](https://hackerone.com/rewzilla) | 2016-05-01 |
-| 193 | [161193](../reports/161193.md) | imagegammacorrect allows arbitrary write access | None | $1,000 | 2 | [fms](https://hackerone.com/fms) | 2019-10-13 |
-| 194 | [128169](../reports/128169.md) | BN_mod_exp may produce incorrect results on x86_64 (CVE-2015 | None | $1,000 | 2 | [hanno](https://hackerone.com/hanno) | 2016-04-12 |
-| 195 | [114078](../reports/114078.md) | Use-after-free vulnerability in SPL(ArrayObject, unserialize | None | $1,000 | 1 | [seanhn](https://hackerone.com/seanhn) | 2019-11-12 |
-| 196 | [114079](../reports/114079.md) | Use-after-free vulnerability in SPL(SplObjectStorage, unseri | None | $1,000 | 1 | [seanhn](https://hackerone.com/seanhn) | 2019-11-12 |
-| 197 | [127242](../reports/127242.md) | Negative size parameter (-1) in memcpy mbfl_strcut  | None | $1,000 | 1 | [fms](https://hackerone.com/fms) | 2019-10-13 |
-| 198 | [73238](../reports/73238.md) | Buffer Over-read in unserialize when parsing Phar | None | $1,000 | 1 | [libnex](https://hackerone.com/libnex) | 2015-04-14 |
-| 199 | [146202](../reports/146202.md) | Invalid free in phar_extract_file() | None | $1,000 | 1 | [hji](https://hackerone.com/hji) | 2019-11-12 |
-| 200 | [73258](../reports/73258.md) | Python: imageop Unsafe Arithmetic | None | $1,000 | 1 | [johnleitch](https://hackerone.com/johnleitch) | 2015-05-31 |
-| 201 | [167688](../reports/167688.md) | msilib.OpenDatabase Type Confusion | None | $1,000 | 1 | [johnleitch](https://hackerone.com/johnleitch) | 2016-09-20 |
+| 190 | [170138](../reports/170138.md) | SEH buffer overflow msgfmt_format_message | None | $1,000 | 3 | [fms](https://hackerone.com/fms) | 2019-10-13 |
+| 191 | [127212](../reports/127212.md) | php_snmp_error() Format String Vulnerability | None | $1,000 | 3 | [rewzilla](https://hackerone.com/rewzilla) | 2016-05-01 |
+| 192 | [109843](../reports/109843.md) | Uninitialized pointer in phar_make_dirstream() | None | $1,000 | 3 | [l4w](https://hackerone.com/l4w) | 2019-10-15 |
+| 193 | [128169](../reports/128169.md) | BN_mod_exp may produce incorrect results on x86_64 (CVE-2015 | None | $1,000 | 2 | [hanno](https://hackerone.com/hanno) | 2016-04-12 |
+| 194 | [161193](../reports/161193.md) | imagegammacorrect allows arbitrary write access | None | $1,000 | 2 | [fms](https://hackerone.com/fms) | 2019-10-13 |
+| 195 | [73258](../reports/73258.md) | Python: imageop Unsafe Arithmetic | None | $1,000 | 1 | [johnleitch](https://hackerone.com/johnleitch) | 2015-05-31 |
+| 196 | [73238](../reports/73238.md) | Buffer Over-read in unserialize when parsing Phar | None | $1,000 | 1 | [libnex](https://hackerone.com/libnex) | 2015-04-14 |
+| 197 | [114079](../reports/114079.md) | Use-after-free vulnerability in SPL(SplObjectStorage, unseri | None | $1,000 | 1 | [seanhn](https://hackerone.com/seanhn) | 2019-11-12 |
+| 198 | [114078](../reports/114078.md) | Use-after-free vulnerability in SPL(ArrayObject, unserialize | None | $1,000 | 1 | [seanhn](https://hackerone.com/seanhn) | 2019-11-12 |
+| 199 | [167688](../reports/167688.md) | msilib.OpenDatabase Type Confusion | None | $1,000 | 1 | [johnleitch](https://hackerone.com/johnleitch) | 2016-09-20 |
+| 200 | [127242](../reports/127242.md) | Negative size parameter (-1) in memcpy mbfl_strcut  | None | $1,000 | 1 | [fms](https://hackerone.com/fms) | 2019-10-13 |
+| 201 | [146202](../reports/146202.md) | Invalid free in phar_extract_file() | None | $1,000 | 1 | [hji](https://hackerone.com/hji) | 2019-11-12 |
 | 202 | [73237](../reports/73237.md) | Buffer Over flow when parsing tar/zip/phar in phar_set_inode | None | $1,000 | 1 | [libnex](https://hackerone.com/libnex) | 2015-04-14 |
-| 203 | [104016](../reports/104016.md) | Dangling pointer in the unserialization of ArrayObject items | None | $1,000 | 0 | [seanhn](https://hackerone.com/seanhn) | 2015-08-05 |
-| 204 | [104007](../reports/104007.md) | Buffer over-read in exif_read_data with TIFF IFD tag | None | $1,000 | 0 | [haquaman](https://hackerone.com/haquaman) | 2015-09-01 |
-| 205 | [104023](../reports/104023.md) | bytearray.find Buffer Over-read | None | $1,000 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-06-29 |
-| 206 | [104008](../reports/104008.md) | Uninitialized pointer in phar_make_dirstream | None | $1,000 | 0 | [haquaman](https://hackerone.com/haquaman) | 2015-09-29 |
-| 207 | [109175](../reports/109175.md) | Use After Free in sortWithSortKeys() | None | $1,000 | 0 | [libnex](https://hackerone.com/libnex) | 2016-01-20 |
-| 208 | [104014](../reports/104014.md) | libcurl duphandle read out of bounds | None | $1,000 | 0 | [sparaschoudis](https://hackerone.com/sparaschoudis) | 2015-11-05 |
-| 209 | [106548](../reports/106548.md) | Format string vulnerability in zend_throw_or_error() | None | $1,000 | 0 | [rewzilla](https://hackerone.com/rewzilla) | 2016-01-10 |
-| 210 | [104032](../reports/104032.md) | PyFloat_FromString & PyNumber_Long Buffer Over-reads | None | $1,000 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-11-08 |
-| 211 | [104003](../reports/104003.md) | Python deque.index() uninitialized memory | None | $1,000 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-09-03 |
+| 203 | [104008](../reports/104008.md) | Uninitialized pointer in phar_make_dirstream | None | $1,000 | 0 | [haquaman](https://hackerone.com/haquaman) | 2015-09-29 |
+| 204 | [104032](../reports/104032.md) | PyFloat_FromString & PyNumber_Long Buffer Over-reads | None | $1,000 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-11-08 |
+| 205 | [109175](../reports/109175.md) | Use After Free in sortWithSortKeys() | None | $1,000 | 0 | [libnex](https://hackerone.com/libnex) | 2016-01-20 |
+| 206 | [104014](../reports/104014.md) | libcurl duphandle read out of bounds | None | $1,000 | 0 | [sparaschoudis](https://hackerone.com/sparaschoudis) | 2015-11-05 |
+| 207 | [104023](../reports/104023.md) | bytearray.find Buffer Over-read | None | $1,000 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-06-29 |
+| 208 | [104003](../reports/104003.md) | Python deque.index() uninitialized memory | None | $1,000 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-09-03 |
+| 209 | [104016](../reports/104016.md) | Dangling pointer in the unserialization of ArrayObject items | None | $1,000 | 0 | [seanhn](https://hackerone.com/seanhn) | 2015-08-05 |
+| 210 | [106548](../reports/106548.md) | Format string vulnerability in zend_throw_or_error() | None | $1,000 | 0 | [rewzilla](https://hackerone.com/rewzilla) | 2016-01-10 |
+| 211 | [104007](../reports/104007.md) | Buffer over-read in exif_read_data with TIFF IFD tag | None | $1,000 | 0 | [haquaman](https://hackerone.com/haquaman) | 2015-09-01 |
 | 212 | [1010340](../reports/1010340.md) | [CVE-2020-27194] Linux kernel: eBPF verifier bug in `or` bin | High | $750 | 10 | [simonscannell](https://hackerone.com/simonscannell) | 2021-07-23 |
 | 213 | [891846](../reports/891846.md) | CVE-2020-9383 Floppy OOB read | High — CVSS 7.0 | $750 | 3 | [jordyzomer](https://hackerone.com/jordyzomer) | 2021-08-22 |
 | 214 | [893922](../reports/893922.md) | IP-in-IP protocol routes arbitrary traffic by default - CVE- | Medium — CVSS 5.3 | $750 | 13 | [b0d64187f5efdafc3907928](https://hackerone.com/b0d64187f5efdafc3907928) | 2021-08-15 |
@@ -249,12 +249,12 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 243 | [384719](../reports/384719.md) | linkinfo - openbasedir bypass on Windows PHP | Medium | $500 | 7 | [fms](https://hackerone.com/fms) | 2018-10-15 |
 | 244 | [200909](../reports/200909.md) | Out of bounds memory read in unserialize() | Medium | $500 | 6 | [hanno](https://hackerone.com/hanno) | 2017-05-28 |
 | 245 | [248601](../reports/248601.md) | PHP INI Parsing Stack Buffer Overflow Vulnerability | Medium — CVSS 6.8 | $500 | 2 | [xixabangm4](https://hackerone.com/xixabangm4) | 2019-10-14 |
-| 246 | [248659](../reports/248659.md) | PHP WDDX Deserialization Heap OOB Read in timelib_meridian() | Medium — CVSS 5.3 | $500 | 2 | [xixabangm4](https://hackerone.com/xixabangm4) | 2019-10-14 |
-| 247 | [778834](../reports/778834.md) | OOB read in php_strip_tags_ex | Medium — CVSS 6.5 | $500 | 2 | [raven42](https://hackerone.com/raven42) | 2020-11-09 |
-| 248 | [248609](../reports/248609.md) | PHP OpenSSL zif_openssl_seal() heap overflow (wild memcpy) | Medium — CVSS 5.9 | $500 | 2 | [xixabangm4](https://hackerone.com/xixabangm4) | 2019-10-14 |
-| 249 | [283644](../reports/283644.md) | Out-Of-Bounds Read in timelib_meridian() | Medium — CVSS 5.3 | $500 | 2 | [xixabangm4](https://hackerone.com/xixabangm4) | 2019-10-14 |
+| 246 | [190863](../reports/190863.md) | imagefilltoborder stackoverflow on truecolor images | Medium | $500 | 2 | [fms](https://hackerone.com/fms) | 2017-02-07 |
+| 247 | [283644](../reports/283644.md) | Out-Of-Bounds Read in timelib_meridian() | Medium — CVSS 5.3 | $500 | 2 | [xixabangm4](https://hackerone.com/xixabangm4) | 2019-10-14 |
+| 248 | [778834](../reports/778834.md) | OOB read in php_strip_tags_ex | Medium — CVSS 6.5 | $500 | 2 | [raven42](https://hackerone.com/raven42) | 2020-11-09 |
+| 249 | [248609](../reports/248609.md) | PHP OpenSSL zif_openssl_seal() heap overflow (wild memcpy) | Medium — CVSS 5.9 | $500 | 2 | [xixabangm4](https://hackerone.com/xixabangm4) | 2019-10-14 |
 | 250 | [477897](../reports/477897.md) | buffer overread in base64 code of the xmlrpc module | Medium | $500 | 2 | [hanno](https://hackerone.com/hanno) | 2020-11-09 |
-| 251 | [190863](../reports/190863.md) | imagefilltoborder stackoverflow on truecolor images | Medium | $500 | 2 | [fms](https://hackerone.com/fms) | 2017-02-07 |
+| 251 | [248659](../reports/248659.md) | PHP WDDX Deserialization Heap OOB Read in timelib_meridian() | Medium — CVSS 5.3 | $500 | 2 | [xixabangm4](https://hackerone.com/xixabangm4) | 2019-10-14 |
 | 252 | [320222](../reports/320222.md) | memory corruption while parsing HTTP response | Medium | $500 | 1 | [xixabangm4](https://hackerone.com/xixabangm4) | 2019-10-14 |
 | 253 | [241202](../reports/241202.md) | Unsafe arithmetic in PyString_DecodeEscape | Low | $500 | 14 | [jaybosamiya](https://hackerone.com/jaybosamiya) | 2017-08-15 |
 | 254 | [683318](../reports/683318.md) | Windows builds with insecure path defaults (CVE-2019-1552) | Low | $500 | 13 | [mirchr](https://hackerone.com/mirchr) | 2019-09-24 |
@@ -264,126 +264,126 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 258 | [182169](../reports/182169.md) | Type confusion in FutureIter_throw() which may potentially l | Low | $500 | 4 | [artem](https://hackerone.com/artem) | 2016-12-03 |
 | 259 | [190933](../reports/190933.md) | Invalid parameter in memcpy function trough openssl_pbkdf2 | Low | $500 | 4 | [emyei](https://hackerone.com/emyei) | 2017-02-08 |
 | 260 | [180814](../reports/180814.md) | crash in locale_compose() function | Low | $500 | 3 | [jot](https://hackerone.com/jot) | 2019-11-12 |
-| 261 | [216151](../reports/216151.md) | Use-after-free in _asyncio_Future_remove_done_callback | Low | $500 | 2 | [nedw](https://hackerone.com/nedw) | 2019-11-12 |
-| 262 | [175312](../reports/175312.md) | memcpy negative parameter _bc_new_num_ex | Low | $500 | 2 | [fms](https://hackerone.com/fms) | 2017-02-07 |
-| 263 | [178144](../reports/178144.md) | imagecropauto out-of-bounds access | Low | $500 | 2 | [fms](https://hackerone.com/fms) | 2019-10-13 |
-| 264 | [203002](../reports/203002.md) | Incorrect GC behavior in xxlimited could lead to use-after-f | Low | $500 | 2 | [zeroinside](https://hackerone.com/zeroinside) | 2019-11-12 |
-| 265 | [175310](../reports/175310.md) | Write out-of-bounds at number_format | Low | $500 | 2 | [fms](https://hackerone.com/fms) | 2017-02-07 |
-| 266 | [180109](../reports/180109.md) | crash in gzcompress and 3 other compress functions | Low | $500 | 2 | [jot](https://hackerone.com/jot) | 2019-11-12 |
-| 267 | [178094](../reports/178094.md) | php_snmp_parse_oid integer overflow in memory allocation | Low | $500 | 2 | [fwh](https://hackerone.com/fwh) | 2019-11-12 |
-| 268 | [175264](../reports/175264.md) | heap overflow in php_ereg_replace function | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
-| 269 | [180112](../reports/180112.md) | iconv() function missing string length check | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
-| 270 | [180113](../reports/180113.md) | crash in get_icu_value_internal function | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
-| 271 | [180588](../reports/180588.md) | Invalid memory access in zend_strtod() function | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
-| 272 | [175315](../reports/175315.md) | Illegal write access through Locale methods | Low | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-13 |
-| 273 | [180590](../reports/180590.md) | Invalid memory access in spl_filesystem_dir_open function | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
-| 274 | [180110](../reports/180110.md) | crash in implode() function | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
-| 275 | [180115](../reports/180115.md) | crash in locale_get_keywords() when keyword value in locale  | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
+| 261 | [178094](../reports/178094.md) | php_snmp_parse_oid integer overflow in memory allocation | Low | $500 | 2 | [fwh](https://hackerone.com/fwh) | 2019-11-12 |
+| 262 | [203002](../reports/203002.md) | Incorrect GC behavior in xxlimited could lead to use-after-f | Low | $500 | 2 | [zeroinside](https://hackerone.com/zeroinside) | 2019-11-12 |
+| 263 | [175310](../reports/175310.md) | Write out-of-bounds at number_format | Low | $500 | 2 | [fms](https://hackerone.com/fms) | 2017-02-07 |
+| 264 | [178144](../reports/178144.md) | imagecropauto out-of-bounds access | Low | $500 | 2 | [fms](https://hackerone.com/fms) | 2019-10-13 |
+| 265 | [180109](../reports/180109.md) | crash in gzcompress and 3 other compress functions | Low | $500 | 2 | [jot](https://hackerone.com/jot) | 2019-11-12 |
+| 266 | [175312](../reports/175312.md) | memcpy negative parameter _bc_new_num_ex | Low | $500 | 2 | [fms](https://hackerone.com/fms) | 2017-02-07 |
+| 267 | [216151](../reports/216151.md) | Use-after-free in _asyncio_Future_remove_done_callback | Low | $500 | 2 | [nedw](https://hackerone.com/nedw) | 2019-11-12 |
+| 268 | [175262](../reports/175262.md) | NULL pointer dereference in SimpleXMLElement::asXML() | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
+| 269 | [180111](../reports/180111.md) | crash in bzcompress function | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
+| 270 | [175311](../reports/175311.md) | memcpy negative size parameter in php_resolve_path | Low | $500 | 1 | [fms](https://hackerone.com/fms) | 2017-02-07 |
+| 271 | [180110](../reports/180110.md) | crash in implode() function | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
+| 272 | [175263](../reports/175263.md) | crash in openssl_random_pseudo_bytes function | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
+| 273 | [180592](../reports/180592.md) | Invalid memory access in spl_filesystem_info_set_filename fu | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
+| 274 | [175264](../reports/175264.md) | heap overflow in php_ereg_replace function | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
+| 275 | [180588](../reports/180588.md) | Invalid memory access in zend_strtod() function | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
 | 276 | [180589](../reports/180589.md) | crash in simplestring_addn function | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
-| 277 | [175311](../reports/175311.md) | memcpy negative size parameter in php_resolve_path | Low | $500 | 1 | [fms](https://hackerone.com/fms) | 2017-02-07 |
-| 278 | [175262](../reports/175262.md) | NULL pointer dereference in SimpleXMLElement::asXML() | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
-| 279 | [180592](../reports/180592.md) | Invalid memory access in spl_filesystem_info_set_filename fu | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
-| 280 | [180591](../reports/180591.md) | Invalid memory access in php_basename function | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
-| 281 | [180116](../reports/180116.md) | another crash in locale_get_keywords function | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
-| 282 | [175316](../reports/175316.md) | stack-buffer-overflow through "ResourceBundle" methods | Low | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-13 |
-| 283 | [180111](../reports/180111.md) | crash in bzcompress function | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
-| 284 | [175263](../reports/175263.md) | crash in openssl_random_pseudo_bytes function | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
-| 285 | [175260](../reports/175260.md) | missing NULL check in dom_document_save_html | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
-| 286 | [116372](../reports/116372.md) | Use-After-Free / Double-Free in WDDX Deserialize | None | $500 | 14 | [l4w](https://hackerone.com/l4w) | 2019-10-15 |
-| 287 | [170144](../reports/170144.md) | wddx_deserialize use-after-free | None | $500 | 14 | [fms](https://hackerone.com/fms) | 2019-11-03 |
-| 288 | [167910](../reports/167910.md) | memory corruption in wordwrap function | None | $500 | 7 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
-| 289 | [167906](../reports/167906.md) | integer overflow in imap_binary caused heap corruption | None | $500 | 7 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
-| 290 | [167904](../reports/167904.md) | heap overflow in substr_replace | None | $500 | 7 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
-| 291 | [114172](../reports/114172.md) | 	Out-of-Bound Read in phar_parse_zipfile() | None | $500 | 7 | [l4w](https://hackerone.com/l4w) | 2019-10-15 |
+| 277 | [175316](../reports/175316.md) | stack-buffer-overflow through "ResourceBundle" methods | Low | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-13 |
+| 278 | [180116](../reports/180116.md) | another crash in locale_get_keywords function | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
+| 279 | [180590](../reports/180590.md) | Invalid memory access in spl_filesystem_dir_open function | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
+| 280 | [175315](../reports/175315.md) | Illegal write access through Locale methods | Low | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-13 |
+| 281 | [180115](../reports/180115.md) | crash in locale_get_keywords() when keyword value in locale  | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
+| 282 | [180591](../reports/180591.md) | Invalid memory access in php_basename function | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
+| 283 | [175260](../reports/175260.md) | missing NULL check in dom_document_save_html | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
+| 284 | [180113](../reports/180113.md) | crash in get_icu_value_internal function | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
+| 285 | [180112](../reports/180112.md) | iconv() function missing string length check | Low | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
+| 286 | [170144](../reports/170144.md) | wddx_deserialize use-after-free | None | $500 | 14 | [fms](https://hackerone.com/fms) | 2019-11-03 |
+| 287 | [116372](../reports/116372.md) | Use-After-Free / Double-Free in WDDX Deserialize | None | $500 | 14 | [l4w](https://hackerone.com/l4w) | 2019-10-15 |
+| 288 | [167906](../reports/167906.md) | integer overflow in imap_binary caused heap corruption | None | $500 | 7 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
+| 289 | [167910](../reports/167910.md) | memory corruption in wordwrap function | None | $500 | 7 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
+| 290 | [114172](../reports/114172.md) | 	Out-of-Bound Read in phar_parse_zipfile() | None | $500 | 7 | [l4w](https://hackerone.com/l4w) | 2019-10-15 |
+| 291 | [167904](../reports/167904.md) | heap overflow in substr_replace | None | $500 | 7 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
 | 292 | [167911](../reports/167911.md) | integer overflow in fgetcsv caused heap corruption | None | $500 | 6 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
-| 293 | [167901](../reports/167901.md) | integer overflow in pg_escape_string caused heap corruption | None | $500 | 5 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
-| 294 | [159955](../reports/159955.md) | integer overflow in bzdecompress caused heap corruption | None | $500 | 5 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
-| 295 | [159953](../reports/159953.md) | integer overflow in curl_escape caused heap corruption | None | $500 | 5 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
-| 296 | [159958](../reports/159958.md) | Integer overflow lead to heap corruption in sql_regcase | None | $500 | 5 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
-| 297 | [159961](../reports/159961.md) | integer overflow in php_uuencode caused heap corruption | None | $500 | 5 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
-| 298 | [146940](../reports/146940.md) | pass2_no_dither out-of-bounds access | None | $500 | 5 | [fms](https://hackerone.com/fms) | 2019-10-31 |
-| 299 | [167905](../reports/167905.md) | integer overflow in pg_escape_bytea caused heap corruption | None | $500 | 5 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
-| 300 | [159959](../reports/159959.md) | integer overflow in quoted_printable_encode caused heap corr | None | $500 | 4 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
-| 301 | [167908](../reports/167908.md) | integer overflow in fgets cause heap corruption | None | $500 | 4 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
-| 302 | [159960](../reports/159960.md) | integer overflow in urlencode caused heap corruption | None | $500 | 4 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
-| 303 | [159954](../reports/159954.md) | integer overflow in base64_decode caused heap corruption | None | $500 | 4 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
+| 293 | [159961](../reports/159961.md) | integer overflow in php_uuencode caused heap corruption | None | $500 | 5 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
+| 294 | [167901](../reports/167901.md) | integer overflow in pg_escape_string caused heap corruption | None | $500 | 5 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
+| 295 | [159958](../reports/159958.md) | Integer overflow lead to heap corruption in sql_regcase | None | $500 | 5 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
+| 296 | [159955](../reports/159955.md) | integer overflow in bzdecompress caused heap corruption | None | $500 | 5 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
+| 297 | [167905](../reports/167905.md) | integer overflow in pg_escape_bytea caused heap corruption | None | $500 | 5 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
+| 298 | [159953](../reports/159953.md) | integer overflow in curl_escape caused heap corruption | None | $500 | 5 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
+| 299 | [146940](../reports/146940.md) | pass2_no_dither out-of-bounds access | None | $500 | 5 | [fms](https://hackerone.com/fms) | 2019-10-31 |
+| 300 | [159960](../reports/159960.md) | integer overflow in urlencode caused heap corruption | None | $500 | 4 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
+| 301 | [159954](../reports/159954.md) | integer overflow in base64_decode caused heap corruption | None | $500 | 4 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
+| 302 | [167902](../reports/167902.md) | integer overflow in php_ldap_do_escape caused heap corruptio | None | $500 | 4 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
+| 303 | [159959](../reports/159959.md) | integer overflow in quoted_printable_encode caused heap corr | None | $500 | 4 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
 | 304 | [167903](../reports/167903.md) |  integer overflow in str_pad caused heap corruption | None | $500 | 4 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
-| 305 | [167902](../reports/167902.md) | integer overflow in php_ldap_do_escape caused heap corruptio | None | $500 | 4 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
-| 306 | [166080](../reports/166080.md) | null pointer dereference in set_conversion_mode due uncheck  | None | $500 | 3 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
+| 305 | [167908](../reports/167908.md) | integer overflow in fgets cause heap corruption | None | $500 | 4 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
+| 306 | [167907](../reports/167907.md) | integer overflow in preg_quote caused heap corruption | None | $500 | 3 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
 | 307 | [20861](../reports/20861.md) | moderate: mod_deflate denial of service | None | $500 | 3 | [gianko](https://hackerone.com/gianko) | 2014-07-14 |
 | 308 | [5928](../reports/5928.md) | Uncontrolled Resource Consumption with XMPP-Layer Compressio | None | $500 | 3 | [gianko](https://hackerone.com/gianko) | 2014-04-20 |
-| 309 | [167907](../reports/167907.md) | integer overflow in preg_quote caused heap corruption | None | $500 | 3 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
-| 310 | [161198](../reports/161198.md) | wddx_deserialize null dereference with invalid xml | None | $500 | 2 | [fms](https://hackerone.com/fms) | 2019-10-13 |
+| 309 | [166080](../reports/166080.md) | null pointer dereference in set_conversion_mode due uncheck  | None | $500 | 3 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
+| 310 | [161217](../reports/161217.md) | wddx_deserialize null dereference in php_wddx_pop_element | None | $500 | 2 | [fms](https://hackerone.com/fms) | 2019-10-13 |
 | 311 | [161200](../reports/161200.md) | wddx_deserialize allows illegal memory access | None | $500 | 2 | [fms](https://hackerone.com/fms) | 2019-10-31 |
-| 312 | [117651](../reports/117651.md) | Multiple Heap Overflow due to integer overflows | xml/filter | None | $500 | 2 | [l4w](https://hackerone.com/l4w) | 2019-10-15 |
-| 313 | [110720](../reports/110720.md) | Arbitary Memory Read via gdImageRotateInterpolated Array Ind | None | $500 | 2 | [libnex](https://hackerone.com/libnex) | 2019-11-12 |
-| 314 | [170260](../reports/170260.md) | imap_rfc822_parse_headers GS Violation | None | $500 | 2 | [fms](https://hackerone.com/fms) | 2019-10-31 |
-| 315 | [110722](../reports/110722.md) | Heap BufferOver Flow in escapeshellargs and escapeshellcmd f | None | $500 | 2 | [libnex](https://hackerone.com/libnex) | 2019-11-12 |
-| 316 | [167909](../reports/167909.md) | integer overflow in recode_string caused heap corruption | None | $500 | 2 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
-| 317 | [168029](../reports/168029.md) | ldap_escape could produce string larger than 2Gb | None | $500 | 2 | [jot](https://hackerone.com/jot) | 2019-11-12 |
-| 318 | [129771](../reports/129771.md) | Python 2.7 strop.replace Integer Overflow | None | $500 | 2 | [johnleitch](https://hackerone.com/johnleitch) | 2016-05-02 |
-| 319 | [161217](../reports/161217.md) | wddx_deserialize null dereference in php_wddx_pop_element | None | $500 | 2 | [fms](https://hackerone.com/fms) | 2019-10-13 |
-| 320 | [135291](../reports/135291.md) | Out-of-bounds reads in zif_grapheme_stripos with negative of | None | $500 | 2 | [fms](https://hackerone.com/fms) | 2019-10-13 |
-| 321 | [152784](../reports/152784.md) | imagegif/output out-of-bounds access | None | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-13 |
-| 322 | [141202](../reports/141202.md) | imagescale out-of-bounds read | None | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-31 |
-| 323 | [152782](../reports/152782.md) | locale_accept_from_http out-of-bounds access | None | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-13 |
-| 324 | [113799](../reports/113799.md) | Null pointer deref with ob_start with get_defined_vars | None | $500 | 1 | [haquaman](https://hackerone.com/haquaman) | 2019-10-13 |
-| 325 | [73259](../reports/73259.md) | Integer overflow in _pickle.c | None | $500 | 1 | [tukan](https://hackerone.com/tukan) | 2015-06-27 |
-| 326 | [146936](../reports/146936.md) | CVE-2015-8874 Stack overflow with imagefilltoborder | None | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-13 |
-| 327 | [135294](../reports/135294.md) | xml_parse_into_struct segmentation fault | None | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-13 |
-| 328 | [73257](../reports/73257.md) | PHP yaml_parse/yaml_parse_file/yaml_parse_url Unsafe Deseria | None | $500 | 1 | [johnleitch](https://hackerone.com/johnleitch) | 2015-05-18 |
-| 329 | [153776](../reports/153776.md) | gdImageTrueColorToPaletteBody allows arbitrary write/read ac | None | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-31 |
-| 330 | [147125](../reports/147125.md) | Integer Overflow in gdImagePaletteToTrueColor() resulting in | None | $500 | 1 | [gogil](https://hackerone.com/gogil) | 2019-11-12 |
-| 331 | [168027](../reports/168027.md) | gzdecode does NOT check output string size which leads to an | None | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
+| 312 | [170260](../reports/170260.md) | imap_rfc822_parse_headers GS Violation | None | $500 | 2 | [fms](https://hackerone.com/fms) | 2019-10-31 |
+| 313 | [110722](../reports/110722.md) | Heap BufferOver Flow in escapeshellargs and escapeshellcmd f | None | $500 | 2 | [libnex](https://hackerone.com/libnex) | 2019-11-12 |
+| 314 | [129771](../reports/129771.md) | Python 2.7 strop.replace Integer Overflow | None | $500 | 2 | [johnleitch](https://hackerone.com/johnleitch) | 2016-05-02 |
+| 315 | [161198](../reports/161198.md) | wddx_deserialize null dereference with invalid xml | None | $500 | 2 | [fms](https://hackerone.com/fms) | 2019-10-13 |
+| 316 | [135291](../reports/135291.md) | Out-of-bounds reads in zif_grapheme_stripos with negative of | None | $500 | 2 | [fms](https://hackerone.com/fms) | 2019-10-13 |
+| 317 | [110720](../reports/110720.md) | Arbitary Memory Read via gdImageRotateInterpolated Array Ind | None | $500 | 2 | [libnex](https://hackerone.com/libnex) | 2019-11-12 |
+| 318 | [168029](../reports/168029.md) | ldap_escape could produce string larger than 2Gb | None | $500 | 2 | [jot](https://hackerone.com/jot) | 2019-11-12 |
+| 319 | [117651](../reports/117651.md) | Multiple Heap Overflow due to integer overflows | xml/filter | None | $500 | 2 | [l4w](https://hackerone.com/l4w) | 2019-10-15 |
+| 320 | [167909](../reports/167909.md) | integer overflow in recode_string caused heap corruption | None | $500 | 2 | [minhrau](https://hackerone.com/minhrau) | 2019-11-12 |
+| 321 | [141212](../reports/141212.md) | Integer underflow / arbitrary null write in fread/gzread | None | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-13 |
+| 322 | [153776](../reports/153776.md) | gdImageTrueColorToPaletteBody allows arbitrary write/read ac | None | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-31 |
+| 323 | [143234](../reports/143234.md) | Integer Overflow in _gd2GetHeader() resulting in heap overfl | None | $500 | 1 | [gogil](https://hackerone.com/gogil) | 2019-11-12 |
+| 324 | [161216](../reports/161216.md) | wddx_deserialize null dereference | None | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-31 |
+| 325 | [147125](../reports/147125.md) | Integer Overflow in gdImagePaletteToTrueColor() resulting in | None | $500 | 1 | [gogil](https://hackerone.com/gogil) | 2019-11-12 |
+| 326 | [135294](../reports/135294.md) | xml_parse_into_struct segmentation fault | None | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-13 |
+| 327 | [73259](../reports/73259.md) | Integer overflow in _pickle.c | None | $500 | 1 | [tukan](https://hackerone.com/tukan) | 2015-06-27 |
+| 328 | [152782](../reports/152782.md) | locale_accept_from_http out-of-bounds access | None | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-13 |
+| 329 | [135293](../reports/135293.md) | bcpowmod accepts negative scale and corrupts _one_ definitio | None | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-13 |
+| 330 | [141202](../reports/141202.md) | imagescale out-of-bounds read | None | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-31 |
+| 331 | [152784](../reports/152784.md) | imagegif/output out-of-bounds access | None | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-13 |
 | 332 | [146944](../reports/146944.md) | NULL Pointer Dereference at _gdScaleVert | None | $500 | 1 | [emyei](https://hackerone.com/emyei) | 2019-11-12 |
-| 333 | [168028](../reports/168028.md) | gzuncompress does NOT check output string size which leads t | None | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
-| 334 | [141197](../reports/141197.md) | get_icu_value_internal out-of-bounds read | None | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-13 |
-| 335 | [143234](../reports/143234.md) | Integer Overflow in _gd2GetHeader() resulting in heap overfl | None | $500 | 1 | [gogil](https://hackerone.com/gogil) | 2019-11-12 |
-| 336 | [141212](../reports/141212.md) | Integer underflow / arbitrary null write in fread/gzread | None | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-13 |
-| 337 | [126652](../reports/126652.md) | potential remote code execution with phar archive  | None | $500 | 1 | [vah13](https://hackerone.com/vah13) | 2019-10-13 |
-| 338 | [161216](../reports/161216.md) | wddx_deserialize null dereference | None | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-31 |
-| 339 | [135293](../reports/135293.md) | bcpowmod accepts negative scale and corrupts _one_ definitio | None | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-13 |
-| 340 | [113798](../reports/113798.md) | Null pointer deref with ob_start with compact | None | $500 | 1 | [haquaman](https://hackerone.com/haquaman) | 2019-10-13 |
-| 341 | [104004](../reports/104004.md) | Mem out-of-bounds write (segfault) in ZEND_ASSIGN_DIV_SPEC_C | None | $500 | 0 | [haquaman](https://hackerone.com/haquaman) | 2015-08-02 |
-| 342 | [104013](../reports/104013.md) | heap buffer overflow in enchant_broker_request_dict() | None | $500 | 0 | [sparaschoudis](https://hackerone.com/sparaschoudis) | 2015-01-26 |
-| 343 | [104006](../reports/104006.md) | Null pointer deref (segfault) in spl_autoload via ob_start | None | $500 | 0 | [haquaman](https://hackerone.com/haquaman) | 2015-08-23 |
-| 344 | [104000](../reports/104000.md) | Python xmlparse_setattro() Type Confusion | None | $500 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-09-07 |
-| 345 | [104002](../reports/104002.md) | Python scan_eol() Buffer Over-read | None | $500 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-09-03 |
-| 346 | [104021](../reports/104021.md) | audioop.adpcm2lin Buffer Over-read | None | $500 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-06-28 |
-| 347 | [104022](../reports/104022.md) | hotshot pack_string Heap Buffer Overflow | None | $500 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-06-27 |
-| 348 | [104024](../reports/104024.md) | array.fromstring Use After Free | None | $500 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-07-25 |
-| 349 | [104020](../reports/104020.md) | audioop.lin2adpcm Buffer Over-read | None | $500 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-06-26 |
-| 350 | [104012](../reports/104012.md) | Integer overflow in unserialize() (32-bits only) | None | $500 | 0 | [sparaschoudis](https://hackerone.com/sparaschoudis) | 2015-10-15 |
-| 351 | [104011](../reports/104011.md) | AddressSanitizer reports a global buffer overflow in mkgmtim | None | $500 | 0 | [sparaschoudis](https://hackerone.com/sparaschoudis) | 2015-10-15 |
-| 352 | [104005](../reports/104005.md) | null pointer deref (segfault) in zend_eval_const_expr | None | $500 | 0 | [haquaman](https://hackerone.com/haquaman) | 2015-08-02 |
-| 353 | [104026](../reports/104026.md) | invalid pointer free() in phar_tar_process_metadata() | None | $500 | 0 | [libnex](https://hackerone.com/libnex) | 2015-05-22 |
-| 354 | [104025](../reports/104025.md) | use after free in load_newobj_ex | None | $500 | 0 | [tukan](https://hackerone.com/tukan) | 2015-07-02 |
-| 355 | [104027](../reports/104027.md) | Memory Corruption in phar_parse_tarfile when entry filename  | None | $500 | 0 | [libnex](https://hackerone.com/libnex) | 2015-05-12 |
-| 356 | [103994](../reports/103994.md) | Python 3.3 - 3.5 product_setstate() Out-of-bounds Read | None | $500 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-09-12 |
-| 357 | [104001](../reports/104001.md) | time_strftime() Buffer Over-read | None | $500 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-09-07 |
-| 358 | [114024](../reports/114024.md) | Stack overflow when decompressing tar archives | None | $500 | 0 | [hji](https://hackerone.com/hji) | 2019-11-12 |
-| 359 | [103990](../reports/103990.md) | Null pointer dereference in phar_get_fp_offset() | None | $500 | 0 | [libnex](https://hackerone.com/libnex) | 2015-09-29 |
+| 333 | [168027](../reports/168027.md) | gzdecode does NOT check output string size which leads to an | None | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
+| 334 | [168028](../reports/168028.md) | gzuncompress does NOT check output string size which leads t | None | $500 | 1 | [jot](https://hackerone.com/jot) | 2019-11-12 |
+| 335 | [126652](../reports/126652.md) | potential remote code execution with phar archive  | None | $500 | 1 | [vah13](https://hackerone.com/vah13) | 2019-10-13 |
+| 336 | [141197](../reports/141197.md) | get_icu_value_internal out-of-bounds read | None | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-13 |
+| 337 | [113798](../reports/113798.md) | Null pointer deref with ob_start with compact | None | $500 | 1 | [haquaman](https://hackerone.com/haquaman) | 2019-10-13 |
+| 338 | [146936](../reports/146936.md) | CVE-2015-8874 Stack overflow with imagefilltoborder | None | $500 | 1 | [fms](https://hackerone.com/fms) | 2019-10-13 |
+| 339 | [73257](../reports/73257.md) | PHP yaml_parse/yaml_parse_file/yaml_parse_url Unsafe Deseria | None | $500 | 1 | [johnleitch](https://hackerone.com/johnleitch) | 2015-05-18 |
+| 340 | [113799](../reports/113799.md) | Null pointer deref with ob_start with get_defined_vars | None | $500 | 1 | [haquaman](https://hackerone.com/haquaman) | 2019-10-13 |
+| 341 | [114024](../reports/114024.md) | Stack overflow when decompressing tar archives | None | $500 | 0 | [hji](https://hackerone.com/hji) | 2019-11-12 |
+| 342 | [104024](../reports/104024.md) | array.fromstring Use After Free | None | $500 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-07-25 |
+| 343 | [104004](../reports/104004.md) | Mem out-of-bounds write (segfault) in ZEND_ASSIGN_DIV_SPEC_C | None | $500 | 0 | [haquaman](https://hackerone.com/haquaman) | 2015-08-02 |
+| 344 | [104012](../reports/104012.md) | Integer overflow in unserialize() (32-bits only) | None | $500 | 0 | [sparaschoudis](https://hackerone.com/sparaschoudis) | 2015-10-15 |
+| 345 | [104013](../reports/104013.md) | heap buffer overflow in enchant_broker_request_dict() | None | $500 | 0 | [sparaschoudis](https://hackerone.com/sparaschoudis) | 2015-01-26 |
+| 346 | [104005](../reports/104005.md) | null pointer deref (segfault) in zend_eval_const_expr | None | $500 | 0 | [haquaman](https://hackerone.com/haquaman) | 2015-08-02 |
+| 347 | [104025](../reports/104025.md) | use after free in load_newobj_ex | None | $500 | 0 | [tukan](https://hackerone.com/tukan) | 2015-07-02 |
+| 348 | [104002](../reports/104002.md) | Python scan_eol() Buffer Over-read | None | $500 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-09-03 |
+| 349 | [104022](../reports/104022.md) | hotshot pack_string Heap Buffer Overflow | None | $500 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-06-27 |
+| 350 | [103990](../reports/103990.md) | Null pointer dereference in phar_get_fp_offset() | None | $500 | 0 | [libnex](https://hackerone.com/libnex) | 2015-09-29 |
+| 351 | [104000](../reports/104000.md) | Python xmlparse_setattro() Type Confusion | None | $500 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-09-07 |
+| 352 | [104020](../reports/104020.md) | audioop.lin2adpcm Buffer Over-read | None | $500 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-06-26 |
+| 353 | [104021](../reports/104021.md) | audioop.adpcm2lin Buffer Over-read | None | $500 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-06-28 |
+| 354 | [104001](../reports/104001.md) | time_strftime() Buffer Over-read | None | $500 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-09-07 |
+| 355 | [104026](../reports/104026.md) | invalid pointer free() in phar_tar_process_metadata() | None | $500 | 0 | [libnex](https://hackerone.com/libnex) | 2015-05-22 |
+| 356 | [104006](../reports/104006.md) | Null pointer deref (segfault) in spl_autoload via ob_start | None | $500 | 0 | [haquaman](https://hackerone.com/haquaman) | 2015-08-23 |
+| 357 | [104011](../reports/104011.md) | AddressSanitizer reports a global buffer overflow in mkgmtim | None | $500 | 0 | [sparaschoudis](https://hackerone.com/sparaschoudis) | 2015-10-15 |
+| 358 | [103994](../reports/103994.md) | Python 3.3 - 3.5 product_setstate() Out-of-bounds Read | None | $500 | 0 | [johnleitch](https://hackerone.com/johnleitch) | 2015-09-12 |
+| 359 | [104027](../reports/104027.md) | Memory Corruption in phar_parse_tarfile when entry filename  | None | $500 | 0 | [libnex](https://hackerone.com/libnex) | 2015-05-12 |
 | 360 | [2677187](../reports/2677187.md) | CVE-2024-41937: Apache Airflow: Stored XSS Vulnerability on  | Low | $497 | 70 | [sw0rd1ight](https://hackerone.com/sw0rd1ight) | 2024-09-07 |
 | 361 | [2622671](../reports/2622671.md) | Unbounded memory growth with session handling in TLSv1.3 | Low | $497 | 35 | [manishpatidar](https://hackerone.com/manishpatidar) | 2024-09-22 |
 | 362 | [1551591](../reports/1551591.md) | CVE-2022-27776: Auth/cookie leak on redirect | Low | $480 | 23 | [nyymi](https://hackerone.com/nyymi) | 2022-04-29 |
 | 363 | [1519099](../reports/1519099.md) |  Renderers can obtain access to random bluetooth device with | Low | $480 | 21 | [palmeral](https://hackerone.com/palmeral) | 2022-04-23 |
 | 364 | [1551588](../reports/1551588.md) | CVE-2022-27775: Bad local IPv6 connection reuse | Low | $480 | 19 | [nyymi](https://hackerone.com/nyymi) | 2022-04-29 |
 | 365 | [1773895](../reports/1773895.md) | Leak of sensitive values to Airflow rendered template | Low | $480 | 17 | [jrs53](https://hackerone.com/jrs53) | 2022-12-27 |
-| 366 | [1912783](../reports/1912783.md) | CVE-2023-27538: SSH connection too eager reuse still | Low | $480 | 12 | [nyymi](https://hackerone.com/nyymi) | 2023-04-19 |
-| 367 | [1912782](../reports/1912782.md) | CVE-2023-27536: GSS delegation too eager connection re-use | Low | $480 | 12 | [nyymi](https://hackerone.com/nyymi) | 2023-03-20 |
+| 366 | [1912782](../reports/1912782.md) | CVE-2023-27536: GSS delegation too eager connection re-use | Low | $480 | 12 | [nyymi](https://hackerone.com/nyymi) | 2023-03-20 |
+| 367 | [1912783](../reports/1912783.md) | CVE-2023-27538: SSH connection too eager reuse still | Low | $480 | 12 | [nyymi](https://hackerone.com/nyymi) | 2023-04-19 |
 | 368 | [1614332](../reports/1614332.md) | CVE-2022-32208: FTP-KRB bad message verification | Low | $480 | 11 | [nyymi](https://hackerone.com/nyymi) | 2022-06-27 |
-| 369 | [1912770](../reports/1912770.md) | CVE-2023-27533: TELNET option IAC injection | Low | $480 | 11 | [nyymi](https://hackerone.com/nyymi) | 2023-03-20 |
-| 370 | [1559262](../reports/1559262.md) | rubygems.org Batching attack to `confirmation_token` by bypa | Low | $480 | 11 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2022-07-13 |
+| 369 | [1559262](../reports/1559262.md) | rubygems.org Batching attack to `confirmation_token` by bypa | Low | $480 | 11 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2022-07-13 |
+| 370 | [1912770](../reports/1912770.md) | CVE-2023-27533: TELNET option IAC injection | Low | $480 | 11 | [nyymi](https://hackerone.com/nyymi) | 2023-03-20 |
 | 371 | [1912777](../reports/1912777.md) | CVE-2023-27534: SFTP path ~ resolving discrepancy | Low | $480 | 10 | [nyymi](https://hackerone.com/nyymi) | 2023-03-20 |
-| 372 | [1874715](../reports/1874715.md) | CVE-2023-23914: HSTS ignored on multiple requests | Low | $480 | 8 | [nyymi](https://hackerone.com/nyymi) | 2023-02-24 |
+| 372 | [1874716](../reports/1874716.md) | CVE-2023-23915: HSTS amnesia with --parallel | Low | $480 | 8 | [nyymi](https://hackerone.com/nyymi) | 2023-02-24 |
 | 373 | [1895316](../reports/1895316.md) | CVE-2023-25692: Apache Airflow Google Provider: Google Cloud | Low | $480 | 8 | [sw0rd1ight](https://hackerone.com/sw0rd1ight) | 2023-04-16 |
-| 374 | [1874716](../reports/1874716.md) | CVE-2023-23915: HSTS amnesia with --parallel | Low | $480 | 8 | [nyymi](https://hackerone.com/nyymi) | 2023-02-24 |
+| 374 | [1874715](../reports/1874715.md) | CVE-2023-23914: HSTS ignored on multiple requests | Low | $480 | 8 | [nyymi](https://hackerone.com/nyymi) | 2023-02-24 |
 | 375 | [1990421](../reports/1990421.md) |  CVE-2023-28320 - siglongjmp race condition | Low | $480 | 7 | [nyymi](https://hackerone.com/nyymi) | 2023-05-26 |
 | 376 | [1614328](../reports/1614328.md) | CVE-2022-32205: Set-Cookie denial of service | Low | $480 | 6 | [nyymi](https://hackerone.com/nyymi) | 2022-06-27 |
 | 377 | [2012135](../reports/2012135.md) | [CVE-2023-22799] Possible ReDoS based DoS vulnerability in G | Low | $480 | 4 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2023-07-27 |
 | 378 | [1954937](../reports/1954937.md) | Possible DoS Vulnerability in Multipart MIME parsing in rack | Low | $480 | 3 | [das7pad](https://hackerone.com/das7pad) | 2023-04-27 |
-| 379 | [2012122](../reports/2012122.md) | [CVE-2022-44571] Possible Denial of Service Vulnerability in | Low | $480 | 2 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2023-07-27 |
-| 380 | [2012125](../reports/2012125.md) | [CVE-2022-44572] Possible Denial of Service Vulnerability in | Low | $480 | 2 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2023-07-27 |
+| 379 | [2012125](../reports/2012125.md) | [CVE-2022-44572] Possible Denial of Service Vulnerability in | Low | $480 | 2 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2023-07-27 |
+| 380 | [2012122](../reports/2012122.md) | [CVE-2022-44571] Possible Denial of Service Vulnerability in | Low | $480 | 2 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2023-07-27 |
 | 381 | [2012121](../reports/2012121.md) | [CVE-2022-44570] Possible Denial of Service Vulnerability in | Low | $480 | 2 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2023-07-27 |
 | 382 | [2012131](../reports/2012131.md) | [CVE-2023-22796] Possible ReDoS based DoS vulnerability in A | Low | $480 | 2 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2023-07-27 |
 | 383 | [2451113](../reports/2451113.md) | Proxy-Authorization header not cleared on cross-origin redir | Low | $420 | 54 | [iylz](https://hackerone.com/iylz) | 2024-05-29 |
@@ -396,400 +396,428 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 390 | [1889161](../reports/1889161.md) | JWT audience claim is not verified | Critical — CVSS 9.0 | — | 94 | [farcaller](https://hackerone.com/farcaller) | 2023-04-16 |
 | 391 | [758445](../reports/758445.md) | HTTP Smuggling multiple issues in Squid 3.x & squid 4.x | Critical — CVSS 9.6 | — | 74 | [regilero](https://hackerone.com/regilero) | 2021-08-26 |
 | 392 | [424447](../reports/424447.md) | Integer overflow leading to buffer overflow | Critical — CVSS 9.8 | — | 52 | [jkrshnmenon](https://hackerone.com/jkrshnmenon) | 2019-09-25 |
-| 393 | [824771](../reports/824771.md) | UrnState Heap Overflow | Critical — CVSS 9.8 | — | 29 | [jeriko_one](https://hackerone.com/jeriko_one) | 2021-08-26 |
-| 394 | [824802](../reports/824802.md) | URN Request bypass ACL Checks | Critical — CVSS 9.1 | — | 23 | [jeriko_one](https://hackerone.com/jeriko_one) | 2021-08-26 |
-| 395 | [824203](../reports/824203.md) | Cache Manager ACL Bypass | Critical — CVSS 9.3 | — | 21 | [jeriko_one](https://hackerone.com/jeriko_one) | 2021-08-26 |
-| 396 | [648434](../reports/648434.md) | Multiple HTTP Smuggling reports | Critical — CVSS 9.8 | — | 20 | [regilero](https://hackerone.com/regilero) | 2019-11-12 |
-| 397 | [510887](../reports/510887.md) | [CVE-2018-18312] regcomp: heap-buffer-overflow write / reg_n | Critical — CVSS 9.8 | — | 18 | [etsukata](https://hackerone.com/etsukata) | 2019-09-25 |
-| 398 | [778610](../reports/778610.md) | Squid as reverse proxy RCE and data leak | Critical | — | 17 | [guido](https://hackerone.com/guido) | 2021-08-26 |
-| 399 | [322935](../reports/322935.md) | Exim off-by-one RCE vulnerability | Critical | — | 11 | [mehqq](https://hackerone.com/mehqq) | 2019-09-26 |
-| 400 | [294147](../reports/294147.md) | Mercurial git subrepo lead to arbritary command injection | Critical | — | 9 | [criticalonly](https://hackerone.com/criticalonly) | 2019-09-26 |
-| 401 | [510888](../reports/510888.md) | [CVE-2018-18313] regcomp: heap-buffer-overflow read in S_gro | Critical — CVSS 9.1 | — | 7 | [etsukata](https://hackerone.com/etsukata) | 2019-09-25 |
-| 402 | [800324](../reports/800324.md) | Several protocol parsers in before 4.9.2 could cause a buffe | Critical — CVSS 9.8 | — | 7 | [bags](https://hackerone.com/bags) | 2021-08-22 |
+| 393 | [304378](../reports/304378.md) | ACME TLS-SNI-01/02 challenge vulnerable when combined with s | Critical — CVSS 9.9 | — | 35 | [fransrosen](https://hackerone.com/fransrosen) | 2018-05-19 |
+| 394 | [824771](../reports/824771.md) | UrnState Heap Overflow | Critical — CVSS 9.8 | — | 29 | [jeriko_one](https://hackerone.com/jeriko_one) | 2021-08-26 |
+| 395 | [824802](../reports/824802.md) | URN Request bypass ACL Checks | Critical — CVSS 9.1 | — | 23 | [jeriko_one](https://hackerone.com/jeriko_one) | 2021-08-26 |
+| 396 | [824203](../reports/824203.md) | Cache Manager ACL Bypass | Critical — CVSS 9.3 | — | 21 | [jeriko_one](https://hackerone.com/jeriko_one) | 2021-08-26 |
+| 397 | [648434](../reports/648434.md) | Multiple HTTP Smuggling reports | Critical — CVSS 9.8 | — | 20 | [regilero](https://hackerone.com/regilero) | 2019-11-12 |
+| 398 | [510887](../reports/510887.md) | [CVE-2018-18312] regcomp: heap-buffer-overflow write / reg_n | Critical — CVSS 9.8 | — | 18 | [etsukata](https://hackerone.com/etsukata) | 2019-09-25 |
+| 399 | [778610](../reports/778610.md) | Squid as reverse proxy RCE and data leak | Critical | — | 17 | [guido](https://hackerone.com/guido) | 2021-08-26 |
+| 400 | [322935](../reports/322935.md) | Exim off-by-one RCE vulnerability | Critical | — | 11 | [mehqq](https://hackerone.com/mehqq) | 2019-09-26 |
+| 401 | [294147](../reports/294147.md) | Mercurial git subrepo lead to arbritary command injection | Critical | — | 9 | [criticalonly](https://hackerone.com/criticalonly) | 2019-09-26 |
+| 402 | [724217](../reports/724217.md) | tcpdump: CVE-2018-14879 - buffer overflow in tcpdump.c:get_n | Critical | — | 7 | [geeknik](https://hackerone.com/geeknik) | 2020-02-13 |
 | 403 | [475499](../reports/475499.md) | heap buffer overflow in phar_detect_phar_fname_ext | Critical — CVSS 9.8 | — | 7 | [chihuahua](https://hackerone.com/chihuahua) | 2020-10-10 |
-| 404 | [724217](../reports/724217.md) | tcpdump: CVE-2018-14879 - buffer overflow in tcpdump.c:get_n | Critical | — | 7 | [geeknik](https://hackerone.com/geeknik) | 2020-02-13 |
-| 405 | [296991](../reports/296991.md) | Exim use-after-free vulnerability while reading mail header  | Critical — CVSS 9.8 | — | 6 | [mehqq](https://hackerone.com/mehqq) | 2019-11-12 |
-| 406 | [192512](../reports/192512.md) | RCE on default Ubuntu Desktop >= 12.10 Quantal | Critical — CVSS 9.6 | — | 6 | [donnchac](https://hackerone.com/donnchac) | 2019-11-12 |
-| 407 | [329645](../reports/329645.md) | Silent omission of certificate hostname verification in Libr | Critical — CVSS 9.1 | — | 4 | [tiran](https://hackerone.com/tiran) | 2019-09-26 |
-| 408 | [816637](../reports/816637.md) | CVE-2020-10938-buffer overflow/out-of-bounds write in compre | Critical — CVSS 9.8 | — | 1 | [nathaniellives](https://hackerone.com/nathaniellives) | 2021-08-22 |
-| 409 | [510336](../reports/510336.md) | Uninitialized read in exif_process_IFD_in_TIFF | Critical — CVSS 9.8 | — | 0 | [chamal](https://hackerone.com/chamal) | 2020-10-10 |
-| 410 | [496285](../reports/496285.md) | Ubuntu Linux privilege escalation (dirty_sock) | High — CVSS 7.8 | — | 102 | [initstring](https://hackerone.com/initstring) | 2019-08-28 |
-| 411 | [477344](../reports/477344.md) | Heap Buffer Overflow (READ: 4) in phar_parse_pharfile | High — CVSS 7.5 | — | 72 | [cy1337](https://hackerone.com/cy1337) | 2020-10-10 |
-| 412 | [198734](../reports/198734.md) | GMP Deserialization Type Confusion Vulnerability [MyBB <= 1. | High | — | 68 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 413 | [2882887](../reports/2882887.md) | CVE-2024-53908: Django Potential SQL injection in `HasKey(lh | High | — | 61 | [scyoon](https://hackerone.com/scyoon) | 2025-02-07 |
-| 414 | [1492896](../reports/1492896.md) | CVE-2022-24288: Apache Airflow: TWO RCEs in example DAGs | High | — | 46 | [x_h1](https://hackerone.com/x_h1) | 2022-04-01 |
-| 415 | [505278](../reports/505278.md) | DOS in stream filters | High — CVSS 7.5 | — | 44 | [meitis](https://hackerone.com/meitis) | 2020-10-12 |
-| 416 | [1113025](../reports/1113025.md) | Integer overflow in CipherUpdate | High — CVSS 7.5 | — | 43 | [reaperhulk](https://hackerone.com/reaperhulk) | 2021-04-08 |
-| 417 | [838127](../reports/838127.md) | mb_strtolower (UTF-32LE): stack-buffer-overflow at php_unico | High | — | 40 | [anatoliq](https://hackerone.com/anatoliq) | 2020-10-21 |
-| 418 | [260005](../reports/260005.md) | RCE via ssh:// URIs in multiple VCS  | High — CVSS 8.8 | — | 39 | [joernchen](https://hackerone.com/joernchen) | 2017-09-21 |
-| 419 | [1434056](../reports/1434056.md) | Buffer overflow in req_parsebody method in lua_request.c | High | — | 36 | [chamal](https://hackerone.com/chamal) | 2022-01-04 |
-| 420 | [295339](../reports/295339.md) | Mailsploit: a sender spoofing bug in over 30 email clients | High — CVSS 7.4 | — | 29 | [pwnsdx](https://hackerone.com/pwnsdx) | 2019-09-19 |
-| 421 | [477073](../reports/477073.md) | ZeroMQ libzmq remote code execution | High — CVSS 8.8 | — | 29 | [guido](https://hackerone.com/guido) | 2019-09-12 |
-| 422 | [242579](../reports/242579.md) | 4 severe remote + several minor OpenVPN vulnerabilities | High | — | 27 | [guido](https://hackerone.com/guido) | 2019-10-14 |
-| 423 | [2905013](../reports/2905013.md) | [SECURITY] CVE-2024-50379 Apache Tomcat - RCE via write-enab | High | — | 24 | [nacl_123](https://hackerone.com/nacl_123) | 2025-05-27 |
-| 424 | [337986](../reports/337986.md) | CVE-2018-6797:  A crafted regular expression can cause a hea | High — CVSS 7.0 | — | 23 | [geeknik](https://hackerone.com/geeknik) | 2018-05-19 |
-| 425 | [1671140](../reports/1671140.md) | CVE-2022-38362: Apache Airflow Docker Provider <3.0 RCE vuln | High — CVSS 8.8 | — | 22 | [x_h1](https://hackerone.com/x_h1) | 2022-09-23 |
-| 426 | [789034](../reports/789034.md) | Buffer Overflow in ext_lm_group_acl helper | High — CVSS 7.5 | — | 18 | [aaron_costello](https://hackerone.com/aaron_costello) | 2021-07-28 |
-| 427 | [1636566](../reports/1636566.md) | Node.js - DLL Hijacking on Windows | High — CVSS 7.2 | — | 17 | [yakirka](https://hackerone.com/yakirka) | 2022-07-25 |
-| 428 | [641240](../reports/641240.md) | Basic Authentication Heap Overflow | High — CVSS 8.8 | — | 14 | [jeriko_one](https://hackerone.com/jeriko_one) | 2021-08-26 |
+| 404 | [510888](../reports/510888.md) | [CVE-2018-18313] regcomp: heap-buffer-overflow read in S_gro | Critical — CVSS 9.1 | — | 7 | [etsukata](https://hackerone.com/etsukata) | 2019-09-25 |
+| 405 | [800324](../reports/800324.md) | Several protocol parsers in before 4.9.2 could cause a buffe | Critical — CVSS 9.8 | — | 7 | [bags](https://hackerone.com/bags) | 2021-08-22 |
+| 406 | [296991](../reports/296991.md) | Exim use-after-free vulnerability while reading mail header  | Critical — CVSS 9.8 | — | 6 | [mehqq](https://hackerone.com/mehqq) | 2019-11-12 |
+| 407 | [192512](../reports/192512.md) | RCE on default Ubuntu Desktop >= 12.10 Quantal | Critical — CVSS 9.6 | — | 6 | [donnchac](https://hackerone.com/donnchac) | 2019-11-12 |
+| 408 | [329645](../reports/329645.md) | Silent omission of certificate hostname verification in Libr | Critical — CVSS 9.1 | — | 4 | [tiran](https://hackerone.com/tiran) | 2019-09-26 |
+| 409 | [816637](../reports/816637.md) | CVE-2020-10938-buffer overflow/out-of-bounds write in compre | Critical — CVSS 9.8 | — | 1 | [nathaniellives](https://hackerone.com/nathaniellives) | 2021-08-22 |
+| 410 | [510336](../reports/510336.md) | Uninitialized read in exif_process_IFD_in_TIFF | Critical — CVSS 9.8 | — | 0 | [chamal](https://hackerone.com/chamal) | 2020-10-10 |
+| 411 | [496285](../reports/496285.md) | Ubuntu Linux privilege escalation (dirty_sock) | High — CVSS 7.8 | — | 102 | [initstring](https://hackerone.com/initstring) | 2019-08-28 |
+| 412 | [477344](../reports/477344.md) | Heap Buffer Overflow (READ: 4) in phar_parse_pharfile | High — CVSS 7.5 | — | 72 | [cy1337](https://hackerone.com/cy1337) | 2020-10-10 |
+| 413 | [198734](../reports/198734.md) | GMP Deserialization Type Confusion Vulnerability [MyBB <= 1. | High | — | 68 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 414 | [2882887](../reports/2882887.md) | CVE-2024-53908: Django Potential SQL injection in `HasKey(lh | High | — | 61 | [scyoon](https://hackerone.com/scyoon) | 2025-02-07 |
+| 415 | [1492896](../reports/1492896.md) | CVE-2022-24288: Apache Airflow: TWO RCEs in example DAGs | High | — | 46 | [x_h1](https://hackerone.com/x_h1) | 2022-04-01 |
+| 416 | [505278](../reports/505278.md) | DOS in stream filters | High — CVSS 7.5 | — | 44 | [meitis](https://hackerone.com/meitis) | 2020-10-12 |
+| 417 | [1113025](../reports/1113025.md) | Integer overflow in CipherUpdate | High — CVSS 7.5 | — | 43 | [reaperhulk](https://hackerone.com/reaperhulk) | 2021-04-08 |
+| 418 | [838127](../reports/838127.md) | mb_strtolower (UTF-32LE): stack-buffer-overflow at php_unico | High | — | 40 | [anatoliq](https://hackerone.com/anatoliq) | 2020-10-21 |
+| 419 | [260005](../reports/260005.md) | RCE via ssh:// URIs in multiple VCS  | High — CVSS 8.8 | — | 39 | [joernchen](https://hackerone.com/joernchen) | 2017-09-21 |
+| 420 | [1434056](../reports/1434056.md) | Buffer overflow in req_parsebody method in lua_request.c | High | — | 36 | [chamal](https://hackerone.com/chamal) | 2022-01-04 |
+| 421 | [295339](../reports/295339.md) | Mailsploit: a sender spoofing bug in over 30 email clients | High — CVSS 7.4 | — | 29 | [pwnsdx](https://hackerone.com/pwnsdx) | 2019-09-19 |
+| 422 | [477073](../reports/477073.md) | ZeroMQ libzmq remote code execution | High — CVSS 8.8 | — | 29 | [guido](https://hackerone.com/guido) | 2019-09-12 |
+| 423 | [242579](../reports/242579.md) | 4 severe remote + several minor OpenVPN vulnerabilities | High | — | 27 | [guido](https://hackerone.com/guido) | 2019-10-14 |
+| 424 | [2905013](../reports/2905013.md) | [SECURITY] CVE-2024-50379 Apache Tomcat - RCE via write-enab | High | — | 24 | [nacl_123](https://hackerone.com/nacl_123) | 2025-05-27 |
+| 425 | [337986](../reports/337986.md) | CVE-2018-6797:  A crafted regular expression can cause a hea | High — CVSS 7.0 | — | 23 | [geeknik](https://hackerone.com/geeknik) | 2018-05-19 |
+| 426 | [1671140](../reports/1671140.md) | CVE-2022-38362: Apache Airflow Docker Provider <3.0 RCE vuln | High — CVSS 8.8 | — | 22 | [x_h1](https://hackerone.com/x_h1) | 2022-09-23 |
+| 427 | [789034](../reports/789034.md) | Buffer Overflow in ext_lm_group_acl helper | High — CVSS 7.5 | — | 18 | [aaron_costello](https://hackerone.com/aaron_costello) | 2021-07-28 |
+| 428 | [1636566](../reports/1636566.md) | Node.js - DLL Hijacking on Windows | High — CVSS 7.2 | — | 17 | [yakirka](https://hackerone.com/yakirka) | 2022-07-25 |
 | 429 | [495495](../reports/495495.md) | CVE-2019-5736: Escape from Docker and Kubernetes containers  | High — CVSS 8.6 | — | 14 | [adam_iwaniuk](https://hackerone.com/adam_iwaniuk) | 2019-09-26 |
-| 430 | [824753](../reports/824753.md) | Cache Poisoning | High — CVSS 8.8 | — | 14 | [jeriko_one](https://hackerone.com/jeriko_one) | 2021-08-26 |
-| 431 | [456727](../reports/456727.md) | null pointer dereference in imap_mail | High — CVSS 7.5 | — | 13 | [shuoz](https://hackerone.com/shuoz) | 2020-11-09 |
-| 432 | [824163](../reports/824163.md) | Squid leaks previous content from reusable buffer | High — CVSS 8.8 | — | 12 | [jeriko_one](https://hackerone.com/jeriko_one) | 2021-08-26 |
-| 433 | [268805](../reports/268805.md) | CVE-2017-13008 The IEEE 802.11 parser in tcpdump before 4.9. | High — CVSS 7.3 | — | 11 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
-| 434 | [684567](../reports/684567.md) | Linux kernel: CVE-2017-7308: a signedness issue in AF_PACKET | High — CVSS 7.8 | — | 10 | [xairy](https://hackerone.com/xairy) | 2019-09-11 |
-| 435 | [684573](../reports/684573.md) | Linux kernel: CVE-2017-1000112: a memory corruption due to U | High — CVSS 7.0 | — | 9 | [xairy](https://hackerone.com/xairy) | 2019-09-11 |
-| 436 | [506040](../reports/506040.md) | ChaCha20-Poly1305 with long nonces | High — CVSS 7.4 | — | 8 | [jorandirkgreef](https://hackerone.com/jorandirkgreef) | 2019-09-30 |
-| 437 | [347282](../reports/347282.md) | Linux kernel: CVE-2017-6074: DCCP double-free vulnerability | High — CVSS 7.8 | — | 8 | [xairy](https://hackerone.com/xairy) | 2019-08-27 |
-| 438 | [802846](../reports/802846.md) |  The VTP parser in tcpdump before 4.9.2 has a buffer over-re | High | — | 7 | [bags](https://hackerone.com/bags) | 2021-08-22 |
-| 439 | [268804](../reports/268804.md) | CVE-2017-12986 The IPv6 routing header parser in tcpdump bef | High — CVSS 7.3 | — | 7 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
-| 440 | [1889474](../reports/1889474.md) | Ruby's CGI library has HTTP response splitting (HTTP header  | High | — | 7 | [ht0k](https://hackerone.com/ht0k) | 2023-04-09 |
-| 441 | [1511619](../reports/1511619.md) | Read and write beyond bounds in mod_sed | High | — | 6 | [tdp3kel9g](https://hackerone.com/tdp3kel9g) | 2022-04-14 |
-| 442 | [510025](../reports/510025.md) | Invalid Read on exif_process_SOFn | High — CVSS 7.5 | — | 6 | [chamal](https://hackerone.com/chamal) | 2020-10-10 |
-| 443 | [216840](../reports/216840.md) | OCSP Status Request extension unbounded memory growth (CVE-2 | High | — | 5 | [theyarestone](https://hackerone.com/theyarestone) | 2017-04-12 |
-| 444 | [202967](../reports/202967.md) | CVE-2017-5484 The ATM parser in tcpdump before 4.9.0 has a b | High — CVSS 7.3 | — | 5 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
-| 445 | [212931](../reports/212931.md) | heap-buffer-overflow (buffer read overrun) in curl: ourWrite | High | — | 5 | [geeknik](https://hackerone.com/geeknik) | 2018-05-16 |
-| 446 | [202965](../reports/202965.md) | CVE-2017-5341 The OTV parser in tcpdump before 4.9.0 has a b | High — CVSS 7.3 | — | 5 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
-| 447 | [247028](../reports/247028.md) | CVE-2017-10966: Heap-use-after-free in Irssi <1.0.4 | High | — | 5 | [geeknik](https://hackerone.com/geeknik) | 2019-10-14 |
-| 448 | [480778](../reports/480778.md) | Heap-buffer-overflow in Perl__byte_dump_string (utf8.c) coul | High — CVSS 7.5 | — | 4 | [tmnt53](https://hackerone.com/tmnt53) | 2019-10-24 |
-| 449 | [802863](../reports/802863.md) | CVE-2017-13050: The RPKI-Router parser in tcpdump before 4.9 | High | — | 4 | [bags](https://hackerone.com/bags) | 2021-08-22 |
-| 450 | [268807](../reports/268807.md) | CVE-2017-13010 The BEEP parser in tcpdump before 4.9.2 has a | High — CVSS 7.3 | — | 4 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
-| 451 | [268806](../reports/268806.md) | CVE-2017-13009 The IPv6 mobility parser in tcpdump before 4. | High — CVSS 7.3 | — | 4 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
-| 452 | [2104564](../reports/2104564.md) | (CVE-2023-32004) Permission model bypass by specifying a pat | High | — | 4 | [haxatron1](https://hackerone.com/haxatron1) | 2023-10-07 |
-| 453 | [202960](../reports/202960.md) | CVE-2017-5204: The IPv6 parser in tcpdump before 4.9.0 has a | High — CVSS 7.3 | — | 3 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
-| 454 | [268808](../reports/268808.md) | CVE-2017-13038 The PPP parser in tcpdump before 4.9.2 has a  | High — CVSS 7.3 | — | 3 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
-| 455 | [1047086](../reports/1047086.md) | Heap buffer overflow vulnerability while processing a malfor | High — CVSS 8.6 | — | 3 | [hardik05](https://hackerone.com/hardik05) | 2021-07-09 |
-| 456 | [222020](../reports/222020.md) | Mercurial can be tricked into granting authorized users acce | High | — | 3 | [claudijd](https://hackerone.com/claudijd) | 2017-07-12 |
+| 430 | [641240](../reports/641240.md) | Basic Authentication Heap Overflow | High — CVSS 8.8 | — | 14 | [jeriko_one](https://hackerone.com/jeriko_one) | 2021-08-26 |
+| 431 | [824753](../reports/824753.md) | Cache Poisoning | High — CVSS 8.8 | — | 14 | [jeriko_one](https://hackerone.com/jeriko_one) | 2021-08-26 |
+| 432 | [456727](../reports/456727.md) | null pointer dereference in imap_mail | High — CVSS 7.5 | — | 13 | [shuoz](https://hackerone.com/shuoz) | 2020-11-09 |
+| 433 | [824163](../reports/824163.md) | Squid leaks previous content from reusable buffer | High — CVSS 8.8 | — | 12 | [jeriko_one](https://hackerone.com/jeriko_one) | 2021-08-26 |
+| 434 | [268805](../reports/268805.md) | CVE-2017-13008 The IEEE 802.11 parser in tcpdump before 4.9. | High — CVSS 7.3 | — | 11 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
+| 435 | [608620](../reports/608620.md) | Industry-Wide MITM Vulnerability Impacting the JVM Ecosystem | High — CVSS 7.1 | — | 11 | [jlleitschuh](https://hackerone.com/jlleitschuh) | 2019-09-10 |
+| 436 | [235016](../reports/235016.md) | rpcbind "rpcbomb" CVE-2017-8779, CVE-2017-8804 | High — CVSS 7.5 | — | 10 | [guido](https://hackerone.com/guido) | 2019-10-14 |
+| 437 | [684567](../reports/684567.md) | Linux kernel: CVE-2017-7308: a signedness issue in AF_PACKET | High — CVSS 7.8 | — | 10 | [xairy](https://hackerone.com/xairy) | 2019-09-11 |
+| 438 | [684573](../reports/684573.md) | Linux kernel: CVE-2017-1000112: a memory corruption due to U | High — CVSS 7.0 | — | 9 | [xairy](https://hackerone.com/xairy) | 2019-09-11 |
+| 439 | [506040](../reports/506040.md) | ChaCha20-Poly1305 with long nonces | High — CVSS 7.4 | — | 8 | [jorandirkgreef](https://hackerone.com/jorandirkgreef) | 2019-09-30 |
+| 440 | [347282](../reports/347282.md) | Linux kernel: CVE-2017-6074: DCCP double-free vulnerability | High — CVSS 7.8 | — | 8 | [xairy](https://hackerone.com/xairy) | 2019-08-27 |
+| 441 | [268804](../reports/268804.md) | CVE-2017-12986 The IPv6 routing header parser in tcpdump bef | High — CVSS 7.3 | — | 7 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
+| 442 | [1889474](../reports/1889474.md) | Ruby's CGI library has HTTP response splitting (HTTP header  | High | — | 7 | [ht0k](https://hackerone.com/ht0k) | 2023-04-09 |
+| 443 | [802846](../reports/802846.md) |  The VTP parser in tcpdump before 4.9.2 has a buffer over-re | High | — | 7 | [bags](https://hackerone.com/bags) | 2021-08-22 |
+| 444 | [510025](../reports/510025.md) | Invalid Read on exif_process_SOFn | High — CVSS 7.5 | — | 6 | [chamal](https://hackerone.com/chamal) | 2020-10-10 |
+| 445 | [1511619](../reports/1511619.md) | Read and write beyond bounds in mod_sed | High | — | 6 | [tdp3kel9g](https://hackerone.com/tdp3kel9g) | 2022-04-14 |
+| 446 | [247028](../reports/247028.md) | CVE-2017-10966: Heap-use-after-free in Irssi <1.0.4 | High | — | 5 | [geeknik](https://hackerone.com/geeknik) | 2019-10-14 |
+| 447 | [202967](../reports/202967.md) | CVE-2017-5484 The ATM parser in tcpdump before 4.9.0 has a b | High — CVSS 7.3 | — | 5 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
+| 448 | [212931](../reports/212931.md) | heap-buffer-overflow (buffer read overrun) in curl: ourWrite | High | — | 5 | [geeknik](https://hackerone.com/geeknik) | 2018-05-16 |
+| 449 | [216840](../reports/216840.md) | OCSP Status Request extension unbounded memory growth (CVE-2 | High | — | 5 | [theyarestone](https://hackerone.com/theyarestone) | 2017-04-12 |
+| 450 | [202965](../reports/202965.md) | CVE-2017-5341 The OTV parser in tcpdump before 4.9.0 has a b | High — CVSS 7.3 | — | 5 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
+| 451 | [802863](../reports/802863.md) | CVE-2017-13050: The RPKI-Router parser in tcpdump before 4.9 | High | — | 4 | [bags](https://hackerone.com/bags) | 2021-08-22 |
+| 452 | [270059](../reports/270059.md) | Denial of service in libxml2, using malicious lzma file to c | High | — | 4 | [geeknik](https://hackerone.com/geeknik) | 2019-10-04 |
+| 453 | [480778](../reports/480778.md) | Heap-buffer-overflow in Perl__byte_dump_string (utf8.c) coul | High — CVSS 7.5 | — | 4 | [tmnt53](https://hackerone.com/tmnt53) | 2019-10-24 |
+| 454 | [2104564](../reports/2104564.md) | (CVE-2023-32004) Permission model bypass by specifying a pat | High | — | 4 | [haxatron1](https://hackerone.com/haxatron1) | 2023-10-07 |
+| 455 | [268807](../reports/268807.md) | CVE-2017-13010 The BEEP parser in tcpdump before 4.9.2 has a | High — CVSS 7.3 | — | 4 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
+| 456 | [268806](../reports/268806.md) | CVE-2017-13009 The IPv6 mobility parser in tcpdump before 4. | High — CVSS 7.3 | — | 4 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
 | 457 | [677557](../reports/677557.md) | mod_http2, memory corruption on early pushes (CVE-2019-10081 | High — CVSS 8.6 | — | 3 | [cy1337](https://hackerone.com/cy1337) | 2019-10-15 |
-| 458 | [296994](../reports/296994.md) | Exim handles BDAT data incorrectly and leads to crash/hang | High — CVSS 7.5 | — | 3 | [mehqq](https://hackerone.com/mehqq) | 2019-11-12 |
-| 459 | [247027](../reports/247027.md) | CVE-2017-10965: Null pointer dereference in Irssi <1.0.4  | High | — | 3 | [geeknik](https://hackerone.com/geeknik) | 2019-10-04 |
-| 460 | [295740](../reports/295740.md) | GarlicRust - heartbleed style vulnerability in major I2P C++ | High — CVSS 7.7 | — | 3 | [aerodudrizzt](https://hackerone.com/aerodudrizzt) | 2019-11-12 |
-| 461 | [227344](../reports/227344.md) | CVE-2017-8798 - miniupnp getHTTPResponse chunked encoding in | High — CVSS 7.1 | — | 2 | [hxd](https://hackerone.com/hxd) | 2019-11-12 |
-| 462 | [802896](../reports/802896.md) | CVE-2017-13019:  The PGM parser in tcpdump before 4.9.2 has  | High | — | 2 | [bags](https://hackerone.com/bags) | 2021-08-22 |
-| 463 | [202969](../reports/202969.md) | CVE-2017-5482 The Q.933 parser in tcpdump before 4.9.0 has a | High — CVSS 7.3 | — | 2 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
-| 464 | [202968](../reports/202968.md) | CVE-2017-5342 In tcpdump before 4.9.0 a bug in multiple prot | High — CVSS 7.3 | — | 2 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
-| 465 | [3023605](../reports/3023605.md) | [CVE-2025-27220] ReDoS in CGI::Util#escapeElement | High — CVSS 7.5 | — | 2 | [svalkanov](https://hackerone.com/svalkanov) | 2025-04-30 |
-| 466 | [268803](../reports/268803.md) | CVE-2017-12985: The IPv6 parser in tcpdump before 4.9.2 has  | High — CVSS 7.3 | — | 2 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
-| 467 | [516237](../reports/516237.md) | Uninitialized read in exif_process_IFD_in_MAKERNOTE | High — CVSS 7.5 | — | 1 | [chamal](https://hackerone.com/chamal) | 2020-10-10 |
-| 468 | [590020](../reports/590020.md) | CRLF Injection in urllib | Medium — CVSS 6.1 | — | 340 | [push0ebp](https://hackerone.com/push0ebp) | 2020-05-06 |
-| 469 | [286740](../reports/286740.md) | Key Reinstallation Attacks: Breaking WPA2 by forcing nonce r | Medium — CVSS 6.8 | — | 191 | [vanhoefm](https://hackerone.com/vanhoefm) | 2017-11-03 |
-| 470 | [705420](../reports/705420.md) | A reflected XSS in python/Lib/DocXMLRPCServer.py | Medium — CVSS 6.5 | — | 118 | [longwenzhang](https://hackerone.com/longwenzhang) | 2019-10-19 |
-| 471 | [2828271](../reports/2828271.md) | Apache Airflow: Sensitive Information Exposure in DAG Run Lo | Medium | — | 112 | [saurabhb](https://hackerone.com/saurabhb) | 2024-12-30 |
-| 472 | [176279](../reports/176279.md) | Heap overflow in mysqlnd related to BIT fields (CVE-2016-741 | Medium | — | 50 | [mongo](https://hackerone.com/mongo) | 2019-11-12 |
-| 473 | [55140](../reports/55140.md) | Race Conditions in OAuth 2 API implementations | Medium | — | 48 | [dor1s](https://hackerone.com/dor1s) | 2017-09-19 |
-| 474 | [2872502](../reports/2872502.md) | Possible ReDoS vulnerability in query parameter filtering in | Medium | — | 44 | [scyoon](https://hackerone.com/scyoon) | 2025-03-07 |
-| 475 | [2442613](../reports/2442613.md) | CVE-2024-2398: HTTP/2 push headers memory-leak | Medium | — | 42 | [w0x42](https://hackerone.com/w0x42) | 2024-04-22 |
-| 476 | [384477](../reports/384477.md) | Int Overflow lead to Heap OverFlow in exif_thumbnail_extract | Medium — CVSS 5.3 | — | 42 | [md4](https://hackerone.com/md4) | 2019-10-21 |
-| 477 | [2262939](../reports/2262939.md) | Misconfiguration in AWS CloudFront CDN configuration makes r | Medium | — | 37 | [p4fg](https://hackerone.com/p4fg) | 2023-12-07 |
-| 478 | [1210450](../reports/1210450.md) | 1-byte heap buffer overflow in DNS resolver | Medium | — | 34 | [luismerino](https://hackerone.com/luismerino) | 2021-08-27 |
-| 479 | [2807139](../reports/2807139.md) | CVE-2024-49761: ReDoS vulnerability in REXML | Medium | — | 33 | [manun](https://hackerone.com/manun) | 2024-11-30 |
-| 480 | [2401359](../reports/2401359.md) | CVE-2024-25128: Apache Airflow: Authentication Bypass when L | Medium | — | 32 | [parantheses](https://hackerone.com/parantheses) | 2024-04-28 |
-| 481 | [2939077](../reports/2939077.md) | CVE-2024-56374 Potential denial-of-service in IPv6 validatio | Medium | — | 29 | [0xsaravana](https://hackerone.com/0xsaravana) | 2025-02-06 |
-| 482 | [1565615](../reports/1565615.md) | CVE-2022-27779: cookie for trailing dot TLD | Medium | — | 27 | [haxatron1](https://hackerone.com/haxatron1) | 2022-06-11 |
-| 483 | [2931688](../reports/2931688.md) | ActionView sanitize helper bypass with 'style' and 'svg' tag | Medium — CVSS 6.1 | — | 25 | [taise](https://hackerone.com/taise) | 2025-02-06 |
-| 484 | [2294709](../reports/2294709.md) | CVE-2023-49920: Apache Airflow: Missing CSRF protection on D | Medium — CVSS 5.3 | — | 24 | [itztrq](https://hackerone.com/itztrq) | 2024-01-09 |
-| 485 | [3108869](../reports/3108869.md) | Denial of Service by memory exhaustion in net/imap | Medium | — | 23 | [masamune_](https://hackerone.com/masamune_) | 2025-04-27 |
-| 486 | [2931710](../reports/2931710.md) | #2931639   ActionView sanitize helper bypass with math-relat | Medium — CVSS 6.1 | — | 22 | [mokusou](https://hackerone.com/mokusou) | 2025-02-06 |
-| 487 | [241610](../reports/241610.md) | ap_find_token() Buffer Overread | Medium — CVSS 6.5 | — | 22 | [javier_sensepost](https://hackerone.com/javier_sensepost) | 2017-08-10 |
-| 488 | [2931691](../reports/2931691.md) | ActionView sanitize helper bypass with noscript | Medium — CVSS 6.1 | — | 22 | [taise](https://hackerone.com/taise) | 2025-02-06 |
-| 489 | [2931636](../reports/2931636.md) |  ActionView sanitize helper bypass with style and math | Medium — CVSS 6.1 | — | 20 | [mokusou](https://hackerone.com/mokusou) | 2025-02-06 |
-| 490 | [2402193](../reports/2402193.md) | CVE-2024-27351: Potential regular expression denial-of-servi | Medium | — | 20 | [scyoon](https://hackerone.com/scyoon) | 2024-04-28 |
-| 491 | [1782514](../reports/1782514.md) | CVE-2022-45402: Apache Airflow: Open redirect during login | Medium | — | 19 | [bugra](https://hackerone.com/bugra) | 2022-12-01 |
-| 492 | [2931639](../reports/2931639.md) | ActionView sanitize helper bypass with style | Medium — CVSS 6.1 | — | 19 | [mokusou](https://hackerone.com/mokusou) | 2025-02-06 |
-| 493 | [3013913](../reports/3013913.md) | [CVE-2025-27219] Denial of Service in CGI::Cookie.parse | Medium | — | 19 | [lio346](https://hackerone.com/lio346) | 2025-04-27 |
-| 494 | [2987782](../reports/2987782.md) | Possible DoS by memory exhaustion in net/imap  | Medium | — | 18 | [manun](https://hackerone.com/manun) | 2025-04-27 |
-| 495 | [2209665](../reports/2209665.md) | Secrets can be unmasked in the "Rendered Template" | Medium — CVSS 6.5 | — | 17 | [klexadoc](https://hackerone.com/klexadoc) | 2023-11-29 |
-| 496 | [1647287](../reports/1647287.md) | Disabling context isolation, nodeIntegrationInSubFrames usin | Medium | — | 16 | [s1r1u5](https://hackerone.com/s1r1u5) | 2022-08-11 |
-| 497 | [259390](../reports/259390.md) | Use-after-free in XML::LibXML::Node::replaceChild | Medium — CVSS 5.6 | — | 15 | [mipu94](https://hackerone.com/mipu94) | 2017-09-16 |
-| 498 | [384839](../reports/384839.md) | DoS for HTTP/2 connections by crafted requests (CVE-2018-133 | Medium — CVSS 5.3 | — | 15 | [cy1337](https://hackerone.com/cy1337) | 2018-10-28 |
-| 499 | [1552110](../reports/1552110.md) | OAUTH2 bearer not-checked for connection re-use | Medium | — | 14 | [monnerat](https://hackerone.com/monnerat) | 2022-04-29 |
-| 500 | [384214](../reports/384214.md) | heap-buffer-overflow (READ of size 48) in exif_read_data() | Medium | — | 13 | [geeknik](https://hackerone.com/geeknik) | 2018-09-01 |
-| 501 | [371135](../reports/371135.md) | CVE-2018-12882: heap-use-after-free in PHP 7.2 through 7.2.6 | Medium | — | 13 | [geeknik](https://hackerone.com/geeknik) | 2018-09-01 |
-| 502 | [195586](../reports/195586.md) | Memory corruption when parsing a hostile PHAR archive | Medium | — | 12 | [aerodudrizzt](https://hackerone.com/aerodudrizzt) | 2019-10-13 |
-| 503 | [1753226](../reports/1753226.md) | CVE-2022-42916: HSTS bypass via IDN | Medium | — | 12 | [kurohiro](https://hackerone.com/kurohiro) | 2022-11-03 |
-| 504 | [1787810](../reports/1787810.md) | Electron CVE-2022-35954 Delimiter Injection Vulnerability in | Medium | — | 12 | [hackeronanywhere](https://hackerone.com/hackeronanywhere) | 2022-12-14 |
-| 505 | [244459](../reports/244459.md) | Apache HTTP Request Parsing Whitespace Defects | Medium — CVSS 4.0 | — | 11 | [regilero](https://hackerone.com/regilero) | 2017-07-11 |
-| 506 | [344035](../reports/344035.md) | Heap Buffer Overflow (READ: 1786) in exif_iif_add_value | Medium — CVSS 6.3 | — | 11 | [cy1337](https://hackerone.com/cy1337) | 2018-06-01 |
-| 507 | [261335](../reports/261335.md) | Heap Use After Free Read in unserialize() | Medium | — | 11 | [cy1337](https://hackerone.com/cy1337) | 2018-11-27 |
-| 508 | [1813831](../reports/1813831.md) | CVE-2022-43551: Another HSTS bypass via IDN | Medium | — | 10 | [kurohiro](https://hackerone.com/kurohiro) | 2023-02-03 |
-| 509 | [1374512](../reports/1374512.md) | The Host Authorization middleware in Action Pack is vulnerab | Medium | — | 10 | [mshtawythug](https://hackerone.com/mshtawythug) | 2021-11-18 |
-| 510 | [721333](../reports/721333.md) | Buffer Overflow in smblib.c | Medium | — | 10 | [aaron_costello](https://hackerone.com/aaron_costello) | 2021-07-28 |
-| 511 | [1565622](../reports/1565622.md) | CVE-2022-30115: HSTS bypass via trailing dot | Medium | — | 10 | [haxatron1](https://hackerone.com/haxatron1) | 2022-06-11 |
-| 512 | [888986](../reports/888986.md) | [CVE-2020-10543] Buffer overflow caused by a crafted regular | Medium — CVSS 6.5 | — | 10 | [tmnt53](https://hackerone.com/tmnt53) | 2020-11-09 |
-| 513 | [1565619](../reports/1565619.md) | CVE-2022-27780: percent-encoded path separator in URL host | Medium | — | 8 | [haxatron1](https://hackerone.com/haxatron1) | 2022-06-11 |
-| 514 | [2621057](../reports/2621057.md) | libcurl: freeing stack buffer during x509 certificate parsin | Medium | — | 8 | [z2_](https://hackerone.com/z2_) | 2024-08-23 |
-| 515 | [2104566](../reports/2104566.md) | (CVE-2023-32006) Permissions policies can impersonate other  | Medium | — | 8 | [haxatron1](https://hackerone.com/haxatron1) | 2023-10-08 |
-| 516 | [271330](../reports/271330.md) | Format string implementation vulnerability, resulting in cod | Medium | — | 7 | [aerodudrizzt](https://hackerone.com/aerodudrizzt) | 2019-10-13 |
-| 517 | [261336](../reports/261336.md) | Out of Bounds Memory Read in unserialize() | Medium | — | 7 | [cy1337](https://hackerone.com/cy1337) | 2018-11-27 |
-| 518 | [181642](../reports/181642.md) | libtiff 4.0.6 heap bufer overflow / out of bounds read (CVE- | Medium — CVSS 5.4 | — | 7 | [geeknik](https://hackerone.com/geeknik) | 2019-10-04 |
-| 519 | [261338](../reports/261338.md) | Heap Use After Free in unserialize() | Medium | — | 7 | [cy1337](https://hackerone.com/cy1337) | 2018-11-27 |
-| 520 | [207983](../reports/207983.md) | read outside of buffer (heap buffer overflow) in S_regmatch  | Medium | — | 7 | [geeknik](https://hackerone.com/geeknik) | 2017-05-28 |
-| 521 | [745276](../reports/745276.md) | Dragonblood: Design and Implementation Flaws in WPA3 and EAP | Medium | — | 7 | [vanhoefm](https://hackerone.com/vanhoefm) | 2020-05-05 |
-| 522 | [1664019](../reports/1664019.md) | CVE-2022-35948: CRLF Injection in Nodejs ‘undici’ via Conten | Medium | — | 6 | [x_h1](https://hackerone.com/x_h1) | 2022-09-23 |
-| 523 | [1455248](../reports/1455248.md) | Buffer Overflow in optimized_escape_html method | Medium | — | 6 | [chamal](https://hackerone.com/chamal) | 2022-01-22 |
-| 524 | [182140](../reports/182140.md) | libtiff 4.0.6 segfault / read outside of buffer (CVE-2016-92 | Medium | — | 6 | [geeknik](https://hackerone.com/geeknik) | 2019-10-04 |
-| 525 | [1404789](../reports/1404789.md) | Ruby - Regular Expression Denial of Service Vulnerability of | Medium | — | 6 | [svalkanov](https://hackerone.com/svalkanov) | 2021-11-19 |
-| 526 | [245956](../reports/245956.md) | Use-after-free in PHP7's unserialize() | Medium | — | 6 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 527 | [1073202](../reports/1073202.md) | Canonical Snapcraft vulnerable to remote code execution unde | Medium — CVSS 6.8 | — | 5 | [itszn](https://hackerone.com/itszn) | 2021-07-23 |
-| 528 | [1886139](../reports/1886139.md) | HTTP multi-header compression denial of service | Medium — CVSS 5.3 | — | 5 | [monnerat](https://hackerone.com/monnerat) | 2023-02-24 |
-| 529 | [182474](../reports/182474.md) | Use After Free in PHP7 unserialize() | Medium | — | 5 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 530 | [1944515](../reports/1944515.md) | CVE-2023-28755: ReDoS vulnerability in URI | Medium — CVSS 6.5 | — | 5 | [dee-see](https://hackerone.com/dee-see) | 2023-04-26 |
-| 531 | [255587](../reports/255587.md) |  CVE-2017-1000101: cURL: URL globbing out of bounds read | Medium — CVSS 4.3 | — | 5 | [geeknik](https://hackerone.com/geeknik) | 2018-05-16 |
-| 532 | [175982](../reports/175982.md) | Use-after-free in unserialize() | Medium | — | 5 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 533 | [674540](../reports/674540.md) | mod_remoteip stack buffer overflow and NULL pointer derefere | Medium | — | 5 | [ccppuu](https://hackerone.com/ccppuu) | 2019-11-07 |
-| 534 | [1663788](../reports/1663788.md) | [CVE-2022-35949]: undici.request vulnerable to SSRF using ab | Medium | — | 5 | [haxatron1](https://hackerone.com/haxatron1) | 2022-09-23 |
-| 535 | [2125679](../reports/2125679.md) | [CVE-2023-23913] DOM Based Cross-site Scripting in rails-ujs | Medium | — | 5 | [ryotak](https://hackerone.com/ryotak) | 2023-09-07 |
-| 536 | [201346](../reports/201346.md) | CVE-2017-3730: Bad (EC)DHE parameters cause a client crash | Medium | — | 5 | [guido](https://hackerone.com/guido) | 2017-02-07 |
-| 537 | [180909](../reports/180909.md) | Use-after-free in ArrayObject Deserialization | Medium | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 538 | [905015](../reports/905015.md) | Long filenames cause OOM and temp files are not cleaned | Medium — CVSS 5.3 | — | 4 | [jrauchberger](https://hackerone.com/jrauchberger) | 2020-10-10 |
-| 539 | [198732](../reports/198732.md) | Use After Free in unserialize() | Medium | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 540 | [1910810](../reports/1910810.md) | Apache HTTP Server: mod_proxy_uwsgi HTTP response splitting  | Medium | — | 4 | [nyxsorcerer](https://hackerone.com/nyxsorcerer) | 2023-03-23 |
-| 541 | [198723](../reports/198723.md) | Create an Unexpected Object and Don't Invoke __wakeup() in D | Medium | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 542 | [527042](../reports/527042.md) | CVE-2019-0196: mod_http2 with scoreboard Use-After-Free (Rea | Medium — CVSS 5.3 | — | 4 | [cy1337](https://hackerone.com/cy1337) | 2019-09-10 |
-| 543 | [262665](../reports/262665.md) | CVE-2017-5969: libxml2 when used in recover mode, allows rem | Medium | — | 3 | [geeknik](https://hackerone.com/geeknik) | 2019-10-04 |
-| 544 | [174069](../reports/174069.md) | Buffer overflow in HTTP parse_hostinfo(), parse_userinfo() a | Medium | — | 3 | [rc0r](https://hackerone.com/rc0r) | 2017-05-30 |
-| 545 | [242119](../reports/242119.md) | Roundcube virtualmin privilege escalation (CVE-2017-8114) | Medium | — | 3 | [ilsani](https://hackerone.com/ilsani) | 2019-11-12 |
-| 546 | [198733](../reports/198733.md) | Type Confusion in Object Deserialization | Medium | — | 3 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 547 | [195950](../reports/195950.md) | Use of uninitialized memory in unserialize() | Medium | — | 3 | [rc0r](https://hackerone.com/rc0r) | 2017-06-01 |
-| 548 | [195580](../reports/195580.md) | Crash (DoS) when parsing a hostile TIFF | Medium — CVSS 6.5 | — | 3 | [aerodudrizzt](https://hackerone.com/aerodudrizzt) | 2019-10-13 |
-| 549 | [692040](../reports/692040.md) | PHP 7.3.3: Heap-use-after-free (READ of size 8) in match_at( | Medium | — | 2 | [geeknik](https://hackerone.com/geeknik) | 2020-10-12 |
-| 550 | [1997312](../reports/1997312.md) | CVE-2023-28319: UAF in SSH sha256 fingerprint check | Medium | — | 2 | [wct](https://hackerone.com/wct) | 2023-06-25 |
-| 551 | [272097](../reports/272097.md) | Interger overflow in eval trigger write out of bound | Medium | — | 2 | [mipu94](https://hackerone.com/mipu94) | 2017-12-11 |
-| 552 | [680415](../reports/680415.md) | mod_http2, read-after-free in h2 connection shutdown (CVE-20 | Medium | — | 2 | [cy1337](https://hackerone.com/cy1337) | 2019-10-15 |
-| 553 | [852103](../reports/852103.md) | Out-of-Bound Read in urldecode() [CVE-2020-7067] | Medium | — | 2 | [bigshaq](https://hackerone.com/bigshaq) | 2020-10-12 |
-| 554 | [2127968](../reports/2127968.md) | CVE-2023-40195: Apache Airflow Spark Provider Deserializatio | Medium | — | 2 | [x_h1](https://hackerone.com/x_h1) | 2023-09-08 |
-| 555 | [1514863](../reports/1514863.md) | Use of uninitialized value of in req_parsebody method of lua | Medium | — | 2 | [chamal](https://hackerone.com/chamal) | 2022-03-17 |
-| 556 | [805010](../reports/805010.md) | PHP link() silently truncates after a null byte on Windows | Medium | — | 2 | [ryat](https://hackerone.com/ryat) | 2020-11-09 |
-| 557 | [293126](../reports/293126.md) | Multiple issues in Libxml2 (2.9.2 - 2.9.5) | Medium — CVSS 5.4 | — | 2 | [xixabangm4](https://hackerone.com/xixabangm4) | 2019-10-14 |
-| 558 | [195688](../reports/195688.md) | NULL Pointer Dereference while unserialize php object | Medium | — | 2 | [hoangnguyen](https://hackerone.com/hoangnguyen) | 2019-11-12 |
-| 559 | [798744](../reports/798744.md) | Null Pointer Dereference in PHP Session Upload Progress | Medium | — | 1 | [ryat](https://hackerone.com/ryat) | 2020-11-09 |
-| 560 | [805013](../reports/805013.md) | DirectoryIterator class silently truncates after a null byte | Medium | — | 1 | [ryat](https://hackerone.com/ryat) | 2020-11-09 |
-| 561 | [623588](../reports/623588.md) | Uninitialized read in gdImageCreateFromXbm | Medium — CVSS 5.3 | — | 1 | [chamal](https://hackerone.com/chamal) | 2020-10-10 |
-| 562 | [781325](../reports/781325.md) | Out-of-bounds Read in php_strip_tags_ex | Medium | — | 1 | [ryat](https://hackerone.com/ryat) | 2020-11-09 |
-| 563 | [188661](../reports/188661.md) | Invalid read when wddx decodes empty boolean element | Medium | — | 1 | [fosec](https://hackerone.com/fosec) | 2019-11-12 |
-| 564 | [950299](../reports/950299.md) | Use after free vulnerability  in phar_parse_zipfile | Medium | — | 0 | [grigoritchy](https://hackerone.com/grigoritchy) | 2020-11-09 |
-| 565 | [797159](../reports/797159.md) | PHP builded for Windows with TS support does not resolve rel | Medium — CVSS 6.8 | — | 0 | [vorismi3](https://hackerone.com/vorismi3) | 2020-11-09 |
-| 566 | [672245](../reports/672245.md) | Use After Free in GC with Certain Destructors | Medium | — | 0 | [ryat](https://hackerone.com/ryat) | 2020-11-09 |
-| 567 | [2828263](../reports/2828263.md) | Secrets not masked in UI when sensitive variables are set vi | Low | — | 78 | [saurabhb](https://hackerone.com/saurabhb) | 2024-12-30 |
-| 568 | [3073507](../reports/3073507.md) | Apache Airflow Fab Provider: Application does not invalidate | Low | — | 57 | [saurabhb](https://hackerone.com/saurabhb) | 2025-05-29 |
-| 569 | [2279759](../reports/2279759.md) | curl HSTS long file name clears contents  | Low | — | 57 | [cxshakal](https://hackerone.com/cxshakal) | 2024-01-20 |
-| 570 | [2705661](../reports/2705661.md) | CVE-2024-45498: Apache Airflow Command injection in read_dat | Low | — | 54 | [nhienit2010](https://hackerone.com/nhienit2010) | 2024-12-07 |
-| 571 | [2215578](../reports/2215578.md) | [CVE-2023-38546]  cookie injection with none file | Low | — | 34 | [w0x42](https://hackerone.com/w0x42) | 2023-11-23 |
-| 572 | [2144868](../reports/2144868.md) | CVE-2023-40611: Apache Airflow Dag Runs Broken Access Contro | Low | — | 32 | [x_h1](https://hackerone.com/x_h1) | 2023-10-27 |
-| 573 | [174632](../reports/174632.md) | Information disclosure in mmap module - python 2.7.12 | Low — CVSS 3.7 | — | 31 | [aerodudrizzt](https://hackerone.com/aerodudrizzt) | 2019-10-13 |
-| 574 | [2621062](../reports/2621062.md) | curl: stack-buffer overread during punycode conversions | Low | — | 31 | [z2_](https://hackerone.com/z2_) | 2024-09-22 |
-| 575 | [2905532](../reports/2905532.md) | [CVE-2024-54133] Possible Content Security Policy bypass in  | Low | — | 29 | [ryotak](https://hackerone.com/ryotak) | 2025-02-06 |
-| 576 | [2446433](../reports/2446433.md) | [CVE-2024-26146] Header Parsing leads to Possible Denial of  | Low | — | 27 | [svalkanov](https://hackerone.com/svalkanov) | 2024-05-24 |
-| 577 | [2446437](../reports/2446437.md) | [CVE-2024-25126] Denial of Service Vulnerability in Rack Con | Low | — | 27 | [svalkanov](https://hackerone.com/svalkanov) | 2024-05-22 |
-| 578 | [2341063](../reports/2341063.md) | CVE-2024-0853: OCSP verification bypass with TLS session reu | Low | — | 24 | [kurohiro](https://hackerone.com/kurohiro) | 2024-03-27 |
-| 579 | [2974850](../reports/2974850.md) | CVE-2025-0725: Heap overflow in curl with Content-Encoding g | Low | — | 24 | [z2_](https://hackerone.com/z2_) | 2025-04-27 |
-| 580 | [2446427](../reports/2446427.md) | [CVE-2024-26142] ReDoS vulnerability in Accept header parsin | Low | — | 23 | [svalkanov](https://hackerone.com/svalkanov) | 2024-05-22 |
-| 581 | [2249299](../reports/2249299.md) | CVE-2023-47037: Airflow Broken Access Control Vulnerability | Low | — | 23 | [itztrq](https://hackerone.com/itztrq) | 2023-11-29 |
-| 582 | [2334460](../reports/2334460.md) | Pickle deserialization vulnerability in XComs | Low — CVSS 3.9 | — | 16 | [zpbrent](https://hackerone.com/zpbrent) | 2024-01-29 |
-| 583 | [1753224](../reports/1753224.md) | CVE-2022-35260: .netrc parser out-of-bounds access | Low | — | 11 | [kurohiro](https://hackerone.com/kurohiro) | 2022-12-03 |
-| 584 | [1991428](../reports/1991428.md) | CVE-2023-28322: more POST-after-PUT confusion | Low | — | 10 | [kurohiro](https://hackerone.com/kurohiro) | 2023-06-25 |
-| 585 | [412673](../reports/412673.md) | XML hash collision DoS vulnerability in Python's xml.etree m | Low — CVSS 3.7 | — | 9 | [tiran](https://hackerone.com/tiran) | 2018-10-31 |
-| 586 | [1595299](../reports/1595299.md) | Read beyond bounds via ap_rwrite() [zhbug_httpd_47.2] | Low | — | 9 | [tdp3kel9g](https://hackerone.com/tdp3kel9g) | 2022-07-09 |
-| 587 | [1686935](../reports/1686935.md) | CVE-2022-35252: control code in cookie denial of service | Low | — | 8 | [haxatron1](https://hackerone.com/haxatron1) | 2022-11-05 |
-| 588 | [364964](../reports/364964.md) | Client DoS due to large DH parameter (CVE-2018-0732) | Low | — | 7 | [guido](https://hackerone.com/guido) | 2018-09-20 |
-| 589 | [221787](../reports/221787.md) | Malformed SHA512 ticket DoS (CVE-2016-6302) | Low | — | 7 | [theyarestone](https://hackerone.com/theyarestone) | 2017-05-25 |
-| 590 | [233440](../reports/233440.md) | heap-buffer-overflow (READ of size 61) in Perl_re_intuit_sta | Low | — | 6 | [geeknik](https://hackerone.com/geeknik) | 2017-06-05 |
-| 591 | [194065](../reports/194065.md) |  DoS vulnerability in mod_auth_digest CVE-2016-2161 | Low | — | 6 | [danse](https://hackerone.com/danse) | 2017-04-10 |
-| 592 | [1595290](../reports/1595290.md) | Controllable read beyond bounds in lua_websocket_readbytes() | Low | — | 5 | [tdp3kel9g](https://hackerone.com/tdp3kel9g) | 2022-07-09 |
-| 593 | [221791](../reports/221791.md) | Excessive allocation of memory in tls_get_message_header() ( | Low | — | 5 | [theyarestone](https://hackerone.com/theyarestone) | 2017-05-25 |
-| 594 | [232150](../reports/232150.md) | heap-buffer-overflow (READ of size 11) in Perl 5.25.x | Low | — | 5 | [geeknik](https://hackerone.com/geeknik) | 2017-05-28 |
-| 595 | [1595281](../reports/1595281.md) | Read beyond bounds in ap_strcmp_match() [zhbug_httpd_47.7] | Low | — | 5 | [tdp3kel9g](https://hackerone.com/tdp3kel9g) | 2022-07-09 |
-| 596 | [1596252](../reports/1596252.md) | DoS via lua_read_body() [zhbug_httpd_94] | Low | — | 5 | [tdp3kel9g](https://hackerone.com/tdp3kel9g) | 2022-07-09 |
-| 597 | [221792](../reports/221792.md) | Excessive allocation of memory in dtls1_preprocess_fragment( | Low | — | 5 | [theyarestone](https://hackerone.com/theyarestone) | 2017-05-25 |
-| 598 | [221790](../reports/221790.md) | Certificate message OOB reads (CVE-2016-6306) | Low | — | 5 | [theyarestone](https://hackerone.com/theyarestone) | 2017-05-25 |
-| 599 | [221789](../reports/221789.md) | OOB read in TS_OBJ_print_bio() (CVE-2016-2180) | Low | — | 5 | [theyarestone](https://hackerone.com/theyarestone) | 2017-05-25 |
-| 600 | [1595296](../reports/1595296.md) | Read beyond bounds in mod_isapi.c [zhbug_httpd_41] | Low | — | 5 | [tdp3kel9g](https://hackerone.com/tdp3kel9g) | 2022-07-09 |
-| 601 | [221785](../reports/221785.md) | OOB write in MDC2_Update() (CVE-2016-6303) | Low | — | 5 | [theyarestone](https://hackerone.com/theyarestone) | 2017-05-25 |
-| 602 | [1606039](../reports/1606039.md) | CVE-2022-27781: CERTINFO never-ending busy-loop | Low | — | 5 | [sybr](https://hackerone.com/sybr) | 2022-07-24 |
-| 603 | [221788](../reports/221788.md) | OOB write in BN_bn2dec() (CVE-2016-2182) | Low | — | 5 | [theyarestone](https://hackerone.com/theyarestone) | 2017-05-25 |
-| 604 | [172403](../reports/172403.md) | Python 2.7 32-bit JSON encoding heap corruption | Low | — | 5 | [guido](https://hackerone.com/guido) | 2019-10-13 |
-| 605 | [838685](../reports/838685.md) | Use of uninitialized value in ftp_getrc_msg method of mod_pr | Low — CVSS 3.7 | — | 4 | [chamal](https://hackerone.com/chamal) | 2020-10-10 |
-| 606 | [1991427](../reports/1991427.md) | CVE-2023-28321: IDN wildcard match | Low | — | 4 | [kurohiro](https://hackerone.com/kurohiro) | 2023-06-25 |
-| 607 | [172411](../reports/172411.md) | Heap overflow caused by type confusion vulnerability in merg | Low | — | 4 | [rc0r](https://hackerone.com/rc0r) | 2017-05-30 |
-| 608 | [1889477](../reports/1889477.md) | Security Unfavorable Specifications and Implementations in t | Low | — | 4 | [ht0k](https://hackerone.com/ht0k) | 2023-04-09 |
-| 609 | [180908](../reports/180908.md) | NULL Pointer Dereference in WDDX Packet Deserialization with | Low | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 610 | [170619](../reports/170619.md) | PHP Integer Overflow in gdImageWebpCtx | Low | — | 4 | [binvul](https://hackerone.com/binvul) | 2020-10-10 |
-| 611 | [1913110](../reports/1913110.md) | CVE-2023-27537: HSTS double-free | Low | — | 3 | [kurohiro](https://hackerone.com/kurohiro) | 2023-03-23 |
-| 612 | [2070810](../reports/2070810.md) | Potential NULL dereference in libssh's sftp server | Low — CVSS 3.1 | — | 2 | [wct](https://hackerone.com/wct) | 2023-09-14 |
-| 613 | [2104567](../reports/2104567.md) | (CVE-2023-32003) fs.mkdtemp() and fs.mkdtempSync() are missi | Low | — | 2 | [haxatron1](https://hackerone.com/haxatron1) | 2023-10-07 |
-| 614 | [172115](../reports/172115.md) | Multiple use after frees in obj2ast_* methods | Low | — | 2 | [pakt_](https://hackerone.com/pakt_) | 2019-11-12 |
-| 615 | [150626](../reports/150626.md) | Heap Buffer Overflow | Low | — | 2 | [b6945caf98f2f809b8e6ece](https://hackerone.com/b6945caf98f2f809b8e6ece) | 2019-11-12 |
-| 616 | [180563](../reports/180563.md) | Heap overflow due to integer overflow in bzdecompress() func | Low | — | 1 | [fosec](https://hackerone.com/fosec) | 2019-11-12 |
-| 617 | [180562](../reports/180562.md) | Memory corruption in _php_math_number_format_ex() | Low | — | 1 | [fosec](https://hackerone.com/fosec) | 2019-11-12 |
-| 618 | [180582](../reports/180582.md) | Heap overflow due to integer overflow in php_escape_html_ent | Low | — | 1 | [fosec](https://hackerone.com/fosec) | 2019-11-12 |
-| 619 | [180572](../reports/180572.md) | Memory corruption due to missing check size in _php_math_num | Low | — | 1 | [fosec](https://hackerone.com/fosec) | 2019-11-12 |
-| 620 | [176226](../reports/176226.md) | CachingIterator null dereference when convert to string | Low | — | 1 | [ahihi](https://hackerone.com/ahihi) | 2019-11-12 |
-| 621 | [181073](../reports/181073.md) | malloc negative size parameter | Low | — | 1 | [ahihi](https://hackerone.com/ahihi) | 2019-11-12 |
-| 622 | [180584](../reports/180584.md) | Heap overflow due to integer overflow in pg_escape_string()  | Low | — | 1 | [fosec](https://hackerone.com/fosec) | 2019-11-12 |
-| 623 | [2449038](../reports/2449038.md) | CVE-2019-1551: rsaz_512_sqr overflow bug on x86_64 | None | — | 26 | [guido](https://hackerone.com/guido) | 2024-05-09 |
-| 624 | [501](../reports/501.md) | TLS Virtual Host Confusion | None | — | 23 | [adl](https://hackerone.com/adl) | 2014-11-10 |
-| 625 | [143966](../reports/143966.md) | Insufficient shell characters filtering leads to (potentiall | None | — | 22 | [stewie](https://hackerone.com/stewie) | 2016-05-03 |
-| 626 | [500](../reports/500.md) | OpenSSH: Memory corruption in AES-GCM support | None | — | 22 | [markus](https://hackerone.com/markus) | 2013-11-07 |
-| 627 | [31756](../reports/31756.md) | Drupal 7 pre auth sql injection and remote code execution | None | — | 21 | [shorst](https://hackerone.com/shorst) | 2015-04-06 |
-| 628 | [29839](../reports/29839.md) | GNU Bourne-Again Shell (Bash) 'Shellshock' Vulnerability | None | — | 19 | [stephane-chazelas](https://hackerone.com/stephane-chazelas) | 2014-10-01 |
-| 629 | [4689](../reports/4689.md) | SPDY memory corruption | None | — | 18 | [lmolas](https://hackerone.com/lmolas) | 2014-03-24 |
-| 630 | [150976](../reports/150976.md) | Flash “local-with-filesystem” Bypass in navigateToURL | None | — | 17 | [irsdl](https://hackerone.com/irsdl) | 2019-10-17 |
-| 631 | [159946](../reports/159946.md) | PHP Session Data Injection Vulnerability | None | — | 16 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 632 | [523](../reports/523.md) | PHP openssl_x509_parse() Memory Corruption Vulnerability | None | — | 16 | [sesser](https://hackerone.com/sesser) | 2013-12-13 |
-| 633 | [37240](../reports/37240.md) | Race condition in Flash workers may cause an exploitabl​e do | None | — | 14 | [biloulehibou](https://hackerone.com/biloulehibou) | 2019-11-12 |
-| 634 | [165102](../reports/165102.md) | urllib HTTP header injection CVE-2016-5699 | None | — | 14 | [guido](https://hackerone.com/guido) | 2016-09-01 |
-| 635 | [1238470](../reports/1238470.md) | Fragmentation and Aggregation Flaws in Wi-Fi | None | — | 14 | [vanhoefm](https://hackerone.com/vanhoefm) | 2021-07-23 |
-| 636 | [4690](../reports/4690.md) | SPDY heap buffer overflow | None | — | 14 | [lmolas](https://hackerone.com/lmolas) | 2014-03-24 |
-| 637 | [7277](../reports/7277.md) | TLS Triple Handshake Attack | None | — | 14 | [prosecco-inria](https://hackerone.com/prosecco-inria) | 2014-03-03 |
-| 638 | [166629](../reports/166629.md) | Cross-protocol attack on TLS using SSLv2 (DROWN) (CVE-2016-0 | None | — | 13 | [nimia](https://hackerone.com/nimia) | 2016-09-21 |
-| 639 | [944025](../reports/944025.md) | Uncovering file quarantine and UX security issues in macOS a | None | — | 13 | [metnew](https://hackerone.com/metnew) | 2021-07-23 |
-| 640 | [112057](../reports/112057.md) | Heapoverflow in zipimporter module | None | — | 12 | [jakkdu](https://hackerone.com/jakkdu) | 2019-10-14 |
-| 641 | [146233](../reports/146233.md) | Use After Free Vulnerability in PHP's GC algorithm and unser | None | — | 11 | [evonide](https://hackerone.com/evonide) | 2016-07-28 |
-| 642 | [146235](../reports/146235.md) | ZipArchive class Use After Free Vulnerability in PHP's GC al | None | — | 11 | [evonide](https://hackerone.com/evonide) | 2016-07-28 |
-| 643 | [54094](../reports/54094.md) | HTTP MitM on Flash Player settings manager allows attacker t | None | — | 11 | [flashplayer](https://hackerone.com/flashplayer) | 2018-12-23 |
-| 644 | [6626](../reports/6626.md) | TLS heartbeat read overrun | None | — | 10 | [None](https://hackerone.com/None) | 2014-04-07 |
-| 645 | [152266](../reports/152266.md) | Use After Free Vulnerability in SNMP with GC and unserialize | None | — | 8 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 646 | [1356](../reports/1356.md) | PHP Heap Overflow Vulnerability in imagecrop() | None | — | 8 | [kubabrecka](https://hackerone.com/kubabrecka) | 2014-02-06 |
-| 647 | [2106](../reports/2106.md) | Flash type confusion vulnerability leads to code execution | None | — | 8 | [bannedit](https://hackerone.com/bannedit) | 2013-12-10 |
-| 648 | [152231](../reports/152231.md) | Out of bound read in exif_process_IFD_in_MAKERNOTE | None | — | 7 | [hoangnguyen](https://hackerone.com/hoangnguyen) | 2016-08-30 |
-| 649 | [166634](../reports/166634.md) | SSLv2 doesn't block disabled ciphers (CVE-2015-3197) | None | — | 7 | [nimia](https://hackerone.com/nimia) | 2016-09-21 |
-| 650 | [146185](../reports/146185.md) | Integer Overflow in Length of String-typed ZVAL | None | — | 6 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 651 | [140865](../reports/140865.md) | Integer Overflow in php_html_entities() | None | — | 6 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 652 | [114339](../reports/114339.md) | Type Confusion in WDDX Packet Deserialization | None | — | 6 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 653 | [167888](../reports/167888.md) | Uninitialized Thumbail Data Leads To Memory Leakage in exif_ | None | — | 6 | [hoangnguyen](https://hackerone.com/hoangnguyen) | 2019-11-12 |
-| 654 | [10373](../reports/10373.md) | Bypassing Same Origin Policy With JSONP APIs and Flash | None | — | 5 | [molnarg](https://hackerone.com/molnarg) | 2014-07-19 |
-| 655 | [142472](../reports/142472.md) | CVE-2016-2177 Undefined pointer arithmetic in SSL code | None | — | 5 | [guido](https://hackerone.com/guido) | 2016-09-20 |
-| 656 | [2170](../reports/2170.md) | Flash double free vulnerability leads to code execution | None | — | 5 | [clem1](https://hackerone.com/clem1) | 2014-02-27 |
-| 657 | [146182](../reports/146182.md) | Integer Overflow/Heap Overflow in json_encode()/json_decode( | None | — | 5 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 658 | [2140](../reports/2140.md) | Flash local-with-fileaccess Sandbox Bypass | None | — | 5 | [flashplayer](https://hackerone.com/flashplayer) | 2014-04-17 |
-| 659 | [170618](../reports/170618.md) | CVE-2016-7418 PHP Out-Of-Bounds Read in php_wddx_push_elemen | None | — | 5 | [binvul](https://hackerone.com/binvul) | 2020-10-10 |
-| 660 | [73245](../reports/73245.md) | Type Confusion Vulnerability in SoapClient | None | — | 5 | [ryat](https://hackerone.com/ryat) | 2015-04-16 |
-| 661 | [47227](../reports/47227.md) | Race condition in workers may cause an exploitable double fr | None | — | 5 | [biloulehibou](https://hackerone.com/biloulehibou) | 2015-03-25 |
-| 662 | [155223](../reports/155223.md) | Use After Free Vulnerability in array_walk()/array_walk_recu | None | — | 5 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 663 | [50170](../reports/50170.md) | FREAK: Factoring RSA_EXPORT Keys to Impersonate TLS Servers | None | — | 5 | [prosecco-inria](https://hackerone.com/prosecco-inria) | 2015-04-01 |
-| 664 | [146184](../reports/146184.md) | Integer Overflow in addcslashes()/addslashes() | None | — | 5 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 665 | [171593](../reports/171593.md) | Malicious Server can force read any file on clients system w | None | — | 5 | [tarq](https://hackerone.com/tarq) | 2019-11-12 |
-| 666 | [2293](../reports/2293.md) | Widespread failure of certificate validation in Android apps | None | — | 5 | [secbro](https://hackerone.com/secbro) | 2019-11-12 |
-| 667 | [167931](../reports/167931.md) | Memory Corruption in During Deserialized-object Destruction | None | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 668 | [124737](../reports/124737.md) | Multiple Heap Overflows in php_raw_url_encode/php_url_encode | None | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 669 | [146180](../reports/146180.md) | Integer Overflow in SplFileObject::fread | None | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 670 | [152267](../reports/152267.md) | Use After Free in unserialize() with Unexpected Session Dese | None | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 671 | [160294](../reports/160294.md) | Memory Leakage In exif_process_IFD_in_TIFF (CVE-2016-7128) | None | — | 4 | [hoangnguyen](https://hackerone.com/hoangnguyen) | 2019-11-12 |
-| 672 | [42240](../reports/42240.md) | chrome allows POST requests with custom headers using flash  | None | — | 4 | [netfuzzer](https://hackerone.com/netfuzzer) | 2015-02-09 |
-| 673 | [152281](../reports/152281.md) | Use After Free/Double Free in Garbage Collection | None | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 674 | [250581](../reports/250581.md) | CVE-2017-11367: Global buffer overflow (READ of size 4) in s | None | — | 4 | [geeknik](https://hackerone.com/geeknik) | 2019-10-04 |
-| 675 | [138179](../reports/138179.md) | Divide-and-conquer session key recovery in SSLv2 (CVE-2016-0 | None | — | 4 | [dadrian](https://hackerone.com/dadrian) | 2016-06-01 |
-| 676 | [55029](../reports/55029.md) | Use after free vulnerability in unserialize() with DateTimeZ | None | — | 4 | [ryat](https://hackerone.com/ryat) | 2015-02-27 |
-| 677 | [123119](../reports/123119.md) | Use after free with assign by ref to overloaded objects | None | — | 4 | [geeknik](https://hackerone.com/geeknik) | 2019-10-04 |
-| 678 | [156511](../reports/156511.md) | Incorrect logic in MySQL & MariaDB protocol leads to remote  | None | — | 4 | [squashbroom](https://hackerone.com/squashbroom) | 2019-11-12 |
-| 679 | [15362](../reports/15362.md) | Flash Sandbox Bypass | None | — | 4 | [flashplayer](https://hackerone.com/flashplayer) | 2014-06-19 |
-| 680 | [27651](../reports/27651.md) | Flash Local Sandbox Bypass | None | — | 4 | [flashplayer](https://hackerone.com/flashplayer) | 2014-10-07 |
-| 681 | [6389](../reports/6389.md) | Integer overflow in strop.expandtabs | None | — | 4 | [ianbeer](https://hackerone.com/ianbeer) | 2014-03-31 |
-| 682 | [159992](../reports/159992.md) | memory allocator fails to realloc small block to large one | None | — | 4 | [tinduong](https://hackerone.com/tinduong) | 2019-10-14 |
-| 683 | [146183](../reports/146183.md) | Integer Overflow in nl2br() | None | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 684 | [73246](../reports/73246.md) | Use-after-free in php_curl related to CURLOPT_FILE/_INFILE/_ | None | — | 4 | [mongo](https://hackerone.com/mongo) | 2015-04-14 |
-| 685 | [159943](../reports/159943.md) | Create an Unexpected Object and Don't Invoke __wakeup() in D | None | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 686 | [159948](../reports/159948.md) | Use After Free Vulnerability in unserialize() | None | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 687 | [141239](../reports/141239.md) | Module ngx_http_auth_basic_module is broken and allowing all | None | — | 4 | [anish2good](https://hackerone.com/anish2good) | 2016-05-30 |
-| 688 | [126416](../reports/126416.md) | Integer Overflow in php_raw_url_encode | None | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 689 | [167955](../reports/167955.md) | CVE-2016-4796 OpenJPEG color_cmyk_to_rgb Out-of-Bounds Read  | None | — | 3 | [binvul](https://hackerone.com/binvul) | 2019-11-12 |
-| 690 | [25537](../reports/25537.md) | external entity expansion in Apache POI  | None | — | 3 | [told_snider](https://hackerone.com/told_snider) | 2019-10-14 |
-| 691 | [136986](../reports/136986.md) | Padding oracle in AES-NI CBC MAC check (CVE-2016-2107) | None | — | 3 | [jurajsomorovsky](https://hackerone.com/jurajsomorovsky) | 2016-05-19 |
-| 692 | [167896](../reports/167896.md) | Out of bound when verify signature of tar phar in phar_parse | None | — | 3 | [hoangnguyen](https://hackerone.com/hoangnguyen) | 2019-11-12 |
-| 693 | [55017](../reports/55017.md) | Multiple Python integer overflows | None | — | 3 | [pakt_](https://hackerone.com/pakt_) | 2015-02-04 |
-| 694 | [73429](../reports/73429.md) | pngcrush_measure_idat() off-by-one error (CVE-2015-2158) | None | — | 3 | [geeknik](https://hackerone.com/geeknik) | 2019-10-04 |
-| 695 | [167895](../reports/167895.md) | Out of bound when verify signature of zip phar in phar_parse | None | — | 3 | [hoangnguyen](https://hackerone.com/hoangnguyen) | 2019-11-12 |
-| 696 | [103999](../reports/103999.md) | Use after free vulnerability in unserialize() with GMP | None | — | 3 | [ryat](https://hackerone.com/ryat) | 2015-09-01 |
-| 697 | [73235](../reports/73235.md) | Use After Free Vulnerability in unserialize() | None | — | 3 | [ryat](https://hackerone.com/ryat) | 2015-03-17 |
-| 698 | [121863](../reports/121863.md) | Buffer overflow in HTTP url parsing functions | None | — | 3 | [rc0r](https://hackerone.com/rc0r) | 2016-07-28 |
-| 699 | [143022](../reports/143022.md) | Heap corruption via Python 2.7.11 IOBase readline() | None | — | 3 | [guido](https://hackerone.com/guido) | 2016-06-26 |
-| 700 | [73247](../reports/73247.md) | php_stream_url_wrap_http_ex() type-confusion vulnerability | None | — | 3 | [mongo](https://hackerone.com/mongo) | 2015-04-14 |
-| 701 | [73244](../reports/73244.md) | Use after free vulnerability in unserialize() with DateInter | None | — | 3 | [ryat](https://hackerone.com/ryat) | 2015-03-17 |
-| 702 | [51265](../reports/51265.md) | Flash Cross Domain Policy Bypass by Using File Upload and Re | None | — | 3 | [irsdl](https://hackerone.com/irsdl) | 2015-05-06 |
-| 703 | [113268](../reports/113268.md) | Integer overflow in wordwrap | None | — | 2 | [jakkdu](https://hackerone.com/jakkdu) | 2019-10-14 |
-| 704 | [36264](../reports/36264.md) | mod_proxy_fcgi buffer overflow | None | — | 2 | [talko](https://hackerone.com/talko) | 2014-11-12 |
-| 705 | [73249](../reports/73249.md) | Multiple use after free bugs in element module | None | — | 2 | [pakt_](https://hackerone.com/pakt_) | 2015-05-18 |
-| 706 | [152232](../reports/152232.md) | NULL Pointer Dereference in exif_process_user_comment | None | — | 2 | [hoangnguyen](https://hackerone.com/hoangnguyen) | 2016-08-30 |
-| 707 | [159690](../reports/159690.md) | stack buffer overflows in the curses module | None | — | 2 | [tehybel](https://hackerone.com/tehybel) | 2019-11-12 |
-| 708 | [55018](../reports/55018.md) | Segmentation fault for invalid PSS parameters | None | — | 2 | [geeknik](https://hackerone.com/geeknik) | 2015-03-19 |
-| 709 | [134880](../reports/134880.md) | ASN.1 BIO excessive memory allocation (CVE-2016-2109) | None | — | 2 | [geeknik](https://hackerone.com/geeknik) | 2016-05-03 |
-| 710 | [73236](../reports/73236.md) | X509_to_X509_REQ NULL pointer deref | None | — | 2 | [geeknik](https://hackerone.com/geeknik) | 2015-03-15 |
-| 711 | [104009](../reports/104009.md) | zend_throw_or_error() format string vulnerability | None | — | 2 | [ryat](https://hackerone.com/ryat) | 2015-11-14 |
-| 712 | [73234](../reports/73234.md) | out of bounds read crashes php-cgi | None | — | 2 | [geeknik](https://hackerone.com/geeknik) | 2014-12-30 |
-| 713 | [160295](../reports/160295.md) | Heap overflow in curl_escape | None | — | 2 | [hoangnguyen](https://hackerone.com/hoangnguyen) | 2019-11-12 |
-| 714 | [141839](../reports/141839.md) | Multiple vulnerabilities related to PCRE functions (already  | None | — | 2 | [mongo](https://hackerone.com/mongo) | 2019-11-12 |
-| 715 | [73252](../reports/73252.md) | Use after free in get_filter | None | — | 2 | [pakt_](https://hackerone.com/pakt_) | 2015-05-03 |
-| 716 | [135945](../reports/135945.md) | EVP_EncryptUpdate overflow (CVE-2016-2106) | None | — | 2 | [guido](https://hackerone.com/guido) | 2016-05-03 |
-| 717 | [112860](../reports/112860.md) | UAF  in xmlparser_setevents (2) | None | — | 2 | [pakt_](https://hackerone.com/pakt_) | 2019-11-12 |
-| 718 | [108681](../reports/108681.md) | Use After Free Vulnerability in WDDX Packet Deserialization | None | — | 2 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 719 | [16330](../reports/16330.md) | Multiple issues in looking-glass software (aka from web to B | None | — | 2 | [kaeso](https://hackerone.com/kaeso) | 2014-09-17 |
-| 720 | [73250](../reports/73250.md) | Multiple use after free bugs in heapq module | None | — | 2 | [pakt_](https://hackerone.com/pakt_) | 2015-05-03 |
-| 721 | [152280](../reports/152280.md) | Stack-based buffer overflow vulnerability in virtual_file_ex | None | — | 2 | [knight9](https://hackerone.com/knight9) | 2019-11-12 |
-| 722 | [108682](../reports/108682.md) | Type Confusion Vulnerability in PHP_to_XMLRPC_worker() | None | — | 2 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 723 | [146360](../reports/146360.md) | Heap Overflow Due To Integer Overflow | None | — | 2 | [hoangnguyen](https://hackerone.com/hoangnguyen) | 2019-11-12 |
-| 724 | [103997](../reports/103997.md) | Use After Free Vulnerability in unserialize() | None | — | 2 | [ryat](https://hackerone.com/ryat) | 2015-09-01 |
-| 725 | [47779](../reports/47779.md) | Heap overflow in H. Spencer’s regex library on 32 bit system | None | — | 2 | [guido](https://hackerone.com/guido) | 2015-04-06 |
-| 726 | [153863](../reports/153863.md) | heap-buffer-overflow (write) simplestring_addn simplestring. | None | — | 2 | [pjumde](https://hackerone.com/pjumde) | 2019-11-12 |
-| 727 | [103996](../reports/103996.md) | Use After Free Vulnerability in unserialize() with SplObject | None | — | 2 | [ryat](https://hackerone.com/ryat) | 2015-09-01 |
-| 728 | [55028](../reports/55028.md) | Free called on unitialized pointer in exif.c | None | — | 2 | [endeavor](https://hackerone.com/endeavor) | 2015-01-20 |
-| 729 | [73248](../reports/73248.md) | Tokenizer crash when processing undecodable source code | None | — | 2 | [hugbounter](https://hackerone.com/hugbounter) | 2015-04-21 |
-| 730 | [66962](../reports/66962.md) | Misusing of FPU Instruction Could Cause Security Vulnerabili | None | — | 2 | [yopwn](https://hackerone.com/yopwn) | 2019-11-12 |
-| 731 | [167947](../reports/167947.md) | CVE-2016-3183 OpenJPEG sycc422_to_rgb Out-of-Bounds Read Vul | None | — | 2 | [binvul](https://hackerone.com/binvul) | 2019-11-12 |
-| 732 | [103995](../reports/103995.md) | Use After Free Vulnerability in unserialize() with SplDoubly | None | — | 2 | [ryat](https://hackerone.com/ryat) | 2015-09-01 |
-| 733 | [108683](../reports/108683.md) | Session WDDX Packet Deserialization Type Confusion Vulnerabi | None | — | 2 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
-| 734 | [38170](../reports/38170.md) | Misc Python bugs (Memory Corruption & Use After Free) | None | — | 2 | [pakt_](https://hackerone.com/pakt_) | 2014-10-04 |
-| 735 | [112863](../reports/112863.md) | Trivial age-old heap overflow in 32-bit PHP | None | — | 2 | [jbremer](https://hackerone.com/jbremer) | 2019-11-12 |
-| 736 | [103998](../reports/103998.md) | Use After Free Vulnerability in session deserializer | None | — | 2 | [ryat](https://hackerone.com/ryat) | 2015-09-01 |
-| 737 | [48100](../reports/48100.md) | Bad Write in TTF font parsing (win32k.sys) | None | — | 2 | [dirtybit](https://hackerone.com/dirtybit) | 2015-03-01 |
-| 738 | [73253](../reports/73253.md) | Multiple type confusions in unicode error handlers | None | — | 2 | [pakt_](https://hackerone.com/pakt_) | 2015-05-18 |
-| 739 | [104018](../reports/104018.md) | Multiple Use After Free Vulnerabilites in unserialize() | None | — | 2 | [ryat](https://hackerone.com/ryat) | 2015-08-05 |
-| 740 | [73251](../reports/73251.md) | Multiple use after free bugs in json encoding | None | — | 2 | [pakt_](https://hackerone.com/pakt_) | 2015-05-03 |
-| 741 | [103991](../reports/103991.md) | mod_lua: Crash in websockets PING handling | None | — | 2 | [guido](https://hackerone.com/guido) | 2015-02-04 |
-| 742 | [73241](../reports/73241.md) | Malformed ECParameters causes infinite loop | None | — | 1 | [ctz](https://hackerone.com/ctz) | 2015-06-11 |
-| 743 | [118855](../reports/118855.md) | CVE-2016-0799 memory issues in BIO_*printf functions | None | — | 1 | [guido](https://hackerone.com/guido) | 2016-03-27 |
-| 744 | [43443](../reports/43443.md) | PyUnicode_FromFormatV crasher | None | — | 1 | [guido](https://hackerone.com/guido) | 2014-12-15 |
-| 745 | [119873](../reports/119873.md) | BN_hex2bn/BN_dec2bn NULL pointer deref/heap corruption (CVE- | None | — | 1 | [guido](https://hackerone.com/guido) | 2016-03-27 |
-| 746 | [17688](../reports/17688.md) | LZ4 Core | None | — | 1 | [donb](https://hackerone.com/donb) | 2014-07-25 |
-| 747 | [112858](../reports/112858.md) | UAF in xmlparser_setevents (1) | None | — | 1 | [pakt_](https://hackerone.com/pakt_) | 2019-11-12 |
-| 748 | [20671](../reports/20671.md) | integer overflow in 'buffer' type allows reading memory | None | — | 1 | [removed](https://hackerone.com/removed) | 2014-06-24 |
-| 749 | [113120](../reports/113120.md) | An integer overflow bug in php_implode() could lead heap ove | None | — | 1 | [blue9057](https://hackerone.com/blue9057) | 2019-11-12 |
-| 750 | [113122](../reports/113122.md) | An integer overflow bug in php_str_to_str_ex() led arbitrary | None | — | 1 | [blue9057](https://hackerone.com/blue9057) | 2019-11-12 |
-| 751 | [47232](../reports/47232.md) | Use after free during the StageVideoAvailabilityEvent can re | None | — | 1 | [biloulehibou](https://hackerone.com/biloulehibou) | 2015-03-25 |
-| 752 | [114414](../reports/114414.md) | openssl_seal() uninitialized memory usage | None | — | 1 | [51201](https://hackerone.com/51201) | 2019-11-12 |
-| 753 | [167977](../reports/167977.md) | Missing type check when unserializing SplArray | None | — | 1 | [ahihi](https://hackerone.com/ahihi) | 2019-11-12 |
-| 754 | [55033](../reports/55033.md) | Use after free vulnerability in unserialize() | None | — | 1 | [sesser](https://hackerone.com/sesser) | 2015-01-20 |
-| 755 | [165154](../reports/165154.md) | Additional information for CVE-2016-5699 | None | — | 1 | [ecbftw](https://hackerone.com/ecbftw) | 2019-11-12 |
-| 756 | [112855](../reports/112855.md) | EIP control using type confusion in json encoding | None | — | 1 | [pakt_](https://hackerone.com/pakt_) | 2019-11-12 |
-| 757 | [138181](../reports/138181.md) | Bleichenbacher oracle in SSLv2 (CVE-2016-0704) | None | — | 1 | [dadrian](https://hackerone.com/dadrian) | 2016-06-01 |
-| 758 | [73255](../reports/73255.md) | str_repeat() sign mismatch based memory corruption | None | — | 1 | [cogitoergor00t](https://hackerone.com/cogitoergor00t) | 2015-05-12 |
-| 759 | [73260](../reports/73260.md) | Integer overflow in _json_encode_unicode leads to crash | None | — | 1 | [nilch](https://hackerone.com/nilch) | 2015-06-27 |
-| 760 | [146200](../reports/146200.md) | _php_mb_regex_ereg_replace_exec - double free | None | — | 1 | [51201](https://hackerone.com/51201) | 2019-11-12 |
-| 761 | [167510](../reports/167510.md) | CVE-2016-5157 OpenJPEG opj_dwt_interleave_v Out-of-Bounds Wr | None | — | 1 | [binvul](https://hackerone.com/binvul) | 2019-11-12 |
-| 762 | [146255](../reports/146255.md) | Double Free Corruption in wddx.c (extension) | None | — | 1 | [hoangnguyen](https://hackerone.com/hoangnguyen) | 2019-11-12 |
-| 763 | [167921](../reports/167921.md) | integer overflow in xml_utf8_encode | None | — | 1 | [ahihi](https://hackerone.com/ahihi) | 2019-11-12 |
-| 764 | [12297](../reports/12297.md) | Python vulnerability: reading arbitrary process memory | None | — | 1 | [guido](https://hackerone.com/guido) | 2014-06-20 |
-| 765 | [122256](../reports/122256.md) | Adobe Flash Player  Uninitialised Memory Corruption | None | — | 1 | [riusksk](https://hackerone.com/riusksk) | 2019-11-12 |
-| 766 | [159696](../reports/159696.md) | Two vulnerabilities in the ssl module | None | — | 1 | [tehybel](https://hackerone.com/tehybel) | 2019-11-12 |
-| 767 | [28445](../reports/28445.md) | SPL ArrayObject/SPLObjectStorage Unserialization Type Confus | None | — | 1 | [sesser](https://hackerone.com/sesser) | 2014-07-04 |
-| 768 | [119989](../reports/119989.md) | b2i_PVK_bio heap corruption | None | — | 1 | [guido](https://hackerone.com/guido) | 2016-03-28 |
-| 769 | [20873](../reports/20873.md) | rsync hash collisions may allow an attacker to corrupt or mo | None | — | 1 | [mik](https://hackerone.com/mik) | 2014-11-17 |
-| 770 | [159687](../reports/159687.md) | integer overflow in binascii.b2a_qp | None | — | 1 | [tehybel](https://hackerone.com/tehybel) | 2019-11-12 |
-| 771 | [163087](../reports/163087.md) | use of uninitialized variables in operator.methodcaller | None | — | 1 | [tehybel](https://hackerone.com/tehybel) | 2019-11-12 |
-| 772 | [47234](../reports/47234.md) | Use After Free in Flash MessageChannel.send can cause arbitr | None | — | 1 | [biloulehibou](https://hackerone.com/biloulehibou) | 2015-03-25 |
-| 773 | [112723](../reports/112723.md) | PHP-FPM fpm_log.c memory leak and buffer overflow | None | — | 1 | [imrerad](https://hackerone.com/imrerad) | 2019-11-12 |
-| 774 | [152278](../reports/152278.md) | Stack-based buffer overflow vulnerability in php_stream_zip_ | None | — | 1 | [knight9](https://hackerone.com/knight9) | 2019-11-12 |
-| 775 | [18843](../reports/18843.md) | use-after-free vulnerability in Flash Player | None | — | 1 | [yopwn](https://hackerone.com/yopwn) | 2019-11-12 |
+| 458 | [268808](../reports/268808.md) | CVE-2017-13038 The PPP parser in tcpdump before 4.9.2 has a  | High — CVSS 7.3 | — | 3 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
+| 459 | [295740](../reports/295740.md) | GarlicRust - heartbleed style vulnerability in major I2P C++ | High — CVSS 7.7 | — | 3 | [aerodudrizzt](https://hackerone.com/aerodudrizzt) | 2019-11-12 |
+| 460 | [202960](../reports/202960.md) | CVE-2017-5204: The IPv6 parser in tcpdump before 4.9.0 has a | High — CVSS 7.3 | — | 3 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
+| 461 | [222020](../reports/222020.md) | Mercurial can be tricked into granting authorized users acce | High | — | 3 | [claudijd](https://hackerone.com/claudijd) | 2017-07-12 |
+| 462 | [1047086](../reports/1047086.md) | Heap buffer overflow vulnerability while processing a malfor | High — CVSS 8.6 | — | 3 | [hardik05](https://hackerone.com/hardik05) | 2021-07-09 |
+| 463 | [260414](../reports/260414.md) | CVE-2017-12858: Heap UAF in _zip_buffer_free() / Double free | High | — | 3 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
+| 464 | [296994](../reports/296994.md) | Exim handles BDAT data incorrectly and leads to crash/hang | High — CVSS 7.5 | — | 3 | [mehqq](https://hackerone.com/mehqq) | 2019-11-12 |
+| 465 | [247027](../reports/247027.md) | CVE-2017-10965: Null pointer dereference in Irssi <1.0.4  | High | — | 3 | [geeknik](https://hackerone.com/geeknik) | 2019-10-04 |
+| 466 | [802896](../reports/802896.md) | CVE-2017-13019:  The PGM parser in tcpdump before 4.9.2 has  | High | — | 2 | [bags](https://hackerone.com/bags) | 2021-08-22 |
+| 467 | [268803](../reports/268803.md) | CVE-2017-12985: The IPv6 parser in tcpdump before 4.9.2 has  | High — CVSS 7.3 | — | 2 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
+| 468 | [202969](../reports/202969.md) | CVE-2017-5482 The Q.933 parser in tcpdump before 4.9.0 has a | High — CVSS 7.3 | — | 2 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
+| 469 | [227344](../reports/227344.md) | CVE-2017-8798 - miniupnp getHTTPResponse chunked encoding in | High — CVSS 7.1 | — | 2 | [hxd](https://hackerone.com/hxd) | 2019-11-12 |
+| 470 | [202968](../reports/202968.md) | CVE-2017-5342 In tcpdump before 4.9.0 a bug in multiple prot | High — CVSS 7.3 | — | 2 | [geeknik](https://hackerone.com/geeknik) | 2019-10-08 |
+| 471 | [3023605](../reports/3023605.md) | [CVE-2025-27220] ReDoS in CGI::Util#escapeElement | High — CVSS 7.5 | — | 2 | [svalkanov](https://hackerone.com/svalkanov) | 2025-04-30 |
+| 472 | [516237](../reports/516237.md) | Uninitialized read in exif_process_IFD_in_MAKERNOTE | High — CVSS 7.5 | — | 1 | [chamal](https://hackerone.com/chamal) | 2020-10-10 |
+| 473 | [287666](../reports/287666.md) | CVE-2017-13089 wget stack smash | High — CVSS 8.8 | — | 1 | [jalio](https://hackerone.com/jalio) | 2019-11-12 |
+| 474 | [287667](../reports/287667.md) | CVE-2017-13090 wget heap smash | High — CVSS 8.8 | — | 1 | [jalio](https://hackerone.com/jalio) | 2019-11-12 |
+| 475 | [590020](../reports/590020.md) | CRLF Injection in urllib | Medium — CVSS 6.1 | — | 340 | [push0ebp](https://hackerone.com/push0ebp) | 2020-05-06 |
+| 476 | [286740](../reports/286740.md) | Key Reinstallation Attacks: Breaking WPA2 by forcing nonce r | Medium — CVSS 6.8 | — | 191 | [vanhoefm](https://hackerone.com/vanhoefm) | 2017-11-03 |
+| 477 | [705420](../reports/705420.md) | A reflected XSS in python/Lib/DocXMLRPCServer.py | Medium — CVSS 6.5 | — | 118 | [longwenzhang](https://hackerone.com/longwenzhang) | 2019-10-19 |
+| 478 | [2828271](../reports/2828271.md) | Apache Airflow: Sensitive Information Exposure in DAG Run Lo | Medium | — | 112 | [saurabhb](https://hackerone.com/saurabhb) | 2024-12-30 |
+| 479 | [176279](../reports/176279.md) | Heap overflow in mysqlnd related to BIT fields (CVE-2016-741 | Medium | — | 50 | [mongo](https://hackerone.com/mongo) | 2019-11-12 |
+| 480 | [55140](../reports/55140.md) | Race Conditions in OAuth 2 API implementations | Medium | — | 48 | [dor1s](https://hackerone.com/dor1s) | 2017-09-19 |
+| 481 | [2872502](../reports/2872502.md) | Possible ReDoS vulnerability in query parameter filtering in | Medium | — | 44 | [scyoon](https://hackerone.com/scyoon) | 2025-03-07 |
+| 482 | [2442613](../reports/2442613.md) | CVE-2024-2398: HTTP/2 push headers memory-leak | Medium | — | 42 | [w0x42](https://hackerone.com/w0x42) | 2024-04-22 |
+| 483 | [384477](../reports/384477.md) | Int Overflow lead to Heap OverFlow in exif_thumbnail_extract | Medium — CVSS 5.3 | — | 42 | [md4](https://hackerone.com/md4) | 2019-10-21 |
+| 484 | [2262939](../reports/2262939.md) | Misconfiguration in AWS CloudFront CDN configuration makes r | Medium | — | 37 | [p4fg](https://hackerone.com/p4fg) | 2023-12-07 |
+| 485 | [1210450](../reports/1210450.md) | 1-byte heap buffer overflow in DNS resolver | Medium | — | 34 | [luismerino](https://hackerone.com/luismerino) | 2021-08-27 |
+| 486 | [2807139](../reports/2807139.md) | CVE-2024-49761: ReDoS vulnerability in REXML | Medium | — | 33 | [manun](https://hackerone.com/manun) | 2024-11-30 |
+| 487 | [2401359](../reports/2401359.md) | CVE-2024-25128: Apache Airflow: Authentication Bypass when L | Medium | — | 32 | [parantheses](https://hackerone.com/parantheses) | 2024-04-28 |
+| 488 | [850775](../reports/850775.md) | Windows only: arbitrary file read vulnerability in openssl s | Medium — CVSS 5.9 | — | 31 | [jobert](https://hackerone.com/jobert) | 2020-10-10 |
+| 489 | [2939077](../reports/2939077.md) | CVE-2024-56374 Potential denial-of-service in IPv6 validatio | Medium | — | 29 | [0xsaravana](https://hackerone.com/0xsaravana) | 2025-02-06 |
+| 490 | [1565615](../reports/1565615.md) | CVE-2022-27779: cookie for trailing dot TLD | Medium | — | 27 | [haxatron1](https://hackerone.com/haxatron1) | 2022-06-11 |
+| 491 | [1024734](../reports/1024734.md) | DOMPurify bypass | Medium — CVSS 5.4 | — | 26 | [vovohelo](https://hackerone.com/vovohelo) | 2020-12-17 |
+| 492 | [2931688](../reports/2931688.md) | ActionView sanitize helper bypass with 'style' and 'svg' tag | Medium — CVSS 6.1 | — | 25 | [taise](https://hackerone.com/taise) | 2025-02-06 |
+| 493 | [2294709](../reports/2294709.md) | CVE-2023-49920: Apache Airflow: Missing CSRF protection on D | Medium — CVSS 5.3 | — | 24 | [itztrq](https://hackerone.com/itztrq) | 2024-01-09 |
+| 494 | [3108869](../reports/3108869.md) | Denial of Service by memory exhaustion in net/imap | Medium | — | 23 | [masamune_](https://hackerone.com/masamune_) | 2025-04-27 |
+| 495 | [241610](../reports/241610.md) | ap_find_token() Buffer Overread | Medium — CVSS 6.5 | — | 22 | [javier_sensepost](https://hackerone.com/javier_sensepost) | 2017-08-10 |
+| 496 | [2931691](../reports/2931691.md) | ActionView sanitize helper bypass with noscript | Medium — CVSS 6.1 | — | 22 | [taise](https://hackerone.com/taise) | 2025-02-06 |
+| 497 | [2931710](../reports/2931710.md) | #2931639   ActionView sanitize helper bypass with math-relat | Medium — CVSS 6.1 | — | 22 | [mokusou](https://hackerone.com/mokusou) | 2025-02-06 |
+| 498 | [2931636](../reports/2931636.md) |  ActionView sanitize helper bypass with style and math | Medium — CVSS 6.1 | — | 20 | [mokusou](https://hackerone.com/mokusou) | 2025-02-06 |
+| 499 | [2402193](../reports/2402193.md) | CVE-2024-27351: Potential regular expression denial-of-servi | Medium | — | 20 | [scyoon](https://hackerone.com/scyoon) | 2024-04-28 |
+| 500 | [1782514](../reports/1782514.md) | CVE-2022-45402: Apache Airflow: Open redirect during login | Medium | — | 19 | [bugra](https://hackerone.com/bugra) | 2022-12-01 |
+| 501 | [3013913](../reports/3013913.md) | [CVE-2025-27219] Denial of Service in CGI::Cookie.parse | Medium | — | 19 | [lio346](https://hackerone.com/lio346) | 2025-04-27 |
+| 502 | [2931639](../reports/2931639.md) | ActionView sanitize helper bypass with style | Medium — CVSS 6.1 | — | 19 | [mokusou](https://hackerone.com/mokusou) | 2025-02-06 |
+| 503 | [2987782](../reports/2987782.md) | Possible DoS by memory exhaustion in net/imap  | Medium | — | 18 | [manun](https://hackerone.com/manun) | 2025-04-27 |
+| 504 | [2209665](../reports/2209665.md) | Secrets can be unmasked in the "Rendered Template" | Medium — CVSS 6.5 | — | 17 | [klexadoc](https://hackerone.com/klexadoc) | 2023-11-29 |
+| 505 | [1647287](../reports/1647287.md) | Disabling context isolation, nodeIntegrationInSubFrames usin | Medium | — | 16 | [s1r1u5](https://hackerone.com/s1r1u5) | 2022-08-11 |
+| 506 | [384839](../reports/384839.md) | DoS for HTTP/2 connections by crafted requests (CVE-2018-133 | Medium — CVSS 5.3 | — | 15 | [cy1337](https://hackerone.com/cy1337) | 2018-10-28 |
+| 507 | [259390](../reports/259390.md) | Use-after-free in XML::LibXML::Node::replaceChild | Medium — CVSS 5.6 | — | 15 | [mipu94](https://hackerone.com/mipu94) | 2017-09-16 |
+| 508 | [1552110](../reports/1552110.md) | OAUTH2 bearer not-checked for connection re-use | Medium | — | 14 | [monnerat](https://hackerone.com/monnerat) | 2022-04-29 |
+| 509 | [384214](../reports/384214.md) | heap-buffer-overflow (READ of size 48) in exif_read_data() | Medium | — | 13 | [geeknik](https://hackerone.com/geeknik) | 2018-09-01 |
+| 510 | [371135](../reports/371135.md) | CVE-2018-12882: heap-use-after-free in PHP 7.2 through 7.2.6 | Medium | — | 13 | [geeknik](https://hackerone.com/geeknik) | 2018-09-01 |
+| 511 | [1753226](../reports/1753226.md) | CVE-2022-42916: HSTS bypass via IDN | Medium | — | 12 | [kurohiro](https://hackerone.com/kurohiro) | 2022-11-03 |
+| 512 | [195586](../reports/195586.md) | Memory corruption when parsing a hostile PHAR archive | Medium | — | 12 | [aerodudrizzt](https://hackerone.com/aerodudrizzt) | 2019-10-13 |
+| 513 | [1787810](../reports/1787810.md) | Electron CVE-2022-35954 Delimiter Injection Vulnerability in | Medium | — | 12 | [hackeronanywhere](https://hackerone.com/hackeronanywhere) | 2022-12-14 |
+| 514 | [244459](../reports/244459.md) | Apache HTTP Request Parsing Whitespace Defects | Medium — CVSS 4.0 | — | 11 | [regilero](https://hackerone.com/regilero) | 2017-07-11 |
+| 515 | [344035](../reports/344035.md) | Heap Buffer Overflow (READ: 1786) in exif_iif_add_value | Medium — CVSS 6.3 | — | 11 | [cy1337](https://hackerone.com/cy1337) | 2018-06-01 |
+| 516 | [261335](../reports/261335.md) | Heap Use After Free Read in unserialize() | Medium | — | 11 | [cy1337](https://hackerone.com/cy1337) | 2018-11-27 |
+| 517 | [888986](../reports/888986.md) | [CVE-2020-10543] Buffer overflow caused by a crafted regular | Medium — CVSS 6.5 | — | 10 | [tmnt53](https://hackerone.com/tmnt53) | 2020-11-09 |
+| 518 | [1813831](../reports/1813831.md) | CVE-2022-43551: Another HSTS bypass via IDN | Medium | — | 10 | [kurohiro](https://hackerone.com/kurohiro) | 2023-02-03 |
+| 519 | [1565622](../reports/1565622.md) | CVE-2022-30115: HSTS bypass via trailing dot | Medium | — | 10 | [haxatron1](https://hackerone.com/haxatron1) | 2022-06-11 |
+| 520 | [1374512](../reports/1374512.md) | The Host Authorization middleware in Action Pack is vulnerab | Medium | — | 10 | [mshtawythug](https://hackerone.com/mshtawythug) | 2021-11-18 |
+| 521 | [721333](../reports/721333.md) | Buffer Overflow in smblib.c | Medium | — | 10 | [aaron_costello](https://hackerone.com/aaron_costello) | 2021-07-28 |
+| 522 | [1565619](../reports/1565619.md) | CVE-2022-27780: percent-encoded path separator in URL host | Medium | — | 8 | [haxatron1](https://hackerone.com/haxatron1) | 2022-06-11 |
+| 523 | [2104566](../reports/2104566.md) | (CVE-2023-32006) Permissions policies can impersonate other  | Medium | — | 8 | [haxatron1](https://hackerone.com/haxatron1) | 2023-10-08 |
+| 524 | [2621057](../reports/2621057.md) | libcurl: freeing stack buffer during x509 certificate parsin | Medium | — | 8 | [z2_](https://hackerone.com/z2_) | 2024-08-23 |
+| 525 | [271330](../reports/271330.md) | Format string implementation vulnerability, resulting in cod | Medium | — | 7 | [aerodudrizzt](https://hackerone.com/aerodudrizzt) | 2019-10-13 |
+| 526 | [745276](../reports/745276.md) | Dragonblood: Design and Implementation Flaws in WPA3 and EAP | Medium | — | 7 | [vanhoefm](https://hackerone.com/vanhoefm) | 2020-05-05 |
+| 527 | [261336](../reports/261336.md) | Out of Bounds Memory Read in unserialize() | Medium | — | 7 | [cy1337](https://hackerone.com/cy1337) | 2018-11-27 |
+| 528 | [181642](../reports/181642.md) | libtiff 4.0.6 heap bufer overflow / out of bounds read (CVE- | Medium — CVSS 5.4 | — | 7 | [geeknik](https://hackerone.com/geeknik) | 2019-10-04 |
+| 529 | [261338](../reports/261338.md) | Heap Use After Free in unserialize() | Medium | — | 7 | [cy1337](https://hackerone.com/cy1337) | 2018-11-27 |
+| 530 | [207983](../reports/207983.md) | read outside of buffer (heap buffer overflow) in S_regmatch  | Medium | — | 7 | [geeknik](https://hackerone.com/geeknik) | 2017-05-28 |
+| 531 | [182140](../reports/182140.md) | libtiff 4.0.6 segfault / read outside of buffer (CVE-2016-92 | Medium | — | 6 | [geeknik](https://hackerone.com/geeknik) | 2019-10-04 |
+| 532 | [1404789](../reports/1404789.md) | Ruby - Regular Expression Denial of Service Vulnerability of | Medium | — | 6 | [svalkanov](https://hackerone.com/svalkanov) | 2021-11-19 |
+| 533 | [245956](../reports/245956.md) | Use-after-free in PHP7's unserialize() | Medium | — | 6 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 534 | [1455248](../reports/1455248.md) | Buffer Overflow in optimized_escape_html method | Medium | — | 6 | [chamal](https://hackerone.com/chamal) | 2022-01-22 |
+| 535 | [1664019](../reports/1664019.md) | CVE-2022-35948: CRLF Injection in Nodejs ‘undici’ via Conten | Medium | — | 6 | [x_h1](https://hackerone.com/x_h1) | 2022-09-23 |
+| 536 | [182474](../reports/182474.md) | Use After Free in PHP7 unserialize() | Medium | — | 5 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 537 | [1663788](../reports/1663788.md) | [CVE-2022-35949]: undici.request vulnerable to SSRF using ab | Medium | — | 5 | [haxatron1](https://hackerone.com/haxatron1) | 2022-09-23 |
+| 538 | [1886139](../reports/1886139.md) | HTTP multi-header compression denial of service | Medium — CVSS 5.3 | — | 5 | [monnerat](https://hackerone.com/monnerat) | 2023-02-24 |
+| 539 | [175982](../reports/175982.md) | Use-after-free in unserialize() | Medium | — | 5 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 540 | [1944515](../reports/1944515.md) | CVE-2023-28755: ReDoS vulnerability in URI | Medium — CVSS 6.5 | — | 5 | [dee-see](https://hackerone.com/dee-see) | 2023-04-26 |
+| 541 | [674540](../reports/674540.md) | mod_remoteip stack buffer overflow and NULL pointer derefere | Medium | — | 5 | [ccppuu](https://hackerone.com/ccppuu) | 2019-11-07 |
+| 542 | [1073202](../reports/1073202.md) | Canonical Snapcraft vulnerable to remote code execution unde | Medium — CVSS 6.8 | — | 5 | [itszn](https://hackerone.com/itszn) | 2021-07-23 |
+| 543 | [201346](../reports/201346.md) | CVE-2017-3730: Bad (EC)DHE parameters cause a client crash | Medium | — | 5 | [guido](https://hackerone.com/guido) | 2017-02-07 |
+| 544 | [2125679](../reports/2125679.md) | [CVE-2023-23913] DOM Based Cross-site Scripting in rails-ujs | Medium | — | 5 | [ryotak](https://hackerone.com/ryotak) | 2023-09-07 |
+| 545 | [255587](../reports/255587.md) |  CVE-2017-1000101: cURL: URL globbing out of bounds read | Medium — CVSS 4.3 | — | 5 | [geeknik](https://hackerone.com/geeknik) | 2018-05-16 |
+| 546 | [323017](../reports/323017.md) | Two vulnerability in GNU binutils | Medium | — | 4 | [chihuahua](https://hackerone.com/chihuahua) | 2019-10-14 |
+| 547 | [1910810](../reports/1910810.md) | Apache HTTP Server: mod_proxy_uwsgi HTTP response splitting  | Medium | — | 4 | [nyxsorcerer](https://hackerone.com/nyxsorcerer) | 2023-03-23 |
+| 548 | [527042](../reports/527042.md) | CVE-2019-0196: mod_http2 with scoreboard Use-After-Free (Rea | Medium — CVSS 5.3 | — | 4 | [cy1337](https://hackerone.com/cy1337) | 2019-09-10 |
+| 549 | [198732](../reports/198732.md) | Use After Free in unserialize() | Medium | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 550 | [180909](../reports/180909.md) | Use-after-free in ArrayObject Deserialization | Medium | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 551 | [905015](../reports/905015.md) | Long filenames cause OOM and temp files are not cleaned | Medium — CVSS 5.3 | — | 4 | [jrauchberger](https://hackerone.com/jrauchberger) | 2020-10-10 |
+| 552 | [198723](../reports/198723.md) | Create an Unexpected Object and Don't Invoke __wakeup() in D | Medium | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 553 | [195580](../reports/195580.md) | Crash (DoS) when parsing a hostile TIFF | Medium — CVSS 6.5 | — | 3 | [aerodudrizzt](https://hackerone.com/aerodudrizzt) | 2019-10-13 |
+| 554 | [242119](../reports/242119.md) | Roundcube virtualmin privilege escalation (CVE-2017-8114) | Medium | — | 3 | [ilsani](https://hackerone.com/ilsani) | 2019-11-12 |
+| 555 | [262665](../reports/262665.md) | CVE-2017-5969: libxml2 when used in recover mode, allows rem | Medium | — | 3 | [geeknik](https://hackerone.com/geeknik) | 2019-10-04 |
+| 556 | [174069](../reports/174069.md) | Buffer overflow in HTTP parse_hostinfo(), parse_userinfo() a | Medium | — | 3 | [rc0r](https://hackerone.com/rc0r) | 2017-05-30 |
+| 557 | [195950](../reports/195950.md) | Use of uninitialized memory in unserialize() | Medium | — | 3 | [rc0r](https://hackerone.com/rc0r) | 2017-06-01 |
+| 558 | [198733](../reports/198733.md) | Type Confusion in Object Deserialization | Medium | — | 3 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 559 | [1514863](../reports/1514863.md) | Use of uninitialized value of in req_parsebody method of lua | Medium | — | 2 | [chamal](https://hackerone.com/chamal) | 2022-03-17 |
+| 560 | [195688](../reports/195688.md) | NULL Pointer Dereference while unserialize php object | Medium | — | 2 | [hoangnguyen](https://hackerone.com/hoangnguyen) | 2019-11-12 |
+| 561 | [680415](../reports/680415.md) | mod_http2, read-after-free in h2 connection shutdown (CVE-20 | Medium | — | 2 | [cy1337](https://hackerone.com/cy1337) | 2019-10-15 |
+| 562 | [852103](../reports/852103.md) | Out-of-Bound Read in urldecode() [CVE-2020-7067] | Medium | — | 2 | [bigshaq](https://hackerone.com/bigshaq) | 2020-10-12 |
+| 563 | [1997312](../reports/1997312.md) | CVE-2023-28319: UAF in SSH sha256 fingerprint check | Medium | — | 2 | [wct](https://hackerone.com/wct) | 2023-06-25 |
+| 564 | [2127968](../reports/2127968.md) | CVE-2023-40195: Apache Airflow Spark Provider Deserializatio | Medium | — | 2 | [x_h1](https://hackerone.com/x_h1) | 2023-09-08 |
+| 565 | [805010](../reports/805010.md) | PHP link() silently truncates after a null byte on Windows | Medium | — | 2 | [ryat](https://hackerone.com/ryat) | 2020-11-09 |
+| 566 | [272097](../reports/272097.md) | Interger overflow in eval trigger write out of bound | Medium | — | 2 | [mipu94](https://hackerone.com/mipu94) | 2017-12-11 |
+| 567 | [293126](../reports/293126.md) | Multiple issues in Libxml2 (2.9.2 - 2.9.5) | Medium — CVSS 5.4 | — | 2 | [xixabangm4](https://hackerone.com/xixabangm4) | 2019-10-14 |
+| 568 | [692040](../reports/692040.md) | PHP 7.3.3: Heap-use-after-free (READ of size 8) in match_at( | Medium | — | 2 | [geeknik](https://hackerone.com/geeknik) | 2020-10-12 |
+| 569 | [623588](../reports/623588.md) | Uninitialized read in gdImageCreateFromXbm | Medium — CVSS 5.3 | — | 1 | [chamal](https://hackerone.com/chamal) | 2020-10-10 |
+| 570 | [188661](../reports/188661.md) | Invalid read when wddx decodes empty boolean element | Medium | — | 1 | [fosec](https://hackerone.com/fosec) | 2019-11-12 |
+| 571 | [798744](../reports/798744.md) | Null Pointer Dereference in PHP Session Upload Progress | Medium | — | 1 | [ryat](https://hackerone.com/ryat) | 2020-11-09 |
+| 572 | [805013](../reports/805013.md) | DirectoryIterator class silently truncates after a null byte | Medium | — | 1 | [ryat](https://hackerone.com/ryat) | 2020-11-09 |
+| 573 | [781325](../reports/781325.md) | Out-of-bounds Read in php_strip_tags_ex | Medium | — | 1 | [ryat](https://hackerone.com/ryat) | 2020-11-09 |
+| 574 | [797159](../reports/797159.md) | PHP builded for Windows with TS support does not resolve rel | Medium — CVSS 6.8 | — | 0 | [vorismi3](https://hackerone.com/vorismi3) | 2020-11-09 |
+| 575 | [950299](../reports/950299.md) | Use after free vulnerability  in phar_parse_zipfile | Medium | — | 0 | [grigoritchy](https://hackerone.com/grigoritchy) | 2020-11-09 |
+| 576 | [672245](../reports/672245.md) | Use After Free in GC with Certain Destructors | Medium | — | 0 | [ryat](https://hackerone.com/ryat) | 2020-11-09 |
+| 577 | [2828263](../reports/2828263.md) | Secrets not masked in UI when sensitive variables are set vi | Low | — | 78 | [saurabhb](https://hackerone.com/saurabhb) | 2024-12-30 |
+| 578 | [3073507](../reports/3073507.md) | Apache Airflow Fab Provider: Application does not invalidate | Low | — | 57 | [saurabhb](https://hackerone.com/saurabhb) | 2025-05-29 |
+| 579 | [2279759](../reports/2279759.md) | curl HSTS long file name clears contents  | Low | — | 57 | [cxshakal](https://hackerone.com/cxshakal) | 2024-01-20 |
+| 580 | [2705661](../reports/2705661.md) | CVE-2024-45498: Apache Airflow Command injection in read_dat | Low | — | 54 | [nhienit2010](https://hackerone.com/nhienit2010) | 2024-12-07 |
+| 581 | [2215578](../reports/2215578.md) | [CVE-2023-38546]  cookie injection with none file | Low | — | 34 | [w0x42](https://hackerone.com/w0x42) | 2023-11-23 |
+| 582 | [2144868](../reports/2144868.md) | CVE-2023-40611: Apache Airflow Dag Runs Broken Access Contro | Low | — | 32 | [x_h1](https://hackerone.com/x_h1) | 2023-10-27 |
+| 583 | [174632](../reports/174632.md) | Information disclosure in mmap module - python 2.7.12 | Low — CVSS 3.7 | — | 31 | [aerodudrizzt](https://hackerone.com/aerodudrizzt) | 2019-10-13 |
+| 584 | [2621062](../reports/2621062.md) | curl: stack-buffer overread during punycode conversions | Low | — | 31 | [z2_](https://hackerone.com/z2_) | 2024-09-22 |
+| 585 | [2905532](../reports/2905532.md) | [CVE-2024-54133] Possible Content Security Policy bypass in  | Low | — | 29 | [ryotak](https://hackerone.com/ryotak) | 2025-02-06 |
+| 586 | [2446433](../reports/2446433.md) | [CVE-2024-26146] Header Parsing leads to Possible Denial of  | Low | — | 27 | [svalkanov](https://hackerone.com/svalkanov) | 2024-05-24 |
+| 587 | [2446437](../reports/2446437.md) | [CVE-2024-25126] Denial of Service Vulnerability in Rack Con | Low | — | 27 | [svalkanov](https://hackerone.com/svalkanov) | 2024-05-22 |
+| 588 | [2974850](../reports/2974850.md) | CVE-2025-0725: Heap overflow in curl with Content-Encoding g | Low | — | 24 | [z2_](https://hackerone.com/z2_) | 2025-04-27 |
+| 589 | [2341063](../reports/2341063.md) | CVE-2024-0853: OCSP verification bypass with TLS session reu | Low | — | 24 | [kurohiro](https://hackerone.com/kurohiro) | 2024-03-27 |
+| 590 | [2249299](../reports/2249299.md) | CVE-2023-47037: Airflow Broken Access Control Vulnerability | Low | — | 23 | [itztrq](https://hackerone.com/itztrq) | 2023-11-29 |
+| 591 | [2446427](../reports/2446427.md) | [CVE-2024-26142] ReDoS vulnerability in Accept header parsin | Low | — | 23 | [svalkanov](https://hackerone.com/svalkanov) | 2024-05-22 |
+| 592 | [2334460](../reports/2334460.md) | Pickle deserialization vulnerability in XComs | Low — CVSS 3.9 | — | 16 | [zpbrent](https://hackerone.com/zpbrent) | 2024-01-29 |
+| 593 | [1753224](../reports/1753224.md) | CVE-2022-35260: .netrc parser out-of-bounds access | Low | — | 11 | [kurohiro](https://hackerone.com/kurohiro) | 2022-12-03 |
+| 594 | [1991428](../reports/1991428.md) | CVE-2023-28322: more POST-after-PUT confusion | Low | — | 10 | [kurohiro](https://hackerone.com/kurohiro) | 2023-06-25 |
+| 595 | [412673](../reports/412673.md) | XML hash collision DoS vulnerability in Python's xml.etree m | Low — CVSS 3.7 | — | 9 | [tiran](https://hackerone.com/tiran) | 2018-10-31 |
+| 596 | [1595299](../reports/1595299.md) | Read beyond bounds via ap_rwrite() [zhbug_httpd_47.2] | Low | — | 9 | [tdp3kel9g](https://hackerone.com/tdp3kel9g) | 2022-07-09 |
+| 597 | [1686935](../reports/1686935.md) | CVE-2022-35252: control code in cookie denial of service | Low | — | 8 | [haxatron1](https://hackerone.com/haxatron1) | 2022-11-05 |
+| 598 | [364964](../reports/364964.md) | Client DoS due to large DH parameter (CVE-2018-0732) | Low | — | 7 | [guido](https://hackerone.com/guido) | 2018-09-20 |
+| 599 | [221787](../reports/221787.md) | Malformed SHA512 ticket DoS (CVE-2016-6302) | Low | — | 7 | [theyarestone](https://hackerone.com/theyarestone) | 2017-05-25 |
+| 600 | [259555](../reports/259555.md) | heap-buffer-overflow (WRITE of size 8) in Perl_pp_reverse() | Low | — | 7 | [geeknik](https://hackerone.com/geeknik) | 2018-05-07 |
+| 601 | [147310](../reports/147310.md) | ntpd: read_mru_list() does inadequate incoming packet checks | Low | — | 7 | [magnusstubman](https://hackerone.com/magnusstubman) | 2017-07-12 |
+| 602 | [233440](../reports/233440.md) | heap-buffer-overflow (READ of size 61) in Perl_re_intuit_sta | Low | — | 6 | [geeknik](https://hackerone.com/geeknik) | 2017-06-05 |
+| 603 | [194065](../reports/194065.md) |  DoS vulnerability in mod_auth_digest CVE-2016-2161 | Low | — | 6 | [danse](https://hackerone.com/danse) | 2017-04-10 |
+| 604 | [221790](../reports/221790.md) | Certificate message OOB reads (CVE-2016-6306) | Low | — | 5 | [theyarestone](https://hackerone.com/theyarestone) | 2017-05-25 |
+| 605 | [221791](../reports/221791.md) | Excessive allocation of memory in tls_get_message_header() ( | Low | — | 5 | [theyarestone](https://hackerone.com/theyarestone) | 2017-05-25 |
+| 606 | [221788](../reports/221788.md) | OOB write in BN_bn2dec() (CVE-2016-2182) | Low | — | 5 | [theyarestone](https://hackerone.com/theyarestone) | 2017-05-25 |
+| 607 | [1595290](../reports/1595290.md) | Controllable read beyond bounds in lua_websocket_readbytes() | Low | — | 5 | [tdp3kel9g](https://hackerone.com/tdp3kel9g) | 2022-07-09 |
+| 608 | [221792](../reports/221792.md) | Excessive allocation of memory in dtls1_preprocess_fragment( | Low | — | 5 | [theyarestone](https://hackerone.com/theyarestone) | 2017-05-25 |
+| 609 | [232150](../reports/232150.md) | heap-buffer-overflow (READ of size 11) in Perl 5.25.x | Low | — | 5 | [geeknik](https://hackerone.com/geeknik) | 2017-05-28 |
+| 610 | [221785](../reports/221785.md) | OOB write in MDC2_Update() (CVE-2016-6303) | Low | — | 5 | [theyarestone](https://hackerone.com/theyarestone) | 2017-05-25 |
+| 611 | [221789](../reports/221789.md) | OOB read in TS_OBJ_print_bio() (CVE-2016-2180) | Low | — | 5 | [theyarestone](https://hackerone.com/theyarestone) | 2017-05-25 |
+| 612 | [1595296](../reports/1595296.md) | Read beyond bounds in mod_isapi.c [zhbug_httpd_41] | Low | — | 5 | [tdp3kel9g](https://hackerone.com/tdp3kel9g) | 2022-07-09 |
+| 613 | [172403](../reports/172403.md) | Python 2.7 32-bit JSON encoding heap corruption | Low | — | 5 | [guido](https://hackerone.com/guido) | 2019-10-13 |
+| 614 | [1595281](../reports/1595281.md) | Read beyond bounds in ap_strcmp_match() [zhbug_httpd_47.7] | Low | — | 5 | [tdp3kel9g](https://hackerone.com/tdp3kel9g) | 2022-07-09 |
+| 615 | [1596252](../reports/1596252.md) | DoS via lua_read_body() [zhbug_httpd_94] | Low | — | 5 | [tdp3kel9g](https://hackerone.com/tdp3kel9g) | 2022-07-09 |
+| 616 | [1606039](../reports/1606039.md) | CVE-2022-27781: CERTINFO never-ending busy-loop | Low | — | 5 | [sybr](https://hackerone.com/sybr) | 2022-07-24 |
+| 617 | [172411](../reports/172411.md) | Heap overflow caused by type confusion vulnerability in merg | Low | — | 4 | [rc0r](https://hackerone.com/rc0r) | 2017-05-30 |
+| 618 | [838685](../reports/838685.md) | Use of uninitialized value in ftp_getrc_msg method of mod_pr | Low — CVSS 3.7 | — | 4 | [chamal](https://hackerone.com/chamal) | 2020-10-10 |
+| 619 | [170619](../reports/170619.md) | PHP Integer Overflow in gdImageWebpCtx | Low | — | 4 | [binvul](https://hackerone.com/binvul) | 2020-10-10 |
+| 620 | [180908](../reports/180908.md) | NULL Pointer Dereference in WDDX Packet Deserialization with | Low | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 621 | [1889477](../reports/1889477.md) | Security Unfavorable Specifications and Implementations in t | Low | — | 4 | [ht0k](https://hackerone.com/ht0k) | 2023-04-09 |
+| 622 | [1991427](../reports/1991427.md) | CVE-2023-28321: IDN wildcard match | Low | — | 4 | [kurohiro](https://hackerone.com/kurohiro) | 2023-06-25 |
+| 623 | [584757](../reports/584757.md) | Null Pointer Dereference in phar_create_or_parse_filename | Low | — | 3 | [chihuahua](https://hackerone.com/chihuahua) | 2020-10-10 |
+| 624 | [1913110](../reports/1913110.md) | CVE-2023-27537: HSTS double-free | Low | — | 3 | [kurohiro](https://hackerone.com/kurohiro) | 2023-03-23 |
+| 625 | [2070810](../reports/2070810.md) | Potential NULL dereference in libssh's sftp server | Low — CVSS 3.1 | — | 2 | [wct](https://hackerone.com/wct) | 2023-09-14 |
+| 626 | [172115](../reports/172115.md) | Multiple use after frees in obj2ast_* methods | Low | — | 2 | [pakt_](https://hackerone.com/pakt_) | 2019-11-12 |
+| 627 | [2104567](../reports/2104567.md) | (CVE-2023-32003) fs.mkdtemp() and fs.mkdtempSync() are missi | Low | — | 2 | [haxatron1](https://hackerone.com/haxatron1) | 2023-10-07 |
+| 628 | [150626](../reports/150626.md) | Heap Buffer Overflow | Low | — | 2 | [b6945caf98f2f809b8e6ece](https://hackerone.com/b6945caf98f2f809b8e6ece) | 2019-11-12 |
+| 629 | [180582](../reports/180582.md) | Heap overflow due to integer overflow in php_escape_html_ent | Low | — | 1 | [fosec](https://hackerone.com/fosec) | 2019-11-12 |
+| 630 | [180584](../reports/180584.md) | Heap overflow due to integer overflow in pg_escape_string()  | Low | — | 1 | [fosec](https://hackerone.com/fosec) | 2019-11-12 |
+| 631 | [181073](../reports/181073.md) | malloc negative size parameter | Low | — | 1 | [ahihi](https://hackerone.com/ahihi) | 2019-11-12 |
+| 632 | [180572](../reports/180572.md) | Memory corruption due to missing check size in _php_math_num | Low | — | 1 | [fosec](https://hackerone.com/fosec) | 2019-11-12 |
+| 633 | [180563](../reports/180563.md) | Heap overflow due to integer overflow in bzdecompress() func | Low | — | 1 | [fosec](https://hackerone.com/fosec) | 2019-11-12 |
+| 634 | [176226](../reports/176226.md) | CachingIterator null dereference when convert to string | Low | — | 1 | [ahihi](https://hackerone.com/ahihi) | 2019-11-12 |
+| 635 | [180562](../reports/180562.md) | Memory corruption in _php_math_number_format_ex() | Low | — | 1 | [fosec](https://hackerone.com/fosec) | 2019-11-12 |
+| 636 | [2449038](../reports/2449038.md) | CVE-2019-1551: rsaz_512_sqr overflow bug on x86_64 | None | — | 26 | [guido](https://hackerone.com/guido) | 2024-05-09 |
+| 637 | [501](../reports/501.md) | TLS Virtual Host Confusion | None | — | 23 | [adl](https://hackerone.com/adl) | 2014-11-10 |
+| 638 | [143966](../reports/143966.md) | Insufficient shell characters filtering leads to (potentiall | None | — | 22 | [stewie](https://hackerone.com/stewie) | 2016-05-03 |
+| 639 | [500](../reports/500.md) | OpenSSH: Memory corruption in AES-GCM support | None | — | 22 | [markus](https://hackerone.com/markus) | 2013-11-07 |
+| 640 | [31756](../reports/31756.md) | Drupal 7 pre auth sql injection and remote code execution | None | — | 21 | [shorst](https://hackerone.com/shorst) | 2015-04-06 |
+| 641 | [29839](../reports/29839.md) | GNU Bourne-Again Shell (Bash) 'Shellshock' Vulnerability | None | — | 19 | [stephane-chazelas](https://hackerone.com/stephane-chazelas) | 2014-10-01 |
+| 642 | [4689](../reports/4689.md) | SPDY memory corruption | None | — | 18 | [lmolas](https://hackerone.com/lmolas) | 2014-03-24 |
+| 643 | [150976](../reports/150976.md) | Flash “local-with-filesystem” Bypass in navigateToURL | None | — | 17 | [irsdl](https://hackerone.com/irsdl) | 2019-10-17 |
+| 644 | [159946](../reports/159946.md) | PHP Session Data Injection Vulnerability | None | — | 16 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 645 | [523](../reports/523.md) | PHP openssl_x509_parse() Memory Corruption Vulnerability | None | — | 16 | [sesser](https://hackerone.com/sesser) | 2013-12-13 |
+| 646 | [7277](../reports/7277.md) | TLS Triple Handshake Attack | None | — | 14 | [prosecco-inria](https://hackerone.com/prosecco-inria) | 2014-03-03 |
+| 647 | [165102](../reports/165102.md) | urllib HTTP header injection CVE-2016-5699 | None | — | 14 | [guido](https://hackerone.com/guido) | 2016-09-01 |
+| 648 | [1238470](../reports/1238470.md) | Fragmentation and Aggregation Flaws in Wi-Fi | None | — | 14 | [vanhoefm](https://hackerone.com/vanhoefm) | 2021-07-23 |
+| 649 | [4690](../reports/4690.md) | SPDY heap buffer overflow | None | — | 14 | [lmolas](https://hackerone.com/lmolas) | 2014-03-24 |
+| 650 | [37240](../reports/37240.md) | Race condition in Flash workers may cause an exploitabl​e do | None | — | 14 | [biloulehibou](https://hackerone.com/biloulehibou) | 2019-11-12 |
+| 651 | [944025](../reports/944025.md) | Uncovering file quarantine and UX security issues in macOS a | None | — | 13 | [metnew](https://hackerone.com/metnew) | 2021-07-23 |
+| 652 | [166629](../reports/166629.md) | Cross-protocol attack on TLS using SSLv2 (DROWN) (CVE-2016-0 | None | — | 13 | [nimia](https://hackerone.com/nimia) | 2016-09-21 |
+| 653 | [16910](../reports/16910.md) | Cross-site information assertion leak via Content Security P | None | — | 13 | [zemnmez](https://hackerone.com/zemnmez) | 2018-09-05 |
+| 654 | [112057](../reports/112057.md) | Heapoverflow in zipimporter module | None | — | 12 | [jakkdu](https://hackerone.com/jakkdu) | 2019-10-14 |
+| 655 | [146233](../reports/146233.md) | Use After Free Vulnerability in PHP's GC algorithm and unser | None | — | 11 | [evonide](https://hackerone.com/evonide) | 2016-07-28 |
+| 656 | [146235](../reports/146235.md) | ZipArchive class Use After Free Vulnerability in PHP's GC al | None | — | 11 | [evonide](https://hackerone.com/evonide) | 2016-07-28 |
+| 657 | [54094](../reports/54094.md) | HTTP MitM on Flash Player settings manager allows attacker t | None | — | 11 | [flashplayer](https://hackerone.com/flashplayer) | 2018-12-23 |
+| 658 | [6626](../reports/6626.md) | TLS heartbeat read overrun | None | — | 10 | [None](https://hackerone.com/None) | 2014-04-07 |
+| 659 | [1356](../reports/1356.md) | PHP Heap Overflow Vulnerability in imagecrop() | None | — | 8 | [kubabrecka](https://hackerone.com/kubabrecka) | 2014-02-06 |
+| 660 | [2106](../reports/2106.md) | Flash type confusion vulnerability leads to code execution | None | — | 8 | [bannedit](https://hackerone.com/bannedit) | 2013-12-10 |
+| 661 | [152266](../reports/152266.md) | Use After Free Vulnerability in SNMP with GC and unserialize | None | — | 8 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 662 | [166634](../reports/166634.md) | SSLv2 doesn't block disabled ciphers (CVE-2015-3197) | None | — | 7 | [nimia](https://hackerone.com/nimia) | 2016-09-21 |
+| 663 | [152231](../reports/152231.md) | Out of bound read in exif_process_IFD_in_MAKERNOTE | None | — | 7 | [hoangnguyen](https://hackerone.com/hoangnguyen) | 2016-08-30 |
+| 664 | [175766](../reports/175766.md) | Remote client memory corruption in ssl_add_clienthello_tlsex | None | — | 6 | [guido](https://hackerone.com/guido) | 2016-12-30 |
+| 665 | [140865](../reports/140865.md) | Integer Overflow in php_html_entities() | None | — | 6 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 666 | [167888](../reports/167888.md) | Uninitialized Thumbail Data Leads To Memory Leakage in exif_ | None | — | 6 | [hoangnguyen](https://hackerone.com/hoangnguyen) | 2019-11-12 |
+| 667 | [175230](../reports/175230.md) | Double-free in X509 parsing | None | — | 6 | [guido](https://hackerone.com/guido) | 2016-12-30 |
+| 668 | [146185](../reports/146185.md) | Integer Overflow in Length of String-typed ZVAL | None | — | 6 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 669 | [114339](../reports/114339.md) | Type Confusion in WDDX Packet Deserialization | None | — | 6 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 670 | [142472](../reports/142472.md) | CVE-2016-2177 Undefined pointer arithmetic in SSL code | None | — | 5 | [guido](https://hackerone.com/guido) | 2016-09-20 |
+| 671 | [2170](../reports/2170.md) | Flash double free vulnerability leads to code execution | None | — | 5 | [clem1](https://hackerone.com/clem1) | 2014-02-27 |
+| 672 | [2140](../reports/2140.md) | Flash local-with-fileaccess Sandbox Bypass | None | — | 5 | [flashplayer](https://hackerone.com/flashplayer) | 2014-04-17 |
+| 673 | [73245](../reports/73245.md) | Type Confusion Vulnerability in SoapClient | None | — | 5 | [ryat](https://hackerone.com/ryat) | 2015-04-16 |
+| 674 | [171593](../reports/171593.md) | Malicious Server can force read any file on clients system w | None | — | 5 | [tarq](https://hackerone.com/tarq) | 2019-11-12 |
+| 675 | [2293](../reports/2293.md) | Widespread failure of certificate validation in Android apps | None | — | 5 | [secbro](https://hackerone.com/secbro) | 2019-11-12 |
+| 676 | [265232](../reports/265232.md) | Unsecure: Bypass alerts of Little Flocker / Little Snitch /  | None | — | 5 | [pwnsdx](https://hackerone.com/pwnsdx) | 2017-12-12 |
+| 677 | [170618](../reports/170618.md) | CVE-2016-7418 PHP Out-Of-Bounds Read in php_wddx_push_elemen | None | — | 5 | [binvul](https://hackerone.com/binvul) | 2020-10-10 |
+| 678 | [146182](../reports/146182.md) | Integer Overflow/Heap Overflow in json_encode()/json_decode( | None | — | 5 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 679 | [155223](../reports/155223.md) | Use After Free Vulnerability in array_walk()/array_walk_recu | None | — | 5 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 680 | [10373](../reports/10373.md) | Bypassing Same Origin Policy With JSONP APIs and Flash | None | — | 5 | [molnarg](https://hackerone.com/molnarg) | 2014-07-19 |
+| 681 | [50170](../reports/50170.md) | FREAK: Factoring RSA_EXPORT Keys to Impersonate TLS Servers | None | — | 5 | [prosecco-inria](https://hackerone.com/prosecco-inria) | 2015-04-01 |
+| 682 | [47227](../reports/47227.md) | Race condition in workers may cause an exploitable double fr | None | — | 5 | [biloulehibou](https://hackerone.com/biloulehibou) | 2015-03-25 |
+| 683 | [146184](../reports/146184.md) | Integer Overflow in addcslashes()/addslashes() | None | — | 5 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 684 | [160294](../reports/160294.md) | Memory Leakage In exif_process_IFD_in_TIFF (CVE-2016-7128) | None | — | 4 | [hoangnguyen](https://hackerone.com/hoangnguyen) | 2019-11-12 |
+| 685 | [159992](../reports/159992.md) | memory allocator fails to realloc small block to large one | None | — | 4 | [tinduong](https://hackerone.com/tinduong) | 2019-10-14 |
+| 686 | [126416](../reports/126416.md) | Integer Overflow in php_raw_url_encode | None | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 687 | [152281](../reports/152281.md) | Use After Free/Double Free in Garbage Collection | None | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 688 | [167931](../reports/167931.md) | Memory Corruption in During Deserialized-object Destruction | None | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 689 | [250581](../reports/250581.md) | CVE-2017-11367: Global buffer overflow (READ of size 4) in s | None | — | 4 | [geeknik](https://hackerone.com/geeknik) | 2019-10-04 |
+| 690 | [15362](../reports/15362.md) | Flash Sandbox Bypass | None | — | 4 | [flashplayer](https://hackerone.com/flashplayer) | 2014-06-19 |
+| 691 | [42240](../reports/42240.md) | chrome allows POST requests with custom headers using flash  | None | — | 4 | [netfuzzer](https://hackerone.com/netfuzzer) | 2015-02-09 |
+| 692 | [55029](../reports/55029.md) | Use after free vulnerability in unserialize() with DateTimeZ | None | — | 4 | [ryat](https://hackerone.com/ryat) | 2015-02-27 |
+| 693 | [146180](../reports/146180.md) | Integer Overflow in SplFileObject::fread | None | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 694 | [141239](../reports/141239.md) | Module ngx_http_auth_basic_module is broken and allowing all | None | — | 4 | [anish2good](https://hackerone.com/anish2good) | 2016-05-30 |
+| 695 | [138179](../reports/138179.md) | Divide-and-conquer session key recovery in SSLv2 (CVE-2016-0 | None | — | 4 | [dadrian](https://hackerone.com/dadrian) | 2016-06-01 |
+| 696 | [93546](../reports/93546.md) | pngcrush double-free/segfault could result in DoS (CVE-2015- | None | — | 4 | [geeknik](https://hackerone.com/geeknik) | 2019-10-04 |
+| 697 | [152267](../reports/152267.md) | Use After Free in unserialize() with Unexpected Session Dese | None | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 698 | [73246](../reports/73246.md) | Use-after-free in php_curl related to CURLOPT_FILE/_INFILE/_ | None | — | 4 | [mongo](https://hackerone.com/mongo) | 2015-04-14 |
+| 699 | [278231](../reports/278231.md) | Out of bounds read in libcurl's IMAP FETCH response parser | None | — | 4 | [geeknik](https://hackerone.com/geeknik) | 2018-05-16 |
+| 700 | [146183](../reports/146183.md) | Integer Overflow in nl2br() | None | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 701 | [156511](../reports/156511.md) | Incorrect logic in MySQL & MariaDB protocol leads to remote  | None | — | 4 | [squashbroom](https://hackerone.com/squashbroom) | 2019-11-12 |
+| 702 | [159943](../reports/159943.md) | Create an Unexpected Object and Don't Invoke __wakeup() in D | None | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 703 | [6389](../reports/6389.md) | Integer overflow in strop.expandtabs | None | — | 4 | [ianbeer](https://hackerone.com/ianbeer) | 2014-03-31 |
+| 704 | [27651](../reports/27651.md) | Flash Local Sandbox Bypass | None | — | 4 | [flashplayer](https://hackerone.com/flashplayer) | 2014-10-07 |
+| 705 | [159948](../reports/159948.md) | Use After Free Vulnerability in unserialize() | None | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 706 | [124737](../reports/124737.md) | Multiple Heap Overflows in php_raw_url_encode/php_url_encode | None | — | 4 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 707 | [123119](../reports/123119.md) | Use after free with assign by ref to overloaded objects | None | — | 4 | [geeknik](https://hackerone.com/geeknik) | 2019-10-04 |
+| 708 | [73235](../reports/73235.md) | Use After Free Vulnerability in unserialize() | None | — | 3 | [ryat](https://hackerone.com/ryat) | 2015-03-17 |
+| 709 | [73429](../reports/73429.md) | pngcrush_measure_idat() off-by-one error (CVE-2015-2158) | None | — | 3 | [geeknik](https://hackerone.com/geeknik) | 2019-10-04 |
+| 710 | [167896](../reports/167896.md) | Out of bound when verify signature of tar phar in phar_parse | None | — | 3 | [hoangnguyen](https://hackerone.com/hoangnguyen) | 2019-11-12 |
+| 711 | [143022](../reports/143022.md) | Heap corruption via Python 2.7.11 IOBase readline() | None | — | 3 | [guido](https://hackerone.com/guido) | 2016-06-26 |
+| 712 | [136986](../reports/136986.md) | Padding oracle in AES-NI CBC MAC check (CVE-2016-2107) | None | — | 3 | [jurajsomorovsky](https://hackerone.com/jurajsomorovsky) | 2016-05-19 |
+| 713 | [73244](../reports/73244.md) | Use after free vulnerability in unserialize() with DateInter | None | — | 3 | [ryat](https://hackerone.com/ryat) | 2015-03-17 |
+| 714 | [121863](../reports/121863.md) | Buffer overflow in HTTP url parsing functions | None | — | 3 | [rc0r](https://hackerone.com/rc0r) | 2016-07-28 |
+| 715 | [25537](../reports/25537.md) | external entity expansion in Apache POI  | None | — | 3 | [told_snider](https://hackerone.com/told_snider) | 2019-10-14 |
+| 716 | [167955](../reports/167955.md) | CVE-2016-4796 OpenJPEG color_cmyk_to_rgb Out-of-Bounds Read  | None | — | 3 | [binvul](https://hackerone.com/binvul) | 2019-11-12 |
+| 717 | [73247](../reports/73247.md) | php_stream_url_wrap_http_ex() type-confusion vulnerability | None | — | 3 | [mongo](https://hackerone.com/mongo) | 2015-04-14 |
+| 718 | [51265](../reports/51265.md) | Flash Cross Domain Policy Bypass by Using File Upload and Re | None | — | 3 | [irsdl](https://hackerone.com/irsdl) | 2015-05-06 |
+| 719 | [103999](../reports/103999.md) | Use after free vulnerability in unserialize() with GMP | None | — | 3 | [ryat](https://hackerone.com/ryat) | 2015-09-01 |
+| 720 | [167512](../reports/167512.md) | CVE-2016-7163 OpenJPEG opj_pi_create_decode Integer Overflow | None | — | 3 | [binvul](https://hackerone.com/binvul) | 2019-11-12 |
+| 721 | [167895](../reports/167895.md) | Out of bound when verify signature of zip phar in phar_parse | None | — | 3 | [hoangnguyen](https://hackerone.com/hoangnguyen) | 2019-11-12 |
+| 722 | [55017](../reports/55017.md) | Multiple Python integer overflows | None | — | 3 | [pakt_](https://hackerone.com/pakt_) | 2015-02-04 |
+| 723 | [152280](../reports/152280.md) | Stack-based buffer overflow vulnerability in virtual_file_ex | None | — | 2 | [knight9](https://hackerone.com/knight9) | 2019-11-12 |
+| 724 | [108683](../reports/108683.md) | Session WDDX Packet Deserialization Type Confusion Vulnerabi | None | — | 2 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 725 | [28640](../reports/28640.md) | Ericsson Erlang OTP Core Allocation Subsystem Integer Overfl | None | — | 2 | [donb](https://hackerone.com/donb) | 2019-11-12 |
+| 726 | [55018](../reports/55018.md) | Segmentation fault for invalid PSS parameters | None | — | 2 | [geeknik](https://hackerone.com/geeknik) | 2015-03-19 |
+| 727 | [103997](../reports/103997.md) | Use After Free Vulnerability in unserialize() | None | — | 2 | [ryat](https://hackerone.com/ryat) | 2015-09-01 |
+| 728 | [167947](../reports/167947.md) | CVE-2016-3183 OpenJPEG sycc422_to_rgb Out-of-Bounds Read Vul | None | — | 2 | [binvul](https://hackerone.com/binvul) | 2019-11-12 |
+| 729 | [160295](../reports/160295.md) | Heap overflow in curl_escape | None | — | 2 | [hoangnguyen](https://hackerone.com/hoangnguyen) | 2019-11-12 |
+| 730 | [103996](../reports/103996.md) | Use After Free Vulnerability in unserialize() with SplObject | None | — | 2 | [ryat](https://hackerone.com/ryat) | 2015-09-01 |
+| 731 | [66962](../reports/66962.md) | Misusing of FPU Instruction Could Cause Security Vulnerabili | None | — | 2 | [yopwn](https://hackerone.com/yopwn) | 2019-11-12 |
+| 732 | [108682](../reports/108682.md) | Type Confusion Vulnerability in PHP_to_XMLRPC_worker() | None | — | 2 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 733 | [73234](../reports/73234.md) | out of bounds read crashes php-cgi | None | — | 2 | [geeknik](https://hackerone.com/geeknik) | 2014-12-30 |
+| 734 | [141839](../reports/141839.md) | Multiple vulnerabilities related to PCRE functions (already  | None | — | 2 | [mongo](https://hackerone.com/mongo) | 2019-11-12 |
+| 735 | [104009](../reports/104009.md) | zend_throw_or_error() format string vulnerability | None | — | 2 | [ryat](https://hackerone.com/ryat) | 2015-11-14 |
+| 736 | [152232](../reports/152232.md) | NULL Pointer Dereference in exif_process_user_comment | None | — | 2 | [hoangnguyen](https://hackerone.com/hoangnguyen) | 2016-08-30 |
+| 737 | [73252](../reports/73252.md) | Use after free in get_filter | None | — | 2 | [pakt_](https://hackerone.com/pakt_) | 2015-05-03 |
+| 738 | [159690](../reports/159690.md) | stack buffer overflows in the curses module | None | — | 2 | [tehybel](https://hackerone.com/tehybel) | 2019-11-12 |
+| 739 | [103991](../reports/103991.md) | mod_lua: Crash in websockets PING handling | None | — | 2 | [guido](https://hackerone.com/guido) | 2015-02-04 |
+| 740 | [73248](../reports/73248.md) | Tokenizer crash when processing undecodable source code | None | — | 2 | [hugbounter](https://hackerone.com/hugbounter) | 2015-04-21 |
+| 741 | [104018](../reports/104018.md) | Multiple Use After Free Vulnerabilites in unserialize() | None | — | 2 | [ryat](https://hackerone.com/ryat) | 2015-08-05 |
+| 742 | [55028](../reports/55028.md) | Free called on unitialized pointer in exif.c | None | — | 2 | [endeavor](https://hackerone.com/endeavor) | 2015-01-20 |
+| 743 | [125397](../reports/125397.md) | Null pointer deref (segfault) in stream_context_get_default | None | — | 2 | [cyberpunkych](https://hackerone.com/cyberpunkych) | 2016-05-17 |
+| 744 | [135945](../reports/135945.md) | EVP_EncryptUpdate overflow (CVE-2016-2106) | None | — | 2 | [guido](https://hackerone.com/guido) | 2016-05-03 |
+| 745 | [73249](../reports/73249.md) | Multiple use after free bugs in element module | None | — | 2 | [pakt_](https://hackerone.com/pakt_) | 2015-05-18 |
+| 746 | [112860](../reports/112860.md) | UAF  in xmlparser_setevents (2) | None | — | 2 | [pakt_](https://hackerone.com/pakt_) | 2019-11-12 |
+| 747 | [36264](../reports/36264.md) | mod_proxy_fcgi buffer overflow | None | — | 2 | [talko](https://hackerone.com/talko) | 2014-11-12 |
+| 748 | [73253](../reports/73253.md) | Multiple type confusions in unicode error handlers | None | — | 2 | [pakt_](https://hackerone.com/pakt_) | 2015-05-18 |
+| 749 | [153863](../reports/153863.md) | heap-buffer-overflow (write) simplestring_addn simplestring. | None | — | 2 | [pjumde](https://hackerone.com/pjumde) | 2019-11-12 |
+| 750 | [73250](../reports/73250.md) | Multiple use after free bugs in heapq module | None | — | 2 | [pakt_](https://hackerone.com/pakt_) | 2015-05-03 |
+| 751 | [48100](../reports/48100.md) | Bad Write in TTF font parsing (win32k.sys) | None | — | 2 | [dirtybit](https://hackerone.com/dirtybit) | 2015-03-01 |
+| 752 | [113268](../reports/113268.md) | Integer overflow in wordwrap | None | — | 2 | [jakkdu](https://hackerone.com/jakkdu) | 2019-10-14 |
+| 753 | [134880](../reports/134880.md) | ASN.1 BIO excessive memory allocation (CVE-2016-2109) | None | — | 2 | [geeknik](https://hackerone.com/geeknik) | 2016-05-03 |
+| 754 | [38170](../reports/38170.md) | Misc Python bugs (Memory Corruption & Use After Free) | None | — | 2 | [pakt_](https://hackerone.com/pakt_) | 2014-10-04 |
+| 755 | [112863](../reports/112863.md) | Trivial age-old heap overflow in 32-bit PHP | None | — | 2 | [jbremer](https://hackerone.com/jbremer) | 2019-11-12 |
+| 756 | [47779](../reports/47779.md) | Heap overflow in H. Spencer’s regex library on 32 bit system | None | — | 2 | [guido](https://hackerone.com/guido) | 2015-04-06 |
+| 757 | [16330](../reports/16330.md) | Multiple issues in looking-glass software (aka from web to B | None | — | 2 | [kaeso](https://hackerone.com/kaeso) | 2014-09-17 |
+| 758 | [146360](../reports/146360.md) | Heap Overflow Due To Integer Overflow | None | — | 2 | [hoangnguyen](https://hackerone.com/hoangnguyen) | 2019-11-12 |
+| 759 | [73251](../reports/73251.md) | Multiple use after free bugs in json encoding | None | — | 2 | [pakt_](https://hackerone.com/pakt_) | 2015-05-03 |
+| 760 | [165969](../reports/165969.md) | The “Malstaller” Attack, global hijacking of any installatio | None | — | 2 | [penrose](https://hackerone.com/penrose) | 2019-11-12 |
+| 761 | [108681](../reports/108681.md) | Use After Free Vulnerability in WDDX Packet Deserialization | None | — | 2 | [ryat](https://hackerone.com/ryat) | 2019-10-13 |
+| 762 | [103995](../reports/103995.md) | Use After Free Vulnerability in unserialize() with SplDoubly | None | — | 2 | [ryat](https://hackerone.com/ryat) | 2015-09-01 |
+| 763 | [167953](../reports/167953.md) | CVE-2016-3182 OpenJPEG color_esycc_to_rgb Out-of-Bounds Read | None | — | 2 | [binvul](https://hackerone.com/binvul) | 2019-11-12 |
+| 764 | [120903](../reports/120903.md) | putty pscp client-side post-auth stack buffer overwrite when | None | — | 2 | [hxd](https://hackerone.com/hxd) | 2019-11-12 |
+| 765 | [73236](../reports/73236.md) | X509_to_X509_REQ NULL pointer deref | None | — | 2 | [geeknik](https://hackerone.com/geeknik) | 2015-03-15 |
+| 766 | [103998](../reports/103998.md) | Use After Free Vulnerability in session deserializer | None | — | 2 | [ryat](https://hackerone.com/ryat) | 2015-09-01 |
+| 767 | [112723](../reports/112723.md) | PHP-FPM fpm_log.c memory leak and buffer overflow | None | — | 1 | [imrerad](https://hackerone.com/imrerad) | 2019-11-12 |
+| 768 | [146200](../reports/146200.md) | _php_mb_regex_ereg_replace_exec - double free | None | — | 1 | [51201](https://hackerone.com/51201) | 2019-11-12 |
+| 769 | [73242](../reports/73242.md) | libcurl: URL request injection | None | — | 1 | [isciurus](https://hackerone.com/isciurus) | 2015-01-08 |
+| 770 | [159696](../reports/159696.md) | Two vulnerabilities in the ssl module | None | — | 1 | [tehybel](https://hackerone.com/tehybel) | 2019-11-12 |
+| 771 | [47232](../reports/47232.md) | Use after free during the StageVideoAvailabilityEvent can re | None | — | 1 | [biloulehibou](https://hackerone.com/biloulehibou) | 2015-03-25 |
+| 772 | [167510](../reports/167510.md) | CVE-2016-5157 OpenJPEG opj_dwt_interleave_v Out-of-Bounds Wr | None | — | 1 | [binvul](https://hackerone.com/binvul) | 2019-11-12 |
+| 773 | [114414](../reports/114414.md) | openssl_seal() uninitialized memory usage | None | — | 1 | [51201](https://hackerone.com/51201) | 2019-11-12 |
+| 774 | [73255](../reports/73255.md) | str_repeat() sign mismatch based memory corruption | None | — | 1 | [cogitoergor00t](https://hackerone.com/cogitoergor00t) | 2015-05-12 |
+| 775 | [152278](../reports/152278.md) | Stack-based buffer overflow vulnerability in php_stream_zip_ | None | — | 1 | [knight9](https://hackerone.com/knight9) | 2019-11-12 |
 | 776 | [159988](../reports/159988.md) | Heap Overflow due to integer overflows | None | — | 1 | [knight9](https://hackerone.com/knight9) | 2019-11-12 |
-| 777 | [159693](../reports/159693.md) | Py_DECREF on a non-owned object in the _sre module | None | — | 1 | [tehybel](https://hackerone.com/tehybel) | 2019-11-12 |
-| 778 | [135944](../reports/135944.md) | EVP_EncodeUpdate overflow (CVE-2016-2105) | None | — | 1 | [guido](https://hackerone.com/guido) | 2016-05-03 |
-| 779 | [135946](../reports/135946.md) | EBCDIC overread (CVE-2016-2176) | None | — | 1 | [guido](https://hackerone.com/guido) | 2016-05-03 |
-| 780 | [55030](../reports/55030.md) | SoapClient's __call() type confusion through unserialize() | None | — | 1 | [cogitoergor00t](https://hackerone.com/cogitoergor00t) | 2015-03-03 |
-| 781 | [73240](../reports/73240.md) | Integer overflow in ftp_genlist() resulting in heap overflow | None | — | 1 | [ruben](https://hackerone.com/ruben) | 2015-05-12 |
-| 782 | [104010](../reports/104010.md) | SOAP serialize_function_call() type confusion / RCE | None | — | 0 | [cogitoergor00t](https://hackerone.com/cogitoergor00t) | 2015-09-02 |
-| 783 | [104019](../reports/104019.md) | Files extracted from archive may be placed outside of destin | None | — | 0 | [stewie](https://hackerone.com/stewie) | 2015-08-05 |
-| 784 | [159686](../reports/159686.md) | integer overflow in the _csv module's join_append_data funct | None | — | 0 | [tehybel](https://hackerone.com/tehybel) | 2019-11-12 |
-| 785 | [103992](../reports/103992.md) | Integer overflow in _Unpickler_Read | None | — | 0 | [hugbounter](https://hackerone.com/hugbounter) | 2015-09-26 |
-| 786 | [104015](../reports/104015.md) | curl_setopt_array() type confusion | None | — | 0 | [cogitoergor00t](https://hackerone.com/cogitoergor00t) | 2015-08-04 |
-| 787 | [104017](../reports/104017.md) | Arbitrary code execution in str_ireplace function | None | — | 0 | [dimitri](https://hackerone.com/dimitri) | 2015-08-04 |
-| 788 | [104028](../reports/104028.md) | Improved fix for bug #69545 (Integer overflow in ftp_genlist | None | — | 0 | [ruben](https://hackerone.com/ruben) | 2015-06-18 |
-| 789 | [104033](../reports/104033.md) | tokenizer crash when processing undecodable source code | None | — | 0 | [androm3da](https://hackerone.com/androm3da) | 2015-11-14 |
+| 777 | [20671](../reports/20671.md) | integer overflow in 'buffer' type allows reading memory | None | — | 1 | [removed](https://hackerone.com/removed) | 2014-06-24 |
+| 778 | [12297](../reports/12297.md) | Python vulnerability: reading arbitrary process memory | None | — | 1 | [guido](https://hackerone.com/guido) | 2014-06-20 |
+| 779 | [47234](../reports/47234.md) | Use After Free in Flash MessageChannel.send can cause arbitr | None | — | 1 | [biloulehibou](https://hackerone.com/biloulehibou) | 2015-03-25 |
+| 780 | [167957](../reports/167957.md) | CVE-2016-1924 OpenJPEG opj_tgt_reset Out-of-Bounds Read Vuln | None | — | 1 | [binvul](https://hackerone.com/binvul) | 2019-11-12 |
+| 781 | [167977](../reports/167977.md) | Missing type check when unserializing SplArray | None | — | 1 | [ahihi](https://hackerone.com/ahihi) | 2019-11-12 |
+| 782 | [135944](../reports/135944.md) | EVP_EncodeUpdate overflow (CVE-2016-2105) | None | — | 1 | [guido](https://hackerone.com/guido) | 2016-05-03 |
+| 783 | [113122](../reports/113122.md) | An integer overflow bug in php_str_to_str_ex() led arbitrary | None | — | 1 | [blue9057](https://hackerone.com/blue9057) | 2019-11-12 |
+| 784 | [18843](../reports/18843.md) | use-after-free vulnerability in Flash Player | None | — | 1 | [yopwn](https://hackerone.com/yopwn) | 2019-11-12 |
+| 785 | [167921](../reports/167921.md) | integer overflow in xml_utf8_encode | None | — | 1 | [ahihi](https://hackerone.com/ahihi) | 2019-11-12 |
+| 786 | [17688](../reports/17688.md) | LZ4 Core | None | — | 1 | [donb](https://hackerone.com/donb) | 2014-07-25 |
+| 787 | [159687](../reports/159687.md) | integer overflow in binascii.b2a_qp | None | — | 1 | [tehybel](https://hackerone.com/tehybel) | 2019-11-12 |
+| 788 | [55033](../reports/55033.md) | Use after free vulnerability in unserialize() | None | — | 1 | [sesser](https://hackerone.com/sesser) | 2015-01-20 |
+| 789 | [135027](../reports/135027.md) | Potential double free in EVP_DigestInit_ex | None | — | 1 | [guido](https://hackerone.com/guido) | 2016-05-03 |
+| 790 | [55030](../reports/55030.md) | SoapClient's __call() type confusion through unserialize() | None | — | 1 | [cogitoergor00t](https://hackerone.com/cogitoergor00t) | 2015-03-03 |
+| 791 | [28445](../reports/28445.md) | SPL ArrayObject/SPLObjectStorage Unserialization Type Confus | None | — | 1 | [sesser](https://hackerone.com/sesser) | 2014-07-04 |
+| 792 | [112855](../reports/112855.md) | EIP control using type confusion in json encoding | None | — | 1 | [pakt_](https://hackerone.com/pakt_) | 2019-11-12 |
+| 793 | [113120](../reports/113120.md) | An integer overflow bug in php_implode() could lead heap ove | None | — | 1 | [blue9057](https://hackerone.com/blue9057) | 2019-11-12 |
+| 794 | [135946](../reports/135946.md) | EBCDIC overread (CVE-2016-2176) | None | — | 1 | [guido](https://hackerone.com/guido) | 2016-05-03 |
+| 795 | [122256](../reports/122256.md) | Adobe Flash Player  Uninitialised Memory Corruption | None | — | 1 | [riusksk](https://hackerone.com/riusksk) | 2019-11-12 |
+| 796 | [112858](../reports/112858.md) | UAF in xmlparser_setevents (1) | None | — | 1 | [pakt_](https://hackerone.com/pakt_) | 2019-11-12 |
+| 797 | [138181](../reports/138181.md) | Bleichenbacher oracle in SSLv2 (CVE-2016-0704) | None | — | 1 | [dadrian](https://hackerone.com/dadrian) | 2016-06-01 |
+| 798 | [165154](../reports/165154.md) | Additional information for CVE-2016-5699 | None | — | 1 | [ecbftw](https://hackerone.com/ecbftw) | 2019-11-12 |
+| 799 | [159693](../reports/159693.md) | Py_DECREF on a non-owned object in the _sre module | None | — | 1 | [tehybel](https://hackerone.com/tehybel) | 2019-11-12 |
+| 800 | [119873](../reports/119873.md) | BN_hex2bn/BN_dec2bn NULL pointer deref/heap corruption (CVE- | None | — | 1 | [guido](https://hackerone.com/guido) | 2016-03-27 |
+| 801 | [20873](../reports/20873.md) | rsync hash collisions may allow an attacker to corrupt or mo | None | — | 1 | [mik](https://hackerone.com/mik) | 2014-11-17 |
+| 802 | [73260](../reports/73260.md) | Integer overflow in _json_encode_unicode leads to crash | None | — | 1 | [nilch](https://hackerone.com/nilch) | 2015-06-27 |
+| 803 | [146255](../reports/146255.md) | Double Free Corruption in wddx.c (extension) | None | — | 1 | [hoangnguyen](https://hackerone.com/hoangnguyen) | 2019-11-12 |
+| 804 | [118855](../reports/118855.md) | CVE-2016-0799 memory issues in BIO_*printf functions | None | — | 1 | [guido](https://hackerone.com/guido) | 2016-03-27 |
+| 805 | [43443](../reports/43443.md) | PyUnicode_FromFormatV crasher | None | — | 1 | [guido](https://hackerone.com/guido) | 2014-12-15 |
+| 806 | [119989](../reports/119989.md) | b2i_PVK_bio heap corruption | None | — | 1 | [guido](https://hackerone.com/guido) | 2016-03-28 |
+| 807 | [163087](../reports/163087.md) | use of uninitialized variables in operator.methodcaller | None | — | 1 | [tehybel](https://hackerone.com/tehybel) | 2019-11-12 |
+| 808 | [73240](../reports/73240.md) | Integer overflow in ftp_genlist() resulting in heap overflow | None | — | 1 | [ruben](https://hackerone.com/ruben) | 2015-05-12 |
+| 809 | [73241](../reports/73241.md) | Malformed ECParameters causes infinite loop | None | — | 1 | [ctz](https://hackerone.com/ctz) | 2015-06-11 |
+| 810 | [104028](../reports/104028.md) | Improved fix for bug #69545 (Integer overflow in ftp_genlist | None | — | 0 | [ruben](https://hackerone.com/ruben) | 2015-06-18 |
+| 811 | [104033](../reports/104033.md) | tokenizer crash when processing undecodable source code | None | — | 0 | [androm3da](https://hackerone.com/androm3da) | 2015-11-14 |
+| 812 | [159686](../reports/159686.md) | integer overflow in the _csv module's join_append_data funct | None | — | 0 | [tehybel](https://hackerone.com/tehybel) | 2019-11-12 |
+| 813 | [104019](../reports/104019.md) | Files extracted from archive may be placed outside of destin | None | — | 0 | [stewie](https://hackerone.com/stewie) | 2015-08-05 |
+| 814 | [104015](../reports/104015.md) | curl_setopt_array() type confusion | None | — | 0 | [cogitoergor00t](https://hackerone.com/cogitoergor00t) | 2015-08-04 |
+| 815 | [104017](../reports/104017.md) | Arbitrary code execution in str_ireplace function | None | — | 0 | [dimitri](https://hackerone.com/dimitri) | 2015-08-04 |
+| 816 | [103992](../reports/103992.md) | Integer overflow in _Unpickler_Read | None | — | 0 | [hugbounter](https://hackerone.com/hugbounter) | 2015-09-26 |
+| 817 | [104010](../reports/104010.md) | SOAP serialize_function_call() type confusion / RCE | None | — | 0 | [cogitoergor00t](https://hackerone.com/cogitoergor00t) | 2015-09-02 |

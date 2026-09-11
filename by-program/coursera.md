@@ -1,4 +1,4 @@
-# Coursera — Disclosed Reports (5 total)
+# Coursera — Disclosed Reports (6 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -8,4 +8,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 2 | [205626](../reports/205626.md) | XSS Stored | Medium | — | 28 | [hunterahsan](https://hackerone.com/hunterahsan) | 2018-01-12 |
 | 3 | [292673](../reports/292673.md) | No Password Verification on  Changing Email Address Cause Ac | Medium | — | 19 | [nohack](https://hackerone.com/nohack) | 2018-05-19 |
 | 4 | [152080](../reports/152080.md) | Broken authentication and session management flaw  | None | — | 14 | [khizer47](https://hackerone.com/khizer47) | 2016-08-18 |
-| 5 | [127163](../reports/127163.md) | XSS in https://www.coursera.org/courses/ | None | — | 5 | [secalert](https://hackerone.com/secalert) | 2016-09-14 |
+| 5 | [303322](../reports/303322.md) | [www.coursera.org] Leaking password reset link on referrer h | None | — | 9 | [flex0geek](https://hackerone.com/flex0geek) | 2018-02-14 |
+| 6 | [127163](../reports/127163.md) | XSS in https://www.coursera.org/courses/ | None | — | 5 | [secalert](https://hackerone.com/secalert) | 2016-09-14 |

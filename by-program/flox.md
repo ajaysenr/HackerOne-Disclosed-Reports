@@ -1,7 +1,8 @@
-# Flox — Disclosed Reports (1 total)
+# Flox — Disclosed Reports (2 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
 | # | Report | Title | Severity | Bounty | Votes | Reporter | Disclosed |
 |---|---|---|---|---|---|---|---|
 | 1 | [79185](../reports/79185.md) | Content spoofing through Referel header | None | — | 3 | [pradeepch99](https://hackerone.com/pradeepch99) | 2015-08-29 |
+| 2 | [78685](../reports/78685.md) | Email spoofing configuration missing | None | — | 1 | [donthackme](https://hackerone.com/donthackme) | 2015-07-27 |

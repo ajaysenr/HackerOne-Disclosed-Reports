@@ -1,4 +1,4 @@
-# Brave Software — Disclosed Reports (105 total)
+# Brave Software — Disclosed Reports (118 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -57,55 +57,68 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 51 | [415258](../reports/415258.md) | RCE: DnDing shortcut files to chrome://brave allows loading  | High — CVSS 8.3 | — | 16 | [metnew](https://hackerone.com/metnew) | 2018-10-22 |
 | 52 | [866382](../reports/866382.md) | HTTP Request Smuggling | High | — | 12 | [dracomalfoy](https://hackerone.com/dracomalfoy) | 2020-06-04 |
 | 53 | [188078](../reports/188078.md) | Command Execution because of extension handling | High — CVSS 8.8 | — | 8 | [paulos__](https://hackerone.com/paulos__) | 2017-08-10 |
-| 54 | [179121](../reports/179121.md) | Information disclosure of website | High | — | 3 | [1_1_1](https://hackerone.com/1_1_1) | 2016-11-16 |
-| 55 | [604945](../reports/604945.md) | Tor IP leak caused by the PDF Viewer extension in certain si | Medium | — | 25 | [world_languages](https://hackerone.com/world_languages) | 2023-08-02 |
-| 56 | [374969](../reports/374969.md) | Navigation to protocol handler URL from the opened page disp | Medium | — | 25 | [metnew](https://hackerone.com/metnew) | 2018-09-24 |
-| 57 | [1338437](../reports/1338437.md) | Open redirect found on account.brave.com | Medium | — | 20 | [tabaahi](https://hackerone.com/tabaahi) | 2022-06-30 |
-| 58 | [1791558](../reports/1791558.md) | S3 Bucket Takeover : brave-apt | Medium | — | 19 | [j3rry-1729](https://hackerone.com/j3rry-1729) | 2023-04-26 |
-| 59 | [980856](../reports/980856.md) | https://publishers.basicattentiontoken.org/favicon.ico is Vu | Medium — CVSS 5.2 | — | 18 | [lalit2020](https://hackerone.com/lalit2020) | 2020-12-16 |
-| 60 | [975514](../reports/975514.md) | Arbitrary file download due to bad handling of Redirects in  | Medium | — | 15 | [d3f4u17](https://hackerone.com/d3f4u17) | 2022-06-30 |
-| 61 | [369086](../reports/369086.md) | URL spoofing in Brave for macOS | Medium | — | 14 | [metnew](https://hackerone.com/metnew) | 2018-10-04 |
-| 62 | [968328](../reports/968328.md) | Redirecting users to malicious torrent-files/websites using  | Medium | — | 13 | [d3f4u17](https://hackerone.com/d3f4u17) | 2022-06-30 |
-| 63 | [378864](../reports/378864.md) | Torrent extension: Cross-origin downloading + "URL spoofing" | Medium | — | 12 | [metnew](https://hackerone.com/metnew) | 2018-09-24 |
-| 64 | [369218](../reports/369218.md) | Navigation to restricted origins via "Open in new tab" | Medium | — | 12 | [metnew](https://hackerone.com/metnew) | 2018-10-09 |
-| 65 | [963155](../reports/963155.md) | Arbitrary file download via "Save .torrent file" option can  | Medium | — | 11 | [d3f4u17](https://hackerone.com/d3f4u17) | 2022-06-30 |
-| 66 | [175403](../reports/175403.md) | [website] Script injection in newsletter signup https://brav | Medium | — | 10 | [cmd-0_0](https://hackerone.com/cmd-0_0) | 2016-11-03 |
-| 67 | [373721](../reports/373721.md) | URL spoofing using protocol handlers | Medium | — | 9 | [metnew](https://hackerone.com/metnew) | 2018-10-04 |
-| 68 | [319036](../reports/319036.md) | There is vulnebility Click Here TO fix | Medium — CVSS 6.8 | — | 8 | [sonicnik](https://hackerone.com/sonicnik) | 2019-02-19 |
-| 69 | [175529](../reports/175529.md) | URI Obfuscation | Medium — CVSS 4.3 | — | 7 | [ajdumanhug](https://hackerone.com/ajdumanhug) | 2016-10-15 |
-| 70 | [208834](../reports/208834.md) | Address bar spoofing in Brave browser via. window close warn | Medium | — | 5 | [xifengweiyu](https://hackerone.com/xifengweiyu) | 2017-08-10 |
-| 71 | [3693295](../reports/3693295.md) | iOS Brave Playlist "Open in Private Tab" bypasses FaceID req | Medium | — | 4 | [aaront](https://hackerone.com/aaront) | 2026-05-28 |
-| 72 | [176076](../reports/176076.md) | Javascript confirm() crashes Brave on PC | Medium | — | 4 | [jackb898](https://hackerone.com/jackb898) | 2016-10-19 |
-| 73 | [176197](../reports/176197.md) | Denial of service attack(window object) on brave browser | Medium | — | 2 | [sahiltikoo](https://hackerone.com/sahiltikoo) | 2016-10-25 |
-| 74 | [175366](../reports/175366.md) | Brave: Admin Panel Access | Medium | — | 2 | [ranjith16](https://hackerone.com/ranjith16) | 2017-08-10 |
-| 75 | [179248](../reports/179248.md) | Denial of service(POP UP Recursion) on Brave browser | Medium | — | 1 | [sahiltikoo](https://hackerone.com/sahiltikoo) | 2016-11-07 |
-| 76 | [449478](../reports/449478.md) | Brave allows flash to follow 307 redirects to other origins  | Medium | — | 1 | [tvgfvghjbhunj](https://hackerone.com/tvgfvghjbhunj) | 2018-12-12 |
-| 77 | [374106](../reports/374106.md) | Lack of quarantine meta-attribute for downloaded files leads | Low | — | 52 | [metnew](https://hackerone.com/metnew) | 2019-09-12 |
-| 78 | [491753](../reports/491753.md) | DMARC RECORD MISSING | Low | — | 20 | [hackthedevil](https://hackerone.com/hackthedevil) | 2019-02-13 |
-| 79 | [854793](../reports/854793.md) | No rate limiting for confirmation email lead to email floodi | Low | — | 18 | [root_geek280](https://hackerone.com/root_geek280) | 2020-11-09 |
-| 80 | [812351](../reports/812351.md) | Username Information Disclosure via Json response - Using pa | Low | — | 16 | [0xrobot](https://hackerone.com/0xrobot) | 2020-06-04 |
-| 81 | [317931](../reports/317931.md) | Bypassing Homograph Attack Using /@ [ Tested On Windows ] | Low | — | 15 | [apapedulimu](https://hackerone.com/apapedulimu) | 2018-02-23 |
-| 82 | [268984](../reports/268984.md) | Homograph Attack Bypass [ Tested on Linux & Windows ] | Low | — | 15 | [apapedulimu](https://hackerone.com/apapedulimu) | 2017-09-21 |
-| 83 | [1316650](../reports/1316650.md) | unclaimed s3 bucket takeover in the 3 js file located on the | Low | — | 14 | [gaurav-bhatia](https://hackerone.com/gaurav-bhatia) | 2021-09-24 |
-| 84 | [175286](../reports/175286.md) | Homograph attack | Low | — | 14 | [jaypatel](https://hackerone.com/jaypatel) | 2016-10-14 |
-| 85 | [176929](../reports/176929.md) | [ios] Address bar spoofing in Brave for iOS | Low | — | 13 | [ibram](https://hackerone.com/ibram) | 2016-10-25 |
-| 86 | [378805](../reports/378805.md) | Navigation to `chrome-extension://` origin (internal pages)  | Low — CVSS 3.8 | — | 11 | [metnew](https://hackerone.com/metnew) | 2018-09-24 |
-| 87 | [369185](../reports/369185.md) | Unsafe handling of protocol handlers | Low — CVSS 3.1 | — | 11 | [metnew](https://hackerone.com/metnew) | 2018-09-24 |
-| 88 | [375259](../reports/375259.md) | Cross-origin page stays focused before/after downloading + u | Low | — | 10 | [metnew](https://hackerone.com/metnew) | 2018-10-04 |
-| 89 | [663729](../reports/663729.md) | [Brave browser] WebTorrent has DNS rebinding vulnerability | Low | — | 9 | [newfunction](https://hackerone.com/newfunction) | 2019-10-16 |
-| 90 | [175779](../reports/175779.md) | Address Bar Spoofing - Already resolved - Retroactive report | Low | — | 8 | [jimeno](https://hackerone.com/jimeno) | 2016-10-14 |
-| 91 | [357665](../reports/357665.md) | DoS in Brave browser for iOS | Low | — | 8 | [metnew](https://hackerone.com/metnew) | 2018-09-24 |
-| 92 | [175320](../reports/175320.md) | 2 Directory Listing on ledger.brave.com & vault-staging.brav | Low | — | 7 | [bibo](https://hackerone.com/bibo) | 2016-11-13 |
-| 93 | [378809](../reports/378809.md) | `alert()` dialogs on `chrome-extension://` origin (internal  | Low | — | 6 | [metnew](https://hackerone.com/metnew) | 2018-10-04 |
-| 94 | [215044](../reports/215044.md) | [iOS] URL can be replaceState by blob URL in iOS Brave | Low | — | 6 | [xifengweiyu](https://hackerone.com/xifengweiyu) | 2017-08-10 |
-| 95 | [176066](../reports/176066.md) | Denial of service attack on Brave Browser. | Low | — | 5 | [sahiltikoo](https://hackerone.com/sahiltikoo) | 2017-02-10 |
-| 96 | [377206](../reports/377206.md) | `settingcontent-ms` files lacks "mark of the web" => execute | Low | — | 5 | [metnew](https://hackerone.com/metnew) | 2018-10-04 |
-| 97 | [669440](../reports/669440.md) | Link obfuscation bug | Low | — | 4 | [l000g1c](https://hackerone.com/l000g1c) | 2019-08-12 |
-| 98 | [203088](../reports/203088.md) | Brave payments remembers history even after clearing all bro | Low — CVSS 2.1 | — | 2 | [sumit](https://hackerone.com/sumit) | 2017-08-10 |
-| 99 | [272231](../reports/272231.md) | Download of (later executed) .NET installer over insecure ch | Low | — | 1 | [skanthak](https://hackerone.com/skanthak) | 2018-07-09 |
-| 100 | [1835133](../reports/1835133.md) | S3 Bucket Takeover  "brave-browser-rpm-staging-release-test" | None | — | 24 | [j3rry-1729](https://hackerone.com/j3rry-1729) | 2023-04-26 |
-| 101 | [371464](../reports/371464.md) | Directory Listing on https://promo-services-staging.brave.co | None | — | 4 | [testingforbugs](https://hackerone.com/testingforbugs) | 2018-07-09 |
-| 102 | [331428](../reports/331428.md) | Cross domain tracking even with 3rd party cookies disabled. | None | — | 2 | [kmodi](https://hackerone.com/kmodi) | 2018-08-07 |
-| 103 | [181061](../reports/181061.md) | Remote Stack Overflow Vulnerability (DoS) | None | — | 1 | [kjashwanth13](https://hackerone.com/kjashwanth13) | 2017-08-10 |
-| 104 | [221461](../reports/221461.md) | homograph-attack (unicode vuln) | None | — | 1 | [siyadlbug](https://hackerone.com/siyadlbug) | 2017-08-10 |
-| 105 | [176364](../reports/176364.md) | DOS in browser using window.print() function | None | — | 0 | [tushu](https://hackerone.com/tushu) | 2016-10-20 |
+| 54 | [182557](../reports/182557.md) | links the user may download can be a malicious files | High | — | 4 | [seifelsallamy](https://hackerone.com/seifelsallamy) | 2017-08-10 |
+| 55 | [179121](../reports/179121.md) | Information disclosure of website | High | — | 3 | [1_1_1](https://hackerone.com/1_1_1) | 2016-11-16 |
+| 56 | [1347249](../reports/1347249.md) | Information disclosure | High | — | 2 | [kkarfalcon](https://hackerone.com/kkarfalcon) | 2021-09-21 |
+| 57 | [681617](../reports/681617.md) | Stored XSS in localhost:* via integrated torrent downloader | Medium — CVSS 5.0 | — | 124 | [ryotak](https://hackerone.com/ryotak) | 2019-09-24 |
+| 58 | [374969](../reports/374969.md) | Navigation to protocol handler URL from the opened page disp | Medium | — | 25 | [metnew](https://hackerone.com/metnew) | 2018-09-24 |
+| 59 | [604945](../reports/604945.md) | Tor IP leak caused by the PDF Viewer extension in certain si | Medium | — | 25 | [world_languages](https://hackerone.com/world_languages) | 2023-08-02 |
+| 60 | [1338437](../reports/1338437.md) | Open redirect found on account.brave.com | Medium | — | 20 | [tabaahi](https://hackerone.com/tabaahi) | 2022-06-30 |
+| 61 | [1791558](../reports/1791558.md) | S3 Bucket Takeover : brave-apt | Medium | — | 19 | [j3rry-1729](https://hackerone.com/j3rry-1729) | 2023-04-26 |
+| 62 | [980856](../reports/980856.md) | https://publishers.basicattentiontoken.org/favicon.ico is Vu | Medium — CVSS 5.2 | — | 18 | [lalit2020](https://hackerone.com/lalit2020) | 2020-12-16 |
+| 63 | [975514](../reports/975514.md) | Arbitrary file download due to bad handling of Redirects in  | Medium | — | 15 | [d3f4u17](https://hackerone.com/d3f4u17) | 2022-06-30 |
+| 64 | [369086](../reports/369086.md) | URL spoofing in Brave for macOS | Medium | — | 14 | [metnew](https://hackerone.com/metnew) | 2018-10-04 |
+| 65 | [968328](../reports/968328.md) | Redirecting users to malicious torrent-files/websites using  | Medium | — | 13 | [d3f4u17](https://hackerone.com/d3f4u17) | 2022-06-30 |
+| 66 | [369218](../reports/369218.md) | Navigation to restricted origins via "Open in new tab" | Medium | — | 12 | [metnew](https://hackerone.com/metnew) | 2018-10-09 |
+| 67 | [378864](../reports/378864.md) | Torrent extension: Cross-origin downloading + "URL spoofing" | Medium | — | 12 | [metnew](https://hackerone.com/metnew) | 2018-09-24 |
+| 68 | [963155](../reports/963155.md) | Arbitrary file download via "Save .torrent file" option can  | Medium | — | 11 | [d3f4u17](https://hackerone.com/d3f4u17) | 2022-06-30 |
+| 69 | [175403](../reports/175403.md) | [website] Script injection in newsletter signup https://brav | Medium | — | 10 | [cmd-0_0](https://hackerone.com/cmd-0_0) | 2016-11-03 |
+| 70 | [373721](../reports/373721.md) | URL spoofing using protocol handlers | Medium | — | 9 | [metnew](https://hackerone.com/metnew) | 2018-10-04 |
+| 71 | [319036](../reports/319036.md) | There is vulnebility Click Here TO fix | Medium — CVSS 6.8 | — | 8 | [sonicnik](https://hackerone.com/sonicnik) | 2019-02-19 |
+| 72 | [175529](../reports/175529.md) | URI Obfuscation | Medium — CVSS 4.3 | — | 7 | [ajdumanhug](https://hackerone.com/ajdumanhug) | 2016-10-15 |
+| 73 | [208834](../reports/208834.md) | Address bar spoofing in Brave browser via. window close warn | Medium | — | 5 | [xifengweiyu](https://hackerone.com/xifengweiyu) | 2017-08-10 |
+| 74 | [3693295](../reports/3693295.md) | iOS Brave Playlist "Open in Private Tab" bypasses FaceID req | Medium | — | 4 | [aaront](https://hackerone.com/aaront) | 2026-05-28 |
+| 75 | [176076](../reports/176076.md) | Javascript confirm() crashes Brave on PC | Medium | — | 4 | [jackb898](https://hackerone.com/jackb898) | 2016-10-19 |
+| 76 | [176083](../reports/176083.md) | JavaScript URL Issues in the latest version of Brave Browser | Medium | — | 4 | [smelt](https://hackerone.com/smelt) | 2016-10-17 |
+| 77 | [175366](../reports/175366.md) | Brave: Admin Panel Access | Medium | — | 2 | [ranjith16](https://hackerone.com/ranjith16) | 2017-08-10 |
+| 78 | [204198](../reports/204198.md) | Clickjacking or URL Masking  | Medium | — | 2 | [dhiraj-mishra](https://hackerone.com/dhiraj-mishra) | 2017-08-10 |
+| 79 | [176197](../reports/176197.md) | Denial of service attack(window object) on brave browser | Medium | — | 2 | [sahiltikoo](https://hackerone.com/sahiltikoo) | 2016-10-25 |
+| 80 | [272221](../reports/272221.md) | Arbitrary local code execution via DLL hijacking from execut | Medium — CVSS 5.6 | — | 1 | [skanthak](https://hackerone.com/skanthak) | 2018-07-09 |
+| 81 | [179248](../reports/179248.md) | Denial of service(POP UP Recursion) on Brave browser | Medium | — | 1 | [sahiltikoo](https://hackerone.com/sahiltikoo) | 2016-11-07 |
+| 82 | [449478](../reports/449478.md) | Brave allows flash to follow 307 redirects to other origins  | Medium | — | 1 | [tvgfvghjbhunj](https://hackerone.com/tvgfvghjbhunj) | 2018-12-12 |
+| 83 | [374106](../reports/374106.md) | Lack of quarantine meta-attribute for downloaded files leads | Low | — | 52 | [metnew](https://hackerone.com/metnew) | 2019-09-12 |
+| 84 | [491753](../reports/491753.md) | DMARC RECORD MISSING | Low | — | 20 | [hackthedevil](https://hackerone.com/hackthedevil) | 2019-02-13 |
+| 85 | [854793](../reports/854793.md) | No rate limiting for confirmation email lead to email floodi | Low | — | 18 | [root_geek280](https://hackerone.com/root_geek280) | 2020-11-09 |
+| 86 | [812351](../reports/812351.md) | Username Information Disclosure via Json response - Using pa | Low | — | 16 | [0xrobot](https://hackerone.com/0xrobot) | 2020-06-04 |
+| 87 | [268984](../reports/268984.md) | Homograph Attack Bypass [ Tested on Linux & Windows ] | Low | — | 15 | [apapedulimu](https://hackerone.com/apapedulimu) | 2017-09-21 |
+| 88 | [317931](../reports/317931.md) | Bypassing Homograph Attack Using /@ [ Tested On Windows ] | Low | — | 15 | [apapedulimu](https://hackerone.com/apapedulimu) | 2018-02-23 |
+| 89 | [175286](../reports/175286.md) | Homograph attack | Low | — | 14 | [jaypatel](https://hackerone.com/jaypatel) | 2016-10-14 |
+| 90 | [1316650](../reports/1316650.md) | unclaimed s3 bucket takeover in the 3 js file located on the | Low | — | 14 | [gaurav-bhatia](https://hackerone.com/gaurav-bhatia) | 2021-09-24 |
+| 91 | [176929](../reports/176929.md) | [ios] Address bar spoofing in Brave for iOS | Low | — | 13 | [ibram](https://hackerone.com/ibram) | 2016-10-25 |
+| 92 | [378805](../reports/378805.md) | Navigation to `chrome-extension://` origin (internal pages)  | Low — CVSS 3.8 | — | 11 | [metnew](https://hackerone.com/metnew) | 2018-09-24 |
+| 93 | [369185](../reports/369185.md) | Unsafe handling of protocol handlers | Low — CVSS 3.1 | — | 11 | [metnew](https://hackerone.com/metnew) | 2018-09-24 |
+| 94 | [375259](../reports/375259.md) | Cross-origin page stays focused before/after downloading + u | Low | — | 10 | [metnew](https://hackerone.com/metnew) | 2018-10-04 |
+| 95 | [663729](../reports/663729.md) | [Brave browser] WebTorrent has DNS rebinding vulnerability | Low | — | 9 | [newfunction](https://hackerone.com/newfunction) | 2019-10-16 |
+| 96 | [175701](../reports/175701.md) | Status Bar Obfuscation | Low | — | 8 | [ajdumanhug](https://hackerone.com/ajdumanhug) | 2016-10-15 |
+| 97 | [357665](../reports/357665.md) | DoS in Brave browser for iOS | Low | — | 8 | [metnew](https://hackerone.com/metnew) | 2018-09-24 |
+| 98 | [175779](../reports/175779.md) | Address Bar Spoofing - Already resolved - Retroactive report | Low | — | 8 | [jimeno](https://hackerone.com/jimeno) | 2016-10-14 |
+| 99 | [175320](../reports/175320.md) | 2 Directory Listing on ledger.brave.com & vault-staging.brav | Low | — | 7 | [bibo](https://hackerone.com/bibo) | 2016-11-13 |
+| 100 | [378809](../reports/378809.md) | `alert()` dialogs on `chrome-extension://` origin (internal  | Low | — | 6 | [metnew](https://hackerone.com/metnew) | 2018-10-04 |
+| 101 | [215044](../reports/215044.md) | [iOS] URL can be replaceState by blob URL in iOS Brave | Low | — | 6 | [xifengweiyu](https://hackerone.com/xifengweiyu) | 2017-08-10 |
+| 102 | [377206](../reports/377206.md) | `settingcontent-ms` files lacks "mark of the web" => execute | Low | — | 5 | [metnew](https://hackerone.com/metnew) | 2018-10-04 |
+| 103 | [177184](../reports/177184.md) | invalid homepage URL causes 'uncaught typeerror' or blank st | Low — CVSS 3.1 | — | 5 | [tsug0d](https://hackerone.com/tsug0d) | 2017-06-12 |
+| 104 | [176066](../reports/176066.md) | Denial of service attack on Brave Browser. | Low | — | 5 | [sahiltikoo](https://hackerone.com/sahiltikoo) | 2017-02-10 |
+| 105 | [669440](../reports/669440.md) | Link obfuscation bug | Low | — | 4 | [l000g1c](https://hackerone.com/l000g1c) | 2019-08-12 |
+| 106 | [369447](../reports/369447.md) | OPEN REDIRECTION at every 302 HTTP CODE | Low | — | 4 | [ulalalaunana](https://hackerone.com/ulalalaunana) | 2018-08-07 |
+| 107 | [199243](../reports/199243.md) | No user confirmation when an auto-updated extension gets mor | Low | — | 3 | [i1iii11iiiii111iii1](https://hackerone.com/i1iii11iiiii111iii1) | 2017-01-20 |
+| 108 | [176159](../reports/176159.md) | [iOS] URI Obfuscation in iOS application | Low | — | 3 | [noob-boy](https://hackerone.com/noob-boy) | 2016-10-17 |
+| 109 | [203088](../reports/203088.md) | Brave payments remembers history even after clearing all bro | Low — CVSS 2.1 | — | 2 | [sumit](https://hackerone.com/sumit) | 2017-08-10 |
+| 110 | [272231](../reports/272231.md) | Download of (later executed) .NET installer over insecure ch | Low | — | 1 | [skanthak](https://hackerone.com/skanthak) | 2018-07-09 |
+| 111 | [1835133](../reports/1835133.md) | S3 Bucket Takeover  "brave-browser-rpm-staging-release-test" | None | — | 24 | [j3rry-1729](https://hackerone.com/j3rry-1729) | 2023-04-26 |
+| 112 | [175397](../reports/175397.md) | Subdomain Takeover of Brave.com | None | — | 7 | [sahiltikoo](https://hackerone.com/sahiltikoo) | 2016-10-14 |
+| 113 | [371464](../reports/371464.md) | Directory Listing on https://promo-services-staging.brave.co | None | — | 4 | [testingforbugs](https://hackerone.com/testingforbugs) | 2018-07-09 |
+| 114 | [954512](../reports/954512.md) | Cross-origin resource sharing misconfiguration (CORS) | None | — | 3 | [drwx](https://hackerone.com/drwx) | 2020-09-04 |
+| 115 | [331428](../reports/331428.md) | Cross domain tracking even with 3rd party cookies disabled. | None | — | 2 | [kmodi](https://hackerone.com/kmodi) | 2018-08-07 |
+| 116 | [221461](../reports/221461.md) | homograph-attack (unicode vuln) | None | — | 1 | [siyadlbug](https://hackerone.com/siyadlbug) | 2017-08-10 |
+| 117 | [181061](../reports/181061.md) | Remote Stack Overflow Vulnerability (DoS) | None | — | 1 | [kjashwanth13](https://hackerone.com/kjashwanth13) | 2017-08-10 |
+| 118 | [176364](../reports/176364.md) | DOS in browser using window.print() function | None | — | 0 | [tushu](https://hackerone.com/tushu) | 2016-10-20 |

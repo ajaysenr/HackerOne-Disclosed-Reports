@@ -1,4 +1,4 @@
-# Weakness: Improper Input Validation (56 reports)
+# Weakness: Improper Input Validation (67 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -30,33 +30,44 @@
 | 24 | [684152](../reports/684152.md) | Steal all MKR from `flap` during liquidation by exploiting lack o | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | High | — | 55 |
 | 25 | [3630310](../reports/3630310.md) | HTTP/2 server push accepts a non-authoritative :scheme=https over | [curl](../by-program/curl.md) | High | — | 24 |
 | 26 | [770548](../reports/770548.md) | Insecure OAuth redirection at [admin.8x8.vc] | [8x8](../by-program/8x8-bounty.md) | High | — | 17 |
-| 27 | [893085](../reports/893085.md) | 2FA Disable With Wrong Password - Response Tampering. | [8x8](../by-program/8x8-bounty.md) | High | — | 14 |
-| 28 | [730779](../reports/730779.md) | HTTP header values do not have trailing OWS trimmed | [Node.js](../by-program/nodejs.md) | High — CVSS 7.4 | — | 11 |
-| 29 | [840688](../reports/840688.md) | Send Phishing/Spam email from support@sameroom.io to any email ad | [8x8](../by-program/8x8-bounty.md) | High | — | 9 |
-| 30 | [2864414](../reports/2864414.md) | Arbitrary File Deletion Vulnerability in curl Source Code via os. | [curl](../by-program/curl.md) | High | — | 8 |
-| 31 | [1223565](../reports/1223565.md) | CVE-2021-22924: Bad connection reuse due to flawed path name chec | [curl](../by-program/curl.md) | High — CVSS 7.1 | — | 5 |
-| 32 | [3781785](../reports/3781785.md) | Reflected HTML Injection in ████████ Login Page via infotext/sign | [Essity](../by-program/essity.md) | High | — | 3 |
-| 33 | [3168691](../reports/3168691.md) | Residual Malicious Payloads on HackerOne after Vulnerability Fixe | [HackerOne](../by-program/security.md) | Medium — CVSS 4.3 | — | 60 |
-| 34 | [887462](../reports/887462.md) | CVE-2020-8177: curl overwrite local file with -J | [curl](../by-program/curl.md) | Medium — CVSS 4.7 | — | 55 |
-| 35 | [679969](../reports/679969.md) | CSS Injection to disable app & potential message exfil | [Slack](../by-program/slack.md) | Medium — CVSS 4.3 | — | 37 |
-| 36 | [1237700](../reports/1237700.md) | Improper input validation in projects leads to fully deny access  | [Semrush](../by-program/semrush.md) | Medium | — | 35 |
-| 37 | [1446090](../reports/1446090.md) | Add more seats by paying less via PUT /v2/seats request manipulat | [Krisp](../by-program/krisp.md) | Medium — CVSS 5.0 | — | 30 |
-| 38 | [1639364](../reports/1639364.md) | Local File Inclusion in download.php | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 25 |
-| 39 | [3702718](../reports/3702718.md) | MQTT state machine confusion: PINGRESP/DISCONNECT with non-zero r | [curl](../by-program/curl.md) | Medium | — | 20 |
-| 40 | [1565619](../reports/1565619.md) | CVE-2022-27780: percent-encoded path separator in URL host | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 8 |
-| 41 | [1064149](../reports/1064149.md) | Improper Input Validation on User's Location on PUT /WhoService/p | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | Medium — CVSS 4.6 | — | 8 |
-| 42 | [1165223](../reports/1165223.md) | Missing captcha and rate limit protection in help form  | [MTN Group](../by-program/mtn_group.md) | Medium | — | 3 |
-| 43 | [3175695](../reports/3175695.md) | Bypass "No Links" Restriction in Biography via Protocol-Relative  | [Mozilla](../by-program/mozilla.md) | Low | — | 95 |
-| 44 | [2215418](../reports/2215418.md) | Html injection in event Description  | [LinkedIn](../by-program/linkedin.md) | Low — CVSS 3.1 | — | 53 |
-| 45 | [1166073](../reports/1166073.md) | Hyper Link Injection while signup  | [UPchieve](../by-program/upchieve.md) | Low | — | 19 |
-| 46 | [3641893](../reports/3641893.md) | Cookie attribute TAB injection regression in Set-Cookie parsing | [curl](../by-program/curl.md) | Low | — | 18 |
-| 47 | [1610316](../reports/1610316.md) | Improper user validation on mentions and hashtags | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.5 | — | 15 |
-| 48 | [838647](../reports/838647.md) | Improper Input Validation on User's Location on PUT /WhoService/p | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | Low | — | 15 |
-| 49 | [3509396](../reports/3509396.md) | IMAP Protocol Desynchronization and Response Smuggling via Naive  | [curl](../by-program/curl.md) | Low | — | 14 |
-| 50 | [1613943](../reports/1613943.md) | CVE-2022-35252: control code in cookie denial of service | [curl](../by-program/curl.md) | Low | — | 13 |
-| 51 | [385239](../reports/385239.md) | Add non-existent room moderator | [Chaturbate](../by-program/chaturbate.md) | Low | — | 11 |
-| 52 | [1686935](../reports/1686935.md) | CVE-2022-35252: control code in cookie denial of service | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 8 |
-| 53 | [423437](../reports/423437.md) | H1514 Shopify API ruby SDK session setup lacks input validation,  | [Shopify](../by-program/shopify.md) | None | — | 11 |
-| 54 | [726117](../reports/726117.md) | SMB access smuggling via FILE URL on Windows | [curl](../by-program/curl.md) | None | — | 10 |
-| 55 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | [curl](../by-program/curl.md) | None | — | 1 |
-| 56 | [3972395](../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | [curl](../by-program/curl.md) | None | — | 0 |
+| 27 | [3295656](../reports/3295656.md) | Unsafe Global IFS Modification in OS400 Shell Script Enables Comm | [curl](../by-program/curl.md) | High | — | 15 |
+| 28 | [893085](../reports/893085.md) | 2FA Disable With Wrong Password - Response Tampering. | [8x8](../by-program/8x8-bounty.md) | High | — | 14 |
+| 29 | [730779](../reports/730779.md) | HTTP header values do not have trailing OWS trimmed | [Node.js](../by-program/nodejs.md) | High — CVSS 7.4 | — | 11 |
+| 30 | [840688](../reports/840688.md) | Send Phishing/Spam email from support@sameroom.io to any email ad | [8x8](../by-program/8x8-bounty.md) | High | — | 9 |
+| 31 | [2864414](../reports/2864414.md) | Arbitrary File Deletion Vulnerability in curl Source Code via os. | [curl](../by-program/curl.md) | High | — | 8 |
+| 32 | [496293](../reports/496293.md) | [url-parse] Improper Validation and Sanitization | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.3 | — | 6 |
+| 33 | [1223565](../reports/1223565.md) | CVE-2021-22924: Bad connection reuse due to flawed path name chec | [curl](../by-program/curl.md) | High — CVSS 7.1 | — | 5 |
+| 34 | [3781785](../reports/3781785.md) | Reflected HTML Injection in ████████ Login Page via infotext/sign | [Essity](../by-program/essity.md) | High | — | 3 |
+| 35 | [3175928](../reports/3175928.md) | ImageId Format Injection in Image Upload Endpoint | [Lichess](../by-program/lichess.md) | Medium — CVSS 6.1 | — | 73 |
+| 36 | [1157795](../reports/1157795.md) | Incorrect Deep-link validation leading to unresponsive applicatio | [Flickr](../by-program/flickr.md) | Medium — CVSS 4.3 | — | 63 |
+| 37 | [3168691](../reports/3168691.md) | Residual Malicious Payloads on HackerOne after Vulnerability Fixe | [HackerOne](../by-program/security.md) | Medium — CVSS 4.3 | — | 60 |
+| 38 | [887462](../reports/887462.md) | CVE-2020-8177: curl overwrite local file with -J | [curl](../by-program/curl.md) | Medium — CVSS 4.7 | — | 55 |
+| 39 | [679969](../reports/679969.md) | CSS Injection to disable app & potential message exfil | [Slack](../by-program/slack.md) | Medium — CVSS 4.3 | — | 37 |
+| 40 | [1237700](../reports/1237700.md) | Improper input validation in projects leads to fully deny access  | [Semrush](../by-program/semrush.md) | Medium | — | 35 |
+| 41 | [367589](../reports/367589.md) | athome.starbucks.com - URL parameter tampering of review forms pe | [Starbucks](../by-program/starbucks.md) | Medium — CVSS 4.4 | — | 31 |
+| 42 | [1446090](../reports/1446090.md) | Add more seats by paying less via PUT /v2/seats request manipulat | [Krisp](../by-program/krisp.md) | Medium — CVSS 5.0 | — | 30 |
+| 43 | [1639364](../reports/1639364.md) | Local File Inclusion in download.php | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 25 |
+| 44 | [3702718](../reports/3702718.md) | MQTT state machine confusion: PINGRESP/DISCONNECT with non-zero r | [curl](../by-program/curl.md) | Medium | — | 20 |
+| 45 | [3403880](../reports/3403880.md) | Logical Flaw in curl_url_set Leads to Inconsistent Query Paramete | [curl](../by-program/curl.md) | Medium | — | 10 |
+| 46 | [1064149](../reports/1064149.md) | Improper Input Validation on User's Location on PUT /WhoService/p | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | Medium — CVSS 4.6 | — | 8 |
+| 47 | [1565619](../reports/1565619.md) | CVE-2022-27780: percent-encoded path separator in URL host | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 8 |
+| 48 | [1165223](../reports/1165223.md) | Missing captcha and rate limit protection in help form  | [MTN Group](../by-program/mtn_group.md) | Medium | — | 3 |
+| 49 | [1343492](../reports/1343492.md) | HTML Injection on tiktoktutorials via firstName parameter | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.1 | — | 97 |
+| 50 | [3175695](../reports/3175695.md) | Bypass "No Links" Restriction in Biography via Protocol-Relative  | [Mozilla](../by-program/mozilla.md) | Low | — | 95 |
+| 51 | [2215418](../reports/2215418.md) | Html injection in event Description  | [LinkedIn](../by-program/linkedin.md) | Low — CVSS 3.1 | — | 53 |
+| 52 | [2814750](../reports/2814750.md) | Inconsistent URL Parsing in curl Leading to Potential SSRF and Ac | [curl](../by-program/curl.md) | Low | — | 22 |
+| 53 | [3473384](../reports/3473384.md) | Functional Regression in Digest Authentication: Failure to handle | [curl](../by-program/curl.md) | Low | — | 20 |
+| 54 | [1528242](../reports/1528242.md) | Bypass global deny-lists by wrapping domains using "[]" in https: | [Stripe](../by-program/stripe.md) | Low — CVSS 3.7 | — | 19 |
+| 55 | [1166073](../reports/1166073.md) | Hyper Link Injection while signup  | [UPchieve](../by-program/upchieve.md) | Low | — | 19 |
+| 56 | [3641893](../reports/3641893.md) | Cookie attribute TAB injection regression in Set-Cookie parsing | [curl](../by-program/curl.md) | Low | — | 18 |
+| 57 | [1610316](../reports/1610316.md) | Improper user validation on mentions and hashtags | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.5 | — | 15 |
+| 58 | [838647](../reports/838647.md) | Improper Input Validation on User's Location on PUT /WhoService/p | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | Low | — | 15 |
+| 59 | [3509396](../reports/3509396.md) | IMAP Protocol Desynchronization and Response Smuggling via Naive  | [curl](../by-program/curl.md) | Low | — | 14 |
+| 60 | [1613943](../reports/1613943.md) | CVE-2022-35252: control code in cookie denial of service | [curl](../by-program/curl.md) | Low | — | 13 |
+| 61 | [385239](../reports/385239.md) | Add non-existent room moderator | [Chaturbate](../by-program/chaturbate.md) | Low | — | 11 |
+| 62 | [1686935](../reports/1686935.md) | CVE-2022-35252: control code in cookie denial of service | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 8 |
+| 63 | [423437](../reports/423437.md) | H1514 Shopify API ruby SDK session setup lacks input validation,  | [Shopify](../by-program/shopify.md) | None | — | 11 |
+| 64 | [726117](../reports/726117.md) | SMB access smuggling via FILE URL on Windows | [curl](../by-program/curl.md) | None | — | 10 |
+| 65 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | [curl](../by-program/curl.md) | None | — | 1 |
+| 66 | [3972395](../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | [curl](../by-program/curl.md) | None | — | 0 |
+| 67 | [812969](../reports/812969.md) | curl still vulnerable to SMB access smuggling via FILE URL on Win | [curl](../by-program/curl.md) | None | — | 0 |

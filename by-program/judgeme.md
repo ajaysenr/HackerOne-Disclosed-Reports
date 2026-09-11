@@ -1,4 +1,4 @@
-# Judge.me  — Disclosed Reports (17 total)
+# Judge.me  — Disclosed Reports (18 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -19,5 +19,6 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 13 | [1428207](../reports/1428207.md) | Stored XSS in Question edit for product name (bypass #141667 | Medium | — | 11 | [chupa__chups](https://hackerone.com/chupa__chups) | 2022-03-31 |
 | 14 | [1416672](../reports/1416672.md) | Stored XSS in Question edit from product name | Medium — CVSS 5.7 | — | 7 | [chupa__chups](https://hackerone.com/chupa__chups) | 2022-03-31 |
 | 15 | [1395068](../reports/1395068.md) | The response shows the nginx version | None | — | 12 | [cametome006](https://hackerone.com/cametome006) | 2021-11-11 |
-| 16 | [1252155](../reports/1252155.md) | HTML INJECTION  (STORED) | None | — | 5 | [criptex](https://hackerone.com/criptex) | 2023-02-01 |
-| 17 | [1036995](../reports/1036995.md) | HTML injection in review content | None | — | 4 | [0xteles](https://hackerone.com/0xteles) | 2021-12-17 |
+| 16 | [1421413](../reports/1421413.md) | Error Page Content Spoofing or Text Injection | None | — | 6 | [tefa_](https://hackerone.com/tefa_) | 2021-12-13 |
+| 17 | [1252155](../reports/1252155.md) | HTML INJECTION  (STORED) | None | — | 5 | [criptex](https://hackerone.com/criptex) | 2023-02-01 |
+| 18 | [1036995](../reports/1036995.md) | HTML injection in review content | None | — | 4 | [0xteles](https://hackerone.com/0xteles) | 2021-12-17 |

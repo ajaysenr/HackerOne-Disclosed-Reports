@@ -1,4 +1,4 @@
-# Mapbox — Disclosed Reports (20 total)
+# Mapbox — Disclosed Reports (23 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -17,10 +17,13 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 11 | [122050](../reports/122050.md) | Mapbox API Access Token with No Scope Can Read Styles | None | $200 | 5 | [bugs3ra](https://hackerone.com/bugs3ra) | 2016-05-31 |
 | 12 | [329689](../reports/329689.md) | Test-scripts for postgis in mason-repository using unsafe un | Critical — CVSS 10.0 | — | 208 | [fransrosen](https://hackerone.com/fransrosen) | 2020-07-28 |
 | 13 | [245221](../reports/245221.md) | null pointer dereference and segfault in tile-count-merge | High | — | 4 | [geeknik](https://hackerone.com/geeknik) | 2017-07-11 |
-| 14 | [225537](../reports/225537.md) | Node modules path disclosure due to lack of error handling | Low | — | 17 | [apapedulimu](https://hackerone.com/apapedulimu) | 2017-07-11 |
-| 15 | [143240](../reports/143240.md) | XSS on www.mapbox.com/authorize/ because of open redirect at | None | — | 18 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2017-08-14 |
-| 16 | [143220](../reports/143220.md) | XSS on www.mapbox.com/authorize | None | — | 15 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2017-08-14 |
-| 17 | [114529](../reports/114529.md) | Content Spoofing and Local Redirect in Mapbox Studio | None | — | 5 | [hussain_0x3c](https://hackerone.com/hussain_0x3c) | 2016-04-20 |
-| 18 | [165136](../reports/165136.md) | target="_blank" Vulnerability Resulting in Critical Phishing | None | — | 5 | [cha5m](https://hackerone.com/cha5m) | 2016-09-07 |
-| 19 | [65284](../reports/65284.md) | Stored Cross-Site Scripting in Map Share Page | None | — | 4 | [hussain_0x3c](https://hackerone.com/hussain_0x3c) | 2016-04-19 |
-| 20 | [136221](../reports/136221.md) | Denial of service in account statistics endpoint | None | — | 3 | [apok](https://hackerone.com/apok) | 2016-05-31 |
+| 14 | [763812](../reports/763812.md) | Stored XSS | api.mapbox.com | IE 11 | Styles name | Medium | — | 67 | [renekroka](https://hackerone.com/renekroka) | 2020-01-21 |
+| 15 | [780277](../reports/780277.md) | Reflected XSS via XML Namespace URI on https://go.mapbox.com | Medium — CVSS 5.4 | — | 17 | [h4ck3d](https://hackerone.com/h4ck3d) | 2020-04-15 |
+| 16 | [225537](../reports/225537.md) | Node modules path disclosure due to lack of error handling | Low | — | 17 | [apapedulimu](https://hackerone.com/apapedulimu) | 2017-07-11 |
+| 17 | [143240](../reports/143240.md) | XSS on www.mapbox.com/authorize/ because of open redirect at | None | — | 18 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2017-08-14 |
+| 18 | [143220](../reports/143220.md) | XSS on www.mapbox.com/authorize | None | — | 15 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2017-08-14 |
+| 19 | [74933](../reports/74933.md) | Disclosure of map information | None | — | 6 | [hussain_0x3c](https://hackerone.com/hussain_0x3c) | 2016-04-19 |
+| 20 | [165136](../reports/165136.md) | target="_blank" Vulnerability Resulting in Critical Phishing | None | — | 5 | [cha5m](https://hackerone.com/cha5m) | 2016-09-07 |
+| 21 | [114529](../reports/114529.md) | Content Spoofing and Local Redirect in Mapbox Studio | None | — | 5 | [hussain_0x3c](https://hackerone.com/hussain_0x3c) | 2016-04-20 |
+| 22 | [65284](../reports/65284.md) | Stored Cross-Site Scripting in Map Share Page | None | — | 4 | [hussain_0x3c](https://hackerone.com/hussain_0x3c) | 2016-04-19 |
+| 23 | [136221](../reports/136221.md) | Denial of service in account statistics endpoint | None | — | 3 | [apok](https://hackerone.com/apok) | 2016-05-31 |

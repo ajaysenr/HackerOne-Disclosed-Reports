@@ -1,43 +1,53 @@
-# GitHub — Disclosed Reports (37 total)
+# GitHub — Disclosed Reports (47 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
 | # | Report | Title | Severity | Bounty | Votes | Reporter | Disclosed |
 |---|---|---|---|---|---|---|---|
-| 1 | [1901040](../reports/1901040.md) | Authentication bypass on gist.github.com through SSH Certifi | High | $10,000 | 176 | [ammar2](https://hackerone.com/ammar2) | 2023-04-20 |
-| 2 | [1497169](../reports/1497169.md) | CSRF protection bypass in GitHub Enterprise management conso | High | $10,000 | 149 | [bitquark](https://hackerone.com/bitquark) | 2022-04-13 |
-| 3 | [2505761](../reports/2505761.md) | Information Leakage via Clicked Link in GitHub Repository (F | Medium | $4,000 | 71 | [pinguluk](https://hackerone.com/pinguluk) | 2024-10-17 |
-| 4 | [1619604](../reports/1619604.md) | DoS via markdown API from unauthenticated user | Medium | $4,000 | 54 | [legit-security](https://hackerone.com/legit-security) | 2022-12-13 |
-| 5 | [1637621](../reports/1637621.md) | Command injection in GitHub Actions ContainerStepHost | None | $4,000 | 32 | [jupenur](https://hackerone.com/jupenur) | 2022-11-03 |
-| 6 | [2579939](../reports/2579939.md) | SAML Signature verification bypass allows logging into any u | Critical | — | 192 | [ahacker1](https://hackerone.com/ahacker1) | 2024-10-10 |
-| 7 | [1711938](../reports/1711938.md) | Github Apps can use Scoped-User-To-Server Tokens to Obtain F | High | — | 196 | [ahacker1](https://hackerone.com/ahacker1) | 2023-01-26 |
-| 8 | [1732595](../reports/1732595.md) | Github app Privilege Escalation to Administrator/Owner of th | High | — | 97 | [vaib25vicky](https://hackerone.com/vaib25vicky) | 2023-01-13 |
-| 9 | [2325023](../reports/2325023.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 87 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
-| 10 | [3506183](../reports/3506183.md) | Missing Access Control in MigrationFile allows attacker to u | High | — | 83 | [ahacker1](https://hackerone.com/ahacker1) | 2026-03-05 |
-| 11 | [2332623](../reports/2332623.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 80 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
-| 12 | [2336236](../reports/2336236.md) | Privilege Escalation to Root SSH Access via Pre-Receive Hook | High | — | 71 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
-| 13 | [2332551](../reports/2332551.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 61 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
-| 14 | [2329466](../reports/2329466.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 61 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
-| 15 | [2323292](../reports/2323292.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 47 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
-| 16 | [2329547](../reports/2329547.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 47 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
-| 17 | [3588801](../reports/3588801.md) | OAuth redirect uri validation bypass for :proxima_first_part | High | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-07-21 |
-| 18 | [3638909](../reports/3638909.md) | GitHub scoped user to server tokens can escape their install | High | — | 4 | [ahacker1](https://hackerone.com/ahacker1) | 2026-07-29 |
-| 19 | [2501036](../reports/2501036.md) | Access body and title of Internal Repo Issues in Projects | Medium | — | 99 | [ahacker1](https://hackerone.com/ahacker1) | 2024-07-31 |
-| 20 | [2484635](../reports/2484635.md) | GitHub Apps can access suspended installations via scoped us | Medium | — | 88 | [ahacker1](https://hackerone.com/ahacker1) | 2024-07-31 |
-| 21 | [2246576](../reports/2246576.md) | Self XSS in  Tag name pattern field /<username>/<reponame>/s | Medium | — | 75 | [sudi](https://hackerone.com/sudi) | 2024-04-15 |
-| 22 | [2469713](../reports/2469713.md) | View private repository NWO of deploy key via internal LFS A | Medium | — | 68 | [ahacker1](https://hackerone.com/ahacker1) | 2024-07-23 |
-| 23 | [3527771](../reports/3527771.md) | Add labels to arbitrary issues/prs & compromise github actio | Medium | — | 66 | [ahacker1](https://hackerone.com/ahacker1) | 2026-03-19 |
-| 24 | [3522254](../reports/3522254.md) | PATs without the required scope can leak issues | Medium | — | 57 | [s3rdz0](https://hackerone.com/s3rdz0) | 2026-03-19 |
-| 25 | [1690427](../reports/1690427.md) | Managing Pages  | Medium | — | 54 | [ali_shehab](https://hackerone.com/ali_shehab) | 2022-12-22 |
-| 26 | [2185545](../reports/2185545.md) | Persistent Unauthorized Administrative Access on All Organiz | Medium | — | 51 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-03-15 |
-| 27 | [2357443](../reports/2357443.md) | RC Between GitHub's Repo Update REST API and updateTeamsRepo | Medium | — | 49 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
-| 28 | [2184950](../reports/2184950.md) | [PATs] Ability to leak comments from issues without ANY "Iss | Medium | — | 42 | [archangel](https://hackerone.com/archangel) | 2024-01-03 |
-| 29 | [1938106](../reports/1938106.md) | Smuggling content in PR with refs/replace in GitHub | Medium | — | 34 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2023-08-01 |
-| 30 | [2017600](../reports/2017600.md) | Git Reference Ambiguity in GitHub - Commit Smuggling, Accoun | Medium | — | 25 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2023-11-29 |
-| 31 | [1762025](../reports/1762025.md) | Improper handling of null bytes in GitHub Actions Runner all | Medium | — | 19 | [ryotak](https://hackerone.com/ryotak) | 2023-03-09 |
-| 32 | [3641229](../reports/3641229.md) | GitHub user to server tokens can create issues in any public | Medium | — | 8 | [ahacker1](https://hackerone.com/ahacker1) | 2026-07-22 |
-| 33 | [3713965](../reports/3713965.md) | Able to bypass authorization logic and gain more access then | Medium | — | 7 | [vaib25vicky](https://hackerone.com/vaib25vicky) | 2026-07-15 |
-| 34 | [3560256](../reports/3560256.md) | Cross-repository IDOR in `/settings/security_analysis/bypass | Medium | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-05-19 |
-| 35 | [3527788](../reports/3527788.md) | Add labels to arbitrary issues/prs via Memex Bulk Update to  | Medium | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-08-25 |
-| 36 | [2383092](../reports/2383092.md) | Source Code and data exfiltration via Github Copilot | Low | — | 63 | [astrounder](https://hackerone.com/astrounder) | 2024-08-19 |
-| 37 | [1831528](../reports/1831528.md) | Rogue collaborators and ambiguous branch names in GitHub | None | — | 42 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2023-12-05 |
+| 1 | [3124517](../reports/3124517.md) | Arbitrary Read of Another Users private repository without A | High | $10,000 | 276 | [furbreeze](https://hackerone.com/furbreeze) | 2025-09-23 |
+| 2 | [1901040](../reports/1901040.md) | Authentication bypass on gist.github.com through SSH Certifi | High | $10,000 | 176 | [ammar2](https://hackerone.com/ammar2) | 2023-04-20 |
+| 3 | [1497169](../reports/1497169.md) | CSRF protection bypass in GitHub Enterprise management conso | High | $10,000 | 149 | [bitquark](https://hackerone.com/bitquark) | 2022-04-13 |
+| 4 | [1625652](../reports/1625652.md) | Delimiter injection in GitHub Actions core.exportVariable | Medium | $4,617 | 39 | [jupenur](https://hackerone.com/jupenur) | 2022-08-18 |
+| 5 | [2505761](../reports/2505761.md) | Information Leakage via Clicked Link in GitHub Repository (F | Medium | $4,000 | 71 | [pinguluk](https://hackerone.com/pinguluk) | 2024-10-17 |
+| 6 | [1619604](../reports/1619604.md) | DoS via markdown API from unauthenticated user | Medium | $4,000 | 54 | [legit-security](https://hackerone.com/legit-security) | 2022-12-13 |
+| 7 | [1637621](../reports/1637621.md) | Command injection in GitHub Actions ContainerStepHost | None | $4,000 | 32 | [jupenur](https://hackerone.com/jupenur) | 2022-11-03 |
+| 8 | [2579939](../reports/2579939.md) | SAML Signature verification bypass allows logging into any u | Critical | — | 192 | [ahacker1](https://hackerone.com/ahacker1) | 2024-10-10 |
+| 9 | [1711938](../reports/1711938.md) | Github Apps can use Scoped-User-To-Server Tokens to Obtain F | High | — | 196 | [ahacker1](https://hackerone.com/ahacker1) | 2023-01-26 |
+| 10 | [1732595](../reports/1732595.md) | Github app Privilege Escalation to Administrator/Owner of th | High | — | 97 | [vaib25vicky](https://hackerone.com/vaib25vicky) | 2023-01-13 |
+| 11 | [2325023](../reports/2325023.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 87 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
+| 12 | [3506183](../reports/3506183.md) | Missing Access Control in MigrationFile allows attacker to u | High | — | 83 | [ahacker1](https://hackerone.com/ahacker1) | 2026-03-05 |
+| 13 | [2332623](../reports/2332623.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 80 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
+| 14 | [2336236](../reports/2336236.md) | Privilege Escalation to Root SSH Access via Pre-Receive Hook | High | — | 71 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
+| 15 | [2329466](../reports/2329466.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 61 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
+| 16 | [2332551](../reports/2332551.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 61 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
+| 17 | [2197796](../reports/2197796.md) | GHES Management console EoP (editor to site admin) | High | — | 56 | [imrerad](https://hackerone.com/imrerad) | 2024-01-08 |
+| 18 | [2323292](../reports/2323292.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 47 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
+| 19 | [2329547](../reports/2329547.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 47 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
+| 20 | [3588801](../reports/3588801.md) | OAuth redirect uri validation bypass for :proxima_first_part | High | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-07-21 |
+| 21 | [3638909](../reports/3638909.md) | GitHub scoped user to server tokens can escape their install | High | — | 4 | [ahacker1](https://hackerone.com/ahacker1) | 2026-07-29 |
+| 22 | [2501036](../reports/2501036.md) | Access body and title of Internal Repo Issues in Projects | Medium | — | 99 | [ahacker1](https://hackerone.com/ahacker1) | 2024-07-31 |
+| 23 | [2484635](../reports/2484635.md) | GitHub Apps can access suspended installations via scoped us | Medium | — | 88 | [ahacker1](https://hackerone.com/ahacker1) | 2024-07-31 |
+| 24 | [2197801](../reports/2197801.md) | Invite tokens have Insufficient entropy in GHES Management C | Medium | — | 81 | [imrerad](https://hackerone.com/imrerad) | 2024-01-12 |
+| 25 | [2246576](../reports/2246576.md) | Self XSS in  Tag name pattern field /<username>/<reponame>/s | Medium | — | 75 | [sudi](https://hackerone.com/sudi) | 2024-04-15 |
+| 26 | [2469713](../reports/2469713.md) | View private repository NWO of deploy key via internal LFS A | Medium | — | 68 | [ahacker1](https://hackerone.com/ahacker1) | 2024-07-23 |
+| 27 | [3527771](../reports/3527771.md) | Add labels to arbitrary issues/prs & compromise github actio | Medium | — | 66 | [ahacker1](https://hackerone.com/ahacker1) | 2026-03-19 |
+| 28 | [2210179](../reports/2210179.md) | View Repo and Title of Any Private Check Run | Medium | — | 64 | [ahacker1](https://hackerone.com/ahacker1) | 2024-01-08 |
+| 29 | [3522254](../reports/3522254.md) | PATs without the required scope can leak issues | Medium | — | 57 | [s3rdz0](https://hackerone.com/s3rdz0) | 2026-03-19 |
+| 30 | [2190827](../reports/2190827.md) | Bypassing Collaborator Restrictions: Retaining Admin Access  | Medium | — | 57 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-03-15 |
+| 31 | [1690427](../reports/1690427.md) | Managing Pages  | Medium | — | 54 | [ali_shehab](https://hackerone.com/ali_shehab) | 2022-12-22 |
+| 32 | [2185545](../reports/2185545.md) | Persistent Unauthorized Administrative Access on All Organiz | Medium | — | 51 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-03-15 |
+| 33 | [2216036](../reports/2216036.md) | RC Between GitHub's Repo Transfer REST API and updateTeamsRe | Medium | — | 50 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-01-12 |
+| 34 | [2357443](../reports/2357443.md) | RC Between GitHub's Repo Update REST API and updateTeamsRepo | Medium | — | 49 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
+| 35 | [2184950](../reports/2184950.md) | [PATs] Ability to leak comments from issues without ANY "Iss | Medium | — | 42 | [archangel](https://hackerone.com/archangel) | 2024-01-03 |
+| 36 | [1938106](../reports/1938106.md) | Smuggling content in PR with refs/replace in GitHub | Medium | — | 34 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2023-08-01 |
+| 37 | [2209433](../reports/2209433.md) | [PATs] Token with Read-Only permissions on Issues able to mo | Medium | — | 31 | [archangel](https://hackerone.com/archangel) | 2024-01-03 |
+| 38 | [2017600](../reports/2017600.md) | Git Reference Ambiguity in GitHub - Commit Smuggling, Accoun | Medium | — | 25 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2023-11-29 |
+| 39 | [1762025](../reports/1762025.md) | Improper handling of null bytes in GitHub Actions Runner all | Medium | — | 19 | [ryotak](https://hackerone.com/ryotak) | 2023-03-09 |
+| 40 | [1593913](../reports/1593913.md) | [Git Gud] GitHub.com Svnbridge memcached deserialization vul | Medium | — | 14 | [ajxchapman](https://hackerone.com/ajxchapman) | 2022-11-16 |
+| 41 | [3641229](../reports/3641229.md) | GitHub user to server tokens can create issues in any public | Medium | — | 8 | [ahacker1](https://hackerone.com/ahacker1) | 2026-07-22 |
+| 42 | [3560256](../reports/3560256.md) | Cross-repository IDOR in `/settings/security_analysis/bypass | Medium | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-05-19 |
+| 43 | [3713965](../reports/3713965.md) | Able to bypass authorization logic and gain more access then | Medium | — | 7 | [vaib25vicky](https://hackerone.com/vaib25vicky) | 2026-07-15 |
+| 44 | [3527788](../reports/3527788.md) | Add labels to arbitrary issues/prs via Memex Bulk Update to  | Medium | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-08-25 |
+| 45 | [2383092](../reports/2383092.md) | Source Code and data exfiltration via Github Copilot | Low | — | 63 | [astrounder](https://hackerone.com/astrounder) | 2024-08-19 |
+| 46 | [1831528](../reports/1831528.md) | Rogue collaborators and ambiguous branch names in GitHub | None | — | 42 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2023-12-05 |
+| 47 | [3290630](../reports/3290630.md) | Sample report: Denial of service  | None | — | 33 | [ghbountyocto](https://hackerone.com/ghbountyocto) | 2025-08-07 |

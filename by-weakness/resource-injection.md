@@ -1,4 +1,4 @@
-# Weakness: Resource Injection (29 reports)
+# Weakness: Resource Injection (31 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -24,12 +24,14 @@
 | 18 | [2297561](../reports/2297561.md) | Resource Injection - [████████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 22 |
 | 19 | [1762025](../reports/1762025.md) | Improper handling of null bytes in GitHub Actions Runner allows a | [GitHub](../by-program/github.md) | Medium | — | 19 |
 | 20 | [241231](../reports/241231.md) | flash injection in http://www.rockstargames.com/IV/imgPlayer/imag | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 8 |
-| 21 | [2174818](../reports/2174818.md) | YAML schema injection risk in Swagger UI via schema_url parameter | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | Low | — | 24 |
-| 22 | [601192](../reports/601192.md) | HTML injection in https://interviewing.shopify.com/index.php?cand | [Shopify](../by-program/shopify.md) | Low | — | 17 |
+| 21 | [3124103](../reports/3124103.md) | Swagger UI Injection via Config URL - `███`  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
+| 22 | [2174818](../reports/2174818.md) | YAML schema injection risk in Swagger UI via schema_url parameter | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | Low | — | 24 |
 | 23 | [1183335](../reports/1183335.md) | Object injection in `stripe-billing-typographic` GitHub project v | [Stripe](../by-program/stripe.md) | Low — CVSS 3.7 | — | 17 |
-| 24 | [257207](../reports/257207.md) | Code injection | [Legal Robot](../by-program/legalrobot.md) | Low — CVSS 3.5 | — | 13 |
-| 25 | [1707977](../reports/1707977.md) | XSS in Desktop Client via user status and information | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 5 |
-| 26 | [1711847](../reports/1711847.md) | XSS in Desktop Client in call notification popup | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 5 |
-| 27 | [473144](../reports/473144.md) | Content spoofing on https://surveyserver.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | Low | — | 2 |
-| 28 | [415137](../reports/415137.md) | H1-5411 CTF Write-up by erbbysam and ziot | [h1-5411-CTF](../by-program/h1-5411-ctf.md) | None | — | 17 |
-| 29 | [315865](../reports/315865.md) | Stored CSS Injection | [Coinbase](../by-program/coinbase.md) | None | — | 15 |
+| 24 | [601192](../reports/601192.md) | HTML injection in https://interviewing.shopify.com/index.php?cand | [Shopify](../by-program/shopify.md) | Low | — | 17 |
+| 25 | [257207](../reports/257207.md) | Code injection | [Legal Robot](../by-program/legalrobot.md) | Low — CVSS 3.5 | — | 13 |
+| 26 | [1707977](../reports/1707977.md) | XSS in Desktop Client via user status and information | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 5 |
+| 27 | [1711847](../reports/1711847.md) | XSS in Desktop Client in call notification popup | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 5 |
+| 28 | [473144](../reports/473144.md) | Content spoofing on https://surveyserver.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | Low | — | 2 |
+| 29 | [415137](../reports/415137.md) | H1-5411 CTF Write-up by erbbysam and ziot | [h1-5411-CTF](../by-program/h1-5411-ctf.md) | None | — | 17 |
+| 30 | [315865](../reports/315865.md) | Stored CSS Injection | [Coinbase](../by-program/coinbase.md) | None | — | 15 |
+| 31 | [361189](../reports/361189.md) | Anyone can register organization legal type as "Soletrader" | [Liberapay](../by-program/liberapay.md) | None | — | 6 |
