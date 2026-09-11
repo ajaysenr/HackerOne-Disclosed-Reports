@@ -8812,6 +8812,13 @@ https://hackerone.com/reports/2185545 | Persistent Unauthorized Administrative A
 https://hackerone.com/reports/2187833 | CVE-2023-38545: socks5 heap buffer overflow
 https://hackerone.com/reports/2188126 | Permissions policies can be bypassed via Module._load and require.extensions (High) (CVE-2023-30587)
 https://hackerone.com/reports/2188240 | Subdomain Takeover via Host Header Injection on www.█████
+https://hackerone.com/reports/2189797 | RXSS on stores on *█████████/visitorRegistration.pml via destination parameter
+https://hackerone.com/reports/2189960 | CRLF injection leads to internal XSS on PangleGlobal
+https://hackerone.com/reports/2190062 | No CSRF protection when adding an item to cart
+https://hackerone.com/reports/2190117 | File listing through scripts folder
+https://hackerone.com/reports/2190380 | Subdomain takeover on one of the subdomain under mozgcp.net
+https://hackerone.com/reports/2190808 | User automatically logged in as Sys Admin user on https://███/Administration/Administration.aspx
+https://hackerone.com/reports/2190827 | Bypassing Collaborator Restrictions: Retaining Admin Access Post-Repository Transfer
 https://hackerone.com/reports/2197244 | Account deletion using the /v1/account/destroy API endpoint using account password without 2FA verification
 https://hackerone.com/reports/2200329 | CVE-█████-35813 in █████
 https://hackerone.com/reports/2203432 | Organization members can delete reports in teams they have no access to
