@@ -11,11 +11,11 @@ A structured, auto-updated database of publicly disclosed HackerOne vulnerabilit
 | **With CVE** | 1,641 |
 | **Total Bounty Paid** | $3,563,444 |
 | **Critical** | 753 |
-| **High** | 1,538 |
+| **High** | 1,539 |
 | **Medium** | 2,885 |
-| **Low** | 1,889 |
+| **Low** | 1,890 |
 
-*Last Updated: September 11, 2026 at 12:57 AM EST*
+*Last Updated: September 11, 2026 at 05:39 AM EST*
 
 ## 📁 Browse
 

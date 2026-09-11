@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (1801 total)
+# High/Critical Severity — No Bounty Paid (1802 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -713,6 +713,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1777095](../reports/1777095.md) | Unauthorized access to resumes stored on LinkedIn | [LinkedIn](../by-program/linkedin.md) | High — CVSS 7.5 | Resolved | 112 |
 | [2041007](../reports/2041007.md) | Cross-Site Request Forgery  | [ownCloud](../by-program/owncloud.md) | High — CVSS 7.5 | Resolved | 111 |
 | [1452375](../reports/1452375.md) | Reflected xss on ads.tiktok.com using `from` parameter. | [TikTok](../by-program/tiktok.md) | High — CVSS 8.2 | Resolved | 110 |
+| [3355766](../reports/3355766.md) | DLL side-loading vulnerability in Sony Music Center for PC Ver. 2 | [Sony](../by-program/sony.md) | High — CVSS 7.3 | Resolved | 109 |
 | [577584](../reports/577584.md) | ISteamAssets gives partners control over unrelated community mark | [Valve](../by-program/valve.md) | High — CVSS 7.1 | Resolved | 109 |
 | [419891](../reports/419891.md) | Cross-Site Request Forgery (CSRF) vulnerability on API endpoint a | [Khan Academy](../by-program/khanacademy.md) | High | Resolved | 107 |
 | [1173153](../reports/1173153.md) | Cache Poisoning DoS on downloads.exodus.com | [Exodus](../by-program/exodus.md) | High — CVSS 7.5 | Resolved | 107 |
