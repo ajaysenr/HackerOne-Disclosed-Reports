@@ -28,8 +28,8 @@
 | 22 | [1879549](../reports/1879549.md) | Basic auth header on WebDAV requests is not bruteforce protected | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.1 | — | 52 |
 | 23 | [1059758](../reports/1059758.md) | Full account takeover in ███████ due lack of rate limiting in for | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 13 |
 | 24 | [293359](../reports/293359.md) | The Uber Promo Customer Endpoint Does Not Implement Multifactor A | [Uber](../by-program/uber.md) | High | — | 5 |
-| 25 | [826238](../reports/826238.md) | load scripts DOS vulnerability | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | High | — | 3 |
-| 26 | [341074](../reports/341074.md) | Bruteforce in admin panel | [Nextcloud](../by-program/nextcloud.md) | High | — | 3 |
+| 25 | [341074](../reports/341074.md) | Bruteforce in admin panel | [Nextcloud](../by-program/nextcloud.md) | High | — | 3 |
+| 26 | [826238](../reports/826238.md) | load scripts DOS vulnerability | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | High | — | 3 |
 | 27 | [827484](../reports/827484.md) | Missing rate limit for current password field (Password Change) A | [Acronis](../by-program/acronis.md) | Medium | — | 43 |
 | 28 | [708013](../reports/708013.md) | StoreFront API allows for a brute force attack on customer login  | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.8 | — | 37 |
 | 29 | [2230915](../reports/2230915.md) | Bruteforce protection in password verification can be bypassed | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 31 |
@@ -45,8 +45,8 @@
 | 39 | [319036](../reports/319036.md) | There is vulnebility Click Here TO fix | [Brave Software](../by-program/brave.md) | Medium — CVSS 6.8 | — | 8 |
 | 40 | [223337](../reports/223337.md) | No BruteForce Protection | [Weblate](../by-program/weblate.md) | Medium — CVSS 6.5 | — | 7 |
 | 41 | [233376](../reports/233376.md) | mailbomb through invite feature on chrome addon | [Mixmax](../by-program/mixmax.md) | Medium | — | 6 |
-| 42 | [1285441](../reports/1285441.md) | Rate limit missing sign-in page | [Tennessee Valley Authority](../by-program/tennessee-valley-authority.md) | Medium | — | 5 |
-| 43 | [1317494](../reports/1317494.md) | No Rate Limit on forgot password page | [UPchieve](../by-program/upchieve.md) | Medium | — | 5 |
+| 42 | [1317494](../reports/1317494.md) | No Rate Limit on forgot password page | [UPchieve](../by-program/upchieve.md) | Medium | — | 5 |
+| 43 | [1285441](../reports/1285441.md) | Rate limit missing sign-in page | [Tennessee Valley Authority](../by-program/tennessee-valley-authority.md) | Medium | — | 5 |
 | 44 | [1954711](../reports/1954711.md) | user_oidc app is missing bruteforce protection | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.5 | — | 4 |
 | 45 | [1591504](../reports/1591504.md) | The software does not implement sufficient measures to prevent mu | [LinkedIn](../by-program/linkedin.md) | Medium | — | 2 |
 | 46 | [410451](../reports/410451.md) | User login page doesn't implement any form of rate limiting | [HackerOne](../by-program/security.md) | Low — CVSS 3.0 | — | 42 |

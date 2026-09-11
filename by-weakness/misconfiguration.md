@@ -28,14 +28,14 @@
 | 22 | [1883806](../reports/1883806.md) | Complete Admin account takeover due to PhpDebugBar turned on in U | [Uber](../by-program/uber.md) | Medium | — | 89 |
 | 23 | [2269867](../reports/2269867.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 79 |
 | 24 | [2641211](../reports/2641211.md) | phpinfo() exposed on ██████████ | [Mars](../by-program/mars.md) | Medium — CVSS 4.6 | — | 50 |
-| 25 | [2545012](../reports/2545012.md) | Subdomain takeover on one of the subdomains under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 49 |
-| 26 | [2357443](../reports/2357443.md) | RC Between GitHub's Repo Update REST API and updateTeamsRepositor | [GitHub](../by-program/github.md) | Medium | — | 49 |
+| 25 | [2357443](../reports/2357443.md) | RC Between GitHub's Repo Update REST API and updateTeamsRepositor | [GitHub](../by-program/github.md) | Medium | — | 49 |
+| 26 | [2545012](../reports/2545012.md) | Subdomain takeover on one of the subdomains under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 49 |
 | 27 | [2131215](../reports/2131215.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 49 |
 | 28 | [2286867](../reports/2286867.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 44 |
 | 29 | [2287098](../reports/2287098.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 40 |
 | 30 | [2140976](../reports/2140976.md) | Subdomain takeover on one of the subdomain under mozgcp.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 39 |
-| 31 | [2285286](../reports/2285286.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 37 |
-| 32 | [2262939](../reports/2262939.md) | Misconfiguration in AWS CloudFront CDN configuration makes rubyge | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 37 |
+| 31 | [2262939](../reports/2262939.md) | Misconfiguration in AWS CloudFront CDN configuration makes rubyge | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 37 |
+| 32 | [2285286](../reports/2285286.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 37 |
 | 33 | [2398630](../reports/2398630.md) | Subdomain takeover on one of the subdomains under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 34 |
 | 34 | [1085743](../reports/1085743.md) | No error thrown when IDOR attempted while editing address | [OpenMage](../by-program/openmage.md) | Medium | — | 33 |
 | 35 | [2017323](../reports/2017323.md) | Subdomain takeover on one of the subdomain under mozilla.org | [Mozilla](../by-program/mozilla.md) | Medium | — | 31 |
@@ -64,6 +64,6 @@
 | 58 | [168476](../reports/168476.md) | Incoming email hijacking on sc-cdn.net | [Snapchat](../by-program/snapchat.md) | None | — | 24 |
 | 59 | [2068830](../reports/2068830.md) | HackerOne Support System Doesn't Require Any Authentication May L | [HackerOne](../by-program/security.md) | None | — | 20 |
 | 60 | [1194280](../reports/1194280.md) | CORS Misconfiguration | [Sifchain](../by-program/sifchain.md) | None | — | 9 |
-| 61 | [1160381](../reports/1160381.md) | Захват домена ozoncorporate.ru | [Ozon](../by-program/ozon.md) | None | — | 8 |
-| 62 | [1194293](../reports/1194293.md) | Wrong implementation of Telegram link on the main page for PC use | [Sifchain](../by-program/sifchain.md) | None | — | 8 |
+| 61 | [1194293](../reports/1194293.md) | Wrong implementation of Telegram link on the main page for PC use | [Sifchain](../by-program/sifchain.md) | None | — | 8 |
+| 62 | [1160381](../reports/1160381.md) | Захват домена ozoncorporate.ru | [Ozon](../by-program/ozon.md) | None | — | 8 |
 | 63 | [1065830](../reports/1065830.md) | Error Page Text Injection (no compromise) | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | None | — | 4 |

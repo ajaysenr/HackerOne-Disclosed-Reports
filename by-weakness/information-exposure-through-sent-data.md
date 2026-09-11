@@ -11,8 +11,8 @@
 | 5 | [3583983](../reports/3583983.md) | CVE-2026-3783: token leak with redirect and netrc | [curl](../by-program/curl.md) | Medium | — | 25 |
 | 6 | [3677759](../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | [curl](../by-program/curl.md) | Medium | — | 15 |
 | 7 | [1553301](../reports/1553301.md) | CVE-2022-27779: cookie for trailing dot TLD | [curl](../by-program/curl.md) | Medium | — | 5 |
-| 8 | [3776535](../reports/3776535.md) | RTSP Digest auth state leaks across origins on reused libcurl eas | [curl](../by-program/curl.md) | Medium | — | 4 |
-| 9 | [3920276](../reports/3920276.md) | Cookie jar load skips public suffix check on PSL builds | [curl](../by-program/curl.md) | Medium | — | 4 |
+| 8 | [3920276](../reports/3920276.md) | Cookie jar load skips public suffix check on PSL builds | [curl](../by-program/curl.md) | Medium | — | 4 |
+| 9 | [3776535](../reports/3776535.md) | RTSP Digest auth state leaks across origins on reused libcurl eas | [curl](../by-program/curl.md) | Medium | — | 4 |
 | 10 | [3776433](../reports/3776433.md) | TFTP upload ignores --continue-at / CURLOPT_RESUME_FROM and leaks | [curl](../by-program/curl.md) | Medium | — | 3 |
 | 11 | [3793260](../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | [curl](../by-program/curl.md) | Medium | — | 1 |
 | 12 | [3673277](../reports/3673277.md) | libcurl stale CURLOPT_AUTOREFERER leaks a previous request URL to | [curl](../by-program/curl.md) | Low | — | 22 |

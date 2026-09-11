@@ -43,8 +43,8 @@
 | 37 | [1446090](../reports/1446090.md) | Add more seats by paying less via PUT /v2/seats request manipulat | [Krisp](../by-program/krisp.md) | Medium — CVSS 5.0 | — | 30 |
 | 38 | [1639364](../reports/1639364.md) | Local File Inclusion in download.php | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 25 |
 | 39 | [3702718](../reports/3702718.md) | MQTT state machine confusion: PINGRESP/DISCONNECT with non-zero r | [curl](../by-program/curl.md) | Medium | — | 20 |
-| 40 | [1064149](../reports/1064149.md) | Improper Input Validation on User's Location on PUT /WhoService/p | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | Medium — CVSS 4.6 | — | 8 |
-| 41 | [1565619](../reports/1565619.md) | CVE-2022-27780: percent-encoded path separator in URL host | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 8 |
+| 40 | [1565619](../reports/1565619.md) | CVE-2022-27780: percent-encoded path separator in URL host | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 8 |
+| 41 | [1064149](../reports/1064149.md) | Improper Input Validation on User's Location on PUT /WhoService/p | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | Medium — CVSS 4.6 | — | 8 |
 | 42 | [1165223](../reports/1165223.md) | Missing captcha and rate limit protection in help form  | [MTN Group](../by-program/mtn_group.md) | Medium | — | 3 |
 | 43 | [3175695](../reports/3175695.md) | Bypass "No Links" Restriction in Biography via Protocol-Relative  | [Mozilla](../by-program/mozilla.md) | Low | — | 95 |
 | 44 | [2215418](../reports/2215418.md) | Html injection in event Description  | [LinkedIn](../by-program/linkedin.md) | Low — CVSS 3.1 | — | 53 |

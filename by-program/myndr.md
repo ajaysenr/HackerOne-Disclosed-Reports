@@ -1,4 +1,4 @@
-# Myndr — Disclosed Reports (4 total)
+# Myndr — Disclosed Reports (5 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -8,3 +8,4 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 2 | [840736](../reports/840736.md) | Open Redirect filter bypass through '\' character via URL pa | Medium | — | 39 | [cristiancornea](https://hackerone.com/cristiancornea) | 2020-04-06 |
 | 3 | [3930957](../reports/3930957.md) |  Myndr CORS Misconfiguration | None | — | 9 | [hackwithshubh](https://hackerone.com/hackwithshubh) | 2026-08-12 |
 | 4 | [1065128](../reports/1065128.md) | No Rate Limit On dashboard.myndr.net/auth | None | — | 8 | [azimuthub](https://hackerone.com/azimuthub) | 2021-09-23 |
+| 5 | [3930102](../reports/3930102.md) | CORS Misconfiguration / Broken Access Control | None | — | 4 | [shubham71](https://hackerone.com/shubham71) | 2026-09-10 |

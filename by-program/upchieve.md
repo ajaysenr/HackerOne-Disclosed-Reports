@@ -15,8 +15,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 9 | [1331268](../reports/1331268.md) | No Rate Limiting on /reset-password-request/ endpoint | Medium | — | 12 | [1bdool492](https://hackerone.com/1bdool492) | 2021-10-04 |
 | 10 | [1354382](../reports/1354382.md) | Password Reuse | Medium | — | 6 | [theendisnear](https://hackerone.com/theendisnear) | 2022-03-26 |
 | 11 | [1317494](../reports/1317494.md) | No Rate Limit on forgot password page | Medium | — | 5 | [pranto_0](https://hackerone.com/pranto_0) | 2022-03-26 |
-| 12 | [1354368](../reports/1354368.md) | Missing Validation in editing  "Your Phone Number"  | Medium | — | 4 | [theendisnear](https://hackerone.com/theendisnear) | 2022-03-26 |
-| 13 | [1198907](../reports/1198907.md) | Clickjacking on profile page leading to unauthorized changes | Medium | — | 4 | [shivanshmalik2](https://hackerone.com/shivanshmalik2) | 2021-06-15 |
+| 12 | [1198907](../reports/1198907.md) | Clickjacking on profile page leading to unauthorized changes | Medium | — | 4 | [shivanshmalik2](https://hackerone.com/shivanshmalik2) | 2021-06-15 |
+| 13 | [1354368](../reports/1354368.md) | Missing Validation in editing  "Your Phone Number"  | Medium | — | 4 | [theendisnear](https://hackerone.com/theendisnear) | 2022-03-26 |
 | 14 | [1320138](../reports/1320138.md) | No rate Limit on Password Reset page on upchieve | Medium | — | 3 | [rupachandransangothi](https://hackerone.com/rupachandransangothi) | 2022-03-26 |
 | 15 | [1166073](../reports/1166073.md) | Hyper Link Injection while signup  | Low | — | 19 | [011alsanosi](https://hackerone.com/011alsanosi) | 2022-06-15 |
 | 16 | [1296597](../reports/1296597.md) | Business logic error | Low | — | 9 | [scianto05](https://hackerone.com/scianto05) | 2021-08-11 |

@@ -1,4 +1,4 @@
-# Weakness: Heap Overflow (41 reports)
+# Weakness: Heap Overflow (42 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -14,34 +14,35 @@
 | 8 | [510888](../reports/510888.md) | [CVE-2018-18313] regcomp: heap-buffer-overflow read in S_grok_bsl | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.1 | — | 7 |
 | 9 | [816637](../reports/816637.md) | CVE-2020-10938-buffer overflow/out-of-bounds write in compress.c: | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.8 | — | 1 |
 | 10 | [1350653](../reports/1350653.md) | Remote kernel heap overflow | [PlayStation](../by-program/playstation.md) | High — CVSS 7.4 | — | 85 |
-| 11 | [2298307](../reports/2298307.md) | Buffer Overflow Vulnerability in WebSocket Handling | [curl](../by-program/curl.md) | High — CVSS 8.6 | — | 38 |
-| 12 | [1434056](../reports/1434056.md) | Buffer overflow in req_parsebody method in lua_request.c | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 36 |
-| 13 | [3094406](../reports/3094406.md) | Heap‑based buffer overflow in curl -K <config_file> allows arbitr | [curl](../by-program/curl.md) | High | — | 29 |
-| 14 | [337986](../reports/337986.md) | CVE-2018-6797:  A crafted regular expression can cause a heap buf | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.0 | — | 23 |
-| 15 | [641240](../reports/641240.md) | Basic Authentication Heap Overflow | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.8 | — | 14 |
-| 16 | [1511619](../reports/1511619.md) | Read and write beyond bounds in mod_sed | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 6 |
-| 17 | [214449](../reports/214449.md) | Content-Length restriction bypass to heap overflow in gip.rocks. | [Gratipay](../by-program/gratipay.md) | High — CVSS 7.5 | — | 5 |
-| 18 | [1047086](../reports/1047086.md) | Heap buffer overflow vulnerability while processing a malformed T | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.6 | — | 3 |
-| 19 | [221251](../reports/221251.md) | heap-buffer-overflow (read outside of buffer) in mrb_vm_exec() | [shopify-scripts](../by-program/shopify-scripts.md) | High | — | 3 |
-| 20 | [227762](../reports/227762.md) | Heap Overflow in fiber_switch triggered from Fiber.transfer | [shopify-scripts](../by-program/shopify-scripts.md) | High | — | 3 |
-| 21 | [221163](../reports/221163.md) | heap-buffer-overflow (read outside of buffer) in Sass::Prelexer:: | [LibSass](../by-program/libsass.md) | High | — | 2 |
-| 22 | [384214](../reports/384214.md) | heap-buffer-overflow (READ of size 48) in exif_read_data() | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 13 |
-| 23 | [684603](../reports/684603.md) | CVE-2019-5482: Heap buffer overflow in TFTP when using small blks | [curl](../by-program/curl.md) | Medium — CVSS 5.2 | — | 11 |
-| 24 | [888986](../reports/888986.md) | [CVE-2020-10543] Buffer overflow caused by a crafted regular expr | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.5 | — | 10 |
-| 25 | [395531](../reports/395531.md) | test report | [Kaspersky](../by-program/kaspersky.md) | Medium | — | 9 |
-| 26 | [207983](../reports/207983.md) | read outside of buffer (heap buffer overflow) in S_regmatch - reg | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 7 |
-| 27 | [3909248](../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append() lets a l | [MariaDB](../by-program/mariadb.md) | Medium | — | 3 |
-| 28 | [2974850](../reports/2974850.md) | CVE-2025-0725: Heap overflow in curl with Content-Encoding gzip a | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 24 |
-| 29 | [482200](../reports/482200.md) | puttygen: heap-buffer-overflow in mp_get_decimal() | [PuTTY (European Commission - DIGIT)](../by-program/putty_h1c.md) | Low — CVSS 3.1 | — | 19 |
-| 30 | [550696](../reports/550696.md) | CVE-2019-5436: Heap Buffer Overflow at lib/tftp.c | [curl](../by-program/curl.md) | Low — CVSS 1.8 | — | 16 |
-| 31 | [233440](../reports/233440.md) | heap-buffer-overflow (READ of size 61) in Perl_re_intuit_start() | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 6 |
-| 32 | [221788](../reports/221788.md) | OOB write in BN_bn2dec() (CVE-2016-2182) | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
+| 11 | [2187833](../reports/2187833.md) | CVE-2023-38545: socks5 heap buffer overflow | [curl](../by-program/curl.md) | High | — | 55 |
+| 12 | [2298307](../reports/2298307.md) | Buffer Overflow Vulnerability in WebSocket Handling | [curl](../by-program/curl.md) | High — CVSS 8.6 | — | 38 |
+| 13 | [1434056](../reports/1434056.md) | Buffer overflow in req_parsebody method in lua_request.c | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 36 |
+| 14 | [3094406](../reports/3094406.md) | Heap‑based buffer overflow in curl -K <config_file> allows arbitr | [curl](../by-program/curl.md) | High | — | 29 |
+| 15 | [337986](../reports/337986.md) | CVE-2018-6797:  A crafted regular expression can cause a heap buf | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.0 | — | 23 |
+| 16 | [641240](../reports/641240.md) | Basic Authentication Heap Overflow | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.8 | — | 14 |
+| 17 | [1511619](../reports/1511619.md) | Read and write beyond bounds in mod_sed | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 6 |
+| 18 | [214449](../reports/214449.md) | Content-Length restriction bypass to heap overflow in gip.rocks. | [Gratipay](../by-program/gratipay.md) | High — CVSS 7.5 | — | 5 |
+| 19 | [227762](../reports/227762.md) | Heap Overflow in fiber_switch triggered from Fiber.transfer | [shopify-scripts](../by-program/shopify-scripts.md) | High | — | 3 |
+| 20 | [1047086](../reports/1047086.md) | Heap buffer overflow vulnerability while processing a malformed T | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.6 | — | 3 |
+| 21 | [221251](../reports/221251.md) | heap-buffer-overflow (read outside of buffer) in mrb_vm_exec() | [shopify-scripts](../by-program/shopify-scripts.md) | High | — | 3 |
+| 22 | [221163](../reports/221163.md) | heap-buffer-overflow (read outside of buffer) in Sass::Prelexer:: | [LibSass](../by-program/libsass.md) | High | — | 2 |
+| 23 | [384214](../reports/384214.md) | heap-buffer-overflow (READ of size 48) in exif_read_data() | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 13 |
+| 24 | [684603](../reports/684603.md) | CVE-2019-5482: Heap buffer overflow in TFTP when using small blks | [curl](../by-program/curl.md) | Medium — CVSS 5.2 | — | 11 |
+| 25 | [888986](../reports/888986.md) | [CVE-2020-10543] Buffer overflow caused by a crafted regular expr | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.5 | — | 10 |
+| 26 | [395531](../reports/395531.md) | test report | [Kaspersky](../by-program/kaspersky.md) | Medium | — | 9 |
+| 27 | [207983](../reports/207983.md) | read outside of buffer (heap buffer overflow) in S_regmatch - reg | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 7 |
+| 28 | [3909248](../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append() lets a l | [MariaDB](../by-program/mariadb.md) | Medium | — | 3 |
+| 29 | [2974850](../reports/2974850.md) | CVE-2025-0725: Heap overflow in curl with Content-Encoding gzip a | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 24 |
+| 30 | [482200](../reports/482200.md) | puttygen: heap-buffer-overflow in mp_get_decimal() | [PuTTY (European Commission - DIGIT)](../by-program/putty_h1c.md) | Low — CVSS 3.1 | — | 19 |
+| 31 | [550696](../reports/550696.md) | CVE-2019-5436: Heap Buffer Overflow at lib/tftp.c | [curl](../by-program/curl.md) | Low — CVSS 1.8 | — | 16 |
+| 32 | [233440](../reports/233440.md) | heap-buffer-overflow (READ of size 61) in Perl_re_intuit_start() | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 6 |
 | 33 | [232150](../reports/232150.md) | heap-buffer-overflow (READ of size 11) in Perl 5.25.x | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
 | 34 | [221785](../reports/221785.md) | OOB write in MDC2_Update() (CVE-2016-6303) | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
-| 35 | [765664](../reports/765664.md) | Heap Buffer Overflow (READ of size 1) in ourWriteOut | [curl](../by-program/curl.md) | Low | — | 2 |
-| 36 | [897606](../reports/897606.md) | [3DS][SSL][SDK] Unchecked number of audio channels in Mobiclip SD | [Nintendo](../by-program/nintendo.md) | None | — | 43 |
-| 37 | [923240](../reports/923240.md) | [3DS][StreetPass] Heap Overflow in Swapnote parser leads to userl | [Nintendo](../by-program/nintendo.md) | None | — | 30 |
+| 35 | [221788](../reports/221788.md) | OOB write in BN_bn2dec() (CVE-2016-2182) | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
+| 36 | [765664](../reports/765664.md) | Heap Buffer Overflow (READ of size 1) in ourWriteOut | [curl](../by-program/curl.md) | Low | — | 2 |
+| 37 | [897606](../reports/897606.md) | [3DS][SSL][SDK] Unchecked number of audio channels in Mobiclip SD | [Nintendo](../by-program/nintendo.md) | None | — | 43 |
 | 38 | [687887](../reports/687887.md) | [3DS][StreetPass] Buffer Overflow in Super Mario Maker level deco | [Nintendo](../by-program/nintendo.md) | None | — | 30 |
-| 39 | [240659](../reports/240659.md) | heap-buffer-overflow (READ of size 1) in cpptoml::parser::consume | [Stellar.org](../by-program/stellar.md) | None | — | 8 |
-| 40 | [295380](../reports/295380.md) | heap-buffer-overflow in OP_R_BREAK | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 6 |
-| 41 | [1940002](../reports/1940002.md) | heap-buffer-overflow in gc_writebarrier_incremental | [Ruby](../by-program/ruby.md) | None | — | 0 |
+| 39 | [923240](../reports/923240.md) | [3DS][StreetPass] Heap Overflow in Swapnote parser leads to userl | [Nintendo](../by-program/nintendo.md) | None | — | 30 |
+| 40 | [240659](../reports/240659.md) | heap-buffer-overflow (READ of size 1) in cpptoml::parser::consume | [Stellar.org](../by-program/stellar.md) | None | — | 8 |
+| 41 | [295380](../reports/295380.md) | heap-buffer-overflow in OP_R_BREAK | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 6 |
+| 42 | [1940002](../reports/1940002.md) | heap-buffer-overflow in gc_writebarrier_incremental | [Ruby](../by-program/ruby.md) | None | — | 0 |

@@ -8,5 +8,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 2 | [835200](../reports/835200.md) | [www.drive2.ru] There is no rate limit for comments endpoint | Low | — | 54 | [what_web](https://hackerone.com/what_web) | 2020-06-08 |
 | 3 | [835302](../reports/835302.md) | [www.drive2.ru] Insufficient Security Configurability - The  | Low | — | 30 | [what_web](https://hackerone.com/what_web) | 2020-10-23 |
 | 4 | [835647](../reports/835647.md) | [www.drive2.ru] Insufficient Security Configurability - Noti | Low | — | 27 | [what_web](https://hackerone.com/what_web) | 2020-10-23 |
-| 5 | [1006691](../reports/1006691.md) | [www.drive2.ru]  Insufficient Security Configurability - Not | Low | — | 16 | [what_web](https://hackerone.com/what_web) | 2020-10-23 |
-| 6 | [835138](../reports/835138.md) | [www.drive2.ru] Insufficient Security Configurability - Emai | Low | — | 16 | [what_web](https://hackerone.com/what_web) | 2020-10-22 |
+| 5 | [835138](../reports/835138.md) | [www.drive2.ru] Insufficient Security Configurability - Emai | Low | — | 16 | [what_web](https://hackerone.com/what_web) | 2020-10-22 |
+| 6 | [1006691](../reports/1006691.md) | [www.drive2.ru]  Insufficient Security Configurability - Not | Low | — | 16 | [what_web](https://hackerone.com/what_web) | 2020-10-23 |

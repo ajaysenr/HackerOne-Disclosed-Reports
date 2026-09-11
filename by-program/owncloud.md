@@ -30,54 +30,54 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 24 | [98559](../reports/98559.md) | RCE in ci.owncloud.com / ci.owncloud.org | None | — | 10 | [tomdev](https://hackerone.com/tomdev) | 2015-11-09 |
 | 25 | [148151](../reports/148151.md) | SMB User Authentication Bypass and Persistence | None | — | 10 | [rhinosecuritylabs](https://hackerone.com/rhinosecuritylabs) | 2016-11-26 |
 | 26 | [154306](../reports/154306.md) | [api.owncloud.org] CRLF Injection | None | — | 7 | [bobrov](https://hackerone.com/bobrov) | 2016-11-02 |
-| 27 | [208566](../reports/208566.md) | Outdated Jenkins server hosted at OwnCloud.org | None | — | 6 | [computer-engineer](https://hackerone.com/computer-engineer) | 2017-03-30 |
-| 28 | [171272](../reports/171272.md) | Accessable Htaccess | None | — | 6 | [akshay_raj](https://hackerone.com/akshay_raj) | 2016-09-26 |
+| 27 | [171272](../reports/171272.md) | Accessable Htaccess | None | — | 6 | [akshay_raj](https://hackerone.com/akshay_raj) | 2016-09-26 |
+| 28 | [208566](../reports/208566.md) | Outdated Jenkins server hosted at OwnCloud.org | None | — | 6 | [computer-engineer](https://hackerone.com/computer-engineer) | 2017-03-30 |
 | 29 | [187380](../reports/187380.md) | Stored xss | None | — | 5 | [twi0x00tter](https://hackerone.com/twi0x00tter) | 2017-03-30 |
 | 30 | [87835](../reports/87835.md) | Webview Vulnerablity [OwnCloudAndroid Application]  | None | — | 5 | [avicoder_](https://hackerone.com/avicoder_) | 2015-10-11 |
-| 31 | [83667](../reports/83667.md) | apps.owncloud.com: Session Cookie in URL can be captured by  | None | — | 3 | [ashesh](https://hackerone.com/ashesh) | 2015-10-31 |
-| 32 | [88904](../reports/88904.md) | Apache Range Header Denial of Service Attack (Confirmed PoC) | None | — | 3 | [xer0dayz](https://hackerone.com/xer0dayz) | 2016-01-01 |
-| 33 | [84395](../reports/84395.md) | CSRF in apps.owncloud.com | None | — | 3 | [nait_lamine](https://hackerone.com/nait_lamine) | 2016-03-10 |
-| 34 | [129551](../reports/129551.md) | Cross site scripting in apps.owncloud.com | None | — | 3 | [kalihat007](https://hackerone.com/kalihat007) | 2016-04-12 |
-| 35 | [85577](../reports/85577.md) | apps.owncloud.com: Potential XSS | None | — | 3 | [ala_arfaoui](https://hackerone.com/ala_arfaoui) | 2015-11-04 |
-| 36 | [130951](../reports/130951.md) | doc.owncloud.org: XSS via Referrer | None | — | 3 | [sandh0t](https://hackerone.com/sandh0t) | 2016-04-15 |
-| 37 | [106024](../reports/106024.md) | owncloud.com: Parameter pollution in social sharing buttons | None | — | 3 | [gorang_joshi](https://hackerone.com/gorang_joshi) | 2016-03-14 |
-| 38 | [84371](../reports/84371.md) | apps.owncloud.com: Stored XSS in profile page | None | — | 3 | [enderun07](https://hackerone.com/enderun07) | 2015-10-11 |
-| 39 | [83251](../reports/83251.md) | owncloud.com: Content Sniffing not disabled | None | — | 3 | [mohammedalsaggaf](https://hackerone.com/mohammedalsaggaf) | 2015-11-12 |
-| 40 | [84453](../reports/84453.md) | Lack of HSTS on https://apps.owncloud.com | None | — | 3 | [prayas](https://hackerone.com/prayas) | 2016-03-10 |
-| 41 | [83710](../reports/83710.md) | apps.owncloud.com: SSL Session cookie without secure flag se | None | — | 3 | [ashesh](https://hackerone.com/ashesh) | 2015-09-15 |
-| 42 | [127259](../reports/127259.md) | Reflected XSS in owncloud.com | None | — | 3 | [sergeym](https://hackerone.com/sergeym) | 2016-04-01 |
-| 43 | [85559](../reports/85559.md) | Password appears in user name field | None | — | 3 | [shivathegame](https://hackerone.com/shivathegame) | 2015-09-11 |
-| 44 | [92644](../reports/92644.md) | apps.owncloud.com: Referer protection Bypassed | None | — | 3 | [herlove](https://hackerone.com/herlove) | 2016-01-02 |
-| 45 | [90601](../reports/90601.md) | [s3.owncloud.com] Web Server HTTP Trace/Track Method Support | None | — | 2 | [bigbear_](https://hackerone.com/bigbear_) | 2015-09-28 |
-| 46 | [83373](../reports/83373.md) | owncloud.com: Cross Site Tracing | None | — | 2 | [psych0tr1a](https://hackerone.com/psych0tr1a) | 2015-10-11 |
-| 47 | [83801](../reports/83801.md) | apps.owncloud.com: Path Disclosure | None | — | 2 | [ashesh](https://hackerone.com/ashesh) | 2015-09-11 |
-| 48 | [83837](../reports/83837.md) | demo.owncloud.org: Web Server HTTP Trace/Track Method Suppor | None | — | 2 | [ashesh](https://hackerone.com/ashesh) | 2015-09-11 |
-| 49 | [90980](../reports/90980.md) | owncloud.com: WP Super Cache plugin is outdated | None | — | 2 | [ba4fe4ca95021d367f8a574](https://hackerone.com/ba4fe4ca95021d367f8a574) | 2015-10-30 |
-| 50 | [84581](../reports/84581.md) | owncloud.com: Outdated plugins contains public exploits   | None | — | 2 | [dad](https://hackerone.com/dad) | 2015-10-11 |
-| 51 | [105980](../reports/105980.md) | XXE at host vpn.owncloud.com | None | — | 2 | [d0znpp](https://hackerone.com/d0znpp) | 2016-01-27 |
-| 52 | [84372](../reports/84372.md) | owncloud.com: Account Compromise Through CSRF | None | — | 2 | [architaa](https://hackerone.com/architaa) | 2016-03-11 |
-| 53 | [258632](../reports/258632.md) | owncloud.com open redirect | None | — | 2 | [bobo_ka](https://hackerone.com/bobo_ka) | 2017-08-14 |
-| 54 | [85201](../reports/85201.md) | Full Path Disclosure  | None | — | 2 | [ishahriyar](https://hackerone.com/ishahriyar) | 2016-01-06 |
-| 55 | [84105](../reports/84105.md) | demo.owncloud.org: HTTP compression is enabled potentially l | None | — | 2 | [paresh_parmar](https://hackerone.com/paresh_parmar) | 2015-10-09 |
-| 56 | [84797](../reports/84797.md) | Config | None | — | 2 | [paulos__](https://hackerone.com/paulos__) | 2015-10-11 |
-| 57 | [87752](../reports/87752.md) | gallery_plus: Content Spoofing  | None | — | 2 | [ishahriyar](https://hackerone.com/ishahriyar) | 2015-09-11 |
-| 58 | [92111](../reports/92111.md) | Self-XSS in mails sent by hello@owncloud.com | None | — | 2 | [dz_samir](https://hackerone.com/dz_samir) | 2016-02-06 |
-| 59 | [83578](../reports/83578.md) | owncloud.com: PermError SPF Permanent Error: Too many DNS lo | None | — | 1 | [karthic](https://hackerone.com/karthic) | 2015-10-11 |
-| 60 | [116254](../reports/116254.md) | owncloud.com: Persistent XSS In Account Profile | None | — | 1 | [securitary](https://hackerone.com/securitary) | 2016-02-15 |
-| 61 | [83381](../reports/83381.md) | apps.owncloud.com: Multiple reflected XSS by insecure URL ge | None | — | 1 | [psych0tr1a](https://hackerone.com/psych0tr1a) | 2016-03-10 |
-| 62 | [85541](../reports/85541.md) | apps.owncloud.com: Mixed Active Scripting Issue  | None | — | 1 | [suhas_gaikwad](https://hackerone.com/suhas_gaikwad) | 2015-10-11 |
-| 63 | [113211](../reports/113211.md) | No Any Kind of Protection on Delete account | None | — | 1 | [gamhody_](https://hackerone.com/gamhody_) | 2016-03-02 |
-| 64 | [121382](../reports/121382.md) | doc.owncloud.org has missing PHP handler | None | — | 1 | [cjusten](https://hackerone.com/cjusten) | 2016-04-04 |
-| 65 | [84078](../reports/84078.md) | *.owncloud.com / *.owncloud.org: Using not strong enough SSL | None | — | 1 | [c0ldb00t3r](https://hackerone.com/c0ldb00t3r) | 2016-02-05 |
-| 66 | [87505](../reports/87505.md) | Full Path Disclosure  | None | — | 1 | [ishahriyar](https://hackerone.com/ishahriyar) | 2016-01-06 |
-| 67 | [89097](../reports/89097.md) | owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Explo | None | — | 1 | [xer0dayz](https://hackerone.com/xer0dayz) | 2015-09-16 |
-| 68 | [119808](../reports/119808.md) | DROWN Attack | None | — | 1 | [amsda](https://hackerone.com/amsda) | 2016-03-03 |
-| 69 | [85565](../reports/85565.md) | apps.owncloud.com: CSRF change privacy settings | None | — | 1 | [nait_lamine](https://hackerone.com/nait_lamine) | 2016-03-11 |
-| 70 | [90321](../reports/90321.md) | Apache documentation | None | — | 1 | [ba4fe4ca95021d367f8a574](https://hackerone.com/ba4fe4ca95021d367f8a574) | 2016-01-04 |
-| 71 | [110655](../reports/110655.md) | Information Exposure Through Directory Listing | None | — | 1 | [erlijnvangenuchten](https://hackerone.com/erlijnvangenuchten) | 2016-01-14 |
-| 72 | [112304](../reports/112304.md) | owncloud.help: Text  Injection | None | — | 0 | [geekh](https://hackerone.com/geekh) | 2016-01-23 |
-| 73 | [108288](../reports/108288.md) | otrs.owncloud.com: Reflected Cross-Site Scripting | None | — | 0 | [arover7](https://hackerone.com/arover7) | 2016-02-10 |
-| 74 | [107849](../reports/107849.md) | [https://test1.owncloud.com/owncloud6/] Guessable password u | None | — | 0 | [molejarka](https://hackerone.com/molejarka) | 2016-01-02 |
-| 75 | [108692](../reports/108692.md) | Mixed Active Scripting Issue on stats.owncloud.org | None | — | 0 | [ishahriyar](https://hackerone.com/ishahriyar) | 2016-02-06 |
+| 31 | [84453](../reports/84453.md) | Lack of HSTS on https://apps.owncloud.com | None | — | 3 | [prayas](https://hackerone.com/prayas) | 2016-03-10 |
+| 32 | [130951](../reports/130951.md) | doc.owncloud.org: XSS via Referrer | None | — | 3 | [sandh0t](https://hackerone.com/sandh0t) | 2016-04-15 |
+| 33 | [85577](../reports/85577.md) | apps.owncloud.com: Potential XSS | None | — | 3 | [ala_arfaoui](https://hackerone.com/ala_arfaoui) | 2015-11-04 |
+| 34 | [84371](../reports/84371.md) | apps.owncloud.com: Stored XSS in profile page | None | — | 3 | [enderun07](https://hackerone.com/enderun07) | 2015-10-11 |
+| 35 | [92644](../reports/92644.md) | apps.owncloud.com: Referer protection Bypassed | None | — | 3 | [herlove](https://hackerone.com/herlove) | 2016-01-02 |
+| 36 | [129551](../reports/129551.md) | Cross site scripting in apps.owncloud.com | None | — | 3 | [kalihat007](https://hackerone.com/kalihat007) | 2016-04-12 |
+| 37 | [84395](../reports/84395.md) | CSRF in apps.owncloud.com | None | — | 3 | [nait_lamine](https://hackerone.com/nait_lamine) | 2016-03-10 |
+| 38 | [85559](../reports/85559.md) | Password appears in user name field | None | — | 3 | [shivathegame](https://hackerone.com/shivathegame) | 2015-09-11 |
+| 39 | [83710](../reports/83710.md) | apps.owncloud.com: SSL Session cookie without secure flag se | None | — | 3 | [ashesh](https://hackerone.com/ashesh) | 2015-09-15 |
+| 40 | [88904](../reports/88904.md) | Apache Range Header Denial of Service Attack (Confirmed PoC) | None | — | 3 | [xer0dayz](https://hackerone.com/xer0dayz) | 2016-01-01 |
+| 41 | [127259](../reports/127259.md) | Reflected XSS in owncloud.com | None | — | 3 | [sergeym](https://hackerone.com/sergeym) | 2016-04-01 |
+| 42 | [106024](../reports/106024.md) | owncloud.com: Parameter pollution in social sharing buttons | None | — | 3 | [gorang_joshi](https://hackerone.com/gorang_joshi) | 2016-03-14 |
+| 43 | [83251](../reports/83251.md) | owncloud.com: Content Sniffing not disabled | None | — | 3 | [mohammedalsaggaf](https://hackerone.com/mohammedalsaggaf) | 2015-11-12 |
+| 44 | [83667](../reports/83667.md) | apps.owncloud.com: Session Cookie in URL can be captured by  | None | — | 3 | [ashesh](https://hackerone.com/ashesh) | 2015-10-31 |
+| 45 | [83837](../reports/83837.md) | demo.owncloud.org: Web Server HTTP Trace/Track Method Suppor | None | — | 2 | [ashesh](https://hackerone.com/ashesh) | 2015-09-11 |
+| 46 | [83801](../reports/83801.md) | apps.owncloud.com: Path Disclosure | None | — | 2 | [ashesh](https://hackerone.com/ashesh) | 2015-09-11 |
+| 47 | [83373](../reports/83373.md) | owncloud.com: Cross Site Tracing | None | — | 2 | [psych0tr1a](https://hackerone.com/psych0tr1a) | 2015-10-11 |
+| 48 | [84372](../reports/84372.md) | owncloud.com: Account Compromise Through CSRF | None | — | 2 | [architaa](https://hackerone.com/architaa) | 2016-03-11 |
+| 49 | [258632](../reports/258632.md) | owncloud.com open redirect | None | — | 2 | [bobo_ka](https://hackerone.com/bobo_ka) | 2017-08-14 |
+| 50 | [84797](../reports/84797.md) | Config | None | — | 2 | [paulos__](https://hackerone.com/paulos__) | 2015-10-11 |
+| 51 | [84581](../reports/84581.md) | owncloud.com: Outdated plugins contains public exploits   | None | — | 2 | [dad](https://hackerone.com/dad) | 2015-10-11 |
+| 52 | [87752](../reports/87752.md) | gallery_plus: Content Spoofing  | None | — | 2 | [ishahriyar](https://hackerone.com/ishahriyar) | 2015-09-11 |
+| 53 | [92111](../reports/92111.md) | Self-XSS in mails sent by hello@owncloud.com | None | — | 2 | [dz_samir](https://hackerone.com/dz_samir) | 2016-02-06 |
+| 54 | [84105](../reports/84105.md) | demo.owncloud.org: HTTP compression is enabled potentially l | None | — | 2 | [paresh_parmar](https://hackerone.com/paresh_parmar) | 2015-10-09 |
+| 55 | [85201](../reports/85201.md) | Full Path Disclosure  | None | — | 2 | [ishahriyar](https://hackerone.com/ishahriyar) | 2016-01-06 |
+| 56 | [105980](../reports/105980.md) | XXE at host vpn.owncloud.com | None | — | 2 | [d0znpp](https://hackerone.com/d0znpp) | 2016-01-27 |
+| 57 | [90601](../reports/90601.md) | [s3.owncloud.com] Web Server HTTP Trace/Track Method Support | None | — | 2 | [bigbear_](https://hackerone.com/bigbear_) | 2015-09-28 |
+| 58 | [90980](../reports/90980.md) | owncloud.com: WP Super Cache plugin is outdated | None | — | 2 | [ba4fe4ca95021d367f8a574](https://hackerone.com/ba4fe4ca95021d367f8a574) | 2015-10-30 |
+| 59 | [121382](../reports/121382.md) | doc.owncloud.org has missing PHP handler | None | — | 1 | [cjusten](https://hackerone.com/cjusten) | 2016-04-04 |
+| 60 | [113211](../reports/113211.md) | No Any Kind of Protection on Delete account | None | — | 1 | [gamhody_](https://hackerone.com/gamhody_) | 2016-03-02 |
+| 61 | [85565](../reports/85565.md) | apps.owncloud.com: CSRF change privacy settings | None | — | 1 | [nait_lamine](https://hackerone.com/nait_lamine) | 2016-03-11 |
+| 62 | [110655](../reports/110655.md) | Information Exposure Through Directory Listing | None | — | 1 | [erlijnvangenuchten](https://hackerone.com/erlijnvangenuchten) | 2016-01-14 |
+| 63 | [83381](../reports/83381.md) | apps.owncloud.com: Multiple reflected XSS by insecure URL ge | None | — | 1 | [psych0tr1a](https://hackerone.com/psych0tr1a) | 2016-03-10 |
+| 64 | [85541](../reports/85541.md) | apps.owncloud.com: Mixed Active Scripting Issue  | None | — | 1 | [suhas_gaikwad](https://hackerone.com/suhas_gaikwad) | 2015-10-11 |
+| 65 | [87505](../reports/87505.md) | Full Path Disclosure  | None | — | 1 | [ishahriyar](https://hackerone.com/ishahriyar) | 2016-01-06 |
+| 66 | [90321](../reports/90321.md) | Apache documentation | None | — | 1 | [ba4fe4ca95021d367f8a574](https://hackerone.com/ba4fe4ca95021d367f8a574) | 2016-01-04 |
+| 67 | [116254](../reports/116254.md) | owncloud.com: Persistent XSS In Account Profile | None | — | 1 | [securitary](https://hackerone.com/securitary) | 2016-02-15 |
+| 68 | [84078](../reports/84078.md) | *.owncloud.com / *.owncloud.org: Using not strong enough SSL | None | — | 1 | [c0ldb00t3r](https://hackerone.com/c0ldb00t3r) | 2016-02-05 |
+| 69 | [89097](../reports/89097.md) | owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Explo | None | — | 1 | [xer0dayz](https://hackerone.com/xer0dayz) | 2015-09-16 |
+| 70 | [119808](../reports/119808.md) | DROWN Attack | None | — | 1 | [amsda](https://hackerone.com/amsda) | 2016-03-03 |
+| 71 | [83578](../reports/83578.md) | owncloud.com: PermError SPF Permanent Error: Too many DNS lo | None | — | 1 | [karthic](https://hackerone.com/karthic) | 2015-10-11 |
+| 72 | [108288](../reports/108288.md) | otrs.owncloud.com: Reflected Cross-Site Scripting | None | — | 0 | [arover7](https://hackerone.com/arover7) | 2016-02-10 |
+| 73 | [112304](../reports/112304.md) | owncloud.help: Text  Injection | None | — | 0 | [geekh](https://hackerone.com/geekh) | 2016-01-23 |
+| 74 | [108692](../reports/108692.md) | Mixed Active Scripting Issue on stats.owncloud.org | None | — | 0 | [ishahriyar](https://hackerone.com/ishahriyar) | 2016-02-06 |
+| 75 | [107849](../reports/107849.md) | [https://test1.owncloud.com/owncloud6/] Guessable password u | None | — | 0 | [molejarka](https://hackerone.com/molejarka) | 2016-01-02 |
 | 76 | [111262](../reports/111262.md) | The csrf token remains same after user logs in | None | — | 0 | [mrsihag](https://hackerone.com/mrsihag) | 2016-02-25 |
 | 77 | [105149](../reports/105149.md) | directory listing in https://demo.owncloud.org/doc/ | None | — | 0 | [ba4fe4ca95021d367f8a574](https://hackerone.com/ba4fe4ca95021d367f8a574) | 2016-01-01 |

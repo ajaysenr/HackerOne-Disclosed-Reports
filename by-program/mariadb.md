@@ -15,10 +15,10 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 9 | [481512](../reports/481512.md) | CRLF injection on https://buildbot.mariadb.org | Medium | — | 7 | [mik317](https://hackerone.com/mik317) | 2019-02-04 |
 | 10 | [490997](../reports/490997.md) | [downloads.mariadb.org] CRLF injection in case of encoded qu | Medium | — | 6 | [s_p_q_r](https://hackerone.com/s_p_q_r) | 2019-02-14 |
 | 11 | [394861](../reports/394861.md) | Incorrect Permission Assignment for Critical Resource | Medium | — | 6 | [dhiraj-mishra](https://hackerone.com/dhiraj-mishra) | 2018-11-14 |
-| 12 | [637840](../reports/637840.md) | Path traversal in command line client | Medium — CVSS 4.5 | — | 4 | [lixtelnis](https://hackerone.com/lixtelnis) | 2020-05-28 |
-| 13 | [775504](../reports/775504.md) | Exposed debug.log file leads to information disclosure | Medium | — | 4 | [muhammaddaffa](https://hackerone.com/muhammaddaffa) | 2020-01-15 |
-| 14 | [1369288](../reports/1369288.md) | Path Traversal CVE-2021-26086 CVE-2021-26085 | Medium | — | 3 | [kljunowsky](https://hackerone.com/kljunowsky) | 2021-11-05 |
-| 15 | [3889667](../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a sa | Medium — CVSS 6.4 | — | 3 | [dogeshark](https://hackerone.com/dogeshark) | 2026-09-07 |
+| 12 | [775504](../reports/775504.md) | Exposed debug.log file leads to information disclosure | Medium | — | 4 | [muhammaddaffa](https://hackerone.com/muhammaddaffa) | 2020-01-15 |
+| 13 | [637840](../reports/637840.md) | Path traversal in command line client | Medium — CVSS 4.5 | — | 4 | [lixtelnis](https://hackerone.com/lixtelnis) | 2020-05-28 |
+| 14 | [3889667](../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a sa | Medium — CVSS 6.4 | — | 3 | [dogeshark](https://hackerone.com/dogeshark) | 2026-09-07 |
+| 15 | [1369288](../reports/1369288.md) | Path Traversal CVE-2021-26086 CVE-2021-26085 | Medium | — | 3 | [kljunowsky](https://hackerone.com/kljunowsky) | 2021-11-05 |
 | 16 | [3909248](../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append() let | Medium | — | 3 | [v3rtical](https://hackerone.com/v3rtical) | 2026-09-07 |
 | 17 | [3769676](../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenti | Medium | — | 2 | [byteoverride](https://hackerone.com/byteoverride) | 2026-09-03 |
 | 18 | [690330](../reports/690330.md) | scripts loader (denial of service) vulnerability | Low | — | 20 | [badisman](https://hackerone.com/badisman) | 2020-03-19 |

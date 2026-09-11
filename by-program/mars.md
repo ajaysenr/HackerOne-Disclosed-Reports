@@ -8,10 +8,10 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 2 | [2357778](../reports/2357778.md) | Unrestricted File Upload at ██████████ | Critical — CVSS 9.3 | — | 74 | [xplo1t](https://hackerone.com/xplo1t) | 2024-02-19 |
 | 3 | [2200329](../reports/2200329.md) | CVE-█████-35813 in █████ | Critical — CVSS 9.8 | — | 68 | [0xr2r](https://hackerone.com/0xr2r) | 2026-02-24 |
 | 4 | [3090123](../reports/3090123.md) | insecure deserilize object leads to RCE On Sitecore (CVE-███ | Critical | — | 57 | [the_reinhardt](https://hackerone.com/the_reinhardt) | 2025-05-12 |
-| 5 | [3293803](../reports/3293803.md) | SQLi At `███████` via `theme_name`  | Critical — CVSS 9.6 | — | 52 | [4ksh3ye](https://hackerone.com/4ksh3ye) | 2026-02-24 |
-| 6 | [2828641](../reports/2828641.md) | unauthorized access and add user and change personal informa | Critical — CVSS 9.6 | — | 52 | [bughunter0x7](https://hackerone.com/bughunter0x7) | 2025-05-27 |
-| 7 | [2828693](../reports/2828693.md) | change part of personal information all users | Critical — CVSS 9.4 | — | 51 | [bughunter0x7](https://hackerone.com/bughunter0x7) | 2025-05-12 |
-| 8 | [2262554](../reports/2262554.md) | Critical Unauthenticated Access to Sensitive Employee and Cu | Critical | — | 51 | [skoll101](https://hackerone.com/skoll101) | 2024-01-30 |
+| 5 | [2828641](../reports/2828641.md) | unauthorized access and add user and change personal informa | Critical — CVSS 9.6 | — | 52 | [bughunter0x7](https://hackerone.com/bughunter0x7) | 2025-05-27 |
+| 6 | [3293803](../reports/3293803.md) | SQLi At `███████` via `theme_name`  | Critical — CVSS 9.6 | — | 52 | [4ksh3ye](https://hackerone.com/4ksh3ye) | 2026-02-24 |
+| 7 | [2262554](../reports/2262554.md) | Critical Unauthenticated Access to Sensitive Employee and Cu | Critical | — | 51 | [skoll101](https://hackerone.com/skoll101) | 2024-01-30 |
+| 8 | [2828693](../reports/2828693.md) | change part of personal information all users | Critical — CVSS 9.4 | — | 51 | [bughunter0x7](https://hackerone.com/bughunter0x7) | 2025-05-12 |
 | 9 | [2307933](../reports/2307933.md) | Datadog api keys exposed can be used to do all the read and  | Critical — CVSS 9.6 | — | 45 | [harshdranjan](https://hackerone.com/harshdranjan) | 2024-01-25 |
 | 10 | [3277276](../reports/3277276.md) | SQLi at █████ parameter | Critical — CVSS 9.6 | — | 34 | [scriptsavvy](https://hackerone.com/scriptsavvy) | 2026-02-24 |
 | 11 | [2266081](../reports/2266081.md) | Blind SQL Injection on █████ via URI Path | Critical — CVSS 9.6 | — | 28 | [stuux](https://hackerone.com/stuux) | 2024-02-14 |
@@ -45,10 +45,10 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 39 | [2445106](../reports/2445106.md) | CSRF in Delete Pet Function | Medium — CVSS 4.4 | — | 31 | [mosalah1102](https://hackerone.com/mosalah1102) | 2024-11-19 |
 | 40 | [3066548](../reports/3066548.md) | ███████ - Publicly Accessible public_html Directory Exposing | Medium — CVSS 5.7 | — | 28 | [xgoon](https://hackerone.com/xgoon) | 2026-02-24 |
 | 41 | [2828720](../reports/2828720.md) | Customer Data Exposure via Insecure Endpoint of coupon | Medium — CVSS 5.7 | — | 27 | [bughunter0x7](https://hackerone.com/bughunter0x7) | 2025-05-27 |
-| 42 | [3174778](../reports/3174778.md) |  No Rate Limiting on Password Attempts After Insecure Regist | Medium | — | 26 | [azar_man](https://hackerone.com/azar_man) | 2026-02-24 |
-| 43 | [2144870](../reports/2144870.md) | **"CSRF Vulnerability in ███████ Website Allows Attackers to | Medium — CVSS 5.0 | — | 26 | [bx00](https://hackerone.com/bx00) | 2023-11-15 |
-| 44 | [2396630](../reports/2396630.md) | sensitive  data-creds for database - private key | Medium — CVSS 4.6 | — | 26 | [mosalah1102](https://hackerone.com/mosalah1102) | 2024-11-19 |
-| 45 | [1965640](../reports/1965640.md) | ████ ' can add animal to other account ' at ██████ | Medium | — | 26 | [0xs4m](https://hackerone.com/0xs4m) | 2023-06-22 |
+| 42 | [2144870](../reports/2144870.md) | **"CSRF Vulnerability in ███████ Website Allows Attackers to | Medium — CVSS 5.0 | — | 26 | [bx00](https://hackerone.com/bx00) | 2023-11-15 |
+| 43 | [1965640](../reports/1965640.md) | ████ ' can add animal to other account ' at ██████ | Medium | — | 26 | [0xs4m](https://hackerone.com/0xs4m) | 2023-06-22 |
+| 44 | [3174778](../reports/3174778.md) |  No Rate Limiting on Password Attempts After Insecure Regist | Medium | — | 26 | [azar_man](https://hackerone.com/azar_man) | 2026-02-24 |
+| 45 | [2396630](../reports/2396630.md) | sensitive  data-creds for database - private key | Medium — CVSS 4.6 | — | 26 | [mosalah1102](https://hackerone.com/mosalah1102) | 2024-11-19 |
 | 46 | [2029753](../reports/2029753.md) | CSRF to delete a pet | Medium — CVSS 5.0 | — | 25 | [d0rift](https://hackerone.com/d0rift) | 2023-08-30 |
 | 47 | [2089895](../reports/2089895.md) | Reflected XSS on formaction parameter | Medium | — | 25 | [e5p3ctr0x96](https://hackerone.com/e5p3ctr0x96) | 2024-11-19 |
 | 48 | [1943252](../reports/1943252.md) | Response Manipulation lead to bypass verification code while | Medium — CVSS 6.1 | — | 23 | [mo3giza](https://hackerone.com/mo3giza) | 2023-08-30 |

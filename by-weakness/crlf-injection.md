@@ -9,8 +9,8 @@
 | 3 | [409512](../reports/409512.md) | mod_userdir CRLF injection (CVE-2016-4975) | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $500 | 17 |
 | 4 | [2147132](../reports/2147132.md) | Security bug https://bugzilla.mozilla.org/oauth/authorize - CRLF  | [Mozilla](../by-program/mozilla.md) | Low | $200 | 59 |
 | 5 | [1514359](../reports/1514359.md) | CRLF Injection - Http Response Splitting  | [EXNESS](../by-program/exness.md) | Low | $200 | 15 |
-| 6 | [300622](../reports/300622.md) | Монипулирование на страницах пользоватлей значением "Подсказывать | [VK.com](../by-program/vkcom.md) | Low | $100 | 7 |
-| 7 | [242408](../reports/242408.md) | Нет маркера на добавление песни в плейлист пользователя | [VK.com](../by-program/vkcom.md) | Low | $100 | 7 |
+| 6 | [242408](../reports/242408.md) | Нет маркера на добавление песни в плейлист пользователя | [VK.com](../by-program/vkcom.md) | Low | $100 | 7 |
+| 7 | [300622](../reports/300622.md) | Монипулирование на страницах пользоватлей значением "Подсказывать | [VK.com](../by-program/vkcom.md) | Low | $100 | 7 |
 | 8 | [730788](../reports/730788.md) | CRLF Injection - http://stage-static-cdn.mackeeper.com/ | [Clario](../by-program/clario.md) | Low | $50 | 1 |
 | 9 | [1168205](../reports/1168205.md) | 'net/http': HTTP Header Injection in the set_content_type method | [Ruby](../by-program/ruby.md) | High — CVSS 7.2 | — | 9 |
 | 10 | [590020](../reports/590020.md) | CRLF Injection in urllib | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.1 | — | 340 |
@@ -22,16 +22,16 @@
 | 16 | [413115](../reports/413115.md) | CRLF injection agentcrm.8x8.com | [8x8](../by-program/8x8-bounty.md) | Medium | — | 12 |
 | 17 | [1820955](../reports/1820955.md) | CRLF Injection in Nodejs ‘undici’ via host | [Node.js](../by-program/nodejs.md) | Medium — CVSS 4.6 | — | 11 |
 | 18 | [3633534](../reports/3633534.md) | CRLF Injection in HAProxy PROXY Protocol via CURLOPT_HAPROXY_CLIE | [curl](../by-program/curl.md) | Medium | — | 9 |
-| 19 | [3911605](../reports/3911605.md) | SMTP CRLF injection in custom SMTP recipient operand allows addit | [curl](../by-program/curl.md) | Medium | — | 8 |
-| 20 | [1402249](../reports/1402249.md) | Control character filtering misses leading and trailing whitespac | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 8 |
+| 19 | [1402249](../reports/1402249.md) | Control character filtering misses leading and trailing whitespac | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 8 |
+| 20 | [3911605](../reports/3911605.md) | SMTP CRLF injection in custom SMTP recipient operand allows addit | [curl](../by-program/curl.md) | Medium | — | 8 |
 | 21 | [481512](../reports/481512.md) | CRLF injection on https://buildbot.mariadb.org | [MariaDB](../by-program/mariadb.md) | Medium | — | 7 |
 | 22 | [490997](../reports/490997.md) | [downloads.mariadb.org] CRLF injection in case of encoded query m | [MariaDB](../by-program/mariadb.md) | Medium | — | 6 |
 | 23 | [1664019](../reports/1664019.md) | CVE-2022-35948: CRLF Injection in Nodejs ‘undici’ via Content-Typ | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 6 |
 | 24 | [245485](../reports/245485.md) | CRLF Injection on ███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
-| 25 | [266030](../reports/266030.md) | Add arbitrary value in reset password cookie | [Legal Robot](../by-program/legalrobot.md) | Medium | — | 3 |
-| 26 | [3963494](../reports/3963494.md) | RTSP CRLF injection in libcurl allows CURLOPT_RTSP_* values to in | [curl](../by-program/curl.md) | Medium | — | 3 |
-| 27 | [771596](../reports/771596.md) | CRLF Injection in legacy url API (url.parse().hostname) | [Node.js](../by-program/nodejs.md) | Medium | — | 2 |
-| 28 | [3621606](../reports/3621606.md) | ZMQ RPC Log Injection and Untrusted Payload Persistence | [Monero](../by-program/monero.md) | Medium | — | 2 |
+| 25 | [3963494](../reports/3963494.md) | RTSP CRLF injection in libcurl allows CURLOPT_RTSP_* values to in | [curl](../by-program/curl.md) | Medium | — | 3 |
+| 26 | [266030](../reports/266030.md) | Add arbitrary value in reset password cookie | [Legal Robot](../by-program/legalrobot.md) | Medium | — | 3 |
+| 27 | [3621606](../reports/3621606.md) | ZMQ RPC Log Injection and Untrusted Payload Persistence | [Monero](../by-program/monero.md) | Medium | — | 2 |
+| 28 | [771596](../reports/771596.md) | CRLF Injection in legacy url API (url.parse().hostname) | [Node.js](../by-program/nodejs.md) | Medium | — | 2 |
 | 29 | [3823932](../reports/3823932.md) | CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabling HAProx | [curl](../by-program/curl.md) | Medium | — | 0 |
 | 30 | [712979](../reports/712979.md) | Creating malformed URLs via new line character in-between two URL | [X / xAI](../by-program/x.md) | Low | — | 95 |
 | 31 | [1943013](../reports/1943013.md) | CRLF Inection at `██████████` | [Mars](../by-program/mars.md) | Low | — | 14 |
@@ -42,7 +42,7 @@
 | 36 | [3627638](../reports/3627638.md) | Security Vulnerability Report: Protocol Injection via Programmati | [curl](../by-program/curl.md) | None | — | 13 |
 | 37 | [276427](../reports/276427.md) | Legal Robot | [Legal Robot](../by-program/legalrobot.md) | None | — | 12 |
 | 38 | [2831558](../reports/2831558.md) | netrc crlf injection | [curl](../by-program/curl.md) | None | — | 6 |
-| 39 | [1718757](../reports/1718757.md) | Header CRLF Injection in Ruby Net::HTTP | [Ruby](../by-program/ruby.md) | None | — | 5 |
-| 40 | [2861797](../reports/2861797.md) | curl mishandles `%0c%0b` sequences in HTTP responses leading to C | [curl](../by-program/curl.md) | None | — | 5 |
+| 39 | [2861797](../reports/2861797.md) | curl mishandles `%0c%0b` sequences in HTTP responses leading to C | [curl](../by-program/curl.md) | None | — | 5 |
+| 40 | [1718757](../reports/1718757.md) | Header CRLF Injection in Ruby Net::HTTP | [Ruby](../by-program/ruby.md) | None | — | 5 |
 | 41 | [3651975](../reports/3651975.md) | SMTP Command Injection via CRLF in libcurl MAIL_FROM / MAIL_RCPT  | [curl](../by-program/curl.md) | None | — | 4 |
 | 42 | [3741744](../reports/3741744.md) | CRLF Injection via Custom HTTP Headers | [curl](../by-program/curl.md) | None | — | 2 |
