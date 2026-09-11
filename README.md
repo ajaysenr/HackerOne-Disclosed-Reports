@@ -2,6 +2,20 @@
 
 A structured, auto-updated database of publicly disclosed HackerOne vulnerability reports.
 
+## 🌐 Web Dashboard
+
+Use the interactive dashboard to search reports and filter them by severity, year, program, bounty, CVE, weakness, or disclosure date.
+
+**[Open the HackerOne Disclosed Reports dashboard →](https://h1.ajaysenr.com/)**
+
+### Dashboard overview
+
+[![HackerOne Disclosed Reports dashboard overview](assets/dashboard-overview.png)](https://h1.ajaysenr.com/)
+
+### Report explorer
+
+[![HackerOne Disclosed Reports report explorer](assets/report-explorer.png)](https://h1.ajaysenr.com/)
+
 ## 📊 Statistics
 
 | Metric | Count |
@@ -35,4 +49,3 @@ A structured, auto-updated database of publicly disclosed HackerOne vulnerabilit
 - `reports.txt` — flat URL + title list (10,132 entries)
 - `index.json` — structured metadata for all enriched reports
 - `reports/` — individual markdown page per report
-
