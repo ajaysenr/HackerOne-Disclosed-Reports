@@ -10714,6 +10714,7 @@ https://hackerone.com/reports/2190808 | User automatically logged in as Sys Admi
 https://hackerone.com/reports/2190827 | Bypassing Collaborator Restrictions: Retaining Admin Access Post-Repository Transfer
 https://hackerone.com/reports/2192984 | Unauthenticated Remote Access to Testing Endpoint
 https://hackerone.com/reports/2193815 | Mozilla Employee's Token for sql.telemetry.mozilla.org Exposed in Git Commit
+https://hackerone.com/reports/2194289 | Subdomain takeover on one of the subdomain under mozaws.net
 https://hackerone.com/reports/2194928 | Full account takeover of any user through reset password
 https://hackerone.com/reports/2197244 | Account deletion using the /v1/account/destroy API endpoint using account password without 2FA verification
 https://hackerone.com/reports/2197796 | GHES Management console EoP (editor to site admin)
