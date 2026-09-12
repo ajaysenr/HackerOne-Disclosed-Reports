@@ -10719,6 +10719,8 @@ https://hackerone.com/reports/2194928 | Full account takeover of any user throug
 https://hackerone.com/reports/2197244 | Account deletion using the /v1/account/destroy API endpoint using account password without 2FA verification
 https://hackerone.com/reports/2197796 | GHES Management console EoP (editor to site admin)
 https://hackerone.com/reports/2197801 | Invite tokens have Insufficient entropy in GHES Management Console
+https://hackerone.com/reports/2199174 | [Critical] Curl CVE-2023-38545 vulnerability code changes are disclosed on the internet
+https://hackerone.com/reports/2199818 | Path traversal through path stored in Uint8Array
 https://hackerone.com/reports/2200329 | CVE-█████-35813 in █████
 https://hackerone.com/reports/2201370 | Information disclosure via enabled Django Debug Mode
 https://hackerone.com/reports/2203432 | Organization members can delete reports in teams they have no access to
