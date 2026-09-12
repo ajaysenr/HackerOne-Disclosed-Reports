@@ -23,6 +23,6 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 17 | [3042475](../reports/3042475.md) | Splatoon 3 Anticheat Seed Randomization Weakness | None | — | 53 | [hana2736](https://hackerone.com/hana2736) | 2026-02-19 |
 | 18 | [897606](../reports/897606.md) | [3DS][SSL][SDK] Unchecked number of audio channels in Mobicl | None | — | 43 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2020-12-18 |
 | 19 | [895769](../reports/895769.md) | [3DS][SSL] Use of uninitialized class member leads to RCE in | None | — | 38 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2020-12-18 |
-| 20 | [923240](../reports/923240.md) | [3DS][StreetPass] Heap Overflow in Swapnote parser leads to  | None | — | 30 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2021-01-18 |
-| 21 | [687887](../reports/687887.md) | [3DS][StreetPass] Buffer Overflow in Super Mario Maker level | None | — | 30 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2021-04-20 |
+| 20 | [687887](../reports/687887.md) | [3DS][StreetPass] Buffer Overflow in Super Mario Maker level | None | — | 30 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2021-04-20 |
+| 21 | [923240](../reports/923240.md) | [3DS][StreetPass] Heap Overflow in Swapnote parser leads to  | None | — | 30 | [mrnbayoh](https://hackerone.com/mrnbayoh) | 2021-01-18 |
 | 22 | [469997](../reports/469997.md) | NEX: Stack overflow in UnicodeToUtf8 | None | — | 23 | [kinnay](https://hackerone.com/kinnay) | 2025-06-27 |

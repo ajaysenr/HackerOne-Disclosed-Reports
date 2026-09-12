@@ -83927,6 +83927,25 @@
     "votes": 3
   },
   {
+    "id": 281682,
+    "url": "https://hackerone.com/reports/281682",
+    "title": "Crashes/Buffer at 0x2C0086,name=PBrowser::Msg_Destroy ",
+    "visibility": "full",
+    "program": "Tor",
+    "program_handle": "torproject",
+    "reporter": "dhiraj-mishra",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Classic Buffer Overflow",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": null,
+    "reported_at": "2017-10-22",
+    "disclosed_at": "2017-10-24T09:42:01.243Z",
+    "votes": 0
+  },
+  {
     "id": 281850,
     "url": "https://hackerone.com/reports/281850",
     "title": "Provide a security sistem most fit to our team",

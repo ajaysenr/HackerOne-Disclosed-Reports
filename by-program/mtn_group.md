@@ -37,8 +37,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 31 | [1427086](../reports/1427086.md) | path traversal vulnerability in Grafana 8.x allows " local f | Critical | — | 24 | [malagham](https://hackerone.com/malagham) | 2022-09-03 |
 | 32 | [1747146](../reports/1747146.md) | Authentication bypass in ████████ | Critical | — | 21 | [roland_hack](https://hackerone.com/roland_hack) | 2022-12-02 |
 | 33 | [1516520](../reports/1516520.md) | Download full backup  [Mtn.co.rw] | Critical | — | 20 | [ibrahimatix0x01](https://hackerone.com/ibrahimatix0x01) | 2022-05-14 |
-| 34 | [1425563](../reports/1425563.md) | Remote code injection in Log4j on http://mtn1app.mtncameroon | Critical | — | 16 | [renzi](https://hackerone.com/renzi) | 2024-08-24 |
-| 35 | [1069105](../reports/1069105.md) | 2x Remote file inclusion within your VMware Instances | Critical | — | 16 | [0x0luke](https://hackerone.com/0x0luke) | 2021-08-19 |
+| 34 | [1069105](../reports/1069105.md) | 2x Remote file inclusion within your VMware Instances | Critical | — | 16 | [0x0luke](https://hackerone.com/0x0luke) | 2021-08-19 |
+| 35 | [1425563](../reports/1425563.md) | Remote code injection in Log4j on http://mtn1app.mtncameroon | Critical | — | 16 | [renzi](https://hackerone.com/renzi) | 2024-08-24 |
 | 36 | [1447751](../reports/1447751.md) | Firebase Database Takeover in https://pulseradio.mtn.co.ug/ | Critical — CVSS 10.0 | — | 15 | [shuvam321](https://hackerone.com/shuvam321) | 2022-12-01 |
 | 37 | [1482830](../reports/1482830.md) | Insecure Storage of Sensitive Information on lonestarcell.co | Critical | — | 13 | [q9m](https://hackerone.com/q9m) | 2022-04-09 |
 | 38 | [1164452](../reports/1164452.md) | Remote code execution due to unvalidated file upload | Critical | — | 12 | [aliyugombe](https://hackerone.com/aliyugombe) | 2022-09-01 |
@@ -54,22 +54,22 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 48 | [2309291](../reports/2309291.md) | CVE-2023-41763 Business Elevation of Privilege vulnerability | High | — | 45 | [h0w](https://hackerone.com/h0w) | 2025-02-22 |
 | 49 | [2375659](../reports/2375659.md) | CVE-2010-1429 JBoss Insecure Storage of Sensitive Informatio | High | — | 42 | [deb0con](https://hackerone.com/deb0con) | 2024-08-30 |
 | 50 | [1451394](../reports/1451394.md) | POST BASED REFLECTED XSS IN dailydeals.mtn.co.za | High — CVSS 7.1 | — | 35 | [shuvam321](https://hackerone.com/shuvam321) | 2022-07-15 |
-| 51 | [1264832](../reports/1264832.md) | Reflected Cross-Site scripting in : mtn.bj | High | — | 33 | [alimanshester](https://hackerone.com/alimanshester) | 2021-09-26 |
-| 52 | [1239633](../reports/1239633.md) | information discloure via logs files at ==> https://ihelp.mt | High | — | 33 | [zero_or_1](https://hackerone.com/zero_or_1) | 2021-08-20 |
+| 51 | [1239633](../reports/1239633.md) | information discloure via logs files at ==> https://ihelp.mt | High | — | 33 | [zero_or_1](https://hackerone.com/zero_or_1) | 2021-08-20 |
+| 52 | [1264832](../reports/1264832.md) | Reflected Cross-Site scripting in : mtn.bj | High | — | 33 | [alimanshester](https://hackerone.com/alimanshester) | 2021-09-26 |
 | 53 | [1785021](../reports/1785021.md) | Leaking usernames through endpoints Wordpress | High | — | 31 | [alitoni224](https://hackerone.com/alitoni224) | 2024-08-10 |
 | 54 | [1070532](../reports/1070532.md) | RCE Apache Struts2 remote command execution (S2-045) on [wif | High | — | 29 | [pisarenko](https://hackerone.com/pisarenko) | 2021-09-09 |
 | 55 | [1314172](../reports/1314172.md) | Otp  bypass in verifying nin | High | — | 25 | [mr_sparrow](https://hackerone.com/mr_sparrow) | 2022-10-17 |
 | 56 | [865875](../reports/865875.md) | XMLRPC, Enabling XPSA and Bruteforce and DOS + A file disclo | High | — | 23 | [tandav](https://hackerone.com/tandav) | 2021-06-14 |
-| 57 | [946578](../reports/946578.md) | [mtn.com.af] Multiple vulnerabilities allow to Application l | High | — | 18 | [lmhu](https://hackerone.com/lmhu) | 2021-09-28 |
-| 58 | [1049402](../reports/1049402.md) | PHP Info Exposing Secrets at https://radio.mtn.bj/info | High | — | 18 | [pudsec](https://hackerone.com/pudsec) | 2022-03-08 |
+| 57 | [1049402](../reports/1049402.md) | PHP Info Exposing Secrets at https://radio.mtn.bj/info | High | — | 18 | [pudsec](https://hackerone.com/pudsec) | 2022-03-08 |
+| 58 | [946578](../reports/946578.md) | [mtn.com.af] Multiple vulnerabilities allow to Application l | High | — | 18 | [lmhu](https://hackerone.com/lmhu) | 2021-09-28 |
 | 59 | [1264834](../reports/1264834.md) | cross site scripting in : mtn.bj | High | — | 14 | [alimanshester](https://hackerone.com/alimanshester) | 2022-08-06 |
 | 60 | [1060541](../reports/1060541.md) | No rate limit lead to otp brute forcing | High | — | 13 | [aliyugombe](https://hackerone.com/aliyugombe) | 2021-08-16 |
 | 61 | [1397788](../reports/1397788.md) | Sensitive Information Disclosure Through Config File | High — CVSS 7.5 | — | 13 | [dh0pe](https://hackerone.com/dh0pe) | 2022-09-01 |
-| 62 | [853284](../reports/853284.md) | Disclosure of internal information using hidden NTLM authent | High — CVSS 7.5 | — | 12 | [z3lox](https://hackerone.com/z3lox) | 2021-08-04 |
+| 62 | [761000](../reports/761000.md) | Account Take over of millions of  MTN users account due to l | High | — | 12 | [its_afolic](https://hackerone.com/its_afolic) | 2020-04-13 |
 | 63 | [925425](../reports/925425.md) | CVE-2018-6389 exploitation - using scripts loader | High | — | 12 | [lmhu](https://hackerone.com/lmhu) | 2021-08-18 |
-| 64 | [761000](../reports/761000.md) | Account Take over of millions of  MTN users account due to l | High | — | 12 | [its_afolic](https://hackerone.com/its_afolic) | 2020-04-13 |
-| 65 | [1646248](../reports/1646248.md) | Reflected xss on videostore.mtnonline.com | High — CVSS 8.8 | — | 10 | [possowski](https://hackerone.com/possowski) | 2022-09-25 |
-| 66 | [1056611](../reports/1056611.md) | Unauthenticated Arbitrary File Deletion (CVE-2020-3187) | High | — | 10 | [3mm3](https://hackerone.com/3mm3) | 2021-08-29 |
+| 64 | [853284](../reports/853284.md) | Disclosure of internal information using hidden NTLM authent | High — CVSS 7.5 | — | 12 | [z3lox](https://hackerone.com/z3lox) | 2021-08-04 |
+| 65 | [1056611](../reports/1056611.md) | Unauthenticated Arbitrary File Deletion (CVE-2020-3187) | High | — | 10 | [3mm3](https://hackerone.com/3mm3) | 2021-08-29 |
+| 66 | [1646248](../reports/1646248.md) | Reflected xss on videostore.mtnonline.com | High — CVSS 8.8 | — | 10 | [possowski](https://hackerone.com/possowski) | 2022-09-25 |
 | 67 | [924855](../reports/924855.md) | SQL injection [futexpert.mtngbissau.com] | High | — | 9 | [pisarenko](https://hackerone.com/pisarenko) | 2021-09-09 |
 | 68 | [838817](../reports/838817.md) | Insecure crossdomain.xml on https://vdc.mtnonline.com/ | High | — | 7 | [xlife](https://hackerone.com/xlife) | 2022-03-20 |
 | 69 | [1638347](../reports/1638347.md) | String length restriction byepass at https://callerfeel.mtno | High | — | 6 | [aliyugombe](https://hackerone.com/aliyugombe) | 2022-09-07 |
@@ -96,12 +96,12 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 90 | [777957](../reports/777957.md) | OTP bypass - Unintended disclosure of OTP to client allows a | Medium — CVSS 6.3 | — | 19 | [b5bb904ea6b315a566eb691](https://hackerone.com/b5bb904ea6b315a566eb691) | 2020-04-11 |
 | 91 | [1212235](../reports/1212235.md) | Reflected XSS on dailydeals.mtn.co.za | Medium | — | 19 | [musab_alharany](https://hackerone.com/musab_alharany) | 2021-12-24 |
 | 92 | [772744](../reports/772744.md) | Unsafe cors sharing of admin users  | Medium | — | 17 | [pwrspl0it](https://hackerone.com/pwrspl0it) | 2020-04-30 |
-| 93 | [1147176](../reports/1147176.md) | Cross-site Scripting (XSS) - Reflected on http://callertunez | Medium | — | 17 | [renzi](https://hackerone.com/renzi) | 2024-08-24 |
-| 94 | [1061199](../reports/1061199.md) | Reflected XSS on play.mtn.co.za | Medium | — | 17 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2021-08-14 |
+| 93 | [1061199](../reports/1061199.md) | Reflected XSS on play.mtn.co.za | Medium | — | 17 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2021-08-14 |
+| 94 | [1147176](../reports/1147176.md) | Cross-site Scripting (XSS) - Reflected on http://callertunez | Medium | — | 17 | [renzi](https://hackerone.com/renzi) | 2024-08-24 |
 | 95 | [1256496](../reports/1256496.md) | HTML injection in email content during registration via Firs | Medium | — | 16 | [ibrahimatix0x01](https://hackerone.com/ibrahimatix0x01) | 2021-12-18 |
 | 96 | [924851](../reports/924851.md) | xss on [developers.mtn.com] | Medium | — | 16 | [pisarenko](https://hackerone.com/pisarenko) | 2022-04-19 |
-| 97 | [789388](../reports/789388.md) | Accessible Restricted directory on [bcm-bcaw.mtn.cm] | Medium — CVSS 5.3 | — | 15 | [tounsi_007](https://hackerone.com/tounsi_007) | 2020-07-15 |
-| 98 | [1069528](../reports/1069528.md) | Reflected XSS on gamesclub.mtn.com.g | Medium | — | 15 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2021-05-24 |
+| 97 | [1069528](../reports/1069528.md) | Reflected XSS on gamesclub.mtn.com.g | Medium | — | 15 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2021-05-24 |
+| 98 | [789388](../reports/789388.md) | Accessible Restricted directory on [bcm-bcaw.mtn.cm] | Medium — CVSS 5.3 | — | 15 | [tounsi_007](https://hackerone.com/tounsi_007) | 2020-07-15 |
 | 99 | [1210921](../reports/1210921.md) | Reflected XSS at dailydeals.mtn.co.za | Medium | — | 15 | [musab_alharany](https://hackerone.com/musab_alharany) | 2021-12-24 |
 | 100 | [1060518](../reports/1060518.md) | No rate limit in otp code sending | Medium | — | 14 | [aliyugombe](https://hackerone.com/aliyugombe) | 2021-08-16 |
 | 101 | [1320242](../reports/1320242.md) | Password reset token leak on third party website via Referer | Medium | — | 13 | [ibrahimatix0x01](https://hackerone.com/ibrahimatix0x01) | 2022-09-01 |
@@ -110,16 +110,16 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 104 | [1351329](../reports/1351329.md) | firebase credentials leaks @ https://mpulse.mtnonline.com  | Medium | — | 12 | [aliyugombe](https://hackerone.com/aliyugombe) | 2022-09-05 |
 | 105 | [1244722](../reports/1244722.md) | XSS at http://nextapps.mtnonline.com/search/suggest/q/{xss p | Medium | — | 9 | [homosec](https://hackerone.com/homosec) | 2022-05-01 |
 | 106 | [1735622](../reports/1735622.md) | Reflected XSS in chatbot | Medium — CVSS 5.5 | — | 9 | [roland_hack](https://hackerone.com/roland_hack) | 2022-11-19 |
-| 107 | [1434276](../reports/1434276.md) | Information disclosure through django debug mode | Medium | — | 8 | [aliyugombe](https://hackerone.com/aliyugombe) | 2022-09-05 |
+| 107 | [767066](../reports/767066.md) | Information Disclosure Microsoft IIS Server service.cnf in a | Medium | — | 8 | [miguel_santareno](https://hackerone.com/miguel_santareno) | 2020-04-03 |
 | 108 | [801437](../reports/801437.md) | Exposed .bash_history at http://21days2017.mtncameroon.net/. | Medium | — | 8 | [xlife](https://hackerone.com/xlife) | 2022-03-20 |
-| 109 | [767066](../reports/767066.md) | Information Disclosure Microsoft IIS Server service.cnf in a | Medium | — | 8 | [miguel_santareno](https://hackerone.com/miguel_santareno) | 2020-04-03 |
-| 110 | [762118](../reports/762118.md) | Upload directory of Mtn.ci | Medium — CVSS 5.3 | — | 7 | [juni19](https://hackerone.com/juni19) | 2020-02-05 |
-| 111 | [1351326](../reports/1351326.md) | firebase credentials leaks @ ███████ | Medium | — | 7 | [aliyugombe](https://hackerone.com/aliyugombe) | 2022-09-05 |
+| 109 | [1434276](../reports/1434276.md) | Information disclosure through django debug mode | Medium | — | 8 | [aliyugombe](https://hackerone.com/aliyugombe) | 2022-09-05 |
+| 110 | [1351326](../reports/1351326.md) | firebase credentials leaks @ ███████ | Medium | — | 7 | [aliyugombe](https://hackerone.com/aliyugombe) | 2022-09-05 |
+| 111 | [762118](../reports/762118.md) | Upload directory of Mtn.ci | Medium — CVSS 5.3 | — | 7 | [juni19](https://hackerone.com/juni19) | 2020-02-05 |
 | 112 | [1244731](../reports/1244731.md) | XSS at videostore.mtnonline.com/GL/*.aspx via all parameters | Medium | — | 6 | [homosec](https://hackerone.com/homosec) | 2022-05-01 |
 | 113 | [925519](../reports/925519.md) | [play.mtn.co.za] Application level DoS via xmlrpc.php | Medium | — | 6 | [lmhu](https://hackerone.com/lmhu) | 2021-09-10 |
 | 114 | [925007](../reports/925007.md) | blind sql on [selfcare.mtn.com.af] | Medium | — | 5 | [pisarenko](https://hackerone.com/pisarenko) | 2021-09-09 |
-| 115 | [760484](../reports/760484.md) | Upload directory of Mtn.co.sz has listing enabled | Medium | — | 4 | [juni19](https://hackerone.com/juni19) | 2020-02-05 |
-| 116 | [1351338](../reports/1351338.md) | CVE-2021-38314  @ https://www.mtn.ci | Medium | — | 4 | [aliyugombe](https://hackerone.com/aliyugombe) | 2022-09-05 |
+| 115 | [1351338](../reports/1351338.md) | CVE-2021-38314  @ https://www.mtn.ci | Medium | — | 4 | [aliyugombe](https://hackerone.com/aliyugombe) | 2022-09-05 |
+| 116 | [760484](../reports/760484.md) | Upload directory of Mtn.co.sz has listing enabled | Medium | — | 4 | [juni19](https://hackerone.com/juni19) | 2020-02-05 |
 | 117 | [1165223](../reports/1165223.md) | Missing captcha and rate limit protection in help form  | Medium | — | 3 | [aliyugombe](https://hackerone.com/aliyugombe) | 2021-12-11 |
 | 118 | [761573](../reports/761573.md) | Cross-Site Scripting through search form on mtnplay.co.zm | Low | — | 40 | [cristiancornea](https://hackerone.com/cristiancornea) | 2021-06-08 |
 | 119 | [2682974](../reports/2682974.md) | Social media account takeover  | Low — CVSS 3.7 | — | 37 | [haythem02](https://hackerone.com/haythem02) | 2024-11-03 |

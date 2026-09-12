@@ -15,8 +15,8 @@
 | 9 | [1763817](../reports/1763817.md) | Take over subdomain undici.nodejs.org.cdn.cloudflare.net | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.9 | — | 22 |
 | 10 | [980856](../reports/980856.md) | https://publishers.basicattentiontoken.org/favicon.ico is Vulnera | [Brave Software](../by-program/brave.md) | Medium — CVSS 5.2 | — | 18 |
 | 11 | [3620748](../reports/3620748.md) | V1Plugin.Decrypt panics on empty ciphertext (Remote DoS) | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 5 |
-| 12 | [3723315](../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead | [Monero](../by-program/monero.md) | Medium — CVSS 5.4 | — | 4 |
-| 13 | [3620753](../reports/3620753.md) | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS) | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 4 |
+| 12 | [3620753](../reports/3620753.md) | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS) | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 4 |
+| 13 | [3723315](../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead | [Monero](../by-program/monero.md) | Medium — CVSS 5.4 | — | 4 |
 | 14 | [792895](../reports/792895.md) | bypass old password with array in /admin/account-user-email.php | [Revive Adserver](../by-program/revive_adserver.md) | Low | — | 22 |
 | 15 | [268320](../reports/268320.md) | solving TOR vulnerability, in other to make bruteforce difficult | [Tor](../by-program/torproject.md) | Low | — | 9 |
 | 16 | [3409193](../reports/3409193.md) | HackerOne | [curl](../by-program/curl.md) | None | — | 26 |

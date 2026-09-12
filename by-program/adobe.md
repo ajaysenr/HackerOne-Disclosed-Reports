@@ -14,8 +14,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 8 | [1656650](../reports/1656650.md) | Reflected Cross site scripting via Swagger UI | Medium — CVSS 6.1 | — | 21 | [webcipher101](https://hackerone.com/webcipher101) | 2022-10-25 |
 | 9 | [1260825](../reports/1260825.md) | DOM XSS on  www.adobe.com | Medium — CVSS 5.4 | — | 18 | [saajanbhujel](https://hackerone.com/saajanbhujel) | 2022-05-31 |
 | 10 | [1736327](../reports/1736327.md) | DOM XSS at `https://adobedocs.github.io/indesign-api-docs/?c | Medium — CVSS 6.1 | — | 14 | [dreamer_eh](https://hackerone.com/dreamer_eh) | 2023-01-19 |
-| 11 | [1744212](../reports/1744212.md) | HTML INJECTION on https://adobedocs.github.io/JourneyAPI/ du | Medium | — | 12 | [dreamer_eh](https://hackerone.com/dreamer_eh) | 2023-01-17 |
-| 12 | [1398374](../reports/1398374.md) | Able to bypass the fix on DOM XSS at [www.adobe.com] | Medium — CVSS 5.8 | — | 12 | [saajanbhujel](https://hackerone.com/saajanbhujel) | 2022-05-31 |
+| 11 | [1398374](../reports/1398374.md) | Able to bypass the fix on DOM XSS at [www.adobe.com] | Medium — CVSS 5.8 | — | 12 | [saajanbhujel](https://hackerone.com/saajanbhujel) | 2022-05-31 |
+| 12 | [1744212](../reports/1744212.md) | HTML INJECTION on https://adobedocs.github.io/JourneyAPI/ du | Medium | — | 12 | [dreamer_eh](https://hackerone.com/dreamer_eh) | 2023-01-17 |
 | 13 | [1511628](../reports/1511628.md) | DoS of  https://research.adobe.com/ via CVE-2018-6389 exploi | Medium | — | 6 | [shirshak](https://hackerone.com/shirshak) | 2022-10-13 |
 | 14 | [2615168](../reports/2615168.md) | Disclosure of git metadata and springboot actuator informati | Low — CVSS 3.7 | — | 58 | [jf0x0r](https://hackerone.com/jf0x0r) | 2025-04-07 |
 | 15 | [2679440](../reports/2679440.md) | Unauthenticated Varnish Cache Purge | Low — CVSS 3.7 | — | 43 | [0xhuntress](https://hackerone.com/0xhuntress) | 2024-09-12 |

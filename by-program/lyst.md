@@ -11,5 +11,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 5 | [631589](../reports/631589.md) | Web Cache poisoning attack leads to User information Disclos | Medium — CVSS 4.3 | — | 44 | [deksterh11](https://hackerone.com/deksterh11) | 2022-03-22 |
 | 6 | [537047](../reports/537047.md) | [https://█████████/]&&[https://█████████/] Open Redirection | Medium — CVSS 4.3 | — | 18 | [mandark](https://hackerone.com/mandark) | 2022-03-22 |
 | 7 | [206894](../reports/206894.md) | SSRF at iris.lystit.com | Low | — | 21 | [tripwire](https://hackerone.com/tripwire) | 2017-10-18 |
-| 8 | [207329](../reports/207329.md) | Mixed Active content issue on https://www.lyst.com | Low | — | 12 | [mrnull1337](https://hackerone.com/mrnull1337) | 2017-02-22 |
-| 9 | [271176](../reports/271176.md) | Bypassing one-time checkout router page (revealing payment i | Low | — | 12 | [tolo7010](https://hackerone.com/tolo7010) | 2018-05-10 |
+| 8 | [271176](../reports/271176.md) | Bypassing one-time checkout router page (revealing payment i | Low | — | 12 | [tolo7010](https://hackerone.com/tolo7010) | 2018-05-10 |
+| 9 | [207329](../reports/207329.md) | Mixed Active content issue on https://www.lyst.com | Low | — | 12 | [mrnull1337](https://hackerone.com/mrnull1337) | 2017-02-22 |

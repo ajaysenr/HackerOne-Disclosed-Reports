@@ -27,8 +27,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 21 | [411068](../reports/411068.md) | License verification mechanism can be bypassed | Low | — | 11 | [unbaiat](https://hackerone.com/unbaiat) | 2018-09-28 |
 | 22 | [338477](../reports/338477.md) | [EE] change the author of post using the author_id | Low | — | 10 | [flex0geek](https://hackerone.com/flex0geek) | 2018-04-20 |
 | 23 | [342608](../reports/342608.md) | XML Member Proccessing - Local File inclusion Vulnerability  | Low | — | 8 | [0xsp](https://hackerone.com/0xsp) | 2018-05-21 |
-| 24 | [603196](../reports/603196.md) | Open Redirect in comment section | Low | — | 7 | [winst0n13](https://hackerone.com/winst0n13) | 2019-07-18 |
-| 25 | [339987](../reports/339987.md) | [EE] Spoof the redirect process | Low | — | 7 | [flex0geek](https://hackerone.com/flex0geek) | 2018-04-20 |
+| 24 | [339987](../reports/339987.md) | [EE] Spoof the redirect process | Low | — | 7 | [flex0geek](https://hackerone.com/flex0geek) | 2018-04-20 |
+| 25 | [603196](../reports/603196.md) | Open Redirect in comment section | Low | — | 7 | [winst0n13](https://hackerone.com/winst0n13) | 2019-07-18 |
 | 26 | [341992](../reports/341992.md) | Import File Converter - local File inclusion  | Low — CVSS 3.4 | — | 6 | [0xsp](https://hackerone.com/0xsp) | 2018-05-17 |
 | 27 | [202774](../reports/202774.md) | Type Juggling -> PHP Object Injection -> SQL Injection Chain | None | — | 40 | [jstnkndy](https://hackerone.com/jstnkndy) | 2017-02-07 |
 | 28 | [149268](../reports/149268.md) | Arbitrary file upload when setting an avatar | None | — | 6 | [strukt](https://hackerone.com/strukt) | 2018-04-04 |

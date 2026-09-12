@@ -18,8 +18,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 12 | [3506183](../reports/3506183.md) | Missing Access Control in MigrationFile allows attacker to u | High | — | 83 | [ahacker1](https://hackerone.com/ahacker1) | 2026-03-05 |
 | 13 | [2332623](../reports/2332623.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 80 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
 | 14 | [2336236](../reports/2336236.md) | Privilege Escalation to Root SSH Access via Pre-Receive Hook | High | — | 71 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
-| 15 | [2329466](../reports/2329466.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 61 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
-| 16 | [2332551](../reports/2332551.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 61 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
+| 15 | [2332551](../reports/2332551.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 61 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
+| 16 | [2329466](../reports/2329466.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 61 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
 | 17 | [2197796](../reports/2197796.md) | GHES Management console EoP (editor to site admin) | High | — | 56 | [imrerad](https://hackerone.com/imrerad) | 2024-01-08 |
 | 18 | [2323292](../reports/2323292.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 47 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
 | 19 | [2329547](../reports/2329547.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 47 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
@@ -45,8 +45,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 39 | [1762025](../reports/1762025.md) | Improper handling of null bytes in GitHub Actions Runner all | Medium | — | 19 | [ryotak](https://hackerone.com/ryotak) | 2023-03-09 |
 | 40 | [1593913](../reports/1593913.md) | [Git Gud] GitHub.com Svnbridge memcached deserialization vul | Medium | — | 14 | [ajxchapman](https://hackerone.com/ajxchapman) | 2022-11-16 |
 | 41 | [3641229](../reports/3641229.md) | GitHub user to server tokens can create issues in any public | Medium | — | 8 | [ahacker1](https://hackerone.com/ahacker1) | 2026-07-22 |
-| 42 | [3560256](../reports/3560256.md) | Cross-repository IDOR in `/settings/security_analysis/bypass | Medium | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-05-19 |
-| 43 | [3713965](../reports/3713965.md) | Able to bypass authorization logic and gain more access then | Medium | — | 7 | [vaib25vicky](https://hackerone.com/vaib25vicky) | 2026-07-15 |
+| 42 | [3713965](../reports/3713965.md) | Able to bypass authorization logic and gain more access then | Medium | — | 7 | [vaib25vicky](https://hackerone.com/vaib25vicky) | 2026-07-15 |
+| 43 | [3560256](../reports/3560256.md) | Cross-repository IDOR in `/settings/security_analysis/bypass | Medium | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-05-19 |
 | 44 | [3527788](../reports/3527788.md) | Add labels to arbitrary issues/prs via Memex Bulk Update to  | Medium | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-08-25 |
 | 45 | [2383092](../reports/2383092.md) | Source Code and data exfiltration via Github Copilot | Low | — | 63 | [astrounder](https://hackerone.com/astrounder) | 2024-08-19 |
 | 46 | [1831528](../reports/1831528.md) | Rogue collaborators and ambiguous branch names in GitHub | None | — | 42 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2023-12-05 |

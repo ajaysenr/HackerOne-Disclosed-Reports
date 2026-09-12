@@ -9,12 +9,12 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 3 | [2357778](../reports/2357778.md) | Unrestricted File Upload at ██████████ | Critical — CVSS 9.3 | — | 74 | [xplo1t](https://hackerone.com/xplo1t) | 2024-02-19 |
 | 4 | [2200329](../reports/2200329.md) | CVE-█████-35813 in █████ | Critical — CVSS 9.8 | — | 68 | [0xr2r](https://hackerone.com/0xr2r) | 2026-02-24 |
 | 5 | [3090123](../reports/3090123.md) | insecure deserilize object leads to RCE On Sitecore (CVE-███ | Critical | — | 57 | [the_reinhardt](https://hackerone.com/the_reinhardt) | 2025-05-12 |
-| 6 | [3293803](../reports/3293803.md) | SQLi At `███████` via `theme_name`  | Critical — CVSS 9.6 | — | 52 | [4ksh3ye](https://hackerone.com/4ksh3ye) | 2026-02-24 |
-| 7 | [2828641](../reports/2828641.md) | unauthorized access and add user and change personal informa | Critical — CVSS 9.6 | — | 52 | [bughunter0x7](https://hackerone.com/bughunter0x7) | 2025-05-27 |
-| 8 | [2828693](../reports/2828693.md) | change part of personal information all users | Critical — CVSS 9.4 | — | 51 | [bughunter0x7](https://hackerone.com/bughunter0x7) | 2025-05-12 |
-| 9 | [2262554](../reports/2262554.md) | Critical Unauthenticated Access to Sensitive Employee and Cu | Critical | — | 51 | [skoll101](https://hackerone.com/skoll101) | 2024-01-30 |
-| 10 | [2132183](../reports/2132183.md) | IDOR to account takeover on POST to █████████ by changing me | Critical — CVSS 9.4 | — | 45 | [xandsz](https://hackerone.com/xandsz) | 2024-01-30 |
-| 11 | [2307933](../reports/2307933.md) | Datadog api keys exposed can be used to do all the read and  | Critical — CVSS 9.6 | — | 45 | [harshdranjan](https://hackerone.com/harshdranjan) | 2024-01-25 |
+| 6 | [2828641](../reports/2828641.md) | unauthorized access and add user and change personal informa | Critical — CVSS 9.6 | — | 52 | [bughunter0x7](https://hackerone.com/bughunter0x7) | 2025-05-27 |
+| 7 | [3293803](../reports/3293803.md) | SQLi At `███████` via `theme_name`  | Critical — CVSS 9.6 | — | 52 | [4ksh3ye](https://hackerone.com/4ksh3ye) | 2026-02-24 |
+| 8 | [2262554](../reports/2262554.md) | Critical Unauthenticated Access to Sensitive Employee and Cu | Critical | — | 51 | [skoll101](https://hackerone.com/skoll101) | 2024-01-30 |
+| 9 | [2828693](../reports/2828693.md) | change part of personal information all users | Critical — CVSS 9.4 | — | 51 | [bughunter0x7](https://hackerone.com/bughunter0x7) | 2025-05-12 |
+| 10 | [2307933](../reports/2307933.md) | Datadog api keys exposed can be used to do all the read and  | Critical — CVSS 9.6 | — | 45 | [harshdranjan](https://hackerone.com/harshdranjan) | 2024-01-25 |
+| 11 | [2132183](../reports/2132183.md) | IDOR to account takeover on POST to █████████ by changing me | Critical — CVSS 9.4 | — | 45 | [xandsz](https://hackerone.com/xandsz) | 2024-01-30 |
 | 12 | [3277276](../reports/3277276.md) | SQLi at █████ parameter | Critical — CVSS 9.6 | — | 34 | [scriptsavvy](https://hackerone.com/scriptsavvy) | 2026-02-24 |
 | 13 | [2266081](../reports/2266081.md) | Blind SQL Injection on █████ via URI Path | Critical — CVSS 9.6 | — | 28 | [stuux](https://hackerone.com/stuux) | 2024-02-14 |
 | 14 | [1959540](../reports/1959540.md) | ' Full Account Takeover ' at █████ | Critical | — | 17 | [0xs4m](https://hackerone.com/0xs4m) | 2023-06-23 |
@@ -50,10 +50,10 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 44 | [2445106](../reports/2445106.md) | CSRF in Delete Pet Function | Medium — CVSS 4.4 | — | 31 | [mosalah1102](https://hackerone.com/mosalah1102) | 2024-11-19 |
 | 45 | [3066548](../reports/3066548.md) | ███████ - Publicly Accessible public_html Directory Exposing | Medium — CVSS 5.7 | — | 28 | [xgoon](https://hackerone.com/xgoon) | 2026-02-24 |
 | 46 | [2828720](../reports/2828720.md) | Customer Data Exposure via Insecure Endpoint of coupon | Medium — CVSS 5.7 | — | 27 | [bughunter0x7](https://hackerone.com/bughunter0x7) | 2025-05-27 |
-| 47 | [3174778](../reports/3174778.md) |  No Rate Limiting on Password Attempts After Insecure Regist | Medium | — | 26 | [azar_man](https://hackerone.com/azar_man) | 2026-02-24 |
-| 48 | [2144870](../reports/2144870.md) | **"CSRF Vulnerability in ███████ Website Allows Attackers to | Medium — CVSS 5.0 | — | 26 | [bx00](https://hackerone.com/bx00) | 2023-11-15 |
-| 49 | [2396630](../reports/2396630.md) | sensitive  data-creds for database - private key | Medium — CVSS 4.6 | — | 26 | [mosalah1102](https://hackerone.com/mosalah1102) | 2024-11-19 |
-| 50 | [1965640](../reports/1965640.md) | ████ ' can add animal to other account ' at ██████ | Medium | — | 26 | [0xs4m](https://hackerone.com/0xs4m) | 2023-06-22 |
+| 47 | [2144870](../reports/2144870.md) | **"CSRF Vulnerability in ███████ Website Allows Attackers to | Medium — CVSS 5.0 | — | 26 | [bx00](https://hackerone.com/bx00) | 2023-11-15 |
+| 48 | [1965640](../reports/1965640.md) | ████ ' can add animal to other account ' at ██████ | Medium | — | 26 | [0xs4m](https://hackerone.com/0xs4m) | 2023-06-22 |
+| 49 | [3174778](../reports/3174778.md) |  No Rate Limiting on Password Attempts After Insecure Regist | Medium | — | 26 | [azar_man](https://hackerone.com/azar_man) | 2026-02-24 |
+| 50 | [2396630](../reports/2396630.md) | sensitive  data-creds for database - private key | Medium — CVSS 4.6 | — | 26 | [mosalah1102](https://hackerone.com/mosalah1102) | 2024-11-19 |
 | 51 | [2029753](../reports/2029753.md) | CSRF to delete a pet | Medium — CVSS 5.0 | — | 25 | [d0rift](https://hackerone.com/d0rift) | 2023-08-30 |
 | 52 | [2089895](../reports/2089895.md) | Reflected XSS on formaction parameter | Medium | — | 25 | [e5p3ctr0x96](https://hackerone.com/e5p3ctr0x96) | 2024-11-19 |
 | 53 | [1943252](../reports/1943252.md) | Response Manipulation lead to bypass verification code while | Medium — CVSS 6.1 | — | 23 | [mo3giza](https://hackerone.com/mo3giza) | 2023-08-30 |
@@ -67,8 +67,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 61 | [2354888](../reports/2354888.md) | unsubscribe anyone from all ████████ emails @ █████ | Low | — | 44 | [abfe](https://hackerone.com/abfe) | 2024-11-25 |
 | 62 | [3063026](../reports/3063026.md) | debug.log leaked [█████████] | Low | — | 39 | [imeng](https://hackerone.com/imeng) | 2025-05-12 |
 | 63 | [2166843](../reports/2166843.md) | RXSS on ████ via q parameter | Low — CVSS 3.8 | — | 38 | [mosalah1102](https://hackerone.com/mosalah1102) | 2024-11-21 |
-| 64 | [2190062](../reports/2190062.md) | No CSRF protection when adding an item to cart | Low — CVSS 3.8 | — | 29 | [themarkib0x0](https://hackerone.com/themarkib0x0) | 2024-01-30 |
-| 65 | [2313478](../reports/2313478.md) | CSRF resulting in adding pet at ███████ | Low — CVSS 3.8 | — | 29 | [dr34m14](https://hackerone.com/dr34m14) | 2024-06-25 |
+| 64 | [2313478](../reports/2313478.md) | CSRF resulting in adding pet at ███████ | Low — CVSS 3.8 | — | 29 | [dr34m14](https://hackerone.com/dr34m14) | 2024-06-25 |
+| 65 | [2190062](../reports/2190062.md) | No CSRF protection when adding an item to cart | Low — CVSS 3.8 | — | 29 | [themarkib0x0](https://hackerone.com/themarkib0x0) | 2024-01-30 |
 | 66 | [2243003](../reports/2243003.md) | Information Exposure due to enabled debug mode | Low | — | 21 | [thpless](https://hackerone.com/thpless) | 2024-11-25 |
 | 67 | [1943013](../reports/1943013.md) | CRLF Inection at `██████████` | Low | — | 14 | [mo3giza](https://hackerone.com/mo3giza) | 2023-06-23 |
 | 68 | [2055081](../reports/2055081.md) | Google dork lead to unsubscribe anyone from all Banfield ema | Low | — | 12 | [ractiurd](https://hackerone.com/ractiurd) | 2023-08-30 |

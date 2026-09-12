@@ -24,8 +24,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 18 | [316475](../reports/316475.md) | Reflected xss в m.vk.com/chatjoin | High | $500 | 36 | [executor](https://hackerone.com/executor) | 2021-11-05 |
 | 19 | [370629](../reports/370629.md) | Доступ к администраторским faq  | High | $500 | 27 | [executor](https://hackerone.com/executor) | 2018-09-02 |
 | 20 | [584582](../reports/584582.md) | Просмотр закрытых фотографий | High | $500 | 24 | [executor](https://hackerone.com/executor) | 2021-12-15 |
-| 21 | [311913](../reports/311913.md) | Reflected XSS в m.vk.com | High | $500 | 21 | [executor](https://hackerone.com/executor) | 2021-11-05 |
-| 22 | [321594](../reports/321594.md) | Смотрим фотографии из частных/закрытых групп. | High | $500 | 21 | [executor](https://hackerone.com/executor) | 2018-04-26 |
+| 21 | [321594](../reports/321594.md) | Смотрим фотографии из частных/закрытых групп. | High | $500 | 21 | [executor](https://hackerone.com/executor) | 2018-04-26 |
+| 22 | [311913](../reports/311913.md) | Reflected XSS в m.vk.com | High | $500 | 21 | [executor](https://hackerone.com/executor) | 2021-11-05 |
 | 23 | [283539](../reports/283539.md) | Stored xss в /lead_forms_app.php | High | $500 | 19 | [executor](https://hackerone.com/executor) | 2017-11-28 |
 | 24 | [266072](../reports/266072.md) | Хранимая XSS в группе VK | High | $500 | 17 | [sql](https://hackerone.com/sql) | 2017-10-28 |
 | 25 | [596363](../reports/596363.md) | Бесконечный доступ к аккаунту если мы смогли хотя бы раз зай | High | $500 | 14 | [cheatboss](https://hackerone.com/cheatboss) | 2019-07-11 |
@@ -103,9 +103,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 97 | [246085](../reports/246085.md) | Просмотр аватара и название частной группы | Low | $100 | 10 | [pisarenko](https://hackerone.com/pisarenko) | 2018-02-24 |
 | 98 | [1029466](../reports/1029466.md) | Нет флуд-контроля на функции "Запрос денег" в VK Pay. Флуд у | Low | $100 | 9 | [zelenskyy](https://hackerone.com/zelenskyy) | 2021-01-08 |
 | 99 | [341637](../reports/341637.md) | Часть  админки доступна для всех пользователей | Low | $100 | 9 | [trainzment](https://hackerone.com/trainzment) | 2018-05-22 |
-| 100 | [1343280](../reports/1343280.md) | Получаем название и аватарку (50x50) частной группы. | Low | $100 | 7 | [azimoff](https://hackerone.com/azimoff) | 2021-12-01 |
-| 101 | [300622](../reports/300622.md) | Монипулирование на страницах пользоватлей значением "Подсказ | Low | $100 | 7 | [pisarenko](https://hackerone.com/pisarenko) | 2018-02-09 |
-| 102 | [242408](../reports/242408.md) | Нет маркера на добавление песни в плейлист пользователя | Low | $100 | 7 | [pisarenko](https://hackerone.com/pisarenko) | 2017-07-23 |
+| 100 | [242408](../reports/242408.md) | Нет маркера на добавление песни в плейлист пользователя | Low | $100 | 7 | [pisarenko](https://hackerone.com/pisarenko) | 2017-07-23 |
+| 101 | [1343280](../reports/1343280.md) | Получаем название и аватарку (50x50) частной группы. | Low | $100 | 7 | [azimoff](https://hackerone.com/azimoff) | 2021-12-01 |
+| 102 | [300622](../reports/300622.md) | Монипулирование на страницах пользоватлей значением "Подсказ | Low | $100 | 7 | [pisarenko](https://hackerone.com/pisarenko) | 2018-02-09 |
 | 103 | [270119](../reports/270119.md) | Узнаем название и аватарку частной группы, по ID приложения. | Low | $100 | 6 | [sql](https://hackerone.com/sql) | 2017-12-31 |
 | 104 | [522214](../reports/522214.md) | Обход фильтра на ссылки в загрузке историй.. | Low | $100 | 6 | [executor](https://hackerone.com/executor) | 2021-11-05 |
 | 105 | [504162](../reports/504162.md) | Делаем плейлист от любого(почти) пользователя/группы/артиста | Low | $100 | 3 | [executor](https://hackerone.com/executor) | 2021-11-05 |
@@ -113,10 +113,10 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 107 | [1091296](../reports/1091296.md) | CSRF в виджетах  | None | $100 | 15 | [circuit](https://hackerone.com/circuit) | 2021-11-05 |
 | 108 | [252324](../reports/252324.md) | CSRF Добавить просмотр к записи без ведома пользователя. | None | $100 | 11 | [circuit](https://hackerone.com/circuit) | 2017-10-25 |
 | 109 | [307382](../reports/307382.md) | CSRF отредактировать карточки в посте у группы | None | $100 | 9 | [circuit](https://hackerone.com/circuit) | 2018-03-04 |
-| 110 | [223172](../reports/223172.md) | Просмотр привязного к странице email, всего лишь раз скомпро | None | $100 | 5 | [povargek](https://hackerone.com/povargek) | 2018-02-20 |
-| 111 | [106806](../reports/106806.md) | Добавление в меню сообщества без ведома пользователя (нажати | None | $100 | 5 | [pisarenko](https://hackerone.com/pisarenko) | 2017-02-13 |
-| 112 | [111417](../reports/111417.md) | Checking whether user liked the media or not even when you a | None | $100 | 4 | [vraj](https://hackerone.com/vraj) | 2016-05-25 |
-| 113 | [64731](../reports/64731.md) | Able to intercept app Traffic after choosing up the Secured  | None | $100 | 4 | [bugwrangler](https://hackerone.com/bugwrangler) | 2017-03-03 |
+| 110 | [106806](../reports/106806.md) | Добавление в меню сообщества без ведома пользователя (нажати | None | $100 | 5 | [pisarenko](https://hackerone.com/pisarenko) | 2017-02-13 |
+| 111 | [223172](../reports/223172.md) | Просмотр привязного к странице email, всего лишь раз скомпро | None | $100 | 5 | [povargek](https://hackerone.com/povargek) | 2018-02-20 |
+| 112 | [64731](../reports/64731.md) | Able to intercept app Traffic after choosing up the Secured  | None | $100 | 4 | [bugwrangler](https://hackerone.com/bugwrangler) | 2017-03-03 |
+| 113 | [111417](../reports/111417.md) | Checking whether user liked the media or not even when you a | None | $100 | 4 | [vraj](https://hackerone.com/vraj) | 2016-05-25 |
 | 114 | [148467](../reports/148467.md) | Паблики: Модератор паблика может удалять добавленные редакто | None | $100 | 2 | [povargek](https://hackerone.com/povargek) | 2016-12-04 |
 | 115 | [65330](../reports/65330.md) | Не достаточная проверка логина скайп | None | $100 | 1 | [abr1k0s](https://hackerone.com/abr1k0s) | 2015-10-30 |
 | 116 | [219171](../reports/219171.md) | Возможность взлома любого пользователя, не использующего дву | Critical | — | 31 | [norver](https://hackerone.com/norver) | 2017-05-20 |
@@ -130,14 +130,14 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 124 | [269940](../reports/269940.md) | XSS в приглашении в группу | High | — | 14 | [rooteval](https://hackerone.com/rooteval) | 2017-10-25 |
 | 125 | [308355](../reports/308355.md) | Opcode Cache | High | — | 11 | [linkks](https://hackerone.com/linkks) | 2018-02-22 |
 | 126 | [262010](../reports/262010.md) | XSS в названии сервера | High | — | 10 | [pisarenko](https://hackerone.com/pisarenko) | 2017-09-20 |
-| 127 | [273960](../reports/273960.md) | Хранимая XSS на странице "Виджет для авторизации" | High | — | 6 | [abr1k0s](https://hackerone.com/abr1k0s) | 2017-12-31 |
-| 128 | [264445](../reports/264445.md) | XSS в комментариях от имени сообщества  | High | — | 6 | [flyink](https://hackerone.com/flyink) | 2017-09-20 |
+| 127 | [264445](../reports/264445.md) | XSS в комментариях от имени сообщества  | High | — | 6 | [flyink](https://hackerone.com/flyink) | 2017-09-20 |
+| 128 | [273960](../reports/273960.md) | Хранимая XSS на странице "Виджет для авторизации" | High | — | 6 | [abr1k0s](https://hackerone.com/abr1k0s) | 2017-12-31 |
 | 129 | [181823](../reports/181823.md) | Stored XSS в личных сообщениях | Medium | — | 67 | [n1__](https://hackerone.com/n1__) | 2017-01-10 |
 | 130 | [374817](../reports/374817.md) | Clickjacking vkpay | Medium — CVSS 4.3 | — | 44 | [0x3c3e](https://hackerone.com/0x3c3e) | 2019-12-30 |
 | 131 | [987132](../reports/987132.md) | Отправка произвольных запросов к API с правами любого устано | Medium | — | 12 | [libneko](https://hackerone.com/libneko) | 2020-11-07 |
 | 132 | [294334](../reports/294334.md) | clickjacking в /lead_forms_app.php | Medium | — | 11 | [executor](https://hackerone.com/executor) | 2018-04-02 |
-| 133 | [292997](../reports/292997.md) | XSS работающая по всему сайту, где есть упоминания | Medium | — | 7 | [flyink](https://hackerone.com/flyink) | 2017-12-31 |
-| 134 | [219657](../reports/219657.md) | api.vk.com отдаёт в ответ HTML авторизированную страницу vk. | Medium — CVSS 6.3 | — | 7 | [zhumarin](https://hackerone.com/zhumarin) | 2017-08-30 |
+| 133 | [219657](../reports/219657.md) | api.vk.com отдаёт в ответ HTML авторизированную страницу vk. | Medium — CVSS 6.3 | — | 7 | [zhumarin](https://hackerone.com/zhumarin) | 2017-08-30 |
+| 134 | [292997](../reports/292997.md) | XSS работающая по всему сайту, где есть упоминания | Medium | — | 7 | [flyink](https://hackerone.com/flyink) | 2017-12-31 |
 | 135 | [219715](../reports/219715.md) | Раскрытие имени файла приватных документов | Medium | — | 5 | [zhumarin](https://hackerone.com/zhumarin) | 2017-09-20 |
 | 136 | [726063](../reports/726063.md) | Мини-уязвимость в обработке ссылок | Low | — | 41 | [qwe](https://hackerone.com/qwe) | 2019-12-10 |
 | 137 | [377582](../reports/377582.md) | Получение БД кэша из Android-приложения через стороннее прил | Low — CVSS 3.0 | — | 32 | [ilyamodder](https://hackerone.com/ilyamodder) | 2019-06-11 |
@@ -150,29 +150,29 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 144 | [1095633](../reports/1095633.md) | [VK Android] Access to app protected components leads to arb | None | — | 43 | [bagipro](https://hackerone.com/bagipro) | 2021-05-27 |
 | 145 | [366153](../reports/366153.md) | Уязвимость в методе auth.restore | None | — | 27 | [darkprism](https://hackerone.com/darkprism) | 2020-12-09 |
 | 146 | [1129816](../reports/1129816.md) | Member still able close another user poll on communities top | None | — | 20 | [ferdihermawan1337](https://hackerone.com/ferdihermawan1337) | 2021-04-27 |
-| 147 | [67562](../reports/67562.md) | Issue in the implementation of captcha and race condition | None | — | 14 | [infosechelper](https://hackerone.com/infosechelper) | 2016-09-29 |
-| 148 | [369063](../reports/369063.md) | Просмотр записей пользователя, который тебя заблокировал | None | — | 14 | [darkprism](https://hackerone.com/darkprism) | 2018-08-02 |
+| 147 | [369063](../reports/369063.md) | Просмотр записей пользователя, который тебя заблокировал | None | — | 14 | [darkprism](https://hackerone.com/darkprism) | 2018-08-02 |
+| 148 | [67562](../reports/67562.md) | Issue in the implementation of captcha and race condition | None | — | 14 | [infosechelper](https://hackerone.com/infosechelper) | 2016-09-29 |
 | 149 | [344223](../reports/344223.md) | [Привязка email к странице] by admin@notify.vk.com | email-f | None | — | 13 | [waalw](https://hackerone.com/waalw) | 2018-06-16 |
 | 150 | [64529](../reports/64529.md) | Page replacement and redirect loop | None | — | 13 | [tohasec](https://hackerone.com/tohasec) | 2019-02-24 |
 | 151 | [64754](../reports/64754.md) | Просмотр лайков и репостов фотографии, которая находятся в п | None | — | 13 | [tohasec](https://hackerone.com/tohasec) | 2019-04-26 |
-| 152 | [180527](../reports/180527.md) | SSRF (open) - via GET request | None | — | 11 | [firex](https://hackerone.com/firex) | 2017-02-09 |
-| 153 | [114476](../reports/114476.md) | Внедрение внешних сущностей в функционале импорта пользовате | None | — | 11 | [bo0om](https://hackerone.com/bo0om) | 2016-03-18 |
+| 152 | [114476](../reports/114476.md) | Внедрение внешних сущностей в функционале импорта пользовате | None | — | 11 | [bo0om](https://hackerone.com/bo0om) | 2016-03-18 |
+| 153 | [180527](../reports/180527.md) | SSRF (open) - via GET request | None | — | 11 | [firex](https://hackerone.com/firex) | 2017-02-09 |
 | 154 | [309594](../reports/309594.md) | error | None | — | 10 | [linkks](https://hackerone.com/linkks) | 2018-02-24 |
-| 155 | [208654](../reports/208654.md) | Обход: "Аудиозапись недоступна для прослушивания в Вашем рег | None | — | 8 | [shady-r](https://hackerone.com/shady-r) | 2017-04-22 |
-| 156 | [92271](../reports/92271.md) | Недочет в поиске по хештегам | None | — | 8 | [pisarenko](https://hackerone.com/pisarenko) | 2018-03-04 |
-| 157 | [293581](../reports/293581.md) | self-xss ads_easy_promote vk.com | None | — | 8 | [circuit](https://hackerone.com/circuit) | 2017-12-31 |
-| 158 | [183352](../reports/183352.md) | Возможность провести DoS атаку от имени vk.com сервера | None | — | 8 | [denispugachev](https://hackerone.com/denispugachev) | 2017-03-06 |
-| 159 | [80298](../reports/80298.md) | Внедрение произвольного javascript-сценария в функционале пр | None | — | 7 | [bo0om](https://hackerone.com/bo0om) | 2015-10-30 |
-| 160 | [196937](../reports/196937.md) | Возможность смотреть видео рекомендации любого пользователя  | None | — | 7 | [ryaz23](https://hackerone.com/ryaz23) | 2017-03-29 |
+| 155 | [92271](../reports/92271.md) | Недочет в поиске по хештегам | None | — | 8 | [pisarenko](https://hackerone.com/pisarenko) | 2018-03-04 |
+| 156 | [183352](../reports/183352.md) | Возможность провести DoS атаку от имени vk.com сервера | None | — | 8 | [denispugachev](https://hackerone.com/denispugachev) | 2017-03-06 |
+| 157 | [208654](../reports/208654.md) | Обход: "Аудиозапись недоступна для прослушивания в Вашем рег | None | — | 8 | [shady-r](https://hackerone.com/shady-r) | 2017-04-22 |
+| 158 | [293581](../reports/293581.md) | self-xss ads_easy_promote vk.com | None | — | 8 | [circuit](https://hackerone.com/circuit) | 2017-12-31 |
+| 159 | [196937](../reports/196937.md) | Возможность смотреть видео рекомендации любого пользователя  | None | — | 7 | [ryaz23](https://hackerone.com/ryaz23) | 2017-03-29 |
+| 160 | [80298](../reports/80298.md) | Внедрение произвольного javascript-сценария в функционале пр | None | — | 7 | [bo0om](https://hackerone.com/bo0om) | 2015-10-30 |
 | 161 | [107664](../reports/107664.md) | Изменение текстов вариантов ответа в опросах | None | — | 6 | [umfc](https://hackerone.com/umfc) | 2018-01-30 |
 | 162 | [288540](../reports/288540.md) | CSRF создание опроса от имени пользователя, зная id приложен | None | — | 6 | [circuit](https://hackerone.com/circuit) | 2018-02-09 |
-| 163 | [146939](../reports/146939.md) | DOM XSS в /activation.php?act=activate_mobile | None | — | 5 | [abr1k0s](https://hackerone.com/abr1k0s) | 2016-09-22 |
-| 164 | [193419](../reports/193419.md) | Способ узнать имя человека удаленной страницы | None | — | 5 | [pisarenko](https://hackerone.com/pisarenko) | 2017-02-09 |
-| 165 | [193759](../reports/193759.md) | Способ узнать имя человека удаленной страницы 2 | None | — | 5 | [pisarenko](https://hackerone.com/pisarenko) | 2017-02-09 |
-| 166 | [117902](../reports/117902.md) | Дорк | None | — | 5 | [linkks](https://hackerone.com/linkks) | 2016-11-18 |
-| 167 | [116764](../reports/116764.md) | vk.com/login.php  | None | — | 4 | [388](https://hackerone.com/388) | 2016-12-29 |
-| 168 | [665688](../reports/665688.md) | Дайте swag | None | — | 4 | [linkks](https://hackerone.com/linkks) | 2019-09-18 |
-| 169 | [93020](../reports/93020.md) | Способ узнать имя человека и ВУЗ удаленной страницы | None | — | 3 | [grande](https://hackerone.com/grande) | 2016-10-17 |
-| 170 | [64963](../reports/64963.md) | API: Bug in method auth.validatePhone | None | — | 3 | [vladislav805](https://hackerone.com/vladislav805) | 2015-07-17 |
+| 163 | [117902](../reports/117902.md) | Дорк | None | — | 5 | [linkks](https://hackerone.com/linkks) | 2016-11-18 |
+| 164 | [193759](../reports/193759.md) | Способ узнать имя человека удаленной страницы 2 | None | — | 5 | [pisarenko](https://hackerone.com/pisarenko) | 2017-02-09 |
+| 165 | [146939](../reports/146939.md) | DOM XSS в /activation.php?act=activate_mobile | None | — | 5 | [abr1k0s](https://hackerone.com/abr1k0s) | 2016-09-22 |
+| 166 | [193419](../reports/193419.md) | Способ узнать имя человека удаленной страницы | None | — | 5 | [pisarenko](https://hackerone.com/pisarenko) | 2017-02-09 |
+| 167 | [665688](../reports/665688.md) | Дайте swag | None | — | 4 | [linkks](https://hackerone.com/linkks) | 2019-09-18 |
+| 168 | [116764](../reports/116764.md) | vk.com/login.php  | None | — | 4 | [388](https://hackerone.com/388) | 2016-12-29 |
+| 169 | [64963](../reports/64963.md) | API: Bug in method auth.validatePhone | None | — | 3 | [vladislav805](https://hackerone.com/vladislav805) | 2015-07-17 |
+| 170 | [93020](../reports/93020.md) | Способ узнать имя человека и ВУЗ удаленной страницы | None | — | 3 | [grande](https://hackerone.com/grande) | 2016-10-17 |
 | 171 | [531146](../reports/531146.md) | Information Disclosure (phpinfo()) | None | — | 3 | [linkks](https://hackerone.com/linkks) | 2019-09-18 |
 | 172 | [65324](../reports/65324.md) | XSS on added name album on videos. | None | — | 2 | [ruisilva](https://hackerone.com/ruisilva) | 2015-06-26 |

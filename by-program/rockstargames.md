@@ -40,8 +40,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 34 | [1235008](../reports/1235008.md) | Social Club Account Takeover Via RGL And Steam/Epic Linked A | High — CVSS 7.2 | — | 54 | [hacktus](https://hackerone.com/hacktus) | 2021-11-17 |
 | 35 | [475442](../reports/475442.md) | DOM Based xss on https://www.rockstargames.com/ ( 1 ) | High | — | 34 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-12 |
 | 36 | [253128](../reports/253128.md) | CSRF Vulnerability allows attackers to steal SocialClub priv | High | — | 28 | [netfuzzer](https://hackerone.com/netfuzzer) | 2017-08-03 |
-| 37 | [479612](../reports/479612.md) | DOM BASED XSS ON https://www.rockstargames.com/GTAOnline/fea | High | — | 13 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-12 |
-| 38 | [663312](../reports/663312.md) | Warehouse dom based xss may lead to Social Club Account Take | High — CVSS 7.6 | — | 13 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-11 |
+| 37 | [663312](../reports/663312.md) | Warehouse dom based xss may lead to Social Club Account Take | High — CVSS 7.6 | — | 13 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-11 |
+| 38 | [479612](../reports/479612.md) | DOM BASED XSS ON https://www.rockstargames.com/GTAOnline/fea | High | — | 13 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-12 |
 | 39 | [1534465](../reports/1534465.md) | Ticket Trick Attack allows access to Rockstar Games' workspa | High — CVSS 7.5 | — | 13 | [recon_ninja](https://hackerone.com/recon_ninja) | 2026-09-01 |
 | 40 | [653254](../reports/653254.md) | CSRF Vulnerabiliy on Facebook Linkage Page Allows Full Accou | High | — | 5 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
 | 41 | [488269](../reports/488269.md) | Stealing Facebook OAuth Code Through Screenshot viewer | Medium — CVSS 5.8 | — | 200 | [netfuzzer](https://hackerone.com/netfuzzer) | 2019-03-05 |
@@ -59,45 +59,45 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 53 | [2184872](../reports/2184872.md) | Exposed CDN access token allows modification of all newly up | Medium — CVSS 5.3 | — | 41 | [bugstar](https://hackerone.com/bugstar) | 2024-01-26 |
 | 54 | [152013](../reports/152013.md) | CSRF in 'set.php' via age causes stored XSS on 'get.php' - h | Medium | — | 39 | [nahamsec](https://hackerone.com/nahamsec) | 2017-03-10 |
 | 55 | [655288](../reports/655288.md) | Image Injection vulnerability on screenshot-viewer/responsiv | Medium | — | 36 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
-| 56 | [790465](../reports/790465.md) | Image Injection/XSS vulnerability affecting https://www.rock | Medium | — | 28 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
-| 57 | [242905](../reports/242905.md) | XSS in http://www.rockstargames.com/theballadofgaytony/js/jq | Medium | — | 28 | [netfuzzer](https://hackerone.com/netfuzzer) | 2017-07-17 |
-| 58 | [151276](../reports/151276.md) | Reflected XSS in /Videos/ via calling a callback http://www. | Medium | — | 27 | [nahamsec](https://hackerone.com/nahamsec) | 2017-09-25 |
-| 59 | [172843](../reports/172843.md) | DOM based reflected XSS in rockstargames.com/newswire/tags t | Medium | — | 27 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2017-03-17 |
+| 56 | [242905](../reports/242905.md) | XSS in http://www.rockstargames.com/theballadofgaytony/js/jq | Medium | — | 28 | [netfuzzer](https://hackerone.com/netfuzzer) | 2017-07-17 |
+| 57 | [790465](../reports/790465.md) | Image Injection/XSS vulnerability affecting https://www.rock | Medium | — | 28 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
+| 58 | [172843](../reports/172843.md) | DOM based reflected XSS in rockstargames.com/newswire/tags t | Medium | — | 27 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2017-03-17 |
+| 59 | [151276](../reports/151276.md) | Reflected XSS in /Videos/ via calling a callback http://www. | Medium | — | 27 | [nahamsec](https://hackerone.com/nahamsec) | 2017-09-25 |
 | 60 | [153618](../reports/153618.md) | Reflected XSS via #tags= while using a callback in newswire  | Medium | — | 26 | [nahamsec](https://hackerone.com/nahamsec) | 2017-03-16 |
 | 61 | [474021](../reports/474021.md) | Race condition vulnerability on "This Rocks" button. | Medium | — | 21 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-12 |
-| 62 | [263191](../reports/263191.md) | Stored XSS with CRLF injection via post message to user feed | Medium | — | 19 | [fa1rlight](https://hackerone.com/fa1rlight) | 2017-09-18 |
-| 63 | [214370](../reports/214370.md) | Comments Denial of Service in socialclub.rockstargames.com | Medium | — | 19 | [ramsexy](https://hackerone.com/ramsexy) | 2017-09-11 |
+| 62 | [214370](../reports/214370.md) | Comments Denial of Service in socialclub.rockstargames.com | Medium | — | 19 | [ramsexy](https://hackerone.com/ramsexy) | 2017-09-11 |
+| 63 | [263191](../reports/263191.md) | Stored XSS with CRLF injection via post message to user feed | Medium | — | 19 | [fa1rlight](https://hackerone.com/fa1rlight) | 2017-09-18 |
 | 64 | [272997](../reports/272997.md) | Stored XSS via Send crew invite | Medium | — | 18 | [fa1rlight](https://hackerone.com/fa1rlight) | 2017-12-28 |
-| 65 | [316948](../reports/316948.md) | SocialClub's Facebook OAuth Theft through Warehouse XSS. | Medium — CVSS 5.9 | — | 17 | [netfuzzer](https://hackerone.com/netfuzzer) | 2018-04-23 |
+| 65 | [505157](../reports/505157.md) | Dom based xss on https://www.rockstargames.com/ via `returnU | Medium — CVSS 5.4 | — | 17 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-12 |
 | 66 | [149673](../reports/149673.md) | Reflected XSS in reddeadredemption Site  located at www.rock | Medium | — | 17 | [nahamsec](https://hackerone.com/nahamsec) | 2017-09-25 |
-| 67 | [505157](../reports/505157.md) | Dom based xss on https://www.rockstargames.com/ via `returnU | Medium — CVSS 5.4 | — | 17 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-12 |
+| 67 | [316948](../reports/316948.md) | SocialClub's Facebook OAuth Theft through Warehouse XSS. | Medium — CVSS 5.9 | — | 17 | [netfuzzer](https://hackerone.com/netfuzzer) | 2018-04-23 |
 | 68 | [488108](../reports/488108.md) | Dom based xss on /reddeadredemption2/br/videos | Medium — CVSS 6.1 | — | 16 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
-| 69 | [271960](../reports/271960.md) | Client-side Template Injection in Search, user email/token l | Medium | — | 15 | [europa](https://hackerone.com/europa) | 2018-05-01 |
-| 70 | [781718](../reports/781718.md) | Open redirect affecting  m.rockstargames.com/ | Medium — CVSS 5.0 | — | 15 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-12 |
+| 69 | [781718](../reports/781718.md) | Open redirect affecting  m.rockstargames.com/ | Medium — CVSS 5.0 | — | 15 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-12 |
+| 70 | [271960](../reports/271960.md) | Client-side Template Injection in Search, user email/token l | Medium | — | 15 | [europa](https://hackerone.com/europa) | 2018-05-01 |
 | 71 | [497655](../reports/497655.md) | Image Injection on www.rockstargames.com/screenshot-viewer/r | Medium — CVSS 6.8 | — | 14 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-12 |
 | 72 | [784101](../reports/784101.md) | Image Injection vulnerability in www.rockstargames.com/IV/sc | Medium — CVSS 5.0 | — | 14 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
 | 73 | [261571](../reports/261571.md) | dom based xss in http://www.rockstargames.com/GTAOnline/ (Fi | Medium | — | 12 | [netfuzzer](https://hackerone.com/netfuzzer) | 2017-08-24 |
 | 74 | [485382](../reports/485382.md) | Flash injection vulnerability on /IV/imgPlayer/imageEmbed.sw | Medium | — | 11 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
-| 75 | [809691](../reports/809691.md) | Referer Leakge in language changer may lead to FB token thef | Medium | — | 10 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
-| 76 | [274264](../reports/274264.md) | Your support community suffers from angularjs injection and  | Medium — CVSS 6.5 | — | 10 | [tolo7010](https://hackerone.com/tolo7010) | 2018-04-10 |
-| 77 | [1029594](../reports/1029594.md) | RDR2 game service method allows adding any player to a new P | Medium — CVSS 4.8 | — | 10 | [bugstar](https://hackerone.com/bugstar) | 2021-02-23 |
-| 78 | [659784](../reports/659784.md) | Image Injection on `/bully/anniversaryedition` may lead to F | Medium | — | 9 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
-| 79 | [254343](../reports/254343.md) | dom based xss in https://www.rockstargames.com/GTAOnline/ | Medium | — | 9 | [netfuzzer](https://hackerone.com/netfuzzer) | 2017-08-21 |
+| 75 | [1029594](../reports/1029594.md) | RDR2 game service method allows adding any player to a new P | Medium — CVSS 4.8 | — | 10 | [bugstar](https://hackerone.com/bugstar) | 2021-02-23 |
+| 76 | [809691](../reports/809691.md) | Referer Leakge in language changer may lead to FB token thef | Medium | — | 10 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
+| 77 | [274264](../reports/274264.md) | Your support community suffers from angularjs injection and  | Medium — CVSS 6.5 | — | 10 | [tolo7010](https://hackerone.com/tolo7010) | 2018-04-10 |
+| 78 | [254343](../reports/254343.md) | dom based xss in https://www.rockstargames.com/GTAOnline/ | Medium | — | 9 | [netfuzzer](https://hackerone.com/netfuzzer) | 2017-08-21 |
+| 79 | [659784](../reports/659784.md) | Image Injection on `/bully/anniversaryedition` may lead to F | Medium | — | 9 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
 | 80 | [241231](../reports/241231.md) | flash injection in http://www.rockstargames.com/IV/imgPlayer | Medium | — | 8 | [netfuzzer](https://hackerone.com/netfuzzer) | 2017-08-25 |
 | 81 | [498358](../reports/498358.md) | Image Injection on /bully/anniversaryedition may lead to OAu | Medium — CVSS 5.8 | — | 8 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
 | 82 | [491654](../reports/491654.md) | Image Injection vulnerability affecting www.rockstargames.co | Medium | — | 7 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
-| 83 | [508475](../reports/508475.md) | DOM based XSS on /GTAOnline/de/news/article via "returnUrl"  | Medium — CVSS 5.4 | — | 6 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
+| 83 | [505259](../reports/505259.md) | Image injection on /screenshot-viewer/responsive/image ( FIX | Medium | — | 6 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
 | 84 | [506126](../reports/506126.md) | image injection /screenshot-viewer/responsive/image (ANOTHER | Medium | — | 6 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
-| 85 | [505259](../reports/505259.md) | Image injection on /screenshot-viewer/responsive/image ( FIX | Medium | — | 6 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
+| 85 | [508475](../reports/508475.md) | DOM based XSS on /GTAOnline/de/news/article via "returnUrl"  | Medium — CVSS 5.4 | — | 6 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
 | 86 | [510388](../reports/510388.md) | Image injection /br/games/info may lead to phishing attacks  | Medium | — | 5 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
 | 87 | [799739](../reports/799739.md) | Dom based XSS on www.rockstargames.com/GTAOnline/features/fr | Medium — CVSS 5.2 | — | 5 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
 | 88 | [661646](../reports/661646.md) | Image Injection Vulnerability on /bully/screens | Medium | — | 3 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |
 | 89 | [1269332](../reports/1269332.md) | Open Redirection effects autodiscover.rockstargames.com | Low | — | 49 | [osama-hamad](https://hackerone.com/osama-hamad) | 2025-02-03 |
 | 90 | [210238](../reports/210238.md) | full path disclosure on www.rockstargames.com via apache fil | Low | — | 48 | [geeknik](https://hackerone.com/geeknik) | 2019-10-04 |
 | 91 | [487378](../reports/487378.md) | CSRF Vulnerability on post creation page /community/create-p | Low — CVSS 3.1 | — | 29 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-07-07 |
-| 92 | [210875](../reports/210875.md) | use of unsafe host header leads to open redirect | Low | — | 23 | [exception](https://hackerone.com/exception) | 2017-05-01 |
-| 93 | [798121](../reports/798121.md) | Open redirect in https://www.rockstargames.com/GTAOnline/res | Low — CVSS 3.8 | — | 23 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-11 |
-| 94 | [1101771](../reports/1101771.md) | Open redirect on https://signin.rockstargames.com/connect/au | Low | — | 23 | [bugstar](https://hackerone.com/bugstar) | 2021-02-18 |
+| 92 | [1101771](../reports/1101771.md) | Open redirect on https://signin.rockstargames.com/connect/au | Low | — | 23 | [bugstar](https://hackerone.com/bugstar) | 2021-02-18 |
+| 93 | [210875](../reports/210875.md) | use of unsafe host header leads to open redirect | Low | — | 23 | [exception](https://hackerone.com/exception) | 2017-05-01 |
+| 94 | [798121](../reports/798121.md) | Open redirect in https://www.rockstargames.com/GTAOnline/res | Low — CVSS 3.8 | — | 23 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-11 |
 | 95 | [808832](../reports/808832.md) | Information Disclosure in https://www.rockstargames.com/sear | Low | — | 22 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-11 |
 | 96 | [883731](../reports/883731.md) | Minor Account Privacy can Set to Everyone. | Low | — | 22 | [gevakun](https://hackerone.com/gevakun) | 2021-03-02 |
 | 97 | [1082774](../reports/1082774.md) | phpinfo() on graph.rockstargames.com exposes sensitive infor | Low | — | 20 | [bugstar](https://hackerone.com/bugstar) | 2021-01-21 |
@@ -105,8 +105,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 99 | [796295](../reports/796295.md) | csrf in https://www.rockstargames.com/reddeadonline/feedback | Low | — | 14 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-07-07 |
 | 100 | [210572](../reports/210572.md) | Full path Disclosure in Rockstargames.com██████████  | Low | — | 13 | [pappan](https://hackerone.com/pappan) | 2017-04-28 |
 | 101 | [271700](../reports/271700.md) | Leak IP internal | Low | — | 11 | [h1danilabs](https://hackerone.com/h1danilabs) | 2018-02-05 |
-| 102 | [214763](../reports/214763.md) | Profile bio at rockstar is accepting control characters | Low | — | 8 | [exception](https://hackerone.com/exception) | 2017-05-23 |
-| 103 | [1680818](../reports/1680818.md) | Modifying Sprunk vs eCola crew data | Low | — | 8 | [bugstar](https://hackerone.com/bugstar) | 2022-09-06 |
-| 104 | [253975](../reports/253975.md) | insecure redirect in https://www.rockstargames.com | Low | — | 6 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-12 |
-| 105 | [210331](../reports/210331.md) | SSLv3 POODLE Vulnerability | Low | — | 6 | [rmtyronerf](https://hackerone.com/rmtyronerf) | 2017-04-09 |
+| 102 | [1680818](../reports/1680818.md) | Modifying Sprunk vs eCola crew data | Low | — | 8 | [bugstar](https://hackerone.com/bugstar) | 2022-09-06 |
+| 103 | [214763](../reports/214763.md) | Profile bio at rockstar is accepting control characters | Low | — | 8 | [exception](https://hackerone.com/exception) | 2017-05-23 |
+| 104 | [210331](../reports/210331.md) | SSLv3 POODLE Vulnerability | Low | — | 6 | [rmtyronerf](https://hackerone.com/rmtyronerf) | 2017-04-09 |
+| 105 | [253975](../reports/253975.md) | insecure redirect in https://www.rockstargames.com | Low | — | 6 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-12 |
 | 106 | [870062](../reports/870062.md) | Referer Referer Header Leakage in language changer may lead  | Low — CVSS 3.8 | — | 3 | [netfuzzer](https://hackerone.com/netfuzzer) | 2020-06-24 |

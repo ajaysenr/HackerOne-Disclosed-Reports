@@ -14,86 +14,86 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 8 | [889886](../reports/889886.md) | [H1-2006 2020]  Connecting the dots to send hackers their Bu | Critical | — | 30 | [akshansh](https://hackerone.com/akshansh) | 2020-06-18 |
 | 9 | [887816](../reports/887816.md) | [H1-2006 2020] I made the CEO's bounty payment! | Critical | — | 28 | [bugra](https://hackerone.com/bugra) | 2020-06-18 |
 | 10 | [1216408](../reports/1216408.md) | H1-CTF 100k Solution - Congratz on the 100k Rep todayisnew | Critical | — | 25 | [w31rd0](https://hackerone.com/w31rd0) | 2021-06-17 |
-| 11 | [895172](../reports/895172.md) | [H1-2006 2020] Bypassing access control checks by modifying  | Critical | — | 23 | [bcobain23](https://hackerone.com/bcobain23) | 2020-06-22 |
-| 12 | [887611](../reports/887611.md) | [H1-2006 2020] H1-2006 CTF Writeup | Critical | — | 23 | [nytr0gen](https://hackerone.com/nytr0gen) | 2020-06-18 |
-| 13 | [1434017](../reports/1434017.md) | Saving Christmas from Grinchy Gods | Critical | — | 20 | [akshansh](https://hackerone.com/akshansh) | 2022-02-01 |
-| 14 | [777099](../reports/777099.md) | [h1-415 2020] I got the flag | Critical | — | 20 | [jllis](https://hackerone.com/jllis) | 2020-02-03 |
+| 11 | [887611](../reports/887611.md) | [H1-2006 2020] H1-2006 CTF Writeup | Critical | — | 23 | [nytr0gen](https://hackerone.com/nytr0gen) | 2020-06-18 |
+| 12 | [895172](../reports/895172.md) | [H1-2006 2020] Bypassing access control checks by modifying  | Critical | — | 23 | [bcobain23](https://hackerone.com/bcobain23) | 2020-06-22 |
+| 13 | [777099](../reports/777099.md) | [h1-415 2020] I got the flag | Critical | — | 20 | [jllis](https://hackerone.com/jllis) | 2020-02-03 |
+| 14 | [1434017](../reports/1434017.md) | Saving Christmas from Grinchy Gods | Critical | — | 20 | [akshansh](https://hackerone.com/akshansh) | 2022-02-01 |
 | 15 | [777241](../reports/777241.md) | [h1-415 2020] Multiple chained vulnerabilities lead to leaki | Critical | — | 18 | [nytr0gen](https://hackerone.com/nytr0gen) | 2020-02-03 |
 | 16 | [781253](../reports/781253.md) | [h1-415 2020] h1ctf{y3s_1m_c0sm1c_n0w} | Critical | — | 17 | [pirateducky](https://hackerone.com/pirateducky) | 2020-02-03 |
 | 17 | [780285](../reports/780285.md) | [h1-415 2020] H1-415 CTF Writeup by W-- | Critical | — | 17 | [w--](https://hackerone.com/w--) | 2020-02-03 |
-| 18 | [888484](../reports/888484.md) | [H1-2006 2020] [Multiple Vulnerability] CTF Writeup - @abdil | Critical | — | 16 | [abdilahrf_](https://hackerone.com/abdilahrf_) | 2020-06-18 |
-| 19 | [1217114](../reports/1217114.md) | CCC H1 June 2021 CTF Writeup | Critical | — | 16 | [pmnh](https://hackerone.com/pmnh) | 2021-06-21 |
+| 18 | [1217114](../reports/1217114.md) | CCC H1 June 2021 CTF Writeup | Critical | — | 16 | [pmnh](https://hackerone.com/pmnh) | 2021-06-21 |
+| 19 | [888484](../reports/888484.md) | [H1-2006 2020] [Multiple Vulnerability] CTF Writeup - @abdil | Critical | — | 16 | [abdilahrf_](https://hackerone.com/abdilahrf_) | 2020-06-18 |
 | 20 | [1218708](../reports/1218708.md) | HackerOne’s 100K CTF Writeup | Critical — CVSS 9.3 | — | 15 | [rykkard](https://hackerone.com/rykkard) | 2021-06-21 |
-| 21 | [776684](../reports/776684.md) | [h1-415 2020] My writeup on how to retrieve the special secr | Critical — CVSS 9.0 | — | 15 | [blaklis](https://hackerone.com/blaklis) | 2020-02-03 |
-| 22 | [1216591](../reports/1216591.md) | 100K CTF's Writeup | Critical | — | 15 | [dexter0us](https://hackerone.com/dexter0us) | 2021-06-21 |
-| 23 | [889293](../reports/889293.md) | [H1-2006 2020] CTF Writeup! | Critical | — | 13 | [sw33tlie](https://hackerone.com/sw33tlie) | 2020-06-17 |
+| 21 | [1216591](../reports/1216591.md) | 100K CTF's Writeup | Critical | — | 15 | [dexter0us](https://hackerone.com/dexter0us) | 2021-06-21 |
+| 22 | [776684](../reports/776684.md) | [h1-415 2020] My writeup on how to retrieve the special secr | Critical — CVSS 9.0 | — | 15 | [blaklis](https://hackerone.com/blaklis) | 2020-02-03 |
+| 23 | [1217702](../reports/1217702.md) | Adam and the  Deadly  Injections | Critical | — | 13 | [akshansh](https://hackerone.com/akshansh) | 2021-06-18 |
 | 24 | [888939](../reports/888939.md) | [H1-2006 2020] CTF Writeup | Critical | — | 13 | [hipotermia](https://hackerone.com/hipotermia) | 2020-06-18 |
-| 25 | [1217702](../reports/1217702.md) | Adam and the  Deadly  Injections | Critical | — | 13 | [akshansh](https://hackerone.com/akshansh) | 2021-06-18 |
+| 25 | [889293](../reports/889293.md) | [H1-2006 2020] CTF Writeup! | Critical | — | 13 | [sw33tlie](https://hackerone.com/sw33tlie) | 2020-06-17 |
 | 26 | [895824](../reports/895824.md) | [h1-2006 2020] Bounty payments are done ! | Critical | — | 12 | [louzogh](https://hackerone.com/louzogh) | 2020-09-14 |
 | 27 | [893305](../reports/893305.md) | [H1-2006 2020] CTF Writeup | Critical | — | 11 | [huerfano](https://hackerone.com/huerfano) | 2020-06-22 |
-| 28 | [781281](../reports/781281.md) | [h1-415 2020] Chain of vulnerabilities leading to account ta | Critical — CVSS 9.0 | — | 11 | [checkm50](https://hackerone.com/checkm50) | 2020-02-03 |
-| 29 | [895798](../reports/895798.md) | [H1-2006 2020] Bounty Pay CTF challenge | Critical | — | 11 | [0xfd](https://hackerone.com/0xfd) | 2020-06-18 |
-| 30 | [781295](../reports/781295.md) | [h1-415 2020] SSRF in a headless chrome with remote debuggin | Critical | — | 11 | [d1r3wolf](https://hackerone.com/d1r3wolf) | 2020-02-04 |
-| 31 | [887700](../reports/887700.md) | [H1-2006 2020]  Multiple vulnerabilities leading account tak | Critical | — | 10 | [nukedx](https://hackerone.com/nukedx) | 2020-06-17 |
-| 32 | [1069080](../reports/1069080.md) | hackyholidays CTF Writeup | Critical | — | 10 | [un5h4d0w](https://hackerone.com/un5h4d0w) | 2021-03-02 |
-| 33 | [887766](../reports/887766.md) | [H1-2006 2020]   CTF Writeup | Critical | — | 10 | [silentecho_](https://hackerone.com/silentecho_) | 2020-06-18 |
-| 34 | [895778](../reports/895778.md) | [H1-2006] CTF Writeup | Critical | — | 10 | [nirvana_msu](https://hackerone.com/nirvana_msu) | 2020-06-19 |
-| 35 | [1065829](../reports/1065829.md) | Invading Grinch Network and Saving Christmas | Critical | — | 10 | [w31rd0](https://hackerone.com/w31rd0) | 2021-01-12 |
-| 36 | [1067912](../reports/1067912.md) | A Visit from The Grinch ~ 'Twas the night before Hackmas... | Critical | — | 9 | [bendtheory](https://hackerone.com/bendtheory) | 2021-01-11 |
-| 37 | [894863](../reports/894863.md) | [H1-2006 2020] From multiple vulnerabilities to complete ATO | Critical — CVSS 9.0 | — | 9 | [rreiss](https://hackerone.com/rreiss) | 2020-06-22 |
-| 38 | [894604](../reports/894604.md) | [H1-2006 2020] CTF write-up | Critical | — | 8 | [godiego](https://hackerone.com/godiego) | 2020-06-18 |
-| 39 | [1433581](../reports/1433581.md) | The Return of the Grinch | Critical | — | 8 | [w31rd0](https://hackerone.com/w31rd0) | 2022-02-01 |
-| 40 | [779113](../reports/779113.md) | [h1-415 2020] @_bayotop h1-415-ctf writeup | Critical | — | 7 | [bayotop](https://hackerone.com/bayotop) | 2020-02-03 |
+| 28 | [781295](../reports/781295.md) | [h1-415 2020] SSRF in a headless chrome with remote debuggin | Critical | — | 11 | [d1r3wolf](https://hackerone.com/d1r3wolf) | 2020-02-04 |
+| 29 | [781281](../reports/781281.md) | [h1-415 2020] Chain of vulnerabilities leading to account ta | Critical — CVSS 9.0 | — | 11 | [checkm50](https://hackerone.com/checkm50) | 2020-02-03 |
+| 30 | [895798](../reports/895798.md) | [H1-2006 2020] Bounty Pay CTF challenge | Critical | — | 11 | [0xfd](https://hackerone.com/0xfd) | 2020-06-18 |
+| 31 | [895778](../reports/895778.md) | [H1-2006] CTF Writeup | Critical | — | 10 | [nirvana_msu](https://hackerone.com/nirvana_msu) | 2020-06-19 |
+| 32 | [887766](../reports/887766.md) | [H1-2006 2020]   CTF Writeup | Critical | — | 10 | [silentecho_](https://hackerone.com/silentecho_) | 2020-06-18 |
+| 33 | [1069080](../reports/1069080.md) | hackyholidays CTF Writeup | Critical | — | 10 | [un5h4d0w](https://hackerone.com/un5h4d0w) | 2021-03-02 |
+| 34 | [1065829](../reports/1065829.md) | Invading Grinch Network and Saving Christmas | Critical | — | 10 | [w31rd0](https://hackerone.com/w31rd0) | 2021-01-12 |
+| 35 | [887700](../reports/887700.md) | [H1-2006 2020]  Multiple vulnerabilities leading account tak | Critical | — | 10 | [nukedx](https://hackerone.com/nukedx) | 2020-06-17 |
+| 36 | [894863](../reports/894863.md) | [H1-2006 2020] From multiple vulnerabilities to complete ATO | Critical — CVSS 9.0 | — | 9 | [rreiss](https://hackerone.com/rreiss) | 2020-06-22 |
+| 37 | [1067912](../reports/1067912.md) | A Visit from The Grinch ~ 'Twas the night before Hackmas... | Critical | — | 9 | [bendtheory](https://hackerone.com/bendtheory) | 2021-01-11 |
+| 38 | [1433581](../reports/1433581.md) | The Return of the Grinch | Critical | — | 8 | [w31rd0](https://hackerone.com/w31rd0) | 2022-02-01 |
+| 39 | [894604](../reports/894604.md) | [H1-2006 2020] CTF write-up | Critical | — | 8 | [godiego](https://hackerone.com/godiego) | 2020-06-18 |
+| 40 | [1069396](../reports/1069396.md) | Hackyholidays [ h1-ctf] writeup [mission:- stop the grinch ] | Critical | — | 7 | [kunal94](https://hackerone.com/kunal94) | 2021-01-14 |
 | 41 | [1067037](../reports/1067037.md) | Taking Grinch Down To Save Holidays | Critical | — | 7 | [akshansh](https://hackerone.com/akshansh) | 2021-01-22 |
-| 42 | [1069396](../reports/1069396.md) | Hackyholidays [ h1-ctf] writeup [mission:- stop the grinch ] | Critical | — | 7 | [kunal94](https://hackerone.com/kunal94) | 2021-01-14 |
-| 43 | [895780](../reports/895780.md) | [h1-2006 2020] CTF Walkthrough | Critical | — | 7 | [meraxes](https://hackerone.com/meraxes) | 2020-06-18 |
-| 44 | [895772](../reports/895772.md) | [h1-2006 2020] Write up for H1-2006 CTF | Critical | — | 7 | [zer0ttl](https://hackerone.com/zer0ttl) | 2020-06-18 |
+| 42 | [895772](../reports/895772.md) | [h1-2006 2020] Write up for H1-2006 CTF | Critical | — | 7 | [zer0ttl](https://hackerone.com/zer0ttl) | 2020-06-18 |
+| 43 | [779113](../reports/779113.md) | [h1-415 2020] @_bayotop h1-415-ctf writeup | Critical | — | 7 | [bayotop](https://hackerone.com/bayotop) | 2020-02-03 |
+| 44 | [895780](../reports/895780.md) | [h1-2006 2020] CTF Walkthrough | Critical | — | 7 | [meraxes](https://hackerone.com/meraxes) | 2020-06-18 |
 | 45 | [894623](../reports/894623.md) | @shakedko H1-2006 CTF writeup | Critical | — | 6 | [shakedko](https://hackerone.com/shakedko) | 2020-07-06 |
-| 46 | [1066914](../reports/1066914.md) | [ Hacky Holidays CTF ] Completely taken down the Grinch Netw | Critical | — | 6 | [ht0x0](https://hackerone.com/ht0x0) | 2021-01-11 |
-| 47 | [1069175](../reports/1069175.md) | h1-ctf : 12 days of hack holiday writeup | Critical | — | 6 | [webhak](https://hackerone.com/webhak) | 2021-01-14 |
-| 48 | [1215919](../reports/1215919.md) | ccc.h1ctf.com CTF | Critical | — | 6 | [erbbysam](https://hackerone.com/erbbysam) | 2021-06-18 |
-| 49 | [894110](../reports/894110.md) | h1-ctf writeup , finally paid the payments by chaining multi | Critical | — | 5 | [d1r3wolf](https://hackerone.com/d1r3wolf) | 2020-06-18 |
-| 50 | [887993](../reports/887993.md) | [H1-2006 2020] CTF | Critical | — | 5 | [jeti](https://hackerone.com/jeti) | 2020-06-18 |
-| 51 | [1066233](../reports/1066233.md) | CTF Writeup | Critical | — | 5 | [a_l](https://hackerone.com/a_l) | 2021-01-14 |
-| 52 | [1065493](../reports/1065493.md) | [CTF] I've DDoSed Grinch Network | Critical — CVSS 10.0 | — | 4 | [jeti](https://hackerone.com/jeti) | 2021-01-11 |
-| 53 | [890196](../reports/890196.md) | [H1-2006 2020]  Multiple vulnerabilities lead to CEO account | Critical | — | 4 | [fersingb](https://hackerone.com/fersingb) | 2020-06-18 |
-| 54 | [1069034](../reports/1069034.md) | Grinchs website takendown with various other exploits | Critical | — | 4 | [archerl](https://hackerone.com/archerl) | 2021-03-02 |
-| 55 | [890555](../reports/890555.md) | [H1-2006 2020] CTF write-up | Critical | — | 4 | [counterbreach](https://hackerone.com/counterbreach) | 2020-06-18 |
-| 56 | [894165](../reports/894165.md) | [h1-2006 CTF] Payments for May have been processed! | Critical | — | 4 | [vakzz](https://hackerone.com/vakzz) | 2020-06-19 |
-| 57 | [895650](../reports/895650.md) | [h1-2006 2020]  Chained vulnerabilities lead to account take | Critical | — | 4 | [kanytu](https://hackerone.com/kanytu) | 2020-06-18 |
-| 58 | [888331](../reports/888331.md) | [H1-2006 2020]  ^FLAG^736c635d8842751b8aafa556154eb9f3$FLAG$ | Critical | — | 4 | [pirateducky](https://hackerone.com/pirateducky) | 2020-06-18 |
-| 59 | [895722](../reports/895722.md) | [h1-2006 CTF] Multiple vulnerabilities leading to account ta | Critical | — | 4 | [kapytein](https://hackerone.com/kapytein) | 2020-07-06 |
-| 60 | [894949](../reports/894949.md) | [H1-2006 2020] Exploiting multiple vulnerabilities to get ha | Critical | — | 4 | [hecsv17](https://hackerone.com/hecsv17) | 2020-06-18 |
-| 61 | [894174](../reports/894174.md) | [H1-2006 2020] In-depth resolution of the h1-2006 CTF | Critical | — | 4 | [enzyro](https://hackerone.com/enzyro) | 2020-06-18 |
-| 62 | [1068433](../reports/1068433.md) | 12 Days of CTF Walkthroughs | Critical | — | 3 | [meraxes](https://hackerone.com/meraxes) | 2021-01-11 |
+| 46 | [1069175](../reports/1069175.md) | h1-ctf : 12 days of hack holiday writeup | Critical | — | 6 | [webhak](https://hackerone.com/webhak) | 2021-01-14 |
+| 47 | [1215919](../reports/1215919.md) | ccc.h1ctf.com CTF | Critical | — | 6 | [erbbysam](https://hackerone.com/erbbysam) | 2021-06-18 |
+| 48 | [1066914](../reports/1066914.md) | [ Hacky Holidays CTF ] Completely taken down the Grinch Netw | Critical | — | 6 | [ht0x0](https://hackerone.com/ht0x0) | 2021-01-11 |
+| 49 | [887993](../reports/887993.md) | [H1-2006 2020] CTF | Critical | — | 5 | [jeti](https://hackerone.com/jeti) | 2020-06-18 |
+| 50 | [1066233](../reports/1066233.md) | CTF Writeup | Critical | — | 5 | [a_l](https://hackerone.com/a_l) | 2021-01-14 |
+| 51 | [894110](../reports/894110.md) | h1-ctf writeup , finally paid the payments by chaining multi | Critical | — | 5 | [d1r3wolf](https://hackerone.com/d1r3wolf) | 2020-06-18 |
+| 52 | [890555](../reports/890555.md) | [H1-2006 2020] CTF write-up | Critical | — | 4 | [counterbreach](https://hackerone.com/counterbreach) | 2020-06-18 |
+| 53 | [894165](../reports/894165.md) | [h1-2006 CTF] Payments for May have been processed! | Critical | — | 4 | [vakzz](https://hackerone.com/vakzz) | 2020-06-19 |
+| 54 | [894949](../reports/894949.md) | [H1-2006 2020] Exploiting multiple vulnerabilities to get ha | Critical | — | 4 | [hecsv17](https://hackerone.com/hecsv17) | 2020-06-18 |
+| 55 | [894174](../reports/894174.md) | [H1-2006 2020] In-depth resolution of the h1-2006 CTF | Critical | — | 4 | [enzyro](https://hackerone.com/enzyro) | 2020-06-18 |
+| 56 | [890196](../reports/890196.md) | [H1-2006 2020]  Multiple vulnerabilities lead to CEO account | Critical | — | 4 | [fersingb](https://hackerone.com/fersingb) | 2020-06-18 |
+| 57 | [895722](../reports/895722.md) | [h1-2006 CTF] Multiple vulnerabilities leading to account ta | Critical | — | 4 | [kapytein](https://hackerone.com/kapytein) | 2020-07-06 |
+| 58 | [895650](../reports/895650.md) | [h1-2006 2020]  Chained vulnerabilities lead to account take | Critical | — | 4 | [kanytu](https://hackerone.com/kanytu) | 2020-06-18 |
+| 59 | [888331](../reports/888331.md) | [H1-2006 2020]  ^FLAG^736c635d8842751b8aafa556154eb9f3$FLAG$ | Critical | — | 4 | [pirateducky](https://hackerone.com/pirateducky) | 2020-06-18 |
+| 60 | [1069034](../reports/1069034.md) | Grinchs website takendown with various other exploits | Critical | — | 4 | [archerl](https://hackerone.com/archerl) | 2021-03-02 |
+| 61 | [1065493](../reports/1065493.md) | [CTF] I've DDoSed Grinch Network | Critical — CVSS 10.0 | — | 4 | [jeti](https://hackerone.com/jeti) | 2021-01-11 |
+| 62 | [1066801](../reports/1066801.md) | Hacky Holidays CTF Writeup | Critical — CVSS 9.9 | — | 3 | [rykkard](https://hackerone.com/rykkard) | 2021-01-11 |
 | 63 | [1069189](../reports/1069189.md) | Grinch-Networks taken down - hacky holidays CTF  | Critical | — | 3 | [pirateducky](https://hackerone.com/pirateducky) | 2021-01-11 |
-| 64 | [1066801](../reports/1066801.md) | Hacky Holidays CTF Writeup | Critical — CVSS 9.9 | — | 3 | [rykkard](https://hackerone.com/rykkard) | 2021-01-11 |
-| 65 | [894198](../reports/894198.md) | [H1-2006 2020]  Includes 1 free content discovery | Critical | — | 3 | [osintopsec](https://hackerone.com/osintopsec) | 2020-06-18 |
-| 66 | [1066504](../reports/1066504.md) | Grinch Networks compromised! | Critical | — | 3 | [zonduu](https://hackerone.com/zonduu) | 2021-01-11 |
-| 67 | [893395](../reports/893395.md) | [H1-2006 2020] CTF Writeup | Critical | — | 3 | [un5h4d0w](https://hackerone.com/un5h4d0w) | 2020-06-22 |
-| 68 | [892337](../reports/892337.md) | [H1-2006 2020] [CTF Writeup] A story about Bounty Payments,  | Critical | — | 3 | [sturedman](https://hackerone.com/sturedman) | 2020-06-18 |
-| 69 | [1065517](../reports/1065517.md) | h1 hacky holidays CTF solution | Critical | — | 3 | [erbbysam](https://hackerone.com/erbbysam) | 2021-01-11 |
-| 70 | [1069467](../reports/1069467.md) | H1 Hackyholidays CTF - The Grinch was defeated | Critical | — | 2 | [val_brux](https://hackerone.com/val_brux) | 2021-01-11 |
-| 71 | [1068934](../reports/1068934.md) | [h1ctf-Grinch Networks] MrR3b00t Saving the Christmas | Critical | — | 2 | [d3f4u17](https://hackerone.com/d3f4u17) | 2021-01-11 |
-| 72 | [895587](../reports/895587.md) | [H1-2006 2020] How I solved my first H1 CTF | Critical — CVSS 9.0 | — | 2 | [cr33pb0y](https://hackerone.com/cr33pb0y) | 2020-06-18 |
+| 64 | [894198](../reports/894198.md) | [H1-2006 2020]  Includes 1 free content discovery | Critical | — | 3 | [osintopsec](https://hackerone.com/osintopsec) | 2020-06-18 |
+| 65 | [1066504](../reports/1066504.md) | Grinch Networks compromised! | Critical | — | 3 | [zonduu](https://hackerone.com/zonduu) | 2021-01-11 |
+| 66 | [1065517](../reports/1065517.md) | h1 hacky holidays CTF solution | Critical | — | 3 | [erbbysam](https://hackerone.com/erbbysam) | 2021-01-11 |
+| 67 | [892337](../reports/892337.md) | [H1-2006 2020] [CTF Writeup] A story about Bounty Payments,  | Critical | — | 3 | [sturedman](https://hackerone.com/sturedman) | 2020-06-18 |
+| 68 | [1068433](../reports/1068433.md) | 12 Days of CTF Walkthroughs | Critical | — | 3 | [meraxes](https://hackerone.com/meraxes) | 2021-01-11 |
+| 69 | [893395](../reports/893395.md) | [H1-2006 2020] CTF Writeup | Critical | — | 3 | [un5h4d0w](https://hackerone.com/un5h4d0w) | 2020-06-22 |
+| 70 | [895587](../reports/895587.md) | [H1-2006 2020] How I solved my first H1 CTF | Critical — CVSS 9.0 | — | 2 | [cr33pb0y](https://hackerone.com/cr33pb0y) | 2020-06-18 |
+| 71 | [1069467](../reports/1069467.md) | H1 Hackyholidays CTF - The Grinch was defeated | Critical | — | 2 | [val_brux](https://hackerone.com/val_brux) | 2021-01-11 |
+| 72 | [1068934](../reports/1068934.md) | [h1ctf-Grinch Networks] MrR3b00t Saving the Christmas | Critical | — | 2 | [d3f4u17](https://hackerone.com/d3f4u17) | 2021-01-11 |
 | 73 | [1067090](../reports/1067090.md) | Mission completed. Grinch Networks is down and Christmas sav | Critical — CVSS 10.0 | — | 2 | [yso](https://hackerone.com/yso) | 2021-01-12 |
-| 74 | [1066135](../reports/1066135.md) | Wholesome Hacky Holidays: A Writeup | Critical | — | 1 | [ph0cu5](https://hackerone.com/ph0cu5) | 2021-01-12 |
+| 74 | [1067835](../reports/1067835.md) | Hacky Holidays Writeup | Critical | — | 1 | [cardinal](https://hackerone.com/cardinal) | 2021-01-12 |
 | 75 | [1066007](../reports/1066007.md) | Hacky Holidays CTF Writeup | Critical | — | 1 | [w--](https://hackerone.com/w--) | 2021-01-12 |
-| 76 | [1068434](../reports/1068434.md) | HackyHolidays 2020 Full Write-up: Information Disclosure of  | Critical | — | 1 | [liamg](https://hackerone.com/liamg) | 2021-01-11 |
-| 77 | [1069141](../reports/1069141.md) | Infiltrating into Grinch-Networks and saving Christmas! | Critical | — | 1 | [castilho](https://hackerone.com/castilho) | 2021-01-11 |
-| 78 | [887744](../reports/887744.md) | [H1-2006 2020]  Got the flag | Critical | — | 1 | [s1r1u5](https://hackerone.com/s1r1u5) | 2020-06-25 |
-| 79 | [1065731](../reports/1065731.md) | Writeup Hackyholiday CTF | Critical | — | 1 | [abdilahrf_](https://hackerone.com/abdilahrf_) | 2021-01-12 |
-| 80 | [1067835](../reports/1067835.md) | Hacky Holidays Writeup | Critical | — | 1 | [cardinal](https://hackerone.com/cardinal) | 2021-01-12 |
-| 81 | [1069388](../reports/1069388.md) | It's just a man on a mission | Critical | — | 0 | [thezoomer](https://hackerone.com/thezoomer) | 2021-01-12 |
-| 82 | [1069263](../reports/1069263.md) | First CTF ever! | Critical | — | 0 | [eliee](https://hackerone.com/eliee) | 2021-01-12 |
-| 83 | [1069171](../reports/1069171.md) | [H1 hackyholidays] CTF Writeup | Critical | — | 0 | [macasun](https://hackerone.com/macasun) | 2021-01-12 |
-| 84 | [1066206](../reports/1066206.md) | [hacky-holidays] Grinch network is down | Critical | — | 0 | [mzfr](https://hackerone.com/mzfr) | 2021-01-12 |
-| 85 | [1069376](../reports/1069376.md) | [hackyholidays] CTF write-up | Critical | — | 0 | [rend](https://hackerone.com/rend) | 2021-01-12 |
-| 86 | [1067530](../reports/1067530.md) | Successfully took down the Grinch and saved the holidays fro | Critical | — | 0 | [shubhamz007](https://hackerone.com/shubhamz007) | 2021-01-12 |
+| 76 | [1069141](../reports/1069141.md) | Infiltrating into Grinch-Networks and saving Christmas! | Critical | — | 1 | [castilho](https://hackerone.com/castilho) | 2021-01-11 |
+| 77 | [887744](../reports/887744.md) | [H1-2006 2020]  Got the flag | Critical | — | 1 | [s1r1u5](https://hackerone.com/s1r1u5) | 2020-06-25 |
+| 78 | [1065731](../reports/1065731.md) | Writeup Hackyholiday CTF | Critical | — | 1 | [abdilahrf_](https://hackerone.com/abdilahrf_) | 2021-01-12 |
+| 79 | [1066135](../reports/1066135.md) | Wholesome Hacky Holidays: A Writeup | Critical | — | 1 | [ph0cu5](https://hackerone.com/ph0cu5) | 2021-01-12 |
+| 80 | [1068434](../reports/1068434.md) | HackyHolidays 2020 Full Write-up: Information Disclosure of  | Critical | — | 1 | [liamg](https://hackerone.com/liamg) | 2021-01-11 |
+| 81 | [1069376](../reports/1069376.md) | [hackyholidays] CTF write-up | Critical | — | 0 | [rend](https://hackerone.com/rend) | 2021-01-12 |
+| 82 | [1067530](../reports/1067530.md) | Successfully took down the Grinch and saved the holidays fro | Critical | — | 0 | [shubhamz007](https://hackerone.com/shubhamz007) | 2021-01-12 |
+| 83 | [1069263](../reports/1069263.md) | First CTF ever! | Critical | — | 0 | [eliee](https://hackerone.com/eliee) | 2021-01-12 |
+| 84 | [1069388](../reports/1069388.md) | It's just a man on a mission | Critical | — | 0 | [thezoomer](https://hackerone.com/thezoomer) | 2021-01-12 |
+| 85 | [1066206](../reports/1066206.md) | [hacky-holidays] Grinch network is down | Critical | — | 0 | [mzfr](https://hackerone.com/mzfr) | 2021-01-12 |
+| 86 | [1069171](../reports/1069171.md) | [H1 hackyholidays] CTF Writeup | Critical | — | 0 | [macasun](https://hackerone.com/macasun) | 2021-01-12 |
 | 87 | [779910](../reports/779910.md) | [h1-415 2020] finally | High | — | 11 | [003random](https://hackerone.com/003random) | 2020-02-03 |
 | 88 | [891093](../reports/891093.md) | [H1-2006 2020] Solution for the h1-2006 CTF challenge | High — CVSS 7.5 | — | 3 | [thehackerish](https://hackerone.com/thehackerish) | 2020-06-18 |
-| 89 | [1065885](../reports/1065885.md) | Complete destruction of the Grinch server | High — CVSS 8.1 | — | 2 | [shamollash](https://hackerone.com/shamollash) | 2021-01-12 |
-| 90 | [895795](../reports/895795.md) | [h1-2006 2020]  Writeup h12006 CTF | High | — | 2 | [0xxl](https://hackerone.com/0xxl) | 2020-06-19 |
+| 89 | [895795](../reports/895795.md) | [h1-2006 2020]  Writeup h12006 CTF | High | — | 2 | [0xxl](https://hackerone.com/0xxl) | 2020-06-19 |
+| 90 | [1065885](../reports/1065885.md) | Complete destruction of the Grinch server | High — CVSS 8.1 | — | 2 | [shamollash](https://hackerone.com/shamollash) | 2021-01-12 |
 | 91 | [1068880](../reports/1068880.md) | Writeup Submission | High | — | 1 | [h3x0ne](https://hackerone.com/h3x0ne) | 2021-01-11 |
 | 92 | [1066851](../reports/1066851.md) | 12 Days of Hacky Holidays write-up, but as a text-based RPG? | None | — | 44 | [dee-see](https://hackerone.com/dee-see) | 2021-01-11 |
 | 93 | [780676](../reports/780676.md) | [h1-415 2020] I found Joberts missing file! | None | — | 19 | [p4fg](https://hackerone.com/p4fg) | 2020-02-03 |
@@ -103,14 +103,14 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 97 | [889793](../reports/889793.md) | [H1-2006 2020]  36 hours of brain cycles utilized on solving | None | — | 13 | [0xatul](https://hackerone.com/0xatul) | 2020-06-18 |
 | 98 | [895202](../reports/895202.md) | [H1-2006 2020] Multiple vulnerabilities allow to leak sensit | None | — | 11 | [zoczus](https://hackerone.com/zoczus) | 2020-06-22 |
 | 99 | [888253](../reports/888253.md) | [H1-2006 2020] CTF Writeup | None | — | 10 | [yashrs](https://hackerone.com/yashrs) | 2020-07-06 |
-| 100 | [1065485](../reports/1065485.md) | Stopping Grinch to ruin XMas! | None | — | 9 | [nukedx](https://hackerone.com/nukedx) | 2021-01-11 |
-| 101 | [1067087](../reports/1067087.md) | [h1-ctf] 12 Days of Adventure to stop Grinch from ruining Ch | None | — | 9 | [sudi](https://hackerone.com/sudi) | 2021-01-11 |
+| 100 | [1067087](../reports/1067087.md) | [h1-ctf] 12 Days of Adventure to stop Grinch from ruining Ch | None | — | 9 | [sudi](https://hackerone.com/sudi) | 2021-01-11 |
+| 101 | [1065485](../reports/1065485.md) | Stopping Grinch to ruin XMas! | None | — | 9 | [nukedx](https://hackerone.com/nukedx) | 2021-01-11 |
 | 102 | [1065516](../reports/1065516.md) | Flags for hackyholidays CTF | None | — | 9 | [yashrs](https://hackerone.com/yashrs) | 2021-01-12 |
 | 103 | [890272](../reports/890272.md) | [H1-2006 2020]  "Swiss Cheese" design style leads to helping | None | — | 6 | [al-madjus](https://hackerone.com/al-madjus) | 2020-06-18 |
 | 104 | [894170](../reports/894170.md) | [H1-2006 2020] Writeup | None | — | 5 | [njbooher3](https://hackerone.com/njbooher3) | 2020-06-18 |
-| 105 | [1065468](../reports/1065468.md) | ctf walkthrough | None | — | 4 | [rekter0](https://hackerone.com/rekter0) | 2021-01-12 |
-| 106 | [892632](../reports/892632.md) | [H1-2006 2020] CTF writeup | None | — | 4 | [0xbeefed](https://hackerone.com/0xbeefed) | 2020-06-18 |
-| 107 | [889333](../reports/889333.md) | [H1-2006 2020]  The Story of Making Bounty Hunters Happy | None | — | 3 | [w31rd0](https://hackerone.com/w31rd0) | 2020-06-19 |
-| 108 | [887889](../reports/887889.md) | [H1-2006 2020]  H1-CTF writeup | None | — | 3 | [smaury](https://hackerone.com/smaury) | 2020-06-18 |
+| 105 | [892632](../reports/892632.md) | [H1-2006 2020] CTF writeup | None | — | 4 | [0xbeefed](https://hackerone.com/0xbeefed) | 2020-06-18 |
+| 106 | [1065468](../reports/1065468.md) | ctf walkthrough | None | — | 4 | [rekter0](https://hackerone.com/rekter0) | 2021-01-12 |
+| 107 | [887889](../reports/887889.md) | [H1-2006 2020]  H1-CTF writeup | None | — | 3 | [smaury](https://hackerone.com/smaury) | 2020-06-18 |
+| 108 | [889333](../reports/889333.md) | [H1-2006 2020]  The Story of Making Bounty Hunters Happy | None | — | 3 | [w31rd0](https://hackerone.com/w31rd0) | 2020-06-19 |
 | 109 | [1065583](../reports/1065583.md) | Hackyholidays CTF writeup | None | — | 2 | [xehle](https://hackerone.com/xehle) | 2021-01-12 |
 | 110 | [1068881](../reports/1068881.md) | HackyHolidays H1 CTF Writeup | None | — | 1 | [mava](https://hackerone.com/mava) | 2021-01-11 |

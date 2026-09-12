@@ -13,8 +13,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 7 | [6884](../reports/6884.md) | Leaking Referrer in Reset Password Link | None | $100 | 5 | [cliantech](https://hackerone.com/cliantech) | 2014-04-12 |
 | 8 | [7357](../reports/7357.md) | Host Header is not validated resulting in Open Redirect | None | $100 | 4 | [anshuman_bh](https://hackerone.com/anshuman_bh) | 2014-04-24 |
 | 9 | [6872](../reports/6872.md) | Sign up CSRF | None | $100 | 4 | [cliantech](https://hackerone.com/cliantech) | 2014-05-14 |
-| 10 | [6883](../reports/6883.md) | Bruteforcing irccloud login | None | $100 | 3 | [cliantech](https://hackerone.com/cliantech) | 2014-05-26 |
-| 11 | [6877](../reports/6877.md) | Unsecure cookies, cookie flag secure not set | None | $100 | 3 | [cliantech](https://hackerone.com/cliantech) | 2014-05-15 |
+| 10 | [6877](../reports/6877.md) | Unsecure cookies, cookie flag secure not set | None | $100 | 3 | [cliantech](https://hackerone.com/cliantech) | 2014-05-15 |
+| 11 | [6883](../reports/6883.md) | Bruteforcing irccloud login | None | $100 | 3 | [cliantech](https://hackerone.com/cliantech) | 2014-05-26 |
 | 12 | [6871](../reports/6871.md) | Login CSRF | None | $100 | 2 | [cliantech](https://hackerone.com/cliantech) | 2014-04-21 |
 | 13 | [275443](../reports/275443.md) | Missing robots exclusion header for user uploads | Low | $50 | 5 | [d0rkerdevil](https://hackerone.com/d0rkerdevil) | 2017-10-27 |
 | 14 | [288955](../reports/288955.md) | [IRCCloud Android] Theft of arbitrary files leading to token | High | — | 31 | [bagipro](https://hackerone.com/bagipro) | 2017-11-15 |
@@ -25,21 +25,21 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 19 | [6910](../reports/6910.md) | Full account takeover using CSRF and password reset | None | — | 14 | [melvin](https://hackerone.com/melvin) | 2014-04-14 |
 | 20 | [7226](../reports/7226.md) | Login page password-guessing attack(Brute-force attack-High) | None | — | 8 | [xss](https://hackerone.com/xss) | 2014-04-26 |
 | 21 | [7531](../reports/7531.md) | Login CSRF can be bypassed (Similar approach to previous one | None | — | 8 | [uname](https://hackerone.com/uname) | 2014-05-20 |
-| 22 | [6935](../reports/6935.md) | Missing X-Content-Type-Options | None | — | 6 | [shipcode](https://hackerone.com/shipcode) | 2014-05-15 |
-| 23 | [7036](../reports/7036.md) | Bug in iOS application which could lead to unauthorised acce | None | — | 6 | [uname](https://hackerone.com/uname) | 2014-05-15 |
+| 22 | [7036](../reports/7036.md) | Bug in iOS application which could lead to unauthorised acce | None | — | 6 | [uname](https://hackerone.com/uname) | 2014-05-15 |
+| 23 | [6935](../reports/6935.md) | Missing X-Content-Type-Options | None | — | 6 | [shipcode](https://hackerone.com/shipcode) | 2014-05-15 |
 | 24 | [7041](../reports/7041.md) | iOS application does not destroy session upon logout. | None | — | 5 | [uname](https://hackerone.com/uname) | 2014-05-22 |
 | 25 | [7085](../reports/7085.md) | DNS Misconfiguration | None | — | 5 | [yourdarkshadow](https://hackerone.com/yourdarkshadow) | 2014-04-11 |
-| 26 | [7033](../reports/7033.md) | "SESSION"  Cookie without HttpOnly flag set | None | — | 5 | [ashesh](https://hackerone.com/ashesh) | 2014-05-11 |
-| 27 | [21603](../reports/21603.md) | Bruteforce protection not enabled on the login page https:// | None | — | 5 | [born2hack](https://hackerone.com/born2hack) | 2014-10-08 |
-| 28 | [7441](../reports/7441.md) | Dangerous Persistent xss | None | — | 4 | [reporter](https://hackerone.com/reporter) | 2014-05-13 |
-| 29 | [28703](../reports/28703.md) | Weak password policy | None | — | 4 | [internetwache](https://hackerone.com/internetwache) | 2014-11-27 |
-| 30 | [7436](../reports/7436.md) | Unwanted Spamming Using CSRF [LOGGED IN USER] | None | — | 4 | [ashesh](https://hackerone.com/ashesh) | 2014-05-17 |
-| 31 | [6907](../reports/6907.md) | Session Token is not Verified while changing Account Setting | None | — | 4 | [exploitprotocol](https://hackerone.com/exploitprotocol) | 2014-04-23 |
-| 32 | [7116](../reports/7116.md) | CSRF to Account Take Over Bug  | None | — | 4 | [defmax](https://hackerone.com/defmax) | 2014-09-08 |
-| 33 | [51166](../reports/51166.md) | Email verification links still valid after changing it 2x | None | — | 4 | [jackds](https://hackerone.com/jackds) | 2015-03-13 |
-| 34 | [6888](../reports/6888.md) | HTML Form without CSRF protection | None | — | 3 | [robin](https://hackerone.com/robin) | 2014-05-14 |
-| 35 | [13628](../reports/13628.md) | Password type input with auto-complete enabled | None | — | 3 | [harikrishnan_c](https://hackerone.com/harikrishnan_c) | 2014-11-17 |
-| 36 | [7051](../reports/7051.md) |  User Account Creation CSRF  | None | — | 3 | [chandrakant](https://hackerone.com/chandrakant) | 2014-06-25 |
+| 26 | [21603](../reports/21603.md) | Bruteforce protection not enabled on the login page https:// | None | — | 5 | [born2hack](https://hackerone.com/born2hack) | 2014-10-08 |
+| 27 | [7033](../reports/7033.md) | "SESSION"  Cookie without HttpOnly flag set | None | — | 5 | [ashesh](https://hackerone.com/ashesh) | 2014-05-11 |
+| 28 | [7436](../reports/7436.md) | Unwanted Spamming Using CSRF [LOGGED IN USER] | None | — | 4 | [ashesh](https://hackerone.com/ashesh) | 2014-05-17 |
+| 29 | [7116](../reports/7116.md) | CSRF to Account Take Over Bug  | None | — | 4 | [defmax](https://hackerone.com/defmax) | 2014-09-08 |
+| 30 | [28703](../reports/28703.md) | Weak password policy | None | — | 4 | [internetwache](https://hackerone.com/internetwache) | 2014-11-27 |
+| 31 | [7441](../reports/7441.md) | Dangerous Persistent xss | None | — | 4 | [reporter](https://hackerone.com/reporter) | 2014-05-13 |
+| 32 | [51166](../reports/51166.md) | Email verification links still valid after changing it 2x | None | — | 4 | [jackds](https://hackerone.com/jackds) | 2015-03-13 |
+| 33 | [6907](../reports/6907.md) | Session Token is not Verified while changing Account Setting | None | — | 4 | [exploitprotocol](https://hackerone.com/exploitprotocol) | 2014-04-23 |
+| 34 | [13628](../reports/13628.md) | Password type input with auto-complete enabled | None | — | 3 | [harikrishnan_c](https://hackerone.com/harikrishnan_c) | 2014-11-17 |
+| 35 | [7051](../reports/7051.md) |  User Account Creation CSRF  | None | — | 3 | [chandrakant](https://hackerone.com/chandrakant) | 2014-06-25 |
+| 36 | [6888](../reports/6888.md) | HTML Form without CSRF protection | None | — | 3 | [robin](https://hackerone.com/robin) | 2014-05-14 |
 | 37 | [17540](../reports/17540.md) | Reflected XSS in Pastebin-view | None | — | 3 | [pseudochu](https://hackerone.com/pseudochu) | 2014-06-28 |
 | 38 | [13634](../reports/13634.md) | Missing Character Restriction | None | — | 2 | [harikrishnan_c](https://hackerone.com/harikrishnan_c) | 2014-11-17 |
 | 39 | [7332](../reports/7332.md) | CSRF - Creating accounts | None | — | 1 | [internetwache](https://hackerone.com/internetwache) | 2014-05-14 |

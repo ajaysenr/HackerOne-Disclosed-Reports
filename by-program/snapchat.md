@@ -38,7 +38,7 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 32 | [125849](../reports/125849.md) | XSS found on Snapchat website | None | — | 38 | [esnard](https://hackerone.com/esnard) | 2018-05-26 |
 | 33 | [168476](../reports/168476.md) | Incoming email hijacking on sc-cdn.net | None | — | 24 | [rubyroobs](https://hackerone.com/rubyroobs) | 2016-09-23 |
 | 34 | [173043](../reports/173043.md) | Bypassing "You've requested your data the maximum number of  | None | — | 20 | [marwan](https://hackerone.com/marwan) | 2016-11-25 |
-| 35 | [171942](../reports/171942.md) | Subdomain takeover of blog.snapchat.com | None | — | 14 | [jreynoldsdev](https://hackerone.com/jreynoldsdev) | 2016-10-05 |
-| 36 | [114134](../reports/114134.md) | Subdomain takeover in http://support.scan.me pointing to Zen | None | — | 14 | [harrymg](https://hackerone.com/harrymg) | 2016-02-16 |
+| 35 | [114134](../reports/114134.md) | Subdomain takeover in http://support.scan.me pointing to Zen | None | — | 14 | [harrymg](https://hackerone.com/harrymg) | 2016-02-16 |
+| 36 | [171942](../reports/171942.md) | Subdomain takeover of blog.snapchat.com | None | — | 14 | [jreynoldsdev](https://hackerone.com/jreynoldsdev) | 2016-10-05 |
 | 37 | [54631](../reports/54631.md) | Vulnerable to JavaScript injection. (WXS)  (Javascript injec | None | — | 13 | [protector47](https://hackerone.com/protector47) | 2015-10-22 |
 | 38 | [54641](../reports/54641.md) | Captcha Bypass in Snapchat's Geofilter Submission Process | None | — | 9 | [zero](https://hackerone.com/zero) | 2015-05-04 |

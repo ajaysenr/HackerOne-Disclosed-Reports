@@ -11,8 +11,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 5 | [98247](../reports/98247.md) | login to any user's cashier account and full account informa | None | — | 27 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2015-11-14 |
 | 6 | [98469](../reports/98469.md) | Email Verification Link can be Used as Password Reset Link! | None | — | 7 | [karimrahal](https://hackerone.com/karimrahal) | 2015-12-03 |
 | 7 | [97609](../reports/97609.md) | User Enumeration : Due to rate limiting on registration | None | — | 5 | [shailesh4594](https://hackerone.com/shailesh4594) | 2015-11-05 |
-| 8 | [140392](../reports/140392.md) | CJ vulnerability in subdomain | None | — | 4 | [0x0ameer](https://hackerone.com/0x0ameer) | 2016-06-09 |
-| 9 | [101983](../reports/101983.md) | Cookie bug | None | — | 4 | [blinkms](https://hackerone.com/blinkms) | 2015-12-16 |
-| 10 | [112306](../reports/112306.md) | Full takeover of some binary.com sub domains | None | — | 4 | [koenrh](https://hackerone.com/koenrh) | 2016-02-05 |
+| 8 | [101983](../reports/101983.md) | Cookie bug | None | — | 4 | [blinkms](https://hackerone.com/blinkms) | 2015-12-16 |
+| 9 | [112306](../reports/112306.md) | Full takeover of some binary.com sub domains | None | — | 4 | [koenrh](https://hackerone.com/koenrh) | 2016-02-05 |
+| 10 | [140392](../reports/140392.md) | CJ vulnerability in subdomain | None | — | 4 | [0x0ameer](https://hackerone.com/0x0ameer) | 2016-06-09 |
 | 11 | [109832](../reports/109832.md) | HTML injection via 'underlying' parameter | None | — | 3 | [roshanpty](https://hackerone.com/roshanpty) | 2016-07-24 |
 | 12 | [111131](../reports/111131.md) | XSS | None | — | 2 | [thalaivarsubu](https://hackerone.com/thalaivarsubu) | 2016-05-23 |

@@ -19,8 +19,8 @@
 | 13 | [819717](../reports/819717.md) | IPv4 only clusters susceptible to MitM attacks via IPv6 rogue rou | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 6.0 | — | 10 |
 | 14 | [238344](../reports/238344.md) | http://lists.parrotsec.org vulnerable to MITM | [Parrot Sec](../by-program/parrot_sec.md) | Medium | — | 8 |
 | 15 | [509390](../reports/509390.md) | Missing DNSSEC | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 5 |
-| 16 | [899103](../reports/899103.md) | Man in the middle leading to root privilege escalation using host | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 6.0 | — | 4 |
-| 17 | [541502](../reports/541502.md) | [https-proxy-agent] Socket returned without TLS upgrade on non-20 | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.1 | — | 4 |
+| 16 | [541502](../reports/541502.md) | [https-proxy-agent] Socket returned without TLS upgrade on non-20 | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.1 | — | 4 |
+| 17 | [899103](../reports/899103.md) | Man in the middle leading to root privilege escalation using host | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 6.0 | — | 4 |
 | 18 | [263553](../reports/263553.md) | federalist.18f.gov vulnerable to Sweet32 attack | [GSA Bounty](../by-program/gsa_bbp.md) | Medium | — | 3 |
 | 19 | [764986](../reports/764986.md) | Man in the middle using LoadBalancer or ExternalIPs services | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 6.6 | — | 2 |
 | 20 | [1129529](../reports/1129529.md) | CVE-2021-22890: TLS 1.3 session ticket proxy host mixup | [curl](../by-program/curl.md) | Low | — | 7 |

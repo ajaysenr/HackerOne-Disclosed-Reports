@@ -21,22 +21,22 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 15 | [73808](../reports/73808.md) | Extremely high Course rating values could be set in order to | None | — | 5 | [decay](https://hackerone.com/decay) | 2015-09-25 |
 | 16 | [119262](../reports/119262.md) | Authentication Data are not Clearing  | None | — | 4 | [vulnh0lic](https://hackerone.com/vulnh0lic) | 2016-04-13 |
 | 17 | [258879](../reports/258879.md) | No password length restriction | None | — | 4 | [alirazzaq4](https://hackerone.com/alirazzaq4) | 2017-08-28 |
-| 18 | [172694](../reports/172694.md) | Critical : Malware and XSS file can be uploaded and executed | None | — | 3 | [csanuragjain](https://hackerone.com/csanuragjain) | 2017-01-10 |
-| 19 | [135620](../reports/135620.md) | Showing Up Source Code | None | — | 3 | [kashif](https://hackerone.com/kashif) | 2017-05-04 |
-| 20 | [87588](../reports/87588.md) | XSS Vulnerability | None | — | 3 | [robd4k](https://hackerone.com/robd4k) | 2015-11-09 |
-| 21 | [60016](../reports/60016.md) | xss profile | None | — | 3 | [x1622](https://hackerone.com/x1622) | 2015-07-16 |
-| 22 | [62400](../reports/62400.md) | XSS on https://www.udemy.com/asset/export.html | None | — | 3 | [adrianbelen](https://hackerone.com/adrianbelen) | 2015-10-08 |
-| 23 | [60260](../reports/60260.md) | Misconfigured SPF Record Flag | None | — | 3 | [geekboy](https://hackerone.com/geekboy) | 2016-02-22 |
-| 24 | [137008](../reports/137008.md) | Csrf on creating course | None | — | 3 | [oldc4u53](https://hackerone.com/oldc4u53) | 2017-01-10 |
-| 25 | [217431](../reports/217431.md) | sweet32  | None | — | 2 | [doglife](https://hackerone.com/doglife) | 2017-05-04 |
+| 18 | [87588](../reports/87588.md) | XSS Vulnerability | None | — | 3 | [robd4k](https://hackerone.com/robd4k) | 2015-11-09 |
+| 19 | [137008](../reports/137008.md) | Csrf on creating course | None | — | 3 | [oldc4u53](https://hackerone.com/oldc4u53) | 2017-01-10 |
+| 20 | [60260](../reports/60260.md) | Misconfigured SPF Record Flag | None | — | 3 | [geekboy](https://hackerone.com/geekboy) | 2016-02-22 |
+| 21 | [135620](../reports/135620.md) | Showing Up Source Code | None | — | 3 | [kashif](https://hackerone.com/kashif) | 2017-05-04 |
+| 22 | [60016](../reports/60016.md) | xss profile | None | — | 3 | [x1622](https://hackerone.com/x1622) | 2015-07-16 |
+| 23 | [172694](../reports/172694.md) | Critical : Malware and XSS file can be uploaded and executed | None | — | 3 | [csanuragjain](https://hackerone.com/csanuragjain) | 2017-01-10 |
+| 24 | [62400](../reports/62400.md) | XSS on https://www.udemy.com/asset/export.html | None | — | 3 | [adrianbelen](https://hackerone.com/adrianbelen) | 2015-10-08 |
+| 25 | [62778](../reports/62778.md) | Multiple sub domain are vulnerable because of leaking full p | None | — | 2 | [digitalsurgn](https://hackerone.com/digitalsurgn) | 2015-06-25 |
 | 26 | [61371](../reports/61371.md) | leak receipt of another user | None | — | 2 | [adrianbelen](https://hackerone.com/adrianbelen) | 2015-11-13 |
 | 27 | [95640](../reports/95640.md) | Reflected XSS and/or malicious redirection via JWPlayer 6 co | None | — | 2 | [decay](https://hackerone.com/decay) | 2016-02-24 |
-| 28 | [62778](../reports/62778.md) | Multiple sub domain are vulnerable because of leaking full p | None | — | 2 | [digitalsurgn](https://hackerone.com/digitalsurgn) | 2015-06-25 |
-| 29 | [256665](../reports/256665.md) | Violation of secure design principle | None | — | 1 | [kaushalag29](https://hackerone.com/kaushalag29) | 2017-08-17 |
-| 30 | [61367](../reports/61367.md) | xss on autoserch | None | — | 1 | [adrianbelen](https://hackerone.com/adrianbelen) | 2015-07-08 |
+| 28 | [217431](../reports/217431.md) | sweet32  | None | — | 2 | [doglife](https://hackerone.com/doglife) | 2017-05-04 |
+| 29 | [257237](../reports/257237.md) | CSRF Token | None | — | 1 | [hi_man](https://hackerone.com/hi_man) | 2017-08-17 |
+| 30 | [78765](../reports/78765.md) | information disclosure | None | — | 1 | [shekhar93](https://hackerone.com/shekhar93) | 2016-02-07 |
 | 31 | [256663](../reports/256663.md) | Weak Password | None | — | 1 | [firestone](https://hackerone.com/firestone) | 2017-08-28 |
-| 32 | [216161](../reports/216161.md) | CSRF Token Design Flaw | None | — | 1 | [hdarji](https://hackerone.com/hdarji) | 2017-08-28 |
-| 33 | [257237](../reports/257237.md) | CSRF Token | None | — | 1 | [hi_man](https://hackerone.com/hi_man) | 2017-08-17 |
-| 34 | [78765](../reports/78765.md) | information disclosure | None | — | 1 | [shekhar93](https://hackerone.com/shekhar93) | 2016-02-07 |
-| 35 | [172707](../reports/172707.md) | Udemy s3 storage can be used by an attacker personal website | None | — | 1 | [csanuragjain](https://hackerone.com/csanuragjain) | 2017-01-05 |
+| 32 | [256665](../reports/256665.md) | Violation of secure design principle | None | — | 1 | [kaushalag29](https://hackerone.com/kaushalag29) | 2017-08-17 |
+| 33 | [61367](../reports/61367.md) | xss on autoserch | None | — | 1 | [adrianbelen](https://hackerone.com/adrianbelen) | 2015-07-08 |
+| 34 | [172707](../reports/172707.md) | Udemy s3 storage can be used by an attacker personal website | None | — | 1 | [csanuragjain](https://hackerone.com/csanuragjain) | 2017-01-05 |
+| 35 | [216161](../reports/216161.md) | CSRF Token Design Flaw | None | — | 1 | [hdarji](https://hackerone.com/hdarji) | 2017-08-28 |
 | 36 | [112025](../reports/112025.md) | Stored XSS | None | — | 0 | [manish121](https://hackerone.com/manish121) | 2016-02-22 |

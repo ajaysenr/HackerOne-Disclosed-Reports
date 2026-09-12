@@ -34,23 +34,23 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 28 | [363850](../reports/363850.md) | Improper Data Validation / Unvalidated Input | None | — | 8 | [g0dz](https://hackerone.com/g0dz) | 2018-07-05 |
 | 29 | [361189](../reports/361189.md) | Anyone can register organization legal type as "Soletrader" | None | — | 6 | [mister_mime](https://hackerone.com/mister_mime) | 2018-06-03 |
 | 30 | [361133](../reports/361133.md) | Able to View other users income history | None | — | 6 | [amaljacob](https://hackerone.com/amaljacob) | 2018-06-02 |
-| 31 | [360834](../reports/360834.md) | CSRF to make any user accept the invitation to the team | None | — | 5 | [albatraoz](https://hackerone.com/albatraoz) | 2018-06-02 |
-| 32 | [361337](../reports/361337.md) | Missing back-end user input validation can lead to DOS flaw | None | — | 5 | [zuh4n](https://hackerone.com/zuh4n) | 2018-06-05 |
+| 31 | [361337](../reports/361337.md) | Missing back-end user input validation can lead to DOS flaw | None | — | 5 | [zuh4n](https://hackerone.com/zuh4n) | 2018-06-05 |
+| 32 | [360834](../reports/360834.md) | CSRF to make any user accept the invitation to the team | None | — | 5 | [albatraoz](https://hackerone.com/albatraoz) | 2018-06-02 |
 | 33 | [361368](../reports/361368.md) | Insecure Account Deletion | None | — | 5 | [hack2684](https://hackerone.com/hack2684) | 2018-06-04 |
 | 34 | [361089](../reports/361089.md) | twitter api access token leaked on github  | None | — | 4 | [sonahri501](https://hackerone.com/sonahri501) | 2018-06-02 |
-| 35 | [361414](../reports/361414.md) | CSRF token manipulation in every possible form submits. NO s | None | — | 3 | [mah1ndra](https://hackerone.com/mah1ndra) | 2018-06-04 |
+| 35 | [361184](../reports/361184.md) | CSRF ON EDITING NAME (OPTIONAL) | None | — | 3 | [rootbakar___](https://hackerone.com/rootbakar___) | 2018-06-04 |
 | 36 | [361130](../reports/361130.md) | Same CSRF token is being used for deleting other platform lo | None | — | 3 | [mah1ndra](https://hackerone.com/mah1ndra) | 2018-06-04 |
 | 37 | [361106](../reports/361106.md) | Unsecure changing password | None | — | 3 | [asdfasdfasdfasdfasdfsdfsdfsdf](https://hackerone.com/asdfasdfasdfasdfasdfsdfsdfsdf) | 2018-06-02 |
-| 38 | [361184](../reports/361184.md) | CSRF ON EDITING NAME (OPTIONAL) | None | — | 3 | [rootbakar___](https://hackerone.com/rootbakar___) | 2018-06-04 |
-| 39 | [363845](../reports/363845.md) | Cross site scripting (content-sniffing) | None | — | 2 | [said778](https://hackerone.com/said778) | 2018-06-10 |
-| 40 | [361941](../reports/361941.md) | REGISTRATION USING FAKE EMAIL ACCOUNT | None | — | 2 | [rootbakar___](https://hackerone.com/rootbakar___) | 2018-06-05 |
+| 38 | [361414](../reports/361414.md) | CSRF token manipulation in every possible form submits. NO s | None | — | 3 | [mah1ndra](https://hackerone.com/mah1ndra) | 2018-06-04 |
+| 39 | [361941](../reports/361941.md) | REGISTRATION USING FAKE EMAIL ACCOUNT | None | — | 2 | [rootbakar___](https://hackerone.com/rootbakar___) | 2018-06-05 |
+| 40 | [498865](../reports/498865.md) | Session Cookie without HttpOnly and secure flag set | None | — | 2 | [doug18](https://hackerone.com/doug18) | 2019-02-21 |
 | 41 | [362601](../reports/362601.md) | A single user can subscribe a community multiple times | None | — | 2 | [mkind](https://hackerone.com/mkind) | 2018-06-07 |
-| 42 | [498865](../reports/498865.md) | Session Cookie without HttpOnly and secure flag set | None | — | 2 | [doug18](https://hackerone.com/doug18) | 2019-02-21 |
-| 43 | [363658](../reports/363658.md) | Buffer overflow | None | — | 1 | [kaushalag29](https://hackerone.com/kaushalag29) | 2018-06-10 |
-| 44 | [363863](../reports/363863.md) | No Data Validation, No Captcha, No Filters... | None | — | 1 | [g0dz](https://hackerone.com/g0dz) | 2018-06-11 |
-| 45 | [361054](../reports/361054.md) | Phishing by Navigating Browser Tabs | None | — | 1 | [4w3](https://hackerone.com/4w3) | 2018-06-04 |
-| 46 | [362033](../reports/362033.md) | Csrf token does not meet security design | None | — | 1 | [wsfengfan474](https://hackerone.com/wsfengfan474) | 2018-06-05 |
-| 47 | [363049](../reports/363049.md) | Punny code Detection Parsing should be implemented on Markdo | None | — | 1 | [kunal94](https://hackerone.com/kunal94) | 2018-06-07 |
-| 48 | [360864](../reports/360864.md) | Current CSP Policy chained with HTML Injection can lead to D | None | — | 1 | [oroborus](https://hackerone.com/oroborus) | 2018-06-04 |
-| 49 | [362718](../reports/362718.md) | Returning back from the browser after logging off will discl | None | — | 1 | [zir0x](https://hackerone.com/zir0x) | 2018-06-07 |
-| 50 | [361400](../reports/361400.md) | The csrf token remains same after user logs in | None | — | 1 | [d4w](https://hackerone.com/d4w) | 2018-06-04 |
+| 42 | [363845](../reports/363845.md) | Cross site scripting (content-sniffing) | None | — | 2 | [said778](https://hackerone.com/said778) | 2018-06-10 |
+| 43 | [360864](../reports/360864.md) | Current CSP Policy chained with HTML Injection can lead to D | None | — | 1 | [oroborus](https://hackerone.com/oroborus) | 2018-06-04 |
+| 44 | [363049](../reports/363049.md) | Punny code Detection Parsing should be implemented on Markdo | None | — | 1 | [kunal94](https://hackerone.com/kunal94) | 2018-06-07 |
+| 45 | [362718](../reports/362718.md) | Returning back from the browser after logging off will discl | None | — | 1 | [zir0x](https://hackerone.com/zir0x) | 2018-06-07 |
+| 46 | [361400](../reports/361400.md) | The csrf token remains same after user logs in | None | — | 1 | [d4w](https://hackerone.com/d4w) | 2018-06-04 |
+| 47 | [363863](../reports/363863.md) | No Data Validation, No Captcha, No Filters... | None | — | 1 | [g0dz](https://hackerone.com/g0dz) | 2018-06-11 |
+| 48 | [363658](../reports/363658.md) | Buffer overflow | None | — | 1 | [kaushalag29](https://hackerone.com/kaushalag29) | 2018-06-10 |
+| 49 | [361054](../reports/361054.md) | Phishing by Navigating Browser Tabs | None | — | 1 | [4w3](https://hackerone.com/4w3) | 2018-06-04 |
+| 50 | [362033](../reports/362033.md) | Csrf token does not meet security design | None | — | 1 | [wsfengfan474](https://hackerone.com/wsfengfan474) | 2018-06-05 |

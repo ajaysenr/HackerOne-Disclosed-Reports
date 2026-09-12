@@ -38,12 +38,12 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 32 | [1058383](../reports/1058383.md) | DoS of LINE client for Android via message containing multip | Medium — CVSS 4.3 | — | 23 | [alderson-chiu](https://hackerone.com/alderson-chiu) | 2021-09-24 |
 | 33 | [975428](../reports/975428.md) | Use of unreleased features in programming education service  | Medium — CVSS 4.3 | — | 21 | [tosun](https://hackerone.com/tosun) | 2022-04-18 |
 | 34 | [1290170](../reports/1290170.md) | Access to images and videos in drafts on LINE BLOG | Medium | — | 19 | [akichia](https://hackerone.com/akichia) | 2021-12-27 |
-| 35 | [952095](../reports/952095.md) | Deleting someone else's profile image with a GraphQL query i | Medium — CVSS 4.3 | — | 15 | [tosun](https://hackerone.com/tosun) | 2022-04-18 |
-| 36 | [860939](../reports/860939.md) | SSRF restricted to HTTP/HTML on LINE Social Plugins (https:/ | Medium | — | 15 | [duahaubadao](https://hackerone.com/duahaubadao) | 2022-04-18 |
+| 35 | [860939](../reports/860939.md) | SSRF restricted to HTTP/HTML on LINE Social Plugins (https:/ | Medium | — | 15 | [duahaubadao](https://hackerone.com/duahaubadao) | 2022-04-18 |
+| 36 | [952095](../reports/952095.md) | Deleting someone else's profile image with a GraphQL query i | Medium — CVSS 4.3 | — | 15 | [tosun](https://hackerone.com/tosun) | 2022-04-18 |
 | 37 | [1094702](../reports/1094702.md) | Theft of arbitrary files in LINE Lite client for Android | Medium — CVSS 4.3 | — | 12 | [hulkvision_](https://hackerone.com/hulkvision_) | 2021-07-06 |
 | 38 | [1082991](../reports/1082991.md) | Webview address bar spoofing in LINE client for iOS | Low | — | 36 | [reinforchu](https://hackerone.com/reinforchu) | 2021-09-15 |
-| 39 | [986679](../reports/986679.md) | Debugging panel exposure | Low | — | 29 | [tosun](https://hackerone.com/tosun) | 2023-03-28 |
-| 40 | [1305432](../reports/1305432.md) | Bot setting information leakage in OpenChat room | Low | — | 29 | [akichia](https://hackerone.com/akichia) | 2021-12-27 |
+| 39 | [1305432](../reports/1305432.md) | Bot setting information leakage in OpenChat room | Low | — | 29 | [akichia](https://hackerone.com/akichia) | 2021-12-27 |
+| 40 | [986679](../reports/986679.md) | Debugging panel exposure | Low | — | 29 | [tosun](https://hackerone.com/tosun) | 2023-03-28 |
 | 41 | [2403554](../reports/2403554.md) | XSS on LINE CAREERS | Low | — | 26 | [nightm4re](https://hackerone.com/nightm4re) | 2024-07-10 |
 | 42 | [988877](../reports/988877.md) | Path traversal in a Tomcat server | None | — | 36 | [tosun](https://hackerone.com/tosun) | 2023-03-28 |
 | 43 | [968742](../reports/968742.md) | Password reset by malicious input on air.line.me | None | — | 23 | [tosun](https://hackerone.com/tosun) | 2021-12-27 |

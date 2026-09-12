@@ -19,8 +19,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 13 | [1717210](../reports/1717210.md) | Exposure of service tokens to webpack bundle | High | — | 55 | [a_d_a_m](https://hackerone.com/a_d_a_m) | 2024-03-08 |
 | 14 | [294201](../reports/294201.md) | subdomain takeover at news-static.semrush.com | High | — | 39 | [0ways](https://hackerone.com/0ways) | 2018-01-10 |
 | 15 | [319480](../reports/319480.md) | Broken Authentication: A project addition request can be use | High | — | 5 | [walterhwhite](https://hackerone.com/walterhwhite) | 2018-03-13 |
-| 16 | [288912](../reports/288912.md) | Cross-origin resource sharing | High | — | 4 | [sureshbudharapu](https://hackerone.com/sureshbudharapu) | 2018-01-11 |
-| 17 | [284963](../reports/284963.md) | Insecure Direct Object Reference on API without API key | High | — | 4 | [scraps](https://hackerone.com/scraps) | 2018-03-13 |
+| 16 | [284963](../reports/284963.md) | Insecure Direct Object Reference on API without API key | High | — | 4 | [scraps](https://hackerone.com/scraps) | 2018-03-13 |
+| 17 | [288912](../reports/288912.md) | Cross-origin resource sharing | High | — | 4 | [sureshbudharapu](https://hackerone.com/sureshbudharapu) | 2018-01-11 |
 | 18 | [861940](../reports/861940.md) | OAuth `redirect_uri` bypass using IDN homograph attack resul | Medium — CVSS 6.4 | — | 260 | [yassineaboukir](https://hackerone.com/yassineaboukir) | 2020-06-18 |
 | 19 | [748903](../reports/748903.md) | Unrestricted file upload in www.semrush.com > /my_reports/ap | Medium | — | 131 | [seeu](https://hackerone.com/seeu) | 2020-01-10 |
 | 20 | [643622](../reports/643622.md) | SSRF In Get Video Contents | Medium | — | 124 | [egoist233](https://hackerone.com/egoist233) | 2019-08-19 |
@@ -36,8 +36,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 30 | [723707](../reports/723707.md) | Code injection in https://www.semrush.com | Medium | — | 22 | [dangkhai0x21](https://hackerone.com/dangkhai0x21) | 2019-11-01 |
 | 31 | [382667](../reports/382667.md) | Improper authentication on registration | Medium | — | 7 | [lezibintlgent](https://hackerone.com/lezibintlgent) | 2018-08-24 |
 | 32 | [459532](../reports/459532.md) | Persistent CSV injection | Medium | — | 4 | [8r33](https://hackerone.com/8r33) | 2019-01-11 |
-| 33 | [285482](../reports/285482.md) | Security misconfiguration "weak passwords". | Medium | — | 1 | [whitehatmmalam](https://hackerone.com/whitehatmmalam) | 2018-03-13 |
-| 34 | [276614](../reports/276614.md) | Email Spoofing | Medium | — | 1 | [protector47](https://hackerone.com/protector47) | 2018-03-13 |
+| 33 | [276614](../reports/276614.md) | Email Spoofing | Medium | — | 1 | [protector47](https://hackerone.com/protector47) | 2018-03-13 |
+| 34 | [285482](../reports/285482.md) | Security misconfiguration "weak passwords". | Medium | — | 1 | [whitehatmmalam](https://hackerone.com/whitehatmmalam) | 2018-03-13 |
 | 35 | [769058](../reports/769058.md) | CORS misconfiguration which leads to the disclosure of certa | Low | — | 45 | [a_d_a_m](https://hackerone.com/a_d_a_m) | 2020-02-15 |
 | 36 | [342693](../reports/342693.md) | Password reset token leakage via referer | Low | — | 34 | [mansishah](https://hackerone.com/mansishah) | 2018-08-14 |
 | 37 | [327671](../reports/327671.md) | Error Page Content Spoofing or Text Injection  | Low | — | 33 | [asad_anwar](https://hackerone.com/asad_anwar) | 2018-06-29 |
@@ -49,9 +49,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 43 | [316319](../reports/316319.md) | XSS on redirection page( Bypassed)  | Low | — | 15 | [kunal94](https://hackerone.com/kunal94) | 2018-06-13 |
 | 44 | [1358249](../reports/1358249.md) | php info file and sql backup at vendor's subdomain | Low | — | 14 | [rivalsec](https://hackerone.com/rivalsec) | 2021-12-08 |
 | 45 | [459286](../reports/459286.md) | protocol & Ports are not shown in third-party site redirect  | Low | — | 13 | [0xprial](https://hackerone.com/0xprial) | 2019-01-11 |
-| 46 | [375352](../reports/375352.md) | Post Based XSS On Upload Via CK Editor [semrush.com] | Low — CVSS 3.5 | — | 12 | [apapedulimu](https://hackerone.com/apapedulimu) | 2018-08-17 |
-| 47 | [289246](../reports/289246.md) | Following links are vulnerable to clickjacking | Low | — | 12 | [karma1](https://hackerone.com/karma1) | 2018-01-11 |
-| 48 | [786238](../reports/786238.md) | Reflected XSS on https://www.semrush.com/my_reports/external | Low | — | 12 | [sec44](https://hackerone.com/sec44) | 2020-04-02 |
+| 46 | [786238](../reports/786238.md) | Reflected XSS on https://www.semrush.com/my_reports/external | Low | — | 12 | [sec44](https://hackerone.com/sec44) | 2020-04-02 |
+| 47 | [375352](../reports/375352.md) | Post Based XSS On Upload Via CK Editor [semrush.com] | Low — CVSS 3.5 | — | 12 | [apapedulimu](https://hackerone.com/apapedulimu) | 2018-08-17 |
+| 48 | [289246](../reports/289246.md) | Following links are vulnerable to clickjacking | Low | — | 12 | [karma1](https://hackerone.com/karma1) | 2018-01-11 |
 | 49 | [299009](../reports/299009.md) | Single Sing On - Clickjacking | Low | — | 11 | [r0p3](https://hackerone.com/r0p3) | 2018-02-21 |
 | 50 | [439021](../reports/439021.md) | Web cache deception attack - expose earning state informatio | Low — CVSS 3.1 | — | 10 | [memon](https://hackerone.com/memon) | 2019-04-12 |
 | 51 | [311805](../reports/311805.md) | Cross-origin resource sharing misconfig  | Low | — | 6 | [asad_anwar](https://hackerone.com/asad_anwar) | 2018-03-13 |

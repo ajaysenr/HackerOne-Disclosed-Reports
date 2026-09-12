@@ -36,8 +36,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 30 | [1525309](../reports/1525309.md) | A malicious actor could rotate tokens of a victim, given tha | High | — | 34 | [esx](https://hackerone.com/esx) | 2023-04-13 |
 | 31 | [2086301](../reports/2086301.md) | Permanent CASB Integration Takeover due to Improper Access C | High — CVSS 7.9 | — | 11 | [matured_kazama](https://hackerone.com/matured_kazama) | 2023-09-18 |
 | 32 | [1570874](../reports/1570874.md) | Arbitrary file read from Cloudflare Pages build environment | Medium | — | 40 | [ryotak](https://hackerone.com/ryotak) | 2024-02-23 |
-| 33 | [1543259](../reports/1543259.md) | Signup with any Email and Enable 2-FA without verifying Emai | Medium | — | 39 | [imtheking](https://hackerone.com/imtheking) | 2022-09-12 |
-| 34 | [1618021](../reports/1618021.md) | Enable 2Fa verification without verifying email | Medium — CVSS 4.2 | — | 39 | [motu-vai](https://hackerone.com/motu-vai) | 2022-08-31 |
+| 33 | [1618021](../reports/1618021.md) | Enable 2Fa verification without verifying email | Medium — CVSS 4.2 | — | 39 | [motu-vai](https://hackerone.com/motu-vai) | 2022-08-31 |
+| 34 | [1543259](../reports/1543259.md) | Signup with any Email and Enable 2-FA without verifying Emai | Medium | — | 39 | [imtheking](https://hackerone.com/imtheking) | 2022-09-12 |
 | 35 | [1391635](../reports/1391635.md) | Bypassing Cache Deception Armor using .avif extension file | Medium — CVSS 6.5 | — | 36 | [bombon](https://hackerone.com/bombon) | 2022-06-27 |
 | 36 | [1728292](../reports/1728292.md) | Cloudflare is not properly deleting user's account | Medium | — | 23 | [csc_](https://hackerone.com/csc_) | 2023-04-13 |
 | 37 | [1803659](../reports/1803659.md) | Origin IP address disclosure through Pingora response header | Medium — CVSS 6.1 | — | 21 | [smither](https://hackerone.com/smither) | 2023-01-10 |

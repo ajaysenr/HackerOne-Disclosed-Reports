@@ -20,10 +20,10 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 14 | [866576](../reports/866576.md) | Reflected XSS on https://apps.topcoder.com/wiki/pages/create | Medium — CVSS 5.4 | — | 6 | [meryem0x](https://hackerone.com/meryem0x) | 2020-05-12 |
 | 15 | [868572](../reports/868572.md) | CSRF on https://apps.topcoder.com/wiki/users/editmyprofilepi | Medium — CVSS 6.3 | — | 5 | [meryem0x](https://hackerone.com/meryem0x) | 2020-12-14 |
 | 16 | [868561](../reports/868561.md) | CSRF on https://apps.topcoder.com/wiki/users/editmyprofile.a | Medium — CVSS 6.3 | — | 4 | [meryem0x](https://hackerone.com/meryem0x) | 2020-05-12 |
-| 17 | [868583](../reports/868583.md) | CSRF on https://apps.topcoder.com/wiki/users general and ema | Medium — CVSS 6.3 | — | 4 | [meryem0x](https://hackerone.com/meryem0x) | 2020-05-12 |
-| 18 | [866829](../reports/866829.md) | Reflected XSS on https://apps.topcoder.com/wiki/plugins/soci | Medium — CVSS 4.6 | — | 4 | [meryem0x](https://hackerone.com/meryem0x) | 2020-05-12 |
+| 17 | [866829](../reports/866829.md) | Reflected XSS on https://apps.topcoder.com/wiki/plugins/soci | Medium — CVSS 4.6 | — | 4 | [meryem0x](https://hackerone.com/meryem0x) | 2020-05-12 |
+| 18 | [868583](../reports/868583.md) | CSRF on https://apps.topcoder.com/wiki/users general and ema | Medium — CVSS 6.3 | — | 4 | [meryem0x](https://hackerone.com/meryem0x) | 2020-05-12 |
 | 19 | [866861](../reports/866861.md) | Reflected XSS on error page on https://apps.topcoder.com/wik | Medium | — | 3 | [meryem0x](https://hackerone.com/meryem0x) | 2020-05-12 |
-| 20 | [866837](../reports/866837.md) | Post Based Reflected XSS on https://apps.topcoder.com/wiki/p | Medium | — | 3 | [meryem0x](https://hackerone.com/meryem0x) | 2020-05-12 |
-| 21 | [866844](../reports/866844.md) | CSRF on https://apps.topcoder.com/wiki/plugins/socialbookmar | Medium — CVSS 4.3 | — | 3 | [meryem0x](https://hackerone.com/meryem0x) | 2020-05-12 |
+| 20 | [866844](../reports/866844.md) | CSRF on https://apps.topcoder.com/wiki/plugins/socialbookmar | Medium — CVSS 4.3 | — | 3 | [meryem0x](https://hackerone.com/meryem0x) | 2020-05-12 |
+| 21 | [866837](../reports/866837.md) | Post Based Reflected XSS on https://apps.topcoder.com/wiki/p | Medium | — | 3 | [meryem0x](https://hackerone.com/meryem0x) | 2020-05-12 |
 | 22 | [1194301](../reports/1194301.md) | Reflected XSS in https://www.topcoder.com/blog/category/comm | Low — CVSS 3.4 | — | 22 | [c0mbo](https://hackerone.com/c0mbo) | 2021-07-12 |
 | 23 | [845832](../reports/845832.md) | SVG file upload leads to XML injection | Low | — | 14 | [tushr](https://hackerone.com/tushr) | 2020-08-14 |

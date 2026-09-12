@@ -12,6 +12,6 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 6 | [835302](../reports/835302.md) | [www.drive2.ru] Insufficient Security Configurability - The  | Low | — | 30 | [what_web](https://hackerone.com/what_web) | 2020-10-23 |
 | 7 | [835647](../reports/835647.md) | [www.drive2.ru] Insufficient Security Configurability - Noti | Low | — | 27 | [what_web](https://hackerone.com/what_web) | 2020-10-23 |
 | 8 | [775560](../reports/775560.md) | Testing for arbitrary HTTP methods | Low | — | 16 | [sandesh_shinde](https://hackerone.com/sandesh_shinde) | 2020-07-06 |
-| 9 | [1006691](../reports/1006691.md) | [www.drive2.ru]  Insufficient Security Configurability - Not | Low | — | 16 | [what_web](https://hackerone.com/what_web) | 2020-10-23 |
-| 10 | [835138](../reports/835138.md) | [www.drive2.ru] Insufficient Security Configurability - Emai | Low | — | 16 | [what_web](https://hackerone.com/what_web) | 2020-10-22 |
+| 9 | [835138](../reports/835138.md) | [www.drive2.ru] Insufficient Security Configurability - Emai | Low | — | 16 | [what_web](https://hackerone.com/what_web) | 2020-10-22 |
+| 10 | [1006691](../reports/1006691.md) | [www.drive2.ru]  Insufficient Security Configurability - Not | Low | — | 16 | [what_web](https://hackerone.com/what_web) | 2020-10-23 |
 | 11 | [1006677](../reports/1006677.md) | [www.drive2.ru] Insufficient Session Expiration - Previously | Low | — | 11 | [what_web](https://hackerone.com/what_web) | 2021-05-29 |

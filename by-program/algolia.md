@@ -16,8 +16,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 10 | [128777](../reports/128777.md) | No rate-limit in Two factor Authentication leads to bypass u | None | $100 | 6 | [bugs3ra](https://hackerone.com/bugs3ra) | 2016-06-01 |
 | 11 | [102755](../reports/102755.md) | Stored XSS in name selection | None | $100 | 6 | [daveysec](https://hackerone.com/daveysec) | 2016-06-18 |
 | 12 | [151868](../reports/151868.md) | No Rate Limit In Inviting Similar Contact Multiple Times | None | $100 | 6 | [rajauzairabdullah](https://hackerone.com/rajauzairabdullah) | 2016-09-07 |
-| 13 | [99368](../reports/99368.md) | an xss issue | None | $100 | 2 | [securitythinker](https://hackerone.com/securitythinker) | 2016-05-22 |
-| 14 | [106348](../reports/106348.md) | text injection can be used in phishing 404 page should not i | None | $100 | 2 | [djamel-ghorab](https://hackerone.com/djamel-ghorab) | 2016-05-09 |
+| 13 | [106348](../reports/106348.md) | text injection can be used in phishing 404 page should not i | None | $100 | 2 | [djamel-ghorab](https://hackerone.com/djamel-ghorab) | 2016-05-09 |
+| 14 | [99368](../reports/99368.md) | an xss issue | None | $100 | 2 | [securitythinker](https://hackerone.com/securitythinker) | 2016-05-22 |
 | 15 | [739251](../reports/739251.md) | Information disclosure via a misconfigured third-party produ | High | — | 156 | [h4x0r_dz](https://hackerone.com/h4x0r_dz) | 2021-03-03 |
 | 16 | [220494](../reports/220494.md) | [GitHub Extension] Unsanitised HTML leading to XSS on GitHub | High | — | 26 | [ysx](https://hackerone.com/ysx) | 2017-04-24 |
 | 17 | [1276373](../reports/1276373.md) | Information disclosure -> 2fa bypass -> POST exploitation  | Medium | — | 75 | [akashhamal0x01](https://hackerone.com/akashhamal0x01) | 2021-09-08 |

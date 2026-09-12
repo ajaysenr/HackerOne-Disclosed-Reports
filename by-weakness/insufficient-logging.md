@@ -20,9 +20,9 @@
 | 14 | [3419587](../reports/3419587.md) | AWS Auto Scaling Service Reporting "AWS Internal" for CloudTrail  | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 23 |
 | 15 | [2972435](../reports/2972435.md) | Non-Production API Endpoints for the cloudwatch Service Fail to L | [AWS VDP](../by-program/aws_vdp.md) | Medium — CVSS 5.0 | — | 23 |
 | 16 | [3042588](../reports/3042588.md) | Non-Production API Endpoints for the Health Service Fail to Log t | [AWS VDP](../by-program/aws_vdp.md) | Medium — CVSS 5.0 | — | 21 |
-| 17 | [3031512](../reports/3031512.md) | Non-Production API Endpoints for the Glue Service Fail to Log to  | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 18 |
-| 18 | [3072841](../reports/3072841.md) | Amazon Pinpoint SMS and Voice, version 2  Service Reporting "AWS  | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 18 |
-| 19 | [3418966](../reports/3418966.md) | Non-Production API Endpoints for the AI Ops Service Fails to Log  | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 18 |
+| 17 | [3418966](../reports/3418966.md) | Non-Production API Endpoints for the AI Ops Service Fails to Log  | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 18 |
+| 18 | [3031512](../reports/3031512.md) | Non-Production API Endpoints for the Glue Service Fail to Log to  | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 18 |
+| 19 | [3072841](../reports/3072841.md) | Amazon Pinpoint SMS and Voice, version 2  Service Reporting "AWS  | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 18 |
 | 20 | [3068422](../reports/3068422.md) | Non-Production API Endpoints for the Neptune Graph Service Fail t | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 17 |
 | 21 | [3044471](../reports/3044471.md) | Amazon Kendra Intelligent Ranking Service Reporting "AWS Internal | [AWS VDP](../by-program/aws_vdp.md) | Medium — CVSS 5.0 | — | 16 |
 | 22 | [3092085](../reports/3092085.md) | Non-Production API Endpoints for the Route 53 Service Fail to Log | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 14 |

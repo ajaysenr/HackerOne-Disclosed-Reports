@@ -15,8 +15,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 9 | [117739](../reports/117739.md) | limit number of images in statement | Medium | $1 | 2 | [hogarth45](https://hackerone.com/hogarth45) | 2017-06-16 |
 | 10 | [156542](../reports/156542.md) | Avoid "resend verification email" confusion | Low | $1 | 7 | [s_p_q_r](https://hackerone.com/s_p_q_r) | 2017-03-20 |
 | 11 | [123742](../reports/123742.md) | suppress version in Server header on gratipay.com or grtp.co | Low | $1 | 6 | [caffeine](https://hackerone.com/caffeine) | 2016-07-14 |
-| 12 | [154921](../reports/154921.md) | Content Spoofing/Text Injection  | Low | $1 | 5 | [ahsan](https://hackerone.com/ahsan) | 2016-08-07 |
-| 13 | [120026](../reports/120026.md) | don't serve hidden files from Nginx | Low | $1 | 5 | [jsshen](https://hackerone.com/jsshen) | 2016-07-13 |
+| 12 | [120026](../reports/120026.md) | don't serve hidden files from Nginx | Low | $1 | 5 | [jsshen](https://hackerone.com/jsshen) | 2016-07-13 |
+| 13 | [154921](../reports/154921.md) | Content Spoofing/Text Injection  | Low | $1 | 5 | [ahsan](https://hackerone.com/ahsan) | 2016-08-07 |
 | 14 | [117330](../reports/117330.md) | stop serving grtp.co over HTTP | Low | $1 | 3 | [secbughunter](https://hackerone.com/secbughunter) | 2016-07-15 |
 | 15 | [131065](../reports/131065.md) | bring grtp.co up to A grade on SSLLabs | Low | $1 | 2 | [mmyamin](https://hackerone.com/mmyamin) | 2016-08-13 |
 | 16 | [247700](../reports/247700.md) | Application-level DoS on image's "size" parameter. | High — CVSS 7.5 | — | 15 | [edoverflow](https://hackerone.com/edoverflow) | 2017-11-02 |
@@ -31,15 +31,15 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 25 | [111078](../reports/111078.md) | Sub Domain Take over | Medium | — | 9 | [ketan_patil](https://hackerone.com/ketan_patil) | 2016-02-28 |
 | 26 | [109161](../reports/109161.md) | protect against tabnabbing in statement | Medium | — | 8 | [atom](https://hackerone.com/atom) | 2017-10-01 |
 | 27 | [219323](../reports/219323.md) | CSV injection in gratipay.com via payment history export fea | Medium — CVSS 6.5 | — | 8 | [edoverflow](https://hackerone.com/edoverflow) | 2017-11-03 |
-| 28 | [203384](../reports/203384.md) | HTTP trace method is enabled on gip.rocks | Medium — CVSS 5.3 | — | 5 | [a0xnirudh](https://hackerone.com/a0xnirudh) | 2017-04-08 |
+| 28 | [117187](../reports/117187.md) | Prevent content spoofing on /~username/emails/verify.html | Medium | — | 5 | [ishahriyar](https://hackerone.com/ishahriyar) | 2017-06-16 |
 | 29 | [108645](../reports/108645.md) | Harden resend throttling | Medium | — | 5 | [whit537](https://hackerone.com/whit537) | 2017-04-16 |
-| 30 | [117187](../reports/117187.md) | Prevent content spoofing on /~username/emails/verify.html | Medium | — | 5 | [ishahriyar](https://hackerone.com/ishahriyar) | 2017-06-16 |
+| 30 | [203384](../reports/203384.md) | HTTP trace method is enabled on gip.rocks | Medium — CVSS 5.3 | — | 5 | [a0xnirudh](https://hackerone.com/a0xnirudh) | 2017-04-08 |
 | 31 | [117159](../reports/117159.md) | SPF/DKIM/DMARC for aspen.io | Medium | — | 4 | [nullboy](https://hackerone.com/nullboy) | 2016-03-19 |
 | 32 | [190015](../reports/190015.md) | Certificate signed using SHA-1 | Medium | — | 3 | [lulliii](https://hackerone.com/lulliii) | 2016-12-29 |
-| 33 | [84287](../reports/84287.md) | DKIM records not present, Email Hijacking is possible | Medium | — | 2 | [ashesh](https://hackerone.com/ashesh) | 2015-09-23 |
-| 34 | [117149](../reports/117149.md) | SPF/DKIM/DMARC for grtp.co | Medium | — | 2 | [kiraak-boy](https://hackerone.com/kiraak-boy) | 2016-02-18 |
-| 35 | [209821](../reports/209821.md) | URL Given leading to end users ending up in malicious sites | Medium | — | 2 | [ant_pyne](https://hackerone.com/ant_pyne) | 2017-03-01 |
-| 36 | [76307](../reports/76307.md) | Self XSS Protection not used , I can trick users to insert J | Medium | — | 2 | [ashesh](https://hackerone.com/ashesh) | 2015-09-11 |
+| 33 | [76307](../reports/76307.md) | Self XSS Protection not used , I can trick users to insert J | Medium | — | 2 | [ashesh](https://hackerone.com/ashesh) | 2015-09-11 |
+| 34 | [209821](../reports/209821.md) | URL Given leading to end users ending up in malicious sites | Medium | — | 2 | [ant_pyne](https://hackerone.com/ant_pyne) | 2017-03-01 |
+| 35 | [84287](../reports/84287.md) | DKIM records not present, Email Hijacking is possible | Medium | — | 2 | [ashesh](https://hackerone.com/ashesh) | 2015-09-23 |
+| 36 | [117149](../reports/117149.md) | SPF/DKIM/DMARC for grtp.co | Medium | — | 2 | [kiraak-boy](https://hackerone.com/kiraak-boy) | 2016-02-18 |
 | 37 | [115275](../reports/115275.md) | SPF DNS Record  | Medium | — | 1 | [1shahzaib1](https://hackerone.com/1shahzaib1) | 2016-03-15 |
 | 38 | [242622](../reports/242622.md) | Possible User Session Hijack using Invalid HTTPS certificate | Medium | — | 1 | [mr_unknown](https://hackerone.com/mr_unknown) | 2017-06-24 |
 | 39 | [115284](../reports/115284.md) | prevent content spoofing on /search | Medium | — | 1 | [1shahzaib1](https://hackerone.com/1shahzaib1) | 2016-04-06 |
@@ -50,92 +50,92 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 44 | [185833](../reports/185833.md) | Incomplete or No Cache-control and Pragma HTTP Header Set | Low | — | 6 | [lulliii](https://hackerone.com/lulliii) | 2017-03-17 |
 | 45 | [76303](../reports/76303.md) | weak ssl cipher suites | Low | — | 5 | [hammad](https://hackerone.com/hammad) | 2015-09-13 |
 | 46 | [123897](../reports/123897.md) | auto-logout after 20 minutes | Low | — | 4 | [trabajoduro](https://hackerone.com/trabajoduro) | 2016-08-23 |
-| 47 | [117458](../reports/117458.md) | strengthen Diffie-Hellman (DH) key exchange parameters in gr | Low | — | 4 | [ashish_r_padelkar](https://hackerone.com/ashish_r_padelkar) | 2016-07-14 |
-| 48 | [185835](../reports/185835.md) | Secure Pages Include Mixed Content | Low | — | 4 | [lulliii](https://hackerone.com/lulliii) | 2016-12-29 |
-| 49 | [109054](../reports/109054.md) | HTTP trace method is enabled | Low | — | 4 | [a0xnirudh](https://hackerone.com/a0xnirudh) | 2016-02-17 |
-| 50 | [117142](../reports/117142.md) | limit HTTP methods on other domains | Low | — | 4 | [jackds](https://hackerone.com/jackds) | 2016-07-19 |
-| 51 | [124976](../reports/124976.md) | Hijacking user session by forcing the use of  invalid HTTPs  | Low | — | 4 | [ashesh](https://hackerone.com/ashesh) | 2016-04-01 |
+| 47 | [109054](../reports/109054.md) | HTTP trace method is enabled | Low | — | 4 | [a0xnirudh](https://hackerone.com/a0xnirudh) | 2016-02-17 |
+| 48 | [117458](../reports/117458.md) | strengthen Diffie-Hellman (DH) key exchange parameters in gr | Low | — | 4 | [ashish_r_padelkar](https://hackerone.com/ashish_r_padelkar) | 2016-07-14 |
+| 49 | [117142](../reports/117142.md) | limit HTTP methods on other domains | Low | — | 4 | [jackds](https://hackerone.com/jackds) | 2016-07-19 |
+| 50 | [124976](../reports/124976.md) | Hijacking user session by forcing the use of  invalid HTTPs  | Low | — | 4 | [ashesh](https://hackerone.com/ashesh) | 2016-04-01 |
+| 51 | [185835](../reports/185835.md) | Secure Pages Include Mixed Content | Low | — | 4 | [lulliii](https://hackerone.com/lulliii) | 2016-12-29 |
 | 52 | [116360](../reports/116360.md) | The POODLE attack (SSLv3 supported) for https://grtp.co/ | Low | — | 3 | [anonymous_ftpuser](https://hackerone.com/anonymous_ftpuser) | 2016-03-16 |
 | 53 | [81701](../reports/81701.md) | Possible SQL injection on "Jump to twitter" | Low | — | 2 | [deleted](https://hackerone.com/deleted) | 2016-03-21 |
-| 54 | [123849](../reports/123849.md) | Cookie Does Not Contain The "secure" Attribute | Low | — | 1 | [staytuned](https://hackerone.com/staytuned) | 2016-04-02 |
-| 55 | [241892](../reports/241892.md) | Possible user session hijack by invalid HTTPS certificate on | Low | — | 1 | [b3nac](https://hackerone.com/b3nac) | 2017-06-21 |
-| 56 | [136720](../reports/136720.md) | don't leak server version of grtp.co in error pages | Low | — | 1 | [dotnick](https://hackerone.com/dotnick) | 2016-07-14 |
-| 57 | [231510](../reports/231510.md) | Gratipay Website CSP "script-scr" includes "unsafe-inline" | Low | — | 1 | [smziaurrashid](https://hackerone.com/smziaurrashid) | 2017-05-25 |
+| 54 | [231510](../reports/231510.md) | Gratipay Website CSP "script-scr" includes "unsafe-inline" | Low | — | 1 | [smziaurrashid](https://hackerone.com/smziaurrashid) | 2017-05-25 |
+| 55 | [123849](../reports/123849.md) | Cookie Does Not Contain The "secure" Attribute | Low | — | 1 | [staytuned](https://hackerone.com/staytuned) | 2016-04-02 |
+| 56 | [241892](../reports/241892.md) | Possible user session hijack by invalid HTTPS certificate on | Low | — | 1 | [b3nac](https://hackerone.com/b3nac) | 2017-06-21 |
+| 57 | [136720](../reports/136720.md) | don't leak server version of grtp.co in error pages | Low | — | 1 | [dotnick](https://hackerone.com/dotnick) | 2016-07-14 |
 | 58 | [245762](../reports/245762.md) | self cross site scripting | Low | — | 0 | [tanvi07](https://hackerone.com/tanvi07) | 2017-07-10 |
 | 59 | [244070](../reports/244070.md) | SSl Weak Ciphers | Low | — | 0 | [mkd1r](https://hackerone.com/mkd1r) | 2017-07-10 |
 | 60 | [286728](../reports/286728.md) | Saying goodbye to HackerOne and Gratipay. | None | — | 95 | [edoverflow](https://hackerone.com/edoverflow) | 2017-11-02 |
 | 61 | [284807](../reports/284807.md) | i am The bug | None | — | 23 | [b6d1c05a07d5e281f83043b](https://hackerone.com/b6d1c05a07d5e281f83043b) | 2017-10-31 |
 | 62 | [221133](../reports/221133.md) | Sub Domain Takeover | None | — | 16 | [b3nac](https://hackerone.com/b3nac) | 2017-10-24 |
 | 63 | [248037](../reports/248037.md) | SQL TEST | None | — | 14 | [lozsec](https://hackerone.com/lozsec) | 2017-07-11 |
-| 64 | [149710](../reports/149710.md) | don't leak Server version for assets.gratipay.com | None | — | 12 | [japz](https://hackerone.com/japz) | 2016-07-11 |
-| 65 | [151831](../reports/151831.md) | User Supplied links on profile page is not validated and red | None | — | 12 | [roshanpty](https://hackerone.com/roshanpty) | 2016-07-24 |
+| 64 | [151831](../reports/151831.md) | User Supplied links on profile page is not validated and red | None | — | 12 | [roshanpty](https://hackerone.com/roshanpty) | 2016-07-24 |
+| 65 | [149710](../reports/149710.md) | don't leak Server version for assets.gratipay.com | None | — | 12 | [japz](https://hackerone.com/japz) | 2016-07-11 |
 | 66 | [284811](../reports/284811.md) | Reflected SQL Execution | None | — | 11 | [thebugguy](https://hackerone.com/thebugguy) | 2017-10-31 |
 | 67 | [157465](../reports/157465.md) | Host Header Injection/Redirection Attack | None | — | 9 | [footstep](https://hackerone.com/footstep) | 2016-08-07 |
 | 68 | [193556](../reports/193556.md) | Session Fixation At Logout /Session Misconfiguration | None | — | 8 | [aa23](https://hackerone.com/aa23) | 2016-12-29 |
-| 69 | [163904](../reports/163904.md) | Username can be used to trick the victim on the name of www. | None | — | 5 | [akash_9021](https://hackerone.com/akash_9021) | 2016-12-30 |
-| 70 | [261706](../reports/261706.md) | Missing Certificate Authority Authorization rule | None | — | 5 | [theendisnear](https://hackerone.com/theendisnear) | 2017-09-09 |
-| 71 | [267189](../reports/267189.md) | clickjacking on https://gratipay.com/on/npm/[text] | None | — | 5 | [nihaddl](https://hackerone.com/nihaddl) | 2017-09-09 |
+| 69 | [267189](../reports/267189.md) | clickjacking on https://gratipay.com/on/npm/[text] | None | — | 5 | [nihaddl](https://hackerone.com/nihaddl) | 2017-09-09 |
+| 70 | [190373](../reports/190373.md) | Gratipay uses the random module's cryptographically insecure | None | — | 5 | [edoverflow](https://hackerone.com/edoverflow) | 2016-12-12 |
+| 71 | [163904](../reports/163904.md) | Username can be used to trick the victim on the name of www. | None | — | 5 | [akash_9021](https://hackerone.com/akash_9021) | 2016-12-30 |
 | 72 | [162120](../reports/162120.md) | Cross Site Scripting In Profile Statement  | None | — | 5 | [muhaddix](https://hackerone.com/muhaddix) | 2016-08-23 |
-| 73 | [190373](../reports/190373.md) | Gratipay uses the random module's cryptographically insecure | None | — | 5 | [edoverflow](https://hackerone.com/edoverflow) | 2016-12-12 |
-| 74 | [163949](../reports/163949.md) | Username Restriction is not applied for reserved folders | None | — | 4 | [akash_9021](https://hackerone.com/akash_9021) | 2016-12-30 |
-| 75 | [161918](../reports/161918.md) | Reset Link Issue | None | — | 4 | [i1ackerone](https://hackerone.com/i1ackerone) | 2016-08-30 |
-| 76 | [150917](../reports/150917.md) | prevent null bytes in email field | None | — | 4 | [thezawad](https://hackerone.com/thezawad) | 2016-07-13 |
-| 77 | [117195](../reports/117195.md) | Login csrf. | None | — | 4 | [diffender23](https://hackerone.com/diffender23) | 2017-08-21 |
-| 78 | [190194](../reports/190194.md) | Cookie HttpOnly Flag Not Set  | None | — | 4 | [lulliii](https://hackerone.com/lulliii) | 2016-12-29 |
-| 79 | [157507](../reports/157507.md) | nginx version disclosure on downloads.gratipay.com | None | — | 4 | [footstep](https://hackerone.com/footstep) | 2017-05-18 |
-| 80 | [151295](../reports/151295.md) | don't allow directory browsing on grtp.co | None | — | 4 | [zuh4n](https://hackerone.com/zuh4n) | 2016-07-14 |
-| 81 | [241192](../reports/241192.md) | CSP Policy Bypass and javascript execution | None | — | 4 | [athuljayaram](https://hackerone.com/athuljayaram) | 2017-06-18 |
-| 82 | [80883](../reports/80883.md) | Authentication errors in server side validaton of E-MAIL | None | — | 3 | [faisalahmed](https://hackerone.com/faisalahmed) | 2015-08-10 |
-| 83 | [161621](../reports/161621.md) | XSS Via Method injection | None | — | 3 | [exception](https://hackerone.com/exception) | 2016-09-01 |
+| 73 | [261706](../reports/261706.md) | Missing Certificate Authority Authorization rule | None | — | 5 | [theendisnear](https://hackerone.com/theendisnear) | 2017-09-09 |
+| 74 | [241192](../reports/241192.md) | CSP Policy Bypass and javascript execution | None | — | 4 | [athuljayaram](https://hackerone.com/athuljayaram) | 2017-06-18 |
+| 75 | [151295](../reports/151295.md) | don't allow directory browsing on grtp.co | None | — | 4 | [zuh4n](https://hackerone.com/zuh4n) | 2016-07-14 |
+| 76 | [161918](../reports/161918.md) | Reset Link Issue | None | — | 4 | [i1ackerone](https://hackerone.com/i1ackerone) | 2016-08-30 |
+| 77 | [163949](../reports/163949.md) | Username Restriction is not applied for reserved folders | None | — | 4 | [akash_9021](https://hackerone.com/akash_9021) | 2016-12-30 |
+| 78 | [157507](../reports/157507.md) | nginx version disclosure on downloads.gratipay.com | None | — | 4 | [footstep](https://hackerone.com/footstep) | 2017-05-18 |
+| 79 | [117195](../reports/117195.md) | Login csrf. | None | — | 4 | [diffender23](https://hackerone.com/diffender23) | 2017-08-21 |
+| 80 | [190194](../reports/190194.md) | Cookie HttpOnly Flag Not Set  | None | — | 4 | [lulliii](https://hackerone.com/lulliii) | 2016-12-29 |
+| 81 | [150917](../reports/150917.md) | prevent null bytes in email field | None | — | 4 | [thezawad](https://hackerone.com/thezawad) | 2016-07-13 |
+| 82 | [161621](../reports/161621.md) | XSS Via Method injection | None | — | 3 | [exception](https://hackerone.com/exception) | 2016-09-01 |
+| 83 | [151165](../reports/151165.md) | This is a test report | None | — | 3 | [hunter012](https://hackerone.com/hunter012) | 2017-07-11 |
 | 84 | [90778](../reports/90778.md) | implement a cross-domain policy for Adobe products | None | — | 3 | [sherlock_](https://hackerone.com/sherlock_) | 2016-06-17 |
-| 85 | [273647](../reports/273647.md) | Adding Used Primary Email Address to attacker account and Ac | None | — | 3 | [sandeepl337](https://hackerone.com/sandeepl337) | 2017-10-05 |
-| 86 | [151165](../reports/151165.md) | This is a test report | None | — | 3 | [hunter012](https://hackerone.com/hunter012) | 2017-07-11 |
+| 85 | [262088](../reports/262088.md) | Show hide privacy giving receiving on my website  | None | — | 3 | [test99767](https://hackerone.com/test99767) | 2017-09-09 |
+| 86 | [80883](../reports/80883.md) | Authentication errors in server side validaton of E-MAIL | None | — | 3 | [faisalahmed](https://hackerone.com/faisalahmed) | 2015-08-10 |
 | 87 | [151827](../reports/151827.md) | The contribution save option seem to be vulnerable to CSRF | None | — | 3 | [roshanpty](https://hackerone.com/roshanpty) | 2016-07-17 |
-| 88 | [262088](../reports/262088.md) | Show hide privacy giving receiving on my website  | None | — | 3 | [test99767](https://hackerone.com/test99767) | 2017-09-09 |
-| 89 | [145206](../reports/145206.md) | set Pragma header | None | — | 2 | [hassanjawaid](https://hackerone.com/hassanjawaid) | 2017-09-09 |
-| 90 | [126010](../reports/126010.md) | prevent content spoofing on /~username/emails/verify.html | None | — | 2 | [a5tronaut](https://hackerone.com/a5tronaut) | 2017-07-10 |
-| 91 | [140377](../reports/140377.md) | don't store CSRF tokens in cookies | None | — | 2 | [0x0ameer](https://hackerone.com/0x0ameer) | 2016-06-16 |
-| 92 | [262005](../reports/262005.md) | xss  | None | — | 2 | [behzad900](https://hackerone.com/behzad900) | 2017-08-21 |
-| 93 | [145207](../reports/145207.md) | set Expires header | None | — | 2 | [hassanjawaid](https://hackerone.com/hassanjawaid) | 2017-08-21 |
-| 94 | [152834](../reports/152834.md) | [gratipay.com] Cross Site Tracing | None | — | 2 | [ahsan](https://hackerone.com/ahsan) | 2017-08-21 |
+| 88 | [273647](../reports/273647.md) | Adding Used Primary Email Address to attacker account and Ac | None | — | 3 | [sandeepl337](https://hackerone.com/sandeepl337) | 2017-10-05 |
+| 89 | [129209](../reports/129209.md) | After removing app from facebook app session not expiring. | None | — | 2 | [lilly](https://hackerone.com/lilly) | 2017-08-21 |
+| 90 | [145206](../reports/145206.md) | set Pragma header | None | — | 2 | [hassanjawaid](https://hackerone.com/hassanjawaid) | 2017-09-09 |
+| 91 | [262005](../reports/262005.md) | xss  | None | — | 2 | [behzad900](https://hackerone.com/behzad900) | 2017-08-21 |
+| 92 | [226648](../reports/226648.md) | Unauthorized access to the slack channel via inside.gratipay | None | — | 2 | [7h0r4pp4n](https://hackerone.com/7h0r4pp4n) | 2017-05-09 |
+| 93 | [260928](../reports/260928.md) | Missing Certificate Authority Authorization rule | None | — | 2 | [gujjuboy10x00](https://hackerone.com/gujjuboy10x00) | 2017-09-09 |
+| 94 | [123782](../reports/123782.md) | Vulnerable to clickjacking | None | — | 2 | [trabajoduro](https://hackerone.com/trabajoduro) | 2016-05-13 |
 | 95 | [123900](../reports/123900.md) | csrf_token cookie don't have the flag "HttpOnly" | None | — | 2 | [kuskumar](https://hackerone.com/kuskumar) | 2016-08-14 |
-| 96 | [129209](../reports/129209.md) | After removing app from facebook app session not expiring. | None | — | 2 | [lilly](https://hackerone.com/lilly) | 2017-08-21 |
-| 97 | [123782](../reports/123782.md) | Vulnerable to clickjacking | None | — | 2 | [trabajoduro](https://hackerone.com/trabajoduro) | 2016-05-13 |
-| 98 | [226648](../reports/226648.md) | Unauthorized access to the slack channel via inside.gratipay | None | — | 2 | [7h0r4pp4n](https://hackerone.com/7h0r4pp4n) | 2017-05-09 |
-| 99 | [260928](../reports/260928.md) | Missing Certificate Authority Authorization rule | None | — | 2 | [gujjuboy10x00](https://hackerone.com/gujjuboy10x00) | 2017-09-09 |
-| 100 | [93157](../reports/93157.md) | SPF Protection not used, I can hijack your email server | None | — | 2 | [lovepakistan](https://hackerone.com/lovepakistan) | 2017-08-08 |
-| 101 | [231086](../reports/231086.md) | CSP "script-src" includes "unsafe-inline" in https://gratipa | None | — | 2 | [d4rk_g1rl](https://hackerone.com/d4rk_g1rl) | 2017-07-10 |
-| 102 | [190964](../reports/190964.md) | Content type incorrectly stated | None | — | 2 | [lulliii](https://hackerone.com/lulliii) | 2016-12-27 |
-| 103 | [151302](../reports/151302.md) | don't leak Server version for assets.gratipay.com | None | — | 2 | [ahsan](https://hackerone.com/ahsan) | 2017-08-21 |
-| 104 | [158482](../reports/158482.md) | Host Header poisoning on gratipay.com | None | — | 2 | [aaron_costello](https://hackerone.com/aaron_costello) | 2017-08-21 |
-| 105 | [118033](../reports/118033.md) | X-Content-Type Header Missing For aspen.io | None | — | 2 | [bugdiscloseguys](https://hackerone.com/bugdiscloseguys) | 2017-06-15 |
+| 96 | [126010](../reports/126010.md) | prevent content spoofing on /~username/emails/verify.html | None | — | 2 | [a5tronaut](https://hackerone.com/a5tronaut) | 2017-07-10 |
+| 97 | [231086](../reports/231086.md) | CSP "script-src" includes "unsafe-inline" in https://gratipa | None | — | 2 | [d4rk_g1rl](https://hackerone.com/d4rk_g1rl) | 2017-07-10 |
+| 98 | [151302](../reports/151302.md) | don't leak Server version for assets.gratipay.com | None | — | 2 | [ahsan](https://hackerone.com/ahsan) | 2017-08-21 |
+| 99 | [145207](../reports/145207.md) | set Expires header | None | — | 2 | [hassanjawaid](https://hackerone.com/hassanjawaid) | 2017-08-21 |
+| 100 | [152834](../reports/152834.md) | [gratipay.com] Cross Site Tracing | None | — | 2 | [ahsan](https://hackerone.com/ahsan) | 2017-08-21 |
+| 101 | [158482](../reports/158482.md) | Host Header poisoning on gratipay.com | None | — | 2 | [aaron_costello](https://hackerone.com/aaron_costello) | 2017-08-21 |
+| 102 | [118033](../reports/118033.md) | X-Content-Type Header Missing For aspen.io | None | — | 2 | [bugdiscloseguys](https://hackerone.com/bugdiscloseguys) | 2017-06-15 |
+| 103 | [192986](../reports/192986.md) | User Enumeration | None | — | 2 | [aa23](https://hackerone.com/aa23) | 2016-12-27 |
+| 104 | [190964](../reports/190964.md) | Content type incorrectly stated | None | — | 2 | [lulliii](https://hackerone.com/lulliii) | 2016-12-27 |
+| 105 | [140377](../reports/140377.md) | don't store CSRF tokens in cookies | None | — | 2 | [0x0ameer](https://hackerone.com/0x0ameer) | 2016-06-16 |
 | 106 | [283951](../reports/283951.md) | Bypassing X-frame options  | None | — | 2 | [haxorgirl](https://hackerone.com/haxorgirl) | 2017-10-29 |
-| 107 | [192986](../reports/192986.md) | User Enumeration | None | — | 2 | [aa23](https://hackerone.com/aa23) | 2016-12-27 |
+| 107 | [93157](../reports/93157.md) | SPF Protection not used, I can hijack your email server | None | — | 2 | [lovepakistan](https://hackerone.com/lovepakistan) | 2017-08-08 |
 | 108 | [240987](../reports/240987.md) | Email Spoofing | None | — | 1 | [tangina](https://hackerone.com/tangina) | 2017-06-17 |
-| 109 | [131452](../reports/131452.md) | PHP 5.4.45 is Outdated and Full of Preformance Interupting A | None | — | 1 | [sondash128](https://hackerone.com/sondash128) | 2017-08-21 |
-| 110 | [257331](../reports/257331.md) | Sub domain take over in gratipay.com | None | — | 1 | [anshad](https://hackerone.com/anshad) | 2017-08-08 |
-| 111 | [157563](../reports/157563.md) | Cookie:HttpOnly Flag not set | None | — | 1 | [akanshaminti](https://hackerone.com/akanshaminti) | 2016-08-08 |
-| 112 | [128035](../reports/128035.md) | An adversary can harvest email address for spamming. | None | — | 1 | [niputiwari](https://hackerone.com/niputiwari) | 2016-04-05 |
-| 113 | [138659](../reports/138659.md) | don't expose path of Python  | None | — | 1 | [tbehroz](https://hackerone.com/tbehroz) | 2016-05-13 |
+| 109 | [157563](../reports/157563.md) | Cookie:HttpOnly Flag not set | None | — | 1 | [akanshaminti](https://hackerone.com/akanshaminti) | 2016-08-08 |
+| 110 | [163812](../reports/163812.md) | Insecure Transportation Security Protocol Supported (TLS 1.0 | None | — | 1 | [yodha](https://hackerone.com/yodha) | 2017-07-10 |
+| 111 | [138659](../reports/138659.md) | don't expose path of Python  | None | — | 1 | [tbehroz](https://hackerone.com/tbehroz) | 2016-05-13 |
+| 112 | [163815](../reports/163815.md) | Lack of CSRF token validation at server side | None | — | 1 | [yodha](https://hackerone.com/yodha) | 2017-07-10 |
+| 113 | [128764](../reports/128764.md) | text injection in website title | None | — | 1 | [ahmed_abdalla](https://hackerone.com/ahmed_abdalla) | 2016-04-30 |
 | 114 | [152477](../reports/152477.md) | Username .. (double dot) should be restricted or handled car | None | — | 1 | [sh4dow](https://hackerone.com/sh4dow) | 2016-07-20 |
-| 115 | [163812](../reports/163812.md) | Insecure Transportation Security Protocol Supported (TLS 1.0 | None | — | 1 | [yodha](https://hackerone.com/yodha) | 2017-07-10 |
-| 116 | [128764](../reports/128764.md) | text injection in website title | None | — | 1 | [ahmed_abdalla](https://hackerone.com/ahmed_abdalla) | 2016-04-30 |
-| 117 | [241341](../reports/241341.md) | CSP Policy Bypass and javascript execution Still Not Fixed | None | — | 1 | [4w3](https://hackerone.com/4w3) | 2017-06-19 |
-| 118 | [164922](../reports/164922.md) | XSS found In Your Web | None | — | 1 | [arslan1337](https://hackerone.com/arslan1337) | 2017-10-01 |
-| 119 | [219499](../reports/219499.md) | POODLE SSLv3.0 | None | — | 1 | [wazehell](https://hackerone.com/wazehell) | 2017-04-09 |
-| 120 | [112687](../reports/112687.md) | grtp.co is vulnerable to http-vuln-cve2011-3192 | None | — | 1 | [prince](https://hackerone.com/prince) | 2016-02-12 |
-| 121 | [128041](../reports/128041.md) | Getting Error Message and in use python version 2.7 is expos | None | — | 1 | [niputiwari](https://hackerone.com/niputiwari) | 2016-04-05 |
-| 122 | [267212](../reports/267212.md) | 400 Bad Request [Use a third-party provider to sign in or cr | None | — | 1 | [nihaddl](https://hackerone.com/nihaddl) | 2017-09-09 |
-| 123 | [163815](../reports/163815.md) | Lack of CSRF token validation at server side | None | — | 1 | [yodha](https://hackerone.com/yodha) | 2017-07-10 |
-| 124 | [279351](../reports/279351.md) | Broken link for stale DNS entry may be leveraged for Phishin | None | — | 0 | [mehmil](https://hackerone.com/mehmil) | 2017-10-18 |
-| 125 | [161935](../reports/161935.md) | Usernames ending in .json are not restricted | None | — | 0 | [karthic](https://hackerone.com/karthic) | 2017-07-10 |
-| 126 | [131053](../reports/131053.md) | Submit a non valid syntax email | None | — | 0 | [drstache](https://hackerone.com/drstache) | 2017-08-21 |
-| 127 | [116618](../reports/116618.md) | proxy port 7000 and shell port 514 not filtered | None | — | 0 | [bulla](https://hackerone.com/bulla) | 2016-02-20 |
-| 128 | [128910](../reports/128910.md) | prevent %2f spoofed URLs in profile statement | None | — | 0 | [007divyachawla](https://hackerone.com/007divyachawla) | 2017-08-21 |
+| 115 | [131452](../reports/131452.md) | PHP 5.4.45 is Outdated and Full of Preformance Interupting A | None | — | 1 | [sondash128](https://hackerone.com/sondash128) | 2017-08-21 |
+| 116 | [128035](../reports/128035.md) | An adversary can harvest email address for spamming. | None | — | 1 | [niputiwari](https://hackerone.com/niputiwari) | 2016-04-05 |
+| 117 | [219499](../reports/219499.md) | POODLE SSLv3.0 | None | — | 1 | [wazehell](https://hackerone.com/wazehell) | 2017-04-09 |
+| 118 | [128041](../reports/128041.md) | Getting Error Message and in use python version 2.7 is expos | None | — | 1 | [niputiwari](https://hackerone.com/niputiwari) | 2016-04-05 |
+| 119 | [267212](../reports/267212.md) | 400 Bad Request [Use a third-party provider to sign in or cr | None | — | 1 | [nihaddl](https://hackerone.com/nihaddl) | 2017-09-09 |
+| 120 | [257331](../reports/257331.md) | Sub domain take over in gratipay.com | None | — | 1 | [anshad](https://hackerone.com/anshad) | 2017-08-08 |
+| 121 | [112687](../reports/112687.md) | grtp.co is vulnerable to http-vuln-cve2011-3192 | None | — | 1 | [prince](https://hackerone.com/prince) | 2016-02-12 |
+| 122 | [241341](../reports/241341.md) | CSP Policy Bypass and javascript execution Still Not Fixed | None | — | 1 | [4w3](https://hackerone.com/4w3) | 2017-06-19 |
+| 123 | [164922](../reports/164922.md) | XSS found In Your Web | None | — | 1 | [arslan1337](https://hackerone.com/arslan1337) | 2017-10-01 |
+| 124 | [116618](../reports/116618.md) | proxy port 7000 and shell port 514 not filtered | None | — | 0 | [bulla](https://hackerone.com/bulla) | 2016-02-20 |
+| 125 | [116352](../reports/116352.md) | nginx SPDY heap buffer overflow for https://grtp.co/ | None | — | 0 | [anonymous_ftpuser](https://hackerone.com/anonymous_ftpuser) | 2016-02-15 |
+| 126 | [128910](../reports/128910.md) | prevent %2f spoofed URLs in profile statement | None | — | 0 | [007divyachawla](https://hackerone.com/007divyachawla) | 2017-08-21 |
+| 127 | [162336](../reports/162336.md) | x-xss protection header is not set in response header | None | — | 0 | [karthic](https://hackerone.com/karthic) | 2017-07-10 |
+| 128 | [161935](../reports/161935.md) | Usernames ending in .json are not restricted | None | — | 0 | [karthic](https://hackerone.com/karthic) | 2017-07-10 |
 | 129 | [116512](../reports/116512.md) | Markdown parsing issue enables insertion of malicious tags | None | — | 0 | [ru94mb](https://hackerone.com/ru94mb) | 2017-08-21 |
-| 130 | [116621](../reports/116621.md) | server calendar and server status available to public | None | — | 0 | [bulla](https://hackerone.com/bulla) | 2016-02-20 |
+| 130 | [131053](../reports/131053.md) | Submit a non valid syntax email | None | — | 0 | [drstache](https://hackerone.com/drstache) | 2017-08-21 |
 | 131 | [131047](../reports/131047.md) | Possible Blind SQL injection | Language choice in presentati | None | — | 0 | [drstache](https://hackerone.com/drstache) | 2017-08-21 |
-| 132 | [116774](../reports/116774.md) | UDP port 5060 (SIP) Open | None | — | 0 | [anmon](https://hackerone.com/anmon) | 2016-02-16 |
+| 132 | [279351](../reports/279351.md) | Broken link for stale DNS entry may be leveraged for Phishin | None | — | 0 | [mehmil](https://hackerone.com/mehmil) | 2017-10-18 |
 | 133 | [109116](../reports/109116.md) | Directory Listing on grtp.co | None | — | 0 | [atom](https://hackerone.com/atom) | 2017-08-21 |
-| 134 | [116352](../reports/116352.md) | nginx SPDY heap buffer overflow for https://grtp.co/ | None | — | 0 | [anonymous_ftpuser](https://hackerone.com/anonymous_ftpuser) | 2016-02-15 |
-| 135 | [162336](../reports/162336.md) | x-xss protection header is not set in response header | None | — | 0 | [karthic](https://hackerone.com/karthic) | 2017-07-10 |
+| 134 | [116774](../reports/116774.md) | UDP port 5060 (SIP) Open | None | — | 0 | [anmon](https://hackerone.com/anmon) | 2016-02-16 |
+| 135 | [116621](../reports/116621.md) | server calendar and server status available to public | None | — | 0 | [bulla](https://hackerone.com/bulla) | 2016-02-20 |

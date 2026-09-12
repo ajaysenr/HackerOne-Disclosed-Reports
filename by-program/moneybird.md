@@ -18,16 +18,16 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 12 | [247084](../reports/247084.md) | Moneybird customers invoices leak in cacheable urls | Low | — | 6 | [bogdantc](https://hackerone.com/bogdantc) | 2017-08-16 |
 | 13 | [269318](../reports/269318.md) | Bypass of Rate limiting in secure_session endpoint's passwor | None | — | 18 | [0xprial](https://hackerone.com/0xprial) | 2021-05-06 |
 | 14 | [135989](../reports/135989.md) | Employees with Any Permissions Can Create App with Full Perm | None | — | 15 | [yaworsk](https://hackerone.com/yaworsk) | 2016-06-13 |
-| 15 | [147656](../reports/147656.md) | Logging out any user | None | — | 13 | [japz](https://hackerone.com/japz) | 2016-08-26 |
-| 16 | [130661](../reports/130661.md) | XXE issue | None | — | 13 | [4lemon](https://hackerone.com/4lemon) | 2017-03-17 |
-| 17 | [130591](../reports/130591.md) | Stored XSS thru SVG upload | None | — | 9 | [4lemon](https://hackerone.com/4lemon) | 2017-03-17 |
-| 18 | [142893](../reports/142893.md) | [STORED XSS] in debtor reports of ,,invoices'' | None | — | 9 | [bogdantc](https://hackerone.com/bogdantc) | 2016-07-06 |
+| 15 | [130661](../reports/130661.md) | XXE issue | None | — | 13 | [4lemon](https://hackerone.com/4lemon) | 2017-03-17 |
+| 16 | [147656](../reports/147656.md) | Logging out any user | None | — | 13 | [japz](https://hackerone.com/japz) | 2016-08-26 |
+| 17 | [142893](../reports/142893.md) | [STORED XSS] in debtor reports of ,,invoices'' | None | — | 9 | [bogdantc](https://hackerone.com/bogdantc) | 2016-07-06 |
+| 18 | [130591](../reports/130591.md) | Stored XSS thru SVG upload | None | — | 9 | [4lemon](https://hackerone.com/4lemon) | 2017-03-17 |
 | 19 | [131038](../reports/131038.md) | Stored XSS in Financial Account executing in Bank tab | None | — | 7 | [hackheaven123](https://hackerone.com/hackheaven123) | 2016-06-13 |
-| 20 | [158541](../reports/158541.md) | Webhook allows sending payload using insecure HTTP protocol | None | — | 6 | [mattweidner](https://hackerone.com/mattweidner) | 2017-06-28 |
-| 21 | [131728](../reports/131728.md) | Open Redirect vulnerability in moneybird.com | None | — | 6 | [dorkybug](https://hackerone.com/dorkybug) | 2016-07-28 |
+| 20 | [131728](../reports/131728.md) | Open Redirect vulnerability in moneybird.com | None | — | 6 | [dorkybug](https://hackerone.com/dorkybug) | 2016-07-28 |
+| 21 | [158541](../reports/158541.md) | Webhook allows sending payload using insecure HTTP protocol | None | — | 6 | [mattweidner](https://hackerone.com/mattweidner) | 2017-06-28 |
 | 22 | [131028](../reports/131028.md) | Malicious File Upload | None | — | 5 | [hackheaven](https://hackerone.com/hackheaven) | 2016-06-13 |
 | 23 | [133753](../reports/133753.md) | Content Spoofing In Moneybird | None | — | 4 | [dorkybug](https://hackerone.com/dorkybug) | 2016-08-26 |
 | 24 | [130338](../reports/130338.md) | CSV Injection with the CSV export feature | None | — | 3 | [trabajoduro](https://hackerone.com/trabajoduro) | 2016-06-13 |
-| 25 | [136600](../reports/136600.md) | Reflected XSS in Backend search | None | — | 2 | [krankopwnz](https://hackerone.com/krankopwnz) | 2016-06-11 |
-| 26 | [154397](../reports/154397.md) | [Stored Cross-Site-Scripting] When search about Incoming ( M | None | — | 2 | [bogdantc](https://hackerone.com/bogdantc) | 2016-08-05 |
+| 25 | [154397](../reports/154397.md) | [Stored Cross-Site-Scripting] When search about Incoming ( M | None | — | 2 | [bogdantc](https://hackerone.com/bogdantc) | 2016-08-05 |
+| 26 | [136600](../reports/136600.md) | Reflected XSS in Backend search | None | — | 2 | [krankopwnz](https://hackerone.com/krankopwnz) | 2016-06-11 |
 | 27 | [135782](../reports/135782.md) | information disclose   | None | — | 1 | [dotnick](https://hackerone.com/dotnick) | 2016-07-06 |

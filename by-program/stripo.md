@@ -27,41 +27,41 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 21 | [714521](../reports/714521.md) | stripo.email reflected xss | Medium | — | 70 | [trazer](https://hackerone.com/trazer) | 2019-12-26 |
 | 22 | [738569](../reports/738569.md) | No length on password | Medium | — | 62 | [prateek_thakare](https://hackerone.com/prateek_thakare) | 2019-12-23 |
 | 23 | [1029723](../reports/1029723.md) | No rate limiting for subscribe email + lead to Cross origin  | Medium | — | 54 | [lmhu](https://hackerone.com/lmhu) | 2020-11-30 |
-| 24 | [737695](../reports/737695.md) | subdomain takeover at status0.stripo.email | Medium | — | 36 | [haxorpunk](https://hackerone.com/haxorpunk) | 2019-12-23 |
-| 25 | [1166766](../reports/1166766.md) | Bypassing Content-Security-Policy leads to open-redirect and | Medium | — | 36 | [echidonut](https://hackerone.com/echidonut) | 2021-07-30 |
+| 24 | [1166766](../reports/1166766.md) | Bypassing Content-Security-Policy leads to open-redirect and | Medium | — | 36 | [echidonut](https://hackerone.com/echidonut) | 2021-07-30 |
+| 25 | [737695](../reports/737695.md) | subdomain takeover at status0.stripo.email | Medium | — | 36 | [haxorpunk](https://hackerone.com/haxorpunk) | 2019-12-23 |
 | 26 | [855013](../reports/855013.md) | [www.stripo.email] You can override the speed limit by addin | Medium | — | 34 | [what_web](https://hackerone.com/what_web) | 2020-04-23 |
 | 27 | [1019367](../reports/1019367.md) | Memory Dump and Env Disclosure via Spring Boot Actuator | Medium | — | 28 | [0xwise](https://hackerone.com/0xwise) | 2021-03-02 |
 | 28 | [1065964](../reports/1065964.md) | Stored XSS in the banner block description | Medium | — | 25 | [solov9ev](https://hackerone.com/solov9ev) | 2021-03-09 |
 | 29 | [1126433](../reports/1126433.md) | Stored XSS at Module Name | Medium | — | 23 | [20kilograma](https://hackerone.com/20kilograma) | 2021-04-12 |
 | 30 | [1047125](../reports/1047125.md) | Non-revoked API Key Disclosure in a Disclosed API Key Disclo | Medium — CVSS 4.4 | — | 19 | [whoisbinit](https://hackerone.com/whoisbinit) | 2020-12-04 |
-| 31 | [1076047](../reports/1076047.md) | Bypass of #1047119: Missing Rate Limit while creating Plug-I | Medium | — | 18 | [savxiety](https://hackerone.com/savxiety) | 2021-01-13 |
-| 32 | [1047100](../reports/1047100.md) | No rate limiting - Create data | Medium | — | 18 | [ofjaaaah](https://hackerone.com/ofjaaaah) | 2021-01-05 |
+| 31 | [1047100](../reports/1047100.md) | No rate limiting - Create data | Medium | — | 18 | [ofjaaaah](https://hackerone.com/ofjaaaah) | 2021-01-05 |
+| 32 | [1076047](../reports/1076047.md) | Bypass of #1047119: Missing Rate Limit while creating Plug-I | Medium | — | 18 | [savxiety](https://hackerone.com/savxiety) | 2021-01-13 |
 | 33 | [737042](../reports/737042.md) | Password token leak via Host header | Medium — CVSS 4.6 | — | 18 | [aishkendle](https://hackerone.com/aishkendle) | 2019-12-19 |
 | 34 | [1631228](../reports/1631228.md) | [demo.stripo.email] HTTP request Smuggling | Medium | — | 17 | [deb0con](https://hackerone.com/deb0con) | 2024-02-15 |
 | 35 | [781614](../reports/781614.md) | subdomain takeover at status-stage0.stripo.email | Medium | — | 16 | [laz0rde](https://hackerone.com/laz0rde) | 2020-01-30 |
 | 36 | [1047124](../reports/1047124.md) | No rate limit in email subscription | Medium | — | 16 | [splint3rsec](https://hackerone.com/splint3rsec) | 2021-01-11 |
-| 37 | [766205](../reports/766205.md) | csrf bypass using flash file + 307 redirect method at plugin | Medium | — | 15 | [qotoz](https://hackerone.com/qotoz) | 2020-02-10 |
-| 38 | [737039](../reports/737039.md) | OLD SESSION DOES NOT EXPIRE AFTER PASSWORD CHANGE | Medium — CVSS 4.6 | — | 15 | [aishkendle](https://hackerone.com/aishkendle) | 2019-12-19 |
+| 37 | [737039](../reports/737039.md) | OLD SESSION DOES NOT EXPIRE AFTER PASSWORD CHANGE | Medium — CVSS 4.6 | — | 15 | [aishkendle](https://hackerone.com/aishkendle) | 2019-12-19 |
+| 38 | [766205](../reports/766205.md) | csrf bypass using flash file + 307 redirect method at plugin | Medium | — | 15 | [qotoz](https://hackerone.com/qotoz) | 2020-02-10 |
 | 39 | [764122](../reports/764122.md) | No Rate Limiting on /reset-password-request/ endpoint | Medium | — | 14 | [tess](https://hackerone.com/tess) | 2020-02-04 |
-| 40 | [996371](../reports/996371.md) | Stored XSS at "Conditions "  through "My Custom Rule" Field  | Medium | — | 13 | [xploiterr](https://hackerone.com/xploiterr) | 2020-12-24 |
-| 41 | [754025](../reports/754025.md) | SSRF in Export template to ActiveCampaign | Medium | — | 13 | [c1kada](https://hackerone.com/c1kada) | 2020-04-10 |
+| 40 | [754025](../reports/754025.md) | SSRF in Export template to ActiveCampaign | Medium | — | 13 | [c1kada](https://hackerone.com/c1kada) | 2020-04-10 |
+| 41 | [996371](../reports/996371.md) | Stored XSS at "Conditions "  through "My Custom Rule" Field  | Medium | — | 13 | [xploiterr](https://hackerone.com/xploiterr) | 2020-12-24 |
 | 42 | [1613714](../reports/1613714.md) | Non-revoked API Key Information disclosure via Stripo_report | Medium | — | 13 | [deb0con](https://hackerone.com/deb0con) | 2022-08-25 |
-| 43 | [1709815](../reports/1709815.md) | Non-revoked API Key Disclosure in a Disclosed API Key Disclo | Medium | — | 12 | [sankalpa_1337](https://hackerone.com/sankalpa_1337) | 2024-02-15 |
-| 44 | [761382](../reports/761382.md) | stripo blog search  SQL Injection | Medium | — | 12 | [bluebridsec](https://hackerone.com/bluebridsec) | 2020-01-30 |
+| 43 | [761382](../reports/761382.md) | stripo blog search  SQL Injection | Medium | — | 12 | [bluebridsec](https://hackerone.com/bluebridsec) | 2020-01-30 |
+| 44 | [1709815](../reports/1709815.md) | Non-revoked API Key Disclosure in a Disclosed API Key Disclo | Medium | — | 12 | [sankalpa_1337](https://hackerone.com/sankalpa_1337) | 2024-02-15 |
 | 45 | [753386](../reports/753386.md) | No CSRF Protection in Resend Confirmation Email feature lead | Medium — CVSS 6.3 | — | 12 | [whoisbinit](https://hackerone.com/whoisbinit) | 2020-09-08 |
 | 46 | [738553](../reports/738553.md) | SSRF in /cabinet/stripeapi/v1/siteInfoLookup?url=XXX | Medium — CVSS 5.3 | — | 11 | [eliel](https://hackerone.com/eliel) | 2019-12-18 |
 | 47 | [823588](../reports/823588.md) | Unrestricted File Upload on https://my.stripo.email and http | Medium | — | 9 | [doctor_spooky](https://hackerone.com/doctor_spooky) | 2020-04-13 |
 | 48 | [1055503](../reports/1055503.md) | No rate limiting for confirmation email lead to huge Mass ma | Medium | — | 9 | [buggfuzz1](https://hackerone.com/buggfuzz1) | 2020-12-11 |
 | 49 | [881186](../reports/881186.md) | [www.stripo.email] You can bypass the speed limit by changin | Medium | — | 8 | [what_web](https://hackerone.com/what_web) | 2020-06-30 |
 | 50 | [887167](../reports/887167.md) | multiple email usage -my.stripo.email- | Medium | — | 7 | [rickiex](https://hackerone.com/rickiex) | 2020-07-03 |
-| 51 | [994051](../reports/994051.md) | Race condition on my.stripo.email at /cabinet/stripeapi/v1/p | Medium | — | 7 | [zeroc00i](https://hackerone.com/zeroc00i) | 2020-11-09 |
-| 52 | [782979](../reports/782979.md) | Information disclosure through Server side resource forgery | Medium | — | 7 | [checkm50](https://hackerone.com/checkm50) | 2020-01-28 |
-| 53 | [1047119](../reports/1047119.md) | No rate limiting - Create Plug-ins | Medium | — | 7 | [ofjaaaah](https://hackerone.com/ofjaaaah) | 2021-01-05 |
-| 54 | [737625](../reports/737625.md) | Clickjacking on my.stripo.email for MailChimp credentials  | Medium | — | 7 | [jasongardner](https://hackerone.com/jasongardner) | 2020-01-08 |
-| 55 | [1283575](../reports/1283575.md) | Insecure Storage and Overly Permissive API Keys | Medium | — | 7 | [dc61703fdbcd3f8331d3dc24078c01](https://hackerone.com/dc61703fdbcd3f8331d3dc24078c01) | 2022-03-30 |
-| 56 | [876257](../reports/876257.md) | Integer Overflow (CVE_2017_7529) | Medium | — | 6 | [whitehatmat](https://hackerone.com/whitehatmat) | 2020-07-13 |
-| 57 | [738565](../reports/738565.md) |  SSL cookie without secure flag set | Medium | — | 6 | [classifled](https://hackerone.com/classifled) | 2020-10-13 |
-| 58 | [1025365](../reports/1025365.md) | Stored XSS at Template Editor in "Section Name"  Field of Bl | Medium | — | 6 | [xploiterr](https://hackerone.com/xploiterr) | 2020-12-24 |
+| 51 | [1047119](../reports/1047119.md) | No rate limiting - Create Plug-ins | Medium | — | 7 | [ofjaaaah](https://hackerone.com/ofjaaaah) | 2021-01-05 |
+| 52 | [994051](../reports/994051.md) | Race condition on my.stripo.email at /cabinet/stripeapi/v1/p | Medium | — | 7 | [zeroc00i](https://hackerone.com/zeroc00i) | 2020-11-09 |
+| 53 | [737625](../reports/737625.md) | Clickjacking on my.stripo.email for MailChimp credentials  | Medium | — | 7 | [jasongardner](https://hackerone.com/jasongardner) | 2020-01-08 |
+| 54 | [1283575](../reports/1283575.md) | Insecure Storage and Overly Permissive API Keys | Medium | — | 7 | [dc61703fdbcd3f8331d3dc24078c01](https://hackerone.com/dc61703fdbcd3f8331d3dc24078c01) | 2022-03-30 |
+| 55 | [782979](../reports/782979.md) | Information disclosure through Server side resource forgery | Medium | — | 7 | [checkm50](https://hackerone.com/checkm50) | 2020-01-28 |
+| 56 | [1025365](../reports/1025365.md) | Stored XSS at Template Editor in "Section Name"  Field of Bl | Medium | — | 6 | [xploiterr](https://hackerone.com/xploiterr) | 2020-12-24 |
+| 57 | [876257](../reports/876257.md) | Integer Overflow (CVE_2017_7529) | Medium | — | 6 | [whitehatmat](https://hackerone.com/whitehatmat) | 2020-07-13 |
+| 58 | [738565](../reports/738565.md) |  SSL cookie without secure flag set | Medium | — | 6 | [classifled](https://hackerone.com/classifled) | 2020-10-13 |
 | 59 | [799867](../reports/799867.md) | XSRF Token is Not being validated when sending emails test r | Medium | — | 4 | [abdellah29](https://hackerone.com/abdellah29) | 2020-03-25 |
 | 60 | [759131](../reports/759131.md) | Stored XSS in template comments. | Medium | — | 3 | [renekroka](https://hackerone.com/renekroka) | 2020-01-31 |
 | 61 | [789418](../reports/789418.md) | Strored Xss on https://my.stripo.email/ ( multiple inputs) | Medium | — | 2 | [abdellah29](https://hackerone.com/abdellah29) | 2020-03-25 |

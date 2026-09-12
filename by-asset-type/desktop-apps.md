@@ -58,8 +58,8 @@
 | 52 | [980500](../reports/980500.md) | Local Privilege Escalation and Code Execution when rest | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Medium | $250 | 28 |
 | 53 | [1075449](../reports/1075449.md) | Local Privilege Escalation when updating Acronis True I | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Medium — CVSS 6.7 | $250 | 24 |
 | 54 | [1003007](../reports/1003007.md) | Local Privilege Escalation via Backup delete | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Medium | $250 | 19 |
-| 55 | [590319](../reports/590319.md) | Linux client is vulnerable to directory traversal when  | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 5.1 | $250 | 14 |
-| 56 | [1008427](../reports/1008427.md) | DLL Hijacking when sending feedback and crash report le | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Medium — CVSS 6.7 | $250 | 14 |
+| 55 | [1008427](../reports/1008427.md) | DLL Hijacking when sending feedback and crash report le | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Medium — CVSS 6.7 | $250 | 14 |
+| 56 | [590319](../reports/590319.md) | Linux client is vulnerable to directory traversal when  | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 5.1 | $250 | 14 |
 | 57 | [959017](../reports/959017.md) | TrueImage for Acronis True Image 2020 - Untrusted DLL S | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Medium | $250 | 13 |
 | 58 | [1010552](../reports/1010552.md) | DLL Hijacking when creating Rescue Media Builder leadin | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Medium — CVSS 6.7 | $250 | 12 |
 | 59 | [983363](../reports/983363.md) | Local Privilege Escalation when deleting a file from Qu | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Medium | $250 | 11 |
@@ -96,9 +96,9 @@
 | 90 | [329749](../reports/329749.md) | UniFi Video Server web interface Configuration Restore  | [Ubiquiti Inc.](../by-program/ui.md) | UniFi Video Server | High — CVSS 8.8 | — | 22 |
 | 91 | [458929](../reports/458929.md) | Malformed BSP in GoldSrc Engine may cause shellcode inj | [Valve](../by-program/valve.md) | hl.exe | High | — | 21 |
 | 92 | [330051](../reports/330051.md) | UniFi Video Server web interface admin user Firmware Up | [Ubiquiti Inc.](../by-program/ui.md) | UniFi Video Server | High — CVSS 8.4 | — | 11 |
-| 93 | [944735](../reports/944735.md) | Arbitrary DLL injection in mmsminisrv (Acronis Managed  | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | High — CVSS 8.1 | — | 11 |
-| 94 | [508894](../reports/508894.md) | Vulnerability in GoldSource Engine allows to upload and | [Valve](../by-program/valve.md) | hl.exe | High | — | 11 |
-| 95 | [329659](../reports/329659.md) | UniFi Video web interface Configuration Restore user pr | [Ubiquiti Inc.](../by-program/ui.md) | UniFi Video Server | High — CVSS 8.0 | — | 11 |
+| 93 | [508894](../reports/508894.md) | Vulnerability in GoldSource Engine allows to upload and | [Valve](../by-program/valve.md) | hl.exe | High | — | 11 |
+| 94 | [329659](../reports/329659.md) | UniFi Video web interface Configuration Restore user pr | [Ubiquiti Inc.](../by-program/ui.md) | UniFi Video Server | High — CVSS 8.0 | — | 11 |
+| 95 | [944735](../reports/944735.md) | Arbitrary DLL injection in mmsminisrv (Acronis Managed  | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | High — CVSS 8.1 | — | 11 |
 | 96 | [1251464](../reports/1251464.md) | Acronis True Image Local Privilege Escalation Due To Ra | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | High — CVSS 7.4 | — | 8 |
 | 97 | [3775183](../reports/3775183.md) | Incomplete fix for CVE-2022-35406: meta-redirect conten | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | High | — | 7 |
 | 98 | [3780695](../reports/3780695.md) | SELECT ... INTO OUTFILE does not enforce the FILE WRITE | [SingleStore](../by-program/singlestore.md) | singlestoredb-server | High | — | 4 |
@@ -108,8 +108,8 @@
 | 102 | [953219](../reports/953219.md) | SMTP interaction theft via MITM | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Collaborator | Medium | — | 78 |
 | 103 | [2230842](../reports/2230842.md) | Title: Deceptive Manipulation of HTTP to HTTPS with VPN | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Medium | — | 71 |
 | 104 | [716448](../reports/716448.md) | Unquoted Service Path in "Rockstar Game Library Service | [Rockstar Games](../by-program/rockstargames.md) | Rockstar Games Launcher | Medium — CVSS 6.7 | — | 60 |
-| 105 | [440963](../reports/440963.md) | Privilege Escalation by abusing non-existent path. (Win | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Medium — CVSS 6.3 | — | 59 |
-| 106 | [745447](../reports/745447.md) | Steam chat - trade offer presentation vulnerability | [Valve](../by-program/valve.md) | *.exe | Medium — CVSS 6.3 | — | 59 |
+| 105 | [745447](../reports/745447.md) | Steam chat - trade offer presentation vulnerability | [Valve](../by-program/valve.md) | *.exe | Medium — CVSS 6.3 | — | 59 |
+| 106 | [440963](../reports/440963.md) | Privilege Escalation by abusing non-existent path. (Win | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Medium — CVSS 6.3 | — | 59 |
 | 107 | [1300585](../reports/1300585.md) | blind Server-Side Request Forgery (SSRF)  allows scanni | [Elastic](../by-program/elastic.md) | Fleet Server | Medium — CVSS 6.7 | — | 52 |
 | 108 | [679907](../reports/679907.md) | Malformed string sent through FireServer leads to serve | [Roblox](../by-program/roblox.md) | Roblox Client | Medium | — | 44 |
 | 109 | [767647](../reports/767647.md) | Vulnerabilities chain leading to privilege escalation | [Nord Security](../by-program/nordsecurity.md) | NordVPN - MacOS Executable | Medium | — | 42 |
@@ -127,12 +127,12 @@
 | 121 | [852091](../reports/852091.md) | Privilege Escalation vulnerability in steam's Remote Pl | [Valve](../by-program/valve.md) | steam.exe | Medium — CVSS 4.7 | — | 22 |
 | 122 | [1874155](../reports/1874155.md) | Biometric key is stored in Windows Credential Manager,  | [Bitwarden](../by-program/bitwarden.md) | https://github.com/bitwarden/desktop/rel | Medium — CVSS 6.2 | — | 19 |
 | 123 | [768110](../reports/768110.md) | Race condition (TOCTOU) in NordVPN can result in local  | [Nord Security](../by-program/nordsecurity.md) | NordVPN - Windows Executable | Medium — CVSS 4.5 | — | 18 |
-| 124 | [685552](../reports/685552.md) | XSS in desktop client via invalid server address on log | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 4.7 | — | 17 |
-| 125 | [518837](../reports/518837.md) | DLL Hijacking in Burp Suite Pro 2.0.19 Installer | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Medium | — | 17 |
-| 126 | [858608](../reports/858608.md) | anti_ransomware_service.exe REST API does not require a | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Medium — CVSS 5.4 | — | 17 |
+| 124 | [858608](../reports/858608.md) | anti_ransomware_service.exe REST API does not require a | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Medium — CVSS 5.4 | — | 17 |
+| 125 | [685552](../reports/685552.md) | XSS in desktop client via invalid server address on log | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 4.7 | — | 17 |
+| 126 | [518837](../reports/518837.md) | DLL Hijacking in Burp Suite Pro 2.0.19 Installer | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Medium | — | 17 |
 | 127 | [975514](../reports/975514.md) | Arbitrary file download due to bad handling of Redirect | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | Medium | — | 15 |
-| 128 | [495789](../reports/495789.md) | Malformed .WAV triggers an Access Violation on GoldSRC  | [Valve](../by-program/valve.md) | hl.exe | Medium | — | 14 |
-| 129 | [959815](../reports/959815.md) | Arbitrary Files and Folders Deletion vulnerability with | [Acronis](../by-program/acronis.md) | Acronis Agent | Medium | — | 14 |
+| 128 | [959815](../reports/959815.md) | Arbitrary Files and Folders Deletion vulnerability with | [Acronis](../by-program/acronis.md) | Acronis Agent | Medium | — | 14 |
+| 129 | [495789](../reports/495789.md) | Malformed .WAV triggers an Access Violation on GoldSRC  | [Valve](../by-program/valve.md) | hl.exe | Medium | — | 14 |
 | 130 | [1720043](../reports/1720043.md) | Desktop client can be tricked into opening/executing lo | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Medium — CVSS 6.6 | — | 13 |
 | 131 | [968328](../reports/968328.md) | Redirecting users to malicious torrent-files/websites u | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | Medium | — | 13 |
 | 132 | [963155](../reports/963155.md) | Arbitrary file download via "Save .torrent file" option | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | Medium | — | 11 |
@@ -158,8 +158,8 @@
 | 152 | [663729](../reports/663729.md) | [Brave browser] WebTorrent has DNS rebinding vulnerabil | [Brave Software](../by-program/brave.md) | https://laptop-updates.brave.com/latest/ | Low | — | 9 |
 | 153 | [971610](../reports/971610.md) | Local Privilege Escalation via EXE hijacking with Acron | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Low | — | 7 |
 | 154 | [1519437](../reports/1519437.md) | DLL Search-Order Hijacking Vulnerability in work-64-exe | [8x8](../by-program/8x8-bounty.md) | Virtual Office Desktop | Low | — | 5 |
-| 155 | [1707977](../reports/1707977.md) | XSS in Desktop Client via user status and information | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Low — CVSS 3.5 | — | 5 |
-| 156 | [970739](../reports/970739.md) | Local Privilege Escalation via EXE hijacking with Acron | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Low | — | 5 |
+| 155 | [970739](../reports/970739.md) | Local Privilege Escalation via EXE hijacking with Acron | [Acronis](../by-program/acronis.md) | Acronis Cyber Protect Home Office (forme | Low | — | 5 |
+| 156 | [1707977](../reports/1707977.md) | XSS in Desktop Client via user status and information | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Low — CVSS 3.5 | — | 5 |
 | 157 | [1711847](../reports/1711847.md) | XSS in Desktop Client in call notification popup | [Nextcloud](../by-program/nextcloud.md) | Desktop Client | Low — CVSS 3.5 | — | 5 |
 | 158 | [881891](../reports/881891.md) | File System Monitoring Queue Overflow | [ownCloud](../by-program/owncloud.md) | Desktop Client | Low | — | 2 |
 | 159 | [294891](../reports/294891.md) | Improper Certificate Validation | [PortSwigger Web Security](../by-program/portswigger.md) | Burp Suite Pro/Community | Low — CVSS 2.6 | — | 0 |

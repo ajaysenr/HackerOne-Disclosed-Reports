@@ -30,10 +30,10 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 24 | [265528](../reports/265528.md) | Reflected XSS on the data.gov (WAF bypass+ Chrome XSS Audito | Medium — CVSS 5.0 | — | 28 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-15 |
 | 25 | [245872](../reports/245872.md) | [IDOR] The authenticated user can restart website build or v | Medium | — | 22 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-05 |
 | 26 | [245833](../reports/245833.md) | The user, who was deleted from Github Organization, still ca | Medium | — | 16 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-05 |
-| 27 | [360171](../reports/360171.md) | Multiple Bugs in api.data.gov/signup endpoint leads to send  | Medium | — | 15 | [pressihackerone](https://hackerone.com/pressihackerone) | 2018-11-13 |
-| 28 | [245172](../reports/245172.md) | Double Stored Cross-Site scripting in the admin panel | Medium | — | 15 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-05 |
-| 29 | [318068](../reports/318068.md) | SSH server compatible with several vulnerable cryptographic  | Medium | — | 14 | [northivanastan](https://hackerone.com/northivanastan) | 2018-03-02 |
-| 30 | [942481](../reports/942481.md) | Wordpress Users Disclosure (/wp-json/wp/v2/users/) on data.g | Medium | — | 14 | [nagli](https://hackerone.com/nagli) | 2020-07-28 |
+| 27 | [245172](../reports/245172.md) | Double Stored Cross-Site scripting in the admin panel | Medium | — | 15 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-05 |
+| 28 | [360171](../reports/360171.md) | Multiple Bugs in api.data.gov/signup endpoint leads to send  | Medium | — | 15 | [pressihackerone](https://hackerone.com/pressihackerone) | 2018-11-13 |
+| 29 | [942481](../reports/942481.md) | Wordpress Users Disclosure (/wp-json/wp/v2/users/) on data.g | Medium | — | 14 | [nagli](https://hackerone.com/nagli) | 2020-07-28 |
+| 30 | [318068](../reports/318068.md) | SSH server compatible with several vulnerable cryptographic  | Medium | — | 14 | [northivanastan](https://hackerone.com/northivanastan) | 2018-03-02 |
 | 31 | [264090](../reports/264090.md) | 2FA bypass - confirmation tokens don't expire | Medium — CVSS 4.8 | — | 10 | [muskecan](https://hackerone.com/muskecan) | 2017-11-17 |
 | 32 | [673384](../reports/673384.md) | xmlrpc.php file enabled - data.gov | Medium | — | 10 | [zddw](https://hackerone.com/zddw) | 2019-08-19 |
 | 33 | [263498](../reports/263498.md) | CSRF to change Account Security Keys on secure.login.gov | Medium | — | 8 | [fawazxq](https://hackerone.com/fawazxq) | 2017-11-01 |
