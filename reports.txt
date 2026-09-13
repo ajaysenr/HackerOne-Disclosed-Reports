@@ -12367,3 +12367,4 @@ https://hackerone.com/reports/3973245 | 55: Heap-buffer-overflow read in `curl_f
 https://hackerone.com/reports/3976342 | IMAP connection reuse runs requests in the wrong case-sensitive mailbox
 https://hackerone.com/reports/3993850 | Apple SecTrust fallback ignores CURLOPT_CRLFILE, letting a revoked cert pass
 https://hackerone.com/reports/3993973 | HTTP Digest nonce reused across an https→http scheme change on the same handle
+https://hackerone.com/reports/3994016 | Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body inject arbitrary Markdown

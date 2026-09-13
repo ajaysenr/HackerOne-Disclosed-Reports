@@ -241606,5 +241606,24 @@
     "reported_at": "2026-09-03",
     "disclosed_at": "2026-09-08T06:14:34.390Z",
     "votes": 6
+  },
+  {
+    "id": 3994016,
+    "url": "https://hackerone.com/reports/3994016",
+    "title": "Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body inject arbitrary Markdown",
+    "visibility": "full",
+    "program": "Ruby on Rails",
+    "program_handle": "rails",
+    "reporter": "seoafoz",
+    "severity": "medium",
+    "cvss": 4.3,
+    "weakness": "Cross-site Scripting (XSS) - Stored",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-03",
+    "disclosed_at": "2026-09-12T19:08:55.117Z",
+    "votes": 3
   }
 ]
