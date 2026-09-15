@@ -12221,6 +12221,7 @@ https://hackerone.com/reports/3767963 | Proxy CONNECT response poisoning via aut
 https://hackerone.com/reports/3769293 | Low priority HSTS bypass in curl_easy_duphandle()
 https://hackerone.com/reports/3769676 | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire Server
 https://hackerone.com/reports/3770979 | SMTP connection reuse ignores --ssl-reqd / CURLOPT_USE_SSL and reuses a clear-text STARTTLS session on current master
+https://hackerone.com/reports/3771144 | Use-After-Free in BTREE Index Traversal via Stale key_version in heap_update() in MariaDB Server
 https://hackerone.com/reports/3773293 | curl/libcurl 8.20.0 NOPROXY bypass via uppercase-hex IPv4 aliases leaks off-proxy Basic credentials to the configured proxy
 https://hackerone.com/reports/3774279 | heap-use-after-free in state.referer when CURLOPT_REFERER replaced or cleared after perform
 https://hackerone.com/reports/3774977 | libcurl 8.20.0 ignores HTTP Digest domain protection space and preemptively leaks Digest auth outside the declared scope
@@ -12334,12 +12335,14 @@ https://hackerone.com/reports/3963725 | wolfSSL backend disables hostname verifi
 https://hackerone.com/reports/3966955 | TLS session cache case-folds CA paths and bypasses the active trust profile
 https://hackerone.com/reports/3968431 | ARG_CLEAR credential scrubbing wipes only UTF-8 copies on Windows Unicode builds
 https://hackerone.com/reports/3968729 | Unbound cross-peer HTTP Digest challenge state
+https://hackerone.com/reports/3968853 | OpenSSL ENGINE selection omitted from mTLS connection matching
 https://hackerone.com/reports/3969255 | CVE-2026-80229: OpenSSL provider use-after-free
 https://hackerone.com/reports/3969300 | CVE-2026-80230: OpenSSL pinning bypass
 https://hackerone.com/reports/3969368 | CVE-2026-80231: native CA store conn reuse
 https://hackerone.com/reports/3969820 | CVE-2026-80256: wcurl backslash bypass
 https://hackerone.com/reports/3970639 | --etag-save - truncates append-redirected stdout
 https://hackerone.com/reports/3970650 | Stacked --proto modifiers leave denied protocol enabled
+https://hackerone.com/reports/3971462 | Heap-use-after-free in CURLOPT_REFERER when passed a CURLINFO_REFERER pointer
 https://hackerone.com/reports/3971496 | 28: HTTP/3 UDP path ignores CURL_SOCKOPT_ALREADY_CONNECTED, reconnects callback-provided socket
 https://hackerone.com/reports/3971518 | 29: CURLOPT_ISSUERCERT accepts a different-key certificate when issuer metadata collides
 https://hackerone.com/reports/3971538 | 27: IMAP custom FETCH listing classification skips literal boundaries, enabling response desynchronization
@@ -12348,6 +12351,7 @@ https://hackerone.com/reports/3971706 | 36: HTTP upload resume offset consumed t
 https://hackerone.com/reports/3972196 | 34: `curl_mprintf` reads `double` for documented `long double` conversions — uninitialized value disclosure
 https://hackerone.com/reports/3972293 | 43: HTTP proxy CONNECT header chooses the `-OJ` filename after a redirect
 https://hackerone.com/reports/3972316 | 46: `--libcurl` output carries `--insecure` across `--next` boundaries
+https://hackerone.com/reports/3972323 | 10: CURLOPT_MAXLIFETIME_CONN bypass on active HTTP/2 connections
 https://hackerone.com/reports/3972338 | 12: SASL DIGEST-MD5 does not validate the server's `rspauth` proof
 https://hackerone.com/reports/3972385 | CVE-2026-82209: domain-scoped PSL domain cookie
 https://hackerone.com/reports/3972395 | CVE-2026-80255: secure cookie attribute bypass with tab
@@ -12358,14 +12362,19 @@ https://hackerone.com/reports/3973111 | 08: CVE-2026-7009 fix incomplete for AWS
 https://hackerone.com/reports/3973121 | 11: `CURLOPT_FORBID_REUSE` silently lost on multiplexed HTTP/2 connection when the forbidding transfer finishes first
 https://hackerone.com/reports/3973127 | 18:  Explicit IPv6 proxy zone ID silently ignored — proxy credentials sent to wrong interface
 https://hackerone.com/reports/3973143 | 22:  FTP wildcard matching decodes server-provided filenames, enabling directory traversal
+https://hackerone.com/reports/3973152 | 37: `curl_mprintf` `%F` format specifier not consumed, causing variadic argument desynchronization
 https://hackerone.com/reports/3973158 | 41: `main_checkfds()` pipe reuse leaks proxy credentials into HTTPS upload body
 https://hackerone.com/reports/3973169 | 42: `VMS_STS` macro typo (`< 3` vs `<< 3`) turns curl failures into successful OpenVMS conditions
 https://hackerone.com/reports/3973194 | 49: Cookie-jar save transfers group access to a different GID
 https://hackerone.com/reports/3973213 | 54: Rejected HTTP/2 push destroys MIME callback state still used by parent (use-after-free)
 https://hackerone.com/reports/3973219 | 57: Heap out-of-bounds read in `curl_easy_escape_ccsid()` / `curl_easy_unescape_ccsid()`
 https://hackerone.com/reports/3973228 | 50: CMake `HTTP_ONLY` does not disable SSH backends — SCP and SFTP remain usable
+https://hackerone.com/reports/3973234 | 53: HTTP/1 CONNECT chunked-407 trailers bypass CURLOPT_SUPPRESS_CONNECT_HEADERS and lose CURLH_CONNECT classification
 https://hackerone.com/reports/3973245 | 55: Heap-buffer-overflow read in `curl_formadd_ccsid()` with binary form data
+https://hackerone.com/reports/3973249 | 56: IBM i CL wrapper `parse_command_line()` never enters quote mode
 https://hackerone.com/reports/3976342 | IMAP connection reuse runs requests in the wrong case-sensitive mailbox
 https://hackerone.com/reports/3993850 | Apple SecTrust fallback ignores CURLOPT_CRLFILE, letting a revoked cert pass
 https://hackerone.com/reports/3993973 | HTTP Digest nonce reused across an https→http scheme change on the same handle
 https://hackerone.com/reports/3994016 | Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body inject arbitrary Markdown
+https://hackerone.com/reports/4016541 | TLS session resumption client cert bypass with CURLOPT_SSL_CTX_FUNCTION
+https://hackerone.com/reports/4027511 | Encoded slash traversal in the IPFS/IPNS URL rewrite escapes the configured gateway namespace
