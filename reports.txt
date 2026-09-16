@@ -12221,7 +12221,9 @@ https://hackerone.com/reports/3767963 | Proxy CONNECT response poisoning via aut
 https://hackerone.com/reports/3769293 | Low priority HSTS bypass in curl_easy_duphandle()
 https://hackerone.com/reports/3769676 | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire Server
 https://hackerone.com/reports/3770979 | SMTP connection reuse ignores --ssl-reqd / CURLOPT_USE_SSL and reuses a clear-text STARTTLS session on current master
+https://hackerone.com/reports/3771139 | Heap Memory Disclosure via Integer Underflow in Item_func_json_arrayagg::cut_max_length in MariaDB Server
 https://hackerone.com/reports/3771144 | Use-After-Free in BTREE Index Traversal via Stale key_version in heap_update() in MariaDB Server
+https://hackerone.com/reports/3771147 | Stack Buffer Overflow via Crafted keyseg->start/ keyseg->length in .MYI File (MariaDB MyISAM)
 https://hackerone.com/reports/3773293 | curl/libcurl 8.20.0 NOPROXY bypass via uppercase-hex IPv4 aliases leaks off-proxy Basic credentials to the configured proxy
 https://hackerone.com/reports/3774279 | heap-use-after-free in state.referer when CURLOPT_REFERER replaced or cleared after perform
 https://hackerone.com/reports/3774977 | libcurl 8.20.0 ignores HTTP Digest domain protection space and preemptively leaks Digest auth outside the declared scope
@@ -12244,6 +12246,7 @@ https://hackerone.com/reports/3781311 | Stored XSS in maintenance tools via unes
 https://hackerone.com/reports/3781492 | PHP code injection in delivery-limitation `logical` validation bypass - XML-RPC setChannelTargeting
 https://hackerone.com/reports/3781691 | CSRF in zone‑include.php allows unauthorized banner and campaign linking
 https://hackerone.com/reports/3781785 | Reflected HTML Injection in ████████ Login Page via infotext/signintext Parameters
+https://hackerone.com/reports/3782405 | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::insert_or_replace()
 https://hackerone.com/reports/3782701 | Unauthenticated RCE in Taskcluster web-server via GraphQL filter argument (sift $where)
 https://hackerone.com/reports/3783438 | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop
 https://hackerone.com/reports/3783738 | XML‑RPC login leak exposes valid session ID enabling unauthorized API access
@@ -12304,6 +12307,7 @@ https://hackerone.com/reports/3861550 | connect.8x8.com: Deserialization Vulnera
 https://hackerone.com/reports/3869124 | **Unauthenticated IDOR allows modification of payment customer billing information**
 https://hackerone.com/reports/3872858 | Stored HTML Injection (CWE-79) via Livechat Visitor Name
 https://hackerone.com/reports/3873072 | Unauthenticated SQL Injection via REST Batch Route Confusion ████████
+https://hackerone.com/reports/3874004 | Incomplete fix for CVE-2022-23915: Mercurial argument injection in HgRepository.get_file() leads to command execution
 https://hackerone.com/reports/3876430 | MariaDB GRANT PROXY permits unauthorized authentication changes and administrator account takeover
 https://hackerone.com/reports/3878586 | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, hide_from_lists) and uses frozen visibility, exposing donat
 https://hackerone.com/reports/3887969 | SSRF via URL Parser Differential in `normalize_request_url` (wlc)
@@ -12377,4 +12381,6 @@ https://hackerone.com/reports/3993850 | Apple SecTrust fallback ignores CURLOPT_
 https://hackerone.com/reports/3993973 | HTTP Digest nonce reused across an https→http scheme change on the same handle
 https://hackerone.com/reports/3994016 | Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body inject arbitrary Markdown
 https://hackerone.com/reports/4016541 | TLS session resumption client cert bypass with CURLOPT_SSL_CTX_FUNCTION
+https://hackerone.com/reports/4023506 | libcurl LDAP LDIF: entry DN and attribute names written without RFC 2849 base64 encoding, allowing server line injection
+https://hackerone.com/reports/4024268 | Out-of-bounds read in curl_formadd when CURLFORM_NAMELENGTH is explicitly 0
 https://hackerone.com/reports/4027511 | Encoded slash traversal in the IPFS/IPNS URL rewrite escapes the configured gateway namespace
