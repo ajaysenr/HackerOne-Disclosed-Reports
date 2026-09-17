@@ -12044,6 +12044,7 @@ https://hackerone.com/reports/3620748 | V1Plugin.Decrypt panics on empty ciphert
 https://hackerone.com/reports/3620753 | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS)
 https://hackerone.com/reports/3620760 | Encryption context keys and values logged at INFO level
 https://hackerone.com/reports/3620761 | Health check errors silently dropped when channel buffer full
+https://hackerone.com/reports/3621588 | Authenticated `unsigned_txset` change spoof lets a malicious hot wallet steal cold-signer change
 https://hackerone.com/reports/3621606 | ZMQ RPC Log Injection and Untrusted Payload Persistence
 https://hackerone.com/reports/3621851 | CVE-2026-4873: connection reuse ignores TLS requirement
 https://hackerone.com/reports/3622877 | HTTP Request Smuggling via Unsanitized Hop-by-Hop Headers
@@ -12057,6 +12058,7 @@ https://hackerone.com/reports/3630310 | HTTP/2 server push accepts a non-authori
 https://hackerone.com/reports/3630605 | Kiro IDE Stores Auth Tokens with World-Readable Permissions (0644)
 https://hackerone.com/reports/3632427 | Unbounded GZIP Decompression Leading to Event-Loop Starvation
 https://hackerone.com/reports/3632577 | Bedrock AgentCore Starter Toolkit Creates Gateway IAM Roles Without Confused Deputy Protections
+https://hackerone.com/reports/3633123 | Incomplete Input Sanitization in CodeInterpreter install_packages Allows Command Injection via pip Flags
 https://hackerone.com/reports/3633146 | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-certificates.sh
 https://hackerone.com/reports/3633534 | CRLF Injection in HAProxy PROXY Protocol via CURLOPT_HAPROXY_CLIENT_IP allows IP spoofing and protocol injection
 https://hackerone.com/reports/3634400 | SSRF Filter Bypass via Unblocked NAT64 Local-Use IPv6 Prefix (64:ff9b:1::/48)
