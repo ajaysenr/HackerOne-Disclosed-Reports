@@ -1,4 +1,4 @@
-# Weakness: Improper Handling of URL Encoding (Hex Encoding) (3 reports)
+# Weakness: Improper Handling of URL Encoding (Hex Encoding) (4 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -6,4 +6,5 @@
 |---|---|---|---|---|---|---|
 | 1 | [824753](../reports/824753.md) | Cache Poisoning | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.8 | — | 14 |
 | 2 | [2251074](../reports/2251074.md) | Improper handling of request URLs in nextcloud/guests allows gues | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.4 | — | 22 |
-| 3 | [688048](../reports/688048.md) | Incorrect IPv6 literal parsing leads to validated connection to u | [curl](../by-program/curl.md) | Medium — CVSS 6.3 | — | 0 |
+| 3 | [4027511](../reports/4027511.md) | Encoded slash traversal in the IPFS/IPNS URL rewrite escapes the  | [curl](../by-program/curl.md) | Medium | — | 11 |
+| 4 | [688048](../reports/688048.md) | Incorrect IPv6 literal parsing leads to validated connection to u | [curl](../by-program/curl.md) | Medium — CVSS 6.3 | — | 0 |

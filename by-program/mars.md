@@ -1,4 +1,4 @@
-# Mars — Disclosed Reports (70 total)
+# Mars — Disclosed Reports (71 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -41,36 +41,37 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 35 | [3360293](../reports/3360293.md) | Publicly accessible `█████████` endpoint exposing internal u | Medium — CVSS 4.6 | — | 47 | [xgoon](https://hackerone.com/xgoon) | 2026-02-24 |
 | 36 | [2453475](../reports/2453475.md) | Sqli on ██████ search functionality | Medium | — | 46 | [b_i_n_i_a_m](https://hackerone.com/b_i_n_i_a_m) | 2024-06-25 |
 | 37 | [2073950](../reports/2073950.md) | IDOR in one subdomain of █████████ -> change information of  | Medium — CVSS 4.9 | — | 44 | [haoshokunoo](https://hackerone.com/haoshokunoo) | 2024-02-14 |
-| 38 | [2828608](../reports/2828608.md) | Users Data Exposure via Insecure Endpoint | Medium — CVSS 5.7 | — | 39 | [bughunter0x7](https://hackerone.com/bughunter0x7) | 2025-05-12 |
-| 39 | [2341038](../reports/2341038.md) | Account takeover using reset password link | Medium — CVSS 4.7 | — | 38 | [haoshokunoo](https://hackerone.com/haoshokunoo) | 2024-06-25 |
-| 40 | [2307913](../reports/2307913.md) | RXSS in ███ via S parameter   | Medium — CVSS 6.2 | — | 37 | [mosalah1102](https://hackerone.com/mosalah1102) | 2024-11-19 |
-| 41 | [2887506](../reports/2887506.md) | massive PII  leakage for ███████ | Medium — CVSS 5.7 | — | 35 | [thpless](https://hackerone.com/thpless) | 2025-05-12 |
-| 42 | [3376598](../reports/3376598.md) | Sensitive information exposed at [███] via /export_panelists | Medium — CVSS 6.1 | — | 33 | [prakhar0x01](https://hackerone.com/prakhar0x01) | 2026-02-24 |
-| 43 | [2389897](../reports/2389897.md) | Reflected xss on ████████  | Medium — CVSS 6.2 | — | 33 | [blax17](https://hackerone.com/blax17) | 2024-06-25 |
-| 44 | [2445106](../reports/2445106.md) | CSRF in Delete Pet Function | Medium — CVSS 4.4 | — | 31 | [mosalah1102](https://hackerone.com/mosalah1102) | 2024-11-19 |
-| 45 | [3066548](../reports/3066548.md) | ███████ - Publicly Accessible public_html Directory Exposing | Medium — CVSS 5.7 | — | 28 | [xgoon](https://hackerone.com/xgoon) | 2026-02-24 |
-| 46 | [2828720](../reports/2828720.md) | Customer Data Exposure via Insecure Endpoint of coupon | Medium — CVSS 5.7 | — | 27 | [bughunter0x7](https://hackerone.com/bughunter0x7) | 2025-05-27 |
-| 47 | [2144870](../reports/2144870.md) | **"CSRF Vulnerability in ███████ Website Allows Attackers to | Medium — CVSS 5.0 | — | 26 | [bx00](https://hackerone.com/bx00) | 2023-11-15 |
-| 48 | [1965640](../reports/1965640.md) | ████ ' can add animal to other account ' at ██████ | Medium | — | 26 | [0xs4m](https://hackerone.com/0xs4m) | 2023-06-22 |
-| 49 | [3174778](../reports/3174778.md) |  No Rate Limiting on Password Attempts After Insecure Regist | Medium | — | 26 | [azar_man](https://hackerone.com/azar_man) | 2026-02-24 |
-| 50 | [2396630](../reports/2396630.md) | sensitive  data-creds for database - private key | Medium — CVSS 4.6 | — | 26 | [mosalah1102](https://hackerone.com/mosalah1102) | 2024-11-19 |
-| 51 | [2029753](../reports/2029753.md) | CSRF to delete a pet | Medium — CVSS 5.0 | — | 25 | [d0rift](https://hackerone.com/d0rift) | 2023-08-30 |
-| 52 | [2089895](../reports/2089895.md) | Reflected XSS on formaction parameter | Medium | — | 25 | [e5p3ctr0x96](https://hackerone.com/e5p3ctr0x96) | 2024-11-19 |
-| 53 | [1943252](../reports/1943252.md) | Response Manipulation lead to bypass verification code while | Medium — CVSS 6.1 | — | 23 | [mo3giza](https://hackerone.com/mo3giza) | 2023-08-30 |
-| 54 | [1947376](../reports/1947376.md) | ███████  ' can delete any animal from other account  '  at █ | Medium | — | 21 | [0xs4m](https://hackerone.com/0xs4m) | 2023-06-23 |
-| 55 | [1921606](../reports/1921606.md) | Stored XSS via ' profile ' at ███ | Medium — CVSS 6.2 | — | 16 | [0xs4m](https://hackerone.com/0xs4m) | 2023-06-23 |
-| 56 | [1714563](../reports/1714563.md) | Jolokia Reflected XSS  | Medium — CVSS 6.2 | — | 13 | [ramzanrl](https://hackerone.com/ramzanrl) | 2022-10-27 |
-| 57 | [2037234](../reports/2037234.md) | Stored XSS + CSRF in "apellido" value | Medium | — | 12 | [never_die](https://hackerone.com/never_die) | 2023-08-30 |
-| 58 | [2061049](../reports/2061049.md) | Html injection | Medium — CVSS 4.3 | — | 11 | [ped_baq](https://hackerone.com/ped_baq) | 2023-08-30 |
-| 59 | [2261600](../reports/2261600.md) | CSRF to delete a pet on ██████ | Low — CVSS 3.8 | — | 59 | [dr34m14](https://hackerone.com/dr34m14) | 2024-02-05 |
-| 60 | [2684274](../reports/2684274.md) | RXSS on ████ via configUrl parameter | Low — CVSS 3.8 | — | 51 | [kh4rish34v3n](https://hackerone.com/kh4rish34v3n) | 2024-11-26 |
-| 61 | [2354888](../reports/2354888.md) | unsubscribe anyone from all ████████ emails @ █████ | Low | — | 44 | [abfe](https://hackerone.com/abfe) | 2024-11-25 |
-| 62 | [3063026](../reports/3063026.md) | debug.log leaked [█████████] | Low | — | 39 | [imeng](https://hackerone.com/imeng) | 2025-05-12 |
-| 63 | [2166843](../reports/2166843.md) | RXSS on ████ via q parameter | Low — CVSS 3.8 | — | 38 | [mosalah1102](https://hackerone.com/mosalah1102) | 2024-11-21 |
-| 64 | [2313478](../reports/2313478.md) | CSRF resulting in adding pet at ███████ | Low — CVSS 3.8 | — | 29 | [dr34m14](https://hackerone.com/dr34m14) | 2024-06-25 |
-| 65 | [2190062](../reports/2190062.md) | No CSRF protection when adding an item to cart | Low — CVSS 3.8 | — | 29 | [themarkib0x0](https://hackerone.com/themarkib0x0) | 2024-01-30 |
-| 66 | [2243003](../reports/2243003.md) | Information Exposure due to enabled debug mode | Low | — | 21 | [thpless](https://hackerone.com/thpless) | 2024-11-25 |
-| 67 | [1943013](../reports/1943013.md) | CRLF Inection at `██████████` | Low | — | 14 | [mo3giza](https://hackerone.com/mo3giza) | 2023-06-23 |
-| 68 | [2055081](../reports/2055081.md) | Google dork lead to unsubscribe anyone from all Banfield ema | Low | — | 12 | [ractiurd](https://hackerone.com/ractiurd) | 2023-08-30 |
-| 69 | [2666151](../reports/2666151.md) | phpinfo() exposed on ██████████ | None | — | 35 | [thpless](https://hackerone.com/thpless) | 2024-11-21 |
-| 70 | [3185001](../reports/3185001.md) | Order More Than Maximum Allowed Quantity | None | — | 32 | [blackbird_azar](https://hackerone.com/blackbird_azar) | 2025-09-02 |
+| 38 | [2189797](../reports/2189797.md) | RXSS on stores on *█████████/visitorRegistration.pml via des | Medium — CVSS 5.2 | — | 40 | [kuriyama](https://hackerone.com/kuriyama) | 2025-09-02 |
+| 39 | [2828608](../reports/2828608.md) | Users Data Exposure via Insecure Endpoint | Medium — CVSS 5.7 | — | 39 | [bughunter0x7](https://hackerone.com/bughunter0x7) | 2025-05-12 |
+| 40 | [2341038](../reports/2341038.md) | Account takeover using reset password link | Medium — CVSS 4.7 | — | 38 | [haoshokunoo](https://hackerone.com/haoshokunoo) | 2024-06-25 |
+| 41 | [2307913](../reports/2307913.md) | RXSS in ███ via S parameter   | Medium — CVSS 6.2 | — | 37 | [mosalah1102](https://hackerone.com/mosalah1102) | 2024-11-19 |
+| 42 | [2887506](../reports/2887506.md) | massive PII  leakage for ███████ | Medium — CVSS 5.7 | — | 35 | [thpless](https://hackerone.com/thpless) | 2025-05-12 |
+| 43 | [3376598](../reports/3376598.md) | Sensitive information exposed at [███] via /export_panelists | Medium — CVSS 6.1 | — | 33 | [prakhar0x01](https://hackerone.com/prakhar0x01) | 2026-02-24 |
+| 44 | [2389897](../reports/2389897.md) | Reflected xss on ████████  | Medium — CVSS 6.2 | — | 33 | [blax17](https://hackerone.com/blax17) | 2024-06-25 |
+| 45 | [2445106](../reports/2445106.md) | CSRF in Delete Pet Function | Medium — CVSS 4.4 | — | 31 | [mosalah1102](https://hackerone.com/mosalah1102) | 2024-11-19 |
+| 46 | [3066548](../reports/3066548.md) | ███████ - Publicly Accessible public_html Directory Exposing | Medium — CVSS 5.7 | — | 28 | [xgoon](https://hackerone.com/xgoon) | 2026-02-24 |
+| 47 | [2828720](../reports/2828720.md) | Customer Data Exposure via Insecure Endpoint of coupon | Medium — CVSS 5.7 | — | 27 | [bughunter0x7](https://hackerone.com/bughunter0x7) | 2025-05-27 |
+| 48 | [2144870](../reports/2144870.md) | **"CSRF Vulnerability in ███████ Website Allows Attackers to | Medium — CVSS 5.0 | — | 26 | [bx00](https://hackerone.com/bx00) | 2023-11-15 |
+| 49 | [1965640](../reports/1965640.md) | ████ ' can add animal to other account ' at ██████ | Medium | — | 26 | [0xs4m](https://hackerone.com/0xs4m) | 2023-06-22 |
+| 50 | [3174778](../reports/3174778.md) |  No Rate Limiting on Password Attempts After Insecure Regist | Medium | — | 26 | [azar_man](https://hackerone.com/azar_man) | 2026-02-24 |
+| 51 | [2396630](../reports/2396630.md) | sensitive  data-creds for database - private key | Medium — CVSS 4.6 | — | 26 | [mosalah1102](https://hackerone.com/mosalah1102) | 2024-11-19 |
+| 52 | [2029753](../reports/2029753.md) | CSRF to delete a pet | Medium — CVSS 5.0 | — | 25 | [d0rift](https://hackerone.com/d0rift) | 2023-08-30 |
+| 53 | [2089895](../reports/2089895.md) | Reflected XSS on formaction parameter | Medium | — | 25 | [e5p3ctr0x96](https://hackerone.com/e5p3ctr0x96) | 2024-11-19 |
+| 54 | [1943252](../reports/1943252.md) | Response Manipulation lead to bypass verification code while | Medium — CVSS 6.1 | — | 23 | [mo3giza](https://hackerone.com/mo3giza) | 2023-08-30 |
+| 55 | [1947376](../reports/1947376.md) | ███████  ' can delete any animal from other account  '  at █ | Medium | — | 21 | [0xs4m](https://hackerone.com/0xs4m) | 2023-06-23 |
+| 56 | [1921606](../reports/1921606.md) | Stored XSS via ' profile ' at ███ | Medium — CVSS 6.2 | — | 16 | [0xs4m](https://hackerone.com/0xs4m) | 2023-06-23 |
+| 57 | [1714563](../reports/1714563.md) | Jolokia Reflected XSS  | Medium — CVSS 6.2 | — | 13 | [ramzanrl](https://hackerone.com/ramzanrl) | 2022-10-27 |
+| 58 | [2037234](../reports/2037234.md) | Stored XSS + CSRF in "apellido" value | Medium | — | 12 | [never_die](https://hackerone.com/never_die) | 2023-08-30 |
+| 59 | [2061049](../reports/2061049.md) | Html injection | Medium — CVSS 4.3 | — | 11 | [ped_baq](https://hackerone.com/ped_baq) | 2023-08-30 |
+| 60 | [2261600](../reports/2261600.md) | CSRF to delete a pet on ██████ | Low — CVSS 3.8 | — | 59 | [dr34m14](https://hackerone.com/dr34m14) | 2024-02-05 |
+| 61 | [2684274](../reports/2684274.md) | RXSS on ████ via configUrl parameter | Low — CVSS 3.8 | — | 51 | [kh4rish34v3n](https://hackerone.com/kh4rish34v3n) | 2024-11-26 |
+| 62 | [2354888](../reports/2354888.md) | unsubscribe anyone from all ████████ emails @ █████ | Low | — | 44 | [abfe](https://hackerone.com/abfe) | 2024-11-25 |
+| 63 | [3063026](../reports/3063026.md) | debug.log leaked [█████████] | Low | — | 39 | [imeng](https://hackerone.com/imeng) | 2025-05-12 |
+| 64 | [2166843](../reports/2166843.md) | RXSS on ████ via q parameter | Low — CVSS 3.8 | — | 38 | [mosalah1102](https://hackerone.com/mosalah1102) | 2024-11-21 |
+| 65 | [2313478](../reports/2313478.md) | CSRF resulting in adding pet at ███████ | Low — CVSS 3.8 | — | 29 | [dr34m14](https://hackerone.com/dr34m14) | 2024-06-25 |
+| 66 | [2190062](../reports/2190062.md) | No CSRF protection when adding an item to cart | Low — CVSS 3.8 | — | 29 | [themarkib0x0](https://hackerone.com/themarkib0x0) | 2024-01-30 |
+| 67 | [2243003](../reports/2243003.md) | Information Exposure due to enabled debug mode | Low | — | 21 | [thpless](https://hackerone.com/thpless) | 2024-11-25 |
+| 68 | [1943013](../reports/1943013.md) | CRLF Inection at `██████████` | Low | — | 14 | [mo3giza](https://hackerone.com/mo3giza) | 2023-06-23 |
+| 69 | [2055081](../reports/2055081.md) | Google dork lead to unsubscribe anyone from all Banfield ema | Low | — | 12 | [ractiurd](https://hackerone.com/ractiurd) | 2023-08-30 |
+| 70 | [2666151](../reports/2666151.md) | phpinfo() exposed on ██████████ | None | — | 35 | [thpless](https://hackerone.com/thpless) | 2024-11-21 |
+| 71 | [3185001](../reports/3185001.md) | Order More Than Maximum Allowed Quantity | None | — | 32 | [blackbird_azar](https://hackerone.com/blackbird_azar) | 2025-09-02 |

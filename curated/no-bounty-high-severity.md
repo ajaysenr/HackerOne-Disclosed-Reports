@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2404 total)
+# High/Critical Severity — No Bounty Paid (2406 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -463,6 +463,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [518348](../reports/518348.md) | RCE on partner.steampowered.com | [Valve](../by-program/valve.md) | Critical | Resolved | 18 |
 | [1321070](../reports/1321070.md) | AEM forms XXE Vulnerability | [Adobe](../by-program/adobe.md) | Critical — CVSS 9.8 | Resolved | 18 |
 | [900062](../reports/900062.md) | Subdomain takeover of ████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 18 |
+| [2199174](../reports/2199174.md) | [Critical] Curl CVE-2023-38545 vulnerability code changes are dis | [curl](../by-program/curl.md) | Critical | Not Applicable | 18 |
 | [1327701](../reports/1327701.md) | RCE on ███████ [CVE-2021-26084] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 18 |
 | [987751](../reports/987751.md) | CSRF to account takeover in https://███████.mil/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 18 |
 | [913695](../reports/913695.md) | Remote Code Execution via CVE-2019-18935 | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 17 |
@@ -2021,6 +2022,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [407319](../reports/407319.md) | ActiveStorage service's signed URLs can be hijacked via AppCache+ | [Ruby on Rails](../by-program/rails.md) | High — CVSS 7.4 | Resolved | 7 |
 | [985133](../reports/985133.md) | Password Cracking - Weak Password Used to Secure ████ Containing  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 7 |
 | [3637898](../reports/3637898.md) | OS Command Injection in `aws-cdk-lib` NodejsFunction via Unsaniti | [AWS VDP](../by-program/aws_vdp.md) | High — CVSS 7.3 | Resolved | 7 |
+| [2199818](../reports/2199818.md) | Path traversal through path stored in Uint8Array | [Node.js](../by-program/nodejs.md) | High | Resolved | 7 |
 | [1448268](../reports/1448268.md) | TOTP 2 Factor Authentication Bypass | [Rocket.Chat](../by-program/rocket_chat.md) | High | Resolved | 7 |
 | [268804](../reports/268804.md) | CVE-2017-12986 The IPv6 routing header parser in tcpdump before 4 | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | Resolved | 7 |
 | [349146](../reports/349146.md) | Stored XSS in Node-Red | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | Resolved | 7 |

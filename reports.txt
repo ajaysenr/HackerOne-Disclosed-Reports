@@ -11696,9 +11696,11 @@ https://hackerone.com/reports/3295650 | Exposure of Hard-coded Private Keys and 
 https://hackerone.com/reports/3295652 | Insecure WebSocket Usage in curl Documentation and Examples (CWE-319: Cleartext Transmission of Sensitive Information)
 https://hackerone.com/reports/3295656 | Unsafe Global IFS Modification in OS400 Shell Script Enables Command Injection and Parsing Flaws (CWE-78/CWE-20)
 https://hackerone.com/reports/3295738 | Account/Repository Takeover via Abandoned GitHub Username in curl's href_extractor.c
+https://hackerone.com/reports/3301553 | Cross-User Lock/Unlock via Absolute DAV Path
 https://hackerone.com/reports/3302484 | CWE-195 in ExternalMemoryAccounter::Increase()
 https://hackerone.com/reports/3302518 | ## Title Heap Use-After-Free Vulnerability in `curl` Leading to Potential Code Execution
 https://hackerone.com/reports/3303136 | Pending invites remain valid even after the inviter is removed.
+https://hackerone.com/reports/3303283 | Unauthenticated blind SSRF in Circles signature verification bypasses Nextcloud local-address protections
 https://hackerone.com/reports/3303765 | WebSocket Fragmentation DoS on Curl Client
 https://hackerone.com/reports/3304704 | Invalid
 https://hackerone.com/reports/3304830 | Files drop share links for end-to-end encrypted folders allowed to drop files into other folders of the share owner
@@ -11919,6 +11921,7 @@ https://hackerone.com/reports/3483708 | Valid share tokens allow to access tempo
 https://hackerone.com/reports/3483902 | PROTOCOL-LEVEL: Persistent UDP Amplification and Cache Poisoning via Alt-Svc Logic Flaw
 https://hackerone.com/reports/3484319 | MQTT Protocol Violation & Integer Overflow in libcurl
 https://hackerone.com/reports/3484431 | HTTP Request Smuggling and SSRF via CRLF Injection in Curl_add_custom_headers
+https://hackerone.com/reports/3484601 | Team membership information returned on API level based on ID
 https://hackerone.com/reports/3485343 | jitsi-call-analytics: Unauthenticated arbitrary file write via path traversal in `/api/v1/uploads/analyze`
 https://hackerone.com/reports/3485826 | Alt-Svc bypasses credential leak protection (CVE-2018-1000007)
 https://hackerone.com/reports/3485930 | Path Traversal in curl file:// Protocol Handler Allows Unauthorized File Access
@@ -11930,6 +11933,7 @@ https://hackerone.com/reports/3493602 | Stack Buffer Overflow in mprintf.c forma
 https://hackerone.com/reports/3494098 | inconsistently Rejection Logic in file:// URLs with Authority
 https://hackerone.com/reports/3506159 | Heap Out-of-Bounds Read in lib/http2.c via Malformed PUSH_PROMISE Headers
 https://hackerone.com/reports/3506183 | Missing Access Control in MigrationFile allows attacker to upload files to any Migration
+https://hackerone.com/reports/3506873 | Shared smart albums in the Photos app can expose files outside the album owner's configured source folders
 https://hackerone.com/reports/3507241 | Authorization Bypass in Starknet Snap via enableAuthorize parameter leads to unauthorized transaction signing
 https://hackerone.com/reports/3507273 | Email Enumeration via Password-Protected Share Identity Verification
 https://hackerone.com/reports/3508321 | Integer-underflow leads to heap over-read in TFTP implementation
@@ -11958,6 +11962,7 @@ https://hackerone.com/reports/3518758 | IDOR on ██████ via direct ph
 https://hackerone.com/reports/3521434 | View-only guests could see deleted Collectives pages in the trashbin
 https://hackerone.com/reports/3521639 | Improper Input Validation and Integer Overflow in timeamount parameter of files_retention app
 https://hackerone.com/reports/3521646 | Missing Duplicate Check allowing Multiple Retention Rules per System Tag
+https://hackerone.com/reports/3522157 | SSRF with bypass leads to client side hosting / vulnerabilities ( XSS and others )
 https://hackerone.com/reports/3522254 | PATs without the required scope can leak issues
 https://hackerone.com/reports/3523349 | Integer Underflow in src/var.c
 https://hackerone.com/reports/3523703 | Password Strength Policy Bypass via Server-Side Validation Flaw
@@ -11967,6 +11972,7 @@ https://hackerone.com/reports/3527771 | Add labels to arbitrary issues/prs & com
 https://hackerone.com/reports/3527788 | Add labels to arbitrary issues/prs via Memex Bulk Update to compromise github actions label gating
 https://hackerone.com/reports/3531216 | MQTT Protocol Packet Injection via Unchecked CONNACK Remaining Length
 https://hackerone.com/reports/3531737 | Memory leak in Node.js HTTP/2 server via WINDOW_UPDATE on stream 0 leads to resource exhaustion
+https://hackerone.com/reports/3533697 | Public collectives allow to create pages
 https://hackerone.com/reports/3533945 | Timing side-channel in HMAC verification via memcmp() in crypto_hmac.cc leads to potential MAC forgery
 https://hackerone.com/reports/3534050 | Activity app does not verify federated file activity received from remote servers
 https://hackerone.com/reports/3542546 | Server-side ReDoS via user-controlled regex in OIDC Access Policy
@@ -12021,6 +12027,7 @@ https://hackerone.com/reports/3597359 | NULL Pointer Dereference (DoS) in libcur
 https://hackerone.com/reports/3598358 | urlapi: off-by-one in custom scheme validation skips last character
 https://hackerone.com/reports/3598444 | Curl_compareheader() fails to match multi-value HTTP headers
 https://hackerone.com/reports/3599248 | Bypass of Open Redirect Fix on lovable.dev via /..// Path Traversal in redirect parameter
+https://hackerone.com/reports/3599383 | Arbitrary Board Preference Injection via Deck Config API
 https://hackerone.com/reports/3601469 | Restricted RPC Policy Bypass on ZMQ JSON-RPC Allows Unauthenticated Remote Admin Actions
 https://hackerone.com/reports/3601655 | Rails::HTML::Sanitizer.allowed_uri? returns true for entity-encoded control-character-split javascript: URLs
 https://hackerone.com/reports/3603300 | SMB READ_ANDX DataOffset not validated
@@ -12030,6 +12037,7 @@ https://hackerone.com/reports/3608199 | DOM XSS in `fizzy.do` import filename pr
 https://hackerone.com/reports/3608522 | Unescaped username in SASL DIGEST-MD5 response allows injection
 https://hackerone.com/reports/3608558 | Blind POST SSRF via Web Push Notification Endpoint
 https://hackerone.com/reports/3609505 | HSTS accepted from HTTP origin behind HTTPS proxy
+https://hackerone.com/reports/3610332 | Approval app's file-freshness check can be bypassed by omitting the etag parameter, allowing approval of unreviewed file changes
 https://hackerone.com/reports/3611825 | Bearer Token Leaked to Attacker via .netrc Despite CVE-2026-3783 Fix
 https://hackerone.com/reports/3611837 | Unauthenticated file deletion via deleteFileMessage DDP method allows permanent destruction of any uploaded file
 https://hackerone.com/reports/3612891 | Exposed .git/config File Leading to Potential Sensitive Information Disclosure
@@ -12109,6 +12117,7 @@ https://hackerone.com/reports/3671818 | CVE-2026-6276: stale custom cookie host 
 https://hackerone.com/reports/3672641 | Session ID reuse allowing XML‑RPC API authentication bypass
 https://hackerone.com/reports/3673277 | libcurl stale CURLOPT_AUTOREFERER leaks a previous request URL to a different origin on a reused easy handle
 https://hackerone.com/reports/3674275 | lib/http2.c: SSL connections accept non-HTTP push schemes (incomplete fix for 2e8c922a)
+https://hackerone.com/reports/3674940 | Critical broken access control: API-only delegated admin can enumerate all Team Folders and grant access to arbitrary groups
 https://hackerone.com/reports/3676308 | POST /api/bitcoinWithdrawalFees returns financial data without authentication despite being documented as a USER OPERATION (private endpoint)
 https://hackerone.com/reports/3676863 | Unbounded memory growth in `node:http2` clients via attacker-controlled ORIGIN frames
 https://hackerone.com/reports/3677576 | Missing access control when modifying parent entities via XML‑RPC
@@ -12120,7 +12129,10 @@ https://hackerone.com/reports/3680038 | Digest Auth State Leak on Cross-Origin R
 https://hackerone.com/reports/3680090 | Stored XSS via malicious usernames in audit log details + Username validation bypass in XML‑RPC addUser
 https://hackerone.com/reports/3680234 | libcurl reuses a learned RTSP Session header across different hosts on the same easy handle, enabling cross-host session leak and replay
 https://hackerone.com/reports/3680680 | libcurl omits IPv6 zoneid from host identity and leaks credentials/cookies across scoped link-local realms
+https://hackerone.com/reports/3681690 | ZMQ get_output_distribution duplicate amount DoS
 https://hackerone.com/reports/3682666 | Use-after-free in `curl_easy_ssls_export()` during callback re-entrancy
+https://hackerone.com/reports/3683886 | Restricted ZMQ RPC bypasses HTTP restricted-mode resource checks
+https://hackerone.com/reports/3683934 | sign_multisig crashes monero-wallet-rpc on a malformed but decryptable multisig txset
 https://hackerone.com/reports/3684603 | Stack exhaustion in MIME multipart reading with deeply nested subparts
 https://hackerone.com/reports/3684614 | Heap-buffer-overflow in `Curl_ssl_push_certinfo_len()` — sole bounds check is `DEBUGASSERT`
 https://hackerone.com/reports/3686259 | `set_daemon` wallet-rpc silently ignores `ssl_allowed_fingerprints` → pinning bypassed, wallet↔daemon MITM
