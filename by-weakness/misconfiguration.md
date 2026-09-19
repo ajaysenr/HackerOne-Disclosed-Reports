@@ -1,4 +1,4 @@
-# Weakness: Misconfiguration (81 reports)
+# Weakness: Misconfiguration (82 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -17,71 +17,72 @@
 | 11 | [1188629](../reports/1188629.md) | Wrong Url in Main Page | [Sifchain](../by-program/sifchain.md) | Low | $200 | 6 |
 | 12 | [1168104](../reports/1168104.md) | Weak password policy leading to exposure of administrator account | [U.S. General Services Administration](../by-program/gsa_vdp.md) | Critical — CVSS 9.1 | — | 36 |
 | 13 | [1398662](../reports/1398662.md) | Мисконфигурация Cisco Smart Install | [Azbuka Vkusa](../by-program/av.md) | Critical — CVSS 9.4 | — | 12 |
-| 14 | [928255](../reports/928255.md) | Ability To Delete User(s) Account Without User Interaction | [GitLab](../by-program/gitlab.md) | High — CVSS 7.5 | — | 219 |
-| 15 | [3475626](../reports/3475626.md) | Session Cookie Leakage via Static Header Field in WebViewerFragme | [LinkedIn](../by-program/linkedin.md) | High — CVSS 8.1 | — | 116 |
-| 16 | [1634165](../reports/1634165.md) | Mass account takeover! | [Stripe](../by-program/stripe.md) | High | — | 100 |
-| 17 | [2106886](../reports/2106886.md) | subdomain takeover at █████████ | [Mars](../by-program/mars.md) | High — CVSS 8.4 | — | 40 |
-| 18 | [1711890](../reports/1711890.md) | Subdomain takeover on 'de-headless.staging.gymshark.com' | [Gymshark](../by-program/gymshark.md) | High — CVSS 7.5 | — | 31 |
-| 19 | [874482](../reports/874482.md) | Subdomain Takeover due to unclaimed domain pointing to Acquia Clo | [Insulet Corporation](../by-program/insulet_corporation.md) | High — CVSS 7.5 | — | 18 |
-| 20 | [1486327](../reports/1486327.md) | Security misconfiguration  | [lemlist](../by-program/lemlist.md) | High — CVSS 8.8 | — | 15 |
-| 21 | [963542](../reports/963542.md) | Django DEBUG mode enabled and leaked system information. | [Dropcontact](../by-program/dropcontact.md) | High | — | 12 |
-| 22 | [1354437](../reports/1354437.md) | Password reset token leakage | [UPchieve](../by-program/upchieve.md) | High | — | 12 |
-| 23 | [1487793](../reports/1487793.md) | Subdomain Takeover on proxies.sifchain.finance pointing to vercel | [Sifchain](../by-program/sifchain.md) | High | — | 12 |
-| 24 | [794382](../reports/794382.md) | Route53 Subdomain Takeover on test-cncf-aws.canary.k8s.io | [Kubernetes](../by-program/kubernetes.md) | High | — | 12 |
-| 25 | [867436](../reports/867436.md) | misconfigured CORS let to HPP and SOP bypass | [BTFS](../by-program/btfs.md) | High | — | 4 |
-| 26 | [235200](../reports/235200.md) | Cross-origin resource sharing misconfig | steal user information  | [Semrush](../by-program/semrush.md) | Medium — CVSS 5.7 | — | 94 |
-| 27 | [1883806](../reports/1883806.md) | Complete Admin account takeover due to PhpDebugBar turned on in U | [Uber](../by-program/uber.md) | Medium | — | 89 |
-| 28 | [2269867](../reports/2269867.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 79 |
-| 29 | [2641211](../reports/2641211.md) | phpinfo() exposed on ██████████ | [Mars](../by-program/mars.md) | Medium — CVSS 4.6 | — | 50 |
-| 30 | [2216036](../reports/2216036.md) | RC Between GitHub's Repo Transfer REST API and updateTeamsReposit | [GitHub](../by-program/github.md) | Medium | — | 50 |
-| 31 | [2357443](../reports/2357443.md) | RC Between GitHub's Repo Update REST API and updateTeamsRepositor | [GitHub](../by-program/github.md) | Medium | — | 49 |
-| 32 | [2545012](../reports/2545012.md) | Subdomain takeover on one of the subdomains under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 49 |
-| 33 | [2131215](../reports/2131215.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 49 |
-| 34 | [2286867](../reports/2286867.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 44 |
-| 35 | [2209571](../reports/2209571.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 41 |
-| 36 | [2287098](../reports/2287098.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 40 |
-| 37 | [2140976](../reports/2140976.md) | Subdomain takeover on one of the subdomain under mozgcp.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 39 |
-| 38 | [2262939](../reports/2262939.md) | Misconfiguration in AWS CloudFront CDN configuration makes rubyge | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 37 |
-| 39 | [2285286](../reports/2285286.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 37 |
-| 40 | [2398630](../reports/2398630.md) | Subdomain takeover on one of the subdomains under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 34 |
-| 41 | [1085743](../reports/1085743.md) | No error thrown when IDOR attempted while editing address | [OpenMage](../by-program/openmage.md) | Medium | — | 33 |
-| 42 | [2017323](../reports/2017323.md) | Subdomain takeover on one of the subdomain under mozilla.org | [Mozilla](../by-program/mozilla.md) | Medium | — | 31 |
-| 43 | [2143408](../reports/2143408.md) | Subdomain takeover on one of the subdomain under mozgcp.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 29 |
-| 44 | [1019367](../reports/1019367.md) | Memory Dump and Env Disclosure via Spring Boot Actuator | [Stripo Inc](../by-program/stripo.md) | Medium | — | 28 |
-| 45 | [2190380](../reports/2190380.md) | Subdomain takeover on one of the subdomain under mozgcp.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 22 |
-| 46 | [862835](../reports/862835.md) | GraphQL introspection query works through unauthenticated WebSock | [Nuri](../by-program/nuri.md) | Medium — CVSS 6.1 | — | 17 |
-| 47 | [905641](../reports/905641.md) | [OPEN S3 BUCKET] All uploaded files are public.  | [Courier](../by-program/trycourier.md) | Medium — CVSS 6.1 | — | 16 |
-| 48 | [2135054](../reports/2135054.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 15 |
-| 49 | [2194289](../reports/2194289.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 12 |
-| 50 | [2171494](../reports/2171494.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 10 |
-| 51 | [2123680](../reports/2123680.md) | Subdomain takeover on one of the subdomain under mozgcp.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 7 |
-| 52 | [1354382](../reports/1354382.md) | Password Reuse | [UPchieve](../by-program/upchieve.md) | Medium | — | 6 |
-| 53 | [1354368](../reports/1354368.md) | Missing Validation in editing  "Your Phone Number"  | [UPchieve](../by-program/upchieve.md) | Medium | — | 4 |
-| 54 | [2129791](../reports/2129791.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 4 |
-| 55 | [2134671](../reports/2134671.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 3 |
-| 56 | [2127469](../reports/2127469.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 3 |
-| 57 | [2523654](../reports/2523654.md) | Subdomain takeover in Gitlab pages | [GitLab](../by-program/gitlab.md) | Low — CVSS 3.5 | — | 79 |
-| 58 | [2599840](../reports/2599840.md) | Remove obsolete domain from handbook subdomain | [GitLab](../by-program/gitlab.md) | Low | — | 72 |
-| 59 | [1132803](../reports/1132803.md) | Graphql introspection is enabled and leaks details about the sche | [On ](../by-program/on.md) | Low | — | 55 |
-| 60 | [2000000](../reports/2000000.md) | 2M Reports on HackerOne Celebration! - Ability to bulk-submit man | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | — | 54 |
-| 61 | [2679440](../reports/2679440.md) | Unauthenticated Varnish Cache Purge | [Adobe](../by-program/adobe.md) | Low — CVSS 3.7 | — | 43 |
-| 62 | [1152588](../reports/1152588.md) | Social media link hijack of team member [Linkedin] at https://mac | [Clario](../by-program/clario.md) | Low | — | 26 |
-| 63 | [2011298](../reports/2011298.md) | The `stripe/veneur` GitHub repository links to a domain `veneur.o | [Stripe](../by-program/stripe.md) | Low — CVSS 2.0 | — | 26 |
-| 64 | [1139541](../reports/1139541.md) | Enumerating HackerOne Pentests | [HackerOne](../by-program/security.md) | Low — CVSS 3.7 | — | 16 |
-| 65 | [1484468](../reports/1484468.md) | Information Leakage via TikTok Ads Web Cache Deception | [TikTok](../by-program/tiktok.md) | Low | — | 14 |
-| 66 | [1416701](../reports/1416701.md) | Missing SPF record on trycourier.app | [Courier](../by-program/trycourier.md) | Low | — | 8 |
-| 67 | [1187018](../reports/1187018.md) | wrong url in hackerone > goes to wix.com > unconnected | [Sifchain](../by-program/sifchain.md) | Low | — | 5 |
-| 68 | [1198877](../reports/1198877.md) | Wrong Implementation of Url in https://docs.sifchain.finance/ | [Sifchain](../by-program/sifchain.md) | Low | — | 0 |
-| 69 | [1195512](../reports/1195512.md) | Wrong Url in Main page of sifchain.finance | [Sifchain](../by-program/sifchain.md) | Low | — | 0 |
-| 70 | [2082680](../reports/2082680.md) | Register & create a ticket as somebody else on HackerOne Support  | [HackerOne](../by-program/security.md) | None | — | 56 |
-| 71 | [2666151](../reports/2666151.md) | phpinfo() exposed on ██████████ | [Mars](../by-program/mars.md) | None | — | 35 |
-| 72 | [2001913](../reports/2001913.md) | Create miscellaneous support ticket on anyone's account through s | [HackerOne](../by-program/security.md) | None | — | 29 |
-| 73 | [168476](../reports/168476.md) | Incoming email hijacking on sc-cdn.net | [Snapchat](../by-program/snapchat.md) | None | — | 24 |
-| 74 | [2068830](../reports/2068830.md) | HackerOne Support System Doesn't Require Any Authentication May L | [HackerOne](../by-program/security.md) | None | — | 20 |
-| 75 | [1194280](../reports/1194280.md) | CORS Misconfiguration | [Sifchain](../by-program/sifchain.md) | None | — | 9 |
-| 76 | [1194293](../reports/1194293.md) | Wrong implementation of Telegram link on the main page for PC use | [Sifchain](../by-program/sifchain.md) | None | — | 8 |
-| 77 | [1160381](../reports/1160381.md) | Захват домена ozoncorporate.ru | [Ozon](../by-program/ozon.md) | None | — | 8 |
-| 78 | [1681275](../reports/1681275.md) | Dependecy Confusion via Lookup Request Forwarding to PyPi.org | [GitLab](../by-program/gitlab.md) | None | — | 6 |
-| 79 | [1065830](../reports/1065830.md) | Error Page Text Injection (no compromise) | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | None | — | 4 |
-| 80 | [1354444](../reports/1354444.md) | Outdated Copyright Message @ Welcome email | [UPchieve](../by-program/upchieve.md) | None | — | 4 |
-| 81 | [1186740](../reports/1186740.md) | Misconfiguration Certificate Authority Authorization Rule | [Sifchain](../by-program/sifchain.md) | None | — | 1 |
+| 14 | [4020767](../reports/4020767.md) | Unauthenticated API allows reading, writing to and deleting any u | [Essity](../by-program/essity.md) | Critical — CVSS 9.3 | — | 10 |
+| 15 | [928255](../reports/928255.md) | Ability To Delete User(s) Account Without User Interaction | [GitLab](../by-program/gitlab.md) | High — CVSS 7.5 | — | 219 |
+| 16 | [3475626](../reports/3475626.md) | Session Cookie Leakage via Static Header Field in WebViewerFragme | [LinkedIn](../by-program/linkedin.md) | High — CVSS 8.1 | — | 116 |
+| 17 | [1634165](../reports/1634165.md) | Mass account takeover! | [Stripe](../by-program/stripe.md) | High | — | 100 |
+| 18 | [2106886](../reports/2106886.md) | subdomain takeover at █████████ | [Mars](../by-program/mars.md) | High — CVSS 8.4 | — | 40 |
+| 19 | [1711890](../reports/1711890.md) | Subdomain takeover on 'de-headless.staging.gymshark.com' | [Gymshark](../by-program/gymshark.md) | High — CVSS 7.5 | — | 31 |
+| 20 | [874482](../reports/874482.md) | Subdomain Takeover due to unclaimed domain pointing to Acquia Clo | [Insulet Corporation](../by-program/insulet_corporation.md) | High — CVSS 7.5 | — | 18 |
+| 21 | [1486327](../reports/1486327.md) | Security misconfiguration  | [lemlist](../by-program/lemlist.md) | High — CVSS 8.8 | — | 15 |
+| 22 | [963542](../reports/963542.md) | Django DEBUG mode enabled and leaked system information. | [Dropcontact](../by-program/dropcontact.md) | High | — | 12 |
+| 23 | [1354437](../reports/1354437.md) | Password reset token leakage | [UPchieve](../by-program/upchieve.md) | High | — | 12 |
+| 24 | [1487793](../reports/1487793.md) | Subdomain Takeover on proxies.sifchain.finance pointing to vercel | [Sifchain](../by-program/sifchain.md) | High | — | 12 |
+| 25 | [794382](../reports/794382.md) | Route53 Subdomain Takeover on test-cncf-aws.canary.k8s.io | [Kubernetes](../by-program/kubernetes.md) | High | — | 12 |
+| 26 | [867436](../reports/867436.md) | misconfigured CORS let to HPP and SOP bypass | [BTFS](../by-program/btfs.md) | High | — | 4 |
+| 27 | [235200](../reports/235200.md) | Cross-origin resource sharing misconfig | steal user information  | [Semrush](../by-program/semrush.md) | Medium — CVSS 5.7 | — | 94 |
+| 28 | [1883806](../reports/1883806.md) | Complete Admin account takeover due to PhpDebugBar turned on in U | [Uber](../by-program/uber.md) | Medium | — | 89 |
+| 29 | [2269867](../reports/2269867.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 79 |
+| 30 | [2641211](../reports/2641211.md) | phpinfo() exposed on ██████████ | [Mars](../by-program/mars.md) | Medium — CVSS 4.6 | — | 50 |
+| 31 | [2216036](../reports/2216036.md) | RC Between GitHub's Repo Transfer REST API and updateTeamsReposit | [GitHub](../by-program/github.md) | Medium | — | 50 |
+| 32 | [2357443](../reports/2357443.md) | RC Between GitHub's Repo Update REST API and updateTeamsRepositor | [GitHub](../by-program/github.md) | Medium | — | 49 |
+| 33 | [2545012](../reports/2545012.md) | Subdomain takeover on one of the subdomains under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 49 |
+| 34 | [2131215](../reports/2131215.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 49 |
+| 35 | [2286867](../reports/2286867.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 44 |
+| 36 | [2209571](../reports/2209571.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 41 |
+| 37 | [2287098](../reports/2287098.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 40 |
+| 38 | [2140976](../reports/2140976.md) | Subdomain takeover on one of the subdomain under mozgcp.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 39 |
+| 39 | [2262939](../reports/2262939.md) | Misconfiguration in AWS CloudFront CDN configuration makes rubyge | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 37 |
+| 40 | [2285286](../reports/2285286.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 37 |
+| 41 | [2398630](../reports/2398630.md) | Subdomain takeover on one of the subdomains under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 34 |
+| 42 | [1085743](../reports/1085743.md) | No error thrown when IDOR attempted while editing address | [OpenMage](../by-program/openmage.md) | Medium | — | 33 |
+| 43 | [2017323](../reports/2017323.md) | Subdomain takeover on one of the subdomain under mozilla.org | [Mozilla](../by-program/mozilla.md) | Medium | — | 31 |
+| 44 | [2143408](../reports/2143408.md) | Subdomain takeover on one of the subdomain under mozgcp.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 29 |
+| 45 | [1019367](../reports/1019367.md) | Memory Dump and Env Disclosure via Spring Boot Actuator | [Stripo Inc](../by-program/stripo.md) | Medium | — | 28 |
+| 46 | [2190380](../reports/2190380.md) | Subdomain takeover on one of the subdomain under mozgcp.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 22 |
+| 47 | [862835](../reports/862835.md) | GraphQL introspection query works through unauthenticated WebSock | [Nuri](../by-program/nuri.md) | Medium — CVSS 6.1 | — | 17 |
+| 48 | [905641](../reports/905641.md) | [OPEN S3 BUCKET] All uploaded files are public.  | [Courier](../by-program/trycourier.md) | Medium — CVSS 6.1 | — | 16 |
+| 49 | [2135054](../reports/2135054.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 15 |
+| 50 | [2194289](../reports/2194289.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 12 |
+| 51 | [2171494](../reports/2171494.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 10 |
+| 52 | [2123680](../reports/2123680.md) | Subdomain takeover on one of the subdomain under mozgcp.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 7 |
+| 53 | [1354382](../reports/1354382.md) | Password Reuse | [UPchieve](../by-program/upchieve.md) | Medium | — | 6 |
+| 54 | [1354368](../reports/1354368.md) | Missing Validation in editing  "Your Phone Number"  | [UPchieve](../by-program/upchieve.md) | Medium | — | 4 |
+| 55 | [2129791](../reports/2129791.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 4 |
+| 56 | [2134671](../reports/2134671.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 3 |
+| 57 | [2127469](../reports/2127469.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 3 |
+| 58 | [2523654](../reports/2523654.md) | Subdomain takeover in Gitlab pages | [GitLab](../by-program/gitlab.md) | Low — CVSS 3.5 | — | 79 |
+| 59 | [2599840](../reports/2599840.md) | Remove obsolete domain from handbook subdomain | [GitLab](../by-program/gitlab.md) | Low | — | 72 |
+| 60 | [1132803](../reports/1132803.md) | Graphql introspection is enabled and leaks details about the sche | [On ](../by-program/on.md) | Low | — | 55 |
+| 61 | [2000000](../reports/2000000.md) | 2M Reports on HackerOne Celebration! - Ability to bulk-submit man | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | — | 54 |
+| 62 | [2679440](../reports/2679440.md) | Unauthenticated Varnish Cache Purge | [Adobe](../by-program/adobe.md) | Low — CVSS 3.7 | — | 43 |
+| 63 | [1152588](../reports/1152588.md) | Social media link hijack of team member [Linkedin] at https://mac | [Clario](../by-program/clario.md) | Low | — | 26 |
+| 64 | [2011298](../reports/2011298.md) | The `stripe/veneur` GitHub repository links to a domain `veneur.o | [Stripe](../by-program/stripe.md) | Low — CVSS 2.0 | — | 26 |
+| 65 | [1139541](../reports/1139541.md) | Enumerating HackerOne Pentests | [HackerOne](../by-program/security.md) | Low — CVSS 3.7 | — | 16 |
+| 66 | [1484468](../reports/1484468.md) | Information Leakage via TikTok Ads Web Cache Deception | [TikTok](../by-program/tiktok.md) | Low | — | 14 |
+| 67 | [1416701](../reports/1416701.md) | Missing SPF record on trycourier.app | [Courier](../by-program/trycourier.md) | Low | — | 8 |
+| 68 | [1187018](../reports/1187018.md) | wrong url in hackerone > goes to wix.com > unconnected | [Sifchain](../by-program/sifchain.md) | Low | — | 5 |
+| 69 | [1198877](../reports/1198877.md) | Wrong Implementation of Url in https://docs.sifchain.finance/ | [Sifchain](../by-program/sifchain.md) | Low | — | 0 |
+| 70 | [1195512](../reports/1195512.md) | Wrong Url in Main page of sifchain.finance | [Sifchain](../by-program/sifchain.md) | Low | — | 0 |
+| 71 | [2082680](../reports/2082680.md) | Register & create a ticket as somebody else on HackerOne Support  | [HackerOne](../by-program/security.md) | None | — | 56 |
+| 72 | [2666151](../reports/2666151.md) | phpinfo() exposed on ██████████ | [Mars](../by-program/mars.md) | None | — | 35 |
+| 73 | [2001913](../reports/2001913.md) | Create miscellaneous support ticket on anyone's account through s | [HackerOne](../by-program/security.md) | None | — | 29 |
+| 74 | [168476](../reports/168476.md) | Incoming email hijacking on sc-cdn.net | [Snapchat](../by-program/snapchat.md) | None | — | 24 |
+| 75 | [2068830](../reports/2068830.md) | HackerOne Support System Doesn't Require Any Authentication May L | [HackerOne](../by-program/security.md) | None | — | 20 |
+| 76 | [1194280](../reports/1194280.md) | CORS Misconfiguration | [Sifchain](../by-program/sifchain.md) | None | — | 9 |
+| 77 | [1194293](../reports/1194293.md) | Wrong implementation of Telegram link on the main page for PC use | [Sifchain](../by-program/sifchain.md) | None | — | 8 |
+| 78 | [1160381](../reports/1160381.md) | Захват домена ozoncorporate.ru | [Ozon](../by-program/ozon.md) | None | — | 8 |
+| 79 | [1681275](../reports/1681275.md) | Dependecy Confusion via Lookup Request Forwarding to PyPi.org | [GitLab](../by-program/gitlab.md) | None | — | 6 |
+| 80 | [1065830](../reports/1065830.md) | Error Page Text Injection (no compromise) | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | None | — | 4 |
+| 81 | [1354444](../reports/1354444.md) | Outdated Copyright Message @ Welcome email | [UPchieve](../by-program/upchieve.md) | None | — | 4 |
+| 82 | [1186740](../reports/1186740.md) | Misconfiguration Certificate Authority Authorization Rule | [Sifchain](../by-program/sifchain.md) | None | — | 1 |

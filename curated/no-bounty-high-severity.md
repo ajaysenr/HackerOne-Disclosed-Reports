@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2406 total)
+# High/Critical Severity — No Bounty Paid (2408 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -604,6 +604,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [307666](../reports/307666.md) | [serve] Directory index of arbitrary folder available due to lack | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.3 | Resolved | 10 |
 | [1065829](../reports/1065829.md) | Invading Grinch Network and Saving Christmas | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 10 |
 | [1294062](../reports/1294062.md) | Underrepresentation Bias through Twitter's Cropping Algorithm | [Twitter Algorithmic Bias](../by-program/twitter-algorithmic-bias.md) | Critical | Resolved | 10 |
+| [4020767](../reports/4020767.md) | Unauthenticated API allows reading, writing to and deleting any u | [Essity](../by-program/essity.md) | Critical — CVSS 9.3 | Resolved | 10 |
 | [887700](../reports/887700.md) | [H1-2006 2020]  Multiple vulnerabilities leading account takeover | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 10 |
 | [394294](../reports/394294.md) | [samsung-remote] Command injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | Resolved | 10 |
 | [231926](../reports/231926.md) | Remote Code Execution (RCE) in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 10 |
@@ -1425,6 +1426,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1196976](../reports/1196976.md) | IDOR while uploading ████ attachments at [█████████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 26 |
 | [1104349](../reports/1104349.md) | Server Side Template Injection on Name parameter during Sign Up p | [Glovo](../by-program/glovo.md) | High | Resolved | 26 |
 | [229622](../reports/229622.md) | Directory traversal at https://nightly.ubnt.com | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 7.5 | Resolved | 26 |
+| [3874004](../reports/3874004.md) |  Incomplete fix for CVE-2022-23915: Mercurial argument injection  | [Weblate](../by-program/weblate.md) | High — CVSS 8.5 | Resolved | 26 |
 | [1004833](../reports/1004833.md) | Cross-site Scripting (XSS) - DOM - iqcard.informatica.com | [Informatica](../by-program/informatica.md) | High — CVSS 8.4 | Resolved | 26 |
 | [1541817](../reports/1541817.md) | ██████ SSN/EDPI | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 26 |
 | [736863](../reports/736863.md) | Bulgaria - Subdomain takeover of mail.starbucks.bg | [Starbucks](../by-program/starbucks.md) | High — CVSS 8.4 | Resolved | 26 |

@@ -12234,6 +12234,7 @@ https://hackerone.com/reports/3766455 | Yelp for Business: locked Email field si
 https://hackerone.com/reports/3767963 | Proxy CONNECT response poisoning via authentication retry in cf-h1-proxy.c (libcurl)
 https://hackerone.com/reports/3769293 | Low priority HSTS bypass in curl_easy_duphandle()
 https://hackerone.com/reports/3769676 | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire Server
+https://hackerone.com/reports/3770482 | files_lock: a write-share collaborator can place a TYPE_TOKEN lock that permanently denies the file owner, survives share revocation and account delet
 https://hackerone.com/reports/3770979 | SMTP connection reuse ignores --ssl-reqd / CURLOPT_USE_SSL and reuses a clear-text STARTTLS session on current master
 https://hackerone.com/reports/3771139 | Heap Memory Disclosure via Integer Underflow in Item_func_json_arrayagg::cut_max_length in MariaDB Server
 https://hackerone.com/reports/3771144 | Use-After-Free in BTREE Index Traversal via Stale key_version in heap_update() in MariaDB Server
@@ -12334,6 +12335,7 @@ https://hackerone.com/reports/3909248 | MariaDB: heap buffer overflow in ha_tina
 https://hackerone.com/reports/3909372 | Unauthorized vertical privilege escalation vulnerability found on ibm.com endpoint
 https://hackerone.com/reports/3911605 | SMTP CRLF injection in custom SMTP recipient operand allows additional SMTP commands after authentication
 https://hackerone.com/reports/3911968 | Heap use-after-free (write) in mev_forget_socket() via reentrant curl_easy_pause() — incomplete fix for CVE-2026-9080
+https://hackerone.com/reports/3913012 | Persistent SMTP header injection via identity `organization` / `name`
 https://hackerone.com/reports/3916059 | CVE-2026-18924: HTTP/2 server push UAF
 https://hackerone.com/reports/3917775 | curl Missing Sec-WebSocket-Accept Verification Enables MITM WebSocket Session Hijacking
 https://hackerone.com/reports/3920276 | Cookie jar load skips public suffix check on PSL builds
@@ -12395,6 +12397,8 @@ https://hackerone.com/reports/3993850 | Apple SecTrust fallback ignores CURLOPT_
 https://hackerone.com/reports/3993973 | HTTP Digest nonce reused across an https→http scheme change on the same handle
 https://hackerone.com/reports/3994016 | Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body inject arbitrary Markdown
 https://hackerone.com/reports/4016541 | TLS session resumption client cert bypass with CURLOPT_SSL_CTX_FUNCTION
+https://hackerone.com/reports/4020767 | Unauthenticated API allows reading, writing to and deleting any user's private chat history on ████████
+https://hackerone.com/reports/4021952 | Socket API drops expired timeouts for transfers queued behind a connection limit
 https://hackerone.com/reports/4023506 | libcurl LDAP LDIF: entry DN and attribute names written without RFC 2849 base64 encoding, allowing server line injection
 https://hackerone.com/reports/4024268 | Out-of-bounds read in curl_formadd when CURLFORM_NAMELENGTH is explicitly 0
 https://hackerone.com/reports/4027511 | Encoded slash traversal in the IPFS/IPNS URL rewrite escapes the configured gateway namespace

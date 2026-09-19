@@ -1,4 +1,4 @@
-# Weakness: OS Command Injection (59 reports)
+# Weakness: OS Command Injection (60 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -43,23 +43,24 @@
 | 37 | [876708](../reports/876708.md) | Remote Code Execution through DNN Cookie Deserialization  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 56 |
 | 38 | [410334](../reports/410334.md) | Reflected XSS and Blind out of band command injection at subdomai | [IBM](../by-program/ibm.md) | High | — | 42 |
 | 39 | [260005](../reports/260005.md) | RCE via ssh:// URIs in multiple VCS  | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.8 | — | 39 |
-| 40 | [534630](../reports/534630.md) | Remote Code Execution - Unauthenticated Remote Command Injection  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 13 |
-| 41 | [3225565](../reports/3225565.md) |  OS Command Injection in scripts/firefox-db2pem.sh via untrusted  | [curl](../by-program/curl.md) | High | — | 12 |
-| 42 | [3637898](../reports/3637898.md) | OS Command Injection in `aws-cdk-lib` NodejsFunction via Unsaniti | [AWS VDP](../by-program/aws_vdp.md) | High — CVSS 7.3 | — | 7 |
-| 43 | [3558713](../reports/3558713.md) | Command Injection via Unsanitized Bundling Options in `aws-cdk-li | [AWS VDP](../by-program/aws_vdp.md) | High — CVSS 7.3 | — | 6 |
-| 44 | [273449](../reports/273449.md) | Authenticated RCE in ToughSwitch | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 8.8 | — | 6 |
-| 45 | [3817602](../reports/3817602.md) | Node --run POSIX positional argument escaping allows shell comman | [Node.js](../by-program/nodejs.md) | High — CVSS 8.1 | — | 4 |
-| 46 | [1781102](../reports/1781102.md) | Insecure use of shell.openExternal() leads to RCE in Rocket.Chat- | [Rocket.Chat](../by-program/rocket_chat.md) | High | — | 4 |
-| 47 | [1001255](../reports/1001255.md) | Possible RCE through Windows Custom Protocol on Windows client | [Nord Security](../by-program/nordsecurity.md) | Medium — CVSS 6.8 | — | 120 |
-| 48 | [881548](../reports/881548.md) | Default credentials for the temporary POC site alipoc.stg.starbuc | [Starbucks](../by-program/starbucks.md) | Medium — CVSS 6.7 | — | 19 |
-| 49 | [690010](../reports/690010.md) | OS Command Injection on Jison [all-parser-ports] | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 14 |
-| 50 | [1161691](../reports/1161691.md) | OS Command Injection in 'rdoc' documentation generator | [Ruby](../by-program/ruby.md) | Medium — CVSS 6.4 | — | 7 |
-| 51 | [1158824](../reports/1158824.md) | OS Command Injection in '/lib/un.rb -- Utilities to replace commo | [Ruby](../by-program/ruby.md) | Medium — CVSS 6.4 | — | 4 |
-| 52 | [1710652](../reports/1710652.md) | DNS rebinding in --inspect via invalid octal IP address | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.8 | — | 4 |
-| 53 | [282628](../reports/282628.md) | OS Command Execution on User's PC via CSV Injection | [X / xAI](../by-program/x.md) | Medium | — | 2 |
-| 54 | [386116](../reports/386116.md) | CSV Injection with the CSV export feature | [Chaturbate](../by-program/chaturbate.md) | Low — CVSS 3.1 | — | 14 |
-| 55 | [223344](../reports/223344.md) | CSV Injection with the CSV export feature | [Weblate](../by-program/weblate.md) | Low | — | 7 |
-| 56 | [2904921](../reports/2904921.md) | OS Command Injection  (subprocess Module Usage) | [curl](../by-program/curl.md) | Low | — | 4 |
-| 57 | [651518](../reports/651518.md) | OS Command Injection via egrep in Rake::FileList | [Ruby](../by-program/ruby.md) | None | — | 62 |
-| 58 | [1859592](../reports/1859592.md) | [indy_node]POOL_UPGRADE command injection, Trustee Node can execu | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | None | — | 2 |
-| 59 | [272272](../reports/272272.md) | Export vault feature is vulnerable to CSV injection | [Bitwarden](../by-program/bitwarden.md) | None | — | 2 |
+| 40 | [3874004](../reports/3874004.md) |  Incomplete fix for CVE-2022-23915: Mercurial argument injection  | [Weblate](../by-program/weblate.md) | High — CVSS 8.5 | — | 26 |
+| 41 | [534630](../reports/534630.md) | Remote Code Execution - Unauthenticated Remote Command Injection  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 13 |
+| 42 | [3225565](../reports/3225565.md) |  OS Command Injection in scripts/firefox-db2pem.sh via untrusted  | [curl](../by-program/curl.md) | High | — | 12 |
+| 43 | [3637898](../reports/3637898.md) | OS Command Injection in `aws-cdk-lib` NodejsFunction via Unsaniti | [AWS VDP](../by-program/aws_vdp.md) | High — CVSS 7.3 | — | 7 |
+| 44 | [3558713](../reports/3558713.md) | Command Injection via Unsanitized Bundling Options in `aws-cdk-li | [AWS VDP](../by-program/aws_vdp.md) | High — CVSS 7.3 | — | 6 |
+| 45 | [273449](../reports/273449.md) | Authenticated RCE in ToughSwitch | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 8.8 | — | 6 |
+| 46 | [3817602](../reports/3817602.md) | Node --run POSIX positional argument escaping allows shell comman | [Node.js](../by-program/nodejs.md) | High — CVSS 8.1 | — | 4 |
+| 47 | [1781102](../reports/1781102.md) | Insecure use of shell.openExternal() leads to RCE in Rocket.Chat- | [Rocket.Chat](../by-program/rocket_chat.md) | High | — | 4 |
+| 48 | [1001255](../reports/1001255.md) | Possible RCE through Windows Custom Protocol on Windows client | [Nord Security](../by-program/nordsecurity.md) | Medium — CVSS 6.8 | — | 120 |
+| 49 | [881548](../reports/881548.md) | Default credentials for the temporary POC site alipoc.stg.starbuc | [Starbucks](../by-program/starbucks.md) | Medium — CVSS 6.7 | — | 19 |
+| 50 | [690010](../reports/690010.md) | OS Command Injection on Jison [all-parser-ports] | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 14 |
+| 51 | [1161691](../reports/1161691.md) | OS Command Injection in 'rdoc' documentation generator | [Ruby](../by-program/ruby.md) | Medium — CVSS 6.4 | — | 7 |
+| 52 | [1158824](../reports/1158824.md) | OS Command Injection in '/lib/un.rb -- Utilities to replace commo | [Ruby](../by-program/ruby.md) | Medium — CVSS 6.4 | — | 4 |
+| 53 | [1710652](../reports/1710652.md) | DNS rebinding in --inspect via invalid octal IP address | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.8 | — | 4 |
+| 54 | [282628](../reports/282628.md) | OS Command Execution on User's PC via CSV Injection | [X / xAI](../by-program/x.md) | Medium | — | 2 |
+| 55 | [386116](../reports/386116.md) | CSV Injection with the CSV export feature | [Chaturbate](../by-program/chaturbate.md) | Low — CVSS 3.1 | — | 14 |
+| 56 | [223344](../reports/223344.md) | CSV Injection with the CSV export feature | [Weblate](../by-program/weblate.md) | Low | — | 7 |
+| 57 | [2904921](../reports/2904921.md) | OS Command Injection  (subprocess Module Usage) | [curl](../by-program/curl.md) | Low | — | 4 |
+| 58 | [651518](../reports/651518.md) | OS Command Injection via egrep in Rake::FileList | [Ruby](../by-program/ruby.md) | None | — | 62 |
+| 59 | [1859592](../reports/1859592.md) | [indy_node]POOL_UPGRADE command injection, Trustee Node can execu | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | None | — | 2 |
+| 60 | [272272](../reports/272272.md) | Export vault feature is vulnerable to CSV injection | [Bitwarden](../by-program/bitwarden.md) | None | — | 2 |
