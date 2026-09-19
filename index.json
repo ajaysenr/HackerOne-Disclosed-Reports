@@ -228466,6 +228466,28 @@
     "votes": 19
   },
   {
+    "id": 3301553,
+    "url": "https://hackerone.com/reports/3301553",
+    "title": "Cross-User Lock/Unlock via Absolute DAV Path",
+    "visibility": "full",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "0x0doteth",
+    "severity": "medium",
+    "cvss": 6.3,
+    "weakness": "Improper Authentication - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-45283",
+      "CVE-2026-82980"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2025-08-16",
+    "disclosed_at": "2026-09-17T13:09:01.769Z",
+    "votes": 11
+  },
+  {
     "id": 3302484,
     "url": "https://hackerone.com/reports/3302484",
     "title": "CWE-195 in ExternalMemoryAccounter::Increase()",
@@ -228521,6 +228543,27 @@
     "reported_at": "2025-08-18",
     "disclosed_at": "2025-10-08T03:51:16.252Z",
     "votes": 75
+  },
+  {
+    "id": 3303283,
+    "url": "https://hackerone.com/reports/3303283",
+    "title": "Unauthenticated blind SSRF in Circles signature verification bypasses Nextcloud local-address protections",
+    "visibility": "full",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "0x0doteth",
+    "severity": "medium",
+    "cvss": 6.2,
+    "weakness": "Server-Side Request Forgery (SSRF)",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-77164"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2025-08-18",
+    "disclosed_at": "2026-09-17T06:22:37.600Z",
+    "votes": 11
   },
   {
     "id": 3303765,
@@ -232823,6 +232866,27 @@
     "votes": 9
   },
   {
+    "id": 3484601,
+    "url": "https://hackerone.com/reports/3484601",
+    "title": "Team membership information returned on API level based on ID",
+    "visibility": "full",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "milou",
+    "severity": "low",
+    "cvss": 3.1,
+    "weakness": "Insecure Direct Object Reference (IDOR)",
+    "bounty": 200.0,
+    "cve_ids": [
+      "CVE-2026-68493"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-01-02",
+    "disclosed_at": "2026-09-17T05:49:15.969Z",
+    "votes": 7
+  },
+  {
     "id": 3485343,
     "url": "https://hackerone.com/reports/3485343",
     "title": "jitsi-call-analytics: Unauthenticated arbitrary file write via path traversal in `/api/v1/uploads/analyze`",
@@ -233057,6 +233121,27 @@
     "reported_at": "2026-01-10",
     "disclosed_at": "2026-03-05T02:23:08.428Z",
     "votes": 83
+  },
+  {
+    "id": 3506873,
+    "url": "https://hackerone.com/reports/3506873",
+    "title": "Shared smart albums in the Photos app can expose files outside the album owner's configured source folders",
+    "visibility": "full",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "suul",
+    "severity": "medium",
+    "cvss": 6.5,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-82985"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-01-11",
+    "disclosed_at": "2026-09-17T10:48:18.211Z",
+    "votes": 10
   },
   {
     "id": 3507241,
