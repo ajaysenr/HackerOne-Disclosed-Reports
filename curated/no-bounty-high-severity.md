@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2408 total)
+# High/Critical Severity — No Bounty Paid (2411 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -1520,6 +1520,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [2461831](../reports/2461831.md) | Bypass incomplete fix of CVE-2024-27980 | [Node.js](../by-program/nodejs.md) | High — CVSS 8.1 | Resolved | 20 |
 | [854726](../reports/854726.md) | Unix time unlock_time values have dangerous validation rules enab | [Monero](../by-program/monero.md) | High — CVSS 8.3 | Resolved | 20 |
 | [228383](../reports/228383.md) | IDOR on DoD Website exposes FTP users and passes linked to all ac | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 20 |
+| [3621588](../reports/3621588.md) | Authenticated `unsigned_txset` change spoof lets a malicious hot  | [Monero](../by-program/monero.md) | High | Resolved | 20 |
 | [2259914](../reports/2259914.md) | Multiple permission model bypasses due to improper path traversal | [Node.js](../by-program/nodejs.md) | High — CVSS 7.9 | Resolved | 20 |
 | [430029](../reports/430029.md) | Stored XSS in infogram.com via language  | [Infogram](../by-program/infogram.md) | High | Resolved | 20 |
 | [3477023](../reports/3477023.md) | Protocol Smuggling / CRLF Injection via Gopher Protocol allows Ar | [curl](../by-program/curl.md) | High | Not Applicable | 20 |
@@ -1750,6 +1751,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [324006](../reports/324006.md) | SaaS admin can modify/delete/get user information. | [Ping Identity](../by-program/pingidentity.md) | High — CVSS 8.8 | Resolved | 12 |
 | [1720278](../reports/1720278.md) | Sensitive Data Exposure at https://█████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 12 |
 | [1888808](../reports/1888808.md) | Path traversal leads to reading of local files on ███████ and ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 12 |
+| [3683934](../reports/3683934.md) | sign_multisig crashes monero-wallet-rpc on a malformed but decryp | [Monero](../by-program/monero.md) | High | Resolved | 12 |
 | [289264](../reports/289264.md) | Triggering RCE using XSS to bypass CSRF in PowerBeam M5 300 | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 8.8 | Resolved | 12 |
 | [391611](../reports/391611.md) | Malicious get_random_rct_outs.bin rpc can cause a near-infinite l | [Monero](../by-program/monero.md) | High | Resolved | 12 |
 | [106865](../reports/106865.md) | [rev-app.informatica.com] - XXE via SAML | [Informatica](../by-program/informatica.md) | High | Resolved | 12 |
@@ -1878,6 +1880,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1542734](../reports/1542734.md) | lfi in filePathDownload parameter via ███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 10 |
 | [181319](../reports/181319.md) | Memory disclosure in mruby String#lines method | [shopify-scripts](../by-program/shopify-scripts.md) | High | Resolved | 10 |
 | [1294492](../reports/1294492.md) | DNS Miconfiguration Leads to Subdomain Takeover  - max1.liveplan. | [Palo Alto Software](../by-program/palo_alto_software.md) | High | Resolved | 10 |
+| [3633123](../reports/3633123.md) |  Incomplete Input Sanitization in CodeInterpreter install_package | [AWS VDP](../by-program/aws_vdp.md) | High — CVSS 7.3 | Resolved | 10 |
 | [741683](../reports/741683.md) | idor on upload profile functionality  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 10 |
 | [837510](../reports/837510.md) | Create an account on auth-sandbox.elastic.co with email @elastic. | [Elastic](../by-program/elastic.md) | High | Resolved | 10 |
 | [218088](../reports/218088.md) | Request Hijacking Vulnerability in RubyGems 2.6.11 and earlier | [RubyGems](../by-program/rubygems.md) | High | Resolved | 10 |

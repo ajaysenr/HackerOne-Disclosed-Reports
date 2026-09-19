@@ -233685,6 +233685,25 @@
     "votes": 2
   },
   {
+    "id": 3522157,
+    "url": "https://hackerone.com/reports/3522157",
+    "title": "SSRF with bypass leads to client side hosting / vulnerabilities ( XSS and others )",
+    "visibility": "full",
+    "program": "DuckDuckGo",
+    "program_handle": "duckduckgo",
+    "reporter": "ferreiraklet_",
+    "severity": "medium",
+    "cvss": 5.6,
+    "weakness": "Server-Side Request Forgery (SSRF)",
+    "bounty": 500.0,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "WILDCARD",
+    "reported_at": "2026-01-23",
+    "disclosed_at": "2026-09-17T22:54:11.953Z",
+    "votes": 23
+  },
+  {
     "id": 3522254,
     "url": "https://hackerone.com/reports/3522254",
     "title": "PATs without the required scope can leak issues",
@@ -233864,6 +233883,25 @@
     "reported_at": "2026-01-30",
     "disclosed_at": "2026-03-30T16:41:57.404Z",
     "votes": 6
+  },
+  {
+    "id": 3533697,
+    "url": "https://hackerone.com/reports/3533697",
+    "title": "Public collectives allow to create pages",
+    "visibility": "full",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "yoyomiski",
+    "severity": "low",
+    "cvss": 3.5,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-02-01",
+    "disclosed_at": "2026-09-17T10:16:22.681Z",
+    "votes": 5
   },
   {
     "id": 3533945,
@@ -234927,6 +234965,27 @@
     "votes": 67
   },
   {
+    "id": 3599383,
+    "url": "https://hackerone.com/reports/3599383",
+    "title": "Arbitrary Board Preference Injection via Deck Config API",
+    "visibility": "full",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "vidang04",
+    "severity": "medium",
+    "cvss": 4.3,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-77170"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-03-12",
+    "disclosed_at": "2026-09-17T10:20:08.469Z",
+    "votes": 3
+  },
+  {
     "id": 3601469,
     "url": "https://hackerone.com/reports/3601469",
     "title": "Restricted RPC Policy Bypass on ZMQ JSON-RPC Allows Unauthenticated Remote Admin Actions",
@@ -235096,6 +235155,27 @@
     "reported_at": "2026-03-16",
     "disclosed_at": "2026-03-17T17:53:57.874Z",
     "votes": 25
+  },
+  {
+    "id": 3610332,
+    "url": "https://hackerone.com/reports/3610332",
+    "title": "Approval app's file-freshness check can be bypassed by omitting the etag parameter, allowing approval of unreviewed file changes",
+    "visibility": "full",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "vidang04",
+    "severity": "medium",
+    "cvss": 4.3,
+    "weakness": "Business Logic Errors",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-82982"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-03-17",
+    "disclosed_at": "2026-09-17T10:34:47.683Z",
+    "votes": 5
   },
   {
     "id": 3611825,
@@ -235372,6 +235452,25 @@
     "votes": 21
   },
   {
+    "id": 3621588,
+    "url": "https://hackerone.com/reports/3621588",
+    "title": "Authenticated `unsigned_txset` change spoof lets a malicious hot wallet steal cold-signer change",
+    "visibility": "full",
+    "program": "Monero",
+    "program_handle": "monero",
+    "reporter": "usagirabbit",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Business Logic Errors",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-03-22",
+    "disclosed_at": "2026-09-16T09:16:41.193Z",
+    "votes": 20
+  },
+  {
     "id": 3621606,
     "url": "https://hackerone.com/reports/3621606",
     "title": "ZMQ RPC Log Injection and Untrusted Payload Persistence",
@@ -235410,6 +235509,25 @@
     "reported_at": "2026-03-22",
     "disclosed_at": "2026-04-29T06:47:32.939Z",
     "votes": 10
+  },
+  {
+    "id": 3622877,
+    "url": "https://hackerone.com/reports/3622877",
+    "title": "HTTP Request Smuggling via Unsanitized Hop-by-Hop Headers",
+    "visibility": "no-content",
+    "program": "Cloudflare Public Bug Bounty",
+    "program_handle": "cloudflare",
+    "reporter": "1nsomnia1102",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": 1500.0,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-03-23",
+    "disclosed_at": "2026-09-14T04:57:45.530Z",
+    "votes": 31
   },
   {
     "id": 3623064,
@@ -235606,6 +235724,27 @@
     "reported_at": "2026-03-27",
     "disclosed_at": "2026-07-15T15:11:59.984Z",
     "votes": 3
+  },
+  {
+    "id": 3633123,
+    "url": "https://hackerone.com/reports/3633123",
+    "title": " Incomplete Input Sanitization in CodeInterpreter install_packages Allows Command Injection via pip Flags",
+    "visibility": "full",
+    "program": "AWS VDP",
+    "program_handle": "aws_vdp",
+    "reporter": "mistercloudsec",
+    "severity": "high",
+    "cvss": 7.3,
+    "weakness": "OS Command Injection",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-12530"
+    ],
+    "substate": "resolved",
+    "asset_type": "OTHER",
+    "reported_at": "2026-03-28",
+    "disclosed_at": "2026-09-16T20:57:22.668Z",
+    "votes": 10
   },
   {
     "id": 3633146,
@@ -236606,6 +236745,27 @@
     "votes": 28
   },
   {
+    "id": 3674940,
+    "url": "https://hackerone.com/reports/3674940",
+    "title": "Critical broken access control: API-only delegated admin can enumerate all Team Folders and grant access to arbitrary groups",
+    "visibility": "full",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "qloo",
+    "severity": "medium",
+    "cvss": 6.5,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-77169"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-04-15",
+    "disclosed_at": "2026-09-17T10:41:04.649Z",
+    "votes": 7
+  },
+  {
     "id": 3676308,
     "url": "https://hackerone.com/reports/3676308",
     "title": "POST /api/bitcoinWithdrawalFees returns financial data without authentication despite being documented as a USER OPERATION (private endpoint)",
@@ -236832,6 +236992,25 @@
     "votes": 29
   },
   {
+    "id": 3681690,
+    "url": "https://hackerone.com/reports/3681690",
+    "title": "ZMQ get_output_distribution duplicate amount DoS",
+    "visibility": "no-content",
+    "program": "Monero",
+    "program_handle": "monero",
+    "reporter": "helping_bro",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-04-18",
+    "disclosed_at": "2026-09-17T17:38:21.083Z",
+    "votes": 12
+  },
+  {
     "id": 3682666,
     "url": "https://hackerone.com/reports/3682666",
     "title": "Use-after-free in `curl_easy_ssls_export()` during callback re-entrancy",
@@ -236849,6 +237028,44 @@
     "reported_at": "2026-04-18",
     "disclosed_at": "2026-04-29T06:10:44.082Z",
     "votes": 5
+  },
+  {
+    "id": 3683886,
+    "url": "https://hackerone.com/reports/3683886",
+    "title": "Restricted ZMQ RPC bypasses HTTP restricted-mode resource checks",
+    "visibility": "no-content",
+    "program": "Monero",
+    "program_handle": "monero",
+    "reporter": "helping_bro",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-04-19",
+    "disclosed_at": "2026-09-17T17:42:05.763Z",
+    "votes": 11
+  },
+  {
+    "id": 3683934,
+    "url": "https://hackerone.com/reports/3683934",
+    "title": "sign_multisig crashes monero-wallet-rpc on a malformed but decryptable multisig txset",
+    "visibility": "no-content",
+    "program": "Monero",
+    "program_handle": "monero",
+    "reporter": "helping_bro",
+    "severity": "high",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-04-19",
+    "disclosed_at": "2026-09-17T17:45:03.030Z",
+    "votes": 12
   },
   {
     "id": 3684603,
@@ -238854,6 +239071,27 @@
     "reported_at": "2026-05-29",
     "disclosed_at": "2026-09-03T22:13:55.774Z",
     "votes": 2
+  },
+  {
+    "id": 3770482,
+    "url": "https://hackerone.com/reports/3770482",
+    "title": "files_lock: a write-share collaborator can place a TYPE_TOKEN lock that permanently denies the file owner, survives share revocation and account delet",
+    "visibility": "full",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "rz1027",
+    "severity": "medium",
+    "cvss": 6.5,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2021-22906"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-05-29",
+    "disclosed_at": "2026-09-18T15:36:09.953Z",
+    "votes": 13
   },
   {
     "id": 3770979,
@@ -242084,6 +242322,25 @@
     "votes": 8
   },
   {
+    "id": 4021960,
+    "url": "https://hackerone.com/reports/4021960",
+    "title": "TELNET control and environment data bypass HTTPS-proxy TLS",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-11",
+    "disclosed_at": "2026-09-19T08:36:16.839Z",
+    "votes": 0
+  },
+  {
     "id": 4023506,
     "url": "https://hackerone.com/reports/4023506",
     "title": "libcurl LDAP LDIF: entry DN and attribute names written without RFC 2849 base64 encoding, allowing server line injection",
@@ -242122,6 +242379,25 @@
     "votes": 6
   },
   {
+    "id": 4025056,
+    "url": "https://hackerone.com/reports/4025056",
+    "title": "HTTP/1.1 response framing violation and unsafe connection reuse when transfer decoding is disabled",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "thatcyberguyrich",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "HTTP Request Smuggling",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-12",
+    "disclosed_at": "2026-09-19T08:36:37.352Z",
+    "votes": 0
+  },
+  {
     "id": 4027511,
     "url": "https://hackerone.com/reports/4027511",
     "title": "Encoded slash traversal in the IPFS/IPNS URL rewrite escapes the configured gateway namespace",
@@ -242139,5 +242415,24 @@
     "reported_at": "2026-09-13",
     "disclosed_at": "2026-09-14T20:11:32.634Z",
     "votes": 11
+  },
+  {
+    "id": 4033971,
+    "url": "https://hackerone.com/reports/4033971",
+    "title": "Use-after-free of the internal multi->admin easy handle via the documented CURLMOPT_NOTIFYFUNCTION callback",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "fengxiao",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Use After Free",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-16",
+    "disclosed_at": "2026-09-19T08:36:27.510Z",
+    "votes": 0
   }
 ]

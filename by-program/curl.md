@@ -1,4 +1,4 @@
-# curl — Disclosed Reports (582 total)
+# curl — Disclosed Reports (585 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -288,301 +288,304 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 282 | [3767963](../reports/3767963.md) | Proxy CONNECT response poisoning via authentication retry in | Medium | — | 1 | [lvtable](https://hackerone.com/lvtable) | 2026-06-03 |
 | 283 | [3802645](../reports/3802645.md) | verify-release rebuilds from the tarball under verification, | Medium | — | 1 | [argareksapatii](https://hackerone.com/argareksapatii) | 2026-06-17 |
 | 284 | [688048](../reports/688048.md) | Incorrect IPv6 literal parsing leads to validated connection | Medium — CVSS 6.3 | — | 0 | [thomas_v](https://hackerone.com/thomas_v) | 2021-01-12 |
-| 285 | [3826199](../reports/3826199.md) | mbedTLS / wolfSSL / rustls backends silently skip hostname v | Medium | — | 0 | [b1gtang](https://hackerone.com/b1gtang) | 2026-06-26 |
-| 286 | [1019457](../reports/1019457.md) | Data race conditions reported by helgrind when performing pa | Medium — CVSS 5.2 | — | 0 | [brumbrum](https://hackerone.com/brumbrum) | 2020-11-04 |
-| 287 | [773313](../reports/773313.md) | Port and service scanning on localhost due to improper URL v | Medium — CVSS 6.3 | — | 0 | [vshmuk](https://hackerone.com/vshmuk) | 2020-01-15 |
-| 288 | [3766065](../reports/3766065.md) | CURLOPT_COOKIE leaked to cross-origin redirect target — CURL | Medium | — | 0 | [azraelxuemo](https://hackerone.com/azraelxuemo) | 2026-06-05 |
-| 289 | [3968729](../reports/3968729.md) | Unbound cross-peer HTTP Digest challenge state | Medium | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-27 |
-| 290 | [3923212](../reports/3923212.md) | URL API: triple-slash parses path segment as hostname | Medium | — | 0 | [thinhlx](https://hackerone.com/thinhlx) | 2026-08-07 |
-| 291 | [687734](../reports/687734.md) | Double-free of `trailers_buf' on `Curl_http_compile_trailers | Medium — CVSS 6.3 | — | 0 | [thomas_v](https://hackerone.com/thomas_v) | 2021-01-12 |
-| 292 | [3823932](../reports/3823932.md) | CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabling H | Medium | — | 0 | [tneelc](https://hackerone.com/tneelc) | 2026-06-26 |
-| 293 | [3168039](../reports/3168039.md) | CVE-2025-5399: WebSocket endless loop | Low | — | 57 | [z2_](https://hackerone.com/z2_) | 2025-06-04 |
-| 294 | [2629968](../reports/2629968.md) | CVE-2024-7264: ASN.1 date parser overread | Low | — | 53 | [dubek](https://hackerone.com/dubek) | 2024-08-01 |
-| 295 | [2764830](../reports/2764830.md) | CVE-2024-9681: HSTS subdomain overwrites parent cache entry | Low | — | 49 | [newfunction](https://hackerone.com/newfunction) | 2024-11-06 |
-| 296 | [3531216](../reports/3531216.md) | MQTT Protocol Packet Injection via Unchecked CONNACK Remaini | Low | — | 45 | [pajarori](https://hackerone.com/pajarori) | 2026-02-05 |
-| 297 | [3269761](../reports/3269761.md) | Security check up | Low | — | 44 | [ejejohn](https://hackerone.com/ejejohn) | 2025-07-24 |
-| 298 | [3355218](../reports/3355218.md) | CVE-2025-10966: missing SFTP host verification with wolfSSH | Low | — | 43 | [giant_anteater](https://hackerone.com/giant_anteater) | 2025-11-05 |
-| 299 | [3211973](../reports/3211973.md) | Credential leak on redirect due to improper state clearing w | Low | — | 41 | [oxghostly](https://hackerone.com/oxghostly) | 2025-06-22 |
-| 300 | [3294999](../reports/3294999.md) | CVE-2025-9086: Out of bounds read for cookie path | Low | — | 36 | [bigsleep](https://hackerone.com/bigsleep) | 2025-09-10 |
-| 301 | [2917232](../reports/2917232.md) | CVE-2025-0167: netrc and default credential leak | Low | — | 36 | [sherlock2010](https://hackerone.com/sherlock2010) | 2025-02-07 |
-| 302 | [2829063](../reports/2829063.md) | CVE-2024-11053: netrc + redirect credential leak | Low | — | 33 | [nyymi](https://hackerone.com/nyymi) | 2024-12-11 |
-| 303 | [2384833](../reports/2384833.md) | CVE-2024-2004: Usage of disabled protocol | Low | — | 33 | [dfandrich](https://hackerone.com/dfandrich) | 2024-03-27 |
-| 304 | [3262848](../reports/3262848.md) | on the implications of permitting procedural culling | Low | — | 33 | [lyb_unaffiliated](https://hackerone.com/lyb_unaffiliated) | 2025-07-22 |
-| 305 | [3612891](../reports/3612891.md) | Exposed .git/config File Leading to Potential Sensitive Info | Low | — | 33 | [zoroo2](https://hackerone.com/zoroo2) | 2026-03-20 |
-| 306 | [3330839](../reports/3330839.md) | CVE-2025-10148: predictable WebSocket mask | Low | — | 30 | [cruocco](https://hackerone.com/cruocco) | 2025-09-10 |
-| 307 | [1040166](../reports/1040166.md) | CVE-2020-8284: trusting FTP PASV responses | Low | — | 30 | [vepe](https://hackerone.com/vepe) | 2021-02-09 |
-| 308 | [3373640](../reports/3373640.md) | OpenSSL backend: X509 peer certificate not freed in ossl_get | Low | — | 30 | [giant_anteater](https://hackerone.com/giant_anteater) | 2025-10-08 |
-| 309 | [3584903](../reports/3584903.md) | CVE-2026-3784: wrong proxy connection reuse with credentials | Low | — | 30 | [nobcoder](https://hackerone.com/nobcoder) | 2026-03-11 |
-| 310 | [3623064](../reports/3623064.md) | HTTP/1.1 Response Desynchronization via conflicting CL/TE he | Low | — | 30 | [3lcarry](https://hackerone.com/3lcarry) | 2026-03-25 |
-| 311 | [2905552](../reports/2905552.md) | bypass of this Fixed #2437131 [ Inadequate Protocol Restrict | Low | — | 30 | [hackeriron1](https://hackerone.com/hackeriron1) | 2024-12-19 |
-| 312 | [2236133](../reports/2236133.md) | CVE-2023-46219: HSTS long file name clears contents | Low | — | 27 | [cxshakal](https://hackerone.com/cxshakal) | 2023-12-08 |
-| 313 | [3434543](../reports/3434543.md) | Arbitrary free in curl's config file parsing. | Low | — | 26 | [letshack9707](https://hackerone.com/letshack9707) | 2025-11-23 |
-| 314 | [3608522](../reports/3608522.md) | Unescaped username in SASL DIGEST-MD5 response allows inject | Low | — | 26 | [am-perip](https://hackerone.com/am-perip) | 2026-03-17 |
-| 315 | [2559558](../reports/2559558.md) | NULL dereference when encoding DN of x509 certificate | Low | — | 26 | [z2_](https://hackerone.com/z2_) | 2024-06-19 |
-| 316 | [2604391](../reports/2604391.md) | CVE-2024-6874: macidn punycode buffer overread | Low | — | 25 | [z2_](https://hackerone.com/z2_) | 2024-07-24 |
-| 317 | [547630](../reports/547630.md) | CVE-2019-5435: An integer overflow found in /lib/urlapi.c | Low | — | 24 | [1wc](https://hackerone.com/1wc) | 2020-12-05 |
-| 318 | [2954286](../reports/2954286.md) | CVE-2025-0665: eventfd double close | Low | — | 24 | [ankomcoper](https://hackerone.com/ankomcoper) | 2025-02-07 |
-| 319 | [2298922](../reports/2298922.md) | CVE-2024-0853: OCSP verification bypass with TLS session reu | Low | — | 23 | [kurohiro](https://hackerone.com/kurohiro) | 2024-01-31 |
-| 320 | [3673277](../reports/3673277.md) | libcurl stale CURLOPT_AUTOREFERER leaks a previous request U | Low | — | 22 | [asdwe](https://hackerone.com/asdwe) | 2026-04-17 |
-| 321 | [2814750](../reports/2814750.md) | Inconsistent URL Parsing in curl Leading to Potential SSRF a | Low | — | 22 | [z3r0yu](https://hackerone.com/z3r0yu) | 2025-09-26 |
-| 322 | [3671818](../reports/3671818.md) | CVE-2026-6276: stale custom cookie host causes cookie leak | Low | — | 20 | [arkss](https://hackerone.com/arkss) | 2026-04-29 |
-| 323 | [3473384](../reports/3473384.md) | Functional Regression in Digest Authentication: Failure to h | Low | — | 20 | [herdiyanitdev](https://hackerone.com/herdiyanitdev) | 2025-12-21 |
-| 324 | [3477116](../reports/3477116.md) | CVE-2025-15079: libssh global knownhost override  | Low | — | 18 | [nyymi](https://hackerone.com/nyymi) | 2026-01-07 |
-| 325 | [3595764](../reports/3595764.md) | CURLOPT_UNRESTRICTED_AUTH Dangerous Default Documentation Ga | Low | — | 18 | [sabari_n](https://hackerone.com/sabari_n) | 2026-03-10 |
-| 326 | [3641893](../reports/3641893.md) | Cookie attribute TAB injection regression in Set-Cookie pars | Low | — | 18 | [calaba_zas](https://hackerone.com/calaba_zas) | 2026-04-03 |
-| 327 | [3341476](../reports/3341476.md) | int overflow in krb5_read_data() leads to (possible) massive | Low | — | 17 | [smiliesandco](https://hackerone.com/smiliesandco) | 2025-09-18 |
-| 328 | [2956023](../reports/2956023.md) | CVE-2025-0725: gzip integer overflow | Low | — | 17 | [z2_](https://hackerone.com/z2_) | 2025-02-05 |
-| 329 | [3459417](../reports/3459417.md) | CVE-2025-14524: bearer token leak on cross-protocol redirect | Low | — | 17 | [anonymous_237](https://hackerone.com/anonymous_237) | 2026-01-07 |
-| 330 | [3514263](../reports/3514263.md) | libcurl: Improper Authentication State Management on Cross-P | Low | — | 17 | [andrewml](https://hackerone.com/andrewml) | 2026-01-17 |
-| 331 | [550696](../reports/550696.md) | CVE-2019-5436: Heap Buffer Overflow at lib/tftp.c | Low — CVSS 1.8 | — | 16 | [l00p3r](https://hackerone.com/l00p3r) | 2019-05-31 |
-| 332 | [3480712](../reports/3480712.md) | Telnet Suboption Buffer Pointer Underflow in lib/telnet.c le | Low | — | 16 | [stif](https://hackerone.com/stif) | 2025-12-29 |
-| 333 | [1764858](../reports/1764858.md) | CVE-2022-43552: HTTP Proxy deny use-after-free | Low | — | 16 | [bagder](https://hackerone.com/bagder) | 2022-12-26 |
-| 334 | [3427460](../reports/3427460.md) | Incorrect sizeof() in Rustls Backend Memory Allocation | Low | — | 15 | [pelioro](https://hackerone.com/pelioro) | 2025-11-15 |
-| 335 | [3650435](../reports/3650435.md) | Improper enforcement of CURLOPT_SOCKS5_AUTH due to missing r | Low | — | 15 | [cutiapretaa](https://hackerone.com/cutiapretaa) | 2026-04-07 |
-| 336 | [2148242](../reports/2148242.md) | CVE-2023-38546: cookie injection with none file | Low | — | 14 | [w0x42](https://hackerone.com/w0x42) | 2023-10-11 |
-| 337 | [1172857](../reports/1172857.md) | CVE-2021-22897: schannel cipher selection surprise | Low | — | 14 | [nyymi](https://hackerone.com/nyymi) | 2021-05-26 |
-| 338 | [3509396](../reports/3509396.md) | IMAP Protocol Desynchronization and Response Smuggling via N | Low | — | 14 | [shiftj](https://hackerone.com/shiftj) | 2026-01-14 |
-| 339 | [3393539](../reports/3393539.md) | Memory leak in Curl_auth_create_ntlm_type3_message | Low | — | 13 | [tjbecker_theori](https://hackerone.com/tjbecker_theori) | 2025-10-28 |
-| 340 | [3480925](../reports/3480925.md) | CVE-2025-15224: libssh key passphrase bypass without agent s | Low | — | 13 | [nyymi](https://hackerone.com/nyymi) | 2026-01-07 |
-| 341 | [1613943](../reports/1613943.md) | CVE-2022-35252: control code in cookie denial of service | Low | — | 13 | [haxatron1](https://hackerone.com/haxatron1) | 2022-08-31 |
-| 342 | [4023506](../reports/4023506.md) | libcurl LDAP LDIF: entry DN and attribute names written with | Low | — | 12 | [1rhino2](https://hackerone.com/1rhino2) | 2026-09-15 |
-| 343 | [3473182](../reports/3473182.md) | A logic error in detect_proxy caused truncation of environme | Low | — | 12 | [herdiyanitdev](https://hackerone.com/herdiyanitdev) | 2025-12-21 |
-| 344 | [1897203](../reports/1897203.md) | CVE-2023-27537: HSTS double-free | Low | — | 12 | [kurohiro](https://hackerone.com/kurohiro) | 2023-03-20 |
-| 345 | [3479019](../reports/3479019.md) | Security hardening: missing integer overflow check in curl_l | Low | — | 12 | [y_security](https://hackerone.com/y_security) | 2025-12-27 |
-| 346 | [3476928](../reports/3476928.md) | Integer Overflow in `curl_easy_escape()` may lead to heap bu | Low | — | 11 | [vovohelo](https://hackerone.com/vovohelo) | 2025-12-25 |
-| 347 | [2410774](../reports/2410774.md) | CVE-2024-2379: QUIC certificate check bypass with wolfSSL | Low | — | 11 | [fullmetal5](https://hackerone.com/fullmetal5) | 2024-03-27 |
-| 348 | [948876](../reports/948876.md) | CVE-2020-8231: Connect-only connections can use the wrong co | Low | — | 11 | [m42a](https://hackerone.com/m42a) | 2020-11-05 |
-| 349 | [1590071](../reports/1590071.md) | CVE-2022-32208: FTP-KRB bad message verification | Low | — | 11 | [nyymi](https://hackerone.com/nyymi) | 2022-06-27 |
-| 350 | [3916059](../reports/3916059.md) | CVE-2026-18924: HTTP/2 server push UAF | Low | — | 10 | [stze](https://hackerone.com/stze) | 2026-09-02 |
-| 351 | [3621851](../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | Low | — | 10 | [bonaire](https://hackerone.com/bonaire) | 2026-04-29 |
-| 352 | [3488278](../reports/3488278.md) | MQTT: Missing upper bound on incoming Remaining Length allow | Low | — | 10 | [gaurav_7777](https://hackerone.com/gaurav_7777) | 2026-01-06 |
-| 353 | [3395666](../reports/3395666.md) | libcurl MQTT PUBLISH length overflow (heap overflow) | Low | — | 9 | [max_from_secmate](https://hackerone.com/max_from_secmate) | 2025-10-28 |
-| 354 | [3650689](../reports/3650689.md) | CVE-2026-5773: wrong reuse of SMB connection | Low | — | 9 | [osama-hamad](https://hackerone.com/osama-hamad) | 2026-04-29 |
-| 355 | [3508799](../reports/3508799.md) | Digest Authentication Header Injection | Low | — | 8 | [andrew-bbp](https://hackerone.com/andrew-bbp) | 2026-01-14 |
-| 356 | [3460184](../reports/3460184.md) | Terminal Output Not Great | Low | — | 8 | [kelsier](https://hackerone.com/kelsier) | 2025-12-11 |
-| 357 | [1721098](../reports/1721098.md) | CVE-2022-35260: .netrc parser out-of-bounds access | Low | — | 7 | [kurohiro](https://hackerone.com/kurohiro) | 2022-10-27 |
-| 358 | [3494098](../reports/3494098.md) | inconsistently Rejection Logic in file:// URLs with Authorit | Low | — | 7 | [unknowperson0212](https://hackerone.com/unknowperson0212) | 2026-01-08 |
-| 359 | [1129529](../reports/1129529.md) | CVE-2021-22890: TLS 1.3 session ticket proxy host mixup | Low | — | 7 | [mingtao](https://hackerone.com/mingtao) | 2021-04-30 |
-| 360 | [1814333](../reports/1814333.md) | CVE-2023-23915: HSTS amnesia with --parallel | Low | — | 7 | [nyymi](https://hackerone.com/nyymi) | 2023-02-15 |
-| 361 | [1814824](../reports/1814824.md) | curl file writing susceptible to symlink attacks | Low | — | 7 | [nyymi](https://hackerone.com/nyymi) | 2023-01-07 |
-| 362 | [1546268](../reports/1546268.md) | CVE-2022-27775: Bad local IPv6 connection reuse | Low | — | 7 | [nyymi](https://hackerone.com/nyymi) | 2022-04-27 |
-| 363 | [3971462](../reports/3971462.md) | Heap-use-after-free in CURLOPT_REFERER when passed a CURLINF | Low | — | 7 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-14 |
-| 364 | [3508321](../reports/3508321.md) | Integer-underflow leads to heap over-read in TFTP implementa | Low | — | 7 | [z2_](https://hackerone.com/z2_) | 2026-01-14 |
-| 365 | [2552179](../reports/2552179.md) | Incorrect Encoding Conversion in hostname  results in indete | Low | — | 7 | [z3r0yu](https://hackerone.com/z3r0yu) | 2024-06-18 |
-| 366 | [3793495](../reports/3793495.md) | Incomplete Suppression of  Transfer-Encoding: chunked Header | Low | — | 7 | [unknowperson0212](https://hackerone.com/unknowperson0212) | 2026-06-15 |
-| 367 | [545052](../reports/545052.md) | Github wikis are editable by anyone #Githubwikistakeover | Low | — | 6 | [ronb1996](https://hackerone.com/ronb1996) | 2019-05-25 |
-| 368 | [3993973](../reports/3993973.md) | HTTP Digest nonce reused across an https→http scheme change  | Low | — | 6 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-08 |
-| 369 | [3717552](../reports/3717552.md) | CURLOPT_PROXY_CRLFILE / CURLOPT_PROXY_ISSUERCERT / CURLOPT_P | Low | — | 6 | [bagder](https://hackerone.com/bagder) | 2026-06-05 |
-| 370 | [3993850](../reports/3993850.md) | Apple SecTrust fallback ignores CURLOPT_CRLFILE, letting a r | Low | — | 6 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-08 |
-| 371 | [1929597](../reports/1929597.md) | CVE-2023-28320: siglongjmp race condition | Low | — | 6 | [nyymi](https://hackerone.com/nyymi) | 2023-05-17 |
-| 372 | [1813864](../reports/1813864.md) | CVE-2023-23914: curl HSTS ignored on multiple requests | Low | — | 6 | [nyymi](https://hackerone.com/nyymi) | 2023-02-15 |
-| 373 | [1548535](../reports/1548535.md) | --libcurl code injection via trigraphs | Low | — | 6 | [nyymi](https://hackerone.com/nyymi) | 2022-04-24 |
-| 374 | [1101882](../reports/1101882.md) | CVE-2021-22876: Automatic referer leaks credentials | Low | — | 5 | [vsz](https://hackerone.com/vsz) | 2021-04-30 |
-| 375 | [1555441](../reports/1555441.md) | CVE-2022-27781: CERTINFO never-ending busy-loop | Low | — | 5 | [sybr](https://hackerone.com/sybr) | 2022-05-16 |
-| 376 | [3968853](../reports/3968853.md) | OpenSSL ENGINE selection omitted from mTLS connection matchi | Low | — | 5 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-14 |
-| 377 | [1898475](../reports/1898475.md) | CVE-2023-27538: SSH connection too eager reuse still | Low | — | 4 | [nyymi](https://hackerone.com/nyymi) | 2023-03-22 |
-| 378 | [3710209](../reports/3710209.md) | Potential Resource Leak in tool_parsecfg.c at line 279 durin | Low | — | 4 | [ravindrasl2026](https://hackerone.com/ravindrasl2026) | 2026-05-05 |
-| 379 | [1895135](../reports/1895135.md) | CVE-2023-27536: GSS delegation too eager connection re-use | Low | — | 4 | [nyymi](https://hackerone.com/nyymi) | 2023-03-22 |
-| 380 | [1569946](../reports/1569946.md) | CVE-2022-32205: Set-Cookie denial of service | Low | — | 4 | [nyymi](https://hackerone.com/nyymi) | 2022-06-27 |
-| 381 | [2904921](../reports/2904921.md) | OS Command Injection  (subprocess Module Usage) | Low | — | 4 | [bulter](https://hackerone.com/bulter) | 2025-07-07 |
-| 382 | [1891474](../reports/1891474.md) | CVE-2023-27533: Telnet option IAC injection | Low | — | 4 | [nyymi](https://hackerone.com/nyymi) | 2023-03-22 |
-| 383 | [661847](../reports/661847.md) | Integer overflows in tool_operate.c at line 1541 | Low — CVSS 3.3 | — | 4 | [cjun](https://hackerone.com/cjun) | 2021-01-01 |
-| 384 | [3788984](../reports/3788984.md) | CVE-2026-11564: Native CA trust persist | Low | — | 4 | [bagder](https://hackerone.com/bagder) | 2026-06-24 |
-| 385 | [1825377](../reports/1825377.md) |  libssh backend CURLOPT_SSH_HOST_PUBLIC_KEY_SHA256 validatio | Low — CVSS 3.7 | — | 4 | [nyymi](https://hackerone.com/nyymi) | 2023-01-07 |
-| 386 | [3969368](../reports/3969368.md) | CVE-2026-80231: native CA store conn reuse | Low | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-03 |
-| 387 | [1223882](../reports/1223882.md) | CVE-2021-22925: TELNET stack contents disclosure again | Low — CVSS 3.1 | — | 3 | [thoger](https://hackerone.com/thoger) | 2021-07-21 |
-| 388 | [3751697](../reports/3751697.md) | CVE-2026-10536: HTTP/2 stream-dependency tree UAF | Low | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-06-24 |
-| 389 | [3774279](../reports/3774279.md) | heap-use-after-free in state.referer when CURLOPT_REFERER re | Low | — | 3 | [fg0x0](https://hackerone.com/fg0x0) | 2026-06-11 |
-| 390 | [1954658](../reports/1954658.md) | CVE-2023-28322: more POST-after-PUT confusion | Low | — | 3 | [kurohiro](https://hackerone.com/kurohiro) | 2023-05-18 |
-| 391 | [3824303](../reports/3824303.md) | UAF read in mev_pollset_diff() trace path after curl_easy_pa | Low | — | 3 | [homanp](https://hackerone.com/homanp) | 2026-06-28 |
-| 392 | [1892351](../reports/1892351.md) | CVE-2023-27534: SFTP path ~ resolving discrepancy | Low | — | 3 | [nyymi](https://hackerone.com/nyymi) | 2023-03-22 |
-| 393 | [3749204](../reports/3749204.md) | CVE-2026-9080: UAF after pause in socket callback | Low | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-06-24 |
-| 394 | [3754343](../reports/3754343.md) | CVE-2026-9546: sending old referer | Low | — | 2 | [fafawf](https://hackerone.com/fafawf) | 2026-06-24 |
-| 395 | [1468962](../reports/1468962.md) | Binary output bypass | Low | — | 2 | [eliasknudsen](https://hackerone.com/eliasknudsen) | 2022-03-09 |
-| 396 | [3823985](../reports/3823985.md) | Use-after-free in `mev_forget_socket` when `curl_easy_pause( | Low | — | 2 | [stze](https://hackerone.com/stze) | 2026-06-28 |
-| 397 | [1589847](../reports/1589847.md) | Heap overflow via HTTP/2 PUSH_PROMISE | Low | — | 2 | [nyymi](https://hackerone.com/nyymi) | 2022-06-05 |
-| 398 | [3766392](../reports/3766392.md) | curl External-Controlled Filename in `--url @file` Leads to  | Low | — | 2 | [alphalaab](https://hackerone.com/alphalaab) | 2026-06-07 |
-| 399 | [3938220](../reports/3938220.md) | libcurl cache updates follow symlinks and truncate their tar | Low | — | 2 | [mr4bugs](https://hackerone.com/mr4bugs) | 2026-08-14 |
-| 400 | [3749428](../reports/3749428.md) | curl cross-origin HTTPS redirect reuses TLS client certifica | Low | — | 2 | [fanhua](https://hackerone.com/fanhua) | 2026-06-07 |
-| 401 | [3976342](../reports/3976342.md) | IMAP connection reuse runs requests in the wrong case-sensit | Low | — | 2 | [1rhino2](https://hackerone.com/1rhino2) | 2026-09-10 |
-| 402 | [3788931](../reports/3788931.md) | CVE-2026-11586: WS Auto-PONG memory exhaustion | Low | — | 2 | [evergarden1123](https://hackerone.com/evergarden1123) | 2026-06-24 |
-| 403 | [3783438](../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | Low | — | 2 | [vectorqueue](https://hackerone.com/vectorqueue) | 2026-06-24 |
-| 404 | [765664](../reports/765664.md) | Heap Buffer Overflow (READ of size 1) in ourWriteOut | Low | — | 2 | [geeknik](https://hackerone.com/geeknik) | 2021-01-08 |
-| 405 | [1950627](../reports/1950627.md) | CVE-2023-28321: IDN wildcard match | Low | — | 2 | [kurohiro](https://hackerone.com/kurohiro) | 2023-05-18 |
-| 406 | [3797526](../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | Low | — | 2 | [alienowo](https://hackerone.com/alienowo) | 2026-06-24 |
-| 407 | [3822248](../reports/3822248.md) | CVE-2026-13608: OpenLDAP SASL authentication bypass | Low | — | 2 | [hahahkim](https://hackerone.com/hahahkim) | 2026-09-03 |
-| 408 | [3769293](../reports/3769293.md) | Low priority HSTS bypass in curl_easy_duphandle() | Low | — | 1 | [ajohnston3825](https://hackerone.com/ajohnston3825) | 2026-06-01 |
-| 409 | [3733910](../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn reuse | Low | — | 1 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-06-24 |
-| 410 | [3770979](../reports/3770979.md) | SMTP connection reuse ignores --ssl-reqd / CURLOPT_USE_SSL a | Low | — | 1 | [hualuo](https://hackerone.com/hualuo) | 2026-06-03 |
-| 411 | [636013](../reports/636013.md) | huge COLUMNS causes progress-bar to buffer overflow | Low | — | 1 | [pendrek](https://hackerone.com/pendrek) | 2021-02-08 |
-| 412 | [707006](../reports/707006.md) | use after free in cookie.c | Low | — | 1 | [pauldreik](https://hackerone.com/pauldreik) | 2021-02-08 |
-| 413 | [3831432](../reports/3831432.md) | setopt(VERIFYPEER) from callback bypasses TLS verify on conn | Low | — | 1 | [a6b30108](https://hackerone.com/a6b30108) | 2026-06-30 |
-| 414 | [694449](../reports/694449.md) | Buffer write overflow when forming dns over http request | Low | — | 1 | [pauldreik](https://hackerone.com/pauldreik) | 2021-02-08 |
-| 415 | [724134](../reports/724134.md) | Race condition with CURL_LOCK_DATA_CONNECT can cause connect | Low | — | 1 | [creid](https://hackerone.com/creid) | 2021-01-08 |
-| 416 | [3721183](../reports/3721183.md) | CVE-2026-8458: wrong reuse for different services | Low | — | 1 | [areksaxyz](https://hackerone.com/areksaxyz) | 2026-06-24 |
-| 417 | [3718195](../reports/3718195.md) | CVE-2026-8286: wrong STARTTLS connection reuse | Low | — | 1 | [bagder](https://hackerone.com/bagder) | 2026-06-24 |
-| 418 | [3752888](../reports/3752888.md) | CVE-2026-9545: exposing HTTP/3 early data | Low | — | 1 | [hahahkim](https://hackerone.com/hahahkim) | 2026-06-24 |
-| 419 | [662412](../reports/662412.md) | Integer overflow  at line 1603 in the src/operator.c file | Low — CVSS 3.3 | — | 1 | [cjun](https://hackerone.com/cjun) | 2021-02-08 |
-| 420 | [3735184](../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | Low | — | 1 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-06-24 |
-| 421 | [1463013](../reports/1463013.md) | Occasional use-after-free in multi_done() libcurl-7.81.0 | Low | — | 1 | [luminixaaron](https://hackerone.com/luminixaaron) | 2022-03-09 |
-| 422 | [1572120](../reports/1572120.md) | curl "globbing" can lead to denial of service attacks | Low | — | 1 | [iylz](https://hackerone.com/iylz) | 2022-06-16 |
-| 423 | [640530](../reports/640530.md) | Insecure Frame (External) | Low | — | 1 | [caesardiedd](https://hackerone.com/caesardiedd) | 2019-11-01 |
-| 424 | [3780733](../reports/3780733.md) | DNS domain search list followed for extant domain missing A  | Low | — | 1 | [maxhearnden](https://hackerone.com/maxhearnden) | 2026-06-08 |
-| 425 | [696822](../reports/696822.md) | Potential invocation of qsort on uninitialized memory during | Low | — | 1 | [pauldreik](https://hackerone.com/pauldreik) | 2021-02-08 |
-| 426 | [3970639](../reports/3970639.md) | --etag-save - truncates append-redirected stdout | Low | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-28 |
-| 427 | [3733905](../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | Low | — | 0 | [vegagent](https://hackerone.com/vegagent) | 2026-06-24 |
-| 428 | [1564922](../reports/1564922.md) | Integer overflows in unescape_word() | Low | — | 0 | [ddme](https://hackerone.com/ddme) | 2022-06-09 |
-| 429 | [3832393](../reports/3832393.md) | libcurl upload read callbacks miss recursive API guard, allo | Low | — | 0 | [th3hound](https://hackerone.com/th3hound) | 2026-06-30 |
-| 430 | [3971496](../reports/3971496.md) | 28: HTTP/3 UDP path ignores CURL_SOCKOPT_ALREADY_CONNECTED,  | Low | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-28 |
-| 431 | [3970650](../reports/3970650.md) | Stacked --proto modifiers leave denied protocol enabled | Low | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-28 |
-| 432 | [3968431](../reports/3968431.md) | ARG_CLEAR credential scrubbing wipes only UTF-8 copies on Wi | Low | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-27 |
-| 433 | [872089](../reports/872089.md) | Curl_auth_create_plain_message integer overflow leads to hea | Low — CVSS 2.8 | — | 0 | [major_tom](https://hackerone.com/major_tom) | 2021-01-08 |
-| 434 | [3148937](../reports/3148937.md) | `Curl_socketpair()` fallback vulnerable to man-in-the-middle | None | — | 45 | [jmanojlovich](https://hackerone.com/jmanojlovich) | 2025-05-20 |
-| 435 | [3133379](../reports/3133379.md) | CRLF Injection in `--proxy-header` allows extra HTTP headers | None | — | 42 | [oblivionsage](https://hackerone.com/oblivionsage) | 2025-05-08 |
-| 436 | [3639277](../reports/3639277.md) | Bypassing Strict SSH Server Verification via Connection Pool | None | — | 37 | [whitehat411](https://hackerone.com/whitehat411) | 2026-03-31 |
-| 437 | [3463619](../reports/3463619.md) | testing hackerone functions | None | — | 35 | [qqqqqqqqqqqqqqqq](https://hackerone.com/qqqqqqqqqqqqqqqq) | 2025-12-13 |
-| 438 | [3483225](../reports/3483225.md) | A quiet New Year wish for security researchers | None | — | 30 | [ltl_professor](https://hackerone.com/ltl_professor) | 2026-01-01 |
-| 439 | [3516878](../reports/3516878.md) | Cross‑origin cookies leak and injection risk when using a cu | None | — | 30 | [b4c90000040c1287364ccde6de680](https://hackerone.com/b4c90000040c1287364ccde6de680) | 2026-01-20 |
-| 440 | [3283232](../reports/3283232.md) | Use After Free (that leads to arbitrary Write for some versi | None | — | 30 | [letshack9707](https://hackerone.com/letshack9707) | 2025-08-06 |
-| 441 | [3324901](../reports/3324901.md) | libcurl: Host-Only Cookies Leak to Alternate IPv4 Forms | None | — | 30 | [g3nj1z](https://hackerone.com/g3nj1z) | 2025-09-04 |
-| 442 | [2981245](../reports/2981245.md) | ("possible") UAF | None | — | 29 | [7mkrooal](https://hackerone.com/7mkrooal) | 2025-02-08 |
-| 443 | [3575250](../reports/3575250.md) | RTSP RTP Interleaved Parser Assertion Failure (Zero-Length R | None | — | 28 | [davkor](https://hackerone.com/davkor) | 2026-02-26 |
-| 444 | [3137657](../reports/3137657.md) | Memory Leak | None | — | 28 | [antypanty](https://hackerone.com/antypanty) | 2025-05-10 |
-| 445 | [3306475](../reports/3306475.md) | curl leaks destination IP via glibc getaddrinfo() UDP connec | None | — | 28 | [robert_min1](https://hackerone.com/robert_min1) | 2025-08-20 |
-| 446 | [3361913](../reports/3361913.md) | AWS SigV4 Signature Disclosure via Verbose Logging in libcur | None | — | 27 | [leftyha](https://hackerone.com/leftyha) | 2025-10-01 |
-| 447 | [3117697](../reports/3117697.md) | Double Free Vulnerability in `libcurl` Cookie Management (`c | None | — | 27 | [tannicarcher](https://hackerone.com/tannicarcher) | 2025-04-29 |
-| 448 | [3357960](../reports/3357960.md) | SMTP Command Injection Vulnerabilities in curl | None | — | 27 | [giant_anteater](https://hackerone.com/giant_anteater) | 2025-09-26 |
-| 449 | [3022041](../reports/3022041.md) | Use after free (read) in curl_multi_perform with DoH and Pro | None | — | 26 | [catenacyber](https://hackerone.com/catenacyber) | 2025-03-06 |
-| 450 | [3268294](../reports/3268294.md) | Exposure of Private RSA Private Key in curl GitHub Repositor | None | — | 26 | [ahmedf_f](https://hackerone.com/ahmedf_f) | 2025-07-23 |
-| 451 | [3409193](../reports/3409193.md) | HackerOne | None | — | 26 | [hackerpllim](https://hackerone.com/hackerpllim) | 2025-11-03 |
-| 452 | [3344663](../reports/3344663.md) | Security Analysis Report: CURL Integer Overflow Vulnerabilit | None | — | 26 | [mohiq](https://hackerone.com/mohiq) | 2025-09-18 |
-| 453 | [3636244](../reports/3636244.md) | HackerOne Vulnerability Report: libcurl SSL/TLS Identity Lea | None | — | 26 | [ankitsingh131225](https://hackerone.com/ankitsingh131225) | 2026-03-31 |
-| 454 | [3609505](../reports/3609505.md) | HSTS accepted from HTTP origin behind HTTPS proxy | None | — | 25 | [lg_oled77c5pua](https://hackerone.com/lg_oled77c5pua) | 2026-03-17 |
-| 455 | [3584149](../reports/3584149.md) | SSTI leads to Command injection | None | — | 24 | [errorbehavior200](https://hackerone.com/errorbehavior200) | 2026-03-04 |
-| 456 | [3258022](../reports/3258022.md) | curl ASSERTs when accessing an LDAP URL | None | — | 24 | [cmeister2](https://hackerone.com/cmeister2) | 2025-07-22 |
-| 457 | [3324190](../reports/3324190.md) | Heap-buffer-overflow (Out-of-Bounds Read) in DoH hostname en | None | — | 24 | [reporascal_1](https://hackerone.com/reporascal_1) | 2025-09-04 |
-| 458 | [3611825](../reports/3611825.md) | Bearer Token Leaked to Attacker via .netrc Despite CVE-2026- | None | — | 23 | [wizard021](https://hackerone.com/wizard021) | 2026-03-26 |
-| 459 | [3409186](../reports/3409186.md) | Hi Hacker | None | — | 22 | [hackerpllim](https://hackerone.com/hackerpllim) | 2025-11-03 |
-| 460 | [3261310](../reports/3261310.md) | OpenSSL HTTP/3 bogus CURLINFO_TLS_SSL_PTR | None | — | 21 | [nyymi](https://hackerone.com/nyymi) | 2025-07-28 |
-| 461 | [3116935](../reports/3116935.md) | Use of a Broken or Risky Cryptographic Algorithm (CWE-327) i | None | — | 21 | [tannicarcher](https://hackerone.com/tannicarcher) | 2025-04-29 |
-| 462 | [3516202](../reports/3516202.md) | Cookie Replacement Use-After-Free Vulnerability | None | — | 21 | [bhaskar_ram](https://hackerone.com/bhaskar_ram) | 2026-01-19 |
-| 463 | [3023139](../reports/3023139.md) | Memory leak of ftp (with proxy reuse) | None | — | 20 | [catenacyber](https://hackerone.com/catenacyber) | 2025-07-01 |
-| 464 | [3261248](../reports/3261248.md) | GnuTLS CURLINFO_TLS_SESSION / CURLINFO_TLS_SSL_PTR type conf | None | — | 20 | [nyymi](https://hackerone.com/nyymi) | 2025-07-23 |
-| 465 | [3481849](../reports/3481849.md) | HTTP/2 and HTTP/3 Header Injection in curl | None | — | 20 | [cyberguardianrd](https://hackerone.com/cyberguardianrd) | 2025-12-30 |
-| 466 | [3580247](../reports/3580247.md) | Use after free in hyperfifo example | None | — | 19 | [deepbluev7](https://hackerone.com/deepbluev7) | 2026-03-03 |
-| 467 | [3407352](../reports/3407352.md) | curl built with GnuTLS backend defaults to weak crypto param | None | — | 18 | [nyymi](https://hackerone.com/nyymi) | 2025-12-08 |
-| 468 | [3399774](../reports/3399774.md) | Integer Overflow to Heap Overflow in DoH Response Handling | None | — | 18 | [asdkjhasldkjahslfdkjfa](https://hackerone.com/asdkjhasldkjahslfdkjfa) | 2025-10-25 |
-| 469 | [3387499](../reports/3387499.md) | SMTP Command Injection Vulnerability in libcurl 8.16.0 via R | None | — | 18 | [spolu-dust](https://hackerone.com/spolu-dust) | 2025-10-17 |
-| 470 | [3442060](../reports/3442060.md) | Infinite loop issue in the state machine of the curl project | None | — | 17 | [kak1](https://hackerone.com/kak1) | 2025-11-26 |
-| 471 | [3264469](../reports/3264469.md) | Use after free (or assert triggered) with failed allocations | None | — | 15 | [catenacyber](https://hackerone.com/catenacyber) | 2025-07-24 |
-| 472 | [3665363](../reports/3665363.md) | Integer Overflow/Signedness Mismatch in Printf Precision for | None | — | 15 | [pwnpwn](https://hackerone.com/pwnpwn) | 2026-04-11 |
-| 473 | [3650443](../reports/3650443.md) | no_proxy IDN mismatch: Unicode hostnames bypass proxy exclus | None | — | 15 | [mzfr](https://hackerone.com/mzfr) | 2026-04-07 |
-| 474 | [3241304](../reports/3241304.md) | access notes without permission | None | — | 14 | [haydradz](https://hackerone.com/haydradz) | 2025-07-08 |
-| 475 | [3627638](../reports/3627638.md) | Security Vulnerability Report: Protocol Injection via Progra | None | — | 13 | [divyasingh_76](https://hackerone.com/divyasingh_76) | 2026-03-26 |
-| 476 | [3617719](../reports/3617719.md) | Function `do_pubkey()` can have out-of-bound read issue | None | — | 13 | [tynus](https://hackerone.com/tynus) | 2026-03-25 |
-| 477 | [3442024](../reports/3442024.md) | runs javascript on powershell when it shouldnt | None | — | 12 | [lim_e](https://hackerone.com/lim_e) | 2025-11-26 |
-| 478 | [3459636](../reports/3459636.md) | Stack Buffer Overflow in cURL wolfSSL Backend (lib/vtls/wolf | None | — | 12 | [lm3alm](https://hackerone.com/lm3alm) | 2025-12-09 |
-| 479 | [3379102](../reports/3379102.md) | Missing enforcement of SFTP quote syntax can lead to operati | None | — | 12 | [nyymi](https://hackerone.com/nyymi) | 2025-10-12 |
-| 480 | [3575475](../reports/3575475.md) | Curl Telnet Handler Buffer Overflow | None | — | 11 | [pelioro](https://hackerone.com/pelioro) | 2026-02-26 |
-| 481 | [3427670](../reports/3427670.md) | Double-free vulnerability in libcurl with rustls via NoServe | None | — | 11 | [xkernel](https://hackerone.com/xkernel) | 2025-11-16 |
-| 482 | [3475472](../reports/3475472.md) | Public-suffix cookie injection when libpsl is disabled | None | — | 11 | [pwnie](https://hackerone.com/pwnie) | 2025-12-25 |
-| 483 | [2841436](../reports/2841436.md) | information disclosure  | None | — | 10 | [rono_07](https://hackerone.com/rono_07) | 2025-07-07 |
-| 484 | [3474865](../reports/3474865.md) | libcurl WebSocket handshake accepts any Sec-WebSocket-Accept | None | — | 10 | [pwnie](https://hackerone.com/pwnie) | 2025-12-23 |
-| 485 | [726117](../reports/726117.md) | SMB access smuggling via FILE URL on Windows | None | — | 10 | [fms](https://hackerone.com/fms) | 2021-01-17 |
-| 486 | [3135673](../reports/3135673.md) | curl -OJ allows creating custom .curlrc file which allows ex | None | — | 10 | [wolfsage](https://hackerone.com/wolfsage) | 2025-07-01 |
-| 487 | [3650473](../reports/3650473.md) | FTP entrypath accepts 0xFF (Telnet IAC) through incomplete I | None | — | 10 | [mzfr](https://hackerone.com/mzfr) | 2026-04-07 |
-| 488 | [3133253](../reports/3133253.md) | curl_easy_header runs at O(N) or worse and can be abused to  | None | — | 9 | [wolfsage](https://hackerone.com/wolfsage) | 2025-07-01 |
-| 489 | [3241308](../reports/3241308.md) | Disclosure of email addresses | None | — | 9 | [haydradz](https://hackerone.com/haydradz) | 2025-07-08 |
-| 490 | [3089595](../reports/3089595.md) | Memory leak from doh_write_cb | None | — | 9 | [catenacyber](https://hackerone.com/catenacyber) | 2025-06-29 |
-| 491 | [3645415](../reports/3645415.md) | # SCURLOPT_SSH_KNOWNHOSTS and host fingerprint pins are sile | None | — | 9 | [spiderchan26](https://hackerone.com/spiderchan26) | 2026-04-06 |
-| 492 | [3419617](../reports/3419617.md) | Hash exposed in public repository | None | — | 8 | [skymander](https://hackerone.com/skymander) | 2025-11-11 |
-| 493 | [3037326](../reports/3037326.md) | Free of uninitialized pointer in doh_decode_rdata_name() | None | — | 8 | [tdp3kel9g](https://hackerone.com/tdp3kel9g) | 2025-06-28 |
-| 494 | [3045390](../reports/3045390.md) | Double free caused by mqtt_doing() | None | — | 8 | [tdp3kel9g](https://hackerone.com/tdp3kel9g) | 2025-06-30 |
-| 495 | [3418760](../reports/3418760.md) | Command Injection - CRITICISM | None | — | 8 | [tomar-re](https://hackerone.com/tomar-re) | 2025-11-11 |
-| 496 | [3406123](../reports/3406123.md) | Buffer over-read,, Missing NUL termination in addvariable()  | None | — | 8 | [sagorhawlader](https://hackerone.com/sagorhawlader) | 2025-10-31 |
-| 497 | [4021952](../reports/4021952.md) | Socket API drops expired timeouts for transfers queued behin | None | — | 8 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-18 |
-| 498 | [3037583](../reports/3037583.md) | Buffer Overflow in curl's Rustls Backend | None | — | 8 | [cyberguardianrd](https://hackerone.com/cyberguardianrd) | 2025-06-30 |
-| 499 | [3646914](../reports/3646914.md) | ignoring 'options' when doing connection reuse | None | — | 8 | [spichanlio76](https://hackerone.com/spichanlio76) | 2026-04-05 |
-| 500 | [3183957](../reports/3183957.md) | Arbitrary File Read via Unsanitized curl Usage Results in Se | None | — | 8 | [ednaq](https://hackerone.com/ednaq) | 2025-06-27 |
-| 501 | [3427194](../reports/3427194.md) | Malicious server forces .curlrc creation via curl -OJ leadin | None | — | 8 | [djogho](https://hackerone.com/djogho) | 2025-11-15 |
-| 502 | [3508701](../reports/3508701.md) | Use-After-Free in curl_easy_nextheader when reusing header h | None | — | 8 | [adce626q](https://hackerone.com/adce626q) | 2026-01-14 |
-| 503 | [3761789](../reports/3761789.md) | Mentioned unites are at the same time .Then we have to incre | None | — | 6 | [karthiktp1810](https://hackerone.com/karthiktp1810) | 2026-06-01 |
-| 504 | [3952619](../reports/3952619.md) | Domainless COOKIEFILE cookie leaks to unrelated IP-literal h | None | — | 6 | [accl](https://hackerone.com/accl) | 2026-08-21 |
-| 505 | [4024268](../reports/4024268.md) | Out-of-bounds read in curl_formadd when CURLFORM_NAMELENGTH  | None | — | 6 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-15 |
-| 506 | [3451305](../reports/3451305.md) | SMTP Protocol Injection via CRLF in CURLOPT_MAIL_FROM leadin | None | — | 6 | [anonymous_237](https://hackerone.com/anonymous_237) | 2025-12-04 |
-| 507 | [2831558](../reports/2831558.md) | netrc crlf injection | None | — | 6 | [nyymi](https://hackerone.com/nyymi) | 2025-07-07 |
-| 508 | [3431180](../reports/3431180.md) | Double free in tool_ssls_load() | None | — | 5 | [xkernel](https://hackerone.com/xkernel) | 2025-11-18 |
-| 509 | [3734947](../reports/3734947.md) | HTTP/3 paused transfer buffers incoming data without bound u | None | — | 5 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-19 |
-| 510 | [2981303](../reports/2981303.md) | TLS Cipher Misconfiguration in HTTP/3/QUIC Support | None | — | 5 | [zzq1015](https://hackerone.com/zzq1015) | 2025-07-06 |
-| 511 | [3505557](../reports/3505557.md) | CRLF Injection in HTTP header values allows arbitrary header | None | — | 5 | [unknowperson0212](https://hackerone.com/unknowperson0212) | 2026-01-10 |
-| 512 | [3973234](../reports/3973234.md) | 53: HTTP/1 CONNECT chunked-407 trailers bypass CURLOPT_SUPPR | None | — | 5 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-14 |
-| 513 | [3735080](../reports/3735080.md) | libssh SFTP initialization ignores CURLOPT_TIMEOUT, hangs in | None | — | 5 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-18 |
-| 514 | [3733934](../reports/3733934.md) | CURLOPT_HSTS_CTRL disables shared HSTS without share guard — | None | — | 5 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-18 |
-| 515 | [2861797](../reports/2861797.md) | curl mishandles `%0c%0b` sequences in HTTP responses leading | None | — | 5 | [mdakh404](https://hackerone.com/mdakh404) | 2025-07-07 |
-| 516 | [3718265](../reports/3718265.md) | Shared HSTS cache accessed without lock | None | — | 5 | [bagder](https://hackerone.com/bagder) | 2026-06-05 |
-| 517 | [3972385](../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | None | — | 4 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-03 |
-| 518 | [3651975](../reports/3651975.md) | SMTP Command Injection via CRLF in libcurl MAIL_FROM / MAIL_ | None | — | 4 | [divsz](https://hackerone.com/divsz) | 2026-04-06 |
-| 519 | [3973194](../reports/3973194.md) | 49: Cookie-jar save transfers group access to a different GI | None | — | 4 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-08 |
-| 520 | [3973098](../reports/3973098.md) | 07: GnuTLS 0-RTT early data bypasses file-backed public-key  | None | — | 4 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-02 |
-| 521 | [591770](../reports/591770.md) | Signed integer overflow in tool_progress_cb() | None | — | 4 | [geeknik](https://hackerone.com/geeknik) | 2019-10-04 |
-| 522 | [3739561](../reports/3739561.md) | SSL session-cache peer key omits signature_algorithms: stric | None | — | 4 | [hexproof](https://hackerone.com/hexproof) | 2026-05-19 |
-| 523 | [3468410](../reports/3468410.md) | Heap buffer overflow in Curl_ipv4_resolve_r due to incorrect | None | — | 4 | [badrodin22](https://hackerone.com/badrodin22) | 2025-12-17 |
-| 524 | [3734935](../reports/3734935.md) | rustls backend silently ignores CURLOPT_CRLFILE when native  | None | — | 4 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-18 |
-| 525 | [3973093](../reports/3973093.md) | 06: Incomplete fix for CVE-2026-7009: GCC/SecTrust builds si | None | — | 4 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-31 |
-| 526 | [3973111](../reports/3973111.md) | 08: CVE-2026-7009 fix incomplete for AWS-LC: `--cert-status` | None | — | 4 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-08 |
-| 527 | [3508854](../reports/3508854.md) | MQTT: unsigned integer underflow bypasses MAX_MQTT_MESSAGE_S | None | — | 4 | [0xshakib0x04](https://hackerone.com/0xshakib0x04) | 2026-01-13 |
-| 528 | [3833577](../reports/3833577.md) | heap-use-after-free in curl_easy_cleanup() called from callb | None | — | 4 | [carehi1324](https://hackerone.com/carehi1324) | 2026-06-30 |
-| 529 | [3735238](../reports/3735238.md) | cookie: case-insensitive path comparison in replace_existing | None | — | 4 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-18 |
-| 530 | [3717365](../reports/3717365.md) | mbedTLS private-key blob null-termination asymmetry in lib/v | None | — | 4 | [shecantcode2](https://hackerone.com/shecantcode2) | 2026-05-07 |
-| 531 | [3973127](../reports/3973127.md) | 18:  Explicit IPv6 proxy zone ID silently ignored — proxy cr | None | — | 4 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-31 |
-| 532 | [3973152](../reports/3973152.md) | 37: `curl_mprintf` `%F` format specifier not consumed, causi | None | — | 4 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-14 |
-| 533 | [3917775](../reports/3917775.md) | curl Missing Sec-WebSocket-Accept Verification Enables MITM  | None | — | 3 | [kiyin](https://hackerone.com/kiyin) | 2026-08-05 |
-| 534 | [3725659](../reports/3725659.md) | Kerberos/SPNEGO Connection Reuse Vulnerability | None | — | 3 | [rootofpi_ramesh](https://hackerone.com/rootofpi_ramesh) | 2026-05-14 |
-| 535 | [3734992](../reports/3734992.md) | Schannel custom-CA path skips Extended Key Usage enforcement | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-19 |
-| 536 | [1049624](../reports/1049624.md) | Abusing URL Parsers by long schema name | None | — | 3 | [d4d](https://hackerone.com/d4d) | 2021-01-08 |
-| 537 | [3803415](../reports/3803415.md) |  Secure cookies leaked to HTTP origins through HTTPS forward | None | — | 3 | [daviey](https://hackerone.com/daviey) | 2026-06-15 |
-| 538 | [600359](../reports/600359.md) | Integer overflow in the source code tool_cb_prg.c | None | — | 3 | [sfpskywood](https://hackerone.com/sfpskywood) | 2021-02-08 |
-| 539 | [3973213](../reports/3973213.md) | 54: Rejected HTTP/2 push destroys MIME callback state still  | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-07 |
-| 540 | [3971585](../reports/3971585.md) | 33: CONNECT_ONLY raw I/O selects wrong connection after CURL | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-31 |
-| 541 | [3971518](../reports/3971518.md) | 29: CURLOPT_ISSUERCERT accepts a different-key certificate w | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-08 |
-| 542 | [3972323](../reports/3972323.md) | 10: CURLOPT_MAXLIFETIME_CONN bypass on active HTTP/2 connect | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-14 |
-| 543 | [3741135](../reports/3741135.md) | Connection reuse ignores haproxyprotocol and HAPROXY_CLIENT_ | None | — | 3 | [7omoo](https://hackerone.com/7omoo) | 2026-05-19 |
-| 544 | [3973249](../reports/3973249.md) | 56: IBM i CL wrapper `parse_command_line()` never enters quo | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-14 |
-| 545 | [3751701](../reports/3751701.md) | Use-after-free in `curl_easy_duphandle()` with HTTP/2 stream | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-06-01 |
-| 546 | [3734921](../reports/3734921.md) | Trailing-dot IPv4 URL bypasses IP-address guard, allows wild | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-17 |
-| 547 | [3973158](../reports/3973158.md) | 41: `main_checkfds()` pipe reuse leaks proxy credentials int | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-31 |
-| 548 | [3735276](../reports/3735276.md) | TLS peer-verification bypass via mid-transfer ssl_config mut | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-19 |
-| 549 | [3734020](../reports/3734020.md) | HTTP/2 proxy CONNECT tunnel unbounded 1xx chain (missing Cur | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-19 |
-| 550 | [3736234](../reports/3736234.md) | NULL pointer dereference in libcurl URL API redirect_url() w | None | — | 2 | [mulan_dh](https://hackerone.com/mulan_dh) | 2026-05-17 |
-| 551 | [3972293](../reports/3972293.md) | 43: HTTP proxy CONNECT header chooses the `-OJ` filename aft | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-07 |
-| 552 | [3969300](../reports/3969300.md) | CVE-2026-80230: OpenSSL pinning bypass | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-03 |
-| 553 | [3781305](../reports/3781305.md) | OpenSSL TLS 1.2 session resumption accepts expired server ce | None | — | 2 | [awofjawofjfawf](https://hackerone.com/awofjawofjfawf) | 2026-06-07 |
-| 554 | [3734095](../reports/3734095.md) | TLS verifyhost bypass in rustls, mbedTLS, and wolfSSL when v | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-19 |
-| 555 | [3735179](../reports/3735179.md) | CURLOPT_PROXY_CAINFO_BLOB silently activates native CA store | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-19 |
-| 556 | [3972316](../reports/3972316.md) | 46: `--libcurl` output carries `--insecure` across `--next`  | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-28 |
-| 557 | [3973169](../reports/3973169.md) | 42: `VMS_STS` macro typo (`< 3` vs `<< 3`) turns curl failur | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-29 |
-| 558 | [3971706](../reports/3971706.md) | 36: HTTP upload resume offset consumed twice after early 307 | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-07 |
-| 559 | [3969255](../reports/3969255.md) | CVE-2026-80229: OpenSSL provider use-after-free | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-03 |
-| 560 | [3741744](../reports/3741744.md) | CRLF Injection via Custom HTTP Headers | None | — | 2 | [bugthiru](https://hackerone.com/bugthiru) | 2026-06-11 |
-| 561 | [3973219](../reports/3973219.md) | 57: Heap out-of-bounds read in `curl_easy_escape_ccsid()` /  | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-07 |
-| 562 | [3973121](../reports/3973121.md) | 11: `CURLOPT_FORBID_REUSE` silently lost on multiplexed HTTP | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-07 |
-| 563 | [627245](../reports/627245.md) | Integer overlow in "header_append" function | None | — | 2 | [invictus1306](https://hackerone.com/invictus1306) | 2021-02-08 |
-| 564 | [3733946](../reports/3733946.md) | Credentials forwarded to HTTP after HTTPS→HTTP same-port red | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-20 |
-| 565 | [3973143](../reports/3973143.md) | 22:  FTP wildcard matching decodes server-provided filenames | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-08 |
-| 566 | [3973228](../reports/3973228.md) | 50: CMake `HTTP_ONLY` does not disable SSH backends — SCP an | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-29 |
-| 567 | [3751712](../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | None | — | 1 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-06-24 |
-| 568 | [694988](../reports/694988.md) | Resource leak when using a normal site as DOH server | None | — | 1 | [pauldreik](https://hackerone.com/pauldreik) | 2021-02-08 |
-| 569 | [3973090](../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | None | — | 1 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-03 |
-| 570 | [1590102](../reports/1590102.md) | KRB-FTP: Security level downgrade | None | — | 1 | [nyymi](https://hackerone.com/nyymi) | 2022-06-05 |
-| 571 | [3831345](../reports/3831345.md) | CURLSHOPT_UNSHARE race can cause UAF in shared SSL session c | None | — | 1 | [smaeljaish771](https://hackerone.com/smaeljaish771) | 2026-06-30 |
-| 572 | [1019372](../reports/1019372.md) | Parallel upload hangs curl if upload file not found | None | — | 1 | [brumbrum](https://hackerone.com/brumbrum) | 2020-10-29 |
-| 573 | [3777381](../reports/3777381.md) | PRE_PROXY change leaks stale Proxy Digest state across proxy | None | — | 1 | [hungly09](https://hackerone.com/hungly09) | 2026-06-03 |
-| 574 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | None | — | 1 | [danielmarjamaki](https://hackerone.com/danielmarjamaki) | 2021-02-08 |
-| 575 | [3751715](../reports/3751715.md) | Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUESS_SC | None | — | 1 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-25 |
-| 576 | [3973245](../reports/3973245.md) | 55: Heap-buffer-overflow read in `curl_formadd_ccsid()` with | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-10 |
-| 577 | [3971538](../reports/3971538.md) | 27: IMAP custom FETCH listing classification skips literal b | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-10 |
-| 578 | [3972338](../reports/3972338.md) | 12: SASL DIGEST-MD5 does not validate the server's `rspauth` | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-10 |
-| 579 | [3972395](../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-03 |
-| 580 | [3972196](../reports/3972196.md) | 34: `curl_mprintf` reads `double` for documented `long doubl | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-28 |
-| 581 | [812969](../reports/812969.md) | curl still vulnerable to SMB access smuggling via FILE URL o | None | — | 0 | [tsedlmeyer](https://hackerone.com/tsedlmeyer) | 2021-01-08 |
-| 582 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL against  | None | — | 0 | [lersek](https://hackerone.com/lersek) | 2021-01-08 |
+| 285 | [4033971](../reports/4033971.md) | Use-after-free of the internal multi->admin easy handle via  | Medium | — | 0 | [fengxiao](https://hackerone.com/fengxiao) | 2026-09-19 |
+| 286 | [3826199](../reports/3826199.md) | mbedTLS / wolfSSL / rustls backends silently skip hostname v | Medium | — | 0 | [b1gtang](https://hackerone.com/b1gtang) | 2026-06-26 |
+| 287 | [1019457](../reports/1019457.md) | Data race conditions reported by helgrind when performing pa | Medium — CVSS 5.2 | — | 0 | [brumbrum](https://hackerone.com/brumbrum) | 2020-11-04 |
+| 288 | [773313](../reports/773313.md) | Port and service scanning on localhost due to improper URL v | Medium — CVSS 6.3 | — | 0 | [vshmuk](https://hackerone.com/vshmuk) | 2020-01-15 |
+| 289 | [3766065](../reports/3766065.md) | CURLOPT_COOKIE leaked to cross-origin redirect target — CURL | Medium | — | 0 | [azraelxuemo](https://hackerone.com/azraelxuemo) | 2026-06-05 |
+| 290 | [3968729](../reports/3968729.md) | Unbound cross-peer HTTP Digest challenge state | Medium | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-27 |
+| 291 | [3923212](../reports/3923212.md) | URL API: triple-slash parses path segment as hostname | Medium | — | 0 | [thinhlx](https://hackerone.com/thinhlx) | 2026-08-07 |
+| 292 | [687734](../reports/687734.md) | Double-free of `trailers_buf' on `Curl_http_compile_trailers | Medium — CVSS 6.3 | — | 0 | [thomas_v](https://hackerone.com/thomas_v) | 2021-01-12 |
+| 293 | [4025056](../reports/4025056.md) | HTTP/1.1 response framing violation and unsafe connection re | Medium | — | 0 | [thatcyberguyrich](https://hackerone.com/thatcyberguyrich) | 2026-09-19 |
+| 294 | [3823932](../reports/3823932.md) | CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabling H | Medium | — | 0 | [tneelc](https://hackerone.com/tneelc) | 2026-06-26 |
+| 295 | [3168039](../reports/3168039.md) | CVE-2025-5399: WebSocket endless loop | Low | — | 57 | [z2_](https://hackerone.com/z2_) | 2025-06-04 |
+| 296 | [2629968](../reports/2629968.md) | CVE-2024-7264: ASN.1 date parser overread | Low | — | 53 | [dubek](https://hackerone.com/dubek) | 2024-08-01 |
+| 297 | [2764830](../reports/2764830.md) | CVE-2024-9681: HSTS subdomain overwrites parent cache entry | Low | — | 49 | [newfunction](https://hackerone.com/newfunction) | 2024-11-06 |
+| 298 | [3531216](../reports/3531216.md) | MQTT Protocol Packet Injection via Unchecked CONNACK Remaini | Low | — | 45 | [pajarori](https://hackerone.com/pajarori) | 2026-02-05 |
+| 299 | [3269761](../reports/3269761.md) | Security check up | Low | — | 44 | [ejejohn](https://hackerone.com/ejejohn) | 2025-07-24 |
+| 300 | [3355218](../reports/3355218.md) | CVE-2025-10966: missing SFTP host verification with wolfSSH | Low | — | 43 | [giant_anteater](https://hackerone.com/giant_anteater) | 2025-11-05 |
+| 301 | [3211973](../reports/3211973.md) | Credential leak on redirect due to improper state clearing w | Low | — | 41 | [oxghostly](https://hackerone.com/oxghostly) | 2025-06-22 |
+| 302 | [3294999](../reports/3294999.md) | CVE-2025-9086: Out of bounds read for cookie path | Low | — | 36 | [bigsleep](https://hackerone.com/bigsleep) | 2025-09-10 |
+| 303 | [2917232](../reports/2917232.md) | CVE-2025-0167: netrc and default credential leak | Low | — | 36 | [sherlock2010](https://hackerone.com/sherlock2010) | 2025-02-07 |
+| 304 | [2829063](../reports/2829063.md) | CVE-2024-11053: netrc + redirect credential leak | Low | — | 33 | [nyymi](https://hackerone.com/nyymi) | 2024-12-11 |
+| 305 | [2384833](../reports/2384833.md) | CVE-2024-2004: Usage of disabled protocol | Low | — | 33 | [dfandrich](https://hackerone.com/dfandrich) | 2024-03-27 |
+| 306 | [3262848](../reports/3262848.md) | on the implications of permitting procedural culling | Low | — | 33 | [lyb_unaffiliated](https://hackerone.com/lyb_unaffiliated) | 2025-07-22 |
+| 307 | [3612891](../reports/3612891.md) | Exposed .git/config File Leading to Potential Sensitive Info | Low | — | 33 | [zoroo2](https://hackerone.com/zoroo2) | 2026-03-20 |
+| 308 | [3330839](../reports/3330839.md) | CVE-2025-10148: predictable WebSocket mask | Low | — | 30 | [cruocco](https://hackerone.com/cruocco) | 2025-09-10 |
+| 309 | [1040166](../reports/1040166.md) | CVE-2020-8284: trusting FTP PASV responses | Low | — | 30 | [vepe](https://hackerone.com/vepe) | 2021-02-09 |
+| 310 | [3373640](../reports/3373640.md) | OpenSSL backend: X509 peer certificate not freed in ossl_get | Low | — | 30 | [giant_anteater](https://hackerone.com/giant_anteater) | 2025-10-08 |
+| 311 | [3584903](../reports/3584903.md) | CVE-2026-3784: wrong proxy connection reuse with credentials | Low | — | 30 | [nobcoder](https://hackerone.com/nobcoder) | 2026-03-11 |
+| 312 | [3623064](../reports/3623064.md) | HTTP/1.1 Response Desynchronization via conflicting CL/TE he | Low | — | 30 | [3lcarry](https://hackerone.com/3lcarry) | 2026-03-25 |
+| 313 | [2905552](../reports/2905552.md) | bypass of this Fixed #2437131 [ Inadequate Protocol Restrict | Low | — | 30 | [hackeriron1](https://hackerone.com/hackeriron1) | 2024-12-19 |
+| 314 | [2236133](../reports/2236133.md) | CVE-2023-46219: HSTS long file name clears contents | Low | — | 27 | [cxshakal](https://hackerone.com/cxshakal) | 2023-12-08 |
+| 315 | [3434543](../reports/3434543.md) | Arbitrary free in curl's config file parsing. | Low | — | 26 | [letshack9707](https://hackerone.com/letshack9707) | 2025-11-23 |
+| 316 | [3608522](../reports/3608522.md) | Unescaped username in SASL DIGEST-MD5 response allows inject | Low | — | 26 | [am-perip](https://hackerone.com/am-perip) | 2026-03-17 |
+| 317 | [2559558](../reports/2559558.md) | NULL dereference when encoding DN of x509 certificate | Low | — | 26 | [z2_](https://hackerone.com/z2_) | 2024-06-19 |
+| 318 | [2604391](../reports/2604391.md) | CVE-2024-6874: macidn punycode buffer overread | Low | — | 25 | [z2_](https://hackerone.com/z2_) | 2024-07-24 |
+| 319 | [547630](../reports/547630.md) | CVE-2019-5435: An integer overflow found in /lib/urlapi.c | Low | — | 24 | [1wc](https://hackerone.com/1wc) | 2020-12-05 |
+| 320 | [2954286](../reports/2954286.md) | CVE-2025-0665: eventfd double close | Low | — | 24 | [ankomcoper](https://hackerone.com/ankomcoper) | 2025-02-07 |
+| 321 | [2298922](../reports/2298922.md) | CVE-2024-0853: OCSP verification bypass with TLS session reu | Low | — | 23 | [kurohiro](https://hackerone.com/kurohiro) | 2024-01-31 |
+| 322 | [3673277](../reports/3673277.md) | libcurl stale CURLOPT_AUTOREFERER leaks a previous request U | Low | — | 22 | [asdwe](https://hackerone.com/asdwe) | 2026-04-17 |
+| 323 | [2814750](../reports/2814750.md) | Inconsistent URL Parsing in curl Leading to Potential SSRF a | Low | — | 22 | [z3r0yu](https://hackerone.com/z3r0yu) | 2025-09-26 |
+| 324 | [3671818](../reports/3671818.md) | CVE-2026-6276: stale custom cookie host causes cookie leak | Low | — | 20 | [arkss](https://hackerone.com/arkss) | 2026-04-29 |
+| 325 | [3473384](../reports/3473384.md) | Functional Regression in Digest Authentication: Failure to h | Low | — | 20 | [herdiyanitdev](https://hackerone.com/herdiyanitdev) | 2025-12-21 |
+| 326 | [3477116](../reports/3477116.md) | CVE-2025-15079: libssh global knownhost override  | Low | — | 18 | [nyymi](https://hackerone.com/nyymi) | 2026-01-07 |
+| 327 | [3595764](../reports/3595764.md) | CURLOPT_UNRESTRICTED_AUTH Dangerous Default Documentation Ga | Low | — | 18 | [sabari_n](https://hackerone.com/sabari_n) | 2026-03-10 |
+| 328 | [3641893](../reports/3641893.md) | Cookie attribute TAB injection regression in Set-Cookie pars | Low | — | 18 | [calaba_zas](https://hackerone.com/calaba_zas) | 2026-04-03 |
+| 329 | [3341476](../reports/3341476.md) | int overflow in krb5_read_data() leads to (possible) massive | Low | — | 17 | [smiliesandco](https://hackerone.com/smiliesandco) | 2025-09-18 |
+| 330 | [2956023](../reports/2956023.md) | CVE-2025-0725: gzip integer overflow | Low | — | 17 | [z2_](https://hackerone.com/z2_) | 2025-02-05 |
+| 331 | [3459417](../reports/3459417.md) | CVE-2025-14524: bearer token leak on cross-protocol redirect | Low | — | 17 | [anonymous_237](https://hackerone.com/anonymous_237) | 2026-01-07 |
+| 332 | [3514263](../reports/3514263.md) | libcurl: Improper Authentication State Management on Cross-P | Low | — | 17 | [andrewml](https://hackerone.com/andrewml) | 2026-01-17 |
+| 333 | [550696](../reports/550696.md) | CVE-2019-5436: Heap Buffer Overflow at lib/tftp.c | Low — CVSS 1.8 | — | 16 | [l00p3r](https://hackerone.com/l00p3r) | 2019-05-31 |
+| 334 | [3480712](../reports/3480712.md) | Telnet Suboption Buffer Pointer Underflow in lib/telnet.c le | Low | — | 16 | [stif](https://hackerone.com/stif) | 2025-12-29 |
+| 335 | [1764858](../reports/1764858.md) | CVE-2022-43552: HTTP Proxy deny use-after-free | Low | — | 16 | [bagder](https://hackerone.com/bagder) | 2022-12-26 |
+| 336 | [3427460](../reports/3427460.md) | Incorrect sizeof() in Rustls Backend Memory Allocation | Low | — | 15 | [pelioro](https://hackerone.com/pelioro) | 2025-11-15 |
+| 337 | [3650435](../reports/3650435.md) | Improper enforcement of CURLOPT_SOCKS5_AUTH due to missing r | Low | — | 15 | [cutiapretaa](https://hackerone.com/cutiapretaa) | 2026-04-07 |
+| 338 | [2148242](../reports/2148242.md) | CVE-2023-38546: cookie injection with none file | Low | — | 14 | [w0x42](https://hackerone.com/w0x42) | 2023-10-11 |
+| 339 | [1172857](../reports/1172857.md) | CVE-2021-22897: schannel cipher selection surprise | Low | — | 14 | [nyymi](https://hackerone.com/nyymi) | 2021-05-26 |
+| 340 | [3509396](../reports/3509396.md) | IMAP Protocol Desynchronization and Response Smuggling via N | Low | — | 14 | [shiftj](https://hackerone.com/shiftj) | 2026-01-14 |
+| 341 | [3393539](../reports/3393539.md) | Memory leak in Curl_auth_create_ntlm_type3_message | Low | — | 13 | [tjbecker_theori](https://hackerone.com/tjbecker_theori) | 2025-10-28 |
+| 342 | [3480925](../reports/3480925.md) | CVE-2025-15224: libssh key passphrase bypass without agent s | Low | — | 13 | [nyymi](https://hackerone.com/nyymi) | 2026-01-07 |
+| 343 | [1613943](../reports/1613943.md) | CVE-2022-35252: control code in cookie denial of service | Low | — | 13 | [haxatron1](https://hackerone.com/haxatron1) | 2022-08-31 |
+| 344 | [4023506](../reports/4023506.md) | libcurl LDAP LDIF: entry DN and attribute names written with | Low | — | 12 | [1rhino2](https://hackerone.com/1rhino2) | 2026-09-15 |
+| 345 | [3473182](../reports/3473182.md) | A logic error in detect_proxy caused truncation of environme | Low | — | 12 | [herdiyanitdev](https://hackerone.com/herdiyanitdev) | 2025-12-21 |
+| 346 | [1897203](../reports/1897203.md) | CVE-2023-27537: HSTS double-free | Low | — | 12 | [kurohiro](https://hackerone.com/kurohiro) | 2023-03-20 |
+| 347 | [3479019](../reports/3479019.md) | Security hardening: missing integer overflow check in curl_l | Low | — | 12 | [y_security](https://hackerone.com/y_security) | 2025-12-27 |
+| 348 | [3476928](../reports/3476928.md) | Integer Overflow in `curl_easy_escape()` may lead to heap bu | Low | — | 11 | [vovohelo](https://hackerone.com/vovohelo) | 2025-12-25 |
+| 349 | [2410774](../reports/2410774.md) | CVE-2024-2379: QUIC certificate check bypass with wolfSSL | Low | — | 11 | [fullmetal5](https://hackerone.com/fullmetal5) | 2024-03-27 |
+| 350 | [948876](../reports/948876.md) | CVE-2020-8231: Connect-only connections can use the wrong co | Low | — | 11 | [m42a](https://hackerone.com/m42a) | 2020-11-05 |
+| 351 | [1590071](../reports/1590071.md) | CVE-2022-32208: FTP-KRB bad message verification | Low | — | 11 | [nyymi](https://hackerone.com/nyymi) | 2022-06-27 |
+| 352 | [3916059](../reports/3916059.md) | CVE-2026-18924: HTTP/2 server push UAF | Low | — | 10 | [stze](https://hackerone.com/stze) | 2026-09-02 |
+| 353 | [3621851](../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | Low | — | 10 | [bonaire](https://hackerone.com/bonaire) | 2026-04-29 |
+| 354 | [3488278](../reports/3488278.md) | MQTT: Missing upper bound on incoming Remaining Length allow | Low | — | 10 | [gaurav_7777](https://hackerone.com/gaurav_7777) | 2026-01-06 |
+| 355 | [3395666](../reports/3395666.md) | libcurl MQTT PUBLISH length overflow (heap overflow) | Low | — | 9 | [max_from_secmate](https://hackerone.com/max_from_secmate) | 2025-10-28 |
+| 356 | [3650689](../reports/3650689.md) | CVE-2026-5773: wrong reuse of SMB connection | Low | — | 9 | [osama-hamad](https://hackerone.com/osama-hamad) | 2026-04-29 |
+| 357 | [3508799](../reports/3508799.md) | Digest Authentication Header Injection | Low | — | 8 | [andrew-bbp](https://hackerone.com/andrew-bbp) | 2026-01-14 |
+| 358 | [3460184](../reports/3460184.md) | Terminal Output Not Great | Low | — | 8 | [kelsier](https://hackerone.com/kelsier) | 2025-12-11 |
+| 359 | [1721098](../reports/1721098.md) | CVE-2022-35260: .netrc parser out-of-bounds access | Low | — | 7 | [kurohiro](https://hackerone.com/kurohiro) | 2022-10-27 |
+| 360 | [3494098](../reports/3494098.md) | inconsistently Rejection Logic in file:// URLs with Authorit | Low | — | 7 | [unknowperson0212](https://hackerone.com/unknowperson0212) | 2026-01-08 |
+| 361 | [1129529](../reports/1129529.md) | CVE-2021-22890: TLS 1.3 session ticket proxy host mixup | Low | — | 7 | [mingtao](https://hackerone.com/mingtao) | 2021-04-30 |
+| 362 | [1814333](../reports/1814333.md) | CVE-2023-23915: HSTS amnesia with --parallel | Low | — | 7 | [nyymi](https://hackerone.com/nyymi) | 2023-02-15 |
+| 363 | [1814824](../reports/1814824.md) | curl file writing susceptible to symlink attacks | Low | — | 7 | [nyymi](https://hackerone.com/nyymi) | 2023-01-07 |
+| 364 | [1546268](../reports/1546268.md) | CVE-2022-27775: Bad local IPv6 connection reuse | Low | — | 7 | [nyymi](https://hackerone.com/nyymi) | 2022-04-27 |
+| 365 | [3971462](../reports/3971462.md) | Heap-use-after-free in CURLOPT_REFERER when passed a CURLINF | Low | — | 7 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-14 |
+| 366 | [3508321](../reports/3508321.md) | Integer-underflow leads to heap over-read in TFTP implementa | Low | — | 7 | [z2_](https://hackerone.com/z2_) | 2026-01-14 |
+| 367 | [2552179](../reports/2552179.md) | Incorrect Encoding Conversion in hostname  results in indete | Low | — | 7 | [z3r0yu](https://hackerone.com/z3r0yu) | 2024-06-18 |
+| 368 | [3793495](../reports/3793495.md) | Incomplete Suppression of  Transfer-Encoding: chunked Header | Low | — | 7 | [unknowperson0212](https://hackerone.com/unknowperson0212) | 2026-06-15 |
+| 369 | [545052](../reports/545052.md) | Github wikis are editable by anyone #Githubwikistakeover | Low | — | 6 | [ronb1996](https://hackerone.com/ronb1996) | 2019-05-25 |
+| 370 | [3993973](../reports/3993973.md) | HTTP Digest nonce reused across an https→http scheme change  | Low | — | 6 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-08 |
+| 371 | [3717552](../reports/3717552.md) | CURLOPT_PROXY_CRLFILE / CURLOPT_PROXY_ISSUERCERT / CURLOPT_P | Low | — | 6 | [bagder](https://hackerone.com/bagder) | 2026-06-05 |
+| 372 | [3993850](../reports/3993850.md) | Apple SecTrust fallback ignores CURLOPT_CRLFILE, letting a r | Low | — | 6 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-08 |
+| 373 | [1929597](../reports/1929597.md) | CVE-2023-28320: siglongjmp race condition | Low | — | 6 | [nyymi](https://hackerone.com/nyymi) | 2023-05-17 |
+| 374 | [1813864](../reports/1813864.md) | CVE-2023-23914: curl HSTS ignored on multiple requests | Low | — | 6 | [nyymi](https://hackerone.com/nyymi) | 2023-02-15 |
+| 375 | [1548535](../reports/1548535.md) | --libcurl code injection via trigraphs | Low | — | 6 | [nyymi](https://hackerone.com/nyymi) | 2022-04-24 |
+| 376 | [1101882](../reports/1101882.md) | CVE-2021-22876: Automatic referer leaks credentials | Low | — | 5 | [vsz](https://hackerone.com/vsz) | 2021-04-30 |
+| 377 | [1555441](../reports/1555441.md) | CVE-2022-27781: CERTINFO never-ending busy-loop | Low | — | 5 | [sybr](https://hackerone.com/sybr) | 2022-05-16 |
+| 378 | [3968853](../reports/3968853.md) | OpenSSL ENGINE selection omitted from mTLS connection matchi | Low | — | 5 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-14 |
+| 379 | [1898475](../reports/1898475.md) | CVE-2023-27538: SSH connection too eager reuse still | Low | — | 4 | [nyymi](https://hackerone.com/nyymi) | 2023-03-22 |
+| 380 | [3710209](../reports/3710209.md) | Potential Resource Leak in tool_parsecfg.c at line 279 durin | Low | — | 4 | [ravindrasl2026](https://hackerone.com/ravindrasl2026) | 2026-05-05 |
+| 381 | [1895135](../reports/1895135.md) | CVE-2023-27536: GSS delegation too eager connection re-use | Low | — | 4 | [nyymi](https://hackerone.com/nyymi) | 2023-03-22 |
+| 382 | [1569946](../reports/1569946.md) | CVE-2022-32205: Set-Cookie denial of service | Low | — | 4 | [nyymi](https://hackerone.com/nyymi) | 2022-06-27 |
+| 383 | [2904921](../reports/2904921.md) | OS Command Injection  (subprocess Module Usage) | Low | — | 4 | [bulter](https://hackerone.com/bulter) | 2025-07-07 |
+| 384 | [1891474](../reports/1891474.md) | CVE-2023-27533: Telnet option IAC injection | Low | — | 4 | [nyymi](https://hackerone.com/nyymi) | 2023-03-22 |
+| 385 | [661847](../reports/661847.md) | Integer overflows in tool_operate.c at line 1541 | Low — CVSS 3.3 | — | 4 | [cjun](https://hackerone.com/cjun) | 2021-01-01 |
+| 386 | [3788984](../reports/3788984.md) | CVE-2026-11564: Native CA trust persist | Low | — | 4 | [bagder](https://hackerone.com/bagder) | 2026-06-24 |
+| 387 | [1825377](../reports/1825377.md) |  libssh backend CURLOPT_SSH_HOST_PUBLIC_KEY_SHA256 validatio | Low — CVSS 3.7 | — | 4 | [nyymi](https://hackerone.com/nyymi) | 2023-01-07 |
+| 388 | [3969368](../reports/3969368.md) | CVE-2026-80231: native CA store conn reuse | Low | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-03 |
+| 389 | [1223882](../reports/1223882.md) | CVE-2021-22925: TELNET stack contents disclosure again | Low — CVSS 3.1 | — | 3 | [thoger](https://hackerone.com/thoger) | 2021-07-21 |
+| 390 | [3751697](../reports/3751697.md) | CVE-2026-10536: HTTP/2 stream-dependency tree UAF | Low | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-06-24 |
+| 391 | [3774279](../reports/3774279.md) | heap-use-after-free in state.referer when CURLOPT_REFERER re | Low | — | 3 | [fg0x0](https://hackerone.com/fg0x0) | 2026-06-11 |
+| 392 | [1954658](../reports/1954658.md) | CVE-2023-28322: more POST-after-PUT confusion | Low | — | 3 | [kurohiro](https://hackerone.com/kurohiro) | 2023-05-18 |
+| 393 | [3824303](../reports/3824303.md) | UAF read in mev_pollset_diff() trace path after curl_easy_pa | Low | — | 3 | [homanp](https://hackerone.com/homanp) | 2026-06-28 |
+| 394 | [1892351](../reports/1892351.md) | CVE-2023-27534: SFTP path ~ resolving discrepancy | Low | — | 3 | [nyymi](https://hackerone.com/nyymi) | 2023-03-22 |
+| 395 | [3749204](../reports/3749204.md) | CVE-2026-9080: UAF after pause in socket callback | Low | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-06-24 |
+| 396 | [3754343](../reports/3754343.md) | CVE-2026-9546: sending old referer | Low | — | 2 | [fafawf](https://hackerone.com/fafawf) | 2026-06-24 |
+| 397 | [1468962](../reports/1468962.md) | Binary output bypass | Low | — | 2 | [eliasknudsen](https://hackerone.com/eliasknudsen) | 2022-03-09 |
+| 398 | [3823985](../reports/3823985.md) | Use-after-free in `mev_forget_socket` when `curl_easy_pause( | Low | — | 2 | [stze](https://hackerone.com/stze) | 2026-06-28 |
+| 399 | [1589847](../reports/1589847.md) | Heap overflow via HTTP/2 PUSH_PROMISE | Low | — | 2 | [nyymi](https://hackerone.com/nyymi) | 2022-06-05 |
+| 400 | [3766392](../reports/3766392.md) | curl External-Controlled Filename in `--url @file` Leads to  | Low | — | 2 | [alphalaab](https://hackerone.com/alphalaab) | 2026-06-07 |
+| 401 | [3938220](../reports/3938220.md) | libcurl cache updates follow symlinks and truncate their tar | Low | — | 2 | [mr4bugs](https://hackerone.com/mr4bugs) | 2026-08-14 |
+| 402 | [3749428](../reports/3749428.md) | curl cross-origin HTTPS redirect reuses TLS client certifica | Low | — | 2 | [fanhua](https://hackerone.com/fanhua) | 2026-06-07 |
+| 403 | [3976342](../reports/3976342.md) | IMAP connection reuse runs requests in the wrong case-sensit | Low | — | 2 | [1rhino2](https://hackerone.com/1rhino2) | 2026-09-10 |
+| 404 | [3788931](../reports/3788931.md) | CVE-2026-11586: WS Auto-PONG memory exhaustion | Low | — | 2 | [evergarden1123](https://hackerone.com/evergarden1123) | 2026-06-24 |
+| 405 | [3783438](../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | Low | — | 2 | [vectorqueue](https://hackerone.com/vectorqueue) | 2026-06-24 |
+| 406 | [765664](../reports/765664.md) | Heap Buffer Overflow (READ of size 1) in ourWriteOut | Low | — | 2 | [geeknik](https://hackerone.com/geeknik) | 2021-01-08 |
+| 407 | [1950627](../reports/1950627.md) | CVE-2023-28321: IDN wildcard match | Low | — | 2 | [kurohiro](https://hackerone.com/kurohiro) | 2023-05-18 |
+| 408 | [3797526](../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | Low | — | 2 | [alienowo](https://hackerone.com/alienowo) | 2026-06-24 |
+| 409 | [3822248](../reports/3822248.md) | CVE-2026-13608: OpenLDAP SASL authentication bypass | Low | — | 2 | [hahahkim](https://hackerone.com/hahahkim) | 2026-09-03 |
+| 410 | [3769293](../reports/3769293.md) | Low priority HSTS bypass in curl_easy_duphandle() | Low | — | 1 | [ajohnston3825](https://hackerone.com/ajohnston3825) | 2026-06-01 |
+| 411 | [3733910](../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn reuse | Low | — | 1 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-06-24 |
+| 412 | [3770979](../reports/3770979.md) | SMTP connection reuse ignores --ssl-reqd / CURLOPT_USE_SSL a | Low | — | 1 | [hualuo](https://hackerone.com/hualuo) | 2026-06-03 |
+| 413 | [636013](../reports/636013.md) | huge COLUMNS causes progress-bar to buffer overflow | Low | — | 1 | [pendrek](https://hackerone.com/pendrek) | 2021-02-08 |
+| 414 | [707006](../reports/707006.md) | use after free in cookie.c | Low | — | 1 | [pauldreik](https://hackerone.com/pauldreik) | 2021-02-08 |
+| 415 | [3831432](../reports/3831432.md) | setopt(VERIFYPEER) from callback bypasses TLS verify on conn | Low | — | 1 | [a6b30108](https://hackerone.com/a6b30108) | 2026-06-30 |
+| 416 | [694449](../reports/694449.md) | Buffer write overflow when forming dns over http request | Low | — | 1 | [pauldreik](https://hackerone.com/pauldreik) | 2021-02-08 |
+| 417 | [724134](../reports/724134.md) | Race condition with CURL_LOCK_DATA_CONNECT can cause connect | Low | — | 1 | [creid](https://hackerone.com/creid) | 2021-01-08 |
+| 418 | [3721183](../reports/3721183.md) | CVE-2026-8458: wrong reuse for different services | Low | — | 1 | [areksaxyz](https://hackerone.com/areksaxyz) | 2026-06-24 |
+| 419 | [3718195](../reports/3718195.md) | CVE-2026-8286: wrong STARTTLS connection reuse | Low | — | 1 | [bagder](https://hackerone.com/bagder) | 2026-06-24 |
+| 420 | [3752888](../reports/3752888.md) | CVE-2026-9545: exposing HTTP/3 early data | Low | — | 1 | [hahahkim](https://hackerone.com/hahahkim) | 2026-06-24 |
+| 421 | [662412](../reports/662412.md) | Integer overflow  at line 1603 in the src/operator.c file | Low — CVSS 3.3 | — | 1 | [cjun](https://hackerone.com/cjun) | 2021-02-08 |
+| 422 | [3735184](../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | Low | — | 1 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-06-24 |
+| 423 | [1463013](../reports/1463013.md) | Occasional use-after-free in multi_done() libcurl-7.81.0 | Low | — | 1 | [luminixaaron](https://hackerone.com/luminixaaron) | 2022-03-09 |
+| 424 | [1572120](../reports/1572120.md) | curl "globbing" can lead to denial of service attacks | Low | — | 1 | [iylz](https://hackerone.com/iylz) | 2022-06-16 |
+| 425 | [640530](../reports/640530.md) | Insecure Frame (External) | Low | — | 1 | [caesardiedd](https://hackerone.com/caesardiedd) | 2019-11-01 |
+| 426 | [3780733](../reports/3780733.md) | DNS domain search list followed for extant domain missing A  | Low | — | 1 | [maxhearnden](https://hackerone.com/maxhearnden) | 2026-06-08 |
+| 427 | [696822](../reports/696822.md) | Potential invocation of qsort on uninitialized memory during | Low | — | 1 | [pauldreik](https://hackerone.com/pauldreik) | 2021-02-08 |
+| 428 | [3970639](../reports/3970639.md) | --etag-save - truncates append-redirected stdout | Low | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-28 |
+| 429 | [3733905](../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | Low | — | 0 | [vegagent](https://hackerone.com/vegagent) | 2026-06-24 |
+| 430 | [1564922](../reports/1564922.md) | Integer overflows in unescape_word() | Low | — | 0 | [ddme](https://hackerone.com/ddme) | 2022-06-09 |
+| 431 | [3832393](../reports/3832393.md) | libcurl upload read callbacks miss recursive API guard, allo | Low | — | 0 | [th3hound](https://hackerone.com/th3hound) | 2026-06-30 |
+| 432 | [3971496](../reports/3971496.md) | 28: HTTP/3 UDP path ignores CURL_SOCKOPT_ALREADY_CONNECTED,  | Low | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-28 |
+| 433 | [3970650](../reports/3970650.md) | Stacked --proto modifiers leave denied protocol enabled | Low | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-28 |
+| 434 | [3968431](../reports/3968431.md) | ARG_CLEAR credential scrubbing wipes only UTF-8 copies on Wi | Low | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-27 |
+| 435 | [872089](../reports/872089.md) | Curl_auth_create_plain_message integer overflow leads to hea | Low — CVSS 2.8 | — | 0 | [major_tom](https://hackerone.com/major_tom) | 2021-01-08 |
+| 436 | [3148937](../reports/3148937.md) | `Curl_socketpair()` fallback vulnerable to man-in-the-middle | None | — | 45 | [jmanojlovich](https://hackerone.com/jmanojlovich) | 2025-05-20 |
+| 437 | [3133379](../reports/3133379.md) | CRLF Injection in `--proxy-header` allows extra HTTP headers | None | — | 42 | [oblivionsage](https://hackerone.com/oblivionsage) | 2025-05-08 |
+| 438 | [3639277](../reports/3639277.md) | Bypassing Strict SSH Server Verification via Connection Pool | None | — | 37 | [whitehat411](https://hackerone.com/whitehat411) | 2026-03-31 |
+| 439 | [3463619](../reports/3463619.md) | testing hackerone functions | None | — | 35 | [qqqqqqqqqqqqqqqq](https://hackerone.com/qqqqqqqqqqqqqqqq) | 2025-12-13 |
+| 440 | [3483225](../reports/3483225.md) | A quiet New Year wish for security researchers | None | — | 30 | [ltl_professor](https://hackerone.com/ltl_professor) | 2026-01-01 |
+| 441 | [3516878](../reports/3516878.md) | Cross‑origin cookies leak and injection risk when using a cu | None | — | 30 | [b4c90000040c1287364ccde6de680](https://hackerone.com/b4c90000040c1287364ccde6de680) | 2026-01-20 |
+| 442 | [3283232](../reports/3283232.md) | Use After Free (that leads to arbitrary Write for some versi | None | — | 30 | [letshack9707](https://hackerone.com/letshack9707) | 2025-08-06 |
+| 443 | [3324901](../reports/3324901.md) | libcurl: Host-Only Cookies Leak to Alternate IPv4 Forms | None | — | 30 | [g3nj1z](https://hackerone.com/g3nj1z) | 2025-09-04 |
+| 444 | [2981245](../reports/2981245.md) | ("possible") UAF | None | — | 29 | [7mkrooal](https://hackerone.com/7mkrooal) | 2025-02-08 |
+| 445 | [3575250](../reports/3575250.md) | RTSP RTP Interleaved Parser Assertion Failure (Zero-Length R | None | — | 28 | [davkor](https://hackerone.com/davkor) | 2026-02-26 |
+| 446 | [3137657](../reports/3137657.md) | Memory Leak | None | — | 28 | [antypanty](https://hackerone.com/antypanty) | 2025-05-10 |
+| 447 | [3306475](../reports/3306475.md) | curl leaks destination IP via glibc getaddrinfo() UDP connec | None | — | 28 | [robert_min1](https://hackerone.com/robert_min1) | 2025-08-20 |
+| 448 | [3361913](../reports/3361913.md) | AWS SigV4 Signature Disclosure via Verbose Logging in libcur | None | — | 27 | [leftyha](https://hackerone.com/leftyha) | 2025-10-01 |
+| 449 | [3117697](../reports/3117697.md) | Double Free Vulnerability in `libcurl` Cookie Management (`c | None | — | 27 | [tannicarcher](https://hackerone.com/tannicarcher) | 2025-04-29 |
+| 450 | [3357960](../reports/3357960.md) | SMTP Command Injection Vulnerabilities in curl | None | — | 27 | [giant_anteater](https://hackerone.com/giant_anteater) | 2025-09-26 |
+| 451 | [3022041](../reports/3022041.md) | Use after free (read) in curl_multi_perform with DoH and Pro | None | — | 26 | [catenacyber](https://hackerone.com/catenacyber) | 2025-03-06 |
+| 452 | [3268294](../reports/3268294.md) | Exposure of Private RSA Private Key in curl GitHub Repositor | None | — | 26 | [ahmedf_f](https://hackerone.com/ahmedf_f) | 2025-07-23 |
+| 453 | [3409193](../reports/3409193.md) | HackerOne | None | — | 26 | [hackerpllim](https://hackerone.com/hackerpllim) | 2025-11-03 |
+| 454 | [3344663](../reports/3344663.md) | Security Analysis Report: CURL Integer Overflow Vulnerabilit | None | — | 26 | [mohiq](https://hackerone.com/mohiq) | 2025-09-18 |
+| 455 | [3636244](../reports/3636244.md) | HackerOne Vulnerability Report: libcurl SSL/TLS Identity Lea | None | — | 26 | [ankitsingh131225](https://hackerone.com/ankitsingh131225) | 2026-03-31 |
+| 456 | [3609505](../reports/3609505.md) | HSTS accepted from HTTP origin behind HTTPS proxy | None | — | 25 | [lg_oled77c5pua](https://hackerone.com/lg_oled77c5pua) | 2026-03-17 |
+| 457 | [3584149](../reports/3584149.md) | SSTI leads to Command injection | None | — | 24 | [errorbehavior200](https://hackerone.com/errorbehavior200) | 2026-03-04 |
+| 458 | [3258022](../reports/3258022.md) | curl ASSERTs when accessing an LDAP URL | None | — | 24 | [cmeister2](https://hackerone.com/cmeister2) | 2025-07-22 |
+| 459 | [3324190](../reports/3324190.md) | Heap-buffer-overflow (Out-of-Bounds Read) in DoH hostname en | None | — | 24 | [reporascal_1](https://hackerone.com/reporascal_1) | 2025-09-04 |
+| 460 | [3611825](../reports/3611825.md) | Bearer Token Leaked to Attacker via .netrc Despite CVE-2026- | None | — | 23 | [wizard021](https://hackerone.com/wizard021) | 2026-03-26 |
+| 461 | [3409186](../reports/3409186.md) | Hi Hacker | None | — | 22 | [hackerpllim](https://hackerone.com/hackerpllim) | 2025-11-03 |
+| 462 | [3261310](../reports/3261310.md) | OpenSSL HTTP/3 bogus CURLINFO_TLS_SSL_PTR | None | — | 21 | [nyymi](https://hackerone.com/nyymi) | 2025-07-28 |
+| 463 | [3116935](../reports/3116935.md) | Use of a Broken or Risky Cryptographic Algorithm (CWE-327) i | None | — | 21 | [tannicarcher](https://hackerone.com/tannicarcher) | 2025-04-29 |
+| 464 | [3516202](../reports/3516202.md) | Cookie Replacement Use-After-Free Vulnerability | None | — | 21 | [bhaskar_ram](https://hackerone.com/bhaskar_ram) | 2026-01-19 |
+| 465 | [3023139](../reports/3023139.md) | Memory leak of ftp (with proxy reuse) | None | — | 20 | [catenacyber](https://hackerone.com/catenacyber) | 2025-07-01 |
+| 466 | [3261248](../reports/3261248.md) | GnuTLS CURLINFO_TLS_SESSION / CURLINFO_TLS_SSL_PTR type conf | None | — | 20 | [nyymi](https://hackerone.com/nyymi) | 2025-07-23 |
+| 467 | [3481849](../reports/3481849.md) | HTTP/2 and HTTP/3 Header Injection in curl | None | — | 20 | [cyberguardianrd](https://hackerone.com/cyberguardianrd) | 2025-12-30 |
+| 468 | [3580247](../reports/3580247.md) | Use after free in hyperfifo example | None | — | 19 | [deepbluev7](https://hackerone.com/deepbluev7) | 2026-03-03 |
+| 469 | [3407352](../reports/3407352.md) | curl built with GnuTLS backend defaults to weak crypto param | None | — | 18 | [nyymi](https://hackerone.com/nyymi) | 2025-12-08 |
+| 470 | [3399774](../reports/3399774.md) | Integer Overflow to Heap Overflow in DoH Response Handling | None | — | 18 | [asdkjhasldkjahslfdkjfa](https://hackerone.com/asdkjhasldkjahslfdkjfa) | 2025-10-25 |
+| 471 | [3387499](../reports/3387499.md) | SMTP Command Injection Vulnerability in libcurl 8.16.0 via R | None | — | 18 | [spolu-dust](https://hackerone.com/spolu-dust) | 2025-10-17 |
+| 472 | [3442060](../reports/3442060.md) | Infinite loop issue in the state machine of the curl project | None | — | 17 | [kak1](https://hackerone.com/kak1) | 2025-11-26 |
+| 473 | [3264469](../reports/3264469.md) | Use after free (or assert triggered) with failed allocations | None | — | 15 | [catenacyber](https://hackerone.com/catenacyber) | 2025-07-24 |
+| 474 | [3665363](../reports/3665363.md) | Integer Overflow/Signedness Mismatch in Printf Precision for | None | — | 15 | [pwnpwn](https://hackerone.com/pwnpwn) | 2026-04-11 |
+| 475 | [3650443](../reports/3650443.md) | no_proxy IDN mismatch: Unicode hostnames bypass proxy exclus | None | — | 15 | [mzfr](https://hackerone.com/mzfr) | 2026-04-07 |
+| 476 | [3241304](../reports/3241304.md) | access notes without permission | None | — | 14 | [haydradz](https://hackerone.com/haydradz) | 2025-07-08 |
+| 477 | [3627638](../reports/3627638.md) | Security Vulnerability Report: Protocol Injection via Progra | None | — | 13 | [divyasingh_76](https://hackerone.com/divyasingh_76) | 2026-03-26 |
+| 478 | [3617719](../reports/3617719.md) | Function `do_pubkey()` can have out-of-bound read issue | None | — | 13 | [tynus](https://hackerone.com/tynus) | 2026-03-25 |
+| 479 | [3442024](../reports/3442024.md) | runs javascript on powershell when it shouldnt | None | — | 12 | [lim_e](https://hackerone.com/lim_e) | 2025-11-26 |
+| 480 | [3459636](../reports/3459636.md) | Stack Buffer Overflow in cURL wolfSSL Backend (lib/vtls/wolf | None | — | 12 | [lm3alm](https://hackerone.com/lm3alm) | 2025-12-09 |
+| 481 | [3379102](../reports/3379102.md) | Missing enforcement of SFTP quote syntax can lead to operati | None | — | 12 | [nyymi](https://hackerone.com/nyymi) | 2025-10-12 |
+| 482 | [3575475](../reports/3575475.md) | Curl Telnet Handler Buffer Overflow | None | — | 11 | [pelioro](https://hackerone.com/pelioro) | 2026-02-26 |
+| 483 | [3427670](../reports/3427670.md) | Double-free vulnerability in libcurl with rustls via NoServe | None | — | 11 | [xkernel](https://hackerone.com/xkernel) | 2025-11-16 |
+| 484 | [3475472](../reports/3475472.md) | Public-suffix cookie injection when libpsl is disabled | None | — | 11 | [pwnie](https://hackerone.com/pwnie) | 2025-12-25 |
+| 485 | [2841436](../reports/2841436.md) | information disclosure  | None | — | 10 | [rono_07](https://hackerone.com/rono_07) | 2025-07-07 |
+| 486 | [3474865](../reports/3474865.md) | libcurl WebSocket handshake accepts any Sec-WebSocket-Accept | None | — | 10 | [pwnie](https://hackerone.com/pwnie) | 2025-12-23 |
+| 487 | [726117](../reports/726117.md) | SMB access smuggling via FILE URL on Windows | None | — | 10 | [fms](https://hackerone.com/fms) | 2021-01-17 |
+| 488 | [3135673](../reports/3135673.md) | curl -OJ allows creating custom .curlrc file which allows ex | None | — | 10 | [wolfsage](https://hackerone.com/wolfsage) | 2025-07-01 |
+| 489 | [3650473](../reports/3650473.md) | FTP entrypath accepts 0xFF (Telnet IAC) through incomplete I | None | — | 10 | [mzfr](https://hackerone.com/mzfr) | 2026-04-07 |
+| 490 | [3133253](../reports/3133253.md) | curl_easy_header runs at O(N) or worse and can be abused to  | None | — | 9 | [wolfsage](https://hackerone.com/wolfsage) | 2025-07-01 |
+| 491 | [3241308](../reports/3241308.md) | Disclosure of email addresses | None | — | 9 | [haydradz](https://hackerone.com/haydradz) | 2025-07-08 |
+| 492 | [3089595](../reports/3089595.md) | Memory leak from doh_write_cb | None | — | 9 | [catenacyber](https://hackerone.com/catenacyber) | 2025-06-29 |
+| 493 | [3645415](../reports/3645415.md) | # SCURLOPT_SSH_KNOWNHOSTS and host fingerprint pins are sile | None | — | 9 | [spiderchan26](https://hackerone.com/spiderchan26) | 2026-04-06 |
+| 494 | [3419617](../reports/3419617.md) | Hash exposed in public repository | None | — | 8 | [skymander](https://hackerone.com/skymander) | 2025-11-11 |
+| 495 | [3037326](../reports/3037326.md) | Free of uninitialized pointer in doh_decode_rdata_name() | None | — | 8 | [tdp3kel9g](https://hackerone.com/tdp3kel9g) | 2025-06-28 |
+| 496 | [3045390](../reports/3045390.md) | Double free caused by mqtt_doing() | None | — | 8 | [tdp3kel9g](https://hackerone.com/tdp3kel9g) | 2025-06-30 |
+| 497 | [3418760](../reports/3418760.md) | Command Injection - CRITICISM | None | — | 8 | [tomar-re](https://hackerone.com/tomar-re) | 2025-11-11 |
+| 498 | [3406123](../reports/3406123.md) | Buffer over-read,, Missing NUL termination in addvariable()  | None | — | 8 | [sagorhawlader](https://hackerone.com/sagorhawlader) | 2025-10-31 |
+| 499 | [4021952](../reports/4021952.md) | Socket API drops expired timeouts for transfers queued behin | None | — | 8 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-18 |
+| 500 | [3037583](../reports/3037583.md) | Buffer Overflow in curl's Rustls Backend | None | — | 8 | [cyberguardianrd](https://hackerone.com/cyberguardianrd) | 2025-06-30 |
+| 501 | [3646914](../reports/3646914.md) | ignoring 'options' when doing connection reuse | None | — | 8 | [spichanlio76](https://hackerone.com/spichanlio76) | 2026-04-05 |
+| 502 | [3183957](../reports/3183957.md) | Arbitrary File Read via Unsanitized curl Usage Results in Se | None | — | 8 | [ednaq](https://hackerone.com/ednaq) | 2025-06-27 |
+| 503 | [3427194](../reports/3427194.md) | Malicious server forces .curlrc creation via curl -OJ leadin | None | — | 8 | [djogho](https://hackerone.com/djogho) | 2025-11-15 |
+| 504 | [3508701](../reports/3508701.md) | Use-After-Free in curl_easy_nextheader when reusing header h | None | — | 8 | [adce626q](https://hackerone.com/adce626q) | 2026-01-14 |
+| 505 | [3761789](../reports/3761789.md) | Mentioned unites are at the same time .Then we have to incre | None | — | 6 | [karthiktp1810](https://hackerone.com/karthiktp1810) | 2026-06-01 |
+| 506 | [3952619](../reports/3952619.md) | Domainless COOKIEFILE cookie leaks to unrelated IP-literal h | None | — | 6 | [accl](https://hackerone.com/accl) | 2026-08-21 |
+| 507 | [4024268](../reports/4024268.md) | Out-of-bounds read in curl_formadd when CURLFORM_NAMELENGTH  | None | — | 6 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-15 |
+| 508 | [3451305](../reports/3451305.md) | SMTP Protocol Injection via CRLF in CURLOPT_MAIL_FROM leadin | None | — | 6 | [anonymous_237](https://hackerone.com/anonymous_237) | 2025-12-04 |
+| 509 | [2831558](../reports/2831558.md) | netrc crlf injection | None | — | 6 | [nyymi](https://hackerone.com/nyymi) | 2025-07-07 |
+| 510 | [3431180](../reports/3431180.md) | Double free in tool_ssls_load() | None | — | 5 | [xkernel](https://hackerone.com/xkernel) | 2025-11-18 |
+| 511 | [3734947](../reports/3734947.md) | HTTP/3 paused transfer buffers incoming data without bound u | None | — | 5 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-19 |
+| 512 | [2981303](../reports/2981303.md) | TLS Cipher Misconfiguration in HTTP/3/QUIC Support | None | — | 5 | [zzq1015](https://hackerone.com/zzq1015) | 2025-07-06 |
+| 513 | [3505557](../reports/3505557.md) | CRLF Injection in HTTP header values allows arbitrary header | None | — | 5 | [unknowperson0212](https://hackerone.com/unknowperson0212) | 2026-01-10 |
+| 514 | [3973234](../reports/3973234.md) | 53: HTTP/1 CONNECT chunked-407 trailers bypass CURLOPT_SUPPR | None | — | 5 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-14 |
+| 515 | [3735080](../reports/3735080.md) | libssh SFTP initialization ignores CURLOPT_TIMEOUT, hangs in | None | — | 5 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-18 |
+| 516 | [3733934](../reports/3733934.md) | CURLOPT_HSTS_CTRL disables shared HSTS without share guard — | None | — | 5 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-18 |
+| 517 | [2861797](../reports/2861797.md) | curl mishandles `%0c%0b` sequences in HTTP responses leading | None | — | 5 | [mdakh404](https://hackerone.com/mdakh404) | 2025-07-07 |
+| 518 | [3718265](../reports/3718265.md) | Shared HSTS cache accessed without lock | None | — | 5 | [bagder](https://hackerone.com/bagder) | 2026-06-05 |
+| 519 | [3972385](../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | None | — | 4 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-03 |
+| 520 | [3651975](../reports/3651975.md) | SMTP Command Injection via CRLF in libcurl MAIL_FROM / MAIL_ | None | — | 4 | [divsz](https://hackerone.com/divsz) | 2026-04-06 |
+| 521 | [3973194](../reports/3973194.md) | 49: Cookie-jar save transfers group access to a different GI | None | — | 4 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-08 |
+| 522 | [3973098](../reports/3973098.md) | 07: GnuTLS 0-RTT early data bypasses file-backed public-key  | None | — | 4 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-02 |
+| 523 | [591770](../reports/591770.md) | Signed integer overflow in tool_progress_cb() | None | — | 4 | [geeknik](https://hackerone.com/geeknik) | 2019-10-04 |
+| 524 | [3739561](../reports/3739561.md) | SSL session-cache peer key omits signature_algorithms: stric | None | — | 4 | [hexproof](https://hackerone.com/hexproof) | 2026-05-19 |
+| 525 | [3468410](../reports/3468410.md) | Heap buffer overflow in Curl_ipv4_resolve_r due to incorrect | None | — | 4 | [badrodin22](https://hackerone.com/badrodin22) | 2025-12-17 |
+| 526 | [3734935](../reports/3734935.md) | rustls backend silently ignores CURLOPT_CRLFILE when native  | None | — | 4 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-18 |
+| 527 | [3973093](../reports/3973093.md) | 06: Incomplete fix for CVE-2026-7009: GCC/SecTrust builds si | None | — | 4 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-31 |
+| 528 | [3973111](../reports/3973111.md) | 08: CVE-2026-7009 fix incomplete for AWS-LC: `--cert-status` | None | — | 4 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-08 |
+| 529 | [3508854](../reports/3508854.md) | MQTT: unsigned integer underflow bypasses MAX_MQTT_MESSAGE_S | None | — | 4 | [0xshakib0x04](https://hackerone.com/0xshakib0x04) | 2026-01-13 |
+| 530 | [3833577](../reports/3833577.md) | heap-use-after-free in curl_easy_cleanup() called from callb | None | — | 4 | [carehi1324](https://hackerone.com/carehi1324) | 2026-06-30 |
+| 531 | [3735238](../reports/3735238.md) | cookie: case-insensitive path comparison in replace_existing | None | — | 4 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-18 |
+| 532 | [3717365](../reports/3717365.md) | mbedTLS private-key blob null-termination asymmetry in lib/v | None | — | 4 | [shecantcode2](https://hackerone.com/shecantcode2) | 2026-05-07 |
+| 533 | [3973127](../reports/3973127.md) | 18:  Explicit IPv6 proxy zone ID silently ignored — proxy cr | None | — | 4 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-31 |
+| 534 | [3973152](../reports/3973152.md) | 37: `curl_mprintf` `%F` format specifier not consumed, causi | None | — | 4 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-14 |
+| 535 | [3917775](../reports/3917775.md) | curl Missing Sec-WebSocket-Accept Verification Enables MITM  | None | — | 3 | [kiyin](https://hackerone.com/kiyin) | 2026-08-05 |
+| 536 | [3725659](../reports/3725659.md) | Kerberos/SPNEGO Connection Reuse Vulnerability | None | — | 3 | [rootofpi_ramesh](https://hackerone.com/rootofpi_ramesh) | 2026-05-14 |
+| 537 | [3734992](../reports/3734992.md) | Schannel custom-CA path skips Extended Key Usage enforcement | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-19 |
+| 538 | [1049624](../reports/1049624.md) | Abusing URL Parsers by long schema name | None | — | 3 | [d4d](https://hackerone.com/d4d) | 2021-01-08 |
+| 539 | [3803415](../reports/3803415.md) |  Secure cookies leaked to HTTP origins through HTTPS forward | None | — | 3 | [daviey](https://hackerone.com/daviey) | 2026-06-15 |
+| 540 | [600359](../reports/600359.md) | Integer overflow in the source code tool_cb_prg.c | None | — | 3 | [sfpskywood](https://hackerone.com/sfpskywood) | 2021-02-08 |
+| 541 | [3973213](../reports/3973213.md) | 54: Rejected HTTP/2 push destroys MIME callback state still  | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-07 |
+| 542 | [3971585](../reports/3971585.md) | 33: CONNECT_ONLY raw I/O selects wrong connection after CURL | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-31 |
+| 543 | [3971518](../reports/3971518.md) | 29: CURLOPT_ISSUERCERT accepts a different-key certificate w | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-08 |
+| 544 | [3972323](../reports/3972323.md) | 10: CURLOPT_MAXLIFETIME_CONN bypass on active HTTP/2 connect | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-14 |
+| 545 | [3741135](../reports/3741135.md) | Connection reuse ignores haproxyprotocol and HAPROXY_CLIENT_ | None | — | 3 | [7omoo](https://hackerone.com/7omoo) | 2026-05-19 |
+| 546 | [3973249](../reports/3973249.md) | 56: IBM i CL wrapper `parse_command_line()` never enters quo | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-14 |
+| 547 | [3751701](../reports/3751701.md) | Use-after-free in `curl_easy_duphandle()` with HTTP/2 stream | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-06-01 |
+| 548 | [3734921](../reports/3734921.md) | Trailing-dot IPv4 URL bypasses IP-address guard, allows wild | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-17 |
+| 549 | [3973158](../reports/3973158.md) | 41: `main_checkfds()` pipe reuse leaks proxy credentials int | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-31 |
+| 550 | [3735276](../reports/3735276.md) | TLS peer-verification bypass via mid-transfer ssl_config mut | None | — | 3 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-19 |
+| 551 | [3734020](../reports/3734020.md) | HTTP/2 proxy CONNECT tunnel unbounded 1xx chain (missing Cur | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-19 |
+| 552 | [3736234](../reports/3736234.md) | NULL pointer dereference in libcurl URL API redirect_url() w | None | — | 2 | [mulan_dh](https://hackerone.com/mulan_dh) | 2026-05-17 |
+| 553 | [3972293](../reports/3972293.md) | 43: HTTP proxy CONNECT header chooses the `-OJ` filename aft | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-07 |
+| 554 | [3969300](../reports/3969300.md) | CVE-2026-80230: OpenSSL pinning bypass | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-03 |
+| 555 | [3781305](../reports/3781305.md) | OpenSSL TLS 1.2 session resumption accepts expired server ce | None | — | 2 | [awofjawofjfawf](https://hackerone.com/awofjawofjfawf) | 2026-06-07 |
+| 556 | [3734095](../reports/3734095.md) | TLS verifyhost bypass in rustls, mbedTLS, and wolfSSL when v | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-19 |
+| 557 | [3735179](../reports/3735179.md) | CURLOPT_PROXY_CAINFO_BLOB silently activates native CA store | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-19 |
+| 558 | [3972316](../reports/3972316.md) | 46: `--libcurl` output carries `--insecure` across `--next`  | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-28 |
+| 559 | [3973169](../reports/3973169.md) | 42: `VMS_STS` macro typo (`< 3` vs `<< 3`) turns curl failur | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-29 |
+| 560 | [3971706](../reports/3971706.md) | 36: HTTP upload resume offset consumed twice after early 307 | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-07 |
+| 561 | [3969255](../reports/3969255.md) | CVE-2026-80229: OpenSSL provider use-after-free | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-03 |
+| 562 | [3741744](../reports/3741744.md) | CRLF Injection via Custom HTTP Headers | None | — | 2 | [bugthiru](https://hackerone.com/bugthiru) | 2026-06-11 |
+| 563 | [3973219](../reports/3973219.md) | 57: Heap out-of-bounds read in `curl_easy_escape_ccsid()` /  | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-07 |
+| 564 | [3973121](../reports/3973121.md) | 11: `CURLOPT_FORBID_REUSE` silently lost on multiplexed HTTP | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-07 |
+| 565 | [627245](../reports/627245.md) | Integer overlow in "header_append" function | None | — | 2 | [invictus1306](https://hackerone.com/invictus1306) | 2021-02-08 |
+| 566 | [3733946](../reports/3733946.md) | Credentials forwarded to HTTP after HTTPS→HTTP same-port red | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-20 |
+| 567 | [3973143](../reports/3973143.md) | 22:  FTP wildcard matching decodes server-provided filenames | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-08 |
+| 568 | [3973228](../reports/3973228.md) | 50: CMake `HTTP_ONLY` does not disable SSH backends — SCP an | None | — | 2 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-29 |
+| 569 | [3751712](../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | None | — | 1 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-06-24 |
+| 570 | [694988](../reports/694988.md) | Resource leak when using a normal site as DOH server | None | — | 1 | [pauldreik](https://hackerone.com/pauldreik) | 2021-02-08 |
+| 571 | [3973090](../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | None | — | 1 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-03 |
+| 572 | [1590102](../reports/1590102.md) | KRB-FTP: Security level downgrade | None | — | 1 | [nyymi](https://hackerone.com/nyymi) | 2022-06-05 |
+| 573 | [3831345](../reports/3831345.md) | CURLSHOPT_UNSHARE race can cause UAF in shared SSL session c | None | — | 1 | [smaeljaish771](https://hackerone.com/smaeljaish771) | 2026-06-30 |
+| 574 | [1019372](../reports/1019372.md) | Parallel upload hangs curl if upload file not found | None | — | 1 | [brumbrum](https://hackerone.com/brumbrum) | 2020-10-29 |
+| 575 | [3777381](../reports/3777381.md) | PRE_PROXY change leaks stale Proxy Digest state across proxy | None | — | 1 | [hungly09](https://hackerone.com/hungly09) | 2026-06-03 |
+| 576 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | None | — | 1 | [danielmarjamaki](https://hackerone.com/danielmarjamaki) | 2021-02-08 |
+| 577 | [3751715](../reports/3751715.md) | Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUESS_SC | None | — | 1 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-05-25 |
+| 578 | [3973245](../reports/3973245.md) | 55: Heap-buffer-overflow read in `curl_formadd_ccsid()` with | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-10 |
+| 579 | [3971538](../reports/3971538.md) | 27: IMAP custom FETCH listing classification skips literal b | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-10 |
+| 580 | [3972338](../reports/3972338.md) | 12: SASL DIGEST-MD5 does not validate the server's `rspauth` | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-10 |
+| 581 | [3972395](../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-03 |
+| 582 | [4021960](../reports/4021960.md) | TELNET control and environment data bypass HTTPS-proxy TLS | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-19 |
+| 583 | [3972196](../reports/3972196.md) | 34: `curl_mprintf` reads `double` for documented `long doubl | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-28 |
+| 584 | [812969](../reports/812969.md) | curl still vulnerable to SMB access smuggling via FILE URL o | None | — | 0 | [tsedlmeyer](https://hackerone.com/tsedlmeyer) | 2021-01-08 |
+| 585 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL against  | None | — | 0 | [lersek](https://hackerone.com/lersek) | 2021-01-08 |
