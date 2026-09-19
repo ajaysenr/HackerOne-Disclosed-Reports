@@ -12399,6 +12399,9 @@ https://hackerone.com/reports/3994016 | Action Text to_markdown: <code>/<pre> co
 https://hackerone.com/reports/4016541 | TLS session resumption client cert bypass with CURLOPT_SSL_CTX_FUNCTION
 https://hackerone.com/reports/4020767 | Unauthenticated API allows reading, writing to and deleting any user's private chat history on ████████
 https://hackerone.com/reports/4021952 | Socket API drops expired timeouts for transfers queued behind a connection limit
+https://hackerone.com/reports/4021960 | TELNET control and environment data bypass HTTPS-proxy TLS
 https://hackerone.com/reports/4023506 | libcurl LDAP LDIF: entry DN and attribute names written without RFC 2849 base64 encoding, allowing server line injection
 https://hackerone.com/reports/4024268 | Out-of-bounds read in curl_formadd when CURLFORM_NAMELENGTH is explicitly 0
+https://hackerone.com/reports/4025056 | HTTP/1.1 response framing violation and unsafe connection reuse when transfer decoding is disabled
 https://hackerone.com/reports/4027511 | Encoded slash traversal in the IPFS/IPNS URL rewrite escapes the configured gateway namespace
+https://hackerone.com/reports/4033971 | Use-after-free of the internal multi->admin easy handle via the documented CURLMOPT_NOTIFYFUNCTION callback

@@ -29,7 +29,7 @@ Use the interactive dashboard to search reports and filter them by severity, yea
 | **Medium** | 3,556 |
 | **Low** | 2,267 |
 
-*Last Updated: September 19, 2026 at 01:53 AM EST*
+*Last Updated: September 19, 2026 at 05:35 AM EST*
 
 ## 📁 Browse
 
@@ -46,7 +46,7 @@ Use the interactive dashboard to search reports and filter them by severity, yea
 
 ## 📄 Data
 
-- `reports.txt` — discovered URL + title list (12,404 unique reports)
+- `reports.txt` — discovered URL + title list (12,407 unique reports)
 - `index.json` — structured metadata (12,521 enriched reports)
 - `reports/` — individual markdown page per report
 
