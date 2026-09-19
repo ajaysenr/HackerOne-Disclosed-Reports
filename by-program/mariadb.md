@@ -1,4 +1,4 @@
-# MariaDB — Disclosed Reports (25 total)
+# MariaDB — Disclosed Reports (29 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -28,4 +28,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 22 | [386160](../reports/386160.md) | xmlrpc.php on mariadb.org can lead to DDOS and brute force a | Low | — | 10 | [indoappsec](https://hackerone.com/indoappsec) | 2018-10-12 |
 | 23 | [392761](../reports/392761.md) | vulnerable to Cross-site Request Forgery | Jira | Low | — | 9 | [niteshkumarpandey](https://hackerone.com/niteshkumarpandey) | 2018-10-12 |
 | 24 | [514421](../reports/514421.md) | smtp service vulnerable to POODLE SSLv3 | Low | — | 7 | [rudrahacks007](https://hackerone.com/rudrahacks007) | 2019-05-11 |
-| 25 | [3897588](../reports/3897588.md) | KILL authorization trusts the presented login name instead o | None | — | 3 | [dogeshark](https://hackerone.com/dogeshark) | 2026-09-07 |
+| 25 | [3782405](../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::i | None | — | 14 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
+| 26 | [3771139](../reports/3771139.md) | Heap Memory Disclosure via Integer Underflow in Item_func_js | None | — | 12 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
+| 27 | [3771147](../reports/3771147.md) | Stack Buffer Overflow via Crafted keyseg->start/ keyseg->len | None | — | 11 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
+| 28 | [3771144](../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_versio | None | — | 10 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-14 |
+| 29 | [3897588](../reports/3897588.md) | KILL authorization trusts the presented login name instead o | None | — | 3 | [dogeshark](https://hackerone.com/dogeshark) | 2026-09-07 |

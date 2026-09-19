@@ -1,4 +1,4 @@
-# Weakness: Buffer Over-read (54 reports)
+# Weakness: Buffer Over-read (55 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -54,7 +54,8 @@
 | 48 | [1595296](../reports/1595296.md) | Read beyond bounds in mod_isapi.c [zhbug_httpd_41] | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
 | 49 | [3751697](../reports/3751697.md) | CVE-2026-10536: HTTP/2 stream-dependency tree UAF | [curl](../by-program/curl.md) | Low | — | 3 |
 | 50 | [1073363](../reports/1073363.md) | Index Out Of Bounds in protobuf unmarshalling | [Kubernetes](../by-program/kubernetes.md) | None | — | 13 |
-| 51 | [3406123](../reports/3406123.md) | Buffer over-read,, Missing NUL termination in addvariable() cause | [curl](../by-program/curl.md) | None | — | 8 |
-| 52 | [250581](../reports/250581.md) | CVE-2017-11367: Global buffer overflow (READ of size 4) in shoco  | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
-| 53 | [278231](../reports/278231.md) | Out of bounds read in libcurl's IMAP FETCH response parser | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
-| 54 | [3751715](../reports/3751715.md) | Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUESS_SCHEME` | [curl](../by-program/curl.md) | None | — | 1 |
+| 51 | [3771139](../reports/3771139.md) | Heap Memory Disclosure via Integer Underflow in Item_func_json_ar | [MariaDB](../by-program/mariadb.md) | None | — | 12 |
+| 52 | [3406123](../reports/3406123.md) | Buffer over-read,, Missing NUL termination in addvariable() cause | [curl](../by-program/curl.md) | None | — | 8 |
+| 53 | [250581](../reports/250581.md) | CVE-2017-11367: Global buffer overflow (READ of size 4) in shoco  | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
+| 54 | [278231](../reports/278231.md) | Out of bounds read in libcurl's IMAP FETCH response parser | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
+| 55 | [3751715](../reports/3751715.md) | Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUESS_SCHEME` | [curl](../by-program/curl.md) | None | — | 1 |

@@ -1,4 +1,4 @@
-# Weakness: Stack Overflow (30 reports)
+# Weakness: Stack Overflow (31 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -32,5 +32,6 @@
 | 26 | [497255](../reports/497255.md) | A stack buffer overflow in BabyGrid.cpp can lead to program crash | [Notepad++](../by-program/notepad-plus-plus.md) | Low | — | 8 |
 | 27 | [2551512](../reports/2551512.md) | [Wii U/3DS/Switch] Improper bounds check in StationURL in all NEX | [Nintendo](../by-program/nintendo.md) | Low — CVSS 2.4 | — | 1 |
 | 28 | [469997](../reports/469997.md) | NEX: Stack overflow in UnicodeToUtf8 | [Nintendo](../by-program/nintendo.md) | None | — | 23 |
-| 29 | [3459636](../reports/3459636.md) | Stack Buffer Overflow in cURL wolfSSL Backend (lib/vtls/wolfssl.c | [curl](../by-program/curl.md) | None | — | 12 |
-| 30 | [390499](../reports/390499.md) | Stack Overflow in JSON RPC Server | [Monero](../by-program/monero.md) | None | — | 10 |
+| 29 | [3782405](../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::insert | [MariaDB](../by-program/mariadb.md) | None | — | 14 |
+| 30 | [3459636](../reports/3459636.md) | Stack Buffer Overflow in cURL wolfSSL Backend (lib/vtls/wolfssl.c | [curl](../by-program/curl.md) | None | — | 12 |
+| 31 | [390499](../reports/390499.md) | Stack Overflow in JSON RPC Server | [Monero](../by-program/monero.md) | None | — | 10 |
