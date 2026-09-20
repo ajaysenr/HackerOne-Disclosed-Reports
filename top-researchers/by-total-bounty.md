@@ -1823,7 +1823,7 @@
 | 1819 | [chackal](https://hackerone.com/chackal) | 1 | $0 | 10 |
 | 1820 | [senseijohnmed](https://hackerone.com/senseijohnmed) | 1 | $0 | 54 |
 | 1821 | [old_reporter](https://hackerone.com/old_reporter) | 1 | $0 | 4 |
-| 1822 | [yoyomiski](https://hackerone.com/yoyomiski) | 10 | $0 | 377 |
+| 1822 | [yoyomiski](https://hackerone.com/yoyomiski) | 11 | $0 | 379 |
 | 1823 | [youstin](https://hackerone.com/youstin) | 6 | $0 | 665 |
 | 1824 | [johnh4x0r](https://hackerone.com/johnh4x0r) | 1 | $0 | 9 |
 | 1825 | [rahulkankrale](https://hackerone.com/rahulkankrale) | 2 | $0 | 124 |

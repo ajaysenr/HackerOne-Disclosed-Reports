@@ -234986,6 +234986,25 @@
     "votes": 3
   },
   {
+    "id": 3599470,
+    "url": "https://hackerone.com/reports/3599470",
+    "title": "Improper input validation in emoji field leads to sidebar UI denial of service",
+    "visibility": "full",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "yoyomiski",
+    "severity": "low",
+    "cvss": 3.1,
+    "weakness": "Business Logic Errors",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-03-12",
+    "disclosed_at": "2026-09-20T10:04:20.268Z",
+    "votes": 2
+  },
+  {
     "id": 3601469,
     "url": "https://hackerone.com/reports/3601469",
     "title": "Restricted RPC Policy Bypass on ZMQ JSON-RPC Allows Unauthenticated Remote Admin Actions",

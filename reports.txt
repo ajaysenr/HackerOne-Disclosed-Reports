@@ -12028,6 +12028,7 @@ https://hackerone.com/reports/3598358 | urlapi: off-by-one in custom scheme vali
 https://hackerone.com/reports/3598444 | Curl_compareheader() fails to match multi-value HTTP headers
 https://hackerone.com/reports/3599248 | Bypass of Open Redirect Fix on lovable.dev via /..// Path Traversal in redirect parameter
 https://hackerone.com/reports/3599383 | Arbitrary Board Preference Injection via Deck Config API
+https://hackerone.com/reports/3599470 | Improper input validation in emoji field leads to sidebar UI denial of service
 https://hackerone.com/reports/3601469 | Restricted RPC Policy Bypass on ZMQ JSON-RPC Allows Unauthenticated Remote Admin Actions
 https://hackerone.com/reports/3601655 | Rails::HTML::Sanitizer.allowed_uri? returns true for entity-encoded control-character-split javascript: URLs
 https://hackerone.com/reports/3603300 | SMB READ_ANDX DataOffset not validated

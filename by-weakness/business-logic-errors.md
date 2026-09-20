@@ -1,4 +1,4 @@
-# Weakness: Business Logic Errors (351 reports)
+# Weakness: Business Logic Errors (352 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -288,70 +288,71 @@
 | 282 | [966949](../reports/966949.md) | IDOR in locid parameter allowing to view others accounts Profile  | [Yelp](../by-program/yelp.md) | Low | — | 4 |
 | 283 | [1825377](../reports/1825377.md) |  libssh backend CURLOPT_SSH_HOST_PUBLIC_KEY_SHA256 validation byp | [curl](../by-program/curl.md) | Low — CVSS 3.7 | — | 4 |
 | 284 | [881891](../reports/881891.md) | File System Monitoring Queue Overflow | [ownCloud](../by-program/owncloud.md) | Low | — | 2 |
-| 285 | [3521646](../reports/3521646.md) | Missing Duplicate Check allowing Multiple Retention Rules per Sys | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.8 | — | 2 |
-| 286 | [3733910](../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn reuse | [curl](../by-program/curl.md) | Low | — | 1 |
-| 287 | [321699](../reports/321699.md) | Takeover of Twitter-owned domain at mobileapplinking.com | [X / xAI](../by-program/x.md) | None | — | 159 |
-| 288 | [747825](../reports/747825.md) | [blog.makerdao.com] Multiple Vulnerabilities - Leads to leakage u | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | None | — | 140 |
-| 289 | [3255473](../reports/3255473.md) | Business Logic Error – Bypass of OTP Verification During Signup o | [Tucows (VDP)](../by-program/tucows_vdp.md) | None | — | 134 |
-| 290 | [2263294](../reports/2263294.md) | Cloud Computer Hackerone Triager can be Accessible for everyone [ | [HackerOne](../by-program/security.md) | None | — | 91 |
-| 291 | [2552027](../reports/2552027.md) | Exposure of shopify employee summit page allows anonymous user to | [Shopify](../by-program/shopify.md) | None | — | 76 |
-| 292 | [2461737](../reports/2461737.md) | Incorrect logic when buy one more license which may lead to exten | [PortSwigger Web Security](../by-program/portswigger.md) | None | — | 60 |
-| 293 | [1831528](../reports/1831528.md) | Rogue collaborators and ambiguous branch names in GitHub | [GitHub](../by-program/github.md) | None | — | 42 |
-| 294 | [3248712](../reports/3248712.md) | Not a Vuln: Race Condition Allows Creation of Multiple Organizati | [WakaTime](../by-program/wakatime.md) | None | — | 40 |
-| 295 | [3185001](../reports/3185001.md) | Order More Than Maximum Allowed Quantity | [Mars](../by-program/mars.md) | None | — | 32 |
-| 296 | [265161](../reports/265161.md) | Monero Website & Kovri on your policy are returning 404 not found | [Monero](../by-program/monero.md) | None | — | 29 |
-| 297 | [3258022](../reports/3258022.md) | curl ASSERTs when accessing an LDAP URL | [curl](../by-program/curl.md) | None | — | 24 |
-| 298 | [779656](../reports/779656.md) | Multiple Vulnerabilities in (*.blog.yelp.com) - Leakage user admi | [Yelp](../by-program/yelp.md) | None | — | 23 |
-| 299 | [3409186](../reports/3409186.md) | Hi Hacker | [curl](../by-program/curl.md) | None | — | 22 |
-| 300 | [2528919](../reports/2528919.md) | 2FA requirement bypass when claiming bounty  | [HackerOne](../by-program/security.md) | None | — | 21 |
-| 301 | [216373](../reports/216373.md) | deleting payment profile during active trip puts account into arr | [Uber](../by-program/uber.md) | None | — | 20 |
-| 302 | [302731](../reports/302731.md) | Users email can be changed without verification | [Mavenlink](../by-program/mavenlink.md) | None | — | 17 |
-| 303 | [1282282](../reports/1282282.md) | Bypassing the Grammarly plagiarism checker by simply replacing ch | [Superhuman (formerly Grammarly)](../by-program/superhuman.md) | None | — | 17 |
-| 304 | [264101](../reports/264101.md) | design issue exists on login page  | [Legal Robot](../by-program/legalrobot.md) | None | — | 13 |
-| 305 | [1723445](../reports/1723445.md) | No rate limiting for Remove Account lead to huge Mass mailings | [Weblate](../by-program/weblate.md) | None | — | 12 |
-| 306 | [317388](../reports/317388.md) | Delay of arrears notification allows Riders to take multiple ride | [Uber](../by-program/uber.md) | None | — | 11 |
-| 307 | [819333](../reports/819333.md) | Mathematical error  found in meals for one | [Eternal](../by-program/eternal.md) | None | — | 10 |
-| 308 | [682344](../reports/682344.md) | Parameter tampering : Price Manipulation of Products | [WordPress](../by-program/wordpress.md) | None | — | 9 |
-| 309 | [789260](../reports/789260.md) | Past payments using the Direct Debit method keep subscriptions ac | [Nord Security](../by-program/nordsecurity.md) | None | — | 9 |
-| 310 | [245304](../reports/245304.md) | Running 2 accounts with a single email #3 | [Weblate](../by-program/weblate.md) | None | — | 8 |
-| 311 | [245450](../reports/245450.md) | Reset password more than once with a reset link #2 | [Weblate](../by-program/weblate.md) | None | — | 8 |
-| 312 | [243594](../reports/243594.md) | Reset password more than once with a reset link | [Weblate](../by-program/weblate.md) | None | — | 8 |
-| 313 | [1187543](../reports/1187543.md) | CORS misconfiguration | [Sifchain](../by-program/sifchain.md) | None | — | 8 |
-| 314 | [241608](../reports/241608.md) | Running 2 accounts with a single email [Part 2] | [Weblate](../by-program/weblate.md) | None | — | 7 |
-| 315 | [224072](../reports/224072.md) | Running 2 accounts with a single email | [Weblate](../by-program/weblate.md) | None | — | 7 |
-| 316 | [280914](../reports/280914.md) | Business Logic Flaw allowing Privilege Escalation | [Inflection](../by-program/inflection.md) | None | — | 7 |
-| 317 | [366129](../reports/366129.md) | Activat burp suite pro with the old license after transfared to a | [PortSwigger Web Security](../by-program/portswigger.md) | None | — | 6 |
-| 318 | [241623](../reports/241623.md) | Persistence of Third Party Association. | [Weblate](../by-program/weblate.md) | None | — | 6 |
-| 319 | [1421413](../reports/1421413.md) | Error Page Content Spoofing or Text Injection | [Judge.me ](../by-program/judgeme.md) | None | — | 6 |
-| 320 | [260491](../reports/260491.md) | 2FA manual entry uses wrong encoding | [Legal Robot](../by-program/legalrobot.md) | None | — | 5 |
-| 321 | [259415](../reports/259415.md) | Lengthy manual entry of 2FA secret | [Legal Robot](../by-program/legalrobot.md) | None | — | 5 |
-| 322 | [265701](../reports/265701.md) | Security: Publicly accessible x.509 Public and Private Key of Ubi | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 5 |
-| 323 | [361337](../reports/361337.md) | Missing back-end user input validation can lead to DOS flaw | [Liberapay](../by-program/liberapay.md) | None | — | 5 |
-| 324 | [259416](../reports/259416.md) | Incorrect email content when disabling 2FA | [Legal Robot](../by-program/legalrobot.md) | None | — | 5 |
-| 325 | [260941](../reports/260941.md) | UX: JS error on Password Safety link | [Legal Robot](../by-program/legalrobot.md) | None | — | 5 |
-| 326 | [259400](../reports/259400.md) | Issues with Forgot password Error Handling  | [Legal Robot](../by-program/legalrobot.md) | None | — | 5 |
-| 327 | [243609](../reports/243609.md) | The username of an account can be .. | [Weblate](../by-program/weblate.md) | None | — | 5 |
-| 328 | [243049](../reports/243049.md) | Call back number not verified | [Airbnb](../by-program/airbnb.md) | None | — | 4 |
-| 329 | [243664](../reports/243664.md) | Error Message When Changing Username | [Weblate](../by-program/weblate.md) | None | — | 4 |
-| 330 | [664200](../reports/664200.md) | SignUp using Fake Email | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
-| 331 | [3734935](../reports/3734935.md) | rustls backend silently ignores CURLOPT_CRLFILE when native CA st | [curl](../by-program/curl.md) | None | — | 4 |
-| 332 | [1186926](../reports/1186926.md) | Flaws In Social media Icon on error page which can lead to financ | [Sifchain](../by-program/sifchain.md) | None | — | 4 |
-| 333 | [3735238](../reports/3735238.md) | cookie: case-insensitive path comparison in replace_existing() al | [curl](../by-program/curl.md) | None | — | 4 |
-| 334 | [250088](../reports/250088.md) | Account profile shows encryption recovery box for all users | [Legal Robot](../by-program/legalrobot.md) | None | — | 4 |
-| 335 | [3734992](../reports/3734992.md) | Schannel custom-CA path skips Extended Key Usage enforcement | [curl](../by-program/curl.md) | None | — | 3 |
-| 336 | [1189282](../reports/1189282.md) | Social media links not working | [Sifchain](../by-program/sifchain.md) | None | — | 3 |
-| 337 | [246302](../reports/246302.md) | Running 2 accounts with a single email | [WakaTime](../by-program/wakatime.md) | None | — | 3 |
-| 338 | [3734921](../reports/3734921.md) | Trailing-dot IPv4 URL bypasses IP-address guard, allows wildcard  | [curl](../by-program/curl.md) | None | — | 3 |
-| 339 | [3735276](../reports/3735276.md) | TLS peer-verification bypass via mid-transfer ssl_config mutation | [curl](../by-program/curl.md) | None | — | 3 |
-| 340 | [273647](../reports/273647.md) | Adding Used Primary Email Address to attacker account and Account | [Gratipay](../by-program/gratipay.md) | None | — | 3 |
-| 341 | [361941](../reports/361941.md) | REGISTRATION USING FAKE EMAIL ACCOUNT | [Liberapay](../by-program/liberapay.md) | None | — | 2 |
-| 342 | [362601](../reports/362601.md) | A single user can subscribe a community multiple times | [Liberapay](../by-program/liberapay.md) | None | — | 2 |
-| 343 | [3734095](../reports/3734095.md) | TLS verifyhost bypass in rustls, mbedTLS, and wolfSSL when verify | [curl](../by-program/curl.md) | None | — | 2 |
-| 344 | [3735179](../reports/3735179.md) | CURLOPT_PROXY_CAINFO_BLOB silently activates native CA store on A | [curl](../by-program/curl.md) | None | — | 2 |
-| 345 | [1590102](../reports/1590102.md) | KRB-FTP: Security level downgrade | [curl](../by-program/curl.md) | None | — | 1 |
-| 346 | [363049](../reports/363049.md) | Punny code Detection Parsing should be implemented on Markdown  | [Liberapay](../by-program/liberapay.md) | None | — | 1 |
-| 347 | [281472](../reports/281472.md) | Unsubscribe Any User | [Inflection](../by-program/inflection.md) | None | — | 1 |
-| 348 | [362718](../reports/362718.md) | Returning back from the browser after logging off will disclose s | [Liberapay](../by-program/liberapay.md) | None | — | 1 |
-| 349 | [388215](../reports/388215.md) | Internal loop going to infinite for cb.setTimeout(func, msecs) fo | [Chaturbate](../by-program/chaturbate.md) | None | — | 1 |
-| 350 | [298888](../reports/298888.md) | Design Issue at riders.uber.com/profile | [Uber](../by-program/uber.md) | None | — | 1 |
-| 351 | [363863](../reports/363863.md) | No Data Validation, No Captcha, No Filters... | [Liberapay](../by-program/liberapay.md) | None | — | 1 |
+| 285 | [3599470](../reports/3599470.md) | Improper input validation in emoji field leads to sidebar UI deni | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.1 | — | 2 |
+| 286 | [3521646](../reports/3521646.md) | Missing Duplicate Check allowing Multiple Retention Rules per Sys | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.8 | — | 2 |
+| 287 | [3733910](../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn reuse | [curl](../by-program/curl.md) | Low | — | 1 |
+| 288 | [321699](../reports/321699.md) | Takeover of Twitter-owned domain at mobileapplinking.com | [X / xAI](../by-program/x.md) | None | — | 159 |
+| 289 | [747825](../reports/747825.md) | [blog.makerdao.com] Multiple Vulnerabilities - Leads to leakage u | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | None | — | 140 |
+| 290 | [3255473](../reports/3255473.md) | Business Logic Error – Bypass of OTP Verification During Signup o | [Tucows (VDP)](../by-program/tucows_vdp.md) | None | — | 134 |
+| 291 | [2263294](../reports/2263294.md) | Cloud Computer Hackerone Triager can be Accessible for everyone [ | [HackerOne](../by-program/security.md) | None | — | 91 |
+| 292 | [2552027](../reports/2552027.md) | Exposure of shopify employee summit page allows anonymous user to | [Shopify](../by-program/shopify.md) | None | — | 76 |
+| 293 | [2461737](../reports/2461737.md) | Incorrect logic when buy one more license which may lead to exten | [PortSwigger Web Security](../by-program/portswigger.md) | None | — | 60 |
+| 294 | [1831528](../reports/1831528.md) | Rogue collaborators and ambiguous branch names in GitHub | [GitHub](../by-program/github.md) | None | — | 42 |
+| 295 | [3248712](../reports/3248712.md) | Not a Vuln: Race Condition Allows Creation of Multiple Organizati | [WakaTime](../by-program/wakatime.md) | None | — | 40 |
+| 296 | [3185001](../reports/3185001.md) | Order More Than Maximum Allowed Quantity | [Mars](../by-program/mars.md) | None | — | 32 |
+| 297 | [265161](../reports/265161.md) | Monero Website & Kovri on your policy are returning 404 not found | [Monero](../by-program/monero.md) | None | — | 29 |
+| 298 | [3258022](../reports/3258022.md) | curl ASSERTs when accessing an LDAP URL | [curl](../by-program/curl.md) | None | — | 24 |
+| 299 | [779656](../reports/779656.md) | Multiple Vulnerabilities in (*.blog.yelp.com) - Leakage user admi | [Yelp](../by-program/yelp.md) | None | — | 23 |
+| 300 | [3409186](../reports/3409186.md) | Hi Hacker | [curl](../by-program/curl.md) | None | — | 22 |
+| 301 | [2528919](../reports/2528919.md) | 2FA requirement bypass when claiming bounty  | [HackerOne](../by-program/security.md) | None | — | 21 |
+| 302 | [216373](../reports/216373.md) | deleting payment profile during active trip puts account into arr | [Uber](../by-program/uber.md) | None | — | 20 |
+| 303 | [302731](../reports/302731.md) | Users email can be changed without verification | [Mavenlink](../by-program/mavenlink.md) | None | — | 17 |
+| 304 | [1282282](../reports/1282282.md) | Bypassing the Grammarly plagiarism checker by simply replacing ch | [Superhuman (formerly Grammarly)](../by-program/superhuman.md) | None | — | 17 |
+| 305 | [264101](../reports/264101.md) | design issue exists on login page  | [Legal Robot](../by-program/legalrobot.md) | None | — | 13 |
+| 306 | [1723445](../reports/1723445.md) | No rate limiting for Remove Account lead to huge Mass mailings | [Weblate](../by-program/weblate.md) | None | — | 12 |
+| 307 | [317388](../reports/317388.md) | Delay of arrears notification allows Riders to take multiple ride | [Uber](../by-program/uber.md) | None | — | 11 |
+| 308 | [819333](../reports/819333.md) | Mathematical error  found in meals for one | [Eternal](../by-program/eternal.md) | None | — | 10 |
+| 309 | [682344](../reports/682344.md) | Parameter tampering : Price Manipulation of Products | [WordPress](../by-program/wordpress.md) | None | — | 9 |
+| 310 | [789260](../reports/789260.md) | Past payments using the Direct Debit method keep subscriptions ac | [Nord Security](../by-program/nordsecurity.md) | None | — | 9 |
+| 311 | [245304](../reports/245304.md) | Running 2 accounts with a single email #3 | [Weblate](../by-program/weblate.md) | None | — | 8 |
+| 312 | [245450](../reports/245450.md) | Reset password more than once with a reset link #2 | [Weblate](../by-program/weblate.md) | None | — | 8 |
+| 313 | [243594](../reports/243594.md) | Reset password more than once with a reset link | [Weblate](../by-program/weblate.md) | None | — | 8 |
+| 314 | [1187543](../reports/1187543.md) | CORS misconfiguration | [Sifchain](../by-program/sifchain.md) | None | — | 8 |
+| 315 | [241608](../reports/241608.md) | Running 2 accounts with a single email [Part 2] | [Weblate](../by-program/weblate.md) | None | — | 7 |
+| 316 | [224072](../reports/224072.md) | Running 2 accounts with a single email | [Weblate](../by-program/weblate.md) | None | — | 7 |
+| 317 | [280914](../reports/280914.md) | Business Logic Flaw allowing Privilege Escalation | [Inflection](../by-program/inflection.md) | None | — | 7 |
+| 318 | [366129](../reports/366129.md) | Activat burp suite pro with the old license after transfared to a | [PortSwigger Web Security](../by-program/portswigger.md) | None | — | 6 |
+| 319 | [241623](../reports/241623.md) | Persistence of Third Party Association. | [Weblate](../by-program/weblate.md) | None | — | 6 |
+| 320 | [1421413](../reports/1421413.md) | Error Page Content Spoofing or Text Injection | [Judge.me ](../by-program/judgeme.md) | None | — | 6 |
+| 321 | [260491](../reports/260491.md) | 2FA manual entry uses wrong encoding | [Legal Robot](../by-program/legalrobot.md) | None | — | 5 |
+| 322 | [259415](../reports/259415.md) | Lengthy manual entry of 2FA secret | [Legal Robot](../by-program/legalrobot.md) | None | — | 5 |
+| 323 | [265701](../reports/265701.md) | Security: Publicly accessible x.509 Public and Private Key of Ubi | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 5 |
+| 324 | [361337](../reports/361337.md) | Missing back-end user input validation can lead to DOS flaw | [Liberapay](../by-program/liberapay.md) | None | — | 5 |
+| 325 | [259416](../reports/259416.md) | Incorrect email content when disabling 2FA | [Legal Robot](../by-program/legalrobot.md) | None | — | 5 |
+| 326 | [260941](../reports/260941.md) | UX: JS error on Password Safety link | [Legal Robot](../by-program/legalrobot.md) | None | — | 5 |
+| 327 | [259400](../reports/259400.md) | Issues with Forgot password Error Handling  | [Legal Robot](../by-program/legalrobot.md) | None | — | 5 |
+| 328 | [243609](../reports/243609.md) | The username of an account can be .. | [Weblate](../by-program/weblate.md) | None | — | 5 |
+| 329 | [243049](../reports/243049.md) | Call back number not verified | [Airbnb](../by-program/airbnb.md) | None | — | 4 |
+| 330 | [243664](../reports/243664.md) | Error Message When Changing Username | [Weblate](../by-program/weblate.md) | None | — | 4 |
+| 331 | [664200](../reports/664200.md) | SignUp using Fake Email | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
+| 332 | [3734935](../reports/3734935.md) | rustls backend silently ignores CURLOPT_CRLFILE when native CA st | [curl](../by-program/curl.md) | None | — | 4 |
+| 333 | [1186926](../reports/1186926.md) | Flaws In Social media Icon on error page which can lead to financ | [Sifchain](../by-program/sifchain.md) | None | — | 4 |
+| 334 | [3735238](../reports/3735238.md) | cookie: case-insensitive path comparison in replace_existing() al | [curl](../by-program/curl.md) | None | — | 4 |
+| 335 | [250088](../reports/250088.md) | Account profile shows encryption recovery box for all users | [Legal Robot](../by-program/legalrobot.md) | None | — | 4 |
+| 336 | [3734992](../reports/3734992.md) | Schannel custom-CA path skips Extended Key Usage enforcement | [curl](../by-program/curl.md) | None | — | 3 |
+| 337 | [1189282](../reports/1189282.md) | Social media links not working | [Sifchain](../by-program/sifchain.md) | None | — | 3 |
+| 338 | [246302](../reports/246302.md) | Running 2 accounts with a single email | [WakaTime](../by-program/wakatime.md) | None | — | 3 |
+| 339 | [3734921](../reports/3734921.md) | Trailing-dot IPv4 URL bypasses IP-address guard, allows wildcard  | [curl](../by-program/curl.md) | None | — | 3 |
+| 340 | [3735276](../reports/3735276.md) | TLS peer-verification bypass via mid-transfer ssl_config mutation | [curl](../by-program/curl.md) | None | — | 3 |
+| 341 | [273647](../reports/273647.md) | Adding Used Primary Email Address to attacker account and Account | [Gratipay](../by-program/gratipay.md) | None | — | 3 |
+| 342 | [361941](../reports/361941.md) | REGISTRATION USING FAKE EMAIL ACCOUNT | [Liberapay](../by-program/liberapay.md) | None | — | 2 |
+| 343 | [362601](../reports/362601.md) | A single user can subscribe a community multiple times | [Liberapay](../by-program/liberapay.md) | None | — | 2 |
+| 344 | [3734095](../reports/3734095.md) | TLS verifyhost bypass in rustls, mbedTLS, and wolfSSL when verify | [curl](../by-program/curl.md) | None | — | 2 |
+| 345 | [3735179](../reports/3735179.md) | CURLOPT_PROXY_CAINFO_BLOB silently activates native CA store on A | [curl](../by-program/curl.md) | None | — | 2 |
+| 346 | [1590102](../reports/1590102.md) | KRB-FTP: Security level downgrade | [curl](../by-program/curl.md) | None | — | 1 |
+| 347 | [363049](../reports/363049.md) | Punny code Detection Parsing should be implemented on Markdown  | [Liberapay](../by-program/liberapay.md) | None | — | 1 |
+| 348 | [281472](../reports/281472.md) | Unsubscribe Any User | [Inflection](../by-program/inflection.md) | None | — | 1 |
+| 349 | [362718](../reports/362718.md) | Returning back from the browser after logging off will disclose s | [Liberapay](../by-program/liberapay.md) | None | — | 1 |
+| 350 | [388215](../reports/388215.md) | Internal loop going to infinite for cb.setTimeout(func, msecs) fo | [Chaturbate](../by-program/chaturbate.md) | None | — | 1 |
+| 351 | [298888](../reports/298888.md) | Design Issue at riders.uber.com/profile | [Uber](../by-program/uber.md) | None | — | 1 |
+| 352 | [363863](../reports/363863.md) | No Data Validation, No Captcha, No Filters... | [Liberapay](../by-program/liberapay.md) | None | — | 1 |
