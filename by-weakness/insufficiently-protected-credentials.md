@@ -16,8 +16,8 @@
 | 10 | [806213](../reports/806213.md) | Sensitive Information Leaking Through DoD Owned Website. [███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 3 |
 | 11 | [1543773](../reports/1543773.md) | CVE-2022-27774: Credential leak on redirect | [curl](../by-program/curl.md) | High | — | 7 |
 | 12 | [1051885](../reports/1051885.md) | Insecure ███████ credentials on staging app at ████ leads to appl | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 6 |
-| 13 | [794407](../reports/794407.md) | nextcloud-snap CircleCI project has vulnerable configuration whic | [Nextcloud](../by-program/nextcloud.md) | High | — | 5 |
-| 14 | [766770](../reports/766770.md) | China - Leaked credentials permitted a limited ability to create  | [Starbucks](../by-program/starbucks.md) | High — CVSS 8.8 | — | 5 |
+| 13 | [766770](../reports/766770.md) | China - Leaked credentials permitted a limited ability to create  | [Starbucks](../by-program/starbucks.md) | High — CVSS 8.8 | — | 5 |
+| 14 | [794407](../reports/794407.md) | nextcloud-snap CircleCI project has vulnerable configuration whic | [Nextcloud](../by-program/nextcloud.md) | High | — | 5 |
 | 15 | [3761647](../reports/3761647.md) | TLS conn reuse and session cache ignore fsslctx callback and ssl_ | [curl](../by-program/curl.md) | High | — | 4 |
 | 16 | [732431](../reports/732431.md) | Improper integrity protection of server-side encryption keys | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 7.4 | — | 2 |
 | 17 | [329798](../reports/329798.md) | h1-202 leaderboard photo discloses local wifi password  | [HackerOne](../by-program/security.md) | Medium — CVSS 4.7 | — | 144 |
@@ -30,11 +30,11 @@
 | 24 | [233402](../reports/233402.md) | Possible Subdomain Takeover | [Mixmax](../by-program/mixmax.md) | Medium | — | 6 |
 | 25 | [1568175](../reports/1568175.md) | Credential leak on redirect | [curl](../by-program/curl.md) | Medium | — | 5 |
 | 26 | [1720621](../reports/1720621.md) | Autofill/Autosave password on login | [Yelp](../by-program/yelp.md) | Medium | — | 4 |
-| 27 | [805027](../reports/805027.md) | Sensitive Information Leaking Through DARPA Website. [█████████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
-| 28 | [235216](../reports/235216.md) | Exposed FTP Credentials on ███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
-| 29 | [743505](../reports/743505.md) | Improper confidentiality protection of server-side encryption key | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 3 |
-| 30 | [3756699](../reports/3756699.md) | lib/ldap.c follows attacker-controlled LDAP referrals and binds t | [curl](../by-program/curl.md) | Medium | — | 3 |
-| 31 | [1569926](../reports/1569926.md) | Credential leak when use two url | [curl](../by-program/curl.md) | Medium | — | 3 |
+| 27 | [3756699](../reports/3756699.md) | lib/ldap.c follows attacker-controlled LDAP referrals and binds t | [curl](../by-program/curl.md) | Medium | — | 3 |
+| 28 | [1569926](../reports/1569926.md) | Credential leak when use two url | [curl](../by-program/curl.md) | Medium | — | 3 |
+| 29 | [805027](../reports/805027.md) | Sensitive Information Leaking Through DARPA Website. [█████████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
+| 30 | [743505](../reports/743505.md) | Improper confidentiality protection of server-side encryption key | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 3 |
+| 31 | [235216](../reports/235216.md) | Exposed FTP Credentials on ███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
 | 32 | [855618](../reports/855618.md) | Account takeover intercepting magic link for Arrive app | [Shopify](../by-program/shopify.md) | Low | — | 29 |
 | 33 | [963384](../reports/963384.md) | mysql credentials exposed on - https://cz.acronis.com/docker-comp | [Acronis](../by-program/acronis.md) | Low | — | 28 |
 | 34 | [3459417](../reports/3459417.md) | CVE-2025-14524: bearer token leak on cross-protocol redirect | [curl](../by-program/curl.md) | Low | — | 17 |

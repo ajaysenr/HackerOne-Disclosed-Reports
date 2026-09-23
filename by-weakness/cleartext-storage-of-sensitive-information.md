@@ -45,10 +45,10 @@
 | 39 | [1641475](../reports/1641475.md) | Facebook App API credentials leaked in the APK | [GlassWire](../by-program/glasswire.md) | Medium | — | 31 |
 | 40 | [2101165](../reports/2101165.md) | user_ldap app logs user passwords in the log file on level debug | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.6 | — | 28 |
 | 41 | [1234531](../reports/1234531.md) | private keys exposed on the GitHub repository | [MCUboot](../by-program/mcuboot.md) | Medium | — | 24 |
-| 42 | [1874155](../reports/1874155.md) | Biometric key is stored in Windows Credential Manager, accessible | [Bitwarden](../by-program/bitwarden.md) | Medium — CVSS 6.2 | — | 19 |
-| 43 | [1047125](../reports/1047125.md) | Non-revoked API Key Disclosure in a Disclosed API Key Disclosure  | [Stripo Inc](../by-program/stripo.md) | Medium — CVSS 4.4 | — | 19 |
-| 44 | [1613714](../reports/1613714.md) | Non-revoked API Key Information disclosure via Stripo_report() | [Stripo Inc](../by-program/stripo.md) | Medium | — | 13 |
-| 45 | [1255869](../reports/1255869.md) | private keys exposed on the GitHub repository | [MCUboot](../by-program/mcuboot.md) | Medium | — | 13 |
+| 42 | [1047125](../reports/1047125.md) | Non-revoked API Key Disclosure in a Disclosed API Key Disclosure  | [Stripo Inc](../by-program/stripo.md) | Medium — CVSS 4.4 | — | 19 |
+| 43 | [1874155](../reports/1874155.md) | Biometric key is stored in Windows Credential Manager, accessible | [Bitwarden](../by-program/bitwarden.md) | Medium — CVSS 6.2 | — | 19 |
+| 44 | [1255869](../reports/1255869.md) | private keys exposed on the GitHub repository | [MCUboot](../by-program/mcuboot.md) | Medium | — | 13 |
+| 45 | [1613714](../reports/1613714.md) | Non-revoked API Key Information disclosure via Stripo_report() | [Stripo Inc](../by-program/stripo.md) | Medium | — | 13 |
 | 46 | [3400761](../reports/3400761.md) | curl’s persistence files inherit world-readable/writable perms fr | [curl](../by-program/curl.md) | Medium | — | 10 |
 | 47 | [262620](../reports/262620.md) | Gratipay rails secret token (secret_key_base) publicly exposed in | [Gratipay](../by-program/gratipay.md) | Medium | — | 10 |
 | 48 | [282475](../reports/282475.md) | Sensitive information is publicly available  | [Infogram](../by-program/infogram.md) | Medium — CVSS 5.0 | — | 7 |
@@ -59,8 +59,8 @@
 | 53 | [876751](../reports/876751.md) | Private RSA key and Server key exposed on the GitHub repository | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 5.3 | — | 3 |
 | 54 | [1300589](../reports/1300589.md) | Sensitive information on ██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
 | 55 | [1199803](../reports/1199803.md) | Possible Database Details stored in values.yaml | [Sifchain](../by-program/sifchain.md) | Medium | — | 2 |
-| 56 | [1394399](../reports/1394399.md) | Unintended information disclosure in the Hubot Log files | [Rocket.Chat](../by-program/rocket_chat.md) | Medium | — | 1 |
-| 57 | [952771](../reports/952771.md) | CVE-2019-11250 remains in effect. | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 4.3 | — | 1 |
+| 56 | [952771](../reports/952771.md) | CVE-2019-11250 remains in effect. | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 4.3 | — | 1 |
+| 57 | [1394399](../reports/1394399.md) | Unintended information disclosure in the Hubot Log files | [Rocket.Chat](../by-program/rocket_chat.md) | Medium | — | 1 |
 | 58 | [1300591](../reports/1300591.md) | Sensitive information on '████████' | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 0 |
 | 59 | [685990](../reports/685990.md) | Clear text storage of proxy parameters and passwords | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.9 | — | 53 |
 | 60 | [469668](../reports/469668.md) | Passwords being stored as plain text in logging | [Nextcloud](../by-program/nextcloud.md) | Low | — | 30 |
@@ -71,8 +71,8 @@
 | 65 | [1298809](../reports/1298809.md) | Senseitive data Related to Shopify Host -> https://shopify.zendes | [Shopify](../by-program/shopify.md) | None | — | 29 |
 | 66 | [942146](../reports/942146.md) | Open Github Repo Leaking WEBLATE SECRET KEY | [Weblate](../by-program/weblate.md) | None | — | 22 |
 | 67 | [386614](../reports/386614.md) | Slack Token exposed over internet (Github) | [Rocket.Chat](../by-program/rocket_chat.md) | None | — | 14 |
-| 68 | [1133670](../reports/1133670.md) |  ETHEREUM_PRIVATE_KEY leaked via Open Github Repository | [Sifchain](../by-program/sifchain.md) | None | — | 4 |
-| 69 | [361089](../reports/361089.md) | twitter api access token leaked on github  | [Liberapay](../by-program/liberapay.md) | None | — | 4 |
-| 70 | [1183269](../reports/1183269.md) | ETHEREUM_PRIVATE_KEY leaked  | [Sifchain](../by-program/sifchain.md) | None | — | 3 |
-| 71 | [223384](../reports/223384.md) | Directory Listing  | [Weblate](../by-program/weblate.md) | None | — | 3 |
-| 72 | [1132690](../reports/1132690.md) | Exposed Openapi Token | [Sifchain](../by-program/sifchain.md) | None | — | 3 |
+| 68 | [361089](../reports/361089.md) | twitter api access token leaked on github  | [Liberapay](../by-program/liberapay.md) | None | — | 4 |
+| 69 | [1133670](../reports/1133670.md) |  ETHEREUM_PRIVATE_KEY leaked via Open Github Repository | [Sifchain](../by-program/sifchain.md) | None | — | 4 |
+| 70 | [223384](../reports/223384.md) | Directory Listing  | [Weblate](../by-program/weblate.md) | None | — | 3 |
+| 71 | [1132690](../reports/1132690.md) | Exposed Openapi Token | [Sifchain](../by-program/sifchain.md) | None | — | 3 |
+| 72 | [1183269](../reports/1183269.md) | ETHEREUM_PRIVATE_KEY leaked  | [Sifchain](../by-program/sifchain.md) | None | — | 3 |

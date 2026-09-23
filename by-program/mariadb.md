@@ -15,13 +15,13 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 9 | [457009](../reports/457009.md) | Github wiki is editable by anyone | Medium | — | 9 | [xiridium](https://hackerone.com/xiridium) | 2018-12-10 |
 | 10 | [1176174](../reports/1176174.md) | Git Config | Medium | — | 8 | [dtattoedhackers](https://hackerone.com/dtattoedhackers) | 2021-05-27 |
 | 11 | [481512](../reports/481512.md) | CRLF injection on https://buildbot.mariadb.org | Medium | — | 7 | [mik317](https://hackerone.com/mik317) | 2019-02-04 |
-| 12 | [490997](../reports/490997.md) | [downloads.mariadb.org] CRLF injection in case of encoded qu | Medium | — | 6 | [s_p_q_r](https://hackerone.com/s_p_q_r) | 2019-02-14 |
-| 13 | [394861](../reports/394861.md) | Incorrect Permission Assignment for Critical Resource | Medium | — | 6 | [dhiraj-mishra](https://hackerone.com/dhiraj-mishra) | 2018-11-14 |
+| 12 | [394861](../reports/394861.md) | Incorrect Permission Assignment for Critical Resource | Medium | — | 6 | [dhiraj-mishra](https://hackerone.com/dhiraj-mishra) | 2018-11-14 |
+| 13 | [490997](../reports/490997.md) | [downloads.mariadb.org] CRLF injection in case of encoded qu | Medium | — | 6 | [s_p_q_r](https://hackerone.com/s_p_q_r) | 2019-02-14 |
 | 14 | [775504](../reports/775504.md) | Exposed debug.log file leads to information disclosure | Medium | — | 4 | [muhammaddaffa](https://hackerone.com/muhammaddaffa) | 2020-01-15 |
 | 15 | [637840](../reports/637840.md) | Path traversal in command line client | Medium — CVSS 4.5 | — | 4 | [lixtelnis](https://hackerone.com/lixtelnis) | 2020-05-28 |
-| 16 | [3889667](../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a sa | Medium — CVSS 6.4 | — | 3 | [dogeshark](https://hackerone.com/dogeshark) | 2026-09-07 |
-| 17 | [1369288](../reports/1369288.md) | Path Traversal CVE-2021-26086 CVE-2021-26085 | Medium | — | 3 | [kljunowsky](https://hackerone.com/kljunowsky) | 2021-11-05 |
-| 18 | [3909248](../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append() let | Medium | — | 3 | [v3rtical](https://hackerone.com/v3rtical) | 2026-09-07 |
+| 16 | [1369288](../reports/1369288.md) | Path Traversal CVE-2021-26086 CVE-2021-26085 | Medium | — | 3 | [kljunowsky](https://hackerone.com/kljunowsky) | 2021-11-05 |
+| 17 | [3909248](../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append() let | Medium | — | 3 | [v3rtical](https://hackerone.com/v3rtical) | 2026-09-07 |
+| 18 | [3889667](../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a sa | Medium — CVSS 6.4 | — | 3 | [dogeshark](https://hackerone.com/dogeshark) | 2026-09-07 |
 | 19 | [3769676](../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenti | Medium | — | 2 | [byteoverride](https://hackerone.com/byteoverride) | 2026-09-03 |
 | 20 | [690330](../reports/690330.md) | scripts loader (denial of service) vulnerability | Low | — | 20 | [badisman](https://hackerone.com/badisman) | 2020-03-19 |
 | 21 | [392701](../reports/392701.md) | Vulnerability Report - Missing Certificate Authority Authori | Low | — | 16 | [theendisnear](https://hackerone.com/theendisnear) | 2018-11-11 |

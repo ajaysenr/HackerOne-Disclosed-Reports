@@ -25,8 +25,8 @@
 | 19 | [384257](../reports/384257.md) | Phishing user to download malicious app could lead to l | [Eternal](../by-program/eternal.md) | com.application.zomato | Low | $300 | 15 |
 | 20 | [3764217](../reports/3764217.md) | Any installed app can force immediate logout and persis | [Basecamp](../by-program/basecamp.md) | com.basecamp.bc3 | Medium — CVSS 4.0 | $287 | 8 |
 | 21 | [2380133](../reports/2380133.md) | Can download files on Android app without permission | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 3.2 | $250 | 46 |
-| 22 | [1085336](../reports/1085336.md) | CSRF when unlocking lenses leads to lenses being forcef | [Snapchat](../by-program/snapchat.md) | com.snapchat.android | Low | $250 | 20 |
-| 23 | [1161401](../reports/1161401.md) | Notification implicit PendingIntent in com.nextcloud.cl | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 1.3 | $250 | 20 |
+| 22 | [1161401](../reports/1161401.md) | Notification implicit PendingIntent in com.nextcloud.cl | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 1.3 | $250 | 20 |
+| 23 | [1085336](../reports/1085336.md) | CSRF when unlocking lenses leads to lenses being forcef | [Snapchat](../by-program/snapchat.md) | com.snapchat.android | Low | $250 | 20 |
 | 24 | [1408692](../reports/1408692.md) | Access to arbitrary file of the Nextcloud Android app f | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 2.3 | $250 | 11 |
 | 25 | [1102537](../reports/1102537.md) | Subdomain Takeover via Unclaimed Amazon S3 Bucket (Musi | [TikTok](../by-program/tiktok.md) | com.zhiliaoapp.musically | Low | $200 | 29 |
 | 26 | [1450368](../reports/1450368.md) | com.nextcloud.client bypass the protection lock in ando | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 1.1 | $200 | 11 |
@@ -112,16 +112,16 @@
 | 106 | [1596459](../reports/1596459.md) | Talk Android broadcast receiver is not protected by bro | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.talk2 | Low — CVSS 2.6 | — | 19 |
 | 107 | [1825679](../reports/1825679.md) | App pin of the Android app can be bypassed via 3rdparty | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 1.8 | — | 17 |
 | 108 | [507172](../reports/507172.md) | Able to bypass "Device credentials" Lock | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low — CVSS 3.8 | — | 12 |
-| 109 | [1455987](../reports/1455987.md) | Improper Implementation of SDK Allows Universal XSS in  | [EXNESS](../by-program/exness.md) | com.exness.investments | Low | — | 11 |
-| 110 | [3829030](../reports/3829030.md) | Debug Deep Link Abuse Allows Repeated Forced Logout and | [Yelp](../by-program/yelp.md) | com.yelp.android.biz | Low — CVSS 3.3 | — | 11 |
+| 109 | [3829030](../reports/3829030.md) | Debug Deep Link Abuse Allows Repeated Forced Logout and | [Yelp](../by-program/yelp.md) | com.yelp.android.biz | Low — CVSS 3.3 | — | 11 |
+| 110 | [1455987](../reports/1455987.md) | Improper Implementation of SDK Allows Universal XSS in  | [EXNESS](../by-program/exness.md) | com.exness.investments | Low | — | 11 |
 | 111 | [331302](../reports/331302.md) | Improper protection of FileContentProvider | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | Low | — | 7 |
 | 112 | [328486](../reports/328486.md) | [Zomato Android/iOS] Theft of user session | [Eternal](../by-program/eternal.md) | com.application.zomato | None | — | 68 |
 | 113 | [1095633](../reports/1095633.md) | [VK Android] Access to app protected components leads t | [VK.com](../by-program/vkcom.md) | com.vkontakte.android | None | — | 43 |
 | 114 | [3399016](../reports/3399016.md) | Improper input validation On Exported deep-link handler | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | None | — | 28 |
 | 115 | [54631](../reports/54631.md) | Vulnerable to JavaScript injection. (WXS)  (Javascript  | [Snapchat](../by-program/snapchat.md) | com.snapchat.android | None | — | 13 |
-| 116 | [803941](../reports/803941.md) | NordVPN Android Application privacy violation due to Go | [Nord Security](../by-program/nordsecurity.md) | com.nordvpn.android | None | — | 11 |
-| 117 | [792850](../reports/792850.md) | Hard-coded API keys at NordVpn Android App | [Nord Security](../by-program/nordsecurity.md) | com.nordvpn.android | None | — | 11 |
-| 118 | [731724](../reports/731724.md) | Firebase Firestore insecure database | [MobiSystems Ltd.](../by-program/mobisystems_ltd.md) | com.mobisystems.msdict.embedded.wireless | None | — | 11 |
+| 116 | [731724](../reports/731724.md) | Firebase Firestore insecure database | [MobiSystems Ltd.](../by-program/mobisystems_ltd.md) | com.mobisystems.msdict.embedded.wireless | None | — | 11 |
+| 117 | [803941](../reports/803941.md) | NordVPN Android Application privacy violation due to Go | [Nord Security](../by-program/nordsecurity.md) | com.nordvpn.android | None | — | 11 |
+| 118 | [792850](../reports/792850.md) | Hard-coded API keys at NordVpn Android App | [Nord Security](../by-program/nordsecurity.md) | com.nordvpn.android | None | — | 11 |
 | 119 | [819333](../reports/819333.md) | Mathematical error  found in meals for one | [Eternal](../by-program/eternal.md) | com.application.zomato | None | — | 10 |
 | 120 | [631227](../reports/631227.md) | Some HTML Tags are Getting Executed in com.nextcloud.cl | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | None | — | 9 |
 | 121 | [859136](../reports/859136.md) | Malicious apps can crash Nextcloud Android client by se | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | None | — | 6 |
