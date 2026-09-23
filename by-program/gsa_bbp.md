@@ -32,10 +32,10 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 26 | [245833](../reports/245833.md) | The user, who was deleted from Github Organization, still ca | Medium | — | 16 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-05 |
 | 27 | [245172](../reports/245172.md) | Double Stored Cross-Site scripting in the admin panel | Medium | — | 15 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-05 |
 | 28 | [360171](../reports/360171.md) | Multiple Bugs in api.data.gov/signup endpoint leads to send  | Medium | — | 15 | [pressihackerone](https://hackerone.com/pressihackerone) | 2018-11-13 |
-| 29 | [318068](../reports/318068.md) | SSH server compatible with several vulnerable cryptographic  | Medium | — | 14 | [northivanastan](https://hackerone.com/northivanastan) | 2018-03-02 |
-| 30 | [942481](../reports/942481.md) | Wordpress Users Disclosure (/wp-json/wp/v2/users/) on data.g | Medium | — | 14 | [nagli](https://hackerone.com/nagli) | 2020-07-28 |
-| 31 | [673384](../reports/673384.md) | xmlrpc.php file enabled - data.gov | Medium | — | 10 | [zddw](https://hackerone.com/zddw) | 2019-08-19 |
-| 32 | [264090](../reports/264090.md) | 2FA bypass - confirmation tokens don't expire | Medium — CVSS 4.8 | — | 10 | [muskecan](https://hackerone.com/muskecan) | 2017-11-17 |
+| 29 | [942481](../reports/942481.md) | Wordpress Users Disclosure (/wp-json/wp/v2/users/) on data.g | Medium | — | 14 | [nagli](https://hackerone.com/nagli) | 2020-07-28 |
+| 30 | [318068](../reports/318068.md) | SSH server compatible with several vulnerable cryptographic  | Medium | — | 14 | [northivanastan](https://hackerone.com/northivanastan) | 2018-03-02 |
+| 31 | [264090](../reports/264090.md) | 2FA bypass - confirmation tokens don't expire | Medium — CVSS 4.8 | — | 10 | [muskecan](https://hackerone.com/muskecan) | 2017-11-17 |
+| 32 | [673384](../reports/673384.md) | xmlrpc.php file enabled - data.gov | Medium | — | 10 | [zddw](https://hackerone.com/zddw) | 2019-08-19 |
 | 33 | [263498](../reports/263498.md) | CSRF to change Account Security Keys on secure.login.gov | Medium | — | 8 | [fawazxq](https://hackerone.com/fawazxq) | 2017-11-01 |
 | 34 | [263512](../reports/263512.md) | CSRF in generating a new Personal Key | Medium | — | 4 | [streaak](https://hackerone.com/streaak) | 2017-11-17 |
 | 35 | [263553](../reports/263553.md) | federalist.18f.gov vulnerable to Sweet32 attack | Medium | — | 3 | [r0p3](https://hackerone.com/r0p3) | 2017-09-05 |
@@ -48,8 +48,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 42 | [667032](../reports/667032.md) | Information disclosure (system username, server info) in the | Low | — | 5 | [ninja_cyber007](https://hackerone.com/ninja_cyber007) | 2019-08-06 |
 | 43 | [263913](../reports/263913.md) | Content injection via URL parameter. | None | — | 9 | [johnh4x0r](https://hackerone.com/johnh4x0r) | 2020-02-08 |
 | 44 | [263736](../reports/263736.md) | Email Spoofing - SPF record set to Neutral | None | — | 7 | [ramakanthk35](https://hackerone.com/ramakanthk35) | 2017-09-06 |
-| 45 | [263508](../reports/263508.md) | Server Side Misconfiguration (EMAIL SPOOFING)  | None | — | 6 | [swag01](https://hackerone.com/swag01) | 2017-09-14 |
+| 45 | [268679](../reports/268679.md) | Homo graphs attack  | None | — | 6 | [jaykp](https://hackerone.com/jaykp) | 2017-09-20 |
 | 46 | [266449](../reports/266449.md) | [api.data.gov] Leak Valid API With out Verification - | None | — | 6 | [0xsp](https://hackerone.com/0xsp) | 2017-09-20 |
-| 47 | [268679](../reports/268679.md) | Homo graphs attack  | None | — | 6 | [jaykp](https://hackerone.com/jaykp) | 2017-09-20 |
+| 47 | [263508](../reports/263508.md) | Server Side Misconfiguration (EMAIL SPOOFING)  | None | — | 6 | [swag01](https://hackerone.com/swag01) | 2017-09-14 |
 | 48 | [263733](../reports/263733.md) | Email Spoofing - SPF record set to Neutral | None | — | 2 | [ramakanthk35](https://hackerone.com/ramakanthk35) | 2017-09-06 |
 | 49 | [263866](../reports/263866.md) | Error Page Content Spoofing or Text Injection | None | — | 0 | [myskar](https://hackerone.com/myskar) | 2017-11-17 |

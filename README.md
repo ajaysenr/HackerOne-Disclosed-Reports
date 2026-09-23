@@ -21,15 +21,15 @@ Use the interactive dashboard to search reports and filter them by severity, yea
 | Metric | Count |
 |---|---|
 | **Total Reports** | 12,537 |
-| **With Bounty** | 2,327 |
+| **With Bounty** | 2,332 |
 | **With CVE** | 1,976 |
-| **Total Bounty Paid** | $3,943,499 |
+| **Total Bounty Paid** | $3,944,399 |
 | **Critical** | 1,002 |
 | **High** | 1,955 |
 | **Medium** | 3,565 |
 | **Low** | 2,269 |
 
-*Last Updated: September 23, 2026 at 04:02 AM EST*
+*Last Updated: September 23, 2026 at 09:56 AM EST*
 
 ## 📁 Browse
 

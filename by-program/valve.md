@@ -50,16 +50,16 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 44 | [975212](../reports/975212.md) | Access to microtransaction sales data for lots of apps from  | Critical | — | 86 | [njbooher3](https://hackerone.com/njbooher3) | 2021-09-21 |
 | 45 | [949361](../reports/949361.md) | Shell command injection in https://partner.steamgames.com/ad | Critical — CVSS 9.6 | — | 58 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
 | 46 | [840243](../reports/840243.md) | Shell command injection in https://partner.steamgames.com/ap | Critical | — | 52 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
-| 47 | [652649](../reports/652649.md) | WG call injection in /economy/contextcommand | Critical — CVSS 9.6 | — | 46 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
-| 48 | [926169](../reports/926169.md) | Shell command injection in https://partner.steamgames.com/bu | Critical — CVSS 9.6 | — | 46 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
+| 47 | [926169](../reports/926169.md) | Shell command injection in https://partner.steamgames.com/bu | Critical — CVSS 9.6 | — | 46 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
+| 48 | [652649](../reports/652649.md) | WG call injection in /economy/contextcommand | Critical — CVSS 9.6 | — | 46 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
 | 49 | [690349](../reports/690349.md) | SQL injection in /errors/viewbuild/ | Critical — CVSS 9.1 | — | 41 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
 | 50 | [518348](../reports/518348.md) | RCE on partner.steampowered.com | Critical | — | 18 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
 | 51 | [397545](../reports/397545.md) | Malformed .BMP file in Counter-Strike 1.6 may cause shellcod | High — CVSS 8.8 | — | 321 | [kohtep2010](https://hackerone.com/kohtep2010) | 2020-02-27 |
 | 52 | [577584](../reports/577584.md) | ISteamAssets gives partners control over unrelated community | High — CVSS 7.1 | — | 109 | [njbooher3](https://hackerone.com/njbooher3) | 2019-05-23 |
 | 53 | [495793](../reports/495793.md) | Malformed .MDL triggers an Access Violation on GoldSRC (hl.e | High | — | 89 | [chippy](https://hackerone.com/chippy) | 2019-10-09 |
 | 54 | [1079561](../reports/1079561.md) | Big Picture web browser leaks login cookies and discloses se | High — CVSS 7.1 | — | 58 | [bugstar](https://hackerone.com/bugstar) | 2021-09-21 |
-| 55 | [832750](../reports/832750.md) | Buffer overflow In hl.exe's launch -game argument allows an  | High — CVSS 8.1 | — | 55 | [irukandjisecresearch](https://hackerone.com/irukandjisecresearch) | 2020-08-19 |
-| 56 | [1168557](../reports/1168557.md) | https://srcds.valve.net/find/ is leaking server config / API | High — CVSS 7.5 | — | 55 | [njbooher3](https://hackerone.com/njbooher3) | 2024-08-06 |
+| 55 | [1168557](../reports/1168557.md) | https://srcds.valve.net/find/ is leaking server config / API | High — CVSS 7.5 | — | 55 | [njbooher3](https://hackerone.com/njbooher3) | 2024-08-06 |
+| 56 | [832750](../reports/832750.md) | Buffer overflow In hl.exe's launch -game argument allows an  | High — CVSS 8.1 | — | 55 | [irukandjisecresearch](https://hackerone.com/irukandjisecresearch) | 2020-08-19 |
 | 57 | [1018368](../reports/1018368.md) | Add any depot to your app and access its contents without de | High — CVSS 8.5 | — | 54 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
 | 58 | [351016](../reports/351016.md) | Malformed Skybox .TGA in Half-Life (GoldSRC) leads to Access | High | — | 30 | [chippy](https://hackerone.com/chippy) | 2018-08-28 |
 | 59 | [288298](../reports/288298.md) | LFI in pChart php library | High — CVSS 8.6 | — | 29 | [ramsexy](https://hackerone.com/ramsexy) | 2018-05-09 |

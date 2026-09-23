@@ -9542,7 +9542,7 @@ https://hackerone.com/reports/1531958 | ReDoS in net/http affects webhooks: Side
 https://hackerone.com/reports/1532858 | Cross-site scripting on dashboard2.omise.co
 https://hackerone.com/reports/1533220 | Ability to View Non-Permitted Admin Log
 https://hackerone.com/reports/1533976 | Content injection in Jira issue title enabling sending arbitrary POST request as victim
-https://hackerone.com/reports/1534465 | Ticket Trick Attack allows access to Rockstar Games' workspaces
+https://hackerone.com/reports/1534465 | Ticket Trick Attack allows access to ████████' workspaces
 https://hackerone.com/reports/1534636 | Stored XSS in photos_user_map.gne
 https://hackerone.com/reports/1536046 | Stored XSS Payload when sending videos
 https://hackerone.com/reports/1536215 | Reflected XSS via `████████` parameter

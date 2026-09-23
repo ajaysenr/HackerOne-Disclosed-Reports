@@ -20,8 +20,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 14 | [1606957](../reports/1606957.md) | Unrestricted File Upload on reddit.secure.force.com | Low | $100 | 32 | [heckintosh](https://hackerone.com/heckintosh) | 2022-09-30 |
 | 15 | [1543770](../reports/1543770.md) | Moderators can send messages to users from banned subreddits | Low | $100 | 18 | [ba-reynolds](https://hackerone.com/ba-reynolds) | 2022-07-04 |
 | 16 | [1567186](../reports/1567186.md) | One-click account hijack for anyone using Apple sign-in with | Critical | — | 503 | [fransrosen](https://hackerone.com/fransrosen) | 2022-08-02 |
-| 17 | [1582778](../reports/1582778.md) | Misconfigurated login page able to lock login action for any | Critical — CVSS 9.3 | — | 19 | [ug0x01](https://hackerone.com/ug0x01) | 2022-06-06 |
-| 18 | [1632186](../reports/1632186.md) | Can use the Reddit android app as usual even though revoking | Critical | — | 19 | [sateeshn](https://hackerone.com/sateeshn) | 2022-07-16 |
+| 17 | [1632186](../reports/1632186.md) | Can use the Reddit android app as usual even though revoking | Critical | — | 19 | [sateeshn](https://hackerone.com/sateeshn) | 2022-07-16 |
+| 18 | [1582778](../reports/1582778.md) | Misconfigurated login page able to lock login action for any | Critical — CVSS 9.3 | — | 19 | [ug0x01](https://hackerone.com/ug0x01) | 2022-06-06 |
 | 19 | [1744264](../reports/1744264.md) |  read and message other user's messages | Critical | — | 12 | [beksem35](https://hackerone.com/beksem35) | 2023-05-18 |
 | 20 | [1719588](../reports/1719588.md) | HTML injection in API response including request url | Critical | — | 11 | [prilvesh](https://hackerone.com/prilvesh) | 2023-05-18 |
 | 21 | [1195340](../reports/1195340.md) | User Account has been taken out | Critical | — | 9 | [ravitejag](https://hackerone.com/ravitejag) | 2021-10-21 |
@@ -72,6 +72,6 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 66 | [1209098](../reports/1209098.md) |  XSS | None | — | 10 | [shylo](https://hackerone.com/shylo) | 2021-10-21 |
 | 67 | [1461207](../reports/1461207.md) | Broken links make users from France unable to understand the | None | — | 6 | [ardyanv1ckyramadhan](https://hackerone.com/ardyanv1ckyramadhan) | 2023-05-18 |
 | 68 | [1167029](../reports/1167029.md) | Broken Authendication And Session Management | None | — | 5 | [kedibeauty](https://hackerone.com/kedibeauty) | 2021-10-21 |
-| 69 | [1182824](../reports/1182824.md) | Vulnerability Name: URL Redirection / Unvalidate Open Redire | None | — | 2 | [hasnain_123](https://hackerone.com/hasnain_123) | 2021-10-21 |
-| 70 | [1243009](../reports/1243009.md) | No Password Length Restriction leads to Denial of Service | None | — | 2 | [c_j_27](https://hackerone.com/c_j_27) | 2021-10-21 |
+| 69 | [1243009](../reports/1243009.md) | No Password Length Restriction leads to Denial of Service | None | — | 2 | [c_j_27](https://hackerone.com/c_j_27) | 2021-10-21 |
+| 70 | [1182824](../reports/1182824.md) | Vulnerability Name: URL Redirection / Unvalidate Open Redire | None | — | 2 | [hasnain_123](https://hackerone.com/hasnain_123) | 2021-10-21 |
 | 71 | [1166770](../reports/1166770.md) | Content Spoofing/Text Injection at https://gateway-productio | None | — | 1 | [karthik86](https://hackerone.com/karthik86) | 2021-10-27 |

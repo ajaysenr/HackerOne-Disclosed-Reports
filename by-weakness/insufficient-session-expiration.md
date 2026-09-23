@@ -30,12 +30,12 @@
 | 24 | [1172205](../reports/1172205.md) | Insufficient session expiration in the **com.shopify.ping** andro | [Shopify](../by-program/shopify.md) | Low — CVSS 2.3 | — | 63 |
 | 25 | [3073507](../reports/3073507.md) | Apache Airflow Fab Provider: Application does not invalidate sess | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 57 |
 | 26 | [250688](../reports/250688.md) | The Federalsit session cookie (federalist.sid) is not properly in | [GSA Bounty](../by-program/gsa_bbp.md) | Low | — | 16 |
-| 27 | [1006677](../reports/1006677.md) | [www.drive2.ru] Insufficient Session Expiration - Previously issu | [DRIVE.NET, Inc.](../by-program/drive_net_inc.md) | Low | — | 11 |
-| 28 | [1108662](../reports/1108662.md) | The POS app doesn't revoke the Xauth token  | [Shopify](../by-program/shopify.md) | Low — CVSS 2.3 | — | 11 |
+| 27 | [1108662](../reports/1108662.md) | The POS app doesn't revoke the Xauth token  | [Shopify](../by-program/shopify.md) | Low — CVSS 2.3 | — | 11 |
+| 28 | [1006677](../reports/1006677.md) | [www.drive2.ru] Insufficient Session Expiration - Previously issu | [DRIVE.NET, Inc.](../by-program/drive_net_inc.md) | Low | — | 11 |
 | 29 | [1295187](../reports/1295187.md) | Failed to validate Session after Password Change | [UPchieve](../by-program/upchieve.md) | Low | — | 9 |
 | 30 | [659957](../reports/659957.md) | Session misconfiguration on forget password feature at https://or | [Ping Identity](../by-program/pingidentity.md) | Low | — | 8 |
-| 31 | [223327](../reports/223327.md) | No expiration of session ID after Password change | [Weblate](../by-program/weblate.md) | Low | — | 4 |
-| 32 | [1241483](../reports/1241483.md) | Insufficient Session Expiration | [Urban Company](../by-program/urbancompany.md) | Low | — | 4 |
+| 31 | [1241483](../reports/1241483.md) | Insufficient Session Expiration | [Urban Company](../by-program/urbancompany.md) | Low | — | 4 |
+| 32 | [223327](../reports/223327.md) | No expiration of session ID after Password change | [Weblate](../by-program/weblate.md) | Low | — | 4 |
 | 33 | [3269777](../reports/3269777.md) | Replayable Password Change Request Across Sessions. | [Malwarebytes](../by-program/malwarebytes.md) | None | — | 28 |
 | 34 | [273881](../reports/273881.md) | Invalidate session after password reset on https://polldaddy.com | [Automattic](../by-program/automattic.md) | None | — | 12 |
 | 35 | [952035](../reports/952035.md) | Admin web sessions remain active after logout of Shopify ID | [Shopify](../by-program/shopify.md) | None | — | 7 |

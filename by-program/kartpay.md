@@ -15,8 +15,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 9 | [700075](../reports/700075.md) | bypass captcha in the form forgot password | Low | — | 25 | [hami](https://hackerone.com/hami) | 2019-11-14 |
 | 10 | [642847](../reports/642847.md) | Application Design issue for Phone Number field in Registrat | Low | — | 15 | [eissen5c](https://hackerone.com/eissen5c) | 2019-08-05 |
 | 11 | [642498](../reports/642498.md) | Captcha protection Bypass on Forgot password page | Low | — | 12 | [bb00x](https://hackerone.com/bb00x) | 2019-08-05 |
-| 12 | [1082521](../reports/1082521.md) | Full Path Disclosure of Server through 500 Server Error | Low | — | 3 | [basant0x01](https://hackerone.com/basant0x01) | 2021-08-16 |
-| 13 | [964315](../reports/964315.md) | Admin/Info lekage | Low | — | 3 | [abhhi](https://hackerone.com/abhhi) | 2020-10-24 |
+| 12 | [964315](../reports/964315.md) | Admin/Info lekage | Low | — | 3 | [abhhi](https://hackerone.com/abhhi) | 2020-10-24 |
+| 13 | [1082521](../reports/1082521.md) | Full Path Disclosure of Server through 500 Server Error | Low | — | 3 | [basant0x01](https://hackerone.com/basant0x01) | 2021-08-16 |
 | 14 | [642862](../reports/642862.md) | Option method enabled in kartpay Webservers | Low | — | 2 | [lollol1](https://hackerone.com/lollol1) | 2019-08-28 |
 | 15 | [642643](../reports/642643.md) | Bypass _token in forms [Merchant.Kartpay.com ] | None | — | 25 | [zxdrrr](https://hackerone.com/zxdrrr) | 2019-10-09 |
 | 16 | [642494](../reports/642494.md) | Application Error disclosure, Verification token seen error  | None | — | 6 | [amol01](https://hackerone.com/amol01) | 2019-08-28 |

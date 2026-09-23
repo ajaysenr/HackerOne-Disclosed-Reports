@@ -19,8 +19,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 13 | [1430405](../reports/1430405.md) | Dependency repository hijacking aka Repo Jacking from GitHub | Medium | — | 12 | [akincibor](https://hackerone.com/akincibor) | 2021-12-19 |
 | 14 | [270068](../reports/270068.md) | Installer can modify other gems if gem name is specially cra | Medium — CVSS 5.5 | — | 8 | [nmalkin](https://hackerone.com/nmalkin) | 2018-03-22 |
 | 15 | [289313](../reports/289313.md) | [gem server] Stored XSS via crafted JavaScript URL inclusion | Medium | — | 4 | [ysx](https://hackerone.com/ysx) | 2018-02-22 |
-| 16 | [281336](../reports/281336.md) | Negative size in tar header causes infinite loop | Low | — | 7 | [plover](https://hackerone.com/plover) | 2018-03-01 |
-| 17 | [449356](../reports/449356.md) | 65534 times efficient, Brute-force attack for api_key | Low | — | 7 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2018-12-08 |
+| 16 | [449356](../reports/449356.md) | 65534 times efficient, Brute-force attack for api_key | Low | — | 7 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2018-12-08 |
+| 17 | [281336](../reports/281336.md) | Negative size in tar header causes infinite loop | Low | — | 7 | [plover](https://hackerone.com/plover) | 2018-03-01 |
 | 18 | [274267](../reports/274267.md) | Request Hijacking Vulnerability in RubyGems 2.6.13 and earli | Low | — | 5 | [claudijd](https://hackerone.com/claudijd) | 2018-12-08 |
 | 19 | [180196](../reports/180196.md) | Host header Injection rubygems.org | Low | — | 3 | [bugs3ra](https://hackerone.com/bugs3ra) | 2018-02-08 |
 | 20 | [307681](../reports/307681.md) | Cross-Domain JavaScript Source File Inclusion  | Low | — | 3 | [mrunal](https://hackerone.com/mrunal) | 2018-12-10 |

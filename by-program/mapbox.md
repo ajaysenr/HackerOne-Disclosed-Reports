@@ -23,7 +23,7 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 17 | [143240](../reports/143240.md) | XSS on www.mapbox.com/authorize/ because of open redirect at | None | — | 18 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2017-08-14 |
 | 18 | [143220](../reports/143220.md) | XSS on www.mapbox.com/authorize | None | — | 15 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2017-08-14 |
 | 19 | [74933](../reports/74933.md) | Disclosure of map information | None | — | 6 | [hussain_0x3c](https://hackerone.com/hussain_0x3c) | 2016-04-19 |
-| 20 | [165136](../reports/165136.md) | target="_blank" Vulnerability Resulting in Critical Phishing | None | — | 5 | [cha5m](https://hackerone.com/cha5m) | 2016-09-07 |
-| 21 | [114529](../reports/114529.md) | Content Spoofing and Local Redirect in Mapbox Studio | None | — | 5 | [hussain_0x3c](https://hackerone.com/hussain_0x3c) | 2016-04-20 |
+| 20 | [114529](../reports/114529.md) | Content Spoofing and Local Redirect in Mapbox Studio | None | — | 5 | [hussain_0x3c](https://hackerone.com/hussain_0x3c) | 2016-04-20 |
+| 21 | [165136](../reports/165136.md) | target="_blank" Vulnerability Resulting in Critical Phishing | None | — | 5 | [cha5m](https://hackerone.com/cha5m) | 2016-09-07 |
 | 22 | [65284](../reports/65284.md) | Stored Cross-Site Scripting in Map Share Page | None | — | 4 | [hussain_0x3c](https://hackerone.com/hussain_0x3c) | 2016-04-19 |
 | 23 | [136221](../reports/136221.md) | Denial of service in account statistics endpoint | None | — | 3 | [apok](https://hackerone.com/apok) | 2016-05-31 |

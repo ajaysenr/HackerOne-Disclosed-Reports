@@ -91,11 +91,11 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 85 | [953649](../reports/953649.md) | Critical Information disclosure of rtapi token for any user  | Critical | — | 49 | [m4ll0k](https://hackerone.com/m4ll0k) | 2021-03-29 |
 | 86 | [293358](../reports/293358.md) | The Microsoft Store Uber App Does Not Implement Certificate  | Critical | — | 7 | [gregoryvperry](https://hackerone.com/gregoryvperry) | 2017-12-24 |
 | 87 | [300102](../reports/300102.md) | muber-id Query Parameter Can Generate SSL-protected Reflecte | Critical — CVSS 9.1 | — | 5 | [gregoryvperry](https://hackerone.com/gregoryvperry) | 2017-12-26 |
-| 88 | [300101](../reports/300101.md) | lite:sess Query Parameter Can Generate SSL-protected Reflect | Critical — CVSS 9.1 | — | 3 | [gregoryvperry](https://hackerone.com/gregoryvperry) | 2017-12-26 |
+| 88 | [300081](../reports/300081.md) | SSL-protected Reflected XSS in https://m.uber.com/0-dfffb25d | Critical — CVSS 9.1 | — | 3 | [gregoryvperry](https://hackerone.com/gregoryvperry) | 2017-12-26 |
 | 89 | [300080](../reports/300080.md) | SSL-protected Reflected XSS in https://m.uber.com/0-dfffb25d | Critical — CVSS 9.1 | — | 3 | [gregoryvperry](https://hackerone.com/gregoryvperry) | 2017-12-26 |
 | 90 | [296701](../reports/296701.md) | SSL-protected Reflected XSS in m.uber.com | Critical — CVSS 10.0 | — | 3 | [gregoryvperry](https://hackerone.com/gregoryvperry) | 2017-12-26 |
-| 91 | [300103](../reports/300103.md) | udi-id Query Parameter Can Generate SSL-protected Reflected  | Critical — CVSS 9.1 | — | 3 | [gregoryvperry](https://hackerone.com/gregoryvperry) | 2017-12-26 |
-| 92 | [300081](../reports/300081.md) | SSL-protected Reflected XSS in https://m.uber.com/0-dfffb25d | Critical — CVSS 9.1 | — | 3 | [gregoryvperry](https://hackerone.com/gregoryvperry) | 2017-12-26 |
+| 91 | [300101](../reports/300101.md) | lite:sess Query Parameter Can Generate SSL-protected Reflect | Critical — CVSS 9.1 | — | 3 | [gregoryvperry](https://hackerone.com/gregoryvperry) | 2017-12-26 |
+| 92 | [300103](../reports/300103.md) | udi-id Query Parameter Can Generate SSL-protected Reflected  | Critical — CVSS 9.1 | — | 3 | [gregoryvperry](https://hackerone.com/gregoryvperry) | 2017-12-26 |
 | 93 | [542340](../reports/542340.md) | Sensitive user information disclosure at bonjour.uber.com/ma | High — CVSS 8.5 | — | 642 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2019-09-09 |
 | 94 | [202781](../reports/202781.md) | Chained Bugs to Leak Victim's Uber's FB Oauth Token | High | — | 423 | [ngalog](https://hackerone.com/ngalog) | 2019-01-25 |
 | 95 | [206591](../reports/206591.md) | Open Redirect on central.uber.com allows for account takeove | High | — | 143 | [ngalog](https://hackerone.com/ngalog) | 2019-01-25 |
@@ -112,8 +112,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 106 | [293359](../reports/293359.md) | The Uber Promo Customer Endpoint Does Not Implement Multifac | High | — | 5 | [gregoryvperry](https://hackerone.com/gregoryvperry) | 2017-12-24 |
 | 107 | [1116387](../reports/1116387.md) | IDOR leads to leak analytics of any restaurant | Medium — CVSS 6.5 | — | 122 | [0xprial](https://hackerone.com/0xprial) | 2021-04-29 |
 | 108 | [1137819](../reports/1137819.md) | IDOR leads to See analytics of Loyalty Program in any restau | Medium — CVSS 4.3 | — | 110 | [0xprial](https://hackerone.com/0xprial) | 2021-05-28 |
-| 109 | [1883806](../reports/1883806.md) | Complete Admin account takeover due to PhpDebugBar turned on | Medium | — | 89 | [lalit2020](https://hackerone.com/lalit2020) | 2023-08-23 |
-| 110 | [174404](../reports/174404.md) | private passenger information is exposed to the Uber Driver  | Medium | — | 89 | [beezlewaxin](https://hackerone.com/beezlewaxin) | 2021-05-14 |
+| 109 | [174404](../reports/174404.md) | private passenger information is exposed to the Uber Driver  | Medium | — | 89 | [beezlewaxin](https://hackerone.com/beezlewaxin) | 2021-05-14 |
+| 110 | [1883806](../reports/1883806.md) | Complete Admin account takeover due to PhpDebugBar turned on | Medium | — | 89 | [lalit2020](https://hackerone.com/lalit2020) | 2023-08-23 |
 | 111 | [574638](../reports/574638.md) | Lack of proper paymentProfileUUID validation allows any numb | Medium — CVSS 5.0 | — | 82 | [eequalsmc2](https://hackerone.com/eequalsmc2) | 2019-07-18 |
 | 112 | [1005355](../reports/1005355.md) | Unrestricted File Upload Results in Cross-Site Scripting Att | Medium — CVSS 4.7 | — | 57 | [hunt4p1zza](https://hackerone.com/hunt4p1zza) | 2021-05-14 |
 | 113 | [1767151](../reports/1767151.md) | DOM based XSS via insecure parameter on [ https://uberpay-mo | Medium — CVSS 6.1 | — | 39 | [zhero_](https://hackerone.com/zhero_) | 2023-03-23 |
@@ -128,8 +128,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 122 | [1496297](../reports/1496297.md) | Uber Test Report 20220301 | Medium — CVSS 4.2 | — | 22 | [johnzilla313](https://hackerone.com/johnzilla313) | 2022-03-03 |
 | 123 | [194594](../reports/194594.md) | IDOR on partners.uber.com allows for a driver to override ad | Medium | — | 21 | [indoappsec](https://hackerone.com/indoappsec) | 2018-12-19 |
 | 124 | [281344](../reports/281344.md) | No rate limiting on https://biz.uber.com/confirm allowed an  | Medium | — | 12 | [cablej](https://hackerone.com/cablej) | 2018-11-13 |
-| 125 | [204568](../reports/204568.md) | stack trace exposed on  https://receipts.uber.com/ | Medium | — | 8 | [mariogomez1](https://hackerone.com/mariogomez1) | 2021-02-25 |
-| 126 | [378558](../reports/378558.md) | Information Leak - GitHub - Endpoint Configuration Details | Medium | — | 8 | [p3t3r_r4bb1t](https://hackerone.com/p3t3r_r4bb1t) | 2018-08-27 |
+| 125 | [378558](../reports/378558.md) | Information Leak - GitHub - Endpoint Configuration Details | Medium | — | 8 | [p3t3r_r4bb1t](https://hackerone.com/p3t3r_r4bb1t) | 2018-08-27 |
+| 126 | [204568](../reports/204568.md) | stack trace exposed on  https://receipts.uber.com/ | Medium | — | 8 | [mariogomez1](https://hackerone.com/mariogomez1) | 2021-02-25 |
 | 127 | [298862](../reports/298862.md) | It's possible to view configuration and/or source code on uc | Medium | — | 7 | [gregoryvperry](https://hackerone.com/gregoryvperry) | 2017-12-26 |
 | 128 | [298990](../reports/298990.md) | Configuration and/or source code files on uchat-staging.uber | Medium | — | 6 | [gregoryvperry](https://hackerone.com/gregoryvperry) | 2017-12-26 |
 | 129 | [389078](../reports/389078.md) | [experience.uber.com] Node.js source code disclosure & anony | Medium | — | 5 | [molejarka](https://hackerone.com/molejarka) | 2021-02-23 |
@@ -160,86 +160,86 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 154 | [127087](../reports/127087.md) | Possible to View Driver Waybill via Driver UUID | None | — | 24 | [shmoo](https://hackerone.com/shmoo) | 2016-06-14 |
 | 155 | [149679](../reports/149679.md) | Subdomain takeover of translate.uber.com, de.uber.com and fr | None | — | 21 | [rojansec](https://hackerone.com/rojansec) | 2016-07-25 |
 | 156 | [216373](../reports/216373.md) | deleting payment profile during active trip puts account int | None | — | 20 | [temmyscript](https://hackerone.com/temmyscript) | 2017-06-28 |
-| 157 | [154762](../reports/154762.md) | Missing authorization checks leading to the exposure of uber | None | — | 15 | [issam_rabhi](https://hackerone.com/issam_rabhi) | 2016-08-15 |
-| 158 | [127161](../reports/127161.md) | Information regarding trips from other users | None | — | 15 | [maluko](https://hackerone.com/maluko) | 2016-07-12 |
+| 157 | [127161](../reports/127161.md) | Information regarding trips from other users | None | — | 15 | [maluko](https://hackerone.com/maluko) | 2016-07-12 |
+| 158 | [154762](../reports/154762.md) | Missing authorization checks leading to the exposure of uber | None | — | 15 | [issam_rabhi](https://hackerone.com/issam_rabhi) | 2016-08-15 |
 | 159 | [142946](../reports/142946.md) | xss vulnerability in http://ubermovement.com/community/danie | None | — | 14 | [netfuzzer](https://hackerone.com/netfuzzer) | 2016-07-21 |
-| 160 | [125118](../reports/125118.md) | Lack of CNAME/A Record Trimming Pointing Uber Domains to Ins | None | — | 13 | [jutsuce](https://hackerone.com/jutsuce) | 2016-07-13 |
-| 161 | [149483](../reports/149483.md) | Server version disclosure | None | — | 13 | [japz](https://hackerone.com/japz) | 2016-07-07 |
-| 162 | [231041](../reports/231041.md) | Session not expired When logout [partners.uber.com] | None | — | 12 | [hurthearts](https://hackerone.com/hurthearts) | 2017-05-26 |
-| 163 | [145150](../reports/145150.md) | Bulk UUID enumeration via invite codes | None | — | 12 | [vijay_kumar](https://hackerone.com/vijay_kumar) | 2016-09-08 |
+| 160 | [149483](../reports/149483.md) | Server version disclosure | None | — | 13 | [japz](https://hackerone.com/japz) | 2016-07-07 |
+| 161 | [125118](../reports/125118.md) | Lack of CNAME/A Record Trimming Pointing Uber Domains to Ins | None | — | 13 | [jutsuce](https://hackerone.com/jutsuce) | 2016-07-13 |
+| 162 | [145150](../reports/145150.md) | Bulk UUID enumeration via invite codes | None | — | 12 | [vijay_kumar](https://hackerone.com/vijay_kumar) | 2016-09-08 |
+| 163 | [231041](../reports/231041.md) | Session not expired When logout [partners.uber.com] | None | — | 12 | [hurthearts](https://hackerone.com/hurthearts) | 2017-05-26 |
 | 164 | [317388](../reports/317388.md) | Delay of arrears notification allows Riders to take multiple | None | — | 11 | [mandeepkapoor](https://hackerone.com/mandeepkapoor) | 2018-11-13 |
 | 165 | [165561](../reports/165561.md) | Physical Access to Mobile App Allows Local Attribute Updates | None | — | 10 | [jigarthakkar39](https://hackerone.com/jigarthakkar39) | 2018-12-19 |
 | 166 | [144877](../reports/144877.md) | Bruteforce INVITE codes easy way | None | — | 10 | [blinkms](https://hackerone.com/blinkms) | 2016-07-26 |
-| 167 | [1321830](../reports/1321830.md) | Google Maps API Key Leakage | None | — | 8 | [batman9](https://hackerone.com/batman9) | 2021-09-03 |
-| 168 | [153175](../reports/153175.md) | Can add employee in business.uber.com without add payment me | None | — | 8 | [severus](https://hackerone.com/severus) | 2016-07-26 |
-| 169 | [117190](../reports/117190.md) | Reflected XSS on Uber.com careers | None | — | 8 | [pavanw3b](https://hackerone.com/pavanw3b) | 2016-04-06 |
+| 167 | [117190](../reports/117190.md) | Reflected XSS on Uber.com careers | None | — | 8 | [pavanw3b](https://hackerone.com/pavanw3b) | 2016-04-06 |
+| 168 | [1321830](../reports/1321830.md) | Google Maps API Key Leakage | None | — | 8 | [batman9](https://hackerone.com/batman9) | 2021-09-03 |
+| 169 | [153175](../reports/153175.md) | Can add employee in business.uber.com without add payment me | None | — | 8 | [severus](https://hackerone.com/severus) | 2016-07-26 |
 | 170 | [168453](../reports/168453.md) | Users can falsely declare their own Uber account info on the | None | — | 7 | [rubyroobs](https://hackerone.com/rubyroobs) | 2016-10-20 |
-| 171 | [150375](../reports/150375.md) | newsroom.uber.com is vulnerable to 'SOME' XSS attack via plu | None | — | 6 | [jamesclyde](https://hackerone.com/jamesclyde) | 2016-08-22 |
-| 172 | [178503](../reports/178503.md) | ability to retrieve a user's phone-number/email for a given  | None | — | 6 | [voidexploit](https://hackerone.com/voidexploit) | 2017-05-17 |
+| 171 | [178503](../reports/178503.md) | ability to retrieve a user's phone-number/email for a given  | None | — | 6 | [voidexploit](https://hackerone.com/voidexploit) | 2017-05-17 |
+| 172 | [150375](../reports/150375.md) | newsroom.uber.com is vulnerable to 'SOME' XSS attack via plu | None | — | 6 | [jamesclyde](https://hackerone.com/jamesclyde) | 2016-08-22 |
 | 173 | [125503](../reports/125503.md) | Stored Cross Site Scripting [SELF] in partners.uber.com | None | — | 6 | [patrik](https://hackerone.com/patrik) | 2016-06-13 |
-| 174 | [131052](../reports/131052.md) | XSS in uber oauth | None | — | 5 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2016-07-26 |
-| 175 | [125059](../reports/125059.md) | Self-XSS Vulnerability on Password Reset Form | None | — | 5 | [idiablos](https://hackerone.com/idiablos) | 2016-06-13 |
-| 176 | [155685](../reports/155685.md) | Content injection on 404 error page at faspex.uber.com | None | — | 5 | [ak1t4](https://hackerone.com/ak1t4) | 2016-08-12 |
-| 177 | [195205](../reports/195205.md) | lert.uber.com: Few default folders/files of AURA Framework a | None | — | 5 | [filedescryptor](https://hackerone.com/filedescryptor) | 2018-12-19 |
-| 178 | [134206](../reports/134206.md) | Defect-Security | Driver-Broken Authentication | Able to upd | None | — | 5 | [sadhu16](https://hackerone.com/sadhu16) | 2016-07-26 |
-| 179 | [129712](../reports/129712.md) | reopen #128853 (Information disclosure at lite.uber.com) | None | — | 5 | [kusl](https://hackerone.com/kusl) | 2016-07-26 |
-| 180 | [127085](../reports/127085.md) | Use Partner/Driver App Without Being Activated | None | — | 5 | [shmoo](https://hackerone.com/shmoo) | 2016-06-14 |
-| 181 | [143291](../reports/143291.md) | Password Reset Does Not Confirm the Existence of an Email Ad | None | — | 5 | [err](https://hackerone.com/err) | 2016-06-07 |
-| 182 | [130440](../reports/130440.md) | Requested and received edit access to Google form | None | — | 5 | [siddiki](https://hackerone.com/siddiki) | 2016-07-26 |
-| 183 | [144803](../reports/144803.md) | Email Address Enumeration | None | — | 5 | [mefkan](https://hackerone.com/mefkan) | 2016-07-07 |
-| 184 | [146838](../reports/146838.md) | Authentication Issue for easter egg on bonjour.uber.com | None | — | 4 | [ddworken](https://hackerone.com/ddworken) | 2016-07-07 |
-| 185 | [131123](../reports/131123.md) | XSS via password recovering | None | — | 4 | [codequick](https://hackerone.com/codequick) | 2016-07-26 |
-| 186 | [125498](../reports/125498.md) | Dom Based Xss | None | — | 4 | [e3xpl0it](https://hackerone.com/e3xpl0it) | 2016-05-09 |
-| 187 | [129027](../reports/129027.md) | Disclosure of ways to the site root | None | — | 4 | [cyberunit](https://hackerone.com/cyberunit) | 2016-06-13 |
-| 188 | [135891](../reports/135891.md) | Missing authentication on Notification setting . | None | — | 4 | [vijay_kumar](https://hackerone.com/vijay_kumar) | 2016-07-26 |
-| 189 | [143076](../reports/143076.md) | Header Injection  | None | — | 4 | [mkap](https://hackerone.com/mkap) | 2016-07-08 |
-| 190 | [125068](../reports/125068.md) | LIsting of  http://archive.uber.com/pypi/simple/ | None | — | 4 | [bugme](https://hackerone.com/bugme) | 2016-03-24 |
-| 191 | [126235](../reports/126235.md) | text injection in get.uber.com/check-otp | None | — | 4 | [bugme](https://hackerone.com/bugme) | 2016-09-16 |
-| 192 | [136531](../reports/136531.md) | Compromising Atlassian Confluence (team.uberinternal.com) vi | None | — | 4 | [jouko](https://hackerone.com/jouko) | 2016-06-06 |
-| 193 | [141339](../reports/141339.md) | Uber is Flooding my Mobile with SMS Daily  like a cron JOB | None | — | 4 | [anish2good](https://hackerone.com/anish2good) | 2016-07-25 |
-| 194 | [125181](../reports/125181.md) | SQLi in love.uber.com | None | — | 4 | [laps-forever](https://hackerone.com/laps-forever) | 2016-04-25 |
+| 174 | [143291](../reports/143291.md) | Password Reset Does Not Confirm the Existence of an Email Ad | None | — | 5 | [err](https://hackerone.com/err) | 2016-06-07 |
+| 175 | [127085](../reports/127085.md) | Use Partner/Driver App Without Being Activated | None | — | 5 | [shmoo](https://hackerone.com/shmoo) | 2016-06-14 |
+| 176 | [130440](../reports/130440.md) | Requested and received edit access to Google form | None | — | 5 | [siddiki](https://hackerone.com/siddiki) | 2016-07-26 |
+| 177 | [125059](../reports/125059.md) | Self-XSS Vulnerability on Password Reset Form | None | — | 5 | [idiablos](https://hackerone.com/idiablos) | 2016-06-13 |
+| 178 | [155685](../reports/155685.md) | Content injection on 404 error page at faspex.uber.com | None | — | 5 | [ak1t4](https://hackerone.com/ak1t4) | 2016-08-12 |
+| 179 | [144803](../reports/144803.md) | Email Address Enumeration | None | — | 5 | [mefkan](https://hackerone.com/mefkan) | 2016-07-07 |
+| 180 | [195205](../reports/195205.md) | lert.uber.com: Few default folders/files of AURA Framework a | None | — | 5 | [filedescryptor](https://hackerone.com/filedescryptor) | 2018-12-19 |
+| 181 | [129712](../reports/129712.md) | reopen #128853 (Information disclosure at lite.uber.com) | None | — | 5 | [kusl](https://hackerone.com/kusl) | 2016-07-26 |
+| 182 | [131052](../reports/131052.md) | XSS in uber oauth | None | — | 5 | [zombiehelp54](https://hackerone.com/zombiehelp54) | 2016-07-26 |
+| 183 | [134206](../reports/134206.md) | Defect-Security | Driver-Broken Authentication | Able to upd | None | — | 5 | [sadhu16](https://hackerone.com/sadhu16) | 2016-07-26 |
+| 184 | [129027](../reports/129027.md) | Disclosure of ways to the site root | None | — | 4 | [cyberunit](https://hackerone.com/cyberunit) | 2016-06-13 |
+| 185 | [125498](../reports/125498.md) | Dom Based Xss | None | — | 4 | [e3xpl0it](https://hackerone.com/e3xpl0it) | 2016-05-09 |
+| 186 | [131123](../reports/131123.md) | XSS via password recovering | None | — | 4 | [codequick](https://hackerone.com/codequick) | 2016-07-26 |
+| 187 | [125068](../reports/125068.md) | LIsting of  http://archive.uber.com/pypi/simple/ | None | — | 4 | [bugme](https://hackerone.com/bugme) | 2016-03-24 |
+| 188 | [146838](../reports/146838.md) | Authentication Issue for easter egg on bonjour.uber.com | None | — | 4 | [ddworken](https://hackerone.com/ddworken) | 2016-07-07 |
+| 189 | [136531](../reports/136531.md) | Compromising Atlassian Confluence (team.uberinternal.com) vi | None | — | 4 | [jouko](https://hackerone.com/jouko) | 2016-06-06 |
+| 190 | [143076](../reports/143076.md) | Header Injection  | None | — | 4 | [mkap](https://hackerone.com/mkap) | 2016-07-08 |
+| 191 | [141339](../reports/141339.md) | Uber is Flooding my Mobile with SMS Daily  like a cron JOB | None | — | 4 | [anish2good](https://hackerone.com/anish2good) | 2016-07-25 |
+| 192 | [126235](../reports/126235.md) | text injection in get.uber.com/check-otp | None | — | 4 | [bugme](https://hackerone.com/bugme) | 2016-09-16 |
+| 193 | [125181](../reports/125181.md) | SQLi in love.uber.com | None | — | 4 | [laps-forever](https://hackerone.com/laps-forever) | 2016-04-25 |
+| 194 | [135891](../reports/135891.md) | Missing authentication on Notification setting . | None | — | 4 | [vijay_kumar](https://hackerone.com/vijay_kumar) | 2016-07-26 |
 | 195 | [140791](../reports/140791.md) | XSS in people.uber.com | None | — | 4 | [thezawad](https://hackerone.com/thezawad) | 2016-07-26 |
-| 196 | [144147](../reports/144147.md) | Newsroom.uber HTML form without CSRF protection | None | — | 3 | [mefkan](https://hackerone.com/mefkan) | 2016-07-07 |
-| 197 | [115209](../reports/115209.md) | Unauthorized file (invoice) download | None | — | 3 | [nsara](https://hackerone.com/nsara) | 2016-06-15 |
-| 198 | [130521](../reports/130521.md) | Unsubscribe any user from receiving email | None | — | 3 | [ashish_r_padelkar](https://hackerone.com/ashish_r_padelkar) | 2016-06-13 |
-| 199 | [133375](../reports/133375.md) | Information Disclosure on lite.uber.com | None | — | 3 | [kusl](https://hackerone.com/kusl) | 2016-07-07 |
-| 200 | [126364](../reports/126364.md) | Uber password reset link EMAIL FLOOD | None | — | 3 | [anish2good](https://hackerone.com/anish2good) | 2016-06-13 |
-| 201 | [153095](../reports/153095.md) | Text Only Content Spoofing on ubermovement.com Community Pag | None | — | 3 | [vivek-p](https://hackerone.com/vivek-p) | 2016-07-26 |
-| 202 | [143672](../reports/143672.md) | Email Enumeration Vulnerability | None | — | 3 | [hussein98d](https://hackerone.com/hussein98d) | 2016-07-07 |
-| 203 | [134521](../reports/134521.md) | Uber for Business Allows Administrators to Change Uber Drive | None | — | 3 | [ddworken](https://hackerone.com/ddworken) | 2016-07-26 |
-| 204 | [125130](../reports/125130.md) | HTML Escaping Error in the 404 Page on developer.uber.com/do | None | — | 3 | [ddworken](https://hackerone.com/ddworken) | 2016-04-06 |
-| 205 | [125984](../reports/125984.md) | CRLF Injection in developer.uber.com | None | — | 3 | [kirit1193](https://hackerone.com/kirit1193) | 2016-05-09 |
-| 206 | [138881](../reports/138881.md) | Phone Number Enumeration | None | — | 3 | [megocode3](https://hackerone.com/megocode3) | 2016-07-07 |
-| 207 | [125594](../reports/125594.md) | CSRF on eng.uber.com may lead to server-side compromise | None | — | 3 | [jouko](https://hackerone.com/jouko) | 2016-04-26 |
-| 208 | [125242](../reports/125242.md) | Create account in uber without signup form | None | — | 3 | [blueberryinfosec](https://hackerone.com/blueberryinfosec) | 2016-06-13 |
+| 196 | [143672](../reports/143672.md) | Email Enumeration Vulnerability | None | — | 3 | [hussein98d](https://hackerone.com/hussein98d) | 2016-07-07 |
+| 197 | [125242](../reports/125242.md) | Create account in uber without signup form | None | — | 3 | [blueberryinfosec](https://hackerone.com/blueberryinfosec) | 2016-06-13 |
+| 198 | [144147](../reports/144147.md) | Newsroom.uber HTML form without CSRF protection | None | — | 3 | [mefkan](https://hackerone.com/mefkan) | 2016-07-07 |
+| 199 | [125984](../reports/125984.md) | CRLF Injection in developer.uber.com | None | — | 3 | [kirit1193](https://hackerone.com/kirit1193) | 2016-05-09 |
+| 200 | [130521](../reports/130521.md) | Unsubscribe any user from receiving email | None | — | 3 | [ashish_r_padelkar](https://hackerone.com/ashish_r_padelkar) | 2016-06-13 |
+| 201 | [125130](../reports/125130.md) | HTML Escaping Error in the 404 Page on developer.uber.com/do | None | — | 3 | [ddworken](https://hackerone.com/ddworken) | 2016-04-06 |
+| 202 | [134521](../reports/134521.md) | Uber for Business Allows Administrators to Change Uber Drive | None | — | 3 | [ddworken](https://hackerone.com/ddworken) | 2016-07-26 |
+| 203 | [138881](../reports/138881.md) | Phone Number Enumeration | None | — | 3 | [megocode3](https://hackerone.com/megocode3) | 2016-07-07 |
+| 204 | [133375](../reports/133375.md) | Information Disclosure on lite.uber.com | None | — | 3 | [kusl](https://hackerone.com/kusl) | 2016-07-07 |
+| 205 | [125594](../reports/125594.md) | CSRF on eng.uber.com may lead to server-side compromise | None | — | 3 | [jouko](https://hackerone.com/jouko) | 2016-04-26 |
+| 206 | [153095](../reports/153095.md) | Text Only Content Spoofing on ubermovement.com Community Pag | None | — | 3 | [vivek-p](https://hackerone.com/vivek-p) | 2016-07-26 |
+| 207 | [115209](../reports/115209.md) | Unauthorized file (invoice) download | None | — | 3 | [nsara](https://hackerone.com/nsara) | 2016-06-15 |
+| 208 | [126364](../reports/126364.md) | Uber password reset link EMAIL FLOOD | None | — | 3 | [anish2good](https://hackerone.com/anish2good) | 2016-06-13 |
 | 209 | [155578](../reports/155578.md) | User Enumeration and Information Disclosure | None | — | 2 | [pl_bounty](https://hackerone.com/pl_bounty) | 2016-08-12 |
-| 210 | [124975](../reports/124975.md) | Cross-site Scripting (XSS) autocomplete generation in https: | None | — | 2 | [exodia_forbidden_one](https://hackerone.com/exodia_forbidden_one) | 2016-03-24 |
-| 211 | [122791](../reports/122791.md) | Active Email Hyperlink Sent on riders.uber.com | None | — | 2 | [rohk](https://hackerone.com/rohk) | 2016-06-13 |
-| 212 | [126835](../reports/126835.md) | It is possible to re-rate a driver after a very long time  | None | — | 2 | [told_snider](https://hackerone.com/told_snider) | 2016-04-25 |
-| 213 | [146327](../reports/146327.md) | Server version disclosure: team.uberinternal.com | None | — | 2 | [benoculars](https://hackerone.com/benoculars) | 2016-07-07 |
-| 214 | [128895](../reports/128895.md) | User credentials are not strong on vault.uber.com | None | — | 2 | [bugs3ra](https://hackerone.com/bugs3ra) | 2016-07-26 |
-| 215 | [128723](../reports/128723.md) | Enumerating userIDs with phone numbers | None | — | 2 | [r0t1v](https://hackerone.com/r0t1v) | 2016-06-11 |
-| 216 | [146847](../reports/146847.md) | faspex.uber.com uses an invalid SSL certificate | None | — | 2 | [ddworken](https://hackerone.com/ddworken) | 2016-07-07 |
-| 217 | [126569](../reports/126569.md) | Disclosure of ip addresses in local network of uber | None | — | 2 | [laps-forever](https://hackerone.com/laps-forever) | 2016-06-13 |
-| 218 | [128853](../reports/128853.md) | Information disclosure at lite.uber.com | None | — | 2 | [kusl](https://hackerone.com/kusl) | 2016-06-13 |
-| 219 | [125634](../reports/125634.md) | Session retention is present which reveals the customer info | None | — | 2 | [blueberryinfosec](https://hackerone.com/blueberryinfosec) | 2016-05-09 |
-| 220 | [126826](../reports/126826.md) | Pixel flood attack in https://riders.uber.com/profile | None | — | 2 | [pwder](https://hackerone.com/pwder) | 2016-04-25 |
-| 221 | [127645](../reports/127645.md) | Session Impersonation in riders.uber.com | None | — | 2 | [durga](https://hackerone.com/durga) | 2016-06-13 |
-| 222 | [126260](../reports/126260.md) | Privilege escalation to allow non activated users to login a | None | — | 1 | [mini](https://hackerone.com/mini) | 2016-06-13 |
-| 223 | [137152](../reports/137152.md) | Clickjacking in love.uber.com | None | — | 1 | [mkap](https://hackerone.com/mkap) | 2016-07-07 |
-| 224 | [125624](../reports/125624.md) | Brute Force Amplification Attack | None | — | 1 | [enmach](https://hackerone.com/enmach) | 2016-08-12 |
-| 225 | [298888](../reports/298888.md) | Design Issue at riders.uber.com/profile | None | — | 1 | [referrer](https://hackerone.com/referrer) | 2017-12-28 |
-| 226 | [126377](../reports/126377.md) | Changing Driver Passwords With Only an Authenticated Session | None | — | 1 | [ddworken](https://hackerone.com/ddworken) | 2016-06-13 |
-| 227 | [145289](../reports/145289.md) | Self-XSS in Partners Profile | None | — | 1 | [s0nk3y](https://hackerone.com/s0nk3y) | 2016-07-07 |
-| 228 | [126049](../reports/126049.md) | Cross-site Scripting (XSS) | None | — | 1 | [djadmin](https://hackerone.com/djadmin) | 2016-05-06 |
-| 229 | [125179](../reports/125179.md) | XSS on love.uber.com | None | — | 1 | [laps-forever](https://hackerone.com/laps-forever) | 2016-05-09 |
-| 230 | [130136](../reports/130136.md) | developer.uber.com/404 and developer.uber.com/docs/404 are s | None | — | 1 | [jreynoldsdev](https://hackerone.com/jreynoldsdev) | 2016-06-13 |
-| 231 | [134124](../reports/134124.md) | Stored self-XSS at m.uber.com | None | — | 1 | [skavans](https://hackerone.com/skavans) | 2016-07-08 |
-| 232 | [139875](../reports/139875.md) | DOM based XSS on | None | — | 1 | [blackzero](https://hackerone.com/blackzero) | 2016-05-26 |
-| 233 | [126374](../reports/126374.md) | Uploading Plain Text to uber-documents.s3.amazonaws.com Thro | None | — | 1 | [ddworken](https://hackerone.com/ddworken) | 2016-06-13 |
-| 234 | [146735](../reports/146735.md) | Command Injection, Information  | None | — | 1 | [khiladibayal](https://hackerone.com/khiladibayal) | 2016-07-07 |
-| 235 | [126536](../reports/126536.md) | SMS Flood with Update Profile  | None | — | 1 | [anish2good](https://hackerone.com/anish2good) | 2016-06-13 |
-| 236 | [127025](../reports/127025.md) | Brute Forcing rider-view Endpoint Allows for Counting Number | None | — | 1 | [ddworken](https://hackerone.com/ddworken) | 2016-06-13 |
-| 237 | [138622](../reports/138622.md) | Self-XSS on partners.uber.com | None | — | 1 | [cyber__sec](https://hackerone.com/cyber__sec) | 2016-07-26 |
-| 238 | [145893](../reports/145893.md) | Error Message on 404 page | None | — | 1 | [top](https://hackerone.com/top) | 2016-07-07 |
-| 239 | [131560](../reports/131560.md) | CrashPlan Backup is Vulnerable Allowing to a DoS Attack Agai | None | — | 1 | [ddworken](https://hackerone.com/ddworken) | 2016-05-09 |
+| 210 | [128723](../reports/128723.md) | Enumerating userIDs with phone numbers | None | — | 2 | [r0t1v](https://hackerone.com/r0t1v) | 2016-06-11 |
+| 211 | [126835](../reports/126835.md) | It is possible to re-rate a driver after a very long time  | None | — | 2 | [told_snider](https://hackerone.com/told_snider) | 2016-04-25 |
+| 212 | [146327](../reports/146327.md) | Server version disclosure: team.uberinternal.com | None | — | 2 | [benoculars](https://hackerone.com/benoculars) | 2016-07-07 |
+| 213 | [122791](../reports/122791.md) | Active Email Hyperlink Sent on riders.uber.com | None | — | 2 | [rohk](https://hackerone.com/rohk) | 2016-06-13 |
+| 214 | [146847](../reports/146847.md) | faspex.uber.com uses an invalid SSL certificate | None | — | 2 | [ddworken](https://hackerone.com/ddworken) | 2016-07-07 |
+| 215 | [125634](../reports/125634.md) | Session retention is present which reveals the customer info | None | — | 2 | [blueberryinfosec](https://hackerone.com/blueberryinfosec) | 2016-05-09 |
+| 216 | [127645](../reports/127645.md) | Session Impersonation in riders.uber.com | None | — | 2 | [durga](https://hackerone.com/durga) | 2016-06-13 |
+| 217 | [126826](../reports/126826.md) | Pixel flood attack in https://riders.uber.com/profile | None | — | 2 | [pwder](https://hackerone.com/pwder) | 2016-04-25 |
+| 218 | [124975](../reports/124975.md) | Cross-site Scripting (XSS) autocomplete generation in https: | None | — | 2 | [exodia_forbidden_one](https://hackerone.com/exodia_forbidden_one) | 2016-03-24 |
+| 219 | [126569](../reports/126569.md) | Disclosure of ip addresses in local network of uber | None | — | 2 | [laps-forever](https://hackerone.com/laps-forever) | 2016-06-13 |
+| 220 | [128853](../reports/128853.md) | Information disclosure at lite.uber.com | None | — | 2 | [kusl](https://hackerone.com/kusl) | 2016-06-13 |
+| 221 | [128895](../reports/128895.md) | User credentials are not strong on vault.uber.com | None | — | 2 | [bugs3ra](https://hackerone.com/bugs3ra) | 2016-07-26 |
+| 222 | [146735](../reports/146735.md) | Command Injection, Information  | None | — | 1 | [khiladibayal](https://hackerone.com/khiladibayal) | 2016-07-07 |
+| 223 | [126374](../reports/126374.md) | Uploading Plain Text to uber-documents.s3.amazonaws.com Thro | None | — | 1 | [ddworken](https://hackerone.com/ddworken) | 2016-06-13 |
+| 224 | [139875](../reports/139875.md) | DOM based XSS on | None | — | 1 | [blackzero](https://hackerone.com/blackzero) | 2016-05-26 |
+| 225 | [126536](../reports/126536.md) | SMS Flood with Update Profile  | None | — | 1 | [anish2good](https://hackerone.com/anish2good) | 2016-06-13 |
+| 226 | [134124](../reports/134124.md) | Stored self-XSS at m.uber.com | None | — | 1 | [skavans](https://hackerone.com/skavans) | 2016-07-08 |
+| 227 | [125624](../reports/125624.md) | Brute Force Amplification Attack | None | — | 1 | [enmach](https://hackerone.com/enmach) | 2016-08-12 |
+| 228 | [126260](../reports/126260.md) | Privilege escalation to allow non activated users to login a | None | — | 1 | [mini](https://hackerone.com/mini) | 2016-06-13 |
+| 229 | [127025](../reports/127025.md) | Brute Forcing rider-view Endpoint Allows for Counting Number | None | — | 1 | [ddworken](https://hackerone.com/ddworken) | 2016-06-13 |
+| 230 | [138622](../reports/138622.md) | Self-XSS on partners.uber.com | None | — | 1 | [cyber__sec](https://hackerone.com/cyber__sec) | 2016-07-26 |
+| 231 | [131560](../reports/131560.md) | CrashPlan Backup is Vulnerable Allowing to a DoS Attack Agai | None | — | 1 | [ddworken](https://hackerone.com/ddworken) | 2016-05-09 |
+| 232 | [125179](../reports/125179.md) | XSS on love.uber.com | None | — | 1 | [laps-forever](https://hackerone.com/laps-forever) | 2016-05-09 |
+| 233 | [145289](../reports/145289.md) | Self-XSS in Partners Profile | None | — | 1 | [s0nk3y](https://hackerone.com/s0nk3y) | 2016-07-07 |
+| 234 | [298888](../reports/298888.md) | Design Issue at riders.uber.com/profile | None | — | 1 | [referrer](https://hackerone.com/referrer) | 2017-12-28 |
+| 235 | [145893](../reports/145893.md) | Error Message on 404 page | None | — | 1 | [top](https://hackerone.com/top) | 2016-07-07 |
+| 236 | [130136](../reports/130136.md) | developer.uber.com/404 and developer.uber.com/docs/404 are s | None | — | 1 | [jreynoldsdev](https://hackerone.com/jreynoldsdev) | 2016-06-13 |
+| 237 | [126377](../reports/126377.md) | Changing Driver Passwords With Only an Authenticated Session | None | — | 1 | [ddworken](https://hackerone.com/ddworken) | 2016-06-13 |
+| 238 | [126049](../reports/126049.md) | Cross-site Scripting (XSS) | None | — | 1 | [djadmin](https://hackerone.com/djadmin) | 2016-05-06 |
+| 239 | [137152](../reports/137152.md) | Clickjacking in love.uber.com | None | — | 1 | [mkap](https://hackerone.com/mkap) | 2016-07-07 |

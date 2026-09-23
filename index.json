@@ -186249,7 +186249,7 @@
   {
     "id": 1534465,
     "url": "https://hackerone.com/reports/1534465",
-    "title": "Ticket Trick Attack allows access to Rockstar Games' workspaces",
+    "title": "Ticket Trick Attack allows access to \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588' workspaces",
     "visibility": "full",
     "program": "Rockstar Games",
     "program_handle": "rockstargames",
@@ -186263,7 +186263,7 @@
     "asset_type": "URL",
     "reported_at": "2022-04-07",
     "disclosed_at": "2026-09-01T19:03:44.704Z",
-    "votes": 13
+    "votes": 56
   },
   {
     "id": 1534636,
@@ -234274,13 +234274,13 @@
     "severity": "medium",
     "cvss": 4.2,
     "weakness": "Improper Access Control - Generic",
-    "bounty": null,
+    "bounty": 150.0,
     "cve_ids": [],
     "substate": "resolved",
     "asset_type": "SOURCE_CODE",
     "reported_at": "2026-02-25",
     "disclosed_at": "2026-05-21T22:12:59.741Z",
-    "votes": 4
+    "votes": 86
   },
   {
     "id": 3574928,
@@ -234975,7 +234975,7 @@
     "severity": "medium",
     "cvss": 4.3,
     "weakness": "Improper Access Control - Generic",
-    "bounty": null,
+    "bounty": 200.0,
     "cve_ids": [
       "CVE-2026-77170"
     ],
@@ -234983,7 +234983,7 @@
     "asset_type": "SOURCE_CODE",
     "reported_at": "2026-03-12",
     "disclosed_at": "2026-09-17T10:20:08.469Z",
-    "votes": 3
+    "votes": 28
   },
   {
     "id": 3599470,
@@ -235186,7 +235186,7 @@
     "severity": "medium",
     "cvss": 4.3,
     "weakness": "Business Logic Errors",
-    "bounty": null,
+    "bounty": 150.0,
     "cve_ids": [
       "CVE-2026-82982"
     ],
@@ -235194,7 +235194,7 @@
     "asset_type": "SOURCE_CODE",
     "reported_at": "2026-03-17",
     "disclosed_at": "2026-09-17T10:34:47.683Z",
-    "votes": 5
+    "votes": 20
   },
   {
     "id": 3611825,
@@ -235287,7 +235287,7 @@
     "severity": "medium",
     "cvss": 4.3,
     "weakness": "Privacy Violation",
-    "bounty": null,
+    "bounty": 250.0,
     "cve_ids": [
       "CVE-2026-61545"
     ],
@@ -235295,7 +235295,7 @@
     "asset_type": "SOURCE_CODE",
     "reported_at": "2026-03-20",
     "disclosed_at": "2026-09-04T20:38:01.400Z",
-    "votes": 4
+    "votes": 41
   },
   {
     "id": 3618831,
@@ -235578,7 +235578,7 @@
     "severity": "medium",
     "cvss": 4.6,
     "weakness": "Improper Authentication - Generic",
-    "bounty": null,
+    "bounty": 150.0,
     "cve_ids": [
       "CVE-2026-45153"
     ],
@@ -235586,7 +235586,7 @@
     "asset_type": "SOURCE_CODE",
     "reported_at": "2026-03-24",
     "disclosed_at": "2026-06-07T08:14:49.847Z",
-    "votes": 3
+    "votes": 32
   },
   {
     "id": 3625600,
