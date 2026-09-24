@@ -1,4 +1,4 @@
-# Asset Type: Other (6468 reports)
+# Asset Type: Other (6469 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -6463,12 +6463,13 @@
 | 6457 | [112304](../reports/112304.md) | owncloud.help: Text  Injection | [ownCloud](../by-program/owncloud.md) | — | None | — | 0 |
 | 6458 | [161935](../reports/161935.md) | Usernames ending in .json are not restricted | [Gratipay](../by-program/gratipay.md) | — | None | — | 0 |
 | 6459 | [104033](../reports/104033.md) | tokenizer crash when processing undecodable source code | [Internet Bug Bounty](../by-program/ibb.md) | Python (Legacy) | None | — | 0 |
-| 6460 | [166231](../reports/166231.md) | CSRF Issue | [Legal Robot](../by-program/legalrobot.md) | — | None | — | 0 |
-| 6461 | [269047](../reports/269047.md) | Clickjacking https://blockstack.org/ | [Hiro](../by-program/hiro.md) | — | None | — | 0 |
-| 6462 | [108692](../reports/108692.md) | Mixed Active Scripting Issue on stats.owncloud.org | [ownCloud](../by-program/owncloud.md) | — | None | — | 0 |
-| 6463 | [107849](../reports/107849.md) | [https://test1.owncloud.com/owncloud6/] Guessable passw | [ownCloud](../by-program/owncloud.md) | — | None | — | 0 |
-| 6464 | [216336](../reports/216336.md) | Source Code Disclosure | [Urban Dictionary](../by-program/urbandictionary.md) | — | None | — | 0 |
-| 6465 | [103989](../reports/103989.md) | Escaping the iframe via exceptions | [Khan Academy](../by-program/khanacademy.md) | — | None | — | 0 |
-| 6466 | [106315](../reports/106315.md) | Potential for Double Spend via Sign Message Utility | [Coinbase](../by-program/coinbase.md) | — | None | — | 0 |
-| 6467 | [117818](../reports/117818.md) | MISSING SPF RECORDS & MISSING DKIM POLICY | [LeaseWeb](../by-program/leaseweb.md) | — | None | — | 0 |
-| 6468 | [116512](../reports/116512.md) | Markdown parsing issue enables insertion of malicious t | [Gratipay](../by-program/gratipay.md) | — | None | — | 0 |
+| 6460 | [4040799](../reports/4040799.md) | Windows filename sanitizer misses Unicode COM/LPT reser | [curl](../by-program/curl.md) | — | None | — | 0 |
+| 6461 | [166231](../reports/166231.md) | CSRF Issue | [Legal Robot](../by-program/legalrobot.md) | — | None | — | 0 |
+| 6462 | [269047](../reports/269047.md) | Clickjacking https://blockstack.org/ | [Hiro](../by-program/hiro.md) | — | None | — | 0 |
+| 6463 | [108692](../reports/108692.md) | Mixed Active Scripting Issue on stats.owncloud.org | [ownCloud](../by-program/owncloud.md) | — | None | — | 0 |
+| 6464 | [107849](../reports/107849.md) | [https://test1.owncloud.com/owncloud6/] Guessable passw | [ownCloud](../by-program/owncloud.md) | — | None | — | 0 |
+| 6465 | [216336](../reports/216336.md) | Source Code Disclosure | [Urban Dictionary](../by-program/urbandictionary.md) | — | None | — | 0 |
+| 6466 | [103989](../reports/103989.md) | Escaping the iframe via exceptions | [Khan Academy](../by-program/khanacademy.md) | — | None | — | 0 |
+| 6467 | [106315](../reports/106315.md) | Potential for Double Spend via Sign Message Utility | [Coinbase](../by-program/coinbase.md) | — | None | — | 0 |
+| 6468 | [117818](../reports/117818.md) | MISSING SPF RECORDS & MISSING DKIM POLICY | [LeaseWeb](../by-program/leaseweb.md) | — | None | — | 0 |
+| 6469 | [116512](../reports/116512.md) | Markdown parsing issue enables insertion of malicious t | [Gratipay](../by-program/gratipay.md) | — | None | — | 0 |

@@ -1,4 +1,4 @@
-# curl — Disclosed Reports (585 total)
+# curl — Disclosed Reports (586 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -586,6 +586,7 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 580 | [4021960](../reports/4021960.md) | TELNET control and environment data bypass HTTPS-proxy TLS | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-19 |
 | 581 | [3972395](../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-03 |
 | 582 | [812969](../reports/812969.md) | curl still vulnerable to SMB access smuggling via FILE URL o | None | — | 0 | [tsedlmeyer](https://hackerone.com/tsedlmeyer) | 2021-01-08 |
-| 583 | [3972338](../reports/3972338.md) | 12: SASL DIGEST-MD5 does not validate the server's `rspauth` | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-10 |
-| 584 | [3973245](../reports/3973245.md) | 55: Heap-buffer-overflow read in `curl_formadd_ccsid()` with | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-10 |
-| 585 | [3971538](../reports/3971538.md) | 27: IMAP custom FETCH listing classification skips literal b | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-10 |
+| 583 | [4040799](../reports/4040799.md) | Windows filename sanitizer misses Unicode COM/LPT reserved d | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-24 |
+| 584 | [3972338](../reports/3972338.md) | 12: SASL DIGEST-MD5 does not validate the server's `rspauth` | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-10 |
+| 585 | [3973245](../reports/3973245.md) | 55: Heap-buffer-overflow read in `curl_formadd_ccsid()` with | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-10 |
+| 586 | [3971538](../reports/3971538.md) | 27: IMAP custom FETCH listing classification skips literal b | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-10 |

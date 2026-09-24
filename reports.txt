@@ -12397,6 +12397,7 @@ https://hackerone.com/reports/3976342 | IMAP connection reuse runs requests in t
 https://hackerone.com/reports/3993850 | Apple SecTrust fallback ignores CURLOPT_CRLFILE, letting a revoked cert pass
 https://hackerone.com/reports/3993973 | HTTP Digest nonce reused across an https→http scheme change on the same handle
 https://hackerone.com/reports/3994016 | Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body inject arbitrary Markdown
+https://hackerone.com/reports/4000185 | HackerOne Code sends live password-reset tokens to Segment in automatic page events
 https://hackerone.com/reports/4016541 | TLS session resumption client cert bypass with CURLOPT_SSL_CTX_FUNCTION
 https://hackerone.com/reports/4020767 | Unauthenticated API allows reading, writing to and deleting any user's private chat history on ████████
 https://hackerone.com/reports/4021952 | Socket API drops expired timeouts for transfers queued behind a connection limit
@@ -12406,3 +12407,4 @@ https://hackerone.com/reports/4024268 | Out-of-bounds read in curl_formadd when 
 https://hackerone.com/reports/4025056 | HTTP/1.1 response framing violation and unsafe connection reuse when transfer decoding is disabled
 https://hackerone.com/reports/4027511 | Encoded slash traversal in the IPFS/IPNS URL rewrite escapes the configured gateway namespace
 https://hackerone.com/reports/4033971 | Use-after-free of the internal multi->admin easy handle via the documented CURLMOPT_NOTIFYFUNCTION callback
+https://hackerone.com/reports/4040799 | Windows filename sanitizer misses Unicode COM/LPT reserved device names

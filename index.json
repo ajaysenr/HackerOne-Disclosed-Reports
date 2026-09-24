@@ -242280,6 +242280,25 @@
     "votes": 3
   },
   {
+    "id": 4000185,
+    "url": "https://hackerone.com/reports/4000185",
+    "title": "HackerOne Code sends live password-reset tokens to Segment in automatic page events",
+    "visibility": "full",
+    "program": "HackerOne",
+    "program_handle": "security",
+    "reporter": "1rhino2",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Insufficiently Protected Credentials",
+    "bounty": 200.0,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-09-05",
+    "disclosed_at": "2026-09-24T11:29:38.033Z",
+    "votes": 13
+  },
+  {
     "id": 4016541,
     "url": "https://hackerone.com/reports/4016541",
     "title": "TLS session resumption client cert bypass with CURLOPT_SSL_CTX_FUNCTION",
@@ -242452,6 +242471,25 @@
     "asset_type": "SOURCE_CODE",
     "reported_at": "2026-09-16",
     "disclosed_at": "2026-09-19T08:36:27.510Z",
+    "votes": 0
+  },
+  {
+    "id": 4040799,
+    "url": "https://hackerone.com/reports/4040799",
+    "title": "Windows filename sanitizer misses Unicode COM/LPT reserved device names",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": "none",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": null,
+    "reported_at": "2026-09-18",
+    "disclosed_at": "2026-09-24T14:02:27.181Z",
     "votes": 0
   }
 ]
