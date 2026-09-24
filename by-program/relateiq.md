@@ -13,10 +13,10 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 7 | [3441](../reports/3441.md) | Captcha Bypass With Extension | None | — | 4 | [robin](https://hackerone.com/robin) | 2014-04-20 |
 | 8 | [31415](../reports/31415.md) | PoodleBleed | None | — | 4 | [mtk](https://hackerone.com/mtk) | 2015-08-13 |
 | 9 | [10186](../reports/10186.md) | Old Sessions remain valid after the password change. | None | — | 3 | [siddiki](https://hackerone.com/siddiki) | 2014-06-11 |
-| 10 | [30852](../reports/30852.md) | Relateiq SSLv3 deprecated protocol vulnerability. | None | — | 3 | [hasanemrebeyy](https://hackerone.com/hasanemrebeyy) | 2014-12-24 |
-| 11 | [16571](../reports/16571.md) | SSRF (Portscan) via Register Function (Custom Server) | None | — | 3 | [pum](https://hackerone.com/pum) | 2014-07-26 |
+| 10 | [3432](../reports/3432.md) | RelateIQ GWT based application visible to unauthenticated us | None | — | 3 | [anshuman_bh](https://hackerone.com/anshuman_bh) | 2014-04-11 |
+| 11 | [30852](../reports/30852.md) | Relateiq SSLv3 deprecated protocol vulnerability. | None | — | 3 | [hasanemrebeyy](https://hackerone.com/hasanemrebeyy) | 2014-12-24 |
 | 12 | [16568](../reports/16568.md) | Failed Certificate Validation On Custom Server (Register) | None | — | 3 | [pum](https://hackerone.com/pum) | 2014-08-25 |
-| 13 | [3432](../reports/3432.md) | RelateIQ GWT based application visible to unauthenticated us | None | — | 3 | [anshuman_bh](https://hackerone.com/anshuman_bh) | 2014-04-11 |
+| 13 | [16571](../reports/16571.md) | SSRF (Portscan) via Register Function (Custom Server) | None | — | 3 | [pum](https://hackerone.com/pum) | 2014-07-26 |
 | 14 | [20049](../reports/20049.md) | Cross-site Scripting in mailing (username) | None | — | 2 | [melvin](https://hackerone.com/melvin) | 2014-12-27 |
 | 15 | [2427](../reports/2427.md) | XSRF token problem | None | — | 1 | [shahmeer-amir](https://hackerone.com/shahmeer-amir) | 2014-04-20 |
 | 16 | [2414](../reports/2414.md) | open redirect | None | — | 1 | [niks](https://hackerone.com/niks) | 2014-05-19 |

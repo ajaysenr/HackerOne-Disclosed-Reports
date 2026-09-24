@@ -21,8 +21,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 15 | [2332551](../reports/2332551.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 61 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
 | 16 | [2329466](../reports/2329466.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 61 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-13 |
 | 17 | [2197796](../reports/2197796.md) | GHES Management console EoP (editor to site admin) | High | — | 56 | [imrerad](https://hackerone.com/imrerad) | 2024-01-08 |
-| 18 | [2323292](../reports/2323292.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 47 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
-| 19 | [2329547](../reports/2329547.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 47 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
+| 18 | [2329547](../reports/2329547.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 47 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
+| 19 | [2323292](../reports/2323292.md) | Management Console Editor Privilege Escalation to Root SSH A | High | — | 47 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-09-17 |
 | 20 | [3588801](../reports/3588801.md) | OAuth redirect uri validation bypass for :proxima_first_part | High | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-07-21 |
 | 21 | [3638909](../reports/3638909.md) | GitHub scoped user to server tokens can escape their install | High | — | 4 | [ahacker1](https://hackerone.com/ahacker1) | 2026-07-29 |
 | 22 | [2501036](../reports/2501036.md) | Access body and title of Internal Repo Issues in Projects | Medium | — | 99 | [ahacker1](https://hackerone.com/ahacker1) | 2024-07-31 |
@@ -32,8 +32,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 26 | [2469713](../reports/2469713.md) | View private repository NWO of deploy key via internal LFS A | Medium | — | 68 | [ahacker1](https://hackerone.com/ahacker1) | 2024-07-23 |
 | 27 | [3527771](../reports/3527771.md) | Add labels to arbitrary issues/prs & compromise github actio | Medium | — | 66 | [ahacker1](https://hackerone.com/ahacker1) | 2026-03-19 |
 | 28 | [2210179](../reports/2210179.md) | View Repo and Title of Any Private Check Run | Medium | — | 64 | [ahacker1](https://hackerone.com/ahacker1) | 2024-01-08 |
-| 29 | [3522254](../reports/3522254.md) | PATs without the required scope can leak issues | Medium | — | 57 | [s3rdz0](https://hackerone.com/s3rdz0) | 2026-03-19 |
-| 30 | [2190827](../reports/2190827.md) | Bypassing Collaborator Restrictions: Retaining Admin Access  | Medium | — | 57 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-03-15 |
+| 29 | [2190827](../reports/2190827.md) | Bypassing Collaborator Restrictions: Retaining Admin Access  | Medium | — | 57 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-03-15 |
+| 30 | [3522254](../reports/3522254.md) | PATs without the required scope can leak issues | Medium | — | 57 | [s3rdz0](https://hackerone.com/s3rdz0) | 2026-03-19 |
 | 31 | [1690427](../reports/1690427.md) | Managing Pages  | Medium | — | 54 | [ali_shehab](https://hackerone.com/ali_shehab) | 2022-12-22 |
 | 32 | [2185545](../reports/2185545.md) | Persistent Unauthorized Administrative Access on All Organiz | Medium | — | 51 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-03-15 |
 | 33 | [2216036](../reports/2216036.md) | RC Between GitHub's Repo Transfer REST API and updateTeamsRe | Medium | — | 50 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2024-01-12 |
@@ -45,9 +45,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 39 | [1762025](../reports/1762025.md) | Improper handling of null bytes in GitHub Actions Runner all | Medium | — | 19 | [ryotak](https://hackerone.com/ryotak) | 2023-03-09 |
 | 40 | [1593913](../reports/1593913.md) | [Git Gud] GitHub.com Svnbridge memcached deserialization vul | Medium | — | 14 | [ajxchapman](https://hackerone.com/ajxchapman) | 2022-11-16 |
 | 41 | [3641229](../reports/3641229.md) | GitHub user to server tokens can create issues in any public | Medium | — | 8 | [ahacker1](https://hackerone.com/ahacker1) | 2026-07-22 |
-| 42 | [3713965](../reports/3713965.md) | Able to bypass authorization logic and gain more access then | Medium | — | 7 | [vaib25vicky](https://hackerone.com/vaib25vicky) | 2026-07-15 |
-| 43 | [3560256](../reports/3560256.md) | Cross-repository IDOR in `/settings/security_analysis/bypass | Medium | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-05-19 |
-| 44 | [3527788](../reports/3527788.md) | Add labels to arbitrary issues/prs via Memex Bulk Update to  | Medium | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-08-25 |
+| 42 | [3560256](../reports/3560256.md) | Cross-repository IDOR in `/settings/security_analysis/bypass | Medium | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-05-19 |
+| 43 | [3527788](../reports/3527788.md) | Add labels to arbitrary issues/prs via Memex Bulk Update to  | Medium | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-08-25 |
+| 44 | [3713965](../reports/3713965.md) | Able to bypass authorization logic and gain more access then | Medium | — | 7 | [vaib25vicky](https://hackerone.com/vaib25vicky) | 2026-07-15 |
 | 45 | [2383092](../reports/2383092.md) | Source Code and data exfiltration via Github Copilot | Low | — | 63 | [astrounder](https://hackerone.com/astrounder) | 2024-08-19 |
 | 46 | [1831528](../reports/1831528.md) | Rogue collaborators and ambiguous branch names in GitHub | None | — | 42 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2023-12-05 |
 | 47 | [3290630](../reports/3290630.md) | Sample report: Denial of service  | None | — | 33 | [ghbountyocto](https://hackerone.com/ghbountyocto) | 2025-08-07 |

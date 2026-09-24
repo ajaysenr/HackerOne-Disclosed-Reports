@@ -46,8 +46,8 @@
 | 40 | [2286764](../reports/2286764.md) | Avatar URL is exposed in patron export for secret donations | [Liberapay](../by-program/liberapay.md) | Medium — CVSS 4.3 | — | 47 |
 | 41 | [1245741](../reports/1245741.md) | Friend Request Flow Exposes User Data  | [Zenly](../by-program/zenly.md) | Medium — CVSS 5.3 | — | 19 |
 | 42 | [1706248](../reports/1706248.md) | Guests can continue to receive video streams from call after bein | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.6 | — | 15 |
-| 43 | [508490](../reports/508490.md) | Nextcloud domain and name of every user leaked to lookup server | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.8 | — | 14 |
-| 44 | [1091957](../reports/1091957.md) | Very long names on demo.openmage.org could redirect victim users  | [OpenMage](../by-program/openmage.md) | Medium | — | 14 |
+| 43 | [1091957](../reports/1091957.md) | Very long names on demo.openmage.org could redirect victim users  | [OpenMage](../by-program/openmage.md) | Medium | — | 14 |
+| 44 | [508490](../reports/508490.md) | Nextcloud domain and name of every user leaked to lookup server | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.8 | — | 14 |
 | 45 | [304770](../reports/304770.md) | Corrupt RPC responses from remote daemon nodes can lead to transa | [Monero](../by-program/monero.md) | Medium | — | 13 |
 | 46 | [985124](../reports/985124.md) | GraphQL Query leads to sensitive information disclosure | [GitLab](../by-program/gitlab.md) | Medium | — | 12 |
 | 47 | [1641088](../reports/1641088.md) | Last video frame is still sent after video is disabled in a call | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.2 | — | 10 |
@@ -56,8 +56,8 @@
 | 50 | [219715](../reports/219715.md) | Раскрытие имени файла приватных документов | [VK.com](../by-program/vkcom.md) | Medium | — | 5 |
 | 51 | [1245094](../reports/1245094.md) | Exposed data of credit card details to hacker or attacker. | [Urban Company](../by-program/urbancompany.md) | Medium | — | 4 |
 | 52 | [235041](../reports/235041.md) | Sensitive Email disclosure Due to Insecure  Reactivate Account fi | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
-| 53 | [3720313](../reports/3720313.md) | Proxy credentials leaked in ERR_PROXY_TUNNEL error message | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.9 | — | 2 |
-| 54 | [228323](../reports/228323.md) | Weak Password Policy on techsupport.teradici.com | [Teradici](../by-program/teradici.md) | Medium | — | 2 |
+| 53 | [228323](../reports/228323.md) | Weak Password Policy on techsupport.teradici.com | [Teradici](../by-program/teradici.md) | Medium | — | 2 |
+| 54 | [3720313](../reports/3720313.md) | Proxy credentials leaked in ERR_PROXY_TUNNEL error message | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.9 | — | 2 |
 | 55 | [282748](../reports/282748.md) | Detecting Tor Browser UI Language | [Tor](../by-program/torproject.md) | Low | — | 64 |
 | 56 | [1083421](../reports/1083421.md) | Blocked user can send notification by liking the message due to L | [TikTok](../by-program/tiktok.md) | Low | — | 59 |
 | 57 | [1392511](../reports/1392511.md) | HackerOne Staging uses Production data for testing | [HackerOne](../by-program/security.md) | Low | — | 58 |
@@ -68,8 +68,8 @@
 | 62 | [270695](../reports/270695.md) | [marketplace.informatica.com] - Sensitive Data Exposure  | [Informatica](../by-program/informatica.md) | Low | — | 10 |
 | 63 | [1724771](../reports/1724771.md) | Robots.txt file with potentially sensitive content. | [Yelp](../by-program/yelp.md) | Low | — | 9 |
 | 64 | [813421](../reports/813421.md) | Account deletion requests not entirely honoured. Misinformation e | [Nord Security](../by-program/nordsecurity.md) | Low | — | 8 |
-| 65 | [391385](../reports/391385.md) | Unauthorized Use of Victim Credit Card | [Yelp](../by-program/yelp.md) | Low — CVSS 3.5 | — | 6 |
-| 66 | [361269](../reports/361269.md) | Trusted daemon check fails when proxied through torsocks or proxy | [Monero](../by-program/monero.md) | Low | — | 6 |
+| 65 | [361269](../reports/361269.md) | Trusted daemon check fails when proxied through torsocks or proxy | [Monero](../by-program/monero.md) | Low | — | 6 |
+| 66 | [391385](../reports/391385.md) | Unauthorized Use of Victim Credit Card | [Yelp](../by-program/yelp.md) | Low — CVSS 3.5 | — | 6 |
 | 67 | [313075](../reports/313075.md) | Information Disclosure which violate program privacy | [HackerOne](../by-program/security.md) | Low | — | 5 |
 | 68 | [1596918](../reports/1596918.md) | Brute force protections don't work | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.7 | — | 4 |
 | 69 | [282339](../reports/282339.md) | Cross-domain linkability when system time changed in Tor Browser | [Tor](../by-program/torproject.md) | Low | — | 0 |
@@ -78,7 +78,7 @@
 | 72 | [803141](../reports/803141.md) | Unauthorized User Can Delete Any User Account | [Nord Security](../by-program/nordsecurity.md) | None | — | 25 |
 | 73 | [386596](../reports/386596.md) | Email Not Completely Deleted after Deleting an account | [Semmle](../by-program/semmle.md) | None | — | 18 |
 | 74 | [708696](../reports/708696.md) | Private target account appears in search results | [Liberapay](../by-program/liberapay.md) | None | — | 14 |
-| 75 | [803941](../reports/803941.md) | NordVPN Android Application privacy violation due to Google Adver | [Nord Security](../by-program/nordsecurity.md) | None | — | 11 |
-| 76 | [588239](../reports/588239.md) | Detect Tor Browser's language | [Tor](../by-program/torproject.md) | None | — | 11 |
-| 77 | [3185083](../reports/3185083.md) | Connection Count Bug in Monero Node Enables Outbound Peer Reset A | [Monero](../by-program/monero.md) | None | — | 3 |
-| 78 | [262088](../reports/262088.md) | Show hide privacy giving receiving on my website  | [Gratipay](../by-program/gratipay.md) | None | — | 3 |
+| 75 | [588239](../reports/588239.md) | Detect Tor Browser's language | [Tor](../by-program/torproject.md) | None | — | 11 |
+| 76 | [803941](../reports/803941.md) | NordVPN Android Application privacy violation due to Google Adver | [Nord Security](../by-program/nordsecurity.md) | None | — | 11 |
+| 77 | [262088](../reports/262088.md) | Show hide privacy giving receiving on my website  | [Gratipay](../by-program/gratipay.md) | None | — | 3 |
+| 78 | [3185083](../reports/3185083.md) | Connection Count Bug in Monero Node Enables Outbound Peer Reset A | [Monero](../by-program/monero.md) | None | — | 3 |

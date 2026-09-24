@@ -16,9 +16,9 @@
 | 10 | [2979238](../reports/2979238.md) | Amazon Comprehend Medical Service Reporting "AWS Internal" for Cl | [AWS VDP](../by-program/aws_vdp.md) | Medium — CVSS 5.0 | — | 29 |
 | 11 | [3021618](../reports/3021618.md) | Non-Production API Endpoint for the EventBridge Service Fails to  | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 26 |
 | 12 | [2951803](../reports/2951803.md) | Non-Production API Endpoints for the bedrock Service Fail to Log  | [AWS VDP](../by-program/aws_vdp.md) | Medium — CVSS 4.3 | — | 25 |
-| 13 | [3029552](../reports/3029552.md) | Non-Production API Endpoints for the Global Accelerator Service F | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 23 |
-| 14 | [3419587](../reports/3419587.md) | AWS Auto Scaling Service Reporting "AWS Internal" for CloudTrail  | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 23 |
-| 15 | [2972435](../reports/2972435.md) | Non-Production API Endpoints for the cloudwatch Service Fail to L | [AWS VDP](../by-program/aws_vdp.md) | Medium — CVSS 5.0 | — | 23 |
+| 13 | [2972435](../reports/2972435.md) | Non-Production API Endpoints for the cloudwatch Service Fail to L | [AWS VDP](../by-program/aws_vdp.md) | Medium — CVSS 5.0 | — | 23 |
+| 14 | [3029552](../reports/3029552.md) | Non-Production API Endpoints for the Global Accelerator Service F | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 23 |
+| 15 | [3419587](../reports/3419587.md) | AWS Auto Scaling Service Reporting "AWS Internal" for CloudTrail  | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 23 |
 | 16 | [3042588](../reports/3042588.md) | Non-Production API Endpoints for the Health Service Fail to Log t | [AWS VDP](../by-program/aws_vdp.md) | Medium — CVSS 5.0 | — | 21 |
 | 17 | [3418966](../reports/3418966.md) | Non-Production API Endpoints for the AI Ops Service Fails to Log  | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 18 |
 | 18 | [3031512](../reports/3031512.md) | Non-Production API Endpoints for the Glue Service Fail to Log to  | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 18 |

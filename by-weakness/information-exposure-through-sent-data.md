@@ -7,8 +7,8 @@
 | 1 | [2274981](../reports/2274981.md) | curl cookie mixed case PSL bypass | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $2,540 | 40 |
 | 2 | [724039](../reports/724039.md) | Google Maps API key leaked during device pairing | [Ping Identity](../by-program/pingidentity.md) | Medium — CVSS 4.9 | $150 | 24 |
 | 3 | [3480713](../reports/3480713.md) | Proxy-Authorization header is leaked to origin server after redir | [curl](../by-program/curl.md) | High | — | 18 |
-| 4 | [2946924](../reports/2946924.md) | Authorization Header Leak via --location-trusted in Curl | [curl](../by-program/curl.md) | High | — | 13 |
-| 5 | [3485826](../reports/3485826.md) | Alt-Svc bypasses credential leak protection (CVE-2018-1000007) | [curl](../by-program/curl.md) | High | — | 13 |
+| 4 | [3485826](../reports/3485826.md) | Alt-Svc bypasses credential leak protection (CVE-2018-1000007) | [curl](../by-program/curl.md) | High | — | 13 |
+| 5 | [2946924](../reports/2946924.md) | Authorization Header Leak via --location-trusted in Curl | [curl](../by-program/curl.md) | High | — | 13 |
 | 6 | [1444539](../reports/1444539.md) |  Remote memory disclosure vulnerability in libcurl on 64 Bit Wind | [curl](../by-program/curl.md) | High — CVSS 7.7 | — | 5 |
 | 7 | [2212193](../reports/2212193.md) | CVE-2023-46218: cookie mixed case PSL bypass | [curl](../by-program/curl.md) | Medium | — | 28 |
 | 8 | [1565615](../reports/1565615.md) | CVE-2022-27779: cookie for trailing dot TLD | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 27 |

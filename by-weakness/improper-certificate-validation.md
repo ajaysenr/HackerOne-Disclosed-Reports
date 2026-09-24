@@ -34,9 +34,9 @@
 | 28 | [3468098](../reports/3468098.md) | Certificate Pinning Bypass with wolfSSL backend over HTTP/3 | [curl](../by-program/curl.md) | Medium | — | 7 |
 | 29 | [3966955](../reports/3966955.md) | TLS session cache case-folds CA paths and bypasses the active tru | [curl](../by-program/curl.md) | Medium | — | 6 |
 | 30 | [915585](../reports/915585.md) | Social App does not validate server certificates for outgoing con | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.4 | — | 4 |
-| 31 | [285153](../reports/285153.md) | No Email Verification | [Infogram](../by-program/infogram.md) | Medium | — | 3 |
+| 31 | [3633146](../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store  | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 3 |
 | 32 | [980249](../reports/980249.md) | Net::SMTP with tls allows forged certificates as long as the host | [Ruby](../by-program/ruby.md) | Medium | — | 3 |
-| 33 | [3633146](../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store  | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 3 |
+| 33 | [285153](../reports/285153.md) | No Email Verification | [Infogram](../by-program/infogram.md) | Medium | — | 3 |
 | 34 | [3752567](../reports/3752567.md) | curl GnuTLS backend accepts a clientAuth-only certificate for HTT | [curl](../by-program/curl.md) | Medium | — | 1 |
 | 35 | [813279](../reports/813279.md) | Lets Encrypt Certificates affected by CAA Rechecking Incident | [Endless Group](../by-program/endless_group.md) | Medium — CVSS 6.1 | — | 1 |
 | 36 | [3355218](../reports/3355218.md) | CVE-2025-10966: missing SFTP host verification with wolfSSH | [curl](../by-program/curl.md) | Low | — | 43 |
@@ -49,8 +49,8 @@
 | 43 | [294891](../reports/294891.md) | Improper Certificate Validation | [PortSwigger Web Security](../by-program/portswigger.md) | Low — CVSS 2.6 | — | 0 |
 | 44 | [894922](../reports/894922.md) | [3DS][SSL] Improper certificate validation allows an attacker to  | [Nintendo](../by-program/nintendo.md) | None | — | 129 |
 | 45 | [3739561](../reports/3739561.md) | SSL session-cache peer key omits signature_algorithms: strict-sig | [curl](../by-program/curl.md) | None | — | 4 |
-| 46 | [3973093](../reports/3973093.md) | 06: Incomplete fix for CVE-2026-7009: GCC/SecTrust builds silentl | [curl](../by-program/curl.md) | None | — | 4 |
-| 47 | [3973111](../reports/3973111.md) | 08: CVE-2026-7009 fix incomplete for AWS-LC: `--cert-status` bypa | [curl](../by-program/curl.md) | None | — | 4 |
+| 46 | [3973111](../reports/3973111.md) | 08: CVE-2026-7009 fix incomplete for AWS-LC: `--cert-status` bypa | [curl](../by-program/curl.md) | None | — | 4 |
+| 47 | [3973093](../reports/3973093.md) | 06: Incomplete fix for CVE-2026-7009: GCC/SecTrust builds silentl | [curl](../by-program/curl.md) | None | — | 4 |
 | 48 | [3972323](../reports/3972323.md) | 10: CURLOPT_MAXLIFETIME_CONN bypass on active HTTP/2 connections | [curl](../by-program/curl.md) | None | — | 3 |
 | 49 | [225540](../reports/225540.md) | Incorrect HTTPS Certificate | [Weblate](../by-program/weblate.md) | None | — | 2 |
 | 50 | [3973090](../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | [curl](../by-program/curl.md) | None | — | 1 |
