@@ -240953,6 +240953,25 @@
     "votes": 3
   },
   {
+    "id": 3893632,
+    "url": "https://hackerone.com/reports/3893632",
+    "title": "Unauthenticated disclosure of draft/private/pending post titles & IDs via Secure Custom Fields nopriv AJAX field-query handlers (post_object/relations",
+    "visibility": "full",
+    "program": "WordPress",
+    "program_handle": "wordpress",
+    "reporter": "jakubk",
+    "severity": "medium",
+    "cvss": 5.3,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-07-27",
+    "disclosed_at": "2026-09-28T11:14:24.361Z",
+    "votes": 5
+  },
+  {
     "id": 3897588,
     "url": "https://hackerone.com/reports/3897588",
     "title": "KILL authorization trusts the presented login name instead of the authenticated anonymous account",

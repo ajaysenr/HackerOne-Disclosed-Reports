@@ -12329,6 +12329,7 @@ https://hackerone.com/reports/3878586 | Unauthenticated team "income/payments" e
 https://hackerone.com/reports/3887969 | SSRF via URL Parser Differential in `normalize_request_url` (wlc)
 https://hackerone.com/reports/3889473 | @jitsi/docker-jitsi-meet: `/colibri-relay-ws/` unsafe nginx regex (OCTO relay configuration)
 https://hackerone.com/reports/3889667 | ACL cache collision lets a role inherit privileges from a same-named socket user
+https://hackerone.com/reports/3893632 | Unauthenticated disclosure of draft/private/pending post titles & IDs via Secure Custom Fields nopriv AJAX field-query handlers (post_object/relations
 https://hackerone.com/reports/3897588 | KILL authorization trusts the presented login name instead of the authenticated anonymous account
 https://hackerone.com/reports/3897914 | Out-of-bounds read in MariaDB .frm parsing enables RCE via vtable hijacking
 https://hackerone.com/reports/3898281 | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process-global lock in Weblate

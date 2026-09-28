@@ -2999,7 +2999,7 @@
 | 2995 | [sleepnotf0und](https://hackerone.com/sleepnotf0und) | 3 | $0 | 25 |
 | 2996 | [nanwn](https://hackerone.com/nanwn) | 1 | $0 | 11 |
 | 2997 | [cametome006](https://hackerone.com/cametome006) | 2 | $0 | 24 |
-| 2998 | [jakubk](https://hackerone.com/jakubk) | 2 | $0 | 15 |
+| 2998 | [jakubk](https://hackerone.com/jakubk) | 3 | $0 | 20 |
 | 2999 | [dblack](https://hackerone.com/dblack) | 1 | $0 | 7 |
 | 3000 | [bebensap](https://hackerone.com/bebensap) | 5 | $0 | 19 |
 | 3001 | [yasinylcn17](https://hackerone.com/yasinylcn17) | 1 | $0 | 11 |
