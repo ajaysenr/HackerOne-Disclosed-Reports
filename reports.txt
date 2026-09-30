@@ -12058,6 +12058,7 @@ https://hackerone.com/reports/3621606 | ZMQ RPC Log Injection and Untrusted Payl
 https://hackerone.com/reports/3621851 | CVE-2026-4873: connection reuse ignores TLS requirement
 https://hackerone.com/reports/3622877 | HTTP Request Smuggling via Unsanitized Hop-by-Hop Headers
 https://hackerone.com/reports/3623064 | HTTP/1.1 Response Desynchronization via conflicting CL/TE headers in Proxy CONNECT
+https://hackerone.com/reports/3623149 | SSRF via User-Controlled Push proxyServer in Notifications Push Registration
 https://hackerone.com/reports/3625210 | PIN bypass in PassCodeActivity via back button
 https://hackerone.com/reports/3625600 | Out of scope: Improper Input Validation Order on /api-internal/login via password field leads to unnecessary resource consumption
 https://hackerone.com/reports/3625987 | Permission Model bypass via FileHandle.utimes() in the promises API

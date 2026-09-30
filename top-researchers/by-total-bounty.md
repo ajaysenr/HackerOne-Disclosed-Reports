@@ -1151,7 +1151,7 @@
 | 1147 | [b039f6018eb9056011859b0](https://hackerone.com/b039f6018eb9056011859b0) | 1 | $0 | 11 |
 | 1148 | [ston3](https://hackerone.com/ston3) | 27 | $0 | 130 |
 | 1149 | [carbon61](https://hackerone.com/carbon61) | 2 | $0 | 122 |
-| 1150 | [yoyomiski](https://hackerone.com/yoyomiski) | 11 | $0 | 379 |
+| 1150 | [yoyomiski](https://hackerone.com/yoyomiski) | 12 | $0 | 382 |
 | 1151 | [cyberguardianrd](https://hackerone.com/cyberguardianrd) | 3 | $0 | 49 |
 | 1152 | [albatraoz](https://hackerone.com/albatraoz) | 6 | $0 | 351 |
 | 1153 | [xsam](https://hackerone.com/xsam) | 4 | $0 | 301 |

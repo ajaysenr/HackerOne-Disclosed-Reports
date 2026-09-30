@@ -235568,6 +235568,25 @@
     "votes": 30
   },
   {
+    "id": 3623149,
+    "url": "https://hackerone.com/reports/3623149",
+    "title": "SSRF via User-Controlled Push proxyServer in Notifications Push Registration",
+    "visibility": "full",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "yoyomiski",
+    "severity": "medium",
+    "cvss": 5.4,
+    "weakness": "Server-Side Request Forgery (SSRF)",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-03-23",
+    "disclosed_at": "2026-09-30T15:43:58.441Z",
+    "votes": 3
+  },
+  {
     "id": 3625210,
     "url": "https://hackerone.com/reports/3625210",
     "title": "PIN bypass in PassCodeActivity via back button",
