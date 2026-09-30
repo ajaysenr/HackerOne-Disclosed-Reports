@@ -1,4 +1,4 @@
-# MariaDB — Disclosed Reports (29 total)
+# MariaDB — Disclosed Reports (31 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -19,17 +19,19 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 13 | [490997](../reports/490997.md) | [downloads.mariadb.org] CRLF injection in case of encoded qu | Medium | — | 6 | [s_p_q_r](https://hackerone.com/s_p_q_r) | 2019-02-14 |
 | 14 | [775504](../reports/775504.md) | Exposed debug.log file leads to information disclosure | Medium | — | 4 | [muhammaddaffa](https://hackerone.com/muhammaddaffa) | 2020-01-15 |
 | 15 | [637840](../reports/637840.md) | Path traversal in command line client | Medium — CVSS 4.5 | — | 4 | [lixtelnis](https://hackerone.com/lixtelnis) | 2020-05-28 |
-| 16 | [1369288](../reports/1369288.md) | Path Traversal CVE-2021-26086 CVE-2021-26085 | Medium | — | 3 | [kljunowsky](https://hackerone.com/kljunowsky) | 2021-11-05 |
-| 17 | [3909248](../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append() let | Medium | — | 3 | [v3rtical](https://hackerone.com/v3rtical) | 2026-09-07 |
-| 18 | [3889667](../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a sa | Medium — CVSS 6.4 | — | 3 | [dogeshark](https://hackerone.com/dogeshark) | 2026-09-07 |
-| 19 | [3769676](../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenti | Medium | — | 2 | [byteoverride](https://hackerone.com/byteoverride) | 2026-09-03 |
-| 20 | [690330](../reports/690330.md) | scripts loader (denial of service) vulnerability | Low | — | 20 | [badisman](https://hackerone.com/badisman) | 2020-03-19 |
-| 21 | [392701](../reports/392701.md) | Vulnerability Report - Missing Certificate Authority Authori | Low | — | 16 | [theendisnear](https://hackerone.com/theendisnear) | 2018-11-11 |
-| 22 | [386160](../reports/386160.md) | xmlrpc.php on mariadb.org can lead to DDOS and brute force a | Low | — | 10 | [indoappsec](https://hackerone.com/indoappsec) | 2018-10-12 |
-| 23 | [392761](../reports/392761.md) | vulnerable to Cross-site Request Forgery | Jira | Low | — | 9 | [niteshkumarpandey](https://hackerone.com/niteshkumarpandey) | 2018-10-12 |
-| 24 | [514421](../reports/514421.md) | smtp service vulnerable to POODLE SSLv3 | Low | — | 7 | [rudrahacks007](https://hackerone.com/rudrahacks007) | 2019-05-11 |
-| 25 | [3782405](../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::i | None | — | 14 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
-| 26 | [3771139](../reports/3771139.md) | Heap Memory Disclosure via Integer Underflow in Item_func_js | None | — | 12 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
-| 27 | [3771147](../reports/3771147.md) | Stack Buffer Overflow via Crafted keyseg->start/ keyseg->len | None | — | 11 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
-| 28 | [3771144](../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_versio | None | — | 10 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-14 |
-| 29 | [3897588](../reports/3897588.md) | KILL authorization trusts the presented login name instead o | None | — | 3 | [dogeshark](https://hackerone.com/dogeshark) | 2026-09-07 |
+| 16 | [3872239](../reports/3872239.md) | Connector/J: malicious server crashes client JVM via unbound | Medium — CVSS 4.1 | — | 4 | [fg0x0](https://hackerone.com/fg0x0) | 2026-09-30 |
+| 17 | [1369288](../reports/1369288.md) | Path Traversal CVE-2021-26086 CVE-2021-26085 | Medium | — | 3 | [kljunowsky](https://hackerone.com/kljunowsky) | 2021-11-05 |
+| 18 | [3909248](../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append() let | Medium | — | 3 | [v3rtical](https://hackerone.com/v3rtical) | 2026-09-07 |
+| 19 | [3889667](../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a sa | Medium — CVSS 6.4 | — | 3 | [dogeshark](https://hackerone.com/dogeshark) | 2026-09-07 |
+| 20 | [3769676](../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenti | Medium | — | 2 | [byteoverride](https://hackerone.com/byteoverride) | 2026-09-03 |
+| 21 | [690330](../reports/690330.md) | scripts loader (denial of service) vulnerability | Low | — | 20 | [badisman](https://hackerone.com/badisman) | 2020-03-19 |
+| 22 | [392701](../reports/392701.md) | Vulnerability Report - Missing Certificate Authority Authori | Low | — | 16 | [theendisnear](https://hackerone.com/theendisnear) | 2018-11-11 |
+| 23 | [386160](../reports/386160.md) | xmlrpc.php on mariadb.org can lead to DDOS and brute force a | Low | — | 10 | [indoappsec](https://hackerone.com/indoappsec) | 2018-10-12 |
+| 24 | [392761](../reports/392761.md) | vulnerable to Cross-site Request Forgery | Jira | Low | — | 9 | [niteshkumarpandey](https://hackerone.com/niteshkumarpandey) | 2018-10-12 |
+| 25 | [514421](../reports/514421.md) | smtp service vulnerable to POODLE SSLv3 | Low | — | 7 | [rudrahacks007](https://hackerone.com/rudrahacks007) | 2019-05-11 |
+| 26 | [3782405](../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::i | None | — | 14 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
+| 27 | [3771139](../reports/3771139.md) | Heap Memory Disclosure via Integer Underflow in Item_func_js | None | — | 12 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
+| 28 | [3771147](../reports/3771147.md) | Stack Buffer Overflow via Crafted keyseg->start/ keyseg->len | None | — | 11 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
+| 29 | [3771144](../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_versio | None | — | 10 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-14 |
+| 30 | [3897588](../reports/3897588.md) | KILL authorization trusts the presented login name instead o | None | — | 3 | [dogeshark](https://hackerone.com/dogeshark) | 2026-09-07 |
+| 31 | [3896671](../reports/3896671.md) | Connector/C Out-of-bounds read in `unpack_fields()` from sho | None | — | 3 | [mschorm](https://hackerone.com/mschorm) | 2026-09-30 |

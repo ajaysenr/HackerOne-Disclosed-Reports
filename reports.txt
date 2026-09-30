@@ -12321,6 +12321,7 @@ https://hackerone.com/reports/3857258 | Reachable assertion in node:zlib sync AP
 https://hackerone.com/reports/3858504 | connect.8x8.com: Automation Builder - Input Validation Issue in Workflow Step Outputs
 https://hackerone.com/reports/3861550 | connect.8x8.com: Deserialization Vulnerability  in Automation Builder via Jint→Newtonsoft serializer coercion (TypeNameHandling)
 https://hackerone.com/reports/3869124 | **Unauthenticated IDOR allows modification of payment customer billing information**
+https://hackerone.com/reports/3872239 | Connector/J: malicious server crashes client JVM via unbounded result-set field-count allocation in ClientMessage.readPacket
 https://hackerone.com/reports/3872858 | Stored HTML Injection (CWE-79) via Livechat Visitor Name
 https://hackerone.com/reports/3873072 | Unauthenticated SQL Injection via REST Batch Route Confusion ████████
 https://hackerone.com/reports/3874004 | Incomplete fix for CVE-2022-23915: Mercurial argument injection in HgRepository.get_file() leads to command execution
@@ -12330,6 +12331,7 @@ https://hackerone.com/reports/3887969 | SSRF via URL Parser Differential in `nor
 https://hackerone.com/reports/3889473 | @jitsi/docker-jitsi-meet: `/colibri-relay-ws/` unsafe nginx regex (OCTO relay configuration)
 https://hackerone.com/reports/3889667 | ACL cache collision lets a role inherit privileges from a same-named socket user
 https://hackerone.com/reports/3893632 | Unauthenticated disclosure of draft/private/pending post titles & IDs via Secure Custom Fields nopriv AJAX field-query handlers (post_object/relations
+https://hackerone.com/reports/3896671 | Connector/C Out-of-bounds read in `unpack_fields()` from short metadata field
 https://hackerone.com/reports/3897588 | KILL authorization trusts the presented login name instead of the authenticated anonymous account
 https://hackerone.com/reports/3897914 | Out-of-bounds read in MariaDB .frm parsing enables RCE via vtable hijacking
 https://hackerone.com/reports/3898281 | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process-global lock in Weblate

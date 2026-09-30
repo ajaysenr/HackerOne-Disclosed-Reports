@@ -240798,6 +240798,25 @@
     "votes": 1
   },
   {
+    "id": 3872239,
+    "url": "https://hackerone.com/reports/3872239",
+    "title": "Connector/J: malicious server crashes client JVM via unbounded result-set field-count allocation in ClientMessage.readPacket",
+    "visibility": "full",
+    "program": "MariaDB",
+    "program_handle": "mariadb",
+    "reporter": "fg0x0",
+    "severity": "medium",
+    "cvss": 4.1,
+    "weakness": "Uncontrolled Resource Consumption",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-07-18",
+    "disclosed_at": "2026-09-30T08:00:19.275Z",
+    "votes": 4
+  },
+  {
     "id": 3872858,
     "url": "https://hackerone.com/reports/3872858",
     "title": "Stored HTML Injection (CWE-79) via Livechat Visitor Name",
@@ -240970,6 +240989,25 @@
     "reported_at": "2026-07-27",
     "disclosed_at": "2026-09-28T11:14:24.361Z",
     "votes": 5
+  },
+  {
+    "id": 3896671,
+    "url": "https://hackerone.com/reports/3896671",
+    "title": "Connector/C Out-of-bounds read in `unpack_fields()` from short metadata field",
+    "visibility": "full",
+    "program": "MariaDB",
+    "program_handle": "mariadb",
+    "reporter": "mschorm",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Out-of-bounds Read",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-07-28",
+    "disclosed_at": "2026-09-30T10:29:05.638Z",
+    "votes": 3
   },
   {
     "id": 3897588,
