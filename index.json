@@ -240798,6 +240798,25 @@
     "votes": 8
   },
   {
+    "id": 3862641,
+    "url": "https://hackerone.com/reports/3862641",
+    "title": "IDOR allows user to access report details via reference.json endpoint",
+    "visibility": "no-content",
+    "program": "HackerOne",
+    "program_handle": "security",
+    "reporter": "sm41ldrag0n79_mbbank",
+    "severity": "critical",
+    "cvss": null,
+    "weakness": "Insecure Direct Object Reference (IDOR)",
+    "bounty": 15000.0,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-07-14",
+    "disclosed_at": "2026-10-01T01:27:40.092Z",
+    "votes": 19
+  },
+  {
     "id": 3869124,
     "url": "https://hackerone.com/reports/3869124",
     "title": "**Unauthenticated IDOR allows modification of payment customer billing information**",

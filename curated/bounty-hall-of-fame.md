@@ -1,4 +1,4 @@
-# Bounty Hall of Fame — $10,000+ (92 total)
+# Bounty Hall of Fame — $10,000+ (93 total)
 
 | Report | Title | Program | Severity | Bounty | Votes |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [1819832](../reports/1819832.md) | Delete anyone's content spotlight remotely. | [Snapchat](../by-program/snapchat.md) | High | $15,000 | 783 |
 | [231460](../reports/231460.md) | Open prod Jenkins instance | [Snapchat](../by-program/snapchat.md) | High | $15,000 | 436 |
 | [911606](../reports/911606.md) | Leaked JFrog Artifactory  username and password exposed on GitHub | [Snapchat](../by-program/snapchat.md) | High | $15,000 | 135 |
+| [3862641](../reports/3862641.md) | IDOR allows user to access report details via reference.json endp | [HackerOne](../by-program/security.md) | Critical | $15,000 | 19 |
 | [1328546](../reports/1328546.md) | Incorrect authorization to the intelbot service leading to ticket | [TikTok](../by-program/tiktok.md) | Critical | $15,000 | 216 |
 | [873614](../reports/873614.md) | Websites Can Run Arbitrary Code on Machines Running the 'PlayStat | [PlayStation](../by-program/playstation.md) | Critical — CVSS 9.6 | $15,000 | 778 |
 | [3018307](../reports/3018307.md) | Groups module can halt chain when handling a proposal with malici | [Cosmos](../by-program/cosmos.md) | High | $15,000 | 86 |

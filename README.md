@@ -20,16 +20,16 @@ Use the interactive dashboard to search reports and filter them by severity, yea
 
 | Metric | Count |
 |---|---|
-| **Total Reports** | 12,545 |
-| **With Bounty** | 2,333 |
+| **Total Reports** | 12,546 |
+| **With Bounty** | 2,334 |
 | **With CVE** | 1,976 |
-| **Total Bounty Paid** | $3,944,599 |
-| **Critical** | 1,002 |
+| **Total Bounty Paid** | $3,959,599 |
+| **Critical** | 1,003 |
 | **High** | 1,956 |
 | **Medium** | 3,569 |
 | **Low** | 2,270 |
 
-*Last Updated: September 30, 2026 at 07:17 PM EST*
+*Last Updated: September 30, 2026 at 10:44 PM EST*
 
 ## 📁 Browse
 
@@ -46,7 +46,7 @@ Use the interactive dashboard to search reports and filter them by severity, yea
 
 ## 📄 Data
 
-- `reports.txt` — discovered URL + title list (12,416 unique reports)
-- `index.json` — structured metadata (12,545 enriched reports)
+- `reports.txt` — discovered URL + title list (12,417 unique reports)
+- `index.json` — structured metadata (12,546 enriched reports)
 - `reports/` — individual markdown page per report
 

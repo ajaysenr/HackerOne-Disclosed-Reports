@@ -12321,6 +12321,7 @@ https://hackerone.com/reports/3852135 | DDP methods getThreadsList / getThreadMe
 https://hackerone.com/reports/3857258 | Reachable assertion in node:zlib sync API crashes the entire process via spoofed TypedArray byteLength (all 11 *Sync functions affected)
 https://hackerone.com/reports/3858504 | connect.8x8.com: Automation Builder - Input Validation Issue in Workflow Step Outputs
 https://hackerone.com/reports/3861550 | connect.8x8.com: Deserialization Vulnerability  in Automation Builder via Jint→Newtonsoft serializer coercion (TypeNameHandling)
+https://hackerone.com/reports/3862641 | IDOR allows user to access report details via reference.json endpoint
 https://hackerone.com/reports/3869124 | **Unauthenticated IDOR allows modification of payment customer billing information**
 https://hackerone.com/reports/3872239 | Connector/J: malicious server crashes client JVM via unbounded result-set field-count allocation in ClientMessage.readPacket
 https://hackerone.com/reports/3872858 | Stored HTML Injection (CWE-79) via Livechat Visitor Name
