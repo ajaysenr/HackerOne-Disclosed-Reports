@@ -241417,6 +241417,25 @@
     "votes": 2
   },
   {
+    "id": 3943339,
+    "url": "https://hackerone.com/reports/3943339",
+    "title": "One-click cross-account JavaScript execution steals a victim write token through Turbo pagination and unattached Active Storage HTML",
+    "visibility": "full",
+    "program": "Basecamp",
+    "program_handle": "basecamp",
+    "reporter": "pirikara",
+    "severity": "high",
+    "cvss": 8.7,
+    "weakness": "Cross-site Scripting (XSS) - Reflected",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-08-16",
+    "disclosed_at": "2026-10-02T17:19:17.661Z",
+    "votes": 3
+  },
+  {
     "id": 3952619,
     "url": "https://hackerone.com/reports/3952619",
     "title": "Domainless COOKIEFILE cookie leaks to unrelated IP-literal hosts",

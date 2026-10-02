@@ -1,4 +1,4 @@
-# Basecamp — Disclosed Reports (49 total)
+# Basecamp — Disclosed Reports (50 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -36,20 +36,21 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 30 | [850022](../reports/850022.md) | CSRF on launchpad.37signals.com OAuth2 authorization endpoin | High — CVSS 8.1 | — | 42 | [carbon61](https://hackerone.com/carbon61) | 2020-10-30 |
 | 31 | [1710541](../reports/1710541.md) | Arbitrary write in the application's data folder and arbitra | High — CVSS 8.8 | — | 37 | [fr4via](https://hackerone.com/fr4via) | 2023-06-07 |
 | 32 | [1343300](../reports/1343300.md) | com.basecamp.bc3 Webview Javascript Injection and JS bridge  | High — CVSS 7.7 | — | 20 | [fr4via](https://hackerone.com/fr4via) | 2022-09-23 |
-| 33 | [2516732](../reports/2516732.md) | Account takeover via insecure intent handling   | Medium — CVSS 6.8 | — | 134 | [fr4via](https://hackerone.com/fr4via) | 2024-05-30 |
-| 34 | [988272](../reports/988272.md) | stored XSS in hey.com message content | Medium | — | 80 | [carbon61](https://hackerone.com/carbon61) | 2020-10-31 |
-| 35 | [1342422](../reports/1342422.md) | Subdomain Takeover due to ████████ NS records at us-east4.37 | Medium — CVSS 6.1 | — | 77 | [nagli](https://hackerone.com/nagli) | 2021-09-17 |
-| 36 | [2553411](../reports/2553411.md) | Path traversal in deeplink query parameter can expose any us | Medium — CVSS 5.5 | — | 64 | [fr4via](https://hackerone.com/fr4via) | 2024-07-09 |
-| 37 | [3445890](../reports/3445890.md) | Link unfurling calls out to arbitrary URLs and the private-n | Medium — CVSS 6.7 | — | 62 | [brumbelow](https://hackerone.com/brumbelow) | 2025-12-22 |
-| 38 | [981824](../reports/981824.md) | DNS Setup allows sending mail on behalf of other customers | Medium — CVSS 6.8 | — | 58 | [aisforarray](https://hackerone.com/aisforarray) | 2021-02-21 |
-| 39 | [963774](../reports/963774.md) | Premium Email Address Check Bypass - Hey | Medium | — | 53 | [ok_bye_now](https://hackerone.com/ok_bye_now) | 2020-12-15 |
-| 40 | [2686225](../reports/2686225.md) | Critical Data Breach - Big Data for all domains | Medium | — | 51 | [shezxi](https://hackerone.com/shezxi) | 2025-01-14 |
-| 41 | [2552879](../reports/2552879.md) | Navgraph confusion allows any 3p app to send and read reques | Medium — CVSS 5.5 | — | 29 | [fr4via](https://hackerone.com/fr4via) | 2024-07-09 |
-| 42 | [1485788](../reports/1485788.md) | Improper Authentication via previous backup code login | Medium — CVSS 6.9 | — | 21 | [fuzzsqlb0f](https://hackerone.com/fuzzsqlb0f) | 2022-03-24 |
-| 43 | [1050656](../reports/1050656.md) | Bypass Tracking Blocker Protection Using Slashes Without Pro | Medium | — | 17 | [demonia](https://hackerone.com/demonia) | 2020-12-17 |
-| 44 | [1024880](../reports/1024880.md) | SSL expired subdomain leads to API swap with main and flagge | Medium | — | 15 | [babykeem](https://hackerone.com/babykeem) | 2020-12-03 |
-| 45 | [1241849](../reports/1241849.md) | Information Disclosure .htaccess accesible for public | Low | — | 76 | [aloneh1](https://hackerone.com/aloneh1) | 2021-07-18 |
-| 46 | [1253926](../reports/1253926.md) | Domain Takeover [3737signals.com] | Low | — | 47 | [mrmax4o4](https://hackerone.com/mrmax4o4) | 2021-08-13 |
-| 47 | [981796](../reports/981796.md) | Information Disclosure of Garbage Collection Cycle | Low | — | 33 | [ahmd_halabi](https://hackerone.com/ahmd_halabi) | 2020-11-04 |
-| 48 | [1307943](../reports/1307943.md) | Privilege Escalation leads to trash other users comment with | Low | — | 9 | [fuzzsqlb0f](https://hackerone.com/fuzzsqlb0f) | 2021-12-01 |
-| 49 | [1020371](../reports/1020371.md) | User can upload files even after closing his account | None | — | 122 | [h4x0r_dz](https://hackerone.com/h4x0r_dz) | 2021-03-29 |
+| 33 | [3943339](../reports/3943339.md) | One-click cross-account JavaScript execution steals a victim | High — CVSS 8.7 | — | 3 | [pirikara](https://hackerone.com/pirikara) | 2026-10-02 |
+| 34 | [2516732](../reports/2516732.md) | Account takeover via insecure intent handling   | Medium — CVSS 6.8 | — | 134 | [fr4via](https://hackerone.com/fr4via) | 2024-05-30 |
+| 35 | [988272](../reports/988272.md) | stored XSS in hey.com message content | Medium | — | 80 | [carbon61](https://hackerone.com/carbon61) | 2020-10-31 |
+| 36 | [1342422](../reports/1342422.md) | Subdomain Takeover due to ████████ NS records at us-east4.37 | Medium — CVSS 6.1 | — | 77 | [nagli](https://hackerone.com/nagli) | 2021-09-17 |
+| 37 | [2553411](../reports/2553411.md) | Path traversal in deeplink query parameter can expose any us | Medium — CVSS 5.5 | — | 64 | [fr4via](https://hackerone.com/fr4via) | 2024-07-09 |
+| 38 | [3445890](../reports/3445890.md) | Link unfurling calls out to arbitrary URLs and the private-n | Medium — CVSS 6.7 | — | 62 | [brumbelow](https://hackerone.com/brumbelow) | 2025-12-22 |
+| 39 | [981824](../reports/981824.md) | DNS Setup allows sending mail on behalf of other customers | Medium — CVSS 6.8 | — | 58 | [aisforarray](https://hackerone.com/aisforarray) | 2021-02-21 |
+| 40 | [963774](../reports/963774.md) | Premium Email Address Check Bypass - Hey | Medium | — | 53 | [ok_bye_now](https://hackerone.com/ok_bye_now) | 2020-12-15 |
+| 41 | [2686225](../reports/2686225.md) | Critical Data Breach - Big Data for all domains | Medium | — | 51 | [shezxi](https://hackerone.com/shezxi) | 2025-01-14 |
+| 42 | [2552879](../reports/2552879.md) | Navgraph confusion allows any 3p app to send and read reques | Medium — CVSS 5.5 | — | 29 | [fr4via](https://hackerone.com/fr4via) | 2024-07-09 |
+| 43 | [1485788](../reports/1485788.md) | Improper Authentication via previous backup code login | Medium — CVSS 6.9 | — | 21 | [fuzzsqlb0f](https://hackerone.com/fuzzsqlb0f) | 2022-03-24 |
+| 44 | [1050656](../reports/1050656.md) | Bypass Tracking Blocker Protection Using Slashes Without Pro | Medium | — | 17 | [demonia](https://hackerone.com/demonia) | 2020-12-17 |
+| 45 | [1024880](../reports/1024880.md) | SSL expired subdomain leads to API swap with main and flagge | Medium | — | 15 | [babykeem](https://hackerone.com/babykeem) | 2020-12-03 |
+| 46 | [1241849](../reports/1241849.md) | Information Disclosure .htaccess accesible for public | Low | — | 76 | [aloneh1](https://hackerone.com/aloneh1) | 2021-07-18 |
+| 47 | [1253926](../reports/1253926.md) | Domain Takeover [3737signals.com] | Low | — | 47 | [mrmax4o4](https://hackerone.com/mrmax4o4) | 2021-08-13 |
+| 48 | [981796](../reports/981796.md) | Information Disclosure of Garbage Collection Cycle | Low | — | 33 | [ahmd_halabi](https://hackerone.com/ahmd_halabi) | 2020-11-04 |
+| 49 | [1307943](../reports/1307943.md) | Privilege Escalation leads to trash other users comment with | Low | — | 9 | [fuzzsqlb0f](https://hackerone.com/fuzzsqlb0f) | 2021-12-01 |
+| 50 | [1020371](../reports/1020371.md) | User can upload files even after closing his account | None | — | 122 | [h4x0r_dz](https://hackerone.com/h4x0r_dz) | 2021-03-29 |

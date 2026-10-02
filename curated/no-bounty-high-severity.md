@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2412 total)
+# High/Critical Severity — No Bounty Paid (2413 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -2270,6 +2270,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1189419](../reports/1189419.md) | XMLRPC does not limit deserializable classes. | [Ruby](../by-program/ruby.md) | High | Informative | 3 |
 | [217381](../reports/217381.md) | doc.owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploi | [ownCloud](../by-program/owncloud.md) | High | Resolved | 3 |
 | [799898](../reports/799898.md) | Admin Login Credential Leak for DoD Gitlab EE instance | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 3 |
+| [3943339](../reports/3943339.md) | One-click cross-account JavaScript execution steals a victim writ | [Basecamp](../by-program/basecamp.md) | High — CVSS 8.7 | Resolved | 3 |
 | [120941](../reports/120941.md) | NexTable: Credentials exposure | [Eternal](../by-program/eternal.md) | High — CVSS 8.5 | Resolved | 3 |
 | [1401268](../reports/1401268.md) | Persistent CSS injection with ’marked’ markdown parser in Rocket. | [Rocket.Chat](../by-program/rocket_chat.md) | High | Resolved | 3 |
 | [179121](../reports/179121.md) | Information disclosure of website | [Brave Software](../by-program/brave.md) | High | Informative | 3 |

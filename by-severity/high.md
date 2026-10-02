@@ -1,4 +1,4 @@
-# Severity: High (1956 reports)
+# Severity: High (1957 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -1814,149 +1814,150 @@
 | 1808 | [1189419](../reports/1189419.md) | XMLRPC does not limit deserializable classes. | [Ruby](../by-program/ruby.md) | High | — | 3 |
 | 1809 | [217381](../reports/217381.md) | doc.owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploi | [ownCloud](../by-program/owncloud.md) | High | — | 3 |
 | 1810 | [799898](../reports/799898.md) | Admin Login Credential Leak for DoD Gitlab EE instance | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 3 |
-| 1811 | [120941](../reports/120941.md) | NexTable: Credentials exposure | [Eternal](../by-program/eternal.md) | High — CVSS 8.5 | — | 3 |
-| 1812 | [1401268](../reports/1401268.md) | Persistent CSS injection with ’marked’ markdown parser in Rocket. | [Rocket.Chat](../by-program/rocket_chat.md) | High | — | 3 |
-| 1813 | [179121](../reports/179121.md) | Information disclosure of website | [Brave Software](../by-program/brave.md) | High | — | 3 |
-| 1814 | [1301696](../reports/1301696.md) | Bug Report : [ No Valid SPF Records ] | [Ruby](../by-program/ruby.md) | High | — | 3 |
-| 1815 | [341074](../reports/341074.md) | Bruteforce in admin panel | [Nextcloud](../by-program/nextcloud.md) | High | — | 3 |
-| 1816 | [140793](../reports/140793.md) | UniFi Video v3.2.2 (Windows) Local Privileges Escalation due to w | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 7.8 | — | 3 |
-| 1817 | [268808](../reports/268808.md) | CVE-2017-13038 The PPP parser in tcpdump before 4.9.2 has a buffe | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | — | 3 |
-| 1818 | [1664244](../reports/1664244.md) | fix(security):Path Traversal Bug | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | High | — | 3 |
-| 1819 | [1650210](../reports/1650210.md) | Corsa Site Scripting Vulnerability (XSS) | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | High | — | 3 |
-| 1820 | [219870](../reports/219870.md) | mirb only: stack-buffer-overflow (OOB write) in main() | [shopify-scripts](../by-program/shopify-scripts.md) | High | — | 3 |
-| 1821 | [891093](../reports/891093.md) | [H1-2006 2020] Solution for the h1-2006 CTF challenge | [h1-ctf](../by-program/h1-ctf.md) | High — CVSS 7.5 | — | 3 |
-| 1822 | [541354](../reports/541354.md) | A specifically malformed MQTT Subscribe packet crashes MQTT Broke | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 3 |
-| 1823 | [3781785](../reports/3781785.md) | Reflected HTML Injection in ████████ Login Page via infotext/sign | [Essity](../by-program/essity.md) | High | — | 3 |
-| 1824 | [358359](../reports/358359.md) | Privilage escalation with malicious .npmrc | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.1 | — | 3 |
-| 1825 | [672629](../reports/672629.md) | Online training material disclosing username and password | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 3 |
-| 1826 | [320586](../reports/320586.md) | `foreman` is vulnerable to ReDoS in path | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 3 |
-| 1827 | [221251](../reports/221251.md) | heap-buffer-overflow (read outside of buffer) in mrb_vm_exec() | [shopify-scripts](../by-program/shopify-scripts.md) | High | — | 3 |
-| 1828 | [832217](../reports/832217.md) | Android App Crashes while sending message to users/ on channel  | [Rocket.Chat](../by-program/rocket_chat.md) | High | — | 3 |
-| 1829 | [1410246](../reports/1410246.md) | getUserMentionsByChannel leaks messages with mention from private | [Rocket.Chat](../by-program/rocket_chat.md) | High | — | 3 |
-| 1830 | [1555021](../reports/1555021.md) | [CVE-2020-3452] Unauthenticated file read in Cisco ASA | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 3 |
-| 1831 | [260414](../reports/260414.md) | CVE-2017-12858: Heap UAF in _zip_buffer_free() / Double free in _ | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 3 |
-| 1832 | [804080](../reports/804080.md) | Domian Takeover in [███████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 3 |
-| 1833 | [222020](../reports/222020.md) | Mercurial can be tricked into granting authorized users access to | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 3 |
-| 1834 | [826238](../reports/826238.md) | load scripts DOS vulnerability | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | High | — | 3 |
-| 1835 | [247225](../reports/247225.md) | Session Duplication due to Broken Access Control | [WakaTime](../by-program/wakatime.md) | High | — | 3 |
-| 1836 | [195842](../reports/195842.md) | Segmentation fault - mrb_gc_mark | [shopify-scripts](../by-program/shopify-scripts.md) | High | — | 3 |
-| 1837 | [202960](../reports/202960.md) | CVE-2017-5204: The IPv6 parser in tcpdump before 4.9.0 has a buff | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | — | 3 |
-| 1838 | [381771](../reports/381771.md) | ████████ SQL | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 3 |
-| 1839 | [319473](../reports/319473.md) | [open] concatenation of unsanitized input into exec() command | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.4 | — | 3 |
-| 1840 | [3744200](../reports/3744200.md) | PHP code injection via unexpected delivery limitation parameter | [Revive Adserver](../by-program/revive_adserver.md) | High — CVSS 8.8 | — | 3 |
-| 1841 | [1047086](../reports/1047086.md) | Heap buffer overflow vulnerability while processing a malformed T | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.6 | — | 3 |
-| 1842 | [237860](../reports/237860.md) | ci.nextcloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploi | [Nextcloud](../by-program/nextcloud.md) | High | — | 3 |
-| 1843 | [335495](../reports/335495.md) | Out of order TLS handshake / application data messages lead to se | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | — | 3 |
-| 1844 | [296994](../reports/296994.md) | Exim handles BDAT data incorrectly and leads to crash/hang | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.5 | — | 3 |
-| 1845 | [867164](../reports/867164.md) | External storage app saves password for all users in the database | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 7.9 | — | 3 |
-| 1846 | [295740](../reports/295740.md) | GarlicRust - heartbleed style vulnerability in major I2P C++ rout | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.7 | — | 3 |
-| 1847 | [3688064](../reports/3688064.md) | Node.js unicode dot separator handling can lead to tls wildcard-d | [Node.js](../by-program/nodejs.md) | High — CVSS 7.7 | — | 3 |
-| 1848 | [728110](../reports/728110.md) | [HTAF4-213] [Pre-submission] CVE-2018-2879 (padding oracle attack | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 3 |
-| 1849 | [3781492](../reports/3781492.md) | PHP code injection in delivery-limitation `logical` validation by | [Revive Adserver](../by-program/revive_adserver.md) | High — CVSS 8.8 | — | 3 |
-| 1850 | [1316412](../reports/1316412.md) | Information Exposure Through Directory Listing | [Tor](../by-program/torproject.md) | High | — | 3 |
-| 1851 | [45050](../reports/45050.md) | [community.informatica.com] - CSRF in Private Messages allows to  | [Informatica](../by-program/informatica.md) | High | — | 3 |
-| 1852 | [3784125](../reports/3784125.md) | GnuTLS OCSP stapling accepts unrelated SingleResponse (no cert-ID | [curl](../by-program/curl.md) | High | — | 3 |
-| 1853 | [320269](../reports/320269.md) | `npmconf` (and `npm` js api) allocate and write to disk uninitial | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.4 | — | 3 |
-| 1854 | [692326](../reports/692326.md) | Followup - SQL Injection - https://██████████/██████/MSI.portal | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 3 |
-| 1855 | [3830771](../reports/3830771.md) | Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ██████ | [Essity](../by-program/essity.md) | High | — | 3 |
-| 1856 | [1641148](../reports/1641148.md) | Directory Traversal at █████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 3 |
-| 1857 | [745171](../reports/745171.md) | Unprotected ██████ and Test site API Exposes Documents, Credentia | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 3 |
-| 1858 | [677557](../reports/677557.md) | mod_http2, memory corruption on early pushes (CVE-2019-10081) | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.6 | — | 3 |
-| 1859 | [227762](../reports/227762.md) | Heap Overflow in fiber_switch triggered from Fiber.transfer | [shopify-scripts](../by-program/shopify-scripts.md) | High | — | 3 |
-| 1860 | [922567](../reports/922567.md) | SQL injection (stacked queries) in the export to Excel functional | [8x8](../by-program/8x8-bounty.md) | High | — | 3 |
-| 1861 | [247027](../reports/247027.md) | CVE-2017-10965: Null pointer dereference in Irssi <1.0.4  | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 3 |
-| 1862 | [895795](../reports/895795.md) | [h1-2006 2020]  Writeup h12006 CTF | [h1-ctf](../by-program/h1-ctf.md) | High | — | 2 |
-| 1863 | [3048061](../reports/3048061.md) | [Xenoblade Chronicles X: Definitive Edition] Buffer overflow in s | [Nintendo](../by-program/nintendo.md) | High — CVSS 8.2 | — | 2 |
-| 1864 | [581939](../reports/581939.md) | [static-server-gx] Path Traversal allowing to read any files on t | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 2 |
-| 1865 | [970520](../reports/970520.md) | exposed Git Repo at http://api.e2e-kops-aws-canary.test-cncf-aws. | [Kubernetes](../by-program/kubernetes.md) | High | — | 2 |
-| 1866 | [411405](../reports/411405.md) | [http-live-simulator] Path traversal vulnerability | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 2 |
-| 1867 | [3559522](../reports/3559522.md) | Splatoon 3 In-Match Integrity Bypass via Consensus Reflection Att | [Nintendo](../by-program/nintendo.md) | High — CVSS 7.1 | — | 2 |
-| 1868 | [460121](../reports/460121.md) | Publicly editable GitHub wikis | [Liberapay](../by-program/liberapay.md) | High | — | 2 |
-| 1869 | [188205](../reports/188205.md) | BruteForce in to Admin Account | [Nextcloud](../by-program/nextcloud.md) | High | — | 2 |
-| 1870 | [1347249](../reports/1347249.md) | Information disclosure | [Brave Software](../by-program/brave.md) | High | — | 2 |
-| 1871 | [1294043](../reports/1294043.md) | SSH server due to Improper Signature Verification | [Sifchain](../by-program/sifchain.md) | High — CVSS 7.0 | — | 2 |
-| 1872 | [360539](../reports/360539.md) | SQL Injection Proof of Concept for Starbucks URL | [Starbucks](../by-program/starbucks.md) | High | — | 2 |
-| 1873 | [268803](../reports/268803.md) | CVE-2017-12985: The IPv6 parser in tcpdump before 4.9.2 has a buf | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | — | 2 |
-| 1874 | [506498](../reports/506498.md) | (remote) exabyte allocation via load_from_binary() (DoS) | [Monero](../by-program/monero.md) | High | — | 2 |
-| 1875 | [2097517](../reports/2097517.md) | Waketime Payment Gateway Vulnerability | [WakaTime](../by-program/wakatime.md) | High — CVSS 7.5 | — | 2 |
-| 1876 | [714215](../reports/714215.md) | curl on Windows can be forced to execute code via OpenSSL environ | [curl](../by-program/curl.md) | High — CVSS 7.9 | — | 2 |
-| 1877 | [3619409](../reports/3619409.md) | Windows installer grants low-privileged users write access to exe | [Monero](../by-program/monero.md) | High — CVSS 7.3 | — | 2 |
-| 1878 | [3553340](../reports/3553340.md) | Active Storage Vips Transformer Missing validate_transformation — | [Ruby on Rails](../by-program/rails.md) | High — CVSS 7.5 | — | 2 |
-| 1879 | [1103212](../reports/1103212.md) | Found multiple SAP NetWeaver vulnerable services | [Acronis](../by-program/acronis.md) | High | — | 2 |
-| 1880 | [202969](../reports/202969.md) | CVE-2017-5482 The Q.933 parser in tcpdump before 4.9.0 has a buff | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | — | 2 |
-| 1881 | [227344](../reports/227344.md) | CVE-2017-8798 - miniupnp getHTTPResponse chunked encoding integer | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.1 | — | 2 |
-| 1882 | [228854](../reports/228854.md) | WordPress Automatic Update Protocol Does Not Authenticate Updates | [WordPress](../by-program/wordpress.md) | High — CVSS 8.1 | — | 2 |
-| 1883 | [732431](../reports/732431.md) | Improper integrity protection of server-side encryption keys | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 7.4 | — | 2 |
-| 1884 | [909757](../reports/909757.md) | [is-my-json-valid] ReDoS via 'style' format | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 2 |
-| 1885 | [1560324](../reports/1560324.md) | Cookie injection from non-secure context | [curl](../by-program/curl.md) | High | — | 2 |
-| 1886 | [413388](../reports/413388.md) | Untrusted strings that are cache fetched with raw option are auto | [Ruby on Rails](../by-program/rails.md) | High | — | 2 |
-| 1887 | [579523](../reports/579523.md) | [http_server] Path Traversal allowing to read any files on the se | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 2 |
-| 1888 | [1065885](../reports/1065885.md) | Complete destruction of the Grinch server | [h1-ctf](../by-program/h1-ctf.md) | High — CVSS 8.1 | — | 2 |
-| 1889 | [901799](../reports/901799.md) | Stored XSS on ████████helpdesk | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 2 |
-| 1890 | [1631447](../reports/1631447.md) | STORED XSS in █████████/nlc/login.aspx via "edit" GET parameter t | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High — CVSS 8.2 | — | 2 |
-| 1891 | [221163](../reports/221163.md) | heap-buffer-overflow (read outside of buffer) in Sass::Prelexer:: | [LibSass](../by-program/libsass.md) | High | — | 2 |
-| 1892 | [3760016](../reports/3760016.md) | Node.js WebCrypto AES Integer Overflow Leads to Remote Process Ab | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | — | 2 |
-| 1893 | [202968](../reports/202968.md) | CVE-2017-5342 In tcpdump before 4.9.0 a bug in multiple protocol  | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | — | 2 |
-| 1894 | [341044](../reports/341044.md) | [cloudcmd] Stored XSS in the filename when directories listing | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.5 | — | 2 |
-| 1895 | [3023605](../reports/3023605.md) | [CVE-2025-27220] ReDoS in CGI::Util#escapeElement | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.5 | — | 2 |
-| 1896 | [1018790](../reports/1018790.md) | Subdomains takeover of  register.acronis.com, promo.acronis.com,  | [Acronis](../by-program/acronis.md) | High | — | 2 |
-| 1897 | [947690](../reports/947690.md) | ClickJacking | [Acronis](../by-program/acronis.md) | High | — | 2 |
-| 1898 | [218324](../reports/218324.md) | An unsafe design practice in the Passphrase may result in Secret  | [Phabricator](../by-program/phabricator.md) | High | — | 2 |
-| 1899 | [812585](../reports/812585.md) | Sensitive Information Leaking Through Navy Website. [█████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 2 |
-| 1900 | [871156](../reports/871156.md) | [plain-object-merge] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 2 |
-| 1901 | [320159](../reports/320159.md) | `useragent` is vulnerable to ReDoS in user-agent string | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 2 |
-| 1902 | [802896](../reports/802896.md) | CVE-2017-13019:  The PGM parser in tcpdump before 4.9.2 has a buf | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 2 |
-| 1903 | [3686259](../reports/3686259.md) | `set_daemon` wallet-rpc silently ignores `ssl_allowed_fingerprint | [Monero](../by-program/monero.md) | High — CVSS 7.7 | — | 2 |
-| 1904 | [804980](../reports/804980.md) | Username&password is Disclosure in readme file in [https://██████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 2 |
-| 1905 | [3846922](../reports/3846922.md) | HTTP/2 retained header blocks evade maxSessionMemory and enable r | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | — | 2 |
-| 1906 | [1591085](../reports/1591085.md) | Several Subdomains Takeover | [Reddit](../by-program/reddit.md) | High | — | 2 |
-| 1907 | [3852135](../reports/3852135.md) | DDP methods getThreadsList / getThreadMessages leaks private thre | [Rocket.Chat](../by-program/rocket_chat.md) | High | — | 2 |
-| 1908 | [209860](../reports/209860.md) | Rate Limitation Vulnerability (DDos) | [Khan Academy](../by-program/khanacademy.md) | High — CVSS 7.6 | — | 2 |
-| 1909 | [506644](../reports/506644.md) | [@azhou/basemodel] SQL injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 2 |
-| 1910 | [264481](../reports/264481.md) | Stack overflow in UnbindFromTree (browser can be crashed remotely | [Tor](../by-program/torproject.md) | High | — | 1 |
-| 1911 | [877515](../reports/877515.md) | [keyd] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 1 |
-| 1912 | [509697](../reports/509697.md) | [md-fileserver] Path Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 1 |
-| 1913 | [879740](../reports/879740.md) | Repositories of datanucleus are fetched over insecure protocol (h | [Central Security Project](../by-program/central-security-project.md) | High — CVSS 8.1 | — | 1 |
-| 1914 | [878394](../reports/878394.md) | [objtools] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 1 |
-| 1915 | [506791](../reports/506791.md) | Pippo XML Entity Expansion (Billion Laughs Attack) | [Central Security Project](../by-program/central-security-project.md) | High — CVSS 8.3 | — | 1 |
-| 1916 | [3809407](../reports/3809407.md) | AWS *.a2z.com | Unauthenticated Clickhouse UI : Database access + | [AWS VDP](../by-program/aws_vdp.md) | High | — | 1 |
-| 1917 | [287667](../reports/287667.md) | CVE-2017-13090 wget heap smash | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.8 | — | 1 |
-| 1918 | [507303](../reports/507303.md) | [file-browser] Inadequate Output Encoding and Escaping  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 1 |
-| 1919 | [287666](../reports/287666.md) | CVE-2017-13089 wget stack smash | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.8 | — | 1 |
-| 1920 | [1542881](../reports/1542881.md) | curl proceeds with unsafe connections when -K file can't be read | [curl](../by-program/curl.md) | High — CVSS 8.0 | — | 1 |
-| 1921 | [770190](../reports/770190.md) | Unexpected access to process open files via file:///proc/self/fd/ | [curl](../by-program/curl.md) | High | — | 1 |
-| 1922 | [1276384](../reports/1276384.md) | Signature Verification /// golang.org/x/crypto/ssh | [Sifchain](../by-program/sifchain.md) | High — CVSS 7.0 | — | 1 |
-| 1923 | [390847](../reports/390847.md) | Prototype Pollution Vulnerability in cached-path-relative Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.6 | — | 1 |
-| 1924 | [281850](../reports/281850.md) | Provide a security sistem most fit to our team | [Ruby](../by-program/ruby.md) | High — CVSS 7.6 | — | 1 |
-| 1925 | [303480](../reports/303480.md) | Reflected XSS in admin settings | [Deconf](../by-program/deconf_com.md) | High | — | 1 |
-| 1926 | [1455266](../reports/1455266.md) | Arbitrary File Deletion (CVE-2020-3187) on ████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 1 |
-| 1927 | [916430](../reports/916430.md) | [json-bigint] DoS via `__proto__` assignment | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 1 |
-| 1928 | [1113663](../reports/1113663.md) | Inadequate Cryptographic Key Size and Insecure Cryptographic Mode | [curl](../by-program/curl.md) | High | — | 1 |
-| 1929 | [3869124](../reports/3869124.md) | **Unauthenticated IDOR allows modification of payment customer bi | [Weblate](../by-program/weblate.md) | High — CVSS 7.5 | — | 1 |
-| 1930 | [518097](../reports/518097.md) | libcurl: SMTP end-of-response out-of-bounds read - CVE-2019-3823 | [curl](../by-program/curl.md) | High — CVSS 7.5 | — | 1 |
-| 1931 | [764731](../reports/764731.md) | Publicly accessible Grafana install allows pivoting to Prometheus | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 1 |
-| 1932 | [507310](../reports/507310.md) | [deliver-or-else] Path Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 1 |
-| 1933 | [1455257](../reports/1455257.md) | CVE-2020-3452 on  https://█████/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 1 |
-| 1934 | [692360](../reports/692360.md) | UNRESTRICTED FILE UPLOAD AT chat.makerdao.com | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | High | — | 1 |
-| 1935 | [790623](../reports/790623.md) | [sirloin] Web Server Directory Traversal via Crafted GET Request | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 1 |
-| 1936 | [390871](../reports/390871.md) | Command Injection Vulnerability in win-fork/win-spawn Packages | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.4 | — | 1 |
-| 1937 | [536954](../reports/536954.md) | Vulnerability in http-parser & embedded NULL header handling | [Node.js](../by-program/nodejs.md) | High — CVSS 8.3 | — | 1 |
-| 1938 | [1485379](../reports/1485379.md) | Use of Unsafe function || Strcpy | [curl](../by-program/curl.md) | High | — | 1 |
-| 1939 | [865777](../reports/865777.md) | Bypass hide download Nextcloud Share | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 7.1 | — | 1 |
-| 1940 | [3393664](../reports/3393664.md) | SSRF via improper validation after DNS name resolution in the lin | [Rocket.Chat](../by-program/rocket_chat.md) | High — CVSS 7.7 | — | 1 |
-| 1941 | [3473145](../reports/3473145.md) | Unauthenticated SSRF in Voxtelesys integration ('checkUrlForSsrf' | [Rocket.Chat](../by-program/rocket_chat.md) | High — CVSS 8.6 | — | 1 |
-| 1942 | [3761342](../reports/3761342.md) | Permission Model: --allow-fs-read/--allow-fs-write radix-tree pre | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | — | 1 |
-| 1943 | [543775](../reports/543775.md) | Sensitive data disclosure via exposed phpunit file | [8x8](../by-program/8x8-bounty.md) | High | — | 1 |
-| 1944 | [940384](../reports/940384.md) | https://█████ is vulnerable to CVE-2020-3452 Read-Only Path Trave | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 1 |
-| 1945 | [790873](../reports/790873.md) | [hangersteak] Web Server Directory Traversal via Crafted GET Requ | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 1 |
-| 1946 | [966347](../reports/966347.md) | [bl] Uninitialized memory exposure via negative .consume() | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.7 | — | 1 |
-| 1947 | [508346](../reports/508346.md) | [increments] sql injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 1 |
-| 1948 | [1068880](../reports/1068880.md) | Writeup Submission | [h1-ctf](../by-program/h1-ctf.md) | High | — | 1 |
-| 1949 | [516237](../reports/516237.md) | Uninitialized read in exif_process_IFD_in_MAKERNOTE | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.5 | — | 1 |
-| 1950 | [878332](../reports/878332.md) | [object-path-set] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 0 |
-| 1951 | [333459](../reports/333459.md) | npm packages that overlap with core node packages | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 0 |
-| 1952 | [713975](../reports/713975.md) | Only OpenSSL handles a CRL when passed in via CApath  | [curl](../by-program/curl.md) | High | — | 0 |
-| 1953 | [358005](../reports/358005.md) | Tor Browser: iframe with `data:` uri  has access to parent window | [Tor](../by-program/torproject.md) | High | — | 0 |
-| 1954 | [1001218](../reports/1001218.md) | [@firebase/util] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 0 |
-| 1955 | [4057637](../reports/4057637.md) | [HIGH] CWE-22 — Path Traversal in FTP Wildcard Download via Unenc | [curl](../by-program/curl.md) | High | — | 0 |
-| 1956 | [1555440](../reports/1555440.md) | match | [curl](../by-program/curl.md) | High — CVSS 7.5 | — | 0 |
+| 1811 | [3943339](../reports/3943339.md) | One-click cross-account JavaScript execution steals a victim writ | [Basecamp](../by-program/basecamp.md) | High — CVSS 8.7 | — | 3 |
+| 1812 | [120941](../reports/120941.md) | NexTable: Credentials exposure | [Eternal](../by-program/eternal.md) | High — CVSS 8.5 | — | 3 |
+| 1813 | [1401268](../reports/1401268.md) | Persistent CSS injection with ’marked’ markdown parser in Rocket. | [Rocket.Chat](../by-program/rocket_chat.md) | High | — | 3 |
+| 1814 | [179121](../reports/179121.md) | Information disclosure of website | [Brave Software](../by-program/brave.md) | High | — | 3 |
+| 1815 | [1301696](../reports/1301696.md) | Bug Report : [ No Valid SPF Records ] | [Ruby](../by-program/ruby.md) | High | — | 3 |
+| 1816 | [341074](../reports/341074.md) | Bruteforce in admin panel | [Nextcloud](../by-program/nextcloud.md) | High | — | 3 |
+| 1817 | [140793](../reports/140793.md) | UniFi Video v3.2.2 (Windows) Local Privileges Escalation due to w | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 7.8 | — | 3 |
+| 1818 | [268808](../reports/268808.md) | CVE-2017-13038 The PPP parser in tcpdump before 4.9.2 has a buffe | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | — | 3 |
+| 1819 | [1664244](../reports/1664244.md) | fix(security):Path Traversal Bug | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | High | — | 3 |
+| 1820 | [1650210](../reports/1650210.md) | Corsa Site Scripting Vulnerability (XSS) | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | High | — | 3 |
+| 1821 | [219870](../reports/219870.md) | mirb only: stack-buffer-overflow (OOB write) in main() | [shopify-scripts](../by-program/shopify-scripts.md) | High | — | 3 |
+| 1822 | [891093](../reports/891093.md) | [H1-2006 2020] Solution for the h1-2006 CTF challenge | [h1-ctf](../by-program/h1-ctf.md) | High — CVSS 7.5 | — | 3 |
+| 1823 | [541354](../reports/541354.md) | A specifically malformed MQTT Subscribe packet crashes MQTT Broke | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 3 |
+| 1824 | [3781785](../reports/3781785.md) | Reflected HTML Injection in ████████ Login Page via infotext/sign | [Essity](../by-program/essity.md) | High | — | 3 |
+| 1825 | [358359](../reports/358359.md) | Privilage escalation with malicious .npmrc | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.1 | — | 3 |
+| 1826 | [672629](../reports/672629.md) | Online training material disclosing username and password | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 3 |
+| 1827 | [320586](../reports/320586.md) | `foreman` is vulnerable to ReDoS in path | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 3 |
+| 1828 | [221251](../reports/221251.md) | heap-buffer-overflow (read outside of buffer) in mrb_vm_exec() | [shopify-scripts](../by-program/shopify-scripts.md) | High | — | 3 |
+| 1829 | [832217](../reports/832217.md) | Android App Crashes while sending message to users/ on channel  | [Rocket.Chat](../by-program/rocket_chat.md) | High | — | 3 |
+| 1830 | [1410246](../reports/1410246.md) | getUserMentionsByChannel leaks messages with mention from private | [Rocket.Chat](../by-program/rocket_chat.md) | High | — | 3 |
+| 1831 | [1555021](../reports/1555021.md) | [CVE-2020-3452] Unauthenticated file read in Cisco ASA | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 3 |
+| 1832 | [260414](../reports/260414.md) | CVE-2017-12858: Heap UAF in _zip_buffer_free() / Double free in _ | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 3 |
+| 1833 | [804080](../reports/804080.md) | Domian Takeover in [███████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 3 |
+| 1834 | [222020](../reports/222020.md) | Mercurial can be tricked into granting authorized users access to | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 3 |
+| 1835 | [826238](../reports/826238.md) | load scripts DOS vulnerability | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | High | — | 3 |
+| 1836 | [247225](../reports/247225.md) | Session Duplication due to Broken Access Control | [WakaTime](../by-program/wakatime.md) | High | — | 3 |
+| 1837 | [195842](../reports/195842.md) | Segmentation fault - mrb_gc_mark | [shopify-scripts](../by-program/shopify-scripts.md) | High | — | 3 |
+| 1838 | [202960](../reports/202960.md) | CVE-2017-5204: The IPv6 parser in tcpdump before 4.9.0 has a buff | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | — | 3 |
+| 1839 | [381771](../reports/381771.md) | ████████ SQL | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 3 |
+| 1840 | [319473](../reports/319473.md) | [open] concatenation of unsanitized input into exec() command | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.4 | — | 3 |
+| 1841 | [3744200](../reports/3744200.md) | PHP code injection via unexpected delivery limitation parameter | [Revive Adserver](../by-program/revive_adserver.md) | High — CVSS 8.8 | — | 3 |
+| 1842 | [1047086](../reports/1047086.md) | Heap buffer overflow vulnerability while processing a malformed T | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.6 | — | 3 |
+| 1843 | [237860](../reports/237860.md) | ci.nextcloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploi | [Nextcloud](../by-program/nextcloud.md) | High | — | 3 |
+| 1844 | [335495](../reports/335495.md) | Out of order TLS handshake / application data messages lead to se | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | — | 3 |
+| 1845 | [296994](../reports/296994.md) | Exim handles BDAT data incorrectly and leads to crash/hang | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.5 | — | 3 |
+| 1846 | [867164](../reports/867164.md) | External storage app saves password for all users in the database | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 7.9 | — | 3 |
+| 1847 | [295740](../reports/295740.md) | GarlicRust - heartbleed style vulnerability in major I2P C++ rout | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.7 | — | 3 |
+| 1848 | [3688064](../reports/3688064.md) | Node.js unicode dot separator handling can lead to tls wildcard-d | [Node.js](../by-program/nodejs.md) | High — CVSS 7.7 | — | 3 |
+| 1849 | [728110](../reports/728110.md) | [HTAF4-213] [Pre-submission] CVE-2018-2879 (padding oracle attack | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 3 |
+| 1850 | [3781492](../reports/3781492.md) | PHP code injection in delivery-limitation `logical` validation by | [Revive Adserver](../by-program/revive_adserver.md) | High — CVSS 8.8 | — | 3 |
+| 1851 | [1316412](../reports/1316412.md) | Information Exposure Through Directory Listing | [Tor](../by-program/torproject.md) | High | — | 3 |
+| 1852 | [45050](../reports/45050.md) | [community.informatica.com] - CSRF in Private Messages allows to  | [Informatica](../by-program/informatica.md) | High | — | 3 |
+| 1853 | [3784125](../reports/3784125.md) | GnuTLS OCSP stapling accepts unrelated SingleResponse (no cert-ID | [curl](../by-program/curl.md) | High | — | 3 |
+| 1854 | [320269](../reports/320269.md) | `npmconf` (and `npm` js api) allocate and write to disk uninitial | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.4 | — | 3 |
+| 1855 | [692326](../reports/692326.md) | Followup - SQL Injection - https://██████████/██████/MSI.portal | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 3 |
+| 1856 | [3830771](../reports/3830771.md) | Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ██████ | [Essity](../by-program/essity.md) | High | — | 3 |
+| 1857 | [1641148](../reports/1641148.md) | Directory Traversal at █████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 3 |
+| 1858 | [745171](../reports/745171.md) | Unprotected ██████ and Test site API Exposes Documents, Credentia | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 3 |
+| 1859 | [677557](../reports/677557.md) | mod_http2, memory corruption on early pushes (CVE-2019-10081) | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.6 | — | 3 |
+| 1860 | [227762](../reports/227762.md) | Heap Overflow in fiber_switch triggered from Fiber.transfer | [shopify-scripts](../by-program/shopify-scripts.md) | High | — | 3 |
+| 1861 | [922567](../reports/922567.md) | SQL injection (stacked queries) in the export to Excel functional | [8x8](../by-program/8x8-bounty.md) | High | — | 3 |
+| 1862 | [247027](../reports/247027.md) | CVE-2017-10965: Null pointer dereference in Irssi <1.0.4  | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 3 |
+| 1863 | [895795](../reports/895795.md) | [h1-2006 2020]  Writeup h12006 CTF | [h1-ctf](../by-program/h1-ctf.md) | High | — | 2 |
+| 1864 | [3048061](../reports/3048061.md) | [Xenoblade Chronicles X: Definitive Edition] Buffer overflow in s | [Nintendo](../by-program/nintendo.md) | High — CVSS 8.2 | — | 2 |
+| 1865 | [581939](../reports/581939.md) | [static-server-gx] Path Traversal allowing to read any files on t | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 2 |
+| 1866 | [970520](../reports/970520.md) | exposed Git Repo at http://api.e2e-kops-aws-canary.test-cncf-aws. | [Kubernetes](../by-program/kubernetes.md) | High | — | 2 |
+| 1867 | [411405](../reports/411405.md) | [http-live-simulator] Path traversal vulnerability | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 2 |
+| 1868 | [3559522](../reports/3559522.md) | Splatoon 3 In-Match Integrity Bypass via Consensus Reflection Att | [Nintendo](../by-program/nintendo.md) | High — CVSS 7.1 | — | 2 |
+| 1869 | [460121](../reports/460121.md) | Publicly editable GitHub wikis | [Liberapay](../by-program/liberapay.md) | High | — | 2 |
+| 1870 | [188205](../reports/188205.md) | BruteForce in to Admin Account | [Nextcloud](../by-program/nextcloud.md) | High | — | 2 |
+| 1871 | [1347249](../reports/1347249.md) | Information disclosure | [Brave Software](../by-program/brave.md) | High | — | 2 |
+| 1872 | [1294043](../reports/1294043.md) | SSH server due to Improper Signature Verification | [Sifchain](../by-program/sifchain.md) | High — CVSS 7.0 | — | 2 |
+| 1873 | [360539](../reports/360539.md) | SQL Injection Proof of Concept for Starbucks URL | [Starbucks](../by-program/starbucks.md) | High | — | 2 |
+| 1874 | [268803](../reports/268803.md) | CVE-2017-12985: The IPv6 parser in tcpdump before 4.9.2 has a buf | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | — | 2 |
+| 1875 | [506498](../reports/506498.md) | (remote) exabyte allocation via load_from_binary() (DoS) | [Monero](../by-program/monero.md) | High | — | 2 |
+| 1876 | [2097517](../reports/2097517.md) | Waketime Payment Gateway Vulnerability | [WakaTime](../by-program/wakatime.md) | High — CVSS 7.5 | — | 2 |
+| 1877 | [714215](../reports/714215.md) | curl on Windows can be forced to execute code via OpenSSL environ | [curl](../by-program/curl.md) | High — CVSS 7.9 | — | 2 |
+| 1878 | [3619409](../reports/3619409.md) | Windows installer grants low-privileged users write access to exe | [Monero](../by-program/monero.md) | High — CVSS 7.3 | — | 2 |
+| 1879 | [3553340](../reports/3553340.md) | Active Storage Vips Transformer Missing validate_transformation — | [Ruby on Rails](../by-program/rails.md) | High — CVSS 7.5 | — | 2 |
+| 1880 | [1103212](../reports/1103212.md) | Found multiple SAP NetWeaver vulnerable services | [Acronis](../by-program/acronis.md) | High | — | 2 |
+| 1881 | [202969](../reports/202969.md) | CVE-2017-5482 The Q.933 parser in tcpdump before 4.9.0 has a buff | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | — | 2 |
+| 1882 | [227344](../reports/227344.md) | CVE-2017-8798 - miniupnp getHTTPResponse chunked encoding integer | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.1 | — | 2 |
+| 1883 | [228854](../reports/228854.md) | WordPress Automatic Update Protocol Does Not Authenticate Updates | [WordPress](../by-program/wordpress.md) | High — CVSS 8.1 | — | 2 |
+| 1884 | [732431](../reports/732431.md) | Improper integrity protection of server-side encryption keys | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 7.4 | — | 2 |
+| 1885 | [909757](../reports/909757.md) | [is-my-json-valid] ReDoS via 'style' format | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 2 |
+| 1886 | [1560324](../reports/1560324.md) | Cookie injection from non-secure context | [curl](../by-program/curl.md) | High | — | 2 |
+| 1887 | [413388](../reports/413388.md) | Untrusted strings that are cache fetched with raw option are auto | [Ruby on Rails](../by-program/rails.md) | High | — | 2 |
+| 1888 | [579523](../reports/579523.md) | [http_server] Path Traversal allowing to read any files on the se | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 2 |
+| 1889 | [1065885](../reports/1065885.md) | Complete destruction of the Grinch server | [h1-ctf](../by-program/h1-ctf.md) | High — CVSS 8.1 | — | 2 |
+| 1890 | [901799](../reports/901799.md) | Stored XSS on ████████helpdesk | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 2 |
+| 1891 | [1631447](../reports/1631447.md) | STORED XSS in █████████/nlc/login.aspx via "edit" GET parameter t | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High — CVSS 8.2 | — | 2 |
+| 1892 | [221163](../reports/221163.md) | heap-buffer-overflow (read outside of buffer) in Sass::Prelexer:: | [LibSass](../by-program/libsass.md) | High | — | 2 |
+| 1893 | [3760016](../reports/3760016.md) | Node.js WebCrypto AES Integer Overflow Leads to Remote Process Ab | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | — | 2 |
+| 1894 | [202968](../reports/202968.md) | CVE-2017-5342 In tcpdump before 4.9.0 a bug in multiple protocol  | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | — | 2 |
+| 1895 | [341044](../reports/341044.md) | [cloudcmd] Stored XSS in the filename when directories listing | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.5 | — | 2 |
+| 1896 | [3023605](../reports/3023605.md) | [CVE-2025-27220] ReDoS in CGI::Util#escapeElement | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.5 | — | 2 |
+| 1897 | [1018790](../reports/1018790.md) | Subdomains takeover of  register.acronis.com, promo.acronis.com,  | [Acronis](../by-program/acronis.md) | High | — | 2 |
+| 1898 | [947690](../reports/947690.md) | ClickJacking | [Acronis](../by-program/acronis.md) | High | — | 2 |
+| 1899 | [218324](../reports/218324.md) | An unsafe design practice in the Passphrase may result in Secret  | [Phabricator](../by-program/phabricator.md) | High | — | 2 |
+| 1900 | [812585](../reports/812585.md) | Sensitive Information Leaking Through Navy Website. [█████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 2 |
+| 1901 | [871156](../reports/871156.md) | [plain-object-merge] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 2 |
+| 1902 | [320159](../reports/320159.md) | `useragent` is vulnerable to ReDoS in user-agent string | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 2 |
+| 1903 | [802896](../reports/802896.md) | CVE-2017-13019:  The PGM parser in tcpdump before 4.9.2 has a buf | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 2 |
+| 1904 | [3686259](../reports/3686259.md) | `set_daemon` wallet-rpc silently ignores `ssl_allowed_fingerprint | [Monero](../by-program/monero.md) | High — CVSS 7.7 | — | 2 |
+| 1905 | [804980](../reports/804980.md) | Username&password is Disclosure in readme file in [https://██████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 2 |
+| 1906 | [3846922](../reports/3846922.md) | HTTP/2 retained header blocks evade maxSessionMemory and enable r | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | — | 2 |
+| 1907 | [1591085](../reports/1591085.md) | Several Subdomains Takeover | [Reddit](../by-program/reddit.md) | High | — | 2 |
+| 1908 | [3852135](../reports/3852135.md) | DDP methods getThreadsList / getThreadMessages leaks private thre | [Rocket.Chat](../by-program/rocket_chat.md) | High | — | 2 |
+| 1909 | [209860](../reports/209860.md) | Rate Limitation Vulnerability (DDos) | [Khan Academy](../by-program/khanacademy.md) | High — CVSS 7.6 | — | 2 |
+| 1910 | [506644](../reports/506644.md) | [@azhou/basemodel] SQL injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 2 |
+| 1911 | [264481](../reports/264481.md) | Stack overflow in UnbindFromTree (browser can be crashed remotely | [Tor](../by-program/torproject.md) | High | — | 1 |
+| 1912 | [877515](../reports/877515.md) | [keyd] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 1 |
+| 1913 | [509697](../reports/509697.md) | [md-fileserver] Path Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 1 |
+| 1914 | [879740](../reports/879740.md) | Repositories of datanucleus are fetched over insecure protocol (h | [Central Security Project](../by-program/central-security-project.md) | High — CVSS 8.1 | — | 1 |
+| 1915 | [878394](../reports/878394.md) | [objtools] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 1 |
+| 1916 | [506791](../reports/506791.md) | Pippo XML Entity Expansion (Billion Laughs Attack) | [Central Security Project](../by-program/central-security-project.md) | High — CVSS 8.3 | — | 1 |
+| 1917 | [3809407](../reports/3809407.md) | AWS *.a2z.com | Unauthenticated Clickhouse UI : Database access + | [AWS VDP](../by-program/aws_vdp.md) | High | — | 1 |
+| 1918 | [287667](../reports/287667.md) | CVE-2017-13090 wget heap smash | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.8 | — | 1 |
+| 1919 | [507303](../reports/507303.md) | [file-browser] Inadequate Output Encoding and Escaping  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 1 |
+| 1920 | [287666](../reports/287666.md) | CVE-2017-13089 wget stack smash | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.8 | — | 1 |
+| 1921 | [1542881](../reports/1542881.md) | curl proceeds with unsafe connections when -K file can't be read | [curl](../by-program/curl.md) | High — CVSS 8.0 | — | 1 |
+| 1922 | [770190](../reports/770190.md) | Unexpected access to process open files via file:///proc/self/fd/ | [curl](../by-program/curl.md) | High | — | 1 |
+| 1923 | [1276384](../reports/1276384.md) | Signature Verification /// golang.org/x/crypto/ssh | [Sifchain](../by-program/sifchain.md) | High — CVSS 7.0 | — | 1 |
+| 1924 | [390847](../reports/390847.md) | Prototype Pollution Vulnerability in cached-path-relative Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.6 | — | 1 |
+| 1925 | [281850](../reports/281850.md) | Provide a security sistem most fit to our team | [Ruby](../by-program/ruby.md) | High — CVSS 7.6 | — | 1 |
+| 1926 | [303480](../reports/303480.md) | Reflected XSS in admin settings | [Deconf](../by-program/deconf_com.md) | High | — | 1 |
+| 1927 | [1455266](../reports/1455266.md) | Arbitrary File Deletion (CVE-2020-3187) on ████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 1 |
+| 1928 | [916430](../reports/916430.md) | [json-bigint] DoS via `__proto__` assignment | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 1 |
+| 1929 | [1113663](../reports/1113663.md) | Inadequate Cryptographic Key Size and Insecure Cryptographic Mode | [curl](../by-program/curl.md) | High | — | 1 |
+| 1930 | [3869124](../reports/3869124.md) | **Unauthenticated IDOR allows modification of payment customer bi | [Weblate](../by-program/weblate.md) | High — CVSS 7.5 | — | 1 |
+| 1931 | [518097](../reports/518097.md) | libcurl: SMTP end-of-response out-of-bounds read - CVE-2019-3823 | [curl](../by-program/curl.md) | High — CVSS 7.5 | — | 1 |
+| 1932 | [764731](../reports/764731.md) | Publicly accessible Grafana install allows pivoting to Prometheus | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 1 |
+| 1933 | [507310](../reports/507310.md) | [deliver-or-else] Path Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 1 |
+| 1934 | [1455257](../reports/1455257.md) | CVE-2020-3452 on  https://█████/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 1 |
+| 1935 | [692360](../reports/692360.md) | UNRESTRICTED FILE UPLOAD AT chat.makerdao.com | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | High | — | 1 |
+| 1936 | [790623](../reports/790623.md) | [sirloin] Web Server Directory Traversal via Crafted GET Request | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 1 |
+| 1937 | [390871](../reports/390871.md) | Command Injection Vulnerability in win-fork/win-spawn Packages | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.4 | — | 1 |
+| 1938 | [536954](../reports/536954.md) | Vulnerability in http-parser & embedded NULL header handling | [Node.js](../by-program/nodejs.md) | High — CVSS 8.3 | — | 1 |
+| 1939 | [1485379](../reports/1485379.md) | Use of Unsafe function || Strcpy | [curl](../by-program/curl.md) | High | — | 1 |
+| 1940 | [865777](../reports/865777.md) | Bypass hide download Nextcloud Share | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 7.1 | — | 1 |
+| 1941 | [3393664](../reports/3393664.md) | SSRF via improper validation after DNS name resolution in the lin | [Rocket.Chat](../by-program/rocket_chat.md) | High — CVSS 7.7 | — | 1 |
+| 1942 | [3473145](../reports/3473145.md) | Unauthenticated SSRF in Voxtelesys integration ('checkUrlForSsrf' | [Rocket.Chat](../by-program/rocket_chat.md) | High — CVSS 8.6 | — | 1 |
+| 1943 | [3761342](../reports/3761342.md) | Permission Model: --allow-fs-read/--allow-fs-write radix-tree pre | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | — | 1 |
+| 1944 | [543775](../reports/543775.md) | Sensitive data disclosure via exposed phpunit file | [8x8](../by-program/8x8-bounty.md) | High | — | 1 |
+| 1945 | [940384](../reports/940384.md) | https://█████ is vulnerable to CVE-2020-3452 Read-Only Path Trave | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 1 |
+| 1946 | [790873](../reports/790873.md) | [hangersteak] Web Server Directory Traversal via Crafted GET Requ | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 1 |
+| 1947 | [966347](../reports/966347.md) | [bl] Uninitialized memory exposure via negative .consume() | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.7 | — | 1 |
+| 1948 | [508346](../reports/508346.md) | [increments] sql injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 1 |
+| 1949 | [1068880](../reports/1068880.md) | Writeup Submission | [h1-ctf](../by-program/h1-ctf.md) | High | — | 1 |
+| 1950 | [516237](../reports/516237.md) | Uninitialized read in exif_process_IFD_in_MAKERNOTE | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.5 | — | 1 |
+| 1951 | [878332](../reports/878332.md) | [object-path-set] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 0 |
+| 1952 | [333459](../reports/333459.md) | npm packages that overlap with core node packages | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 0 |
+| 1953 | [713975](../reports/713975.md) | Only OpenSSL handles a CRL when passed in via CApath  | [curl](../by-program/curl.md) | High | — | 0 |
+| 1954 | [358005](../reports/358005.md) | Tor Browser: iframe with `data:` uri  has access to parent window | [Tor](../by-program/torproject.md) | High | — | 0 |
+| 1955 | [1001218](../reports/1001218.md) | [@firebase/util] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 0 |
+| 1956 | [4057637](../reports/4057637.md) | [HIGH] CWE-22 — Path Traversal in FTP Wildcard Download via Unenc | [curl](../by-program/curl.md) | High | — | 0 |
+| 1957 | [1555440](../reports/1555440.md) | match | [curl](../by-program/curl.md) | High — CVSS 7.5 | — | 0 |

@@ -12353,6 +12353,7 @@ https://hackerone.com/reports/3931771 | Author → stored XSS in wp-admin: unesc
 https://hackerone.com/reports/3931777 | Author → arbitrary file deletion anywhere on disk (site takeover) via `POST /wp/v2/media/<id>/finalize` poisoning `_wp_attachment_metadata`
 https://hackerone.com/reports/3938185 | Windows SSPI connection-pool probe can reuse a connection under the wrong user
 https://hackerone.com/reports/3938220 | libcurl cache updates follow symlinks and truncate their targets
+https://hackerone.com/reports/3943339 | One-click cross-account JavaScript execution steals a victim write token through Turbo pagination and unattached Active Storage HTML
 https://hackerone.com/reports/3952619 | Domainless COOKIEFILE cookie leaks to unrelated IP-literal hosts
 https://hackerone.com/reports/3955945 | curl_share TOCTOU > RCE via Curl_llist _dtor Function Pointer Hijack
 https://hackerone.com/reports/3963330 | libcurl Digest/NTLM authentication ignores an explicit Authorization header
