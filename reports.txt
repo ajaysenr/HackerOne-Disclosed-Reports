@@ -12124,6 +12124,7 @@ https://hackerone.com/reports/3676308 | POST /api/bitcoinWithdrawalFees returns 
 https://hackerone.com/reports/3676863 | Unbounded memory growth in `node:http2` clients via attacker-controlled ORIGIN frames
 https://hackerone.com/reports/3677576 | Missing access control when modifying parent entities via XML‑RPC
 https://hackerone.com/reports/3677759 | CVE-2026-6429: netrc credential leak with reused proxy connection
+https://hackerone.com/reports/3678395 | Path Traversal in mbstream Extract
 https://hackerone.com/reports/3678828 | Banner status override by advertiser‑level users
 https://hackerone.com/reports/3679471 | HTML Injection in Transaction Confirmation Dialog via Address Book Description Enables UI Spoofing Before Fund Transfer
 https://hackerone.com/reports/3679660 | mruby-engine: UAF in MRubyEngine#initialize enables local RCE

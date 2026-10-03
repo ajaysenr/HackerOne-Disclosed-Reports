@@ -236886,6 +236886,28 @@
     "votes": 15
   },
   {
+    "id": 3678395,
+    "url": "https://hackerone.com/reports/3678395",
+    "title": "Path Traversal in mbstream Extract",
+    "visibility": "full",
+    "program": "MariaDB",
+    "program_handle": "mariadb",
+    "reporter": "riscj",
+    "severity": "high",
+    "cvss": 7.8,
+    "weakness": "Path Traversal",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2018-1002200",
+      "CVE-2018-1002201"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-04-16",
+    "disclosed_at": "2026-10-03T12:57:48.124Z",
+    "votes": 0
+  },
+  {
     "id": 3678828,
     "url": "https://hackerone.com/reports/3678828",
     "title": "Banner status override by advertiser\u2011level users",
