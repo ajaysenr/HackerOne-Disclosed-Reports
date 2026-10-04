@@ -2133,7 +2133,7 @@
 | 2129 | [strikeout](https://hackerone.com/strikeout) | 1 | $0 | 28 |
 | 2130 | [chols](https://hackerone.com/chols) | 3 | $0 | 29 |
 | 2131 | [ractiurd](https://hackerone.com/ractiurd) | 1 | $0 | 12 |
-| 2132 | [fg0x0](https://hackerone.com/fg0x0) | 5 | $0 | 30 |
+| 2132 | [fg0x0](https://hackerone.com/fg0x0) | 6 | $0 | 33 |
 | 2133 | [emptymahbob](https://hackerone.com/emptymahbob) | 1 | $0 | 8 |
 | 2134 | [mlgzackfly](https://hackerone.com/mlgzackfly) | 1 | $0 | 15 |
 | 2135 | [ahmedna126](https://hackerone.com/ahmedna126) | 1 | $0 | 43 |

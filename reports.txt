@@ -12232,6 +12232,7 @@ https://hackerone.com/reports/3761789 | Mentioned unites are at the same time .T
 https://hackerone.com/reports/3764217 | Any installed app can force immediate logout and persistent DOS of authenticated Basecamp sessions via unprotected exported StartActivity
 https://hackerone.com/reports/3765476 | Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ████████
 https://hackerone.com/reports/3766065 | CURLOPT_COOKIE leaked to cross-origin redirect target — CURLOPT_UNRESTRICTED_AUTH bypass for the STRING_COOKIE path
+https://hackerone.com/reports/3766217 | libmariadb ( mariadb-connector-c ): stack overflow via server-controlled field->length in prepared-statement codec
 https://hackerone.com/reports/3766392 | curl External-Controlled Filename in `--url @file` Leads to Arbitrary File Overwrite
 https://hackerone.com/reports/3766455 | Yelp for Business: locked Email field silently editable via API
 https://hackerone.com/reports/3767963 | Proxy CONNECT response poisoning via authentication retry in cf-h1-proxy.c (libcurl)

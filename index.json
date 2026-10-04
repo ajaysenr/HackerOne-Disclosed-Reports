@@ -239038,6 +239038,25 @@
     "votes": 0
   },
   {
+    "id": 3766217,
+    "url": "https://hackerone.com/reports/3766217",
+    "title": "libmariadb ( mariadb-connector-c ): stack overflow via server-controlled field->length in prepared-statement codec",
+    "visibility": "full",
+    "program": "MariaDB",
+    "program_handle": "mariadb",
+    "reporter": "fg0x0",
+    "severity": "medium",
+    "cvss": 4.1,
+    "weakness": "Stack Overflow",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-05-28",
+    "disclosed_at": "2026-10-04T07:44:56.098Z",
+    "votes": 3
+  },
+  {
     "id": 3766392,
     "url": "https://hackerone.com/reports/3766392",
     "title": "curl External-Controlled Filename in `--url @file` Leads to Arbitrary File Overwrite",
