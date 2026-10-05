@@ -242378,6 +242378,25 @@
     "votes": 2
   },
   {
+    "id": 3987499,
+    "url": "https://hackerone.com/reports/3987499",
+    "title": "Client-Side Denial of Service (DoS) via Memory Exhaustion on Password Reset Endpoint",
+    "visibility": "full",
+    "program": "Khan Academy",
+    "program_handle": "khanacademy",
+    "reporter": "letx_world",
+    "severity": "high",
+    "cvss": 7.7,
+    "weakness": "Uncontrolled Resource Consumption",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-09-01",
+    "disclosed_at": "2026-10-05T02:23:43.814Z",
+    "votes": 1
+  },
+  {
     "id": 3993850,
     "url": "https://hackerone.com/reports/3993850",
     "title": "Apple SecTrust fallback ignores CURLOPT_CRLFILE, letting a revoked cert pass",
