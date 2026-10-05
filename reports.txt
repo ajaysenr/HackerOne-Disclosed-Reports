@@ -12288,6 +12288,7 @@ https://hackerone.com/reports/3795900 | node:sqlite SQLTagStore Iterator Replay 
 https://hackerone.com/reports/3797526 | CVE-2026-12064: proto-default skips SSH verification
 https://hackerone.com/reports/3799010 | TaskProcessing callback authorization bypass allows ex-members to post as Assistant Talk Bot
 https://hackerone.com/reports/3800870 | connect.8x8.com/api/v1: JWT Algorithm Confusion Vulnerability
+https://hackerone.com/reports/3802451 | HTML Injection in Contact Form Email Enables Phishing via Legitimate ████████ Infrastructure
 https://hackerone.com/reports/3802645 | verify-release rebuilds from the tarball under verification, enabling pre-check command execution and false OK for a malicious curl release tarball
 https://hackerone.com/reports/3803415 | Secure cookies leaked to HTTP origins through HTTPS forwarding proxy
 https://hackerone.com/reports/3804525 | Vulnerability Report: Buffer Overflow in Path Sanitization
@@ -12419,3 +12420,6 @@ https://hackerone.com/reports/4033971 | Use-after-free of the internal multi->ad
 https://hackerone.com/reports/4040799 | Windows filename sanitizer misses Unicode COM/LPT reserved device names
 https://hackerone.com/reports/4053066 | Missing applicability validation allows non-applicable HTTPS RR to reach ECH processing
 https://hackerone.com/reports/4057637 | [HIGH] CWE-22 — Path Traversal in FTP Wildcard Download via Unencoded `.` in Escaped Filenames
+https://hackerone.com/reports/4059104 | IMAP literal size truncation on 32-bit platforms corrupts downloads and desynchronizes the response parser
+https://hackerone.com/reports/4064040 | Use-after-free read of the freed referer buffer in `curl_easy_setopt(CURLOPT_REFERER)` — stale heap bytes transmitted in an outbound `Referer:` heade
+https://hackerone.com/reports/4085412 | Rustls backend discloses out-of-bounds heap data during legal IMAP upload cancellation
