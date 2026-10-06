@@ -11274,6 +11274,7 @@ https://hackerone.com/reports/2807139 | CVE-2024-49761: ReDoS vulnerability in R
 https://hackerone.com/reports/2808412 | A potential risk in the experimental-programmatic-access-ccft which can be used to privilege escalation.
 https://hackerone.com/reports/2812583 | Open redirect via redirect_to parameter in tumblr.com
 https://hackerone.com/reports/2814750 | Inconsistent URL Parsing in curl Leading to Potential SSRF and Access Control Bypass
+https://hackerone.com/reports/2814774 | Possible DoS in NumberHelpers
 https://hackerone.com/reports/2817648 | Improper error handling in async cryptographic operations crashes process
 https://hackerone.com/reports/2817658 | Unauthenticated Path Traversal and Command Injection in Trellix Enterprise Security Manager 11.6.10
 https://hackerone.com/reports/2818009 | Missing ^ Line Beginner Leads to Origin Spoofing
@@ -12422,4 +12423,5 @@ https://hackerone.com/reports/4053066 | Missing applicability validation allows 
 https://hackerone.com/reports/4057637 | [HIGH] CWE-22 — Path Traversal in FTP Wildcard Download via Unencoded `.` in Escaped Filenames
 https://hackerone.com/reports/4059104 | IMAP literal size truncation on 32-bit platforms corrupts downloads and desynchronizes the response parser
 https://hackerone.com/reports/4064040 | Use-after-free read of the freed referer buffer in `curl_easy_setopt(CURLOPT_REFERER)` — stale heap bytes transmitted in an outbound `Referer:` heade
+https://hackerone.com/reports/4071872 | libcurl: Secure=1 cookie flag bypasses the 8.22.0 fix and leaks over HTTP
 https://hackerone.com/reports/4085412 | Rustls backend discloses out-of-bounds heap data during legal IMAP upload cancellation

@@ -220310,6 +220310,25 @@
     "votes": 22
   },
   {
+    "id": 2814774,
+    "url": "https://hackerone.com/reports/2814774",
+    "title": "Possible DoS in NumberHelpers",
+    "visibility": "no-content",
+    "program": "Ruby on Rails",
+    "program_handle": "rails",
+    "reporter": "manun",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Uncontrolled Resource Consumption",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2024-10-31",
+    "disclosed_at": "2026-10-06T18:43:32.035Z",
+    "votes": 1
+  },
+  {
     "id": 2817648,
     "url": "https://hackerone.com/reports/2817648",
     "title": "Improper error handling in async cryptographic operations crashes process",
@@ -242760,6 +242779,27 @@
     "reported_at": "2026-09-27",
     "disclosed_at": "2026-10-05T14:30:48.423Z",
     "votes": 2
+  },
+  {
+    "id": 4071872,
+    "url": "https://hackerone.com/reports/4071872",
+    "title": "libcurl: Secure=1 cookie flag bypasses the 8.22.0 fix and leaks over HTTP",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "nonetype_",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Information Exposure Through Sent Data",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-80255"
+    ],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-30",
+    "disclosed_at": "2026-10-06T15:09:22.803Z",
+    "votes": 1
   },
   {
     "id": 4085412,

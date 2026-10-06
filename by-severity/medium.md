@@ -1,4 +1,4 @@
-# Severity: Medium (3572 reports)
+# Severity: Medium (3573 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -3536,43 +3536,44 @@
 | 3530 | [995699](../reports/995699.md) | csi-snapshot-controller crashes when processing VolumeSnapshot wi | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 5.0 | — | 1 |
 | 3531 | [3676863](../reports/3676863.md) | Unbounded memory growth in `node:http2` clients via attacker-cont | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.3 | — | 1 |
 | 3532 | [798744](../reports/798744.md) | Null Pointer Dereference in PHP Session Upload Progress | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 1 |
-| 3533 | [3744543](../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | [curl](../by-program/curl.md) | Medium | — | 1 |
-| 3534 | [1252020](../reports/1252020.md) | XSS on https://████████/████' parameter | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
-| 3535 | [3515557](../reports/3515557.md) | Loss of multisig funds through single malicious participant's del | [Monero](../by-program/monero.md) | Medium | — | 1 |
-| 3536 | [204996](../reports/204996.md) | Access to job creation web page on http://████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
-| 3537 | [1377105](../reports/1377105.md) | Message ID Enumeration with Regular Expression in getReadReceipts | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 4.3 | — | 1 |
-| 3538 | [674838](../reports/674838.md) | SQL Injection - https://███/█████████/MSI.portal | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
-| 3539 | [3648638](../reports/3648638.md) | monero:// deeplink parsing accepts tx_amount=(all) and can trigge | [Monero](../by-program/monero.md) | Medium — CVSS 6.5 | — | 1 |
-| 3540 | [3793243](../reports/3793243.md) | Reflected XSS in stats‑video.php via improperly encoded URL param | [Revive Adserver](../by-program/revive_adserver.md) | Medium — CVSS 4.7 | — | 1 |
-| 3541 | [492767](../reports/492767.md) | [https://███] Local File Inclusion via graph.php | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
-| 3542 | [3963725](../reports/3963725.md) | wolfSSL backend disables hostname verification when CURLOPT_SSL_V | [curl](../by-program/curl.md) | Medium | — | 1 |
-| 3543 | [3735193](../reports/3735193.md) | CVE-2026-8925: SASL double-free | [curl](../by-program/curl.md) | Medium | — | 1 |
-| 3544 | [1019457](../reports/1019457.md) | Data race conditions reported by helgrind when performing paralle | [curl](../by-program/curl.md) | Medium — CVSS 5.2 | — | 0 |
-| 3545 | [4025056](../reports/4025056.md) | HTTP/1.1 response framing violation and unsafe connection reuse w | [curl](../by-program/curl.md) | Medium | — | 0 |
-| 3546 | [687734](../reports/687734.md) | Double-free of `trailers_buf' on `Curl_http_compile_trailers()` f | [curl](../by-program/curl.md) | Medium — CVSS 6.3 | — | 0 |
-| 3547 | [3823932](../reports/3823932.md) | CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabling HAProx | [curl](../by-program/curl.md) | Medium | — | 0 |
-| 3548 | [4033971](../reports/4033971.md) | Use-after-free of the internal multi->admin easy handle via the d | [curl](../by-program/curl.md) | Medium | — | 0 |
-| 3549 | [315037](../reports/315037.md) | Media parsing in canvas is at least vulnerable to Denial of Servi | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 0 |
-| 3550 | [885031](../reports/885031.md) | [commit-msg] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.4 | — | 0 |
-| 3551 | [1437942](../reports/1437942.md) | DLL hijacking in Monero GUI for Windows 0.17.3.0 would allow an a | [Monero](../by-program/monero.md) | Medium | — | 0 |
-| 3552 | [672245](../reports/672245.md) | Use After Free in GC with Certain Destructors | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 0 |
-| 3553 | [726364](../reports/726364.md) | Crash Node.js process from handlebars using a small and simple so | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.5 | — | 0 |
-| 3554 | [1243782](../reports/1243782.md) | CUI labled and ████ Restricted pdf on █████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 0 |
-| 3555 | [4085412](../reports/4085412.md) | Rustls backend discloses out-of-bounds heap data during legal IMA | [curl](../by-program/curl.md) | Medium | — | 0 |
-| 3556 | [797159](../reports/797159.md) | PHP builded for Windows with TS support does not resolve relalati | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.8 | — | 0 |
-| 3557 | [3812439](../reports/3812439.md) | HTTPS Agent TLS session reuse skips hostname verification across  | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.3 | — | 0 |
-| 3558 | [3766065](../reports/3766065.md) | CURLOPT_COOKIE leaked to cross-origin redirect target — CURLOPT_U | [curl](../by-program/curl.md) | Medium | — | 0 |
-| 3559 | [3696266](../reports/3696266.md) | Path Traversal in Nextcloud Talk Android Exposes User Credentials | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.5 | — | 0 |
-| 3560 | [3968729](../reports/3968729.md) | Unbound cross-peer HTTP Digest challenge state | [curl](../by-program/curl.md) | Medium | — | 0 |
-| 3561 | [688048](../reports/688048.md) | Incorrect IPv6 literal parsing leads to validated connection to u | [curl](../by-program/curl.md) | Medium — CVSS 6.3 | — | 0 |
-| 3562 | [949823](../reports/949823.md) | XSS DI BIODATA | [Bumble](../by-program/bumble.md) | Medium | — | 0 |
-| 3563 | [227102](../reports/227102.md) | Two Error-Based SQLi in courses.aspx on ██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 0 |
-| 3564 | [773313](../reports/773313.md) | Port and service scanning on localhost due to improper URL valida | [curl](../by-program/curl.md) | Medium — CVSS 6.3 | — | 0 |
-| 3565 | [263681](../reports/263681.md) | Improper error message | [Legal Robot](../by-program/legalrobot.md) | Medium | — | 0 |
-| 3566 | [950299](../reports/950299.md) | Use after free vulnerability  in phar_parse_zipfile | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 0 |
-| 3567 | [1300591](../reports/1300591.md) | Sensitive information on '████████' | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 0 |
-| 3568 | [3713682](../reports/3713682.md) | IDOR: autotranslate.translateMessage Full Message Content Leak | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 5.3 | — | 0 |
-| 3569 | [661959](../reports/661959.md) | Command Injection vulnerability in kill-port-process package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.1 | — | 0 |
-| 3570 | [3826199](../reports/3826199.md) | mbedTLS / wolfSSL / rustls backends silently skip hostname verifi | [curl](../by-program/curl.md) | Medium | — | 0 |
-| 3571 | [3923212](../reports/3923212.md) | URL API: triple-slash parses path segment as hostname | [curl](../by-program/curl.md) | Medium | — | 0 |
-| 3572 | [281682](../reports/281682.md) | Crashes/Buffer at 0x2C0086,name=PBrowser::Msg_Destroy  | [Tor](../by-program/torproject.md) | Medium | — | 0 |
+| 3533 | [2814774](../reports/2814774.md) | Possible DoS in NumberHelpers | [Ruby on Rails](../by-program/rails.md) | Medium | — | 1 |
+| 3534 | [3744543](../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | [curl](../by-program/curl.md) | Medium | — | 1 |
+| 3535 | [1252020](../reports/1252020.md) | XSS on https://████████/████' parameter | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
+| 3536 | [3515557](../reports/3515557.md) | Loss of multisig funds through single malicious participant's del | [Monero](../by-program/monero.md) | Medium | — | 1 |
+| 3537 | [204996](../reports/204996.md) | Access to job creation web page on http://████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
+| 3538 | [1377105](../reports/1377105.md) | Message ID Enumeration with Regular Expression in getReadReceipts | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 4.3 | — | 1 |
+| 3539 | [674838](../reports/674838.md) | SQL Injection - https://███/█████████/MSI.portal | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
+| 3540 | [3648638](../reports/3648638.md) | monero:// deeplink parsing accepts tx_amount=(all) and can trigge | [Monero](../by-program/monero.md) | Medium — CVSS 6.5 | — | 1 |
+| 3541 | [3793243](../reports/3793243.md) | Reflected XSS in stats‑video.php via improperly encoded URL param | [Revive Adserver](../by-program/revive_adserver.md) | Medium — CVSS 4.7 | — | 1 |
+| 3542 | [492767](../reports/492767.md) | [https://███] Local File Inclusion via graph.php | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
+| 3543 | [3963725](../reports/3963725.md) | wolfSSL backend disables hostname verification when CURLOPT_SSL_V | [curl](../by-program/curl.md) | Medium | — | 1 |
+| 3544 | [3735193](../reports/3735193.md) | CVE-2026-8925: SASL double-free | [curl](../by-program/curl.md) | Medium | — | 1 |
+| 3545 | [1019457](../reports/1019457.md) | Data race conditions reported by helgrind when performing paralle | [curl](../by-program/curl.md) | Medium — CVSS 5.2 | — | 0 |
+| 3546 | [4025056](../reports/4025056.md) | HTTP/1.1 response framing violation and unsafe connection reuse w | [curl](../by-program/curl.md) | Medium | — | 0 |
+| 3547 | [687734](../reports/687734.md) | Double-free of `trailers_buf' on `Curl_http_compile_trailers()` f | [curl](../by-program/curl.md) | Medium — CVSS 6.3 | — | 0 |
+| 3548 | [3823932](../reports/3823932.md) | CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabling HAProx | [curl](../by-program/curl.md) | Medium | — | 0 |
+| 3549 | [4033971](../reports/4033971.md) | Use-after-free of the internal multi->admin easy handle via the d | [curl](../by-program/curl.md) | Medium | — | 0 |
+| 3550 | [315037](../reports/315037.md) | Media parsing in canvas is at least vulnerable to Denial of Servi | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 0 |
+| 3551 | [885031](../reports/885031.md) | [commit-msg] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.4 | — | 0 |
+| 3552 | [1437942](../reports/1437942.md) | DLL hijacking in Monero GUI for Windows 0.17.3.0 would allow an a | [Monero](../by-program/monero.md) | Medium | — | 0 |
+| 3553 | [672245](../reports/672245.md) | Use After Free in GC with Certain Destructors | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 0 |
+| 3554 | [726364](../reports/726364.md) | Crash Node.js process from handlebars using a small and simple so | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.5 | — | 0 |
+| 3555 | [1243782](../reports/1243782.md) | CUI labled and ████ Restricted pdf on █████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 0 |
+| 3556 | [4085412](../reports/4085412.md) | Rustls backend discloses out-of-bounds heap data during legal IMA | [curl](../by-program/curl.md) | Medium | — | 0 |
+| 3557 | [797159](../reports/797159.md) | PHP builded for Windows with TS support does not resolve relalati | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.8 | — | 0 |
+| 3558 | [3812439](../reports/3812439.md) | HTTPS Agent TLS session reuse skips hostname verification across  | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.3 | — | 0 |
+| 3559 | [3766065](../reports/3766065.md) | CURLOPT_COOKIE leaked to cross-origin redirect target — CURLOPT_U | [curl](../by-program/curl.md) | Medium | — | 0 |
+| 3560 | [3696266](../reports/3696266.md) | Path Traversal in Nextcloud Talk Android Exposes User Credentials | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.5 | — | 0 |
+| 3561 | [3968729](../reports/3968729.md) | Unbound cross-peer HTTP Digest challenge state | [curl](../by-program/curl.md) | Medium | — | 0 |
+| 3562 | [688048](../reports/688048.md) | Incorrect IPv6 literal parsing leads to validated connection to u | [curl](../by-program/curl.md) | Medium — CVSS 6.3 | — | 0 |
+| 3563 | [949823](../reports/949823.md) | XSS DI BIODATA | [Bumble](../by-program/bumble.md) | Medium | — | 0 |
+| 3564 | [227102](../reports/227102.md) | Two Error-Based SQLi in courses.aspx on ██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 0 |
+| 3565 | [773313](../reports/773313.md) | Port and service scanning on localhost due to improper URL valida | [curl](../by-program/curl.md) | Medium — CVSS 6.3 | — | 0 |
+| 3566 | [263681](../reports/263681.md) | Improper error message | [Legal Robot](../by-program/legalrobot.md) | Medium | — | 0 |
+| 3567 | [950299](../reports/950299.md) | Use after free vulnerability  in phar_parse_zipfile | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 0 |
+| 3568 | [1300591](../reports/1300591.md) | Sensitive information on '████████' | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 0 |
+| 3569 | [3713682](../reports/3713682.md) | IDOR: autotranslate.translateMessage Full Message Content Leak | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 5.3 | — | 0 |
+| 3570 | [661959](../reports/661959.md) | Command Injection vulnerability in kill-port-process package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.1 | — | 0 |
+| 3571 | [3826199](../reports/3826199.md) | mbedTLS / wolfSSL / rustls backends silently skip hostname verifi | [curl](../by-program/curl.md) | Medium | — | 0 |
+| 3572 | [3923212](../reports/3923212.md) | URL API: triple-slash parses path segment as hostname | [curl](../by-program/curl.md) | Medium | — | 0 |
+| 3573 | [281682](../reports/281682.md) | Crashes/Buffer at 0x2C0086,name=PBrowser::Msg_Destroy  | [Tor](../by-program/torproject.md) | Medium | — | 0 |
