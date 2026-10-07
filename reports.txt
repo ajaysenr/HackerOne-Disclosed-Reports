@@ -12261,6 +12261,7 @@ https://hackerone.com/reports/3780733 | DNS domain search list followed for exta
 https://hackerone.com/reports/3780806 | Reflected XSS via unsanitised refresh parameter in zone invocation tag
 https://hackerone.com/reports/3780854 | PHP code injection in delivery-limitation `logical` validation bypass
 https://hackerone.com/reports/3781015 | Incomplete Fix for CVE-2026-21637: OCSPRequest and resumeSession Events Crash Node.js TLS Server via Unhandled Synchronous Exceptions
+https://hackerone.com/reports/3781201 | Pre-authentication `size_t` integer underflow → out-of-bounds read / server crash in MariaDB `caching_sha2_password` (auth_mysql_sha2) via an RSA-OAEP
 https://hackerone.com/reports/3781305 | OpenSSL TLS 1.2 session resumption accepts expired server certificates in libcurl
 https://hackerone.com/reports/3781311 | Stored XSS in maintenance tools via unescaped entity names
 https://hackerone.com/reports/3781492 | PHP code injection in delivery-limitation `logical` validation bypass - XML-RPC setChannelTargeting
@@ -12316,16 +12317,24 @@ https://hackerone.com/reports/3831432 | setopt(VERIFYPEER) from callback bypasse
 https://hackerone.com/reports/3832393 | libcurl upload read callbacks miss recursive API guard, allowing prohibited multi API reentry and ASAN-confirmed UAF
 https://hackerone.com/reports/3833577 | heap-use-after-free in curl_easy_cleanup() called from callback
 https://hackerone.com/reports/3833629 | Re-entrant `nghttp2_session_mem_send()` during `nghttp2_session_mem_recv()` causes heap-use-after-free in Node.js HTTP/2
+https://hackerone.com/reports/3836021 | Missing FILE-privilege enforcement in CONNECT file UDFs allows server-side file read and write
 https://hackerone.com/reports/3837634 | JaaS SIP Gateway Authorization Bypass
 https://hackerone.com/reports/3838601 | Permission Model Bypass: `trace_events.createTracing().enable()` Writes Trace Logs Outside `--allow-fs-write`
 https://hackerone.com/reports/3839889 | 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory
 https://hackerone.com/reports/3839914 | Unauthenticated Plugin Settings Modification on Three Crocoblock/Jet Plugins
 https://hackerone.com/reports/3846922 | HTTP/2 retained header blocks evade maxSessionMemory and enable remote memory exhaustion
+https://hackerone.com/reports/3848978 | `SHOW [CREATE|GRANTS] ...` / `mariadb-dump` Unescaped SQL Generation
+https://hackerone.com/reports/3849025 | DATA / INDEX DIRECTORY Abuse
+https://hackerone.com/reports/3849040 | #mysql50# legacy alias / stale table cache identity mismatch
+https://hackerone.com/reports/3849051 | #mysql50# legacy alias / internal table collisions
 https://hackerone.com/reports/3852135 | DDP methods getThreadsList / getThreadMessages leaks private thread content to any authenticated low privilege user (unpatched sibling of #1446767)
+https://hackerone.com/reports/3856148 | Low-privilege RCE in MariaDB: SYS_REFCURSOR cursor-array use-after-free chained with an ST_Area heap over-read
 https://hackerone.com/reports/3857258 | Reachable assertion in node:zlib sync API crashes the entire process via spoofed TypedArray byteLength (all 11 *Sync functions affected)
 https://hackerone.com/reports/3858504 | connect.8x8.com: Automation Builder - Input Validation Issue in Workflow Step Outputs
 https://hackerone.com/reports/3861550 | connect.8x8.com: Deserialization Vulnerability  in Automation Builder via Jint→Newtonsoft serializer coercion (TypeNameHandling)
 https://hackerone.com/reports/3862641 | IDOR allows user to access report details via reference.json endpoint
+https://hackerone.com/reports/3867358 | MariaDB Low-Privilege User Can Exhaust Memory Through a Formatting Function and Crash the Service
+https://hackerone.com/reports/3867363 | MariaDB HandlerSocket Improper Request Field-Count Validation Causes Server Crash
 https://hackerone.com/reports/3869124 | **Unauthenticated IDOR allows modification of payment customer billing information**
 https://hackerone.com/reports/3872239 | Connector/J: malicious server crashes client JVM via unbounded result-set field-count allocation in ClientMessage.readPacket
 https://hackerone.com/reports/3872858 | Stored HTML Injection (CWE-79) via Livechat Visitor Name
@@ -12333,6 +12342,7 @@ https://hackerone.com/reports/3873072 | Unauthenticated SQL Injection via REST B
 https://hackerone.com/reports/3874004 | Incomplete fix for CVE-2022-23915: Mercurial argument injection in HgRepository.get_file() leads to command execution
 https://hackerone.com/reports/3876430 | MariaDB GRANT PROXY permits unauthorized authentication changes and administrator account takeover
 https://hackerone.com/reports/3878586 | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, hide_from_lists) and uses frozen visibility, exposing donat
+https://hackerone.com/reports/3880451 | Privilege escalation via user controlled usernames / roles and views
 https://hackerone.com/reports/3887969 | SSRF via URL Parser Differential in `normalize_request_url` (wlc)
 https://hackerone.com/reports/3889473 | @jitsi/docker-jitsi-meet: `/colibri-relay-ws/` unsafe nginx regex (OCTO relay configuration)
 https://hackerone.com/reports/3889667 | ACL cache collision lets a role inherit privileges from a same-named socket user
@@ -12341,11 +12351,13 @@ https://hackerone.com/reports/3896671 | Connector/C Out-of-bounds read in `unpac
 https://hackerone.com/reports/3897588 | KILL authorization trusts the presented login name instead of the authenticated anonymous account
 https://hackerone.com/reports/3897914 | Out-of-bounds read in MariaDB .frm parsing enables RCE via vtable hijacking
 https://hackerone.com/reports/3898281 | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process-global lock in Weblate
+https://hackerone.com/reports/3908943 | DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_priv causing privilege escalation
 https://hackerone.com/reports/3909248 | MariaDB: heap buffer overflow in ha_tina::chain_append() lets a low-privileged user crash the server via CSV row deletion
 https://hackerone.com/reports/3909372 | Unauthorized vertical privilege escalation vulnerability found on ibm.com endpoint
 https://hackerone.com/reports/3911605 | SMTP CRLF injection in custom SMTP recipient operand allows additional SMTP commands after authentication
 https://hackerone.com/reports/3911968 | Heap use-after-free (write) in mev_forget_socket() via reentrant curl_easy_pause() — incomplete fix for CVE-2026-9080
 https://hackerone.com/reports/3913012 | Persistent SMTP header injection via identity `organization` / `name`
+https://hackerone.com/reports/3915935 | Heap Use-After-Free in Materialized_cursor::open via SYS_REFCURSOR Array Reallocation
 https://hackerone.com/reports/3916059 | CVE-2026-18924: HTTP/2 server push UAF
 https://hackerone.com/reports/3917775 | curl Missing Sec-WebSocket-Accept Verification Enables MITM WebSocket Session Hijacking
 https://hackerone.com/reports/3920276 | Cookie jar load skips public suffix check on PSL builds
