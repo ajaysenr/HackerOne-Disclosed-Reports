@@ -242994,6 +242994,32 @@
     "votes": 0
   },
   {
+    "id": 4063328,
+    "url": "https://hackerone.com/reports/4063328",
+    "title": "curl tool: --hsts is ignored for a schemeless URL starting with a slash under --proto-default http",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "samueloph",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Cleartext Transmission of Sensitive Information",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2022-30115",
+      "CVE-2022-42916",
+      "CVE-2022-43551",
+      "CVE-2023-23914",
+      "CVE-2023-23915",
+      "CVE-2026-12064"
+    ],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-26",
+    "disclosed_at": "2026-10-08T14:05:20.577Z",
+    "votes": 1
+  },
+  {
     "id": 4064040,
     "url": "https://hackerone.com/reports/4064040",
     "title": " Use-after-free read of the freed referer buffer in `curl_easy_setopt(CURLOPT_REFERER)` \u2014 stale heap bytes transmitted in an outbound `Referer:` heade",
@@ -243011,6 +243037,25 @@
     "reported_at": "2026-09-27",
     "disclosed_at": "2026-10-05T14:30:48.423Z",
     "votes": 2
+  },
+  {
+    "id": 4071670,
+    "url": "https://hackerone.com/reports/4071670",
+    "title": "HackerOne Code: a live password reset token reaches Datadog RUM, and the same session records the account it unlocks",
+    "visibility": "full",
+    "program": "HackerOne",
+    "program_handle": "security",
+    "reporter": "sujitjaunjal",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Insufficiently Protected Credentials",
+    "bounty": 200.0,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-09-30",
+    "disclosed_at": "2026-10-08T10:21:14.288Z",
+    "votes": 11
   },
   {
     "id": 4071872,
@@ -243051,5 +243096,24 @@
     "reported_at": "2026-10-04",
     "disclosed_at": "2026-10-05T11:32:02.864Z",
     "votes": 0
+  },
+  {
+    "id": 4093443,
+    "url": "https://hackerone.com/reports/4093443",
+    "title": " Cookie attribute truncation in curl drops Secure/HttpOnly protections",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "hasanfleyah",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Information Exposure Through Sent Data",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-07",
+    "disclosed_at": "2026-10-08T14:10:49.169Z",
+    "votes": 1
   }
 ]

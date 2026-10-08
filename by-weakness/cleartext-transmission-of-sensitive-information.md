@@ -1,4 +1,4 @@
-# Weakness: Cleartext Transmission of Sensitive Information (40 reports)
+# Weakness: Cleartext Transmission of Sensitive Information (41 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -40,7 +40,8 @@
 | 34 | [3621851](../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | [curl](../by-program/curl.md) | Low | — | 10 |
 | 35 | [1814333](../reports/1814333.md) | CVE-2023-23915: HSTS amnesia with --parallel | [curl](../by-program/curl.md) | Low | — | 7 |
 | 36 | [1813864](../reports/1813864.md) | CVE-2023-23914: curl HSTS ignored on multiple requests | [curl](../by-program/curl.md) | Low | — | 6 |
-| 37 | [3770979](../reports/3770979.md) | SMTP connection reuse ignores --ssl-reqd / CURLOPT_USE_SSL and re | [curl](../by-program/curl.md) | Low | — | 1 |
-| 38 | [1708873](../reports/1708873.md) | Vulnerable moment-timezone version shipped | [Nextcloud](../by-program/nextcloud.md) | None | — | 9 |
-| 39 | [374053](../reports/374053.md) | Accessing to download.nextcloud.com from original ip adreess | in | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
-| 40 | [265441](../reports/265441.md) | Error the message with already e-mail  | [Legal Robot](../by-program/legalrobot.md) | None | — | 2 |
+| 37 | [4063328](../reports/4063328.md) | curl tool: --hsts is ignored for a schemeless URL starting with a | [curl](../by-program/curl.md) | Low | — | 1 |
+| 38 | [3770979](../reports/3770979.md) | SMTP connection reuse ignores --ssl-reqd / CURLOPT_USE_SSL and re | [curl](../by-program/curl.md) | Low | — | 1 |
+| 39 | [1708873](../reports/1708873.md) | Vulnerable moment-timezone version shipped | [Nextcloud](../by-program/nextcloud.md) | None | — | 9 |
+| 40 | [374053](../reports/374053.md) | Accessing to download.nextcloud.com from original ip adreess | in | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
+| 41 | [265441](../reports/265441.md) | Error the message with already e-mail  | [Legal Robot](../by-program/legalrobot.md) | None | — | 2 |

@@ -12434,6 +12434,9 @@ https://hackerone.com/reports/4040799 | Windows filename sanitizer misses Unicod
 https://hackerone.com/reports/4053066 | Missing applicability validation allows non-applicable HTTPS RR to reach ECH processing
 https://hackerone.com/reports/4057637 | [HIGH] CWE-22 — Path Traversal in FTP Wildcard Download via Unencoded `.` in Escaped Filenames
 https://hackerone.com/reports/4059104 | IMAP literal size truncation on 32-bit platforms corrupts downloads and desynchronizes the response parser
+https://hackerone.com/reports/4063328 | curl tool: --hsts is ignored for a schemeless URL starting with a slash under --proto-default http
 https://hackerone.com/reports/4064040 | Use-after-free read of the freed referer buffer in `curl_easy_setopt(CURLOPT_REFERER)` — stale heap bytes transmitted in an outbound `Referer:` heade
+https://hackerone.com/reports/4071670 | HackerOne Code: a live password reset token reaches Datadog RUM, and the same session records the account it unlocks
 https://hackerone.com/reports/4071872 | libcurl: Secure=1 cookie flag bypasses the 8.22.0 fix and leaks over HTTP
 https://hackerone.com/reports/4085412 | Rustls backend discloses out-of-bounds heap data during legal IMAP upload cancellation
+https://hackerone.com/reports/4093443 | Cookie attribute truncation in curl drops Secure/HttpOnly protections
