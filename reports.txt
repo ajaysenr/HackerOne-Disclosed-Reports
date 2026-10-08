@@ -12420,6 +12420,7 @@ https://hackerone.com/reports/3987499 | Client-Side Denial of Service (DoS) via 
 https://hackerone.com/reports/3993850 | Apple SecTrust fallback ignores CURLOPT_CRLFILE, letting a revoked cert pass
 https://hackerone.com/reports/3993973 | HTTP Digest nonce reused across an https→http scheme change on the same handle
 https://hackerone.com/reports/3994016 | Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body inject arbitrary Markdown
+https://hackerone.com/reports/3994056 | Full Admin Takeover of R3 Limited's JFrog Artifactory - 292 Users, Corda Enterprise & CBDC Supply Chain Compromised
 https://hackerone.com/reports/4000185 | HackerOne Code sends live password-reset tokens to Segment in automatic page events
 https://hackerone.com/reports/4016541 | TLS session resumption client cert bypass with CURLOPT_SSL_CTX_FUNCTION
 https://hackerone.com/reports/4020767 | Unauthenticated API allows reading, writing to and deleting any user's private chat history on ████████

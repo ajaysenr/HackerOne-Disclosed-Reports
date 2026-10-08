@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2421 total)
+# High/Critical Severity — No Bounty Paid (2422 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -692,6 +692,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [228825](../reports/228825.md) | (Authenticated) RCE by bypassing of the .htaccess blacklist | [Nextcloud](../by-program/nextcloud.md) | Critical — CVSS 9.0 | Resolved | 7 |
 | [1018270](../reports/1018270.md) | CSRF to account takeover in https://█████/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 7 |
 | [309367](../reports/309367.md) | [metascraper] Stored XSS in Open Graph meta properties read by me | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.6 | Resolved | 7 |
+| [3994056](../reports/3994056.md) | Full Admin Takeover of R3 Limited's JFrog Artifactory - 292 Users | [R3](../by-program/r3.md) | Critical — CVSS 10.0 | Resolved | 7 |
 | [632721](../reports/632721.md) | Root Remote Code Execution on https://███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 7 |
 | [2857082](../reports/2857082.md) | Exposed Extremely Sensitive Information in Public ZIP File | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 7 |
 | [1069396](../reports/1069396.md) | Hackyholidays [ h1-ctf] writeup [mission:- stop the grinch ] | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 7 |

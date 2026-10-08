@@ -1,4 +1,4 @@
-# Perfect CVSS 10.0 Reports (65 total)
+# Perfect CVSS 10.0 Reports (66 total)
 
 Reports where the program assigned a CVSS score of exactly 10.0.
 
@@ -54,6 +54,7 @@ Reports where the program assigned a CVSS score of exactly 10.0.
 | [971590](../reports/971590.md) | SSRF on http://www.███████/crossdomain.php via url parameter | [Sony](../by-program/sony.md) | — | 42 |
 | [378698](../reports/378698.md) | Cisco ASA Denial of Service & Path Traversal (CVE-2018-0296) | [ok.ru](../by-program/ok.md) | — | 9 |
 | [946409](../reports/946409.md) | RCE on build server via misconfigured pip install | [Yelp](../by-program/yelp.md) | — | 365 |
+| [3994056](../reports/3994056.md) | Full Admin Takeover of R3 Limited's JFrog Artifactory - 292 Users | [R3](../by-program/r3.md) | — | 7 |
 | [1842674](../reports/1842674.md) | SQL Injection + Insecure Deserialization leads to Remote Code Exe | [Krisp](../by-program/krisp.md) | — | 119 |
 | [854290](../reports/854290.md) | IDOR on update user preferences | [Palo Alto Software](../by-program/palo_alto_software.md) | — | 20 |
 | [270981](../reports/270981.md) | Shopify admin authentication bypass using partners.shopify.com | [Shopify](../by-program/shopify.md) | — | 308 |

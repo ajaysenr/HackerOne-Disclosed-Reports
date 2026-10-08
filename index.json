@@ -242724,6 +242724,27 @@
     "votes": 3
   },
   {
+    "id": 3994056,
+    "url": "https://hackerone.com/reports/3994056",
+    "title": "Full Admin Takeover of R3 Limited's JFrog Artifactory - 292 Users, Corda Enterprise & CBDC Supply Chain Compromised",
+    "visibility": "full",
+    "program": "R3",
+    "program_handle": "r3",
+    "reporter": "qw3rjo",
+    "severity": "critical",
+    "cvss": 10.0,
+    "weakness": "Improper Authentication - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-82329"
+    ],
+    "substate": "resolved",
+    "asset_type": "OTHER",
+    "reported_at": "2026-09-03",
+    "disclosed_at": "2026-10-08T19:30:08.210Z",
+    "votes": 7
+  },
+  {
     "id": 4000185,
     "url": "https://hackerone.com/reports/4000185",
     "title": "HackerOne Code sends live password-reset tokens to Segment in automatic page events",
