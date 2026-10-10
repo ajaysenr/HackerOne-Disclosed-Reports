@@ -12433,6 +12433,7 @@ https://hackerone.com/reports/4027511 | Encoded slash traversal in the IPFS/IPNS
 https://hackerone.com/reports/4033971 | Use-after-free of the internal multi->admin easy handle via the documented CURLMOPT_NOTIFYFUNCTION callback
 https://hackerone.com/reports/4040799 | Windows filename sanitizer misses Unicode COM/LPT reserved device names
 https://hackerone.com/reports/4053066 | Missing applicability validation allows non-applicable HTTPS RR to reach ECH processing
+https://hackerone.com/reports/4053546 | Information Disclosure - Unauthen Leak Private Content
 https://hackerone.com/reports/4057637 | [HIGH] CWE-22 — Path Traversal in FTP Wildcard Download via Unencoded `.` in Escaped Filenames
 https://hackerone.com/reports/4059104 | IMAP literal size truncation on 32-bit platforms corrupts downloads and desynchronizes the response parser
 https://hackerone.com/reports/4063328 | curl tool: --hsts is ignored for a schemeless URL starting with a slash under --proto-default http

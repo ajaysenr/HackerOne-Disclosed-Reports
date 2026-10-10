@@ -242977,6 +242977,25 @@
     "votes": 1
   },
   {
+    "id": 4053546,
+    "url": "https://hackerone.com/reports/4053546",
+    "title": "Information Disclosure - Unauthen Leak Private Content",
+    "visibility": "full",
+    "program": "WordPress",
+    "program_handle": "wordpress",
+    "reporter": "thewindghost",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Information Disclosure",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-23",
+    "disclosed_at": "2026-10-10T17:55:44.655Z",
+    "votes": 1
+  },
+  {
     "id": 4057637,
     "url": "https://hackerone.com/reports/4057637",
     "title": "[HIGH] CWE-22 \u2014 Path Traversal in FTP Wildcard Download via Unencoded `.` in Escaped Filenames",
