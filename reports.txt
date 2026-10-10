@@ -12440,5 +12440,6 @@ https://hackerone.com/reports/4063328 | curl tool: --hsts is ignored for a schem
 https://hackerone.com/reports/4064040 | Use-after-free read of the freed referer buffer in `curl_easy_setopt(CURLOPT_REFERER)` — stale heap bytes transmitted in an outbound `Referer:` heade
 https://hackerone.com/reports/4071670 | HackerOne Code: a live password reset token reaches Datadog RUM, and the same session records the account it unlocks
 https://hackerone.com/reports/4071872 | libcurl: Secure=1 cookie flag bypasses the 8.22.0 fix and leaks over HTTP
+https://hackerone.com/reports/4082665 | ActionText `to_markdown` still allows `javascript:` links in kramdown via Rails-generated table cells after PR #58754
 https://hackerone.com/reports/4085412 | Rustls backend discloses out-of-bounds heap data during legal IMAP upload cancellation
 https://hackerone.com/reports/4093443 | Cookie attribute truncation in curl drops Secure/HttpOnly protections

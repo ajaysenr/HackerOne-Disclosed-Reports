@@ -243119,6 +243119,25 @@
     "votes": 1
   },
   {
+    "id": 4082665,
+    "url": "https://hackerone.com/reports/4082665",
+    "title": "ActionText `to_markdown` still allows `javascript:` links in kramdown via Rails-generated table cells after PR #58754",
+    "visibility": "no-content",
+    "program": "Ruby on Rails",
+    "program_handle": "rails",
+    "reporter": "deah313",
+    "severity": "medium",
+    "cvss": 5.3,
+    "weakness": "Cross-site Scripting (XSS) - Reflected",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-03",
+    "disclosed_at": "2026-10-10T21:22:44.426Z",
+    "votes": 1
+  },
+  {
     "id": 4085412,
     "url": "https://hackerone.com/reports/4085412",
     "title": "Rustls backend discloses out-of-bounds heap data during legal IMAP upload cancellation",
