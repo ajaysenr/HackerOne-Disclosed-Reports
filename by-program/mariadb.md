@@ -1,4 +1,4 @@
-# MariaDB — Disclosed Reports (45 total)
+# MariaDB — Disclosed Reports (46 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -31,21 +31,22 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 25 | [3889667](../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a sa | Medium — CVSS 6.4 | — | 3 | [dogeshark](https://hackerone.com/dogeshark) | 2026-09-07 |
 | 26 | [3781201](../reports/3781201.md) | Pre-authentication `size_t` integer underflow → out-of-bound | Medium — CVSS 5.7 | — | 2 | [vnth4nhnt](https://hackerone.com/vnth4nhnt) | 2026-10-07 |
 | 27 | [3769676](../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenti | Medium | — | 2 | [byteoverride](https://hackerone.com/byteoverride) | 2026-09-03 |
-| 28 | [3867363](../reports/3867363.md) | MariaDB HandlerSocket Improper Request Field-Count Validatio | Medium | — | 1 | [xlabai](https://hackerone.com/xlabai) | 2026-10-07 |
-| 29 | [3867358](../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a Form | Medium | — | 1 | [xlabai](https://hackerone.com/xlabai) | 2026-10-07 |
-| 30 | [690330](../reports/690330.md) | scripts loader (denial of service) vulnerability | Low | — | 20 | [badisman](https://hackerone.com/badisman) | 2020-03-19 |
-| 31 | [392701](../reports/392701.md) | Vulnerability Report - Missing Certificate Authority Authori | Low | — | 16 | [theendisnear](https://hackerone.com/theendisnear) | 2018-11-11 |
-| 32 | [386160](../reports/386160.md) | xmlrpc.php on mariadb.org can lead to DDOS and brute force a | Low | — | 10 | [indoappsec](https://hackerone.com/indoappsec) | 2018-10-12 |
-| 33 | [392761](../reports/392761.md) | vulnerable to Cross-site Request Forgery | Jira | Low | — | 9 | [niteshkumarpandey](https://hackerone.com/niteshkumarpandey) | 2018-10-12 |
-| 34 | [514421](../reports/514421.md) | smtp service vulnerable to POODLE SSLv3 | Low | — | 7 | [rudrahacks007](https://hackerone.com/rudrahacks007) | 2019-05-11 |
-| 35 | [3782405](../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::i | None | — | 14 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
-| 36 | [3771139](../reports/3771139.md) | Heap Memory Disclosure via Integer Underflow in Item_func_js | None | — | 12 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
-| 37 | [3771147](../reports/3771147.md) | Stack Buffer Overflow via Crafted keyseg->start/ keyseg->len | None | — | 11 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
-| 38 | [3771144](../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_versio | None | — | 10 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-14 |
-| 39 | [3897588](../reports/3897588.md) | KILL authorization trusts the presented login name instead o | None | — | 3 | [dogeshark](https://hackerone.com/dogeshark) | 2026-09-07 |
-| 40 | [3896671](../reports/3896671.md) | Connector/C Out-of-bounds read in `unpack_fields()` from sho | None | — | 3 | [mschorm](https://hackerone.com/mschorm) | 2026-09-30 |
-| 41 | [3849025](../reports/3849025.md) | DATA / INDEX DIRECTORY Abuse | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
-| 42 | [3848978](../reports/3848978.md) | `SHOW [CREATE|GRANTS] ...` / `mariadb-dump` Unescaped SQL Ge | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
-| 43 | [3880451](../reports/3880451.md) | Privilege escalation via user controlled usernames / roles a | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
-| 44 | [3849051](../reports/3849051.md) | #mysql50# legacy alias / internal table collisions | None | — | 1 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
-| 45 | [3849040](../reports/3849040.md) | #mysql50# legacy alias / stale table cache identity mismatch | None | — | 1 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
+| 28 | [3896507](../reports/3896507.md) | Server crash (stack-overflow DoS) via unbounded recursion in | Medium | — | 2 | [tsg1696](https://hackerone.com/tsg1696) | 2026-10-11 |
+| 29 | [3867363](../reports/3867363.md) | MariaDB HandlerSocket Improper Request Field-Count Validatio | Medium | — | 1 | [xlabai](https://hackerone.com/xlabai) | 2026-10-07 |
+| 30 | [3867358](../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a Form | Medium | — | 1 | [xlabai](https://hackerone.com/xlabai) | 2026-10-07 |
+| 31 | [690330](../reports/690330.md) | scripts loader (denial of service) vulnerability | Low | — | 20 | [badisman](https://hackerone.com/badisman) | 2020-03-19 |
+| 32 | [392701](../reports/392701.md) | Vulnerability Report - Missing Certificate Authority Authori | Low | — | 16 | [theendisnear](https://hackerone.com/theendisnear) | 2018-11-11 |
+| 33 | [386160](../reports/386160.md) | xmlrpc.php on mariadb.org can lead to DDOS and brute force a | Low | — | 10 | [indoappsec](https://hackerone.com/indoappsec) | 2018-10-12 |
+| 34 | [392761](../reports/392761.md) | vulnerable to Cross-site Request Forgery | Jira | Low | — | 9 | [niteshkumarpandey](https://hackerone.com/niteshkumarpandey) | 2018-10-12 |
+| 35 | [514421](../reports/514421.md) | smtp service vulnerable to POODLE SSLv3 | Low | — | 7 | [rudrahacks007](https://hackerone.com/rudrahacks007) | 2019-05-11 |
+| 36 | [3782405](../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::i | None | — | 14 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
+| 37 | [3771139](../reports/3771139.md) | Heap Memory Disclosure via Integer Underflow in Item_func_js | None | — | 12 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
+| 38 | [3771147](../reports/3771147.md) | Stack Buffer Overflow via Crafted keyseg->start/ keyseg->len | None | — | 11 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
+| 39 | [3771144](../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_versio | None | — | 10 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-14 |
+| 40 | [3897588](../reports/3897588.md) | KILL authorization trusts the presented login name instead o | None | — | 3 | [dogeshark](https://hackerone.com/dogeshark) | 2026-09-07 |
+| 41 | [3896671](../reports/3896671.md) | Connector/C Out-of-bounds read in `unpack_fields()` from sho | None | — | 3 | [mschorm](https://hackerone.com/mschorm) | 2026-09-30 |
+| 42 | [3849025](../reports/3849025.md) | DATA / INDEX DIRECTORY Abuse | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
+| 43 | [3848978](../reports/3848978.md) | `SHOW [CREATE|GRANTS] ...` / `mariadb-dump` Unescaped SQL Ge | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
+| 44 | [3880451](../reports/3880451.md) | Privilege escalation via user controlled usernames / roles a | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
+| 45 | [3849051](../reports/3849051.md) | #mysql50# legacy alias / internal table collisions | None | — | 1 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
+| 46 | [3849040](../reports/3849040.md) | #mysql50# legacy alias / stale table cache identity mismatch | None | — | 1 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |

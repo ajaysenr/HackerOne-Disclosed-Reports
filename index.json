@@ -241302,6 +241302,25 @@
     "votes": 5
   },
   {
+    "id": 3896507,
+    "url": "https://hackerone.com/reports/3896507",
+    "title": "Server crash (stack-overflow DoS) via unbounded recursion in MariaDB WKB GEOMETRYCOLLECTION parser",
+    "visibility": "full",
+    "program": "MariaDB",
+    "program_handle": "mariadb",
+    "reporter": "tsg1696",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-07-28",
+    "disclosed_at": "2026-10-11T12:16:14.026Z",
+    "votes": 2
+  },
+  {
     "id": 3896671,
     "url": "https://hackerone.com/reports/3896671",
     "title": "Connector/C Out-of-bounds read in `unpack_fields()` from short metadata field",
