@@ -1,4 +1,4 @@
-# WordPress — Disclosed Reports (87 total)
+# WordPress — Disclosed Reports (88 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -10,84 +10,85 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 4 | [291878](../reports/291878.md) | Arbitrary file deletion in wp-core - guides towards RCE and  | Critical — CVSS 9.9 | — | 17 | [b258ea62bf297b02afa9854](https://hackerone.com/b258ea62bf297b02afa9854) | 2018-08-29 |
 | 5 | [3931777](../reports/3931777.md) | Author → arbitrary file deletion anywhere on disk (site take | Critical — CVSS 9.9 | — | 12 | [jakubk](https://hackerone.com/jakubk) | 2026-08-28 |
 | 6 | [3931771](../reports/3931771.md) | Author → stored XSS in wp-admin: unescaped sub-size filename | Critical — CVSS 9.0 | — | 3 | [jakubk](https://hackerone.com/jakubk) | 2026-08-28 |
-| 7 | [643908](../reports/643908.md) | Stored XSS Vulnerability | High | — | 402 | [ali](https://hackerone.com/ali) | 2019-07-18 |
-| 8 | [659419](../reports/659419.md) | Reflected XSS on https://make.wordpress.org via 'channel' pa | High | — | 96 | [gnux](https://hackerone.com/gnux) | 2019-08-26 |
-| 9 | [428019](../reports/428019.md) | CSRF to HTML Injection in Comments | High | — | 95 | [simonscannell](https://hackerone.com/simonscannell) | 2019-05-13 |
-| 10 | [1107282](../reports/1107282.md) | Privilege Escalation via REST API to Administrator leads to  | High | — | 90 | [hoangkien1020](https://hackerone.com/hoangkien1020) | 2021-05-17 |
-| 11 | [509930](../reports/509930.md) | Potential unprivileged Stored XSS through wp_targeted_link_r | High | — | 80 | [simonscannell](https://hackerone.com/simonscannell) | 2020-01-08 |
-| 12 | [2786591](../reports/2786591.md) | Unauthenticated WordPress Database Repair DoS | High — CVSS 8.0 | — | 70 | [wshadow](https://hackerone.com/wshadow) | 2024-10-18 |
-| 13 | [404323](../reports/404323.md) | Logic flaw in the Post creation process allows creating post | High | — | 38 | [simonscannell](https://hackerone.com/simonscannell) | 2019-02-14 |
-| 14 | [538008](../reports/538008.md) | Add users to groups who have restricted group invites | High | — | 32 | [yuvraj_dighe](https://hackerone.com/yuvraj_dighe) | 2019-07-27 |
-| 15 | [203515](../reports/203515.md) | Wordpress 4.7.2 - Two XSS in Media Upload when file too larg | High | — | 23 | [skansing](https://hackerone.com/skansing) | 2017-07-17 |
-| 16 | [187520](../reports/187520.md) | Wordpress 4.7 - CSRF -> HTTP SSRF any private ip:port and ba | High | — | 21 | [skansing](https://hackerone.com/skansing) | 2017-11-20 |
-| 17 | [633231](../reports/633231.md) | pre-auth Stored XSS in comments via javascript: url when adm | High | — | 12 | [simonscannell](https://hackerone.com/simonscannell) | 2020-08-18 |
-| 18 | [250837](../reports/250837.md) | Stored xss via template injection | High | — | 11 | [morningstar](https://hackerone.com/morningstar) | 2017-12-11 |
-| 19 | [299112](../reports/299112.md) | MediaElements XSS | High | — | 9 | [shay12tg](https://hackerone.com/shay12tg) | 2018-02-15 |
-| 20 | [183568](../reports/183568.md) | [Buddypress] Arbitrary File Deletion through bp_avatar_set | High — CVSS 7.7 | — | 9 | [mopman](https://hackerone.com/mopman) | 2017-08-22 |
-| 21 | [754352](../reports/754352.md) | Stored XSS on Wordpress 5.3 via Title Post | High | — | 9 | [muhammaddaffa](https://hackerone.com/muhammaddaffa) | 2019-12-10 |
-| 22 | [388254](../reports/388254.md) | Account takeover vulnerability by editor role privileged use | High | — | 8 | [rewanth_cool](https://hackerone.com/rewanth_cool) | 2018-09-03 |
-| 23 | [263718](../reports/263718.md) | Wordpress 4.8.1 - Rogue editor leads to RCE. And the risks o | High | — | 4 | [skansing](https://hackerone.com/skansing) | 2017-10-04 |
-| 24 | [228854](../reports/228854.md) | WordPress Automatic Update Protocol Does Not Authenticate Up | High — CVSS 8.1 | — | 2 | [paragonie-scott](https://hackerone.com/paragonie-scott) | 2019-07-22 |
-| 25 | [205481](../reports/205481.md) | Wordpress unzip_file path traversal | Medium — CVSS 6.6 | — | 119 | [ajxchapman](https://hackerone.com/ajxchapman) | 2020-01-29 |
-| 26 | [2999394](../reports/2999394.md) | Pivilege escalation of any new user to Keymaster caused by C | Medium | — | 60 | [br3n](https://hackerone.com/br3n) | 2025-09-13 |
-| 27 | [1238528](../reports/1238528.md) | wp-embed XSS on Safari | Medium | — | 47 | [zoczus](https://hackerone.com/zoczus) | 2023-07-01 |
-| 28 | [1095645](../reports/1095645.md) | Authenticated XXE | Medium | — | 41 | [sonarsource](https://hackerone.com/sonarsource) | 2021-05-18 |
-| 29 | [339483](../reports/339483.md) | "Bad Protocols Validation" Bypass in "wp_kses_bad_protocol_o | Medium | — | 34 | [irsdl](https://hackerone.com/irsdl) | 2019-11-16 |
-| 30 | [273726](../reports/273726.md) | Information / sensitive data disclosure on some endpoints | Medium | — | 32 | [europa](https://hackerone.com/europa) | 2018-08-22 |
-| 31 | [230234](../reports/230234.md) | [mercantile.wordpress.org] Reflected XSS via AngularJS Templ | Medium | — | 29 | [ysx](https://hackerone.com/ysx) | 2017-06-14 |
-| 32 | [881918](../reports/881918.md) | Authenticated Stored Cross-site Scripting in bbPress | Medium | — | 24 | [whoisbinit](https://hackerone.com/whoisbinit) | 2020-06-29 |
-| 33 | [179695](../reports/179695.md) | XSS via unicode characters in upload filename | Medium | — | 23 | [kahoots](https://hackerone.com/kahoots) | 2020-08-28 |
-| 34 | [204513](../reports/204513.md) | Infrastructure - Photon - SSRF | Medium | — | 21 | [skansing](https://hackerone.com/skansing) | 2017-07-17 |
-| 35 | [270060](../reports/270060.md) | Reflected Swf XSS In ( plugins.svn.wordpress.org ) | Medium | — | 21 | [m7mdharoun](https://hackerone.com/m7mdharoun) | 2018-09-27 |
-| 36 | [230435](../reports/230435.md) | DOM Based XSS In mercantile.wordpress.org | Medium — CVSS 5.4 | — | 21 | [pabster](https://hackerone.com/pabster) | 2017-06-14 |
-| 37 | [881855](../reports/881855.md) | Arbitrary change of blog's background image via CSRF | Medium — CVSS 6.4 | — | 20 | [erwan_lr](https://hackerone.com/erwan_lr) | 2020-12-14 |
-| 38 | [460911](../reports/460911.md) | [FG-VD-18-165] Wordpress Cross-Site Scripting Vulnerability  | Medium — CVSS 6.4 | — | 20 | [yzy9951](https://hackerone.com/yzy9951) | 2019-10-11 |
-| 39 | [221893](../reports/221893.md) | XSS in the search bar of mercantile.wordpress.org | Medium | — | 19 | [codertom](https://hackerone.com/codertom) | 2017-05-20 |
-| 40 | [1172852](../reports/1172852.md) | PII of users can be downloaded from export pages | Medium — CVSS 6.1 | — | 17 | [chip_sec](https://hackerone.com/chip_sec) | 2023-05-12 |
-| 41 | [222040](../reports/222040.md) | Reflected XSS at https://da.wordpress.org/themes/?s= via "s= | Medium | — | 16 | [jon_bottarini](https://hackerone.com/jon_bottarini) | 2017-07-26 |
-| 42 | [495515](../reports/495515.md) | Reflected XSS: Taxonomy Converter via tax parameter | Medium | — | 15 | [foobar7](https://hackerone.com/foobar7) | 2019-08-28 |
-| 43 | [220903](../reports/220903.md) | Authenticated Cross-site Scripting in Template Name | Medium — CVSS 6.1 | — | 15 | [zurke](https://hackerone.com/zurke) | 2017-11-18 |
-| 44 | [263109](../reports/263109.md) | Buddypress 2.9.1 - Exceeding the maximum upload size  - XSS  | Medium | — | 14 | [skansing](https://hackerone.com/skansing) | 2017-11-02 |
-| 45 | [497724](../reports/497724.md) | Stored XSS in Post Preview as Contributor | Medium | — | 13 | [simonscannell](https://hackerone.com/simonscannell) | 2020-08-18 |
-| 46 | [240256](../reports/240256.md) | [mercantile.wordpress.org] Reflected XSS | Medium | — | 13 | [zeeshank](https://hackerone.com/zeeshank) | 2018-08-30 |
-| 47 | [837256](../reports/837256.md) | Improper Access Control in Buddypress core allows reply,dele | Medium | — | 12 | [hoangkien1020](https://hackerone.com/hoangkien1020) | 2020-05-22 |
-| 48 | [249759](../reports/249759.md) | Lack of Sanitization and Insufficient Authentication | Medium | — | 10 | [rahulpratap](https://hackerone.com/rahulpratap) | 2017-12-26 |
-| 49 | [295330](../reports/295330.md) | code.wordpress.net subdomain Takeover | Medium — CVSS 5.8 | — | 9 | [sniperpex](https://hackerone.com/sniperpex) | 2018-03-11 |
-| 50 | [833782](../reports/833782.md) | Allow authenticated users can edit, trash,and add new in Bud | Medium | — | 8 | [hoangkien1020](https://hackerone.com/hoangkien1020) | 2020-05-22 |
-| 51 | [282176](../reports/282176.md) | Unauthenticated hidden groups disclosure via Ajax groups sea | Medium — CVSS 6.1 | — | 6 | [jdgrimes](https://hackerone.com/jdgrimes) | 2017-11-02 |
-| 52 | [837018](../reports/837018.md) | Privilege Escalation in BuddyPress core allows Moderate to A | Medium | — | 6 | [hoangkien1020](https://hackerone.com/hoangkien1020) | 2020-05-22 |
-| 53 | [914232](../reports/914232.md) | CSRF on comment post | Medium — CVSS 4.2 | — | 5 | [lamscun](https://hackerone.com/lamscun) | 2020-07-16 |
-| 54 | [836187](../reports/836187.md) | CSRF in Profile Fields allows deleting any field in BuddyPre | Medium | — | 5 | [hoangkien1020](https://hackerone.com/hoangkien1020) | 2020-05-22 |
-| 55 | [3893632](../reports/3893632.md) | Unauthenticated disclosure of draft/private/pending post tit | Medium — CVSS 5.3 | — | 5 | [jakubk](https://hackerone.com/jakubk) | 2026-09-28 |
-| 56 | [221734](../reports/221734.md) | Administrator(s) Information disclosure via JSON on wordpres | Medium | — | 4 | [596a96cc7bf9108cd896f33c4](https://hackerone.com/596a96cc7bf9108cd896f33c4) | 2017-04-19 |
-| 57 | [276105](../reports/276105.md) | Stored XSS in WordPress | Medium | — | 3 | [abdullah](https://hackerone.com/abdullah) | 2018-02-02 |
-| 58 | [4053546](../reports/4053546.md) | Information Disclosure - Unauthen Leak Private Content | Medium | — | 1 | [thewindghost](https://hackerone.com/thewindghost) | 2026-10-10 |
-| 59 | [592316](../reports/592316.md) | Stored XSS on byddypress Plug-in via groups name | Low | — | 132 | [yxw21](https://hackerone.com/yxw21) | 2019-07-27 |
-| 60 | [921709](../reports/921709.md) | Clickjacking on donation page | Low | — | 89 | [b0d8e6c576cada9bb87be7b](https://hackerone.com/b0d8e6c576cada9bb87be7b) | 2020-07-16 |
-| 61 | [490782](../reports/490782.md) | Mssing Authorization on Private Message replies (BuddyPress) | Low | — | 66 | [klmunday](https://hackerone.com/klmunday) | 2019-03-08 |
-| 62 | [385322](../reports/385322.md) | Open API For Username enumeration | Low | — | 25 | [sameerphad72](https://hackerone.com/sameerphad72) | 2018-07-23 |
-| 63 | [406289](../reports/406289.md) | Stored XSS on Broken Themes via filename | Low | — | 23 | [apapedulimu](https://hackerone.com/apapedulimu) | 2020-08-25 |
-| 64 | [278151](../reports/278151.md) | Content Spoofing @ https://irclogs.wordpress.org/ | Low | — | 22 | [hackerwahab](https://hackerone.com/hackerwahab) | 2017-12-04 |
-| 65 | [223024](../reports/223024.md) | Clickjacking In jobs.wordpress.net | Low | — | 16 | [zeeshan_waheed](https://hackerone.com/zeeshan_waheed) | 2018-08-22 |
-| 66 | [230232](../reports/230232.md) | Stored self-XSS in mercantile.wordpress.org checkout | Low | — | 15 | [eidelweiss](https://hackerone.com/eidelweiss) | 2017-07-14 |
-| 67 | [230581](../reports/230581.md) | Clickjacking wordcamp.org | Low | — | 14 | [hasanexpert](https://hackerone.com/hasanexpert) | 2017-06-24 |
-| 68 | [309058](../reports/309058.md) | Open Redirect on the nl.wordpress.net | Low | — | 14 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2018-02-22 |
-| 69 | [222036](../reports/222036.md) | Missing SSL can leak job token  | Low | — | 13 | [c0rte](https://hackerone.com/c0rte) | 2017-11-01 |
-| 70 | [1927360](../reports/1927360.md) | Previously created sessions continue being valid after 2FA a | Low | — | 12 | [b740e9c0b92b389ac6646c5](https://hackerone.com/b740e9c0b92b389ac6646c5) | 2023-10-07 |
-| 71 | [264125](../reports/264125.md) | Clickjacking mercantile.wordpress.org | Low | — | 12 | [villagelad](https://hackerone.com/villagelad) | 2017-09-08 |
-| 72 | [384112](../reports/384112.md) | xss - reflected | Low | — | 10 | [arunthelegion](https://hackerone.com/arunthelegion) | 2018-07-24 |
-| 73 | [222224](../reports/222224.md) | Stored but [SELF] XSS in mercantile.wordpress.org | Low | — | 8 | [codertom](https://hackerone.com/codertom) | 2017-05-26 |
-| 74 | [258283](../reports/258283.md) | Clickjacking - https://mercantile.wordpress.org/ | Low | — | 8 | [giantfire](https://hackerone.com/giantfire) | 2017-08-28 |
-| 75 | [224556](../reports/224556.md) | Self-XSS in WordPress Editor Link Modal | Low | — | 8 | [0xbarq](https://hackerone.com/0xbarq) | 2017-11-08 |
-| 76 | [277502](../reports/277502.md) | [BuddyPress 2.9.1] Open Redirect via "wp_http_referer" param | Low | — | 7 | [ysx](https://hackerone.com/ysx) | 2017-11-02 |
-| 77 | [298218](../reports/298218.md) | antispambot does not always escape <, >, &, " and ' | Low | — | 3 | [flimm](https://hackerone.com/flimm) | 2019-09-16 |
-| 78 | [222692](../reports/222692.md) | plugins.trac.wordpress.org likely vulnerable to Cross Site T | None | — | 58 | [geeknik](https://hackerone.com/geeknik) | 2019-11-03 |
-| 79 | [221507](../reports/221507.md) | Multiple stored XSS in WordPress | None | — | 35 | [opnsec](https://hackerone.com/opnsec) | 2018-11-16 |
-| 80 | [149589](../reports/149589.md) | CSRF to add admin [wordpress] | None | — | 15 | [abdullah](https://hackerone.com/abdullah) | 2017-06-30 |
-| 81 | [309714](../reports/309714.md) | [support.wordcamp.org] - publicly accessible .svn repository | None | — | 12 | [kazan71p](https://hackerone.com/kazan71p) | 2018-02-01 |
-| 82 | [682344](../reports/682344.md) | Parameter tampering : Price Manipulation of Products | None | — | 9 | [ashketchum](https://hackerone.com/ashketchum) | 2019-08-29 |
-| 83 | [355773](../reports/355773.md) | XSS on support.wordcamp.org in ajax-quote.php | None | — | 9 | [mopman](https://hackerone.com/mopman) | 2018-07-23 |
-| 84 | [224214](../reports/224214.md) | Lack of Password Confirmation when Changing Password and Ema | None | — | 7 | [0xspade](https://hackerone.com/0xspade) | 2017-04-28 |
-| 85 | [153093](../reports/153093.md) | WordPress core  - Denial of Service via Cross Site Request F | None | — | 6 | [spipm](https://hackerone.com/spipm) | 2017-11-16 |
-| 86 | [267075](../reports/267075.md) | Clickjacking irclogs.wordpress.org | None | — | 2 | [sameull](https://hackerone.com/sameull) | 2017-10-12 |
-| 87 | [282843](../reports/282843.md) | UnResolved ChangeSet are Visible to Public That also Causes  | None | — | 1 | [hackerwahab](https://hackerone.com/hackerwahab) | 2018-02-05 |
+| 7 | [3801107](../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum conte | Critical — CVSS 9.3 | — | 3 | [winstoncrooker](https://hackerone.com/winstoncrooker) | 2026-10-12 |
+| 8 | [643908](../reports/643908.md) | Stored XSS Vulnerability | High | — | 402 | [ali](https://hackerone.com/ali) | 2019-07-18 |
+| 9 | [659419](../reports/659419.md) | Reflected XSS on https://make.wordpress.org via 'channel' pa | High | — | 96 | [gnux](https://hackerone.com/gnux) | 2019-08-26 |
+| 10 | [428019](../reports/428019.md) | CSRF to HTML Injection in Comments | High | — | 95 | [simonscannell](https://hackerone.com/simonscannell) | 2019-05-13 |
+| 11 | [1107282](../reports/1107282.md) | Privilege Escalation via REST API to Administrator leads to  | High | — | 90 | [hoangkien1020](https://hackerone.com/hoangkien1020) | 2021-05-17 |
+| 12 | [509930](../reports/509930.md) | Potential unprivileged Stored XSS through wp_targeted_link_r | High | — | 80 | [simonscannell](https://hackerone.com/simonscannell) | 2020-01-08 |
+| 13 | [2786591](../reports/2786591.md) | Unauthenticated WordPress Database Repair DoS | High — CVSS 8.0 | — | 70 | [wshadow](https://hackerone.com/wshadow) | 2024-10-18 |
+| 14 | [404323](../reports/404323.md) | Logic flaw in the Post creation process allows creating post | High | — | 38 | [simonscannell](https://hackerone.com/simonscannell) | 2019-02-14 |
+| 15 | [538008](../reports/538008.md) | Add users to groups who have restricted group invites | High | — | 32 | [yuvraj_dighe](https://hackerone.com/yuvraj_dighe) | 2019-07-27 |
+| 16 | [203515](../reports/203515.md) | Wordpress 4.7.2 - Two XSS in Media Upload when file too larg | High | — | 23 | [skansing](https://hackerone.com/skansing) | 2017-07-17 |
+| 17 | [187520](../reports/187520.md) | Wordpress 4.7 - CSRF -> HTTP SSRF any private ip:port and ba | High | — | 21 | [skansing](https://hackerone.com/skansing) | 2017-11-20 |
+| 18 | [633231](../reports/633231.md) | pre-auth Stored XSS in comments via javascript: url when adm | High | — | 12 | [simonscannell](https://hackerone.com/simonscannell) | 2020-08-18 |
+| 19 | [250837](../reports/250837.md) | Stored xss via template injection | High | — | 11 | [morningstar](https://hackerone.com/morningstar) | 2017-12-11 |
+| 20 | [299112](../reports/299112.md) | MediaElements XSS | High | — | 9 | [shay12tg](https://hackerone.com/shay12tg) | 2018-02-15 |
+| 21 | [183568](../reports/183568.md) | [Buddypress] Arbitrary File Deletion through bp_avatar_set | High — CVSS 7.7 | — | 9 | [mopman](https://hackerone.com/mopman) | 2017-08-22 |
+| 22 | [754352](../reports/754352.md) | Stored XSS on Wordpress 5.3 via Title Post | High | — | 9 | [muhammaddaffa](https://hackerone.com/muhammaddaffa) | 2019-12-10 |
+| 23 | [388254](../reports/388254.md) | Account takeover vulnerability by editor role privileged use | High | — | 8 | [rewanth_cool](https://hackerone.com/rewanth_cool) | 2018-09-03 |
+| 24 | [263718](../reports/263718.md) | Wordpress 4.8.1 - Rogue editor leads to RCE. And the risks o | High | — | 4 | [skansing](https://hackerone.com/skansing) | 2017-10-04 |
+| 25 | [228854](../reports/228854.md) | WordPress Automatic Update Protocol Does Not Authenticate Up | High — CVSS 8.1 | — | 2 | [paragonie-scott](https://hackerone.com/paragonie-scott) | 2019-07-22 |
+| 26 | [205481](../reports/205481.md) | Wordpress unzip_file path traversal | Medium — CVSS 6.6 | — | 119 | [ajxchapman](https://hackerone.com/ajxchapman) | 2020-01-29 |
+| 27 | [2999394](../reports/2999394.md) | Pivilege escalation of any new user to Keymaster caused by C | Medium | — | 60 | [br3n](https://hackerone.com/br3n) | 2025-09-13 |
+| 28 | [1238528](../reports/1238528.md) | wp-embed XSS on Safari | Medium | — | 47 | [zoczus](https://hackerone.com/zoczus) | 2023-07-01 |
+| 29 | [1095645](../reports/1095645.md) | Authenticated XXE | Medium | — | 41 | [sonarsource](https://hackerone.com/sonarsource) | 2021-05-18 |
+| 30 | [339483](../reports/339483.md) | "Bad Protocols Validation" Bypass in "wp_kses_bad_protocol_o | Medium | — | 34 | [irsdl](https://hackerone.com/irsdl) | 2019-11-16 |
+| 31 | [273726](../reports/273726.md) | Information / sensitive data disclosure on some endpoints | Medium | — | 32 | [europa](https://hackerone.com/europa) | 2018-08-22 |
+| 32 | [230234](../reports/230234.md) | [mercantile.wordpress.org] Reflected XSS via AngularJS Templ | Medium | — | 29 | [ysx](https://hackerone.com/ysx) | 2017-06-14 |
+| 33 | [881918](../reports/881918.md) | Authenticated Stored Cross-site Scripting in bbPress | Medium | — | 24 | [whoisbinit](https://hackerone.com/whoisbinit) | 2020-06-29 |
+| 34 | [179695](../reports/179695.md) | XSS via unicode characters in upload filename | Medium | — | 23 | [kahoots](https://hackerone.com/kahoots) | 2020-08-28 |
+| 35 | [204513](../reports/204513.md) | Infrastructure - Photon - SSRF | Medium | — | 21 | [skansing](https://hackerone.com/skansing) | 2017-07-17 |
+| 36 | [270060](../reports/270060.md) | Reflected Swf XSS In ( plugins.svn.wordpress.org ) | Medium | — | 21 | [m7mdharoun](https://hackerone.com/m7mdharoun) | 2018-09-27 |
+| 37 | [230435](../reports/230435.md) | DOM Based XSS In mercantile.wordpress.org | Medium — CVSS 5.4 | — | 21 | [pabster](https://hackerone.com/pabster) | 2017-06-14 |
+| 38 | [881855](../reports/881855.md) | Arbitrary change of blog's background image via CSRF | Medium — CVSS 6.4 | — | 20 | [erwan_lr](https://hackerone.com/erwan_lr) | 2020-12-14 |
+| 39 | [460911](../reports/460911.md) | [FG-VD-18-165] Wordpress Cross-Site Scripting Vulnerability  | Medium — CVSS 6.4 | — | 20 | [yzy9951](https://hackerone.com/yzy9951) | 2019-10-11 |
+| 40 | [221893](../reports/221893.md) | XSS in the search bar of mercantile.wordpress.org | Medium | — | 19 | [codertom](https://hackerone.com/codertom) | 2017-05-20 |
+| 41 | [1172852](../reports/1172852.md) | PII of users can be downloaded from export pages | Medium — CVSS 6.1 | — | 17 | [chip_sec](https://hackerone.com/chip_sec) | 2023-05-12 |
+| 42 | [222040](../reports/222040.md) | Reflected XSS at https://da.wordpress.org/themes/?s= via "s= | Medium | — | 16 | [jon_bottarini](https://hackerone.com/jon_bottarini) | 2017-07-26 |
+| 43 | [495515](../reports/495515.md) | Reflected XSS: Taxonomy Converter via tax parameter | Medium | — | 15 | [foobar7](https://hackerone.com/foobar7) | 2019-08-28 |
+| 44 | [220903](../reports/220903.md) | Authenticated Cross-site Scripting in Template Name | Medium — CVSS 6.1 | — | 15 | [zurke](https://hackerone.com/zurke) | 2017-11-18 |
+| 45 | [263109](../reports/263109.md) | Buddypress 2.9.1 - Exceeding the maximum upload size  - XSS  | Medium | — | 14 | [skansing](https://hackerone.com/skansing) | 2017-11-02 |
+| 46 | [497724](../reports/497724.md) | Stored XSS in Post Preview as Contributor | Medium | — | 13 | [simonscannell](https://hackerone.com/simonscannell) | 2020-08-18 |
+| 47 | [240256](../reports/240256.md) | [mercantile.wordpress.org] Reflected XSS | Medium | — | 13 | [zeeshank](https://hackerone.com/zeeshank) | 2018-08-30 |
+| 48 | [837256](../reports/837256.md) | Improper Access Control in Buddypress core allows reply,dele | Medium | — | 12 | [hoangkien1020](https://hackerone.com/hoangkien1020) | 2020-05-22 |
+| 49 | [249759](../reports/249759.md) | Lack of Sanitization and Insufficient Authentication | Medium | — | 10 | [rahulpratap](https://hackerone.com/rahulpratap) | 2017-12-26 |
+| 50 | [295330](../reports/295330.md) | code.wordpress.net subdomain Takeover | Medium — CVSS 5.8 | — | 9 | [sniperpex](https://hackerone.com/sniperpex) | 2018-03-11 |
+| 51 | [833782](../reports/833782.md) | Allow authenticated users can edit, trash,and add new in Bud | Medium | — | 8 | [hoangkien1020](https://hackerone.com/hoangkien1020) | 2020-05-22 |
+| 52 | [282176](../reports/282176.md) | Unauthenticated hidden groups disclosure via Ajax groups sea | Medium — CVSS 6.1 | — | 6 | [jdgrimes](https://hackerone.com/jdgrimes) | 2017-11-02 |
+| 53 | [837018](../reports/837018.md) | Privilege Escalation in BuddyPress core allows Moderate to A | Medium | — | 6 | [hoangkien1020](https://hackerone.com/hoangkien1020) | 2020-05-22 |
+| 54 | [914232](../reports/914232.md) | CSRF on comment post | Medium — CVSS 4.2 | — | 5 | [lamscun](https://hackerone.com/lamscun) | 2020-07-16 |
+| 55 | [836187](../reports/836187.md) | CSRF in Profile Fields allows deleting any field in BuddyPre | Medium | — | 5 | [hoangkien1020](https://hackerone.com/hoangkien1020) | 2020-05-22 |
+| 56 | [3893632](../reports/3893632.md) | Unauthenticated disclosure of draft/private/pending post tit | Medium — CVSS 5.3 | — | 5 | [jakubk](https://hackerone.com/jakubk) | 2026-09-28 |
+| 57 | [221734](../reports/221734.md) | Administrator(s) Information disclosure via JSON on wordpres | Medium | — | 4 | [596a96cc7bf9108cd896f33c4](https://hackerone.com/596a96cc7bf9108cd896f33c4) | 2017-04-19 |
+| 58 | [276105](../reports/276105.md) | Stored XSS in WordPress | Medium | — | 3 | [abdullah](https://hackerone.com/abdullah) | 2018-02-02 |
+| 59 | [4053546](../reports/4053546.md) | Information Disclosure - Unauthen Leak Private Content | Medium | — | 1 | [thewindghost](https://hackerone.com/thewindghost) | 2026-10-10 |
+| 60 | [592316](../reports/592316.md) | Stored XSS on byddypress Plug-in via groups name | Low | — | 132 | [yxw21](https://hackerone.com/yxw21) | 2019-07-27 |
+| 61 | [921709](../reports/921709.md) | Clickjacking on donation page | Low | — | 89 | [b0d8e6c576cada9bb87be7b](https://hackerone.com/b0d8e6c576cada9bb87be7b) | 2020-07-16 |
+| 62 | [490782](../reports/490782.md) | Mssing Authorization on Private Message replies (BuddyPress) | Low | — | 66 | [klmunday](https://hackerone.com/klmunday) | 2019-03-08 |
+| 63 | [385322](../reports/385322.md) | Open API For Username enumeration | Low | — | 25 | [sameerphad72](https://hackerone.com/sameerphad72) | 2018-07-23 |
+| 64 | [406289](../reports/406289.md) | Stored XSS on Broken Themes via filename | Low | — | 23 | [apapedulimu](https://hackerone.com/apapedulimu) | 2020-08-25 |
+| 65 | [278151](../reports/278151.md) | Content Spoofing @ https://irclogs.wordpress.org/ | Low | — | 22 | [hackerwahab](https://hackerone.com/hackerwahab) | 2017-12-04 |
+| 66 | [223024](../reports/223024.md) | Clickjacking In jobs.wordpress.net | Low | — | 16 | [zeeshan_waheed](https://hackerone.com/zeeshan_waheed) | 2018-08-22 |
+| 67 | [230232](../reports/230232.md) | Stored self-XSS in mercantile.wordpress.org checkout | Low | — | 15 | [eidelweiss](https://hackerone.com/eidelweiss) | 2017-07-14 |
+| 68 | [230581](../reports/230581.md) | Clickjacking wordcamp.org | Low | — | 14 | [hasanexpert](https://hackerone.com/hasanexpert) | 2017-06-24 |
+| 69 | [309058](../reports/309058.md) | Open Redirect on the nl.wordpress.net | Low | — | 14 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2018-02-22 |
+| 70 | [222036](../reports/222036.md) | Missing SSL can leak job token  | Low | — | 13 | [c0rte](https://hackerone.com/c0rte) | 2017-11-01 |
+| 71 | [1927360](../reports/1927360.md) | Previously created sessions continue being valid after 2FA a | Low | — | 12 | [b740e9c0b92b389ac6646c5](https://hackerone.com/b740e9c0b92b389ac6646c5) | 2023-10-07 |
+| 72 | [264125](../reports/264125.md) | Clickjacking mercantile.wordpress.org | Low | — | 12 | [villagelad](https://hackerone.com/villagelad) | 2017-09-08 |
+| 73 | [384112](../reports/384112.md) | xss - reflected | Low | — | 10 | [arunthelegion](https://hackerone.com/arunthelegion) | 2018-07-24 |
+| 74 | [222224](../reports/222224.md) | Stored but [SELF] XSS in mercantile.wordpress.org | Low | — | 8 | [codertom](https://hackerone.com/codertom) | 2017-05-26 |
+| 75 | [258283](../reports/258283.md) | Clickjacking - https://mercantile.wordpress.org/ | Low | — | 8 | [giantfire](https://hackerone.com/giantfire) | 2017-08-28 |
+| 76 | [224556](../reports/224556.md) | Self-XSS in WordPress Editor Link Modal | Low | — | 8 | [0xbarq](https://hackerone.com/0xbarq) | 2017-11-08 |
+| 77 | [277502](../reports/277502.md) | [BuddyPress 2.9.1] Open Redirect via "wp_http_referer" param | Low | — | 7 | [ysx](https://hackerone.com/ysx) | 2017-11-02 |
+| 78 | [298218](../reports/298218.md) | antispambot does not always escape <, >, &, " and ' | Low | — | 3 | [flimm](https://hackerone.com/flimm) | 2019-09-16 |
+| 79 | [222692](../reports/222692.md) | plugins.trac.wordpress.org likely vulnerable to Cross Site T | None | — | 58 | [geeknik](https://hackerone.com/geeknik) | 2019-11-03 |
+| 80 | [221507](../reports/221507.md) | Multiple stored XSS in WordPress | None | — | 35 | [opnsec](https://hackerone.com/opnsec) | 2018-11-16 |
+| 81 | [149589](../reports/149589.md) | CSRF to add admin [wordpress] | None | — | 15 | [abdullah](https://hackerone.com/abdullah) | 2017-06-30 |
+| 82 | [309714](../reports/309714.md) | [support.wordcamp.org] - publicly accessible .svn repository | None | — | 12 | [kazan71p](https://hackerone.com/kazan71p) | 2018-02-01 |
+| 83 | [682344](../reports/682344.md) | Parameter tampering : Price Manipulation of Products | None | — | 9 | [ashketchum](https://hackerone.com/ashketchum) | 2019-08-29 |
+| 84 | [355773](../reports/355773.md) | XSS on support.wordcamp.org in ajax-quote.php | None | — | 9 | [mopman](https://hackerone.com/mopman) | 2018-07-23 |
+| 85 | [224214](../reports/224214.md) | Lack of Password Confirmation when Changing Password and Ema | None | — | 7 | [0xspade](https://hackerone.com/0xspade) | 2017-04-28 |
+| 86 | [153093](../reports/153093.md) | WordPress core  - Denial of Service via Cross Site Request F | None | — | 6 | [spipm](https://hackerone.com/spipm) | 2017-11-16 |
+| 87 | [267075](../reports/267075.md) | Clickjacking irclogs.wordpress.org | None | — | 2 | [sameull](https://hackerone.com/sameull) | 2017-10-12 |
+| 88 | [282843](../reports/282843.md) | UnResolved ChangeSet are Visible to Public That also Causes  | None | — | 1 | [hackerwahab](https://hackerone.com/hackerwahab) | 2018-02-05 |

@@ -12290,6 +12290,7 @@ https://hackerone.com/reports/3795900 | node:sqlite SQLTagStore Iterator Replay 
 https://hackerone.com/reports/3797526 | CVE-2026-12064: proto-default skips SSH verification
 https://hackerone.com/reports/3799010 | TaskProcessing callback authorization bypass allows ex-members to post as Assistant Talk Bot
 https://hackerone.com/reports/3800870 | connect.8x8.com/api/v1: JWT Algorithm Confusion Vulnerability
+https://hackerone.com/reports/3801107 | Unauthenticated disclosure of private and hidden forum content in bbPress via the WordPress core REST single-item endpoint
 https://hackerone.com/reports/3802451 | HTML Injection in Contact Form Email Enables Phishing via Legitimate ████████ Infrastructure
 https://hackerone.com/reports/3802645 | verify-release rebuilds from the tarball under verification, enabling pre-check command execution and false OK for a malicious curl release tarball
 https://hackerone.com/reports/3803415 | Secure cookies leaked to HTTP origins through HTTPS forwarding proxy
@@ -12336,7 +12337,10 @@ https://hackerone.com/reports/3862641 | IDOR allows user to access report detail
 https://hackerone.com/reports/3867358 | MariaDB Low-Privilege User Can Exhaust Memory Through a Formatting Function and Crash the Service
 https://hackerone.com/reports/3867363 | MariaDB HandlerSocket Improper Request Field-Count Validation Causes Server Crash
 https://hackerone.com/reports/3869124 | **Unauthenticated IDOR allows modification of payment customer billing information**
+https://hackerone.com/reports/3871740 | r2dbc-mariadb Parsec auth: server-controlled PBKDF2 iteration count causes CPU-exhaustion DoS ( regression from b7766de )
+https://hackerone.com/reports/3871977 | Connector/ODBC: malicious server's long version string wraps size_t PrefixLen via negative _snprintf return, causing heap out-of-bounds write
 https://hackerone.com/reports/3872239 | Connector/J: malicious server crashes client JVM via unbounded result-set field-count allocation in ClientMessage.readPacket
+https://hackerone.com/reports/3872248 | Connector/C++: heap out-of-bounds read when malicious server field length exceeds declared column length in binary result path
 https://hackerone.com/reports/3872858 | Stored HTML Injection (CWE-79) via Livechat Visitor Name
 https://hackerone.com/reports/3873072 | Unauthenticated SQL Injection via REST Batch Route Confusion ████████
 https://hackerone.com/reports/3874004 | Incomplete fix for CVE-2022-23915: Mercurial argument injection in HgRepository.get_file() leads to command execution
