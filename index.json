@@ -226642,6 +226642,25 @@
     "votes": 89
   },
   {
+    "id": 3189580,
+    "url": "https://hackerone.com/reports/3189580",
+    "title": "Password Reset Allows Reusing Old Password -- [AUTH-3820]",
+    "visibility": "full",
+    "program": "Remitly",
+    "program_handle": "remitly",
+    "reporter": "ka_reem2004",
+    "severity": "none",
+    "cvss": 0.0,
+    "weakness": "Unverified Password Change",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2025-06-12",
+    "disclosed_at": "2026-10-12T18:34:54.013Z",
+    "votes": 2
+  },
+  {
     "id": 3198394,
     "url": "https://hackerone.com/reports/3198394",
     "title": "WordPress Version Exposure via \u2588\u2588\u2588\u2588\u2588\u2588\u2588 on hemi.xyz",
@@ -236564,6 +236583,25 @@
     "votes": 4
   },
   {
+    "id": 3662095,
+    "url": "https://hackerone.com/reports/3662095",
+    "title": "SQL Injection found on ibm.com subdomain",
+    "visibility": "no-content",
+    "program": "IBM",
+    "program_handle": "ibm",
+    "reporter": "xetnus",
+    "severity": "critical",
+    "cvss": 9.8,
+    "weakness": "SQL Injection",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "OTHER",
+    "reported_at": "2026-04-10",
+    "disclosed_at": "2026-10-12T16:03:29.089Z",
+    "votes": 6
+  },
+  {
     "id": 3664261,
     "url": "https://hackerone.com/reports/3664261",
     "title": "Reflected Cross-Site Scripting (XSS) found on IBM.com domain",
@@ -241527,6 +241565,27 @@
     "asset_type": "OTHER",
     "reported_at": "2026-08-02",
     "disclosed_at": "2026-08-28T18:20:00.529Z",
+    "votes": 2
+  },
+  {
+    "id": 3910393,
+    "url": "https://hackerone.com/reports/3910393",
+    "title": "Stack Buffer Overflow in MariaDB CONNECT storage engine when reading DOUBLE columns from TABLE_TYPE=DOS tables",
+    "visibility": "full",
+    "program": "MariaDB",
+    "program_handle": "mariadb",
+    "reporter": "dstesk",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Stack Overflow",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-107815"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-02",
+    "disclosed_at": "2026-10-12T17:08:52.024Z",
     "votes": 2
   },
   {

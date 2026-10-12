@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2423 total)
+# High/Critical Severity — No Bounty Paid (2424 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -726,6 +726,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1066914](../reports/1066914.md) | [ Hacky Holidays CTF ] Completely taken down the Grinch Networks | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 6 |
 | [1069175](../reports/1069175.md) | h1-ctf : 12 days of hack holiday writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 6 |
 | [703138](../reports/703138.md) | [yarn] yarn.lock integrity & hash check logic is broken | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.6 | Resolved | 6 |
+| [3662095](../reports/3662095.md) | SQL Injection found on ibm.com subdomain | [IBM](../by-program/ibm.md) | Critical — CVSS 9.8 | Resolved | 6 |
 | [186530](../reports/186530.md) | Information disclosure vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 5 |
 | [202652](../reports/202652.md) | Remote command execution (RCE) vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 5 |
 | [1049375](../reports/1049375.md) | SAML authentication bypass through unauthenticated `addSamlProvid | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 10.0 | Resolved | 5 |

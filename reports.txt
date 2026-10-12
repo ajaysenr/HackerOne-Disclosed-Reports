@@ -11602,6 +11602,7 @@ https://hackerone.com/reports/3183957 | Arbitrary File Read via Unsanitized curl
 https://hackerone.com/reports/3185001 | Order More Than Maximum Allowed Quantity
 https://hackerone.com/reports/3185083 | Connection Count Bug in Monero Node Enables Outbound Peer Reset Attack
 https://hackerone.com/reports/3185205 | Reflected XSS in "Cost Tracker" Notes Field
+https://hackerone.com/reports/3189580 | Password Reset Allows Reusing Old Password -- [AUTH-3820]
 https://hackerone.com/reports/3198394 | WordPress Version Exposure via ███████ on hemi.xyz
 https://hackerone.com/reports/3198980 | Woocommerce SQL Injection in WC_Report_Coupon_Usage
 https://hackerone.com/reports/3204997 | Reflected XSS via user Parameter on getconfig.esp Endpoint
@@ -12108,6 +12109,7 @@ https://hackerone.com/reports/3656781 | PHP code injection via delivery limitati
 https://hackerone.com/reports/3656869 | Uppercase sni context matching can lead to mtls authorization bypass due to case-sensitive hostname matching
 https://hackerone.com/reports/3658049 | libcurl: Integer truncation in curl_easy_ssls_import() causes TLS sessions to never expire
 https://hackerone.com/reports/3658225 | HTTP/2 sessions never clean up after GOAWAY on invalid protocol errors
+https://hackerone.com/reports/3662095 | SQL Injection found on ibm.com subdomain
 https://hackerone.com/reports/3664261 | Reflected Cross-Site Scripting (XSS) found on IBM.com domain
 https://hackerone.com/reports/3665151 | Brave Shields Domain Reordering Leads to Origin Confusion
 https://hackerone.com/reports/3665363 | Integer Overflow/Signedness Mismatch in Printf Precision for HTTP/2 Trailer Headers
@@ -12359,6 +12361,7 @@ https://hackerone.com/reports/3898281 | Unauthenticated ?q= search query causes 
 https://hackerone.com/reports/3908943 | DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_priv causing privilege escalation
 https://hackerone.com/reports/3909248 | MariaDB: heap buffer overflow in ha_tina::chain_append() lets a low-privileged user crash the server via CSV row deletion
 https://hackerone.com/reports/3909372 | Unauthorized vertical privilege escalation vulnerability found on ibm.com endpoint
+https://hackerone.com/reports/3910393 | Stack Buffer Overflow in MariaDB CONNECT storage engine when reading DOUBLE columns from TABLE_TYPE=DOS tables
 https://hackerone.com/reports/3911605 | SMTP CRLF injection in custom SMTP recipient operand allows additional SMTP commands after authentication
 https://hackerone.com/reports/3911968 | Heap use-after-free (write) in mev_forget_socket() via reentrant curl_easy_pause() — incomplete fix for CVE-2026-9080
 https://hackerone.com/reports/3913012 | Persistent SMTP header injection via identity `organization` / `name`

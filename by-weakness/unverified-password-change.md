@@ -1,4 +1,4 @@
-# Weakness: Unverified Password Change (5 reports)
+# Weakness: Unverified Password Change (6 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -9,3 +9,4 @@
 | 3 | [854424](../reports/854424.md) | 暴力破解用户密码没有速率控制 | [X / xAI](../by-program/x.md) | Medium | — | 30 |
 | 4 | [242846](../reports/242846.md) | Password Change not notified when changed from settings | [Starbucks](../by-program/starbucks.md) | Medium | — | 7 |
 | 5 | [803028](../reports/803028.md) | Monero wallet password change is confirmed when not matching | [Monero](../by-program/monero.md) | Low | — | 7 |
+| 6 | [3189580](../reports/3189580.md) | Password Reset Allows Reusing Old Password -- [AUTH-3820] | [Remitly](../by-program/remitly.md) | None | — | 2 |

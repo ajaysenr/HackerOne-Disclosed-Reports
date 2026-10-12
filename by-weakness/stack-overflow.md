@@ -1,4 +1,4 @@
-# Weakness: Stack Overflow (32 reports)
+# Weakness: Stack Overflow (33 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -36,3 +36,4 @@
 | 30 | [3782405](../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::insert | [MariaDB](../by-program/mariadb.md) | None | — | 14 |
 | 31 | [3459636](../reports/3459636.md) | Stack Buffer Overflow in cURL wolfSSL Backend (lib/vtls/wolfssl.c | [curl](../by-program/curl.md) | None | — | 12 |
 | 32 | [390499](../reports/390499.md) | Stack Overflow in JSON RPC Server | [Monero](../by-program/monero.md) | None | — | 10 |
+| 33 | [3910393](../reports/3910393.md) | Stack Buffer Overflow in MariaDB CONNECT storage engine when read | [MariaDB](../by-program/mariadb.md) | None | — | 2 |

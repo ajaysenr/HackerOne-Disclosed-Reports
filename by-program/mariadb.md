@@ -1,4 +1,4 @@
-# MariaDB — Disclosed Reports (49 total)
+# MariaDB — Disclosed Reports (50 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -48,8 +48,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 42 | [3771144](../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_versio | None | — | 10 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-14 |
 | 43 | [3897588](../reports/3897588.md) | KILL authorization trusts the presented login name instead o | None | — | 3 | [dogeshark](https://hackerone.com/dogeshark) | 2026-09-07 |
 | 44 | [3896671](../reports/3896671.md) | Connector/C Out-of-bounds read in `unpack_fields()` from sho | None | — | 3 | [mschorm](https://hackerone.com/mschorm) | 2026-09-30 |
-| 45 | [3849025](../reports/3849025.md) | DATA / INDEX DIRECTORY Abuse | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
-| 46 | [3848978](../reports/3848978.md) | `SHOW [CREATE|GRANTS] ...` / `mariadb-dump` Unescaped SQL Ge | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
-| 47 | [3880451](../reports/3880451.md) | Privilege escalation via user controlled usernames / roles a | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
-| 48 | [3849051](../reports/3849051.md) | #mysql50# legacy alias / internal table collisions | None | — | 1 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
-| 49 | [3849040](../reports/3849040.md) | #mysql50# legacy alias / stale table cache identity mismatch | None | — | 1 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
+| 45 | [3910393](../reports/3910393.md) | Stack Buffer Overflow in MariaDB CONNECT storage engine when | None | — | 2 | [dstesk](https://hackerone.com/dstesk) | 2026-10-12 |
+| 46 | [3849025](../reports/3849025.md) | DATA / INDEX DIRECTORY Abuse | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
+| 47 | [3848978](../reports/3848978.md) | `SHOW [CREATE|GRANTS] ...` / `mariadb-dump` Unescaped SQL Ge | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
+| 48 | [3880451](../reports/3880451.md) | Privilege escalation via user controlled usernames / roles a | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
+| 49 | [3849051](../reports/3849051.md) | #mysql50# legacy alias / internal table collisions | None | — | 1 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
+| 50 | [3849040](../reports/3849040.md) | #mysql50# legacy alias / stale table cache identity mismatch | None | — | 1 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
