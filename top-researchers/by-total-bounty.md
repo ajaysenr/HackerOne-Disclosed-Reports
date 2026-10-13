@@ -2123,7 +2123,7 @@
 | 2119 | [sadd_man](https://hackerone.com/sadd_man) | 1 | $0 | 8 |
 | 2120 | [skarsom](https://hackerone.com/skarsom) | 6 | $0 | 114 |
 | 2121 | [d4w](https://hackerone.com/d4w) | 1 | $0 | 1 |
-| 2122 | [matty69v](https://hackerone.com/matty69v) | 6 | $0 | 24 |
+| 2122 | [matty69v](https://hackerone.com/matty69v) | 7 | $0 | 33 |
 | 2123 | [tampe125](https://hackerone.com/tampe125) | 1 | $0 | 7 |
 | 2124 | [khoof](https://hackerone.com/khoof) | 4 | $0 | 165 |
 | 2125 | [kedibeauty](https://hackerone.com/kedibeauty) | 1 | $0 | 5 |

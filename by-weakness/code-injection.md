@@ -1,4 +1,4 @@
-# Weakness: Code Injection (296 reports)
+# Weakness: Code Injection (297 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -179,124 +179,125 @@
 | 173 | [630903](../reports/630903.md) | Monero Wallet Gui for Windows (Arbitrary Code Execution) | [Monero](../by-program/monero.md) | High | — | 10 |
 | 174 | [532667](../reports/532667.md) | Server Side JavaScript Code Injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 10 |
 | 175 | [192931](../reports/192931.md) | Server-side include injection vulnerability in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 9 |
-| 176 | [3118915](../reports/3118915.md) | Potential XSS vector in curl via unsanitized URL parameter handli | [curl](../by-program/curl.md) | High | — | 8 |
-| 177 | [904672](../reports/904672.md) | Server-side Template Injection in lodash.js  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 8 |
-| 178 | [1249456](../reports/1249456.md) | Pre-auth RCE in ForgeRock OpenAM (CVE-2021-35464) | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 8 |
-| 179 | [954398](../reports/954398.md) | Сode injection host  █████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 8 |
-| 180 | [350418](../reports/350418.md) | Insecure implementation of deserialization in cryo | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.7 | — | 8 |
-| 181 | [3656781](../reports/3656781.md) | PHP code injection via delivery limitation logical  | [Revive Adserver](../by-program/revive_adserver.md) | High — CVSS 8.8 | — | 7 |
-| 182 | [350401](../reports/350401.md) | Insecure implementation of deserialization in funcster | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.7 | — | 7 |
-| 183 | [772448](../reports/772448.md) | [blamer] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 7 |
-| 184 | [809012](../reports/809012.md) | [notevil] - Sandbox Escape Lead to RCE on Node.js and XSS in the  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 6 |
-| 185 | [192567](../reports/192567.md) | Remote code execution vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 6 |
-| 186 | [678727](../reports/678727.md) | potential RCE and XSS via file upload requiring user account and  | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.8 | — | 5 |
-| 187 | [390929](../reports/390929.md) | Code Injection Vulnerability in dot Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.4 | — | 5 |
-| 188 | [703412](../reports/703412.md) | [node-df] RCE via insecure command concatenation | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.4 | — | 5 |
-| 189 | [904064](../reports/904064.md) | Dashboard sharing enables code injection into ████ emails | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 4 |
-| 190 | [182557](../reports/182557.md) | links the user may download can be a malicious files | [Brave Software](../by-program/brave.md) | High | — | 4 |
-| 191 | [703415](../reports/703415.md) | [treekill] RCE via insecure command concatenation (only Windows) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.3 | — | 4 |
-| 192 | [3780854](../reports/3780854.md) | PHP code injection in delivery-limitation `logical` validation by | [Revive Adserver](../by-program/revive_adserver.md) | High — CVSS 8.8 | — | 4 |
-| 193 | [222020](../reports/222020.md) | Mercurial can be tricked into granting authorized users access to | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 3 |
-| 194 | [3744200](../reports/3744200.md) | PHP code injection via unexpected delivery limitation parameter | [Revive Adserver](../by-program/revive_adserver.md) | High — CVSS 8.8 | — | 3 |
-| 195 | [3781492](../reports/3781492.md) | PHP code injection in delivery-limitation `logical` validation by | [Revive Adserver](../by-program/revive_adserver.md) | High — CVSS 8.8 | — | 3 |
-| 196 | [768322](../reports/768322.md) | Remote Code Execution (Reverse Shell) - File Manager | [Concrete CMS](../by-program/concretecms.md) | Medium — CVSS 5.1 | — | 114 |
-| 197 | [1806939](../reports/1806939.md) | Entire database of emails exposed through URN injection | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 5.3 | — | 79 |
-| 198 | [2978923](../reports/2978923.md) | HTML Injection in Business Name Parameter in Payapps | [Autodesk](../by-program/autodesk.md) | Medium — CVSS 5.4 | — | 75 |
-| 199 | [399166](../reports/399166.md) | Remote code execution by hijacking an unclaimed S3 bucket in Rock | [Rocket.Chat](../by-program/rocket_chat.md) | Medium | — | 35 |
-| 200 | [1250293](../reports/1250293.md) | SQL injection my method -1 OR 3*2*1=6 AND 000159=000159 | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 32 |
-| 201 | [2094056](../reports/2094056.md) | RCE and DoS in Cosmovisor | [Cosmos](../by-program/cosmos.md) | Medium | — | 28 |
-| 202 | [833470](../reports/833470.md) | [Security Vulnerability Rocket.chat] HTML Injection into Email vi | [Rocket.Chat](../by-program/rocket_chat.md) | Medium | — | 27 |
-| 203 | [2471956](../reports/2471956.md) | Code exec on Github runner via Pull request name | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | Medium — CVSS 6.0 | — | 26 |
-| 204 | [723707](../reports/723707.md) | Code injection in https://www.semrush.com | [Semrush](../by-program/semrush.md) | Medium | — | 22 |
-| 205 | [1081656](../reports/1081656.md) | Html injection on ██████.informatica.com via search.html?q=1 | [Informatica](../by-program/informatica.md) | Medium | — | 20 |
-| 206 | [214370](../reports/214370.md) | Comments Denial of Service in socialclub.rockstargames.com | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 19 |
-| 207 | [1093444](../reports/1093444.md) | PHP Code Injection through "Translate::save()" method | [ExpressionEngine](../by-program/expressionengine.md) | Medium | — | 19 |
-| 208 | [1031613](../reports/1031613.md) | CSS Injection in Message Avatar | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 4.3 | — | 19 |
-| 209 | [975514](../reports/975514.md) | Arbitrary file download due to bad handling of Redirects in WebTo | [Brave Software](../by-program/brave.md) | Medium | — | 15 |
-| 210 | [271960](../reports/271960.md) | Client-side Template Injection in Search, user email/token leak a | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 15 |
-| 211 | [1267488](../reports/1267488.md) | Authenticated RCE via page title | [ExpressionEngine](../by-program/expressionengine.md) | Medium — CVSS 6.6 | — | 14 |
-| 212 | [903872](../reports/903872.md) | Remote Code Execution through "Files_antivirus" plugin | [ownCloud](../by-program/owncloud.md) | Medium | — | 14 |
-| 213 | [390881](../reports/390881.md) | Code Injection Vulnerability in morgan Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.8 | — | 13 |
-| 214 | [1720043](../reports/1720043.md) | Desktop client can be tricked into opening/executing local files  | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.6 | — | 13 |
-| 215 | [943255](../reports/943255.md) | CSV Injection Via Student Password/Name Leads To Client Side RCE  | [Khan Academy](../by-program/khanacademy.md) | Medium | — | 12 |
-| 216 | [963155](../reports/963155.md) | Arbitrary file download via "Save .torrent file" option can lead  | [Brave Software](../by-program/brave.md) | Medium | — | 11 |
-| 217 | [331752](../reports/331752.md) | https://mathfacts.khanacademy.org/ includes code from unprivilege | [Khan Academy](../by-program/khanacademy.md) | Medium | — | 11 |
-| 218 | [274264](../reports/274264.md) | Your support community suffers from angularjs injection and must  | [Rockstar Games](../by-program/rockstargames.md) | Medium — CVSS 6.5 | — | 10 |
-| 219 | [1166535](../reports/1166535.md) | Brew bootstrap process is insecure | [Homebrew](../by-program/homebrew.md) | Medium | — | 8 |
-| 220 | [728047](../reports/728047.md) | [git-promise] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.2 | — | 7 |
-| 221 | [894308](../reports/894308.md) | Arbitrary code execution via untrusted schemas in is-my-json-vali | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 6 |
-| 222 | [928280](../reports/928280.md) | Formula Injection vulnerability in CSV export feature | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.7 | — | 6 |
-| 223 | [728040](../reports/728040.md) | [meta-git] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.2 | — | 4 |
-| 224 | [730121](../reports/730121.md) | [npm-git-publish] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.8 | — | 3 |
-| 225 | [195950](../reports/195950.md) | Use of uninitialized memory in unserialize() | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 3 |
-| 226 | [250273](../reports/250273.md) | Image lib - unescaped file path | [ExpressionEngine](../by-program/expressionengine.md) | Medium | — | 3 |
-| 227 | [3679471](../reports/3679471.md) | HTML Injection in Transaction Confirmation Dialog via Address Boo | [Monero](../by-program/monero.md) | Medium — CVSS 6.5 | — | 3 |
-| 228 | [1193641](../reports/1193641.md) | GlassWire 2.1.167 vulnerability - MSVR 56639 | [GlassWire](../by-program/glasswire.md) | Medium — CVSS 5.8 | — | 3 |
-| 229 | [718241](../reports/718241.md) | [git-lib] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.4 | — | 2 |
-| 230 | [250587](../reports/250587.md) | Potential code injection in fun delete_directory | [ExpressionEngine](../by-program/expressionengine.md) | Medium | — | 2 |
-| 231 | [730111](../reports/730111.md) | [gity] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.4 | — | 2 |
-| 232 | [885031](../reports/885031.md) | [commit-msg] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.4 | — | 0 |
-| 233 | [1437942](../reports/1437942.md) | DLL hijacking in Monero GUI for Windows 0.17.3.0 would allow an a | [Monero](../by-program/monero.md) | Medium | — | 0 |
-| 234 | [191884](../reports/191884.md) | Remote Unrestricted file Creation/Deletion and Possible RCE. | [X / xAI](../by-program/x.md) | Low | — | 98 |
-| 235 | [2383092](../reports/2383092.md) | Source Code and data exfiltration via Github Copilot | [GitHub](../by-program/github.md) | Low | — | 63 |
-| 236 | [2018615](../reports/2018615.md) | HTML injection on newsroom.snap.com/* via search?q=1 | [Snapchat](../by-program/snapchat.md) | Low | — | 54 |
-| 237 | [1374017](../reports/1374017.md) | HTML injection in email at https://www.hackerone.com/ | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | — | 40 |
-| 238 | [1066607](../reports/1066607.md) | HTML Injection through Account Name field on TikTok ads portal be | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.1 | — | 36 |
-| 239 | [633266](../reports/633266.md) | Code injection in macOS Desktop Client  | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.8 | — | 29 |
-| 240 | [2545994](../reports/2545994.md) | Cloudflare /cdn-cgi/ path allows resizing images from unauthorise | [Enjin](../by-program/enjin.md) | Low | — | 27 |
-| 241 | [365755](../reports/365755.md) | Privacy policy contains hardcoded link using unencrypted HTTP | [Uber](../by-program/uber.md) | Low | — | 17 |
-| 242 | [226783](../reports/226783.md) | HTML Injection on airlink.ubnt.com | [Ubiquiti Inc.](../by-program/ui.md) | Low | — | 9 |
-| 243 | [1548535](../reports/1548535.md) | --libcurl code injection via trigraphs | [curl](../by-program/curl.md) | Low | — | 6 |
-| 244 | [660563](../reports/660563.md) | [script-manager] Unintended require | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low | — | 5 |
-| 245 | [203600](../reports/203600.md) | Remote code execution vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 3 |
-| 246 | [897974](../reports/897974.md) | Arbitrary code execution via untrusted schemas in ajv | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low | — | 1 |
-| 247 | [423541](../reports/423541.md) | H1514 Server Side Template Injection in Return Magic email templa | [Shopify](../by-program/shopify.md) | None | — | 408 |
-| 248 | [164224](../reports/164224.md) | Urgent: Server side template injection via Smarty template allows | [Unikrn](../by-program/unikrn.md) | None | — | 122 |
-| 249 | [1167530](../reports/1167530.md) | RCE in 'Copy as Node Request' BApp via code injection | [PortSwigger Web Security](../by-program/portswigger.md) | None | — | 50 |
-| 250 | [134738](../reports/134738.md) | WordPress SOME bug in plupload.flash.swf leading to RCE | [Automattic](../by-program/automattic.md) | None | — | 50 |
-| 251 | [153026](../reports/153026.md) | Java Deserialization RCE via JBoss JMXInvokerServlet/EJBInvokerSe | [Starbucks](../by-program/starbucks.md) | None | — | 42 |
-| 252 | [1187477](../reports/1187477.md) | RCE by parsing `.rdoc_options` in RDoc | [Ruby](../by-program/ruby.md) | None | — | 41 |
-| 253 | [55431](../reports/55431.md) | XML Parser Bug: XXE over which leads to RCE | [drchrono](../by-program/drchrono.md) | None | — | 35 |
-| 254 | [135072](../reports/135072.md) | RCE in profile picture upload | [HackerOne](../by-program/security.md) | None | — | 32 |
-| 255 | [244677](../reports/244677.md) | Add arbitrary content to Password Reset Email | [WakaTime](../by-program/wakatime.md) | None | — | 24 |
-| 256 | [3217840](../reports/3217840.md) | Remote Code Execution in Amazon MWAA due to outdated Apache Airfl | [AWS VDP](../by-program/aws_vdp.md) | None | — | 24 |
-| 257 | [109699](../reports/109699.md) | Subdomain Takeover in http://assets.goubiquiti.com/ | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 21 |
-| 258 | [1431624](../reports/1431624.md) | Log4j CVE-2021–44228 | [Krisp](../by-program/krisp.md) | None | — | 21 |
-| 259 | [523](../reports/523.md) | PHP openssl_x509_parse() Memory Corruption Vulnerability | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 16 |
-| 260 | [122475](../reports/122475.md) | Local file read in image editor | [Imgur](../by-program/imgur.md) | None | — | 13 |
-| 261 | [44513](../reports/44513.md) | RCE due to Web Console IP Whitelist bypass in Rails 4.0 and 4.1 | [Ruby on Rails](../by-program/rails.md) | None | — | 13 |
-| 262 | [146235](../reports/146235.md) | ZipArchive class Use After Free Vulnerability in PHP's GC algorit | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 11 |
-| 263 | [146233](../reports/146233.md) | Use After Free Vulnerability in PHP's GC algorithm and unserializ | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 11 |
-| 264 | [98559](../reports/98559.md) | RCE in ci.owncloud.com / ci.owncloud.org | [ownCloud](../by-program/owncloud.md) | None | — | 10 |
-| 265 | [54034](../reports/54034.md) | Reflected Filename Download | [HackerOne](../by-program/security.md) | None | — | 9 |
-| 266 | [84374](../reports/84374.md) | apps.owncloud.com: Malicious file upload leads to remote code exe | [ownCloud](../by-program/owncloud.md) | None | — | 9 |
-| 267 | [263913](../reports/263913.md) | Content injection via URL parameter. | [GSA Bounty](../by-program/gsa_bbp.md) | None | — | 9 |
-| 268 | [631227](../reports/631227.md) | Some HTML Tags are Getting Executed in com.nextcloud.client | [Nextcloud](../by-program/nextcloud.md) | None | — | 9 |
-| 269 | [745921](../reports/745921.md) | Code Injection Bug Report | [Ruby](../by-program/ruby.md) | None | — | 8 |
-| 270 | [213776](../reports/213776.md) | Remote Command Execution on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | None | — | 7 |
-| 271 | [14092](../reports/14092.md) | Remote file Inclusion - RFI in upload | [Slack](../by-program/slack.md) | None | — | 7 |
-| 272 | [60058](../reports/60058.md) | teach.udemy.com log poison vulnerability through wordpress debug. | [Udemy](../by-program/udemy.md) | None | — | 7 |
-| 273 | [150375](../reports/150375.md) | newsroom.uber.com is vulnerable to 'SOME' XSS attack via plupload | [Uber](../by-program/uber.md) | None | — | 6 |
-| 274 | [113831](../reports/113831.md) | Regarding [CVE-2016-0752] Possible Information Leak Vulnerability | [Ruby on Rails](../by-program/rails.md) | None | — | 6 |
-| 275 | [149268](../reports/149268.md) | Arbitrary file upload when setting an avatar | [ExpressionEngine](../by-program/expressionengine.md) | None | — | 6 |
-| 276 | [175766](../reports/175766.md) | Remote client memory corruption in ssl_add_clienthello_tlsext() | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 6 |
-| 277 | [194564](../reports/194564.md) | Review remote code execution in SwiftMailer | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
-| 278 | [1057216](../reports/1057216.md) | Regex Injection from request header (Rack::Sendfile, send_file) | [Ruby on Rails](../by-program/rails.md) | None | — | 4 |
-| 279 | [73429](../reports/73429.md) | pngcrush_measure_idat() off-by-one error (CVE-2015-2158) | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 3 |
-| 280 | [121863](../reports/121863.md) | Buffer overflow in HTTP url parsing functions | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 3 |
-| 281 | [629879](../reports/629879.md) | loader.js is not secure | [Node.js](../by-program/nodejs.md) | None | — | 3 |
-| 282 | [326697](../reports/326697.md) | HTML Injection on https://www.mycrypto.com/ | [MyCrypto](../by-program/mycrypto.md) | None | — | 3 |
-| 283 | [878181](../reports/878181.md) | Child process environment injection via prototype pollution | [Node.js](../by-program/nodejs.md) | None | — | 3 |
-| 284 | [1187816](../reports/1187816.md) | Dependency Confusion Vulnerability in Sifnode Due to Unclaimed np | [Sifchain](../by-program/sifchain.md) | None | — | 3 |
-| 285 | [213069](../reports/213069.md) | Remote Code Execution (RCE) in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | None | — | 3 |
-| 286 | [299034](../reports/299034.md) | Text manipulation in https://checkout.rbk.money | [RBKmoney](../by-program/rbkmoney.md) | None | — | 2 |
-| 287 | [44578](../reports/44578.md) | URGENT - SUBDOMAIN TAKEOVER ON TWITTER ACQ. | [X / xAI](../by-program/x.md) | None | — | 2 |
-| 288 | [165969](../reports/165969.md) | The “Malstaller” Attack, global hijacking of any installation pro | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 2 |
-| 289 | [112863](../reports/112863.md) | Trivial age-old heap overflow in 32-bit PHP | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 2 |
-| 290 | [146255](../reports/146255.md) | Double Free Corruption in wddx.c (extension) | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 1 |
-| 291 | [112855](../reports/112855.md) | EIP control using type confusion in json encoding | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 1 |
-| 292 | [152278](../reports/152278.md) | Stack-based buffer overflow vulnerability in php_stream_zip_opene | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 1 |
-| 293 | [139875](../reports/139875.md) | DOM based XSS on | [Uber](../by-program/uber.md) | None | — | 1 |
-| 294 | [114389](../reports/114389.md) | Remote File Upload Vulnerability in business-blog.zomato.com | [Eternal](../by-program/eternal.md) | None | — | 1 |
-| 295 | [103432](../reports/103432.md) | URGENT - Subdomain Takeover in support.urbandictionary.com pointi | [Urban Dictionary](../by-program/urbandictionary.md) | None | — | 1 |
-| 296 | [1763343](../reports/1763343.md) | Dependency confusion in https://github.com/hyperledger/aries-mobi | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | None | — | 1 |
+| 176 | [3897236](../reports/3897236.md) | RCE in AWS Amplify CLI via Prototype Chain Traversal in amplify-v | [AWS VDP](../by-program/aws_vdp.md) | High | — | 9 |
+| 177 | [3118915](../reports/3118915.md) | Potential XSS vector in curl via unsanitized URL parameter handli | [curl](../by-program/curl.md) | High | — | 8 |
+| 178 | [904672](../reports/904672.md) | Server-side Template Injection in lodash.js  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 8 |
+| 179 | [1249456](../reports/1249456.md) | Pre-auth RCE in ForgeRock OpenAM (CVE-2021-35464) | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 8 |
+| 180 | [954398](../reports/954398.md) | Сode injection host  █████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 8 |
+| 181 | [350418](../reports/350418.md) | Insecure implementation of deserialization in cryo | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.7 | — | 8 |
+| 182 | [3656781](../reports/3656781.md) | PHP code injection via delivery limitation logical  | [Revive Adserver](../by-program/revive_adserver.md) | High — CVSS 8.8 | — | 7 |
+| 183 | [350401](../reports/350401.md) | Insecure implementation of deserialization in funcster | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.7 | — | 7 |
+| 184 | [772448](../reports/772448.md) | [blamer] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 7 |
+| 185 | [809012](../reports/809012.md) | [notevil] - Sandbox Escape Lead to RCE on Node.js and XSS in the  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 6 |
+| 186 | [192567](../reports/192567.md) | Remote code execution vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 6 |
+| 187 | [678727](../reports/678727.md) | potential RCE and XSS via file upload requiring user account and  | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.8 | — | 5 |
+| 188 | [390929](../reports/390929.md) | Code Injection Vulnerability in dot Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.4 | — | 5 |
+| 189 | [703412](../reports/703412.md) | [node-df] RCE via insecure command concatenation | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.4 | — | 5 |
+| 190 | [904064](../reports/904064.md) | Dashboard sharing enables code injection into ████ emails | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 4 |
+| 191 | [182557](../reports/182557.md) | links the user may download can be a malicious files | [Brave Software](../by-program/brave.md) | High | — | 4 |
+| 192 | [703415](../reports/703415.md) | [treekill] RCE via insecure command concatenation (only Windows) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.3 | — | 4 |
+| 193 | [3780854](../reports/3780854.md) | PHP code injection in delivery-limitation `logical` validation by | [Revive Adserver](../by-program/revive_adserver.md) | High — CVSS 8.8 | — | 4 |
+| 194 | [222020](../reports/222020.md) | Mercurial can be tricked into granting authorized users access to | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 3 |
+| 195 | [3744200](../reports/3744200.md) | PHP code injection via unexpected delivery limitation parameter | [Revive Adserver](../by-program/revive_adserver.md) | High — CVSS 8.8 | — | 3 |
+| 196 | [3781492](../reports/3781492.md) | PHP code injection in delivery-limitation `logical` validation by | [Revive Adserver](../by-program/revive_adserver.md) | High — CVSS 8.8 | — | 3 |
+| 197 | [768322](../reports/768322.md) | Remote Code Execution (Reverse Shell) - File Manager | [Concrete CMS](../by-program/concretecms.md) | Medium — CVSS 5.1 | — | 114 |
+| 198 | [1806939](../reports/1806939.md) | Entire database of emails exposed through URN injection | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 5.3 | — | 79 |
+| 199 | [2978923](../reports/2978923.md) | HTML Injection in Business Name Parameter in Payapps | [Autodesk](../by-program/autodesk.md) | Medium — CVSS 5.4 | — | 75 |
+| 200 | [399166](../reports/399166.md) | Remote code execution by hijacking an unclaimed S3 bucket in Rock | [Rocket.Chat](../by-program/rocket_chat.md) | Medium | — | 35 |
+| 201 | [1250293](../reports/1250293.md) | SQL injection my method -1 OR 3*2*1=6 AND 000159=000159 | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 32 |
+| 202 | [2094056](../reports/2094056.md) | RCE and DoS in Cosmovisor | [Cosmos](../by-program/cosmos.md) | Medium | — | 28 |
+| 203 | [833470](../reports/833470.md) | [Security Vulnerability Rocket.chat] HTML Injection into Email vi | [Rocket.Chat](../by-program/rocket_chat.md) | Medium | — | 27 |
+| 204 | [2471956](../reports/2471956.md) | Code exec on Github runner via Pull request name | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | Medium — CVSS 6.0 | — | 26 |
+| 205 | [723707](../reports/723707.md) | Code injection in https://www.semrush.com | [Semrush](../by-program/semrush.md) | Medium | — | 22 |
+| 206 | [1081656](../reports/1081656.md) | Html injection on ██████.informatica.com via search.html?q=1 | [Informatica](../by-program/informatica.md) | Medium | — | 20 |
+| 207 | [214370](../reports/214370.md) | Comments Denial of Service in socialclub.rockstargames.com | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 19 |
+| 208 | [1093444](../reports/1093444.md) | PHP Code Injection through "Translate::save()" method | [ExpressionEngine](../by-program/expressionengine.md) | Medium | — | 19 |
+| 209 | [1031613](../reports/1031613.md) | CSS Injection in Message Avatar | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 4.3 | — | 19 |
+| 210 | [975514](../reports/975514.md) | Arbitrary file download due to bad handling of Redirects in WebTo | [Brave Software](../by-program/brave.md) | Medium | — | 15 |
+| 211 | [271960](../reports/271960.md) | Client-side Template Injection in Search, user email/token leak a | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 15 |
+| 212 | [1267488](../reports/1267488.md) | Authenticated RCE via page title | [ExpressionEngine](../by-program/expressionengine.md) | Medium — CVSS 6.6 | — | 14 |
+| 213 | [903872](../reports/903872.md) | Remote Code Execution through "Files_antivirus" plugin | [ownCloud](../by-program/owncloud.md) | Medium | — | 14 |
+| 214 | [390881](../reports/390881.md) | Code Injection Vulnerability in morgan Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.8 | — | 13 |
+| 215 | [1720043](../reports/1720043.md) | Desktop client can be tricked into opening/executing local files  | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.6 | — | 13 |
+| 216 | [943255](../reports/943255.md) | CSV Injection Via Student Password/Name Leads To Client Side RCE  | [Khan Academy](../by-program/khanacademy.md) | Medium | — | 12 |
+| 217 | [963155](../reports/963155.md) | Arbitrary file download via "Save .torrent file" option can lead  | [Brave Software](../by-program/brave.md) | Medium | — | 11 |
+| 218 | [331752](../reports/331752.md) | https://mathfacts.khanacademy.org/ includes code from unprivilege | [Khan Academy](../by-program/khanacademy.md) | Medium | — | 11 |
+| 219 | [274264](../reports/274264.md) | Your support community suffers from angularjs injection and must  | [Rockstar Games](../by-program/rockstargames.md) | Medium — CVSS 6.5 | — | 10 |
+| 220 | [1166535](../reports/1166535.md) | Brew bootstrap process is insecure | [Homebrew](../by-program/homebrew.md) | Medium | — | 8 |
+| 221 | [728047](../reports/728047.md) | [git-promise] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.2 | — | 7 |
+| 222 | [894308](../reports/894308.md) | Arbitrary code execution via untrusted schemas in is-my-json-vali | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 6 |
+| 223 | [928280](../reports/928280.md) | Formula Injection vulnerability in CSV export feature | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.7 | — | 6 |
+| 224 | [728040](../reports/728040.md) | [meta-git] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.2 | — | 4 |
+| 225 | [730121](../reports/730121.md) | [npm-git-publish] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.8 | — | 3 |
+| 226 | [195950](../reports/195950.md) | Use of uninitialized memory in unserialize() | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 3 |
+| 227 | [250273](../reports/250273.md) | Image lib - unescaped file path | [ExpressionEngine](../by-program/expressionengine.md) | Medium | — | 3 |
+| 228 | [3679471](../reports/3679471.md) | HTML Injection in Transaction Confirmation Dialog via Address Boo | [Monero](../by-program/monero.md) | Medium — CVSS 6.5 | — | 3 |
+| 229 | [1193641](../reports/1193641.md) | GlassWire 2.1.167 vulnerability - MSVR 56639 | [GlassWire](../by-program/glasswire.md) | Medium — CVSS 5.8 | — | 3 |
+| 230 | [718241](../reports/718241.md) | [git-lib] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.4 | — | 2 |
+| 231 | [250587](../reports/250587.md) | Potential code injection in fun delete_directory | [ExpressionEngine](../by-program/expressionengine.md) | Medium | — | 2 |
+| 232 | [730111](../reports/730111.md) | [gity] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.4 | — | 2 |
+| 233 | [885031](../reports/885031.md) | [commit-msg] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.4 | — | 0 |
+| 234 | [1437942](../reports/1437942.md) | DLL hijacking in Monero GUI for Windows 0.17.3.0 would allow an a | [Monero](../by-program/monero.md) | Medium | — | 0 |
+| 235 | [191884](../reports/191884.md) | Remote Unrestricted file Creation/Deletion and Possible RCE. | [X / xAI](../by-program/x.md) | Low | — | 98 |
+| 236 | [2383092](../reports/2383092.md) | Source Code and data exfiltration via Github Copilot | [GitHub](../by-program/github.md) | Low | — | 63 |
+| 237 | [2018615](../reports/2018615.md) | HTML injection on newsroom.snap.com/* via search?q=1 | [Snapchat](../by-program/snapchat.md) | Low | — | 54 |
+| 238 | [1374017](../reports/1374017.md) | HTML injection in email at https://www.hackerone.com/ | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | — | 40 |
+| 239 | [1066607](../reports/1066607.md) | HTML Injection through Account Name field on TikTok ads portal be | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.1 | — | 36 |
+| 240 | [633266](../reports/633266.md) | Code injection in macOS Desktop Client  | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.8 | — | 29 |
+| 241 | [2545994](../reports/2545994.md) | Cloudflare /cdn-cgi/ path allows resizing images from unauthorise | [Enjin](../by-program/enjin.md) | Low | — | 27 |
+| 242 | [365755](../reports/365755.md) | Privacy policy contains hardcoded link using unencrypted HTTP | [Uber](../by-program/uber.md) | Low | — | 17 |
+| 243 | [226783](../reports/226783.md) | HTML Injection on airlink.ubnt.com | [Ubiquiti Inc.](../by-program/ui.md) | Low | — | 9 |
+| 244 | [1548535](../reports/1548535.md) | --libcurl code injection via trigraphs | [curl](../by-program/curl.md) | Low | — | 6 |
+| 245 | [660563](../reports/660563.md) | [script-manager] Unintended require | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low | — | 5 |
+| 246 | [203600](../reports/203600.md) | Remote code execution vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 3 |
+| 247 | [897974](../reports/897974.md) | Arbitrary code execution via untrusted schemas in ajv | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low | — | 1 |
+| 248 | [423541](../reports/423541.md) | H1514 Server Side Template Injection in Return Magic email templa | [Shopify](../by-program/shopify.md) | None | — | 408 |
+| 249 | [164224](../reports/164224.md) | Urgent: Server side template injection via Smarty template allows | [Unikrn](../by-program/unikrn.md) | None | — | 122 |
+| 250 | [1167530](../reports/1167530.md) | RCE in 'Copy as Node Request' BApp via code injection | [PortSwigger Web Security](../by-program/portswigger.md) | None | — | 50 |
+| 251 | [134738](../reports/134738.md) | WordPress SOME bug in plupload.flash.swf leading to RCE | [Automattic](../by-program/automattic.md) | None | — | 50 |
+| 252 | [153026](../reports/153026.md) | Java Deserialization RCE via JBoss JMXInvokerServlet/EJBInvokerSe | [Starbucks](../by-program/starbucks.md) | None | — | 42 |
+| 253 | [1187477](../reports/1187477.md) | RCE by parsing `.rdoc_options` in RDoc | [Ruby](../by-program/ruby.md) | None | — | 41 |
+| 254 | [55431](../reports/55431.md) | XML Parser Bug: XXE over which leads to RCE | [drchrono](../by-program/drchrono.md) | None | — | 35 |
+| 255 | [135072](../reports/135072.md) | RCE in profile picture upload | [HackerOne](../by-program/security.md) | None | — | 32 |
+| 256 | [244677](../reports/244677.md) | Add arbitrary content to Password Reset Email | [WakaTime](../by-program/wakatime.md) | None | — | 24 |
+| 257 | [3217840](../reports/3217840.md) | Remote Code Execution in Amazon MWAA due to outdated Apache Airfl | [AWS VDP](../by-program/aws_vdp.md) | None | — | 24 |
+| 258 | [109699](../reports/109699.md) | Subdomain Takeover in http://assets.goubiquiti.com/ | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 21 |
+| 259 | [1431624](../reports/1431624.md) | Log4j CVE-2021–44228 | [Krisp](../by-program/krisp.md) | None | — | 21 |
+| 260 | [523](../reports/523.md) | PHP openssl_x509_parse() Memory Corruption Vulnerability | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 16 |
+| 261 | [122475](../reports/122475.md) | Local file read in image editor | [Imgur](../by-program/imgur.md) | None | — | 13 |
+| 262 | [44513](../reports/44513.md) | RCE due to Web Console IP Whitelist bypass in Rails 4.0 and 4.1 | [Ruby on Rails](../by-program/rails.md) | None | — | 13 |
+| 263 | [146235](../reports/146235.md) | ZipArchive class Use After Free Vulnerability in PHP's GC algorit | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 11 |
+| 264 | [146233](../reports/146233.md) | Use After Free Vulnerability in PHP's GC algorithm and unserializ | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 11 |
+| 265 | [98559](../reports/98559.md) | RCE in ci.owncloud.com / ci.owncloud.org | [ownCloud](../by-program/owncloud.md) | None | — | 10 |
+| 266 | [54034](../reports/54034.md) | Reflected Filename Download | [HackerOne](../by-program/security.md) | None | — | 9 |
+| 267 | [84374](../reports/84374.md) | apps.owncloud.com: Malicious file upload leads to remote code exe | [ownCloud](../by-program/owncloud.md) | None | — | 9 |
+| 268 | [263913](../reports/263913.md) | Content injection via URL parameter. | [GSA Bounty](../by-program/gsa_bbp.md) | None | — | 9 |
+| 269 | [631227](../reports/631227.md) | Some HTML Tags are Getting Executed in com.nextcloud.client | [Nextcloud](../by-program/nextcloud.md) | None | — | 9 |
+| 270 | [745921](../reports/745921.md) | Code Injection Bug Report | [Ruby](../by-program/ruby.md) | None | — | 8 |
+| 271 | [213776](../reports/213776.md) | Remote Command Execution on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | None | — | 7 |
+| 272 | [14092](../reports/14092.md) | Remote file Inclusion - RFI in upload | [Slack](../by-program/slack.md) | None | — | 7 |
+| 273 | [60058](../reports/60058.md) | teach.udemy.com log poison vulnerability through wordpress debug. | [Udemy](../by-program/udemy.md) | None | — | 7 |
+| 274 | [150375](../reports/150375.md) | newsroom.uber.com is vulnerable to 'SOME' XSS attack via plupload | [Uber](../by-program/uber.md) | None | — | 6 |
+| 275 | [113831](../reports/113831.md) | Regarding [CVE-2016-0752] Possible Information Leak Vulnerability | [Ruby on Rails](../by-program/rails.md) | None | — | 6 |
+| 276 | [149268](../reports/149268.md) | Arbitrary file upload when setting an avatar | [ExpressionEngine](../by-program/expressionengine.md) | None | — | 6 |
+| 277 | [175766](../reports/175766.md) | Remote client memory corruption in ssl_add_clienthello_tlsext() | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 6 |
+| 278 | [194564](../reports/194564.md) | Review remote code execution in SwiftMailer | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
+| 279 | [1057216](../reports/1057216.md) | Regex Injection from request header (Rack::Sendfile, send_file) | [Ruby on Rails](../by-program/rails.md) | None | — | 4 |
+| 280 | [73429](../reports/73429.md) | pngcrush_measure_idat() off-by-one error (CVE-2015-2158) | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 3 |
+| 281 | [121863](../reports/121863.md) | Buffer overflow in HTTP url parsing functions | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 3 |
+| 282 | [629879](../reports/629879.md) | loader.js is not secure | [Node.js](../by-program/nodejs.md) | None | — | 3 |
+| 283 | [326697](../reports/326697.md) | HTML Injection on https://www.mycrypto.com/ | [MyCrypto](../by-program/mycrypto.md) | None | — | 3 |
+| 284 | [878181](../reports/878181.md) | Child process environment injection via prototype pollution | [Node.js](../by-program/nodejs.md) | None | — | 3 |
+| 285 | [1187816](../reports/1187816.md) | Dependency Confusion Vulnerability in Sifnode Due to Unclaimed np | [Sifchain](../by-program/sifchain.md) | None | — | 3 |
+| 286 | [213069](../reports/213069.md) | Remote Code Execution (RCE) in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | None | — | 3 |
+| 287 | [299034](../reports/299034.md) | Text manipulation in https://checkout.rbk.money | [RBKmoney](../by-program/rbkmoney.md) | None | — | 2 |
+| 288 | [44578](../reports/44578.md) | URGENT - SUBDOMAIN TAKEOVER ON TWITTER ACQ. | [X / xAI](../by-program/x.md) | None | — | 2 |
+| 289 | [165969](../reports/165969.md) | The “Malstaller” Attack, global hijacking of any installation pro | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 2 |
+| 290 | [112863](../reports/112863.md) | Trivial age-old heap overflow in 32-bit PHP | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 2 |
+| 291 | [146255](../reports/146255.md) | Double Free Corruption in wddx.c (extension) | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 1 |
+| 292 | [112855](../reports/112855.md) | EIP control using type confusion in json encoding | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 1 |
+| 293 | [152278](../reports/152278.md) | Stack-based buffer overflow vulnerability in php_stream_zip_opene | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 1 |
+| 294 | [139875](../reports/139875.md) | DOM based XSS on | [Uber](../by-program/uber.md) | None | — | 1 |
+| 295 | [114389](../reports/114389.md) | Remote File Upload Vulnerability in business-blog.zomato.com | [Eternal](../by-program/eternal.md) | None | — | 1 |
+| 296 | [103432](../reports/103432.md) | URGENT - Subdomain Takeover in support.urbandictionary.com pointi | [Urban Dictionary](../by-program/urbandictionary.md) | None | — | 1 |
+| 297 | [1763343](../reports/1763343.md) | Dependency confusion in https://github.com/hyperledger/aries-mobi | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | None | — | 1 |

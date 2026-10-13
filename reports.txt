@@ -12355,6 +12355,7 @@ https://hackerone.com/reports/3889667 | ACL cache collision lets a role inherit 
 https://hackerone.com/reports/3893632 | Unauthenticated disclosure of draft/private/pending post titles & IDs via Secure Custom Fields nopriv AJAX field-query handlers (post_object/relations
 https://hackerone.com/reports/3896507 | Server crash (stack-overflow DoS) via unbounded recursion in MariaDB WKB GEOMETRYCOLLECTION parser
 https://hackerone.com/reports/3896671 | Connector/C Out-of-bounds read in `unpack_fields()` from short metadata field
+https://hackerone.com/reports/3897236 | RCE in AWS Amplify CLI via Prototype Chain Traversal in amplify-velocity-template
 https://hackerone.com/reports/3897588 | KILL authorization trusts the presented login name instead of the authenticated anonymous account
 https://hackerone.com/reports/3897914 | Out-of-bounds read in MariaDB .frm parsing enables RCE via vtable hijacking
 https://hackerone.com/reports/3898281 | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process-global lock in Weblate

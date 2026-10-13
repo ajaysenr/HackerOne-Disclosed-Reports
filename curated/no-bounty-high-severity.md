@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2424 total)
+# High/Critical Severity — No Bounty Paid (2425 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -1912,6 +1912,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [249467](../reports/249467.md) | 2FA user enumeration via login | [Legal Robot](../by-program/legalrobot.md) | High | Resolved | 9 |
 | [202354](../reports/202354.md) | Stored XSS / Bypassing .htaccess protection in http://nodebb.ubnt | [Ubiquiti Inc.](../by-program/ui.md) | High | Resolved | 9 |
 | [3120969](../reports/3120969.md) | [High] MITM via Insecure CA Path Handling in cURL (--capath, CURL | [curl](../by-program/curl.md) | High | Not Applicable | 9 |
+| [3897236](../reports/3897236.md) | RCE in AWS Amplify CLI via Prototype Chain Traversal in amplify-v | [AWS VDP](../by-program/aws_vdp.md) | High | Resolved | 9 |
 | [813395](../reports/813395.md) | Unrestricted File Upload to ███████SubmitRequest/Index.cfm?fwa=wi | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 9 |
 | [244092](../reports/244092.md) | Password of failed (2FA) login attempt is stored in log | [Nextcloud](../by-program/nextcloud.md) | High | Resolved | 9 |
 | [840688](../reports/840688.md) | Send Phishing/Spam email from support@sameroom.io to any email ad | [8x8](../by-program/8x8-bounty.md) | High | Resolved | 9 |

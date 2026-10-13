@@ -241454,6 +241454,25 @@
     "votes": 3
   },
   {
+    "id": 3897236,
+    "url": "https://hackerone.com/reports/3897236",
+    "title": "RCE in AWS Amplify CLI via Prototype Chain Traversal in amplify-velocity-template",
+    "visibility": "full",
+    "program": "AWS VDP",
+    "program_handle": "aws_vdp",
+    "reporter": "matty69v",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Code Injection",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "OTHER",
+    "reported_at": "2026-07-28",
+    "disclosed_at": "2026-10-13T17:25:07.185Z",
+    "votes": 9
+  },
+  {
     "id": 3897588,
     "url": "https://hackerone.com/reports/3897588",
     "title": "KILL authorization trusts the presented login name instead of the authenticated anonymous account",
