@@ -12461,6 +12461,7 @@ https://hackerone.com/reports/4024268 | Out-of-bounds read in curl_formadd when 
 https://hackerone.com/reports/4025056 | HTTP/1.1 response framing violation and unsafe connection reuse when transfer decoding is disabled
 https://hackerone.com/reports/4027511 | Encoded slash traversal in the IPFS/IPNS URL rewrite escapes the configured gateway namespace
 https://hackerone.com/reports/4030333 | CVE-2026-92392: HTTP/2 upload Use-After-Free
+https://hackerone.com/reports/4033108 | Retry-independent time-condition HTTP/2 UAF
 https://hackerone.com/reports/4033971 | Use-after-free of the internal multi->admin easy handle via the documented CURLMOPT_NOTIFYFUNCTION callback
 https://hackerone.com/reports/4040551 | CVE-2026-94265: Authorization: Negotiate sent to foreign origin
 https://hackerone.com/reports/4040799 | Windows filename sanitizer misses Unicode COM/LPT reserved device names

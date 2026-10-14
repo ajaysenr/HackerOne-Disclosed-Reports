@@ -1,4 +1,4 @@
-# curl — Disclosed Reports (618 total)
+# curl — Disclosed Reports (619 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -606,19 +606,20 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 600 | [3973201](../reports/3973201.md) | CVE-2026-86412: server-set cookie erases cookie jar | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-10-14 |
 | 601 | [4022003](../reports/4022003.md) | CVE-2026-92387: never-ending loop via server response omissi | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-10-14 |
 | 602 | [3972373](../reports/3972373.md) | CVE-2026-87863: HSTS response erases persisted entries | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-10-14 |
-| 603 | [3972196](../reports/3972196.md) | 34: `curl_mprintf` reads `double` for documented `long doubl | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-28 |
-| 604 | [4021979](../reports/4021979.md) | CVE-2026-92386: server-set cookie aborts cookie jar load | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-10-14 |
-| 605 | [3973190](../reports/3973190.md) | CVE-2026-86411: FTP connection reuse inherits client-certifi | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-10-14 |
-| 606 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL against  | None | — | 0 | [lersek](https://hackerone.com/lersek) | 2021-01-08 |
-| 607 | [4021960](../reports/4021960.md) | TELNET control and environment data bypass HTTPS-proxy TLS | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-19 |
-| 608 | [3973135](../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-10-14 |
-| 609 | [3972395](../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-03 |
-| 610 | [3973176](../reports/3973176.md) | CVE-2026-86410:  redirect to SFTP or SCP bypasses host verif | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-10-14 |
-| 611 | [4022070](../reports/4022070.md) | CVE-2026-92388: FTP wildcard write callback mixup | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-10-14 |
-| 612 | [812969](../reports/812969.md) | curl still vulnerable to SMB access smuggling via FILE URL o | None | — | 0 | [tsedlmeyer](https://hackerone.com/tsedlmeyer) | 2021-01-08 |
-| 613 | [3972403](../reports/3972403.md) | CVE-2026-87864: IMAP APPEND plus CRLF conversion command inj | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-10-14 |
-| 614 | [4040799](../reports/4040799.md) | Windows filename sanitizer misses Unicode COM/LPT reserved d | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-24 |
-| 615 | [3972338](../reports/3972338.md) | 12: SASL DIGEST-MD5 does not validate the server's `rspauth` | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-10 |
-| 616 | [3973245](../reports/3973245.md) | 55: Heap-buffer-overflow read in `curl_formadd_ccsid()` with | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-10 |
-| 617 | [3971538](../reports/3971538.md) | 27: IMAP custom FETCH listing classification skips literal b | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-10 |
-| 618 | [4023192](../reports/4023192.md) | CVE-2026-92390: -J no-clobber guarantee bypassed with 103 ea | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-10-14 |
+| 603 | [4033108](../reports/4033108.md) | Retry-independent time-condition HTTP/2 UAF | None | — | 0 | [cmeister2](https://hackerone.com/cmeister2) | 2026-10-14 |
+| 604 | [3972196](../reports/3972196.md) | 34: `curl_mprintf` reads `double` for documented `long doubl | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-08-28 |
+| 605 | [4021979](../reports/4021979.md) | CVE-2026-92386: server-set cookie aborts cookie jar load | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-10-14 |
+| 606 | [3973190](../reports/3973190.md) | CVE-2026-86411: FTP connection reuse inherits client-certifi | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-10-14 |
+| 607 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL against  | None | — | 0 | [lersek](https://hackerone.com/lersek) | 2021-01-08 |
+| 608 | [4021960](../reports/4021960.md) | TELNET control and environment data bypass HTTPS-proxy TLS | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-19 |
+| 609 | [3973135](../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-10-14 |
+| 610 | [3972395](../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-03 |
+| 611 | [3973176](../reports/3973176.md) | CVE-2026-86410:  redirect to SFTP or SCP bypasses host verif | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-10-14 |
+| 612 | [4022070](../reports/4022070.md) | CVE-2026-92388: FTP wildcard write callback mixup | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-10-14 |
+| 613 | [812969](../reports/812969.md) | curl still vulnerable to SMB access smuggling via FILE URL o | None | — | 0 | [tsedlmeyer](https://hackerone.com/tsedlmeyer) | 2021-01-08 |
+| 614 | [3972403](../reports/3972403.md) | CVE-2026-87864: IMAP APPEND plus CRLF conversion command inj | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-10-14 |
+| 615 | [4040799](../reports/4040799.md) | Windows filename sanitizer misses Unicode COM/LPT reserved d | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-24 |
+| 616 | [3972338](../reports/3972338.md) | 12: SASL DIGEST-MD5 does not validate the server's `rspauth` | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-10 |
+| 617 | [3973245](../reports/3973245.md) | 55: Heap-buffer-overflow read in `curl_formadd_ccsid()` with | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-10 |
+| 618 | [3971538](../reports/3971538.md) | 27: IMAP custom FETCH listing classification skips literal b | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-09-10 |
+| 619 | [4023192](../reports/4023192.md) | CVE-2026-92390: -J no-clobber guarantee bypassed with 103 ea | None | — | 0 | [giant_anteater](https://hackerone.com/giant_anteater) | 2026-10-14 |

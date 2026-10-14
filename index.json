@@ -243556,6 +243556,25 @@
     "votes": 1
   },
   {
+    "id": 4033108,
+    "url": "https://hackerone.com/reports/4033108",
+    "title": "Retry-independent time-condition HTTP/2 UAF",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "cmeister2",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Use After Free",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "duplicate",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-15",
+    "disclosed_at": "2026-10-14T21:12:36.746Z",
+    "votes": 0
+  },
+  {
     "id": 4033971,
     "url": "https://hackerone.com/reports/4033971",
     "title": "Use-after-free of the internal multi->admin easy handle via the documented CURLMOPT_NOTIFYFUNCTION callback",

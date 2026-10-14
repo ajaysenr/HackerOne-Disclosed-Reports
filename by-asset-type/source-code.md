@@ -1,4 +1,4 @@
-# Asset Type: Source Code (2170 reports)
+# Asset Type: Source Code (2171 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -2153,24 +2153,25 @@
 | 2147 | [344595](../reports/344595.md) | Arbitrary file overwrites in `node-tar` | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | node-tar | None | — | 0 |
 | 2148 | [4022003](../reports/4022003.md) | CVE-2026-92387: never-ending loop via server response o | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
 | 2149 | [3972373](../reports/3972373.md) | CVE-2026-87863: HSTS response erases persisted entries | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2150 | [1188725](../reports/1188725.md) | No Valid SPF Records at sifchain.finance | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
-| 2151 | [3972196](../reports/3972196.md) | 34: `curl_mprintf` reads `double` for documented `long  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2152 | [4021979](../reports/4021979.md) | CVE-2026-92386: server-set cookie aborts cookie jar loa | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2153 | [1195423](../reports/1195423.md) | Information Disclosure at one of your subdomain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
-| 2154 | [3973190](../reports/3973190.md) | CVE-2026-86411: FTP connection reuse inherits client-ce | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2155 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL aga | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2156 | [4021960](../reports/4021960.md) | TELNET control and environment data bypass HTTPS-proxy  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2157 | [3973135](../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2158 | [1218784](../reports/1218784.md) | information disclosure | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
-| 2159 | [3972395](../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2160 | [3973176](../reports/3973176.md) | CVE-2026-86410:  redirect to SFTP or SCP bypasses host  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2161 | [4022070](../reports/4022070.md) | CVE-2026-92388: FTP wildcard write callback mixup | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2162 | [812969](../reports/812969.md) | curl still vulnerable to SMB access smuggling via FILE  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2163 | [3972403](../reports/3972403.md) | CVE-2026-87864: IMAP APPEND plus CRLF conversion comman | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2164 | [877402](../reports/877402.md) | Hard coded Username and password in GiHub commit | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | None | — | 0 |
-| 2165 | [3972338](../reports/3972338.md) | 12: SASL DIGEST-MD5 does not validate the server's `rsp | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2166 | [877303](../reports/877303.md) | Internal IP addresses range and AWS cluster region leak | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | None | — | 0 |
-| 2167 | [3973245](../reports/3973245.md) | 55: Heap-buffer-overflow read in `curl_formadd_ccsid()` | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2168 | [3971538](../reports/3971538.md) | 27: IMAP custom FETCH listing classification skips lite | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2169 | [1940002](../reports/1940002.md) | heap-buffer-overflow in gc_writebarrier_incremental | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 0 |
-| 2170 | [4023192](../reports/4023192.md) | CVE-2026-92390: -J no-clobber guarantee bypassed with 1 | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2150 | [4033108](../reports/4033108.md) | Retry-independent time-condition HTTP/2 UAF | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2151 | [1188725](../reports/1188725.md) | No Valid SPF Records at sifchain.finance | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
+| 2152 | [3972196](../reports/3972196.md) | 34: `curl_mprintf` reads `double` for documented `long  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2153 | [4021979](../reports/4021979.md) | CVE-2026-92386: server-set cookie aborts cookie jar loa | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2154 | [1195423](../reports/1195423.md) | Information Disclosure at one of your subdomain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
+| 2155 | [3973190](../reports/3973190.md) | CVE-2026-86411: FTP connection reuse inherits client-ce | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2156 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL aga | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2157 | [4021960](../reports/4021960.md) | TELNET control and environment data bypass HTTPS-proxy  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2158 | [3973135](../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2159 | [1218784](../reports/1218784.md) | information disclosure | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
+| 2160 | [3972395](../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2161 | [3973176](../reports/3973176.md) | CVE-2026-86410:  redirect to SFTP or SCP bypasses host  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2162 | [4022070](../reports/4022070.md) | CVE-2026-92388: FTP wildcard write callback mixup | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2163 | [812969](../reports/812969.md) | curl still vulnerable to SMB access smuggling via FILE  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2164 | [3972403](../reports/3972403.md) | CVE-2026-87864: IMAP APPEND plus CRLF conversion comman | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2165 | [877402](../reports/877402.md) | Hard coded Username and password in GiHub commit | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | None | — | 0 |
+| 2166 | [3972338](../reports/3972338.md) | 12: SASL DIGEST-MD5 does not validate the server's `rsp | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2167 | [877303](../reports/877303.md) | Internal IP addresses range and AWS cluster region leak | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | None | — | 0 |
+| 2168 | [3973245](../reports/3973245.md) | 55: Heap-buffer-overflow read in `curl_formadd_ccsid()` | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2169 | [3971538](../reports/3971538.md) | 27: IMAP custom FETCH listing classification skips lite | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2170 | [1940002](../reports/1940002.md) | heap-buffer-overflow in gc_writebarrier_incremental | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 0 |
+| 2171 | [4023192](../reports/4023192.md) | CVE-2026-92390: -J no-clobber guarantee bypassed with 1 | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
