@@ -1,4 +1,4 @@
-# Weakness: Authentication Bypass by Primary Weakness (17 reports)
+# Weakness: Authentication Bypass by Primary Weakness (18 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -21,3 +21,4 @@
 | 15 | [3721183](../reports/3721183.md) | CVE-2026-8458: wrong reuse for different services | [curl](../by-program/curl.md) | Low | — | 1 |
 | 16 | [3636244](../reports/3636244.md) | HackerOne Vulnerability Report: libcurl SSL/TLS Identity Leakage  | [curl](../by-program/curl.md) | None | — | 26 |
 | 17 | [3973121](../reports/3973121.md) | 11: `CURLOPT_FORBID_REUSE` silently lost on multiplexed HTTP/2 co | [curl](../by-program/curl.md) | None | — | 2 |
+| 18 | [3973190](../reports/3973190.md) | CVE-2026-86411: FTP connection reuse inherits client-certificate | [curl](../by-program/curl.md) | None | — | 0 |

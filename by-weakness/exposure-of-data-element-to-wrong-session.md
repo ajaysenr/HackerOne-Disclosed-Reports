@@ -1,4 +1,4 @@
-# Weakness: Exposure of Data Element to Wrong Session (5 reports)
+# Weakness: Exposure of Data Element to Wrong Session (6 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -9,3 +9,4 @@
 | 3 | [3680234](../reports/3680234.md) | libcurl reuses a learned RTSP Session header across different hos | [curl](../by-program/curl.md) | Medium | — | 12 |
 | 4 | [3735180](../reports/3735180.md) | HTTPS proxy connection reuse lets one easy handle inherit another | [curl](../by-program/curl.md) | Medium | — | 4 |
 | 5 | [3671818](../reports/3671818.md) | CVE-2026-6276: stale custom cookie host causes cookie leak | [curl](../by-program/curl.md) | Low | — | 20 |
+| 6 | [4099618](../reports/4099618.md) | CVE-2026-107929: local interface connection reuse mixup | [curl](../by-program/curl.md) | Low | — | 1 |

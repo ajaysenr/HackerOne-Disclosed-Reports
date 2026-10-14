@@ -242334,6 +242334,27 @@
     "votes": 2
   },
   {
+    "id": 3972094,
+    "url": "https://hackerone.com/reports/3972094",
+    "title": "CVE-2026-87861: cross-origin reuse of a Negotiate connection",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "hadd0ck",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Improper Authentication - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-87861"
+    ],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-08-26",
+    "disclosed_at": "2026-10-14T07:19:13.205Z",
+    "votes": 1
+  },
+  {
     "id": 3972196,
     "url": "https://hackerone.com/reports/3972196",
     "title": "34: `curl_mprintf` reads `double` for documented `long double` conversions \u2014 uninitialized value disclosure",
@@ -242429,6 +242450,49 @@
     "votes": 0
   },
   {
+    "id": 3972357,
+    "url": "https://hackerone.com/reports/3972357",
+    "title": "CVE-2026-87862: HSTS cache import drops longer-lived child",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Cleartext Transmission of Sensitive Information",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-87862",
+      "CVE-2024-9681"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-26",
+    "disclosed_at": "2026-10-14T07:35:28.006Z",
+    "votes": 0
+  },
+  {
+    "id": 3972373,
+    "url": "https://hackerone.com/reports/3972373",
+    "title": "CVE-2026-87863: HSTS response erases persisted entries",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Time-of-check Time-of-use (TOCTOU) Race Condition",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-87863"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-26",
+    "disclosed_at": "2026-10-14T07:35:59.701Z",
+    "votes": 0
+  },
+  {
     "id": 3972385,
     "url": "https://hackerone.com/reports/3972385",
     "title": "CVE-2026-82209: domain-scoped PSL domain cookie",
@@ -242468,6 +242532,27 @@
     "asset_type": "SOURCE_CODE",
     "reported_at": "2026-08-26",
     "disclosed_at": "2026-09-03T06:08:18.617Z",
+    "votes": 0
+  },
+  {
+    "id": 3972403,
+    "url": "https://hackerone.com/reports/3972403",
+    "title": "CVE-2026-87864: IMAP APPEND plus CRLF conversion command injection",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": "CRLF Injection",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-87864"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-26",
+    "disclosed_at": "2026-10-14T07:35:51.349Z",
     "votes": 0
   },
   {
@@ -242591,6 +242676,27 @@
     "votes": 4
   },
   {
+    "id": 3973135,
+    "url": "https://hackerone.com/reports/3973135",
+    "title": "CVE-2026-86409: stale SigV4 headers sent unintended",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Information Disclosure",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-86409"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-27",
+    "disclosed_at": "2026-10-14T07:34:11.510Z",
+    "votes": 0
+  },
+  {
     "id": 3973143,
     "url": "https://hackerone.com/reports/3973143",
     "title": "22:  FTP wildcard matching decodes server-provided filenames, enabling directory traversal",
@@ -242667,6 +242773,50 @@
     "votes": 2
   },
   {
+    "id": 3973176,
+    "url": "https://hackerone.com/reports/3973176",
+    "title": "CVE-2026-86410:  redirect to SFTP or SCP bypasses host verification",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Improper Validation of Certificate with Host Mismatch",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-86410",
+      "CVE-2026-12064"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-27",
+    "disclosed_at": "2026-10-14T07:34:01.925Z",
+    "votes": 0
+  },
+  {
+    "id": 3973190,
+    "url": "https://hackerone.com/reports/3973190",
+    "title": "CVE-2026-86411: FTP connection reuse inherits client-certificate",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Authentication Bypass by Primary Weakness",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-86411",
+      "CVE-2016-5420"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-27",
+    "disclosed_at": "2026-10-14T07:34:59.526Z",
+    "votes": 0
+  },
+  {
     "id": 3973194,
     "url": "https://hackerone.com/reports/3973194",
     "title": "49: Cookie-jar save transfers group access to a different GID",
@@ -242686,6 +242836,27 @@
     "reported_at": "2026-08-27",
     "disclosed_at": "2026-09-08T08:01:11.709Z",
     "votes": 4
+  },
+  {
+    "id": 3973201,
+    "url": "https://hackerone.com/reports/3973201",
+    "title": "CVE-2026-86412: server-set cookie erases cookie jar",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Improper Check or Handling of Exceptional Conditions",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-86412"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-27",
+    "disclosed_at": "2026-10-14T07:35:10.455Z",
+    "votes": 0
   },
   {
     "id": 3973213,
@@ -242802,6 +242973,28 @@
     "votes": 3
   },
   {
+    "id": 3975408,
+    "url": "https://hackerone.com/reports/3975408",
+    "title": "CVE-2026-87865: knownhost callback mismatches key as missing",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "1rhino2",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Improper Validation of Certificate with Host Mismatch",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-87865",
+      "CVE-2026-9547"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-28",
+    "disclosed_at": "2026-10-14T07:19:42.623Z",
+    "votes": 0
+  },
+  {
     "id": 3976342,
     "url": "https://hackerone.com/reports/3976342",
     "title": "IMAP connection reuse runs requests in the wrong case-sensitive mailbox",
@@ -242840,6 +243033,67 @@
     "votes": 1
   },
   {
+    "id": 3988961,
+    "url": "https://hackerone.com/reports/3988961",
+    "title": "Stored XSS on the public Pontoon dashboards: the latest-activity tooltip re-parses a contributor's account address as HTML",
+    "visibility": "no-content",
+    "program": "Mozilla",
+    "program_handle": "mozilla",
+    "reporter": "timhaines",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Cross-site Scripting (XSS) - Stored",
+    "bounty": 3000.0,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-09-01",
+    "disclosed_at": "2026-10-14T08:12:57.418Z",
+    "votes": 6
+  },
+  {
+    "id": 3989514,
+    "url": "https://hackerone.com/reports/3989514",
+    "title": "CVE-2026-87866: wolfSSL public-key pinning bypass",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "argareksapatii",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Improper Certificate Validation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-87866"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-02",
+    "disclosed_at": "2026-10-14T07:33:26.975Z",
+    "votes": 1
+  },
+  {
+    "id": 3993549,
+    "url": "https://hackerone.com/reports/3993549",
+    "title": "CVE-2026-86413: Negotiate credentials sent to redirected origin",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-86413"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-03",
+    "disclosed_at": "2026-10-14T07:36:41.556Z",
+    "votes": 1
+  },
+  {
     "id": 3993850,
     "url": "https://hackerone.com/reports/3993850",
     "title": "Apple SecTrust fallback ignores CURLOPT_CRLFILE, letting a revoked cert pass",
@@ -242857,6 +243111,27 @@
     "reported_at": "2026-09-03",
     "disclosed_at": "2026-09-08T06:14:44.082Z",
     "votes": 6
+  },
+  {
+    "id": 3993870,
+    "url": "https://hackerone.com/reports/3993870",
+    "title": "CVE-2026-86415: auto client cert connection reuse mixup",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": "low",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-86415"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-03",
+    "disclosed_at": "2026-10-14T07:35:37.531Z",
+    "votes": 0
   },
   {
     "id": 3993973,
@@ -243017,6 +243292,112 @@
     "votes": 0
   },
   {
+    "id": 4021979,
+    "url": "https://hackerone.com/reports/4021979",
+    "title": "CVE-2026-92386: server-set cookie aborts cookie jar load",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": "none",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-92386"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-11",
+    "disclosed_at": "2026-10-14T07:36:18.147Z",
+    "votes": 0
+  },
+  {
+    "id": 4022003,
+    "url": "https://hackerone.com/reports/4022003",
+    "title": "CVE-2026-92387: never-ending loop via server response omission",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": "none",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-92387"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-11",
+    "disclosed_at": "2026-10-14T07:36:08.553Z",
+    "votes": 0
+  },
+  {
+    "id": 4022070,
+    "url": "https://hackerone.com/reports/4022070",
+    "title": "CVE-2026-92388: FTP wildcard write callback mixup",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": "none",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-92388"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-11",
+    "disclosed_at": "2026-10-14T07:33:44.070Z",
+    "votes": 0
+  },
+  {
+    "id": 4022568,
+    "url": "https://hackerone.com/reports/4022568",
+    "title": "CVE-2026-92389: TFTP direction confusion",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": "none",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-92389"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-11",
+    "disclosed_at": "2026-10-14T07:34:26.519Z",
+    "votes": 0
+  },
+  {
+    "id": 4023192,
+    "url": "https://hackerone.com/reports/4023192",
+    "title": "CVE-2026-92390: -J no-clobber guarantee bypassed with 103 early hints",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": "none",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-92390",
+      "CVE-2020-8177"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-12",
+    "disclosed_at": "2026-10-14T07:33:53.116Z",
+    "votes": 0
+  },
+  {
     "id": 4023506,
     "url": "https://hackerone.com/reports/4023506",
     "title": "libcurl LDAP LDIF: entry DN and attribute names written without RFC 2849 base64 encoding, allowing server line injection",
@@ -243034,6 +243415,27 @@
     "reported_at": "2026-09-12",
     "disclosed_at": "2026-09-15T10:11:21.574Z",
     "votes": 12
+  },
+  {
+    "id": 4024222,
+    "url": "https://hackerone.com/reports/4024222",
+    "title": "CVE-2026-92391: curl_mime_free stack overflow by recursion",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": "none",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-92391"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-12",
+    "disclosed_at": "2026-10-14T07:36:30.104Z",
+    "votes": 1
   },
   {
     "id": 4024268,
@@ -243093,6 +243495,27 @@
     "votes": 11
   },
   {
+    "id": 4030333,
+    "url": "https://hackerone.com/reports/4030333",
+    "title": "CVE-2026-92392: HTTP/2 upload Use-After-Free",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "onn4a",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Use After Free",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-92392"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-15",
+    "disclosed_at": "2026-10-14T06:40:28.244Z",
+    "votes": 1
+  },
+  {
     "id": 4033971,
     "url": "https://hackerone.com/reports/4033971",
     "title": "Use-after-free of the internal multi->admin easy handle via the documented CURLMOPT_NOTIFYFUNCTION callback",
@@ -243112,6 +243535,27 @@
     "votes": 0
   },
   {
+    "id": 4040551,
+    "url": "https://hackerone.com/reports/4040551",
+    "title": "CVE-2026-94265: Authorization: Negotiate sent to foreign origin",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": "none",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-94265"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-18",
+    "disclosed_at": "2026-10-14T07:19:21.998Z",
+    "votes": 1
+  },
+  {
     "id": 4040799,
     "url": "https://hackerone.com/reports/4040799",
     "title": "Windows filename sanitizer misses Unicode COM/LPT reserved device names",
@@ -243129,6 +243573,27 @@
     "reported_at": "2026-09-18",
     "disclosed_at": "2026-09-24T14:02:27.181Z",
     "votes": 0
+  },
+  {
+    "id": 4041053,
+    "url": "https://hackerone.com/reports/4041053",
+    "title": "CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": "none",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-94266"
+    ],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-09-18",
+    "disclosed_at": "2026-10-14T07:19:30.551Z",
+    "votes": 1
   },
   {
     "id": 4053066,
@@ -243346,6 +243811,48 @@
     "asset_type": "SOURCE_CODE",
     "reported_at": "2026-10-07",
     "disclosed_at": "2026-10-08T14:10:49.169Z",
+    "votes": 1
+  },
+  {
+    "id": 4099194,
+    "url": "https://hackerone.com/reports/4099194",
+    "title": "CVE-2026-107928: info leak uploading over WebSockets with GnuTLS",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "onn4a",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Buffer Over-read",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-107928"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-09",
+    "disclosed_at": "2026-10-14T07:37:38.772Z",
+    "votes": 1
+  },
+  {
+    "id": 4099618,
+    "url": "https://hackerone.com/reports/4099618",
+    "title": "CVE-2026-107929: local interface connection reuse mixup",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "greatgaming23",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Exposure of Data Element to Wrong Session",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-107929"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-09",
+    "disclosed_at": "2026-10-14T07:36:52.946Z",
     "votes": 1
   }
 ]

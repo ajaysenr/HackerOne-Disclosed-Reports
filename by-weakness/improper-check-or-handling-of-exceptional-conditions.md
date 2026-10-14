@@ -1,4 +1,4 @@
-# Weakness: Improper Check or Handling of Exceptional Conditions (4 reports)
+# Weakness: Improper Check or Handling of Exceptional Conditions (5 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -8,3 +8,4 @@
 | 2 | [2864859](../reports/2864859.md) | -H with space prefix leads to previous header injection when used | [curl](../by-program/curl.md) | Medium | — | 6 |
 | 3 | [3575250](../reports/3575250.md) | RTSP RTP Interleaved Parser Assertion Failure (Zero-Length RTP Pa | [curl](../by-program/curl.md) | None | — | 28 |
 | 4 | [3973169](../reports/3973169.md) | 42: `VMS_STS` macro typo (`< 3` vs `<< 3`) turns curl failures in | [curl](../by-program/curl.md) | None | — | 2 |
+| 5 | [3973201](../reports/3973201.md) | CVE-2026-86412: server-set cookie erases cookie jar | [curl](../by-program/curl.md) | None | — | 0 |

@@ -12400,33 +12400,46 @@ https://hackerone.com/reports/3971518 | 29: CURLOPT_ISSUERCERT accepts a differe
 https://hackerone.com/reports/3971538 | 27: IMAP custom FETCH listing classification skips literal boundaries, enabling response desynchronization
 https://hackerone.com/reports/3971585 | 33: CONNECT_ONLY raw I/O selects wrong connection after CURLOPT_SHARE detach (incomplete fix for CVE-2020-8231)
 https://hackerone.com/reports/3971706 | 36: HTTP upload resume offset consumed twice after early 307/308 redirect
+https://hackerone.com/reports/3972094 | CVE-2026-87861: cross-origin reuse of a Negotiate connection
 https://hackerone.com/reports/3972196 | 34: `curl_mprintf` reads `double` for documented `long double` conversions — uninitialized value disclosure
 https://hackerone.com/reports/3972293 | 43: HTTP proxy CONNECT header chooses the `-OJ` filename after a redirect
 https://hackerone.com/reports/3972316 | 46: `--libcurl` output carries `--insecure` across `--next` boundaries
 https://hackerone.com/reports/3972323 | 10: CURLOPT_MAXLIFETIME_CONN bypass on active HTTP/2 connections
 https://hackerone.com/reports/3972338 | 12: SASL DIGEST-MD5 does not validate the server's `rspauth` proof
+https://hackerone.com/reports/3972357 | CVE-2026-87862: HSTS cache import drops longer-lived child
+https://hackerone.com/reports/3972373 | CVE-2026-87863: HSTS response erases persisted entries
 https://hackerone.com/reports/3972385 | CVE-2026-82209: domain-scoped PSL domain cookie
 https://hackerone.com/reports/3972395 | CVE-2026-80255: secure cookie attribute bypass with tab
+https://hackerone.com/reports/3972403 | CVE-2026-87864: IMAP APPEND plus CRLF conversion command injection
 https://hackerone.com/reports/3973090 | CVE-2026-82208: wolfSSL CA-cache hit overrides callback
 https://hackerone.com/reports/3973093 | 06: Incomplete fix for CVE-2026-7009: GCC/SecTrust builds silently discard stapled OCSP responses
 https://hackerone.com/reports/3973098 | 07: GnuTLS 0-RTT early data bypasses file-backed public-key pin verification
 https://hackerone.com/reports/3973111 | 08: CVE-2026-7009 fix incomplete for AWS-LC: `--cert-status` bypass on SecTrust path
 https://hackerone.com/reports/3973121 | 11: `CURLOPT_FORBID_REUSE` silently lost on multiplexed HTTP/2 connection when the forbidding transfer finishes first
 https://hackerone.com/reports/3973127 | 18:  Explicit IPv6 proxy zone ID silently ignored — proxy credentials sent to wrong interface
+https://hackerone.com/reports/3973135 | CVE-2026-86409: stale SigV4 headers sent unintended
 https://hackerone.com/reports/3973143 | 22:  FTP wildcard matching decodes server-provided filenames, enabling directory traversal
 https://hackerone.com/reports/3973152 | 37: `curl_mprintf` `%F` format specifier not consumed, causing variadic argument desynchronization
 https://hackerone.com/reports/3973158 | 41: `main_checkfds()` pipe reuse leaks proxy credentials into HTTPS upload body
 https://hackerone.com/reports/3973169 | 42: `VMS_STS` macro typo (`< 3` vs `<< 3`) turns curl failures into successful OpenVMS conditions
+https://hackerone.com/reports/3973176 | CVE-2026-86410:  redirect to SFTP or SCP bypasses host verification
+https://hackerone.com/reports/3973190 | CVE-2026-86411: FTP connection reuse inherits client-certificate
 https://hackerone.com/reports/3973194 | 49: Cookie-jar save transfers group access to a different GID
+https://hackerone.com/reports/3973201 | CVE-2026-86412: server-set cookie erases cookie jar
 https://hackerone.com/reports/3973213 | 54: Rejected HTTP/2 push destroys MIME callback state still used by parent (use-after-free)
 https://hackerone.com/reports/3973219 | 57: Heap out-of-bounds read in `curl_easy_escape_ccsid()` / `curl_easy_unescape_ccsid()`
 https://hackerone.com/reports/3973228 | 50: CMake `HTTP_ONLY` does not disable SSH backends — SCP and SFTP remain usable
 https://hackerone.com/reports/3973234 | 53: HTTP/1 CONNECT chunked-407 trailers bypass CURLOPT_SUPPRESS_CONNECT_HEADERS and lose CURLH_CONNECT classification
 https://hackerone.com/reports/3973245 | 55: Heap-buffer-overflow read in `curl_formadd_ccsid()` with binary form data
 https://hackerone.com/reports/3973249 | 56: IBM i CL wrapper `parse_command_line()` never enters quote mode
+https://hackerone.com/reports/3975408 | CVE-2026-87865: knownhost callback mismatches key as missing
 https://hackerone.com/reports/3976342 | IMAP connection reuse runs requests in the wrong case-sensitive mailbox
 https://hackerone.com/reports/3987499 | Client-Side Denial of Service (DoS) via Memory Exhaustion on Password Reset Endpoint
+https://hackerone.com/reports/3988961 | Stored XSS on the public Pontoon dashboards: the latest-activity tooltip re-parses a contributor's account address as HTML
+https://hackerone.com/reports/3989514 | CVE-2026-87866: wolfSSL public-key pinning bypass
+https://hackerone.com/reports/3993549 | CVE-2026-86413: Negotiate credentials sent to redirected origin
 https://hackerone.com/reports/3993850 | Apple SecTrust fallback ignores CURLOPT_CRLFILE, letting a revoked cert pass
+https://hackerone.com/reports/3993870 | CVE-2026-86415: auto client cert connection reuse mixup
 https://hackerone.com/reports/3993973 | HTTP Digest nonce reused across an https→http scheme change on the same handle
 https://hackerone.com/reports/3994016 | Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body inject arbitrary Markdown
 https://hackerone.com/reports/3994056 | Full Admin Takeover of R3 Limited's JFrog Artifactory - 292 Users, Corda Enterprise & CBDC Supply Chain Compromised
@@ -12435,12 +12448,21 @@ https://hackerone.com/reports/4016541 | TLS session resumption client cert bypas
 https://hackerone.com/reports/4020767 | Unauthenticated API allows reading, writing to and deleting any user's private chat history on ████████
 https://hackerone.com/reports/4021952 | Socket API drops expired timeouts for transfers queued behind a connection limit
 https://hackerone.com/reports/4021960 | TELNET control and environment data bypass HTTPS-proxy TLS
+https://hackerone.com/reports/4021979 | CVE-2026-92386: server-set cookie aborts cookie jar load
+https://hackerone.com/reports/4022003 | CVE-2026-92387: never-ending loop via server response omission
+https://hackerone.com/reports/4022070 | CVE-2026-92388: FTP wildcard write callback mixup
+https://hackerone.com/reports/4022568 | CVE-2026-92389: TFTP direction confusion
+https://hackerone.com/reports/4023192 | CVE-2026-92390: -J no-clobber guarantee bypassed with 103 early hints
 https://hackerone.com/reports/4023506 | libcurl LDAP LDIF: entry DN and attribute names written without RFC 2849 base64 encoding, allowing server line injection
+https://hackerone.com/reports/4024222 | CVE-2026-92391: curl_mime_free stack overflow by recursion
 https://hackerone.com/reports/4024268 | Out-of-bounds read in curl_formadd when CURLFORM_NAMELENGTH is explicitly 0
 https://hackerone.com/reports/4025056 | HTTP/1.1 response framing violation and unsafe connection reuse when transfer decoding is disabled
 https://hackerone.com/reports/4027511 | Encoded slash traversal in the IPFS/IPNS URL rewrite escapes the configured gateway namespace
+https://hackerone.com/reports/4030333 | CVE-2026-92392: HTTP/2 upload Use-After-Free
 https://hackerone.com/reports/4033971 | Use-after-free of the internal multi->admin easy handle via the documented CURLMOPT_NOTIFYFUNCTION callback
+https://hackerone.com/reports/4040551 | CVE-2026-94265: Authorization: Negotiate sent to foreign origin
 https://hackerone.com/reports/4040799 | Windows filename sanitizer misses Unicode COM/LPT reserved device names
+https://hackerone.com/reports/4041053 | CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL
 https://hackerone.com/reports/4053066 | Missing applicability validation allows non-applicable HTTPS RR to reach ECH processing
 https://hackerone.com/reports/4053546 | Information Disclosure - Unauthen Leak Private Content
 https://hackerone.com/reports/4057637 | [HIGH] CWE-22 — Path Traversal in FTP Wildcard Download via Unencoded `.` in Escaped Filenames
@@ -12452,3 +12474,5 @@ https://hackerone.com/reports/4071872 | libcurl: Secure=1 cookie flag bypasses t
 https://hackerone.com/reports/4082665 | ActionText `to_markdown` still allows `javascript:` links in kramdown via Rails-generated table cells after PR #58754
 https://hackerone.com/reports/4085412 | Rustls backend discloses out-of-bounds heap data during legal IMAP upload cancellation
 https://hackerone.com/reports/4093443 | Cookie attribute truncation in curl drops Secure/HttpOnly protections
+https://hackerone.com/reports/4099194 | CVE-2026-107928: info leak uploading over WebSockets with GnuTLS
+https://hackerone.com/reports/4099618 | CVE-2026-107929: local interface connection reuse mixup
