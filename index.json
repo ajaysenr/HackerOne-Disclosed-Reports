@@ -243094,6 +243094,27 @@
     "votes": 1
   },
   {
+    "id": 3993566,
+    "url": "https://hackerone.com/reports/3993566",
+    "title": "CVE-2026-86414: leaking host credentials to HTTP proxy",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": "low",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-86414"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-03",
+    "disclosed_at": "2026-10-14T07:35:19.230Z",
+    "votes": 0
+  },
+  {
     "id": 3993850,
     "url": "https://hackerone.com/reports/3993850",
     "title": "Apple SecTrust fallback ignores CURLOPT_CRLFILE, letting a revoked cert pass",
@@ -243353,6 +243374,25 @@
     "reported_at": "2026-09-11",
     "disclosed_at": "2026-10-14T07:33:44.070Z",
     "votes": 0
+  },
+  {
+    "id": 4022462,
+    "url": "https://hackerone.com/reports/4022462",
+    "title": "Uncaught RecursionError crash in translation-finder (deep directory tree DoS)",
+    "visibility": "full",
+    "program": "Weblate",
+    "program_handle": "weblate",
+    "reporter": "sumit-sabhaya",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Uncontrolled Resource Consumption",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-11",
+    "disclosed_at": "2026-10-14T11:53:42.000Z",
+    "votes": 3
   },
   {
     "id": 4022568,
@@ -243715,6 +243755,25 @@
     "reported_at": "2026-09-27",
     "disclosed_at": "2026-10-05T14:30:48.423Z",
     "votes": 2
+  },
+  {
+    "id": 4071064,
+    "url": "https://hackerone.com/reports/4071064",
+    "title": "Unauthenticated self-registration on \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 grants full access to internal supplier procurement portal and vendor data",
+    "visibility": "full",
+    "program": "Essity",
+    "program_handle": "essity",
+    "reporter": "ousski",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Missing Authentication for Critical Function",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-09-29",
+    "disclosed_at": "2026-10-14T12:32:47.563Z",
+    "votes": 3
   },
   {
     "id": 4071670,

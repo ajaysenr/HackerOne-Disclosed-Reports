@@ -12438,6 +12438,7 @@ https://hackerone.com/reports/3987499 | Client-Side Denial of Service (DoS) via 
 https://hackerone.com/reports/3988961 | Stored XSS on the public Pontoon dashboards: the latest-activity tooltip re-parses a contributor's account address as HTML
 https://hackerone.com/reports/3989514 | CVE-2026-87866: wolfSSL public-key pinning bypass
 https://hackerone.com/reports/3993549 | CVE-2026-86413: Negotiate credentials sent to redirected origin
+https://hackerone.com/reports/3993566 | CVE-2026-86414: leaking host credentials to HTTP proxy
 https://hackerone.com/reports/3993850 | Apple SecTrust fallback ignores CURLOPT_CRLFILE, letting a revoked cert pass
 https://hackerone.com/reports/3993870 | CVE-2026-86415: auto client cert connection reuse mixup
 https://hackerone.com/reports/3993973 | HTTP Digest nonce reused across an https→http scheme change on the same handle
@@ -12451,6 +12452,7 @@ https://hackerone.com/reports/4021960 | TELNET control and environment data bypa
 https://hackerone.com/reports/4021979 | CVE-2026-92386: server-set cookie aborts cookie jar load
 https://hackerone.com/reports/4022003 | CVE-2026-92387: never-ending loop via server response omission
 https://hackerone.com/reports/4022070 | CVE-2026-92388: FTP wildcard write callback mixup
+https://hackerone.com/reports/4022462 | Uncaught RecursionError crash in translation-finder (deep directory tree DoS)
 https://hackerone.com/reports/4022568 | CVE-2026-92389: TFTP direction confusion
 https://hackerone.com/reports/4023192 | CVE-2026-92390: -J no-clobber guarantee bypassed with 103 early hints
 https://hackerone.com/reports/4023506 | libcurl LDAP LDIF: entry DN and attribute names written without RFC 2849 base64 encoding, allowing server line injection
@@ -12469,6 +12471,7 @@ https://hackerone.com/reports/4057637 | [HIGH] CWE-22 — Path Traversal in FTP 
 https://hackerone.com/reports/4059104 | IMAP literal size truncation on 32-bit platforms corrupts downloads and desynchronizes the response parser
 https://hackerone.com/reports/4063328 | curl tool: --hsts is ignored for a schemeless URL starting with a slash under --proto-default http
 https://hackerone.com/reports/4064040 | Use-after-free read of the freed referer buffer in `curl_easy_setopt(CURLOPT_REFERER)` — stale heap bytes transmitted in an outbound `Referer:` heade
+https://hackerone.com/reports/4071064 | Unauthenticated self-registration on ████████ grants full access to internal supplier procurement portal and vendor data
 https://hackerone.com/reports/4071670 | HackerOne Code: a live password reset token reaches Datadog RUM, and the same session records the account it unlocks
 https://hackerone.com/reports/4071872 | libcurl: Secure=1 cookie flag bypasses the 8.22.0 fix and leaks over HTTP
 https://hackerone.com/reports/4082665 | ActionText `to_markdown` still allows `javascript:` links in kramdown via Rails-generated table cells after PR #58754
