@@ -244036,6 +244036,25 @@
     "votes": 1
   },
   {
+    "id": 4098761,
+    "url": "https://hackerone.com/reports/4098761",
+    "title": "HTTP/1.1 connection reuse returns unsolicited server data as the next request's response (regression in 8.22.0)",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "1rhino2",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "HTTP Request Smuggling",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-08",
+    "disclosed_at": "2026-10-15T21:07:40.517Z",
+    "votes": 3
+  },
+  {
     "id": 4099194,
     "url": "https://hackerone.com/reports/4099194",
     "title": "CVE-2026-107928: info leak uploading over WebSockets with GnuTLS",
