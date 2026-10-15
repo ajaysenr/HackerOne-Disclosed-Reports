@@ -1,4 +1,4 @@
-# Weakness: Cleartext Transmission of Sensitive Information (42 reports)
+# Weakness: Cleartext Transmission of Sensitive Information (43 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -29,20 +29,21 @@
 | 23 | [1730660](../reports/1730660.md) | CVE-2022-42916: HSTS bypass via IDN | [curl](../by-program/curl.md) | Medium | — | 2 |
 | 24 | [1086259](../reports/1086259.md) | Proxy-Authorization header carried to a new host on a redirect | [curl](../by-program/curl.md) | Medium — CVSS 4.4 | — | 2 |
 | 25 | [1517377](../reports/1517377.md) | Rocket.chat user info security issue | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 5.0 | — | 2 |
-| 26 | [751581](../reports/751581.md) | Password Reset Link Leaked In Refer Header In Request To Third Pa | [Nord Security](../by-program/nordsecurity.md) | Low | — | 215 |
-| 27 | [1987687](../reports/1987687.md) | Leakage of traffic in plaintext towards the IP address of VPN ser | [Mozilla](../by-program/mozilla.md) | Low | — | 67 |
-| 28 | [2905552](../reports/2905552.md) | bypass of this Fixed #2437131 [ Inadequate Protocol Restriction E | [curl](../by-program/curl.md) | Low | — | 30 |
-| 29 | [1687005](../reports/1687005.md) | [user_oidc] Unencrypted Communications | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 20 |
-| 30 | [576288](../reports/576288.md) | Testnet address being sent in cleartext as http://rinkeby.chain.l | [Chainlink](../by-program/chainlink.md) | Low | — | 19 |
-| 31 | [386735](../reports/386735.md) | Login form on non-HTTPS page on http://stream.highwebmedia.com/au | [Chaturbate](../by-program/chaturbate.md) | Low | — | 15 |
-| 32 | [222036](../reports/222036.md) | Missing SSL can leak job token  | [WordPress](../by-program/wordpress.md) | Low | — | 13 |
-| 33 | [1967109](../reports/1967109.md) | Rocket.Chat Desktop client fails to open browser on 3rd party ext | [Rocket.Chat](../by-program/rocket_chat.md) | Low | — | 11 |
-| 34 | [3621851](../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | [curl](../by-program/curl.md) | Low | — | 10 |
-| 35 | [1814333](../reports/1814333.md) | CVE-2023-23915: HSTS amnesia with --parallel | [curl](../by-program/curl.md) | Low | — | 7 |
-| 36 | [1813864](../reports/1813864.md) | CVE-2023-23914: curl HSTS ignored on multiple requests | [curl](../by-program/curl.md) | Low | — | 6 |
-| 37 | [4063328](../reports/4063328.md) | curl tool: --hsts is ignored for a schemeless URL starting with a | [curl](../by-program/curl.md) | Low | — | 1 |
-| 38 | [3770979](../reports/3770979.md) | SMTP connection reuse ignores --ssl-reqd / CURLOPT_USE_SSL and re | [curl](../by-program/curl.md) | Low | — | 1 |
-| 39 | [1708873](../reports/1708873.md) | Vulnerable moment-timezone version shipped | [Nextcloud](../by-program/nextcloud.md) | None | — | 9 |
-| 40 | [374053](../reports/374053.md) | Accessing to download.nextcloud.com from original ip adreess | in | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
-| 41 | [265441](../reports/265441.md) | Error the message with already e-mail  | [Legal Robot](../by-program/legalrobot.md) | None | — | 2 |
-| 42 | [3972357](../reports/3972357.md) | CVE-2026-87862: HSTS cache import drops longer-lived child | [curl](../by-program/curl.md) | None | — | 0 |
+| 26 | [4007917](../reports/4007917.md) |  One Strict-Transport-Security response header empties the victim | [curl](../by-program/curl.md) | Medium | — | 0 |
+| 27 | [751581](../reports/751581.md) | Password Reset Link Leaked In Refer Header In Request To Third Pa | [Nord Security](../by-program/nordsecurity.md) | Low | — | 215 |
+| 28 | [1987687](../reports/1987687.md) | Leakage of traffic in plaintext towards the IP address of VPN ser | [Mozilla](../by-program/mozilla.md) | Low | — | 67 |
+| 29 | [2905552](../reports/2905552.md) | bypass of this Fixed #2437131 [ Inadequate Protocol Restriction E | [curl](../by-program/curl.md) | Low | — | 30 |
+| 30 | [1687005](../reports/1687005.md) | [user_oidc] Unencrypted Communications | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 20 |
+| 31 | [576288](../reports/576288.md) | Testnet address being sent in cleartext as http://rinkeby.chain.l | [Chainlink](../by-program/chainlink.md) | Low | — | 19 |
+| 32 | [386735](../reports/386735.md) | Login form on non-HTTPS page on http://stream.highwebmedia.com/au | [Chaturbate](../by-program/chaturbate.md) | Low | — | 15 |
+| 33 | [222036](../reports/222036.md) | Missing SSL can leak job token  | [WordPress](../by-program/wordpress.md) | Low | — | 13 |
+| 34 | [1967109](../reports/1967109.md) | Rocket.Chat Desktop client fails to open browser on 3rd party ext | [Rocket.Chat](../by-program/rocket_chat.md) | Low | — | 11 |
+| 35 | [3621851](../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | [curl](../by-program/curl.md) | Low | — | 10 |
+| 36 | [1814333](../reports/1814333.md) | CVE-2023-23915: HSTS amnesia with --parallel | [curl](../by-program/curl.md) | Low | — | 7 |
+| 37 | [1813864](../reports/1813864.md) | CVE-2023-23914: curl HSTS ignored on multiple requests | [curl](../by-program/curl.md) | Low | — | 6 |
+| 38 | [4063328](../reports/4063328.md) | curl tool: --hsts is ignored for a schemeless URL starting with a | [curl](../by-program/curl.md) | Low | — | 1 |
+| 39 | [3770979](../reports/3770979.md) | SMTP connection reuse ignores --ssl-reqd / CURLOPT_USE_SSL and re | [curl](../by-program/curl.md) | Low | — | 1 |
+| 40 | [1708873](../reports/1708873.md) | Vulnerable moment-timezone version shipped | [Nextcloud](../by-program/nextcloud.md) | None | — | 9 |
+| 41 | [374053](../reports/374053.md) | Accessing to download.nextcloud.com from original ip adreess | in | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
+| 42 | [265441](../reports/265441.md) | Error the message with already e-mail  | [Legal Robot](../by-program/legalrobot.md) | None | — | 2 |
+| 43 | [3972357](../reports/3972357.md) | CVE-2026-87862: HSTS cache import drops longer-lived child | [curl](../by-program/curl.md) | None | — | 0 |

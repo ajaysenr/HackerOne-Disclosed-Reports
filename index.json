@@ -241922,6 +241922,25 @@
     "votes": 2
   },
   {
+    "id": 3938927,
+    "url": "https://hackerone.com/reports/3938927",
+    "title": "An organization admin can create an attacker-controlled organization owner via the gem transfer flow ",
+    "visibility": "full",
+    "program": "RubyGems",
+    "program_handle": "rubygems",
+    "reporter": "timhaines",
+    "severity": "high",
+    "cvss": 7.0,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-08-14",
+    "disclosed_at": "2026-10-15T07:09:18.496Z",
+    "votes": 2
+  },
+  {
     "id": 3943339,
     "url": "https://hackerone.com/reports/3943339",
     "title": "One-click cross-account JavaScript execution steals a victim write token through Turbo pagination and unattached Active Storage HTML",
@@ -243035,6 +243054,27 @@
     "votes": 2
   },
   {
+    "id": 3981716,
+    "url": "https://hackerone.com/reports/3981716",
+    "title": "Cross-origin redirect reuses a pooled Negotiate-authenticated connection from an unrelated transfer",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "silentsobs_",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-1965"
+    ],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-31",
+    "disclosed_at": "2026-10-15T07:19:15.463Z",
+    "votes": 0
+  },
+  {
     "id": 3987499,
     "url": "https://hackerone.com/reports/3987499",
     "title": "Client-Side Denial of Service (DoS) via Memory Exhaustion on Password Reset Endpoint",
@@ -243254,6 +243294,30 @@
     "votes": 13
   },
   {
+    "id": 4007917,
+    "url": "https://hackerone.com/reports/4007917",
+    "title": " One Strict-Transport-Security response header empties the victim's entire HSTS store, silently,",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "xshubhamraj",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Cleartext Transmission of Sensitive Information",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-46219",
+      "CVE-2023-23915",
+      "CVE-2023-23914",
+      "CVE-2024-9681"
+    ],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-08",
+    "disclosed_at": "2026-10-15T07:19:30.817Z",
+    "votes": 0
+  },
+  {
     "id": 4016541,
     "url": "https://hackerone.com/reports/4016541",
     "title": "TLS session resumption client cert bypass with CURLOPT_SSL_CTX_FUNCTION",
@@ -243294,6 +243358,25 @@
     "reported_at": "2026-09-11",
     "disclosed_at": "2026-09-18T06:04:10.472Z",
     "votes": 10
+  },
+  {
+    "id": 4021854,
+    "url": "https://hackerone.com/reports/4021854",
+    "title": "IMAP custom FETCH literals can spoof tagged responses and desynchronize reused connections",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "duplicate",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-11",
+    "disclosed_at": "2026-10-15T07:19:44.347Z",
+    "votes": 0
   },
   {
     "id": 4021952,
