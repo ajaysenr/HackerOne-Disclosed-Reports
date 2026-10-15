@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2426 total)
+# High/Critical Severity — No Bounty Paid (2427 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -2130,6 +2130,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [202965](../reports/202965.md) | CVE-2017-5341 The OTV parser in tcpdump before 4.9.0 has a buffer | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | Resolved | 5 |
 | [381758](../reports/381758.md) | sql injection on  /messagecenter/messagingcenter at https://www.█ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 5 |
 | [369573](../reports/369573.md) | stored xss in scrape-metadata when reading metadata from an html  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | Informative | 5 |
+| [3770768](../reports/3770768.md) | [Switch] Remote stack buffer overflow in the LDN/LP2P DHCP server | [Nintendo](../by-program/nintendo.md) | High — CVSS 7.0 | Resolved | 5 |
 | [182027](../reports/182027.md) | SIGSEV on mrb_ary_splice | [shopify-scripts](../by-program/shopify-scripts.md) | High | Resolved | 5 |
 | [1716249](../reports/1716249.md) | sensitive data exposure | [Reddit](../by-program/reddit.md) | High | Not Applicable | 5 |
 | [878339](../reports/878339.md) | [extend-merge] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | Resolved | 5 |

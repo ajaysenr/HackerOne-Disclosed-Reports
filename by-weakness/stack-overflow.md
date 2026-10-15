@@ -1,4 +1,4 @@
-# Weakness: Stack Overflow (33 reports)
+# Weakness: Stack Overflow (34 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -19,21 +19,22 @@
 | 13 | [838127](../reports/838127.md) | mb_strtolower (UTF-32LE): stack-buffer-overflow at php_unicode_to | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 40 |
 | 14 | [3340109](../reports/3340109.md) | Stack Buffer Overflow in cURL Cookie Parsing Leads to RCE | [curl](../by-program/curl.md) | High | — | 18 |
 | 15 | [3230082](../reports/3230082.md) | Stack-based Buffer Overflow in TELNET NEW_ENV Option Handling | [curl](../by-program/curl.md) | High | — | 14 |
-| 16 | [219870](../reports/219870.md) | mirb only: stack-buffer-overflow (OOB write) in main() | [shopify-scripts](../by-program/shopify-scripts.md) | High | — | 3 |
-| 17 | [264481](../reports/264481.md) | Stack overflow in UnbindFromTree (browser can be crashed remotely | [Tor](../by-program/torproject.md) | High | — | 1 |
-| 18 | [480984](../reports/480984.md) | Stack overflow affecting "ext" field on stylers.xml configuration | [Notepad++](../by-program/notepad-plus-plus.md) | Medium — CVSS 6.8 | — | 51 |
-| 19 | [2611669](../reports/2611669.md) | [Switch, PIA/MK8DX] Stack buffer overflow and potential RCE in PI | [Nintendo](../by-program/nintendo.md) | Medium — CVSS 4.3 | — | 36 |
-| 20 | [221833](../reports/221833.md) | [https://jenkins.brew.sh] Jenkins in Debug Mode with Stack Traces | [Homebrew](../by-program/homebrew.md) | Medium | — | 14 |
-| 21 | [3153971](../reports/3153971.md) | Stack Buffer Overflow in curl's OpenSSL Provider Handling | [curl](../by-program/curl.md) | Medium | — | 11 |
-| 22 | [3466883](../reports/3466883.md) | Curl Alt-Svc Parser Stack Buffer Overflow | [curl](../by-program/curl.md) | Medium | — | 8 |
-| 23 | [222108](../reports/222108.md) | Stack Trace on jenkins.brew.sh | [Homebrew](../by-program/homebrew.md) | Medium | — | 3 |
-| 24 | [3766217](../reports/3766217.md) | libmariadb ( mariadb-connector-c ): stack overflow via server-con | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 4.1 | — | 3 |
-| 25 | [3769676](../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated | [MariaDB](../by-program/mariadb.md) | Medium | — | 2 |
-| 26 | [1753224](../reports/1753224.md) | CVE-2022-35260: .netrc parser out-of-bounds access | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 11 |
-| 27 | [497255](../reports/497255.md) | A stack buffer overflow in BabyGrid.cpp can lead to program crash | [Notepad++](../by-program/notepad-plus-plus.md) | Low | — | 8 |
-| 28 | [2551512](../reports/2551512.md) | [Wii U/3DS/Switch] Improper bounds check in StationURL in all NEX | [Nintendo](../by-program/nintendo.md) | Low — CVSS 2.4 | — | 1 |
-| 29 | [469997](../reports/469997.md) | NEX: Stack overflow in UnicodeToUtf8 | [Nintendo](../by-program/nintendo.md) | None | — | 23 |
-| 30 | [3782405](../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::insert | [MariaDB](../by-program/mariadb.md) | None | — | 14 |
-| 31 | [3459636](../reports/3459636.md) | Stack Buffer Overflow in cURL wolfSSL Backend (lib/vtls/wolfssl.c | [curl](../by-program/curl.md) | None | — | 12 |
-| 32 | [390499](../reports/390499.md) | Stack Overflow in JSON RPC Server | [Monero](../by-program/monero.md) | None | — | 10 |
-| 33 | [3910393](../reports/3910393.md) | Stack Buffer Overflow in MariaDB CONNECT storage engine when read | [MariaDB](../by-program/mariadb.md) | None | — | 2 |
+| 16 | [3770768](../reports/3770768.md) | [Switch] Remote stack buffer overflow in the LDN/LP2P DHCP server | [Nintendo](../by-program/nintendo.md) | High — CVSS 7.0 | — | 5 |
+| 17 | [219870](../reports/219870.md) | mirb only: stack-buffer-overflow (OOB write) in main() | [shopify-scripts](../by-program/shopify-scripts.md) | High | — | 3 |
+| 18 | [264481](../reports/264481.md) | Stack overflow in UnbindFromTree (browser can be crashed remotely | [Tor](../by-program/torproject.md) | High | — | 1 |
+| 19 | [480984](../reports/480984.md) | Stack overflow affecting "ext" field on stylers.xml configuration | [Notepad++](../by-program/notepad-plus-plus.md) | Medium — CVSS 6.8 | — | 51 |
+| 20 | [2611669](../reports/2611669.md) | [Switch, PIA/MK8DX] Stack buffer overflow and potential RCE in PI | [Nintendo](../by-program/nintendo.md) | Medium — CVSS 4.3 | — | 36 |
+| 21 | [221833](../reports/221833.md) | [https://jenkins.brew.sh] Jenkins in Debug Mode with Stack Traces | [Homebrew](../by-program/homebrew.md) | Medium | — | 14 |
+| 22 | [3153971](../reports/3153971.md) | Stack Buffer Overflow in curl's OpenSSL Provider Handling | [curl](../by-program/curl.md) | Medium | — | 11 |
+| 23 | [3466883](../reports/3466883.md) | Curl Alt-Svc Parser Stack Buffer Overflow | [curl](../by-program/curl.md) | Medium | — | 8 |
+| 24 | [222108](../reports/222108.md) | Stack Trace on jenkins.brew.sh | [Homebrew](../by-program/homebrew.md) | Medium | — | 3 |
+| 25 | [3766217](../reports/3766217.md) | libmariadb ( mariadb-connector-c ): stack overflow via server-con | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 4.1 | — | 3 |
+| 26 | [3769676](../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated | [MariaDB](../by-program/mariadb.md) | Medium | — | 2 |
+| 27 | [1753224](../reports/1753224.md) | CVE-2022-35260: .netrc parser out-of-bounds access | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 11 |
+| 28 | [497255](../reports/497255.md) | A stack buffer overflow in BabyGrid.cpp can lead to program crash | [Notepad++](../by-program/notepad-plus-plus.md) | Low | — | 8 |
+| 29 | [2551512](../reports/2551512.md) | [Wii U/3DS/Switch] Improper bounds check in StationURL in all NEX | [Nintendo](../by-program/nintendo.md) | Low — CVSS 2.4 | — | 1 |
+| 30 | [469997](../reports/469997.md) | NEX: Stack overflow in UnicodeToUtf8 | [Nintendo](../by-program/nintendo.md) | None | — | 23 |
+| 31 | [3782405](../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::insert | [MariaDB](../by-program/mariadb.md) | None | — | 14 |
+| 32 | [3459636](../reports/3459636.md) | Stack Buffer Overflow in cURL wolfSSL Backend (lib/vtls/wolfssl.c | [curl](../by-program/curl.md) | None | — | 12 |
+| 33 | [390499](../reports/390499.md) | Stack Overflow in JSON RPC Server | [Monero](../by-program/monero.md) | None | — | 10 |
+| 34 | [3910393](../reports/3910393.md) | Stack Buffer Overflow in MariaDB CONNECT storage engine when read | [MariaDB](../by-program/mariadb.md) | None | — | 2 |

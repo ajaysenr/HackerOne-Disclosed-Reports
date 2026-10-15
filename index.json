@@ -239230,6 +239230,27 @@
     "votes": 13
   },
   {
+    "id": 3770768,
+    "url": "https://hackerone.com/reports/3770768",
+    "title": "[Switch] Remote stack buffer overflow in the LDN/LP2P DHCP server leads to control-flow hijack",
+    "visibility": "no-content",
+    "program": "Nintendo",
+    "program_handle": "nintendo",
+    "reporter": "moehw",
+    "severity": "high",
+    "cvss": 7.0,
+    "weakness": "Stack Overflow",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-82079"
+    ],
+    "substate": "resolved",
+    "asset_type": "HARDWARE",
+    "reported_at": "2026-05-30",
+    "disclosed_at": "2026-10-15T01:14:34.745Z",
+    "votes": 5
+  },
+  {
     "id": 3770979,
     "url": "https://hackerone.com/reports/3770979",
     "title": "SMTP connection reuse ignores --ssl-reqd / CURLOPT_USE_SSL and reuses a clear-text STARTTLS session on current master",
