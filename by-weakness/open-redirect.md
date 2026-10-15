@@ -1,4 +1,4 @@
-# Weakness: Open Redirect (271 reports)
+# Weakness: Open Redirect (272 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -117,161 +117,162 @@
 | 111 | [1582160](../reports/1582160.md) | Bypass for Domain-level redirects (Unvalidated Redirects and Forw | [GitLab](../by-program/gitlab.md) | Medium — CVSS 4.1 | — | 7 |
 | 112 | [956449](../reports/956449.md) | link.avito.ru - Bypass of restrictions on external links. | [Avito](../by-program/avito.md) | Medium — CVSS 4.4 | — | 6 |
 | 113 | [1634105](../reports/1634105.md) | Open Redirect at █████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
-| 114 | [224317](../reports/224317.md) | Open redirect while disconnecting authenticated account | [Weblate](../by-program/weblate.md) | Medium | — | 5 |
-| 115 | [236599](../reports/236599.md) | Open redirects protection bypass | [ExpressionEngine](../by-program/expressionengine.md) | Medium | — | 5 |
-| 116 | [223326](../reports/223326.md) | Open Redirect via "next" parameter in third-party authentication | [Weblate](../by-program/weblate.md) | Medium | — | 5 |
-| 117 | [214034](../reports/214034.md) | Open redirect | [GitLab](../by-program/gitlab.md) | Medium — CVSS 5.3 | — | 4 |
-| 118 | [215970](../reports/215970.md) | [Repository Import] Open Redirect via "continue[to]" parameter  | [GitLab](../by-program/gitlab.md) | Medium | — | 4 |
-| 119 | [642876](../reports/642876.md) | URl redirection  | [Kartpay](../by-program/kartpay.md) | Medium | — | 4 |
-| 120 | [1397804](../reports/1397804.md) | open redirect to a remote website which can phish users | [Concrete CMS](../by-program/concretecms.md) | Medium — CVSS 5.4 | — | 4 |
-| 121 | [223718](../reports/223718.md) | Open redirect in Signing in via Social Sites | [Weblate](../by-program/weblate.md) | Medium | — | 3 |
-| 122 | [1081406](../reports/1081406.md) | Open redirect in ck.php and lg.php | [Revive Adserver](../by-program/revive_adserver.md) | Medium — CVSS 5.4 | — | 1 |
-| 123 | [2265413](../reports/2265413.md) | Open Redirect on ███████ | [Fastly VDP](../by-program/fastly-vdp.md) | Low — CVSS 3.7 | — | 74 |
-| 124 | [3099816](../reports/3099816.md) | Open Redirect Vulnerability in OAuth Flow Leading to Potential Ph | [Lichess](../by-program/lichess.md) | Low — CVSS 3.6 | — | 67 |
-| 125 | [1479889](../reports/1479889.md) | Open redirect Via X-Forwarded-Host | [Omise](../by-program/omise.md) | Low | — | 58 |
-| 126 | [411723](../reports/411723.md) | Open redirection at https://chaturbate.com/auth/login/ | [Chaturbate](../by-program/chaturbate.md) | Low | — | 55 |
-| 127 | [380939](../reports/380939.md) | Open Redirection in Login - Korean Starbucks | [Starbucks](../by-program/starbucks.md) | Low | — | 54 |
-| 128 | [1073565](../reports/1073565.md) | Open Redirect on https://www.twitterflightschool.com/widgets/expe | [X / xAI](../by-program/x.md) | Low | — | 53 |
-| 129 | [1159398](../reports/1159398.md) | New link opening method makes hackerone vulnerable to tabnabbing | [HackerOne](../by-program/security.md) | Low | — | 50 |
-| 130 | [2812583](../reports/2812583.md) | Open redirect via redirect_to parameter in tumblr.com | [Automattic](../by-program/automattic.md) | Low | — | 50 |
-| 131 | [299403](../reports/299403.md) | Domain spoofing in redirect page using RTLO | [HackerOne](../by-program/security.md) | Low | — | 47 |
-| 132 | [1129761](../reports/1129761.md) | Open Redirect through POST Request in OAuth | [Moneybird](../by-program/moneybird.md) | Low — CVSS 3.2 | — | 34 |
-| 133 | [1378533](../reports/1378533.md) | Open Redirect TO  Stealing aadvid | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.1 | — | 31 |
-| 134 | [1386277](../reports/1386277.md) | Attachment references in markdown don't warn before downloading  | [HackerOne](../by-program/security.md) | Low | — | 29 |
-| 135 | [1836339](../reports/1836339.md) | Open Redirect - Polycom Company Directory | [8x8](../by-program/8x8-bounty.md) | Low | — | 27 |
-| 136 | [1699025](../reports/1699025.md) | [song.link] Open Redirect | [Linktree](../by-program/linktree.md) | Low — CVSS 3.1 | — | 27 |
-| 137 | [311330](../reports/311330.md) | Open Redirect | [Semrush](../by-program/semrush.md) | Low | — | 27 |
-| 138 | [716976](../reports/716976.md) | Open redirect in semrush.com | [Semrush](../by-program/semrush.md) | Low | — | 26 |
-| 139 | [503922](../reports/503922.md) | Open redirect on the https://tt.hboeck.de | [Hanno's projects](../by-program/hannob.md) | Low | — | 25 |
-| 140 | [798121](../reports/798121.md) | Open redirect in https://www.rockstargames.com/GTAOnline/restrict | [Rockstar Games](../by-program/rockstargames.md) | Low — CVSS 3.8 | — | 23 |
-| 141 | [1101771](../reports/1101771.md) | Open redirect on https://signin.rockstargames.com/connect/authori | [Rockstar Games](../by-program/rockstargames.md) | Low | — | 23 |
-| 142 | [694749](../reports/694749.md) | Clicking "http://burp" hyperlink on FireFox CA Installation guide | [PortSwigger Web Security](../by-program/portswigger.md) | Low | — | 22 |
-| 143 | [1851969](../reports/1851969.md) | Open Redirect - https://████████.jetblue.com/███?url= | [JetBlue](../by-program/jetblue.md) | Low | — | 21 |
-| 144 | [2263044](../reports/2263044.md) | Open redirect in user_saml via RelayState parameter | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.1 | — | 21 |
-| 145 | [1267176](../reports/1267176.md) | Open Redirection | [JetBlue](../by-program/jetblue.md) | Low | — | 21 |
-| 146 | [178345](../reports/178345.md) | Limited Open redirection using SSO-SAML | [HackerOne](../by-program/security.md) | Low | — | 18 |
-| 147 | [905737](../reports/905737.md) | Open Redirect - www.shopify.com | [Shopify](../by-program/shopify.md) | Low | — | 17 |
-| 148 | [1637571](../reports/1637571.md) | Open Redirect ███.8x8.com | [8x8](../by-program/8x8-bounty.md) | Low — CVSS 3.8 | — | 15 |
-| 149 | [601287](../reports/601287.md) | Vulnerability Name: Host Header Injection Redirect | [WakaTime](../by-program/wakatime.md) | Low — CVSS 3.7 | — | 14 |
-| 150 | [1139520](../reports/1139520.md) | Bypassing the External Link Warning | [HackerOne](../by-program/security.md) | Low — CVSS 3.1 | — | 14 |
-| 151 | [309058](../reports/309058.md) | Open Redirect on the nl.wordpress.net | [WordPress](../by-program/wordpress.md) | Low | — | 14 |
-| 152 | [1457736](../reports/1457736.md) | Open Redirect | [JetBlue](../by-program/jetblue.md) | Low — CVSS 3.1 | — | 13 |
-| 153 | [459286](../reports/459286.md) | protocol & Ports are not shown in third-party site redirect warni | [Semrush](../by-program/semrush.md) | Low | — | 13 |
-| 154 | [1530396](../reports/1530396.md) | Open redirection at https://smartreports.mtncameroon.net | [MTN Group](../by-program/mtn_group.md) | Low | — | 12 |
-| 155 | [758380](../reports/758380.md) | Host header injection/redirection | signup and login page | [Nord Security](../by-program/nordsecurity.md) | Low | — | 11 |
-| 156 | [405697](../reports/405697.md) | Open redirection in OAuth | [Shopify](../by-program/shopify.md) | Low | — | 11 |
-| 157 | [473064](../reports/473064.md) | Open Redirect On Your Login Panel | [Eternal](../by-program/eternal.md) | Low | — | 11 |
-| 158 | [320693](../reports/320693.md) | [hekto] open redirect when target domain name is used as html fil | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 2.7 | — | 10 |
-| 159 | [126070](../reports/126070.md) | Open redirect on rush.uber.com, business.uber.com, and help.uber. | [Uber](../by-program/uber.md) | Low | — | 10 |
-| 160 | [731618](../reports/731618.md) | Open Redirect on Greater Asia domains | [Starbucks](../by-program/starbucks.md) | Low — CVSS 3.8 | — | 10 |
-| 161 | [1369806](../reports/1369806.md) | OPEN REDIRECT  | [Nutanix](../by-program/nutanix.md) | Low | — | 9 |
-| 162 | [220737](../reports/220737.md) | Tabnabbing via Window.Opener @Mavenlink | [Mavenlink](../by-program/mavenlink.md) | Low | — | 9 |
-| 163 | [175168](../reports/175168.md) | [ecommerce.shopify.com] Invalidated redirection | [Shopify](../by-program/shopify.md) | Low | — | 9 |
-| 164 | [226408](../reports/226408.md) | Open Redirect in shopify app URL | [Shopify](../by-program/shopify.md) | Low | — | 8 |
-| 165 | [1467046](../reports/1467046.md) | Open Redirect on https://██.8x8.com/login?nextPage=%2F | [8x8](../by-program/8x8-bounty.md) | Low | — | 8 |
-| 166 | [743524](../reports/743524.md) | Hong Kong - Open Redirect on card.starbucks.com.hk | [Starbucks](../by-program/starbucks.md) | Low | — | 8 |
-| 167 | [175779](../reports/175779.md) | Address Bar Spoofing - Already resolved - Retroactive report | [Brave Software](../by-program/brave.md) | Low | — | 8 |
-| 168 | [188266](../reports/188266.md) | Redirect in adding advance cash on delivery app | [Shopify](../by-program/shopify.md) | Low | — | 7 |
-| 169 | [794144](../reports/794144.md) | Open redirection bypass in /www/admin/campaign-modify.php | [Revive Adserver](../by-program/revive_adserver.md) | Low | — | 7 |
-| 170 | [211065](../reports/211065.md) | Gitlab.com is vulnerable to reverse tabnabbing. | [GitLab](../by-program/gitlab.md) | Low — CVSS 3.5 | — | 7 |
-| 171 | [1047447](../reports/1047447.md) | HostAuthorization middleware does not suitably sanitize the Host  | [Ruby on Rails](../by-program/rails.md) | Low | — | 7 |
-| 172 | [339987](../reports/339987.md) | [EE] Spoof the redirect process | [ExpressionEngine](../by-program/expressionengine.md) | Low | — | 7 |
-| 173 | [295865](../reports/295865.md) | Open Redirection on auth.rbk.money | [RBKmoney](../by-program/rbkmoney.md) | Low | — | 7 |
-| 174 | [296706](../reports/296706.md) | Open redirect deceive in hackerone.com via another open redirect  | [HackerOne](../by-program/security.md) | Low | — | 7 |
-| 175 | [277502](../reports/277502.md) | [BuddyPress 2.9.1] Open Redirect via "wp_http_referer" parameter  | [WordPress](../by-program/wordpress.md) | Low | — | 7 |
-| 176 | [603196](../reports/603196.md) | Open Redirect in comment section | [ExpressionEngine](../by-program/expressionengine.md) | Low | — | 7 |
-| 177 | [187969](../reports/187969.md) | Open redirect vulnerability in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 6 |
-| 178 | [187006](../reports/187006.md) | Open Redirect in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 5 |
-| 179 | [1131753](../reports/1131753.md) | Open Redirect at https://www.nutanix.com/tw/login via icid parame | [Nutanix](../by-program/nutanix.md) | Low — CVSS 3.1 | — | 5 |
-| 180 | [369447](../reports/369447.md) | OPEN REDIRECTION at every 302 HTTP CODE | [Brave Software](../by-program/brave.md) | Low | — | 4 |
-| 181 | [123625](../reports/123625.md) | [marketplace.informatica.com] Open Redirect | [Informatica](../by-program/informatica.md) | Low | — | 4 |
-| 182 | [856137](../reports/856137.md) | China - Open redirect at trackinghub.starbucks.com.cn | [Starbucks](../by-program/starbucks.md) | Low | — | 4 |
-| 183 | [819362](../reports/819362.md) | Cross Site Scripting and Open Redirect in affiliate-preview.php f | [Revive Adserver](../by-program/revive_adserver.md) | Low | — | 4 |
-| 184 | [771699](../reports/771699.md) | Open redirect on https://account.mackeeper.com | [Clario](../by-program/clario.md) | Low | — | 3 |
-| 185 | [180196](../reports/180196.md) | Host header Injection rubygems.org | [RubyGems](../by-program/rubygems.md) | Low | — | 3 |
-| 186 | [1354255](../reports/1354255.md) | Open redirect in fastify-static via mishandled user's input when  | [Fastify](../by-program/fastify.md) | Low — CVSS 3.7 | — | 3 |
-| 187 | [390663](../reports/390663.md) | Open redirect in switch account functionality | [Revive Adserver](../by-program/revive_adserver.md) | Low — CVSS 3.1 | — | 3 |
-| 188 | [231760](../reports/231760.md) | Open redirect on sign in  | [Coinbase](../by-program/coinbase.md) | Low | — | 3 |
-| 189 | [180559](../reports/180559.md) | Content spoofing on yelp.onelogin | [Yelp](../by-program/yelp.md) | Low | — | 3 |
-| 190 | [929633](../reports/929633.md) | Open Redirect on [blog.wavecell.com] | [8x8](../by-program/8x8-bounty.md) | Low | — | 1 |
-| 191 | [283269](../reports/283269.md) | A10 – Unvalidated Redirects and Forwards | [Infogram](../by-program/infogram.md) | Low | — | 0 |
-| 192 | [2957962](../reports/2957962.md) | Open redirect | [XVIDEOS](../by-program/xvideos.md) | None | — | 138 |
-| 193 | [2828499](../reports/2828499.md) | open redirected by host header | [Localize](../by-program/localizejs.md) | None | — | 72 |
-| 194 | [101962](../reports/101962.md) | Open redirect using theme install | [Shopify](../by-program/shopify.md) | None | — | 60 |
-| 195 | [1028345](../reports/1028345.md) | Open Redirect on http://events.hackerone.com/redirect?url=https:/ | [HackerOne](../by-program/security.md) | None | — | 54 |
-| 196 | [320376](../reports/320376.md) | Open Redirection in index.php page | [HackerOne](../by-program/security.md) | None | — | 53 |
-| 197 | [108113](../reports/108113.md) | Bypassing callback_url validation on Digits | [X / xAI](../by-program/x.md) | None | — | 47 |
-| 198 | [209520](../reports/209520.md) | http://www.nextcloud.com/wp-includes/js/swfupload/swfupload.swf a | [Nextcloud](../by-program/nextcloud.md) | None | — | 42 |
-| 199 | [246897](../reports/246897.md) | Open Redirect | [X / xAI](../by-program/x.md) | None | — | 41 |
-| 200 | [439075](../reports/439075.md) | Open redirect vulnerability in index.php | [HackerOne](../by-program/security.md) | None | — | 39 |
-| 201 | [562417](../reports/562417.md) | Open Redirection in [https://www.hackerone.com/index.php] | [HackerOne](../by-program/security.md) | None | — | 33 |
-| 202 | [2720030](../reports/2720030.md) | Open redirect when logging in with user_oidc | [Nextcloud](../by-program/nextcloud.md) | None | — | 30 |
-| 203 | [103772](../reports/103772.md) | Open Redirect at *.myshopify.com/account/login?checkout_url= | [Shopify](../by-program/shopify.md) | None | — | 29 |
-| 204 | [355558](../reports/355558.md) | Open Redirect via login avito.ru | Protection bypass | [Avito](../by-program/avito.md) | None | — | 28 |
-| 205 | [169759](../reports/169759.md) | Open redirect in bulk edit | [Shopify](../by-program/shopify.md) | None | — | 28 |
-| 206 | [111968](../reports/111968.md) | Interstitial redirect bypass / open redirect in https://hackerone | [HackerOne](../by-program/security.md) | None | — | 26 |
-| 207 | [211213](../reports/211213.md) | https://xmpp.nextcloud.com///;@www.google.com allows open redirec | [Nextcloud](../by-program/nextcloud.md) | None | — | 20 |
-| 208 | [150374](../reports/150374.md) | https://windsor.shopify.com/ takeover | [Shopify](../by-program/shopify.md) | None | — | 19 |
-| 209 | [165046](../reports/165046.md) | Open redirect allows changing iframe content in *.myshopify.com/a | [Shopify](../by-program/shopify.md) | None | — | 19 |
-| 210 | [159522](../reports/159522.md) | Open redirect using checkout_url | [Shopify](../by-program/shopify.md) | None | — | 17 |
-| 211 | [158019](../reports/158019.md) | Host Header Injection/Redirection in: https://www.instacart.com/ | [Instacart](../by-program/instacart.md) | None | — | 17 |
-| 212 | [1050193](../reports/1050193.md) | [intensedebate.com] Open Redirect | [Automattic](../by-program/automattic.md) | None | — | 17 |
-| 213 | [6017](../reports/6017.md) | Facebook Takeover using Slack using 302 from files.slack.com with | [Slack](../by-program/slack.md) | None | — | 16 |
-| 214 | [151831](../reports/151831.md) | User Supplied links on profile page is not validated and redirect | [Gratipay](../by-program/gratipay.md) | None | — | 12 |
-| 215 | [155222](../reports/155222.md) | (BYPASS) Open Redirect after login at http://ecommerce.shopify.co | [Shopify](../by-program/shopify.md) | None | — | 12 |
-| 216 | [141355](../reports/141355.md) | Open Redirect in unifi.ubnt.com [Controller Finder] | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 12 |
-| 217 | [984947](../reports/984947.md) | Tab nabbing via window.opener.location (target "_blank") | [Automattic](../by-program/automattic.md) | None | — | 12 |
-| 218 | [846389](../reports/846389.md) | Open redirect at mc-beta-cloud-acronis.com | [Acronis](../by-program/acronis.md) | None | — | 12 |
-| 219 | [277078](../reports/277078.md) | Goodhire Open Redirect | [Inflection](../by-program/inflection.md) | None | — | 11 |
-| 220 | [2731](../reports/2731.md) | Open redirect vulnerability  | [Slack](../by-program/slack.md) | None | — | 11 |
-| 221 | [39198](../reports/39198.md) | [admin.c2fo.com] Open Redirect | [C2FO](../by-program/c2fo.md) | None | — | 10 |
-| 222 | [3723002](../reports/3723002.md) | another liberapay member team twitter account broken Link Hijacki | [Liberapay](../by-program/liberapay.md) | None | — | 10 |
-| 223 | [99435](../reports/99435.md) | Open redirect helps to steal Facebook access_token | [Bumble](../by-program/bumble.md) | None | — | 9 |
-| 224 | [45516](../reports/45516.md) | [zaption.com] Open Redirect | [Zaption](../by-program/zaption.md) | None | — | 9 |
-| 225 | [3721519](../reports/3721519.md) | Liberapay member team twitter account broken Link Hijacking via E | [Liberapay](../by-program/liberapay.md) | None | — | 9 |
-| 226 | [7900](../reports/7900.md) | OAuth open redirect | [Respondly](../by-program/respondly.md) | None | — | 8 |
-| 227 | [156615](../reports/156615.md) | Attacker can smuggle a malicious domain in a URI object. | [Ruby](../by-program/ruby.md) | None | — | 8 |
-| 228 | [261592](../reports/261592.md) | Open Redirection Found in users.whisper.sh | [Whisper](../by-program/whisper.md) | None | — | 8 |
-| 229 | [103546](../reports/103546.md) | manipulate the Practical HTTP Host header  | [CERT/CC](../by-program/cert.md) | None | — | 7 |
-| 230 | [52532](../reports/52532.md) | "learn more here", reward email - domain expired. | [HackerOne](../by-program/security.md) | None | — | 7 |
-| 231 | [124620](../reports/124620.md) | External links should use rel="noopener" or use the redirect serv | [HackerOne](../by-program/security.md) | None | — | 7 |
-| 232 | [765227](../reports/765227.md) | Potential Open-Redirection | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 7 |
-| 233 | [131728](../reports/131728.md) | Open Redirect vulnerability in moneybird.com | [Moneybird](../by-program/moneybird.md) | None | — | 6 |
-| 234 | [97948](../reports/97948.md) | Cross-domain AJAX request | [HackerOne](../by-program/security.md) | None | — | 6 |
-| 235 | [161991](../reports/161991.md) | Open Redirect possible in https://www.shopify.com/admin/ | [Shopify](../by-program/shopify.md) | None | — | 6 |
-| 236 | [57163](../reports/57163.md) | Open-redirect on hackerone.com | [HackerOne](../by-program/security.md) | None | — | 6 |
-| 237 | [264405](../reports/264405.md) | Header Injection In app.legalrobot.com | [Legal Robot](../by-program/legalrobot.md) | None | — | 5 |
-| 238 | [238117](../reports/238117.md) | Open redirect while disconnecting Email | [Weblate](../by-program/weblate.md) | None | — | 5 |
-| 239 | [6564](../reports/6564.md) | Open Redirection in SmartHistory KhanAcademy | [Khan Academy](../by-program/khanacademy.md) | None | — | 5 |
-| 240 | [2622](../reports/2622.md) | URL redirection flaw | [Slack](../by-program/slack.md) | None | — | 5 |
-| 241 | [165136](../reports/165136.md) | target="_blank" Vulnerability Resulting in Critical Phishing Vect | [Mapbox](../by-program/mapbox.md) | None | — | 5 |
-| 242 | [163124](../reports/163124.md) | [skyliner.io / qa.skyliner.io] Open Redirect | [Skyliner](../by-program/skyliner.md) | None | — | 5 |
-| 243 | [59372](../reports/59372.md) | Homograph Attack | [HackerOne](../by-program/security.md) | None | — | 5 |
-| 244 | [114529](../reports/114529.md) | Content Spoofing and Local Redirect in Mapbox Studio | [Mapbox](../by-program/mapbox.md) | None | — | 5 |
-| 245 | [146416](../reports/146416.md) | Ruby:HTTP Header injection in 'net/http' | [Ruby](../by-program/ruby.md) | None | — | 5 |
-| 246 | [193478](../reports/193478.md) | Create New User Whilst Logged On | [Starbucks](../by-program/starbucks.md) | None | — | 4 |
-| 247 | [12964](../reports/12964.md) | Open URL Redirection | [Urban Dictionary](../by-program/urbandictionary.md) | None | — | 4 |
-| 248 | [113112](../reports/113112.md) | Open-redirect on paragonie.com | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 4 |
-| 249 | [44157](../reports/44157.md) | Open Redirection Security Filter bypassed | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
-| 250 | [129091](../reports/129091.md) | CPU utilization 99% on visiting wordpress site url & open redirec | [Automattic](../by-program/automattic.md) | None | — | 3 |
-| 251 | [76738](../reports/76738.md) | Open redirect filter bypass | [Zaption](../by-program/zaption.md) | None | — | 3 |
-| 252 | [6357](../reports/6357.md) | https://www.khanacademy.org/login open-redirect | [Khan Academy](../by-program/khanacademy.md) | None | — | 3 |
-| 253 | [172746](../reports/172746.md) | WebSummit - Open Redirect  | [WebSummit](../by-program/websummit.md) | None | — | 3 |
-| 254 | [5199](../reports/5199.md) | Improper Validation of the Referrer header leading to Open URL Re | [Coinbase](../by-program/coinbase.md) | None | — | 2 |
-| 255 | [4549](../reports/4549.md) | Open Redirect in Slack | [Slack](../by-program/slack.md) | None | — | 2 |
-| 256 | [12949](../reports/12949.md) | Open Redirection | [Urban Dictionary](../by-program/urbandictionary.md) | None | — | 2 |
-| 257 | [77221](../reports/77221.md) | Open/Unvalidated Redirect Issue | [Mavenlink](../by-program/mavenlink.md) | None | — | 2 |
-| 258 | [6035](../reports/6035.md) | open redirect in https://slack.com | [Slack](../by-program/slack.md) | None | — | 2 |
-| 259 | [1182824](../reports/1182824.md) | Vulnerability Name: URL Redirection / Unvalidate Open Redirect | [Reddit](../by-program/reddit.md) | None | — | 2 |
-| 260 | [373932](../reports/373932.md) | Open redirect in Serendipity (exit.php) | [Hanno's projects](../by-program/hannob.md) | None | — | 2 |
-| 261 | [13553](../reports/13553.md) | Url Redirection | [Factlink](../by-program/factlink.md) | None | — | 2 |
-| 262 | [258632](../reports/258632.md) | owncloud.com open redirect | [ownCloud](../by-program/owncloud.md) | None | — | 2 |
-| 263 | [153652](../reports/153652.md) | Redirect url after login is not validated | [Shopify](../by-program/shopify.md) | None | — | 2 |
-| 264 | [145306](../reports/145306.md) | Registeration Link "Jacking&Redirecting" | [Veris](../by-program/veris.md) | None | — | 1 |
-| 265 | [22142](../reports/22142.md) | Open Redirect in WordPress Feed Statistics {Affected All Versions | [Automattic](../by-program/automattic.md) | None | — | 1 |
-| 266 | [34084](../reports/34084.md) | Bad extended ascii handling in HTTP 301 redirects of t.co | [X / xAI](../by-program/x.md) | None | — | 1 |
-| 267 | [143265](../reports/143265.md) | Unvalidated redirect on user profile website | [Eternal](../by-program/eternal.md) | None | — | 1 |
-| 268 | [25160](../reports/25160.md) | Open redirection on secure.phabricator.com | [Phabricator](../by-program/phabricator.md) | None | — | 1 |
-| 269 | [2414](../reports/2414.md) | open redirect | [RelateIQ](../by-program/relateiq.md) | None | — | 1 |
-| 270 | [207431](../reports/207431.md) | One of yelp.com url is redirecting to domain which is not yet pur | [Yelp](../by-program/yelp.md) | None | — | 0 |
-| 271 | [128910](../reports/128910.md) | prevent %2f spoofed URLs in profile statement | [Gratipay](../by-program/gratipay.md) | None | — | 0 |
+| 114 | [3972760](../reports/3972760.md) | Open redirect on app.hey.com bypasses HEY desktop's internal-orig | [Basecamp](../by-program/basecamp.md) | Medium — CVSS 6.1 | — | 5 |
+| 115 | [224317](../reports/224317.md) | Open redirect while disconnecting authenticated account | [Weblate](../by-program/weblate.md) | Medium | — | 5 |
+| 116 | [236599](../reports/236599.md) | Open redirects protection bypass | [ExpressionEngine](../by-program/expressionengine.md) | Medium | — | 5 |
+| 117 | [223326](../reports/223326.md) | Open Redirect via "next" parameter in third-party authentication | [Weblate](../by-program/weblate.md) | Medium | — | 5 |
+| 118 | [214034](../reports/214034.md) | Open redirect | [GitLab](../by-program/gitlab.md) | Medium — CVSS 5.3 | — | 4 |
+| 119 | [215970](../reports/215970.md) | [Repository Import] Open Redirect via "continue[to]" parameter  | [GitLab](../by-program/gitlab.md) | Medium | — | 4 |
+| 120 | [642876](../reports/642876.md) | URl redirection  | [Kartpay](../by-program/kartpay.md) | Medium | — | 4 |
+| 121 | [1397804](../reports/1397804.md) | open redirect to a remote website which can phish users | [Concrete CMS](../by-program/concretecms.md) | Medium — CVSS 5.4 | — | 4 |
+| 122 | [223718](../reports/223718.md) | Open redirect in Signing in via Social Sites | [Weblate](../by-program/weblate.md) | Medium | — | 3 |
+| 123 | [1081406](../reports/1081406.md) | Open redirect in ck.php and lg.php | [Revive Adserver](../by-program/revive_adserver.md) | Medium — CVSS 5.4 | — | 1 |
+| 124 | [2265413](../reports/2265413.md) | Open Redirect on ███████ | [Fastly VDP](../by-program/fastly-vdp.md) | Low — CVSS 3.7 | — | 74 |
+| 125 | [3099816](../reports/3099816.md) | Open Redirect Vulnerability in OAuth Flow Leading to Potential Ph | [Lichess](../by-program/lichess.md) | Low — CVSS 3.6 | — | 67 |
+| 126 | [1479889](../reports/1479889.md) | Open redirect Via X-Forwarded-Host | [Omise](../by-program/omise.md) | Low | — | 58 |
+| 127 | [411723](../reports/411723.md) | Open redirection at https://chaturbate.com/auth/login/ | [Chaturbate](../by-program/chaturbate.md) | Low | — | 55 |
+| 128 | [380939](../reports/380939.md) | Open Redirection in Login - Korean Starbucks | [Starbucks](../by-program/starbucks.md) | Low | — | 54 |
+| 129 | [1073565](../reports/1073565.md) | Open Redirect on https://www.twitterflightschool.com/widgets/expe | [X / xAI](../by-program/x.md) | Low | — | 53 |
+| 130 | [1159398](../reports/1159398.md) | New link opening method makes hackerone vulnerable to tabnabbing | [HackerOne](../by-program/security.md) | Low | — | 50 |
+| 131 | [2812583](../reports/2812583.md) | Open redirect via redirect_to parameter in tumblr.com | [Automattic](../by-program/automattic.md) | Low | — | 50 |
+| 132 | [299403](../reports/299403.md) | Domain spoofing in redirect page using RTLO | [HackerOne](../by-program/security.md) | Low | — | 47 |
+| 133 | [1129761](../reports/1129761.md) | Open Redirect through POST Request in OAuth | [Moneybird](../by-program/moneybird.md) | Low — CVSS 3.2 | — | 34 |
+| 134 | [1378533](../reports/1378533.md) | Open Redirect TO  Stealing aadvid | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.1 | — | 31 |
+| 135 | [1386277](../reports/1386277.md) | Attachment references in markdown don't warn before downloading  | [HackerOne](../by-program/security.md) | Low | — | 29 |
+| 136 | [1836339](../reports/1836339.md) | Open Redirect - Polycom Company Directory | [8x8](../by-program/8x8-bounty.md) | Low | — | 27 |
+| 137 | [1699025](../reports/1699025.md) | [song.link] Open Redirect | [Linktree](../by-program/linktree.md) | Low — CVSS 3.1 | — | 27 |
+| 138 | [311330](../reports/311330.md) | Open Redirect | [Semrush](../by-program/semrush.md) | Low | — | 27 |
+| 139 | [716976](../reports/716976.md) | Open redirect in semrush.com | [Semrush](../by-program/semrush.md) | Low | — | 26 |
+| 140 | [503922](../reports/503922.md) | Open redirect on the https://tt.hboeck.de | [Hanno's projects](../by-program/hannob.md) | Low | — | 25 |
+| 141 | [798121](../reports/798121.md) | Open redirect in https://www.rockstargames.com/GTAOnline/restrict | [Rockstar Games](../by-program/rockstargames.md) | Low — CVSS 3.8 | — | 23 |
+| 142 | [1101771](../reports/1101771.md) | Open redirect on https://signin.rockstargames.com/connect/authori | [Rockstar Games](../by-program/rockstargames.md) | Low | — | 23 |
+| 143 | [694749](../reports/694749.md) | Clicking "http://burp" hyperlink on FireFox CA Installation guide | [PortSwigger Web Security](../by-program/portswigger.md) | Low | — | 22 |
+| 144 | [1851969](../reports/1851969.md) | Open Redirect - https://████████.jetblue.com/███?url= | [JetBlue](../by-program/jetblue.md) | Low | — | 21 |
+| 145 | [2263044](../reports/2263044.md) | Open redirect in user_saml via RelayState parameter | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.1 | — | 21 |
+| 146 | [1267176](../reports/1267176.md) | Open Redirection | [JetBlue](../by-program/jetblue.md) | Low | — | 21 |
+| 147 | [178345](../reports/178345.md) | Limited Open redirection using SSO-SAML | [HackerOne](../by-program/security.md) | Low | — | 18 |
+| 148 | [905737](../reports/905737.md) | Open Redirect - www.shopify.com | [Shopify](../by-program/shopify.md) | Low | — | 17 |
+| 149 | [1637571](../reports/1637571.md) | Open Redirect ███.8x8.com | [8x8](../by-program/8x8-bounty.md) | Low — CVSS 3.8 | — | 15 |
+| 150 | [601287](../reports/601287.md) | Vulnerability Name: Host Header Injection Redirect | [WakaTime](../by-program/wakatime.md) | Low — CVSS 3.7 | — | 14 |
+| 151 | [1139520](../reports/1139520.md) | Bypassing the External Link Warning | [HackerOne](../by-program/security.md) | Low — CVSS 3.1 | — | 14 |
+| 152 | [309058](../reports/309058.md) | Open Redirect on the nl.wordpress.net | [WordPress](../by-program/wordpress.md) | Low | — | 14 |
+| 153 | [1457736](../reports/1457736.md) | Open Redirect | [JetBlue](../by-program/jetblue.md) | Low — CVSS 3.1 | — | 13 |
+| 154 | [459286](../reports/459286.md) | protocol & Ports are not shown in third-party site redirect warni | [Semrush](../by-program/semrush.md) | Low | — | 13 |
+| 155 | [1530396](../reports/1530396.md) | Open redirection at https://smartreports.mtncameroon.net | [MTN Group](../by-program/mtn_group.md) | Low | — | 12 |
+| 156 | [758380](../reports/758380.md) | Host header injection/redirection | signup and login page | [Nord Security](../by-program/nordsecurity.md) | Low | — | 11 |
+| 157 | [405697](../reports/405697.md) | Open redirection in OAuth | [Shopify](../by-program/shopify.md) | Low | — | 11 |
+| 158 | [473064](../reports/473064.md) | Open Redirect On Your Login Panel | [Eternal](../by-program/eternal.md) | Low | — | 11 |
+| 159 | [320693](../reports/320693.md) | [hekto] open redirect when target domain name is used as html fil | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 2.7 | — | 10 |
+| 160 | [126070](../reports/126070.md) | Open redirect on rush.uber.com, business.uber.com, and help.uber. | [Uber](../by-program/uber.md) | Low | — | 10 |
+| 161 | [731618](../reports/731618.md) | Open Redirect on Greater Asia domains | [Starbucks](../by-program/starbucks.md) | Low — CVSS 3.8 | — | 10 |
+| 162 | [1369806](../reports/1369806.md) | OPEN REDIRECT  | [Nutanix](../by-program/nutanix.md) | Low | — | 9 |
+| 163 | [220737](../reports/220737.md) | Tabnabbing via Window.Opener @Mavenlink | [Mavenlink](../by-program/mavenlink.md) | Low | — | 9 |
+| 164 | [175168](../reports/175168.md) | [ecommerce.shopify.com] Invalidated redirection | [Shopify](../by-program/shopify.md) | Low | — | 9 |
+| 165 | [226408](../reports/226408.md) | Open Redirect in shopify app URL | [Shopify](../by-program/shopify.md) | Low | — | 8 |
+| 166 | [1467046](../reports/1467046.md) | Open Redirect on https://██.8x8.com/login?nextPage=%2F | [8x8](../by-program/8x8-bounty.md) | Low | — | 8 |
+| 167 | [743524](../reports/743524.md) | Hong Kong - Open Redirect on card.starbucks.com.hk | [Starbucks](../by-program/starbucks.md) | Low | — | 8 |
+| 168 | [175779](../reports/175779.md) | Address Bar Spoofing - Already resolved - Retroactive report | [Brave Software](../by-program/brave.md) | Low | — | 8 |
+| 169 | [188266](../reports/188266.md) | Redirect in adding advance cash on delivery app | [Shopify](../by-program/shopify.md) | Low | — | 7 |
+| 170 | [794144](../reports/794144.md) | Open redirection bypass in /www/admin/campaign-modify.php | [Revive Adserver](../by-program/revive_adserver.md) | Low | — | 7 |
+| 171 | [211065](../reports/211065.md) | Gitlab.com is vulnerable to reverse tabnabbing. | [GitLab](../by-program/gitlab.md) | Low — CVSS 3.5 | — | 7 |
+| 172 | [1047447](../reports/1047447.md) | HostAuthorization middleware does not suitably sanitize the Host  | [Ruby on Rails](../by-program/rails.md) | Low | — | 7 |
+| 173 | [339987](../reports/339987.md) | [EE] Spoof the redirect process | [ExpressionEngine](../by-program/expressionengine.md) | Low | — | 7 |
+| 174 | [295865](../reports/295865.md) | Open Redirection on auth.rbk.money | [RBKmoney](../by-program/rbkmoney.md) | Low | — | 7 |
+| 175 | [296706](../reports/296706.md) | Open redirect deceive in hackerone.com via another open redirect  | [HackerOne](../by-program/security.md) | Low | — | 7 |
+| 176 | [277502](../reports/277502.md) | [BuddyPress 2.9.1] Open Redirect via "wp_http_referer" parameter  | [WordPress](../by-program/wordpress.md) | Low | — | 7 |
+| 177 | [603196](../reports/603196.md) | Open Redirect in comment section | [ExpressionEngine](../by-program/expressionengine.md) | Low | — | 7 |
+| 178 | [187969](../reports/187969.md) | Open redirect vulnerability in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 6 |
+| 179 | [187006](../reports/187006.md) | Open Redirect in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 5 |
+| 180 | [1131753](../reports/1131753.md) | Open Redirect at https://www.nutanix.com/tw/login via icid parame | [Nutanix](../by-program/nutanix.md) | Low — CVSS 3.1 | — | 5 |
+| 181 | [369447](../reports/369447.md) | OPEN REDIRECTION at every 302 HTTP CODE | [Brave Software](../by-program/brave.md) | Low | — | 4 |
+| 182 | [123625](../reports/123625.md) | [marketplace.informatica.com] Open Redirect | [Informatica](../by-program/informatica.md) | Low | — | 4 |
+| 183 | [856137](../reports/856137.md) | China - Open redirect at trackinghub.starbucks.com.cn | [Starbucks](../by-program/starbucks.md) | Low | — | 4 |
+| 184 | [819362](../reports/819362.md) | Cross Site Scripting and Open Redirect in affiliate-preview.php f | [Revive Adserver](../by-program/revive_adserver.md) | Low | — | 4 |
+| 185 | [771699](../reports/771699.md) | Open redirect on https://account.mackeeper.com | [Clario](../by-program/clario.md) | Low | — | 3 |
+| 186 | [180196](../reports/180196.md) | Host header Injection rubygems.org | [RubyGems](../by-program/rubygems.md) | Low | — | 3 |
+| 187 | [1354255](../reports/1354255.md) | Open redirect in fastify-static via mishandled user's input when  | [Fastify](../by-program/fastify.md) | Low — CVSS 3.7 | — | 3 |
+| 188 | [390663](../reports/390663.md) | Open redirect in switch account functionality | [Revive Adserver](../by-program/revive_adserver.md) | Low — CVSS 3.1 | — | 3 |
+| 189 | [231760](../reports/231760.md) | Open redirect on sign in  | [Coinbase](../by-program/coinbase.md) | Low | — | 3 |
+| 190 | [180559](../reports/180559.md) | Content spoofing on yelp.onelogin | [Yelp](../by-program/yelp.md) | Low | — | 3 |
+| 191 | [929633](../reports/929633.md) | Open Redirect on [blog.wavecell.com] | [8x8](../by-program/8x8-bounty.md) | Low | — | 1 |
+| 192 | [283269](../reports/283269.md) | A10 – Unvalidated Redirects and Forwards | [Infogram](../by-program/infogram.md) | Low | — | 0 |
+| 193 | [2957962](../reports/2957962.md) | Open redirect | [XVIDEOS](../by-program/xvideos.md) | None | — | 138 |
+| 194 | [2828499](../reports/2828499.md) | open redirected by host header | [Localize](../by-program/localizejs.md) | None | — | 72 |
+| 195 | [101962](../reports/101962.md) | Open redirect using theme install | [Shopify](../by-program/shopify.md) | None | — | 60 |
+| 196 | [1028345](../reports/1028345.md) | Open Redirect on http://events.hackerone.com/redirect?url=https:/ | [HackerOne](../by-program/security.md) | None | — | 54 |
+| 197 | [320376](../reports/320376.md) | Open Redirection in index.php page | [HackerOne](../by-program/security.md) | None | — | 53 |
+| 198 | [108113](../reports/108113.md) | Bypassing callback_url validation on Digits | [X / xAI](../by-program/x.md) | None | — | 47 |
+| 199 | [209520](../reports/209520.md) | http://www.nextcloud.com/wp-includes/js/swfupload/swfupload.swf a | [Nextcloud](../by-program/nextcloud.md) | None | — | 42 |
+| 200 | [246897](../reports/246897.md) | Open Redirect | [X / xAI](../by-program/x.md) | None | — | 41 |
+| 201 | [439075](../reports/439075.md) | Open redirect vulnerability in index.php | [HackerOne](../by-program/security.md) | None | — | 39 |
+| 202 | [562417](../reports/562417.md) | Open Redirection in [https://www.hackerone.com/index.php] | [HackerOne](../by-program/security.md) | None | — | 33 |
+| 203 | [2720030](../reports/2720030.md) | Open redirect when logging in with user_oidc | [Nextcloud](../by-program/nextcloud.md) | None | — | 30 |
+| 204 | [103772](../reports/103772.md) | Open Redirect at *.myshopify.com/account/login?checkout_url= | [Shopify](../by-program/shopify.md) | None | — | 29 |
+| 205 | [355558](../reports/355558.md) | Open Redirect via login avito.ru | Protection bypass | [Avito](../by-program/avito.md) | None | — | 28 |
+| 206 | [169759](../reports/169759.md) | Open redirect in bulk edit | [Shopify](../by-program/shopify.md) | None | — | 28 |
+| 207 | [111968](../reports/111968.md) | Interstitial redirect bypass / open redirect in https://hackerone | [HackerOne](../by-program/security.md) | None | — | 26 |
+| 208 | [211213](../reports/211213.md) | https://xmpp.nextcloud.com///;@www.google.com allows open redirec | [Nextcloud](../by-program/nextcloud.md) | None | — | 20 |
+| 209 | [150374](../reports/150374.md) | https://windsor.shopify.com/ takeover | [Shopify](../by-program/shopify.md) | None | — | 19 |
+| 210 | [165046](../reports/165046.md) | Open redirect allows changing iframe content in *.myshopify.com/a | [Shopify](../by-program/shopify.md) | None | — | 19 |
+| 211 | [159522](../reports/159522.md) | Open redirect using checkout_url | [Shopify](../by-program/shopify.md) | None | — | 17 |
+| 212 | [158019](../reports/158019.md) | Host Header Injection/Redirection in: https://www.instacart.com/ | [Instacart](../by-program/instacart.md) | None | — | 17 |
+| 213 | [1050193](../reports/1050193.md) | [intensedebate.com] Open Redirect | [Automattic](../by-program/automattic.md) | None | — | 17 |
+| 214 | [6017](../reports/6017.md) | Facebook Takeover using Slack using 302 from files.slack.com with | [Slack](../by-program/slack.md) | None | — | 16 |
+| 215 | [151831](../reports/151831.md) | User Supplied links on profile page is not validated and redirect | [Gratipay](../by-program/gratipay.md) | None | — | 12 |
+| 216 | [155222](../reports/155222.md) | (BYPASS) Open Redirect after login at http://ecommerce.shopify.co | [Shopify](../by-program/shopify.md) | None | — | 12 |
+| 217 | [141355](../reports/141355.md) | Open Redirect in unifi.ubnt.com [Controller Finder] | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 12 |
+| 218 | [984947](../reports/984947.md) | Tab nabbing via window.opener.location (target "_blank") | [Automattic](../by-program/automattic.md) | None | — | 12 |
+| 219 | [846389](../reports/846389.md) | Open redirect at mc-beta-cloud-acronis.com | [Acronis](../by-program/acronis.md) | None | — | 12 |
+| 220 | [277078](../reports/277078.md) | Goodhire Open Redirect | [Inflection](../by-program/inflection.md) | None | — | 11 |
+| 221 | [2731](../reports/2731.md) | Open redirect vulnerability  | [Slack](../by-program/slack.md) | None | — | 11 |
+| 222 | [39198](../reports/39198.md) | [admin.c2fo.com] Open Redirect | [C2FO](../by-program/c2fo.md) | None | — | 10 |
+| 223 | [3723002](../reports/3723002.md) | another liberapay member team twitter account broken Link Hijacki | [Liberapay](../by-program/liberapay.md) | None | — | 10 |
+| 224 | [99435](../reports/99435.md) | Open redirect helps to steal Facebook access_token | [Bumble](../by-program/bumble.md) | None | — | 9 |
+| 225 | [45516](../reports/45516.md) | [zaption.com] Open Redirect | [Zaption](../by-program/zaption.md) | None | — | 9 |
+| 226 | [3721519](../reports/3721519.md) | Liberapay member team twitter account broken Link Hijacking via E | [Liberapay](../by-program/liberapay.md) | None | — | 9 |
+| 227 | [7900](../reports/7900.md) | OAuth open redirect | [Respondly](../by-program/respondly.md) | None | — | 8 |
+| 228 | [156615](../reports/156615.md) | Attacker can smuggle a malicious domain in a URI object. | [Ruby](../by-program/ruby.md) | None | — | 8 |
+| 229 | [261592](../reports/261592.md) | Open Redirection Found in users.whisper.sh | [Whisper](../by-program/whisper.md) | None | — | 8 |
+| 230 | [103546](../reports/103546.md) | manipulate the Practical HTTP Host header  | [CERT/CC](../by-program/cert.md) | None | — | 7 |
+| 231 | [52532](../reports/52532.md) | "learn more here", reward email - domain expired. | [HackerOne](../by-program/security.md) | None | — | 7 |
+| 232 | [124620](../reports/124620.md) | External links should use rel="noopener" or use the redirect serv | [HackerOne](../by-program/security.md) | None | — | 7 |
+| 233 | [765227](../reports/765227.md) | Potential Open-Redirection | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 7 |
+| 234 | [131728](../reports/131728.md) | Open Redirect vulnerability in moneybird.com | [Moneybird](../by-program/moneybird.md) | None | — | 6 |
+| 235 | [97948](../reports/97948.md) | Cross-domain AJAX request | [HackerOne](../by-program/security.md) | None | — | 6 |
+| 236 | [161991](../reports/161991.md) | Open Redirect possible in https://www.shopify.com/admin/ | [Shopify](../by-program/shopify.md) | None | — | 6 |
+| 237 | [57163](../reports/57163.md) | Open-redirect on hackerone.com | [HackerOne](../by-program/security.md) | None | — | 6 |
+| 238 | [264405](../reports/264405.md) | Header Injection In app.legalrobot.com | [Legal Robot](../by-program/legalrobot.md) | None | — | 5 |
+| 239 | [238117](../reports/238117.md) | Open redirect while disconnecting Email | [Weblate](../by-program/weblate.md) | None | — | 5 |
+| 240 | [6564](../reports/6564.md) | Open Redirection in SmartHistory KhanAcademy | [Khan Academy](../by-program/khanacademy.md) | None | — | 5 |
+| 241 | [2622](../reports/2622.md) | URL redirection flaw | [Slack](../by-program/slack.md) | None | — | 5 |
+| 242 | [165136](../reports/165136.md) | target="_blank" Vulnerability Resulting in Critical Phishing Vect | [Mapbox](../by-program/mapbox.md) | None | — | 5 |
+| 243 | [163124](../reports/163124.md) | [skyliner.io / qa.skyliner.io] Open Redirect | [Skyliner](../by-program/skyliner.md) | None | — | 5 |
+| 244 | [59372](../reports/59372.md) | Homograph Attack | [HackerOne](../by-program/security.md) | None | — | 5 |
+| 245 | [114529](../reports/114529.md) | Content Spoofing and Local Redirect in Mapbox Studio | [Mapbox](../by-program/mapbox.md) | None | — | 5 |
+| 246 | [146416](../reports/146416.md) | Ruby:HTTP Header injection in 'net/http' | [Ruby](../by-program/ruby.md) | None | — | 5 |
+| 247 | [193478](../reports/193478.md) | Create New User Whilst Logged On | [Starbucks](../by-program/starbucks.md) | None | — | 4 |
+| 248 | [12964](../reports/12964.md) | Open URL Redirection | [Urban Dictionary](../by-program/urbandictionary.md) | None | — | 4 |
+| 249 | [113112](../reports/113112.md) | Open-redirect on paragonie.com | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 4 |
+| 250 | [44157](../reports/44157.md) | Open Redirection Security Filter bypassed | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
+| 251 | [129091](../reports/129091.md) | CPU utilization 99% on visiting wordpress site url & open redirec | [Automattic](../by-program/automattic.md) | None | — | 3 |
+| 252 | [76738](../reports/76738.md) | Open redirect filter bypass | [Zaption](../by-program/zaption.md) | None | — | 3 |
+| 253 | [6357](../reports/6357.md) | https://www.khanacademy.org/login open-redirect | [Khan Academy](../by-program/khanacademy.md) | None | — | 3 |
+| 254 | [172746](../reports/172746.md) | WebSummit - Open Redirect  | [WebSummit](../by-program/websummit.md) | None | — | 3 |
+| 255 | [5199](../reports/5199.md) | Improper Validation of the Referrer header leading to Open URL Re | [Coinbase](../by-program/coinbase.md) | None | — | 2 |
+| 256 | [4549](../reports/4549.md) | Open Redirect in Slack | [Slack](../by-program/slack.md) | None | — | 2 |
+| 257 | [12949](../reports/12949.md) | Open Redirection | [Urban Dictionary](../by-program/urbandictionary.md) | None | — | 2 |
+| 258 | [77221](../reports/77221.md) | Open/Unvalidated Redirect Issue | [Mavenlink](../by-program/mavenlink.md) | None | — | 2 |
+| 259 | [6035](../reports/6035.md) | open redirect in https://slack.com | [Slack](../by-program/slack.md) | None | — | 2 |
+| 260 | [1182824](../reports/1182824.md) | Vulnerability Name: URL Redirection / Unvalidate Open Redirect | [Reddit](../by-program/reddit.md) | None | — | 2 |
+| 261 | [373932](../reports/373932.md) | Open redirect in Serendipity (exit.php) | [Hanno's projects](../by-program/hannob.md) | None | — | 2 |
+| 262 | [13553](../reports/13553.md) | Url Redirection | [Factlink](../by-program/factlink.md) | None | — | 2 |
+| 263 | [258632](../reports/258632.md) | owncloud.com open redirect | [ownCloud](../by-program/owncloud.md) | None | — | 2 |
+| 264 | [153652](../reports/153652.md) | Redirect url after login is not validated | [Shopify](../by-program/shopify.md) | None | — | 2 |
+| 265 | [145306](../reports/145306.md) | Registeration Link "Jacking&Redirecting" | [Veris](../by-program/veris.md) | None | — | 1 |
+| 266 | [22142](../reports/22142.md) | Open Redirect in WordPress Feed Statistics {Affected All Versions | [Automattic](../by-program/automattic.md) | None | — | 1 |
+| 267 | [34084](../reports/34084.md) | Bad extended ascii handling in HTTP 301 redirects of t.co | [X / xAI](../by-program/x.md) | None | — | 1 |
+| 268 | [143265](../reports/143265.md) | Unvalidated redirect on user profile website | [Eternal](../by-program/eternal.md) | None | — | 1 |
+| 269 | [25160](../reports/25160.md) | Open redirection on secure.phabricator.com | [Phabricator](../by-program/phabricator.md) | None | — | 1 |
+| 270 | [2414](../reports/2414.md) | open redirect | [RelateIQ](../by-program/relateiq.md) | None | — | 1 |
+| 271 | [207431](../reports/207431.md) | One of yelp.com url is redirecting to domain which is not yet pur | [Yelp](../by-program/yelp.md) | None | — | 0 |
+| 272 | [128910](../reports/128910.md) | prevent %2f spoofed URLs in profile statement | [Gratipay](../by-program/gratipay.md) | None | — | 0 |

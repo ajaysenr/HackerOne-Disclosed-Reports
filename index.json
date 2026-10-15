@@ -242617,6 +242617,25 @@
     "votes": 12
   },
   {
+    "id": 3972760,
+    "url": "https://hackerone.com/reports/3972760",
+    "title": "Open redirect on app.hey.com bypasses HEY desktop's internal-origin allowlist and loads attacker content inside a HEY BrowserWindow",
+    "visibility": "full",
+    "program": "Basecamp",
+    "program_handle": "basecamp",
+    "reporter": "nasrysami",
+    "severity": "medium",
+    "cvss": 6.1,
+    "weakness": "Open Redirect",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "WILDCARD",
+    "reported_at": "2026-08-27",
+    "disclosed_at": "2026-10-15T18:00:06.635Z",
+    "votes": 5
+  },
+  {
     "id": 3973090,
     "url": "https://hackerone.com/reports/3973090",
     "title": "CVE-2026-82208: wolfSSL CA-cache hit overrides callback",

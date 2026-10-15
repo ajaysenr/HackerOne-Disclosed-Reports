@@ -1,4 +1,4 @@
-# Basecamp — Disclosed Reports (50 total)
+# Basecamp — Disclosed Reports (51 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -49,8 +49,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 43 | [1485788](../reports/1485788.md) | Improper Authentication via previous backup code login | Medium — CVSS 6.9 | — | 21 | [fuzzsqlb0f](https://hackerone.com/fuzzsqlb0f) | 2022-03-24 |
 | 44 | [1050656](../reports/1050656.md) | Bypass Tracking Blocker Protection Using Slashes Without Pro | Medium | — | 17 | [demonia](https://hackerone.com/demonia) | 2020-12-17 |
 | 45 | [1024880](../reports/1024880.md) | SSL expired subdomain leads to API swap with main and flagge | Medium | — | 15 | [babykeem](https://hackerone.com/babykeem) | 2020-12-03 |
-| 46 | [1241849](../reports/1241849.md) | Information Disclosure .htaccess accesible for public | Low | — | 76 | [aloneh1](https://hackerone.com/aloneh1) | 2021-07-18 |
-| 47 | [1253926](../reports/1253926.md) | Domain Takeover [3737signals.com] | Low | — | 47 | [mrmax4o4](https://hackerone.com/mrmax4o4) | 2021-08-13 |
-| 48 | [981796](../reports/981796.md) | Information Disclosure of Garbage Collection Cycle | Low | — | 33 | [ahmd_halabi](https://hackerone.com/ahmd_halabi) | 2020-11-04 |
-| 49 | [1307943](../reports/1307943.md) | Privilege Escalation leads to trash other users comment with | Low | — | 9 | [fuzzsqlb0f](https://hackerone.com/fuzzsqlb0f) | 2021-12-01 |
-| 50 | [1020371](../reports/1020371.md) | User can upload files even after closing his account | None | — | 122 | [h4x0r_dz](https://hackerone.com/h4x0r_dz) | 2021-03-29 |
+| 46 | [3972760](../reports/3972760.md) | Open redirect on app.hey.com bypasses HEY desktop's internal | Medium — CVSS 6.1 | — | 5 | [nasrysami](https://hackerone.com/nasrysami) | 2026-10-15 |
+| 47 | [1241849](../reports/1241849.md) | Information Disclosure .htaccess accesible for public | Low | — | 76 | [aloneh1](https://hackerone.com/aloneh1) | 2021-07-18 |
+| 48 | [1253926](../reports/1253926.md) | Domain Takeover [3737signals.com] | Low | — | 47 | [mrmax4o4](https://hackerone.com/mrmax4o4) | 2021-08-13 |
+| 49 | [981796](../reports/981796.md) | Information Disclosure of Garbage Collection Cycle | Low | — | 33 | [ahmd_halabi](https://hackerone.com/ahmd_halabi) | 2020-11-04 |
+| 50 | [1307943](../reports/1307943.md) | Privilege Escalation leads to trash other users comment with | Low | — | 9 | [fuzzsqlb0f](https://hackerone.com/fuzzsqlb0f) | 2021-12-01 |
+| 51 | [1020371](../reports/1020371.md) | User can upload files even after closing his account | None | — | 122 | [h4x0r_dz](https://hackerone.com/h4x0r_dz) | 2021-03-29 |
