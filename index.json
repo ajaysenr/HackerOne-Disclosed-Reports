@@ -242596,6 +242596,27 @@
     "votes": 0
   },
   {
+    "id": 3972558,
+    "url": "https://hackerone.com/reports/3972558",
+    "title": "Burp Suite OpenAPI Event Log HTML injection triggers Windows SMB authentication",
+    "visibility": "full",
+    "program": "PortSwigger Web Security",
+    "program_handle": "portswigger",
+    "reporter": "gankd",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": null,
+    "bounty": 1000.0,
+    "cve_ids": [
+      "CVE-2021-29416"
+    ],
+    "substate": "resolved",
+    "asset_type": "DOWNLOADABLE_EXECUTABLES",
+    "reported_at": "2026-08-27",
+    "disclosed_at": "2026-10-15T14:08:30.663Z",
+    "votes": 12
+  },
+  {
     "id": 3973090,
     "url": "https://hackerone.com/reports/3973090",
     "title": "CVE-2026-82208: wolfSSL CA-cache hit overrides callback",

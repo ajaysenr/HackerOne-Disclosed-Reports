@@ -12413,6 +12413,7 @@ https://hackerone.com/reports/3972373 | CVE-2026-87863: HSTS response erases per
 https://hackerone.com/reports/3972385 | CVE-2026-82209: domain-scoped PSL domain cookie
 https://hackerone.com/reports/3972395 | CVE-2026-80255: secure cookie attribute bypass with tab
 https://hackerone.com/reports/3972403 | CVE-2026-87864: IMAP APPEND plus CRLF conversion command injection
+https://hackerone.com/reports/3972558 | Burp Suite OpenAPI Event Log HTML injection triggers Windows SMB authentication
 https://hackerone.com/reports/3973090 | CVE-2026-82208: wolfSSL CA-cache hit overrides callback
 https://hackerone.com/reports/3973093 | 06: Incomplete fix for CVE-2026-7009: GCC/SecTrust builds silently discard stapled OCSP responses
 https://hackerone.com/reports/3973098 | 07: GnuTLS 0-RTT early data bypasses file-backed public-key pin verification
