@@ -242074,6 +242074,25 @@
     "votes": 1
   },
   {
+    "id": 3966599,
+    "url": "https://hackerone.com/reports/3966599",
+    "title": "Unauthenticated go-httpbin servers : Leads to Cookie Tossing on *.aws.dev and Open Redirect",
+    "visibility": "full",
+    "program": "AWS VDP",
+    "program_handle": "aws_vdp",
+    "reporter": "notnotnotveg",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Missing Authentication for Critical Function",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "OTHER",
+    "reported_at": "2026-08-24",
+    "disclosed_at": "2026-10-16T21:35:28.537Z",
+    "votes": 0
+  },
+  {
     "id": 3966955,
     "url": "https://hackerone.com/reports/3966955",
     "title": "TLS session cache case-folds CA paths and bypasses the active trust profile",

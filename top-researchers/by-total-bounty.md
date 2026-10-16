@@ -1894,7 +1894,7 @@
 | 1890 | [adilnbabras](https://hackerone.com/adilnbabras) | 4 | $0 | 227 |
 | 1891 | [louzogh](https://hackerone.com/louzogh) | 1 | $0 | 12 |
 | 1892 | [tinopreter](https://hackerone.com/tinopreter) | 4 | $0 | 397 |
-| 1893 | [notnotnotveg](https://hackerone.com/notnotnotveg) | 2 | $0 | 62 |
+| 1893 | [notnotnotveg](https://hackerone.com/notnotnotveg) | 3 | $0 | 62 |
 | 1894 | [akitech](https://hackerone.com/akitech) | 1 | $0 | 47 |
 | 1895 | [zerox4](https://hackerone.com/zerox4) | 2 | $0 | 119 |
 | 1896 | [heyoimjeb](https://hackerone.com/heyoimjeb) | 1 | $0 | 1 |

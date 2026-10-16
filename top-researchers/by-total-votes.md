@@ -1308,7 +1308,7 @@
 | 1304 | [amsda](https://hackerone.com/amsda) | 11 | $0 | 62 |
 | 1305 | [echidonut](https://hackerone.com/echidonut) | 2 | $0 | 62 |
 | 1306 | [d3addog](https://hackerone.com/d3addog) | 3 | $0 | 62 |
-| 1307 | [notnotnotveg](https://hackerone.com/notnotnotveg) | 2 | $0 | 62 |
+| 1307 | [notnotnotveg](https://hackerone.com/notnotnotveg) | 3 | $0 | 62 |
 | 1308 | [perxibes](https://hackerone.com/perxibes) | 1 | $100 | 62 |
 | 1309 | [spell1](https://hackerone.com/spell1) | 2 | $100 | 62 |
 | 1310 | [lotsofloops](https://hackerone.com/lotsofloops) | 1 | $500 | 62 |

@@ -12387,6 +12387,7 @@ https://hackerone.com/reports/3955945 | curl_share TOCTOU > RCE via Curl_llist _
 https://hackerone.com/reports/3963330 | libcurl Digest/NTLM authentication ignores an explicit Authorization header
 https://hackerone.com/reports/3963494 | RTSP CRLF injection in libcurl allows CURLOPT_RTSP_* values to inject commands into independent sessions
 https://hackerone.com/reports/3963725 | wolfSSL backend disables hostname verification when CURLOPT_SSL_VERIFYPEER is 0
+https://hackerone.com/reports/3966599 | Unauthenticated go-httpbin servers : Leads to Cookie Tossing on *.aws.dev and Open Redirect
 https://hackerone.com/reports/3966955 | TLS session cache case-folds CA paths and bypasses the active trust profile
 https://hackerone.com/reports/3968431 | ARG_CLEAR credential scrubbing wipes only UTF-8 copies on Windows Unicode builds
 https://hackerone.com/reports/3968729 | Unbound cross-peer HTTP Digest challenge state
