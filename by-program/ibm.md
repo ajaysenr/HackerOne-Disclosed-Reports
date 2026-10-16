@@ -1,4 +1,4 @@
-# IBM — Disclosed Reports (49 total)
+# IBM — Disclosed Reports (50 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -53,3 +53,4 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 47 | [2398335](../reports/2398335.md) | jazz.net - publicly accessible .svn repositories | None | — | 43 | [cyber_punk](https://hackerone.com/cyber_punk) | 2024-08-16 |
 | 48 | [3664261](../reports/3664261.md) | Reflected Cross-Site Scripting (XSS) found on IBM.com domain | None | — | 6 | [entrovyx](https://hackerone.com/entrovyx) | 2026-06-15 |
 | 49 | [3909372](../reports/3909372.md) | Unauthorized vertical privilege escalation vulnerability fou | None | — | 2 | [inventor0x01](https://hackerone.com/inventor0x01) | 2026-08-28 |
+| 50 | [3730301](../reports/3730301.md) | SQL Injection vulnerability found on IBM.com subdomain | None | — | 2 | [570rm_](https://hackerone.com/570rm_) | 2026-10-16 |

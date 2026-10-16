@@ -238087,6 +238087,25 @@
     "votes": 3
   },
   {
+    "id": 3730301,
+    "url": "https://hackerone.com/reports/3730301",
+    "title": "SQL Injection vulnerability found on IBM.com subdomain",
+    "visibility": "no-content",
+    "program": "IBM",
+    "program_handle": "ibm",
+    "reporter": "570rm_",
+    "severity": null,
+    "cvss": null,
+    "weakness": "SQL Injection",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "OTHER",
+    "reported_at": "2026-05-12",
+    "disclosed_at": "2026-10-16T15:44:06.335Z",
+    "votes": 2
+  },
+  {
     "id": 3733905,
     "url": "https://hackerone.com/reports/3733905",
     "title": "CVE-2026-8924: trailing dot domain super cookie",

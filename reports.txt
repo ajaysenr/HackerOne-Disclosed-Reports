@@ -12185,6 +12185,7 @@ https://hackerone.com/reports/3723458 | 1-Click Account Takeover via Open Redire
 https://hackerone.com/reports/3725659 | Kerberos/SPNEGO Connection Reuse Vulnerability
 https://hackerone.com/reports/3727743 | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-markdown>` marker tag
 https://hackerone.com/reports/3729501 | Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCHA bypass + no rate limit)
+https://hackerone.com/reports/3730301 | SQL Injection vulnerability found on IBM.com subdomain
 https://hackerone.com/reports/3733905 | CVE-2026-8924: trailing dot domain super cookie
 https://hackerone.com/reports/3733910 | CVE-2026-8932: incomplete mTLS config matching in conn reuse
 https://hackerone.com/reports/3733934 | CURLOPT_HSTS_CTRL disables shared HSTS without share guard — use-after-free and double-free
