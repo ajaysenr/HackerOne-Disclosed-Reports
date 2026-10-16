@@ -1,4 +1,4 @@
-# Weakness: Man-in-the-Middle (28 reports)
+# Weakness: Man-in-the-Middle (29 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -25,10 +25,11 @@
 | 19 | [764986](../reports/764986.md) | Man in the middle using LoadBalancer or ExternalIPs services | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 6.6 | — | 2 |
 | 20 | [1129529](../reports/1129529.md) | CVE-2021-22890: TLS 1.3 session ticket proxy host mixup | [curl](../by-program/curl.md) | Low | — | 7 |
 | 21 | [224287](../reports/224287.md) | Email verification over an unencrypted channel | [Weblate](../by-program/weblate.md) | Low | — | 4 |
-| 22 | [272231](../reports/272231.md) | Download of (later executed) .NET installer over insecure channel | [Brave Software](../by-program/brave.md) | Low | — | 1 |
-| 23 | [3148937](../reports/3148937.md) | `Curl_socketpair()` fallback vulnerable to man-in-the-middle atta | [curl](../by-program/curl.md) | None | — | 45 |
-| 24 | [340580](../reports/340580.md) | registry.nodejs.org Subdomain Takeover | [Node.js](../by-program/nodejs.md) | None | — | 35 |
-| 25 | [762883](../reports/762883.md) | Free food bug done by burp suite | [Eternal](../by-program/eternal.md) | None | — | 17 |
-| 26 | [504507](../reports/504507.md) | Domain does not Match SSL Certificate | [Urban Dictionary](../by-program/urbandictionary.md) | None | — | 11 |
-| 27 | [3917775](../reports/3917775.md) | curl Missing Sec-WebSocket-Accept Verification Enables MITM WebSo | [curl](../by-program/curl.md) | None | — | 3 |
-| 28 | [268113](../reports/268113.md) | Uncloaking hidden services and hidden service users | [Tor](../by-program/torproject.md) | None | — | 1 |
+| 22 | [4103651](../reports/4103651.md) | TFTP accepts a first response from an IP other than the requested | [curl](../by-program/curl.md) | Low | — | 3 |
+| 23 | [272231](../reports/272231.md) | Download of (later executed) .NET installer over insecure channel | [Brave Software](../by-program/brave.md) | Low | — | 1 |
+| 24 | [3148937](../reports/3148937.md) | `Curl_socketpair()` fallback vulnerable to man-in-the-middle atta | [curl](../by-program/curl.md) | None | — | 45 |
+| 25 | [340580](../reports/340580.md) | registry.nodejs.org Subdomain Takeover | [Node.js](../by-program/nodejs.md) | None | — | 35 |
+| 26 | [762883](../reports/762883.md) | Free food bug done by burp suite | [Eternal](../by-program/eternal.md) | None | — | 17 |
+| 27 | [504507](../reports/504507.md) | Domain does not Match SSL Certificate | [Urban Dictionary](../by-program/urbandictionary.md) | None | — | 11 |
+| 28 | [3917775](../reports/3917775.md) | curl Missing Sec-WebSocket-Accept Verification Enables MITM WebSo | [curl](../by-program/curl.md) | None | — | 3 |
+| 29 | [268113](../reports/268113.md) | Uncloaking hidden services and hidden service users | [Tor](../by-program/torproject.md) | None | — | 1 |

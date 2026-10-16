@@ -243679,6 +243679,25 @@
     "votes": 11
   },
   {
+    "id": 4028616,
+    "url": "https://hackerone.com/reports/4028616",
+    "title": "Memory exhaustion (DoS) via unbounded file read in `EncodingDiscovery.detect_encoding()`",
+    "visibility": "full",
+    "program": "Weblate",
+    "program_handle": "weblate",
+    "reporter": "sumit-sabhaya",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Uncontrolled Resource Consumption",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-14",
+    "disclosed_at": "2026-10-16T10:08:54.470Z",
+    "votes": 5
+  },
+  {
     "id": 4030333,
     "url": "https://hackerone.com/reports/4030333",
     "title": "CVE-2026-92392: HTTP/2 upload Use-After-Free",
@@ -244095,5 +244114,24 @@
     "reported_at": "2026-10-09",
     "disclosed_at": "2026-10-14T07:36:52.946Z",
     "votes": 1
+  },
+  {
+    "id": 4103651,
+    "url": "https://hackerone.com/reports/4103651",
+    "title": "TFTP accepts a first response from an IP other than the requested server",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "sushiikan",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Man-in-the-Middle",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-10",
+    "disclosed_at": "2026-10-16T07:25:36.541Z",
+    "votes": 3
   }
 ]

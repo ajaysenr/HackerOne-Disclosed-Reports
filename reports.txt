@@ -12467,6 +12467,7 @@ https://hackerone.com/reports/4024222 | CVE-2026-92391: curl_mime_free stack ove
 https://hackerone.com/reports/4024268 | Out-of-bounds read in curl_formadd when CURLFORM_NAMELENGTH is explicitly 0
 https://hackerone.com/reports/4025056 | HTTP/1.1 response framing violation and unsafe connection reuse when transfer decoding is disabled
 https://hackerone.com/reports/4027511 | Encoded slash traversal in the IPFS/IPNS URL rewrite escapes the configured gateway namespace
+https://hackerone.com/reports/4028616 | Memory exhaustion (DoS) via unbounded file read in `EncodingDiscovery.detect_encoding()`
 https://hackerone.com/reports/4030333 | CVE-2026-92392: HTTP/2 upload Use-After-Free
 https://hackerone.com/reports/4033108 | Retry-independent time-condition HTTP/2 UAF
 https://hackerone.com/reports/4033971 | Use-after-free of the internal multi->admin easy handle via the documented CURLMOPT_NOTIFYFUNCTION callback
@@ -12488,3 +12489,4 @@ https://hackerone.com/reports/4093443 | Cookie attribute truncation in curl drop
 https://hackerone.com/reports/4098761 | HTTP/1.1 connection reuse returns unsolicited server data as the next request's response (regression in 8.22.0)
 https://hackerone.com/reports/4099194 | CVE-2026-107928: info leak uploading over WebSockets with GnuTLS
 https://hackerone.com/reports/4099618 | CVE-2026-107929: local interface connection reuse mixup
+https://hackerone.com/reports/4103651 | TFTP accepts a first response from an IP other than the requested server
