@@ -12492,3 +12492,5 @@ https://hackerone.com/reports/4098761 | HTTP/1.1 connection reuse returns unsoli
 https://hackerone.com/reports/4099194 | CVE-2026-107928: info leak uploading over WebSockets with GnuTLS
 https://hackerone.com/reports/4099618 | CVE-2026-107929: local interface connection reuse mixup
 https://hackerone.com/reports/4103651 | TFTP accepts a first response from an IP other than the requested server
+https://hackerone.com/reports/4113412 | libcurl RTSP `CURLOPT_CRLF` conversion allows a request body to become a second RTSP request
+https://hackerone.com/reports/4114965 | Explicit NO_PROXY /0 CIDR rules fail to bypass HTTP proxy for IP-literal requests

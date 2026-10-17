@@ -244171,5 +244171,45 @@
     "reported_at": "2026-10-10",
     "disclosed_at": "2026-10-16T07:25:36.541Z",
     "votes": 3
+  },
+  {
+    "id": 4113412,
+    "url": "https://hackerone.com/reports/4113412",
+    "title": "libcurl RTSP `CURLOPT_CRLF` conversion allows a request body to become a second RTSP request",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "revolik",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Improper Input Validation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-87864"
+    ],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-14",
+    "disclosed_at": "2026-10-17T09:44:22.100Z",
+    "votes": 0
+  },
+  {
+    "id": 4114965,
+    "url": "https://hackerone.com/reports/4114965",
+    "title": "Explicit NO_PROXY /0 CIDR rules fail to bypass HTTP proxy for IP-literal requests",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "bootherr",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Information Exposure Through Sent Data",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-14",
+    "disclosed_at": "2026-10-17T09:44:04.431Z",
+    "votes": 0
   }
 ]
