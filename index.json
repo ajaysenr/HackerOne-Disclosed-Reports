@@ -244211,5 +244211,43 @@
     "reported_at": "2026-10-14",
     "disclosed_at": "2026-10-17T09:44:04.431Z",
     "votes": 0
+  },
+  {
+    "id": 4121675,
+    "url": "https://hackerone.com/reports/4121675",
+    "title": "CRLF injection in the RTSP request-line and Transport header via `CURLOPT_RTSP_STREAM_URI` and `CURLOPT_RTSP_TRANSPORT`",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "noraqiu",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "CRLF Injection",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-17",
+    "disclosed_at": "2026-10-18T10:54:35.547Z",
+    "votes": 0
+  },
+  {
+    "id": 4121689,
+    "url": "https://hackerone.com/reports/4121689",
+    "title": "CRLF injection in the HTTP request-line via `CURLOPT_REQUEST_TARGET` (`--request-target`)",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "noraqiu",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "CRLF Injection",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-17",
+    "disclosed_at": "2026-10-18T10:54:45.422Z",
+    "votes": 0
   }
 ]
