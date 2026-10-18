@@ -241688,6 +241688,25 @@
     "votes": 3
   },
   {
+    "id": 3913007,
+    "url": "https://hackerone.com/reports/3913007",
+    "title": "SMTP header injection via C-escape `\\r` in the recipient display name",
+    "visibility": "full",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "dogeshark",
+    "severity": "none",
+    "cvss": 0.0,
+    "weakness": "Buffer Over-read",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-03",
+    "disclosed_at": "2026-10-18T12:08:10.428Z",
+    "votes": 2
+  },
+  {
     "id": 3913012,
     "url": "https://hackerone.com/reports/3913012",
     "title": "Persistent SMTP header injection via identity `organization` / `name`",

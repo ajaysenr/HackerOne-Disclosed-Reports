@@ -1,4 +1,4 @@
-# Nextcloud — Disclosed Reports (607 total)
+# Nextcloud — Disclosed Reports (608 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -588,26 +588,27 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 582 | [145603](../reports/145603.md) | https://newsletter.nextcloud.com Directory listening and Inf | None | — | 3 | [mefkan](https://hackerone.com/mefkan) | 2016-06-18 |
 | 583 | [145430](../reports/145430.md) | help.nextcloud.com: Session Management Issue | None | — | 2 | [ahsan](https://hackerone.com/ahsan) | 2016-06-17 |
 | 584 | [145849](../reports/145849.md) | Content Injection 404 page | None | — | 2 | [testest](https://hackerone.com/testest) | 2016-06-19 |
-| 585 | [145854](../reports/145854.md) | Content Injection in subdomain | None | — | 2 | [testest](https://hackerone.com/testest) | 2016-06-19 |
-| 586 | [145552](../reports/145552.md) | Directory Listing On download.nextcloud.com & Practical Atta | None | — | 2 | [1337_inj3c70r](https://hackerone.com/1337_inj3c70r) | 2016-06-17 |
-| 587 | [161299](../reports/161299.md) | Content Injection - apps.nextcloud.com | None | — | 2 | [spodermen](https://hackerone.com/spodermen) | 2016-08-26 |
-| 588 | [164520](../reports/164520.md) | Reflected Self-XSS Vulnerability in the Comment section of F | None | — | 2 | [shivakumar143](https://hackerone.com/shivakumar143) | 2016-08-31 |
-| 589 | [374053](../reports/374053.md) | Accessing to download.nextcloud.com from original ip adreess | None | — | 2 | [bb00x](https://hackerone.com/bb00x) | 2018-07-12 |
-| 590 | [152925](../reports/152925.md) | Content spoofing in cloud.nextcloud.com | None | — | 2 | [ahsan](https://hackerone.com/ahsan) | 2016-08-30 |
-| 591 | [155690](../reports/155690.md) | Arbitrary File Upload in Logo & Log in image Theming setting | None | — | 2 | [bastianwelfrid](https://hackerone.com/bastianwelfrid) | 2016-10-05 |
-| 592 | [146314](../reports/146314.md) | Deny access to download.nextcloud.com + folders | None | — | 2 | [thearmfox](https://hackerone.com/thearmfox) | 2016-06-21 |
-| 593 | [199445](../reports/199445.md) | Nextcloud.com is vulnerable to SWEET32 attack | None | — | 2 | [pkkothawade](https://hackerone.com/pkkothawade) | 2017-01-25 |
-| 594 | [145463](../reports/145463.md) | Nextcloud server software: Content Spoofing | None | — | 2 | [ishahriyar](https://hackerone.com/ishahriyar) | 2016-07-19 |
-| 595 | [223759](../reports/223759.md) | information disclose | None | — | 2 | [abdul1ah](https://hackerone.com/abdul1ah) | 2017-04-25 |
-| 596 | [549831](../reports/549831.md) | External Storage - WebDAV - New user has access to storage f | None | — | 2 | [sanmue](https://hackerone.com/sanmue) | 2021-02-14 |
-| 597 | [145583](../reports/145583.md) | Lost Password CSRF | None | — | 2 | [mefkan](https://hackerone.com/mefkan) | 2016-06-19 |
-| 598 | [163823](../reports/163823.md) | Slow Http attack on nextcloud(DOS) | None | — | 1 | [dr-sera](https://hackerone.com/dr-sera) | 2016-10-05 |
-| 599 | [658011](../reports/658011.md) | Clickjacking on https://download.nextcloud.com | None | — | 1 | [bibek1](https://hackerone.com/bibek1) | 2019-11-11 |
-| 600 | [161323](../reports/161323.md) | Content Injection - demo.nextcloud.com | None | — | 1 | [spodermen](https://hackerone.com/spodermen) | 2016-08-26 |
-| 601 | [224108](../reports/224108.md) | Cross Site Scripting | None | — | 1 | [lulliii](https://hackerone.com/lulliii) | 2017-04-26 |
-| 602 | [177713](../reports/177713.md) | xss on demo.nextcloud.com due to outdated version | None | — | 1 | [bm666](https://hackerone.com/bm666) | 2016-11-26 |
-| 603 | [153251](../reports/153251.md) | [Nextcloud 9.0.53] Content Spoofing in 'trustDomain' paramet | None | — | 1 | [ahsan](https://hackerone.com/ahsan) | 2016-12-05 |
-| 604 | [156425](../reports/156425.md) | demo.nextcloud.com: Content spoofing due to default Apache E | None | — | 1 | [cutejoker](https://hackerone.com/cutejoker) | 2016-08-30 |
-| 605 | [662155](../reports/662155.md) | Clickjacking on https://download.nextcloud.com/ | None | — | 1 | [j4tayu](https://hackerone.com/j4tayu) | 2019-11-11 |
-| 606 | [661768](../reports/661768.md) | Clickjacking on https://nextcloud.com/ | None | — | 0 | [j4tayu](https://hackerone.com/j4tayu) | 2019-11-11 |
-| 607 | [380782](../reports/380782.md) | Ubuntu 12.04 Privilege Escalation | None | — | 0 | [ezk](https://hackerone.com/ezk) | 2018-12-18 |
+| 585 | [3913007](../reports/3913007.md) | SMTP header injection via C-escape `\r` in the recipient dis | None | — | 2 | [dogeshark](https://hackerone.com/dogeshark) | 2026-10-18 |
+| 586 | [145854](../reports/145854.md) | Content Injection in subdomain | None | — | 2 | [testest](https://hackerone.com/testest) | 2016-06-19 |
+| 587 | [145552](../reports/145552.md) | Directory Listing On download.nextcloud.com & Practical Atta | None | — | 2 | [1337_inj3c70r](https://hackerone.com/1337_inj3c70r) | 2016-06-17 |
+| 588 | [161299](../reports/161299.md) | Content Injection - apps.nextcloud.com | None | — | 2 | [spodermen](https://hackerone.com/spodermen) | 2016-08-26 |
+| 589 | [164520](../reports/164520.md) | Reflected Self-XSS Vulnerability in the Comment section of F | None | — | 2 | [shivakumar143](https://hackerone.com/shivakumar143) | 2016-08-31 |
+| 590 | [374053](../reports/374053.md) | Accessing to download.nextcloud.com from original ip adreess | None | — | 2 | [bb00x](https://hackerone.com/bb00x) | 2018-07-12 |
+| 591 | [152925](../reports/152925.md) | Content spoofing in cloud.nextcloud.com | None | — | 2 | [ahsan](https://hackerone.com/ahsan) | 2016-08-30 |
+| 592 | [155690](../reports/155690.md) | Arbitrary File Upload in Logo & Log in image Theming setting | None | — | 2 | [bastianwelfrid](https://hackerone.com/bastianwelfrid) | 2016-10-05 |
+| 593 | [146314](../reports/146314.md) | Deny access to download.nextcloud.com + folders | None | — | 2 | [thearmfox](https://hackerone.com/thearmfox) | 2016-06-21 |
+| 594 | [199445](../reports/199445.md) | Nextcloud.com is vulnerable to SWEET32 attack | None | — | 2 | [pkkothawade](https://hackerone.com/pkkothawade) | 2017-01-25 |
+| 595 | [145463](../reports/145463.md) | Nextcloud server software: Content Spoofing | None | — | 2 | [ishahriyar](https://hackerone.com/ishahriyar) | 2016-07-19 |
+| 596 | [223759](../reports/223759.md) | information disclose | None | — | 2 | [abdul1ah](https://hackerone.com/abdul1ah) | 2017-04-25 |
+| 597 | [549831](../reports/549831.md) | External Storage - WebDAV - New user has access to storage f | None | — | 2 | [sanmue](https://hackerone.com/sanmue) | 2021-02-14 |
+| 598 | [145583](../reports/145583.md) | Lost Password CSRF | None | — | 2 | [mefkan](https://hackerone.com/mefkan) | 2016-06-19 |
+| 599 | [163823](../reports/163823.md) | Slow Http attack on nextcloud(DOS) | None | — | 1 | [dr-sera](https://hackerone.com/dr-sera) | 2016-10-05 |
+| 600 | [658011](../reports/658011.md) | Clickjacking on https://download.nextcloud.com | None | — | 1 | [bibek1](https://hackerone.com/bibek1) | 2019-11-11 |
+| 601 | [161323](../reports/161323.md) | Content Injection - demo.nextcloud.com | None | — | 1 | [spodermen](https://hackerone.com/spodermen) | 2016-08-26 |
+| 602 | [224108](../reports/224108.md) | Cross Site Scripting | None | — | 1 | [lulliii](https://hackerone.com/lulliii) | 2017-04-26 |
+| 603 | [177713](../reports/177713.md) | xss on demo.nextcloud.com due to outdated version | None | — | 1 | [bm666](https://hackerone.com/bm666) | 2016-11-26 |
+| 604 | [153251](../reports/153251.md) | [Nextcloud 9.0.53] Content Spoofing in 'trustDomain' paramet | None | — | 1 | [ahsan](https://hackerone.com/ahsan) | 2016-12-05 |
+| 605 | [156425](../reports/156425.md) | demo.nextcloud.com: Content spoofing due to default Apache E | None | — | 1 | [cutejoker](https://hackerone.com/cutejoker) | 2016-08-30 |
+| 606 | [662155](../reports/662155.md) | Clickjacking on https://download.nextcloud.com/ | None | — | 1 | [j4tayu](https://hackerone.com/j4tayu) | 2019-11-11 |
+| 607 | [661768](../reports/661768.md) | Clickjacking on https://nextcloud.com/ | None | — | 0 | [j4tayu](https://hackerone.com/j4tayu) | 2019-11-11 |
+| 608 | [380782](../reports/380782.md) | Ubuntu 12.04 Privilege Escalation | None | — | 0 | [ezk](https://hackerone.com/ezk) | 2018-12-18 |

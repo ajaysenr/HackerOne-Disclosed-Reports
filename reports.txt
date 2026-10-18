@@ -12367,6 +12367,7 @@ https://hackerone.com/reports/3909372 | Unauthorized vertical privilege escalati
 https://hackerone.com/reports/3910393 | Stack Buffer Overflow in MariaDB CONNECT storage engine when reading DOUBLE columns from TABLE_TYPE=DOS tables
 https://hackerone.com/reports/3911605 | SMTP CRLF injection in custom SMTP recipient operand allows additional SMTP commands after authentication
 https://hackerone.com/reports/3911968 | Heap use-after-free (write) in mev_forget_socket() via reentrant curl_easy_pause() — incomplete fix for CVE-2026-9080
+https://hackerone.com/reports/3913007 | SMTP header injection via C-escape `\r` in the recipient display name
 https://hackerone.com/reports/3913012 | Persistent SMTP header injection via identity `organization` / `name`
 https://hackerone.com/reports/3915935 | Heap Use-After-Free in Materialized_cursor::open via SYS_REFCURSOR Array Reallocation
 https://hackerone.com/reports/3916059 | CVE-2026-18924: HTTP/2 server push UAF
