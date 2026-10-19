@@ -12478,6 +12478,7 @@ https://hackerone.com/reports/4040551 | CVE-2026-94265: Authorization: Negotiate
 https://hackerone.com/reports/4040799 | Windows filename sanitizer misses Unicode COM/LPT reserved device names
 https://hackerone.com/reports/4041053 | CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL
 https://hackerone.com/reports/4053066 | Missing applicability validation allows non-applicable HTTPS RR to reach ECH processing
+https://hackerone.com/reports/4053116 | curl CONNECT response header colon-check bypass in cf-h1-proxy single_header — proxy authentication bypass via injected HTTP/1.x status line
 https://hackerone.com/reports/4053546 | Information Disclosure - Unauthen Leak Private Content
 https://hackerone.com/reports/4057637 | [HIGH] CWE-22 — Path Traversal in FTP Wildcard Download via Unencoded `.` in Escaped Filenames
 https://hackerone.com/reports/4059104 | IMAP literal size truncation on 32-bit platforms corrupts downloads and desynchronizes the response parser
@@ -12493,7 +12494,13 @@ https://hackerone.com/reports/4098761 | HTTP/1.1 connection reuse returns unsoli
 https://hackerone.com/reports/4099194 | CVE-2026-107928: info leak uploading over WebSockets with GnuTLS
 https://hackerone.com/reports/4099618 | CVE-2026-107929: local interface connection reuse mixup
 https://hackerone.com/reports/4103651 | TFTP accepts a first response from an IP other than the requested server
+https://hackerone.com/reports/4105853 | libcurl TLS shorter-retry mismatch discloses client heap memory during cancelled IMAPS upload
 https://hackerone.com/reports/4113412 | libcurl RTSP `CURLOPT_CRLF` conversion allows a request body to become a second RTSP request
 https://hackerone.com/reports/4114965 | Explicit NO_PROXY /0 CIDR rules fail to bypass HTTP proxy for IP-literal requests
 https://hackerone.com/reports/4121675 | CRLF injection in the RTSP request-line and Transport header via `CURLOPT_RTSP_STREAM_URI` and `CURLOPT_RTSP_TRANSPORT`
+https://hackerone.com/reports/4121685 | curl RTSP connection reuse routes response headers to the RTP callback (rtsp_conn state machine not reset between sessions)
 https://hackerone.com/reports/4121689 | CRLF injection in the HTTP request-line via `CURLOPT_REQUEST_TARGET` (`--request-target`)
+https://hackerone.com/reports/4122039 | libcurl shared-HSTS-cache race leads to use-after-free with attacker-controlled function-pointer call
+https://hackerone.com/reports/4123654 | SCP upload with --crlf sends more bytes than the size declared to the server (same class curl refused for IMAP CVE-2026-87864 and RTSP)
+https://hackerone.com/reports/4124486 | RTSP ANNOUNCE/SET_PARAMETER upload with --use-ascii / CURLOPT_TRANSFERTEXT sends more body bytes than the declared Content-Length (incomplete fix of e
+https://hackerone.com/reports/4127756 | urlapi: CURLUPART_HOST accepts text after an IPv6 zone ip and URL round trip changes the host

@@ -32,8 +32,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 26 | [2276148](../reports/2276148.md) | The role "CI-driven scan initiator" provides excessive read  | Low | — | 28 | [osama-hamad](https://hackerone.com/osama-hamad) | 2026-01-02 |
 | 27 | [694749](../reports/694749.md) | Clicking "http://burp" hyperlink on FireFox CA Installation  | Low | — | 22 | [intelcorgi](https://hackerone.com/intelcorgi) | 2019-09-16 |
 | 28 | [1385844](../reports/1385844.md) | Information disclosure on error message | Low | — | 18 | [cometome780](https://hackerone.com/cometome780) | 2021-11-15 |
-| 29 | [186862](../reports/186862.md) | Order-phishing via Payment ID URL | Low | — | 6 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2016-11-30 |
-| 30 | [191220](../reports/191220.md) | HTTP OPTION Method is Enabled on portswigger.net  | Low | — | 6 | [wragg-s](https://hackerone.com/wragg-s) | 2016-12-27 |
+| 29 | [191220](../reports/191220.md) | HTTP OPTION Method is Enabled on portswigger.net  | Low | — | 6 | [wragg-s](https://hackerone.com/wragg-s) | 2016-12-27 |
+| 30 | [186862](../reports/186862.md) | Order-phishing via Payment ID URL | Low | — | 6 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2016-11-30 |
 | 31 | [206359](../reports/206359.md) |  Email Spoofing | Low | — | 3 | [dhamu007](https://hackerone.com/dhamu007) | 2017-02-14 |
 | 32 | [294891](../reports/294891.md) | Improper Certificate Validation | Low — CVSS 2.6 | — | 0 | [srssingh](https://hackerone.com/srssingh) | 2018-01-02 |
 | 33 | [2461737](../reports/2461737.md) | Incorrect logic when buy one more license which may lead to  | None | — | 60 | [liru](https://hackerone.com/liru) | 2024-04-16 |
@@ -42,5 +42,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 36 | [3717354](../reports/3717354.md) | UI Consent Bypass via Comma Injection in `addAutoApproveTarg | None | — | 12 | [hacker-kartel](https://hackerone.com/hacker-kartel) | 2026-06-15 |
 | 37 | [1337425](../reports/1337425.md) | No Rate Limit On Regenerate Password on Portswigger | None | — | 11 | [thespiritman](https://hackerone.com/thespiritman) | 2021-09-13 |
 | 38 | [366129](../reports/366129.md) | Activat burp suite pro with the old license after transfared | None | — | 6 | [egyptghost1](https://hackerone.com/egyptghost1) | 2018-07-19 |
-| 39 | [400785](../reports/400785.md) | Browser Self XSS Protection not implemented | None | — | 5 | [allenaleen](https://hackerone.com/allenaleen) | 2018-09-26 |
-| 40 | [228873](../reports/228873.md) | Misconfiguration: Missing Custom Error Page (CWE-12 & CWE-75 | None | — | 5 | [siyadlbug](https://hackerone.com/siyadlbug) | 2017-05-16 |
+| 39 | [228873](../reports/228873.md) | Misconfiguration: Missing Custom Error Page (CWE-12 & CWE-75 | None | — | 5 | [siyadlbug](https://hackerone.com/siyadlbug) | 2017-05-16 |
+| 40 | [400785](../reports/400785.md) | Browser Self XSS Protection not implemented | None | — | 5 | [allenaleen](https://hackerone.com/allenaleen) | 2018-09-26 |
