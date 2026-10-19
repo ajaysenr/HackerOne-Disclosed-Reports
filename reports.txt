@@ -11981,6 +11981,7 @@ https://hackerone.com/reports/3542546 | Server-side ReDoS via user-controlled re
 https://hackerone.com/reports/3543475 | Improper Access Control in `fizzy.do` import flow allows cross-tenant ActionText reference resolution and data disclosure
 https://hackerone.com/reports/3546390 | Assertion error in node_url.cc via malformed URL format leads to Node.js crash
 https://hackerone.com/reports/3547349 | Inverted ternary in peerlist_manager::filter() allows unlimited whitelist entries per host via different ports
+https://hackerone.com/reports/3547607 | IBC2 Entry Points Skip SetupContractCost - Systematic Gas Underpricing
 https://hackerone.com/reports/3553340 | Active Storage Vips Transformer Missing validate_transformation — CVE-2025-24293 Incomplete Fix
 https://hackerone.com/reports/3556769 | Incomplete fix for CVE-2026-21637: loadSNI() in _tls_wrap.js lacks try/catch leading to Remote DoS
 https://hackerone.com/reports/3556892 | HTML Injection in DAST Trial Request Form Confirmation Email – PortSwigger
@@ -12502,5 +12503,7 @@ https://hackerone.com/reports/4121685 | curl RTSP connection reuse routes respon
 https://hackerone.com/reports/4121689 | CRLF injection in the HTTP request-line via `CURLOPT_REQUEST_TARGET` (`--request-target`)
 https://hackerone.com/reports/4122039 | libcurl shared-HSTS-cache race leads to use-after-free with attacker-controlled function-pointer call
 https://hackerone.com/reports/4123654 | SCP upload with --crlf sends more bytes than the size declared to the server (same class curl refused for IMAP CVE-2026-87864 and RTSP)
+https://hackerone.com/reports/4123749 | WebSocket decoder use-after-free when curl_easy_pause() unpauses from a debug callback
 https://hackerone.com/reports/4124486 | RTSP ANNOUNCE/SET_PARAMETER upload with --use-ascii / CURLOPT_TRANSFERTEXT sends more body bytes than the declared Content-Length (incomplete fix of e
+https://hackerone.com/reports/4126768 | SSH host-key policy is missing from the connection-reuse tuple: strict pins and knownhosts are silently skipped on reused SFTP/SCP connections
 https://hackerone.com/reports/4127756 | urlapi: CURLUPART_HOST accepts text after an IPv6 zone ip and URL round trip changes the host

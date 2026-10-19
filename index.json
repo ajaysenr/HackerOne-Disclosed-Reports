@@ -234060,6 +234060,25 @@
     "votes": 4
   },
   {
+    "id": 3547607,
+    "url": "https://hackerone.com/reports/3547607",
+    "title": "IBC2 Entry Points Skip SetupContractCost - Systematic Gas Underpricing",
+    "visibility": "no-content",
+    "program": "Cosmos",
+    "program_handle": "cosmos",
+    "reporter": "7tecra7",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Uncontrolled Resource Consumption",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "duplicate",
+    "asset_type": "OTHER",
+    "reported_at": "2026-02-10",
+    "disclosed_at": "2026-10-19T17:18:34.331Z",
+    "votes": 1
+  },
+  {
     "id": 3553340,
     "url": "https://hackerone.com/reports/3553340",
     "title": "Active Storage Vips Transformer Missing validate_transformation \u2014 CVE-2025-24293 Incomplete Fix",
@@ -244367,6 +244386,25 @@
     "votes": 0
   },
   {
+    "id": 4123749,
+    "url": "https://hackerone.com/reports/4123749",
+    "title": "WebSocket decoder use-after-free when curl_easy_pause() unpauses from a debug callback",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "rat5ak",
+    "severity": "none",
+    "cvss": null,
+    "weakness": "Use After Free",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-18",
+    "disclosed_at": "2026-10-19T19:45:31.714Z",
+    "votes": 1
+  },
+  {
     "id": 4124486,
     "url": "https://hackerone.com/reports/4124486",
     "title": "RTSP ANNOUNCE/SET_PARAMETER upload with --use-ascii / CURLOPT_TRANSFERTEXT sends more body bytes than the declared Content-Length (incomplete fix of e",
@@ -244385,6 +244423,27 @@
     "asset_type": "SOURCE_CODE",
     "reported_at": "2026-10-18",
     "disclosed_at": "2026-10-19T09:13:51.754Z",
+    "votes": 1
+  },
+  {
+    "id": 4126768,
+    "url": "https://hackerone.com/reports/4126768",
+    "title": "SSH host-key policy is missing from the connection-reuse tuple: strict pins and knownhosts are silently skipped on reused SFTP/SCP connections",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "cyrax21_",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Authentication Bypass by Primary Weakness",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2022-27782"
+    ],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-19",
+    "disclosed_at": "2026-10-19T19:45:20.980Z",
     "votes": 1
   },
   {

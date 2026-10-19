@@ -15,14 +15,14 @@
 | 9 | [3583983](../reports/3583983.md) | CVE-2026-3783: token leak with redirect and netrc | [curl](../by-program/curl.md) | Medium | — | 25 |
 | 10 | [3677759](../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | [curl](../by-program/curl.md) | Medium | — | 15 |
 | 11 | [1553301](../reports/1553301.md) | CVE-2022-27779: cookie for trailing dot TLD | [curl](../by-program/curl.md) | Medium | — | 5 |
-| 12 | [3776535](../reports/3776535.md) | RTSP Digest auth state leaks across origins on reused libcurl eas | [curl](../by-program/curl.md) | Medium | — | 4 |
-| 13 | [3920276](../reports/3920276.md) | Cookie jar load skips public suffix check on PSL builds | [curl](../by-program/curl.md) | Medium | — | 4 |
+| 12 | [3920276](../reports/3920276.md) | Cookie jar load skips public suffix check on PSL builds | [curl](../by-program/curl.md) | Medium | — | 4 |
+| 13 | [3776535](../reports/3776535.md) | RTSP Digest auth state leaks across origins on reused libcurl eas | [curl](../by-program/curl.md) | Medium | — | 4 |
 | 14 | [3776433](../reports/3776433.md) | TFTP upload ignores --continue-at / CURLOPT_RESUME_FROM and leaks | [curl](../by-program/curl.md) | Medium | — | 3 |
 | 15 | [3793260](../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | [curl](../by-program/curl.md) | Medium | — | 1 |
 | 16 | [3211973](../reports/3211973.md) | Credential leak on redirect due to improper state clearing when p | [curl](../by-program/curl.md) | Low | — | 41 |
 | 17 | [3673277](../reports/3673277.md) | libcurl stale CURLOPT_AUTOREFERER leaks a previous request URL to | [curl](../by-program/curl.md) | Low | — | 22 |
-| 18 | [3769293](../reports/3769293.md) | Low priority HSTS bypass in curl_easy_duphandle() | [curl](../by-program/curl.md) | Low | — | 1 |
-| 19 | [4093443](../reports/4093443.md) |  Cookie attribute truncation in curl drops Secure/HttpOnly protec | [curl](../by-program/curl.md) | Low | — | 1 |
+| 18 | [4093443](../reports/4093443.md) |  Cookie attribute truncation in curl drops Secure/HttpOnly protec | [curl](../by-program/curl.md) | Low | — | 1 |
+| 19 | [3769293](../reports/3769293.md) | Low priority HSTS bypass in curl_easy_duphandle() | [curl](../by-program/curl.md) | Low | — | 1 |
 | 20 | [4071872](../reports/4071872.md) | libcurl: Secure=1 cookie flag bypasses the 8.22.0 fix and leaks o | [curl](../by-program/curl.md) | Low | — | 1 |
 | 21 | [4114965](../reports/4114965.md) | Explicit NO_PROXY /0 CIDR rules fail to bypass HTTP proxy for IP- | [curl](../by-program/curl.md) | Low | — | 0 |
 | 22 | [2979176](../reports/2979176.md) | Unauthenticated API Access Exposing Premium Content and Financial | [XVIDEOS](../by-program/xvideos.md) | None | — | 46 |

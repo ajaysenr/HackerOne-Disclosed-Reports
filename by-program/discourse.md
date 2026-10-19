@@ -19,8 +19,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 13 | [3058919](../reports/3058919.md) | Application Level DoS - Large Markdown Payload in Reply Sect | High — CVSS 7.5 | — | 82 | [theteatoast](https://hackerone.com/theteatoast) | 2025-10-18 |
 | 14 | [191890](../reports/191890.md) | DOM Based XSS in Discourse Search | High | — | 29 | [khizer47](https://hackerone.com/khizer47) | 2017-01-10 |
 | 15 | [197443](../reports/197443.md) | XSS in topics because of bandcamp preview engine vulnerabili | High | — | 15 | [skavans](https://hackerone.com/skavans) | 2017-01-20 |
-| 16 | [197914](../reports/197914.md) | Stored XSS in posts because of absence of oembed variables v | High | — | 13 | [skavans](https://hackerone.com/skavans) | 2017-01-20 |
-| 17 | [197902](../reports/197902.md) | Stored XSS in topics because of whitelisted_generic engine v | High | — | 13 | [skavans](https://hackerone.com/skavans) | 2017-01-20 |
+| 16 | [197902](../reports/197902.md) | Stored XSS in topics because of whitelisted_generic engine v | High | — | 13 | [skavans](https://hackerone.com/skavans) | 2017-01-20 |
+| 17 | [197914](../reports/197914.md) | Stored XSS in posts because of absence of oembed variables v | High | — | 13 | [skavans](https://hackerone.com/skavans) | 2017-01-20 |
 | 18 | [3689633](../reports/3689633.md) | Hidden/restricted tags can be mutated through synonym ID pat | Medium — CVSS 4.3 | — | 14 | [ahpuh](https://hackerone.com/ahpuh) | 2026-08-26 |
 | 19 | [192611](../reports/192611.md) | Users can bookmark other user's messages | Medium | — | 7 | [strukt](https://hackerone.com/strukt) | 2017-01-10 |
 | 20 | [260697](../reports/260697.md) | CSRF-tokens on pages without no-cache headers, resulting in  | Low | — | 56 | [fransrosen](https://hackerone.com/fransrosen) | 2018-08-08 |
