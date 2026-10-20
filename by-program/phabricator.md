@@ -24,9 +24,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 18 | [809](../reports/809.md) | Improperly implemented password recovery link functionality | None | $300 | 14 | [dawidczagan](https://hackerone.com/dawidczagan) | 2014-02-27 |
 | 19 | [1563139](../reports/1563139.md) | Global default settings page is accessible to non-administra | None | $300 | 10 | [dyls](https://hackerone.com/dyls) | 2022-05-09 |
 | 20 | [1566325](../reports/1566325.md) | Conduit feed.publish API allows you to spoof other users or  | None | $300 | 9 | [dyls](https://hackerone.com/dyls) | 2022-05-18 |
-| 21 | [186352](../reports/186352.md) | Fetching binaries (for software installation) over HTTP with | None | $300 | 8 | [e3amn2l](https://hackerone.com/e3amn2l) | 2016-12-29 |
+| 21 | [4114](../reports/4114.md) | Persistent XSS: Editor link | None | $300 | 8 | [tomvg](https://hackerone.com/tomvg) | 2014-04-16 |
 | 22 | [3921](../reports/3921.md) | Control character allowed in username | None | $300 | 8 | [dawidczagan](https://hackerone.com/dawidczagan) | 2014-04-12 |
-| 23 | [4114](../reports/4114.md) | Persistent XSS: Editor link | None | $300 | 8 | [tomvg](https://hackerone.com/tomvg) | 2014-04-16 |
+| 23 | [186352](../reports/186352.md) | Fetching binaries (for software installation) over HTTP with | None | $300 | 8 | [e3amn2l](https://hackerone.com/e3amn2l) | 2016-12-29 |
 | 24 | [435648](../reports/435648.md) | TOTP Key is shorter than RFC 4226 recommended minimum | None | $300 | 7 | [insufficiententropy](https://hackerone.com/insufficiententropy) | 2018-12-07 |
 | 25 | [3356](../reports/3356.md) | UnAuthorized Editorial Publishing to Blogs | None | $300 | 7 | [mlitchfield](https://hackerone.com/mlitchfield) | 2014-04-05 |
 | 26 | [1584409](../reports/1584409.md) | Deprecated owners.query API bypasses object view policy | None | $300 | 7 | [dyls](https://hackerone.com/dyls) | 2022-05-31 |
@@ -53,27 +53,27 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 47 | [2228](../reports/2228.md) | Login CSRF using Twitter OAuth | None | — | 13 | [mathias](https://hackerone.com/mathias) | 2014-03-26 |
 | 48 | [148865](../reports/148865.md) | HTML in Diffusion not escaped in certain circumstances | None | — | 12 | [danny_b](https://hackerone.com/danny_b) | 2016-08-01 |
 | 49 | [23363](../reports/23363.md) | Forgot Password Issue | None | — | 8 | [xtross1](https://hackerone.com/xtross1) | 2014-09-10 |
-| 50 | [203614](../reports/203614.md) | Enumerating emails through "Forgot Password" form | None | — | 5 | [denispugachev](https://hackerone.com/denispugachev) | 2017-02-06 |
-| 51 | [28792](../reports/28792.md) | Content Spoofing through URL | None | — | 5 | [shahmeer-amir](https://hackerone.com/shahmeer-amir) | 2014-09-20 |
-| 52 | [1563142](../reports/1563142.md) | Slowvote and Countdown can cause Denial of Service due to re | None | — | 5 | [dyls](https://hackerone.com/dyls) | 2022-05-09 |
+| 50 | [1563142](../reports/1563142.md) | Slowvote and Countdown can cause Denial of Service due to re | None | — | 5 | [dyls](https://hackerone.com/dyls) | 2022-05-09 |
+| 51 | [203614](../reports/203614.md) | Enumerating emails through "Forgot Password" form | None | — | 5 | [denispugachev](https://hackerone.com/denispugachev) | 2017-02-06 |
+| 52 | [28792](../reports/28792.md) | Content Spoofing through URL | None | — | 5 | [shahmeer-amir](https://hackerone.com/shahmeer-amir) | 2014-09-20 |
 | 53 | [156196](../reports/156196.md) | Error page Text Injection. | None | — | 4 | [akshay_raj](https://hackerone.com/akshay_raj) | 2016-08-25 |
 | 54 | [22858](../reports/22858.md) | Password Reset Links Not Expiring | None | — | 4 | [andi_r](https://hackerone.com/andi_r) | 2014-09-06 |
-| 55 | [139965](../reports/139965.md) | No authentication required to add an email address. | None | — | 3 | [apok](https://hackerone.com/apok) | 2016-05-27 |
-| 56 | [26758](../reports/26758.md) | Password Policy issue | None | — | 3 | [shahmeer-amir](https://hackerone.com/shahmeer-amir) | 2014-10-02 |
+| 55 | [50537](../reports/50537.md) | Server Side Request Forgery in macro creation | None | — | 3 | [haquaman](https://hackerone.com/haquaman) | 2015-03-09 |
+| 56 | [27564](../reports/27564.md) | Content spoofing | None | — | 3 | [djadmin](https://hackerone.com/djadmin) | 2014-09-11 |
 | 57 | [220909](../reports/220909.md) | Autoclose can close any task regardless of policies/spaces | None | — | 3 | [almanac](https://hackerone.com/almanac) | 2017-04-24 |
 | 58 | [203658](../reports/203658.md) | Restricted file access when it exists in old versions of tas | None | — | 3 | [denispugachev](https://hackerone.com/denispugachev) | 2017-02-06 |
 | 59 | [164483](../reports/164483.md) | link reset problem | None | — | 3 | [pradeepsmehta](https://hackerone.com/pradeepsmehta) | 2016-08-30 |
-| 60 | [50537](../reports/50537.md) | Server Side Request Forgery in macro creation | None | — | 3 | [haquaman](https://hackerone.com/haquaman) | 2015-03-09 |
+| 60 | [26758](../reports/26758.md) | Password Policy issue | None | — | 3 | [shahmeer-amir](https://hackerone.com/shahmeer-amir) | 2014-10-02 |
 | 61 | [21064](../reports/21064.md) | Back - Refresh - Attack To  Obtain User Credentials | None | — | 3 | [xtross1](https://hackerone.com/xtross1) | 2014-07-23 |
-| 62 | [27564](../reports/27564.md) | Content spoofing | None | — | 3 | [djadmin](https://hackerone.com/djadmin) | 2014-09-11 |
-| 63 | [86022](../reports/86022.md) | Multiple so called  'type juggling' attacks. Most notably Ph | None | — | 2 | [superkritisch](https://hackerone.com/superkritisch) | 2015-10-01 |
-| 64 | [36112](../reports/36112.md) | Content injection  | None | — | 2 | [not_hackerone_hacker](https://hackerone.com/not_hackerone_hacker) | 2014-12-15 |
-| 65 | [52822](../reports/52822.md) | XSS with Time-of-Day Format | None | — | 2 | [candux](https://hackerone.com/candux) | 2015-04-19 |
+| 62 | [139965](../reports/139965.md) | No authentication required to add an email address. | None | — | 3 | [apok](https://hackerone.com/apok) | 2016-05-27 |
+| 63 | [36112](../reports/36112.md) | Content injection  | None | — | 2 | [not_hackerone_hacker](https://hackerone.com/not_hackerone_hacker) | 2014-12-15 |
+| 64 | [52822](../reports/52822.md) | XSS with Time-of-Day Format | None | — | 2 | [candux](https://hackerone.com/candux) | 2015-04-19 |
+| 65 | [2857](../reports/2857.md) | CSRF token valid even after the session logout of a particul | None | — | 2 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-06-26 |
 | 66 | [139626](../reports/139626.md) | Passphrase credential lock bypass | None | — | 2 | [vorpal](https://hackerone.com/vorpal) | 2016-05-18 |
-| 67 | [2857](../reports/2857.md) | CSRF token valid even after the session logout of a particul | None | — | 2 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-06-26 |
-| 68 | [85011](../reports/85011.md) | Dashboard panel embedded onto itself causes a denial of serv | None | — | 1 | [jbeta](https://hackerone.com/jbeta) | 2015-08-27 |
-| 69 | [25160](../reports/25160.md) | Open redirection on secure.phabricator.com | None | — | 1 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-09-17 |
+| 67 | [86022](../reports/86022.md) | Multiple so called  'type juggling' attacks. Most notably Ph | None | — | 2 | [superkritisch](https://hackerone.com/superkritisch) | 2015-10-01 |
+| 68 | [25160](../reports/25160.md) | Open redirection on secure.phabricator.com | None | — | 1 | [anandpingsafe](https://hackerone.com/anandpingsafe) | 2014-09-17 |
+| 69 | [143575](../reports/143575.md) | Full path disclosure | None | — | 1 | [fnqgpc](https://hackerone.com/fnqgpc) | 2016-06-08 |
 | 70 | [88395](../reports/88395.md) | Information leakage through Graphviz blocks | None | — | 1 | [jbeta](https://hackerone.com/jbeta) | 2015-09-13 |
-| 71 | [143575](../reports/143575.md) | Full path disclosure | None | — | 1 | [fnqgpc](https://hackerone.com/fnqgpc) | 2016-06-08 |
-| 72 | [109959](../reports/109959.md) | Extended policy checks are buggy | None | — | 0 | [fnqgpc](https://hackerone.com/fnqgpc) | 2016-01-11 |
-| 73 | [105657](../reports/105657.md) | libphutil: removing bytes from a PhutilRope does not work as | None | — | 0 | [fnqgpc](https://hackerone.com/fnqgpc) | 2015-12-16 |
+| 71 | [85011](../reports/85011.md) | Dashboard panel embedded onto itself causes a denial of serv | None | — | 1 | [jbeta](https://hackerone.com/jbeta) | 2015-08-27 |
+| 72 | [105657](../reports/105657.md) | libphutil: removing bytes from a PhutilRope does not work as | None | — | 0 | [fnqgpc](https://hackerone.com/fnqgpc) | 2015-12-16 |
+| 73 | [109959](../reports/109959.md) | Extended policy checks are buggy | None | — | 0 | [fnqgpc](https://hackerone.com/fnqgpc) | 2016-01-11 |

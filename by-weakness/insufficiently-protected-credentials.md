@@ -25,22 +25,22 @@
 | 19 | [329798](../reports/329798.md) | h1-202 leaderboard photo discloses local wifi password  | [HackerOne](../by-program/security.md) | Medium — CVSS 4.7 | — | 144 |
 | 20 | [2352676](../reports/2352676.md) | cookie is sent on redirect | [curl](../by-program/curl.md) | Medium | — | 30 |
 | 21 | [1547048](../reports/1547048.md) | CVE-2022-27776: Auth/cookie leak on redirect  | [curl](../by-program/curl.md) | Medium | — | 19 |
-| 22 | [3680038](../reports/3680038.md) | Digest Auth State Leak on Cross-Origin Redirect via Netrc - Usern | [curl](../by-program/curl.md) | Medium | — | 16 |
-| 23 | [411620](../reports/411620.md) | Form Replay in customer information form | [Chaturbate](../by-program/chaturbate.md) | Medium | — | 16 |
+| 22 | [411620](../reports/411620.md) | Form Replay in customer information form | [Chaturbate](../by-program/chaturbate.md) | Medium | — | 16 |
+| 23 | [3680038](../reports/3680038.md) | Digest Auth State Leak on Cross-Origin Redirect via Netrc - Usern | [curl](../by-program/curl.md) | Medium | — | 16 |
 | 24 | [1093908](../reports/1093908.md) | IDOR leads to Leakage an ██████████ Login Information | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 11 |
 | 25 | [241116](../reports/241116.md) | Admin Salt Leakage on DoD site. | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
 | 26 | [233402](../reports/233402.md) | Possible Subdomain Takeover | [Mixmax](../by-program/mixmax.md) | Medium | — | 6 |
 | 27 | [1568175](../reports/1568175.md) | Credential leak on redirect | [curl](../by-program/curl.md) | Medium | — | 5 |
 | 28 | [1720621](../reports/1720621.md) | Autofill/Autosave password on login | [Yelp](../by-program/yelp.md) | Medium | — | 4 |
-| 29 | [3756699](../reports/3756699.md) | lib/ldap.c follows attacker-controlled LDAP referrals and binds t | [curl](../by-program/curl.md) | Medium | — | 3 |
-| 30 | [1569926](../reports/1569926.md) | Credential leak when use two url | [curl](../by-program/curl.md) | Medium | — | 3 |
-| 31 | [805027](../reports/805027.md) | Sensitive Information Leaking Through DARPA Website. [█████████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
+| 29 | [805027](../reports/805027.md) | Sensitive Information Leaking Through DARPA Website. [█████████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
+| 30 | [235216](../reports/235216.md) | Exposed FTP Credentials on ███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
+| 31 | [3756699](../reports/3756699.md) | lib/ldap.c follows attacker-controlled LDAP referrals and binds t | [curl](../by-program/curl.md) | Medium | — | 3 |
 | 32 | [743505](../reports/743505.md) | Improper confidentiality protection of server-side encryption key | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 3 |
-| 33 | [235216](../reports/235216.md) | Exposed FTP Credentials on ███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
+| 33 | [1569926](../reports/1569926.md) | Credential leak when use two url | [curl](../by-program/curl.md) | Medium | — | 3 |
 | 34 | [855618](../reports/855618.md) | Account takeover intercepting magic link for Arrive app | [Shopify](../by-program/shopify.md) | Low | — | 29 |
 | 35 | [963384](../reports/963384.md) | mysql credentials exposed on - https://cz.acronis.com/docker-comp | [Acronis](../by-program/acronis.md) | Low | — | 28 |
-| 36 | [3459417](../reports/3459417.md) | CVE-2025-14524: bearer token leak on cross-protocol redirect | [curl](../by-program/curl.md) | Low | — | 17 |
-| 37 | [3514263](../reports/3514263.md) | libcurl: Improper Authentication State Management on Cross-Protoc | [curl](../by-program/curl.md) | Low | — | 17 |
+| 36 | [3514263](../reports/3514263.md) | libcurl: Improper Authentication State Management on Cross-Protoc | [curl](../by-program/curl.md) | Low | — | 17 |
+| 37 | [3459417](../reports/3459417.md) | CVE-2025-14524: bearer token leak on cross-protocol redirect | [curl](../by-program/curl.md) | Low | — | 17 |
 | 38 | [2408074](../reports/2408074.md) | Proxy-Authorization header not cleared on cross-origin redirect i | [Node.js](../by-program/nodejs.md) | Low | — | 9 |
 | 39 | [972561](../reports/972561.md) | kubeadm logs tokens before deleting them | [Kubernetes](../by-program/kubernetes.md) | Low — CVSS 3.4 | — | 7 |
 | 40 | [3749428](../reports/3749428.md) | curl cross-origin HTTPS redirect reuses TLS client certificate fo | [curl](../by-program/curl.md) | Low | — | 2 |

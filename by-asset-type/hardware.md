@@ -27,8 +27,8 @@
 | 21 | [2332623](../reports/2332623.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 80 |
 | 22 | [3463719](../reports/3463719.md) | ASLR leak in Mario Kart World through LAN mode | [Nintendo](../by-program/nintendo.md) | Nintendo Switch 2 applications for which | High — CVSS 7.5 | — | 73 |
 | 23 | [2336236](../reports/2336236.md) | Privilege Escalation to Root SSH Access via Pre-Receive | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 71 |
-| 24 | [2332551](../reports/2332551.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 61 |
-| 25 | [2329466](../reports/2329466.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 61 |
+| 24 | [2329466](../reports/2329466.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 61 |
+| 25 | [2332551](../reports/2332551.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 61 |
 | 26 | [2197796](../reports/2197796.md) | GHES Management console EoP (editor to site admin) | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 56 |
 | 27 | [2329547](../reports/2329547.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 47 |
 | 28 | [2323292](../reports/2323292.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 47 |
@@ -44,8 +44,8 @@
 | 38 | [519582](../reports/519582.md) | Catch mails sent to an SMTP Server over SSL using an Ev | [Ubiquiti Inc.](../by-program/ui.md) | UniFi | High — CVSS 7.5 | — | 13 |
 | 39 | [703659](../reports/703659.md) | RCE in AirOS 6.2.0 Devices with CSRF bypass | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | High — CVSS 8.8 | — | 12 |
 | 40 | [289264](../reports/289264.md) | Triggering RCE using XSS to bypass CSRF in PowerBeam M5 | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | High — CVSS 8.8 | — | 12 |
-| 41 | [1008579](../reports/1008579.md) | Camera adoption DoS - UniFi Protect | [Ubiquiti Inc.](../by-program/ui.md) | UniFi Protect | High — CVSS 7.5 | — | 8 |
-| 42 | [313245](../reports/313245.md) | Code Execution in restricted CLI of EdgeSwitch | [Ubiquiti Inc.](../by-program/ui.md) | EdgeMAX | High — CVSS 7.2 | — | 8 |
+| 41 | [313245](../reports/313245.md) | Code Execution in restricted CLI of EdgeSwitch | [Ubiquiti Inc.](../by-program/ui.md) | EdgeMAX | High — CVSS 7.2 | — | 8 |
+| 42 | [1008579](../reports/1008579.md) | Camera adoption DoS - UniFi Protect | [Ubiquiti Inc.](../by-program/ui.md) | UniFi Protect | High — CVSS 7.5 | — | 8 |
 | 43 | [311884](../reports/311884.md) | Format String Vulnerability in the EdgeSwitch restricte | [Ubiquiti Inc.](../by-program/ui.md) | EdgeMAX | High — CVSS 7.2 | — | 7 |
 | 44 | [273449](../reports/273449.md) | Authenticated RCE in ToughSwitch | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | High — CVSS 8.8 | — | 6 |
 | 45 | [3770768](../reports/3770768.md) | [Switch] Remote stack buffer overflow in the LDN/LP2P D | [Nintendo](../by-program/nintendo.md) | Nintendo Switch System | High — CVSS 7.0 | — | 5 |

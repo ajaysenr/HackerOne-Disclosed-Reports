@@ -19,8 +19,8 @@
 | 13 | [1938106](../reports/1938106.md) | Smuggling content in PR with refs/replace in GitHub | [GitHub](../by-program/github.md) | Medium | — | 34 |
 | 14 | [3590583](../reports/3590583.md) | Unquoted body background attribute enables CSS injection that byp | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.4 | — | 33 |
 | 15 | [587727](../reports/587727.md) | CSS injection via BB code tag "█████" | [phpBB](../by-program/phpbb.md) | Medium | — | 28 |
-| 16 | [335339](../reports/335339.md) | HTTP parameter pollution from outdated Greenhouse.io JS dependenc | [Slack](../by-program/slack.md) | Medium — CVSS 4.7 | — | 25 |
-| 17 | [2017600](../reports/2017600.md) | Git Reference Ambiguity in GitHub - Commit Smuggling, Account Tak | [GitHub](../by-program/github.md) | Medium | — | 25 |
+| 16 | [2017600](../reports/2017600.md) | Git Reference Ambiguity in GitHub - Commit Smuggling, Account Tak | [GitHub](../by-program/github.md) | Medium | — | 25 |
+| 17 | [335339](../reports/335339.md) | HTTP parameter pollution from outdated Greenhouse.io JS dependenc | [Slack](../by-program/slack.md) | Medium — CVSS 4.7 | — | 25 |
 | 18 | [2297561](../reports/2297561.md) | Resource Injection - [████████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 22 |
 | 19 | [1762025](../reports/1762025.md) | Improper handling of null bytes in GitHub Actions Runner allows a | [GitHub](../by-program/github.md) | Medium | — | 19 |
 | 20 | [241231](../reports/241231.md) | flash injection in http://www.rockstargames.com/IV/imgPlayer/imag | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 8 |
