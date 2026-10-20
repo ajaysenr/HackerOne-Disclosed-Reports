@@ -12502,8 +12502,14 @@ https://hackerone.com/reports/4121675 | CRLF injection in the RTSP request-line 
 https://hackerone.com/reports/4121685 | curl RTSP connection reuse routes response headers to the RTP callback (rtsp_conn state machine not reset between sessions)
 https://hackerone.com/reports/4121689 | CRLF injection in the HTTP request-line via `CURLOPT_REQUEST_TARGET` (`--request-target`)
 https://hackerone.com/reports/4122039 | libcurl shared-HSTS-cache race leads to use-after-free with attacker-controlled function-pointer call
+https://hackerone.com/reports/4123646 | TLS session cache key omits native_ca_store: a session validated with CURLSSLOPT_NATIVE_CA can be resumed by a transfer that disabled it (incomplete f
 https://hackerone.com/reports/4123654 | SCP upload with --crlf sends more bytes than the size declared to the server (same class curl refused for IMAP CVE-2026-87864 and RTSP)
 https://hackerone.com/reports/4123749 | WebSocket decoder use-after-free when curl_easy_pause() unpauses from a debug callback
 https://hackerone.com/reports/4124486 | RTSP ANNOUNCE/SET_PARAMETER upload with --use-ascii / CURLOPT_TRANSFERTEXT sends more body bytes than the declared Content-Length (incomplete fix of e
+https://hackerone.com/reports/4124549 | CURLOPT_PROXYHEADER is not part of the HTTP-proxy connection reuse key: a second CONNECT-tunnel transfer silently reuses the first tunnel's Proxy-Auth
+https://hackerone.com/reports/4124583 | SSH (SCP/SFTP) host-key verification is skipped on connection reuse — a pinned/known_hosts transfer silently reuses a previously-unverified connection
+https://hackerone.com/reports/4124722 | WebSocket send queue use-after-free during nested curl_ws_send()
+https://hackerone.com/reports/4125257 | Symlink-following truncation of arbitrary files in `Curl_fopen()` when saving cookie jars, HSTS, or alt-svc caches
 https://hackerone.com/reports/4126768 | SSH host-key policy is missing from the connection-reuse tuple: strict pins and knownhosts are silently skipped on reused SFTP/SCP connections
+https://hackerone.com/reports/4127399 | wolfSSL Backend Silently Ignores --cert-status (OCSP Stapling Bypass)
 https://hackerone.com/reports/4127756 | urlapi: CURLUPART_HOST accepts text after an IPv6 zone ip and URL round trip changes the host
