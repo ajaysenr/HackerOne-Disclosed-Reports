@@ -1,4 +1,4 @@
-# Reports with CVE Assignments (2018 total)
+# Reports with CVE Assignments (2020 total)
 
 | # | Report | Title | CVE IDs | Severity | Bounty | Votes |
 |---|---|---|---|---|---|---|
@@ -1981,42 +1981,44 @@
 | 1977 | [3981716](../reports/3981716.md) | Cross-origin redirect reuses a pooled Negotiate-authent | CVE-2026-1965 | Medium | — | 0 |
 | 1978 | [3973190](../reports/3973190.md) | CVE-2026-86411: FTP connection reuse inherits client-ce | CVE-2026-86411, CVE-2016-5420 | None | — | 0 |
 | 1979 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL aga | CVE-2019-14553 | None | — | 0 |
-| 1980 | [606526](../reports/606526.md) | [tianma-static] Security issue with XSS. | CVE-2018-16474 | None | — | 0 |
-| 1981 | [103990](../reports/103990.md) | Null pointer dereference in phar_get_fp_offset() | CVE-2015-7803 | None | $500 | 0 |
-| 1982 | [3973135](../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | CVE-2026-86409 | None | — | 0 |
-| 1983 | [3812439](../reports/3812439.md) | HTTPS Agent TLS session reuse skips hostname verificati | CVE-2026-58040 | Medium — CVSS 6.3 | — | 0 |
-| 1984 | [3733905](../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | CVE-2026-8924 | Low | — | 0 |
-| 1985 | [104027](../reports/104027.md) | Memory Corruption in phar_parse_tarfile when entry file | CVE-2015-4021 | None | $500 | 0 |
-| 1986 | [3766065](../reports/3766065.md) | CURLOPT_COOKIE leaked to cross-origin redirect target — | CVE-2022-27774 | Medium | — | 0 |
-| 1987 | [4124583](../reports/4124583.md) | SSH (SCP/SFTP) host-key verification is skipped on conn | CVE-2022-27782 | Medium | — | 0 |
-| 1988 | [104008](../reports/104008.md) | Uninitialized pointer in phar_make_dirstream | CVE-2015-7804 | None | $1,000 | 0 |
-| 1989 | [3972395](../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | CVE-2026-80255 | None | — | 0 |
-| 1990 | [116774](../reports/116774.md) | UDP port 5060 (SIP) Open | CVE-2011-3280 | None | — | 0 |
-| 1991 | [104019](../reports/104019.md) | Files extracted from archive may be placed outside of d | CVE-2015-6833 | None | — | 0 |
-| 1992 | [3993566](../reports/3993566.md) | CVE-2026-86414: leaking host credentials to HTTP proxy | CVE-2026-86414 | Low | — | 0 |
-| 1993 | [1564922](../reports/1564922.md) | Integer overflows in unescape_word() | CVE-2019-5435 | Low | — | 0 |
-| 1994 | [3973176](../reports/3973176.md) | CVE-2026-86410:  redirect to SFTP or SCP bypasses host  | CVE-2026-86410, CVE-2026-12064 | None | — | 0 |
-| 1995 | [3975408](../reports/3975408.md) | CVE-2026-87865: knownhost callback mismatches key as mi | CVE-2026-87865, CVE-2026-9547 | Low | — | 0 |
-| 1996 | [104017](../reports/104017.md) | Arbitrary code execution in str_ireplace function | CVE-2015-6527 | None | — | 0 |
-| 1997 | [4022070](../reports/4022070.md) | CVE-2026-92388: FTP wildcard write callback mixup | CVE-2026-92388 | None | — | 0 |
-| 1998 | [103993](../reports/103993.md) | Request Hijacking Vulnerability In RubyGems 2.4.6 And E | CVE-2015-3900 | None | — | 0 |
-| 1999 | [812969](../reports/812969.md) | curl still vulnerable to SMB access smuggling via FILE  | CVE-2019-15601 | None | — | 0 |
-| 2000 | [3972403](../reports/3972403.md) | CVE-2026-87864: IMAP APPEND plus CRLF conversion comman | CVE-2026-87864 | None | — | 0 |
-| 2001 | [872089](../reports/872089.md) | Curl_auth_create_plain_message integer overflow leads t | CVE-2018-16839 | Low — CVSS 2.8 | — | 0 |
-| 2002 | [4113412](../reports/4113412.md) | libcurl RTSP `CURLOPT_CRLF` conversion allows a request | CVE-2026-87864 | Low | — | 0 |
-| 2003 | [104028](../reports/104028.md) | Improved fix for bug #69545 (Integer overflow in ftp_ge | CVE-2015-4643 | None | — | 0 |
-| 2004 | [510336](../reports/510336.md) | Uninitialized read in exif_process_IFD_in_TIFF | CVE-2019-9641 | Critical — CVSS 9.8 | — | 0 |
-| 2005 | [4124549](../reports/4124549.md) | CURLOPT_PROXYHEADER is not part of the HTTP-proxy conne | CVE-2026-3784 | Medium | — | 0 |
-| 2006 | [24984](../reports/24984.md) | openssh-server Forced Command Handling Information Disc | CVE-2012-0814 | None | — | 0 |
-| 2007 | [950299](../reports/950299.md) | Use after free vulnerability  in phar_parse_zipfile | CVE-2020-7068 | Medium | — | 0 |
-| 2008 | [3678395](../reports/3678395.md) | Path Traversal in mbstream Extract | CVE-2018-1002200, CVE-2018-1002201 | High — CVSS 7.8 | — | 0 |
-| 2009 | [254895](../reports/254895.md) | SSL BREACH attack (CVE-2013-3587) | CVE-2013-3587 | Low | — | 0 |
-| 2010 | [661959](../reports/661959.md) | Command Injection vulnerability in kill-port-process pa | CVE-2019-15609 | Medium — CVSS 6.1 | — | 0 |
-| 2011 | [777274](../reports/777274.md) | DoS of https://blog.makerdao.com/ via CVE-2018-6389 | CVE-2018-6389 | None | — | 0 |
-| 2012 | [104013](../reports/104013.md) | heap buffer overflow in enchant_broker_request_dict() | CVE-2014-9705 | None | $500 | 0 |
-| 2013 | [4123646](../reports/4123646.md) | TLS session cache key omits native_ca_store: a session  | CVE-2026-11564 | Low | — | 0 |
-| 2014 | [104016](../reports/104016.md) | Dangling pointer in the unserialization of ArrayObject  | CVE-2015-6832 | None | $1,000 | 0 |
-| 2015 | [104014](../reports/104014.md) | libcurl duphandle read out of bounds | CVE-2014-3707 | None | $1,000 | 0 |
-| 2016 | [104026](../reports/104026.md) | invalid pointer free() in phar_tar_process_metadata() | CVE-2015-3307 | None | $500 | 0 |
-| 2017 | [104011](../reports/104011.md) | AddressSanitizer reports a global buffer overflow in mk | CVE-2014-3668 | None | $500 | 0 |
-| 2018 | [4023192](../reports/4023192.md) | CVE-2026-92390: -J no-clobber guarantee bypassed with 1 | CVE-2026-92390, CVE-2020-8177 | None | — | 0 |
+| 1980 | [4129642](../reports/4129642.md) | HSTS cache file: three trailing dots silently disable H | CVE-2026-8924, CVE-2023-46219 | Medium | — | 0 |
+| 1981 | [606526](../reports/606526.md) | [tianma-static] Security issue with XSS. | CVE-2018-16474 | None | — | 0 |
+| 1982 | [103990](../reports/103990.md) | Null pointer dereference in phar_get_fp_offset() | CVE-2015-7803 | None | $500 | 0 |
+| 1983 | [4129638](../reports/4129638.md) | TLS session cache ignores CURLOPT_SSL_CTX_FUNCTION iden | CVE-2016-5419, CVE-2017-7468 | Medium | — | 0 |
+| 1984 | [3973135](../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | CVE-2026-86409 | None | — | 0 |
+| 1985 | [3812439](../reports/3812439.md) | HTTPS Agent TLS session reuse skips hostname verificati | CVE-2026-58040 | Medium — CVSS 6.3 | — | 0 |
+| 1986 | [3733905](../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | CVE-2026-8924 | Low | — | 0 |
+| 1987 | [104027](../reports/104027.md) | Memory Corruption in phar_parse_tarfile when entry file | CVE-2015-4021 | None | $500 | 0 |
+| 1988 | [3766065](../reports/3766065.md) | CURLOPT_COOKIE leaked to cross-origin redirect target — | CVE-2022-27774 | Medium | — | 0 |
+| 1989 | [4124583](../reports/4124583.md) | SSH (SCP/SFTP) host-key verification is skipped on conn | CVE-2022-27782 | Medium | — | 0 |
+| 1990 | [104008](../reports/104008.md) | Uninitialized pointer in phar_make_dirstream | CVE-2015-7804 | None | $1,000 | 0 |
+| 1991 | [3972395](../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | CVE-2026-80255 | None | — | 0 |
+| 1992 | [116774](../reports/116774.md) | UDP port 5060 (SIP) Open | CVE-2011-3280 | None | — | 0 |
+| 1993 | [104019](../reports/104019.md) | Files extracted from archive may be placed outside of d | CVE-2015-6833 | None | — | 0 |
+| 1994 | [3993566](../reports/3993566.md) | CVE-2026-86414: leaking host credentials to HTTP proxy | CVE-2026-86414 | Low | — | 0 |
+| 1995 | [1564922](../reports/1564922.md) | Integer overflows in unescape_word() | CVE-2019-5435 | Low | — | 0 |
+| 1996 | [3973176](../reports/3973176.md) | CVE-2026-86410:  redirect to SFTP or SCP bypasses host  | CVE-2026-86410, CVE-2026-12064 | None | — | 0 |
+| 1997 | [3975408](../reports/3975408.md) | CVE-2026-87865: knownhost callback mismatches key as mi | CVE-2026-87865, CVE-2026-9547 | Low | — | 0 |
+| 1998 | [104017](../reports/104017.md) | Arbitrary code execution in str_ireplace function | CVE-2015-6527 | None | — | 0 |
+| 1999 | [4022070](../reports/4022070.md) | CVE-2026-92388: FTP wildcard write callback mixup | CVE-2026-92388 | None | — | 0 |
+| 2000 | [103993](../reports/103993.md) | Request Hijacking Vulnerability In RubyGems 2.4.6 And E | CVE-2015-3900 | None | — | 0 |
+| 2001 | [812969](../reports/812969.md) | curl still vulnerable to SMB access smuggling via FILE  | CVE-2019-15601 | None | — | 0 |
+| 2002 | [3972403](../reports/3972403.md) | CVE-2026-87864: IMAP APPEND plus CRLF conversion comman | CVE-2026-87864 | None | — | 0 |
+| 2003 | [872089](../reports/872089.md) | Curl_auth_create_plain_message integer overflow leads t | CVE-2018-16839 | Low — CVSS 2.8 | — | 0 |
+| 2004 | [4113412](../reports/4113412.md) | libcurl RTSP `CURLOPT_CRLF` conversion allows a request | CVE-2026-87864 | Low | — | 0 |
+| 2005 | [104028](../reports/104028.md) | Improved fix for bug #69545 (Integer overflow in ftp_ge | CVE-2015-4643 | None | — | 0 |
+| 2006 | [510336](../reports/510336.md) | Uninitialized read in exif_process_IFD_in_TIFF | CVE-2019-9641 | Critical — CVSS 9.8 | — | 0 |
+| 2007 | [4124549](../reports/4124549.md) | CURLOPT_PROXYHEADER is not part of the HTTP-proxy conne | CVE-2026-3784 | Medium | — | 0 |
+| 2008 | [24984](../reports/24984.md) | openssh-server Forced Command Handling Information Disc | CVE-2012-0814 | None | — | 0 |
+| 2009 | [950299](../reports/950299.md) | Use after free vulnerability  in phar_parse_zipfile | CVE-2020-7068 | Medium | — | 0 |
+| 2010 | [3678395](../reports/3678395.md) | Path Traversal in mbstream Extract | CVE-2018-1002200, CVE-2018-1002201 | High — CVSS 7.8 | — | 0 |
+| 2011 | [254895](../reports/254895.md) | SSL BREACH attack (CVE-2013-3587) | CVE-2013-3587 | Low | — | 0 |
+| 2012 | [661959](../reports/661959.md) | Command Injection vulnerability in kill-port-process pa | CVE-2019-15609 | Medium — CVSS 6.1 | — | 0 |
+| 2013 | [777274](../reports/777274.md) | DoS of https://blog.makerdao.com/ via CVE-2018-6389 | CVE-2018-6389 | None | — | 0 |
+| 2014 | [104013](../reports/104013.md) | heap buffer overflow in enchant_broker_request_dict() | CVE-2014-9705 | None | $500 | 0 |
+| 2015 | [4123646](../reports/4123646.md) | TLS session cache key omits native_ca_store: a session  | CVE-2026-11564 | Low | — | 0 |
+| 2016 | [104016](../reports/104016.md) | Dangling pointer in the unserialization of ArrayObject  | CVE-2015-6832 | None | $1,000 | 0 |
+| 2017 | [104014](../reports/104014.md) | libcurl duphandle read out of bounds | CVE-2014-3707 | None | $1,000 | 0 |
+| 2018 | [104026](../reports/104026.md) | invalid pointer free() in phar_tar_process_metadata() | CVE-2015-3307 | None | $500 | 0 |
+| 2019 | [104011](../reports/104011.md) | AddressSanitizer reports a global buffer overflow in mk | CVE-2014-3668 | None | $500 | 0 |
+| 2020 | [4023192](../reports/4023192.md) | CVE-2026-92390: -J no-clobber guarantee bypassed with 1 | CVE-2026-92390, CVE-2020-8177 | None | — | 0 |

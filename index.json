@@ -244641,5 +244641,49 @@
     "reported_at": "2026-10-19",
     "disclosed_at": "2026-10-19T14:04:41.303Z",
     "votes": 0
+  },
+  {
+    "id": 4129638,
+    "url": "https://hackerone.com/reports/4129638",
+    "title": "TLS session cache ignores CURLOPT_SSL_CTX_FUNCTION identity and resumes one client's session for another",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "jashu19",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Improper Certificate Validation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2016-5419",
+      "CVE-2017-7468"
+    ],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-20",
+    "disclosed_at": "2026-10-20T17:00:44.628Z",
+    "votes": 0
+  },
+  {
+    "id": 4129642,
+    "url": "https://hackerone.com/reports/4129642",
+    "title": "HSTS cache file: three trailing dots silently disable HSTS for that host",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "jashu19",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Improper Certificate Validation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-8924",
+      "CVE-2023-46219"
+    ],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-20",
+    "disclosed_at": "2026-10-20T17:00:34.508Z",
+    "votes": 0
   }
 ]
