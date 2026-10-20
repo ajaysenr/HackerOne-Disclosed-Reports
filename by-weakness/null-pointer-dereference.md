@@ -18,9 +18,9 @@
 | 12 | [1688309](../reports/1688309.md) | [MK8DX] Improper metadata parsing | [Nintendo](../by-program/nintendo.md) | Critical — CVSS 9.3 | — | 24 |
 | 13 | [2171309](../reports/2171309.md) | NULL Pointer dereference in idn.c | [curl](../by-program/curl.md) | Critical | — | 9 |
 | 14 | [335608](../reports/335608.md) | Denial of Service: nghttp2 use of uninitialized pointer | [Node.js](../by-program/nodejs.md) | Critical — CVSS 9.3 | — | 4 |
-| 15 | [3693636](../reports/3693636.md) | wallet-rpc crash via malformed /gettransactions response (empty t | [Monero](../by-program/monero.md) | High — CVSS 7.5 | — | 5 |
-| 16 | [3736889](../reports/3736889.md) | NULL pointer dereference in node:sqlite DatabaseSync#applyChanges | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | — | 5 |
-| 17 | [221287](../reports/221287.md) | null pointer dereference in Sass::Eval::operator()(Sass::Map*) | [LibSass](../by-program/libsass.md) | High | — | 5 |
+| 15 | [221287](../reports/221287.md) | null pointer dereference in Sass::Eval::operator()(Sass::Map*) | [LibSass](../by-program/libsass.md) | High | — | 5 |
+| 16 | [3693636](../reports/3693636.md) | wallet-rpc crash via malformed /gettransactions response (empty t | [Monero](../by-program/monero.md) | High — CVSS 7.5 | — | 5 |
+| 17 | [3736889](../reports/3736889.md) | NULL pointer dereference in node:sqlite DatabaseSync#applyChanges | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | — | 5 |
 | 18 | [245221](../reports/245221.md) | null pointer dereference and segfault in tile-count-merge | [Mapbox](../by-program/mapbox.md) | High | — | 4 |
 | 19 | [247027](../reports/247027.md) | CVE-2017-10965: Null pointer dereference in Irssi <1.0.4  | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 3 |
 | 20 | [3597359](../reports/3597359.md) | NULL Pointer Dereference (DoS) in libcurl SFTP QUOTE command pars | [curl](../by-program/curl.md) | Medium | — | 25 |
