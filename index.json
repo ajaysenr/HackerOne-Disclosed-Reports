@@ -244643,6 +244643,25 @@
     "votes": 0
   },
   {
+    "id": 4128703,
+    "url": "https://hackerone.com/reports/4128703",
+    "title": "curl reuses an HTTPS connection when a response is already buffered in the TLS stack",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "shafran99",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Acceptance of Extraneous Untrusted Data With Trusted Data",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-19",
+    "disclosed_at": "2026-10-20T21:39:05.020Z",
+    "votes": 0
+  },
+  {
     "id": 4129638,
     "url": "https://hackerone.com/reports/4129638",
     "title": "TLS session cache ignores CURLOPT_SSL_CTX_FUNCTION identity and resumes one client's session for another",

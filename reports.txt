@@ -12516,5 +12516,6 @@ https://hackerone.com/reports/4125257 | Symlink-following truncation of arbitrar
 https://hackerone.com/reports/4126768 | SSH host-key policy is missing from the connection-reuse tuple: strict pins and knownhosts are silently skipped on reused SFTP/SCP connections
 https://hackerone.com/reports/4127399 | wolfSSL Backend Silently Ignores --cert-status (OCSP Stapling Bypass)
 https://hackerone.com/reports/4127756 | urlapi: CURLUPART_HOST accepts text after an IPv6 zone ip and URL round trip changes the host
+https://hackerone.com/reports/4128703 | curl reuses an HTTPS connection when a response is already buffered in the TLS stack
 https://hackerone.com/reports/4129638 | TLS session cache ignores CURLOPT_SSL_CTX_FUNCTION identity and resumes one client's session for another
 https://hackerone.com/reports/4129642 | HSTS cache file: three trailing dots silently disable HSTS for that host
