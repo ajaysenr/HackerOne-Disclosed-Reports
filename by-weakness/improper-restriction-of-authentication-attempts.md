@@ -31,8 +31,8 @@
 | 25 | [411364](../reports/411364.md) | Brute Force of fabric-ca server admin account | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | High | — | 61 |
 | 26 | [744692](../reports/744692.md) | The login of Hotor Not is Vulnerable to bruteforce. | [Bumble](../by-program/bumble.md) | High | — | 59 |
 | 27 | [1879549](../reports/1879549.md) | Basic auth header on WebDAV requests is not bruteforce protected | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.1 | — | 52 |
-| 28 | [1060541](../reports/1060541.md) | No rate limit lead to otp brute forcing | [MTN Group](../by-program/mtn_group.md) | High | — | 13 |
-| 29 | [1059758](../reports/1059758.md) | Full account takeover in ███████ due lack of rate limiting in for | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 13 |
+| 28 | [1059758](../reports/1059758.md) | Full account takeover in ███████ due lack of rate limiting in for | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 13 |
+| 29 | [1060541](../reports/1060541.md) | No rate limit lead to otp brute forcing | [MTN Group](../by-program/mtn_group.md) | High | — | 13 |
 | 30 | [788420](../reports/788420.md) | Authorization for wp-admin directory are vulnerable to brute forc | [Stripo Inc](../by-program/stripo.md) | High | — | 8 |
 | 31 | [293359](../reports/293359.md) | The Uber Promo Customer Endpoint Does Not Implement Multifactor A | [Uber](../by-program/uber.md) | High | — | 5 |
 | 32 | [341074](../reports/341074.md) | Bruteforce in admin panel | [Nextcloud](../by-program/nextcloud.md) | High | — | 3 |
@@ -48,8 +48,8 @@
 | 42 | [1924212](../reports/1924212.md) | Improper restriction of excessive authentication attempts on WebD | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.0 | — | 22 |
 | 43 | [2110945](../reports/2110945.md) | Memcached used as RateLimiter backend is no-op | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 19 |
 | 44 | [350288](../reports/350288.md) | Two Factor Authentication Bypass | [Ubiquiti Inc.](../by-program/ui.md) | Medium — CVSS 6.6 | — | 18 |
-| 45 | [342977](../reports/342977.md) | brute force attack allowed on admin page https://www.stellar.org/ | [Stellar.org](../by-program/stellar.md) | Medium | — | 16 |
-| 46 | [952349](../reports/952349.md) | Possible denial of service when entering a loooong password | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 16 |
+| 45 | [952349](../reports/952349.md) | Possible denial of service when entering a loooong password | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 16 |
+| 46 | [342977](../reports/342977.md) | brute force attack allowed on admin page https://www.stellar.org/ | [Stellar.org](../by-program/stellar.md) | Medium | — | 16 |
 | 47 | [1024880](../reports/1024880.md) | SSL expired subdomain leads to API swap with main and flagged coo | [Basecamp](../by-program/basecamp.md) | Medium | — | 15 |
 | 48 | [1466967](../reports/1466967.md) | Brute force attack of current password on  login page by bypassin | [Omise](../by-program/omise.md) | Medium | — | 14 |
 | 49 | [1170522](../reports/1170522.md) | Missing rate limit in current password change settings leads to A | [Reddit](../by-program/reddit.md) | Medium | — | 12 |
@@ -59,8 +59,8 @@
 | 53 | [223337](../reports/223337.md) | No BruteForce Protection | [Weblate](../by-program/weblate.md) | Medium — CVSS 6.5 | — | 7 |
 | 54 | [504362](../reports/504362.md) | the login blocking mechanism does not work correctly | [Semmle](../by-program/semmle.md) | Medium — CVSS 6.8 | — | 6 |
 | 55 | [233376](../reports/233376.md) | mailbomb through invite feature on chrome addon | [Mixmax](../by-program/mixmax.md) | Medium | — | 6 |
-| 56 | [1317494](../reports/1317494.md) | No Rate Limit on forgot password page | [UPchieve](../by-program/upchieve.md) | Medium | — | 5 |
-| 57 | [1285441](../reports/1285441.md) | Rate limit missing sign-in page | [Tennessee Valley Authority](../by-program/tennessee-valley-authority.md) | Medium | — | 5 |
+| 56 | [1285441](../reports/1285441.md) | Rate limit missing sign-in page | [Tennessee Valley Authority](../by-program/tennessee-valley-authority.md) | Medium | — | 5 |
+| 57 | [1317494](../reports/1317494.md) | No Rate Limit on forgot password page | [UPchieve](../by-program/upchieve.md) | Medium | — | 5 |
 | 58 | [1954711](../reports/1954711.md) | user_oidc app is missing bruteforce protection | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.5 | — | 4 |
 | 59 | [1591504](../reports/1591504.md) | The software does not implement sufficient measures to prevent mu | [LinkedIn](../by-program/linkedin.md) | Medium | — | 2 |
 | 60 | [410451](../reports/410451.md) | User login page doesn't implement any form of rate limiting | [HackerOne](../by-program/security.md) | Low — CVSS 3.0 | — | 42 |
@@ -72,8 +72,8 @@
 | 66 | [440495](../reports/440495.md) | Missing Rate Limit in Password Change | [Smule](../by-program/smule.md) | Low | — | 19 |
 | 67 | [1165225](../reports/1165225.md) | [dubsmash] Username and password bruteforce | [Reddit](../by-program/reddit.md) | Low — CVSS 3.9 | — | 18 |
 | 68 | [1894653](../reports/1894653.md) | Missing brute force protection for passwords of password protecte | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.1 | — | 17 |
-| 69 | [412526](../reports/412526.md) | No rate limit in stats api token endpoint | [Chaturbate](../by-program/chaturbate.md) | Low | — | 15 |
-| 70 | [2039447](../reports/2039447.md) | Entering passwords on the Share Login Page can lead to a brute-fo | [Automattic](../by-program/automattic.md) | Low | — | 15 |
+| 69 | [2039447](../reports/2039447.md) | Entering passwords on the Share Login Page can lead to a brute-fo | [Automattic](../by-program/automattic.md) | Low | — | 15 |
+| 70 | [412526](../reports/412526.md) | No rate limit in stats api token endpoint | [Chaturbate](../by-program/chaturbate.md) | Low | — | 15 |
 | 71 | [413505](../reports/413505.md) | No rate limit in affiliate statsapi endpoint | [Chaturbate](../by-program/chaturbate.md) | Low | — | 14 |
 | 72 | [229825](../reports/229825.md) | Rate Limit Issue on hosted.weblate.org | [Weblate](../by-program/weblate.md) | Low | — | 10 |
 | 73 | [1165285](../reports/1165285.md) | No Rate limit on change password leads to account takeover | [Reddit](../by-program/reddit.md) | Low | — | 8 |
@@ -83,12 +83,12 @@
 | 77 | [3463619](../reports/3463619.md) | testing hackerone functions | [curl](../by-program/curl.md) | None | — | 35 |
 | 78 | [269318](../reports/269318.md) | Bypass of Rate limiting in secure_session endpoint's password inp | [Moneybird](../by-program/moneybird.md) | None | — | 18 |
 | 79 | [1166069](../reports/1166069.md) | No Rate Limit On  Contact Us  | [UPchieve](../by-program/upchieve.md) | None | — | 13 |
-| 80 | [1465277](../reports/1465277.md) | Brute force of a current password on a disable 2fa leads to guess | [Omise](../by-program/omise.md) | None | — | 11 |
-| 81 | [518928](../reports/518928.md) | Sending Unlimited Emails to anyone from zomato mail server. | [Eternal](../by-program/eternal.md) | None | — | 11 |
+| 80 | [518928](../reports/518928.md) | Sending Unlimited Emails to anyone from zomato mail server. | [Eternal](../by-program/eternal.md) | None | — | 11 |
+| 81 | [1465277](../reports/1465277.md) | Brute force of a current password on a disable 2fa leads to guess | [Omise](../by-program/omise.md) | None | — | 11 |
 | 82 | [681468](../reports/681468.md) | The password recovery let users know whether an email address exi | [Nextcloud](../by-program/nextcloud.md) | None | — | 10 |
 | 83 | [265706](../reports/265706.md) | [rt.torproject.org] No Rate Limitting on Login Form | [Tor](../by-program/torproject.md) | None | — | 9 |
 | 84 | [1238749](../reports/1238749.md) | No rate Limit on Add new Translation Project  | [Weblate](../by-program/weblate.md) | None | — | 8 |
 | 85 | [855304](../reports/855304.md) | No set limit to try to login in "https://auth.nextcloud.com/auth/ | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
-| 86 | [255627](../reports/255627.md) | SSH backdated version open port | [WakaTime](../by-program/wakatime.md) | None | — | 4 |
-| 87 | [1214158](../reports/1214158.md) | Ratelimits do not apply to OCS DataResponse | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
+| 86 | [1214158](../reports/1214158.md) | Ratelimits do not apply to OCS DataResponse | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
+| 87 | [255627](../reports/255627.md) | SSH backdated version open port | [WakaTime](../by-program/wakatime.md) | None | — | 4 |
 | 88 | [1065583](../reports/1065583.md) | Hackyholidays CTF writeup | [h1-ctf](../by-program/h1-ctf.md) | None | — | 2 |

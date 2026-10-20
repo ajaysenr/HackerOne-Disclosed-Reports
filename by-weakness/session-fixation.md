@@ -12,8 +12,8 @@
 | 6 | [1329434](../reports/1329434.md) | Session Fixiation allow attacker to create new evil workspace wit | [Courier](../by-program/trycourier.md) | Medium | — | 11 |
 | 7 | [255020](../reports/255020.md) | Password Reset page Session Fixation | [Legal Robot](../by-program/legalrobot.md) | Medium | — | 7 |
 | 8 | [1486341](../reports/1486341.md) | Session Fixation on Acronis | [Acronis](../by-program/acronis.md) | Medium | — | 6 |
-| 9 | [249798](../reports/249798.md) | Intercom chat session information persists after logout | [Legal Robot](../by-program/legalrobot.md) | Low — CVSS 2.5 | — | 20 |
-| 10 | [237184](../reports/237184.md) | Session fixation in password protected public download. | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.1 | — | 20 |
+| 9 | [237184](../reports/237184.md) | Session fixation in password protected public download. | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.1 | — | 20 |
+| 10 | [249798](../reports/249798.md) | Intercom chat session information persists after logout | [Legal Robot](../by-program/legalrobot.md) | Low — CVSS 2.5 | — | 20 |
 | 11 | [743518](../reports/743518.md) | Pending MFA logins aren't immediatly expired after a password cha | [Moneybird](../by-program/moneybird.md) | Low | — | 15 |
 | 12 | [737058](../reports/737058.md) | Affiliates - Session Fixation | [Clario](../by-program/clario.md) | Low | — | 3 |
 | 13 | [423136](../reports/423136.md) | H1514 Session Fixation on multiple shopify-built apps on *.shopif | [Shopify](../by-program/shopify.md) | None | — | 144 |

@@ -232925,6 +232925,25 @@
     "votes": 7
   },
   {
+    "id": 3485178,
+    "url": "https://hackerone.com/reports/3485178",
+    "title": "Deck app: Invalid tag color is accepted by API and breaks frontend UI",
+    "visibility": "full",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "khoof",
+    "severity": "low",
+    "cvss": 2.7,
+    "weakness": "Business Logic Errors",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-01-02",
+    "disclosed_at": "2026-10-20T12:55:32.670Z",
+    "votes": 7
+  },
+  {
     "id": 3485343,
     "url": "https://hackerone.com/reports/3485343",
     "title": "jitsi-call-analytics: Unauthenticated arbitrary file write via path traversal in `/api/v1/uploads/analyze`",
@@ -233313,6 +233332,25 @@
     "reported_at": "2026-01-13",
     "disclosed_at": "2026-01-14T10:02:16.901Z",
     "votes": 8
+  },
+  {
+    "id": 3508852,
+    "url": "https://hackerone.com/reports/3508852",
+    "title": "Application Data Hiding via Invalid `iconName` Causing Frontend Crash in Nextcloud Tables",
+    "visibility": "full",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "khoof",
+    "severity": "low",
+    "cvss": 3.5,
+    "weakness": "Business Logic Errors",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-01-13",
+    "disclosed_at": "2026-10-20T12:55:48.804Z",
+    "votes": 7
   },
   {
     "id": 3508854,
@@ -243831,6 +243869,25 @@
     "reported_at": "2026-09-16",
     "disclosed_at": "2026-09-19T08:36:27.510Z",
     "votes": 0
+  },
+  {
+    "id": 4035023,
+    "url": "https://hackerone.com/reports/4035023",
+    "title": "Ordinary HEY user can make HEY originate authenticated mail from attacker-selected @hey.com  addresses",
+    "visibility": "full",
+    "program": "Basecamp",
+    "program_handle": "basecamp",
+    "reporter": "gachikuku",
+    "severity": "high",
+    "cvss": 7.0,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "WILDCARD",
+    "reported_at": "2026-09-16",
+    "disclosed_at": "2026-10-20T09:35:56.849Z",
+    "votes": 8
   },
   {
     "id": 4040551,

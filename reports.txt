@@ -11924,6 +11924,7 @@ https://hackerone.com/reports/3483902 | PROTOCOL-LEVEL: Persistent UDP Amplifica
 https://hackerone.com/reports/3484319 | MQTT Protocol Violation & Integer Overflow in libcurl
 https://hackerone.com/reports/3484431 | HTTP Request Smuggling and SSRF via CRLF Injection in Curl_add_custom_headers
 https://hackerone.com/reports/3484601 | Team membership information returned on API level based on ID
+https://hackerone.com/reports/3485178 | Deck app: Invalid tag color is accepted by API and breaks frontend UI
 https://hackerone.com/reports/3485343 | jitsi-call-analytics: Unauthenticated arbitrary file write via path traversal in `/api/v1/uploads/analyze`
 https://hackerone.com/reports/3485826 | Alt-Svc bypasses credential leak protection (CVE-2018-1000007)
 https://hackerone.com/reports/3485930 | Path Traversal in curl file:// Protocol Handler Allows Unauthorized File Access
@@ -11943,6 +11944,7 @@ https://hackerone.com/reports/3508500 | integer Overflow in MQTT Protocol Handli
 https://hackerone.com/reports/3508701 | Use-After-Free in curl_easy_nextheader when reusing header handle across requests
 https://hackerone.com/reports/3508785 | Gopher Protocol Command Injection (SSRF Smuggling)
 https://hackerone.com/reports/3508799 | Digest Authentication Header Injection
+https://hackerone.com/reports/3508852 | Application Data Hiding via Invalid `iconName` Causing Frontend Crash in Nextcloud Tables
 https://hackerone.com/reports/3508854 | MQTT: unsigned integer underflow bypasses MAX_MQTT_MESSAGE_SIZE check
 https://hackerone.com/reports/3509396 | IMAP Protocol Desynchronization and Response Smuggling via Naive Literal Parsing
 https://hackerone.com/reports/3509437 | Directory listing vulnerability is disclosing names and emails, widespread (thousands of records, publicly accessible without auth)
@@ -12475,6 +12477,7 @@ https://hackerone.com/reports/4028616 | Memory exhaustion (DoS) via unbounded fi
 https://hackerone.com/reports/4030333 | CVE-2026-92392: HTTP/2 upload Use-After-Free
 https://hackerone.com/reports/4033108 | Retry-independent time-condition HTTP/2 UAF
 https://hackerone.com/reports/4033971 | Use-after-free of the internal multi->admin easy handle via the documented CURLMOPT_NOTIFYFUNCTION callback
+https://hackerone.com/reports/4035023 | Ordinary HEY user can make HEY originate authenticated mail from attacker-selected @hey.com  addresses
 https://hackerone.com/reports/4040551 | CVE-2026-94265: Authorization: Negotiate sent to foreign origin
 https://hackerone.com/reports/4040799 | Windows filename sanitizer misses Unicode COM/LPT reserved device names
 https://hackerone.com/reports/4041053 | CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL
