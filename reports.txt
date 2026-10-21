@@ -12353,6 +12353,7 @@ https://hackerone.com/reports/3872858 | Stored HTML Injection (CWE-79) via Livec
 https://hackerone.com/reports/3873072 | Unauthenticated SQL Injection via REST Batch Route Confusion ████████
 https://hackerone.com/reports/3874004 | Incomplete fix for CVE-2022-23915: Mercurial argument injection in HgRepository.get_file() leads to command execution
 https://hackerone.com/reports/3876430 | MariaDB GRANT PROXY permits unauthorized authentication changes and administrator account takeover
+https://hackerone.com/reports/3878399 | Large-site Quick Edit reparses a Contributor display name into active HTML
 https://hackerone.com/reports/3878586 | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, hide_from_lists) and uses frozen visibility, exposing donat
 https://hackerone.com/reports/3880451 | Privilege escalation via user controlled usernames / roles and views
 https://hackerone.com/reports/3887969 | SSRF via URL Parser Differential in `normalize_request_url` (wlc)
@@ -12379,6 +12380,7 @@ https://hackerone.com/reports/3917775 | curl Missing Sec-WebSocket-Accept Verifi
 https://hackerone.com/reports/3920276 | Cookie jar load skips public suffix check on PSL builds
 https://hackerone.com/reports/3923212 | URL API: triple-slash parses path segment as hostname
 https://hackerone.com/reports/3923520 | CVE-2026-19931: Negotiate ambient user conn reuse
+https://hackerone.com/reports/3923967 | WordPress 7.1 Media Processing Race Enables Persistent PHP File Write and Author-to-RCE
 https://hackerone.com/reports/3930102 | CORS Misconfiguration / Broken Access Control
 https://hackerone.com/reports/3930957 | Myndr CORS Misconfiguration
 https://hackerone.com/reports/3931771 | Author → stored XSS in wp-admin: unescaped sub-size filename from attachment metadata breaks out of the `src` attribute in `get_media_item()`
@@ -12522,4 +12524,5 @@ https://hackerone.com/reports/4127756 | urlapi: CURLUPART_HOST accepts text afte
 https://hackerone.com/reports/4128703 | curl reuses an HTTPS connection when a response is already buffered in the TLS stack
 https://hackerone.com/reports/4129638 | TLS session cache ignores CURLOPT_SSL_CTX_FUNCTION identity and resumes one client's session for another
 https://hackerone.com/reports/4129642 | HSTS cache file: three trailing dots silently disable HSTS for that host
+https://hackerone.com/reports/4129950 | IDN decoding inserts authority delimiters and can redirect proxy CONNECT to a different host
 https://hackerone.com/reports/4132132 | POP3: data after the end-of-body terminator is written into the retrieved message

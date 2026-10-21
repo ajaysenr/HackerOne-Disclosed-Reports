@@ -34,7 +34,7 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 28 | [156373](../reports/156373.md) | Stored xss | None | — | 12 | [rishi62](https://hackerone.com/rishi62) | 2016-09-07 |
 | 29 | [173417](../reports/173417.md) | Possilbe Sub Domain takever at prestashop.algolia.com | None | — | 9 | [punkrock](https://hackerone.com/punkrock) | 2016-11-04 |
 | 30 | [156347](../reports/156347.md) | Stored XSS triggered by json key during UI generation | None | — | 7 | [ctee](https://hackerone.com/ctee) | 2016-09-07 |
-| 31 | [155576](../reports/155576.md) | [github.algolia.com] XSS | None | — | 4 | [bogdantc](https://hackerone.com/bogdantc) | 2016-09-01 |
-| 32 | [156387](../reports/156387.md) | Stored XSS from Display Settings triggered on Save and viewi | None | — | 4 | [ctee](https://hackerone.com/ctee) | 2016-09-07 |
-| 33 | [98012](../reports/98012.md) | Stored XSS on https://www.algolia.com/realtime-search-demo/* | None | — | 2 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2016-02-03 |
-| 34 | [116692](../reports/116692.md) | PHP version disclosed on blog.algolia.com | None | — | 2 | [bugs3ra](https://hackerone.com/bugs3ra) | 2016-06-01 |
+| 31 | [156387](../reports/156387.md) | Stored XSS from Display Settings triggered on Save and viewi | None | — | 4 | [ctee](https://hackerone.com/ctee) | 2016-09-07 |
+| 32 | [155576](../reports/155576.md) | [github.algolia.com] XSS | None | — | 4 | [bogdantc](https://hackerone.com/bogdantc) | 2016-09-01 |
+| 33 | [116692](../reports/116692.md) | PHP version disclosed on blog.algolia.com | None | — | 2 | [bugs3ra](https://hackerone.com/bugs3ra) | 2016-06-01 |
+| 34 | [98012](../reports/98012.md) | Stored XSS on https://www.algolia.com/realtime-search-demo/* | None | — | 2 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2016-02-03 |

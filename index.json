@@ -241420,6 +241420,25 @@
     "votes": 7
   },
   {
+    "id": 3878399,
+    "url": "https://hackerone.com/reports/3878399",
+    "title": "Large-site Quick Edit reparses a Contributor display name into active HTML",
+    "visibility": "full",
+    "program": "WordPress",
+    "program_handle": "wordpress",
+    "reporter": "mappymappy123",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Cross-site Scripting (XSS) - DOM",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-07-21",
+    "disclosed_at": "2026-10-21T20:03:54.046Z",
+    "votes": 3
+  },
+  {
     "id": 3878586,
     "url": "https://hackerone.com/reports/3878586",
     "title": "Unauthenticated team \"income/payments\" export ignores donor privacy settings (hide_giving, hide_from_lists) and uses frozen visibility, exposing donat",
@@ -241919,6 +241938,25 @@
     "asset_type": "SOURCE_CODE",
     "reported_at": "2026-08-07",
     "disclosed_at": "2026-09-03T06:09:11.245Z",
+    "votes": 3
+  },
+  {
+    "id": 3923967,
+    "url": "https://hackerone.com/reports/3923967",
+    "title": "WordPress 7.1 Media Processing Race Enables Persistent PHP File Write and Author-to-RCE",
+    "visibility": "full",
+    "program": "WordPress",
+    "program_handle": "wordpress",
+    "reporter": "mappymappy123",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Code Injection",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-07",
+    "disclosed_at": "2026-10-21T20:04:47.645Z",
     "votes": 3
   },
   {
@@ -244770,6 +244808,28 @@
     "reported_at": "2026-10-20",
     "disclosed_at": "2026-10-20T17:00:34.508Z",
     "votes": 0
+  },
+  {
+    "id": 4129950,
+    "url": "https://hackerone.com/reports/4129950",
+    "title": "IDN decoding inserts authority delimiters and can redirect proxy CONNECT to a different host",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "zefanxu",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Server-Side Request Forgery (SSRF)",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2016-8625",
+      "CVE-2022-42916"
+    ],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-20",
+    "disclosed_at": "2026-10-21T21:34:54.462Z",
+    "votes": 1
   },
   {
     "id": 4132132,

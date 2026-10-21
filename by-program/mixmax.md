@@ -15,8 +15,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 9 | [233376](../reports/233376.md) | mailbomb through invite feature on chrome addon | Medium | — | 6 | [konkakarthik](https://hackerone.com/konkakarthik) | 2017-07-16 |
 | 10 | [233402](../reports/233402.md) | Possible Subdomain Takeover | Medium | — | 6 | [z3t](https://hackerone.com/z3t) | 2017-05-31 |
 | 11 | [233379](../reports/233379.md) | Attacker can trick other into logging in as themselves | Medium | — | 3 | [fixit](https://hackerone.com/fixit) | 2017-06-13 |
-| 12 | [246055](../reports/246055.md) | Public calendar link can be invisible | Low | — | 9 | [faisal2542](https://hackerone.com/faisal2542) | 2017-08-07 |
-| 13 | [236301](../reports/236301.md) | Blind SSRF due to img tag injection in career form | Low | — | 9 | [encrypt](https://hackerone.com/encrypt) | 2017-07-19 |
+| 12 | [236301](../reports/236301.md) | Blind SSRF due to img tag injection in career form | Low | — | 9 | [encrypt](https://hackerone.com/encrypt) | 2017-07-19 |
+| 13 | [246055](../reports/246055.md) | Public calendar link can be invisible | Low | — | 9 | [faisal2542](https://hackerone.com/faisal2542) | 2017-08-07 |
 | 14 | [234758](../reports/234758.md) | CRLF Injection on https://vpn.mixmax.com | Low | — | 8 | [sir_morty](https://hackerone.com/sir_morty) | 2017-06-06 |
 | 15 | [236188](../reports/236188.md) | Missing restriction on string size of contact field | Low | — | 7 | [mr_r3boot](https://hackerone.com/mr_r3boot) | 2017-06-13 |
 | 16 | [237125](../reports/237125.md) | no string size restriction on team name | Low | — | 6 | [michan](https://hackerone.com/michan) | 2017-07-16 |
