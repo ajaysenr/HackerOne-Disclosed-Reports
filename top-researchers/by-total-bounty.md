@@ -121,7 +121,7 @@
 | 117 | [ashoka_rao](https://hackerone.com/ashoka_rao) | 3 | $7,250 | 485 |
 | 118 | [ashketchum](https://hackerone.com/ashketchum) | 4 | $7,050 | 449 |
 | 119 | [asanso](https://hackerone.com/asanso) | 4 | $7,000 | 43 |
-| 120 | [brumbelow](https://hackerone.com/brumbelow) | 2 | $7,000 | 112 |
+| 120 | [brumbelow](https://hackerone.com/brumbelow) | 3 | $7,000 | 114 |
 | 121 | [l33thaxor](https://hackerone.com/l33thaxor) | 5 | $6,789 | 163 |
 | 122 | [nishimunea](https://hackerone.com/nishimunea) | 13 | $6,650 | 279 |
 | 123 | [aki__0421](https://hackerone.com/aki__0421) | 3 | $6,347 | 213 |
@@ -840,11 +840,11 @@
 | 836 | [zorixu](https://hackerone.com/zorixu) | 1 | $200 | 86 |
 | 837 | [surajbhosale](https://hackerone.com/surajbhosale) | 1 | $200 | 97 |
 | 838 | [vavkamil](https://hackerone.com/vavkamil) | 4 | $200 | 108 |
-| 839 | [jayateerthag](https://hackerone.com/jayateerthag) | 2 | $200 | 64 |
-| 840 | [hyk3n](https://hackerone.com/hyk3n) | 1 | $200 | 65 |
-| 841 | [lucach](https://hackerone.com/lucach) | 1 | $200 | 15 |
-| 842 | [s3curityb3ast](https://hackerone.com/s3curityb3ast) | 1 | $200 | 14 |
-| 843 | [sujitjaunjal](https://hackerone.com/sujitjaunjal) | 1 | $200 | 11 |
+| 839 | [sujitjaunjal](https://hackerone.com/sujitjaunjal) | 3 | $200 | 13 |
+| 840 | [jayateerthag](https://hackerone.com/jayateerthag) | 2 | $200 | 64 |
+| 841 | [hyk3n](https://hackerone.com/hyk3n) | 1 | $200 | 65 |
+| 842 | [lucach](https://hackerone.com/lucach) | 1 | $200 | 15 |
+| 843 | [s3curityb3ast](https://hackerone.com/s3curityb3ast) | 1 | $200 | 14 |
 | 844 | [bereza4321](https://hackerone.com/bereza4321) | 1 | $200 | 11 |
 | 845 | [socialcodia](https://hackerone.com/socialcodia) | 1 | $200 | 15 |
 | 846 | [0xlegendkiller](https://hackerone.com/0xlegendkiller) | 2 | $200 | 34 |

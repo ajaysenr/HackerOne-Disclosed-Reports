@@ -12080,6 +12080,7 @@ https://hackerone.com/reports/3634400 | SSRF Filter Bypass via Unblocked NAT64 L
 https://hackerone.com/reports/3634571 | Path Traversal in writeFile via Unsafe Prefix Containment Check Allows Out-of-Directory Writes
 https://hackerone.com/reports/3636044 | HTTP/2 PUSH_PROMISE header loss on OOM bypasses scheme validation (regression of 2e8c922a89)
 https://hackerone.com/reports/3636244 | HackerOne Vulnerability Report: libcurl SSL/TLS Identity Leakage via Insecure Connection Reuse
+https://hackerone.com/reports/3636758 | Cross-room signaling injection enabling unauthorized force-mute
 https://hackerone.com/reports/3637898 | OS Command Injection in `aws-cdk-lib` NodejsFunction via Unsanitized `OsCommand` Helper (Supply Chain RCE)
 https://hackerone.com/reports/3638715 | Use-After-Free race condition in url_move_hostname() via shared connection pool
 https://hackerone.com/reports/3638909 | GitHub scoped user to server tokens can escape their installation
@@ -12505,6 +12506,8 @@ https://hackerone.com/reports/4121675 | CRLF injection in the RTSP request-line 
 https://hackerone.com/reports/4121685 | curl RTSP connection reuse routes response headers to the RTP callback (rtsp_conn state machine not reset between sessions)
 https://hackerone.com/reports/4121689 | CRLF injection in the HTTP request-line via `CURLOPT_REQUEST_TARGET` (`--request-target`)
 https://hackerone.com/reports/4122039 | libcurl shared-HSTS-cache race leads to use-after-free with attacker-controlled function-pointer call
+https://hackerone.com/reports/4123050 | CVE-2026-11586 fix is incomplete: auto-PONG memory grows without limit through curl_ws_recv() (CONNECT_ONLY)
+https://hackerone.com/reports/4123571 | Redirect to imap/pop3/smtp (SASL) or sftp/scp (libssh) authenticates to the attacker's host with the user's ambient Kerberos credentials
 https://hackerone.com/reports/4123646 | TLS session cache key omits native_ca_store: a session validated with CURLSSLOPT_NATIVE_CA can be resumed by a transfer that disabled it (incomplete f
 https://hackerone.com/reports/4123654 | SCP upload with --crlf sends more bytes than the size declared to the server (same class curl refused for IMAP CVE-2026-87864 and RTSP)
 https://hackerone.com/reports/4123749 | WebSocket decoder use-after-free when curl_easy_pause() unpauses from a debug callback

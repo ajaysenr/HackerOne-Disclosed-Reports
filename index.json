@@ -235994,6 +235994,27 @@
     "votes": 26
   },
   {
+    "id": 3636758,
+    "url": "https://hackerone.com/reports/3636758",
+    "title": "Cross-room signaling injection enabling unauthorized force-mute",
+    "visibility": "full",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "brumbelow",
+    "severity": "low",
+    "cvss": 3.3,
+    "weakness": "Improper Authentication - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-45266"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-03-30",
+    "disclosed_at": "2026-10-21T18:56:00.702Z",
+    "votes": 2
+  },
+  {
     "id": 3637898,
     "url": "https://hackerone.com/reports/3637898",
     "title": "OS Command Injection in `aws-cdk-lib` NodejsFunction via Unsanitized `OsCommand` Helper (Supply Chain RCE)",
@@ -244420,6 +244441,51 @@
     "reported_at": "2026-10-17",
     "disclosed_at": "2026-10-19T09:13:19.225Z",
     "votes": 2
+  },
+  {
+    "id": 4123050,
+    "url": "https://hackerone.com/reports/4123050",
+    "title": "CVE-2026-11586 fix is incomplete: auto-PONG memory grows without limit through curl_ws_recv() (CONNECT_ONLY)",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "sujitjaunjal",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Allocation of Resources Without Limits or Throttling",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-11586"
+    ],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-17",
+    "disclosed_at": "2026-10-21T17:25:46.256Z",
+    "votes": 1
+  },
+  {
+    "id": 4123571,
+    "url": "https://hackerone.com/reports/4123571",
+    "title": "Redirect to imap/pop3/smtp (SASL) or sftp/scp (libssh) authenticates to the attacker's host with the user's ambient Kerberos credentials",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "sujitjaunjal",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Information Exposure Through Sent Data",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-94265",
+      "CVE-2026-86413",
+      "CVE-2026-86410",
+      "CVE-2025-14524"
+    ],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-17",
+    "disclosed_at": "2026-10-21T17:26:10.627Z",
+    "votes": 1
   },
   {
     "id": 4123646,
