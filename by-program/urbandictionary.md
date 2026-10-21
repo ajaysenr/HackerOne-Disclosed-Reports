@@ -18,7 +18,7 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 12 | [189356](../reports/189356.md) | Text injection on Auth problem at urbandictionary.com | None | — | 10 | [ak1t4](https://hackerone.com/ak1t4) | 2017-01-17 |
 | 13 | [80694](../reports/80694.md) | Reflective Xss Vulnerability  | None | — | 4 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2015-09-16 |
 | 14 | [12964](../reports/12964.md) | Open URL Redirection | None | — | 4 | [mafia](https://hackerone.com/mafia) | 2014-07-08 |
-| 15 | [115438](../reports/115438.md) | Cross-Site Scripting Vulnerability in urbandictionary.com | None | — | 2 | [ishahriyar](https://hackerone.com/ishahriyar) | 2016-04-28 |
-| 16 | [12949](../reports/12949.md) | Open Redirection | None | — | 2 | [atom](https://hackerone.com/atom) | 2014-07-08 |
+| 15 | [12949](../reports/12949.md) | Open Redirection | None | — | 2 | [atom](https://hackerone.com/atom) | 2014-07-08 |
+| 16 | [115438](../reports/115438.md) | Cross-Site Scripting Vulnerability in urbandictionary.com | None | — | 2 | [ishahriyar](https://hackerone.com/ishahriyar) | 2016-04-28 |
 | 17 | [103432](../reports/103432.md) | URGENT - Subdomain Takeover in support.urbandictionary.com p | None | — | 1 | [harrymg](https://hackerone.com/harrymg) | 2016-01-04 |
 | 18 | [216336](../reports/216336.md) | Source Code Disclosure | None | — | 0 | [linkks](https://hackerone.com/linkks) | 2019-01-08 |

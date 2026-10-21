@@ -27,8 +27,8 @@
 | 21 | [221833](../reports/221833.md) | [https://jenkins.brew.sh] Jenkins in Debug Mode with Stack Traces | [Homebrew](../by-program/homebrew.md) | Medium | — | 14 |
 | 22 | [3153971](../reports/3153971.md) | Stack Buffer Overflow in curl's OpenSSL Provider Handling | [curl](../by-program/curl.md) | Medium | — | 11 |
 | 23 | [3466883](../reports/3466883.md) | Curl Alt-Svc Parser Stack Buffer Overflow | [curl](../by-program/curl.md) | Medium | — | 8 |
-| 24 | [3766217](../reports/3766217.md) | libmariadb ( mariadb-connector-c ): stack overflow via server-con | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 4.1 | — | 3 |
-| 25 | [222108](../reports/222108.md) | Stack Trace on jenkins.brew.sh | [Homebrew](../by-program/homebrew.md) | Medium | — | 3 |
+| 24 | [222108](../reports/222108.md) | Stack Trace on jenkins.brew.sh | [Homebrew](../by-program/homebrew.md) | Medium | — | 3 |
+| 25 | [3766217](../reports/3766217.md) | libmariadb ( mariadb-connector-c ): stack overflow via server-con | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 4.1 | — | 3 |
 | 26 | [3769676](../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated | [MariaDB](../by-program/mariadb.md) | Medium | — | 2 |
 | 27 | [1753224](../reports/1753224.md) | CVE-2022-35260: .netrc parser out-of-bounds access | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 11 |
 | 28 | [497255](../reports/497255.md) | A stack buffer overflow in BabyGrid.cpp can lead to program crash | [Notepad++](../by-program/notepad-plus-plus.md) | Low | — | 8 |
