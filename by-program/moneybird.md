@@ -20,11 +20,11 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 14 | [135989](../reports/135989.md) | Employees with Any Permissions Can Create App with Full Perm | None | — | 15 | [yaworsk](https://hackerone.com/yaworsk) | 2016-06-13 |
 | 15 | [130661](../reports/130661.md) | XXE issue | None | — | 13 | [4lemon](https://hackerone.com/4lemon) | 2017-03-17 |
 | 16 | [147656](../reports/147656.md) | Logging out any user | None | — | 13 | [japz](https://hackerone.com/japz) | 2016-08-26 |
-| 17 | [142893](../reports/142893.md) | [STORED XSS] in debtor reports of ,,invoices'' | None | — | 9 | [bogdantc](https://hackerone.com/bogdantc) | 2016-07-06 |
-| 18 | [130591](../reports/130591.md) | Stored XSS thru SVG upload | None | — | 9 | [4lemon](https://hackerone.com/4lemon) | 2017-03-17 |
+| 17 | [130591](../reports/130591.md) | Stored XSS thru SVG upload | None | — | 9 | [4lemon](https://hackerone.com/4lemon) | 2017-03-17 |
+| 18 | [142893](../reports/142893.md) | [STORED XSS] in debtor reports of ,,invoices'' | None | — | 9 | [bogdantc](https://hackerone.com/bogdantc) | 2016-07-06 |
 | 19 | [131038](../reports/131038.md) | Stored XSS in Financial Account executing in Bank tab | None | — | 7 | [hackheaven123](https://hackerone.com/hackheaven123) | 2016-06-13 |
-| 20 | [131728](../reports/131728.md) | Open Redirect vulnerability in moneybird.com | None | — | 6 | [dorkybug](https://hackerone.com/dorkybug) | 2016-07-28 |
-| 21 | [158541](../reports/158541.md) | Webhook allows sending payload using insecure HTTP protocol | None | — | 6 | [mattweidner](https://hackerone.com/mattweidner) | 2017-06-28 |
+| 20 | [158541](../reports/158541.md) | Webhook allows sending payload using insecure HTTP protocol | None | — | 6 | [mattweidner](https://hackerone.com/mattweidner) | 2017-06-28 |
+| 21 | [131728](../reports/131728.md) | Open Redirect vulnerability in moneybird.com | None | — | 6 | [dorkybug](https://hackerone.com/dorkybug) | 2016-07-28 |
 | 22 | [131028](../reports/131028.md) | Malicious File Upload | None | — | 5 | [hackheaven](https://hackerone.com/hackheaven) | 2016-06-13 |
 | 23 | [133753](../reports/133753.md) | Content Spoofing In Moneybird | None | — | 4 | [dorkybug](https://hackerone.com/dorkybug) | 2016-08-26 |
 | 24 | [130338](../reports/130338.md) | CSV Injection with the CSV export feature | None | — | 3 | [trabajoduro](https://hackerone.com/trabajoduro) | 2016-06-13 |

@@ -244704,5 +244704,24 @@
     "reported_at": "2026-10-20",
     "disclosed_at": "2026-10-20T17:00:34.508Z",
     "votes": 0
+  },
+  {
+    "id": 4132132,
+    "url": "https://hackerone.com/reports/4132132",
+    "title": "POP3: data after the end-of-body terminator is written into the retrieved message",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "durgasai1",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Acceptance of Extraneous Untrusted Data With Trusted Data",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-20",
+    "disclosed_at": "2026-10-21T04:21:36.257Z",
+    "votes": 1
   }
 ]

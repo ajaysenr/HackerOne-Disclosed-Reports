@@ -33,8 +33,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 27 | [121827](../reports/121827.md) | Account Takeover | None | — | 17 | [bugdisclose](https://hackerone.com/bugdisclose) | 2016-03-12 |
 | 28 | [96662](../reports/96662.md) | crossdomain.xml too permissive on eu1.badoo.com, us1.badoo.c | None | — | 16 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2017-08-31 |
 | 29 | [99435](../reports/99435.md) | Open redirect helps to steal Facebook access_token | None | — | 9 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2017-08-31 |
-| 30 | [126861](../reports/126861.md) | Insecure Direct Object Reference on badoo.com | None | — | 7 | [b6117130df17feef13481e3](https://hackerone.com/b6117130df17feef13481e3) | 2016-04-12 |
-| 31 | [92472](../reports/92472.md) | Tokens from services like Facebook can be stolen | None | — | 7 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2016-06-03 |
+| 30 | [92472](../reports/92472.md) | Tokens from services like Facebook can be stolen | None | — | 7 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2016-06-03 |
+| 31 | [126861](../reports/126861.md) | Insecure Direct Object Reference on badoo.com | None | — | 7 | [b6117130df17feef13481e3](https://hackerone.com/b6117130df17feef13481e3) | 2016-04-12 |
 | 32 | [239170](../reports/239170.md) | CSRF bug  | None | — | 6 | [dark_heaven](https://hackerone.com/dark_heaven) | 2017-06-12 |
 | 33 | [139192](../reports/139192.md) | Ability to collect users' ids that have visited a specific w | None | — | 6 | [saeedhashem](https://hackerone.com/saeedhashem) | 2016-06-03 |
 | 34 | [119794](../reports/119794.md) | Password modification without knowing actual password & http | None | — | 5 | [ngocdh](https://hackerone.com/ngocdh) | 2016-04-12 |

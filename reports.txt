@@ -12519,3 +12519,4 @@ https://hackerone.com/reports/4127756 | urlapi: CURLUPART_HOST accepts text afte
 https://hackerone.com/reports/4128703 | curl reuses an HTTPS connection when a response is already buffered in the TLS stack
 https://hackerone.com/reports/4129638 | TLS session cache ignores CURLOPT_SSL_CTX_FUNCTION identity and resumes one client's session for another
 https://hackerone.com/reports/4129642 | HSTS cache file: three trailing dots silently disable HSTS for that host
+https://hackerone.com/reports/4132132 | POP3: data after the end-of-body terminator is written into the retrieved message
