@@ -29,7 +29,7 @@ Use the interactive dashboard to search reports and filter them by severity, yea
 | **Medium** | 3,601 |
 | **Low** | 2,296 |
 
-*Last Updated: October 21, 2026 at 09:03 PM EST*
+*Last Updated: October 22, 2026 at 02:45 AM EST*
 
 ## 📁 Browse
 
