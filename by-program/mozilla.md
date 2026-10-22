@@ -15,8 +15,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 9 | [1984060](../reports/1984060.md) | After the upload of an private file, using transformations,  | Medium — CVSS 6.5 | $1,000 | 61 | [limusec](https://hackerone.com/limusec) | 2023-10-20 |
 | 10 | [2197244](../reports/2197244.md) | Account deletion using the /v1/account/destroy API endpoint  | Medium | $1,000 | 51 | [erdy](https://hackerone.com/erdy) | 2024-06-17 |
 | 11 | [2109320](../reports/2109320.md) | Potential Spoofing Risk through Firefox Private Relay Servic | Medium | $1,000 | 42 | [nicholas_cw](https://hackerone.com/nicholas_cw) | 2023-10-13 |
-| 12 | [1880929](../reports/1880929.md) | Email  user account in indexacao waybackurl | Medium | $1,000 | 18 | [kauenavarro](https://hackerone.com/kauenavarro) | 2023-04-05 |
-| 13 | [1880896](../reports/1880896.md) | HTML Injection / Reflected Cross-Site Scripting with CSP on  | Medium — CVSS 5.0 | $1,000 | 18 | [celesian](https://hackerone.com/celesian) | 2023-04-04 |
+| 12 | [1880896](../reports/1880896.md) | HTML Injection / Reflected Cross-Site Scripting with CSP on  | Medium — CVSS 5.0 | $1,000 | 18 | [celesian](https://hackerone.com/celesian) | 2023-04-04 |
+| 13 | [1880929](../reports/1880929.md) | Email  user account in indexacao waybackurl | Medium | $1,000 | 18 | [kauenavarro](https://hackerone.com/kauenavarro) | 2023-04-05 |
 | 14 | [2899858](../reports/2899858.md) | Subdomain takeover on a subdomain under firefox.com | Medium — CVSS 6.5 | $500 | 75 | [martinvw](https://hackerone.com/martinvw) | 2025-07-03 |
 | 15 | [2706358](../reports/2706358.md) | [ addons-preview-cdn.mozilla.net ] A subdomain takeover is a | Medium | $500 | 66 | [haveaniceday](https://hackerone.com/haveaniceday) | 2024-12-06 |
 | 16 | [3279441](../reports/3279441.md) | Bypass of Restricted Keyword "Mozilla" in Display Name Field | Low | $500 | 63 | [icecream_23](https://hackerone.com/icecream_23) | 2026-04-27 |
@@ -45,8 +45,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 39 | [2286867](../reports/2286867.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 44 | [holybugx](https://hackerone.com/holybugx) | 2024-01-04 |
 | 40 | [3020021](../reports/3020021.md) | [Vertical Privilege Escalation] User can Unapproved any Appr | Medium — CVSS 6.5 | — | 42 | [adilnbabras](https://hackerone.com/adilnbabras) | 2026-04-10 |
 | 41 | [2209571](../reports/2209571.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 41 | [d0xing](https://hackerone.com/d0xing) | 2024-02-03 |
-| 42 | [2287098](../reports/2287098.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 40 | [holybugx](https://hackerone.com/holybugx) | 2024-01-04 |
-| 43 | [2261577](../reports/2261577.md) | MozillaVPN: Elevation of Privilege via a Race Condition Vuln | Medium | — | 40 | [northsea](https://hackerone.com/northsea) | 2025-07-03 |
+| 42 | [2261577](../reports/2261577.md) | MozillaVPN: Elevation of Privilege via a Race Condition Vuln | Medium | — | 40 | [northsea](https://hackerone.com/northsea) | 2025-07-03 |
+| 43 | [2287098](../reports/2287098.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 40 | [holybugx](https://hackerone.com/holybugx) | 2024-01-04 |
 | 44 | [2140976](../reports/2140976.md) | Subdomain takeover on one of the subdomain under mozgcp.net | Medium | — | 39 | [mikey96](https://hackerone.com/mikey96) | 2023-11-12 |
 | 45 | [2285286](../reports/2285286.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 37 | [holybugx](https://hackerone.com/holybugx) | 2024-01-04 |
 | 46 | [2398630](../reports/2398630.md) | Subdomain takeover on one of the subdomains under mozaws.net | Medium | — | 34 | [d0xing](https://hackerone.com/d0xing) | 2024-07-25 |

@@ -244747,6 +244747,25 @@
     "votes": 0
   },
   {
+    "id": 4128701,
+    "url": "https://hackerone.com/reports/4128701",
+    "title": "Pinned public key check passes for a key the server does not hold with the wolfSSL backend",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "matty69v",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Improper Certificate Validation",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-19",
+    "disclosed_at": "2026-10-22T06:56:59.365Z",
+    "votes": 2
+  },
+  {
     "id": 4128703,
     "url": "https://hackerone.com/reports/4128703",
     "title": "curl reuses an HTTPS connection when a response is already buffered in the TLS stack",
@@ -244830,6 +244849,30 @@
     "reported_at": "2026-10-20",
     "disclosed_at": "2026-10-21T21:34:54.462Z",
     "votes": 1
+  },
+  {
+    "id": 4131903,
+    "url": "https://hackerone.com/reports/4131903",
+    "title": "A server response that answers nothing is used as the next transfer's reply \u2014 and with IMAP, a fully compliant server does this by accident",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "jashu19",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-92387",
+      "CVE-2020-8284",
+      "CVE-2026-86411",
+      "CVE-2023-27535"
+    ],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-20",
+    "disclosed_at": "2026-10-22T06:55:50.434Z",
+    "votes": 2
   },
   {
     "id": 4132132,
