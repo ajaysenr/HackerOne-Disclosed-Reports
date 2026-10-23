@@ -12481,6 +12481,7 @@ https://hackerone.com/reports/4030333 | CVE-2026-92392: HTTP/2 upload Use-After-
 https://hackerone.com/reports/4033108 | Retry-independent time-condition HTTP/2 UAF
 https://hackerone.com/reports/4033971 | Use-after-free of the internal multi->admin easy handle via the documented CURLMOPT_NOTIFYFUNCTION callback
 https://hackerone.com/reports/4035023 | Ordinary HEY user can make HEY originate authenticated mail from attacker-selected @hey.com  addresses
+https://hackerone.com/reports/4038342 | dns.resolve truncates names containing NUL char
 https://hackerone.com/reports/4040551 | CVE-2026-94265: Authorization: Negotiate sent to foreign origin
 https://hackerone.com/reports/4040799 | Windows filename sanitizer misses Unicode COM/LPT reserved device names
 https://hackerone.com/reports/4041053 | CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL

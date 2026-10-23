@@ -1957,7 +1957,7 @@
 | 1953 | [pabl00nicarres](https://hackerone.com/pabl00nicarres) | 4 | $0 | 45 |
 | 1954 | [3la2kb](https://hackerone.com/3la2kb) | 2 | $0 | 13 |
 | 1955 | [tabaahi](https://hackerone.com/tabaahi) | 2 | $0 | 40 |
-| 1956 | [hasanfleyah](https://hackerone.com/hasanfleyah) | 1 | $0 | 1 |
+| 1956 | [hasanfleyah](https://hackerone.com/hasanfleyah) | 2 | $0 | 5 |
 | 1957 | [adminadminadmin](https://hackerone.com/adminadminadmin) | 2 | $0 | 18 |
 | 1958 | [samhax](https://hackerone.com/samhax) | 2 | $0 | 7 |
 | 1959 | [3lcarry](https://hackerone.com/3lcarry) | 2 | $0 | 53 |
@@ -3026,7 +3026,7 @@
 | 3022 | [seven6](https://hackerone.com/seven6) | 1 | $0 | 45 |
 | 3023 | [mebeim](https://hackerone.com/mebeim) | 1 | $0 | 19 |
 | 3024 | [wester0x01](https://hackerone.com/wester0x01) | 1 | $0 | 25 |
-| 3025 | [qloo](https://hackerone.com/qloo) | 1 | $0 | 7 |
+| 3025 | [qloo](https://hackerone.com/qloo) | 1 | $0 | 19 |
 | 3026 | [hax0rgb](https://hackerone.com/hax0rgb) | 3 | $0 | 24 |
 | 3027 | [juthawong](https://hackerone.com/juthawong) | 1 | $0 | 3 |
 | 3028 | [sumit7](https://hackerone.com/sumit7) | 6 | $0 | 53 |

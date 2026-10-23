@@ -231,60 +231,60 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 225 | [1924212](../reports/1924212.md) | Improper restriction of excessive authentication attempts on | Medium — CVSS 5.0 | — | 22 | [unknownsh](https://hackerone.com/unknownsh) | 2023-08-10 |
 | 226 | [3112033](../reports/3112033.md) | Calendar attachments of local files are offered to downloade | Medium — CVSS 5.7 | — | 22 | [daroo](https://hackerone.com/daroo) | 2025-12-05 |
 | 227 | [2211561](../reports/2211561.md) | Self XSS when pasting HTML into Text app with Ctrl+Shift+V | Medium — CVSS 4.6 | — | 20 | [max_nextcloud](https://hackerone.com/max_nextcloud) | 2023-12-21 |
-| 228 | [2110945](../reports/2110945.md) | Memcached used as RateLimiter backend is no-op | Medium — CVSS 4.3 | — | 19 | [nickvergessen](https://hackerone.com/nickvergessen) | 2023-11-12 |
-| 229 | [1358977](../reports/1358977.md) | When sharing a Deck card in conversation the metaData can be | Medium — CVSS 5.0 | — | 19 | [ctulhu](https://hackerone.com/ctulhu) | 2022-02-15 |
-| 230 | [343111](../reports/343111.md) | OAuth2 Access Token and App Password Security Vulnerability | Medium — CVSS 6.4 | — | 19 | [noumar](https://hackerone.com/noumar) | 2018-07-21 |
-| 231 | [1337422](../reports/1337422.md) | Folder architecture and Filesizes of private file drop share | Medium | — | 18 | [shakierbellows](https://hackerone.com/shakierbellows) | 2022-04-09 |
-| 232 | [605915](../reports/605915.md) | Reflected XSS / Markup Injection in `index.php/svg/core/logo | Medium — CVSS 6.5 | — | 17 | [freddyb](https://hackerone.com/freddyb) | 2019-08-29 |
-| 233 | [2289333](../reports/2289333.md) | see card comments after remove shared board | Medium — CVSS 4.3 | — | 17 | [mohs3n](https://hackerone.com/mohs3n) | 2024-06-18 |
-| 234 | [458696](../reports/458696.md) | xmlrpc.php is enabled - Nextcloud | Medium | — | 17 | [theendisnear](https://hackerone.com/theendisnear) | 2020-03-01 |
-| 235 | [619484](../reports/619484.md) | User with read-only access to a share can gain write access  | Medium — CVSS 4.8 | — | 17 | [phil-davis](https://hackerone.com/phil-davis) | 2020-03-01 |
-| 236 | [1895976](../reports/1895976.md) | Users can set up workflows using restricted and invisible sy | Medium — CVSS 6.5 | — | 17 | [maxime_le-hericy](https://hackerone.com/maxime_le-hericy) | 2023-05-17 |
-| 237 | [685552](../reports/685552.md) | XSS in desktop client via invalid server address on login fo | Medium — CVSS 4.7 | — | 17 | [jplopezy](https://hackerone.com/jplopezy) | 2020-08-17 |
-| 238 | [1850407](../reports/1850407.md) | Chat room member disclosure via autocomplete API | Medium — CVSS 4.2 | — | 17 | [lukasreschke](https://hackerone.com/lukasreschke) | 2023-03-25 |
-| 239 | [952349](../reports/952349.md) | Possible denial of service when entering a loooong password | Medium — CVSS 5.3 | — | 16 | [guoxuxin](https://hackerone.com/guoxuxin) | 2020-09-16 |
-| 240 | [2108342](../reports/2108342.md) | Error when editing a calendar appointment returns stacktrace | Medium — CVSS 4.3 | — | 16 | [st0nzy](https://hackerone.com/st0nzy) | 2024-01-17 |
-| 241 | [1094063](../reports/1094063.md) | Take over a mail account due missing validation of account i | Medium — CVSS 5.4 | — | 15 | [kesselb](https://hackerone.com/kesselb) | 2021-06-01 |
-| 242 | [1916565](../reports/1916565.md) | Twitter Account hijack @nextcloudfrance | Medium | — | 15 | [devokta](https://hackerone.com/devokta) | 2023-03-30 |
-| 243 | [867052](../reports/867052.md) | Access Control: Inject tasks into other users decks | Medium — CVSS 4.1 | — | 15 | [dedoc](https://hackerone.com/dedoc) | 2021-02-02 |
-| 244 | [1706248](../reports/1706248.md) | Guests can continue to receive video streams from call after | Medium — CVSS 6.6 | — | 15 | [daniel_calvino_sanchez](https://hackerone.com/daniel_calvino_sanchez) | 2022-12-31 |
-| 245 | [1895874](../reports/1895874.md) | Responsive Server-side Request Forgery (SSRF) | Medium — CVSS 4.3 | — | 14 | [bhmth](https://hackerone.com/bhmth) | 2023-10-19 |
-| 246 | [165229](../reports/165229.md) | Nextcloud 10.0 privilege escalation issue - Normal user can  | Medium — CVSS 5.4 | — | 14 | [egrep](https://hackerone.com/egrep) | 2020-03-01 |
-| 247 | [1767503](../reports/1767503.md) | Reference caching can leak data to unauthorized users | Medium — CVSS 5.4 | — | 14 | [systemkeeper](https://hackerone.com/systemkeeper) | 2023-01-13 |
-| 248 | [508490](../reports/508490.md) | Nextcloud domain and name of every user leaked to lookup ser | Medium — CVSS 6.8 | — | 14 | [leonklingele](https://hackerone.com/leonklingele) | 2019-11-26 |
-| 249 | [218733](../reports/218733.md) | Design Issues on ( ███ ) Lead to show ( IPS of Users )  | Medium | — | 13 | [m7mdharoun](https://hackerone.com/m7mdharoun) | 2017-04-05 |
-| 250 | [1893186](../reports/1893186.md) | Reflected XSS vulnerability with full CSP bypass in Nextclou | Medium — CVSS 4.3 | — | 13 | [lukasreschke](https://hackerone.com/lukasreschke) | 2023-05-15 |
-| 251 | [1720043](../reports/1720043.md) | Desktop client can be tricked into opening/executing local f | Medium — CVSS 6.6 | — | 13 | [lukasreschke](https://hackerone.com/lukasreschke) | 2023-02-10 |
-| 252 | [697959](../reports/697959.md) | Only the file extensions are checked, not the MIME types as  | Medium — CVSS 5.5 | — | 13 | [teaport](https://hackerone.com/teaport) | 2020-03-14 |
-| 253 | [3770482](../reports/3770482.md) | files_lock: a write-share collaborator can place a TYPE_TOKE | Medium — CVSS 6.5 | — | 13 | [rz1027](https://hackerone.com/rz1027) | 2026-09-18 |
-| 254 | [2047168](../reports/2047168.md) | Any (non-admin) user from an instance can destroy any (user  | Medium — CVSS 6.5 | — | 12 | [cult](https://hackerone.com/cult) | 2023-08-10 |
-| 255 | [1450117](../reports/1450117.md) | Nextcloud Deck : Possibility for anyone to add a stack with  | Medium — CVSS 5.0 | — | 12 | [supr4s](https://hackerone.com/supr4s) | 2022-05-20 |
-| 256 | [504731](../reports/504731.md) |  Predictable Random Number Generator | Medium | — | 12 | [d4rkrai](https://hackerone.com/d4rkrai) | 2019-06-26 |
-| 257 | [896511](../reports/896511.md) | XSS in image metadata field | Medium — CVSS 5.3 | — | 12 | [yzy9951](https://hackerone.com/yzy9951) | 2020-08-05 |
-| 258 | [341372](../reports/341372.md) | The session token in the URL | Medium | — | 11 | [mandark](https://hackerone.com/mandark) | 2018-06-19 |
-| 259 | [3301553](../reports/3301553.md) | Cross-User Lock/Unlock via Absolute DAV Path | Medium — CVSS 6.3 | — | 11 | [0x0doteth](https://hackerone.com/0x0doteth) | 2026-09-17 |
-| 260 | [761329](../reports/761329.md) | Update App Store: Django account high jacking vulnerability | Medium — CVSS 6.5 | — | 11 | [bernhardposselt](https://hackerone.com/bernhardposselt) | 2020-01-31 |
-| 261 | [476526](../reports/476526.md) | WordPress vulnerable to multiple attacks at https://nextclou | Medium | — | 11 | [br3ach](https://hackerone.com/br3ach) | 2020-03-01 |
-| 262 | [3303283](../reports/3303283.md) | Unauthenticated blind SSRF in Circles signature verification | Medium — CVSS 6.2 | — | 11 | [0x0doteth](https://hackerone.com/0x0doteth) | 2026-09-17 |
-| 263 | [1641088](../reports/1641088.md) | Last video frame is still sent after video is disabled in a  | Medium — CVSS 4.2 | — | 10 | [daniel_calvino_sanchez](https://hackerone.com/daniel_calvino_sanchez) | 2022-09-16 |
-| 264 | [1788222](../reports/1788222.md) | Document content of files can be obtained through Collabora  | Medium — CVSS 5.8 | — | 10 | [juliushaertl](https://hackerone.com/juliushaertl) | 2023-05-04 |
-| 265 | [1153138](../reports/1153138.md) | Improper input-size validation on the user new session name  | Medium — CVSS 4.3 | — | 10 | [demonia](https://hackerone.com/demonia) | 2022-05-31 |
-| 266 | [3506873](../reports/3506873.md) | Shared smart albums in the Photos app can expose files outsi | Medium — CVSS 6.5 | — | 10 | [suul](https://hackerone.com/suul) | 2026-09-17 |
-| 267 | [1765631](../reports/1765631.md) | Potential directory traversal in OC\Files\Node\Folder::getFu | Medium — CVSS 5.5 | — | 10 | [nickvergessen](https://hackerone.com/nickvergessen) | 2023-05-04 |
-| 268 | [196878](../reports/196878.md) | bug reporting template encourages users to paste config file | Medium | — | 10 | [hanno](https://hackerone.com/hanno) | 2017-04-19 |
-| 269 | [169680](../reports/169680.md) | Bypass permissions | Medium — CVSS 5.4 | — | 9 | [b42f97eb69dddcafe5cc278](https://hackerone.com/b42f97eb69dddcafe5cc278) | 2017-02-09 |
-| 270 | [163338](../reports/163338.md) | \OCA\DAV\CardDAV\ImageExportPlugin allows serving arbitrary  | Medium — CVSS 5.4 | — | 9 | [lukasreschke](https://hackerone.com/lukasreschke) | 2016-12-03 |
-| 271 | [803734](../reports/803734.md) | Mail does not verify IMAP/SMTP host connected via TLS | Medium — CVSS 5.9 | — | 9 | [christophwurst](https://hackerone.com/christophwurst) | 2020-06-03 |
-| 272 | [1338781](../reports/1338781.md) | User files is disclosed when someone called while the screen | Medium | — | 9 | [ctulhu](https://hackerone.com/ctulhu) | 2022-03-14 |
-| 273 | [1808079](../reports/1808079.md) | Permissions not respected when copying entire group folders | Medium — CVSS 6.5 | — | 9 | [carl_schwan](https://hackerone.com/carl_schwan) | 2023-09-09 |
-| 274 | [1202590](../reports/1202590.md) | Webauthn tokens are not removed on user deletion | Medium | — | 9 | [rtod](https://hackerone.com/rtod) | 2021-08-07 |
-| 275 | [1402249](../reports/1402249.md) | Control character filtering misses leading and trailing whit | Medium — CVSS 4.3 | — | 8 | [david_h1](https://hackerone.com/david_h1) | 2022-05-27 |
-| 276 | [921717](../reports/921717.md) | Improper access control to messages of Social app | Medium — CVSS 5.0 | — | 8 | [sanktjodel](https://hackerone.com/sanktjodel) | 2020-11-17 |
-| 277 | [1337178](../reports/1337178.md) | objectId in share location can be set to open arbitrary URL  | Medium | — | 8 | [ctulhu](https://hackerone.com/ctulhu) | 2022-03-08 |
-| 278 | [1901396](../reports/1901396.md) | Dos in Form Submission at https://nextcloud.com/instant-tria | Medium | — | 8 | [krrish_hackk](https://hackerone.com/krrish_hackk) | 2023-09-26 |
-| 279 | [457032](../reports/457032.md) | Github wikis are editable by anyone  | Medium | — | 8 | [xiridium](https://hackerone.com/xiridium) | 2018-12-07 |
-| 280 | [746541](../reports/746541.md) | SSRF on local storage of iOS mobile | Medium | — | 7 | [l0l1ch3ng](https://hackerone.com/l0l1ch3ng) | 2020-03-01 |
-| 281 | [3674940](../reports/3674940.md) | Critical broken access control: API-only delegated admin can | Medium — CVSS 6.5 | — | 7 | [qloo](https://hackerone.com/qloo) | 2026-09-17 |
+| 228 | [3674940](../reports/3674940.md) | Critical broken access control: API-only delegated admin can | Medium — CVSS 5.7 | — | 19 | [qloo](https://hackerone.com/qloo) | 2026-09-17 |
+| 229 | [2110945](../reports/2110945.md) | Memcached used as RateLimiter backend is no-op | Medium — CVSS 4.3 | — | 19 | [nickvergessen](https://hackerone.com/nickvergessen) | 2023-11-12 |
+| 230 | [1358977](../reports/1358977.md) | When sharing a Deck card in conversation the metaData can be | Medium — CVSS 5.0 | — | 19 | [ctulhu](https://hackerone.com/ctulhu) | 2022-02-15 |
+| 231 | [343111](../reports/343111.md) | OAuth2 Access Token and App Password Security Vulnerability | Medium — CVSS 6.4 | — | 19 | [noumar](https://hackerone.com/noumar) | 2018-07-21 |
+| 232 | [1337422](../reports/1337422.md) | Folder architecture and Filesizes of private file drop share | Medium | — | 18 | [shakierbellows](https://hackerone.com/shakierbellows) | 2022-04-09 |
+| 233 | [605915](../reports/605915.md) | Reflected XSS / Markup Injection in `index.php/svg/core/logo | Medium — CVSS 6.5 | — | 17 | [freddyb](https://hackerone.com/freddyb) | 2019-08-29 |
+| 234 | [2289333](../reports/2289333.md) | see card comments after remove shared board | Medium — CVSS 4.3 | — | 17 | [mohs3n](https://hackerone.com/mohs3n) | 2024-06-18 |
+| 235 | [458696](../reports/458696.md) | xmlrpc.php is enabled - Nextcloud | Medium | — | 17 | [theendisnear](https://hackerone.com/theendisnear) | 2020-03-01 |
+| 236 | [619484](../reports/619484.md) | User with read-only access to a share can gain write access  | Medium — CVSS 4.8 | — | 17 | [phil-davis](https://hackerone.com/phil-davis) | 2020-03-01 |
+| 237 | [1895976](../reports/1895976.md) | Users can set up workflows using restricted and invisible sy | Medium — CVSS 6.5 | — | 17 | [maxime_le-hericy](https://hackerone.com/maxime_le-hericy) | 2023-05-17 |
+| 238 | [685552](../reports/685552.md) | XSS in desktop client via invalid server address on login fo | Medium — CVSS 4.7 | — | 17 | [jplopezy](https://hackerone.com/jplopezy) | 2020-08-17 |
+| 239 | [1850407](../reports/1850407.md) | Chat room member disclosure via autocomplete API | Medium — CVSS 4.2 | — | 17 | [lukasreschke](https://hackerone.com/lukasreschke) | 2023-03-25 |
+| 240 | [952349](../reports/952349.md) | Possible denial of service when entering a loooong password | Medium — CVSS 5.3 | — | 16 | [guoxuxin](https://hackerone.com/guoxuxin) | 2020-09-16 |
+| 241 | [2108342](../reports/2108342.md) | Error when editing a calendar appointment returns stacktrace | Medium — CVSS 4.3 | — | 16 | [st0nzy](https://hackerone.com/st0nzy) | 2024-01-17 |
+| 242 | [1094063](../reports/1094063.md) | Take over a mail account due missing validation of account i | Medium — CVSS 5.4 | — | 15 | [kesselb](https://hackerone.com/kesselb) | 2021-06-01 |
+| 243 | [1916565](../reports/1916565.md) | Twitter Account hijack @nextcloudfrance | Medium | — | 15 | [devokta](https://hackerone.com/devokta) | 2023-03-30 |
+| 244 | [867052](../reports/867052.md) | Access Control: Inject tasks into other users decks | Medium — CVSS 4.1 | — | 15 | [dedoc](https://hackerone.com/dedoc) | 2021-02-02 |
+| 245 | [1706248](../reports/1706248.md) | Guests can continue to receive video streams from call after | Medium — CVSS 6.6 | — | 15 | [daniel_calvino_sanchez](https://hackerone.com/daniel_calvino_sanchez) | 2022-12-31 |
+| 246 | [1895874](../reports/1895874.md) | Responsive Server-side Request Forgery (SSRF) | Medium — CVSS 4.3 | — | 14 | [bhmth](https://hackerone.com/bhmth) | 2023-10-19 |
+| 247 | [165229](../reports/165229.md) | Nextcloud 10.0 privilege escalation issue - Normal user can  | Medium — CVSS 5.4 | — | 14 | [egrep](https://hackerone.com/egrep) | 2020-03-01 |
+| 248 | [1767503](../reports/1767503.md) | Reference caching can leak data to unauthorized users | Medium — CVSS 5.4 | — | 14 | [systemkeeper](https://hackerone.com/systemkeeper) | 2023-01-13 |
+| 249 | [508490](../reports/508490.md) | Nextcloud domain and name of every user leaked to lookup ser | Medium — CVSS 6.8 | — | 14 | [leonklingele](https://hackerone.com/leonklingele) | 2019-11-26 |
+| 250 | [218733](../reports/218733.md) | Design Issues on ( ███ ) Lead to show ( IPS of Users )  | Medium | — | 13 | [m7mdharoun](https://hackerone.com/m7mdharoun) | 2017-04-05 |
+| 251 | [1893186](../reports/1893186.md) | Reflected XSS vulnerability with full CSP bypass in Nextclou | Medium — CVSS 4.3 | — | 13 | [lukasreschke](https://hackerone.com/lukasreschke) | 2023-05-15 |
+| 252 | [1720043](../reports/1720043.md) | Desktop client can be tricked into opening/executing local f | Medium — CVSS 6.6 | — | 13 | [lukasreschke](https://hackerone.com/lukasreschke) | 2023-02-10 |
+| 253 | [697959](../reports/697959.md) | Only the file extensions are checked, not the MIME types as  | Medium — CVSS 5.5 | — | 13 | [teaport](https://hackerone.com/teaport) | 2020-03-14 |
+| 254 | [3770482](../reports/3770482.md) | files_lock: a write-share collaborator can place a TYPE_TOKE | Medium — CVSS 6.5 | — | 13 | [rz1027](https://hackerone.com/rz1027) | 2026-09-18 |
+| 255 | [2047168](../reports/2047168.md) | Any (non-admin) user from an instance can destroy any (user  | Medium — CVSS 6.5 | — | 12 | [cult](https://hackerone.com/cult) | 2023-08-10 |
+| 256 | [1450117](../reports/1450117.md) | Nextcloud Deck : Possibility for anyone to add a stack with  | Medium — CVSS 5.0 | — | 12 | [supr4s](https://hackerone.com/supr4s) | 2022-05-20 |
+| 257 | [504731](../reports/504731.md) |  Predictable Random Number Generator | Medium | — | 12 | [d4rkrai](https://hackerone.com/d4rkrai) | 2019-06-26 |
+| 258 | [896511](../reports/896511.md) | XSS in image metadata field | Medium — CVSS 5.3 | — | 12 | [yzy9951](https://hackerone.com/yzy9951) | 2020-08-05 |
+| 259 | [341372](../reports/341372.md) | The session token in the URL | Medium | — | 11 | [mandark](https://hackerone.com/mandark) | 2018-06-19 |
+| 260 | [3301553](../reports/3301553.md) | Cross-User Lock/Unlock via Absolute DAV Path | Medium — CVSS 6.3 | — | 11 | [0x0doteth](https://hackerone.com/0x0doteth) | 2026-09-17 |
+| 261 | [761329](../reports/761329.md) | Update App Store: Django account high jacking vulnerability | Medium — CVSS 6.5 | — | 11 | [bernhardposselt](https://hackerone.com/bernhardposselt) | 2020-01-31 |
+| 262 | [476526](../reports/476526.md) | WordPress vulnerable to multiple attacks at https://nextclou | Medium | — | 11 | [br3ach](https://hackerone.com/br3ach) | 2020-03-01 |
+| 263 | [3303283](../reports/3303283.md) | Unauthenticated blind SSRF in Circles signature verification | Medium — CVSS 6.2 | — | 11 | [0x0doteth](https://hackerone.com/0x0doteth) | 2026-09-17 |
+| 264 | [1641088](../reports/1641088.md) | Last video frame is still sent after video is disabled in a  | Medium — CVSS 4.2 | — | 10 | [daniel_calvino_sanchez](https://hackerone.com/daniel_calvino_sanchez) | 2022-09-16 |
+| 265 | [1788222](../reports/1788222.md) | Document content of files can be obtained through Collabora  | Medium — CVSS 5.8 | — | 10 | [juliushaertl](https://hackerone.com/juliushaertl) | 2023-05-04 |
+| 266 | [1153138](../reports/1153138.md) | Improper input-size validation on the user new session name  | Medium — CVSS 4.3 | — | 10 | [demonia](https://hackerone.com/demonia) | 2022-05-31 |
+| 267 | [3506873](../reports/3506873.md) | Shared smart albums in the Photos app can expose files outsi | Medium — CVSS 6.5 | — | 10 | [suul](https://hackerone.com/suul) | 2026-09-17 |
+| 268 | [1765631](../reports/1765631.md) | Potential directory traversal in OC\Files\Node\Folder::getFu | Medium — CVSS 5.5 | — | 10 | [nickvergessen](https://hackerone.com/nickvergessen) | 2023-05-04 |
+| 269 | [196878](../reports/196878.md) | bug reporting template encourages users to paste config file | Medium | — | 10 | [hanno](https://hackerone.com/hanno) | 2017-04-19 |
+| 270 | [169680](../reports/169680.md) | Bypass permissions | Medium — CVSS 5.4 | — | 9 | [b42f97eb69dddcafe5cc278](https://hackerone.com/b42f97eb69dddcafe5cc278) | 2017-02-09 |
+| 271 | [163338](../reports/163338.md) | \OCA\DAV\CardDAV\ImageExportPlugin allows serving arbitrary  | Medium — CVSS 5.4 | — | 9 | [lukasreschke](https://hackerone.com/lukasreschke) | 2016-12-03 |
+| 272 | [803734](../reports/803734.md) | Mail does not verify IMAP/SMTP host connected via TLS | Medium — CVSS 5.9 | — | 9 | [christophwurst](https://hackerone.com/christophwurst) | 2020-06-03 |
+| 273 | [1338781](../reports/1338781.md) | User files is disclosed when someone called while the screen | Medium | — | 9 | [ctulhu](https://hackerone.com/ctulhu) | 2022-03-14 |
+| 274 | [1808079](../reports/1808079.md) | Permissions not respected when copying entire group folders | Medium — CVSS 6.5 | — | 9 | [carl_schwan](https://hackerone.com/carl_schwan) | 2023-09-09 |
+| 275 | [1202590](../reports/1202590.md) | Webauthn tokens are not removed on user deletion | Medium | — | 9 | [rtod](https://hackerone.com/rtod) | 2021-08-07 |
+| 276 | [1402249](../reports/1402249.md) | Control character filtering misses leading and trailing whit | Medium — CVSS 4.3 | — | 8 | [david_h1](https://hackerone.com/david_h1) | 2022-05-27 |
+| 277 | [921717](../reports/921717.md) | Improper access control to messages of Social app | Medium — CVSS 5.0 | — | 8 | [sanktjodel](https://hackerone.com/sanktjodel) | 2020-11-17 |
+| 278 | [1337178](../reports/1337178.md) | objectId in share location can be set to open arbitrary URL  | Medium | — | 8 | [ctulhu](https://hackerone.com/ctulhu) | 2022-03-08 |
+| 279 | [1901396](../reports/1901396.md) | Dos in Form Submission at https://nextcloud.com/instant-tria | Medium | — | 8 | [krrish_hackk](https://hackerone.com/krrish_hackk) | 2023-09-26 |
+| 280 | [457032](../reports/457032.md) | Github wikis are editable by anyone  | Medium | — | 8 | [xiridium](https://hackerone.com/xiridium) | 2018-12-07 |
+| 281 | [746541](../reports/746541.md) | SSRF on local storage of iOS mobile | Medium | — | 7 | [l0l1ch3ng](https://hackerone.com/l0l1ch3ng) | 2020-03-01 |
 | 282 | [1167767](../reports/1167767.md) | Unexpected federated shares added via public link | Medium — CVSS 5.3 | — | 7 | [rtod](https://hackerone.com/rtod) | 2021-04-26 |
 | 283 | [165686](../reports/165686.md) | Reflected XSS in Gallery App | Medium — CVSS 6.1 | — | 7 | [soreks](https://hackerone.com/soreks) | 2016-12-03 |
 | 284 | [173721](../reports/173721.md) | Bad content-type in response header when getting document ca | Medium — CVSS 6.5 | — | 7 | [trichimtrich_](https://hackerone.com/trichimtrich_) | 2017-01-12 |

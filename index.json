@@ -236926,7 +236926,7 @@
     "program_handle": "nextcloud",
     "reporter": "qloo",
     "severity": "medium",
-    "cvss": 6.5,
+    "cvss": 5.7,
     "weakness": "Improper Access Control - Generic",
     "bounty": null,
     "cve_ids": [
@@ -236936,7 +236936,7 @@
     "asset_type": "SOURCE_CODE",
     "reported_at": "2026-04-15",
     "disclosed_at": "2026-09-17T10:41:04.649Z",
-    "votes": 7
+    "votes": 19
   },
   {
     "id": 3676308,
@@ -243947,6 +243947,27 @@
     "reported_at": "2026-09-16",
     "disclosed_at": "2026-10-20T09:35:56.849Z",
     "votes": 8
+  },
+  {
+    "id": 4038342,
+    "url": "https://hackerone.com/reports/4038342",
+    "title": "dns.resolve truncates names containing NUL char",
+    "visibility": "full",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "hasanfleyah",
+    "severity": "high",
+    "cvss": 7.4,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-105482"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-17",
+    "disclosed_at": "2026-10-23T12:16:47.965Z",
+    "votes": 4
   },
   {
     "id": 4040551,

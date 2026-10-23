@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2436 total)
+# High/Critical Severity — No Bounty Paid (2437 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -2235,6 +2235,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1304490](../reports/1304490.md) | i can join without user and pass in this website  https://argocd. | [UPchieve](../by-program/upchieve.md) | High | Not Applicable | 4 |
 | [905688](../reports/905688.md) | PII Leak via /██████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 4 |
 | [334837](../reports/334837.md) | [localhost-now] bypassing url filter which leads to read content  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | Resolved | 4 |
+| [4038342](../reports/4038342.md) | dns.resolve truncates names containing NUL char | [Node.js](../by-program/nodejs.md) | High — CVSS 7.4 | Resolved | 4 |
 | [3780695](../reports/3780695.md) | SELECT ... INTO OUTFILE does not enforce the FILE WRITE privilege | [SingleStore](../by-program/singlestore.md) | High | Resolved | 4 |
 | [237927](../reports/237927.md) | Stored XSS templates -> 'call for action' feature | [Mixmax](../by-program/mixmax.md) | High | Resolved | 4 |
 | [1250273](../reports/1250273.md) | Tor Browser using --log or --verbose logs the exact connection ti | [Tor](../by-program/torproject.md) | High — CVSS 7.1 | Informative | 4 |
