@@ -12508,6 +12508,7 @@ https://hackerone.com/reports/4121675 | CRLF injection in the RTSP request-line 
 https://hackerone.com/reports/4121685 | curl RTSP connection reuse routes response headers to the RTP callback (rtsp_conn state machine not reset between sessions)
 https://hackerone.com/reports/4121689 | CRLF injection in the HTTP request-line via `CURLOPT_REQUEST_TARGET` (`--request-target`)
 https://hackerone.com/reports/4122039 | libcurl shared-HSTS-cache race leads to use-after-free with attacker-controlled function-pointer call
+https://hackerone.com/reports/4122567 | passive FTPS data connection handshake blocks curl_multi_perform() with no timeout (regression in 8.19.0)
 https://hackerone.com/reports/4123050 | CVE-2026-11586 fix is incomplete: auto-PONG memory grows without limit through curl_ws_recv() (CONNECT_ONLY)
 https://hackerone.com/reports/4123571 | Redirect to imap/pop3/smtp (SASL) or sftp/scp (libssh) authenticates to the attacker's host with the user's ambient Kerberos credentials
 https://hackerone.com/reports/4123646 | TLS session cache key omits native_ca_store: a session validated with CURLSSLOPT_NATIVE_CA can be resumed by a transfer that disabled it (incomplete f
@@ -12517,6 +12518,7 @@ https://hackerone.com/reports/4124486 | RTSP ANNOUNCE/SET_PARAMETER upload with 
 https://hackerone.com/reports/4124549 | CURLOPT_PROXYHEADER is not part of the HTTP-proxy connection reuse key: a second CONNECT-tunnel transfer silently reuses the first tunnel's Proxy-Auth
 https://hackerone.com/reports/4124583 | SSH (SCP/SFTP) host-key verification is skipped on connection reuse — a pinned/known_hosts transfer silently reuses a previously-unverified connection
 https://hackerone.com/reports/4124722 | WebSocket send queue use-after-free during nested curl_ws_send()
+https://hackerone.com/reports/4125065 | curl EXPIRE_SHUTDOWN timer never armed for silent servers: connection-shutdown timeout bypass in cshutdn (event-driven mode)
 https://hackerone.com/reports/4125257 | Symlink-following truncation of arbitrary files in `Curl_fopen()` when saving cookie jars, HSTS, or alt-svc caches
 https://hackerone.com/reports/4126768 | SSH host-key policy is missing from the connection-reuse tuple: strict pins and knownhosts are silently skipped on reused SFTP/SCP connections
 https://hackerone.com/reports/4127399 | wolfSSL Backend Silently Ignores --cert-status (OCSP Stapling Bypass)
@@ -12528,3 +12530,5 @@ https://hackerone.com/reports/4129642 | HSTS cache file: three trailing dots sil
 https://hackerone.com/reports/4129950 | IDN decoding inserts authority delimiters and can redirect proxy CONNECT to a different host
 https://hackerone.com/reports/4131903 | A server response that answers nothing is used as the next transfer's reply — and with IMAP, a fully compliant server does this by accident
 https://hackerone.com/reports/4132132 | POP3: data after the end-of-body terminator is written into the retrieved message
+https://hackerone.com/reports/4135291 | Heap-use-after-free in libcurl's multi event machinery (curl_multi_remove_handle() from a socket callback nested under a notify callback)
+https://hackerone.com/reports/4135826 | --cert-status with OpenSSL accepts a stapled OCSP response of any age when it lacks nextUpdate (revoked certificate keeps passing)

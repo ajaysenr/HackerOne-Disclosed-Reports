@@ -1,4 +1,4 @@
-# Weakness: Improper Check for Certificate Revocation (2 reports)
+# Weakness: Improper Check for Certificate Revocation (3 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -6,3 +6,4 @@
 |---|---|---|---|---|---|---|
 | 1 | [2298922](../reports/2298922.md) | CVE-2024-0853: OCSP verification bypass with TLS session reuse | [curl](../by-program/curl.md) | Low | — | 23 |
 | 2 | [3717552](../reports/3717552.md) | CURLOPT_PROXY_CRLFILE / CURLOPT_PROXY_ISSUERCERT / CURLOPT_PROXY_ | [curl](../by-program/curl.md) | Low | — | 6 |
+| 3 | [4135826](../reports/4135826.md) | --cert-status with OpenSSL accepts a stapled OCSP response of any | [curl](../by-program/curl.md) | None | — | 0 |

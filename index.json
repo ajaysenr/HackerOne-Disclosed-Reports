@@ -244481,6 +244481,25 @@
     "votes": 2
   },
   {
+    "id": 4122567,
+    "url": "https://hackerone.com/reports/4122567",
+    "title": "passive FTPS data connection handshake blocks curl_multi_perform() with no timeout (regression in 8.19.0)",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "1rhino2",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Uncontrolled Resource Consumption",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-17",
+    "disclosed_at": "2026-10-23T07:26:25.428Z",
+    "votes": 0
+  },
+  {
     "id": 4123050,
     "url": "https://hackerone.com/reports/4123050",
     "title": "CVE-2026-11586 fix is incomplete: auto-PONG memory grows without limit through curl_ws_recv() (CONNECT_ONLY)",
@@ -244666,6 +244685,27 @@
     "asset_type": "SOURCE_CODE",
     "reported_at": "2026-10-18",
     "disclosed_at": "2026-10-20T06:16:50.676Z",
+    "votes": 0
+  },
+  {
+    "id": 4125065,
+    "url": "https://hackerone.com/reports/4125065",
+    "title": "curl EXPIRE_SHUTDOWN timer never armed for silent servers: connection-shutdown timeout bypass in cshutdn (event-driven mode)",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "noraqiu",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Uncontrolled Resource Consumption",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-92387"
+    ],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-18",
+    "disclosed_at": "2026-10-23T07:26:37.097Z",
     "votes": 0
   },
   {
@@ -244892,5 +244932,43 @@
     "reported_at": "2026-10-20",
     "disclosed_at": "2026-10-21T04:21:36.257Z",
     "votes": 1
+  },
+  {
+    "id": 4135291,
+    "url": "https://hackerone.com/reports/4135291",
+    "title": "Heap-use-after-free in libcurl's multi event machinery (curl_multi_remove_handle() from a socket callback nested under a notify callback)",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "soop-ost",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Use After Free",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-21",
+    "disclosed_at": "2026-10-23T07:27:01.514Z",
+    "votes": 0
+  },
+  {
+    "id": 4135826,
+    "url": "https://hackerone.com/reports/4135826",
+    "title": "--cert-status with OpenSSL accepts a stapled OCSP response of any age when it lacks nextUpdate (revoked certificate keeps passing)",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "1rhino2",
+    "severity": "none",
+    "cvss": null,
+    "weakness": "Improper Check for Certificate Revocation",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-21",
+    "disclosed_at": "2026-10-23T07:26:51.304Z",
+    "votes": 0
   }
 ]
