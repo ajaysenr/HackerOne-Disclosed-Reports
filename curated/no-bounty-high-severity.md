@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2437 total)
+# High/Critical Severity — No Bounty Paid (2439 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -2226,6 +2226,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [374748](../reports/374748.md) | SQL injection in Serendipity (serendipity_fetchComments) | [Hanno's projects](../by-program/hannob.md) | High | Resolved | 4 |
 | [2928785](../reports/2928785.md) | ASP.NET Application Trace Enabled | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 4 |
 | [3752489](../reports/3752489.md) | Memory Corruption via TOCTOU Race in SharedArrayBuffer UTF-8 Deco | [Node.js](../by-program/nodejs.md) | High — CVSS 7.0 | Informative | 4 |
+| [4038287](../reports/4038287.md) | TLS certificate hostname bypass when the IP is written fullwidth  | [Node.js](../by-program/nodejs.md) | High — CVSS 7.4 | Resolved | 4 |
 | [802863](../reports/802863.md) | CVE-2017-13050: The RPKI-Router parser in tcpdump before 4.9.2 ha | [Internet Bug Bounty](../by-program/ibb.md) | High | Resolved | 4 |
 | [3780854](../reports/3780854.md) | PHP code injection in delivery-limitation `logical` validation by | [Revive Adserver](../by-program/revive_adserver.md) | High — CVSS 8.8 | Resolved | 4 |
 | [1555015](../reports/1555015.md) | [CVE-2020-3452] Unauthenticated file read in Cisco ASA | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 4 |
@@ -2313,6 +2314,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [3744200](../reports/3744200.md) | PHP code injection via unexpected delivery limitation parameter | [Revive Adserver](../by-program/revive_adserver.md) | High — CVSS 8.8 | Resolved | 3 |
 | [1047086](../reports/1047086.md) | Heap buffer overflow vulnerability while processing a malformed T | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.6 | Resolved | 3 |
 | [237860](../reports/237860.md) | ci.nextcloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploi | [Nextcloud](../by-program/nextcloud.md) | High | Resolved | 3 |
+| [4006744](../reports/4006744.md) | TLS certificate hostname bypass when the host loosely resolves to | [Node.js](../by-program/nodejs.md) | High — CVSS 7.4 | Resolved | 3 |
 | [335495](../reports/335495.md) | Out of order TLS handshake / application data messages lead to se | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | Resolved | 3 |
 | [296994](../reports/296994.md) | Exim handles BDAT data incorrectly and leads to crash/hang | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.5 | Resolved | 3 |
 | [867164](../reports/867164.md) | External storage app saves password for all users in the database | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 7.9 | Resolved | 3 |

@@ -240955,6 +240955,27 @@
     "votes": 8
   },
   {
+    "id": 3838675,
+    "url": "https://hackerone.com/reports/3838675",
+    "title": "Permission Model bypass with fs.realpathSync",
+    "visibility": "no-content",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "0xoroot",
+    "severity": "low",
+    "cvss": 3.3,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-106073"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-07-02",
+    "disclosed_at": "2026-10-23T17:38:58.019Z",
+    "votes": 1
+  },
+  {
     "id": 3839889,
     "url": "https://hackerone.com/reports/3839889",
     "title": "29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory",
@@ -242150,6 +242171,27 @@
     "reported_at": "2026-08-20",
     "disclosed_at": "2026-08-26T06:38:44.863Z",
     "votes": 19
+  },
+  {
+    "id": 3962304,
+    "url": "https://hackerone.com/reports/3962304",
+    "title": "Improper certificate validation for non-canonical IPv4 hostnames allows DNS SANs to authenticate IP endpoints",
+    "visibility": "no-content",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "br41ny",
+    "severity": "medium",
+    "cvss": 6.7,
+    "weakness": "Improper Certificate Validation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-106072"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-23",
+    "disclosed_at": "2026-10-23T17:08:32.059Z",
+    "votes": 0
   },
   {
     "id": 3963330,
@@ -243507,6 +243549,27 @@
     "votes": 13
   },
   {
+    "id": 4006744,
+    "url": "https://hackerone.com/reports/4006744",
+    "title": "TLS certificate hostname bypass when the host loosely resolves to an IP address",
+    "visibility": "no-content",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "anagnorisis2peripeteia",
+    "severity": "high",
+    "cvss": 7.4,
+    "weakness": "Improper Certificate Validation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-106069"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-07",
+    "disclosed_at": "2026-10-23T14:49:38.066Z",
+    "votes": 3
+  },
+  {
     "id": 4007917,
     "url": "https://hackerone.com/reports/4007917",
     "title": " One Strict-Transport-Security response header empties the victim's entire HSTS store, silently,",
@@ -243949,6 +244012,27 @@
     "votes": 8
   },
   {
+    "id": 4038287,
+    "url": "https://hackerone.com/reports/4038287",
+    "title": "TLS certificate hostname bypass when the IP is written fullwidth digits",
+    "visibility": "no-content",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "hasanfleyah",
+    "severity": "high",
+    "cvss": 7.4,
+    "weakness": "Improper Certificate Validation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-105483"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-17",
+    "disclosed_at": "2026-10-23T15:03:39.523Z",
+    "votes": 4
+  },
+  {
     "id": 4038342,
     "url": "https://hackerone.com/reports/4038342",
     "title": "dns.resolve truncates names containing NUL char",
@@ -243968,6 +244052,27 @@
     "reported_at": "2026-09-17",
     "disclosed_at": "2026-10-23T12:16:47.965Z",
     "votes": 4
+  },
+  {
+    "id": 4038361,
+    "url": "https://hackerone.com/reports/4038361",
+    "title": "Keep-alive socket process a response that was written before the request was sent",
+    "visibility": "no-content",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "hasanfleyah",
+    "severity": "medium",
+    "cvss": 6.5,
+    "weakness": "Time-of-check Time-of-use (TOCTOU) Race Condition",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-105481"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-17",
+    "disclosed_at": "2026-10-23T15:03:11.124Z",
+    "votes": 2
   },
   {
     "id": 4040551,
@@ -244990,6 +245095,25 @@
     "asset_type": "SOURCE_CODE",
     "reported_at": "2026-10-21",
     "disclosed_at": "2026-10-23T07:26:51.304Z",
+    "votes": 0
+  },
+  {
+    "id": 4137523,
+    "url": "https://hackerone.com/reports/4137523",
+    "title": "CURL_NETRC_REQUIRED sends the URL password when the .netrc file has no matching entry",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "tlh02",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Expected Behavior Violation",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-22",
+    "disclosed_at": "2026-10-23T13:59:15.081Z",
     "votes": 0
   }
 ]

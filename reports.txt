@@ -12329,6 +12329,7 @@ https://hackerone.com/reports/3833629 | Re-entrant `nghttp2_session_mem_send()` 
 https://hackerone.com/reports/3836021 | Missing FILE-privilege enforcement in CONNECT file UDFs allows server-side file read and write
 https://hackerone.com/reports/3837634 | JaaS SIP Gateway Authorization Bypass
 https://hackerone.com/reports/3838601 | Permission Model Bypass: `trace_events.createTracing().enable()` Writes Trace Logs Outside `--allow-fs-write`
+https://hackerone.com/reports/3838675 | Permission Model bypass with fs.realpathSync
 https://hackerone.com/reports/3839889 | 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory
 https://hackerone.com/reports/3839914 | Unauthenticated Plugin Settings Modification on Three Crocoblock/Jet Plugins
 https://hackerone.com/reports/3846922 | HTTP/2 retained header blocks evade maxSessionMemory and enable remote memory exhaustion
@@ -12391,6 +12392,7 @@ https://hackerone.com/reports/3938927 | An organization admin can create an atta
 https://hackerone.com/reports/3943339 | One-click cross-account JavaScript execution steals a victim write token through Turbo pagination and unattached Active Storage HTML
 https://hackerone.com/reports/3952619 | Domainless COOKIEFILE cookie leaks to unrelated IP-literal hosts
 https://hackerone.com/reports/3955945 | curl_share TOCTOU > RCE via Curl_llist _dtor Function Pointer Hijack
+https://hackerone.com/reports/3962304 | Improper certificate validation for non-canonical IPv4 hostnames allows DNS SANs to authenticate IP endpoints
 https://hackerone.com/reports/3963330 | libcurl Digest/NTLM authentication ignores an explicit Authorization header
 https://hackerone.com/reports/3963494 | RTSP CRLF injection in libcurl allows CURLOPT_RTSP_* values to inject commands into independent sessions
 https://hackerone.com/reports/3963725 | wolfSSL backend disables hostname verification when CURLOPT_SSL_VERIFYPEER is 0
@@ -12459,6 +12461,7 @@ https://hackerone.com/reports/3993973 | HTTP Digest nonce reused across an https
 https://hackerone.com/reports/3994016 | Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body inject arbitrary Markdown
 https://hackerone.com/reports/3994056 | Full Admin Takeover of R3 Limited's JFrog Artifactory - 292 Users, Corda Enterprise & CBDC Supply Chain Compromised
 https://hackerone.com/reports/4000185 | HackerOne Code sends live password-reset tokens to Segment in automatic page events
+https://hackerone.com/reports/4006744 | TLS certificate hostname bypass when the host loosely resolves to an IP address
 https://hackerone.com/reports/4007917 | One Strict-Transport-Security response header empties the victim's entire HSTS store, silently,
 https://hackerone.com/reports/4016541 | TLS session resumption client cert bypass with CURLOPT_SSL_CTX_FUNCTION
 https://hackerone.com/reports/4020767 | Unauthenticated API allows reading, writing to and deleting any user's private chat history on ████████
@@ -12481,7 +12484,9 @@ https://hackerone.com/reports/4030333 | CVE-2026-92392: HTTP/2 upload Use-After-
 https://hackerone.com/reports/4033108 | Retry-independent time-condition HTTP/2 UAF
 https://hackerone.com/reports/4033971 | Use-after-free of the internal multi->admin easy handle via the documented CURLMOPT_NOTIFYFUNCTION callback
 https://hackerone.com/reports/4035023 | Ordinary HEY user can make HEY originate authenticated mail from attacker-selected @hey.com  addresses
+https://hackerone.com/reports/4038287 | TLS certificate hostname bypass when the IP is written fullwidth digits
 https://hackerone.com/reports/4038342 | dns.resolve truncates names containing NUL char
+https://hackerone.com/reports/4038361 | Keep-alive socket process a response that was written before the request was sent
 https://hackerone.com/reports/4040551 | CVE-2026-94265: Authorization: Negotiate sent to foreign origin
 https://hackerone.com/reports/4040799 | Windows filename sanitizer misses Unicode COM/LPT reserved device names
 https://hackerone.com/reports/4041053 | CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL
@@ -12533,3 +12538,4 @@ https://hackerone.com/reports/4131903 | A server response that answers nothing i
 https://hackerone.com/reports/4132132 | POP3: data after the end-of-body terminator is written into the retrieved message
 https://hackerone.com/reports/4135291 | Heap-use-after-free in libcurl's multi event machinery (curl_multi_remove_handle() from a socket callback nested under a notify callback)
 https://hackerone.com/reports/4135826 | --cert-status with OpenSSL accepts a stapled OCSP response of any age when it lacks nextUpdate (revoked certificate keeps passing)
+https://hackerone.com/reports/4137523 | CURL_NETRC_REQUIRED sends the URL password when the .netrc file has no matching entry
