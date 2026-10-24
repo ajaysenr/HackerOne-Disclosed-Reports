@@ -2021,7 +2021,7 @@
 | 2017 | [zephrfish](https://hackerone.com/zephrfish) | 7 | $0 | 127 |
 | 2018 | [japp1](https://hackerone.com/japp1) | 1 | $0 | 5 |
 | 2019 | [stefanniedermann](https://hackerone.com/stefanniedermann) | 1 | $0 | 2 |
-| 2020 | [hahahkim](https://hackerone.com/hahahkim) | 3 | $0 | 8 |
+| 2020 | [hahahkim](https://hackerone.com/hahahkim) | 4 | $0 | 8 |
 | 2021 | [sheldonholmes](https://hackerone.com/sheldonholmes) | 1 | $0 | 0 |
 | 2022 | [cyber_punk](https://hackerone.com/cyber_punk) | 1 | $0 | 43 |
 | 2023 | [cr33pb0y](https://hackerone.com/cr33pb0y) | 2 | $0 | 56 |

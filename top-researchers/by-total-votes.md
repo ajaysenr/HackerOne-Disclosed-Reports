@@ -3625,7 +3625,7 @@
 | 3621 | [manish_prajapat](https://hackerone.com/manish_prajapat) | 2 | $0 | 8 |
 | 3622 | [howtoplay](https://hackerone.com/howtoplay) | 1 | $0 | 8 |
 | 3623 | [einstein_](https://hackerone.com/einstein_) | 1 | $0 | 8 |
-| 3624 | [hahahkim](https://hackerone.com/hahahkim) | 3 | $0 | 8 |
+| 3624 | [hahahkim](https://hackerone.com/hahahkim) | 4 | $0 | 8 |
 | 3625 | [sec0ndw0lf](https://hackerone.com/sec0ndw0lf) | 3 | $425 | 8 |
 | 3626 | [tunnelshade](https://hackerone.com/tunnelshade) | 4 | $2,400 | 8 |
 | 3627 | [recreati](https://hackerone.com/recreati) | 1 | $0 | 8 |

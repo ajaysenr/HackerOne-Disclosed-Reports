@@ -240678,6 +240678,25 @@
     "votes": 3
   },
   {
+    "id": 3824331,
+    "url": "https://hackerone.com/reports/3824331",
+    "title": "Null Dereference in X509ToObject",
+    "visibility": "no-content",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "hahahkim",
+    "severity": "medium",
+    "cvss": 5.9,
+    "weakness": "NULL Pointer Dereference",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-06-25",
+    "disclosed_at": "2026-10-23T22:30:38.540Z",
+    "votes": 0
+  },
+  {
     "id": 3825141,
     "url": "https://hackerone.com/reports/3825141",
     "title": "API token sent to URL dictated by an untrusted project .weblate file",

@@ -12315,6 +12315,7 @@ https://hackerone.com/reports/3822248 | CVE-2026-13608: OpenLDAP SASL authentica
 https://hackerone.com/reports/3823932 | CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabling HAProxy PROXY protocol injection
 https://hackerone.com/reports/3823985 | Use-after-free in `mev_forget_socket` when `curl_easy_pause()` is called from a `CURL_POLL_REMOVE` socket callback (incomplete fix of CVE-2026-9080)
 https://hackerone.com/reports/3824303 | UAF read in mev_pollset_diff() trace path after curl_easy_pause() in socket callback
+https://hackerone.com/reports/3824331 | Null Dereference in X509ToObject
 https://hackerone.com/reports/3825141 | API token sent to URL dictated by an untrusted project .weblate file
 https://hackerone.com/reports/3826199 | mbedTLS / wolfSSL / rustls backends silently skip hostname verification when CURLOPT_SSL_VERIFYPEER=0
 https://hackerone.com/reports/3826843 | ssh_config_matches is dead code: unauthorized SSH key reuse
