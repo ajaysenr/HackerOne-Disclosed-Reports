@@ -12252,6 +12252,7 @@ https://hackerone.com/reports/3770979 | SMTP connection reuse ignores --ssl-reqd
 https://hackerone.com/reports/3771139 | Heap Memory Disclosure via Integer Underflow in Item_func_json_arrayagg::cut_max_length in MariaDB Server
 https://hackerone.com/reports/3771144 | Use-After-Free in BTREE Index Traversal via Stale key_version in heap_update() in MariaDB Server
 https://hackerone.com/reports/3771147 | Stack Buffer Overflow via Crafted keyseg->start/ keyseg->length in .MYI File (MariaDB MyISAM)
+https://hackerone.com/reports/3772818 | Code injection allows unprivileged local attacker to execute arbitrary code in Nextcloud's OAuth/web renderer process
 https://hackerone.com/reports/3773293 | curl/libcurl 8.20.0 NOPROXY bypass via uppercase-hex IPv4 aliases leaks off-proxy Basic credentials to the configured proxy
 https://hackerone.com/reports/3774279 | heap-use-after-free in state.referer when CURLOPT_REFERER replaced or cleared after perform
 https://hackerone.com/reports/3774977 | libcurl 8.20.0 ignores HTTP Digest domain protection space and preemptively leaks Digest auth outside the declared scope

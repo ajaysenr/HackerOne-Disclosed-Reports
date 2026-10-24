@@ -239424,6 +239424,28 @@
     "votes": 11
   },
   {
+    "id": 3772818,
+    "url": "https://hackerone.com/reports/3772818",
+    "title": "Code injection allows unprivileged local attacker to execute arbitrary code in Nextcloud's OAuth/web renderer process",
+    "visibility": "full",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "the_xcheater",
+    "severity": "low",
+    "cvss": 3.6,
+    "weakness": "Code Injection",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2020-8140",
+      "CVE-2024-37885"
+    ],
+    "substate": "resolved",
+    "asset_type": "DOWNLOADABLE_EXECUTABLES",
+    "reported_at": "2026-05-31",
+    "disclosed_at": "2026-10-24T21:16:50.755Z",
+    "votes": 0
+  },
+  {
     "id": 3773293,
     "url": "https://hackerone.com/reports/3773293",
     "title": "curl/libcurl 8.20.0 NOPROXY bypass via uppercase-hex IPv4 aliases leaks off-proxy Basic credentials to the configured proxy",
