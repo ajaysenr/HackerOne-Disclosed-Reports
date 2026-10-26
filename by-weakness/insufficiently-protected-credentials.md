@@ -1,4 +1,4 @@
-# Weakness: Insufficiently Protected Credentials (42 reports)
+# Weakness: Insufficiently Protected Credentials (43 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -37,12 +37,13 @@
 | 31 | [805027](../reports/805027.md) | Sensitive Information Leaking Through DARPA Website. [█████████] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
 | 32 | [743505](../reports/743505.md) | Improper confidentiality protection of server-side encryption key | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 3 |
 | 33 | [235216](../reports/235216.md) | Exposed FTP Credentials on ███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
-| 34 | [855618](../reports/855618.md) | Account takeover intercepting magic link for Arrive app | [Shopify](../by-program/shopify.md) | Low | — | 29 |
-| 35 | [963384](../reports/963384.md) | mysql credentials exposed on - https://cz.acronis.com/docker-comp | [Acronis](../by-program/acronis.md) | Low | — | 28 |
-| 36 | [3459417](../reports/3459417.md) | CVE-2025-14524: bearer token leak on cross-protocol redirect | [curl](../by-program/curl.md) | Low | — | 17 |
-| 37 | [3514263](../reports/3514263.md) | libcurl: Improper Authentication State Management on Cross-Protoc | [curl](../by-program/curl.md) | Low | — | 17 |
-| 38 | [2408074](../reports/2408074.md) | Proxy-Authorization header not cleared on cross-origin redirect i | [Node.js](../by-program/nodejs.md) | Low | — | 9 |
-| 39 | [972561](../reports/972561.md) | kubeadm logs tokens before deleting them | [Kubernetes](../by-program/kubernetes.md) | Low — CVSS 3.4 | — | 7 |
-| 40 | [3749428](../reports/3749428.md) | curl cross-origin HTTPS redirect reuses TLS client certificate fo | [curl](../by-program/curl.md) | Low | — | 2 |
-| 41 | [4105790](../reports/4105790.md) | FTP authentication options leak to a cross-origin FTP redirect wi | [curl](../by-program/curl.md) | Low | — | 0 |
-| 42 | [3516878](../reports/3516878.md) | Cross‑origin cookies leak and injection risk when using a custom  | [curl](../by-program/curl.md) | None | — | 30 |
+| 34 | [4125043](../reports/4125043.md) | netrc credentials leaked to a cross-host redirect target on the B | [curl](../by-program/curl.md) | Medium | — | 2 |
+| 35 | [855618](../reports/855618.md) | Account takeover intercepting magic link for Arrive app | [Shopify](../by-program/shopify.md) | Low | — | 29 |
+| 36 | [963384](../reports/963384.md) | mysql credentials exposed on - https://cz.acronis.com/docker-comp | [Acronis](../by-program/acronis.md) | Low | — | 28 |
+| 37 | [3459417](../reports/3459417.md) | CVE-2025-14524: bearer token leak on cross-protocol redirect | [curl](../by-program/curl.md) | Low | — | 17 |
+| 38 | [3514263](../reports/3514263.md) | libcurl: Improper Authentication State Management on Cross-Protoc | [curl](../by-program/curl.md) | Low | — | 17 |
+| 39 | [2408074](../reports/2408074.md) | Proxy-Authorization header not cleared on cross-origin redirect i | [Node.js](../by-program/nodejs.md) | Low | — | 9 |
+| 40 | [972561](../reports/972561.md) | kubeadm logs tokens before deleting them | [Kubernetes](../by-program/kubernetes.md) | Low — CVSS 3.4 | — | 7 |
+| 41 | [3749428](../reports/3749428.md) | curl cross-origin HTTPS redirect reuses TLS client certificate fo | [curl](../by-program/curl.md) | Low | — | 2 |
+| 42 | [4105790](../reports/4105790.md) | FTP authentication options leak to a cross-origin FTP redirect wi | [curl](../by-program/curl.md) | Low | — | 0 |
+| 43 | [3516878](../reports/3516878.md) | Cross‑origin cookies leak and injection risk when using a custom  | [curl](../by-program/curl.md) | None | — | 30 |

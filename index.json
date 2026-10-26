@@ -244937,6 +244937,25 @@
     "votes": 0
   },
   {
+    "id": 4122227,
+    "url": "https://hackerone.com/reports/4122227",
+    "title": "wolfSSL TLS sessions retain native-CA trust after the application narrows trust",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "stze",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Improper Certificate Validation",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-17",
+    "disclosed_at": "2026-10-26T12:50:49.697Z",
+    "votes": 2
+  },
+  {
     "id": 4122239,
     "url": "https://hackerone.com/reports/4122239",
     "title": "CVE-2026-111952: OpenSSL provider use-after-free again",
@@ -245042,6 +245061,50 @@
     "votes": 0
   },
   {
+    "id": 4123304,
+    "url": "https://hackerone.com/reports/4123304",
+    "title": "OpenSSL+Apple SecTrust: SecTrust accepts certificates that the app's CURLOPT_SSL_CTX_FUNCTION trust store or verify callback rejected",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "sujitjaunjal",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Improper Certificate Validation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-82208"
+    ],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-17",
+    "disclosed_at": "2026-10-26T12:50:13.182Z",
+    "votes": 0
+  },
+  {
+    "id": 4123474,
+    "url": "https://hackerone.com/reports/4123474",
+    "title": "Cross-protocol redirect to imap:// or smtp:// uploads the -F/MIMEPOST form and the custom Authorization/Cookie headers to the redirect target",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "sujitjaunjal",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Information Exposure Through Sent Data",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2025-14524",
+      "CVE-2018-1000007",
+      "CVE-2022-27776"
+    ],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-17",
+    "disclosed_at": "2026-10-26T12:50:04.694Z",
+    "votes": 0
+  },
+  {
     "id": 4123571,
     "url": "https://hackerone.com/reports/4123571",
     "title": "Redirect to imap/pop3/smtp (SASL) or sftp/scp (libssh) authenticates to the attacker's host with the user's ambient Kerberos credentials",
@@ -245125,6 +245188,28 @@
     "reported_at": "2026-10-18",
     "disclosed_at": "2026-10-19T19:45:31.714Z",
     "votes": 1
+  },
+  {
+    "id": 4124276,
+    "url": "https://hackerone.com/reports/4124276",
+    "title": "GnuTLS + Apple SecTrust discards authenticated OCSP failure",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "stze",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Improper Certificate Validation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2024-8096",
+      "CVE-2026-7009"
+    ],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-18",
+    "disclosed_at": "2026-10-26T12:50:21.399Z",
+    "votes": 0
   },
   {
     "id": 4124486,
@@ -245230,6 +245315,25 @@
     "votes": 1
   },
   {
+    "id": 4125043,
+    "url": "https://hackerone.com/reports/4125043",
+    "title": "netrc credentials leaked to a cross-host redirect target on the Basic auth path (not covered by redirect credential protections)",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "noraqiu",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Insufficiently Protected Credentials",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-18",
+    "disclosed_at": "2026-10-26T12:51:00.121Z",
+    "votes": 2
+  },
+  {
     "id": 4125065,
     "url": "https://hackerone.com/reports/4125065",
     "title": "curl EXPIRE_SHUTDOWN timer never armed for silent servers: connection-shutdown timeout bypass in cshutdn (event-driven mode)",
@@ -245267,6 +245371,30 @@
     "asset_type": "SOURCE_CODE",
     "reported_at": "2026-10-18",
     "disclosed_at": "2026-10-20T06:04:03.951Z",
+    "votes": 0
+  },
+  {
+    "id": 4125601,
+    "url": "https://hackerone.com/reports/4125601",
+    "title": "OpenSSL `--cert-status` accepts indefinitely stale GOOD OCSP staples",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "stze",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Improper Check for Certificate Revocation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2020-8286",
+      "CVE-2024-8096",
+      "CVE-2026-7009",
+      "CVE-2026-93493"
+    ],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-18",
+    "disclosed_at": "2026-10-26T12:50:37.450Z",
     "votes": 0
   },
   {

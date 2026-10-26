@@ -12530,22 +12530,28 @@ https://hackerone.com/reports/4121685 | curl RTSP connection reuse routes respon
 https://hackerone.com/reports/4121689 | CRLF injection in the HTTP request-line via `CURLOPT_REQUEST_TARGET` (`--request-target`)
 https://hackerone.com/reports/4122039 | libcurl shared-HSTS-cache race leads to use-after-free with attacker-controlled function-pointer call
 https://hackerone.com/reports/4122175 | CVE-2026-111950: TLS session cache diff scheme reuse
+https://hackerone.com/reports/4122227 | wolfSSL TLS sessions retain native-CA trust after the application narrows trust
 https://hackerone.com/reports/4122239 | CVE-2026-111952: OpenSSL provider use-after-free again
 https://hackerone.com/reports/4122300 | CVE-2026-111953: GnuTLS SecTrust OCSP staple bypass
 https://hackerone.com/reports/4122567 | passive FTPS data connection handshake blocks curl_multi_perform() with no timeout (regression in 8.19.0)
 https://hackerone.com/reports/4123050 | CVE-2026-11586 fix is incomplete: auto-PONG memory grows without limit through curl_ws_recv() (CONNECT_ONLY)
 https://hackerone.com/reports/4123190 | CVE-2026-111954: upload reader failed redirect UAF
+https://hackerone.com/reports/4123304 | OpenSSL+Apple SecTrust: SecTrust accepts certificates that the app's CURLOPT_SSL_CTX_FUNCTION trust store or verify callback rejected
+https://hackerone.com/reports/4123474 | Cross-protocol redirect to imap:// or smtp:// uploads the -F/MIMEPOST form and the custom Authorization/Cookie headers to the redirect target
 https://hackerone.com/reports/4123571 | Redirect to imap/pop3/smtp (SASL) or sftp/scp (libssh) authenticates to the attacker's host with the user's ambient Kerberos credentials
 https://hackerone.com/reports/4123646 | TLS session cache key omits native_ca_store: a session validated with CURLSSLOPT_NATIVE_CA can be resumed by a transfer that disabled it (incomplete f
 https://hackerone.com/reports/4123654 | SCP upload with --crlf sends more bytes than the size declared to the server (same class curl refused for IMAP CVE-2026-87864 and RTSP)
 https://hackerone.com/reports/4123749 | WebSocket decoder use-after-free when curl_easy_pause() unpauses from a debug callback
+https://hackerone.com/reports/4124276 | GnuTLS + Apple SecTrust discards authenticated OCSP failure
 https://hackerone.com/reports/4124486 | RTSP ANNOUNCE/SET_PARAMETER upload with --use-ascii / CURLOPT_TRANSFERTEXT sends more body bytes than the declared Content-Length (incomplete fix of e
 https://hackerone.com/reports/4124549 | CURLOPT_PROXYHEADER is not part of the HTTP-proxy connection reuse key: a second CONNECT-tunnel transfer silently reuses the first tunnel's Proxy-Auth
 https://hackerone.com/reports/4124583 | SSH (SCP/SFTP) host-key verification is skipped on connection reuse — a pinned/known_hosts transfer silently reuses a previously-unverified connection
 https://hackerone.com/reports/4124722 | WebSocket send queue use-after-free during nested curl_ws_send()
 https://hackerone.com/reports/4124849 | CVE-2026-111951: curl -OJ truncate without filename
+https://hackerone.com/reports/4125043 | netrc credentials leaked to a cross-host redirect target on the Basic auth path (not covered by redirect credential protections)
 https://hackerone.com/reports/4125065 | curl EXPIRE_SHUTDOWN timer never armed for silent servers: connection-shutdown timeout bypass in cshutdn (event-driven mode)
 https://hackerone.com/reports/4125257 | Symlink-following truncation of arbitrary files in `Curl_fopen()` when saving cookie jars, HSTS, or alt-svc caches
+https://hackerone.com/reports/4125601 | OpenSSL `--cert-status` accepts indefinitely stale GOOD OCSP staples
 https://hackerone.com/reports/4126768 | SSH host-key policy is missing from the connection-reuse tuple: strict pins and knownhosts are silently skipped on reused SFTP/SCP connections
 https://hackerone.com/reports/4127231 | Derived cookie Path aborts cookie jar loading in curl 8.23.0
 https://hackerone.com/reports/4127399 | wolfSSL Backend Silently Ignores --cert-status (OCSP Stapling Bypass)

@@ -838,7 +838,7 @@
 | 834 | [dantt](https://hackerone.com/dantt) | 8 | $200 | 28 |
 | 835 | [yzy9951](https://hackerone.com/yzy9951) | 5 | $200 | 88 |
 | 836 | [dashingjaved](https://hackerone.com/dashingjaved) | 1 | $200 | 11 |
-| 837 | [sujitjaunjal](https://hackerone.com/sujitjaunjal) | 6 | $200 | 14 |
+| 837 | [sujitjaunjal](https://hackerone.com/sujitjaunjal) | 8 | $200 | 14 |
 | 838 | [zimmer75](https://hackerone.com/zimmer75) | 1 | $200 | 29 |
 | 839 | [roshanpty](https://hackerone.com/roshanpty) | 8 | $200 | 32 |
 | 840 | [codersanjay](https://hackerone.com/codersanjay) | 1 | $200 | 72 |
@@ -1315,7 +1315,7 @@
 | 1311 | [raymatp](https://hackerone.com/raymatp) | 2 | $0 | 98 |
 | 1312 | [grahamcampbell](https://hackerone.com/grahamcampbell) | 1 | $0 | 11 |
 | 1313 | [sumgr0](https://hackerone.com/sumgr0) | 2 | $0 | 34 |
-| 1314 | [noraqiu](https://hackerone.com/noraqiu) | 5 | $0 | 1 |
+| 1314 | [noraqiu](https://hackerone.com/noraqiu) | 6 | $0 | 3 |
 | 1315 | [mrdruid](https://hackerone.com/mrdruid) | 2 | $0 | 14 |
 | 1316 | [ashish_r_padelkar](https://hackerone.com/ashish_r_padelkar) | 16 | $0 | 214 |
 | 1317 | [mg36](https://hackerone.com/mg36) | 6 | $0 | 24 |
@@ -1642,7 +1642,7 @@
 | 1638 | [olidayw](https://hackerone.com/olidayw) | 1 | $0 | 16 |
 | 1639 | [effectrenan](https://hackerone.com/effectrenan) | 2 | $0 | 3 |
 | 1640 | [hunter012](https://hackerone.com/hunter012) | 1 | $0 | 3 |
-| 1641 | [stze](https://hackerone.com/stze) | 4 | $0 | 12 |
+| 1641 | [stze](https://hackerone.com/stze) | 7 | $0 | 14 |
 | 1642 | [2026](https://hackerone.com/2026) | 1 | $0 | 47 |
 | 1643 | [c12316651](https://hackerone.com/c12316651) | 2 | $0 | 32 |
 | 1644 | [m31007](https://hackerone.com/m31007) | 1 | $0 | 5 |
