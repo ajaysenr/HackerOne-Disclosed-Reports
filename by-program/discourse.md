@@ -1,4 +1,4 @@
-# Discourse — Disclosed Reports (20 total)
+# Discourse — Disclosed Reports (21 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -23,4 +23,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 17 | [197914](../reports/197914.md) | Stored XSS in posts because of absence of oembed variables v | High | — | 13 | [skavans](https://hackerone.com/skavans) | 2017-01-20 |
 | 18 | [3689633](../reports/3689633.md) | Hidden/restricted tags can be mutated through synonym ID pat | Medium — CVSS 4.3 | — | 14 | [ahpuh](https://hackerone.com/ahpuh) | 2026-08-26 |
 | 19 | [192611](../reports/192611.md) | Users can bookmark other user's messages | Medium | — | 7 | [strukt](https://hackerone.com/strukt) | 2017-01-10 |
-| 20 | [260697](../reports/260697.md) | CSRF-tokens on pages without no-cache headers, resulting in  | Low | — | 56 | [fransrosen](https://hackerone.com/fransrosen) | 2018-08-08 |
+| 20 | [3738834](../reports/3738834.md) | Arbitrary `/tmp` read in  discourse via `convert_heif!` deco | Medium | — | 2 | [fizzi](https://hackerone.com/fizzi) | 2026-10-26 |
+| 21 | [260697](../reports/260697.md) | CSRF-tokens on pages without no-cache headers, resulting in  | Low | — | 56 | [fransrosen](https://hackerone.com/fransrosen) | 2018-08-08 |

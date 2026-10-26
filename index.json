@@ -238666,6 +238666,25 @@
     "votes": 1
   },
   {
+    "id": 3738834,
+    "url": "https://hackerone.com/reports/3738834",
+    "title": "Arbitrary `/tmp` read in  discourse via `convert_heif!` decoder-confusion (regression of 4bf3bf6786)",
+    "visibility": "full",
+    "program": "Discourse",
+    "program_handle": "discourse",
+    "reporter": "fizzi",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Information Disclosure",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-05-15",
+    "disclosed_at": "2026-10-26T03:43:07.430Z",
+    "votes": 2
+  },
+  {
     "id": 3739561,
     "url": "https://hackerone.com/reports/3739561",
     "title": "SSL session-cache peer key omits signature_algorithms: strict-sigalg handle silently resumes a permissive sibling's session",
