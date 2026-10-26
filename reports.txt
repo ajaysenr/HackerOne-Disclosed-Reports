@@ -12390,6 +12390,7 @@ https://hackerone.com/reports/3930957 | Myndr CORS Misconfiguration
 https://hackerone.com/reports/3931771 | Author → stored XSS in wp-admin: unescaped sub-size filename from attachment metadata breaks out of the `src` attribute in `get_media_item()`
 https://hackerone.com/reports/3931777 | Author → arbitrary file deletion anywhere on disk (site takeover) via `POST /wp/v2/media/<id>/finalize` poisoning `_wp_attachment_metadata`
 https://hackerone.com/reports/3938185 | Windows SSPI connection-pool probe can reuse a connection under the wrong user
+https://hackerone.com/reports/3938190 | Windows SSPI connection-pool probe can reuse a connection under the wrong user
 https://hackerone.com/reports/3938220 | libcurl cache updates follow symlinks and truncate their targets
 https://hackerone.com/reports/3938927 | An organization admin can create an attacker-controlled organization owner via the gem transfer flow
 https://hackerone.com/reports/3943339 | One-click cross-account JavaScript execution steals a victim write token through Turbo pagination and unattached Active Storage HTML
@@ -12414,6 +12415,7 @@ https://hackerone.com/reports/3971462 | Heap-use-after-free in CURLOPT_REFERER w
 https://hackerone.com/reports/3971496 | 28: HTTP/3 UDP path ignores CURL_SOCKOPT_ALREADY_CONNECTED, reconnects callback-provided socket
 https://hackerone.com/reports/3971518 | 29: CURLOPT_ISSUERCERT accepts a different-key certificate when issuer metadata collides
 https://hackerone.com/reports/3971538 | 27: IMAP custom FETCH listing classification skips literal boundaries, enabling response desynchronization
+https://hackerone.com/reports/3971551 | 20: HTAB before `Secure` attribute silently drops the Secure cookie flag
 https://hackerone.com/reports/3971585 | 33: CONNECT_ONLY raw I/O selects wrong connection after CURLOPT_SHARE detach (incomplete fix for CVE-2020-8231)
 https://hackerone.com/reports/3971706 | 36: HTTP upload resume offset consumed twice after early 307/308 redirect
 https://hackerone.com/reports/3972094 | CVE-2026-87861: cross-origin reuse of a Negotiate connection
@@ -12434,6 +12436,7 @@ https://hackerone.com/reports/3973093 | 06: Incomplete fix for CVE-2026-7009: GC
 https://hackerone.com/reports/3973098 | 07: GnuTLS 0-RTT early data bypasses file-backed public-key pin verification
 https://hackerone.com/reports/3973111 | 08: CVE-2026-7009 fix incomplete for AWS-LC: `--cert-status` bypass on SecTrust path
 https://hackerone.com/reports/3973121 | 11: `CURLOPT_FORBID_REUSE` silently lost on multiplexed HTTP/2 connection when the forbidding transfer finishes first
+https://hackerone.com/reports/3973124 | 14: HSTS cache import silently drops a longer-lived child beneath an includeSubDomains parent
 https://hackerone.com/reports/3973127 | 18:  Explicit IPv6 proxy zone ID silently ignored — proxy credentials sent to wrong interface
 https://hackerone.com/reports/3973135 | CVE-2026-86409: stale SigV4 headers sent unintended
 https://hackerone.com/reports/3973143 | 22:  FTP wildcard matching decodes server-provided filenames, enabling directory traversal
@@ -12463,6 +12466,7 @@ https://hackerone.com/reports/3993870 | CVE-2026-86415: auto client cert connect
 https://hackerone.com/reports/3993973 | HTTP Digest nonce reused across an https→http scheme change on the same handle
 https://hackerone.com/reports/3994016 | Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body inject arbitrary Markdown
 https://hackerone.com/reports/3994056 | Full Admin Takeover of R3 Limited's JFrog Artifactory - 292 Users, Corda Enterprise & CBDC Supply Chain Compromised
+https://hackerone.com/reports/4000084 | A disabled account's API key still works on BMO's Mojolicious /rest/ routes, including for security-group bugs filed after the disable
 https://hackerone.com/reports/4000185 | HackerOne Code sends live password-reset tokens to Segment in automatic page events
 https://hackerone.com/reports/4006744 | TLS certificate hostname bypass when the host loosely resolves to an IP address
 https://hackerone.com/reports/4007917 | One Strict-Transport-Security response header empties the victim's entire HSTS store, silently,
@@ -12509,16 +12513,28 @@ https://hackerone.com/reports/4093443 | Cookie attribute truncation in curl drop
 https://hackerone.com/reports/4098761 | HTTP/1.1 connection reuse returns unsolicited server data as the next request's response (regression in 8.22.0)
 https://hackerone.com/reports/4099194 | CVE-2026-107928: info leak uploading over WebSockets with GnuTLS
 https://hackerone.com/reports/4099618 | CVE-2026-107929: local interface connection reuse mixup
+https://hackerone.com/reports/4102061 | CVE-2026-111480: pause UAF from within callback
 https://hackerone.com/reports/4103651 | TFTP accepts a first response from an IP other than the requested server
+https://hackerone.com/reports/4105790 | FTP authentication options leak to a cross-origin FTP redirect with unrestricted auth disabled
 https://hackerone.com/reports/4105853 | libcurl TLS shorter-retry mismatch discloses client heap memory during cancelled IMAPS upload
+https://hackerone.com/reports/4112709 | CVE-2026-111482: libssh2 knownhosts prefix match
+https://hackerone.com/reports/4112912 | CVE-2026-111481: server-set cookie still aborts cookie jar
 https://hackerone.com/reports/4113412 | libcurl RTSP `CURLOPT_CRLF` conversion allows a request body to become a second RTSP request
 https://hackerone.com/reports/4114965 | Explicit NO_PROXY /0 CIDR rules fail to bypass HTTP proxy for IP-literal requests
+https://hackerone.com/reports/4116076 | CVE-2026-111483: GnuTLS accepts non-successful OCSP staples
+https://hackerone.com/reports/4116527 | CVE-2026-111878: OpenSSL provider UAF on TLS shutdown
+https://hackerone.com/reports/4118610 | CVE-2026-111484: OpenSSL with SecTrust accepts bad OCSP staples
+https://hackerone.com/reports/4118643 | OpenSSL provider OSSL_LIB_CTX used after free via the connection shutdown list (CVE-2026-80229 fix incomplete)
 https://hackerone.com/reports/4121675 | CRLF injection in the RTSP request-line and Transport header via `CURLOPT_RTSP_STREAM_URI` and `CURLOPT_RTSP_TRANSPORT`
 https://hackerone.com/reports/4121685 | curl RTSP connection reuse routes response headers to the RTP callback (rtsp_conn state machine not reset between sessions)
 https://hackerone.com/reports/4121689 | CRLF injection in the HTTP request-line via `CURLOPT_REQUEST_TARGET` (`--request-target`)
 https://hackerone.com/reports/4122039 | libcurl shared-HSTS-cache race leads to use-after-free with attacker-controlled function-pointer call
+https://hackerone.com/reports/4122175 | CVE-2026-111950: TLS session cache diff scheme reuse
+https://hackerone.com/reports/4122239 | CVE-2026-111952: OpenSSL provider use-after-free again
+https://hackerone.com/reports/4122300 | CVE-2026-111953: GnuTLS SecTrust OCSP staple bypass
 https://hackerone.com/reports/4122567 | passive FTPS data connection handshake blocks curl_multi_perform() with no timeout (regression in 8.19.0)
 https://hackerone.com/reports/4123050 | CVE-2026-11586 fix is incomplete: auto-PONG memory grows without limit through curl_ws_recv() (CONNECT_ONLY)
+https://hackerone.com/reports/4123190 | CVE-2026-111954: upload reader failed redirect UAF
 https://hackerone.com/reports/4123571 | Redirect to imap/pop3/smtp (SASL) or sftp/scp (libssh) authenticates to the attacker's host with the user's ambient Kerberos credentials
 https://hackerone.com/reports/4123646 | TLS session cache key omits native_ca_store: a session validated with CURLSSLOPT_NATIVE_CA can be resumed by a transfer that disabled it (incomplete f
 https://hackerone.com/reports/4123654 | SCP upload with --crlf sends more bytes than the size declared to the server (same class curl refused for IMAP CVE-2026-87864 and RTSP)
@@ -12527,18 +12543,23 @@ https://hackerone.com/reports/4124486 | RTSP ANNOUNCE/SET_PARAMETER upload with 
 https://hackerone.com/reports/4124549 | CURLOPT_PROXYHEADER is not part of the HTTP-proxy connection reuse key: a second CONNECT-tunnel transfer silently reuses the first tunnel's Proxy-Auth
 https://hackerone.com/reports/4124583 | SSH (SCP/SFTP) host-key verification is skipped on connection reuse — a pinned/known_hosts transfer silently reuses a previously-unverified connection
 https://hackerone.com/reports/4124722 | WebSocket send queue use-after-free during nested curl_ws_send()
+https://hackerone.com/reports/4124849 | CVE-2026-111951: curl -OJ truncate without filename
 https://hackerone.com/reports/4125065 | curl EXPIRE_SHUTDOWN timer never armed for silent servers: connection-shutdown timeout bypass in cshutdn (event-driven mode)
 https://hackerone.com/reports/4125257 | Symlink-following truncation of arbitrary files in `Curl_fopen()` when saving cookie jars, HSTS, or alt-svc caches
 https://hackerone.com/reports/4126768 | SSH host-key policy is missing from the connection-reuse tuple: strict pins and knownhosts are silently skipped on reused SFTP/SCP connections
+https://hackerone.com/reports/4127231 | Derived cookie Path aborts cookie jar loading in curl 8.23.0
 https://hackerone.com/reports/4127399 | wolfSSL Backend Silently Ignores --cert-status (OCSP Stapling Bypass)
 https://hackerone.com/reports/4127756 | urlapi: CURLUPART_HOST accepts text after an IPv6 zone ip and URL round trip changes the host
+https://hackerone.com/reports/4128428 | CVE-2026-115528: wolfSSL TLS connect without cert
 https://hackerone.com/reports/4128701 | Pinned public key check passes for a key the server does not hold with the wolfSSL backend
 https://hackerone.com/reports/4128703 | curl reuses an HTTPS connection when a response is already buffered in the TLS stack
 https://hackerone.com/reports/4129638 | TLS session cache ignores CURLOPT_SSL_CTX_FUNCTION identity and resumes one client's session for another
 https://hackerone.com/reports/4129642 | HSTS cache file: three trailing dots silently disable HSTS for that host
 https://hackerone.com/reports/4129950 | IDN decoding inserts authority delimiters and can redirect proxy CONNECT to a different host
+https://hackerone.com/reports/4130124 | server filename with control characters printed to terminal (`-J`)
 https://hackerone.com/reports/4131903 | A server response that answers nothing is used as the next transfer's reply — and with IMAP, a fully compliant server does this by accident
 https://hackerone.com/reports/4132132 | POP3: data after the end-of-body terminator is written into the retrieved message
 https://hackerone.com/reports/4135291 | Heap-use-after-free in libcurl's multi event machinery (curl_multi_remove_handle() from a socket callback nested under a notify callback)
 https://hackerone.com/reports/4135826 | --cert-status with OpenSSL accepts a stapled OCSP response of any age when it lacks nextUpdate (revoked certificate keeps passing)
+https://hackerone.com/reports/4136767 | CVE-2026-115529: Schannel TLS auto client session resumption
 https://hackerone.com/reports/4137523 | CURL_NETRC_REQUIRED sends the URL password when the .netrc file has no matching entry

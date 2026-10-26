@@ -242138,6 +242138,25 @@
     "votes": 6
   },
   {
+    "id": 3938190,
+    "url": "https://hackerone.com/reports/3938190",
+    "title": " Windows SSPI connection-pool probe can reuse a connection under the wrong user",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "mr4bugs",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Authentication Bypass by Spoofing",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-13",
+    "disclosed_at": "2026-10-26T09:09:56.813Z",
+    "votes": 0
+  },
+  {
     "id": 3938220,
     "url": "https://hackerone.com/reports/3938220",
     "title": "libcurl cache updates follow symlinks and truncate their targets",
@@ -242609,6 +242628,25 @@
     "votes": 0
   },
   {
+    "id": 3971551,
+    "url": "https://hackerone.com/reports/3971551",
+    "title": "20: HTAB before `Secure` attribute silently drops the Secure cookie flag",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "duplicate",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-26",
+    "disclosed_at": "2026-10-26T09:10:06.323Z",
+    "votes": 0
+  },
+  {
     "id": 3971585,
     "url": "https://hackerone.com/reports/3971585",
     "title": "33: CONNECT_ONLY raw I/O selects wrong connection after CURLOPT_SHARE detach (incomplete fix for CVE-2020-8231)",
@@ -243010,6 +243048,27 @@
     "reported_at": "2026-08-27",
     "disclosed_at": "2026-09-07T21:05:55.088Z",
     "votes": 2
+  },
+  {
+    "id": 3973124,
+    "url": "https://hackerone.com/reports/3973124",
+    "title": "14: HSTS cache import silently drops a longer-lived child beneath an includeSubDomains parent",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "giant_anteater",
+    "severity": null,
+    "cvss": null,
+    "weakness": "Cleartext Transmission of Sensitive Information",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2024-9681"
+    ],
+    "substate": "duplicate",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-27",
+    "disclosed_at": "2026-10-26T09:10:16.711Z",
+    "votes": 0
   },
   {
     "id": 3973127,
@@ -243588,6 +243647,25 @@
     "reported_at": "2026-09-03",
     "disclosed_at": "2026-10-08T19:30:08.210Z",
     "votes": 7
+  },
+  {
+    "id": 4000084,
+    "url": "https://hackerone.com/reports/4000084",
+    "title": "A disabled account's API key still works on BMO's Mojolicious /rest/ routes, including for security-group bugs filed after the disable",
+    "visibility": "no-content",
+    "program": "Mozilla",
+    "program_handle": "mozilla",
+    "reporter": "timhaines",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Improper Authentication - Generic",
+    "bounty": 4000.0,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-09-05",
+    "disclosed_at": "2026-10-26T10:49:19.776Z",
+    "votes": 4
   },
   {
     "id": 4000185,
@@ -244513,6 +244591,27 @@
     "votes": 1
   },
   {
+    "id": 4102061,
+    "url": "https://hackerone.com/reports/4102061",
+    "title": "CVE-2026-111480: pause UAF from within callback",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "rat5ak",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Use After Free",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-111480"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-10",
+    "disclosed_at": "2026-10-26T07:53:13.358Z",
+    "votes": 0
+  },
+  {
     "id": 4103651,
     "url": "https://hackerone.com/reports/4103651",
     "title": "TFTP accepts a first response from an IP other than the requested server",
@@ -244532,6 +244631,25 @@
     "votes": 3
   },
   {
+    "id": 4105790,
+    "url": "https://hackerone.com/reports/4105790",
+    "title": "FTP authentication options leak to a cross-origin FTP redirect with unrestricted auth disabled",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "galcan",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Insufficiently Protected Credentials",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-11",
+    "disclosed_at": "2026-10-26T09:10:26.560Z",
+    "votes": 0
+  },
+  {
     "id": 4105853,
     "url": "https://hackerone.com/reports/4105853",
     "title": "libcurl TLS shorter-retry mismatch discloses client heap memory during cancelled IMAPS upload",
@@ -244549,6 +244667,50 @@
     "reported_at": "2026-10-11",
     "disclosed_at": "2026-10-19T09:13:30.904Z",
     "votes": 1
+  },
+  {
+    "id": 4112709,
+    "url": "https://hackerone.com/reports/4112709",
+    "title": "CVE-2026-111482: libssh2 knownhosts prefix match",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "samueloph",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Partial String Comparison",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-111482",
+      "CVE-2026-87865"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-14",
+    "disclosed_at": "2026-10-26T07:53:37.731Z",
+    "votes": 0
+  },
+  {
+    "id": 4112912,
+    "url": "https://hackerone.com/reports/4112912",
+    "title": "CVE-2026-111481: server-set cookie still aborts cookie jar",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "samueloph",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Improper Input Validation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-111481",
+      "CVE-2026-92386"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-14",
+    "disclosed_at": "2026-10-26T07:53:26.157Z",
+    "votes": 0
   },
   {
     "id": 4113412,
@@ -244589,6 +244751,93 @@
     "reported_at": "2026-10-14",
     "disclosed_at": "2026-10-17T09:44:04.431Z",
     "votes": 0
+  },
+  {
+    "id": 4116076,
+    "url": "https://hackerone.com/reports/4116076",
+    "title": "CVE-2026-111483: GnuTLS accepts non-successful OCSP staples",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "matty69v",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Improper Check for Certificate Revocation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-111483",
+      "CVE-2024-8096"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-15",
+    "disclosed_at": "2026-10-26T07:21:03.311Z",
+    "votes": 1
+  },
+  {
+    "id": 4116527,
+    "url": "https://hackerone.com/reports/4116527",
+    "title": "CVE-2026-111878: OpenSSL provider UAF on TLS shutdown",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "vansukmbg",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Use After Free",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-111878",
+      "CVE-2026-80229"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-15",
+    "disclosed_at": "2026-10-26T07:25:17.116Z",
+    "votes": 0
+  },
+  {
+    "id": 4118610,
+    "url": "https://hackerone.com/reports/4118610",
+    "title": "CVE-2026-111484: OpenSSL with SecTrust accepts bad OCSP staples",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "sujitjaunjal",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Improper Certificate Validation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-111484",
+      "CVE-2026-7009"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-16",
+    "disclosed_at": "2026-10-26T07:53:49.149Z",
+    "votes": 0
+  },
+  {
+    "id": 4118643,
+    "url": "https://hackerone.com/reports/4118643",
+    "title": "OpenSSL provider OSSL_LIB_CTX used after free via the connection shutdown list (CVE-2026-80229 fix incomplete)",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "sujitjaunjal",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Use After Free",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-80229"
+    ],
+    "substate": "duplicate",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-16",
+    "disclosed_at": "2026-10-26T09:10:35.854Z",
+    "votes": 1
   },
   {
     "id": 4121675,
@@ -244667,6 +244916,71 @@
     "votes": 2
   },
   {
+    "id": 4122175,
+    "url": "https://hackerone.com/reports/4122175",
+    "title": "CVE-2026-111950: TLS session cache diff scheme reuse",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "stze",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Incorrect Comparison",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-111950"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-17",
+    "disclosed_at": "2026-10-26T07:54:25.383Z",
+    "votes": 0
+  },
+  {
+    "id": 4122239,
+    "url": "https://hackerone.com/reports/4122239",
+    "title": "CVE-2026-111952: OpenSSL provider use-after-free again",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "moltenbit",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Use After Free",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-111952"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-17",
+    "disclosed_at": "2026-10-26T07:52:59.561Z",
+    "votes": 0
+  },
+  {
+    "id": 4122300,
+    "url": "https://hackerone.com/reports/4122300",
+    "title": "CVE-2026-111953: GnuTLS SecTrust OCSP staple bypass",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "sujitjaunjal",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Improper Certificate Validation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-111953",
+      "CVE-2026-111484",
+      "CVE-2026-7009"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-17",
+    "disclosed_at": "2026-10-26T07:54:33.576Z",
+    "votes": 0
+  },
+  {
     "id": 4122567,
     "url": "https://hackerone.com/reports/4122567",
     "title": "passive FTPS data connection handshake blocks curl_multi_perform() with no timeout (regression in 8.19.0)",
@@ -244705,6 +245019,27 @@
     "reported_at": "2026-10-17",
     "disclosed_at": "2026-10-21T17:25:46.256Z",
     "votes": 1
+  },
+  {
+    "id": 4123190,
+    "url": "https://hackerone.com/reports/4123190",
+    "title": "CVE-2026-111954: upload reader failed redirect UAF",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "1rhino2",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Use After Free",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-111954"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-17",
+    "disclosed_at": "2026-10-26T07:54:41.710Z",
+    "votes": 0
   },
   {
     "id": 4123571,
@@ -244874,6 +245209,27 @@
     "votes": 0
   },
   {
+    "id": 4124849,
+    "url": "https://hackerone.com/reports/4124849",
+    "title": "CVE-2026-111951: curl -OJ truncate without filename",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "matty69v",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "External Control of File Name or Path",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-111951"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-18",
+    "disclosed_at": "2026-10-26T07:22:02.063Z",
+    "votes": 1
+  },
+  {
     "id": 4125065,
     "url": "https://hackerone.com/reports/4125065",
     "title": "curl EXPIRE_SHUTDOWN timer never armed for silent servers: connection-shutdown timeout bypass in cshutdn (event-driven mode)",
@@ -244935,6 +245291,25 @@
     "votes": 1
   },
   {
+    "id": 4127231,
+    "url": "https://hackerone.com/reports/4127231",
+    "title": "Derived cookie Path aborts cookie jar loading in curl 8.23.0",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "threalwinky",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Improper Input Validation",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-19",
+    "disclosed_at": "2026-10-26T08:02:00.083Z",
+    "votes": 0
+  },
+  {
     "id": 4127399,
     "url": "https://hackerone.com/reports/4127399",
     "title": "wolfSSL Backend Silently Ignores --cert-status (OCSP Stapling Bypass)",
@@ -244971,6 +245346,27 @@
     "reported_at": "2026-10-19",
     "disclosed_at": "2026-10-19T14:04:41.303Z",
     "votes": 0
+  },
+  {
+    "id": 4128428,
+    "url": "https://hackerone.com/reports/4128428",
+    "title": "CVE-2026-115528: wolfSSL TLS connect without cert",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "matty69v",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Improper Certificate Validation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-115528"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-19",
+    "disclosed_at": "2026-10-26T07:21:36.975Z",
+    "votes": 1
   },
   {
     "id": 4128701,
@@ -245077,6 +245473,25 @@
     "votes": 1
   },
   {
+    "id": 4130124,
+    "url": "https://hackerone.com/reports/4130124",
+    "title": " server filename with control characters printed to terminal (`-J`)",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "gubee",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Improper Neutralization of Escape, Meta, or Control Sequences",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-20",
+    "disclosed_at": "2026-10-26T07:55:51.912Z",
+    "votes": 0
+  },
+  {
     "id": 4131903,
     "url": "https://hackerone.com/reports/4131903",
     "title": "A server response that answers nothing is used as the next transfer's reply \u2014 and with IMAP, a fully compliant server does this by accident",
@@ -245155,6 +245570,28 @@
     "asset_type": "SOURCE_CODE",
     "reported_at": "2026-10-21",
     "disclosed_at": "2026-10-23T07:26:51.304Z",
+    "votes": 0
+  },
+  {
+    "id": 4136767,
+    "url": "https://hackerone.com/reports/4136767",
+    "title": "CVE-2026-115529: Schannel TLS auto client session resumption",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "johnnykao",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Improper Authentication - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-115529",
+      "CVE-2026-86415"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-22",
+    "disclosed_at": "2026-10-26T07:54:51.054Z",
     "votes": 0
   },
   {

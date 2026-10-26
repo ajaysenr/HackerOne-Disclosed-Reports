@@ -1,4 +1,4 @@
-# Weakness: Cleartext Transmission of Sensitive Information (43 reports)
+# Weakness: Cleartext Transmission of Sensitive Information (44 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -47,3 +47,4 @@
 | 41 | [374053](../reports/374053.md) | Accessing to download.nextcloud.com from original ip adreess | in | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
 | 42 | [265441](../reports/265441.md) | Error the message with already e-mail  | [Legal Robot](../by-program/legalrobot.md) | None | — | 2 |
 | 43 | [3972357](../reports/3972357.md) | CVE-2026-87862: HSTS cache import drops longer-lived child | [curl](../by-program/curl.md) | None | — | 0 |
+| 44 | [3973124](../reports/3973124.md) | 14: HSTS cache import silently drops a longer-lived child beneath | [curl](../by-program/curl.md) | None | — | 0 |
