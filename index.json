@@ -233469,6 +233469,27 @@
     "votes": 17
   },
   {
+    "id": 3511955,
+    "url": "https://hackerone.com/reports/3511955",
+    "title": "Unauthorized users can enumerate internal team resources via the Teams API when a team is visible to everyone",
+    "visibility": "no-content",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "yoyomiski",
+    "severity": "medium",
+    "cvss": 4.3,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-82984"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-01-16",
+    "disclosed_at": "2026-10-27T11:17:49.198Z",
+    "votes": 1
+  },
+  {
     "id": 3511998,
     "url": "https://hackerone.com/reports/3511998",
     "title": "Private circle can be added to another circle via API despite visibility restriction",
@@ -233877,6 +233898,27 @@
     "reported_at": "2026-01-26",
     "disclosed_at": "2026-03-05T15:49:48.849Z",
     "votes": 35
+  },
+  {
+    "id": 3524971,
+    "url": "https://hackerone.com/reports/3524971",
+    "title": "Users with read-only access to a Nextcloud Table can enumerate its share recipients via the Tables API",
+    "visibility": "no-content",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "yoyomiski",
+    "severity": "low",
+    "cvss": 3.3,
+    "weakness": "Information Disclosure",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-82983"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-01-26",
+    "disclosed_at": "2026-10-27T11:19:32.218Z",
+    "votes": 2
   },
   {
     "id": 3527771,
@@ -234359,6 +234401,46 @@
     "votes": 3
   },
   {
+    "id": 3566607,
+    "url": "https://hackerone.com/reports/3566607",
+    "title": "No password confirmation required when using apptoken on sensitive endpoint",
+    "visibility": "no-content",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "npc",
+    "severity": "medium",
+    "cvss": 5.3,
+    "weakness": "Improper Privilege Management",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-77172"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-02-21",
+    "disclosed_at": "2026-10-27T10:40:47.066Z",
+    "votes": 0
+  },
+  {
+    "id": 3568116,
+    "url": "https://hackerone.com/reports/3568116",
+    "title": "FederationController::remoteWopiToken() returns full Wopi entity without token type validation",
+    "visibility": "no-content",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "bornwinnerrr",
+    "severity": "low",
+    "cvss": 3.5,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-02-22",
+    "disclosed_at": "2026-10-27T11:33:52.202Z",
+    "votes": 0
+  },
+  {
     "id": 3572848,
     "url": "https://hackerone.com/reports/3572848",
     "title": "Group restriction bypass via bearer token in user_oidc (SETTING_RESTRICT_LOGIN_TO_GROUPS not enforced in Backend::getCurrentUserId)",
@@ -234452,6 +234534,27 @@
     "reported_at": "2026-02-26",
     "disclosed_at": "2026-02-26T15:56:31.985Z",
     "votes": 11
+  },
+  {
+    "id": 3576823,
+    "url": "https://hackerone.com/reports/3576823",
+    "title": "SSRF on Nextcloud Whiteboard Application via Recordings to Unauthorised Access to Whiteboards",
+    "visibility": "no-content",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "alex-elttam",
+    "severity": "medium",
+    "cvss": 4.6,
+    "weakness": "Server-Side Request Forgery (SSRF)",
+    "bounty": 250.0,
+    "cve_ids": [
+      "CVE-2026-87897"
+    ],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-02-27",
+    "disclosed_at": "2026-10-27T11:26:00.153Z",
+    "votes": 0
   },
   {
     "id": 3577145,
@@ -235490,6 +235593,27 @@
     "votes": 12
   },
   {
+    "id": 3620539,
+    "url": "https://hackerone.com/reports/3620539",
+    "title": "Public shares remain accessible via alternate endpoints after owner account is disabled",
+    "visibility": "no-content",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "blinkyyy",
+    "severity": "medium",
+    "cvss": 5.3,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": 270.0,
+    "cve_ids": [
+      "CVE-2026-114601"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-03-22",
+    "disclosed_at": "2026-10-27T10:50:05.668Z",
+    "votes": 0
+  },
+  {
     "id": 3620748,
     "url": "https://hackerone.com/reports/3620748",
     "title": "V1Plugin.Decrypt panics on empty ciphertext (Remote DoS)",
@@ -235720,6 +235844,27 @@
     "reported_at": "2026-03-24",
     "disclosed_at": "2026-05-05T15:07:51.234Z",
     "votes": 11
+  },
+  {
+    "id": 3625932,
+    "url": "https://hackerone.com/reports/3625932",
+    "title": "Unauthorised access with hidden public link creation when sharing to a Team External Member",
+    "visibility": "no-content",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "fadalika",
+    "severity": "low",
+    "cvss": 2.6,
+    "weakness": "Privilege Escalation",
+    "bounty": 100.0,
+    "cve_ids": [
+      "CVE-2026-45285"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-03-24",
+    "disclosed_at": "2026-10-27T11:10:35.819Z",
+    "votes": 0
   },
   {
     "id": 3625987,
@@ -236155,6 +236300,27 @@
     "reported_at": "2026-04-01",
     "disclosed_at": "2026-04-03T14:54:03.679Z",
     "votes": 18
+  },
+  {
+    "id": 3642236,
+    "url": "https://hackerone.com/reports/3642236",
+    "title": "Tables application does not respect sharing limitations set by admin",
+    "visibility": "no-content",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "samin_zavarkesh",
+    "severity": "medium",
+    "cvss": 4.6,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-82986"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-04-01",
+    "disclosed_at": "2026-10-27T11:22:32.011Z",
+    "votes": 0
   },
   {
     "id": 3642555,
@@ -237085,6 +237251,27 @@
     "votes": 3
   },
   {
+    "id": 3679640,
+    "url": "https://hackerone.com/reports/3679640",
+    "title": "Unauthenticated Persistent Denial-of-Service via Federated Share Injection",
+    "visibility": "no-content",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "ncsc_nl",
+    "severity": "high",
+    "cvss": 7.5,
+    "weakness": "Uncontrolled Resource Consumption",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-77167"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-04-17",
+    "disclosed_at": "2026-10-27T10:43:59.752Z",
+    "votes": 0
+  },
+  {
     "id": 3679660,
     "url": "https://hackerone.com/reports/3679660",
     "title": "mruby-engine: UAF in MRubyEngine#initialize enables local RCE",
@@ -237204,6 +237391,27 @@
     "reported_at": "2026-04-18",
     "disclosed_at": "2026-09-17T17:38:21.083Z",
     "votes": 12
+  },
+  {
+    "id": 3682163,
+    "url": "https://hackerone.com/reports/3682163",
+    "title": "Files Confidential tagging can be bypassed with # in filename ",
+    "visibility": "no-content",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "xavlimsg",
+    "severity": "medium",
+    "cvss": 5.0,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-77173"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-04-18",
+    "disclosed_at": "2026-10-27T11:00:19.687Z",
+    "votes": 1
   },
   {
     "id": 3682666,
@@ -243649,6 +243857,27 @@
     "votes": 7
   },
   {
+    "id": 3996423,
+    "url": "https://hackerone.com/reports/3996423",
+    "title": "Permission Model filesystem over-grant via wildcard radix lookup",
+    "visibility": "no-content",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "malikhamzaiqbal",
+    "severity": "low",
+    "cvss": 3.6,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-106071"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-04",
+    "disclosed_at": "2026-10-27T07:06:06.424Z",
+    "votes": 1
+  },
+  {
     "id": 4000084,
     "url": "https://hackerone.com/reports/4000084",
     "title": "A disabled account's API key still works on BMO's Mojolicious /rest/ routes, including for security-group bugs filed after the disable",
@@ -245739,6 +245968,25 @@
     "asset_type": "SOURCE_CODE",
     "reported_at": "2026-10-22",
     "disclosed_at": "2026-10-23T13:59:15.081Z",
+    "votes": 0
+  },
+  {
+    "id": 4147581,
+    "url": "https://hackerone.com/reports/4147581",
+    "title": "Incomplete IDN hostname check on the transfer path can lead to credential disclosure to an unintended host",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "christos_eth",
+    "severity": "low",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-26",
+    "disclosed_at": "2026-10-27T07:53:09.340Z",
     "votes": 0
   }
 ]

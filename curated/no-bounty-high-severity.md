@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2439 total)
+# High/Critical Severity — No Bounty Paid (2440 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -2435,6 +2435,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [4121689](../reports/4121689.md) | CRLF injection in the HTTP request-line via `CURLOPT_REQUEST_TARG | [curl](../by-program/curl.md) | High | Not Applicable | 0 |
 | [878332](../reports/878332.md) | [object-path-set] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | Resolved | 0 |
 | [4059104](../reports/4059104.md) | IMAP literal size truncation on 32-bit platforms corrupts downloa | [curl](../by-program/curl.md) | High | Informative | 0 |
+| [3679640](../reports/3679640.md) | Unauthenticated Persistent Denial-of-Service via Federated Share  | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 7.5 | Resolved | 0 |
 | [333459](../reports/333459.md) | npm packages that overlap with core node packages | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | Informative | 0 |
 | [713975](../reports/713975.md) | Only OpenSSL handles a CRL when passed in via CApath  | [curl](../by-program/curl.md) | High | Informative | 0 |
 | [358005](../reports/358005.md) | Tor Browser: iframe with `data:` uri  has access to parent window | [Tor](../by-program/torproject.md) | High | Informative | 0 |

@@ -1,4 +1,4 @@
-# Severity: High (1980 reports)
+# Severity: High (1981 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -1976,11 +1976,12 @@
 | 1970 | [4121689](../reports/4121689.md) | CRLF injection in the HTTP request-line via `CURLOPT_REQUEST_TARG | [curl](../by-program/curl.md) | High | — | 0 |
 | 1971 | [878332](../reports/878332.md) | [object-path-set] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 0 |
 | 1972 | [4059104](../reports/4059104.md) | IMAP literal size truncation on 32-bit platforms corrupts downloa | [curl](../by-program/curl.md) | High | — | 0 |
-| 1973 | [333459](../reports/333459.md) | npm packages that overlap with core node packages | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 0 |
-| 1974 | [713975](../reports/713975.md) | Only OpenSSL handles a CRL when passed in via CApath  | [curl](../by-program/curl.md) | High | — | 0 |
-| 1975 | [358005](../reports/358005.md) | Tor Browser: iframe with `data:` uri  has access to parent window | [Tor](../by-program/torproject.md) | High | — | 0 |
-| 1976 | [1001218](../reports/1001218.md) | [@firebase/util] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 0 |
-| 1977 | [4057637](../reports/4057637.md) | [HIGH] CWE-22 — Path Traversal in FTP Wildcard Download via Unenc | [curl](../by-program/curl.md) | High | — | 0 |
-| 1978 | [1555440](../reports/1555440.md) | match | [curl](../by-program/curl.md) | High — CVSS 7.5 | — | 0 |
-| 1979 | [4121675](../reports/4121675.md) | CRLF injection in the RTSP request-line and Transport header via  | [curl](../by-program/curl.md) | High | — | 0 |
-| 1980 | [3678395](../reports/3678395.md) | Path Traversal in mbstream Extract | [MariaDB](../by-program/mariadb.md) | High — CVSS 7.8 | — | 0 |
+| 1973 | [3679640](../reports/3679640.md) | Unauthenticated Persistent Denial-of-Service via Federated Share  | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 7.5 | — | 0 |
+| 1974 | [333459](../reports/333459.md) | npm packages that overlap with core node packages | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 0 |
+| 1975 | [713975](../reports/713975.md) | Only OpenSSL handles a CRL when passed in via CApath  | [curl](../by-program/curl.md) | High | — | 0 |
+| 1976 | [358005](../reports/358005.md) | Tor Browser: iframe with `data:` uri  has access to parent window | [Tor](../by-program/torproject.md) | High | — | 0 |
+| 1977 | [1001218](../reports/1001218.md) | [@firebase/util] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | — | 0 |
+| 1978 | [4057637](../reports/4057637.md) | [HIGH] CWE-22 — Path Traversal in FTP Wildcard Download via Unenc | [curl](../by-program/curl.md) | High | — | 0 |
+| 1979 | [1555440](../reports/1555440.md) | match | [curl](../by-program/curl.md) | High — CVSS 7.5 | — | 0 |
+| 1980 | [4121675](../reports/4121675.md) | CRLF injection in the RTSP request-line and Transport header via  | [curl](../by-program/curl.md) | High | — | 0 |
+| 1981 | [3678395](../reports/3678395.md) | Path Traversal in mbstream Extract | [MariaDB](../by-program/mariadb.md) | High — CVSS 7.8 | — | 0 |

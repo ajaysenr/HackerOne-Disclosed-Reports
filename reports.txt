@@ -11951,6 +11951,7 @@ https://hackerone.com/reports/3509437 | Directory listing vulnerability is discl
 https://hackerone.com/reports/3509632 | Information Disclosure via Logback Configuration Injection in GoCD Agent
 https://hackerone.com/reports/3510161 | Memory Exhaustion in CometBFT v1.0.1 via malicious ProposalMessage leads to network-wide denial of service
 https://hackerone.com/reports/3511792 | HashDoS in V8
+https://hackerone.com/reports/3511955 | Unauthorized users can enumerate internal team resources via the Teams API when a team is visible to everyone
 https://hackerone.com/reports/3511998 | Private circle can be added to another circle via API despite visibility restriction
 https://hackerone.com/reports/3513471 | Unauthenticated testing endpoint of notify_push expose internal IP
 https://hackerone.com/reports/3514122 | Password Reuse Vulnerability on AWS Sign-in Page via Password Reset Flow leads to Security Policy Violation
@@ -11972,6 +11973,7 @@ https://hackerone.com/reports/3523349 | Integer Underflow in src/var.c
 https://hackerone.com/reports/3523703 | Password Strength Policy Bypass via Server-Side Validation Flaw
 https://hackerone.com/reports/3523953 | wcurl Argument Injection via Unquoted Variable
 https://hackerone.com/reports/3524779 | DoS via Unbounded Memory Allocation in sendWebStream on Fastify v5.7.0+ leads to OOM crash when backpressure is ignored
+https://hackerone.com/reports/3524971 | Users with read-only access to a Nextcloud Table can enumerate its share recipients via the Tables API
 https://hackerone.com/reports/3527771 | Add labels to arbitrary issues/prs & compromise github actions label checks
 https://hackerone.com/reports/3527788 | Add labels to arbitrary issues/prs via Memex Bulk Update to compromise github actions label gating
 https://hackerone.com/reports/3531216 | MQTT Protocol Packet Injection via Unchecked CONNACK Remaining Length
@@ -11996,11 +11998,14 @@ https://hackerone.com/reports/3560256 | Cross-repository IDOR in `/settings/secu
 https://hackerone.com/reports/3560402 | Denial of Service via `__proto__` header name in `req.headersDistinct` (Uncaught `TypeError` crashes Node.js process)
 https://hackerone.com/reports/3564655 | Complete authentication bypass to admin permissions
 https://hackerone.com/reports/3564941 | HTTP Request Smuggling via Silent Header Truncation in Node.js HTTP Parser
+https://hackerone.com/reports/3566607 | No password confirmation required when using apptoken on sensitive endpoint
+https://hackerone.com/reports/3568116 | FederationController::remoteWopiToken() returns full Wopi entity without token type validation
 https://hackerone.com/reports/3572848 | Group restriction bypass via bearer token in user_oidc (SETTING_RESTRICT_LOGIN_TO_GROUPS not enforced in Backend::getCurrentUserId)
 https://hackerone.com/reports/3574928 | Able to bypass HSTS using trailing dot
 https://hackerone.com/reports/3575245 | Integer Overflow in curl_multi_get_handles() Leading to Heap Buffer Overflow
 https://hackerone.com/reports/3575250 | RTSP RTP Interleaved Parser Assertion Failure (Zero-Length RTP Payload)
 https://hackerone.com/reports/3575475 | Curl Telnet Handler Buffer Overflow
+https://hackerone.com/reports/3576823 | SSRF on Nextcloud Whiteboard Application via Recordings to Unauthorised Access to Whiteboards
 https://hackerone.com/reports/3577145 | QuickSight Authorization Bypass: Chat Agents Accessible Despite Custom Permissions Denial
 https://hackerone.com/reports/3577216 | `exportReportPdf` mutation shows internal Activity
 https://hackerone.com/reports/3578842 | SQL Injection vulnerability found on ibm.com endpoint
@@ -12054,6 +12059,7 @@ https://hackerone.com/reports/3619287 | RCE + Supply Chain Attack via pull_reque
 https://hackerone.com/reports/3619288 | RCE + PAT Exfiltration via pull_request_target in privacy-configuration/auto-respond-pr.yml — Direct Supply Chain to All DDG Browsers
 https://hackerone.com/reports/3619409 | Windows installer grants low-privileged users write access to executable P2Pool directory, enabling local code execution
 https://hackerone.com/reports/3620006 | Wallet RPC Restricted-Mode Policy Bypass
+https://hackerone.com/reports/3620539 | Public shares remain accessible via alternate endpoints after owner account is disabled
 https://hackerone.com/reports/3620748 | V1Plugin.Decrypt panics on empty ciphertext (Remote DoS)
 https://hackerone.com/reports/3620753 | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS)
 https://hackerone.com/reports/3620760 | Encryption context keys and values logged at INFO level
@@ -12066,6 +12072,7 @@ https://hackerone.com/reports/3623064 | HTTP/1.1 Response Desynchronization via 
 https://hackerone.com/reports/3623149 | SSRF via User-Controlled Push proxyServer in Notifications Push Registration
 https://hackerone.com/reports/3625210 | PIN bypass in PassCodeActivity via back button
 https://hackerone.com/reports/3625600 | Out of scope: Improper Input Validation Order on /api-internal/login via password field leads to unnecessary resource consumption
+https://hackerone.com/reports/3625932 | Unauthorised access with hidden public link creation when sharing to a Team External Member
 https://hackerone.com/reports/3625987 | Permission Model bypass via FileHandle.utimes() in the promises API
 https://hackerone.com/reports/3627638 | Security Vulnerability Report: Protocol Injection via Programmatic Options
 https://hackerone.com/reports/3628961 | admin.shopify.com: Shopify Flow continues sending internal emails to a configured recipient after the staff author is removed
@@ -12088,6 +12095,7 @@ https://hackerone.com/reports/3639277 | Bypassing Strict SSH Server Verification
 https://hackerone.com/reports/3640932 | Missing server identity policy enforcement in SSH connection reuse allows host key verification bypass via pool poisoning
 https://hackerone.com/reports/3641229 | GitHub user to server tokens can create issues in any public repository
 https://hackerone.com/reports/3641893 | Cookie attribute TAB injection regression in Set-Cookie parsing
+https://hackerone.com/reports/3642236 | Tables application does not respect sharing limitations set by admin
 https://hackerone.com/reports/3642555 | CVE-2026-5545: wrong reuse of HTTP Negotiate connection
 https://hackerone.com/reports/3642600 | Authorization header leak in ssrf_filter via cross-host redirect leads to credential theft and unauthorized access
 https://hackerone.com/reports/3644182 | Stored XSS in nameserver field on account settings page
@@ -12134,12 +12142,14 @@ https://hackerone.com/reports/3677759 | CVE-2026-6429: netrc credential leak wit
 https://hackerone.com/reports/3678395 | Path Traversal in mbstream Extract
 https://hackerone.com/reports/3678828 | Banner status override by advertiser‑level users
 https://hackerone.com/reports/3679471 | HTML Injection in Transaction Confirmation Dialog via Address Book Description Enables UI Spoofing Before Fund Transfer
+https://hackerone.com/reports/3679640 | Unauthenticated Persistent Denial-of-Service via Federated Share Injection
 https://hackerone.com/reports/3679660 | mruby-engine: UAF in MRubyEngine#initialize enables local RCE
 https://hackerone.com/reports/3680038 | Digest Auth State Leak on Cross-Origin Redirect via Netrc - Username and Password Hash Sent to Wrong Host
 https://hackerone.com/reports/3680090 | Stored XSS via malicious usernames in audit log details + Username validation bypass in XML‑RPC addUser
 https://hackerone.com/reports/3680234 | libcurl reuses a learned RTSP Session header across different hosts on the same easy handle, enabling cross-host session leak and replay
 https://hackerone.com/reports/3680680 | libcurl omits IPv6 zoneid from host identity and leaks credentials/cookies across scoped link-local realms
 https://hackerone.com/reports/3681690 | ZMQ get_output_distribution duplicate amount DoS
+https://hackerone.com/reports/3682163 | Files Confidential tagging can be bypassed with # in filename
 https://hackerone.com/reports/3682666 | Use-after-free in `curl_easy_ssls_export()` during callback re-entrancy
 https://hackerone.com/reports/3683886 | Restricted ZMQ RPC bypasses HTTP restricted-mode resource checks
 https://hackerone.com/reports/3683934 | sign_multisig crashes monero-wallet-rpc on a malformed but decryptable multisig txset
@@ -12466,6 +12476,7 @@ https://hackerone.com/reports/3993870 | CVE-2026-86415: auto client cert connect
 https://hackerone.com/reports/3993973 | HTTP Digest nonce reused across an https→http scheme change on the same handle
 https://hackerone.com/reports/3994016 | Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body inject arbitrary Markdown
 https://hackerone.com/reports/3994056 | Full Admin Takeover of R3 Limited's JFrog Artifactory - 292 Users, Corda Enterprise & CBDC Supply Chain Compromised
+https://hackerone.com/reports/3996423 | Permission Model filesystem over-grant via wildcard radix lookup
 https://hackerone.com/reports/4000084 | A disabled account's API key still works on BMO's Mojolicious /rest/ routes, including for security-group bugs filed after the disable
 https://hackerone.com/reports/4000185 | HackerOne Code sends live password-reset tokens to Segment in automatic page events
 https://hackerone.com/reports/4006744 | TLS certificate hostname bypass when the host loosely resolves to an IP address
@@ -12569,3 +12580,4 @@ https://hackerone.com/reports/4135291 | Heap-use-after-free in libcurl's multi e
 https://hackerone.com/reports/4135826 | --cert-status with OpenSSL accepts a stapled OCSP response of any age when it lacks nextUpdate (revoked certificate keeps passing)
 https://hackerone.com/reports/4136767 | CVE-2026-115529: Schannel TLS auto client session resumption
 https://hackerone.com/reports/4137523 | CURL_NETRC_REQUIRED sends the URL password when the .netrc file has no matching entry
+https://hackerone.com/reports/4147581 | Incomplete IDN hostname check on the transfer path can lead to credential disclosure to an unintended host

@@ -1,4 +1,4 @@
-# Node.js — Disclosed Reports (166 total)
+# Node.js — Disclosed Reports (167 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -160,13 +160,14 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 154 | [3815767](../reports/3815767.md) | Permission Model bypass: process.report writes (and overwrit | Low — CVSS 3.3 | — | 1 | [sinan-polat](https://hackerone.com/sinan-polat) | 2026-07-30 |
 | 155 | [3625987](../reports/3625987.md) | Permission Model bypass via FileHandle.utimes() in the promi | Low — CVSS 3.3 | — | 1 | [muhammaddaffa](https://hackerone.com/muhammaddaffa) | 2026-06-25 |
 | 156 | [3838675](../reports/3838675.md) | Permission Model bypass with fs.realpathSync | Low — CVSS 3.3 | — | 1 | [0xoroot](https://hackerone.com/0xoroot) | 2026-10-23 |
-| 157 | [3302484](../reports/3302484.md) | CWE-195 in ExternalMemoryAccounter::Increase() | None | — | 55 | [codingthunder](https://hackerone.com/codingthunder) | 2025-08-26 |
-| 158 | [340580](../reports/340580.md) | registry.nodejs.org Subdomain Takeover | None | — | 35 | [dade](https://hackerone.com/dade) | 2018-05-04 |
-| 159 | [3456148](../reports/3456148.md) | Unbounded decompression chain in HTTP responses on Node.js F | None | — | 24 | [illia-v](https://hackerone.com/illia-v) | 2026-02-23 |
-| 160 | [2260337](../reports/2260337.md) | Permissions can be bypassed via arbitrary code execution thr | None | — | 20 | [xion](https://hackerone.com/xion) | 2024-08-08 |
-| 161 | [2377760](../reports/2377760.md) | fetch with integrity option is too lax when algorithm is spe | None | — | 11 | [uzlopak](https://hackerone.com/uzlopak) | 2024-05-03 |
-| 162 | [629879](../reports/629879.md) | loader.js is not secure | None | — | 3 | [cdpython](https://hackerone.com/cdpython) | 2020-06-11 |
-| 163 | [878181](../reports/878181.md) | Child process environment injection via prototype pollution | None | — | 3 | [coreyfarrell](https://hackerone.com/coreyfarrell) | 2020-07-04 |
-| 164 | [678487](../reports/678487.md) | Hostname spoofing | None | — | 3 | [tosh](https://hackerone.com/tosh) | 2020-01-10 |
-| 165 | [340053](../reports/340053.md) | Use After Free in crypto.randomFill | None | — | 2 | [tunz](https://hackerone.com/tunz) | 2020-01-15 |
-| 166 | [676710](../reports/676710.md) | Http response is not ended although underlying socket is alr | None | — | 1 | [verdaster](https://hackerone.com/verdaster) | 2020-01-15 |
+| 157 | [3996423](../reports/3996423.md) | Permission Model filesystem over-grant via wildcard radix lo | Low — CVSS 3.6 | — | 1 | [malikhamzaiqbal](https://hackerone.com/malikhamzaiqbal) | 2026-10-27 |
+| 158 | [3302484](../reports/3302484.md) | CWE-195 in ExternalMemoryAccounter::Increase() | None | — | 55 | [codingthunder](https://hackerone.com/codingthunder) | 2025-08-26 |
+| 159 | [340580](../reports/340580.md) | registry.nodejs.org Subdomain Takeover | None | — | 35 | [dade](https://hackerone.com/dade) | 2018-05-04 |
+| 160 | [3456148](../reports/3456148.md) | Unbounded decompression chain in HTTP responses on Node.js F | None | — | 24 | [illia-v](https://hackerone.com/illia-v) | 2026-02-23 |
+| 161 | [2260337](../reports/2260337.md) | Permissions can be bypassed via arbitrary code execution thr | None | — | 20 | [xion](https://hackerone.com/xion) | 2024-08-08 |
+| 162 | [2377760](../reports/2377760.md) | fetch with integrity option is too lax when algorithm is spe | None | — | 11 | [uzlopak](https://hackerone.com/uzlopak) | 2024-05-03 |
+| 163 | [629879](../reports/629879.md) | loader.js is not secure | None | — | 3 | [cdpython](https://hackerone.com/cdpython) | 2020-06-11 |
+| 164 | [878181](../reports/878181.md) | Child process environment injection via prototype pollution | None | — | 3 | [coreyfarrell](https://hackerone.com/coreyfarrell) | 2020-07-04 |
+| 165 | [678487](../reports/678487.md) | Hostname spoofing | None | — | 3 | [tosh](https://hackerone.com/tosh) | 2020-01-10 |
+| 166 | [340053](../reports/340053.md) | Use After Free in crypto.randomFill | None | — | 2 | [tunz](https://hackerone.com/tunz) | 2020-01-15 |
+| 167 | [676710](../reports/676710.md) | Http response is not ended although underlying socket is alr | None | — | 1 | [verdaster](https://hackerone.com/verdaster) | 2020-01-15 |
