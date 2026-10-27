@@ -58,12 +58,12 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 52 | [577584](../reports/577584.md) | ISteamAssets gives partners control over unrelated community | High — CVSS 7.1 | — | 109 | [njbooher3](https://hackerone.com/njbooher3) | 2019-05-23 |
 | 53 | [495793](../reports/495793.md) | Malformed .MDL triggers an Access Violation on GoldSRC (hl.e | High | — | 89 | [chippy](https://hackerone.com/chippy) | 2019-10-09 |
 | 54 | [1079561](../reports/1079561.md) | Big Picture web browser leaks login cookies and discloses se | High — CVSS 7.1 | — | 58 | [bugstar](https://hackerone.com/bugstar) | 2021-09-21 |
-| 55 | [832750](../reports/832750.md) | Buffer overflow In hl.exe's launch -game argument allows an  | High — CVSS 8.1 | — | 55 | [irukandjisecresearch](https://hackerone.com/irukandjisecresearch) | 2020-08-19 |
-| 56 | [1168557](../reports/1168557.md) | https://srcds.valve.net/find/ is leaking server config / API | High — CVSS 7.5 | — | 55 | [njbooher3](https://hackerone.com/njbooher3) | 2024-08-06 |
+| 55 | [1168557](../reports/1168557.md) | https://srcds.valve.net/find/ is leaking server config / API | High — CVSS 7.5 | — | 55 | [njbooher3](https://hackerone.com/njbooher3) | 2024-08-06 |
+| 56 | [832750](../reports/832750.md) | Buffer overflow In hl.exe's launch -game argument allows an  | High — CVSS 8.1 | — | 55 | [irukandjisecresearch](https://hackerone.com/irukandjisecresearch) | 2020-08-19 |
 | 57 | [1018368](../reports/1018368.md) | Add any depot to your app and access its contents without de | High — CVSS 8.5 | — | 54 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
 | 58 | [351016](../reports/351016.md) | Malformed Skybox .TGA in Half-Life (GoldSRC) leads to Access | High | — | 30 | [chippy](https://hackerone.com/chippy) | 2018-08-28 |
-| 59 | [288298](../reports/288298.md) | LFI in pChart php library | High — CVSS 8.6 | — | 29 | [ramsexy](https://hackerone.com/ramsexy) | 2018-05-09 |
-| 60 | [674800](../reports/674800.md) | /applications/dpc_(get|post) provide full access to api.stea | High — CVSS 8.2 | — | 29 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
+| 59 | [674800](../reports/674800.md) | /applications/dpc_(get|post) provide full access to api.stea | High — CVSS 8.2 | — | 29 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
+| 60 | [288298](../reports/288298.md) | LFI in pChart php library | High — CVSS 8.6 | — | 29 | [ramsexy](https://hackerone.com/ramsexy) | 2018-05-09 |
 | 61 | [815547](../reports/815547.md) | Unauthorized updates to extended_info properties in /store/a | High — CVSS 7.2 | — | 22 | [njbooher3](https://hackerone.com/njbooher3) | 2020-09-09 |
 | 62 | [458929](../reports/458929.md) | Malformed BSP in GoldSrc Engine may cause shellcode injectio | High | — | 21 | [kohtep2010](https://hackerone.com/kohtep2010) | 2020-03-25 |
 | 63 | [972243](../reports/972243.md) | Add apps to packages 0, 61, 62 with /store/ajaxpackagemerge | High | — | 12 | [njbooher3](https://hackerone.com/njbooher3) | 2020-09-09 |

@@ -12,8 +12,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 6 | [189633](../reports/189633.md) | Certain inputs cause tight C-level recursion leading to proc | High — CVSS 8.6 | $10,000 | 11 | [dkasak](https://hackerone.com/dkasak) | 2017-03-14 |
 | 7 | [182484](../reports/182484.md) | Broken handling of maximum number of method call arguments l | High — CVSS 8.6 | $10,000 | 10 | [dkasak](https://hackerone.com/dkasak) | 2016-12-21 |
 | 8 | [187536](../reports/187536.md) | Null pointer derefence due to bug in codegen with negation w | High | $10,000 | 9 | [haquaman](https://hackerone.com/haquaman) | 2016-12-17 |
-| 9 | [181685](../reports/181685.md) | Range#initialize_copy null pointer dereference | High | $10,000 | 9 | [h72](https://hackerone.com/h72) | 2016-12-17 |
-| 10 | [185775](../reports/185775.md) | Crash: Initialize Decimal with itself triggers an assertion | High | $10,000 | 9 | [brakhane](https://hackerone.com/brakhane) | 2016-12-16 |
+| 9 | [185775](../reports/185775.md) | Crash: Initialize Decimal with itself triggers an assertion | High | $10,000 | 9 | [brakhane](https://hackerone.com/brakhane) | 2016-12-16 |
+| 10 | [181685](../reports/181685.md) | Range#initialize_copy null pointer dereference | High | $10,000 | 9 | [h72](https://hackerone.com/h72) | 2016-12-17 |
 | 11 | [181910](../reports/181910.md) | Range constructor type confusion DoS | High | $10,000 | 7 | [h72](https://hackerone.com/h72) | 2016-12-17 |
 | 12 | [181828](../reports/181828.md) | Segfault in mruby, mruby_engine and the parent MRI Ruby due  | High — CVSS 8.6 | $10,000 | 4 | [dkasak](https://hackerone.com/dkasak) | 2016-12-16 |
 | 13 | [183405](../reports/183405.md) | Null target_class DoS | High | $8,000 | 14 | [h72](https://hackerone.com/h72) | 2016-12-17 |
@@ -30,45 +30,45 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 24 | [191689](../reports/191689.md) | Incorrect code generation when result of NODE_NEGATE is not  | Low | $1,000 | 8 | [dkasak](https://hackerone.com/dkasak) | 2017-01-12 |
 | 25 | [192896](../reports/192896.md) | Memory disclosure in timegm | Low | $1,000 | 7 | [volc](https://hackerone.com/volc) | 2017-01-31 |
 | 26 | [185899](../reports/185899.md) | Invalid memory write caused by incorrect upper bound in arra | Low | $1,000 | 6 | [haquaman](https://hackerone.com/haquaman) | 2016-12-18 |
-| 27 | [190133](../reports/190133.md) | Segfault when passing invalid values to `values_at` | Low | $1,000 | 5 | [dkasak](https://hackerone.com/dkasak) | 2016-12-17 |
-| 28 | [185387](../reports/185387.md) | Null pointer dereference regression in parse.y | Low | $1,000 | 5 | [haquaman](https://hackerone.com/haquaman) | 2016-12-17 |
+| 27 | [185387](../reports/185387.md) | Null pointer dereference regression in parse.y | Low | $1,000 | 5 | [haquaman](https://hackerone.com/haquaman) | 2016-12-17 |
+| 28 | [190133](../reports/190133.md) | Segfault when passing invalid values to `values_at` | Low | $1,000 | 5 | [dkasak](https://hackerone.com/dkasak) | 2016-12-17 |
 | 29 | [185957](../reports/185957.md) | Crash: A call to Symbol.new leads to a crash when inspecting | Low | $1,000 | 3 | [brakhane](https://hackerone.com/brakhane) | 2016-12-16 |
 | 30 | [204047](../reports/204047.md) | Segmentation fault while printing backtrace | Low | $1,000 | 2 | [dgaletic](https://hackerone.com/dgaletic) | 2017-03-14 |
 | 31 | [535827](../reports/535827.md) | Buffer overflow in yywarning_s | None | $1,000 | 33 | [dgaletic](https://hackerone.com/dgaletic) | 2019-09-04 |
 | 32 | [621308](../reports/621308.md) | NULL pointer dereference in `mrb_check_frozen` | None | $1,000 | 9 | [dgaletic](https://hackerone.com/dgaletic) | 2019-09-04 |
 | 33 | [184715](../reports/184715.md) | Read after free in mrb_vm_exec with OP_ARYCAT reading R(B) | None | $1,000 | 8 | [haquaman](https://hackerone.com/haquaman) | 2016-12-18 |
 | 34 | [633607](../reports/633607.md) | Invalid read in `str_replace_partial` | None | $1,000 | 7 | [dgaletic](https://hackerone.com/dgaletic) | 2019-09-04 |
-| 35 | [222294](../reports/222294.md) | heap-use-after-free in mrb_vm_exec - vm.c:1247 | Medium | $800 | 3 | [ilsani](https://hackerone.com/ilsani) | 2017-05-21 |
-| 36 | [217610](../reports/217610.md) | kh_put_iv SEGFAULT - mruby 1.2.0 | Medium | $800 | 3 | [ilsani](https://hackerone.com/ilsani) | 2017-04-13 |
+| 35 | [217610](../reports/217610.md) | kh_put_iv SEGFAULT - mruby 1.2.0 | Medium | $800 | 3 | [ilsani](https://hackerone.com/ilsani) | 2017-04-13 |
+| 36 | [222294](../reports/222294.md) | heap-use-after-free in mrb_vm_exec - vm.c:1247 | Medium | $800 | 3 | [ilsani](https://hackerone.com/ilsani) | 2017-05-21 |
 | 37 | [218567](../reports/218567.md) | SIGSEGV in array_copy - array.c:71 | Medium | $800 | 2 | [ilsani](https://hackerone.com/ilsani) | 2017-04-13 |
-| 38 | [214681](../reports/214681.md) | Null pointer dereference in ary_concat  | Low | $800 | 7 | [dgaletic](https://hackerone.com/dgaletic) | 2017-04-15 |
-| 39 | [213261](../reports/213261.md) | Use-after-free leading to an invalid pointer dereference | Low | $800 | 7 | [dgaletic](https://hackerone.com/dgaletic) | 2017-04-02 |
-| 40 | [295680](../reports/295680.md) | Invalid read leading to a segfault | Low | $800 | 5 | [dgaletic](https://hackerone.com/dgaletic) | 2017-12-28 |
-| 41 | [196819](../reports/196819.md) | Heap Buffer overflow in mrb_funcall_with_block | Low | $800 | 5 | [locator](https://hackerone.com/locator) | 2017-02-27 |
+| 38 | [213261](../reports/213261.md) | Use-after-free leading to an invalid pointer dereference | Low | $800 | 7 | [dgaletic](https://hackerone.com/dgaletic) | 2017-04-02 |
+| 39 | [214681](../reports/214681.md) | Null pointer dereference in ary_concat  | Low | $800 | 7 | [dgaletic](https://hackerone.com/dgaletic) | 2017-04-15 |
+| 40 | [196819](../reports/196819.md) | Heap Buffer overflow in mrb_funcall_with_block | Low | $800 | 5 | [locator](https://hackerone.com/locator) | 2017-02-27 |
+| 41 | [295680](../reports/295680.md) | Invalid read leading to a segfault | Low | $800 | 5 | [dgaletic](https://hackerone.com/dgaletic) | 2017-12-28 |
 | 42 | [192362](../reports/192362.md) | Heap Overflow in mrb_arb_splice | Low | $800 | 4 | [tunz](https://hackerone.com/tunz) | 2017-01-12 |
-| 43 | [215891](../reports/215891.md) | Null pointer dereference in mrb_class | Low | $800 | 3 | [dgaletic](https://hackerone.com/dgaletic) | 2017-04-15 |
+| 43 | [218233](../reports/218233.md) | Null pointer dereference in OP_ENTER | Low | $800 | 3 | [dgaletic](https://hackerone.com/dgaletic) | 2017-04-15 |
 | 44 | [218570](../reports/218570.md) | Invalid pointer dereference in OP_ENTER | Low | $800 | 3 | [dgaletic](https://hackerone.com/dgaletic) | 2017-04-15 |
-| 45 | [218233](../reports/218233.md) | Null pointer dereference in OP_ENTER | Low | $800 | 3 | [dgaletic](https://hackerone.com/dgaletic) | 2017-04-15 |
+| 45 | [215891](../reports/215891.md) | Null pointer dereference in mrb_class | Low | $800 | 3 | [dgaletic](https://hackerone.com/dgaletic) | 2017-04-15 |
 | 46 | [208526](../reports/208526.md) | Null pointer dereference in mark_context_stack | Low | $800 | 2 | [dgaletic](https://hackerone.com/dgaletic) | 2017-03-14 |
 | 47 | [212107](../reports/212107.md) | Null pointer dereference in mrb_class | Low | $800 | 2 | [dgaletic](https://hackerone.com/dgaletic) | 2017-03-14 |
 | 48 | [420115](../reports/420115.md) | Crash in mrb_ary_push | None | $800 | 37 | [dgaletic](https://hackerone.com/dgaletic) | 2019-09-04 |
 | 49 | [204421](../reports/204421.md) | Heap buffer oveflow with many arguments | None | $800 | 12 | [titanous](https://hackerone.com/titanous) | 2017-02-28 |
 | 50 | [216992](../reports/216992.md) | Heap Buffer Overflow in mrb_hash_keys | None | $800 | 8 | [locator](https://hackerone.com/locator) | 2017-05-03 |
 | 51 | [193143](../reports/193143.md) | Use After Free in str_replace | None | $800 | 7 | [tunz](https://hackerone.com/tunz) | 2017-01-31 |
-| 52 | [194906](../reports/194906.md) | Heap overflow due to off-by-one when expanding stack | None | $800 | 5 | [titanous](https://hackerone.com/titanous) | 2017-02-07 |
-| 53 | [210671](../reports/210671.md) | Null pointer dereferences from mrb_vm_exec | None | $800 | 5 | [locator](https://hackerone.com/locator) | 2017-04-16 |
-| 54 | [214171](../reports/214171.md) | Null pointer dereferences in ary_concat | None | $800 | 5 | [locator](https://hackerone.com/locator) | 2017-05-04 |
-| 55 | [216351](../reports/216351.md) | Null pointer dereferences in mrb_get_args | None | $800 | 4 | [locator](https://hackerone.com/locator) | 2017-05-03 |
-| 56 | [206239](../reports/206239.md) | Heap Buffer Overflow while processing OP_SEND | None | $800 | 4 | [locator](https://hackerone.com/locator) | 2017-04-03 |
-| 57 | [221712](../reports/221712.md) | Null pointer dereferences in kh_copy_mt | None | $800 | 3 | [locator](https://hackerone.com/locator) | 2017-05-07 |
-| 58 | [210246](../reports/210246.md) | Invalid Pointer Reference from OP_RESCUE | None | $800 | 3 | [locator](https://hackerone.com/locator) | 2017-04-03 |
-| 59 | [205521](../reports/205521.md) | Heap Buffer overflow in mrb_ary_unshift | None | $800 | 3 | [locator](https://hackerone.com/locator) | 2017-02-28 |
-| 60 | [197719](../reports/197719.md) | Still heap overflow in mrb_ary_splice | None | $800 | 3 | [tunz](https://hackerone.com/tunz) | 2017-02-07 |
-| 61 | [211021](../reports/211021.md) | Null pointer dereference in 'get_file' | None | $800 | 3 | [locator](https://hackerone.com/locator) | 2017-04-03 |
-| 62 | [205536](../reports/205536.md) | Use After Free in mrb_vm_exec | None | $800 | 3 | [locator](https://hackerone.com/locator) | 2017-02-28 |
-| 63 | [193081](../reports/193081.md) | Null pointer dereference in mrb_str_prepend | None | $800 | 3 | [tunz](https://hackerone.com/tunz) | 2017-02-07 |
-| 64 | [242354](../reports/242354.md) | Null pointer dereference with send/method_missing | None | $800 | 2 | [titanous](https://hackerone.com/titanous) | 2017-06-23 |
-| 65 | [209449](../reports/209449.md) | Heap buffer overflow with long array assignment | None | $800 | 2 | [titanous](https://hackerone.com/titanous) | 2017-03-14 |
+| 52 | [214171](../reports/214171.md) | Null pointer dereferences in ary_concat | None | $800 | 5 | [locator](https://hackerone.com/locator) | 2017-05-04 |
+| 53 | [194906](../reports/194906.md) | Heap overflow due to off-by-one when expanding stack | None | $800 | 5 | [titanous](https://hackerone.com/titanous) | 2017-02-07 |
+| 54 | [210671](../reports/210671.md) | Null pointer dereferences from mrb_vm_exec | None | $800 | 5 | [locator](https://hackerone.com/locator) | 2017-04-16 |
+| 55 | [206239](../reports/206239.md) | Heap Buffer Overflow while processing OP_SEND | None | $800 | 4 | [locator](https://hackerone.com/locator) | 2017-04-03 |
+| 56 | [216351](../reports/216351.md) | Null pointer dereferences in mrb_get_args | None | $800 | 4 | [locator](https://hackerone.com/locator) | 2017-05-03 |
+| 57 | [197719](../reports/197719.md) | Still heap overflow in mrb_ary_splice | None | $800 | 3 | [tunz](https://hackerone.com/tunz) | 2017-02-07 |
+| 58 | [205536](../reports/205536.md) | Use After Free in mrb_vm_exec | None | $800 | 3 | [locator](https://hackerone.com/locator) | 2017-02-28 |
+| 59 | [221712](../reports/221712.md) | Null pointer dereferences in kh_copy_mt | None | $800 | 3 | [locator](https://hackerone.com/locator) | 2017-05-07 |
+| 60 | [205521](../reports/205521.md) | Heap Buffer overflow in mrb_ary_unshift | None | $800 | 3 | [locator](https://hackerone.com/locator) | 2017-02-28 |
+| 61 | [210246](../reports/210246.md) | Invalid Pointer Reference from OP_RESCUE | None | $800 | 3 | [locator](https://hackerone.com/locator) | 2017-04-03 |
+| 62 | [193081](../reports/193081.md) | Null pointer dereference in mrb_str_prepend | None | $800 | 3 | [tunz](https://hackerone.com/tunz) | 2017-02-07 |
+| 63 | [211021](../reports/211021.md) | Null pointer dereference in 'get_file' | None | $800 | 3 | [locator](https://hackerone.com/locator) | 2017-04-03 |
+| 64 | [209449](../reports/209449.md) | Heap buffer overflow with long array assignment | None | $800 | 2 | [titanous](https://hackerone.com/titanous) | 2017-03-14 |
+| 65 | [242354](../reports/242354.md) | Null pointer dereference with send/method_missing | None | $800 | 2 | [titanous](https://hackerone.com/titanous) | 2017-06-23 |
 | 66 | [244904](../reports/244904.md) | Use after free in mruby-mpdecimal | None | $800 | 1 | [haquaman](https://hackerone.com/haquaman) | 2017-07-06 |
 | 67 | [215854](../reports/215854.md) | Garbage collector crash | Low | $300 | 2 | [dgaletic](https://hackerone.com/dgaletic) | 2017-04-15 |
 | 68 | [194884](../reports/194884.md) | Heap use-after-free during range creation | Low | $200 | 5 | [titanous](https://hackerone.com/titanous) | 2017-02-07 |
@@ -82,9 +82,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 76 | [191328](../reports/191328.md) | Invalid memory access in `mrb_str_format` | None | $100 | 4 | [haquaman](https://hackerone.com/haquaman) | 2017-01-11 |
 | 77 | [197916](../reports/197916.md) | Crash in print_backtrace | None | $100 | 3 | [tunz](https://hackerone.com/tunz) | 2017-02-07 |
 | 78 | [192235](../reports/192235.md) | Integer Overflow in mrb_ary_set | None | $100 | 3 | [tunz](https://hackerone.com/tunz) | 2017-01-12 |
-| 79 | [219293](../reports/219293.md) | Invalid Pointer reference in L_RESCUE | None | $100 | 2 | [locator](https://hackerone.com/locator) | 2017-06-01 |
-| 80 | [200821](../reports/200821.md) |  heap-use-after-free /home/operac/testafl/mruby/mrubylast/mr | None | $100 | 2 | [fms](https://hackerone.com/fms) | 2017-02-07 |
-| 81 | [222171](../reports/222171.md) | heap use after free in fiber_switch | None | $100 | 2 | [locator](https://hackerone.com/locator) | 2017-05-07 |
+| 79 | [200821](../reports/200821.md) |  heap-use-after-free /home/operac/testafl/mruby/mrubylast/mr | None | $100 | 2 | [fms](https://hackerone.com/fms) | 2017-02-07 |
+| 80 | [222171](../reports/222171.md) | heap use after free in fiber_switch | None | $100 | 2 | [locator](https://hackerone.com/locator) | 2017-05-07 |
+| 81 | [219293](../reports/219293.md) | Invalid Pointer reference in L_RESCUE | None | $100 | 2 | [locator](https://hackerone.com/locator) | 2017-06-01 |
 | 82 | [181871](../reports/181871.md) | DoS: type confusion in mrb_no_method_error | Critical | — | 60 | [raydot](https://hackerone.com/raydot) | 2017-03-01 |
 | 83 | [185041](../reports/185041.md) | Type confusion in mrb_exc_set leading to memory corruption | Critical | — | 40 | [raydot](https://hackerone.com/raydot) | 2016-12-16 |
 | 84 | [185051](../reports/185051.md) | Type confusion in wrap_decimal leading to memory corruption | Critical | — | 35 | [raydot](https://hackerone.com/raydot) | 2017-01-15 |
@@ -93,75 +93,75 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 87 | [226200](../reports/226200.md) | OP_SCALL in LHS of a OP_ASGN resulting in arbitrary memory w | Critical | — | 3 | [avisaven](https://hackerone.com/avisaven) | 2017-05-30 |
 | 88 | [182274](../reports/182274.md) | Null pointer dereference due to TOCTTOU bug in mrb_time_init | High | — | 15 | [raydot](https://hackerone.com/raydot) | 2017-01-15 |
 | 89 | [180977](../reports/180977.md) | Exception cause SIGABRT | High — CVSS 7.5 | — | 13 | [isra17](https://hackerone.com/isra17) | 2016-12-16 |
-| 90 | [181677](../reports/181677.md) | NULL pointer dereference when parsing ternary operators | High | — | 10 | [jpenalbae](https://hackerone.com/jpenalbae) | 2016-12-17 |
-| 91 | [181319](../reports/181319.md) | Memory disclosure in mruby String#lines method | High | — | 10 | [isra17](https://hackerone.com/isra17) | 2016-12-16 |
+| 90 | [181319](../reports/181319.md) | Memory disclosure in mruby String#lines method | High | — | 10 | [isra17](https://hackerone.com/isra17) | 2016-12-16 |
+| 91 | [181677](../reports/181677.md) | NULL pointer dereference when parsing ternary operators | High | — | 10 | [jpenalbae](https://hackerone.com/jpenalbae) | 2016-12-17 |
 | 92 | [181874](../reports/181874.md) | SIGSEGV when invalid argument on remove_method | High | — | 9 | [jpenalbae](https://hackerone.com/jpenalbae) | 2016-12-17 |
 | 93 | [193517](../reports/193517.md) | attempting double-free using the mruby compiler `mrbc` | High | — | 6 | [geeknik](https://hackerone.com/geeknik) | 2017-02-07 |
-| 94 | [182027](../reports/182027.md) | SIGSEV on mrb_ary_splice | High | — | 5 | [jpenalbae](https://hackerone.com/jpenalbae) | 2016-12-17 |
-| 95 | [183231](../reports/183231.md) | SIGSEGV on mruby mrb_str_modify() (Invalid memory access) | High | — | 5 | [jpenalbae](https://hackerone.com/jpenalbae) | 2016-12-17 |
+| 94 | [183231](../reports/183231.md) | SIGSEGV on mruby mrb_str_modify() (Invalid memory access) | High | — | 5 | [jpenalbae](https://hackerone.com/jpenalbae) | 2016-12-17 |
+| 95 | [182027](../reports/182027.md) | SIGSEV on mrb_ary_splice | High | — | 5 | [jpenalbae](https://hackerone.com/jpenalbae) | 2016-12-17 |
 | 96 | [183239](../reports/183239.md) | SIGSEGV on mruby's mark_tbl() (Invalid memory access) | High | — | 5 | [jpenalbae](https://hackerone.com/jpenalbae) | 2016-12-17 |
 | 97 | [219870](../reports/219870.md) | mirb only: stack-buffer-overflow (OOB write) in main() | High | — | 3 | [geeknik](https://hackerone.com/geeknik) | 2017-05-09 |
 | 98 | [221251](../reports/221251.md) | heap-buffer-overflow (read outside of buffer) in mrb_vm_exec | High | — | 3 | [geeknik](https://hackerone.com/geeknik) | 2017-05-09 |
-| 99 | [195842](../reports/195842.md) | Segmentation fault - mrb_gc_mark | High | — | 3 | [alanbugz](https://hackerone.com/alanbugz) | 2017-03-09 |
-| 100 | [227762](../reports/227762.md) | Heap Overflow in fiber_switch triggered from Fiber.transfer | High | — | 3 | [avisaven](https://hackerone.com/avisaven) | 2017-05-30 |
+| 99 | [227762](../reports/227762.md) | Heap Overflow in fiber_switch triggered from Fiber.transfer | High | — | 3 | [avisaven](https://hackerone.com/avisaven) | 2017-05-30 |
+| 100 | [195842](../reports/195842.md) | Segmentation fault - mrb_gc_mark | High | — | 3 | [alanbugz](https://hackerone.com/alanbugz) | 2017-03-09 |
 | 101 | [213779](../reports/213779.md) | SIGSEGV - mrb_obj_value | Medium | — | 6 | [icanthack](https://hackerone.com/icanthack) | 2017-04-19 |
 | 102 | [210429](../reports/210429.md) | mrb_vm_exec - null ptr dereference | Medium | — | 5 | [icanthack](https://hackerone.com/icanthack) | 2017-04-13 |
 | 103 | [212074](../reports/212074.md) | SIGSEGV - mrb_yield_with_class | Medium | — | 4 | [icanthack](https://hackerone.com/icanthack) | 2017-04-13 |
-| 104 | [207321](../reports/207321.md) | Controlled address leak due to type confusion - ASLR bypass | Medium | — | 3 | [aerodudrizzt](https://hackerone.com/aerodudrizzt) | 2017-03-14 |
-| 105 | [202582](../reports/202582.md) | Denial of service (segfault) due to null pointer dereference | Medium | — | 3 | [d4nny](https://hackerone.com/d4nny) | 2017-02-28 |
-| 106 | [204628](../reports/204628.md) | segafult in mruby's sprintf - mrb_str_format | Medium | — | 3 | [aerodudrizzt](https://hackerone.com/aerodudrizzt) | 2017-02-28 |
-| 107 | [209765](../reports/209765.md) | Heap buffer overflow in mruby value_move | Medium | — | 2 | [sukhoi](https://hackerone.com/sukhoi) | 2017-04-13 |
-| 108 | [202584](../reports/202584.md) | Denial of service (segfault) due to null pointer dereference | Medium | — | 2 | [d4nny](https://hackerone.com/d4nny) | 2017-02-28 |
+| 104 | [202582](../reports/202582.md) | Denial of service (segfault) due to null pointer dereference | Medium | — | 3 | [d4nny](https://hackerone.com/d4nny) | 2017-02-28 |
+| 105 | [204628](../reports/204628.md) | segafult in mruby's sprintf - mrb_str_format | Medium | — | 3 | [aerodudrizzt](https://hackerone.com/aerodudrizzt) | 2017-02-28 |
+| 106 | [207321](../reports/207321.md) | Controlled address leak due to type confusion - ASLR bypass | Medium | — | 3 | [aerodudrizzt](https://hackerone.com/aerodudrizzt) | 2017-03-14 |
+| 107 | [202584](../reports/202584.md) | Denial of service (segfault) due to null pointer dereference | Medium | — | 2 | [d4nny](https://hackerone.com/d4nny) | 2017-02-28 |
+| 108 | [209765](../reports/209765.md) | Heap buffer overflow in mruby value_move | Medium | — | 2 | [sukhoi](https://hackerone.com/sukhoi) | 2017-04-13 |
 | 109 | [193773](../reports/193773.md) | SIGABRT - mrb_default_allocf  | Low | — | 13 | [icanthack](https://hackerone.com/icanthack) | 2017-02-05 |
 | 110 | [196498](../reports/196498.md) | Segmentation fault on program counter | Low | — | 10 | [icanthack](https://hackerone.com/icanthack) | 2017-02-05 |
 | 111 | [192578](../reports/192578.md) | kh_get_n2s() stack overrun | Low | — | 8 | [mg36](https://hackerone.com/mg36) | 2017-03-09 |
-| 112 | [192734](../reports/192734.md) | SIGSEGV Null Pointer mrb_str_concat() | Low | — | 5 | [ston3](https://hackerone.com/ston3) | 2017-02-10 |
-| 113 | [196386](../reports/196386.md) | SIGSEGV - mrb_vm_exec - vm.c in line:1272 | Low | — | 5 | [ston3](https://hackerone.com/ston3) | 2017-03-09 |
-| 114 | [193724](../reports/193724.md) | SIGSEGV - kh_resize_iv - Null Deref | Low | — | 4 | [ston3](https://hackerone.com/ston3) | 2017-03-09 |
-| 115 | [197723](../reports/197723.md) | Null pointer dereference in mrb_str_modify | Low | — | 4 | [marotagem_vrt](https://hackerone.com/marotagem_vrt) | 2017-02-07 |
-| 116 | [191994](../reports/191994.md) | SIGSEGV mrb_obj_freeze() Manipulating Register RAX and RSI | Low | — | 4 | [ston3](https://hackerone.com/ston3) | 2017-02-10 |
-| 117 | [191938](../reports/191938.md) | SIGSEGV on mruby mrb_get_args()  | Low | — | 4 | [ston3](https://hackerone.com/ston3) | 2017-02-10 |
-| 118 | [193075](../reports/193075.md) | SIGSEGV - mrb_check_intern_str() - NullPointer | Low | — | 3 | [ston3](https://hackerone.com/ston3) | 2017-03-01 |
-| 119 | [212456](../reports/212456.md) | SIGSEGV - kh_get_n2s - in /src/symbol.c:37 | Low | — | 3 | [mia_](https://hackerone.com/mia_) | 2017-04-27 |
-| 120 | [192485](../reports/192485.md) | SIGSEGV on mrb_vm_exec() Null Deref | Low | — | 3 | [ston3](https://hackerone.com/ston3) | 2017-03-01 |
+| 112 | [196386](../reports/196386.md) | SIGSEGV - mrb_vm_exec - vm.c in line:1272 | Low | — | 5 | [ston3](https://hackerone.com/ston3) | 2017-03-09 |
+| 113 | [192734](../reports/192734.md) | SIGSEGV Null Pointer mrb_str_concat() | Low | — | 5 | [ston3](https://hackerone.com/ston3) | 2017-02-10 |
+| 114 | [191994](../reports/191994.md) | SIGSEGV mrb_obj_freeze() Manipulating Register RAX and RSI | Low | — | 4 | [ston3](https://hackerone.com/ston3) | 2017-02-10 |
+| 115 | [191938](../reports/191938.md) | SIGSEGV on mruby mrb_get_args()  | Low | — | 4 | [ston3](https://hackerone.com/ston3) | 2017-02-10 |
+| 116 | [193724](../reports/193724.md) | SIGSEGV - kh_resize_iv - Null Deref | Low | — | 4 | [ston3](https://hackerone.com/ston3) | 2017-03-09 |
+| 117 | [197723](../reports/197723.md) | Null pointer dereference in mrb_str_modify | Low | — | 4 | [marotagem_vrt](https://hackerone.com/marotagem_vrt) | 2017-02-07 |
+| 118 | [192485](../reports/192485.md) | SIGSEGV on mrb_vm_exec() Null Deref | Low | — | 3 | [ston3](https://hackerone.com/ston3) | 2017-03-01 |
+| 119 | [193075](../reports/193075.md) | SIGSEGV - mrb_check_intern_str() - NullPointer | Low | — | 3 | [ston3](https://hackerone.com/ston3) | 2017-03-01 |
+| 120 | [212456](../reports/212456.md) | SIGSEGV - kh_get_n2s - in /src/symbol.c:37 | Low | — | 3 | [mia_](https://hackerone.com/mia_) | 2017-04-27 |
 | 121 | [194866](../reports/194866.md) | Deleting Key-value pair from Frozen HASH or Clearing a Froze | None | — | 12 | [an0n-j](https://hackerone.com/an0n-j) | 2017-01-05 |
 | 122 | [196416](../reports/196416.md) | Clearing , Shifting and Pop Value from Frozen Array   | None | — | 12 | [an0n-j](https://hackerone.com/an0n-j) | 2017-08-30 |
 | 123 | [197694](../reports/197694.md) | SIGSEGV - mrb_obj_extend - line:413 | None | — | 8 | [ston3](https://hackerone.com/ston3) | 2017-03-09 |
-| 124 | [214000](../reports/214000.md) | SIGABRT - mirb and mruby | None | — | 7 | [ston3](https://hackerone.com/ston3) | 2017-05-13 |
-| 125 | [209937](../reports/209937.md) | SIGSEGV - mark_context_stack | None | — | 7 | [ston3](https://hackerone.com/ston3) | 2017-05-13 |
-| 126 | [295380](../reports/295380.md) | heap-buffer-overflow in OP_R_BREAK | None | — | 6 | [ahihi](https://hackerone.com/ahihi) | 2018-01-17 |
-| 127 | [193077](../reports/193077.md) | mrb_str_modify try to write to memory not marked for writing | None | — | 6 | [marotagem_vrt](https://hackerone.com/marotagem_vrt) | 2017-02-06 |
-| 128 | [214845](../reports/214845.md) | SIGSEGV in mrb_vm_exec | None | — | 6 | [ston3](https://hackerone.com/ston3) | 2017-05-13 |
-| 129 | [197693](../reports/197693.md) | SIGSEGV - mrb_vm_exec - line:1681 | None | — | 6 | [ston3](https://hackerone.com/ston3) | 2017-03-09 |
-| 130 | [216725](../reports/216725.md) | SIGABRT - in free | None | — | 6 | [ston3](https://hackerone.com/ston3) | 2017-05-13 |
-| 131 | [215967](../reports/215967.md) | SIGABRT in mrb_debug_info_append_file | None | — | 6 | [ston3](https://hackerone.com/ston3) | 2017-05-13 |
-| 132 | [213255](../reports/213255.md) | SIGSEGV in str_buf_cat | None | — | 5 | [ston3](https://hackerone.com/ston3) | 2017-04-27 |
-| 133 | [214576](../reports/214576.md) | SIGABRT - mirb - Double Free | None | — | 5 | [ston3](https://hackerone.com/ston3) | 2017-05-13 |
-| 134 | [205284](../reports/205284.md) | SIGABRT - method_missing - mark_context_stack | None | — | 5 | [ston3](https://hackerone.com/ston3) | 2017-03-29 |
-| 135 | [296198](../reports/296198.md) | SEGV on ary_concat | None | — | 5 | [ahihi](https://hackerone.com/ahihi) | 2018-01-17 |
+| 124 | [209937](../reports/209937.md) | SIGSEGV - mark_context_stack | None | — | 7 | [ston3](https://hackerone.com/ston3) | 2017-05-13 |
+| 125 | [214000](../reports/214000.md) | SIGABRT - mirb and mruby | None | — | 7 | [ston3](https://hackerone.com/ston3) | 2017-05-13 |
+| 126 | [215967](../reports/215967.md) | SIGABRT in mrb_debug_info_append_file | None | — | 6 | [ston3](https://hackerone.com/ston3) | 2017-05-13 |
+| 127 | [216725](../reports/216725.md) | SIGABRT - in free | None | — | 6 | [ston3](https://hackerone.com/ston3) | 2017-05-13 |
+| 128 | [295380](../reports/295380.md) | heap-buffer-overflow in OP_R_BREAK | None | — | 6 | [ahihi](https://hackerone.com/ahihi) | 2018-01-17 |
+| 129 | [193077](../reports/193077.md) | mrb_str_modify try to write to memory not marked for writing | None | — | 6 | [marotagem_vrt](https://hackerone.com/marotagem_vrt) | 2017-02-06 |
+| 130 | [214845](../reports/214845.md) | SIGSEGV in mrb_vm_exec | None | — | 6 | [ston3](https://hackerone.com/ston3) | 2017-05-13 |
+| 131 | [197693](../reports/197693.md) | SIGSEGV - mrb_vm_exec - line:1681 | None | — | 6 | [ston3](https://hackerone.com/ston3) | 2017-03-09 |
+| 132 | [214576](../reports/214576.md) | SIGABRT - mirb - Double Free | None | — | 5 | [ston3](https://hackerone.com/ston3) | 2017-05-13 |
+| 133 | [205284](../reports/205284.md) | SIGABRT - method_missing - mark_context_stack | None | — | 5 | [ston3](https://hackerone.com/ston3) | 2017-03-29 |
+| 134 | [213255](../reports/213255.md) | SIGSEGV in str_buf_cat | None | — | 5 | [ston3](https://hackerone.com/ston3) | 2017-04-27 |
+| 135 | [201905](../reports/201905.md) | SIGSEGV - vm.c - line:1214 | None | — | 5 | [ston3](https://hackerone.com/ston3) | 2017-03-29 |
 | 136 | [215447](../reports/215447.md) | SIGSEGV in mrb_class | None | — | 5 | [ston3](https://hackerone.com/ston3) | 2017-05-13 |
-| 137 | [201905](../reports/201905.md) | SIGSEGV - vm.c - line:1214 | None | — | 5 | [ston3](https://hackerone.com/ston3) | 2017-03-29 |
-| 138 | [204774](../reports/204774.md) | A crash when an exception is caught in a caller and the rece | None | — | 4 | [ahmadsherif](https://hackerone.com/ahmadsherif) | 2017-02-28 |
-| 139 | [295276](../reports/295276.md) | heap-use-after-free in OP_RESCUE | None | — | 4 | [ahihi](https://hackerone.com/ahihi) | 2018-01-17 |
-| 140 | [196380](../reports/196380.md) | SIGSEGV in mrb_vm_exec | None | — | 4 | [ston3](https://hackerone.com/ston3) | 2017-03-01 |
-| 141 | [192318](../reports/192318.md) | mrb_vformat() heap overflow could lead to code execution | None | — | 4 | [mg36](https://hackerone.com/mg36) | 2017-02-10 |
-| 142 | [199764](../reports/199764.md) | Aborted - proc.c - line:143 | None | — | 4 | [ston3](https://hackerone.com/ston3) | 2017-03-09 |
-| 143 | [217083](../reports/217083.md) | SIGSEGV in mrb_str_inum | None | — | 4 | [ston3](https://hackerone.com/ston3) | 2017-05-13 |
-| 144 | [198452](../reports/198452.md) | SIGABRT - mrb_realloc_simple - gc.c - line:201 | None | — | 4 | [ston3](https://hackerone.com/ston3) | 2017-03-29 |
-| 145 | [192665](../reports/192665.md) | heap-buffer-overflow on mruby | None | — | 4 | [ahihi](https://hackerone.com/ahihi) | 2017-02-10 |
-| 146 | [203513](../reports/203513.md) | SIGSEGV - mrb_vm_exec - line:1312 | None | — | 4 | [ston3](https://hackerone.com/ston3) | 2017-03-29 |
-| 147 | [216700](../reports/216700.md) | heap use-after-free in mrb_vm_exec() | None | — | 4 | [mg36](https://hackerone.com/mg36) | 2017-05-13 |
-| 148 | [297383](../reports/297383.md) | mruby heredoc notation | None | — | 4 | [j0s3](https://hackerone.com/j0s3) | 2018-01-10 |
-| 149 | [217097](../reports/217097.md) | SIGSEGV in mrb_vm_exec | None | — | 4 | [ston3](https://hackerone.com/ston3) | 2017-05-13 |
-| 150 | [212882](../reports/212882.md) | SIGABRT in only mirb | None | — | 4 | [ston3](https://hackerone.com/ston3) | 2017-04-27 |
-| 151 | [216615](../reports/216615.md) | Crash in ary_concat()  | None | — | 3 | [mg36](https://hackerone.com/mg36) | 2017-05-13 |
-| 152 | [212239](../reports/212239.md) | sprintf gem - format string combined attack | None | — | 3 | [aerodudrizzt](https://hackerone.com/aerodudrizzt) | 2017-03-14 |
-| 153 | [192532](../reports/192532.md) | SIGABRT, SIGSEGV mspace_free() and mrb_default_allocf() | None | — | 3 | [ston3](https://hackerone.com/ston3) | 2017-03-01 |
-| 154 | [206109](../reports/206109.md) | mruby heap use-after-free  | None | — | 3 | [mg36](https://hackerone.com/mg36) | 2017-04-27 |
+| 137 | [296198](../reports/296198.md) | SEGV on ary_concat | None | — | 5 | [ahihi](https://hackerone.com/ahihi) | 2018-01-17 |
+| 138 | [217097](../reports/217097.md) | SIGSEGV in mrb_vm_exec | None | — | 4 | [ston3](https://hackerone.com/ston3) | 2017-05-13 |
+| 139 | [198452](../reports/198452.md) | SIGABRT - mrb_realloc_simple - gc.c - line:201 | None | — | 4 | [ston3](https://hackerone.com/ston3) | 2017-03-29 |
+| 140 | [216700](../reports/216700.md) | heap use-after-free in mrb_vm_exec() | None | — | 4 | [mg36](https://hackerone.com/mg36) | 2017-05-13 |
+| 141 | [192665](../reports/192665.md) | heap-buffer-overflow on mruby | None | — | 4 | [ahihi](https://hackerone.com/ahihi) | 2017-02-10 |
+| 142 | [217083](../reports/217083.md) | SIGSEGV in mrb_str_inum | None | — | 4 | [ston3](https://hackerone.com/ston3) | 2017-05-13 |
+| 143 | [196380](../reports/196380.md) | SIGSEGV in mrb_vm_exec | None | — | 4 | [ston3](https://hackerone.com/ston3) | 2017-03-01 |
+| 144 | [297383](../reports/297383.md) | mruby heredoc notation | None | — | 4 | [j0s3](https://hackerone.com/j0s3) | 2018-01-10 |
+| 145 | [192318](../reports/192318.md) | mrb_vformat() heap overflow could lead to code execution | None | — | 4 | [mg36](https://hackerone.com/mg36) | 2017-02-10 |
+| 146 | [204774](../reports/204774.md) | A crash when an exception is caught in a caller and the rece | None | — | 4 | [ahmadsherif](https://hackerone.com/ahmadsherif) | 2017-02-28 |
+| 147 | [203513](../reports/203513.md) | SIGSEGV - mrb_vm_exec - line:1312 | None | — | 4 | [ston3](https://hackerone.com/ston3) | 2017-03-29 |
+| 148 | [212882](../reports/212882.md) | SIGABRT in only mirb | None | — | 4 | [ston3](https://hackerone.com/ston3) | 2017-04-27 |
+| 149 | [295276](../reports/295276.md) | heap-use-after-free in OP_RESCUE | None | — | 4 | [ahihi](https://hackerone.com/ahihi) | 2018-01-17 |
+| 150 | [199764](../reports/199764.md) | Aborted - proc.c - line:143 | None | — | 4 | [ston3](https://hackerone.com/ston3) | 2017-03-09 |
+| 151 | [206109](../reports/206109.md) | mruby heap use-after-free  | None | — | 3 | [mg36](https://hackerone.com/mg36) | 2017-04-27 |
+| 152 | [192532](../reports/192532.md) | SIGABRT, SIGSEGV mspace_free() and mrb_default_allocf() | None | — | 3 | [ston3](https://hackerone.com/ston3) | 2017-03-01 |
+| 153 | [216615](../reports/216615.md) | Crash in ary_concat()  | None | — | 3 | [mg36](https://hackerone.com/mg36) | 2017-05-13 |
+| 154 | [212239](../reports/212239.md) | sprintf gem - format string combined attack | None | — | 3 | [aerodudrizzt](https://hackerone.com/aerodudrizzt) | 2017-03-14 |
 | 155 | [203595](../reports/203595.md) | forgot to add the patch | None | — | 3 | [soreks](https://hackerone.com/soreks) | 2017-03-29 |
 | 156 | [183667](../reports/183667.md) | Null pointer dereference in ary_concat | None | — | 3 | [haquaman](https://hackerone.com/haquaman) | 2016-12-17 |
-| 157 | [185705](../reports/185705.md) | Null pointer dereference in mrb_str_concat | None | — | 2 | [haquaman](https://hackerone.com/haquaman) | 2016-12-17 |
-| 158 | [207710](../reports/207710.md) | Heap use-after-free in mrb_vm_exec  | None | — | 2 | [mg36](https://hackerone.com/mg36) | 2017-04-13 |
-| 159 | [187539](../reports/187539.md) | Null pointer dereference due to bug in codegen with negation | None | — | 2 | [haquaman](https://hackerone.com/haquaman) | 2016-12-17 |
+| 157 | [189704](../reports/189704.md) | Segmentation fault due to invalid memory access in codegen w | None | — | 2 | [haquaman](https://hackerone.com/haquaman) | 2016-12-17 |
+| 158 | [185705](../reports/185705.md) | Null pointer dereference in mrb_str_concat | None | — | 2 | [haquaman](https://hackerone.com/haquaman) | 2016-12-17 |
+| 159 | [207710](../reports/207710.md) | Heap use-after-free in mrb_vm_exec  | None | — | 2 | [mg36](https://hackerone.com/mg36) | 2017-04-13 |
 | 160 | [183696](../reports/183696.md) | Invalid memory access while freeing memory, caused by invali | None | — | 2 | [haquaman](https://hackerone.com/haquaman) | 2016-12-17 |
-| 161 | [189704](../reports/189704.md) | Segmentation fault due to invalid memory access in codegen w | None | — | 2 | [haquaman](https://hackerone.com/haquaman) | 2016-12-17 |
+| 161 | [187539](../reports/187539.md) | Null pointer dereference due to bug in codegen with negation | None | — | 2 | [haquaman](https://hackerone.com/haquaman) | 2016-12-17 |

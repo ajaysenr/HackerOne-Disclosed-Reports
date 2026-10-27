@@ -45,8 +45,8 @@
 | 39 | [1667998](../reports/1667998.md) | 1 click Account takeover via deeplink in [com.kayak.and | [KAYAK](../by-program/kayak.md) | com.kayak.android | Critical — CVSS 9.3 | — | 163 |
 | 40 | [766578](../reports/766578.md) | Absence of Token expiry leads to Unauthorized login Acc | [Affirm](../by-program/affirm.md) | com.affirm.central.audit | Critical | — | 152 |
 | 41 | [3228011](../reports/3228011.md) | Critical Information Disclosure via /talos/api/v1/files | [Bykea](../by-program/bykea.md) | com.bykea.pk | Critical — CVSS 9.8 | — | 95 |
-| 42 | [499348](../reports/499348.md) | Twitter lite(Android): Vulnerable to local file steal,  | [X / xAI](../by-program/x.md) | com.twitter.android | Critical | — | 93 |
-| 43 | [2212950](../reports/2212950.md) | Stored XSS on LinkedIn App via iframe tag in Article | [LinkedIn](../by-program/linkedin.md) | com.linkedin.android | Critical — CVSS 9.3 | — | 93 |
+| 42 | [2212950](../reports/2212950.md) | Stored XSS on LinkedIn App via iframe tag in Article | [LinkedIn](../by-program/linkedin.md) | com.linkedin.android | Critical — CVSS 9.3 | — | 93 |
+| 43 | [499348](../reports/499348.md) | Twitter lite(Android): Vulnerable to local file steal,  | [X / xAI](../by-program/x.md) | com.twitter.android | Critical | — | 93 |
 | 44 | [1242212](../reports/1242212.md) | PIN bypass | [MyEtherWallet](../by-program/myetherwallet.md) | mewwallet.android | Critical | — | 34 |
 | 45 | [1632186](../reports/1632186.md) | Can use the Reddit android app as usual even though rev | [Reddit](../by-program/reddit.md) | com.reddit.frontpage | Critical | — | 19 |
 | 46 | [789370](../reports/789370.md) | [com.smule.autorap.*] Cloud Messaging/Push Notification | [Smule](../by-program/smule.md) | com.smule.autorap.* | Critical | — | 10 |
@@ -119,9 +119,9 @@
 | 113 | [1095633](../reports/1095633.md) | [VK Android] Access to app protected components leads t | [VK.com](../by-program/vkcom.md) | com.vkontakte.android | None | — | 43 |
 | 114 | [3399016](../reports/3399016.md) | Improper input validation On Exported deep-link handler | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | None | — | 28 |
 | 115 | [54631](../reports/54631.md) | Vulnerable to JavaScript injection. (WXS)  (Javascript  | [Snapchat](../by-program/snapchat.md) | com.snapchat.android | None | — | 13 |
-| 116 | [731724](../reports/731724.md) | Firebase Firestore insecure database | [MobiSystems Ltd.](../by-program/mobisystems_ltd.md) | com.mobisystems.msdict.embedded.wireless | None | — | 11 |
-| 117 | [803941](../reports/803941.md) | NordVPN Android Application privacy violation due to Go | [Nord Security](../by-program/nordsecurity.md) | com.nordvpn.android | None | — | 11 |
-| 118 | [792850](../reports/792850.md) | Hard-coded API keys at NordVpn Android App | [Nord Security](../by-program/nordsecurity.md) | com.nordvpn.android | None | — | 11 |
+| 116 | [803941](../reports/803941.md) | NordVPN Android Application privacy violation due to Go | [Nord Security](../by-program/nordsecurity.md) | com.nordvpn.android | None | — | 11 |
+| 117 | [792850](../reports/792850.md) | Hard-coded API keys at NordVpn Android App | [Nord Security](../by-program/nordsecurity.md) | com.nordvpn.android | None | — | 11 |
+| 118 | [731724](../reports/731724.md) | Firebase Firestore insecure database | [MobiSystems Ltd.](../by-program/mobisystems_ltd.md) | com.mobisystems.msdict.embedded.wireless | None | — | 11 |
 | 119 | [819333](../reports/819333.md) | Mathematical error  found in meals for one | [Eternal](../by-program/eternal.md) | com.application.zomato | None | — | 10 |
 | 120 | [631227](../reports/631227.md) | Some HTML Tags are Getting Executed in com.nextcloud.cl | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | None | — | 9 |
 | 121 | [859136](../reports/859136.md) | Malicious apps can crash Nextcloud Android client by se | [Nextcloud](../by-program/nextcloud.md) | com.nextcloud.client | None | — | 6 |

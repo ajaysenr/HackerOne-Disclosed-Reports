@@ -16,5 +16,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 10 | [304073](../reports/304073.md) | Missing restriction on string size of Full Name at browser.b | None | — | 12 | [myskar](https://hackerone.com/myskar) | 2025-10-31 |
 | 11 | [910732](../reports/910732.md) | blockstack.org - is vulnerable to (CVE-2016-2183, CVE-2016-6 | None | — | 9 | [0x1_aulia](https://hackerone.com/0x1_aulia) | 2025-10-31 |
 | 12 | [269184](../reports/269184.md) | Weak crossdomain.xml | None | — | 1 | [firestone](https://hackerone.com/firestone) | 2018-01-18 |
-| 13 | [269196](../reports/269196.md) | Cross site request forgery | None | — | 0 | [firestone](https://hackerone.com/firestone) | 2018-01-10 |
-| 14 | [269047](../reports/269047.md) | Clickjacking https://blockstack.org/ | None | — | 0 | [blash41](https://hackerone.com/blash41) | 2017-10-05 |
+| 13 | [269047](../reports/269047.md) | Clickjacking https://blockstack.org/ | None | — | 0 | [blash41](https://hackerone.com/blash41) | 2017-10-05 |
+| 14 | [269196](../reports/269196.md) | Cross site request forgery | None | — | 0 | [firestone](https://hackerone.com/firestone) | 2018-01-10 |

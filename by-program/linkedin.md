@@ -22,12 +22,12 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 16 | [2649615](../reports/2649615.md) | Forced OAuth authorization using button ID in hash and holdi | Medium — CVSS 4.2 | — | 78 | [j0r1an](https://hackerone.com/j0r1an) | 2024-12-17 |
 | 17 | [2299571](../reports/2299571.md) | Employee-only Area Bypass | Medium — CVSS 5.3 | — | 74 | [m0ntriz](https://hackerone.com/m0ntriz) | 2024-02-19 |
 | 18 | [3604288](../reports/3604288.md) | Access to Deactivated LinkedIn Company Pages via Competitor  | Medium — CVSS 5.3 | — | 66 | [riadalrashed](https://hackerone.com/riadalrashed) | 2026-03-24 |
-| 19 | [1892888](../reports/1892888.md) | Users can access exams in course without having to subscribe | Medium — CVSS 5.3 | — | 63 | [find_me_here](https://hackerone.com/find_me_here) | 2024-01-10 |
-| 20 | [1581528](../reports/1581528.md) | Can access the job name, creator name and can report any dra | Medium — CVSS 5.3 | — | 63 | [sachin_kr](https://hackerone.com/sachin_kr) | 2022-07-20 |
+| 19 | [1581528](../reports/1581528.md) | Can access the job name, creator name and can report any dra | Medium — CVSS 5.3 | — | 63 | [sachin_kr](https://hackerone.com/sachin_kr) | 2022-07-20 |
+| 20 | [1892888](../reports/1892888.md) | Users can access exams in course without having to subscribe | Medium — CVSS 5.3 | — | 63 | [find_me_here](https://hackerone.com/find_me_here) | 2024-01-10 |
 | 21 | [1964211](../reports/1964211.md) | CSRF that makes any linkedin user follow attacker controlled | Medium — CVSS 4.3 | — | 53 | [marvelmaniac](https://hackerone.com/marvelmaniac) | 2023-12-06 |
 | 22 | [2339192](../reports/2339192.md) | Blocking a company page admin prevents him from delete paid  | Medium — CVSS 4.3 | — | 51 | [riadalrashed](https://hackerone.com/riadalrashed) | 2026-03-05 |
-| 23 | [1572591](../reports/1572591.md) | Privilege Escalation - "Analyst" Role Can View Email Domains | Medium | — | 48 | [naaash](https://hackerone.com/naaash) | 2022-08-26 |
-| 24 | [1592587](../reports/1592587.md) | IDOR - Delete technical skill assessment result & Gained Bad | Medium — CVSS 5.3 | — | 48 | [sachin_kr](https://hackerone.com/sachin_kr) | 2022-10-05 |
+| 23 | [1592587](../reports/1592587.md) | IDOR - Delete technical skill assessment result & Gained Bad | Medium — CVSS 5.3 | — | 48 | [sachin_kr](https://hackerone.com/sachin_kr) | 2022-10-05 |
+| 24 | [1572591](../reports/1572591.md) | Privilege Escalation - "Analyst" Role Can View Email Domains | Medium | — | 48 | [naaash](https://hackerone.com/naaash) | 2022-08-26 |
 | 25 | [1813450](../reports/1813450.md) | Attackers do not need to Pay for a Subscription to get the ` | Medium — CVSS 5.3 | — | 43 | [find_me_here](https://hackerone.com/find_me_here) | 2023-05-12 |
 | 26 | [1837309](../reports/1837309.md) | Anyone can view the results of linkedin skill test -if faile | Medium — CVSS 5.3 | — | 42 | [marvelmaniac](https://hackerone.com/marvelmaniac) | 2023-05-17 |
 | 27 | [1961163](../reports/1961163.md) | CSRF that makes any user send invitations to the attacker by | Medium — CVSS 4.3 | — | 41 | [marvelmaniac](https://hackerone.com/marvelmaniac) | 2023-12-06 |
