@@ -12,11 +12,11 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 6 | [184057](../reports/184057.md) | Read Application Name , Subscribers Count  | Medium | — | 13 | [cyriac](https://hackerone.com/cyriac) | 2016-11-23 |
 | 7 | [200419](../reports/200419.md) | Clickjacking | Medium — CVSS 6.1 | — | 7 | [b1b62e8d81ce1e3993ad913](https://hackerone.com/b1b62e8d81ce1e3993ad913) | 2017-02-02 |
 | 8 | [182008](../reports/182008.md) | Spoof Email with Hyperlink Injection via Invites functionali | Low | — | 14 | [japz](https://hackerone.com/japz) | 2016-11-14 |
-| 9 | [187025](../reports/187025.md) | Publicy accessible IDRAC instance at api-m.inapp.pushwoosh.c | Low | — | 11 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-03-29 |
-| 10 | [182033](../reports/182033.md) | Reflected Xss on  | Low | — | 11 | [d1pakda5](https://hackerone.com/d1pakda5) | 2016-12-14 |
+| 9 | [182033](../reports/182033.md) | Reflected Xss on  | Low | — | 11 | [d1pakda5](https://hackerone.com/d1pakda5) | 2016-12-14 |
+| 10 | [187025](../reports/187025.md) | Publicy accessible IDRAC instance at api-m.inapp.pushwoosh.c | Low | — | 11 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-03-29 |
 | 11 | [183245](../reports/183245.md) | Nginx version disclosure via response header | Low | — | 11 | [japz](https://hackerone.com/japz) | 2016-11-18 |
-| 12 | [182046](../reports/182046.md) | Nginx server version disclosure | Low | — | 9 | [japz](https://hackerone.com/japz) | 2016-11-14 |
-| 13 | [182017](../reports/182017.md) | htaccess file is accesible | Low | — | 9 | [japz](https://hackerone.com/japz) | 2016-11-14 |
+| 12 | [182017](../reports/182017.md) | htaccess file is accesible | Low | — | 9 | [japz](https://hackerone.com/japz) | 2016-11-14 |
+| 13 | [182046](../reports/182046.md) | Nginx server version disclosure | Low | — | 9 | [japz](https://hackerone.com/japz) | 2016-11-14 |
 | 14 | [215083](../reports/215083.md) | Cleartext Password returned in JSON response | Low | — | 6 | [ryudox](https://hackerone.com/ryudox) | 2018-03-04 |
 | 15 | [182089](../reports/182089.md) |  Spam Some one using (user.saveInvite) system | Low | — | 5 | [madrobot](https://hackerone.com/madrobot) | 2016-11-22 |
 | 16 | [142540](../reports/142540.md) | Cross-Site Scripting Stored On Rich Media | None | — | 10 | [hussain_0x3c](https://hackerone.com/hussain_0x3c) | 2016-11-17 |

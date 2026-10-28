@@ -32,8 +32,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 26 | [662583](../reports/662583.md) | Manipulation of exam results at Semrush.Academy | Medium | — | 38 | [r0hack](https://hackerone.com/r0hack) | 2019-10-11 |
 | 27 | [1237700](../reports/1237700.md) | Improper input validation in projects leads to fully deny ac | Medium | — | 35 | [a_d_a_m](https://hackerone.com/a_d_a_m) | 2021-09-01 |
 | 28 | [853145](../reports/853145.md) | Broken validation of user Id for JWT Token | Medium — CVSS 5.9 | — | 31 | [a_d_a_m](https://hackerone.com/a_d_a_m) | 2020-12-11 |
-| 29 | [316713](../reports/316713.md) | Ad Builder Display Ads Path Traversal | Medium | — | 22 | [ajxchapman](https://hackerone.com/ajxchapman) | 2020-02-28 |
-| 30 | [723707](../reports/723707.md) | Code injection in https://www.semrush.com | Medium | — | 22 | [dangkhai0x21](https://hackerone.com/dangkhai0x21) | 2019-11-01 |
+| 29 | [723707](../reports/723707.md) | Code injection in https://www.semrush.com | Medium | — | 22 | [dangkhai0x21](https://hackerone.com/dangkhai0x21) | 2019-11-01 |
+| 30 | [316713](../reports/316713.md) | Ad Builder Display Ads Path Traversal | Medium | — | 22 | [ajxchapman](https://hackerone.com/ajxchapman) | 2020-02-28 |
 | 31 | [382667](../reports/382667.md) | Improper authentication on registration | Medium | — | 7 | [lezibintlgent](https://hackerone.com/lezibintlgent) | 2018-08-24 |
 | 32 | [459532](../reports/459532.md) | Persistent CSV injection | Medium | — | 4 | [8r33](https://hackerone.com/8r33) | 2019-01-11 |
 | 33 | [276614](../reports/276614.md) | Email Spoofing | Medium | — | 1 | [protector47](https://hackerone.com/protector47) | 2018-03-13 |

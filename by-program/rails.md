@@ -24,56 +24,56 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 18 | [413388](../reports/413388.md) | Untrusted strings that are cache fetched with raw option are | High | — | 2 | [dylan-ts](https://hackerone.com/dylan-ts) | 2020-05-26 |
 | 19 | [3008446](../reports/3008446.md) | 1-Click Cross-Site Scripting via Custom Configuration in Saf | Medium — CVSS 6.1 | — | 70 | [maitaii](https://hackerone.com/maitaii) | 2025-04-09 |
 | 20 | [1444151](../reports/1444151.md) | XSS vulnerabilities due to missing checks in tag helpers | Medium | — | 41 | [amartinfraguas](https://hackerone.com/amartinfraguas) | 2023-07-28 |
-| 21 | [2389565](../reports/2389565.md) | Action Text XSS (Rails 7.1.x) | Medium | — | 33 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2025-02-04 |
-| 22 | [1023899](../reports/1023899.md) | Regular expression denial of service in ActiveRecord's Postg | Medium — CVSS 5.3 | — | 33 | [dee-see](https://hackerone.com/dee-see) | 2021-02-11 |
+| 21 | [1023899](../reports/1023899.md) | Regular expression denial of service in ActiveRecord's Postg | Medium — CVSS 5.3 | — | 33 | [dee-see](https://hackerone.com/dee-see) | 2021-02-11 |
+| 22 | [2389565](../reports/2389565.md) | Action Text XSS (Rails 7.1.x) | Medium | — | 33 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2025-02-04 |
 | 23 | [1694173](../reports/1694173.md) | ActionView sanitize helper bypass leading to XSS using SVG t | Medium | — | 24 | [haqpl](https://hackerone.com/haqpl) | 2023-07-10 |
 | 24 | [1302395](../reports/1302395.md) | Sauce Labs API key unencrypted in an old commit | Medium | — | 23 | [trufflesecurity](https://hackerone.com/trufflesecurity) | 2024-10-08 |
 | 25 | [328270](../reports/328270.md) | XSS vulnerability in sanitize-method when parsing link's hre | Medium — CVSS 6.7 | — | 18 | [kaarloh](https://hackerone.com/kaarloh) | 2018-03-22 |
 | 26 | [431561](../reports/431561.md) | Specially constructed multi-part requests cause multi-second | Medium — CVSS 5.3 | — | 17 | [bjeanes](https://hackerone.com/bjeanes) | 2018-12-05 |
 | 27 | [1955370](../reports/1955370.md) | Incorrect handling of certain characters passed to the redir | Medium — CVSS 4.3 | — | 15 | [meowday](https://hackerone.com/meowday) | 2023-07-28 |
 | 28 | [803922](../reports/803922.md) | Missing resource identifier encoding may lead to security vu | Medium — CVSS 4.8 | — | 13 | [jobert](https://hackerone.com/jobert) | 2020-05-13 |
-| 29 | [1530898](../reports/1530898.md) | Rails::Html::SafeListSanitizer vulnerable to xss attack in a | Medium — CVSS 6.5 | — | 8 | [windshock](https://hackerone.com/windshock) | 2022-06-14 |
-| 30 | [1656627](../reports/1656627.md) | Rails::Html::SafeListSanitizer vulnerable to XSS when certai | Medium — CVSS 4.7 | — | 8 | [0b5cur17y](https://hackerone.com/0b5cur17y) | 2022-12-14 |
-| 31 | [732415](../reports/732415.md) | The authenticity_token can be reversed and used to forge val | Medium — CVSS 5.9 | — | 7 | [jregele](https://hackerone.com/jregele) | 2020-08-27 |
-| 32 | [1654310](../reports/1654310.md) | Incomplete fix for CVE-2022-32209 (XSS in Rails::Html::Sanit | Medium — CVSS 4.7 | — | 7 | [0b5cur17y](https://hackerone.com/0b5cur17y) | 2022-12-14 |
+| 29 | [1656627](../reports/1656627.md) | Rails::Html::SafeListSanitizer vulnerable to XSS when certai | Medium — CVSS 4.7 | — | 8 | [0b5cur17y](https://hackerone.com/0b5cur17y) | 2022-12-14 |
+| 30 | [1530898](../reports/1530898.md) | Rails::Html::SafeListSanitizer vulnerable to xss attack in a | Medium — CVSS 6.5 | — | 8 | [windshock](https://hackerone.com/windshock) | 2022-06-14 |
+| 31 | [1654310](../reports/1654310.md) | Incomplete fix for CVE-2022-32209 (XSS in Rails::Html::Sanit | Medium — CVSS 4.7 | — | 7 | [0b5cur17y](https://hackerone.com/0b5cur17y) | 2022-12-14 |
+| 32 | [732415](../reports/732415.md) | The authenticity_token can be reversed and used to forge val | Medium — CVSS 5.9 | — | 7 | [jregele](https://hackerone.com/jregele) | 2020-08-27 |
 | 33 | [3580511](../reports/3580511.md) | ActiveStorage Disk Service Path Traversal via Custom Blob Ke | Medium — CVSS 6.5 | — | 6 | [ksw9722](https://hackerone.com/ksw9722) | 2026-05-07 |
 | 34 | [429873](../reports/429873.md) | XSS by MathML at Active Storage | Medium | — | 5 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2021-06-15 |
-| 35 | [789579](../reports/789579.md) | ActiveStorage direct upload fails to sign content-length hea | Medium — CVSS 5.3 | — | 5 | [travispew](https://hackerone.com/travispew) | 2020-05-18 |
-| 36 | [108723](../reports/108723.md) | Validation bypass for Active Record and Active Model | Medium — CVSS 5.4 | — | 5 | [backus](https://hackerone.com/backus) | 2016-02-12 |
+| 35 | [108723](../reports/108723.md) | Validation bypass for Active Record and Active Model | Medium — CVSS 5.4 | — | 5 | [backus](https://hackerone.com/backus) | 2016-02-12 |
+| 36 | [789579](../reports/789579.md) | ActiveStorage direct upload fails to sign content-length hea | Medium — CVSS 5.3 | — | 5 | [travispew](https://hackerone.com/travispew) | 2020-05-18 |
 | 37 | [292797](../reports/292797.md) | ActionController::Parameters .each returns an unsafe hash | Medium — CVSS 6.5 | — | 4 | [abuisman](https://hackerone.com/abuisman) | 2020-05-18 |
 | 38 | [3727743](../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via | Medium — CVSS 4.3 | — | 4 | [offsetmd](https://hackerone.com/offsetmd) | 2026-08-24 |
-| 39 | [899069](../reports/899069.md) | Untrusted users able to run pending migrations in production | Medium — CVSS 6.5 | — | 3 | [tenderlove](https://hackerone.com/tenderlove) | 2020-07-24 |
-| 40 | [1300802](../reports/1300802.md) | Possible DOS in app with crashing `exceptions_app` | Medium | — | 3 | [ghiculescu](https://hackerone.com/ghiculescu) | 2023-06-28 |
-| 41 | [3994016](../reports/3994016.md) | Action Text to_markdown: <code>/<pre> content escapes its de | Medium — CVSS 4.3 | — | 3 | [seoafoz](https://hackerone.com/seoafoz) | 2026-09-12 |
+| 39 | [3994016](../reports/3994016.md) | Action Text to_markdown: <code>/<pre> content escapes its de | Medium — CVSS 4.3 | — | 3 | [seoafoz](https://hackerone.com/seoafoz) | 2026-09-12 |
+| 40 | [899069](../reports/899069.md) | Untrusted users able to run pending migrations in production | Medium — CVSS 6.5 | — | 3 | [tenderlove](https://hackerone.com/tenderlove) | 2020-07-24 |
+| 41 | [1300802](../reports/1300802.md) | Possible DOS in app with crashing `exceptions_app` | Medium | — | 3 | [ghiculescu](https://hackerone.com/ghiculescu) | 2023-06-28 |
 | 42 | [1411867](../reports/1411867.md) | Escape Sequence Injection vulnerability in Rack | Medium — CVSS 6.5 | — | 2 | [vairelt](https://hackerone.com/vairelt) | 2023-06-28 |
-| 43 | [4082665](../reports/4082665.md) | ActionText `to_markdown` still allows `javascript:` links in | Medium — CVSS 5.3 | — | 1 | [deah313](https://hackerone.com/deah313) | 2026-10-10 |
-| 44 | [2814774](../reports/2814774.md) | Possible DoS in NumberHelpers | Medium | — | 1 | [manun](https://hackerone.com/manun) | 2026-10-06 |
+| 43 | [2814774](../reports/2814774.md) | Possible DoS in NumberHelpers | Medium | — | 1 | [manun](https://hackerone.com/manun) | 2026-10-06 |
+| 44 | [4082665](../reports/4082665.md) | ActionText `to_markdown` still allows `javascript:` links in | Medium — CVSS 5.3 | — | 1 | [deah313](https://hackerone.com/deah313) | 2026-10-10 |
 | 45 | [2303609](../reports/2303609.md) | XSS when using `translate` in Action Controller (Rails 7.0,  | Low | — | 50 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2024-10-01 |
 | 46 | [895727](../reports/895727.md) | Rack parses encoded cookie names allowing an attacker to sen | Low | — | 46 | [fletchto99](https://hackerone.com/fletchto99) | 2020-06-16 |
 | 47 | [3601655](../reports/3601655.md) | Rails::HTML::Sanitizer.allowed_uri? returns true for entity- | Low | — | 20 | [smlee](https://hackerone.com/smlee) | 2026-04-18 |
 | 48 | [474262](../reports/474262.md) | XSS due to incomplete JS escaping | Low | — | 13 | [jessecampos](https://hackerone.com/jessecampos) | 2020-05-14 |
 | 49 | [1106652](../reports/1106652.md) | redirect_to(["string"]) remote code execution | Low | — | 9 | [gmcgibbon](https://hackerone.com/gmcgibbon) | 2021-05-07 |
 | 50 | [1047447](../reports/1047447.md) | HostAuthorization middleware does not suitably sanitize the  | Low | — | 7 | [tktech](https://hackerone.com/tktech) | 2021-02-11 |
-| 51 | [189878](../reports/189878.md) | CSRF header is sent to external websites when using data-rem | Low — CVSS 3.1 | — | 2 | [mastahyeti](https://hackerone.com/mastahyeti) | 2020-05-26 |
-| 52 | [755354](../reports/755354.md) | Prevent XSS when passing a parameter directly into link_to  | Low | — | 2 | [speleding](https://hackerone.com/speleding) | 2020-05-13 |
+| 51 | [755354](../reports/755354.md) | Prevent XSS when passing a parameter directly into link_to  | Low | — | 2 | [speleding](https://hackerone.com/speleding) | 2020-05-13 |
+| 52 | [189878](../reports/189878.md) | CSRF header is sent to external websites when using data-rem | Low — CVSS 3.1 | — | 2 | [mastahyeti](https://hackerone.com/mastahyeti) | 2020-05-26 |
 | 53 | [2389431](../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | Low | — | 0 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2026-06-09 |
 | 54 | [1327196](../reports/1327196.md) | Content Security Policy is only active for HTML responses  b | None | — | 20 | [thorsteneckel](https://hackerone.com/thorsteneckel) | 2023-07-28 |
 | 55 | [44513](../reports/44513.md) | RCE due to Web Console IP Whitelist bypass in Rails 4.0 and  | None | — | 13 | [joernchen](https://hackerone.com/joernchen) | 2015-06-16 |
 | 56 | [1684163](../reports/1684163.md) | ReDoS (Rails::Html::PermitScrubber.scrub_attribute) | None | — | 11 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2023-01-02 |
-| 57 | [42797](../reports/42797.md) | Denial of Service in Action Pack Exception Handling | None | — | 8 | [ff7f00](https://hackerone.com/ff7f00) | 2015-06-16 |
-| 58 | [3370](../reports/3370.md) | Directory traversal attack in view resolver | None | — | 8 | [lautis](https://hackerone.com/lautis) | 2015-07-09 |
-| 59 | [139321](../reports/139321.md) | Unsafe Query Generation (CVE-2012-2660, CVE-2012-2694 and CV | None | — | 7 | [joernchen](https://hackerone.com/joernchen) | 2018-02-07 |
-| 60 | [94568](../reports/94568.md) | http_basic_authenticate_with is suseptible to timing attacks | None | — | 7 | [d_w](https://hackerone.com/d_w) | 2016-03-13 |
-| 61 | [42728](../reports/42728.md) | Data-Tags and the New HTML Sanitizer Subverts CSRF protectio | None | — | 6 | [benmmurphy](https://hackerone.com/benmmurphy) | 2016-03-13 |
-| 62 | [888176](../reports/888176.md) | HTTP Host injection in redirect_to function | None | — | 6 | [komang4130](https://hackerone.com/komang4130) | 2021-06-15 |
-| 63 | [113831](../reports/113831.md) | Regarding [CVE-2016-0752] Possible Information Leak Vulnerab | None | — | 6 | [jyotisingh](https://hackerone.com/jyotisingh) | 2016-03-01 |
-| 64 | [81212](../reports/81212.md) | Potential XSS on sanitize/Rails::Html::WhiteListSanitizer | None | — | 5 | [garnu](https://hackerone.com/garnu) | 2016-03-13 |
-| 65 | [942103](../reports/942103.md) | Server-side template injection at ujs test server | None | — | 5 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2021-02-16 |
+| 57 | [3370](../reports/3370.md) | Directory traversal attack in view resolver | None | — | 8 | [lautis](https://hackerone.com/lautis) | 2015-07-09 |
+| 58 | [42797](../reports/42797.md) | Denial of Service in Action Pack Exception Handling | None | — | 8 | [ff7f00](https://hackerone.com/ff7f00) | 2015-06-16 |
+| 59 | [94568](../reports/94568.md) | http_basic_authenticate_with is suseptible to timing attacks | None | — | 7 | [d_w](https://hackerone.com/d_w) | 2016-03-13 |
+| 60 | [139321](../reports/139321.md) | Unsafe Query Generation (CVE-2012-2660, CVE-2012-2694 and CV | None | — | 7 | [joernchen](https://hackerone.com/joernchen) | 2018-02-07 |
+| 61 | [888176](../reports/888176.md) | HTTP Host injection in redirect_to function | None | — | 6 | [komang4130](https://hackerone.com/komang4130) | 2021-06-15 |
+| 62 | [113831](../reports/113831.md) | Regarding [CVE-2016-0752] Possible Information Leak Vulnerab | None | — | 6 | [jyotisingh](https://hackerone.com/jyotisingh) | 2016-03-01 |
+| 63 | [42728](../reports/42728.md) | Data-Tags and the New HTML Sanitizer Subverts CSRF protectio | None | — | 6 | [benmmurphy](https://hackerone.com/benmmurphy) | 2016-03-13 |
+| 64 | [942103](../reports/942103.md) | Server-side template injection at ujs test server | None | — | 5 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2021-02-16 |
+| 65 | [81212](../reports/81212.md) | Potential XSS on sanitize/Rails::Html::WhiteListSanitizer | None | — | 5 | [garnu](https://hackerone.com/garnu) | 2016-03-13 |
 | 66 | [43440](../reports/43440.md) | Arbitrary file existence disclosure in Action Pack | None | — | 5 | [nahamsec](https://hackerone.com/nahamsec) | 2014-11-20 |
 | 67 | [63131](../reports/63131.md) | Changeable model ids on vanilla update can lead to severely  | None | — | 4 | [zachaysan](https://hackerone.com/zachaysan) | 2016-02-12 |
 | 68 | [1057216](../reports/1057216.md) | Regex Injection from request header (Rack::Sendfile, send_fi | None | — | 4 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2021-06-15 |
-| 69 | [81396](../reports/81396.md) | [Rails42] We can inject HTML tags when server is using strip | None | — | 3 | [arthurnn](https://hackerone.com/arthurnn) | 2016-03-13 |
-| 70 | [83962](../reports/83962.md) | DoS Attack in Controller Lookup Code | None | — | 3 | [tenderlove](https://hackerone.com/tenderlove) | 2016-03-13 |
-| 71 | [49935](../reports/49935.md) | rails-ujs will send CSRF tokens to other origins | None | — | 3 | [mastahyeti](https://hackerone.com/mastahyeti) | 2015-06-16 |
+| 69 | [49935](../reports/49935.md) | rails-ujs will send CSRF tokens to other origins | None | — | 3 | [mastahyeti](https://hackerone.com/mastahyeti) | 2015-06-16 |
+| 70 | [81396](../reports/81396.md) | [Rails42] We can inject HTML tags when server is using strip | None | — | 3 | [arthurnn](https://hackerone.com/arthurnn) | 2016-03-13 |
+| 71 | [83962](../reports/83962.md) | DoS Attack in Controller Lookup Code | None | — | 3 | [tenderlove](https://hackerone.com/tenderlove) | 2016-03-13 |
 | 72 | [28450](../reports/28450.md) | Active Record SQL Injection Vulnerability Affecting PostgreS | None | — | 2 | [seantheprogrammer](https://hackerone.com/seantheprogrammer) | 2014-07-02 |
 | 73 | [28449](../reports/28449.md) | Active Record SQL Injection Vulnerability Affecting PostgreS | None | — | 2 | [seantheprogrammer](https://hackerone.com/seantheprogrammer) | 2014-07-02 |

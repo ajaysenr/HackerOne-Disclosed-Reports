@@ -33,15 +33,15 @@
 | 27 | [1541273](../reports/1541273.md) | [WiiU/Switch] Remote code execution inside the ENL library | [Nintendo](../by-program/nintendo.md) | High — CVSS 7.4 | — | 36 |
 | 28 | [351016](../reports/351016.md) | Malformed Skybox .TGA in Half-Life (GoldSRC) leads to Access Viol | [Valve](../by-program/valve.md) | High | — | 30 |
 | 29 | [458929](../reports/458929.md) | Malformed BSP in GoldSrc Engine may cause shellcode injection | [Valve](../by-program/valve.md) | High | — | 21 |
-| 30 | [789034](../reports/789034.md) | Buffer Overflow in ext_lm_group_acl helper | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.5 | — | 18 |
-| 31 | [3337561](../reports/3337561.md) | Multiple Unsafe strcpy() Function Calls Leading to Potential Buff | [curl](../by-program/curl.md) | High | — | 18 |
+| 30 | [3337561](../reports/3337561.md) | Multiple Unsafe strcpy() Function Calls Leading to Potential Buff | [curl](../by-program/curl.md) | High | — | 18 |
+| 31 | [789034](../reports/789034.md) | Buffer Overflow in ext_lm_group_acl helper | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.5 | — | 18 |
 | 32 | [3392174](../reports/3392174.md) | Buffer Overflow in WebSocket Handshake (lib/ws.c:1287) | [curl](../by-program/curl.md) | High | — | 16 |
 | 33 | [3493602](../reports/3493602.md) | Stack Buffer Overflow in mprintf.c formatting function (fallback  | [curl](../by-program/curl.md) | High | — | 8 |
 | 34 | [832217](../reports/832217.md) | Android App Crashes while sending message to users/ on channel  | [Rocket.Chat](../by-program/rocket_chat.md) | High | — | 3 |
 | 35 | [3048061](../reports/3048061.md) | [Xenoblade Chronicles X: Definitive Edition] Buffer overflow in s | [Nintendo](../by-program/nintendo.md) | High — CVSS 8.2 | — | 2 |
-| 36 | [287667](../reports/287667.md) | CVE-2017-13090 wget heap smash | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.8 | — | 1 |
+| 36 | [1485379](../reports/1485379.md) | Use of Unsafe function || Strcpy | [curl](../by-program/curl.md) | High | — | 1 |
 | 37 | [287666](../reports/287666.md) | CVE-2017-13089 wget stack smash | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.8 | — | 1 |
-| 38 | [1485379](../reports/1485379.md) | Use of Unsafe function || Strcpy | [curl](../by-program/curl.md) | High | — | 1 |
+| 38 | [287667](../reports/287667.md) | CVE-2017-13090 wget heap smash | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.8 | — | 1 |
 | 39 | [3575245](../reports/3575245.md) | Integer Overflow in curl_multi_get_handles() Leading to Heap Buff | [curl](../by-program/curl.md) | Medium | — | 36 |
 | 40 | [350119](../reports/350119.md) | Buffer overflows in demo parsing | [Valve](../by-program/valve.md) | Medium | — | 33 |
 | 41 | [216330](../reports/216330.md) | Big XSS vulnerability! | [Legal Robot](../by-program/legalrobot.md) | Medium — CVSS 6.9 | — | 31 |

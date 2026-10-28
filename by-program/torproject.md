@@ -35,26 +35,26 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 29 | [269426](../reports/269426.md) | Tor Project - Full Path Disclosure | Low | — | 5 | [yox](https://hackerone.com/yox) | 2023-11-28 |
 | 30 | [3709703](../reports/3709703.md) |  Tor onion service INTRODUCE2 invalid-MAC cells permanently  | Low | — | 4 | [geeknik](https://hackerone.com/geeknik) | 2026-09-10 |
 | 31 | [281597](../reports/281597.md) | Preferred language option fingerprinting issue in Tor Browse | Low | — | 3 | [newfunction](https://hackerone.com/newfunction) | 2017-10-24 |
-| 32 | [267922](../reports/267922.md) | Sql query disclosure, | Low | — | 0 | [utkarsh1](https://hackerone.com/utkarsh1) | 2017-09-18 |
-| 33 | [282339](../reports/282339.md) | Cross-domain linkability when system time changed in Tor Bro | Low | — | 0 | [newfunction](https://hackerone.com/newfunction) | 2017-10-26 |
+| 32 | [282339](../reports/282339.md) | Cross-domain linkability when system time changed in Tor Bro | Low | — | 0 | [newfunction](https://hackerone.com/newfunction) | 2017-10-26 |
+| 33 | [267922](../reports/267922.md) | Sql query disclosure, | Low | — | 0 | [utkarsh1](https://hackerone.com/utkarsh1) | 2017-09-18 |
 | 34 | [274998](../reports/274998.md) | Use of unitialized value in crypto_pk_num_bits (src/common/c | None | — | 11 | [geeknik](https://hackerone.com/geeknik) | 2023-11-28 |
-| 35 | [588239](../reports/588239.md) | Detect Tor Browser's language | None | — | 11 | [ryotak](https://hackerone.com/ryotak) | 2019-05-29 |
-| 36 | [410087](../reports/410087.md) | Expose user IP if TOR crashs | None | — | 11 | [rbcafe](https://hackerone.com/rbcafe) | 2018-09-21 |
-| 37 | [142773](../reports/142773.md) | 16 instances where return value of OpenSSL i2d_RSAPublicKey  | None | — | 11 | [guido](https://hackerone.com/guido) | 2017-11-26 |
+| 35 | [410087](../reports/410087.md) | Expose user IP if TOR crashs | None | — | 11 | [rbcafe](https://hackerone.com/rbcafe) | 2018-09-21 |
+| 36 | [142773](../reports/142773.md) | 16 instances where return value of OpenSSL i2d_RSAPublicKey  | None | — | 11 | [guido](https://hackerone.com/guido) | 2017-11-26 |
+| 37 | [588239](../reports/588239.md) | Detect Tor Browser's language | None | — | 11 | [ryotak](https://hackerone.com/ryotak) | 2019-05-29 |
 | 38 | [269243](../reports/269243.md) | Report Regarding Security Vulnerability | None | — | 9 | [srkfan](https://hackerone.com/srkfan) | 2023-11-28 |
 | 39 | [265706](../reports/265706.md) | [rt.torproject.org] No Rate Limitting on Login Form | None | — | 9 | [0xspade](https://hackerone.com/0xspade) | 2023-11-28 |
 | 40 | [115686](../reports/115686.md) | [tor] pre-emptive defenses, potential vulnerabilities | None | — | 8 | [guido](https://hackerone.com/guido) | 2017-11-26 |
 | 41 | [115702](../reports/115702.md) | [tor] libevent dns OOB read | None | — | 7 | [guido](https://hackerone.com/guido) | 2017-10-19 |
-| 42 | [113424](../reports/113424.md) | [tor] control connection pre-auth DoS (infinite loop) with - | None | — | 7 | [guido](https://hackerone.com/guido) | 2017-10-19 |
-| 43 | [330721](../reports/330721.md) | Expose relay IP in the debug (The source is different from t | None | — | 7 | [rbcafe](https://hackerone.com/rbcafe) | 2018-07-21 |
-| 44 | [112632](../reports/112632.md) | [tor] libevent dns remote stack overread vulnerability | None | — | 6 | [guido](https://hackerone.com/guido) | 2017-10-19 |
+| 42 | [330721](../reports/330721.md) | Expose relay IP in the debug (The source is different from t | None | — | 7 | [rbcafe](https://hackerone.com/rbcafe) | 2018-07-21 |
+| 43 | [113424](../reports/113424.md) | [tor] control connection pre-auth DoS (infinite loop) with - | None | — | 7 | [guido](https://hackerone.com/guido) | 2017-10-19 |
+| 44 | [112784](../reports/112784.md) | libevent (stack) buffer overflow in evutil_parse_sockaddr_po | None | — | 6 | [guido](https://hackerone.com/guido) | 2017-10-19 |
 | 45 | [126598](../reports/126598.md) | Overreads/overcopies in torsocks | None | — | 6 | [guido](https://hackerone.com/guido) | 2017-10-19 |
 | 46 | [163459](../reports/163459.md) | potential memory corruption in or/buffers.c (particularly on | None | — | 6 | [guido](https://hackerone.com/guido) | 2017-10-19 |
-| 47 | [112784](../reports/112784.md) | libevent (stack) buffer overflow in evutil_parse_sockaddr_po | None | — | 6 | [guido](https://hackerone.com/guido) | 2017-10-19 |
-| 48 | [138025](../reports/138025.md) | Heap corruption via memarea.c | None | — | 6 | [guido](https://hackerone.com/guido) | 2017-10-19 |
-| 49 | [112386](../reports/112386.md) | smartlist_add, smartlist_insert (may) cause heap corruption  | None | — | 6 | [guido](https://hackerone.com/guido) | 2017-10-19 |
+| 47 | [112386](../reports/112386.md) | smartlist_add, smartlist_insert (may) cause heap corruption  | None | — | 6 | [guido](https://hackerone.com/guido) | 2017-10-19 |
+| 48 | [112632](../reports/112632.md) | [tor] libevent dns remote stack overread vulnerability | None | — | 6 | [guido](https://hackerone.com/guido) | 2017-10-19 |
+| 49 | [138025](../reports/138025.md) | Heap corruption via memarea.c | None | — | 6 | [guido](https://hackerone.com/guido) | 2017-10-19 |
 | 50 | [274285](../reports/274285.md) | https://get.ooni.torproject.org/ | None | — | 5 | [ba4fe4ca95021d367f8a574](https://hackerone.com/ba4fe4ca95021d367f8a574) | 2023-11-28 |
 | 51 | [276255](../reports/276255.md) | Use of unitialized value in token_check_object (src/or/parse | None | — | 3 | [geeknik](https://hackerone.com/geeknik) | 2019-10-04 |
 | 52 | [276253](../reports/276253.md) | Use of uninitialized value in networkstatus_parse_vote_from_ | None | — | 2 | [geeknik](https://hackerone.com/geeknik) | 2017-10-31 |
-| 53 | [274997](../reports/274997.md) | Use of uninitialized value in memarea_strdup (src/common/mem | None | — | 1 | [geeknik](https://hackerone.com/geeknik) | 2017-10-25 |
-| 54 | [268113](../reports/268113.md) | Uncloaking hidden services and hidden service users | None | — | 1 | [hackerfactor](https://hackerone.com/hackerfactor) | 2017-10-20 |
+| 53 | [268113](../reports/268113.md) | Uncloaking hidden services and hidden service users | None | — | 1 | [hackerfactor](https://hackerone.com/hackerfactor) | 2017-10-20 |
+| 54 | [274997](../reports/274997.md) | Use of uninitialized value in memarea_strdup (src/common/mem | None | — | 1 | [geeknik](https://hackerone.com/geeknik) | 2017-10-25 |

@@ -15,8 +15,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 9 | [942859](../reports/942859.md) | Stored XSS in Post title (PoC) | Medium | — | 63 | [zerox4](https://hackerone.com/zerox4) | 2020-09-02 |
 | 10 | [723175](../reports/723175.md) | De-anonymization Attack: Cross Site Information Leakage | Medium | — | 23 | [soheil_k](https://hackerone.com/soheil_k) | 2019-12-14 |
 | 11 | [274868](../reports/274868.md) | Xss on community.imgur.com | Medium | — | 20 | [madrobot](https://hackerone.com/madrobot) | 2019-09-03 |
-| 12 | [845677](../reports/845677.md) | Sourcemaps and Unminified Source Code Exposed on Pages | Medium | — | 19 | [gennaro](https://hackerone.com/gennaro) | 2020-05-07 |
-| 13 | [583710](../reports/583710.md) | BUG XSS IN "ADD IMAGES" | Medium | — | 19 | [rioncool22](https://hackerone.com/rioncool22) | 2019-07-18 |
+| 12 | [583710](../reports/583710.md) | BUG XSS IN "ADD IMAGES" | Medium | — | 19 | [rioncool22](https://hackerone.com/rioncool22) | 2019-07-18 |
+| 13 | [845677](../reports/845677.md) | Sourcemaps and Unminified Source Code Exposed on Pages | Medium | — | 19 | [gennaro](https://hackerone.com/gennaro) | 2020-05-07 |
 | 14 | [181955](../reports/181955.md) | Stored xss in ALBUM DESCRIPTION  | Medium | — | 18 | [armaanpathan](https://hackerone.com/armaanpathan) | 2017-01-27 |
 | 15 | [435457](../reports/435457.md) | Ability to login to the Nexus Repo Manager from https://nexu | Medium — CVSS 5.3 | — | 16 | [sbakhour](https://hackerone.com/sbakhour) | 2018-12-13 |
 | 16 | [323005](../reports/323005.md) | CSRF leads to a stored self xss | Low | — | 143 | [hogarth45](https://hackerone.com/hogarth45) | 2019-08-30 |
@@ -33,19 +33,19 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 27 | [122475](../reports/122475.md) | Local file read in image editor | None | — | 13 | [sl1m](https://hackerone.com/sl1m) | 2016-04-16 |
 | 28 | [91816](../reports/91816.md) | Server Side Request Forgery In Video to GIF Functionality | None | — | 8 | [xer0dayz](https://hackerone.com/xer0dayz) | 2016-03-22 |
 | 29 | [115978](../reports/115978.md) | SSRF / Local file enumeration / DoS due to improper handling | None | — | 7 | [aesteral](https://hackerone.com/aesteral) | 2016-03-14 |
-| 30 | [124277](../reports/124277.md) | XSS via React element spoofing | None | — | 5 | [jouko](https://hackerone.com/jouko) | 2016-03-23 |
-| 31 | [169751](../reports/169751.md) | Stored XSS in albums on http://m.imgur.com/ | None | — | 5 | [strukt](https://hackerone.com/strukt) | 2017-01-17 |
-| 32 | [95564](../reports/95564.md) | Persistent XSS in image title | None | — | 4 | [kasperkarlsson](https://hackerone.com/kasperkarlsson) | 2016-03-31 |
-| 33 | [100916](../reports/100916.md) | Imgur dev environments facing the Internet | None | — | 4 | [nathonsecurity](https://hackerone.com/nathonsecurity) | 2016-01-08 |
+| 30 | [169751](../reports/169751.md) | Stored XSS in albums on http://m.imgur.com/ | None | — | 5 | [strukt](https://hackerone.com/strukt) | 2017-01-17 |
+| 31 | [124277](../reports/124277.md) | XSS via React element spoofing | None | — | 5 | [jouko](https://hackerone.com/jouko) | 2016-03-23 |
+| 32 | [100916](../reports/100916.md) | Imgur dev environments facing the Internet | None | — | 4 | [nathonsecurity](https://hackerone.com/nathonsecurity) | 2016-01-08 |
+| 33 | [95564](../reports/95564.md) | Persistent XSS in image title | None | — | 4 | [kasperkarlsson](https://hackerone.com/kasperkarlsson) | 2016-03-31 |
 | 34 | [91332](../reports/91332.md) | Open Url redirection on login with facebook | None | — | 3 | [d1pakda5](https://hackerone.com/d1pakda5) | 2015-12-09 |
-| 35 | [105463](../reports/105463.md) | risk of having secure=false in a crossdomain.xml | None | — | 3 | [hacker00000000](https://hackerone.com/hacker00000000) | 2016-03-03 |
-| 36 | [97938](../reports/97938.md) | XSS m.imgur.com | None | — | 3 | [charfee](https://hackerone.com/charfee) | 2016-01-21 |
-| 37 | [111752](../reports/111752.md) | Big Bug in SSL : breach compression attack (CVE-2013-3587) a | None | — | 2 | [hacker00000000](https://hackerone.com/hacker00000000) | 2016-01-21 |
-| 38 | [107036](../reports/107036.md) | XSS in imgur mobile 3 | None | — | 2 | [charfee](https://hackerone.com/charfee) | 2016-01-21 |
-| 39 | [106982](../reports/106982.md) | XSS in imgur mobile | None | — | 2 | [charfee](https://hackerone.com/charfee) | 2016-01-19 |
-| 40 | [91350](../reports/91350.md) | "Sign me out everywhere" does not work for desktop sessions | None | — | 2 | [d1pakda5](https://hackerone.com/d1pakda5) | 2015-12-23 |
-| 41 | [91604](../reports/91604.md) | Crossdomain.xml settings on api.imgur.com too open | None | — | 2 | [kiraak-boy](https://hackerone.com/kiraak-boy) | 2015-12-09 |
+| 35 | [97938](../reports/97938.md) | XSS m.imgur.com | None | — | 3 | [charfee](https://hackerone.com/charfee) | 2016-01-21 |
+| 36 | [105463](../reports/105463.md) | risk of having secure=false in a crossdomain.xml | None | — | 3 | [hacker00000000](https://hackerone.com/hacker00000000) | 2016-03-03 |
+| 37 | [91604](../reports/91604.md) | Crossdomain.xml settings on api.imgur.com too open | None | — | 2 | [kiraak-boy](https://hackerone.com/kiraak-boy) | 2015-12-09 |
+| 38 | [111752](../reports/111752.md) | Big Bug in SSL : breach compression attack (CVE-2013-3587) a | None | — | 2 | [hacker00000000](https://hackerone.com/hacker00000000) | 2016-01-21 |
+| 39 | [107036](../reports/107036.md) | XSS in imgur mobile 3 | None | — | 2 | [charfee](https://hackerone.com/charfee) | 2016-01-21 |
+| 40 | [106982](../reports/106982.md) | XSS in imgur mobile | None | — | 2 | [charfee](https://hackerone.com/charfee) | 2016-01-19 |
+| 41 | [91350](../reports/91350.md) | "Sign me out everywhere" does not work for desktop sessions | None | — | 2 | [d1pakda5](https://hackerone.com/d1pakda5) | 2015-12-23 |
 | 42 | [91366](../reports/91366.md) | Content Sniffing not enabled | None | — | 1 | [unknown_cybary](https://hackerone.com/unknown_cybary) | 2015-12-09 |
-| 43 | [93154](../reports/93154.md) | Csrf near report abuse meme  | None | — | 1 | [oroborus](https://hackerone.com/oroborus) | 2015-12-09 |
+| 43 | [96467](../reports/96467.md) | Persistent XSS in https://p.imgur.com/albumview.gif and http | None | — | 1 | [sleepprogger](https://hackerone.com/sleepprogger) | 2015-12-09 |
 | 44 | [103178](../reports/103178.md) | Attack User Privacy Settings - X-Frame-Options missing on m. | None | — | 1 | [kasser](https://hackerone.com/kasser) | 2016-05-04 |
-| 45 | [96467](../reports/96467.md) | Persistent XSS in https://p.imgur.com/albumview.gif and http | None | — | 1 | [sleepprogger](https://hackerone.com/sleepprogger) | 2015-12-09 |
+| 45 | [93154](../reports/93154.md) | Csrf near report abuse meme  | None | — | 1 | [oroborus](https://hackerone.com/oroborus) | 2015-12-09 |

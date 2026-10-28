@@ -26,7 +26,7 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 20 | [833836](../reports/833836.md) | Information disclosure of Internal php files on [mackeeper.c | Low | — | 4 | [darkerhack](https://hackerone.com/darkerhack) | 2020-05-15 |
 | 21 | [771699](../reports/771699.md) | Open redirect on https://account.mackeeper.com | Low | — | 3 | [jin0ne](https://hackerone.com/jin0ne) | 2020-06-10 |
 | 22 | [737058](../reports/737058.md) | Affiliates - Session Fixation | Low | — | 3 | [jair](https://hackerone.com/jair) | 2020-06-14 |
-| 23 | [741439](../reports/741439.md) | Unauthenticated Reflected Cross-Site Scripting on https://ac | Low | — | 2 | [patient_zero](https://hackerone.com/patient_zero) | 2020-05-23 |
-| 24 | [766404](../reports/766404.md) | MK Site Cross-Site Scripting (XSS) in script context | Low | — | 2 | [adelin30](https://hackerone.com/adelin30) | 2020-05-15 |
-| 25 | [840515](../reports/840515.md) | rxss at https://mackeeper.com page not found via rid paramet | Low | — | 2 | [g0dzira](https://hackerone.com/g0dzira) | 2020-06-14 |
-| 26 | [740999](../reports/740999.md) | Reflected XSS | Low | — | 2 | [patient_zero](https://hackerone.com/patient_zero) | 2020-05-23 |
+| 23 | [840515](../reports/840515.md) | rxss at https://mackeeper.com page not found via rid paramet | Low | — | 2 | [g0dzira](https://hackerone.com/g0dzira) | 2020-06-14 |
+| 24 | [740999](../reports/740999.md) | Reflected XSS | Low | — | 2 | [patient_zero](https://hackerone.com/patient_zero) | 2020-05-23 |
+| 25 | [741439](../reports/741439.md) | Unauthenticated Reflected Cross-Site Scripting on https://ac | Low | — | 2 | [patient_zero](https://hackerone.com/patient_zero) | 2020-05-23 |
+| 26 | [766404](../reports/766404.md) | MK Site Cross-Site Scripting (XSS) in script context | Low | — | 2 | [adelin30](https://hackerone.com/adelin30) | 2020-05-15 |

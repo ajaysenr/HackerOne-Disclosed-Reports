@@ -24,25 +24,25 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 18 | [219509](../reports/219509.md) | Store XSS on Informatica University via transcript (informat | High | — | 17 | [alfredsaonoy](https://hackerone.com/alfredsaonoy) | 2017-09-09 |
 | 19 | [1011888](../reports/1011888.md) | Improper Sanitization leads to XSS Fire on admin panel | High | — | 15 | [montypythin](https://hackerone.com/montypythin) | 2021-08-03 |
 | 20 | [106797](../reports/106797.md) | [marketplace.informatica.com] - XXE | High | — | 14 | [yarbabin](https://hackerone.com/yarbabin) | 2016-12-09 |
-| 21 | [106865](../reports/106865.md) | [rev-app.informatica.com] - XXE via SAML | High | — | 12 | [yarbabin](https://hackerone.com/yarbabin) | 2016-12-09 |
-| 22 | [1095797](../reports/1095797.md) | Cross site scripting   | High | — | 12 | [rawezh_ali](https://hackerone.com/rawezh_ali) | 2021-05-17 |
-| 23 | [143323](../reports/143323.md) | [uk.informatica.com] XSS on uk.informatica..com | High | — | 10 | [grampae](https://hackerone.com/grampae) | 2017-02-28 |
-| 24 | [204237](../reports/204237.md) | [informatica.com]- Cross Site scripting  | High | — | 10 | [rotembar](https://hackerone.com/rotembar) | 2017-10-30 |
+| 21 | [1095797](../reports/1095797.md) | Cross site scripting   | High | — | 12 | [rawezh_ali](https://hackerone.com/rawezh_ali) | 2021-05-17 |
+| 22 | [106865](../reports/106865.md) | [rev-app.informatica.com] - XXE via SAML | High | — | 12 | [yarbabin](https://hackerone.com/yarbabin) | 2016-12-09 |
+| 23 | [204237](../reports/204237.md) | [informatica.com]- Cross Site scripting  | High | — | 10 | [rotembar](https://hackerone.com/rotembar) | 2017-10-30 |
+| 24 | [143323](../reports/143323.md) | [uk.informatica.com] XSS on uk.informatica..com | High | — | 10 | [grampae](https://hackerone.com/grampae) | 2017-02-28 |
 | 25 | [42537](../reports/42537.md) | [careers.informatica.com] Cross Site Script Vulnerability on | High | — | 10 | [gorkha](https://hackerone.com/gorkha) | 2017-05-10 |
 | 26 | [189834](../reports/189834.md) | [kb.informatica.com] DOM based XSS in the bindBreadCrumb fun | High | — | 10 | [s_p_q_r](https://hackerone.com/s_p_q_r) | 2017-06-24 |
-| 27 | [203912](../reports/203912.md) | Stored XSS via Discussion Title and Send as Email attribute  | High | — | 9 | [fillawful](https://hackerone.com/fillawful) | 2017-04-08 |
-| 28 | [201152](../reports/201152.md) | [ipm.informatica.com]- Broken Authentication | High | — | 9 | [adminadminadmin](https://hackerone.com/adminadminadmin) | 2017-04-11 |
+| 27 | [201152](../reports/201152.md) | [ipm.informatica.com]- Broken Authentication | High | — | 9 | [adminadminadmin](https://hackerone.com/adminadminadmin) | 2017-04-11 |
+| 28 | [203912](../reports/203912.md) | Stored XSS via Discussion Title and Send as Email attribute  | High | — | 9 | [fillawful](https://hackerone.com/fillawful) | 2017-04-08 |
 | 29 | [181816](../reports/181816.md) | [marketplace.informatica.com] Persistent XSS through documen | High | — | 8 | [kasperkarlsson](https://hackerone.com/kasperkarlsson) | 2017-02-02 |
 | 30 | [190016](../reports/190016.md) | [network.informatica.com] The login form XSS via the referer | High | — | 7 | [s_p_q_r](https://hackerone.com/s_p_q_r) | 2017-05-22 |
 | 31 | [150520](../reports/150520.md) | XXE at Informatica sub-domain | High | — | 7 | [strukt](https://hackerone.com/strukt) | 2018-04-30 |
 | 32 | [170369](../reports/170369.md) | [kb.informatica.com] Stored XSS | High | — | 7 | [albinowax](https://hackerone.com/albinowax) | 2017-04-09 |
-| 33 | [232320](../reports/232320.md) | [doc.rt.informaticacloud.com] Reflected XSS via Stack Strace | High | — | 6 | [bigbear_](https://hackerone.com/bigbear_) | 2022-07-23 |
+| 33 | [81191](../reports/81191.md) | [now.informatica.com] Reflective Xss | High | — | 6 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2016-05-19 |
 | 34 | [277259](../reports/277259.md) | [marketplace.informatica.com] - Stored XSS | High | — | 6 | [jubabaghdad](https://hackerone.com/jubabaghdad) | 2017-12-15 |
-| 35 | [81191](../reports/81191.md) | [now.informatica.com] Reflective Xss | High | — | 6 | [alyssa_herrera](https://hackerone.com/alyssa_herrera) | 2016-05-19 |
-| 36 | [202951](../reports/202951.md) | [marketplace.informatica.com]- Stored XSS on Image title and | High | — | 5 | [fillawful](https://hackerone.com/fillawful) | 2017-04-21 |
-| 37 | [200034](../reports/200034.md) | [marketplace.informatica.com] Search XSS | High | — | 5 | [s_p_q_r](https://hackerone.com/s_p_q_r) | 2017-05-22 |
-| 38 | [190020](../reports/190020.md) | [careers.informatica.com] XSS on "isJTN" | High | — | 5 | [huntertxt](https://hackerone.com/huntertxt) | 2017-04-07 |
-| 39 | [106678](../reports/106678.md) | [now.informatica.com] Reflective XSS | High | — | 5 | [robd4k](https://hackerone.com/robd4k) | 2016-12-09 |
+| 35 | [232320](../reports/232320.md) | [doc.rt.informaticacloud.com] Reflected XSS via Stack Strace | High | — | 6 | [bigbear_](https://hackerone.com/bigbear_) | 2022-07-23 |
+| 36 | [200034](../reports/200034.md) | [marketplace.informatica.com] Search XSS | High | — | 5 | [s_p_q_r](https://hackerone.com/s_p_q_r) | 2017-05-22 |
+| 37 | [202951](../reports/202951.md) | [marketplace.informatica.com]- Stored XSS on Image title and | High | — | 5 | [fillawful](https://hackerone.com/fillawful) | 2017-04-21 |
+| 38 | [106678](../reports/106678.md) | [now.informatica.com] Reflective XSS | High | — | 5 | [robd4k](https://hackerone.com/robd4k) | 2016-12-09 |
+| 39 | [190020](../reports/190020.md) | [careers.informatica.com] XSS on "isJTN" | High | — | 5 | [huntertxt](https://hackerone.com/huntertxt) | 2017-04-07 |
 | 40 | [312292](../reports/312292.md) | [https://life.informatica.com] - information disclose  | High | — | 4 | [modam3r5](https://hackerone.com/modam3r5) | 2019-07-12 |
 | 41 | [190217](../reports/190217.md) | [marketplace.informatica.com] Profile stored XSS | High | — | 4 | [s_p_q_r](https://hackerone.com/s_p_q_r) | 2017-04-19 |
 | 42 | [45050](../reports/45050.md) | [community.informatica.com] - CSRF in Private Messages allow | High | — | 3 | [artem](https://hackerone.com/artem) | 2016-03-02 |

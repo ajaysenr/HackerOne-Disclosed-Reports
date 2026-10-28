@@ -30,8 +30,8 @@
 | 24 | [2332551](../reports/2332551.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 61 |
 | 25 | [2329466](../reports/2329466.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 61 |
 | 26 | [2197796](../reports/2197796.md) | GHES Management console EoP (editor to site admin) | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 56 |
-| 27 | [2329547](../reports/2329547.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 47 |
-| 28 | [2323292](../reports/2323292.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 47 |
+| 27 | [2323292](../reports/2323292.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 47 |
+| 28 | [2329547](../reports/2329547.md) | Management Console Editor Privilege Escalation to Root  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | High | — | 47 |
 | 29 | [825764](../reports/825764.md) | View Only to Root Privilege Escalation on UniFi Protect | [Ubiquiti Inc.](../by-program/ui.md) | UniFi Protect | High — CVSS 8.8 | — | 42 |
 | 30 | [1541273](../reports/1541273.md) | [WiiU/Switch] Remote code execution inside the ENL libr | [Nintendo](../by-program/nintendo.md) | Nintendo Switch applications for which N | High — CVSS 7.4 | — | 36 |
 | 31 | [323852](../reports/323852.md) | Firmware download/install vulnerable to CSRF | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | High — CVSS 8.8 | — | 35 |
@@ -42,15 +42,15 @@
 | 36 | [1812732](../reports/1812732.md) | [MK8DX] Improper metadata validation 2 | [Nintendo](../by-program/nintendo.md) | Nintendo Switch applications for which N | High — CVSS 8.2 | — | 16 |
 | 37 | [406614](../reports/406614.md) | Resource Consumption DOS on Edgemax v1.10.6 | [Ubiquiti Inc.](../by-program/ui.md) | EdgeMAX | High — CVSS 8.3 | — | 15 |
 | 38 | [519582](../reports/519582.md) | Catch mails sent to an SMTP Server over SSL using an Ev | [Ubiquiti Inc.](../by-program/ui.md) | UniFi | High — CVSS 7.5 | — | 13 |
-| 39 | [703659](../reports/703659.md) | RCE in AirOS 6.2.0 Devices with CSRF bypass | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | High — CVSS 8.8 | — | 12 |
-| 40 | [289264](../reports/289264.md) | Triggering RCE using XSS to bypass CSRF in PowerBeam M5 | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | High — CVSS 8.8 | — | 12 |
+| 39 | [289264](../reports/289264.md) | Triggering RCE using XSS to bypass CSRF in PowerBeam M5 | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | High — CVSS 8.8 | — | 12 |
+| 40 | [703659](../reports/703659.md) | RCE in AirOS 6.2.0 Devices with CSRF bypass | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | High — CVSS 8.8 | — | 12 |
 | 41 | [1008579](../reports/1008579.md) | Camera adoption DoS - UniFi Protect | [Ubiquiti Inc.](../by-program/ui.md) | UniFi Protect | High — CVSS 7.5 | — | 8 |
 | 42 | [313245](../reports/313245.md) | Code Execution in restricted CLI of EdgeSwitch | [Ubiquiti Inc.](../by-program/ui.md) | EdgeMAX | High — CVSS 7.2 | — | 8 |
 | 43 | [311884](../reports/311884.md) | Format String Vulnerability in the EdgeSwitch restricte | [Ubiquiti Inc.](../by-program/ui.md) | EdgeMAX | High — CVSS 7.2 | — | 7 |
 | 44 | [273449](../reports/273449.md) | Authenticated RCE in ToughSwitch | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | High — CVSS 8.8 | — | 6 |
 | 45 | [3770768](../reports/3770768.md) | [Switch] Remote stack buffer overflow in the LDN/LP2P D | [Nintendo](../by-program/nintendo.md) | Nintendo Switch System | High — CVSS 7.0 | — | 5 |
-| 46 | [3048061](../reports/3048061.md) | [Xenoblade Chronicles X: Definitive Edition] Buffer ove | [Nintendo](../by-program/nintendo.md) | Nintendo Switch applications for which N | High — CVSS 8.2 | — | 2 |
-| 47 | [3559522](../reports/3559522.md) | Splatoon 3 In-Match Integrity Bypass via Consensus Refl | [Nintendo](../by-program/nintendo.md) | Nintendo Switch applications for which N | High — CVSS 7.1 | — | 2 |
+| 46 | [3559522](../reports/3559522.md) | Splatoon 3 In-Match Integrity Bypass via Consensus Refl | [Nintendo](../by-program/nintendo.md) | Nintendo Switch applications for which N | High — CVSS 7.1 | — | 2 |
+| 47 | [3048061](../reports/3048061.md) | [Xenoblade Chronicles X: Definitive Edition] Buffer ove | [Nintendo](../by-program/nintendo.md) | Nintendo Switch applications for which N | High — CVSS 8.2 | — | 2 |
 | 48 | [1048322](../reports/1048322.md) | SMAP bypass | [PlayStation](../by-program/playstation.md) | PlayStation 5 | Medium — CVSS 5.9 | — | 110 |
 | 49 | [2197801](../reports/2197801.md) | Invite tokens have Insufficient entropy in GHES Managem | [GitHub](../by-program/github.md) | GitHub Enterprise Server | Medium | — | 81 |
 | 50 | [2190827](../reports/2190827.md) | Bypassing Collaborator Restrictions: Retaining Admin Ac | [GitHub](../by-program/github.md) | GitHub Enterprise Server | Medium | — | 57 |

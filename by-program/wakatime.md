@@ -27,16 +27,16 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 21 | [248588](../reports/248588.md) | [wakatime.com] HTML Injection github-btn.html | Low | — | 9 | [bobrov](https://hackerone.com/bobrov) | 2018-10-19 |
 | 22 | [244958](../reports/244958.md) | No redirect uri for Twitter Oath resulting in token leak | Low | — | 8 | [b3nac](https://hackerone.com/b3nac) | 2017-07-03 |
 | 23 | [244967](../reports/244967.md) | Clickjacking on authorized page https://wakatime.com/share/e | Low | — | 8 | [silv3rpoision](https://hackerone.com/silv3rpoision) | 2017-07-05 |
-| 24 | [244642](../reports/244642.md) | Forgot password link doesn't expire after used, only after s | Low | — | 7 | [mohammad_obaid](https://hackerone.com/mohammad_obaid) | 2017-07-03 |
+| 24 | [244614](../reports/244614.md) | Password token validation in https://wakatime.com/ | Low | — | 7 | [silv3rpoision](https://hackerone.com/silv3rpoision) | 2017-07-24 |
 | 25 | [245236](../reports/245236.md) | Missing filteration of meta characters in all full name fiel | Low | — | 7 | [silv3rpoision](https://hackerone.com/silv3rpoision) | 2017-07-04 |
 | 26 | [244971](../reports/244971.md) | No notificatoin sent on email after account deletion. | Low | — | 7 | [silv3rpoision](https://hackerone.com/silv3rpoision) | 2017-07-03 |
-| 27 | [244614](../reports/244614.md) | Password token validation in https://wakatime.com/ | Low | — | 7 | [silv3rpoision](https://hackerone.com/silv3rpoision) | 2017-07-24 |
+| 27 | [244642](../reports/244642.md) | Forgot password link doesn't expire after used, only after s | Low | — | 7 | [mohammad_obaid](https://hackerone.com/mohammad_obaid) | 2017-07-03 |
 | 28 | [244766](../reports/244766.md) | https://wakatime.com/ website CSP "script-src" includes "uns | Low | — | 6 | [silv3rpoision](https://hackerone.com/silv3rpoision) | 2017-07-24 |
-| 29 | [244909](../reports/244909.md) | Login page password - guessing attack | Low | — | 6 | [paxtammy](https://hackerone.com/paxtammy) | 2017-07-01 |
-| 30 | [244697](../reports/244697.md) | UI Redressing on Embedded Charts | Low | — | 6 | [mr_r3boot](https://hackerone.com/mr_r3boot) | 2017-07-05 |
-| 31 | [244724](../reports/244724.md) | Unsafe Inline and Eval CSP Usage | Low | — | 4 | [mr_r3boot](https://hackerone.com/mr_r3boot) | 2017-07-24 |
-| 32 | [275245](../reports/275245.md) | Can link to websites from profile | Low | — | 4 | [flex0geek](https://hackerone.com/flex0geek) | 2017-10-07 |
-| 33 | [275242](../reports/275242.md) | password token validation | Low | — | 4 | [flex0geek](https://hackerone.com/flex0geek) | 2017-10-07 |
+| 29 | [244697](../reports/244697.md) | UI Redressing on Embedded Charts | Low | — | 6 | [mr_r3boot](https://hackerone.com/mr_r3boot) | 2017-07-05 |
+| 30 | [244909](../reports/244909.md) | Login page password - guessing attack | Low | — | 6 | [paxtammy](https://hackerone.com/paxtammy) | 2017-07-01 |
+| 31 | [275245](../reports/275245.md) | Can link to websites from profile | Low | — | 4 | [flex0geek](https://hackerone.com/flex0geek) | 2017-10-07 |
+| 32 | [275242](../reports/275242.md) | password token validation | Low | — | 4 | [flex0geek](https://hackerone.com/flex0geek) | 2017-10-07 |
+| 33 | [244724](../reports/244724.md) | Unsafe Inline and Eval CSP Usage | Low | — | 4 | [mr_r3boot](https://hackerone.com/mr_r3boot) | 2017-07-24 |
 | 34 | [273560](../reports/273560.md) | Validation of Password reset tokens | Low | — | 3 | [saikiran-10097](https://hackerone.com/saikiran-10097) | 2017-10-01 |
 | 35 | [255034](../reports/255034.md) | Failure to check password history | Low | — | 3 | [c0d3fire](https://hackerone.com/c0d3fire) | 2017-07-30 |
 | 36 | [244778](../reports/244778.md) | Logout CSRF | Low | — | 0 | [caesar302](https://hackerone.com/caesar302) | 2017-08-29 |
@@ -48,9 +48,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 42 | [244677](../reports/244677.md) | Add arbitrary content to Password Reset Email | None | — | 24 | [footstep](https://hackerone.com/footstep) | 2017-07-20 |
 | 43 | [244555](../reports/244555.md) | Email Spoofing Via /api/v1/users/reset_password | None | — | 14 | [leet-boy](https://hackerone.com/leet-boy) | 2017-07-01 |
 | 44 | [246838](../reports/246838.md) | by pass rate limit exceed  | None | — | 11 | [abhiram](https://hackerone.com/abhiram) | 2017-07-10 |
-| 45 | [244813](../reports/244813.md) | No rate limit when creating new goals [https://wakatime.com/ | None | — | 10 | [e11x](https://hackerone.com/e11x) | 2017-07-03 |
-| 46 | [244434](../reports/244434.md) | Leaking password reset token via referrer from external Twit | None | — | 10 | [prateek_0490](https://hackerone.com/prateek_0490) | 2017-07-03 |
-| 47 | [245305](../reports/245305.md) | Two email addresses can access the same account | None | — | 10 | [streaak](https://hackerone.com/streaak) | 2017-07-03 |
+| 45 | [244434](../reports/244434.md) | Leaking password reset token via referrer from external Twit | None | — | 10 | [prateek_0490](https://hackerone.com/prateek_0490) | 2017-07-03 |
+| 46 | [245305](../reports/245305.md) | Two email addresses can access the same account | None | — | 10 | [streaak](https://hackerone.com/streaak) | 2017-07-03 |
+| 47 | [244813](../reports/244813.md) | No rate limit when creating new goals [https://wakatime.com/ | None | — | 10 | [e11x](https://hackerone.com/e11x) | 2017-07-03 |
 | 48 | [244474](../reports/244474.md) | Mailgun misconfiguration  | None | — | 9 | [hax0rgb](https://hackerone.com/hax0rgb) | 2017-07-01 |
 | 49 | [245334](../reports/245334.md) | Lack of Password Confirmation When Changing Email | None | — | 9 | [pratyushjanghel](https://hackerone.com/pratyushjanghel) | 2017-07-03 |
 | 50 | [245147](../reports/245147.md) | No rate limiting for confirmation email, can spam anyone wit | None | — | 8 | [pratyushjanghel](https://hackerone.com/pratyushjanghel) | 2017-07-03 |
@@ -63,8 +63,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 57 | [245124](../reports/245124.md) | Session not expired on logout | None | — | 5 | [ronygigi](https://hackerone.com/ronygigi) | 2017-07-03 |
 | 58 | [245311](../reports/245311.md) | Missing Account Deletion Notification | None | — | 5 | [pavanw3b](https://hackerone.com/pavanw3b) | 2017-07-03 |
 | 59 | [255627](../reports/255627.md) | SSH backdated version open port | None | — | 4 | [walidhossain010](https://hackerone.com/walidhossain010) | 2017-11-23 |
-| 60 | [675398](../reports/675398.md) | [invalid][false-positive] csrftoken on profile page | None | — | 3 | [tkd8](https://hackerone.com/tkd8) | 2019-08-20 |
-| 61 | [246302](../reports/246302.md) | Running 2 accounts with a single email | None | — | 3 | [atruba](https://hackerone.com/atruba) | 2017-07-06 |
-| 62 | [245514](../reports/245514.md) | Sensitive Cookie Without 'HttpOnly' Flag | None | — | 3 | [jatanvora](https://hackerone.com/jatanvora) | 2017-07-03 |
-| 63 | [658089](../reports/658089.md) | Rate Limit too lenient for endpoint sending emails | None | — | 3 | [harshita174](https://hackerone.com/harshita174) | 2020-08-19 |
+| 60 | [245514](../reports/245514.md) | Sensitive Cookie Without 'HttpOnly' Flag | None | — | 3 | [jatanvora](https://hackerone.com/jatanvora) | 2017-07-03 |
+| 61 | [675398](../reports/675398.md) | [invalid][false-positive] csrftoken on profile page | None | — | 3 | [tkd8](https://hackerone.com/tkd8) | 2019-08-20 |
+| 62 | [658089](../reports/658089.md) | Rate Limit too lenient for endpoint sending emails | None | — | 3 | [harshita174](https://hackerone.com/harshita174) | 2020-08-19 |
+| 63 | [246302](../reports/246302.md) | Running 2 accounts with a single email | None | — | 3 | [atruba](https://hackerone.com/atruba) | 2017-07-06 |
 | 64 | [245233](../reports/245233.md) | HTML - injection  | None | — | 1 | [b6bfe1fb5d9fa76d75aeb40](https://hackerone.com/b6bfe1fb5d9fa76d75aeb40) | 2021-10-12 |

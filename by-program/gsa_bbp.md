@@ -42,14 +42,14 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 36 | [262649](../reports/262649.md) | Information disclosure (system username) in the x-amz-meta-s | Low | — | 23 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-16 |
 | 37 | [374907](../reports/374907.md) | Root user disclosure in data.gov domain though x-amz-meta-s3 | Low | — | 22 | [sneakerz](https://hackerone.com/sneakerz) | 2019-07-29 |
 | 38 | [515574](../reports/515574.md) | Unclaimed Github Repository Takeover on https://www.data.gov | Low | — | 19 | [noobzombie](https://hackerone.com/noobzombie) | 2019-07-29 |
-| 39 | [249319](../reports/249319.md) | Race condition on the Federalist API endpoints can lead to t | Low | — | 17 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-05 |
-| 40 | [317005](../reports/317005.md) | Subdomain Takeover due to unclaimed domain pointing to AWS | Low | — | 17 | [zephrfish](https://hackerone.com/zephrfish) | 2019-08-26 |
+| 39 | [317005](../reports/317005.md) | Subdomain Takeover due to unclaimed domain pointing to AWS | Low | — | 17 | [zephrfish](https://hackerone.com/zephrfish) | 2019-08-26 |
+| 40 | [249319](../reports/249319.md) | Race condition on the Federalist API endpoints can lead to t | Low | — | 17 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-05 |
 | 41 | [250688](../reports/250688.md) | The Federalsit session cookie (federalist.sid) is not proper | Low | — | 16 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-09-05 |
 | 42 | [667032](../reports/667032.md) | Information disclosure (system username, server info) in the | Low | — | 5 | [ninja_cyber007](https://hackerone.com/ninja_cyber007) | 2019-08-06 |
 | 43 | [263913](../reports/263913.md) | Content injection via URL parameter. | None | — | 9 | [johnh4x0r](https://hackerone.com/johnh4x0r) | 2020-02-08 |
 | 44 | [263736](../reports/263736.md) | Email Spoofing - SPF record set to Neutral | None | — | 7 | [ramakanthk35](https://hackerone.com/ramakanthk35) | 2017-09-06 |
-| 45 | [263508](../reports/263508.md) | Server Side Misconfiguration (EMAIL SPOOFING)  | None | — | 6 | [swag01](https://hackerone.com/swag01) | 2017-09-14 |
+| 45 | [268679](../reports/268679.md) | Homo graphs attack  | None | — | 6 | [jaykp](https://hackerone.com/jaykp) | 2017-09-20 |
 | 46 | [266449](../reports/266449.md) | [api.data.gov] Leak Valid API With out Verification - | None | — | 6 | [0xsp](https://hackerone.com/0xsp) | 2017-09-20 |
-| 47 | [268679](../reports/268679.md) | Homo graphs attack  | None | — | 6 | [jaykp](https://hackerone.com/jaykp) | 2017-09-20 |
+| 47 | [263508](../reports/263508.md) | Server Side Misconfiguration (EMAIL SPOOFING)  | None | — | 6 | [swag01](https://hackerone.com/swag01) | 2017-09-14 |
 | 48 | [263733](../reports/263733.md) | Email Spoofing - SPF record set to Neutral | None | — | 2 | [ramakanthk35](https://hackerone.com/ramakanthk35) | 2017-09-06 |
 | 49 | [263866](../reports/263866.md) | Error Page Content Spoofing or Text Injection | None | — | 0 | [myskar](https://hackerone.com/myskar) | 2017-11-17 |

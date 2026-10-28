@@ -11,5 +11,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 5 | [965314](../reports/965314.md) | Leak of Google Sheets API credentials | High — CVSS 7.2 | — | 22 | [adsec2s](https://hackerone.com/adsec2s) | 2021-11-15 |
 | 6 | [988271](../reports/988271.md) | Reflected XSS in photogallery component on [https://market.a | Medium — CVSS 4.7 | — | 38 | [haxta4ok00](https://hackerone.com/haxta4ok00) | 2021-12-01 |
 | 7 | [965663](../reports/965663.md) | Reflected XSS on av.ru via `q` parameter at https://av.ru/co | Medium — CVSS 4.7 | — | 30 | [ronr](https://hackerone.com/ronr) | 2021-11-19 |
-| 8 | [958864](../reports/958864.md) | Open redirect (DOM-based) on av.ru via "return_url" paramete | Medium — CVSS 4.7 | — | 8 | [zophi](https://hackerone.com/zophi) | 2021-12-19 |
-| 9 | [963161](../reports/963161.md) | Unauthorized access to choice.av.ru control panel | Medium — CVSS 6.5 | — | 8 | [takeyourheart](https://hackerone.com/takeyourheart) | 2021-12-19 |
+| 8 | [963161](../reports/963161.md) | Unauthorized access to choice.av.ru control panel | Medium — CVSS 6.5 | — | 8 | [takeyourheart](https://hackerone.com/takeyourheart) | 2021-12-19 |
+| 9 | [958864](../reports/958864.md) | Open redirect (DOM-based) on av.ru via "return_url" paramete | Medium — CVSS 4.7 | — | 8 | [zophi](https://hackerone.com/zophi) | 2021-12-19 |

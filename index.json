@@ -240786,6 +240786,25 @@
     "votes": 1
   },
   {
+    "id": 3816330,
+    "url": "https://hackerone.com/reports/3816330",
+    "title": "Monero IPv6 /128 tracking bypasses per-IP limit, enables remote OOM",
+    "visibility": "no-content",
+    "program": "Monero",
+    "program_handle": "monero",
+    "reporter": "belair",
+    "severity": "high",
+    "cvss": 7.5,
+    "weakness": "Uncontrolled Resource Consumption",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-06-21",
+    "disclosed_at": "2026-10-28T20:13:57.562Z",
+    "votes": 5
+  },
+  {
     "id": 3816840,
     "url": "https://hackerone.com/reports/3816840",
     "title": "HTTPS Agent PFX object-array key collision allows mTLS client identity reuse across different per-request certificates",

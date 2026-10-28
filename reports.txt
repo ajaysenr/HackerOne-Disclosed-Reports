@@ -12320,6 +12320,7 @@ https://hackerone.com/reports/3809973 | Error-Based SQL Injection in ███�
 https://hackerone.com/reports/3812439 | HTTPS Agent TLS session reuse skips hostname verification across identity policies (incomplete fix of CVE-2026-48934)
 https://hackerone.com/reports/3813932 | [Splatoon 3] Kick other players with NplnLogin message
 https://hackerone.com/reports/3815767 | Permission Model bypass: process.report writes (and overwrites) files outside --allow-fs-write paths
+https://hackerone.com/reports/3816330 | Monero IPv6 /128 tracking bypasses per-IP limit, enables remote OOM
 https://hackerone.com/reports/3816840 | HTTPS Agent PFX object-array key collision allows mTLS client identity reuse across different per-request certificates
 https://hackerone.com/reports/3817602 | Node --run POSIX positional argument escaping allows shell command injection
 https://hackerone.com/reports/3819475 | Monero GUI OpenAlias DNSSEC-invalid resolution still writes spoofable address into recipient field

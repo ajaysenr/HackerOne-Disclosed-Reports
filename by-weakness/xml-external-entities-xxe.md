@@ -25,8 +25,8 @@
 | 19 | [2573567](../reports/2573567.md) | XML External Entity (XXE) Injection | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 21 |
 | 20 | [232614](../reports/232614.md) | Uploaded XLF files result in External Entity Execution | [Weblate](../by-program/weblate.md) | High — CVSS 7.1 | — | 18 |
 | 21 | [710654](../reports/710654.md) | XXE with RCE potential on the https://█████████ (CVE-2017-3548) | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 9 |
-| 22 | [2564265](../reports/2564265.md) | XML E██████ternal Entity (XXE) Injection in ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 8 |
-| 23 | [232330](../reports/232330.md) | Remote Code Execution (RCE) vulnerability in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 8 |
+| 22 | [232330](../reports/232330.md) | Remote Code Execution (RCE) vulnerability in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 8 |
+| 23 | [2564265](../reports/2564265.md) | XML E██████ternal Entity (XXE) Injection in ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 8 |
 | 24 | [248668](../reports/248668.md) | XXE on sms-be-vip.twitter.com in SXMP Processor | [X / xAI](../by-program/x.md) | Medium — CVSS 5.3 | — | 258 |
 | 25 | [1095645](../reports/1095645.md) | Authenticated XXE | [WordPress](../by-program/wordpress.md) | Medium | — | 41 |
 | 26 | [2299069](../reports/2299069.md) | xmlrpc.php &wp-cron.php files are enabled, and will used for (DDO | [Nextcloud](../by-program/nextcloud.md) | None | — | 41 |

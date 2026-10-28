@@ -33,10 +33,10 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 27 | [2972435](../reports/2972435.md) | Non-Production API Endpoints for the cloudwatch Service Fail | Medium — CVSS 5.0 | — | 23 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-04-25 |
 | 28 | [3029552](../reports/3029552.md) | Non-Production API Endpoints for the Global Accelerator Serv | Medium | — | 23 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
 | 29 | [3419587](../reports/3419587.md) | AWS Auto Scaling Service Reporting "AWS Internal" for CloudT | Medium | — | 23 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2026-01-05 |
-| 30 | [3042588](../reports/3042588.md) | Non-Production API Endpoints for the Health Service Fail to  | Medium — CVSS 5.0 | — | 21 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
-| 31 | [2805173](../reports/2805173.md) | A potential risk in the cloudFrontExtensionsConsole which ca | Medium — CVSS 6.5 | — | 21 | [zolaer9527](https://hackerone.com/zolaer9527) | 2024-11-19 |
-| 32 | [3418966](../reports/3418966.md) | Non-Production API Endpoints for the AI Ops Service Fails to | Medium | — | 18 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2026-01-06 |
-| 33 | [3031512](../reports/3031512.md) | Non-Production API Endpoints for the Glue Service Fail to Lo | Medium | — | 18 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-04-25 |
+| 30 | [2805173](../reports/2805173.md) | A potential risk in the cloudFrontExtensionsConsole which ca | Medium — CVSS 6.5 | — | 21 | [zolaer9527](https://hackerone.com/zolaer9527) | 2024-11-19 |
+| 31 | [3042588](../reports/3042588.md) | Non-Production API Endpoints for the Health Service Fail to  | Medium — CVSS 5.0 | — | 21 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
+| 32 | [3031512](../reports/3031512.md) | Non-Production API Endpoints for the Glue Service Fail to Lo | Medium | — | 18 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-04-25 |
+| 33 | [3418966](../reports/3418966.md) | Non-Production API Endpoints for the AI Ops Service Fails to | Medium | — | 18 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2026-01-06 |
 | 34 | [3072841](../reports/3072841.md) | Amazon Pinpoint SMS and Voice, version 2  Service Reporting  | Medium | — | 18 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
 | 35 | [3068422](../reports/3068422.md) | Non-Production API Endpoints for the Neptune Graph Service F | Medium | — | 17 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-27 |
 | 36 | [3044471](../reports/3044471.md) | Amazon Kendra Intelligent Ranking Service Reporting "AWS Int | Medium — CVSS 5.0 | — | 16 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
@@ -60,8 +60,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 54 | [3591725](../reports/3591725.md) | SQL Injection Detection Bypass in AWS WAF Managed Rules (AWS | None | — | 36 | [killnet-edc](https://hackerone.com/killnet-edc) | 2026-04-15 |
 | 55 | [3217840](../reports/3217840.md) | Remote Code Execution in Amazon MWAA due to outdated Apache  | None | — | 24 | [ricardojoserf](https://hackerone.com/ricardojoserf) | 2025-08-14 |
 | 56 | [3620761](../reports/3620761.md) | Health check errors silently dropped when channel buffer ful | None | — | 21 | [misop00p](https://hackerone.com/misop00p) | 2026-04-07 |
-| 57 | [3620760](../reports/3620760.md) | Encryption context keys and values logged at INFO level | None | — | 19 | [misop00p](https://hackerone.com/misop00p) | 2026-04-10 |
-| 58 | [3427370](../reports/3427370.md) | Command Injection on Amazon Q Developer CLI via malicious .a | None | — | 19 | [farmer](https://hackerone.com/farmer) | 2026-01-16 |
+| 57 | [3427370](../reports/3427370.md) | Command Injection on Amazon Q Developer CLI via malicious .a | None | — | 19 | [farmer](https://hackerone.com/farmer) | 2026-01-16 |
+| 58 | [3620760](../reports/3620760.md) | Encryption context keys and values logged at INFO level | None | — | 19 | [misop00p](https://hackerone.com/misop00p) | 2026-04-10 |
 | 59 | [3577145](../reports/3577145.md) | QuickSight Authorization Bypass: Chat Agents Accessible Desp | None | — | 10 | [jcow](https://hackerone.com/jcow) | 2026-05-12 |
-| 60 | [3738654](../reports/3738654.md) |  Firecracker Out-of-bounds Read/Write Local Privilege Escala | None | — | 4 | [terrynini38514](https://hackerone.com/terrynini38514) | 2026-06-11 |
-| 61 | [3083011](../reports/3083011.md) | Private AWS AMIs are temporarily being exposed publicly | None | — | 4 | [seth_art_dd](https://hackerone.com/seth_art_dd) | 2025-05-29 |
+| 60 | [3083011](../reports/3083011.md) | Private AWS AMIs are temporarily being exposed publicly | None | — | 4 | [seth_art_dd](https://hackerone.com/seth_art_dd) | 2025-05-29 |
+| 61 | [3738654](../reports/3738654.md) |  Firecracker Out-of-bounds Read/Write Local Privilege Escala | None | — | 4 | [terrynini38514](https://hackerone.com/terrynini38514) | 2026-06-11 |
