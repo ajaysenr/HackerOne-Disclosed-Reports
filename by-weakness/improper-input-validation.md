@@ -49,27 +49,27 @@
 | 43 | [1639364](../reports/1639364.md) | Local File Inclusion in download.php | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 25 |
 | 44 | [3702718](../reports/3702718.md) | MQTT state machine confusion: PINGRESP/DISCONNECT with non-zero r | [curl](../by-program/curl.md) | Medium | — | 20 |
 | 45 | [3403880](../reports/3403880.md) | Logical Flaw in curl_url_set Leads to Inconsistent Query Paramete | [curl](../by-program/curl.md) | Medium | — | 10 |
-| 46 | [1064149](../reports/1064149.md) | Improper Input Validation on User's Location on PUT /WhoService/p | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | Medium — CVSS 4.6 | — | 8 |
-| 47 | [1565619](../reports/1565619.md) | CVE-2022-27780: percent-encoded path separator in URL host | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 8 |
+| 46 | [1565619](../reports/1565619.md) | CVE-2022-27780: percent-encoded path separator in URL host | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 8 |
+| 47 | [1064149](../reports/1064149.md) | Improper Input Validation on User's Location on PUT /WhoService/p | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | Medium — CVSS 4.6 | — | 8 |
 | 48 | [1165223](../reports/1165223.md) | Missing captcha and rate limit protection in help form  | [MTN Group](../by-program/mtn_group.md) | Medium | — | 3 |
 | 49 | [1343492](../reports/1343492.md) | HTML Injection on tiktoktutorials via firstName parameter | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.1 | — | 97 |
 | 50 | [3175695](../reports/3175695.md) | Bypass "No Links" Restriction in Biography via Protocol-Relative  | [Mozilla](../by-program/mozilla.md) | Low | — | 95 |
 | 51 | [2215418](../reports/2215418.md) | Html injection in event Description  | [LinkedIn](../by-program/linkedin.md) | Low — CVSS 3.1 | — | 53 |
 | 52 | [2814750](../reports/2814750.md) | Inconsistent URL Parsing in curl Leading to Potential SSRF and Ac | [curl](../by-program/curl.md) | Low | — | 22 |
 | 53 | [3473384](../reports/3473384.md) | Functional Regression in Digest Authentication: Failure to handle | [curl](../by-program/curl.md) | Low | — | 20 |
-| 54 | [1528242](../reports/1528242.md) | Bypass global deny-lists by wrapping domains using "[]" in https: | [Stripe](../by-program/stripe.md) | Low — CVSS 3.7 | — | 19 |
-| 55 | [1166073](../reports/1166073.md) | Hyper Link Injection while signup  | [UPchieve](../by-program/upchieve.md) | Low | — | 19 |
+| 54 | [1166073](../reports/1166073.md) | Hyper Link Injection while signup  | [UPchieve](../by-program/upchieve.md) | Low | — | 19 |
+| 55 | [1528242](../reports/1528242.md) | Bypass global deny-lists by wrapping domains using "[]" in https: | [Stripe](../by-program/stripe.md) | Low — CVSS 3.7 | — | 19 |
 | 56 | [3641893](../reports/3641893.md) | Cookie attribute TAB injection regression in Set-Cookie parsing | [curl](../by-program/curl.md) | Low | — | 18 |
-| 57 | [838647](../reports/838647.md) | Improper Input Validation on User's Location on PUT /WhoService/p | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | Low | — | 15 |
-| 58 | [1610316](../reports/1610316.md) | Improper user validation on mentions and hashtags | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.5 | — | 15 |
+| 57 | [1610316](../reports/1610316.md) | Improper user validation on mentions and hashtags | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.5 | — | 15 |
+| 58 | [838647](../reports/838647.md) | Improper Input Validation on User's Location on PUT /WhoService/p | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | Low | — | 15 |
 | 59 | [3509396](../reports/3509396.md) | IMAP Protocol Desynchronization and Response Smuggling via Naive  | [curl](../by-program/curl.md) | Low | — | 14 |
 | 60 | [1613943](../reports/1613943.md) | CVE-2022-35252: control code in cookie denial of service | [curl](../by-program/curl.md) | Low | — | 13 |
 | 61 | [385239](../reports/385239.md) | Add non-existent room moderator | [Chaturbate](../by-program/chaturbate.md) | Low | — | 11 |
 | 62 | [1686935](../reports/1686935.md) | CVE-2022-35252: control code in cookie denial of service | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 8 |
-| 63 | [4113412](../reports/4113412.md) | libcurl RTSP `CURLOPT_CRLF` conversion allows a request body to b | [curl](../by-program/curl.md) | Low | — | 0 |
-| 64 | [4112912](../reports/4112912.md) | CVE-2026-111481: server-set cookie still aborts cookie jar | [curl](../by-program/curl.md) | Low | — | 0 |
-| 65 | [4127231](../reports/4127231.md) | Derived cookie Path aborts cookie jar loading in curl 8.23.0 | [curl](../by-program/curl.md) | Low | — | 0 |
-| 66 | [4127756](../reports/4127756.md) | urlapi: CURLUPART_HOST accepts text after an IPv6 zone ip and URL | [curl](../by-program/curl.md) | Low | — | 0 |
+| 63 | [4127231](../reports/4127231.md) | Derived cookie Path aborts cookie jar loading in curl 8.23.0 | [curl](../by-program/curl.md) | Low | — | 0 |
+| 64 | [4127756](../reports/4127756.md) | urlapi: CURLUPART_HOST accepts text after an IPv6 zone ip and URL | [curl](../by-program/curl.md) | Low | — | 0 |
+| 65 | [4112912](../reports/4112912.md) | CVE-2026-111481: server-set cookie still aborts cookie jar | [curl](../by-program/curl.md) | Low | — | 0 |
+| 66 | [4113412](../reports/4113412.md) | libcurl RTSP `CURLOPT_CRLF` conversion allows a request body to b | [curl](../by-program/curl.md) | Low | — | 0 |
 | 67 | [423437](../reports/423437.md) | H1514 Shopify API ruby SDK session setup lacks input validation,  | [Shopify](../by-program/shopify.md) | None | — | 11 |
 | 68 | [726117](../reports/726117.md) | SMB access smuggling via FILE URL on Windows | [curl](../by-program/curl.md) | None | — | 10 |
 | 69 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | [curl](../by-program/curl.md) | None | — | 1 |

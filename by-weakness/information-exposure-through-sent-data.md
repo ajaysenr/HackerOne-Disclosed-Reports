@@ -23,10 +23,10 @@
 | 17 | [3673277](../reports/3673277.md) | libcurl stale CURLOPT_AUTOREFERER leaks a previous request URL to | [curl](../by-program/curl.md) | Low | — | 22 |
 | 18 | [4093443](../reports/4093443.md) |  Cookie attribute truncation in curl drops Secure/HttpOnly protec | [curl](../by-program/curl.md) | Low | — | 1 |
 | 19 | [3769293](../reports/3769293.md) | Low priority HSTS bypass in curl_easy_duphandle() | [curl](../by-program/curl.md) | Low | — | 1 |
-| 20 | [4071872](../reports/4071872.md) | libcurl: Secure=1 cookie flag bypasses the 8.22.0 fix and leaks o | [curl](../by-program/curl.md) | Low | — | 1 |
-| 21 | [4123571](../reports/4123571.md) | Redirect to imap/pop3/smtp (SASL) or sftp/scp (libssh) authentica | [curl](../by-program/curl.md) | Low | — | 1 |
-| 22 | [4123474](../reports/4123474.md) | Cross-protocol redirect to imap:// or smtp:// uploads the -F/MIME | [curl](../by-program/curl.md) | Low | — | 0 |
-| 23 | [4114965](../reports/4114965.md) | Explicit NO_PROXY /0 CIDR rules fail to bypass HTTP proxy for IP- | [curl](../by-program/curl.md) | Low | — | 0 |
+| 20 | [4123571](../reports/4123571.md) | Redirect to imap/pop3/smtp (SASL) or sftp/scp (libssh) authentica | [curl](../by-program/curl.md) | Low | — | 1 |
+| 21 | [4071872](../reports/4071872.md) | libcurl: Secure=1 cookie flag bypasses the 8.22.0 fix and leaks o | [curl](../by-program/curl.md) | Low | — | 1 |
+| 22 | [4114965](../reports/4114965.md) | Explicit NO_PROXY /0 CIDR rules fail to bypass HTTP proxy for IP- | [curl](../by-program/curl.md) | Low | — | 0 |
+| 23 | [4123474](../reports/4123474.md) | Cross-protocol redirect to imap:// or smtp:// uploads the -F/MIME | [curl](../by-program/curl.md) | Low | — | 0 |
 | 24 | [2979176](../reports/2979176.md) | Unauthenticated API Access Exposing Premium Content and Financial | [XVIDEOS](../by-program/xvideos.md) | None | — | 46 |
 | 25 | [2979153](../reports/2979153.md) |  API Data Leakage Vulnerability Report - `xvcams.com` | [XVIDEOS](../by-program/xvideos.md) | None | — | 33 |
 | 26 | [1395068](../reports/1395068.md) | The response shows the nginx version | [Judge.me ](../by-program/judgeme.md) | None | — | 12 |

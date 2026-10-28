@@ -26,19 +26,19 @@
 | 20 | [237357](../reports/237357.md) | CRLF Injection at vpn.bitstrips.com | [Snapchat](../by-program/snapchat.md) | Medium | — | 24 |
 | 21 | [1516377](../reports/1516377.md) | SMTP Command Injection in iCalendar Attachments to Emails via New | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.1 | — | 22 |
 | 22 | [3235428](../reports/3235428.md) | CRLF injection in libcurl's SMTP client via --mail-from and --mai | [curl](../by-program/curl.md) | Medium | — | 21 |
-| 23 | [3481595](../reports/3481595.md) | SMTP CRLF Injection & Protocol Desynchronization in libcurl | [curl](../by-program/curl.md) | Medium | — | 16 |
-| 24 | [476257](../reports/476257.md) | CRLF injection at https://mariadb.org/. | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 5.3 | — | 16 |
+| 23 | [476257](../reports/476257.md) | CRLF injection at https://mariadb.org/. | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 5.3 | — | 16 |
+| 24 | [3481595](../reports/3481595.md) | SMTP CRLF Injection & Protocol Desynchronization in libcurl | [curl](../by-program/curl.md) | Medium | — | 16 |
 | 25 | [413115](../reports/413115.md) | CRLF injection agentcrm.8x8.com | [8x8](../by-program/8x8-bounty.md) | Medium | — | 12 |
-| 26 | [3414088](../reports/3414088.md) | SMTP CRLF Command Injection in CURLOPT_MAIL_FROM and CURLOPT_MAIL | [curl](../by-program/curl.md) | Medium | — | 11 |
-| 27 | [1820955](../reports/1820955.md) | CRLF Injection in Nodejs ‘undici’ via host | [Node.js](../by-program/nodejs.md) | Medium — CVSS 4.6 | — | 11 |
+| 26 | [1820955](../reports/1820955.md) | CRLF Injection in Nodejs ‘undici’ via host | [Node.js](../by-program/nodejs.md) | Medium — CVSS 4.6 | — | 11 |
+| 27 | [3414088](../reports/3414088.md) | SMTP CRLF Command Injection in CURLOPT_MAIL_FROM and CURLOPT_MAIL | [curl](../by-program/curl.md) | Medium | — | 11 |
 | 28 | [3633534](../reports/3633534.md) | CRLF Injection in HAProxy PROXY Protocol via CURLOPT_HAPROXY_CLIE | [curl](../by-program/curl.md) | Medium | — | 9 |
 | 29 | [3484506](../reports/3484506.md) | CRLF Injection in Gopher Protocol (`lib/gopher.c`) | [curl](../by-program/curl.md) | Medium | — | 9 |
-| 30 | [232327](../reports/232327.md) | CRLF Injection on openvpn.svc.ubnt.com | [Ubiquiti Inc.](../by-program/ui.md) | Medium | — | 8 |
+| 30 | [1402249](../reports/1402249.md) | Control character filtering misses leading and trailing whitespac | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 8 |
 | 31 | [3911605](../reports/3911605.md) | SMTP CRLF injection in custom SMTP recipient operand allows addit | [curl](../by-program/curl.md) | Medium | — | 8 |
-| 32 | [1402249](../reports/1402249.md) | Control character filtering misses leading and trailing whitespac | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 8 |
+| 32 | [232327](../reports/232327.md) | CRLF Injection on openvpn.svc.ubnt.com | [Ubiquiti Inc.](../by-program/ui.md) | Medium | — | 8 |
 | 33 | [481512](../reports/481512.md) | CRLF injection on https://buildbot.mariadb.org | [MariaDB](../by-program/mariadb.md) | Medium | — | 7 |
-| 34 | [490997](../reports/490997.md) | [downloads.mariadb.org] CRLF injection in case of encoded query m | [MariaDB](../by-program/mariadb.md) | Medium | — | 6 |
-| 35 | [1664019](../reports/1664019.md) | CVE-2022-35948: CRLF Injection in Nodejs ‘undici’ via Content-Typ | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 6 |
+| 34 | [1664019](../reports/1664019.md) | CVE-2022-35948: CRLF Injection in Nodejs ‘undici’ via Content-Typ | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 6 |
+| 35 | [490997](../reports/490997.md) | [downloads.mariadb.org] CRLF injection in case of encoded query m | [MariaDB](../by-program/mariadb.md) | Medium | — | 6 |
 | 36 | [245485](../reports/245485.md) | CRLF Injection on ███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
 | 37 | [266030](../reports/266030.md) | Add arbitrary value in reset password cookie | [Legal Robot](../by-program/legalrobot.md) | Medium | — | 3 |
 | 38 | [3963494](../reports/3963494.md) | RTSP CRLF injection in libcurl allows CURLOPT_RTSP_* values to in | [curl](../by-program/curl.md) | Medium | — | 3 |
@@ -49,8 +49,8 @@
 | 43 | [1943013](../reports/1943013.md) | CRLF Inection at `██████████` | [Mars](../by-program/mars.md) | Low | — | 14 |
 | 44 | [4023506](../reports/4023506.md) | libcurl LDAP LDIF: entry DN and attribute names written without R | [curl](../by-program/curl.md) | Low | — | 12 |
 | 45 | [1054282](../reports/1054282.md) | Protocol Smuggling over LDAP password field | [ownCloud](../by-program/owncloud.md) | Low | — | 11 |
-| 46 | [234758](../reports/234758.md) | CRLF Injection on https://vpn.mixmax.com | [Mixmax](../by-program/mixmax.md) | Low | — | 8 |
-| 47 | [225936](../reports/225936.md) | Cross-site scripting (XSS) vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 8 |
+| 46 | [225936](../reports/225936.md) | Cross-site scripting (XSS) vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 8 |
+| 47 | [234758](../reports/234758.md) | CRLF Injection on https://vpn.mixmax.com | [Mixmax](../by-program/mixmax.md) | Low | — | 8 |
 | 48 | [4124486](../reports/4124486.md) | RTSP ANNOUNCE/SET_PARAMETER upload with --use-ascii / CURLOPT_TRA | [curl](../by-program/curl.md) | Low | — | 1 |
 | 49 | [4123654](../reports/4123654.md) | SCP upload with --crlf sends more bytes than the size declared to | [curl](../by-program/curl.md) | Low | — | 0 |
 | 50 | [3133379](../reports/3133379.md) | CRLF Injection in `--proxy-header` allows extra HTTP headers (CWE | [curl](../by-program/curl.md) | None | — | 42 |

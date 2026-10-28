@@ -25,6 +25,6 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 19 | [277192](../reports/277192.md) | Host Header Injection and Cache Poisoning | None | — | 4 | [kiddie](https://hackerone.com/kiddie) | 2017-10-24 |
 | 20 | [281449](../reports/281449.md) | Limited Account Takeover via Backup codes  | None | — | 3 | [gopalsingh27](https://hackerone.com/gopalsingh27) | 2017-10-26 |
 | 21 | [283786](../reports/283786.md) | Host Header Injection or cache poisoning in multiple domains | None | — | 2 | [thalaivarsubu](https://hackerone.com/thalaivarsubu) | 2017-10-31 |
-| 22 | [283502](../reports/283502.md) | XST(Cross Site Tracing) | None | — | 1 | [thalaivarsubu](https://hackerone.com/thalaivarsubu) | 2017-10-31 |
-| 23 | [281472](../reports/281472.md) | Unsubscribe Any User | None | — | 1 | [hk755a](https://hackerone.com/hk755a) | 2017-11-29 |
+| 22 | [281472](../reports/281472.md) | Unsubscribe Any User | None | — | 1 | [hk755a](https://hackerone.com/hk755a) | 2017-11-29 |
+| 23 | [283502](../reports/283502.md) | XST(Cross Site Tracing) | None | — | 1 | [thalaivarsubu](https://hackerone.com/thalaivarsubu) | 2017-10-31 |
 | 24 | [278220](../reports/278220.md) | Limited arbitrary text inclusion in user invite emails | None | — | 0 | [hk755a](https://hackerone.com/hk755a) | 2017-11-29 |
