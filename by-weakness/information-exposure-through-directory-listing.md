@@ -37,5 +37,5 @@
 | 31 | [230098](../reports/230098.md) | Full directory path listing | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 14 |
 | 32 | [228112](../reports/228112.md) | Directory Disclose,Email Disclose Zendmail vulnerability | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 8 |
 | 33 | [260221](../reports/260221.md) | Information Exposure Through Directory Listing | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
-| 34 | [798767](../reports/798767.md) | Accessing repository and other files  by directory listing | [Acronis](../by-program/acronis.md) | None | — | 2 |
-| 35 | [1195432](../reports/1195432.md) | Found a url on source code which was disclosing different juicy i | [Sifchain](../by-program/sifchain.md) | None | — | 2 |
+| 34 | [1195432](../reports/1195432.md) | Found a url on source code which was disclosing different juicy i | [Sifchain](../by-program/sifchain.md) | None | — | 2 |
+| 35 | [798767](../reports/798767.md) | Accessing repository and other files  by directory listing | [Acronis](../by-program/acronis.md) | None | — | 2 |

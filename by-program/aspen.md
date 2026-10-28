@@ -10,5 +10,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 4 | [272387](../reports/272387.md) | aspen | clickjacking | Low | — | 2 | [sadhu16](https://hackerone.com/sadhu16) | 2017-09-27 |
 | 5 | [272824](../reports/272824.md) | client_secret Token disclosure  | None | — | 12 | [yumi](https://hackerone.com/yumi) | 2017-09-28 |
 | 6 | [272982](../reports/272982.md) | Information leakage on django.aspen.io | None | — | 2 | [the_krisk](https://hackerone.com/the_krisk) | 2017-09-29 |
-| 7 | [272426](../reports/272426.md) | Server Path Disclosure  | None | — | 0 | [f50c1e7y](https://hackerone.com/f50c1e7y) | 2017-09-27 |
-| 8 | [290889](../reports/290889.md) | Session does't get expired after changing the password in ht | None | — | 0 | [kalyani64](https://hackerone.com/kalyani64) | 2017-11-16 |
+| 7 | [290889](../reports/290889.md) | Session does't get expired after changing the password in ht | None | — | 0 | [kalyani64](https://hackerone.com/kalyani64) | 2017-11-16 |
+| 8 | [272426](../reports/272426.md) | Server Path Disclosure  | None | — | 0 | [f50c1e7y](https://hackerone.com/f50c1e7y) | 2017-09-27 |

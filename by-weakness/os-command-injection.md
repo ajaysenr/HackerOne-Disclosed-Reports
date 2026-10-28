@@ -18,8 +18,8 @@
 | 12 | [536134](../reports/536134.md) | Store Development Resource Center was vulnerable to a Remote Code | [Starbucks](../by-program/starbucks.md) | Critical — CVSS 10.0 | — | 57 |
 | 13 | [926169](../reports/926169.md) | Shell command injection in https://partner.steamgames.com/bundles | [Valve](../by-program/valve.md) | Critical — CVSS 9.6 | — | 46 |
 | 14 | [1327769](../reports/1327769.md) | RCE in ███ [CVE-2021-26084] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 39 |
-| 15 | [671749](../reports/671749.md) | Pulse Secure File disclosure, clear text and potential RCE | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 31 |
-| 16 | [899964](../reports/899964.md) | XSS leads to RCE on the RocketChat desktop client. | [Rocket.Chat](../by-program/rocket_chat.md) | Critical | — | 31 |
+| 15 | [899964](../reports/899964.md) | XSS leads to RCE on the RocketChat desktop client. | [Rocket.Chat](../by-program/rocket_chat.md) | Critical | — | 31 |
+| 16 | [671749](../reports/671749.md) | Pulse Secure File disclosure, clear text and potential RCE | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 31 |
 | 17 | [1425565](../reports/1425565.md) | Remote code injection in Log4j on  https://mymtn.mtncongo.net - C | [MTN Group](../by-program/mtn_group.md) | Critical | — | 30 |
 | 18 | [810755](../reports/810755.md) | Remote OS Command Execution on Oracle Weblogic server via [CVE-20 | [MTN Group](../by-program/mtn_group.md) | Critical — CVSS 9.4 | — | 29 |
 | 19 | [654888](../reports/654888.md) | OS Command Injection in Nexus Repository Manager 2.x | [Central Security Project](../by-program/central-security-project.md) | Critical — CVSS 9.1 | — | 28 |
@@ -35,8 +35,8 @@
 | 29 | [924151](../reports/924151.md) | Insecure use of shell.openExternal() in Rocket.Chat Desktop App l | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 9.0 | — | 12 |
 | 30 | [685447](../reports/685447.md) | gitlabhook OS Command Injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 10 |
 | 31 | [341710](../reports/341710.md) | [git-dummy-commit] Command injection on the msg parameter | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 5 |
-| 32 | [331032](../reports/331032.md) | [buttle] Remote Command Execution via unsanitized PHP filename wh | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 4 |
-| 33 | [634630](../reports/634630.md) | Remote OS command Execution in the 3 more Oracle Weblogic on the  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
+| 32 | [634630](../reports/634630.md) | Remote OS command Execution in the 3 more Oracle Weblogic on the  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
+| 33 | [331032](../reports/331032.md) | [buttle] Remote Command Execution via unsanitized PHP filename wh | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 4 |
 | 34 | [511459](../reports/511459.md) | [listening-processes] Command Injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 0 |
 | 35 | [546753](../reports/546753.md) | Remote Code Execution via Extract App Plugin | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.4 | — | 124 |
 | 36 | [955016](../reports/955016.md) | GitLab-Runner on Windows `DOCKER_AUTH_CONFIG` container host Comm | [GitLab](../by-program/gitlab.md) | High | — | 77 |

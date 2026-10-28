@@ -24,45 +24,45 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 18 | [260420](../reports/260420.md) | [dev-nightly.ubnt.com] Local File Reading | High | — | 31 | [bobrov](https://hackerone.com/bobrov) | 2017-09-14 |
 | 19 | [796414](../reports/796414.md) | Readonly to Root Privilege Escalation on EdgeSwitch | High — CVSS 8.8 | — | 27 | [fr33rh](https://hackerone.com/fr33rh) | 2021-05-23 |
 | 20 | [229622](../reports/229622.md) | Directory traversal at https://nightly.ubnt.com | High — CVSS 7.5 | — | 26 | [grampae](https://hackerone.com/grampae) | 2017-10-10 |
-| 21 | [179164](../reports/179164.md) | Stored XSS in community.ubnt.com | High | — | 22 | [vibs123i](https://hackerone.com/vibs123i) | 2017-04-28 |
-| 22 | [329749](../reports/329749.md) | UniFi Video Server web interface Configuration Restore CSRF  | High — CVSS 8.8 | — | 22 | [ajxchapman](https://hackerone.com/ajxchapman) | 2019-04-28 |
+| 21 | [329749](../reports/329749.md) | UniFi Video Server web interface Configuration Restore CSRF  | High — CVSS 8.8 | — | 22 | [ajxchapman](https://hackerone.com/ajxchapman) | 2019-04-28 |
+| 22 | [179164](../reports/179164.md) | Stored XSS in community.ubnt.com | High | — | 22 | [vibs123i](https://hackerone.com/vibs123i) | 2017-04-28 |
 | 23 | [179986](../reports/179986.md) | Exposed API-key allows to control nightly builds of firmware | High | — | 21 | [tripwire](https://hackerone.com/tripwire) | 2017-10-09 |
 | 24 | [181665](../reports/181665.md) | Subdomain Takeover (moderator.ubnt.com) | High | — | 19 | [madrobot](https://hackerone.com/madrobot) | 2017-02-06 |
 | 25 | [774393](../reports/774393.md) | Web Server Predictable Session ID on EdgeSwitch  | High — CVSS 8.8 | — | 18 | [fr33rh](https://hackerone.com/fr33rh) | 2021-05-23 |
 | 26 | [797988](../reports/797988.md) | SNMP Community String Disclosure to ReadOnly Users on EdgeSw | High — CVSS 8.8 | — | 17 | [fr33rh](https://hackerone.com/fr33rh) | 2021-05-23 |
 | 27 | [304175](../reports/304175.md) | Reflected XSS | High — CVSS 8.1 | — | 16 | [aidantwoods](https://hackerone.com/aidantwoods) | 2018-09-25 |
 | 28 | [406614](../reports/406614.md) | Resource Consumption DOS on Edgemax v1.10.6 | High — CVSS 8.3 | — | 15 | [grampae](https://hackerone.com/grampae) | 2019-08-04 |
-| 29 | [221454](../reports/221454.md) | Privilege escalation in the client impersonation functionali | High | — | 13 | [twicedi](https://hackerone.com/twicedi) | 2017-11-13 |
-| 30 | [519582](../reports/519582.md) | Catch mails sent to an SMTP Server over SSL using an Evil SM | High — CVSS 7.5 | — | 13 | [smartnoob](https://hackerone.com/smartnoob) | 2019-08-22 |
+| 29 | [519582](../reports/519582.md) | Catch mails sent to an SMTP Server over SSL using an Evil SM | High — CVSS 7.5 | — | 13 | [smartnoob](https://hackerone.com/smartnoob) | 2019-08-22 |
+| 30 | [221454](../reports/221454.md) | Privilege escalation in the client impersonation functionali | High | — | 13 | [twicedi](https://hackerone.com/twicedi) | 2017-11-13 |
 | 31 | [703659](../reports/703659.md) | RCE in AirOS 6.2.0 Devices with CSRF bypass | High — CVSS 8.8 | — | 12 | [murmus](https://hackerone.com/murmus) | 2020-06-30 |
-| 32 | [289264](../reports/289264.md) | Triggering RCE using XSS to bypass CSRF in PowerBeam M5 300 | High — CVSS 8.8 | — | 12 | [maxpl0it](https://hackerone.com/maxpl0it) | 2018-06-19 |
-| 33 | [129698](../reports/129698.md) | UniFi Video Server - Broken access control on system configu | High — CVSS 7.7 | — | 12 | [hamlon](https://hackerone.com/hamlon) | 2018-11-07 |
+| 32 | [129698](../reports/129698.md) | UniFi Video Server - Broken access control on system configu | High — CVSS 7.7 | — | 12 | [hamlon](https://hackerone.com/hamlon) | 2018-11-07 |
+| 33 | [289264](../reports/289264.md) | Triggering RCE using XSS to bypass CSRF in PowerBeam M5 300 | High — CVSS 8.8 | — | 12 | [maxpl0it](https://hackerone.com/maxpl0it) | 2018-06-19 |
 | 34 | [330051](../reports/330051.md) | UniFi Video Server web interface admin user Firmware Update  | High — CVSS 8.4 | — | 11 | [ajxchapman](https://hackerone.com/ajxchapman) | 2020-04-01 |
 | 35 | [329659](../reports/329659.md) | UniFi Video web interface Configuration Restore user privile | High — CVSS 8.0 | — | 11 | [ajxchapman](https://hackerone.com/ajxchapman) | 2020-04-01 |
 | 36 | [129641](../reports/129641.md) | UniFi Video Server - Arbitrary file upload as SYSTEM | High — CVSS 7.7 | — | 10 | [hamlon](https://hackerone.com/hamlon) | 2018-11-07 |
-| 37 | [202354](../reports/202354.md) | Stored XSS / Bypassing .htaccess protection in http://nodebb | High | — | 9 | [inhibitor181](https://hackerone.com/inhibitor181) | 2017-09-28 |
-| 38 | [294048](../reports/294048.md) | Stored XSS => community.ubnt.com  | High | — | 9 | [khizer47](https://hackerone.com/khizer47) | 2018-01-10 |
-| 39 | [1008579](../reports/1008579.md) | Camera adoption DoS - UniFi Protect | High — CVSS 7.5 | — | 8 | [rchase](https://hackerone.com/rchase) | 2021-02-12 |
-| 40 | [313245](../reports/313245.md) | Code Execution in restricted CLI of EdgeSwitch | High — CVSS 7.2 | — | 8 | [maxpl0it](https://hackerone.com/maxpl0it) | 2018-06-19 |
-| 41 | [183458](../reports/183458.md) | Command injection in the process of downloading the latest v | High — CVSS 8.3 | — | 7 | [dblack](https://hackerone.com/dblack) | 2017-12-11 |
-| 42 | [311884](../reports/311884.md) | Format String Vulnerability in the EdgeSwitch restricted CLI | High — CVSS 7.2 | — | 7 | [maxpl0it](https://hackerone.com/maxpl0it) | 2018-06-19 |
+| 37 | [294048](../reports/294048.md) | Stored XSS => community.ubnt.com  | High | — | 9 | [khizer47](https://hackerone.com/khizer47) | 2018-01-10 |
+| 38 | [202354](../reports/202354.md) | Stored XSS / Bypassing .htaccess protection in http://nodebb | High | — | 9 | [inhibitor181](https://hackerone.com/inhibitor181) | 2017-09-28 |
+| 39 | [313245](../reports/313245.md) | Code Execution in restricted CLI of EdgeSwitch | High — CVSS 7.2 | — | 8 | [maxpl0it](https://hackerone.com/maxpl0it) | 2018-06-19 |
+| 40 | [1008579](../reports/1008579.md) | Camera adoption DoS - UniFi Protect | High — CVSS 7.5 | — | 8 | [rchase](https://hackerone.com/rchase) | 2021-02-12 |
+| 41 | [311884](../reports/311884.md) | Format String Vulnerability in the EdgeSwitch restricted CLI | High — CVSS 7.2 | — | 7 | [maxpl0it](https://hackerone.com/maxpl0it) | 2018-06-19 |
+| 42 | [183458](../reports/183458.md) | Command injection in the process of downloading the latest v | High — CVSS 8.3 | — | 7 | [dblack](https://hackerone.com/dblack) | 2017-12-11 |
 | 43 | [273449](../reports/273449.md) | Authenticated RCE in ToughSwitch | High — CVSS 8.8 | — | 6 | [maxpl0it](https://hackerone.com/maxpl0it) | 2018-06-19 |
 | 44 | [140793](../reports/140793.md) | UniFi Video v3.2.2 (Windows) Local Privileges Escalation due | High — CVSS 7.8 | — | 3 | [mrtuxracer](https://hackerone.com/mrtuxracer) | 2017-12-20 |
 | 45 | [512958](../reports/512958.md) | Login as root without password on EdgeSwitchX | Medium — CVSS 4.8 | — | 56 | [fr33rh](https://hackerone.com/fr33rh) | 2019-03-31 |
 | 46 | [197958](../reports/197958.md) | [EdgeSwitch] Web GUI command injection as root with Privileg | Medium — CVSS 6.8 | — | 27 | [phenix](https://hackerone.com/phenix) | 2017-07-21 |
-| 47 | [201984](../reports/201984.md) | Wordpress directories/files visible to internet | Medium | — | 18 | [tk0](https://hackerone.com/tk0) | 2017-03-08 |
-| 48 | [350288](../reports/350288.md) | Two Factor Authentication Bypass | Medium — CVSS 6.6 | — | 18 | [amans](https://hackerone.com/amans) | 2018-07-16 |
+| 47 | [350288](../reports/350288.md) | Two Factor Authentication Bypass | Medium — CVSS 6.6 | — | 18 | [amans](https://hackerone.com/amans) | 2018-07-16 |
+| 48 | [201984](../reports/201984.md) | Wordpress directories/files visible to internet | Medium | — | 18 | [tk0](https://hackerone.com/tk0) | 2017-03-08 |
 | 49 | [200753](../reports/200753.md) | [nutty.ubnt.com] DOM Based XSS nuttyapp github-btn.html | Medium | — | 17 | [bobrov](https://hackerone.com/bobrov) | 2017-03-30 |
 | 50 | [508256](../reports/508256.md) | EdgeSwitch Command Injection | Medium — CVSS 4.9 | — | 15 | [fr33rh](https://hackerone.com/fr33rh) | 2019-03-31 |
 | 51 | [332631](../reports/332631.md) | Bypass blocked profile protection on aircrm.ubnt.com | Medium | — | 13 | [bogdantc](https://hackerone.com/bogdantc) | 2018-07-03 |
-| 52 | [210188](../reports/210188.md) | Subdomain takeover on https://cloudfront.ubnt.com/ due to no | Medium | — | 12 | [linkks](https://hackerone.com/linkks) | 2017-05-07 |
-| 53 | [219014](../reports/219014.md) | [dev-unifi-go.ubnt.com] Insecure CORS, Stealing Cookies | Medium | — | 12 | [bobrov](https://hackerone.com/bobrov) | 2017-08-28 |
-| 54 | [386570](../reports/386570.md) | Reflected XSS in Nanostation Loco M2 - AirOS ver=6.1.7 | Medium — CVSS 6.1 | — | 10 | [grampae](https://hackerone.com/grampae) | 2020-06-01 |
-| 55 | [802079](../reports/802079.md) | Unauthenticated request allows changing hostname | Medium — CVSS 5.3 | — | 10 | [giany](https://hackerone.com/giany) | 2020-04-10 |
+| 52 | [219014](../reports/219014.md) | [dev-unifi-go.ubnt.com] Insecure CORS, Stealing Cookies | Medium | — | 12 | [bobrov](https://hackerone.com/bobrov) | 2017-08-28 |
+| 53 | [210188](../reports/210188.md) | Subdomain takeover on https://cloudfront.ubnt.com/ due to no | Medium | — | 12 | [linkks](https://hackerone.com/linkks) | 2017-05-07 |
+| 54 | [802079](../reports/802079.md) | Unauthenticated request allows changing hostname | Medium — CVSS 5.3 | — | 10 | [giany](https://hackerone.com/giany) | 2020-04-10 |
+| 55 | [386570](../reports/386570.md) | Reflected XSS in Nanostation Loco M2 - AirOS ver=6.1.7 | Medium — CVSS 6.1 | — | 10 | [grampae](https://hackerone.com/grampae) | 2020-06-01 |
 | 56 | [208622](../reports/208622.md) | Reflected cross-site scripting (XSS) vulnerability in scores | Medium — CVSS 5.4 | — | 9 | [edoverflow](https://hackerone.com/edoverflow) | 2017-04-07 |
-| 57 | [212253](../reports/212253.md) | XSS via SVG file | Medium | — | 9 | [0xspade](https://hackerone.com/0xspade) | 2017-05-01 |
-| 58 | [530967](../reports/530967.md) | UniFi Video v3.10.1 (Windows) Local Privileges Escalation to | Medium — CVSS 6.7 | — | 9 | [b0yd](https://hackerone.com/b0yd) | 2020-04-01 |
-| 59 | [802498](../reports/802498.md) | XW 6.2.0 firmware: 5 Reflected XSS issues in link.cgi | Medium — CVSS 6.1 | — | 9 | [nih8l](https://hackerone.com/nih8l) | 2021-10-10 |
+| 57 | [530967](../reports/530967.md) | UniFi Video v3.10.1 (Windows) Local Privileges Escalation to | Medium — CVSS 6.7 | — | 9 | [b0yd](https://hackerone.com/b0yd) | 2020-04-01 |
+| 58 | [802498](../reports/802498.md) | XW 6.2.0 firmware: 5 Reflected XSS issues in link.cgi | Medium — CVSS 6.1 | — | 9 | [nih8l](https://hackerone.com/nih8l) | 2021-10-10 |
+| 59 | [212253](../reports/212253.md) | XSS via SVG file | Medium | — | 9 | [0xspade](https://hackerone.com/0xspade) | 2017-05-01 |
 | 60 | [158287](../reports/158287.md) | XSS on Nanostation Loco M2 Airmax | Medium — CVSS 6.3 | — | 8 | [grampae](https://hackerone.com/grampae) | 2017-10-02 |
 | 61 | [232327](../reports/232327.md) | CRLF Injection on openvpn.svc.ubnt.com | Medium | — | 8 | [0x0luke](https://hackerone.com/0x0luke) | 2017-07-04 |
 | 62 | [661647](../reports/661647.md) | Local File Disclosure (+XSS+CSRF) in AirOS 6.2.0 devices | Medium — CVSS 6.1 | — | 6 | [murmus](https://hackerone.com/murmus) | 2020-06-30 |
@@ -86,18 +86,18 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 80 | [119317](../reports/119317.md) | Read-Only user can execute arbitraty shell commands on AirOS | None | — | 18 | [rbran](https://hackerone.com/rbran) | 2016-08-05 |
 | 81 | [142084](../reports/142084.md) | Stored XSS in unifi.ubnt.com | None | — | 12 | [b7882330c6060c6b277c5a1](https://hackerone.com/b7882330c6060c6b277c5a1) | 2016-11-26 |
 | 82 | [141355](../reports/141355.md) | Open Redirect in unifi.ubnt.com [Controller Finder] | None | — | 12 | [b7882330c6060c6b277c5a1](https://hackerone.com/b7882330c6060c6b277c5a1) | 2016-09-01 |
-| 83 | [158484](../reports/158484.md) | [scores.ubnt.com] DOM based XSS at form.html | None | — | 11 | [s_p_q_r](https://hackerone.com/s_p_q_r) | 2017-02-24 |
+| 83 | [107960](../reports/107960.md) | Reflected File Download in community.ubnt.com/restapi/ | None | — | 11 | [a0xnirudh](https://hackerone.com/a0xnirudh) | 2017-05-27 |
 | 84 | [130889](../reports/130889.md) | Reflected XSS in scores.ubnt.com | None | — | 11 | [enmach](https://hackerone.com/enmach) | 2016-08-11 |
-| 85 | [107960](../reports/107960.md) | Reflected File Download in community.ubnt.com/restapi/ | None | — | 11 | [a0xnirudh](https://hackerone.com/a0xnirudh) | 2017-05-27 |
+| 85 | [158484](../reports/158484.md) | [scores.ubnt.com] DOM based XSS at form.html | None | — | 11 | [s_p_q_r](https://hackerone.com/s_p_q_r) | 2017-02-24 |
 | 86 | [50703](../reports/50703.md) | CSRF in login form would led to account takeover | None | — | 10 | [b7882330c6060c6b277c5a1](https://hackerone.com/b7882330c6060c6b277c5a1) | 2016-06-20 |
 | 87 | [101909](../reports/101909.md) | account.ubnt.com CSRF | None | — | 9 | [benkhlifafahmi](https://hackerone.com/benkhlifafahmi) | 2016-12-05 |
-| 88 | [219170](../reports/219170.md) | XSS | None | — | 8 | [linkks](https://hackerone.com/linkks) | 2017-05-20 |
-| 89 | [149287](../reports/149287.md) | Reflected Xss in AirMax [Nanostation Loco M2] | None | — | 8 | [b7882330c6060c6b277c5a1](https://hackerone.com/b7882330c6060c6b277c5a1) | 2016-12-12 |
-| 90 | [52635](../reports/52635.md) | UniFi v3.2.10 Cross-Site Request Forgeries / Referer-Check B | None | — | 8 | [mrtuxracer](https://hackerone.com/mrtuxracer) | 2016-01-07 |
+| 88 | [121941](../reports/121941.md) | Unauthenticated Cross-Site Scripting in Web Management Conso | None | — | 8 | [mornaner](https://hackerone.com/mornaner) | 2017-10-02 |
+| 89 | [219170](../reports/219170.md) | XSS | None | — | 8 | [linkks](https://hackerone.com/linkks) | 2017-05-20 |
+| 90 | [149287](../reports/149287.md) | Reflected Xss in AirMax [Nanostation Loco M2] | None | — | 8 | [b7882330c6060c6b277c5a1](https://hackerone.com/b7882330c6060c6b277c5a1) | 2016-12-12 |
 | 91 | [220150](../reports/220150.md) | 200 http code in 403 forbidden directories on main Ubnt.com  | None | — | 8 | [4websecurity](https://hackerone.com/4websecurity) | 2017-04-19 |
-| 92 | [121941](../reports/121941.md) | Unauthenticated Cross-Site Scripting in Web Management Conso | None | — | 8 | [mornaner](https://hackerone.com/mornaner) | 2017-10-02 |
-| 93 | [265701](../reports/265701.md) | Security: Publicly accessible x.509 Public and Private Key o | None | — | 5 | [voidexploit](https://hackerone.com/voidexploit) | 2017-11-20 |
-| 94 | [116504](../reports/116504.md) | Auth bypass on directory.corp.ubnt.com | None | — | 5 | [ebrietas](https://hackerone.com/ebrietas) | 2016-06-02 |
+| 92 | [52635](../reports/52635.md) | UniFi v3.2.10 Cross-Site Request Forgeries / Referer-Check B | None | — | 8 | [mrtuxracer](https://hackerone.com/mrtuxracer) | 2016-01-07 |
+| 93 | [116504](../reports/116504.md) | Auth bypass on directory.corp.ubnt.com | None | — | 5 | [ebrietas](https://hackerone.com/ebrietas) | 2016-06-02 |
+| 94 | [265701](../reports/265701.md) | Security: Publicly accessible x.509 Public and Private Key o | None | — | 5 | [voidexploit](https://hackerone.com/voidexploit) | 2017-11-20 |
 | 95 | [73491](../reports/73491.md) | Buffer Overflow in PHP of the AirMax Products | None | — | 4 | [rbran](https://hackerone.com/rbran) | 2016-04-01 |
 | 96 | [74004](../reports/74004.md) | Other Buffer Overflow in PHP of the AirMax Products | None | — | 4 | [rbran](https://hackerone.com/rbran) | 2016-04-07 |
 | 97 | [203673](../reports/203673.md) | AirFibre products vulnerable to HTTP Header injection | None | — | 4 | [simongurney](https://hackerone.com/simongurney) | 2017-05-17 |

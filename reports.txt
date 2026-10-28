@@ -12407,6 +12407,7 @@ https://hackerone.com/reports/3943339 | One-click cross-account JavaScript execu
 https://hackerone.com/reports/3952619 | Domainless COOKIEFILE cookie leaks to unrelated IP-literal hosts
 https://hackerone.com/reports/3955945 | curl_share TOCTOU > RCE via Curl_llist _dtor Function Pointer Hijack
 https://hackerone.com/reports/3962304 | Improper certificate validation for non-canonical IPv4 hostnames allows DNS SANs to authenticate IP endpoints
+https://hackerone.com/reports/3962925 | Launchpad file read leaks production keys
 https://hackerone.com/reports/3963330 | libcurl Digest/NTLM authentication ignores an explicit Authorization header
 https://hackerone.com/reports/3963494 | RTSP CRLF injection in libcurl allows CURLOPT_RTSP_* values to inject commands into independent sessions
 https://hackerone.com/reports/3963725 | wolfSSL backend disables hostname verification when CURLOPT_SSL_VERIFYPEER is 0
@@ -12465,6 +12466,7 @@ https://hackerone.com/reports/3973245 | 55: Heap-buffer-overflow read in `curl_f
 https://hackerone.com/reports/3973249 | 56: IBM i CL wrapper `parse_command_line()` never enters quote mode
 https://hackerone.com/reports/3975408 | CVE-2026-87865: knownhost callback mismatches key as missing
 https://hackerone.com/reports/3976342 | IMAP connection reuse runs requests in the wrong case-sensitive mailbox
+https://hackerone.com/reports/3981292 | Cross-account XSS on app.basecamp.com: oEmbed option injection chained through Turbo defeats the CSP nonce
 https://hackerone.com/reports/3981716 | Cross-origin redirect reuses a pooled Negotiate-authenticated connection from an unrelated transfer
 https://hackerone.com/reports/3987499 | Client-Side Denial of Service (DoS) via Memory Exhaustion on Password Reset Endpoint
 https://hackerone.com/reports/3988961 | Stored XSS on the public Pontoon dashboards: the latest-activity tooltip re-parses a contributor's account address as HTML
