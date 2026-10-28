@@ -13,9 +13,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 7 | [212067](../reports/212067.md) | An “algobot”-s GitHub access token was leaked | Medium | $100 | 10 | [sainaen](https://hackerone.com/sainaen) | 2017-06-10 |
 | 8 | [149154](../reports/149154.md) | Stored xss  | None | $100 | 41 | [sysecure](https://hackerone.com/sysecure) | 2016-08-03 |
 | 9 | [164833](../reports/164833.md) | Hyperlink Injection in Friend Invitation Emails | None | $100 | 20 | [corb3nik](https://hackerone.com/corb3nik) | 2016-10-07 |
-| 10 | [102755](../reports/102755.md) | Stored XSS in name selection | None | $100 | 6 | [daveysec](https://hackerone.com/daveysec) | 2016-06-18 |
+| 10 | [128777](../reports/128777.md) | No rate-limit in Two factor Authentication leads to bypass u | None | $100 | 6 | [bugs3ra](https://hackerone.com/bugs3ra) | 2016-06-01 |
 | 11 | [151868](../reports/151868.md) | No Rate Limit In Inviting Similar Contact Multiple Times | None | $100 | 6 | [rajauzairabdullah](https://hackerone.com/rajauzairabdullah) | 2016-09-07 |
-| 12 | [128777](../reports/128777.md) | No rate-limit in Two factor Authentication leads to bypass u | None | $100 | 6 | [bugs3ra](https://hackerone.com/bugs3ra) | 2016-06-01 |
+| 12 | [102755](../reports/102755.md) | Stored XSS in name selection | None | $100 | 6 | [daveysec](https://hackerone.com/daveysec) | 2016-06-18 |
 | 13 | [106348](../reports/106348.md) | text injection can be used in phishing 404 page should not i | None | $100 | 2 | [djamel-ghorab](https://hackerone.com/djamel-ghorab) | 2016-05-09 |
 | 14 | [99368](../reports/99368.md) | an xss issue | None | $100 | 2 | [securitythinker](https://hackerone.com/securitythinker) | 2016-05-22 |
 | 15 | [739251](../reports/739251.md) | Information disclosure via a misconfigured third-party produ | High | — | 156 | [h4x0r_dz](https://hackerone.com/h4x0r_dz) | 2021-03-03 |
@@ -34,7 +34,7 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 28 | [156373](../reports/156373.md) | Stored xss | None | — | 12 | [rishi62](https://hackerone.com/rishi62) | 2016-09-07 |
 | 29 | [173417](../reports/173417.md) | Possilbe Sub Domain takever at prestashop.algolia.com | None | — | 9 | [punkrock](https://hackerone.com/punkrock) | 2016-11-04 |
 | 30 | [156347](../reports/156347.md) | Stored XSS triggered by json key during UI generation | None | — | 7 | [ctee](https://hackerone.com/ctee) | 2016-09-07 |
-| 31 | [155576](../reports/155576.md) | [github.algolia.com] XSS | None | — | 4 | [bogdantc](https://hackerone.com/bogdantc) | 2016-09-01 |
-| 32 | [156387](../reports/156387.md) | Stored XSS from Display Settings triggered on Save and viewi | None | — | 4 | [ctee](https://hackerone.com/ctee) | 2016-09-07 |
-| 33 | [98012](../reports/98012.md) | Stored XSS on https://www.algolia.com/realtime-search-demo/* | None | — | 2 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2016-02-03 |
-| 34 | [116692](../reports/116692.md) | PHP version disclosed on blog.algolia.com | None | — | 2 | [bugs3ra](https://hackerone.com/bugs3ra) | 2016-06-01 |
+| 31 | [156387](../reports/156387.md) | Stored XSS from Display Settings triggered on Save and viewi | None | — | 4 | [ctee](https://hackerone.com/ctee) | 2016-09-07 |
+| 32 | [155576](../reports/155576.md) | [github.algolia.com] XSS | None | — | 4 | [bogdantc](https://hackerone.com/bogdantc) | 2016-09-01 |
+| 33 | [116692](../reports/116692.md) | PHP version disclosed on blog.algolia.com | None | — | 2 | [bugs3ra](https://hackerone.com/bugs3ra) | 2016-06-01 |
+| 34 | [98012](../reports/98012.md) | Stored XSS on https://www.algolia.com/realtime-search-demo/* | None | — | 2 | [stefanovettorazzi](https://hackerone.com/stefanovettorazzi) | 2016-02-03 |

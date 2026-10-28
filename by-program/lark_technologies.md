@@ -30,9 +30,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 24 | [877300](../reports/877300.md) | User with single department permission can view applicant li | Medium — CVSS 5.3 | — | 20 | [imran_nisar](https://hackerone.com/imran_nisar) | 2021-03-03 |
 | 25 | [791278](../reports/791278.md) | Stealing app credentials by reflected xss on Lark Suite | Medium | — | 19 | [imran_nisar](https://hackerone.com/imran_nisar) | 2021-02-26 |
 | 26 | [971857](../reports/971857.md) | Stored xss on helpdesk using user's city | Medium | — | 18 | [imran_nisar](https://hackerone.com/imran_nisar) | 2022-01-14 |
-| 27 | [1080700](../reports/1080700.md) | Viewer is able to leak the previous versions of the file | Medium — CVSS 4.9 | — | 17 | [imran0x01](https://hackerone.com/imran0x01) | 2022-10-24 |
+| 27 | [1335070](../reports/1335070.md) | Removed user can still view comments on the file/documents. | Medium — CVSS 4.3 | — | 17 | [imran_nisar](https://hackerone.com/imran_nisar) | 2022-10-20 |
 | 28 | [1533220](../reports/1533220.md) | Ability to View Non-Permitted Admin Log | Medium — CVSS 4.9 | — | 17 | [imran_nisar](https://hackerone.com/imran_nisar) | 2022-10-20 |
-| 29 | [1335070](../reports/1335070.md) | Removed user can still view comments on the file/documents. | Medium — CVSS 4.3 | — | 17 | [imran_nisar](https://hackerone.com/imran_nisar) | 2022-10-20 |
+| 29 | [1080700](../reports/1080700.md) | Viewer is able to leak the previous versions of the file | Medium — CVSS 4.9 | — | 17 | [imran0x01](https://hackerone.com/imran0x01) | 2022-10-24 |
 | 30 | [1074420](../reports/1074420.md) | IDOR Allows Viewer to Delete Bin's Files | Medium — CVSS 4.3 | — | 16 | [imran0x01](https://hackerone.com/imran0x01) | 2022-10-24 |
 | 31 | [912161](../reports/912161.md) | Messages disclosure via search feature of other users group( | Medium — CVSS 6.5 | — | 14 | [base_64](https://hackerone.com/base_64) | 2021-03-17 |
 | 32 | [884931](../reports/884931.md) | Stored xss in larksuite internal helpdesk and other user's h | Medium | — | 13 | [imran_nisar](https://hackerone.com/imran_nisar) | 2021-02-19 |

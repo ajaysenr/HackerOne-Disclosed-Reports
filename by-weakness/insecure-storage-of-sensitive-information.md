@@ -13,8 +13,8 @@
 | 7 | [684836](../reports/684836.md) | Local File Disclosure on the █████ (https://████████.edu/) leads  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 51 |
 | 8 | [1703733](../reports/1703733.md) | Exposure Of Admin Username & Password | [MTN Group](../by-program/mtn_group.md) | Critical | — | 48 |
 | 9 | [1447751](../reports/1447751.md) | Firebase Database Takeover in https://pulseradio.mtn.co.ug/ | [MTN Group](../by-program/mtn_group.md) | Critical — CVSS 10.0 | — | 15 |
-| 10 | [644358](../reports/644358.md) | PII leakage-Full SSN on ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 14 |
-| 11 | [693943](../reports/693943.md) | SSN leak due to editable slides | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 14 |
+| 10 | [693943](../reports/693943.md) | SSN leak due to editable slides | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 14 |
+| 11 | [644358](../reports/644358.md) | PII leakage-Full SSN on ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 14 |
 | 12 | [1482830](../reports/1482830.md) | Insecure Storage of Sensitive Information on lonestarcell.com ser | [MTN Group](../by-program/mtn_group.md) | Critical | — | 13 |
 | 13 | [852713](../reports/852713.md) | Previously Compromised PulseSSL VPN Hosts | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 13 |
 | 14 | [808338](../reports/808338.md) | PII Leak via https://████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 9 |

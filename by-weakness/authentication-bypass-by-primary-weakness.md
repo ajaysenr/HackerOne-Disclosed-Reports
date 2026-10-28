@@ -9,8 +9,8 @@
 | 3 | [3788506](../reports/3788506.md) | SSH/SFTP connection reuse can bypass SSH key identity after ssh_c | [curl](../by-program/curl.md) | High | — | 10 |
 | 4 | [3674275](../reports/3674275.md) | lib/http2.c: SSL connections accept non-HTTP push schemes (incomp | [curl](../by-program/curl.md) | Medium | — | 28 |
 | 5 | [3646072](../reports/3646072.md) | Negotiate connection reuse with wrong credentials when using CURL | [curl](../by-program/curl.md) | Medium | — | 27 |
-| 6 | [3124490](../reports/3124490.md) | Speculative Execution Side-Channel in `curl`  | [curl](../by-program/curl.md) | Medium | — | 16 |
-| 7 | [3642555](../reports/3642555.md) | CVE-2026-5545: wrong reuse of HTTP Negotiate connection | [curl](../by-program/curl.md) | Medium | — | 16 |
+| 6 | [3642555](../reports/3642555.md) | CVE-2026-5545: wrong reuse of HTTP Negotiate connection | [curl](../by-program/curl.md) | Medium | — | 16 |
+| 7 | [3124490](../reports/3124490.md) | Speculative Execution Side-Channel in `curl`  | [curl](../by-program/curl.md) | Medium | — | 16 |
 | 8 | [4016541](../reports/4016541.md) | TLS session resumption client cert bypass with CURLOPT_SSL_CTX_FU | [curl](../by-program/curl.md) | Medium | — | 7 |
 | 9 | [1892780](../reports/1892780.md) | CVE-2023-27535: FTP too eager connection reuse | [curl](../by-program/curl.md) | Medium | — | 4 |
 | 10 | [3923520](../reports/3923520.md) | CVE-2026-19931: Negotiate ambient user conn reuse | [curl](../by-program/curl.md) | Medium | — | 3 |

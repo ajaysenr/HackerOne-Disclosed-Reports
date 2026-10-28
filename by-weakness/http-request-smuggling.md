@@ -34,8 +34,8 @@
 | 28 | [740037](../reports/740037.md) | Request smuggling on admin-official.line.me could lead to account | [LY Corporation](../by-program/line.md) | High | — | 563 |
 | 29 | [867952](../reports/867952.md) | HTTP request Smuggling | [Helium](../by-program/helium.md) | High | — | 299 |
 | 30 | [922597](../reports/922597.md) | HTTP Request Smuggling due to CR-to-Hyphen conversion | [Node.js](../by-program/nodejs.md) | High — CVSS 8.5 | — | 134 |
-| 31 | [1120982](../reports/1120982.md) | HTTP Request Smuggling  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 40 |
-| 32 | [1943608](../reports/1943608.md) | HTTP Request Smuggling (CL.0) leads to mass redirect users to att | [LinkedIn](../by-program/linkedin.md) | High — CVSS 8.2 | — | 40 |
+| 31 | [1943608](../reports/1943608.md) | HTTP Request Smuggling (CL.0) leads to mass redirect users to att | [LinkedIn](../by-program/linkedin.md) | High — CVSS 8.2 | — | 40 |
+| 32 | [1120982](../reports/1120982.md) | HTTP Request Smuggling  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 40 |
 | 33 | [526880](../reports/526880.md) | Request smuggling on ████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 25 |
 | 34 | [715996](../reports/715996.md) | http request smuggling in  twitter.com | [X / xAI](../by-program/x.md) | High | — | 17 |
 | 35 | [866382](../reports/866382.md) | HTTP Request Smuggling | [Brave Software](../by-program/brave.md) | High | — | 12 |
@@ -49,15 +49,15 @@
 | 43 | [1631228](../reports/1631228.md) | [demo.stripo.email] HTTP request Smuggling | [Stripo Inc](../by-program/stripo.md) | Medium | — | 17 |
 | 44 | [244459](../reports/244459.md) | Apache HTTP Request Parsing Whitespace Defects | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 4.0 | — | 11 |
 | 45 | [643225](../reports/643225.md) | HTTP Request Smuggling | [JamieWeb](../by-program/jamieweb.md) | Medium | — | 10 |
-| 46 | [3648681](../reports/3648681.md) | Improper Input Validation — HTTP Response Parser Unconditionally  | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 9 |
-| 47 | [1524692](../reports/1524692.md) | HTTP Request Smuggling Due To Improper Delimiting of Header Field | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 9 |
+| 46 | [1524692](../reports/1524692.md) | HTTP Request Smuggling Due To Improper Delimiting of Header Field | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 9 |
+| 47 | [3648681](../reports/3648681.md) | Improper Input Validation — HTTP Response Parser Unconditionally  | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 9 |
 | 48 | [1025575](../reports/1025575.md) | Default behavior of Fastifys versioned routes can be used for cac | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.9 | — | 8 |
-| 49 | [1501679](../reports/1501679.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 7 |
-| 50 | [1524555](../reports/1524555.md) | HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 7 |
+| 49 | [1524555](../reports/1524555.md) | HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 7 |
+| 50 | [1501679](../reports/1501679.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 7 |
 | 51 | [2001873](../reports/2001873.md) | HTTP Request Smuggling via Empty headers separated by CR | [Node.js](../by-program/nodejs.md) | Medium | — | 7 |
 | 52 | [1675191](../reports/1675191.md) | HTTP Request Smuggling Due to Incorrect Parsing of Header Fields | [Node.js](../by-program/nodejs.md) | Medium | — | 6 |
-| 53 | [1665156](../reports/1665156.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium | — | 6 |
-| 54 | [3723248](../reports/3723248.md) | HTTP Request Smuggling via Connection: close<TAB> in Node.js llht | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.8 | — | 6 |
+| 53 | [3723248](../reports/3723248.md) | HTTP Request Smuggling via Connection: close<TAB> in Node.js llht | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.8 | — | 6 |
+| 54 | [1665156](../reports/1665156.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium | — | 6 |
 | 55 | [1630336](../reports/1630336.md) | CVE-2022-32213 bypass via obs-fold mechanic | [Node.js](../by-program/nodejs.md) | Medium | — | 5 |
 | 56 | [4098761](../reports/4098761.md) | HTTP/1.1 connection reuse returns unsolicited server data as the  | [curl](../by-program/curl.md) | Medium | — | 3 |
 | 57 | [3795615](../reports/3795615.md) | Duplicate chunked Transfer-Encoding lets a malicious origin smugg | [curl](../by-program/curl.md) | Medium | — | 3 |

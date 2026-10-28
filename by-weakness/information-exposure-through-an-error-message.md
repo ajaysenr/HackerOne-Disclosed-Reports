@@ -31,8 +31,8 @@
 | 25 | [219601](../reports/219601.md) | Transferring incorrect data to the http://gip.rocks/v1 endpoint w | [Gratipay](../by-program/gratipay.md) | Low | — | 7 |
 | 26 | [225098](../reports/225098.md) | SQL exception in JSON format | [Nextcloud](../by-program/nextcloud.md) | Low | — | 6 |
 | 27 | [269426](../reports/269426.md) | Tor Project - Full Path Disclosure | [Tor](../by-program/torproject.md) | Low | — | 5 |
-| 28 | [526258](../reports/526258.md) | environment variable leakage in error reporting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 3.3 | — | 4 |
-| 29 | [833836](../reports/833836.md) | Information disclosure of Internal php files on [mackeeper.com/bl | [Clario](../by-program/clario.md) | Low | — | 4 |
+| 28 | [833836](../reports/833836.md) | Information disclosure of Internal php files on [mackeeper.com/bl | [Clario](../by-program/clario.md) | Low | — | 4 |
+| 29 | [526258](../reports/526258.md) | environment variable leakage in error reporting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 3.3 | — | 4 |
 | 30 | [222063](../reports/222063.md) | Sensitive information disclosure via response headers on jenkins. | [Homebrew](../by-program/homebrew.md) | Low | — | 1 |
 | 31 | [439174](../reports/439174.md) | Verbose PHP error messages exposed on a blog article | [HackerOne](../by-program/security.md) | None | — | 11 |
 | 32 | [260645](../reports/260645.md) | Information Discloser | [Legal Robot](../by-program/legalrobot.md) | None | — | 1 |

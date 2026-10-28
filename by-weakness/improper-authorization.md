@@ -27,8 +27,8 @@
 | 21 | [1627980](../reports/1627980.md) | Unauthenticated access to internal API at██████████.███.edu  [HtU | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High — CVSS 7.5 | — | 13 |
 | 22 | [1598749](../reports/1598749.md) | TikTok's pixel/sdk.js leaks current URL from websites using postM | [TikTok](../by-program/tiktok.md) | Medium — CVSS 5.9 | — | 78 |
 | 23 | [411337](../reports/411337.md) | Forget password link not expiring after email change. | [Chaturbate](../by-program/chaturbate.md) | Medium | — | 45 |
-| 24 | [254588](../reports/254588.md) | Removed staff members who had "Manage shops" permission can still | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.0 | — | 38 |
-| 25 | [1560149](../reports/1560149.md) | Tomcat Servlet Examples accessible at https://44.240.33.83:38443  | [Stripe](../by-program/stripe.md) | Medium | — | 38 |
+| 24 | [1560149](../reports/1560149.md) | Tomcat Servlet Examples accessible at https://44.240.33.83:38443  | [Stripe](../by-program/stripe.md) | Medium | — | 38 |
+| 25 | [254588](../reports/254588.md) | Removed staff members who had "Manage shops" permission can still | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.0 | — | 38 |
 | 26 | [855013](../reports/855013.md) | [www.stripo.email] You can override the speed limit by adding the | [Stripo Inc](../by-program/stripo.md) | Medium | — | 34 |
 | 27 | [1212374](../reports/1212374.md) | Oauth Misconfiguration Lead To Account Takeover | [Reddit](../by-program/reddit.md) | Medium — CVSS 6.8 | — | 18 |
 | 28 | [1091380](../reports/1091380.md) | [h1-2102] Partner's team member with no permission can retrieve s | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.3 | — | 16 |
@@ -42,8 +42,8 @@
 | 36 | [416983](../reports/416983.md) | H1514 Removed Staff members who had "Apps" permission can still m | [Shopify](../by-program/shopify.md) | Low — CVSS 3.6 | — | 43 |
 | 37 | [1793940](../reports/1793940.md) | Any user can vote on `Friend Only` video pull | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.1 | — | 26 |
 | 38 | [2249299](../reports/2249299.md) | CVE-2023-47037: Airflow Broken Access Control Vulnerability | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 23 |
-| 39 | [1102660](../reports/1102660.md) | staffOrderNotificationSubscriptionDelete Could Be Used By Staff M | [Shopify](../by-program/shopify.md) | Low — CVSS 2.7 | — | 21 |
-| 40 | [1102652](../reports/1102652.md) | staffOrderNotificationSubscriptionCreate Is Not Blocked Entirely  | [Shopify](../by-program/shopify.md) | Low — CVSS 3.8 | — | 21 |
+| 39 | [1102652](../reports/1102652.md) | staffOrderNotificationSubscriptionCreate Is Not Blocked Entirely  | [Shopify](../by-program/shopify.md) | Low — CVSS 3.8 | — | 21 |
+| 40 | [1102660](../reports/1102660.md) | staffOrderNotificationSubscriptionDelete Could Be Used By Staff M | [Shopify](../by-program/shopify.md) | Low — CVSS 2.7 | — | 21 |
 | 41 | [1466855](../reports/1466855.md) | User with no Develop apps permission can Uninstall Custom App | [Shopify](../by-program/shopify.md) | Low — CVSS 3.1 | — | 15 |
 | 42 | [3650435](../reports/3650435.md) | Improper enforcement of CURLOPT_SOCKS5_AUTH due to missing reuse  | [curl](../by-program/curl.md) | Low | — | 15 |
 | 43 | [802011](../reports/802011.md) | Grafana Improper authorization  | [Kubernetes](../by-program/kubernetes.md) | Low | — | 6 |

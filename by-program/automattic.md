@@ -53,9 +53,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 47 | [1043804](../reports/1043804.md) | Reflected XSS in https://www.intensedebate.com/js/getComment | Medium | — | 75 | [sudi](https://hackerone.com/sudi) | 2021-01-30 |
 | 48 | [206653](../reports/206653.md) | Captcha bypass for the most important function - At en.insta | Medium | — | 63 | [saurabhb](https://hackerone.com/saurabhb) | 2019-06-22 |
 | 49 | [2012636](../reports/2012636.md) | Stored XSS on wordpress.com | Medium | — | 60 | [riadalrashed](https://hackerone.com/riadalrashed) | 2023-06-26 |
-| 50 | [1537149](../reports/1537149.md) | XSS and HTML Injection on the pressable.com search box | Medium | — | 56 | [sawrav-chowdhury](https://hackerone.com/sawrav-chowdhury) | 2022-08-23 |
+| 50 | [949382](../reports/949382.md) | DOM-Based XSS in tumblr.com | Medium | — | 56 | [keer0k](https://hackerone.com/keer0k) | 2021-02-02 |
 | 51 | [2536758](../reports/2536758.md) | Authentication & Registration Bypass in Newspack Extended Ac | Medium | — | 56 | [xurizaemon0](https://hackerone.com/xurizaemon0) | 2024-07-05 |
-| 52 | [949382](../reports/949382.md) | DOM-Based XSS in tumblr.com | Medium | — | 56 | [keer0k](https://hackerone.com/keer0k) | 2021-02-02 |
+| 52 | [1537149](../reports/1537149.md) | XSS and HTML Injection on the pressable.com search box | Medium | — | 56 | [sawrav-chowdhury](https://hackerone.com/sawrav-chowdhury) | 2022-08-23 |
 | 53 | [1005421](../reports/1005421.md) | [api.tumblr.com] Denial of Service by cookies manipulation | Medium — CVSS 4.9 | — | 54 | [fuzzme](https://hackerone.com/fuzzme) | 2020-11-29 |
 | 54 | [540301](../reports/540301.md) | Wordpress VIP leaks email of the test a/c | Medium — CVSS 5.3 | — | 52 | [cryptordx](https://hackerone.com/cryptordx) | 2019-05-28 |
 | 55 | [2472798](../reports/2472798.md) | Authentication & Registration Bypass in Newspack Extended Ac | Medium — CVSS 6.5 | — | 48 | [xurizaemon0](https://hackerone.com/xurizaemon0) | 2024-05-20 |
@@ -69,8 +69,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 63 | [495583](../reports/495583.md) | [FG-VD-19-022] Wordpress WooCommerce Cross-Site Scripting Vu | Medium — CVSS 6.0 | — | 30 | [yzy9951](https://hackerone.com/yzy9951) | 2019-04-06 |
 | 64 | [550937](../reports/550937.md) | Insufficient DKIM record with RSA 512-bit key used on WordPr | Medium — CVSS 4.2 | — | 27 | [vavkamil](https://hackerone.com/vavkamil) | 2019-05-30 |
 | 65 | [920357](../reports/920357.md) | Captcha checker "pd-captcha_form_SURVEYID" cookie is accepti | Medium | — | 26 | [bugra](https://hackerone.com/bugra) | 2020-11-18 |
-| 66 | [1040639](../reports/1040639.md) | [intensedebate.com] XSS Reflected POST-Based on update/tumbl | Medium — CVSS 4.8 | — | 25 | [fuzzme](https://hackerone.com/fuzzme) | 2021-01-23 |
-| 67 | [915756](../reports/915756.md) | [tumblr.com] 69< Firefox Only  XSS Reflected | Medium — CVSS 5.9 | — | 25 | [fuzzme](https://hackerone.com/fuzzme) | 2020-07-09 |
+| 66 | [915756](../reports/915756.md) | [tumblr.com] 69< Firefox Only  XSS Reflected | Medium — CVSS 5.9 | — | 25 | [fuzzme](https://hackerone.com/fuzzme) | 2020-07-09 |
+| 67 | [1040639](../reports/1040639.md) | [intensedebate.com] XSS Reflected POST-Based on update/tumbl | Medium — CVSS 4.8 | — | 25 | [fuzzme](https://hackerone.com/fuzzme) | 2021-01-23 |
 | 68 | [915133](../reports/915133.md) | IDOR at 'media_code' when addings media to questions | Medium | — | 21 | [bugra](https://hackerone.com/bugra) | 2020-11-18 |
 | 69 | [947790](../reports/947790.md) | Reflected XSS on a Atavist theme | Medium | — | 19 | [bugra](https://hackerone.com/bugra) | 2020-11-18 |
 | 70 | [921704](../reports/921704.md) | Denial-of- service By Cache Poisoning The Cross-Origin Resou | Medium | — | 17 | [hannanhaseeb](https://hackerone.com/hannanhaseeb) | 2020-08-14 |
@@ -82,15 +82,15 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 76 | [1100326](../reports/1100326.md) | Reflected XSS due to vulnerable version of sockjs | Medium — CVSS 5.4 | — | 13 | [chip_sec](https://hackerone.com/chip_sec) | 2022-04-29 |
 | 77 | [1050733](../reports/1050733.md) | [sub.wordpress.com] - XSS when adjust block Poll - Confirmat | Medium | — | 13 | [superman85](https://hackerone.com/superman85) | 2021-02-11 |
 | 78 | [1083734](../reports/1083734.md) | Stored XSS on the "www.intensedebate.com/extras-widgets" url | Medium — CVSS 4.0 | — | 12 | [superpan](https://hackerone.com/superpan) | 2022-04-13 |
-| 79 | [1041173](../reports/1041173.md) | Permanent DoS at https://happy.tools/ when inviting a user | Medium — CVSS 6.3 | — | 11 | [boy_child_](https://hackerone.com/boy_child_) | 2021-01-29 |
-| 80 | [1679276](../reports/1679276.md) | IDOR able to buy a plan with lesser fee | Medium | — | 11 | [ug0x01](https://hackerone.com/ug0x01) | 2022-10-19 |
+| 79 | [1679276](../reports/1679276.md) | IDOR able to buy a plan with lesser fee | Medium | — | 11 | [ug0x01](https://hackerone.com/ug0x01) | 2022-10-19 |
+| 80 | [1041173](../reports/1041173.md) | Permanent DoS at https://happy.tools/ when inviting a user | Medium — CVSS 6.3 | — | 11 | [boy_child_](https://hackerone.com/boy_child_) | 2021-01-29 |
 | 81 | [308489](../reports/308489.md) | wpjobmanager - unserialize of user input | Medium | — | 11 | [b258ea62bf297b02afa9854](https://hackerone.com/b258ea62bf297b02afa9854) | 2018-03-03 |
-| 82 | [218264](../reports/218264.md) | An Automattic employee's GitHub personal access token expose | Medium | — | 10 | [sainaen](https://hackerone.com/sainaen) | 2017-06-06 |
-| 83 | [275386](../reports/275386.md) | Stored XSS Using Media | Medium | — | 10 | [dyoon](https://hackerone.com/dyoon) | 2017-11-26 |
-| 84 | [870703](../reports/870703.md) | Stored XSS in assets.txmblr.com | Medium | — | 10 | [keer0k](https://hackerone.com/keer0k) | 2020-05-11 |
+| 82 | [870703](../reports/870703.md) | Stored XSS in assets.txmblr.com | Medium | — | 10 | [keer0k](https://hackerone.com/keer0k) | 2020-05-11 |
+| 83 | [218264](../reports/218264.md) | An Automattic employee's GitHub personal access token expose | Medium | — | 10 | [sainaen](https://hackerone.com/sainaen) | 2017-06-06 |
+| 84 | [275386](../reports/275386.md) | Stored XSS Using Media | Medium | — | 10 | [dyoon](https://hackerone.com/dyoon) | 2017-11-26 |
 | 85 | [293743](../reports/293743.md) | [public-api.wordpress.com] Stored XSS via Crafted Developer  | Medium | — | 9 | [ysx](https://hackerone.com/ysx) | 2017-12-01 |
-| 86 | [241323](../reports/241323.md) | woocommerce - prevent_caching() bug / bypass | Medium | — | 9 | [b258ea62bf297b02afa9854](https://hackerone.com/b258ea62bf297b02afa9854) | 2017-09-16 |
-| 87 | [239359](../reports/239359.md) | Timing attack woocommerce, simplify commerce gateway | Medium | — | 9 | [b258ea62bf297b02afa9854](https://hackerone.com/b258ea62bf297b02afa9854) | 2017-09-11 |
+| 86 | [239359](../reports/239359.md) | Timing attack woocommerce, simplify commerce gateway | Medium | — | 9 | [b258ea62bf297b02afa9854](https://hackerone.com/b258ea62bf297b02afa9854) | 2017-09-11 |
+| 87 | [241323](../reports/241323.md) | woocommerce - prevent_caching() bug / bypass | Medium | — | 9 | [b258ea62bf297b02afa9854](https://hackerone.com/b258ea62bf297b02afa9854) | 2017-09-16 |
 | 88 | [176308](../reports/176308.md) | Wordpress.com REST API oauth bypass via Cross Site Flashing | Medium | — | 8 | [opnsec](https://hackerone.com/opnsec) | 2018-04-26 |
 | 89 | [245228](../reports/245228.md) | Object Injection in Woocommerce / Handle PDT Responses from  | Medium | — | 7 | [b258ea62bf297b02afa9854](https://hackerone.com/b258ea62bf297b02afa9854) | 2017-09-11 |
 | 90 | [1484168](../reports/1484168.md) | De-anonymize anonymous tips through the Tumblr blog network | Medium | — | 6 | [ajoekerr](https://hackerone.com/ajoekerr) | 2022-02-21 |
@@ -119,54 +119,54 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 113 | [3447021](../reports/3447021.md) | XSS Vulnerability on Pressable/Atomic Hosting Platform via u | None | — | 76 | [georgestephanis](https://hackerone.com/georgestephanis) | 2026-02-18 |
 | 114 | [134546](../reports/134546.md) | WordPress Flash XSS in *flashmediaelement.swf* | None | — | 69 | [cure53](https://hackerone.com/cure53) | 2016-07-10 |
 | 115 | [237381](../reports/237381.md) | SSRF and local file disclosure in https://wordpress.com/medi | None | — | 62 | [neex](https://hackerone.com/neex) | 2017-07-29 |
-| 116 | [134738](../reports/134738.md) | WordPress SOME bug in plupload.flash.swf leading to RCE | None | — | 50 | [cure53](https://hackerone.com/cure53) | 2016-07-10 |
-| 117 | [725569](../reports/725569.md) | [IDOR] Attacker user can Approve/Decline AFK on the behalf o | None | — | 50 | [sachin_kr](https://hackerone.com/sachin_kr) | 2019-12-01 |
+| 116 | [725569](../reports/725569.md) | [IDOR] Attacker user can Approve/Decline AFK on the behalf o | None | — | 50 | [sachin_kr](https://hackerone.com/sachin_kr) | 2019-12-01 |
+| 117 | [134738](../reports/134738.md) | WordPress SOME bug in plupload.flash.swf leading to RCE | None | — | 50 | [cure53](https://hackerone.com/cure53) | 2016-07-10 |
 | 118 | [139245](../reports/139245.md) | WordPress core stored XSS via attachment file name | None | — | 25 | [jouko](https://hackerone.com/jouko) | 2016-08-05 |
-| 119 | [708917](../reports/708917.md) | Rate Limit Misconfiguration on tumblr login . | None | — | 21 | [u0pattern](https://hackerone.com/u0pattern) | 2020-11-13 |
-| 120 | [300270](../reports/300270.md) | Stored XSS in learnboost.com via the lesson[goals] parameter | None | — | 21 | [edoverflow](https://hackerone.com/edoverflow) | 2018-04-22 |
+| 119 | [300270](../reports/300270.md) | Stored XSS in learnboost.com via the lesson[goals] parameter | None | — | 21 | [edoverflow](https://hackerone.com/edoverflow) | 2018-04-22 |
+| 120 | [708917](../reports/708917.md) | Rate Limit Misconfiguration on tumblr login . | None | — | 21 | [u0pattern](https://hackerone.com/u0pattern) | 2020-11-13 |
 | 121 | [264832](../reports/264832.md) | xss filter bypass [polldaddy] | None | — | 21 | [paresh_parmar](https://hackerone.com/paresh_parmar) | 2017-10-01 |
 | 122 | [289823](../reports/289823.md) | Improper markup sanitization. | None | — | 19 | [edoverflow](https://hackerone.com/edoverflow) | 2017-12-01 |
-| 123 | [1050193](../reports/1050193.md) | [intensedebate.com] Open Redirect | None | — | 17 | [fuzzme](https://hackerone.com/fuzzme) | 2021-02-10 |
-| 124 | [300812](../reports/300812.md) | Stored XSS in www.learnboost.com via ZIP codes. | None | — | 17 | [edoverflow](https://hackerone.com/edoverflow) | 2018-04-22 |
-| 125 | [91599](../reports/91599.md) | WooCommerce: Support Ticket indirect object reference | None | — | 16 | [paresh_parmar](https://hackerone.com/paresh_parmar) | 2016-09-02 |
-| 126 | [297547](../reports/297547.md) | Improper markup sanitisation in Simplenote Android applicati | None | — | 16 | [edoverflow](https://hackerone.com/edoverflow) | 2018-02-13 |
+| 123 | [300812](../reports/300812.md) | Stored XSS in www.learnboost.com via ZIP codes. | None | — | 17 | [edoverflow](https://hackerone.com/edoverflow) | 2018-04-22 |
+| 124 | [1050193](../reports/1050193.md) | [intensedebate.com] Open Redirect | None | — | 17 | [fuzzme](https://hackerone.com/fuzzme) | 2021-02-10 |
+| 125 | [297547](../reports/297547.md) | Improper markup sanitisation in Simplenote Android applicati | None | — | 16 | [edoverflow](https://hackerone.com/edoverflow) | 2018-02-13 |
+| 126 | [91599](../reports/91599.md) | WooCommerce: Support Ticket indirect object reference | None | — | 16 | [paresh_parmar](https://hackerone.com/paresh_parmar) | 2016-09-02 |
 | 127 | [240886](../reports/240886.md) | Multiple File Manipulation bugs in WP Super Cache  | None | — | 15 | [paulos__](https://hackerone.com/paulos__) | 2018-10-29 |
 | 128 | [291683](../reports/291683.md) | Crafted frame injection leading to form-based UI redressing. | None | — | 14 | [edoverflow](https://hackerone.com/edoverflow) | 2017-12-31 |
-| 129 | [984947](../reports/984947.md) | Tab nabbing via window.opener.location (target "_blank") | None | — | 12 | [subnetix](https://hackerone.com/subnetix) | 2020-12-26 |
-| 130 | [273881](../reports/273881.md) | Invalidate session after password reset on https://polldaddy | None | — | 12 | [nullsaint](https://hackerone.com/nullsaint) | 2017-11-09 |
-| 131 | [172574](../reports/172574.md) | Follow Button XSS | None | — | 12 | [bobrov](https://hackerone.com/bobrov) | 2016-10-28 |
-| 132 | [152416](../reports/152416.md) | Lazy Load stored XSS | None | — | 12 | [jouko](https://hackerone.com/jouko) | 2017-12-01 |
-| 133 | [151117](../reports/151117.md) | [bbPress] Stored XSS in any forum post. | None | — | 12 | [psych0tr1a](https://hackerone.com/psych0tr1a) | 2016-09-01 |
+| 129 | [172574](../reports/172574.md) | Follow Button XSS | None | — | 12 | [bobrov](https://hackerone.com/bobrov) | 2016-10-28 |
+| 130 | [152416](../reports/152416.md) | Lazy Load stored XSS | None | — | 12 | [jouko](https://hackerone.com/jouko) | 2017-12-01 |
+| 131 | [273881](../reports/273881.md) | Invalidate session after password reset on https://polldaddy | None | — | 12 | [nullsaint](https://hackerone.com/nullsaint) | 2017-11-09 |
+| 132 | [151117](../reports/151117.md) | [bbPress] Stored XSS in any forum post. | None | — | 12 | [psych0tr1a](https://hackerone.com/psych0tr1a) | 2016-09-01 |
+| 133 | [984947](../reports/984947.md) | Tab nabbing via window.opener.location (target "_blank") | None | — | 12 | [subnetix](https://hackerone.com/subnetix) | 2020-12-26 |
 | 134 | [13959](../reports/13959.md) | privilege escalation | None | — | 9 | [niks](https://hackerone.com/niks) | 2014-08-10 |
 | 135 | [152692](../reports/152692.md) | Persistent Cross-Site Scripting in WooCommerce WordPress plu | None | — | 6 | [spipm](https://hackerone.com/spipm) | 2017-11-16 |
 | 136 | [67660](../reports/67660.md) | Verification code issues for Two-Step Authentication | None | — | 5 | [maverickrocky02](https://hackerone.com/maverickrocky02) | 2015-09-20 |
-| 137 | [7849](../reports/7849.md) | HTML form without CSRF protection | None | — | 4 | [0xsaikiran](https://hackerone.com/0xsaikiran) | 2014-07-08 |
-| 138 | [101145](../reports/101145.md) | Remove anyone's pic gravtar | None | — | 4 | [akshyy](https://hackerone.com/akshyy) | 2016-06-05 |
-| 139 | [81736](../reports/81736.md) | XSS in WordPress  | None | — | 4 | [blinkms](https://hackerone.com/blinkms) | 2015-10-16 |
-| 140 | [18503](../reports/18503.md) | Top 10 2013-A2-Broken Authentication and Session Management  | None | — | 4 | [told_snider](https://hackerone.com/told_snider) | 2014-08-16 |
-| 141 | [9522](../reports/9522.md) | https://polldaddy.com storage.swf XSS | None | — | 4 | [smiegles](https://hackerone.com/smiegles) | 2014-07-08 |
-| 142 | [13705](../reports/13705.md) | logout csrf app.simplenote.com/logout | None | — | 4 | [jeroldcamacho_](https://hackerone.com/jeroldcamacho_) | 2014-07-08 |
-| 143 | [104559](../reports/104559.md) | XSS on codex.wordpress.org | None | — | 3 | [spam404](https://hackerone.com/spam404) | 2016-06-19 |
-| 144 | [13703](../reports/13703.md) | xss in app.simplenote.com | None | — | 3 | [jeroldcamacho_](https://hackerone.com/jeroldcamacho_) | 2014-07-08 |
-| 145 | [15777](../reports/15777.md) | Process of changing email address and password does not asks | None | — | 3 | [siddiki](https://hackerone.com/siddiki) | 2014-07-11 |
-| 146 | [111365](../reports/111365.md) | XSS at www.woothemes.com | None | — | 3 | [valievkarim](https://hackerone.com/valievkarim) | 2016-02-19 |
-| 147 | [129091](../reports/129091.md) | CPU utilization 99% on visiting wordpress site url & open re | None | — | 3 | [csanuragjain](https://hackerone.com/csanuragjain) | 2017-07-23 |
-| 148 | [110801](../reports/110801.md) | Internal GET SSRF via CSRF with Press This scan feature | None | — | 3 | [skansing](https://hackerone.com/skansing) | 2016-03-04 |
-| 149 | [133963](../reports/133963.md) | XSS on www.wordpress.com | None | — | 3 | [spam404](https://hackerone.com/spam404) | 2016-04-28 |
-| 150 | [131108](../reports/131108.md) | Akismet Several CSRF vulnerabilities | None | — | 3 | [eboda](https://hackerone.com/eboda) | 2016-05-28 |
-| 151 | [13794](../reports/13794.md) | XSS on gravatar | None | — | 2 | [simon90](https://hackerone.com/simon90) | 2014-09-07 |
-| 152 | [107296](../reports/107296.md) | Possible Timing Side-Channel in XMLRPC Verification | None | — | 2 | [voodookobra](https://hackerone.com/voodookobra) | 2016-03-17 |
-| 153 | [16439](../reports/16439.md) | User Enumeration and Guessable User Account Attack on WORDPR | None | — | 2 | [coolboss](https://hackerone.com/coolboss) | 2014-09-13 |
-| 154 | [14303](../reports/14303.md) | http://jetpack.me/ Self XSS | None | — | 2 | [smiegles](https://hackerone.com/smiegles) | 2014-07-08 |
-| 155 | [13746](../reports/13746.md) | xss in simperium.com | None | — | 2 | [jeroldcamacho_](https://hackerone.com/jeroldcamacho_) | 2014-08-10 |
-| 156 | [14305](../reports/14305.md) | genericons.com - DOM based XSS. | None | — | 2 | [smiegles](https://hackerone.com/smiegles) | 2014-07-08 |
-| 157 | [20072](../reports/20072.md) | Missing HSTS header in https://app.simplenote.com | None | — | 2 | [told_snider](https://hackerone.com/told_snider) | 2014-08-16 |
-| 158 | [14803](../reports/14803.md) | Serving Transitions From: HTTP Protocol (not secure) | None | — | 2 | [kmh127001](https://hackerone.com/kmh127001) | 2014-06-04 |
-| 159 | [7680](../reports/7680.md) | Session Cookie without Secure flag set | None | — | 2 | [0xsaikiran](https://hackerone.com/0xsaikiran) | 2014-05-21 |
-| 160 | [22142](../reports/22142.md) | Open Redirect in WordPress Feed Statistics {Affected All Ver | None | — | 1 | [mtk](https://hackerone.com/mtk) | 2014-08-07 |
-| 161 | [20071](../reports/20071.md) | Missing HSTS header in https://public-api.wordpress.com | None | — | 1 | [told_snider](https://hackerone.com/told_snider) | 2014-08-28 |
-| 162 | [7843](../reports/7843.md) | Session Cookie without Secure flag set | None | — | 1 | [0xsaikiran](https://hackerone.com/0xsaikiran) | 2014-05-21 |
-| 163 | [92353](../reports/92353.md) | CSV Injection in polldaddy.com | None | — | 1 | [strukt](https://hackerone.com/strukt) | 2015-11-20 |
-| 164 | [111500](../reports/111500.md) | XSS at wordpress.com | None | — | 1 | [valievkarim](https://hackerone.com/valievkarim) | 2016-02-18 |
+| 137 | [81736](../reports/81736.md) | XSS in WordPress  | None | — | 4 | [blinkms](https://hackerone.com/blinkms) | 2015-10-16 |
+| 138 | [13705](../reports/13705.md) | logout csrf app.simplenote.com/logout | None | — | 4 | [jeroldcamacho_](https://hackerone.com/jeroldcamacho_) | 2014-07-08 |
+| 139 | [101145](../reports/101145.md) | Remove anyone's pic gravtar | None | — | 4 | [akshyy](https://hackerone.com/akshyy) | 2016-06-05 |
+| 140 | [9522](../reports/9522.md) | https://polldaddy.com storage.swf XSS | None | — | 4 | [smiegles](https://hackerone.com/smiegles) | 2014-07-08 |
+| 141 | [18503](../reports/18503.md) | Top 10 2013-A2-Broken Authentication and Session Management  | None | — | 4 | [told_snider](https://hackerone.com/told_snider) | 2014-08-16 |
+| 142 | [7849](../reports/7849.md) | HTML form without CSRF protection | None | — | 4 | [0xsaikiran](https://hackerone.com/0xsaikiran) | 2014-07-08 |
+| 143 | [111365](../reports/111365.md) | XSS at www.woothemes.com | None | — | 3 | [valievkarim](https://hackerone.com/valievkarim) | 2016-02-19 |
+| 144 | [129091](../reports/129091.md) | CPU utilization 99% on visiting wordpress site url & open re | None | — | 3 | [csanuragjain](https://hackerone.com/csanuragjain) | 2017-07-23 |
+| 145 | [133963](../reports/133963.md) | XSS on www.wordpress.com | None | — | 3 | [spam404](https://hackerone.com/spam404) | 2016-04-28 |
+| 146 | [131108](../reports/131108.md) | Akismet Several CSRF vulnerabilities | None | — | 3 | [eboda](https://hackerone.com/eboda) | 2016-05-28 |
+| 147 | [110801](../reports/110801.md) | Internal GET SSRF via CSRF with Press This scan feature | None | — | 3 | [skansing](https://hackerone.com/skansing) | 2016-03-04 |
+| 148 | [104559](../reports/104559.md) | XSS on codex.wordpress.org | None | — | 3 | [spam404](https://hackerone.com/spam404) | 2016-06-19 |
+| 149 | [15777](../reports/15777.md) | Process of changing email address and password does not asks | None | — | 3 | [siddiki](https://hackerone.com/siddiki) | 2014-07-11 |
+| 150 | [13703](../reports/13703.md) | xss in app.simplenote.com | None | — | 3 | [jeroldcamacho_](https://hackerone.com/jeroldcamacho_) | 2014-07-08 |
+| 151 | [20072](../reports/20072.md) | Missing HSTS header in https://app.simplenote.com | None | — | 2 | [told_snider](https://hackerone.com/told_snider) | 2014-08-16 |
+| 152 | [13794](../reports/13794.md) | XSS on gravatar | None | — | 2 | [simon90](https://hackerone.com/simon90) | 2014-09-07 |
+| 153 | [14303](../reports/14303.md) | http://jetpack.me/ Self XSS | None | — | 2 | [smiegles](https://hackerone.com/smiegles) | 2014-07-08 |
+| 154 | [14803](../reports/14803.md) | Serving Transitions From: HTTP Protocol (not secure) | None | — | 2 | [kmh127001](https://hackerone.com/kmh127001) | 2014-06-04 |
+| 155 | [14305](../reports/14305.md) | genericons.com - DOM based XSS. | None | — | 2 | [smiegles](https://hackerone.com/smiegles) | 2014-07-08 |
+| 156 | [13746](../reports/13746.md) | xss in simperium.com | None | — | 2 | [jeroldcamacho_](https://hackerone.com/jeroldcamacho_) | 2014-08-10 |
+| 157 | [16439](../reports/16439.md) | User Enumeration and Guessable User Account Attack on WORDPR | None | — | 2 | [coolboss](https://hackerone.com/coolboss) | 2014-09-13 |
+| 158 | [7680](../reports/7680.md) | Session Cookie without Secure flag set | None | — | 2 | [0xsaikiran](https://hackerone.com/0xsaikiran) | 2014-05-21 |
+| 159 | [107296](../reports/107296.md) | Possible Timing Side-Channel in XMLRPC Verification | None | — | 2 | [voodookobra](https://hackerone.com/voodookobra) | 2016-03-17 |
+| 160 | [13939](../reports/13939.md) | information disclosure | None | — | 1 | [niks](https://hackerone.com/niks) | 2014-07-16 |
+| 161 | [22142](../reports/22142.md) | Open Redirect in WordPress Feed Statistics {Affected All Ver | None | — | 1 | [mtk](https://hackerone.com/mtk) | 2014-08-07 |
+| 162 | [92353](../reports/92353.md) | CSV Injection in polldaddy.com | None | — | 1 | [strukt](https://hackerone.com/strukt) | 2015-11-20 |
+| 163 | [111500](../reports/111500.md) | XSS at wordpress.com | None | — | 1 | [valievkarim](https://hackerone.com/valievkarim) | 2016-02-18 |
+| 164 | [20071](../reports/20071.md) | Missing HSTS header in https://public-api.wordpress.com | None | — | 1 | [told_snider](https://hackerone.com/told_snider) | 2014-08-28 |
 | 165 | [7571](../reports/7571.md) | Simplenote Silverlight cross-domain policy misconfiguration | None | — | 1 | [melvin](https://hackerone.com/melvin) | 2014-05-17 |
-| 166 | [13939](../reports/13939.md) | information disclosure | None | — | 1 | [niks](https://hackerone.com/niks) | 2014-07-16 |
+| 166 | [7843](../reports/7843.md) | Session Cookie without Secure flag set | None | — | 1 | [0xsaikiran](https://hackerone.com/0xsaikiran) | 2014-05-21 |

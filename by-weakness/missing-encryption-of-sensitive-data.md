@@ -5,8 +5,8 @@
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |---|---|---|---|---|---|---|
 | 1 | [1128357](../reports/1128357.md) | Password and mail address stored unencrypted in memory - Rockstar | [Rockstar Games](../by-program/rockstargames.md) | Medium — CVSS 6.7 | $750 | 90 |
-| 2 | [506040](../reports/506040.md) | ChaCha20-Poly1305 with long nonces | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.4 | — | 8 |
-| 3 | [640904](../reports/640904.md) | Yarn transfers npm credentials over unencrypted http connection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.2 | — | 8 |
+| 2 | [640904](../reports/640904.md) | Yarn transfers npm credentials over unencrypted http connection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.2 | — | 8 |
+| 3 | [506040](../reports/506040.md) | ChaCha20-Poly1305 with long nonces | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.4 | — | 8 |
 | 4 | [2097517](../reports/2097517.md) | Waketime Payment Gateway Vulnerability | [WakaTime](../by-program/wakatime.md) | High — CVSS 7.5 | — | 2 |
 | 5 | [2396630](../reports/2396630.md) | sensitive  data-creds for database - private key | [Mars](../by-program/mars.md) | Medium — CVSS 4.6 | — | 26 |
 | 6 | [1794884](../reports/1794884.md) | Unauthenticated phpinfo()files could lead to ability file read at | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 9 |
