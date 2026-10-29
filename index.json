@@ -241400,6 +241400,25 @@
     "votes": 1
   },
   {
+    "id": 3852102,
+    "url": "https://hackerone.com/reports/3852102",
+    "title": "Revoked deployment collaborator regains access to private comments after active collaborator interaction",
+    "visibility": "full",
+    "program": "Vercel",
+    "program_handle": "vercel",
+    "reporter": "qub",
+    "severity": "medium",
+    "cvss": 4.8,
+    "weakness": "Access Control Check Implemented After Asset is Accessed",
+    "bounty": 1026.0,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "WILDCARD",
+    "reported_at": "2026-07-09",
+    "disclosed_at": "2026-10-29T08:25:44.335Z",
+    "votes": 18
+  },
+  {
     "id": 3852135,
     "url": "https://hackerone.com/reports/3852135",
     "title": "DDP methods getThreadsList / getThreadMessages leaks private thread content to any authenticated low privilege user (unpatched sibling of #1446767)",

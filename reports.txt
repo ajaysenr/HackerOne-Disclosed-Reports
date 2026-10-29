@@ -12351,6 +12351,7 @@ https://hackerone.com/reports/3848978 | `SHOW [CREATE|GRANTS] ...` / `mariadb-du
 https://hackerone.com/reports/3849025 | DATA / INDEX DIRECTORY Abuse
 https://hackerone.com/reports/3849040 | #mysql50# legacy alias / stale table cache identity mismatch
 https://hackerone.com/reports/3849051 | #mysql50# legacy alias / internal table collisions
+https://hackerone.com/reports/3852102 | Revoked deployment collaborator regains access to private comments after active collaborator interaction
 https://hackerone.com/reports/3852135 | DDP methods getThreadsList / getThreadMessages leaks private thread content to any authenticated low privilege user (unpatched sibling of #1446767)
 https://hackerone.com/reports/3856148 | Low-privilege RCE in MariaDB: SYS_REFCURSOR cursor-array use-after-free chained with an ST_Area heap over-read
 https://hackerone.com/reports/3857258 | Reachable assertion in node:zlib sync API crashes the entire process via spoofed TypedArray byteLength (all 11 *Sync functions affected)
