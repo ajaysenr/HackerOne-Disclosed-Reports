@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2443 total)
+# High/Critical Severity — No Bounty Paid (2446 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -2150,6 +2150,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [243003](../reports/243003.md) | No limit of summary length allows Denail of Service | [RubyGems](../by-program/rubygems.md) | High — CVSS 7.5 | Resolved | 5 |
 | [293359](../reports/293359.md) | The Uber Promo Customer Endpoint Does Not Implement Multifactor A | [Uber](../by-program/uber.md) | High | Informative | 5 |
 | [170052](../reports/170052.md) | AWS Signature Disclosure in www.digitalsellz.com allows access to | [DigitalSellz](../by-program/digitalsellz.md) | High | Resolved | 5 |
+| [3955956](../reports/3955956.md) | launchpad.37signals.com OAuth AS issues victim-bound credential t | [Basecamp](../by-program/basecamp.md) | High — CVSS 8.0 | Resolved | 5 |
 | [319480](../reports/319480.md) | Broken Authentication: A project addition request can be used mul | [Semrush](../by-program/semrush.md) | High | Informative | 5 |
 | [790786](../reports/790786.md) | Members from parent group keep their access level on a subgroup t | [GitLab](../by-program/gitlab.md) | High — CVSS 7.6 | Resolved | 5 |
 | [323975](../reports/323975.md) | CSRF in Inviting users | [Ping Identity](../by-program/pingidentity.md) | High | Resolved | 5 |
@@ -2183,6 +2184,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [763458](../reports/763458.md) | Email verification bypasa | [Stripo Inc](../by-program/stripo.md) | High | Resolved | 5 |
 | [703412](../reports/703412.md) | [node-df] RCE via insecure command concatenation | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.4 | Resolved | 5 |
 | [1952978](../reports/1952978.md) | Filesystem experimental permissions policy does not handle path t | [Node.js](../by-program/nodejs.md) | High — CVSS 7.7 | Resolved | 5 |
+| [3999856](../reports/3999856.md) | A third-party Basecamp OAuth token mints a full launchpad web ses | [Basecamp](../by-program/basecamp.md) | High — CVSS 8.0 | Resolved | 5 |
 | [106678](../reports/106678.md) | [now.informatica.com] Reflective XSS | [Informatica](../by-program/informatica.md) | High | Resolved | 5 |
 | [3816330](../reports/3816330.md) | Monero IPv6 /128 tracking bypasses per-IP limit, enables remote O | [Monero](../by-program/monero.md) | High — CVSS 7.5 | Resolved | 5 |
 | [3682666](../reports/3682666.md) | Use-after-free in `curl_easy_ssls_export()` during callback re-en | [curl](../by-program/curl.md) | High | Not Applicable | 5 |
@@ -2226,6 +2228,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [953866](../reports/953866.md) | Unauthorized Access and updation of EMAIL settings of other user  | [Dropcontact](../by-program/dropcontact.md) | High | Resolved | 4 |
 | [904064](../reports/904064.md) | Dashboard sharing enables code injection into ████ emails | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 4 |
 | [4038287](../reports/4038287.md) | TLS certificate hostname bypass when the IP is written fullwidth  | [Node.js](../by-program/nodejs.md) | High — CVSS 7.4 | Resolved | 4 |
+| [3979217](../reports/3979217.md) |  Cross-account webhook takeover: PUT and DELETE on /<account>/web | [Basecamp](../by-program/basecamp.md) | High — CVSS 8.3 | Resolved | 4 |
 | [192079](../reports/192079.md) | SQL Injection vulnerability in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 4 |
 | [959679](../reports/959679.md) | Read-only path traversal (CVE-2020-3452)  at https://████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 4 |
 | [288912](../reports/288912.md) | Cross-origin resource sharing | [Semrush](../by-program/semrush.md) | High | Informative | 4 |

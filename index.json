@@ -242498,6 +242498,25 @@
     "votes": 19
   },
   {
+    "id": 3955956,
+    "url": "https://hackerone.com/reports/3955956",
+    "title": "launchpad.37signals.com OAuth AS issues victim-bound credential to unverified attacker redirect \u2192 full CIA triad on Basecamp API ",
+    "visibility": "full",
+    "program": "Basecamp",
+    "program_handle": "basecamp",
+    "reporter": "rootaccessxvv",
+    "severity": "high",
+    "cvss": 8.0,
+    "weakness": "Improper Authentication - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-08-20",
+    "disclosed_at": "2026-10-30T13:40:05.079Z",
+    "votes": 5
+  },
+  {
     "id": 3962304,
     "url": "https://hackerone.com/reports/3962304",
     "title": "Improper certificate validation for non-canonical IPv4 hostnames allows DNS SANs to authenticate IP endpoints",
@@ -243693,6 +243712,25 @@
     "votes": 2
   },
   {
+    "id": 3979217,
+    "url": "https://hackerone.com/reports/3979217",
+    "title": " Cross-account webhook takeover: PUT and DELETE on /<account>/webhooks/<id>.json reach another account's webhook",
+    "visibility": "full",
+    "program": "Basecamp",
+    "program_handle": "basecamp",
+    "reporter": "deivizzzz",
+    "severity": "high",
+    "cvss": 8.3,
+    "weakness": "Improper Authentication - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-08-29",
+    "disclosed_at": "2026-10-30T11:08:50.996Z",
+    "votes": 4
+  },
+  {
     "id": 3981292,
     "url": "https://hackerone.com/reports/3981292",
     "title": "Cross-account XSS on app.basecamp.com: oEmbed option injection chained through Turbo defeats the CSP nonce",
@@ -243952,6 +243990,25 @@
     "reported_at": "2026-09-04",
     "disclosed_at": "2026-10-27T07:06:06.424Z",
     "votes": 1
+  },
+  {
+    "id": 3999856,
+    "url": "https://hackerone.com/reports/3999856",
+    "title": "A third-party Basecamp OAuth token mints a full launchpad web session through GET /my/login_option",
+    "visibility": "no-content",
+    "program": "Basecamp",
+    "program_handle": "basecamp",
+    "reporter": "deivizzzz",
+    "severity": "high",
+    "cvss": 8.0,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-09-05",
+    "disclosed_at": "2026-10-30T11:07:36.214Z",
+    "votes": 5
   },
   {
     "id": 4000084,
