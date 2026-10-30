@@ -12506,12 +12506,15 @@ https://hackerone.com/reports/4030333 | CVE-2026-92392: HTTP/2 upload Use-After-
 https://hackerone.com/reports/4033108 | Retry-independent time-condition HTTP/2 UAF
 https://hackerone.com/reports/4033971 | Use-after-free of the internal multi->admin easy handle via the documented CURLMOPT_NOTIFYFUNCTION callback
 https://hackerone.com/reports/4035023 | Ordinary HEY user can make HEY originate authenticated mail from attacker-selected @hey.com  addresses
+https://hackerone.com/reports/4037976 | Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-2026-61792 due to missing `VCS_METADATA_DIRS` entries.
 https://hackerone.com/reports/4038287 | TLS certificate hostname bypass when the IP is written fullwidth digits
 https://hackerone.com/reports/4038342 | dns.resolve truncates names containing NUL char
 https://hackerone.com/reports/4038361 | Keep-alive socket process a response that was written before the request was sent
+https://hackerone.com/reports/4040149 | wlc: Project-wide download fails part-way and leaves stale archives on disk; filesystem errors surface as raw Python tracebacks.
 https://hackerone.com/reports/4040551 | CVE-2026-94265: Authorization: Negotiate sent to foreign origin
 https://hackerone.com/reports/4040799 | Windows filename sanitizer misses Unicode COM/LPT reserved device names
 https://hackerone.com/reports/4041053 | CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL
+https://hackerone.com/reports/4044441 | Translation discovery crashes on crafted filenames (regex substitution injection)
 https://hackerone.com/reports/4053066 | Missing applicability validation allows non-applicable HTTPS RR to reach ECH processing
 https://hackerone.com/reports/4053116 | curl CONNECT response header colon-check bypass in cf-h1-proxy single_header — proxy authentication bypass via injected HTTP/1.x status line
 https://hackerone.com/reports/4053546 | Information Disclosure - Unauthen Leak Private Content

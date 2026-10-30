@@ -1,4 +1,4 @@
-# Weakness: Information Exposure Through an Error Message (32 reports)
+# Weakness: Information Exposure Through an Error Message (33 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -33,6 +33,7 @@
 | 27 | [269426](../reports/269426.md) | Tor Project - Full Path Disclosure | [Tor](../by-program/torproject.md) | Low | — | 5 |
 | 28 | [833836](../reports/833836.md) | Information disclosure of Internal php files on [mackeeper.com/bl | [Clario](../by-program/clario.md) | Low | — | 4 |
 | 29 | [526258](../reports/526258.md) | environment variable leakage in error reporting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 3.3 | — | 4 |
-| 30 | [222063](../reports/222063.md) | Sensitive information disclosure via response headers on jenkins. | [Homebrew](../by-program/homebrew.md) | Low | — | 1 |
-| 31 | [439174](../reports/439174.md) | Verbose PHP error messages exposed on a blog article | [HackerOne](../by-program/security.md) | None | — | 11 |
-| 32 | [260645](../reports/260645.md) | Information Discloser | [Legal Robot](../by-program/legalrobot.md) | None | — | 1 |
+| 30 | [4040149](../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves stale archiv | [Weblate](../by-program/weblate.md) | Low | — | 4 |
+| 31 | [222063](../reports/222063.md) | Sensitive information disclosure via response headers on jenkins. | [Homebrew](../by-program/homebrew.md) | Low | — | 1 |
+| 32 | [439174](../reports/439174.md) | Verbose PHP error messages exposed on a blog article | [HackerOne](../by-program/security.md) | None | — | 11 |
+| 33 | [260645](../reports/260645.md) | Information Discloser | [Legal Robot](../by-program/legalrobot.md) | None | — | 1 |

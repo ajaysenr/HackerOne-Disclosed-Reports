@@ -1,4 +1,4 @@
-# Weakness: Path Traversal (231 reports)
+# Weakness: Path Traversal (232 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -203,35 +203,36 @@
 | 197 | [538938](../reports/538938.md) | [domokeeper] Unintended Require | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.9 | — | 6 |
 | 198 | [3580511](../reports/3580511.md) | ActiveStorage Disk Service Path Traversal via Custom Blob Key Inj | [Ruby on Rails](../by-program/rails.md) | Medium — CVSS 6.5 | — | 6 |
 | 199 | [342066](../reports/342066.md) | [bruteser] Path Traversal allows to read content of arbitrary fil | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.5 | — | 5 |
-| 200 | [296254](../reports/296254.md) | [serve-here] Static Web Server Directory Traversal via Crafted GE | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 4 |
-| 201 | [296305](../reports/296305.md) | [featurebook] Specification Server Directory Traversal via Crafte | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 4 |
-| 202 | [637840](../reports/637840.md) | Path traversal in command line client | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 4.5 | — | 4 |
-| 203 | [530289](../reports/530289.md) | [harp] Path traversal using symlink | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.3 | — | 3 |
-| 204 | [1369288](../reports/1369288.md) | Path Traversal CVE-2021-26086 CVE-2021-26085 | [MariaDB](../by-program/mariadb.md) | Medium | — | 3 |
-| 205 | [593911](../reports/593911.md) | [public] Path traversal using symlink | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 4.2 | — | 3 |
-| 206 | [296282](../reports/296282.md) | [augustine] Static Web Server Directory Traversal via Crafted GET | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 3 |
-| 207 | [1280188](../reports/1280188.md) | https://██████/ Vulnerable to CVE-2013-3827 (Directory-traversal  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
-| 208 | [296645](../reports/296645.md) | [lactate] Static Web Server Directory Traversal via Crafted GET R | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 3 |
-| 209 | [692262](../reports/692262.md) | Path traversal in https://www.npmjs.com/package/http_server via s | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.5 | — | 3 |
-| 210 | [319795](../reports/319795.md) | [m-server] Path Traversal allows to display content of arbitrary  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.1 | — | 2 |
-| 211 | [772509](../reports/772509.md) | [node-downloader-helper] Path traversal via Content-Disposition h | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 4.6 | — | 2 |
-| 212 | [225495](../reports/225495.md) | full path disclosure at hosted.weblate.org/admin/accounts/profile | [Weblate](../by-program/weblate.md) | Medium — CVSS 4.3 | — | 2 |
-| 213 | [730239](../reports/730239.md) | Filesystem Writes via `yarn install` via symlinks and tar transfo | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.1 | — | 2 |
-| 214 | [492767](../reports/492767.md) | [https://███] Local File Inclusion via graph.php | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
-| 215 | [686343](../reports/686343.md) | [██████████] — Directory traversal via `/aerosol-bin/███████/disp | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
-| 216 | [355456](../reports/355456.md) | [statics-server] Path Traversal due to lack of provided path sani | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 1 |
-| 217 | [355501](../reports/355501.md) | [servey] Path Traversal allows to retrieve content of any file wi | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 1 |
-| 218 | [3696266](../reports/3696266.md) | Path Traversal in Nextcloud Talk Android Exposes User Credentials | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.5 | — | 0 |
-| 219 | [797159](../reports/797159.md) | PHP builded for Windows with TS support does not resolve relalati | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.8 | — | 0 |
-| 220 | [3328367](../reports/3328367.md) | Path traversal via archive.extract - CVE 2021-3281 incomplete pat | [Django](../by-program/django.md) | Low — CVSS 3.7 | — | 38 |
-| 221 | [1313040](../reports/1313040.md) | Path Traversal on meetcqpub1.gsa.gov allows attackers to see arbi | [U.S. General Services Administration](../by-program/gsa_vdp.md) | Low — CVSS 3.7 | — | 11 |
-| 222 | [1353603](../reports/1353603.md) | Fix for CVE-2021-22151 (Kibana path traversal issue) can be bypas | [Elastic](../by-program/elastic.md) | Low — CVSS 3.1 | — | 10 |
-| 223 | [3494098](../reports/3494098.md) | inconsistently Rejection Logic in file:// URLs with Authority | [curl](../by-program/curl.md) | Low | — | 7 |
-| 224 | [2037887](../reports/2037887.md) | fs.mkdtemp() and fs.mkdtempSync() are missing getValidatedPath()  | [Node.js](../by-program/nodejs.md) | Low — CVSS 2.9 | — | 4 |
-| 225 | [677955](../reports/677955.md) | `indexFile` option passed as an argument to node-server can lead  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low | — | 3 |
-| 226 | [310671](../reports/310671.md) | [file-static-server] Path Traversal allows to read content of arb | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 3.5 | — | 3 |
-| 227 | [1892351](../reports/1892351.md) | CVE-2023-27534: SFTP path ~ resolving discrepancy | [curl](../by-program/curl.md) | Low | — | 3 |
-| 228 | [993975](../reports/993975.md) | [zenn-cli] Path traversal on Windows allows the attacker to read  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low | — | 1 |
-| 229 | [73480](../reports/73480.md) | Arbritrary file Upload on AirMax | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 21 |
-| 230 | [1690377](../reports/1690377.md) | Relative Path Traversal vulnerability in fabric-private-chaincode | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | None | — | 6 |
-| 231 | [3973143](../reports/3973143.md) | 22:  FTP wildcard matching decodes server-provided filenames, ena | [curl](../by-program/curl.md) | None | — | 2 |
+| 200 | [4037976](../reports/4037976.md) | Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-202 | [Weblate](../by-program/weblate.md) | Medium | — | 4 |
+| 201 | [296254](../reports/296254.md) | [serve-here] Static Web Server Directory Traversal via Crafted GE | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 4 |
+| 202 | [296305](../reports/296305.md) | [featurebook] Specification Server Directory Traversal via Crafte | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 4 |
+| 203 | [637840](../reports/637840.md) | Path traversal in command line client | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 4.5 | — | 4 |
+| 204 | [530289](../reports/530289.md) | [harp] Path traversal using symlink | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.3 | — | 3 |
+| 205 | [1369288](../reports/1369288.md) | Path Traversal CVE-2021-26086 CVE-2021-26085 | [MariaDB](../by-program/mariadb.md) | Medium | — | 3 |
+| 206 | [593911](../reports/593911.md) | [public] Path traversal using symlink | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 4.2 | — | 3 |
+| 207 | [296282](../reports/296282.md) | [augustine] Static Web Server Directory Traversal via Crafted GET | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 3 |
+| 208 | [1280188](../reports/1280188.md) | https://██████/ Vulnerable to CVE-2013-3827 (Directory-traversal  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
+| 209 | [296645](../reports/296645.md) | [lactate] Static Web Server Directory Traversal via Crafted GET R | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 3 |
+| 210 | [692262](../reports/692262.md) | Path traversal in https://www.npmjs.com/package/http_server via s | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.5 | — | 3 |
+| 211 | [319795](../reports/319795.md) | [m-server] Path Traversal allows to display content of arbitrary  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.1 | — | 2 |
+| 212 | [772509](../reports/772509.md) | [node-downloader-helper] Path traversal via Content-Disposition h | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 4.6 | — | 2 |
+| 213 | [225495](../reports/225495.md) | full path disclosure at hosted.weblate.org/admin/accounts/profile | [Weblate](../by-program/weblate.md) | Medium — CVSS 4.3 | — | 2 |
+| 214 | [730239](../reports/730239.md) | Filesystem Writes via `yarn install` via symlinks and tar transfo | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.1 | — | 2 |
+| 215 | [492767](../reports/492767.md) | [https://███] Local File Inclusion via graph.php | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
+| 216 | [686343](../reports/686343.md) | [██████████] — Directory traversal via `/aerosol-bin/███████/disp | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
+| 217 | [355456](../reports/355456.md) | [statics-server] Path Traversal due to lack of provided path sani | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 1 |
+| 218 | [355501](../reports/355501.md) | [servey] Path Traversal allows to retrieve content of any file wi | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 1 |
+| 219 | [3696266](../reports/3696266.md) | Path Traversal in Nextcloud Talk Android Exposes User Credentials | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.5 | — | 0 |
+| 220 | [797159](../reports/797159.md) | PHP builded for Windows with TS support does not resolve relalati | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.8 | — | 0 |
+| 221 | [3328367](../reports/3328367.md) | Path traversal via archive.extract - CVE 2021-3281 incomplete pat | [Django](../by-program/django.md) | Low — CVSS 3.7 | — | 38 |
+| 222 | [1313040](../reports/1313040.md) | Path Traversal on meetcqpub1.gsa.gov allows attackers to see arbi | [U.S. General Services Administration](../by-program/gsa_vdp.md) | Low — CVSS 3.7 | — | 11 |
+| 223 | [1353603](../reports/1353603.md) | Fix for CVE-2021-22151 (Kibana path traversal issue) can be bypas | [Elastic](../by-program/elastic.md) | Low — CVSS 3.1 | — | 10 |
+| 224 | [3494098](../reports/3494098.md) | inconsistently Rejection Logic in file:// URLs with Authority | [curl](../by-program/curl.md) | Low | — | 7 |
+| 225 | [2037887](../reports/2037887.md) | fs.mkdtemp() and fs.mkdtempSync() are missing getValidatedPath()  | [Node.js](../by-program/nodejs.md) | Low — CVSS 2.9 | — | 4 |
+| 226 | [677955](../reports/677955.md) | `indexFile` option passed as an argument to node-server can lead  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low | — | 3 |
+| 227 | [310671](../reports/310671.md) | [file-static-server] Path Traversal allows to read content of arb | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 3.5 | — | 3 |
+| 228 | [1892351](../reports/1892351.md) | CVE-2023-27534: SFTP path ~ resolving discrepancy | [curl](../by-program/curl.md) | Low | — | 3 |
+| 229 | [993975](../reports/993975.md) | [zenn-cli] Path traversal on Windows allows the attacker to read  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low | — | 1 |
+| 230 | [73480](../reports/73480.md) | Arbritrary file Upload on AirMax | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 21 |
+| 231 | [1690377](../reports/1690377.md) | Relative Path Traversal vulnerability in fabric-private-chaincode | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | None | — | 6 |
+| 232 | [3973143](../reports/3973143.md) | 22:  FTP wildcard matching decodes server-provided filenames, ena | [curl](../by-program/curl.md) | None | — | 2 |

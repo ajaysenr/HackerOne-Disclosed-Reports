@@ -1,4 +1,4 @@
-# Weakness: Use of Externally-Controlled Format String (7 reports)
+# Weakness: Use of Externally-Controlled Format String (8 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -11,3 +11,4 @@
 | 5 | [311884](../reports/311884.md) | Format String Vulnerability in the EdgeSwitch restricted CLI | [Ubiquiti Inc.](../by-program/ui.md) | High — CVSS 7.2 | — | 7 |
 | 6 | [2990139](../reports/2990139.md) | Format string vulnerability, curl_msnprintf() function  | [curl](../by-program/curl.md) | Medium | — | 15 |
 | 7 | [3445332](../reports/3445332.md) | INI Format string injection in Revive Adserver 6.0.4 settings | [Revive Adserver](../by-program/revive_adserver.md) | Low — CVSS 2.7 | — | 19 |
+| 8 | [4044441](../reports/4044441.md) | Translation discovery crashes on crafted filenames (regex substit | [Weblate](../by-program/weblate.md) | Low | — | 4 |

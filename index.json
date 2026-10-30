@@ -244455,6 +244455,27 @@
     "votes": 8
   },
   {
+    "id": 4037976,
+    "url": "https://hackerone.com/reports/4037976",
+    "title": "Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-2026-61792 due to missing `VCS_METADATA_DIRS` entries.",
+    "visibility": "full",
+    "program": "Weblate",
+    "program_handle": "weblate",
+    "reporter": "sumit-sabhaya",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Path Traversal",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-61792"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-17",
+    "disclosed_at": "2026-10-30T05:08:33.268Z",
+    "votes": 4
+  },
+  {
     "id": 4038287,
     "url": "https://hackerone.com/reports/4038287",
     "title": "TLS certificate hostname bypass when the IP is written fullwidth digits",
@@ -244518,6 +244539,25 @@
     "votes": 2
   },
   {
+    "id": 4040149,
+    "url": "https://hackerone.com/reports/4040149",
+    "title": "wlc: Project-wide download fails part-way and leaves stale archives on disk; filesystem errors surface as raw Python tracebacks.",
+    "visibility": "full",
+    "program": "Weblate",
+    "program_handle": "weblate",
+    "reporter": "sumit-sabhaya",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Information Exposure Through an Error Message",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-18",
+    "disclosed_at": "2026-10-30T05:07:36.183Z",
+    "votes": 4
+  },
+  {
     "id": 4040551,
     "url": "https://hackerone.com/reports/4040551",
     "title": "CVE-2026-94265: Authorization: Negotiate sent to foreign origin",
@@ -244577,6 +244617,25 @@
     "reported_at": "2026-09-18",
     "disclosed_at": "2026-10-14T07:19:30.551Z",
     "votes": 1
+  },
+  {
+    "id": 4044441,
+    "url": "https://hackerone.com/reports/4044441",
+    "title": "Translation discovery crashes on crafted filenames (regex substitution injection)",
+    "visibility": "full",
+    "program": "Weblate",
+    "program_handle": "weblate",
+    "reporter": "sumit-sabhaya",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Use of Externally-Controlled Format String",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-20",
+    "disclosed_at": "2026-10-30T05:07:32.370Z",
+    "votes": 4
   },
   {
     "id": 4053066,
