@@ -2183,7 +2183,7 @@
 | 2179 | [palakmahipal](https://hackerone.com/palakmahipal) | 1 | $0 | 34 |
 | 2180 | [karthik86](https://hackerone.com/karthik86) | 2 | $0 | 22 |
 | 2181 | [bigsleep](https://hackerone.com/bigsleep) | 1 | $0 | 36 |
-| 2182 | [jakubk](https://hackerone.com/jakubk) | 3 | $0 | 20 |
+| 2182 | [jakubk](https://hackerone.com/jakubk) | 5 | $0 | 26 |
 | 2183 | [jorandirkgreef](https://hackerone.com/jorandirkgreef) | 1 | $0 | 8 |
 | 2184 | [paulochoupina](https://hackerone.com/paulochoupina) | 2 | $0 | 11 |
 | 2185 | [qss](https://hackerone.com/qss) | 1 | $0 | 15 |

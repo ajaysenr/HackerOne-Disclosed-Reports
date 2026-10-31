@@ -12401,6 +12401,7 @@ https://hackerone.com/reports/3930102 | CORS Misconfiguration / Broken Access Co
 https://hackerone.com/reports/3930957 | Myndr CORS Misconfiguration
 https://hackerone.com/reports/3931771 | Author → stored XSS in wp-admin: unescaped sub-size filename from attachment metadata breaks out of the `src` attribute in `get_media_item()`
 https://hackerone.com/reports/3931777 | Author → arbitrary file deletion anywhere on disk (site takeover) via `POST /wp/v2/media/<id>/finalize` poisoning `_wp_attachment_metadata`
+https://hackerone.com/reports/3933198 | wordpress.org/openverse/: unauthenticated open redirect — `str_replace()`'s 4th arg is a count, not a limit; bypasses WordPress.org SSO allow-list
 https://hackerone.com/reports/3938185 | Windows SSPI connection-pool probe can reuse a connection under the wrong user
 https://hackerone.com/reports/3938190 | Windows SSPI connection-pool probe can reuse a connection under the wrong user
 https://hackerone.com/reports/3938220 | libcurl cache updates follow symlinks and truncate their targets
@@ -12517,6 +12518,7 @@ https://hackerone.com/reports/4040149 | wlc: Project-wide download fails part-wa
 https://hackerone.com/reports/4040551 | CVE-2026-94265: Authorization: Negotiate sent to foreign origin
 https://hackerone.com/reports/4040799 | Windows filename sanitizer misses Unicode COM/LPT reserved device names
 https://hackerone.com/reports/4041053 | CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL
+https://hackerone.com/reports/4043537 | CampTix [camptix_private]: the view token is derived from the requester's own IP, so naming any attendee's e-mail unlocks the gated content
 https://hackerone.com/reports/4044441 | Translation discovery crashes on crafted filenames (regex substitution injection)
 https://hackerone.com/reports/4053066 | Missing applicability validation allows non-applicable HTTPS RR to reach ECH processing
 https://hackerone.com/reports/4053116 | curl CONNECT response header colon-check bypass in cf-h1-proxy single_header — proxy authentication bypass via injected HTTP/1.x status line
