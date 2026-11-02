@@ -238178,6 +238178,25 @@
     "votes": 5
   },
   {
+    "id": 3719670,
+    "url": "https://hackerone.com/reports/3719670",
+    "title": "`monero-wallet-rpc::rescan_spent` accepts daemon-supplied spent-status from an untrusted daemon, enabling ring-intersection attack on transactions",
+    "visibility": "full",
+    "program": "Monero",
+    "program_handle": "monero",
+    "reporter": "offsetmd",
+    "severity": "medium",
+    "cvss": 5.3,
+    "weakness": "Information Disclosure",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-05-07",
+    "disclosed_at": "2026-11-02T18:43:38.813Z",
+    "votes": 0
+  },
+  {
     "id": 3720313,
     "url": "https://hackerone.com/reports/3720313",
     "title": "Proxy credentials leaked in ERR_PROXY_TUNNEL error message",

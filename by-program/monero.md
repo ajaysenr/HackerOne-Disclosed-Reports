@@ -1,4 +1,4 @@
-# Monero — Disclosed Reports (81 total)
+# Monero — Disclosed Reports (82 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -58,30 +58,31 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 52 | [652911](../reports/652911.md) | CVE-2019-13132 - libzmq 4.1 series is vulnerable | Medium — CVSS 6.8 | — | 2 | [evertonmelo](https://hackerone.com/evertonmelo) | 2019-11-18 |
 | 53 | [3648638](../reports/3648638.md) | monero:// deeplink parsing accepts tx_amount=(all) and can t | Medium — CVSS 6.5 | — | 1 | [qttps](https://hackerone.com/qttps) | 2026-08-20 |
 | 54 | [3515557](../reports/3515557.md) | Loss of multisig funds through single malicious participant' | Medium | — | 1 | [k-privacy-enjoyer](https://hackerone.com/k-privacy-enjoyer) | 2026-08-20 |
-| 55 | [1437942](../reports/1437942.md) | DLL hijacking in Monero GUI for Windows 0.17.3.0 would allow | Medium | — | 0 | [fukuyama](https://hackerone.com/fukuyama) | 2021-12-30 |
-| 56 | [1981441](../reports/1981441.md) | Dynamic fee algorithm doesn't check for zero fee | Low | — | 47 | [sech1](https://hackerone.com/sech1) | 2025-05-23 |
-| 57 | [340012](../reports/340012.md) | Buffer out of bound read in miniupnpc xml parser  | Low | — | 13 | [yukichen](https://hackerone.com/yukichen) | 2018-04-25 |
-| 58 | [303390](../reports/303390.md) | remote access to localhost daemon, can issue jsonrpc command | Low | — | 9 | [bugbound](https://hackerone.com/bugbound) | 2018-02-22 |
-| 59 | [511317](../reports/511317.md) | Potential use-after-free due to struct array_entry_t lacking | Low | — | 9 | [guido](https://hackerone.com/guido) | 2019-05-10 |
-| 60 | [803028](../reports/803028.md) | Monero wallet password change is confirmed when not matching | Low | — | 7 | [consistent-dream](https://hackerone.com/consistent-dream) | 2020-03-11 |
-| 61 | [284951](../reports/284951.md) | Out-of-bounds read when importing corrupt blockchain with mo | Low | — | 6 | [sybr](https://hackerone.com/sybr) | 2018-04-25 |
-| 62 | [361269](../reports/361269.md) | Trusted daemon check fails when proxied through torsocks or  | Low | — | 6 | [equim](https://hackerone.com/equim) | 2018-08-02 |
-| 63 | [896338](../reports/896338.md) | Misconfiguration in build environment allows DLL preloading  | Low | — | 5 | [nim4](https://hackerone.com/nim4) | 2022-01-29 |
-| 64 | [344499](../reports/344499.md) | epee will accept an arbitrary amount of leading line-breaks  | Low | — | 4 | [ahook](https://hackerone.com/ahook) | 2018-08-02 |
-| 65 | [766963](../reports/766963.md) | Potential linkage of public/private (anonymous) node address | Low | — | 3 | [ahook](https://hackerone.com/ahook) | 2020-03-11 |
-| 66 | [3738727](../reports/3738727.md) | Restricted RPC leaks alternative block hashes via /get_alt_b | Low | — | 1 | [int0ha_](https://hackerone.com/int0ha_) | 2026-07-20 |
-| 67 | [3749681](../reports/3749681.md) | Background sync cache retains outgoing additional transactio | Low — CVSS 2.8 | — | 1 | [qttps](https://hackerone.com/qttps) | 2026-08-20 |
-| 68 | [2425873](../reports/2425873.md) | [Monero wallet RPC] File precreation to file ownership and c | None | — | 75 | [selmelc](https://hackerone.com/selmelc) | 2024-09-04 |
-| 69 | [265161](../reports/265161.md) | Monero Website & Kovri on your policy are returning 404 not  | None | — | 29 | [r3y](https://hackerone.com/r3y) | 2018-04-25 |
-| 70 | [3240792](../reports/3240792.md) | Reported RPC Overflow | None | — | 25 | [jehrenhofermagicgrants](https://hackerone.com/jehrenhofermagicgrants) | 2026-04-06 |
-| 71 | [2693786](../reports/2693786.md) | A peer can remotely fill the pending block queue to an extre | None | — | 22 | [boog900](https://hackerone.com/boog900) | 2025-04-23 |
-| 72 | [2315026](../reports/2315026.md) | Transactions in invalid blocks are kept in tx-pool without u | None | — | 22 | [boog900](https://hackerone.com/boog900) | 2025-04-23 |
-| 73 | [2677306](../reports/2677306.md) | Spamming highly nested JSON RPC requests cause node to disco | None | — | 22 | [asurar0](https://hackerone.com/asurar0) | 2025-04-23 |
-| 74 | [3241102](../reports/3241102.md) | Reported Denial of Service | None | — | 22 | [jehrenhofermagicgrants](https://hackerone.com/jehrenhofermagicgrants) | 2026-04-06 |
-| 75 | [1668258](../reports/1668258.md) | Reentrancy attack in eth-monero atomic swap | None | — | 15 | [farinavito123](https://hackerone.com/farinavito123) | 2023-04-20 |
-| 76 | [265160](../reports/265160.md) | TabNabbing issue (due to taget=_blank) | None | — | 11 | [ursa](https://hackerone.com/ursa) | 2018-04-25 |
-| 77 | [390499](../reports/390499.md) | Stack Overflow in JSON RPC Server | None | — | 10 | [talko](https://hackerone.com/talko) | 2018-09-28 |
-| 78 | [321213](../reports/321213.md) | Monero GUI not linked with /DYNAMICBASE or hardening on wind | None | — | 9 | [flxflndy_](https://hackerone.com/flxflndy_) | 2018-03-18 |
-| 79 | [543782](../reports/543782.md) | Excessive Resource Usage | None | — | 9 | [talko](https://hackerone.com/talko) | 2019-07-03 |
-| 80 | [3547349](../reports/3547349.md) | Inverted ternary in peerlist_manager::filter() allows unlimi | None | — | 4 | [kklam32](https://hackerone.com/kklam32) | 2026-06-29 |
-| 81 | [3185083](../reports/3185083.md) | Connection Count Bug in Monero Node Enables Outbound Peer Re | None | — | 3 | [yulge](https://hackerone.com/yulge) | 2026-05-06 |
+| 55 | [3719670](../reports/3719670.md) | `monero-wallet-rpc::rescan_spent` accepts daemon-supplied sp | Medium — CVSS 5.3 | — | 0 | [offsetmd](https://hackerone.com/offsetmd) | 2026-11-02 |
+| 56 | [1437942](../reports/1437942.md) | DLL hijacking in Monero GUI for Windows 0.17.3.0 would allow | Medium | — | 0 | [fukuyama](https://hackerone.com/fukuyama) | 2021-12-30 |
+| 57 | [1981441](../reports/1981441.md) | Dynamic fee algorithm doesn't check for zero fee | Low | — | 47 | [sech1](https://hackerone.com/sech1) | 2025-05-23 |
+| 58 | [340012](../reports/340012.md) | Buffer out of bound read in miniupnpc xml parser  | Low | — | 13 | [yukichen](https://hackerone.com/yukichen) | 2018-04-25 |
+| 59 | [303390](../reports/303390.md) | remote access to localhost daemon, can issue jsonrpc command | Low | — | 9 | [bugbound](https://hackerone.com/bugbound) | 2018-02-22 |
+| 60 | [511317](../reports/511317.md) | Potential use-after-free due to struct array_entry_t lacking | Low | — | 9 | [guido](https://hackerone.com/guido) | 2019-05-10 |
+| 61 | [803028](../reports/803028.md) | Monero wallet password change is confirmed when not matching | Low | — | 7 | [consistent-dream](https://hackerone.com/consistent-dream) | 2020-03-11 |
+| 62 | [284951](../reports/284951.md) | Out-of-bounds read when importing corrupt blockchain with mo | Low | — | 6 | [sybr](https://hackerone.com/sybr) | 2018-04-25 |
+| 63 | [361269](../reports/361269.md) | Trusted daemon check fails when proxied through torsocks or  | Low | — | 6 | [equim](https://hackerone.com/equim) | 2018-08-02 |
+| 64 | [896338](../reports/896338.md) | Misconfiguration in build environment allows DLL preloading  | Low | — | 5 | [nim4](https://hackerone.com/nim4) | 2022-01-29 |
+| 65 | [344499](../reports/344499.md) | epee will accept an arbitrary amount of leading line-breaks  | Low | — | 4 | [ahook](https://hackerone.com/ahook) | 2018-08-02 |
+| 66 | [766963](../reports/766963.md) | Potential linkage of public/private (anonymous) node address | Low | — | 3 | [ahook](https://hackerone.com/ahook) | 2020-03-11 |
+| 67 | [3738727](../reports/3738727.md) | Restricted RPC leaks alternative block hashes via /get_alt_b | Low | — | 1 | [int0ha_](https://hackerone.com/int0ha_) | 2026-07-20 |
+| 68 | [3749681](../reports/3749681.md) | Background sync cache retains outgoing additional transactio | Low — CVSS 2.8 | — | 1 | [qttps](https://hackerone.com/qttps) | 2026-08-20 |
+| 69 | [2425873](../reports/2425873.md) | [Monero wallet RPC] File precreation to file ownership and c | None | — | 75 | [selmelc](https://hackerone.com/selmelc) | 2024-09-04 |
+| 70 | [265161](../reports/265161.md) | Monero Website & Kovri on your policy are returning 404 not  | None | — | 29 | [r3y](https://hackerone.com/r3y) | 2018-04-25 |
+| 71 | [3240792](../reports/3240792.md) | Reported RPC Overflow | None | — | 25 | [jehrenhofermagicgrants](https://hackerone.com/jehrenhofermagicgrants) | 2026-04-06 |
+| 72 | [2693786](../reports/2693786.md) | A peer can remotely fill the pending block queue to an extre | None | — | 22 | [boog900](https://hackerone.com/boog900) | 2025-04-23 |
+| 73 | [2315026](../reports/2315026.md) | Transactions in invalid blocks are kept in tx-pool without u | None | — | 22 | [boog900](https://hackerone.com/boog900) | 2025-04-23 |
+| 74 | [2677306](../reports/2677306.md) | Spamming highly nested JSON RPC requests cause node to disco | None | — | 22 | [asurar0](https://hackerone.com/asurar0) | 2025-04-23 |
+| 75 | [3241102](../reports/3241102.md) | Reported Denial of Service | None | — | 22 | [jehrenhofermagicgrants](https://hackerone.com/jehrenhofermagicgrants) | 2026-04-06 |
+| 76 | [1668258](../reports/1668258.md) | Reentrancy attack in eth-monero atomic swap | None | — | 15 | [farinavito123](https://hackerone.com/farinavito123) | 2023-04-20 |
+| 77 | [265160](../reports/265160.md) | TabNabbing issue (due to taget=_blank) | None | — | 11 | [ursa](https://hackerone.com/ursa) | 2018-04-25 |
+| 78 | [390499](../reports/390499.md) | Stack Overflow in JSON RPC Server | None | — | 10 | [talko](https://hackerone.com/talko) | 2018-09-28 |
+| 79 | [321213](../reports/321213.md) | Monero GUI not linked with /DYNAMICBASE or hardening on wind | None | — | 9 | [flxflndy_](https://hackerone.com/flxflndy_) | 2018-03-18 |
+| 80 | [543782](../reports/543782.md) | Excessive Resource Usage | None | — | 9 | [talko](https://hackerone.com/talko) | 2019-07-03 |
+| 81 | [3547349](../reports/3547349.md) | Inverted ternary in peerlist_manager::filter() allows unlimi | None | — | 4 | [kklam32](https://hackerone.com/kklam32) | 2026-06-29 |
+| 82 | [3185083](../reports/3185083.md) | Connection Count Bug in Monero Node Enables Outbound Peer Re | None | — | 3 | [yulge](https://hackerone.com/yulge) | 2026-05-06 |

@@ -12189,6 +12189,7 @@ https://hackerone.com/reports/3717365 | mbedTLS private-key blob null-terminatio
 https://hackerone.com/reports/3717552 | CURLOPT_PROXY_CRLFILE / CURLOPT_PROXY_ISSUERCERT / CURLOPT_PROXY_ISSUERCERT_BLOB silently ignored on backends that don't support them
 https://hackerone.com/reports/3718195 | CVE-2026-8286: wrong STARTTLS connection reuse
 https://hackerone.com/reports/3718265 | Shared HSTS cache accessed without lock
+https://hackerone.com/reports/3719670 | `monero-wallet-rpc::rescan_spent` accepts daemon-supplied spent-status from an untrusted daemon, enabling ring-intersection attack on transactions
 https://hackerone.com/reports/3720313 | Proxy credentials leaked in ERR_PROXY_TUNNEL error message
 https://hackerone.com/reports/3721183 | CVE-2026-8458: wrong reuse for different services
 https://hackerone.com/reports/3721519 | Liberapay member team twitter account broken Link Hijacking via Expired Twitter Account Link
