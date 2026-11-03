@@ -246237,5 +246237,24 @@
     "reported_at": "2026-10-26",
     "disclosed_at": "2026-10-27T07:53:09.340Z",
     "votes": 0
+  },
+  {
+    "id": 4166602,
+    "url": "https://hackerone.com/reports/4166602",
+    "title": "Re-entrant curl_easy_pause UAF in cw-pause",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "gube-dev",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Use After Free",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-11-02",
+    "disclosed_at": "2026-11-03T13:06:55.971Z",
+    "votes": 0
   }
 ]
