@@ -12409,6 +12409,7 @@ https://hackerone.com/reports/3938220 | libcurl cache updates follow symlinks an
 https://hackerone.com/reports/3938927 | An organization admin can create an attacker-controlled organization owner via the gem transfer flow
 https://hackerone.com/reports/3943339 | One-click cross-account JavaScript execution steals a victim write token through Turbo pagination and unattached Active Storage HTML
 https://hackerone.com/reports/3952619 | Domainless COOKIEFILE cookie leaks to unrelated IP-literal hosts
+https://hackerone.com/reports/3954327 | Unauthenticated access to Checkout Blocks employee-only endpoints exposed merchant metadata
 https://hackerone.com/reports/3955945 | curl_share TOCTOU > RCE via Curl_llist _dtor Function Pointer Hijack
 https://hackerone.com/reports/3955956 | launchpad.37signals.com OAuth AS issues victim-bound credential to unverified attacker redirect → full CIA triad on Basecamp API
 https://hackerone.com/reports/3962304 | Improper certificate validation for non-canonical IPv4 hostnames allows DNS SANs to authenticate IP endpoints
@@ -12526,6 +12527,7 @@ https://hackerone.com/reports/4053116 | curl CONNECT response header colon-check
 https://hackerone.com/reports/4053546 | Information Disclosure - Unauthen Leak Private Content
 https://hackerone.com/reports/4057637 | [HIGH] CWE-22 — Path Traversal in FTP Wildcard Download via Unencoded `.` in Escaped Filenames
 https://hackerone.com/reports/4059104 | IMAP literal size truncation on 32-bit platforms corrupts downloads and desynchronizes the response parser
+https://hackerone.com/reports/4062511 | `Vary` cache-key conflation of absent and empty request fields
 https://hackerone.com/reports/4063328 | curl tool: --hsts is ignored for a schemeless URL starting with a slash under --proto-default http
 https://hackerone.com/reports/4064040 | Use-after-free read of the freed referer buffer in `curl_easy_setopt(CURLOPT_REFERER)` — stale heap bytes transmitted in an outbound `Referer:` heade
 https://hackerone.com/reports/4071064 | Unauthenticated self-registration on ████████ grants full access to internal supplier procurement portal and vendor data

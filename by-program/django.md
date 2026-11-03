@@ -1,4 +1,4 @@
-# Django — Disclosed Reports (11 total)
+# Django — Disclosed Reports (12 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -12,6 +12,7 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 6 | [1415436](../reports/1415436.md) | Deserialization of potentially malicious data to RCE | High | — | 7 | [scaramouche31](https://hackerone.com/scaramouche31) | 2022-01-14 |
 | 7 | [418743](../reports/418743.md) | Email Spoofing Possible on djangoproject.com Email Domain | Medium | — | 8 | [greenwolf](https://hackerone.com/greenwolf) | 2018-10-05 |
 | 8 | [3328367](../reports/3328367.md) | Path traversal via archive.extract - CVE 2021-3281 incomplet | Low — CVSS 3.7 | — | 38 | [stackered](https://hackerone.com/stackered) | 2025-11-21 |
-| 9 | [26647](../reports/26647.md) | CSRF protection bypass on any Django powered site via Google | None | — | 70 | [bobrov](https://hackerone.com/bobrov) | 2016-09-26 |
-| 10 | [3424977](../reports/3424977.md) | User enumeration via timing attack in Django mod_wsgi authen | None | — | 61 | [stackered](https://hackerone.com/stackered) | 2026-02-04 |
-| 11 | [3426417](../reports/3426417.md) | ASGIRequest header concatenation quadratic CPU DoS on Django | None | — | 24 | [sy2n0](https://hackerone.com/sy2n0) | 2026-02-09 |
+| 9 | [4062511](../reports/4062511.md) | `Vary` cache-key conflation of absent and empty request fiel | Low | — | 2 | [dogeshark](https://hackerone.com/dogeshark) | 2026-11-03 |
+| 10 | [26647](../reports/26647.md) | CSRF protection bypass on any Django powered site via Google | None | — | 70 | [bobrov](https://hackerone.com/bobrov) | 2016-09-26 |
+| 11 | [3424977](../reports/3424977.md) | User enumeration via timing attack in Django mod_wsgi authen | None | — | 61 | [stackered](https://hackerone.com/stackered) | 2026-02-04 |
+| 12 | [3426417](../reports/3426417.md) | ASGIRequest header concatenation quadratic CPU DoS on Django | None | — | 24 | [sy2n0](https://hackerone.com/sy2n0) | 2026-02-09 |

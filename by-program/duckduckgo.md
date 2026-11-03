@@ -13,8 +13,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 7 | [398641](../reports/398641.md) | SSRF on duckduckgo.com/iu/ | High | — | 163 | [d0nut](https://hackerone.com/d0nut) | 2018-09-09 |
 | 8 | [486732](../reports/486732.md) | Partial bypass of #483774 with Blind XXE on https://duckduck | High | — | 158 | [mik317](https://hackerone.com/mik317) | 2019-02-25 |
 | 9 | [1110229](../reports/1110229.md) | Reflected/Stored XSS on duckduckgo.com | High | — | 134 | [monke](https://hackerone.com/monke) | 2021-04-10 |
-| 10 | [358119](../reports/358119.md) | SSRF in proxy.duckduckgo.com via the image_host parameter | High — CVSS 7.5 | — | 16 | [fpatrik](https://hackerone.com/fpatrik) | 2018-08-15 |
-| 11 | [405191](../reports/405191.md) | DOM XSS on 50x.html page | High | — | 16 | [cujanovic](https://hackerone.com/cujanovic) | 2018-10-16 |
+| 10 | [405191](../reports/405191.md) | DOM XSS on 50x.html page | High | — | 16 | [cujanovic](https://hackerone.com/cujanovic) | 2018-10-16 |
+| 11 | [358119](../reports/358119.md) | SSRF in proxy.duckduckgo.com via the image_host parameter | High — CVSS 7.5 | — | 16 | [fpatrik](https://hackerone.com/fpatrik) | 2018-08-15 |
 | 12 | [426275](../reports/426275.md) | DOM XSS on 50x.html page on proxy.duckduckgo.com | High | — | 14 | [smither](https://hackerone.com/smither) | 2018-11-07 |
 | 13 | [876148](../reports/876148.md) | DOM XSS on duckduckgo.com search | Medium — CVSS 6.4 | — | 74 | [cujanovic](https://hackerone.com/cujanovic) | 2020-06-26 |
 | 14 | [910427](../reports/910427.md) | XSS on Videos IA | Medium — CVSS 6.4 | — | 67 | [benzetaa](https://hackerone.com/benzetaa) | 2020-07-31 |

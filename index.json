@@ -242517,6 +242517,25 @@
     "votes": 6
   },
   {
+    "id": 3954327,
+    "url": "https://hackerone.com/reports/3954327",
+    "title": "Unauthenticated access to Checkout Blocks employee-only endpoints exposed merchant metadata",
+    "visibility": "full",
+    "program": "Shopify",
+    "program_handle": "shopify",
+    "reporter": "cafecito",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Missing Authentication for Critical Function",
+    "bounty": 3100.0,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "OTHER",
+    "reported_at": "2026-08-19",
+    "disclosed_at": "2026-11-03T21:22:41.283Z",
+    "votes": 3
+  },
+  {
     "id": 3955945,
     "url": "https://hackerone.com/reports/3955945",
     "title": " curl_share TOCTOU > RCE via Curl_llist _dtor Function Pointer Hijack",
@@ -244845,6 +244864,25 @@
     "reported_at": "2026-09-25",
     "disclosed_at": "2026-10-05T11:31:11.567Z",
     "votes": 0
+  },
+  {
+    "id": 4062511,
+    "url": "https://hackerone.com/reports/4062511",
+    "title": "`Vary` cache-key conflation of absent and empty request fields",
+    "visibility": "full",
+    "program": "Django",
+    "program_handle": "django",
+    "reporter": "dogeshark",
+    "severity": "low",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-09-26",
+    "disclosed_at": "2026-11-03T18:51:42.946Z",
+    "votes": 2
   },
   {
     "id": 4063328,

@@ -10,8 +10,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 4 | [586251](../reports/586251.md) | Homebrew installed LaunchDaemons create simple root esclatio | High | — | 8 | [keeleysam](https://hackerone.com/keeleysam) | 2019-05-24 |
 | 5 | [221869](../reports/221869.md) | Email enumeration of users | Medium | — | 145 | [pappan](https://hackerone.com/pappan) | 2019-03-05 |
 | 6 | [221833](../reports/221833.md) | [https://jenkins.brew.sh] Jenkins in Debug Mode with Stack T | Medium | — | 14 | [zephrfish](https://hackerone.com/zephrfish) | 2017-04-19 |
-| 7 | [1166535](../reports/1166535.md) | Brew bootstrap process is insecure | Medium | — | 8 | [nightwatch-cybersecurity](https://hackerone.com/nightwatch-cybersecurity) | 2021-04-30 |
-| 8 | [222096](../reports/222096.md) | [bot.brew.sh] Full Path Disclosure | Medium — CVSS 5.3 | — | 8 | [zephrfish](https://hackerone.com/zephrfish) | 2017-04-26 |
+| 7 | [222096](../reports/222096.md) | [bot.brew.sh] Full Path Disclosure | Medium — CVSS 5.3 | — | 8 | [zephrfish](https://hackerone.com/zephrfish) | 2017-04-26 |
+| 8 | [1166535](../reports/1166535.md) | Brew bootstrap process is insecure | Medium | — | 8 | [nightwatch-cybersecurity](https://hackerone.com/nightwatch-cybersecurity) | 2021-04-30 |
 | 9 | [221908](../reports/221908.md) | Host header Injection | Medium | — | 7 | [sumit7](https://hackerone.com/sumit7) | 2017-04-19 |
 | 10 | [222108](../reports/222108.md) | Stack Trace on jenkins.brew.sh | Medium | — | 3 | [mrnull1337](https://hackerone.com/mrnull1337) | 2017-04-19 |
 | 11 | [1283871](../reports/1283871.md) | Bypass of the installation sandbox by injecting keystrokes w | Low — CVSS 2.0 | — | 5 | [gedwards](https://hackerone.com/gedwards) | 2021-08-30 |
