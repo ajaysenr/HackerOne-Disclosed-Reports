@@ -16,5 +16,5 @@
 | 10 | [3590576](../reports/3590576.md) | SMIL values and by attributes bypass remote image blocking via un | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.7 | — | 26 |
 | 11 | [218342](../reports/218342.md) | RCE (Remote Code Execution) Vulnerability on Ruby | [Ruby](../by-program/ruby.md) | Medium — CVSS 6.9 | — | 9 |
 | 12 | [566056](../reports/566056.md) | [larvitbase-api] Unintended Require | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.4 | — | 7 |
-| 13 | [579560](../reports/579560.md) | [larvitbase-www] Unintended Require | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.4 | — | 6 |
-| 14 | [1121317](../reports/1121317.md) | Unrestricted file upload vulnerability in IMCE | [Acronis](../by-program/acronis.md) | Medium | — | 6 |
+| 13 | [1121317](../reports/1121317.md) | Unrestricted file upload vulnerability in IMCE | [Acronis](../by-program/acronis.md) | Medium | — | 6 |
+| 14 | [579560](../reports/579560.md) | [larvitbase-www] Unintended Require | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.4 | — | 6 |

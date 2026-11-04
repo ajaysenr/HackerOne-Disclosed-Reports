@@ -74,8 +74,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 68 | [2209429](../reports/2209429.md) | Using Branded Hashtag Feature User Partnered with Account Ma | Medium | — | 86 | [dxcoder](https://hackerone.com/dxcoder) | 2024-04-03 |
 | 69 | [1897443](../reports/1897443.md) | 1 Click to 'Close Account and Refund' via POSTMESSAGE | Medium — CVSS 6.3 | — | 79 | [sinayeganeh](https://hackerone.com/sinayeganeh) | 2024-01-03 |
 | 70 | [2178061](../reports/2178061.md) | Reflected XSS On [https://www-useast1a.tiktok.com/ug/incenti | Medium — CVSS 4.7 | — | 78 | [ashrafabdelrazik](https://hackerone.com/ashrafabdelrazik) | 2024-01-12 |
-| 71 | [1890310](../reports/1890310.md) | CSRF in ticket function | Medium | — | 78 | [ibrahim0936356](https://hackerone.com/ibrahim0936356) | 2024-11-05 |
-| 72 | [1598749](../reports/1598749.md) | TikTok's pixel/sdk.js leaks current URL from websites using  | Medium — CVSS 5.9 | — | 78 | [fransrosen](https://hackerone.com/fransrosen) | 2022-08-30 |
+| 71 | [1598749](../reports/1598749.md) | TikTok's pixel/sdk.js leaks current URL from websites using  | Medium — CVSS 5.9 | — | 78 | [fransrosen](https://hackerone.com/fransrosen) | 2022-08-30 |
+| 72 | [1890310](../reports/1890310.md) | CSRF in ticket function | Medium | — | 78 | [ibrahim0936356](https://hackerone.com/ibrahim0936356) | 2024-11-05 |
 | 73 | [1554048](../reports/1554048.md) | XSS Payload on TikTok Seller Center endpoint | Medium — CVSS 5.4 | — | 77 | [find_me_here](https://hackerone.com/find_me_here) | 2022-06-29 |
 | 74 | [1376961](../reports/1376961.md) | Cross-site Scripting (XSS) - Stored on ads.tiktok.com in Tex | Medium — CVSS 5.4 | — | 75 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2022-01-20 |
 | 75 | [1322104](../reports/1322104.md) | XSS on tiktok.com | Medium | — | 72 | [sepolia](https://hackerone.com/sepolia) | 2021-10-23 |
@@ -113,8 +113,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 107 | [1586950](../reports/1586950.md) | IDOR in family pairing API | Low — CVSS 3.1 | — | 43 | [ahmedna126](https://hackerone.com/ahmedna126) | 2023-06-02 |
 | 108 | [1066607](../reports/1066607.md) | HTML Injection through Account Name field on TikTok ads port | Low — CVSS 3.1 | — | 36 | [nagli](https://hackerone.com/nagli) | 2021-03-19 |
 | 109 | [1378533](../reports/1378533.md) | Open Redirect TO  Stealing aadvid | Low — CVSS 3.1 | — | 31 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2022-03-02 |
-| 110 | [1509057](../reports/1509057.md) | IDOR on TikTok Seller | Low — CVSS 3.7 | — | 30 | [find_me_here](https://hackerone.com/find_me_here) | 2022-08-16 |
-| 111 | [1133661](../reports/1133661.md) | TikTok Session Donation CSRF via QR code login | Low — CVSS 3.1 | — | 30 | [lauritz](https://hackerone.com/lauritz) | 2021-06-17 |
+| 110 | [1133661](../reports/1133661.md) | TikTok Session Donation CSRF via QR code login | Low — CVSS 3.1 | — | 30 | [lauritz](https://hackerone.com/lauritz) | 2021-06-17 |
+| 111 | [1509057](../reports/1509057.md) | IDOR on TikTok Seller | Low — CVSS 3.7 | — | 30 | [find_me_here](https://hackerone.com/find_me_here) | 2022-08-16 |
 | 112 | [1793940](../reports/1793940.md) | Any user can vote on `Friend Only` video pull | Low — CVSS 3.1 | — | 26 | [mrhavit](https://hackerone.com/mrhavit) | 2023-01-27 |
 | 113 | [1006599](../reports/1006599.md) | Blind SSRF in ads.tiktok.com | Low — CVSS 3.7 | — | 23 | [chihuahua](https://hackerone.com/chihuahua) | 2020-12-17 |
 | 114 | [948146](../reports/948146.md) | Rate limiting on report video | Low | — | 22 | [alertjd](https://hackerone.com/alertjd) | 2021-02-02 |

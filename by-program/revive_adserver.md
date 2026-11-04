@@ -31,8 +31,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 25 | [1083231](../reports/1083231.md) | Reflected XSS on /admin/userlog-index.php | Medium | — | 20 | [solov9ev](https://hackerone.com/solov9ev) | 2021-01-26 |
 | 26 | [3403727](../reports/3403727.md) | Reflected XSS in /admin/banner-zone.php (v6.0.0+) | Medium — CVSS 6.1 | — | 18 | [vidang04](https://hackerone.com/vidang04) | 2025-11-19 |
 | 27 | [3403450](../reports/3403450.md) | Information Disclosure via Verbose Error Messages | Medium — CVSS 4.3 | — | 17 | [yoyomiski](https://hackerone.com/yoyomiski) | 2025-11-19 |
-| 28 | [3401464](../reports/3401464.md) | Information Disclosure via “Add user” lookup in Account Mana | Medium — CVSS 4.3 | — | 16 | [yoyomiski](https://hackerone.com/yoyomiski) | 2025-11-19 |
-| 29 | [775693](../reports/775693.md) | Reflected XSS on www/delivery/afr.php | Medium — CVSS 4.3 | — | 16 | [jacopotediosi](https://hackerone.com/jacopotediosi) | 2020-01-21 |
+| 28 | [775693](../reports/775693.md) | Reflected XSS on www/delivery/afr.php | Medium — CVSS 4.3 | — | 16 | [jacopotediosi](https://hackerone.com/jacopotediosi) | 2020-01-21 |
+| 29 | [3401464](../reports/3401464.md) | Information Disclosure via “Add user” lookup in Account Mana | Medium — CVSS 4.3 | — | 16 | [yoyomiski](https://hackerone.com/yoyomiski) | 2025-11-19 |
 | 30 | [986365](../reports/986365.md) | Reflected XSS on /www/delivery/afr.php (bypass of report #77 | Medium | — | 16 | [axfla](https://hackerone.com/axfla) | 2021-01-19 |
 | 31 | [1306942](../reports/1306942.md) | Use of a Broken or Risky Cryptographic Algorithm | Medium | — | 15 | [418sec](https://hackerone.com/418sec) | 2021-09-15 |
 | 32 | [1187820](../reports/1187820.md) | Reflected XSS on /admin/stats.php | Medium | — | 12 | [solov9ev](https://hackerone.com/solov9ev) | 2021-06-03 |
@@ -41,15 +41,15 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 35 | [3650582](../reports/3650582.md) | Missing access control when linking trackers to campaigns | Medium — CVSS 4.3 | — | 8 | [darky_os](https://hackerone.com/darky_os) | 2026-06-03 |
 | 36 | [1097979](../reports/1097979.md) | Reflected XSS on /admin/campaign-zone-zones.php | Medium | — | 7 | [solov9ev](https://hackerone.com/solov9ev) | 2021-03-16 |
 | 37 | [3780806](../reports/3780806.md) | Reflected XSS via unsanitised refresh parameter in zone invo | Medium — CVSS 6.1 | — | 5 | [kanon4](https://hackerone.com/kanon4) | 2026-06-25 |
-| 38 | [3653316](../reports/3653316.md) | Reflected XSS via clientid parameter in zone‑include.php | Medium — CVSS 6.1 | — | 5 | [titanrain](https://hackerone.com/titanrain) | 2026-06-03 |
-| 39 | [3669623](../reports/3669623.md) | Stored XSS via Full Name field in userlog email entries | Medium — CVSS 5.4 | — | 5 | [3l4](https://hackerone.com/3l4) | 2026-06-03 |
+| 38 | [3669623](../reports/3669623.md) | Stored XSS via Full Name field in userlog email entries | Medium — CVSS 5.4 | — | 5 | [3l4](https://hackerone.com/3l4) | 2026-06-03 |
+| 39 | [3653316](../reports/3653316.md) | Reflected XSS via clientid parameter in zone‑include.php | Medium — CVSS 6.1 | — | 5 | [titanrain](https://hackerone.com/titanrain) | 2026-06-03 |
 | 40 | [3783738](../reports/3783738.md) | XML‑RPC login leak exposes valid session ID enabling unautho | Medium — CVSS 4.3 | — | 4 | [garuthacktvist](https://hackerone.com/garuthacktvist) | 2026-06-25 |
 | 41 | [3781311](../reports/3781311.md) | Stored XSS in maintenance tools via unescaped entity names | Medium — CVSS 4.4 | — | 3 | [an_gr_y](https://hackerone.com/an_gr_y) | 2026-06-25 |
 | 42 | [3780709](../reports/3780709.md) | Missing ownership validation allows cross‑manager tracker–ca | Medium — CVSS 4.3 | — | 3 | [hakuopi](https://hackerone.com/hakuopi) | 2026-06-25 |
 | 43 | [3677576](../reports/3677576.md) | Missing access control when modifying parent entities via XM | Medium — CVSS 4.3 | — | 2 | [3l4](https://hackerone.com/3l4) | 2026-06-03 |
 | 44 | [3672641](../reports/3672641.md) | Session ID reuse allowing XML‑RPC API authentication bypass | Medium — CVSS 4.3 | — | 2 | [0x4c616e](https://hackerone.com/0x4c616e) | 2026-06-03 |
-| 45 | [3781691](../reports/3781691.md) | CSRF in zone‑include.php allows unauthorized banner and camp | Medium — CVSS 5.4 | — | 2 | [an_gr_y](https://hackerone.com/an_gr_y) | 2026-06-25 |
-| 46 | [3678828](../reports/3678828.md) | Banner status override by advertiser‑level users | Medium — CVSS 4.3 | — | 2 | [v3rtical](https://hackerone.com/v3rtical) | 2026-06-03 |
+| 45 | [3678828](../reports/3678828.md) | Banner status override by advertiser‑level users | Medium — CVSS 4.3 | — | 2 | [v3rtical](https://hackerone.com/v3rtical) | 2026-06-03 |
+| 46 | [3781691](../reports/3781691.md) | CSRF in zone‑include.php allows unauthorized banner and camp | Medium — CVSS 5.4 | — | 2 | [an_gr_y](https://hackerone.com/an_gr_y) | 2026-06-25 |
 | 47 | [1081406](../reports/1081406.md) | Open redirect in ck.php and lg.php | Medium — CVSS 5.4 | — | 1 | [mbeccati](https://hackerone.com/mbeccati) | 2021-01-20 |
 | 48 | [3793243](../reports/3793243.md) | Reflected XSS in stats‑video.php via improperly encoded URL  | Medium — CVSS 4.7 | — | 1 | [kanon4](https://hackerone.com/kanon4) | 2026-06-25 |
 | 49 | [3399218](../reports/3399218.md) | Improper sanitisation of input in the settings could cause D | Low — CVSS 2.7 | — | 24 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2025-11-19 |
