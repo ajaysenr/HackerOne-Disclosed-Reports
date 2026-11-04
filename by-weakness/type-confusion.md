@@ -1,4 +1,4 @@
-# Weakness: Type Confusion (8 reports)
+# Weakness: Type Confusion (9 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -8,7 +8,8 @@
 | 2 | [2493548](../reports/2493548.md) | Incorrect Type Conversion in interpreting IPv4-mapped IPv6 addres | [curl](../by-program/curl.md) | Critical — CVSS 9.8 | — | 20 |
 | 3 | [960244](../reports/960244.md) | Insufficient Type Check leading to Developer ability to delete Pr | [GitLab](../by-program/gitlab.md) | High | — | 16 |
 | 4 | [198733](../reports/198733.md) | Type Confusion in Object Deserialization | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 3 |
-| 5 | [2552179](../reports/2552179.md) | Incorrect Encoding Conversion in hostname  results in indetermina | [curl](../by-program/curl.md) | Low | — | 7 |
-| 6 | [3261248](../reports/3261248.md) | GnuTLS CURLINFO_TLS_SESSION / CURLINFO_TLS_SSL_PTR type confusion | [curl](../by-program/curl.md) | None | — | 20 |
-| 7 | [3973152](../reports/3973152.md) | 37: `curl_mprintf` `%F` format specifier not consumed, causing va | [curl](../by-program/curl.md) | None | — | 4 |
-| 8 | [292500](../reports/292500.md) | User provided values passed to PHP unset() function | [Coinbase](../by-program/coinbase.md) | None | — | 1 |
+| 5 | [3891337](../reports/3891337.md) | Connector/ODBC SQLGetDescRec treats descriptor handle as statemen | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 5.7 | — | 1 |
+| 6 | [2552179](../reports/2552179.md) | Incorrect Encoding Conversion in hostname  results in indetermina | [curl](../by-program/curl.md) | Low | — | 7 |
+| 7 | [3261248](../reports/3261248.md) | GnuTLS CURLINFO_TLS_SESSION / CURLINFO_TLS_SSL_PTR type confusion | [curl](../by-program/curl.md) | None | — | 20 |
+| 8 | [3973152](../reports/3973152.md) | 37: `curl_mprintf` `%F` format specifier not consumed, causing va | [curl](../by-program/curl.md) | None | — | 4 |
+| 9 | [292500](../reports/292500.md) | User provided values passed to PHP unset() function | [Coinbase](../by-program/coinbase.md) | None | — | 1 |

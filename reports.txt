@@ -12376,9 +12376,17 @@ https://hackerone.com/reports/3880451 | Privilege escalation via user controlled
 https://hackerone.com/reports/3887969 | SSRF via URL Parser Differential in `normalize_request_url` (wlc)
 https://hackerone.com/reports/3889473 | @jitsi/docker-jitsi-meet: `/colibri-relay-ws/` unsafe nginx regex (OCTO relay configuration)
 https://hackerone.com/reports/3889667 | ACL cache collision lets a role inherit privileges from a same-named socket user
+https://hackerone.com/reports/3890289 | Connector/C++ string escaper re-escapes its own output, enabling SQL injection
+https://hackerone.com/reports/3890329 | Connector/C++ ignores allowMultiQueries and injects savepoint names into SQL
+https://hackerone.com/reports/3890352 | Connector/C++ aborts client process on server session-tracking packet via std::stoi
+https://hackerone.com/reports/3891319 | Stack buffer overflow in 9 of 10 Connector/ODBC catalog functions via unbounded name
+https://hackerone.com/reports/3891337 | Connector/ODBC SQLGetDescRec treats descriptor handle as statement handle, heap OOB write on every call
+https://hackerone.com/reports/3891779 | Connector/ODBC injects unquoted column names into positioned DELETE and UPDATE via MADB_DynStrGetWhere
 https://hackerone.com/reports/3893632 | Unauthenticated disclosure of draft/private/pending post titles & IDs via Secure Custom Fields nopriv AJAX field-query handlers (post_object/relations
 https://hackerone.com/reports/3896507 | Server crash (stack-overflow DoS) via unbounded recursion in MariaDB WKB GEOMETRYCOLLECTION parser
+https://hackerone.com/reports/3896617 | Connector/C TLS auth-switch bypass exposes plaintext password on hostname verification failure
 https://hackerone.com/reports/3896671 | Connector/C Out-of-bounds read in `unpack_fields()` from short metadata field
+https://hackerone.com/reports/3896684 | Connector/C Out-of-bounds read from unterminated GSSAPI SPN in `parse_server_packet()`
 https://hackerone.com/reports/3897236 | RCE in AWS Amplify CLI via Prototype Chain Traversal in amplify-velocity-template
 https://hackerone.com/reports/3897588 | KILL authorization trusts the presented login name instead of the authenticated anonymous account
 https://hackerone.com/reports/3897914 | Out-of-bounds read in MariaDB .frm parsing enables RCE via vtable hijacking
@@ -12395,6 +12403,9 @@ https://hackerone.com/reports/3915935 | Heap Use-After-Free in Materialized_curs
 https://hackerone.com/reports/3916059 | CVE-2026-18924: HTTP/2 server push UAF
 https://hackerone.com/reports/3917775 | curl Missing Sec-WebSocket-Accept Verification Enables MITM WebSocket Session Hijacking
 https://hackerone.com/reports/3920276 | Cookie jar load skips public suffix check on PSL builds
+https://hackerone.com/reports/3920629 | r2dbc-mariadb: server message accepted with no command in flight desynchronises the connection and serves one user's rows to another
+https://hackerone.com/reports/3920633 | Connector/ODBC: SqlwcsOctetLen sizes UTF-16 with a byte-oriented helper, reading past the caller's buffer and sending client memory to the server
+https://hackerone.com/reports/3920647 | Connector/ODBC: MADB_Stmt::ArrayOffset is not reset when an exception unwinds out of MADB_StmtExecute, so the next paramset reads out of bounds
 https://hackerone.com/reports/3923212 | URL API: triple-slash parses path segment as hostname
 https://hackerone.com/reports/3923520 | CVE-2026-19931: Negotiate ambient user conn reuse
 https://hackerone.com/reports/3923967 | WordPress 7.1 Media Processing Race Enables Persistent PHP File Write and Author-to-RCE
