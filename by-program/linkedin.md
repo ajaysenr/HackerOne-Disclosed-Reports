@@ -22,8 +22,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 16 | [1734639](../reports/1734639.md) | IDOR to make someone attend or leave an event | Medium — CVSS 6.5 | — | 78 | [safehacker_2715](https://hackerone.com/safehacker_2715) | 2026-03-06 |
 | 17 | [2299571](../reports/2299571.md) | Employee-only Area Bypass | Medium — CVSS 5.3 | — | 74 | [m0ntriz](https://hackerone.com/m0ntriz) | 2024-02-19 |
 | 18 | [3604288](../reports/3604288.md) | Access to Deactivated LinkedIn Company Pages via Competitor  | Medium — CVSS 5.3 | — | 66 | [riadalrashed](https://hackerone.com/riadalrashed) | 2026-03-24 |
-| 19 | [1581528](../reports/1581528.md) | Can access the job name, creator name and can report any dra | Medium — CVSS 5.3 | — | 63 | [sachin_kr](https://hackerone.com/sachin_kr) | 2022-07-20 |
-| 20 | [1892888](../reports/1892888.md) | Users can access exams in course without having to subscribe | Medium — CVSS 5.3 | — | 63 | [find_me_here](https://hackerone.com/find_me_here) | 2024-01-10 |
+| 19 | [1892888](../reports/1892888.md) | Users can access exams in course without having to subscribe | Medium — CVSS 5.3 | — | 63 | [find_me_here](https://hackerone.com/find_me_here) | 2024-01-10 |
+| 20 | [1581528](../reports/1581528.md) | Can access the job name, creator name and can report any dra | Medium — CVSS 5.3 | — | 63 | [sachin_kr](https://hackerone.com/sachin_kr) | 2022-07-20 |
 | 21 | [1964211](../reports/1964211.md) | CSRF that makes any linkedin user follow attacker controlled | Medium — CVSS 4.3 | — | 53 | [marvelmaniac](https://hackerone.com/marvelmaniac) | 2023-12-06 |
 | 22 | [2339192](../reports/2339192.md) | Blocking a company page admin prevents him from delete paid  | Medium — CVSS 4.3 | — | 51 | [riadalrashed](https://hackerone.com/riadalrashed) | 2026-03-05 |
 | 23 | [1592587](../reports/1592587.md) | IDOR - Delete technical skill assessment result & Gained Bad | Medium — CVSS 5.3 | — | 48 | [sachin_kr](https://hackerone.com/sachin_kr) | 2022-10-05 |

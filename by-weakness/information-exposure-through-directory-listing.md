@@ -15,16 +15,16 @@
 | 9 | [490379](../reports/490379.md) | [glance] Access unlisted internal files/folders revealing sensiti | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.5 | — | 19 |
 | 10 | [1948562](../reports/1948562.md) | Information Exposure Through Directory Listing | [Mars](../by-program/mars.md) | High | — | 13 |
 | 11 | [432600](../reports/432600.md) | [static-resource-server]  Path Traversal allows to read content o | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | — | 6 |
-| 12 | [278225](../reports/278225.md) | If the developer forgets to remove the built in controller welcom | [CodeIgniter](../by-program/codeigniter.md) | High — CVSS 8.4 | — | 4 |
-| 13 | [778931](../reports/778931.md) | Source code disclosed via S3 Bucket | [Ruby](../by-program/ruby.md) | High | — | 4 |
+| 12 | [778931](../reports/778931.md) | Source code disclosed via S3 Bucket | [Ruby](../by-program/ruby.md) | High | — | 4 |
+| 13 | [278225](../reports/278225.md) | If the developer forgets to remove the built in controller welcom | [CodeIgniter](../by-program/codeigniter.md) | High — CVSS 8.4 | — | 4 |
 | 14 | [1316412](../reports/1316412.md) | Information Exposure Through Directory Listing | [Tor](../by-program/torproject.md) | High | — | 3 |
 | 15 | [2311179](../reports/2311179.md) | Directory Listing of publicly available assets | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 70 |
 | 16 | [1622624](../reports/1622624.md) | Public Apache Tomcat /examples example directory | [8x8](../by-program/8x8-bounty.md) | Medium | — | 17 |
 | 17 | [789388](../reports/789388.md) | Accessible Restricted directory on [bcm-bcaw.mtn.cm] | [MTN Group](../by-program/mtn_group.md) | Medium — CVSS 5.3 | — | 15 |
 | 18 | [762118](../reports/762118.md) | Upload directory of Mtn.ci | [MTN Group](../by-program/mtn_group.md) | Medium — CVSS 5.3 | — | 7 |
 | 19 | [461242](../reports/461242.md) | Open Directory | [RATELIMITED](../by-program/ratelimited.md) | Medium | — | 6 |
-| 20 | [453820](../reports/453820.md) | [harp] File access even when they have been set to be ignored. | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.3 | — | 4 |
-| 21 | [760484](../reports/760484.md) | Upload directory of Mtn.co.sz has listing enabled | [MTN Group](../by-program/mtn_group.md) | Medium | — | 4 |
+| 20 | [760484](../reports/760484.md) | Upload directory of Mtn.co.sz has listing enabled | [MTN Group](../by-program/mtn_group.md) | Medium | — | 4 |
+| 21 | [453820](../reports/453820.md) | [harp] File access even when they have been set to be ignored. | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.3 | — | 4 |
 | 22 | [1476709](../reports/1476709.md) | Information Exposure Through Directory Listing vulnerability | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 3 |
 | 23 | [218876](../reports/218876.md) | Share tokens for public calendars disclosed (NC-SA-2017-011) | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 2 |
 | 24 | [3011146](../reports/3011146.md) | Sensitive Images & Files Exposed Through Directory Listing | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
@@ -37,5 +37,5 @@
 | 31 | [230098](../reports/230098.md) | Full directory path listing | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 14 |
 | 32 | [228112](../reports/228112.md) | Directory Disclose,Email Disclose Zendmail vulnerability | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 8 |
 | 33 | [260221](../reports/260221.md) | Information Exposure Through Directory Listing | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
-| 34 | [1195432](../reports/1195432.md) | Found a url on source code which was disclosing different juicy i | [Sifchain](../by-program/sifchain.md) | None | — | 2 |
-| 35 | [798767](../reports/798767.md) | Accessing repository and other files  by directory listing | [Acronis](../by-program/acronis.md) | None | — | 2 |
+| 34 | [798767](../reports/798767.md) | Accessing repository and other files  by directory listing | [Acronis](../by-program/acronis.md) | None | — | 2 |
+| 35 | [1195432](../reports/1195432.md) | Found a url on source code which was disclosing different juicy i | [Sifchain](../by-program/sifchain.md) | None | — | 2 |

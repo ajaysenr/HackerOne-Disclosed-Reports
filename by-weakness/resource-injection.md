@@ -4,8 +4,8 @@
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |---|---|---|---|---|---|---|
-| 1 | [1533976](../reports/1533976.md) | Content injection in Jira issue title enabling sending arbitrary  | [GitLab](../by-program/gitlab.md) | High — CVSS 7.7 | $8,690 | 54 |
-| 2 | [1409788](../reports/1409788.md) | Arbitrary POST request as victim user from HTML injection in Jupy | [GitLab](../by-program/gitlab.md) | High — CVSS 7.7 | $8,690 | 54 |
+| 1 | [1409788](../reports/1409788.md) | Arbitrary POST request as victim user from HTML injection in Jupy | [GitLab](../by-program/gitlab.md) | High — CVSS 7.7 | $8,690 | 54 |
+| 2 | [1533976](../reports/1533976.md) | Content injection in Jira issue title enabling sending arbitrary  | [GitLab](../by-program/gitlab.md) | High — CVSS 7.7 | $8,690 | 54 |
 | 3 | [1637621](../reports/1637621.md) | Command injection in GitHub Actions ContainerStepHost | [GitHub](../by-program/github.md) | None | $4,000 | 32 |
 | 4 | [790634](../reports/790634.md) | When you call your branch the same name as a git hash, it could b | [GitLab](../by-program/gitlab.md) | Medium | $2,000 | 39 |
 | 5 | [1935628](../reports/1935628.md) | HTML injection possible with soft email confirmations when Admini | [GitLab](../by-program/gitlab.md) | Low — CVSS 3.5 | $1,060 | 59 |
@@ -26,8 +26,8 @@
 | 20 | [241231](../reports/241231.md) | flash injection in http://www.rockstargames.com/IV/imgPlayer/imag | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 8 |
 | 21 | [3124103](../reports/3124103.md) | Swagger UI Injection via Config URL - `███`  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
 | 22 | [2174818](../reports/2174818.md) | YAML schema injection risk in Swagger UI via schema_url parameter | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | Low | — | 24 |
-| 23 | [1183335](../reports/1183335.md) | Object injection in `stripe-billing-typographic` GitHub project v | [Stripe](../by-program/stripe.md) | Low — CVSS 3.7 | — | 17 |
-| 24 | [601192](../reports/601192.md) | HTML injection in https://interviewing.shopify.com/index.php?cand | [Shopify](../by-program/shopify.md) | Low | — | 17 |
+| 23 | [601192](../reports/601192.md) | HTML injection in https://interviewing.shopify.com/index.php?cand | [Shopify](../by-program/shopify.md) | Low | — | 17 |
+| 24 | [1183335](../reports/1183335.md) | Object injection in `stripe-billing-typographic` GitHub project v | [Stripe](../by-program/stripe.md) | Low — CVSS 3.7 | — | 17 |
 | 25 | [257207](../reports/257207.md) | Code injection | [Legal Robot](../by-program/legalrobot.md) | Low — CVSS 3.5 | — | 13 |
 | 26 | [1707977](../reports/1707977.md) | XSS in Desktop Client via user status and information | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 5 |
 | 27 | [1711847](../reports/1711847.md) | XSS in Desktop Client in call notification popup | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 5 |

@@ -49,18 +49,18 @@
 | 43 | [1631228](../reports/1631228.md) | [demo.stripo.email] HTTP request Smuggling | [Stripo Inc](../by-program/stripo.md) | Medium | — | 17 |
 | 44 | [244459](../reports/244459.md) | Apache HTTP Request Parsing Whitespace Defects | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 4.0 | — | 11 |
 | 45 | [643225](../reports/643225.md) | HTTP Request Smuggling | [JamieWeb](../by-program/jamieweb.md) | Medium | — | 10 |
-| 46 | [1524692](../reports/1524692.md) | HTTP Request Smuggling Due To Improper Delimiting of Header Field | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 9 |
-| 47 | [3648681](../reports/3648681.md) | Improper Input Validation — HTTP Response Parser Unconditionally  | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 9 |
+| 46 | [3648681](../reports/3648681.md) | Improper Input Validation — HTTP Response Parser Unconditionally  | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 9 |
+| 47 | [1524692](../reports/1524692.md) | HTTP Request Smuggling Due To Improper Delimiting of Header Field | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 9 |
 | 48 | [1025575](../reports/1025575.md) | Default behavior of Fastifys versioned routes can be used for cac | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.9 | — | 8 |
-| 49 | [2001873](../reports/2001873.md) | HTTP Request Smuggling via Empty headers separated by CR | [Node.js](../by-program/nodejs.md) | Medium | — | 7 |
-| 50 | [1524555](../reports/1524555.md) | HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 7 |
+| 49 | [1524555](../reports/1524555.md) | HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 7 |
+| 50 | [2001873](../reports/2001873.md) | HTTP Request Smuggling via Empty headers separated by CR | [Node.js](../by-program/nodejs.md) | Medium | — | 7 |
 | 51 | [1501679](../reports/1501679.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 7 |
-| 52 | [1665156](../reports/1665156.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium | — | 6 |
+| 52 | [1675191](../reports/1675191.md) | HTTP Request Smuggling Due to Incorrect Parsing of Header Fields | [Node.js](../by-program/nodejs.md) | Medium | — | 6 |
 | 53 | [3723248](../reports/3723248.md) | HTTP Request Smuggling via Connection: close<TAB> in Node.js llht | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.8 | — | 6 |
-| 54 | [1675191](../reports/1675191.md) | HTTP Request Smuggling Due to Incorrect Parsing of Header Fields | [Node.js](../by-program/nodejs.md) | Medium | — | 6 |
+| 54 | [1665156](../reports/1665156.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium | — | 6 |
 | 55 | [1630336](../reports/1630336.md) | CVE-2022-32213 bypass via obs-fold mechanic | [Node.js](../by-program/nodejs.md) | Medium | — | 5 |
-| 56 | [3795615](../reports/3795615.md) | Duplicate chunked Transfer-Encoding lets a malicious origin smugg | [curl](../by-program/curl.md) | Medium | — | 3 |
-| 57 | [4098761](../reports/4098761.md) | HTTP/1.1 connection reuse returns unsolicited server data as the  | [curl](../by-program/curl.md) | Medium | — | 3 |
+| 56 | [4098761](../reports/4098761.md) | HTTP/1.1 connection reuse returns unsolicited server data as the  | [curl](../by-program/curl.md) | Medium | — | 3 |
+| 57 | [3795615](../reports/3795615.md) | Duplicate chunked Transfer-Encoding lets a malicious origin smugg | [curl](../by-program/curl.md) | Medium | — | 3 |
 | 58 | [4025056](../reports/4025056.md) | HTTP/1.1 response framing violation and unsafe connection reuse w | [curl](../by-program/curl.md) | Medium | — | 0 |
 | 59 | [3623064](../reports/3623064.md) | HTTP/1.1 Response Desynchronization via conflicting CL/TE headers | [curl](../by-program/curl.md) | Low | — | 30 |
 | 60 | [1063627](../reports/1063627.md) | HTTP Request Smuggling on https://consumer.acronis.com | [Acronis](../by-program/acronis.md) | Low | — | 16 |
