@@ -40,9 +40,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 34 | [2269867](../reports/2269867.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 79 | [holybugx](https://hackerone.com/holybugx) | 2024-01-04 |
 | 35 | [1888545](../reports/1888545.md) | IDOR - send a message on behalf of other user  | Medium — CVSS 6.5 | — | 78 | [lamscun](https://hackerone.com/lamscun) | 2023-09-20 |
 | 36 | [2686750](../reports/2686750.md) | MozillaVPN: Elevation of Privilege via a Logic Vulnerability | Medium | — | 59 | [northsea](https://hackerone.com/northsea) | 2025-07-03 |
-| 37 | [2131215](../reports/2131215.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 49 | [d0xing](https://hackerone.com/d0xing) | 2024-02-11 |
-| 38 | [2545012](../reports/2545012.md) | Subdomain takeover on one of the subdomains under mozaws.net | Medium | — | 49 | [d0xing](https://hackerone.com/d0xing) | 2024-07-25 |
-| 39 | [1987680](../reports/1987680.md) | Leaking VPN traffic through non-RFC1918 local IP addresses | Medium | — | 49 | [vanhoefm](https://hackerone.com/vanhoefm) | 2024-11-08 |
+| 37 | [1987680](../reports/1987680.md) | Leaking VPN traffic through non-RFC1918 local IP addresses | Medium | — | 49 | [vanhoefm](https://hackerone.com/vanhoefm) | 2024-11-08 |
+| 38 | [2131215](../reports/2131215.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 49 | [d0xing](https://hackerone.com/d0xing) | 2024-02-11 |
+| 39 | [2545012](../reports/2545012.md) | Subdomain takeover on one of the subdomains under mozaws.net | Medium | — | 49 | [d0xing](https://hackerone.com/d0xing) | 2024-07-25 |
 | 40 | [2286867](../reports/2286867.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 44 | [holybugx](https://hackerone.com/holybugx) | 2024-01-04 |
 | 41 | [3020021](../reports/3020021.md) | [Vertical Privilege Escalation] User can Unapproved any Appr | Medium — CVSS 6.5 | — | 42 | [adilnbabras](https://hackerone.com/adilnbabras) | 2026-04-10 |
 | 42 | [2209571](../reports/2209571.md) | Subdomain takeover on one of the subdomain under mozaws.net | Medium | — | 41 | [d0xing](https://hackerone.com/d0xing) | 2024-02-03 |

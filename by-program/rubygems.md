@@ -23,8 +23,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 17 | [281336](../reports/281336.md) | Negative size in tar header causes infinite loop | Low | — | 7 | [plover](https://hackerone.com/plover) | 2018-03-01 |
 | 18 | [449356](../reports/449356.md) | 65534 times efficient, Brute-force attack for api_key | Low | — | 7 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2018-12-08 |
 | 19 | [274267](../reports/274267.md) | Request Hijacking Vulnerability in RubyGems 2.6.13 and earli | Low | — | 5 | [claudijd](https://hackerone.com/claudijd) | 2018-12-08 |
-| 20 | [180196](../reports/180196.md) | Host header Injection rubygems.org | Low | — | 3 | [bugs3ra](https://hackerone.com/bugs3ra) | 2018-02-08 |
-| 21 | [307681](../reports/307681.md) | Cross-Domain JavaScript Source File Inclusion  | Low | — | 3 | [mrunal](https://hackerone.com/mrunal) | 2018-12-10 |
+| 20 | [307681](../reports/307681.md) | Cross-Domain JavaScript Source File Inclusion  | Low | — | 3 | [mrunal](https://hackerone.com/mrunal) | 2018-12-10 |
+| 21 | [180196](../reports/180196.md) | Host header Injection rubygems.org | Low | — | 3 | [bugs3ra](https://hackerone.com/bugs3ra) | 2018-02-08 |
 | 22 | [3097900](../reports/3097900.md) | `/names.nsf` and all `/names*` files route to public API on  | None | — | 46 | [jagat-singh](https://hackerone.com/jagat-singh) | 2025-05-03 |
 | 23 | [3542546](../reports/3542546.md) | Server-side ReDoS via user-controlled regex in OIDC Access P | None | — | 40 | [6b_jjj](https://hackerone.com/6b_jjj) | 2026-03-26 |
 | 24 | [1119120](../reports/1119120.md) | Bundler's RCE with response using Marshal | None | — | 28 | [ooooooo_q](https://hackerone.com/ooooooo_q) | 2024-03-12 |

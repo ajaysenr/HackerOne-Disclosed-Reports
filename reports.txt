@@ -12546,6 +12546,7 @@ https://hackerone.com/reports/4071670 | HackerOne Code: a live password reset to
 https://hackerone.com/reports/4071872 | libcurl: Secure=1 cookie flag bypasses the 8.22.0 fix and leaks over HTTP
 https://hackerone.com/reports/4082665 | ActionText `to_markdown` still allows `javascript:` links in kramdown via Rails-generated table cells after PR #58754
 https://hackerone.com/reports/4085412 | Rustls backend discloses out-of-bounds heap data during legal IMAP upload cancellation
+https://hackerone.com/reports/4088592 | CPU-based Denial of Service in translation-finder via O(N²) per-result wildcard mask matching
 https://hackerone.com/reports/4093443 | Cookie attribute truncation in curl drops Secure/HttpOnly protections
 https://hackerone.com/reports/4098761 | HTTP/1.1 connection reuse returns unsolicited server data as the next request's response (regression in 8.22.0)
 https://hackerone.com/reports/4099194 | CVE-2026-107928: info leak uploading over WebSockets with GnuTLS

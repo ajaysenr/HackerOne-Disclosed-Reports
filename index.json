@@ -245241,6 +245241,25 @@
     "votes": 0
   },
   {
+    "id": 4088592,
+    "url": "https://hackerone.com/reports/4088592",
+    "title": "CPU-based Denial of Service in translation-finder via O(N\u00b2) per-result wildcard mask matching",
+    "visibility": "full",
+    "program": "Weblate",
+    "program_handle": "weblate",
+    "reporter": "robin-sabhaya",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Uncontrolled Resource Consumption",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-05",
+    "disclosed_at": "2026-11-05T09:51:14.811Z",
+    "votes": 3
+  },
+  {
     "id": 4093443,
     "url": "https://hackerone.com/reports/4093443",
     "title": " Cookie attribute truncation in curl drops Secure/HttpOnly protections",
