@@ -12363,6 +12363,7 @@ https://hackerone.com/reports/3867358 | MariaDB Low-Privilege User Can Exhaust M
 https://hackerone.com/reports/3867363 | MariaDB HandlerSocket Improper Request Field-Count Validation Causes Server Crash
 https://hackerone.com/reports/3869124 | **Unauthenticated IDOR allows modification of payment customer billing information**
 https://hackerone.com/reports/3871740 | r2dbc-mariadb Parsec auth: server-controlled PBKDF2 iteration count causes CPU-exhaustion DoS ( regression from b7766de )
+https://hackerone.com/reports/3871816 | Unauthenticated private CSV export of Meetup organizer PII via broken authz check in WordCamp Reports
 https://hackerone.com/reports/3871977 | Connector/ODBC: malicious server's long version string wraps size_t PrefixLen via negative _snprintf return, causing heap out-of-bounds write
 https://hackerone.com/reports/3872239 | Connector/J: malicious server crashes client JVM via unbounded result-set field-count allocation in ClientMessage.readPacket
 https://hackerone.com/reports/3872248 | Connector/C++: heap out-of-bounds read when malicious server field length exceeds declared column length in binary result path
@@ -12418,6 +12419,8 @@ https://hackerone.com/reports/3938185 | Windows SSPI connection-pool probe can r
 https://hackerone.com/reports/3938190 | Windows SSPI connection-pool probe can reuse a connection under the wrong user
 https://hackerone.com/reports/3938220 | libcurl cache updates follow symlinks and truncate their targets
 https://hackerone.com/reports/3938927 | An organization admin can create an attacker-controlled organization owner via the gem transfer flow
+https://hackerone.com/reports/3941626 | Instamojo CampTix: fail-open MAC + webhook Credit without binding payment to order
+https://hackerone.com/reports/3942522 | wordpress.org Rosetta: invite stores unvalidated role — Editor can assign site Administrator despite editable_roles
 https://hackerone.com/reports/3943339 | One-click cross-account JavaScript execution steals a victim write token through Turbo pagination and unattached Active Storage HTML
 https://hackerone.com/reports/3952619 | Domainless COOKIEFILE cookie leaks to unrelated IP-literal hosts
 https://hackerone.com/reports/3954327 | Unauthenticated access to Checkout Blocks employee-only endpoints exposed merchant metadata
@@ -12519,6 +12522,7 @@ https://hackerone.com/reports/4024268 | Out-of-bounds read in curl_formadd when 
 https://hackerone.com/reports/4025056 | HTTP/1.1 response framing violation and unsafe connection reuse when transfer decoding is disabled
 https://hackerone.com/reports/4027511 | Encoded slash traversal in the IPFS/IPNS URL rewrite escapes the configured gateway namespace
 https://hackerone.com/reports/4028616 | Memory exhaustion (DoS) via unbounded file read in `EncodingDiscovery.detect_encoding()`
+https://hackerone.com/reports/4029867 | WordCamp Meta gpre: password-protected event RSVP list readable without password via /gpre/v1/.../rsvp-responses
 https://hackerone.com/reports/4030333 | CVE-2026-92392: HTTP/2 upload Use-After-Free
 https://hackerone.com/reports/4033108 | Retry-independent time-condition HTTP/2 UAF
 https://hackerone.com/reports/4033971 | Use-after-free of the internal multi->admin easy handle via the documented CURLMOPT_NOTIFYFUNCTION callback
@@ -12608,4 +12612,5 @@ https://hackerone.com/reports/4135826 | --cert-status with OpenSSL accepts a sta
 https://hackerone.com/reports/4136767 | CVE-2026-115529: Schannel TLS auto client session resumption
 https://hackerone.com/reports/4137523 | CURL_NETRC_REQUIRED sends the URL password when the .netrc file has no matching entry
 https://hackerone.com/reports/4147581 | Incomplete IDN hostname check on the transfer path can lead to credential disclosure to an unintended host
+https://hackerone.com/reports/4152553 | Unauthenticated Disclosure of Private, Draft, and Password-Protected Post Content via Core Read-Permission Bypass in SCF Reference Fields
 https://hackerone.com/reports/4166602 | Re-entrant curl_easy_pause UAF in cw-pause

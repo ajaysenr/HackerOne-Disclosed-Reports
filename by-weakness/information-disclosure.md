@@ -1,4 +1,4 @@
-# Weakness: Information Disclosure (1189 reports)
+# Weakness: Information Disclosure (1190 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -386,810 +386,811 @@
 | 380 | [770190](../reports/770190.md) | Unexpected access to process open files via file:///proc/self/fd/ | [curl](../by-program/curl.md) | High | — | 1 |
 | 381 | [516237](../reports/516237.md) | Uninitialized read in exif_process_IFD_in_MAKERNOTE | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.5 | — | 1 |
 | 382 | [543775](../reports/543775.md) | Sensitive data disclosure via exposed phpunit file | [8x8](../by-program/8x8-bounty.md) | High | — | 1 |
-| 383 | [861940](../reports/861940.md) | OAuth `redirect_uri` bypass using IDN homograph attack resulting  | [Semrush](../by-program/semrush.md) | Medium — CVSS 6.4 | — | 260 |
-| 384 | [2180521](../reports/2180521.md) | Google Docs link in JS files allows editing & reading survey info | [HackerOne](../by-program/security.md) | Medium — CVSS 6.5 | — | 215 |
-| 385 | [488269](../reports/488269.md) | Stealing Facebook OAuth Code Through Screenshot viewer | [Rockstar Games](../by-program/rockstargames.md) | Medium — CVSS 5.8 | — | 200 |
-| 386 | [871749](../reports/871749.md) | Unauthorized access to metadata of undisclosed reports that were  | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 187 |
-| 387 | [707433](../reports/707433.md) | Disclosure of `payment_transactions` for programs via GraphQL que | [HackerOne](../by-program/security.md) | Medium — CVSS 4.4 | — | 176 |
-| 388 | [258084](../reports/258084.md) | Access to all files of remote user through shared file | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.8 | — | 151 |
-| 389 | [221869](../reports/221869.md) | Email enumeration of users | [Homebrew](../by-program/homebrew.md) | Medium | — | 145 |
-| 390 | [196655](../reports/196655.md) | Disclose any user's private email through API | [HackerOne](../by-program/security.md) | Medium — CVSS 4.3 | — | 137 |
-| 391 | [629892](../reports/629892.md) | Lack of CSRF header validation at https://g-mail.grammarly.com/pr | [Superhuman (formerly Grammarly)](../by-program/superhuman.md) | Medium — CVSS 4.2 | — | 136 |
-| 392 | [685909](../reports/685909.md) | Searching from Hacktivity returns hits for words in limited discl | [HackerOne](../by-program/security.md) | Medium — CVSS 4.4 | — | 127 |
-| 393 | [1285115](../reports/1285115.md) | Leaked H1's Employees Email addresses,meeting info on private bug | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 118 |
-| 394 | [2828271](../reports/2828271.md) | Apache Airflow: Sensitive Information Exposure in DAG Run Logs | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 112 |
-| 395 | [2501036](../reports/2501036.md) | Access body and title of Internal Repo Issues in Projects | [GitHub](../by-program/github.md) | Medium | — | 99 |
-| 396 | [2122964](../reports/2122964.md) | [███████] Information disclosure due unauthenticated access to AP | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 97 |
-| 397 | [2310620](../reports/2310620.md) | New Hacktivity features:Bounty rewards leakage Where programs doe | [HackerOne](../by-program/security.md) | Medium — CVSS 4.4 | — | 95 |
-| 398 | [3279508](../reports/3279508.md) | Unauthorized Disclosure of Private Emails via WakaTime Private Le | [WakaTime](../by-program/wakatime.md) | Medium — CVSS 4.3 | — | 93 |
-| 399 | [738615](../reports/738615.md) | Vulnerability in (*www.yoti.com) - Leads to Leakage of admin user | [Yoti](../by-program/yoti.md) | Medium | — | 91 |
-| 400 | [2387297](../reports/2387297.md) | Bypass Email Verification on Add Email Monitoring | [Mozilla](../by-program/mozilla.md) | Medium | — | 91 |
-| 401 | [174404](../reports/174404.md) | private passenger information is exposed to the Uber Driver app d | [Uber](../by-program/uber.md) | Medium | — | 89 |
-| 402 | [2209429](../reports/2209429.md) | Using Branded Hashtag Feature User Partnered with Account Manager | [TikTok](../by-program/tiktok.md) | Medium | — | 86 |
-| 403 | [315256](../reports/315256.md) | ImageMagick GIF coder vulnerability leading to memory disclosure | [Valve](../by-program/valve.md) | Medium | — | 85 |
-| 404 | [645299](../reports/645299.md) | Private information exposed through GraphQL filters | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 81 |
-| 405 | [2524939](../reports/2524939.md) | [Spot Check] - Ability to disclose metadata about Spot Checks (Nu | [HackerOne](../by-program/security.md) | Medium — CVSS 4.3 | — | 79 |
-| 406 | [3210022](../reports/3210022.md) | PII Exposure via Email Confirmation Link – Email Embedded in Toke | [Omise](../by-program/omise.md) | Medium — CVSS 6.1 | — | 78 |
-| 407 | [1342422](../reports/1342422.md) | Subdomain Takeover due to ████████ NS records at us-east4.37signa | [Basecamp](../by-program/basecamp.md) | Medium — CVSS 6.1 | — | 77 |
-| 408 | [2045722](../reports/2045722.md) | inviting collaborator using email disclose the hackerone account  | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 77 |
-| 409 | [1785079](../reports/1785079.md) | # Drivers can access the customers phone number, current location | [inDrive](../by-program/indrive.md) | Medium | — | 76 |
-| 410 | [1276373](../reports/1276373.md) | Information disclosure -> 2fa bypass -> POST exploitation  | [Algolia](../by-program/algolia.md) | Medium | — | 75 |
-| 411 | [293299](../reports/293299.md) | Validation message in Bounty award endpoint can be used to determ | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 73 |
-| 412 | [924951](../reports/924951.md) | CORS misconfiguration leads to users information disclosure at ht | [LY Corporation](../by-program/line.md) | Medium — CVSS 5.7 | — | 72 |
-| 413 | [3003716](../reports/3003716.md) | User Email Disclosure via ID-Based Invitation | [WakaTime](../by-program/wakatime.md) | Medium | — | 72 |
-| 414 | [2322082](../reports/2322082.md) | Being able to disclose IBB bounty table of any public program | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 71 |
-| 415 | [1782467](../reports/1782467.md) | Disclosure of users' ip address whenever they view my fright offe | [inDrive](../by-program/indrive.md) | Medium | — | 71 |
-| 416 | [1424291](../reports/1424291.md) | Able to access private picture/video/writing when requesting for  | [FetLife](../by-program/fetlife.md) | Medium — CVSS 6.5 | — | 70 |
-| 417 | [2580982](../reports/2580982.md) | Private data related to program exposed via /reports/<id>.json en | [HackerOne](../by-program/security.md) | Medium — CVSS 4.3 | — | 68 |
-| 418 | [1452774](../reports/1452774.md) | Unauthenticated Sensitive Information Disclosure on █████████  CV | [Mars](../by-program/mars.md) | Medium — CVSS 4.6 | — | 67 |
-| 419 | [1132606](../reports/1132606.md) | Attachment object in GraphQL continues to grant access to files,  | [HackerOne](../by-program/security.md) | Medium — CVSS 5.3 | — | 66 |
-| 420 | [430854](../reports/430854.md) | Kaspersky Password Manager allows websites to access user's addre | [Kaspersky](../by-program/kaspersky.md) | Medium | — | 64 |
-| 421 | [269479](../reports/269479.md) | Report Private Links Leaks to Google Analytics via Query String P | [HackerOne](../by-program/security.md) | Medium | — | 59 |
-| 422 | [380317](../reports/380317.md) | Team object exposes amount of participants in a private program t | [HackerOne](../by-program/security.md) | Medium — CVSS 4.4 | — | 58 |
-| 423 | [2765259](../reports/2765259.md) | Information disclosure due to debug mode enabled at Laravel insta | [MTN Group](../by-program/mtn_group.md) | Medium — CVSS 5.3 | — | 58 |
-| 424 | [2788557](../reports/2788557.md) | Insecure API Response Leads to Disclosure of Hashed Passwords | [Mars](../by-program/mars.md) | Medium — CVSS 5.7 | — | 58 |
-| 425 | [1639011](../reports/1639011.md) | Api data leak | [Planet Labs](../by-program/planet-labs.md) | Medium | — | 57 |
-| 426 | [2053051](../reports/2053051.md) | Hackerone All Private Program Name Leaked to Public Via Collabora | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 56 |
-| 427 | [2201370](../reports/2201370.md) | Information disclosure via enabled Django Debug Mode  | [MTN Group](../by-program/mtn_group.md) | Medium — CVSS 6.1 | — | 55 |
-| 428 | [1278952](../reports/1278952.md) | Sensitive data exposure via /secure/███████ endpoint on ████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 55 |
-| 429 | [2213251](../reports/2213251.md) | New Search Feature: Search for non-public words in limited disclo | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 54 |
-| 430 | [1218754](../reports/1218754.md) | API key (api.semrush.com) leak in JS-file | [Semrush](../by-program/semrush.md) | Medium | — | 54 |
-| 431 | [540301](../reports/540301.md) | Wordpress VIP leaks email of the test a/c | [Automattic](../by-program/automattic.md) | Medium — CVSS 5.3 | — | 52 |
-| 432 | [327088](../reports/327088.md) | Extra program metrics disclosed via /PROGRAM_NAME json response | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 51 |
-| 433 | [2912277](../reports/2912277.md) | Hackers Attack Curl Vulnerability Accessing Sensitive Information | [curl](../by-program/curl.md) | Medium | — | 48 |
-| 434 | [3360293](../reports/3360293.md) | Publicly accessible `█████████` endpoint exposing internal user i | [Mars](../by-program/mars.md) | Medium — CVSS 4.6 | — | 47 |
-| 435 | [174721](../reports/174721.md) | View liked twits of private account via publish.twitter.com | [X / xAI](../by-program/x.md) | Medium | — | 47 |
-| 436 | [3443563](../reports/3443563.md) | Roundcube Webmail Style Sanitizer can be bypassed using CSS Chara | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 46 |
-| 437 | [1091303](../reports/1091303.md) | [h1-2102] [Yaworski's Broskis] Low privilege user can read POS PI | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.4 | — | 46 |
-| 438 | [1590237](../reports/1590237.md) | Unauthenticated Private Messages DIsclosure via wordpress Rest AP | [Automattic](../by-program/automattic.md) | Medium | — | 44 |
-| 439 | [2133308](../reports/2133308.md) | Password Reset Token Leak Via Referrer | [Liberapay](../by-program/liberapay.md) | Medium | — | 42 |
-| 440 | [800231](../reports/800231.md) | GraphQL node interface for ActiveResource models lacks encoding f | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 42 |
-| 441 | [425719](../reports/425719.md) | Disclosure of Github Issues | [Shopify](../by-program/shopify.md) | Medium — CVSS 6.1 | — | 41 |
-| 442 | [2997549](../reports/2997549.md) | CVE-2023-5561 on Payapps.com | [Autodesk](../by-program/autodesk.md) | Medium — CVSS 5.3 | — | 40 |
-| 443 | [2402842](../reports/2402842.md) | Information disclosure identified on IBM endpoint.  | [IBM](../by-program/ibm.md) | Medium — CVSS 6.7 | — | 39 |
-| 444 | [2828608](../reports/2828608.md) | Users Data Exposure via Insecure Endpoint | [Mars](../by-program/mars.md) | Medium — CVSS 5.7 | — | 39 |
-| 445 | [1391635](../reports/1391635.md) | Bypassing Cache Deception Armor using .avif extension file | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | Medium — CVSS 6.5 | — | 36 |
-| 446 | [1004412](../reports/1004412.md) | Possible LDAP username and password disclosed on Github | [Acronis](../by-program/acronis.md) | Medium | — | 36 |
-| 447 | [655288](../reports/655288.md) | Image Injection vulnerability on screenshot-viewer/responsive/ima | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 36 |
-| 448 | [1423704](../reports/1423704.md) | Able to detect if a user is FetLife supporter although this user  | [FetLife](../by-program/fetlife.md) | Medium — CVSS 4.3 | — | 34 |
-| 449 | [361951](../reports/361951.md) | Exploiting JSONP callback on /username/charts.json endpoint leads | [Liberapay](../by-program/liberapay.md) | Medium — CVSS 4.3 | — | 34 |
-| 450 | [318099](../reports/318099.md) | Registration enabled on ███grab.com | [Grab](../by-program/grab.md) | Medium | — | 32 |
-| 451 | [2104591](../reports/2104591.md) | Maintainer can leak sentry token by changing the configured URL ( | [GitLab](../by-program/gitlab.md) | Medium — CVSS 5.5 | — | 32 |
-| 452 | [402410](../reports/402410.md) | Расшифровка всех типов шифрованных ID | [Bumble](../by-program/bumble.md) | Medium | — | 32 |
-| 453 | [449680](../reports/449680.md) | Attacker can claim credentials for private program that has a pub | [HackerOne](../by-program/security.md) | Medium — CVSS 6.4 | — | 32 |
-| 454 | [1838329](../reports/1838329.md) | Private information exposed through GraphQL search endpoints aggr | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 32 |
-| 455 | [273726](../reports/273726.md) | Information / sensitive data disclosure on some endpoints | [WordPress](../by-program/wordpress.md) | Medium | — | 32 |
-| 456 | [1122177](../reports/1122177.md) | Third party app could steal access token as well as protected fil | [Reddit](../by-program/reddit.md) | Medium | — | 31 |
-| 457 | [780167](../reports/780167.md) | Hidden scheduled partner events are propagated to Steam clients i | [Valve](../by-program/valve.md) | Medium | — | 31 |
-| 458 | [289568](../reports/289568.md) | Program profile metrics endpoint contains mean time to triage, ev | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 29 |
-| 459 | [3680680](../reports/3680680.md) | libcurl omits IPv6 zoneid from host identity and leaks credential | [curl](../by-program/curl.md) | Medium | — | 29 |
-| 460 | [1330455](../reports/1330455.md) | DoD internal documents are leaked to the public | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 29 |
-| 461 | [972355](../reports/972355.md) | Able to leak private email of any user given his/her username via | [GitLab](../by-program/gitlab.md) | Medium | — | 29 |
-| 462 | [2580062](../reports/2580062.md) | NoSQL injection leaks visitor token and livechat messages | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 6.5 | — | 29 |
-| 463 | [2063636](../reports/2063636.md) | Twitter Subscriptions Information Disclosure | [X / xAI](../by-program/x.md) | Medium — CVSS 5.3 | — | 28 |
-| 464 | [397508](../reports/397508.md) | Web cache deception attack - expose token information | [Chaturbate](../by-program/chaturbate.md) | Medium — CVSS 6.5 | — | 28 |
-| 465 | [3066548](../reports/3066548.md) | ███████ - Publicly Accessible public_html Directory Exposing Word | [Mars](../by-program/mars.md) | Medium — CVSS 5.7 | — | 28 |
-| 466 | [1945417](../reports/1945417.md) | “See who’s interested in working for your company” - security iss | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 4.3 | — | 28 |
-| 467 | [2554079](../reports/2554079.md) | External storage - global credentials returned to the client side | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.6 | — | 28 |
-| 468 | [2828720](../reports/2828720.md) | Customer Data Exposure via Insecure Endpoint of coupon | [Mars](../by-program/mars.md) | Medium — CVSS 5.7 | — | 27 |
-| 469 | [293593](../reports/293593.md) | Able To Check The Exact Bounty Balance of any Bug Bounty Program | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 27 |
-| 470 | [1417635](../reports/1417635.md) | Default credentials lead to Spring Boot Admin dashboard access | [8x8](../by-program/8x8-bounty.md) | Medium | — | 27 |
-| 471 | [961757](../reports/961757.md) | Twitter Media Studio Source Information Disclosure With Analyst R | [X / xAI](../by-program/x.md) | Medium | — | 27 |
-| 472 | [1405673](../reports/1405673.md) | Sidekiq dashboard exposed at notary.shopifycloud.com | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.7 | — | 26 |
-| 473 | [1561377](../reports/1561377.md) | Django debug enabled showing information about system, database,  | [Glovo](../by-program/glovo.md) | Medium — CVSS 6.1 | — | 25 |
-| 474 | [1003980](../reports/1003980.md) | CVE-2020-14179 on https://jira.theendlessweb.com/secure/QueryComp | [Endless Group](../by-program/endless_group.md) | Medium | — | 25 |
-| 475 | [1331728](../reports/1331728.md) | Cards in Deck are readable by any user | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 25 |
-| 476 | [604945](../reports/604945.md) | Tor IP leak caused by the PDF Viewer extension in certain situati | [Brave Software](../by-program/brave.md) | Medium | — | 25 |
-| 477 | [290930](../reports/290930.md) | Information Disclosure when /invitations/<token>.json is not yet  | [HackerOne](../by-program/security.md) | Medium | — | 25 |
-| 478 | [3272982](../reports/3272982.md) | Vulnerability Report: Public Exposure of Security Audit File | [curl](../by-program/curl.md) | Medium | — | 24 |
-| 479 | [1038129](../reports/1038129.md) | assets/vendor.js file exposing sentry.io token and DNS and applic | [Omise](../by-program/omise.md) | Medium | — | 24 |
-| 480 | [853355](../reports/853355.md) | Unauthorized access to private project security dashboard | [GitLab](../by-program/gitlab.md) | Medium | — | 24 |
-| 481 | [423506](../reports/423506.md) | H1514 Extract information about other sites (new sites) through A | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.3 | — | 24 |
-| 482 | [407763](../reports/407763.md) | Unauthorized users may be able to view almost all informations re | [GitLab](../by-program/gitlab.md) | Medium — CVSS 4.6 | — | 24 |
-| 483 | [258460](../reports/258460.md) | [Quora Android] Possible to steal arbitrary files from mobile dev | [Quora](../by-program/quora.md) | Medium | — | 23 |
-| 484 | [723175](../reports/723175.md) | De-anonymization Attack: Cross Site Information Leakage | [Imgur](../by-program/imgur.md) | Medium | — | 23 |
-| 485 | [541020](../reports/541020.md) | GetGlobalAchievementPercentagesForApp is missing the same release | [Valve](../by-program/valve.md) | Medium — CVSS 6.8 | — | 22 |
-| 486 | [1824342](../reports/1824342.md) | Users querying dim_hacker_reports table through Analytics API can | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 21 |
-| 487 | [874778](../reports/874778.md) | CVE-2020-8169: Partial password leak over DNS on HTTP redirect | [curl](../by-program/curl.md) | Medium — CVSS 5.5 | — | 21 |
-| 488 | [268224](../reports/268224.md) | Information Disclosure | [Hiro](../by-program/hiro.md) | Medium | — | 21 |
-| 489 | [634312](../reports/634312.md) | HTML injection and information disclosure in support panel | [Weblate](../by-program/weblate.md) | Medium — CVSS 5.8 | — | 20 |
-| 490 | [3331764](../reports/3331764.md) | Confirmed Security Misconfigurations on curl.se (BREACH, Missing  | [curl](../by-program/curl.md) | Medium | — | 19 |
-| 491 | [1018608](../reports/1018608.md) | Information Disclosure of Advertiser Account on TikTok Ads Portal | [TikTok](../by-program/tiktok.md) | Medium — CVSS 4.3 | — | 19 |
-| 492 | [1641661](../reports/1641661.md) | LFI via Jolokia at https://█.█.█.█:1293 | [8x8](../by-program/8x8-bounty.md) | Medium — CVSS 5.8 | — | 19 |
-| 493 | [1337422](../reports/1337422.md) | Folder architecture and Filesizes of private file drop shares can | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 18 |
-| 494 | [201984](../reports/201984.md) | Wordpress directories/files visible to internet | [Ubiquiti Inc.](../by-program/ui.md) | Medium | — | 18 |
-| 495 | [1083922](../reports/1083922.md) | [h1-2102] Information disclosure - ShopifyPlus add user displays  | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.3 | — | 18 |
-| 496 | [299334](../reports/299334.md) | Information disclosure when trying to delete an expense's attachm | [Mavenlink](../by-program/mavenlink.md) | Medium | — | 17 |
-| 497 | [1063114](../reports/1063114.md) | Unread Messages can leak Message IDs | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 6.5 | — | 17 |
-| 498 | [2209665](../reports/2209665.md) | Secrets can be unmasked in the "Rendered Template" | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.5 | — | 17 |
-| 499 | [1172852](../reports/1172852.md) | PII of users can be downloaded from export pages | [WordPress](../by-program/wordpress.md) | Medium — CVSS 6.1 | — | 17 |
-| 500 | [1398905](../reports/1398905.md) | chainning bugs to get full disclosure of Users addresses  | [Glovo](../by-program/glovo.md) | Medium — CVSS 5.7 | — | 16 |
-| 501 | [349681](../reports/349681.md) | Aapp name leakage on economy history page | [Valve](../by-program/valve.md) | Medium — CVSS 5.0 | — | 16 |
-| 502 | [2108342](../reports/2108342.md) | Error when editing a calendar appointment returns stacktrace and  | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 16 |
-| 503 | [306733](../reports/306733.md) | Submitted reports state logs leakage | [HackerOne](../by-program/security.md) | Medium | — | 16 |
-| 504 | [963584](../reports/963584.md) | Registering with email [ +70 Chars ] Lead to Disclose some inform | [Dropcontact](../by-program/dropcontact.md) | Medium | — | 15 |
-| 505 | [1561299](../reports/1561299.md) | disclosure the live_analytics information of any livestream. | [TikTok](../by-program/tiktok.md) | Medium — CVSS 4.3 | — | 15 |
-| 506 | [804809](../reports/804809.md) | phpinfo() disclosure info | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 15 |
-| 507 | [194142](../reports/194142.md) | Legal Robot AWS S3 Bucket Directory Listing | [Legal Robot](../by-program/legalrobot.md) | Medium | — | 14 |
-| 508 | [1200583](../reports/1200583.md) | Exposed Prometheus instance at prometheus.qa.r3.com | [R3](../by-program/r3.md) | Medium — CVSS 5.3 | — | 14 |
-| 509 | [497655](../reports/497655.md) | Image Injection on www.rockstargames.com/screenshot-viewer/respon | [Rockstar Games](../by-program/rockstargames.md) | Medium — CVSS 6.8 | — | 14 |
-| 510 | [317201](../reports/317201.md) | [vulners.com] nginx alias_traversal | [vulners.com](../by-program/vulnerscom.md) | Medium | — | 14 |
-| 511 | [942481](../reports/942481.md) | Wordpress Users Disclosure (/wp-json/wp/v2/users/) on data.gov | [GSA Bounty](../by-program/gsa_bbp.md) | Medium | — | 14 |
-| 512 | [2231261](../reports/2231261.md) | Elasticsearch is currently open without authentication on  https: | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 14 |
-| 513 | [1073420](../reports/1073420.md) | IDOR at https://fast.trychameleon.com/observe/v2/profiles/ via ui | [Lab45](../by-program/lab45.md) | Medium — CVSS 6.5 | — | 13 |
-| 514 | [803922](../reports/803922.md) | Missing resource identifier encoding may lead to security vulnera | [Ruby on Rails](../by-program/rails.md) | Medium — CVSS 4.8 | — | 13 |
-| 515 | [184472](../reports/184472.md) | http://████/data.json  showing users sensitive information via  j | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 13 |
-| 516 | [174645](../reports/174645.md) | Existence of Folder path by guessing the path through response | [Files.com](../by-program/files.md) | Medium — CVSS 6.3 | — | 13 |
-| 517 | [184057](../reports/184057.md) | Read Application Name , Subscribers Count  | [Pushwoosh](../by-program/pushwoosh.md) | Medium | — | 13 |
-| 518 | [90805](../reports/90805.md) | change bank account numbers | [Gratipay](../by-program/gratipay.md) | Medium — CVSS 6.5 | — | 13 |
-| 519 | [186586](../reports/186586.md) | Access to Grafana Dashboard | [OWOX, Inc.](../by-program/owox.md) | Medium | — | 12 |
-| 520 | [1007702](../reports/1007702.md) | PII Leak of USCG Designated Examiner List at https://www.███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 12 |
-| 521 | [878434](../reports/878434.md) | vidyard api auth_token exposed | [8x8](../by-program/8x8-bounty.md) | Medium | — | 12 |
-| 522 | [1939272](../reports/1939272.md) | AEM misconfiguration leads to Information disclosure | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 12 |
-| 523 | [1351329](../reports/1351329.md) | firebase credentials leaks @ https://mpulse.mtnonline.com  | [MTN Group](../by-program/mtn_group.md) | Medium | — | 12 |
-| 524 | [3180396](../reports/3180396.md) | Failure to strip Proxy-Authorization header on change in origin | [curl](../by-program/curl.md) | Medium | — | 11 |
-| 525 | [1063371](../reports/1063371.md) | Sensitive Information Leaking Through DoD Owned Website https://w | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 11 |
-| 526 | [341372](../reports/341372.md) | The session token in the URL | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 11 |
-| 527 | [195058](../reports/195058.md) | Users can download old project exports due to unclaimed namespace | [GitLab](../by-program/gitlab.md) | Medium — CVSS 4.8 | — | 10 |
-| 528 | [962753](../reports/962753.md) | Elmah.axd is publicly accessible and leaking  Error Log for ROOT  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 10 |
-| 529 | [213942](../reports/213942.md) | Differential "Show Raw File" feature exposes generated files to u | [Phabricator](../by-program/phabricator.md) | Medium — CVSS 4.8 | — | 10 |
-| 530 | [1878756](../reports/1878756.md) | Email exploitation with web hosting services. | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 10 |
-| 531 | [1922736](../reports/1922736.md) | Limited Disclosure: Employee credentials checked in to github (fi | [Nutanix](../by-program/nutanix.md) | Medium — CVSS 5.3 | — | 10 |
-| 532 | [196878](../reports/196878.md) | bug reporting template encourages users to paste config file with | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 10 |
-| 533 | [1338781](../reports/1338781.md) | User files is disclosed when someone called while the screen is l | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 9 |
-| 534 | [188149](../reports/188149.md) | Personal information disclosure on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 9 |
-| 535 | [460556](../reports/460556.md) | Banner Grabbing - Apache Server Version Disclousure | [RATELIMITED](../by-program/ratelimited.md) | Medium | — | 9 |
-| 536 | [244781](../reports/244781.md) | Users with member privilege are able to see emails and membership | [WakaTime](../by-program/wakatime.md) | Medium | — | 9 |
-| 537 | [659784](../reports/659784.md) | Image Injection on `/bully/anniversaryedition` may lead to FB's O | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 9 |
-| 538 | [1139340](../reports/1139340.md) | Elmah.axd is publicly accessible leaking Error Log | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 9 |
-| 539 | [3825141](../reports/3825141.md) | API token sent to URL dictated by an untrusted project .weblate f | [Weblate](../by-program/weblate.md) | Medium — CVSS 6.3 | — | 8 |
-| 540 | [1884372](../reports/1884372.md) | HAProxy stats panel exposed externally | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
-| 541 | [1057269](../reports/1057269.md) | PII Information Leak at https://████████.mil/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
-| 542 | [378558](../reports/378558.md) | Information Leak - GitHub - Endpoint Configuration Details | [Uber](../by-program/uber.md) | Medium | — | 8 |
-| 543 | [1153817](../reports/1153817.md) | Sensitive data exposure via https://███████/jira//secure/QueryCom | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
-| 544 | [767066](../reports/767066.md) | Information Disclosure Microsoft IIS Server service.cnf in a mtn  | [MTN Group](../by-program/mtn_group.md) | Medium | — | 8 |
-| 545 | [222096](../reports/222096.md) | [bot.brew.sh] Full Path Disclosure | [Homebrew](../by-program/homebrew.md) | Medium — CVSS 5.3 | — | 8 |
-| 546 | [801437](../reports/801437.md) | Exposed .bash_history at http://21days2017.mtncameroon.net/.bash_ | [MTN Group](../by-program/mtn_group.md) | Medium | — | 8 |
-| 547 | [498358](../reports/498358.md) | Image Injection on /bully/anniversaryedition may lead to OAuth to | [Rockstar Games](../by-program/rockstargames.md) | Medium — CVSS 5.8 | — | 8 |
-| 548 | [204568](../reports/204568.md) | stack trace exposed on  https://receipts.uber.com/ | [Uber](../by-program/uber.md) | Medium | — | 8 |
-| 549 | [200079](../reports/200079.md) | Critical information disclosure at https://█████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
-| 550 | [222870](../reports/222870.md) | IRC-Bot exposes information | [Phabricator](../by-program/phabricator.md) | Medium | — | 7 |
-| 551 | [223948](../reports/223948.md) | Exposed ███████ Administrative Interface (ColdFusion 11) | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
-| 552 | [197976](../reports/197976.md) | Open FTP on ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
-| 553 | [491654](../reports/491654.md) | Image Injection vulnerability affecting www.rockstargames.com/car | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 7 |
-| 554 | [1176461](../reports/1176461.md) | CVE-2021-22898: TELNET stack contents disclosure | [curl](../by-program/curl.md) | Medium — CVSS 5.5 | — | 7 |
-| 555 | [1627962](../reports/1627962.md) | Unauthenticated PII leak on verified/requested to be verified pro | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 4.3 | — | 7 |
-| 556 | [213936](../reports/213936.md) | Token leakage by referrer | [Legal Robot](../by-program/legalrobot.md) | Medium | — | 7 |
-| 557 | [1265225](../reports/1265225.md) | Multiple server ssh usernames leaked in your github repository | [Ian Dunn](../by-program/iandunn-projects.md) | Medium | — | 7 |
-| 558 | [352623](../reports/352623.md) | Api token exposed in Reverb.com's public github repository | [Reverb.com](../by-program/reverb.md) | Medium | — | 7 |
-| 559 | [1147951](../reports/1147951.md) | CVE-2019-3403 on https://████/rest/api/2/user/picker?query= | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
-| 560 | [300539](../reports/300539.md) | SharePoint exposed web services | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
-| 561 | [1351326](../reports/1351326.md) | firebase credentials leaks @ ███████ | [MTN Group](../by-program/mtn_group.md) | Medium | — | 7 |
-| 562 | [880863](../reports/880863.md) | Todos are not redacted when membership changes - Access to (confi | [GitLab](../by-program/gitlab.md) | Medium | — | 7 |
-| 563 | [1074136](../reports/1074136.md) | Bypassed a fix to gain access to PII of more than 100 Officers | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
-| 564 | [345166](../reports/345166.md) | Session cookie missing SecureFlag on git.edoverflow.com. | [Ed](../by-program/ed.md) | Medium | — | 6 |
-| 565 | [176002](../reports/176002.md) | Information disclosure of user by email using buy widget | [Coinbase](../by-program/coinbase.md) | Medium | — | 6 |
-| 566 | [1050912](../reports/1050912.md) | PHP info page disclosure | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
-| 567 | [322988](../reports/322988.md) | Information disclosure through search engines (password reset tok | [Upserve ](../by-program/upserve.md) | Medium — CVSS 6.1 | — | 6 |
-| 568 | [506126](../reports/506126.md) | image injection /screenshot-viewer/responsive/image (ANOTHER FIX  | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 6 |
-| 569 | [1445810](../reports/1445810.md) | Mute User can disclose private channel members to unauthorized us | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 4.3 | — | 6 |
-| 570 | [710368](../reports/710368.md) | Publicly accessible .svn repository - aastraconf.packet8.net | [8x8](../by-program/8x8-bounty.md) | Medium | — | 6 |
-| 571 | [375091](../reports/375091.md) | Partial PII leakage due to public set gitlab | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
-| 572 | [3008481](../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to I | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
-| 573 | [1663363](../reports/1663363.md) | Wordpress Users Disclosure (/wp-json/wp/v2/users/)   | [Top Echelon Software](../by-program/top_echelon_software.md) | Medium | — | 6 |
-| 574 | [3291053](../reports/3291053.md) | exposed FOUO documents, including Passport information | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
-| 575 | [505259](../reports/505259.md) | Image injection on /screenshot-viewer/responsive/image ( FIX BYPA | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 6 |
-| 576 | [300540](../reports/300540.md) | SharePoint exposed web services | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
-| 577 | [481164](../reports/481164.md) | Monero can leak unitialized memory | [Monero](../by-program/monero.md) | Medium | — | 5 |
-| 578 | [1050196](../reports/1050196.md) | PII Leak of ████████ Personal at  https://www.█████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
-| 579 | [389078](../reports/389078.md) | [experience.uber.com] Node.js source code disclosure & anonymous  | [Uber](../by-program/uber.md) | Medium | — | 5 |
-| 580 | [221950](../reports/221950.md) | The special code in editor has no Authority control and can lead  | [Phabricator](../by-program/phabricator.md) | Medium | — | 5 |
-| 581 | [510388](../reports/510388.md) | Image injection /br/games/info may lead to phishing attacks or FB | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 5 |
-| 582 | [460928](../reports/460928.md) | Line feed injection in get request leads AWS S3 Bucket informatio | [RATELIMITED](../by-program/ratelimited.md) | Medium — CVSS 6.1 | — | 5 |
-| 583 | [204239](../reports/204239.md) | [informatica.com]- Information Disclosure  | [Informatica](../by-program/informatica.md) | Medium | — | 5 |
-| 584 | [237232](../reports/237232.md) | Unauthenticated 'display name' information leak on enumeration of | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 5 |
-| 585 | [707228](../reports/707228.md) | Internal IP Address Disclosed | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
-| 586 | [1121771](../reports/1121771.md) | Information Disclosure via ZIP file on AWS Bucket [http://acronis | [Acronis](../by-program/acronis.md) | Medium | — | 5 |
-| 587 | [210525](../reports/210525.md) | Information disclosure vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
-| 588 | [221734](../reports/221734.md) | Administrator(s) Information disclosure via JSON on wordpress.org | [WordPress](../by-program/wordpress.md) | Medium | — | 4 |
-| 589 | [847185](../reports/847185.md) | Members Personal Information Leak Due to IDOR | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
-| 590 | [846400](../reports/846400.md) | .git file accessible on remote.bittorrent.com | [BTFS](../by-program/btfs.md) | Medium | — | 4 |
-| 591 | [214570](../reports/214570.md) | Nginx Version Disclosure | [Airbnb](../by-program/airbnb.md) | Medium | — | 4 |
-| 592 | [775504](../reports/775504.md) | Exposed debug.log file leads to information disclosure | [MariaDB](../by-program/mariadb.md) | Medium | — | 4 |
-| 593 | [743643](../reports/743643.md) | Firewall rules for ████████ can be bypassed to leak site authors | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
-| 594 | [715740](../reports/715740.md) | [HTA2] Receiving████ access request on @wearehackerone.com email  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 4.3 | — | 3 |
-| 595 | [901775](../reports/901775.md) | Get analytics token using only apps permission | [Shopify](../by-program/shopify.md) | Medium | — | 3 |
-| 596 | [1436460](../reports/1436460.md) | CUI Labelled document out in the open | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
-| 597 | [1458020](../reports/1458020.md) | NoSQL-Injection discloses S3 File Upload URLs | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 6.5 | — | 3 |
-| 598 | [661646](../reports/661646.md) | Image Injection Vulnerability on /bully/screens | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 3 |
-| 599 | [462441](../reports/462441.md) | Retrieval and alteration of exposed media on Android Oreo  | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.9 | — | 3 |
-| 600 | [207321](../reports/207321.md) | Controlled address leak due to type confusion - ASLR bypass | [shopify-scripts](../by-program/shopify-scripts.md) | Medium | — | 3 |
-| 601 | [1050454](../reports/1050454.md) | Sensitive data exposure via https://███/secure/QueryComponent!Def | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
-| 602 | [1140631](../reports/1140631.md) | REST API gets `query` as parameter and executes it | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 6.5 | — | 3 |
-| 603 | [1067004](../reports/1067004.md) | Sensitive data exposure via https://███████/secure/QueryComponent | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
-| 604 | [238890](../reports/238890.md) | SAUCE Access_key and User_name leaked in Travis CI build logs | [Algolia](../by-program/algolia.md) | Medium | — | 3 |
-| 605 | [693788](../reports/693788.md) | [expressjs-ip-control] Whitelist IP bypass leads to authorization | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 2 |
-| 606 | [293126](../reports/293126.md) | Multiple issues in Libxml2 (2.9.2 - 2.9.5) | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.4 | — | 2 |
-| 607 | [1278977](../reports/1278977.md) | Sensitive data exposure via /secure/QueryComponent!Default.jspa e | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
-| 608 | [3738834](../reports/3738834.md) | Arbitrary `/tmp` read in  discourse via `convert_heif!` decoder-c | [Discourse](../by-program/discourse.md) | Medium | — | 2 |
-| 609 | [3750295](../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | [curl](../by-program/curl.md) | Medium | — | 2 |
-| 610 | [1336397](../reports/1336397.md) | Information disclosure at '████████' --- CVE-2020-14179 | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
-| 611 | [1406953](../reports/1406953.md) | Message ID Enumeration with Action Link Handler | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 4.3 | — | 2 |
-| 612 | [3686283](../reports/3686283.md) | View-only offline transaction creation bypasses the long-payment- | [Monero](../by-program/monero.md) | Medium — CVSS 5.4 | — | 2 |
-| 613 | [637800](../reports/637800.md) | Libcurl ocasionally sends HTTPS traffic to port 443 rather than s | [curl](../by-program/curl.md) | Medium — CVSS 5.3 | — | 2 |
-| 614 | [504122](../reports/504122.md) | Sensitive information disclosure | [8x8](../by-program/8x8-bounty.md) | Medium | — | 2 |
-| 615 | [1447440](../reports/1447440.md) | getRoomRoles Method leaks Channel Owner | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 5.3 | — | 2 |
-| 616 | [874401](../reports/874401.md) | Use of Ruby Forwardable module and runtime meta-programming may i | [GitLab](../by-program/gitlab.md) | Medium | — | 2 |
-| 617 | [1631471](../reports/1631471.md) | an internel important  paths  disclosure  [HtUS] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 5.3 | — | 2 |
-| 618 | [1244403](../reports/1244403.md) | CUI labled and ████ and ██████  Restricted ██████ intelligence  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
-| 619 | [920401](../reports/920401.md) |  SharePoint Web Services Exposed to Anonymous Access | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
-| 620 | [4053546](../reports/4053546.md) | Information Disclosure - Unauthen Leak Private Content | [WordPress](../by-program/wordpress.md) | Medium | — | 1 |
-| 621 | [623588](../reports/623588.md) | Uninitialized read in gdImageCreateFromXbm | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.3 | — | 1 |
-| 622 | [3920629](../reports/3920629.md) | r2dbc-mariadb: server message accepted with no command in flight  | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 5.7 | — | 1 |
-| 623 | [1377105](../reports/1377105.md) | Message ID Enumeration with Regular Expression in getReadReceipts | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 4.3 | — | 1 |
-| 624 | [205360](../reports/205360.md) | Content-Injection/XSS ████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
-| 625 | [988550](../reports/988550.md) | Sensitive data exposure via https://████████.mil/secure/QueryComp | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
-| 626 | [3766065](../reports/3766065.md) | CURLOPT_COOKIE leaked to cross-origin redirect target — CURLOPT_U | [curl](../by-program/curl.md) | Medium | — | 0 |
-| 627 | [3719670](../reports/3719670.md) | `monero-wallet-rpc::rescan_spent` accepts daemon-supplied spent-s | [Monero](../by-program/monero.md) | Medium — CVSS 5.3 | — | 0 |
-| 628 | [773313](../reports/773313.md) | Port and service scanning on localhost due to improper URL valida | [curl](../by-program/curl.md) | Medium — CVSS 6.3 | — | 0 |
-| 629 | [1019457](../reports/1019457.md) | Data race conditions reported by helgrind when performing paralle | [curl](../by-program/curl.md) | Medium — CVSS 5.2 | — | 0 |
-| 630 | [1065041](../reports/1065041.md) | Google API key leaked to Public | [FetLife](../by-program/fetlife.md) | Low | — | 225 |
-| 631 | [269230](../reports/269230.md) | Emails of invited collaborators are disclosed in full in payload  | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | — | 111 |
-| 632 | [1365076](../reports/1365076.md) | Information Disclosure of metrics fax.wavecell.com/metrics | [8x8](../by-program/8x8-bounty.md) | Low | — | 90 |
-| 633 | [753725](../reports/753725.md) | Disclosure of User Information | [Nord Security](../by-program/nordsecurity.md) | Low | — | 88 |
-| 634 | [724944](../reports/724944.md) | latest_activity_id and latest_activity_at may disclose informatio | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | — | 79 |
-| 635 | [2828263](../reports/2828263.md) | Secrets not masked in UI when sensitive variables are set via Air | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 78 |
-| 636 | [511440](../reports/511440.md) |  credentials leakage in public lead to view dev websites  | [Eternal](../by-program/eternal.md) | Low | — | 77 |
-| 637 | [929361](../reports/929361.md) | Making program preference -> program visibilty feature usless and | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | — | 70 |
-| 638 | [310105](../reports/310105.md) | Disclosure of 152 cookie names via crafted input | [Automattic](../by-program/automattic.md) | Low | — | 65 |
-| 639 | [1129649](../reports/1129649.md) | Hackers can find out the ID of private programs | [HackerOne](../by-program/security.md) | Low — CVSS 2.6 | — | 64 |
-| 640 | [2610467](../reports/2610467.md) | Able to see location coordinates in any event without permission  | [FetLife](../by-program/fetlife.md) | Low | — | 62 |
-| 641 | [666722](../reports/666722.md) | Email enumeration at SignUp page | [Omise](../by-program/omise.md) | Low | — | 61 |
-| 642 | [370777](../reports/370777.md) | [affiliates.udemy.com] Wordpress user admin information discloure | [Udemy](../by-program/udemy.md) | Low | — | 60 |
-| 643 | [389600](../reports/389600.md) | TeamProfile exposes partially sensitive information through Graph | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | — | 60 |
-| 644 | [2615168](../reports/2615168.md) | Disclosure of git metadata and springboot actuator information | [Adobe](../by-program/adobe.md) | Low — CVSS 3.7 | — | 58 |
-| 645 | [331489](../reports/331489.md) | Extremly simple way to bypass Nextcloud-Client PIN/Fingerprint lo | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.1 | — | 58 |
-| 646 | [2228413](../reports/2228413.md) | Private program name disclosure in the invitation mail for anothe | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | — | 58 |
-| 647 | [632808](../reports/632808.md) | Information disclosure on sim.starbucks.com | [Starbucks](../by-program/starbucks.md) | Low | — | 58 |
-| 648 | [495497](../reports/495497.md) | Know whether private project name exists or not within a group us | [GitLab](../by-program/gitlab.md) | Low | — | 57 |
-| 649 | [3002345](../reports/3002345.md) | Exposing debug.log file leads to server full path disclosure | [Autodesk](../by-program/autodesk.md) | Low | — | 55 |
-| 650 | [1728087](../reports/1728087.md) | User Details Can Be Disclosed Even If The Account IS In Hibernati | [LinkedIn](../by-program/linkedin.md) | Low — CVSS 3.7 | — | 55 |
-| 651 | [640488](../reports/640488.md) | Total bounties paid amount is disclosed because of redesign of th | [HackerOne](../by-program/security.md) | Low | — | 50 |
-| 652 | [210238](../reports/210238.md) | full path disclosure on www.rockstargames.com via apache filename | [Rockstar Games](../by-program/rockstargames.md) | Low | — | 48 |
-| 653 | [1869613](../reports/1869613.md) | Attachment in published HackerOne report exposure private program | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | — | 48 |
-| 654 | [1886143](../reports/1886143.md) | information disclosure of another company bug on video. | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | — | 47 |
-| 655 | [1242680](../reports/1242680.md) | Report Duplicate Detector can match deleted and draft reports, ma | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | — | 46 |
-| 656 | [2737309](../reports/2737309.md) | Information disclosure on password cancel endpoint  | [Mozilla](../by-program/mozilla.md) | Low — CVSS 3.5 | — | 45 |
-| 657 | [486837](../reports/486837.md) | Users able to set video url for unpublished words and able to see | [Urban Dictionary](../by-program/urbandictionary.md) | Low | — | 44 |
-| 658 | [397031](../reports/397031.md) | Disclosure of top 10 vulnerability types for programs that haven' | [HackerOne](../by-program/security.md) | Low | — | 40 |
-| 659 | [3063026](../reports/3063026.md) | debug.log leaked [█████████] | [Mars](../by-program/mars.md) | Low | — | 39 |
-| 660 | [367050](../reports/367050.md) | PHPinfo page | [Starbucks](../by-program/starbucks.md) | Low | — | 39 |
-| 661 | [669776](../reports/669776.md) | Disclosure of Program email Title Report when being removed as co | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | — | 39 |
-| 662 | [966814](../reports/966814.md) | Slack-Corp Heroku application disclosing limited info about compa | [Slack](../by-program/slack.md) | Low — CVSS 3.7 | — | 39 |
-| 663 | [3382796](../reports/3382796.md) | Responsible disclosure - public S3 bucket exposing JSON/config fi | [AWS VDP](../by-program/aws_vdp.md) | Low | — | 36 |
-| 664 | [301526](../reports/301526.md) | Invitation token leaks to https://bat.bing.com | [HackerOne](../by-program/security.md) | Low — CVSS 2.7 | — | 36 |
-| 665 | [645264](../reports/645264.md) | Program Email Nofication settings ignored when being added as an  | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | — | 33 |
-| 666 | [2829063](../reports/2829063.md) | CVE-2024-11053: netrc + redirect credential leak | [curl](../by-program/curl.md) | Low | — | 33 |
-| 667 | [348168](../reports/348168.md) | Timing attack towards endpoints on the web without CSRF  | [HackerOne](../by-program/security.md) | Low — CVSS 2.9 | — | 33 |
-| 668 | [981796](../reports/981796.md) | Information Disclosure of Garbage Collection Cycle | [Basecamp](../by-program/basecamp.md) | Low | — | 33 |
-| 669 | [395518](../reports/395518.md) | Internal usage of AdBlockPlus may expose PoC URLs to unknown thir | [HackerOne](../by-program/security.md) | Low — CVSS 3.5 | — | 32 |
-| 670 | [1130235](../reports/1130235.md) | Hackers can reveal the names of private programs that have an ext | [HackerOne](../by-program/security.md) | Low — CVSS 2.6 | — | 32 |
-| 671 | [237262](../reports/237262.md) | Invitation tokens leak to Google Analytics | [HackerOne](../by-program/security.md) | Low — CVSS 3.1 | — | 32 |
-| 672 | [174632](../reports/174632.md) | Information disclosure in mmap module - python 2.7.12 | [Internet Bug Bounty](../by-program/ibb.md) | Low — CVSS 3.7 | — | 31 |
-| 673 | [1023572](../reports/1023572.md) | [acronis.secure.force.com] - Insecure Salesforce default/custom o | [Acronis](../by-program/acronis.md) | Low | — | 31 |
-| 674 | [1264725](../reports/1264725.md) | Information disclosure - Feedback is accessible on Public profile | [HackerOne](../by-program/security.md) | Low | — | 30 |
-| 675 | [1040166](../reports/1040166.md) | CVE-2020-8284: trusting FTP PASV responses | [curl](../by-program/curl.md) | Low | — | 30 |
-| 676 | [221328](../reports/221328.md) | HTTP 401 response injection on "amp.twimg.com/amplify-web-player/ | [X / xAI](../by-program/x.md) | Low | — | 30 |
-| 677 | [2053396](../reports/2053396.md) | Possibility of Deface through translation tool - www.mozilla.com | [Mozilla](../by-program/mozilla.md) | Low | — | 30 |
-| 678 | [252580](../reports/252580.md) | Scrollbar Width permits detecting browser platform | [Tor](../by-program/torproject.md) | Low | — | 29 |
-| 679 | [2376900](../reports/2376900.md) | Attachments folder for Text app is accessible on Files Drop/Passw | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.6 | — | 29 |
-| 680 | [488643](../reports/488643.md) | Disclosure of h1 challenges name through the calendar | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | — | 29 |
-| 681 | [269831](../reports/269831.md) | Keys | [Kaspersky](../by-program/kaspersky.md) | Low | — | 29 |
-| 682 | [2376909](../reports/2376909.md) | Possible to enumerate valid files in password protected shares/fi | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.6 | — | 29 |
-| 683 | [268221](../reports/268221.md) | No Confirmation Email For Email Change | [Hiro](../by-program/hiro.md) | Low | — | 28 |
-| 684 | [3027405](../reports/3027405.md) | Information Disclosure in API Endpoint /users | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 27 |
-| 685 | [1070081](../reports/1070081.md) | information disclosure lead to disclose users private notes | [Automattic](../by-program/automattic.md) | Low | — | 27 |
-| 686 | [2097377](../reports/2097377.md) | Information Disclosure - Pvt Gitlab Issue Disclosing Through GitL | [GitLab](../by-program/gitlab.md) | Low | — | 26 |
-| 687 | [1626281](../reports/1626281.md) | Password reset tokens sent to CSP reporting endpoints | [Snapchat](../by-program/snapchat.md) | Low | — | 26 |
-| 688 | [376004](../reports/376004.md) | Potential IP revealing using UNC Path in Windows File Picker | [Tor](../by-program/torproject.md) | Low | — | 25 |
-| 689 | [270993](../reports/270993.md) | resolved bugs in a program are public despite the program setting | [HackerOne](../by-program/security.md) | Low | — | 25 |
-| 690 | [1607940](../reports/1607940.md) | CVE-2019-11248 on http://█.█.█.█:9100/debug/pprof/goroutine | [8x8](../by-program/8x8-bounty.md) | Low | — | 24 |
-| 691 | [493484](../reports/493484.md) | report id is exposed for undisclosed reports in Hacktivity | [HackerOne](../by-program/security.md) | Low | — | 24 |
-| 692 | [1992261](../reports/1992261.md) | Flickr API key leaked in GitHub commit | [Mozilla](../by-program/mozilla.md) | Low — CVSS 3.7 | — | 24 |
-| 693 | [477222](../reports/477222.md) | Last build status and coverage leaked to unauthorized users | [GitLab](../by-program/gitlab.md) | Low | — | 24 |
-| 694 | [1762764](../reports/1762764.md) | Sensitive information for phpinfo.php at https://products.ean.com | [Expedia Group Bug Bounty](../by-program/expediagroup_bbp.md) | Low — CVSS 3.7 | — | 23 |
-| 695 | [315906](../reports/315906.md) | CVE-2017-15277 on Profile page | [X / xAI](../by-program/x.md) | Low | — | 23 |
-| 696 | [650085](../reports/650085.md) | Stored credentials instantly autofilled within sandboxed iframes | [Kaspersky](../by-program/kaspersky.md) | Low | — | 23 |
-| 697 | [262649](../reports/262649.md) | Information disclosure (system username) in the x-amz-meta-s3cmd- | [GSA Bounty](../by-program/gsa_bbp.md) | Low | — | 23 |
-| 698 | [374907](../reports/374907.md) | Root user disclosure in data.gov domain though x-amz-meta-s3cmd-a | [GSA Bounty](../by-program/gsa_bbp.md) | Low | — | 22 |
-| 699 | [1989901](../reports/1989901.md) | If rate limit is hit, IP address is leaked to anyone who tries to | [Mozilla](../by-program/mozilla.md) | Low — CVSS 3.7 | — | 22 |
-| 700 | [214028](../reports/214028.md) | Race condition in GitLab import, giving access to other people th | [GitLab](../by-program/gitlab.md) | Low — CVSS 3.7 | — | 22 |
-| 701 | [826176](../reports/826176.md) | program_analytics_benchmarks query shows information not visible  | [HackerOne](../by-program/security.md) | Low | — | 22 |
-| 702 | [686805](../reports/686805.md) | .git file accessible | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | Low | — | 20 |
-| 703 | [1082774](../reports/1082774.md) | phpinfo() on graph.rockstargames.com exposes sensitive informatio | [Rockstar Games](../by-program/rockstargames.md) | Low | — | 20 |
-| 704 | [1118898](../reports/1118898.md) | PHP info page disclosure | [U.S. General Services Administration](../by-program/gsa_vdp.md) | Low — CVSS 3.7 | — | 19 |
-| 705 | [463123](../reports/463123.md) | Exposure of tinyMCE js source code with plugin version disclosure | [RATELIMITED](../by-program/ratelimited.md) | Low | — | 18 |
-| 706 | [3595764](../reports/3595764.md) | CURLOPT_UNRESTRICTED_AUTH Dangerous Default Documentation Gap | [curl](../by-program/curl.md) | Low | — | 18 |
-| 707 | [2352957](../reports/2352957.md) | Proxy-Authorization header is not cleared in cross-domain redirec | [Node.js](../by-program/nodejs.md) | Low | — | 18 |
-| 708 | [166661](../reports/166661.md) | Arbitrary heap overread in strscan on 32 bit Ruby, patch included | [Ruby](../by-program/ruby.md) | Low | — | 17 |
-| 709 | [225537](../reports/225537.md) | Node modules path disclosure due to lack of error handling | [Mapbox](../by-program/mapbox.md) | Low | — | 17 |
-| 710 | [633001](../reports/633001.md) | Private System Note Disclosure using GraphQL | [GitLab](../by-program/gitlab.md) | Low | — | 17 |
-| 711 | [837733](../reports/837733.md) | Leaking Of Sensitive Information on Github | [Liberapay](../by-program/liberapay.md) | Low | — | 17 |
-| 712 | [1256371](../reports/1256371.md) | PII data Leakage through hackerone reports  | [HackerOne](../by-program/security.md) | Low — CVSS 2.7 | — | 16 |
-| 713 | [364910](../reports/364910.md) | Disclosure of information about the system, configuration files. | [Smule](../by-program/smule.md) | Low | — | 16 |
-| 714 | [1127455](../reports/1127455.md) | Hackers can reveal the names of private programs that have an ext | [HackerOne](../by-program/security.md) | Low — CVSS 2.6 | — | 16 |
-| 715 | [812351](../reports/812351.md) | Username Information Disclosure via Json response - Using paramet | [Brave Software](../by-program/brave.md) | Low | — | 16 |
-| 716 | [805699](../reports/805699.md) | Minimal information disclosure of internal asset names and links  | [Starbucks](../by-program/starbucks.md) | Low | — | 15 |
-| 717 | [1767439](../reports/1767439.md) | Exposed Log File Lead to Full Internal path disclosure at [https: | [Nextcloud](../by-program/nextcloud.md) | Low | — | 15 |
-| 718 | [1358249](../reports/1358249.md) | php info file and sql backup at vendor's subdomain | [Semrush](../by-program/semrush.md) | Low | — | 14 |
-| 719 | [3480841](../reports/3480841.md) | Permission Model Bypass in realpathSync.native Allows File Existe | [Node.js](../by-program/nodejs.md) | Low — CVSS 3.3 | — | 14 |
-| 720 | [696360](../reports/696360.md) | Exposing debug.log file leads to server full path disclosure | [Nextcloud](../by-program/nextcloud.md) | Low | — | 14 |
-| 721 | [179217](../reports/179217.md) | server version dislosure | [Blockchain](../by-program/blockchain.md) | Low | — | 14 |
-| 722 | [174449](../reports/174449.md) | Researcher gets email updates on a private program after he/she q | [HackerOne](../by-program/security.md) | Low — CVSS 3.5 | — | 14 |
-| 723 | [202361](../reports/202361.md) | Requestor Email Disclosure via Email Notification | [Coinbase](../by-program/coinbase.md) | Low | — | 13 |
-| 724 | [1822665](../reports/1822665.md) | Impact of Using the PHP Function "phpinfo()" on System Security - | [U.S. Department of State](../by-program/us-department-of-state.md) | Low — CVSS 3.7 | — | 13 |
-| 725 | [605608](../reports/605608.md) | [information disclosure] Validate existence of a private project. | [GitLab](../by-program/gitlab.md) | Low | — | 13 |
-| 726 | [183925](../reports/183925.md) | Unrestricted File Download / Path Traversal | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 13 |
-| 727 | [210572](../reports/210572.md) | Full path Disclosure in Rockstargames.com██████████  | [Rockstar Games](../by-program/rockstargames.md) | Low | — | 13 |
-| 728 | [271176](../reports/271176.md) | Bypassing one-time checkout router page (revealing payment inform | [Lyst](../by-program/lyst.md) | Low | — | 12 |
-| 729 | [3346375](../reports/3346375.md) | Publicly Accessible CDN Endpoint Exposing XML Metadata (including | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 12 |
-| 730 | [172296](../reports/172296.md) | Information Disclosure on rate limit defense mechanism | [Legal Robot](../by-program/legalrobot.md) | Low | — | 12 |
-| 731 | [1157893](../reports/1157893.md) | PHP-FPM status page disclosure | [Algolia](../by-program/algolia.md) | Low | — | 12 |
-| 732 | [1089116](../reports/1089116.md) | Hi! Security Team Rocket.Chat, It's possible to get information a | [Rocket.Chat](../by-program/rocket_chat.md) | Low | — | 12 |
-| 733 | [246780](../reports/246780.md) | Using an outdated version of OpenSSH on db01.wakatime.com | [WakaTime](../by-program/wakatime.md) | Low | — | 11 |
-| 734 | [411822](../reports/411822.md) | Password protected rooms total number of viewers disclosure to un | [Chaturbate](../by-program/chaturbate.md) | Low | — | 11 |
-| 735 | [271700](../reports/271700.md) | Leak IP internal | [Rockstar Games](../by-program/rockstargames.md) | Low | — | 11 |
-| 736 | [708076](../reports/708076.md) | Full Path disclosure on 500 error | [Liberapay](../by-program/liberapay.md) | Low | — | 11 |
-| 737 | [948876](../reports/948876.md) | CVE-2020-8231: Connect-only connections can use the wrong connect | [curl](../by-program/curl.md) | Low | — | 11 |
-| 738 | [191179](../reports/191179.md) | http://digital.starbucks.com/ Creation of Google G Suite Account  | [Starbucks](../by-program/starbucks.md) | Low | — | 11 |
-| 739 | [183245](../reports/183245.md) | Nginx version disclosure via response header | [Pushwoosh](../by-program/pushwoosh.md) | Low | — | 11 |
-| 740 | [1249050](../reports/1249050.md) | Information Disclosure on TikTok Unplugged Site | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.7 | — | 11 |
-| 741 | [1132457](../reports/1132457.md) | Exposed PHP dependencies at ██.8x8.com | [8x8](../by-program/8x8-bounty.md) | Low | — | 10 |
-| 742 | [197786](../reports/197786.md) | User Information Disclosure via REST API | [ownCloud](../by-program/owncloud.md) | Low | — | 10 |
-| 743 | [256647](../reports/256647.md) | Simple CSS line-height identifies platform | [Tor](../by-program/torproject.md) | Low | — | 10 |
-| 744 | [253448](../reports/253448.md) | [Cross-domain Referer leakage] Password reset token leakage via r | [Legal Robot](../by-program/legalrobot.md) | Low | — | 10 |
-| 745 | [367581](../reports/367581.md) | Basic auth details is still work on report ( 351555 )  | [Reverb.com](../by-program/reverb.md) | Low | — | 10 |
-| 746 | [727870](../reports/727870.md) | [www.yoti.com] Wordpress user admin information discloure | [Yoti](../by-program/yoti.md) | Low | — | 10 |
-| 747 | [177484](../reports/177484.md) | Information disclosure via policy update notifications after remo | [HackerOne](../by-program/security.md) | Low — CVSS 3.5 | — | 9 |
-| 748 | [146436](../reports/146436.md) | [product360.informatica.com] Unauthenticated Apache Tomcat 8 Inst | [Informatica](../by-program/informatica.md) | Low | — | 9 |
-| 749 | [246055](../reports/246055.md) | Public calendar link can be invisible | [Mixmax](../by-program/mixmax.md) | Low | — | 9 |
-| 750 | [663729](../reports/663729.md) | [Brave browser] WebTorrent has DNS rebinding vulnerability | [Brave Software](../by-program/brave.md) | Low | — | 9 |
-| 751 | [1145454](../reports/1145454.md) | lib/net/ftp.rb: trusting PASV responses allow client abuse | [Ruby](../by-program/ruby.md) | Low — CVSS 3.7 | — | 9 |
-| 752 | [182017](../reports/182017.md) | htaccess file is accesible | [Pushwoosh](../by-program/pushwoosh.md) | Low | — | 9 |
-| 753 | [1211094](../reports/1211094.md) | F5 BIG-IP Cookie  potentially reveal BigIP pool name, backend's I | [Informatica](../by-program/informatica.md) | Low | — | 9 |
-| 754 | [187460](../reports/187460.md) | Files Drop: WebDAV endpoint is leaking existence of resources | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.7 | — | 9 |
-| 755 | [182046](../reports/182046.md) | Nginx server version disclosure | [Pushwoosh](../by-program/pushwoosh.md) | Low | — | 9 |
-| 756 | [1595299](../reports/1595299.md) | Read beyond bounds via ap_rwrite() [zhbug_httpd_47.2] | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 9 |
-| 757 | [541760](../reports/541760.md) | Blockstack Browser For Mac leaks "Core API Password" to 3rd parti | [Hiro](../by-program/hiro.md) | Low | — | 8 |
-| 758 | [311380](../reports/311380.md) | See details of a unpublished word by guessing the word ID | [Urban Dictionary](../by-program/urbandictionary.md) | Low | — | 8 |
-| 759 | [350432](../reports/350432.md) | Information disclosure | [HackerOne](../by-program/security.md) | Low — CVSS 2.9 | — | 8 |
-| 760 | [1643962](../reports/1643962.md) | Path paths and file disclosure vulnerabilities at influxdb.qualit | [GitLab](../by-program/gitlab.md) | Low | — | 8 |
-| 761 | [325594](../reports/325594.md) | Leakage badges on disabled user | [HackerOne](../by-program/security.md) | Low | — | 8 |
-| 762 | [175320](../reports/175320.md) | 2 Directory Listing on ledger.brave.com & vault-staging.brave.com | [Brave Software](../by-program/brave.md) | Low | — | 7 |
-| 763 | [174882](../reports/174882.md) | Requesting Show CheckIn Alert for Non Friend User | [Yelp](../by-program/yelp.md) | Low | — | 7 |
-| 764 | [173972](../reports/173972.md) | web.xml configuration file disclosure | [ok.ru](../by-program/ok.md) | Low | — | 7 |
-| 765 | [476615](../reports/476615.md) | Private/confidential setting of calendar events is ignored on act | [Nextcloud](../by-program/nextcloud.md) | Low | — | 7 |
-| 766 | [184076](../reports/184076.md) | Information disclosure on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 7 |
-| 767 | [229620](../reports/229620.md) | Information Disclosure on demo.weblate.org | [Weblate](../by-program/weblate.md) | Low | — | 7 |
-| 768 | [189414](../reports/189414.md) | Information disclosure on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 7 |
-| 769 | [947637](../reports/947637.md) | Ngnix Server version disclosure. | [Dropcontact](../by-program/dropcontact.md) | Low | — | 6 |
-| 770 | [1246721](../reports/1246721.md) | Text app leaks file path of shared files | [Nextcloud](../by-program/nextcloud.md) | Low | — | 6 |
-| 771 | [1354334](../reports/1354334.md) | Error in Deleting Deck cards attachment reveals the full path of  | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 6 |
-| 772 | [188132](../reports/188132.md) | Wordpress Version Disclosure Bug On Nextcloud | [Nextcloud](../by-program/nextcloud.md) | Low | — | 6 |
-| 773 | [994612](../reports/994612.md) | jira discloser information  | [Informatica](../by-program/informatica.md) | Low | — | 6 |
-| 774 | [1408589](../reports/1408589.md) | Wordpress users disclosure from json and xml file | [MTN Group](../by-program/mtn_group.md) | Low — CVSS 3.7 | — | 6 |
-| 775 | [907701](../reports/907701.md) | PHPinfo page on  http://█████.callstats.io | [8x8](../by-program/8x8-bounty.md) | Low | — | 6 |
-| 776 | [186326](../reports/186326.md) | Arbitary file download vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 6 |
-| 777 | [1586524](../reports/1586524.md) | installed.json sensitive file was publicly accessible on your web | [Yelp](../by-program/yelp.md) | Low | — | 6 |
-| 778 | [1595281](../reports/1595281.md) | Read beyond bounds in ap_strcmp_match() [zhbug_httpd_47.7] | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
-| 779 | [197055](../reports/197055.md) | Information disclosure vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 5 |
-| 780 | [196482](../reports/196482.md) | Information disclosure vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 5 |
-| 781 | [195638](../reports/195638.md) | Information disclosure vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 5 |
-| 782 | [667032](../reports/667032.md) | Information disclosure (system username, server info) in the x-am | [GSA Bounty](../by-program/gsa_bbp.md) | Low | — | 5 |
-| 783 | [223421](../reports/223421.md) | Open port leads to information disclosure | [Weblate](../by-program/weblate.md) | Low | — | 5 |
-| 784 | [280509](../reports/280509.md) | User Enumeration | [Infogram](../by-program/infogram.md) | Low | — | 5 |
-| 785 | [1351359](../reports/1351359.md) | Exposed gitlab repo at https://adammanco.mtn.com/api/v4/projects | [MTN Group](../by-program/mtn_group.md) | Low | — | 5 |
-| 786 | [826005](../reports/826005.md) | Private account causes displayed through API | [Staging.every.org](../by-program/stagingdoteverydotorg.md) | Low | — | 5 |
-| 787 | [684701](../reports/684701.md) | Wordpress users disclosure on blog.makerdao.con | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | Low | — | 5 |
-| 788 | [1595290](../reports/1595290.md) | Controllable read beyond bounds in lua_websocket_readbytes() [zhb | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
-| 789 | [636560](../reports/636560.md) | Project Milestones Disclosed Via Groups When the Victim disabled  | [GitLab](../by-program/gitlab.md) | Low | — | 4 |
-| 790 | [838685](../reports/838685.md) | Use of uninitialized value in ftp_getrc_msg method of mod_proxy_f | [Internet Bug Bounty](../by-program/ibb.md) | Low — CVSS 3.7 | — | 4 |
-| 791 | [191830](../reports/191830.md) | Server side information disclosure on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
-| 792 | [195836](../reports/195836.md) | Information disclosure vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
-| 793 | [1575401](../reports/1575401.md) | xmlrpc file enabled | [Yelp](../by-program/yelp.md) | Low | — | 4 |
-| 794 | [311449](../reports/311449.md) | Reputation gain split by company can be used to track the existen | [HackerOne](../by-program/security.md) | Low | — | 4 |
-| 795 | [183318](../reports/183318.md) | Direct IP Access | [OWOX, Inc.](../by-program/owox.md) | Low | — | 4 |
-| 796 | [124976](../reports/124976.md) | Hijacking user session by forcing the use of  invalid HTTPs Certi | [Gratipay](../by-program/gratipay.md) | Low | — | 4 |
-| 797 | [358102](../reports/358102.md) | Disclosed Version of PORTS SSH|HTTP|SSL | [Nextcloud](../by-program/nextcloud.md) | Low | — | 3 |
-| 798 | [196969](../reports/196969.md) | bug reporting template encourages users to paste config file with | [ownCloud](../by-program/owncloud.md) | Low | — | 3 |
-| 799 | [964315](../reports/964315.md) | Admin/Info lekage | [Kartpay](../by-program/kartpay.md) | Low | — | 3 |
-| 800 | [963164](../reports/963164.md) | Django debug enabled showing information about system, database,  | [Dropcontact](../by-program/dropcontact.md) | Low | — | 3 |
-| 801 | [223343](../reports/223343.md) | Already Registered Email Disclosure | [Weblate](../by-program/weblate.md) | Low | — | 3 |
-| 802 | [870062](../reports/870062.md) | Referer Referer Header Leakage in language changer may lead to FB | [Rockstar Games](../by-program/rockstargames.md) | Low — CVSS 3.8 | — | 3 |
-| 803 | [186307](../reports/186307.md) | Information disclosure vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 3 |
-| 804 | [789803](../reports/789803.md) | Disclosure of Co-Rider user (Uber-pooling) profile picture at Ama | [Uber](../by-program/uber.md) | Low — CVSS 3.1 | — | 3 |
-| 805 | [1082521](../reports/1082521.md) | Full Path Disclosure of Server through 500 Server Error | [Kartpay](../by-program/kartpay.md) | Low | — | 3 |
-| 806 | [184558](../reports/184558.md) | Information disclosure vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 3 |
-| 807 | [261817](../reports/261817.md) | Information disclosure | [Legal Robot](../by-program/legalrobot.md) | Low | — | 3 |
-| 808 | [766963](../reports/766963.md) | Potential linkage of public/private (anonymous) node addresses | [Monero](../by-program/monero.md) | Low | — | 3 |
-| 809 | [895730](../reports/895730.md) | Contacts menu (not app) fails to restrict (to local groups) for c | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.2 | — | 3 |
-| 810 | [1223882](../reports/1223882.md) | CVE-2021-22925: TELNET stack contents disclosure again | [curl](../by-program/curl.md) | Low — CVSS 3.1 | — | 3 |
-| 811 | [281597](../reports/281597.md) | Preferred language option fingerprinting issue in Tor Browser | [Tor](../by-program/torproject.md) | Low | — | 3 |
-| 812 | [476439](../reports/476439.md) | Password authentication at newsletter.nextcloud.com discloses use | [Nextcloud](../by-program/nextcloud.md) | Low | — | 3 |
-| 813 | [203088](../reports/203088.md) | Brave payments remembers history even after clearing all browser  | [Brave Software](../by-program/brave.md) | Low — CVSS 2.1 | — | 2 |
-| 814 | [226514](../reports/226514.md) | Full Path Disclousure on https://airship.paragonie.com | [Paragon Initiative Enterprises](../by-program/paragonie.md) | Low | — | 2 |
-| 815 | [460530](../reports/460530.md) |  information disclosure which leak the apache version  | [RATELIMITED](../by-program/ratelimited.md) | Low | — | 2 |
-| 816 | [642862](../reports/642862.md) | Option method enabled in kartpay Webservers | [Kartpay](../by-program/kartpay.md) | Low | — | 2 |
-| 817 | [186317](../reports/186317.md) | Information disclosure on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 2 |
-| 818 | [3524971](../reports/3524971.md) | Users with read-only access to a Nextcloud Table can enumerate it | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.3 | — | 2 |
-| 819 | [696198](../reports/696198.md) | WordPress Plugin Insert or Embed Articulate Content into WordPres | [Nextcloud](../by-program/nextcloud.md) | Low | — | 2 |
-| 820 | [356408](../reports/356408.md) | The "Download Raw Diff" URL is viewable by everyone | [Phabricator](../by-program/phabricator.md) | Low | — | 1 |
-| 821 | [3749681](../reports/3749681.md) | Background sync cache retains outgoing additional transaction sec | [Monero](../by-program/monero.md) | Low — CVSS 2.8 | — | 1 |
-| 822 | [3735184](../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | [curl](../by-program/curl.md) | Low | — | 1 |
-| 823 | [197880](../reports/197880.md) | Nginx version disclosure via forbidden page | [Yelp](../by-program/yelp.md) | Low | — | 1 |
-| 824 | [136720](../reports/136720.md) | don't leak server version of grtp.co in error pages | [Gratipay](../by-program/gratipay.md) | Low | — | 1 |
-| 825 | [255132](../reports/255132.md) | Credential gets exposed | [Phabricator](../by-program/phabricator.md) | Low | — | 1 |
-| 826 | [1188662](../reports/1188662.md) | Username disclosure at Main Domain | [Sifchain](../by-program/sifchain.md) | Low | — | 1 |
-| 827 | [267922](../reports/267922.md) | Sql query disclosure, | [Tor](../by-program/torproject.md) | Low | — | 0 |
-| 828 | [667613](../reports/667613.md) | Username Enumeration | [Nextcloud](../by-program/nextcloud.md) | Low | — | 0 |
-| 829 | [3968431](../reports/3968431.md) | ARG_CLEAR credential scrubbing wipes only UTF-8 copies on Windows | [curl](../by-program/curl.md) | Low | — | 0 |
-| 830 | [419655](../reports/419655.md) | Client secret, server tokens for developer applications returned  | [Uber](../by-program/uber.md) | None | — | 125 |
-| 831 | [167859](../reports/167859.md) | Base alpha version code exposure | [Eternal](../by-program/eternal.md) | None | — | 99 |
-| 832 | [127158](../reports/127158.md) | Possibility to get private email using UUID | [Uber](../by-program/uber.md) | None | — | 82 |
-| 833 | [3091909](../reports/3091909.md) | Leaked credentials ( emails and passwords , etc...) | [WakaTime](../by-program/wakatime.md) | None | — | 76 |
-| 834 | [858915](../reports/858915.md) | CircleCI token in github repo allows for access to sensitive buil | [Shopify](../by-program/shopify.md) | None | — | 73 |
-| 835 | [3090641](../reports/3090641.md) | Login Information and Credentials Have Been Leaked on wakatime.co | [WakaTime](../by-program/wakatime.md) | None | — | 73 |
-| 836 | [3098717](../reports/3098717.md) | user api key leaked | [WakaTime](../by-program/wakatime.md) | None | — | 64 |
-| 837 | [237381](../reports/237381.md) | SSRF and local file disclosure in https://wordpress.com/media/vid | [Automattic](../by-program/automattic.md) | None | — | 62 |
-| 838 | [2923061](../reports/2923061.md) | API Key Exposed in JavaScript File on 1Password Developer Site | [1Password - Enterprise Password Manager](../by-program/1password.md) | None | — | 61 |
-| 839 | [378122](../reports/378122.md) | HackerOne customer submitted sensitive link to VirusTotal, exposi | [HackerOne](../by-program/security.md) | None | — | 60 |
-| 840 | [2844797](../reports/2844797.md) | Exposed Logs and Bearer Tokens on Test Endpoint | [IBM](../by-program/ibm.md) | None | — | 57 |
-| 841 | [149907](../reports/149907.md) | Urgent: attacker can access every data source on Bime | [Bime](../by-program/bime.md) | None | — | 56 |
-| 842 | [2412983](../reports/2412983.md) | sentry Auth Token exposed publicly in docker hub image  | [Mozilla](../by-program/mozilla.md) | None | — | 51 |
-| 843 | [155618](../reports/155618.md) | Watch any Password Video without password | [Vimeo](../by-program/vimeo.md) | None | — | 44 |
-| 844 | [2134874](../reports/2134874.md) | Hackers two email disclosed on  submission at hackerone hactivity | [HackerOne](../by-program/security.md) | None | — | 43 |
-| 845 | [2380084](../reports/2380084.md) | paypal client_id And stripe api key indexed on web archive | [Mozilla](../by-program/mozilla.md) | None | — | 40 |
-| 846 | [149914](../reports/149914.md) | Attacker can access graphic representation of every query | [Bime](../by-program/bime.md) | None | — | 39 |
-| 847 | [347937](../reports/347937.md) | Team object in GraphQL that have a published external program may | [HackerOne](../by-program/security.md) | None | — | 39 |
-| 848 | [3198394](../reports/3198394.md) | WordPress Version Exposure via ███████ on hemi.xyz | [Hemi VDP](../by-program/hemi_labs_vdp.md) | None | — | 38 |
-| 849 | [3509632](../reports/3509632.md) | Information Disclosure via Logback Configuration Injection in GoC | [GoCD](../by-program/gocd.md) | None | — | 36 |
-| 850 | [988877](../reports/988877.md) | Path traversal in a Tomcat server | [LY Corporation](../by-program/line.md) | None | — | 36 |
-| 851 | [137502](../reports/137502.md) | All Vimeo Private videos disclosure via Authorization Bypass | [Vimeo](../by-program/vimeo.md) | None | — | 35 |
-| 852 | [142709](../reports/142709.md) | Fetching external resources through svg images | [Shopify](../by-program/shopify.md) | None | — | 31 |
-| 853 | [91343](../reports/91343.md) | Information disclosure (No rate limting in forgot password & othe | [Imgur](../by-program/imgur.md) | None | — | 30 |
-| 854 | [143438](../reports/143438.md) | Potentially Sensitive Information on GitHub | [Shopify](../by-program/shopify.md) | None | — | 29 |
-| 855 | [1067824](../reports/1067824.md) | Database error shown to the user when using a long guest name in  | [Nextcloud](../by-program/nextcloud.md) | None | — | 29 |
-| 856 | [2886723](../reports/2886723.md) | GraphQL Introspection Enabled on Shopify API Endpoint (Intended B | [Shopify](../by-program/shopify.md) | None | — | 28 |
-| 857 | [3306475](../reports/3306475.md) | curl leaks destination IP via glibc getaddrinfo() UDP connect, by | [curl](../by-program/curl.md) | None | — | 28 |
-| 858 | [3361913](../reports/3361913.md) | AWS SigV4 Signature Disclosure via Verbose Logging in libcurl | [curl](../by-program/curl.md) | None | — | 27 |
-| 859 | [211477](../reports/211477.md) | Stealing users' facebook access tokens - kitcrm.com | [Shopify](../by-program/shopify.md) | None | — | 26 |
-| 860 | [1541660](../reports/1541660.md) | Information Disclosure Leads To User Data Leak | [MTN Group](../by-program/mtn_group.md) | None | — | 25 |
-| 861 | [136891](../reports/136891.md) | Source code disclosure on https://107.23.69.180 | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 25 |
-| 862 | [1023669](../reports/1023669.md) | Staff with no permissions can listen to Shopify Ping conversation | [Shopify](../by-program/shopify.md) | None | — | 25 |
-| 863 | [350964](../reports/350964.md) | User object in GraphQL exposes number of trial reports for Extern | [HackerOne](../by-program/security.md) | None | — | 24 |
-| 864 | [2429](../reports/2429.md) | Hackerone Email Addresses Enumeration | [HackerOne](../by-program/security.md) | None | — | 24 |
-| 865 | [127087](../reports/127087.md) | Possible to View Driver Waybill via Driver UUID | [Uber](../by-program/uber.md) | None | — | 24 |
-| 866 | [167828](../reports/167828.md) | Ability to enumerate private programs using SAML | [HackerOne](../by-program/security.md) | None | — | 24 |
-| 867 | [148050](../reports/148050.md) | Know undisclosed Bounty Amount when Bounty Statistics are enabled | [HackerOne](../by-program/security.md) | None | — | 23 |
-| 868 | [1262907](../reports/1262907.md) | Apache Flink Dashboard exposure at https://streaming-sales-model- | [Shopify](../by-program/shopify.md) | None | — | 23 |
-| 869 | [166861](../reports/166861.md) | AWS hosting bucket for Legal Robots set as public browse and list | [Legal Robot](../by-program/legalrobot.md) | None | — | 21 |
-| 870 | [1128358](../reports/1128358.md) | Used email confirmation link reveals the email address which is t | [HackerOne](../by-program/security.md) | None | — | 21 |
-| 871 | [161659](../reports/161659.md) | ████ discloses valid Airbnb SSO login names via Google Search Res | [Airbnb](../by-program/airbnb.md) | None | — | 21 |
-| 872 | [269467](../reports/269467.md) | Banner Grabbing - Apache Server Version Disclousure | [ownCloud](../by-program/owncloud.md) | None | — | 19 |
-| 873 | [138270](../reports/138270.md) | Instagram OAuth2 Implementation Leaks Access Token; Allows for Cr | [Eternal](../by-program/eternal.md) | None | — | 19 |
-| 874 | [357576](../reports/357576.md) | Exposing hackerone users personally identifiable information by a | [HackerOne](../by-program/security.md) | None | — | 18 |
-| 875 | [703882](../reports/703882.md) | Origin IP found, Cloudflare bypassed | [People Interactive](../by-program/people_interactive.md) | None | — | 18 |
-| 876 | [105887](../reports/105887.md) | Know whether private program for company exist or not | [HackerOne](../by-program/security.md) | None | — | 18 |
-| 877 | [345152](../reports/345152.md) | Publicly Accessible Datadog link | [Shopify](../by-program/shopify.md) | None | — | 18 |
-| 878 | [1450014](../reports/1450014.md) | Visibility Robots.txt file | [Krisp](../by-program/krisp.md) | None | — | 18 |
-| 879 | [33935](../reports/33935.md) | File Name Enumeration  | [HackerOne](../by-program/security.md) | None | — | 17 |
-| 880 | [283361](../reports/283361.md) | Private partial disclosure of h1 infrastructure  | [HackerOne](../by-program/security.md) | None | — | 17 |
-| 881 | [136850](../reports/136850.md) | Images and Subtitles Leakage from private videos | [Vimeo](../by-program/vimeo.md) | None | — | 17 |
-| 882 | [163131](../reports/163131.md) | Users contents on AWS  is cacheable  | [HackerOne](../by-program/security.md) | None | — | 16 |
-| 883 | [167481](../reports/167481.md) | Android - Possible to intercept broadcasts about uploaded files | [Nextcloud](../by-program/nextcloud.md) | None | — | 16 |
-| 884 | [144129](../reports/144129.md) | Old titles are not hidden in reports with limited disclosure | [HackerOne](../by-program/security.md) | None | — | 16 |
-| 885 | [3255910](../reports/3255910.md) | Vulnerability: XML-RPC Interface Enabled and Accessible | [Tucows (VDP)](../by-program/tucows_vdp.md) | None | — | 15 |
-| 886 | [350739](../reports/350739.md) | Lack of cross-origin request blocking allows leaking of sensitive | [HackerOne](../by-program/security.md) | None | — | 15 |
-| 887 | [127161](../reports/127161.md) | Information regarding trips from other users | [Uber](../by-program/uber.md) | None | — | 15 |
-| 888 | [154762](../reports/154762.md) | Missing authorization checks leading to the exposure of ubernihao | [Uber](../by-program/uber.md) | None | — | 15 |
-| 889 | [112116](../reports/112116.md) | XXE in the Connector Designer | [Bime](../by-program/bime.md) | None | — | 15 |
-| 890 | [281950](../reports/281950.md) | Internal Ports Scanning via Blind SSRF | [Infogram](../by-program/infogram.md) | None | — | 14 |
-| 891 | [3372277](../reports/3372277.md) | Information Disclosure via Accessible debug.log on ExactHosting | [Tucows (VDP)](../by-program/tucows_vdp.md) | None | — | 14 |
-| 892 | [622937](../reports/622937.md) | Private ip leaking through response | [Urban Company](../by-program/urbancompany.md) | None | — | 14 |
-| 893 | [3241304](../reports/3241304.md) | access notes without permission | [curl](../by-program/curl.md) | None | — | 14 |
-| 894 | [173175](../reports/173175.md) | Obtain the username & the uid of the one doing the S3 sync on Hac | [HackerOne](../by-program/security.md) | None | — | 14 |
-| 895 | [149483](../reports/149483.md) | Server version disclosure | [Uber](../by-program/uber.md) | None | — | 13 |
-| 896 | [16910](../reports/16910.md) | Cross-site information assertion leak via Content Security Policy | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 13 |
-| 897 | [5314](../reports/5314.md) | Coinbase Android Application - Bitcoin Wallet Leaks OAuth Respons | [Coinbase](../by-program/coinbase.md) | None | — | 13 |
-| 898 | [125118](../reports/125118.md) | Lack of CNAME/A Record Trimming Pointing Uber Domains to Insecure | [Uber](../by-program/uber.md) | None | — | 13 |
-| 899 | [2221](../reports/2221.md) | CSS leaks SCSS debug info | [HackerOne](../by-program/security.md) | None | — | 13 |
-| 900 | [220946](../reports/220946.md) | https://portal.nextcloud.com/.htaccess file is readable | [Nextcloud](../by-program/nextcloud.md) | None | — | 12 |
-| 901 | [149710](../reports/149710.md) | don't leak Server version for assets.gratipay.com | [Gratipay](../by-program/gratipay.md) | None | — | 12 |
-| 902 | [135937](../reports/135937.md) | SSRF when importing a project from a git repo by URL | [GitLab](../by-program/gitlab.md) | None | — | 12 |
-| 903 | [8090](../reports/8090.md) | Full Path Disclosure / Info Disclosure in Creating New Group | [Localize](../by-program/localize.md) | None | — | 12 |
-| 904 | [198012](../reports/198012.md) | Disclosure of administrators via JSON on nextcloud.com Wordpress | [Nextcloud](../by-program/nextcloud.md) | None | — | 12 |
-| 905 | [145150](../reports/145150.md) | Bulk UUID enumeration via invite codes | [Uber](../by-program/uber.md) | None | — | 12 |
-| 906 | [163730](../reports/163730.md) | News Feed Detected  | [Legal Robot](../by-program/legalrobot.md) | None | — | 12 |
-| 907 | [166942](../reports/166942.md) | leaking Digits OAuth authorization to third party websites | [X / xAI](../by-program/x.md) | None | — | 12 |
-| 908 | [143064](../reports/143064.md) | Information Disclosure | [drchrono](../by-program/drchrono.md) | None | — | 11 |
-| 909 | [46366](../reports/46366.md) | Error stack trace | [Whisper](../by-program/whisper.md) | None | — | 11 |
-| 910 | [791826](../reports/791826.md) | Misconfigured web directory allows to retrieve public proxy list | [Nord Security](../by-program/nordsecurity.md) | None | — | 11 |
-| 911 | [142773](../reports/142773.md) | 16 instances where return value of OpenSSL i2d_RSAPublicKey is di | [Tor](../by-program/torproject.md) | None | — | 11 |
-| 912 | [149435](../reports/149435.md) | Reward Money Leakage | [HackerOne](../by-program/security.md) | None | — | 10 |
-| 913 | [1197035](../reports/1197035.md) | Information Disclosure on https://rpc.sifchain.finance/ | [Sifchain](../by-program/sifchain.md) | None | — | 10 |
-| 914 | [309594](../reports/309594.md) | error | [VK.com](../by-program/vkcom.md) | None | — | 10 |
-| 915 | [162147](../reports/162147.md) | Boards leak private label names and desciptions | [GitLab](../by-program/gitlab.md) | None | — | 10 |
-| 916 | [166265](../reports/166265.md) | Verification of E-Mail address possible on https://biz.yelp.com/l | [Yelp](../by-program/yelp.md) | None | — | 10 |
-| 917 | [289189](../reports/289189.md) | Exposes a series of other private credentials | [Legal Robot](../by-program/legalrobot.md) | None | — | 10 |
-| 918 | [998555](../reports/998555.md) | Get ip and Geo location any user via Clickjacking with inspectlet | [Acronis](../by-program/acronis.md) | None | — | 10 |
-| 919 | [128051](../reports/128051.md) | Attacker can extract list of private project's project members | [GitLab](../by-program/gitlab.md) | None | — | 10 |
-| 920 | [156182](../reports/156182.md) | Visibility  Robots.txt file | [Eternal](../by-program/eternal.md) | None | — | 10 |
-| 921 | [49499](../reports/49499.md) | Generating Unlimited Free Travel Gift Invites | IDOR | [Airbnb](../by-program/airbnb.md) | None | — | 10 |
-| 922 | [221298](../reports/221298.md) | GIT Detected | [Nextcloud](../by-program/nextcloud.md) | None | — | 10 |
-| 923 | [163476](../reports/163476.md) | Information Disclosure in AWS S3 Bucket | [Legal Robot](../by-program/legalrobot.md) | None | — | 10 |
-| 924 | [62301](../reports/62301.md) | Ability to add pishing links in discusion ," Bypassing uneduction | [Udemy](../by-program/udemy.md) | None | — | 10 |
-| 925 | [194721](../reports/194721.md) | Verification of email addresses possible through https://www.yelp | [Yelp](../by-program/yelp.md) | None | — | 10 |
-| 926 | [119666](../reports/119666.md) | Server version is disclosure in http://leasewebnoc.com/ | [LeaseWeb](../by-program/leaseweb.md) | None | — | 10 |
-| 927 | [1409](../reports/1409.md) | Proxy discloses internal web servers | [Factlink](../by-program/factlink.md) | None | — | 10 |
-| 928 | [244434](../reports/244434.md) | Leaking password reset token via referrer from external Twitter s | [WakaTime](../by-program/wakatime.md) | None | — | 10 |
-| 929 | [9485](../reports/9485.md) | Multiple Path Disclosure | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 9 |
-| 930 | [6488](../reports/6488.md) | Weak Ciphers Enabled | [Khan Academy](../by-program/khanacademy.md) | None | — | 9 |
-| 931 | [145734](../reports/145734.md) | help.nextcloud Email Address/Username enumeration | [Nextcloud](../by-program/nextcloud.md) | None | — | 9 |
-| 932 | [157699](../reports/157699.md) | Disclosure of external users invited to a specific report | [HackerOne](../by-program/security.md) | None | — | 9 |
-| 933 | [29185](../reports/29185.md) | "early preview" programs disclosure | [HackerOne](../by-program/security.md) | None | — | 9 |
-| 934 | [163464](../reports/163464.md) | User Information sent to client through websockets | [Legal Robot](../by-program/legalrobot.md) | None | — | 9 |
-| 935 | [3241308](../reports/3241308.md) | Disclosure of email addresses | [curl](../by-program/curl.md) | None | — | 9 |
-| 936 | [280770](../reports/280770.md) | Search query text, including from potentially undisclosed reports | [HackerOne](../by-program/security.md) | None | — | 9 |
-| 937 | [197877](../reports/197877.md) | User Information Disclosure via REST API | [Nextcloud](../by-program/nextcloud.md) | None | — | 8 |
-| 938 | [3159877](../reports/3159877.md) | Information disclosure via Desktop client when attempting to lock | [Nextcloud](../by-program/nextcloud.md) | None | — | 8 |
-| 939 | [263](../reports/263.md) | Report title autocompletion | [HackerOne](../by-program/security.md) | None | — | 8 |
-| 940 | [1018336](../reports/1018336.md) | Customer's full name disclosure via Shopify Chat (by email lookup | [Shopify](../by-program/shopify.md) | None | — | 8 |
-| 941 | [283309](../reports/283309.md) | Private Program all members disclosed  | [HackerOne](../by-program/security.md) | None | — | 8 |
-| 942 | [1321830](../reports/1321830.md) | Google Maps API Key Leakage | [Uber](../by-program/uber.md) | None | — | 8 |
-| 943 | [31383](../reports/31383.md) | Ability to see common response titles of other teams (limited) | [HackerOne](../by-program/security.md) | None | — | 8 |
-| 944 | [2766](../reports/2766.md) | Email enumeration | [Slack](../by-program/slack.md) | None | — | 8 |
-| 945 | [3370](../reports/3370.md) | Directory traversal attack in view resolver | [Ruby on Rails](../by-program/rails.md) | None | — | 8 |
-| 946 | [80118](../reports/80118.md) | Information leakage - Private reports cached by Google  | [HackerOne](../by-program/security.md) | None | — | 8 |
-| 947 | [135756](../reports/135756.md) | View all deleted comments and rating of any app . | [Shopify](../by-program/shopify.md) | None | — | 7 |
-| 948 | [163421](../reports/163421.md) | Wordpress: Directory Traversal / Denial of Serivce | [Nextcloud](../by-program/nextcloud.md) | None | — | 7 |
-| 949 | [151772](../reports/151772.md) | Directory Listening | [GoCD](../by-program/gocd.md) | None | — | 7 |
-| 950 | [406388](../reports/406388.md) | Apache Server Version Disclousure | [BOHEMIA INTERACTIVE a.s.](../by-program/bohemia.md) | None | — | 7 |
-| 951 | [2582](../reports/2582.md) | Session Fixation disclosing email address | [Slack](../by-program/slack.md) | None | — | 7 |
-| 952 | [400781](../reports/400781.md) | Browser Self XSS Protection not implemented | [Weblate](../by-program/weblate.md) | None | — | 7 |
-| 953 | [132777](../reports/132777.md) | Labels created in private projects are leaked | [GitLab](../by-program/gitlab.md) | None | — | 7 |
-| 954 | [127914](../reports/127914.md) | Deleted name still present via mouseover functionality for user a | [HackerOne](../by-program/security.md) | None | — | 7 |
-| 955 | [134305](../reports/134305.md) | Private snippets in public / internal projects leaked though GitL | [GitLab](../by-program/gitlab.md) | None | — | 7 |
-| 956 | [461598](../reports/461598.md) | Information Disclosure on https://theendlessweb.com/ | [RATELIMITED](../by-program/ratelimited.md) | None | — | 7 |
-| 957 | [35823](../reports/35823.md) | File name/folder enumeration. | [Factlink](../by-program/factlink.md) | None | — | 7 |
-| 958 | [41469](../reports/41469.md) | Error stack trace | [Enter](../by-program/enter.md) | None | — | 7 |
-| 959 | [208566](../reports/208566.md) | Outdated Jenkins server hosted at OwnCloud.org | [ownCloud](../by-program/owncloud.md) | None | — | 6 |
-| 960 | [8019](../reports/8019.md) | Possible sensitive files | [Localize](../by-program/localize.md) | None | — | 6 |
-| 961 | [167041](../reports/167041.md) | Server version disclosure | [Legal Robot](../by-program/legalrobot.md) | None | — | 6 |
-| 962 | [969988](../reports/969988.md) | Private leaderboard owner email disclosure when sending invites | [WakaTime](../by-program/wakatime.md) | None | — | 6 |
-| 963 | [171272](../reports/171272.md) | Accessable Htaccess | [ownCloud](../by-program/owncloud.md) | None | — | 6 |
-| 964 | [4409](../reports/4409.md) | TRACE disclosure attack may be possible | [RelateIQ](../by-program/relateiq.md) | None | — | 6 |
-| 965 | [302620](../reports/302620.md) | Partial disclosure of undisclosed programs through <meta> tags | [HackerOne](../by-program/security.md) | None | — | 6 |
-| 966 | [133717](../reports/133717.md) | GFM renderer leaks external issue tracker URL of private project | [GitLab](../by-program/gitlab.md) | None | — | 6 |
-| 967 | [508024](../reports/508024.md) | Public and secret api key leaked via omise github repo(owned by o | [Omise](../by-program/omise.md) | None | — | 6 |
-| 968 | [7736](../reports/7736.md) | FULL PATH DISCLOSUR  | [Concrete CMS](../by-program/concretecms.md) | None | — | 6 |
-| 969 | [44652](../reports/44652.md) | Insecure crossdomain.xml | [Mobile Vikings](../by-program/mobilevikings.md) | None | — | 6 |
-| 970 | [139192](../reports/139192.md) | Ability to collect users' ids that have visited a specific web pa | [Bumble](../by-program/bumble.md) | None | — | 6 |
-| 971 | [156510](../reports/156510.md) | Directory listening enabled in: 88.198.160.130 | [Nextcloud](../by-program/nextcloud.md) | None | — | 6 |
-| 972 | [11729](../reports/11729.md) | Path Disclosure Vulnerability | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 6 |
-| 973 | [18382](../reports/18382.md) | Using nmap revealing sensitive information  | [jsDelivr](../by-program/jsdelivr.md) | None | — | 6 |
-| 974 | [926093](../reports/926093.md) | Secret_key in GitHub | [Weblate](../by-program/weblate.md) | None | — | 6 |
-| 975 | [178503](../reports/178503.md) | ability to retrieve a user's phone-number/email for a given invit | [Uber](../by-program/uber.md) | None | — | 6 |
-| 976 | [17514](../reports/17514.md) | Information Disclosure (phpinfo()) | [Uzbey](../by-program/uzbey.md) | None | — | 6 |
-| 977 | [171593](../reports/171593.md) | Malicious Server can force read any file on clients system with d | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 5 |
-| 978 | [2050059](../reports/2050059.md) | Nextcloud All-In-One path disclosure of internal frontend | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
-| 979 | [160120](../reports/160120.md) | API OAuth Public Key disclosure in mobile app | [Instacart](../by-program/instacart.md) | None | — | 5 |
-| 980 | [46345](../reports/46345.md) | Directory index and information disclosure | [Whisper](../by-program/whisper.md) | None | — | 5 |
-| 981 | [57125](../reports/57125.md) | comment out causes information disclosure | [Shopify](../by-program/shopify.md) | None | — | 5 |
-| 982 | [116798](../reports/116798.md) | Private Program Disclosure in /:handle/settings/allow_report_subm | [HackerOne](../by-program/security.md) | None | — | 5 |
-| 983 | [130440](../reports/130440.md) | Requested and received edit access to Google form | [Uber](../by-program/uber.md) | None | — | 5 |
-| 984 | [752353](../reports/752353.md) | Anonymous file drop page ignores user profile visibility restrict | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
-| 985 | [491319](../reports/491319.md) | Guests Will Disclose the Private Project Full Activity Via Projec | [GitLab](../by-program/gitlab.md) | None | — | 5 |
-| 986 | [117902](../reports/117902.md) | Дорк | [VK.com](../by-program/vkcom.md) | None | — | 5 |
-| 987 | [343095](../reports/343095.md) | Session Cookie Without Secure Flag, | [Ed](../by-program/ed.md) | None | — | 5 |
-| 988 | [141125](../reports/141125.md) | Ngnix Server version disclosure | [drchrono](../by-program/drchrono.md) | None | — | 5 |
-| 989 | [195205](../reports/195205.md) | lert.uber.com: Few default folders/files of AURA Framework are ac | [Uber](../by-program/uber.md) | None | — | 5 |
-| 990 | [146106](../reports/146106.md) | Email ID Disclosure. | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
-| 991 | [129712](../reports/129712.md) | reopen #128853 (Information disclosure at lite.uber.com) | [Uber](../by-program/uber.md) | None | — | 5 |
-| 992 | [42154](../reports/42154.md) | Gain access to any user's email address | [Nearby Live](../by-program/nearby.md) | None | — | 5 |
-| 993 | [134300](../reports/134300.md) | Confidential issues leaked in public projects when attached to mi | [GitLab](../by-program/gitlab.md) | None | — | 5 |
-| 994 | [43998](../reports/43998.md) | CRITICAL full source code/config disclosure for Cameo | [Vimeo](../by-program/vimeo.md) | None | — | 5 |
-| 995 | [193759](../reports/193759.md) | Способ узнать имя человека удаленной страницы 2 | [VK.com](../by-program/vkcom.md) | None | — | 5 |
-| 996 | [216389](../reports/216389.md) | Full access at an internal service of Shopify | [Shopify](../by-program/shopify.md) | None | — | 5 |
-| 997 | [145517](../reports/145517.md) | Vulnerable Javascript library | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
-| 998 | [97609](../reports/97609.md) | User Enumeration : Due to rate limiting on registration | [Deriv.com](../by-program/deriv.md) | None | — | 5 |
-| 999 | [163106](../reports/163106.md) | Information Disclosure of .htaccess file in Private Server/Subdom | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
-| 1000 | [1113759](../reports/1113759.md) | [mattermost.com] CORS Misconfiguration leakage of admin users | [Mattermost](../by-program/mattermost.md) | None | — | 5 |
-| 1001 | [94336](../reports/94336.md) | Minimum bounty of a private program is visible for users that wer | [HackerOne](../by-program/security.md) | None | — | 5 |
-| 1002 | [400785](../reports/400785.md) | Browser Self XSS Protection not implemented | [PortSwigger Web Security](../by-program/portswigger.md) | None | — | 5 |
-| 1003 | [2140](../reports/2140.md) | Flash local-with-fileaccess Sandbox Bypass | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 5 |
-| 1004 | [167036](../reports/167036.md) | Ngnix Server version disclosure 404 Page! | [Yelp](../by-program/yelp.md) | None | — | 5 |
-| 1005 | [8064](../reports/8064.md) | Numerous open ports/services | [Localize](../by-program/localize.md) | None | — | 5 |
-| 1006 | [8055](../reports/8055.md) | Apache Documentation | [Localize](../by-program/localize.md) | None | — | 5 |
-| 1007 | [90367](../reports/90367.md) | Minor Bug: Public un-compiled CSS with original sass, versioning, | [HackerOne](../by-program/security.md) | None | — | 5 |
-| 1008 | [193419](../reports/193419.md) | Способ узнать имя человека удаленной страницы | [VK.com](../by-program/vkcom.md) | None | — | 5 |
-| 1009 | [151680](../reports/151680.md) | Possible SSRF at URL Parameter while creating a new package repos | [GoCD](../by-program/gocd.md) | None | — | 5 |
-| 1010 | [269449](../reports/269449.md) | Banner Grabbing - Apache Server Version Disclousure | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
-| 1011 | [371464](../reports/371464.md) | Directory Listing on https://promo-services-staging.brave.com | [Brave Software](../by-program/brave.md) | None | — | 4 |
-| 1012 | [100916](../reports/100916.md) | Imgur dev environments facing the Internet | [Imgur](../by-program/imgur.md) | None | — | 4 |
-| 1013 | [7903](../reports/7903.md) | Path Disclosure (Info Disclosure) in  http://www.localize.io | [Localize](../by-program/localize.md) | None | — | 4 |
-| 1014 | [1183520](../reports/1183520.md) | RSA PRIVATE KEY discloser | [Sifchain](../by-program/sifchain.md) | None | — | 4 |
-| 1015 | [409973](../reports/409973.md) | Some store settings/data are accessible to "No Access" permission | [Shopify](../by-program/shopify.md) | None | — | 4 |
-| 1016 | [157507](../reports/157507.md) | nginx version disclosure on downloads.gratipay.com | [Gratipay](../by-program/gratipay.md) | None | — | 4 |
-| 1017 | [9745](../reports/9745.md) | Full Path Disclosure (FPD) in www.localize.im | [Localize](../by-program/localize.md) | None | — | 4 |
-| 1018 | [221989](../reports/221989.md) | Server version disclosure on [jenkins.brew.sh] | [Homebrew](../by-program/homebrew.md) | None | — | 4 |
-| 1019 | [8780](../reports/8780.md) | Information Disclosure (FPD) - stopthehacker.com | [StopTheHacker](../by-program/stopthehacker.md) | None | — | 4 |
-| 1020 | [129027](../reports/129027.md) | Disclosure of ways to the site root | [Uber](../by-program/uber.md) | None | — | 4 |
-| 1021 | [4938](../reports/4938.md) | page_controls_menu_js can reveal collection version of page | [Concrete CMS](../by-program/concretecms.md) | None | — | 4 |
-| 1022 | [92716](../reports/92716.md) | HackerOne Private Programs users disclosure and de-anonymous-ize | [HackerOne](../by-program/security.md) | None | — | 4 |
-| 1023 | [13557](../reports/13557.md) | Leaking of password reset token through referer | [Factlink](../by-program/factlink.md) | None | — | 4 |
-| 1024 | [124611](../reports/124611.md) | Disclosure of private programs that have an "external" page on Ha | [HackerOne](../by-program/security.md) | None | — | 4 |
-| 1025 | [919429](../reports/919429.md) | Full path disclosure vulnerability  via Upload .htaccess file | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
-| 1026 | [348801](../reports/348801.md) | Banner Grabbing - Apache Server Version Disclosure | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
-| 1027 | [7923](../reports/7923.md) | Apache2 /icons/ folder accessible | [Localize](../by-program/localize.md) | None | — | 4 |
-| 1028 | [7915](../reports/7915.md) | Uninitialized variable error message leaks information  | [Localize](../by-program/localize.md) | None | — | 4 |
-| 1029 | [12341](../reports/12341.md) | MISSING SPF (Sender Policy Framework) for meteorapm.com | [Kadira](../by-program/kadira.md) | None | — | 4 |
-| 1030 | [113869](../reports/113869.md) | Subdomain Takeover  | [Eternal](../by-program/eternal.md) | None | — | 4 |
-| 1031 | [137404](../reports/137404.md) | List of a ton of internal twitter servers available on GitHub | [X / xAI](../by-program/x.md) | None | — | 4 |
-| 1032 | [151295](../reports/151295.md) | don't allow directory browsing on grtp.co | [Gratipay](../by-program/gratipay.md) | None | — | 4 |
-| 1033 | [416516](../reports/416516.md) | A 10GB file is reachable | [Chaturbate](../by-program/chaturbate.md) | None | — | 4 |
-| 1034 | [7888](../reports/7888.md) | Unexpected array leaks information about the system | [Localize](../by-program/localize.md) | None | — | 4 |
-| 1035 | [27651](../reports/27651.md) | Flash Local Sandbox Bypass | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
-| 1036 | [163599](../reports/163599.md) | Amazon Bucket Accessible (http://legalrobot.s3.amazonaws.com/) | [Legal Robot](../by-program/legalrobot.md) | None | — | 4 |
-| 1037 | [6371](../reports/6371.md) | Lighttpd version disclosure / directory listing | [Khan Academy](../by-program/khanacademy.md) | None | — | 4 |
-| 1038 | [152499](../reports/152499.md) | Information disclosure | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
-| 1039 | [6491](../reports/6491.md) | c2fo.com is releasing sensitive Information about Database Config | [C2FO](../by-program/c2fo.md) | None | — | 4 |
-| 1040 | [7930](../reports/7930.md) | Information Disclosure (Directory Structure) | [Localize](../by-program/localize.md) | None | — | 4 |
-| 1041 | [161459](../reports/161459.md) | Potentially vulnerable version of Apache software in and default  | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 4 |
-| 1042 | [80597](../reports/80597.md) | Number of invited researchers disclosed as part of JSON search re | [HackerOne](../by-program/security.md) | None | — | 4 |
-| 1043 | [125068](../reports/125068.md) | LIsting of  http://archive.uber.com/pypi/simple/ | [Uber](../by-program/uber.md) | None | — | 4 |
-| 1044 | [157986](../reports/157986.md) | Internal server error 500 at log.veris.in  | [Veris](../by-program/veris.md) | None | — | 4 |
-| 1045 | [15362](../reports/15362.md) | Flash Sandbox Bypass | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
-| 1046 | [156511](../reports/156511.md) | Incorrect logic in MySQL & MariaDB protocol leads to remote SSRF/ | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
-| 1047 | [146093](../reports/146093.md) | WordPress Vulnerabilities: User Enumeration, Vulnerable Akismet P | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
-| 1048 | [3973098](../reports/3973098.md) | 07: GnuTLS 0-RTT early data bypasses file-backed public-key pin v | [curl](../by-program/curl.md) | None | — | 4 |
-| 1049 | [145396](../reports/145396.md) | Enumeration of subscribed users and unauthenticated email unsubsc | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
-| 1050 | [3972385](../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | [curl](../by-program/curl.md) | None | — | 4 |
-| 1051 | [5688](../reports/5688.md) | User guessing/enumeration at  https://app.c2fo.com/api/password-r | [C2FO](../by-program/c2fo.md) | None | — | 4 |
-| 1052 | [123170](../reports/123170.md) | Email Address Leak | [HackerOne](../by-program/security.md) | None | — | 4 |
-| 1053 | [7972](../reports/7972.md) | Full Path Disclosure | [Localize](../by-program/localize.md) | None | — | 4 |
-| 1054 | [111643](../reports/111643.md) | Full access to Amazon S3 bucket containing AWS CloudTrail logs | [Shopify](../by-program/shopify.md) | None | — | 4 |
-| 1055 | [145495](../reports/145495.md) | nextcloud.com: Directory listening for 'wp-includes' forders | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
-| 1056 | [1065468](../reports/1065468.md) | ctf walkthrough | [h1-ctf](../by-program/h1-ctf.md) | None | — | 4 |
-| 1057 | [5691](../reports/5691.md) | Password reset token leakage through referrer at https://app.c2fo | [C2FO](../by-program/c2fo.md) | None | — | 4 |
-| 1058 | [180346](../reports/180346.md) | Nginx server version disclosure on engineeringblog | [Yelp](../by-program/yelp.md) | None | — | 4 |
-| 1059 | [3973127](../reports/3973127.md) | 18:  Explicit IPv6 proxy zone ID silently ignored — proxy credent | [curl](../by-program/curl.md) | None | — | 4 |
-| 1060 | [118965](../reports/118965.md) | Distinguish EP+Private vs Private programs in HackerOne | [HackerOne](../by-program/security.md) | None | — | 4 |
-| 1061 | [76733](../reports/76733.md) | Using GET method for account login with CSRF token leaking to ext | [Zaption](../by-program/zaption.md) | None | — | 4 |
-| 1062 | [149212](../reports/149212.md) | Full path + some back-end code disclosure | [ExpressionEngine](../by-program/expressionengine.md) | None | — | 3 |
-| 1063 | [17297](../reports/17297.md) | CMS Information Disclosure | [Uzbey](../by-program/uzbey.md) | None | — | 3 |
-| 1064 | [3432](../reports/3432.md) | RelateIQ GWT based application visible to unauthenticated users | [RelateIQ](../by-program/relateiq.md) | None | — | 3 |
-| 1065 | [21064](../reports/21064.md) | Back - Refresh - Attack To  Obtain User Credentials | [Phabricator](../by-program/phabricator.md) | None | — | 3 |
-| 1066 | [192577](../reports/192577.md) | Server side information disclosure | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | None | — | 3 |
-| 1067 | [15899](../reports/15899.md) | PHP PDOException and Full Path Disclosure | [Localize](../by-program/localize.md) | None | — | 3 |
-| 1068 | [145603](../reports/145603.md) | https://newsletter.nextcloud.com Directory listening and Informat | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
-| 1069 | [3803415](../reports/3803415.md) |  Secure cookies leaked to HTTP origins through HTTPS forwarding p | [curl](../by-program/curl.md) | None | — | 3 |
-| 1070 | [25537](../reports/25537.md) | external entity expansion in Apache POI  | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 3 |
-| 1071 | [9137](../reports/9137.md) | Full Path Disclosure | [Respondly](../by-program/respondly.md) | None | — | 3 |
-| 1072 | [47358](../reports/47358.md) | Username and sim id enum | [Mobile Vikings](../by-program/mobilevikings.md) | None | — | 3 |
-| 1073 | [13237](../reports/13237.md) | full path disclosure from false language | [Localize](../by-program/localize.md) | None | — | 3 |
-| 1074 | [7894](../reports/7894.md) | Full path disclosure | [Localize](../by-program/localize.md) | None | — | 3 |
-| 1075 | [14529](../reports/14529.md) | The web application https://mavenlink.com discloses version detai | [Mavenlink](../by-program/mavenlink.md) | None | — | 3 |
-| 1076 | [935573](../reports/935573.md) | JDBC credentials leaked via github | [Yelp](../by-program/yelp.md) | None | — | 3 |
-| 1077 | [5549](../reports/5549.md) | History Disclosure of MS-Dos | [MS-DOS](../by-program/msdos.md) | None | — | 3 |
-| 1078 | [207236](../reports/207236.md) | Potentially sensitive information disclosure on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | None | — | 3 |
-| 1079 | [7914](../reports/7914.md) | Server header - information disclosure  | [Localize](../by-program/localize.md) | None | — | 3 |
-| 1080 | [252544](../reports/252544.md) | Token leakage by referrer header & analytics | [Legal Robot](../by-program/legalrobot.md) | None | — | 3 |
-| 1081 | [6362](../reports/6362.md) | Full Path Disclosure on [smarthistory.khanacademy.org] | [Khan Academy](../by-program/khanacademy.md) | None | — | 3 |
-| 1082 | [294568](../reports/294568.md) | Information Disclosure - Composer.lock | [RBKmoney](../by-program/rbkmoney.md) | None | — | 3 |
-| 1083 | [8013](../reports/8013.md) | Full Path Disclosure (2) | [Localize](../by-program/localize.md) | None | — | 3 |
-| 1084 | [142940](../reports/142940.md) | Bug Report  | [drchrono](../by-program/drchrono.md) | None | — | 3 |
-| 1085 | [8091](../reports/8091.md) | Full Path Disclosure / Info Disclosure in Importing XML Section! | [Localize](../by-program/localize.md) | None | — | 3 |
-| 1086 | [138881](../reports/138881.md) | Phone Number Enumeration | [Uber](../by-program/uber.md) | None | — | 3 |
-| 1087 | [121919](../reports/121919.md) | Private, embeddable videos leaks data through Facebook & Open Gra | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
-| 1088 | [133375](../reports/133375.md) | Information Disclosure on lite.uber.com | [Uber](../by-program/uber.md) | None | — | 3 |
-| 1089 | [6475](../reports/6475.md) | https://concrete5.org ::: HeartBleed Attack (CVE-2014-0160) | [Concrete CMS](../by-program/concretecms.md) | None | — | 3 |
-| 1090 | [111999](../reports/111999.md) | Full Path Disclosure on gmchat.gm.com | [General Motors](../by-program/gm.md) | None | — | 3 |
-| 1091 | [1173411](../reports/1173411.md) | Nextcloud update checks leaks information | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
-| 1092 | [9256](../reports/9256.md) | Full Path Disclosure (FPD) in www.localize.im | [Localize](../by-program/localize.md) | None | — | 3 |
-| 1093 | [6376](../reports/6376.md) | User guessing/enumeration at sw.khanacademy.org | [Khan Academy](../by-program/khanacademy.md) | None | — | 3 |
-| 1094 | [8088](../reports/8088.md) | Full Path Disclosure (FPD) in www.localize.io | [Localize](../by-program/localize.md) | None | — | 3 |
-| 1095 | [5073](../reports/5073.md) | Information Disclosure That shows the webroot of CoinBase Server | [Coinbase](../by-program/coinbase.md) | None | — | 3 |
-| 1096 | [50537](../reports/50537.md) | Server Side Request Forgery in macro creation | [Phabricator](../by-program/phabricator.md) | None | — | 3 |
-| 1097 | [14803](../reports/14803.md) | Serving Transitions From: HTTP Protocol (not secure) | [Automattic](../by-program/automattic.md) | None | — | 2 |
-| 1098 | [146327](../reports/146327.md) | Server version disclosure: team.uberinternal.com | [Uber](../by-program/uber.md) | None | — | 2 |
-| 1099 | [149273](../reports/149273.md) | Filename and directory enumeration | [ExpressionEngine](../by-program/expressionengine.md) | None | — | 2 |
-| 1100 | [155578](../reports/155578.md) | User Enumeration and Information Disclosure | [Uber](../by-program/uber.md) | None | — | 2 |
-| 1101 | [109420](../reports/109420.md) | Requesting unknown file type returns Ruby object w/ address | [HackerOne](../by-program/security.md) | None | — | 2 |
-| 1102 | [153628](../reports/153628.md) | [Not just a server configuration issue] Full Path Disclosure  | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 2 |
-| 1103 | [139626](../reports/139626.md) | Passphrase credential lock bypass | [Phabricator](../by-program/phabricator.md) | None | — | 2 |
-| 1104 | [207435](../reports/207435.md) | Research papers on yelp  are getting indexed by google bots. | [Yelp](../by-program/yelp.md) | None | — | 2 |
-| 1105 | [128723](../reports/128723.md) | Enumerating userIDs with phone numbers | [Uber](../by-program/uber.md) | None | — | 2 |
-| 1106 | [146314](../reports/146314.md) | Deny access to download.nextcloud.com + folders | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
-| 1107 | [148890](../reports/148890.md) | Full path disclosure when CSRF validation failed  | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 2 |
-| 1108 | [129869](../reports/129869.md) | beta version reveals paths, environment variables and partially f | [APITest.IO](../by-program/apitest.md) | None | — | 2 |
-| 1109 | [61371](../reports/61371.md) | leak receipt of another user | [Udemy](../by-program/udemy.md) | None | — | 2 |
-| 1110 | [33153](../reports/33153.md) | Test | [Uzbey](../by-program/uzbey.md) | None | — | 2 |
-| 1111 | [126569](../reports/126569.md) | Disclosure of ip addresses in local network of uber | [Uber](../by-program/uber.md) | None | — | 2 |
-| 1112 | [148768](../reports/148768.md) | Nginx Version Disclosure On Forbidden Page | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 2 |
-| 1113 | [42780](../reports/42780.md) | Web Server information disclosure. | [Nearby Live](../by-program/nearby.md) | None | — | 2 |
-| 1114 | [123712](../reports/123712.md) | Insecure Direct 'org-invite-log' References | [Veris](../by-program/veris.md) | None | — | 2 |
-| 1115 | [223759](../reports/223759.md) | information disclose | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
-| 1116 | [9516](../reports/9516.md) | PHP and Wordpress version disclosure | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 2 |
-| 1117 | [152834](../reports/152834.md) | [gratipay.com] Cross Site Tracing | [Gratipay](../by-program/gratipay.md) | None | — | 2 |
-| 1118 | [272982](../reports/272982.md) | Information leakage on django.aspen.io | [Aspen](../by-program/aspen.md) | None | — | 2 |
-| 1119 | [31255](../reports/31255.md) | files likes of README.md is public | [Localize](../by-program/localize.md) | None | — | 2 |
-| 1120 | [20279](../reports/20279.md) | Verbose SQL error messages | [DigitalSellz](../by-program/digitalsellz.md) | None | — | 2 |
-| 1121 | [124578](../reports/124578.md) | Angular Expression Injection in the my.gmc.com Search Page | [General Motors](../by-program/gm.md) | None | — | 2 |
-| 1122 | [26395](../reports/26395.md) | Notification of previous signed out user leakage. | [HackerOne](../by-program/security.md) | None | — | 2 |
-| 1123 | [19363](../reports/19363.md) | PHP PDOException and Full Path Disclosure | [Localize](../by-program/localize.md) | None | — | 2 |
-| 1124 | [45243](../reports/45243.md) | Number, username and name disclosure | [Mobile Vikings](../by-program/mobilevikings.md) | None | — | 2 |
-| 1125 | [226212](../reports/226212.md) | directory information disclose | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 2 |
-| 1126 | [85201](../reports/85201.md) | Full Path Disclosure  | [ownCloud](../by-program/owncloud.md) | None | — | 2 |
-| 1127 | [150018](../reports/150018.md) | Full Path Disclosure by removing CSRF token | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 2 |
-| 1128 | [62778](../reports/62778.md) | Multiple sub domain are vulnerable because of leaking full path  | [Udemy](../by-program/udemy.md) | None | — | 2 |
-| 1129 | [128853](../reports/128853.md) | Information disclosure at lite.uber.com | [Uber](../by-program/uber.md) | None | — | 2 |
-| 1130 | [130453](../reports/130453.md) | Badoo and Hotornot User Disclosure | [Bumble](../by-program/bumble.md) | None | — | 2 |
-| 1131 | [83801](../reports/83801.md) | apps.owncloud.com: Path Disclosure | [ownCloud](../by-program/owncloud.md) | None | — | 2 |
-| 1132 | [7950](../reports/7950.md) | User credentials are sent in clear text | [Localize](../by-program/localize.md) | None | — | 2 |
-| 1133 | [12617](../reports/12617.md) | Account hijacking possible through ADB backup feature | [Faceless](../by-program/faceless.md) | None | — | 2 |
-| 1134 | [4931](../reports/4931.md) | CONCRETE5 - path disclosure. | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
-| 1135 | [11951](../reports/11951.md) | SSH Port Wide Open | [joola.io](../by-program/joola-io.md) | None | — | 2 |
-| 1136 | [4811](../reports/4811.md) | dashboard/pages/types [Unknown column 'Array' in 'where clause']  | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
-| 1137 | [275293](../reports/275293.md) | Pending member invitations are not revoked on program name change | [HackerOne](../by-program/security.md) | None | — | 2 |
-| 1138 | [115219](../reports/115219.md) | Information Disclosure in Error Page | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 2 |
-| 1139 | [117593](../reports/117593.md) | Apache version disclosed on developer.leaseweb.com | [LeaseWeb](../by-program/leaseweb.md) | None | — | 2 |
-| 1140 | [116692](../reports/116692.md) | PHP version disclosed on blog.algolia.com | [Algolia](../by-program/algolia.md) | None | — | 2 |
-| 1141 | [151302](../reports/151302.md) | don't leak Server version for assets.gratipay.com | [Gratipay](../by-program/gratipay.md) | None | — | 2 |
-| 1142 | [228471](../reports/228471.md) | DNSSEC Zone Walk using NSEC Records | [Weblate](../by-program/weblate.md) | None | — | 1 |
-| 1143 | [111386](../reports/111386.md) | Legacy API exposes private video titles | [Vimeo](../by-program/vimeo.md) | None | — | 1 |
-| 1144 | [88395](../reports/88395.md) | Information leakage through Graphviz blocks | [Phabricator](../by-program/phabricator.md) | None | — | 1 |
-| 1145 | [123501](../reports/123501.md) | Insecure Direct Member Disclosure | [Veris](../by-program/veris.md) | None | — | 1 |
-| 1146 | [127025](../reports/127025.md) | Brute Forcing rider-view Endpoint Allows for Counting Number of A | [Uber](../by-program/uber.md) | None | — | 1 |
-| 1147 | [1188998](../reports/1188998.md) |  Information disclosure on Sifchain | [Sifchain](../by-program/sifchain.md) | None | — | 1 |
-| 1148 | [1183809](../reports/1183809.md) | mongodb credentials leaked in github | [Sifchain](../by-program/sifchain.md) | None | — | 1 |
-| 1149 | [775123](../reports/775123.md) | Sensitive Information disclosure Through Config File | [Kubernetes](../by-program/kubernetes.md) | None | — | 1 |
-| 1150 | [138659](../reports/138659.md) | don't expose path of Python  | [Gratipay](../by-program/gratipay.md) | None | — | 1 |
-| 1151 | [85541](../reports/85541.md) | apps.owncloud.com: Mixed Active Scripting Issue  | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
-| 1152 | [143575](../reports/143575.md) | Full path disclosure | [Phabricator](../by-program/phabricator.md) | None | — | 1 |
-| 1153 | [774872](../reports/774872.md) | Configuartion [Sensitive] Information Disclosure | [Kubernetes](../by-program/kubernetes.md) | None | — | 1 |
-| 1154 | [123713](../reports/123713.md) | Insecure Direct 'org-visitor-log' References | [Veris](../by-program/veris.md) | None | — | 1 |
-| 1155 | [87505](../reports/87505.md) | Full Path Disclosure  | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
-| 1156 | [27166](../reports/27166.md) | Missing Rate Limiting on https://twitter.com/account/complete | [X / xAI](../by-program/x.md) | None | — | 1 |
-| 1157 | [78765](../reports/78765.md) | information disclosure | [Udemy](../by-program/udemy.md) | None | — | 1 |
-| 1158 | [19210](../reports/19210.md) | ClientId gives away platform (iOS/Android) from which a secret wa | [Secret](../by-program/secret.md) | None | — | 1 |
-| 1159 | [135782](../reports/135782.md) | information disclose   | [Moneybird](../by-program/moneybird.md) | None | — | 1 |
-| 1160 | [17311](../reports/17311.md) | Breach Attack Vulnerability | [Uzbey](../by-program/uzbey.md) | None | — | 1 |
-| 1161 | [128041](../reports/128041.md) | Getting Error Message and in use python version 2.7 is exposed. | [Gratipay](../by-program/gratipay.md) | None | — | 1 |
-| 1162 | [282843](../reports/282843.md) | UnResolved ChangeSet are Visible to Public That also Causes Infor | [WordPress](../by-program/wordpress.md) | None | — | 1 |
-| 1163 | [228156](../reports/228156.md) | https://www.legalrobot.com/ | [Legal Robot](../by-program/legalrobot.md) | None | — | 1 |
-| 1164 | [83856](../reports/83856.md) | s2.owncloud.com: SSL Session cookie without secure flag set | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
-| 1165 | [121382](../reports/121382.md) | doc.owncloud.org has missing PHP handler | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
-| 1166 | [149327](../reports/149327.md) | Web Server Disclosure | [CodeIgniter](../by-program/codeigniter.md) | None | — | 1 |
-| 1167 | [44371](../reports/44371.md) | Path disclosure in platform0.twitter.com | [X / xAI](../by-program/x.md) | None | — | 1 |
-| 1168 | [172609](../reports/172609.md) | Google Authenticator0.6 - PHP Version Dosclosure | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 1 |
-| 1169 | [13939](../reports/13939.md) | information disclosure | [Automattic](../by-program/automattic.md) | None | — | 1 |
-| 1170 | [90321](../reports/90321.md) | Apache documentation | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
-| 1171 | [117385](../reports/117385.md) | PHP and Web Server version disclosed on leasewebnoc.com | [LeaseWeb](../by-program/leaseweb.md) | None | — | 1 |
-| 1172 | [123194](../reports/123194.md) | Server and PHP version Disclosed in Response Header | [Veris](../by-program/veris.md) | None | — | 1 |
-| 1173 | [116057](../reports/116057.md) | file full path discloser. | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 1 |
-| 1174 | [168223](../reports/168223.md) | User Information sent to client through websockets | [Instacart](../by-program/instacart.md) | None | — | 1 |
-| 1175 | [115337](../reports/115337.md) | Full Path Disclosure | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 1 |
-| 1176 | [1196049](../reports/1196049.md) | Sifchain Privacy Policy Webpage Uses Wordpress Default Template.  | [Sifchain](../by-program/sifchain.md) | None | — | 1 |
-| 1177 | [908880](../reports/908880.md) | Private IP addresses Disclosure | [Kubernetes](../by-program/kubernetes.md) | None | — | 1 |
-| 1178 | [110655](../reports/110655.md) | Information Exposure Through Directory Listing | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
-| 1179 | [3777381](../reports/3777381.md) | PRE_PROXY change leaks stale Proxy Digest state across proxy-chai | [curl](../by-program/curl.md) | None | — | 1 |
-| 1180 | [134216](../reports/134216.md) | doc.owncloud.com: PHP info page disclosure  | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
-| 1181 | [115422](../reports/115422.md) | Full Path Disclosure in password lock | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 0 |
-| 1182 | [1195423](../reports/1195423.md) | Information Disclosure at one of your subdomain | [Sifchain](../by-program/sifchain.md) | None | — | 0 |
-| 1183 | [116621](../reports/116621.md) | server calendar and server status available to public | [Gratipay](../by-program/gratipay.md) | None | — | 0 |
-| 1184 | [24984](../reports/24984.md) | openssh-server Forced Command Handling Information Disclosure Vul | [Greenhouse.io](../by-program/greenhouse.md) | None | — | 0 |
-| 1185 | [463177](../reports/463177.md) | Information Disclosure PHPpgAdmin | [RATELIMITED](../by-program/ratelimited.md) | None | — | 0 |
-| 1186 | [119494](../reports/119494.md) | Full Path Disclosure In EasyDB | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 0 |
-| 1187 | [105149](../reports/105149.md) | directory listing in https://demo.owncloud.org/doc/ | [ownCloud](../by-program/owncloud.md) | None | — | 0 |
-| 1188 | [3973135](../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | [curl](../by-program/curl.md) | None | — | 0 |
-| 1189 | [216336](../reports/216336.md) | Source Code Disclosure | [Urban Dictionary](../by-program/urbandictionary.md) | None | — | 0 |
+| 383 | [4152553](../reports/4152553.md) | Unauthenticated Disclosure of Private, Draft, and Password-Protec | [WordPress](../by-program/wordpress.md) | High | — | 1 |
+| 384 | [861940](../reports/861940.md) | OAuth `redirect_uri` bypass using IDN homograph attack resulting  | [Semrush](../by-program/semrush.md) | Medium — CVSS 6.4 | — | 260 |
+| 385 | [2180521](../reports/2180521.md) | Google Docs link in JS files allows editing & reading survey info | [HackerOne](../by-program/security.md) | Medium — CVSS 6.5 | — | 215 |
+| 386 | [488269](../reports/488269.md) | Stealing Facebook OAuth Code Through Screenshot viewer | [Rockstar Games](../by-program/rockstargames.md) | Medium — CVSS 5.8 | — | 200 |
+| 387 | [871749](../reports/871749.md) | Unauthorized access to metadata of undisclosed reports that were  | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 187 |
+| 388 | [707433](../reports/707433.md) | Disclosure of `payment_transactions` for programs via GraphQL que | [HackerOne](../by-program/security.md) | Medium — CVSS 4.4 | — | 176 |
+| 389 | [258084](../reports/258084.md) | Access to all files of remote user through shared file | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 6.8 | — | 151 |
+| 390 | [221869](../reports/221869.md) | Email enumeration of users | [Homebrew](../by-program/homebrew.md) | Medium | — | 145 |
+| 391 | [196655](../reports/196655.md) | Disclose any user's private email through API | [HackerOne](../by-program/security.md) | Medium — CVSS 4.3 | — | 137 |
+| 392 | [629892](../reports/629892.md) | Lack of CSRF header validation at https://g-mail.grammarly.com/pr | [Superhuman (formerly Grammarly)](../by-program/superhuman.md) | Medium — CVSS 4.2 | — | 136 |
+| 393 | [685909](../reports/685909.md) | Searching from Hacktivity returns hits for words in limited discl | [HackerOne](../by-program/security.md) | Medium — CVSS 4.4 | — | 127 |
+| 394 | [1285115](../reports/1285115.md) | Leaked H1's Employees Email addresses,meeting info on private bug | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 118 |
+| 395 | [2828271](../reports/2828271.md) | Apache Airflow: Sensitive Information Exposure in DAG Run Logs | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 112 |
+| 396 | [2501036](../reports/2501036.md) | Access body and title of Internal Repo Issues in Projects | [GitHub](../by-program/github.md) | Medium | — | 99 |
+| 397 | [2122964](../reports/2122964.md) | [███████] Information disclosure due unauthenticated access to AP | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 97 |
+| 398 | [2310620](../reports/2310620.md) | New Hacktivity features:Bounty rewards leakage Where programs doe | [HackerOne](../by-program/security.md) | Medium — CVSS 4.4 | — | 95 |
+| 399 | [3279508](../reports/3279508.md) | Unauthorized Disclosure of Private Emails via WakaTime Private Le | [WakaTime](../by-program/wakatime.md) | Medium — CVSS 4.3 | — | 93 |
+| 400 | [738615](../reports/738615.md) | Vulnerability in (*www.yoti.com) - Leads to Leakage of admin user | [Yoti](../by-program/yoti.md) | Medium | — | 91 |
+| 401 | [2387297](../reports/2387297.md) | Bypass Email Verification on Add Email Monitoring | [Mozilla](../by-program/mozilla.md) | Medium | — | 91 |
+| 402 | [174404](../reports/174404.md) | private passenger information is exposed to the Uber Driver app d | [Uber](../by-program/uber.md) | Medium | — | 89 |
+| 403 | [2209429](../reports/2209429.md) | Using Branded Hashtag Feature User Partnered with Account Manager | [TikTok](../by-program/tiktok.md) | Medium | — | 86 |
+| 404 | [315256](../reports/315256.md) | ImageMagick GIF coder vulnerability leading to memory disclosure | [Valve](../by-program/valve.md) | Medium | — | 85 |
+| 405 | [645299](../reports/645299.md) | Private information exposed through GraphQL filters | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 81 |
+| 406 | [2524939](../reports/2524939.md) | [Spot Check] - Ability to disclose metadata about Spot Checks (Nu | [HackerOne](../by-program/security.md) | Medium — CVSS 4.3 | — | 79 |
+| 407 | [3210022](../reports/3210022.md) | PII Exposure via Email Confirmation Link – Email Embedded in Toke | [Omise](../by-program/omise.md) | Medium — CVSS 6.1 | — | 78 |
+| 408 | [1342422](../reports/1342422.md) | Subdomain Takeover due to ████████ NS records at us-east4.37signa | [Basecamp](../by-program/basecamp.md) | Medium — CVSS 6.1 | — | 77 |
+| 409 | [2045722](../reports/2045722.md) | inviting collaborator using email disclose the hackerone account  | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 77 |
+| 410 | [1785079](../reports/1785079.md) | # Drivers can access the customers phone number, current location | [inDrive](../by-program/indrive.md) | Medium | — | 76 |
+| 411 | [1276373](../reports/1276373.md) | Information disclosure -> 2fa bypass -> POST exploitation  | [Algolia](../by-program/algolia.md) | Medium | — | 75 |
+| 412 | [293299](../reports/293299.md) | Validation message in Bounty award endpoint can be used to determ | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 73 |
+| 413 | [924951](../reports/924951.md) | CORS misconfiguration leads to users information disclosure at ht | [LY Corporation](../by-program/line.md) | Medium — CVSS 5.7 | — | 72 |
+| 414 | [3003716](../reports/3003716.md) | User Email Disclosure via ID-Based Invitation | [WakaTime](../by-program/wakatime.md) | Medium | — | 72 |
+| 415 | [2322082](../reports/2322082.md) | Being able to disclose IBB bounty table of any public program | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 71 |
+| 416 | [1782467](../reports/1782467.md) | Disclosure of users' ip address whenever they view my fright offe | [inDrive](../by-program/indrive.md) | Medium | — | 71 |
+| 417 | [1424291](../reports/1424291.md) | Able to access private picture/video/writing when requesting for  | [FetLife](../by-program/fetlife.md) | Medium — CVSS 6.5 | — | 70 |
+| 418 | [2580982](../reports/2580982.md) | Private data related to program exposed via /reports/<id>.json en | [HackerOne](../by-program/security.md) | Medium — CVSS 4.3 | — | 68 |
+| 419 | [1452774](../reports/1452774.md) | Unauthenticated Sensitive Information Disclosure on █████████  CV | [Mars](../by-program/mars.md) | Medium — CVSS 4.6 | — | 67 |
+| 420 | [1132606](../reports/1132606.md) | Attachment object in GraphQL continues to grant access to files,  | [HackerOne](../by-program/security.md) | Medium — CVSS 5.3 | — | 66 |
+| 421 | [430854](../reports/430854.md) | Kaspersky Password Manager allows websites to access user's addre | [Kaspersky](../by-program/kaspersky.md) | Medium | — | 64 |
+| 422 | [269479](../reports/269479.md) | Report Private Links Leaks to Google Analytics via Query String P | [HackerOne](../by-program/security.md) | Medium | — | 59 |
+| 423 | [380317](../reports/380317.md) | Team object exposes amount of participants in a private program t | [HackerOne](../by-program/security.md) | Medium — CVSS 4.4 | — | 58 |
+| 424 | [2765259](../reports/2765259.md) | Information disclosure due to debug mode enabled at Laravel insta | [MTN Group](../by-program/mtn_group.md) | Medium — CVSS 5.3 | — | 58 |
+| 425 | [2788557](../reports/2788557.md) | Insecure API Response Leads to Disclosure of Hashed Passwords | [Mars](../by-program/mars.md) | Medium — CVSS 5.7 | — | 58 |
+| 426 | [1639011](../reports/1639011.md) | Api data leak | [Planet Labs](../by-program/planet-labs.md) | Medium | — | 57 |
+| 427 | [2053051](../reports/2053051.md) | Hackerone All Private Program Name Leaked to Public Via Collabora | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 56 |
+| 428 | [2201370](../reports/2201370.md) | Information disclosure via enabled Django Debug Mode  | [MTN Group](../by-program/mtn_group.md) | Medium — CVSS 6.1 | — | 55 |
+| 429 | [1278952](../reports/1278952.md) | Sensitive data exposure via /secure/███████ endpoint on ████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 55 |
+| 430 | [2213251](../reports/2213251.md) | New Search Feature: Search for non-public words in limited disclo | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 54 |
+| 431 | [1218754](../reports/1218754.md) | API key (api.semrush.com) leak in JS-file | [Semrush](../by-program/semrush.md) | Medium | — | 54 |
+| 432 | [540301](../reports/540301.md) | Wordpress VIP leaks email of the test a/c | [Automattic](../by-program/automattic.md) | Medium — CVSS 5.3 | — | 52 |
+| 433 | [327088](../reports/327088.md) | Extra program metrics disclosed via /PROGRAM_NAME json response | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 51 |
+| 434 | [2912277](../reports/2912277.md) | Hackers Attack Curl Vulnerability Accessing Sensitive Information | [curl](../by-program/curl.md) | Medium | — | 48 |
+| 435 | [3360293](../reports/3360293.md) | Publicly accessible `█████████` endpoint exposing internal user i | [Mars](../by-program/mars.md) | Medium — CVSS 4.6 | — | 47 |
+| 436 | [174721](../reports/174721.md) | View liked twits of private account via publish.twitter.com | [X / xAI](../by-program/x.md) | Medium | — | 47 |
+| 437 | [3443563](../reports/3443563.md) | Roundcube Webmail Style Sanitizer can be bypassed using CSS Chara | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 46 |
+| 438 | [1091303](../reports/1091303.md) | [h1-2102] [Yaworski's Broskis] Low privilege user can read POS PI | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.4 | — | 46 |
+| 439 | [1590237](../reports/1590237.md) | Unauthenticated Private Messages DIsclosure via wordpress Rest AP | [Automattic](../by-program/automattic.md) | Medium | — | 44 |
+| 440 | [2133308](../reports/2133308.md) | Password Reset Token Leak Via Referrer | [Liberapay](../by-program/liberapay.md) | Medium | — | 42 |
+| 441 | [800231](../reports/800231.md) | GraphQL node interface for ActiveResource models lacks encoding f | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 42 |
+| 442 | [425719](../reports/425719.md) | Disclosure of Github Issues | [Shopify](../by-program/shopify.md) | Medium — CVSS 6.1 | — | 41 |
+| 443 | [2997549](../reports/2997549.md) | CVE-2023-5561 on Payapps.com | [Autodesk](../by-program/autodesk.md) | Medium — CVSS 5.3 | — | 40 |
+| 444 | [2402842](../reports/2402842.md) | Information disclosure identified on IBM endpoint.  | [IBM](../by-program/ibm.md) | Medium — CVSS 6.7 | — | 39 |
+| 445 | [2828608](../reports/2828608.md) | Users Data Exposure via Insecure Endpoint | [Mars](../by-program/mars.md) | Medium — CVSS 5.7 | — | 39 |
+| 446 | [1391635](../reports/1391635.md) | Bypassing Cache Deception Armor using .avif extension file | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | Medium — CVSS 6.5 | — | 36 |
+| 447 | [1004412](../reports/1004412.md) | Possible LDAP username and password disclosed on Github | [Acronis](../by-program/acronis.md) | Medium | — | 36 |
+| 448 | [655288](../reports/655288.md) | Image Injection vulnerability on screenshot-viewer/responsive/ima | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 36 |
+| 449 | [1423704](../reports/1423704.md) | Able to detect if a user is FetLife supporter although this user  | [FetLife](../by-program/fetlife.md) | Medium — CVSS 4.3 | — | 34 |
+| 450 | [361951](../reports/361951.md) | Exploiting JSONP callback on /username/charts.json endpoint leads | [Liberapay](../by-program/liberapay.md) | Medium — CVSS 4.3 | — | 34 |
+| 451 | [318099](../reports/318099.md) | Registration enabled on ███grab.com | [Grab](../by-program/grab.md) | Medium | — | 32 |
+| 452 | [2104591](../reports/2104591.md) | Maintainer can leak sentry token by changing the configured URL ( | [GitLab](../by-program/gitlab.md) | Medium — CVSS 5.5 | — | 32 |
+| 453 | [402410](../reports/402410.md) | Расшифровка всех типов шифрованных ID | [Bumble](../by-program/bumble.md) | Medium | — | 32 |
+| 454 | [449680](../reports/449680.md) | Attacker can claim credentials for private program that has a pub | [HackerOne](../by-program/security.md) | Medium — CVSS 6.4 | — | 32 |
+| 455 | [1838329](../reports/1838329.md) | Private information exposed through GraphQL search endpoints aggr | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 32 |
+| 456 | [273726](../reports/273726.md) | Information / sensitive data disclosure on some endpoints | [WordPress](../by-program/wordpress.md) | Medium | — | 32 |
+| 457 | [1122177](../reports/1122177.md) | Third party app could steal access token as well as protected fil | [Reddit](../by-program/reddit.md) | Medium | — | 31 |
+| 458 | [780167](../reports/780167.md) | Hidden scheduled partner events are propagated to Steam clients i | [Valve](../by-program/valve.md) | Medium | — | 31 |
+| 459 | [289568](../reports/289568.md) | Program profile metrics endpoint contains mean time to triage, ev | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 29 |
+| 460 | [3680680](../reports/3680680.md) | libcurl omits IPv6 zoneid from host identity and leaks credential | [curl](../by-program/curl.md) | Medium | — | 29 |
+| 461 | [1330455](../reports/1330455.md) | DoD internal documents are leaked to the public | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 29 |
+| 462 | [972355](../reports/972355.md) | Able to leak private email of any user given his/her username via | [GitLab](../by-program/gitlab.md) | Medium | — | 29 |
+| 463 | [2580062](../reports/2580062.md) | NoSQL injection leaks visitor token and livechat messages | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 6.5 | — | 29 |
+| 464 | [2063636](../reports/2063636.md) | Twitter Subscriptions Information Disclosure | [X / xAI](../by-program/x.md) | Medium — CVSS 5.3 | — | 28 |
+| 465 | [397508](../reports/397508.md) | Web cache deception attack - expose token information | [Chaturbate](../by-program/chaturbate.md) | Medium — CVSS 6.5 | — | 28 |
+| 466 | [3066548](../reports/3066548.md) | ███████ - Publicly Accessible public_html Directory Exposing Word | [Mars](../by-program/mars.md) | Medium — CVSS 5.7 | — | 28 |
+| 467 | [1945417](../reports/1945417.md) | “See who’s interested in working for your company” - security iss | [LinkedIn](../by-program/linkedin.md) | Medium — CVSS 4.3 | — | 28 |
+| 468 | [2554079](../reports/2554079.md) | External storage - global credentials returned to the client side | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.6 | — | 28 |
+| 469 | [2828720](../reports/2828720.md) | Customer Data Exposure via Insecure Endpoint of coupon | [Mars](../by-program/mars.md) | Medium — CVSS 5.7 | — | 27 |
+| 470 | [293593](../reports/293593.md) | Able To Check The Exact Bounty Balance of any Bug Bounty Program | [HackerOne](../by-program/security.md) | Medium — CVSS 5.0 | — | 27 |
+| 471 | [1417635](../reports/1417635.md) | Default credentials lead to Spring Boot Admin dashboard access | [8x8](../by-program/8x8-bounty.md) | Medium | — | 27 |
+| 472 | [961757](../reports/961757.md) | Twitter Media Studio Source Information Disclosure With Analyst R | [X / xAI](../by-program/x.md) | Medium | — | 27 |
+| 473 | [1405673](../reports/1405673.md) | Sidekiq dashboard exposed at notary.shopifycloud.com | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.7 | — | 26 |
+| 474 | [1561377](../reports/1561377.md) | Django debug enabled showing information about system, database,  | [Glovo](../by-program/glovo.md) | Medium — CVSS 6.1 | — | 25 |
+| 475 | [1003980](../reports/1003980.md) | CVE-2020-14179 on https://jira.theendlessweb.com/secure/QueryComp | [Endless Group](../by-program/endless_group.md) | Medium | — | 25 |
+| 476 | [1331728](../reports/1331728.md) | Cards in Deck are readable by any user | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 25 |
+| 477 | [604945](../reports/604945.md) | Tor IP leak caused by the PDF Viewer extension in certain situati | [Brave Software](../by-program/brave.md) | Medium | — | 25 |
+| 478 | [290930](../reports/290930.md) | Information Disclosure when /invitations/<token>.json is not yet  | [HackerOne](../by-program/security.md) | Medium | — | 25 |
+| 479 | [3272982](../reports/3272982.md) | Vulnerability Report: Public Exposure of Security Audit File | [curl](../by-program/curl.md) | Medium | — | 24 |
+| 480 | [1038129](../reports/1038129.md) | assets/vendor.js file exposing sentry.io token and DNS and applic | [Omise](../by-program/omise.md) | Medium | — | 24 |
+| 481 | [853355](../reports/853355.md) | Unauthorized access to private project security dashboard | [GitLab](../by-program/gitlab.md) | Medium | — | 24 |
+| 482 | [423506](../reports/423506.md) | H1514 Extract information about other sites (new sites) through A | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.3 | — | 24 |
+| 483 | [407763](../reports/407763.md) | Unauthorized users may be able to view almost all informations re | [GitLab](../by-program/gitlab.md) | Medium — CVSS 4.6 | — | 24 |
+| 484 | [258460](../reports/258460.md) | [Quora Android] Possible to steal arbitrary files from mobile dev | [Quora](../by-program/quora.md) | Medium | — | 23 |
+| 485 | [723175](../reports/723175.md) | De-anonymization Attack: Cross Site Information Leakage | [Imgur](../by-program/imgur.md) | Medium | — | 23 |
+| 486 | [541020](../reports/541020.md) | GetGlobalAchievementPercentagesForApp is missing the same release | [Valve](../by-program/valve.md) | Medium — CVSS 6.8 | — | 22 |
+| 487 | [1824342](../reports/1824342.md) | Users querying dim_hacker_reports table through Analytics API can | [HackerOne](../by-program/security.md) | Medium — CVSS 6.1 | — | 21 |
+| 488 | [874778](../reports/874778.md) | CVE-2020-8169: Partial password leak over DNS on HTTP redirect | [curl](../by-program/curl.md) | Medium — CVSS 5.5 | — | 21 |
+| 489 | [268224](../reports/268224.md) | Information Disclosure | [Hiro](../by-program/hiro.md) | Medium | — | 21 |
+| 490 | [634312](../reports/634312.md) | HTML injection and information disclosure in support panel | [Weblate](../by-program/weblate.md) | Medium — CVSS 5.8 | — | 20 |
+| 491 | [3331764](../reports/3331764.md) | Confirmed Security Misconfigurations on curl.se (BREACH, Missing  | [curl](../by-program/curl.md) | Medium | — | 19 |
+| 492 | [1018608](../reports/1018608.md) | Information Disclosure of Advertiser Account on TikTok Ads Portal | [TikTok](../by-program/tiktok.md) | Medium — CVSS 4.3 | — | 19 |
+| 493 | [1641661](../reports/1641661.md) | LFI via Jolokia at https://█.█.█.█:1293 | [8x8](../by-program/8x8-bounty.md) | Medium — CVSS 5.8 | — | 19 |
+| 494 | [1337422](../reports/1337422.md) | Folder architecture and Filesizes of private file drop shares can | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 18 |
+| 495 | [201984](../reports/201984.md) | Wordpress directories/files visible to internet | [Ubiquiti Inc.](../by-program/ui.md) | Medium | — | 18 |
+| 496 | [1083922](../reports/1083922.md) | [h1-2102] Information disclosure - ShopifyPlus add user displays  | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.3 | — | 18 |
+| 497 | [299334](../reports/299334.md) | Information disclosure when trying to delete an expense's attachm | [Mavenlink](../by-program/mavenlink.md) | Medium | — | 17 |
+| 498 | [1063114](../reports/1063114.md) | Unread Messages can leak Message IDs | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 6.5 | — | 17 |
+| 499 | [2209665](../reports/2209665.md) | Secrets can be unmasked in the "Rendered Template" | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.5 | — | 17 |
+| 500 | [1172852](../reports/1172852.md) | PII of users can be downloaded from export pages | [WordPress](../by-program/wordpress.md) | Medium — CVSS 6.1 | — | 17 |
+| 501 | [1398905](../reports/1398905.md) | chainning bugs to get full disclosure of Users addresses  | [Glovo](../by-program/glovo.md) | Medium — CVSS 5.7 | — | 16 |
+| 502 | [349681](../reports/349681.md) | Aapp name leakage on economy history page | [Valve](../by-program/valve.md) | Medium — CVSS 5.0 | — | 16 |
+| 503 | [2108342](../reports/2108342.md) | Error when editing a calendar appointment returns stacktrace and  | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 16 |
+| 504 | [306733](../reports/306733.md) | Submitted reports state logs leakage | [HackerOne](../by-program/security.md) | Medium | — | 16 |
+| 505 | [963584](../reports/963584.md) | Registering with email [ +70 Chars ] Lead to Disclose some inform | [Dropcontact](../by-program/dropcontact.md) | Medium | — | 15 |
+| 506 | [1561299](../reports/1561299.md) | disclosure the live_analytics information of any livestream. | [TikTok](../by-program/tiktok.md) | Medium — CVSS 4.3 | — | 15 |
+| 507 | [804809](../reports/804809.md) | phpinfo() disclosure info | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 15 |
+| 508 | [194142](../reports/194142.md) | Legal Robot AWS S3 Bucket Directory Listing | [Legal Robot](../by-program/legalrobot.md) | Medium | — | 14 |
+| 509 | [1200583](../reports/1200583.md) | Exposed Prometheus instance at prometheus.qa.r3.com | [R3](../by-program/r3.md) | Medium — CVSS 5.3 | — | 14 |
+| 510 | [497655](../reports/497655.md) | Image Injection on www.rockstargames.com/screenshot-viewer/respon | [Rockstar Games](../by-program/rockstargames.md) | Medium — CVSS 6.8 | — | 14 |
+| 511 | [317201](../reports/317201.md) | [vulners.com] nginx alias_traversal | [vulners.com](../by-program/vulnerscom.md) | Medium | — | 14 |
+| 512 | [942481](../reports/942481.md) | Wordpress Users Disclosure (/wp-json/wp/v2/users/) on data.gov | [GSA Bounty](../by-program/gsa_bbp.md) | Medium | — | 14 |
+| 513 | [2231261](../reports/2231261.md) | Elasticsearch is currently open without authentication on  https: | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 14 |
+| 514 | [1073420](../reports/1073420.md) | IDOR at https://fast.trychameleon.com/observe/v2/profiles/ via ui | [Lab45](../by-program/lab45.md) | Medium — CVSS 6.5 | — | 13 |
+| 515 | [803922](../reports/803922.md) | Missing resource identifier encoding may lead to security vulnera | [Ruby on Rails](../by-program/rails.md) | Medium — CVSS 4.8 | — | 13 |
+| 516 | [184472](../reports/184472.md) | http://████/data.json  showing users sensitive information via  j | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 13 |
+| 517 | [174645](../reports/174645.md) | Existence of Folder path by guessing the path through response | [Files.com](../by-program/files.md) | Medium — CVSS 6.3 | — | 13 |
+| 518 | [184057](../reports/184057.md) | Read Application Name , Subscribers Count  | [Pushwoosh](../by-program/pushwoosh.md) | Medium | — | 13 |
+| 519 | [90805](../reports/90805.md) | change bank account numbers | [Gratipay](../by-program/gratipay.md) | Medium — CVSS 6.5 | — | 13 |
+| 520 | [186586](../reports/186586.md) | Access to Grafana Dashboard | [OWOX, Inc.](../by-program/owox.md) | Medium | — | 12 |
+| 521 | [1007702](../reports/1007702.md) | PII Leak of USCG Designated Examiner List at https://www.███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 12 |
+| 522 | [878434](../reports/878434.md) | vidyard api auth_token exposed | [8x8](../by-program/8x8-bounty.md) | Medium | — | 12 |
+| 523 | [1939272](../reports/1939272.md) | AEM misconfiguration leads to Information disclosure | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 12 |
+| 524 | [1351329](../reports/1351329.md) | firebase credentials leaks @ https://mpulse.mtnonline.com  | [MTN Group](../by-program/mtn_group.md) | Medium | — | 12 |
+| 525 | [3180396](../reports/3180396.md) | Failure to strip Proxy-Authorization header on change in origin | [curl](../by-program/curl.md) | Medium | — | 11 |
+| 526 | [1063371](../reports/1063371.md) | Sensitive Information Leaking Through DoD Owned Website https://w | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 11 |
+| 527 | [341372](../reports/341372.md) | The session token in the URL | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 11 |
+| 528 | [195058](../reports/195058.md) | Users can download old project exports due to unclaimed namespace | [GitLab](../by-program/gitlab.md) | Medium — CVSS 4.8 | — | 10 |
+| 529 | [962753](../reports/962753.md) | Elmah.axd is publicly accessible and leaking  Error Log for ROOT  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 10 |
+| 530 | [213942](../reports/213942.md) | Differential "Show Raw File" feature exposes generated files to u | [Phabricator](../by-program/phabricator.md) | Medium — CVSS 4.8 | — | 10 |
+| 531 | [1878756](../reports/1878756.md) | Email exploitation with web hosting services. | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 10 |
+| 532 | [1922736](../reports/1922736.md) | Limited Disclosure: Employee credentials checked in to github (fi | [Nutanix](../by-program/nutanix.md) | Medium — CVSS 5.3 | — | 10 |
+| 533 | [196878](../reports/196878.md) | bug reporting template encourages users to paste config file with | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 10 |
+| 534 | [1338781](../reports/1338781.md) | User files is disclosed when someone called while the screen is l | [Nextcloud](../by-program/nextcloud.md) | Medium | — | 9 |
+| 535 | [188149](../reports/188149.md) | Personal information disclosure on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 9 |
+| 536 | [460556](../reports/460556.md) | Banner Grabbing - Apache Server Version Disclousure | [RATELIMITED](../by-program/ratelimited.md) | Medium | — | 9 |
+| 537 | [244781](../reports/244781.md) | Users with member privilege are able to see emails and membership | [WakaTime](../by-program/wakatime.md) | Medium | — | 9 |
+| 538 | [659784](../reports/659784.md) | Image Injection on `/bully/anniversaryedition` may lead to FB's O | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 9 |
+| 539 | [1139340](../reports/1139340.md) | Elmah.axd is publicly accessible leaking Error Log | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 9 |
+| 540 | [3825141](../reports/3825141.md) | API token sent to URL dictated by an untrusted project .weblate f | [Weblate](../by-program/weblate.md) | Medium — CVSS 6.3 | — | 8 |
+| 541 | [1884372](../reports/1884372.md) | HAProxy stats panel exposed externally | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
+| 542 | [1057269](../reports/1057269.md) | PII Information Leak at https://████████.mil/ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
+| 543 | [378558](../reports/378558.md) | Information Leak - GitHub - Endpoint Configuration Details | [Uber](../by-program/uber.md) | Medium | — | 8 |
+| 544 | [1153817](../reports/1153817.md) | Sensitive data exposure via https://███████/jira//secure/QueryCom | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
+| 545 | [767066](../reports/767066.md) | Information Disclosure Microsoft IIS Server service.cnf in a mtn  | [MTN Group](../by-program/mtn_group.md) | Medium | — | 8 |
+| 546 | [222096](../reports/222096.md) | [bot.brew.sh] Full Path Disclosure | [Homebrew](../by-program/homebrew.md) | Medium — CVSS 5.3 | — | 8 |
+| 547 | [801437](../reports/801437.md) | Exposed .bash_history at http://21days2017.mtncameroon.net/.bash_ | [MTN Group](../by-program/mtn_group.md) | Medium | — | 8 |
+| 548 | [498358](../reports/498358.md) | Image Injection on /bully/anniversaryedition may lead to OAuth to | [Rockstar Games](../by-program/rockstargames.md) | Medium — CVSS 5.8 | — | 8 |
+| 549 | [204568](../reports/204568.md) | stack trace exposed on  https://receipts.uber.com/ | [Uber](../by-program/uber.md) | Medium | — | 8 |
+| 550 | [200079](../reports/200079.md) | Critical information disclosure at https://█████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
+| 551 | [222870](../reports/222870.md) | IRC-Bot exposes information | [Phabricator](../by-program/phabricator.md) | Medium | — | 7 |
+| 552 | [223948](../reports/223948.md) | Exposed ███████ Administrative Interface (ColdFusion 11) | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
+| 553 | [197976](../reports/197976.md) | Open FTP on ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
+| 554 | [491654](../reports/491654.md) | Image Injection vulnerability affecting www.rockstargames.com/car | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 7 |
+| 555 | [1176461](../reports/1176461.md) | CVE-2021-22898: TELNET stack contents disclosure | [curl](../by-program/curl.md) | Medium — CVSS 5.5 | — | 7 |
+| 556 | [1627962](../reports/1627962.md) | Unauthenticated PII leak on verified/requested to be verified pro | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 4.3 | — | 7 |
+| 557 | [213936](../reports/213936.md) | Token leakage by referrer | [Legal Robot](../by-program/legalrobot.md) | Medium | — | 7 |
+| 558 | [1265225](../reports/1265225.md) | Multiple server ssh usernames leaked in your github repository | [Ian Dunn](../by-program/iandunn-projects.md) | Medium | — | 7 |
+| 559 | [352623](../reports/352623.md) | Api token exposed in Reverb.com's public github repository | [Reverb.com](../by-program/reverb.md) | Medium | — | 7 |
+| 560 | [1147951](../reports/1147951.md) | CVE-2019-3403 on https://████/rest/api/2/user/picker?query= | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
+| 561 | [300539](../reports/300539.md) | SharePoint exposed web services | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
+| 562 | [1351326](../reports/1351326.md) | firebase credentials leaks @ ███████ | [MTN Group](../by-program/mtn_group.md) | Medium | — | 7 |
+| 563 | [880863](../reports/880863.md) | Todos are not redacted when membership changes - Access to (confi | [GitLab](../by-program/gitlab.md) | Medium | — | 7 |
+| 564 | [1074136](../reports/1074136.md) | Bypassed a fix to gain access to PII of more than 100 Officers | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
+| 565 | [345166](../reports/345166.md) | Session cookie missing SecureFlag on git.edoverflow.com. | [Ed](../by-program/ed.md) | Medium | — | 6 |
+| 566 | [176002](../reports/176002.md) | Information disclosure of user by email using buy widget | [Coinbase](../by-program/coinbase.md) | Medium | — | 6 |
+| 567 | [1050912](../reports/1050912.md) | PHP info page disclosure | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
+| 568 | [322988](../reports/322988.md) | Information disclosure through search engines (password reset tok | [Upserve ](../by-program/upserve.md) | Medium — CVSS 6.1 | — | 6 |
+| 569 | [506126](../reports/506126.md) | image injection /screenshot-viewer/responsive/image (ANOTHER FIX  | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 6 |
+| 570 | [1445810](../reports/1445810.md) | Mute User can disclose private channel members to unauthorized us | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 4.3 | — | 6 |
+| 571 | [710368](../reports/710368.md) | Publicly accessible .svn repository - aastraconf.packet8.net | [8x8](../by-program/8x8-bounty.md) | Medium | — | 6 |
+| 572 | [375091](../reports/375091.md) | Partial PII leakage due to public set gitlab | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
+| 573 | [3008481](../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to I | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
+| 574 | [1663363](../reports/1663363.md) | Wordpress Users Disclosure (/wp-json/wp/v2/users/)   | [Top Echelon Software](../by-program/top_echelon_software.md) | Medium | — | 6 |
+| 575 | [3291053](../reports/3291053.md) | exposed FOUO documents, including Passport information | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
+| 576 | [505259](../reports/505259.md) | Image injection on /screenshot-viewer/responsive/image ( FIX BYPA | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 6 |
+| 577 | [300540](../reports/300540.md) | SharePoint exposed web services | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
+| 578 | [481164](../reports/481164.md) | Monero can leak unitialized memory | [Monero](../by-program/monero.md) | Medium | — | 5 |
+| 579 | [1050196](../reports/1050196.md) | PII Leak of ████████ Personal at  https://www.█████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
+| 580 | [389078](../reports/389078.md) | [experience.uber.com] Node.js source code disclosure & anonymous  | [Uber](../by-program/uber.md) | Medium | — | 5 |
+| 581 | [221950](../reports/221950.md) | The special code in editor has no Authority control and can lead  | [Phabricator](../by-program/phabricator.md) | Medium | — | 5 |
+| 582 | [510388](../reports/510388.md) | Image injection /br/games/info may lead to phishing attacks or FB | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 5 |
+| 583 | [460928](../reports/460928.md) | Line feed injection in get request leads AWS S3 Bucket informatio | [RATELIMITED](../by-program/ratelimited.md) | Medium — CVSS 6.1 | — | 5 |
+| 584 | [204239](../reports/204239.md) | [informatica.com]- Information Disclosure  | [Informatica](../by-program/informatica.md) | Medium | — | 5 |
+| 585 | [237232](../reports/237232.md) | Unauthenticated 'display name' information leak on enumeration of | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.3 | — | 5 |
+| 586 | [707228](../reports/707228.md) | Internal IP Address Disclosed | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 5 |
+| 587 | [1121771](../reports/1121771.md) | Information Disclosure via ZIP file on AWS Bucket [http://acronis | [Acronis](../by-program/acronis.md) | Medium | — | 5 |
+| 588 | [210525](../reports/210525.md) | Information disclosure vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
+| 589 | [221734](../reports/221734.md) | Administrator(s) Information disclosure via JSON on wordpress.org | [WordPress](../by-program/wordpress.md) | Medium | — | 4 |
+| 590 | [847185](../reports/847185.md) | Members Personal Information Leak Due to IDOR | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
+| 591 | [846400](../reports/846400.md) | .git file accessible on remote.bittorrent.com | [BTFS](../by-program/btfs.md) | Medium | — | 4 |
+| 592 | [214570](../reports/214570.md) | Nginx Version Disclosure | [Airbnb](../by-program/airbnb.md) | Medium | — | 4 |
+| 593 | [775504](../reports/775504.md) | Exposed debug.log file leads to information disclosure | [MariaDB](../by-program/mariadb.md) | Medium | — | 4 |
+| 594 | [743643](../reports/743643.md) | Firewall rules for ████████ can be bypassed to leak site authors | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
+| 595 | [715740](../reports/715740.md) | [HTA2] Receiving████ access request on @wearehackerone.com email  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 4.3 | — | 3 |
+| 596 | [901775](../reports/901775.md) | Get analytics token using only apps permission | [Shopify](../by-program/shopify.md) | Medium | — | 3 |
+| 597 | [1436460](../reports/1436460.md) | CUI Labelled document out in the open | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
+| 598 | [1458020](../reports/1458020.md) | NoSQL-Injection discloses S3 File Upload URLs | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 6.5 | — | 3 |
+| 599 | [661646](../reports/661646.md) | Image Injection Vulnerability on /bully/screens | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 3 |
+| 600 | [462441](../reports/462441.md) | Retrieval and alteration of exposed media on Android Oreo  | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 5.9 | — | 3 |
+| 601 | [207321](../reports/207321.md) | Controlled address leak due to type confusion - ASLR bypass | [shopify-scripts](../by-program/shopify-scripts.md) | Medium | — | 3 |
+| 602 | [1050454](../reports/1050454.md) | Sensitive data exposure via https://███/secure/QueryComponent!Def | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
+| 603 | [1140631](../reports/1140631.md) | REST API gets `query` as parameter and executes it | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 6.5 | — | 3 |
+| 604 | [1067004](../reports/1067004.md) | Sensitive data exposure via https://███████/secure/QueryComponent | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
+| 605 | [238890](../reports/238890.md) | SAUCE Access_key and User_name leaked in Travis CI build logs | [Algolia](../by-program/algolia.md) | Medium | — | 3 |
+| 606 | [693788](../reports/693788.md) | [expressjs-ip-control] Whitelist IP bypass leads to authorization | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 2 |
+| 607 | [293126](../reports/293126.md) | Multiple issues in Libxml2 (2.9.2 - 2.9.5) | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.4 | — | 2 |
+| 608 | [1278977](../reports/1278977.md) | Sensitive data exposure via /secure/QueryComponent!Default.jspa e | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
+| 609 | [3738834](../reports/3738834.md) | Arbitrary `/tmp` read in  discourse via `convert_heif!` decoder-c | [Discourse](../by-program/discourse.md) | Medium | — | 2 |
+| 610 | [3750295](../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | [curl](../by-program/curl.md) | Medium | — | 2 |
+| 611 | [1336397](../reports/1336397.md) | Information disclosure at '████████' --- CVE-2020-14179 | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 2 |
+| 612 | [1406953](../reports/1406953.md) | Message ID Enumeration with Action Link Handler | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 4.3 | — | 2 |
+| 613 | [3686283](../reports/3686283.md) | View-only offline transaction creation bypasses the long-payment- | [Monero](../by-program/monero.md) | Medium — CVSS 5.4 | — | 2 |
+| 614 | [637800](../reports/637800.md) | Libcurl ocasionally sends HTTPS traffic to port 443 rather than s | [curl](../by-program/curl.md) | Medium — CVSS 5.3 | — | 2 |
+| 615 | [504122](../reports/504122.md) | Sensitive information disclosure | [8x8](../by-program/8x8-bounty.md) | Medium | — | 2 |
+| 616 | [1447440](../reports/1447440.md) | getRoomRoles Method leaks Channel Owner | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 5.3 | — | 2 |
+| 617 | [874401](../reports/874401.md) | Use of Ruby Forwardable module and runtime meta-programming may i | [GitLab](../by-program/gitlab.md) | Medium | — | 2 |
+| 618 | [1631471](../reports/1631471.md) | an internel important  paths  disclosure  [HtUS] | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 5.3 | — | 2 |
+| 619 | [1244403](../reports/1244403.md) | CUI labled and ████ and ██████  Restricted ██████ intelligence  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
+| 620 | [920401](../reports/920401.md) |  SharePoint Web Services Exposed to Anonymous Access | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
+| 621 | [4053546](../reports/4053546.md) | Information Disclosure - Unauthen Leak Private Content | [WordPress](../by-program/wordpress.md) | Medium | — | 1 |
+| 622 | [623588](../reports/623588.md) | Uninitialized read in gdImageCreateFromXbm | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.3 | — | 1 |
+| 623 | [3920629](../reports/3920629.md) | r2dbc-mariadb: server message accepted with no command in flight  | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 5.7 | — | 1 |
+| 624 | [1377105](../reports/1377105.md) | Message ID Enumeration with Regular Expression in getReadReceipts | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 4.3 | — | 1 |
+| 625 | [205360](../reports/205360.md) | Content-Injection/XSS ████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
+| 626 | [988550](../reports/988550.md) | Sensitive data exposure via https://████████.mil/secure/QueryComp | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 1 |
+| 627 | [3766065](../reports/3766065.md) | CURLOPT_COOKIE leaked to cross-origin redirect target — CURLOPT_U | [curl](../by-program/curl.md) | Medium | — | 0 |
+| 628 | [3719670](../reports/3719670.md) | `monero-wallet-rpc::rescan_spent` accepts daemon-supplied spent-s | [Monero](../by-program/monero.md) | Medium — CVSS 5.3 | — | 0 |
+| 629 | [773313](../reports/773313.md) | Port and service scanning on localhost due to improper URL valida | [curl](../by-program/curl.md) | Medium — CVSS 6.3 | — | 0 |
+| 630 | [1019457](../reports/1019457.md) | Data race conditions reported by helgrind when performing paralle | [curl](../by-program/curl.md) | Medium — CVSS 5.2 | — | 0 |
+| 631 | [1065041](../reports/1065041.md) | Google API key leaked to Public | [FetLife](../by-program/fetlife.md) | Low | — | 225 |
+| 632 | [269230](../reports/269230.md) | Emails of invited collaborators are disclosed in full in payload  | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | — | 111 |
+| 633 | [1365076](../reports/1365076.md) | Information Disclosure of metrics fax.wavecell.com/metrics | [8x8](../by-program/8x8-bounty.md) | Low | — | 90 |
+| 634 | [753725](../reports/753725.md) | Disclosure of User Information | [Nord Security](../by-program/nordsecurity.md) | Low | — | 88 |
+| 635 | [724944](../reports/724944.md) | latest_activity_id and latest_activity_at may disclose informatio | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | — | 79 |
+| 636 | [2828263](../reports/2828263.md) | Secrets not masked in UI when sensitive variables are set via Air | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 78 |
+| 637 | [511440](../reports/511440.md) |  credentials leakage in public lead to view dev websites  | [Eternal](../by-program/eternal.md) | Low | — | 77 |
+| 638 | [929361](../reports/929361.md) | Making program preference -> program visibilty feature usless and | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | — | 70 |
+| 639 | [310105](../reports/310105.md) | Disclosure of 152 cookie names via crafted input | [Automattic](../by-program/automattic.md) | Low | — | 65 |
+| 640 | [1129649](../reports/1129649.md) | Hackers can find out the ID of private programs | [HackerOne](../by-program/security.md) | Low — CVSS 2.6 | — | 64 |
+| 641 | [2610467](../reports/2610467.md) | Able to see location coordinates in any event without permission  | [FetLife](../by-program/fetlife.md) | Low | — | 62 |
+| 642 | [666722](../reports/666722.md) | Email enumeration at SignUp page | [Omise](../by-program/omise.md) | Low | — | 61 |
+| 643 | [370777](../reports/370777.md) | [affiliates.udemy.com] Wordpress user admin information discloure | [Udemy](../by-program/udemy.md) | Low | — | 60 |
+| 644 | [389600](../reports/389600.md) | TeamProfile exposes partially sensitive information through Graph | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | — | 60 |
+| 645 | [2615168](../reports/2615168.md) | Disclosure of git metadata and springboot actuator information | [Adobe](../by-program/adobe.md) | Low — CVSS 3.7 | — | 58 |
+| 646 | [331489](../reports/331489.md) | Extremly simple way to bypass Nextcloud-Client PIN/Fingerprint lo | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.1 | — | 58 |
+| 647 | [2228413](../reports/2228413.md) | Private program name disclosure in the invitation mail for anothe | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | — | 58 |
+| 648 | [632808](../reports/632808.md) | Information disclosure on sim.starbucks.com | [Starbucks](../by-program/starbucks.md) | Low | — | 58 |
+| 649 | [495497](../reports/495497.md) | Know whether private project name exists or not within a group us | [GitLab](../by-program/gitlab.md) | Low | — | 57 |
+| 650 | [3002345](../reports/3002345.md) | Exposing debug.log file leads to server full path disclosure | [Autodesk](../by-program/autodesk.md) | Low | — | 55 |
+| 651 | [1728087](../reports/1728087.md) | User Details Can Be Disclosed Even If The Account IS In Hibernati | [LinkedIn](../by-program/linkedin.md) | Low — CVSS 3.7 | — | 55 |
+| 652 | [640488](../reports/640488.md) | Total bounties paid amount is disclosed because of redesign of th | [HackerOne](../by-program/security.md) | Low | — | 50 |
+| 653 | [210238](../reports/210238.md) | full path disclosure on www.rockstargames.com via apache filename | [Rockstar Games](../by-program/rockstargames.md) | Low | — | 48 |
+| 654 | [1869613](../reports/1869613.md) | Attachment in published HackerOne report exposure private program | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | — | 48 |
+| 655 | [1886143](../reports/1886143.md) | information disclosure of another company bug on video. | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | — | 47 |
+| 656 | [1242680](../reports/1242680.md) | Report Duplicate Detector can match deleted and draft reports, ma | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | — | 46 |
+| 657 | [2737309](../reports/2737309.md) | Information disclosure on password cancel endpoint  | [Mozilla](../by-program/mozilla.md) | Low — CVSS 3.5 | — | 45 |
+| 658 | [486837](../reports/486837.md) | Users able to set video url for unpublished words and able to see | [Urban Dictionary](../by-program/urbandictionary.md) | Low | — | 44 |
+| 659 | [397031](../reports/397031.md) | Disclosure of top 10 vulnerability types for programs that haven' | [HackerOne](../by-program/security.md) | Low | — | 40 |
+| 660 | [3063026](../reports/3063026.md) | debug.log leaked [█████████] | [Mars](../by-program/mars.md) | Low | — | 39 |
+| 661 | [367050](../reports/367050.md) | PHPinfo page | [Starbucks](../by-program/starbucks.md) | Low | — | 39 |
+| 662 | [669776](../reports/669776.md) | Disclosure of Program email Title Report when being removed as co | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | — | 39 |
+| 663 | [966814](../reports/966814.md) | Slack-Corp Heroku application disclosing limited info about compa | [Slack](../by-program/slack.md) | Low — CVSS 3.7 | — | 39 |
+| 664 | [3382796](../reports/3382796.md) | Responsible disclosure - public S3 bucket exposing JSON/config fi | [AWS VDP](../by-program/aws_vdp.md) | Low | — | 36 |
+| 665 | [301526](../reports/301526.md) | Invitation token leaks to https://bat.bing.com | [HackerOne](../by-program/security.md) | Low — CVSS 2.7 | — | 36 |
+| 666 | [645264](../reports/645264.md) | Program Email Nofication settings ignored when being added as an  | [HackerOne](../by-program/security.md) | Low — CVSS 3.4 | — | 33 |
+| 667 | [2829063](../reports/2829063.md) | CVE-2024-11053: netrc + redirect credential leak | [curl](../by-program/curl.md) | Low | — | 33 |
+| 668 | [348168](../reports/348168.md) | Timing attack towards endpoints on the web without CSRF  | [HackerOne](../by-program/security.md) | Low — CVSS 2.9 | — | 33 |
+| 669 | [981796](../reports/981796.md) | Information Disclosure of Garbage Collection Cycle | [Basecamp](../by-program/basecamp.md) | Low | — | 33 |
+| 670 | [395518](../reports/395518.md) | Internal usage of AdBlockPlus may expose PoC URLs to unknown thir | [HackerOne](../by-program/security.md) | Low — CVSS 3.5 | — | 32 |
+| 671 | [1130235](../reports/1130235.md) | Hackers can reveal the names of private programs that have an ext | [HackerOne](../by-program/security.md) | Low — CVSS 2.6 | — | 32 |
+| 672 | [237262](../reports/237262.md) | Invitation tokens leak to Google Analytics | [HackerOne](../by-program/security.md) | Low — CVSS 3.1 | — | 32 |
+| 673 | [174632](../reports/174632.md) | Information disclosure in mmap module - python 2.7.12 | [Internet Bug Bounty](../by-program/ibb.md) | Low — CVSS 3.7 | — | 31 |
+| 674 | [1023572](../reports/1023572.md) | [acronis.secure.force.com] - Insecure Salesforce default/custom o | [Acronis](../by-program/acronis.md) | Low | — | 31 |
+| 675 | [1264725](../reports/1264725.md) | Information disclosure - Feedback is accessible on Public profile | [HackerOne](../by-program/security.md) | Low | — | 30 |
+| 676 | [1040166](../reports/1040166.md) | CVE-2020-8284: trusting FTP PASV responses | [curl](../by-program/curl.md) | Low | — | 30 |
+| 677 | [221328](../reports/221328.md) | HTTP 401 response injection on "amp.twimg.com/amplify-web-player/ | [X / xAI](../by-program/x.md) | Low | — | 30 |
+| 678 | [2053396](../reports/2053396.md) | Possibility of Deface through translation tool - www.mozilla.com | [Mozilla](../by-program/mozilla.md) | Low | — | 30 |
+| 679 | [252580](../reports/252580.md) | Scrollbar Width permits detecting browser platform | [Tor](../by-program/torproject.md) | Low | — | 29 |
+| 680 | [2376900](../reports/2376900.md) | Attachments folder for Text app is accessible on Files Drop/Passw | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.6 | — | 29 |
+| 681 | [488643](../reports/488643.md) | Disclosure of h1 challenges name through the calendar | [HackerOne](../by-program/security.md) | Low — CVSS 3.8 | — | 29 |
+| 682 | [269831](../reports/269831.md) | Keys | [Kaspersky](../by-program/kaspersky.md) | Low | — | 29 |
+| 683 | [2376909](../reports/2376909.md) | Possible to enumerate valid files in password protected shares/fi | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.6 | — | 29 |
+| 684 | [268221](../reports/268221.md) | No Confirmation Email For Email Change | [Hiro](../by-program/hiro.md) | Low | — | 28 |
+| 685 | [3027405](../reports/3027405.md) | Information Disclosure in API Endpoint /users | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 27 |
+| 686 | [1070081](../reports/1070081.md) | information disclosure lead to disclose users private notes | [Automattic](../by-program/automattic.md) | Low | — | 27 |
+| 687 | [2097377](../reports/2097377.md) | Information Disclosure - Pvt Gitlab Issue Disclosing Through GitL | [GitLab](../by-program/gitlab.md) | Low | — | 26 |
+| 688 | [1626281](../reports/1626281.md) | Password reset tokens sent to CSP reporting endpoints | [Snapchat](../by-program/snapchat.md) | Low | — | 26 |
+| 689 | [376004](../reports/376004.md) | Potential IP revealing using UNC Path in Windows File Picker | [Tor](../by-program/torproject.md) | Low | — | 25 |
+| 690 | [270993](../reports/270993.md) | resolved bugs in a program are public despite the program setting | [HackerOne](../by-program/security.md) | Low | — | 25 |
+| 691 | [1607940](../reports/1607940.md) | CVE-2019-11248 on http://█.█.█.█:9100/debug/pprof/goroutine | [8x8](../by-program/8x8-bounty.md) | Low | — | 24 |
+| 692 | [493484](../reports/493484.md) | report id is exposed for undisclosed reports in Hacktivity | [HackerOne](../by-program/security.md) | Low | — | 24 |
+| 693 | [1992261](../reports/1992261.md) | Flickr API key leaked in GitHub commit | [Mozilla](../by-program/mozilla.md) | Low — CVSS 3.7 | — | 24 |
+| 694 | [477222](../reports/477222.md) | Last build status and coverage leaked to unauthorized users | [GitLab](../by-program/gitlab.md) | Low | — | 24 |
+| 695 | [1762764](../reports/1762764.md) | Sensitive information for phpinfo.php at https://products.ean.com | [Expedia Group Bug Bounty](../by-program/expediagroup_bbp.md) | Low — CVSS 3.7 | — | 23 |
+| 696 | [315906](../reports/315906.md) | CVE-2017-15277 on Profile page | [X / xAI](../by-program/x.md) | Low | — | 23 |
+| 697 | [650085](../reports/650085.md) | Stored credentials instantly autofilled within sandboxed iframes | [Kaspersky](../by-program/kaspersky.md) | Low | — | 23 |
+| 698 | [262649](../reports/262649.md) | Information disclosure (system username) in the x-amz-meta-s3cmd- | [GSA Bounty](../by-program/gsa_bbp.md) | Low | — | 23 |
+| 699 | [374907](../reports/374907.md) | Root user disclosure in data.gov domain though x-amz-meta-s3cmd-a | [GSA Bounty](../by-program/gsa_bbp.md) | Low | — | 22 |
+| 700 | [1989901](../reports/1989901.md) | If rate limit is hit, IP address is leaked to anyone who tries to | [Mozilla](../by-program/mozilla.md) | Low — CVSS 3.7 | — | 22 |
+| 701 | [214028](../reports/214028.md) | Race condition in GitLab import, giving access to other people th | [GitLab](../by-program/gitlab.md) | Low — CVSS 3.7 | — | 22 |
+| 702 | [826176](../reports/826176.md) | program_analytics_benchmarks query shows information not visible  | [HackerOne](../by-program/security.md) | Low | — | 22 |
+| 703 | [686805](../reports/686805.md) | .git file accessible | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | Low | — | 20 |
+| 704 | [1082774](../reports/1082774.md) | phpinfo() on graph.rockstargames.com exposes sensitive informatio | [Rockstar Games](../by-program/rockstargames.md) | Low | — | 20 |
+| 705 | [1118898](../reports/1118898.md) | PHP info page disclosure | [U.S. General Services Administration](../by-program/gsa_vdp.md) | Low — CVSS 3.7 | — | 19 |
+| 706 | [463123](../reports/463123.md) | Exposure of tinyMCE js source code with plugin version disclosure | [RATELIMITED](../by-program/ratelimited.md) | Low | — | 18 |
+| 707 | [3595764](../reports/3595764.md) | CURLOPT_UNRESTRICTED_AUTH Dangerous Default Documentation Gap | [curl](../by-program/curl.md) | Low | — | 18 |
+| 708 | [2352957](../reports/2352957.md) | Proxy-Authorization header is not cleared in cross-domain redirec | [Node.js](../by-program/nodejs.md) | Low | — | 18 |
+| 709 | [166661](../reports/166661.md) | Arbitrary heap overread in strscan on 32 bit Ruby, patch included | [Ruby](../by-program/ruby.md) | Low | — | 17 |
+| 710 | [225537](../reports/225537.md) | Node modules path disclosure due to lack of error handling | [Mapbox](../by-program/mapbox.md) | Low | — | 17 |
+| 711 | [633001](../reports/633001.md) | Private System Note Disclosure using GraphQL | [GitLab](../by-program/gitlab.md) | Low | — | 17 |
+| 712 | [837733](../reports/837733.md) | Leaking Of Sensitive Information on Github | [Liberapay](../by-program/liberapay.md) | Low | — | 17 |
+| 713 | [1256371](../reports/1256371.md) | PII data Leakage through hackerone reports  | [HackerOne](../by-program/security.md) | Low — CVSS 2.7 | — | 16 |
+| 714 | [364910](../reports/364910.md) | Disclosure of information about the system, configuration files. | [Smule](../by-program/smule.md) | Low | — | 16 |
+| 715 | [1127455](../reports/1127455.md) | Hackers can reveal the names of private programs that have an ext | [HackerOne](../by-program/security.md) | Low — CVSS 2.6 | — | 16 |
+| 716 | [812351](../reports/812351.md) | Username Information Disclosure via Json response - Using paramet | [Brave Software](../by-program/brave.md) | Low | — | 16 |
+| 717 | [805699](../reports/805699.md) | Minimal information disclosure of internal asset names and links  | [Starbucks](../by-program/starbucks.md) | Low | — | 15 |
+| 718 | [1767439](../reports/1767439.md) | Exposed Log File Lead to Full Internal path disclosure at [https: | [Nextcloud](../by-program/nextcloud.md) | Low | — | 15 |
+| 719 | [1358249](../reports/1358249.md) | php info file and sql backup at vendor's subdomain | [Semrush](../by-program/semrush.md) | Low | — | 14 |
+| 720 | [3480841](../reports/3480841.md) | Permission Model Bypass in realpathSync.native Allows File Existe | [Node.js](../by-program/nodejs.md) | Low — CVSS 3.3 | — | 14 |
+| 721 | [696360](../reports/696360.md) | Exposing debug.log file leads to server full path disclosure | [Nextcloud](../by-program/nextcloud.md) | Low | — | 14 |
+| 722 | [179217](../reports/179217.md) | server version dislosure | [Blockchain](../by-program/blockchain.md) | Low | — | 14 |
+| 723 | [174449](../reports/174449.md) | Researcher gets email updates on a private program after he/she q | [HackerOne](../by-program/security.md) | Low — CVSS 3.5 | — | 14 |
+| 724 | [202361](../reports/202361.md) | Requestor Email Disclosure via Email Notification | [Coinbase](../by-program/coinbase.md) | Low | — | 13 |
+| 725 | [1822665](../reports/1822665.md) | Impact of Using the PHP Function "phpinfo()" on System Security - | [U.S. Department of State](../by-program/us-department-of-state.md) | Low — CVSS 3.7 | — | 13 |
+| 726 | [605608](../reports/605608.md) | [information disclosure] Validate existence of a private project. | [GitLab](../by-program/gitlab.md) | Low | — | 13 |
+| 727 | [183925](../reports/183925.md) | Unrestricted File Download / Path Traversal | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 13 |
+| 728 | [210572](../reports/210572.md) | Full path Disclosure in Rockstargames.com██████████  | [Rockstar Games](../by-program/rockstargames.md) | Low | — | 13 |
+| 729 | [271176](../reports/271176.md) | Bypassing one-time checkout router page (revealing payment inform | [Lyst](../by-program/lyst.md) | Low | — | 12 |
+| 730 | [3346375](../reports/3346375.md) | Publicly Accessible CDN Endpoint Exposing XML Metadata (including | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 12 |
+| 731 | [172296](../reports/172296.md) | Information Disclosure on rate limit defense mechanism | [Legal Robot](../by-program/legalrobot.md) | Low | — | 12 |
+| 732 | [1157893](../reports/1157893.md) | PHP-FPM status page disclosure | [Algolia](../by-program/algolia.md) | Low | — | 12 |
+| 733 | [1089116](../reports/1089116.md) | Hi! Security Team Rocket.Chat, It's possible to get information a | [Rocket.Chat](../by-program/rocket_chat.md) | Low | — | 12 |
+| 734 | [246780](../reports/246780.md) | Using an outdated version of OpenSSH on db01.wakatime.com | [WakaTime](../by-program/wakatime.md) | Low | — | 11 |
+| 735 | [411822](../reports/411822.md) | Password protected rooms total number of viewers disclosure to un | [Chaturbate](../by-program/chaturbate.md) | Low | — | 11 |
+| 736 | [271700](../reports/271700.md) | Leak IP internal | [Rockstar Games](../by-program/rockstargames.md) | Low | — | 11 |
+| 737 | [708076](../reports/708076.md) | Full Path disclosure on 500 error | [Liberapay](../by-program/liberapay.md) | Low | — | 11 |
+| 738 | [948876](../reports/948876.md) | CVE-2020-8231: Connect-only connections can use the wrong connect | [curl](../by-program/curl.md) | Low | — | 11 |
+| 739 | [191179](../reports/191179.md) | http://digital.starbucks.com/ Creation of Google G Suite Account  | [Starbucks](../by-program/starbucks.md) | Low | — | 11 |
+| 740 | [183245](../reports/183245.md) | Nginx version disclosure via response header | [Pushwoosh](../by-program/pushwoosh.md) | Low | — | 11 |
+| 741 | [1249050](../reports/1249050.md) | Information Disclosure on TikTok Unplugged Site | [TikTok](../by-program/tiktok.md) | Low — CVSS 3.7 | — | 11 |
+| 742 | [1132457](../reports/1132457.md) | Exposed PHP dependencies at ██.8x8.com | [8x8](../by-program/8x8-bounty.md) | Low | — | 10 |
+| 743 | [197786](../reports/197786.md) | User Information Disclosure via REST API | [ownCloud](../by-program/owncloud.md) | Low | — | 10 |
+| 744 | [256647](../reports/256647.md) | Simple CSS line-height identifies platform | [Tor](../by-program/torproject.md) | Low | — | 10 |
+| 745 | [253448](../reports/253448.md) | [Cross-domain Referer leakage] Password reset token leakage via r | [Legal Robot](../by-program/legalrobot.md) | Low | — | 10 |
+| 746 | [367581](../reports/367581.md) | Basic auth details is still work on report ( 351555 )  | [Reverb.com](../by-program/reverb.md) | Low | — | 10 |
+| 747 | [727870](../reports/727870.md) | [www.yoti.com] Wordpress user admin information discloure | [Yoti](../by-program/yoti.md) | Low | — | 10 |
+| 748 | [177484](../reports/177484.md) | Information disclosure via policy update notifications after remo | [HackerOne](../by-program/security.md) | Low — CVSS 3.5 | — | 9 |
+| 749 | [146436](../reports/146436.md) | [product360.informatica.com] Unauthenticated Apache Tomcat 8 Inst | [Informatica](../by-program/informatica.md) | Low | — | 9 |
+| 750 | [246055](../reports/246055.md) | Public calendar link can be invisible | [Mixmax](../by-program/mixmax.md) | Low | — | 9 |
+| 751 | [663729](../reports/663729.md) | [Brave browser] WebTorrent has DNS rebinding vulnerability | [Brave Software](../by-program/brave.md) | Low | — | 9 |
+| 752 | [1145454](../reports/1145454.md) | lib/net/ftp.rb: trusting PASV responses allow client abuse | [Ruby](../by-program/ruby.md) | Low — CVSS 3.7 | — | 9 |
+| 753 | [182017](../reports/182017.md) | htaccess file is accesible | [Pushwoosh](../by-program/pushwoosh.md) | Low | — | 9 |
+| 754 | [1211094](../reports/1211094.md) | F5 BIG-IP Cookie  potentially reveal BigIP pool name, backend's I | [Informatica](../by-program/informatica.md) | Low | — | 9 |
+| 755 | [187460](../reports/187460.md) | Files Drop: WebDAV endpoint is leaking existence of resources | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.7 | — | 9 |
+| 756 | [182046](../reports/182046.md) | Nginx server version disclosure | [Pushwoosh](../by-program/pushwoosh.md) | Low | — | 9 |
+| 757 | [1595299](../reports/1595299.md) | Read beyond bounds via ap_rwrite() [zhbug_httpd_47.2] | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 9 |
+| 758 | [541760](../reports/541760.md) | Blockstack Browser For Mac leaks "Core API Password" to 3rd parti | [Hiro](../by-program/hiro.md) | Low | — | 8 |
+| 759 | [311380](../reports/311380.md) | See details of a unpublished word by guessing the word ID | [Urban Dictionary](../by-program/urbandictionary.md) | Low | — | 8 |
+| 760 | [350432](../reports/350432.md) | Information disclosure | [HackerOne](../by-program/security.md) | Low — CVSS 2.9 | — | 8 |
+| 761 | [1643962](../reports/1643962.md) | Path paths and file disclosure vulnerabilities at influxdb.qualit | [GitLab](../by-program/gitlab.md) | Low | — | 8 |
+| 762 | [325594](../reports/325594.md) | Leakage badges on disabled user | [HackerOne](../by-program/security.md) | Low | — | 8 |
+| 763 | [175320](../reports/175320.md) | 2 Directory Listing on ledger.brave.com & vault-staging.brave.com | [Brave Software](../by-program/brave.md) | Low | — | 7 |
+| 764 | [174882](../reports/174882.md) | Requesting Show CheckIn Alert for Non Friend User | [Yelp](../by-program/yelp.md) | Low | — | 7 |
+| 765 | [173972](../reports/173972.md) | web.xml configuration file disclosure | [ok.ru](../by-program/ok.md) | Low | — | 7 |
+| 766 | [476615](../reports/476615.md) | Private/confidential setting of calendar events is ignored on act | [Nextcloud](../by-program/nextcloud.md) | Low | — | 7 |
+| 767 | [184076](../reports/184076.md) | Information disclosure on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 7 |
+| 768 | [229620](../reports/229620.md) | Information Disclosure on demo.weblate.org | [Weblate](../by-program/weblate.md) | Low | — | 7 |
+| 769 | [189414](../reports/189414.md) | Information disclosure on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 7 |
+| 770 | [947637](../reports/947637.md) | Ngnix Server version disclosure. | [Dropcontact](../by-program/dropcontact.md) | Low | — | 6 |
+| 771 | [1246721](../reports/1246721.md) | Text app leaks file path of shared files | [Nextcloud](../by-program/nextcloud.md) | Low | — | 6 |
+| 772 | [1354334](../reports/1354334.md) | Error in Deleting Deck cards attachment reveals the full path of  | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 6 |
+| 773 | [188132](../reports/188132.md) | Wordpress Version Disclosure Bug On Nextcloud | [Nextcloud](../by-program/nextcloud.md) | Low | — | 6 |
+| 774 | [994612](../reports/994612.md) | jira discloser information  | [Informatica](../by-program/informatica.md) | Low | — | 6 |
+| 775 | [1408589](../reports/1408589.md) | Wordpress users disclosure from json and xml file | [MTN Group](../by-program/mtn_group.md) | Low — CVSS 3.7 | — | 6 |
+| 776 | [907701](../reports/907701.md) | PHPinfo page on  http://█████.callstats.io | [8x8](../by-program/8x8-bounty.md) | Low | — | 6 |
+| 777 | [186326](../reports/186326.md) | Arbitary file download vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 6 |
+| 778 | [1586524](../reports/1586524.md) | installed.json sensitive file was publicly accessible on your web | [Yelp](../by-program/yelp.md) | Low | — | 6 |
+| 779 | [1595281](../reports/1595281.md) | Read beyond bounds in ap_strcmp_match() [zhbug_httpd_47.7] | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
+| 780 | [197055](../reports/197055.md) | Information disclosure vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 5 |
+| 781 | [196482](../reports/196482.md) | Information disclosure vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 5 |
+| 782 | [195638](../reports/195638.md) | Information disclosure vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 5 |
+| 783 | [667032](../reports/667032.md) | Information disclosure (system username, server info) in the x-am | [GSA Bounty](../by-program/gsa_bbp.md) | Low | — | 5 |
+| 784 | [223421](../reports/223421.md) | Open port leads to information disclosure | [Weblate](../by-program/weblate.md) | Low | — | 5 |
+| 785 | [280509](../reports/280509.md) | User Enumeration | [Infogram](../by-program/infogram.md) | Low | — | 5 |
+| 786 | [1351359](../reports/1351359.md) | Exposed gitlab repo at https://adammanco.mtn.com/api/v4/projects | [MTN Group](../by-program/mtn_group.md) | Low | — | 5 |
+| 787 | [826005](../reports/826005.md) | Private account causes displayed through API | [Staging.every.org](../by-program/stagingdoteverydotorg.md) | Low | — | 5 |
+| 788 | [684701](../reports/684701.md) | Wordpress users disclosure on blog.makerdao.con | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | Low | — | 5 |
+| 789 | [1595290](../reports/1595290.md) | Controllable read beyond bounds in lua_websocket_readbytes() [zhb | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
+| 790 | [636560](../reports/636560.md) | Project Milestones Disclosed Via Groups When the Victim disabled  | [GitLab](../by-program/gitlab.md) | Low | — | 4 |
+| 791 | [838685](../reports/838685.md) | Use of uninitialized value in ftp_getrc_msg method of mod_proxy_f | [Internet Bug Bounty](../by-program/ibb.md) | Low — CVSS 3.7 | — | 4 |
+| 792 | [191830](../reports/191830.md) | Server side information disclosure on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
+| 793 | [195836](../reports/195836.md) | Information disclosure vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 4 |
+| 794 | [1575401](../reports/1575401.md) | xmlrpc file enabled | [Yelp](../by-program/yelp.md) | Low | — | 4 |
+| 795 | [311449](../reports/311449.md) | Reputation gain split by company can be used to track the existen | [HackerOne](../by-program/security.md) | Low | — | 4 |
+| 796 | [183318](../reports/183318.md) | Direct IP Access | [OWOX, Inc.](../by-program/owox.md) | Low | — | 4 |
+| 797 | [124976](../reports/124976.md) | Hijacking user session by forcing the use of  invalid HTTPs Certi | [Gratipay](../by-program/gratipay.md) | Low | — | 4 |
+| 798 | [358102](../reports/358102.md) | Disclosed Version of PORTS SSH|HTTP|SSL | [Nextcloud](../by-program/nextcloud.md) | Low | — | 3 |
+| 799 | [196969](../reports/196969.md) | bug reporting template encourages users to paste config file with | [ownCloud](../by-program/owncloud.md) | Low | — | 3 |
+| 800 | [964315](../reports/964315.md) | Admin/Info lekage | [Kartpay](../by-program/kartpay.md) | Low | — | 3 |
+| 801 | [963164](../reports/963164.md) | Django debug enabled showing information about system, database,  | [Dropcontact](../by-program/dropcontact.md) | Low | — | 3 |
+| 802 | [223343](../reports/223343.md) | Already Registered Email Disclosure | [Weblate](../by-program/weblate.md) | Low | — | 3 |
+| 803 | [870062](../reports/870062.md) | Referer Referer Header Leakage in language changer may lead to FB | [Rockstar Games](../by-program/rockstargames.md) | Low — CVSS 3.8 | — | 3 |
+| 804 | [186307](../reports/186307.md) | Information disclosure vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 3 |
+| 805 | [789803](../reports/789803.md) | Disclosure of Co-Rider user (Uber-pooling) profile picture at Ama | [Uber](../by-program/uber.md) | Low — CVSS 3.1 | — | 3 |
+| 806 | [1082521](../reports/1082521.md) | Full Path Disclosure of Server through 500 Server Error | [Kartpay](../by-program/kartpay.md) | Low | — | 3 |
+| 807 | [184558](../reports/184558.md) | Information disclosure vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 3 |
+| 808 | [261817](../reports/261817.md) | Information disclosure | [Legal Robot](../by-program/legalrobot.md) | Low | — | 3 |
+| 809 | [766963](../reports/766963.md) | Potential linkage of public/private (anonymous) node addresses | [Monero](../by-program/monero.md) | Low | — | 3 |
+| 810 | [895730](../reports/895730.md) | Contacts menu (not app) fails to restrict (to local groups) for c | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.2 | — | 3 |
+| 811 | [1223882](../reports/1223882.md) | CVE-2021-22925: TELNET stack contents disclosure again | [curl](../by-program/curl.md) | Low — CVSS 3.1 | — | 3 |
+| 812 | [281597](../reports/281597.md) | Preferred language option fingerprinting issue in Tor Browser | [Tor](../by-program/torproject.md) | Low | — | 3 |
+| 813 | [476439](../reports/476439.md) | Password authentication at newsletter.nextcloud.com discloses use | [Nextcloud](../by-program/nextcloud.md) | Low | — | 3 |
+| 814 | [203088](../reports/203088.md) | Brave payments remembers history even after clearing all browser  | [Brave Software](../by-program/brave.md) | Low — CVSS 2.1 | — | 2 |
+| 815 | [226514](../reports/226514.md) | Full Path Disclousure on https://airship.paragonie.com | [Paragon Initiative Enterprises](../by-program/paragonie.md) | Low | — | 2 |
+| 816 | [460530](../reports/460530.md) |  information disclosure which leak the apache version  | [RATELIMITED](../by-program/ratelimited.md) | Low | — | 2 |
+| 817 | [642862](../reports/642862.md) | Option method enabled in kartpay Webservers | [Kartpay](../by-program/kartpay.md) | Low | — | 2 |
+| 818 | [186317](../reports/186317.md) | Information disclosure on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Low | — | 2 |
+| 819 | [3524971](../reports/3524971.md) | Users with read-only access to a Nextcloud Table can enumerate it | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.3 | — | 2 |
+| 820 | [696198](../reports/696198.md) | WordPress Plugin Insert or Embed Articulate Content into WordPres | [Nextcloud](../by-program/nextcloud.md) | Low | — | 2 |
+| 821 | [356408](../reports/356408.md) | The "Download Raw Diff" URL is viewable by everyone | [Phabricator](../by-program/phabricator.md) | Low | — | 1 |
+| 822 | [3749681](../reports/3749681.md) | Background sync cache retains outgoing additional transaction sec | [Monero](../by-program/monero.md) | Low — CVSS 2.8 | — | 1 |
+| 823 | [3735184](../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | [curl](../by-program/curl.md) | Low | — | 1 |
+| 824 | [197880](../reports/197880.md) | Nginx version disclosure via forbidden page | [Yelp](../by-program/yelp.md) | Low | — | 1 |
+| 825 | [136720](../reports/136720.md) | don't leak server version of grtp.co in error pages | [Gratipay](../by-program/gratipay.md) | Low | — | 1 |
+| 826 | [255132](../reports/255132.md) | Credential gets exposed | [Phabricator](../by-program/phabricator.md) | Low | — | 1 |
+| 827 | [1188662](../reports/1188662.md) | Username disclosure at Main Domain | [Sifchain](../by-program/sifchain.md) | Low | — | 1 |
+| 828 | [267922](../reports/267922.md) | Sql query disclosure, | [Tor](../by-program/torproject.md) | Low | — | 0 |
+| 829 | [667613](../reports/667613.md) | Username Enumeration | [Nextcloud](../by-program/nextcloud.md) | Low | — | 0 |
+| 830 | [3968431](../reports/3968431.md) | ARG_CLEAR credential scrubbing wipes only UTF-8 copies on Windows | [curl](../by-program/curl.md) | Low | — | 0 |
+| 831 | [419655](../reports/419655.md) | Client secret, server tokens for developer applications returned  | [Uber](../by-program/uber.md) | None | — | 125 |
+| 832 | [167859](../reports/167859.md) | Base alpha version code exposure | [Eternal](../by-program/eternal.md) | None | — | 99 |
+| 833 | [127158](../reports/127158.md) | Possibility to get private email using UUID | [Uber](../by-program/uber.md) | None | — | 82 |
+| 834 | [3091909](../reports/3091909.md) | Leaked credentials ( emails and passwords , etc...) | [WakaTime](../by-program/wakatime.md) | None | — | 76 |
+| 835 | [858915](../reports/858915.md) | CircleCI token in github repo allows for access to sensitive buil | [Shopify](../by-program/shopify.md) | None | — | 73 |
+| 836 | [3090641](../reports/3090641.md) | Login Information and Credentials Have Been Leaked on wakatime.co | [WakaTime](../by-program/wakatime.md) | None | — | 73 |
+| 837 | [3098717](../reports/3098717.md) | user api key leaked | [WakaTime](../by-program/wakatime.md) | None | — | 64 |
+| 838 | [237381](../reports/237381.md) | SSRF and local file disclosure in https://wordpress.com/media/vid | [Automattic](../by-program/automattic.md) | None | — | 62 |
+| 839 | [2923061](../reports/2923061.md) | API Key Exposed in JavaScript File on 1Password Developer Site | [1Password - Enterprise Password Manager](../by-program/1password.md) | None | — | 61 |
+| 840 | [378122](../reports/378122.md) | HackerOne customer submitted sensitive link to VirusTotal, exposi | [HackerOne](../by-program/security.md) | None | — | 60 |
+| 841 | [2844797](../reports/2844797.md) | Exposed Logs and Bearer Tokens on Test Endpoint | [IBM](../by-program/ibm.md) | None | — | 57 |
+| 842 | [149907](../reports/149907.md) | Urgent: attacker can access every data source on Bime | [Bime](../by-program/bime.md) | None | — | 56 |
+| 843 | [2412983](../reports/2412983.md) | sentry Auth Token exposed publicly in docker hub image  | [Mozilla](../by-program/mozilla.md) | None | — | 51 |
+| 844 | [155618](../reports/155618.md) | Watch any Password Video without password | [Vimeo](../by-program/vimeo.md) | None | — | 44 |
+| 845 | [2134874](../reports/2134874.md) | Hackers two email disclosed on  submission at hackerone hactivity | [HackerOne](../by-program/security.md) | None | — | 43 |
+| 846 | [2380084](../reports/2380084.md) | paypal client_id And stripe api key indexed on web archive | [Mozilla](../by-program/mozilla.md) | None | — | 40 |
+| 847 | [149914](../reports/149914.md) | Attacker can access graphic representation of every query | [Bime](../by-program/bime.md) | None | — | 39 |
+| 848 | [347937](../reports/347937.md) | Team object in GraphQL that have a published external program may | [HackerOne](../by-program/security.md) | None | — | 39 |
+| 849 | [3198394](../reports/3198394.md) | WordPress Version Exposure via ███████ on hemi.xyz | [Hemi VDP](../by-program/hemi_labs_vdp.md) | None | — | 38 |
+| 850 | [3509632](../reports/3509632.md) | Information Disclosure via Logback Configuration Injection in GoC | [GoCD](../by-program/gocd.md) | None | — | 36 |
+| 851 | [988877](../reports/988877.md) | Path traversal in a Tomcat server | [LY Corporation](../by-program/line.md) | None | — | 36 |
+| 852 | [137502](../reports/137502.md) | All Vimeo Private videos disclosure via Authorization Bypass | [Vimeo](../by-program/vimeo.md) | None | — | 35 |
+| 853 | [142709](../reports/142709.md) | Fetching external resources through svg images | [Shopify](../by-program/shopify.md) | None | — | 31 |
+| 854 | [91343](../reports/91343.md) | Information disclosure (No rate limting in forgot password & othe | [Imgur](../by-program/imgur.md) | None | — | 30 |
+| 855 | [143438](../reports/143438.md) | Potentially Sensitive Information on GitHub | [Shopify](../by-program/shopify.md) | None | — | 29 |
+| 856 | [1067824](../reports/1067824.md) | Database error shown to the user when using a long guest name in  | [Nextcloud](../by-program/nextcloud.md) | None | — | 29 |
+| 857 | [2886723](../reports/2886723.md) | GraphQL Introspection Enabled on Shopify API Endpoint (Intended B | [Shopify](../by-program/shopify.md) | None | — | 28 |
+| 858 | [3306475](../reports/3306475.md) | curl leaks destination IP via glibc getaddrinfo() UDP connect, by | [curl](../by-program/curl.md) | None | — | 28 |
+| 859 | [3361913](../reports/3361913.md) | AWS SigV4 Signature Disclosure via Verbose Logging in libcurl | [curl](../by-program/curl.md) | None | — | 27 |
+| 860 | [211477](../reports/211477.md) | Stealing users' facebook access tokens - kitcrm.com | [Shopify](../by-program/shopify.md) | None | — | 26 |
+| 861 | [1541660](../reports/1541660.md) | Information Disclosure Leads To User Data Leak | [MTN Group](../by-program/mtn_group.md) | None | — | 25 |
+| 862 | [136891](../reports/136891.md) | Source code disclosure on https://107.23.69.180 | [Ubiquiti Inc.](../by-program/ui.md) | None | — | 25 |
+| 863 | [1023669](../reports/1023669.md) | Staff with no permissions can listen to Shopify Ping conversation | [Shopify](../by-program/shopify.md) | None | — | 25 |
+| 864 | [350964](../reports/350964.md) | User object in GraphQL exposes number of trial reports for Extern | [HackerOne](../by-program/security.md) | None | — | 24 |
+| 865 | [2429](../reports/2429.md) | Hackerone Email Addresses Enumeration | [HackerOne](../by-program/security.md) | None | — | 24 |
+| 866 | [127087](../reports/127087.md) | Possible to View Driver Waybill via Driver UUID | [Uber](../by-program/uber.md) | None | — | 24 |
+| 867 | [167828](../reports/167828.md) | Ability to enumerate private programs using SAML | [HackerOne](../by-program/security.md) | None | — | 24 |
+| 868 | [148050](../reports/148050.md) | Know undisclosed Bounty Amount when Bounty Statistics are enabled | [HackerOne](../by-program/security.md) | None | — | 23 |
+| 869 | [1262907](../reports/1262907.md) | Apache Flink Dashboard exposure at https://streaming-sales-model- | [Shopify](../by-program/shopify.md) | None | — | 23 |
+| 870 | [166861](../reports/166861.md) | AWS hosting bucket for Legal Robots set as public browse and list | [Legal Robot](../by-program/legalrobot.md) | None | — | 21 |
+| 871 | [1128358](../reports/1128358.md) | Used email confirmation link reveals the email address which is t | [HackerOne](../by-program/security.md) | None | — | 21 |
+| 872 | [161659](../reports/161659.md) | ████ discloses valid Airbnb SSO login names via Google Search Res | [Airbnb](../by-program/airbnb.md) | None | — | 21 |
+| 873 | [269467](../reports/269467.md) | Banner Grabbing - Apache Server Version Disclousure | [ownCloud](../by-program/owncloud.md) | None | — | 19 |
+| 874 | [138270](../reports/138270.md) | Instagram OAuth2 Implementation Leaks Access Token; Allows for Cr | [Eternal](../by-program/eternal.md) | None | — | 19 |
+| 875 | [357576](../reports/357576.md) | Exposing hackerone users personally identifiable information by a | [HackerOne](../by-program/security.md) | None | — | 18 |
+| 876 | [703882](../reports/703882.md) | Origin IP found, Cloudflare bypassed | [People Interactive](../by-program/people_interactive.md) | None | — | 18 |
+| 877 | [105887](../reports/105887.md) | Know whether private program for company exist or not | [HackerOne](../by-program/security.md) | None | — | 18 |
+| 878 | [345152](../reports/345152.md) | Publicly Accessible Datadog link | [Shopify](../by-program/shopify.md) | None | — | 18 |
+| 879 | [1450014](../reports/1450014.md) | Visibility Robots.txt file | [Krisp](../by-program/krisp.md) | None | — | 18 |
+| 880 | [33935](../reports/33935.md) | File Name Enumeration  | [HackerOne](../by-program/security.md) | None | — | 17 |
+| 881 | [283361](../reports/283361.md) | Private partial disclosure of h1 infrastructure  | [HackerOne](../by-program/security.md) | None | — | 17 |
+| 882 | [136850](../reports/136850.md) | Images and Subtitles Leakage from private videos | [Vimeo](../by-program/vimeo.md) | None | — | 17 |
+| 883 | [163131](../reports/163131.md) | Users contents on AWS  is cacheable  | [HackerOne](../by-program/security.md) | None | — | 16 |
+| 884 | [167481](../reports/167481.md) | Android - Possible to intercept broadcasts about uploaded files | [Nextcloud](../by-program/nextcloud.md) | None | — | 16 |
+| 885 | [144129](../reports/144129.md) | Old titles are not hidden in reports with limited disclosure | [HackerOne](../by-program/security.md) | None | — | 16 |
+| 886 | [3255910](../reports/3255910.md) | Vulnerability: XML-RPC Interface Enabled and Accessible | [Tucows (VDP)](../by-program/tucows_vdp.md) | None | — | 15 |
+| 887 | [350739](../reports/350739.md) | Lack of cross-origin request blocking allows leaking of sensitive | [HackerOne](../by-program/security.md) | None | — | 15 |
+| 888 | [127161](../reports/127161.md) | Information regarding trips from other users | [Uber](../by-program/uber.md) | None | — | 15 |
+| 889 | [154762](../reports/154762.md) | Missing authorization checks leading to the exposure of ubernihao | [Uber](../by-program/uber.md) | None | — | 15 |
+| 890 | [112116](../reports/112116.md) | XXE in the Connector Designer | [Bime](../by-program/bime.md) | None | — | 15 |
+| 891 | [281950](../reports/281950.md) | Internal Ports Scanning via Blind SSRF | [Infogram](../by-program/infogram.md) | None | — | 14 |
+| 892 | [3372277](../reports/3372277.md) | Information Disclosure via Accessible debug.log on ExactHosting | [Tucows (VDP)](../by-program/tucows_vdp.md) | None | — | 14 |
+| 893 | [622937](../reports/622937.md) | Private ip leaking through response | [Urban Company](../by-program/urbancompany.md) | None | — | 14 |
+| 894 | [3241304](../reports/3241304.md) | access notes without permission | [curl](../by-program/curl.md) | None | — | 14 |
+| 895 | [173175](../reports/173175.md) | Obtain the username & the uid of the one doing the S3 sync on Hac | [HackerOne](../by-program/security.md) | None | — | 14 |
+| 896 | [149483](../reports/149483.md) | Server version disclosure | [Uber](../by-program/uber.md) | None | — | 13 |
+| 897 | [16910](../reports/16910.md) | Cross-site information assertion leak via Content Security Policy | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 13 |
+| 898 | [5314](../reports/5314.md) | Coinbase Android Application - Bitcoin Wallet Leaks OAuth Respons | [Coinbase](../by-program/coinbase.md) | None | — | 13 |
+| 899 | [125118](../reports/125118.md) | Lack of CNAME/A Record Trimming Pointing Uber Domains to Insecure | [Uber](../by-program/uber.md) | None | — | 13 |
+| 900 | [2221](../reports/2221.md) | CSS leaks SCSS debug info | [HackerOne](../by-program/security.md) | None | — | 13 |
+| 901 | [220946](../reports/220946.md) | https://portal.nextcloud.com/.htaccess file is readable | [Nextcloud](../by-program/nextcloud.md) | None | — | 12 |
+| 902 | [149710](../reports/149710.md) | don't leak Server version for assets.gratipay.com | [Gratipay](../by-program/gratipay.md) | None | — | 12 |
+| 903 | [135937](../reports/135937.md) | SSRF when importing a project from a git repo by URL | [GitLab](../by-program/gitlab.md) | None | — | 12 |
+| 904 | [8090](../reports/8090.md) | Full Path Disclosure / Info Disclosure in Creating New Group | [Localize](../by-program/localize.md) | None | — | 12 |
+| 905 | [198012](../reports/198012.md) | Disclosure of administrators via JSON on nextcloud.com Wordpress | [Nextcloud](../by-program/nextcloud.md) | None | — | 12 |
+| 906 | [145150](../reports/145150.md) | Bulk UUID enumeration via invite codes | [Uber](../by-program/uber.md) | None | — | 12 |
+| 907 | [163730](../reports/163730.md) | News Feed Detected  | [Legal Robot](../by-program/legalrobot.md) | None | — | 12 |
+| 908 | [166942](../reports/166942.md) | leaking Digits OAuth authorization to third party websites | [X / xAI](../by-program/x.md) | None | — | 12 |
+| 909 | [143064](../reports/143064.md) | Information Disclosure | [drchrono](../by-program/drchrono.md) | None | — | 11 |
+| 910 | [46366](../reports/46366.md) | Error stack trace | [Whisper](../by-program/whisper.md) | None | — | 11 |
+| 911 | [791826](../reports/791826.md) | Misconfigured web directory allows to retrieve public proxy list | [Nord Security](../by-program/nordsecurity.md) | None | — | 11 |
+| 912 | [142773](../reports/142773.md) | 16 instances where return value of OpenSSL i2d_RSAPublicKey is di | [Tor](../by-program/torproject.md) | None | — | 11 |
+| 913 | [149435](../reports/149435.md) | Reward Money Leakage | [HackerOne](../by-program/security.md) | None | — | 10 |
+| 914 | [1197035](../reports/1197035.md) | Information Disclosure on https://rpc.sifchain.finance/ | [Sifchain](../by-program/sifchain.md) | None | — | 10 |
+| 915 | [309594](../reports/309594.md) | error | [VK.com](../by-program/vkcom.md) | None | — | 10 |
+| 916 | [162147](../reports/162147.md) | Boards leak private label names and desciptions | [GitLab](../by-program/gitlab.md) | None | — | 10 |
+| 917 | [166265](../reports/166265.md) | Verification of E-Mail address possible on https://biz.yelp.com/l | [Yelp](../by-program/yelp.md) | None | — | 10 |
+| 918 | [289189](../reports/289189.md) | Exposes a series of other private credentials | [Legal Robot](../by-program/legalrobot.md) | None | — | 10 |
+| 919 | [998555](../reports/998555.md) | Get ip and Geo location any user via Clickjacking with inspectlet | [Acronis](../by-program/acronis.md) | None | — | 10 |
+| 920 | [128051](../reports/128051.md) | Attacker can extract list of private project's project members | [GitLab](../by-program/gitlab.md) | None | — | 10 |
+| 921 | [156182](../reports/156182.md) | Visibility  Robots.txt file | [Eternal](../by-program/eternal.md) | None | — | 10 |
+| 922 | [49499](../reports/49499.md) | Generating Unlimited Free Travel Gift Invites | IDOR | [Airbnb](../by-program/airbnb.md) | None | — | 10 |
+| 923 | [221298](../reports/221298.md) | GIT Detected | [Nextcloud](../by-program/nextcloud.md) | None | — | 10 |
+| 924 | [163476](../reports/163476.md) | Information Disclosure in AWS S3 Bucket | [Legal Robot](../by-program/legalrobot.md) | None | — | 10 |
+| 925 | [62301](../reports/62301.md) | Ability to add pishing links in discusion ," Bypassing uneduction | [Udemy](../by-program/udemy.md) | None | — | 10 |
+| 926 | [194721](../reports/194721.md) | Verification of email addresses possible through https://www.yelp | [Yelp](../by-program/yelp.md) | None | — | 10 |
+| 927 | [119666](../reports/119666.md) | Server version is disclosure in http://leasewebnoc.com/ | [LeaseWeb](../by-program/leaseweb.md) | None | — | 10 |
+| 928 | [1409](../reports/1409.md) | Proxy discloses internal web servers | [Factlink](../by-program/factlink.md) | None | — | 10 |
+| 929 | [244434](../reports/244434.md) | Leaking password reset token via referrer from external Twitter s | [WakaTime](../by-program/wakatime.md) | None | — | 10 |
+| 930 | [9485](../reports/9485.md) | Multiple Path Disclosure | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 9 |
+| 931 | [6488](../reports/6488.md) | Weak Ciphers Enabled | [Khan Academy](../by-program/khanacademy.md) | None | — | 9 |
+| 932 | [145734](../reports/145734.md) | help.nextcloud Email Address/Username enumeration | [Nextcloud](../by-program/nextcloud.md) | None | — | 9 |
+| 933 | [157699](../reports/157699.md) | Disclosure of external users invited to a specific report | [HackerOne](../by-program/security.md) | None | — | 9 |
+| 934 | [29185](../reports/29185.md) | "early preview" programs disclosure | [HackerOne](../by-program/security.md) | None | — | 9 |
+| 935 | [163464](../reports/163464.md) | User Information sent to client through websockets | [Legal Robot](../by-program/legalrobot.md) | None | — | 9 |
+| 936 | [3241308](../reports/3241308.md) | Disclosure of email addresses | [curl](../by-program/curl.md) | None | — | 9 |
+| 937 | [280770](../reports/280770.md) | Search query text, including from potentially undisclosed reports | [HackerOne](../by-program/security.md) | None | — | 9 |
+| 938 | [197877](../reports/197877.md) | User Information Disclosure via REST API | [Nextcloud](../by-program/nextcloud.md) | None | — | 8 |
+| 939 | [3159877](../reports/3159877.md) | Information disclosure via Desktop client when attempting to lock | [Nextcloud](../by-program/nextcloud.md) | None | — | 8 |
+| 940 | [263](../reports/263.md) | Report title autocompletion | [HackerOne](../by-program/security.md) | None | — | 8 |
+| 941 | [1018336](../reports/1018336.md) | Customer's full name disclosure via Shopify Chat (by email lookup | [Shopify](../by-program/shopify.md) | None | — | 8 |
+| 942 | [283309](../reports/283309.md) | Private Program all members disclosed  | [HackerOne](../by-program/security.md) | None | — | 8 |
+| 943 | [1321830](../reports/1321830.md) | Google Maps API Key Leakage | [Uber](../by-program/uber.md) | None | — | 8 |
+| 944 | [31383](../reports/31383.md) | Ability to see common response titles of other teams (limited) | [HackerOne](../by-program/security.md) | None | — | 8 |
+| 945 | [2766](../reports/2766.md) | Email enumeration | [Slack](../by-program/slack.md) | None | — | 8 |
+| 946 | [3370](../reports/3370.md) | Directory traversal attack in view resolver | [Ruby on Rails](../by-program/rails.md) | None | — | 8 |
+| 947 | [80118](../reports/80118.md) | Information leakage - Private reports cached by Google  | [HackerOne](../by-program/security.md) | None | — | 8 |
+| 948 | [135756](../reports/135756.md) | View all deleted comments and rating of any app . | [Shopify](../by-program/shopify.md) | None | — | 7 |
+| 949 | [163421](../reports/163421.md) | Wordpress: Directory Traversal / Denial of Serivce | [Nextcloud](../by-program/nextcloud.md) | None | — | 7 |
+| 950 | [151772](../reports/151772.md) | Directory Listening | [GoCD](../by-program/gocd.md) | None | — | 7 |
+| 951 | [406388](../reports/406388.md) | Apache Server Version Disclousure | [BOHEMIA INTERACTIVE a.s.](../by-program/bohemia.md) | None | — | 7 |
+| 952 | [2582](../reports/2582.md) | Session Fixation disclosing email address | [Slack](../by-program/slack.md) | None | — | 7 |
+| 953 | [400781](../reports/400781.md) | Browser Self XSS Protection not implemented | [Weblate](../by-program/weblate.md) | None | — | 7 |
+| 954 | [132777](../reports/132777.md) | Labels created in private projects are leaked | [GitLab](../by-program/gitlab.md) | None | — | 7 |
+| 955 | [127914](../reports/127914.md) | Deleted name still present via mouseover functionality for user a | [HackerOne](../by-program/security.md) | None | — | 7 |
+| 956 | [134305](../reports/134305.md) | Private snippets in public / internal projects leaked though GitL | [GitLab](../by-program/gitlab.md) | None | — | 7 |
+| 957 | [461598](../reports/461598.md) | Information Disclosure on https://theendlessweb.com/ | [RATELIMITED](../by-program/ratelimited.md) | None | — | 7 |
+| 958 | [35823](../reports/35823.md) | File name/folder enumeration. | [Factlink](../by-program/factlink.md) | None | — | 7 |
+| 959 | [41469](../reports/41469.md) | Error stack trace | [Enter](../by-program/enter.md) | None | — | 7 |
+| 960 | [208566](../reports/208566.md) | Outdated Jenkins server hosted at OwnCloud.org | [ownCloud](../by-program/owncloud.md) | None | — | 6 |
+| 961 | [8019](../reports/8019.md) | Possible sensitive files | [Localize](../by-program/localize.md) | None | — | 6 |
+| 962 | [167041](../reports/167041.md) | Server version disclosure | [Legal Robot](../by-program/legalrobot.md) | None | — | 6 |
+| 963 | [969988](../reports/969988.md) | Private leaderboard owner email disclosure when sending invites | [WakaTime](../by-program/wakatime.md) | None | — | 6 |
+| 964 | [171272](../reports/171272.md) | Accessable Htaccess | [ownCloud](../by-program/owncloud.md) | None | — | 6 |
+| 965 | [4409](../reports/4409.md) | TRACE disclosure attack may be possible | [RelateIQ](../by-program/relateiq.md) | None | — | 6 |
+| 966 | [302620](../reports/302620.md) | Partial disclosure of undisclosed programs through <meta> tags | [HackerOne](../by-program/security.md) | None | — | 6 |
+| 967 | [133717](../reports/133717.md) | GFM renderer leaks external issue tracker URL of private project | [GitLab](../by-program/gitlab.md) | None | — | 6 |
+| 968 | [508024](../reports/508024.md) | Public and secret api key leaked via omise github repo(owned by o | [Omise](../by-program/omise.md) | None | — | 6 |
+| 969 | [7736](../reports/7736.md) | FULL PATH DISCLOSUR  | [Concrete CMS](../by-program/concretecms.md) | None | — | 6 |
+| 970 | [44652](../reports/44652.md) | Insecure crossdomain.xml | [Mobile Vikings](../by-program/mobilevikings.md) | None | — | 6 |
+| 971 | [139192](../reports/139192.md) | Ability to collect users' ids that have visited a specific web pa | [Bumble](../by-program/bumble.md) | None | — | 6 |
+| 972 | [156510](../reports/156510.md) | Directory listening enabled in: 88.198.160.130 | [Nextcloud](../by-program/nextcloud.md) | None | — | 6 |
+| 973 | [11729](../reports/11729.md) | Path Disclosure Vulnerability | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 6 |
+| 974 | [18382](../reports/18382.md) | Using nmap revealing sensitive information  | [jsDelivr](../by-program/jsdelivr.md) | None | — | 6 |
+| 975 | [926093](../reports/926093.md) | Secret_key in GitHub | [Weblate](../by-program/weblate.md) | None | — | 6 |
+| 976 | [178503](../reports/178503.md) | ability to retrieve a user's phone-number/email for a given invit | [Uber](../by-program/uber.md) | None | — | 6 |
+| 977 | [17514](../reports/17514.md) | Information Disclosure (phpinfo()) | [Uzbey](../by-program/uzbey.md) | None | — | 6 |
+| 978 | [171593](../reports/171593.md) | Malicious Server can force read any file on clients system with d | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 5 |
+| 979 | [2050059](../reports/2050059.md) | Nextcloud All-In-One path disclosure of internal frontend | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
+| 980 | [160120](../reports/160120.md) | API OAuth Public Key disclosure in mobile app | [Instacart](../by-program/instacart.md) | None | — | 5 |
+| 981 | [46345](../reports/46345.md) | Directory index and information disclosure | [Whisper](../by-program/whisper.md) | None | — | 5 |
+| 982 | [57125](../reports/57125.md) | comment out causes information disclosure | [Shopify](../by-program/shopify.md) | None | — | 5 |
+| 983 | [116798](../reports/116798.md) | Private Program Disclosure in /:handle/settings/allow_report_subm | [HackerOne](../by-program/security.md) | None | — | 5 |
+| 984 | [130440](../reports/130440.md) | Requested and received edit access to Google form | [Uber](../by-program/uber.md) | None | — | 5 |
+| 985 | [752353](../reports/752353.md) | Anonymous file drop page ignores user profile visibility restrict | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
+| 986 | [491319](../reports/491319.md) | Guests Will Disclose the Private Project Full Activity Via Projec | [GitLab](../by-program/gitlab.md) | None | — | 5 |
+| 987 | [117902](../reports/117902.md) | Дорк | [VK.com](../by-program/vkcom.md) | None | — | 5 |
+| 988 | [343095](../reports/343095.md) | Session Cookie Without Secure Flag, | [Ed](../by-program/ed.md) | None | — | 5 |
+| 989 | [141125](../reports/141125.md) | Ngnix Server version disclosure | [drchrono](../by-program/drchrono.md) | None | — | 5 |
+| 990 | [195205](../reports/195205.md) | lert.uber.com: Few default folders/files of AURA Framework are ac | [Uber](../by-program/uber.md) | None | — | 5 |
+| 991 | [146106](../reports/146106.md) | Email ID Disclosure. | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
+| 992 | [129712](../reports/129712.md) | reopen #128853 (Information disclosure at lite.uber.com) | [Uber](../by-program/uber.md) | None | — | 5 |
+| 993 | [42154](../reports/42154.md) | Gain access to any user's email address | [Nearby Live](../by-program/nearby.md) | None | — | 5 |
+| 994 | [134300](../reports/134300.md) | Confidential issues leaked in public projects when attached to mi | [GitLab](../by-program/gitlab.md) | None | — | 5 |
+| 995 | [43998](../reports/43998.md) | CRITICAL full source code/config disclosure for Cameo | [Vimeo](../by-program/vimeo.md) | None | — | 5 |
+| 996 | [193759](../reports/193759.md) | Способ узнать имя человека удаленной страницы 2 | [VK.com](../by-program/vkcom.md) | None | — | 5 |
+| 997 | [216389](../reports/216389.md) | Full access at an internal service of Shopify | [Shopify](../by-program/shopify.md) | None | — | 5 |
+| 998 | [145517](../reports/145517.md) | Vulnerable Javascript library | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
+| 999 | [97609](../reports/97609.md) | User Enumeration : Due to rate limiting on registration | [Deriv.com](../by-program/deriv.md) | None | — | 5 |
+| 1000 | [163106](../reports/163106.md) | Information Disclosure of .htaccess file in Private Server/Subdom | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
+| 1001 | [1113759](../reports/1113759.md) | [mattermost.com] CORS Misconfiguration leakage of admin users | [Mattermost](../by-program/mattermost.md) | None | — | 5 |
+| 1002 | [94336](../reports/94336.md) | Minimum bounty of a private program is visible for users that wer | [HackerOne](../by-program/security.md) | None | — | 5 |
+| 1003 | [400785](../reports/400785.md) | Browser Self XSS Protection not implemented | [PortSwigger Web Security](../by-program/portswigger.md) | None | — | 5 |
+| 1004 | [2140](../reports/2140.md) | Flash local-with-fileaccess Sandbox Bypass | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 5 |
+| 1005 | [167036](../reports/167036.md) | Ngnix Server version disclosure 404 Page! | [Yelp](../by-program/yelp.md) | None | — | 5 |
+| 1006 | [8064](../reports/8064.md) | Numerous open ports/services | [Localize](../by-program/localize.md) | None | — | 5 |
+| 1007 | [8055](../reports/8055.md) | Apache Documentation | [Localize](../by-program/localize.md) | None | — | 5 |
+| 1008 | [90367](../reports/90367.md) | Minor Bug: Public un-compiled CSS with original sass, versioning, | [HackerOne](../by-program/security.md) | None | — | 5 |
+| 1009 | [193419](../reports/193419.md) | Способ узнать имя человека удаленной страницы | [VK.com](../by-program/vkcom.md) | None | — | 5 |
+| 1010 | [151680](../reports/151680.md) | Possible SSRF at URL Parameter while creating a new package repos | [GoCD](../by-program/gocd.md) | None | — | 5 |
+| 1011 | [269449](../reports/269449.md) | Banner Grabbing - Apache Server Version Disclousure | [Nextcloud](../by-program/nextcloud.md) | None | — | 5 |
+| 1012 | [371464](../reports/371464.md) | Directory Listing on https://promo-services-staging.brave.com | [Brave Software](../by-program/brave.md) | None | — | 4 |
+| 1013 | [100916](../reports/100916.md) | Imgur dev environments facing the Internet | [Imgur](../by-program/imgur.md) | None | — | 4 |
+| 1014 | [7903](../reports/7903.md) | Path Disclosure (Info Disclosure) in  http://www.localize.io | [Localize](../by-program/localize.md) | None | — | 4 |
+| 1015 | [1183520](../reports/1183520.md) | RSA PRIVATE KEY discloser | [Sifchain](../by-program/sifchain.md) | None | — | 4 |
+| 1016 | [409973](../reports/409973.md) | Some store settings/data are accessible to "No Access" permission | [Shopify](../by-program/shopify.md) | None | — | 4 |
+| 1017 | [157507](../reports/157507.md) | nginx version disclosure on downloads.gratipay.com | [Gratipay](../by-program/gratipay.md) | None | — | 4 |
+| 1018 | [9745](../reports/9745.md) | Full Path Disclosure (FPD) in www.localize.im | [Localize](../by-program/localize.md) | None | — | 4 |
+| 1019 | [221989](../reports/221989.md) | Server version disclosure on [jenkins.brew.sh] | [Homebrew](../by-program/homebrew.md) | None | — | 4 |
+| 1020 | [8780](../reports/8780.md) | Information Disclosure (FPD) - stopthehacker.com | [StopTheHacker](../by-program/stopthehacker.md) | None | — | 4 |
+| 1021 | [129027](../reports/129027.md) | Disclosure of ways to the site root | [Uber](../by-program/uber.md) | None | — | 4 |
+| 1022 | [4938](../reports/4938.md) | page_controls_menu_js can reveal collection version of page | [Concrete CMS](../by-program/concretecms.md) | None | — | 4 |
+| 1023 | [92716](../reports/92716.md) | HackerOne Private Programs users disclosure and de-anonymous-ize | [HackerOne](../by-program/security.md) | None | — | 4 |
+| 1024 | [13557](../reports/13557.md) | Leaking of password reset token through referer | [Factlink](../by-program/factlink.md) | None | — | 4 |
+| 1025 | [124611](../reports/124611.md) | Disclosure of private programs that have an "external" page on Ha | [HackerOne](../by-program/security.md) | None | — | 4 |
+| 1026 | [919429](../reports/919429.md) | Full path disclosure vulnerability  via Upload .htaccess file | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
+| 1027 | [348801](../reports/348801.md) | Banner Grabbing - Apache Server Version Disclosure | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
+| 1028 | [7923](../reports/7923.md) | Apache2 /icons/ folder accessible | [Localize](../by-program/localize.md) | None | — | 4 |
+| 1029 | [7915](../reports/7915.md) | Uninitialized variable error message leaks information  | [Localize](../by-program/localize.md) | None | — | 4 |
+| 1030 | [12341](../reports/12341.md) | MISSING SPF (Sender Policy Framework) for meteorapm.com | [Kadira](../by-program/kadira.md) | None | — | 4 |
+| 1031 | [113869](../reports/113869.md) | Subdomain Takeover  | [Eternal](../by-program/eternal.md) | None | — | 4 |
+| 1032 | [137404](../reports/137404.md) | List of a ton of internal twitter servers available on GitHub | [X / xAI](../by-program/x.md) | None | — | 4 |
+| 1033 | [151295](../reports/151295.md) | don't allow directory browsing on grtp.co | [Gratipay](../by-program/gratipay.md) | None | — | 4 |
+| 1034 | [416516](../reports/416516.md) | A 10GB file is reachable | [Chaturbate](../by-program/chaturbate.md) | None | — | 4 |
+| 1035 | [7888](../reports/7888.md) | Unexpected array leaks information about the system | [Localize](../by-program/localize.md) | None | — | 4 |
+| 1036 | [27651](../reports/27651.md) | Flash Local Sandbox Bypass | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
+| 1037 | [163599](../reports/163599.md) | Amazon Bucket Accessible (http://legalrobot.s3.amazonaws.com/) | [Legal Robot](../by-program/legalrobot.md) | None | — | 4 |
+| 1038 | [6371](../reports/6371.md) | Lighttpd version disclosure / directory listing | [Khan Academy](../by-program/khanacademy.md) | None | — | 4 |
+| 1039 | [152499](../reports/152499.md) | Information disclosure | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
+| 1040 | [6491](../reports/6491.md) | c2fo.com is releasing sensitive Information about Database Config | [C2FO](../by-program/c2fo.md) | None | — | 4 |
+| 1041 | [7930](../reports/7930.md) | Information Disclosure (Directory Structure) | [Localize](../by-program/localize.md) | None | — | 4 |
+| 1042 | [161459](../reports/161459.md) | Potentially vulnerable version of Apache software in and default  | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 4 |
+| 1043 | [80597](../reports/80597.md) | Number of invited researchers disclosed as part of JSON search re | [HackerOne](../by-program/security.md) | None | — | 4 |
+| 1044 | [125068](../reports/125068.md) | LIsting of  http://archive.uber.com/pypi/simple/ | [Uber](../by-program/uber.md) | None | — | 4 |
+| 1045 | [157986](../reports/157986.md) | Internal server error 500 at log.veris.in  | [Veris](../by-program/veris.md) | None | — | 4 |
+| 1046 | [15362](../reports/15362.md) | Flash Sandbox Bypass | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
+| 1047 | [156511](../reports/156511.md) | Incorrect logic in MySQL & MariaDB protocol leads to remote SSRF/ | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
+| 1048 | [146093](../reports/146093.md) | WordPress Vulnerabilities: User Enumeration, Vulnerable Akismet P | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
+| 1049 | [3973098](../reports/3973098.md) | 07: GnuTLS 0-RTT early data bypasses file-backed public-key pin v | [curl](../by-program/curl.md) | None | — | 4 |
+| 1050 | [145396](../reports/145396.md) | Enumeration of subscribed users and unauthenticated email unsubsc | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
+| 1051 | [3972385](../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | [curl](../by-program/curl.md) | None | — | 4 |
+| 1052 | [5688](../reports/5688.md) | User guessing/enumeration at  https://app.c2fo.com/api/password-r | [C2FO](../by-program/c2fo.md) | None | — | 4 |
+| 1053 | [123170](../reports/123170.md) | Email Address Leak | [HackerOne](../by-program/security.md) | None | — | 4 |
+| 1054 | [7972](../reports/7972.md) | Full Path Disclosure | [Localize](../by-program/localize.md) | None | — | 4 |
+| 1055 | [111643](../reports/111643.md) | Full access to Amazon S3 bucket containing AWS CloudTrail logs | [Shopify](../by-program/shopify.md) | None | — | 4 |
+| 1056 | [145495](../reports/145495.md) | nextcloud.com: Directory listening for 'wp-includes' forders | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
+| 1057 | [1065468](../reports/1065468.md) | ctf walkthrough | [h1-ctf](../by-program/h1-ctf.md) | None | — | 4 |
+| 1058 | [5691](../reports/5691.md) | Password reset token leakage through referrer at https://app.c2fo | [C2FO](../by-program/c2fo.md) | None | — | 4 |
+| 1059 | [180346](../reports/180346.md) | Nginx server version disclosure on engineeringblog | [Yelp](../by-program/yelp.md) | None | — | 4 |
+| 1060 | [3973127](../reports/3973127.md) | 18:  Explicit IPv6 proxy zone ID silently ignored — proxy credent | [curl](../by-program/curl.md) | None | — | 4 |
+| 1061 | [118965](../reports/118965.md) | Distinguish EP+Private vs Private programs in HackerOne | [HackerOne](../by-program/security.md) | None | — | 4 |
+| 1062 | [76733](../reports/76733.md) | Using GET method for account login with CSRF token leaking to ext | [Zaption](../by-program/zaption.md) | None | — | 4 |
+| 1063 | [149212](../reports/149212.md) | Full path + some back-end code disclosure | [ExpressionEngine](../by-program/expressionengine.md) | None | — | 3 |
+| 1064 | [17297](../reports/17297.md) | CMS Information Disclosure | [Uzbey](../by-program/uzbey.md) | None | — | 3 |
+| 1065 | [3432](../reports/3432.md) | RelateIQ GWT based application visible to unauthenticated users | [RelateIQ](../by-program/relateiq.md) | None | — | 3 |
+| 1066 | [21064](../reports/21064.md) | Back - Refresh - Attack To  Obtain User Credentials | [Phabricator](../by-program/phabricator.md) | None | — | 3 |
+| 1067 | [192577](../reports/192577.md) | Server side information disclosure | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | None | — | 3 |
+| 1068 | [15899](../reports/15899.md) | PHP PDOException and Full Path Disclosure | [Localize](../by-program/localize.md) | None | — | 3 |
+| 1069 | [145603](../reports/145603.md) | https://newsletter.nextcloud.com Directory listening and Informat | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
+| 1070 | [3803415](../reports/3803415.md) |  Secure cookies leaked to HTTP origins through HTTPS forwarding p | [curl](../by-program/curl.md) | None | — | 3 |
+| 1071 | [25537](../reports/25537.md) | external entity expansion in Apache POI  | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 3 |
+| 1072 | [9137](../reports/9137.md) | Full Path Disclosure | [Respondly](../by-program/respondly.md) | None | — | 3 |
+| 1073 | [47358](../reports/47358.md) | Username and sim id enum | [Mobile Vikings](../by-program/mobilevikings.md) | None | — | 3 |
+| 1074 | [13237](../reports/13237.md) | full path disclosure from false language | [Localize](../by-program/localize.md) | None | — | 3 |
+| 1075 | [7894](../reports/7894.md) | Full path disclosure | [Localize](../by-program/localize.md) | None | — | 3 |
+| 1076 | [14529](../reports/14529.md) | The web application https://mavenlink.com discloses version detai | [Mavenlink](../by-program/mavenlink.md) | None | — | 3 |
+| 1077 | [935573](../reports/935573.md) | JDBC credentials leaked via github | [Yelp](../by-program/yelp.md) | None | — | 3 |
+| 1078 | [5549](../reports/5549.md) | History Disclosure of MS-Dos | [MS-DOS](../by-program/msdos.md) | None | — | 3 |
+| 1079 | [207236](../reports/207236.md) | Potentially sensitive information disclosure on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | None | — | 3 |
+| 1080 | [7914](../reports/7914.md) | Server header - information disclosure  | [Localize](../by-program/localize.md) | None | — | 3 |
+| 1081 | [252544](../reports/252544.md) | Token leakage by referrer header & analytics | [Legal Robot](../by-program/legalrobot.md) | None | — | 3 |
+| 1082 | [6362](../reports/6362.md) | Full Path Disclosure on [smarthistory.khanacademy.org] | [Khan Academy](../by-program/khanacademy.md) | None | — | 3 |
+| 1083 | [294568](../reports/294568.md) | Information Disclosure - Composer.lock | [RBKmoney](../by-program/rbkmoney.md) | None | — | 3 |
+| 1084 | [8013](../reports/8013.md) | Full Path Disclosure (2) | [Localize](../by-program/localize.md) | None | — | 3 |
+| 1085 | [142940](../reports/142940.md) | Bug Report  | [drchrono](../by-program/drchrono.md) | None | — | 3 |
+| 1086 | [8091](../reports/8091.md) | Full Path Disclosure / Info Disclosure in Importing XML Section! | [Localize](../by-program/localize.md) | None | — | 3 |
+| 1087 | [138881](../reports/138881.md) | Phone Number Enumeration | [Uber](../by-program/uber.md) | None | — | 3 |
+| 1088 | [121919](../reports/121919.md) | Private, embeddable videos leaks data through Facebook & Open Gra | [Vimeo](../by-program/vimeo.md) | None | — | 3 |
+| 1089 | [133375](../reports/133375.md) | Information Disclosure on lite.uber.com | [Uber](../by-program/uber.md) | None | — | 3 |
+| 1090 | [6475](../reports/6475.md) | https://concrete5.org ::: HeartBleed Attack (CVE-2014-0160) | [Concrete CMS](../by-program/concretecms.md) | None | — | 3 |
+| 1091 | [111999](../reports/111999.md) | Full Path Disclosure on gmchat.gm.com | [General Motors](../by-program/gm.md) | None | — | 3 |
+| 1092 | [1173411](../reports/1173411.md) | Nextcloud update checks leaks information | [Nextcloud](../by-program/nextcloud.md) | None | — | 3 |
+| 1093 | [9256](../reports/9256.md) | Full Path Disclosure (FPD) in www.localize.im | [Localize](../by-program/localize.md) | None | — | 3 |
+| 1094 | [6376](../reports/6376.md) | User guessing/enumeration at sw.khanacademy.org | [Khan Academy](../by-program/khanacademy.md) | None | — | 3 |
+| 1095 | [8088](../reports/8088.md) | Full Path Disclosure (FPD) in www.localize.io | [Localize](../by-program/localize.md) | None | — | 3 |
+| 1096 | [5073](../reports/5073.md) | Information Disclosure That shows the webroot of CoinBase Server | [Coinbase](../by-program/coinbase.md) | None | — | 3 |
+| 1097 | [50537](../reports/50537.md) | Server Side Request Forgery in macro creation | [Phabricator](../by-program/phabricator.md) | None | — | 3 |
+| 1098 | [14803](../reports/14803.md) | Serving Transitions From: HTTP Protocol (not secure) | [Automattic](../by-program/automattic.md) | None | — | 2 |
+| 1099 | [146327](../reports/146327.md) | Server version disclosure: team.uberinternal.com | [Uber](../by-program/uber.md) | None | — | 2 |
+| 1100 | [149273](../reports/149273.md) | Filename and directory enumeration | [ExpressionEngine](../by-program/expressionengine.md) | None | — | 2 |
+| 1101 | [155578](../reports/155578.md) | User Enumeration and Information Disclosure | [Uber](../by-program/uber.md) | None | — | 2 |
+| 1102 | [109420](../reports/109420.md) | Requesting unknown file type returns Ruby object w/ address | [HackerOne](../by-program/security.md) | None | — | 2 |
+| 1103 | [153628](../reports/153628.md) | [Not just a server configuration issue] Full Path Disclosure  | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 2 |
+| 1104 | [139626](../reports/139626.md) | Passphrase credential lock bypass | [Phabricator](../by-program/phabricator.md) | None | — | 2 |
+| 1105 | [207435](../reports/207435.md) | Research papers on yelp  are getting indexed by google bots. | [Yelp](../by-program/yelp.md) | None | — | 2 |
+| 1106 | [128723](../reports/128723.md) | Enumerating userIDs with phone numbers | [Uber](../by-program/uber.md) | None | — | 2 |
+| 1107 | [146314](../reports/146314.md) | Deny access to download.nextcloud.com + folders | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
+| 1108 | [148890](../reports/148890.md) | Full path disclosure when CSRF validation failed  | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 2 |
+| 1109 | [129869](../reports/129869.md) | beta version reveals paths, environment variables and partially f | [APITest.IO](../by-program/apitest.md) | None | — | 2 |
+| 1110 | [61371](../reports/61371.md) | leak receipt of another user | [Udemy](../by-program/udemy.md) | None | — | 2 |
+| 1111 | [33153](../reports/33153.md) | Test | [Uzbey](../by-program/uzbey.md) | None | — | 2 |
+| 1112 | [126569](../reports/126569.md) | Disclosure of ip addresses in local network of uber | [Uber](../by-program/uber.md) | None | — | 2 |
+| 1113 | [148768](../reports/148768.md) | Nginx Version Disclosure On Forbidden Page | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 2 |
+| 1114 | [42780](../reports/42780.md) | Web Server information disclosure. | [Nearby Live](../by-program/nearby.md) | None | — | 2 |
+| 1115 | [123712](../reports/123712.md) | Insecure Direct 'org-invite-log' References | [Veris](../by-program/veris.md) | None | — | 2 |
+| 1116 | [223759](../reports/223759.md) | information disclose | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
+| 1117 | [9516](../reports/9516.md) | PHP and Wordpress version disclosure | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 2 |
+| 1118 | [152834](../reports/152834.md) | [gratipay.com] Cross Site Tracing | [Gratipay](../by-program/gratipay.md) | None | — | 2 |
+| 1119 | [272982](../reports/272982.md) | Information leakage on django.aspen.io | [Aspen](../by-program/aspen.md) | None | — | 2 |
+| 1120 | [31255](../reports/31255.md) | files likes of README.md is public | [Localize](../by-program/localize.md) | None | — | 2 |
+| 1121 | [20279](../reports/20279.md) | Verbose SQL error messages | [DigitalSellz](../by-program/digitalsellz.md) | None | — | 2 |
+| 1122 | [124578](../reports/124578.md) | Angular Expression Injection in the my.gmc.com Search Page | [General Motors](../by-program/gm.md) | None | — | 2 |
+| 1123 | [26395](../reports/26395.md) | Notification of previous signed out user leakage. | [HackerOne](../by-program/security.md) | None | — | 2 |
+| 1124 | [19363](../reports/19363.md) | PHP PDOException and Full Path Disclosure | [Localize](../by-program/localize.md) | None | — | 2 |
+| 1125 | [45243](../reports/45243.md) | Number, username and name disclosure | [Mobile Vikings](../by-program/mobilevikings.md) | None | — | 2 |
+| 1126 | [226212](../reports/226212.md) | directory information disclose | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 2 |
+| 1127 | [85201](../reports/85201.md) | Full Path Disclosure  | [ownCloud](../by-program/owncloud.md) | None | — | 2 |
+| 1128 | [150018](../reports/150018.md) | Full Path Disclosure by removing CSRF token | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 2 |
+| 1129 | [62778](../reports/62778.md) | Multiple sub domain are vulnerable because of leaking full path  | [Udemy](../by-program/udemy.md) | None | — | 2 |
+| 1130 | [128853](../reports/128853.md) | Information disclosure at lite.uber.com | [Uber](../by-program/uber.md) | None | — | 2 |
+| 1131 | [130453](../reports/130453.md) | Badoo and Hotornot User Disclosure | [Bumble](../by-program/bumble.md) | None | — | 2 |
+| 1132 | [83801](../reports/83801.md) | apps.owncloud.com: Path Disclosure | [ownCloud](../by-program/owncloud.md) | None | — | 2 |
+| 1133 | [7950](../reports/7950.md) | User credentials are sent in clear text | [Localize](../by-program/localize.md) | None | — | 2 |
+| 1134 | [12617](../reports/12617.md) | Account hijacking possible through ADB backup feature | [Faceless](../by-program/faceless.md) | None | — | 2 |
+| 1135 | [4931](../reports/4931.md) | CONCRETE5 - path disclosure. | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
+| 1136 | [11951](../reports/11951.md) | SSH Port Wide Open | [joola.io](../by-program/joola-io.md) | None | — | 2 |
+| 1137 | [4811](../reports/4811.md) | dashboard/pages/types [Unknown column 'Array' in 'where clause']  | [Concrete CMS](../by-program/concretecms.md) | None | — | 2 |
+| 1138 | [275293](../reports/275293.md) | Pending member invitations are not revoked on program name change | [HackerOne](../by-program/security.md) | None | — | 2 |
+| 1139 | [115219](../reports/115219.md) | Information Disclosure in Error Page | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 2 |
+| 1140 | [117593](../reports/117593.md) | Apache version disclosed on developer.leaseweb.com | [LeaseWeb](../by-program/leaseweb.md) | None | — | 2 |
+| 1141 | [116692](../reports/116692.md) | PHP version disclosed on blog.algolia.com | [Algolia](../by-program/algolia.md) | None | — | 2 |
+| 1142 | [151302](../reports/151302.md) | don't leak Server version for assets.gratipay.com | [Gratipay](../by-program/gratipay.md) | None | — | 2 |
+| 1143 | [228471](../reports/228471.md) | DNSSEC Zone Walk using NSEC Records | [Weblate](../by-program/weblate.md) | None | — | 1 |
+| 1144 | [111386](../reports/111386.md) | Legacy API exposes private video titles | [Vimeo](../by-program/vimeo.md) | None | — | 1 |
+| 1145 | [88395](../reports/88395.md) | Information leakage through Graphviz blocks | [Phabricator](../by-program/phabricator.md) | None | — | 1 |
+| 1146 | [123501](../reports/123501.md) | Insecure Direct Member Disclosure | [Veris](../by-program/veris.md) | None | — | 1 |
+| 1147 | [127025](../reports/127025.md) | Brute Forcing rider-view Endpoint Allows for Counting Number of A | [Uber](../by-program/uber.md) | None | — | 1 |
+| 1148 | [1188998](../reports/1188998.md) |  Information disclosure on Sifchain | [Sifchain](../by-program/sifchain.md) | None | — | 1 |
+| 1149 | [1183809](../reports/1183809.md) | mongodb credentials leaked in github | [Sifchain](../by-program/sifchain.md) | None | — | 1 |
+| 1150 | [775123](../reports/775123.md) | Sensitive Information disclosure Through Config File | [Kubernetes](../by-program/kubernetes.md) | None | — | 1 |
+| 1151 | [138659](../reports/138659.md) | don't expose path of Python  | [Gratipay](../by-program/gratipay.md) | None | — | 1 |
+| 1152 | [85541](../reports/85541.md) | apps.owncloud.com: Mixed Active Scripting Issue  | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
+| 1153 | [143575](../reports/143575.md) | Full path disclosure | [Phabricator](../by-program/phabricator.md) | None | — | 1 |
+| 1154 | [774872](../reports/774872.md) | Configuartion [Sensitive] Information Disclosure | [Kubernetes](../by-program/kubernetes.md) | None | — | 1 |
+| 1155 | [123713](../reports/123713.md) | Insecure Direct 'org-visitor-log' References | [Veris](../by-program/veris.md) | None | — | 1 |
+| 1156 | [87505](../reports/87505.md) | Full Path Disclosure  | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
+| 1157 | [27166](../reports/27166.md) | Missing Rate Limiting on https://twitter.com/account/complete | [X / xAI](../by-program/x.md) | None | — | 1 |
+| 1158 | [78765](../reports/78765.md) | information disclosure | [Udemy](../by-program/udemy.md) | None | — | 1 |
+| 1159 | [19210](../reports/19210.md) | ClientId gives away platform (iOS/Android) from which a secret wa | [Secret](../by-program/secret.md) | None | — | 1 |
+| 1160 | [135782](../reports/135782.md) | information disclose   | [Moneybird](../by-program/moneybird.md) | None | — | 1 |
+| 1161 | [17311](../reports/17311.md) | Breach Attack Vulnerability | [Uzbey](../by-program/uzbey.md) | None | — | 1 |
+| 1162 | [128041](../reports/128041.md) | Getting Error Message and in use python version 2.7 is exposed. | [Gratipay](../by-program/gratipay.md) | None | — | 1 |
+| 1163 | [282843](../reports/282843.md) | UnResolved ChangeSet are Visible to Public That also Causes Infor | [WordPress](../by-program/wordpress.md) | None | — | 1 |
+| 1164 | [228156](../reports/228156.md) | https://www.legalrobot.com/ | [Legal Robot](../by-program/legalrobot.md) | None | — | 1 |
+| 1165 | [83856](../reports/83856.md) | s2.owncloud.com: SSL Session cookie without secure flag set | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
+| 1166 | [121382](../reports/121382.md) | doc.owncloud.org has missing PHP handler | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
+| 1167 | [149327](../reports/149327.md) | Web Server Disclosure | [CodeIgniter](../by-program/codeigniter.md) | None | — | 1 |
+| 1168 | [44371](../reports/44371.md) | Path disclosure in platform0.twitter.com | [X / xAI](../by-program/x.md) | None | — | 1 |
+| 1169 | [172609](../reports/172609.md) | Google Authenticator0.6 - PHP Version Dosclosure | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 1 |
+| 1170 | [13939](../reports/13939.md) | information disclosure | [Automattic](../by-program/automattic.md) | None | — | 1 |
+| 1171 | [90321](../reports/90321.md) | Apache documentation | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
+| 1172 | [117385](../reports/117385.md) | PHP and Web Server version disclosed on leasewebnoc.com | [LeaseWeb](../by-program/leaseweb.md) | None | — | 1 |
+| 1173 | [123194](../reports/123194.md) | Server and PHP version Disclosed in Response Header | [Veris](../by-program/veris.md) | None | — | 1 |
+| 1174 | [116057](../reports/116057.md) | file full path discloser. | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 1 |
+| 1175 | [168223](../reports/168223.md) | User Information sent to client through websockets | [Instacart](../by-program/instacart.md) | None | — | 1 |
+| 1176 | [115337](../reports/115337.md) | Full Path Disclosure | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 1 |
+| 1177 | [1196049](../reports/1196049.md) | Sifchain Privacy Policy Webpage Uses Wordpress Default Template.  | [Sifchain](../by-program/sifchain.md) | None | — | 1 |
+| 1178 | [908880](../reports/908880.md) | Private IP addresses Disclosure | [Kubernetes](../by-program/kubernetes.md) | None | — | 1 |
+| 1179 | [110655](../reports/110655.md) | Information Exposure Through Directory Listing | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
+| 1180 | [3777381](../reports/3777381.md) | PRE_PROXY change leaks stale Proxy Digest state across proxy-chai | [curl](../by-program/curl.md) | None | — | 1 |
+| 1181 | [134216](../reports/134216.md) | doc.owncloud.com: PHP info page disclosure  | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
+| 1182 | [115422](../reports/115422.md) | Full Path Disclosure in password lock | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 0 |
+| 1183 | [1195423](../reports/1195423.md) | Information Disclosure at one of your subdomain | [Sifchain](../by-program/sifchain.md) | None | — | 0 |
+| 1184 | [116621](../reports/116621.md) | server calendar and server status available to public | [Gratipay](../by-program/gratipay.md) | None | — | 0 |
+| 1185 | [24984](../reports/24984.md) | openssh-server Forced Command Handling Information Disclosure Vul | [Greenhouse.io](../by-program/greenhouse.md) | None | — | 0 |
+| 1186 | [463177](../reports/463177.md) | Information Disclosure PHPpgAdmin | [RATELIMITED](../by-program/ratelimited.md) | None | — | 0 |
+| 1187 | [119494](../reports/119494.md) | Full Path Disclosure In EasyDB | [Paragon Initiative Enterprises](../by-program/paragonie.md) | None | — | 0 |
+| 1188 | [105149](../reports/105149.md) | directory listing in https://demo.owncloud.org/doc/ | [ownCloud](../by-program/owncloud.md) | None | — | 0 |
+| 1189 | [3973135](../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | [curl](../by-program/curl.md) | None | — | 0 |
+| 1190 | [216336](../reports/216336.md) | Source Code Disclosure | [Urban Dictionary](../by-program/urbandictionary.md) | None | — | 0 |
