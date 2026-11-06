@@ -245279,6 +245279,27 @@
     "votes": 1
   },
   {
+    "id": 4077800,
+    "url": "https://hackerone.com/reports/4077800",
+    "title": "Unescaped consent-prompt renderer (HTML()) enables concealed-approval OS command injection in strands-agents/tools use_computer \u2014 RCE",
+    "visibility": "full",
+    "program": "AWS VDP",
+    "program_handle": "aws_vdp",
+    "reporter": "hope_no_dupe",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "OS Command Injection",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-18733"
+    ],
+    "substate": "resolved",
+    "asset_type": "WILDCARD",
+    "reported_at": "2026-10-02",
+    "disclosed_at": "2026-11-06T14:33:16.953Z",
+    "votes": 3
+  },
+  {
     "id": 4082665,
     "url": "https://hackerone.com/reports/4082665",
     "title": "ActionText `to_markdown` still allows `javascript:` links in kramdown via Rails-generated table cells after PR #58754",

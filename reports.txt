@@ -12548,6 +12548,7 @@ https://hackerone.com/reports/4064040 | Use-after-free read of the freed referer
 https://hackerone.com/reports/4071064 | Unauthenticated self-registration on ████████ grants full access to internal supplier procurement portal and vendor data
 https://hackerone.com/reports/4071670 | HackerOne Code: a live password reset token reaches Datadog RUM, and the same session records the account it unlocks
 https://hackerone.com/reports/4071872 | libcurl: Secure=1 cookie flag bypasses the 8.22.0 fix and leaks over HTTP
+https://hackerone.com/reports/4077800 | Unescaped consent-prompt renderer (HTML()) enables concealed-approval OS command injection in strands-agents/tools use_computer — RCE
 https://hackerone.com/reports/4082665 | ActionText `to_markdown` still allows `javascript:` links in kramdown via Rails-generated table cells after PR #58754
 https://hackerone.com/reports/4085412 | Rustls backend discloses out-of-bounds heap data during legal IMAP upload cancellation
 https://hackerone.com/reports/4088592 | CPU-based Denial of Service in translation-finder via O(N²) per-result wildcard mask matching
