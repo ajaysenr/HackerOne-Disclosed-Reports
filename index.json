@@ -245376,6 +245376,27 @@
     "votes": 1
   },
   {
+    "id": 4094236,
+    "url": "https://hackerone.com/reports/4094236",
+    "title": " Billion laughs entity expansion in Qt .ts discovery: a crafted ~950 KB file forces ~55 MB of XML expansion per parse, cost scales with crafted file c",
+    "visibility": "full",
+    "program": "Weblate",
+    "program_handle": "weblate",
+    "reporter": "sumit-sabhaya",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "XML Entity Expansion",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-62326"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-07",
+    "disclosed_at": "2026-11-07T07:46:29.524Z",
+    "votes": 3
+  },
+  {
     "id": 4098761,
     "url": "https://hackerone.com/reports/4098761",
     "title": "HTTP/1.1 connection reuse returns unsolicited server data as the next request's response (regression in 8.22.0)",

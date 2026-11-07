@@ -12553,6 +12553,7 @@ https://hackerone.com/reports/4082665 | ActionText `to_markdown` still allows `j
 https://hackerone.com/reports/4085412 | Rustls backend discloses out-of-bounds heap data during legal IMAP upload cancellation
 https://hackerone.com/reports/4088592 | CPU-based Denial of Service in translation-finder via O(N²) per-result wildcard mask matching
 https://hackerone.com/reports/4093443 | Cookie attribute truncation in curl drops Secure/HttpOnly protections
+https://hackerone.com/reports/4094236 | Billion laughs entity expansion in Qt .ts discovery: a crafted ~950 KB file forces ~55 MB of XML expansion per parse, cost scales with crafted file c
 https://hackerone.com/reports/4098761 | HTTP/1.1 connection reuse returns unsolicited server data as the next request's response (regression in 8.22.0)
 https://hackerone.com/reports/4099194 | CVE-2026-107928: info leak uploading over WebSockets with GnuTLS
 https://hackerone.com/reports/4099618 | CVE-2026-107929: local interface connection reuse mixup

@@ -1792,7 +1792,7 @@
 | 1788 | [kalyani64](https://hackerone.com/kalyani64) | 1 | $0 | 0 |
 | 1789 | [kholy](https://hackerone.com/kholy) | 2 | $0 | 623 |
 | 1790 | [xsam](https://hackerone.com/xsam) | 4 | $0 | 301 |
-| 1791 | [sumit-sabhaya](https://hackerone.com/sumit-sabhaya) | 5 | $0 | 20 |
+| 1791 | [sumit-sabhaya](https://hackerone.com/sumit-sabhaya) | 6 | $0 | 23 |
 | 1792 | [b4c90000040c1287364ccde6de680](https://hackerone.com/b4c90000040c1287364ccde6de680) | 1 | $0 | 30 |
 | 1793 | [meryem0x](https://hackerone.com/meryem0x) | 14 | $0 | 121 |
 | 1794 | [noraqiu](https://hackerone.com/noraqiu) | 6 | $0 | 3 |
