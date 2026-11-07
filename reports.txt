@@ -12616,3 +12616,4 @@ https://hackerone.com/reports/4137523 | CURL_NETRC_REQUIRED sends the URL passwo
 https://hackerone.com/reports/4147581 | Incomplete IDN hostname check on the transfer path can lead to credential disclosure to an unintended host
 https://hackerone.com/reports/4152553 | Unauthenticated Disclosure of Private, Draft, and Password-Protected Post Content via Core Read-Permission Bypass in SCF Reference Fields
 https://hackerone.com/reports/4166602 | Re-entrant curl_easy_pause UAF in cw-pause
+https://hackerone.com/reports/4177724 | curl 8.23.0 keeps sending requests to an HTTP/3 backend after Alt-Svc: clear

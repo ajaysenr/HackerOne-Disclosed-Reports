@@ -246664,5 +246664,24 @@
     "reported_at": "2026-11-02",
     "disclosed_at": "2026-11-03T13:06:55.971Z",
     "votes": 0
+  },
+  {
+    "id": 4177724,
+    "url": "https://hackerone.com/reports/4177724",
+    "title": "curl 8.23.0 keeps sending requests to an HTTP/3 backend after Alt-Svc: clear",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "arizonya",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-11-06",
+    "disclosed_at": "2026-11-07T22:37:27.144Z",
+    "votes": 1
   }
 ]
