@@ -231873,6 +231873,25 @@
     "votes": 12
   },
   {
+    "id": 3460138,
+    "url": "https://hackerone.com/reports/3460138",
+    "title": "Open Email Relay on WordPress Gutenberg Plugin via formAction parameter leads to phishing and spam campaigns",
+    "visibility": "full",
+    "program": "WordPress",
+    "program_handle": "wordpress",
+    "reporter": "zadwon",
+    "severity": null,
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2025-12-10",
+    "disclosed_at": "2026-11-08T18:15:49.159Z",
+    "votes": 1
+  },
+  {
     "id": 3460184,
     "url": "https://hackerone.com/reports/3460184",
     "title": "Terminal Output Not Great",

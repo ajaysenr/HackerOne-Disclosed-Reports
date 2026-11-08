@@ -11871,6 +11871,7 @@ https://hackerone.com/reports/3458235 | [RCE] Remote Code Execution via React Se
 https://hackerone.com/reports/3459285 | [Critical] Unauthorized Cross-Tenant Data Access in Stripo AI Hub Campaign via Deleted Project.
 https://hackerone.com/reports/3459417 | CVE-2025-14524: bearer token leak on cross-protocol redirect
 https://hackerone.com/reports/3459636 | Stack Buffer Overflow in cURL wolfSSL Backend (lib/vtls/wolfssl.c)
+https://hackerone.com/reports/3460138 | Open Email Relay on WordPress Gutenberg Plugin via formAction parameter leads to phishing and spam campaigns
 https://hackerone.com/reports/3460184 | Terminal Output Not Great
 https://hackerone.com/reports/3462525 | Buffer Overflow in cURL Internal printf Function
 https://hackerone.com/reports/3462991 | SQL Injection in Column Type Parameter Allows Arbitrary SQL Execution

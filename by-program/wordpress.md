@@ -1,4 +1,4 @@
-# WordPress — Disclosed Reports (97 total)
+# WordPress — Disclosed Reports (98 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -101,3 +101,4 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 95 | [153093](../reports/153093.md) | WordPress core  - Denial of Service via Cross Site Request F | None | — | 6 | [spipm](https://hackerone.com/spipm) | 2017-11-16 |
 | 96 | [267075](../reports/267075.md) | Clickjacking irclogs.wordpress.org | None | — | 2 | [sameull](https://hackerone.com/sameull) | 2017-10-12 |
 | 97 | [282843](../reports/282843.md) | UnResolved ChangeSet are Visible to Public That also Causes  | None | — | 1 | [hackerwahab](https://hackerone.com/hackerwahab) | 2018-02-05 |
+| 98 | [3460138](../reports/3460138.md) | Open Email Relay on WordPress Gutenberg Plugin via formActio | None | — | 1 | [zadwon](https://hackerone.com/zadwon) | 2026-11-08 |
