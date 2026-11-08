@@ -1,4 +1,4 @@
-# MariaDB — Disclosed Reports (61 total)
+# MariaDB — Disclosed Reports (62 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -55,13 +55,14 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 49 | [3771139](../reports/3771139.md) | Heap Memory Disclosure via Integer Underflow in Item_func_js | None | — | 12 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
 | 50 | [3771147](../reports/3771147.md) | Stack Buffer Overflow via Crafted keyseg->start/ keyseg->len | None | — | 11 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
 | 51 | [3771144](../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_versio | None | — | 10 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-14 |
-| 52 | [3896671](../reports/3896671.md) | Connector/C Out-of-bounds read in `unpack_fields()` from sho | None | — | 3 | [mschorm](https://hackerone.com/mschorm) | 2026-09-30 |
-| 53 | [3897588](../reports/3897588.md) | KILL authorization trusts the presented login name instead o | None | — | 3 | [dogeshark](https://hackerone.com/dogeshark) | 2026-09-07 |
-| 54 | [3880451](../reports/3880451.md) | Privilege escalation via user controlled usernames / roles a | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
-| 55 | [3848978](../reports/3848978.md) | `SHOW [CREATE|GRANTS] ...` / `mariadb-dump` Unescaped SQL Ge | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
-| 56 | [3849025](../reports/3849025.md) | DATA / INDEX DIRECTORY Abuse | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
-| 57 | [3910393](../reports/3910393.md) | Stack Buffer Overflow in MariaDB CONNECT storage engine when | None | — | 2 | [dstesk](https://hackerone.com/dstesk) | 2026-10-12 |
-| 58 | [3849040](../reports/3849040.md) | #mysql50# legacy alias / stale table cache identity mismatch | None | — | 1 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
-| 59 | [3849051](../reports/3849051.md) | #mysql50# legacy alias / internal table collisions | None | — | 1 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
-| 60 | [3896684](../reports/3896684.md) | Connector/C Out-of-bounds read from unterminated GSSAPI SPN  | None | — | 0 | [mschorm](https://hackerone.com/mschorm) | 2026-11-04 |
-| 61 | [3896617](../reports/3896617.md) | Connector/C TLS auth-switch bypass exposes plaintext passwor | None | — | 0 | [mschorm](https://hackerone.com/mschorm) | 2026-11-04 |
+| 52 | [3849007](../reports/3849007.md) | MariaDB CLI Utility Issues | None | — | 5 | [vortfu](https://hackerone.com/vortfu) | 2026-11-08 |
+| 53 | [3896671](../reports/3896671.md) | Connector/C Out-of-bounds read in `unpack_fields()` from sho | None | — | 3 | [mschorm](https://hackerone.com/mschorm) | 2026-09-30 |
+| 54 | [3897588](../reports/3897588.md) | KILL authorization trusts the presented login name instead o | None | — | 3 | [dogeshark](https://hackerone.com/dogeshark) | 2026-09-07 |
+| 55 | [3880451](../reports/3880451.md) | Privilege escalation via user controlled usernames / roles a | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
+| 56 | [3848978](../reports/3848978.md) | `SHOW [CREATE|GRANTS] ...` / `mariadb-dump` Unescaped SQL Ge | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
+| 57 | [3849025](../reports/3849025.md) | DATA / INDEX DIRECTORY Abuse | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
+| 58 | [3910393](../reports/3910393.md) | Stack Buffer Overflow in MariaDB CONNECT storage engine when | None | — | 2 | [dstesk](https://hackerone.com/dstesk) | 2026-10-12 |
+| 59 | [3849040](../reports/3849040.md) | #mysql50# legacy alias / stale table cache identity mismatch | None | — | 1 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
+| 60 | [3849051](../reports/3849051.md) | #mysql50# legacy alias / internal table collisions | None | — | 1 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
+| 61 | [3896684](../reports/3896684.md) | Connector/C Out-of-bounds read from unterminated GSSAPI SPN  | None | — | 0 | [mschorm](https://hackerone.com/mschorm) | 2026-11-04 |
+| 62 | [3896617](../reports/3896617.md) | Connector/C TLS auth-switch bypass exposes plaintext passwor | None | — | 0 | [mschorm](https://hackerone.com/mschorm) | 2026-11-04 |

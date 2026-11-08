@@ -241360,6 +241360,27 @@
     "votes": 2
   },
   {
+    "id": 3849007,
+    "url": "https://hackerone.com/reports/3849007",
+    "title": "MariaDB CLI Utility Issues",
+    "visibility": "full",
+    "program": "MariaDB",
+    "program_handle": "mariadb",
+    "reporter": "vortfu",
+    "severity": null,
+    "cvss": null,
+    "weakness": "SQL Injection",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-86047"
+    ],
+    "substate": "resolved",
+    "asset_type": null,
+    "reported_at": "2026-07-07",
+    "disclosed_at": "2026-11-08T11:41:49.858Z",
+    "votes": 5
+  },
+  {
     "id": 3849025,
     "url": "https://hackerone.com/reports/3849025",
     "title": "DATA / INDEX DIRECTORY Abuse",

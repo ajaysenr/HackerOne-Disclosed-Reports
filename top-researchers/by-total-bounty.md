@@ -2977,7 +2977,7 @@
 | 2973 | [rosa](https://hackerone.com/rosa) | 1 | $0 | 7 |
 | 2974 | [logan47](https://hackerone.com/logan47) | 1 | $0 | 5 |
 | 2975 | [0xtrav](https://hackerone.com/0xtrav) | 1 | $0 | 12 |
-| 2976 | [vortfu](https://hackerone.com/vortfu) | 5 | $0 | 8 |
+| 2976 | [vortfu](https://hackerone.com/vortfu) | 6 | $0 | 13 |
 | 2977 | [ethanluismcdonough](https://hackerone.com/ethanluismcdonough) | 1 | $0 | 9 |
 | 2978 | [vultza](https://hackerone.com/vultza) | 2 | $0 | 23 |
 | 2979 | [xklepxn](https://hackerone.com/xklepxn) | 2 | $0 | 359 |

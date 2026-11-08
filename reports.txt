@@ -12349,6 +12349,7 @@ https://hackerone.com/reports/3839889 | 29 Premium Plugin Packages with License 
 https://hackerone.com/reports/3839914 | Unauthenticated Plugin Settings Modification on Three Crocoblock/Jet Plugins
 https://hackerone.com/reports/3846922 | HTTP/2 retained header blocks evade maxSessionMemory and enable remote memory exhaustion
 https://hackerone.com/reports/3848978 | `SHOW [CREATE|GRANTS] ...` / `mariadb-dump` Unescaped SQL Generation
+https://hackerone.com/reports/3849007 | MariaDB CLI Utility Issues
 https://hackerone.com/reports/3849025 | DATA / INDEX DIRECTORY Abuse
 https://hackerone.com/reports/3849040 | #mysql50# legacy alias / stale table cache identity mismatch
 https://hackerone.com/reports/3849051 | #mysql50# legacy alias / internal table collisions
