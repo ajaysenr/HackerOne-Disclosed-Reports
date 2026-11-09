@@ -230845,6 +230845,25 @@
     "votes": 8
   },
   {
+    "id": 3417759,
+    "url": "https://hackerone.com/reports/3417759",
+    "title": "Broken Access Control on **healthwatch.trellix.com** Leading to Unauthorized Access and Sensitive Data Exposure",
+    "visibility": "full",
+    "program": "Trellix",
+    "program_handle": "trellix",
+    "reporter": "t4f3",
+    "severity": "medium",
+    "cvss": 5.3,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "WILDCARD",
+    "reported_at": "2025-11-09",
+    "disclosed_at": "2026-11-08T22:22:01.915Z",
+    "votes": 2
+  },
+  {
     "id": 3417819,
     "url": "https://hackerone.com/reports/3417819",
     "title": "FS Permissions Bypass",

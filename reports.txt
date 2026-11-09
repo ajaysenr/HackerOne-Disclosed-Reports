@@ -11818,6 +11818,7 @@ https://hackerone.com/reports/3414079 | DNN - Unrestricted Arbitrary File Upload
 https://hackerone.com/reports/3414088 | SMTP CRLF Command Injection in CURLOPT_MAIL_FROM and CURLOPT_MAIL_RCPT
 https://hackerone.com/reports/3417162 | Authentication Bypass in Subscription Management Endpoint
 https://hackerone.com/reports/3417428 | libcurl MQTT `CURLOPT_POSTFIELDSIZE_LARGE` overflow leads to immediate DoS
+https://hackerone.com/reports/3417759 | Broken Access Control on **healthwatch.trellix.com** Leading to Unauthorized Access and Sensitive Data Exposure
 https://hackerone.com/reports/3417819 | FS Permissions Bypass
 https://hackerone.com/reports/3417967 | Potential SQL Injection when annotating FilteredRelation on PostgreSQL
 https://hackerone.com/reports/3418031 | Open Redirect in Rocket.Chat
