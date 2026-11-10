@@ -241379,6 +241379,25 @@
     "votes": 3
   },
   {
+    "id": 3840113,
+    "url": "https://hackerone.com/reports/3840113",
+    "title": "Mass PII Exposure: 120,000+ Consumer Email Addresses Leaked via Author Enumeration on \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+    "visibility": "full",
+    "program": "Essity",
+    "program_handle": "essity",
+    "reporter": "matty69v",
+    "severity": "critical",
+    "cvss": null,
+    "weakness": "Information Disclosure",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-07-03",
+    "disclosed_at": "2026-11-10T07:41:33.343Z",
+    "votes": 1
+  },
+  {
     "id": 3846922,
     "url": "https://hackerone.com/reports/3846922",
     "title": "HTTP/2 retained header blocks evade maxSessionMemory and enable remote memory exhaustion",
