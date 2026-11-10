@@ -12311,6 +12311,7 @@ https://hackerone.com/reports/3795615 | Duplicate chunked Transfer-Encoding lets
 https://hackerone.com/reports/3795657 | dns.resolveAny() Aborts the Node.js Process When a DNS Response Contains More Than 256 A Records
 https://hackerone.com/reports/3795900 | node:sqlite SQLTagStore Iterator Replay Lets Attacker Re-Execute Victim-Bound Writes Indefinitely
 https://hackerone.com/reports/3797526 | CVE-2026-12064: proto-default skips SSH verification
+https://hackerone.com/reports/3797662 | SQL Injection via Unsanitized Identifiers and String Literals in `@aws-cdk/aws-redshift-alpha` Custom Resource Handlers
 https://hackerone.com/reports/3799010 | TaskProcessing callback authorization bypass allows ex-members to post as Assistant Talk Bot
 https://hackerone.com/reports/3800870 | connect.8x8.com/api/v1: JWT Algorithm Confusion Vulnerability
 https://hackerone.com/reports/3801107 | Unauthenticated disclosure of private and hidden forum content in bbPress via the WordPress core REST single-item endpoint

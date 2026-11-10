@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2451 total)
+# High/Critical Severity — No Bounty Paid (2452 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -1807,6 +1807,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1690000](../reports/1690000.md) | Weak randomness in WebCrypto keygen | [Node.js](../by-program/nodejs.md) | High — CVSS 8.4 | Resolved | 11 |
 | [779910](../reports/779910.md) | [h1-415 2020] finally | [h1-ctf](../by-program/h1-ctf.md) | High | Resolved | 11 |
 | [471087](../reports/471087.md) | Hackerone1 | [RATELIMITED](../by-program/ratelimited.md) | High — CVSS 8.9 | Spam | 11 |
+| [3797662](../reports/3797662.md) | SQL Injection via Unsanitized Identifiers and String Literals in  | [AWS VDP](../by-program/aws_vdp.md) | High | Resolved | 11 |
 | [268805](../reports/268805.md) | CVE-2017-13008 The IEEE 802.11 parser in tcpdump before 4.9.2 has | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | Resolved | 11 |
 | [730779](../reports/730779.md) | HTTP header values do not have trailing OWS trimmed | [Node.js](../by-program/nodejs.md) | High — CVSS 7.4 | Resolved | 11 |
 | [968355](../reports/968355.md) | [i18next] Prototype pollution attack | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | Resolved | 11 |
