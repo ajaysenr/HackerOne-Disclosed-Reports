@@ -17,8 +17,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 11 | [826238](../reports/826238.md) | load scripts DOS vulnerability | High | — | 3 | [th3cyb3rc0p](https://hackerone.com/th3cyb3rc0p) | 2020-04-02 |
 | 12 | [692360](../reports/692360.md) | UNRESTRICTED FILE UPLOAD AT chat.makerdao.com | High | — | 1 | [0xbugger](https://hackerone.com/0xbugger) | 2020-01-15 |
 | 13 | [686805](../reports/686805.md) | .git file accessible | Low | — | 20 | [nitrozeus0x01](https://hackerone.com/nitrozeus0x01) | 2019-09-13 |
-| 14 | [894880](../reports/894880.md) | Email HTML injection  | Low | — | 5 | [m4ngofloat](https://hackerone.com/m4ngofloat) | 2020-06-10 |
-| 15 | [684701](../reports/684701.md) | Wordpress users disclosure on blog.makerdao.con | Low | — | 5 | [ardi4x](https://hackerone.com/ardi4x) | 2020-01-15 |
+| 14 | [684701](../reports/684701.md) | Wordpress users disclosure on blog.makerdao.con | Low | — | 5 | [ardi4x](https://hackerone.com/ardi4x) | 2020-01-15 |
+| 15 | [894880](../reports/894880.md) | Email HTML injection  | Low | — | 5 | [m4ngofloat](https://hackerone.com/m4ngofloat) | 2020-06-10 |
 | 16 | [747825](../reports/747825.md) | [blog.makerdao.com] Multiple Vulnerabilities - Leads to leak | None | — | 140 | [deb0con](https://hackerone.com/deb0con) | 2020-04-14 |
 | 17 | [747829](../reports/747829.md) | xmlrpc.php file is enable it will used for (Denial of Servic | None | — | 16 | [sourceflow](https://hackerone.com/sourceflow) | 2020-04-07 |
 | 18 | [777279](../reports/777279.md) | xmlrpc.php FILE IS enable it will used for Bruteforce attack | None | — | 1 | [khoabda1](https://hackerone.com/khoabda1) | 2020-02-18 |

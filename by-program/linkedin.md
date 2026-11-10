@@ -14,8 +14,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 8 | [1808719](../reports/1808719.md) | Attackers can use TRIAL Premium only by paying **IDR 10,000. | High — CVSS 7.5 | — | 83 | [find_me_here](https://hackerone.com/find_me_here) | 2023-08-24 |
 | 9 | [2131224](../reports/2131224.md) | Attackers can *Upgrade and claim offer* on the Premium Trial | High — CVSS 7.2 | — | 70 | [find_me_here](https://hackerone.com/find_me_here) | 2024-06-18 |
 | 10 | [1943608](../reports/1943608.md) | HTTP Request Smuggling (CL.0) leads to mass redirect users t | High — CVSS 8.2 | — | 40 | [vampirex](https://hackerone.com/vampirex) | 2023-09-25 |
-| 11 | [3235855](../reports/3235855.md) | Improper Access Control - Access to "Active Hiring" (Premium | Medium — CVSS 4.3 | — | 94 | [minex627](https://hackerone.com/minex627) | 2026-02-03 |
-| 12 | [1608735](../reports/1608735.md) | IDOR allows an attacker to delete anyone's featured photo. | Medium — CVSS 6.5 | — | 94 | [adilnbabras](https://hackerone.com/adilnbabras) | 2023-08-24 |
+| 11 | [1608735](../reports/1608735.md) | IDOR allows an attacker to delete anyone's featured photo. | Medium — CVSS 6.5 | — | 94 | [adilnbabras](https://hackerone.com/adilnbabras) | 2023-08-24 |
+| 12 | [3235855](../reports/3235855.md) | Improper Access Control - Access to "Active Hiring" (Premium | Medium — CVSS 4.3 | — | 94 | [minex627](https://hackerone.com/minex627) | 2026-02-03 |
 | 13 | [1801427](../reports/1801427.md) | Information disclosure by sending a GIF | Medium — CVSS 4.3 | — | 83 | [qualw1n](https://hackerone.com/qualw1n) | 2023-04-28 |
 | 14 | [1806939](../reports/1806939.md) | Entire database of emails exposed through URN injection | Medium — CVSS 5.3 | — | 79 | [ultrapowa](https://hackerone.com/ultrapowa) | 2023-05-22 |
 | 15 | [2649615](../reports/2649615.md) | Forced OAuth authorization using button ID in hash and holdi | Medium — CVSS 4.2 | — | 78 | [j0r1an](https://hackerone.com/j0r1an) | 2024-12-17 |

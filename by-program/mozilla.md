@@ -16,8 +16,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 10 | [1984060](../reports/1984060.md) | After the upload of an private file, using transformations,  | Medium — CVSS 6.5 | $1,000 | 61 | [limusec](https://hackerone.com/limusec) | 2023-10-20 |
 | 11 | [2197244](../reports/2197244.md) | Account deletion using the /v1/account/destroy API endpoint  | Medium | $1,000 | 51 | [erdy](https://hackerone.com/erdy) | 2024-06-17 |
 | 12 | [2109320](../reports/2109320.md) | Potential Spoofing Risk through Firefox Private Relay Servic | Medium | $1,000 | 42 | [nicholas_cw](https://hackerone.com/nicholas_cw) | 2023-10-13 |
-| 13 | [1880929](../reports/1880929.md) | Email  user account in indexacao waybackurl | Medium | $1,000 | 18 | [kauenavarro](https://hackerone.com/kauenavarro) | 2023-04-05 |
-| 14 | [1880896](../reports/1880896.md) | HTML Injection / Reflected Cross-Site Scripting with CSP on  | Medium — CVSS 5.0 | $1,000 | 18 | [celesian](https://hackerone.com/celesian) | 2023-04-04 |
+| 13 | [1880896](../reports/1880896.md) | HTML Injection / Reflected Cross-Site Scripting with CSP on  | Medium — CVSS 5.0 | $1,000 | 18 | [celesian](https://hackerone.com/celesian) | 2023-04-04 |
+| 14 | [1880929](../reports/1880929.md) | Email  user account in indexacao waybackurl | Medium | $1,000 | 18 | [kauenavarro](https://hackerone.com/kauenavarro) | 2023-04-05 |
 | 15 | [2899858](../reports/2899858.md) | Subdomain takeover on a subdomain under firefox.com | Medium — CVSS 6.5 | $500 | 75 | [martinvw](https://hackerone.com/martinvw) | 2025-07-03 |
 | 16 | [2706358](../reports/2706358.md) | [ addons-preview-cdn.mozilla.net ] A subdomain takeover is a | Medium | $500 | 66 | [haveaniceday](https://hackerone.com/haveaniceday) | 2024-12-06 |
 | 17 | [3279441](../reports/3279441.md) | Bypass of Restricted Keyword "Mozilla" in Display Name Field | Low | $500 | 63 | [icecream_23](https://hackerone.com/icecream_23) | 2026-04-27 |
@@ -66,8 +66,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 60 | [3175695](../reports/3175695.md) | Bypass "No Links" Restriction in Biography via Protocol-Rela | Low | — | 95 | [yoyomiski](https://hackerone.com/yoyomiski) | 2025-07-29 |
 | 61 | [1987687](../reports/1987687.md) | Leakage of traffic in plaintext towards the IP address of VP | Low | — | 67 | [vanhoefm](https://hackerone.com/vanhoefm) | 2024-11-08 |
 | 62 | [3025797](../reports/3025797.md) | [Privilege Escalation] User can Pin|Unpin Any Comment on Any | Low | — | 56 | [adilnbabras](https://hackerone.com/adilnbabras) | 2026-03-20 |
-| 63 | [2383486](../reports/2383486.md) | Insecure S3 Bucket Exposing Git Directory in Mozilla Foundat | Low | — | 55 | [psycho_012](https://hackerone.com/psycho_012) | 2024-03-13 |
-| 64 | [1976449](../reports/1976449.md) | DOS via cache poisoning on [developer.mozilla.org] | Low | — | 55 | [zhero_](https://hackerone.com/zhero_) | 2023-06-05 |
+| 63 | [1976449](../reports/1976449.md) | DOS via cache poisoning on [developer.mozilla.org] | Low | — | 55 | [zhero_](https://hackerone.com/zhero_) | 2023-06-05 |
+| 64 | [2383486](../reports/2383486.md) | Insecure S3 Bucket Exposing Git Directory in Mozilla Foundat | Low | — | 55 | [psycho_012](https://hackerone.com/psycho_012) | 2024-03-13 |
 | 65 | [1913309](../reports/1913309.md) | Race condition leads to add more than 5 email at Data breach | Low | — | 49 | [sushantd19](https://hackerone.com/sushantd19) | 2024-10-18 |
 | 66 | [2737309](../reports/2737309.md) | Information disclosure on password cancel endpoint  | Low — CVSS 3.5 | — | 45 | [hackeriron1](https://hackerone.com/hackeriron1) | 2024-10-29 |
 | 67 | [2106662](../reports/2106662.md) | CSRF to Information disclosure on password reset | Low | — | 37 | [hackeriron1](https://hackerone.com/hackeriron1) | 2023-11-27 |

@@ -20,8 +20,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 14 | [1606957](../reports/1606957.md) | Unrestricted File Upload on reddit.secure.force.com | Low | $100 | 32 | [heckintosh](https://hackerone.com/heckintosh) | 2022-09-30 |
 | 15 | [1543770](../reports/1543770.md) | Moderators can send messages to users from banned subreddits | Low | $100 | 18 | [ba-reynolds](https://hackerone.com/ba-reynolds) | 2022-07-04 |
 | 16 | [1567186](../reports/1567186.md) | One-click account hijack for anyone using Apple sign-in with | Critical | — | 503 | [fransrosen](https://hackerone.com/fransrosen) | 2022-08-02 |
-| 17 | [1632186](../reports/1632186.md) | Can use the Reddit android app as usual even though revoking | Critical | — | 19 | [sateeshn](https://hackerone.com/sateeshn) | 2022-07-16 |
-| 18 | [1582778](../reports/1582778.md) | Misconfigurated login page able to lock login action for any | Critical — CVSS 9.3 | — | 19 | [ug0x01](https://hackerone.com/ug0x01) | 2022-06-06 |
+| 17 | [1582778](../reports/1582778.md) | Misconfigurated login page able to lock login action for any | Critical — CVSS 9.3 | — | 19 | [ug0x01](https://hackerone.com/ug0x01) | 2022-06-06 |
+| 18 | [1632186](../reports/1632186.md) | Can use the Reddit android app as usual even though revoking | Critical | — | 19 | [sateeshn](https://hackerone.com/sateeshn) | 2022-07-16 |
 | 19 | [1744264](../reports/1744264.md) |  read and message other user's messages | Critical | — | 12 | [beksem35](https://hackerone.com/beksem35) | 2023-05-18 |
 | 20 | [1719588](../reports/1719588.md) | HTML injection in API response including request url | Critical | — | 11 | [prilvesh](https://hackerone.com/prilvesh) | 2023-05-18 |
 | 21 | [1195340](../reports/1195340.md) | User Account has been taken out | Critical | — | 9 | [ravitejag](https://hackerone.com/ravitejag) | 2021-10-21 |
@@ -34,8 +34,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 28 | [1069039](../reports/1069039.md) | GPS metadata preserved when converting HEIF to PNG | High | — | 67 | [ianonavy](https://hackerone.com/ianonavy) | 2021-10-21 |
 | 29 | [1237428](../reports/1237428.md) | [dubsmash] Long String in 'shoutout' Parameter Leading Inter | High — CVSS 7.8 | — | 32 | [sandeep_rj49](https://hackerone.com/sandeep_rj49) | 2021-12-13 |
 | 30 | [1102365](../reports/1102365.md) | [dubmash] Lack of authorization checks - Update Sound Titles | High | — | 19 | [sandeep_rj49](https://hackerone.com/sandeep_rj49) | 2021-10-21 |
-| 31 | [1168804](../reports/1168804.md) | Application level DOS at Login Page ( Accepts Long Password  | High — CVSS 7.5 | — | 10 | [e100_speaks](https://hackerone.com/e100_speaks) | 2022-02-07 |
-| 32 | [1187003](../reports/1187003.md) | critical file found etc/passwd on www.reddit.com | High | — | 10 | [himan253](https://hackerone.com/himan253) | 2021-10-21 |
+| 31 | [1187003](../reports/1187003.md) | critical file found etc/passwd on www.reddit.com | High | — | 10 | [himan253](https://hackerone.com/himan253) | 2021-10-21 |
+| 32 | [1168804](../reports/1168804.md) | Application level DOS at Login Page ( Accepts Long Password  | High — CVSS 7.5 | — | 10 | [e100_speaks](https://hackerone.com/e100_speaks) | 2022-02-07 |
 | 33 | [1716249](../reports/1716249.md) | sensitive data exposure | High | — | 5 | [saibalaji143_](https://hackerone.com/saibalaji143_) | 2022-11-10 |
 | 34 | [1591085](../reports/1591085.md) | Several Subdomains Takeover | High | — | 2 | [3amii](https://hackerone.com/3amii) | 2022-06-08 |
 | 35 | [2353237](../reports/2353237.md) | Infromation Disclosure To Use of Hard-coded Cryptographic Ke | Medium | — | 234 | [ahmed_xyz](https://hackerone.com/ahmed_xyz) | 2024-02-06 |
@@ -64,8 +64,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 58 | [1202408](../reports/1202408.md) | No Rate Limit on redditgifts gift  when Adding Comment | Low | — | 25 | [gaurav-bhatia](https://hackerone.com/gaurav-bhatia) | 2021-10-21 |
 | 59 | [1165225](../reports/1165225.md) | [dubsmash] Username and password bruteforce | Low — CVSS 3.9 | — | 18 | [asce21](https://hackerone.com/asce21) | 2021-12-13 |
 | 60 | [785833](../reports/785833.md) | registering with the same email address multiple times leads | Low | — | 10 | [whitehacker18](https://hackerone.com/whitehacker18) | 2022-03-14 |
-| 61 | [1609004](../reports/1609004.md) | Rate limit is implemented in Reddit , but its not working .  | Low | — | 8 | [suryanm](https://hackerone.com/suryanm) | 2023-05-18 |
-| 62 | [1165285](../reports/1165285.md) | No Rate limit on change password leads to account takeover | Low | — | 8 | [dreamispossible](https://hackerone.com/dreamispossible) | 2021-12-13 |
+| 61 | [1165285](../reports/1165285.md) | No Rate limit on change password leads to account takeover | Low | — | 8 | [dreamispossible](https://hackerone.com/dreamispossible) | 2021-12-13 |
+| 62 | [1609004](../reports/1609004.md) | Rate limit is implemented in Reddit , but its not working .  | Low | — | 8 | [suryanm](https://hackerone.com/suryanm) | 2023-05-18 |
 | 63 | [1276733](../reports/1276733.md) | S3 bucket Upload on studio.redditinc.com (s3-r-w.ap-east-1.a | Low — CVSS 2.1 | — | 4 | [dinesh07](https://hackerone.com/dinesh07) | 2021-10-21 |
 | 64 | [1165919](../reports/1165919.md) | Content Spoofing | Low | — | 1 | [abdallah1911](https://hackerone.com/abdallah1911) | 2021-10-21 |
 | 65 | [1815463](../reports/1815463.md) | oauth misconfigration lead to account takeover | None | — | 10 | [greymanx1](https://hackerone.com/greymanx1) | 2023-05-18 |

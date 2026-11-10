@@ -246746,6 +246746,25 @@
     "votes": 1
   },
   {
+    "id": 4152726,
+    "url": "https://hackerone.com/reports/4152726",
+    "title": "Blind SQL Injection \u2014 IBM Training Course Search API",
+    "visibility": "no-content",
+    "program": "IBM",
+    "program_handle": "ibm",
+    "reporter": "4c1dr3aper",
+    "severity": "critical",
+    "cvss": null,
+    "weakness": "SQL Injection",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "OTHER",
+    "reported_at": "2026-10-28",
+    "disclosed_at": "2026-11-10T15:05:41.660Z",
+    "votes": 3
+  },
+  {
     "id": 4166602,
     "url": "https://hackerone.com/reports/4166602",
     "title": "Re-entrant curl_easy_pause UAF in cw-pause",

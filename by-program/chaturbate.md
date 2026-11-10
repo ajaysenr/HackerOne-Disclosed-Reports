@@ -46,9 +46,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 40 | [418151](../reports/418151.md) | No rate limiting in starting up a bot. | Low | — | 15 | [cunn](https://hackerone.com/cunn) | 2018-10-09 |
 | 41 | [386116](../reports/386116.md) | CSV Injection with the CSV export feature | Low — CVSS 3.1 | — | 14 | [hackaccinocraft](https://hackerone.com/hackaccinocraft) | 2018-09-20 |
 | 42 | [413505](../reports/413505.md) | No rate limit in affiliate statsapi endpoint | Low | — | 14 | [exploit0tango](https://hackerone.com/exploit0tango) | 2018-10-19 |
-| 43 | [411822](../reports/411822.md) | Password protected rooms total number of viewers disclosure  | Low | — | 11 | [batee5a](https://hackerone.com/batee5a) | 2018-09-24 |
+| 43 | [385239](../reports/385239.md) | Add non-existent room moderator | Low | — | 11 | [popeax](https://hackerone.com/popeax) | 2018-10-19 |
 | 44 | [385145](../reports/385145.md) | Homograph attack on redirect URL (https://chaturbate.com/ext | Low | — | 11 | [hackaccinocraft](https://hackerone.com/hackaccinocraft) | 2018-09-20 |
-| 45 | [385239](../reports/385239.md) | Add non-existent room moderator | Low | — | 11 | [popeax](https://hackerone.com/popeax) | 2018-10-19 |
+| 45 | [411822](../reports/411822.md) | Password protected rooms total number of viewers disclosure  | Low | — | 11 | [batee5a](https://hackerone.com/batee5a) | 2018-09-24 |
 | 46 | [385372](../reports/385372.md) | Homograph attack on redirect URL  | Low | — | 9 | [sam75434](https://hackerone.com/sam75434) | 2018-10-19 |
 | 47 | [514293](../reports/514293.md) | Unrestricted POST request size on /customer_support/informat | Low | — | 8 | [testingforbugs](https://hackerone.com/testingforbugs) | 2019-05-01 |
 | 48 | [417453](../reports/417453.md) | Cross-origin resource sharing: arbitrary origin trusted on c | None | — | 13 | [mase289](https://hackerone.com/mase289) | 2018-10-04 |
