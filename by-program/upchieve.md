@@ -6,8 +6,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 |---|---|---|---|---|---|---|---|
 | 1 | [1175081](../reports/1175081.md) | Full account takeover of any user through reset password | Critical — CVSS 9.1 | — | 50 | [saajanbhujel](https://hackerone.com/saajanbhujel) | 2021-05-14 |
 | 2 | [1166500](../reports/1166500.md) | Zero click account Takeover due to Api misconfiguration 🏂🎩 | Critical — CVSS 9.8 | — | 36 | [zero_or_1](https://hackerone.com/zero_or_1) | 2021-05-14 |
-| 3 | [1406471](../reports/1406471.md) | Authentication Bypass - Email Verification code bypass in ac | Critical | — | 8 | [anas_44](https://hackerone.com/anas_44) | 2021-12-07 |
-| 4 | [1198439](../reports/1198439.md) | No Valid SPF Records/don't have DMARC record | Critical | — | 8 | [recreati](https://hackerone.com/recreati) | 2021-05-18 |
+| 3 | [1198439](../reports/1198439.md) | No Valid SPF Records/don't have DMARC record | Critical | — | 8 | [recreati](https://hackerone.com/recreati) | 2021-05-18 |
+| 4 | [1406471](../reports/1406471.md) | Authentication Bypass - Email Verification code bypass in ac | Critical | — | 8 | [anas_44](https://hackerone.com/anas_44) | 2021-12-07 |
 | 5 | [1283200](../reports/1283200.md) | url redirection | Critical | — | 5 | [ben_lay](https://hackerone.com/ben_lay) | 2021-07-30 |
 | 6 | [1318087](../reports/1318087.md) | OTP reflecting in response sensitive data exposure leads to  | Critical | — | 5 | [rupachandransangothi](https://hackerone.com/rupachandransangothi) | 2022-03-26 |
 | 7 | [1278928](../reports/1278928.md) | blind sql on  [ https://argocd.upchieve.org/login?return_url | Critical | — | 4 | [ben_lay](https://hackerone.com/ben_lay) | 2021-07-28 |
@@ -23,12 +23,12 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 17 | [1354382](../reports/1354382.md) | Password Reuse | Medium | — | 6 | [theendisnear](https://hackerone.com/theendisnear) | 2022-03-26 |
 | 18 | [1404986](../reports/1404986.md) | CORS origin validation failure | Medium | — | 5 | [jupiter-47](https://hackerone.com/jupiter-47) | 2021-12-07 |
 | 19 | [1317494](../reports/1317494.md) | No Rate Limit on forgot password page | Medium | — | 5 | [pranto_0](https://hackerone.com/pranto_0) | 2022-03-26 |
-| 20 | [1340650](../reports/1340650.md) | No Rate Limiting for Password Reset Email Leads to Email Flo | Medium | — | 4 | [bd10ceb041a5297f881137c](https://hackerone.com/bd10ceb041a5297f881137c) | 2022-03-26 |
-| 21 | [1354368](../reports/1354368.md) | Missing Validation in editing  "Your Phone Number"  | Medium | — | 4 | [theendisnear](https://hackerone.com/theendisnear) | 2022-03-26 |
+| 20 | [1462175](../reports/1462175.md) | No character limit in password field | Medium | — | 4 | [tomyway](https://hackerone.com/tomyway) | 2022-01-30 |
+| 21 | [1340650](../reports/1340650.md) | No Rate Limiting for Password Reset Email Leads to Email Flo | Medium | — | 4 | [bd10ceb041a5297f881137c](https://hackerone.com/bd10ceb041a5297f881137c) | 2022-03-26 |
 | 22 | [1198907](../reports/1198907.md) | Clickjacking on profile page leading to unauthorized changes | Medium | — | 4 | [shivanshmalik2](https://hackerone.com/shivanshmalik2) | 2021-06-15 |
-| 23 | [1462175](../reports/1462175.md) | No character limit in password field | Medium | — | 4 | [tomyway](https://hackerone.com/tomyway) | 2022-01-30 |
-| 24 | [1320138](../reports/1320138.md) | No rate Limit on Password Reset page on upchieve | Medium | — | 3 | [rupachandransangothi](https://hackerone.com/rupachandransangothi) | 2022-03-26 |
-| 25 | [1331485](../reports/1331485.md) | Clickjacking login page of https://hackers.upchieve.org/logi | Medium | — | 3 | [sara346](https://hackerone.com/sara346) | 2022-03-26 |
+| 23 | [1354368](../reports/1354368.md) | Missing Validation in editing  "Your Phone Number"  | Medium | — | 4 | [theendisnear](https://hackerone.com/theendisnear) | 2022-03-26 |
+| 24 | [1331485](../reports/1331485.md) | Clickjacking login page of https://hackers.upchieve.org/logi | Medium | — | 3 | [sara346](https://hackerone.com/sara346) | 2022-03-26 |
+| 25 | [1320138](../reports/1320138.md) | No rate Limit on Password Reset page on upchieve | Medium | — | 3 | [rupachandransangothi](https://hackerone.com/rupachandransangothi) | 2022-03-26 |
 | 26 | [1166073](../reports/1166073.md) | Hyper Link Injection while signup  | Low | — | 19 | [011alsanosi](https://hackerone.com/011alsanosi) | 2022-06-15 |
 | 27 | [1561448](../reports/1561448.md) | Postgres Admin Username and Password in Plain text | Low | — | 12 | [guusverbeek](https://hackerone.com/guusverbeek) | 2026-01-06 |
 | 28 | [1166066](../reports/1166066.md) | No Rate Limit On Reset Password | Low | — | 12 | [scorpion_x](https://hackerone.com/scorpion_x) | 2021-08-31 |

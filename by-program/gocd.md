@@ -6,8 +6,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 |---|---|---|---|---|---|---|---|
 | 1 | [241244](../reports/241244.md) | Spring security configuration allows agent sessions to be hi | High | — | 6 | [4cad](https://hackerone.com/4cad) | 2018-07-31 |
 | 2 | [2433634](../reports/2433634.md) | XSS in GOCD Analytics Plugin | Medium — CVSS 4.3 | — | 28 | [aviv_keller](https://hackerone.com/aviv_keller) | 2024-03-27 |
-| 3 | [190247](../reports/190247.md) | Reflected XSS vector | Medium | — | 8 | [creased](https://hackerone.com/creased) | 2017-02-22 |
-| 4 | [240048](../reports/240048.md) | Imperfect CSRF To Overwrite Server Config at /go/admin/restf | Medium | — | 8 | [4cad](https://hackerone.com/4cad) | 2018-12-05 |
+| 3 | [240048](../reports/240048.md) | Imperfect CSRF To Overwrite Server Config at /go/admin/restf | Medium | — | 8 | [4cad](https://hackerone.com/4cad) | 2018-12-05 |
+| 4 | [190247](../reports/190247.md) | Reflected XSS vector | Medium | — | 8 | [creased](https://hackerone.com/creased) | 2017-02-22 |
 | 5 | [2419227](../reports/2419227.md) | XSS in new.loading.page.html | Low — CVSS 3.1 | — | 62 | [aviv_keller](https://hackerone.com/aviv_keller) | 2024-03-17 |
 | 6 | [1033832](../reports/1033832.md) | XSS In https://docs.gocd.org/current/ | Low | — | 14 | [0nlymohammed](https://hackerone.com/0nlymohammed) | 2020-11-13 |
 | 7 | [3509632](../reports/3509632.md) | Information Disclosure via Logback Configuration Injection i | None | — | 36 | [aigirl](https://hackerone.com/aigirl) | 2026-02-04 |

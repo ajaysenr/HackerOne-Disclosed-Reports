@@ -6,19 +6,19 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 |---|---|---|---|---|---|---|---|
 | 1 | [3578842](../reports/3578842.md) | SQL Injection vulnerability found on ibm.com endpoint | Critical — CVSS 9.3 | — | 127 | [cr3ckerxploit](https://hackerone.com/cr3ckerxploit) | 2026-03-12 |
 | 2 | [3088290](../reports/3088290.md) | Middleware Authentication Bypass on IBM Portal | Critical | — | 80 | [muhammadwaseem3](https://hackerone.com/muhammadwaseem3) | 2025-05-02 |
-| 3 | [2192984](../reports/2192984.md) | Unauthenticated Remote Access to Testing Endpoint | Critical | — | 67 | [sajidraza](https://hackerone.com/sajidraza) | 2023-12-04 |
-| 4 | [3458235](../reports/3458235.md) | [RCE] Remote Code Execution via  React Server Components Vul | Critical — CVSS 10.0 | — | 67 | [kanon4](https://hackerone.com/kanon4) | 2025-12-18 |
+| 3 | [3458235](../reports/3458235.md) | [RCE] Remote Code Execution via  React Server Components Vul | Critical — CVSS 10.0 | — | 67 | [kanon4](https://hackerone.com/kanon4) | 2025-12-18 |
+| 4 | [2192984](../reports/2192984.md) | Unauthenticated Remote Access to Testing Endpoint | Critical | — | 67 | [sajidraza](https://hackerone.com/sajidraza) | 2023-12-04 |
 | 5 | [3060373](../reports/3060373.md) | Path Traversal Vulnerability found on IBM Cloud | Critical | — | 63 | [0xnullbytex0](https://hackerone.com/0xnullbytex0) | 2025-05-07 |
 | 6 | [3463045](../reports/3463045.md) | Remote Code Execution identified on IBM endpoint. | Critical | — | 60 | [dara_7979](https://hackerone.com/dara_7979) | 2025-12-31 |
 | 7 | [2085185](../reports/2085185.md) | IDOR in upload videos of a Channel on https://video.ibm.com | Critical — CVSS 9.8 | — | 57 | [tusnj](https://hackerone.com/tusnj) | 2023-08-31 |
 | 8 | [1355817](../reports/1355817.md) | SQL Injection in IBM access control panel & Broken access in | Critical | — | 54 | [thecyberguy0](https://hackerone.com/thecyberguy0) | 2021-10-18 |
 | 9 | [2456603](../reports/2456603.md) | Insecure Direct Object Reference Protection bypass by changi | Critical — CVSS 9.3 | — | 53 | [suryahss](https://hackerone.com/suryahss) | 2024-05-01 |
 | 10 | [1379130](../reports/1379130.md) | Remote Code Execution at https://169.38.86.185/ (edst.ibm.co | Critical | — | 49 | [haxor31337](https://hackerone.com/haxor31337) | 2021-11-04 |
-| 11 | [2954547](../reports/2954547.md) | Weak credentials found in Jenkins endpoint | Critical | — | 40 | [roswell-47](https://hackerone.com/roswell-47) | 2025-02-05 |
-| 12 | [1567516](../reports/1567516.md) | sql injection via https://setup.p2p.ihost.com/ | Critical — CVSS 9.8 | — | 40 | [exploitmsf](https://hackerone.com/exploitmsf) | 2022-06-17 |
+| 11 | [1567516](../reports/1567516.md) | sql injection via https://setup.p2p.ihost.com/ | Critical — CVSS 9.8 | — | 40 | [exploitmsf](https://hackerone.com/exploitmsf) | 2022-06-17 |
+| 12 | [2954547](../reports/2954547.md) | Weak credentials found in Jenkins endpoint | Critical | — | 40 | [roswell-47](https://hackerone.com/roswell-47) | 2025-02-05 |
 | 13 | [1527284](../reports/1527284.md) | SQL injection in URL path processing on www.ibm.com | Critical — CVSS 9.3 | — | 35 | [asterite](https://hackerone.com/asterite) | 2022-05-06 |
-| 14 | [1994227](../reports/1994227.md) | response manipulation leads to bypass in register at employe | Critical | — | 30 | [ro0od](https://hackerone.com/ro0od) | 2023-06-21 |
-| 15 | [1670586](../reports/1670586.md) | Cleartext storage of sensitive information at https://stagin | Critical — CVSS 9.3 | — | 30 | [zere](https://hackerone.com/zere) | 2022-09-09 |
+| 14 | [1670586](../reports/1670586.md) | Cleartext storage of sensitive information at https://stagin | Critical — CVSS 9.3 | — | 30 | [zere](https://hackerone.com/zere) | 2022-09-09 |
+| 15 | [1994227](../reports/1994227.md) | response manipulation leads to bypass in register at employe | Critical | — | 30 | [ro0od](https://hackerone.com/ro0od) | 2023-06-21 |
 | 16 | [1954364](../reports/1954364.md) | Subdomain Takeover Affecting at  vex.weather.com | Critical | — | 25 | [gdattacker](https://hackerone.com/gdattacker) | 2023-05-10 |
 | 17 | [1492447](../reports/1492447.md) | Public Jenkins instance with /script enabled | Critical | — | 15 | [thesanjok](https://hackerone.com/thesanjok) | 2022-03-11 |
 | 18 | [1089583](../reports/1089583.md) | Insecure Object Permissions for Guest User leads to access t | Critical — CVSS 9.3 | — | 14 | [mocr7](https://hackerone.com/mocr7) | 2022-07-15 |

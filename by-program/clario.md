@@ -15,8 +15,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 9 | [733148](../reports/733148.md) | Reflected XSS on stage.mackeeper.com | Low | $60 | 3 | [karna__](https://hackerone.com/karna__) | 2020-05-15 |
 | 10 | [792725](../reports/792725.md) | Multiple Links Vulnerable to Reflected xss | Low | $50 | 4 | [dilawer](https://hackerone.com/dilawer) | 2020-05-17 |
 | 11 | [787054](../reports/787054.md) | Reflected xss on mackeeper.com | Low | $50 | 2 | [dilawer](https://hackerone.com/dilawer) | 2020-05-17 |
-| 12 | [790115](../reports/790115.md) | Reflected xss | Low | $50 | 2 | [dilawer](https://hackerone.com/dilawer) | 2020-05-17 |
-| 13 | [734418](../reports/734418.md) | Open Redirect at https://store.mackeeper.com/767/cookie via  | Low | $50 | 2 | [sec0ndw0lf](https://hackerone.com/sec0ndw0lf) | 2020-06-14 |
+| 12 | [734418](../reports/734418.md) | Open Redirect at https://store.mackeeper.com/767/cookie via  | Low | $50 | 2 | [sec0ndw0lf](https://hackerone.com/sec0ndw0lf) | 2020-06-14 |
+| 13 | [790115](../reports/790115.md) | Reflected xss | Low | $50 | 2 | [dilawer](https://hackerone.com/dilawer) | 2020-05-17 |
 | 14 | [730788](../reports/730788.md) | CRLF Injection - http://stage-static-cdn.mackeeper.com/ | Low | $50 | 1 | [kphaks](https://hackerone.com/kphaks) | 2020-05-25 |
 | 15 | [783117](../reports/783117.md) | IDOR at https://account.mackeeper.com/at/load-reports/profil | Medium — CVSS 5.0 | — | 18 | [m4ll0k](https://hackerone.com/m4ll0k) | 2020-05-15 |
 | 16 | [741549](../reports/741549.md) | Lack of HTTPS in service communications | Medium — CVSS 4.6 | — | 3 | [patient_zero](https://hackerone.com/patient_zero) | 2020-05-23 |

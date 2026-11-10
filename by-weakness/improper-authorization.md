@@ -27,8 +27,8 @@
 | 21 | [1627980](../reports/1627980.md) | Unauthenticated access to internal API at██████████.███.edu  [HtU | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High — CVSS 7.5 | — | 13 |
 | 22 | [1598749](../reports/1598749.md) | TikTok's pixel/sdk.js leaks current URL from websites using postM | [TikTok](../by-program/tiktok.md) | Medium — CVSS 5.9 | — | 78 |
 | 23 | [411337](../reports/411337.md) | Forget password link not expiring after email change. | [Chaturbate](../by-program/chaturbate.md) | Medium | — | 45 |
-| 24 | [254588](../reports/254588.md) | Removed staff members who had "Manage shops" permission can still | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.0 | — | 38 |
-| 25 | [1560149](../reports/1560149.md) | Tomcat Servlet Examples accessible at https://44.240.33.83:38443  | [Stripe](../by-program/stripe.md) | Medium | — | 38 |
+| 24 | [1560149](../reports/1560149.md) | Tomcat Servlet Examples accessible at https://44.240.33.83:38443  | [Stripe](../by-program/stripe.md) | Medium | — | 38 |
+| 25 | [254588](../reports/254588.md) | Removed staff members who had "Manage shops" permission can still | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.0 | — | 38 |
 | 26 | [855013](../reports/855013.md) | [www.stripo.email] You can override the speed limit by adding the | [Stripo Inc](../by-program/stripo.md) | Medium | — | 34 |
 | 27 | [1212374](../reports/1212374.md) | Oauth Misconfiguration Lead To Account Takeover | [Reddit](../by-program/reddit.md) | Medium — CVSS 6.8 | — | 18 |
 | 28 | [1091380](../reports/1091380.md) | [h1-2102] Partner's team member with no permission can retrieve s | [Shopify](../by-program/shopify.md) | Medium — CVSS 4.3 | — | 16 |

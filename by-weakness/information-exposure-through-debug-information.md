@@ -13,8 +13,8 @@
 | 7 | [2965143](../reports/2965143.md) | Django Debug Mode Enabled - Information Disclosure on api.wwm-dev | [Autodesk](../by-program/autodesk.md) | Medium — CVSS 5.3 | — | 81 |
 | 8 | [723090](../reports/723090.md) | [HTAF4-213] [Pre-submission] HTTPOnly session cookie exposure on  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium — CVSS 4.3 | — | 43 |
 | 9 | [315205](../reports/315205.md) | Debug information disclosure on oauth-redirector.services.greenho | [Greenhouse.io](../by-program/greenhouse.md) | Medium — CVSS 5.3 | — | 33 |
-| 10 | [1434276](../reports/1434276.md) | Information disclosure through django debug mode | [MTN Group](../by-program/mtn_group.md) | Medium | — | 8 |
-| 11 | [881186](../reports/881186.md) | [www.stripo.email] You can bypass the speed limit by changing the | [Stripo Inc](../by-program/stripo.md) | Medium | — | 8 |
+| 10 | [881186](../reports/881186.md) | [www.stripo.email] You can bypass the speed limit by changing the | [Stripo Inc](../by-program/stripo.md) | Medium | — | 8 |
+| 11 | [1434276](../reports/1434276.md) | Information disclosure through django debug mode | [MTN Group](../by-program/mtn_group.md) | Medium | — | 8 |
 | 12 | [214800](../reports/214800.md) | Default page exposes admin functions and all metods and classes a | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
 | 13 | [1020472](../reports/1020472.md) | System Error Reveals Sensitive SQL Call Data | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
 | 14 | [1272095](../reports/1272095.md) | System Error Reveals  SQL Information | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
