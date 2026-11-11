@@ -242868,6 +242868,25 @@
     "votes": 3
   },
   {
+    "id": 3943436,
+    "url": "https://hackerone.com/reports/3943436",
+    "title": "Unauthenticated attacker can book appointments at arbitrary times, including outside availability and in the past",
+    "visibility": "full",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "0xh3llo",
+    "severity": "low",
+    "cvss": 3.7,
+    "weakness": "Business Logic Errors",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-16",
+    "disclosed_at": "2026-11-11T00:50:21.945Z",
+    "votes": 2
+  },
+  {
     "id": 3952619,
     "url": "https://hackerone.com/reports/3952619",
     "title": "Domainless COOKIEFILE cookie leaks to unrelated IP-literal hosts",
