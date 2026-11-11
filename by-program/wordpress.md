@@ -1,4 +1,4 @@
-# WordPress — Disclosed Reports (99 total)
+# WordPress — Disclosed Reports (100 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -90,16 +90,17 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 84 | [224556](../reports/224556.md) | Self-XSS in WordPress Editor Link Modal | Low | — | 8 | [0xbarq](https://hackerone.com/0xbarq) | 2017-11-08 |
 | 85 | [258283](../reports/258283.md) | Clickjacking - https://mercantile.wordpress.org/ | Low | — | 8 | [giantfire](https://hackerone.com/giantfire) | 2017-08-28 |
 | 86 | [277502](../reports/277502.md) | [BuddyPress 2.9.1] Open Redirect via "wp_http_referer" param | Low | — | 7 | [ysx](https://hackerone.com/ysx) | 2017-11-02 |
-| 87 | [298218](../reports/298218.md) | antispambot does not always escape <, >, &, " and ' | Low | — | 3 | [flimm](https://hackerone.com/flimm) | 2019-09-16 |
-| 88 | [222692](../reports/222692.md) | plugins.trac.wordpress.org likely vulnerable to Cross Site T | None | — | 58 | [geeknik](https://hackerone.com/geeknik) | 2019-11-03 |
-| 89 | [221507](../reports/221507.md) | Multiple stored XSS in WordPress | None | — | 35 | [opnsec](https://hackerone.com/opnsec) | 2018-11-16 |
-| 90 | [149589](../reports/149589.md) | CSRF to add admin [wordpress] | None | — | 15 | [abdullah](https://hackerone.com/abdullah) | 2017-06-30 |
-| 91 | [309714](../reports/309714.md) | [support.wordcamp.org] - publicly accessible .svn repository | None | — | 12 | [kazan71p](https://hackerone.com/kazan71p) | 2018-02-01 |
-| 92 | [682344](../reports/682344.md) | Parameter tampering : Price Manipulation of Products | None | — | 9 | [ashketchum](https://hackerone.com/ashketchum) | 2019-08-29 |
-| 93 | [355773](../reports/355773.md) | XSS on support.wordcamp.org in ajax-quote.php | None | — | 9 | [mopman](https://hackerone.com/mopman) | 2018-07-23 |
-| 94 | [224214](../reports/224214.md) | Lack of Password Confirmation when Changing Password and Ema | None | — | 7 | [0xspade](https://hackerone.com/0xspade) | 2017-04-28 |
-| 95 | [153093](../reports/153093.md) | WordPress core  - Denial of Service via Cross Site Request F | None | — | 6 | [spipm](https://hackerone.com/spipm) | 2017-11-16 |
-| 96 | [267075](../reports/267075.md) | Clickjacking irclogs.wordpress.org | None | — | 2 | [sameull](https://hackerone.com/sameull) | 2017-10-12 |
-| 97 | [4100259](../reports/4100259.md) | Stored XSS in the Classic block element path | None | — | 2 | [pinkdraconian](https://hackerone.com/pinkdraconian) | 2026-11-11 |
-| 98 | [282843](../reports/282843.md) | UnResolved ChangeSet are Visible to Public That also Causes  | None | — | 1 | [hackerwahab](https://hackerone.com/hackerwahab) | 2018-02-05 |
-| 99 | [3460138](../reports/3460138.md) | Open Email Relay on WordPress Gutenberg Plugin via formActio | None | — | 1 | [zadwon](https://hackerone.com/zadwon) | 2026-11-08 |
+| 87 | [3863343](../reports/3863343.md) | DOM-based XSS in playground.wordpress.net (/scope:*/wp-inclu | Low | — | 3 | [ariverapoblet](https://hackerone.com/ariverapoblet) | 2026-11-11 |
+| 88 | [298218](../reports/298218.md) | antispambot does not always escape <, >, &, " and ' | Low | — | 3 | [flimm](https://hackerone.com/flimm) | 2019-09-16 |
+| 89 | [222692](../reports/222692.md) | plugins.trac.wordpress.org likely vulnerable to Cross Site T | None | — | 58 | [geeknik](https://hackerone.com/geeknik) | 2019-11-03 |
+| 90 | [221507](../reports/221507.md) | Multiple stored XSS in WordPress | None | — | 35 | [opnsec](https://hackerone.com/opnsec) | 2018-11-16 |
+| 91 | [149589](../reports/149589.md) | CSRF to add admin [wordpress] | None | — | 15 | [abdullah](https://hackerone.com/abdullah) | 2017-06-30 |
+| 92 | [309714](../reports/309714.md) | [support.wordcamp.org] - publicly accessible .svn repository | None | — | 12 | [kazan71p](https://hackerone.com/kazan71p) | 2018-02-01 |
+| 93 | [682344](../reports/682344.md) | Parameter tampering : Price Manipulation of Products | None | — | 9 | [ashketchum](https://hackerone.com/ashketchum) | 2019-08-29 |
+| 94 | [355773](../reports/355773.md) | XSS on support.wordcamp.org in ajax-quote.php | None | — | 9 | [mopman](https://hackerone.com/mopman) | 2018-07-23 |
+| 95 | [224214](../reports/224214.md) | Lack of Password Confirmation when Changing Password and Ema | None | — | 7 | [0xspade](https://hackerone.com/0xspade) | 2017-04-28 |
+| 96 | [153093](../reports/153093.md) | WordPress core  - Denial of Service via Cross Site Request F | None | — | 6 | [spipm](https://hackerone.com/spipm) | 2017-11-16 |
+| 97 | [267075](../reports/267075.md) | Clickjacking irclogs.wordpress.org | None | — | 2 | [sameull](https://hackerone.com/sameull) | 2017-10-12 |
+| 98 | [4100259](../reports/4100259.md) | Stored XSS in the Classic block element path | None | — | 2 | [pinkdraconian](https://hackerone.com/pinkdraconian) | 2026-11-11 |
+| 99 | [282843](../reports/282843.md) | UnResolved ChangeSet are Visible to Public That also Causes  | None | — | 1 | [hackerwahab](https://hackerone.com/hackerwahab) | 2018-02-05 |
+| 100 | [3460138](../reports/3460138.md) | Open Email Relay on WordPress Gutenberg Plugin via formActio | None | — | 1 | [zadwon](https://hackerone.com/zadwon) | 2026-11-08 |

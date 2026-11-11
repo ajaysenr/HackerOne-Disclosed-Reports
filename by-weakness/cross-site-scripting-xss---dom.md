@@ -1,4 +1,4 @@
-# Weakness: Cross-site Scripting (XSS) - DOM (128 reports)
+# Weakness: Cross-site Scripting (XSS) - DOM (129 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -127,8 +127,9 @@
 | 121 | [1167230](../reports/1167230.md) | DOM XSS в learning.ozon.ru | [Ozon](../by-program/ozon.md) | Low | — | 6 |
 | 122 | [729341](../reports/729341.md) | Double linking cause XSS (but blokeced by CSP in gitlab.com) | [GitLab](../by-program/gitlab.md) | Low | — | 6 |
 | 123 | [894518](../reports/894518.md) | xss on polaris.shopify.com/demo using postMessage | [Shopify](../by-program/shopify.md) | Low | — | 5 |
-| 124 | [3872858](../reports/3872858.md) | Stored HTML Injection (CWE-79) via Livechat Visitor Name | [Rocket.Chat](../by-program/rocket_chat.md) | Low | — | 2 |
-| 125 | [755354](../reports/755354.md) | Prevent XSS when passing a parameter directly into link_to  | [Ruby on Rails](../by-program/rails.md) | Low | — | 2 |
-| 126 | [341908](../reports/341908.md) | XSS via Direct Message deeplinks | [X / xAI](../by-program/x.md) | None | — | 234 |
-| 127 | [1670187](../reports/1670187.md) | Cross Site Scripting Vulnerability in fabric-sdk-py source code  | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | None | — | 9 |
-| 128 | [363845](../reports/363845.md) | Cross site scripting (content-sniffing) | [Liberapay](../by-program/liberapay.md) | None | — | 2 |
+| 124 | [3863343](../reports/3863343.md) | DOM-based XSS in playground.wordpress.net (/scope:*/wp-includes/e | [WordPress](../by-program/wordpress.md) | Low | — | 3 |
+| 125 | [3872858](../reports/3872858.md) | Stored HTML Injection (CWE-79) via Livechat Visitor Name | [Rocket.Chat](../by-program/rocket_chat.md) | Low | — | 2 |
+| 126 | [755354](../reports/755354.md) | Prevent XSS when passing a parameter directly into link_to  | [Ruby on Rails](../by-program/rails.md) | Low | — | 2 |
+| 127 | [341908](../reports/341908.md) | XSS via Direct Message deeplinks | [X / xAI](../by-program/x.md) | None | — | 234 |
+| 128 | [1670187](../reports/1670187.md) | Cross Site Scripting Vulnerability in fabric-sdk-py source code  | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | None | — | 9 |
+| 129 | [363845](../reports/363845.md) | Cross site scripting (content-sniffing) | [Liberapay](../by-program/liberapay.md) | None | — | 2 |

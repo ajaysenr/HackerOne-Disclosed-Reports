@@ -241716,6 +241716,25 @@
     "votes": 19
   },
   {
+    "id": 3863343,
+    "url": "https://hackerone.com/reports/3863343",
+    "title": "DOM-based XSS in playground.wordpress.net (/scope:*/wp-includes/empty.html) lets any attacker run JavaScript on the origin via a single crafted link",
+    "visibility": "full",
+    "program": "WordPress",
+    "program_handle": "wordpress",
+    "reporter": "ariverapoblet",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Cross-site Scripting (XSS) - DOM",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "WILDCARD",
+    "reported_at": "2026-07-14",
+    "disclosed_at": "2026-11-11T20:13:00.061Z",
+    "votes": 3
+  },
+  {
     "id": 3867358,
     "url": "https://hackerone.com/reports/3867358",
     "title": "MariaDB Low-Privilege User Can Exhaust Memory Through a Formatting Function and Crash the Service",

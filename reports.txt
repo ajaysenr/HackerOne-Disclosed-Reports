@@ -12367,6 +12367,7 @@ https://hackerone.com/reports/3858504 | connect.8x8.com: Automation Builder - In
 https://hackerone.com/reports/3859000 | Formula injection in conversion tracking report export
 https://hackerone.com/reports/3861550 | connect.8x8.com: Deserialization Vulnerability  in Automation Builder via Jint→Newtonsoft serializer coercion (TypeNameHandling)
 https://hackerone.com/reports/3862641 | IDOR allows user to access report details via reference.json endpoint
+https://hackerone.com/reports/3863343 | DOM-based XSS in playground.wordpress.net (/scope:*/wp-includes/empty.html) lets any attacker run JavaScript on the origin via a single crafted link
 https://hackerone.com/reports/3867358 | MariaDB Low-Privilege User Can Exhaust Memory Through a Formatting Function and Crash the Service
 https://hackerone.com/reports/3867363 | MariaDB HandlerSocket Improper Request Field-Count Validation Causes Server Crash
 https://hackerone.com/reports/3869124 | **Unauthenticated IDOR allows modification of payment customer billing information**
