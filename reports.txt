@@ -12335,10 +12335,12 @@ https://hackerone.com/reports/3824303 | UAF read in mev_pollset_diff() trace pat
 https://hackerone.com/reports/3824331 | Null Dereference in X509ToObject
 https://hackerone.com/reports/3825141 | API token sent to URL dictated by an untrusted project .weblate file
 https://hackerone.com/reports/3826199 | mbedTLS / wolfSSL / rustls backends silently skip hostname verification when CURLOPT_SSL_VERIFYPEER=0
+https://hackerone.com/reports/3826207 | Stored XSS via unescaped tracker name in append-code check
 https://hackerone.com/reports/3826843 | ssh_config_matches is dead code: unauthorized SSH key reuse
 https://hackerone.com/reports/3827674 | Authentication Bypass via XML Signature Wrapping in SAML SSO
 https://hackerone.com/reports/3829030 | Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption
 https://hackerone.com/reports/3830771 | Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` parameter
+https://hackerone.com/reports/3831102 | Access control bypass due to request precedence issue in global input registration
 https://hackerone.com/reports/3831345 | CURLSHOPT_UNSHARE race can cause UAF in shared SSL session cache during HTTPS transfer
 https://hackerone.com/reports/3831432 | setopt(VERIFYPEER) from callback bypasses TLS verify on connection reuse
 https://hackerone.com/reports/3832393 | libcurl upload read callbacks miss recursive API guard, allowing prohibited multi API reentry and ASAN-confirmed UAF
@@ -12362,6 +12364,7 @@ https://hackerone.com/reports/3852135 | DDP methods getThreadsList / getThreadMe
 https://hackerone.com/reports/3856148 | Low-privilege RCE in MariaDB: SYS_REFCURSOR cursor-array use-after-free chained with an ST_Area heap over-read
 https://hackerone.com/reports/3857258 | Reachable assertion in node:zlib sync API crashes the entire process via spoofed TypedArray byteLength (all 11 *Sync functions affected)
 https://hackerone.com/reports/3858504 | connect.8x8.com: Automation Builder - Input Validation Issue in Workflow Step Outputs
+https://hackerone.com/reports/3859000 | Formula injection in conversion tracking report export
 https://hackerone.com/reports/3861550 | connect.8x8.com: Deserialization Vulnerability  in Automation Builder via Jint→Newtonsoft serializer coercion (TypeNameHandling)
 https://hackerone.com/reports/3862641 | IDOR allows user to access report details via reference.json endpoint
 https://hackerone.com/reports/3867358 | MariaDB Low-Privilege User Can Exhaust Memory Through a Formatting Function and Crash the Service
@@ -12378,7 +12381,9 @@ https://hackerone.com/reports/3874004 | Incomplete fix for CVE-2022-23915: Mercu
 https://hackerone.com/reports/3876430 | MariaDB GRANT PROXY permits unauthorized authentication changes and administrator account takeover
 https://hackerone.com/reports/3878399 | Large-site Quick Edit reparses a Contributor display name into active HTML
 https://hackerone.com/reports/3878586 | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, hide_from_lists) and uses frozen visibility, exposing donat
+https://hackerone.com/reports/3878649 | Reflected XSS via wrong permission check in conversion statistics
 https://hackerone.com/reports/3880451 | Privilege escalation via user controlled usernames / roles and views
+https://hackerone.com/reports/3883840 | Cross-agency disclosure in website listing
 https://hackerone.com/reports/3887969 | SSRF via URL Parser Differential in `normalize_request_url` (wlc)
 https://hackerone.com/reports/3889473 | @jitsi/docker-jitsi-meet: `/colibri-relay-ws/` unsafe nginx regex (OCTO relay configuration)
 https://hackerone.com/reports/3889667 | ACL cache collision lets a role inherit privileges from a same-named socket user
@@ -12393,10 +12398,12 @@ https://hackerone.com/reports/3896507 | Server crash (stack-overflow DoS) via un
 https://hackerone.com/reports/3896617 | Connector/C TLS auth-switch bypass exposes plaintext password on hostname verification failure
 https://hackerone.com/reports/3896671 | Connector/C Out-of-bounds read in `unpack_fields()` from short metadata field
 https://hackerone.com/reports/3896684 | Connector/C Out-of-bounds read from unterminated GSSAPI SPN in `parse_server_packet()`
+https://hackerone.com/reports/3896779 | Blind SQL injection due to request precedence issue in global input registration
 https://hackerone.com/reports/3897236 | RCE in AWS Amplify CLI via Prototype Chain Traversal in amplify-velocity-template
 https://hackerone.com/reports/3897588 | KILL authorization trusts the presented login name instead of the authenticated anonymous account
 https://hackerone.com/reports/3897914 | Out-of-bounds read in MariaDB .frm parsing enables RCE via vtable hijacking
 https://hackerone.com/reports/3898281 | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process-global lock in Weblate
+https://hackerone.com/reports/3908050 | Reflected XSS via invocation iFrame size fields
 https://hackerone.com/reports/3908943 | DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_priv causing privilege escalation
 https://hackerone.com/reports/3909248 | MariaDB: heap buffer overflow in ha_tina::chain_append() lets a low-privileged user crash the server via CSV row deletion
 https://hackerone.com/reports/3909372 | Unauthorized vertical privilege escalation vulnerability found on ibm.com endpoint
@@ -12415,6 +12422,7 @@ https://hackerone.com/reports/3920647 | Connector/ODBC: MADB_Stmt::ArrayOffset i
 https://hackerone.com/reports/3923212 | URL API: triple-slash parses path segment as hostname
 https://hackerone.com/reports/3923520 | CVE-2026-19931: Negotiate ambient user conn reuse
 https://hackerone.com/reports/3923967 | WordPress 7.1 Media Processing Race Enables Persistent PHP File Write and Author-to-RCE
+https://hackerone.com/reports/3929216 | Cross-agency delivery rule set creation
 https://hackerone.com/reports/3930102 | CORS Misconfiguration / Broken Access Control
 https://hackerone.com/reports/3930957 | Myndr CORS Misconfiguration
 https://hackerone.com/reports/3931771 | Author → stored XSS in wp-admin: unescaped sub-size filename from attachment metadata breaks out of the `src` attribute in `get_media_item()`
@@ -12425,6 +12433,7 @@ https://hackerone.com/reports/3938190 | Windows SSPI connection-pool probe can r
 https://hackerone.com/reports/3938220 | libcurl cache updates follow symlinks and truncate their targets
 https://hackerone.com/reports/3938927 | An organization admin can create an attacker-controlled organization owner via the gem transfer flow
 https://hackerone.com/reports/3941626 | Instamojo CampTix: fail-open MAC + webhook Credit without binding payment to order
+https://hackerone.com/reports/3942028 | Reflected XSS via invocation banner ID field in admin-generate.php
 https://hackerone.com/reports/3942522 | wordpress.org Rosetta: invite stores unvalidated role — Editor can assign site Administrator despite editable_roles
 https://hackerone.com/reports/3943339 | One-click cross-account JavaScript execution steals a victim write token through Turbo pagination and unattached Active Storage HTML
 https://hackerone.com/reports/3943436 | Unauthenticated attacker can book appointments at arbitrary times, including outside availability and in the past
@@ -12432,6 +12441,7 @@ https://hackerone.com/reports/3952619 | Domainless COOKIEFILE cookie leaks to un
 https://hackerone.com/reports/3954327 | Unauthenticated access to Checkout Blocks employee-only endpoints exposed merchant metadata
 https://hackerone.com/reports/3955945 | curl_share TOCTOU > RCE via Curl_llist _dtor Function Pointer Hijack
 https://hackerone.com/reports/3955956 | launchpad.37signals.com OAuth AS issues victim-bound credential to unverified attacker redirect → full CIA triad on Basecamp API
+https://hackerone.com/reports/3958112 | Missing campaign ownership check in zone bulk linking
 https://hackerone.com/reports/3962304 | Improper certificate validation for non-canonical IPv4 hostnames allows DNS SANs to authenticate IP endpoints
 https://hackerone.com/reports/3962925 | Launchpad file read leaks production keys
 https://hackerone.com/reports/3963330 | libcurl Digest/NTLM authentication ignores an explicit Authorization header
@@ -12455,6 +12465,7 @@ https://hackerone.com/reports/3971538 | 27: IMAP custom FETCH listing classifica
 https://hackerone.com/reports/3971551 | 20: HTAB before `Secure` attribute silently drops the Secure cookie flag
 https://hackerone.com/reports/3971585 | 33: CONNECT_ONLY raw I/O selects wrong connection after CURLOPT_SHARE detach (incomplete fix for CVE-2020-8231)
 https://hackerone.com/reports/3971706 | 36: HTTP upload resume offset consumed twice after early 307/308 redirect
+https://hackerone.com/reports/3971985 | Reflected XSS in popup invocation options
 https://hackerone.com/reports/3972094 | CVE-2026-87861: cross-origin reuse of a Negotiate connection
 https://hackerone.com/reports/3972196 | 34: `curl_mprintf` reads `double` for documented `long double` conversions — uninitialized value disclosure
 https://hackerone.com/reports/3972293 | 43: HTTP proxy CONNECT header chooses the `-OJ` filename after a redirect
@@ -12495,6 +12506,7 @@ https://hackerone.com/reports/3976342 | IMAP connection reuse runs requests in t
 https://hackerone.com/reports/3979217 | Cross-account webhook takeover: PUT and DELETE on /<account>/webhooks/<id>.json reach another account's webhook
 https://hackerone.com/reports/3981292 | Cross-account XSS on app.basecamp.com: oEmbed option injection chained through Turbo defeats the CSP nonce
 https://hackerone.com/reports/3981716 | Cross-origin redirect reuses a pooled Negotiate-authenticated connection from an unrelated transfer
+https://hackerone.com/reports/3981932 | CSRF in tracker invocation page
 https://hackerone.com/reports/3987499 | Client-Side Denial of Service (DoS) via Memory Exhaustion on Password Reset Endpoint
 https://hackerone.com/reports/3988961 | Stored XSS on the public Pontoon dashboards: the latest-activity tooltip re-parses a contributor's account address as HTML
 https://hackerone.com/reports/3989514 | CVE-2026-87866: wolfSSL public-key pinning bypass
@@ -12554,6 +12566,7 @@ https://hackerone.com/reports/4064040 | Use-after-free read of the freed referer
 https://hackerone.com/reports/4071064 | Unauthenticated self-registration on ████████ grants full access to internal supplier procurement portal and vendor data
 https://hackerone.com/reports/4071670 | HackerOne Code: a live password reset token reaches Datadog RUM, and the same session records the account it unlocks
 https://hackerone.com/reports/4071872 | libcurl: Secure=1 cookie flag bypasses the 8.22.0 fix and leaks over HTTP
+https://hackerone.com/reports/4075098 | Unauthenticated reflected XSS in update history
 https://hackerone.com/reports/4077800 | Unescaped consent-prompt renderer (HTML()) enables concealed-approval OS command injection in strands-agents/tools use_computer — RCE
 https://hackerone.com/reports/4082665 | ActionText `to_markdown` still allows `javascript:` links in kramdown via Rails-generated table cells after PR #58754
 https://hackerone.com/reports/4085412 | Rustls backend discloses out-of-bounds heap data during legal IMAP upload cancellation
@@ -12563,6 +12576,7 @@ https://hackerone.com/reports/4094236 | Billion laughs entity expansion in Qt .t
 https://hackerone.com/reports/4098761 | HTTP/1.1 connection reuse returns unsolicited server data as the next request's response (regression in 8.22.0)
 https://hackerone.com/reports/4099194 | CVE-2026-107928: info leak uploading over WebSockets with GnuTLS
 https://hackerone.com/reports/4099618 | CVE-2026-107929: local interface connection reuse mixup
+https://hackerone.com/reports/4100259 | Stored XSS in the Classic block element path
 https://hackerone.com/reports/4102061 | CVE-2026-111480: pause UAF from within callback
 https://hackerone.com/reports/4103651 | TFTP accepts a first response from an IP other than the requested server
 https://hackerone.com/reports/4105790 | FTP authentication options leak to a cross-origin FTP redirect with unrestricted auth disabled
@@ -12572,6 +12586,7 @@ https://hackerone.com/reports/4112912 | CVE-2026-111481: server-set cookie still
 https://hackerone.com/reports/4113412 | libcurl RTSP `CURLOPT_CRLF` conversion allows a request body to become a second RTSP request
 https://hackerone.com/reports/4114965 | Explicit NO_PROXY /0 CIDR rules fail to bypass HTTP proxy for IP-literal requests
 https://hackerone.com/reports/4116076 | CVE-2026-111483: GnuTLS accepts non-successful OCSP staples
+https://hackerone.com/reports/4116433 | Stored XSS in report date selection
 https://hackerone.com/reports/4116527 | CVE-2026-111878: OpenSSL provider UAF on TLS shutdown
 https://hackerone.com/reports/4118610 | CVE-2026-111484: OpenSSL with SecTrust accepts bad OCSP staples
 https://hackerone.com/reports/4118643 | OpenSSL provider OSSL_LIB_CTX used after free via the connection shutdown list (CVE-2026-80229 fix incomplete)

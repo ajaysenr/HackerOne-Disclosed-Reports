@@ -241083,6 +241083,27 @@
     "votes": 0
   },
   {
+    "id": 3826207,
+    "url": "https://hackerone.com/reports/3826207",
+    "title": "Stored XSS via unescaped tracker name in append-code check",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "flasks",
+    "severity": "medium",
+    "cvss": 5.4,
+    "weakness": "Cross-site Scripting (XSS) - Stored",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-108562"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-06-26",
+    "disclosed_at": "2026-11-11T10:48:08.604Z",
+    "votes": 1
+  },
+  {
     "id": 3826843,
     "url": "https://hackerone.com/reports/3826843",
     "title": "ssh_config_matches is dead code: unauthorized SSH key reuse",
@@ -241160,6 +241181,27 @@
     "reported_at": "2026-06-29",
     "disclosed_at": "2026-06-30T12:12:58.268Z",
     "votes": 3
+  },
+  {
+    "id": 3831102,
+    "url": "https://hackerone.com/reports/3831102",
+    "title": "Access control bypass due to request precedence issue in global input registration",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "kushbafti",
+    "severity": "high",
+    "cvss": 8.1,
+    "weakness": "Insecure Direct Object Reference (IDOR)",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-107247"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-06-29",
+    "disclosed_at": "2026-11-11T10:43:46.710Z",
+    "votes": 0
   },
   {
     "id": 3831345,
@@ -241615,6 +241657,27 @@
     "votes": 7
   },
   {
+    "id": 3859000,
+    "url": "https://hackerone.com/reports/3859000",
+    "title": "Formula injection in conversion tracking report export",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "baptoutatis",
+    "severity": "medium",
+    "cvss": 4.7,
+    "weakness": "Code Injection",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-108563"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-07-12",
+    "disclosed_at": "2026-11-11T10:48:17.864Z",
+    "votes": 3
+  },
+  {
     "id": 3861550,
     "url": "https://hackerone.com/reports/3861550",
     "title": "connect.8x8.com: Deserialization Vulnerability  in Automation Builder via Jint\u2192Newtonsoft serializer coercion (TypeNameHandling)",
@@ -241922,6 +241985,27 @@
     "votes": 12
   },
   {
+    "id": 3878649,
+    "url": "https://hackerone.com/reports/3878649",
+    "title": "Reflected XSS via wrong permission check in conversion statistics",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "7yr",
+    "severity": "medium",
+    "cvss": 6.1,
+    "weakness": "Cross-site Scripting (XSS) - Reflected",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-108558"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-07-21",
+    "disclosed_at": "2026-11-11T10:47:18.543Z",
+    "votes": 3
+  },
+  {
     "id": 3880451,
     "url": "https://hackerone.com/reports/3880451",
     "title": "Privilege escalation via user controlled usernames / roles and views",
@@ -241939,6 +242023,27 @@
     "reported_at": "2026-07-22",
     "disclosed_at": "2026-10-07T19:48:29.880Z",
     "votes": 2
+  },
+  {
+    "id": 3883840,
+    "url": "https://hackerone.com/reports/3883840",
+    "title": "Cross-agency disclosure in website listing",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "shmulc8",
+    "severity": "medium",
+    "cvss": 4.3,
+    "weakness": "Insecure Direct Object Reference (IDOR)",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-68485"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-07-23",
+    "disclosed_at": "2026-11-11T10:48:54.566Z",
+    "votes": 3
   },
   {
     "id": 3887969,
@@ -242209,6 +242314,27 @@
     "votes": 0
   },
   {
+    "id": 3896779,
+    "url": "https://hackerone.com/reports/3896779",
+    "title": "Blind SQL injection due to request precedence issue in global input registration",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "sh4d0byss",
+    "severity": "high",
+    "cvss": 8.8,
+    "weakness": "SQL Injection",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-107662"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-07-28",
+    "disclosed_at": "2026-11-11T10:37:02.906Z",
+    "votes": 1
+  },
+  {
     "id": 3897236,
     "url": "https://hackerone.com/reports/3897236",
     "title": "RCE in AWS Amplify CLI via Prototype Chain Traversal in amplify-velocity-template",
@@ -242283,6 +242409,27 @@
     "reported_at": "2026-07-29",
     "disclosed_at": "2026-09-04T08:10:22.596Z",
     "votes": 6
+  },
+  {
+    "id": 3908050,
+    "url": "https://hackerone.com/reports/3908050",
+    "title": "Reflected XSS via invocation iFrame size fields",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "kannrisha",
+    "severity": "medium",
+    "cvss": 6.1,
+    "weakness": "Cross-site Scripting (XSS) - Reflected",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-108559"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-01",
+    "disclosed_at": "2026-11-11T10:46:19.405Z",
+    "votes": 0
   },
   {
     "id": 3908943,
@@ -242638,6 +242785,27 @@
     "votes": 3
   },
   {
+    "id": 3929216,
+    "url": "https://hackerone.com/reports/3929216",
+    "title": "Cross-agency delivery rule set creation",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "vidang04",
+    "severity": "medium",
+    "cvss": 4.3,
+    "weakness": "Insecure Direct Object Reference (IDOR)",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-82978"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-10",
+    "disclosed_at": "2026-11-11T10:49:04.629Z",
+    "votes": 2
+  },
+  {
     "id": 3930102,
     "url": "https://hackerone.com/reports/3930102",
     "title": "CORS Misconfiguration / Broken Access Control",
@@ -242830,6 +242998,27 @@
     "votes": 4
   },
   {
+    "id": 3942028,
+    "url": "https://hackerone.com/reports/3942028",
+    "title": "Reflected XSS via invocation banner ID field in admin-generate.php",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "blasterx24",
+    "severity": "medium",
+    "cvss": 4.7,
+    "weakness": "Cross-site Scripting (XSS) - Reflected",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-108564"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-15",
+    "disclosed_at": "2026-11-11T10:48:46.021Z",
+    "votes": 2
+  },
+  {
     "id": 3942522,
     "url": "https://hackerone.com/reports/3942522",
     "title": "wordpress.org Rosetta: invite stores unvalidated role \u2014 Editor can assign site Administrator despite editable_roles",
@@ -242961,6 +243150,27 @@
     "reported_at": "2026-08-20",
     "disclosed_at": "2026-10-30T13:40:05.079Z",
     "votes": 5
+  },
+  {
+    "id": 3958112,
+    "url": "https://hackerone.com/reports/3958112",
+    "title": "Missing campaign ownership check in zone bulk linking",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "miauuu",
+    "severity": "medium",
+    "cvss": 5.4,
+    "weakness": "Insecure Direct Object Reference (IDOR)",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-68486"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-21",
+    "disclosed_at": "2026-11-11T10:46:30.585Z",
+    "votes": 0
   },
   {
     "id": 3962304,
@@ -243415,6 +243625,27 @@
     "reported_at": "2026-08-26",
     "disclosed_at": "2026-09-07T21:06:05.657Z",
     "votes": 2
+  },
+  {
+    "id": 3971985,
+    "url": "https://hackerone.com/reports/3971985",
+    "title": "Reflected XSS in popup invocation options",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "miauuu",
+    "severity": "medium",
+    "cvss": 4.7,
+    "weakness": "Cross-site Scripting (XSS) - Reflected",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-108565"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-26",
+    "disclosed_at": "2026-11-11T10:46:38.141Z",
+    "votes": 1
   },
   {
     "id": 3972094,
@@ -244215,6 +244446,27 @@
     "reported_at": "2026-08-31",
     "disclosed_at": "2026-10-15T07:19:15.463Z",
     "votes": 0
+  },
+  {
+    "id": 3981932,
+    "url": "https://hackerone.com/reports/3981932",
+    "title": "CSRF in tracker invocation page",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "abhi_hackz",
+    "severity": "medium",
+    "cvss": 4.3,
+    "weakness": "Cross-Site Request Forgery (CSRF)",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-77168"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-31",
+    "disclosed_at": "2026-11-11T10:49:17.699Z",
+    "votes": 3
   },
   {
     "id": 3987499,
@@ -245397,6 +245649,27 @@
     "votes": 1
   },
   {
+    "id": 4075098,
+    "url": "https://hackerone.com/reports/4075098",
+    "title": "Unauthenticated reflected XSS in update history",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "mlopez01",
+    "severity": "medium",
+    "cvss": 6.1,
+    "weakness": "Cross-site Scripting (XSS) - Reflected",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-108560"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-01",
+    "disclosed_at": "2026-11-11T10:46:22.491Z",
+    "votes": 0
+  },
+  {
     "id": 4077800,
     "url": "https://hackerone.com/reports/4077800",
     "title": "Unescaped consent-prompt renderer (HTML()) enables concealed-approval OS command injection in strands-agents/tools use_computer \u2014 RCE",
@@ -245574,6 +245847,25 @@
     "reported_at": "2026-10-09",
     "disclosed_at": "2026-10-14T07:36:52.946Z",
     "votes": 1
+  },
+  {
+    "id": 4100259,
+    "url": "https://hackerone.com/reports/4100259",
+    "title": "Stored XSS in the Classic block element path",
+    "visibility": "full",
+    "program": "WordPress",
+    "program_handle": "wordpress",
+    "reporter": "pinkdraconian",
+    "severity": "none",
+    "cvss": 0.0,
+    "weakness": "Cross-site Scripting (XSS) - Stored",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-09",
+    "disclosed_at": "2026-11-11T12:42:34.128Z",
+    "votes": 2
   },
   {
     "id": 4102061,
@@ -245758,6 +246050,27 @@
     "reported_at": "2026-10-15",
     "disclosed_at": "2026-10-26T07:21:03.311Z",
     "votes": 1
+  },
+  {
+    "id": 4116433,
+    "url": "https://hackerone.com/reports/4116433",
+    "title": "Stored XSS in report date selection",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "mlopez01",
+    "severity": "medium",
+    "cvss": 6.1,
+    "weakness": "Cross-site Scripting (XSS) - Stored",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-108561"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-15",
+    "disclosed_at": "2026-11-11T10:46:25.154Z",
+    "votes": 0
   },
   {
     "id": 4116527,
