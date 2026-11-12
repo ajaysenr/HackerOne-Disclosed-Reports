@@ -1,4 +1,4 @@
-# Basecamp — Disclosed Reports (57 total)
+# Basecamp — Disclosed Reports (58 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -60,4 +60,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 54 | [1253926](../reports/1253926.md) | Domain Takeover [3737signals.com] | Low | — | 47 | [mrmax4o4](https://hackerone.com/mrmax4o4) | 2021-08-13 |
 | 55 | [981796](../reports/981796.md) | Information Disclosure of Garbage Collection Cycle | Low | — | 33 | [ahmd_halabi](https://hackerone.com/ahmd_halabi) | 2020-11-04 |
 | 56 | [1307943](../reports/1307943.md) | Privilege Escalation leads to trash other users comment with | Low | — | 9 | [fuzzsqlb0f](https://hackerone.com/fuzzsqlb0f) | 2021-12-01 |
-| 57 | [1020371](../reports/1020371.md) | User can upload files even after closing his account | None | — | 122 | [h4x0r_dz](https://hackerone.com/h4x0r_dz) | 2021-03-29 |
+| 57 | [4151790](../reports/4151790.md) | Public board pages are served Cache-Control: public with no  | Low — CVSS 3.1 | — | 1 | [audion](https://hackerone.com/audion) | 2026-11-12 |
+| 58 | [1020371](../reports/1020371.md) | User can upload files even after closing his account | None | — | 122 | [h4x0r_dz](https://hackerone.com/h4x0r_dz) | 2021-03-29 |

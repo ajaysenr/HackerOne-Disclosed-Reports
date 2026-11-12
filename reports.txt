@@ -12636,6 +12636,7 @@ https://hackerone.com/reports/4135826 | --cert-status with OpenSSL accepts a sta
 https://hackerone.com/reports/4136767 | CVE-2026-115529: Schannel TLS auto client session resumption
 https://hackerone.com/reports/4137523 | CURL_NETRC_REQUIRED sends the URL password when the .netrc file has no matching entry
 https://hackerone.com/reports/4147581 | Incomplete IDN hostname check on the transfer path can lead to credential disclosure to an unintended host
+https://hackerone.com/reports/4151790 | Public board pages are served Cache-Control: public with no Vary: Cookie, so a   signed-in visitor's response is cached at the edge and returned to ev
 https://hackerone.com/reports/4152553 | Unauthenticated Disclosure of Private, Draft, and Password-Protected Post Content via Core Read-Permission Bypass in SCF Reference Fields
 https://hackerone.com/reports/4152726 | Blind SQL Injection — IBM Training Course Search API
 https://hackerone.com/reports/4166602 | Re-entrant curl_easy_pause UAF in cw-pause

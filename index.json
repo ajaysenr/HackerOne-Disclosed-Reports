@@ -247078,6 +247078,25 @@
     "votes": 0
   },
   {
+    "id": 4151790,
+    "url": "https://hackerone.com/reports/4151790",
+    "title": "Public board pages are served Cache-Control: public with no Vary: Cookie, so a   signed-in visitor's response is cached at the edge and returned to ev",
+    "visibility": "full",
+    "program": "Basecamp",
+    "program_handle": "basecamp",
+    "reporter": "audion",
+    "severity": "low",
+    "cvss": 3.1,
+    "weakness": "Information Disclosure",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-10-27",
+    "disclosed_at": "2026-11-12T10:53:15.452Z",
+    "votes": 1
+  },
+  {
     "id": 4152553,
     "url": "https://hackerone.com/reports/4152553",
     "title": "Unauthenticated Disclosure of Private, Draft, and Password-Protected Post Content via Core Read-Permission Bypass in SCF Reference Fields",
