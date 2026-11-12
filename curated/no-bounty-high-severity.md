@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2456 total)
+# High/Critical Severity — No Bounty Paid (2457 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -2195,6 +2195,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [2818009](../reports/2818009.md) | Missing ^ Line Beginner Leads to Origin Spoofing | [MetaMask](../by-program/metamask.md) | High — CVSS 8.7 | Resolved | 5 |
 | [996273](../reports/996273.md) | SSRF in login page using fetch API exposes victims IP address to  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 5 |
 | [381758](../reports/381758.md) | sql injection on  /messagecenter/messagingcenter at https://www.█ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 5 |
+| [4110110](../reports/4110110.md) | HTTP/2 stream teardown can send freed response memory to the peer | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | Resolved | 5 |
 | [3816330](../reports/3816330.md) | Monero IPv6 /128 tracking bypasses per-IP limit, enables remote O | [Monero](../by-program/monero.md) | High — CVSS 7.5 | Resolved | 5 |
 | [200034](../reports/200034.md) | [marketplace.informatica.com] Search XSS | [Informatica](../by-program/informatica.md) | High | Resolved | 5 |
 | [323975](../reports/323975.md) | CSRF in Inviting users | [Ping Identity](../by-program/pingidentity.md) | High | Resolved | 5 |

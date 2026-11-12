@@ -242451,6 +242451,27 @@
     "votes": 0
   },
   {
+    "id": 3908163,
+    "url": "https://hackerone.com/reports/3908163",
+    "title": "HTTPS Agent reuses TLS authentication state across distinct secureContext policies",
+    "visibility": "no-content",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "mickeyjoe",
+    "severity": "medium",
+    "cvss": 6.8,
+    "weakness": "Improper Certificate Validation",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-123877"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-08-01",
+    "disclosed_at": "2026-11-12T14:13:08.242Z",
+    "votes": 7
+  },
+  {
     "id": 3908943,
     "url": "https://hackerone.com/reports/3908943",
     "title": "DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_priv causing privilege escalation",
@@ -245564,6 +245585,25 @@
     "votes": 2
   },
   {
+    "id": 4062639,
+    "url": "https://hackerone.com/reports/4062639",
+    "title": "Unauthenticated UCP/MCP catalog access on a password-protected dev store",
+    "visibility": "full",
+    "program": "Shopify",
+    "program_handle": "shopify",
+    "reporter": "c2at3x",
+    "severity": "none",
+    "cvss": null,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "informative",
+    "asset_type": "URL",
+    "reported_at": "2026-09-26",
+    "disclosed_at": "2026-11-12T19:58:24.681Z",
+    "votes": 3
+  },
+  {
     "id": 4063328,
     "url": "https://hackerone.com/reports/4063328",
     "title": "curl tool: --hsts is ignored for a schemeless URL starting with a slash under --proto-default http",
@@ -245963,6 +246003,27 @@
     "reported_at": "2026-10-11",
     "disclosed_at": "2026-10-19T09:13:30.904Z",
     "votes": 1
+  },
+  {
+    "id": 4110110,
+    "url": "https://hackerone.com/reports/4110110",
+    "title": "HTTP/2 stream teardown can send freed response memory to the peer",
+    "visibility": "no-content",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "aidan02",
+    "severity": "high",
+    "cvss": 7.5,
+    "weakness": "Use After Free",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-123866"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-13",
+    "disclosed_at": "2026-11-12T15:46:51.489Z",
+    "votes": 5
   },
   {
     "id": 4112709,

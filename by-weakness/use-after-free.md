@@ -1,4 +1,4 @@
-# Weakness: Use After Free (87 reports)
+# Weakness: Use After Free (88 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -26,68 +26,69 @@
 | 20 | [247028](../reports/247028.md) | CVE-2017-10966: Heap-use-after-free in Irssi <1.0.4 | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 5 |
 | 21 | [3833629](../reports/3833629.md) | Re-entrant `nghttp2_session_mem_send()` during `nghttp2_session_m | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | — | 5 |
 | 22 | [3682666](../reports/3682666.md) | Use-after-free in `curl_easy_ssls_export()` during callback re-en | [curl](../by-program/curl.md) | High | — | 5 |
-| 23 | [260414](../reports/260414.md) | CVE-2017-12858: Heap UAF in _zip_buffer_free() / Double free in _ | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 3 |
-| 24 | [677557](../reports/677557.md) | mod_http2, memory corruption on early pushes (CVE-2019-10081) | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.6 | — | 3 |
-| 25 | [3915935](../reports/3915935.md) | Heap Use-After-Free in Materialized_cursor::open via SYS_REFCURSO | [MariaDB](../by-program/mariadb.md) | High — CVSS 8.8 | — | 2 |
-| 26 | [4030333](../reports/4030333.md) | CVE-2026-92392: HTTP/2 upload Use-After-Free | [curl](../by-program/curl.md) | High | — | 1 |
-| 27 | [3591944](../reports/3591944.md) | CVE-2026-3805: use after free in SMB connection reuse | [curl](../by-program/curl.md) | Medium | — | 33 |
-| 28 | [3638715](../reports/3638715.md) | Use-After-Free race condition in url_move_hostname() via shared c | [curl](../by-program/curl.md) | Medium | — | 23 |
-| 29 | [1913733](../reports/1913733.md) | CVE-2023-28319: UAF in SSH sha256 fingerprint check | [curl](../by-program/curl.md) | Medium | — | 20 |
-| 30 | [3302518](../reports/3302518.md) | ## Title  Heap Use-After-Free Vulnerability in `curl` Leading to  | [curl](../by-program/curl.md) | Medium | — | 19 |
-| 31 | [3355213](../reports/3355213.md) | Use-after-free when POST body buffer is freed before transfer | [curl](../by-program/curl.md) | Medium | — | 16 |
-| 32 | [259390](../reports/259390.md) | Use-after-free in XML::LibXML::Node::replaceChild | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.6 | — | 15 |
-| 33 | [371135](../reports/371135.md) | CVE-2018-12882: heap-use-after-free in PHP 7.2 through 7.2.6, pos | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 13 |
-| 34 | [261335](../reports/261335.md) | Heap Use After Free Read in unserialize() | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 11 |
-| 35 | [261338](../reports/261338.md) | Heap Use After Free in unserialize() | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 7 |
-| 36 | [245956](../reports/245956.md) | Use-after-free in PHP7's unserialize() | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 6 |
-| 37 | [180909](../reports/180909.md) | Use-after-free in ArrayObject Deserialization | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 4 |
-| 38 | [527042](../reports/527042.md) | CVE-2019-0196: mod_http2 with scoreboard Use-After-Free (Read) | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.3 | — | 4 |
-| 39 | [198732](../reports/198732.md) | Use After Free in unserialize() | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 4 |
-| 40 | [221289](../reports/221289.md) | heap-use-after-free in Sass::SharedPtr::incRefCount() | [LibSass](../by-program/libsass.md) | Medium | — | 4 |
-| 41 | [3911968](../reports/3911968.md) | Heap use-after-free (write) in mev_forget_socket() via reentrant  | [curl](../by-program/curl.md) | Medium | — | 3 |
-| 42 | [680415](../reports/680415.md) | mod_http2, read-after-free in h2 connection shutdown (CVE-2019-10 | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 2 |
-| 43 | [1997312](../reports/1997312.md) | CVE-2023-28319: UAF in SSH sha256 fingerprint check | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 2 |
-| 44 | [692040](../reports/692040.md) | PHP 7.3.3: Heap-use-after-free (READ of size 8) in match_at() | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 2 |
-| 45 | [672245](../reports/672245.md) | Use After Free in GC with Certain Destructors | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 0 |
-| 46 | [4122239](../reports/4122239.md) | CVE-2026-111952: OpenSSL provider use-after-free again | [curl](../by-program/curl.md) | Medium | — | 0 |
-| 47 | [950299](../reports/950299.md) | Use after free vulnerability  in phar_parse_zipfile | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 0 |
-| 48 | [4033971](../reports/4033971.md) | Use-after-free of the internal multi->admin easy handle via the d | [curl](../by-program/curl.md) | Medium | — | 0 |
-| 49 | [2779070](../reports/2779070.md) | Memory Leak in bytes_to_hexstring Function | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | Low | — | 25 |
-| 50 | [481532](../reports/481532.md) | heap-use-after-free (READ of size 8) in main() | [PuTTY (European Commission - DIGIT)](../by-program/putty_h1c.md) | Low — CVSS 3.1 | — | 22 |
-| 51 | [1764858](../reports/1764858.md) | CVE-2022-43552: HTTP Proxy deny use-after-free | [curl](../by-program/curl.md) | Low | — | 16 |
-| 52 | [3916059](../reports/3916059.md) | CVE-2026-18924: HTTP/2 server push UAF | [curl](../by-program/curl.md) | Low | — | 10 |
-| 53 | [511317](../reports/511317.md) | Potential use-after-free due to struct array_entry_t lacking an e | [Monero](../by-program/monero.md) | Low | — | 9 |
-| 54 | [3774279](../reports/3774279.md) | heap-use-after-free in state.referer when CURLOPT_REFERER replace | [curl](../by-program/curl.md) | Low | — | 3 |
-| 55 | [3824303](../reports/3824303.md) | UAF read in mev_pollset_diff() trace path after curl_easy_pause() | [curl](../by-program/curl.md) | Low | — | 3 |
-| 56 | [3823985](../reports/3823985.md) | Use-after-free in `mev_forget_socket` when `curl_easy_pause()` is | [curl](../by-program/curl.md) | Low | — | 2 |
-| 57 | [3749204](../reports/3749204.md) | CVE-2026-9080: UAF after pause in socket callback | [curl](../by-program/curl.md) | Low | — | 2 |
-| 58 | [3754343](../reports/3754343.md) | CVE-2026-9546: sending old referer | [curl](../by-program/curl.md) | Low | — | 2 |
-| 59 | [724134](../reports/724134.md) | Race condition with CURL_LOCK_DATA_CONNECT can cause connections  | [curl](../by-program/curl.md) | Low | — | 1 |
-| 60 | [4118643](../reports/4118643.md) | OpenSSL provider OSSL_LIB_CTX used after free via the connection  | [curl](../by-program/curl.md) | Low | — | 1 |
-| 61 | [1463013](../reports/1463013.md) | Occasional use-after-free in multi_done() libcurl-7.81.0 | [curl](../by-program/curl.md) | Low | — | 1 |
-| 62 | [707006](../reports/707006.md) | use after free in cookie.c | [curl](../by-program/curl.md) | Low | — | 1 |
-| 63 | [4124722](../reports/4124722.md) |  WebSocket send queue use-after-free during nested curl_ws_send() | [curl](../by-program/curl.md) | Low | — | 0 |
-| 64 | [4135291](../reports/4135291.md) | Heap-use-after-free in libcurl's multi event machinery (curl_mult | [curl](../by-program/curl.md) | Low | — | 0 |
-| 65 | [4123190](../reports/4123190.md) | CVE-2026-111954: upload reader failed redirect UAF | [curl](../by-program/curl.md) | Low | — | 0 |
-| 66 | [4116527](../reports/4116527.md) | CVE-2026-111878: OpenSSL provider UAF on TLS shutdown | [curl](../by-program/curl.md) | Low | — | 0 |
-| 67 | [4166602](../reports/4166602.md) | Re-entrant curl_easy_pause UAF in cw-pause | [curl](../by-program/curl.md) | Low | — | 0 |
-| 68 | [4102061](../reports/4102061.md) | CVE-2026-111480: pause UAF from within callback | [curl](../by-program/curl.md) | Low | — | 0 |
-| 69 | [895769](../reports/895769.md) | [3DS][SSL] Use of uninitialized class member leads to RCE in eSho | [Nintendo](../by-program/nintendo.md) | None | — | 38 |
-| 70 | [3283232](../reports/3283232.md) | Use After Free (that leads to arbitrary Write for some versions)  | [curl](../by-program/curl.md) | None | — | 30 |
-| 71 | [3022041](../reports/3022041.md) | Use after free (read) in curl_multi_perform with DoH and Proxy op | [curl](../by-program/curl.md) | None | — | 26 |
-| 72 | [3261310](../reports/3261310.md) | OpenSSL HTTP/3 bogus CURLINFO_TLS_SSL_PTR | [curl](../by-program/curl.md) | None | — | 21 |
-| 73 | [3516202](../reports/3516202.md) | Cookie Replacement Use-After-Free Vulnerability | [curl](../by-program/curl.md) | None | — | 21 |
-| 74 | [3580247](../reports/3580247.md) | Use after free in hyperfifo example | [curl](../by-program/curl.md) | None | — | 19 |
-| 75 | [3264469](../reports/3264469.md) | Use after free (or assert triggered) with failed allocations in o | [curl](../by-program/curl.md) | None | — | 15 |
-| 76 | [3771144](../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_version in  | [MariaDB](../by-program/mariadb.md) | None | — | 10 |
-| 77 | [3508701](../reports/3508701.md) | Use-After-Free in curl_easy_nextheader when reusing header handle | [curl](../by-program/curl.md) | None | — | 8 |
-| 78 | [3037326](../reports/3037326.md) | Free of uninitialized pointer in doh_decode_rdata_name() | [curl](../by-program/curl.md) | None | — | 8 |
-| 79 | [3733934](../reports/3733934.md) | CURLOPT_HSTS_CTRL disables shared HSTS without share guard — use- | [curl](../by-program/curl.md) | None | — | 5 |
-| 80 | [3833577](../reports/3833577.md) | heap-use-after-free in curl_easy_cleanup() called from callback | [curl](../by-program/curl.md) | None | — | 4 |
-| 81 | [295276](../reports/295276.md) | heap-use-after-free in OP_RESCUE | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 4 |
-| 82 | [3751701](../reports/3751701.md) | Use-after-free in `curl_easy_duphandle()` with HTTP/2 stream-depe | [curl](../by-program/curl.md) | None | — | 3 |
-| 83 | [3973213](../reports/3973213.md) | 54: Rejected HTTP/2 push destroys MIME callback state still used  | [curl](../by-program/curl.md) | None | — | 3 |
-| 84 | [340053](../reports/340053.md) | Use After Free in crypto.randomFill | [Node.js](../by-program/nodejs.md) | None | — | 2 |
-| 85 | [4123749](../reports/4123749.md) | WebSocket decoder use-after-free when curl_easy_pause() unpauses  | [curl](../by-program/curl.md) | None | — | 1 |
-| 86 | [3831345](../reports/3831345.md) | CURLSHOPT_UNSHARE race can cause UAF in shared SSL session cache  | [curl](../by-program/curl.md) | None | — | 1 |
-| 87 | [4033108](../reports/4033108.md) | Retry-independent time-condition HTTP/2 UAF | [curl](../by-program/curl.md) | None | — | 0 |
+| 23 | [4110110](../reports/4110110.md) | HTTP/2 stream teardown can send freed response memory to the peer | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | — | 5 |
+| 24 | [260414](../reports/260414.md) | CVE-2017-12858: Heap UAF in _zip_buffer_free() / Double free in _ | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 3 |
+| 25 | [677557](../reports/677557.md) | mod_http2, memory corruption on early pushes (CVE-2019-10081) | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.6 | — | 3 |
+| 26 | [3915935](../reports/3915935.md) | Heap Use-After-Free in Materialized_cursor::open via SYS_REFCURSO | [MariaDB](../by-program/mariadb.md) | High — CVSS 8.8 | — | 2 |
+| 27 | [4030333](../reports/4030333.md) | CVE-2026-92392: HTTP/2 upload Use-After-Free | [curl](../by-program/curl.md) | High | — | 1 |
+| 28 | [3591944](../reports/3591944.md) | CVE-2026-3805: use after free in SMB connection reuse | [curl](../by-program/curl.md) | Medium | — | 33 |
+| 29 | [3638715](../reports/3638715.md) | Use-After-Free race condition in url_move_hostname() via shared c | [curl](../by-program/curl.md) | Medium | — | 23 |
+| 30 | [1913733](../reports/1913733.md) | CVE-2023-28319: UAF in SSH sha256 fingerprint check | [curl](../by-program/curl.md) | Medium | — | 20 |
+| 31 | [3302518](../reports/3302518.md) | ## Title  Heap Use-After-Free Vulnerability in `curl` Leading to  | [curl](../by-program/curl.md) | Medium | — | 19 |
+| 32 | [3355213](../reports/3355213.md) | Use-after-free when POST body buffer is freed before transfer | [curl](../by-program/curl.md) | Medium | — | 16 |
+| 33 | [259390](../reports/259390.md) | Use-after-free in XML::LibXML::Node::replaceChild | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.6 | — | 15 |
+| 34 | [371135](../reports/371135.md) | CVE-2018-12882: heap-use-after-free in PHP 7.2 through 7.2.6, pos | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 13 |
+| 35 | [261335](../reports/261335.md) | Heap Use After Free Read in unserialize() | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 11 |
+| 36 | [261338](../reports/261338.md) | Heap Use After Free in unserialize() | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 7 |
+| 37 | [245956](../reports/245956.md) | Use-after-free in PHP7's unserialize() | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 6 |
+| 38 | [180909](../reports/180909.md) | Use-after-free in ArrayObject Deserialization | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 4 |
+| 39 | [527042](../reports/527042.md) | CVE-2019-0196: mod_http2 with scoreboard Use-After-Free (Read) | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 5.3 | — | 4 |
+| 40 | [198732](../reports/198732.md) | Use After Free in unserialize() | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 4 |
+| 41 | [221289](../reports/221289.md) | heap-use-after-free in Sass::SharedPtr::incRefCount() | [LibSass](../by-program/libsass.md) | Medium | — | 4 |
+| 42 | [3911968](../reports/3911968.md) | Heap use-after-free (write) in mev_forget_socket() via reentrant  | [curl](../by-program/curl.md) | Medium | — | 3 |
+| 43 | [680415](../reports/680415.md) | mod_http2, read-after-free in h2 connection shutdown (CVE-2019-10 | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 2 |
+| 44 | [1997312](../reports/1997312.md) | CVE-2023-28319: UAF in SSH sha256 fingerprint check | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 2 |
+| 45 | [692040](../reports/692040.md) | PHP 7.3.3: Heap-use-after-free (READ of size 8) in match_at() | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 2 |
+| 46 | [672245](../reports/672245.md) | Use After Free in GC with Certain Destructors | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 0 |
+| 47 | [4122239](../reports/4122239.md) | CVE-2026-111952: OpenSSL provider use-after-free again | [curl](../by-program/curl.md) | Medium | — | 0 |
+| 48 | [950299](../reports/950299.md) | Use after free vulnerability  in phar_parse_zipfile | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 0 |
+| 49 | [4033971](../reports/4033971.md) | Use-after-free of the internal multi->admin easy handle via the d | [curl](../by-program/curl.md) | Medium | — | 0 |
+| 50 | [2779070](../reports/2779070.md) | Memory Leak in bytes_to_hexstring Function | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | Low | — | 25 |
+| 51 | [481532](../reports/481532.md) | heap-use-after-free (READ of size 8) in main() | [PuTTY (European Commission - DIGIT)](../by-program/putty_h1c.md) | Low — CVSS 3.1 | — | 22 |
+| 52 | [1764858](../reports/1764858.md) | CVE-2022-43552: HTTP Proxy deny use-after-free | [curl](../by-program/curl.md) | Low | — | 16 |
+| 53 | [3916059](../reports/3916059.md) | CVE-2026-18924: HTTP/2 server push UAF | [curl](../by-program/curl.md) | Low | — | 10 |
+| 54 | [511317](../reports/511317.md) | Potential use-after-free due to struct array_entry_t lacking an e | [Monero](../by-program/monero.md) | Low | — | 9 |
+| 55 | [3774279](../reports/3774279.md) | heap-use-after-free in state.referer when CURLOPT_REFERER replace | [curl](../by-program/curl.md) | Low | — | 3 |
+| 56 | [3824303](../reports/3824303.md) | UAF read in mev_pollset_diff() trace path after curl_easy_pause() | [curl](../by-program/curl.md) | Low | — | 3 |
+| 57 | [3823985](../reports/3823985.md) | Use-after-free in `mev_forget_socket` when `curl_easy_pause()` is | [curl](../by-program/curl.md) | Low | — | 2 |
+| 58 | [3749204](../reports/3749204.md) | CVE-2026-9080: UAF after pause in socket callback | [curl](../by-program/curl.md) | Low | — | 2 |
+| 59 | [3754343](../reports/3754343.md) | CVE-2026-9546: sending old referer | [curl](../by-program/curl.md) | Low | — | 2 |
+| 60 | [724134](../reports/724134.md) | Race condition with CURL_LOCK_DATA_CONNECT can cause connections  | [curl](../by-program/curl.md) | Low | — | 1 |
+| 61 | [4118643](../reports/4118643.md) | OpenSSL provider OSSL_LIB_CTX used after free via the connection  | [curl](../by-program/curl.md) | Low | — | 1 |
+| 62 | [1463013](../reports/1463013.md) | Occasional use-after-free in multi_done() libcurl-7.81.0 | [curl](../by-program/curl.md) | Low | — | 1 |
+| 63 | [707006](../reports/707006.md) | use after free in cookie.c | [curl](../by-program/curl.md) | Low | — | 1 |
+| 64 | [4124722](../reports/4124722.md) |  WebSocket send queue use-after-free during nested curl_ws_send() | [curl](../by-program/curl.md) | Low | — | 0 |
+| 65 | [4135291](../reports/4135291.md) | Heap-use-after-free in libcurl's multi event machinery (curl_mult | [curl](../by-program/curl.md) | Low | — | 0 |
+| 66 | [4123190](../reports/4123190.md) | CVE-2026-111954: upload reader failed redirect UAF | [curl](../by-program/curl.md) | Low | — | 0 |
+| 67 | [4116527](../reports/4116527.md) | CVE-2026-111878: OpenSSL provider UAF on TLS shutdown | [curl](../by-program/curl.md) | Low | — | 0 |
+| 68 | [4166602](../reports/4166602.md) | Re-entrant curl_easy_pause UAF in cw-pause | [curl](../by-program/curl.md) | Low | — | 0 |
+| 69 | [4102061](../reports/4102061.md) | CVE-2026-111480: pause UAF from within callback | [curl](../by-program/curl.md) | Low | — | 0 |
+| 70 | [895769](../reports/895769.md) | [3DS][SSL] Use of uninitialized class member leads to RCE in eSho | [Nintendo](../by-program/nintendo.md) | None | — | 38 |
+| 71 | [3283232](../reports/3283232.md) | Use After Free (that leads to arbitrary Write for some versions)  | [curl](../by-program/curl.md) | None | — | 30 |
+| 72 | [3022041](../reports/3022041.md) | Use after free (read) in curl_multi_perform with DoH and Proxy op | [curl](../by-program/curl.md) | None | — | 26 |
+| 73 | [3261310](../reports/3261310.md) | OpenSSL HTTP/3 bogus CURLINFO_TLS_SSL_PTR | [curl](../by-program/curl.md) | None | — | 21 |
+| 74 | [3516202](../reports/3516202.md) | Cookie Replacement Use-After-Free Vulnerability | [curl](../by-program/curl.md) | None | — | 21 |
+| 75 | [3580247](../reports/3580247.md) | Use after free in hyperfifo example | [curl](../by-program/curl.md) | None | — | 19 |
+| 76 | [3264469](../reports/3264469.md) | Use after free (or assert triggered) with failed allocations in o | [curl](../by-program/curl.md) | None | — | 15 |
+| 77 | [3771144](../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_version in  | [MariaDB](../by-program/mariadb.md) | None | — | 10 |
+| 78 | [3508701](../reports/3508701.md) | Use-After-Free in curl_easy_nextheader when reusing header handle | [curl](../by-program/curl.md) | None | — | 8 |
+| 79 | [3037326](../reports/3037326.md) | Free of uninitialized pointer in doh_decode_rdata_name() | [curl](../by-program/curl.md) | None | — | 8 |
+| 80 | [3733934](../reports/3733934.md) | CURLOPT_HSTS_CTRL disables shared HSTS without share guard — use- | [curl](../by-program/curl.md) | None | — | 5 |
+| 81 | [3833577](../reports/3833577.md) | heap-use-after-free in curl_easy_cleanup() called from callback | [curl](../by-program/curl.md) | None | — | 4 |
+| 82 | [295276](../reports/295276.md) | heap-use-after-free in OP_RESCUE | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 4 |
+| 83 | [3751701](../reports/3751701.md) | Use-after-free in `curl_easy_duphandle()` with HTTP/2 stream-depe | [curl](../by-program/curl.md) | None | — | 3 |
+| 84 | [3973213](../reports/3973213.md) | 54: Rejected HTTP/2 push destroys MIME callback state still used  | [curl](../by-program/curl.md) | None | — | 3 |
+| 85 | [340053](../reports/340053.md) | Use After Free in crypto.randomFill | [Node.js](../by-program/nodejs.md) | None | — | 2 |
+| 86 | [4123749](../reports/4123749.md) | WebSocket decoder use-after-free when curl_easy_pause() unpauses  | [curl](../by-program/curl.md) | None | — | 1 |
+| 87 | [3831345](../reports/3831345.md) | CURLSHOPT_UNSHARE race can cause UAF in shared SSL session cache  | [curl](../by-program/curl.md) | None | — | 1 |
+| 88 | [4033108](../reports/4033108.md) | Retry-independent time-condition HTTP/2 UAF | [curl](../by-program/curl.md) | None | — | 0 |

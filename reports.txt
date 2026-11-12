@@ -12405,6 +12405,7 @@ https://hackerone.com/reports/3897588 | KILL authorization trusts the presented 
 https://hackerone.com/reports/3897914 | Out-of-bounds read in MariaDB .frm parsing enables RCE via vtable hijacking
 https://hackerone.com/reports/3898281 | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process-global lock in Weblate
 https://hackerone.com/reports/3908050 | Reflected XSS via invocation iFrame size fields
+https://hackerone.com/reports/3908163 | HTTPS Agent reuses TLS authentication state across distinct secureContext policies
 https://hackerone.com/reports/3908943 | DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_priv causing privilege escalation
 https://hackerone.com/reports/3909248 | MariaDB: heap buffer overflow in ha_tina::chain_append() lets a low-privileged user crash the server via CSV row deletion
 https://hackerone.com/reports/3909372 | Unauthorized vertical privilege escalation vulnerability found on ibm.com endpoint
@@ -12562,6 +12563,7 @@ https://hackerone.com/reports/4053546 | Information Disclosure - Unauthen Leak P
 https://hackerone.com/reports/4057637 | [HIGH] CWE-22 — Path Traversal in FTP Wildcard Download via Unencoded `.` in Escaped Filenames
 https://hackerone.com/reports/4059104 | IMAP literal size truncation on 32-bit platforms corrupts downloads and desynchronizes the response parser
 https://hackerone.com/reports/4062511 | `Vary` cache-key conflation of absent and empty request fields
+https://hackerone.com/reports/4062639 | Unauthenticated UCP/MCP catalog access on a password-protected dev store
 https://hackerone.com/reports/4063328 | curl tool: --hsts is ignored for a schemeless URL starting with a slash under --proto-default http
 https://hackerone.com/reports/4064040 | Use-after-free read of the freed referer buffer in `curl_easy_setopt(CURLOPT_REFERER)` — stale heap bytes transmitted in an outbound `Referer:` heade
 https://hackerone.com/reports/4071064 | Unauthenticated self-registration on ████████ grants full access to internal supplier procurement portal and vendor data
@@ -12582,6 +12584,7 @@ https://hackerone.com/reports/4102061 | CVE-2026-111480: pause UAF from within c
 https://hackerone.com/reports/4103651 | TFTP accepts a first response from an IP other than the requested server
 https://hackerone.com/reports/4105790 | FTP authentication options leak to a cross-origin FTP redirect with unrestricted auth disabled
 https://hackerone.com/reports/4105853 | libcurl TLS shorter-retry mismatch discloses client heap memory during cancelled IMAPS upload
+https://hackerone.com/reports/4110110 | HTTP/2 stream teardown can send freed response memory to the peer
 https://hackerone.com/reports/4112709 | CVE-2026-111482: libssh2 knownhosts prefix match
 https://hackerone.com/reports/4112912 | CVE-2026-111481: server-set cookie still aborts cookie jar
 https://hackerone.com/reports/4113412 | libcurl RTSP `CURLOPT_CRLF` conversion allows a request body to become a second RTSP request
