@@ -12523,6 +12523,7 @@ https://hackerone.com/reports/3996423 | Permission Model filesystem over-grant v
 https://hackerone.com/reports/3999856 | A third-party Basecamp OAuth token mints a full launchpad web session through GET /my/login_option
 https://hackerone.com/reports/4000084 | A disabled account's API key still works on BMO's Mojolicious /rest/ routes, including for security-group bugs filed after the disable
 https://hackerone.com/reports/4000185 | HackerOne Code sends live password-reset tokens to Segment in automatic page events
+https://hackerone.com/reports/4000535 | Burp Community OpenAPI site-map action reads a local schema example through $id rebasing
 https://hackerone.com/reports/4006744 | TLS certificate hostname bypass when the host loosely resolves to an IP address
 https://hackerone.com/reports/4007917 | One Strict-Transport-Security response header empties the victim's entire HSTS store, silently,
 https://hackerone.com/reports/4016541 | TLS session resumption client cert bypass with CURLOPT_SSL_CTX_FUNCTION
@@ -12643,4 +12644,5 @@ https://hackerone.com/reports/4151790 | Public board pages are served Cache-Cont
 https://hackerone.com/reports/4152553 | Unauthenticated Disclosure of Private, Draft, and Password-Protected Post Content via Core Read-Permission Bypass in SCF Reference Fields
 https://hackerone.com/reports/4152726 | Blind SQL Injection — IBM Training Course Search API
 https://hackerone.com/reports/4166602 | Re-entrant curl_easy_pause UAF in cw-pause
+https://hackerone.com/reports/4175245 | Cross-account stored XSS on app.basecamp.com leads to persistent administrator takeover
 https://hackerone.com/reports/4177724 | curl 8.23.0 keeps sending requests to an HTTP/3 backend after Alt-Svc: clear

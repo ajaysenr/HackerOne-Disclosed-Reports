@@ -64,14 +64,14 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 58 | [1202408](../reports/1202408.md) | No Rate Limit on redditgifts gift  when Adding Comment | Low | — | 25 | [gaurav-bhatia](https://hackerone.com/gaurav-bhatia) | 2021-10-21 |
 | 59 | [1165225](../reports/1165225.md) | [dubsmash] Username and password bruteforce | Low — CVSS 3.9 | — | 18 | [asce21](https://hackerone.com/asce21) | 2021-12-13 |
 | 60 | [785833](../reports/785833.md) | registering with the same email address multiple times leads | Low | — | 10 | [whitehacker18](https://hackerone.com/whitehacker18) | 2022-03-14 |
-| 61 | [1609004](../reports/1609004.md) | Rate limit is implemented in Reddit , but its not working .  | Low | — | 8 | [suryanm](https://hackerone.com/suryanm) | 2023-05-18 |
-| 62 | [1165285](../reports/1165285.md) | No Rate limit on change password leads to account takeover | Low | — | 8 | [dreamispossible](https://hackerone.com/dreamispossible) | 2021-12-13 |
+| 61 | [1165285](../reports/1165285.md) | No Rate limit on change password leads to account takeover | Low | — | 8 | [dreamispossible](https://hackerone.com/dreamispossible) | 2021-12-13 |
+| 62 | [1609004](../reports/1609004.md) | Rate limit is implemented in Reddit , but its not working .  | Low | — | 8 | [suryanm](https://hackerone.com/suryanm) | 2023-05-18 |
 | 63 | [1276733](../reports/1276733.md) | S3 bucket Upload on studio.redditinc.com (s3-r-w.ap-east-1.a | Low — CVSS 2.1 | — | 4 | [dinesh07](https://hackerone.com/dinesh07) | 2021-10-21 |
 | 64 | [1165919](../reports/1165919.md) | Content Spoofing | Low | — | 1 | [abdallah1911](https://hackerone.com/abdallah1911) | 2021-10-21 |
 | 65 | [1815463](../reports/1815463.md) | oauth misconfigration lead to account takeover | None | — | 10 | [greymanx1](https://hackerone.com/greymanx1) | 2023-05-18 |
 | 66 | [1209098](../reports/1209098.md) |  XSS | None | — | 10 | [shylo](https://hackerone.com/shylo) | 2021-10-21 |
 | 67 | [1461207](../reports/1461207.md) | Broken links make users from France unable to understand the | None | — | 6 | [ardyanv1ckyramadhan](https://hackerone.com/ardyanv1ckyramadhan) | 2023-05-18 |
 | 68 | [1167029](../reports/1167029.md) | Broken Authendication And Session Management | None | — | 5 | [kedibeauty](https://hackerone.com/kedibeauty) | 2021-10-21 |
-| 69 | [1182824](../reports/1182824.md) | Vulnerability Name: URL Redirection / Unvalidate Open Redire | None | — | 2 | [hasnain_123](https://hackerone.com/hasnain_123) | 2021-10-21 |
-| 70 | [1243009](../reports/1243009.md) | No Password Length Restriction leads to Denial of Service | None | — | 2 | [c_j_27](https://hackerone.com/c_j_27) | 2021-10-21 |
+| 69 | [1243009](../reports/1243009.md) | No Password Length Restriction leads to Denial of Service | None | — | 2 | [c_j_27](https://hackerone.com/c_j_27) | 2021-10-21 |
+| 70 | [1182824](../reports/1182824.md) | Vulnerability Name: URL Redirection / Unvalidate Open Redire | None | — | 2 | [hasnain_123](https://hackerone.com/hasnain_123) | 2021-10-21 |
 | 71 | [1166770](../reports/1166770.md) | Content Spoofing/Text Injection at https://gateway-productio | None | — | 1 | [karthik86](https://hackerone.com/karthik86) | 2021-10-27 |

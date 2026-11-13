@@ -244787,6 +244787,25 @@
     "votes": 13
   },
   {
+    "id": 4000535,
+    "url": "https://hackerone.com/reports/4000535",
+    "title": "Burp Community OpenAPI site-map action reads a local schema example through $id rebasing",
+    "visibility": "full",
+    "program": "PortSwigger Web Security",
+    "program_handle": "portswigger",
+    "reporter": "1rhino2",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Path Traversal",
+    "bounty": 1000.0,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "DOWNLOADABLE_EXECUTABLES",
+    "reported_at": "2026-09-05",
+    "disclosed_at": "2026-11-13T10:31:44.748Z",
+    "votes": 18
+  },
+  {
     "id": 4006744,
     "url": "https://hackerone.com/reports/4006744",
     "title": "TLS certificate hostname bypass when the host loosely resolves to an IP address",
@@ -247213,6 +247232,25 @@
     "reported_at": "2026-11-02",
     "disclosed_at": "2026-11-03T13:06:55.971Z",
     "votes": 0
+  },
+  {
+    "id": 4175245,
+    "url": "https://hackerone.com/reports/4175245",
+    "title": "Cross-account stored XSS on app.basecamp.com leads to persistent administrator takeover",
+    "visibility": "full",
+    "program": "Basecamp",
+    "program_handle": "basecamp",
+    "reporter": "matty69v",
+    "severity": "high",
+    "cvss": 8.7,
+    "weakness": "Cross-site Scripting (XSS) - Stored",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-11-05",
+    "disclosed_at": "2026-11-13T13:07:18.553Z",
+    "votes": 14
   },
   {
     "id": 4177724,

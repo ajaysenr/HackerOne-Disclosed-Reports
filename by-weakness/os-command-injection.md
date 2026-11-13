@@ -35,8 +35,8 @@
 | 29 | [924151](../reports/924151.md) | Insecure use of shell.openExternal() in Rocket.Chat Desktop App l | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 9.0 | — | 12 |
 | 30 | [685447](../reports/685447.md) | gitlabhook OS Command Injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 10 |
 | 31 | [341710](../reports/341710.md) | [git-dummy-commit] Command injection on the msg parameter | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 5 |
-| 32 | [331032](../reports/331032.md) | [buttle] Remote Command Execution via unsanitized PHP filename wh | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 4 |
-| 33 | [634630](../reports/634630.md) | Remote OS command Execution in the 3 more Oracle Weblogic on the  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
+| 32 | [634630](../reports/634630.md) | Remote OS command Execution in the 3 more Oracle Weblogic on the  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
+| 33 | [331032](../reports/331032.md) | [buttle] Remote Command Execution via unsanitized PHP filename wh | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 4 |
 | 34 | [511459](../reports/511459.md) | [listening-processes] Command Injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 0 |
 | 35 | [546753](../reports/546753.md) | Remote Code Execution via Extract App Plugin | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 8.4 | — | 124 |
 | 36 | [955016](../reports/955016.md) | GitLab-Runner on Windows `DOCKER_AUTH_CONFIG` container host Comm | [GitLab](../by-program/gitlab.md) | High | — | 77 |
@@ -56,8 +56,8 @@
 | 50 | [881548](../reports/881548.md) | Default credentials for the temporary POC site alipoc.stg.starbuc | [Starbucks](../by-program/starbucks.md) | Medium — CVSS 6.7 | — | 19 |
 | 51 | [690010](../reports/690010.md) | OS Command Injection on Jison [all-parser-ports] | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium | — | 14 |
 | 52 | [1161691](../reports/1161691.md) | OS Command Injection in 'rdoc' documentation generator | [Ruby](../by-program/ruby.md) | Medium — CVSS 6.4 | — | 7 |
-| 53 | [1158824](../reports/1158824.md) | OS Command Injection in '/lib/un.rb -- Utilities to replace commo | [Ruby](../by-program/ruby.md) | Medium — CVSS 6.4 | — | 4 |
-| 54 | [1710652](../reports/1710652.md) | DNS rebinding in --inspect via invalid octal IP address | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.8 | — | 4 |
+| 53 | [1710652](../reports/1710652.md) | DNS rebinding in --inspect via invalid octal IP address | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.8 | — | 4 |
+| 54 | [1158824](../reports/1158824.md) | OS Command Injection in '/lib/un.rb -- Utilities to replace commo | [Ruby](../by-program/ruby.md) | Medium — CVSS 6.4 | — | 4 |
 | 55 | [4077800](../reports/4077800.md) | Unescaped consent-prompt renderer (HTML()) enables concealed-appr | [AWS VDP](../by-program/aws_vdp.md) | Medium | — | 3 |
 | 56 | [282628](../reports/282628.md) | OS Command Execution on User's PC via CSV Injection | [X / xAI](../by-program/x.md) | Medium | — | 2 |
 | 57 | [386116](../reports/386116.md) | CSV Injection with the CSV export feature | [Chaturbate](../by-program/chaturbate.md) | Low — CVSS 3.1 | — | 14 |
