@@ -4,7 +4,7 @@
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |---|---|---|---|---|---|---|
-| 1 | [1434179](../reports/1434179.md) | Broken Domain Link Takeover from kubernetes.io docs | [Kubernetes](../by-program/kubernetes.md) | Low | $100 | 17 |
-| 2 | [1466889](../reports/1466889.md) | Broken link hijacking in https://kubernetes-csi.github.io/docs/dr | [Kubernetes](../by-program/kubernetes.md) | Low | $100 | 17 |
+| 1 | [1466889](../reports/1466889.md) | Broken link hijacking in https://kubernetes-csi.github.io/docs/dr | [Kubernetes](../by-program/kubernetes.md) | Low | $100 | 17 |
+| 2 | [1434179](../reports/1434179.md) | Broken Domain Link Takeover from kubernetes.io docs | [Kubernetes](../by-program/kubernetes.md) | Low | $100 | 17 |
 | 3 | [692360](../reports/692360.md) | UNRESTRICTED FILE UPLOAD AT chat.makerdao.com | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | High | — | 1 |
 | 4 | [4125257](../reports/4125257.md) | Symlink-following truncation of arbitrary files in `Curl_fopen()` | [curl](../by-program/curl.md) | Low | — | 0 |

@@ -7,8 +7,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 1 | [2794126](../reports/2794126.md) | CVE-2020-5902  | Critical — CVSS 9.8 | — | 43 | [perigou](https://hackerone.com/perigou) | 2024-12-24 |
 | 2 | [3205667](../reports/3205667.md) | XSS on Amazon Aquisition:  elemental | High | — | 83 | [muhammad_kasim](https://hackerone.com/muhammad_kasim) | 2025-07-22 |
 | 3 | [2731133](../reports/2731133.md) | External service interaction (HTTP) | High — CVSS 8.2 | — | 61 | [hesham_elsheme](https://hackerone.com/hesham_elsheme) | 2024-10-04 |
-| 4 | [2808412](../reports/2808412.md) | A potential risk in the experimental-programmatic-access-ccf | High — CVSS 7.3 | — | 55 | [zolaer9527](https://hackerone.com/zolaer9527) | 2024-11-06 |
-| 5 | [2787650](../reports/2787650.md) | Reflected XSS on Amazon EC2 Instance | High — CVSS 7.2 | — | 55 | [perigou](https://hackerone.com/perigou) | 2024-12-24 |
+| 4 | [2787650](../reports/2787650.md) | Reflected XSS on Amazon EC2 Instance | High — CVSS 7.2 | — | 55 | [perigou](https://hackerone.com/perigou) | 2024-12-24 |
+| 5 | [2808412](../reports/2808412.md) | A potential risk in the experimental-programmatic-access-ccf | High — CVSS 7.3 | — | 55 | [zolaer9527](https://hackerone.com/zolaer9527) | 2024-11-06 |
 | 6 | [2784712](../reports/2784712.md) | Information Disclosure Due To exposed .env file (Directory L | High — CVSS 7.5 | — | 46 | [necr0mancer](https://hackerone.com/necr0mancer) | 2024-10-22 |
 | 7 | [3797662](../reports/3797662.md) | SQL Injection via Unsanitized Identifiers and String Literal | High | — | 11 | [suul](https://hackerone.com/suul) | 2026-11-09 |
 | 8 | [3633123](../reports/3633123.md) |  Incomplete Input Sanitization in CodeInterpreter install_pa | High — CVSS 7.3 | — | 10 | [mistercloudsec](https://hackerone.com/mistercloudsec) | 2026-09-16 |
@@ -31,24 +31,24 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 25 | [3328291](../reports/3328291.md) | Existence of completed pods allows for bypass of Kubernetes  | Medium — CVSS 4.3 | — | 28 | [savannabungee](https://hackerone.com/savannabungee) | 2025-11-19 |
 | 26 | [3021618](../reports/3021618.md) | Non-Production API Endpoint for the EventBridge Service Fail | Medium | — | 26 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
 | 27 | [2951803](../reports/2951803.md) | Non-Production API Endpoints for the bedrock Service Fail to | Medium — CVSS 4.3 | — | 25 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
-| 28 | [3419587](../reports/3419587.md) | AWS Auto Scaling Service Reporting "AWS Internal" for CloudT | Medium | — | 23 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2026-01-05 |
-| 29 | [2972435](../reports/2972435.md) | Non-Production API Endpoints for the cloudwatch Service Fail | Medium — CVSS 5.0 | — | 23 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-04-25 |
-| 30 | [3029552](../reports/3029552.md) | Non-Production API Endpoints for the Global Accelerator Serv | Medium | — | 23 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
+| 28 | [2972435](../reports/2972435.md) | Non-Production API Endpoints for the cloudwatch Service Fail | Medium — CVSS 5.0 | — | 23 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-04-25 |
+| 29 | [3029552](../reports/3029552.md) | Non-Production API Endpoints for the Global Accelerator Serv | Medium | — | 23 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
+| 30 | [3419587](../reports/3419587.md) | AWS Auto Scaling Service Reporting "AWS Internal" for CloudT | Medium | — | 23 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2026-01-05 |
 | 31 | [3042588](../reports/3042588.md) | Non-Production API Endpoints for the Health Service Fail to  | Medium — CVSS 5.0 | — | 21 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
 | 32 | [2805173](../reports/2805173.md) | A potential risk in the cloudFrontExtensionsConsole which ca | Medium — CVSS 6.5 | — | 21 | [zolaer9527](https://hackerone.com/zolaer9527) | 2024-11-19 |
-| 33 | [3418966](../reports/3418966.md) | Non-Production API Endpoints for the AI Ops Service Fails to | Medium | — | 18 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2026-01-06 |
-| 34 | [3031512](../reports/3031512.md) | Non-Production API Endpoints for the Glue Service Fail to Lo | Medium | — | 18 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-04-25 |
-| 35 | [3072841](../reports/3072841.md) | Amazon Pinpoint SMS and Voice, version 2  Service Reporting  | Medium | — | 18 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
+| 33 | [3031512](../reports/3031512.md) | Non-Production API Endpoints for the Glue Service Fail to Lo | Medium | — | 18 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-04-25 |
+| 34 | [3072841](../reports/3072841.md) | Amazon Pinpoint SMS and Voice, version 2  Service Reporting  | Medium | — | 18 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
+| 35 | [3418966](../reports/3418966.md) | Non-Production API Endpoints for the AI Ops Service Fails to | Medium | — | 18 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2026-01-06 |
 | 36 | [3068422](../reports/3068422.md) | Non-Production API Endpoints for the Neptune Graph Service F | Medium | — | 17 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-27 |
 | 37 | [3044471](../reports/3044471.md) | Amazon Kendra Intelligent Ranking Service Reporting "AWS Int | Medium — CVSS 5.0 | — | 16 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-28 |
 | 38 | [3092085](../reports/3092085.md) | Non-Production API Endpoints for the Route 53 Service Fail t | Medium | — | 14 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2025-05-27 |
-| 39 | [3630605](../reports/3630605.md) | Kiro IDE Stores Auth Tokens with World-Readable Permissions  | Medium — CVSS 5.5 | — | 5 | [mistercloudsec](https://hackerone.com/mistercloudsec) | 2026-07-09 |
-| 40 | [3620748](../reports/3620748.md) | V1Plugin.Decrypt panics on empty ciphertext (Remote DoS) | Medium | — | 5 | [misop00p](https://hackerone.com/misop00p) | 2026-05-28 |
+| 39 | [3620748](../reports/3620748.md) | V1Plugin.Decrypt panics on empty ciphertext (Remote DoS) | Medium | — | 5 | [misop00p](https://hackerone.com/misop00p) | 2026-05-28 |
+| 40 | [3630605](../reports/3630605.md) | Kiro IDE Stores Auth Tokens with World-Readable Permissions  | Medium — CVSS 5.5 | — | 5 | [mistercloudsec](https://hackerone.com/mistercloudsec) | 2026-07-09 |
 | 41 | [3620753](../reports/3620753.md) | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS) | Medium | — | 4 | [misop00p](https://hackerone.com/misop00p) | 2026-05-28 |
-| 42 | [3633146](../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust S | Medium | — | 3 | [mistercloudsec](https://hackerone.com/mistercloudsec) | 2026-07-28 |
-| 43 | [4077800](../reports/4077800.md) | Unescaped consent-prompt renderer (HTML()) enables concealed | Medium | — | 3 | [hope_no_dupe](https://hackerone.com/hope_no_dupe) | 2026-11-06 |
-| 44 | [3780277](../reports/3780277.md) | Non-Production API Endpoints for the Amazon S3 Tables Servic | Medium | — | 3 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2026-07-02 |
-| 45 | [3632577](../reports/3632577.md) | Bedrock AgentCore Starter Toolkit Creates Gateway IAM Roles  | Medium | — | 3 | [mistercloudsec](https://hackerone.com/mistercloudsec) | 2026-07-15 |
+| 42 | [3632577](../reports/3632577.md) | Bedrock AgentCore Starter Toolkit Creates Gateway IAM Roles  | Medium | — | 3 | [mistercloudsec](https://hackerone.com/mistercloudsec) | 2026-07-15 |
+| 43 | [3780277](../reports/3780277.md) | Non-Production API Endpoints for the Amazon S3 Tables Servic | Medium | — | 3 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2026-07-02 |
+| 44 | [4077800](../reports/4077800.md) | Unescaped consent-prompt renderer (HTML()) enables concealed | Medium | — | 3 | [hope_no_dupe](https://hackerone.com/hope_no_dupe) | 2026-11-06 |
+| 45 | [3633146](../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust S | Medium | — | 3 | [mistercloudsec](https://hackerone.com/mistercloudsec) | 2026-07-28 |
 | 46 | [3775702](../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails | Medium | — | 2 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2026-07-27 |
 | 47 | [3702072](../reports/3702072.md) | bedrock-mantle.api.aws accepts Bedrock API keys outside the  | Medium | — | 2 | [mistercloudsec](https://hackerone.com/mistercloudsec) | 2026-07-14 |
 | 48 | [3966599](../reports/3966599.md) | Unauthenticated go-httpbin servers : Leads to Cookie Tossing | Medium | — | 0 | [notnotnotveg](https://hackerone.com/notnotnotveg) | 2026-10-16 |
@@ -65,5 +65,5 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 59 | [3620760](../reports/3620760.md) | Encryption context keys and values logged at INFO level | None | — | 19 | [misop00p](https://hackerone.com/misop00p) | 2026-04-10 |
 | 60 | [3427370](../reports/3427370.md) | Command Injection on Amazon Q Developer CLI via malicious .a | None | — | 19 | [farmer](https://hackerone.com/farmer) | 2026-01-16 |
 | 61 | [3577145](../reports/3577145.md) | QuickSight Authorization Bypass: Chat Agents Accessible Desp | None | — | 10 | [jcow](https://hackerone.com/jcow) | 2026-05-12 |
-| 62 | [3738654](../reports/3738654.md) |  Firecracker Out-of-bounds Read/Write Local Privilege Escala | None | — | 4 | [terrynini38514](https://hackerone.com/terrynini38514) | 2026-06-11 |
-| 63 | [3083011](../reports/3083011.md) | Private AWS AMIs are temporarily being exposed publicly | None | — | 4 | [seth_art_dd](https://hackerone.com/seth_art_dd) | 2025-05-29 |
+| 62 | [3083011](../reports/3083011.md) | Private AWS AMIs are temporarily being exposed publicly | None | — | 4 | [seth_art_dd](https://hackerone.com/seth_art_dd) | 2025-05-29 |
+| 63 | [3738654](../reports/3738654.md) |  Firecracker Out-of-bounds Read/Write Local Privilege Escala | None | — | 4 | [terrynini38514](https://hackerone.com/terrynini38514) | 2026-06-11 |
