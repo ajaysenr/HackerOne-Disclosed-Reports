@@ -1,4 +1,4 @@
-# Asset Type: Source Code (2300 reports)
+# Asset Type: Source Code (2303 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -444,1863 +444,1866 @@
 | 438 | [324453](../reports/324453.md) | `command-exists` concatenates unsanitized input into ex | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | command-exists | Critical — CVSS 10.0 | — | 6 |
 | 439 | [358645](../reports/358645.md) | [serve] Server Directory Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | serve | Critical — CVSS 9.3 | — | 6 |
 | 440 | [703138](../reports/703138.md) | [yarn] yarn.lock integrity & hash check logic is broken | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical — CVSS 9.6 | — | 6 |
-| 441 | [341710](../reports/341710.md) | [git-dummy-commit] Command injection on the msg paramet | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | git-dummy-commit | Critical — CVSS 10.0 | — | 5 |
-| 442 | [3479984](../reports/3479984.md) | CRLF Injection / Protocol Smuggling in libcurl via CURL | [curl](../by-program/curl.md) | https://github.com/curl/curl | Critical | — | 5 |
-| 443 | [344069](../reports/344069.md) | The react-marked-markdown module allows XSS injection i | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | react-marked-markdown | Critical — CVSS 9.3 | — | 5 |
-| 444 | [917843](../reports/917843.md) | Unsafe deserialization in Nexus Repository helm plugin | [Central Security Project](../by-program/central-security-project.md) | Java Component in search.maven.org | Critical | — | 5 |
-| 445 | [972220](../reports/972220.md) | [arpping] Remote Code Execution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 5 |
-| 446 | [319467](../reports/319467.md) | `macaddress` concatenates unsanitized input into exec() | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | macaddress | Critical — CVSS 10.0 | — | 5 |
-| 447 | [381185](../reports/381185.md) | Prototype pollution attack (extend) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | extend | Critical — CVSS 9.3 | — | 5 |
-| 448 | [308155](../reports/308155.md) | [html-janitor] Passing user-controlled data to clean()  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | html-janitor | Critical — CVSS 9.8 | — | 5 |
-| 449 | [1039325](../reports/1039325.md) | Other misconfiguration on Slack Server | [ImpressCMS](../by-program/impresscms.md) | https://github.com/impresscms/impresscms | Critical | — | 5 |
-| 450 | [330650](../reports/330650.md) | [serve] Directory listing and File access even when the | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | serve | Critical — CVSS 9.3 | — | 5 |
-| 451 | [512076](../reports/512076.md) | Deserialization of Untrusted Data in www/delivery/adxml | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Critical — CVSS 9.1 | — | 4 |
-| 452 | [801522](../reports/801522.md) | [utils-extend] Prototype pollution  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | utils-extend | Critical — CVSS 9.4 | — | 4 |
-| 453 | [335608](../reports/335608.md) | Denial of Service: nghttp2 use of uninitialized pointer | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Critical — CVSS 9.3 | — | 4 |
-| 454 | [3619288](../reports/3619288.md) | RCE + PAT Exfiltration via pull_request_target in priva | [DuckDuckGo](../by-program/duckduckgo.md) | https://github.com/duckduckgo/duckduckgo | Critical | — | 4 |
-| 455 | [1141623](../reports/1141623.md) | Unexpected input validation of octal literals in nodejs | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Critical — CVSS 10.0 | — | 4 |
-| 456 | [311101](../reports/311101.md) | [crud-file-server] Stored XSS in filenames when directo | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | crud-file-server | Critical — CVSS 9.6 | — | 4 |
-| 457 | [331032](../reports/331032.md) | [buttle] Remote Command Execution via unsanitized PHP f | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | buttle | Critical — CVSS 10.0 | — | 4 |
-| 458 | [3712343](../reports/3712343.md) | MQTT CONNACK Packet Type Bypass leads to RCE via Malici | [curl](../by-program/curl.md) | https://github.com/curl/curl | Critical | — | 4 |
-| 459 | [3687142](../reports/3687142.md) | Unauthenticated reading of every file via livechat auth | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | Critical — CVSS 9.3 | — | 4 |
-| 460 | [1043360](../reports/1043360.md) | HTTP2 'unknownProtocol' cause Denial of Service by reso | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Critical — CVSS 9.3 | — | 3 |
-| 461 | [878420](../reports/878420.md) | [windows-edge] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 3 |
-| 462 | [925324](../reports/925324.md) | [systeminformation] Command Injection via insecure comm | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | systeminformation | Critical | — | 3 |
-| 463 | [3801107](../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum  | [WordPress](../by-program/wordpress.md) | bbPress Core | Critical — CVSS 9.3 | — | 3 |
-| 464 | [3931771](../reports/3931771.md) | Author → stored XSS in wp-admin: unescaped sub-size fil | [WordPress](../by-program/wordpress.md) | WordPress Core | Critical — CVSS 9.0 | — | 3 |
-| 465 | [871071](../reports/871071.md) | [gfc] Command Injection via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 3 |
-| 466 | [3856148](../reports/3856148.md) | Low-privilege RCE in MariaDB: SYS_REFCURSOR cursor-arra | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Remote Cod | Critical | — | 3 |
-| 467 | [324491](../reports/324491.md) | `fs-path` concatenates unsanitized input into exec()/ex | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | fs-path | Critical — CVSS 9.6 | — | 2 |
-| 468 | [3619287](../reports/3619287.md) | RCE + Supply Chain Attack via pull_request_target in co | [DuckDuckGo](../by-program/duckduckgo.md) | https://github.com/duckduckgo/duckduckgo | Critical | — | 2 |
-| 469 | [330724](../reports/330724.md) | [serve] Directory listing and File access even when the | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | serve | Critical — CVSS 9.3 | — | 2 |
-| 470 | [4122039](../reports/4122039.md) | libcurl shared-HSTS-cache race leads to use-after-free  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Critical | — | 2 |
-| 471 | [907311](../reports/907311.md) | [meemo-app] Denial of Service via LDAP Injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 2 |
-| 472 | [864354](../reports/864354.md) | [diskstats] Command Injection via insecure command conc | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 2 |
-| 473 | [694471](../reports/694471.md) | [create-git] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 2 |
-| 474 | [863956](../reports/863956.md) | [extra-asciinema] Command Injection via insecure comman | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 1 |
-| 475 | [973386](../reports/973386.md) | [curling] Remote Code Execution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 1 |
-| 476 | [511459](../reports/511459.md) | [listening-processes] Command Injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 0 |
-| 477 | [864777](../reports/864777.md) | [vboxmanage.js] Command Injection via insecure command  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 0 |
-| 478 | [863944](../reports/863944.md) | [extra-ffmpeg] Command Injection via insecure command f | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 0 |
-| 479 | [973245](../reports/973245.md) | [imagickal] Remote Code Execution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 0 |
-| 480 | [865168](../reports/865168.md) | [xps] Command Injection via insecure command concatenat | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 0 |
-| 481 | [643908](../reports/643908.md) | Stored XSS Vulnerability | [WordPress](../by-program/wordpress.md) | *.trac.wordpress.org, *.svn.wordpress.or | High | — | 402 |
-| 482 | [851807](../reports/851807.md) | Code injection possible with malformed Nextcloud Talk c | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | High — CVSS 8.0 | — | 317 |
-| 483 | [922597](../reports/922597.md) | HTTP Request Smuggling due to CR-to-Hyphen conversion | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 8.5 | — | 134 |
-| 484 | [3181066](../reports/3181066.md) | Path Traversal Vulnerability in Lila Project | [Lichess](../by-program/lichess.md) | https://github.com/lichess-org/lila | High | — | 116 |
-| 485 | [2041007](../reports/2041007.md) | Cross-Site Request Forgery  | [ownCloud](../by-program/owncloud.md) | owncloud/core | High — CVSS 7.5 | — | 111 |
-| 486 | [428019](../reports/428019.md) | CSRF to HTML Injection in Comments | [WordPress](../by-program/wordpress.md) | WordPress Core | High | — | 95 |
-| 487 | [3395221](../reports/3395221.md) | Error-Based & Time-Based SQL Injection in 'keyword' Par | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 8.8 | — | 93 |
-| 488 | [1107282](../reports/1107282.md) | Privilege Escalation via REST API to Administrator lead | [WordPress](../by-program/wordpress.md) | BuddyPress Core | High | — | 90 |
-| 489 | [2412583](../reports/2412583.md) | Crafted smart contract can take 8 minutes to execute du | [Rootstock Labs](../by-program/rootstocklabs.md) | https://github.com/rsksmart/rskj | High — CVSS 8.3 | — | 85 |
-| 490 | [2701701](../reports/2701701.md) | Injection in path parameter of Ingress-nginx | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/ingress-ng | High — CVSS 8.8 | — | 84 |
-| 491 | [509930](../reports/509930.md) | Potential unprivileged Stored XSS through wp_targeted_l | [WordPress](../by-program/wordpress.md) | WordPress Core | High | — | 80 |
-| 492 | [3086301](../reports/3086301.md) | Prompt Injection via GitHub Patch in Brave AI Chat (Leo | [Brave Software](../by-program/brave.md) | https://github.com/brave/brave-core | High — CVSS 8.8 | — | 77 |
-| 493 | [1180380](../reports/1180380.md) | CVE-2021-22901: TLS session caching disaster | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 75 |
-| 494 | [2786591](../reports/2786591.md) | Unauthenticated WordPress Database Repair DoS | [WordPress](../by-program/wordpress.md) | WordPress Core | High — CVSS 8.0 | — | 70 |
-| 495 | [1115864](../reports/1115864.md) | Persistant Arbitrary code execution in mattermost andro | [Mattermost](../by-program/mattermost.md) | mattermost/mattermost-mobile | High — CVSS 7.8 | — | 66 |
-| 496 | [2319584](../reports/2319584.md) | "Assertion failed" in node::http2::Http2Session::~Http2 | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 8.2 | — | 65 |
-| 497 | [411364](../reports/411364.md) | Brute Force of fabric-ca server admin account | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric-ca | High | — | 61 |
-| 498 | [2882887](../reports/2882887.md) | CVE-2024-53908: Django Potential SQL injection in `HasK | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/django | High | — | 61 |
-| 499 | [3125832](../reports/3125832.md) | HTTP/3 Stream Dependency Cycle Exploit | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 59 |
-| 500 | [3634400](../reports/3634400.md) | SSRF Filter Bypass via Unblocked NAT64 Local-Use IPv6 P | [arkadiyt-projects](../by-program/arkadiyt-projects.md) | https://github.com/arkadiyt/ssrf_filter | High — CVSS 7.5 | — | 57 |
-| 501 | [3384150](../reports/3384150.md) | Arbitrary File Write | [arkadiyt-projects](../by-program/arkadiyt-projects.md) | https://github.com/arkadiyt/protodump | High — CVSS 8.6 | — | 56 |
-| 502 | [3401612](../reports/3401612.md) | IDOR Vulnerability in Banner Deletion  | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 7.1 | — | 55 |
-| 503 | [1249583](../reports/1249583.md) | Authenticated kubernetes principal with restricted perm | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/ingress-ng | High — CVSS 7.6 | — | 55 |
-| 504 | [2187833](../reports/2187833.md) | CVE-2023-38545: socks5 heap buffer overflow | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 55 |
-| 505 | [3158093](../reports/3158093.md) | Memory Leak in libcurl via Location Header Handling (CW | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 54 |
-| 506 | [3556769](../reports/3556769.md) | Incomplete fix for CVE-2026-21637: loadSNI() in _tls_wr | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 52 |
-| 507 | [3131758](../reports/3131758.md) | HashDoS in V8 | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 52 |
-| 508 | [1879549](../reports/1879549.md) | Basic auth header on WebDAV requests is not bruteforce  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 8.1 | — | 52 |
-| 509 | [1886954](../reports/1886954.md) | Unauthenticated full-read SSRF via Twilio integration | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | High — CVSS 8.6 | — | 52 |
-| 510 | [1785378](../reports/1785378.md) | Double evaluation in .bash_prompt of dotfiles allows a  | [Ian Dunn](../by-program/iandunn-projects.md) | GitHub repositories | High | — | 47 |
-| 511 | [395737](../reports/395737.md) | `chrome://brave` available for navigation in Release bu | [Brave Software](../by-program/brave.md) | https://github.com/brave/muon | High | — | 46 |
-| 512 | [1492896](../reports/1492896.md) | CVE-2022-24288: Apache Airflow: TWO RCEs in example DAG | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | High | — | 46 |
-| 513 | [3445710](../reports/3445710.md) | Broken Access Control allows advertiser accounts to del | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 7.1 | — | 45 |
-| 514 | [2212627](../reports/2212627.md) | Delete external storage of any user | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 8.5 | — | 43 |
-| 515 | [375329](../reports/375329.md) | Local files reading using `link[rel="import"]` | [Brave Software](../by-program/brave.md) | https://github.com/brave/browser-laptop | High | — | 43 |
-| 516 | [3405778](../reports/3405778.md) | Timeout-based race conditions make Uint8Array/Buffer.al | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.1 | — | 42 |
-| 517 | [2575105](../reports/2575105.md) | Worker permission bypass via InternalWorker leak in dia | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.7 | — | 42 |
-| 518 | [2887487](../reports/2887487.md) | Buffer Overflow Risk in Curl_inet_ntop and inet_ntop4 | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 39 |
-| 519 | [2298307](../reports/2298307.md) | Buffer Overflow Vulnerability in WebSocket Handling | [curl](../by-program/curl.md) | https://github.com/curl/curl | High — CVSS 8.6 | — | 38 |
-| 520 | [404323](../reports/404323.md) | Logic flaw in the Post creation process allows creating | [WordPress](../by-program/wordpress.md) | WordPress Core | High | — | 38 |
-| 521 | [3598358](../reports/3598358.md) | urlapi: off-by-one in custom scheme validation skips la | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 38 |
-| 522 | [1848176](../reports/1848176.md) | IDOR in TalentMAP API can be abused to enumerate person | [U.S. Department of State](../by-program/us-department-of-state.md) | https://github.com/USStateDept | High — CVSS 7.5 | — | 38 |
-| 523 | [2334455](../reports/2334455.md) | Path traversal in AcitveStorage, and lead RCE | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | High — CVSS 8.1 | — | 37 |
-| 524 | [2817648](../reports/2817648.md) | Improper error handling in async cryptographic operatio | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 37 |
-| 525 | [2218653](../reports/2218653.md) | Path traversal by monkey-patching Buffer internals | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.9 | — | 36 |
-| 526 | [1434056](../reports/1434056.md) | Buffer overflow in req_parsebody method in lua_request. | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/httpd | High | — | 36 |
-| 527 | [3398283](../reports/3398283.md) | Authorization bypass allows changing email address of o | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 8.8 | — | 35 |
-| 528 | [3160912](../reports/3160912.md) | Windows Device Names (CON, PRN, AUX) Bypass Path Traver | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 35 |
-| 529 | [2255968](../reports/2255968.md) | CVE-2023-46132 | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric | High — CVSS 8.3 | — | 34 |
-| 530 | [1378175](../reports/1378175.md) | Ingress-nginx annotation injection allows retrieval of  | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/ingress-ng | High — CVSS 7.6 | — | 34 |
-| 531 | [910206](../reports/910206.md) | property-expr - Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | property-expr | High — CVSS 7.3 | — | 33 |
-| 532 | [3417819](../reports/3417819.md) | FS Permissions Bypass | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.1 | — | 33 |
-| 533 | [538008](../reports/538008.md) | Add users to groups who have restricted group invites | [WordPress](../by-program/wordpress.md) | BuddyPress Core | High | — | 32 |
-| 534 | [3303765](../reports/3303765.md) | WebSocket Fragmentation DoS on Curl Client | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 32 |
-| 535 | [508493](../reports/508493.md) | Group admins can remove arbitrary data from "data" dire | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 8.4 | — | 32 |
-| 536 | [1604951](../reports/1604951.md) | Remote denial of service in  HyperLedger Fabric | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric | High | — | 32 |
-| 537 | [3603300](../reports/3603300.md) | SMB READ_ANDX DataOffset not validated | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 30 |
-| 538 | [3242005](../reports/3242005.md) | Use-After-Free in OpenSSL Keylog Callback via SSL_get_e | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 30 |
-| 539 | [3374554](../reports/3374554.md) | Apple SecTrust legacy path accepts untrusted certificat | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 30 |
-| 540 | [576504](../reports/576504.md) | Authentication Bypass by abusing Insecure crypto tokens | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High | — | 30 |
-| 541 | [3591956](../reports/3591956.md) | Use-After-Free in SMB connection reuse (req->path dangl | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 30 |
-| 542 | [811502](../reports/811502.md) | Node.js: TLS session reuse can lead to hostname verific | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High | — | 29 |
-| 543 | [3094406](../reports/3094406.md) | Heap‑based buffer overflow in curl -K <config_file> all | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 29 |
-| 544 | [3400506](../reports/3400506.md) | Stored XSS in Conversion Statistics via Tracker Name | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 8.7 | — | 28 |
-| 545 | [3434510](../reports/3434510.md) | Out-of-bounds read in HTTP method handling causes undef | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 28 |
-| 546 | [988103](../reports/988103.md) | Node.js: use-after-free in TLSWrap | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 27 |
-| 547 | [921288](../reports/921288.md) | Arbitrary File delete via PHAR deserialization | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | High — CVSS 7.3 | — | 27 |
-| 548 | [1154034](../reports/1154034.md) | Argument/Code Injection via ActiveStorage's image trans | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | High | — | 27 |
-| 549 | [931197](../reports/931197.md) | [socket.io] Cross-Site Websocket Hijacking  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.1 | — | 27 |
-| 550 | [3279804](../reports/3279804.md) | Stack use-after-scope in HTTP/3 POST request processing | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 27 |
-| 551 | [3874004](../reports/3874004.md) |  Incomplete fix for CVE-2022-23915: Mercurial argument  | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/weblate | High — CVSS 8.5 | — | 26 |
-| 552 | [608577](../reports/608577.md) | CVE-2019-5443: Windows Privilege Escalation: Malicious  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High — CVSS 7.8 | — | 25 |
-| 553 | [3463949](../reports/3463949.md) | Missing AES-GCM Authentication Tag Validation and Impro | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 8.2 | — | 24 |
-| 554 | [390362](../reports/390362.md) | Local files reading from the "file://" origin through ` | [Brave Software](../by-program/brave.md) | https://github.com/brave/muon | High | — | 24 |
-| 555 | [2905013](../reports/2905013.md) | [SECURITY] CVE-2024-50379 Apache Tomcat - RCE via write | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/tomcat | High | — | 24 |
-| 556 | [2307813](../reports/2307813.md) | DoS with crafted "Range" header | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | High — CVSS 7.5 | — | 24 |
-| 557 | [3630310](../reports/3630310.md) | HTTP/2 server push accepts a non-authoritative :scheme= | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 24 |
-| 558 | [2170226](../reports/2170226.md) | setuid() does not drop all privileges due to io_uring | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.3 | — | 24 |
-| 559 | [1978882](../reports/1978882.md) | User scoped external storage can be used to gather cred | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 8.4 | — | 23 |
-| 560 | [2819666](../reports/2819666.md) | Exploitable Format String Vulnerability in curl_mfprint | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 23 |
-| 561 | [2546437](../reports/2546437.md) | The initial E2EE password generated by Rocket.Chat mobi | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | High — CVSS 7.2 | — | 23 |
-| 562 | [3335085](../reports/3335085.md) | TOCTOU Race Condition in HTTP/2 Connection Reuse Leads  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 23 |
-| 563 | [2237545](../reports/2237545.md) | Code injection and privilege escalation through Linux c | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 23 |
-| 564 | [788257](../reports/788257.md) | "Secure View" aka "Hide Download" can be bypassed easil | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High | — | 22 |
-| 565 | [411519](../reports/411519.md) | DNS SRV lookup of file:// sources enables local hijacki | [RubyGems](../by-program/rubygems.md) | https://github.com/rubygems/rubygems | High — CVSS 7.2 | — | 22 |
-| 566 | [1671140](../reports/1671140.md) | CVE-2022-38362: Apache Airflow Docker Provider <3.0 RCE | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | High — CVSS 8.8 | — | 22 |
-| 567 | [786956](../reports/786956.md) | Server Side Request Forgery in Uppy npm module | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Uppy | High — CVSS 8.2 | — | 22 |
-| 568 | [3666576](../reports/3666576.md) | Negotiate Authentication Premature on Connection Reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 21 |
-| 569 | [3319767](../reports/3319767.md) | Incorrect Parsing of IPv6 Zone ID in curl | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 21 |
-| 570 | [3231321](../reports/3231321.md) | HTTP Proxy Bypass via `CURLOPT_CUSTOMREQUEST` Verb Tunn | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 21 |
-| 571 | [712065](../reports/712065.md) | Prototype pollution attack (lodash) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | lodash | High — CVSS 7.4 | — | 20 |
-| 572 | [3250117](../reports/3250117.md) | Uncontrolled File Write/Arbitrary File Creation  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 20 |
-| 573 | [3477023](../reports/3477023.md) | Protocol Smuggling / CRLF Injection via Gopher Protocol | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 20 |
-| 574 | [2461831](../reports/2461831.md) | Bypass incomplete fix of CVE-2024-27980 | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 8.1 | — | 20 |
-| 575 | [812754](../reports/812754.md) | Denial of Service by requesting to reset a password | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 7.5 | — | 20 |
-| 576 | [2259914](../reports/2259914.md) | Multiple permission model bypasses due to improper path | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.9 | — | 20 |
-| 577 | [3452725](../reports/3452725.md) | Title: Use-After-Free in cURL Test Suite via Improper C | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 20 |
-| 578 | [490379](../reports/490379.md) | [glance] Access unlisted internal files/folders reveali | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | glance | High — CVSS 7.5 | — | 19 |
-| 579 | [3483902](../reports/3483902.md) | PROTOCOL-LEVEL: Persistent UDP Amplification and Cache  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 19 |
-| 580 | [3295652](../reports/3295652.md) | Insecure WebSocket Usage in curl Documentation and Exam | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 19 |
-| 581 | [3292590](../reports/3292590.md) | Heap Buffer Overflow in Curl_memdup0() via CURLOPT_COPY | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 19 |
-| 582 | [3560402](../reports/3560402.md) | Denial of Service via `__proto__` header name in `req.h | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 19 |
-| 583 | [3470649](../reports/3470649.md) | File URL UNC Path Access (Windows SSRF) | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 19 |
-| 584 | [1102067](../reports/1102067.md) | Authenticated path traversal to RCE | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | High — CVSS 8.0 | — | 18 |
-| 585 | [3465094](../reports/3465094.md) | Path Traversal Bypass in file:// URLs Due to Incomplete | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 18 |
-| 586 | [3485930](../reports/3485930.md) | Path Traversal in curl file:// Protocol Handler Allows  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 18 |
-| 587 | [3480713](../reports/3480713.md) | Proxy-Authorization header is leaked to origin server a | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 18 |
-| 588 | [1489141](../reports/1489141.md) | ReDoS in Rack::Multipart | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | High | — | 18 |
-| 589 | [3337561](../reports/3337561.md) | Multiple Unsafe strcpy() Function Calls Leading to Pote | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 18 |
-| 590 | [3340109](../reports/3340109.md) | Stack Buffer Overflow in cURL Cookie Parsing Leads to R | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 18 |
-| 591 | [3395227](../reports/3395227.md) | Use of Deprecated strcpy() with User-Controlled Environ | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 17 |
-| 592 | [902739](../reports/902739.md) | bunyan - RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 17 |
-| 593 | [3470095](../reports/3470095.md) | Heap Buffer Over-Read via Malicious SMB Server READ_AND | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 17 |
-| 594 | [1715536](../reports/1715536.md) | Deny of service via malicious Content-Type | [Fastify](../by-program/fastify.md) | https://github.com/fastify | High — CVSS 7.5 | — | 17 |
-| 595 | [1636566](../reports/1636566.md) | Node.js - DLL Hijacking on Windows | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/nodejs/node | High — CVSS 7.2 | — | 17 |
-| 596 | [827816](../reports/827816.md) | Missing server side controls when editing the board’s s | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 7.3 | — | 16 |
-| 597 | [3640932](../reports/3640932.md) | Missing server identity policy enforcement in SSH conne | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 16 |
-| 598 | [3425308](../reports/3425308.md) | Economic DoS (Griefing) on IBC Relayers via `memo` Call | [Cosmos](../by-program/cosmos.md) | www.github.com/cosmos/evm | High — CVSS 8.6 | — | 16 |
-| 599 | [1632921](../reports/1632921.md) | DNS rebinding in --inspect (insufficient fix of CVE-202 | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High | — | 16 |
-| 600 | [3392174](../reports/3392174.md) | Buffer Overflow in WebSocket Handshake (lib/ws.c:1287) | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 16 |
-| 601 | [3887969](../reports/3887969.md) | SSRF via URL Parser Differential in `normalize_request_ | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/wlc | High | — | 16 |
-| 602 | [3475613](../reports/3475613.md) | HAProxy Connection Reuse leads to IP Spoofing and mTLS  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 16 |
-| 603 | [415258](../reports/415258.md) | RCE: DnDing shortcut files to chrome://brave allows loa | [Brave Software](../by-program/brave.md) | https://github.com/brave/muon | High — CVSS 8.3 | — | 16 |
-| 604 | [3418861](../reports/3418861.md) | libcurl FTP path normalization flaw allows decoded %2e% | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 16 |
-| 605 | [841947](../reports/841947.md) | Remote Code Execution through Extension Bypass on Log F | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | High — CVSS 8.0 | — | 16 |
-| 606 | [3445174](../reports/3445174.md) | Path Traversal in file:// protocol allows Arbitrary Fil | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 15 |
-| 607 | [506654](../reports/506654.md) | [typeorm] SQL Injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | typeorm | High — CVSS 8.6 | — | 15 |
-| 608 | [380873](../reports/380873.md) | Prototype pollution attack (lodash / constructor.protot | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | lodash | High — CVSS 7.0 | — | 15 |
-| 609 | [330957](../reports/330957.md) | [pdfinfojs] Command Injection on filename parameter | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | pdfinfojs | High — CVSS 7.8 | — | 15 |
-| 610 | [701183](../reports/701183.md) | [tree-kill] RCE via insecure command concatenation (onl | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | tree-kill | High — CVSS 7.0 | — | 15 |
-| 611 | [825729](../reports/825729.md) | [logkitty] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | logkitty | High — CVSS 7.8 | — | 15 |
-| 612 | [3295656](../reports/3295656.md) | Unsafe Global IFS Modification in OS400 Shell Script En | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 15 |
-| 613 | [473811](../reports/473811.md) | [bower] Arbitrary File Write through improper validatio | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | bower | High — CVSS 8.0 | — | 15 |
-| 614 | [3462991](../reports/3462991.md) | SQL Injection in Column Type Parameter Allows Arbitrary | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/tables | High — CVSS 8.2 | — | 15 |
-| 615 | [2941920](../reports/2941920.md) | Elevation of Privileges (EoP) vulnerabilities related t | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 14 |
-| 616 | [507222](../reports/507222.md) | [untitled-model] sql injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.6 | — | 14 |
-| 617 | [3484319](../reports/3484319.md) | MQTT Protocol Violation & Integer Overflow in libcurl | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 14 |
-| 618 | [3125820](../reports/3125820.md) | HTTP/2 CONTINUATION Flood Vulnerability | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 14 |
-| 619 | [1049040](../reports/1049040.md) | Download full backup and Cross site scripting  | [ImpressCMS](../by-program/impresscms.md) | https://github.com/impresscms/impresscms | High | — | 14 |
-| 620 | [390631](../reports/390631.md) | [ascii-art] Command injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | ascii-art | High — CVSS 8.6 | — | 14 |
-| 621 | [3230082](../reports/3230082.md) | Stack-based Buffer Overflow in TELNET NEW_ENV Option Ha | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 14 |
-| 622 | [3463608](../reports/3463608.md) | Denial of Service (DoS) vulnerability in dedotdotify()  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 13 |
-| 623 | [2233486](../reports/2233486.md) | http: Reading unprocessed HTTP request with unbounded c | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 13 |
-| 624 | [2946924](../reports/2946924.md) | Authorization Header Leak via --location-trusted in Cur | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 13 |
-| 625 | [3485826](../reports/3485826.md) | Alt-Svc bypasses credential leak protection (CVE-2018-1 | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 13 |
-| 626 | [3400831](../reports/3400831.md) | CURLX_SET_BINMODE(NULL) can call fileno(NULL) and cause | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 13 |
-| 627 | [3225565](../reports/3225565.md) |  OS Command Injection in scripts/firefox-db2pem.sh via  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 12 |
-| 628 | [311218](../reports/311218.md) | [hekto] Path Traversal vulnerability allows to read con | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | hekto | High — CVSS 8.6 | — | 12 |
-| 629 | [3897914](../reports/3897914.md) | Out-of-bounds read in MariaDB .frm parsing enables RCE  | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Remote Cod | High — CVSS 8.8 | — | 12 |
-| 630 | [1635854](../reports/1635854.md) | Remote denial of service in HyperLedger Fabric | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric | High — CVSS 8.3 | — | 12 |
-| 631 | [748214](../reports/748214.md) | [express-laravel-passport] Improper Authentication | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 7.5 | — | 12 |
-| 632 | [2550951](../reports/2550951.md) | Unicode-to-ASCII conversion on Windows can lead to argu | [curl](../by-program/curl.md) | https://github.com/curl/curl | High — CVSS 8.2 | — | 12 |
-| 633 | [633231](../reports/633231.md) | pre-auth Stored XSS in comments via javascript: url whe | [WordPress](../by-program/wordpress.md) | WordPress Core | High | — | 12 |
-| 634 | [1690000](../reports/1690000.md) | Weak randomness in WebCrypto keygen | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 8.4 | — | 11 |
-| 635 | [3797662](../reports/3797662.md) | SQL Injection via Unsanitized Identifiers and String Li | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/aws/aws-cdk | High | — | 11 |
-| 636 | [730779](../reports/730779.md) | HTTP header values do not have trailing OWS trimmed | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.4 | — | 11 |
-| 637 | [968355](../reports/968355.md) | [i18next] Prototype pollution attack | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | i18next | High | — | 11 |
-| 638 | [522876](../reports/522876.md) | In Dockerized Environments, Failing to Read config.php  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 8.7 | — | 11 |
-| 639 | [308158](../reports/308158.md) | [html-janitor] Bypassing sanitization using DOM clobber | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | html-janitor | High — CVSS 8.8 | — | 11 |
-| 640 | [2961050](../reports/2961050.md) | curl allows SSH connection even if host is not in known | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 11 |
-| 641 | [498878](../reports/498878.md) | User Editable nextcloud Wiki pages of Public Repositori | [Nextcloud](../by-program/nextcloud.md) | nextcloud/logreader | High | — | 11 |
-| 642 | [507159](../reports/507159.md) | [fileview] Inadequate Output Encoding and Escaping  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | fileview | High — CVSS 7.1 | — | 11 |
-| 643 | [357109](../reports/357109.md) | [simplehttpserver] List any file in the folder by using | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | simplehttpserver | High | — | 11 |
-| 644 | [389561](../reports/389561.md) | Command Injection Vulnerability in kill-port Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | kill-port | High — CVSS 7.3 | — | 10 |
-| 645 | [3229490](../reports/3229490.md) | Heap Buffer Overflow in libcurl curl_slist_append via U | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 10 |
-| 646 | [532667](../reports/532667.md) | Server Side JavaScript Code Injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | fastify | High | — | 10 |
-| 647 | [1390331](../reports/1390331.md) | SQL injextion via vulnerable doctrine/dbal version | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 8.5 | — | 10 |
-| 648 | [3788506](../reports/3788506.md) | SSH/SFTP connection reuse can bypass SSH key identity a | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 10 |
-| 649 | [864701](../reports/864701.md) | Prototype Pollution lodash 4.17.15 | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | lodash | High | — | 9 |
-| 650 | [244092](../reports/244092.md) | Password of failed (2FA) login attempt is stored in log | [Nextcloud](../by-program/nextcloud.md) | nextcloud/logreader | High | — | 9 |
-| 651 | [2092852](../reports/2092852.md) | Permission model improperly protects against path trave | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.7 | — | 9 |
-| 652 | [589739](../reports/589739.md) | Multiple HTTP/2 DOS Issues | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High | — | 9 |
-| 653 | [3484431](../reports/3484431.md) | HTTP Request Smuggling and SSRF via CRLF Injection in C | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 9 |
-| 654 | [310943](../reports/310943.md) | [general-file-server] Path Traversal vulnerability allo | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | general-file-server | High — CVSS 8.6 | — | 9 |
-| 655 | [754352](../reports/754352.md) | Stored XSS on Wordpress 5.3 via Title Post | [WordPress](../by-program/wordpress.md) | WordPress Core | High | — | 9 |
-| 656 | [1416665](../reports/1416665.md) | Recaptcha Secret key Leaked | [Paragon Initiative Enterprises](../by-program/paragonie.md) | https://github.com/paragonie/sodium_comp | High | — | 9 |
-| 657 | [3611837](../reports/3611837.md) | Unauthenticated file deletion via deleteFileMessage DDP | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | High — CVSS 7.5 | — | 9 |
-| 658 | [317125](../reports/317125.md) | [bracket-template] Reflected XSS possible when variable | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | bracket-template | High — CVSS 8.6 | — | 9 |
-| 659 | [3653196](../reports/3653196.md) | Blind SQL injection via clientid parameter in zone‑incl | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 8.3 | — | 9 |
-| 660 | [3781015](../reports/3781015.md) |  Incomplete Fix for CVE-2026-21637: OCSPRequest and res | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High | — | 9 |
-| 661 | [312889](../reports/312889.md) | [localhost-now] Path Traversal allows to read content o | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | localhost-now | High — CVSS 8.6 | — | 9 |
-| 662 | [1019891](../reports/1019891.md) | Named pipe connection inteception | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Access con | High — CVSS 7.8 | — | 9 |
-| 663 | [3120969](../reports/3120969.md) | [High] MITM via Insecure CA Path Handling in cURL (--ca | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 9 |
-| 664 | [299112](../reports/299112.md) | MediaElements XSS | [WordPress](../by-program/wordpress.md) | WordPress Core | High | — | 9 |
-| 665 | [1168205](../reports/1168205.md) | 'net/http': HTTP Header Injection in the set_content_ty | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | High — CVSS 7.2 | — | 9 |
-| 666 | [1877919](../reports/1877919.md) | The use of __proto__ in process.mainModule.__proto__.re | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 8.4 | — | 8 |
-| 667 | [640904](../reports/640904.md) | Yarn transfers npm credentials over unencrypted http co | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.2 | — | 8 |
-| 668 | [309120](../reports/309120.md) | [angular-http-server] Path Traversal in angular-http-se | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | angular-http-server | High — CVSS 8.6 | — | 8 |
-| 669 | [1204695](../reports/1204695.md) | RubyのCGIライブラリにHTTPレスポンス分割（HTTPヘッダインジェクション）があり、秘密情報が漏洩する | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | High — CVSS 7.1 | — | 8 |
-| 670 | [403707](../reports/403707.md) | [knightjs] Path Traversal allows to read content of arb | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | knightjs | High — CVSS 8.6 | — | 8 |
-| 671 | [1960870](../reports/1960870.md) | Permissions policies can be bypassed via Module._load. | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.7 | — | 8 |
-| 672 | [384029](../reports/384029.md) | url-parse package return wrong hostname  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | url-parse | High — CVSS 7.5 | — | 8 |
-| 673 | [1061591](../reports/1061591.md) | Acting under any different user via DB-stored credentia | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 8.7 | — | 8 |
-| 674 | [388254](../reports/388254.md) | Account takeover vulnerability by editor role privilege | [WordPress](../by-program/wordpress.md) | WordPress Core | High | — | 8 |
-| 675 | [660565](../reports/660565.md) | [jsreport] Remote Code Execution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.0 | — | 8 |
-| 676 | [350418](../reports/350418.md) | Insecure implementation of deserialization in cryo | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | cryo | High — CVSS 8.7 | — | 8 |
-| 677 | [569891](../reports/569891.md) | [min-http-server] List any file in the folder by using  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.2 | — | 8 |
-| 678 | [879803](../reports/879803.md) | Bypass of SSRF Vulnerability | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.6 | — | 8 |
-| 679 | [3118915](../reports/3118915.md) | Potential XSS vector in curl via unsanitized URL parame | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 8 |
-| 680 | [3100073](../reports/3100073.md) | Path Traversal Vulnerability in curl via Unsanitized IP | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 8 |
-| 681 | [695416](../reports/695416.md) | Path traversal using symlink | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | statics-server | High — CVSS 7.5 | — | 8 |
-| 682 | [3514640](../reports/3514640.md) | Unauthenticated Path Traversal (LFI) via /custom-sounds | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | High — CVSS 7.5 | — | 8 |
-| 683 | [3734326](../reports/3734326.md) | Autotranslate DDP Method Exposes Private Messages Witho | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | High — CVSS 7.5 | — | 8 |
-| 684 | [904672](../reports/904672.md) | Server-side Template Injection in lodash.js  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | lodash | High — CVSS 8.6 | — | 8 |
-| 685 | [2864414](../reports/2864414.md) | Arbitrary File Deletion Vulnerability in curl Source Co | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 8 |
-| 686 | [3493602](../reports/3493602.md) | Stack Buffer Overflow in mprintf.c formatting function  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 8 |
-| 687 | [3480078](../reports/3480078.md) | Heap Buffer Over-read in lib/http2.c (on_header) handli | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 8 |
-| 688 | [569966](../reports/569966.md) | [serve-here.js] List any file in the folder by using pa | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 7.5 | — | 8 |
-| 689 | [349146](../reports/349146.md) | Stored XSS in Node-Red | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | node-red | High — CVSS 8.6 | — | 7 |
-| 690 | [356284](../reports/356284.md) | Samlify is vulnerable to signature wrapping | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | samlify | High — CVSS 8.0 | — | 7 |
-| 691 | [3637898](../reports/3637898.md) | OS Command Injection in `aws-cdk-lib` NodejsFunction vi | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/aws/aws-cdk | High — CVSS 7.3 | — | 7 |
-| 692 | [319532](../reports/319532.md) | `https-proxy-agent` passes unsanitized options to Buffe | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | https-proxy-agent | High — CVSS 8.2 | — | 7 |
-| 693 | [407319](../reports/407319.md) | ActiveStorage service's signed URLs can be hijacked via | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | High — CVSS 7.4 | — | 7 |
-| 694 | [3508785](../reports/3508785.md) | Gopher Protocol Command Injection (SSRF Smuggling) | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 7 |
-| 695 | [388936](../reports/388936.md) | [egg-scripts] Command injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | egg-scripts | High — CVSS 8.6 | — | 7 |
-| 696 | [3120987](../reports/3120987.md) | [High] Arbitrary File Write via Path Traversal in cURL  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 7 |
-| 697 | [310106](../reports/310106.md) | [glance] Path Traversal in glance static file server al | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | glance | High — CVSS 8.6 | — | 7 |
-| 698 | [1889474](../reports/1889474.md) | Ruby's CGI library has HTTP response splitting (HTTP he | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/ruby | High | — | 7 |
-| 699 | [1543773](../reports/1543773.md) | CVE-2022-27774: Credential leak on redirect | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 7 |
-| 700 | [315760](../reports/315760.md) | Path Traversal on Resolve-Path | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | resolve-path | High — CVSS 8.6 | — | 7 |
-| 701 | [319003](../reports/319003.md) | [stattic] Inproper path validation leads to Path Traver | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | stattic | High — CVSS 8.6 | — | 7 |
-| 702 | [330285](../reports/330285.md) | [mcstatic] Server Directory Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | mcstatic | High — CVSS 8.6 | — | 7 |
-| 703 | [1747642](../reports/1747642.md) | Permissions policies can be bypassed via process.mainMo | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.1 | — | 7 |
-| 704 | [350401](../reports/350401.md) | Insecure implementation of deserialization in funcster | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | funcster | High — CVSS 8.7 | — | 7 |
-| 705 | [570133](../reports/570133.md) | [http-file-server] List any files and sub folders in th | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.2 | — | 7 |
-| 706 | [321631](../reports/321631.md) | `http-proxy-agent` passes unsanitized options to Buffer | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | http-proxy-agent | High — CVSS 8.2 | — | 7 |
-| 707 | [3876430](../reports/3876430.md) | MariaDB GRANT PROXY permits unauthorized authentication | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Access con | High — CVSS 8.8 | — | 7 |
-| 708 | [772448](../reports/772448.md) | [blamer] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 7.5 | — | 7 |
-| 709 | [3656781](../reports/3656781.md) | PHP code injection via delivery limitation logical  | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 8.8 | — | 7 |
-| 710 | [309124](../reports/309124.md) | [node-srv] Path Traversal allows to read arbitrary file | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | node-srv | High — CVSS 8.6 | — | 6 |
-| 711 | [309641](../reports/309641.md) | [simple-server] HTML with iframe element can be used as | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | simple-server | High — CVSS 7.7 | — | 6 |
-| 712 | [881713](../reports/881713.md) | [last-commit-log] Command Injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 7.0 | — | 6 |
-| 713 | [311216](../reports/311216.md) | [626] Path Traversal allows to read arbitrary file from | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | 626 | High — CVSS 8.6 | — | 6 |
-| 714 | [888030](../reports/888030.md) | [wappalyzer] ReDoS allows an attacker to completely bre | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 6 |
-| 715 | [1962701](../reports/1962701.md) | Process-based permissions can be bypassed with the "ins | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.7 | — | 6 |
-| 716 | [1511619](../reports/1511619.md) | Read and write beyond bounds in mod_sed | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/httpd | High | — | 6 |
-| 717 | [432600](../reports/432600.md) | [static-resource-server]  Path Traversal allows to read | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.6 | — | 6 |
-| 718 | [403736](../reports/403736.md) | [takeapeek] Path traversal allow to expose directory an | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | takeapeek | High — CVSS 8.6 | — | 6 |
-| 719 | [809012](../reports/809012.md) | [notevil] - Sandbox Escape Lead to RCE on Node.js and X | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 6 |
-| 720 | [312907](../reports/312907.md) | [mcstatic] Path Traversal allows to read content of arb | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | mcstatic | High — CVSS 8.6 | — | 6 |
-| 721 | [982130](../reports/982130.md) | Fetching the update json scheme from concrete5 over HTT | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | High — CVSS 7.6 | — | 6 |
-| 722 | [496293](../reports/496293.md) | [url-parse] Improper Validation and Sanitization | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | url-parse | High — CVSS 7.3 | — | 6 |
-| 723 | [986459](../reports/986459.md) | Recently change email but still login with old email | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High | — | 6 |
-| 724 | [390860](../reports/390860.md) | Prototype Pollution Vulnerability in mpath Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | mpath | High — CVSS 7.6 | — | 6 |
-| 725 | [3898281](../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyp | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/weblate | High | — | 6 |
-| 726 | [397445](../reports/397445.md) | [express-cart] Customer and admin email enumeration thr | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | express-cart | High — CVSS 8.2 | — | 6 |
-| 727 | [3558713](../reports/3558713.md) | Command Injection via Unsanitized Bundling Options in ` | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/aws/aws-cdk | High — CVSS 7.3 | — | 6 |
-| 728 | [321692](../reports/321692.md) | `base64-url` below 2.0 allocates uninitialized Buffers  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.6 | — | 5 |
-| 729 | [390929](../reports/390929.md) | Code Injection Vulnerability in dot Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | dot | High — CVSS 7.4 | — | 5 |
-| 730 | [3736889](../reports/3736889.md) | NULL pointer dereference in node:sqlite DatabaseSync#ap | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 5 |
-| 731 | [319593](../reports/319593.md) | `sshpk` is vulnerable to ReDoS when parsing crafted inv | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | sshpk | High — CVSS 7.5 | — | 5 |
-| 732 | [1444539](../reports/1444539.md) |  Remote memory disclosure vulnerability in libcurl on 6 | [curl](../by-program/curl.md) | https://github.com/curl/curl | High — CVSS 7.7 | — | 5 |
-| 733 | [703412](../reports/703412.md) | [node-df] RCE via insecure command concatenation | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | node-df | High — CVSS 8.4 | — | 5 |
-| 734 | [384939](../reports/384939.md) | http-live-simulator npm module is prone to path travers | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | http-live-simulator | High — CVSS 8.6 | — | 5 |
-| 735 | [319951](../reports/319951.md) | `superstatic` is vulnerable to path traversal on Window | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | superstatic | High — CVSS 8.6 | — | 5 |
-| 736 | [3833629](../reports/3833629.md) | Re-entrant `nghttp2_session_mem_send()` during `nghttp2 | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 5 |
-| 737 | [3506159](../reports/3506159.md) | Heap Out-of-Bounds Read in lib/http2.c via Malformed PU | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 5 |
-| 738 | [794407](../reports/794407.md) | nextcloud-snap CircleCI project has vulnerable configur | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High | — | 5 |
-| 739 | [330356](../reports/330356.md) | [html-pages] Stored XSS in the filename when directorie | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | html-pages | High — CVSS 7.3 | — | 5 |
-| 740 | [341869](../reports/341869.md) | [entitlements] Command injection on the 'path' paramete | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | entitlements | High — CVSS 7.5 | — | 5 |
-| 741 | [243003](../reports/243003.md) | No limit of summary length allows Denail of Service | [RubyGems](../by-program/rubygems.md) | https://github.com/rubygems/rubygems | High — CVSS 7.5 | — | 5 |
-| 742 | [1223565](../reports/1223565.md) | CVE-2021-22924: Bad connection reuse due to flawed path | [curl](../by-program/curl.md) | https://github.com/curl/curl | High — CVSS 7.1 | — | 5 |
-| 743 | [980649](../reports/980649.md) | [json8-merge-patch] Prototype Pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | json8-merge-patch | High — CVSS 7.3 | — | 5 |
-| 744 | [369573](../reports/369573.md) | stored xss in scrape-metadata when reading metadata fro | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | scrape-metadata | High | — | 5 |
-| 745 | [3682666](../reports/3682666.md) | Use-after-free in `curl_easy_ssls_export()` during call | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 5 |
-| 746 | [570035](../reports/570035.md) | [statichttpserver] List any file in the folder by using | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 5 |
-| 747 | [1952978](../reports/1952978.md) | Filesystem experimental permissions policy does not han | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.7 | — | 5 |
-| 748 | [678727](../reports/678727.md) | potential RCE and XSS via file upload requiring user ac | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 8.8 | — | 5 |
-| 749 | [4110110](../reports/4110110.md) | HTTP/2 stream teardown can send freed response memory t | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 5 |
-| 750 | [878339](../reports/878339.md) | [extend-merge] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 5 |
-| 751 | [3508500](../reports/3508500.md) | integer Overflow in MQTT Protocol Handling Allows Bypas | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 5 |
-| 752 | [383112](../reports/383112.md) | [ponse] Path traversal in ponse module allows to read a | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | ponse | High — CVSS 7.5 | — | 4 |
-| 753 | [278225](../reports/278225.md) | If the developer forgets to remove the built in control | [CodeIgniter](../by-program/codeigniter.md) | https://github.com/bcit-ci/CodeIgniter | High — CVSS 8.4 | — | 4 |
-| 754 | [334837](../reports/334837.md) | [localhost-now] bypassing url filter which leads to rea | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | localhost-now | High — CVSS 7.5 | — | 4 |
-| 755 | [736522](../reports/736522.md) | [authmagic-timerange-stateless-core] Improper Authentic | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 4 |
-| 756 | [1178337](../reports/1178337.md) | Improper handling of untypical characters in domain nam | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 4 |
-| 757 | [312918](../reports/312918.md) | [public] Path Traversal allows to read content of arbit | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | public | High — CVSS 8.6 | — | 4 |
-| 758 | [3752489](../reports/3752489.md) | Memory Corruption via TOCTOU Race in SharedArrayBuffer  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.0 | — | 4 |
-| 759 | [820224](../reports/820224.md) | [sapper] Path Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.6 | — | 4 |
-| 760 | [390857](../reports/390857.md) | Prototype Pollution Vulnerability in noble Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | noble | High — CVSS 8.6 | — | 4 |
-| 761 | [579517](../reports/579517.md) | [hnzserver] Path Traversal allowing to read any files o | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 7.5 | — | 4 |
-| 762 | [875775](../reports/875775.md) | Invalid write (or double free) triggers curl command li | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 4 |
-| 763 | [330349](../reports/330349.md) | [angular-http-server] Server Directory Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | angular-http-server | High — CVSS 8.6 | — | 4 |
-| 764 | [888021](../reports/888021.md) | [wappalyzer] ReDoS allows an attacker to completely bre | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 4 |
-| 765 | [1566462](../reports/1566462.md) | error parse uri path in curl | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 4 |
-| 766 | [1147611](../reports/1147611.md) | DoS due to improper input validation can break the admi | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High | — | 4 |
-| 767 | [2038134](../reports/2038134.md) | Permission model bypass by specifying a path traversal  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.7 | — | 4 |
-| 768 | [1583680](../reports/1583680.md) | Undici does not use CONNECT or otherwise validate upstr | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.4 | — | 4 |
-| 769 | [3684614](../reports/3684614.md) | Heap-buffer-overflow in `Curl_ssl_push_certinfo_len()`  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 4 |
-| 770 | [321687](../reports/321687.md) | `base64url` allocates uninitialized Buffers when number | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | base64url | High — CVSS 7.1 | — | 4 |
-| 771 | [3780854](../reports/3780854.md) | PHP code injection in delivery-limitation `logical` val | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 8.8 | — | 4 |
-| 772 | [4038342](../reports/4038342.md) | dns.resolve truncates names containing NUL char | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.4 | — | 4 |
-| 773 | [3785919](../reports/3785919.md) | libcurl: HTTP/1.x bare LF byte in response header value | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 4 |
-| 774 | [329837](../reports/329837.md) | Bypass to defective fix of Path Traversal  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | localhost-now | High — CVSS 8.6 | — | 4 |
-| 775 | [3817602](../reports/3817602.md) | Node --run POSIX positional argument escaping allows sh | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 8.1 | — | 4 |
-| 776 | [4038287](../reports/4038287.md) | TLS certificate hostname bypass when the IP is written  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.4 | — | 4 |
-| 777 | [703415](../reports/703415.md) | [treekill] RCE via insecure command concatenation (only | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | treekill | High — CVSS 7.3 | — | 4 |
-| 778 | [3761647](../reports/3761647.md) | TLS conn reuse and session cache ignore fsslctx callbac | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 4 |
-| 779 | [2104564](../reports/2104564.md) | (CVE-2023-32004) Permission model bypass by specifying  | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/nodejs/node | High | — | 4 |
-| 780 | [319473](../reports/319473.md) | [open] concatenation of unsanitized input into exec() c | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | open | High — CVSS 8.4 | — | 3 |
-| 781 | [3784125](../reports/3784125.md) | GnuTLS OCSP stapling accepts unrelated SingleResponse ( | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 3 |
-| 782 | [3688064](../reports/3688064.md) | Node.js unicode dot separator handling can lead to tls  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.7 | — | 3 |
-| 783 | [867164](../reports/867164.md) | External storage app saves password for all users in th | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 7.9 | — | 3 |
-| 784 | [4006744](../reports/4006744.md) | TLS certificate hostname bypass when the host loosely r | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.4 | — | 3 |
-| 785 | [3923967](../reports/3923967.md) | WordPress 7.1 Media Processing Race Enables Persistent  | [WordPress](../by-program/wordpress.md) | WordPress Core | High | — | 3 |
-| 786 | [1664244](../reports/1664244.md) | fix(security):Path Traversal Bug | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric | High | — | 3 |
-| 787 | [3781492](../reports/3781492.md) | PHP code injection in delivery-limitation `logical` val | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 8.8 | — | 3 |
-| 788 | [3744200](../reports/3744200.md) | PHP code injection via unexpected delivery limitation p | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 8.8 | — | 3 |
-| 789 | [320269](../reports/320269.md) | `npmconf` (and `npm` js api) allocate and write to disk | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | npmconf | High — CVSS 7.4 | — | 3 |
-| 790 | [541354](../reports/541354.md) | A specifically malformed MQTT Subscribe packet crashes  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | mqtt-packet | High — CVSS 7.5 | — | 3 |
-| 791 | [320586](../reports/320586.md) | `foreman` is vulnerable to ReDoS in path | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | foreman | High — CVSS 7.5 | — | 3 |
-| 792 | [1189419](../reports/1189419.md) | XMLRPC does not limit deserializable classes. | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | High | — | 3 |
-| 793 | [1294043](../reports/1294043.md) | SSH server due to Improper Signature Verification | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | High — CVSS 7.0 | — | 2 |
-| 794 | [320159](../reports/320159.md) | `useragent` is vulnerable to ReDoS in user-agent string | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | useragent | High — CVSS 7.5 | — | 2 |
-| 795 | [506644](../reports/506644.md) | [@azhou/basemodel] SQL injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.6 | — | 2 |
-| 796 | [909757](../reports/909757.md) | [is-my-json-valid] ReDoS via 'style' format | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | is-my-json-valid | High — CVSS 7.5 | — | 2 |
-| 797 | [4064040](../reports/4064040.md) |  Use-after-free read of the freed referer buffer in `cu | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 2 |
-| 798 | [3915935](../reports/3915935.md) | Heap Use-After-Free in Materialized_cursor::open via SY | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Remote Cod | High — CVSS 8.8 | — | 2 |
-| 799 | [581939](../reports/581939.md) | [static-server-gx] Path Traversal allowing to read any  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 7.5 | — | 2 |
-| 800 | [3553340](../reports/3553340.md) | Active Storage Vips Transformer Missing validate_transf | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | High — CVSS 7.5 | — | 2 |
-| 801 | [460121](../reports/460121.md) | Publicly editable GitHub wikis | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | High | — | 2 |
-| 802 | [732431](../reports/732431.md) | Improper integrity protection of server-side encryption | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 7.4 | — | 2 |
-| 803 | [3846922](../reports/3846922.md) | HTTP/2 retained header blocks evade maxSessionMemory an | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 2 |
-| 804 | [1560324](../reports/1560324.md) | Cookie injection from non-secure context | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 2 |
-| 805 | [341044](../reports/341044.md) | [cloudcmd] Stored XSS in the filename when directories  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | cloudcmd | High — CVSS 8.5 | — | 2 |
-| 806 | [871156](../reports/871156.md) | [plain-object-merge] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 2 |
-| 807 | [411405](../reports/411405.md) | [http-live-simulator] Path traversal vulnerability | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | http-live-simulator | High — CVSS 7.5 | — | 2 |
-| 808 | [3760016](../reports/3760016.md) | Node.js WebCrypto AES Integer Overflow Leads to Remote  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 2 |
-| 809 | [714215](../reports/714215.md) | curl on Windows can be forced to execute code via OpenS | [curl](../by-program/curl.md) | https://github.com/curl/curl | High — CVSS 7.9 | — | 2 |
-| 810 | [579523](../reports/579523.md) | [http_server] Path Traversal allowing to read any files | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 7.5 | — | 2 |
-| 811 | [413388](../reports/413388.md) | Untrusted strings that are cache fetched with raw optio | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | High | — | 2 |
-| 812 | [3023605](../reports/3023605.md) | [CVE-2025-27220] ReDoS in CGI::Util#escapeElement | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/ruby | High — CVSS 7.5 | — | 2 |
-| 813 | [3852135](../reports/3852135.md) | DDP methods getThreadsList / getThreadMessages leaks pr | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | High | — | 2 |
-| 814 | [3869124](../reports/3869124.md) | **Unauthenticated IDOR allows modification of payment c | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/website | High — CVSS 7.5 | — | 1 |
-| 815 | [390847](../reports/390847.md) | Prototype Pollution Vulnerability in cached-path-relati | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | cached-path-relative | High — CVSS 7.6 | — | 1 |
-| 816 | [390871](../reports/390871.md) | Command Injection Vulnerability in win-fork/win-spawn P | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | win-spawn | High — CVSS 8.4 | — | 1 |
-| 817 | [4121685](../reports/4121685.md) | curl RTSP connection reuse routes response headers to t | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 1 |
-| 818 | [790623](../reports/790623.md) | [sirloin] Web Server Directory Traversal via Crafted GE | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 1 |
-| 819 | [865777](../reports/865777.md) | Bypass hide download Nextcloud Share | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 7.1 | — | 1 |
-| 820 | [966347](../reports/966347.md) | [bl] Uninitialized memory exposure via negative .consum | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 7.7 | — | 1 |
-| 821 | [4177724](../reports/4177724.md) | curl 8.23.0 keeps sending requests to an HTTP/3 backend | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 1 |
-| 822 | [916430](../reports/916430.md) | [json-bigint] DoS via `__proto__` assignment | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | json-bigint | High — CVSS 7.5 | — | 1 |
-| 823 | [4129950](../reports/4129950.md) | IDN decoding inserts authority delimiters and can redir | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 1 |
-| 824 | [877515](../reports/877515.md) | [keyd] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 1 |
-| 825 | [303480](../reports/303480.md) | Reflected XSS in admin settings | [Deconf](../by-program/deconf_com.md) | https://github.com/deconf/Google-Analyti | High | — | 1 |
-| 826 | [3393664](../reports/3393664.md) | SSRF via improper validation after DNS name resolution  | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | High — CVSS 7.7 | — | 1 |
-| 827 | [879740](../reports/879740.md) | Repositories of datanucleus are fetched over insecure p | [Central Security Project](../by-program/central-security-project.md) | Java Component in search.maven.org | High — CVSS 8.1 | — | 1 |
-| 828 | [1113663](../reports/1113663.md) | Inadequate Cryptographic Key Size and Insecure Cryptogr | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 1 |
-| 829 | [1542881](../reports/1542881.md) | curl proceeds with unsafe connections when -K file can' | [curl](../by-program/curl.md) | https://github.com/curl/curl | High — CVSS 8.0 | — | 1 |
-| 830 | [1485379](../reports/1485379.md) | Use of Unsafe function || Strcpy | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 1 |
-| 831 | [3473145](../reports/3473145.md) | Unauthenticated SSRF in Voxtelesys integration ('checkU | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | High — CVSS 8.6 | — | 1 |
-| 832 | [878394](../reports/878394.md) | [objtools] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 1 |
-| 833 | [3896779](../reports/3896779.md) | Blind SQL injection due to request precedence issue in  | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 8.8 | — | 1 |
-| 834 | [506791](../reports/506791.md) | Pippo XML Entity Expansion (Billion Laughs Attack) | [Central Security Project](../by-program/central-security-project.md) | Java Component in search.maven.org | High — CVSS 8.3 | — | 1 |
-| 835 | [3908943](../reports/3908943.md) | DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_p | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Access con | High — CVSS 8.0 | — | 1 |
-| 836 | [770190](../reports/770190.md) | Unexpected access to process open files via file:///pro | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 1 |
-| 837 | [3761342](../reports/3761342.md) | Permission Model: --allow-fs-read/--allow-fs-write radi | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 1 |
-| 838 | [508346](../reports/508346.md) | [increments] sql injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.6 | — | 1 |
-| 839 | [4030333](../reports/4030333.md) | CVE-2026-92392: HTTP/2 upload Use-After-Free | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 1 |
-| 840 | [4152553](../reports/4152553.md) | Unauthenticated Disclosure of Private, Draft, and Passw | [WordPress](../by-program/wordpress.md) | Secure Custom Fields | High | — | 1 |
-| 841 | [3836021](../reports/3836021.md) | Missing FILE-privilege enforcement in CONNECT file UDFs | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Access con | High — CVSS 8.8 | — | 1 |
-| 842 | [790873](../reports/790873.md) | [hangersteak] Web Server Directory Traversal via Crafte | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 1 |
-| 843 | [1276384](../reports/1276384.md) | Signature Verification /// golang.org/x/crypto/ssh | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | High — CVSS 7.0 | — | 1 |
-| 844 | [4121675](../reports/4121675.md) | CRLF injection in the RTSP request-line and Transport h | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 0 |
-| 845 | [4053116](../reports/4053116.md) | curl CONNECT response header colon-check bypass in cf-h | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 0 |
-| 846 | [4121689](../reports/4121689.md) | CRLF injection in the HTTP request-line via `CURLOPT_RE | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 0 |
-| 847 | [3678395](../reports/3678395.md) | Path Traversal in mbstream Extract | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Remote Cod | High — CVSS 7.8 | — | 0 |
-| 848 | [3679640](../reports/3679640.md) | Unauthenticated Persistent Denial-of-Service via Federa | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 7.5 | — | 0 |
-| 849 | [4057637](../reports/4057637.md) | [HIGH] CWE-22 — Path Traversal in FTP Wildcard Download | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 0 |
-| 850 | [333459](../reports/333459.md) | npm packages that overlap with core node packages | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.6 | — | 0 |
-| 851 | [4059104](../reports/4059104.md) | IMAP literal size truncation on 32-bit platforms corrup | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 0 |
-| 852 | [3831102](../reports/3831102.md) | Access control bypass due to request precedence issue i | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 8.1 | — | 0 |
-| 853 | [878332](../reports/878332.md) | [object-path-set] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 0 |
-| 854 | [1001218](../reports/1001218.md) | [@firebase/util] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | @firebase/util | High | — | 0 |
-| 855 | [1555440](../reports/1555440.md) | match | [curl](../by-program/curl.md) | https://github.com/curl/curl | High — CVSS 7.5 | — | 0 |
-| 856 | [713975](../reports/713975.md) | Only OpenSSL handles a CRL when passed in via CApath  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 0 |
-| 857 | [258084](../reports/258084.md) | Access to all files of remote user through shared file | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 6.8 | — | 151 |
-| 858 | [2054283](../reports/2054283.md) | Improper HTTP header block termination in llhttp | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 122 |
-| 859 | [768322](../reports/768322.md) | Remote Code Execution (Reverse Shell) - File Manager | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Medium — CVSS 5.1 | — | 114 |
-| 860 | [2828271](../reports/2828271.md) | Apache Airflow: Sensitive Information Exposure in DAG R | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Medium | — | 112 |
-| 861 | [889243](../reports/889243.md) | Re-Sharing allows increase of privileges | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.5 | — | 91 |
-| 862 | [3473882](../reports/3473882.md) | TLS PSK/ALPN Callback Exceptions Bypass Error Handlers, | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.9 | — | 78 |
-| 863 | [3175928](../reports/3175928.md) | ImageId Format Injection in Image Upload Endpoint | [Lichess](../by-program/lichess.md) | https://github.com/lichess-org/lila | Medium — CVSS 6.1 | — | 73 |
-| 864 | [3008446](../reports/3008446.md) | 1-Click Cross-Site Scripting via Custom Configuration i | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 6.1 | — | 70 |
-| 865 | [719426](../reports/719426.md) | File-drop content is visible through the gallery app | [Nextcloud](../by-program/nextcloud.md) | nextcloud/gallery | Medium — CVSS 5.0 | — | 68 |
-| 866 | [2376929](../reports/2376929.md) | ID4me feature of OpenID connect app available even when | [Nextcloud](../by-program/nextcloud.md) | nextcloud/user_oidc | Medium — CVSS 6.3 | — | 65 |
-| 867 | [3434156](../reports/3434156.md) | Username Validation Bypass | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 5.4 | — | 64 |
-| 868 | [3249624](../reports/3249624.md) | Path Traversal Vulnerability in Nextcloud Tables Enable | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/tables | Medium — CVSS 6.5 | — | 63 |
-| 869 | [3445890](../reports/3445890.md) | Link unfurling calls out to arbitrary URLs and the priv | [Basecamp](../by-program/basecamp.md) | ONCE: Campfire | Medium — CVSS 6.7 | — | 62 |
-| 870 | [2999394](../reports/2999394.md) | Pivilege escalation of any new user to Keymaster caused | [WordPress](../by-program/wordpress.md) | BBPress Core | Medium | — | 60 |
-| 871 | [876800](../reports/876800.md) | Time-base SQL Injection in Search Users | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Medium — CVSS 5.5 | — | 60 |
-| 872 | [2307225](../reports/2307225.md) | Path traversal by drive name in Windows environment | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.6 | — | 59 |
-| 873 | [887462](../reports/887462.md) | CVE-2020-8177: curl overwrite local file with -J | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 4.7 | — | 55 |
-| 874 | [3153497](../reports/3153497.md) | CVE-2025-5025: No QUIC certificate pinning with wolfSSL | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 54 |
-| 875 | [3486747](../reports/3486747.md) | SVG filter primitives bypass remote image blocking, ena | [Nextcloud](../by-program/nextcloud.md) | https://github.com/roundcube/roundcubema | Medium — CVSS 4.3 | — | 53 |
-| 876 | [1048457](../reports/1048457.md) | CVE-2020-8286: Inferior OCSP verification | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 6.6 | — | 51 |
-| 877 | [3091390](../reports/3091390.md) | Reflected Cross-Site Scripting (XSS) in Revive Adserver | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 49 |
-| 878 | [3465156](../reports/3465156.md) | Node.js permission model bypass via unchecked Unix Doma | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.8 | — | 49 |
-| 879 | [2254151](../reports/2254151.md) | Notes app can be tricked into using a received share cr | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 6.7 | — | 49 |
-| 880 | [2912277](../reports/2912277.md) | Hackers Attack Curl Vulnerability Accessing Sensitive I | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 48 |
-| 881 | [1238528](../reports/1238528.md) | wp-embed XSS on Safari | [WordPress](../by-program/wordpress.md) | WordPress Core | Medium | — | 47 |
-| 882 | [3523349](../reports/3523349.md) | Integer Underflow in src/var.c | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 46 |
-| 883 | [3443563](../reports/3443563.md) | Roundcube Webmail Style Sanitizer can be bypassed using | [Nextcloud](../by-program/nextcloud.md) | https://github.com/roundcube/roundcubema | Medium — CVSS 4.3 | — | 46 |
-| 884 | [2058337](../reports/2058337.md) | Inviting excessive long email addresses to a calendar e | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.3 | — | 46 |
-| 885 | [2872502](../reports/2872502.md) | Possible ReDoS vulnerability in query parameter filteri | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rails | Medium | — | 44 |
-| 886 | [2084280](../reports/2084280.md) | WASI sandbox escape via symlink | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 4.8 | — | 44 |
-| 887 | [3523953](../reports/3523953.md) | wcurl Argument Injection via Unquoted Variable | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 43 |
-| 888 | [3150884](../reports/3150884.md) | CVE-2025-4947: QUIC certificate check skip with wolfSSL | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 43 |
-| 889 | [793704](../reports/793704.md) | Server-Side Request Forgery (SSRF) in Ghost CMS  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Ghost | Medium — CVSS 4.4 | — | 43 |
-| 890 | [2442613](../reports/2442613.md) | CVE-2024-2398: HTTP/2 push headers memory-leak | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Medium | — | 42 |
-| 891 | [3590586](../reports/3590586.md) | position: fixed !important bypasses CSS sanitizer's fix | [Nextcloud](../by-program/nextcloud.md) | https://github.com/roundcube/roundcubema | Medium — CVSS 5.4 | — | 42 |
-| 892 | [1095645](../reports/1095645.md) | Authenticated XXE | [WordPress](../by-program/wordpress.md) | WordPress Core | Medium | — | 41 |
-| 893 | [1444151](../reports/1444151.md) | XSS vulnerabilities due to missing checks in tag helper | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium | — | 41 |
-| 894 | [2247457](../reports/2247457.md) | Can download files by zipping the folder | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.1 | — | 40 |
-| 895 | [3338748](../reports/3338748.md) | Approval app allows users to request approval for other | [Nextcloud](../by-program/nextcloud.md) | nextcloud/approval | Medium — CVSS 4.3 | — | 39 |
-| 896 | [3247499](../reports/3247499.md) | Deck app allowed user with "Can share" permission to mo | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | Medium — CVSS 5.4 | — | 38 |
-| 897 | [2890071](../reports/2890071.md) | admin_audit does not log actions on files in a group fo | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.3 | — | 38 |
-| 898 | [2497947](../reports/2497947.md) | Invisible Salamanders Attack against end_to_end_encrypt | [Nextcloud](../by-program/nextcloud.md) | nextcloud/end_to_end_encryption | Medium — CVSS 6.5 | — | 38 |
-| 899 | [2115212](../reports/2115212.md) | DNS pin middleware can be tricked into DNS rebinding al | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Medium — CVSS 5.0 | — | 38 |
-| 900 | [1210502](../reports/1210502.md) | [jitsi-meet] Authentication Bypass when using JWT w/ pu | [8x8](../by-program/8x8-bounty.md) | https://github.com/jitsi | Medium — CVSS 5.3 | — | 37 |
-| 901 | [3589551](../reports/3589551.md) | RBAC bypass on App log endpoints via `permissionRequire | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | Medium — CVSS 6.5 | — | 37 |
-| 902 | [3470970](../reports/3470970.md) | Reflected XSS in banner-acl.php and channel-acl.php via | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.1 | — | 37 |
-| 903 | [1736378](../reports/1736378.md) | DOM XSS at `https://adobedocs.github.io/OAE_PartnerAPI/ | [Adobe](../by-program/adobe.md) | https://github.com/adobe/* | Medium — CVSS 6.1 | — | 37 |
-| 904 | [3575245](../reports/3575245.md) | Integer Overflow in curl_multi_get_handles() Leading to | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 36 |
-| 905 | [3594137](../reports/3594137.md) | Stored XSS in attachment-display exploitable through Sa | [Nextcloud](../by-program/nextcloud.md) | https://github.com/roundcube/roundcubema | Medium — CVSS 6.7 | — | 36 |
-| 906 | [2669852](../reports/2669852.md) | CVE-2024-8096: OCSP stapling bypass with GnuTLS | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 36 |
-| 907 | [3211126](../reports/3211126.md) | Sensitive information disclosure with malicious netrc f | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 36 |
-| 908 | [3473696](../reports/3473696.md) | [revive-adserver] Reflected XSS in Banner Delivery Opti | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.1 | — | 35 |
-| 909 | [270072](../reports/270072.md) | Unpacker improperly validates symlinks, allowing gems w | [RubyGems](../by-program/rubygems.md) | https://github.com/rubygems/rubygems | Medium | — | 35 |
-| 910 | [339483](../reports/339483.md) | "Bad Protocols Validation" Bypass in "wp_kses_bad_proto | [WordPress](../by-program/wordpress.md) | WordPress Core | Medium | — | 34 |
-| 911 | [3366484](../reports/3366484.md) | Unsanitized IPFS CID Allows SSRF Against Configured Gat | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 34 |
-| 912 | [2559516](../reports/2559516.md) | CVE-2024-6197: freeing stack buffer in utf8asn1str | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 34 |
-| 913 | [361951](../reports/361951.md) | Exploiting JSONP callback on /username/charts.json endp | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | Medium — CVSS 4.3 | — | 34 |
-| 914 | [3382343](../reports/3382343.md) | BOLA/IDOR in Out-of-Office API allows any authenticated | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 6.5 | — | 34 |
-| 915 | [263662](../reports/263662.md) | Cross-Site Request Forgery on the Federalist API (all e | [GSA Bounty](../by-program/gsa_bbp.md) | https://github.com/18f/federalist | Medium | — | 34 |
-| 916 | [3456295](../reports/3456295.md) | Uncatchable "Maximum call stack size exceeded" error on | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.9 | — | 34 |
-| 917 | [2389565](../reports/2389565.md) | Action Text XSS (Rails 7.1.x) | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium | — | 33 |
-| 918 | [3591944](../reports/3591944.md) | CVE-2026-3805: use after free in SMB connection reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 33 |
-| 919 | [3590583](../reports/3590583.md) | Unquoted body background attribute enables CSS injectio | [Nextcloud](../by-program/nextcloud.md) | https://github.com/roundcube/roundcubema | Medium — CVSS 5.4 | — | 33 |
-| 920 | [1023899](../reports/1023899.md) | Regular expression denial of service in ActiveRecord's  | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 5.3 | — | 33 |
-| 921 | [1784681](../reports/1784681.md) | Ability to read any emails through IDOR on Nextcloud Ma | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Medium — CVSS 4.1 | — | 33 |
-| 922 | [2807139](../reports/2807139.md) | CVE-2024-49761: ReDoS vulnerability in REXML | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/ruby | Medium | — | 33 |
-| 923 | [3310318](../reports/3310318.md) | Missing Security Headers | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 32 |
-| 924 | [3411750](../reports/3411750.md) | Stored-XSS in campaign name displayed in Banners modal | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.5 | — | 32 |
-| 925 | [3357723](../reports/3357723.md) | Memory leak that enables remote Denial of Service again | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 32 |
-| 926 | [2401359](../reports/2401359.md) | CVE-2024-25128: Apache Airflow: Authentication Bypass w | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Medium | — | 32 |
-| 927 | [1662194](../reports/1662194.md) | Secret API Key is logged in cleartext  | [Omise](../by-program/omise.md) | github.com | Medium | — | 31 |
-| 928 | [2230915](../reports/2230915.md) | Bruteforce protection in password verification can be b | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.3 | — | 31 |
-| 929 | [3516974](../reports/3516974.md) | SSL options ISSUERCERT, EC_CURVES and CRLFILE silently  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 31 |
-| 930 | [2352676](../reports/2352676.md) | cookie is sent on redirect | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 30 |
-| 931 | [3137895](../reports/3137895.md) | Missing ownership check in Tables app allows moving col | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/tables | Medium — CVSS 6.3 | — | 30 |
-| 932 | [2489843](../reports/2489843.md) | Crafted smart contract can take 1.5 minutes to execute  | [Rootstock Labs](../by-program/rootstocklabs.md) | https://github.com/rsksmart/rskj | Medium | — | 30 |
-| 933 | [3418031](../reports/3418031.md) | Open Redirect in Rocket.Chat | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | Medium — CVSS 5.4 | — | 30 |
-| 934 | [3138721](../reports/3138721.md) | Tables app allowed users to view columns metadata infor | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/tables | Medium — CVSS 4.3 | — | 29 |
-| 935 | [3680680](../reports/3680680.md) | libcurl omits IPv6 zoneid from host identity and leaks  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 29 |
-| 936 | [2939077](../reports/2939077.md) | CVE-2024-56374 Potential denial-of-service in IPv6 vali | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/django | Medium | — | 29 |
-| 937 | [2580062](../reports/2580062.md) | NoSQL injection leaks visitor token and livechat messag | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | Medium — CVSS 6.5 | — | 29 |
-| 938 | [587727](../reports/587727.md) | CSS injection via BB code tag "█████" | [phpBB](../by-program/phpbb.md) | https://github.com/phpbb/phpbb | Medium | — | 28 |
-| 939 | [2250398](../reports/2250398.md) | Non-admin users can reset app allowlist to the default | [Nextcloud](../by-program/nextcloud.md) | nextcloud/guests | Medium — CVSS 4.1 | — | 28 |
-| 940 | [3282709](../reports/3282709.md) | Integer Overflow in schannel.c TLS Data Transmission | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 28 |
-| 941 | [2212193](../reports/2212193.md) | CVE-2023-46218: cookie mixed case PSL bypass | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 28 |
-| 942 | [3328291](../reports/3328291.md) | Existence of completed pods allows for bypass of Kubern | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/aws/amazon-vpc-cni-k8 | Medium — CVSS 4.3 | — | 28 |
-| 943 | [3598444](../reports/3598444.md) | Curl_compareheader() fails to match multi-value HTTP he | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 28 |
-| 944 | [3674275](../reports/3674275.md) | lib/http2.c: SSL connections accept non-HTTP push schem | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 28 |
-| 945 | [2094056](../reports/2094056.md) | RCE and DoS in Cosmovisor | [Cosmos](../by-program/cosmos.md) | https://github.com/cosmos/cosmos-sdk | Medium | — | 28 |
-| 946 | [3346118](../reports/3346118.md) | Timing Attack Vulnerability in curl Digest Authenticati | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 28 |
-| 947 | [2554079](../reports/2554079.md) | External storage - global credentials returned to the c | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.6 | — | 28 |
-| 948 | [2101165](../reports/2101165.md) | user_ldap app logs user passwords in the log file on le | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.6 | — | 28 |
-| 949 | [1565615](../reports/1565615.md) | CVE-2022-27779: cookie for trailing dot TLD | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Medium | — | 27 |
-| 950 | [3646072](../reports/3646072.md) | Negotiate connection reuse with wrong credentials when  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 27 |
-| 951 | [1509216](../reports/1509216.md) | SMTP Command Injection in Appointment Emails via Newlin | [Nextcloud](../by-program/nextcloud.md) | nextcloud/calendar | Medium — CVSS 5.3 | — | 27 |
-| 952 | [2094473](../reports/2094473.md) | Password of talk conversations can be bruteforced | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Medium — CVSS 5.0 | — | 27 |
-| 953 | [2284065](../reports/2284065.md) | Denial of Service by resource exhaustion in fetch() bro | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 27 |
-| 954 | [3413764](../reports/3413764.md) | Username normalization missing allows visually indistin | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 5.4 | — | 27 |
-| 955 | [2112973](../reports/2112973.md) | Enabling Birthday Contact to any user | [Nextcloud](../by-program/nextcloud.md) | nextcloud/calendar | Medium — CVSS 4.3 | — | 27 |
-| 956 | [3247386](../reports/3247386.md) | Participants were able to blindly delete poll drafts of | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Medium — CVSS 4.2 | — | 27 |
-| 957 | [3590576](../reports/3590576.md) | SMIL values and by attributes bypass remote image block | [Nextcloud](../by-program/nextcloud.md) | https://github.com/roundcube/roundcubema | Medium — CVSS 4.7 | — | 26 |
-| 958 | [3246519](../reports/3246519.md) | Default Minimum TLS Version Set to TLS v1.0 (Cryptograp | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 26 |
-| 959 | [3408126](../reports/3408126.md) | Directory Traversal Vulnerability in cURL via Content-D | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 25 |
-| 960 | [2931688](../reports/2931688.md) | ActionView sanitize helper bypass with 'style' and 'svg | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rails | Medium — CVSS 6.1 | — | 25 |
-| 961 | [3597359](../reports/3597359.md) | NULL Pointer Dereference (DoS) in libcurl SFTP QUOTE co | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 25 |
-| 962 | [3583983](../reports/3583983.md) | CVE-2026-3783: token leak with redirect and netrc | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 25 |
-| 963 | [2902856](../reports/2902856.md) | [nextcloud/mail] Blind SSRF to Internal Network via "Li | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Medium — CVSS 4.3 | — | 25 |
-| 964 | [842462](../reports/842462.md) | Pixel flood attack cause the javascript heap out of mem | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | jpeg-js | Medium — CVSS 5.3 | — | 25 |
-| 965 | [1331728](../reports/1331728.md) | Cards in Deck are readable by any user | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | Medium | — | 25 |
-| 966 | [374969](../reports/374969.md) | Navigation to protocol handler URL from the opened page | [Brave Software](../by-program/brave.md) | https://github.com/brave/browser-laptop | Medium | — | 25 |
-| 967 | [3272982](../reports/3272982.md) | Vulnerability Report: Public Exposure of Security Audit | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 24 |
-| 968 | [1842114](../reports/1842114.md) | Missing brute force protection on password confirmation | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.2 | — | 24 |
-| 969 | [1083376](../reports/1083376.md) | Reflected XSS on /admin/stats.php | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium | — | 24 |
-| 970 | [881918](../reports/881918.md) | Authenticated Stored Cross-site Scripting in bbPress | [WordPress](../by-program/wordpress.md) | BBPress Core | Medium | — | 24 |
-| 971 | [2671404](../reports/2671404.md) | Nextcloud Tables app - inserting rows to an arbitrary t | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/tables | Medium — CVSS 6.3 | — | 24 |
-| 972 | [2913312](../reports/2913312.md) | Usage of unsafe random function in undici for choosing  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.8 | — | 24 |
-| 973 | [941178](../reports/941178.md) | SSRF for kube-apiserver cloudprovider scene | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/apiserver | Medium — CVSS 6.8 | — | 24 |
-| 974 | [3697719](../reports/3697719.md) | CVE-2026-7168: cross-proxy Digest auth state leak | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 24 |
-| 975 | [2294709](../reports/2294709.md) | CVE-2023-49920: Apache Airflow: Missing CSRF protection | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Medium — CVSS 5.3 | — | 24 |
-| 976 | [1234531](../reports/1234531.md) | private keys exposed on the GitHub repository | [MCUboot](../by-program/mcuboot.md) | https://github.com/mcu-tools/mcuboot | Medium | — | 24 |
-| 977 | [1694173](../reports/1694173.md) | ActionView sanitize helper bypass leading to XSS using  | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium | — | 24 |
-| 978 | [1302395](../reports/1302395.md) | Sauce Labs API key unencrypted in an old commit | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium | — | 23 |
-| 979 | [3108869](../reports/3108869.md) | Denial of Service by memory exhaustion in net/imap | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/ruby | Medium | — | 23 |
-| 980 | [3249936](../reports/3249936.md) | HTTP Request Smuggling Vulnerability Analysis - cURL Se | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 23 |
-| 981 | [3658049](../reports/3658049.md) | libcurl: Integer truncation in curl_easy_ssls_import()  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 23 |
-| 982 | [3432833](../reports/3432833.md) | [SFTP] TOCTOU Race Condition in Upload Resume Logic Lea | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 23 |
-| 983 | [2559404](../reports/2559404.md) | Crafted smart contract can take ~23 seconds to execute  | [Rootstock Labs](../by-program/rootstocklabs.md) | https://github.com/rsksmart/rskj | Medium — CVSS 6.1 | — | 23 |
-| 984 | [3306456](../reports/3306456.md) | Curl parse_connect_to_string Heap-Overread Leading to D | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 23 |
-| 985 | [3638715](../reports/3638715.md) | Use-After-Free race condition in url_move_hostname() vi | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 23 |
-| 986 | [3694390](../reports/3694390.md) | CVE-2026-7009: OCSP stapling bypass with Apple SecTrust | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 23 |
-| 987 | [179695](../reports/179695.md) | XSS via unicode characters in upload filename | [WordPress](../by-program/wordpress.md) | WordPress Core | Medium | — | 23 |
-| 988 | [3413890](../reports/3413890.md) | Unrestricted setPerPage allows huge result sets / resou | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.5 | — | 22 |
-| 989 | [1924212](../reports/1924212.md) | Improper restriction of excessive authentication attemp | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.0 | — | 22 |
-| 990 | [1444501](../reports/1444501.md) | URI parser's RFC3986 regular expression has poor perfor | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium — CVSS 5.3 | — | 22 |
-| 991 | [2931710](../reports/2931710.md) | #2931639   ActionView sanitize helper bypass with math- | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rails | Medium — CVSS 6.1 | — | 22 |
-| 992 | [1763817](../reports/1763817.md) | Take over subdomain undici.nodejs.org.cdn.cloudflare.ne | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.9 | — | 22 |
-| 993 | [3574928](../reports/3574928.md) | Able to bypass HSTS using trailing dot | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 22 |
-| 994 | [2931691](../reports/2931691.md) | ActionView sanitize helper bypass with noscript | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rails | Medium — CVSS 6.1 | — | 22 |
-| 995 | [3112033](../reports/3112033.md) | Calendar attachments of local files are offered to down | [Nextcloud](../by-program/nextcloud.md) | nextcloud/calendar | Medium — CVSS 5.7 | — | 22 |
-| 996 | [1516377](../reports/1516377.md) | SMTP Command Injection in iCalendar Attachments to Emai | [Nextcloud](../by-program/nextcloud.md) | nextcloud/calendar | Medium — CVSS 4.1 | — | 22 |
-| 997 | [3645361](../reports/3645361.md) | Data race in Curl_dnscache_add_negative() corrupts shar | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 22 |
-| 998 | [245872](../reports/245872.md) | [IDOR] The authenticated user can restart website build | [GSA Bounty](../by-program/gsa_bbp.md) | https://github.com/18f/federalist | Medium | — | 22 |
-| 999 | [2251074](../reports/2251074.md) | Improper handling of request URLs in nextcloud/guests a | [Nextcloud](../by-program/nextcloud.md) | nextcloud/guests | Medium — CVSS 5.4 | — | 22 |
-| 1000 | [874778](../reports/874778.md) | CVE-2020-8169: Partial password leak over DNS on HTTP r | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 5.5 | — | 21 |
-| 1001 | [3471553](../reports/3471553.md) | Unbounded memory consumption via compressed HTTP respon | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 21 |
-| 1002 | [3250490](../reports/3250490.md) | Disk Space Exhaustion leading to a Denial of Service (D | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 21 |
-| 1003 | [3399191](../reports/3399191.md) | Reflected XSS in account-preferences-plugin.php | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 21 |
-| 1004 | [490728](../reports/490728.md) | [takeapeek] XSS via HTML tag injection in directory lis | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | takeapeek | Medium — CVSS 5.2 | — | 21 |
-| 1005 | [3235428](../reports/3235428.md) | CRLF injection in libcurl's SMTP client via --mail-from | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 21 |
-| 1006 | [2666849](../reports/2666849.md) | Uncontrolled Resource Consumption when parsing maliciou | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium — CVSS 5.3 | — | 21 |
-| 1007 | [2402853](../reports/2402853.md) | HTTP/2 PUSH_PROMISE DoS | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 20 |
-| 1008 | [1913733](../reports/1913733.md) | CVE-2023-28319: UAF in SSH sha256 fingerprint check | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 20 |
-| 1009 | [1083231](../reports/1083231.md) | Reflected XSS on /admin/userlog-index.php | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium | — | 20 |
-| 1010 | [460911](../reports/460911.md) | [FG-VD-18-165] Wordpress Cross-Site Scripting Vulnerabi | [WordPress](../by-program/wordpress.md) | WordPress Core | Medium — CVSS 6.4 | — | 20 |
-| 1011 | [1024749](../reports/1024749.md) | Cookie exposure due to unexpected file permission chang | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 4.0 | — | 20 |
-| 1012 | [881855](../reports/881855.md) | Arbitrary change of blog's background image via CSRF | [WordPress](../by-program/wordpress.md) | WordPress Core | Medium — CVSS 6.4 | — | 20 |
-| 1013 | [3702718](../reports/3702718.md) | MQTT state machine confusion: PINGRESP/DISCONNECT with  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 20 |
-| 1014 | [2931636](../reports/2931636.md) |  ActionView sanitize helper bypass with style and math | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rails | Medium — CVSS 6.1 | — | 20 |
-| 1015 | [2257156](../reports/2257156.md) | Improper handling of wildcards in --allow-fs-read and - | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.0 | — | 20 |
-| 1016 | [2402193](../reports/2402193.md) | CVE-2024-27351: Potential regular expression denial-of- | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/django | Medium | — | 20 |
-| 1017 | [2211561](../reports/2211561.md) | Self XSS when pasting HTML into Text app with Ctrl+Shif | [Nextcloud](../by-program/nextcloud.md) | nextcloud/text | Medium — CVSS 4.6 | — | 20 |
-| 1018 | [665302](../reports/665302.md) | [seeftl] Stored XSS when directory listing via filename | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | seeftl | Medium — CVSS 4.4 | — | 20 |
-| 1019 | [3634571](../reports/3634571.md) | Path Traversal in writeFile via Unsafe Prefix Containme | [arkadiyt-projects](../by-program/arkadiyt-projects.md) | https://github.com/arkadiyt/protodump | Medium — CVSS 6.7 | — | 20 |
-| 1020 | [343111](../reports/343111.md) | OAuth2 Access Token and App Password Security Vulnerabi | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 6.4 | — | 19 |
-| 1021 | [3674940](../reports/3674940.md) | Critical broken access control: API-only delegated admi | [Nextcloud](../by-program/nextcloud.md) | nextcloud/groupfolders | Medium — CVSS 5.7 | — | 19 |
-| 1022 | [2931639](../reports/2931639.md) | ActionView sanitize helper bypass with style | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rails | Medium — CVSS 6.1 | — | 19 |
-| 1023 | [3302518](../reports/3302518.md) | ## Title  Heap Use-After-Free Vulnerability in `curl` L | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 19 |
-| 1024 | [1782514](../reports/1782514.md) | CVE-2022-45402: Apache Airflow: Open redirect during lo | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Medium | — | 19 |
-| 1025 | [1331281](../reports/1331281.md) | Stored XSS on 1.4.0 | [ImpressCMS](../by-program/impresscms.md) | https://github.com/impresscms/impresscms | Medium — CVSS 4.8 | — | 19 |
-| 1026 | [2792484](../reports/2792484.md) | When curl uses Schannel as TLS backend, it fails to enf | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 19 |
-| 1027 | [3013913](../reports/3013913.md) | [CVE-2025-27219] Denial of Service in CGI::Cookie.parse | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/ruby | Medium | — | 19 |
-| 1028 | [1358977](../reports/1358977.md) | When sharing a Deck card in conversation the metaData c | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Medium — CVSS 5.0 | — | 19 |
-| 1029 | [1547048](../reports/1547048.md) | CVE-2022-27776: Auth/cookie leak on redirect  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 19 |
-| 1030 | [2110945](../reports/2110945.md) | Memcached used as RateLimiter backend is no-op | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.3 | — | 19 |
-| 1031 | [3295738](../reports/3295738.md) | Account/Repository Takeover via Abandoned GitHub Userna | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 19 |
-| 1032 | [3403727](../reports/3403727.md) | Reflected XSS in /admin/banner-zone.php (v6.0.0+) | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.1 | — | 18 |
-| 1033 | [2092749](../reports/2092749.md) | Bypass network import restriction via data URL | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 18 |
-| 1034 | [3584491](../reports/3584491.md) | LM Challenge-Response Hash Always Sent in SMB Authentic | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 18 |
-| 1035 | [2987782](../reports/2987782.md) | Possible DoS by memory exhaustion in net/imap  | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/ruby | Medium | — | 18 |
-| 1036 | [1337422](../reports/1337422.md) | Folder architecture and Filesizes of private file drop  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium | — | 18 |
-| 1037 | [328270](../reports/328270.md) | XSS vulnerability in sanitize-method when parsing link' | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 6.7 | — | 18 |
-| 1038 | [3669637](../reports/3669637.md) | CVE-2026-6253: proxy credentials leak over redirect-to  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 18 |
-| 1039 | [3584865](../reports/3584865.md) | In curl's SASL OAUTHBEARER authentication, including th | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 17 |
-| 1040 | [3356088](../reports/3356088.md) | Race condition on global `gss_context` during SOCKS5 GS | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 17 |
-| 1041 | [2416725](../reports/2416725.md) | CVE-2024-2466: TLS certificate check bypass with mbedTL | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 5.3 | — | 17 |
-| 1042 | [619484](../reports/619484.md) | User with read-only access to a share can gain write ac | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.8 | — | 17 |
-| 1043 | [2289333](../reports/2289333.md) | see card comments after remove shared board | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | Medium — CVSS 4.3 | — | 17 |
-| 1044 | [1850407](../reports/1850407.md) | Chat room member disclosure via autocomplete API | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Medium — CVSS 4.2 | — | 17 |
-| 1045 | [605915](../reports/605915.md) | Reflected XSS / Markup Injection in `index.php/svg/core | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 6.5 | — | 17 |
-| 1046 | [1895976](../reports/1895976.md) | Users can set up workflows using restricted and invisib | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 6.5 | — | 17 |
-| 1047 | [3403450](../reports/3403450.md) | Information Disclosure via Verbose Error Messages | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 17 |
-| 1048 | [2095061](../reports/2095061.md) | Jitsi: Bridge Message Spoofing due to Improper JSON Han | [8x8](../by-program/8x8-bounty.md) | https://github.com/jitsi | Medium | — | 17 |
-| 1049 | [3511792](../reports/3511792.md) | HashDoS in V8 | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.9 | — | 17 |
-| 1050 | [3595753](../reports/3595753.md) | Connection Reuse Ignores OAuth Bearer Token Mismatch | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 17 |
-| 1051 | [2209665](../reports/2209665.md) | Secrets can be unmasked in the "Rendered Template" | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Medium — CVSS 6.5 | — | 17 |
-| 1052 | [3455037](../reports/3455037.md) | Certificate Hostname Validation Bypass via Leading Dot  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 17 |
-| 1053 | [431561](../reports/431561.md) | Specially constructed multi-part requests cause multi-s | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 5.3 | — | 17 |
-| 1054 | [3779690](../reports/3779690.md) | Stored XSS in Rocket.Chat HTML File Export — Unauthenti | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | Medium — CVSS 5.4 | — | 16 |
-| 1055 | [3401464](../reports/3401464.md) | Information Disclosure via “Add user” lookup in Account | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 16 |
-| 1056 | [1977168](../reports/1977168.md) | XSS exploit of RDoc documentation generated by rdoc (CV | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium — CVSS 5.4 | — | 16 |
-| 1057 | [275269](../reports/275269.md) | Gem signature forgery | [RubyGems](../by-program/rubygems.md) | https://github.com/rubygems/rubygems | Medium — CVSS 5.5 | — | 16 |
-| 1058 | [3481595](../reports/3481595.md) | SMTP CRLF Injection & Protocol Desynchronization in lib | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 16 |
-| 1059 | [395944](../reports/395944.md) | Reflected XSS  in the npm module express-cart. | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | express-cart | Medium — CVSS 4.8 | — | 16 |
-| 1060 | [1685979](../reports/1685979.md) | DoS via Playbook  | [Mattermost](../by-program/mattermost.md) | Mattermost Plugins | Medium — CVSS 4.3 | — | 16 |
-| 1061 | [3680038](../reports/3680038.md) | Digest Auth State Leak on Cross-Origin Redirect via Net | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 16 |
-| 1062 | [2108342](../reports/2108342.md) | Error when editing a calendar appointment returns stack | [Nextcloud](../by-program/nextcloud.md) | nextcloud/calendar | Medium — CVSS 4.3 | — | 16 |
-| 1063 | [2269177](../reports/2269177.md) | Node.js is vulnerable to the Marvin Attack (timing vari | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 16 |
-| 1064 | [1826048](../reports/1826048.md) | CVE-2023-23916: HTTP multi-header compression denial of | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 5.3 | — | 16 |
-| 1065 | [775693](../reports/775693.md) | Reflected XSS on www/delivery/afr.php | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 16 |
-| 1066 | [952349](../reports/952349.md) | Possible denial of service when entering a loooong pass | [Nextcloud](../by-program/nextcloud.md) | nextcloud/password_policy | Medium — CVSS 5.3 | — | 16 |
-| 1067 | [3124490](../reports/3124490.md) | Speculative Execution Side-Channel in `curl`  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 16 |
-| 1068 | [3632427](../reports/3632427.md) | Unbounded GZIP Decompression Leading to Event-Loop Star | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 16 |
-| 1069 | [3642555](../reports/3642555.md) | CVE-2026-5545: wrong reuse of HTTP Negotiate connection | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 16 |
-| 1070 | [1647287](../reports/1647287.md) | Disabling context isolation, nodeIntegrationInSubFrames | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/Electron | Medium | — | 16 |
-| 1071 | [748765](../reports/748765.md) | [Total.js] Path traversal vulnerability allows to read  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | total.js | Medium — CVSS 5.3 | — | 16 |
-| 1072 | [3355213](../reports/3355213.md) | Use-after-free when POST body buffer is freed before tr | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 16 |
-| 1073 | [245833](../reports/245833.md) | The user, who was deleted from Github Organization, sti | [GSA Bounty](../by-program/gsa_bbp.md) | https://github.com/18f/federalist | Medium | — | 16 |
-| 1074 | [986365](../reports/986365.md) | Reflected XSS on /www/delivery/afr.php (bypass of repor | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium | — | 16 |
-| 1075 | [2990139](../reports/2990139.md) | Format string vulnerability, curl_msnprintf() function  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 15 |
-| 1076 | [495515](../reports/495515.md) | Reflected XSS: Taxonomy Converter via tax parameter | [WordPress](../by-program/wordpress.md) | Official WordPress plugins | Medium | — | 15 |
-| 1077 | [3677759](../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 15 |
-| 1078 | [1955370](../reports/1955370.md) | Incorrect handling of certain characters passed to the  | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 4.3 | — | 15 |
-| 1079 | [1357948](../reports/1357948.md) | Attacker can bypass authentication build on ingress ext | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/ingress-ng | Medium — CVSS 6.5 | — | 15 |
-| 1080 | [867052](../reports/867052.md) | Access Control: Inject tasks into other users decks | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.1 | — | 15 |
-| 1081 | [1306942](../reports/1306942.md) | Use of a Broken or Risky Cryptographic Algorithm | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium | — | 15 |
-| 1082 | [403703](../reports/403703.md) | List any file in the folder by using path traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | simplehttpserver | Medium — CVSS 6.8 | — | 15 |
-| 1083 | [1094063](../reports/1094063.md) | Take over a mail account due missing validation of acco | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Medium — CVSS 5.4 | — | 15 |
-| 1084 | [245172](../reports/245172.md) | Double Stored Cross-Site scripting in the admin panel | [GSA Bounty](../by-program/gsa_bbp.md) | https://github.com/18f/federalist | Medium | — | 15 |
-| 1085 | [1706248](../reports/1706248.md) | Guests can continue to receive video streams from call  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Medium — CVSS 6.6 | — | 15 |
-| 1086 | [1398706](../reports/1398706.md) | Google storage bucket takeover which is used to load JS | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/release | Medium — CVSS 5.3 | — | 14 |
-| 1087 | [3418528](../reports/3418528.md) | Unsafe use of strcpy in Curl_ldap_err2string (packages/ | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 14 |
-| 1088 | [690010](../reports/690010.md) | OS Command Injection on Jison [all-parser-ports] | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | jison | Medium | — | 14 |
-| 1089 | [1269242](../reports/1269242.md) | CVE-2021-22945: UAF and double-free in MQTT sending | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 14 |
-| 1090 | [1095612](../reports/1095612.md) | Node Validation Admission does not observe all oldObjec | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/apiserver | Medium — CVSS 6.5 | — | 14 |
-| 1091 | [1767503](../reports/1767503.md) | Reference caching can leak data to unauthorized users | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | Medium — CVSS 5.4 | — | 14 |
-| 1092 | [2271054](../reports/2271054.md) | DoS in bigdecimal's sqrt function due to miscalculation | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium | — | 14 |
-| 1093 | [3689633](../reports/3689633.md) | Hidden/restricted tags can be mutated through synonym I | [Discourse](../by-program/discourse.md) | https://github.com/discourse/discourse | Medium — CVSS 4.3 | — | 14 |
-| 1094 | [2859735](../reports/2859735.md) | curl --continue-at confusion | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 14 |
-| 1095 | [508490](../reports/508490.md) | Nextcloud domain and name of every user leaked to looku | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 6.8 | — | 14 |
-| 1096 | [3636044](../reports/3636044.md) | HTTP/2 PUSH_PROMISE header loss on OOM bypasses scheme  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 14 |
-| 1097 | [788883](../reports/788883.md) | [nested-property] Prototype Pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 5.9 | — | 14 |
-| 1098 | [1552110](../reports/1552110.md) | OAUTH2 bearer not-checked for connection re-use | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Medium | — | 14 |
-| 1099 | [1895874](../reports/1895874.md) | Responsive Server-side Request Forgery (SSRF) | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Medium — CVSS 4.3 | — | 14 |
-| 1100 | [1736327](../reports/1736327.md) | DOM XSS at `https://adobedocs.github.io/indesign-api-do | [Adobe](../by-program/adobe.md) | https://github.com/adobe/* | Medium — CVSS 6.1 | — | 14 |
-| 1101 | [369086](../reports/369086.md) | URL spoofing in Brave for macOS | [Brave Software](../by-program/brave.md) | https://github.com/brave/browser-laptop | Medium | — | 14 |
-| 1102 | [903872](../reports/903872.md) | Remote Code Execution through "Files_antivirus" plugin | [ownCloud](../by-program/owncloud.md) | owncloud/core | Medium | — | 14 |
-| 1103 | [297434](../reports/297434.md) | Unauthenticated Reflected XSS in admin dashboard | [Deconf](../by-program/deconf_com.md) | https://github.com/deconf/Google-Analyti | Medium — CVSS 4.7 | — | 13 |
-| 1104 | [390881](../reports/390881.md) | Code Injection Vulnerability in morgan Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | morgan | Medium — CVSS 6.8 | — | 13 |
-| 1105 | [1893186](../reports/1893186.md) | Reflected XSS vulnerability with full CSP bypass in Nex | [Nextcloud](../by-program/nextcloud.md) | nextcloud/richdocuments | Medium — CVSS 4.3 | — | 13 |
-| 1106 | [3770482](../reports/3770482.md) | files_lock: a write-share collaborator can place a TYPE | [Nextcloud](../by-program/nextcloud.md) | nextcloud/files_lock | Medium — CVSS 6.5 | — | 13 |
-| 1107 | [803922](../reports/803922.md) | Missing resource identifier encoding may lead to securi | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 4.8 | — | 13 |
-| 1108 | [1255869](../reports/1255869.md) | private keys exposed on the GitHub repository | [MCUboot](../by-program/mcuboot.md) | https://github.com/mcu-tools/mcuboot | Medium | — | 13 |
-| 1109 | [3000639](../reports/3000639.md) | curl doesn't hide credentials in /proc/XXX/cmdline prov | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 13 |
-| 1110 | [697959](../reports/697959.md) | Only the file extensions are checked, not the MIME type | [Nextcloud](../by-program/nextcloud.md) | nextcloud/files_accesscontrol | Medium — CVSS 5.5 | — | 13 |
-| 1111 | [2841362](../reports/2841362.md) | GOAWAY HTTP/2 frames cause memory leak outside heap | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.3 | — | 13 |
-| 1112 | [497724](../reports/497724.md) | Stored XSS in Post Preview as Contributor | [WordPress](../by-program/wordpress.md) | WordPress Core | Medium | — | 13 |
-| 1113 | [1744212](../reports/1744212.md) | HTML INJECTION on https://adobedocs.github.io/JourneyAP | [Adobe](../by-program/adobe.md) | https://github.com/adobe/* | Medium | — | 12 |
-| 1114 | [837256](../reports/837256.md) | Improper Access Control in Buddypress core allows reply | [WordPress](../by-program/wordpress.md) | BuddyPress Core | Medium | — | 12 |
-| 1115 | [1787810](../reports/1787810.md) | Electron CVE-2022-35954 Delimiter Injection Vulnerabili | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/Electron | Medium | — | 12 |
-| 1116 | [2047168](../reports/2047168.md) | Any (non-admin) user from an instance can destroy any ( | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 6.5 | — | 12 |
-| 1117 | [1450117](../reports/1450117.md) | Nextcloud Deck : Possibility for anyone to add a stack  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | Medium — CVSS 5.0 | — | 12 |
-| 1118 | [1430405](../reports/1430405.md) | Dependency repository hijacking aka Repo Jacking from G | [RubyGems](../by-program/rubygems.md) | https://github.com/rubygems/rubygems | Medium | — | 12 |
-| 1119 | [369218](../reports/369218.md) | Navigation to restricted origins via "Open in new tab" | [Brave Software](../by-program/brave.md) | https://github.com/brave/browser-laptop | Medium | — | 12 |
-| 1120 | [378864](../reports/378864.md) | Torrent extension: Cross-origin downloading + "URL spoo | [Brave Software](../by-program/brave.md) | https://github.com/brave/browser-laptop | Medium | — | 12 |
-| 1121 | [1187820](../reports/1187820.md) | Reflected XSS on /admin/stats.php | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium | — | 12 |
-| 1122 | [2402845](../reports/2402845.md) | CVE-2024-2398: HTTP/2 push headers memory-leak | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 12 |
-| 1123 | [3969820](../reports/3969820.md) | CVE-2026-80256: wcurl backslash bypass | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 12 |
-| 1124 | [753971](../reports/753971.md) | [htmr] DOM-based XSS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 6.5 | — | 12 |
-| 1125 | [3680234](../reports/3680234.md) | libcurl reuses a learned RTSP Session header across dif | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 12 |
-| 1126 | [643442](../reports/643442.md) | Unauthenticated reflected XSS in preview_as_user functi | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Medium — CVSS 4.3 | — | 12 |
-| 1127 | [1753226](../reports/1753226.md) | CVE-2022-42916: HSTS bypass via IDN | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Medium | — | 12 |
-| 1128 | [1130416](../reports/1130416.md) | SHA512 incorrect on most/many releases | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Medium — CVSS 6.5 | — | 11 |
-| 1129 | [1820955](../reports/1820955.md) | CRLF Injection in Nodejs ‘undici’ via host | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 4.6 | — | 11 |
-| 1130 | [395845](../reports/395845.md) | url.parse() hostname spoofing via javascript: URIs | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.1 | — | 11 |
-| 1131 | [684603](../reports/684603.md) | CVE-2019-5482: Heap buffer overflow in TFTP when using  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 5.2 | — | 11 |
-| 1132 | [782764](../reports/782764.md) | xss in /users/[id]/set_tier endpoint | [RATELIMITED](../by-program/ratelimited.md) | https://github.com/gtsatsis/RLAPI-v3-OOP | Medium | — | 11 |
-| 1133 | [3153971](../reports/3153971.md) | Stack Buffer Overflow in curl's OpenSSL Provider Handli | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 11 |
-| 1134 | [4027511](../reports/4027511.md) | Encoded slash traversal in the IPFS/IPNS URL rewrite es | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 11 |
-| 1135 | [3414088](../reports/3414088.md) | SMTP CRLF Command Injection in CURLOPT_MAIL_FROM and CU | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 11 |
-| 1136 | [3303283](../reports/3303283.md) | Unauthenticated blind SSRF in Circles signature verific | [Nextcloud](../by-program/nextcloud.md) | nextcloud/circles | Medium — CVSS 6.2 | — | 11 |
-| 1137 | [3301553](../reports/3301553.md) | Cross-User Lock/Unlock via Absolute DAV Path | [Nextcloud](../by-program/nextcloud.md) | nextcloud/files_lock | Medium — CVSS 6.3 | — | 11 |
-| 1138 | [3180396](../reports/3180396.md) | Failure to strip Proxy-Authorization header on change i | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 11 |
-| 1139 | [610219](../reports/610219.md) | Stored XSS via Create Project (Add new translation proj | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/docker | Medium — CVSS 4.7 | — | 11 |
-| 1140 | [3650504](../reports/3650504.md) | Missing access control when linking banners or campaign | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 11 |
-| 1141 | [1553598](../reports/1553598.md) | CVE-2022-27778: curl removes wrong file on error | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 11 |
-| 1142 | [1334111](../reports/1334111.md) | CVE-2021-22946: Protocol downgrade required TLS bypasse | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 6.5 | — | 10 |
-| 1143 | [1178562](../reports/1178562.md) | imap: StartTLS stripping attack (CVE-2016-0772). | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium — CVSS 6.5 | — | 10 |
-| 1144 | [570563](../reports/570563.md) | [http-file-server] Stored XSS in the filename when dire | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 5.4 | — | 10 |
-| 1145 | [719856](../reports/719856.md) | Prototype pollution in dot-prop | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 6.3 | — | 10 |
-| 1146 | [1641088](../reports/1641088.md) | Last video frame is still sent after video is disabled  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Medium — CVSS 4.2 | — | 10 |
-| 1147 | [1153138](../reports/1153138.md) | Improper input-size validation on the user new session  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.3 | — | 10 |
-| 1148 | [1374512](../reports/1374512.md) | The Host Authorization middleware in Action Pack is vul | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rails | Medium | — | 10 |
-| 1149 | [819717](../reports/819717.md) | IPv4 only clusters susceptible to MitM attacks via IPv6 | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Medium — CVSS 6.0 | — | 10 |
-| 1150 | [3403880](../reports/3403880.md) | Logical Flaw in curl_url_set Leads to Inconsistent Quer | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 10 |
-| 1151 | [262620](../reports/262620.md) | Gratipay rails secret token (secret_key_base) publicly  | [Gratipay](../by-program/gratipay.md) | https://github.com/gratipay/bot | Medium | — | 10 |
-| 1152 | [1765631](../reports/1765631.md) | Potential directory traversal in OC\Files\Node\Folder:: | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.5 | — | 10 |
-| 1153 | [863979](../reports/863979.md) | Compromise of node can lead to compromise of pods on ot | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubelet | Medium — CVSS 6.8 | — | 10 |
-| 1154 | [1102018](../reports/1102018.md) | Stored unauth XSS in calendar event via CSRF | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Medium — CVSS 4.3 | — | 10 |
-| 1155 | [3226502](../reports/3226502.md) | arbitrary file read via `file://` path traversal with ` | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 10 |
-| 1156 | [1813831](../reports/1813831.md) | CVE-2022-43551: Another HSTS bypass via IDN | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Medium | — | 10 |
-| 1157 | [3400761](../reports/3400761.md) | curl’s persistence files inherit world-readable/writabl | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 10 |
-| 1158 | [1350444](../reports/1350444.md) | A bypass of adding remote files in concrete5 FIlemanage | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Medium — CVSS 5.4 | — | 10 |
-| 1159 | [319576](../reports/319576.md) | `protobufjs` is vulnerable to ReDoS when parsing crafte | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | protobufjs | Medium — CVSS 4.5 | — | 10 |
-| 1160 | [3816840](../reports/3816840.md) | HTTPS Agent PFX object-array key collision allows mTLS  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 4.1 | — | 10 |
-| 1161 | [3506873](../reports/3506873.md) | Shared smart albums in the Photos app can expose files  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/photos | Medium — CVSS 6.5 | — | 10 |
-| 1162 | [1211160](../reports/1211160.md) | Node Installer Local Privilege Escalation  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.7 | — | 10 |
-| 1163 | [1565622](../reports/1565622.md) | CVE-2022-30115: HSTS bypass via trailing dot | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Medium | — | 10 |
-| 1164 | [1788222](../reports/1788222.md) | Document content of files can be obtained through Colla | [Nextcloud](../by-program/nextcloud.md) | nextcloud/richdocuments | Medium — CVSS 5.8 | — | 10 |
-| 1165 | [3633534](../reports/3633534.md) | CRLF Injection in HAProxy PROXY Protocol via CURLOPT_HA | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 9 |
-| 1166 | [463380](../reports/463380.md) | [webpack-bundle-analyzer] Cross-site Scripting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium | — | 9 |
-| 1167 | [3559715](../reports/3559715.md) | Node.js Permission Model bypass: UDS server bind/listen | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.3 | — | 9 |
-| 1168 | [1553841](../reports/1553841.md) | CVE-2022-27780: percent-encoded path separator in URL h | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 9 |
-| 1169 | [3480039](../reports/3480039.md) | WebSocket Logic Error: Control Frame (PING/PONG) Starva | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 9 |
-| 1170 | [390865](../reports/390865.md) | Command Injection Vulnerability in libnmap Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | libnmap | Medium — CVSS 6.8 | — | 9 |
-| 1171 | [1202590](../reports/1202590.md) | Webauthn tokens are not removed on user deletion | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium | — | 9 |
-| 1172 | [1994585](../reports/1994585.md) | Cache purge requests are not authenticated | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 9 |
-| 1173 | [3156384](../reports/3156384.md) | Heap buffer overflow vulnerability in conncache.c: inco | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 9 |
-| 1174 | [3484506](../reports/3484506.md) | CRLF Injection in Gopher Protocol (`lib/gopher.c`) | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 9 |
-| 1175 | [1524692](../reports/1524692.md) | HTTP Request Smuggling Due To Improper Delimiting of He | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 9 |
-| 1176 | [3293884](../reports/3293884.md) | Vulnerability Report: Local File Disclosure via file:// | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 9 |
-| 1177 | [3470073](../reports/3470073.md) | Heap Buffer Over-Read via Malicious SMB Server READ_AND | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 9 |
-| 1178 | [3648681](../reports/3648681.md) | Improper Input Validation — HTTP Response Parser Uncond | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 9 |
-| 1179 | [1097217](../reports/1097217.md) | Reflected XSS on /admin/stats.php | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium | — | 9 |
-| 1180 | [3608558](../reports/3608558.md) | Blind POST SSRF via Web Push Notification Endpoint | [phpBB](../by-program/phpbb.md) | https://github.com/phpbb/phpbb | Medium — CVSS 5.9 | — | 9 |
-| 1181 | [1808079](../reports/1808079.md) | Permissions not respected when copying entire group fol | [Nextcloud](../by-program/nextcloud.md) | nextcloud/groupfolders | Medium — CVSS 6.5 | — | 9 |
-| 1182 | [774896](../reports/774896.md) | Kubelet resource exhaustion attack via metric label car | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Medium — CVSS 5.0 | — | 9 |
-| 1183 | [355458](../reports/355458.md) | [statics-server] XSS via injected iframe in file name w | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | statics-server | Medium — CVSS 6.7 | — | 9 |
-| 1184 | [3395218](../reports/3395218.md) | Use of Deprecated strcpy() with Fixed-Size Buffers in P | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 9 |
-| 1185 | [373721](../reports/373721.md) | URL spoofing using protocol handlers | [Brave Software](../by-program/brave.md) | https://github.com/brave/browser-laptop | Medium | — | 9 |
-| 1186 | [3825141](../reports/3825141.md) | API token sent to URL dictated by an untrusted project  | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/wlc | Medium — CVSS 6.3 | — | 8 |
-| 1187 | [390848](../reports/390848.md) | Command Injection is ps Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | ps | Medium — CVSS 6.8 | — | 8 |
-| 1188 | [1656627](../reports/1656627.md) | Rails::Html::SafeListSanitizer vulnerable to XSS when c | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 4.7 | — | 8 |
-| 1189 | [3911605](../reports/3911605.md) | SMTP CRLF injection in custom SMTP recipient operand al | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 8 |
-| 1190 | [833782](../reports/833782.md) | Allow authenticated users can edit, trash,and add new i | [WordPress](../by-program/wordpress.md) | BuddyPress Core | Medium | — | 8 |
-| 1191 | [457032](../reports/457032.md) | Github wikis are editable by anyone  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Medium | — | 8 |
-| 1192 | [1064149](../reports/1064149.md) | Improper Input Validation on User's Location on PUT /Wh | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | https://github.com/WorldHealthOrganizati | Medium — CVSS 4.6 | — | 8 |
-| 1193 | [1565619](../reports/1565619.md) | CVE-2022-27780: percent-encoded path separator in URL h | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Medium | — | 8 |
-| 1194 | [3417428](../reports/3417428.md) | libcurl MQTT `CURLOPT_POSTFIELDSIZE_LARGE` overflow lea | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 8 |
-| 1195 | [1530898](../reports/1530898.md) | Rails::Html::SafeListSanitizer vulnerable to xss attack | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 6.5 | — | 8 |
-| 1196 | [454365](../reports/454365.md) | Prototype pollution attack through jQuery $.extend | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | jQuery | Medium — CVSS 5.6 | — | 8 |
-| 1197 | [310690](../reports/310690.md) | [crud-file-server] Path Traversal allows to read arbitr | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | crud-file-server | Medium | — | 8 |
-| 1198 | [3404025](../reports/3404025.md) | SOCKS5 Heap Buffer Overflow via Malicious HTTP Redirect | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 8 |
-| 1199 | [1337178](../reports/1337178.md) | objectId in share location can be set to open arbitrary | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Medium | — | 8 |
-| 1200 | [3427343](../reports/3427343.md) | Off-by-One Buffer Overflow in SMB Path Handler | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 8 |
-| 1201 | [3466883](../reports/3466883.md) | Curl Alt-Svc Parser Stack Buffer Overflow | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 8 |
-| 1202 | [2104566](../reports/2104566.md) | (CVE-2023-32006) Permissions policies can impersonate o | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/nodejs/node | Medium | — | 8 |
-| 1203 | [360727](../reports/360727.md) | [markdown-pdf] Local file reading | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | markdown-pdf | Medium — CVSS 5.3 | — | 8 |
-| 1204 | [3466896](../reports/3466896.md) | Heap Overflow in cURL AmigaOS Socket Implementation | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 8 |
-| 1205 | [3650582](../reports/3650582.md) | Missing access control when linking trackers to campaig | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 8 |
-| 1206 | [2621057](../reports/2621057.md) | libcurl: freeing stack buffer during x509 certificate p | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Medium | — | 8 |
-| 1207 | [1165748](../reports/1165748.md) | 'net/ftp': Uncontrolled Resource Consumption (Memory/CP | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium — CVSS 5.9 | — | 8 |
-| 1208 | [1402249](../reports/1402249.md) | Control character filtering misses leading and trailing | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.3 | — | 8 |
-| 1209 | [1025575](../reports/1025575.md) | Default behavior of Fastifys versioned routes can be us | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | fastify | Medium — CVSS 5.9 | — | 8 |
-| 1210 | [1161691](../reports/1161691.md) | OS Command Injection in 'rdoc' documentation generator | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium — CVSS 6.4 | — | 7 |
-| 1211 | [1557449](../reports/1557449.md) | CVE-2022-30115: HSTS bypass via trailing dot | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 7 |
-| 1212 | [1176461](../reports/1176461.md) | CVE-2021-22898: TELNET stack contents disclosure | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 5.5 | — | 7 |
-| 1213 | [1927480](../reports/1927480.md) | DiffieHellman doesn't generate keys after setting a key | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 7 |
-| 1214 | [728047](../reports/728047.md) | [git-promise] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 6.2 | — | 7 |
-| 1215 | [2001873](../reports/2001873.md) | HTTP Request Smuggling via Empty headers separated by C | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 7 |
-| 1216 | [1167767](../reports/1167767.md) | Unexpected federated shares added via public link | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.3 | — | 7 |
-| 1217 | [472391](../reports/472391.md) | Stored XSS @ /engage/<project_slug> | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/weblate | Medium | — | 7 |
-| 1218 | [859962](../reports/859962.md) | Bypass apiserver proxy filter | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Medium — CVSS 6.8 | — | 7 |
-| 1219 | [3908163](../reports/3908163.md) | HTTPS Agent reuses TLS authentication state across dist | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.8 | — | 7 |
-| 1220 | [1097979](../reports/1097979.md) | Reflected XSS on /admin/campaign-zone-zones.php | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium | — | 7 |
-| 1221 | [1265225](../reports/1265225.md) | Multiple server ssh usernames leaked in your github rep | [Ian Dunn](../by-program/iandunn-projects.md) | GitHub repositories | Medium | — | 7 |
-| 1222 | [1654310](../reports/1654310.md) | Incomplete fix for CVE-2022-32209 (XSS in Rails::Html:: | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 4.7 | — | 7 |
-| 1223 | [732415](../reports/732415.md) | The authenticity_token can be reversed and used to forg | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 5.9 | — | 7 |
-| 1224 | [1680241](../reports/1680241.md) | DoS via Automatic Response Message | [Mattermost](../by-program/mattermost.md) | Mattermost Source Code | Medium — CVSS 5.0 | — | 7 |
-| 1225 | [566056](../reports/566056.md) | [larvitbase-api] Unintended Require | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 5.4 | — | 7 |
-| 1226 | [4016541](../reports/4016541.md) | TLS session resumption client cert bypass with CURLOPT_ | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 7 |
-| 1227 | [1081878](../reports/1081878.md) | Arbitrary File Deletion via Path Traversal in image-edi | [ImpressCMS](../by-program/impresscms.md) | https://github.com/impresscms/impresscms | Medium — CVSS 6.3 | — | 7 |
-| 1228 | [691977](../reports/691977.md) | [reveal.js] XSS by calling arbitrary method via postMes | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | reveal.js | Medium — CVSS 5.4 | — | 7 |
-| 1229 | [3468098](../reports/3468098.md) | Certificate Pinning Bypass with wolfSSL backend over HT | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 7 |
-| 1230 | [380878](../reports/380878.md) | Prototype pollution attack (defaults-deep / constructor | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | defaults-deep | Medium — CVSS 6.1 | — | 7 |
-| 1231 | [1524555](../reports/1524555.md) | HTTP Request Smuggling Due to Flawed Parsing of Transfe | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 7 |
-| 1232 | [778803](../reports/778803.md) | Compromise of auth via subset/superset namespace names. | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/ingress-ng | Medium — CVSS 6.6 | — | 7 |
-| 1233 | [1946470](../reports/1946470.md) | Dependency Policy Bypass via process.binding | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.5 | — | 7 |
-| 1234 | [1722065](../reports/1722065.md) | CVE-2022-42915: HTTP proxy double-free | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 7 |
-| 1235 | [1755083](../reports/1755083.md) | CVE-2022-43551: Another HSTS bypass via IDN | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 7 |
-| 1236 | [1350755](../reports/1350755.md) | Tokenless GUI Authentication | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/dashboard | Medium — CVSS 6.3 | — | 7 |
-| 1237 | [1334763](../reports/1334763.md) | CVE-2021-22947: STARTTLS protocol injection via MITM | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 5.3 | — | 7 |
-| 1238 | [950192](../reports/950192.md) | [@knutkirkhorn/free-space] - Command Injection through  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 6.8 | — | 7 |
-| 1239 | [1501679](../reports/1501679.md) | HTTP Request Smuggling Due to Incorrect Parsing of Mult | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 7 |
-| 1240 | [1582160](../reports/1582160.md) | Bypass for Domain-level redirects (Unvalidated Redirect | [GitLab](../by-program/gitlab.md) | https://gitlab.com/gitlab-org/gitlab-pag | Medium — CVSS 4.1 | — | 7 |
-| 1241 | [1665156](../reports/1665156.md) | HTTP Request Smuggling Due to Incorrect Parsing of Mult | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 6 |
-| 1242 | [837018](../reports/837018.md) | Privilege Escalation in BuddyPress core allows Moderate | [WordPress](../by-program/wordpress.md) | BuddyPress Core | Medium | — | 6 |
-| 1243 | [394861](../reports/394861.md) | Incorrect Permission Assignment for Critical Resource | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Access con | Medium | — | 6 |
-| 1244 | [3795657](../reports/3795657.md) | dns.resolveAny() Aborts the Node.js Process When a DNS  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.9 | — | 6 |
-| 1245 | [3938185](../reports/3938185.md) | Windows SSPI connection-pool probe can reuse a connecti | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 6 |
-| 1246 | [1579820](../reports/1579820.md) | Ownership check missing when updating or deleting attac | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Medium — CVSS 5.4 | — | 6 |
-| 1247 | [1526328](../reports/1526328.md) | CVE-2022-22576: OAUTH2 bearer bypass in connection re-u | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 5.1 | — | 6 |
-| 1248 | [1404789](../reports/1404789.md) | Ruby - Regular Expression Denial of Service Vulnerabili | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/ruby | Medium | — | 6 |
-| 1249 | [1555796](../reports/1555796.md) | CVE-2022-27782: TLS and SSH connection too eager reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 6 |
-| 1250 | [2864859](../reports/2864859.md) | -H with space prefix leads to previous header injection | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 6 |
-| 1251 | [3723248](../reports/3723248.md) | HTTP Request Smuggling via Connection: close<TAB> in No | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.8 | — | 6 |
-| 1252 | [1573634](../reports/1573634.md) | CVE-2022-32207: Unpreserved file permissions | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 6 |
-| 1253 | [311998](../reports/311998.md) | [uppy] Stored XSS due to crafted SVG file | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Uppy | Medium | — | 6 |
-| 1254 | [3966955](../reports/3966955.md) | TLS session cache case-folds CA paths and bypasses the  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 6 |
-| 1255 | [478957](../reports/478957.md) | Stored XSS/HTML injection in autocomplete suggestions f | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.5 | — | 6 |
-| 1256 | [1455248](../reports/1455248.md) | Buffer Overflow in optimized_escape_html method | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/ruby | Medium | — | 6 |
-| 1257 | [439107](../reports/439107.md) | Prototype pollution attack (lutils-merge) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium | — | 6 |
-| 1258 | [579560](../reports/579560.md) | [larvitbase-www] Unintended Require | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 5.4 | — | 6 |
-| 1259 | [686823](../reports/686823.md) | CVE-2019-5481: krb5: double-free in read_data() after r | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 6.3 | — | 6 |
-| 1260 | [800356](../reports/800356.md) | [express-cart] Wide CSRF in application | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | express-cart | Medium — CVSS 5.7 | — | 6 |
-| 1261 | [2552192](../reports/2552192.md) | Denial of Service in curl Request - HTTP headers eat al | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 6.3 | — | 6 |
-| 1262 | [951249](../reports/951249.md) | [freespace] Command Injection due to Lack of Sanitizati | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium | — | 6 |
-| 1263 | [3606773](../reports/3606773.md) | Stored XSS via SVG Upload — check_content() Blocklist B | [phpBB](../by-program/phpbb.md) | https://github.com/phpbb/phpbb | Medium — CVSS 6.7 | — | 6 |
-| 1264 | [403692](../reports/403692.md) | [tianma-static] Stored xss on filename | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | tianma-static | Medium — CVSS 6.7 | — | 6 |
-| 1265 | [768327](../reports/768327.md) | Unauthenticated HTML Injection Stored - ContactUs form | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Medium | — | 6 |
-| 1266 | [3531737](../reports/3531737.md) | Memory leak in Node.js HTTP/2 server via WINDOW_UPDATE  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.3 | — | 6 |
-| 1267 | [3580511](../reports/3580511.md) | ActiveStorage Disk Service Path Traversal via Custom Bl | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 6.5 | — | 6 |
-| 1268 | [282176](../reports/282176.md) | Unauthenticated hidden groups disclosure via Ajax group | [WordPress](../by-program/wordpress.md) | BuddyPress Core | Medium — CVSS 6.1 | — | 6 |
-| 1269 | [1169033](../reports/1169033.md) | Targeted phishing attacks in Login flow v2 | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 6.8 | — | 6 |
-| 1270 | [1018146](../reports/1018146.md) | Potential DDoS when posting long data into workflow val | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.7 | — | 6 |
-| 1271 | [1966492](../reports/1966492.md) | fs.openAsBlob() bypasses permission system | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 4.4 | — | 6 |
-| 1272 | [1664019](../reports/1664019.md) | CVE-2022-35948: CRLF Injection in Nodejs ‘undici’ via C | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/nodejs/node | Medium | — | 6 |
-| 1273 | [1675191](../reports/1675191.md) | HTTP Request Smuggling Due to Incorrect Parsing of Head | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 6 |
-| 1274 | [538938](../reports/538938.md) | [domokeeper] Unintended Require | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 5.9 | — | 6 |
-| 1275 | [2094235](../reports/2094235.md) | Integrity checks according to policies can be circumven | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 6 |
-| 1276 | [894308](../reports/894308.md) | Arbitrary code execution via untrusted schemas in is-my | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium | — | 6 |
-| 1277 | [3780806](../reports/3780806.md) | Reflected XSS via unsanitised refresh parameter in zone | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.1 | — | 5 |
-| 1278 | [722748](../reports/722748.md) | Bypass configured 2FA provider with another provider th | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.6 | — | 5 |
-| 1279 | [1630336](../reports/1630336.md) | CVE-2022-32213 bypass via obs-fold mechanic | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 5 |
-| 1280 | [836187](../reports/836187.md) | CSRF in Profile Fields allows deleting any field in Bud | [WordPress](../by-program/wordpress.md) | BuddyPress Core | Medium | — | 5 |
-| 1281 | [1553301](../reports/1553301.md) | CVE-2022-27779: cookie for trailing dot TLD | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 5 |
-| 1282 | [640532](../reports/640532.md) | Active Mixed Content over HTTPS | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 5 |
-| 1283 | [415329](../reports/415329.md) | Pull Request #12949 - Security Implications without CVE | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 5 |
-| 1284 | [914232](../reports/914232.md) | CSRF on comment post | [WordPress](../by-program/wordpress.md) | WordPress Core | Medium — CVSS 4.2 | — | 5 |
-| 1285 | [742588](../reports/742588.md) | Downgrade encryption scheme and break integrity through | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.3 | — | 5 |
-| 1286 | [495508](../reports/495508.md) |  Assertion `len == 1' failed, process aborted while str | [PuTTY (European Commission - DIGIT)](../by-program/putty_h1c.md) | https://www.chiark.greenend.org.uk/~sgta | Medium | — | 5 |
-| 1287 | [321686](../reports/321686.md) | `atob` allocates uninitialized Buffers when number is p | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | atob | Medium — CVSS 6.5 | — | 5 |
-| 1288 | [1321358](../reports/1321358.md) | XSS exploit of RDoc documentation generated by rdoc | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium | — | 5 |
-| 1289 | [1234760](../reports/1234760.md) | CVE-2021-22926: CURLOPT_SSLCERT mixup with Secure Trans | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 4.0 | — | 5 |
-| 1290 | [1213175](../reports/1213175.md) | CVE-2021-22922: Wrong content via metalink not discarde | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 5 |
-| 1291 | [509315](../reports/509315.md) | c3p0 may be exploited by a Billion Laughs Attack when l | [Central Security Project](../by-program/central-security-project.md) | Java Component in search.maven.org | Medium — CVSS 6.2 | — | 5 |
-| 1292 | [3653316](../reports/3653316.md) | Reflected XSS via clientid parameter in zone‑include.ph | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.1 | — | 5 |
-| 1293 | [342066](../reports/342066.md) | [bruteser] Path Traversal allows to read content of arb | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | bruteser | Medium — CVSS 6.5 | — | 5 |
-| 1294 | [3963330](../reports/3963330.md) | libcurl Digest/NTLM authentication ignores an explicit  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 5 |
-| 1295 | [1961655](../reports/1961655.md) | Renaming/aliasing relative symbolic links potentially r | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 5 |
-| 1296 | [1209681](../reports/1209681.md) | OOB read in libuv | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 5 |
-| 1297 | [1944515](../reports/1944515.md) | CVE-2023-28755: ReDoS vulnerability in URI | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/ruby | Medium — CVSS 6.5 | — | 5 |
-| 1298 | [3620748](../reports/3620748.md) | V1Plugin.Decrypt panics on empty ciphertext (Remote DoS | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/kubernetes-sigs/aws-e | Medium | — | 5 |
-| 1299 | [1886139](../reports/1886139.md) | HTTP multi-header compression denial of service | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Medium — CVSS 5.3 | — | 5 |
-| 1300 | [1808596](../reports/1808596.md) | Multiple OpenSSL error handling issues in nodejs crypto | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 4.3 | — | 5 |
-| 1301 | [429873](../reports/429873.md) | XSS by MathML at Active Storage | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium | — | 5 |
-| 1302 | [616770](../reports/616770.md) | Stored XSS in Conversations (both client and admin) whe | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Medium | — | 5 |
-| 1303 | [3893632](../reports/3893632.md) | Unauthenticated disclosure of draft/private/pending pos | [WordPress](../by-program/wordpress.md) | Secure Custom Fields | Medium — CVSS 5.3 | — | 5 |
-| 1304 | [1129996](../reports/1129996.md) | Create alias does not validate account id | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Medium — CVSS 5.0 | — | 5 |
-| 1305 | [4028616](../reports/4028616.md) | Memory exhaustion (DoS) via unbounded file read in `Enc | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/translatio | Medium | — | 5 |
-| 1306 | [3669623](../reports/3669623.md) | Stored XSS via Full Name field in userlog email entries | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 5.4 | — | 5 |
-| 1307 | [237232](../reports/237232.md) | Unauthenticated 'display name' information leak on enum | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.3 | — | 5 |
-| 1308 | [3795900](../reports/3795900.md) | node:sqlite SQLTagStore Iterator Replay Lets Attacker R | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.3 | — | 5 |
-| 1309 | [592525](../reports/592525.md) | Lack of input validation and sanitization in react-auto | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | react-autolinker-wrapper | Medium — CVSS 4.6 | — | 5 |
-| 1310 | [1663788](../reports/1663788.md) | [CVE-2022-35949]: undici.request vulnerable to SSRF usi | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/nodejs/node | Medium | — | 5 |
-| 1311 | [1697281](../reports/1697281.md) | Name collision of shared folders | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.5 | — | 5 |
-| 1312 | [789579](../reports/789579.md) | ActiveStorage direct upload fails to sign content-lengt | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 5.3 | — | 5 |
-| 1313 | [1568175](../reports/1568175.md) | Credential leak on redirect | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 5 |
-| 1314 | [2125679](../reports/2125679.md) | [CVE-2023-23913] DOM Based Cross-site Scripting in rail | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rails | Medium | — | 5 |
-| 1315 | [329950](../reports/329950.md) | [public] Stored XSS in the filename when directories li | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | public | Medium — CVSS 5.5 | — | 5 |
-| 1316 | [3483708](../reports/3483708.md) | Valid share tokens allow to access tempory upload files | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 6.3 | — | 5 |
-| 1317 | [1966499](../reports/1966499.md) | fs module's file watching is not restricted by --allow- | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 4.4 | — | 5 |
-| 1318 | [728040](../reports/728040.md) | [meta-git] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | meta-git | Medium — CVSS 6.2 | — | 4 |
-| 1319 | [358641](../reports/358641.md) | [serve] Stored XSS in the filename when directories lis | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | serve | Medium — CVSS 5.5 | — | 4 |
-| 1320 | [330351](../reports/330351.md) | `byte` allocates uninitialized buffers and reads data f | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | byte | Medium — CVSS 5.2 | — | 4 |
-| 1321 | [3783738](../reports/3783738.md) | XML‑RPC login leak exposes valid session ID enabling un | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 4 |
-| 1322 | [1954535](../reports/1954535.md) | OpenSSL engines can be used to bypass and/or disable th | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.3 | — | 4 |
-| 1323 | [296254](../reports/296254.md) | [serve-here] Static Web Server Directory Traversal via  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | serve-here | Medium | — | 4 |
-| 1324 | [1549461](../reports/1549461.md) | CURLOPT_SSH_HOST_PUBLIC_KEY_MD5 bypass if string not 32 | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 4 |
-| 1325 | [1213181](../reports/1213181.md) | CVE-2021-22923: Metalink download sends credentials | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 4 |
-| 1326 | [630227](../reports/630227.md) | Command Injection due to lack of sanitisation of tar.gz | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 6.4 | — | 4 |
-| 1327 | [3735180](../reports/3735180.md) | HTTPS proxy connection reuse lets one easy handle inher | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 4 |
-| 1328 | [3786077](../reports/3786077.md) | SOCKS5 no-auth accepted despite username/password-only  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 4 |
-| 1329 | [924393](../reports/924393.md) | PIN for passwordless WebAuthn is asked for but not veri | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.3 | — | 4 |
-| 1330 | [4037976](../reports/4037976.md) | Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypa | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/weblate | Medium | — | 4 |
-| 1331 | [3776535](../reports/3776535.md) | RTSP Digest auth state leaks across origins on reused l | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 4 |
-| 1332 | [1398617](../reports/1398617.md) | Broken Github Link Used in deployment docs of "github.c | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kompose | Medium | — | 4 |
-| 1333 | [678989](../reports/678989.md) | [crypto-js] Insecure entropy source - Math.random() | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | crypto-js | Medium — CVSS 4.8 | — | 4 |
-| 1334 | [3727743](../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 4.3 | — | 4 |
-| 1335 | [292797](../reports/292797.md) | ActionController::Parameters .each returns an unsafe ha | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 6.5 | — | 4 |
-| 1336 | [453820](../reports/453820.md) | [harp] File access even when they have been set to be i | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | harp | Medium — CVSS 5.3 | — | 4 |
-| 1337 | [1158824](../reports/1158824.md) | OS Command Injection in '/lib/un.rb -- Utilities to rep | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium — CVSS 6.4 | — | 4 |
-| 1338 | [637840](../reports/637840.md) | Path traversal in command line client | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | Medium — CVSS 4.5 | — | 4 |
-| 1339 | [1806223](../reports/1806223.md) | Reference fetch can saturate the server bandwidth for 1 | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.7 | — | 4 |
-| 1340 | [1570651](../reports/1570651.md) | CVE-2022-32206: HTTP compression denial of service | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 4 |
-| 1341 | [1063039](../reports/1063039.md) | Phar Deserialization Vulnerability via Logging Settings | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Medium — CVSS 6.4 | — | 4 |
-| 1342 | [430291](../reports/430291.md) | Prototype pollution attack in just-extend | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | just-extend | Medium — CVSS 5.7 | — | 4 |
-| 1343 | [1652903](../reports/1652903.md) | Exception logging in Sharepoint app reveals clear-text  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/sharepoint | Medium — CVSS 4.0 | — | 4 |
-| 1344 | [289313](../reports/289313.md) | [gem server] Stored XSS via crafted JavaScript URL incl | [RubyGems](../by-program/rubygems.md) | https://github.com/rubygems/rubygems | Medium | — | 4 |
-| 1345 | [1892780](../reports/1892780.md) | CVE-2023-27535: FTP too eager connection reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 4 |
-| 1346 | [3620753](../reports/3620753.md) | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/kubernetes-sigs/aws-e | Medium | — | 4 |
-| 1347 | [296305](../reports/296305.md) | [featurebook] Specification Server Directory Traversal  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | featurebook | Medium | — | 4 |
-| 1348 | [965914](../reports/965914.md) | `fs.realpath.native` on darwin may cause buffer overflo | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 4 |
-| 1349 | [899103](../reports/899103.md) | Man in the middle leading to root privilege escalation  | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Medium — CVSS 6.0 | — | 4 |
-| 1350 | [1954711](../reports/1954711.md) | user_oidc app is missing bruteforce protection | [Nextcloud](../by-program/nextcloud.md) | nextcloud/user_oidc | Medium — CVSS 5.5 | — | 4 |
-| 1351 | [1910810](../reports/1910810.md) | Apache HTTP Server: mod_proxy_uwsgi HTTP response split | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/httpd | Medium | — | 4 |
-| 1352 | [3920276](../reports/3920276.md) | Cookie jar load skips public suffix check on PSL builds | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 4 |
-| 1353 | [541502](../reports/541502.md) | [https-proxy-agent] Socket returned without TLS upgrade | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | https-proxy-agent | Medium — CVSS 6.1 | — | 4 |
-| 1354 | [1977258](../reports/1977258.md) | Stored XSS in RDoc hyperlinks through javascript scheme | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium — CVSS 5.4 | — | 4 |
-| 1355 | [1710652](../reports/1710652.md) | DNS rebinding in --inspect via invalid octal IP address | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.8 | — | 4 |
-| 1356 | [3872239](../reports/3872239.md) | Connector/J: malicious server crashes client JVM via un | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium — CVSS 4.1 | — | 4 |
-| 1357 | [833856](../reports/833856.md) | DoS for GCSArtifact.RealAll | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/test-infra | Medium — CVSS 4.3 | — | 4 |
-| 1358 | [398285](../reports/398285.md) | [serve] XSS via HTML tag injection in directory lisitin | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | serve | Medium — CVSS 5.5 | — | 4 |
-| 1359 | [356809](../reports/356809.md) | [exceljs] Possible XSS via cell value when worksheet is | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | exceljs | Medium — CVSS 6.8 | — | 4 |
-| 1360 | [1567257](../reports/1567257.md) | Memory leak in CURLOPT_XOAUTH2_BEARER | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 5.3 | — | 4 |
-| 1361 | [439120](../reports/439120.md) | Prototype pollution attack (upmerge) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 5.0 | — | 4 |
-| 1362 | [1361804](../reports/1361804.md) | 1-click DOS in fastify-static via directly passing user | [Fastify](../by-program/fastify.md) | https://github.com/fastify | Medium — CVSS 5.9 | — | 4 |
-| 1363 | [3658225](../reports/3658225.md) | HTTP/2 sessions never clean up after GOAWAY on invalid  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.3 | — | 4 |
-| 1364 | [1081137](../reports/1081137.md) | Incorrect Authorization Checks in /include/findusers.ph | [ImpressCMS](../by-program/impresscms.md) | https://github.com/impresscms/impresscms | Medium — CVSS 5.3 | — | 4 |
-| 1365 | [1397804](../reports/1397804.md) | open redirect to a remote website which can phish users | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Medium — CVSS 5.4 | — | 4 |
-| 1366 | [1623175](../reports/1623175.md) | Node 18 reads openssl.cnf from /home/iojs/build/... upo | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.6 | — | 4 |
-| 1367 | [3889667](../reports/3889667.md) | ACL cache collision lets a role inherit privileges from | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Access con | Medium — CVSS 6.4 | — | 3 |
-| 1368 | [296282](../reports/296282.md) | [augustine] Static Web Server Directory Traversal via C | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | augustine | Medium | — | 3 |
-| 1369 | [681986](../reports/681986.md) | [node-red] Stored XSS within Flow's - "Name" field  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | node-red | Medium — CVSS 4.6 | — | 3 |
-| 1370 | [3684603](../reports/3684603.md) | Stack exhaustion in MIME multipart reading with deeply  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
-| 1371 | [3781311](../reports/3781311.md) | Stored XSS in maintenance tools via unescaped entity na | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.4 | — | 3 |
-| 1372 | [3733984](../reports/3733984.md) | HSTS multi-trailing-dot bypass-ish: possible incomplete | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
-| 1373 | [1521610](../reports/1521610.md) | Denial of Service vulnerability in curl when parsing MQ | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 4.3 | — | 3 |
-| 1374 | [3963494](../reports/3963494.md) | RTSP CRLF injection in libcurl allows CURLOPT_RTSP_* va | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
-| 1375 | [692262](../reports/692262.md) | Path traversal in https://www.npmjs.com/package/http_se | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | http_server | Medium — CVSS 5.5 | — | 3 |
-| 1376 | [1070344](../reports/1070344.md) | ArcGIS Rest Service linked to unsecured survey data | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | https://github.com/WorldHealthOrganizati | Medium | — | 3 |
-| 1377 | [3878649](../reports/3878649.md) | Reflected XSS via wrong permission check in conversion  | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.1 | — | 3 |
-| 1378 | [319629](../reports/319629.md) | `rgb2hex` is vulnerable to ReDoS when parsing crafted i | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | rgb2hex | Medium — CVSS 6.5 | — | 3 |
-| 1379 | [3923520](../reports/3923520.md) | CVE-2026-19931: Negotiate ambient user conn reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
-| 1380 | [685491](../reports/685491.md) | Persistent XSS on favorite via filename | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium | — | 3 |
-| 1381 | [1695596](../reports/1695596.md) | Node 18 reads openssl.cnf from /home/iojs/build/... upo | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.6 | — | 3 |
-| 1382 | [3878399](../reports/3878399.md) | Large-site Quick Edit reparses a Contributor display na | [WordPress](../by-program/wordpress.md) | WordPress Core | Medium | — | 3 |
-| 1383 | [530289](../reports/530289.md) | [harp] Path traversal using symlink | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | harp | Medium — CVSS 5.3 | — | 3 |
-| 1384 | [743505](../reports/743505.md) | Improper confidentiality protection of server-side encr | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.3 | — | 3 |
-| 1385 | [430831](../reports/430831.md) | Prototype pollution attack in node.extend | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | node.extend | Medium — CVSS 5.7 | — | 3 |
-| 1386 | [876751](../reports/876751.md) | Private RSA key and Server key exposed on the GitHub re | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Medium — CVSS 5.3 | — | 3 |
-| 1387 | [3994016](../reports/3994016.md) | Action Text to_markdown: <code>/<pre> content escapes i | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 4.3 | — | 3 |
-| 1388 | [1167817](../reports/1167817.md) | Federated shares are not password protected | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.9 | — | 3 |
-| 1389 | [1045844](../reports/1045844.md) | CVE-2020-8285: FTP wildcard stack overflow | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 6.5 | — | 3 |
-| 1390 | [1183302](../reports/1183302.md) | Default Nextcloud allows http federated shares | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium | — | 3 |
-| 1391 | [3238249](../reports/3238249.md) | Integer Overflow Risk in HTTP/2 Proxy Window Size Calcu | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
-| 1392 | [3981932](../reports/3981932.md) | CSRF in tracker invocation page | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 3 |
-| 1393 | [694930](../reports/694930.md) | [snekserve] Stored XSS via filenames HTML formatted | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium | — | 3 |
-| 1394 | [730121](../reports/730121.md) | [npm-git-publish] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | npm-git-publish | Medium — CVSS 6.8 | — | 3 |
-| 1395 | [296645](../reports/296645.md) | [lactate] Static Web Server Directory Traversal via Cra | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | lactate | Medium | — | 3 |
-| 1396 | [1704017](../reports/1704017.md) | CVE-2022-32221: POST following PUT confusion | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
-| 1397 | [570568](../reports/570568.md) | [min-http-server] Stored XSS in the filename when direc | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 5.4 | — | 3 |
-| 1398 | [3857258](../reports/3857258.md) | Reachable assertion in node:zlib sync API crashes the e | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.2 | — | 3 |
-| 1399 | [3776433](../reports/3776433.md) | TFTP upload ignores --continue-at / CURLOPT_RESUME_FROM | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
-| 1400 | [4088592](../reports/4088592.md) | CPU-based Denial of Service in translation-finder via O | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/translatio | Medium | — | 3 |
-| 1401 | [3747959](../reports/3747959.md) | curl --skip-existing has a TOCTOU race that lets a post | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
-| 1402 | [3795615](../reports/3795615.md) | Duplicate chunked Transfer-Encoding lets a malicious or | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
-| 1403 | [3383079](../reports/3383079.md) | SSRF via Improper Redirect Validation in Rocket.Chat oE | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | Medium — CVSS 5.0 | — | 3 |
-| 1404 | [593911](../reports/593911.md) | [public] Path traversal using symlink | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | public | Medium — CVSS 4.2 | — | 3 |
-| 1405 | [340208](../reports/340208.md) | Command injection in 'pdf-image' | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | pdf-image | Medium — CVSS 6.1 | — | 3 |
-| 1406 | [3780709](../reports/3780709.md) | Missing ownership validation allows cross‑manager track | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 3 |
-| 1407 | [4094236](../reports/4094236.md) |  Billion laughs entity expansion in Qt .ts discovery: a | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/translatio | Medium | — | 3 |
-| 1408 | [926638](../reports/926638.md) | curl overwrites local file with -J option if file non-r | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
-| 1409 | [3911968](../reports/3911968.md) | Heap use-after-free (write) in mev_forget_socket() via  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
-| 1410 | [3859000](../reports/3859000.md) | Formula injection in conversion tracking report export | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.7 | — | 3 |
-| 1411 | [661977](../reports/661977.md) | Github wikis are editable by anyone https://github.com/ | [Paragon Initiative Enterprises](../by-program/paragonie.md) | https://github.com/paragonie/password_lo | Medium | — | 3 |
-| 1412 | [3883840](../reports/3883840.md) | Cross-agency disclosure in website listing | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 3 |
-| 1413 | [3707747](../reports/3707747.md) | libcurl 8.20.0 incomplete fix for CVE-2026-7168: changi | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
-| 1414 | [3909248](../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append( | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium | — | 3 |
-| 1415 | [4098761](../reports/4098761.md) | HTTP/1.1 connection reuse returns unsolicited server da | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
-| 1416 | [3766217](../reports/3766217.md) | libmariadb ( mariadb-connector-c ): stack overflow via  | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium — CVSS 4.1 | — | 3 |
-| 1417 | [1300802](../reports/1300802.md) | Possible DOS in app with crashing `exceptions_app` | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium | — | 3 |
-| 1418 | [453513](../reports/453513.md) | Fix for CVE-2018-12122 can be bypassed via keep-alive r | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 3 |
-| 1419 | [328210](../reports/328210.md) | [sexstatic] HTML injection in directory name(s) leads t | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | sexstatic | Medium — CVSS 5.2 | — | 3 |
-| 1420 | [889160](../reports/889160.md) | Poll loop/hang on incomplete HTTP header | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 6.5 | — | 3 |
-| 1421 | [498852](../reports/498852.md) | XSS On Nextcloud Integrated with zimbra drive | [Nextcloud](../by-program/nextcloud.md) | nextcloud/3rdparty | Medium | — | 3 |
-| 1422 | [899069](../reports/899069.md) | Untrusted users able to run pending migrations in produ | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 6.5 | — | 3 |
-| 1423 | [3623149](../reports/3623149.md) | SSRF via User-Controlled Push proxyServer in Notificati | [Nextcloud](../by-program/nextcloud.md) | nextcloud/notifications | Medium — CVSS 5.4 | — | 3 |
-| 1424 | [633364](../reports/633364.md) | Command Injection in npm module name passed as an argum | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 6.4 | — | 3 |
-| 1425 | [319794](../reports/319794.md) | [m-server] HTML Injection in filenames displayed as dir | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | m-server | Medium — CVSS 6.0 | — | 3 |
-| 1426 | [3756699](../reports/3756699.md) | lib/ldap.c follows attacker-controlled LDAP referrals a | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
-| 1427 | [980249](../reports/980249.md) | Net::SMTP with tls allows forged certificates as long a | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium | — | 3 |
-| 1428 | [1569926](../reports/1569926.md) | Credential leak when use two url | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
-| 1429 | [966383](../reports/966383.md) | secret leaks in vsphere cloud controller manager log | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Medium — CVSS 6.2 | — | 3 |
-| 1430 | [1212595](../reports/1212595.md) | 	 Clickjacking at sifchain.finance | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Medium | — | 3 |
-| 1431 | [1086259](../reports/1086259.md) | Proxy-Authorization header carried to a new host on a r | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 4.4 | — | 2 |
-| 1432 | [1563061](../reports/1563061.md) | Certificate authentication re-use on redirect | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 2 |
-| 1433 | [693788](../reports/693788.md) | [expressjs-ip-control] Whitelist IP bypass leads to aut | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium | — | 2 |
-| 1434 | [1997312](../reports/1997312.md) | CVE-2023-28319: UAF in SSH sha256 fingerprint check | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Medium | — | 2 |
-| 1435 | [1429694](../reports/1429694.md) | Node.js Certificate Verification Bypass via String Inje | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.8 | — | 2 |
-| 1436 | [730111](../reports/730111.md) | [gity] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 6.4 | — | 2 |
-| 1437 | [438274](../reports/438274.md) | Prototype pollution attack (smart-extend) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | smart-extend | Medium | — | 2 |
-| 1438 | [1199803](../reports/1199803.md) | Possible Database Details stored in values.yaml | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Medium | — | 2 |
-| 1439 | [3677576](../reports/3677576.md) | Missing access control when modifying parent entities v | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 2 |
-| 1440 | [3791191](../reports/3791191.md) | Trailing-Dot Hostname in Redirect Silently Strips Clien | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 2 |
-| 1441 | [3769676](../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Aut | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium | — | 2 |
-| 1442 | [3942028](../reports/3942028.md) | Reflected XSS via invocation banner ID field in admin-g | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.7 | — | 2 |
-| 1443 | [1884159](../reports/1884159.md) | node.js process aborts when processing x509 certs with  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.3 | — | 2 |
-| 1444 | [3781201](../reports/3781201.md) | Pre-authentication `size_t` integer underflow → out-of- | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium — CVSS 5.7 | — | 2 |
-| 1445 | [4131903](../reports/4131903.md) | A server response that answers nothing is used as the n | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 2 |
-| 1446 | [4038361](../reports/4038361.md) | Keep-alive socket process a response that was written b | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 2 |
-| 1447 | [3738834](../reports/3738834.md) | Arbitrary `/tmp` read in  discourse via `convert_heif!` | [Discourse](../by-program/discourse.md) | https://github.com/discourse/discourse | Medium | — | 2 |
-| 1448 | [2043807](../reports/2043807.md) | Policy-restricted modules can escalate to higher privil | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.7 | — | 2 |
-| 1449 | [3672641](../reports/3672641.md) | Session ID reuse allowing XML‑RPC API authentication by | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 2 |
-| 1450 | [3890329](../reports/3890329.md) | Connector/C++ ignores allowMultiQueries and injects sav | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | Medium — CVSS 6.9 | — | 2 |
-| 1451 | [3750295](../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 2 |
-| 1452 | [1219002](../reports/1219002.md) | 4 xss vulnerability dom based cwe 79 ; wordpress bootst | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Medium | — | 2 |
-| 1453 | [4125043](../reports/4125043.md) | netrc credentials leaked to a cross-host redirect targe | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 2 |
-| 1454 | [3929216](../reports/3929216.md) | Cross-agency delivery rule set creation | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 2 |
-| 1455 | [1514863](../reports/1514863.md) | Use of uninitialized value of in req_parsebody method o | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/httpd | Medium | — | 2 |
-| 1456 | [1730660](../reports/1730660.md) | CVE-2022-42916: HSTS bypass via IDN | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 2 |
-| 1457 | [3708482](../reports/3708482.md) | wcurl treats some URL operands after -- as curl options | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 2 |
-| 1458 | [2127968](../reports/2127968.md) | CVE-2023-40195: Apache Airflow Spark Provider Deseriali | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Medium | — | 2 |
-| 1459 | [439098](../reports/439098.md) | Prototype pollution attack (mergify) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium | — | 2 |
-| 1460 | [1549435](../reports/1549435.md) | CURLOPT_SSH_HOST_PUBLIC_KEY_SHA256 comparison disaster | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 2 |
-| 1461 | [772509](../reports/772509.md) | [node-downloader-helper] Path traversal via Content-Dis | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | node-downloader-helper | Medium — CVSS 4.6 | — | 2 |
-| 1462 | [3826843](../reports/3826843.md) | ssh_config_matches is dead code: unauthorized SSH key r | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 2 |
-| 1463 | [771596](../reports/771596.md) | CRLF Injection in legacy url API (url.parse().hostname) | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 2 |
-| 1464 | [319795](../reports/319795.md) | [m-server] Path Traversal allows to display content of  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | m-server | Medium — CVSS 6.1 | — | 2 |
-| 1465 | [718241](../reports/718241.md) | [git-lib] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 6.4 | — | 2 |
-| 1466 | [3720313](../reports/3720313.md) | Proxy credentials leaked in ERR_PROXY_TUNNEL error mess | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.9 | — | 2 |
-| 1467 | [319465](../reports/319465.md) | `sql` does not properly escape parameters when building | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | sql | Medium — CVSS 6.3 | — | 2 |
-| 1468 | [321670](../reports/321670.md) | `stringstream` allocates uninitialized Buffers when num | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | stringstream | Medium — CVSS 5.2 | — | 2 |
-| 1469 | [637800](../reports/637800.md) | Libcurl ocasionally sends HTTPS traffic to port 443 rat | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 5.3 | — | 2 |
-| 1470 | [764986](../reports/764986.md) | Man in the middle using LoadBalancer or ExternalIPs ser | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kube-proxy | Medium — CVSS 6.6 | — | 2 |
-| 1471 | [3774977](../reports/3774977.md) | libcurl 8.20.0 ignores HTTP Digest domain protection sp | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 2 |
-| 1472 | [3781691](../reports/3781691.md) | CSRF in zone‑include.php allows unauthorized banner and | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 5.4 | — | 2 |
-| 1473 | [320166](../reports/320166.md) | `concat-with-sourcemaps` allocates uninitialized Buffer | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | concat-with-sourcemaps | Medium — CVSS 6.5 | — | 2 |
-| 1474 | [3896507](../reports/3896507.md) | Server crash (stack-overflow DoS) via unbounded recursi | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium | — | 2 |
-| 1475 | [331110](../reports/331110.md) | [buttle] HTML Injection in filename leads to XSS when d | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | buttle | Medium — CVSS 5.2 | — | 2 |
-| 1476 | [1096907](../reports/1096907.md) | API Server DoS (crash?) if many large resources (~1MB e | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Medium — CVSS 5.7 | — | 2 |
-| 1477 | [3678828](../reports/3678828.md) | Banner status override by advertiser‑level users | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 2 |
-| 1478 | [3891779](../reports/3891779.md) | Connector/ODBC injects unquoted column names into posit | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | Medium — CVSS 5.7 | — | 1 |
-| 1479 | [4116076](../reports/4116076.md) | CVE-2026-111483: GnuTLS accepts non-successful OCSP sta | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
-| 1480 | [4053066](../reports/4053066.md) | Missing applicability validation allows non-applicable  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
-| 1481 | [3867358](../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium | — | 1 |
-| 1482 | [2814774](../reports/2814774.md) | Possible DoS in NumberHelpers | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium | — | 1 |
-| 1483 | [3989514](../reports/3989514.md) | CVE-2026-87866: wolfSSL public-key pinning bypass | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
-| 1484 | [3511955](../reports/3511955.md) | Unauthorized users can enumerate internal team resource | [Nextcloud](../by-program/nextcloud.md) | nextcloud/circles | Medium — CVSS 4.3 | — | 1 |
-| 1485 | [3920633](../reports/3920633.md) | Connector/ODBC: SqlwcsOctetLen sizes UTF-16 with a byte | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | Medium — CVSS 5.3 | — | 1 |
-| 1486 | [3767963](../reports/3767963.md) | Proxy CONNECT response poisoning via authentication ret | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
-| 1487 | [355501](../reports/355501.md) | [servey] Path Traversal allows to retrieve content of a | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | servey | Medium | — | 1 |
-| 1488 | [3826207](../reports/3826207.md) | Stored XSS via unescaped tracker name in append-code ch | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 5.4 | — | 1 |
-| 1489 | [3890289](../reports/3890289.md) | Connector/C++ string escaper re-escapes its own output, | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | Medium — CVSS 6.9 | — | 1 |
-| 1490 | [3891337](../reports/3891337.md) | Connector/ODBC SQLGetDescRec treats descriptor handle a | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | Medium — CVSS 5.7 | — | 1 |
-| 1491 | [3773293](../reports/3773293.md) | curl/libcurl 8.20.0 NOPROXY bypass via uppercase-hex IP | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
-| 1492 | [3891319](../reports/3891319.md) | Stack buffer overflow in 9 of 10 Connector/ODBC catalog | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | Medium — CVSS 5.7 | — | 1 |
-| 1493 | [1036886](../reports/1036886.md) | Kubelet follows symlinks as root in /var/log from the / | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubelet | Medium — CVSS 4.0 | — | 1 |
-| 1494 | [3802645](../reports/3802645.md) | verify-release rebuilds from the tarball under verifica | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
-| 1495 | [3920647](../reports/3920647.md) | Connector/ODBC: MADB_Stmt::ArrayOffset is not reset whe | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium — CVSS 5.0 | — | 1 |
-| 1496 | [4053546](../reports/4053546.md) | Information Disclosure - Unauthen Leak Private Content | [WordPress](../by-program/wordpress.md) | bbPress Core | Medium | — | 1 |
-| 1497 | [449478](../reports/449478.md) | Brave allows flash to follow 307 redirects to other ori | [Brave Software](../by-program/brave.md) | https://github.com/brave/brave-ios | Medium | — | 1 |
-| 1498 | [3656716](../reports/3656716.md) | Embedded-nul hostnames can lead to silent authority reb | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.6 | — | 1 |
-| 1499 | [3649802](../reports/3649802.md) | TLS host identity verification bypass via session reuse | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 4.3 | — | 1 |
-| 1500 | [310706](../reports/310706.md) | Prototype pollution attack (merge-objects) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | merge-objects | Medium — CVSS 4.2 | — | 1 |
-| 1501 | [3871977](../reports/3871977.md) | Connector/ODBC: malicious server's long version string  | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium — CVSS 4.6 | — | 1 |
-| 1502 | [3735193](../reports/3735193.md) | CVE-2026-8925: SASL double-free | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
-| 1503 | [3676863](../reports/3676863.md) | Unbounded memory growth in `node:http2` clients via att | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.3 | — | 1 |
-| 1504 | [3920629](../reports/3920629.md) | r2dbc-mariadb: server message accepted with no command  | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | Medium — CVSS 5.7 | — | 1 |
-| 1505 | [255822](../reports/255822.md) | WebDAV Empty Property search leads to full CPU usage | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.3 | — | 1 |
-| 1506 | [995699](../reports/995699.md) | csi-snapshot-controller crashes when processing VolumeS | [Kubernetes](../by-program/kubernetes.md) | github.com/kubernetes-csi | Medium — CVSS 5.0 | — | 1 |
-| 1507 | [3890352](../reports/3890352.md) | Connector/C++ aborts client process on server session-t | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium — CVSS 4.1 | — | 1 |
-| 1508 | [952771](../reports/952771.md) | CVE-2019-11250 remains in effect. | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Medium — CVSS 4.3 | — | 1 |
-| 1509 | [4128428](../reports/4128428.md) | CVE-2026-115528: wolfSSL TLS connect without cert | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
-| 1510 | [1081406](../reports/1081406.md) | Open redirect in ck.php and lg.php | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 5.4 | — | 1 |
-| 1511 | [3744543](../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state le | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
-| 1512 | [4132132](../reports/4132132.md) | POP3: data after the end-of-body terminator is written  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
-| 1513 | [3752567](../reports/3752567.md) | curl GnuTLS backend accepts a clientAuth-only certifica | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
-| 1514 | [3872248](../reports/3872248.md) | Connector/C++: heap out-of-bounds read when malicious s | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium — CVSS 4.6 | — | 1 |
-| 1515 | [3793260](../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
-| 1516 | [3963725](../reports/3963725.md) | wolfSSL backend disables hostname verification when CUR | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
-| 1517 | [319458](../reports/319458.md) | typeorm does not properly escape parameters when buildi | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | typeorm | Medium — CVSS 6.4 | — | 1 |
-| 1518 | [3867363](../reports/3867363.md) | MariaDB HandlerSocket Improper Request Field-Count Vali | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium | — | 1 |
-| 1519 | [3791168](../reports/3791168.md) | curl-ipv4-percent-normalization-SSRF | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
-| 1520 | [764725](../reports/764725.md) | [http-live-simulator] Application-level DoS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | http-live-simulator | Medium — CVSS 5.3 | — | 1 |
-| 1521 | [841380](../reports/841380.md) | Prototype pollution attack (lodash) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | lodash | Medium — CVSS 6.1 | — | 1 |
-| 1522 | [1826392](../reports/1826392.md) | curl/libcurl vulnerable to TLS truncation attacks | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
-| 1523 | [796487](../reports/796487.md) | [dy-server2] - stored Cross-Site Scripting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 4.2 | — | 1 |
-| 1524 | [3971985](../reports/3971985.md) | Reflected XSS in popup invocation options | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.7 | — | 1 |
-| 1525 | [4105853](../reports/4105853.md) | libcurl TLS shorter-retry mismatch discloses client hea | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
-| 1526 | [3656869](../reports/3656869.md) | Uppercase sni context matching can lead to mtls authori | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 4.2 | — | 1 |
-| 1527 | [4082665](../reports/4082665.md) | ActionText `to_markdown` still allows `javascript:` lin | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 5.3 | — | 1 |
-| 1528 | [3682163](../reports/3682163.md) | Files Confidential tagging can be bypassed with # in fi | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/files_confi | Medium — CVSS 5.0 | — | 1 |
-| 1529 | [3793243](../reports/3793243.md) | Reflected XSS in stats‑video.php via improperly encoded | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.7 | — | 1 |
-| 1530 | [3871740](../reports/3871740.md) | r2dbc-mariadb Parsec auth: server-controlled PBKDF2 ite | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium — CVSS 5.7 | — | 1 |
-| 1531 | [355456](../reports/355456.md) | [statics-server] Path Traversal due to lack of provided | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | statics-server | Medium | — | 1 |
-| 1532 | [4124276](../reports/4124276.md) | GnuTLS + Apple SecTrust discards authenticated OCSP fai | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1533 | [688048](../reports/688048.md) | Incorrect IPv6 literal parsing leads to validated conne | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 6.3 | — | 0 |
-| 1534 | [3826199](../reports/3826199.md) | mbedTLS / wolfSSL / rustls backends silently skip hostn | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1535 | [3642236](../reports/3642236.md) | Tables application does not respect sharing limitations | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/tables | Medium — CVSS 4.6 | — | 0 |
-| 1536 | [3981716](../reports/3981716.md) | Cross-origin redirect reuses a pooled Negotiate-authent | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1537 | [3713682](../reports/3713682.md) | IDOR: autotranslate.translateMessage Full Message Conte | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | Medium — CVSS 5.3 | — | 0 |
-| 1538 | [3766065](../reports/3766065.md) | CURLOPT_COOKIE leaked to cross-origin redirect target — | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1539 | [3923212](../reports/3923212.md) | URL API: triple-slash parses path segment as hostname | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1540 | [4085412](../reports/4085412.md) | Rustls backend discloses out-of-bounds heap data during | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1541 | [4075098](../reports/4075098.md) | Unauthenticated reflected XSS in update history | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.1 | — | 0 |
-| 1542 | [3823932](../reports/3823932.md) | CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabl | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1543 | [4125065](../reports/4125065.md) | curl EXPIRE_SHUTDOWN timer never armed for silent serve | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1544 | [4127399](../reports/4127399.md) | wolfSSL Backend Silently Ignores --cert-status (OCSP St | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1545 | [4116433](../reports/4116433.md) | Stored XSS in report date selection | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.1 | — | 0 |
-| 1546 | [4025056](../reports/4025056.md) | HTTP/1.1 response framing violation and unsafe connecti | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1547 | [4122239](../reports/4122239.md) | CVE-2026-111952: OpenSSL provider use-after-free again | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1548 | [3962304](../reports/3962304.md) | Improper certificate validation for non-canonical IPv4  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.7 | — | 0 |
-| 1549 | [4129638](../reports/4129638.md) | TLS session cache ignores CURLOPT_SSL_CTX_FUNCTION iden | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1550 | [4118610](../reports/4118610.md) | CVE-2026-111484: OpenSSL with SecTrust accepts bad OCSP | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1551 | [3958112](../reports/3958112.md) | Missing campaign ownership check in zone bulk linking | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 5.4 | — | 0 |
-| 1552 | [885031](../reports/885031.md) | [commit-msg] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 6.4 | — | 0 |
-| 1553 | [3824331](../reports/3824331.md) | Null Dereference in X509ToObject | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.9 | — | 0 |
-| 1554 | [4007917](../reports/4007917.md) |  One Strict-Transport-Security response header empties  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1555 | [3968729](../reports/3968729.md) | Unbound cross-peer HTTP Digest challenge state | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1556 | [773313](../reports/773313.md) | Port and service scanning on localhost due to improper  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 6.3 | — | 0 |
-| 1557 | [3566607](../reports/3566607.md) | No password confirmation required when using apptoken o | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.3 | — | 0 |
-| 1558 | [4128703](../reports/4128703.md) | curl reuses an HTTPS connection when a response is alre | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1559 | [315037](../reports/315037.md) | Media parsing in canvas is at least vulnerable to Denia | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | canvas | Medium | — | 0 |
-| 1560 | [687734](../reports/687734.md) | Double-free of `trailers_buf' on `Curl_http_compile_tra | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 6.3 | — | 0 |
-| 1561 | [4129642](../reports/4129642.md) | HSTS cache file: three trailing dots silently disable H | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1562 | [1019457](../reports/1019457.md) | Data race conditions reported by helgrind when performi | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 5.2 | — | 0 |
-| 1563 | [726364](../reports/726364.md) | Crash Node.js process from handlebars using a small and | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | handlebars | Medium — CVSS 6.5 | — | 0 |
-| 1564 | [4124549](../reports/4124549.md) | CURLOPT_PROXYHEADER is not part of the HTTP-proxy conne | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1565 | [4124583](../reports/4124583.md) | SSH (SCP/SFTP) host-key verification is skipped on conn | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1566 | [4125601](../reports/4125601.md) | OpenSSL `--cert-status` accepts indefinitely stale GOOD | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1567 | [4033971](../reports/4033971.md) | Use-after-free of the internal multi->admin easy handle | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1568 | [3908050](../reports/3908050.md) | Reflected XSS via invocation iFrame size fields | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.1 | — | 0 |
-| 1569 | [3938190](../reports/3938190.md) |  Windows SSPI connection-pool probe can reuse a connect | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
-| 1570 | [3812439](../reports/3812439.md) | HTTPS Agent TLS session reuse skips hostname verificati | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.3 | — | 0 |
-| 1571 | [661959](../reports/661959.md) | Command Injection vulnerability in kill-port-process pa | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | kill-port-process | Medium — CVSS 6.1 | — | 0 |
-| 1572 | [592316](../reports/592316.md) | Stored XSS on byddypress Plug-in via groups name | [WordPress](../by-program/wordpress.md) | BuddyPress Core | Low | — | 132 |
-| 1573 | [1114347](../reports/1114347.md) | Account takeover due to misconfiguration | [Mattermost](../by-program/mattermost.md) | mattermost/mattermost-server | Low — CVSS 3.7 | — | 131 |
-| 1574 | [2828263](../reports/2828263.md) | Secrets not masked in UI when sensitive variables are s | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Low | — | 78 |
-| 1575 | [490782](../reports/490782.md) | Mssing Authorization on Private Message replies (BuddyP | [WordPress](../by-program/wordpress.md) | BuddyPress Core | Low | — | 66 |
-| 1576 | [3558277](../reports/3558277.md) | Fail-Open in set_tlsext_servername_callback on pyopenss | [Python Cryptographic Authority](../by-program/pyca.md) | https://github.com/pyca/pyopenssl | Low | — | 63 |
-| 1577 | [578138](../reports/578138.md) | [http_server] Stored XSS in the filename when directori | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | http_server | Low — CVSS 3.9 | — | 61 |
-| 1578 | [3083428](../reports/3083428.md) | Corrupted pointer in node::fs::ReadFileUtf8(const Funct | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.7 | — | 59 |
-| 1579 | [3073507](../reports/3073507.md) | Apache Airflow Fab Provider: Application does not inval | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Low | — | 57 |
-| 1580 | [2279759](../reports/2279759.md) | curl HSTS long file name clears contents  | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 57 |
-| 1581 | [3168039](../reports/3168039.md) | CVE-2025-5399: WebSocket endless loop | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 57 |
-| 1582 | [3275810](../reports/3275810.md) | Calendar app allowed booking appointments without the g | [Nextcloud](../by-program/nextcloud.md) | nextcloud/calendar | Low — CVSS 3.3 | — | 56 |
-| 1583 | [2467232](../reports/2467232.md) | Unsafe yaml load can lead to remote code execution | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | Low | — | 55 |
-| 1584 | [2705661](../reports/2705661.md) | CVE-2024-45498: Apache Airflow Command injection in rea | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Low | — | 54 |
-| 1585 | [2629968](../reports/2629968.md) | CVE-2024-7264: ASN.1 date parser overread | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 53 |
-| 1586 | [374106](../reports/374106.md) | Lack of quarantine meta-attribute for downloaded files  | [Brave Software](../by-program/brave.md) | https://github.com/brave/browser-laptop | Low | — | 52 |
-| 1587 | [2303609](../reports/2303609.md) | XSS when using `translate` in Action Controller (Rails  | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Low | — | 50 |
-| 1588 | [2764830](../reports/2764830.md) | CVE-2024-9681: HSTS subdomain overwrites parent cache e | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 49 |
-| 1589 | [968232](../reports/968232.md) | Stored XSS in collabora via user name | [Nextcloud](../by-program/nextcloud.md) | nextcloud/viewer | Low | — | 48 |
-| 1590 | [484930](../reports/484930.md) | puttygen: 160MB memory leak while trying to extract ope | [PuTTY (European Commission - DIGIT)](../by-program/putty_h1c.md) | https://www.chiark.greenend.org.uk/~sgta | Low — CVSS 3.1 | — | 46 |
-| 1591 | [895727](../reports/895727.md) | Rack parses encoded cookie names allowing an attacker t | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Low | — | 46 |
-| 1592 | [3531216](../reports/3531216.md) | MQTT Protocol Packet Injection via Unchecked CONNACK Re | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 45 |
-| 1593 | [3269761](../reports/3269761.md) | Security check up | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 44 |
-| 1594 | [3355218](../reports/3355218.md) | CVE-2025-10966: missing SFTP host verification with wol | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 43 |
-| 1595 | [3211973](../reports/3211973.md) | Credential leak on redirect due to improper state clear | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 41 |
-| 1596 | [1727424](../reports/1727424.md) | No password length limit when creating a user as an adm | [Nextcloud](../by-program/nextcloud.md) | nextcloud/password_policy | Low — CVSS 2.4 | — | 39 |
-| 1597 | [515484](../reports/515484.md) | [Reflected XSS] In Request URL | [Nextcloud](../by-program/nextcloud.md) | nextcloud/updater | Low | — | 37 |
-| 1598 | [3294999](../reports/3294999.md) | CVE-2025-9086: Out of bounds read for cookie path | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 36 |
-| 1599 | [2917232](../reports/2917232.md) | CVE-2025-0167: netrc and default credential leak | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 36 |
-| 1600 | [2079103](../reports/2079103.md) | Permission model improperly processes UNC paths | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.6 | — | 35 |
-| 1601 | [2215578](../reports/2215578.md) | [CVE-2023-38546]  cookie injection with none file | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 34 |
-| 1602 | [3612891](../reports/3612891.md) | Exposed .git/config File Leading to Potential Sensitive | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 33 |
-| 1603 | [2829063](../reports/2829063.md) | CVE-2024-11053: netrc + redirect credential leak | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 33 |
-| 1604 | [3262848](../reports/3262848.md) | on the implications of permitting procedural culling | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 33 |
-| 1605 | [3390084](../reports/3390084.md) | fs.futimes() Bypasses Read-Only Permission Model | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 2.8 | — | 33 |
-| 1606 | [2384833](../reports/2384833.md) | CVE-2024-2004: Usage of disabled protocol | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 33 |
-| 1607 | [2144868](../reports/2144868.md) | CVE-2023-40611: Apache Airflow Dag Runs Broken Access C | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Low | — | 32 |
-| 1608 | [290955](../reports/290955.md) | Chrome Extension is vulnerable to the self-DOS issues i | [Ed](../by-program/ed.md) | https://github.com/securitytxt/chrome-ex | Low | — | 32 |
-| 1609 | [2621062](../reports/2621062.md) | curl: stack-buffer overread during punycode conversions | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 31 |
-| 1610 | [3330839](../reports/3330839.md) | CVE-2025-10148: predictable WebSocket mask | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 30 |
-| 1611 | [3373640](../reports/3373640.md) | OpenSSL backend: X509 peer certificate not freed in oss | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 30 |
-| 1612 | [1040166](../reports/1040166.md) | CVE-2020-8284: trusting FTP PASV responses | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 30 |
-| 1613 | [2705507](../reports/2705507.md) | Share information of Tables app is not limited to affec | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/tables | Low — CVSS 3.5 | — | 30 |
-| 1614 | [3623064](../reports/3623064.md) | HTTP/1.1 Response Desynchronization via conflicting CL/ | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 30 |
-| 1615 | [469668](../reports/469668.md) | Passwords being stored as plain text in logging | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 30 |
-| 1616 | [3584903](../reports/3584903.md) | CVE-2026-3784: wrong proxy connection reuse with creden | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 30 |
-| 1617 | [2905552](../reports/2905552.md) | bypass of this Fixed #2437131 [ Inadequate Protocol Res | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 30 |
-| 1618 | [2376900](../reports/2376900.md) | Attachments folder for Text app is accessible on Files  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/text | Low — CVSS 2.6 | — | 29 |
-| 1619 | [2905532](../reports/2905532.md) | [CVE-2024-54133] Possible Content Security Policy bypas | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rails | Low | — | 29 |
-| 1620 | [2376909](../reports/2376909.md) | Possible to enumerate valid files in password protected | [Nextcloud](../by-program/nextcloud.md) | nextcloud/richdocuments | Low — CVSS 2.6 | — | 29 |
-| 1621 | [2210038](../reports/2210038.md) | HTML injection in search UI when selecting a circle wit | [Nextcloud](../by-program/nextcloud.md) | nextcloud/circles | Low — CVSS 3.5 | — | 29 |
-| 1622 | [2446437](../reports/2446437.md) | [CVE-2024-25126] Denial of Service Vulnerability in Rac | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rack/rack | Low | — | 27 |
-| 1623 | [1397826](../reports/1397826.md) | Unclaimed official s3 bucket of tendermint(tendermint-p | [Cosmos](../by-program/cosmos.md) | https://github.com/cometbft/cometbft | Low | — | 27 |
-| 1624 | [2446433](../reports/2446433.md) | [CVE-2024-26146] Header Parsing leads to Possible Denia | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rack/rack | Low | — | 27 |
-| 1625 | [630146](../reports/630146.md) | CSRF vulnerability that allows an attacker to modify en | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.4 | — | 27 |
-| 1626 | [2236133](../reports/2236133.md) | CVE-2023-46219: HSTS long file name clears contents | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 27 |
-| 1627 | [3434543](../reports/3434543.md) | Arbitrary free in curl's config file parsing. | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 26 |
-| 1628 | [2559558](../reports/2559558.md) | NULL dereference when encoding DN of x509 certificate | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 26 |
-| 1629 | [3608522](../reports/3608522.md) | Unescaped username in SASL DIGEST-MD5 response allows i | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 26 |
-| 1630 | [437863](../reports/437863.md) | SVG file that HTML Included is able to upload via File  | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Low | — | 26 |
-| 1631 | [2779070](../reports/2779070.md) | Memory Leak in bytes_to_hexstring Function | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric-pr | Low | — | 25 |
-| 1632 | [2604391](../reports/2604391.md) | CVE-2024-6874: macidn punycode buffer overread | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 25 |
-| 1633 | [2974850](../reports/2974850.md) | CVE-2025-0725: Heap overflow in curl with Content-Encod | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 24 |
-| 1634 | [1841408](../reports/1841408.md) | Error in  Booking an appointment reveals the full path  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/calendar | Low — CVSS 2.6 | — | 24 |
-| 1635 | [2954286](../reports/2954286.md) | CVE-2025-0665: eventfd double close | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 24 |
-| 1636 | [3399218](../reports/3399218.md) | Improper sanitisation of input in the settings could ca | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Low — CVSS 2.7 | — | 24 |
-| 1637 | [2341063](../reports/2341063.md) | CVE-2024-0853: OCSP verification bypass with TLS sessio | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 24 |
-| 1638 | [547630](../reports/547630.md) | CVE-2019-5435: An integer overflow found in /lib/urlapi | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 24 |
-| 1639 | [2298922](../reports/2298922.md) | CVE-2024-0853: OCSP verification bypass with TLS sessio | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 23 |
-| 1640 | [2249299](../reports/2249299.md) | CVE-2023-47037: Airflow Broken Access Control Vulnerabi | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Low | — | 23 |
-| 1641 | [2446427](../reports/2446427.md) | [CVE-2024-26142] ReDoS vulnerability in Accept header p | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rails | Low | — | 23 |
-| 1642 | [1154003](../reports/1154003.md) | Ratelimiting can be bypassed using IPv6 subnets | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 23 |
-| 1643 | [406289](../reports/406289.md) | Stored XSS on Broken Themes via filename | [WordPress](../by-program/wordpress.md) | WordPress Core | Low | — | 23 |
-| 1644 | [3673277](../reports/3673277.md) | libcurl stale CURLOPT_AUTOREFERER leaks a previous requ | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 22 |
-| 1645 | [2814750](../reports/2814750.md) | Inconsistent URL Parsing in curl Leading to Potential S | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 22 |
-| 1646 | [481532](../reports/481532.md) | heap-use-after-free (READ of size 8) in main() | [PuTTY (European Commission - DIGIT)](../by-program/putty_h1c.md) | https://www.chiark.greenend.org.uk/~sgta | Low — CVSS 3.1 | — | 22 |
-| 1647 | [792895](../reports/792895.md) | bypass old password with array in /admin/account-user-e | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Low | — | 22 |
-| 1648 | [2263044](../reports/2263044.md) | Open redirect in user_saml via RelayState parameter | [Nextcloud](../by-program/nextcloud.md) | nextcloud/user_saml | Low — CVSS 3.1 | — | 21 |
-| 1649 | [3404968](../reports/3404968.md) | Stored-XSS in Banner Name field  | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Low — CVSS 3.5 | — | 21 |
-| 1650 | [998422](../reports/998422.md) | XSS through image upload of contacts using svg file wit | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 21 |
-| 1651 | [925527](../reports/925527.md) | Blind HTTP GET SSRF via website icon fetch (bypass of p | [Bitwarden](../by-program/bitwarden.md) | https://github.com/bitwarden | Low | — | 21 |
-| 1652 | [3671818](../reports/3671818.md) | CVE-2026-6276: stale custom cookie host causes cookie l | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 20 |
-| 1653 | [3601655](../reports/3601655.md) | Rails::HTML::Sanitizer.allowed_uri? returns true for en | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Low | — | 20 |
-| 1654 | [1687005](../reports/1687005.md) | [user_oidc] Unencrypted Communications | [Nextcloud](../by-program/nextcloud.md) | nextcloud/user_oidc | Low — CVSS 3.5 | — | 20 |
-| 1655 | [1755555](../reports/1755555.md) | Possibility to delete files attached to deck cards of o | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | Low — CVSS 3.5 | — | 20 |
-| 1656 | [2472071](../reports/2472071.md) | fs.fchown/fchmod bypasses permission model | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.3 | — | 20 |
-| 1657 | [3473384](../reports/3473384.md) | Functional Regression in Digest Authentication: Failure | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 20 |
-| 1658 | [753567](../reports/753567.md) | XSS in select attribute options | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Low — CVSS 1.9 | — | 20 |
-| 1659 | [1687410](../reports/1687410.md) | [user_oidc] Stored XSS via Authorization Endpoint - Saf | [Nextcloud](../by-program/nextcloud.md) | nextcloud/user_oidc | Low — CVSS 3.5 | — | 19 |
-| 1660 | [1946298](../reports/1946298.md) | Missing permission check when removing a photo from an  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/photos | Low | — | 19 |
-| 1661 | [482200](../reports/482200.md) | puttygen: heap-buffer-overflow in mp_get_decimal() | [PuTTY (European Commission - DIGIT)](../by-program/putty_h1c.md) | https://www.chiark.greenend.org.uk/~sgta | Low — CVSS 3.1 | — | 19 |
-| 1662 | [2441029](../reports/2441029.md) | Potential DoS due to PasswordPoliciesNotMet in errors.g | [passhash](../by-program/passhash.md) | https://github.com/dhui/passhash | Low | — | 19 |
-| 1663 | [3595764](../reports/3595764.md) | CURLOPT_UNRESTRICTED_AUTH Dangerous Default Documentati | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 18 |
-| 1664 | [2145862](../reports/2145862.md) | fs.lstat bypasses permission model | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 2.9 | — | 18 |
-| 1665 | [3477116](../reports/3477116.md) | CVE-2025-15079: libssh global knownhost override  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 18 |
-| 1666 | [1745766](../reports/1745766.md) | Disabled download shares still allow download through p | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 2.6 | — | 18 |
-| 1667 | [3641893](../reports/3641893.md) | Cookie attribute TAB injection regression in Set-Cookie | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 18 |
-| 1668 | [2352957](../reports/2352957.md) | Proxy-Authorization header is not cleared in cross-doma | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low | — | 18 |
-| 1669 | [661722](../reports/661722.md) | WEBrick::HTTPAuth::DigestAuth authentication is vulnera | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Low — CVSS 3.7 | — | 17 |
-| 1670 | [2956023](../reports/2956023.md) | CVE-2025-0725: gzip integer overflow | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 17 |
-| 1671 | [3341476](../reports/3341476.md) | int overflow in krb5_read_data() leads to (possible) ma | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 17 |
-| 1672 | [1736466](../reports/1736466.md) | HTML INJECTION FOUND ON https://adobedocs.github.io/ana | [Adobe](../by-program/adobe.md) | https://github.com/adobe/* | Low — CVSS 3.1 | — | 17 |
-| 1673 | [1894653](../reports/1894653.md) | Missing brute force protection for passwords of passwor | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.1 | — | 17 |
-| 1674 | [3514263](../reports/3514263.md) | libcurl: Improper Authentication State Management on Cr | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 17 |
-| 1675 | [249319](../reports/249319.md) | Race condition on the Federalist API endpoints can lead | [GSA Bounty](../by-program/gsa_bbp.md) | https://github.com/18f/federalist | Low | — | 17 |
-| 1676 | [3459417](../reports/3459417.md) | CVE-2025-14524: bearer token leak on cross-protocol red | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 17 |
-| 1677 | [3399809](../reports/3399809.md) | Stored XSS on inventory-retrieve.php | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Low — CVSS 3.5 | — | 17 |
-| 1678 | [837733](../reports/837733.md) | Leaking Of Sensitive Information on Github | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | Low | — | 17 |
-| 1679 | [1561471](../reports/1561471.md) | Password disclosure in initial setup of Mail App | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Low — CVSS 3.1 | — | 17 |
-| 1680 | [404126](../reports/404126.md) | [buttle] Unsafe rendering of Markdown files | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | buttle | Low — CVSS 2.2 | — | 16 |
-| 1681 | [2334460](../reports/2334460.md) | Pickle deserialization vulnerability in XComs | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Low — CVSS 3.9 | — | 16 |
-| 1682 | [550696](../reports/550696.md) | CVE-2019-5436: Heap Buffer Overflow at lib/tftp.c | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low — CVSS 1.8 | — | 16 |
-| 1683 | [250688](../reports/250688.md) | The Federalsit session cookie (federalist.sid) is not p | [GSA Bounty](../by-program/gsa_bbp.md) | https://github.com/18f/federalist | Low | — | 16 |
-| 1684 | [1764858](../reports/1764858.md) | CVE-2022-43552: HTTP Proxy deny use-after-free | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 16 |
-| 1685 | [3480712](../reports/3480712.md) | Telnet Suboption Buffer Pointer Underflow in lib/telnet | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 16 |
-| 1686 | [1431042](../reports/1431042.md) | Prototype pollution via console.table properties | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 2.2 | — | 15 |
-| 1687 | [1784310](../reports/1784310.md) | Messages can still be seen on conversation after expiri | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Low — CVSS 3.4 | — | 15 |
-| 1688 | [768313](../reports/768313.md) | Cross Site Scripting (XSS) Stored - Private messaging | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Low — CVSS 3.5 | — | 15 |
-| 1689 | [3650435](../reports/3650435.md) | Improper enforcement of CURLOPT_SOCKS5_AUTH due to miss | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 15 |
-| 1690 | [3427460](../reports/3427460.md) | Incorrect sizeof() in Rustls Backend Memory Allocation | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 15 |
-| 1691 | [1316650](../reports/1316650.md) | unclaimed s3 bucket takeover in the 3 js file located o | [Brave Software](../by-program/brave.md) | https://github.com/brave/vault-updater | Low | — | 14 |
-| 1692 | [863221](../reports/863221.md) | SSRF bypass | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Low — CVSS 2.0 | — | 14 |
-| 1693 | [983710](../reports/983710.md) | SQL injection when configuring a database  | [ImpressCMS](../by-program/impresscms.md) | https://github.com/impresscms/impresscms | Low | — | 14 |
-| 1694 | [3509396](../reports/3509396.md) | IMAP Protocol Desynchronization and Response Smuggling  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 14 |
-| 1695 | [2148242](../reports/2148242.md) | CVE-2023-38546: cookie injection with none file | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 14 |
-| 1696 | [1172857](../reports/1172857.md) | CVE-2021-22897: schannel cipher selection surprise | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 14 |
-| 1697 | [633245](../reports/633245.md) | Delete permission can be added on reshare | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.5 | — | 14 |
-| 1698 | [1913095](../reports/1913095.md) | Blind SSRF as normal user from mailapp | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Low — CVSS 3.5 | — | 14 |
-| 1699 | [1832126](../reports/1832126.md) | Existance of calendars and addressbooks can be checked  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/contacts | Low — CVSS 3.5 | — | 14 |
-| 1700 | [3480841](../reports/3480841.md) | Permission Model Bypass in realpathSync.native Allows F | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.3 | — | 14 |
-| 1701 | [1023787](../reports/1023787.md) | Stored XSS in markdown file with Nextcloud Talk using I | [Nextcloud](../by-program/nextcloud.md) | nextcloud/text | Low — CVSS 3.0 | — | 13 |
-| 1702 | [1613943](../reports/1613943.md) | CVE-2022-35252: control code in cookie denial of servic | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 13 |
-| 1703 | [3393539](../reports/3393539.md) | Memory leak in Curl_auth_create_ntlm_type3_message | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 13 |
-| 1704 | [474262](../reports/474262.md) | XSS due to incomplete JS escaping | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Low | — | 13 |
-| 1705 | [261138](../reports/261138.md) | Stored XSS in OAuth redirect URI  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.4 | — | 13 |
-| 1706 | [3480925](../reports/3480925.md) | CVE-2025-15224: libssh key passphrase bypass without ag | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 13 |
-| 1707 | [3334165](../reports/3334165.md) |  Nextcloud Tables v1 Share Enumeration Without Authoriz | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/tables | Low — CVSS 3.5 | — | 13 |
-| 1708 | [1596673](../reports/1596673.md) | Lack of Brute force protection while joining video call | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.5 | — | 12 |
-| 1709 | [1561448](../reports/1561448.md) | Postgres Admin Username and Password in Plain text | [UPchieve](../by-program/upchieve.md) | https://gitlab.com/upchieve/subway | Low | — | 12 |
-| 1710 | [1820864](../reports/1820864.md) | No password length restriction in reset password endpoi | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.5 | — | 12 |
-| 1711 | [1897203](../reports/1897203.md) | CVE-2023-27537: HSTS double-free | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 12 |
-| 1712 | [3473182](../reports/3473182.md) | A logic error in detect_proxy caused truncation of envi | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 12 |
-| 1713 | [1806275](../reports/1806275.md) | Mail app stores cleartext password in database until OA | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Low — CVSS 1.8 | — | 12 |
-| 1714 | [1927360](../reports/1927360.md) | Previously created sessions continue being valid after  | [WordPress](../by-program/wordpress.md) | Official WordPress plugins | Low | — | 12 |
-| 1715 | [4023506](../reports/4023506.md) | libcurl LDAP LDIF: entry DN and attribute names written | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 12 |
-| 1716 | [1035976](../reports/1035976.md) | Slack server disclose h1 private issue report | [ImpressCMS](../by-program/impresscms.md) | https://github.com/impresscms/impresscms | Low | — | 12 |
-| 1717 | [3889473](../reports/3889473.md) | @jitsi/docker-jitsi-meet: `/colibri-relay-ws/` unsafe n | [8x8](../by-program/8x8-bounty.md) | https://github.com/jitsi | Low | — | 12 |
-| 1718 | [1596059](../reports/1596059.md) | Missing character limitation allows to put generate a d | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 12 |
-| 1719 | [3479019](../reports/3479019.md) | Security hardening: missing integer overflow check in c | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 12 |
-| 1720 | [1200815](../reports/1200815.md) | Federated share accepting/declining is not logged in au | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 12 |
-| 1721 | [1604606](../reports/1604606.md) | Information exposure in in guzzlehttp/guzzle (https://g | [Nextcloud](../by-program/nextcloud.md) | nextcloud/3rdparty | Low — CVSS 3.0 | — | 12 |
-| 1722 | [627376](../reports/627376.md) | Application level denial of service due to shutting dow | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | http-live-simulator | Low | — | 11 |
-| 1723 | [948876](../reports/948876.md) | CVE-2020-8231: Connect-only connections can use the wro | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 11 |
-| 1724 | [1967109](../reports/1967109.md) | Rocket.Chat Desktop client fails to open browser on 3rd | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | Low | — | 11 |
-| 1725 | [1054282](../reports/1054282.md) | Protocol Smuggling over LDAP password field | [ownCloud](../by-program/owncloud.md) | owncloud/user_ldap | Low | — | 11 |
-| 1726 | [1018568](../reports/1018568.md) | Server Side Request Forgery in 'Jabber settings' in Adm | [phpBB](../by-program/phpbb.md) | https://github.com/phpbb/phpbb | Low — CVSS 3.4 | — | 11 |
-| 1727 | [378805](../reports/378805.md) | Navigation to `chrome-extension://` origin (internal pa | [Brave Software](../by-program/brave.md) | https://github.com/brave/muon | Low — CVSS 3.8 | — | 11 |
-| 1728 | [1753224](../reports/1753224.md) | CVE-2022-35260: .netrc parser out-of-bounds access | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 11 |
-| 1729 | [310443](../reports/310443.md) | Prototype pollution attack (lodash) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | lodash | Low — CVSS 2.5 | — | 11 |
-| 1730 | [3476928](../reports/3476928.md) | Integer Overflow in `curl_easy_escape()` may lead to he | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 11 |
-| 1731 | [2410774](../reports/2410774.md) | CVE-2024-2379: QUIC certificate check bypass with wolfS | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 11 |
-| 1732 | [1741525](../reports/1741525.md) | Mail app - Blind SSRF via Sierve server fonctionnality  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Low — CVSS 3.5 | — | 11 |
-| 1733 | [1590071](../reports/1590071.md) | CVE-2022-32208: FTP-KRB bad message verification | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 11 |
-| 1734 | [1736390](../reports/1736390.md) | Mail app - blind SSRF via imapHost parameter | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Low — CVSS 3.5 | — | 11 |
-| 1735 | [1745755](../reports/1745755.md) | Hide download previews are accessible without a waterma | [Nextcloud](../by-program/nextcloud.md) | nextcloud/richdocuments | Low — CVSS 2.3 | — | 11 |
-| 1736 | [369185](../reports/369185.md) | Unsafe handling of protocol handlers | [Brave Software](../by-program/brave.md) | https://github.com/brave/browser-laptop | Low — CVSS 3.1 | — | 11 |
-| 1737 | [3488278](../reports/3488278.md) | MQTT: Missing upper bound on incoming Remaining Length  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 10 |
-| 1738 | [1991428](../reports/1991428.md) | CVE-2023-28322: more POST-after-PUT confusion | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 10 |
-| 1739 | [3621851](../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 10 |
-| 1740 | [375259](../reports/375259.md) | Cross-origin page stays focused before/after downloadin | [Brave Software](../by-program/brave.md) | https://github.com/brave/browser-laptop | Low | — | 10 |
-| 1741 | [317711](../reports/317711.md) | twofactor_auth bypassable if provider fails to load | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 10 |
-| 1742 | [320693](../reports/320693.md) | [hekto] open redirect when target domain name is used a | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | hekto | Low — CVSS 2.7 | — | 10 |
-| 1743 | [1261225](../reports/1261225.md) | High memory usage for generating preview of broken imag | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.5 | — | 10 |
-| 1744 | [1200810](../reports/1200810.md) | Admin audit is not properly logging unsetting of expira | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 10 |
-| 1745 | [1369312](../reports/1369312.md) | SSRF mitigation bypass using DNS Rebind attack | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Low — CVSS 3.5 | — | 10 |
-| 1746 | [3916059](../reports/3916059.md) | CVE-2026-18924: HTTP/2 server push UAF | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 10 |
-| 1747 | [2408074](../reports/2408074.md) | Proxy-Authorization header not cleared on cross-origin  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low | — | 9 |
-| 1748 | [276123](../reports/276123.md) | Password Complexity Not Enforced On Password Change | [ownCloud](../by-program/owncloud.md) | owncloud/core | Low | — | 9 |
-| 1749 | [3395666](../reports/3395666.md) | libcurl MQTT PUBLISH length overflow (heap overflow) | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 9 |
-| 1750 | [852841](../reports/852841.md) | Reduced purmations on encryption | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 9 |
-| 1751 | [1145454](../reports/1145454.md) | lib/net/ftp.rb: trusting PASV responses allow client ab | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Low — CVSS 3.7 | — | 9 |
-| 1752 | [1746582](../reports/1746582.md) | Mail app - blind SSRF via smtpHost parameter | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Low — CVSS 3.5 | — | 9 |
-| 1753 | [661051](../reports/661051.md) | Message Authentication Codes calculated by the Default  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 1.8 | — | 9 |
-| 1754 | [716570](../reports/716570.md) | Stored XSS (Hexo-admin plugin) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | hexo-admin | Low — CVSS 2.7 | — | 9 |
-| 1755 | [1167958](../reports/1167958.md) | Nextcloud deck sharee search leaks searches to lookupse | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | Low | — | 9 |
-| 1756 | [381194](../reports/381194.md) | Prototype pollution attack (merge.recursive) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | merge | Low | — | 9 |
-| 1757 | [1106652](../reports/1106652.md) | redirect_to(["string"]) remote code execution | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Low | — | 9 |
-| 1758 | [3521434](../reports/3521434.md) | View-only guests could see deleted Collectives pages in | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/collectives | Low — CVSS 2.6 | — | 9 |
-| 1759 | [3650689](../reports/3650689.md) | CVE-2026-5773: wrong reuse of SMB connection | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 9 |
-| 1760 | [1595299](../reports/1595299.md) | Read beyond bounds via ap_rwrite() [zhbug_httpd_47.2] | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/httpd | Low | — | 9 |
-| 1761 | [3460184](../reports/3460184.md) | Terminal Output Not Great | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 8 |
-| 1762 | [3692858](../reports/3692858.md) | Permission Model Bypass via `process.report.writeReport | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 1.8 | — | 8 |
-| 1763 | [873584](../reports/873584.md) | Stored XSS in the file search filter | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Low | — | 8 |
-| 1764 | [3838601](../reports/3838601.md) | Permission Model Bypass: `trace_events.createTracing(). | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.3 | — | 8 |
-| 1765 | [2051224](../reports/2051224.md) | fs.statfs bypasses Permission Model | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.3 | — | 8 |
-| 1766 | [1686935](../reports/1686935.md) | CVE-2022-35252: control code in cookie denial of servic | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 8 |
-| 1767 | [3508799](../reports/3508799.md) | Digest Authentication Header Injection | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 8 |
-| 1768 | [456702](../reports/456702.md) | [atlasboard-atlassian-package] Cross-site Scripting (XS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | atlasboard-atlassian-package | Low | — | 8 |
-| 1769 | [357665](../reports/357665.md) | DoS in Brave browser for iOS | [Brave Software](../by-program/brave.md) | https://github.com/brave/browser-ios | Low | — | 8 |
-| 1770 | [3485178](../reports/3485178.md) | Deck app: Invalid tag color is accepted by API and brea | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | Low — CVSS 2.7 | — | 7 |
-| 1771 | [3494098](../reports/3494098.md) | inconsistently Rejection Logic in file:// URLs with Aut | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 7 |
-| 1772 | [972561](../reports/972561.md) | kubeadm logs tokens before deleting them | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubeadm | Low — CVSS 3.4 | — | 7 |
-| 1773 | [1210458](../reports/1210458.md) | Serverinfo endpoints are not bruteforce protected nor a | [Nextcloud](../by-program/nextcloud.md) | nextcloud/serverinfo | Low | — | 7 |
-| 1774 | [1129529](../reports/1129529.md) | CVE-2021-22890: TLS 1.3 session ticket proxy host mixup | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 7 |
-| 1775 | [1546268](../reports/1546268.md) | CVE-2022-27775: Bad local IPv6 connection reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 7 |
-| 1776 | [3508852](../reports/3508852.md) | Application Data Hiding via Invalid `iconName` Causing  | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/tables | Low — CVSS 3.5 | — | 7 |
-| 1777 | [1814824](../reports/1814824.md) | curl file writing susceptible to symlink attacks | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 7 |
-| 1778 | [3793495](../reports/3793495.md) | Incomplete Suppression of  Transfer-Encoding: chunked H | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 7 |
-| 1779 | [794144](../reports/794144.md) | Open redirection bypass in /www/admin/campaign-modify.p | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Low | — | 7 |
-| 1780 | [281336](../reports/281336.md) | Negative size in tar header causes infinite loop | [RubyGems](../by-program/rubygems.md) | https://github.com/rubygems/rubygems | Low | — | 7 |
-| 1781 | [1169335](../reports/1169335.md) | Password policy changes not enforced for existing passw | [Nextcloud](../by-program/nextcloud.md) | nextcloud/password_policy | Low | — | 7 |
-| 1782 | [1814333](../reports/1814333.md) | CVE-2023-23915: HSTS amnesia with --parallel | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 7 |
-| 1783 | [888261](../reports/888261.md) | The password of a mail share is not set if the password | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 7 |
-| 1784 | [476615](../reports/476615.md) | Private/confidential setting of calendar events is igno | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 7 |
-| 1785 | [3508321](../reports/3508321.md) | Integer-underflow leads to heap over-read in TFTP imple | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 7 |
-| 1786 | [1721098](../reports/1721098.md) | CVE-2022-35260: .netrc parser out-of-bounds access | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 7 |
-| 1787 | [3304830](../reports/3304830.md) | Files drop share links for end-to-end encrypted folders | [Nextcloud](../by-program/nextcloud.md) | nextcloud/end_to_end_encryption | Low — CVSS 3.5 | — | 7 |
-| 1788 | [1927499](../reports/1927499.md) | Testing flow includes a DeepSource secret | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/wlc | Low | — | 7 |
-| 1789 | [358339](../reports/358339.md) | File access control rules not enforced on image files | [Nextcloud](../by-program/nextcloud.md) | nextcloud/files_accesscontrol | Low — CVSS 3.5 | — | 7 |
-| 1790 | [3971462](../reports/3971462.md) | Heap-use-after-free in CURLOPT_REFERER when passed a CU | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 7 |
-| 1791 | [1047447](../reports/1047447.md) | HostAuthorization middleware does not suitably sanitize | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Low | — | 7 |
-| 1792 | [1364797](../reports/1364797.md) | SSRF - pivoting in the private LAN | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Low — CVSS 3.5 | — | 7 |
-| 1793 | [545052](../reports/545052.md) | Github wikis are editable by anyone #Githubwikistakeove | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 6 |
-| 1794 | [1246721](../reports/1246721.md) | Text app leaks file path of shared files | [Nextcloud](../by-program/nextcloud.md) | nextcloud/text | Low | — | 6 |
-| 1795 | [1354334](../reports/1354334.md) | Error in Deleting Deck cards attachment reveals the ful | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | Low — CVSS 3.5 | — | 6 |
-| 1796 | [1548535](../reports/1548535.md) | --libcurl code injection via trigraphs | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 6 |
-| 1797 | [3993973](../reports/3993973.md) | HTTP Digest nonce reused across an https→http scheme ch | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 6 |
-| 1798 | [1191209](../reports/1191209.md) | Email Spoofing on sifchain.finance | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 6 |
-| 1799 | [1204977](../reports/1204977.md) | CGI::Cookieクラスにおけるセキュリティ上好ましくない仕様および実装 | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Low | — | 6 |
-| 1800 | [815084](../reports/815084.md) | [Limited bypass of #793704] Blind SSRF in Ghost CMS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Ghost | Low — CVSS 2.7 | — | 6 |
-| 1801 | [3717552](../reports/3717552.md) | CURLOPT_PROXY_CRLFILE / CURLOPT_PROXY_ISSUERCERT / CURL | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 6 |
-| 1802 | [3449392](../reports/3449392.md) | CVE-2024-36137 Patch Bypass - FileHandle.chmod/chown | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.3 | — | 6 |
-| 1803 | [1929597](../reports/1929597.md) | CVE-2023-28320: siglongjmp race condition | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 6 |
-| 1804 | [802011](../reports/802011.md) | Grafana Improper authorization  | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/test-infra | Low | — | 6 |
-| 1805 | [3993850](../reports/3993850.md) | Apple SecTrust fallback ignores CURLOPT_CRLFILE, lettin | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 6 |
-| 1806 | [378809](../reports/378809.md) | `alert()` dialogs on `chrome-extension://` origin (inte | [Brave Software](../by-program/brave.md) | https://github.com/brave/muon | Low | — | 6 |
-| 1807 | [1813864](../reports/1813864.md) | CVE-2023-23914: curl HSTS ignored on multiple requests | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 6 |
-| 1808 | [1108420](../reports/1108420.md) | HTML Injection on "polls" app - comments section (possi | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 6 |
-| 1809 | [1781751](../reports/1781751.md) | Ability to control the filename when uploading a logo o | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 2.4 | — | 6 |
-| 1810 | [882923](../reports/882923.md) | DoS for client-go jsonpath func | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/client-go | Low | — | 6 |
-| 1811 | [1596252](../reports/1596252.md) | DoS via lua_read_body() [zhbug_httpd_94] | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/httpd | Low | — | 5 |
-| 1812 | [377206](../reports/377206.md) | `settingcontent-ms` files lacks "mark of the web" => ex | [Brave Software](../by-program/brave.md) | https://github.com/brave/muon | Low | — | 5 |
-| 1813 | [1595281](../reports/1595281.md) | Read beyond bounds in ap_strcmp_match() [zhbug_httpd_47 | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/httpd | Low | — | 5 |
-| 1814 | [1195593](../reports/1195593.md) | Talk discloses turn server to anybody | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Low | — | 5 |
-| 1815 | [873474](../reports/873474.md) | Stored XSS on express entries | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Low | — | 5 |
-| 1816 | [660563](../reports/660563.md) | [script-manager] Unintended require | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low | — | 5 |
-| 1817 | [1745702](../reports/1745702.md) | Insecure randomness for default password in file sharin | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.5 | — | 5 |
-| 1818 | [1092859](../reports/1092859.md) | KOPS documentation references domains which were not re | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kops | Low — CVSS 3.1 | — | 5 |
-| 1819 | [3533697](../reports/3533697.md) | Public collectives allow to create pages | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/collectives | Low — CVSS 3.5 | — | 5 |
-| 1820 | [316346](../reports/316346.md) | [public] Stored XSS in filenames in directory served by | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | public | Low — CVSS 3.9 | — | 5 |
-| 1821 | [1081986](../reports/1081986.md) | Potential Authentication Bypass through "autologin" fea | [ImpressCMS](../by-program/impresscms.md) | https://github.com/impresscms/impresscms | Low | — | 5 |
-| 1822 | [1555441](../reports/1555441.md) | CVE-2022-27781: CERTINFO never-ending busy-loop | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 5 |
-| 1823 | [1145044](../reports/1145044.md) | Holes in EndpointSlice Validation Enable Host Network H | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Low — CVSS 2.7 | — | 5 |
-| 1824 | [3968853](../reports/3968853.md) | OpenSSL ENGINE selection omitted from mTLS connection m | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 5 |
-| 1825 | [321704](../reports/321704.md) | `njwt` allocates uninitialized Buffers when number is p | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low — CVSS 1.8 | — | 5 |
-| 1826 | [1595296](../reports/1595296.md) | Read beyond bounds in mod_isapi.c [zhbug_httpd_41] | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/httpd | Low | — | 5 |
-| 1827 | [1690510](../reports/1690510.md) | the complete server installation path is visible in clo | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.5 | — | 5 |
-| 1828 | [1606039](../reports/1606039.md) | CVE-2022-27781: CERTINFO never-ending busy-loop | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 5 |
-| 1829 | [1195429](../reports/1195429.md) | No Rate Limit protection in user subscription form | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 5 |
-| 1830 | [1101882](../reports/1101882.md) | CVE-2021-22876: Automatic referer leaks credentials | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 5 |
-| 1831 | [1187018](../reports/1187018.md) | wrong url in hackerone > goes to wix.com > unconnected | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 5 |
-| 1832 | [1694171](../reports/1694171.md) | Multiple cross-site scripting (XSS) vulnerabilities in  | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Low | — | 5 |
-| 1833 | [1595290](../reports/1595290.md) | Controllable read beyond bounds in lua_websocket_readby | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/httpd | Low | — | 5 |
-| 1834 | [310707](../reports/310707.md) | Prototype pollution attack (assign-deep) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | assign-deep | Low — CVSS 1.8 | — | 4 |
-| 1835 | [3788984](../reports/3788984.md) | CVE-2026-11564: Native CA trust persist | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 4 |
-| 1836 | [1378706](../reports/1378706.md) | RDoc::MethodAttr is vulnerable to Regular Expression De | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Low | — | 4 |
-| 1837 | [526258](../reports/526258.md) | environment variable leakage in error reporting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | seneca | Low — CVSS 3.3 | — | 4 |
-| 1838 | [1596918](../reports/1596918.md) | Brute force protections don't work | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.7 | — | 4 |
-| 1839 | [1625036](../reports/1625036.md) | Insecure loading of ICU data through ICU_DATA environme | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.0 | — | 4 |
-| 1840 | [4044441](../reports/4044441.md) | Translation discovery crashes on crafted filenames (reg | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/translatio | Low | — | 4 |
-| 1841 | [1891474](../reports/1891474.md) | CVE-2023-27533: Telnet option IAC injection | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 4 |
-| 1842 | [1991427](../reports/1991427.md) | CVE-2023-28321: IDN wildcard match | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 4 |
-| 1843 | [4040149](../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves st | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/wlc | Low | — | 4 |
-| 1844 | [1889477](../reports/1889477.md) | Security Unfavorable Specifications and Implementations | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/ruby | Low | — | 4 |
-| 1845 | [1898475](../reports/1898475.md) | CVE-2023-27538: SSH connection too eager reuse still | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 4 |
-| 1846 | [2037887](../reports/2037887.md) | fs.mkdtemp() and fs.mkdtempSync() are missing getValida | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 2.9 | — | 4 |
-| 1847 | [311236](../reports/311236.md) | Prototype pollution attack (mixin-deep) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | mixin-deep | Low — CVSS 1.8 | — | 4 |
-| 1848 | [2904921](../reports/2904921.md) | OS Command Injection  (subprocess Module Usage) | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 4 |
-| 1849 | [1895135](../reports/1895135.md) | CVE-2023-27536: GSS delegation too eager connection re- | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 4 |
-| 1850 | [661847](../reports/661847.md) | Integer overflows in tool_operate.c at line 1541 | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low — CVSS 3.3 | — | 4 |
-| 1851 | [311333](../reports/311333.md) | Prototype pollution attack (deep-extend) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | deep-extend | Low — CVSS 2.0 | — | 4 |
-| 1852 | [321702](../reports/321702.md) | `put` allocates uninitialized Buffers when non-round nu | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low — CVSS 1.8 | — | 4 |
-| 1853 | [1200989](../reports/1200989.md) | No admin audit entry for enabling/disabling 2FA | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 4 |
-| 1854 | [819362](../reports/819362.md) | Cross Site Scripting and Open Redirect in affiliate-pre | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Low | — | 4 |
-| 1855 | [1569946](../reports/1569946.md) | CVE-2022-32205: Set-Cookie denial of service | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 4 |
-| 1856 | [1825377](../reports/1825377.md) |  libssh backend CURLOPT_SSH_HOST_PUBLIC_KEY_SHA256 vali | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low — CVSS 3.7 | — | 4 |
-| 1857 | [1607601](../reports/1607601.md) | @nextcloud/logger NPM package brings vulnerable ansi-re | [Nextcloud](../by-program/nextcloud.md) | nextcloud/password_policy | Low — CVSS 2.7 | — | 4 |
-| 1858 | [310439](../reports/310439.md) | Prototype pollution attack (Hoek) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | hoek | Low — CVSS 2.5 | — | 4 |
-| 1859 | [310133](../reports/310133.md) | [glance] Stored XSS via file name allows to run arbitra | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | glance | Low — CVSS 3.9 | — | 4 |
-| 1860 | [3710209](../reports/3710209.md) | Potential Resource Leak in tool_parsecfg.c at line 279  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 4 |
-| 1861 | [1195568](../reports/1195568.md) | Ransomware protection is missing extentions | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 3 |
-| 1862 | [3564941](../reports/3564941.md) | HTTP Request Smuggling via Silent Header Truncation in  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.7 | — | 3 |
-| 1863 | [310671](../reports/310671.md) | [file-static-server] Path Traversal allows to read cont | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low — CVSS 3.5 | — | 3 |
-| 1864 | [1892351](../reports/1892351.md) | CVE-2023-27534: SFTP path ~ resolving discrepancy | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 3 |
-| 1865 | [1913110](../reports/1913110.md) | CVE-2023-27537: HSTS double-free | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 3 |
-| 1866 | [3751697](../reports/3751697.md) | CVE-2026-10536: HTTP/2 stream-dependency tree UAF | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 3 |
-| 1867 | [1354255](../reports/1354255.md) | Open redirect in fastify-static via mishandled user's i | [Fastify](../by-program/fastify.md) | https://github.com/fastify | Low — CVSS 3.7 | — | 3 |
-| 1868 | [1195194](../reports/1195194.md) | Wordpress Users Disclosure (/wp-json/wp/v2/users/) on s | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 3 |
-| 1869 | [1994328](../reports/1994328.md) | App stores client secret unencrypted in database | [Nextcloud](../by-program/nextcloud.md) | nextcloud/user_oidc | Low — CVSS 3.8 | — | 3 |
-| 1870 | [310514](../reports/310514.md) | Prototype pollution attack (defaults-deep) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | defaults-deep | Low — CVSS 1.8 | — | 3 |
-| 1871 | [310708](../reports/310708.md) | Prototype pollution attack (merge-deep) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | merge-deep | Low — CVSS 1.8 | — | 3 |
-| 1872 | [390663](../reports/390663.md) | Open redirect in switch account functionality | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Low — CVSS 3.1 | — | 3 |
-| 1873 | [4103651](../reports/4103651.md) | TFTP accepts a first response from an IP other than the | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 3 |
-| 1874 | [4022462](../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (de | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/translatio | Low | — | 3 |
-| 1875 | [1784449](../reports/1784449.md) | Regular Expression Denial of Service in Headers | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.1 | — | 3 |
-| 1876 | [895730](../reports/895730.md) | Contacts menu (not app) fails to restrict (to local gro | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.2 | — | 3 |
-| 1877 | [3969368](../reports/3969368.md) | CVE-2026-80231: native CA store conn reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 3 |
-| 1878 | [298218](../reports/298218.md) | antispambot does not always escape <, >, &, " and ' | [WordPress](../by-program/wordpress.md) | WordPress Core | Low | — | 3 |
-| 1879 | [3774279](../reports/3774279.md) | heap-use-after-free in state.referer when CURLOPT_REFER | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 3 |
-| 1880 | [1954658](../reports/1954658.md) | CVE-2023-28322: more POST-after-PUT confusion | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 3 |
-| 1881 | [3824303](../reports/3824303.md) | UAF read in mev_pollset_diff() trace path after curl_ea | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 3 |
-| 1882 | [503821](../reports/503821.md) | Assertion `col >= 0 && col < line->cols' failed, proces | [PuTTY (European Commission - DIGIT)](../by-program/putty_h1c.md) | https://www.chiark.greenend.org.uk/~sgta | Low | — | 3 |
-| 1883 | [1223882](../reports/1223882.md) | CVE-2021-22925: TELNET stack contents disclosure again | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low — CVSS 3.1 | — | 3 |
-| 1884 | [677955](../reports/677955.md) | `indexFile` option passed as an argument to node-server | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | node-static | Low | — | 3 |
-| 1885 | [1200992](../reports/1200992.md) | No admin audit log for auth tokens | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 3 |
-| 1886 | [321701](../reports/321701.md) | `utile` allocates uninitialized Buffers when number is  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low — CVSS 1.8 | — | 3 |
-| 1887 | [3521639](../reports/3521639.md) | Improper Input Validation and Integer Overflow in timea | [Nextcloud](../by-program/nextcloud.md) | nextcloud/files_retention | Low — CVSS 3.8 | — | 2 |
-| 1888 | [3872858](../reports/3872858.md) | Stored HTML Injection (CWE-79) via Livechat Visitor Nam | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | Low | — | 2 |
-| 1889 | [3976342](../reports/3976342.md) | IMAP connection reuse runs requests in the wrong case-s | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
-| 1890 | [1639423](../reports/1639423.md) | Insecure TLS Configuration #3530 | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric | Low | — | 2 |
-| 1891 | [3823985](../reports/3823985.md) | Use-after-free in `mev_forget_socket` when `curl_easy_p | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
-| 1892 | [1589847](../reports/1589847.md) | Heap overflow via HTTP/2 PUSH_PROMISE | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
-| 1893 | [4128701](../reports/4128701.md) | Pinned public key check passes for a key the server doe | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
-| 1894 | [831654](../reports/831654.md) | "Self" DOS with large deployment and scaling | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Low — CVSS 3.7 | — | 2 |
-| 1895 | [3636758](../reports/3636758.md) | Cross-room signaling injection enabling unauthorized fo | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Low — CVSS 3.3 | — | 2 |
-| 1896 | [3749428](../reports/3749428.md) | curl cross-origin HTTPS redirect reuses TLS client cert | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
-| 1897 | [2070810](../reports/2070810.md) | Potential NULL dereference in libssh's sftp server | [Internet Bug Bounty](../by-program/ibb.md) | https://git.libssh.org/ | Low — CVSS 3.1 | — | 2 |
-| 1898 | [3783438](../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loo | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
-| 1899 | [264426](../reports/264426.md) | Nextcloud logs ldap passwords | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 2 |
-| 1900 | [4122227](../reports/4122227.md) | wolfSSL TLS sessions retain native-CA trust after the a | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
-| 1901 | [310446](../reports/310446.md) | Prototype pollution attack (deap) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | deap | Low — CVSS 2.0 | — | 2 |
-| 1902 | [1468962](../reports/1468962.md) | Binary output bypass | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
-| 1903 | [3749204](../reports/3749204.md) | CVE-2026-9080: UAF after pause in socket callback | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
-| 1904 | [1173670](../reports/1173670.md) | Trusted server shared secret stored unencrypted in the  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 2 |
-| 1905 | [3599470](../reports/3599470.md) | Improper input validation in emoji field leads to sideb | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/collectives | Low — CVSS 3.1 | — | 2 |
-| 1906 | [765664](../reports/765664.md) | Heap Buffer Overflow (READ of size 1) in ourWriteOut | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
-| 1907 | [796139](../reports/796139.md) | Github test clientID and clientSecret leaked | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/test-infra | Low | — | 2 |
-| 1908 | [3766392](../reports/3766392.md) | curl External-Controlled Filename in `--url @file` Lead | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
-| 1909 | [3582376](../reports/3582376.md) | HTTP Response Queue Poisoning via TOCTOU Race Condition | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.7 | — | 2 |
-| 1910 | [453795](../reports/453795.md) | [harp] Unsafe rendering of Markdown files | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | harp | Low — CVSS 3.3 | — | 2 |
-| 1911 | [2104567](../reports/2104567.md) | (CVE-2023-32003) fs.mkdtemp() and fs.mkdtempSync() are  | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/nodejs/node | Low | — | 2 |
-| 1912 | [446662](../reports/446662.md) | Node.js HTTP/2 Large Settings Frame DoS | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low | — | 2 |
-| 1913 | [3822248](../reports/3822248.md) | CVE-2026-13608: OpenLDAP SASL authentication bypass | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
-| 1914 | [1198203](../reports/1198203.md) | Bootstrap library is vulnerable | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 2 |
-| 1915 | [949712](../reports/949712.md) | DoS attack against the client when entering a long pass | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 2.2 | — | 2 |
-| 1916 | [3754343](../reports/3754343.md) | CVE-2026-9546: sending old referer | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
-| 1917 | [3524971](../reports/3524971.md) | Users with read-only access to a Nextcloud Table can en | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/tables | Low — CVSS 3.3 | — | 2 |
-| 1918 | [885041](../reports/885041.md) | The password of a mail share is not hashed if the passw | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 2 |
-| 1919 | [3943436](../reports/3943436.md) | Unauthenticated attacker can book appointments at arbit | [Nextcloud](../by-program/nextcloud.md) | nextcloud/calendar | Low — CVSS 3.7 | — | 2 |
-| 1920 | [1950627](../reports/1950627.md) | CVE-2023-28321: IDN wildcard match | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
-| 1921 | [3938220](../reports/3938220.md) | libcurl cache updates follow symlinks and truncate thei | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
-| 1922 | [3797526](../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
-| 1923 | [3788931](../reports/3788931.md) | CVE-2026-11586: WS Auto-PONG memory exhaustion | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
-| 1924 | [755354](../reports/755354.md) | Prevent XSS when passing a parameter directly into link | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Low | — | 2 |
-| 1925 | [3521646](../reports/3521646.md) | Missing Duplicate Check allowing Multiple Retention Rul | [Nextcloud](../by-program/nextcloud.md) | nextcloud/files_retention | Low — CVSS 3.8 | — | 2 |
-| 1926 | [3780733](../reports/3780733.md) | DNS domain search list followed for extant domain missi | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1927 | [4123571](../reports/4123571.md) | Redirect to imap/pop3/smtp (SASL) or sftp/scp (libssh)  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1928 | [4126768](../reports/4126768.md) | SSH host-key policy is missing from the connection-reus | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1929 | [993975](../reports/993975.md) | [zenn-cli] Path traversal on Windows allows the attacke | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low | — | 1 |
-| 1930 | [897974](../reports/897974.md) | Arbitrary code execution via untrusted schemas in ajv | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low | — | 1 |
-| 1931 | [3735184](../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1932 | [3618831](../reports/3618831.md) | Unix domain socket server bypasses --permission network | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.3 | — | 1 |
-| 1933 | [3625987](../reports/3625987.md) | Permission Model bypass via FileHandle.utimes() in the  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.3 | — | 1 |
-| 1934 | [1090678](../reports/1090678.md) | Command injection in OptionParser.load | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Low | — | 1 |
-| 1935 | [3752888](../reports/3752888.md) | CVE-2026-9545: exposing HTTP/3 early data | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1936 | [3996423](../reports/3996423.md) | Permission Model filesystem over-grant via wildcard rad | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.6 | — | 1 |
-| 1937 | [4124849](../reports/4124849.md) | CVE-2026-111951: curl -OJ truncate without filename | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1938 | [1188643](../reports/1188643.md) | Vulnerable javascript dependency at Main domain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 1 |
-| 1939 | [636013](../reports/636013.md) | huge COLUMNS causes progress-bar to buffer overflow | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1940 | [1572120](../reports/1572120.md) | curl "globbing" can lead to denial of service attacks | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1941 | [724134](../reports/724134.md) | Race condition with CURL_LOCK_DATA_CONNECT can cause co | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1942 | [4099194](../reports/4099194.md) | CVE-2026-107928: info leak uploading over WebSockets wi | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1943 | [4124486](../reports/4124486.md) | RTSP ANNOUNCE/SET_PARAMETER upload with --use-ascii / C | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1944 | [4118643](../reports/4118643.md) | OpenSSL provider OSSL_LIB_CTX used after free via the c | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1945 | [4099618](../reports/4099618.md) | CVE-2026-107929: local interface connection reuse mixup | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1946 | [694449](../reports/694449.md) | Buffer write overflow when forming dns over http reques | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1947 | [4093443](../reports/4093443.md) |  Cookie attribute truncation in curl drops Secure/HttpO | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1948 | [776371](../reports/776371.md) | [chart.js] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low — CVSS 3.1 | — | 1 |
-| 1949 | [662412](../reports/662412.md) | Integer overflow  at line 1603 in the src/operator.c fi | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low — CVSS 3.3 | — | 1 |
-| 1950 | [3721183](../reports/3721183.md) | CVE-2026-8458: wrong reuse for different services | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1951 | [4123050](../reports/4123050.md) | CVE-2026-11586 fix is incomplete: auto-PONG memory grow | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1952 | [696822](../reports/696822.md) | Potential invocation of qsort on uninitialized memory d | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1953 | [1188662](../reports/1188662.md) | Username disclosure at Main Domain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 1 |
-| 1954 | [3733910](../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1955 | [3838675](../reports/3838675.md) | Permission Model bypass with fs.realpathSync | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.3 | — | 1 |
-| 1956 | [3815767](../reports/3815767.md) | Permission Model bypass: process.report writes (and ove | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.3 | — | 1 |
-| 1957 | [1102064](../reports/1102064.md) | kubectl creating secrets from stringData leaves secret  | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubectl | Low — CVSS 3.5 | — | 1 |
-| 1958 | [812028](../reports/812028.md) | xss on setup config page  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 1 |
-| 1959 | [3718195](../reports/3718195.md) | CVE-2026-8286: wrong STARTTLS connection reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1960 | [1126401](../reports/1126401.md) | HTTPS not enforced at dex.sifchain.finance | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 1 |
-| 1961 | [1463013](../reports/1463013.md) | Occasional use-after-free in multi_done() libcurl-7.81. | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1962 | [311336](../reports/311336.md) | Prototype pollution attack (merge-options) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | merge-options | Low — CVSS 2.6 | — | 1 |
-| 1963 | [4071872](../reports/4071872.md) | libcurl: Secure=1 cookie flag bypasses the 8.22.0 fix a | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1964 | [3770979](../reports/3770979.md) | SMTP connection reuse ignores --ssl-reqd / CURLOPT_USE_ | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1965 | [4063328](../reports/4063328.md) | curl tool: --hsts is ignored for a schemeless URL start | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1966 | [3769293](../reports/3769293.md) | Low priority HSTS bypass in curl_easy_duphandle() | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1967 | [3831432](../reports/3831432.md) | setopt(VERIFYPEER) from callback bypasses TLS verify on | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1968 | [311337](../reports/311337.md) | Prototype pollution attack (merge-recursive) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | merge-recursive | Low — CVSS 2.0 | — | 1 |
-| 1969 | [707006](../reports/707006.md) | use after free in cookie.c | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1970 | [640530](../reports/640530.md) | Insecure Frame (External) | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
-| 1971 | [3733905](../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 1972 | [3971496](../reports/3971496.md) | 28: HTTP/3 UDP path ignores CURL_SOCKOPT_ALREADY_CONNEC | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 1973 | [4127756](../reports/4127756.md) | urlapi: CURLUPART_HOST accepts text after an IPv6 zone  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 1974 | [4130124](../reports/4130124.md) |  server filename with control characters printed to ter | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 1975 | [3568116](../reports/3568116.md) | FederationController::remoteWopiToken() returns full Wo | [Nextcloud](../by-program/nextcloud.md) | nextcloud/richdocuments | Low — CVSS 3.5 | — | 0 |
-| 1976 | [1188652](../reports/1188652.md) | Design Issues at Main Domain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 0 |
-| 1977 | [4112709](../reports/4112709.md) | CVE-2026-111482: libssh2 knownhosts prefix match | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 1978 | [4123654](../reports/4123654.md) | SCP upload with --crlf sends more bytes than the size d | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 1979 | [4112912](../reports/4112912.md) | CVE-2026-111481: server-set cookie still aborts cookie  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 1980 | [4122300](../reports/4122300.md) | CVE-2026-111953: GnuTLS SecTrust OCSP staple bypass | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 1981 | [3832393](../reports/3832393.md) | libcurl upload read callbacks miss recursive API guard, | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 1982 | [667613](../reports/667613.md) | Username Enumeration | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 0 |
-| 1983 | [4122175](../reports/4122175.md) | CVE-2026-111950: TLS session cache diff scheme reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 1984 | [4147581](../reports/4147581.md) | Incomplete IDN hostname check on the transfer path can  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 1985 | [4122567](../reports/4122567.md) | passive FTPS data connection handshake blocks curl_mult | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 1986 | [3970639](../reports/3970639.md) | --etag-save - truncates append-redirected stdout | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 1987 | [4123304](../reports/4123304.md) | OpenSSL+Apple SecTrust: SecTrust accepts certificates t | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 1988 | [4127231](../reports/4127231.md) | Derived cookie Path aborts cookie jar loading in curl 8 | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 1989 | [4124722](../reports/4124722.md) |  WebSocket send queue use-after-free during nested curl | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 1990 | [3975408](../reports/3975408.md) | CVE-2026-87865: knownhost callback mismatches key as mi | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 1991 | [856588](../reports/856588.md) | [flsaba] Stored XSS in the file and directory name when | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low — CVSS 3.9 | — | 0 |
-| 1992 | [4105790](../reports/4105790.md) | FTP authentication options leak to a cross-origin FTP r | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 1993 | [4135291](../reports/4135291.md) | Heap-use-after-free in libcurl's multi event machinery  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 1994 | [1195512](../reports/1195512.md) | Wrong Url in Main page of sifchain.finance | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 0 |
-| 1995 | [4123646](../reports/4123646.md) | TLS session cache key omits native_ca_store: a session  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 1996 | [2389431](../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Low | — | 0 |
-| 1997 | [1198877](../reports/1198877.md) | Wrong Implementation of Url in https://docs.sifchain.fi | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 0 |
-| 1998 | [4114965](../reports/4114965.md) | Explicit NO_PROXY /0 CIDR rules fail to bypass HTTP pro | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 1999 | [4123190](../reports/4123190.md) | CVE-2026-111954: upload reader failed redirect UAF | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 2000 | [4123474](../reports/4123474.md) | Cross-protocol redirect to imap:// or smtp:// uploads t | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 2001 | [3970650](../reports/3970650.md) | Stacked --proto modifiers leave denied protocol enabled | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 2002 | [4116527](../reports/4116527.md) | CVE-2026-111878: OpenSSL provider UAF on TLS shutdown | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 2003 | [1564922](../reports/1564922.md) | Integer overflows in unescape_word() | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 2004 | [4113412](../reports/4113412.md) | libcurl RTSP `CURLOPT_CRLF` conversion allows a request | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 2005 | [4125257](../reports/4125257.md) | Symlink-following truncation of arbitrary files in `Cur | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 2006 | [3993566](../reports/3993566.md) | CVE-2026-86414: leaking host credentials to HTTP proxy | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 2007 | [3968431](../reports/3968431.md) | ARG_CLEAR credential scrubbing wipes only UTF-8 copies  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 2008 | [872089](../reports/872089.md) | Curl_auth_create_plain_message integer overflow leads t | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low — CVSS 2.8 | — | 0 |
-| 2009 | [4137523](../reports/4137523.md) | CURL_NETRC_REQUIRED sends the URL password when the .ne | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 2010 | [3993870](../reports/3993870.md) | CVE-2026-86415: auto client cert connection reuse mixup | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 2011 | [4136767](../reports/4136767.md) | CVE-2026-115529: Schannel TLS auto client session resum | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 2012 | [4166602](../reports/4166602.md) | Re-entrant curl_easy_pause UAF in cw-pause | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 2013 | [4102061](../reports/4102061.md) | CVE-2026-111480: pause UAF from within callback | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
-| 2014 | [2168002](../reports/2168002.md) | Authenticated path traversal to Stored XSS and Denial-o | [phpBB](../by-program/phpbb.md) | https://github.com/phpbb/phpbb | None | — | 69 |
-| 2015 | [3122019](../reports/3122019.md) | Remote Code Execution via unsafe usage of `reply.view({ | [Fastify](../by-program/fastify.md) | https://github.com/fastify | None | — | 66 |
-| 2016 | [651518](../reports/651518.md) | OS Command Injection via egrep in Rake::FileList | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 62 |
-| 2017 | [3302484](../reports/3302484.md) | CWE-195 in ExternalMemoryAccounter::Increase() | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 55 |
-| 2018 | [3148937](../reports/3148937.md) | `Curl_socketpair()` fallback vulnerable to man-in-the-m | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 45 |
-| 2019 | [3133379](../reports/3133379.md) | CRLF Injection in `--proxy-header` allows extra HTTP he | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 42 |
-| 2020 | [1187477](../reports/1187477.md) | RCE by parsing `.rdoc_options` in RDoc | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 41 |
-| 2021 | [3367676](../reports/3367676.md) | tabnabbing in roundcube webmail | [Nextcloud](../by-program/nextcloud.md) | https://github.com/roundcube/roundcubema | None | — | 37 |
-| 2022 | [3639277](../reports/3639277.md) | Bypassing Strict SSH Server Verification via Connection | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 37 |
-| 2023 | [3463619](../reports/3463619.md) | testing hackerone functions | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 35 |
-| 2024 | [221507](../reports/221507.md) | Multiple stored XSS in WordPress | [WordPress](../by-program/wordpress.md) | WordPress Core | None | — | 35 |
-| 2025 | [1485717](../reports/1485717.md) | ReDoS in IPAddr | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 31 |
-| 2026 | [3516878](../reports/3516878.md) | Cross‑origin cookies leak and injection risk when using | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 30 |
-| 2027 | [3518758](../reports/3518758.md) | IDOR on ██████ via direct photo URL leads to unauthoriz | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 30 |
-| 2028 | [3483225](../reports/3483225.md) | A quiet New Year wish for security researchers | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 30 |
-| 2029 | [2720030](../reports/2720030.md) | Open redirect when logging in with user_oidc | [Nextcloud](../by-program/nextcloud.md) | nextcloud/user_oidc | None | — | 30 |
-| 2030 | [3679660](../reports/3679660.md) | mruby-engine: UAF in MRubyEngine#initialize enables loc | [Shopify](../by-program/shopify.md) | https://github.com/Shopify/* | None | — | 30 |
-| 2031 | [3324901](../reports/3324901.md) | libcurl: Host-Only Cookies Leak to Alternate IPv4 Forms | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 30 |
-| 2032 | [3283232](../reports/3283232.md) | Use After Free (that leads to arbitrary Write for some  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 30 |
-| 2033 | [2981245](../reports/2981245.md) | ("possible") UAF | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 29 |
-| 2034 | [1067824](../reports/1067824.md) | Database error shown to the user when using a long gues | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 29 |
-| 2035 | [3575250](../reports/3575250.md) | RTSP RTP Interleaved Parser Assertion Failure (Zero-Len | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 28 |
-| 2036 | [3306475](../reports/3306475.md) | curl leaks destination IP via glibc getaddrinfo() UDP c | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 28 |
-| 2037 | [1119120](../reports/1119120.md) | Bundler's RCE with response using Marshal | [RubyGems](../by-program/rubygems.md) | https://github.com/rubygems/rubygems | None | — | 28 |
-| 2038 | [3137657](../reports/3137657.md) | Memory Leak | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 28 |
-| 2039 | [3361913](../reports/3361913.md) | AWS SigV4 Signature Disclosure via Verbose Logging in l | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 27 |
-| 2040 | [3117697](../reports/3117697.md) | Double Free Vulnerability in `libcurl` Cookie Managemen | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 27 |
-| 2041 | [3357960](../reports/3357960.md) | SMTP Command Injection Vulnerabilities in curl | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 27 |
-| 2042 | [2449038](../reports/2449038.md) | CVE-2019-1551: rsaz_512_sqr overflow bug on x86_64 | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/openssl/openssl | None | — | 26 |
-| 2043 | [1487889](../reports/1487889.md) | ReDoS in Psych | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 26 |
-| 2044 | [3344663](../reports/3344663.md) | Security Analysis Report: CURL Integer Overflow Vulnera | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 26 |
-| 2045 | [3022041](../reports/3022041.md) | Use after free (read) in curl_multi_perform with DoH an | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 26 |
-| 2046 | [3636244](../reports/3636244.md) | HackerOne Vulnerability Report: libcurl SSL/TLS Identit | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 26 |
-| 2047 | [3409193](../reports/3409193.md) | HackerOne | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 26 |
-| 2048 | [3268294](../reports/3268294.md) | Exposure of Private RSA Private Key in curl GitHub Repo | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 26 |
-| 2049 | [3609505](../reports/3609505.md) | HSTS accepted from HTTP origin behind HTTPS proxy | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 25 |
-| 2050 | [3456148](../reports/3456148.md) | Unbounded decompression chain in HTTP responses on Node | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 24 |
-| 2051 | [3324190](../reports/3324190.md) | Heap-buffer-overflow (Out-of-Bounds Read) in DoH hostna | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 24 |
-| 2052 | [3258022](../reports/3258022.md) | curl ASSERTs when accessing an LDAP URL | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 24 |
-| 2053 | [3409186](../reports/3409186.md) | Hi Hacker | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 22 |
-| 2054 | [942146](../reports/942146.md) | Open Github Repo Leaking WEBLATE SECRET KEY | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/weblate | None | — | 22 |
-| 2055 | [3620761](../reports/3620761.md) | Health check errors silently dropped when channel buffe | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/kubernetes-sigs/aws-e | None | — | 21 |
-| 2056 | [3116935](../reports/3116935.md) | Use of a Broken or Risky Cryptographic Algorithm (CWE-3 | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 21 |
-| 2057 | [3261310](../reports/3261310.md) | OpenSSL HTTP/3 bogus CURLINFO_TLS_SSL_PTR | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 21 |
-| 2058 | [3516202](../reports/3516202.md) | Cookie Replacement Use-After-Free Vulnerability | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 21 |
-| 2059 | [1327196](../reports/1327196.md) | Content Security Policy is only active for HTML respons | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | None | — | 20 |
-| 2060 | [2260337](../reports/2260337.md) | Permissions can be bypassed via arbitrary code executio | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 20 |
-| 2061 | [2058556](../reports/2058556.md) | Self XSS when sending HTML as a comment in the Deck app | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | None | — | 20 |
-| 2062 | [3481849](../reports/3481849.md) | HTTP/2 and HTTP/3 Header Injection in curl | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 20 |
-| 2063 | [3023139](../reports/3023139.md) | Memory leak of ftp (with proxy reuse) | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 20 |
-| 2064 | [3261248](../reports/3261248.md) | GnuTLS CURLINFO_TLS_SESSION / CURLINFO_TLS_SSL_PTR type | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 20 |
-| 2065 | [3580247](../reports/3580247.md) | Use after free in hyperfifo example | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 19 |
-| 2066 | [3620760](../reports/3620760.md) | Encryption context keys and values logged at INFO level | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/kubernetes-sigs/aws-e | None | — | 19 |
-| 2067 | [3387499](../reports/3387499.md) | SMTP Command Injection Vulnerability in libcurl 8.16.0  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 18 |
-| 2068 | [3407352](../reports/3407352.md) | curl built with GnuTLS backend defaults to weak crypto  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 18 |
-| 2069 | [3399774](../reports/3399774.md) | Integer Overflow to Heap Overflow in DoH Response Handl | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 18 |
-| 2070 | [361341](../reports/361341.md) | Unsafe deserialization in Libera Pay allows to escalate | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | None | — | 18 |
-| 2071 | [3442060](../reports/3442060.md) | Infinite loop issue in the state machine of the curl pr | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 17 |
-| 2072 | [3665363](../reports/3665363.md) | Integer Overflow/Signedness Mismatch in Printf Precisio | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 15 |
-| 2073 | [2439734](../reports/2439734.md) | Missing policies for password in password_policies.go | [passhash](../by-program/passhash.md) | https://github.com/dhui/passhash | None | — | 15 |
-| 2074 | [3264469](../reports/3264469.md) | Use after free (or assert triggered) with failed alloca | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 15 |
-| 2075 | [3650443](../reports/3650443.md) | no_proxy IDN mismatch: Unicode hostnames bypass proxy e | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 15 |
-| 2076 | [3782405](../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_ | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | None | — | 14 |
-| 2077 | [3241304](../reports/3241304.md) | access notes without permission | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 14 |
-| 2078 | [3617719](../reports/3617719.md) | Function `do_pubkey()` can have out-of-bound read issue | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 13 |
-| 2079 | [1073363](../reports/1073363.md) | Index Out Of Bounds in protobuf unmarshalling | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | None | — | 13 |
-| 2080 | [3627638](../reports/3627638.md) | Security Vulnerability Report: Protocol Injection via P | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 13 |
-| 2081 | [951468](../reports/951468.md) | [m-server] XSS reflected because path does not escapeHt | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | m-server | None | — | 12 |
-| 2082 | [3771139](../reports/3771139.md) | Heap Memory Disclosure via Integer Underflow in Item_fu | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | None | — | 12 |
-| 2083 | [3459636](../reports/3459636.md) | Stack Buffer Overflow in cURL wolfSSL Backend (lib/vtls | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 12 |
-| 2084 | [461308](../reports/461308.md) | Remote attacker can impersonate Social users via Activi | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 12 |
-| 2085 | [3379102](../reports/3379102.md) | Missing enforcement of SFTP quote syntax can lead to op | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 12 |
-| 2086 | [272824](../reports/272824.md) | client_secret Token disclosure  | [Aspen](../by-program/aspen.md) | https://github.com/AspenWeb | None | — | 12 |
-| 2087 | [3442024](../reports/3442024.md) | runs javascript on powershell when it shouldnt | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 12 |
-| 2088 | [3427670](../reports/3427670.md) | Double-free vulnerability in libcurl with rustls via No | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 11 |
-| 2089 | [3575475](../reports/3575475.md) | Curl Telnet Handler Buffer Overflow | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 11 |
-| 2090 | [1145581](../reports/1145581.md) | Private KEY of crypto wallet | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 11 |
-| 2091 | [3771147](../reports/3771147.md) | Stack Buffer Overflow via Crafted keyseg->start/ keyseg | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | None | — | 11 |
-| 2092 | [2377760](../reports/2377760.md) | fetch with integrity option is too lax when algorithm i | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 11 |
-| 2093 | [1684163](../reports/1684163.md) | ReDoS (Rails::Html::PermitScrubber.scrub_attribute) | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | None | — | 11 |
-| 2094 | [3771144](../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_v | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | None | — | 10 |
-| 2095 | [1197035](../reports/1197035.md) | Information Disclosure on https://rpc.sifchain.finance/ | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 10 |
-| 2096 | [726117](../reports/726117.md) | SMB access smuggling via FILE URL on Windows | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 10 |
-| 2097 | [3135673](../reports/3135673.md) | curl -OJ allows creating custom .curlrc file which allo | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 10 |
-| 2098 | [1712329](../reports/1712329.md) | [nextcloud/server] Moment.js vulnerable to Inefficient  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 10 |
-| 2099 | [3650473](../reports/3650473.md) | FTP entrypath accepts 0xFF (Telnet IAC) through incompl | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 10 |
-| 2100 | [889795](../reports/889795.md) | Allows any user to share their "Root" level folder by s | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | None | — | 9 |
-| 2101 | [1708873](../reports/1708873.md) | Vulnerable moment-timezone version shipped | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 9 |
-| 2102 | [3133253](../reports/3133253.md) | curl_easy_header runs at O(N) or worse and can be abuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 9 |
-| 2103 | [3089595](../reports/3089595.md) | Memory leak from doh_write_cb | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 9 |
-| 2104 | [1670187](../reports/1670187.md) | Cross Site Scripting Vulnerability in fabric-sdk-py sou | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric-sd | None | — | 9 |
-| 2105 | [1194280](../reports/1194280.md) | CORS Misconfiguration | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 9 |
-| 2106 | [3241308](../reports/3241308.md) | Disclosure of email addresses | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 9 |
-| 2107 | [3645415](../reports/3645415.md) | # SCURLOPT_SSH_KNOWNHOSTS and host fingerprint pins are | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 9 |
-| 2108 | [3418760](../reports/3418760.md) | Command Injection - CRITICISM | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
-| 2109 | [3508701](../reports/3508701.md) | Use-After-Free in curl_easy_nextheader when reusing hea | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
-| 2110 | [504759](../reports/504759.md) | Uploading large avatar images cause excessive CPU usage | [Nextcloud](../by-program/nextcloud.md) | nextcloud/3rdparty | None | — | 8 |
-| 2111 | [3419617](../reports/3419617.md) | Hash exposed in public repository | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
-| 2112 | [3045390](../reports/3045390.md) | Double free caused by mqtt_doing() | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
-| 2113 | [3183957](../reports/3183957.md) | Arbitrary File Read via Unsanitized curl Usage Results  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
-| 2114 | [3646914](../reports/3646914.md) | ignoring 'options' when doing connection reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
-| 2115 | [745921](../reports/745921.md) | Code Injection Bug Report | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 8 |
-| 2116 | [3037326](../reports/3037326.md) | Free of uninitialized pointer in doh_decode_rdata_name( | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
-| 2117 | [3037583](../reports/3037583.md) | Buffer Overflow in curl's Rustls Backend | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
-| 2118 | [4021952](../reports/4021952.md) | Socket API drops expired timeouts for transfers queued  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
-| 2119 | [3406123](../reports/3406123.md) | Buffer over-read,, Missing NUL termination in addvariab | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
-| 2120 | [3427194](../reports/3427194.md) | Malicious server forces .curlrc creation via curl -OJ l | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
-| 2121 | [261297](../reports/261297.md) | Disabled user can reset their password   | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 7 |
-| 2122 | [1183502](../reports/1183502.md) | Private RSA key for Vagrant exposed in GitHub repositor | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 7 |
-| 2123 | [3913012](../reports/3913012.md) | Persistent SMTP header injection via identity `organiza | [Nextcloud](../by-program/nextcloud.md) | https://github.com/roundcube/roundcubema | None | — | 7 |
-| 2124 | [1196917](../reports/1196917.md) | Path Transversal inside saveContracts.js | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 7 |
-| 2125 | [3451305](../reports/3451305.md) | SMTP Protocol Injection via CRLF in CURLOPT_MAIL_FROM l | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 6 |
-| 2126 | [4024268](../reports/4024268.md) | Out-of-bounds read in curl_formadd when CURLFORM_NAMELE | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 6 |
-| 2127 | [1241460](../reports/1241460.md) | ApiService#fetch serves content as text/html and inline | [Nextcloud](../by-program/nextcloud.md) | nextcloud/text | None | — | 6 |
-| 2128 | [268679](../reports/268679.md) | Homo graphs attack  | [GSA Bounty](../by-program/gsa_bbp.md) | https://github.com/18f/federalist | None | — | 6 |
-| 2129 | [263508](../reports/263508.md) | Server Side Misconfiguration (EMAIL SPOOFING)  | [GSA Bounty](../by-program/gsa_bbp.md) | https://github.com/18f/federalist-proxy | None | — | 6 |
-| 2130 | [2831558](../reports/2831558.md) | netrc crlf injection | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 6 |
-| 2131 | [3761789](../reports/3761789.md) | Mentioned unites are at the same time .Then we have to  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 6 |
-| 2132 | [888176](../reports/888176.md) | HTTP Host injection in redirect_to function | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | None | — | 6 |
-| 2133 | [1690377](../reports/1690377.md) | Relative Path Traversal vulnerability in fabric-private | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric-pr | None | — | 6 |
-| 2134 | [926093](../reports/926093.md) | Secret_key in GitHub | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/weblate | None | — | 6 |
-| 2135 | [926222](../reports/926222.md) | Vulnerability in Private Data Endorsement Policy Manage | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric-sa | None | — | 6 |
-| 2136 | [3952619](../reports/3952619.md) | Domainless COOKIEFILE cookie leaks to unrelated IP-lite | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 6 |
-| 2137 | [3973234](../reports/3973234.md) | 53: HTTP/1 CONNECT chunked-407 trailers bypass CURLOPT_ | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
-| 2138 | [2981303](../reports/2981303.md) | TLS Cipher Misconfiguration in HTTP/3/QUIC Support | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
-| 2139 | [1739099](../reports/1739099.md) | CVE-2017-5929: Hyperledger - Arbitrary Deserialization  | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric-ch | None | — | 5 |
-| 2140 | [3735080](../reports/3735080.md) | libssh SFTP initialization ignores CURLOPT_TIMEOUT, han | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
-| 2141 | [3718265](../reports/3718265.md) | Shared HSTS cache accessed without lock | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
-| 2142 | [3697491](../reports/3697491.md) | Missing HMAC validation on /uninstall webhook in Shopif | [Shopify](../by-program/shopify.md) | https://github.com/Shopify/* | None | — | 5 |
-| 2143 | [1186701](../reports/1186701.md) | DMARC and DNS Records not found on  mcuboot.com | [MCUboot](../by-program/mcuboot.md) | https://github.com/mcu-tools/mcuboot | None | — | 5 |
-| 2144 | [752353](../reports/752353.md) | Anonymous file drop page ignores user profile visibilit | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 5 |
-| 2145 | [3505557](../reports/3505557.md) | CRLF Injection in HTTP header values allows arbitrary h | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
-| 2146 | [3733934](../reports/3733934.md) | CURLOPT_HSTS_CTRL disables shared HSTS without share gu | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
-| 2147 | [3734947](../reports/3734947.md) | HTTP/3 paused transfer buffers incoming data without bo | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
-| 2148 | [1485501](../reports/1485501.md) | ReDoS in Time.rfc2822 | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 5 |
-| 2149 | [1718757](../reports/1718757.md) | Header CRLF Injection in Ruby Net::HTTP | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 5 |
-| 2150 | [2861797](../reports/2861797.md) | curl mishandles `%0c%0b` sequences in HTTP responses le | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
-| 2151 | [1188188](../reports/1188188.md) | A password in plain text in conf file | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 5 |
-| 2152 | [3431180](../reports/3431180.md) | Double free in tool_ssls_load() | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
-| 2153 | [383117](../reports/383117.md) | HTML injection with AutoComplete suggestions | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 5 |
-| 2154 | [942103](../reports/942103.md) | Server-side template injection at ujs test server | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | None | — | 5 |
-| 2155 | [361089](../reports/361089.md) | twitter api access token leaked on github  | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | None | — | 4 |
-| 2156 | [1133670](../reports/1133670.md) |  ETHEREUM_PRIVATE_KEY leaked via Open Github Repository | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 4 |
-| 2157 | [591770](../reports/591770.md) | Signed integer overflow in tool_progress_cb() | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
-| 2158 | [1183520](../reports/1183520.md) | RSA PRIVATE KEY discloser | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 4 |
-| 2159 | [3973194](../reports/3973194.md) | 49: Cookie-jar save transfers group access to a differe | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
-| 2160 | [919429](../reports/919429.md) | Full path disclosure vulnerability  via Upload .htacces | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 4 |
-| 2161 | [3739561](../reports/3739561.md) | SSL session-cache peer key omits signature_algorithms:  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
-| 2162 | [3833577](../reports/3833577.md) | heap-use-after-free in curl_easy_cleanup() called from  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
-| 2163 | [1181213](../reports/1181213.md) | Private eth key found | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 4 |
-| 2164 | [3651975](../reports/3651975.md) | SMTP Command Injection via CRLF in libcurl MAIL_FROM /  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
-| 2165 | [461429](../reports/461429.md) | Github repo's wiki publicly editable | [Paragon Initiative Enterprises](../by-program/paragonie.md) | https://github.com/paragonie/password_lo | None | — | 4 |
-| 2166 | [3973152](../reports/3973152.md) | 37: `curl_mprintf` `%F` format specifier not consumed,  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
-| 2167 | [3973093](../reports/3973093.md) | 06: Incomplete fix for CVE-2026-7009: GCC/SecTrust buil | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
-| 2168 | [3468410](../reports/3468410.md) | Heap buffer overflow in Curl_ipv4_resolve_r due to inco | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
-| 2169 | [3734935](../reports/3734935.md) | rustls backend silently ignores CURLOPT_CRLFILE when na | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
-| 2170 | [3973111](../reports/3973111.md) | 08: CVE-2026-7009 fix incomplete for AWS-LC: `--cert-st | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
-| 2171 | [1214158](../reports/1214158.md) | Ratelimits do not apply to OCS DataResponse | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 4 |
-| 2172 | [3973098](../reports/3973098.md) | 07: GnuTLS 0-RTT early data bypasses file-backed public | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
-| 2173 | [3717365](../reports/3717365.md) | mbedTLS private-key blob null-termination asymmetry in  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
-| 2174 | [1186926](../reports/1186926.md) | Flaws In Social media Icon on error page which can lead | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 4 |
-| 2175 | [3972385](../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
-| 2176 | [1057216](../reports/1057216.md) | Regex Injection from request header (Rack::Sendfile, se | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | None | — | 4 |
-| 2177 | [296632](../reports/296632.md) | Audit log validation | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/docker | None | — | 4 |
-| 2178 | [3735238](../reports/3735238.md) | cookie: case-insensitive path comparison in replace_exi | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
-| 2179 | [3973127](../reports/3973127.md) | 18:  Explicit IPv6 proxy zone ID silently ignored — pro | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
-| 2180 | [3971518](../reports/3971518.md) | 29: CURLOPT_ISSUERCERT accepts a different-key certific | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
-| 2181 | [3972323](../reports/3972323.md) | 10: CURLOPT_MAXLIFETIME_CONN bypass on active HTTP/2 co | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
-| 2182 | [1132690](../reports/1132690.md) | Exposed Openapi Token | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 3 |
-| 2183 | [3971585](../reports/3971585.md) | 33: CONNECT_ONLY raw I/O selects wrong connection after | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
-| 2184 | [600359](../reports/600359.md) | Integer overflow in the source code tool_cb_prg.c | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
-| 2185 | [3734992](../reports/3734992.md) | Schannel custom-CA path skips Extended Key Usage enforc | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
-| 2186 | [3896671](../reports/3896671.md) | Connector/C Out-of-bounds read in `unpack_fields()` fro | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | None | — | 3 |
-| 2187 | [3803415](../reports/3803415.md) |  Secure cookies leaked to HTTP origins through HTTPS fo | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
-| 2188 | [461345](../reports/461345.md) | Security issue: Github repo's wiki publicly editable | [Ian Dunn](../by-program/iandunn-projects.md) | GitHub repositories | None | — | 3 |
-| 2189 | [678487](../reports/678487.md) | Hostname spoofing | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 3 |
-| 2190 | [3741135](../reports/3741135.md) | Connection reuse ignores haproxyprotocol and HAPROXY_CL | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
-| 2191 | [3973158](../reports/3973158.md) | 41: `main_checkfds()` pipe reuse leaks proxy credential | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
-| 2192 | [3973249](../reports/3973249.md) | 56: IBM i CL wrapper `parse_command_line()` never enter | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
-| 2193 | [878181](../reports/878181.md) | Child process environment injection via prototype pollu | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 3 |
-| 2194 | [362702](../reports/362702.md) | XSS in express-useragent through HTTP User-Agent | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | express-useragent | None | — | 3 |
-| 2195 | [1188982](../reports/1188982.md) | Found key_adress and key_password in GitHub history | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 3 |
-| 2196 | [1789602](../reports/1789602.md) | Contacts only sanitizes PHOTO svg if mime type is all l | [Nextcloud](../by-program/nextcloud.md) | nextcloud/contacts | None | — | 3 |
-| 2197 | [3751701](../reports/3751701.md) | Use-after-free in `curl_easy_duphandle()` with HTTP/2 s | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
-| 2198 | [3973213](../reports/3973213.md) | 54: Rejected HTTP/2 push destroys MIME callback state s | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
-| 2199 | [3734921](../reports/3734921.md) | Trailing-dot IPv4 URL bypasses IP-address guard, allows | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
-| 2200 | [1187816](../reports/1187816.md) | Dependency Confusion Vulnerability in Sifnode Due to Un | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 3 |
-| 2201 | [1187156](../reports/1187156.md) | XSS in HTML generated by RDoc | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 3 |
-| 2202 | [3725659](../reports/3725659.md) | Kerberos/SPNEGO Connection Reuse Vulnerability | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
-| 2203 | [962705](../reports/962705.md) | The “payload” Field of Transactions in a Block Reveals  | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric | None | — | 3 |
-| 2204 | [1049624](../reports/1049624.md) | Abusing URL Parsers by long schema name | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
-| 2205 | [629879](../reports/629879.md) | loader.js is not secure | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 3 |
-| 2206 | [3897588](../reports/3897588.md) | KILL authorization trusts the presented login name inst | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | None | — | 3 |
-| 2207 | [1183269](../reports/1183269.md) | ETHEREUM_PRIVATE_KEY leaked  | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 3 |
-| 2208 | [3917775](../reports/3917775.md) | curl Missing Sec-WebSocket-Accept Verification Enables  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
-| 2209 | [3735276](../reports/3735276.md) | TLS peer-verification bypass via mid-transfer ssl_confi | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
-| 2210 | [951623](../reports/951623.md) | Vulnerabilities in Endorsement Mechanism of Private Dat | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric | None | — | 3 |
-| 2211 | [1173411](../reports/1173411.md) | Nextcloud update checks leaks information | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 3 |
-| 2212 | [3680090](../reports/3680090.md) | Stored XSS via malicious usernames in audit log details | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | None | — | 2 |
-| 2213 | [3971706](../reports/3971706.md) | 36: HTTP upload resume offset consumed twice after earl | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 2214 | [3734095](../reports/3734095.md) | TLS verifyhost bypass in rustls, mbedTLS, and wolfSSL w | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 2215 | [3973228](../reports/3973228.md) | 50: CMake `HTTP_ONLY` does not disable SSH backends — S | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 2216 | [3969255](../reports/3969255.md) | CVE-2026-80229: OpenSSL provider use-after-free | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 2217 | [627245](../reports/627245.md) | Integer overlow in "header_append" function | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 2218 | [3969300](../reports/3969300.md) | CVE-2026-80230: OpenSSL pinning bypass | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 2219 | [3973121](../reports/3973121.md) | 11: `CURLOPT_FORBID_REUSE` silently lost on multiplexed | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 2220 | [1187001](../reports/1187001.md) | No valid SPF record found | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 2 |
-| 2221 | [3734020](../reports/3734020.md) | HTTP/2 proxy CONNECT tunnel unbounded 1xx chain (missin | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 2222 | [1186897](../reports/1186897.md) | Open S3 Bucket | information leakage | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 2 |
-| 2223 | [3741744](../reports/3741744.md) | CRLF Injection via Custom HTTP Headers | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 2224 | [3880451](../reports/3880451.md) | Privilege escalation via user controlled usernames / ro | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Access con | None | — | 2 |
-| 2225 | [3972293](../reports/3972293.md) | 43: HTTP proxy CONNECT header chooses the `-OJ` filenam | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 2226 | [3781305](../reports/3781305.md) | OpenSSL TLS 1.2 session resumption accepts expired serv | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 2227 | [1195432](../reports/1195432.md) | Found a url on source code which was disclosing differe | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 2 |
-| 2228 | [3733946](../reports/3733946.md) | Credentials forwarded to HTTP after HTTPS→HTTP same-por | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 2229 | [3973169](../reports/3973169.md) | 42: `VMS_STS` macro typo (`< 3` vs `<< 3`) turns curl f | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 2230 | [3735179](../reports/3735179.md) | CURLOPT_PROXY_CAINFO_BLOB silently activates native CA  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 2231 | [3913007](../reports/3913007.md) | SMTP header injection via C-escape `\r` in the recipien | [Nextcloud](../by-program/nextcloud.md) | https://github.com/roundcube/roundcubema | None | — | 2 |
-| 2232 | [4100259](../reports/4100259.md) | Stored XSS in the Classic block element path | [WordPress](../by-program/wordpress.md) | WordPress Core | None | — | 2 |
-| 2233 | [3973143](../reports/3973143.md) | 22:  FTP wildcard matching decodes server-provided file | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 2234 | [340053](../reports/340053.md) | Use After Free in crypto.randomFill | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 2 |
-| 2235 | [549831](../reports/549831.md) | External Storage - WebDAV - New user has access to stor | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 2 |
-| 2236 | [3972316](../reports/3972316.md) | 46: `--libcurl` output carries `--insecure` across `--n | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 2237 | [3973219](../reports/3973219.md) | 57: Heap out-of-bounds read in `curl_easy_escape_ccsid( | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
-| 2238 | [1859592](../reports/1859592.md) | [indy_node]POOL_UPGRADE command injection, Trustee Node | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric-am | None | — | 2 |
-| 2239 | [3910393](../reports/3910393.md) | Stack Buffer Overflow in MariaDB CONNECT storage engine | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | None | — | 2 |
-| 2240 | [4024222](../reports/4024222.md) | CVE-2026-92391: curl_mime_free stack overflow by recurs | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 2241 | [1180668](../reports/1180668.md) | Vulnerability : Email Spoofing | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
-| 2242 | [1590102](../reports/1590102.md) | KRB-FTP: Security level downgrade | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 2243 | [959987](../reports/959987.md) | [supermixer] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | None | — | 1 |
-| 2244 | [3751715](../reports/3751715.md) | Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUE | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 2245 | [3993549](../reports/3993549.md) | CVE-2026-86413: Negotiate credentials sent to redirecte | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 2246 | [1188633](../reports/1188633.md) | Linux Desktop application "sifnoded" executable does no | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
-| 2247 | [4123749](../reports/4123749.md) | WebSocket decoder use-after-free when curl_easy_pause() | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 2248 | [676710](../reports/676710.md) | Http response is not ended although underlying socket i | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 1 |
-| 2249 | [1188998](../reports/1188998.md) |  Information disclosure on Sifchain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
-| 2250 | [1183809](../reports/1183809.md) | mongodb credentials leaked in github | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
-| 2251 | [1199904](../reports/1199904.md) | clickjacking vulnerability | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
-| 2252 | [3831345](../reports/3831345.md) | CURLSHOPT_UNSHARE race can cause UAF in shared SSL sess | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 2253 | [3973090](../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 2254 | [3751712](../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 2255 | [4040551](../reports/4040551.md) | CVE-2026-94265: Authorization: Negotiate sent to foreig | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 2256 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 2257 | [3849040](../reports/3849040.md) | #mysql50# legacy alias / stale table cache identity mis | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Remote Cod | None | — | 1 |
-| 2258 | [3849051](../reports/3849051.md) | #mysql50# legacy alias / internal table collisions | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Remote Cod | None | — | 1 |
-| 2259 | [361054](../reports/361054.md) | Phishing by Navigating Browser Tabs | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | None | — | 1 |
-| 2260 | [3460138](../reports/3460138.md) | Open Email Relay on WordPress Gutenberg Plugin via form | [WordPress](../by-program/wordpress.md) | Gutenberg | None | — | 1 |
-| 2261 | [898614](../reports/898614.md) | DRb denial of service vulnerability | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 1 |
-| 2262 | [1283605](../reports/1283605.md) | ETHEREUM_PRIVATE_KEY leaked via github | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
-| 2263 | [1019372](../reports/1019372.md) | Parallel upload hangs curl if upload file not found | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 2264 | [694988](../reports/694988.md) | Resource leak when using a normal site as DOH server | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 2265 | [1186740](../reports/1186740.md) | Misconfiguration Certificate Authority Authorization Ru | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
-| 2266 | [3777381](../reports/3777381.md) | PRE_PROXY change leaks stale Proxy Digest state across  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
-| 2267 | [3972403](../reports/3972403.md) | CVE-2026-87864: IMAP APPEND plus CRLF conversion comman | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2268 | [4021960](../reports/4021960.md) | TELNET control and environment data bypass HTTPS-proxy  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2269 | [3972373](../reports/3972373.md) | CVE-2026-87863: HSTS response erases persisted entries | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2270 | [877402](../reports/877402.md) | Hard coded Username and password in GiHub commit | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | None | — | 0 |
-| 2271 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL aga | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2272 | [3973190](../reports/3973190.md) | CVE-2026-86411: FTP connection reuse inherits client-ce | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2273 | [4021854](../reports/4021854.md) | IMAP custom FETCH literals can spoof tagged responses a | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2274 | [3896684](../reports/3896684.md) | Connector/C Out-of-bounds read from unterminated GSSAPI | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | None | — | 0 |
-| 2275 | [3972395](../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2276 | [3971551](../reports/3971551.md) | 20: HTAB before `Secure` attribute silently drops the S | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2277 | [1195423](../reports/1195423.md) | Information Disclosure at one of your subdomain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
-| 2278 | [344595](../reports/344595.md) | Arbitrary file overwrites in `node-tar` | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | node-tar | None | — | 0 |
-| 2279 | [3973176](../reports/3973176.md) | CVE-2026-86410:  redirect to SFTP or SCP bypasses host  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2280 | [4021979](../reports/4021979.md) | CVE-2026-92386: server-set cookie aborts cookie jar loa | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2281 | [1940002](../reports/1940002.md) | heap-buffer-overflow in gc_writebarrier_incremental | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 0 |
-| 2282 | [877303](../reports/877303.md) | Internal IP addresses range and AWS cluster region leak | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | None | — | 0 |
-| 2283 | [3972357](../reports/3972357.md) | CVE-2026-87862: HSTS cache import drops longer-lived ch | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2284 | [812969](../reports/812969.md) | curl still vulnerable to SMB access smuggling via FILE  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2285 | [3973201](../reports/3973201.md) | CVE-2026-86412: server-set cookie erases cookie jar | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2286 | [1218784](../reports/1218784.md) | information disclosure | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
-| 2287 | [3973135](../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2288 | [3972196](../reports/3972196.md) | 34: `curl_mprintf` reads `double` for documented `long  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2289 | [4023192](../reports/4023192.md) | CVE-2026-92390: -J no-clobber guarantee bypassed with 1 | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2290 | [4022003](../reports/4022003.md) | CVE-2026-92387: never-ending loop via server response o | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2291 | [4022070](../reports/4022070.md) | CVE-2026-92388: FTP wildcard write callback mixup | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2292 | [1188725](../reports/1188725.md) | No Valid SPF Records at sifchain.finance | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
-| 2293 | [3971538](../reports/3971538.md) | 27: IMAP custom FETCH listing classification skips lite | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2294 | [4022568](../reports/4022568.md) | CVE-2026-92389: TFTP direction confusion | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2295 | [4033108](../reports/4033108.md) | Retry-independent time-condition HTTP/2 UAF | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2296 | [3973124](../reports/3973124.md) | 14: HSTS cache import silently drops a longer-lived chi | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2297 | [3973245](../reports/3973245.md) | 55: Heap-buffer-overflow read in `curl_formadd_ccsid()` | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2298 | [3896617](../reports/3896617.md) | Connector/C TLS auth-switch bypass exposes plaintext pa | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Access con | None | — | 0 |
-| 2299 | [4135826](../reports/4135826.md) | --cert-status with OpenSSL accepts a stapled OCSP respo | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
-| 2300 | [3972338](../reports/3972338.md) | 12: SASL DIGEST-MD5 does not validate the server's `rsp | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 441 | [4081135](../reports/4081135.md) | Privilege escalation via unfiltered role restoration in | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/weblate | Critical — CVSS 9.9 | — | 6 |
+| 442 | [341710](../reports/341710.md) | [git-dummy-commit] Command injection on the msg paramet | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | git-dummy-commit | Critical — CVSS 10.0 | — | 5 |
+| 443 | [3479984](../reports/3479984.md) | CRLF Injection / Protocol Smuggling in libcurl via CURL | [curl](../by-program/curl.md) | https://github.com/curl/curl | Critical | — | 5 |
+| 444 | [344069](../reports/344069.md) | The react-marked-markdown module allows XSS injection i | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | react-marked-markdown | Critical — CVSS 9.3 | — | 5 |
+| 445 | [917843](../reports/917843.md) | Unsafe deserialization in Nexus Repository helm plugin | [Central Security Project](../by-program/central-security-project.md) | Java Component in search.maven.org | Critical | — | 5 |
+| 446 | [972220](../reports/972220.md) | [arpping] Remote Code Execution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 5 |
+| 447 | [319467](../reports/319467.md) | `macaddress` concatenates unsanitized input into exec() | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | macaddress | Critical — CVSS 10.0 | — | 5 |
+| 448 | [381185](../reports/381185.md) | Prototype pollution attack (extend) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | extend | Critical — CVSS 9.3 | — | 5 |
+| 449 | [308155](../reports/308155.md) | [html-janitor] Passing user-controlled data to clean()  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | html-janitor | Critical — CVSS 9.8 | — | 5 |
+| 450 | [1039325](../reports/1039325.md) | Other misconfiguration on Slack Server | [ImpressCMS](../by-program/impresscms.md) | https://github.com/impresscms/impresscms | Critical | — | 5 |
+| 451 | [330650](../reports/330650.md) | [serve] Directory listing and File access even when the | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | serve | Critical — CVSS 9.3 | — | 5 |
+| 452 | [512076](../reports/512076.md) | Deserialization of Untrusted Data in www/delivery/adxml | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Critical — CVSS 9.1 | — | 4 |
+| 453 | [801522](../reports/801522.md) | [utils-extend] Prototype pollution  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | utils-extend | Critical — CVSS 9.4 | — | 4 |
+| 454 | [335608](../reports/335608.md) | Denial of Service: nghttp2 use of uninitialized pointer | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Critical — CVSS 9.3 | — | 4 |
+| 455 | [3619288](../reports/3619288.md) | RCE + PAT Exfiltration via pull_request_target in priva | [DuckDuckGo](../by-program/duckduckgo.md) | https://github.com/duckduckgo/duckduckgo | Critical | — | 4 |
+| 456 | [1141623](../reports/1141623.md) | Unexpected input validation of octal literals in nodejs | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Critical — CVSS 10.0 | — | 4 |
+| 457 | [311101](../reports/311101.md) | [crud-file-server] Stored XSS in filenames when directo | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | crud-file-server | Critical — CVSS 9.6 | — | 4 |
+| 458 | [331032](../reports/331032.md) | [buttle] Remote Command Execution via unsanitized PHP f | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | buttle | Critical — CVSS 10.0 | — | 4 |
+| 459 | [3712343](../reports/3712343.md) | MQTT CONNACK Packet Type Bypass leads to RCE via Malici | [curl](../by-program/curl.md) | https://github.com/curl/curl | Critical | — | 4 |
+| 460 | [3687142](../reports/3687142.md) | Unauthenticated reading of every file via livechat auth | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | Critical — CVSS 9.3 | — | 4 |
+| 461 | [1043360](../reports/1043360.md) | HTTP2 'unknownProtocol' cause Denial of Service by reso | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Critical — CVSS 9.3 | — | 3 |
+| 462 | [878420](../reports/878420.md) | [windows-edge] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 3 |
+| 463 | [925324](../reports/925324.md) | [systeminformation] Command Injection via insecure comm | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | systeminformation | Critical | — | 3 |
+| 464 | [3801107](../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum  | [WordPress](../by-program/wordpress.md) | bbPress Core | Critical — CVSS 9.3 | — | 3 |
+| 465 | [3931771](../reports/3931771.md) | Author → stored XSS in wp-admin: unescaped sub-size fil | [WordPress](../by-program/wordpress.md) | WordPress Core | Critical — CVSS 9.0 | — | 3 |
+| 466 | [871071](../reports/871071.md) | [gfc] Command Injection via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 3 |
+| 467 | [3856148](../reports/3856148.md) | Low-privilege RCE in MariaDB: SYS_REFCURSOR cursor-arra | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Remote Cod | Critical | — | 3 |
+| 468 | [324491](../reports/324491.md) | `fs-path` concatenates unsanitized input into exec()/ex | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | fs-path | Critical — CVSS 9.6 | — | 2 |
+| 469 | [3619287](../reports/3619287.md) | RCE + Supply Chain Attack via pull_request_target in co | [DuckDuckGo](../by-program/duckduckgo.md) | https://github.com/duckduckgo/duckduckgo | Critical | — | 2 |
+| 470 | [330724](../reports/330724.md) | [serve] Directory listing and File access even when the | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | serve | Critical — CVSS 9.3 | — | 2 |
+| 471 | [4122039](../reports/4122039.md) | libcurl shared-HSTS-cache race leads to use-after-free  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Critical | — | 2 |
+| 472 | [907311](../reports/907311.md) | [meemo-app] Denial of Service via LDAP Injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 2 |
+| 473 | [864354](../reports/864354.md) | [diskstats] Command Injection via insecure command conc | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 2 |
+| 474 | [694471](../reports/694471.md) | [create-git] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 2 |
+| 475 | [863956](../reports/863956.md) | [extra-asciinema] Command Injection via insecure comman | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 1 |
+| 476 | [973386](../reports/973386.md) | [curling] Remote Code Execution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 1 |
+| 477 | [511459](../reports/511459.md) | [listening-processes] Command Injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 0 |
+| 478 | [864777](../reports/864777.md) | [vboxmanage.js] Command Injection via insecure command  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 0 |
+| 479 | [863944](../reports/863944.md) | [extra-ffmpeg] Command Injection via insecure command f | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 0 |
+| 480 | [973245](../reports/973245.md) | [imagickal] Remote Code Execution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 0 |
+| 481 | [865168](../reports/865168.md) | [xps] Command Injection via insecure command concatenat | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Critical | — | 0 |
+| 482 | [643908](../reports/643908.md) | Stored XSS Vulnerability | [WordPress](../by-program/wordpress.md) | *.trac.wordpress.org, *.svn.wordpress.or | High | — | 402 |
+| 483 | [851807](../reports/851807.md) | Code injection possible with malformed Nextcloud Talk c | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | High — CVSS 8.0 | — | 317 |
+| 484 | [922597](../reports/922597.md) | HTTP Request Smuggling due to CR-to-Hyphen conversion | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 8.5 | — | 134 |
+| 485 | [3181066](../reports/3181066.md) | Path Traversal Vulnerability in Lila Project | [Lichess](../by-program/lichess.md) | https://github.com/lichess-org/lila | High | — | 116 |
+| 486 | [2041007](../reports/2041007.md) | Cross-Site Request Forgery  | [ownCloud](../by-program/owncloud.md) | owncloud/core | High — CVSS 7.5 | — | 111 |
+| 487 | [428019](../reports/428019.md) | CSRF to HTML Injection in Comments | [WordPress](../by-program/wordpress.md) | WordPress Core | High | — | 95 |
+| 488 | [3395221](../reports/3395221.md) | Error-Based & Time-Based SQL Injection in 'keyword' Par | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 8.8 | — | 93 |
+| 489 | [1107282](../reports/1107282.md) | Privilege Escalation via REST API to Administrator lead | [WordPress](../by-program/wordpress.md) | BuddyPress Core | High | — | 90 |
+| 490 | [2412583](../reports/2412583.md) | Crafted smart contract can take 8 minutes to execute du | [Rootstock Labs](../by-program/rootstocklabs.md) | https://github.com/rsksmart/rskj | High — CVSS 8.3 | — | 85 |
+| 491 | [2701701](../reports/2701701.md) | Injection in path parameter of Ingress-nginx | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/ingress-ng | High — CVSS 8.8 | — | 84 |
+| 492 | [509930](../reports/509930.md) | Potential unprivileged Stored XSS through wp_targeted_l | [WordPress](../by-program/wordpress.md) | WordPress Core | High | — | 80 |
+| 493 | [3086301](../reports/3086301.md) | Prompt Injection via GitHub Patch in Brave AI Chat (Leo | [Brave Software](../by-program/brave.md) | https://github.com/brave/brave-core | High — CVSS 8.8 | — | 77 |
+| 494 | [1180380](../reports/1180380.md) | CVE-2021-22901: TLS session caching disaster | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 75 |
+| 495 | [2786591](../reports/2786591.md) | Unauthenticated WordPress Database Repair DoS | [WordPress](../by-program/wordpress.md) | WordPress Core | High — CVSS 8.0 | — | 70 |
+| 496 | [1115864](../reports/1115864.md) | Persistant Arbitrary code execution in mattermost andro | [Mattermost](../by-program/mattermost.md) | mattermost/mattermost-mobile | High — CVSS 7.8 | — | 66 |
+| 497 | [2319584](../reports/2319584.md) | "Assertion failed" in node::http2::Http2Session::~Http2 | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 8.2 | — | 65 |
+| 498 | [411364](../reports/411364.md) | Brute Force of fabric-ca server admin account | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric-ca | High | — | 61 |
+| 499 | [2882887](../reports/2882887.md) | CVE-2024-53908: Django Potential SQL injection in `HasK | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/django | High | — | 61 |
+| 500 | [3125832](../reports/3125832.md) | HTTP/3 Stream Dependency Cycle Exploit | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 59 |
+| 501 | [3634400](../reports/3634400.md) | SSRF Filter Bypass via Unblocked NAT64 Local-Use IPv6 P | [arkadiyt-projects](../by-program/arkadiyt-projects.md) | https://github.com/arkadiyt/ssrf_filter | High — CVSS 7.5 | — | 57 |
+| 502 | [3384150](../reports/3384150.md) | Arbitrary File Write | [arkadiyt-projects](../by-program/arkadiyt-projects.md) | https://github.com/arkadiyt/protodump | High — CVSS 8.6 | — | 56 |
+| 503 | [3401612](../reports/3401612.md) | IDOR Vulnerability in Banner Deletion  | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 7.1 | — | 55 |
+| 504 | [1249583](../reports/1249583.md) | Authenticated kubernetes principal with restricted perm | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/ingress-ng | High — CVSS 7.6 | — | 55 |
+| 505 | [2187833](../reports/2187833.md) | CVE-2023-38545: socks5 heap buffer overflow | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 55 |
+| 506 | [3158093](../reports/3158093.md) | Memory Leak in libcurl via Location Header Handling (CW | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 54 |
+| 507 | [3556769](../reports/3556769.md) | Incomplete fix for CVE-2026-21637: loadSNI() in _tls_wr | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 52 |
+| 508 | [3131758](../reports/3131758.md) | HashDoS in V8 | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 52 |
+| 509 | [1879549](../reports/1879549.md) | Basic auth header on WebDAV requests is not bruteforce  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 8.1 | — | 52 |
+| 510 | [1886954](../reports/1886954.md) | Unauthenticated full-read SSRF via Twilio integration | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | High — CVSS 8.6 | — | 52 |
+| 511 | [1785378](../reports/1785378.md) | Double evaluation in .bash_prompt of dotfiles allows a  | [Ian Dunn](../by-program/iandunn-projects.md) | GitHub repositories | High | — | 47 |
+| 512 | [395737](../reports/395737.md) | `chrome://brave` available for navigation in Release bu | [Brave Software](../by-program/brave.md) | https://github.com/brave/muon | High | — | 46 |
+| 513 | [1492896](../reports/1492896.md) | CVE-2022-24288: Apache Airflow: TWO RCEs in example DAG | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | High | — | 46 |
+| 514 | [3445710](../reports/3445710.md) | Broken Access Control allows advertiser accounts to del | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 7.1 | — | 45 |
+| 515 | [2212627](../reports/2212627.md) | Delete external storage of any user | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 8.5 | — | 43 |
+| 516 | [375329](../reports/375329.md) | Local files reading using `link[rel="import"]` | [Brave Software](../by-program/brave.md) | https://github.com/brave/browser-laptop | High | — | 43 |
+| 517 | [3405778](../reports/3405778.md) | Timeout-based race conditions make Uint8Array/Buffer.al | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.1 | — | 42 |
+| 518 | [2575105](../reports/2575105.md) | Worker permission bypass via InternalWorker leak in dia | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.7 | — | 42 |
+| 519 | [2887487](../reports/2887487.md) | Buffer Overflow Risk in Curl_inet_ntop and inet_ntop4 | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 39 |
+| 520 | [2298307](../reports/2298307.md) | Buffer Overflow Vulnerability in WebSocket Handling | [curl](../by-program/curl.md) | https://github.com/curl/curl | High — CVSS 8.6 | — | 38 |
+| 521 | [404323](../reports/404323.md) | Logic flaw in the Post creation process allows creating | [WordPress](../by-program/wordpress.md) | WordPress Core | High | — | 38 |
+| 522 | [3598358](../reports/3598358.md) | urlapi: off-by-one in custom scheme validation skips la | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 38 |
+| 523 | [1848176](../reports/1848176.md) | IDOR in TalentMAP API can be abused to enumerate person | [U.S. Department of State](../by-program/us-department-of-state.md) | https://github.com/USStateDept | High — CVSS 7.5 | — | 38 |
+| 524 | [2334455](../reports/2334455.md) | Path traversal in AcitveStorage, and lead RCE | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | High — CVSS 8.1 | — | 37 |
+| 525 | [2817648](../reports/2817648.md) | Improper error handling in async cryptographic operatio | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 37 |
+| 526 | [2218653](../reports/2218653.md) | Path traversal by monkey-patching Buffer internals | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.9 | — | 36 |
+| 527 | [1434056](../reports/1434056.md) | Buffer overflow in req_parsebody method in lua_request. | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/httpd | High | — | 36 |
+| 528 | [3398283](../reports/3398283.md) | Authorization bypass allows changing email address of o | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 8.8 | — | 35 |
+| 529 | [3160912](../reports/3160912.md) | Windows Device Names (CON, PRN, AUX) Bypass Path Traver | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 35 |
+| 530 | [2255968](../reports/2255968.md) | CVE-2023-46132 | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric | High — CVSS 8.3 | — | 34 |
+| 531 | [1378175](../reports/1378175.md) | Ingress-nginx annotation injection allows retrieval of  | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/ingress-ng | High — CVSS 7.6 | — | 34 |
+| 532 | [910206](../reports/910206.md) | property-expr - Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | property-expr | High — CVSS 7.3 | — | 33 |
+| 533 | [3417819](../reports/3417819.md) | FS Permissions Bypass | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.1 | — | 33 |
+| 534 | [538008](../reports/538008.md) | Add users to groups who have restricted group invites | [WordPress](../by-program/wordpress.md) | BuddyPress Core | High | — | 32 |
+| 535 | [3303765](../reports/3303765.md) | WebSocket Fragmentation DoS on Curl Client | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 32 |
+| 536 | [508493](../reports/508493.md) | Group admins can remove arbitrary data from "data" dire | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 8.4 | — | 32 |
+| 537 | [1604951](../reports/1604951.md) | Remote denial of service in  HyperLedger Fabric | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric | High | — | 32 |
+| 538 | [3603300](../reports/3603300.md) | SMB READ_ANDX DataOffset not validated | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 30 |
+| 539 | [3242005](../reports/3242005.md) | Use-After-Free in OpenSSL Keylog Callback via SSL_get_e | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 30 |
+| 540 | [3374554](../reports/3374554.md) | Apple SecTrust legacy path accepts untrusted certificat | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 30 |
+| 541 | [576504](../reports/576504.md) | Authentication Bypass by abusing Insecure crypto tokens | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High | — | 30 |
+| 542 | [3591956](../reports/3591956.md) | Use-After-Free in SMB connection reuse (req->path dangl | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 30 |
+| 543 | [811502](../reports/811502.md) | Node.js: TLS session reuse can lead to hostname verific | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High | — | 29 |
+| 544 | [3094406](../reports/3094406.md) | Heap‑based buffer overflow in curl -K <config_file> all | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 29 |
+| 545 | [3400506](../reports/3400506.md) | Stored XSS in Conversion Statistics via Tracker Name | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 8.7 | — | 28 |
+| 546 | [3434510](../reports/3434510.md) | Out-of-bounds read in HTTP method handling causes undef | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 28 |
+| 547 | [988103](../reports/988103.md) | Node.js: use-after-free in TLSWrap | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 27 |
+| 548 | [921288](../reports/921288.md) | Arbitrary File delete via PHAR deserialization | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | High — CVSS 7.3 | — | 27 |
+| 549 | [1154034](../reports/1154034.md) | Argument/Code Injection via ActiveStorage's image trans | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | High | — | 27 |
+| 550 | [931197](../reports/931197.md) | [socket.io] Cross-Site Websocket Hijacking  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.1 | — | 27 |
+| 551 | [3279804](../reports/3279804.md) | Stack use-after-scope in HTTP/3 POST request processing | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 27 |
+| 552 | [3874004](../reports/3874004.md) |  Incomplete fix for CVE-2022-23915: Mercurial argument  | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/weblate | High — CVSS 8.5 | — | 26 |
+| 553 | [608577](../reports/608577.md) | CVE-2019-5443: Windows Privilege Escalation: Malicious  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High — CVSS 7.8 | — | 25 |
+| 554 | [3463949](../reports/3463949.md) | Missing AES-GCM Authentication Tag Validation and Impro | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 8.2 | — | 24 |
+| 555 | [390362](../reports/390362.md) | Local files reading from the "file://" origin through ` | [Brave Software](../by-program/brave.md) | https://github.com/brave/muon | High | — | 24 |
+| 556 | [2905013](../reports/2905013.md) | [SECURITY] CVE-2024-50379 Apache Tomcat - RCE via write | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/tomcat | High | — | 24 |
+| 557 | [2307813](../reports/2307813.md) | DoS with crafted "Range" header | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | High — CVSS 7.5 | — | 24 |
+| 558 | [3630310](../reports/3630310.md) | HTTP/2 server push accepts a non-authoritative :scheme= | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 24 |
+| 559 | [2170226](../reports/2170226.md) | setuid() does not drop all privileges due to io_uring | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.3 | — | 24 |
+| 560 | [1978882](../reports/1978882.md) | User scoped external storage can be used to gather cred | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 8.4 | — | 23 |
+| 561 | [2819666](../reports/2819666.md) | Exploitable Format String Vulnerability in curl_mfprint | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 23 |
+| 562 | [2546437](../reports/2546437.md) | The initial E2EE password generated by Rocket.Chat mobi | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | High — CVSS 7.2 | — | 23 |
+| 563 | [3335085](../reports/3335085.md) | TOCTOU Race Condition in HTTP/2 Connection Reuse Leads  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 23 |
+| 564 | [2237545](../reports/2237545.md) | Code injection and privilege escalation through Linux c | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 23 |
+| 565 | [788257](../reports/788257.md) | "Secure View" aka "Hide Download" can be bypassed easil | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High | — | 22 |
+| 566 | [411519](../reports/411519.md) | DNS SRV lookup of file:// sources enables local hijacki | [RubyGems](../by-program/rubygems.md) | https://github.com/rubygems/rubygems | High — CVSS 7.2 | — | 22 |
+| 567 | [1671140](../reports/1671140.md) | CVE-2022-38362: Apache Airflow Docker Provider <3.0 RCE | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | High — CVSS 8.8 | — | 22 |
+| 568 | [786956](../reports/786956.md) | Server Side Request Forgery in Uppy npm module | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Uppy | High — CVSS 8.2 | — | 22 |
+| 569 | [3666576](../reports/3666576.md) | Negotiate Authentication Premature on Connection Reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 21 |
+| 570 | [3319767](../reports/3319767.md) | Incorrect Parsing of IPv6 Zone ID in curl | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 21 |
+| 571 | [3231321](../reports/3231321.md) | HTTP Proxy Bypass via `CURLOPT_CUSTOMREQUEST` Verb Tunn | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 21 |
+| 572 | [712065](../reports/712065.md) | Prototype pollution attack (lodash) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | lodash | High — CVSS 7.4 | — | 20 |
+| 573 | [3250117](../reports/3250117.md) | Uncontrolled File Write/Arbitrary File Creation  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 20 |
+| 574 | [3477023](../reports/3477023.md) | Protocol Smuggling / CRLF Injection via Gopher Protocol | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 20 |
+| 575 | [2461831](../reports/2461831.md) | Bypass incomplete fix of CVE-2024-27980 | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 8.1 | — | 20 |
+| 576 | [812754](../reports/812754.md) | Denial of Service by requesting to reset a password | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 7.5 | — | 20 |
+| 577 | [2259914](../reports/2259914.md) | Multiple permission model bypasses due to improper path | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.9 | — | 20 |
+| 578 | [3452725](../reports/3452725.md) | Title: Use-After-Free in cURL Test Suite via Improper C | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 20 |
+| 579 | [490379](../reports/490379.md) | [glance] Access unlisted internal files/folders reveali | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | glance | High — CVSS 7.5 | — | 19 |
+| 580 | [3483902](../reports/3483902.md) | PROTOCOL-LEVEL: Persistent UDP Amplification and Cache  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 19 |
+| 581 | [3295652](../reports/3295652.md) | Insecure WebSocket Usage in curl Documentation and Exam | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 19 |
+| 582 | [3292590](../reports/3292590.md) | Heap Buffer Overflow in Curl_memdup0() via CURLOPT_COPY | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 19 |
+| 583 | [3560402](../reports/3560402.md) | Denial of Service via `__proto__` header name in `req.h | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 19 |
+| 584 | [3470649](../reports/3470649.md) | File URL UNC Path Access (Windows SSRF) | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 19 |
+| 585 | [1102067](../reports/1102067.md) | Authenticated path traversal to RCE | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | High — CVSS 8.0 | — | 18 |
+| 586 | [3465094](../reports/3465094.md) | Path Traversal Bypass in file:// URLs Due to Incomplete | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 18 |
+| 587 | [3485930](../reports/3485930.md) | Path Traversal in curl file:// Protocol Handler Allows  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 18 |
+| 588 | [3480713](../reports/3480713.md) | Proxy-Authorization header is leaked to origin server a | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 18 |
+| 589 | [1489141](../reports/1489141.md) | ReDoS in Rack::Multipart | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | High | — | 18 |
+| 590 | [3337561](../reports/3337561.md) | Multiple Unsafe strcpy() Function Calls Leading to Pote | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 18 |
+| 591 | [3340109](../reports/3340109.md) | Stack Buffer Overflow in cURL Cookie Parsing Leads to R | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 18 |
+| 592 | [3395227](../reports/3395227.md) | Use of Deprecated strcpy() with User-Controlled Environ | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 17 |
+| 593 | [902739](../reports/902739.md) | bunyan - RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 17 |
+| 594 | [3470095](../reports/3470095.md) | Heap Buffer Over-Read via Malicious SMB Server READ_AND | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 17 |
+| 595 | [1715536](../reports/1715536.md) | Deny of service via malicious Content-Type | [Fastify](../by-program/fastify.md) | https://github.com/fastify | High — CVSS 7.5 | — | 17 |
+| 596 | [1636566](../reports/1636566.md) | Node.js - DLL Hijacking on Windows | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/nodejs/node | High — CVSS 7.2 | — | 17 |
+| 597 | [827816](../reports/827816.md) | Missing server side controls when editing the board’s s | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 7.3 | — | 16 |
+| 598 | [3640932](../reports/3640932.md) | Missing server identity policy enforcement in SSH conne | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 16 |
+| 599 | [3425308](../reports/3425308.md) | Economic DoS (Griefing) on IBC Relayers via `memo` Call | [Cosmos](../by-program/cosmos.md) | www.github.com/cosmos/evm | High — CVSS 8.6 | — | 16 |
+| 600 | [1632921](../reports/1632921.md) | DNS rebinding in --inspect (insufficient fix of CVE-202 | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High | — | 16 |
+| 601 | [3392174](../reports/3392174.md) | Buffer Overflow in WebSocket Handshake (lib/ws.c:1287) | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 16 |
+| 602 | [3887969](../reports/3887969.md) | SSRF via URL Parser Differential in `normalize_request_ | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/wlc | High | — | 16 |
+| 603 | [3475613](../reports/3475613.md) | HAProxy Connection Reuse leads to IP Spoofing and mTLS  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 16 |
+| 604 | [415258](../reports/415258.md) | RCE: DnDing shortcut files to chrome://brave allows loa | [Brave Software](../by-program/brave.md) | https://github.com/brave/muon | High — CVSS 8.3 | — | 16 |
+| 605 | [3418861](../reports/3418861.md) | libcurl FTP path normalization flaw allows decoded %2e% | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 16 |
+| 606 | [841947](../reports/841947.md) | Remote Code Execution through Extension Bypass on Log F | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | High — CVSS 8.0 | — | 16 |
+| 607 | [3445174](../reports/3445174.md) | Path Traversal in file:// protocol allows Arbitrary Fil | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 15 |
+| 608 | [506654](../reports/506654.md) | [typeorm] SQL Injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | typeorm | High — CVSS 8.6 | — | 15 |
+| 609 | [380873](../reports/380873.md) | Prototype pollution attack (lodash / constructor.protot | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | lodash | High — CVSS 7.0 | — | 15 |
+| 610 | [330957](../reports/330957.md) | [pdfinfojs] Command Injection on filename parameter | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | pdfinfojs | High — CVSS 7.8 | — | 15 |
+| 611 | [701183](../reports/701183.md) | [tree-kill] RCE via insecure command concatenation (onl | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | tree-kill | High — CVSS 7.0 | — | 15 |
+| 612 | [825729](../reports/825729.md) | [logkitty] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | logkitty | High — CVSS 7.8 | — | 15 |
+| 613 | [3295656](../reports/3295656.md) | Unsafe Global IFS Modification in OS400 Shell Script En | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 15 |
+| 614 | [473811](../reports/473811.md) | [bower] Arbitrary File Write through improper validatio | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | bower | High — CVSS 8.0 | — | 15 |
+| 615 | [3462991](../reports/3462991.md) | SQL Injection in Column Type Parameter Allows Arbitrary | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/tables | High — CVSS 8.2 | — | 15 |
+| 616 | [2941920](../reports/2941920.md) | Elevation of Privileges (EoP) vulnerabilities related t | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 14 |
+| 617 | [507222](../reports/507222.md) | [untitled-model] sql injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.6 | — | 14 |
+| 618 | [3484319](../reports/3484319.md) | MQTT Protocol Violation & Integer Overflow in libcurl | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 14 |
+| 619 | [3125820](../reports/3125820.md) | HTTP/2 CONTINUATION Flood Vulnerability | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 14 |
+| 620 | [1049040](../reports/1049040.md) | Download full backup and Cross site scripting  | [ImpressCMS](../by-program/impresscms.md) | https://github.com/impresscms/impresscms | High | — | 14 |
+| 621 | [390631](../reports/390631.md) | [ascii-art] Command injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | ascii-art | High — CVSS 8.6 | — | 14 |
+| 622 | [3230082](../reports/3230082.md) | Stack-based Buffer Overflow in TELNET NEW_ENV Option Ha | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 14 |
+| 623 | [3463608](../reports/3463608.md) | Denial of Service (DoS) vulnerability in dedotdotify()  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 13 |
+| 624 | [2233486](../reports/2233486.md) | http: Reading unprocessed HTTP request with unbounded c | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 13 |
+| 625 | [2946924](../reports/2946924.md) | Authorization Header Leak via --location-trusted in Cur | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 13 |
+| 626 | [3485826](../reports/3485826.md) | Alt-Svc bypasses credential leak protection (CVE-2018-1 | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 13 |
+| 627 | [3400831](../reports/3400831.md) | CURLX_SET_BINMODE(NULL) can call fileno(NULL) and cause | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 13 |
+| 628 | [3225565](../reports/3225565.md) |  OS Command Injection in scripts/firefox-db2pem.sh via  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 12 |
+| 629 | [311218](../reports/311218.md) | [hekto] Path Traversal vulnerability allows to read con | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | hekto | High — CVSS 8.6 | — | 12 |
+| 630 | [3897914](../reports/3897914.md) | Out-of-bounds read in MariaDB .frm parsing enables RCE  | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Remote Cod | High — CVSS 8.8 | — | 12 |
+| 631 | [1635854](../reports/1635854.md) | Remote denial of service in HyperLedger Fabric | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric | High — CVSS 8.3 | — | 12 |
+| 632 | [748214](../reports/748214.md) | [express-laravel-passport] Improper Authentication | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 7.5 | — | 12 |
+| 633 | [2550951](../reports/2550951.md) | Unicode-to-ASCII conversion on Windows can lead to argu | [curl](../by-program/curl.md) | https://github.com/curl/curl | High — CVSS 8.2 | — | 12 |
+| 634 | [633231](../reports/633231.md) | pre-auth Stored XSS in comments via javascript: url whe | [WordPress](../by-program/wordpress.md) | WordPress Core | High | — | 12 |
+| 635 | [1690000](../reports/1690000.md) | Weak randomness in WebCrypto keygen | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 8.4 | — | 11 |
+| 636 | [3797662](../reports/3797662.md) | SQL Injection via Unsanitized Identifiers and String Li | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/aws/aws-cdk | High | — | 11 |
+| 637 | [730779](../reports/730779.md) | HTTP header values do not have trailing OWS trimmed | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.4 | — | 11 |
+| 638 | [968355](../reports/968355.md) | [i18next] Prototype pollution attack | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | i18next | High | — | 11 |
+| 639 | [522876](../reports/522876.md) | In Dockerized Environments, Failing to Read config.php  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 8.7 | — | 11 |
+| 640 | [308158](../reports/308158.md) | [html-janitor] Bypassing sanitization using DOM clobber | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | html-janitor | High — CVSS 8.8 | — | 11 |
+| 641 | [2961050](../reports/2961050.md) | curl allows SSH connection even if host is not in known | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 11 |
+| 642 | [498878](../reports/498878.md) | User Editable nextcloud Wiki pages of Public Repositori | [Nextcloud](../by-program/nextcloud.md) | nextcloud/logreader | High | — | 11 |
+| 643 | [507159](../reports/507159.md) | [fileview] Inadequate Output Encoding and Escaping  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | fileview | High — CVSS 7.1 | — | 11 |
+| 644 | [357109](../reports/357109.md) | [simplehttpserver] List any file in the folder by using | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | simplehttpserver | High | — | 11 |
+| 645 | [389561](../reports/389561.md) | Command Injection Vulnerability in kill-port Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | kill-port | High — CVSS 7.3 | — | 10 |
+| 646 | [3229490](../reports/3229490.md) | Heap Buffer Overflow in libcurl curl_slist_append via U | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 10 |
+| 647 | [532667](../reports/532667.md) | Server Side JavaScript Code Injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | fastify | High | — | 10 |
+| 648 | [1390331](../reports/1390331.md) | SQL injextion via vulnerable doctrine/dbal version | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 8.5 | — | 10 |
+| 649 | [3788506](../reports/3788506.md) | SSH/SFTP connection reuse can bypass SSH key identity a | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 10 |
+| 650 | [864701](../reports/864701.md) | Prototype Pollution lodash 4.17.15 | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | lodash | High | — | 9 |
+| 651 | [244092](../reports/244092.md) | Password of failed (2FA) login attempt is stored in log | [Nextcloud](../by-program/nextcloud.md) | nextcloud/logreader | High | — | 9 |
+| 652 | [2092852](../reports/2092852.md) | Permission model improperly protects against path trave | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.7 | — | 9 |
+| 653 | [589739](../reports/589739.md) | Multiple HTTP/2 DOS Issues | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High | — | 9 |
+| 654 | [3484431](../reports/3484431.md) | HTTP Request Smuggling and SSRF via CRLF Injection in C | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 9 |
+| 655 | [310943](../reports/310943.md) | [general-file-server] Path Traversal vulnerability allo | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | general-file-server | High — CVSS 8.6 | — | 9 |
+| 656 | [754352](../reports/754352.md) | Stored XSS on Wordpress 5.3 via Title Post | [WordPress](../by-program/wordpress.md) | WordPress Core | High | — | 9 |
+| 657 | [1416665](../reports/1416665.md) | Recaptcha Secret key Leaked | [Paragon Initiative Enterprises](../by-program/paragonie.md) | https://github.com/paragonie/sodium_comp | High | — | 9 |
+| 658 | [3611837](../reports/3611837.md) | Unauthenticated file deletion via deleteFileMessage DDP | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | High — CVSS 7.5 | — | 9 |
+| 659 | [317125](../reports/317125.md) | [bracket-template] Reflected XSS possible when variable | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | bracket-template | High — CVSS 8.6 | — | 9 |
+| 660 | [3653196](../reports/3653196.md) | Blind SQL injection via clientid parameter in zone‑incl | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 8.3 | — | 9 |
+| 661 | [3781015](../reports/3781015.md) |  Incomplete Fix for CVE-2026-21637: OCSPRequest and res | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High | — | 9 |
+| 662 | [312889](../reports/312889.md) | [localhost-now] Path Traversal allows to read content o | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | localhost-now | High — CVSS 8.6 | — | 9 |
+| 663 | [1019891](../reports/1019891.md) | Named pipe connection inteception | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Access con | High — CVSS 7.8 | — | 9 |
+| 664 | [3120969](../reports/3120969.md) | [High] MITM via Insecure CA Path Handling in cURL (--ca | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 9 |
+| 665 | [299112](../reports/299112.md) | MediaElements XSS | [WordPress](../by-program/wordpress.md) | WordPress Core | High | — | 9 |
+| 666 | [1168205](../reports/1168205.md) | 'net/http': HTTP Header Injection in the set_content_ty | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | High — CVSS 7.2 | — | 9 |
+| 667 | [1877919](../reports/1877919.md) | The use of __proto__ in process.mainModule.__proto__.re | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 8.4 | — | 8 |
+| 668 | [640904](../reports/640904.md) | Yarn transfers npm credentials over unencrypted http co | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.2 | — | 8 |
+| 669 | [309120](../reports/309120.md) | [angular-http-server] Path Traversal in angular-http-se | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | angular-http-server | High — CVSS 8.6 | — | 8 |
+| 670 | [1204695](../reports/1204695.md) | RubyのCGIライブラリにHTTPレスポンス分割（HTTPヘッダインジェクション）があり、秘密情報が漏洩する | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | High — CVSS 7.1 | — | 8 |
+| 671 | [403707](../reports/403707.md) | [knightjs] Path Traversal allows to read content of arb | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | knightjs | High — CVSS 8.6 | — | 8 |
+| 672 | [1960870](../reports/1960870.md) | Permissions policies can be bypassed via Module._load. | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.7 | — | 8 |
+| 673 | [384029](../reports/384029.md) | url-parse package return wrong hostname  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | url-parse | High — CVSS 7.5 | — | 8 |
+| 674 | [1061591](../reports/1061591.md) | Acting under any different user via DB-stored credentia | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 8.7 | — | 8 |
+| 675 | [388254](../reports/388254.md) | Account takeover vulnerability by editor role privilege | [WordPress](../by-program/wordpress.md) | WordPress Core | High | — | 8 |
+| 676 | [660565](../reports/660565.md) | [jsreport] Remote Code Execution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.0 | — | 8 |
+| 677 | [350418](../reports/350418.md) | Insecure implementation of deserialization in cryo | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | cryo | High — CVSS 8.7 | — | 8 |
+| 678 | [569891](../reports/569891.md) | [min-http-server] List any file in the folder by using  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.2 | — | 8 |
+| 679 | [879803](../reports/879803.md) | Bypass of SSRF Vulnerability | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.6 | — | 8 |
+| 680 | [3118915](../reports/3118915.md) | Potential XSS vector in curl via unsanitized URL parame | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 8 |
+| 681 | [3100073](../reports/3100073.md) | Path Traversal Vulnerability in curl via Unsanitized IP | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 8 |
+| 682 | [695416](../reports/695416.md) | Path traversal using symlink | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | statics-server | High — CVSS 7.5 | — | 8 |
+| 683 | [3514640](../reports/3514640.md) | Unauthenticated Path Traversal (LFI) via /custom-sounds | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | High — CVSS 7.5 | — | 8 |
+| 684 | [3734326](../reports/3734326.md) | Autotranslate DDP Method Exposes Private Messages Witho | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | High — CVSS 7.5 | — | 8 |
+| 685 | [904672](../reports/904672.md) | Server-side Template Injection in lodash.js  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | lodash | High — CVSS 8.6 | — | 8 |
+| 686 | [2864414](../reports/2864414.md) | Arbitrary File Deletion Vulnerability in curl Source Co | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 8 |
+| 687 | [3493602](../reports/3493602.md) | Stack Buffer Overflow in mprintf.c formatting function  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 8 |
+| 688 | [3480078](../reports/3480078.md) | Heap Buffer Over-read in lib/http2.c (on_header) handli | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 8 |
+| 689 | [569966](../reports/569966.md) | [serve-here.js] List any file in the folder by using pa | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 7.5 | — | 8 |
+| 690 | [349146](../reports/349146.md) | Stored XSS in Node-Red | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | node-red | High — CVSS 8.6 | — | 7 |
+| 691 | [356284](../reports/356284.md) | Samlify is vulnerable to signature wrapping | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | samlify | High — CVSS 8.0 | — | 7 |
+| 692 | [3637898](../reports/3637898.md) | OS Command Injection in `aws-cdk-lib` NodejsFunction vi | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/aws/aws-cdk | High — CVSS 7.3 | — | 7 |
+| 693 | [319532](../reports/319532.md) | `https-proxy-agent` passes unsanitized options to Buffe | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | https-proxy-agent | High — CVSS 8.2 | — | 7 |
+| 694 | [407319](../reports/407319.md) | ActiveStorage service's signed URLs can be hijacked via | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | High — CVSS 7.4 | — | 7 |
+| 695 | [3508785](../reports/3508785.md) | Gopher Protocol Command Injection (SSRF Smuggling) | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 7 |
+| 696 | [388936](../reports/388936.md) | [egg-scripts] Command injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | egg-scripts | High — CVSS 8.6 | — | 7 |
+| 697 | [3120987](../reports/3120987.md) | [High] Arbitrary File Write via Path Traversal in cURL  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 7 |
+| 698 | [310106](../reports/310106.md) | [glance] Path Traversal in glance static file server al | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | glance | High — CVSS 8.6 | — | 7 |
+| 699 | [1889474](../reports/1889474.md) | Ruby's CGI library has HTTP response splitting (HTTP he | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/ruby | High | — | 7 |
+| 700 | [1543773](../reports/1543773.md) | CVE-2022-27774: Credential leak on redirect | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 7 |
+| 701 | [315760](../reports/315760.md) | Path Traversal on Resolve-Path | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | resolve-path | High — CVSS 8.6 | — | 7 |
+| 702 | [319003](../reports/319003.md) | [stattic] Inproper path validation leads to Path Traver | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | stattic | High — CVSS 8.6 | — | 7 |
+| 703 | [330285](../reports/330285.md) | [mcstatic] Server Directory Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | mcstatic | High — CVSS 8.6 | — | 7 |
+| 704 | [1747642](../reports/1747642.md) | Permissions policies can be bypassed via process.mainMo | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.1 | — | 7 |
+| 705 | [350401](../reports/350401.md) | Insecure implementation of deserialization in funcster | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | funcster | High — CVSS 8.7 | — | 7 |
+| 706 | [570133](../reports/570133.md) | [http-file-server] List any files and sub folders in th | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.2 | — | 7 |
+| 707 | [321631](../reports/321631.md) | `http-proxy-agent` passes unsanitized options to Buffer | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | http-proxy-agent | High — CVSS 8.2 | — | 7 |
+| 708 | [3876430](../reports/3876430.md) | MariaDB GRANT PROXY permits unauthorized authentication | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Access con | High — CVSS 8.8 | — | 7 |
+| 709 | [772448](../reports/772448.md) | [blamer] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 7.5 | — | 7 |
+| 710 | [3656781](../reports/3656781.md) | PHP code injection via delivery limitation logical  | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 8.8 | — | 7 |
+| 711 | [309124](../reports/309124.md) | [node-srv] Path Traversal allows to read arbitrary file | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | node-srv | High — CVSS 8.6 | — | 6 |
+| 712 | [309641](../reports/309641.md) | [simple-server] HTML with iframe element can be used as | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | simple-server | High — CVSS 7.7 | — | 6 |
+| 713 | [881713](../reports/881713.md) | [last-commit-log] Command Injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 7.0 | — | 6 |
+| 714 | [311216](../reports/311216.md) | [626] Path Traversal allows to read arbitrary file from | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | 626 | High — CVSS 8.6 | — | 6 |
+| 715 | [888030](../reports/888030.md) | [wappalyzer] ReDoS allows an attacker to completely bre | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 6 |
+| 716 | [1962701](../reports/1962701.md) | Process-based permissions can be bypassed with the "ins | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.7 | — | 6 |
+| 717 | [1511619](../reports/1511619.md) | Read and write beyond bounds in mod_sed | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/httpd | High | — | 6 |
+| 718 | [432600](../reports/432600.md) | [static-resource-server]  Path Traversal allows to read | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.6 | — | 6 |
+| 719 | [403736](../reports/403736.md) | [takeapeek] Path traversal allow to expose directory an | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | takeapeek | High — CVSS 8.6 | — | 6 |
+| 720 | [809012](../reports/809012.md) | [notevil] - Sandbox Escape Lead to RCE on Node.js and X | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 6 |
+| 721 | [312907](../reports/312907.md) | [mcstatic] Path Traversal allows to read content of arb | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | mcstatic | High — CVSS 8.6 | — | 6 |
+| 722 | [982130](../reports/982130.md) | Fetching the update json scheme from concrete5 over HTT | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | High — CVSS 7.6 | — | 6 |
+| 723 | [496293](../reports/496293.md) | [url-parse] Improper Validation and Sanitization | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | url-parse | High — CVSS 7.3 | — | 6 |
+| 724 | [986459](../reports/986459.md) | Recently change email but still login with old email | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High | — | 6 |
+| 725 | [390860](../reports/390860.md) | Prototype Pollution Vulnerability in mpath Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | mpath | High — CVSS 7.6 | — | 6 |
+| 726 | [3898281](../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyp | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/weblate | High | — | 6 |
+| 727 | [397445](../reports/397445.md) | [express-cart] Customer and admin email enumeration thr | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | express-cart | High — CVSS 8.2 | — | 6 |
+| 728 | [3558713](../reports/3558713.md) | Command Injection via Unsanitized Bundling Options in ` | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/aws/aws-cdk | High — CVSS 7.3 | — | 6 |
+| 729 | [321692](../reports/321692.md) | `base64-url` below 2.0 allocates uninitialized Buffers  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.6 | — | 5 |
+| 730 | [390929](../reports/390929.md) | Code Injection Vulnerability in dot Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | dot | High — CVSS 7.4 | — | 5 |
+| 731 | [3736889](../reports/3736889.md) | NULL pointer dereference in node:sqlite DatabaseSync#ap | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 5 |
+| 732 | [319593](../reports/319593.md) | `sshpk` is vulnerable to ReDoS when parsing crafted inv | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | sshpk | High — CVSS 7.5 | — | 5 |
+| 733 | [1444539](../reports/1444539.md) |  Remote memory disclosure vulnerability in libcurl on 6 | [curl](../by-program/curl.md) | https://github.com/curl/curl | High — CVSS 7.7 | — | 5 |
+| 734 | [703412](../reports/703412.md) | [node-df] RCE via insecure command concatenation | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | node-df | High — CVSS 8.4 | — | 5 |
+| 735 | [384939](../reports/384939.md) | http-live-simulator npm module is prone to path travers | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | http-live-simulator | High — CVSS 8.6 | — | 5 |
+| 736 | [319951](../reports/319951.md) | `superstatic` is vulnerable to path traversal on Window | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | superstatic | High — CVSS 8.6 | — | 5 |
+| 737 | [3833629](../reports/3833629.md) | Re-entrant `nghttp2_session_mem_send()` during `nghttp2 | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 5 |
+| 738 | [3506159](../reports/3506159.md) | Heap Out-of-Bounds Read in lib/http2.c via Malformed PU | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 5 |
+| 739 | [794407](../reports/794407.md) | nextcloud-snap CircleCI project has vulnerable configur | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High | — | 5 |
+| 740 | [330356](../reports/330356.md) | [html-pages] Stored XSS in the filename when directorie | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | html-pages | High — CVSS 7.3 | — | 5 |
+| 741 | [341869](../reports/341869.md) | [entitlements] Command injection on the 'path' paramete | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | entitlements | High — CVSS 7.5 | — | 5 |
+| 742 | [243003](../reports/243003.md) | No limit of summary length allows Denail of Service | [RubyGems](../by-program/rubygems.md) | https://github.com/rubygems/rubygems | High — CVSS 7.5 | — | 5 |
+| 743 | [1223565](../reports/1223565.md) | CVE-2021-22924: Bad connection reuse due to flawed path | [curl](../by-program/curl.md) | https://github.com/curl/curl | High — CVSS 7.1 | — | 5 |
+| 744 | [980649](../reports/980649.md) | [json8-merge-patch] Prototype Pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | json8-merge-patch | High — CVSS 7.3 | — | 5 |
+| 745 | [369573](../reports/369573.md) | stored xss in scrape-metadata when reading metadata fro | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | scrape-metadata | High | — | 5 |
+| 746 | [3682666](../reports/3682666.md) | Use-after-free in `curl_easy_ssls_export()` during call | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 5 |
+| 747 | [570035](../reports/570035.md) | [statichttpserver] List any file in the folder by using | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 5 |
+| 748 | [1952978](../reports/1952978.md) | Filesystem experimental permissions policy does not han | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.7 | — | 5 |
+| 749 | [678727](../reports/678727.md) | potential RCE and XSS via file upload requiring user ac | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 8.8 | — | 5 |
+| 750 | [4110110](../reports/4110110.md) | HTTP/2 stream teardown can send freed response memory t | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 5 |
+| 751 | [878339](../reports/878339.md) | [extend-merge] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 5 |
+| 752 | [3508500](../reports/3508500.md) | integer Overflow in MQTT Protocol Handling Allows Bypas | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 5 |
+| 753 | [383112](../reports/383112.md) | [ponse] Path traversal in ponse module allows to read a | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | ponse | High — CVSS 7.5 | — | 4 |
+| 754 | [278225](../reports/278225.md) | If the developer forgets to remove the built in control | [CodeIgniter](../by-program/codeigniter.md) | https://github.com/bcit-ci/CodeIgniter | High — CVSS 8.4 | — | 4 |
+| 755 | [334837](../reports/334837.md) | [localhost-now] bypassing url filter which leads to rea | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | localhost-now | High — CVSS 7.5 | — | 4 |
+| 756 | [736522](../reports/736522.md) | [authmagic-timerange-stateless-core] Improper Authentic | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 4 |
+| 757 | [1178337](../reports/1178337.md) | Improper handling of untypical characters in domain nam | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 4 |
+| 758 | [312918](../reports/312918.md) | [public] Path Traversal allows to read content of arbit | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | public | High — CVSS 8.6 | — | 4 |
+| 759 | [3752489](../reports/3752489.md) | Memory Corruption via TOCTOU Race in SharedArrayBuffer  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.0 | — | 4 |
+| 760 | [820224](../reports/820224.md) | [sapper] Path Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.6 | — | 4 |
+| 761 | [390857](../reports/390857.md) | Prototype Pollution Vulnerability in noble Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | noble | High — CVSS 8.6 | — | 4 |
+| 762 | [579517](../reports/579517.md) | [hnzserver] Path Traversal allowing to read any files o | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 7.5 | — | 4 |
+| 763 | [875775](../reports/875775.md) | Invalid write (or double free) triggers curl command li | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 4 |
+| 764 | [330349](../reports/330349.md) | [angular-http-server] Server Directory Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | angular-http-server | High — CVSS 8.6 | — | 4 |
+| 765 | [888021](../reports/888021.md) | [wappalyzer] ReDoS allows an attacker to completely bre | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 4 |
+| 766 | [1566462](../reports/1566462.md) | error parse uri path in curl | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 4 |
+| 767 | [1147611](../reports/1147611.md) | DoS due to improper input validation can break the admi | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High | — | 4 |
+| 768 | [2038134](../reports/2038134.md) | Permission model bypass by specifying a path traversal  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.7 | — | 4 |
+| 769 | [1583680](../reports/1583680.md) | Undici does not use CONNECT or otherwise validate upstr | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.4 | — | 4 |
+| 770 | [3684614](../reports/3684614.md) | Heap-buffer-overflow in `Curl_ssl_push_certinfo_len()`  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 4 |
+| 771 | [321687](../reports/321687.md) | `base64url` allocates uninitialized Buffers when number | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | base64url | High — CVSS 7.1 | — | 4 |
+| 772 | [3780854](../reports/3780854.md) | PHP code injection in delivery-limitation `logical` val | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 8.8 | — | 4 |
+| 773 | [4038342](../reports/4038342.md) | dns.resolve truncates names containing NUL char | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.4 | — | 4 |
+| 774 | [3785919](../reports/3785919.md) | libcurl: HTTP/1.x bare LF byte in response header value | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 4 |
+| 775 | [329837](../reports/329837.md) | Bypass to defective fix of Path Traversal  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | localhost-now | High — CVSS 8.6 | — | 4 |
+| 776 | [3817602](../reports/3817602.md) | Node --run POSIX positional argument escaping allows sh | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 8.1 | — | 4 |
+| 777 | [4038287](../reports/4038287.md) | TLS certificate hostname bypass when the IP is written  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.4 | — | 4 |
+| 778 | [703415](../reports/703415.md) | [treekill] RCE via insecure command concatenation (only | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | treekill | High — CVSS 7.3 | — | 4 |
+| 779 | [3761647](../reports/3761647.md) | TLS conn reuse and session cache ignore fsslctx callbac | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 4 |
+| 780 | [2104564](../reports/2104564.md) | (CVE-2023-32004) Permission model bypass by specifying  | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/nodejs/node | High | — | 4 |
+| 781 | [319473](../reports/319473.md) | [open] concatenation of unsanitized input into exec() c | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | open | High — CVSS 8.4 | — | 3 |
+| 782 | [3784125](../reports/3784125.md) | GnuTLS OCSP stapling accepts unrelated SingleResponse ( | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 3 |
+| 783 | [3688064](../reports/3688064.md) | Node.js unicode dot separator handling can lead to tls  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.7 | — | 3 |
+| 784 | [867164](../reports/867164.md) | External storage app saves password for all users in th | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 7.9 | — | 3 |
+| 785 | [4006744](../reports/4006744.md) | TLS certificate hostname bypass when the host loosely r | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.4 | — | 3 |
+| 786 | [3923967](../reports/3923967.md) | WordPress 7.1 Media Processing Race Enables Persistent  | [WordPress](../by-program/wordpress.md) | WordPress Core | High | — | 3 |
+| 787 | [1664244](../reports/1664244.md) | fix(security):Path Traversal Bug | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric | High | — | 3 |
+| 788 | [3781492](../reports/3781492.md) | PHP code injection in delivery-limitation `logical` val | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 8.8 | — | 3 |
+| 789 | [3744200](../reports/3744200.md) | PHP code injection via unexpected delivery limitation p | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 8.8 | — | 3 |
+| 790 | [320269](../reports/320269.md) | `npmconf` (and `npm` js api) allocate and write to disk | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | npmconf | High — CVSS 7.4 | — | 3 |
+| 791 | [541354](../reports/541354.md) | A specifically malformed MQTT Subscribe packet crashes  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | mqtt-packet | High — CVSS 7.5 | — | 3 |
+| 792 | [320586](../reports/320586.md) | `foreman` is vulnerable to ReDoS in path | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | foreman | High — CVSS 7.5 | — | 3 |
+| 793 | [1189419](../reports/1189419.md) | XMLRPC does not limit deserializable classes. | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | High | — | 3 |
+| 794 | [1294043](../reports/1294043.md) | SSH server due to Improper Signature Verification | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | High — CVSS 7.0 | — | 2 |
+| 795 | [320159](../reports/320159.md) | `useragent` is vulnerable to ReDoS in user-agent string | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | useragent | High — CVSS 7.5 | — | 2 |
+| 796 | [506644](../reports/506644.md) | [@azhou/basemodel] SQL injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.6 | — | 2 |
+| 797 | [909757](../reports/909757.md) | [is-my-json-valid] ReDoS via 'style' format | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | is-my-json-valid | High — CVSS 7.5 | — | 2 |
+| 798 | [4064040](../reports/4064040.md) |  Use-after-free read of the freed referer buffer in `cu | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 2 |
+| 799 | [3915935](../reports/3915935.md) | Heap Use-After-Free in Materialized_cursor::open via SY | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Remote Cod | High — CVSS 8.8 | — | 2 |
+| 800 | [581939](../reports/581939.md) | [static-server-gx] Path Traversal allowing to read any  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 7.5 | — | 2 |
+| 801 | [3553340](../reports/3553340.md) | Active Storage Vips Transformer Missing validate_transf | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | High — CVSS 7.5 | — | 2 |
+| 802 | [460121](../reports/460121.md) | Publicly editable GitHub wikis | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | High | — | 2 |
+| 803 | [732431](../reports/732431.md) | Improper integrity protection of server-side encryption | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 7.4 | — | 2 |
+| 804 | [3846922](../reports/3846922.md) | HTTP/2 retained header blocks evade maxSessionMemory an | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 2 |
+| 805 | [1560324](../reports/1560324.md) | Cookie injection from non-secure context | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 2 |
+| 806 | [341044](../reports/341044.md) | [cloudcmd] Stored XSS in the filename when directories  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | cloudcmd | High — CVSS 8.5 | — | 2 |
+| 807 | [871156](../reports/871156.md) | [plain-object-merge] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 2 |
+| 808 | [411405](../reports/411405.md) | [http-live-simulator] Path traversal vulnerability | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | http-live-simulator | High — CVSS 7.5 | — | 2 |
+| 809 | [3760016](../reports/3760016.md) | Node.js WebCrypto AES Integer Overflow Leads to Remote  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 2 |
+| 810 | [714215](../reports/714215.md) | curl on Windows can be forced to execute code via OpenS | [curl](../by-program/curl.md) | https://github.com/curl/curl | High — CVSS 7.9 | — | 2 |
+| 811 | [579523](../reports/579523.md) | [http_server] Path Traversal allowing to read any files | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 7.5 | — | 2 |
+| 812 | [413388](../reports/413388.md) | Untrusted strings that are cache fetched with raw optio | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | High | — | 2 |
+| 813 | [3023605](../reports/3023605.md) | [CVE-2025-27220] ReDoS in CGI::Util#escapeElement | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/ruby | High — CVSS 7.5 | — | 2 |
+| 814 | [3852135](../reports/3852135.md) | DDP methods getThreadsList / getThreadMessages leaks pr | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | High | — | 2 |
+| 815 | [3869124](../reports/3869124.md) | **Unauthenticated IDOR allows modification of payment c | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/website | High — CVSS 7.5 | — | 1 |
+| 816 | [390847](../reports/390847.md) | Prototype Pollution Vulnerability in cached-path-relati | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | cached-path-relative | High — CVSS 7.6 | — | 1 |
+| 817 | [390871](../reports/390871.md) | Command Injection Vulnerability in win-fork/win-spawn P | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | win-spawn | High — CVSS 8.4 | — | 1 |
+| 818 | [4121685](../reports/4121685.md) | curl RTSP connection reuse routes response headers to t | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 1 |
+| 819 | [790623](../reports/790623.md) | [sirloin] Web Server Directory Traversal via Crafted GE | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 1 |
+| 820 | [865777](../reports/865777.md) | Bypass hide download Nextcloud Share | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 7.1 | — | 1 |
+| 821 | [966347](../reports/966347.md) | [bl] Uninitialized memory exposure via negative .consum | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 7.7 | — | 1 |
+| 822 | [4177724](../reports/4177724.md) | curl 8.23.0 keeps sending requests to an HTTP/3 backend | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 1 |
+| 823 | [916430](../reports/916430.md) | [json-bigint] DoS via `__proto__` assignment | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | json-bigint | High — CVSS 7.5 | — | 1 |
+| 824 | [4129950](../reports/4129950.md) | IDN decoding inserts authority delimiters and can redir | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 1 |
+| 825 | [877515](../reports/877515.md) | [keyd] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 1 |
+| 826 | [303480](../reports/303480.md) | Reflected XSS in admin settings | [Deconf](../by-program/deconf_com.md) | https://github.com/deconf/Google-Analyti | High | — | 1 |
+| 827 | [3393664](../reports/3393664.md) | SSRF via improper validation after DNS name resolution  | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | High — CVSS 7.7 | — | 1 |
+| 828 | [879740](../reports/879740.md) | Repositories of datanucleus are fetched over insecure p | [Central Security Project](../by-program/central-security-project.md) | Java Component in search.maven.org | High — CVSS 8.1 | — | 1 |
+| 829 | [1113663](../reports/1113663.md) | Inadequate Cryptographic Key Size and Insecure Cryptogr | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 1 |
+| 830 | [1542881](../reports/1542881.md) | curl proceeds with unsafe connections when -K file can' | [curl](../by-program/curl.md) | https://github.com/curl/curl | High — CVSS 8.0 | — | 1 |
+| 831 | [1485379](../reports/1485379.md) | Use of Unsafe function || Strcpy | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 1 |
+| 832 | [3473145](../reports/3473145.md) | Unauthenticated SSRF in Voxtelesys integration ('checkU | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | High — CVSS 8.6 | — | 1 |
+| 833 | [878394](../reports/878394.md) | [objtools] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 1 |
+| 834 | [3896779](../reports/3896779.md) | Blind SQL injection due to request precedence issue in  | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 8.8 | — | 1 |
+| 835 | [506791](../reports/506791.md) | Pippo XML Entity Expansion (Billion Laughs Attack) | [Central Security Project](../by-program/central-security-project.md) | Java Component in search.maven.org | High — CVSS 8.3 | — | 1 |
+| 836 | [3908943](../reports/3908943.md) | DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_p | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Access con | High — CVSS 8.0 | — | 1 |
+| 837 | [770190](../reports/770190.md) | Unexpected access to process open files via file:///pro | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 1 |
+| 838 | [3761342](../reports/3761342.md) | Permission Model: --allow-fs-read/--allow-fs-write radi | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | High — CVSS 7.5 | — | 1 |
+| 839 | [508346](../reports/508346.md) | [increments] sql injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.6 | — | 1 |
+| 840 | [4030333](../reports/4030333.md) | CVE-2026-92392: HTTP/2 upload Use-After-Free | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 1 |
+| 841 | [4152553](../reports/4152553.md) | Unauthenticated Disclosure of Private, Draft, and Passw | [WordPress](../by-program/wordpress.md) | Secure Custom Fields | High | — | 1 |
+| 842 | [3836021](../reports/3836021.md) | Missing FILE-privilege enforcement in CONNECT file UDFs | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Access con | High — CVSS 8.8 | — | 1 |
+| 843 | [790873](../reports/790873.md) | [hangersteak] Web Server Directory Traversal via Crafte | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 1 |
+| 844 | [1276384](../reports/1276384.md) | Signature Verification /// golang.org/x/crypto/ssh | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | High — CVSS 7.0 | — | 1 |
+| 845 | [4121675](../reports/4121675.md) | CRLF injection in the RTSP request-line and Transport h | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 0 |
+| 846 | [4053116](../reports/4053116.md) | curl CONNECT response header colon-check bypass in cf-h | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 0 |
+| 847 | [4121689](../reports/4121689.md) | CRLF injection in the HTTP request-line via `CURLOPT_RE | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 0 |
+| 848 | [3678395](../reports/3678395.md) | Path Traversal in mbstream Extract | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Remote Cod | High — CVSS 7.8 | — | 0 |
+| 849 | [3679640](../reports/3679640.md) | Unauthenticated Persistent Denial-of-Service via Federa | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | High — CVSS 7.5 | — | 0 |
+| 850 | [4057637](../reports/4057637.md) | [HIGH] CWE-22 — Path Traversal in FTP Wildcard Download | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 0 |
+| 851 | [333459](../reports/333459.md) | npm packages that overlap with core node packages | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High — CVSS 8.6 | — | 0 |
+| 852 | [4059104](../reports/4059104.md) | IMAP literal size truncation on 32-bit platforms corrup | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 0 |
+| 853 | [3831102](../reports/3831102.md) | Access control bypass due to request precedence issue i | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | High — CVSS 8.1 | — | 0 |
+| 854 | [878332](../reports/878332.md) | [object-path-set] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | High | — | 0 |
+| 855 | [1001218](../reports/1001218.md) | [@firebase/util] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | @firebase/util | High | — | 0 |
+| 856 | [1555440](../reports/1555440.md) | match | [curl](../by-program/curl.md) | https://github.com/curl/curl | High — CVSS 7.5 | — | 0 |
+| 857 | [713975](../reports/713975.md) | Only OpenSSL handles a CRL when passed in via CApath  | [curl](../by-program/curl.md) | https://github.com/curl/curl | High | — | 0 |
+| 858 | [258084](../reports/258084.md) | Access to all files of remote user through shared file | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 6.8 | — | 151 |
+| 859 | [2054283](../reports/2054283.md) | Improper HTTP header block termination in llhttp | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 122 |
+| 860 | [768322](../reports/768322.md) | Remote Code Execution (Reverse Shell) - File Manager | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Medium — CVSS 5.1 | — | 114 |
+| 861 | [2828271](../reports/2828271.md) | Apache Airflow: Sensitive Information Exposure in DAG R | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Medium | — | 112 |
+| 862 | [889243](../reports/889243.md) | Re-Sharing allows increase of privileges | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.5 | — | 91 |
+| 863 | [3473882](../reports/3473882.md) | TLS PSK/ALPN Callback Exceptions Bypass Error Handlers, | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.9 | — | 78 |
+| 864 | [3175928](../reports/3175928.md) | ImageId Format Injection in Image Upload Endpoint | [Lichess](../by-program/lichess.md) | https://github.com/lichess-org/lila | Medium — CVSS 6.1 | — | 73 |
+| 865 | [3008446](../reports/3008446.md) | 1-Click Cross-Site Scripting via Custom Configuration i | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 6.1 | — | 70 |
+| 866 | [719426](../reports/719426.md) | File-drop content is visible through the gallery app | [Nextcloud](../by-program/nextcloud.md) | nextcloud/gallery | Medium — CVSS 5.0 | — | 68 |
+| 867 | [2376929](../reports/2376929.md) | ID4me feature of OpenID connect app available even when | [Nextcloud](../by-program/nextcloud.md) | nextcloud/user_oidc | Medium — CVSS 6.3 | — | 65 |
+| 868 | [3434156](../reports/3434156.md) | Username Validation Bypass | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 5.4 | — | 64 |
+| 869 | [3249624](../reports/3249624.md) | Path Traversal Vulnerability in Nextcloud Tables Enable | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/tables | Medium — CVSS 6.5 | — | 63 |
+| 870 | [3445890](../reports/3445890.md) | Link unfurling calls out to arbitrary URLs and the priv | [Basecamp](../by-program/basecamp.md) | ONCE: Campfire | Medium — CVSS 6.7 | — | 62 |
+| 871 | [2999394](../reports/2999394.md) | Pivilege escalation of any new user to Keymaster caused | [WordPress](../by-program/wordpress.md) | BBPress Core | Medium | — | 60 |
+| 872 | [876800](../reports/876800.md) | Time-base SQL Injection in Search Users | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Medium — CVSS 5.5 | — | 60 |
+| 873 | [2307225](../reports/2307225.md) | Path traversal by drive name in Windows environment | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.6 | — | 59 |
+| 874 | [887462](../reports/887462.md) | CVE-2020-8177: curl overwrite local file with -J | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 4.7 | — | 55 |
+| 875 | [3153497](../reports/3153497.md) | CVE-2025-5025: No QUIC certificate pinning with wolfSSL | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 54 |
+| 876 | [3486747](../reports/3486747.md) | SVG filter primitives bypass remote image blocking, ena | [Nextcloud](../by-program/nextcloud.md) | https://github.com/roundcube/roundcubema | Medium — CVSS 4.3 | — | 53 |
+| 877 | [1048457](../reports/1048457.md) | CVE-2020-8286: Inferior OCSP verification | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 6.6 | — | 51 |
+| 878 | [3091390](../reports/3091390.md) | Reflected Cross-Site Scripting (XSS) in Revive Adserver | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 49 |
+| 879 | [3465156](../reports/3465156.md) | Node.js permission model bypass via unchecked Unix Doma | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.8 | — | 49 |
+| 880 | [2254151](../reports/2254151.md) | Notes app can be tricked into using a received share cr | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 6.7 | — | 49 |
+| 881 | [2912277](../reports/2912277.md) | Hackers Attack Curl Vulnerability Accessing Sensitive I | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 48 |
+| 882 | [1238528](../reports/1238528.md) | wp-embed XSS on Safari | [WordPress](../by-program/wordpress.md) | WordPress Core | Medium | — | 47 |
+| 883 | [3523349](../reports/3523349.md) | Integer Underflow in src/var.c | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 46 |
+| 884 | [3443563](../reports/3443563.md) | Roundcube Webmail Style Sanitizer can be bypassed using | [Nextcloud](../by-program/nextcloud.md) | https://github.com/roundcube/roundcubema | Medium — CVSS 4.3 | — | 46 |
+| 885 | [2058337](../reports/2058337.md) | Inviting excessive long email addresses to a calendar e | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.3 | — | 46 |
+| 886 | [2872502](../reports/2872502.md) | Possible ReDoS vulnerability in query parameter filteri | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rails | Medium | — | 44 |
+| 887 | [2084280](../reports/2084280.md) | WASI sandbox escape via symlink | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 4.8 | — | 44 |
+| 888 | [3523953](../reports/3523953.md) | wcurl Argument Injection via Unquoted Variable | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 43 |
+| 889 | [3150884](../reports/3150884.md) | CVE-2025-4947: QUIC certificate check skip with wolfSSL | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 43 |
+| 890 | [793704](../reports/793704.md) | Server-Side Request Forgery (SSRF) in Ghost CMS  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Ghost | Medium — CVSS 4.4 | — | 43 |
+| 891 | [2442613](../reports/2442613.md) | CVE-2024-2398: HTTP/2 push headers memory-leak | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Medium | — | 42 |
+| 892 | [3590586](../reports/3590586.md) | position: fixed !important bypasses CSS sanitizer's fix | [Nextcloud](../by-program/nextcloud.md) | https://github.com/roundcube/roundcubema | Medium — CVSS 5.4 | — | 42 |
+| 893 | [1095645](../reports/1095645.md) | Authenticated XXE | [WordPress](../by-program/wordpress.md) | WordPress Core | Medium | — | 41 |
+| 894 | [1444151](../reports/1444151.md) | XSS vulnerabilities due to missing checks in tag helper | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium | — | 41 |
+| 895 | [2247457](../reports/2247457.md) | Can download files by zipping the folder | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.1 | — | 40 |
+| 896 | [3338748](../reports/3338748.md) | Approval app allows users to request approval for other | [Nextcloud](../by-program/nextcloud.md) | nextcloud/approval | Medium — CVSS 4.3 | — | 39 |
+| 897 | [3247499](../reports/3247499.md) | Deck app allowed user with "Can share" permission to mo | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | Medium — CVSS 5.4 | — | 38 |
+| 898 | [2890071](../reports/2890071.md) | admin_audit does not log actions on files in a group fo | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.3 | — | 38 |
+| 899 | [2497947](../reports/2497947.md) | Invisible Salamanders Attack against end_to_end_encrypt | [Nextcloud](../by-program/nextcloud.md) | nextcloud/end_to_end_encryption | Medium — CVSS 6.5 | — | 38 |
+| 900 | [2115212](../reports/2115212.md) | DNS pin middleware can be tricked into DNS rebinding al | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Medium — CVSS 5.0 | — | 38 |
+| 901 | [1210502](../reports/1210502.md) | [jitsi-meet] Authentication Bypass when using JWT w/ pu | [8x8](../by-program/8x8-bounty.md) | https://github.com/jitsi | Medium — CVSS 5.3 | — | 37 |
+| 902 | [3589551](../reports/3589551.md) | RBAC bypass on App log endpoints via `permissionRequire | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | Medium — CVSS 6.5 | — | 37 |
+| 903 | [3470970](../reports/3470970.md) | Reflected XSS in banner-acl.php and channel-acl.php via | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.1 | — | 37 |
+| 904 | [1736378](../reports/1736378.md) | DOM XSS at `https://adobedocs.github.io/OAE_PartnerAPI/ | [Adobe](../by-program/adobe.md) | https://github.com/adobe/* | Medium — CVSS 6.1 | — | 37 |
+| 905 | [3575245](../reports/3575245.md) | Integer Overflow in curl_multi_get_handles() Leading to | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 36 |
+| 906 | [3594137](../reports/3594137.md) | Stored XSS in attachment-display exploitable through Sa | [Nextcloud](../by-program/nextcloud.md) | https://github.com/roundcube/roundcubema | Medium — CVSS 6.7 | — | 36 |
+| 907 | [2669852](../reports/2669852.md) | CVE-2024-8096: OCSP stapling bypass with GnuTLS | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 36 |
+| 908 | [3211126](../reports/3211126.md) | Sensitive information disclosure with malicious netrc f | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 36 |
+| 909 | [3473696](../reports/3473696.md) | [revive-adserver] Reflected XSS in Banner Delivery Opti | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.1 | — | 35 |
+| 910 | [270072](../reports/270072.md) | Unpacker improperly validates symlinks, allowing gems w | [RubyGems](../by-program/rubygems.md) | https://github.com/rubygems/rubygems | Medium | — | 35 |
+| 911 | [339483](../reports/339483.md) | "Bad Protocols Validation" Bypass in "wp_kses_bad_proto | [WordPress](../by-program/wordpress.md) | WordPress Core | Medium | — | 34 |
+| 912 | [3366484](../reports/3366484.md) | Unsanitized IPFS CID Allows SSRF Against Configured Gat | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 34 |
+| 913 | [2559516](../reports/2559516.md) | CVE-2024-6197: freeing stack buffer in utf8asn1str | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 34 |
+| 914 | [361951](../reports/361951.md) | Exploiting JSONP callback on /username/charts.json endp | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | Medium — CVSS 4.3 | — | 34 |
+| 915 | [3382343](../reports/3382343.md) | BOLA/IDOR in Out-of-Office API allows any authenticated | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 6.5 | — | 34 |
+| 916 | [263662](../reports/263662.md) | Cross-Site Request Forgery on the Federalist API (all e | [GSA Bounty](../by-program/gsa_bbp.md) | https://github.com/18f/federalist | Medium | — | 34 |
+| 917 | [3456295](../reports/3456295.md) | Uncatchable "Maximum call stack size exceeded" error on | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.9 | — | 34 |
+| 918 | [2389565](../reports/2389565.md) | Action Text XSS (Rails 7.1.x) | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium | — | 33 |
+| 919 | [3591944](../reports/3591944.md) | CVE-2026-3805: use after free in SMB connection reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 33 |
+| 920 | [3590583](../reports/3590583.md) | Unquoted body background attribute enables CSS injectio | [Nextcloud](../by-program/nextcloud.md) | https://github.com/roundcube/roundcubema | Medium — CVSS 5.4 | — | 33 |
+| 921 | [1023899](../reports/1023899.md) | Regular expression denial of service in ActiveRecord's  | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 5.3 | — | 33 |
+| 922 | [1784681](../reports/1784681.md) | Ability to read any emails through IDOR on Nextcloud Ma | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Medium — CVSS 4.1 | — | 33 |
+| 923 | [2807139](../reports/2807139.md) | CVE-2024-49761: ReDoS vulnerability in REXML | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/ruby | Medium | — | 33 |
+| 924 | [3310318](../reports/3310318.md) | Missing Security Headers | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 32 |
+| 925 | [3411750](../reports/3411750.md) | Stored-XSS in campaign name displayed in Banners modal | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.5 | — | 32 |
+| 926 | [3357723](../reports/3357723.md) | Memory leak that enables remote Denial of Service again | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 32 |
+| 927 | [2401359](../reports/2401359.md) | CVE-2024-25128: Apache Airflow: Authentication Bypass w | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Medium | — | 32 |
+| 928 | [1662194](../reports/1662194.md) | Secret API Key is logged in cleartext  | [Omise](../by-program/omise.md) | github.com | Medium | — | 31 |
+| 929 | [2230915](../reports/2230915.md) | Bruteforce protection in password verification can be b | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.3 | — | 31 |
+| 930 | [3516974](../reports/3516974.md) | SSL options ISSUERCERT, EC_CURVES and CRLFILE silently  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 31 |
+| 931 | [2352676](../reports/2352676.md) | cookie is sent on redirect | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 30 |
+| 932 | [3137895](../reports/3137895.md) | Missing ownership check in Tables app allows moving col | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/tables | Medium — CVSS 6.3 | — | 30 |
+| 933 | [2489843](../reports/2489843.md) | Crafted smart contract can take 1.5 minutes to execute  | [Rootstock Labs](../by-program/rootstocklabs.md) | https://github.com/rsksmart/rskj | Medium | — | 30 |
+| 934 | [3418031](../reports/3418031.md) | Open Redirect in Rocket.Chat | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | Medium — CVSS 5.4 | — | 30 |
+| 935 | [3138721](../reports/3138721.md) | Tables app allowed users to view columns metadata infor | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/tables | Medium — CVSS 4.3 | — | 29 |
+| 936 | [3680680](../reports/3680680.md) | libcurl omits IPv6 zoneid from host identity and leaks  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 29 |
+| 937 | [2939077](../reports/2939077.md) | CVE-2024-56374 Potential denial-of-service in IPv6 vali | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/django | Medium | — | 29 |
+| 938 | [2580062](../reports/2580062.md) | NoSQL injection leaks visitor token and livechat messag | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | Medium — CVSS 6.5 | — | 29 |
+| 939 | [587727](../reports/587727.md) | CSS injection via BB code tag "█████" | [phpBB](../by-program/phpbb.md) | https://github.com/phpbb/phpbb | Medium | — | 28 |
+| 940 | [2250398](../reports/2250398.md) | Non-admin users can reset app allowlist to the default | [Nextcloud](../by-program/nextcloud.md) | nextcloud/guests | Medium — CVSS 4.1 | — | 28 |
+| 941 | [3282709](../reports/3282709.md) | Integer Overflow in schannel.c TLS Data Transmission | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 28 |
+| 942 | [2212193](../reports/2212193.md) | CVE-2023-46218: cookie mixed case PSL bypass | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 28 |
+| 943 | [3328291](../reports/3328291.md) | Existence of completed pods allows for bypass of Kubern | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/aws/amazon-vpc-cni-k8 | Medium — CVSS 4.3 | — | 28 |
+| 944 | [3598444](../reports/3598444.md) | Curl_compareheader() fails to match multi-value HTTP he | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 28 |
+| 945 | [3674275](../reports/3674275.md) | lib/http2.c: SSL connections accept non-HTTP push schem | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 28 |
+| 946 | [2094056](../reports/2094056.md) | RCE and DoS in Cosmovisor | [Cosmos](../by-program/cosmos.md) | https://github.com/cosmos/cosmos-sdk | Medium | — | 28 |
+| 947 | [3346118](../reports/3346118.md) | Timing Attack Vulnerability in curl Digest Authenticati | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 28 |
+| 948 | [2554079](../reports/2554079.md) | External storage - global credentials returned to the c | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.6 | — | 28 |
+| 949 | [2101165](../reports/2101165.md) | user_ldap app logs user passwords in the log file on le | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.6 | — | 28 |
+| 950 | [1565615](../reports/1565615.md) | CVE-2022-27779: cookie for trailing dot TLD | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Medium | — | 27 |
+| 951 | [3646072](../reports/3646072.md) | Negotiate connection reuse with wrong credentials when  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 27 |
+| 952 | [1509216](../reports/1509216.md) | SMTP Command Injection in Appointment Emails via Newlin | [Nextcloud](../by-program/nextcloud.md) | nextcloud/calendar | Medium — CVSS 5.3 | — | 27 |
+| 953 | [2094473](../reports/2094473.md) | Password of talk conversations can be bruteforced | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Medium — CVSS 5.0 | — | 27 |
+| 954 | [2284065](../reports/2284065.md) | Denial of Service by resource exhaustion in fetch() bro | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 27 |
+| 955 | [3413764](../reports/3413764.md) | Username normalization missing allows visually indistin | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 5.4 | — | 27 |
+| 956 | [2112973](../reports/2112973.md) | Enabling Birthday Contact to any user | [Nextcloud](../by-program/nextcloud.md) | nextcloud/calendar | Medium — CVSS 4.3 | — | 27 |
+| 957 | [3247386](../reports/3247386.md) | Participants were able to blindly delete poll drafts of | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Medium — CVSS 4.2 | — | 27 |
+| 958 | [3590576](../reports/3590576.md) | SMIL values and by attributes bypass remote image block | [Nextcloud](../by-program/nextcloud.md) | https://github.com/roundcube/roundcubema | Medium — CVSS 4.7 | — | 26 |
+| 959 | [3246519](../reports/3246519.md) | Default Minimum TLS Version Set to TLS v1.0 (Cryptograp | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 26 |
+| 960 | [3408126](../reports/3408126.md) | Directory Traversal Vulnerability in cURL via Content-D | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 25 |
+| 961 | [2931688](../reports/2931688.md) | ActionView sanitize helper bypass with 'style' and 'svg | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rails | Medium — CVSS 6.1 | — | 25 |
+| 962 | [3597359](../reports/3597359.md) | NULL Pointer Dereference (DoS) in libcurl SFTP QUOTE co | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 25 |
+| 963 | [3583983](../reports/3583983.md) | CVE-2026-3783: token leak with redirect and netrc | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 25 |
+| 964 | [2902856](../reports/2902856.md) | [nextcloud/mail] Blind SSRF to Internal Network via "Li | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Medium — CVSS 4.3 | — | 25 |
+| 965 | [842462](../reports/842462.md) | Pixel flood attack cause the javascript heap out of mem | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | jpeg-js | Medium — CVSS 5.3 | — | 25 |
+| 966 | [1331728](../reports/1331728.md) | Cards in Deck are readable by any user | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | Medium | — | 25 |
+| 967 | [374969](../reports/374969.md) | Navigation to protocol handler URL from the opened page | [Brave Software](../by-program/brave.md) | https://github.com/brave/browser-laptop | Medium | — | 25 |
+| 968 | [3272982](../reports/3272982.md) | Vulnerability Report: Public Exposure of Security Audit | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 24 |
+| 969 | [1842114](../reports/1842114.md) | Missing brute force protection on password confirmation | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.2 | — | 24 |
+| 970 | [1083376](../reports/1083376.md) | Reflected XSS on /admin/stats.php | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium | — | 24 |
+| 971 | [881918](../reports/881918.md) | Authenticated Stored Cross-site Scripting in bbPress | [WordPress](../by-program/wordpress.md) | BBPress Core | Medium | — | 24 |
+| 972 | [2671404](../reports/2671404.md) | Nextcloud Tables app - inserting rows to an arbitrary t | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/tables | Medium — CVSS 6.3 | — | 24 |
+| 973 | [2913312](../reports/2913312.md) | Usage of unsafe random function in undici for choosing  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.8 | — | 24 |
+| 974 | [941178](../reports/941178.md) | SSRF for kube-apiserver cloudprovider scene | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/apiserver | Medium — CVSS 6.8 | — | 24 |
+| 975 | [3697719](../reports/3697719.md) | CVE-2026-7168: cross-proxy Digest auth state leak | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 24 |
+| 976 | [2294709](../reports/2294709.md) | CVE-2023-49920: Apache Airflow: Missing CSRF protection | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Medium — CVSS 5.3 | — | 24 |
+| 977 | [1234531](../reports/1234531.md) | private keys exposed on the GitHub repository | [MCUboot](../by-program/mcuboot.md) | https://github.com/mcu-tools/mcuboot | Medium | — | 24 |
+| 978 | [1694173](../reports/1694173.md) | ActionView sanitize helper bypass leading to XSS using  | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium | — | 24 |
+| 979 | [1302395](../reports/1302395.md) | Sauce Labs API key unencrypted in an old commit | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium | — | 23 |
+| 980 | [3108869](../reports/3108869.md) | Denial of Service by memory exhaustion in net/imap | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/ruby | Medium | — | 23 |
+| 981 | [3249936](../reports/3249936.md) | HTTP Request Smuggling Vulnerability Analysis - cURL Se | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 23 |
+| 982 | [3658049](../reports/3658049.md) | libcurl: Integer truncation in curl_easy_ssls_import()  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 23 |
+| 983 | [3432833](../reports/3432833.md) | [SFTP] TOCTOU Race Condition in Upload Resume Logic Lea | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 23 |
+| 984 | [2559404](../reports/2559404.md) | Crafted smart contract can take ~23 seconds to execute  | [Rootstock Labs](../by-program/rootstocklabs.md) | https://github.com/rsksmart/rskj | Medium — CVSS 6.1 | — | 23 |
+| 985 | [3306456](../reports/3306456.md) | Curl parse_connect_to_string Heap-Overread Leading to D | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 23 |
+| 986 | [3638715](../reports/3638715.md) | Use-After-Free race condition in url_move_hostname() vi | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 23 |
+| 987 | [3694390](../reports/3694390.md) | CVE-2026-7009: OCSP stapling bypass with Apple SecTrust | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 23 |
+| 988 | [179695](../reports/179695.md) | XSS via unicode characters in upload filename | [WordPress](../by-program/wordpress.md) | WordPress Core | Medium | — | 23 |
+| 989 | [3413890](../reports/3413890.md) | Unrestricted setPerPage allows huge result sets / resou | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.5 | — | 22 |
+| 990 | [1924212](../reports/1924212.md) | Improper restriction of excessive authentication attemp | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.0 | — | 22 |
+| 991 | [1444501](../reports/1444501.md) | URI parser's RFC3986 regular expression has poor perfor | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium — CVSS 5.3 | — | 22 |
+| 992 | [2931710](../reports/2931710.md) | #2931639   ActionView sanitize helper bypass with math- | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rails | Medium — CVSS 6.1 | — | 22 |
+| 993 | [1763817](../reports/1763817.md) | Take over subdomain undici.nodejs.org.cdn.cloudflare.ne | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.9 | — | 22 |
+| 994 | [3574928](../reports/3574928.md) | Able to bypass HSTS using trailing dot | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 22 |
+| 995 | [2931691](../reports/2931691.md) | ActionView sanitize helper bypass with noscript | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rails | Medium — CVSS 6.1 | — | 22 |
+| 996 | [3112033](../reports/3112033.md) | Calendar attachments of local files are offered to down | [Nextcloud](../by-program/nextcloud.md) | nextcloud/calendar | Medium — CVSS 5.7 | — | 22 |
+| 997 | [1516377](../reports/1516377.md) | SMTP Command Injection in iCalendar Attachments to Emai | [Nextcloud](../by-program/nextcloud.md) | nextcloud/calendar | Medium — CVSS 4.1 | — | 22 |
+| 998 | [3645361](../reports/3645361.md) | Data race in Curl_dnscache_add_negative() corrupts shar | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 22 |
+| 999 | [245872](../reports/245872.md) | [IDOR] The authenticated user can restart website build | [GSA Bounty](../by-program/gsa_bbp.md) | https://github.com/18f/federalist | Medium | — | 22 |
+| 1000 | [2251074](../reports/2251074.md) | Improper handling of request URLs in nextcloud/guests a | [Nextcloud](../by-program/nextcloud.md) | nextcloud/guests | Medium — CVSS 5.4 | — | 22 |
+| 1001 | [874778](../reports/874778.md) | CVE-2020-8169: Partial password leak over DNS on HTTP r | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 5.5 | — | 21 |
+| 1002 | [3471553](../reports/3471553.md) | Unbounded memory consumption via compressed HTTP respon | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 21 |
+| 1003 | [3250490](../reports/3250490.md) | Disk Space Exhaustion leading to a Denial of Service (D | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 21 |
+| 1004 | [3399191](../reports/3399191.md) | Reflected XSS in account-preferences-plugin.php | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 21 |
+| 1005 | [490728](../reports/490728.md) | [takeapeek] XSS via HTML tag injection in directory lis | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | takeapeek | Medium — CVSS 5.2 | — | 21 |
+| 1006 | [3235428](../reports/3235428.md) | CRLF injection in libcurl's SMTP client via --mail-from | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 21 |
+| 1007 | [2666849](../reports/2666849.md) | Uncontrolled Resource Consumption when parsing maliciou | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium — CVSS 5.3 | — | 21 |
+| 1008 | [2402853](../reports/2402853.md) | HTTP/2 PUSH_PROMISE DoS | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 20 |
+| 1009 | [1913733](../reports/1913733.md) | CVE-2023-28319: UAF in SSH sha256 fingerprint check | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 20 |
+| 1010 | [1083231](../reports/1083231.md) | Reflected XSS on /admin/userlog-index.php | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium | — | 20 |
+| 1011 | [460911](../reports/460911.md) | [FG-VD-18-165] Wordpress Cross-Site Scripting Vulnerabi | [WordPress](../by-program/wordpress.md) | WordPress Core | Medium — CVSS 6.4 | — | 20 |
+| 1012 | [1024749](../reports/1024749.md) | Cookie exposure due to unexpected file permission chang | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 4.0 | — | 20 |
+| 1013 | [881855](../reports/881855.md) | Arbitrary change of blog's background image via CSRF | [WordPress](../by-program/wordpress.md) | WordPress Core | Medium — CVSS 6.4 | — | 20 |
+| 1014 | [3702718](../reports/3702718.md) | MQTT state machine confusion: PINGRESP/DISCONNECT with  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 20 |
+| 1015 | [2931636](../reports/2931636.md) |  ActionView sanitize helper bypass with style and math | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rails | Medium — CVSS 6.1 | — | 20 |
+| 1016 | [2257156](../reports/2257156.md) | Improper handling of wildcards in --allow-fs-read and - | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.0 | — | 20 |
+| 1017 | [2402193](../reports/2402193.md) | CVE-2024-27351: Potential regular expression denial-of- | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/django | Medium | — | 20 |
+| 1018 | [2211561](../reports/2211561.md) | Self XSS when pasting HTML into Text app with Ctrl+Shif | [Nextcloud](../by-program/nextcloud.md) | nextcloud/text | Medium — CVSS 4.6 | — | 20 |
+| 1019 | [665302](../reports/665302.md) | [seeftl] Stored XSS when directory listing via filename | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | seeftl | Medium — CVSS 4.4 | — | 20 |
+| 1020 | [3634571](../reports/3634571.md) | Path Traversal in writeFile via Unsafe Prefix Containme | [arkadiyt-projects](../by-program/arkadiyt-projects.md) | https://github.com/arkadiyt/protodump | Medium — CVSS 6.7 | — | 20 |
+| 1021 | [343111](../reports/343111.md) | OAuth2 Access Token and App Password Security Vulnerabi | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 6.4 | — | 19 |
+| 1022 | [3674940](../reports/3674940.md) | Critical broken access control: API-only delegated admi | [Nextcloud](../by-program/nextcloud.md) | nextcloud/groupfolders | Medium — CVSS 5.7 | — | 19 |
+| 1023 | [2931639](../reports/2931639.md) | ActionView sanitize helper bypass with style | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rails | Medium — CVSS 6.1 | — | 19 |
+| 1024 | [3302518](../reports/3302518.md) | ## Title  Heap Use-After-Free Vulnerability in `curl` L | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 19 |
+| 1025 | [1782514](../reports/1782514.md) | CVE-2022-45402: Apache Airflow: Open redirect during lo | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Medium | — | 19 |
+| 1026 | [1331281](../reports/1331281.md) | Stored XSS on 1.4.0 | [ImpressCMS](../by-program/impresscms.md) | https://github.com/impresscms/impresscms | Medium — CVSS 4.8 | — | 19 |
+| 1027 | [2792484](../reports/2792484.md) | When curl uses Schannel as TLS backend, it fails to enf | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 19 |
+| 1028 | [3013913](../reports/3013913.md) | [CVE-2025-27219] Denial of Service in CGI::Cookie.parse | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/ruby | Medium | — | 19 |
+| 1029 | [1358977](../reports/1358977.md) | When sharing a Deck card in conversation the metaData c | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Medium — CVSS 5.0 | — | 19 |
+| 1030 | [1547048](../reports/1547048.md) | CVE-2022-27776: Auth/cookie leak on redirect  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 19 |
+| 1031 | [2110945](../reports/2110945.md) | Memcached used as RateLimiter backend is no-op | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.3 | — | 19 |
+| 1032 | [3295738](../reports/3295738.md) | Account/Repository Takeover via Abandoned GitHub Userna | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 19 |
+| 1033 | [3403727](../reports/3403727.md) | Reflected XSS in /admin/banner-zone.php (v6.0.0+) | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.1 | — | 18 |
+| 1034 | [2092749](../reports/2092749.md) | Bypass network import restriction via data URL | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 18 |
+| 1035 | [3584491](../reports/3584491.md) | LM Challenge-Response Hash Always Sent in SMB Authentic | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 18 |
+| 1036 | [2987782](../reports/2987782.md) | Possible DoS by memory exhaustion in net/imap  | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/ruby | Medium | — | 18 |
+| 1037 | [1337422](../reports/1337422.md) | Folder architecture and Filesizes of private file drop  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium | — | 18 |
+| 1038 | [328270](../reports/328270.md) | XSS vulnerability in sanitize-method when parsing link' | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 6.7 | — | 18 |
+| 1039 | [3669637](../reports/3669637.md) | CVE-2026-6253: proxy credentials leak over redirect-to  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 18 |
+| 1040 | [3584865](../reports/3584865.md) | In curl's SASL OAUTHBEARER authentication, including th | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 17 |
+| 1041 | [3356088](../reports/3356088.md) | Race condition on global `gss_context` during SOCKS5 GS | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 17 |
+| 1042 | [2416725](../reports/2416725.md) | CVE-2024-2466: TLS certificate check bypass with mbedTL | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 5.3 | — | 17 |
+| 1043 | [619484](../reports/619484.md) | User with read-only access to a share can gain write ac | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.8 | — | 17 |
+| 1044 | [2289333](../reports/2289333.md) | see card comments after remove shared board | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | Medium — CVSS 4.3 | — | 17 |
+| 1045 | [1850407](../reports/1850407.md) | Chat room member disclosure via autocomplete API | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Medium — CVSS 4.2 | — | 17 |
+| 1046 | [605915](../reports/605915.md) | Reflected XSS / Markup Injection in `index.php/svg/core | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 6.5 | — | 17 |
+| 1047 | [1895976](../reports/1895976.md) | Users can set up workflows using restricted and invisib | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 6.5 | — | 17 |
+| 1048 | [3403450](../reports/3403450.md) | Information Disclosure via Verbose Error Messages | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 17 |
+| 1049 | [2095061](../reports/2095061.md) | Jitsi: Bridge Message Spoofing due to Improper JSON Han | [8x8](../by-program/8x8-bounty.md) | https://github.com/jitsi | Medium | — | 17 |
+| 1050 | [3511792](../reports/3511792.md) | HashDoS in V8 | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.9 | — | 17 |
+| 1051 | [3595753](../reports/3595753.md) | Connection Reuse Ignores OAuth Bearer Token Mismatch | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 17 |
+| 1052 | [2209665](../reports/2209665.md) | Secrets can be unmasked in the "Rendered Template" | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Medium — CVSS 6.5 | — | 17 |
+| 1053 | [3455037](../reports/3455037.md) | Certificate Hostname Validation Bypass via Leading Dot  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 17 |
+| 1054 | [431561](../reports/431561.md) | Specially constructed multi-part requests cause multi-s | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 5.3 | — | 17 |
+| 1055 | [3779690](../reports/3779690.md) | Stored XSS in Rocket.Chat HTML File Export — Unauthenti | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | Medium — CVSS 5.4 | — | 16 |
+| 1056 | [3401464](../reports/3401464.md) | Information Disclosure via “Add user” lookup in Account | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 16 |
+| 1057 | [1977168](../reports/1977168.md) | XSS exploit of RDoc documentation generated by rdoc (CV | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium — CVSS 5.4 | — | 16 |
+| 1058 | [275269](../reports/275269.md) | Gem signature forgery | [RubyGems](../by-program/rubygems.md) | https://github.com/rubygems/rubygems | Medium — CVSS 5.5 | — | 16 |
+| 1059 | [3481595](../reports/3481595.md) | SMTP CRLF Injection & Protocol Desynchronization in lib | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 16 |
+| 1060 | [395944](../reports/395944.md) | Reflected XSS  in the npm module express-cart. | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | express-cart | Medium — CVSS 4.8 | — | 16 |
+| 1061 | [1685979](../reports/1685979.md) | DoS via Playbook  | [Mattermost](../by-program/mattermost.md) | Mattermost Plugins | Medium — CVSS 4.3 | — | 16 |
+| 1062 | [3680038](../reports/3680038.md) | Digest Auth State Leak on Cross-Origin Redirect via Net | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 16 |
+| 1063 | [2108342](../reports/2108342.md) | Error when editing a calendar appointment returns stack | [Nextcloud](../by-program/nextcloud.md) | nextcloud/calendar | Medium — CVSS 4.3 | — | 16 |
+| 1064 | [2269177](../reports/2269177.md) | Node.js is vulnerable to the Marvin Attack (timing vari | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 16 |
+| 1065 | [1826048](../reports/1826048.md) | CVE-2023-23916: HTTP multi-header compression denial of | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 5.3 | — | 16 |
+| 1066 | [775693](../reports/775693.md) | Reflected XSS on www/delivery/afr.php | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 16 |
+| 1067 | [952349](../reports/952349.md) | Possible denial of service when entering a loooong pass | [Nextcloud](../by-program/nextcloud.md) | nextcloud/password_policy | Medium — CVSS 5.3 | — | 16 |
+| 1068 | [3124490](../reports/3124490.md) | Speculative Execution Side-Channel in `curl`  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 16 |
+| 1069 | [3632427](../reports/3632427.md) | Unbounded GZIP Decompression Leading to Event-Loop Star | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 16 |
+| 1070 | [3642555](../reports/3642555.md) | CVE-2026-5545: wrong reuse of HTTP Negotiate connection | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 16 |
+| 1071 | [1647287](../reports/1647287.md) | Disabling context isolation, nodeIntegrationInSubFrames | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/Electron | Medium | — | 16 |
+| 1072 | [748765](../reports/748765.md) | [Total.js] Path traversal vulnerability allows to read  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | total.js | Medium — CVSS 5.3 | — | 16 |
+| 1073 | [3355213](../reports/3355213.md) | Use-after-free when POST body buffer is freed before tr | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 16 |
+| 1074 | [245833](../reports/245833.md) | The user, who was deleted from Github Organization, sti | [GSA Bounty](../by-program/gsa_bbp.md) | https://github.com/18f/federalist | Medium | — | 16 |
+| 1075 | [986365](../reports/986365.md) | Reflected XSS on /www/delivery/afr.php (bypass of repor | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium | — | 16 |
+| 1076 | [2990139](../reports/2990139.md) | Format string vulnerability, curl_msnprintf() function  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 15 |
+| 1077 | [495515](../reports/495515.md) | Reflected XSS: Taxonomy Converter via tax parameter | [WordPress](../by-program/wordpress.md) | Official WordPress plugins | Medium | — | 15 |
+| 1078 | [3677759](../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 15 |
+| 1079 | [1955370](../reports/1955370.md) | Incorrect handling of certain characters passed to the  | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 4.3 | — | 15 |
+| 1080 | [1357948](../reports/1357948.md) | Attacker can bypass authentication build on ingress ext | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/ingress-ng | Medium — CVSS 6.5 | — | 15 |
+| 1081 | [867052](../reports/867052.md) | Access Control: Inject tasks into other users decks | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.1 | — | 15 |
+| 1082 | [1306942](../reports/1306942.md) | Use of a Broken or Risky Cryptographic Algorithm | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium | — | 15 |
+| 1083 | [403703](../reports/403703.md) | List any file in the folder by using path traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | simplehttpserver | Medium — CVSS 6.8 | — | 15 |
+| 1084 | [1094063](../reports/1094063.md) | Take over a mail account due missing validation of acco | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Medium — CVSS 5.4 | — | 15 |
+| 1085 | [245172](../reports/245172.md) | Double Stored Cross-Site scripting in the admin panel | [GSA Bounty](../by-program/gsa_bbp.md) | https://github.com/18f/federalist | Medium | — | 15 |
+| 1086 | [1706248](../reports/1706248.md) | Guests can continue to receive video streams from call  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Medium — CVSS 6.6 | — | 15 |
+| 1087 | [1398706](../reports/1398706.md) | Google storage bucket takeover which is used to load JS | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/release | Medium — CVSS 5.3 | — | 14 |
+| 1088 | [3418528](../reports/3418528.md) | Unsafe use of strcpy in Curl_ldap_err2string (packages/ | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 14 |
+| 1089 | [690010](../reports/690010.md) | OS Command Injection on Jison [all-parser-ports] | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | jison | Medium | — | 14 |
+| 1090 | [1269242](../reports/1269242.md) | CVE-2021-22945: UAF and double-free in MQTT sending | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 14 |
+| 1091 | [1095612](../reports/1095612.md) | Node Validation Admission does not observe all oldObjec | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/apiserver | Medium — CVSS 6.5 | — | 14 |
+| 1092 | [1767503](../reports/1767503.md) | Reference caching can leak data to unauthorized users | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | Medium — CVSS 5.4 | — | 14 |
+| 1093 | [2271054](../reports/2271054.md) | DoS in bigdecimal's sqrt function due to miscalculation | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium | — | 14 |
+| 1094 | [3689633](../reports/3689633.md) | Hidden/restricted tags can be mutated through synonym I | [Discourse](../by-program/discourse.md) | https://github.com/discourse/discourse | Medium — CVSS 4.3 | — | 14 |
+| 1095 | [2859735](../reports/2859735.md) | curl --continue-at confusion | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 14 |
+| 1096 | [508490](../reports/508490.md) | Nextcloud domain and name of every user leaked to looku | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 6.8 | — | 14 |
+| 1097 | [3636044](../reports/3636044.md) | HTTP/2 PUSH_PROMISE header loss on OOM bypasses scheme  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 14 |
+| 1098 | [788883](../reports/788883.md) | [nested-property] Prototype Pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 5.9 | — | 14 |
+| 1099 | [1552110](../reports/1552110.md) | OAUTH2 bearer not-checked for connection re-use | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Medium | — | 14 |
+| 1100 | [1895874](../reports/1895874.md) | Responsive Server-side Request Forgery (SSRF) | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Medium — CVSS 4.3 | — | 14 |
+| 1101 | [1736327](../reports/1736327.md) | DOM XSS at `https://adobedocs.github.io/indesign-api-do | [Adobe](../by-program/adobe.md) | https://github.com/adobe/* | Medium — CVSS 6.1 | — | 14 |
+| 1102 | [369086](../reports/369086.md) | URL spoofing in Brave for macOS | [Brave Software](../by-program/brave.md) | https://github.com/brave/browser-laptop | Medium | — | 14 |
+| 1103 | [903872](../reports/903872.md) | Remote Code Execution through "Files_antivirus" plugin | [ownCloud](../by-program/owncloud.md) | owncloud/core | Medium | — | 14 |
+| 1104 | [297434](../reports/297434.md) | Unauthenticated Reflected XSS in admin dashboard | [Deconf](../by-program/deconf_com.md) | https://github.com/deconf/Google-Analyti | Medium — CVSS 4.7 | — | 13 |
+| 1105 | [390881](../reports/390881.md) | Code Injection Vulnerability in morgan Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | morgan | Medium — CVSS 6.8 | — | 13 |
+| 1106 | [1893186](../reports/1893186.md) | Reflected XSS vulnerability with full CSP bypass in Nex | [Nextcloud](../by-program/nextcloud.md) | nextcloud/richdocuments | Medium — CVSS 4.3 | — | 13 |
+| 1107 | [3770482](../reports/3770482.md) | files_lock: a write-share collaborator can place a TYPE | [Nextcloud](../by-program/nextcloud.md) | nextcloud/files_lock | Medium — CVSS 6.5 | — | 13 |
+| 1108 | [803922](../reports/803922.md) | Missing resource identifier encoding may lead to securi | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 4.8 | — | 13 |
+| 1109 | [1255869](../reports/1255869.md) | private keys exposed on the GitHub repository | [MCUboot](../by-program/mcuboot.md) | https://github.com/mcu-tools/mcuboot | Medium | — | 13 |
+| 1110 | [3000639](../reports/3000639.md) | curl doesn't hide credentials in /proc/XXX/cmdline prov | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 13 |
+| 1111 | [697959](../reports/697959.md) | Only the file extensions are checked, not the MIME type | [Nextcloud](../by-program/nextcloud.md) | nextcloud/files_accesscontrol | Medium — CVSS 5.5 | — | 13 |
+| 1112 | [2841362](../reports/2841362.md) | GOAWAY HTTP/2 frames cause memory leak outside heap | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.3 | — | 13 |
+| 1113 | [497724](../reports/497724.md) | Stored XSS in Post Preview as Contributor | [WordPress](../by-program/wordpress.md) | WordPress Core | Medium | — | 13 |
+| 1114 | [1744212](../reports/1744212.md) | HTML INJECTION on https://adobedocs.github.io/JourneyAP | [Adobe](../by-program/adobe.md) | https://github.com/adobe/* | Medium | — | 12 |
+| 1115 | [837256](../reports/837256.md) | Improper Access Control in Buddypress core allows reply | [WordPress](../by-program/wordpress.md) | BuddyPress Core | Medium | — | 12 |
+| 1116 | [1787810](../reports/1787810.md) | Electron CVE-2022-35954 Delimiter Injection Vulnerabili | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/Electron | Medium | — | 12 |
+| 1117 | [2047168](../reports/2047168.md) | Any (non-admin) user from an instance can destroy any ( | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 6.5 | — | 12 |
+| 1118 | [1450117](../reports/1450117.md) | Nextcloud Deck : Possibility for anyone to add a stack  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | Medium — CVSS 5.0 | — | 12 |
+| 1119 | [1430405](../reports/1430405.md) | Dependency repository hijacking aka Repo Jacking from G | [RubyGems](../by-program/rubygems.md) | https://github.com/rubygems/rubygems | Medium | — | 12 |
+| 1120 | [369218](../reports/369218.md) | Navigation to restricted origins via "Open in new tab" | [Brave Software](../by-program/brave.md) | https://github.com/brave/browser-laptop | Medium | — | 12 |
+| 1121 | [378864](../reports/378864.md) | Torrent extension: Cross-origin downloading + "URL spoo | [Brave Software](../by-program/brave.md) | https://github.com/brave/browser-laptop | Medium | — | 12 |
+| 1122 | [1187820](../reports/1187820.md) | Reflected XSS on /admin/stats.php | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium | — | 12 |
+| 1123 | [2402845](../reports/2402845.md) | CVE-2024-2398: HTTP/2 push headers memory-leak | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 12 |
+| 1124 | [3969820](../reports/3969820.md) | CVE-2026-80256: wcurl backslash bypass | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 12 |
+| 1125 | [753971](../reports/753971.md) | [htmr] DOM-based XSS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 6.5 | — | 12 |
+| 1126 | [3680234](../reports/3680234.md) | libcurl reuses a learned RTSP Session header across dif | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 12 |
+| 1127 | [643442](../reports/643442.md) | Unauthenticated reflected XSS in preview_as_user functi | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Medium — CVSS 4.3 | — | 12 |
+| 1128 | [1753226](../reports/1753226.md) | CVE-2022-42916: HSTS bypass via IDN | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Medium | — | 12 |
+| 1129 | [1130416](../reports/1130416.md) | SHA512 incorrect on most/many releases | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Medium — CVSS 6.5 | — | 11 |
+| 1130 | [1820955](../reports/1820955.md) | CRLF Injection in Nodejs ‘undici’ via host | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 4.6 | — | 11 |
+| 1131 | [395845](../reports/395845.md) | url.parse() hostname spoofing via javascript: URIs | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.1 | — | 11 |
+| 1132 | [684603](../reports/684603.md) | CVE-2019-5482: Heap buffer overflow in TFTP when using  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 5.2 | — | 11 |
+| 1133 | [782764](../reports/782764.md) | xss in /users/[id]/set_tier endpoint | [RATELIMITED](../by-program/ratelimited.md) | https://github.com/gtsatsis/RLAPI-v3-OOP | Medium | — | 11 |
+| 1134 | [3153971](../reports/3153971.md) | Stack Buffer Overflow in curl's OpenSSL Provider Handli | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 11 |
+| 1135 | [4027511](../reports/4027511.md) | Encoded slash traversal in the IPFS/IPNS URL rewrite es | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 11 |
+| 1136 | [3414088](../reports/3414088.md) | SMTP CRLF Command Injection in CURLOPT_MAIL_FROM and CU | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 11 |
+| 1137 | [3303283](../reports/3303283.md) | Unauthenticated blind SSRF in Circles signature verific | [Nextcloud](../by-program/nextcloud.md) | nextcloud/circles | Medium — CVSS 6.2 | — | 11 |
+| 1138 | [3301553](../reports/3301553.md) | Cross-User Lock/Unlock via Absolute DAV Path | [Nextcloud](../by-program/nextcloud.md) | nextcloud/files_lock | Medium — CVSS 6.3 | — | 11 |
+| 1139 | [3180396](../reports/3180396.md) | Failure to strip Proxy-Authorization header on change i | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 11 |
+| 1140 | [610219](../reports/610219.md) | Stored XSS via Create Project (Add new translation proj | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/docker | Medium — CVSS 4.7 | — | 11 |
+| 1141 | [3650504](../reports/3650504.md) | Missing access control when linking banners or campaign | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 11 |
+| 1142 | [1553598](../reports/1553598.md) | CVE-2022-27778: curl removes wrong file on error | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 11 |
+| 1143 | [1334111](../reports/1334111.md) | CVE-2021-22946: Protocol downgrade required TLS bypasse | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 6.5 | — | 10 |
+| 1144 | [1178562](../reports/1178562.md) | imap: StartTLS stripping attack (CVE-2016-0772). | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium — CVSS 6.5 | — | 10 |
+| 1145 | [570563](../reports/570563.md) | [http-file-server] Stored XSS in the filename when dire | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 5.4 | — | 10 |
+| 1146 | [719856](../reports/719856.md) | Prototype pollution in dot-prop | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 6.3 | — | 10 |
+| 1147 | [1641088](../reports/1641088.md) | Last video frame is still sent after video is disabled  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Medium — CVSS 4.2 | — | 10 |
+| 1148 | [1153138](../reports/1153138.md) | Improper input-size validation on the user new session  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.3 | — | 10 |
+| 1149 | [1374512](../reports/1374512.md) | The Host Authorization middleware in Action Pack is vul | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rails | Medium | — | 10 |
+| 1150 | [819717](../reports/819717.md) | IPv4 only clusters susceptible to MitM attacks via IPv6 | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Medium — CVSS 6.0 | — | 10 |
+| 1151 | [3403880](../reports/3403880.md) | Logical Flaw in curl_url_set Leads to Inconsistent Quer | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 10 |
+| 1152 | [262620](../reports/262620.md) | Gratipay rails secret token (secret_key_base) publicly  | [Gratipay](../by-program/gratipay.md) | https://github.com/gratipay/bot | Medium | — | 10 |
+| 1153 | [1765631](../reports/1765631.md) | Potential directory traversal in OC\Files\Node\Folder:: | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.5 | — | 10 |
+| 1154 | [863979](../reports/863979.md) | Compromise of node can lead to compromise of pods on ot | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubelet | Medium — CVSS 6.8 | — | 10 |
+| 1155 | [1102018](../reports/1102018.md) | Stored unauth XSS in calendar event via CSRF | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Medium — CVSS 4.3 | — | 10 |
+| 1156 | [3226502](../reports/3226502.md) | arbitrary file read via `file://` path traversal with ` | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 10 |
+| 1157 | [1813831](../reports/1813831.md) | CVE-2022-43551: Another HSTS bypass via IDN | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Medium | — | 10 |
+| 1158 | [3400761](../reports/3400761.md) | curl’s persistence files inherit world-readable/writabl | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 10 |
+| 1159 | [1350444](../reports/1350444.md) | A bypass of adding remote files in concrete5 FIlemanage | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Medium — CVSS 5.4 | — | 10 |
+| 1160 | [319576](../reports/319576.md) | `protobufjs` is vulnerable to ReDoS when parsing crafte | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | protobufjs | Medium — CVSS 4.5 | — | 10 |
+| 1161 | [3816840](../reports/3816840.md) | HTTPS Agent PFX object-array key collision allows mTLS  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 4.1 | — | 10 |
+| 1162 | [3506873](../reports/3506873.md) | Shared smart albums in the Photos app can expose files  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/photos | Medium — CVSS 6.5 | — | 10 |
+| 1163 | [1211160](../reports/1211160.md) | Node Installer Local Privilege Escalation  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.7 | — | 10 |
+| 1164 | [1565622](../reports/1565622.md) | CVE-2022-30115: HSTS bypass via trailing dot | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Medium | — | 10 |
+| 1165 | [1788222](../reports/1788222.md) | Document content of files can be obtained through Colla | [Nextcloud](../by-program/nextcloud.md) | nextcloud/richdocuments | Medium — CVSS 5.8 | — | 10 |
+| 1166 | [3633534](../reports/3633534.md) | CRLF Injection in HAProxy PROXY Protocol via CURLOPT_HA | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 9 |
+| 1167 | [463380](../reports/463380.md) | [webpack-bundle-analyzer] Cross-site Scripting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium | — | 9 |
+| 1168 | [3559715](../reports/3559715.md) | Node.js Permission Model bypass: UDS server bind/listen | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.3 | — | 9 |
+| 1169 | [1553841](../reports/1553841.md) | CVE-2022-27780: percent-encoded path separator in URL h | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 9 |
+| 1170 | [3480039](../reports/3480039.md) | WebSocket Logic Error: Control Frame (PING/PONG) Starva | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 9 |
+| 1171 | [390865](../reports/390865.md) | Command Injection Vulnerability in libnmap Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | libnmap | Medium — CVSS 6.8 | — | 9 |
+| 1172 | [1202590](../reports/1202590.md) | Webauthn tokens are not removed on user deletion | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium | — | 9 |
+| 1173 | [1994585](../reports/1994585.md) | Cache purge requests are not authenticated | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 9 |
+| 1174 | [3156384](../reports/3156384.md) | Heap buffer overflow vulnerability in conncache.c: inco | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 9 |
+| 1175 | [3484506](../reports/3484506.md) | CRLF Injection in Gopher Protocol (`lib/gopher.c`) | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 9 |
+| 1176 | [1524692](../reports/1524692.md) | HTTP Request Smuggling Due To Improper Delimiting of He | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 9 |
+| 1177 | [3293884](../reports/3293884.md) | Vulnerability Report: Local File Disclosure via file:// | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 9 |
+| 1178 | [3470073](../reports/3470073.md) | Heap Buffer Over-Read via Malicious SMB Server READ_AND | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 9 |
+| 1179 | [3648681](../reports/3648681.md) | Improper Input Validation — HTTP Response Parser Uncond | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 9 |
+| 1180 | [1097217](../reports/1097217.md) | Reflected XSS on /admin/stats.php | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium | — | 9 |
+| 1181 | [3608558](../reports/3608558.md) | Blind POST SSRF via Web Push Notification Endpoint | [phpBB](../by-program/phpbb.md) | https://github.com/phpbb/phpbb | Medium — CVSS 5.9 | — | 9 |
+| 1182 | [1808079](../reports/1808079.md) | Permissions not respected when copying entire group fol | [Nextcloud](../by-program/nextcloud.md) | nextcloud/groupfolders | Medium — CVSS 6.5 | — | 9 |
+| 1183 | [774896](../reports/774896.md) | Kubelet resource exhaustion attack via metric label car | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Medium — CVSS 5.0 | — | 9 |
+| 1184 | [355458](../reports/355458.md) | [statics-server] XSS via injected iframe in file name w | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | statics-server | Medium — CVSS 6.7 | — | 9 |
+| 1185 | [3395218](../reports/3395218.md) | Use of Deprecated strcpy() with Fixed-Size Buffers in P | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 9 |
+| 1186 | [373721](../reports/373721.md) | URL spoofing using protocol handlers | [Brave Software](../by-program/brave.md) | https://github.com/brave/browser-laptop | Medium | — | 9 |
+| 1187 | [3825141](../reports/3825141.md) | API token sent to URL dictated by an untrusted project  | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/wlc | Medium — CVSS 6.3 | — | 8 |
+| 1188 | [390848](../reports/390848.md) | Command Injection is ps Package | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | ps | Medium — CVSS 6.8 | — | 8 |
+| 1189 | [1656627](../reports/1656627.md) | Rails::Html::SafeListSanitizer vulnerable to XSS when c | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 4.7 | — | 8 |
+| 1190 | [3911605](../reports/3911605.md) | SMTP CRLF injection in custom SMTP recipient operand al | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 8 |
+| 1191 | [833782](../reports/833782.md) | Allow authenticated users can edit, trash,and add new i | [WordPress](../by-program/wordpress.md) | BuddyPress Core | Medium | — | 8 |
+| 1192 | [457032](../reports/457032.md) | Github wikis are editable by anyone  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Medium | — | 8 |
+| 1193 | [1064149](../reports/1064149.md) | Improper Input Validation on User's Location on PUT /Wh | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | https://github.com/WorldHealthOrganizati | Medium — CVSS 4.6 | — | 8 |
+| 1194 | [1565619](../reports/1565619.md) | CVE-2022-27780: percent-encoded path separator in URL h | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Medium | — | 8 |
+| 1195 | [3417428](../reports/3417428.md) | libcurl MQTT `CURLOPT_POSTFIELDSIZE_LARGE` overflow lea | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 8 |
+| 1196 | [1530898](../reports/1530898.md) | Rails::Html::SafeListSanitizer vulnerable to xss attack | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 6.5 | — | 8 |
+| 1197 | [454365](../reports/454365.md) | Prototype pollution attack through jQuery $.extend | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | jQuery | Medium — CVSS 5.6 | — | 8 |
+| 1198 | [310690](../reports/310690.md) | [crud-file-server] Path Traversal allows to read arbitr | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | crud-file-server | Medium | — | 8 |
+| 1199 | [3404025](../reports/3404025.md) | SOCKS5 Heap Buffer Overflow via Malicious HTTP Redirect | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 8 |
+| 1200 | [1337178](../reports/1337178.md) | objectId in share location can be set to open arbitrary | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Medium | — | 8 |
+| 1201 | [3427343](../reports/3427343.md) | Off-by-One Buffer Overflow in SMB Path Handler | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 8 |
+| 1202 | [3466883](../reports/3466883.md) | Curl Alt-Svc Parser Stack Buffer Overflow | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 8 |
+| 1203 | [2104566](../reports/2104566.md) | (CVE-2023-32006) Permissions policies can impersonate o | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/nodejs/node | Medium | — | 8 |
+| 1204 | [360727](../reports/360727.md) | [markdown-pdf] Local file reading | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | markdown-pdf | Medium — CVSS 5.3 | — | 8 |
+| 1205 | [3466896](../reports/3466896.md) | Heap Overflow in cURL AmigaOS Socket Implementation | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 8 |
+| 1206 | [3650582](../reports/3650582.md) | Missing access control when linking trackers to campaig | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 8 |
+| 1207 | [2621057](../reports/2621057.md) | libcurl: freeing stack buffer during x509 certificate p | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Medium | — | 8 |
+| 1208 | [1165748](../reports/1165748.md) | 'net/ftp': Uncontrolled Resource Consumption (Memory/CP | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium — CVSS 5.9 | — | 8 |
+| 1209 | [1402249](../reports/1402249.md) | Control character filtering misses leading and trailing | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.3 | — | 8 |
+| 1210 | [1025575](../reports/1025575.md) | Default behavior of Fastifys versioned routes can be us | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | fastify | Medium — CVSS 5.9 | — | 8 |
+| 1211 | [1161691](../reports/1161691.md) | OS Command Injection in 'rdoc' documentation generator | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium — CVSS 6.4 | — | 7 |
+| 1212 | [1557449](../reports/1557449.md) | CVE-2022-30115: HSTS bypass via trailing dot | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 7 |
+| 1213 | [1176461](../reports/1176461.md) | CVE-2021-22898: TELNET stack contents disclosure | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 5.5 | — | 7 |
+| 1214 | [1927480](../reports/1927480.md) | DiffieHellman doesn't generate keys after setting a key | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 7 |
+| 1215 | [728047](../reports/728047.md) | [git-promise] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 6.2 | — | 7 |
+| 1216 | [2001873](../reports/2001873.md) | HTTP Request Smuggling via Empty headers separated by C | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 7 |
+| 1217 | [1167767](../reports/1167767.md) | Unexpected federated shares added via public link | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.3 | — | 7 |
+| 1218 | [472391](../reports/472391.md) | Stored XSS @ /engage/<project_slug> | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/weblate | Medium | — | 7 |
+| 1219 | [859962](../reports/859962.md) | Bypass apiserver proxy filter | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Medium — CVSS 6.8 | — | 7 |
+| 1220 | [3908163](../reports/3908163.md) | HTTPS Agent reuses TLS authentication state across dist | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.8 | — | 7 |
+| 1221 | [1097979](../reports/1097979.md) | Reflected XSS on /admin/campaign-zone-zones.php | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium | — | 7 |
+| 1222 | [1265225](../reports/1265225.md) | Multiple server ssh usernames leaked in your github rep | [Ian Dunn](../by-program/iandunn-projects.md) | GitHub repositories | Medium | — | 7 |
+| 1223 | [1654310](../reports/1654310.md) | Incomplete fix for CVE-2022-32209 (XSS in Rails::Html:: | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 4.7 | — | 7 |
+| 1224 | [732415](../reports/732415.md) | The authenticity_token can be reversed and used to forg | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 5.9 | — | 7 |
+| 1225 | [1680241](../reports/1680241.md) | DoS via Automatic Response Message | [Mattermost](../by-program/mattermost.md) | Mattermost Source Code | Medium — CVSS 5.0 | — | 7 |
+| 1226 | [566056](../reports/566056.md) | [larvitbase-api] Unintended Require | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 5.4 | — | 7 |
+| 1227 | [4016541](../reports/4016541.md) | TLS session resumption client cert bypass with CURLOPT_ | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 7 |
+| 1228 | [1081878](../reports/1081878.md) | Arbitrary File Deletion via Path Traversal in image-edi | [ImpressCMS](../by-program/impresscms.md) | https://github.com/impresscms/impresscms | Medium — CVSS 6.3 | — | 7 |
+| 1229 | [691977](../reports/691977.md) | [reveal.js] XSS by calling arbitrary method via postMes | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | reveal.js | Medium — CVSS 5.4 | — | 7 |
+| 1230 | [3468098](../reports/3468098.md) | Certificate Pinning Bypass with wolfSSL backend over HT | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 7 |
+| 1231 | [380878](../reports/380878.md) | Prototype pollution attack (defaults-deep / constructor | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | defaults-deep | Medium — CVSS 6.1 | — | 7 |
+| 1232 | [1524555](../reports/1524555.md) | HTTP Request Smuggling Due to Flawed Parsing of Transfe | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 7 |
+| 1233 | [778803](../reports/778803.md) | Compromise of auth via subset/superset namespace names. | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/ingress-ng | Medium — CVSS 6.6 | — | 7 |
+| 1234 | [1946470](../reports/1946470.md) | Dependency Policy Bypass via process.binding | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.5 | — | 7 |
+| 1235 | [1722065](../reports/1722065.md) | CVE-2022-42915: HTTP proxy double-free | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 7 |
+| 1236 | [1755083](../reports/1755083.md) | CVE-2022-43551: Another HSTS bypass via IDN | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 7 |
+| 1237 | [1350755](../reports/1350755.md) | Tokenless GUI Authentication | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/dashboard | Medium — CVSS 6.3 | — | 7 |
+| 1238 | [1334763](../reports/1334763.md) | CVE-2021-22947: STARTTLS protocol injection via MITM | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 5.3 | — | 7 |
+| 1239 | [950192](../reports/950192.md) | [@knutkirkhorn/free-space] - Command Injection through  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 6.8 | — | 7 |
+| 1240 | [1501679](../reports/1501679.md) | HTTP Request Smuggling Due to Incorrect Parsing of Mult | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 7 |
+| 1241 | [1582160](../reports/1582160.md) | Bypass for Domain-level redirects (Unvalidated Redirect | [GitLab](../by-program/gitlab.md) | https://gitlab.com/gitlab-org/gitlab-pag | Medium — CVSS 4.1 | — | 7 |
+| 1242 | [1665156](../reports/1665156.md) | HTTP Request Smuggling Due to Incorrect Parsing of Mult | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 6 |
+| 1243 | [837018](../reports/837018.md) | Privilege Escalation in BuddyPress core allows Moderate | [WordPress](../by-program/wordpress.md) | BuddyPress Core | Medium | — | 6 |
+| 1244 | [394861](../reports/394861.md) | Incorrect Permission Assignment for Critical Resource | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Access con | Medium | — | 6 |
+| 1245 | [3795657](../reports/3795657.md) | dns.resolveAny() Aborts the Node.js Process When a DNS  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.9 | — | 6 |
+| 1246 | [3938185](../reports/3938185.md) | Windows SSPI connection-pool probe can reuse a connecti | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 6 |
+| 1247 | [1579820](../reports/1579820.md) | Ownership check missing when updating or deleting attac | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Medium — CVSS 5.4 | — | 6 |
+| 1248 | [1526328](../reports/1526328.md) | CVE-2022-22576: OAUTH2 bearer bypass in connection re-u | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 5.1 | — | 6 |
+| 1249 | [1404789](../reports/1404789.md) | Ruby - Regular Expression Denial of Service Vulnerabili | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/ruby | Medium | — | 6 |
+| 1250 | [1555796](../reports/1555796.md) | CVE-2022-27782: TLS and SSH connection too eager reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 6 |
+| 1251 | [2864859](../reports/2864859.md) | -H with space prefix leads to previous header injection | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 6 |
+| 1252 | [3723248](../reports/3723248.md) | HTTP Request Smuggling via Connection: close<TAB> in No | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.8 | — | 6 |
+| 1253 | [1573634](../reports/1573634.md) | CVE-2022-32207: Unpreserved file permissions | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 6 |
+| 1254 | [311998](../reports/311998.md) | [uppy] Stored XSS due to crafted SVG file | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Uppy | Medium | — | 6 |
+| 1255 | [3966955](../reports/3966955.md) | TLS session cache case-folds CA paths and bypasses the  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 6 |
+| 1256 | [478957](../reports/478957.md) | Stored XSS/HTML injection in autocomplete suggestions f | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.5 | — | 6 |
+| 1257 | [1455248](../reports/1455248.md) | Buffer Overflow in optimized_escape_html method | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/ruby | Medium | — | 6 |
+| 1258 | [439107](../reports/439107.md) | Prototype pollution attack (lutils-merge) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium | — | 6 |
+| 1259 | [579560](../reports/579560.md) | [larvitbase-www] Unintended Require | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 5.4 | — | 6 |
+| 1260 | [686823](../reports/686823.md) | CVE-2019-5481: krb5: double-free in read_data() after r | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 6.3 | — | 6 |
+| 1261 | [800356](../reports/800356.md) | [express-cart] Wide CSRF in application | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | express-cart | Medium — CVSS 5.7 | — | 6 |
+| 1262 | [2552192](../reports/2552192.md) | Denial of Service in curl Request - HTTP headers eat al | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 6.3 | — | 6 |
+| 1263 | [951249](../reports/951249.md) | [freespace] Command Injection due to Lack of Sanitizati | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium | — | 6 |
+| 1264 | [3606773](../reports/3606773.md) | Stored XSS via SVG Upload — check_content() Blocklist B | [phpBB](../by-program/phpbb.md) | https://github.com/phpbb/phpbb | Medium — CVSS 6.7 | — | 6 |
+| 1265 | [403692](../reports/403692.md) | [tianma-static] Stored xss on filename | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | tianma-static | Medium — CVSS 6.7 | — | 6 |
+| 1266 | [768327](../reports/768327.md) | Unauthenticated HTML Injection Stored - ContactUs form | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Medium | — | 6 |
+| 1267 | [3531737](../reports/3531737.md) | Memory leak in Node.js HTTP/2 server via WINDOW_UPDATE  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.3 | — | 6 |
+| 1268 | [3580511](../reports/3580511.md) | ActiveStorage Disk Service Path Traversal via Custom Bl | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 6.5 | — | 6 |
+| 1269 | [282176](../reports/282176.md) | Unauthenticated hidden groups disclosure via Ajax group | [WordPress](../by-program/wordpress.md) | BuddyPress Core | Medium — CVSS 6.1 | — | 6 |
+| 1270 | [1169033](../reports/1169033.md) | Targeted phishing attacks in Login flow v2 | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 6.8 | — | 6 |
+| 1271 | [1018146](../reports/1018146.md) | Potential DDoS when posting long data into workflow val | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.7 | — | 6 |
+| 1272 | [1966492](../reports/1966492.md) | fs.openAsBlob() bypasses permission system | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 4.4 | — | 6 |
+| 1273 | [1664019](../reports/1664019.md) | CVE-2022-35948: CRLF Injection in Nodejs ‘undici’ via C | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/nodejs/node | Medium | — | 6 |
+| 1274 | [1675191](../reports/1675191.md) | HTTP Request Smuggling Due to Incorrect Parsing of Head | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 6 |
+| 1275 | [538938](../reports/538938.md) | [domokeeper] Unintended Require | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 5.9 | — | 6 |
+| 1276 | [2094235](../reports/2094235.md) | Integrity checks according to policies can be circumven | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 6 |
+| 1277 | [894308](../reports/894308.md) | Arbitrary code execution via untrusted schemas in is-my | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium | — | 6 |
+| 1278 | [3780806](../reports/3780806.md) | Reflected XSS via unsanitised refresh parameter in zone | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.1 | — | 5 |
+| 1279 | [722748](../reports/722748.md) | Bypass configured 2FA provider with another provider th | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.6 | — | 5 |
+| 1280 | [1630336](../reports/1630336.md) | CVE-2022-32213 bypass via obs-fold mechanic | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 5 |
+| 1281 | [836187](../reports/836187.md) | CSRF in Profile Fields allows deleting any field in Bud | [WordPress](../by-program/wordpress.md) | BuddyPress Core | Medium | — | 5 |
+| 1282 | [1553301](../reports/1553301.md) | CVE-2022-27779: cookie for trailing dot TLD | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 5 |
+| 1283 | [640532](../reports/640532.md) | Active Mixed Content over HTTPS | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 5 |
+| 1284 | [415329](../reports/415329.md) | Pull Request #12949 - Security Implications without CVE | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 5 |
+| 1285 | [914232](../reports/914232.md) | CSRF on comment post | [WordPress](../by-program/wordpress.md) | WordPress Core | Medium — CVSS 4.2 | — | 5 |
+| 1286 | [742588](../reports/742588.md) | Downgrade encryption scheme and break integrity through | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.3 | — | 5 |
+| 1287 | [495508](../reports/495508.md) |  Assertion `len == 1' failed, process aborted while str | [PuTTY (European Commission - DIGIT)](../by-program/putty_h1c.md) | https://www.chiark.greenend.org.uk/~sgta | Medium | — | 5 |
+| 1288 | [321686](../reports/321686.md) | `atob` allocates uninitialized Buffers when number is p | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | atob | Medium — CVSS 6.5 | — | 5 |
+| 1289 | [1321358](../reports/1321358.md) | XSS exploit of RDoc documentation generated by rdoc | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium | — | 5 |
+| 1290 | [1234760](../reports/1234760.md) | CVE-2021-22926: CURLOPT_SSLCERT mixup with Secure Trans | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 4.0 | — | 5 |
+| 1291 | [1213175](../reports/1213175.md) | CVE-2021-22922: Wrong content via metalink not discarde | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 5 |
+| 1292 | [509315](../reports/509315.md) | c3p0 may be exploited by a Billion Laughs Attack when l | [Central Security Project](../by-program/central-security-project.md) | Java Component in search.maven.org | Medium — CVSS 6.2 | — | 5 |
+| 1293 | [3653316](../reports/3653316.md) | Reflected XSS via clientid parameter in zone‑include.ph | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.1 | — | 5 |
+| 1294 | [342066](../reports/342066.md) | [bruteser] Path Traversal allows to read content of arb | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | bruteser | Medium — CVSS 6.5 | — | 5 |
+| 1295 | [3963330](../reports/3963330.md) | libcurl Digest/NTLM authentication ignores an explicit  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 5 |
+| 1296 | [1961655](../reports/1961655.md) | Renaming/aliasing relative symbolic links potentially r | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 5 |
+| 1297 | [1209681](../reports/1209681.md) | OOB read in libuv | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 5 |
+| 1298 | [1944515](../reports/1944515.md) | CVE-2023-28755: ReDoS vulnerability in URI | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/ruby | Medium — CVSS 6.5 | — | 5 |
+| 1299 | [3620748](../reports/3620748.md) | V1Plugin.Decrypt panics on empty ciphertext (Remote DoS | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/kubernetes-sigs/aws-e | Medium | — | 5 |
+| 1300 | [1886139](../reports/1886139.md) | HTTP multi-header compression denial of service | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Medium — CVSS 5.3 | — | 5 |
+| 1301 | [1808596](../reports/1808596.md) | Multiple OpenSSL error handling issues in nodejs crypto | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 4.3 | — | 5 |
+| 1302 | [429873](../reports/429873.md) | XSS by MathML at Active Storage | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium | — | 5 |
+| 1303 | [616770](../reports/616770.md) | Stored XSS in Conversations (both client and admin) whe | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Medium | — | 5 |
+| 1304 | [3893632](../reports/3893632.md) | Unauthenticated disclosure of draft/private/pending pos | [WordPress](../by-program/wordpress.md) | Secure Custom Fields | Medium — CVSS 5.3 | — | 5 |
+| 1305 | [1129996](../reports/1129996.md) | Create alias does not validate account id | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Medium — CVSS 5.0 | — | 5 |
+| 1306 | [4028616](../reports/4028616.md) | Memory exhaustion (DoS) via unbounded file read in `Enc | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/translatio | Medium | — | 5 |
+| 1307 | [3669623](../reports/3669623.md) | Stored XSS via Full Name field in userlog email entries | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 5.4 | — | 5 |
+| 1308 | [237232](../reports/237232.md) | Unauthenticated 'display name' information leak on enum | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.3 | — | 5 |
+| 1309 | [3795900](../reports/3795900.md) | node:sqlite SQLTagStore Iterator Replay Lets Attacker R | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.3 | — | 5 |
+| 1310 | [592525](../reports/592525.md) | Lack of input validation and sanitization in react-auto | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | react-autolinker-wrapper | Medium — CVSS 4.6 | — | 5 |
+| 1311 | [1663788](../reports/1663788.md) | [CVE-2022-35949]: undici.request vulnerable to SSRF usi | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/nodejs/node | Medium | — | 5 |
+| 1312 | [1697281](../reports/1697281.md) | Name collision of shared folders | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.5 | — | 5 |
+| 1313 | [789579](../reports/789579.md) | ActiveStorage direct upload fails to sign content-lengt | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 5.3 | — | 5 |
+| 1314 | [1568175](../reports/1568175.md) | Credential leak on redirect | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 5 |
+| 1315 | [2125679](../reports/2125679.md) | [CVE-2023-23913] DOM Based Cross-site Scripting in rail | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rails | Medium | — | 5 |
+| 1316 | [329950](../reports/329950.md) | [public] Stored XSS in the filename when directories li | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | public | Medium — CVSS 5.5 | — | 5 |
+| 1317 | [3483708](../reports/3483708.md) | Valid share tokens allow to access tempory upload files | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 6.3 | — | 5 |
+| 1318 | [1966499](../reports/1966499.md) | fs module's file watching is not restricted by --allow- | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 4.4 | — | 5 |
+| 1319 | [728040](../reports/728040.md) | [meta-git] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | meta-git | Medium — CVSS 6.2 | — | 4 |
+| 1320 | [358641](../reports/358641.md) | [serve] Stored XSS in the filename when directories lis | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | serve | Medium — CVSS 5.5 | — | 4 |
+| 1321 | [330351](../reports/330351.md) | `byte` allocates uninitialized buffers and reads data f | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | byte | Medium — CVSS 5.2 | — | 4 |
+| 1322 | [3783738](../reports/3783738.md) | XML‑RPC login leak exposes valid session ID enabling un | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 4 |
+| 1323 | [1954535](../reports/1954535.md) | OpenSSL engines can be used to bypass and/or disable th | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.3 | — | 4 |
+| 1324 | [296254](../reports/296254.md) | [serve-here] Static Web Server Directory Traversal via  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | serve-here | Medium | — | 4 |
+| 1325 | [1549461](../reports/1549461.md) | CURLOPT_SSH_HOST_PUBLIC_KEY_MD5 bypass if string not 32 | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 4 |
+| 1326 | [1213181](../reports/1213181.md) | CVE-2021-22923: Metalink download sends credentials | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 4 |
+| 1327 | [630227](../reports/630227.md) | Command Injection due to lack of sanitisation of tar.gz | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 6.4 | — | 4 |
+| 1328 | [3735180](../reports/3735180.md) | HTTPS proxy connection reuse lets one easy handle inher | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 4 |
+| 1329 | [3786077](../reports/3786077.md) | SOCKS5 no-auth accepted despite username/password-only  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 4 |
+| 1330 | [924393](../reports/924393.md) | PIN for passwordless WebAuthn is asked for but not veri | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.3 | — | 4 |
+| 1331 | [4037976](../reports/4037976.md) | Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypa | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/weblate | Medium | — | 4 |
+| 1332 | [3776535](../reports/3776535.md) | RTSP Digest auth state leaks across origins on reused l | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 4 |
+| 1333 | [1398617](../reports/1398617.md) | Broken Github Link Used in deployment docs of "github.c | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kompose | Medium | — | 4 |
+| 1334 | [678989](../reports/678989.md) | [crypto-js] Insecure entropy source - Math.random() | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | crypto-js | Medium — CVSS 4.8 | — | 4 |
+| 1335 | [3727743](../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 4.3 | — | 4 |
+| 1336 | [292797](../reports/292797.md) | ActionController::Parameters .each returns an unsafe ha | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 6.5 | — | 4 |
+| 1337 | [453820](../reports/453820.md) | [harp] File access even when they have been set to be i | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | harp | Medium — CVSS 5.3 | — | 4 |
+| 1338 | [1158824](../reports/1158824.md) | OS Command Injection in '/lib/un.rb -- Utilities to rep | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium — CVSS 6.4 | — | 4 |
+| 1339 | [637840](../reports/637840.md) | Path traversal in command line client | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | Medium — CVSS 4.5 | — | 4 |
+| 1340 | [1806223](../reports/1806223.md) | Reference fetch can saturate the server bandwidth for 1 | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.7 | — | 4 |
+| 1341 | [1570651](../reports/1570651.md) | CVE-2022-32206: HTTP compression denial of service | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 4 |
+| 1342 | [1063039](../reports/1063039.md) | Phar Deserialization Vulnerability via Logging Settings | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Medium — CVSS 6.4 | — | 4 |
+| 1343 | [430291](../reports/430291.md) | Prototype pollution attack in just-extend | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | just-extend | Medium — CVSS 5.7 | — | 4 |
+| 1344 | [1652903](../reports/1652903.md) | Exception logging in Sharepoint app reveals clear-text  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/sharepoint | Medium — CVSS 4.0 | — | 4 |
+| 1345 | [289313](../reports/289313.md) | [gem server] Stored XSS via crafted JavaScript URL incl | [RubyGems](../by-program/rubygems.md) | https://github.com/rubygems/rubygems | Medium | — | 4 |
+| 1346 | [1892780](../reports/1892780.md) | CVE-2023-27535: FTP too eager connection reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 4 |
+| 1347 | [3620753](../reports/3620753.md) | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/kubernetes-sigs/aws-e | Medium | — | 4 |
+| 1348 | [296305](../reports/296305.md) | [featurebook] Specification Server Directory Traversal  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | featurebook | Medium | — | 4 |
+| 1349 | [965914](../reports/965914.md) | `fs.realpath.native` on darwin may cause buffer overflo | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 4 |
+| 1350 | [899103](../reports/899103.md) | Man in the middle leading to root privilege escalation  | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Medium — CVSS 6.0 | — | 4 |
+| 1351 | [1954711](../reports/1954711.md) | user_oidc app is missing bruteforce protection | [Nextcloud](../by-program/nextcloud.md) | nextcloud/user_oidc | Medium — CVSS 5.5 | — | 4 |
+| 1352 | [1910810](../reports/1910810.md) | Apache HTTP Server: mod_proxy_uwsgi HTTP response split | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/httpd | Medium | — | 4 |
+| 1353 | [3920276](../reports/3920276.md) | Cookie jar load skips public suffix check on PSL builds | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 4 |
+| 1354 | [541502](../reports/541502.md) | [https-proxy-agent] Socket returned without TLS upgrade | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | https-proxy-agent | Medium — CVSS 6.1 | — | 4 |
+| 1355 | [1977258](../reports/1977258.md) | Stored XSS in RDoc hyperlinks through javascript scheme | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium — CVSS 5.4 | — | 4 |
+| 1356 | [1710652](../reports/1710652.md) | DNS rebinding in --inspect via invalid octal IP address | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.8 | — | 4 |
+| 1357 | [3872239](../reports/3872239.md) | Connector/J: malicious server crashes client JVM via un | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium — CVSS 4.1 | — | 4 |
+| 1358 | [833856](../reports/833856.md) | DoS for GCSArtifact.RealAll | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/test-infra | Medium — CVSS 4.3 | — | 4 |
+| 1359 | [398285](../reports/398285.md) | [serve] XSS via HTML tag injection in directory lisitin | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | serve | Medium — CVSS 5.5 | — | 4 |
+| 1360 | [356809](../reports/356809.md) | [exceljs] Possible XSS via cell value when worksheet is | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | exceljs | Medium — CVSS 6.8 | — | 4 |
+| 1361 | [1567257](../reports/1567257.md) | Memory leak in CURLOPT_XOAUTH2_BEARER | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 5.3 | — | 4 |
+| 1362 | [439120](../reports/439120.md) | Prototype pollution attack (upmerge) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 5.0 | — | 4 |
+| 1363 | [1361804](../reports/1361804.md) | 1-click DOS in fastify-static via directly passing user | [Fastify](../by-program/fastify.md) | https://github.com/fastify | Medium — CVSS 5.9 | — | 4 |
+| 1364 | [3658225](../reports/3658225.md) | HTTP/2 sessions never clean up after GOAWAY on invalid  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.3 | — | 4 |
+| 1365 | [1081137](../reports/1081137.md) | Incorrect Authorization Checks in /include/findusers.ph | [ImpressCMS](../by-program/impresscms.md) | https://github.com/impresscms/impresscms | Medium — CVSS 5.3 | — | 4 |
+| 1366 | [1397804](../reports/1397804.md) | open redirect to a remote website which can phish users | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Medium — CVSS 5.4 | — | 4 |
+| 1367 | [1623175](../reports/1623175.md) | Node 18 reads openssl.cnf from /home/iojs/build/... upo | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.6 | — | 4 |
+| 1368 | [3889667](../reports/3889667.md) | ACL cache collision lets a role inherit privileges from | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Access con | Medium — CVSS 6.4 | — | 3 |
+| 1369 | [296282](../reports/296282.md) | [augustine] Static Web Server Directory Traversal via C | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | augustine | Medium | — | 3 |
+| 1370 | [681986](../reports/681986.md) | [node-red] Stored XSS within Flow's - "Name" field  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | node-red | Medium — CVSS 4.6 | — | 3 |
+| 1371 | [3684603](../reports/3684603.md) | Stack exhaustion in MIME multipart reading with deeply  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
+| 1372 | [3781311](../reports/3781311.md) | Stored XSS in maintenance tools via unescaped entity na | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.4 | — | 3 |
+| 1373 | [3733984](../reports/3733984.md) | HSTS multi-trailing-dot bypass-ish: possible incomplete | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
+| 1374 | [1521610](../reports/1521610.md) | Denial of Service vulnerability in curl when parsing MQ | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 4.3 | — | 3 |
+| 1375 | [3963494](../reports/3963494.md) | RTSP CRLF injection in libcurl allows CURLOPT_RTSP_* va | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
+| 1376 | [692262](../reports/692262.md) | Path traversal in https://www.npmjs.com/package/http_se | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | http_server | Medium — CVSS 5.5 | — | 3 |
+| 1377 | [1070344](../reports/1070344.md) | ArcGIS Rest Service linked to unsecured survey data | [WHO COVID-19 Mobile App](../by-program/who-covid-19-mobile-app.md) | https://github.com/WorldHealthOrganizati | Medium | — | 3 |
+| 1378 | [3878649](../reports/3878649.md) | Reflected XSS via wrong permission check in conversion  | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.1 | — | 3 |
+| 1379 | [319629](../reports/319629.md) | `rgb2hex` is vulnerable to ReDoS when parsing crafted i | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | rgb2hex | Medium — CVSS 6.5 | — | 3 |
+| 1380 | [3923520](../reports/3923520.md) | CVE-2026-19931: Negotiate ambient user conn reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
+| 1381 | [685491](../reports/685491.md) | Persistent XSS on favorite via filename | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium | — | 3 |
+| 1382 | [1695596](../reports/1695596.md) | Node 18 reads openssl.cnf from /home/iojs/build/... upo | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.6 | — | 3 |
+| 1383 | [3878399](../reports/3878399.md) | Large-site Quick Edit reparses a Contributor display na | [WordPress](../by-program/wordpress.md) | WordPress Core | Medium | — | 3 |
+| 1384 | [530289](../reports/530289.md) | [harp] Path traversal using symlink | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | harp | Medium — CVSS 5.3 | — | 3 |
+| 1385 | [743505](../reports/743505.md) | Improper confidentiality protection of server-side encr | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.3 | — | 3 |
+| 1386 | [430831](../reports/430831.md) | Prototype pollution attack in node.extend | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | node.extend | Medium — CVSS 5.7 | — | 3 |
+| 1387 | [876751](../reports/876751.md) | Private RSA key and Server key exposed on the GitHub re | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Medium — CVSS 5.3 | — | 3 |
+| 1388 | [3994016](../reports/3994016.md) | Action Text to_markdown: <code>/<pre> content escapes i | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 4.3 | — | 3 |
+| 1389 | [1167817](../reports/1167817.md) | Federated shares are not password protected | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.9 | — | 3 |
+| 1390 | [1045844](../reports/1045844.md) | CVE-2020-8285: FTP wildcard stack overflow | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 6.5 | — | 3 |
+| 1391 | [1183302](../reports/1183302.md) | Default Nextcloud allows http federated shares | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium | — | 3 |
+| 1392 | [3238249](../reports/3238249.md) | Integer Overflow Risk in HTTP/2 Proxy Window Size Calcu | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
+| 1393 | [3981932](../reports/3981932.md) | CSRF in tracker invocation page | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 3 |
+| 1394 | [694930](../reports/694930.md) | [snekserve] Stored XSS via filenames HTML formatted | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium | — | 3 |
+| 1395 | [730121](../reports/730121.md) | [npm-git-publish] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | npm-git-publish | Medium — CVSS 6.8 | — | 3 |
+| 1396 | [296645](../reports/296645.md) | [lactate] Static Web Server Directory Traversal via Cra | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | lactate | Medium | — | 3 |
+| 1397 | [1704017](../reports/1704017.md) | CVE-2022-32221: POST following PUT confusion | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
+| 1398 | [570568](../reports/570568.md) | [min-http-server] Stored XSS in the filename when direc | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 5.4 | — | 3 |
+| 1399 | [3857258](../reports/3857258.md) | Reachable assertion in node:zlib sync API crashes the e | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.2 | — | 3 |
+| 1400 | [3776433](../reports/3776433.md) | TFTP upload ignores --continue-at / CURLOPT_RESUME_FROM | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
+| 1401 | [4088592](../reports/4088592.md) | CPU-based Denial of Service in translation-finder via O | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/translatio | Medium | — | 3 |
+| 1402 | [3747959](../reports/3747959.md) | curl --skip-existing has a TOCTOU race that lets a post | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
+| 1403 | [3795615](../reports/3795615.md) | Duplicate chunked Transfer-Encoding lets a malicious or | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
+| 1404 | [3383079](../reports/3383079.md) | SSRF via Improper Redirect Validation in Rocket.Chat oE | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | Medium — CVSS 5.0 | — | 3 |
+| 1405 | [593911](../reports/593911.md) | [public] Path traversal using symlink | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | public | Medium — CVSS 4.2 | — | 3 |
+| 1406 | [340208](../reports/340208.md) | Command injection in 'pdf-image' | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | pdf-image | Medium — CVSS 6.1 | — | 3 |
+| 1407 | [3780709](../reports/3780709.md) | Missing ownership validation allows cross‑manager track | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 3 |
+| 1408 | [4094236](../reports/4094236.md) |  Billion laughs entity expansion in Qt .ts discovery: a | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/translatio | Medium | — | 3 |
+| 1409 | [926638](../reports/926638.md) | curl overwrites local file with -J option if file non-r | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
+| 1410 | [3911968](../reports/3911968.md) | Heap use-after-free (write) in mev_forget_socket() via  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
+| 1411 | [3859000](../reports/3859000.md) | Formula injection in conversion tracking report export | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.7 | — | 3 |
+| 1412 | [661977](../reports/661977.md) | Github wikis are editable by anyone https://github.com/ | [Paragon Initiative Enterprises](../by-program/paragonie.md) | https://github.com/paragonie/password_lo | Medium | — | 3 |
+| 1413 | [3883840](../reports/3883840.md) | Cross-agency disclosure in website listing | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 3 |
+| 1414 | [3707747](../reports/3707747.md) | libcurl 8.20.0 incomplete fix for CVE-2026-7168: changi | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
+| 1415 | [3909248](../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append( | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium | — | 3 |
+| 1416 | [4098761](../reports/4098761.md) | HTTP/1.1 connection reuse returns unsolicited server da | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
+| 1417 | [3766217](../reports/3766217.md) | libmariadb ( mariadb-connector-c ): stack overflow via  | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium — CVSS 4.1 | — | 3 |
+| 1418 | [1300802](../reports/1300802.md) | Possible DOS in app with crashing `exceptions_app` | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium | — | 3 |
+| 1419 | [453513](../reports/453513.md) | Fix for CVE-2018-12122 can be bypassed via keep-alive r | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 3 |
+| 1420 | [328210](../reports/328210.md) | [sexstatic] HTML injection in directory name(s) leads t | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | sexstatic | Medium — CVSS 5.2 | — | 3 |
+| 1421 | [889160](../reports/889160.md) | Poll loop/hang on incomplete HTTP header | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 6.5 | — | 3 |
+| 1422 | [498852](../reports/498852.md) | XSS On Nextcloud Integrated with zimbra drive | [Nextcloud](../by-program/nextcloud.md) | nextcloud/3rdparty | Medium | — | 3 |
+| 1423 | [899069](../reports/899069.md) | Untrusted users able to run pending migrations in produ | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 6.5 | — | 3 |
+| 1424 | [3623149](../reports/3623149.md) | SSRF via User-Controlled Push proxyServer in Notificati | [Nextcloud](../by-program/nextcloud.md) | nextcloud/notifications | Medium — CVSS 5.4 | — | 3 |
+| 1425 | [633364](../reports/633364.md) | Command Injection in npm module name passed as an argum | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 6.4 | — | 3 |
+| 1426 | [319794](../reports/319794.md) | [m-server] HTML Injection in filenames displayed as dir | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | m-server | Medium — CVSS 6.0 | — | 3 |
+| 1427 | [3756699](../reports/3756699.md) | lib/ldap.c follows attacker-controlled LDAP referrals a | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
+| 1428 | [980249](../reports/980249.md) | Net::SMTP with tls allows forged certificates as long a | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Medium | — | 3 |
+| 1429 | [1569926](../reports/1569926.md) | Credential leak when use two url | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 3 |
+| 1430 | [966383](../reports/966383.md) | secret leaks in vsphere cloud controller manager log | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Medium — CVSS 6.2 | — | 3 |
+| 1431 | [1212595](../reports/1212595.md) | 	 Clickjacking at sifchain.finance | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Medium | — | 3 |
+| 1432 | [1086259](../reports/1086259.md) | Proxy-Authorization header carried to a new host on a r | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 4.4 | — | 2 |
+| 1433 | [1563061](../reports/1563061.md) | Certificate authentication re-use on redirect | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 2 |
+| 1434 | [693788](../reports/693788.md) | [expressjs-ip-control] Whitelist IP bypass leads to aut | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium | — | 2 |
+| 1435 | [1997312](../reports/1997312.md) | CVE-2023-28319: UAF in SSH sha256 fingerprint check | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Medium | — | 2 |
+| 1436 | [1429694](../reports/1429694.md) | Node.js Certificate Verification Bypass via String Inje | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.8 | — | 2 |
+| 1437 | [730111](../reports/730111.md) | [gity] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 6.4 | — | 2 |
+| 1438 | [438274](../reports/438274.md) | Prototype pollution attack (smart-extend) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | smart-extend | Medium | — | 2 |
+| 1439 | [1199803](../reports/1199803.md) | Possible Database Details stored in values.yaml | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Medium | — | 2 |
+| 1440 | [3677576](../reports/3677576.md) | Missing access control when modifying parent entities v | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 2 |
+| 1441 | [3791191](../reports/3791191.md) | Trailing-Dot Hostname in Redirect Silently Strips Clien | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 2 |
+| 1442 | [3769676](../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Aut | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium | — | 2 |
+| 1443 | [3942028](../reports/3942028.md) | Reflected XSS via invocation banner ID field in admin-g | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.7 | — | 2 |
+| 1444 | [1884159](../reports/1884159.md) | node.js process aborts when processing x509 certs with  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.3 | — | 2 |
+| 1445 | [3781201](../reports/3781201.md) | Pre-authentication `size_t` integer underflow → out-of- | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium — CVSS 5.7 | — | 2 |
+| 1446 | [4131903](../reports/4131903.md) | A server response that answers nothing is used as the n | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 2 |
+| 1447 | [4038361](../reports/4038361.md) | Keep-alive socket process a response that was written b | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.5 | — | 2 |
+| 1448 | [3738834](../reports/3738834.md) | Arbitrary `/tmp` read in  discourse via `convert_heif!` | [Discourse](../by-program/discourse.md) | https://github.com/discourse/discourse | Medium | — | 2 |
+| 1449 | [2043807](../reports/2043807.md) | Policy-restricted modules can escalate to higher privil | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.7 | — | 2 |
+| 1450 | [3672641](../reports/3672641.md) | Session ID reuse allowing XML‑RPC API authentication by | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 2 |
+| 1451 | [3890329](../reports/3890329.md) | Connector/C++ ignores allowMultiQueries and injects sav | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | Medium — CVSS 6.9 | — | 2 |
+| 1452 | [3750295](../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 2 |
+| 1453 | [1219002](../reports/1219002.md) | 4 xss vulnerability dom based cwe 79 ; wordpress bootst | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Medium | — | 2 |
+| 1454 | [4125043](../reports/4125043.md) | netrc credentials leaked to a cross-host redirect targe | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 2 |
+| 1455 | [3929216](../reports/3929216.md) | Cross-agency delivery rule set creation | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 2 |
+| 1456 | [1514863](../reports/1514863.md) | Use of uninitialized value of in req_parsebody method o | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/httpd | Medium | — | 2 |
+| 1457 | [1730660](../reports/1730660.md) | CVE-2022-42916: HSTS bypass via IDN | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 2 |
+| 1458 | [3708482](../reports/3708482.md) | wcurl treats some URL operands after -- as curl options | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 2 |
+| 1459 | [2127968](../reports/2127968.md) | CVE-2023-40195: Apache Airflow Spark Provider Deseriali | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Medium | — | 2 |
+| 1460 | [439098](../reports/439098.md) | Prototype pollution attack (mergify) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium | — | 2 |
+| 1461 | [1549435](../reports/1549435.md) | CURLOPT_SSH_HOST_PUBLIC_KEY_SHA256 comparison disaster | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 2 |
+| 1462 | [772509](../reports/772509.md) | [node-downloader-helper] Path traversal via Content-Dis | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | node-downloader-helper | Medium — CVSS 4.6 | — | 2 |
+| 1463 | [3826843](../reports/3826843.md) | ssh_config_matches is dead code: unauthorized SSH key r | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 2 |
+| 1464 | [771596](../reports/771596.md) | CRLF Injection in legacy url API (url.parse().hostname) | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium | — | 2 |
+| 1465 | [319795](../reports/319795.md) | [m-server] Path Traversal allows to display content of  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | m-server | Medium — CVSS 6.1 | — | 2 |
+| 1466 | [718241](../reports/718241.md) | [git-lib] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 6.4 | — | 2 |
+| 1467 | [3720313](../reports/3720313.md) | Proxy credentials leaked in ERR_PROXY_TUNNEL error mess | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.9 | — | 2 |
+| 1468 | [319465](../reports/319465.md) | `sql` does not properly escape parameters when building | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | sql | Medium — CVSS 6.3 | — | 2 |
+| 1469 | [321670](../reports/321670.md) | `stringstream` allocates uninitialized Buffers when num | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | stringstream | Medium — CVSS 5.2 | — | 2 |
+| 1470 | [637800](../reports/637800.md) | Libcurl ocasionally sends HTTPS traffic to port 443 rat | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 5.3 | — | 2 |
+| 1471 | [764986](../reports/764986.md) | Man in the middle using LoadBalancer or ExternalIPs ser | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kube-proxy | Medium — CVSS 6.6 | — | 2 |
+| 1472 | [3774977](../reports/3774977.md) | libcurl 8.20.0 ignores HTTP Digest domain protection sp | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 2 |
+| 1473 | [3781691](../reports/3781691.md) | CSRF in zone‑include.php allows unauthorized banner and | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 5.4 | — | 2 |
+| 1474 | [320166](../reports/320166.md) | `concat-with-sourcemaps` allocates uninitialized Buffer | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | concat-with-sourcemaps | Medium — CVSS 6.5 | — | 2 |
+| 1475 | [3896507](../reports/3896507.md) | Server crash (stack-overflow DoS) via unbounded recursi | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium | — | 2 |
+| 1476 | [331110](../reports/331110.md) | [buttle] HTML Injection in filename leads to XSS when d | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | buttle | Medium — CVSS 5.2 | — | 2 |
+| 1477 | [1096907](../reports/1096907.md) | API Server DoS (crash?) if many large resources (~1MB e | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Medium — CVSS 5.7 | — | 2 |
+| 1478 | [3678828](../reports/3678828.md) | Banner status override by advertiser‑level users | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.3 | — | 2 |
+| 1479 | [3891779](../reports/3891779.md) | Connector/ODBC injects unquoted column names into posit | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | Medium — CVSS 5.7 | — | 1 |
+| 1480 | [4116076](../reports/4116076.md) | CVE-2026-111483: GnuTLS accepts non-successful OCSP sta | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
+| 1481 | [4053066](../reports/4053066.md) | Missing applicability validation allows non-applicable  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
+| 1482 | [3867358](../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium | — | 1 |
+| 1483 | [2814774](../reports/2814774.md) | Possible DoS in NumberHelpers | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium | — | 1 |
+| 1484 | [3989514](../reports/3989514.md) | CVE-2026-87866: wolfSSL public-key pinning bypass | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
+| 1485 | [3511955](../reports/3511955.md) | Unauthorized users can enumerate internal team resource | [Nextcloud](../by-program/nextcloud.md) | nextcloud/circles | Medium — CVSS 4.3 | — | 1 |
+| 1486 | [3920633](../reports/3920633.md) | Connector/ODBC: SqlwcsOctetLen sizes UTF-16 with a byte | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | Medium — CVSS 5.3 | — | 1 |
+| 1487 | [3767963](../reports/3767963.md) | Proxy CONNECT response poisoning via authentication ret | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
+| 1488 | [355501](../reports/355501.md) | [servey] Path Traversal allows to retrieve content of a | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | servey | Medium | — | 1 |
+| 1489 | [3826207](../reports/3826207.md) | Stored XSS via unescaped tracker name in append-code ch | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 5.4 | — | 1 |
+| 1490 | [3890289](../reports/3890289.md) | Connector/C++ string escaper re-escapes its own output, | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | Medium — CVSS 6.9 | — | 1 |
+| 1491 | [3891337](../reports/3891337.md) | Connector/ODBC SQLGetDescRec treats descriptor handle a | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | Medium — CVSS 5.7 | — | 1 |
+| 1492 | [3773293](../reports/3773293.md) | curl/libcurl 8.20.0 NOPROXY bypass via uppercase-hex IP | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
+| 1493 | [3891319](../reports/3891319.md) | Stack buffer overflow in 9 of 10 Connector/ODBC catalog | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | Medium — CVSS 5.7 | — | 1 |
+| 1494 | [1036886](../reports/1036886.md) | Kubelet follows symlinks as root in /var/log from the / | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubelet | Medium — CVSS 4.0 | — | 1 |
+| 1495 | [4059744](../reports/4059744.md) | Anonymous API Rate Limit Bypass via X-Forwarded-For | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/weblate | Medium | — | 1 |
+| 1496 | [3802645](../reports/3802645.md) | verify-release rebuilds from the tarball under verifica | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
+| 1497 | [3920647](../reports/3920647.md) | Connector/ODBC: MADB_Stmt::ArrayOffset is not reset whe | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium — CVSS 5.0 | — | 1 |
+| 1498 | [4053546](../reports/4053546.md) | Information Disclosure - Unauthen Leak Private Content | [WordPress](../by-program/wordpress.md) | bbPress Core | Medium | — | 1 |
+| 1499 | [449478](../reports/449478.md) | Brave allows flash to follow 307 redirects to other ori | [Brave Software](../by-program/brave.md) | https://github.com/brave/brave-ios | Medium | — | 1 |
+| 1500 | [3656716](../reports/3656716.md) | Embedded-nul hostnames can lead to silent authority reb | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.6 | — | 1 |
+| 1501 | [3649802](../reports/3649802.md) | TLS host identity verification bypass via session reuse | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 4.3 | — | 1 |
+| 1502 | [310706](../reports/310706.md) | Prototype pollution attack (merge-objects) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | merge-objects | Medium — CVSS 4.2 | — | 1 |
+| 1503 | [3871977](../reports/3871977.md) | Connector/ODBC: malicious server's long version string  | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium — CVSS 4.6 | — | 1 |
+| 1504 | [3735193](../reports/3735193.md) | CVE-2026-8925: SASL double-free | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
+| 1505 | [3676863](../reports/3676863.md) | Unbounded memory growth in `node:http2` clients via att | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.3 | — | 1 |
+| 1506 | [3920629](../reports/3920629.md) | r2dbc-mariadb: server message accepted with no command  | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | Medium — CVSS 5.7 | — | 1 |
+| 1507 | [255822](../reports/255822.md) | WebDAV Empty Property search leads to full CPU usage | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 4.3 | — | 1 |
+| 1508 | [995699](../reports/995699.md) | csi-snapshot-controller crashes when processing VolumeS | [Kubernetes](../by-program/kubernetes.md) | github.com/kubernetes-csi | Medium — CVSS 5.0 | — | 1 |
+| 1509 | [3890352](../reports/3890352.md) | Connector/C++ aborts client process on server session-t | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium — CVSS 4.1 | — | 1 |
+| 1510 | [952771](../reports/952771.md) | CVE-2019-11250 remains in effect. | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Medium — CVSS 4.3 | — | 1 |
+| 1511 | [4128428](../reports/4128428.md) | CVE-2026-115528: wolfSSL TLS connect without cert | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
+| 1512 | [1081406](../reports/1081406.md) | Open redirect in ck.php and lg.php | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 5.4 | — | 1 |
+| 1513 | [3744543](../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state le | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
+| 1514 | [4132132](../reports/4132132.md) | POP3: data after the end-of-body terminator is written  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
+| 1515 | [3752567](../reports/3752567.md) | curl GnuTLS backend accepts a clientAuth-only certifica | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
+| 1516 | [3872248](../reports/3872248.md) | Connector/C++: heap out-of-bounds read when malicious s | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium — CVSS 4.6 | — | 1 |
+| 1517 | [3793260](../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
+| 1518 | [3963725](../reports/3963725.md) | wolfSSL backend disables hostname verification when CUR | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
+| 1519 | [319458](../reports/319458.md) | typeorm does not properly escape parameters when buildi | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | typeorm | Medium — CVSS 6.4 | — | 1 |
+| 1520 | [3867363](../reports/3867363.md) | MariaDB HandlerSocket Improper Request Field-Count Vali | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium | — | 1 |
+| 1521 | [3791168](../reports/3791168.md) | curl-ipv4-percent-normalization-SSRF | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
+| 1522 | [764725](../reports/764725.md) | [http-live-simulator] Application-level DoS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | http-live-simulator | Medium — CVSS 5.3 | — | 1 |
+| 1523 | [841380](../reports/841380.md) | Prototype pollution attack (lodash) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | lodash | Medium — CVSS 6.1 | — | 1 |
+| 1524 | [1826392](../reports/1826392.md) | curl/libcurl vulnerable to TLS truncation attacks | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
+| 1525 | [796487](../reports/796487.md) | [dy-server2] - stored Cross-Site Scripting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 4.2 | — | 1 |
+| 1526 | [3971985](../reports/3971985.md) | Reflected XSS in popup invocation options | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.7 | — | 1 |
+| 1527 | [4105853](../reports/4105853.md) | libcurl TLS shorter-retry mismatch discloses client hea | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 1 |
+| 1528 | [3656869](../reports/3656869.md) | Uppercase sni context matching can lead to mtls authori | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 4.2 | — | 1 |
+| 1529 | [4082665](../reports/4082665.md) | ActionText `to_markdown` still allows `javascript:` lin | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Medium — CVSS 5.3 | — | 1 |
+| 1530 | [3682163](../reports/3682163.md) | Files Confidential tagging can be bypassed with # in fi | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/files_confi | Medium — CVSS 5.0 | — | 1 |
+| 1531 | [3793243](../reports/3793243.md) | Reflected XSS in stats‑video.php via improperly encoded | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 4.7 | — | 1 |
+| 1532 | [3871740](../reports/3871740.md) | r2dbc-mariadb Parsec auth: server-controlled PBKDF2 ite | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | Medium — CVSS 5.7 | — | 1 |
+| 1533 | [355456](../reports/355456.md) | [statics-server] Path Traversal due to lack of provided | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | statics-server | Medium | — | 1 |
+| 1534 | [4124276](../reports/4124276.md) | GnuTLS + Apple SecTrust discards authenticated OCSP fai | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1535 | [688048](../reports/688048.md) | Incorrect IPv6 literal parsing leads to validated conne | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 6.3 | — | 0 |
+| 1536 | [3826199](../reports/3826199.md) | mbedTLS / wolfSSL / rustls backends silently skip hostn | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1537 | [3642236](../reports/3642236.md) | Tables application does not respect sharing limitations | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/tables | Medium — CVSS 4.6 | — | 0 |
+| 1538 | [3981716](../reports/3981716.md) | Cross-origin redirect reuses a pooled Negotiate-authent | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1539 | [3713682](../reports/3713682.md) | IDOR: autotranslate.translateMessage Full Message Conte | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | Medium — CVSS 5.3 | — | 0 |
+| 1540 | [3766065](../reports/3766065.md) | CURLOPT_COOKIE leaked to cross-origin redirect target — | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1541 | [3923212](../reports/3923212.md) | URL API: triple-slash parses path segment as hostname | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1542 | [4085412](../reports/4085412.md) | Rustls backend discloses out-of-bounds heap data during | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1543 | [4075098](../reports/4075098.md) | Unauthenticated reflected XSS in update history | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.1 | — | 0 |
+| 1544 | [3823932](../reports/3823932.md) | CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabl | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1545 | [4125065](../reports/4125065.md) | curl EXPIRE_SHUTDOWN timer never armed for silent serve | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1546 | [4127399](../reports/4127399.md) | wolfSSL Backend Silently Ignores --cert-status (OCSP St | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1547 | [4116433](../reports/4116433.md) | Stored XSS in report date selection | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.1 | — | 0 |
+| 1548 | [4025056](../reports/4025056.md) | HTTP/1.1 response framing violation and unsafe connecti | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1549 | [4122239](../reports/4122239.md) | CVE-2026-111952: OpenSSL provider use-after-free again | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1550 | [3962304](../reports/3962304.md) | Improper certificate validation for non-canonical IPv4  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.7 | — | 0 |
+| 1551 | [4129638](../reports/4129638.md) | TLS session cache ignores CURLOPT_SSL_CTX_FUNCTION iden | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1552 | [4118610](../reports/4118610.md) | CVE-2026-111484: OpenSSL with SecTrust accepts bad OCSP | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1553 | [3958112](../reports/3958112.md) | Missing campaign ownership check in zone bulk linking | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 5.4 | — | 0 |
+| 1554 | [885031](../reports/885031.md) | [commit-msg] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Medium — CVSS 6.4 | — | 0 |
+| 1555 | [3824331](../reports/3824331.md) | Null Dereference in X509ToObject | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 5.9 | — | 0 |
+| 1556 | [4007917](../reports/4007917.md) |  One Strict-Transport-Security response header empties  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1557 | [3968729](../reports/3968729.md) | Unbound cross-peer HTTP Digest challenge state | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1558 | [773313](../reports/773313.md) | Port and service scanning on localhost due to improper  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 6.3 | — | 0 |
+| 1559 | [3566607](../reports/3566607.md) | No password confirmation required when using apptoken o | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Medium — CVSS 5.3 | — | 0 |
+| 1560 | [4128703](../reports/4128703.md) | curl reuses an HTTPS connection when a response is alre | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1561 | [315037](../reports/315037.md) | Media parsing in canvas is at least vulnerable to Denia | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | canvas | Medium | — | 0 |
+| 1562 | [687734](../reports/687734.md) | Double-free of `trailers_buf' on `Curl_http_compile_tra | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 6.3 | — | 0 |
+| 1563 | [4129642](../reports/4129642.md) | HSTS cache file: three trailing dots silently disable H | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1564 | [1019457](../reports/1019457.md) | Data race conditions reported by helgrind when performi | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium — CVSS 5.2 | — | 0 |
+| 1565 | [726364](../reports/726364.md) | Crash Node.js process from handlebars using a small and | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | handlebars | Medium — CVSS 6.5 | — | 0 |
+| 1566 | [4124549](../reports/4124549.md) | CURLOPT_PROXYHEADER is not part of the HTTP-proxy conne | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1567 | [4124583](../reports/4124583.md) | SSH (SCP/SFTP) host-key verification is skipped on conn | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1568 | [4125601](../reports/4125601.md) | OpenSSL `--cert-status` accepts indefinitely stale GOOD | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1569 | [4033971](../reports/4033971.md) | Use-after-free of the internal multi->admin easy handle | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1570 | [3908050](../reports/3908050.md) | Reflected XSS via invocation iFrame size fields | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Medium — CVSS 6.1 | — | 0 |
+| 1571 | [3938190](../reports/3938190.md) |  Windows SSPI connection-pool probe can reuse a connect | [curl](../by-program/curl.md) | https://github.com/curl/curl | Medium | — | 0 |
+| 1572 | [3812439](../reports/3812439.md) | HTTPS Agent TLS session reuse skips hostname verificati | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Medium — CVSS 6.3 | — | 0 |
+| 1573 | [661959](../reports/661959.md) | Command Injection vulnerability in kill-port-process pa | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | kill-port-process | Medium — CVSS 6.1 | — | 0 |
+| 1574 | [592316](../reports/592316.md) | Stored XSS on byddypress Plug-in via groups name | [WordPress](../by-program/wordpress.md) | BuddyPress Core | Low | — | 132 |
+| 1575 | [1114347](../reports/1114347.md) | Account takeover due to misconfiguration | [Mattermost](../by-program/mattermost.md) | mattermost/mattermost-server | Low — CVSS 3.7 | — | 131 |
+| 1576 | [2828263](../reports/2828263.md) | Secrets not masked in UI when sensitive variables are s | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Low | — | 78 |
+| 1577 | [490782](../reports/490782.md) | Mssing Authorization on Private Message replies (BuddyP | [WordPress](../by-program/wordpress.md) | BuddyPress Core | Low | — | 66 |
+| 1578 | [3558277](../reports/3558277.md) | Fail-Open in set_tlsext_servername_callback on pyopenss | [Python Cryptographic Authority](../by-program/pyca.md) | https://github.com/pyca/pyopenssl | Low | — | 63 |
+| 1579 | [578138](../reports/578138.md) | [http_server] Stored XSS in the filename when directori | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | http_server | Low — CVSS 3.9 | — | 61 |
+| 1580 | [3083428](../reports/3083428.md) | Corrupted pointer in node::fs::ReadFileUtf8(const Funct | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.7 | — | 59 |
+| 1581 | [3073507](../reports/3073507.md) | Apache Airflow Fab Provider: Application does not inval | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Low | — | 57 |
+| 1582 | [2279759](../reports/2279759.md) | curl HSTS long file name clears contents  | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 57 |
+| 1583 | [3168039](../reports/3168039.md) | CVE-2025-5399: WebSocket endless loop | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 57 |
+| 1584 | [3275810](../reports/3275810.md) | Calendar app allowed booking appointments without the g | [Nextcloud](../by-program/nextcloud.md) | nextcloud/calendar | Low — CVSS 3.3 | — | 56 |
+| 1585 | [2467232](../reports/2467232.md) | Unsafe yaml load can lead to remote code execution | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | Low | — | 55 |
+| 1586 | [2705661](../reports/2705661.md) | CVE-2024-45498: Apache Airflow Command injection in rea | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Low | — | 54 |
+| 1587 | [2629968](../reports/2629968.md) | CVE-2024-7264: ASN.1 date parser overread | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 53 |
+| 1588 | [374106](../reports/374106.md) | Lack of quarantine meta-attribute for downloaded files  | [Brave Software](../by-program/brave.md) | https://github.com/brave/browser-laptop | Low | — | 52 |
+| 1589 | [2303609](../reports/2303609.md) | XSS when using `translate` in Action Controller (Rails  | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Low | — | 50 |
+| 1590 | [2764830](../reports/2764830.md) | CVE-2024-9681: HSTS subdomain overwrites parent cache e | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 49 |
+| 1591 | [968232](../reports/968232.md) | Stored XSS in collabora via user name | [Nextcloud](../by-program/nextcloud.md) | nextcloud/viewer | Low | — | 48 |
+| 1592 | [484930](../reports/484930.md) | puttygen: 160MB memory leak while trying to extract ope | [PuTTY (European Commission - DIGIT)](../by-program/putty_h1c.md) | https://www.chiark.greenend.org.uk/~sgta | Low — CVSS 3.1 | — | 46 |
+| 1593 | [895727](../reports/895727.md) | Rack parses encoded cookie names allowing an attacker t | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Low | — | 46 |
+| 1594 | [3531216](../reports/3531216.md) | MQTT Protocol Packet Injection via Unchecked CONNACK Re | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 45 |
+| 1595 | [3269761](../reports/3269761.md) | Security check up | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 44 |
+| 1596 | [3355218](../reports/3355218.md) | CVE-2025-10966: missing SFTP host verification with wol | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 43 |
+| 1597 | [3211973](../reports/3211973.md) | Credential leak on redirect due to improper state clear | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 41 |
+| 1598 | [1727424](../reports/1727424.md) | No password length limit when creating a user as an adm | [Nextcloud](../by-program/nextcloud.md) | nextcloud/password_policy | Low — CVSS 2.4 | — | 39 |
+| 1599 | [515484](../reports/515484.md) | [Reflected XSS] In Request URL | [Nextcloud](../by-program/nextcloud.md) | nextcloud/updater | Low | — | 37 |
+| 1600 | [3294999](../reports/3294999.md) | CVE-2025-9086: Out of bounds read for cookie path | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 36 |
+| 1601 | [2917232](../reports/2917232.md) | CVE-2025-0167: netrc and default credential leak | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 36 |
+| 1602 | [2079103](../reports/2079103.md) | Permission model improperly processes UNC paths | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.6 | — | 35 |
+| 1603 | [2215578](../reports/2215578.md) | [CVE-2023-38546]  cookie injection with none file | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 34 |
+| 1604 | [3612891](../reports/3612891.md) | Exposed .git/config File Leading to Potential Sensitive | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 33 |
+| 1605 | [2829063](../reports/2829063.md) | CVE-2024-11053: netrc + redirect credential leak | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 33 |
+| 1606 | [3262848](../reports/3262848.md) | on the implications of permitting procedural culling | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 33 |
+| 1607 | [3390084](../reports/3390084.md) | fs.futimes() Bypasses Read-Only Permission Model | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 2.8 | — | 33 |
+| 1608 | [2384833](../reports/2384833.md) | CVE-2024-2004: Usage of disabled protocol | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 33 |
+| 1609 | [2144868](../reports/2144868.md) | CVE-2023-40611: Apache Airflow Dag Runs Broken Access C | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Low | — | 32 |
+| 1610 | [290955](../reports/290955.md) | Chrome Extension is vulnerable to the self-DOS issues i | [Ed](../by-program/ed.md) | https://github.com/securitytxt/chrome-ex | Low | — | 32 |
+| 1611 | [2621062](../reports/2621062.md) | curl: stack-buffer overread during punycode conversions | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 31 |
+| 1612 | [3330839](../reports/3330839.md) | CVE-2025-10148: predictable WebSocket mask | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 30 |
+| 1613 | [3373640](../reports/3373640.md) | OpenSSL backend: X509 peer certificate not freed in oss | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 30 |
+| 1614 | [1040166](../reports/1040166.md) | CVE-2020-8284: trusting FTP PASV responses | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 30 |
+| 1615 | [2705507](../reports/2705507.md) | Share information of Tables app is not limited to affec | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/tables | Low — CVSS 3.5 | — | 30 |
+| 1616 | [3623064](../reports/3623064.md) | HTTP/1.1 Response Desynchronization via conflicting CL/ | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 30 |
+| 1617 | [469668](../reports/469668.md) | Passwords being stored as plain text in logging | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 30 |
+| 1618 | [3584903](../reports/3584903.md) | CVE-2026-3784: wrong proxy connection reuse with creden | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 30 |
+| 1619 | [2905552](../reports/2905552.md) | bypass of this Fixed #2437131 [ Inadequate Protocol Res | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 30 |
+| 1620 | [2376900](../reports/2376900.md) | Attachments folder for Text app is accessible on Files  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/text | Low — CVSS 2.6 | — | 29 |
+| 1621 | [2905532](../reports/2905532.md) | [CVE-2024-54133] Possible Content Security Policy bypas | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rails | Low | — | 29 |
+| 1622 | [2376909](../reports/2376909.md) | Possible to enumerate valid files in password protected | [Nextcloud](../by-program/nextcloud.md) | nextcloud/richdocuments | Low — CVSS 2.6 | — | 29 |
+| 1623 | [2210038](../reports/2210038.md) | HTML injection in search UI when selecting a circle wit | [Nextcloud](../by-program/nextcloud.md) | nextcloud/circles | Low — CVSS 3.5 | — | 29 |
+| 1624 | [2446437](../reports/2446437.md) | [CVE-2024-25126] Denial of Service Vulnerability in Rac | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rack/rack | Low | — | 27 |
+| 1625 | [1397826](../reports/1397826.md) | Unclaimed official s3 bucket of tendermint(tendermint-p | [Cosmos](../by-program/cosmos.md) | https://github.com/cometbft/cometbft | Low | — | 27 |
+| 1626 | [2446433](../reports/2446433.md) | [CVE-2024-26146] Header Parsing leads to Possible Denia | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rack/rack | Low | — | 27 |
+| 1627 | [630146](../reports/630146.md) | CSRF vulnerability that allows an attacker to modify en | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.4 | — | 27 |
+| 1628 | [2236133](../reports/2236133.md) | CVE-2023-46219: HSTS long file name clears contents | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 27 |
+| 1629 | [3434543](../reports/3434543.md) | Arbitrary free in curl's config file parsing. | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 26 |
+| 1630 | [2559558](../reports/2559558.md) | NULL dereference when encoding DN of x509 certificate | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 26 |
+| 1631 | [3608522](../reports/3608522.md) | Unescaped username in SASL DIGEST-MD5 response allows i | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 26 |
+| 1632 | [437863](../reports/437863.md) | SVG file that HTML Included is able to upload via File  | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Low | — | 26 |
+| 1633 | [2779070](../reports/2779070.md) | Memory Leak in bytes_to_hexstring Function | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric-pr | Low | — | 25 |
+| 1634 | [2604391](../reports/2604391.md) | CVE-2024-6874: macidn punycode buffer overread | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 25 |
+| 1635 | [2974850](../reports/2974850.md) | CVE-2025-0725: Heap overflow in curl with Content-Encod | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 24 |
+| 1636 | [1841408](../reports/1841408.md) | Error in  Booking an appointment reveals the full path  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/calendar | Low — CVSS 2.6 | — | 24 |
+| 1637 | [2954286](../reports/2954286.md) | CVE-2025-0665: eventfd double close | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 24 |
+| 1638 | [3399218](../reports/3399218.md) | Improper sanitisation of input in the settings could ca | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Low — CVSS 2.7 | — | 24 |
+| 1639 | [2341063](../reports/2341063.md) | CVE-2024-0853: OCSP verification bypass with TLS sessio | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 24 |
+| 1640 | [547630](../reports/547630.md) | CVE-2019-5435: An integer overflow found in /lib/urlapi | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 24 |
+| 1641 | [2298922](../reports/2298922.md) | CVE-2024-0853: OCSP verification bypass with TLS sessio | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 23 |
+| 1642 | [2249299](../reports/2249299.md) | CVE-2023-47037: Airflow Broken Access Control Vulnerabi | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Low | — | 23 |
+| 1643 | [2446427](../reports/2446427.md) | [CVE-2024-26142] ReDoS vulnerability in Accept header p | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/rails | Low | — | 23 |
+| 1644 | [1154003](../reports/1154003.md) | Ratelimiting can be bypassed using IPv6 subnets | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 23 |
+| 1645 | [406289](../reports/406289.md) | Stored XSS on Broken Themes via filename | [WordPress](../by-program/wordpress.md) | WordPress Core | Low | — | 23 |
+| 1646 | [3673277](../reports/3673277.md) | libcurl stale CURLOPT_AUTOREFERER leaks a previous requ | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 22 |
+| 1647 | [2814750](../reports/2814750.md) | Inconsistent URL Parsing in curl Leading to Potential S | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 22 |
+| 1648 | [481532](../reports/481532.md) | heap-use-after-free (READ of size 8) in main() | [PuTTY (European Commission - DIGIT)](../by-program/putty_h1c.md) | https://www.chiark.greenend.org.uk/~sgta | Low — CVSS 3.1 | — | 22 |
+| 1649 | [792895](../reports/792895.md) | bypass old password with array in /admin/account-user-e | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Low | — | 22 |
+| 1650 | [2263044](../reports/2263044.md) | Open redirect in user_saml via RelayState parameter | [Nextcloud](../by-program/nextcloud.md) | nextcloud/user_saml | Low — CVSS 3.1 | — | 21 |
+| 1651 | [3404968](../reports/3404968.md) | Stored-XSS in Banner Name field  | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Low — CVSS 3.5 | — | 21 |
+| 1652 | [998422](../reports/998422.md) | XSS through image upload of contacts using svg file wit | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 21 |
+| 1653 | [925527](../reports/925527.md) | Blind HTTP GET SSRF via website icon fetch (bypass of p | [Bitwarden](../by-program/bitwarden.md) | https://github.com/bitwarden | Low | — | 21 |
+| 1654 | [3671818](../reports/3671818.md) | CVE-2026-6276: stale custom cookie host causes cookie l | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 20 |
+| 1655 | [3601655](../reports/3601655.md) | Rails::HTML::Sanitizer.allowed_uri? returns true for en | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Low | — | 20 |
+| 1656 | [1687005](../reports/1687005.md) | [user_oidc] Unencrypted Communications | [Nextcloud](../by-program/nextcloud.md) | nextcloud/user_oidc | Low — CVSS 3.5 | — | 20 |
+| 1657 | [1755555](../reports/1755555.md) | Possibility to delete files attached to deck cards of o | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | Low — CVSS 3.5 | — | 20 |
+| 1658 | [2472071](../reports/2472071.md) | fs.fchown/fchmod bypasses permission model | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.3 | — | 20 |
+| 1659 | [3473384](../reports/3473384.md) | Functional Regression in Digest Authentication: Failure | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 20 |
+| 1660 | [753567](../reports/753567.md) | XSS in select attribute options | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Low — CVSS 1.9 | — | 20 |
+| 1661 | [1687410](../reports/1687410.md) | [user_oidc] Stored XSS via Authorization Endpoint - Saf | [Nextcloud](../by-program/nextcloud.md) | nextcloud/user_oidc | Low — CVSS 3.5 | — | 19 |
+| 1662 | [1946298](../reports/1946298.md) | Missing permission check when removing a photo from an  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/photos | Low | — | 19 |
+| 1663 | [482200](../reports/482200.md) | puttygen: heap-buffer-overflow in mp_get_decimal() | [PuTTY (European Commission - DIGIT)](../by-program/putty_h1c.md) | https://www.chiark.greenend.org.uk/~sgta | Low — CVSS 3.1 | — | 19 |
+| 1664 | [2441029](../reports/2441029.md) | Potential DoS due to PasswordPoliciesNotMet in errors.g | [passhash](../by-program/passhash.md) | https://github.com/dhui/passhash | Low | — | 19 |
+| 1665 | [3595764](../reports/3595764.md) | CURLOPT_UNRESTRICTED_AUTH Dangerous Default Documentati | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 18 |
+| 1666 | [2145862](../reports/2145862.md) | fs.lstat bypasses permission model | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 2.9 | — | 18 |
+| 1667 | [3477116](../reports/3477116.md) | CVE-2025-15079: libssh global knownhost override  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 18 |
+| 1668 | [1745766](../reports/1745766.md) | Disabled download shares still allow download through p | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 2.6 | — | 18 |
+| 1669 | [3641893](../reports/3641893.md) | Cookie attribute TAB injection regression in Set-Cookie | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 18 |
+| 1670 | [2352957](../reports/2352957.md) | Proxy-Authorization header is not cleared in cross-doma | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low | — | 18 |
+| 1671 | [661722](../reports/661722.md) | WEBrick::HTTPAuth::DigestAuth authentication is vulnera | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Low — CVSS 3.7 | — | 17 |
+| 1672 | [2956023](../reports/2956023.md) | CVE-2025-0725: gzip integer overflow | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 17 |
+| 1673 | [3341476](../reports/3341476.md) | int overflow in krb5_read_data() leads to (possible) ma | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 17 |
+| 1674 | [1736466](../reports/1736466.md) | HTML INJECTION FOUND ON https://adobedocs.github.io/ana | [Adobe](../by-program/adobe.md) | https://github.com/adobe/* | Low — CVSS 3.1 | — | 17 |
+| 1675 | [1894653](../reports/1894653.md) | Missing brute force protection for passwords of passwor | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.1 | — | 17 |
+| 1676 | [3514263](../reports/3514263.md) | libcurl: Improper Authentication State Management on Cr | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 17 |
+| 1677 | [249319](../reports/249319.md) | Race condition on the Federalist API endpoints can lead | [GSA Bounty](../by-program/gsa_bbp.md) | https://github.com/18f/federalist | Low | — | 17 |
+| 1678 | [3459417](../reports/3459417.md) | CVE-2025-14524: bearer token leak on cross-protocol red | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 17 |
+| 1679 | [3399809](../reports/3399809.md) | Stored XSS on inventory-retrieve.php | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Low — CVSS 3.5 | — | 17 |
+| 1680 | [837733](../reports/837733.md) | Leaking Of Sensitive Information on Github | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | Low | — | 17 |
+| 1681 | [1561471](../reports/1561471.md) | Password disclosure in initial setup of Mail App | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Low — CVSS 3.1 | — | 17 |
+| 1682 | [404126](../reports/404126.md) | [buttle] Unsafe rendering of Markdown files | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | buttle | Low — CVSS 2.2 | — | 16 |
+| 1683 | [2334460](../reports/2334460.md) | Pickle deserialization vulnerability in XComs | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/airflow | Low — CVSS 3.9 | — | 16 |
+| 1684 | [550696](../reports/550696.md) | CVE-2019-5436: Heap Buffer Overflow at lib/tftp.c | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low — CVSS 1.8 | — | 16 |
+| 1685 | [250688](../reports/250688.md) | The Federalsit session cookie (federalist.sid) is not p | [GSA Bounty](../by-program/gsa_bbp.md) | https://github.com/18f/federalist | Low | — | 16 |
+| 1686 | [1764858](../reports/1764858.md) | CVE-2022-43552: HTTP Proxy deny use-after-free | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 16 |
+| 1687 | [3480712](../reports/3480712.md) | Telnet Suboption Buffer Pointer Underflow in lib/telnet | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 16 |
+| 1688 | [1431042](../reports/1431042.md) | Prototype pollution via console.table properties | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 2.2 | — | 15 |
+| 1689 | [1784310](../reports/1784310.md) | Messages can still be seen on conversation after expiri | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Low — CVSS 3.4 | — | 15 |
+| 1690 | [768313](../reports/768313.md) | Cross Site Scripting (XSS) Stored - Private messaging | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Low — CVSS 3.5 | — | 15 |
+| 1691 | [3650435](../reports/3650435.md) | Improper enforcement of CURLOPT_SOCKS5_AUTH due to miss | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 15 |
+| 1692 | [3427460](../reports/3427460.md) | Incorrect sizeof() in Rustls Backend Memory Allocation | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 15 |
+| 1693 | [1316650](../reports/1316650.md) | unclaimed s3 bucket takeover in the 3 js file located o | [Brave Software](../by-program/brave.md) | https://github.com/brave/vault-updater | Low | — | 14 |
+| 1694 | [863221](../reports/863221.md) | SSRF bypass | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Low — CVSS 2.0 | — | 14 |
+| 1695 | [983710](../reports/983710.md) | SQL injection when configuring a database  | [ImpressCMS](../by-program/impresscms.md) | https://github.com/impresscms/impresscms | Low | — | 14 |
+| 1696 | [3509396](../reports/3509396.md) | IMAP Protocol Desynchronization and Response Smuggling  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 14 |
+| 1697 | [2148242](../reports/2148242.md) | CVE-2023-38546: cookie injection with none file | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 14 |
+| 1698 | [1172857](../reports/1172857.md) | CVE-2021-22897: schannel cipher selection surprise | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 14 |
+| 1699 | [633245](../reports/633245.md) | Delete permission can be added on reshare | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.5 | — | 14 |
+| 1700 | [1913095](../reports/1913095.md) | Blind SSRF as normal user from mailapp | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Low — CVSS 3.5 | — | 14 |
+| 1701 | [1832126](../reports/1832126.md) | Existance of calendars and addressbooks can be checked  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/contacts | Low — CVSS 3.5 | — | 14 |
+| 1702 | [3480841](../reports/3480841.md) | Permission Model Bypass in realpathSync.native Allows F | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.3 | — | 14 |
+| 1703 | [1023787](../reports/1023787.md) | Stored XSS in markdown file with Nextcloud Talk using I | [Nextcloud](../by-program/nextcloud.md) | nextcloud/text | Low — CVSS 3.0 | — | 13 |
+| 1704 | [1613943](../reports/1613943.md) | CVE-2022-35252: control code in cookie denial of servic | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 13 |
+| 1705 | [3393539](../reports/3393539.md) | Memory leak in Curl_auth_create_ntlm_type3_message | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 13 |
+| 1706 | [474262](../reports/474262.md) | XSS due to incomplete JS escaping | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Low | — | 13 |
+| 1707 | [261138](../reports/261138.md) | Stored XSS in OAuth redirect URI  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.4 | — | 13 |
+| 1708 | [3480925](../reports/3480925.md) | CVE-2025-15224: libssh key passphrase bypass without ag | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 13 |
+| 1709 | [3334165](../reports/3334165.md) |  Nextcloud Tables v1 Share Enumeration Without Authoriz | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/tables | Low — CVSS 3.5 | — | 13 |
+| 1710 | [1596673](../reports/1596673.md) | Lack of Brute force protection while joining video call | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.5 | — | 12 |
+| 1711 | [1561448](../reports/1561448.md) | Postgres Admin Username and Password in Plain text | [UPchieve](../by-program/upchieve.md) | https://gitlab.com/upchieve/subway | Low | — | 12 |
+| 1712 | [1820864](../reports/1820864.md) | No password length restriction in reset password endpoi | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.5 | — | 12 |
+| 1713 | [1897203](../reports/1897203.md) | CVE-2023-27537: HSTS double-free | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 12 |
+| 1714 | [3473182](../reports/3473182.md) | A logic error in detect_proxy caused truncation of envi | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 12 |
+| 1715 | [1806275](../reports/1806275.md) | Mail app stores cleartext password in database until OA | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Low — CVSS 1.8 | — | 12 |
+| 1716 | [1927360](../reports/1927360.md) | Previously created sessions continue being valid after  | [WordPress](../by-program/wordpress.md) | Official WordPress plugins | Low | — | 12 |
+| 1717 | [4023506](../reports/4023506.md) | libcurl LDAP LDIF: entry DN and attribute names written | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 12 |
+| 1718 | [1035976](../reports/1035976.md) | Slack server disclose h1 private issue report | [ImpressCMS](../by-program/impresscms.md) | https://github.com/impresscms/impresscms | Low | — | 12 |
+| 1719 | [3889473](../reports/3889473.md) | @jitsi/docker-jitsi-meet: `/colibri-relay-ws/` unsafe n | [8x8](../by-program/8x8-bounty.md) | https://github.com/jitsi | Low | — | 12 |
+| 1720 | [1596059](../reports/1596059.md) | Missing character limitation allows to put generate a d | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 12 |
+| 1721 | [3479019](../reports/3479019.md) | Security hardening: missing integer overflow check in c | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 12 |
+| 1722 | [1200815](../reports/1200815.md) | Federated share accepting/declining is not logged in au | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 12 |
+| 1723 | [1604606](../reports/1604606.md) | Information exposure in in guzzlehttp/guzzle (https://g | [Nextcloud](../by-program/nextcloud.md) | nextcloud/3rdparty | Low — CVSS 3.0 | — | 12 |
+| 1724 | [627376](../reports/627376.md) | Application level denial of service due to shutting dow | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | http-live-simulator | Low | — | 11 |
+| 1725 | [948876](../reports/948876.md) | CVE-2020-8231: Connect-only connections can use the wro | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 11 |
+| 1726 | [1967109](../reports/1967109.md) | Rocket.Chat Desktop client fails to open browser on 3rd | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | Low | — | 11 |
+| 1727 | [1054282](../reports/1054282.md) | Protocol Smuggling over LDAP password field | [ownCloud](../by-program/owncloud.md) | owncloud/user_ldap | Low | — | 11 |
+| 1728 | [1018568](../reports/1018568.md) | Server Side Request Forgery in 'Jabber settings' in Adm | [phpBB](../by-program/phpbb.md) | https://github.com/phpbb/phpbb | Low — CVSS 3.4 | — | 11 |
+| 1729 | [378805](../reports/378805.md) | Navigation to `chrome-extension://` origin (internal pa | [Brave Software](../by-program/brave.md) | https://github.com/brave/muon | Low — CVSS 3.8 | — | 11 |
+| 1730 | [1753224](../reports/1753224.md) | CVE-2022-35260: .netrc parser out-of-bounds access | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 11 |
+| 1731 | [310443](../reports/310443.md) | Prototype pollution attack (lodash) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | lodash | Low — CVSS 2.5 | — | 11 |
+| 1732 | [3476928](../reports/3476928.md) | Integer Overflow in `curl_easy_escape()` may lead to he | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 11 |
+| 1733 | [2410774](../reports/2410774.md) | CVE-2024-2379: QUIC certificate check bypass with wolfS | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 11 |
+| 1734 | [1741525](../reports/1741525.md) | Mail app - Blind SSRF via Sierve server fonctionnality  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Low — CVSS 3.5 | — | 11 |
+| 1735 | [1590071](../reports/1590071.md) | CVE-2022-32208: FTP-KRB bad message verification | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 11 |
+| 1736 | [1736390](../reports/1736390.md) | Mail app - blind SSRF via imapHost parameter | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Low — CVSS 3.5 | — | 11 |
+| 1737 | [1745755](../reports/1745755.md) | Hide download previews are accessible without a waterma | [Nextcloud](../by-program/nextcloud.md) | nextcloud/richdocuments | Low — CVSS 2.3 | — | 11 |
+| 1738 | [369185](../reports/369185.md) | Unsafe handling of protocol handlers | [Brave Software](../by-program/brave.md) | https://github.com/brave/browser-laptop | Low — CVSS 3.1 | — | 11 |
+| 1739 | [3488278](../reports/3488278.md) | MQTT: Missing upper bound on incoming Remaining Length  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 10 |
+| 1740 | [1991428](../reports/1991428.md) | CVE-2023-28322: more POST-after-PUT confusion | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 10 |
+| 1741 | [3621851](../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 10 |
+| 1742 | [375259](../reports/375259.md) | Cross-origin page stays focused before/after downloadin | [Brave Software](../by-program/brave.md) | https://github.com/brave/browser-laptop | Low | — | 10 |
+| 1743 | [317711](../reports/317711.md) | twofactor_auth bypassable if provider fails to load | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 10 |
+| 1744 | [320693](../reports/320693.md) | [hekto] open redirect when target domain name is used a | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | hekto | Low — CVSS 2.7 | — | 10 |
+| 1745 | [1261225](../reports/1261225.md) | High memory usage for generating preview of broken imag | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.5 | — | 10 |
+| 1746 | [1200810](../reports/1200810.md) | Admin audit is not properly logging unsetting of expira | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 10 |
+| 1747 | [1369312](../reports/1369312.md) | SSRF mitigation bypass using DNS Rebind attack | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Low — CVSS 3.5 | — | 10 |
+| 1748 | [3916059](../reports/3916059.md) | CVE-2026-18924: HTTP/2 server push UAF | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 10 |
+| 1749 | [2408074](../reports/2408074.md) | Proxy-Authorization header not cleared on cross-origin  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low | — | 9 |
+| 1750 | [276123](../reports/276123.md) | Password Complexity Not Enforced On Password Change | [ownCloud](../by-program/owncloud.md) | owncloud/core | Low | — | 9 |
+| 1751 | [3395666](../reports/3395666.md) | libcurl MQTT PUBLISH length overflow (heap overflow) | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 9 |
+| 1752 | [852841](../reports/852841.md) | Reduced purmations on encryption | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 9 |
+| 1753 | [1145454](../reports/1145454.md) | lib/net/ftp.rb: trusting PASV responses allow client ab | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Low — CVSS 3.7 | — | 9 |
+| 1754 | [1746582](../reports/1746582.md) | Mail app - blind SSRF via smtpHost parameter | [Nextcloud](../by-program/nextcloud.md) | nextcloud/mail | Low — CVSS 3.5 | — | 9 |
+| 1755 | [661051](../reports/661051.md) | Message Authentication Codes calculated by the Default  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 1.8 | — | 9 |
+| 1756 | [716570](../reports/716570.md) | Stored XSS (Hexo-admin plugin) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | hexo-admin | Low — CVSS 2.7 | — | 9 |
+| 1757 | [1167958](../reports/1167958.md) | Nextcloud deck sharee search leaks searches to lookupse | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | Low | — | 9 |
+| 1758 | [381194](../reports/381194.md) | Prototype pollution attack (merge.recursive) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | merge | Low | — | 9 |
+| 1759 | [1106652](../reports/1106652.md) | redirect_to(["string"]) remote code execution | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Low | — | 9 |
+| 1760 | [3521434](../reports/3521434.md) | View-only guests could see deleted Collectives pages in | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/collectives | Low — CVSS 2.6 | — | 9 |
+| 1761 | [3650689](../reports/3650689.md) | CVE-2026-5773: wrong reuse of SMB connection | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 9 |
+| 1762 | [1595299](../reports/1595299.md) | Read beyond bounds via ap_rwrite() [zhbug_httpd_47.2] | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/httpd | Low | — | 9 |
+| 1763 | [3460184](../reports/3460184.md) | Terminal Output Not Great | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 8 |
+| 1764 | [3692858](../reports/3692858.md) | Permission Model Bypass via `process.report.writeReport | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 1.8 | — | 8 |
+| 1765 | [873584](../reports/873584.md) | Stored XSS in the file search filter | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Low | — | 8 |
+| 1766 | [3838601](../reports/3838601.md) | Permission Model Bypass: `trace_events.createTracing(). | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.3 | — | 8 |
+| 1767 | [2051224](../reports/2051224.md) | fs.statfs bypasses Permission Model | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.3 | — | 8 |
+| 1768 | [1686935](../reports/1686935.md) | CVE-2022-35252: control code in cookie denial of servic | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 8 |
+| 1769 | [3508799](../reports/3508799.md) | Digest Authentication Header Injection | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 8 |
+| 1770 | [456702](../reports/456702.md) | [atlasboard-atlassian-package] Cross-site Scripting (XS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | atlasboard-atlassian-package | Low | — | 8 |
+| 1771 | [357665](../reports/357665.md) | DoS in Brave browser for iOS | [Brave Software](../by-program/brave.md) | https://github.com/brave/browser-ios | Low | — | 8 |
+| 1772 | [3485178](../reports/3485178.md) | Deck app: Invalid tag color is accepted by API and brea | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | Low — CVSS 2.7 | — | 7 |
+| 1773 | [3494098](../reports/3494098.md) | inconsistently Rejection Logic in file:// URLs with Aut | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 7 |
+| 1774 | [972561](../reports/972561.md) | kubeadm logs tokens before deleting them | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubeadm | Low — CVSS 3.4 | — | 7 |
+| 1775 | [1210458](../reports/1210458.md) | Serverinfo endpoints are not bruteforce protected nor a | [Nextcloud](../by-program/nextcloud.md) | nextcloud/serverinfo | Low | — | 7 |
+| 1776 | [1129529](../reports/1129529.md) | CVE-2021-22890: TLS 1.3 session ticket proxy host mixup | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 7 |
+| 1777 | [1546268](../reports/1546268.md) | CVE-2022-27775: Bad local IPv6 connection reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 7 |
+| 1778 | [3508852](../reports/3508852.md) | Application Data Hiding via Invalid `iconName` Causing  | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/tables | Low — CVSS 3.5 | — | 7 |
+| 1779 | [1814824](../reports/1814824.md) | curl file writing susceptible to symlink attacks | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 7 |
+| 1780 | [3793495](../reports/3793495.md) | Incomplete Suppression of  Transfer-Encoding: chunked H | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 7 |
+| 1781 | [794144](../reports/794144.md) | Open redirection bypass in /www/admin/campaign-modify.p | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Low | — | 7 |
+| 1782 | [281336](../reports/281336.md) | Negative size in tar header causes infinite loop | [RubyGems](../by-program/rubygems.md) | https://github.com/rubygems/rubygems | Low | — | 7 |
+| 1783 | [1169335](../reports/1169335.md) | Password policy changes not enforced for existing passw | [Nextcloud](../by-program/nextcloud.md) | nextcloud/password_policy | Low | — | 7 |
+| 1784 | [1814333](../reports/1814333.md) | CVE-2023-23915: HSTS amnesia with --parallel | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 7 |
+| 1785 | [888261](../reports/888261.md) | The password of a mail share is not set if the password | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 7 |
+| 1786 | [476615](../reports/476615.md) | Private/confidential setting of calendar events is igno | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 7 |
+| 1787 | [3508321](../reports/3508321.md) | Integer-underflow leads to heap over-read in TFTP imple | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 7 |
+| 1788 | [1721098](../reports/1721098.md) | CVE-2022-35260: .netrc parser out-of-bounds access | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 7 |
+| 1789 | [3304830](../reports/3304830.md) | Files drop share links for end-to-end encrypted folders | [Nextcloud](../by-program/nextcloud.md) | nextcloud/end_to_end_encryption | Low — CVSS 3.5 | — | 7 |
+| 1790 | [1927499](../reports/1927499.md) | Testing flow includes a DeepSource secret | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/wlc | Low | — | 7 |
+| 1791 | [358339](../reports/358339.md) | File access control rules not enforced on image files | [Nextcloud](../by-program/nextcloud.md) | nextcloud/files_accesscontrol | Low — CVSS 3.5 | — | 7 |
+| 1792 | [3971462](../reports/3971462.md) | Heap-use-after-free in CURLOPT_REFERER when passed a CU | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 7 |
+| 1793 | [1047447](../reports/1047447.md) | HostAuthorization middleware does not suitably sanitize | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Low | — | 7 |
+| 1794 | [1364797](../reports/1364797.md) | SSRF - pivoting in the private LAN | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Low — CVSS 3.5 | — | 7 |
+| 1795 | [545052](../reports/545052.md) | Github wikis are editable by anyone #Githubwikistakeove | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 6 |
+| 1796 | [1246721](../reports/1246721.md) | Text app leaks file path of shared files | [Nextcloud](../by-program/nextcloud.md) | nextcloud/text | Low | — | 6 |
+| 1797 | [1354334](../reports/1354334.md) | Error in Deleting Deck cards attachment reveals the ful | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | Low — CVSS 3.5 | — | 6 |
+| 1798 | [1548535](../reports/1548535.md) | --libcurl code injection via trigraphs | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 6 |
+| 1799 | [3993973](../reports/3993973.md) | HTTP Digest nonce reused across an https→http scheme ch | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 6 |
+| 1800 | [1191209](../reports/1191209.md) | Email Spoofing on sifchain.finance | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 6 |
+| 1801 | [1204977](../reports/1204977.md) | CGI::Cookieクラスにおけるセキュリティ上好ましくない仕様および実装 | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Low | — | 6 |
+| 1802 | [815084](../reports/815084.md) | [Limited bypass of #793704] Blind SSRF in Ghost CMS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Ghost | Low — CVSS 2.7 | — | 6 |
+| 1803 | [3717552](../reports/3717552.md) | CURLOPT_PROXY_CRLFILE / CURLOPT_PROXY_ISSUERCERT / CURL | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 6 |
+| 1804 | [3449392](../reports/3449392.md) | CVE-2024-36137 Patch Bypass - FileHandle.chmod/chown | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.3 | — | 6 |
+| 1805 | [1929597](../reports/1929597.md) | CVE-2023-28320: siglongjmp race condition | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 6 |
+| 1806 | [802011](../reports/802011.md) | Grafana Improper authorization  | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/test-infra | Low | — | 6 |
+| 1807 | [3993850](../reports/3993850.md) | Apple SecTrust fallback ignores CURLOPT_CRLFILE, lettin | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 6 |
+| 1808 | [378809](../reports/378809.md) | `alert()` dialogs on `chrome-extension://` origin (inte | [Brave Software](../by-program/brave.md) | https://github.com/brave/muon | Low | — | 6 |
+| 1809 | [1813864](../reports/1813864.md) | CVE-2023-23914: curl HSTS ignored on multiple requests | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 6 |
+| 1810 | [1108420](../reports/1108420.md) | HTML Injection on "polls" app - comments section (possi | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 6 |
+| 1811 | [1781751](../reports/1781751.md) | Ability to control the filename when uploading a logo o | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 2.4 | — | 6 |
+| 1812 | [882923](../reports/882923.md) | DoS for client-go jsonpath func | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/client-go | Low | — | 6 |
+| 1813 | [1596252](../reports/1596252.md) | DoS via lua_read_body() [zhbug_httpd_94] | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/httpd | Low | — | 5 |
+| 1814 | [377206](../reports/377206.md) | `settingcontent-ms` files lacks "mark of the web" => ex | [Brave Software](../by-program/brave.md) | https://github.com/brave/muon | Low | — | 5 |
+| 1815 | [1595281](../reports/1595281.md) | Read beyond bounds in ap_strcmp_match() [zhbug_httpd_47 | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/httpd | Low | — | 5 |
+| 1816 | [1195593](../reports/1195593.md) | Talk discloses turn server to anybody | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Low | — | 5 |
+| 1817 | [873474](../reports/873474.md) | Stored XSS on express entries | [Concrete CMS](../by-program/concretecms.md) | https://github.com/concrete5/concrete5 | Low | — | 5 |
+| 1818 | [660563](../reports/660563.md) | [script-manager] Unintended require | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low | — | 5 |
+| 1819 | [1745702](../reports/1745702.md) | Insecure randomness for default password in file sharin | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.5 | — | 5 |
+| 1820 | [1092859](../reports/1092859.md) | KOPS documentation references domains which were not re | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kops | Low — CVSS 3.1 | — | 5 |
+| 1821 | [3533697](../reports/3533697.md) | Public collectives allow to create pages | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/collectives | Low — CVSS 3.5 | — | 5 |
+| 1822 | [316346](../reports/316346.md) | [public] Stored XSS in filenames in directory served by | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | public | Low — CVSS 3.9 | — | 5 |
+| 1823 | [1081986](../reports/1081986.md) | Potential Authentication Bypass through "autologin" fea | [ImpressCMS](../by-program/impresscms.md) | https://github.com/impresscms/impresscms | Low | — | 5 |
+| 1824 | [1555441](../reports/1555441.md) | CVE-2022-27781: CERTINFO never-ending busy-loop | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 5 |
+| 1825 | [1145044](../reports/1145044.md) | Holes in EndpointSlice Validation Enable Host Network H | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Low — CVSS 2.7 | — | 5 |
+| 1826 | [3968853](../reports/3968853.md) | OpenSSL ENGINE selection omitted from mTLS connection m | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 5 |
+| 1827 | [321704](../reports/321704.md) | `njwt` allocates uninitialized Buffers when number is p | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low — CVSS 1.8 | — | 5 |
+| 1828 | [1595296](../reports/1595296.md) | Read beyond bounds in mod_isapi.c [zhbug_httpd_41] | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/httpd | Low | — | 5 |
+| 1829 | [1690510](../reports/1690510.md) | the complete server installation path is visible in clo | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.5 | — | 5 |
+| 1830 | [1606039](../reports/1606039.md) | CVE-2022-27781: CERTINFO never-ending busy-loop | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 5 |
+| 1831 | [1195429](../reports/1195429.md) | No Rate Limit protection in user subscription form | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 5 |
+| 1832 | [1101882](../reports/1101882.md) | CVE-2021-22876: Automatic referer leaks credentials | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 5 |
+| 1833 | [1187018](../reports/1187018.md) | wrong url in hackerone > goes to wix.com > unconnected | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 5 |
+| 1834 | [1694171](../reports/1694171.md) | Multiple cross-site scripting (XSS) vulnerabilities in  | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Low | — | 5 |
+| 1835 | [1595290](../reports/1595290.md) | Controllable read beyond bounds in lua_websocket_readby | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/apache/httpd | Low | — | 5 |
+| 1836 | [310707](../reports/310707.md) | Prototype pollution attack (assign-deep) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | assign-deep | Low — CVSS 1.8 | — | 4 |
+| 1837 | [3788984](../reports/3788984.md) | CVE-2026-11564: Native CA trust persist | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 4 |
+| 1838 | [1378706](../reports/1378706.md) | RDoc::MethodAttr is vulnerable to Regular Expression De | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Low | — | 4 |
+| 1839 | [526258](../reports/526258.md) | environment variable leakage in error reporting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | seneca | Low — CVSS 3.3 | — | 4 |
+| 1840 | [1596918](../reports/1596918.md) | Brute force protections don't work | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.7 | — | 4 |
+| 1841 | [1625036](../reports/1625036.md) | Insecure loading of ICU data through ICU_DATA environme | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.0 | — | 4 |
+| 1842 | [4044441](../reports/4044441.md) | Translation discovery crashes on crafted filenames (reg | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/translatio | Low | — | 4 |
+| 1843 | [1891474](../reports/1891474.md) | CVE-2023-27533: Telnet option IAC injection | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 4 |
+| 1844 | [1991427](../reports/1991427.md) | CVE-2023-28321: IDN wildcard match | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 4 |
+| 1845 | [4040149](../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves st | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/wlc | Low | — | 4 |
+| 1846 | [1889477](../reports/1889477.md) | Security Unfavorable Specifications and Implementations | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/ruby | Low | — | 4 |
+| 1847 | [1898475](../reports/1898475.md) | CVE-2023-27538: SSH connection too eager reuse still | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 4 |
+| 1848 | [2037887](../reports/2037887.md) | fs.mkdtemp() and fs.mkdtempSync() are missing getValida | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 2.9 | — | 4 |
+| 1849 | [311236](../reports/311236.md) | Prototype pollution attack (mixin-deep) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | mixin-deep | Low — CVSS 1.8 | — | 4 |
+| 1850 | [2904921](../reports/2904921.md) | OS Command Injection  (subprocess Module Usage) | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 4 |
+| 1851 | [1895135](../reports/1895135.md) | CVE-2023-27536: GSS delegation too eager connection re- | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 4 |
+| 1852 | [661847](../reports/661847.md) | Integer overflows in tool_operate.c at line 1541 | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low — CVSS 3.3 | — | 4 |
+| 1853 | [311333](../reports/311333.md) | Prototype pollution attack (deep-extend) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | deep-extend | Low — CVSS 2.0 | — | 4 |
+| 1854 | [321702](../reports/321702.md) | `put` allocates uninitialized Buffers when non-round nu | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low — CVSS 1.8 | — | 4 |
+| 1855 | [1200989](../reports/1200989.md) | No admin audit entry for enabling/disabling 2FA | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 4 |
+| 1856 | [819362](../reports/819362.md) | Cross Site Scripting and Open Redirect in affiliate-pre | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Low | — | 4 |
+| 1857 | [1569946](../reports/1569946.md) | CVE-2022-32205: Set-Cookie denial of service | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 4 |
+| 1858 | [1825377](../reports/1825377.md) |  libssh backend CURLOPT_SSH_HOST_PUBLIC_KEY_SHA256 vali | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low — CVSS 3.7 | — | 4 |
+| 1859 | [1607601](../reports/1607601.md) | @nextcloud/logger NPM package brings vulnerable ansi-re | [Nextcloud](../by-program/nextcloud.md) | nextcloud/password_policy | Low — CVSS 2.7 | — | 4 |
+| 1860 | [310439](../reports/310439.md) | Prototype pollution attack (Hoek) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | hoek | Low — CVSS 2.5 | — | 4 |
+| 1861 | [310133](../reports/310133.md) | [glance] Stored XSS via file name allows to run arbitra | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | glance | Low — CVSS 3.9 | — | 4 |
+| 1862 | [3710209](../reports/3710209.md) | Potential Resource Leak in tool_parsecfg.c at line 279  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 4 |
+| 1863 | [1195568](../reports/1195568.md) | Ransomware protection is missing extentions | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 3 |
+| 1864 | [3564941](../reports/3564941.md) | HTTP Request Smuggling via Silent Header Truncation in  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.7 | — | 3 |
+| 1865 | [310671](../reports/310671.md) | [file-static-server] Path Traversal allows to read cont | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low — CVSS 3.5 | — | 3 |
+| 1866 | [1892351](../reports/1892351.md) | CVE-2023-27534: SFTP path ~ resolving discrepancy | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 3 |
+| 1867 | [1913110](../reports/1913110.md) | CVE-2023-27537: HSTS double-free | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/curl/curl | Low | — | 3 |
+| 1868 | [3751697](../reports/3751697.md) | CVE-2026-10536: HTTP/2 stream-dependency tree UAF | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 3 |
+| 1869 | [1354255](../reports/1354255.md) | Open redirect in fastify-static via mishandled user's i | [Fastify](../by-program/fastify.md) | https://github.com/fastify | Low — CVSS 3.7 | — | 3 |
+| 1870 | [1195194](../reports/1195194.md) | Wordpress Users Disclosure (/wp-json/wp/v2/users/) on s | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 3 |
+| 1871 | [1994328](../reports/1994328.md) | App stores client secret unencrypted in database | [Nextcloud](../by-program/nextcloud.md) | nextcloud/user_oidc | Low — CVSS 3.8 | — | 3 |
+| 1872 | [310514](../reports/310514.md) | Prototype pollution attack (defaults-deep) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | defaults-deep | Low — CVSS 1.8 | — | 3 |
+| 1873 | [310708](../reports/310708.md) | Prototype pollution attack (merge-deep) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | merge-deep | Low — CVSS 1.8 | — | 3 |
+| 1874 | [390663](../reports/390663.md) | Open redirect in switch account functionality | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | Low — CVSS 3.1 | — | 3 |
+| 1875 | [4103651](../reports/4103651.md) | TFTP accepts a first response from an IP other than the | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 3 |
+| 1876 | [4022462](../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (de | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/translatio | Low | — | 3 |
+| 1877 | [1784449](../reports/1784449.md) | Regular Expression Denial of Service in Headers | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.1 | — | 3 |
+| 1878 | [895730](../reports/895730.md) | Contacts menu (not app) fails to restrict (to local gro | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 3.2 | — | 3 |
+| 1879 | [3969368](../reports/3969368.md) | CVE-2026-80231: native CA store conn reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 3 |
+| 1880 | [298218](../reports/298218.md) | antispambot does not always escape <, >, &, " and ' | [WordPress](../by-program/wordpress.md) | WordPress Core | Low | — | 3 |
+| 1881 | [3774279](../reports/3774279.md) | heap-use-after-free in state.referer when CURLOPT_REFER | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 3 |
+| 1882 | [1954658](../reports/1954658.md) | CVE-2023-28322: more POST-after-PUT confusion | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 3 |
+| 1883 | [3824303](../reports/3824303.md) | UAF read in mev_pollset_diff() trace path after curl_ea | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 3 |
+| 1884 | [503821](../reports/503821.md) | Assertion `col >= 0 && col < line->cols' failed, proces | [PuTTY (European Commission - DIGIT)](../by-program/putty_h1c.md) | https://www.chiark.greenend.org.uk/~sgta | Low | — | 3 |
+| 1885 | [1223882](../reports/1223882.md) | CVE-2021-22925: TELNET stack contents disclosure again | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low — CVSS 3.1 | — | 3 |
+| 1886 | [677955](../reports/677955.md) | `indexFile` option passed as an argument to node-server | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | node-static | Low | — | 3 |
+| 1887 | [1200992](../reports/1200992.md) | No admin audit log for auth tokens | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 3 |
+| 1888 | [321701](../reports/321701.md) | `utile` allocates uninitialized Buffers when number is  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low — CVSS 1.8 | — | 3 |
+| 1889 | [3521639](../reports/3521639.md) | Improper Input Validation and Integer Overflow in timea | [Nextcloud](../by-program/nextcloud.md) | nextcloud/files_retention | Low — CVSS 3.8 | — | 2 |
+| 1890 | [3872858](../reports/3872858.md) | Stored HTML Injection (CWE-79) via Livechat Visitor Nam | [Rocket.Chat](../by-program/rocket_chat.md) | https://github.com/RocketChat/Rocket.Cha | Low | — | 2 |
+| 1891 | [3976342](../reports/3976342.md) | IMAP connection reuse runs requests in the wrong case-s | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
+| 1892 | [1639423](../reports/1639423.md) | Insecure TLS Configuration #3530 | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric | Low | — | 2 |
+| 1893 | [3823985](../reports/3823985.md) | Use-after-free in `mev_forget_socket` when `curl_easy_p | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
+| 1894 | [1589847](../reports/1589847.md) | Heap overflow via HTTP/2 PUSH_PROMISE | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
+| 1895 | [4128701](../reports/4128701.md) | Pinned public key check passes for a key the server doe | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
+| 1896 | [831654](../reports/831654.md) | "Self" DOS with large deployment and scaling | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | Low — CVSS 3.7 | — | 2 |
+| 1897 | [3636758](../reports/3636758.md) | Cross-room signaling injection enabling unauthorized fo | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | Low — CVSS 3.3 | — | 2 |
+| 1898 | [3749428](../reports/3749428.md) | curl cross-origin HTTPS redirect reuses TLS client cert | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
+| 1899 | [2070810](../reports/2070810.md) | Potential NULL dereference in libssh's sftp server | [Internet Bug Bounty](../by-program/ibb.md) | https://git.libssh.org/ | Low — CVSS 3.1 | — | 2 |
+| 1900 | [3783438](../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loo | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
+| 1901 | [264426](../reports/264426.md) | Nextcloud logs ldap passwords | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 2 |
+| 1902 | [4122227](../reports/4122227.md) | wolfSSL TLS sessions retain native-CA trust after the a | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
+| 1903 | [310446](../reports/310446.md) | Prototype pollution attack (deap) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | deap | Low — CVSS 2.0 | — | 2 |
+| 1904 | [1468962](../reports/1468962.md) | Binary output bypass | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
+| 1905 | [3749204](../reports/3749204.md) | CVE-2026-9080: UAF after pause in socket callback | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
+| 1906 | [1173670](../reports/1173670.md) | Trusted server shared secret stored unencrypted in the  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 2 |
+| 1907 | [3599470](../reports/3599470.md) | Improper input validation in emoji field leads to sideb | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/collectives | Low — CVSS 3.1 | — | 2 |
+| 1908 | [765664](../reports/765664.md) | Heap Buffer Overflow (READ of size 1) in ourWriteOut | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
+| 1909 | [796139](../reports/796139.md) | Github test clientID and clientSecret leaked | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/test-infra | Low | — | 2 |
+| 1910 | [3766392](../reports/3766392.md) | curl External-Controlled Filename in `--url @file` Lead | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
+| 1911 | [3582376](../reports/3582376.md) | HTTP Response Queue Poisoning via TOCTOU Race Condition | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.7 | — | 2 |
+| 1912 | [453795](../reports/453795.md) | [harp] Unsafe rendering of Markdown files | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | harp | Low — CVSS 3.3 | — | 2 |
+| 1913 | [2104567](../reports/2104567.md) | (CVE-2023-32003) fs.mkdtemp() and fs.mkdtempSync() are  | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/nodejs/node | Low | — | 2 |
+| 1914 | [446662](../reports/446662.md) | Node.js HTTP/2 Large Settings Frame DoS | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low | — | 2 |
+| 1915 | [3822248](../reports/3822248.md) | CVE-2026-13608: OpenLDAP SASL authentication bypass | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
+| 1916 | [1198203](../reports/1198203.md) | Bootstrap library is vulnerable | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 2 |
+| 1917 | [949712](../reports/949712.md) | DoS attack against the client when entering a long pass | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low — CVSS 2.2 | — | 2 |
+| 1918 | [3754343](../reports/3754343.md) | CVE-2026-9546: sending old referer | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
+| 1919 | [3524971](../reports/3524971.md) | Users with read-only access to a Nextcloud Table can en | [Nextcloud](../by-program/nextcloud.md) | https://github.com/nextcloud/tables | Low — CVSS 3.3 | — | 2 |
+| 1920 | [885041](../reports/885041.md) | The password of a mail share is not hashed if the passw | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 2 |
+| 1921 | [3943436](../reports/3943436.md) | Unauthenticated attacker can book appointments at arbit | [Nextcloud](../by-program/nextcloud.md) | nextcloud/calendar | Low — CVSS 3.7 | — | 2 |
+| 1922 | [1950627](../reports/1950627.md) | CVE-2023-28321: IDN wildcard match | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
+| 1923 | [3938220](../reports/3938220.md) | libcurl cache updates follow symlinks and truncate thei | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
+| 1924 | [3797526](../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
+| 1925 | [3788931](../reports/3788931.md) | CVE-2026-11586: WS Auto-PONG memory exhaustion | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 2 |
+| 1926 | [755354](../reports/755354.md) | Prevent XSS when passing a parameter directly into link | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Low | — | 2 |
+| 1927 | [3521646](../reports/3521646.md) | Missing Duplicate Check allowing Multiple Retention Rul | [Nextcloud](../by-program/nextcloud.md) | nextcloud/files_retention | Low — CVSS 3.8 | — | 2 |
+| 1928 | [3780733](../reports/3780733.md) | DNS domain search list followed for extant domain missi | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1929 | [4123571](../reports/4123571.md) | Redirect to imap/pop3/smtp (SASL) or sftp/scp (libssh)  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1930 | [4126768](../reports/4126768.md) | SSH host-key policy is missing from the connection-reus | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1931 | [4117330](../reports/4117330.md) | Anonymous Translation Suggestion IP Address Exposure Th | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/weblate | Low | — | 1 |
+| 1932 | [993975](../reports/993975.md) | [zenn-cli] Path traversal on Windows allows the attacke | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low | — | 1 |
+| 1933 | [897974](../reports/897974.md) | Arbitrary code execution via untrusted schemas in ajv | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low | — | 1 |
+| 1934 | [3735184](../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1935 | [3618831](../reports/3618831.md) | Unix domain socket server bypasses --permission network | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.3 | — | 1 |
+| 1936 | [3625987](../reports/3625987.md) | Permission Model bypass via FileHandle.utimes() in the  | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.3 | — | 1 |
+| 1937 | [1090678](../reports/1090678.md) | Command injection in OptionParser.load | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | Low | — | 1 |
+| 1938 | [3752888](../reports/3752888.md) | CVE-2026-9545: exposing HTTP/3 early data | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1939 | [3996423](../reports/3996423.md) | Permission Model filesystem over-grant via wildcard rad | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.6 | — | 1 |
+| 1940 | [4124849](../reports/4124849.md) | CVE-2026-111951: curl -OJ truncate without filename | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1941 | [1188643](../reports/1188643.md) | Vulnerable javascript dependency at Main domain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 1 |
+| 1942 | [636013](../reports/636013.md) | huge COLUMNS causes progress-bar to buffer overflow | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1943 | [1572120](../reports/1572120.md) | curl "globbing" can lead to denial of service attacks | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1944 | [724134](../reports/724134.md) | Race condition with CURL_LOCK_DATA_CONNECT can cause co | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1945 | [4099194](../reports/4099194.md) | CVE-2026-107928: info leak uploading over WebSockets wi | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1946 | [4124486](../reports/4124486.md) | RTSP ANNOUNCE/SET_PARAMETER upload with --use-ascii / C | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1947 | [4118643](../reports/4118643.md) | OpenSSL provider OSSL_LIB_CTX used after free via the c | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1948 | [4099618](../reports/4099618.md) | CVE-2026-107929: local interface connection reuse mixup | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1949 | [694449](../reports/694449.md) | Buffer write overflow when forming dns over http reques | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1950 | [4093443](../reports/4093443.md) |  Cookie attribute truncation in curl drops Secure/HttpO | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1951 | [776371](../reports/776371.md) | [chart.js] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low — CVSS 3.1 | — | 1 |
+| 1952 | [662412](../reports/662412.md) | Integer overflow  at line 1603 in the src/operator.c fi | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low — CVSS 3.3 | — | 1 |
+| 1953 | [3721183](../reports/3721183.md) | CVE-2026-8458: wrong reuse for different services | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1954 | [4123050](../reports/4123050.md) | CVE-2026-11586 fix is incomplete: auto-PONG memory grow | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1955 | [696822](../reports/696822.md) | Potential invocation of qsort on uninitialized memory d | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1956 | [1188662](../reports/1188662.md) | Username disclosure at Main Domain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 1 |
+| 1957 | [3733910](../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1958 | [3838675](../reports/3838675.md) | Permission Model bypass with fs.realpathSync | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.3 | — | 1 |
+| 1959 | [3815767](../reports/3815767.md) | Permission Model bypass: process.report writes (and ove | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | Low — CVSS 3.3 | — | 1 |
+| 1960 | [1102064](../reports/1102064.md) | kubectl creating secrets from stringData leaves secret  | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubectl | Low — CVSS 3.5 | — | 1 |
+| 1961 | [812028](../reports/812028.md) | xss on setup config page  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 1 |
+| 1962 | [3718195](../reports/3718195.md) | CVE-2026-8286: wrong STARTTLS connection reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1963 | [1126401](../reports/1126401.md) | HTTPS not enforced at dex.sifchain.finance | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 1 |
+| 1964 | [1463013](../reports/1463013.md) | Occasional use-after-free in multi_done() libcurl-7.81. | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1965 | [311336](../reports/311336.md) | Prototype pollution attack (merge-options) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | merge-options | Low — CVSS 2.6 | — | 1 |
+| 1966 | [4071872](../reports/4071872.md) | libcurl: Secure=1 cookie flag bypasses the 8.22.0 fix a | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1967 | [3770979](../reports/3770979.md) | SMTP connection reuse ignores --ssl-reqd / CURLOPT_USE_ | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1968 | [4063328](../reports/4063328.md) | curl tool: --hsts is ignored for a schemeless URL start | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1969 | [3769293](../reports/3769293.md) | Low priority HSTS bypass in curl_easy_duphandle() | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1970 | [3831432](../reports/3831432.md) | setopt(VERIFYPEER) from callback bypasses TLS verify on | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1971 | [311337](../reports/311337.md) | Prototype pollution attack (merge-recursive) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | merge-recursive | Low — CVSS 2.0 | — | 1 |
+| 1972 | [707006](../reports/707006.md) | use after free in cookie.c | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1973 | [640530](../reports/640530.md) | Insecure Frame (External) | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 1 |
+| 1974 | [3733905](../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 1975 | [3971496](../reports/3971496.md) | 28: HTTP/3 UDP path ignores CURL_SOCKOPT_ALREADY_CONNEC | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 1976 | [4127756](../reports/4127756.md) | urlapi: CURLUPART_HOST accepts text after an IPv6 zone  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 1977 | [4130124](../reports/4130124.md) |  server filename with control characters printed to ter | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 1978 | [3568116](../reports/3568116.md) | FederationController::remoteWopiToken() returns full Wo | [Nextcloud](../by-program/nextcloud.md) | nextcloud/richdocuments | Low — CVSS 3.5 | — | 0 |
+| 1979 | [1188652](../reports/1188652.md) | Design Issues at Main Domain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 0 |
+| 1980 | [4112709](../reports/4112709.md) | CVE-2026-111482: libssh2 knownhosts prefix match | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 1981 | [4123654](../reports/4123654.md) | SCP upload with --crlf sends more bytes than the size d | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 1982 | [4112912](../reports/4112912.md) | CVE-2026-111481: server-set cookie still aborts cookie  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 1983 | [4122300](../reports/4122300.md) | CVE-2026-111953: GnuTLS SecTrust OCSP staple bypass | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 1984 | [3832393](../reports/3832393.md) | libcurl upload read callbacks miss recursive API guard, | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 1985 | [667613](../reports/667613.md) | Username Enumeration | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | Low | — | 0 |
+| 1986 | [4122175](../reports/4122175.md) | CVE-2026-111950: TLS session cache diff scheme reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 1987 | [4147581](../reports/4147581.md) | Incomplete IDN hostname check on the transfer path can  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 1988 | [4122567](../reports/4122567.md) | passive FTPS data connection handshake blocks curl_mult | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 1989 | [3970639](../reports/3970639.md) | --etag-save - truncates append-redirected stdout | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 1990 | [4123304](../reports/4123304.md) | OpenSSL+Apple SecTrust: SecTrust accepts certificates t | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 1991 | [4127231](../reports/4127231.md) | Derived cookie Path aborts cookie jar loading in curl 8 | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 1992 | [4124722](../reports/4124722.md) |  WebSocket send queue use-after-free during nested curl | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 1993 | [3975408](../reports/3975408.md) | CVE-2026-87865: knownhost callback mismatches key as mi | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 1994 | [856588](../reports/856588.md) | [flsaba] Stored XSS in the file and directory name when | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | Low — CVSS 3.9 | — | 0 |
+| 1995 | [4105790](../reports/4105790.md) | FTP authentication options leak to a cross-origin FTP r | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 1996 | [4135291](../reports/4135291.md) | Heap-use-after-free in libcurl's multi event machinery  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 1997 | [1195512](../reports/1195512.md) | Wrong Url in Main page of sifchain.finance | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 0 |
+| 1998 | [4123646](../reports/4123646.md) | TLS session cache key omits native_ca_store: a session  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 1999 | [2389431](../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | Low | — | 0 |
+| 2000 | [1198877](../reports/1198877.md) | Wrong Implementation of Url in https://docs.sifchain.fi | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | Low | — | 0 |
+| 2001 | [4114965](../reports/4114965.md) | Explicit NO_PROXY /0 CIDR rules fail to bypass HTTP pro | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 2002 | [4123190](../reports/4123190.md) | CVE-2026-111954: upload reader failed redirect UAF | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 2003 | [4123474](../reports/4123474.md) | Cross-protocol redirect to imap:// or smtp:// uploads t | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 2004 | [3970650](../reports/3970650.md) | Stacked --proto modifiers leave denied protocol enabled | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 2005 | [4116527](../reports/4116527.md) | CVE-2026-111878: OpenSSL provider UAF on TLS shutdown | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 2006 | [1564922](../reports/1564922.md) | Integer overflows in unescape_word() | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 2007 | [4113412](../reports/4113412.md) | libcurl RTSP `CURLOPT_CRLF` conversion allows a request | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 2008 | [4125257](../reports/4125257.md) | Symlink-following truncation of arbitrary files in `Cur | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 2009 | [3993566](../reports/3993566.md) | CVE-2026-86414: leaking host credentials to HTTP proxy | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 2010 | [3968431](../reports/3968431.md) | ARG_CLEAR credential scrubbing wipes only UTF-8 copies  | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 2011 | [872089](../reports/872089.md) | Curl_auth_create_plain_message integer overflow leads t | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low — CVSS 2.8 | — | 0 |
+| 2012 | [4137523](../reports/4137523.md) | CURL_NETRC_REQUIRED sends the URL password when the .ne | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 2013 | [3993870](../reports/3993870.md) | CVE-2026-86415: auto client cert connection reuse mixup | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 2014 | [4136767](../reports/4136767.md) | CVE-2026-115529: Schannel TLS auto client session resum | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 2015 | [4166602](../reports/4166602.md) | Re-entrant curl_easy_pause UAF in cw-pause | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 2016 | [4102061](../reports/4102061.md) | CVE-2026-111480: pause UAF from within callback | [curl](../by-program/curl.md) | https://github.com/curl/curl | Low | — | 0 |
+| 2017 | [2168002](../reports/2168002.md) | Authenticated path traversal to Stored XSS and Denial-o | [phpBB](../by-program/phpbb.md) | https://github.com/phpbb/phpbb | None | — | 69 |
+| 2018 | [3122019](../reports/3122019.md) | Remote Code Execution via unsafe usage of `reply.view({ | [Fastify](../by-program/fastify.md) | https://github.com/fastify | None | — | 66 |
+| 2019 | [651518](../reports/651518.md) | OS Command Injection via egrep in Rake::FileList | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 62 |
+| 2020 | [3302484](../reports/3302484.md) | CWE-195 in ExternalMemoryAccounter::Increase() | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 55 |
+| 2021 | [3148937](../reports/3148937.md) | `Curl_socketpair()` fallback vulnerable to man-in-the-m | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 45 |
+| 2022 | [3133379](../reports/3133379.md) | CRLF Injection in `--proxy-header` allows extra HTTP he | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 42 |
+| 2023 | [1187477](../reports/1187477.md) | RCE by parsing `.rdoc_options` in RDoc | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 41 |
+| 2024 | [3367676](../reports/3367676.md) | tabnabbing in roundcube webmail | [Nextcloud](../by-program/nextcloud.md) | https://github.com/roundcube/roundcubema | None | — | 37 |
+| 2025 | [3639277](../reports/3639277.md) | Bypassing Strict SSH Server Verification via Connection | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 37 |
+| 2026 | [3463619](../reports/3463619.md) | testing hackerone functions | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 35 |
+| 2027 | [221507](../reports/221507.md) | Multiple stored XSS in WordPress | [WordPress](../by-program/wordpress.md) | WordPress Core | None | — | 35 |
+| 2028 | [1485717](../reports/1485717.md) | ReDoS in IPAddr | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 31 |
+| 2029 | [3516878](../reports/3516878.md) | Cross‑origin cookies leak and injection risk when using | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 30 |
+| 2030 | [3518758](../reports/3518758.md) | IDOR on ██████ via direct photo URL leads to unauthoriz | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 30 |
+| 2031 | [3483225](../reports/3483225.md) | A quiet New Year wish for security researchers | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 30 |
+| 2032 | [2720030](../reports/2720030.md) | Open redirect when logging in with user_oidc | [Nextcloud](../by-program/nextcloud.md) | nextcloud/user_oidc | None | — | 30 |
+| 2033 | [3679660](../reports/3679660.md) | mruby-engine: UAF in MRubyEngine#initialize enables loc | [Shopify](../by-program/shopify.md) | https://github.com/Shopify/* | None | — | 30 |
+| 2034 | [3324901](../reports/3324901.md) | libcurl: Host-Only Cookies Leak to Alternate IPv4 Forms | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 30 |
+| 2035 | [3283232](../reports/3283232.md) | Use After Free (that leads to arbitrary Write for some  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 30 |
+| 2036 | [2981245](../reports/2981245.md) | ("possible") UAF | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 29 |
+| 2037 | [1067824](../reports/1067824.md) | Database error shown to the user when using a long gues | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 29 |
+| 2038 | [3575250](../reports/3575250.md) | RTSP RTP Interleaved Parser Assertion Failure (Zero-Len | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 28 |
+| 2039 | [3306475](../reports/3306475.md) | curl leaks destination IP via glibc getaddrinfo() UDP c | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 28 |
+| 2040 | [1119120](../reports/1119120.md) | Bundler's RCE with response using Marshal | [RubyGems](../by-program/rubygems.md) | https://github.com/rubygems/rubygems | None | — | 28 |
+| 2041 | [3137657](../reports/3137657.md) | Memory Leak | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 28 |
+| 2042 | [3361913](../reports/3361913.md) | AWS SigV4 Signature Disclosure via Verbose Logging in l | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 27 |
+| 2043 | [3117697](../reports/3117697.md) | Double Free Vulnerability in `libcurl` Cookie Managemen | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 27 |
+| 2044 | [3357960](../reports/3357960.md) | SMTP Command Injection Vulnerabilities in curl | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 27 |
+| 2045 | [2449038](../reports/2449038.md) | CVE-2019-1551: rsaz_512_sqr overflow bug on x86_64 | [Internet Bug Bounty](../by-program/ibb.md) | https://github.com/openssl/openssl | None | — | 26 |
+| 2046 | [1487889](../reports/1487889.md) | ReDoS in Psych | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 26 |
+| 2047 | [3344663](../reports/3344663.md) | Security Analysis Report: CURL Integer Overflow Vulnera | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 26 |
+| 2048 | [3022041](../reports/3022041.md) | Use after free (read) in curl_multi_perform with DoH an | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 26 |
+| 2049 | [3636244](../reports/3636244.md) | HackerOne Vulnerability Report: libcurl SSL/TLS Identit | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 26 |
+| 2050 | [3409193](../reports/3409193.md) | HackerOne | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 26 |
+| 2051 | [3268294](../reports/3268294.md) | Exposure of Private RSA Private Key in curl GitHub Repo | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 26 |
+| 2052 | [3609505](../reports/3609505.md) | HSTS accepted from HTTP origin behind HTTPS proxy | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 25 |
+| 2053 | [3456148](../reports/3456148.md) | Unbounded decompression chain in HTTP responses on Node | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 24 |
+| 2054 | [3324190](../reports/3324190.md) | Heap-buffer-overflow (Out-of-Bounds Read) in DoH hostna | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 24 |
+| 2055 | [3258022](../reports/3258022.md) | curl ASSERTs when accessing an LDAP URL | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 24 |
+| 2056 | [3409186](../reports/3409186.md) | Hi Hacker | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 22 |
+| 2057 | [942146](../reports/942146.md) | Open Github Repo Leaking WEBLATE SECRET KEY | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/weblate | None | — | 22 |
+| 2058 | [3620761](../reports/3620761.md) | Health check errors silently dropped when channel buffe | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/kubernetes-sigs/aws-e | None | — | 21 |
+| 2059 | [3116935](../reports/3116935.md) | Use of a Broken or Risky Cryptographic Algorithm (CWE-3 | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 21 |
+| 2060 | [3261310](../reports/3261310.md) | OpenSSL HTTP/3 bogus CURLINFO_TLS_SSL_PTR | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 21 |
+| 2061 | [3516202](../reports/3516202.md) | Cookie Replacement Use-After-Free Vulnerability | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 21 |
+| 2062 | [1327196](../reports/1327196.md) | Content Security Policy is only active for HTML respons | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | None | — | 20 |
+| 2063 | [2260337](../reports/2260337.md) | Permissions can be bypassed via arbitrary code executio | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 20 |
+| 2064 | [2058556](../reports/2058556.md) | Self XSS when sending HTML as a comment in the Deck app | [Nextcloud](../by-program/nextcloud.md) | nextcloud/deck | None | — | 20 |
+| 2065 | [3481849](../reports/3481849.md) | HTTP/2 and HTTP/3 Header Injection in curl | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 20 |
+| 2066 | [3023139](../reports/3023139.md) | Memory leak of ftp (with proxy reuse) | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 20 |
+| 2067 | [3261248](../reports/3261248.md) | GnuTLS CURLINFO_TLS_SESSION / CURLINFO_TLS_SSL_PTR type | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 20 |
+| 2068 | [3580247](../reports/3580247.md) | Use after free in hyperfifo example | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 19 |
+| 2069 | [3620760](../reports/3620760.md) | Encryption context keys and values logged at INFO level | [AWS VDP](../by-program/aws_vdp.md) | https://github.com/kubernetes-sigs/aws-e | None | — | 19 |
+| 2070 | [3387499](../reports/3387499.md) | SMTP Command Injection Vulnerability in libcurl 8.16.0  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 18 |
+| 2071 | [3407352](../reports/3407352.md) | curl built with GnuTLS backend defaults to weak crypto  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 18 |
+| 2072 | [3399774](../reports/3399774.md) | Integer Overflow to Heap Overflow in DoH Response Handl | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 18 |
+| 2073 | [361341](../reports/361341.md) | Unsafe deserialization in Libera Pay allows to escalate | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | None | — | 18 |
+| 2074 | [3442060](../reports/3442060.md) | Infinite loop issue in the state machine of the curl pr | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 17 |
+| 2075 | [3665363](../reports/3665363.md) | Integer Overflow/Signedness Mismatch in Printf Precisio | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 15 |
+| 2076 | [2439734](../reports/2439734.md) | Missing policies for password in password_policies.go | [passhash](../by-program/passhash.md) | https://github.com/dhui/passhash | None | — | 15 |
+| 2077 | [3264469](../reports/3264469.md) | Use after free (or assert triggered) with failed alloca | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 15 |
+| 2078 | [3650443](../reports/3650443.md) | no_proxy IDN mismatch: Unicode hostnames bypass proxy e | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 15 |
+| 2079 | [3782405](../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_ | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | None | — | 14 |
+| 2080 | [3241304](../reports/3241304.md) | access notes without permission | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 14 |
+| 2081 | [3617719](../reports/3617719.md) | Function `do_pubkey()` can have out-of-bound read issue | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 13 |
+| 2082 | [1073363](../reports/1073363.md) | Index Out Of Bounds in protobuf unmarshalling | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | None | — | 13 |
+| 2083 | [3627638](../reports/3627638.md) | Security Vulnerability Report: Protocol Injection via P | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 13 |
+| 2084 | [951468](../reports/951468.md) | [m-server] XSS reflected because path does not escapeHt | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | m-server | None | — | 12 |
+| 2085 | [3771139](../reports/3771139.md) | Heap Memory Disclosure via Integer Underflow in Item_fu | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | None | — | 12 |
+| 2086 | [3459636](../reports/3459636.md) | Stack Buffer Overflow in cURL wolfSSL Backend (lib/vtls | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 12 |
+| 2087 | [461308](../reports/461308.md) | Remote attacker can impersonate Social users via Activi | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 12 |
+| 2088 | [3379102](../reports/3379102.md) | Missing enforcement of SFTP quote syntax can lead to op | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 12 |
+| 2089 | [272824](../reports/272824.md) | client_secret Token disclosure  | [Aspen](../by-program/aspen.md) | https://github.com/AspenWeb | None | — | 12 |
+| 2090 | [3442024](../reports/3442024.md) | runs javascript on powershell when it shouldnt | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 12 |
+| 2091 | [3427670](../reports/3427670.md) | Double-free vulnerability in libcurl with rustls via No | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 11 |
+| 2092 | [3575475](../reports/3575475.md) | Curl Telnet Handler Buffer Overflow | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 11 |
+| 2093 | [1145581](../reports/1145581.md) | Private KEY of crypto wallet | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 11 |
+| 2094 | [3771147](../reports/3771147.md) | Stack Buffer Overflow via Crafted keyseg->start/ keyseg | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | None | — | 11 |
+| 2095 | [2377760](../reports/2377760.md) | fetch with integrity option is too lax when algorithm i | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 11 |
+| 2096 | [1684163](../reports/1684163.md) | ReDoS (Rails::Html::PermitScrubber.scrub_attribute) | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | None | — | 11 |
+| 2097 | [3771144](../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_v | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | None | — | 10 |
+| 2098 | [1197035](../reports/1197035.md) | Information Disclosure on https://rpc.sifchain.finance/ | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 10 |
+| 2099 | [726117](../reports/726117.md) | SMB access smuggling via FILE URL on Windows | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 10 |
+| 2100 | [3135673](../reports/3135673.md) | curl -OJ allows creating custom .curlrc file which allo | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 10 |
+| 2101 | [1712329](../reports/1712329.md) | [nextcloud/server] Moment.js vulnerable to Inefficient  | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 10 |
+| 2102 | [3650473](../reports/3650473.md) | FTP entrypath accepts 0xFF (Telnet IAC) through incompl | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 10 |
+| 2103 | [889795](../reports/889795.md) | Allows any user to share their "Root" level folder by s | [Nextcloud](../by-program/nextcloud.md) | nextcloud/spreed | None | — | 9 |
+| 2104 | [1708873](../reports/1708873.md) | Vulnerable moment-timezone version shipped | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 9 |
+| 2105 | [3133253](../reports/3133253.md) | curl_easy_header runs at O(N) or worse and can be abuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 9 |
+| 2106 | [3089595](../reports/3089595.md) | Memory leak from doh_write_cb | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 9 |
+| 2107 | [1670187](../reports/1670187.md) | Cross Site Scripting Vulnerability in fabric-sdk-py sou | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric-sd | None | — | 9 |
+| 2108 | [1194280](../reports/1194280.md) | CORS Misconfiguration | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 9 |
+| 2109 | [3241308](../reports/3241308.md) | Disclosure of email addresses | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 9 |
+| 2110 | [3645415](../reports/3645415.md) | # SCURLOPT_SSH_KNOWNHOSTS and host fingerprint pins are | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 9 |
+| 2111 | [3418760](../reports/3418760.md) | Command Injection - CRITICISM | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
+| 2112 | [3508701](../reports/3508701.md) | Use-After-Free in curl_easy_nextheader when reusing hea | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
+| 2113 | [504759](../reports/504759.md) | Uploading large avatar images cause excessive CPU usage | [Nextcloud](../by-program/nextcloud.md) | nextcloud/3rdparty | None | — | 8 |
+| 2114 | [3419617](../reports/3419617.md) | Hash exposed in public repository | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
+| 2115 | [3045390](../reports/3045390.md) | Double free caused by mqtt_doing() | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
+| 2116 | [3183957](../reports/3183957.md) | Arbitrary File Read via Unsanitized curl Usage Results  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
+| 2117 | [3646914](../reports/3646914.md) | ignoring 'options' when doing connection reuse | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
+| 2118 | [745921](../reports/745921.md) | Code Injection Bug Report | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 8 |
+| 2119 | [3037326](../reports/3037326.md) | Free of uninitialized pointer in doh_decode_rdata_name( | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
+| 2120 | [3037583](../reports/3037583.md) | Buffer Overflow in curl's Rustls Backend | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
+| 2121 | [4021952](../reports/4021952.md) | Socket API drops expired timeouts for transfers queued  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
+| 2122 | [3406123](../reports/3406123.md) | Buffer over-read,, Missing NUL termination in addvariab | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
+| 2123 | [3427194](../reports/3427194.md) | Malicious server forces .curlrc creation via curl -OJ l | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 8 |
+| 2124 | [261297](../reports/261297.md) | Disabled user can reset their password   | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 7 |
+| 2125 | [1183502](../reports/1183502.md) | Private RSA key for Vagrant exposed in GitHub repositor | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 7 |
+| 2126 | [3913012](../reports/3913012.md) | Persistent SMTP header injection via identity `organiza | [Nextcloud](../by-program/nextcloud.md) | https://github.com/roundcube/roundcubema | None | — | 7 |
+| 2127 | [1196917](../reports/1196917.md) | Path Transversal inside saveContracts.js | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 7 |
+| 2128 | [3451305](../reports/3451305.md) | SMTP Protocol Injection via CRLF in CURLOPT_MAIL_FROM l | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 6 |
+| 2129 | [4024268](../reports/4024268.md) | Out-of-bounds read in curl_formadd when CURLFORM_NAMELE | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 6 |
+| 2130 | [1241460](../reports/1241460.md) | ApiService#fetch serves content as text/html and inline | [Nextcloud](../by-program/nextcloud.md) | nextcloud/text | None | — | 6 |
+| 2131 | [268679](../reports/268679.md) | Homo graphs attack  | [GSA Bounty](../by-program/gsa_bbp.md) | https://github.com/18f/federalist | None | — | 6 |
+| 2132 | [263508](../reports/263508.md) | Server Side Misconfiguration (EMAIL SPOOFING)  | [GSA Bounty](../by-program/gsa_bbp.md) | https://github.com/18f/federalist-proxy | None | — | 6 |
+| 2133 | [2831558](../reports/2831558.md) | netrc crlf injection | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 6 |
+| 2134 | [3761789](../reports/3761789.md) | Mentioned unites are at the same time .Then we have to  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 6 |
+| 2135 | [888176](../reports/888176.md) | HTTP Host injection in redirect_to function | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | None | — | 6 |
+| 2136 | [1690377](../reports/1690377.md) | Relative Path Traversal vulnerability in fabric-private | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric-pr | None | — | 6 |
+| 2137 | [926093](../reports/926093.md) | Secret_key in GitHub | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/weblate | None | — | 6 |
+| 2138 | [926222](../reports/926222.md) | Vulnerability in Private Data Endorsement Policy Manage | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric-sa | None | — | 6 |
+| 2139 | [3952619](../reports/3952619.md) | Domainless COOKIEFILE cookie leaks to unrelated IP-lite | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 6 |
+| 2140 | [3973234](../reports/3973234.md) | 53: HTTP/1 CONNECT chunked-407 trailers bypass CURLOPT_ | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
+| 2141 | [2981303](../reports/2981303.md) | TLS Cipher Misconfiguration in HTTP/3/QUIC Support | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
+| 2142 | [1739099](../reports/1739099.md) | CVE-2017-5929: Hyperledger - Arbitrary Deserialization  | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric-ch | None | — | 5 |
+| 2143 | [3735080](../reports/3735080.md) | libssh SFTP initialization ignores CURLOPT_TIMEOUT, han | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
+| 2144 | [3718265](../reports/3718265.md) | Shared HSTS cache accessed without lock | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
+| 2145 | [3697491](../reports/3697491.md) | Missing HMAC validation on /uninstall webhook in Shopif | [Shopify](../by-program/shopify.md) | https://github.com/Shopify/* | None | — | 5 |
+| 2146 | [1186701](../reports/1186701.md) | DMARC and DNS Records not found on  mcuboot.com | [MCUboot](../by-program/mcuboot.md) | https://github.com/mcu-tools/mcuboot | None | — | 5 |
+| 2147 | [752353](../reports/752353.md) | Anonymous file drop page ignores user profile visibilit | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 5 |
+| 2148 | [3505557](../reports/3505557.md) | CRLF Injection in HTTP header values allows arbitrary h | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
+| 2149 | [3733934](../reports/3733934.md) | CURLOPT_HSTS_CTRL disables shared HSTS without share gu | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
+| 2150 | [3734947](../reports/3734947.md) | HTTP/3 paused transfer buffers incoming data without bo | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
+| 2151 | [1485501](../reports/1485501.md) | ReDoS in Time.rfc2822 | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 5 |
+| 2152 | [1718757](../reports/1718757.md) | Header CRLF Injection in Ruby Net::HTTP | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 5 |
+| 2153 | [2861797](../reports/2861797.md) | curl mishandles `%0c%0b` sequences in HTTP responses le | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
+| 2154 | [1188188](../reports/1188188.md) | A password in plain text in conf file | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 5 |
+| 2155 | [3431180](../reports/3431180.md) | Double free in tool_ssls_load() | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 5 |
+| 2156 | [383117](../reports/383117.md) | HTML injection with AutoComplete suggestions | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 5 |
+| 2157 | [942103](../reports/942103.md) | Server-side template injection at ujs test server | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | None | — | 5 |
+| 2158 | [361089](../reports/361089.md) | twitter api access token leaked on github  | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | None | — | 4 |
+| 2159 | [1133670](../reports/1133670.md) |  ETHEREUM_PRIVATE_KEY leaked via Open Github Repository | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 4 |
+| 2160 | [591770](../reports/591770.md) | Signed integer overflow in tool_progress_cb() | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
+| 2161 | [1183520](../reports/1183520.md) | RSA PRIVATE KEY discloser | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 4 |
+| 2162 | [3973194](../reports/3973194.md) | 49: Cookie-jar save transfers group access to a differe | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
+| 2163 | [919429](../reports/919429.md) | Full path disclosure vulnerability  via Upload .htacces | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 4 |
+| 2164 | [3739561](../reports/3739561.md) | SSL session-cache peer key omits signature_algorithms:  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
+| 2165 | [3833577](../reports/3833577.md) | heap-use-after-free in curl_easy_cleanup() called from  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
+| 2166 | [1181213](../reports/1181213.md) | Private eth key found | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 4 |
+| 2167 | [3651975](../reports/3651975.md) | SMTP Command Injection via CRLF in libcurl MAIL_FROM /  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
+| 2168 | [461429](../reports/461429.md) | Github repo's wiki publicly editable | [Paragon Initiative Enterprises](../by-program/paragonie.md) | https://github.com/paragonie/password_lo | None | — | 4 |
+| 2169 | [3973152](../reports/3973152.md) | 37: `curl_mprintf` `%F` format specifier not consumed,  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
+| 2170 | [3973093](../reports/3973093.md) | 06: Incomplete fix for CVE-2026-7009: GCC/SecTrust buil | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
+| 2171 | [3468410](../reports/3468410.md) | Heap buffer overflow in Curl_ipv4_resolve_r due to inco | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
+| 2172 | [3734935](../reports/3734935.md) | rustls backend silently ignores CURLOPT_CRLFILE when na | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
+| 2173 | [3973111](../reports/3973111.md) | 08: CVE-2026-7009 fix incomplete for AWS-LC: `--cert-st | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
+| 2174 | [1214158](../reports/1214158.md) | Ratelimits do not apply to OCS DataResponse | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 4 |
+| 2175 | [3973098](../reports/3973098.md) | 07: GnuTLS 0-RTT early data bypasses file-backed public | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
+| 2176 | [3717365](../reports/3717365.md) | mbedTLS private-key blob null-termination asymmetry in  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
+| 2177 | [1186926](../reports/1186926.md) | Flaws In Social media Icon on error page which can lead | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 4 |
+| 2178 | [3972385](../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
+| 2179 | [1057216](../reports/1057216.md) | Regex Injection from request header (Rack::Sendfile, se | [Ruby on Rails](../by-program/rails.md) | https://github.com/rails/rails | None | — | 4 |
+| 2180 | [296632](../reports/296632.md) | Audit log validation | [Weblate](../by-program/weblate.md) | https://github.com/WeblateOrg/docker | None | — | 4 |
+| 2181 | [3735238](../reports/3735238.md) | cookie: case-insensitive path comparison in replace_exi | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
+| 2182 | [3973127](../reports/3973127.md) | 18:  Explicit IPv6 proxy zone ID silently ignored — pro | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 4 |
+| 2183 | [3971518](../reports/3971518.md) | 29: CURLOPT_ISSUERCERT accepts a different-key certific | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
+| 2184 | [3972323](../reports/3972323.md) | 10: CURLOPT_MAXLIFETIME_CONN bypass on active HTTP/2 co | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
+| 2185 | [1132690](../reports/1132690.md) | Exposed Openapi Token | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 3 |
+| 2186 | [3971585](../reports/3971585.md) | 33: CONNECT_ONLY raw I/O selects wrong connection after | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
+| 2187 | [600359](../reports/600359.md) | Integer overflow in the source code tool_cb_prg.c | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
+| 2188 | [3734992](../reports/3734992.md) | Schannel custom-CA path skips Extended Key Usage enforc | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
+| 2189 | [3896671](../reports/3896671.md) | Connector/C Out-of-bounds read in `unpack_fields()` fro | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | None | — | 3 |
+| 2190 | [3803415](../reports/3803415.md) |  Secure cookies leaked to HTTP origins through HTTPS fo | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
+| 2191 | [461345](../reports/461345.md) | Security issue: Github repo's wiki publicly editable | [Ian Dunn](../by-program/iandunn-projects.md) | GitHub repositories | None | — | 3 |
+| 2192 | [678487](../reports/678487.md) | Hostname spoofing | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 3 |
+| 2193 | [3741135](../reports/3741135.md) | Connection reuse ignores haproxyprotocol and HAPROXY_CL | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
+| 2194 | [3973158](../reports/3973158.md) | 41: `main_checkfds()` pipe reuse leaks proxy credential | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
+| 2195 | [3973249](../reports/3973249.md) | 56: IBM i CL wrapper `parse_command_line()` never enter | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
+| 2196 | [878181](../reports/878181.md) | Child process environment injection via prototype pollu | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 3 |
+| 2197 | [362702](../reports/362702.md) | XSS in express-useragent through HTTP User-Agent | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | express-useragent | None | — | 3 |
+| 2198 | [1188982](../reports/1188982.md) | Found key_adress and key_password in GitHub history | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 3 |
+| 2199 | [1789602](../reports/1789602.md) | Contacts only sanitizes PHOTO svg if mime type is all l | [Nextcloud](../by-program/nextcloud.md) | nextcloud/contacts | None | — | 3 |
+| 2200 | [3751701](../reports/3751701.md) | Use-after-free in `curl_easy_duphandle()` with HTTP/2 s | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
+| 2201 | [3973213](../reports/3973213.md) | 54: Rejected HTTP/2 push destroys MIME callback state s | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
+| 2202 | [3734921](../reports/3734921.md) | Trailing-dot IPv4 URL bypasses IP-address guard, allows | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
+| 2203 | [1187816](../reports/1187816.md) | Dependency Confusion Vulnerability in Sifnode Due to Un | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 3 |
+| 2204 | [1187156](../reports/1187156.md) | XSS in HTML generated by RDoc | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 3 |
+| 2205 | [3725659](../reports/3725659.md) | Kerberos/SPNEGO Connection Reuse Vulnerability | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
+| 2206 | [962705](../reports/962705.md) | The “payload” Field of Transactions in a Block Reveals  | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric | None | — | 3 |
+| 2207 | [1049624](../reports/1049624.md) | Abusing URL Parsers by long schema name | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
+| 2208 | [629879](../reports/629879.md) | loader.js is not secure | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 3 |
+| 2209 | [3897588](../reports/3897588.md) | KILL authorization trusts the presented login name inst | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | None | — | 3 |
+| 2210 | [1183269](../reports/1183269.md) | ETHEREUM_PRIVATE_KEY leaked  | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 3 |
+| 2211 | [3917775](../reports/3917775.md) | curl Missing Sec-WebSocket-Accept Verification Enables  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
+| 2212 | [3735276](../reports/3735276.md) | TLS peer-verification bypass via mid-transfer ssl_confi | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 3 |
+| 2213 | [951623](../reports/951623.md) | Vulnerabilities in Endorsement Mechanism of Private Dat | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric | None | — | 3 |
+| 2214 | [1173411](../reports/1173411.md) | Nextcloud update checks leaks information | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 3 |
+| 2215 | [3680090](../reports/3680090.md) | Stored XSS via malicious usernames in audit log details | [Revive Adserver](../by-program/revive_adserver.md) | https://github.com/revive-adserver/reviv | None | — | 2 |
+| 2216 | [3971706](../reports/3971706.md) | 36: HTTP upload resume offset consumed twice after earl | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 2217 | [3734095](../reports/3734095.md) | TLS verifyhost bypass in rustls, mbedTLS, and wolfSSL w | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 2218 | [3973228](../reports/3973228.md) | 50: CMake `HTTP_ONLY` does not disable SSH backends — S | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 2219 | [3969255](../reports/3969255.md) | CVE-2026-80229: OpenSSL provider use-after-free | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 2220 | [627245](../reports/627245.md) | Integer overlow in "header_append" function | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 2221 | [3969300](../reports/3969300.md) | CVE-2026-80230: OpenSSL pinning bypass | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 2222 | [3973121](../reports/3973121.md) | 11: `CURLOPT_FORBID_REUSE` silently lost on multiplexed | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 2223 | [1187001](../reports/1187001.md) | No valid SPF record found | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 2 |
+| 2224 | [3734020](../reports/3734020.md) | HTTP/2 proxy CONNECT tunnel unbounded 1xx chain (missin | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 2225 | [1186897](../reports/1186897.md) | Open S3 Bucket | information leakage | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 2 |
+| 2226 | [3741744](../reports/3741744.md) | CRLF Injection via Custom HTTP Headers | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 2227 | [3880451](../reports/3880451.md) | Privilege escalation via user controlled usernames / ro | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Access con | None | — | 2 |
+| 2228 | [3972293](../reports/3972293.md) | 43: HTTP proxy CONNECT header chooses the `-OJ` filenam | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 2229 | [3781305](../reports/3781305.md) | OpenSSL TLS 1.2 session resumption accepts expired serv | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 2230 | [1195432](../reports/1195432.md) | Found a url on source code which was disclosing differe | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 2 |
+| 2231 | [3733946](../reports/3733946.md) | Credentials forwarded to HTTP after HTTPS→HTTP same-por | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 2232 | [3973169](../reports/3973169.md) | 42: `VMS_STS` macro typo (`< 3` vs `<< 3`) turns curl f | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 2233 | [3735179](../reports/3735179.md) | CURLOPT_PROXY_CAINFO_BLOB silently activates native CA  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 2234 | [3913007](../reports/3913007.md) | SMTP header injection via C-escape `\r` in the recipien | [Nextcloud](../by-program/nextcloud.md) | https://github.com/roundcube/roundcubema | None | — | 2 |
+| 2235 | [4100259](../reports/4100259.md) | Stored XSS in the Classic block element path | [WordPress](../by-program/wordpress.md) | WordPress Core | None | — | 2 |
+| 2236 | [3973143](../reports/3973143.md) | 22:  FTP wildcard matching decodes server-provided file | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 2237 | [340053](../reports/340053.md) | Use After Free in crypto.randomFill | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 2 |
+| 2238 | [549831](../reports/549831.md) | External Storage - WebDAV - New user has access to stor | [Nextcloud](../by-program/nextcloud.md) | nextcloud/server | None | — | 2 |
+| 2239 | [3972316](../reports/3972316.md) | 46: `--libcurl` output carries `--insecure` across `--n | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 2240 | [3973219](../reports/3973219.md) | 57: Heap out-of-bounds read in `curl_easy_escape_ccsid( | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 2 |
+| 2241 | [1859592](../reports/1859592.md) | [indy_node]POOL_UPGRADE command injection, Trustee Node | [Linux Foundation Decentralized Trust](../by-program/hyperledger.md) | https://github.com/hyperledger/fabric-am | None | — | 2 |
+| 2242 | [3910393](../reports/3910393.md) | Stack Buffer Overflow in MariaDB CONNECT storage engine | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors  - Denial of | None | — | 2 |
+| 2243 | [4024222](../reports/4024222.md) | CVE-2026-92391: curl_mime_free stack overflow by recurs | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 2244 | [1180668](../reports/1180668.md) | Vulnerability : Email Spoofing | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
+| 2245 | [1590102](../reports/1590102.md) | KRB-FTP: Security level downgrade | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 2246 | [959987](../reports/959987.md) | [supermixer] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Other module | None | — | 1 |
+| 2247 | [3751715](../reports/3751715.md) | Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUE | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 2248 | [3993549](../reports/3993549.md) | CVE-2026-86413: Negotiate credentials sent to redirecte | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 2249 | [1188633](../reports/1188633.md) | Linux Desktop application "sifnoded" executable does no | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
+| 2250 | [4123749](../reports/4123749.md) | WebSocket decoder use-after-free when curl_easy_pause() | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 2251 | [676710](../reports/676710.md) | Http response is not ended although underlying socket i | [Node.js](../by-program/nodejs.md) | https://github.com/nodejs/node | None | — | 1 |
+| 2252 | [1188998](../reports/1188998.md) |  Information disclosure on Sifchain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
+| 2253 | [1183809](../reports/1183809.md) | mongodb credentials leaked in github | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
+| 2254 | [1199904](../reports/1199904.md) | clickjacking vulnerability | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
+| 2255 | [3831345](../reports/3831345.md) | CURLSHOPT_UNSHARE race can cause UAF in shared SSL sess | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 2256 | [3973090](../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 2257 | [3751712](../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 2258 | [4040551](../reports/4040551.md) | CVE-2026-94265: Authorization: Negotiate sent to foreig | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 2259 | [774883](../reports/774883.md) | Division by zero if terminal width is 2 | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 2260 | [3849040](../reports/3849040.md) | #mysql50# legacy alias / stale table cache identity mis | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Remote Cod | None | — | 1 |
+| 2261 | [3849051](../reports/3849051.md) | #mysql50# legacy alias / internal table collisions | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Remote Cod | None | — | 1 |
+| 2262 | [361054](../reports/361054.md) | Phishing by Navigating Browser Tabs | [Liberapay](../by-program/liberapay.md) | https://github.com/liberapay/liberapay.c | None | — | 1 |
+| 2263 | [3460138](../reports/3460138.md) | Open Email Relay on WordPress Gutenberg Plugin via form | [WordPress](../by-program/wordpress.md) | Gutenberg | None | — | 1 |
+| 2264 | [898614](../reports/898614.md) | DRb denial of service vulnerability | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 1 |
+| 2265 | [1283605](../reports/1283605.md) | ETHEREUM_PRIVATE_KEY leaked via github | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
+| 2266 | [1019372](../reports/1019372.md) | Parallel upload hangs curl if upload file not found | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 2267 | [694988](../reports/694988.md) | Resource leak when using a normal site as DOH server | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 2268 | [1186740](../reports/1186740.md) | Misconfiguration Certificate Authority Authorization Ru | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 1 |
+| 2269 | [3777381](../reports/3777381.md) | PRE_PROXY change leaks stale Proxy Digest state across  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 1 |
+| 2270 | [3972403](../reports/3972403.md) | CVE-2026-87864: IMAP APPEND plus CRLF conversion comman | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2271 | [4021960](../reports/4021960.md) | TELNET control and environment data bypass HTTPS-proxy  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2272 | [3972373](../reports/3972373.md) | CVE-2026-87863: HSTS response erases persisted entries | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2273 | [877402](../reports/877402.md) | Hard coded Username and password in GiHub commit | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | None | — | 0 |
+| 2274 | [715413](../reports/715413.md) | curl successfully matches IP address literal in URL aga | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2275 | [3973190](../reports/3973190.md) | CVE-2026-86411: FTP connection reuse inherits client-ce | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2276 | [4021854](../reports/4021854.md) | IMAP custom FETCH literals can spoof tagged responses a | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2277 | [3896684](../reports/3896684.md) | Connector/C Out-of-bounds read from unterminated GSSAPI | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Data corru | None | — | 0 |
+| 2278 | [3972395](../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2279 | [3971551](../reports/3971551.md) | 20: HTAB before `Secure` attribute silently drops the S | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2280 | [1195423](../reports/1195423.md) | Information Disclosure at one of your subdomain | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
+| 2281 | [344595](../reports/344595.md) | Arbitrary file overwrites in `node-tar` | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | node-tar | None | — | 0 |
+| 2282 | [3973176](../reports/3973176.md) | CVE-2026-86410:  redirect to SFTP or SCP bypasses host  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2283 | [4021979](../reports/4021979.md) | CVE-2026-92386: server-set cookie aborts cookie jar loa | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2284 | [1940002](../reports/1940002.md) | heap-buffer-overflow in gc_writebarrier_incremental | [Ruby](../by-program/ruby.md) | https://github.com/ruby/ruby | None | — | 0 |
+| 2285 | [877303](../reports/877303.md) | Internal IP addresses range and AWS cluster region leak | [Kubernetes](../by-program/kubernetes.md) | https://github.com/kubernetes/kubernetes | None | — | 0 |
+| 2286 | [3972357](../reports/3972357.md) | CVE-2026-87862: HSTS cache import drops longer-lived ch | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2287 | [812969](../reports/812969.md) | curl still vulnerable to SMB access smuggling via FILE  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2288 | [3973201](../reports/3973201.md) | CVE-2026-86412: server-set cookie erases cookie jar | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2289 | [1218784](../reports/1218784.md) | information disclosure | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
+| 2290 | [3973135](../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2291 | [3972196](../reports/3972196.md) | 34: `curl_mprintf` reads `double` for documented `long  | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2292 | [4023192](../reports/4023192.md) | CVE-2026-92390: -J no-clobber guarantee bypassed with 1 | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2293 | [4022003](../reports/4022003.md) | CVE-2026-92387: never-ending loop via server response o | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2294 | [4022070](../reports/4022070.md) | CVE-2026-92388: FTP wildcard write callback mixup | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2295 | [1188725](../reports/1188725.md) | No Valid SPF Records at sifchain.finance | [Sifchain](../by-program/sifchain.md) | https://github.com/sifchain/sifnode | None | — | 0 |
+| 2296 | [3971538](../reports/3971538.md) | 27: IMAP custom FETCH listing classification skips lite | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2297 | [4022568](../reports/4022568.md) | CVE-2026-92389: TFTP direction confusion | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2298 | [4033108](../reports/4033108.md) | Retry-independent time-condition HTTP/2 UAF | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2299 | [3973124](../reports/3973124.md) | 14: HSTS cache import silently drops a longer-lived chi | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2300 | [3973245](../reports/3973245.md) | 55: Heap-buffer-overflow read in `curl_formadd_ccsid()` | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2301 | [3896617](../reports/3896617.md) | Connector/C TLS auth-switch bypass exposes plaintext pa | [MariaDB](../by-program/mariadb.md) | MariaDB Server & Connectors - Access con | None | — | 0 |
+| 2302 | [4135826](../reports/4135826.md) | --cert-status with OpenSSL accepts a stapled OCSP respo | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |
+| 2303 | [3972338](../reports/3972338.md) | 12: SASL DIGEST-MD5 does not validate the server's `rsp | [curl](../by-program/curl.md) | https://github.com/curl/curl | None | — | 0 |

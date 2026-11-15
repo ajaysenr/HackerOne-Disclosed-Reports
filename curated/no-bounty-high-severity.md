@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2458 total)
+# High/Critical Severity — No Bounty Paid (2459 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -719,6 +719,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [363680](../reports/363680.md) | Constant-time comparison is not always implemented; critical area | [Monero](../by-program/monero.md) | Critical | Resolved | 6 |
 | [188561](../reports/188561.md) | Sending arbitrary IPC messages via overriding Array.prototype.pus | [Brave Software](../by-program/brave.md) | Critical | Informative | 6 |
 | [703138](../reports/703138.md) | [yarn] yarn.lock integrity & hash check logic is broken | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.6 | Resolved | 6 |
+| [4081135](../reports/4081135.md) | Privilege escalation via unfiltered role restoration in project b | [Weblate](../by-program/weblate.md) | Critical — CVSS 9.9 | Resolved | 6 |
 | [296991](../reports/296991.md) | Exim use-after-free vulnerability while reading mail header invol | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.8 | Resolved | 6 |
 | [242407](../reports/242407.md) | Privilege Escalation with Session Hijacking Having a Non-privileg | [Ubiquiti Inc.](../by-program/ui.md) | Critical — CVSS 9.9 | Resolved | 6 |
 | [592200](../reports/592200.md) | Remote P2P DoS | [Monero](../by-program/monero.md) | Critical | Resolved | 6 |
