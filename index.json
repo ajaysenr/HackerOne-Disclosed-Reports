@@ -243310,6 +243310,25 @@
     "votes": 1
   },
   {
+    "id": 3966160,
+    "url": "https://hackerone.com/reports/3966160",
+    "title": "Unauthenticated remote process termination of Arc RPC nodes via custom JS tracer (Boa engine) leads to sustained node DoS",
+    "visibility": "full",
+    "program": "Arc",
+    "program_handle": "arc-bbp",
+    "reporter": "cantina-security",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Uncontrolled Resource Consumption",
+    "bounty": 10000.0,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-08-24",
+    "disclosed_at": "2026-11-15T14:35:24.509Z",
+    "votes": 80
+  },
+  {
     "id": 3966599,
     "url": "https://hackerone.com/reports/3966599",
     "title": "Unauthenticated go-httpbin servers : Leads to Cookie Tossing on *.aws.dev and Open Redirect",

@@ -12449,6 +12449,7 @@ https://hackerone.com/reports/3962925 | Launchpad file read leaks production key
 https://hackerone.com/reports/3963330 | libcurl Digest/NTLM authentication ignores an explicit Authorization header
 https://hackerone.com/reports/3963494 | RTSP CRLF injection in libcurl allows CURLOPT_RTSP_* values to inject commands into independent sessions
 https://hackerone.com/reports/3963725 | wolfSSL backend disables hostname verification when CURLOPT_SSL_VERIFYPEER is 0
+https://hackerone.com/reports/3966160 | Unauthenticated remote process termination of Arc RPC nodes via custom JS tracer (Boa engine) leads to sustained node DoS
 https://hackerone.com/reports/3966599 | Unauthenticated go-httpbin servers : Leads to Cookie Tossing on *.aws.dev and Open Redirect
 https://hackerone.com/reports/3966955 | TLS session cache case-folds CA paths and bypasses the active trust profile
 https://hackerone.com/reports/3968431 | ARG_CLEAR credential scrubbing wipes only UTF-8 copies on Windows Unicode builds

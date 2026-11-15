@@ -1,4 +1,4 @@
-# Bounty Hall of Fame — $10,000+ (93 total)
+# Bounty Hall of Fame — $10,000+ (94 total)
 
 | Report | Title | Program | Severity | Bounty | Votes |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [3320669](../reports/3320669.md) | Double fdrop on a socket through sys_netcontrol | [PlayStation](../by-program/playstation.md) | High | $10,000 | 90 |
 | [542180](../reports/542180.md) | Malformed NAV file leads to buffer overflow and code execution in | [Valve](../by-program/valve.md) | Critical — CVSS 9.0 | $10,000 | 268 |
 | [173551](../reports/173551.md) | password reset token leaking allowed for ATO of an Uber account | [Uber](../by-program/uber.md) | Critical | $10,000 | 100 |
+| [3966160](../reports/3966160.md) | Unauthenticated remote process termination of Arc RPC nodes via c | [Arc](../by-program/arc-bbp.md) | High | $10,000 | 80 |
 | [181910](../reports/181910.md) | Range constructor type confusion DoS | [shopify-scripts](../by-program/shopify-scripts.md) | High | $10,000 | 7 |
 | [182358](../reports/182358.md) | Partial disclosure of report activity through new "Export as .zip | [HackerOne](../by-program/security.md) | High — CVSS 7.5 | $10,000 | 352 |
 | [136169](../reports/136169.md) | OneLogin authentication bypass on WordPress sites | [Uber](../by-program/uber.md) | None | $10,000 | 57 |
