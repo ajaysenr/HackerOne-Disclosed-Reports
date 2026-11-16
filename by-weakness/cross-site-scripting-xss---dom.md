@@ -50,8 +50,8 @@
 | 44 | [1343300](../reports/1343300.md) | com.basecamp.bc3 Webview Javascript Injection and JS bridge takeo | [Basecamp](../by-program/basecamp.md) | High — CVSS 7.7 | — | 20 |
 | 45 | [405191](../reports/405191.md) | DOM XSS on 50x.html page | [DuckDuckGo](../by-program/duckduckgo.md) | High | — | 16 |
 | 46 | [426275](../reports/426275.md) | DOM XSS on 50x.html page on proxy.duckduckgo.com | [DuckDuckGo](../by-program/duckduckgo.md) | High | — | 14 |
-| 47 | [663312](../reports/663312.md) | Warehouse dom based xss may lead to Social Club Account Taker Ove | [Rockstar Games](../by-program/rockstargames.md) | High — CVSS 7.6 | — | 13 |
-| 48 | [479612](../reports/479612.md) | DOM BASED XSS ON https://www.rockstargames.com/GTAOnline/features | [Rockstar Games](../by-program/rockstargames.md) | High | — | 13 |
+| 47 | [479612](../reports/479612.md) | DOM BASED XSS ON https://www.rockstargames.com/GTAOnline/features | [Rockstar Games](../by-program/rockstargames.md) | High | — | 13 |
+| 48 | [663312](../reports/663312.md) | Warehouse dom based xss may lead to Social Club Account Taker Ove | [Rockstar Games](../by-program/rockstargames.md) | High — CVSS 7.6 | — | 13 |
 | 49 | [262010](../reports/262010.md) | XSS в названии сервера | [VK.com](../by-program/vkcom.md) | High | — | 10 |
 | 50 | [1448616](../reports/1448616.md) | Dom Xss vulnerability | [Recorded Future](../by-program/recorded-future.md) | High — CVSS 7.8 | — | 8 |
 | 51 | [264445](../reports/264445.md) | XSS в комментариях от имени сообщества  | [VK.com](../by-program/vkcom.md) | High | — | 6 |
@@ -64,8 +64,8 @@
 | 58 | [2308491](../reports/2308491.md) | XSS in Aspera documentation website | [IBM](../by-program/ibm.md) | Medium — CVSS 6.4 | — | 52 |
 | 59 | [831962](../reports/831962.md) | XSS on Issue reference numbers | [GitLab](../by-program/gitlab.md) | Medium | — | 49 |
 | 60 | [1238528](../reports/1238528.md) | wp-embed XSS on Safari | [WordPress](../by-program/wordpress.md) | Medium | — | 47 |
-| 61 | [324303](../reports/324303.md) | DOM Based XSS in mycrypto.com | [MyCrypto](../by-program/mycrypto.md) | Medium | — | 46 |
-| 62 | [803934](../reports/803934.md) | DOM XSS on https://www.rockstargames.com/GTAOnline/feedback | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 46 |
+| 61 | [803934](../reports/803934.md) | DOM XSS on https://www.rockstargames.com/GTAOnline/feedback | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 46 |
+| 62 | [324303](../reports/324303.md) | DOM Based XSS in mycrypto.com | [MyCrypto](../by-program/mycrypto.md) | Medium | — | 46 |
 | 63 | [508517](../reports/508517.md) | DOM based XSS on /GTAOnline/tw/starterpack/ | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 45 |
 | 64 | [2343548](../reports/2343548.md) | XSS in IBM InfoCenter | [IBM](../by-program/ibm.md) | Medium — CVSS 6.4 | — | 39 |
 | 65 | [1767151](../reports/1767151.md) | DOM based XSS via insecure parameter on [ https://uberpay-mock-ps | [Uber](../by-program/uber.md) | Medium — CVSS 6.1 | — | 39 |
@@ -78,37 +78,37 @@
 | 72 | [526265](../reports/526265.md) | DOM XSS on app.starbucks.com via ReturnUrl | [Starbucks](../by-program/starbucks.md) | Medium — CVSS 5.7 | — | 27 |
 | 73 | [381192](../reports/381192.md) | Preview bar: Incomplete message origin validation results in XSS | [Shopify](../by-program/shopify.md) | Medium — CVSS 5.2 | — | 26 |
 | 74 | [387544](../reports/387544.md) | Admin bar: Incomplete message origin validation results in XSS | [Shopify](../by-program/shopify.md) | Medium | — | 23 |
-| 75 | [230435](../reports/230435.md) | DOM Based XSS In mercantile.wordpress.org | [WordPress](../by-program/wordpress.md) | Medium — CVSS 5.4 | — | 21 |
-| 76 | [248560](../reports/248560.md) | [parcel.grab.com] DOM XSS at /assets/bower_components/lodash/perf | [Grab](../by-program/grab.md) | Medium | — | 21 |
+| 75 | [248560](../reports/248560.md) | [parcel.grab.com] DOM XSS at /assets/bower_components/lodash/perf | [Grab](../by-program/grab.md) | Medium | — | 21 |
+| 76 | [230435](../reports/230435.md) | DOM Based XSS In mercantile.wordpress.org | [WordPress](../by-program/wordpress.md) | Medium — CVSS 5.4 | — | 21 |
 | 77 | [2211561](../reports/2211561.md) | Self XSS when pasting HTML into Text app with Ctrl+Shift+V | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.6 | — | 20 |
-| 78 | [889041](../reports/889041.md) | DOM XSS through ads | [Urban Dictionary](../by-program/urbandictionary.md) | Medium — CVSS 6.5 | — | 18 |
-| 79 | [1260825](../reports/1260825.md) | DOM XSS on  www.adobe.com | [Adobe](../by-program/adobe.md) | Medium — CVSS 5.4 | — | 18 |
+| 78 | [1260825](../reports/1260825.md) | DOM XSS on  www.adobe.com | [Adobe](../by-program/adobe.md) | Medium — CVSS 5.4 | — | 18 |
+| 79 | [889041](../reports/889041.md) | DOM XSS through ads | [Urban Dictionary](../by-program/urbandictionary.md) | Medium — CVSS 6.5 | — | 18 |
 | 80 | [505157](../reports/505157.md) | Dom based xss on https://www.rockstargames.com/ via `returnUrl` p | [Rockstar Games](../by-program/rockstargames.md) | Medium — CVSS 5.4 | — | 17 |
-| 81 | [247246](../reports/247246.md) | Dom based xss affecting all pages from https://www.grab.com/. | [Grab](../by-program/grab.md) | Medium — CVSS 6.1 | — | 16 |
-| 82 | [488108](../reports/488108.md) | Dom based xss on /reddeadredemption2/br/videos | [Rockstar Games](../by-program/rockstargames.md) | Medium — CVSS 6.1 | — | 16 |
+| 81 | [488108](../reports/488108.md) | Dom based xss on /reddeadredemption2/br/videos | [Rockstar Games](../by-program/rockstargames.md) | Medium — CVSS 6.1 | — | 16 |
+| 82 | [247246](../reports/247246.md) | Dom based xss affecting all pages from https://www.grab.com/. | [Grab](../by-program/grab.md) | Medium — CVSS 6.1 | — | 16 |
 | 83 | [708592](../reports/708592.md) | [█████] — DOM-based XSS on endpoint `/?s=` | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 15 |
 | 84 | [1736327](../reports/1736327.md) | DOM XSS at `https://adobedocs.github.io/indesign-api-docs/?config | [Adobe](../by-program/adobe.md) | Medium — CVSS 6.1 | — | 14 |
-| 85 | [753971](../reports/753971.md) | [htmr] DOM-based XSS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.5 | — | 12 |
-| 86 | [1744212](../reports/1744212.md) | HTML INJECTION on https://adobedocs.github.io/JourneyAPI/ due to  | [Adobe](../by-program/adobe.md) | Medium | — | 12 |
-| 87 | [1398374](../reports/1398374.md) | Able to bypass the fix on DOM XSS at [www.adobe.com] | [Adobe](../by-program/adobe.md) | Medium — CVSS 5.8 | — | 12 |
+| 85 | [1744212](../reports/1744212.md) | HTML INJECTION on https://adobedocs.github.io/JourneyAPI/ due to  | [Adobe](../by-program/adobe.md) | Medium | — | 12 |
+| 86 | [1398374](../reports/1398374.md) | Able to bypass the fix on DOM XSS at [www.adobe.com] | [Adobe](../by-program/adobe.md) | Medium — CVSS 5.8 | — | 12 |
+| 87 | [753971](../reports/753971.md) | [htmr] DOM-based XSS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.5 | — | 12 |
 | 88 | [261571](../reports/261571.md) | dom based xss in http://www.rockstargames.com/GTAOnline/ (Fix byp | [Rockstar Games](../by-program/rockstargames.md) | Medium | — | 12 |
-| 89 | [216453](../reports/216453.md) | Unfiltered `class` attribute in markdown code | [GitLab](../by-program/gitlab.md) | Medium — CVSS 5.4 | — | 11 |
-| 90 | [962902](../reports/962902.md) | Session Hijack via Self-XSS | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 5.4 | — | 11 |
+| 89 | [962902](../reports/962902.md) | Session Hijack via Self-XSS | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 5.4 | — | 11 |
+| 90 | [216453](../reports/216453.md) | Unfiltered `class` attribute in markdown code | [GitLab](../by-program/gitlab.md) | Medium — CVSS 5.4 | — | 11 |
 | 91 | [700726](../reports/700726.md) | Reflected XSS  on Lark Suite | [Lark Technologies](../by-program/lark_technologies.md) | Medium — CVSS 4.7 | — | 10 |
 | 92 | [895917](../reports/895917.md) | DOM Based XSS at docs.8x8.com | [8x8](../by-program/8x8-bounty.md) | Medium — CVSS 4.7 | — | 9 |
-| 93 | [1982099](../reports/1982099.md) | DOM-XSS | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
+| 93 | [299924](../reports/299924.md) | DOM-based Cross-Site Scripting in redirect url checkout | [RBKmoney](../by-program/rbkmoney.md) | Medium | — | 8 |
 | 94 | [922496](../reports/922496.md) | DOM XSS on https://www.███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
-| 95 | [299924](../reports/299924.md) | DOM-based Cross-Site Scripting in redirect url checkout | [RBKmoney](../by-program/rbkmoney.md) | Medium | — | 8 |
+| 95 | [1982099](../reports/1982099.md) | DOM-XSS | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 8 |
 | 96 | [691977](../reports/691977.md) | [reveal.js] XSS by calling arbitrary method via postMessage | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.4 | — | 7 |
 | 97 | [2750977](../reports/2750977.md) | Cross-Site Scripting (XSS) Vulnerability via parameter c0-id + Ak | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 7 |
 | 98 | [508475](../reports/508475.md) | DOM based XSS on /GTAOnline/de/news/article via "returnUrl" param | [Rockstar Games](../by-program/rockstargames.md) | Medium — CVSS 5.4 | — | 6 |
 | 99 | [2750728](../reports/2750728.md) | Cross-Site Scripting (XSS) Vulnerability via POST Method + Akamai | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 6 |
-| 100 | [2125679](../reports/2125679.md) | [CVE-2023-23913] DOM Based Cross-site Scripting in rails-ujs for  | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 5 |
-| 101 | [799739](../reports/799739.md) | Dom based XSS on www.rockstargames.com/GTAOnline/features/freemod | [Rockstar Games](../by-program/rockstargames.md) | Medium — CVSS 5.2 | — | 5 |
-| 102 | [240989](../reports/240989.md) | xss found in zomato | [Eternal](../by-program/eternal.md) | Medium — CVSS 6.2 | — | 4 |
-| 103 | [377264](../reports/377264.md) | █████ - DOM-based XSS | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
-| 104 | [376027](../reports/376027.md) | █████ - DOM-based XSS | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
-| 105 | [3878399](../reports/3878399.md) | Large-site Quick Edit reparses a Contributor display name into ac | [WordPress](../by-program/wordpress.md) | Medium | — | 3 |
+| 100 | [799739](../reports/799739.md) | Dom based XSS on www.rockstargames.com/GTAOnline/features/freemod | [Rockstar Games](../by-program/rockstargames.md) | Medium — CVSS 5.2 | — | 5 |
+| 101 | [2125679](../reports/2125679.md) | [CVE-2023-23913] DOM Based Cross-site Scripting in rails-ujs for  | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 5 |
+| 102 | [377264](../reports/377264.md) | █████ - DOM-based XSS | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
+| 103 | [240989](../reports/240989.md) | xss found in zomato | [Eternal](../by-program/eternal.md) | Medium — CVSS 6.2 | — | 4 |
+| 104 | [3878399](../reports/3878399.md) | Large-site Quick Edit reparses a Contributor display name into ac | [WordPress](../by-program/wordpress.md) | Medium | — | 3 |
+| 105 | [376027](../reports/376027.md) | █████ - DOM-based XSS | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 3 |
 | 106 | [1219002](../reports/1219002.md) | 4 xss vulnerability dom based cwe 79 ; wordpress bootstrap.min.js | [Sifchain](../by-program/sifchain.md) | Medium | — | 2 |
 | 107 | [499030](../reports/499030.md) | DOM Based XSS in www.hackerone.com via PostMessage (bypass of #39 | [HackerOne](../by-program/security.md) | Low — CVSS 3.1 | — | 105 |
 | 108 | [646505](../reports/646505.md) | ██████ DOM XSS via Shopify.API.remoteRedirect | [Shopify](../by-program/shopify.md) | Low | — | 76 |
@@ -119,8 +119,8 @@
 | 113 | [406587](../reports/406587.md) | Self DOM-Based XSS in www.hackerone.com | [HackerOne](../by-program/security.md) | Low | — | 23 |
 | 114 | [1736466](../reports/1736466.md) | HTML INJECTION FOUND ON https://adobedocs.github.io/analytics-1.4 | [Adobe](../by-program/adobe.md) | Low — CVSS 3.1 | — | 17 |
 | 115 | [241619](../reports/241619.md) | DOM-based XSS in store.starbucks.co.uk on IE 11 | [Starbucks](../by-program/starbucks.md) | Low — CVSS 2.4 | — | 17 |
-| 116 | [576532](../reports/576532.md) | DOM XSS via Shopify.API.remoteRedirect | [Shopify](../by-program/shopify.md) | Low | — | 16 |
-| 117 | [892289](../reports/892289.md) | self-xss with ClickJacking can leads to account takeover in Firef | [Imgur](../by-program/imgur.md) | Low | — | 16 |
+| 116 | [892289](../reports/892289.md) | self-xss with ClickJacking can leads to account takeover in Firef | [Imgur](../by-program/imgur.md) | Low | — | 16 |
+| 117 | [576532](../reports/576532.md) | DOM XSS via Shopify.API.remoteRedirect | [Shopify](../by-program/shopify.md) | Low | — | 16 |
 | 118 | [879984](../reports/879984.md) | DOM-based XSS in d.miwifi.com on IE 11 | [Xiaomi](../by-program/xiaomi.md) | Low | — | 15 |
 | 119 | [938683](../reports/938683.md) | CVE-2019-19935 - DOM based XSS in the froala editor | [lemlist](../by-program/lemlist.md) | Low | — | 10 |
 | 120 | [248588](../reports/248588.md) | [wakatime.com] HTML Injection github-btn.html | [WakaTime](../by-program/wakatime.md) | Low | — | 9 |

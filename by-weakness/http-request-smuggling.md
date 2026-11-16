@@ -13,8 +13,8 @@
 | 7 | [2299692](../reports/2299692.md) | Request Smuggling in Apache Tomcat (Important, CVE-2023-45648) | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.2 | $4,660 | 51 |
 | 8 | [1667974](../reports/1667974.md) | Pause-based desync in Apache HTTPD | [Internet Bug Bounty](../by-program/ibb.md) | High | $4,000 | 72 |
 | 9 | [1575912](../reports/1575912.md) | HTTP request smuggling with Origin Rules using newlines in the ho | [Cloudflare Public Bug Bounty](../by-program/cloudflare.md) | Critical | $3,100 | 46 |
-| 10 | [1888760](../reports/1888760.md) | HTTP Request Smuggling Due to Incorrect Parsing of Header Fields | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $1,800 | 15 |
-| 11 | [2032842](../reports/2032842.md) | HTTP Request Smuggling via Empty headers separated by CR | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.5 | $1,800 | 15 |
+| 10 | [2032842](../reports/2032842.md) | HTTP Request Smuggling via Empty headers separated by CR | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.5 | $1,800 | 15 |
+| 11 | [1888760](../reports/1888760.md) | HTTP Request Smuggling Due to Incorrect Parsing of Header Fields | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $1,800 | 15 |
 | 12 | [1630668](../reports/1630668.md) |  CVE-2022-32213 - HTTP Request Smuggling Due to Flawed Parsing of | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $1,800 | 13 |
 | 13 | [1630669](../reports/1630669.md) | CVE-2022-32214 - HTTP Request Smuggling Due To Improper Delimitin | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $1,800 | 11 |
 | 14 | [1630667](../reports/1630667.md) |  CVE-2022-32215 - HTTP Request Smuggling Due to Incorrect Parsing | [Internet Bug Bounty](../by-program/ibb.md) | Medium | $1,800 | 6 |
@@ -34,8 +34,8 @@
 | 28 | [740037](../reports/740037.md) | Request smuggling on admin-official.line.me could lead to account | [LY Corporation](../by-program/line.md) | High | — | 563 |
 | 29 | [867952](../reports/867952.md) | HTTP request Smuggling | [Helium](../by-program/helium.md) | High | — | 299 |
 | 30 | [922597](../reports/922597.md) | HTTP Request Smuggling due to CR-to-Hyphen conversion | [Node.js](../by-program/nodejs.md) | High — CVSS 8.5 | — | 134 |
-| 31 | [1943608](../reports/1943608.md) | HTTP Request Smuggling (CL.0) leads to mass redirect users to att | [LinkedIn](../by-program/linkedin.md) | High — CVSS 8.2 | — | 40 |
-| 32 | [1120982](../reports/1120982.md) | HTTP Request Smuggling  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 40 |
+| 31 | [1120982](../reports/1120982.md) | HTTP Request Smuggling  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 40 |
+| 32 | [1943608](../reports/1943608.md) | HTTP Request Smuggling (CL.0) leads to mass redirect users to att | [LinkedIn](../by-program/linkedin.md) | High — CVSS 8.2 | — | 40 |
 | 33 | [526880](../reports/526880.md) | Request smuggling on ████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | — | 25 |
 | 34 | [715996](../reports/715996.md) | http request smuggling in  twitter.com | [X / xAI](../by-program/x.md) | High | — | 17 |
 | 35 | [866382](../reports/866382.md) | HTTP Request Smuggling | [Brave Software](../by-program/brave.md) | High | — | 12 |
@@ -55,12 +55,12 @@
 | 49 | [2001873](../reports/2001873.md) | HTTP Request Smuggling via Empty headers separated by CR | [Node.js](../by-program/nodejs.md) | Medium | — | 7 |
 | 50 | [1524555](../reports/1524555.md) | HTTP Request Smuggling Due to Flawed Parsing of Transfer-Encoding | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 7 |
 | 51 | [1501679](../reports/1501679.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 7 |
-| 52 | [1675191](../reports/1675191.md) | HTTP Request Smuggling Due to Incorrect Parsing of Header Fields | [Node.js](../by-program/nodejs.md) | Medium | — | 6 |
-| 53 | [1665156](../reports/1665156.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium | — | 6 |
-| 54 | [3723248](../reports/3723248.md) | HTTP Request Smuggling via Connection: close<TAB> in Node.js llht | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.8 | — | 6 |
+| 52 | [1665156](../reports/1665156.md) | HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Tra | [Node.js](../by-program/nodejs.md) | Medium | — | 6 |
+| 53 | [3723248](../reports/3723248.md) | HTTP Request Smuggling via Connection: close<TAB> in Node.js llht | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.8 | — | 6 |
+| 54 | [1675191](../reports/1675191.md) | HTTP Request Smuggling Due to Incorrect Parsing of Header Fields | [Node.js](../by-program/nodejs.md) | Medium | — | 6 |
 | 55 | [1630336](../reports/1630336.md) | CVE-2022-32213 bypass via obs-fold mechanic | [Node.js](../by-program/nodejs.md) | Medium | — | 5 |
-| 56 | [4098761](../reports/4098761.md) | HTTP/1.1 connection reuse returns unsolicited server data as the  | [curl](../by-program/curl.md) | Medium | — | 3 |
-| 57 | [3795615](../reports/3795615.md) | Duplicate chunked Transfer-Encoding lets a malicious origin smugg | [curl](../by-program/curl.md) | Medium | — | 3 |
+| 56 | [3795615](../reports/3795615.md) | Duplicate chunked Transfer-Encoding lets a malicious origin smugg | [curl](../by-program/curl.md) | Medium | — | 3 |
+| 57 | [4098761](../reports/4098761.md) | HTTP/1.1 connection reuse returns unsolicited server data as the  | [curl](../by-program/curl.md) | Medium | — | 3 |
 | 58 | [4025056](../reports/4025056.md) | HTTP/1.1 response framing violation and unsafe connection reuse w | [curl](../by-program/curl.md) | Medium | — | 0 |
 | 59 | [3623064](../reports/3623064.md) | HTTP/1.1 Response Desynchronization via conflicting CL/TE headers | [curl](../by-program/curl.md) | Low | — | 30 |
 | 60 | [1063627](../reports/1063627.md) | HTTP Request Smuggling on https://consumer.acronis.com | [Acronis](../by-program/acronis.md) | Low | — | 16 |

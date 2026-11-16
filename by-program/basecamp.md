@@ -39,8 +39,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 33 | [1343300](../reports/1343300.md) | com.basecamp.bc3 Webview Javascript Injection and JS bridge  | High — CVSS 7.7 | — | 20 | [fr4via](https://hackerone.com/fr4via) | 2022-09-23 |
 | 34 | [4175245](../reports/4175245.md) | Cross-account stored XSS on app.basecamp.com leads to persis | High — CVSS 8.7 | — | 14 | [matty69v](https://hackerone.com/matty69v) | 2026-11-13 |
 | 35 | [4035023](../reports/4035023.md) | Ordinary HEY user can make HEY originate authenticated mail  | High — CVSS 7.0 | — | 8 | [gachikuku](https://hackerone.com/gachikuku) | 2026-10-20 |
-| 36 | [3999856](../reports/3999856.md) | A third-party Basecamp OAuth token mints a full launchpad we | High — CVSS 8.0 | — | 5 | [deivizzzz](https://hackerone.com/deivizzzz) | 2026-10-30 |
-| 37 | [3955956](../reports/3955956.md) | launchpad.37signals.com OAuth AS issues victim-bound credent | High — CVSS 8.0 | — | 5 | [rootaccessxvv](https://hackerone.com/rootaccessxvv) | 2026-10-30 |
+| 36 | [3955956](../reports/3955956.md) | launchpad.37signals.com OAuth AS issues victim-bound credent | High — CVSS 8.0 | — | 5 | [rootaccessxvv](https://hackerone.com/rootaccessxvv) | 2026-10-30 |
+| 37 | [3999856](../reports/3999856.md) | A third-party Basecamp OAuth token mints a full launchpad we | High — CVSS 8.0 | — | 5 | [deivizzzz](https://hackerone.com/deivizzzz) | 2026-10-30 |
 | 38 | [3979217](../reports/3979217.md) |  Cross-account webhook takeover: PUT and DELETE on /<account | High — CVSS 8.3 | — | 4 | [deivizzzz](https://hackerone.com/deivizzzz) | 2026-10-30 |
 | 39 | [3943339](../reports/3943339.md) | One-click cross-account JavaScript execution steals a victim | High — CVSS 8.7 | — | 3 | [pirikara](https://hackerone.com/pirikara) | 2026-10-02 |
 | 40 | [3981292](../reports/3981292.md) | Cross-account XSS on app.basecamp.com: oEmbed option injecti | High — CVSS 8.7 | — | 1 | [deivizzzz](https://hackerone.com/deivizzzz) | 2026-10-28 |

@@ -15,91 +15,91 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 9 | [1004536](../reports/1004536.md) | Reset password cookie leads to account takeover | Medium — CVSS 6.3 | — | 38 | [homai](https://hackerone.com/homai) | 2020-10-12 |
 | 10 | [634312](../reports/634312.md) | HTML injection and information disclosure in support panel | Medium — CVSS 5.8 | — | 20 | [xaleraf4ra](https://hackerone.com/xaleraf4ra) | 2019-07-09 |
 | 11 | [224460](../reports/224460.md) | Rate Limit Bypass on login Page | Medium — CVSS 6.8 | — | 18 | [atruba](https://hackerone.com/atruba) | 2017-05-17 |
-| 12 | [610219](../reports/610219.md) | Stored XSS via Create Project (Add new translation project) | Medium — CVSS 4.7 | — | 11 | [th3_alchem1st](https://hackerone.com/th3_alchem1st) | 2019-07-09 |
-| 13 | [229528](../reports/229528.md) | Login CSRF : Login Authentication Flaw | Medium | — | 11 | [japz](https://hackerone.com/japz) | 2017-06-02 |
+| 12 | [229528](../reports/229528.md) | Login CSRF : Login Authentication Flaw | Medium | — | 11 | [japz](https://hackerone.com/japz) | 2017-06-02 |
+| 13 | [610219](../reports/610219.md) | Stored XSS via Create Project (Add new translation project) | Medium — CVSS 4.7 | — | 11 | [th3_alchem1st](https://hackerone.com/th3_alchem1st) | 2019-07-09 |
 | 14 | [3825141](../reports/3825141.md) | API token sent to URL dictated by an untrusted project .webl | Medium — CVSS 6.3 | — | 8 | [type5afe](https://hackerone.com/type5afe) | 2026-09-04 |
-| 15 | [223339](../reports/223339.md) | Activation tokens are not expiring | Medium | — | 8 | [japz](https://hackerone.com/japz) | 2017-05-17 |
-| 16 | [223324](../reports/223324.md) | Registration captcha bypass | Medium — CVSS 4.3 | — | 8 | [blacky](https://hackerone.com/blacky) | 2017-05-17 |
-| 17 | [223337](../reports/223337.md) | No BruteForce Protection | Medium — CVSS 6.5 | — | 7 | [jaypatel](https://hackerone.com/jaypatel) | 2017-05-17 |
+| 15 | [223324](../reports/223324.md) | Registration captcha bypass | Medium — CVSS 4.3 | — | 8 | [blacky](https://hackerone.com/blacky) | 2017-05-17 |
+| 16 | [223339](../reports/223339.md) | Activation tokens are not expiring | Medium | — | 8 | [japz](https://hackerone.com/japz) | 2017-05-17 |
+| 17 | [472391](../reports/472391.md) | Stored XSS @ /engage/<project_slug> | Medium | — | 7 | [lgian](https://hackerone.com/lgian) | 2019-07-02 |
 | 18 | [225100](../reports/225100.md) | CSRF to Connect third party Account | Medium | — | 7 | [idiablos](https://hackerone.com/idiablos) | 2017-05-02 |
-| 19 | [472391](../reports/472391.md) | Stored XSS @ /engage/<project_slug> | Medium | — | 7 | [lgian](https://hackerone.com/lgian) | 2019-07-02 |
-| 20 | [223999](../reports/223999.md) | CSV export filter bypass leads to formula injection. | Medium — CVSS 5.4 | — | 6 | [edoverflow](https://hackerone.com/edoverflow) | 2017-05-17 |
-| 21 | [223694](../reports/223694.md) | No Rate Limitting at Change Password | Medium — CVSS 5.4 | — | 6 | [0xspade](https://hackerone.com/0xspade) | 2017-05-17 |
-| 22 | [4028616](../reports/4028616.md) | Memory exhaustion (DoS) via unbounded file read in `Encoding | Medium | — | 5 | [sumit-sabhaya](https://hackerone.com/sumit-sabhaya) | 2026-10-16 |
-| 23 | [224317](../reports/224317.md) | Open redirect while disconnecting authenticated account | Medium | — | 5 | [gsecure](https://hackerone.com/gsecure) | 2017-06-08 |
-| 24 | [223345](../reports/223345.md) | CSRF : Lock and Unlock Translation | Medium | — | 5 | [jaypatel](https://hackerone.com/jaypatel) | 2017-05-17 |
-| 25 | [223326](../reports/223326.md) | Open Redirect via "next" parameter in third-party authentica | Medium | — | 5 | [ysx](https://hackerone.com/ysx) | 2017-05-17 |
-| 26 | [230863](../reports/230863.md) | CSRF bypass ( Delate Source Translation From dictionaries )  | Medium — CVSS 4.3 | — | 4 | [sup3r-b0y](https://hackerone.com/sup3r-b0y) | 2017-06-02 |
-| 27 | [224342](../reports/224342.md) | Bypassing captcha in registration on Hosted site | Medium | — | 4 | [pavanw3b](https://hackerone.com/pavanw3b) | 2017-07-03 |
-| 28 | [4037976](../reports/4037976.md) | Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CV | Medium | — | 4 | [sumit-sabhaya](https://hackerone.com/sumit-sabhaya) | 2026-10-30 |
-| 29 | [4088592](../reports/4088592.md) | CPU-based Denial of Service in translation-finder via O(N²)  | Medium | — | 3 | [robin-sabhaya](https://hackerone.com/robin-sabhaya) | 2026-11-05 |
-| 30 | [223718](../reports/223718.md) | Open redirect in Signing in via Social Sites | Medium | — | 3 | [rajauzairabdullah](https://hackerone.com/rajauzairabdullah) | 2017-05-17 |
-| 31 | [4094236](../reports/4094236.md) |  Billion laughs entity expansion in Qt .ts discovery: a craf | Medium | — | 3 | [sumit-sabhaya](https://hackerone.com/sumit-sabhaya) | 2026-11-07 |
-| 32 | [223367](../reports/223367.md) | CSRF - Changing the full name / adding a secondary email ide | Medium — CVSS 4.7 | — | 3 | [inhibitor181](https://hackerone.com/inhibitor181) | 2017-06-02 |
+| 19 | [223337](../reports/223337.md) | No BruteForce Protection | Medium — CVSS 6.5 | — | 7 | [jaypatel](https://hackerone.com/jaypatel) | 2017-05-17 |
+| 20 | [223694](../reports/223694.md) | No Rate Limitting at Change Password | Medium — CVSS 5.4 | — | 6 | [0xspade](https://hackerone.com/0xspade) | 2017-05-17 |
+| 21 | [223999](../reports/223999.md) | CSV export filter bypass leads to formula injection. | Medium — CVSS 5.4 | — | 6 | [edoverflow](https://hackerone.com/edoverflow) | 2017-05-17 |
+| 22 | [223345](../reports/223345.md) | CSRF : Lock and Unlock Translation | Medium | — | 5 | [jaypatel](https://hackerone.com/jaypatel) | 2017-05-17 |
+| 23 | [4028616](../reports/4028616.md) | Memory exhaustion (DoS) via unbounded file read in `Encoding | Medium | — | 5 | [sumit-sabhaya](https://hackerone.com/sumit-sabhaya) | 2026-10-16 |
+| 24 | [223326](../reports/223326.md) | Open Redirect via "next" parameter in third-party authentica | Medium | — | 5 | [ysx](https://hackerone.com/ysx) | 2017-05-17 |
+| 25 | [224317](../reports/224317.md) | Open redirect while disconnecting authenticated account | Medium | — | 5 | [gsecure](https://hackerone.com/gsecure) | 2017-06-08 |
+| 26 | [4037976](../reports/4037976.md) | Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CV | Medium | — | 4 | [sumit-sabhaya](https://hackerone.com/sumit-sabhaya) | 2026-10-30 |
+| 27 | [230863](../reports/230863.md) | CSRF bypass ( Delate Source Translation From dictionaries )  | Medium — CVSS 4.3 | — | 4 | [sup3r-b0y](https://hackerone.com/sup3r-b0y) | 2017-06-02 |
+| 28 | [224342](../reports/224342.md) | Bypassing captcha in registration on Hosted site | Medium | — | 4 | [pavanw3b](https://hackerone.com/pavanw3b) | 2017-07-03 |
+| 29 | [223367](../reports/223367.md) | CSRF - Changing the full name / adding a secondary email ide | Medium — CVSS 4.7 | — | 3 | [inhibitor181](https://hackerone.com/inhibitor181) | 2017-06-02 |
+| 30 | [4088592](../reports/4088592.md) | CPU-based Denial of Service in translation-finder via O(N²)  | Medium | — | 3 | [robin-sabhaya](https://hackerone.com/robin-sabhaya) | 2026-11-05 |
+| 31 | [223718](../reports/223718.md) | Open redirect in Signing in via Social Sites | Medium | — | 3 | [rajauzairabdullah](https://hackerone.com/rajauzairabdullah) | 2017-05-17 |
+| 32 | [4094236](../reports/4094236.md) |  Billion laughs entity expansion in Qt .ts discovery: a craf | Medium | — | 3 | [sumit-sabhaya](https://hackerone.com/sumit-sabhaya) | 2026-11-07 |
 | 33 | [225495](../reports/225495.md) | full path disclosure at hosted.weblate.org/admin/accounts/pr | Medium — CVSS 4.3 | — | 2 | [geekdad](https://hackerone.com/geekdad) | 2017-05-17 |
 | 34 | [4059744](../reports/4059744.md) | Anonymous API Rate Limit Bypass via X-Forwarded-For | Medium | — | 1 | [hexa34](https://hackerone.com/hexa34) | 2026-11-15 |
 | 35 | [1087188](../reports/1087188.md) | Race Condition allows to get more free trials and get more t | Low — CVSS 3.1 | — | 20 | [b9cc1792602cc31402c20c9](https://hackerone.com/b9cc1792602cc31402c20c9) | 2021-02-25 |
 | 36 | [229532](../reports/229532.md) | Insecure Account Removal #2 | Low — CVSS 3.9 | — | 16 | [japz](https://hackerone.com/japz) | 2018-08-28 |
 | 37 | [229920](../reports/229920.md) | Password Restriction | Low | — | 12 | [chols](https://hackerone.com/chols) | 2017-08-19 |
-| 38 | [282772](../reports/282772.md) | no notification send to victim if attacker hacks/accesses hi | Low | — | 11 | [c0narp](https://hackerone.com/c0narp) | 2018-09-26 |
-| 39 | [404035](../reports/404035.md) | flood of comment no rate  limit on commnets >>  by using dif | Low — CVSS 2.6 | — | 11 | [code_monkey](https://hackerone.com/code_monkey) | 2018-09-28 |
-| 40 | [223430](../reports/223430.md) | Content Spoofing | Low | — | 10 | [eveeez](https://hackerone.com/eveeez) | 2017-05-17 |
-| 41 | [223461](../reports/223461.md) | Weak e-mail change functionality could lead to account takeo | Low — CVSS 3.7 | — | 10 | [twicedi](https://hackerone.com/twicedi) | 2017-05-17 |
-| 42 | [481654](../reports/481654.md) | No Rate On Add Suggest | Low | — | 10 | [elmahdi](https://hackerone.com/elmahdi) | 2019-01-22 |
-| 43 | [224572](../reports/224572.md) | Weak password policy | Low | — | 10 | [platinum1933](https://hackerone.com/platinum1933) | 2017-08-18 |
-| 44 | [229825](../reports/229825.md) | Rate Limit Issue on hosted.weblate.org | Low | — | 10 | [imran_hadid](https://hackerone.com/imran_hadid) | 2017-07-02 |
+| 38 | [404035](../reports/404035.md) | flood of comment no rate  limit on commnets >>  by using dif | Low — CVSS 2.6 | — | 11 | [code_monkey](https://hackerone.com/code_monkey) | 2018-09-28 |
+| 39 | [282772](../reports/282772.md) | no notification send to victim if attacker hacks/accesses hi | Low | — | 11 | [c0narp](https://hackerone.com/c0narp) | 2018-09-26 |
+| 40 | [223461](../reports/223461.md) | Weak e-mail change functionality could lead to account takeo | Low — CVSS 3.7 | — | 10 | [twicedi](https://hackerone.com/twicedi) | 2017-05-17 |
+| 41 | [229825](../reports/229825.md) | Rate Limit Issue on hosted.weblate.org | Low | — | 10 | [imran_hadid](https://hackerone.com/imran_hadid) | 2017-07-02 |
+| 42 | [223430](../reports/223430.md) | Content Spoofing | Low | — | 10 | [eveeez](https://hackerone.com/eveeez) | 2017-05-17 |
+| 43 | [481654](../reports/481654.md) | No Rate On Add Suggest | Low | — | 10 | [elmahdi](https://hackerone.com/elmahdi) | 2019-01-22 |
+| 44 | [224572](../reports/224572.md) | Weak password policy | Low | — | 10 | [platinum1933](https://hackerone.com/platinum1933) | 2017-08-18 |
 | 45 | [223355](../reports/223355.md) | Insecure Account Removal | Low — CVSS 3.1 | — | 9 | [japz](https://hackerone.com/japz) | 2017-05-17 |
-| 46 | [224362](../reports/224362.md) | Invalidate session after password reset - hosted website | Low | — | 8 | [pavanw3b](https://hackerone.com/pavanw3b) | 2017-07-03 |
-| 47 | [229511](../reports/229511.md) | No Rate Limiting at /contact | Low | — | 8 | [chols](https://hackerone.com/chols) | 2017-06-02 |
-| 48 | [223454](../reports/223454.md) | Missing restriction on string size of Full Name at https://d | Low | — | 7 | [sumit7](https://hackerone.com/sumit7) | 2017-05-18 |
-| 49 | [223854](../reports/223854.md) | No Password Length Restriction leads to Denial of Service | Low | — | 7 | [ant_pyne](https://hackerone.com/ant_pyne) | 2017-05-17 |
+| 46 | [229511](../reports/229511.md) | No Rate Limiting at /contact | Low | — | 8 | [chols](https://hackerone.com/chols) | 2017-06-02 |
+| 47 | [224362](../reports/224362.md) | Invalidate session after password reset - hosted website | Low | — | 8 | [pavanw3b](https://hackerone.com/pavanw3b) | 2017-07-03 |
+| 48 | [223333](../reports/223333.md) | CSRF : Reset API  | Low — CVSS 3.5 | — | 7 | [jaypatel](https://hackerone.com/jaypatel) | 2017-05-17 |
+| 49 | [223454](../reports/223454.md) | Missing restriction on string size of Full Name at https://d | Low | — | 7 | [sumit7](https://hackerone.com/sumit7) | 2017-05-18 |
 | 50 | [223344](../reports/223344.md) | CSV Injection with the CSV export feature | Low | — | 7 | [jaypatel](https://hackerone.com/jaypatel) | 2017-05-17 |
-| 51 | [230076](../reports/230076.md) | Takeover of an account via reset password options after remo | Low | — | 7 | [imran_hadid](https://hackerone.com/imran_hadid) | 2017-06-13 |
-| 52 | [223333](../reports/223333.md) | CSRF : Reset API  | Low — CVSS 3.5 | — | 7 | [jaypatel](https://hackerone.com/jaypatel) | 2017-05-17 |
-| 53 | [1927499](../reports/1927499.md) | Testing flow includes a DeepSource secret | Low | — | 7 | [triplesided](https://hackerone.com/triplesided) | 2023-04-11 |
-| 54 | [229620](../reports/229620.md) | Information Disclosure on demo.weblate.org | Low | — | 7 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-06-02 |
-| 55 | [223374](../reports/223374.md) | You can simply just use passwords that simply are as 123456 | Low | — | 6 | [sarlis](https://hackerone.com/sarlis) | 2017-05-19 |
+| 51 | [1927499](../reports/1927499.md) | Testing flow includes a DeepSource secret | Low | — | 7 | [triplesided](https://hackerone.com/triplesided) | 2023-04-11 |
+| 52 | [223854](../reports/223854.md) | No Password Length Restriction leads to Denial of Service | Low | — | 7 | [ant_pyne](https://hackerone.com/ant_pyne) | 2017-05-17 |
+| 53 | [229620](../reports/229620.md) | Information Disclosure on demo.weblate.org | Low | — | 7 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-06-02 |
+| 54 | [230076](../reports/230076.md) | Takeover of an account via reset password options after remo | Low | — | 7 | [imran_hadid](https://hackerone.com/imran_hadid) | 2017-06-13 |
+| 55 | [229577](../reports/229577.md) | Old password can be new password | Low | — | 6 | [proabiral](https://hackerone.com/proabiral) | 2017-06-03 |
 | 56 | [223637](../reports/223637.md) | [hosted.weblate.org]Account Takeover | Low | — | 6 | [0xspade](https://hackerone.com/0xspade) | 2017-05-17 |
-| 57 | [229577](../reports/229577.md) | Old password can be new password | Low | — | 6 | [proabiral](https://hackerone.com/proabiral) | 2017-06-03 |
-| 58 | [223427](../reports/223427.md) | Login using disconnected google account i.e login using old  | Low | — | 6 | [tushar21](https://hackerone.com/tushar21) | 2017-05-17 |
-| 59 | [404713](../reports/404713.md) | 2nd issue>>> flood of email  no rate limit on delete account | Low — CVSS 2.0 | — | 6 | [code_monkey](https://hackerone.com/code_monkey) | 2018-09-28 |
+| 57 | [223374](../reports/223374.md) | You can simply just use passwords that simply are as 123456 | Low | — | 6 | [sarlis](https://hackerone.com/sarlis) | 2017-05-19 |
+| 58 | [404713](../reports/404713.md) | 2nd issue>>> flood of email  no rate limit on delete account | Low — CVSS 2.0 | — | 6 | [code_monkey](https://hackerone.com/code_monkey) | 2018-09-28 |
+| 59 | [223427](../reports/223427.md) | Login using disconnected google account i.e login using old  | Low | — | 6 | [tushar21](https://hackerone.com/tushar21) | 2017-05-17 |
 | 60 | [223329](../reports/223329.md) | Logout CSRF | Low | — | 6 | [japz](https://hackerone.com/japz) | 2017-05-17 |
-| 61 | [1003468](../reports/1003468.md) | Send Empty CSRF leads to log out user on [https://hosted.web | Low — CVSS 3.1 | — | 5 | [homai](https://hackerone.com/homai) | 2020-10-12 |
-| 62 | [232306](../reports/232306.md) | Improper Cookie expiration | Cookies Expiration Set to Futur | Low — CVSS 3.4 | — | 5 | [sadhu16](https://hackerone.com/sadhu16) | 2017-08-31 |
-| 63 | [224379](../reports/224379.md) | session id missing secure flag - Hosted Website | Low | — | 5 | [pavanw3b](https://hackerone.com/pavanw3b) | 2017-05-17 |
-| 64 | [223525](../reports/223525.md) | Spamming any user from Reset Password Function | Low | — | 5 | [atruba](https://hackerone.com/atruba) | 2017-05-17 |
-| 65 | [223350](../reports/223350.md) | Web server is vulnerable to Beast Attack | Low | — | 5 | [mrnull1337](https://hackerone.com/mrnull1337) | 2017-04-24 |
-| 66 | [479021](../reports/479021.md) | No Rate Limit  On Add new word | Low | — | 5 | [elmahdi](https://hackerone.com/elmahdi) | 2019-01-14 |
+| 61 | [232306](../reports/232306.md) | Improper Cookie expiration | Cookies Expiration Set to Futur | Low — CVSS 3.4 | — | 5 | [sadhu16](https://hackerone.com/sadhu16) | 2017-08-31 |
+| 62 | [229796](../reports/229796.md) | Missing restriction on string size | Low | — | 5 | [proabiral](https://hackerone.com/proabiral) | 2017-06-03 |
+| 63 | [223350](../reports/223350.md) | Web server is vulnerable to Beast Attack | Low | — | 5 | [mrnull1337](https://hackerone.com/mrnull1337) | 2017-04-24 |
+| 64 | [229405](../reports/229405.md) | Csrf in watch-unwatch projects | Low | — | 5 | [ashish_r_padelkar](https://hackerone.com/ashish_r_padelkar) | 2017-08-17 |
+| 65 | [1003468](../reports/1003468.md) | Send Empty CSRF leads to log out user on [https://hosted.web | Low — CVSS 3.1 | — | 5 | [homai](https://hackerone.com/homai) | 2020-10-12 |
+| 66 | [223391](../reports/223391.md) | Clickjacking docs.weblate.org | Low | — | 5 | [akbarparambil](https://hackerone.com/akbarparambil) | 2017-06-05 |
 | 67 | [223421](../reports/223421.md) | Open port leads to information disclosure | Low | — | 5 | [str33](https://hackerone.com/str33) | 2018-09-10 |
-| 68 | [229796](../reports/229796.md) | Missing restriction on string size | Low | — | 5 | [proabiral](https://hackerone.com/proabiral) | 2017-06-03 |
-| 69 | [223391](../reports/223391.md) | Clickjacking docs.weblate.org | Low | — | 5 | [akbarparambil](https://hackerone.com/akbarparambil) | 2017-06-05 |
-| 70 | [229405](../reports/229405.md) | Csrf in watch-unwatch projects | Low | — | 5 | [ashish_r_padelkar](https://hackerone.com/ashish_r_padelkar) | 2017-08-17 |
-| 71 | [223327](../reports/223327.md) | No expiration of session ID after Password change | Low | — | 4 | [str33](https://hackerone.com/str33) | 2017-05-17 |
-| 72 | [223475](../reports/223475.md) | Existing sessions valid after removing third party auth | Low | — | 4 | [brdoors3](https://hackerone.com/brdoors3) | 2017-06-16 |
+| 68 | [223525](../reports/223525.md) | Spamming any user from Reset Password Function | Low | — | 5 | [atruba](https://hackerone.com/atruba) | 2017-05-17 |
+| 69 | [479021](../reports/479021.md) | No Rate Limit  On Add new word | Low | — | 5 | [elmahdi](https://hackerone.com/elmahdi) | 2019-01-14 |
+| 70 | [224379](../reports/224379.md) | session id missing secure flag - Hosted Website | Low | — | 5 | [pavanw3b](https://hackerone.com/pavanw3b) | 2017-05-17 |
+| 71 | [232994](../reports/232994.md) | API Does Not Apply Access Controls to Translations | Low — CVSS 3.7 | — | 4 | [4cad](https://hackerone.com/4cad) | 2017-06-02 |
+| 72 | [4044441](../reports/4044441.md) | Translation discovery crashes on crafted filenames (regex su | Low | — | 4 | [sumit-sabhaya](https://hackerone.com/sumit-sabhaya) | 2026-10-30 |
 | 73 | [224291](../reports/224291.md) | CSV Injection with the CVS export feature - Glossary | Low | — | 4 | [amsda](https://hackerone.com/amsda) | 2017-05-17 |
-| 74 | [223630](../reports/223630.md) | Content Spoofing | Low | — | 4 | [0xspade](https://hackerone.com/0xspade) | 2017-05-17 |
-| 75 | [223456](../reports/223456.md) | Content Spoofing in error message | Low | — | 4 | [codertom](https://hackerone.com/codertom) | 2017-05-17 |
-| 76 | [4040149](../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves stale a | Low | — | 4 | [sumit-sabhaya](https://hackerone.com/sumit-sabhaya) | 2026-10-30 |
-| 77 | [4044441](../reports/4044441.md) | Translation discovery crashes on crafted filenames (regex su | Low | — | 4 | [sumit-sabhaya](https://hackerone.com/sumit-sabhaya) | 2026-10-30 |
-| 78 | [224287](../reports/224287.md) | Email verification over an unencrypted channel | Low | — | 4 | [pavanw3b](https://hackerone.com/pavanw3b) | 2017-05-17 |
-| 79 | [223545](../reports/223545.md) | Missing DMARC on weblate.org | Low | — | 4 | [khalidamin](https://hackerone.com/khalidamin) | 2017-05-17 |
-| 80 | [245518](../reports/245518.md) | [debian.weblate.org]-Missing SPF Record | Low | — | 4 | [hackerhero](https://hackerone.com/hackerhero) | 2017-08-24 |
-| 81 | [232994](../reports/232994.md) | API Does Not Apply Access Controls to Translations | Low — CVSS 3.7 | — | 4 | [4cad](https://hackerone.com/4cad) | 2017-06-02 |
-| 82 | [223331](../reports/223331.md) | [demo.weblate.org] Stored Self-XSS via Editor Link in Profil | Low | — | 4 | [ysx](https://hackerone.com/ysx) | 2017-05-17 |
+| 74 | [223456](../reports/223456.md) | Content Spoofing in error message | Low | — | 4 | [codertom](https://hackerone.com/codertom) | 2017-05-17 |
+| 75 | [4040149](../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves stale a | Low | — | 4 | [sumit-sabhaya](https://hackerone.com/sumit-sabhaya) | 2026-10-30 |
+| 76 | [245518](../reports/245518.md) | [debian.weblate.org]-Missing SPF Record | Low | — | 4 | [hackerhero](https://hackerone.com/hackerhero) | 2017-08-24 |
+| 77 | [223327](../reports/223327.md) | No expiration of session ID after Password change | Low | — | 4 | [str33](https://hackerone.com/str33) | 2017-05-17 |
+| 78 | [223630](../reports/223630.md) | Content Spoofing | Low | — | 4 | [0xspade](https://hackerone.com/0xspade) | 2017-05-17 |
+| 79 | [223331](../reports/223331.md) | [demo.weblate.org] Stored Self-XSS via Editor Link in Profil | Low | — | 4 | [ysx](https://hackerone.com/ysx) | 2017-05-17 |
+| 80 | [223545](../reports/223545.md) | Missing DMARC on weblate.org | Low | — | 4 | [khalidamin](https://hackerone.com/khalidamin) | 2017-05-17 |
+| 81 | [224287](../reports/224287.md) | Email verification over an unencrypted channel | Low | — | 4 | [pavanw3b](https://hackerone.com/pavanw3b) | 2017-05-17 |
+| 82 | [223475](../reports/223475.md) | Existing sessions valid after removing third party auth | Low | — | 4 | [brdoors3](https://hackerone.com/brdoors3) | 2017-06-16 |
 | 83 | [223531](../reports/223531.md) | User Enumeration when adding email to account | Low — CVSS 3.5 | — | 4 | [atruba](https://hackerone.com/atruba) | 2017-05-17 |
-| 84 | [229869](../reports/229869.md) | Adding Email lacks Password validation | Low | — | 3 | [proabiral](https://hackerone.com/proabiral) | 2017-06-28 |
-| 85 | [223692](../reports/223692.md) | Self XSS at translation page through Editor Link at demo.web | Low | — | 3 | [csanuragjain](https://hackerone.com/csanuragjain) | 2017-05-17 |
-| 86 | [223609](../reports/223609.md) | Notify user about password change | Low | — | 3 | [amsda](https://hackerone.com/amsda) | 2017-05-17 |
+| 84 | [223343](../reports/223343.md) | Already Registered Email Disclosure | Low | — | 3 | [anonymans](https://hackerone.com/anonymans) | 2017-05-17 |
+| 85 | [229584](../reports/229584.md) | Captcha bypass at registration | Low | — | 3 | [proabiral](https://hackerone.com/proabiral) | 2017-06-28 |
+| 86 | [229869](../reports/229869.md) | Adding Email lacks Password validation | Low | — | 3 | [proabiral](https://hackerone.com/proabiral) | 2017-06-28 |
 | 87 | [223851](../reports/223851.md) | Setting a password with a single character | Low | — | 3 | [footstep](https://hackerone.com/footstep) | 2017-05-18 |
-| 88 | [223343](../reports/223343.md) | Already Registered Email Disclosure | Low | — | 3 | [anonymans](https://hackerone.com/anonymans) | 2017-05-17 |
-| 89 | [4022462](../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (deep di | Low | — | 3 | [sumit-sabhaya](https://hackerone.com/sumit-sabhaya) | 2026-10-14 |
-| 90 | [229584](../reports/229584.md) | Captcha bypass at registration | Low | — | 3 | [proabiral](https://hackerone.com/proabiral) | 2017-06-28 |
-| 91 | [223618](../reports/223618.md) | Null Password - Setting a new password doesn't check for emp | Low | — | 3 | [footstep](https://hackerone.com/footstep) | 2017-05-18 |
-| 92 | [223557](../reports/223557.md) | Abuse of Api that causes spamming users and possible DOS due | Low — CVSS 3.5 | — | 2 | [khalidamin](https://hackerone.com/khalidamin) | 2017-05-17 |
-| 93 | [223931](../reports/223931.md) | Specify maximal length in new comment | Low | — | 2 | [amsda](https://hackerone.com/amsda) | 2017-05-17 |
-| 94 | [223653](../reports/223653.md) | demo.weblate.org is vulnerable to SWEET32 Vulnerability | Low | — | 2 | [d0rkerdevil](https://hackerone.com/d0rkerdevil) | 2017-05-17 |
-| 95 | [223362](../reports/223362.md) | Improper Password Reset Policy on https://hosted.weblate.org | Low | — | 2 | [mrnull1337](https://hackerone.com/mrnull1337) | 2017-05-17 |
-| 96 | [223723](../reports/223723.md) | weblate.org: X-XSS-Protection not enabled | Low | — | 2 | [amsda](https://hackerone.com/amsda) | 2017-05-17 |
+| 88 | [4022462](../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (deep di | Low | — | 3 | [sumit-sabhaya](https://hackerone.com/sumit-sabhaya) | 2026-10-14 |
+| 89 | [223609](../reports/223609.md) | Notify user about password change | Low | — | 3 | [amsda](https://hackerone.com/amsda) | 2017-05-17 |
+| 90 | [223618](../reports/223618.md) | Null Password - Setting a new password doesn't check for emp | Low | — | 3 | [footstep](https://hackerone.com/footstep) | 2017-05-18 |
+| 91 | [223692](../reports/223692.md) | Self XSS at translation page through Editor Link at demo.web | Low | — | 3 | [csanuragjain](https://hackerone.com/csanuragjain) | 2017-05-17 |
+| 92 | [223362](../reports/223362.md) | Improper Password Reset Policy on https://hosted.weblate.org | Low | — | 2 | [mrnull1337](https://hackerone.com/mrnull1337) | 2017-05-17 |
+| 93 | [223723](../reports/223723.md) | weblate.org: X-XSS-Protection not enabled | Low | — | 2 | [amsda](https://hackerone.com/amsda) | 2017-05-17 |
+| 94 | [223931](../reports/223931.md) | Specify maximal length in new comment | Low | — | 2 | [amsda](https://hackerone.com/amsda) | 2017-05-17 |
+| 95 | [223557](../reports/223557.md) | Abuse of Api that causes spamming users and possible DOS due | Low — CVSS 3.5 | — | 2 | [khalidamin](https://hackerone.com/khalidamin) | 2017-05-17 |
+| 96 | [223653](../reports/223653.md) | demo.weblate.org is vulnerable to SWEET32 Vulnerability | Low | — | 2 | [d0rkerdevil](https://hackerone.com/d0rkerdevil) | 2017-05-17 |
 | 97 | [223396](../reports/223396.md) | hosted.weblate.org: X-XSS-Protection not enabled | Low | — | 2 | [amsda](https://hackerone.com/amsda) | 2017-05-17 |
 | 98 | [4117330](../reports/4117330.md) | Anonymous Translation Suggestion IP Address Exposure Through | Low | — | 1 | [4upasta](https://hackerone.com/4upasta) | 2026-11-15 |
 | 99 | [2370002](../reports/2370002.md) | Information Disclosure | Low — CVSS 3.7 | — | 0 | [aydinyunus](https://hackerone.com/aydinyunus) | 2024-02-12 |
@@ -109,61 +109,61 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 103 | [236398](../reports/236398.md) | no captcha for register user and weak question attacker can  | None | — | 29 | [fr0nk](https://hackerone.com/fr0nk) | 2019-10-26 |
 | 104 | [942146](../reports/942146.md) | Open Github Repo Leaking WEBLATE SECRET KEY | None | — | 22 | [nafisaqil](https://hackerone.com/nafisaqil) | 2020-07-26 |
 | 105 | [400826](../reports/400826.md) | Broken Authentication – Session Token bug | None | — | 18 | [code_monkey](https://hackerone.com/code_monkey) | 2018-09-26 |
-| 106 | [1723445](../reports/1723445.md) | No rate limiting for Remove Account lead to huge Mass mailin | None | — | 12 | [tanvir_0x](https://hackerone.com/tanvir_0x) | 2022-11-20 |
-| 107 | [253926](../reports/253926.md) | DKIM records not present, Email Hijacking is possible..... | None | — | 12 | [kaamakya](https://hackerone.com/kaamakya) | 2017-09-16 |
+| 106 | [253926](../reports/253926.md) | DKIM records not present, Email Hijacking is possible..... | None | — | 12 | [kaamakya](https://hackerone.com/kaamakya) | 2017-09-16 |
+| 107 | [1723445](../reports/1723445.md) | No rate limiting for Remove Account lead to huge Mass mailin | None | — | 12 | [tanvir_0x](https://hackerone.com/tanvir_0x) | 2022-11-20 |
 | 108 | [1971610](../reports/1971610.md) | Logging in without knowing credentials after logged out acti | None | — | 10 | [mbi3s](https://hackerone.com/mbi3s) | 2023-06-16 |
 | 109 | [225901](../reports/225901.md) | Missing filteration of meta characters in full name field on | None | — | 9 | [sumit7](https://hackerone.com/sumit7) | 2017-05-22 |
-| 110 | [245304](../reports/245304.md) | Running 2 accounts with a single email #3 | None | — | 8 | [footstep](https://hackerone.com/footstep) | 2018-08-27 |
-| 111 | [1238749](../reports/1238749.md) | No rate Limit on Add new Translation Project  | None | — | 8 | [deathpoolxrs](https://hackerone.com/deathpoolxrs) | 2021-06-21 |
+| 110 | [1238749](../reports/1238749.md) | No rate Limit on Add new Translation Project  | None | — | 8 | [deathpoolxrs](https://hackerone.com/deathpoolxrs) | 2021-06-21 |
+| 111 | [245304](../reports/245304.md) | Running 2 accounts with a single email #3 | None | — | 8 | [footstep](https://hackerone.com/footstep) | 2018-08-27 |
 | 112 | [257376](../reports/257376.md) | Missing Restriction On String Size | None | — | 8 | [alyanwarr](https://hackerone.com/alyanwarr) | 2017-09-16 |
 | 113 | [243594](../reports/243594.md) | Reset password more than once with a reset link | None | — | 8 | [footstep](https://hackerone.com/footstep) | 2017-08-21 |
 | 114 | [245450](../reports/245450.md) | Reset password more than once with a reset link #2 | None | — | 8 | [footstep](https://hackerone.com/footstep) | 2017-10-07 |
-| 115 | [230648](../reports/230648.md) | Weblate |Security Misconfiguration| Method Enumeration Possi | None | — | 7 | [sadhu16](https://hackerone.com/sadhu16) | 2017-07-02 |
-| 116 | [224072](../reports/224072.md) | Running 2 accounts with a single email | None | — | 7 | [footstep](https://hackerone.com/footstep) | 2017-05-18 |
-| 117 | [244287](../reports/244287.md) | Password token validation in Weblate Bypass #2 | None | — | 7 | [footstep](https://hackerone.com/footstep) | 2017-08-21 |
-| 118 | [229541](../reports/229541.md) | Captcha Bypass at Email Reset can lead to Spamming users. | None | — | 7 | [peeper35](https://hackerone.com/peeper35) | 2017-06-02 |
-| 119 | [400781](../reports/400781.md) | Browser Self XSS Protection not implemented | None | — | 7 | [hallaleen](https://hackerone.com/hallaleen) | 2018-09-26 |
+| 115 | [224072](../reports/224072.md) | Running 2 accounts with a single email | None | — | 7 | [footstep](https://hackerone.com/footstep) | 2017-05-18 |
+| 116 | [400781](../reports/400781.md) | Browser Self XSS Protection not implemented | None | — | 7 | [hallaleen](https://hackerone.com/hallaleen) | 2018-09-26 |
+| 117 | [229541](../reports/229541.md) | Captcha Bypass at Email Reset can lead to Spamming users. | None | — | 7 | [peeper35](https://hackerone.com/peeper35) | 2017-06-02 |
+| 118 | [244287](../reports/244287.md) | Password token validation in Weblate Bypass #2 | None | — | 7 | [footstep](https://hackerone.com/footstep) | 2017-08-21 |
+| 119 | [230648](../reports/230648.md) | Weblate |Security Misconfiguration| Method Enumeration Possi | None | — | 7 | [sadhu16](https://hackerone.com/sadhu16) | 2017-07-02 |
 | 120 | [241608](../reports/241608.md) | Running 2 accounts with a single email [Part 2] | None | — | 7 | [footstep](https://hackerone.com/footstep) | 2017-10-07 |
-| 121 | [264934](../reports/264934.md) |  Application allowing old password to be set as new password | None | — | 6 | [sadhu16](https://hackerone.com/sadhu16) | 2017-10-05 |
-| 122 | [926093](../reports/926093.md) | Secret_key in GitHub | None | — | 6 | [fr0gz0x](https://hackerone.com/fr0gz0x) | 2020-07-18 |
-| 123 | [241598](../reports/241598.md) | Full Name Overwrite on Third party login | None | — | 6 | [footstep](https://hackerone.com/footstep) | 2017-08-21 |
-| 124 | [243635](../reports/243635.md) | Improper validation of unicode characters #3 | None | — | 6 | [footstep](https://hackerone.com/footstep) | 2017-08-21 |
-| 125 | [229417](../reports/229417.md) | Design Flaw in session management of password reset  | None | — | 6 | [asaxena2190](https://hackerone.com/asaxena2190) | 2017-06-02 |
+| 121 | [229417](../reports/229417.md) | Design Flaw in session management of password reset  | None | — | 6 | [asaxena2190](https://hackerone.com/asaxena2190) | 2017-06-02 |
+| 122 | [243635](../reports/243635.md) | Improper validation of unicode characters #3 | None | — | 6 | [footstep](https://hackerone.com/footstep) | 2017-08-21 |
+| 123 | [264934](../reports/264934.md) |  Application allowing old password to be set as new password | None | — | 6 | [sadhu16](https://hackerone.com/sadhu16) | 2017-10-05 |
+| 124 | [223435](../reports/223435.md) | Open SMTP port can let anyone send email from mail.chihar.co | None | — | 6 | [str33](https://hackerone.com/str33) | 2017-05-20 |
+| 125 | [241598](../reports/241598.md) | Full Name Overwrite on Third party login | None | — | 6 | [footstep](https://hackerone.com/footstep) | 2017-08-21 |
 | 126 | [241623](../reports/241623.md) | Persistence of Third Party Association. | None | — | 6 | [footstep](https://hackerone.com/footstep) | 2017-08-21 |
-| 127 | [223435](../reports/223435.md) | Open SMTP port can let anyone send email from mail.chihar.co | None | — | 6 | [str33](https://hackerone.com/str33) | 2017-05-20 |
-| 128 | [223846](../reports/223846.md) | Access to completion page without performing any action | None | — | 5 | [footstep](https://hackerone.com/footstep) | 2017-05-18 |
-| 129 | [243609](../reports/243609.md) | The username of an account can be .. | None | — | 5 | [blake12356](https://hackerone.com/blake12356) | 2017-07-27 |
-| 130 | [229735](../reports/229735.md) | Self-XSS can be achieved in the editor link using filter byp | None | — | 5 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-06-02 |
-| 131 | [242171](../reports/242171.md) | Improper validation of unicode characters | None | — | 5 | [asaxena2190](https://hackerone.com/asaxena2190) | 2017-08-19 |
+| 127 | [926093](../reports/926093.md) | Secret_key in GitHub | None | — | 6 | [fr0gz0x](https://hackerone.com/fr0gz0x) | 2020-07-18 |
+| 128 | [241596](../reports/241596.md) | Improper validation of unicode characters still not fixed | None | — | 5 | [footstep](https://hackerone.com/footstep) | 2017-08-21 |
+| 129 | [242171](../reports/242171.md) | Improper validation of unicode characters | None | — | 5 | [asaxena2190](https://hackerone.com/asaxena2190) | 2017-08-19 |
+| 130 | [265987](../reports/265987.md) | Add another email address without verification | None | — | 5 | [tungpun](https://hackerone.com/tungpun) | 2017-10-05 |
+| 131 | [243619](../reports/243619.md) | No Rate Limitation on Regenerate Api Key | None | — | 5 | [footstep](https://hackerone.com/footstep) | 2017-08-21 |
 | 132 | [403891](../reports/403891.md) | Tab nabbing via window.opener | None | — | 5 | [logan47](https://hackerone.com/logan47) | 2018-09-01 |
-| 133 | [230194](../reports/230194.md) | Option method enabled | None | — | 5 | [hurthearts](https://hackerone.com/hurthearts) | 2017-05-21 |
-| 134 | [243611](../reports/243611.md) | Improper validation of unicode characters still not fixed #2 | None | — | 5 | [footstep](https://hackerone.com/footstep) | 2017-08-21 |
-| 135 | [238117](../reports/238117.md) | Open redirect while disconnecting Email | None | — | 5 | [atruba](https://hackerone.com/atruba) | 2017-06-08 |
-| 136 | [243619](../reports/243619.md) | No Rate Limitation on Regenerate Api Key | None | — | 5 | [footstep](https://hackerone.com/footstep) | 2017-08-21 |
-| 137 | [265987](../reports/265987.md) | Add another email address without verification | None | — | 5 | [tungpun](https://hackerone.com/tungpun) | 2017-10-05 |
-| 138 | [243842](../reports/243842.md) | Password token validation in Weblate Bypass | None | — | 5 | [footstep](https://hackerone.com/footstep) | 2017-08-21 |
-| 139 | [241596](../reports/241596.md) | Improper validation of unicode characters still not fixed | None | — | 5 | [footstep](https://hackerone.com/footstep) | 2017-08-21 |
-| 140 | [243664](../reports/243664.md) | Error Message When Changing Username | None | — | 4 | [blake12356](https://hackerone.com/blake12356) | 2017-08-17 |
-| 141 | [223542](../reports/223542.md) | Abuse of Api that causes spamming users and possible DOS due | None | — | 4 | [khalidamin](https://hackerone.com/khalidamin) | 2017-05-17 |
-| 142 | [242945](../reports/242945.md) | No filteration of null characters in name field | None | — | 4 | [blake12356](https://hackerone.com/blake12356) | 2017-07-27 |
-| 143 | [229909](../reports/229909.md) | No notificatoin sent on email after account deletion. | None | — | 4 | [mansoor_gilal](https://hackerone.com/mansoor_gilal) | 2017-06-02 |
-| 144 | [229483](../reports/229483.md) | Improper validation of unicode characters | None | — | 4 | [rammarj](https://hackerone.com/rammarj) | 2017-06-19 |
-| 145 | [243616](../reports/243616.md) | Previous password could set as new password | None | — | 4 | [footstep](https://hackerone.com/footstep) | 2017-08-21 |
-| 146 | [278718](../reports/278718.md) | Improper validation of unicode characters  | None | — | 4 | [code_monkey](https://hackerone.com/code_monkey) | 2017-11-17 |
-| 147 | [275303](../reports/275303.md) |  Account Restore / Reactivating an old email via old reset l | None | — | 4 | [footstep](https://hackerone.com/footstep) | 2018-08-27 |
+| 133 | [243609](../reports/243609.md) | The username of an account can be .. | None | — | 5 | [blake12356](https://hackerone.com/blake12356) | 2017-07-27 |
+| 134 | [243842](../reports/243842.md) | Password token validation in Weblate Bypass | None | — | 5 | [footstep](https://hackerone.com/footstep) | 2017-08-21 |
+| 135 | [243611](../reports/243611.md) | Improper validation of unicode characters still not fixed #2 | None | — | 5 | [footstep](https://hackerone.com/footstep) | 2017-08-21 |
+| 136 | [229735](../reports/229735.md) | Self-XSS can be achieved in the editor link using filter byp | None | — | 5 | [sp1d3rs](https://hackerone.com/sp1d3rs) | 2017-06-02 |
+| 137 | [238117](../reports/238117.md) | Open redirect while disconnecting Email | None | — | 5 | [atruba](https://hackerone.com/atruba) | 2017-06-08 |
+| 138 | [230194](../reports/230194.md) | Option method enabled | None | — | 5 | [hurthearts](https://hackerone.com/hurthearts) | 2017-05-21 |
+| 139 | [223846](../reports/223846.md) | Access to completion page without performing any action | None | — | 5 | [footstep](https://hackerone.com/footstep) | 2017-05-18 |
+| 140 | [223542](../reports/223542.md) | Abuse of Api that causes spamming users and possible DOS due | None | — | 4 | [khalidamin](https://hackerone.com/khalidamin) | 2017-05-17 |
+| 141 | [242945](../reports/242945.md) | No filteration of null characters in name field | None | — | 4 | [blake12356](https://hackerone.com/blake12356) | 2017-07-27 |
+| 142 | [229483](../reports/229483.md) | Improper validation of unicode characters | None | — | 4 | [rammarj](https://hackerone.com/rammarj) | 2017-06-19 |
+| 143 | [243664](../reports/243664.md) | Error Message When Changing Username | None | — | 4 | [blake12356](https://hackerone.com/blake12356) | 2017-08-17 |
+| 144 | [243616](../reports/243616.md) | Previous password could set as new password | None | — | 4 | [footstep](https://hackerone.com/footstep) | 2017-08-21 |
+| 145 | [275303](../reports/275303.md) |  Account Restore / Reactivating an old email via old reset l | None | — | 4 | [footstep](https://hackerone.com/footstep) | 2018-08-27 |
+| 146 | [230633](../reports/230633.md) | Weblate- Banner Grabbing-Ngnix Server version | None | — | 4 | [sadhu16](https://hackerone.com/sadhu16) | 2017-06-05 |
+| 147 | [278718](../reports/278718.md) | Improper validation of unicode characters  | None | — | 4 | [code_monkey](https://hackerone.com/code_monkey) | 2017-11-17 |
 | 148 | [296632](../reports/296632.md) | Audit log validation | None | — | 4 | [mur90210](https://hackerone.com/mur90210) | 2018-08-28 |
-| 149 | [230633](../reports/230633.md) | Weblate- Banner Grabbing-Ngnix Server version | None | — | 4 | [sadhu16](https://hackerone.com/sadhu16) | 2017-06-05 |
-| 150 | [1454552](../reports/1454552.md) | hosted.weblate.org display of unfiltered results | None | — | 3 | [joshmcman08](https://hackerone.com/joshmcman08) | 2022-01-21 |
-| 151 | [279945](../reports/279945.md) | Improper validation of unicode characters#2 | None | — | 3 | [code_monkey](https://hackerone.com/code_monkey) | 2020-07-26 |
-| 152 | [225722](../reports/225722.md) | 7BO: Binary Option Robot URL should be HTTPS | None | — | 3 | [bf7e43565d8cf54de3bc5a7](https://hackerone.com/bf7e43565d8cf54de3bc5a7) | 2017-06-16 |
-| 153 | [229987](../reports/229987.md) | Password token validation in https://demo.weblate.org/ | None | — | 3 | [brdoors3](https://hackerone.com/brdoors3) | 2017-06-27 |
-| 154 | [224186](../reports/224186.md) | Email spoofing at weblate.org | None | — | 3 | [pyrk2142](https://hackerone.com/pyrk2142) | 2017-06-16 |
+| 149 | [229909](../reports/229909.md) | No notificatoin sent on email after account deletion. | None | — | 4 | [mansoor_gilal](https://hackerone.com/mansoor_gilal) | 2017-06-02 |
+| 150 | [279945](../reports/279945.md) | Improper validation of unicode characters#2 | None | — | 3 | [code_monkey](https://hackerone.com/code_monkey) | 2020-07-26 |
+| 151 | [224186](../reports/224186.md) | Email spoofing at weblate.org | None | — | 3 | [pyrk2142](https://hackerone.com/pyrk2142) | 2017-06-16 |
+| 152 | [224006](../reports/224006.md) | HttpOnly Flag not set  | None | — | 3 | [secachhunew](https://hackerone.com/secachhunew) | 2017-05-18 |
+| 153 | [225722](../reports/225722.md) | 7BO: Binary Option Robot URL should be HTTPS | None | — | 3 | [bf7e43565d8cf54de3bc5a7](https://hackerone.com/bf7e43565d8cf54de3bc5a7) | 2017-06-16 |
+| 154 | [229987](../reports/229987.md) | Password token validation in https://demo.weblate.org/ | None | — | 3 | [brdoors3](https://hackerone.com/brdoors3) | 2017-06-27 |
 | 155 | [223384](../reports/223384.md) | Directory Listing  | None | — | 3 | [red_horse](https://hackerone.com/red_horse) | 2017-06-16 |
-| 156 | [224006](../reports/224006.md) | HttpOnly Flag not set  | None | — | 3 | [secachhunew](https://hackerone.com/secachhunew) | 2017-05-18 |
+| 156 | [1454552](../reports/1454552.md) | hosted.weblate.org display of unfiltered results | None | — | 3 | [joshmcman08](https://hackerone.com/joshmcman08) | 2022-01-21 |
 | 157 | [225540](../reports/225540.md) | Incorrect HTTPS Certificate | None | — | 2 | [numbshiva](https://hackerone.com/numbshiva) | 2017-06-16 |
-| 158 | [224015](../reports/224015.md) | Specify maximal length in translation | None | — | 2 | [amsda](https://hackerone.com/amsda) | 2017-05-17 |
-| 159 | [225769](../reports/225769.md) | Facebook share URL should be HTTPS | None | — | 2 | [bf7e43565d8cf54de3bc5a7](https://hackerone.com/bf7e43565d8cf54de3bc5a7) | 2017-06-16 |
-| 160 | [225555](../reports/225555.md) | ClickJacking on Debug | None | — | 2 | [bf7e43565d8cf54de3bc5a7](https://hackerone.com/bf7e43565d8cf54de3bc5a7) | 2017-06-16 |
-| 161 | [231062](../reports/231062.md) | CSP "script-src" includes "unsafe-inline" in weblate.org and | None | — | 1 | [mrnull1337](https://hackerone.com/mrnull1337) | 2017-05-23 |
-| 162 | [228471](../reports/228471.md) | DNSSEC Zone Walk using NSEC Records | None | — | 1 | [pk21](https://hackerone.com/pk21) | 2018-01-30 |
+| 158 | [225555](../reports/225555.md) | ClickJacking on Debug | None | — | 2 | [bf7e43565d8cf54de3bc5a7](https://hackerone.com/bf7e43565d8cf54de3bc5a7) | 2017-06-16 |
+| 159 | [224015](../reports/224015.md) | Specify maximal length in translation | None | — | 2 | [amsda](https://hackerone.com/amsda) | 2017-05-17 |
+| 160 | [225769](../reports/225769.md) | Facebook share URL should be HTTPS | None | — | 2 | [bf7e43565d8cf54de3bc5a7](https://hackerone.com/bf7e43565d8cf54de3bc5a7) | 2017-06-16 |
+| 161 | [228471](../reports/228471.md) | DNSSEC Zone Walk using NSEC Records | None | — | 1 | [pk21](https://hackerone.com/pk21) | 2018-01-30 |
+| 162 | [231062](../reports/231062.md) | CSP "script-src" includes "unsafe-inline" in weblate.org and | None | — | 1 | [mrnull1337](https://hackerone.com/mrnull1337) | 2017-05-23 |
 | 163 | [257384](../reports/257384.md) | No rate limit or captcha to identify humans | None | — | 1 | [alyanwarr](https://hackerone.com/alyanwarr) | 2017-09-15 |

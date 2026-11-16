@@ -247346,5 +247346,26 @@
     "reported_at": "2026-11-06",
     "disclosed_at": "2026-11-07T22:37:27.144Z",
     "votes": 1
+  },
+  {
+    "id": 4199917,
+    "url": "https://hackerone.com/reports/4199917",
+    "title": "SFTP connection reuse skips the host-key pin of a later transfer",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "jfrery",
+    "severity": "low",
+    "cvss": null,
+    "weakness": "Missing Critical Step in Authentication",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2023-27538"
+    ],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-11-13",
+    "disclosed_at": "2026-11-16T12:44:03.637Z",
+    "votes": 2
   }
 ]

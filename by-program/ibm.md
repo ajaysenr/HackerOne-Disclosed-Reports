@@ -6,16 +6,16 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 |---|---|---|---|---|---|---|---|
 | 1 | [3578842](../reports/3578842.md) | SQL Injection vulnerability found on ibm.com endpoint | Critical — CVSS 9.3 | — | 127 | [cr3ckerxploit](https://hackerone.com/cr3ckerxploit) | 2026-03-12 |
 | 2 | [3088290](../reports/3088290.md) | Middleware Authentication Bypass on IBM Portal | Critical | — | 80 | [muhammadwaseem3](https://hackerone.com/muhammadwaseem3) | 2025-05-02 |
-| 3 | [2192984](../reports/2192984.md) | Unauthenticated Remote Access to Testing Endpoint | Critical | — | 67 | [sajidraza](https://hackerone.com/sajidraza) | 2023-12-04 |
-| 4 | [3458235](../reports/3458235.md) | [RCE] Remote Code Execution via  React Server Components Vul | Critical — CVSS 10.0 | — | 67 | [kanon4](https://hackerone.com/kanon4) | 2025-12-18 |
+| 3 | [3458235](../reports/3458235.md) | [RCE] Remote Code Execution via  React Server Components Vul | Critical — CVSS 10.0 | — | 67 | [kanon4](https://hackerone.com/kanon4) | 2025-12-18 |
+| 4 | [2192984](../reports/2192984.md) | Unauthenticated Remote Access to Testing Endpoint | Critical | — | 67 | [sajidraza](https://hackerone.com/sajidraza) | 2023-12-04 |
 | 5 | [3060373](../reports/3060373.md) | Path Traversal Vulnerability found on IBM Cloud | Critical | — | 63 | [0xnullbytex0](https://hackerone.com/0xnullbytex0) | 2025-05-07 |
 | 6 | [3463045](../reports/3463045.md) | Remote Code Execution identified on IBM endpoint. | Critical | — | 60 | [dara_7979](https://hackerone.com/dara_7979) | 2025-12-31 |
 | 7 | [2085185](../reports/2085185.md) | IDOR in upload videos of a Channel on https://video.ibm.com | Critical — CVSS 9.8 | — | 57 | [tusnj](https://hackerone.com/tusnj) | 2023-08-31 |
 | 8 | [1355817](../reports/1355817.md) | SQL Injection in IBM access control panel & Broken access in | Critical | — | 54 | [thecyberguy0](https://hackerone.com/thecyberguy0) | 2021-10-18 |
 | 9 | [2456603](../reports/2456603.md) | Insecure Direct Object Reference Protection bypass by changi | Critical — CVSS 9.3 | — | 53 | [suryahss](https://hackerone.com/suryahss) | 2024-05-01 |
 | 10 | [1379130](../reports/1379130.md) | Remote Code Execution at https://169.38.86.185/ (edst.ibm.co | Critical | — | 49 | [haxor31337](https://hackerone.com/haxor31337) | 2021-11-04 |
-| 11 | [2954547](../reports/2954547.md) | Weak credentials found in Jenkins endpoint | Critical | — | 40 | [roswell-47](https://hackerone.com/roswell-47) | 2025-02-05 |
-| 12 | [1567516](../reports/1567516.md) | sql injection via https://setup.p2p.ihost.com/ | Critical — CVSS 9.8 | — | 40 | [exploitmsf](https://hackerone.com/exploitmsf) | 2022-06-17 |
+| 11 | [1567516](../reports/1567516.md) | sql injection via https://setup.p2p.ihost.com/ | Critical — CVSS 9.8 | — | 40 | [exploitmsf](https://hackerone.com/exploitmsf) | 2022-06-17 |
+| 12 | [2954547](../reports/2954547.md) | Weak credentials found in Jenkins endpoint | Critical | — | 40 | [roswell-47](https://hackerone.com/roswell-47) | 2025-02-05 |
 | 13 | [1527284](../reports/1527284.md) | SQL injection in URL path processing on www.ibm.com | Critical — CVSS 9.3 | — | 35 | [asterite](https://hackerone.com/asterite) | 2022-05-06 |
 | 14 | [1670586](../reports/1670586.md) | Cleartext storage of sensitive information at https://stagin | Critical — CVSS 9.3 | — | 30 | [zere](https://hackerone.com/zere) | 2022-09-09 |
 | 15 | [1994227](../reports/1994227.md) | response manipulation leads to bypass in register at employe | Critical | — | 30 | [ro0od](https://hackerone.com/ro0od) | 2023-06-21 |
@@ -45,13 +45,13 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 39 | [2899380](../reports/2899380.md) | POST based Cross-Site Scripting on IBM research endpoint | Medium — CVSS 5.6 | — | 44 | [youssifs7](https://hackerone.com/youssifs7) | 2025-01-23 |
 | 40 | [2343548](../reports/2343548.md) | XSS in IBM InfoCenter | Medium — CVSS 6.4 | — | 39 | [aviv_keller](https://hackerone.com/aviv_keller) | 2024-07-17 |
 | 41 | [2402842](../reports/2402842.md) | Information disclosure identified on IBM endpoint.  | Medium — CVSS 6.7 | — | 39 | [devire](https://hackerone.com/devire) | 2025-07-08 |
-| 42 | [2919623](../reports/2919623.md) | There is a POST based CSRF issue over IBM endpoint leading t | Medium — CVSS 5.0 | — | 37 | [youssifs7](https://hackerone.com/youssifs7) | 2025-02-04 |
-| 43 | [1933304](../reports/1933304.md) | IBM Maximo Asset Management could allow a remote attacker to | Medium | — | 37 | [ibrahimsyam1](https://hackerone.com/ibrahimsyam1) | 2024-02-06 |
+| 42 | [1933304](../reports/1933304.md) | IBM Maximo Asset Management could allow a remote attacker to | Medium | — | 37 | [ibrahimsyam1](https://hackerone.com/ibrahimsyam1) | 2024-02-06 |
+| 43 | [2919623](../reports/2919623.md) | There is a POST based CSRF issue over IBM endpoint leading t | Medium — CVSS 5.0 | — | 37 | [youssifs7](https://hackerone.com/youssifs7) | 2025-02-04 |
 | 44 | [2292236](../reports/2292236.md) | Improper Authentication on Alertmanager instance | Medium — CVSS 6.1 | — | 34 | [nhx1](https://hackerone.com/nhx1) | 2024-02-29 |
 | 45 | [1848551](../reports/1848551.md) | Moodle XSS on s-immerscio.comprehend.ibm.com | Medium | — | 11 | [0xpugal](https://hackerone.com/0xpugal) | 2023-05-11 |
 | 46 | [2844797](../reports/2844797.md) | Exposed Logs and Bearer Tokens on Test Endpoint | None | — | 57 | [facades](https://hackerone.com/facades) | 2024-12-12 |
 | 47 | [3051155](../reports/3051155.md) | Information disclosure on IBM training service endpoint | None | — | 47 | [thpless](https://hackerone.com/thpless) | 2025-04-29 |
 | 48 | [2398335](../reports/2398335.md) | jazz.net - publicly accessible .svn repositories | None | — | 43 | [cyber_punk](https://hackerone.com/cyber_punk) | 2024-08-16 |
 | 49 | [3664261](../reports/3664261.md) | Reflected Cross-Site Scripting (XSS) found on IBM.com domain | None | — | 6 | [entrovyx](https://hackerone.com/entrovyx) | 2026-06-15 |
-| 50 | [3909372](../reports/3909372.md) | Unauthorized vertical privilege escalation vulnerability fou | None | — | 2 | [inventor0x01](https://hackerone.com/inventor0x01) | 2026-08-28 |
-| 51 | [3730301](../reports/3730301.md) | SQL Injection vulnerability found on IBM.com subdomain | None | — | 2 | [570rm_](https://hackerone.com/570rm_) | 2026-10-16 |
+| 50 | [3730301](../reports/3730301.md) | SQL Injection vulnerability found on IBM.com subdomain | None | — | 2 | [570rm_](https://hackerone.com/570rm_) | 2026-10-16 |
+| 51 | [3909372](../reports/3909372.md) | Unauthorized vertical privilege escalation vulnerability fou | None | — | 2 | [inventor0x01](https://hackerone.com/inventor0x01) | 2026-08-28 |
