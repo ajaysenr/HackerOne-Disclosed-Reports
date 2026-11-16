@@ -24,10 +24,10 @@
 | 18 | [3229490](../reports/3229490.md) | Heap Buffer Overflow in libcurl curl_slist_append via Unterminate | [curl](../by-program/curl.md) | High | — | 10 |
 | 19 | [1511619](../reports/1511619.md) | Read and write beyond bounds in mod_sed | [Internet Bug Bounty](../by-program/ibb.md) | High | — | 6 |
 | 20 | [214449](../reports/214449.md) | Content-Length restriction bypass to heap overflow in gip.rocks. | [Gratipay](../by-program/gratipay.md) | High — CVSS 7.5 | — | 5 |
-| 21 | [1047086](../reports/1047086.md) | Heap buffer overflow vulnerability while processing a malformed T | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.6 | — | 3 |
-| 22 | [335495](../reports/335495.md) | Out of order TLS handshake / application data messages lead to se | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | — | 3 |
-| 23 | [227762](../reports/227762.md) | Heap Overflow in fiber_switch triggered from Fiber.transfer | [shopify-scripts](../by-program/shopify-scripts.md) | High | — | 3 |
-| 24 | [221251](../reports/221251.md) | heap-buffer-overflow (read outside of buffer) in mrb_vm_exec() | [shopify-scripts](../by-program/shopify-scripts.md) | High | — | 3 |
+| 21 | [227762](../reports/227762.md) | Heap Overflow in fiber_switch triggered from Fiber.transfer | [shopify-scripts](../by-program/shopify-scripts.md) | High | — | 3 |
+| 22 | [221251](../reports/221251.md) | heap-buffer-overflow (read outside of buffer) in mrb_vm_exec() | [shopify-scripts](../by-program/shopify-scripts.md) | High | — | 3 |
+| 23 | [1047086](../reports/1047086.md) | Heap buffer overflow vulnerability while processing a malformed T | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.6 | — | 3 |
+| 24 | [335495](../reports/335495.md) | Out of order TLS handshake / application data messages lead to se | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | — | 3 |
 | 25 | [221163](../reports/221163.md) | heap-buffer-overflow (read outside of buffer) in Sass::Prelexer:: | [LibSass](../by-program/libsass.md) | High | — | 2 |
 | 26 | [518097](../reports/518097.md) | libcurl: SMTP end-of-response out-of-bounds read - CVE-2019-3823 | [curl](../by-program/curl.md) | High — CVSS 7.5 | — | 1 |
 | 27 | [384214](../reports/384214.md) | heap-buffer-overflow (READ of size 48) in exif_read_data() | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 13 |
@@ -35,8 +35,8 @@
 | 29 | [888986](../reports/888986.md) | [CVE-2020-10543] Buffer overflow caused by a crafted regular expr | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.5 | — | 10 |
 | 30 | [3156384](../reports/3156384.md) | Heap buffer overflow vulnerability in conncache.c: incorrect use  | [curl](../by-program/curl.md) | Medium | — | 9 |
 | 31 | [395531](../reports/395531.md) | test report | [Kaspersky](../by-program/kaspersky.md) | Medium | — | 9 |
-| 32 | [3404025](../reports/3404025.md) | SOCKS5 Heap Buffer Overflow via Malicious HTTP Redirect with Over | [curl](../by-program/curl.md) | Medium | — | 8 |
-| 33 | [3466896](../reports/3466896.md) | Heap Overflow in cURL AmigaOS Socket Implementation | [curl](../by-program/curl.md) | Medium | — | 8 |
+| 32 | [3466896](../reports/3466896.md) | Heap Overflow in cURL AmigaOS Socket Implementation | [curl](../by-program/curl.md) | Medium | — | 8 |
+| 33 | [3404025](../reports/3404025.md) | SOCKS5 Heap Buffer Overflow via Malicious HTTP Redirect with Over | [curl](../by-program/curl.md) | Medium | — | 8 |
 | 34 | [207983](../reports/207983.md) | read outside of buffer (heap buffer overflow) in S_regmatch - reg | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 7 |
 | 35 | [3909248](../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append() lets a l | [MariaDB](../by-program/mariadb.md) | Medium | — | 3 |
 | 36 | [2974850](../reports/2974850.md) | CVE-2025-0725: Heap overflow in curl with Content-Encoding gzip a | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 24 |

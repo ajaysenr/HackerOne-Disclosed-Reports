@@ -17,16 +17,16 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 11 | [2255968](../reports/2255968.md) | CVE-2023-46132 | High — CVSS 8.3 | — | 34 | [yacovm](https://hackerone.com/yacovm) | 2024-01-08 |
 | 12 | [1604951](../reports/1604951.md) | Remote denial of service in  HyperLedger Fabric | High | — | 32 | [zqgnd](https://hackerone.com/zqgnd) | 2022-07-07 |
 | 13 | [1635854](../reports/1635854.md) | Remote denial of service in HyperLedger Fabric | High — CVSS 8.3 | — | 12 | [zqgnd](https://hackerone.com/zqgnd) | 2022-09-01 |
-| 14 | [1664244](../reports/1664244.md) | fix(security):Path Traversal Bug | High | — | 3 | [bhaskar_ram](https://hackerone.com/bhaskar_ram) | 2022-08-11 |
-| 15 | [1650210](../reports/1650210.md) | Corsa Site Scripting Vulnerability (XSS) | High | — | 3 | [bhaskar_ram](https://hackerone.com/bhaskar_ram) | 2022-07-30 |
+| 14 | [1650210](../reports/1650210.md) | Corsa Site Scripting Vulnerability (XSS) | High | — | 3 | [bhaskar_ram](https://hackerone.com/bhaskar_ram) | 2022-07-30 |
+| 15 | [1664244](../reports/1664244.md) | fix(security):Path Traversal Bug | High | — | 3 | [bhaskar_ram](https://hackerone.com/bhaskar_ram) | 2022-08-11 |
 | 16 | [2471956](../reports/2471956.md) | Code exec on Github runner via Pull request name | Medium — CVSS 6.0 | — | 26 | [another_dude](https://hackerone.com/another_dude) | 2024-04-28 |
 | 17 | [2779070](../reports/2779070.md) | Memory Leak in bytes_to_hexstring Function | Low | — | 25 | [cutiapretaa](https://hackerone.com/cutiapretaa) | 2024-10-24 |
 | 18 | [1639423](../reports/1639423.md) | Insecure TLS Configuration #3530 | Low | — | 2 | [bhaskar_ram](https://hackerone.com/bhaskar_ram) | 2022-08-01 |
 | 19 | [1670187](../reports/1670187.md) | Cross Site Scripting Vulnerability in fabric-sdk-py source c | None | — | 9 | [bhaskar_ram](https://hackerone.com/bhaskar_ram) | 2022-08-17 |
-| 20 | [1690377](../reports/1690377.md) | Relative Path Traversal vulnerability in fabric-private-chai | None | — | 6 | [bhaskar_ram](https://hackerone.com/bhaskar_ram) | 2022-10-09 |
-| 21 | [926222](../reports/926222.md) | Vulnerability in Private Data Endorsement Policy Management  | None | — | 6 | [swang1994](https://hackerone.com/swang1994) | 2021-03-30 |
+| 20 | [926222](../reports/926222.md) | Vulnerability in Private Data Endorsement Policy Management  | None | — | 6 | [swang1994](https://hackerone.com/swang1994) | 2021-03-30 |
+| 21 | [1690377](../reports/1690377.md) | Relative Path Traversal vulnerability in fabric-private-chai | None | — | 6 | [bhaskar_ram](https://hackerone.com/bhaskar_ram) | 2022-10-09 |
 | 22 | [1739099](../reports/1739099.md) | CVE-2017-5929: Hyperledger - Arbitrary Deserialization of Un | None | — | 5 | [mik-patient](https://hackerone.com/mik-patient) | 2022-10-18 |
-| 23 | [962705](../reports/962705.md) | The “payload” Field of Transactions in a Block Reveals the P | None | — | 3 | [swang1994](https://hackerone.com/swang1994) | 2021-03-30 |
-| 24 | [951623](../reports/951623.md) | Vulnerabilities in Endorsement Mechanism of Private Data Rel | None | — | 3 | [swang1994](https://hackerone.com/swang1994) | 2021-03-30 |
+| 23 | [951623](../reports/951623.md) | Vulnerabilities in Endorsement Mechanism of Private Data Rel | None | — | 3 | [swang1994](https://hackerone.com/swang1994) | 2021-03-30 |
+| 24 | [962705](../reports/962705.md) | The “payload” Field of Transactions in a Block Reveals the P | None | — | 3 | [swang1994](https://hackerone.com/swang1994) | 2021-03-30 |
 | 25 | [1859592](../reports/1859592.md) | [indy_node]POOL_UPGRADE command injection, Trustee Node can  | None | — | 2 | [kmhlyxj0](https://hackerone.com/kmhlyxj0) | 2023-04-27 |
 | 26 | [1763343](../reports/1763343.md) | Dependency confusion in https://github.com/hyperledger/aries | None | — | 1 | [r3drush](https://hackerone.com/r3drush) | 2023-02-07 |
