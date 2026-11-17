@@ -12433,6 +12433,7 @@ https://hackerone.com/reports/3933198 | wordpress.org/openverse/: unauthenticate
 https://hackerone.com/reports/3938185 | Windows SSPI connection-pool probe can reuse a connection under the wrong user
 https://hackerone.com/reports/3938190 | Windows SSPI connection-pool probe can reuse a connection under the wrong user
 https://hackerone.com/reports/3938220 | libcurl cache updates follow symlinks and truncate their targets
+https://hackerone.com/reports/3938691 | Image upload reaches TIFF/JPEG heap overwrite (potential RCE)
 https://hackerone.com/reports/3938927 | An organization admin can create an attacker-controlled organization owner via the gem transfer flow
 https://hackerone.com/reports/3941626 | Instamojo CampTix: fail-open MAC + webhook Credit without binding payment to order
 https://hackerone.com/reports/3942028 | Reflected XSS via invocation banner ID field in admin-generate.php

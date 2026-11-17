@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2459 total)
+# High/Critical Severity — No Bounty Paid (2460 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -769,6 +769,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [890196](../reports/890196.md) | [H1-2006 2020]  Multiple vulnerabilities lead to CEO account take | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 4 |
 | [894174](../reports/894174.md) | [H1-2006 2020] In-depth resolution of the h1-2006 CTF | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 4 |
 | [888331](../reports/888331.md) | [H1-2006 2020]  ^FLAG^736c635d8842751b8aafa556154eb9f3$FLAG$ | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 4 |
+| [3938691](../reports/3938691.md) | Image upload reaches TIFF/JPEG heap overwrite (potential RCE) | [Basecamp](../by-program/basecamp.md) | Critical — CVSS 9.1 | Resolved | 4 |
 | [329645](../reports/329645.md) | Silent omission of certificate hostname verification in LibreSSL  | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.1 | Resolved | 4 |
 | [894165](../reports/894165.md) | [h1-2006 CTF] Payments for May have been processed! | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 4 |
 | [482634](../reports/482634.md) | https://████████ Impacted by DNN ImageHandler SSRF | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 4 |

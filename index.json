@@ -243000,6 +243000,25 @@
     "votes": 2
   },
   {
+    "id": 3938691,
+    "url": "https://hackerone.com/reports/3938691",
+    "title": "Image upload reaches TIFF/JPEG heap overwrite (potential RCE)",
+    "visibility": "no-content",
+    "program": "Basecamp",
+    "program_handle": "basecamp",
+    "reporter": "laudas",
+    "severity": "critical",
+    "cvss": 9.1,
+    "weakness": "Heap Overflow",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-08-14",
+    "disclosed_at": "2026-11-17T18:42:28.088Z",
+    "votes": 4
+  },
+  {
     "id": 3938927,
     "url": "https://hackerone.com/reports/3938927",
     "title": "An organization admin can create an attacker-controlled organization owner via the gem transfer flow ",
