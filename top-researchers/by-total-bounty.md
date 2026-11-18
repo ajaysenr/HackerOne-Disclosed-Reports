@@ -1234,7 +1234,7 @@
 | 1230 | [bags](https://hackerone.com/bags) | 4 | $0 | 20 |
 | 1231 | [ph0r3nsic](https://hackerone.com/ph0r3nsic) | 2 | $0 | 33 |
 | 1232 | [akashhamal0x01](https://hackerone.com/akashhamal0x01) | 12 | $0 | 847 |
-| 1233 | [matty69v](https://hackerone.com/matty69v) | 13 | $0 | 53 |
+| 1233 | [matty69v](https://hackerone.com/matty69v) | 14 | $0 | 54 |
 | 1234 | [charfe](https://hackerone.com/charfe) | 2 | $0 | 15 |
 | 1235 | [iamunixtz](https://hackerone.com/iamunixtz) | 3 | $0 | 227 |
 | 1236 | [theranger](https://hackerone.com/theranger) | 2 | $0 | 71 |

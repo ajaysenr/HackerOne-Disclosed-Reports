@@ -247386,6 +247386,25 @@
     "votes": 1
   },
   {
+    "id": 4191812,
+    "url": "https://hackerone.com/reports/4191812",
+    "title": "Unauthenticated arbitrary local file read via ABCpdf on www.\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+    "visibility": "full",
+    "program": "Essity",
+    "program_handle": "essity",
+    "reporter": "matty69v",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Path Traversal",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-11-11",
+    "disclosed_at": "2026-11-18T08:46:40.518Z",
+    "votes": 1
+  },
+  {
     "id": 4199917,
     "url": "https://hackerone.com/reports/4199917",
     "title": "SFTP connection reuse skips the host-key pin of a later transfer",

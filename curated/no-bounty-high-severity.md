@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2460 total)
+# High/Critical Severity — No Bounty Paid (2461 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -2410,6 +2410,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [4121685](../reports/4121685.md) | curl RTSP connection reuse routes response headers to the RTP cal | [curl](../by-program/curl.md) | High | Informative | 1 |
 | [790623](../reports/790623.md) | [sirloin] Web Server Directory Traversal via Crafted GET Request | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | Resolved | 1 |
 | [865777](../reports/865777.md) | Bypass hide download Nextcloud Share | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 7.1 | Informative | 1 |
+| [4191812](../reports/4191812.md) | Unauthenticated arbitrary local file read via ABCpdf on www.█████ | [Essity](../by-program/essity.md) | High | Resolved | 1 |
 | [3809407](../reports/3809407.md) | AWS *.a2z.com | Unauthenticated Clickhouse UI : Database access + | [AWS VDP](../by-program/aws_vdp.md) | High | Resolved | 1 |
 | [966347](../reports/966347.md) | [bl] Uninitialized memory exposure via negative .consume() | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 7.7 | Resolved | 1 |
 | [4177724](../reports/4177724.md) | curl 8.23.0 keeps sending requests to an HTTP/3 backend after Alt | [curl](../by-program/curl.md) | High | Informative | 1 |
