@@ -1,4 +1,4 @@
-# Weakness: Uncontrolled Resource Consumption (513 reports)
+# Weakness: Uncontrolled Resource Consumption (514 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -320,200 +320,201 @@
 | 314 | [319629](../reports/319629.md) | `rgb2hex` is vulnerable to ReDoS when parsing crafted invalid col | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.5 | — | 3 |
 | 315 | [204628](../reports/204628.md) | segafult in mruby's sprintf - mrb_str_format | [shopify-scripts](../by-program/shopify-scripts.md) | Medium | — | 3 |
 | 316 | [430831](../reports/430831.md) | Prototype pollution attack in node.extend | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.7 | — | 3 |
-| 317 | [202582](../reports/202582.md) | Denial of service (segfault) due to null pointer dereference in m | [shopify-scripts](../by-program/shopify-scripts.md) | Medium | — | 3 |
-| 318 | [3857258](../reports/3857258.md) | Reachable assertion in node:zlib sync API crashes the entire proc | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.2 | — | 3 |
-| 319 | [4088592](../reports/4088592.md) | CPU-based Denial of Service in translation-finder via O(N²) per-r | [Weblate](../by-program/weblate.md) | Medium | — | 3 |
-| 320 | [1300802](../reports/1300802.md) | Possible DOS in app with crashing `exceptions_app` | [Ruby on Rails](../by-program/rails.md) | Medium | — | 3 |
-| 321 | [453513](../reports/453513.md) | Fix for CVE-2018-12122 can be bypassed via keep-alive requests | [Node.js](../by-program/nodejs.md) | Medium | — | 3 |
-| 322 | [195580](../reports/195580.md) | Crash (DoS) when parsing a hostile TIFF | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.5 | — | 3 |
-| 323 | [889160](../reports/889160.md) | Poll loop/hang on incomplete HTTP header | [curl](../by-program/curl.md) | Medium — CVSS 6.5 | — | 3 |
-| 324 | [899069](../reports/899069.md) | Untrusted users able to run pending migrations in production | [Ruby on Rails](../by-program/rails.md) | Medium — CVSS 6.5 | — | 3 |
-| 325 | [1461340](../reports/1461340.md) | Maliciously crafted message can cause Rocket.Chat server to stop  | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 5.5 | — | 3 |
-| 326 | [1884159](../reports/1884159.md) | node.js process aborts when processing x509 certs with invalid pu | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.3 | — | 2 |
-| 327 | [176197](../reports/176197.md) | Denial of service attack(window object) on brave browser | [Brave Software](../by-program/brave.md) | Medium | — | 2 |
-| 328 | [202584](../reports/202584.md) | Denial of service (segfault) due to null pointer dereference in m | [shopify-scripts](../by-program/shopify-scripts.md) | Medium | — | 2 |
-| 329 | [317548](../reports/317548.md) | Regular Expression Denial of Service (ReDoS) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.3 | — | 2 |
-| 330 | [1514863](../reports/1514863.md) | Use of uninitialized value of in req_parsebody method of lua_requ | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 2 |
-| 331 | [1096907](../reports/1096907.md) | API Server DoS (crash?) if many large resources (~1MB each) are c | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 5.7 | — | 2 |
-| 332 | [3867358](../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a Formattin | [MariaDB](../by-program/mariadb.md) | Medium | — | 1 |
-| 333 | [2814774](../reports/2814774.md) | Possible DoS in NumberHelpers | [Ruby on Rails](../by-program/rails.md) | Medium | — | 1 |
-| 334 | [4059744](../reports/4059744.md) | Anonymous API Rate Limit Bypass via X-Forwarded-For | [Weblate](../by-program/weblate.md) | Medium | — | 1 |
-| 335 | [3547607](../reports/3547607.md) | IBC2 Entry Points Skip SetupContractCost - Systematic Gas Underpr | [Cosmos](../by-program/cosmos.md) | Medium | — | 1 |
-| 336 | [3676863](../reports/3676863.md) | Unbounded memory growth in `node:http2` clients via attacker-cont | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.3 | — | 1 |
-| 337 | [255822](../reports/255822.md) | WebDAV Empty Property search leads to full CPU usage | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 1 |
-| 338 | [3890352](../reports/3890352.md) | Connector/C++ aborts client process on server session-tracking pa | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 4.1 | — | 1 |
-| 339 | [3867363](../reports/3867363.md) | MariaDB HandlerSocket Improper Request Field-Count Validation Cau | [MariaDB](../by-program/mariadb.md) | Medium | — | 1 |
-| 340 | [764725](../reports/764725.md) | [http-live-simulator] Application-level DoS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.3 | — | 1 |
-| 341 | [841380](../reports/841380.md) | Prototype pollution attack (lodash) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.1 | — | 1 |
-| 342 | [179248](../reports/179248.md) | Denial of service(POP UP Recursion) on Brave browser | [Brave Software](../by-program/brave.md) | Medium | — | 1 |
-| 343 | [3871740](../reports/3871740.md) | r2dbc-mariadb Parsec auth: server-controlled PBKDF2 iteration cou | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 5.7 | — | 1 |
-| 344 | [4125065](../reports/4125065.md) | curl EXPIRE_SHUTDOWN timer never armed for silent servers: connec | [curl](../by-program/curl.md) | Medium | — | 0 |
-| 345 | [726364](../reports/726364.md) | Crash Node.js process from handlebars using a small and simple so | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.5 | — | 0 |
-| 346 | [861170](../reports/861170.md) | Attacker with an Old account might still be able to DoS ctf.hacke | [HackerOne](../by-program/security.md) | Low | — | 96 |
-| 347 | [1043372](../reports/1043372.md) | Denial Of Service (Out Of Memory) on Updating Bounty Table [Urgen | [HackerOne](../by-program/security.md) | Low | — | 83 |
-| 348 | [549040](../reports/549040.md) | Clientside resource Exhausting by exploiting gitlab math renderin | [GitLab](../by-program/gitlab.md) | Low | — | 50 |
-| 349 | [1981441](../reports/1981441.md) | Dynamic fee algorithm doesn't check for zero fee | [Monero](../by-program/monero.md) | Low | — | 47 |
-| 350 | [1138668](../reports/1138668.md) | The possibility of disrupting the normal operation of frontend us | [HackerOne](../by-program/security.md) | Low — CVSS 3.1 | — | 41 |
-| 351 | [1727424](../reports/1727424.md) | No password length limit when creating a user as an administrator | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.4 | — | 39 |
-| 352 | [1382448](../reports/1382448.md) | %0A (New line) and limitness URL leads to DoS at all system [Main | [Acronis](../by-program/acronis.md) | Low | — | 36 |
-| 353 | [290955](../reports/290955.md) | Chrome Extension is vulnerable to the self-DOS issues in case it  | [Ed](../by-program/ed.md) | Low | — | 32 |
-| 354 | [3373640](../reports/3373640.md) | OpenSSL backend: X509 peer certificate not freed in ossl_get_chan | [curl](../by-program/curl.md) | Low | — | 30 |
-| 355 | [2446437](../reports/2446437.md) | [CVE-2024-25126] Denial of Service Vulnerability in Rack Content- | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 27 |
-| 356 | [2446433](../reports/2446433.md) | [CVE-2024-26146] Header Parsing leads to Possible Denial of Servi | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 27 |
-| 357 | [702987](../reports/702987.md) | No redirect_uri in the db for web-internal clientKey leads to one | [GitLab](../by-program/gitlab.md) | Low | — | 26 |
-| 358 | [2446427](../reports/2446427.md) | [CVE-2024-26142] ReDoS vulnerability in Accept header parsing in  | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 23 |
-| 359 | [861521](../reports/861521.md) | Cookie injection leads to complete DoS over whole domain *.mackee | [Clario](../by-program/clario.md) | Low | — | 22 |
-| 360 | [690330](../reports/690330.md) | scripts loader (denial of service) vulnerability | [MariaDB](../by-program/mariadb.md) | Low | — | 20 |
-| 361 | [777984](../reports/777984.md) | Denial of Service with Cookie Bomb | [Nord Security](../by-program/nordsecurity.md) | Low | — | 17 |
-| 362 | [661722](../reports/661722.md) | WEBrick::HTTPAuth::DigestAuth authentication is vulnerable to reg | [Ruby](../by-program/ruby.md) | Low — CVSS 3.7 | — | 17 |
-| 363 | [847493](../reports/847493.md) | Cookie Bombing cause DOS -  businesses.uber.com | [Uber](../by-program/uber.md) | Low — CVSS 3.1 | — | 14 |
-| 364 | [3393539](../reports/3393539.md) | Memory leak in Curl_auth_create_ntlm_type3_message | [curl](../by-program/curl.md) | Low | — | 13 |
-| 365 | [1820864](../reports/1820864.md) | No password length restriction in reset password endpoint | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 12 |
-| 366 | [1588562](../reports/1588562.md) | Missing length validation of user displayname allows to generate  | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 12 |
-| 367 | [1596059](../reports/1596059.md) | Missing character limitation allows to put generate a database er | [Nextcloud](../by-program/nextcloud.md) | Low | — | 12 |
-| 368 | [627376](../reports/627376.md) | Application level denial of service due to shutting down the serv | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low | — | 11 |
-| 369 | [310443](../reports/310443.md) | Prototype pollution attack (lodash) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 2.5 | — | 11 |
-| 370 | [768574](../reports/768574.md) | Denial Of Service in Strapi Framework using argument injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 2.7 | — | 11 |
-| 371 | [3488278](../reports/3488278.md) | MQTT: Missing upper bound on incoming Remaining Length allows ser | [curl](../by-program/curl.md) | Low | — | 10 |
-| 372 | [299460](../reports/299460.md) | Fix for self-DoS in Security-txt Chrome Extension. | [Ed](../by-program/ed.md) | Low | — | 10 |
-| 373 | [386160](../reports/386160.md) | xmlrpc.php on mariadb.org can lead to DDOS and brute force attack | [MariaDB](../by-program/mariadb.md) | Low | — | 10 |
-| 374 | [381194](../reports/381194.md) | Prototype pollution attack (merge.recursive) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low | — | 9 |
-| 375 | [412673](../reports/412673.md) | XML hash collision DoS vulnerability in Python's xml.etree module | [Internet Bug Bounty](../by-program/ibb.md) | Low — CVSS 3.7 | — | 9 |
-| 376 | [1912540](../reports/1912540.md) | CVE-2018-6389 exploitation - using scripts loader | [Fastly VDP](../by-program/fastly-vdp.md) | Low | — | 8 |
-| 377 | [357665](../reports/357665.md) | DoS in Brave browser for iOS | [Brave Software](../by-program/brave.md) | Low | — | 8 |
-| 378 | [364964](../reports/364964.md) | Client DoS due to large DH parameter (CVE-2018-0732) | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 7 |
-| 379 | [281336](../reports/281336.md) | Negative size in tar header causes infinite loop | [RubyGems](../by-program/rubygems.md) | Low | — | 7 |
-| 380 | [147310](../reports/147310.md) | ntpd: read_mru_list() does inadequate incoming packet checks | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 7 |
-| 381 | [221787](../reports/221787.md) | Malformed SHA512 ticket DoS (CVE-2016-6302) | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 7 |
-| 382 | [223854](../reports/223854.md) | No Password Length Restriction leads to Denial of Service | [Weblate](../by-program/weblate.md) | Low | — | 7 |
-| 383 | [221260](../reports/221260.md) | stack overflow in libsass | [LibSass](../by-program/libsass.md) | Low | — | 6 |
-| 384 | [449818](../reports/449818.md) | Is the 504 Gateway Time-out error ok? | [Infogram](../by-program/infogram.md) | Low | — | 6 |
-| 385 | [882923](../reports/882923.md) | DoS for client-go jsonpath func | [Kubernetes](../by-program/kubernetes.md) | Low | — | 6 |
-| 386 | [194065](../reports/194065.md) |  DoS vulnerability in mod_auth_digest CVE-2016-2161 | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 6 |
-| 387 | [1596252](../reports/1596252.md) | DoS via lua_read_body() [zhbug_httpd_94] | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
-| 388 | [196386](../reports/196386.md) | SIGSEGV - mrb_vm_exec - vm.c in line:1272 | [shopify-scripts](../by-program/shopify-scripts.md) | Low | — | 5 |
-| 389 | [1596148](../reports/1596148.md) | Calendar name length not validated before writing to database | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 5 |
-| 390 | [176066](../reports/176066.md) | Denial of service attack on Brave Browser. | [Brave Software](../by-program/brave.md) | Low | — | 5 |
-| 391 | [192734](../reports/192734.md) | SIGSEGV Null Pointer mrb_str_concat() | [shopify-scripts](../by-program/shopify-scripts.md) | Low | — | 5 |
-| 392 | [1555441](../reports/1555441.md) | CVE-2022-27781: CERTINFO never-ending busy-loop | [curl](../by-program/curl.md) | Low | — | 5 |
-| 393 | [221292](../reports/221292.md) | stack overflow #6 in libsass | [LibSass](../by-program/libsass.md) | Low | — | 5 |
-| 394 | [221792](../reports/221792.md) | Excessive allocation of memory in dtls1_preprocess_fragment() (CV | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
-| 395 | [1606039](../reports/1606039.md) | CVE-2022-27781: CERTINFO never-ending busy-loop | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
-| 396 | [221791](../reports/221791.md) | Excessive allocation of memory in tls_get_message_header() (CVE-2 | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
-| 397 | [310707](../reports/310707.md) | Prototype pollution attack (assign-deep) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 1.8 | — | 4 |
-| 398 | [1378706](../reports/1378706.md) | RDoc::MethodAttr is vulnerable to Regular Expression Denial of Se | [Ruby](../by-program/ruby.md) | Low | — | 4 |
-| 399 | [174524](../reports/174524.md) | Filename enumeration && DoS | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.7 | — | 4 |
-| 400 | [191938](../reports/191938.md) | SIGSEGV on mruby mrb_get_args()  | [shopify-scripts](../by-program/shopify-scripts.md) | Low | — | 4 |
-| 401 | [311236](../reports/311236.md) | Prototype pollution attack (mixin-deep) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 1.8 | — | 4 |
-| 402 | [344499](../reports/344499.md) | epee will accept an arbitrary amount of leading line-breaks in an | [Monero](../by-program/monero.md) | Low | — | 4 |
-| 403 | [193724](../reports/193724.md) | SIGSEGV - kh_resize_iv - Null Deref | [shopify-scripts](../by-program/shopify-scripts.md) | Low | — | 4 |
-| 404 | [1607601](../reports/1607601.md) | @nextcloud/logger NPM package brings vulnerable ansi-regex versio | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.7 | — | 4 |
-| 405 | [197723](../reports/197723.md) | Null pointer dereference in mrb_str_modify | [shopify-scripts](../by-program/shopify-scripts.md) | Low | — | 4 |
-| 406 | [310439](../reports/310439.md) | Prototype pollution attack (Hoek) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 2.5 | — | 4 |
-| 407 | [3709703](../reports/3709703.md) |  Tor onion service INTRODUCE2 invalid-MAC cells permanently grow  | [Tor](../by-program/torproject.md) | Low | — | 4 |
-| 408 | [3710209](../reports/3710209.md) | Potential Resource Leak in tool_parsecfg.c at line 279 during fil | [curl](../by-program/curl.md) | Low | — | 4 |
-| 409 | [192485](../reports/192485.md) | SIGSEGV on mrb_vm_exec() Null Deref | [shopify-scripts](../by-program/shopify-scripts.md) | Low | — | 3 |
-| 410 | [221267](../reports/221267.md) | stack overflow #4 in libsass | [LibSass](../by-program/libsass.md) | Low | — | 3 |
-| 411 | [193075](../reports/193075.md) | SIGSEGV - mrb_check_intern_str() - NullPointer | [shopify-scripts](../by-program/shopify-scripts.md) | Low | — | 3 |
-| 412 | [212015](../reports/212015.md) | Unable to register in starbucks IN app | [Starbucks](../by-program/starbucks.md) | Low | — | 3 |
-| 413 | [221264](../reports/221264.md) | stack overflow #3 in libsass | [LibSass](../by-program/libsass.md) | Low | — | 3 |
-| 414 | [310514](../reports/310514.md) | Prototype pollution attack (defaults-deep) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 1.8 | — | 3 |
-| 415 | [310708](../reports/310708.md) | Prototype pollution attack (merge-deep) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 1.8 | — | 3 |
-| 416 | [221286](../reports/221286.md) | stack overflow #5 in libsass | [LibSass](../by-program/libsass.md) | Low | — | 3 |
-| 417 | [4022462](../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (deep directo | [Weblate](../by-program/weblate.md) | Low | — | 3 |
-| 418 | [1784449](../reports/1784449.md) | Regular Expression Denial of Service in Headers | [Node.js](../by-program/nodejs.md) | Low — CVSS 3.1 | — | 3 |
-| 419 | [221262](../reports/221262.md) | stack overflow #2 in libsass | [LibSass](../by-program/libsass.md) | Low | — | 3 |
-| 420 | [1478930](../reports/1478930.md) | Instance Page DOS  within Organization on TikTok Ads | [TikTok](../by-program/tiktok.md) | Low | — | 3 |
-| 421 | [212456](../reports/212456.md) | SIGSEGV - kh_get_n2s - in /src/symbol.c:37 | [shopify-scripts](../by-program/shopify-scripts.md) | Low | — | 3 |
-| 422 | [831654](../reports/831654.md) | "Self" DOS with large deployment and scaling | [Kubernetes](../by-program/kubernetes.md) | Low — CVSS 3.7 | — | 2 |
-| 423 | [3783438](../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | [curl](../by-program/curl.md) | Low | — | 2 |
-| 424 | [446662](../reports/446662.md) | Node.js HTTP/2 Large Settings Frame DoS | [Node.js](../by-program/nodejs.md) | Low | — | 2 |
-| 425 | [949712](../reports/949712.md) | DoS attack against the client when entering a long password | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.2 | — | 2 |
-| 426 | [1572120](../reports/1572120.md) | curl "globbing" can lead to denial of service attacks | [curl](../by-program/curl.md) | Low | — | 1 |
-| 427 | [4122567](../reports/4122567.md) | passive FTPS data connection handshake blocks curl_multi_perform( | [curl](../by-program/curl.md) | Low | — | 0 |
-| 428 | [201855](../reports/201855.md) | Information disclosue in Android Application | [Coinbase](../by-program/coinbase.md) | Low | — | 0 |
-| 429 | [2389431](../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | [Ruby on Rails](../by-program/rails.md) | Low | — | 0 |
-| 430 | [210779](../reports/210779.md) | [Urgent] Invalidating OAuth2 Bearer token makes TweetDeck unavail | [X / xAI](../by-program/x.md) | None | — | 322 |
-| 431 | [57356](../reports/57356.md) | DOM based cookie bomb | [X / xAI](../by-program/x.md) | None | — | 53 |
-| 432 | [115748](../reports/115748.md) | SSRF in https://imgur.com/vidgif/url | [Imgur](../by-program/imgur.md) | None | — | 52 |
-| 433 | [1066851](../reports/1066851.md) | 12 Days of Hacky Holidays write-up, but as a text-based RPG? | [h1-ctf](../by-program/h1-ctf.md) | None | — | 44 |
-| 434 | [3542546](../reports/3542546.md) | Server-side ReDoS via user-controlled regex in OIDC Access Policy | [RubyGems](../by-program/rubygems.md) | None | — | 40 |
-| 435 | [3241102](../reports/3241102.md) | Reported Denial of Service | [Monero](../by-program/monero.md) | None | — | 22 |
-| 436 | [2677306](../reports/2677306.md) | Spamming highly nested JSON RPC requests cause node to disconnect | [Monero](../by-program/monero.md) | None | — | 22 |
-| 437 | [5534](../reports/5534.md) | Permanent Denial of Service  | [MS-DOS](../by-program/msdos.md) | None | — | 19 |
-| 438 | [161947](../reports/161947.md) | Lack of length validation on user address attribute | [HackerOne](../by-program/security.md) | None | — | 18 |
-| 439 | [747829](../reports/747829.md) | xmlrpc.php file is enable it will used for (Denial of Service) an | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | None | — | 16 |
-| 440 | [147182](../reports/147182.md) | No email verification required when we change email from settings | [FantasyTote](../by-program/fantasytote.md) | None | — | 13 |
-| 441 | [159820](../reports/159820.md) | Issues with uploading list images | [Instacart](../by-program/instacart.md) | None | — | 11 |
-| 442 | [1320976](../reports/1320976.md) | [3] Bypassing IP Based Rate Limit Blocking leads to rate limit by | [Courier](../by-program/trycourier.md) | None | — | 10 |
-| 443 | [5437](../reports/5437.md) | Please contact me @sehacure otherwise i am going to disclose in F | [MS-DOS](../by-program/msdos.md) | None | — | 10 |
-| 444 | [3133253](../reports/3133253.md) | curl_easy_header runs at O(N) or worse and can be abused to use m | [curl](../by-program/curl.md) | None | — | 9 |
-| 445 | [147919](../reports/147919.md) | Email spoofing in 	support@veris.in  | [Veris](../by-program/veris.md) | None | — | 9 |
-| 446 | [543782](../reports/543782.md) | Excessive Resource Usage | [Monero](../by-program/monero.md) | None | — | 9 |
-| 447 | [13652](../reports/13652.md) | Proxy service crash DoS | [Factlink](../by-program/factlink.md) | None | — | 9 |
-| 448 | [504759](../reports/504759.md) | Uploading large avatar images cause excessive CPU usage | [Nextcloud](../by-program/nextcloud.md) | None | — | 8 |
-| 449 | [197694](../reports/197694.md) | SIGSEGV - mrb_obj_extend - line:413 | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 8 |
-| 450 | [42797](../reports/42797.md) | Denial of Service in Action Pack Exception Handling | [Ruby on Rails](../by-program/rails.md) | None | — | 8 |
-| 451 | [783852](../reports/783852.md) | Nginx version is disclosed in HTTP response | [Localize](../by-program/localizejs.md) | None | — | 7 |
-| 452 | [96294](../reports/96294.md) | DDOS using xmlrpc.php | [withinsecurity](../by-program/withinsecurity.md) | None | — | 7 |
-| 453 | [111860](../reports/111860.md) | Error Page Text Injection #106350 | [withinsecurity](../by-program/withinsecurity.md) | None | — | 7 |
-| 454 | [55716](../reports/55716.md) | Force 500 Internal Server Error on any shop (for one user) | [Shopify](../by-program/shopify.md) | None | — | 7 |
-| 455 | [113424](../reports/113424.md) | [tor] control connection pre-auth DoS (infinite loop) with --enab | [Tor](../by-program/torproject.md) | None | — | 7 |
-| 456 | [153093](../reports/153093.md) | WordPress core  - Denial of Service via Cross Site Request Forger | [WordPress](../by-program/wordpress.md) | None | — | 6 |
-| 457 | [197693](../reports/197693.md) | SIGSEGV - mrb_vm_exec - line:1681 | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 6 |
-| 458 | [193077](../reports/193077.md) | mrb_str_modify try to write to memory not marked for writing | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 6 |
-| 459 | [118663](../reports/118663.md) | Denial of Service any Report | [HackerOne](../by-program/security.md) | None | — | 6 |
-| 460 | [127827](../reports/127827.md) | DOS Report  FILE html inside <code> in markdown | [HackerOne](../by-program/security.md) | None | — | 6 |
-| 461 | [59369](../reports/59369.md) | Making any Report Failed to load | [HackerOne](../by-program/security.md) | None | — | 6 |
-| 462 | [111676](../reports/111676.md) | attack in not an authorized user | [HackerOne](../by-program/security.md) | None | — | 5 |
-| 463 | [1563142](../reports/1563142.md) | Slowvote and Countdown can cause Denial of Service due to recursi | [Phabricator](../by-program/phabricator.md) | None | — | 5 |
-| 464 | [201905](../reports/201905.md) | SIGSEGV - vm.c - line:1214 | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 5 |
-| 465 | [63865](../reports/63865.md) | Potential denial of service in hackerone.com/<program>/reward_set | [HackerOne](../by-program/security.md) | None | — | 5 |
-| 466 | [124097](../reports/124097.md) | Wordpress  Pingback  DDoS Attacks in domain:  veris.in | [Veris](../by-program/veris.md) | None | — | 5 |
-| 467 | [39139](../reports/39139.md) | URL Crashing browser. {Tested on firefox, Chrome and Safari} | [HackerOne](../by-program/security.md) | None | — | 5 |
-| 468 | [145409](../reports/145409.md) | help.nextcloud.com: Known DoS condition (null pointer deref) in N | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
-| 469 | [38232](../reports/38232.md) | Breaking Bugs as team member | [HackerOne](../by-program/security.md) | None | — | 4 |
-| 470 | [149279](../reports/149279.md) | Arbitrary SQL query execution and reflected XSS in the "SQL Query | [ExpressionEngine](../by-program/expressionengine.md) | None | — | 4 |
-| 471 | [199764](../reports/199764.md) | Aborted - proc.c - line:143 | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 4 |
-| 472 | [115205](../reports/115205.md) | Putting link inside link in markdown | [HackerOne](../by-program/security.md) | None | — | 4 |
-| 473 | [203513](../reports/203513.md) | SIGSEGV - mrb_vm_exec - line:1312 | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 4 |
-| 474 | [123119](../reports/123119.md) | Use after free with assign by ref to overloaded objects | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
-| 475 | [22012](../reports/22012.md) | Password reset link not validated. | [X / xAI](../by-program/x.md) | None | — | 4 |
-| 476 | [143076](../reports/143076.md) | Header Injection  | [Uber](../by-program/uber.md) | None | — | 4 |
-| 477 | [72793](../reports/72793.md) | Prevent Shop Admin From Seeing his Installed Apps / Install Persi | [Shopify](../by-program/shopify.md) | None | — | 4 |
-| 478 | [93546](../reports/93546.md) | pngcrush double-free/segfault could result in DoS (CVE-2015-7700) | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
-| 479 | [297383](../reports/297383.md) | mruby heredoc notation | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 4 |
-| 480 | [15619](../reports/15619.md) | Cookie fixation | [FanFootage](../by-program/fanfootage.md) | None | — | 3 |
-| 481 | [83962](../reports/83962.md) | DoS Attack in Controller Lookup Code | [Ruby on Rails](../by-program/rails.md) | None | — | 3 |
-| 482 | [13748](../reports/13748.md) | Potential denial of service in hackerone.com/teams/new | [HackerOne](../by-program/security.md) | None | — | 3 |
-| 483 | [126364](../reports/126364.md) | Uber password reset link EMAIL FLOOD | [Uber](../by-program/uber.md) | None | — | 3 |
-| 484 | [7921](../reports/7921.md) | Assigning a non-existing role to user causes exception when openi | [Localize](../by-program/localize.md) | None | — | 3 |
-| 485 | [90671](../reports/90671.md) | Privilege escalation vulnerability | [Shopify](../by-program/shopify.md) | None | — | 3 |
-| 486 | [136221](../reports/136221.md) | Denial of service in account statistics endpoint | [Mapbox](../by-program/mapbox.md) | None | — | 3 |
-| 487 | [183667](../reports/183667.md) | Null pointer dereference in ary_concat | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 3 |
-| 488 | [192532](../reports/192532.md) | SIGABRT, SIGSEGV mspace_free() and mrb_default_allocf() | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 3 |
-| 489 | [88904](../reports/88904.md) | Apache Range Header Denial of Service Attack (Confirmed PoC) | [ownCloud](../by-program/owncloud.md) | None | — | 3 |
-| 490 | [1243009](../reports/1243009.md) | No Password Length Restriction leads to Denial of Service | [Reddit](../by-program/reddit.md) | None | — | 2 |
-| 491 | [185705](../reports/185705.md) | Null pointer dereference in mrb_str_concat | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 2 |
-| 492 | [140720](../reports/140720.md) | Denial of service in report view. | [HackerOne](../by-program/security.md) | None | — | 2 |
-| 493 | [134880](../reports/134880.md) | ASN.1 BIO excessive memory allocation (CVE-2016-2109) | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 2 |
-| 494 | [183696](../reports/183696.md) | Invalid memory access while freeing memory, caused by invalid typ | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 2 |
-| 495 | [187539](../reports/187539.md) | Null pointer dereference due to bug in codegen with negation of f | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 2 |
-| 496 | [126826](../reports/126826.md) | Pixel flood attack in https://riders.uber.com/profile | [Uber](../by-program/uber.md) | None | — | 2 |
-| 497 | [77817](../reports/77817.md) | SSRF/XSPA в форме загрузки видео по URL | [ok.ru](../by-program/ok.md) | None | — | 2 |
-| 498 | [189704](../reports/189704.md) | Segmentation fault due to invalid memory access in codegen when u | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 2 |
-| 499 | [676710](../reports/676710.md) | Http response is not ended although underlying socket is already  | [Node.js](../by-program/nodejs.md) | None | — | 1 |
-| 500 | [112687](../reports/112687.md) | grtp.co is vulnerable to http-vuln-cve2011-3192 | [Gratipay](../by-program/gratipay.md) | None | — | 1 |
-| 501 | [17241](../reports/17241.md) | Cross-site scripting  vulnerability detected | [Uzbey](../by-program/uzbey.md) | None | — | 1 |
-| 502 | [85011](../reports/85011.md) | Dashboard panel embedded onto itself causes a denial of service | [Phabricator](../by-program/phabricator.md) | None | — | 1 |
-| 503 | [163823](../reports/163823.md) | Slow Http attack on nextcloud(DOS) | [Nextcloud](../by-program/nextcloud.md) | None | — | 1 |
-| 504 | [181061](../reports/181061.md) | Remote Stack Overflow Vulnerability (DoS) | [Brave Software](../by-program/brave.md) | None | — | 1 |
-| 505 | [769716](../reports/769716.md) | xmlrpc.php FILE IS enable it can be used for conducting a Brutefo | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 1 |
-| 506 | [898614](../reports/898614.md) | DRb denial of service vulnerability | [Ruby](../by-program/ruby.md) | None | — | 1 |
-| 507 | [1019372](../reports/1019372.md) | Parallel upload hangs curl if upload file not found | [curl](../by-program/curl.md) | None | — | 1 |
-| 508 | [112723](../reports/112723.md) | PHP-FPM fpm_log.c memory leak and buffer overflow | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 1 |
-| 509 | [126536](../reports/126536.md) | SMS Flood with Update Profile  | [Uber](../by-program/uber.md) | None | — | 1 |
-| 510 | [89097](../reports/89097.md) | owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploit (D | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
-| 511 | [363934](../reports/363934.md) | SEGV in parse_rat() | [Ruby](../by-program/ruby.md) | None | — | 0 |
-| 512 | [176364](../reports/176364.md) | DOS in browser using window.print() function | [Brave Software](../by-program/brave.md) | None | — | 0 |
-| 513 | [116774](../reports/116774.md) | UDP port 5060 (SIP) Open | [Gratipay](../by-program/gratipay.md) | None | — | 0 |
+| 317 | [4105212](../reports/4105212.md) | CPU Exhaustion via Crafted TOML Files in translation-finder | [Weblate](../by-program/weblate.md) | Medium — CVSS 5.3 | — | 3 |
+| 318 | [202582](../reports/202582.md) | Denial of service (segfault) due to null pointer dereference in m | [shopify-scripts](../by-program/shopify-scripts.md) | Medium | — | 3 |
+| 319 | [3857258](../reports/3857258.md) | Reachable assertion in node:zlib sync API crashes the entire proc | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.2 | — | 3 |
+| 320 | [4088592](../reports/4088592.md) | CPU-based Denial of Service in translation-finder via O(N²) per-r | [Weblate](../by-program/weblate.md) | Medium | — | 3 |
+| 321 | [1300802](../reports/1300802.md) | Possible DOS in app with crashing `exceptions_app` | [Ruby on Rails](../by-program/rails.md) | Medium | — | 3 |
+| 322 | [453513](../reports/453513.md) | Fix for CVE-2018-12122 can be bypassed via keep-alive requests | [Node.js](../by-program/nodejs.md) | Medium | — | 3 |
+| 323 | [195580](../reports/195580.md) | Crash (DoS) when parsing a hostile TIFF | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 6.5 | — | 3 |
+| 324 | [889160](../reports/889160.md) | Poll loop/hang on incomplete HTTP header | [curl](../by-program/curl.md) | Medium — CVSS 6.5 | — | 3 |
+| 325 | [899069](../reports/899069.md) | Untrusted users able to run pending migrations in production | [Ruby on Rails](../by-program/rails.md) | Medium — CVSS 6.5 | — | 3 |
+| 326 | [1461340](../reports/1461340.md) | Maliciously crafted message can cause Rocket.Chat server to stop  | [Rocket.Chat](../by-program/rocket_chat.md) | Medium — CVSS 5.5 | — | 3 |
+| 327 | [1884159](../reports/1884159.md) | node.js process aborts when processing x509 certs with invalid pu | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.3 | — | 2 |
+| 328 | [176197](../reports/176197.md) | Denial of service attack(window object) on brave browser | [Brave Software](../by-program/brave.md) | Medium | — | 2 |
+| 329 | [202584](../reports/202584.md) | Denial of service (segfault) due to null pointer dereference in m | [shopify-scripts](../by-program/shopify-scripts.md) | Medium | — | 2 |
+| 330 | [317548](../reports/317548.md) | Regular Expression Denial of Service (ReDoS) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.3 | — | 2 |
+| 331 | [1514863](../reports/1514863.md) | Use of uninitialized value of in req_parsebody method of lua_requ | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 2 |
+| 332 | [1096907](../reports/1096907.md) | API Server DoS (crash?) if many large resources (~1MB each) are c | [Kubernetes](../by-program/kubernetes.md) | Medium — CVSS 5.7 | — | 2 |
+| 333 | [3867358](../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a Formattin | [MariaDB](../by-program/mariadb.md) | Medium | — | 1 |
+| 334 | [2814774](../reports/2814774.md) | Possible DoS in NumberHelpers | [Ruby on Rails](../by-program/rails.md) | Medium | — | 1 |
+| 335 | [4059744](../reports/4059744.md) | Anonymous API Rate Limit Bypass via X-Forwarded-For | [Weblate](../by-program/weblate.md) | Medium | — | 1 |
+| 336 | [3547607](../reports/3547607.md) | IBC2 Entry Points Skip SetupContractCost - Systematic Gas Underpr | [Cosmos](../by-program/cosmos.md) | Medium | — | 1 |
+| 337 | [3676863](../reports/3676863.md) | Unbounded memory growth in `node:http2` clients via attacker-cont | [Node.js](../by-program/nodejs.md) | Medium — CVSS 5.3 | — | 1 |
+| 338 | [255822](../reports/255822.md) | WebDAV Empty Property search leads to full CPU usage | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 1 |
+| 339 | [3890352](../reports/3890352.md) | Connector/C++ aborts client process on server session-tracking pa | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 4.1 | — | 1 |
+| 340 | [3867363](../reports/3867363.md) | MariaDB HandlerSocket Improper Request Field-Count Validation Cau | [MariaDB](../by-program/mariadb.md) | Medium | — | 1 |
+| 341 | [764725](../reports/764725.md) | [http-live-simulator] Application-level DoS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 5.3 | — | 1 |
+| 342 | [841380](../reports/841380.md) | Prototype pollution attack (lodash) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.1 | — | 1 |
+| 343 | [179248](../reports/179248.md) | Denial of service(POP UP Recursion) on Brave browser | [Brave Software](../by-program/brave.md) | Medium | — | 1 |
+| 344 | [3871740](../reports/3871740.md) | r2dbc-mariadb Parsec auth: server-controlled PBKDF2 iteration cou | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 5.7 | — | 1 |
+| 345 | [4125065](../reports/4125065.md) | curl EXPIRE_SHUTDOWN timer never armed for silent servers: connec | [curl](../by-program/curl.md) | Medium | — | 0 |
+| 346 | [726364](../reports/726364.md) | Crash Node.js process from handlebars using a small and simple so | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Medium — CVSS 6.5 | — | 0 |
+| 347 | [861170](../reports/861170.md) | Attacker with an Old account might still be able to DoS ctf.hacke | [HackerOne](../by-program/security.md) | Low | — | 96 |
+| 348 | [1043372](../reports/1043372.md) | Denial Of Service (Out Of Memory) on Updating Bounty Table [Urgen | [HackerOne](../by-program/security.md) | Low | — | 83 |
+| 349 | [549040](../reports/549040.md) | Clientside resource Exhausting by exploiting gitlab math renderin | [GitLab](../by-program/gitlab.md) | Low | — | 50 |
+| 350 | [1981441](../reports/1981441.md) | Dynamic fee algorithm doesn't check for zero fee | [Monero](../by-program/monero.md) | Low | — | 47 |
+| 351 | [1138668](../reports/1138668.md) | The possibility of disrupting the normal operation of frontend us | [HackerOne](../by-program/security.md) | Low — CVSS 3.1 | — | 41 |
+| 352 | [1727424](../reports/1727424.md) | No password length limit when creating a user as an administrator | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.4 | — | 39 |
+| 353 | [1382448](../reports/1382448.md) | %0A (New line) and limitness URL leads to DoS at all system [Main | [Acronis](../by-program/acronis.md) | Low | — | 36 |
+| 354 | [290955](../reports/290955.md) | Chrome Extension is vulnerable to the self-DOS issues in case it  | [Ed](../by-program/ed.md) | Low | — | 32 |
+| 355 | [3373640](../reports/3373640.md) | OpenSSL backend: X509 peer certificate not freed in ossl_get_chan | [curl](../by-program/curl.md) | Low | — | 30 |
+| 356 | [2446437](../reports/2446437.md) | [CVE-2024-25126] Denial of Service Vulnerability in Rack Content- | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 27 |
+| 357 | [2446433](../reports/2446433.md) | [CVE-2024-26146] Header Parsing leads to Possible Denial of Servi | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 27 |
+| 358 | [702987](../reports/702987.md) | No redirect_uri in the db for web-internal clientKey leads to one | [GitLab](../by-program/gitlab.md) | Low | — | 26 |
+| 359 | [2446427](../reports/2446427.md) | [CVE-2024-26142] ReDoS vulnerability in Accept header parsing in  | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 23 |
+| 360 | [861521](../reports/861521.md) | Cookie injection leads to complete DoS over whole domain *.mackee | [Clario](../by-program/clario.md) | Low | — | 22 |
+| 361 | [690330](../reports/690330.md) | scripts loader (denial of service) vulnerability | [MariaDB](../by-program/mariadb.md) | Low | — | 20 |
+| 362 | [777984](../reports/777984.md) | Denial of Service with Cookie Bomb | [Nord Security](../by-program/nordsecurity.md) | Low | — | 17 |
+| 363 | [661722](../reports/661722.md) | WEBrick::HTTPAuth::DigestAuth authentication is vulnerable to reg | [Ruby](../by-program/ruby.md) | Low — CVSS 3.7 | — | 17 |
+| 364 | [847493](../reports/847493.md) | Cookie Bombing cause DOS -  businesses.uber.com | [Uber](../by-program/uber.md) | Low — CVSS 3.1 | — | 14 |
+| 365 | [3393539](../reports/3393539.md) | Memory leak in Curl_auth_create_ntlm_type3_message | [curl](../by-program/curl.md) | Low | — | 13 |
+| 366 | [1820864](../reports/1820864.md) | No password length restriction in reset password endpoint | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 12 |
+| 367 | [1588562](../reports/1588562.md) | Missing length validation of user displayname allows to generate  | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 12 |
+| 368 | [1596059](../reports/1596059.md) | Missing character limitation allows to put generate a database er | [Nextcloud](../by-program/nextcloud.md) | Low | — | 12 |
+| 369 | [627376](../reports/627376.md) | Application level denial of service due to shutting down the serv | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low | — | 11 |
+| 370 | [310443](../reports/310443.md) | Prototype pollution attack (lodash) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 2.5 | — | 11 |
+| 371 | [768574](../reports/768574.md) | Denial Of Service in Strapi Framework using argument injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 2.7 | — | 11 |
+| 372 | [3488278](../reports/3488278.md) | MQTT: Missing upper bound on incoming Remaining Length allows ser | [curl](../by-program/curl.md) | Low | — | 10 |
+| 373 | [299460](../reports/299460.md) | Fix for self-DoS in Security-txt Chrome Extension. | [Ed](../by-program/ed.md) | Low | — | 10 |
+| 374 | [386160](../reports/386160.md) | xmlrpc.php on mariadb.org can lead to DDOS and brute force attack | [MariaDB](../by-program/mariadb.md) | Low | — | 10 |
+| 375 | [381194](../reports/381194.md) | Prototype pollution attack (merge.recursive) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low | — | 9 |
+| 376 | [412673](../reports/412673.md) | XML hash collision DoS vulnerability in Python's xml.etree module | [Internet Bug Bounty](../by-program/ibb.md) | Low — CVSS 3.7 | — | 9 |
+| 377 | [1912540](../reports/1912540.md) | CVE-2018-6389 exploitation - using scripts loader | [Fastly VDP](../by-program/fastly-vdp.md) | Low | — | 8 |
+| 378 | [357665](../reports/357665.md) | DoS in Brave browser for iOS | [Brave Software](../by-program/brave.md) | Low | — | 8 |
+| 379 | [364964](../reports/364964.md) | Client DoS due to large DH parameter (CVE-2018-0732) | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 7 |
+| 380 | [281336](../reports/281336.md) | Negative size in tar header causes infinite loop | [RubyGems](../by-program/rubygems.md) | Low | — | 7 |
+| 381 | [147310](../reports/147310.md) | ntpd: read_mru_list() does inadequate incoming packet checks | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 7 |
+| 382 | [221787](../reports/221787.md) | Malformed SHA512 ticket DoS (CVE-2016-6302) | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 7 |
+| 383 | [223854](../reports/223854.md) | No Password Length Restriction leads to Denial of Service | [Weblate](../by-program/weblate.md) | Low | — | 7 |
+| 384 | [221260](../reports/221260.md) | stack overflow in libsass | [LibSass](../by-program/libsass.md) | Low | — | 6 |
+| 385 | [449818](../reports/449818.md) | Is the 504 Gateway Time-out error ok? | [Infogram](../by-program/infogram.md) | Low | — | 6 |
+| 386 | [882923](../reports/882923.md) | DoS for client-go jsonpath func | [Kubernetes](../by-program/kubernetes.md) | Low | — | 6 |
+| 387 | [194065](../reports/194065.md) |  DoS vulnerability in mod_auth_digest CVE-2016-2161 | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 6 |
+| 388 | [1596252](../reports/1596252.md) | DoS via lua_read_body() [zhbug_httpd_94] | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
+| 389 | [196386](../reports/196386.md) | SIGSEGV - mrb_vm_exec - vm.c in line:1272 | [shopify-scripts](../by-program/shopify-scripts.md) | Low | — | 5 |
+| 390 | [1596148](../reports/1596148.md) | Calendar name length not validated before writing to database | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.5 | — | 5 |
+| 391 | [176066](../reports/176066.md) | Denial of service attack on Brave Browser. | [Brave Software](../by-program/brave.md) | Low | — | 5 |
+| 392 | [192734](../reports/192734.md) | SIGSEGV Null Pointer mrb_str_concat() | [shopify-scripts](../by-program/shopify-scripts.md) | Low | — | 5 |
+| 393 | [1555441](../reports/1555441.md) | CVE-2022-27781: CERTINFO never-ending busy-loop | [curl](../by-program/curl.md) | Low | — | 5 |
+| 394 | [221292](../reports/221292.md) | stack overflow #6 in libsass | [LibSass](../by-program/libsass.md) | Low | — | 5 |
+| 395 | [221792](../reports/221792.md) | Excessive allocation of memory in dtls1_preprocess_fragment() (CV | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
+| 396 | [1606039](../reports/1606039.md) | CVE-2022-27781: CERTINFO never-ending busy-loop | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
+| 397 | [221791](../reports/221791.md) | Excessive allocation of memory in tls_get_message_header() (CVE-2 | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
+| 398 | [310707](../reports/310707.md) | Prototype pollution attack (assign-deep) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 1.8 | — | 4 |
+| 399 | [1378706](../reports/1378706.md) | RDoc::MethodAttr is vulnerable to Regular Expression Denial of Se | [Ruby](../by-program/ruby.md) | Low | — | 4 |
+| 400 | [174524](../reports/174524.md) | Filename enumeration && DoS | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 3.7 | — | 4 |
+| 401 | [191938](../reports/191938.md) | SIGSEGV on mruby mrb_get_args()  | [shopify-scripts](../by-program/shopify-scripts.md) | Low | — | 4 |
+| 402 | [311236](../reports/311236.md) | Prototype pollution attack (mixin-deep) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 1.8 | — | 4 |
+| 403 | [344499](../reports/344499.md) | epee will accept an arbitrary amount of leading line-breaks in an | [Monero](../by-program/monero.md) | Low | — | 4 |
+| 404 | [193724](../reports/193724.md) | SIGSEGV - kh_resize_iv - Null Deref | [shopify-scripts](../by-program/shopify-scripts.md) | Low | — | 4 |
+| 405 | [1607601](../reports/1607601.md) | @nextcloud/logger NPM package brings vulnerable ansi-regex versio | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.7 | — | 4 |
+| 406 | [197723](../reports/197723.md) | Null pointer dereference in mrb_str_modify | [shopify-scripts](../by-program/shopify-scripts.md) | Low | — | 4 |
+| 407 | [310439](../reports/310439.md) | Prototype pollution attack (Hoek) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 2.5 | — | 4 |
+| 408 | [3709703](../reports/3709703.md) |  Tor onion service INTRODUCE2 invalid-MAC cells permanently grow  | [Tor](../by-program/torproject.md) | Low | — | 4 |
+| 409 | [3710209](../reports/3710209.md) | Potential Resource Leak in tool_parsecfg.c at line 279 during fil | [curl](../by-program/curl.md) | Low | — | 4 |
+| 410 | [192485](../reports/192485.md) | SIGSEGV on mrb_vm_exec() Null Deref | [shopify-scripts](../by-program/shopify-scripts.md) | Low | — | 3 |
+| 411 | [221267](../reports/221267.md) | stack overflow #4 in libsass | [LibSass](../by-program/libsass.md) | Low | — | 3 |
+| 412 | [193075](../reports/193075.md) | SIGSEGV - mrb_check_intern_str() - NullPointer | [shopify-scripts](../by-program/shopify-scripts.md) | Low | — | 3 |
+| 413 | [212015](../reports/212015.md) | Unable to register in starbucks IN app | [Starbucks](../by-program/starbucks.md) | Low | — | 3 |
+| 414 | [221264](../reports/221264.md) | stack overflow #3 in libsass | [LibSass](../by-program/libsass.md) | Low | — | 3 |
+| 415 | [310514](../reports/310514.md) | Prototype pollution attack (defaults-deep) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 1.8 | — | 3 |
+| 416 | [310708](../reports/310708.md) | Prototype pollution attack (merge-deep) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Low — CVSS 1.8 | — | 3 |
+| 417 | [221286](../reports/221286.md) | stack overflow #5 in libsass | [LibSass](../by-program/libsass.md) | Low | — | 3 |
+| 418 | [4022462](../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (deep directo | [Weblate](../by-program/weblate.md) | Low | — | 3 |
+| 419 | [1784449](../reports/1784449.md) | Regular Expression Denial of Service in Headers | [Node.js](../by-program/nodejs.md) | Low — CVSS 3.1 | — | 3 |
+| 420 | [221262](../reports/221262.md) | stack overflow #2 in libsass | [LibSass](../by-program/libsass.md) | Low | — | 3 |
+| 421 | [1478930](../reports/1478930.md) | Instance Page DOS  within Organization on TikTok Ads | [TikTok](../by-program/tiktok.md) | Low | — | 3 |
+| 422 | [212456](../reports/212456.md) | SIGSEGV - kh_get_n2s - in /src/symbol.c:37 | [shopify-scripts](../by-program/shopify-scripts.md) | Low | — | 3 |
+| 423 | [831654](../reports/831654.md) | "Self" DOS with large deployment and scaling | [Kubernetes](../by-program/kubernetes.md) | Low — CVSS 3.7 | — | 2 |
+| 424 | [3783438](../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | [curl](../by-program/curl.md) | Low | — | 2 |
+| 425 | [446662](../reports/446662.md) | Node.js HTTP/2 Large Settings Frame DoS | [Node.js](../by-program/nodejs.md) | Low | — | 2 |
+| 426 | [949712](../reports/949712.md) | DoS attack against the client when entering a long password | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 2.2 | — | 2 |
+| 427 | [1572120](../reports/1572120.md) | curl "globbing" can lead to denial of service attacks | [curl](../by-program/curl.md) | Low | — | 1 |
+| 428 | [4122567](../reports/4122567.md) | passive FTPS data connection handshake blocks curl_multi_perform( | [curl](../by-program/curl.md) | Low | — | 0 |
+| 429 | [201855](../reports/201855.md) | Information disclosue in Android Application | [Coinbase](../by-program/coinbase.md) | Low | — | 0 |
+| 430 | [2389431](../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | [Ruby on Rails](../by-program/rails.md) | Low | — | 0 |
+| 431 | [210779](../reports/210779.md) | [Urgent] Invalidating OAuth2 Bearer token makes TweetDeck unavail | [X / xAI](../by-program/x.md) | None | — | 322 |
+| 432 | [57356](../reports/57356.md) | DOM based cookie bomb | [X / xAI](../by-program/x.md) | None | — | 53 |
+| 433 | [115748](../reports/115748.md) | SSRF in https://imgur.com/vidgif/url | [Imgur](../by-program/imgur.md) | None | — | 52 |
+| 434 | [1066851](../reports/1066851.md) | 12 Days of Hacky Holidays write-up, but as a text-based RPG? | [h1-ctf](../by-program/h1-ctf.md) | None | — | 44 |
+| 435 | [3542546](../reports/3542546.md) | Server-side ReDoS via user-controlled regex in OIDC Access Policy | [RubyGems](../by-program/rubygems.md) | None | — | 40 |
+| 436 | [3241102](../reports/3241102.md) | Reported Denial of Service | [Monero](../by-program/monero.md) | None | — | 22 |
+| 437 | [2677306](../reports/2677306.md) | Spamming highly nested JSON RPC requests cause node to disconnect | [Monero](../by-program/monero.md) | None | — | 22 |
+| 438 | [5534](../reports/5534.md) | Permanent Denial of Service  | [MS-DOS](../by-program/msdos.md) | None | — | 19 |
+| 439 | [161947](../reports/161947.md) | Lack of length validation on user address attribute | [HackerOne](../by-program/security.md) | None | — | 18 |
+| 440 | [747829](../reports/747829.md) | xmlrpc.php file is enable it will used for (Denial of Service) an | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | None | — | 16 |
+| 441 | [147182](../reports/147182.md) | No email verification required when we change email from settings | [FantasyTote](../by-program/fantasytote.md) | None | — | 13 |
+| 442 | [159820](../reports/159820.md) | Issues with uploading list images | [Instacart](../by-program/instacart.md) | None | — | 11 |
+| 443 | [1320976](../reports/1320976.md) | [3] Bypassing IP Based Rate Limit Blocking leads to rate limit by | [Courier](../by-program/trycourier.md) | None | — | 10 |
+| 444 | [5437](../reports/5437.md) | Please contact me @sehacure otherwise i am going to disclose in F | [MS-DOS](../by-program/msdos.md) | None | — | 10 |
+| 445 | [3133253](../reports/3133253.md) | curl_easy_header runs at O(N) or worse and can be abused to use m | [curl](../by-program/curl.md) | None | — | 9 |
+| 446 | [147919](../reports/147919.md) | Email spoofing in 	support@veris.in  | [Veris](../by-program/veris.md) | None | — | 9 |
+| 447 | [543782](../reports/543782.md) | Excessive Resource Usage | [Monero](../by-program/monero.md) | None | — | 9 |
+| 448 | [13652](../reports/13652.md) | Proxy service crash DoS | [Factlink](../by-program/factlink.md) | None | — | 9 |
+| 449 | [504759](../reports/504759.md) | Uploading large avatar images cause excessive CPU usage | [Nextcloud](../by-program/nextcloud.md) | None | — | 8 |
+| 450 | [197694](../reports/197694.md) | SIGSEGV - mrb_obj_extend - line:413 | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 8 |
+| 451 | [42797](../reports/42797.md) | Denial of Service in Action Pack Exception Handling | [Ruby on Rails](../by-program/rails.md) | None | — | 8 |
+| 452 | [783852](../reports/783852.md) | Nginx version is disclosed in HTTP response | [Localize](../by-program/localizejs.md) | None | — | 7 |
+| 453 | [96294](../reports/96294.md) | DDOS using xmlrpc.php | [withinsecurity](../by-program/withinsecurity.md) | None | — | 7 |
+| 454 | [111860](../reports/111860.md) | Error Page Text Injection #106350 | [withinsecurity](../by-program/withinsecurity.md) | None | — | 7 |
+| 455 | [55716](../reports/55716.md) | Force 500 Internal Server Error on any shop (for one user) | [Shopify](../by-program/shopify.md) | None | — | 7 |
+| 456 | [113424](../reports/113424.md) | [tor] control connection pre-auth DoS (infinite loop) with --enab | [Tor](../by-program/torproject.md) | None | — | 7 |
+| 457 | [153093](../reports/153093.md) | WordPress core  - Denial of Service via Cross Site Request Forger | [WordPress](../by-program/wordpress.md) | None | — | 6 |
+| 458 | [197693](../reports/197693.md) | SIGSEGV - mrb_vm_exec - line:1681 | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 6 |
+| 459 | [193077](../reports/193077.md) | mrb_str_modify try to write to memory not marked for writing | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 6 |
+| 460 | [118663](../reports/118663.md) | Denial of Service any Report | [HackerOne](../by-program/security.md) | None | — | 6 |
+| 461 | [127827](../reports/127827.md) | DOS Report  FILE html inside <code> in markdown | [HackerOne](../by-program/security.md) | None | — | 6 |
+| 462 | [59369](../reports/59369.md) | Making any Report Failed to load | [HackerOne](../by-program/security.md) | None | — | 6 |
+| 463 | [111676](../reports/111676.md) | attack in not an authorized user | [HackerOne](../by-program/security.md) | None | — | 5 |
+| 464 | [1563142](../reports/1563142.md) | Slowvote and Countdown can cause Denial of Service due to recursi | [Phabricator](../by-program/phabricator.md) | None | — | 5 |
+| 465 | [201905](../reports/201905.md) | SIGSEGV - vm.c - line:1214 | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 5 |
+| 466 | [63865](../reports/63865.md) | Potential denial of service in hackerone.com/<program>/reward_set | [HackerOne](../by-program/security.md) | None | — | 5 |
+| 467 | [124097](../reports/124097.md) | Wordpress  Pingback  DDoS Attacks in domain:  veris.in | [Veris](../by-program/veris.md) | None | — | 5 |
+| 468 | [39139](../reports/39139.md) | URL Crashing browser. {Tested on firefox, Chrome and Safari} | [HackerOne](../by-program/security.md) | None | — | 5 |
+| 469 | [145409](../reports/145409.md) | help.nextcloud.com: Known DoS condition (null pointer deref) in N | [Nextcloud](../by-program/nextcloud.md) | None | — | 4 |
+| 470 | [38232](../reports/38232.md) | Breaking Bugs as team member | [HackerOne](../by-program/security.md) | None | — | 4 |
+| 471 | [149279](../reports/149279.md) | Arbitrary SQL query execution and reflected XSS in the "SQL Query | [ExpressionEngine](../by-program/expressionengine.md) | None | — | 4 |
+| 472 | [199764](../reports/199764.md) | Aborted - proc.c - line:143 | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 4 |
+| 473 | [115205](../reports/115205.md) | Putting link inside link in markdown | [HackerOne](../by-program/security.md) | None | — | 4 |
+| 474 | [203513](../reports/203513.md) | SIGSEGV - mrb_vm_exec - line:1312 | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 4 |
+| 475 | [123119](../reports/123119.md) | Use after free with assign by ref to overloaded objects | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
+| 476 | [22012](../reports/22012.md) | Password reset link not validated. | [X / xAI](../by-program/x.md) | None | — | 4 |
+| 477 | [143076](../reports/143076.md) | Header Injection  | [Uber](../by-program/uber.md) | None | — | 4 |
+| 478 | [72793](../reports/72793.md) | Prevent Shop Admin From Seeing his Installed Apps / Install Persi | [Shopify](../by-program/shopify.md) | None | — | 4 |
+| 479 | [93546](../reports/93546.md) | pngcrush double-free/segfault could result in DoS (CVE-2015-7700) | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
+| 480 | [297383](../reports/297383.md) | mruby heredoc notation | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 4 |
+| 481 | [15619](../reports/15619.md) | Cookie fixation | [FanFootage](../by-program/fanfootage.md) | None | — | 3 |
+| 482 | [83962](../reports/83962.md) | DoS Attack in Controller Lookup Code | [Ruby on Rails](../by-program/rails.md) | None | — | 3 |
+| 483 | [13748](../reports/13748.md) | Potential denial of service in hackerone.com/teams/new | [HackerOne](../by-program/security.md) | None | — | 3 |
+| 484 | [126364](../reports/126364.md) | Uber password reset link EMAIL FLOOD | [Uber](../by-program/uber.md) | None | — | 3 |
+| 485 | [7921](../reports/7921.md) | Assigning a non-existing role to user causes exception when openi | [Localize](../by-program/localize.md) | None | — | 3 |
+| 486 | [90671](../reports/90671.md) | Privilege escalation vulnerability | [Shopify](../by-program/shopify.md) | None | — | 3 |
+| 487 | [136221](../reports/136221.md) | Denial of service in account statistics endpoint | [Mapbox](../by-program/mapbox.md) | None | — | 3 |
+| 488 | [183667](../reports/183667.md) | Null pointer dereference in ary_concat | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 3 |
+| 489 | [192532](../reports/192532.md) | SIGABRT, SIGSEGV mspace_free() and mrb_default_allocf() | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 3 |
+| 490 | [88904](../reports/88904.md) | Apache Range Header Denial of Service Attack (Confirmed PoC) | [ownCloud](../by-program/owncloud.md) | None | — | 3 |
+| 491 | [1243009](../reports/1243009.md) | No Password Length Restriction leads to Denial of Service | [Reddit](../by-program/reddit.md) | None | — | 2 |
+| 492 | [185705](../reports/185705.md) | Null pointer dereference in mrb_str_concat | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 2 |
+| 493 | [140720](../reports/140720.md) | Denial of service in report view. | [HackerOne](../by-program/security.md) | None | — | 2 |
+| 494 | [134880](../reports/134880.md) | ASN.1 BIO excessive memory allocation (CVE-2016-2109) | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 2 |
+| 495 | [183696](../reports/183696.md) | Invalid memory access while freeing memory, caused by invalid typ | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 2 |
+| 496 | [187539](../reports/187539.md) | Null pointer dereference due to bug in codegen with negation of f | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 2 |
+| 497 | [126826](../reports/126826.md) | Pixel flood attack in https://riders.uber.com/profile | [Uber](../by-program/uber.md) | None | — | 2 |
+| 498 | [77817](../reports/77817.md) | SSRF/XSPA в форме загрузки видео по URL | [ok.ru](../by-program/ok.md) | None | — | 2 |
+| 499 | [189704](../reports/189704.md) | Segmentation fault due to invalid memory access in codegen when u | [shopify-scripts](../by-program/shopify-scripts.md) | None | — | 2 |
+| 500 | [676710](../reports/676710.md) | Http response is not ended although underlying socket is already  | [Node.js](../by-program/nodejs.md) | None | — | 1 |
+| 501 | [112687](../reports/112687.md) | grtp.co is vulnerable to http-vuln-cve2011-3192 | [Gratipay](../by-program/gratipay.md) | None | — | 1 |
+| 502 | [17241](../reports/17241.md) | Cross-site scripting  vulnerability detected | [Uzbey](../by-program/uzbey.md) | None | — | 1 |
+| 503 | [85011](../reports/85011.md) | Dashboard panel embedded onto itself causes a denial of service | [Phabricator](../by-program/phabricator.md) | None | — | 1 |
+| 504 | [163823](../reports/163823.md) | Slow Http attack on nextcloud(DOS) | [Nextcloud](../by-program/nextcloud.md) | None | — | 1 |
+| 505 | [181061](../reports/181061.md) | Remote Stack Overflow Vulnerability (DoS) | [Brave Software](../by-program/brave.md) | None | — | 1 |
+| 506 | [769716](../reports/769716.md) | xmlrpc.php FILE IS enable it can be used for conducting a Brutefo | [Ian Dunn](../by-program/iandunn-projects.md) | None | — | 1 |
+| 507 | [898614](../reports/898614.md) | DRb denial of service vulnerability | [Ruby](../by-program/ruby.md) | None | — | 1 |
+| 508 | [1019372](../reports/1019372.md) | Parallel upload hangs curl if upload file not found | [curl](../by-program/curl.md) | None | — | 1 |
+| 509 | [112723](../reports/112723.md) | PHP-FPM fpm_log.c memory leak and buffer overflow | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 1 |
+| 510 | [126536](../reports/126536.md) | SMS Flood with Update Profile  | [Uber](../by-program/uber.md) | None | — | 1 |
+| 511 | [89097](../reports/89097.md) | owncloud.com: CVE-2015-5477 BIND9 TKEY Vulnerability + Exploit (D | [ownCloud](../by-program/owncloud.md) | None | — | 1 |
+| 512 | [363934](../reports/363934.md) | SEGV in parse_rat() | [Ruby](../by-program/ruby.md) | None | — | 0 |
+| 513 | [176364](../reports/176364.md) | DOS in browser using window.print() function | [Brave Software](../by-program/brave.md) | None | — | 0 |
+| 514 | [116774](../reports/116774.md) | UDP port 5060 (SIP) Open | [Gratipay](../by-program/gratipay.md) | None | — | 0 |

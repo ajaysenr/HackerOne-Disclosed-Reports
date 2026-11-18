@@ -12587,6 +12587,7 @@ https://hackerone.com/reports/4099618 | CVE-2026-107929: local interface connect
 https://hackerone.com/reports/4100259 | Stored XSS in the Classic block element path
 https://hackerone.com/reports/4102061 | CVE-2026-111480: pause UAF from within callback
 https://hackerone.com/reports/4103651 | TFTP accepts a first response from an IP other than the requested server
+https://hackerone.com/reports/4105212 | CPU Exhaustion via Crafted TOML Files in translation-finder
 https://hackerone.com/reports/4105790 | FTP authentication options leak to a cross-origin FTP redirect with unrestricted auth disabled
 https://hackerone.com/reports/4105853 | libcurl TLS shorter-retry mismatch discloses client heap memory during cancelled IMAPS upload
 https://hackerone.com/reports/4110110 | HTTP/2 stream teardown can send freed response memory to the peer

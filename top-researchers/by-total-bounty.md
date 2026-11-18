@@ -1333,7 +1333,7 @@
 | 1329 | [d3lla](https://hackerone.com/d3lla) | 17 | $0 | 44 |
 | 1330 | [dushyantsahu1](https://hackerone.com/dushyantsahu1) | 2 | $0 | 6 |
 | 1331 | [arslan1337](https://hackerone.com/arslan1337) | 1 | $0 | 1 |
-| 1332 | [visionx7](https://hackerone.com/visionx7) | 1 | $0 | 1 |
+| 1332 | [visionx7](https://hackerone.com/visionx7) | 2 | $0 | 4 |
 | 1333 | [f6x](https://hackerone.com/f6x) | 1 | $0 | 26 |
 | 1334 | [hunter0xp7](https://hackerone.com/hunter0xp7) | 1 | $0 | 105 |
 | 1335 | [kamil_hism](https://hackerone.com/kamil_hism) | 1 | $0 | 4 |

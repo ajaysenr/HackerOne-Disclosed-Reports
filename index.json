@@ -246062,6 +246062,25 @@
     "votes": 3
   },
   {
+    "id": 4105212,
+    "url": "https://hackerone.com/reports/4105212",
+    "title": "CPU Exhaustion via Crafted TOML Files in translation-finder",
+    "visibility": "full",
+    "program": "Weblate",
+    "program_handle": "weblate",
+    "reporter": "visionx7",
+    "severity": "medium",
+    "cvss": 5.3,
+    "weakness": "Uncontrolled Resource Consumption",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-11",
+    "disclosed_at": "2026-11-17T20:17:15.329Z",
+    "votes": 3
+  },
+  {
     "id": 4105790,
     "url": "https://hackerone.com/reports/4105790",
     "title": "FTP authentication options leak to a cross-origin FTP redirect with unrestricted auth disabled",
