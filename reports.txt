@@ -12384,6 +12384,7 @@ https://hackerone.com/reports/3878399 | Large-site Quick Edit reparses a Contrib
 https://hackerone.com/reports/3878586 | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, hide_from_lists) and uses frozen visibility, exposing donat
 https://hackerone.com/reports/3878649 | Reflected XSS via wrong permission check in conversion statistics
 https://hackerone.com/reports/3880451 | Privilege escalation via user controlled usernames / roles and views
+https://hackerone.com/reports/3882740 | All stored Slack and Teams credentials can be deleted via Management Console CSRF
 https://hackerone.com/reports/3883840 | Cross-agency disclosure in website listing
 https://hackerone.com/reports/3887969 | SSRF via URL Parser Differential in `normalize_request_url` (wlc)
 https://hackerone.com/reports/3889473 | @jitsi/docker-jitsi-meet: `/colibri-relay-ws/` unsafe nginx regex (OCTO relay configuration)

@@ -1,4 +1,4 @@
-# Asset Type: Hardware (73 reports)
+# Asset Type: Hardware (74 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -66,14 +66,15 @@
 | 60 | [802498](../reports/802498.md) | XW 6.2.0 firmware: 5 Reflected XSS issues in link.cgi | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | Medium — CVSS 6.1 | — | 9 |
 | 61 | [3813932](../reports/3813932.md) | [Splatoon 3] Kick other players with NplnLogin message | [Nintendo](../by-program/nintendo.md) | Nintendo Switch applications for which N | Medium — CVSS 6.5 | — | 7 |
 | 62 | [661647](../reports/661647.md) | Local File Disclosure (+XSS+CSRF) in AirOS 6.2.0 device | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | Medium — CVSS 6.1 | — | 6 |
-| 63 | [331368](../reports/331368.md) | 3x Reflected XSS vectors for services.cgi (XM.v6.1.6, b | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | Medium — CVSS 6.1 | — | 2 |
-| 64 | [2778400](../reports/2778400.md) | Es posible poder navegar a cualquier pagina en Point Sm | [MercadoLibre](../by-program/mercadolibre.md) | Point Smart | Low — CVSS 2.1 | — | 41 |
-| 65 | [2551512](../reports/2551512.md) | [Wii U/3DS/Switch] Improper bounds check in StationURL  | [Nintendo](../by-program/nintendo.md) | Nintendo Switch applications for which N | Low — CVSS 2.4 | — | 1 |
-| 66 | [894922](../reports/894922.md) | [3DS][SSL] Improper certificate validation allows an at | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS System | None | — | 129 |
-| 67 | [3042475](../reports/3042475.md) | Splatoon 3 Anticheat Seed Randomization Weakness | [Nintendo](../by-program/nintendo.md) | Nintendo Switch applications for which N | None | — | 53 |
-| 68 | [897606](../reports/897606.md) | [3DS][SSL][SDK] Unchecked number of audio channels in M | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS System | None | — | 43 |
-| 69 | [895769](../reports/895769.md) | [3DS][SSL] Use of uninitialized class member leads to R | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS System | None | — | 38 |
-| 70 | [687887](../reports/687887.md) | [3DS][StreetPass] Buffer Overflow in Super Mario Maker  | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS applications for which Nint | None | — | 30 |
-| 71 | [923240](../reports/923240.md) | [3DS][StreetPass] Heap Overflow in Swapnote parser lead | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS applications for which Nint | None | — | 30 |
-| 72 | [469997](../reports/469997.md) | NEX: Stack overflow in UnicodeToUtf8 | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS applications for which Nint | None | — | 23 |
-| 73 | [73480](../reports/73480.md) | Arbritrary file Upload on AirMax | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | None | — | 21 |
+| 63 | [3882740](../reports/3882740.md) |  All stored Slack and Teams credentials can be deleted  | [GitHub](../by-program/github.md) | GitHub Enterprise Server | Medium | — | 3 |
+| 64 | [331368](../reports/331368.md) | 3x Reflected XSS vectors for services.cgi (XM.v6.1.6, b | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | Medium — CVSS 6.1 | — | 2 |
+| 65 | [2778400](../reports/2778400.md) | Es posible poder navegar a cualquier pagina en Point Sm | [MercadoLibre](../by-program/mercadolibre.md) | Point Smart | Low — CVSS 2.1 | — | 41 |
+| 66 | [2551512](../reports/2551512.md) | [Wii U/3DS/Switch] Improper bounds check in StationURL  | [Nintendo](../by-program/nintendo.md) | Nintendo Switch applications for which N | Low — CVSS 2.4 | — | 1 |
+| 67 | [894922](../reports/894922.md) | [3DS][SSL] Improper certificate validation allows an at | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS System | None | — | 129 |
+| 68 | [3042475](../reports/3042475.md) | Splatoon 3 Anticheat Seed Randomization Weakness | [Nintendo](../by-program/nintendo.md) | Nintendo Switch applications for which N | None | — | 53 |
+| 69 | [897606](../reports/897606.md) | [3DS][SSL][SDK] Unchecked number of audio channels in M | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS System | None | — | 43 |
+| 70 | [895769](../reports/895769.md) | [3DS][SSL] Use of uninitialized class member leads to R | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS System | None | — | 38 |
+| 71 | [687887](../reports/687887.md) | [3DS][StreetPass] Buffer Overflow in Super Mario Maker  | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS applications for which Nint | None | — | 30 |
+| 72 | [923240](../reports/923240.md) | [3DS][StreetPass] Heap Overflow in Swapnote parser lead | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS applications for which Nint | None | — | 30 |
+| 73 | [469997](../reports/469997.md) | NEX: Stack overflow in UnicodeToUtf8 | [Nintendo](../by-program/nintendo.md) | Nintendo 3DS applications for which Nint | None | — | 23 |
+| 74 | [73480](../reports/73480.md) | Arbritrary file Upload on AirMax | [Ubiquiti Inc.](../by-program/ui.md) | airMAX | None | — | 21 |

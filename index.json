@@ -242044,6 +242044,27 @@
     "votes": 2
   },
   {
+    "id": 3882740,
+    "url": "https://hackerone.com/reports/3882740",
+    "title": " All stored Slack and Teams credentials can be deleted via Management Console CSRF",
+    "visibility": "no-content",
+    "program": "GitHub",
+    "program_handle": "github",
+    "reporter": "nikhil5642",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Cross-Site Request Forgery (CSRF)",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-110288"
+    ],
+    "substate": "resolved",
+    "asset_type": "HARDWARE",
+    "reported_at": "2026-07-22",
+    "disclosed_at": "2026-11-18T18:35:12.314Z",
+    "votes": 3
+  },
+  {
     "id": 3883840,
     "url": "https://hackerone.com/reports/3883840",
     "title": "Cross-agency disclosure in website listing",

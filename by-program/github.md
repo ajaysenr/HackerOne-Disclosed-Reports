@@ -1,4 +1,4 @@
-# GitHub — Disclosed Reports (47 total)
+# GitHub — Disclosed Reports (48 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -48,6 +48,7 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 42 | [3713965](../reports/3713965.md) | Able to bypass authorization logic and gain more access then | Medium | — | 7 | [vaib25vicky](https://hackerone.com/vaib25vicky) | 2026-07-15 |
 | 43 | [3527788](../reports/3527788.md) | Add labels to arbitrary issues/prs via Memex Bulk Update to  | Medium | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-08-25 |
 | 44 | [3560256](../reports/3560256.md) | Cross-repository IDOR in `/settings/security_analysis/bypass | Medium | — | 7 | [ahacker1](https://hackerone.com/ahacker1) | 2026-05-19 |
-| 45 | [2383092](../reports/2383092.md) | Source Code and data exfiltration via Github Copilot | Low | — | 63 | [astrounder](https://hackerone.com/astrounder) | 2024-08-19 |
-| 46 | [1831528](../reports/1831528.md) | Rogue collaborators and ambiguous branch names in GitHub | None | — | 42 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2023-12-05 |
-| 47 | [3290630](../reports/3290630.md) | Sample report: Denial of service  | None | — | 33 | [ghbountyocto](https://hackerone.com/ghbountyocto) | 2025-08-07 |
+| 45 | [3882740](../reports/3882740.md) |  All stored Slack and Teams credentials can be deleted via M | Medium | — | 3 | [nikhil5642](https://hackerone.com/nikhil5642) | 2026-11-18 |
+| 46 | [2383092](../reports/2383092.md) | Source Code and data exfiltration via Github Copilot | Low | — | 63 | [astrounder](https://hackerone.com/astrounder) | 2024-08-19 |
+| 47 | [1831528](../reports/1831528.md) | Rogue collaborators and ambiguous branch names in GitHub | None | — | 42 | [inspector-ambitious](https://hackerone.com/inspector-ambitious) | 2023-12-05 |
+| 48 | [3290630](../reports/3290630.md) | Sample report: Denial of service  | None | — | 33 | [ghbountyocto](https://hackerone.com/ghbountyocto) | 2025-08-07 |
