@@ -10794,6 +10794,7 @@ https://hackerone.com/reports/2255968 | CVE-2023-46132
 https://hackerone.com/reports/2256032 | SQL injection at ███████
 https://hackerone.com/reports/2256167 | Path traversal through path stored in Uint8Array in Node.js 20
 https://hackerone.com/reports/2256548 | Exposure of account recovery hint by querying by user email
+https://hackerone.com/reports/2256569 | Access and see `reactions recieved` on the notification of any user
 https://hackerone.com/reports/2257080 | Stored-XSS injected in Wiki page via Banzai pipeline
 https://hackerone.com/reports/2257156 | Improper handling of wildcards in --allow-fs-read and --allow-fs-write
 https://hackerone.com/reports/2257374 | Bypassing x profile verification to receive instant blue checkmark and unlimited profile changes

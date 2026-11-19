@@ -26,8 +26,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 20 | [1121896](../reports/1121896.md) | Verifying email bypass | Low | — | 35 | [fisjkars](https://hackerone.com/fisjkars) | 2023-03-03 |
 | 21 | [1637761](../reports/1637761.md) | CSRF in Importing CSV files [app.taxjar.com] | Low | — | 26 | [bashcancare](https://hackerone.com/bashcancare) | 2023-03-16 |
 | 22 | [2011298](../reports/2011298.md) | The `stripe/veneur` GitHub repository links to a domain `ven | Low — CVSS 2.0 | — | 26 | [peterldowns](https://hackerone.com/peterldowns) | 2023-07-03 |
-| 23 | [1272305](../reports/1272305.md) | Without verifying email and activate account, user can perfo | Low | — | 20 | [tabaahi](https://hackerone.com/tabaahi) | 2022-07-18 |
-| 24 | [1369191](../reports/1369191.md) | Local applications from user's computer can listen for webho | Low | — | 20 | [gregxsunday](https://hackerone.com/gregxsunday) | 2022-10-19 |
+| 23 | [1369191](../reports/1369191.md) | Local applications from user's computer can listen for webho | Low | — | 20 | [gregxsunday](https://hackerone.com/gregxsunday) | 2022-10-19 |
+| 24 | [1272305](../reports/1272305.md) | Without verifying email and activate account, user can perfo | Low | — | 20 | [tabaahi](https://hackerone.com/tabaahi) | 2022-07-18 |
 | 25 | [1528242](../reports/1528242.md) | Bypass global deny-lists by wrapping domains using "[]" in h | Low — CVSS 3.7 | — | 19 | [haxatron1](https://hackerone.com/haxatron1) | 2022-05-18 |
 | 26 | [1183335](../reports/1183335.md) | Object injection in `stripe-billing-typographic` GitHub proj | Low — CVSS 3.7 | — | 17 | [ph0r3nsic](https://hackerone.com/ph0r3nsic) | 2023-03-06 |
 | 27 | [1580495](../reports/1580495.md) | Bypassing domain deny_list rule in Smokescreen via double br | Low | — | 11 | [sim4n6](https://hackerone.com/sim4n6) | 2022-10-19 |
