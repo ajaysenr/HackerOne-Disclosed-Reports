@@ -25,10 +25,10 @@
 | 19 | [1711890](../reports/1711890.md) | Subdomain takeover on 'de-headless.staging.gymshark.com' | [Gymshark](../by-program/gymshark.md) | High — CVSS 7.5 | — | 31 |
 | 20 | [874482](../reports/874482.md) | Subdomain Takeover due to unclaimed domain pointing to Acquia Clo | [Insulet Corporation](../by-program/insulet_corporation.md) | High — CVSS 7.5 | — | 18 |
 | 21 | [1486327](../reports/1486327.md) | Security misconfiguration  | [lemlist](../by-program/lemlist.md) | High — CVSS 8.8 | — | 15 |
-| 22 | [963542](../reports/963542.md) | Django DEBUG mode enabled and leaked system information. | [Dropcontact](../by-program/dropcontact.md) | High | — | 12 |
-| 23 | [794382](../reports/794382.md) | Route53 Subdomain Takeover on test-cncf-aws.canary.k8s.io | [Kubernetes](../by-program/kubernetes.md) | High | — | 12 |
-| 24 | [1354437](../reports/1354437.md) | Password reset token leakage | [UPchieve](../by-program/upchieve.md) | High | — | 12 |
-| 25 | [1487793](../reports/1487793.md) | Subdomain Takeover on proxies.sifchain.finance pointing to vercel | [Sifchain](../by-program/sifchain.md) | High | — | 12 |
+| 22 | [1354437](../reports/1354437.md) | Password reset token leakage | [UPchieve](../by-program/upchieve.md) | High | — | 12 |
+| 23 | [1487793](../reports/1487793.md) | Subdomain Takeover on proxies.sifchain.finance pointing to vercel | [Sifchain](../by-program/sifchain.md) | High | — | 12 |
+| 24 | [794382](../reports/794382.md) | Route53 Subdomain Takeover on test-cncf-aws.canary.k8s.io | [Kubernetes](../by-program/kubernetes.md) | High | — | 12 |
+| 25 | [963542](../reports/963542.md) | Django DEBUG mode enabled and leaked system information. | [Dropcontact](../by-program/dropcontact.md) | High | — | 12 |
 | 26 | [867436](../reports/867436.md) | misconfigured CORS let to HPP and SOP bypass | [BTFS](../by-program/btfs.md) | High | — | 4 |
 | 27 | [235200](../reports/235200.md) | Cross-origin resource sharing misconfig | steal user information  | [Semrush](../by-program/semrush.md) | Medium — CVSS 5.7 | — | 94 |
 | 28 | [1883806](../reports/1883806.md) | Complete Admin account takeover due to PhpDebugBar turned on in U | [Uber](../by-program/uber.md) | Medium | — | 89 |
@@ -57,10 +57,10 @@
 | 51 | [2171494](../reports/2171494.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 10 |
 | 52 | [2123680](../reports/2123680.md) | Subdomain takeover on one of the subdomain under mozgcp.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 7 |
 | 53 | [1354382](../reports/1354382.md) | Password Reuse | [UPchieve](../by-program/upchieve.md) | Medium | — | 6 |
-| 54 | [2129791](../reports/2129791.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 4 |
-| 55 | [1354368](../reports/1354368.md) | Missing Validation in editing  "Your Phone Number"  | [UPchieve](../by-program/upchieve.md) | Medium | — | 4 |
-| 56 | [2134671](../reports/2134671.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 3 |
-| 57 | [2127469](../reports/2127469.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 3 |
+| 54 | [1354368](../reports/1354368.md) | Missing Validation in editing  "Your Phone Number"  | [UPchieve](../by-program/upchieve.md) | Medium | — | 4 |
+| 55 | [2129791](../reports/2129791.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 4 |
+| 56 | [2127469](../reports/2127469.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 3 |
+| 57 | [2134671](../reports/2134671.md) | Subdomain takeover on one of the subdomain under mozaws.net | [Mozilla](../by-program/mozilla.md) | Medium | — | 3 |
 | 58 | [2523654](../reports/2523654.md) | Subdomain takeover in Gitlab pages | [GitLab](../by-program/gitlab.md) | Low — CVSS 3.5 | — | 79 |
 | 59 | [2599840](../reports/2599840.md) | Remove obsolete domain from handbook subdomain | [GitLab](../by-program/gitlab.md) | Low | — | 72 |
 | 60 | [1132803](../reports/1132803.md) | Graphql introspection is enabled and leaks details about the sche | [On ](../by-program/on.md) | Low | — | 55 |
@@ -72,8 +72,8 @@
 | 66 | [1484468](../reports/1484468.md) | Information Leakage via TikTok Ads Web Cache Deception | [TikTok](../by-program/tiktok.md) | Low | — | 14 |
 | 67 | [1416701](../reports/1416701.md) | Missing SPF record on trycourier.app | [Courier](../by-program/trycourier.md) | Low | — | 8 |
 | 68 | [1187018](../reports/1187018.md) | wrong url in hackerone > goes to wix.com > unconnected | [Sifchain](../by-program/sifchain.md) | Low | — | 5 |
-| 69 | [1195512](../reports/1195512.md) | Wrong Url in Main page of sifchain.finance | [Sifchain](../by-program/sifchain.md) | Low | — | 0 |
-| 70 | [1198877](../reports/1198877.md) | Wrong Implementation of Url in https://docs.sifchain.finance/ | [Sifchain](../by-program/sifchain.md) | Low | — | 0 |
+| 69 | [1198877](../reports/1198877.md) | Wrong Implementation of Url in https://docs.sifchain.finance/ | [Sifchain](../by-program/sifchain.md) | Low | — | 0 |
+| 70 | [1195512](../reports/1195512.md) | Wrong Url in Main page of sifchain.finance | [Sifchain](../by-program/sifchain.md) | Low | — | 0 |
 | 71 | [2082680](../reports/2082680.md) | Register & create a ticket as somebody else on HackerOne Support  | [HackerOne](../by-program/security.md) | None | — | 56 |
 | 72 | [2666151](../reports/2666151.md) | phpinfo() exposed on ██████████ | [Mars](../by-program/mars.md) | None | — | 35 |
 | 73 | [2001913](../reports/2001913.md) | Create miscellaneous support ticket on anyone's account through s | [HackerOne](../by-program/security.md) | None | — | 29 |

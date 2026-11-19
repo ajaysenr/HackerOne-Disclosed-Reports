@@ -29,8 +29,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 23 | [2819573](../reports/2819573.md) | Mutation Based Stored XSS on Trix Editor version latest (2.1 | Critical | — | 84 | [sudi](https://hackerone.com/sudi) | 2025-06-27 |
 | 24 | [919175](../reports/919175.md) | HTTP request smuggling on Basecamp 2 allows web cache poison | Critical | — | 28 | [hazimaslam](https://hackerone.com/hazimaslam) | 2020-10-28 |
 | 25 | [867577](../reports/867577.md) | Unauthenticated request smuggling on launchpad.37signals.com | Critical | — | 24 | [hazimaslam](https://hackerone.com/hazimaslam) | 2020-10-28 |
-| 26 | [3938691](../reports/3938691.md) | Image upload reaches TIFF/JPEG heap overwrite (potential RCE | Critical — CVSS 9.1 | — | 4 | [laudas](https://hackerone.com/laudas) | 2026-11-17 |
-| 27 | [3962925](../reports/3962925.md) | Launchpad file read leaks production keys | Critical — CVSS 9.6 | — | 4 | [bl0rph](https://hackerone.com/bl0rph) | 2026-10-28 |
+| 26 | [3962925](../reports/3962925.md) | Launchpad file read leaks production keys | Critical — CVSS 9.6 | — | 4 | [bl0rph](https://hackerone.com/bl0rph) | 2026-10-28 |
+| 27 | [3938691](../reports/3938691.md) | Image upload reaches TIFF/JPEG heap overwrite (potential RCE | Critical — CVSS 9.1 | — | 4 | [laudas](https://hackerone.com/laudas) | 2026-11-17 |
 | 28 | [3079738](../reports/3079738.md) | Two click Account Takeover  | High — CVSS 8.1 | — | 77 | [fr4via](https://hackerone.com/fr4via) | 2025-11-11 |
 | 29 | [1010132](../reports/1010132.md) | Possible DOM XSS on app.hey.com | High | — | 68 | [enigmaticjohn](https://hackerone.com/enigmaticjohn) | 2020-10-27 |
 | 30 | [403602](../reports/403602.md) | Attachments may be hijacked via AppCache+CookieBombing trick | High | — | 57 | [hudmi](https://hackerone.com/hudmi) | 2020-11-26 |
@@ -40,8 +40,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 34 | [1343300](../reports/1343300.md) | com.basecamp.bc3 Webview Javascript Injection and JS bridge  | High — CVSS 7.7 | — | 20 | [fr4via](https://hackerone.com/fr4via) | 2022-09-23 |
 | 35 | [4175245](../reports/4175245.md) | Cross-account stored XSS on app.basecamp.com leads to persis | High — CVSS 8.7 | — | 14 | [matty69v](https://hackerone.com/matty69v) | 2026-11-13 |
 | 36 | [4035023](../reports/4035023.md) | Ordinary HEY user can make HEY originate authenticated mail  | High — CVSS 7.0 | — | 8 | [gachikuku](https://hackerone.com/gachikuku) | 2026-10-20 |
-| 37 | [3955956](../reports/3955956.md) | launchpad.37signals.com OAuth AS issues victim-bound credent | High — CVSS 8.0 | — | 5 | [rootaccessxvv](https://hackerone.com/rootaccessxvv) | 2026-10-30 |
-| 38 | [3999856](../reports/3999856.md) | A third-party Basecamp OAuth token mints a full launchpad we | High — CVSS 8.0 | — | 5 | [deivizzzz](https://hackerone.com/deivizzzz) | 2026-10-30 |
+| 37 | [3999856](../reports/3999856.md) | A third-party Basecamp OAuth token mints a full launchpad we | High — CVSS 8.0 | — | 5 | [deivizzzz](https://hackerone.com/deivizzzz) | 2026-10-30 |
+| 38 | [3955956](../reports/3955956.md) | launchpad.37signals.com OAuth AS issues victim-bound credent | High — CVSS 8.0 | — | 5 | [rootaccessxvv](https://hackerone.com/rootaccessxvv) | 2026-10-30 |
 | 39 | [3979217](../reports/3979217.md) |  Cross-account webhook takeover: PUT and DELETE on /<account | High — CVSS 8.3 | — | 4 | [deivizzzz](https://hackerone.com/deivizzzz) | 2026-10-30 |
 | 40 | [3943339](../reports/3943339.md) | One-click cross-account JavaScript execution steals a victim | High — CVSS 8.7 | — | 3 | [pirikara](https://hackerone.com/pirikara) | 2026-10-02 |
 | 41 | [3981292](../reports/3981292.md) | Cross-account XSS on app.basecamp.com: oEmbed option injecti | High — CVSS 8.7 | — | 1 | [deivizzzz](https://hackerone.com/deivizzzz) | 2026-10-28 |
