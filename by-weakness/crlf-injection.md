@@ -26,15 +26,15 @@
 | 20 | [237357](../reports/237357.md) | CRLF Injection at vpn.bitstrips.com | [Snapchat](../by-program/snapchat.md) | Medium | — | 24 |
 | 21 | [1516377](../reports/1516377.md) | SMTP Command Injection in iCalendar Attachments to Emails via New | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.1 | — | 22 |
 | 22 | [3235428](../reports/3235428.md) | CRLF injection in libcurl's SMTP client via --mail-from and --mai | [curl](../by-program/curl.md) | Medium | — | 21 |
-| 23 | [476257](../reports/476257.md) | CRLF injection at https://mariadb.org/. | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 5.3 | — | 16 |
-| 24 | [3481595](../reports/3481595.md) | SMTP CRLF Injection & Protocol Desynchronization in libcurl | [curl](../by-program/curl.md) | Medium | — | 16 |
+| 23 | [3481595](../reports/3481595.md) | SMTP CRLF Injection & Protocol Desynchronization in libcurl | [curl](../by-program/curl.md) | Medium | — | 16 |
+| 24 | [476257](../reports/476257.md) | CRLF injection at https://mariadb.org/. | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 5.3 | — | 16 |
 | 25 | [413115](../reports/413115.md) | CRLF injection agentcrm.8x8.com | [8x8](../by-program/8x8-bounty.md) | Medium | — | 12 |
-| 26 | [3414088](../reports/3414088.md) | SMTP CRLF Command Injection in CURLOPT_MAIL_FROM and CURLOPT_MAIL | [curl](../by-program/curl.md) | Medium | — | 11 |
-| 27 | [1820955](../reports/1820955.md) | CRLF Injection in Nodejs ‘undici’ via host | [Node.js](../by-program/nodejs.md) | Medium — CVSS 4.6 | — | 11 |
+| 26 | [1820955](../reports/1820955.md) | CRLF Injection in Nodejs ‘undici’ via host | [Node.js](../by-program/nodejs.md) | Medium — CVSS 4.6 | — | 11 |
+| 27 | [3414088](../reports/3414088.md) | SMTP CRLF Command Injection in CURLOPT_MAIL_FROM and CURLOPT_MAIL | [curl](../by-program/curl.md) | Medium | — | 11 |
 | 28 | [3484506](../reports/3484506.md) | CRLF Injection in Gopher Protocol (`lib/gopher.c`) | [curl](../by-program/curl.md) | Medium | — | 9 |
 | 29 | [3633534](../reports/3633534.md) | CRLF Injection in HAProxy PROXY Protocol via CURLOPT_HAPROXY_CLIE | [curl](../by-program/curl.md) | Medium | — | 9 |
-| 30 | [232327](../reports/232327.md) | CRLF Injection on openvpn.svc.ubnt.com | [Ubiquiti Inc.](../by-program/ui.md) | Medium | — | 8 |
-| 31 | [1402249](../reports/1402249.md) | Control character filtering misses leading and trailing whitespac | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 8 |
+| 30 | [1402249](../reports/1402249.md) | Control character filtering misses leading and trailing whitespac | [Nextcloud](../by-program/nextcloud.md) | Medium — CVSS 4.3 | — | 8 |
+| 31 | [232327](../reports/232327.md) | CRLF Injection on openvpn.svc.ubnt.com | [Ubiquiti Inc.](../by-program/ui.md) | Medium | — | 8 |
 | 32 | [3911605](../reports/3911605.md) | SMTP CRLF injection in custom SMTP recipient operand allows addit | [curl](../by-program/curl.md) | Medium | — | 8 |
 | 33 | [481512](../reports/481512.md) | CRLF injection on https://buildbot.mariadb.org | [MariaDB](../by-program/mariadb.md) | Medium | — | 7 |
 | 34 | [1664019](../reports/1664019.md) | CVE-2022-35948: CRLF Injection in Nodejs ‘undici’ via Content-Typ | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 6 |
@@ -42,8 +42,8 @@
 | 36 | [245485](../reports/245485.md) | CRLF Injection on ███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Medium | — | 4 |
 | 37 | [3963494](../reports/3963494.md) | RTSP CRLF injection in libcurl allows CURLOPT_RTSP_* values to in | [curl](../by-program/curl.md) | Medium | — | 3 |
 | 38 | [266030](../reports/266030.md) | Add arbitrary value in reset password cookie | [Legal Robot](../by-program/legalrobot.md) | Medium | — | 3 |
-| 39 | [3621606](../reports/3621606.md) | ZMQ RPC Log Injection and Untrusted Payload Persistence | [Monero](../by-program/monero.md) | Medium | — | 2 |
-| 40 | [771596](../reports/771596.md) | CRLF Injection in legacy url API (url.parse().hostname) | [Node.js](../by-program/nodejs.md) | Medium | — | 2 |
+| 39 | [771596](../reports/771596.md) | CRLF Injection in legacy url API (url.parse().hostname) | [Node.js](../by-program/nodejs.md) | Medium | — | 2 |
+| 40 | [3621606](../reports/3621606.md) | ZMQ RPC Log Injection and Untrusted Payload Persistence | [Monero](../by-program/monero.md) | Medium | — | 2 |
 | 41 | [3823932](../reports/3823932.md) | CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabling HAProx | [curl](../by-program/curl.md) | Medium | — | 0 |
 | 42 | [712979](../reports/712979.md) | Creating malformed URLs via new line character in-between two URL | [X / xAI](../by-program/x.md) | Low | — | 95 |
 | 43 | [1943013](../reports/1943013.md) | CRLF Inection at `██████████` | [Mars](../by-program/mars.md) | Low | — | 14 |
@@ -60,9 +60,9 @@
 | 54 | [276427](../reports/276427.md) | Legal Robot | [Legal Robot](../by-program/legalrobot.md) | None | — | 12 |
 | 55 | [2831558](../reports/2831558.md) | netrc crlf injection | [curl](../by-program/curl.md) | None | — | 6 |
 | 56 | [3451305](../reports/3451305.md) | SMTP Protocol Injection via CRLF in CURLOPT_MAIL_FROM leading to  | [curl](../by-program/curl.md) | None | — | 6 |
-| 57 | [3505557](../reports/3505557.md) | CRLF Injection in HTTP header values allows arbitrary header inje | [curl](../by-program/curl.md) | None | — | 5 |
-| 58 | [1718757](../reports/1718757.md) | Header CRLF Injection in Ruby Net::HTTP | [Ruby](../by-program/ruby.md) | None | — | 5 |
-| 59 | [2861797](../reports/2861797.md) | curl mishandles `%0c%0b` sequences in HTTP responses leading to C | [curl](../by-program/curl.md) | None | — | 5 |
+| 57 | [2861797](../reports/2861797.md) | curl mishandles `%0c%0b` sequences in HTTP responses leading to C | [curl](../by-program/curl.md) | None | — | 5 |
+| 58 | [3505557](../reports/3505557.md) | CRLF Injection in HTTP header values allows arbitrary header inje | [curl](../by-program/curl.md) | None | — | 5 |
+| 59 | [1718757](../reports/1718757.md) | Header CRLF Injection in Ruby Net::HTTP | [Ruby](../by-program/ruby.md) | None | — | 5 |
 | 60 | [3651975](../reports/3651975.md) | SMTP Command Injection via CRLF in libcurl MAIL_FROM / MAIL_RCPT  | [curl](../by-program/curl.md) | None | — | 4 |
 | 61 | [3741744](../reports/3741744.md) | CRLF Injection via Custom HTTP Headers | [curl](../by-program/curl.md) | None | — | 2 |
 | 62 | [3972403](../reports/3972403.md) | CVE-2026-87864: IMAP APPEND plus CRLF conversion command injectio | [curl](../by-program/curl.md) | None | — | 0 |

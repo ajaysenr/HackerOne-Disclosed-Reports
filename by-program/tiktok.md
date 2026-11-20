@@ -14,8 +14,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 8 | [1392630](../reports/1392630.md) | IDOR the ability to view support tickets of any user on sell | Medium — CVSS 6.5 | $2,500 | 74 | [lewaperbb](https://hackerone.com/lewaperbb) | 2021-12-03 |
 | 9 | [1247108](../reports/1247108.md) | TikTok 2FA Bypass | Medium | $1,564 | 189 | [amans](https://hackerone.com/amans) | 2023-02-03 |
 | 10 | [2007093](../reports/2007093.md) | Dom XSS and open redirect in TikTok seller endpoint | Medium — CVSS 4.7 | $1,000 | 77 | [7hamoody1](https://hackerone.com/7hamoody1) | 2023-08-07 |
-| 11 | [1694037](../reports/1694037.md) | Stored XSS in the ticketing system | Medium | $1,000 | 46 | [codeslayer1337](https://hackerone.com/codeslayer1337) | 2022-10-10 |
-| 12 | [1647248](../reports/1647248.md) | Stored XSS Via Ads Account Name | Medium — CVSS 4.1 | $1,000 | 46 | [rioncool22](https://hackerone.com/rioncool22) | 2023-09-12 |
+| 11 | [1647248](../reports/1647248.md) | Stored XSS Via Ads Account Name | Medium — CVSS 4.1 | $1,000 | 46 | [rioncool22](https://hackerone.com/rioncool22) | 2023-09-12 |
+| 12 | [1694037](../reports/1694037.md) | Stored XSS in the ticketing system | Medium | $1,000 | 46 | [codeslayer1337](https://hackerone.com/codeslayer1337) | 2022-10-10 |
 | 13 | [1575560](../reports/1575560.md) | Internal Employee informations Disclosure via TikTok Athena  | Medium — CVSS 4.3 | $1,000 | 27 | [ht0x0](https://hackerone.com/ht0x0) | 2022-07-20 |
 | 14 | [1087436](../reports/1087436.md) | CSRF on TikTok Ads Portal | Medium — CVSS 5.7 | $1,000 | 23 | [probatorem](https://hackerone.com/probatorem) | 2021-05-26 |
 | 15 | [1337351](../reports/1337351.md) | BYPASSING COMMENTING ON RESTRICTED  AUDIENCE VIDEOS | Medium — CVSS 4.3 | $500 | 72 | [boynamedboy](https://hackerone.com/boynamedboy) | 2021-11-18 |
@@ -80,8 +80,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 74 | [1376961](../reports/1376961.md) | Cross-site Scripting (XSS) - Stored on ads.tiktok.com in Tex | Medium — CVSS 5.4 | — | 75 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2022-01-20 |
 | 75 | [1322104](../reports/1322104.md) | XSS on tiktok.com | Medium | — | 72 | [sepolia](https://hackerone.com/sepolia) | 2021-10-23 |
 | 76 | [953041](../reports/953041.md) | Cross Site Scripting using Email parameter in Ads endpoint 1 | Medium — CVSS 6.1 | — | 65 | [luizviana](https://hackerone.com/luizviana) | 2020-12-29 |
-| 77 | [1555376](../reports/1555376.md) | IDOR on Tagged People | Medium — CVSS 6.5 | — | 62 | [apapedulimu](https://hackerone.com/apapedulimu) | 2022-09-20 |
-| 78 | [1505567](../reports/1505567.md) | Privilege Escalation on TikTok for Business | Medium — CVSS 5.3 | — | 62 | [naaash](https://hackerone.com/naaash) | 2022-05-16 |
+| 77 | [1505567](../reports/1505567.md) | Privilege Escalation on TikTok for Business | Medium — CVSS 5.3 | — | 62 | [naaash](https://hackerone.com/naaash) | 2022-05-16 |
+| 78 | [1555376](../reports/1555376.md) | IDOR on Tagged People | Medium — CVSS 6.5 | — | 62 | [apapedulimu](https://hackerone.com/apapedulimu) | 2022-09-20 |
 | 79 | [2280863](../reports/2280863.md) | RXSS on TikTok endpoints | Medium — CVSS 4.7 | — | 60 | [ashrafabdelrazik](https://hackerone.com/ashrafabdelrazik) | 2024-01-09 |
 | 80 | [1747978](../reports/1747978.md) | bypass two-factor authentication in Android apps and web | Medium | — | 55 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2023-01-09 |
 | 81 | [1783001](../reports/1783001.md) | Ability to change permissions across seller platform | Medium — CVSS 6.5 | — | 47 | [imran_nisar](https://hackerone.com/imran_nisar) | 2022-12-06 |

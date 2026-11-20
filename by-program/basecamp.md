@@ -29,8 +29,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 23 | [2819573](../reports/2819573.md) | Mutation Based Stored XSS on Trix Editor version latest (2.1 | Critical | — | 84 | [sudi](https://hackerone.com/sudi) | 2025-06-27 |
 | 24 | [919175](../reports/919175.md) | HTTP request smuggling on Basecamp 2 allows web cache poison | Critical | — | 28 | [hazimaslam](https://hackerone.com/hazimaslam) | 2020-10-28 |
 | 25 | [867577](../reports/867577.md) | Unauthenticated request smuggling on launchpad.37signals.com | Critical | — | 24 | [hazimaslam](https://hackerone.com/hazimaslam) | 2020-10-28 |
-| 26 | [3938691](../reports/3938691.md) | Image upload reaches TIFF/JPEG heap overwrite (potential RCE | Critical — CVSS 9.1 | — | 4 | [laudas](https://hackerone.com/laudas) | 2026-11-17 |
-| 27 | [3962925](../reports/3962925.md) | Launchpad file read leaks production keys | Critical — CVSS 9.6 | — | 4 | [bl0rph](https://hackerone.com/bl0rph) | 2026-10-28 |
+| 26 | [3962925](../reports/3962925.md) | Launchpad file read leaks production keys | Critical — CVSS 9.6 | — | 4 | [bl0rph](https://hackerone.com/bl0rph) | 2026-10-28 |
+| 27 | [3938691](../reports/3938691.md) | Image upload reaches TIFF/JPEG heap overwrite (potential RCE | Critical — CVSS 9.1 | — | 4 | [laudas](https://hackerone.com/laudas) | 2026-11-17 |
 | 28 | [3079738](../reports/3079738.md) | Two click Account Takeover  | High — CVSS 8.1 | — | 77 | [fr4via](https://hackerone.com/fr4via) | 2025-11-11 |
 | 29 | [1010132](../reports/1010132.md) | Possible DOM XSS on app.hey.com | High | — | 68 | [enigmaticjohn](https://hackerone.com/enigmaticjohn) | 2020-10-27 |
 | 30 | [403602](../reports/403602.md) | Attachments may be hijacked via AppCache+CookieBombing trick | High | — | 57 | [hudmi](https://hackerone.com/hudmi) | 2020-11-26 |

@@ -63,9 +63,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 57 | [1370731](../reports/1370731.md) | CVE-2021-40438 on cp-eu2.acronis.com | High | — | 19 | [savik](https://hackerone.com/savik) | 2022-07-13 |
 | 58 | [944735](../reports/944735.md) | Arbitrary DLL injection in mmsminisrv (Acronis Managed Machi | High — CVSS 8.1 | — | 11 | [adr](https://hackerone.com/adr) | 2020-10-20 |
 | 59 | [1251464](../reports/1251464.md) | Acronis True Image Local Privilege Escalation Due To Race Co | High — CVSS 7.4 | — | 8 | [vkas-afk](https://hackerone.com/vkas-afk) | 2022-07-28 |
-| 60 | [947690](../reports/947690.md) | ClickJacking | High | — | 2 | [ashish_murugan](https://hackerone.com/ashish_murugan) | 2021-03-16 |
-| 61 | [1018790](../reports/1018790.md) | Subdomains takeover of  register.acronis.com, promo.acronis. | High | — | 2 | [ashmek](https://hackerone.com/ashmek) | 2022-02-08 |
-| 62 | [1103212](../reports/1103212.md) | Found multiple SAP NetWeaver vulnerable services | High | — | 2 | [ganofins](https://hackerone.com/ganofins) | 2021-02-16 |
+| 60 | [1103212](../reports/1103212.md) | Found multiple SAP NetWeaver vulnerable services | High | — | 2 | [ganofins](https://hackerone.com/ganofins) | 2021-02-16 |
+| 61 | [947690](../reports/947690.md) | ClickJacking | High | — | 2 | [ashish_murugan](https://hackerone.com/ashish_murugan) | 2021-03-16 |
+| 62 | [1018790](../reports/1018790.md) | Subdomains takeover of  register.acronis.com, promo.acronis. | High | — | 2 | [ashmek](https://hackerone.com/ashmek) | 2022-02-08 |
 | 63 | [1224660](../reports/1224660.md) | bypass sql injection #1109311 | Medium | — | 162 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2021-10-05 |
 | 64 | [1403176](../reports/1403176.md) | IDOR vulnerability (Price manipulation) | Medium | — | 145 | [spookhorror](https://hackerone.com/spookhorror) | 2021-11-30 |
 | 65 | [1124974](../reports/1124974.md) | Attacker Can Access to any Ticket Support on https://www.dev | Medium | — | 107 | [h4x0r_dz](https://hackerone.com/h4x0r_dz) | 2022-02-08 |
@@ -74,11 +74,11 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 68 | [2653342](../reports/2653342.md) | Potential XSS in redirect_url Parameter | Medium | — | 63 | [kindone](https://hackerone.com/kindone) | 2024-11-06 |
 | 69 | [1086206](../reports/1086206.md) | Blind SSRF vulnerability on cz.acronis.com | Medium | — | 49 | [cabelo](https://hackerone.com/cabelo) | 2024-08-27 |
 | 70 | [827484](../reports/827484.md) | Missing rate limit for current password field (Password Chan | Medium | — | 43 | [full109tun](https://hackerone.com/full109tun) | 2020-10-06 |
-| 71 | [1004412](../reports/1004412.md) | Possible LDAP username and password disclosed on Github | Medium | — | 36 | [vovohelo](https://hackerone.com/vovohelo) | 2021-08-17 |
-| 72 | [1245165](../reports/1245165.md) | CSS Injection via Client Side Path Traversal + Open Redirect | Medium | — | 36 | [mr-medi](https://hackerone.com/mr-medi) | 2022-11-04 |
+| 71 | [1245165](../reports/1245165.md) | CSS Injection via Client Side Path Traversal + Open Redirect | Medium | — | 36 | [mr-medi](https://hackerone.com/mr-medi) | 2022-11-04 |
+| 72 | [1004412](../reports/1004412.md) | Possible LDAP username and password disclosed on Github | Medium | — | 36 | [vovohelo](https://hackerone.com/vovohelo) | 2021-08-17 |
 | 73 | [1538004](../reports/1538004.md) | Read-only administrator can change agent update settings | Medium — CVSS 5.0 | — | 29 | [hacker1_agent](https://hackerone.com/hacker1_agent) | 2022-08-10 |
-| 74 | [1010858](../reports/1010858.md) | Web cache poisoning at www.acronis.com | Medium — CVSS 6.9 | — | 28 | [9529](https://hackerone.com/9529) | 2021-06-17 |
-| 75 | [1011093](../reports/1011093.md) | XSS Stored in Cacheable  response | Medium | — | 28 | [dj4ng0d2](https://hackerone.com/dj4ng0d2) | 2021-09-05 |
+| 74 | [1011093](../reports/1011093.md) | XSS Stored in Cacheable  response | Medium | — | 28 | [dj4ng0d2](https://hackerone.com/dj4ng0d2) | 2021-09-05 |
+| 75 | [1010858](../reports/1010858.md) | Web cache poisoning at www.acronis.com | Medium — CVSS 6.9 | — | 28 | [9529](https://hackerone.com/9529) | 2021-06-17 |
 | 76 | [958459](../reports/958459.md) | Cross Origin Resource Sharing Misconfiguration | Medium | — | 26 | [parshwa_21](https://hackerone.com/parshwa_21) | 2023-01-10 |
 | 77 | [959608](../reports/959608.md) | Local Privilege Escalation via DLL Search-Order Hijacking wi | Medium — CVSS 6.3 | — | 25 | [mmg](https://hackerone.com/mmg) | 2024-08-27 |
 | 78 | [1600720](../reports/1600720.md) | HTML Injection in E-mail Not Resolved () | Medium | — | 25 | [thewikiii](https://hackerone.com/thewikiii) | 2022-07-19 |
@@ -91,9 +91,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 85 | [959815](../reports/959815.md) | Arbitrary Files and Folders Deletion vulnerability with Acro | Medium | — | 14 | [mmg](https://hackerone.com/mmg) | 2024-08-27 |
 | 86 | [1245529](../reports/1245529.md) | No Rate Limit On Forgot Password Page | Medium | — | 13 | [bcbc04131e9a7775cc46c97](https://hackerone.com/bcbc04131e9a7775cc46c97) | 2021-07-09 |
 | 87 | [935503](../reports/935503.md) | Reflected XSS on cz.acronis.com/dekujeme-za-odber-novinek-pr | Medium | — | 9 | [cabelo](https://hackerone.com/cabelo) | 2021-06-22 |
-| 88 | [1338256](../reports/1338256.md) | No server side check on terms of service page which leads to | Medium | — | 8 | [hackipy](https://hackerone.com/hackipy) | 2021-10-05 |
-| 89 | [1341142](../reports/1341142.md) | Domain does not Match SSL Certificate | Medium | — | 8 | [skimask](https://hackerone.com/skimask) | 2021-10-05 |
-| 90 | [858603](../reports/858603.md) | Denial of Service in anti_ransomware_service.exe via logs fi | Medium — CVSS 4.7 | — | 8 | [mjoensen](https://hackerone.com/mjoensen) | 2021-06-24 |
+| 88 | [1341142](../reports/1341142.md) | Domain does not Match SSL Certificate | Medium | — | 8 | [skimask](https://hackerone.com/skimask) | 2021-10-05 |
+| 89 | [858603](../reports/858603.md) | Denial of Service in anti_ransomware_service.exe via logs fi | Medium — CVSS 4.7 | — | 8 | [mjoensen](https://hackerone.com/mjoensen) | 2021-06-24 |
+| 90 | [1338256](../reports/1338256.md) | No server side check on terms of service page which leads to | Medium | — | 8 | [hackipy](https://hackerone.com/hackipy) | 2021-10-05 |
 | 91 | [963103](../reports/963103.md) | Local Privilege Escalation via DLL Search-Order Hijacking wi | Medium | — | 7 | [mmg](https://hackerone.com/mmg) | 2024-08-26 |
 | 92 | [1486341](../reports/1486341.md) | Session Fixation on Acronis | Medium | — | 6 | [hatnare](https://hackerone.com/hatnare) | 2022-03-01 |
 | 93 | [1121317](../reports/1121317.md) | Unrestricted file upload vulnerability in IMCE | Medium | — | 6 | [bughunter_h1_bughunter](https://hackerone.com/bughunter_h1_bughunter) | 2021-03-16 |
@@ -118,12 +118,12 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 112 | [953719](../reports/953719.md) | Subdomain Takeover – www.jet.acronis.com pointing to unclaim | Low | — | 19 | [sumgr0](https://hackerone.com/sumgr0) | 2021-06-18 |
 | 113 | [971234](../reports/971234.md) | Clickjacking on cas.acronis.com login page | Low | — | 19 | [dgirlwhohacks](https://hackerone.com/dgirlwhohacks) | 2020-11-03 |
 | 114 | [1063627](../reports/1063627.md) | HTTP Request Smuggling on https://consumer.acronis.com | Low | — | 16 | [riramar](https://hackerone.com/riramar) | 2021-11-16 |
-| 115 | [1083532](../reports/1083532.md) | Acronis True Image 2020 Build 22510 Nonstop Backup Service U | Low | — | 15 | [sanderz31](https://hackerone.com/sanderz31) | 2024-08-27 |
-| 116 | [952166](../reports/952166.md) | Subdomain Takeover – jet.acronis.com pointing to unclaimed W | Low | — | 15 | [sumgr0](https://hackerone.com/sumgr0) | 2021-06-18 |
+| 115 | [952166](../reports/952166.md) | Subdomain Takeover – jet.acronis.com pointing to unclaimed W | Low | — | 15 | [sumgr0](https://hackerone.com/sumgr0) | 2021-06-18 |
+| 116 | [1083532](../reports/1083532.md) | Acronis True Image 2020 Build 22510 Nonstop Backup Service U | Low | — | 15 | [sanderz31](https://hackerone.com/sanderz31) | 2024-08-27 |
 | 117 | [1063493](../reports/1063493.md) | HTTP Request Smuggling on https://promosandbox.acronis.com | Low | — | 12 | [riramar](https://hackerone.com/riramar) | 2021-11-16 |
 | 118 | [971610](../reports/971610.md) | Local Privilege Escalation via EXE hijacking with Acronis Tr | Low | — | 7 | [mmg](https://hackerone.com/mmg) | 2024-08-27 |
-| 119 | [970739](../reports/970739.md) | Local Privilege Escalation via EXE hijacking with Acronis Tr | Low | — | 5 | [mmg](https://hackerone.com/mmg) | 2024-08-27 |
-| 120 | [1167034](../reports/1167034.md) | Reflected Cross Site Scripting at http://www.grouplogic.com/ | Low | — | 5 | [ub3rsick](https://hackerone.com/ub3rsick) | 2022-06-14 |
+| 119 | [1167034](../reports/1167034.md) | Reflected Cross Site Scripting at http://www.grouplogic.com/ | Low | — | 5 | [ub3rsick](https://hackerone.com/ub3rsick) | 2022-06-14 |
+| 120 | [970739](../reports/970739.md) | Local Privilege Escalation via EXE hijacking with Acronis Tr | Low | — | 5 | [mmg](https://hackerone.com/mmg) | 2024-08-27 |
 | 121 | [1166918](../reports/1166918.md) | Reflected Cross Site Scripting at  ColdFusion Debugging Pane | Low | — | 4 | [ub3rsick](https://hackerone.com/ub3rsick) | 2022-06-14 |
 | 122 | [833735](../reports/833735.md) | Broken Access Controls | None | — | 18 | [lucasandracoli](https://hackerone.com/lucasandracoli) | 2021-02-09 |
 | 123 | [846389](../reports/846389.md) | Open redirect at mc-beta-cloud-acronis.com | None | — | 12 | [angeltsvetkov](https://hackerone.com/angeltsvetkov) | 2022-11-15 |

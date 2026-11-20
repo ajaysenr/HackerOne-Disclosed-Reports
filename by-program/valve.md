@@ -50,20 +50,20 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 44 | [975212](../reports/975212.md) | Access to microtransaction sales data for lots of apps from  | Critical | — | 86 | [njbooher3](https://hackerone.com/njbooher3) | 2021-09-21 |
 | 45 | [949361](../reports/949361.md) | Shell command injection in https://partner.steamgames.com/ad | Critical — CVSS 9.6 | — | 58 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
 | 46 | [840243](../reports/840243.md) | Shell command injection in https://partner.steamgames.com/ap | Critical | — | 52 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
-| 47 | [652649](../reports/652649.md) | WG call injection in /economy/contextcommand | Critical — CVSS 9.6 | — | 46 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
-| 48 | [926169](../reports/926169.md) | Shell command injection in https://partner.steamgames.com/bu | Critical — CVSS 9.6 | — | 46 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
+| 47 | [926169](../reports/926169.md) | Shell command injection in https://partner.steamgames.com/bu | Critical — CVSS 9.6 | — | 46 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
+| 48 | [652649](../reports/652649.md) | WG call injection in /economy/contextcommand | Critical — CVSS 9.6 | — | 46 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
 | 49 | [690349](../reports/690349.md) | SQL injection in /errors/viewbuild/ | Critical — CVSS 9.1 | — | 41 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
 | 50 | [518348](../reports/518348.md) | RCE on partner.steampowered.com | Critical | — | 18 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
 | 51 | [397545](../reports/397545.md) | Malformed .BMP file in Counter-Strike 1.6 may cause shellcod | High — CVSS 8.8 | — | 321 | [kohtep2010](https://hackerone.com/kohtep2010) | 2020-02-27 |
 | 52 | [577584](../reports/577584.md) | ISteamAssets gives partners control over unrelated community | High — CVSS 7.1 | — | 109 | [njbooher3](https://hackerone.com/njbooher3) | 2019-05-23 |
 | 53 | [495793](../reports/495793.md) | Malformed .MDL triggers an Access Violation on GoldSRC (hl.e | High | — | 89 | [chippy](https://hackerone.com/chippy) | 2019-10-09 |
 | 54 | [1079561](../reports/1079561.md) | Big Picture web browser leaks login cookies and discloses se | High — CVSS 7.1 | — | 58 | [bugstar](https://hackerone.com/bugstar) | 2021-09-21 |
-| 55 | [1168557](../reports/1168557.md) | https://srcds.valve.net/find/ is leaking server config / API | High — CVSS 7.5 | — | 55 | [njbooher3](https://hackerone.com/njbooher3) | 2024-08-06 |
-| 56 | [832750](../reports/832750.md) | Buffer overflow In hl.exe's launch -game argument allows an  | High — CVSS 8.1 | — | 55 | [irukandjisecresearch](https://hackerone.com/irukandjisecresearch) | 2020-08-19 |
+| 55 | [832750](../reports/832750.md) | Buffer overflow In hl.exe's launch -game argument allows an  | High — CVSS 8.1 | — | 55 | [irukandjisecresearch](https://hackerone.com/irukandjisecresearch) | 2020-08-19 |
+| 56 | [1168557](../reports/1168557.md) | https://srcds.valve.net/find/ is leaking server config / API | High — CVSS 7.5 | — | 55 | [njbooher3](https://hackerone.com/njbooher3) | 2024-08-06 |
 | 57 | [1018368](../reports/1018368.md) | Add any depot to your app and access its contents without de | High — CVSS 8.5 | — | 54 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
 | 58 | [351016](../reports/351016.md) | Malformed Skybox .TGA in Half-Life (GoldSRC) leads to Access | High | — | 30 | [chippy](https://hackerone.com/chippy) | 2018-08-28 |
-| 59 | [288298](../reports/288298.md) | LFI in pChart php library | High — CVSS 8.6 | — | 29 | [ramsexy](https://hackerone.com/ramsexy) | 2018-05-09 |
-| 60 | [674800](../reports/674800.md) | /applications/dpc_(get|post) provide full access to api.stea | High — CVSS 8.2 | — | 29 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
+| 59 | [674800](../reports/674800.md) | /applications/dpc_(get|post) provide full access to api.stea | High — CVSS 8.2 | — | 29 | [njbooher3](https://hackerone.com/njbooher3) | 2024-07-30 |
+| 60 | [288298](../reports/288298.md) | LFI in pChart php library | High — CVSS 8.6 | — | 29 | [ramsexy](https://hackerone.com/ramsexy) | 2018-05-09 |
 | 61 | [815547](../reports/815547.md) | Unauthorized updates to extended_info properties in /store/a | High — CVSS 7.2 | — | 22 | [njbooher3](https://hackerone.com/njbooher3) | 2020-09-09 |
 | 62 | [458929](../reports/458929.md) | Malformed BSP in GoldSrc Engine may cause shellcode injectio | High | — | 21 | [kohtep2010](https://hackerone.com/kohtep2010) | 2020-03-25 |
 | 63 | [972243](../reports/972243.md) | Add apps to packages 0, 61, 62 with /store/ajaxpackagemerge | High | — | 12 | [njbooher3](https://hackerone.com/njbooher3) | 2020-09-09 |
@@ -76,11 +76,11 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 70 | [350119](../reports/350119.md) | Buffer overflows in demo parsing | Medium | — | 33 | [yalter](https://hackerone.com/yalter) | 2018-08-28 |
 | 71 | [780167](../reports/780167.md) | Hidden scheduled partner events are propagated to Steam clie | Medium | — | 31 | [xpaw](https://hackerone.com/xpaw) | 2020-03-20 |
 | 72 | [292457](../reports/292457.md) | Reflected XSS in www.dota2.com | Medium | — | 30 | [jr0ch17](https://hackerone.com/jr0ch17) | 2018-05-09 |
-| 73 | [852091](../reports/852091.md) | Privilege Escalation vulnerability in steam's Remote Play fe | Medium — CVSS 4.7 | — | 22 | [hydraskyteam](https://hackerone.com/hydraskyteam) | 2021-09-21 |
-| 74 | [541020](../reports/541020.md) | GetGlobalAchievementPercentagesForApp is missing the same re | Medium — CVSS 6.8 | — | 22 | [xpaw](https://hackerone.com/xpaw) | 2020-02-19 |
+| 73 | [541020](../reports/541020.md) | GetGlobalAchievementPercentagesForApp is missing the same re | Medium — CVSS 6.8 | — | 22 | [xpaw](https://hackerone.com/xpaw) | 2020-02-19 |
+| 74 | [852091](../reports/852091.md) | Privilege Escalation vulnerability in steam's Remote Play fe | Medium — CVSS 4.7 | — | 22 | [hydraskyteam](https://hackerone.com/hydraskyteam) | 2021-09-21 |
 | 75 | [349681](../reports/349681.md) | Aapp name leakage on economy history page | Medium — CVSS 5.0 | — | 16 | [xpaw](https://hackerone.com/xpaw) | 2018-05-24 |
-| 76 | [390429](../reports/390429.md) | Reflected XSS on help.steampowered.com | Medium — CVSS 4.6 | — | 14 | [xpaw](https://hackerone.com/xpaw) | 2019-01-07 |
-| 77 | [495789](../reports/495789.md) | Malformed .WAV triggers an Access Violation on GoldSRC (hl.e | Medium | — | 14 | [chippy](https://hackerone.com/chippy) | 2020-02-27 |
+| 76 | [495789](../reports/495789.md) | Malformed .WAV triggers an Access Violation on GoldSRC (hl.e | Medium | — | 14 | [chippy](https://hackerone.com/chippy) | 2020-02-27 |
+| 77 | [390429](../reports/390429.md) | Reflected XSS on help.steampowered.com | Medium — CVSS 4.6 | — | 14 | [xpaw](https://hackerone.com/xpaw) | 2019-01-07 |
 | 78 | [353334](../reports/353334.md) | Unfiltered input allows for XSS in "Playtime Item Grants" fi | Medium — CVSS 4.1 | — | 12 | [xpaw](https://hackerone.com/xpaw) | 2018-05-24 |
 | 79 | [2270633](../reports/2270633.md) | Web API key registration allows registering multiple keys by | Low — CVSS 3.5 | — | 37 | [xpaw](https://hackerone.com/xpaw) | 2023-12-12 |
 | 80 | [365504](../reports/365504.md) | Comment restriction in subsection "Workshop" of domain "stea | Low | — | 18 | [cosmossec](https://hackerone.com/cosmossec) | 2019-01-07 |

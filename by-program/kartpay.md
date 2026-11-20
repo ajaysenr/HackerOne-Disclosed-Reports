@@ -20,6 +20,6 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 14 | [642862](../reports/642862.md) | Option method enabled in kartpay Webservers | Low | — | 2 | [lollol1](https://hackerone.com/lollol1) | 2019-08-28 |
 | 15 | [642643](../reports/642643.md) | Bypass _token in forms [Merchant.Kartpay.com ] | None | — | 25 | [zxdrrr](https://hackerone.com/zxdrrr) | 2019-10-09 |
 | 16 | [642494](../reports/642494.md) | Application Error disclosure, Verification token seen error  | None | — | 6 | [amol01](https://hackerone.com/amol01) | 2019-08-28 |
-| 17 | [653214](../reports/653214.md) | Error Page Content Spoofing or Text Injection [https://vpn.k | None | — | 3 | [c00lbugs](https://hackerone.com/c00lbugs) | 2019-08-01 |
-| 18 | [643537](../reports/643537.md) | Reflected XSS on https://merchant.kartpay.com/payment_settin | None | — | 3 | [august1808](https://hackerone.com/august1808) | 2019-08-28 |
+| 17 | [643537](../reports/643537.md) | Reflected XSS on https://merchant.kartpay.com/payment_settin | None | — | 3 | [august1808](https://hackerone.com/august1808) | 2019-08-28 |
+| 18 | [653214](../reports/653214.md) | Error Page Content Spoofing or Text Injection [https://vpn.k | None | — | 3 | [c00lbugs](https://hackerone.com/c00lbugs) | 2019-08-01 |
 | 19 | [653221](../reports/653221.md) | XSS in https://merchant.kartpay.com/settlements | None | — | 1 | [c00lbugs](https://hackerone.com/c00lbugs) | 2019-08-28 |

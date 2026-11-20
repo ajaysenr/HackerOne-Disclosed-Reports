@@ -20,8 +20,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 14 | [109815](../reports/109815.md) | Direct URL access to completed reports | None | $200 | 2 | [roshanpty](https://hackerone.com/roshanpty) | 2016-03-06 |
 | 15 | [246801](../reports/246801.md) | Captcha Bypass in Coinbase SignUp Form | Low | $100 | 22 | [tejpratap](https://hackerone.com/tejpratap) | 2017-09-05 |
 | 16 | [248599](../reports/248599.md) | Information disclosure same issue #176002 | Low | $100 | 7 | [jobertevans](https://hackerone.com/jobertevans) | 2017-07-21 |
-| 17 | [53004](../reports/53004.md) | Blacklist bypass on Callback URLs | None | $100 | 12 | [agarri_fr](https://hackerone.com/agarri_fr) | 2016-09-14 |
-| 18 | [147577](../reports/147577.md) | Application error message | None | $100 | 12 | [dr_dragon](https://hackerone.com/dr_dragon) | 2016-11-28 |
+| 17 | [147577](../reports/147577.md) | Application error message | None | $100 | 12 | [dr_dragon](https://hackerone.com/dr_dragon) | 2016-11-28 |
+| 18 | [53004](../reports/53004.md) | Blacklist bypass on Callback URLs | None | $100 | 12 | [agarri_fr](https://hackerone.com/agarri_fr) | 2016-09-14 |
 | 19 | [57764](../reports/57764.md) | ByPassing the email Validation Email on Sign up process in m | None | $100 | 7 | [kaleemgiet](https://hackerone.com/kaleemgiet) | 2016-11-28 |
 | 20 | [168509](../reports/168509.md) | Information leakage on https://docs.gdax.com | None | $100 | 7 | [0xorigin](https://hackerone.com/0xorigin) | 2016-11-28 |
 | 21 | [90308](../reports/90308.md) | User email enumuration using Gmail | None | $100 | 6 | [paulos__](https://hackerone.com/paulos__) | 2015-12-23 |
@@ -46,41 +46,41 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 40 | [106360](../reports/106360.md) | Race condition allowing user to review app multiple times | None | — | 7 | [cablej](https://hackerone.com/cablej) | 2016-01-14 |
 | 41 | [148538](../reports/148538.md) | No authorization required in iOS device web-application | None | — | 7 | [ahsan](https://hackerone.com/ahsan) | 2016-06-30 |
 | 42 | [148952](../reports/148952.md) | Content Injection error page | None | — | 6 | [dr_dragon](https://hackerone.com/dr_dragon) | 2017-01-05 |
-| 43 | [160498](../reports/160498.md) | window.opener is leaking to external domains upon redirect o | None | — | 5 | [cablej](https://hackerone.com/cablej) | 2016-08-22 |
-| 44 | [66223](../reports/66223.md) | Two-factor authentication (via SMS) | None | — | 5 | [dia2diab](https://hackerone.com/dia2diab) | 2015-06-16 |
-| 45 | [155726](../reports/155726.md) | Create Multiple Account Using Similar X-CSRF token | None | — | 5 | [rajauzairabdullah](https://hackerone.com/rajauzairabdullah) | 2016-08-09 |
+| 43 | [155726](../reports/155726.md) | Create Multiple Account Using Similar X-CSRF token | None | — | 5 | [rajauzairabdullah](https://hackerone.com/rajauzairabdullah) | 2016-08-09 |
+| 44 | [148537](../reports/148537.md) | No authorization required in Windows phone web-application | None | — | 5 | [ahsan](https://hackerone.com/ahsan) | 2016-06-30 |
+| 45 | [160498](../reports/160498.md) | window.opener is leaking to external domains upon redirect o | None | — | 5 | [cablej](https://hackerone.com/cablej) | 2016-08-22 |
 | 46 | [16696](../reports/16696.md) | 2FA settings allowed to be changed with no delay/freeze on f | None | — | 5 | [bbohn](https://hackerone.com/bbohn) | 2014-08-25 |
-| 47 | [148537](../reports/148537.md) | No authorization required in Windows phone web-application | None | — | 5 | [ahsan](https://hackerone.com/ahsan) | 2016-06-30 |
-| 48 | [11722](../reports/11722.md) | Simultaneous Session Logon : Improper Session Management | None | — | 4 | [b76fad49b0533cc7149d9a4](https://hackerone.com/b76fad49b0533cc7149d9a4) | 2014-08-26 |
-| 49 | [119605](../reports/119605.md) | An adversary can overwhelm the resources by automating Forgo | None | — | 4 | [roshanpty](https://hackerone.com/roshanpty) | 2016-07-24 |
-| 50 | [109810](../reports/109810.md) | The 'Create a New Account' action is vulnerable to CSRF | None | — | 4 | [roshanpty](https://hackerone.com/roshanpty) | 2016-07-24 |
-| 51 | [5200](../reports/5200.md) | User Enumeration, Information Disclosure and Lack of Rate Li | None | — | 4 | [zero](https://hackerone.com/zero) | 2014-03-31 |
-| 52 | [5073](../reports/5073.md) | Information Disclosure That shows the webroot of CoinBase Se | None | — | 3 | [mazen160](https://hackerone.com/mazen160) | 2014-05-04 |
-| 53 | [104620](../reports/104620.md) | XXE in OAuth2 Applications gallery profile App logo | None | — | 3 | [s1ck-sec](https://hackerone.com/s1ck-sec) | 2015-12-16 |
-| 54 | [36594](../reports/36594.md) | New Device Confirmation, token is valid until not used.  | None | — | 3 | [lovepakistan](https://hackerone.com/lovepakistan) | 2015-05-24 |
-| 55 | [21034](../reports/21034.md) | Invoice Details activate JS that filled in  | None | — | 3 | [sasi2103](https://hackerone.com/sasi2103) | 2015-03-30 |
+| 47 | [66223](../reports/66223.md) | Two-factor authentication (via SMS) | None | — | 5 | [dia2diab](https://hackerone.com/dia2diab) | 2015-06-16 |
+| 48 | [5200](../reports/5200.md) | User Enumeration, Information Disclosure and Lack of Rate Li | None | — | 4 | [zero](https://hackerone.com/zero) | 2014-03-31 |
+| 49 | [109810](../reports/109810.md) | The 'Create a New Account' action is vulnerable to CSRF | None | — | 4 | [roshanpty](https://hackerone.com/roshanpty) | 2016-07-24 |
+| 50 | [119605](../reports/119605.md) | An adversary can overwhelm the resources by automating Forgo | None | — | 4 | [roshanpty](https://hackerone.com/roshanpty) | 2016-07-24 |
+| 51 | [11722](../reports/11722.md) | Simultaneous Session Logon : Improper Session Management | None | — | 4 | [b76fad49b0533cc7149d9a4](https://hackerone.com/b76fad49b0533cc7149d9a4) | 2014-08-26 |
+| 52 | [21034](../reports/21034.md) | Invoice Details activate JS that filled in  | None | — | 3 | [sasi2103](https://hackerone.com/sasi2103) | 2015-03-30 |
+| 53 | [54733](../reports/54733.md) | Sandboxed iframes don't show confirmation screen | None | — | 3 | [homakov](https://hackerone.com/homakov) | 2015-04-04 |
+| 54 | [5073](../reports/5073.md) | Information Disclosure That shows the webroot of CoinBase Se | None | — | 3 | [mazen160](https://hackerone.com/mazen160) | 2014-05-04 |
+| 55 | [104620](../reports/104620.md) | XXE in OAuth2 Applications gallery profile App logo | None | — | 3 | [s1ck-sec](https://hackerone.com/s1ck-sec) | 2015-12-16 |
 | 56 | [48065](../reports/48065.md) | open authentication bug | None | — | 3 | [ckmk44](https://hackerone.com/ckmk44) | 2015-03-11 |
-| 57 | [54733](../reports/54733.md) | Sandboxed iframes don't show confirmation screen | None | — | 3 | [homakov](https://hackerone.com/homakov) | 2015-04-04 |
+| 57 | [36594](../reports/36594.md) | New Device Confirmation, token is valid until not used.  | None | — | 3 | [lovepakistan](https://hackerone.com/lovepakistan) | 2015-05-24 |
 | 58 | [131192](../reports/131192.md) | User's legal name could be changed despite front end control | None | — | 2 | [apok](https://hackerone.com/apok) | 2016-05-05 |
-| 59 | [7369](../reports/7369.md) | 2 factor authentication design flaw | None | — | 2 | [ryancollins](https://hackerone.com/ryancollins) | 2014-06-06 |
+| 59 | [5199](../reports/5199.md) | Improper Validation of the Referrer header leading to Open U | None | — | 2 | [anshuman_bh](https://hackerone.com/anshuman_bh) | 2014-04-29 |
 | 60 | [29234](../reports/29234.md) | Credit Card Validation Issue | None | — | 2 | [whitj00](https://hackerone.com/whitj00) | 2015-03-12 |
-| 61 | [5199](../reports/5199.md) | Improper Validation of the Referrer header leading to Open U | None | — | 2 | [anshuman_bh](https://hackerone.com/anshuman_bh) | 2014-04-29 |
-| 62 | [5204](../reports/5204.md) |  Cookie missing the HttpOnly flag   | None | — | 2 | [0xsaikiran](https://hackerone.com/0xsaikiran) | 2014-04-30 |
-| 63 | [94925](../reports/94925.md) | Balance Manipulation - BUG | None | — | 2 | [datokaa](https://hackerone.com/datokaa) | 2016-02-26 |
-| 64 | [5205](../reports/5205.md) | IFRAME loaded from External Domains   | None | — | 2 | [0xsaikiran](https://hackerone.com/0xsaikiran) | 2014-04-30 |
-| 65 | [230428](../reports/230428.md) | Csrf bug on signup session | None | — | 2 | [dark_heaven](https://hackerone.com/dark_heaven) | 2017-08-30 |
-| 66 | [327867](../reports/327867.md) | User provided values trusted in sensitive actions | None | — | 1 | [paulos__](https://hackerone.com/paulos__) | 2018-04-09 |
-| 67 | [237071](../reports/237071.md) | X-Frame-Options | None | — | 1 | [dark_heaven](https://hackerone.com/dark_heaven) | 2017-06-22 |
-| 68 | [140742](../reports/140742.md) | Cookie not secure | None | — | 1 | [thalaivarsubu](https://hackerone.com/thalaivarsubu) | 2016-05-25 |
-| 69 | [65084](../reports/65084.md) | Big Bug with Vault which i have already reported: Case #6069 | None | — | 1 | [datokaa](https://hackerone.com/datokaa) | 2016-01-20 |
-| 70 | [55827](../reports/55827.md) | iframes considered harmful | None | — | 1 | [androm3da](https://hackerone.com/androm3da) | 2015-12-01 |
-| 71 | [143541](../reports/143541.md) | Transaction Pending Via  Ip Change  | None | — | 1 | [anik](https://hackerone.com/anik) | 2016-06-07 |
-| 72 | [292500](../reports/292500.md) | User provided values passed to PHP unset() function | None | — | 1 | [paulos__](https://hackerone.com/paulos__) | 2018-04-09 |
-| 73 | [10829](../reports/10829.md) | CSRF in function "Set as primary" on  accounts page | None | — | 1 | [b76fad49b0533cc7149d9a4](https://hackerone.com/b76fad49b0533cc7149d9a4) | 2014-06-06 |
-| 74 | [80512](../reports/80512.md) | Runtime manipulation iOS app breaking the PIN | None | — | 1 | [kaleemgiet](https://hackerone.com/kaleemgiet) | 2016-11-16 |
-| 75 | [121417](../reports/121417.md) | Inaccurate Payment receipt  | None | — | 1 | [dpgribkov](https://hackerone.com/dpgribkov) | 2017-08-30 |
-| 76 | [92740](../reports/92740.md) | SPF records not found | None | — | 1 | [brain](https://hackerone.com/brain) | 2015-10-14 |
-| 77 | [266288](../reports/266288.md) | New Device Confirmation Bug | None | — | 1 | [whysoleet](https://hackerone.com/whysoleet) | 2017-09-08 |
+| 61 | [5204](../reports/5204.md) |  Cookie missing the HttpOnly flag   | None | — | 2 | [0xsaikiran](https://hackerone.com/0xsaikiran) | 2014-04-30 |
+| 62 | [5205](../reports/5205.md) | IFRAME loaded from External Domains   | None | — | 2 | [0xsaikiran](https://hackerone.com/0xsaikiran) | 2014-04-30 |
+| 63 | [230428](../reports/230428.md) | Csrf bug on signup session | None | — | 2 | [dark_heaven](https://hackerone.com/dark_heaven) | 2017-08-30 |
+| 64 | [7369](../reports/7369.md) | 2 factor authentication design flaw | None | — | 2 | [ryancollins](https://hackerone.com/ryancollins) | 2014-06-06 |
+| 65 | [94925](../reports/94925.md) | Balance Manipulation - BUG | None | — | 2 | [datokaa](https://hackerone.com/datokaa) | 2016-02-26 |
+| 66 | [237071](../reports/237071.md) | X-Frame-Options | None | — | 1 | [dark_heaven](https://hackerone.com/dark_heaven) | 2017-06-22 |
+| 67 | [80512](../reports/80512.md) | Runtime manipulation iOS app breaking the PIN | None | — | 1 | [kaleemgiet](https://hackerone.com/kaleemgiet) | 2016-11-16 |
+| 68 | [266288](../reports/266288.md) | New Device Confirmation Bug | None | — | 1 | [whysoleet](https://hackerone.com/whysoleet) | 2017-09-08 |
+| 69 | [143541](../reports/143541.md) | Transaction Pending Via  Ip Change  | None | — | 1 | [anik](https://hackerone.com/anik) | 2016-06-07 |
+| 70 | [140742](../reports/140742.md) | Cookie not secure | None | — | 1 | [thalaivarsubu](https://hackerone.com/thalaivarsubu) | 2016-05-25 |
+| 71 | [55827](../reports/55827.md) | iframes considered harmful | None | — | 1 | [androm3da](https://hackerone.com/androm3da) | 2015-12-01 |
+| 72 | [327867](../reports/327867.md) | User provided values trusted in sensitive actions | None | — | 1 | [paulos__](https://hackerone.com/paulos__) | 2018-04-09 |
+| 73 | [65084](../reports/65084.md) | Big Bug with Vault which i have already reported: Case #6069 | None | — | 1 | [datokaa](https://hackerone.com/datokaa) | 2016-01-20 |
+| 74 | [92740](../reports/92740.md) | SPF records not found | None | — | 1 | [brain](https://hackerone.com/brain) | 2015-10-14 |
+| 75 | [292500](../reports/292500.md) | User provided values passed to PHP unset() function | None | — | 1 | [paulos__](https://hackerone.com/paulos__) | 2018-04-09 |
+| 76 | [10829](../reports/10829.md) | CSRF in function "Set as primary" on  accounts page | None | — | 1 | [b76fad49b0533cc7149d9a4](https://hackerone.com/b76fad49b0533cc7149d9a4) | 2014-06-06 |
+| 77 | [121417](../reports/121417.md) | Inaccurate Payment receipt  | None | — | 1 | [dpgribkov](https://hackerone.com/dpgribkov) | 2017-08-30 |
 | 78 | [254869](../reports/254869.md) | Device confirmation Flaw | None | — | 0 | [mohammad_obaid](https://hackerone.com/mohammad_obaid) | 2017-08-02 |
 | 79 | [106315](../reports/106315.md) | Potential for Double Spend via Sign Message Utility | None | — | 0 | [ddworken](https://hackerone.com/ddworken) | 2016-01-06 |
 | 80 | [230436](../reports/230436.md) | CSRF bug on password change | None | — | 0 | [dark_heaven](https://hackerone.com/dark_heaven) | 2017-08-28 |

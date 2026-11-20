@@ -37,8 +37,8 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 31 | [792737](../reports/792737.md) | Password Reset Link not expiring after changing the email Le | Low | — | 8 | [dantt](https://hackerone.com/dantt) | 2020-10-27 |
 | 32 | [791674](../reports/791674.md) | Expired Available Domains in nordvpn.com website code | None | — | 29 | [khizer47](https://hackerone.com/khizer47) | 2020-03-23 |
 | 33 | [803141](../reports/803141.md) | Unauthorized User Can Delete Any User Account | None | — | 25 | [d4rk_g1rl](https://hackerone.com/d4rk_g1rl) | 2020-03-26 |
-| 34 | [792850](../reports/792850.md) | Hard-coded API keys at NordVpn Android App | None | — | 11 | [dantt](https://hackerone.com/dantt) | 2020-03-27 |
-| 35 | [791826](../reports/791826.md) | Misconfigured web directory allows to retrieve public proxy  | None | — | 11 | [zhh](https://hackerone.com/zhh) | 2020-06-29 |
+| 34 | [791826](../reports/791826.md) | Misconfigured web directory allows to retrieve public proxy  | None | — | 11 | [zhh](https://hackerone.com/zhh) | 2020-06-29 |
+| 35 | [792850](../reports/792850.md) | Hard-coded API keys at NordVpn Android App | None | — | 11 | [dantt](https://hackerone.com/dantt) | 2020-03-27 |
 | 36 | [803941](../reports/803941.md) | NordVPN Android Application privacy violation due to Google  | None | — | 11 | [tomtenisse](https://hackerone.com/tomtenisse) | 2020-06-25 |
 | 37 | [789260](../reports/789260.md) | Past payments using the Direct Debit method keep subscriptio | None | — | 9 | [zaitunoil](https://hackerone.com/zaitunoil) | 2020-02-21 |
 | 38 | [817244](../reports/817244.md) | The Linux binaries (nordvpn and nordvpnd) don't use PIE/ASLR | None | — | 3 | [skyplabs](https://hackerone.com/skyplabs) | 2020-04-22 |
