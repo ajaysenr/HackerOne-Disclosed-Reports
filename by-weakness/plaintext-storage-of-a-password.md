@@ -11,6 +11,6 @@
 | 5 | [1806275](../reports/1806275.md) | Mail app stores cleartext password in database until OAUTH2 setup | [Nextcloud](../by-program/nextcloud.md) | Low — CVSS 1.8 | — | 12 |
 | 6 | [602596](../reports/602596.md) | Plain text password for 'unknown' user exist in URL when opening  | [ok.ru](../by-program/ok.md) | Low | — | 3 |
 | 7 | [264426](../reports/264426.md) | Nextcloud logs ldap passwords | [Nextcloud](../by-program/nextcloud.md) | Low | — | 2 |
-| 8 | [796139](../reports/796139.md) | Github test clientID and clientSecret leaked | [Kubernetes](../by-program/kubernetes.md) | Low | — | 2 |
-| 9 | [885041](../reports/885041.md) | The password of a mail share is not hashed if the password is giv | [Nextcloud](../by-program/nextcloud.md) | Low | — | 2 |
+| 8 | [885041](../reports/885041.md) | The password of a mail share is not hashed if the password is giv | [Nextcloud](../by-program/nextcloud.md) | Low | — | 2 |
+| 9 | [796139](../reports/796139.md) | Github test clientID and clientSecret leaked | [Kubernetes](../by-program/kubernetes.md) | Low | — | 2 |
 | 10 | [872190](../reports/872190.md) | Plaintext storage of a password on kubernetes release bucket | [Kubernetes](../by-program/kubernetes.md) | None | — | 0 |
