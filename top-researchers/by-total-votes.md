@@ -2927,7 +2927,7 @@
 | 2923 | [qss](https://hackerone.com/qss) | 1 | $0 | 15 |
 | 2924 | [qotoz](https://hackerone.com/qotoz) | 1 | $0 | 15 |
 | 2925 | [jreynoldsdev](https://hackerone.com/jreynoldsdev) | 2 | $0 | 15 |
-| 2926 | [mcollina](https://hackerone.com/mcollina) | 2 | $0 | 15 |
+| 2926 | [mcollina](https://hackerone.com/mcollina) | 3 | $0 | 15 |
 | 2927 | [0x3bdo](https://hackerone.com/0x3bdo) | 1 | $0 | 15 |
 | 2928 | [xlife](https://hackerone.com/xlife) | 2 | $0 | 15 |
 | 2929 | [orcahack](https://hackerone.com/orcahack) | 1 | $0 | 15 |

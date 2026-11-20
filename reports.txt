@@ -12594,6 +12594,7 @@ https://hackerone.com/reports/4103651 | TFTP accepts a first response from an IP
 https://hackerone.com/reports/4105212 | CPU Exhaustion via Crafted TOML Files in translation-finder
 https://hackerone.com/reports/4105790 | FTP authentication options leak to a cross-origin FTP redirect with unrestricted auth disabled
 https://hackerone.com/reports/4105853 | libcurl TLS shorter-retry mismatch discloses client heap memory during cancelled IMAPS upload
+https://hackerone.com/reports/4107681 | Node.js Brotli decoder out-of-bounds write permits remote code execution
 https://hackerone.com/reports/4110110 | HTTP/2 stream teardown can send freed response memory to the peer
 https://hackerone.com/reports/4112709 | CVE-2026-111482: libssh2 knownhosts prefix match
 https://hackerone.com/reports/4112912 | CVE-2026-111481: server-set cookie still aborts cookie jar

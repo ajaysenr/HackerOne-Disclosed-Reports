@@ -246197,6 +246197,25 @@
     "votes": 1
   },
   {
+    "id": 4107681,
+    "url": "https://hackerone.com/reports/4107681",
+    "title": "Node.js Brotli decoder out-of-bounds write permits remote code execution",
+    "visibility": "no-content",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "mcollina",
+    "severity": "high",
+    "cvss": 8.1,
+    "weakness": "Classic Buffer Overflow",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-12",
+    "disclosed_at": "2026-11-20T21:03:39.213Z",
+    "votes": 0
+  },
+  {
     "id": 4110110,
     "url": "https://hackerone.com/reports/4110110",
     "title": "HTTP/2 stream teardown can send freed response memory to the peer",

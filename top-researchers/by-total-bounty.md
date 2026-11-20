@@ -1998,7 +1998,7 @@
 | 1994 | [vorismi3](https://hackerone.com/vorismi3) | 1 | $0 | 0 |
 | 1995 | [th3hound](https://hackerone.com/th3hound) | 1 | $0 | 0 |
 | 1996 | [joker7889](https://hackerone.com/joker7889) | 1 | $0 | 17 |
-| 1997 | [mcollina](https://hackerone.com/mcollina) | 2 | $0 | 15 |
+| 1997 | [mcollina](https://hackerone.com/mcollina) | 3 | $0 | 15 |
 | 1998 | [trabajoduro_2](https://hackerone.com/trabajoduro_2) | 2 | $0 | 20 |
 | 1999 | [laz0rde](https://hackerone.com/laz0rde) | 2 | $0 | 25 |
 | 2000 | [sravani_1234](https://hackerone.com/sravani_1234) | 1 | $0 | 1 |
