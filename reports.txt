@@ -10638,6 +10638,7 @@ https://hackerone.com/reports/2110945 | Memcached used as RateLimiter backend is
 https://hackerone.com/reports/2111291 | Stored Xss on bugzilla.mozilla.org via comment edit feature from non-admin to admin.
 https://hackerone.com/reports/2112973 | Enabling Birthday Contact to any user
 https://hackerone.com/reports/2115212 | DNS pin middleware can be tricked into DNS rebinding allowing SSRF
+https://hackerone.com/reports/2119149 | Evernote(WindowsApp) XSS to RCE
 https://hackerone.com/reports/2119892 | clickjacing can lead to account takeover
 https://hackerone.com/reports/2120667 | Bypass password confirmation via Context-dependent access control (CDCA)
 https://hackerone.com/reports/2120719 | Dependency Policy Bypass via process.binding
@@ -12606,6 +12607,7 @@ https://hackerone.com/reports/4116527 | CVE-2026-111878: OpenSSL provider UAF on
 https://hackerone.com/reports/4117330 | Anonymous Translation Suggestion IP Address Exposure Through Change API
 https://hackerone.com/reports/4118610 | CVE-2026-111484: OpenSSL with SecTrust accepts bad OCSP staples
 https://hackerone.com/reports/4118643 | OpenSSL provider OSSL_LIB_CTX used after free via the connection shutdown list (CVE-2026-80229 fix incomplete)
+https://hackerone.com/reports/4119675 | Project-scoped language_aliases reaches LanguageManager.auto_create() unvalidated, creating site-wide Language rows without language.add
 https://hackerone.com/reports/4121675 | CRLF injection in the RTSP request-line and Transport header via `CURLOPT_RTSP_STREAM_URI` and `CURLOPT_RTSP_TRANSPORT`
 https://hackerone.com/reports/4121685 | curl RTSP connection reuse routes response headers to the RTP callback (rtsp_conn state machine not reset between sessions)
 https://hackerone.com/reports/4121689 | CRLF injection in the HTTP request-line via `CURLOPT_REQUEST_TARGET` (`--request-target`)

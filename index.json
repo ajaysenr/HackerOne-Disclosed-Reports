@@ -207789,6 +207789,25 @@
     "votes": 38
   },
   {
+    "id": 2119149,
+    "url": "https://hackerone.com/reports/2119149",
+    "title": "Evernote(WindowsApp) XSS to RCE",
+    "visibility": "full",
+    "program": "Evernote",
+    "program_handle": "evernote",
+    "reporter": "astelynk",
+    "severity": "high",
+    "cvss": 8.3,
+    "weakness": "Code Injection",
+    "bounty": 2000.0,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "WINDOWS_APP_STORE_APP_ID",
+    "reported_at": "2023-08-21",
+    "disclosed_at": "2026-11-21T17:00:03.537Z",
+    "votes": 7
+  },
+  {
     "id": 2119892,
     "url": "https://hackerone.com/reports/2119892",
     "title": "clickjacing can lead to account takeover",
@@ -246446,6 +246465,28 @@
     "reported_at": "2026-10-16",
     "disclosed_at": "2026-10-26T09:10:35.854Z",
     "votes": 1
+  },
+  {
+    "id": 4119675,
+    "url": "https://hackerone.com/reports/4119675",
+    "title": "Project-scoped language_aliases reaches LanguageManager.auto_create() unvalidated, creating site-wide Language rows without language.add",
+    "visibility": "full",
+    "program": "Weblate",
+    "program_handle": "weblate",
+    "reporter": "audion",
+    "severity": "medium",
+    "cvss": 6.4,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2025-68398",
+      "CVE-2026-86035"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-16",
+    "disclosed_at": "2026-11-21T12:53:03.751Z",
+    "votes": 7
   },
   {
     "id": 4121675,
