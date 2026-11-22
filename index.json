@@ -242295,6 +242295,25 @@
     "votes": 1
   },
   {
+    "id": 3892948,
+    "url": "https://hackerone.com/reports/3892948",
+    "title": "Broken access control: any member can self-assign arbitrary BuddyPress member types via the ungated \"types\" REST parameter, bypassing the bp_moderate ",
+    "visibility": "full",
+    "program": "WordPress",
+    "program_handle": "wordpress",
+    "reporter": "jakubk",
+    "severity": "medium",
+    "cvss": 6.4,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-07-27",
+    "disclosed_at": "2026-11-22T11:33:05.851Z",
+    "votes": 3
+  },
+  {
     "id": 3893632,
     "url": "https://hackerone.com/reports/3893632",
     "title": "Unauthenticated disclosure of draft/private/pending post titles & IDs via Secure Custom Fields nopriv AJAX field-query handlers (post_object/relations",

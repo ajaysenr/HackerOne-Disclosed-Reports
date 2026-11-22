@@ -1460,7 +1460,7 @@
 | 1456 | [razahack](https://hackerone.com/razahack) | 1 | $0 | 18 |
 | 1457 | [tp9222](https://hackerone.com/tp9222) | 1 | $0 | 35 |
 | 1458 | [demo--hacker](https://hackerone.com/demo--hacker) | 3 | $0 | 19 |
-| 1459 | [jakubk](https://hackerone.com/jakubk) | 6 | $0 | 29 |
+| 1459 | [jakubk](https://hackerone.com/jakubk) | 7 | $0 | 32 |
 | 1460 | [superkritisch](https://hackerone.com/superkritisch) | 1 | $0 | 2 |
 | 1461 | [keval_j](https://hackerone.com/keval_j) | 1 | $0 | 1 |
 | 1462 | [alexb_616](https://hackerone.com/alexb_616) | 1 | $0 | 31 |

@@ -12397,6 +12397,7 @@ https://hackerone.com/reports/3890352 | Connector/C++ aborts client process on s
 https://hackerone.com/reports/3891319 | Stack buffer overflow in 9 of 10 Connector/ODBC catalog functions via unbounded name
 https://hackerone.com/reports/3891337 | Connector/ODBC SQLGetDescRec treats descriptor handle as statement handle, heap OOB write on every call
 https://hackerone.com/reports/3891779 | Connector/ODBC injects unquoted column names into positioned DELETE and UPDATE via MADB_DynStrGetWhere
+https://hackerone.com/reports/3892948 | Broken access control: any member can self-assign arbitrary BuddyPress member types via the ungated "types" REST parameter, bypassing the bp_moderate
 https://hackerone.com/reports/3893632 | Unauthenticated disclosure of draft/private/pending post titles & IDs via Secure Custom Fields nopriv AJAX field-query handlers (post_object/relations
 https://hackerone.com/reports/3896507 | Server crash (stack-overflow DoS) via unbounded recursion in MariaDB WKB GEOMETRYCOLLECTION parser
 https://hackerone.com/reports/3896617 | Connector/C TLS auth-switch bypass exposes plaintext password on hostname verification failure
