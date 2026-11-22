@@ -1,4 +1,4 @@
-# Node.js — Disclosed Reports (170 total)
+# Node.js — Disclosed Reports (172 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -137,40 +137,42 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 131 | [3676863](../reports/3676863.md) | Unbounded memory growth in `node:http2` clients via attacker | Medium — CVSS 5.3 | — | 1 | [kingsd](https://hackerone.com/kingsd) | 2026-06-25 |
 | 132 | [3656716](../reports/3656716.md) | Embedded-nul hostnames can lead to silent authority rebindin | Medium — CVSS 5.6 | — | 1 | [tmeletlidis](https://hackerone.com/tmeletlidis) | 2026-06-25 |
 | 133 | [3649802](../reports/3649802.md) | TLS host identity verification bypass via session reuse with | Medium — CVSS 4.3 | — | 1 | [3d7omb](https://hackerone.com/3d7omb) | 2026-06-25 |
-| 134 | [3962304](../reports/3962304.md) | Improper certificate validation for non-canonical IPv4 hostn | Medium — CVSS 6.7 | — | 0 | [br41ny](https://hackerone.com/br41ny) | 2026-10-23 |
-| 135 | [3824331](../reports/3824331.md) | Null Dereference in X509ToObject | Medium — CVSS 5.9 | — | 0 | [hahahkim](https://hackerone.com/hahahkim) | 2026-10-23 |
-| 136 | [3812439](../reports/3812439.md) | HTTPS Agent TLS session reuse skips hostname verification ac | Medium — CVSS 6.3 | — | 0 | [vnyuh](https://hackerone.com/vnyuh) | 2026-07-30 |
-| 137 | [3083428](../reports/3083428.md) | Corrupted pointer in node::fs::ReadFileUtf8(const FunctionCa | Low — CVSS 3.7 | — | 59 | [justinnietzel](https://hackerone.com/justinnietzel) | 2025-05-15 |
-| 138 | [2079103](../reports/2079103.md) | Permission model improperly processes UNC paths | Low — CVSS 3.6 | — | 35 | [tniessen](https://hackerone.com/tniessen) | 2024-07-15 |
-| 139 | [3390084](../reports/3390084.md) | fs.futimes() Bypasses Read-Only Permission Model | Low — CVSS 2.8 | — | 33 | [oriotie](https://hackerone.com/oriotie) | 2026-01-15 |
-| 140 | [2472071](../reports/2472071.md) | fs.fchown/fchmod bypasses permission model | Low — CVSS 3.3 | — | 20 | [4xpl0r3r](https://hackerone.com/4xpl0r3r) | 2024-07-09 |
-| 141 | [2145862](../reports/2145862.md) | fs.lstat bypasses permission model | Low — CVSS 2.9 | — | 18 | [haxatron1](https://hackerone.com/haxatron1) | 2024-07-09 |
-| 142 | [2352957](../reports/2352957.md) | Proxy-Authorization header is not cleared in cross-domain re | Low | — | 18 | [timon8](https://hackerone.com/timon8) | 2024-03-12 |
-| 143 | [1431042](../reports/1431042.md) | Prototype pollution via console.table properties | Low — CVSS 2.2 | — | 15 | [rugvip](https://hackerone.com/rugvip) | 2022-01-11 |
-| 144 | [3480841](../reports/3480841.md) | Permission Model Bypass in realpathSync.native Allows File E | Low — CVSS 3.3 | — | 14 | [stif](https://hackerone.com/stif) | 2026-03-30 |
-| 145 | [2408074](../reports/2408074.md) | Proxy-Authorization header not cleared on cross-origin redir | Low | — | 9 | [iylz](https://hackerone.com/iylz) | 2024-05-03 |
-| 146 | [3838601](../reports/3838601.md) | Permission Model Bypass: `trace_events.createTracing().enabl | Low — CVSS 3.3 | — | 8 | [0xoroot](https://hackerone.com/0xoroot) | 2026-07-29 |
-| 147 | [2051224](../reports/2051224.md) | fs.statfs bypasses Permission Model | Low — CVSS 3.3 | — | 8 | [rafaelgss](https://hackerone.com/rafaelgss) | 2023-09-10 |
-| 148 | [3692858](../reports/3692858.md) | Permission Model Bypass via `process.report.writeReport()` P | Low — CVSS 1.8 | — | 8 | [suul](https://hackerone.com/suul) | 2026-06-18 |
-| 149 | [3449392](../reports/3449392.md) | CVE-2024-36137 Patch Bypass - FileHandle.chmod/chown | Low — CVSS 3.3 | — | 6 | [wooseokdotkim](https://hackerone.com/wooseokdotkim) | 2026-03-30 |
-| 150 | [1625036](../reports/1625036.md) | Insecure loading of ICU data through ICU_DATA environment va | Low — CVSS 3.0 | — | 4 | [bnoordhuis](https://hackerone.com/bnoordhuis) | 2023-03-19 |
-| 151 | [2037887](../reports/2037887.md) | fs.mkdtemp() and fs.mkdtempSync() are missing getValidatedPa | Low — CVSS 2.9 | — | 4 | [haxatron1](https://hackerone.com/haxatron1) | 2023-08-11 |
-| 152 | [3564941](../reports/3564941.md) | HTTP Request Smuggling via Silent Header Truncation in Node. | Low — CVSS 3.7 | — | 3 | [yushengchen](https://hackerone.com/yushengchen) | 2026-08-28 |
-| 153 | [1784449](../reports/1784449.md) | Regular Expression Denial of Service in Headers | Low — CVSS 3.1 | — | 3 | [sno2](https://hackerone.com/sno2) | 2023-03-19 |
-| 154 | [3582376](../reports/3582376.md) | HTTP Response Queue Poisoning via TOCTOU Race Condition in ` | Low — CVSS 3.7 | — | 2 | [yushengchen](https://hackerone.com/yushengchen) | 2026-06-25 |
-| 155 | [446662](../reports/446662.md) | Node.js HTTP/2 Large Settings Frame DoS | Low | — | 2 | [galgo](https://hackerone.com/galgo) | 2020-07-02 |
-| 156 | [3838675](../reports/3838675.md) | Permission Model bypass with fs.realpathSync | Low — CVSS 3.3 | — | 1 | [0xoroot](https://hackerone.com/0xoroot) | 2026-10-23 |
-| 157 | [3996423](../reports/3996423.md) | Permission Model filesystem over-grant via wildcard radix lo | Low — CVSS 3.6 | — | 1 | [malikhamzaiqbal](https://hackerone.com/malikhamzaiqbal) | 2026-10-27 |
-| 158 | [3815767](../reports/3815767.md) | Permission Model bypass: process.report writes (and overwrit | Low — CVSS 3.3 | — | 1 | [sinan-polat](https://hackerone.com/sinan-polat) | 2026-07-30 |
-| 159 | [3618831](../reports/3618831.md) | Unix domain socket server bypasses --permission network rest | Low — CVSS 3.3 | — | 1 | [cyberjoker](https://hackerone.com/cyberjoker) | 2026-06-25 |
-| 160 | [3625987](../reports/3625987.md) | Permission Model bypass via FileHandle.utimes() in the promi | Low — CVSS 3.3 | — | 1 | [muhammaddaffa](https://hackerone.com/muhammaddaffa) | 2026-06-25 |
-| 161 | [3302484](../reports/3302484.md) | CWE-195 in ExternalMemoryAccounter::Increase() | None | — | 55 | [codingthunder](https://hackerone.com/codingthunder) | 2025-08-26 |
-| 162 | [340580](../reports/340580.md) | registry.nodejs.org Subdomain Takeover | None | — | 35 | [dade](https://hackerone.com/dade) | 2018-05-04 |
-| 163 | [3456148](../reports/3456148.md) | Unbounded decompression chain in HTTP responses on Node.js F | None | — | 24 | [illia-v](https://hackerone.com/illia-v) | 2026-02-23 |
-| 164 | [2260337](../reports/2260337.md) | Permissions can be bypassed via arbitrary code execution thr | None | — | 20 | [xion](https://hackerone.com/xion) | 2024-08-08 |
-| 165 | [2377760](../reports/2377760.md) | fetch with integrity option is too lax when algorithm is spe | None | — | 11 | [uzlopak](https://hackerone.com/uzlopak) | 2024-05-03 |
-| 166 | [878181](../reports/878181.md) | Child process environment injection via prototype pollution | None | — | 3 | [coreyfarrell](https://hackerone.com/coreyfarrell) | 2020-07-04 |
-| 167 | [678487](../reports/678487.md) | Hostname spoofing | None | — | 3 | [tosh](https://hackerone.com/tosh) | 2020-01-10 |
-| 168 | [629879](../reports/629879.md) | loader.js is not secure | None | — | 3 | [cdpython](https://hackerone.com/cdpython) | 2020-06-11 |
-| 169 | [340053](../reports/340053.md) | Use After Free in crypto.randomFill | None | — | 2 | [tunz](https://hackerone.com/tunz) | 2020-01-15 |
-| 170 | [676710](../reports/676710.md) | Http response is not ended although underlying socket is alr | None | — | 1 | [verdaster](https://hackerone.com/verdaster) | 2020-01-15 |
+| 134 | [4059814](../reports/4059814.md) | crypto.randomUUID() and randomInt() entropy caches are saved | Medium — CVSS 4.8 | — | 0 | [gesposito](https://hackerone.com/gesposito) | 2026-11-22 |
+| 135 | [3962304](../reports/3962304.md) | Improper certificate validation for non-canonical IPv4 hostn | Medium — CVSS 6.7 | — | 0 | [br41ny](https://hackerone.com/br41ny) | 2026-10-23 |
+| 136 | [3824331](../reports/3824331.md) | Null Dereference in X509ToObject | Medium — CVSS 5.9 | — | 0 | [hahahkim](https://hackerone.com/hahahkim) | 2026-10-23 |
+| 137 | [3812439](../reports/3812439.md) | HTTPS Agent TLS session reuse skips hostname verification ac | Medium — CVSS 6.3 | — | 0 | [vnyuh](https://hackerone.com/vnyuh) | 2026-07-30 |
+| 138 | [3083428](../reports/3083428.md) | Corrupted pointer in node::fs::ReadFileUtf8(const FunctionCa | Low — CVSS 3.7 | — | 59 | [justinnietzel](https://hackerone.com/justinnietzel) | 2025-05-15 |
+| 139 | [2079103](../reports/2079103.md) | Permission model improperly processes UNC paths | Low — CVSS 3.6 | — | 35 | [tniessen](https://hackerone.com/tniessen) | 2024-07-15 |
+| 140 | [3390084](../reports/3390084.md) | fs.futimes() Bypasses Read-Only Permission Model | Low — CVSS 2.8 | — | 33 | [oriotie](https://hackerone.com/oriotie) | 2026-01-15 |
+| 141 | [2472071](../reports/2472071.md) | fs.fchown/fchmod bypasses permission model | Low — CVSS 3.3 | — | 20 | [4xpl0r3r](https://hackerone.com/4xpl0r3r) | 2024-07-09 |
+| 142 | [2145862](../reports/2145862.md) | fs.lstat bypasses permission model | Low — CVSS 2.9 | — | 18 | [haxatron1](https://hackerone.com/haxatron1) | 2024-07-09 |
+| 143 | [2352957](../reports/2352957.md) | Proxy-Authorization header is not cleared in cross-domain re | Low | — | 18 | [timon8](https://hackerone.com/timon8) | 2024-03-12 |
+| 144 | [1431042](../reports/1431042.md) | Prototype pollution via console.table properties | Low — CVSS 2.2 | — | 15 | [rugvip](https://hackerone.com/rugvip) | 2022-01-11 |
+| 145 | [3480841](../reports/3480841.md) | Permission Model Bypass in realpathSync.native Allows File E | Low — CVSS 3.3 | — | 14 | [stif](https://hackerone.com/stif) | 2026-03-30 |
+| 146 | [2408074](../reports/2408074.md) | Proxy-Authorization header not cleared on cross-origin redir | Low | — | 9 | [iylz](https://hackerone.com/iylz) | 2024-05-03 |
+| 147 | [3838601](../reports/3838601.md) | Permission Model Bypass: `trace_events.createTracing().enabl | Low — CVSS 3.3 | — | 8 | [0xoroot](https://hackerone.com/0xoroot) | 2026-07-29 |
+| 148 | [2051224](../reports/2051224.md) | fs.statfs bypasses Permission Model | Low — CVSS 3.3 | — | 8 | [rafaelgss](https://hackerone.com/rafaelgss) | 2023-09-10 |
+| 149 | [3692858](../reports/3692858.md) | Permission Model Bypass via `process.report.writeReport()` P | Low — CVSS 1.8 | — | 8 | [suul](https://hackerone.com/suul) | 2026-06-18 |
+| 150 | [3449392](../reports/3449392.md) | CVE-2024-36137 Patch Bypass - FileHandle.chmod/chown | Low — CVSS 3.3 | — | 6 | [wooseokdotkim](https://hackerone.com/wooseokdotkim) | 2026-03-30 |
+| 151 | [1625036](../reports/1625036.md) | Insecure loading of ICU data through ICU_DATA environment va | Low — CVSS 3.0 | — | 4 | [bnoordhuis](https://hackerone.com/bnoordhuis) | 2023-03-19 |
+| 152 | [2037887](../reports/2037887.md) | fs.mkdtemp() and fs.mkdtempSync() are missing getValidatedPa | Low — CVSS 2.9 | — | 4 | [haxatron1](https://hackerone.com/haxatron1) | 2023-08-11 |
+| 153 | [3564941](../reports/3564941.md) | HTTP Request Smuggling via Silent Header Truncation in Node. | Low — CVSS 3.7 | — | 3 | [yushengchen](https://hackerone.com/yushengchen) | 2026-08-28 |
+| 154 | [1784449](../reports/1784449.md) | Regular Expression Denial of Service in Headers | Low — CVSS 3.1 | — | 3 | [sno2](https://hackerone.com/sno2) | 2023-03-19 |
+| 155 | [3582376](../reports/3582376.md) | HTTP Response Queue Poisoning via TOCTOU Race Condition in ` | Low — CVSS 3.7 | — | 2 | [yushengchen](https://hackerone.com/yushengchen) | 2026-06-25 |
+| 156 | [446662](../reports/446662.md) | Node.js HTTP/2 Large Settings Frame DoS | Low | — | 2 | [galgo](https://hackerone.com/galgo) | 2020-07-02 |
+| 157 | [3838675](../reports/3838675.md) | Permission Model bypass with fs.realpathSync | Low — CVSS 3.3 | — | 1 | [0xoroot](https://hackerone.com/0xoroot) | 2026-10-23 |
+| 158 | [3996423](../reports/3996423.md) | Permission Model filesystem over-grant via wildcard radix lo | Low — CVSS 3.6 | — | 1 | [malikhamzaiqbal](https://hackerone.com/malikhamzaiqbal) | 2026-10-27 |
+| 159 | [3815767](../reports/3815767.md) | Permission Model bypass: process.report writes (and overwrit | Low — CVSS 3.3 | — | 1 | [sinan-polat](https://hackerone.com/sinan-polat) | 2026-07-30 |
+| 160 | [3618831](../reports/3618831.md) | Unix domain socket server bypasses --permission network rest | Low — CVSS 3.3 | — | 1 | [cyberjoker](https://hackerone.com/cyberjoker) | 2026-06-25 |
+| 161 | [3625987](../reports/3625987.md) | Permission Model bypass via FileHandle.utimes() in the promi | Low — CVSS 3.3 | — | 1 | [muhammaddaffa](https://hackerone.com/muhammaddaffa) | 2026-06-25 |
+| 162 | [4004290](../reports/4004290.md) | Node.js ZipFile returns attacker-controlled prefix bytes aft | Low — CVSS 3.7 | — | 0 | [startimeash](https://hackerone.com/startimeash) | 2026-11-22 |
+| 163 | [3302484](../reports/3302484.md) | CWE-195 in ExternalMemoryAccounter::Increase() | None | — | 55 | [codingthunder](https://hackerone.com/codingthunder) | 2025-08-26 |
+| 164 | [340580](../reports/340580.md) | registry.nodejs.org Subdomain Takeover | None | — | 35 | [dade](https://hackerone.com/dade) | 2018-05-04 |
+| 165 | [3456148](../reports/3456148.md) | Unbounded decompression chain in HTTP responses on Node.js F | None | — | 24 | [illia-v](https://hackerone.com/illia-v) | 2026-02-23 |
+| 166 | [2260337](../reports/2260337.md) | Permissions can be bypassed via arbitrary code execution thr | None | — | 20 | [xion](https://hackerone.com/xion) | 2024-08-08 |
+| 167 | [2377760](../reports/2377760.md) | fetch with integrity option is too lax when algorithm is spe | None | — | 11 | [uzlopak](https://hackerone.com/uzlopak) | 2024-05-03 |
+| 168 | [878181](../reports/878181.md) | Child process environment injection via prototype pollution | None | — | 3 | [coreyfarrell](https://hackerone.com/coreyfarrell) | 2020-07-04 |
+| 169 | [678487](../reports/678487.md) | Hostname spoofing | None | — | 3 | [tosh](https://hackerone.com/tosh) | 2020-01-10 |
+| 170 | [629879](../reports/629879.md) | loader.js is not secure | None | — | 3 | [cdpython](https://hackerone.com/cdpython) | 2020-06-11 |
+| 171 | [340053](../reports/340053.md) | Use After Free in crypto.randomFill | None | — | 2 | [tunz](https://hackerone.com/tunz) | 2020-01-15 |
+| 172 | [676710](../reports/676710.md) | Http response is not ended although underlying socket is alr | None | — | 1 | [verdaster](https://hackerone.com/verdaster) | 2020-01-15 |

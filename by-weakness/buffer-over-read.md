@@ -1,4 +1,4 @@
-# Weakness: Buffer Over-read (57 reports)
+# Weakness: Buffer Over-read (58 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -44,20 +44,21 @@
 | 38 | [261336](../reports/261336.md) | Out of Bounds Memory Read in unserialize() | [Internet Bug Bounty](../by-program/ibb.md) | Medium | — | 7 |
 | 39 | [255587](../reports/255587.md) |  CVE-2017-1000101: cURL: URL globbing out of bounds read | [Internet Bug Bounty](../by-program/ibb.md) | Medium — CVSS 4.3 | — | 5 |
 | 40 | [1209681](../reports/1209681.md) | OOB read in libuv | [Node.js](../by-program/nodejs.md) | Medium — CVSS 6.5 | — | 5 |
-| 41 | [2629968](../reports/2629968.md) | CVE-2024-7264: ASN.1 date parser overread | [curl](../by-program/curl.md) | Low | — | 53 |
-| 42 | [3294999](../reports/3294999.md) | CVE-2025-9086: Out of bounds read for cookie path | [curl](../by-program/curl.md) | Low | — | 36 |
-| 43 | [2621062](../reports/2621062.md) | curl: stack-buffer overread during punycode conversions | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 31 |
-| 44 | [2604391](../reports/2604391.md) | CVE-2024-6874: macidn punycode buffer overread | [curl](../by-program/curl.md) | Low | — | 25 |
-| 45 | [481335](../reports/481335.md) | Security check failure or stack buffer overrun (crash) | [Notepad++](../by-program/notepad-plus-plus.md) | Low | — | 18 |
-| 46 | [340012](../reports/340012.md) | Buffer out of bound read in miniupnpc xml parser  | [Monero](../by-program/monero.md) | Low | — | 13 |
-| 47 | [3508321](../reports/3508321.md) | Integer-underflow leads to heap over-read in TFTP implementation | [curl](../by-program/curl.md) | Low | — | 7 |
-| 48 | [1595296](../reports/1595296.md) | Read beyond bounds in mod_isapi.c [zhbug_httpd_41] | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
-| 49 | [3751697](../reports/3751697.md) | CVE-2026-10536: HTTP/2 stream-dependency tree UAF | [curl](../by-program/curl.md) | Low | — | 3 |
-| 50 | [4099194](../reports/4099194.md) | CVE-2026-107928: info leak uploading over WebSockets with GnuTLS | [curl](../by-program/curl.md) | Low | — | 1 |
-| 51 | [1073363](../reports/1073363.md) | Index Out Of Bounds in protobuf unmarshalling | [Kubernetes](../by-program/kubernetes.md) | None | — | 13 |
-| 52 | [3771139](../reports/3771139.md) | Heap Memory Disclosure via Integer Underflow in Item_func_json_ar | [MariaDB](../by-program/mariadb.md) | None | — | 12 |
-| 53 | [3406123](../reports/3406123.md) | Buffer over-read,, Missing NUL termination in addvariable() cause | [curl](../by-program/curl.md) | None | — | 8 |
-| 54 | [250581](../reports/250581.md) | CVE-2017-11367: Global buffer overflow (READ of size 4) in shoco  | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
-| 55 | [278231](../reports/278231.md) | Out of bounds read in libcurl's IMAP FETCH response parser | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
-| 56 | [3913007](../reports/3913007.md) | SMTP header injection via C-escape `\r` in the recipient display  | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
-| 57 | [3751715](../reports/3751715.md) | Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUESS_SCHEME` | [curl](../by-program/curl.md) | None | — | 1 |
+| 41 | [3643157](../reports/3643157.md) | Spatial functions perform 4-byte heap buffer over-reads on trunca | [MariaDB](../by-program/mariadb.md) | Medium — CVSS 4.7 | — | 1 |
+| 42 | [2629968](../reports/2629968.md) | CVE-2024-7264: ASN.1 date parser overread | [curl](../by-program/curl.md) | Low | — | 53 |
+| 43 | [3294999](../reports/3294999.md) | CVE-2025-9086: Out of bounds read for cookie path | [curl](../by-program/curl.md) | Low | — | 36 |
+| 44 | [2621062](../reports/2621062.md) | curl: stack-buffer overread during punycode conversions | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 31 |
+| 45 | [2604391](../reports/2604391.md) | CVE-2024-6874: macidn punycode buffer overread | [curl](../by-program/curl.md) | Low | — | 25 |
+| 46 | [481335](../reports/481335.md) | Security check failure or stack buffer overrun (crash) | [Notepad++](../by-program/notepad-plus-plus.md) | Low | — | 18 |
+| 47 | [340012](../reports/340012.md) | Buffer out of bound read in miniupnpc xml parser  | [Monero](../by-program/monero.md) | Low | — | 13 |
+| 48 | [3508321](../reports/3508321.md) | Integer-underflow leads to heap over-read in TFTP implementation | [curl](../by-program/curl.md) | Low | — | 7 |
+| 49 | [1595296](../reports/1595296.md) | Read beyond bounds in mod_isapi.c [zhbug_httpd_41] | [Internet Bug Bounty](../by-program/ibb.md) | Low | — | 5 |
+| 50 | [3751697](../reports/3751697.md) | CVE-2026-10536: HTTP/2 stream-dependency tree UAF | [curl](../by-program/curl.md) | Low | — | 3 |
+| 51 | [4099194](../reports/4099194.md) | CVE-2026-107928: info leak uploading over WebSockets with GnuTLS | [curl](../by-program/curl.md) | Low | — | 1 |
+| 52 | [1073363](../reports/1073363.md) | Index Out Of Bounds in protobuf unmarshalling | [Kubernetes](../by-program/kubernetes.md) | None | — | 13 |
+| 53 | [3771139](../reports/3771139.md) | Heap Memory Disclosure via Integer Underflow in Item_func_json_ar | [MariaDB](../by-program/mariadb.md) | None | — | 12 |
+| 54 | [3406123](../reports/3406123.md) | Buffer over-read,, Missing NUL termination in addvariable() cause | [curl](../by-program/curl.md) | None | — | 8 |
+| 55 | [250581](../reports/250581.md) | CVE-2017-11367: Global buffer overflow (READ of size 4) in shoco  | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
+| 56 | [278231](../reports/278231.md) | Out of bounds read in libcurl's IMAP FETCH response parser | [Internet Bug Bounty](../by-program/ibb.md) | None | — | 4 |
+| 57 | [3913007](../reports/3913007.md) | SMTP header injection via C-escape `\r` in the recipient display  | [Nextcloud](../by-program/nextcloud.md) | None | — | 2 |
+| 58 | [3751715](../reports/3751715.md) | Heap-OOB read in urlapi `redirect_url()` via `CURLU_GUESS_SCHEME` | [curl](../by-program/curl.md) | None | — | 1 |

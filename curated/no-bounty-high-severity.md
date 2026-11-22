@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2463 total)
+# High/Critical Severity — No Bounty Paid (2465 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -832,6 +832,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1067090](../reports/1067090.md) | Mission completed. Grinch Networks is down and Christmas saved. | [h1-ctf](../by-program/h1-ctf.md) | Critical — CVSS 10.0 | Resolved | 2 |
 | [184884](../reports/184884.md) | Subdomain Takeover on  http://blog.owox.com/ | [OWOX, Inc.](../by-program/owox.md) | Critical | Informative | 2 |
 | [816637](../reports/816637.md) | CVE-2020-10938-buffer overflow/out-of-bounds write in compress.c: | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.8 | Resolved | 1 |
+| [4227402](../reports/4227402.md) | Multiple Vulnerabilities in curl/libcurl URL Parser (RFC3986 Comp | [curl](../by-program/curl.md) | Critical | Not Applicable | 1 |
 | [3840113](../reports/3840113.md) | Mass PII Exposure: 120,000+ Consumer Email Addresses Leaked via A | [Essity](../by-program/essity.md) | Critical | Resolved | 1 |
 | [854049](../reports/854049.md) | PulseSSL VPN Site with Compromised Creds @ ████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 1 |
 | [1069141](../reports/1069141.md) | Infiltrating into Grinch-Networks and saving Christmas! | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 1 |
@@ -2453,6 +2454,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [508346](../reports/508346.md) | [increments] sql injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | Resolved | 1 |
 | [1276384](../reports/1276384.md) | Signature Verification /// golang.org/x/crypto/ssh | [Sifchain](../by-program/sifchain.md) | High — CVSS 7.0 | Not Applicable | 1 |
 | [333459](../reports/333459.md) | npm packages that overlap with core node packages | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | Informative | 0 |
+| [4224454](../reports/4224454.md) | Use-after-free read of the CURLOPT_RESOLVE list after curl_easy_r | [curl](../by-program/curl.md) | High | Not Applicable | 0 |
 | [1001218](../reports/1001218.md) | [@firebase/util] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | Resolved | 0 |
 | [878332](../reports/878332.md) | [object-path-set] Prototype pollution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High | Resolved | 0 |
 | [4053116](../reports/4053116.md) | curl CONNECT response header colon-check bypass in cf-h1-proxy si | [curl](../by-program/curl.md) | High | Not Applicable | 0 |

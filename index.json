@@ -236439,6 +236439,25 @@
     "votes": 39
   },
   {
+    "id": 3643157,
+    "url": "https://hackerone.com/reports/3643157",
+    "title": "Spatial functions perform 4-byte heap buffer over-reads on truncated WKB inputs",
+    "visibility": "full",
+    "program": "MariaDB",
+    "program_handle": "mariadb",
+    "reporter": "riscj",
+    "severity": "medium",
+    "cvss": 4.7,
+    "weakness": "Buffer Over-read",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-04-01",
+    "disclosed_at": "2026-11-22T16:52:23.646Z",
+    "votes": 1
+  },
+  {
     "id": 3644182,
     "url": "https://hackerone.com/reports/3644182",
     "title": "Stored XSS in nameserver field on account settings page",
@@ -244941,6 +244960,27 @@
     "votes": 3
   },
   {
+    "id": 4004290,
+    "url": "https://hackerone.com/reports/4004290",
+    "title": "Node.js ZipFile returns attacker-controlled prefix bytes after failed ZIP header validation",
+    "visibility": "no-content",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "startimeash",
+    "severity": "low",
+    "cvss": 3.7,
+    "weakness": "Business Logic Errors",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-106070"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-06",
+    "disclosed_at": "2026-11-22T14:48:54.971Z",
+    "votes": 0
+  },
+  {
     "id": 4006744,
     "url": "https://hackerone.com/reports/4006744",
     "title": "TLS certificate hostname bypass when the host loosely resolves to an IP address",
@@ -245756,6 +245796,27 @@
     "reported_at": "2026-09-25",
     "disclosed_at": "2026-11-15T07:28:45.634Z",
     "votes": 1
+  },
+  {
+    "id": 4059814,
+    "url": "https://hackerone.com/reports/4059814",
+    "title": "crypto.randomUUID() and randomInt() entropy caches are saved into user-land startup snapshots and SEAs, so every process repeats the same values",
+    "visibility": "no-content",
+    "program": "Node.js",
+    "program_handle": "nodejs",
+    "reporter": "gesposito",
+    "severity": "medium",
+    "cvss": 4.8,
+    "weakness": "Use of Insufficiently Random Values",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-106074"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-09-25",
+    "disclosed_at": "2026-11-22T14:44:31.499Z",
+    "votes": 0
   },
   {
     "id": 4062511,
@@ -247602,5 +247663,45 @@
     "reported_at": "2026-11-19",
     "disclosed_at": "2026-11-20T09:56:02.185Z",
     "votes": 2
+  },
+  {
+    "id": 4224454,
+    "url": "https://hackerone.com/reports/4224454",
+    "title": "Use-after-free read of the CURLOPT_RESOLVE list after curl_easy_reset()",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "andrewtsui",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Use After Free",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "not-applicable",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-11-21",
+    "disclosed_at": "2026-11-22T15:20:11.814Z",
+    "votes": 0
+  },
+  {
+    "id": 4227402,
+    "url": "https://hackerone.com/reports/4227402",
+    "title": "Multiple Vulnerabilities in curl/libcurl URL Parser (RFC3986 Compliance Issues)",
+    "visibility": "full",
+    "program": "curl",
+    "program_handle": "curl",
+    "reporter": "gynius84",
+    "severity": "critical",
+    "cvss": null,
+    "weakness": null,
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-8926"
+    ],
+    "substate": "not-applicable",
+    "asset_type": null,
+    "reported_at": "2026-11-22",
+    "disclosed_at": "2026-11-22T15:20:23.504Z",
+    "votes": 1
   }
 ]

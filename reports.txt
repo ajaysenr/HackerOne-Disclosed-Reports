@@ -12102,6 +12102,7 @@ https://hackerone.com/reports/3641893 | Cookie attribute TAB injection regressio
 https://hackerone.com/reports/3642236 | Tables application does not respect sharing limitations set by admin
 https://hackerone.com/reports/3642555 | CVE-2026-5545: wrong reuse of HTTP Negotiate connection
 https://hackerone.com/reports/3642600 | Authorization header leak in ssrf_filter via cross-host redirect leads to credential theft and unauthorized access
+https://hackerone.com/reports/3643157 | Spatial functions perform 4-byte heap buffer over-reads on truncated WKB inputs
 https://hackerone.com/reports/3644182 | Stored XSS in nameserver field on account settings page
 https://hackerone.com/reports/3645361 | Data race in Curl_dnscache_add_negative() corrupts shared DNS cache — heap corruption and double-free when using CURLOPT_SHARE with CURL_LOCK_DATA_DNS
 https://hackerone.com/reports/3645415 | # SCURLOPT_SSH_KNOWNHOSTS and host fingerprint pins are silently bypassed when an SSH connection is reused from the connection pool
@@ -12531,6 +12532,7 @@ https://hackerone.com/reports/4000084 | A disabled account's API key still works
 https://hackerone.com/reports/4000185 | HackerOne Code sends live password-reset tokens to Segment in automatic page events
 https://hackerone.com/reports/4000535 | Burp Community OpenAPI site-map action reads a local schema example through $id rebasing
 https://hackerone.com/reports/4004074 | Nextcloud subadmin → admin takeover when allowed_admin_ranges is set: SubAdmin::isUserAccessible() classifies the admin target via IP-gated isAdmin()
+https://hackerone.com/reports/4004290 | Node.js ZipFile returns attacker-controlled prefix bytes after failed ZIP header validation
 https://hackerone.com/reports/4006744 | TLS certificate hostname bypass when the host loosely resolves to an IP address
 https://hackerone.com/reports/4007917 | One Strict-Transport-Security response header empties the victim's entire HSTS store, silently,
 https://hackerone.com/reports/4016541 | TLS session resumption client cert bypass with CURLOPT_SSL_CTX_FUNCTION
@@ -12572,6 +12574,7 @@ https://hackerone.com/reports/4057637 | [HIGH] CWE-22 — Path Traversal in FTP 
 https://hackerone.com/reports/4059104 | IMAP literal size truncation on 32-bit platforms corrupts downloads and desynchronizes the response parser
 https://hackerone.com/reports/4059370 | Mass assignment in chat.sendMessage allows unprivileged users to forge message state: persistent room DoS, stored HTML injection, and cross-user write
 https://hackerone.com/reports/4059744 | Anonymous API Rate Limit Bypass via X-Forwarded-For
+https://hackerone.com/reports/4059814 | crypto.randomUUID() and randomInt() entropy caches are saved into user-land startup snapshots and SEAs, so every process repeats the same values
 https://hackerone.com/reports/4062511 | `Vary` cache-key conflation of absent and empty request fields
 https://hackerone.com/reports/4062639 | Unauthenticated UCP/MCP catalog access on a password-protected dev store
 https://hackerone.com/reports/4063328 | curl tool: --hsts is ignored for a schemeless URL starting with a slash under --proto-default http
@@ -12663,3 +12666,5 @@ https://hackerone.com/reports/4177724 | curl 8.23.0 keeps sending requests to an
 https://hackerone.com/reports/4191812 | Unauthenticated arbitrary local file read via ABCpdf on www.████████
 https://hackerone.com/reports/4199917 | SFTP connection reuse skips the host-key pin of a later transfer
 https://hackerone.com/reports/4218369 | Cross-IP Cookie Disclosure via Empty Custom Host Header Truncation
+https://hackerone.com/reports/4224454 | Use-after-free read of the CURLOPT_RESOLVE list after curl_easy_reset()
+https://hackerone.com/reports/4227402 | Multiple Vulnerabilities in curl/libcurl URL Parser (RFC3986 Compliance Issues)

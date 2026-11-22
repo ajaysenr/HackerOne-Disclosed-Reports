@@ -1,4 +1,4 @@
-# MariaDB — Disclosed Reports (62 total)
+# MariaDB — Disclosed Reports (63 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -34,35 +34,36 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 28 | [3781201](../reports/3781201.md) | Pre-authentication `size_t` integer underflow → out-of-bound | Medium — CVSS 5.7 | — | 2 | [vnth4nhnt](https://hackerone.com/vnth4nhnt) | 2026-10-07 |
 | 29 | [3769676](../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenti | Medium | — | 2 | [byteoverride](https://hackerone.com/byteoverride) | 2026-09-03 |
 | 30 | [3890352](../reports/3890352.md) | Connector/C++ aborts client process on server session-tracki | Medium — CVSS 4.1 | — | 1 | [fg0x0](https://hackerone.com/fg0x0) | 2026-11-04 |
-| 31 | [3867358](../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a Form | Medium | — | 1 | [xlabai](https://hackerone.com/xlabai) | 2026-10-07 |
-| 32 | [3872248](../reports/3872248.md) | Connector/C++: heap out-of-bounds read when malicious server | Medium — CVSS 4.6 | — | 1 | [fg0x0](https://hackerone.com/fg0x0) | 2026-10-12 |
-| 33 | [3920629](../reports/3920629.md) | r2dbc-mariadb: server message accepted with no command in fl | Medium — CVSS 5.7 | — | 1 | [fg0x0](https://hackerone.com/fg0x0) | 2026-11-04 |
-| 34 | [3891779](../reports/3891779.md) | Connector/ODBC injects unquoted column names into positioned | Medium — CVSS 5.7 | — | 1 | [fg0x0](https://hackerone.com/fg0x0) | 2026-11-04 |
-| 35 | [3871977](../reports/3871977.md) | Connector/ODBC: malicious server's long version string wraps | Medium — CVSS 4.6 | — | 1 | [fg0x0](https://hackerone.com/fg0x0) | 2026-10-12 |
-| 36 | [3920633](../reports/3920633.md) | Connector/ODBC: SqlwcsOctetLen sizes UTF-16 with a byte-orie | Medium — CVSS 5.3 | — | 1 | [fg0x0](https://hackerone.com/fg0x0) | 2026-11-04 |
-| 37 | [3920647](../reports/3920647.md) | Connector/ODBC: MADB_Stmt::ArrayOffset is not reset when an  | Medium — CVSS 5.0 | — | 1 | [fg0x0](https://hackerone.com/fg0x0) | 2026-11-04 |
-| 38 | [3891337](../reports/3891337.md) | Connector/ODBC SQLGetDescRec treats descriptor handle as sta | Medium — CVSS 5.7 | — | 1 | [fg0x0](https://hackerone.com/fg0x0) | 2026-11-04 |
-| 39 | [3867363](../reports/3867363.md) | MariaDB HandlerSocket Improper Request Field-Count Validatio | Medium | — | 1 | [xlabai](https://hackerone.com/xlabai) | 2026-10-07 |
-| 40 | [3891319](../reports/3891319.md) | Stack buffer overflow in 9 of 10 Connector/ODBC catalog func | Medium — CVSS 5.7 | — | 1 | [fg0x0](https://hackerone.com/fg0x0) | 2026-11-04 |
-| 41 | [3890289](../reports/3890289.md) | Connector/C++ string escaper re-escapes its own output, enab | Medium — CVSS 6.9 | — | 1 | [fg0x0](https://hackerone.com/fg0x0) | 2026-11-04 |
-| 42 | [3871740](../reports/3871740.md) | r2dbc-mariadb Parsec auth: server-controlled PBKDF2 iteratio | Medium — CVSS 5.7 | — | 1 | [fg0x0](https://hackerone.com/fg0x0) | 2026-10-12 |
-| 43 | [690330](../reports/690330.md) | scripts loader (denial of service) vulnerability | Low | — | 20 | [badisman](https://hackerone.com/badisman) | 2020-03-19 |
-| 44 | [392701](../reports/392701.md) | Vulnerability Report - Missing Certificate Authority Authori | Low | — | 16 | [theendisnear](https://hackerone.com/theendisnear) | 2018-11-11 |
-| 45 | [386160](../reports/386160.md) | xmlrpc.php on mariadb.org can lead to DDOS and brute force a | Low | — | 10 | [indoappsec](https://hackerone.com/indoappsec) | 2018-10-12 |
-| 46 | [392761](../reports/392761.md) | vulnerable to Cross-site Request Forgery | Jira | Low | — | 9 | [niteshkumarpandey](https://hackerone.com/niteshkumarpandey) | 2018-10-12 |
-| 47 | [514421](../reports/514421.md) | smtp service vulnerable to POODLE SSLv3 | Low | — | 7 | [rudrahacks007](https://hackerone.com/rudrahacks007) | 2019-05-11 |
-| 48 | [3782405](../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::i | None | — | 14 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
-| 49 | [3771139](../reports/3771139.md) | Heap Memory Disclosure via Integer Underflow in Item_func_js | None | — | 12 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
-| 50 | [3771147](../reports/3771147.md) | Stack Buffer Overflow via Crafted keyseg->start/ keyseg->len | None | — | 11 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
-| 51 | [3771144](../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_versio | None | — | 10 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-14 |
-| 52 | [3849007](../reports/3849007.md) | MariaDB CLI Utility Issues | None | — | 5 | [vortfu](https://hackerone.com/vortfu) | 2026-11-08 |
-| 53 | [3897588](../reports/3897588.md) | KILL authorization trusts the presented login name instead o | None | — | 3 | [dogeshark](https://hackerone.com/dogeshark) | 2026-09-07 |
-| 54 | [3896671](../reports/3896671.md) | Connector/C Out-of-bounds read in `unpack_fields()` from sho | None | — | 3 | [mschorm](https://hackerone.com/mschorm) | 2026-09-30 |
-| 55 | [3910393](../reports/3910393.md) | Stack Buffer Overflow in MariaDB CONNECT storage engine when | None | — | 2 | [dstesk](https://hackerone.com/dstesk) | 2026-10-12 |
-| 56 | [3849025](../reports/3849025.md) | DATA / INDEX DIRECTORY Abuse | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
-| 57 | [3848978](../reports/3848978.md) | `SHOW [CREATE|GRANTS] ...` / `mariadb-dump` Unescaped SQL Ge | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
-| 58 | [3880451](../reports/3880451.md) | Privilege escalation via user controlled usernames / roles a | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
-| 59 | [3849040](../reports/3849040.md) | #mysql50# legacy alias / stale table cache identity mismatch | None | — | 1 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
-| 60 | [3849051](../reports/3849051.md) | #mysql50# legacy alias / internal table collisions | None | — | 1 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
-| 61 | [3896684](../reports/3896684.md) | Connector/C Out-of-bounds read from unterminated GSSAPI SPN  | None | — | 0 | [mschorm](https://hackerone.com/mschorm) | 2026-11-04 |
-| 62 | [3896617](../reports/3896617.md) | Connector/C TLS auth-switch bypass exposes plaintext passwor | None | — | 0 | [mschorm](https://hackerone.com/mschorm) | 2026-11-04 |
+| 31 | [3643157](../reports/3643157.md) | Spatial functions perform 4-byte heap buffer over-reads on t | Medium — CVSS 4.7 | — | 1 | [riscj](https://hackerone.com/riscj) | 2026-11-22 |
+| 32 | [3867358](../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a Form | Medium | — | 1 | [xlabai](https://hackerone.com/xlabai) | 2026-10-07 |
+| 33 | [3872248](../reports/3872248.md) | Connector/C++: heap out-of-bounds read when malicious server | Medium — CVSS 4.6 | — | 1 | [fg0x0](https://hackerone.com/fg0x0) | 2026-10-12 |
+| 34 | [3920629](../reports/3920629.md) | r2dbc-mariadb: server message accepted with no command in fl | Medium — CVSS 5.7 | — | 1 | [fg0x0](https://hackerone.com/fg0x0) | 2026-11-04 |
+| 35 | [3891779](../reports/3891779.md) | Connector/ODBC injects unquoted column names into positioned | Medium — CVSS 5.7 | — | 1 | [fg0x0](https://hackerone.com/fg0x0) | 2026-11-04 |
+| 36 | [3871977](../reports/3871977.md) | Connector/ODBC: malicious server's long version string wraps | Medium — CVSS 4.6 | — | 1 | [fg0x0](https://hackerone.com/fg0x0) | 2026-10-12 |
+| 37 | [3920633](../reports/3920633.md) | Connector/ODBC: SqlwcsOctetLen sizes UTF-16 with a byte-orie | Medium — CVSS 5.3 | — | 1 | [fg0x0](https://hackerone.com/fg0x0) | 2026-11-04 |
+| 38 | [3920647](../reports/3920647.md) | Connector/ODBC: MADB_Stmt::ArrayOffset is not reset when an  | Medium — CVSS 5.0 | — | 1 | [fg0x0](https://hackerone.com/fg0x0) | 2026-11-04 |
+| 39 | [3891337](../reports/3891337.md) | Connector/ODBC SQLGetDescRec treats descriptor handle as sta | Medium — CVSS 5.7 | — | 1 | [fg0x0](https://hackerone.com/fg0x0) | 2026-11-04 |
+| 40 | [3867363](../reports/3867363.md) | MariaDB HandlerSocket Improper Request Field-Count Validatio | Medium | — | 1 | [xlabai](https://hackerone.com/xlabai) | 2026-10-07 |
+| 41 | [3891319](../reports/3891319.md) | Stack buffer overflow in 9 of 10 Connector/ODBC catalog func | Medium — CVSS 5.7 | — | 1 | [fg0x0](https://hackerone.com/fg0x0) | 2026-11-04 |
+| 42 | [3890289](../reports/3890289.md) | Connector/C++ string escaper re-escapes its own output, enab | Medium — CVSS 6.9 | — | 1 | [fg0x0](https://hackerone.com/fg0x0) | 2026-11-04 |
+| 43 | [3871740](../reports/3871740.md) | r2dbc-mariadb Parsec auth: server-controlled PBKDF2 iteratio | Medium — CVSS 5.7 | — | 1 | [fg0x0](https://hackerone.com/fg0x0) | 2026-10-12 |
+| 44 | [690330](../reports/690330.md) | scripts loader (denial of service) vulnerability | Low | — | 20 | [badisman](https://hackerone.com/badisman) | 2020-03-19 |
+| 45 | [392701](../reports/392701.md) | Vulnerability Report - Missing Certificate Authority Authori | Low | — | 16 | [theendisnear](https://hackerone.com/theendisnear) | 2018-11-11 |
+| 46 | [386160](../reports/386160.md) | xmlrpc.php on mariadb.org can lead to DDOS and brute force a | Low | — | 10 | [indoappsec](https://hackerone.com/indoappsec) | 2018-10-12 |
+| 47 | [392761](../reports/392761.md) | vulnerable to Cross-site Request Forgery | Jira | Low | — | 9 | [niteshkumarpandey](https://hackerone.com/niteshkumarpandey) | 2018-10-12 |
+| 48 | [514421](../reports/514421.md) | smtp service vulnerable to POODLE SSLv3 | Low | — | 7 | [rudrahacks007](https://hackerone.com/rudrahacks007) | 2019-05-11 |
+| 49 | [3782405](../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::i | None | — | 14 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
+| 50 | [3771139](../reports/3771139.md) | Heap Memory Disclosure via Integer Underflow in Item_func_js | None | — | 12 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
+| 51 | [3771147](../reports/3771147.md) | Stack Buffer Overflow via Crafted keyseg->start/ keyseg->len | None | — | 11 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-15 |
+| 52 | [3771144](../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_versio | None | — | 10 | [lukas_kupczyk](https://hackerone.com/lukas_kupczyk) | 2026-09-14 |
+| 53 | [3849007](../reports/3849007.md) | MariaDB CLI Utility Issues | None | — | 5 | [vortfu](https://hackerone.com/vortfu) | 2026-11-08 |
+| 54 | [3897588](../reports/3897588.md) | KILL authorization trusts the presented login name instead o | None | — | 3 | [dogeshark](https://hackerone.com/dogeshark) | 2026-09-07 |
+| 55 | [3896671](../reports/3896671.md) | Connector/C Out-of-bounds read in `unpack_fields()` from sho | None | — | 3 | [mschorm](https://hackerone.com/mschorm) | 2026-09-30 |
+| 56 | [3910393](../reports/3910393.md) | Stack Buffer Overflow in MariaDB CONNECT storage engine when | None | — | 2 | [dstesk](https://hackerone.com/dstesk) | 2026-10-12 |
+| 57 | [3849025](../reports/3849025.md) | DATA / INDEX DIRECTORY Abuse | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
+| 58 | [3848978](../reports/3848978.md) | `SHOW [CREATE|GRANTS] ...` / `mariadb-dump` Unescaped SQL Ge | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
+| 59 | [3880451](../reports/3880451.md) | Privilege escalation via user controlled usernames / roles a | None | — | 2 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
+| 60 | [3849040](../reports/3849040.md) | #mysql50# legacy alias / stale table cache identity mismatch | None | — | 1 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
+| 61 | [3849051](../reports/3849051.md) | #mysql50# legacy alias / internal table collisions | None | — | 1 | [vortfu](https://hackerone.com/vortfu) | 2026-10-07 |
+| 62 | [3896684](../reports/3896684.md) | Connector/C Out-of-bounds read from unterminated GSSAPI SPN  | None | — | 0 | [mschorm](https://hackerone.com/mschorm) | 2026-11-04 |
+| 63 | [3896617](../reports/3896617.md) | Connector/C TLS auth-switch bypass exposes plaintext passwor | None | — | 0 | [mschorm](https://hackerone.com/mschorm) | 2026-11-04 |
