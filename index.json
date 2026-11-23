@@ -247604,6 +247604,25 @@
     "votes": 1
   },
   {
+    "id": 4180338,
+    "url": "https://hackerone.com/reports/4180338",
+    "title": "Unauthenticated API Writes  to Full IBM Software Access",
+    "visibility": "no-content",
+    "program": "IBM",
+    "program_handle": "ibm",
+    "reporter": "4c1dr3aper",
+    "severity": "critical",
+    "cvss": null,
+    "weakness": "Improper Authentication - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "OTHER",
+    "reported_at": "2026-11-07",
+    "disclosed_at": "2026-11-23T18:34:11.663Z",
+    "votes": 1
+  },
+  {
     "id": 4191812,
     "url": "https://hackerone.com/reports/4191812",
     "title": "Unauthenticated arbitrary local file read via ABCpdf on www.\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",

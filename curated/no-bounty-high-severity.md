@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2466 total)
+# High/Critical Severity — No Bounty Paid (2467 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -841,6 +841,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1065731](../reports/1065731.md) | Writeup Hackyholiday CTF | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 1 |
 | [972936](../reports/972936.md) | A specially crafted value for the 'Cache-Digest' header causing c | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | Critical | Not Applicable | 1 |
 | [1631364](../reports/1631364.md) | ██████_log4j - https://██████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 1 |
+| [4180338](../reports/4180338.md) | Unauthenticated API Writes  to Full IBM Software Access | [IBM](../by-program/ibm.md) | Critical | Resolved | 1 |
 | [1067835](../reports/1067835.md) | Hacky Holidays Writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 1 |
 | [1631370](../reports/1631370.md) | solr_log4j - http://██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 1 |
 | [863956](../reports/863956.md) | [extra-asciinema] Command Injection via insecure command formatti | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | Resolved | 1 |
