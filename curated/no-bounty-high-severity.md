@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2465 total)
+# High/Critical Severity — No Bounty Paid (2466 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -2439,6 +2439,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [506791](../reports/506791.md) | Pippo XML Entity Expansion (Billion Laughs Attack) | [Central Security Project](../by-program/central-security-project.md) | High — CVSS 8.3 | Informative | 1 |
 | [287666](../reports/287666.md) | CVE-2017-13089 wget stack smash | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 8.8 | Resolved | 1 |
 | [3869124](../reports/3869124.md) | **Unauthenticated IDOR allows modification of payment customer bi | [Weblate](../by-program/weblate.md) | High — CVSS 7.5 | Resolved | 1 |
+| [4191937](../reports/4191937.md) | IDOR: private ████████ post comments can be read and written by a | [Essity](../by-program/essity.md) | High | Resolved | 1 |
 | [940384](../reports/940384.md) | https://█████ is vulnerable to CVE-2020-3452 Read-Only Path Trave | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 1 |
 | [4191812](../reports/4191812.md) | Unauthenticated arbitrary local file read via ABCpdf on www.█████ | [Essity](../by-program/essity.md) | High | Resolved | 1 |
 | [3473145](../reports/3473145.md) | Unauthenticated SSRF in Voxtelesys integration ('checkUrlForSsrf' | [Rocket.Chat](../by-program/rocket_chat.md) | High — CVSS 8.6 | Resolved | 1 |

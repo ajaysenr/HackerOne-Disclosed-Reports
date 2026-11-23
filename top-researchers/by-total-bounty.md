@@ -1582,7 +1582,7 @@
 | 1578 | [thearmfox](https://hackerone.com/thearmfox) | 1 | $0 | 2 |
 | 1579 | [cametome006](https://hackerone.com/cametome006) | 2 | $0 | 24 |
 | 1580 | [mzfr](https://hackerone.com/mzfr) | 4 | $0 | 29 |
-| 1581 | [matty69v](https://hackerone.com/matty69v) | 14 | $0 | 54 |
+| 1581 | [matty69v](https://hackerone.com/matty69v) | 15 | $0 | 55 |
 | 1582 | [ali](https://hackerone.com/ali) | 10 | $0 | 1570 |
 | 1583 | [bp0lr](https://hackerone.com/bp0lr) | 2 | $0 | 2 |
 | 1584 | [bug_vs_me](https://hackerone.com/bug_vs_me) | 3 | $0 | 212 |

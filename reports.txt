@@ -12664,6 +12664,7 @@ https://hackerone.com/reports/4166602 | Re-entrant curl_easy_pause UAF in cw-pau
 https://hackerone.com/reports/4175245 | Cross-account stored XSS on app.basecamp.com leads to persistent administrator takeover
 https://hackerone.com/reports/4177724 | curl 8.23.0 keeps sending requests to an HTTP/3 backend after Alt-Svc: clear
 https://hackerone.com/reports/4191812 | Unauthenticated arbitrary local file read via ABCpdf on www.████████
+https://hackerone.com/reports/4191937 | IDOR: private ████████ post comments can be read and written by any authenticated user
 https://hackerone.com/reports/4199917 | SFTP connection reuse skips the host-key pin of a later transfer
 https://hackerone.com/reports/4218369 | Cross-IP Cookie Disclosure via Empty Custom Host Header Truncation
 https://hackerone.com/reports/4224454 | Use-after-free read of the CURLOPT_RESOLVE list after curl_easy_reset()

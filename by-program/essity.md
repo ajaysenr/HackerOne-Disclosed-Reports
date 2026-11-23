@@ -1,4 +1,4 @@
-# Essity — Disclosed Reports (14 total)
+# Essity — Disclosed Reports (15 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -13,8 +13,9 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 7 | [3765476](../reports/3765476.md) | Unauthenticated File Upload with CORS Wildcard and No Rate L | High — CVSS 7.8 | — | 5 | [matty69v](https://hackerone.com/matty69v) | 2026-06-29 |
 | 8 | [3830771](../reports/3830771.md) | Reflected XSS in legacy CGI script /cgi-bin/████████.pl on █ | High | — | 3 | [marioniangi](https://hackerone.com/marioniangi) | 2026-06-30 |
 | 9 | [3781785](../reports/3781785.md) | Reflected HTML Injection in ████████ Login Page via infotext | High | — | 3 | [firecompass-ai](https://hackerone.com/firecompass-ai) | 2026-07-22 |
-| 10 | [4191812](../reports/4191812.md) | Unauthenticated arbitrary local file read via ABCpdf on www. | High | — | 1 | [matty69v](https://hackerone.com/matty69v) | 2026-11-18 |
-| 11 | [3802451](../reports/3802451.md) | HTML Injection in Contact Form Email Enables Phishing via Le | Medium — CVSS 5.3 | — | 7 | [tenzai](https://hackerone.com/tenzai) | 2026-10-05 |
-| 12 | [3839889](../reports/3839889.md) | 29 Premium Plugin Packages with License Keys Publicly Access | Medium — CVSS 6.9 | — | 3 | [matty69v](https://hackerone.com/matty69v) | 2026-07-06 |
-| 13 | [4071064](../reports/4071064.md) | Unauthenticated self-registration on ████████ grants full ac | Medium | — | 3 | [ousski](https://hackerone.com/ousski) | 2026-10-14 |
-| 14 | [3839914](../reports/3839914.md) | Unauthenticated Plugin Settings Modification on Three Crocob | Medium | — | 3 | [matty69v](https://hackerone.com/matty69v) | 2026-07-06 |
+| 10 | [4191937](../reports/4191937.md) | IDOR: private ████████ post comments can be read and written | High | — | 1 | [matty69v](https://hackerone.com/matty69v) | 2026-11-23 |
+| 11 | [4191812](../reports/4191812.md) | Unauthenticated arbitrary local file read via ABCpdf on www. | High | — | 1 | [matty69v](https://hackerone.com/matty69v) | 2026-11-18 |
+| 12 | [3802451](../reports/3802451.md) | HTML Injection in Contact Form Email Enables Phishing via Le | Medium — CVSS 5.3 | — | 7 | [tenzai](https://hackerone.com/tenzai) | 2026-10-05 |
+| 13 | [3839889](../reports/3839889.md) | 29 Premium Plugin Packages with License Keys Publicly Access | Medium — CVSS 6.9 | — | 3 | [matty69v](https://hackerone.com/matty69v) | 2026-07-06 |
+| 14 | [4071064](../reports/4071064.md) | Unauthenticated self-registration on ████████ grants full ac | Medium | — | 3 | [ousski](https://hackerone.com/ousski) | 2026-10-14 |
+| 15 | [3839914](../reports/3839914.md) | Unauthenticated Plugin Settings Modification on Three Crocob | Medium | — | 3 | [matty69v](https://hackerone.com/matty69v) | 2026-07-06 |

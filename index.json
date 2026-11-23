@@ -247623,6 +247623,25 @@
     "votes": 1
   },
   {
+    "id": 4191937,
+    "url": "https://hackerone.com/reports/4191937",
+    "title": "IDOR: private \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 post comments can be read and written by any authenticated user",
+    "visibility": "full",
+    "program": "Essity",
+    "program_handle": "essity",
+    "reporter": "matty69v",
+    "severity": "high",
+    "cvss": null,
+    "weakness": "Insecure Direct Object Reference (IDOR)",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-11-11",
+    "disclosed_at": "2026-11-23T09:45:17.504Z",
+    "votes": 1
+  },
+  {
     "id": 4199917,
     "url": "https://hackerone.com/reports/4199917",
     "title": "SFTP connection reuse skips the host-key pin of a later transfer",
