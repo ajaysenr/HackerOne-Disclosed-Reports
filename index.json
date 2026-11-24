@@ -243464,6 +243464,27 @@
     "votes": 0
   },
   {
+    "id": 3966705,
+    "url": "https://hackerone.com/reports/3966705",
+    "title": "Default OAuth2 Credentials on SAP Commerce Cloud \u2014 Admin Token via Published Sample Secret (CVE-2026-44761)",
+    "visibility": "full",
+    "program": "Essity",
+    "program_handle": "essity",
+    "reporter": "c5z5",
+    "severity": "medium",
+    "cvss": null,
+    "weakness": "Use of Hard-coded Credentials",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-44761"
+    ],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-08-24",
+    "disclosed_at": "2026-11-24T09:59:27.008Z",
+    "votes": 3
+  },
+  {
     "id": 3966955,
     "url": "https://hackerone.com/reports/3966955",
     "title": "TLS session cache case-folds CA paths and bypasses the active trust profile",
@@ -246524,6 +246545,25 @@
     "reported_at": "2026-10-16",
     "disclosed_at": "2026-10-26T07:53:49.149Z",
     "votes": 0
+  },
+  {
+    "id": 4118627,
+    "url": "https://hackerone.com/reports/4118627",
+    "title": "weblate.org: a removed customer owner regains ownership with one GET to /fosdem/donate/, even after token rotation, and can lock out the other owners",
+    "visibility": "full",
+    "program": "Weblate",
+    "program_handle": "weblate",
+    "reporter": "sujitjaunjal",
+    "severity": "medium",
+    "cvss": 6.8,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-10-16",
+    "disclosed_at": "2026-11-24T11:11:15.319Z",
+    "votes": 3
   },
   {
     "id": 4118643,

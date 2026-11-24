@@ -1,4 +1,4 @@
-# Weakness: Use of Hard-coded Credentials (13 reports)
+# Weakness: Use of Hard-coded Credentials (14 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -12,8 +12,9 @@
 | 6 | [1368690](../reports/1368690.md) | Hardcoded AWS credentials in ███████.msi | [8x8](../by-program/8x8-bounty.md) | Critical | — | 7 |
 | 7 | [649322](../reports/649322.md) | Important information leaked on Github | [Equifax-vdp](../by-program/equifax.md) | High — CVSS 7.3 | — | 98 |
 | 8 | [766346](../reports/766346.md) | API Keys Hardcoded in Github repository | [Rocket.Chat](../by-program/rocket_chat.md) | Medium | — | 13 |
-| 9 | [1957430](../reports/1957430.md) | Credential leak on GitHub: https://github.com/█/█/ (Peoplesoft CR | [8x8](../by-program/8x8-bounty.md) | Low | — | 47 |
-| 10 | [1927499](../reports/1927499.md) | Testing flow includes a DeepSource secret | [Weblate](../by-program/weblate.md) | Low | — | 7 |
-| 11 | [291200](../reports/291200.md) | Hard Coded username and password in registry | [Kaspersky](../by-program/kaspersky.md) | None | — | 17 |
-| 12 | [792850](../reports/792850.md) | Hard-coded API keys at NordVpn Android App | [Nord Security](../by-program/nordsecurity.md) | None | — | 11 |
-| 13 | [877402](../reports/877402.md) | Hard coded Username and password in GiHub commit | [Kubernetes](../by-program/kubernetes.md) | None | — | 0 |
+| 9 | [3966705](../reports/3966705.md) | Default OAuth2 Credentials on SAP Commerce Cloud — Admin Token vi | [Essity](../by-program/essity.md) | Medium | — | 3 |
+| 10 | [1957430](../reports/1957430.md) | Credential leak on GitHub: https://github.com/█/█/ (Peoplesoft CR | [8x8](../by-program/8x8-bounty.md) | Low | — | 47 |
+| 11 | [1927499](../reports/1927499.md) | Testing flow includes a DeepSource secret | [Weblate](../by-program/weblate.md) | Low | — | 7 |
+| 12 | [291200](../reports/291200.md) | Hard Coded username and password in registry | [Kaspersky](../by-program/kaspersky.md) | None | — | 17 |
+| 13 | [792850](../reports/792850.md) | Hard-coded API keys at NordVpn Android App | [Nord Security](../by-program/nordsecurity.md) | None | — | 11 |
+| 14 | [877402](../reports/877402.md) | Hard coded Username and password in GiHub commit | [Kubernetes](../by-program/kubernetes.md) | None | — | 0 |

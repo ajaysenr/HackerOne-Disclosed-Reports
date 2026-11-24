@@ -12457,6 +12457,7 @@ https://hackerone.com/reports/3963494 | RTSP CRLF injection in libcurl allows CU
 https://hackerone.com/reports/3963725 | wolfSSL backend disables hostname verification when CURLOPT_SSL_VERIFYPEER is 0
 https://hackerone.com/reports/3966160 | Unauthenticated remote process termination of Arc RPC nodes via custom JS tracer (Boa engine) leads to sustained node DoS
 https://hackerone.com/reports/3966599 | Unauthenticated go-httpbin servers : Leads to Cookie Tossing on *.aws.dev and Open Redirect
+https://hackerone.com/reports/3966705 | Default OAuth2 Credentials on SAP Commerce Cloud — Admin Token via Published Sample Secret (CVE-2026-44761)
 https://hackerone.com/reports/3966955 | TLS session cache case-folds CA paths and bypasses the active trust profile
 https://hackerone.com/reports/3968431 | ARG_CLEAR credential scrubbing wipes only UTF-8 copies on Windows Unicode builds
 https://hackerone.com/reports/3968729 | Unbound cross-peer HTTP Digest challenge state
@@ -12610,6 +12611,7 @@ https://hackerone.com/reports/4116433 | Stored XSS in report date selection
 https://hackerone.com/reports/4116527 | CVE-2026-111878: OpenSSL provider UAF on TLS shutdown
 https://hackerone.com/reports/4117330 | Anonymous Translation Suggestion IP Address Exposure Through Change API
 https://hackerone.com/reports/4118610 | CVE-2026-111484: OpenSSL with SecTrust accepts bad OCSP staples
+https://hackerone.com/reports/4118627 | weblate.org: a removed customer owner regains ownership with one GET to /fosdem/donate/, even after token rotation, and can lock out the other owners
 https://hackerone.com/reports/4118643 | OpenSSL provider OSSL_LIB_CTX used after free via the connection shutdown list (CVE-2026-80229 fix incomplete)
 https://hackerone.com/reports/4119675 | Project-scoped language_aliases reaches LanguageManager.auto_create() unvalidated, creating site-wide Language rows without language.add
 https://hackerone.com/reports/4121675 | CRLF injection in the RTSP request-line and Transport header via `CURLOPT_RTSP_STREAM_URI` and `CURLOPT_RTSP_TRANSPORT`
