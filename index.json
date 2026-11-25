@@ -247758,6 +247758,48 @@
     "votes": 1
   },
   {
+    "id": 4193662,
+    "url": "https://hackerone.com/reports/4193662",
+    "title": "Formula injection via entity names in XLS reports",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "fiskekutteren",
+    "severity": "medium",
+    "cvss": 4.1,
+    "weakness": "Code Injection",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-133207"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-11-11",
+    "disclosed_at": "2026-11-25T10:56:20.834Z",
+    "votes": 1
+  },
+  {
+    "id": 4195061,
+    "url": "https://hackerone.com/reports/4195061",
+    "title": "Reflected XSS through delivery macro re-injection",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "im4x",
+    "severity": "medium",
+    "cvss": 6.1,
+    "weakness": "Cross-site Scripting (XSS) - Reflected",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-133208"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-11-12",
+    "disclosed_at": "2026-11-25T10:56:11.216Z",
+    "votes": 3
+  },
+  {
     "id": 4199917,
     "url": "https://hackerone.com/reports/4199917",
     "title": "SFTP connection reuse skips the host-key pin of a later transfer",
@@ -247777,6 +247819,151 @@
     "reported_at": "2026-11-13",
     "disclosed_at": "2026-11-16T12:44:03.637Z",
     "votes": 2
+  },
+  {
+    "id": 4204516,
+    "url": "https://hackerone.com/reports/4204516",
+    "title": "Cross-agency campaign and banner name disclosure in zone linking",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "0xe2e",
+    "severity": "medium",
+    "cvss": 4.3,
+    "weakness": "Insecure Direct Object Reference (IDOR)",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-133204"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-11-15",
+    "disclosed_at": "2026-11-25T10:56:15.810Z",
+    "votes": 0
+  },
+  {
+    "id": 4206093,
+    "url": "https://hackerone.com/reports/4206093",
+    "title": "Cross-agency advertiser and website name disclosure in XLS reports",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "0xe2e",
+    "severity": "medium",
+    "cvss": 4.3,
+    "weakness": "Information Disclosure",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-133205"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-11-15",
+    "disclosed_at": "2026-11-25T10:56:18.594Z",
+    "votes": 1
+  },
+  {
+    "id": 4207136,
+    "url": "https://hackerone.com/reports/4207136",
+    "title": "Entity deletion can leave agency, advertiser, and publisher accounts active",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "lichoin-security-agent",
+    "severity": "low",
+    "cvss": 3.1,
+    "weakness": "Insufficient Session Expiration",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-133209"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-11-16",
+    "disclosed_at": "2026-11-25T10:57:52.394Z",
+    "votes": 2
+  },
+  {
+    "id": 4209444,
+    "url": "https://hackerone.com/reports/4209444",
+    "title": "VAST XML injection can replace video playback tracking",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "a1man12",
+    "severity": "medium",
+    "cvss": 4.3,
+    "weakness": "XML Injection",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-133206"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-11-16",
+    "disclosed_at": "2026-11-25T10:57:45.066Z",
+    "votes": 2
+  },
+  {
+    "id": 4211442,
+    "url": "https://hackerone.com/reports/4211442",
+    "title": "Cross-advertiser tracker association exposes tracker metadata",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "mccss",
+    "severity": "medium",
+    "cvss": 5.4,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-133202"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-11-17",
+    "disclosed_at": "2026-11-25T10:57:36.227Z",
+    "votes": 2
+  },
+  {
+    "id": 4215622,
+    "url": "https://hackerone.com/reports/4215622",
+    "title": "Unauthenticated cross-tracker variable injection can suppress conversions",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "prakhar0x01",
+    "severity": "medium",
+    "cvss": 5.3,
+    "weakness": "Improper Access Control - Generic",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-133203"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-11-18",
+    "disclosed_at": "2026-11-25T10:56:13.377Z",
+    "votes": 0
+  },
+  {
+    "id": 4216475,
+    "url": "https://hackerone.com/reports/4216475",
+    "title": "error based SQL injection on \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+    "visibility": "full",
+    "program": "Essity",
+    "program_handle": "essity",
+    "reporter": "eizaaa",
+    "severity": "critical",
+    "cvss": 9.4,
+    "weakness": "SQL Injection",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "URL",
+    "reported_at": "2026-11-18",
+    "disclosed_at": "2026-11-25T12:23:43.376Z",
+    "votes": 16
   },
   {
     "id": 4218369,
@@ -247837,6 +248024,48 @@
     "asset_type": null,
     "reported_at": "2026-11-22",
     "disclosed_at": "2026-11-22T15:20:23.504Z",
+    "votes": 1
+  },
+  {
+    "id": 4228805,
+    "url": "https://hackerone.com/reports/4228805",
+    "title": "SQL injection via includebanner array keys in zone-include.php",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "titanrain",
+    "severity": "medium",
+    "cvss": 6.5,
+    "weakness": "SQL Injection",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-133210"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-11-22",
+    "disclosed_at": "2026-11-25T10:57:27.059Z",
+    "votes": 2
+  },
+  {
+    "id": 4235206,
+    "url": "https://hackerone.com/reports/4235206",
+    "title": "Reflected XSS through the ct0 delivery parameter",
+    "visibility": "no-content",
+    "program": "Revive Adserver",
+    "program_handle": "revive_adserver",
+    "reporter": "h2w",
+    "severity": "medium",
+    "cvss": 4.7,
+    "weakness": "Cross-site Scripting (XSS) - Reflected",
+    "bounty": null,
+    "cve_ids": [
+      "CVE-2026-133211"
+    ],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-11-24",
+    "disclosed_at": "2026-11-25T10:55:48.002Z",
     "votes": 1
   }
 ]

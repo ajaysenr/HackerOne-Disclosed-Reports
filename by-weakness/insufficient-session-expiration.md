@@ -1,4 +1,4 @@
-# Weakness: Insufficient Session Expiration (35 reports)
+# Weakness: Insufficient Session Expiration (36 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -36,6 +36,7 @@
 | 30 | [659957](../reports/659957.md) | Session misconfiguration on forget password feature at https://or | [Ping Identity](../by-program/pingidentity.md) | Low | — | 8 |
 | 31 | [223327](../reports/223327.md) | No expiration of session ID after Password change | [Weblate](../by-program/weblate.md) | Low | — | 4 |
 | 32 | [1241483](../reports/1241483.md) | Insufficient Session Expiration | [Urban Company](../by-program/urbancompany.md) | Low | — | 4 |
-| 33 | [3269777](../reports/3269777.md) | Replayable Password Change Request Across Sessions. | [Malwarebytes](../by-program/malwarebytes.md) | None | — | 28 |
-| 34 | [273881](../reports/273881.md) | Invalidate session after password reset on https://polldaddy.com | [Automattic](../by-program/automattic.md) | None | — | 12 |
-| 35 | [952035](../reports/952035.md) | Admin web sessions remain active after logout of Shopify ID | [Shopify](../by-program/shopify.md) | None | — | 7 |
+| 33 | [4207136](../reports/4207136.md) | Entity deletion can leave agency, advertiser, and publisher accou | [Revive Adserver](../by-program/revive_adserver.md) | Low — CVSS 3.1 | — | 2 |
+| 34 | [3269777](../reports/3269777.md) | Replayable Password Change Request Across Sessions. | [Malwarebytes](../by-program/malwarebytes.md) | None | — | 28 |
+| 35 | [273881](../reports/273881.md) | Invalidate session after password reset on https://polldaddy.com | [Automattic](../by-program/automattic.md) | None | — | 12 |
+| 36 | [952035](../reports/952035.md) | Admin web sessions remain active after logout of Shopify ID | [Shopify](../by-program/shopify.md) | None | — | 7 |

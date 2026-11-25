@@ -12671,7 +12671,18 @@ https://hackerone.com/reports/4177724 | curl 8.23.0 keeps sending requests to an
 https://hackerone.com/reports/4180338 | Unauthenticated API Writes  to Full IBM Software Access
 https://hackerone.com/reports/4191812 | Unauthenticated arbitrary local file read via ABCpdf on www.████████
 https://hackerone.com/reports/4191937 | IDOR: private ████████ post comments can be read and written by any authenticated user
+https://hackerone.com/reports/4193662 | Formula injection via entity names in XLS reports
+https://hackerone.com/reports/4195061 | Reflected XSS through delivery macro re-injection
 https://hackerone.com/reports/4199917 | SFTP connection reuse skips the host-key pin of a later transfer
+https://hackerone.com/reports/4204516 | Cross-agency campaign and banner name disclosure in zone linking
+https://hackerone.com/reports/4206093 | Cross-agency advertiser and website name disclosure in XLS reports
+https://hackerone.com/reports/4207136 | Entity deletion can leave agency, advertiser, and publisher accounts active
+https://hackerone.com/reports/4209444 | VAST XML injection can replace video playback tracking
+https://hackerone.com/reports/4211442 | Cross-advertiser tracker association exposes tracker metadata
+https://hackerone.com/reports/4215622 | Unauthenticated cross-tracker variable injection can suppress conversions
+https://hackerone.com/reports/4216475 | error based SQL injection on ████████
 https://hackerone.com/reports/4218369 | Cross-IP Cookie Disclosure via Empty Custom Host Header Truncation
 https://hackerone.com/reports/4224454 | Use-after-free read of the CURLOPT_RESOLVE list after curl_easy_reset()
 https://hackerone.com/reports/4227402 | Multiple Vulnerabilities in curl/libcurl URL Parser (RFC3986 Compliance Issues)
+https://hackerone.com/reports/4228805 | SQL injection via includebanner array keys in zone-include.php
+https://hackerone.com/reports/4235206 | Reflected XSS through the ct0 delivery parameter

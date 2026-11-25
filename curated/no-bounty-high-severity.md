@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2469 total)
+# High/Critical Severity — No Bounty Paid (2470 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -482,6 +482,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [778610](../reports/778610.md) | Squid as reverse proxy RCE and data leak | [Internet Bug Bounty](../by-program/ibb.md) | Critical | Resolved | 17 |
 | [1161141](../reports/1161141.md) | Improper data update process on UpdatePhabricatorIntegration muta | [HackerOne](../by-program/security.md) | Critical — CVSS 9.1 | Informative | 16 |
 | [1261413](../reports/1261413.md) | HEIC image preview can be used to invoke Imagick | [Nextcloud](../by-program/nextcloud.md) | Critical | Resolved | 16 |
+| [4216475](../reports/4216475.md) | error based SQL injection on ████████ | [Essity](../by-program/essity.md) | Critical — CVSS 9.4 | Resolved | 16 |
 | [899954](../reports/899954.md) | XSS in message attachment fileds. | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 9.9 | Resolved | 16 |
 | [1217114](../reports/1217114.md) | CCC H1 June 2021 CTF Writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 16 |
 | [241044](../reports/241044.md) | Privilege Escalation: From operator to ubnt (and root) with non-i | [Ubiquiti Inc.](../by-program/ui.md) | Critical — CVSS 9.9 | Resolved | 16 |

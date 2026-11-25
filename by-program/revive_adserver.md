@@ -1,4 +1,4 @@
-# Revive Adserver — Disclosed Reports (76 total)
+# Revive Adserver — Disclosed Reports (86 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -48,35 +48,45 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 42 | [3783738](../reports/3783738.md) | XML‑RPC login leak exposes valid session ID enabling unautho | Medium — CVSS 4.3 | — | 4 | [garuthacktvist](https://hackerone.com/garuthacktvist) | 2026-06-25 |
 | 43 | [3981932](../reports/3981932.md) | CSRF in tracker invocation page | Medium — CVSS 4.3 | — | 3 | [abhi_hackz](https://hackerone.com/abhi_hackz) | 2026-11-11 |
 | 44 | [3859000](../reports/3859000.md) | Formula injection in conversion tracking report export | Medium — CVSS 4.7 | — | 3 | [baptoutatis](https://hackerone.com/baptoutatis) | 2026-11-11 |
-| 45 | [3780709](../reports/3780709.md) | Missing ownership validation allows cross‑manager tracker–ca | Medium — CVSS 4.3 | — | 3 | [hakuopi](https://hackerone.com/hakuopi) | 2026-06-25 |
-| 46 | [3878649](../reports/3878649.md) | Reflected XSS via wrong permission check in conversion stati | Medium — CVSS 6.1 | — | 3 | [7yr](https://hackerone.com/7yr) | 2026-11-11 |
-| 47 | [3781311](../reports/3781311.md) | Stored XSS in maintenance tools via unescaped entity names | Medium — CVSS 4.4 | — | 3 | [an_gr_y](https://hackerone.com/an_gr_y) | 2026-06-25 |
-| 48 | [3883840](../reports/3883840.md) | Cross-agency disclosure in website listing | Medium — CVSS 4.3 | — | 3 | [shmulc8](https://hackerone.com/shmulc8) | 2026-11-11 |
-| 49 | [3678828](../reports/3678828.md) | Banner status override by advertiser‑level users | Medium — CVSS 4.3 | — | 2 | [v3rtical](https://hackerone.com/v3rtical) | 2026-06-03 |
-| 50 | [3929216](../reports/3929216.md) | Cross-agency delivery rule set creation | Medium — CVSS 4.3 | — | 2 | [vidang04](https://hackerone.com/vidang04) | 2026-11-11 |
-| 51 | [3781691](../reports/3781691.md) | CSRF in zone‑include.php allows unauthorized banner and camp | Medium — CVSS 5.4 | — | 2 | [an_gr_y](https://hackerone.com/an_gr_y) | 2026-06-25 |
-| 52 | [3942028](../reports/3942028.md) | Reflected XSS via invocation banner ID field in admin-genera | Medium — CVSS 4.7 | — | 2 | [blasterx24](https://hackerone.com/blasterx24) | 2026-11-11 |
-| 53 | [3672641](../reports/3672641.md) | Session ID reuse allowing XML‑RPC API authentication bypass | Medium — CVSS 4.3 | — | 2 | [0x4c616e](https://hackerone.com/0x4c616e) | 2026-06-03 |
-| 54 | [3677576](../reports/3677576.md) | Missing access control when modifying parent entities via XM | Medium — CVSS 4.3 | — | 2 | [3l4](https://hackerone.com/3l4) | 2026-06-03 |
-| 55 | [1081406](../reports/1081406.md) | Open redirect in ck.php and lg.php | Medium — CVSS 5.4 | — | 1 | [mbeccati](https://hackerone.com/mbeccati) | 2021-01-20 |
-| 56 | [3826207](../reports/3826207.md) | Stored XSS via unescaped tracker name in append-code check | Medium — CVSS 5.4 | — | 1 | [flasks](https://hackerone.com/flasks) | 2026-11-11 |
-| 57 | [3971985](../reports/3971985.md) | Reflected XSS in popup invocation options | Medium — CVSS 4.7 | — | 1 | [miauuu](https://hackerone.com/miauuu) | 2026-11-11 |
-| 58 | [3793243](../reports/3793243.md) | Reflected XSS in stats‑video.php via improperly encoded URL  | Medium — CVSS 4.7 | — | 1 | [kanon4](https://hackerone.com/kanon4) | 2026-06-25 |
-| 59 | [3958112](../reports/3958112.md) | Missing campaign ownership check in zone bulk linking | Medium — CVSS 5.4 | — | 0 | [miauuu](https://hackerone.com/miauuu) | 2026-11-11 |
-| 60 | [4116433](../reports/4116433.md) | Stored XSS in report date selection | Medium — CVSS 6.1 | — | 0 | [mlopez01](https://hackerone.com/mlopez01) | 2026-11-11 |
-| 61 | [4075098](../reports/4075098.md) | Unauthenticated reflected XSS in update history | Medium — CVSS 6.1 | — | 0 | [mlopez01](https://hackerone.com/mlopez01) | 2026-11-11 |
-| 62 | [3908050](../reports/3908050.md) | Reflected XSS via invocation iFrame size fields | Medium — CVSS 6.1 | — | 0 | [kannrisha](https://hackerone.com/kannrisha) | 2026-11-11 |
-| 63 | [3399218](../reports/3399218.md) | Improper sanitisation of input in the settings could cause D | Low — CVSS 2.7 | — | 24 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2025-11-19 |
-| 64 | [792895](../reports/792895.md) | bypass old password with array in /admin/account-user-email. | Low | — | 22 | [hoangn14](https://hackerone.com/hoangn14) | 2020-03-12 |
-| 65 | [3404968](../reports/3404968.md) | Stored-XSS in Banner Name field  | Low — CVSS 3.5 | — | 21 | [yoyomiski](https://hackerone.com/yoyomiski) | 2025-11-19 |
-| 66 | [3445332](../reports/3445332.md) | INI Format string injection in Revive Adserver 6.0.4 setting | Low — CVSS 2.7 | — | 19 | [pakcyberbot](https://hackerone.com/pakcyberbot) | 2026-01-14 |
-| 67 | [3399809](../reports/3399809.md) | Stored XSS on inventory-retrieve.php | Low — CVSS 3.5 | — | 17 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2025-11-19 |
-| 68 | [176116](../reports/176116.md) | Weak Forgot Password implementation | Low | — | 17 | [pavanw3b](https://hackerone.com/pavanw3b) | 2017-08-02 |
-| 69 | [178611](../reports/178611.md) | Reflected XSS on Zones > Invocation Code | Low | — | 7 | [pavanw3b](https://hackerone.com/pavanw3b) | 2017-08-02 |
-| 70 | [794144](../reports/794144.md) | Open redirection bypass in /www/admin/campaign-modify.php | Low | — | 7 | [hoangn14](https://hackerone.com/hoangn14) | 2020-03-12 |
-| 71 | [1694171](../reports/1694171.md) | Multiple cross-site scripting (XSS) vulnerabilities in Reviv | Low | — | 5 | [l4stb1t](https://hackerone.com/l4stb1t) | 2023-09-13 |
-| 72 | [819362](../reports/819362.md) | Cross Site Scripting and Open Redirect in affiliate-preview. | Low | — | 4 | [keyurvala](https://hackerone.com/keyurvala) | 2021-01-20 |
-| 73 | [390663](../reports/390663.md) | Open redirect in switch account functionality | Low — CVSS 3.1 | — | 3 | [sumni](https://hackerone.com/sumni) | 2019-04-23 |
-| 74 | [96115](../reports/96115.md) | Login page password-guessing attack | None | — | 47 | [karan](https://hackerone.com/karan) | 2024-04-19 |
-| 75 | [170156](../reports/170156.md) | Reflected XSS in Step 2 of the Installation | None | — | 6 | [pavanw3b](https://hackerone.com/pavanw3b) | 2017-08-02 |
-| 76 | [3680090](../reports/3680090.md) | Stored XSS via malicious usernames in audit log details + Us | None | — | 2 | [3l4](https://hackerone.com/3l4) | 2026-06-03 |
+| 45 | [4195061](../reports/4195061.md) | Reflected XSS through delivery macro re-injection | Medium — CVSS 6.1 | — | 3 | [im4x](https://hackerone.com/im4x) | 2026-11-25 |
+| 46 | [3780709](../reports/3780709.md) | Missing ownership validation allows cross‑manager tracker–ca | Medium — CVSS 4.3 | — | 3 | [hakuopi](https://hackerone.com/hakuopi) | 2026-06-25 |
+| 47 | [3878649](../reports/3878649.md) | Reflected XSS via wrong permission check in conversion stati | Medium — CVSS 6.1 | — | 3 | [7yr](https://hackerone.com/7yr) | 2026-11-11 |
+| 48 | [3781311](../reports/3781311.md) | Stored XSS in maintenance tools via unescaped entity names | Medium — CVSS 4.4 | — | 3 | [an_gr_y](https://hackerone.com/an_gr_y) | 2026-06-25 |
+| 49 | [3883840](../reports/3883840.md) | Cross-agency disclosure in website listing | Medium — CVSS 4.3 | — | 3 | [shmulc8](https://hackerone.com/shmulc8) | 2026-11-11 |
+| 50 | [3678828](../reports/3678828.md) | Banner status override by advertiser‑level users | Medium — CVSS 4.3 | — | 2 | [v3rtical](https://hackerone.com/v3rtical) | 2026-06-03 |
+| 51 | [3929216](../reports/3929216.md) | Cross-agency delivery rule set creation | Medium — CVSS 4.3 | — | 2 | [vidang04](https://hackerone.com/vidang04) | 2026-11-11 |
+| 52 | [3781691](../reports/3781691.md) | CSRF in zone‑include.php allows unauthorized banner and camp | Medium — CVSS 5.4 | — | 2 | [an_gr_y](https://hackerone.com/an_gr_y) | 2026-06-25 |
+| 53 | [3942028](../reports/3942028.md) | Reflected XSS via invocation banner ID field in admin-genera | Medium — CVSS 4.7 | — | 2 | [blasterx24](https://hackerone.com/blasterx24) | 2026-11-11 |
+| 54 | [4211442](../reports/4211442.md) | Cross-advertiser tracker association exposes tracker metadat | Medium — CVSS 5.4 | — | 2 | [mccss](https://hackerone.com/mccss) | 2026-11-25 |
+| 55 | [3672641](../reports/3672641.md) | Session ID reuse allowing XML‑RPC API authentication bypass | Medium — CVSS 4.3 | — | 2 | [0x4c616e](https://hackerone.com/0x4c616e) | 2026-06-03 |
+| 56 | [3677576](../reports/3677576.md) | Missing access control when modifying parent entities via XM | Medium — CVSS 4.3 | — | 2 | [3l4](https://hackerone.com/3l4) | 2026-06-03 |
+| 57 | [4228805](../reports/4228805.md) | SQL injection via includebanner array keys in zone-include.p | Medium — CVSS 6.5 | — | 2 | [titanrain](https://hackerone.com/titanrain) | 2026-11-25 |
+| 58 | [4209444](../reports/4209444.md) | VAST XML injection can replace video playback tracking | Medium — CVSS 4.3 | — | 2 | [a1man12](https://hackerone.com/a1man12) | 2026-11-25 |
+| 59 | [1081406](../reports/1081406.md) | Open redirect in ck.php and lg.php | Medium — CVSS 5.4 | — | 1 | [mbeccati](https://hackerone.com/mbeccati) | 2021-01-20 |
+| 60 | [4193662](../reports/4193662.md) | Formula injection via entity names in XLS reports | Medium — CVSS 4.1 | — | 1 | [fiskekutteren](https://hackerone.com/fiskekutteren) | 2026-11-25 |
+| 61 | [4235206](../reports/4235206.md) | Reflected XSS through the ct0 delivery parameter | Medium — CVSS 4.7 | — | 1 | [h2w](https://hackerone.com/h2w) | 2026-11-25 |
+| 62 | [3826207](../reports/3826207.md) | Stored XSS via unescaped tracker name in append-code check | Medium — CVSS 5.4 | — | 1 | [flasks](https://hackerone.com/flasks) | 2026-11-11 |
+| 63 | [4206093](../reports/4206093.md) | Cross-agency advertiser and website name disclosure in XLS r | Medium — CVSS 4.3 | — | 1 | [0xe2e](https://hackerone.com/0xe2e) | 2026-11-25 |
+| 64 | [3971985](../reports/3971985.md) | Reflected XSS in popup invocation options | Medium — CVSS 4.7 | — | 1 | [miauuu](https://hackerone.com/miauuu) | 2026-11-11 |
+| 65 | [3793243](../reports/3793243.md) | Reflected XSS in stats‑video.php via improperly encoded URL  | Medium — CVSS 4.7 | — | 1 | [kanon4](https://hackerone.com/kanon4) | 2026-06-25 |
+| 66 | [4204516](../reports/4204516.md) | Cross-agency campaign and banner name disclosure in zone lin | Medium — CVSS 4.3 | — | 0 | [0xe2e](https://hackerone.com/0xe2e) | 2026-11-25 |
+| 67 | [3958112](../reports/3958112.md) | Missing campaign ownership check in zone bulk linking | Medium — CVSS 5.4 | — | 0 | [miauuu](https://hackerone.com/miauuu) | 2026-11-11 |
+| 68 | [4116433](../reports/4116433.md) | Stored XSS in report date selection | Medium — CVSS 6.1 | — | 0 | [mlopez01](https://hackerone.com/mlopez01) | 2026-11-11 |
+| 69 | [4075098](../reports/4075098.md) | Unauthenticated reflected XSS in update history | Medium — CVSS 6.1 | — | 0 | [mlopez01](https://hackerone.com/mlopez01) | 2026-11-11 |
+| 70 | [4215622](../reports/4215622.md) | Unauthenticated cross-tracker variable injection can suppres | Medium — CVSS 5.3 | — | 0 | [prakhar0x01](https://hackerone.com/prakhar0x01) | 2026-11-25 |
+| 71 | [3908050](../reports/3908050.md) | Reflected XSS via invocation iFrame size fields | Medium — CVSS 6.1 | — | 0 | [kannrisha](https://hackerone.com/kannrisha) | 2026-11-11 |
+| 72 | [3399218](../reports/3399218.md) | Improper sanitisation of input in the settings could cause D | Low — CVSS 2.7 | — | 24 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2025-11-19 |
+| 73 | [792895](../reports/792895.md) | bypass old password with array in /admin/account-user-email. | Low | — | 22 | [hoangn14](https://hackerone.com/hoangn14) | 2020-03-12 |
+| 74 | [3404968](../reports/3404968.md) | Stored-XSS in Banner Name field  | Low — CVSS 3.5 | — | 21 | [yoyomiski](https://hackerone.com/yoyomiski) | 2025-11-19 |
+| 75 | [3445332](../reports/3445332.md) | INI Format string injection in Revive Adserver 6.0.4 setting | Low — CVSS 2.7 | — | 19 | [pakcyberbot](https://hackerone.com/pakcyberbot) | 2026-01-14 |
+| 76 | [3399809](../reports/3399809.md) | Stored XSS on inventory-retrieve.php | Low — CVSS 3.5 | — | 17 | [lu3ky-13](https://hackerone.com/lu3ky-13) | 2025-11-19 |
+| 77 | [176116](../reports/176116.md) | Weak Forgot Password implementation | Low | — | 17 | [pavanw3b](https://hackerone.com/pavanw3b) | 2017-08-02 |
+| 78 | [178611](../reports/178611.md) | Reflected XSS on Zones > Invocation Code | Low | — | 7 | [pavanw3b](https://hackerone.com/pavanw3b) | 2017-08-02 |
+| 79 | [794144](../reports/794144.md) | Open redirection bypass in /www/admin/campaign-modify.php | Low | — | 7 | [hoangn14](https://hackerone.com/hoangn14) | 2020-03-12 |
+| 80 | [1694171](../reports/1694171.md) | Multiple cross-site scripting (XSS) vulnerabilities in Reviv | Low | — | 5 | [l4stb1t](https://hackerone.com/l4stb1t) | 2023-09-13 |
+| 81 | [819362](../reports/819362.md) | Cross Site Scripting and Open Redirect in affiliate-preview. | Low | — | 4 | [keyurvala](https://hackerone.com/keyurvala) | 2021-01-20 |
+| 82 | [390663](../reports/390663.md) | Open redirect in switch account functionality | Low — CVSS 3.1 | — | 3 | [sumni](https://hackerone.com/sumni) | 2019-04-23 |
+| 83 | [4207136](../reports/4207136.md) | Entity deletion can leave agency, advertiser, and publisher  | Low — CVSS 3.1 | — | 2 | [lichoin-security-agent](https://hackerone.com/lichoin-security-agent) | 2026-11-25 |
+| 84 | [96115](../reports/96115.md) | Login page password-guessing attack | None | — | 47 | [karan](https://hackerone.com/karan) | 2024-04-19 |
+| 85 | [170156](../reports/170156.md) | Reflected XSS in Step 2 of the Installation | None | — | 6 | [pavanw3b](https://hackerone.com/pavanw3b) | 2017-08-02 |
+| 86 | [3680090](../reports/3680090.md) | Stored XSS via malicious usernames in audit log details + Us | None | — | 2 | [3l4](https://hackerone.com/3l4) | 2026-06-03 |
