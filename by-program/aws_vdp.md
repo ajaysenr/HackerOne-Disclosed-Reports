@@ -1,4 +1,4 @@
-# AWS VDP — Disclosed Reports (63 total)
+# AWS VDP — Disclosed Reports (64 total)
 
 Sorted by bounty amount, then severity, then votes. Reports with no bounty shown at the bottom.
 
@@ -46,24 +46,25 @@ Sorted by bounty amount, then severity, then votes. Reports with no bounty shown
 | 40 | [3630605](../reports/3630605.md) | Kiro IDE Stores Auth Tokens with World-Readable Permissions  | Medium — CVSS 5.5 | — | 5 | [mistercloudsec](https://hackerone.com/mistercloudsec) | 2026-07-09 |
 | 41 | [3620753](../reports/3620753.md) | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS) | Medium | — | 4 | [misop00p](https://hackerone.com/misop00p) | 2026-05-28 |
 | 42 | [4077800](../reports/4077800.md) | Unescaped consent-prompt renderer (HTML()) enables concealed | Medium | — | 3 | [hope_no_dupe](https://hackerone.com/hope_no_dupe) | 2026-11-06 |
-| 43 | [3632577](../reports/3632577.md) | Bedrock AgentCore Starter Toolkit Creates Gateway IAM Roles  | Medium | — | 3 | [mistercloudsec](https://hackerone.com/mistercloudsec) | 2026-07-15 |
-| 44 | [3780277](../reports/3780277.md) | Non-Production API Endpoints for the Amazon S3 Tables Servic | Medium | — | 3 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2026-07-02 |
-| 45 | [3633146](../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust S | Medium | — | 3 | [mistercloudsec](https://hackerone.com/mistercloudsec) | 2026-07-28 |
-| 46 | [3702072](../reports/3702072.md) | bedrock-mantle.api.aws accepts Bedrock API keys outside the  | Medium | — | 2 | [mistercloudsec](https://hackerone.com/mistercloudsec) | 2026-07-14 |
-| 47 | [3775702](../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails | Medium | — | 2 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2026-07-27 |
-| 48 | [3966599](../reports/3966599.md) | Unauthenticated go-httpbin servers : Leads to Cookie Tossing | Medium | — | 0 | [notnotnotveg](https://hackerone.com/notnotnotveg) | 2026-10-16 |
-| 49 | [3426839](../reports/3426839.md) | Unlimited Reuse of Coupon Code Allows Free Shipping on All O | Low | — | 66 | [aneeeketh](https://hackerone.com/aneeeketh) | 2026-02-09 |
-| 50 | [3287396](../reports/3287396.md) | AWS | Self Registration Internal LibreChat : Access to inter | Low | — | 61 | [notnotnotveg](https://hackerone.com/notnotnotveg) | 2025-08-25 |
-| 51 | [3382796](../reports/3382796.md) | Responsible disclosure - public S3 bucket exposing JSON/conf | Low | — | 36 | [xtawb](https://hackerone.com/xtawb) | 2025-11-14 |
-| 52 | [3478646](../reports/3478646.md) | GitHub Retired UsernameTakeover From  [aws/████████] | Low | — | 9 | [sh3d0w](https://hackerone.com/sh3d0w) | 2026-08-03 |
-| 53 | [3514122](../reports/3514122.md) | Password Reuse Vulnerability on AWS Sign-in Page via Passwor | None | — | 54 | [h0ne_analyst_94cm4n1](https://hackerone.com/h0ne_analyst_94cm4n1) | 2026-02-26 |
-| 54 | [3056937](../reports/3056937.md) | Bedrock Guardrails Evasion with Prompt Formatting | None | — | 53 | [nkirk-nrlabs](https://hackerone.com/nkirk-nrlabs) | 2025-05-15 |
-| 55 | [3557138](../reports/3557138.md) | Arbitrary Code Execution via Scanner Bypass in **aws-diagram | None | — | 42 | [locus-x64](https://hackerone.com/locus-x64) | 2026-03-09 |
-| 56 | [3591725](../reports/3591725.md) | SQL Injection Detection Bypass in AWS WAF Managed Rules (AWS | None | — | 36 | [killnet-edc](https://hackerone.com/killnet-edc) | 2026-04-15 |
-| 57 | [3217840](../reports/3217840.md) | Remote Code Execution in Amazon MWAA due to outdated Apache  | None | — | 24 | [ricardojoserf](https://hackerone.com/ricardojoserf) | 2025-08-14 |
-| 58 | [3620761](../reports/3620761.md) | Health check errors silently dropped when channel buffer ful | None | — | 21 | [misop00p](https://hackerone.com/misop00p) | 2026-04-07 |
-| 59 | [3427370](../reports/3427370.md) | Command Injection on Amazon Q Developer CLI via malicious .a | None | — | 19 | [farmer](https://hackerone.com/farmer) | 2026-01-16 |
-| 60 | [3620760](../reports/3620760.md) | Encryption context keys and values logged at INFO level | None | — | 19 | [misop00p](https://hackerone.com/misop00p) | 2026-04-10 |
-| 61 | [3577145](../reports/3577145.md) | QuickSight Authorization Bypass: Chat Agents Accessible Desp | None | — | 10 | [jcow](https://hackerone.com/jcow) | 2026-05-12 |
-| 62 | [3083011](../reports/3083011.md) | Private AWS AMIs are temporarily being exposed publicly | None | — | 4 | [seth_art_dd](https://hackerone.com/seth_art_dd) | 2025-05-29 |
-| 63 | [3738654](../reports/3738654.md) |  Firecracker Out-of-bounds Read/Write Local Privilege Escala | None | — | 4 | [terrynini38514](https://hackerone.com/terrynini38514) | 2026-06-11 |
+| 43 | [3891423](../reports/3891423.md) | Python Sandbox Escape in AWS MCP Server `run_script` | Medium — CVSS 6.4 | — | 3 | [xplo1t](https://hackerone.com/xplo1t) | 2026-11-24 |
+| 44 | [3632577](../reports/3632577.md) | Bedrock AgentCore Starter Toolkit Creates Gateway IAM Roles  | Medium | — | 3 | [mistercloudsec](https://hackerone.com/mistercloudsec) | 2026-07-15 |
+| 45 | [3780277](../reports/3780277.md) | Non-Production API Endpoints for the Amazon S3 Tables Servic | Medium | — | 3 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2026-07-02 |
+| 46 | [3633146](../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust S | Medium | — | 3 | [mistercloudsec](https://hackerone.com/mistercloudsec) | 2026-07-28 |
+| 47 | [3702072](../reports/3702072.md) | bedrock-mantle.api.aws accepts Bedrock API keys outside the  | Medium | — | 2 | [mistercloudsec](https://hackerone.com/mistercloudsec) | 2026-07-14 |
+| 48 | [3775702](../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails | Medium | — | 2 | [nick_frichette_dd](https://hackerone.com/nick_frichette_dd) | 2026-07-27 |
+| 49 | [3966599](../reports/3966599.md) | Unauthenticated go-httpbin servers : Leads to Cookie Tossing | Medium | — | 0 | [notnotnotveg](https://hackerone.com/notnotnotveg) | 2026-10-16 |
+| 50 | [3426839](../reports/3426839.md) | Unlimited Reuse of Coupon Code Allows Free Shipping on All O | Low | — | 66 | [aneeeketh](https://hackerone.com/aneeeketh) | 2026-02-09 |
+| 51 | [3287396](../reports/3287396.md) | AWS | Self Registration Internal LibreChat : Access to inter | Low | — | 61 | [notnotnotveg](https://hackerone.com/notnotnotveg) | 2025-08-25 |
+| 52 | [3382796](../reports/3382796.md) | Responsible disclosure - public S3 bucket exposing JSON/conf | Low | — | 36 | [xtawb](https://hackerone.com/xtawb) | 2025-11-14 |
+| 53 | [3478646](../reports/3478646.md) | GitHub Retired UsernameTakeover From  [aws/████████] | Low | — | 9 | [sh3d0w](https://hackerone.com/sh3d0w) | 2026-08-03 |
+| 54 | [3514122](../reports/3514122.md) | Password Reuse Vulnerability on AWS Sign-in Page via Passwor | None | — | 54 | [h0ne_analyst_94cm4n1](https://hackerone.com/h0ne_analyst_94cm4n1) | 2026-02-26 |
+| 55 | [3056937](../reports/3056937.md) | Bedrock Guardrails Evasion with Prompt Formatting | None | — | 53 | [nkirk-nrlabs](https://hackerone.com/nkirk-nrlabs) | 2025-05-15 |
+| 56 | [3557138](../reports/3557138.md) | Arbitrary Code Execution via Scanner Bypass in **aws-diagram | None | — | 42 | [locus-x64](https://hackerone.com/locus-x64) | 2026-03-09 |
+| 57 | [3591725](../reports/3591725.md) | SQL Injection Detection Bypass in AWS WAF Managed Rules (AWS | None | — | 36 | [killnet-edc](https://hackerone.com/killnet-edc) | 2026-04-15 |
+| 58 | [3217840](../reports/3217840.md) | Remote Code Execution in Amazon MWAA due to outdated Apache  | None | — | 24 | [ricardojoserf](https://hackerone.com/ricardojoserf) | 2025-08-14 |
+| 59 | [3620761](../reports/3620761.md) | Health check errors silently dropped when channel buffer ful | None | — | 21 | [misop00p](https://hackerone.com/misop00p) | 2026-04-07 |
+| 60 | [3427370](../reports/3427370.md) | Command Injection on Amazon Q Developer CLI via malicious .a | None | — | 19 | [farmer](https://hackerone.com/farmer) | 2026-01-16 |
+| 61 | [3620760](../reports/3620760.md) | Encryption context keys and values logged at INFO level | None | — | 19 | [misop00p](https://hackerone.com/misop00p) | 2026-04-10 |
+| 62 | [3577145](../reports/3577145.md) | QuickSight Authorization Bypass: Chat Agents Accessible Desp | None | — | 10 | [jcow](https://hackerone.com/jcow) | 2026-05-12 |
+| 63 | [3083011](../reports/3083011.md) | Private AWS AMIs are temporarily being exposed publicly | None | — | 4 | [seth_art_dd](https://hackerone.com/seth_art_dd) | 2025-05-29 |
+| 64 | [3738654](../reports/3738654.md) |  Firecracker Out-of-bounds Read/Write Local Privilege Escala | None | — | 4 | [terrynini38514](https://hackerone.com/terrynini38514) | 2026-06-11 |

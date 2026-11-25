@@ -1,4 +1,4 @@
-# High/Critical Severity — No Bounty Paid (2467 total)
+# High/Critical Severity — No Bounty Paid (2469 total)
 
 High or Critical severity reports that received no bounty. Useful for understanding out-of-scope rulings, informative closures, and program policy gaps.
 
@@ -715,6 +715,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [1066914](../reports/1066914.md) | [ Hacky Holidays CTF ] Completely taken down the Grinch Networks | [h1-ctf](../by-program/h1-ctf.md) | Critical | Resolved | 6 |
 | [1537543](../reports/1537543.md) | ██████████ vulnerable to CVE-2022-22954 | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | Resolved | 6 |
 | [3307874](../reports/3307874.md) | Critical Deadlock Vulnerability in Monero RPC Leading to Complete | [Monero](../by-program/monero.md) | Critical — CVSS 10.0 | Resolved | 6 |
+| [3883702](../reports/3883702.md) | DNS Rebinding Enables Unauthorized MCP Tool Access | [IBM](../by-program/ibm.md) | Critical — CVSS 9.6 | Resolved | 6 |
 | [188561](../reports/188561.md) | Sending arbitrary IPC messages via overriding Array.prototype.pus | [Brave Software](../by-program/brave.md) | Critical | Informative | 6 |
 | [722145](../reports/722145.md) | [CRITICAL] Sql Injection on http://axa.dxi.eu | [8x8](../by-program/8x8-bounty.md) | Critical | Resolved | 6 |
 | [4081135](../reports/4081135.md) | Privilege escalation via unfiltered role restoration in project b | [Weblate](../by-program/weblate.md) | Critical — CVSS 9.9 | Resolved | 6 |
@@ -2256,6 +2257,7 @@ High or Critical severity reports that received no bounty. Useful for understand
 | [268807](../reports/268807.md) | CVE-2017-13010 The BEEP parser in tcpdump before 4.9.2 has a buff | [Internet Bug Bounty](../by-program/ibb.md) | High — CVSS 7.3 | Resolved | 4 |
 | [3785919](../reports/3785919.md) | libcurl: HTTP/1.x bare LF byte in response header value enables c | [curl](../by-program/curl.md) | High | Not Applicable | 4 |
 | [312918](../reports/312918.md) | [public] Path Traversal allows to read content of arbitrary files | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | High — CVSS 8.6 | Resolved | 4 |
+| [4172841](../reports/4172841.md) | Sensitive Access Tokens Logged in Server Log Files | [IBM](../by-program/ibm.md) | High — CVSS 7.8 | Resolved | 4 |
 | [226896](../reports/226896.md) | Nextcloud Server Remote Command Execution | [Nextcloud](../by-program/nextcloud.md) | High — CVSS 7.0 | Not Applicable | 4 |
 | [951530](../reports/951530.md) | [CVE-2020-3452] Unauthenticated file read in Cisco ASA | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | High | Resolved | 4 |
 | [1178337](../reports/1178337.md) | Improper handling of untypical characters in domain names | [Node.js](../by-program/nodejs.md) | High — CVSS 7.5 | Resolved | 4 |

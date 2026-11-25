@@ -1,4 +1,4 @@
-# Severity: Critical (1015 reports)
+# Severity: Critical (1016 reports)
 
 *Sorted by bounty amount, then severity, then votes.*
 
@@ -871,151 +871,152 @@
 | 865 | [1066914](../reports/1066914.md) | [ Hacky Holidays CTF ] Completely taken down the Grinch Networks | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 6 |
 | 866 | [1537543](../reports/1537543.md) | ██████████ vulnerable to CVE-2022-22954 | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 6 |
 | 867 | [3307874](../reports/3307874.md) | Critical Deadlock Vulnerability in Monero RPC Leading to Complete | [Monero](../by-program/monero.md) | Critical — CVSS 10.0 | — | 6 |
-| 868 | [188561](../reports/188561.md) | Sending arbitrary IPC messages via overriding Array.prototype.pus | [Brave Software](../by-program/brave.md) | Critical | — | 6 |
-| 869 | [722145](../reports/722145.md) | [CRITICAL] Sql Injection on http://axa.dxi.eu | [8x8](../by-program/8x8-bounty.md) | Critical | — | 6 |
-| 870 | [4081135](../reports/4081135.md) | Privilege escalation via unfiltered role restoration in project b | [Weblate](../by-program/weblate.md) | Critical — CVSS 9.9 | — | 6 |
-| 871 | [309394](../reports/309394.md) | [anywhere] An iframe element with url to malicious HTML file (wit | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.6 | — | 6 |
-| 872 | [1294242](../reports/1294242.md) | Underrepresentation Bias through Twitter's Cropping Algorithm #2: | [Twitter Algorithmic Bias](../by-program/twitter-algorithmic-bias.md) | Critical | — | 6 |
-| 873 | [212022](../reports/212022.md) | Remote Code Execution (RCE) in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 6 |
-| 874 | [358645](../reports/358645.md) | [serve] Server Directory Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.3 | — | 6 |
-| 875 | [363680](../reports/363680.md) | Constant-time comparison is not always implemented; critical area | [Monero](../by-program/monero.md) | Critical | — | 6 |
-| 876 | [235866](../reports/235866.md) | Cross-site Scripting (XSS) in /updates-pro/archive/ | [MapsMarker.com e.U.](../by-program/mapsmarker_com_e_u.md) | Critical | — | 6 |
-| 877 | [708303](../reports/708303.md) | Two-factor authentication (2FA) Bypass | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | Critical | — | 6 |
-| 878 | [324453](../reports/324453.md) | `command-exists` concatenates unsanitized input into exec()/execS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 6 |
-| 879 | [1555027](../reports/1555027.md) | CVE-2020-3187 - Unauthenticated Arbitrary File Deletion | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 6 |
-| 880 | [670779](../reports/670779.md) | Lodash "difference" (possibly others) Function Denial of Service  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.3 | — | 6 |
-| 881 | [1039325](../reports/1039325.md) | Other misconfiguration on Slack Server | [ImpressCMS](../by-program/impresscms.md) | Critical | — | 5 |
-| 882 | [684838](../reports/684838.md) | Directory Indexing on the ████ (https://████/) leads to the backu | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 5 |
-| 883 | [1049375](../reports/1049375.md) | SAML authentication bypass through unauthenticated `addSamlProvid | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 10.0 | — | 5 |
-| 884 | [972220](../reports/972220.md) | [arpping] Remote Code Execution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 5 |
-| 885 | [344069](../reports/344069.md) | The react-marked-markdown module allows XSS injection in href val | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.3 | — | 5 |
-| 886 | [308155](../reports/308155.md) | [html-janitor] Passing user-controlled data to clean() leads to X | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.8 | — | 5 |
-| 887 | [1119228](../reports/1119228.md) | CVE-2021-26855 on ████████ resulting in SSRF | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 5 |
-| 888 | [3479984](../reports/3479984.md) | CRLF Injection / Protocol Smuggling in libcurl via CURLOPT_USERNA | [curl](../by-program/curl.md) | Critical | — | 5 |
-| 889 | [534887](../reports/534887.md) | Custom crafted message object in Meteor.Call allows remote code e | [Rocket.Chat](../by-program/rocket_chat.md) | Critical | — | 5 |
-| 890 | [282909](../reports/282909.md) | Report Design Critical Stored DOM XSS Vulnerability  | [Infogram](../by-program/infogram.md) | Critical | — | 5 |
-| 891 | [202652](../reports/202652.md) | Remote command execution (RCE) vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 5 |
-| 892 | [319467](../reports/319467.md) | `macaddress` concatenates unsanitized input into exec() command | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 5 |
-| 893 | [341710](../reports/341710.md) | [git-dummy-commit] Command injection on the msg parameter | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 5 |
-| 894 | [887993](../reports/887993.md) | [H1-2006 2020] CTF | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 5 |
-| 895 | [892667](../reports/892667.md) | Subdomain takeover of ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 5 |
-| 896 | [894110](../reports/894110.md) | h1-ctf writeup , finally paid the payments by chaining multiple b | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 5 |
-| 897 | [1318087](../reports/1318087.md) | OTP reflecting in response sensitive data exposure leads to accou | [UPchieve](../by-program/upchieve.md) | Critical | — | 5 |
-| 898 | [186530](../reports/186530.md) | Information disclosure vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 5 |
-| 899 | [1283200](../reports/1283200.md) | url redirection | [UPchieve](../by-program/upchieve.md) | Critical | — | 5 |
-| 900 | [300102](../reports/300102.md) | muber-id Query Parameter Can Generate SSL-protected Reflected XSS | [Uber](../by-program/uber.md) | Critical — CVSS 9.1 | — | 5 |
-| 901 | [917843](../reports/917843.md) | Unsafe deserialization in Nexus Repository helm plugin | [Central Security Project](../by-program/central-security-project.md) | Critical | — | 5 |
-| 902 | [1066233](../reports/1066233.md) | CTF Writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 5 |
-| 903 | [330650](../reports/330650.md) | [serve] Directory listing and File access even when they have bee | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.3 | — | 5 |
-| 904 | [381185](../reports/381185.md) | Prototype pollution attack (extend) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.3 | — | 5 |
-| 905 | [377592](../reports/377592.md) | A bug in the Monero wallet balance can enable theft from exchange | [Monero](../by-program/monero.md) | Critical | — | 5 |
-| 906 | [1423496](../reports/1423496.md) | ██████████ running a vulnerable log4j | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
-| 907 | [894165](../reports/894165.md) | [h1-2006 CTF] Payments for May have been processed! | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 4 |
-| 908 | [1141623](../reports/1141623.md) | Unexpected input validation of octal literals in nodejs v15.12.0  | [Node.js](../by-program/nodejs.md) | Critical — CVSS 10.0 | — | 4 |
-| 909 | [1662474](../reports/1662474.md) | springboot actuator is leaking internals at ██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
-| 910 | [1537694](../reports/1537694.md) | ███ vulnerable to CVE-2022-22954 | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
-| 911 | [894174](../reports/894174.md) | [H1-2006 2020] In-depth resolution of the h1-2006 CTF | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 4 |
-| 912 | [3962925](../reports/3962925.md) | Launchpad file read leaks production keys | [Basecamp](../by-program/basecamp.md) | Critical — CVSS 9.6 | — | 4 |
-| 913 | [888331](../reports/888331.md) | [H1-2006 2020]  ^FLAG^736c635d8842751b8aafa556154eb9f3$FLAG$ | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 4 |
-| 914 | [895650](../reports/895650.md) | [h1-2006 2020]  Chained vulnerabilities lead to account takeover | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 4 |
-| 915 | [231687](../reports/231687.md) | Remote Code Execution (RCE) vulnerability in multiple DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
-| 916 | [3619288](../reports/3619288.md) | RCE + PAT Exfiltration via pull_request_target in privacy-configu | [DuckDuckGo](../by-program/duckduckgo.md) | Critical | — | 4 |
-| 917 | [331032](../reports/331032.md) | [buttle] Remote Command Execution via unsanitized PHP filename wh | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 4 |
-| 918 | [222762](../reports/222762.md) | Clickjacking In https://demo.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | Critical | — | 4 |
-| 919 | [512076](../reports/512076.md) | Deserialization of Untrusted Data in www/delivery/adxmlrpc.php | [Revive Adserver](../by-program/revive_adserver.md) | Critical — CVSS 9.1 | — | 4 |
-| 920 | [894949](../reports/894949.md) | [H1-2006 2020] Exploiting multiple vulnerabilities to get hacker' | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 4 |
-| 921 | [634630](../reports/634630.md) | Remote OS command Execution in the 3 more Oracle Weblogic on the  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
-| 922 | [3712343](../reports/3712343.md) | MQTT CONNACK Packet Type Bypass leads to RCE via Malicious Broker | [curl](../by-program/curl.md) | Critical | — | 4 |
-| 923 | [3687142](../reports/3687142.md) | Unauthenticated reading of every file via livechat auth and predi | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 9.3 | — | 4 |
-| 924 | [890196](../reports/890196.md) | [H1-2006 2020]  Multiple vulnerabilities lead to CEO account take | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 4 |
-| 925 | [1065493](../reports/1065493.md) | [CTF] I've DDoSed Grinch Network | [h1-ctf](../by-program/h1-ctf.md) | Critical — CVSS 10.0 | — | 4 |
-| 926 | [482634](../reports/482634.md) | https://████████ Impacted by DNN ImageHandler SSRF | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
-| 927 | [1278928](../reports/1278928.md) | blind sql on  [ https://argocd.upchieve.org/login?return_url=id=  | [UPchieve](../by-program/upchieve.md) | Critical | — | 4 |
-| 928 | [496326](../reports/496326.md) | █████████ - Insecure download cookie generation allows bypass of  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
-| 929 | [711662](../reports/711662.md) | default ████ creds on https://████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
-| 930 | [895722](../reports/895722.md) | [h1-2006 CTF] Multiple vulnerabilities leading to account takeove | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 4 |
-| 931 | [329400](../reports/329400.md) | Remote Code Execution (RCE) in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
-| 932 | [801522](../reports/801522.md) | [utils-extend] Prototype pollution  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.4 | — | 4 |
-| 933 | [335608](../reports/335608.md) | Denial of Service: nghttp2 use of uninitialized pointer | [Node.js](../by-program/nodejs.md) | Critical — CVSS 9.3 | — | 4 |
-| 934 | [311101](../reports/311101.md) | [crud-file-server] Stored XSS in filenames when directory index i | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.6 | — | 4 |
-| 935 | [890555](../reports/890555.md) | [H1-2006 2020] CTF write-up | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 4 |
-| 936 | [329645](../reports/329645.md) | Silent omission of certificate hostname verification in LibreSSL  | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.1 | — | 4 |
-| 937 | [1069034](../reports/1069034.md) | Grinchs website takendown with various other exploits | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 4 |
-| 938 | [3938691](../reports/3938691.md) | Image upload reaches TIFF/JPEG heap overwrite (potential RCE) | [Basecamp](../by-program/basecamp.md) | Critical — CVSS 9.1 | — | 4 |
-| 939 | [3931771](../reports/3931771.md) | Author → stored XSS in wp-admin: unescaped sub-size filename from | [WordPress](../by-program/wordpress.md) | Critical — CVSS 9.0 | — | 3 |
-| 940 | [300101](../reports/300101.md) | lite:sess Query Parameter Can Generate SSL-protected Reflected XS | [Uber](../by-program/uber.md) | Critical — CVSS 9.1 | — | 3 |
-| 941 | [1066504](../reports/1066504.md) | Grinch Networks compromised! | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
-| 942 | [1043360](../reports/1043360.md) | HTTP2 'unknownProtocol' cause Denial of Service by resource exhau | [Node.js](../by-program/nodejs.md) | Critical — CVSS 9.3 | — | 3 |
-| 943 | [894198](../reports/894198.md) | [H1-2006 2020]  Includes 1 free content discovery | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
-| 944 | [300081](../reports/300081.md) | SSL-protected Reflected XSS in https://m.uber.com/0-dfffb25d2cf6c | [Uber](../by-program/uber.md) | Critical — CVSS 9.1 | — | 3 |
-| 945 | [271360](../reports/271360.md) | [avito.ru] Утекают креды от платежных провайдеров | [Avito](../by-program/avito.md) | Critical | — | 3 |
-| 946 | [1068433](../reports/1068433.md) | 12 Days of CTF Walkthroughs | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
-| 947 | [3856148](../reports/3856148.md) | Low-privilege RCE in MariaDB: SYS_REFCURSOR cursor-array use-afte | [MariaDB](../by-program/mariadb.md) | Critical | — | 3 |
-| 948 | [878420](../reports/878420.md) | [windows-edge] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 3 |
-| 949 | [1066801](../reports/1066801.md) | Hacky Holidays CTF Writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical — CVSS 9.9 | — | 3 |
-| 950 | [3801107](../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum content in | [WordPress](../by-program/wordpress.md) | Critical — CVSS 9.3 | — | 3 |
-| 951 | [871071](../reports/871071.md) | [gfc] Command Injection via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 3 |
-| 952 | [1069189](../reports/1069189.md) | Grinch-Networks taken down - hacky holidays CTF  | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
-| 953 | [1028392](../reports/1028392.md) | CVE-2020-6287  https://redapi2.acronis.com | [Acronis](../by-program/acronis.md) | Critical | — | 3 |
-| 954 | [300080](../reports/300080.md) | SSL-protected Reflected XSS in https://m.uber.com/0-dfffb25d2cf6c | [Uber](../by-program/uber.md) | Critical — CVSS 9.1 | — | 3 |
-| 955 | [296701](../reports/296701.md) | SSL-protected Reflected XSS in m.uber.com | [Uber](../by-program/uber.md) | Critical — CVSS 10.0 | — | 3 |
-| 956 | [893395](../reports/893395.md) | [H1-2006 2020] CTF Writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
-| 957 | [300103](../reports/300103.md) | udi-id Query Parameter Can Generate SSL-protected Reflected XSS i | [Uber](../by-program/uber.md) | Critical — CVSS 9.1 | — | 3 |
-| 958 | [892337](../reports/892337.md) | [H1-2006 2020] [CTF Writeup] A story about Bounty Payments, Colla | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
-| 959 | [4152726](../reports/4152726.md) | Blind SQL Injection — IBM Training Course Search API | [IBM](../by-program/ibm.md) | Critical | — | 3 |
-| 960 | [434689](../reports/434689.md) | Global defaming of any twitter user | [X / xAI](../by-program/x.md) | Critical | — | 3 |
-| 961 | [1065517](../reports/1065517.md) | h1 hacky holidays CTF solution | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
-| 962 | [3729501](../reports/3729501.md) | Pre-authentication Stored XSS in Essity Customer-Service Pipeline | [Essity](../by-program/essity.md) | Critical — CVSS 9.4 | — | 3 |
-| 963 | [925324](../reports/925324.md) | [systeminformation] Command Injection via insecure command format | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 3 |
-| 964 | [226200](../reports/226200.md) | OP_SCALL in LHS of a OP_ASGN resulting in arbitrary memory write | [shopify-scripts](../by-program/shopify-scripts.md) | Critical | — | 3 |
-| 965 | [3778282](../reports/3778282.md) | Critical SQL Injection WDM API (████████) | [Essity](../by-program/essity.md) | Critical | — | 3 |
-| 966 | [806213](../reports/806213.md) | Sensitive Information Leaking Through DoD Owned Website. [███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 3 |
-| 967 | [324491](../reports/324491.md) | `fs-path` concatenates unsanitized input into exec()/execSync() c | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.6 | — | 2 |
-| 968 | [330724](../reports/330724.md) | [serve] Directory listing and File access even when they have bee | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.3 | — | 2 |
-| 969 | [1438393](../reports/1438393.md) | ███ ████████ running a vulnerable log4j | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 2 |
-| 970 | [186393](../reports/186393.md) | Subdomain Takeover on OWOX.RU | [OWOX, Inc.](../by-program/owox.md) | Critical | — | 2 |
-| 971 | [1069467](../reports/1069467.md) | H1 Hackyholidays CTF - The Grinch was defeated | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 2 |
-| 972 | [895587](../reports/895587.md) | [H1-2006 2020] How I solved my first H1 CTF | [h1-ctf](../by-program/h1-ctf.md) | Critical — CVSS 9.0 | — | 2 |
-| 973 | [496219](../reports/496219.md) | █████ - Pre-generation of VIEWSTATE allows CAC bypass | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 2 |
-| 974 | [272979](../reports/272979.md) | 2 vulnerabilities of arbitrary code in ████████  - CVE-2017-5929 | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 2 |
-| 975 | [907311](../reports/907311.md) | [meemo-app] Denial of Service via LDAP Injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 2 |
-| 976 | [434202](../reports/434202.md) | Opportunity to post hidden comments | [X / xAI](../by-program/x.md) | Critical | — | 2 |
-| 977 | [694471](../reports/694471.md) | [create-git] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 2 |
-| 978 | [3619287](../reports/3619287.md) | RCE + Supply Chain Attack via pull_request_target in content-scop | [DuckDuckGo](../by-program/duckduckgo.md) | Critical | — | 2 |
-| 979 | [1068934](../reports/1068934.md) | [h1ctf-Grinch Networks] MrR3b00t Saving the Christmas | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 2 |
-| 980 | [4122039](../reports/4122039.md) | libcurl shared-HSTS-cache race leads to use-after-free with attac | [curl](../by-program/curl.md) | Critical | — | 2 |
-| 981 | [864354](../reports/864354.md) | [diskstats] Command Injection via insecure command concatenation | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 2 |
-| 982 | [1067090](../reports/1067090.md) | Mission completed. Grinch Networks is down and Christmas saved. | [h1-ctf](../by-program/h1-ctf.md) | Critical — CVSS 10.0 | — | 2 |
-| 983 | [184884](../reports/184884.md) | Subdomain Takeover on  http://blog.owox.com/ | [OWOX, Inc.](../by-program/owox.md) | Critical | — | 2 |
-| 984 | [816637](../reports/816637.md) | CVE-2020-10938-buffer overflow/out-of-bounds write in compress.c: | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.8 | — | 1 |
-| 985 | [4227402](../reports/4227402.md) | Multiple Vulnerabilities in curl/libcurl URL Parser (RFC3986 Comp | [curl](../by-program/curl.md) | Critical | — | 1 |
-| 986 | [3840113](../reports/3840113.md) | Mass PII Exposure: 120,000+ Consumer Email Addresses Leaked via A | [Essity](../by-program/essity.md) | Critical | — | 1 |
-| 987 | [854049](../reports/854049.md) | PulseSSL VPN Site with Compromised Creds @ ████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 1 |
-| 988 | [1069141](../reports/1069141.md) | Infiltrating into Grinch-Networks and saving Christmas! | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 1 |
-| 989 | [1066007](../reports/1066007.md) | Hacky Holidays CTF Writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 1 |
-| 990 | [1068434](../reports/1068434.md) | HackyHolidays 2020 Full Write-up: Information Disclosure of 12 Fl | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 1 |
-| 991 | [1065731](../reports/1065731.md) | Writeup Hackyholiday CTF | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 1 |
-| 992 | [972936](../reports/972936.md) | A specially crafted value for the 'Cache-Digest' header causing c | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | Critical | — | 1 |
-| 993 | [1631364](../reports/1631364.md) | ██████_log4j - https://██████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 1 |
-| 994 | [4180338](../reports/4180338.md) | Unauthenticated API Writes  to Full IBM Software Access | [IBM](../by-program/ibm.md) | Critical | — | 1 |
-| 995 | [1067835](../reports/1067835.md) | Hacky Holidays Writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 1 |
-| 996 | [1631370](../reports/1631370.md) | solr_log4j - http://██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 1 |
-| 997 | [863956](../reports/863956.md) | [extra-asciinema] Command Injection via insecure command formatti | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 1 |
-| 998 | [887744](../reports/887744.md) | [H1-2006 2020]  Got the flag | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 1 |
-| 999 | [1415825](../reports/1415825.md) | [CVE-2020-3452] Unauthenticated file read in Cisco ASA | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 1 |
-| 1000 | [973386](../reports/973386.md) | [curling] Remote Code Execution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 1 |
-| 1001 | [257276](../reports/257276.md) | Open aws s3 bucket s3://rubyci | [Ruby](../by-program/ruby.md) | Critical | — | 1 |
-| 1002 | [1066135](../reports/1066135.md) | Wholesome Hacky Holidays: A Writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 1 |
-| 1003 | [865168](../reports/865168.md) | [xps] Command Injection via insecure command concatenation | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 0 |
-| 1004 | [1069376](../reports/1069376.md) | [hackyholidays] CTF write-up | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 0 |
-| 1005 | [1069171](../reports/1069171.md) | [H1 hackyholidays] CTF Writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 0 |
-| 1006 | [1066206](../reports/1066206.md) | [hacky-holidays] Grinch network is down | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 0 |
-| 1007 | [863944](../reports/863944.md) | [extra-ffmpeg] Command Injection via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 0 |
-| 1008 | [1069263](../reports/1069263.md) | First CTF ever! | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 0 |
-| 1009 | [973245](../reports/973245.md) | [imagickal] Remote Code Execution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 0 |
-| 1010 | [1069388](../reports/1069388.md) | It's just a man on a mission | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 0 |
-| 1011 | [864777](../reports/864777.md) | [vboxmanage.js] Command Injection via insecure command concatenat | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 0 |
-| 1012 | [511459](../reports/511459.md) | [listening-processes] Command Injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 0 |
-| 1013 | [1067530](../reports/1067530.md) | Successfully took down the Grinch and saved the holidays from bei | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 0 |
-| 1014 | [1326352](../reports/1326352.md) | Access to admininstrative resources/account via path traversal | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 0 |
-| 1015 | [510336](../reports/510336.md) | Uninitialized read in exif_process_IFD_in_TIFF | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.8 | — | 0 |
+| 868 | [3883702](../reports/3883702.md) | DNS Rebinding Enables Unauthorized MCP Tool Access | [IBM](../by-program/ibm.md) | Critical — CVSS 9.6 | — | 6 |
+| 869 | [188561](../reports/188561.md) | Sending arbitrary IPC messages via overriding Array.prototype.pus | [Brave Software](../by-program/brave.md) | Critical | — | 6 |
+| 870 | [722145](../reports/722145.md) | [CRITICAL] Sql Injection on http://axa.dxi.eu | [8x8](../by-program/8x8-bounty.md) | Critical | — | 6 |
+| 871 | [4081135](../reports/4081135.md) | Privilege escalation via unfiltered role restoration in project b | [Weblate](../by-program/weblate.md) | Critical — CVSS 9.9 | — | 6 |
+| 872 | [309394](../reports/309394.md) | [anywhere] An iframe element with url to malicious HTML file (wit | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.6 | — | 6 |
+| 873 | [1294242](../reports/1294242.md) | Underrepresentation Bias through Twitter's Cropping Algorithm #2: | [Twitter Algorithmic Bias](../by-program/twitter-algorithmic-bias.md) | Critical | — | 6 |
+| 874 | [212022](../reports/212022.md) | Remote Code Execution (RCE) in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 6 |
+| 875 | [358645](../reports/358645.md) | [serve] Server Directory Traversal | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.3 | — | 6 |
+| 876 | [363680](../reports/363680.md) | Constant-time comparison is not always implemented; critical area | [Monero](../by-program/monero.md) | Critical | — | 6 |
+| 877 | [235866](../reports/235866.md) | Cross-site Scripting (XSS) in /updates-pro/archive/ | [MapsMarker.com e.U.](../by-program/mapsmarker_com_e_u.md) | Critical | — | 6 |
+| 878 | [708303](../reports/708303.md) | Two-factor authentication (2FA) Bypass | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | Critical | — | 6 |
+| 879 | [324453](../reports/324453.md) | `command-exists` concatenates unsanitized input into exec()/execS | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 6 |
+| 880 | [1555027](../reports/1555027.md) | CVE-2020-3187 - Unauthenticated Arbitrary File Deletion | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 6 |
+| 881 | [670779](../reports/670779.md) | Lodash "difference" (possibly others) Function Denial of Service  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.3 | — | 6 |
+| 882 | [1039325](../reports/1039325.md) | Other misconfiguration on Slack Server | [ImpressCMS](../by-program/impresscms.md) | Critical | — | 5 |
+| 883 | [684838](../reports/684838.md) | Directory Indexing on the ████ (https://████/) leads to the backu | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 5 |
+| 884 | [1049375](../reports/1049375.md) | SAML authentication bypass through unauthenticated `addSamlProvid | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 10.0 | — | 5 |
+| 885 | [972220](../reports/972220.md) | [arpping] Remote Code Execution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 5 |
+| 886 | [344069](../reports/344069.md) | The react-marked-markdown module allows XSS injection in href val | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.3 | — | 5 |
+| 887 | [308155](../reports/308155.md) | [html-janitor] Passing user-controlled data to clean() leads to X | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.8 | — | 5 |
+| 888 | [1119228](../reports/1119228.md) | CVE-2021-26855 on ████████ resulting in SSRF | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 5 |
+| 889 | [3479984](../reports/3479984.md) | CRLF Injection / Protocol Smuggling in libcurl via CURLOPT_USERNA | [curl](../by-program/curl.md) | Critical | — | 5 |
+| 890 | [534887](../reports/534887.md) | Custom crafted message object in Meteor.Call allows remote code e | [Rocket.Chat](../by-program/rocket_chat.md) | Critical | — | 5 |
+| 891 | [282909](../reports/282909.md) | Report Design Critical Stored DOM XSS Vulnerability  | [Infogram](../by-program/infogram.md) | Critical | — | 5 |
+| 892 | [202652](../reports/202652.md) | Remote command execution (RCE) vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 5 |
+| 893 | [319467](../reports/319467.md) | `macaddress` concatenates unsanitized input into exec() command | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 5 |
+| 894 | [341710](../reports/341710.md) | [git-dummy-commit] Command injection on the msg parameter | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 5 |
+| 895 | [887993](../reports/887993.md) | [H1-2006 2020] CTF | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 5 |
+| 896 | [892667](../reports/892667.md) | Subdomain takeover of ███ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 5 |
+| 897 | [894110](../reports/894110.md) | h1-ctf writeup , finally paid the payments by chaining multiple b | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 5 |
+| 898 | [1318087](../reports/1318087.md) | OTP reflecting in response sensitive data exposure leads to accou | [UPchieve](../by-program/upchieve.md) | Critical | — | 5 |
+| 899 | [186530](../reports/186530.md) | Information disclosure vulnerability on a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 5 |
+| 900 | [1283200](../reports/1283200.md) | url redirection | [UPchieve](../by-program/upchieve.md) | Critical | — | 5 |
+| 901 | [300102](../reports/300102.md) | muber-id Query Parameter Can Generate SSL-protected Reflected XSS | [Uber](../by-program/uber.md) | Critical — CVSS 9.1 | — | 5 |
+| 902 | [917843](../reports/917843.md) | Unsafe deserialization in Nexus Repository helm plugin | [Central Security Project](../by-program/central-security-project.md) | Critical | — | 5 |
+| 903 | [1066233](../reports/1066233.md) | CTF Writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 5 |
+| 904 | [330650](../reports/330650.md) | [serve] Directory listing and File access even when they have bee | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.3 | — | 5 |
+| 905 | [381185](../reports/381185.md) | Prototype pollution attack (extend) | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.3 | — | 5 |
+| 906 | [377592](../reports/377592.md) | A bug in the Monero wallet balance can enable theft from exchange | [Monero](../by-program/monero.md) | Critical | — | 5 |
+| 907 | [1423496](../reports/1423496.md) | ██████████ running a vulnerable log4j | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
+| 908 | [894165](../reports/894165.md) | [h1-2006 CTF] Payments for May have been processed! | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 4 |
+| 909 | [1141623](../reports/1141623.md) | Unexpected input validation of octal literals in nodejs v15.12.0  | [Node.js](../by-program/nodejs.md) | Critical — CVSS 10.0 | — | 4 |
+| 910 | [1662474](../reports/1662474.md) | springboot actuator is leaking internals at ██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
+| 911 | [1537694](../reports/1537694.md) | ███ vulnerable to CVE-2022-22954 | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
+| 912 | [894174](../reports/894174.md) | [H1-2006 2020] In-depth resolution of the h1-2006 CTF | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 4 |
+| 913 | [3962925](../reports/3962925.md) | Launchpad file read leaks production keys | [Basecamp](../by-program/basecamp.md) | Critical — CVSS 9.6 | — | 4 |
+| 914 | [888331](../reports/888331.md) | [H1-2006 2020]  ^FLAG^736c635d8842751b8aafa556154eb9f3$FLAG$ | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 4 |
+| 915 | [895650](../reports/895650.md) | [h1-2006 2020]  Chained vulnerabilities lead to account takeover | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 4 |
+| 916 | [231687](../reports/231687.md) | Remote Code Execution (RCE) vulnerability in multiple DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
+| 917 | [3619288](../reports/3619288.md) | RCE + PAT Exfiltration via pull_request_target in privacy-configu | [DuckDuckGo](../by-program/duckduckgo.md) | Critical | — | 4 |
+| 918 | [331032](../reports/331032.md) | [buttle] Remote Command Execution via unsanitized PHP filename wh | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 10.0 | — | 4 |
+| 919 | [222762](../reports/222762.md) | Clickjacking In https://demo.nextcloud.com | [Nextcloud](../by-program/nextcloud.md) | Critical | — | 4 |
+| 920 | [512076](../reports/512076.md) | Deserialization of Untrusted Data in www/delivery/adxmlrpc.php | [Revive Adserver](../by-program/revive_adserver.md) | Critical — CVSS 9.1 | — | 4 |
+| 921 | [894949](../reports/894949.md) | [H1-2006 2020] Exploiting multiple vulnerabilities to get hacker' | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 4 |
+| 922 | [634630](../reports/634630.md) | Remote OS command Execution in the 3 more Oracle Weblogic on the  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
+| 923 | [3712343](../reports/3712343.md) | MQTT CONNACK Packet Type Bypass leads to RCE via Malicious Broker | [curl](../by-program/curl.md) | Critical | — | 4 |
+| 924 | [3687142](../reports/3687142.md) | Unauthenticated reading of every file via livechat auth and predi | [Rocket.Chat](../by-program/rocket_chat.md) | Critical — CVSS 9.3 | — | 4 |
+| 925 | [890196](../reports/890196.md) | [H1-2006 2020]  Multiple vulnerabilities lead to CEO account take | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 4 |
+| 926 | [1065493](../reports/1065493.md) | [CTF] I've DDoSed Grinch Network | [h1-ctf](../by-program/h1-ctf.md) | Critical — CVSS 10.0 | — | 4 |
+| 927 | [482634](../reports/482634.md) | https://████████ Impacted by DNN ImageHandler SSRF | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
+| 928 | [1278928](../reports/1278928.md) | blind sql on  [ https://argocd.upchieve.org/login?return_url=id=  | [UPchieve](../by-program/upchieve.md) | Critical | — | 4 |
+| 929 | [496326](../reports/496326.md) | █████████ - Insecure download cookie generation allows bypass of  | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
+| 930 | [711662](../reports/711662.md) | default ████ creds on https://████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
+| 931 | [895722](../reports/895722.md) | [h1-2006 CTF] Multiple vulnerabilities leading to account takeove | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 4 |
+| 932 | [329400](../reports/329400.md) | Remote Code Execution (RCE) in a DoD website | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 4 |
+| 933 | [801522](../reports/801522.md) | [utils-extend] Prototype pollution  | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.4 | — | 4 |
+| 934 | [335608](../reports/335608.md) | Denial of Service: nghttp2 use of uninitialized pointer | [Node.js](../by-program/nodejs.md) | Critical — CVSS 9.3 | — | 4 |
+| 935 | [311101](../reports/311101.md) | [crud-file-server] Stored XSS in filenames when directory index i | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.6 | — | 4 |
+| 936 | [890555](../reports/890555.md) | [H1-2006 2020] CTF write-up | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 4 |
+| 937 | [329645](../reports/329645.md) | Silent omission of certificate hostname verification in LibreSSL  | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.1 | — | 4 |
+| 938 | [1069034](../reports/1069034.md) | Grinchs website takendown with various other exploits | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 4 |
+| 939 | [3938691](../reports/3938691.md) | Image upload reaches TIFF/JPEG heap overwrite (potential RCE) | [Basecamp](../by-program/basecamp.md) | Critical — CVSS 9.1 | — | 4 |
+| 940 | [3931771](../reports/3931771.md) | Author → stored XSS in wp-admin: unescaped sub-size filename from | [WordPress](../by-program/wordpress.md) | Critical — CVSS 9.0 | — | 3 |
+| 941 | [300101](../reports/300101.md) | lite:sess Query Parameter Can Generate SSL-protected Reflected XS | [Uber](../by-program/uber.md) | Critical — CVSS 9.1 | — | 3 |
+| 942 | [1066504](../reports/1066504.md) | Grinch Networks compromised! | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
+| 943 | [1043360](../reports/1043360.md) | HTTP2 'unknownProtocol' cause Denial of Service by resource exhau | [Node.js](../by-program/nodejs.md) | Critical — CVSS 9.3 | — | 3 |
+| 944 | [894198](../reports/894198.md) | [H1-2006 2020]  Includes 1 free content discovery | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
+| 945 | [300081](../reports/300081.md) | SSL-protected Reflected XSS in https://m.uber.com/0-dfffb25d2cf6c | [Uber](../by-program/uber.md) | Critical — CVSS 9.1 | — | 3 |
+| 946 | [271360](../reports/271360.md) | [avito.ru] Утекают креды от платежных провайдеров | [Avito](../by-program/avito.md) | Critical | — | 3 |
+| 947 | [1068433](../reports/1068433.md) | 12 Days of CTF Walkthroughs | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
+| 948 | [3856148](../reports/3856148.md) | Low-privilege RCE in MariaDB: SYS_REFCURSOR cursor-array use-afte | [MariaDB](../by-program/mariadb.md) | Critical | — | 3 |
+| 949 | [878420](../reports/878420.md) | [windows-edge] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 3 |
+| 950 | [1066801](../reports/1066801.md) | Hacky Holidays CTF Writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical — CVSS 9.9 | — | 3 |
+| 951 | [3801107](../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum content in | [WordPress](../by-program/wordpress.md) | Critical — CVSS 9.3 | — | 3 |
+| 952 | [871071](../reports/871071.md) | [gfc] Command Injection via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 3 |
+| 953 | [1069189](../reports/1069189.md) | Grinch-Networks taken down - hacky holidays CTF  | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
+| 954 | [1028392](../reports/1028392.md) | CVE-2020-6287  https://redapi2.acronis.com | [Acronis](../by-program/acronis.md) | Critical | — | 3 |
+| 955 | [300080](../reports/300080.md) | SSL-protected Reflected XSS in https://m.uber.com/0-dfffb25d2cf6c | [Uber](../by-program/uber.md) | Critical — CVSS 9.1 | — | 3 |
+| 956 | [296701](../reports/296701.md) | SSL-protected Reflected XSS in m.uber.com | [Uber](../by-program/uber.md) | Critical — CVSS 10.0 | — | 3 |
+| 957 | [893395](../reports/893395.md) | [H1-2006 2020] CTF Writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
+| 958 | [300103](../reports/300103.md) | udi-id Query Parameter Can Generate SSL-protected Reflected XSS i | [Uber](../by-program/uber.md) | Critical — CVSS 9.1 | — | 3 |
+| 959 | [892337](../reports/892337.md) | [H1-2006 2020] [CTF Writeup] A story about Bounty Payments, Colla | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
+| 960 | [4152726](../reports/4152726.md) | Blind SQL Injection — IBM Training Course Search API | [IBM](../by-program/ibm.md) | Critical | — | 3 |
+| 961 | [434689](../reports/434689.md) | Global defaming of any twitter user | [X / xAI](../by-program/x.md) | Critical | — | 3 |
+| 962 | [1065517](../reports/1065517.md) | h1 hacky holidays CTF solution | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 3 |
+| 963 | [3729501](../reports/3729501.md) | Pre-authentication Stored XSS in Essity Customer-Service Pipeline | [Essity](../by-program/essity.md) | Critical — CVSS 9.4 | — | 3 |
+| 964 | [925324](../reports/925324.md) | [systeminformation] Command Injection via insecure command format | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 3 |
+| 965 | [226200](../reports/226200.md) | OP_SCALL in LHS of a OP_ASGN resulting in arbitrary memory write | [shopify-scripts](../by-program/shopify-scripts.md) | Critical | — | 3 |
+| 966 | [3778282](../reports/3778282.md) | Critical SQL Injection WDM API (████████) | [Essity](../by-program/essity.md) | Critical | — | 3 |
+| 967 | [806213](../reports/806213.md) | Sensitive Information Leaking Through DoD Owned Website. [███████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 3 |
+| 968 | [324491](../reports/324491.md) | `fs-path` concatenates unsanitized input into exec()/execSync() c | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.6 | — | 2 |
+| 969 | [330724](../reports/330724.md) | [serve] Directory listing and File access even when they have bee | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical — CVSS 9.3 | — | 2 |
+| 970 | [1438393](../reports/1438393.md) | ███ ████████ running a vulnerable log4j | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 2 |
+| 971 | [186393](../reports/186393.md) | Subdomain Takeover on OWOX.RU | [OWOX, Inc.](../by-program/owox.md) | Critical | — | 2 |
+| 972 | [1069467](../reports/1069467.md) | H1 Hackyholidays CTF - The Grinch was defeated | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 2 |
+| 973 | [895587](../reports/895587.md) | [H1-2006 2020] How I solved my first H1 CTF | [h1-ctf](../by-program/h1-ctf.md) | Critical — CVSS 9.0 | — | 2 |
+| 974 | [496219](../reports/496219.md) | █████ - Pre-generation of VIEWSTATE allows CAC bypass | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 2 |
+| 975 | [272979](../reports/272979.md) | 2 vulnerabilities of arbitrary code in ████████  - CVE-2017-5929 | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 2 |
+| 976 | [907311](../reports/907311.md) | [meemo-app] Denial of Service via LDAP Injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 2 |
+| 977 | [434202](../reports/434202.md) | Opportunity to post hidden comments | [X / xAI](../by-program/x.md) | Critical | — | 2 |
+| 978 | [694471](../reports/694471.md) | [create-git] RCE via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 2 |
+| 979 | [3619287](../reports/3619287.md) | RCE + Supply Chain Attack via pull_request_target in content-scop | [DuckDuckGo](../by-program/duckduckgo.md) | Critical | — | 2 |
+| 980 | [1068934](../reports/1068934.md) | [h1ctf-Grinch Networks] MrR3b00t Saving the Christmas | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 2 |
+| 981 | [4122039](../reports/4122039.md) | libcurl shared-HSTS-cache race leads to use-after-free with attac | [curl](../by-program/curl.md) | Critical | — | 2 |
+| 982 | [864354](../reports/864354.md) | [diskstats] Command Injection via insecure command concatenation | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 2 |
+| 983 | [1067090](../reports/1067090.md) | Mission completed. Grinch Networks is down and Christmas saved. | [h1-ctf](../by-program/h1-ctf.md) | Critical — CVSS 10.0 | — | 2 |
+| 984 | [184884](../reports/184884.md) | Subdomain Takeover on  http://blog.owox.com/ | [OWOX, Inc.](../by-program/owox.md) | Critical | — | 2 |
+| 985 | [816637](../reports/816637.md) | CVE-2020-10938-buffer overflow/out-of-bounds write in compress.c: | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.8 | — | 1 |
+| 986 | [4227402](../reports/4227402.md) | Multiple Vulnerabilities in curl/libcurl URL Parser (RFC3986 Comp | [curl](../by-program/curl.md) | Critical | — | 1 |
+| 987 | [3840113](../reports/3840113.md) | Mass PII Exposure: 120,000+ Consumer Email Addresses Leaked via A | [Essity](../by-program/essity.md) | Critical | — | 1 |
+| 988 | [854049](../reports/854049.md) | PulseSSL VPN Site with Compromised Creds @ ████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 1 |
+| 989 | [1069141](../reports/1069141.md) | Infiltrating into Grinch-Networks and saving Christmas! | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 1 |
+| 990 | [1066007](../reports/1066007.md) | Hacky Holidays CTF Writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 1 |
+| 991 | [1068434](../reports/1068434.md) | HackyHolidays 2020 Full Write-up: Information Disclosure of 12 Fl | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 1 |
+| 992 | [1065731](../reports/1065731.md) | Writeup Hackyholiday CTF | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 1 |
+| 993 | [972936](../reports/972936.md) | A specially crafted value for the 'Cache-Digest' header causing c | [BlockDev Sp. Z o.o](../by-program/makerdao_bbp.md) | Critical | — | 1 |
+| 994 | [1631364](../reports/1631364.md) | ██████_log4j - https://██████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 1 |
+| 995 | [4180338](../reports/4180338.md) | Unauthenticated API Writes  to Full IBM Software Access | [IBM](../by-program/ibm.md) | Critical | — | 1 |
+| 996 | [1067835](../reports/1067835.md) | Hacky Holidays Writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 1 |
+| 997 | [1631370](../reports/1631370.md) | solr_log4j - http://██████████ | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 1 |
+| 998 | [863956](../reports/863956.md) | [extra-asciinema] Command Injection via insecure command formatti | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 1 |
+| 999 | [887744](../reports/887744.md) | [H1-2006 2020]  Got the flag | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 1 |
+| 1000 | [1415825](../reports/1415825.md) | [CVE-2020-3452] Unauthenticated file read in Cisco ASA | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 1 |
+| 1001 | [973386](../reports/973386.md) | [curling] Remote Code Execution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 1 |
+| 1002 | [257276](../reports/257276.md) | Open aws s3 bucket s3://rubyci | [Ruby](../by-program/ruby.md) | Critical | — | 1 |
+| 1003 | [1066135](../reports/1066135.md) | Wholesome Hacky Holidays: A Writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 1 |
+| 1004 | [865168](../reports/865168.md) | [xps] Command Injection via insecure command concatenation | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 0 |
+| 1005 | [1069376](../reports/1069376.md) | [hackyholidays] CTF write-up | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 0 |
+| 1006 | [1069171](../reports/1069171.md) | [H1 hackyholidays] CTF Writeup | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 0 |
+| 1007 | [1066206](../reports/1066206.md) | [hacky-holidays] Grinch network is down | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 0 |
+| 1008 | [863944](../reports/863944.md) | [extra-ffmpeg] Command Injection via insecure command formatting | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 0 |
+| 1009 | [1069263](../reports/1069263.md) | First CTF ever! | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 0 |
+| 1010 | [973245](../reports/973245.md) | [imagickal] Remote Code Execution | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 0 |
+| 1011 | [1069388](../reports/1069388.md) | It's just a man on a mission | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 0 |
+| 1012 | [864777](../reports/864777.md) | [vboxmanage.js] Command Injection via insecure command concatenat | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 0 |
+| 1013 | [511459](../reports/511459.md) | [listening-processes] Command Injection | [Node.js third-party modules](../by-program/nodejs-ecosystem.md) | Critical | — | 0 |
+| 1014 | [1067530](../reports/1067530.md) | Successfully took down the Grinch and saved the holidays from bei | [h1-ctf](../by-program/h1-ctf.md) | Critical | — | 0 |
+| 1015 | [1326352](../reports/1326352.md) | Access to admininstrative resources/account via path traversal | [U.S. Dept Of Defense](../by-program/deptofdefense.md) | Critical | — | 0 |
+| 1016 | [510336](../reports/510336.md) | Uninitialized read in exif_process_IFD_in_TIFF | [Internet Bug Bounty](../by-program/ibb.md) | Critical — CVSS 9.8 | — | 0 |

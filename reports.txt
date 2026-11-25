@@ -12388,6 +12388,7 @@ https://hackerone.com/reports/3878586 | Unauthenticated team "income/payments" e
 https://hackerone.com/reports/3878649 | Reflected XSS via wrong permission check in conversion statistics
 https://hackerone.com/reports/3880451 | Privilege escalation via user controlled usernames / roles and views
 https://hackerone.com/reports/3882740 | All stored Slack and Teams credentials can be deleted via Management Console CSRF
+https://hackerone.com/reports/3883702 | DNS Rebinding Enables Unauthorized MCP Tool Access
 https://hackerone.com/reports/3883840 | Cross-agency disclosure in website listing
 https://hackerone.com/reports/3887969 | SSRF via URL Parser Differential in `normalize_request_url` (wlc)
 https://hackerone.com/reports/3889473 | @jitsi/docker-jitsi-meet: `/colibri-relay-ws/` unsafe nginx regex (OCTO relay configuration)
@@ -12397,6 +12398,7 @@ https://hackerone.com/reports/3890329 | Connector/C++ ignores allowMultiQueries 
 https://hackerone.com/reports/3890352 | Connector/C++ aborts client process on server session-tracking packet via std::stoi
 https://hackerone.com/reports/3891319 | Stack buffer overflow in 9 of 10 Connector/ODBC catalog functions via unbounded name
 https://hackerone.com/reports/3891337 | Connector/ODBC SQLGetDescRec treats descriptor handle as statement handle, heap OOB write on every call
+https://hackerone.com/reports/3891423 | Python Sandbox Escape in AWS MCP Server `run_script`
 https://hackerone.com/reports/3891779 | Connector/ODBC injects unquoted column names into positioned DELETE and UPDATE via MADB_DynStrGetWhere
 https://hackerone.com/reports/3892948 | Broken access control: any member can self-assign arbitrary BuddyPress member types via the ungated "types" REST parameter, bypassing the bp_moderate
 https://hackerone.com/reports/3893632 | Unauthenticated disclosure of draft/private/pending post titles & IDs via Secure Custom Fields nopriv AJAX field-query handlers (post_object/relations
@@ -12663,6 +12665,7 @@ https://hackerone.com/reports/4151790 | Public board pages are served Cache-Cont
 https://hackerone.com/reports/4152553 | Unauthenticated Disclosure of Private, Draft, and Password-Protected Post Content via Core Read-Permission Bypass in SCF Reference Fields
 https://hackerone.com/reports/4152726 | Blind SQL Injection — IBM Training Course Search API
 https://hackerone.com/reports/4166602 | Re-entrant curl_easy_pause UAF in cw-pause
+https://hackerone.com/reports/4172841 | Sensitive Access Tokens Logged in Server Log Files
 https://hackerone.com/reports/4175245 | Cross-account stored XSS on app.basecamp.com leads to persistent administrator takeover
 https://hackerone.com/reports/4177724 | curl 8.23.0 keeps sending requests to an HTTP/3 backend after Alt-Svc: clear
 https://hackerone.com/reports/4180338 | Unauthenticated API Writes  to Full IBM Software Access
