@@ -2456,7 +2456,7 @@
 | 2452 | [dara_7979](https://hackerone.com/dara_7979) | 1 | $0 | 60 |
 | 2453 | [jin](https://hackerone.com/jin) | 3 | $0 | 107 |
 | 2454 | [tuo4n8](https://hackerone.com/tuo4n8) | 3 | $0 | 11 |
-| 2455 | [khoof](https://hackerone.com/khoof) | 6 | $0 | 179 |
+| 2455 | [khoof](https://hackerone.com/khoof) | 7 | $0 | 183 |
 | 2456 | [unbaiat](https://hackerone.com/unbaiat) | 2 | $0 | 20 |
 | 2457 | [netboy](https://hackerone.com/netboy) | 1 | $0 | 25 |
 | 2458 | [candux](https://hackerone.com/candux) | 1 | $0 | 2 |

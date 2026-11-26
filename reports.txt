@@ -11936,6 +11936,7 @@ https://hackerone.com/reports/3486747 | SVG filter primitives bypass remote imag
 https://hackerone.com/reports/3487952 | State Isolation Failure in Multiplexed Connections (Shared Auth Context)
 https://hackerone.com/reports/3488278 | MQTT: Missing upper bound on incoming Remaining Length allows server-controlled long wait
 https://hackerone.com/reports/3489490 | Authentication Bypass in ID4me handling via Missing JWT Signature Verification in User OIDC
+https://hackerone.com/reports/3490059 | Unicode RTLO character allowed in uploaded filenames leading to executable file upload and misleading UI handling in Nextcloud Notes
 https://hackerone.com/reports/3493602 | Stack Buffer Overflow in mprintf.c formatting function (fallback path)
 https://hackerone.com/reports/3494098 | inconsistently Rejection Logic in file:// URLs with Authority
 https://hackerone.com/reports/3506159 | Heap Out-of-Bounds Read in lib/http2.c via Malformed PUSH_PROMISE Headers

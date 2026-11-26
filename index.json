@@ -233159,6 +233159,25 @@
     "votes": 14
   },
   {
+    "id": 3490059,
+    "url": "https://hackerone.com/reports/3490059",
+    "title": "Unicode RTLO character allowed in uploaded filenames leading to executable file upload and misleading UI handling in Nextcloud Notes",
+    "visibility": "full",
+    "program": "Nextcloud",
+    "program_handle": "nextcloud",
+    "reporter": "khoof",
+    "severity": "medium",
+    "cvss": 4.3,
+    "weakness": "Violation of Secure Design Principles",
+    "bounty": null,
+    "cve_ids": [],
+    "substate": "resolved",
+    "asset_type": "SOURCE_CODE",
+    "reported_at": "2026-01-07",
+    "disclosed_at": "2026-11-26T12:54:21.221Z",
+    "votes": 4
+  },
+  {
     "id": 3493602,
     "url": "https://hackerone.com/reports/3493602",
     "title": "Stack Buffer Overflow in mprintf.c formatting function (fallback path)",
